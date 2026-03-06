@@ -22,6 +22,9 @@ backup-folder-name = Aisig { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Lethbhreac-glèidhidh dhe { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Lethbhreac-glèidhidh
+    .description = Dìon na comharran-lìn, an eachdraidh ’s an còrr dhen dàta agad gu fèin-obrachail.
 settings-data-backup-header = Lethbhreac-glèidhidh
 settings-data-backup-toggle = Stiùirich na lethbreacan-glèidhidh
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Tha na lethbhreacan-glèidhidh AIR
 settings-data-backup-scheduled-backups-off = Tha na lethbhreacan-glèidhidh DHETH
 settings-data-backup-scheduled-backups-description = Dìon na comharran-lìn, an eachdraidh is dàta eile agad gu fèin-obrachail. <a data-l10n-name="support-link">Barrachd fiosrachaidh</a>
 settings-data-backup-last-backup-date = An lethbhreac-glèidhidh mu dheireadh: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Tha na lethbhreacan-glèidhidh AIR
+settings-data-backup-scheduled-backups-off2 =
+    .label = Tha na lethbhreacan-glèidhidh DHETH
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Ionad nan lethbhreacan-glèidhidh
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Ionad
 settings-data-backup-last-backup-location-show-in-folder = Seall sa phasgan
 settings-data-backup-last-backup-location-edit = Deasaich…
 settings-data-create-backup-error = Cha b’ urrainn dhuinn an lethbhreac-glèidhidh agad a chruthachadh { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Dèan lethbhreac-glèidhidh dhe na faclan-faire is dòighean-pàighidh agus cùm an dàta agad sàbhailte le bhith ga chrioptachadh.
+settings-data-toggle-encryption-label2 =
+    .label = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
+    .description = Dèan lethbhreac-glèidhidh dhe na faclan-faire ’s dòighean pàighidh agad is cùm an dàta air fad agad le bhith ga chrioptachadh.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ainm an fhaidhle: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Aisig an dàta agad
+    .description = Aisig an dàta { -brand-product-name } agad mar a bha e an turas mu dheireadh a rinn thu lethbhreac-glèidhidh dheth.
+settings-data-backup-restore-scheduled-off =
+    .label = Aisig an dàta agad
+    .description = Cleachd lethbhreac-glèidhidh { -brand-product-name } o uidheam eile airson an dàta agad aiseag.
 settings-data-backup-restore-header = Aisig an dàta agad
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Tagh faidhle lethbhr
 
 settings-data-backup-scheduled-backups-on-restore-description = Aisig an dàta { -brand-product-name } agad on lethbhreac-ghlèidhidh mu dheireadh a rinn thu.
 settings-data-backup-scheduled-backups-on-restore-choose = Aisig…
+settings-sensitive-data =
+    .label = Dàta dìomhair
 settings-data-toggle-encryption-label = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
 settings-data-toggle-encryption-support-link = Barrachd fiosrachaidh
+settings-data-change-password2 =
+    .label = Atharraich am facal-faire
 settings-data-change-password = Atharraich am facal-faire…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Cuir dheth agus sguab an lethbhreac-
 restore-from-backup-header = Aisig an dàta agad
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Dè thèid aiseag?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Thèid an lethbhreac-glèidhidh agad on { DATETIME($date, timeStyle: "short", dateStyle: "short") } a chur an àite an dàta { -brand-short-name } làithrich agad.
 restore-from-backup-support-link =
@@ -119,6 +145,12 @@ restore-from-backup-password-description = Bheir seo a’ ghlas far an lethbhric
 restore-from-backup-cancel-button = Sguir dheth
 restore-from-backup-confirm-button = Aisig is ath-thòisich
 restore-from-backup-restoring-button = Ga aiseag…
+restore-from-backup-type-group-label =
+    .label = A bheil thu airson a chur an àite na pròifil làithreach?
+restore-from-backup-type-replace =
+    .label = Cuir an lethbhreac-glèidhidh an àite an dàta seo air fad
+restore-from-backup-type-add =
+    .label = Cùm an dàta ’s cruthaich pròifil ùr
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
