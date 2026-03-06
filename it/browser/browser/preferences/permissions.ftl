@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Blocca nuove richieste di accesso alla fotocamera
 permissions-site-camera-disable-desc = Verrà impedito a qualunque sito web non presente nell’elenco di richiedere il permesso di accedere alla fotocamera. L’impossibilità di accedere al dispositivo potrebbe comportare il malfunzionamento di alcuni siti web.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Impostazioni - App e servizi del dispositivo
