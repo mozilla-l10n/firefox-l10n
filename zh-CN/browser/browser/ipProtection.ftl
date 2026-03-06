@@ -122,6 +122,8 @@ ip-protection-site-exceptions-all-sites-button =
     .description = { $count } 个网站
 ip-protection-autostart =
     .label = 自动开启 VPN
+ip-protection-autostart-checkbox =
+    .label = 打开 { -brand-short-name } 时
 ip-protection-autostart-private-checkbox =
     .label = 在隐私窗口中
 
@@ -149,6 +151,9 @@ ip-protection-bandwidth-left-this-month-mb = 本月剩余 { $usageLeft } MB / { 
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-mb = 剩余 { $usageLeft } MB / { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
 
 ## IP Protection bandwidth reset callout
 

@@ -684,7 +684,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Rhestr newydd
 newtab-widget-section-title = Teclynnau
-newtab-widget-menu-hide = Cuddio teclyn
+newtab-widget-menu-hide = Cuddio'r teclyn
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Cuddio teclynnau

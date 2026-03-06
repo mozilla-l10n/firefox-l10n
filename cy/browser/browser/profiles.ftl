@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Mae eich copi o { $profilename } yn barod i'w gyfaddasu
 copied-profile-page-header-description = Rydym wedi copïo'ch data a'ch gosodiadau i broffil newydd. Nawr rhowch enw iddo, dewiswch olwg, a'i ddefnyddio fel eich un chi.
+restored-profile-page-header = Cyfaddasu eich proffil wedi'i adfer
+restored-profile-page-header-description = Mae pob proffil yn cadw ei hanes pori a gosodiadau unigryw ar wahân i'ch proffiliau eraill. Hefyd, mae diogelu preifatrwydd cryf { -brand-short-name } ymlaen fel rhagosodiad.
+restored-profile-page-learn-more = Dysgu rhagor
 profile-window-title-2 = { -brand-short-name } - Dewis proffil
 profile-window-logo =
     .alt = Logo { -brand-short-name }
