@@ -54,9 +54,18 @@ settings-data-backup-last-backup-location-show-in-folder = Ehechauka marandurend
 settings-data-backup-last-backup-location-edit = Mbosako’i…
 settings-data-create-backup-error = Oiko jejavy eñongatu jey pyahúvo pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Eñongatu jey ñe’ẽñemi tekorosãrã ha jehepyme’ẽrã, avei ereko hag̃ua ne mba’ekuaarã papapýpe.
+settings-data-toggle-encryption-label2 =
+    .label = Eñongatu jey ne mba’ekuaarã ñemigua
+    .description = Eñongatu jey ne ñe’ẽñemi ha jehepyme’ẽrã, avei ereko ne mba’ekuaarãita tekorosãme mbopapapy ndive.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Marandurenda réra: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Erujey mba’ekuaarãita
+    .description = Eguerujey mba’ekuaarãita { -brand-product-name } eñengatu jey rire tekorosãverã.
+settings-data-backup-restore-scheduled-off =
+    .label = Eru jey mba’ekuaarãita
+    .description = Eiporu ñongatu jey { -brand-product-name } mba’e ambue mba’e’oka eru jey hag̃ua ne mba’ekuaarãita.
 settings-data-backup-restore-header = Erujey mba’ekuaarãita
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -70,7 +79,7 @@ settings-data-backup-scheduled-backups-on-restore-description = Eguerujey ne mba
 settings-data-backup-scheduled-backups-on-restore-choose = Mbojevyjey…
 settings-sensitive-data =
     .label = Mba’ekuaarã oñandúva
-settings-data-toggle-encryption-label = Eñengatu jey ne mba’ekuaarã ñemigua
+settings-data-toggle-encryption-label = Eñongatu jey ne mba’ekuaarã ñemigua
 settings-data-toggle-encryption-support-link = Kuaave
 settings-data-change-password2 =
     .label = Emoambue ñe’ẽñemi
@@ -92,7 +101,7 @@ turn-on-scheduled-backups-location-choose-button =
         [macos] Poravo…
        *[other] Kundaha…
     }
-turn-on-scheduled-backups-encryption-label = Eñengatu jey ne mba’ekuaarã ñemigua
+turn-on-scheduled-backups-encryption-label = Eñongatu jey ne mba’ekuaarã ñemigua
 turn-on-scheduled-backups-encryption-create-password-label = Ñe’ẽñemi
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Emoingejey ñe’ẽñemi
@@ -182,7 +191,7 @@ backup-service-error-went-wrong2 =
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
-enable-backup-encryption-header = Eñengatu jey ne mba’ekuaarã ñemigua
+enable-backup-encryption-header = Eñongatu jey ne mba’ekuaarã ñemigua
 enable-backup-encryption-support-link = Eikuaave
 enable-backup-encryption-create-password-label = Ñe’ẽñemi
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
