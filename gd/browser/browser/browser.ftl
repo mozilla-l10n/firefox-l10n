@@ -843,6 +843,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsairichte
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Faighnich
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -858,6 +860,63 @@ urlbar-result-realtime-opt-in-not-now = Chan ann an-dràsta
 urlbar-result-realtime-opt-in-dismiss = Leig seachad
 urlbar-result-realtime-opt-in-dismiss-all =
     .label = Na seall na molaidhean seo
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = Na seall molaidhean na margaide
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = Mòran taing airson do bheachdan. Cha mhol sinn fiosrachadh nam margaidean dhut tuilleadh.
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = Mòran taing airson do bheachdan. Cha mhol sinn stuth dhut tuilleadh.
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · Ann an { $daysUntilStart } latha
+        [two] { $name } · Ann an { $daysUntilStart } latha
+        [few] { $name } · Ann an { $daysUntilStart } làithean
+       *[other] { $name } · Ann an { $daysUntilStart } latha
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · Tòisichidh e ann an { $daysUntilStart } latha
+        [two] { $name } · Tòisichidh e ann an { $daysUntilStart } latha
+        [few] { $name } · Tòisichidh e ann an { $daysUntilStart } làithean
+       *[other] { $name } · Tòisichidh e ann an { $daysUntilStart } latha
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · Thig e gu crìoch ann an { $daysUntilEnd } latha
+        [two] { $name } · Thig e gu crìoch ann an { $daysUntilEnd } latha
+        [few] { $name } · Thig e gu crìoch ann an { $daysUntilEnd } làithean
+       *[other] { $name } · Thig e gu crìoch ann an { $daysUntilEnd } latha
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · An-diugh
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · Thig e gu crìoch an-diugh
 
 ## Strings used for buttons in the urlbar
 
@@ -896,6 +955,8 @@ urlbar-searchmode-popup-description-menucaption =
 urlbar-searchmode-popup-description = Dèan lorg leis na leanas an turas seo:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Roghainnean luirg
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Ùr
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.
@@ -946,6 +1007,9 @@ urlbar-group-recent-searches =
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
     .label = A’ treandadh air { $engine }
+# Label shown above sponsored suggestions in the urlbar results.
+urlbar-group-sponsored =
+    .label = Sponsairichte
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = Na seall luirg a tha a’ treandadh
@@ -1407,3 +1471,4 @@ trustpanel-blocker-header =
 
 trustpanel-blocker-description = Tha { -brand-product-name } dhen bheachd nach bu chòir do chompanaidhean a bhith gad dhlùth-leantainn. Ri linn sin, bacaidh sin na ’s urrainn dhuinn dhiubh.
 trustpanel-blocked-header = Bhac { -brand-product-name } na leanas dhut:
+trustpanel-tracking-header = Cheadaich { -brand-product-name } na leanas airson ’s nach bris làraichean-lìn:
