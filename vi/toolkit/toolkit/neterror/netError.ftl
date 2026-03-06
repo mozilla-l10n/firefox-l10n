@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Hãy thử đổi URL sang
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Đôi khi các trang web thiết lập các biện pháp bảo vệ cho chính họ từ các tương tác không mong muốn với các trang web khác.
 fp-learn-more-about-https-connections = Tìm hiểu về kết nối HTTPS
+fp-neterror-vpn-error-title = Không thể kết nối tới VPN
+fp-neterror-vpn-error-description = Hãy thử lại sau vài phút.

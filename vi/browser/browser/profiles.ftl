@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Bản sao { $profilename } của bạn đã sẵn sàng để tùy chỉnh
 copied-profile-page-header-description = Chúng tôi đã sao chép dữ liệu và cài đặt của bạn vào một hồ sơ mới. Bây giờ, hãy đặt tên, chọn giao diện và biến nó thành của riêng bạn.
+restored-profile-page-header = Tùy chỉnh hồ sơ đã khôi phục của bạn
+restored-profile-page-header-description = Mỗi hồ sơ giữ lịch sử duyệt web và cài đặt riêng biệt với các hồ sơ khác của bạn. Thêm vào đó, chế độ bảo vệ quyền riêng tư mạnh mẽ của { -brand-short-name } vẫn được bật theo mặc định.
+restored-profile-page-learn-more = Tìm hiểu thêm
 profile-window-title-2 = { -brand-short-name } - Chọn một hồ sơ
 profile-window-logo =
     .alt = Logo { -brand-short-name }

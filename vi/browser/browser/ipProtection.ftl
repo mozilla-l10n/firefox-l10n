@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Hãy kết nối inte
 ipprotection-message-bandwidth-warning =
     .heading = Sắp đạt đến giới hạn VPN của bạn
     .message = Bạn còn { $usageLeft } GB dữ liệu trong tổng số { $maxUsage } GB để sử dụng trong tháng này.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Sắp đạt đến giới hạn VPN của bạn
+    .message = Bạn còn { $usageLeft } MB dữ liệu của { $maxUsage } GB tháng này.
 ipprotection-message-continuous-onboarding-intro = Bật VPN để ẩn vị trí của bạn và tăng cường mã hóa cho hoạt động duyệt web.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Đặt VPN để bật</a> mỗi khi bạn mở { -brand-short-name } để có thêm một lớp bảo vệ.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } sẽ ghi nhớ những trang web bạn đã thiết lập để sử dụng VPN. Cập nhật các thiết lập này trong <a data-l10n-name="setting-link">cài đặt</a> bất cứ lúc nào.

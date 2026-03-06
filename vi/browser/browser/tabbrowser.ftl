@@ -379,6 +379,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Tách các thẻ
     .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Đảo ngược thẻ
+    .accesskey = r
 tab-context-badge-new = Mới
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
