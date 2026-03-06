@@ -250,7 +250,7 @@ annotations-make-default-pdf-next-label = Weiter
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Planen Sie die Anschaffung eines neuen Geräts?
-fxa-sync-cfr-body = Stellen Sie sicher, dass Sie Ihre neuesten Lesezeichen, Passwörter und Tabs immer dabei haben, wenn Sie einen neuen { -brand-product-name }-Browser öffnen.
+fxa-sync-cfr-body = Stellen Sie sicher, dass Sie Ihre neuesten Lesezeichen, Passwörter und Tabs immer dabeihaben, wenn Sie einen neuen { -brand-product-name }-Browser öffnen.
 fxa-sync-cfr-primary = Weitere Informationen
     .accesskey = W
 fxa-sync-cfr-secondary = Später erinnern

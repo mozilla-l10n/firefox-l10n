@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = 添加项目
+storage-delete-all-button =
+    .title = 全部删除
 # Refresh button title
 storage-refresh-button =
     .title = 刷新项目
