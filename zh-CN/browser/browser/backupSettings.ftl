@@ -38,6 +38,10 @@ settings-data-backup-scheduled-backups-on = 备份：已开启
 settings-data-backup-scheduled-backups-off = 备份：已关闭
 settings-data-backup-scheduled-backups-description = 自动保护您的书签、历史记录等数据。<a data-l10n-name="support-link">详细了解</a>
 settings-data-backup-last-backup-date = 上次备份：{ DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = 备份：已开启
+settings-data-backup-scheduled-backups-off2 =
+    .label = 备份：已关闭
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = 位置
 settings-data-backup-last-backup-location-show-in-folder = 在文件夹中显示
