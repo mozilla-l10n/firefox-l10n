@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Трымайц
 experimental-features-semantic-history-search =
     .label = Семантычны пошук у гісторыі
 experimental-features-semantic-history-search-description = Выкарыстоўвайце лакальную мадэль машыннага навучання, каб прапаноўваць запісы з гісторыі, звязаныя з вашымі пошукамі, на аснове разумення натуральнай мовы ў адрасным радку { -brand-product-name }. <a data-l10n-name="connect">Падзяліцца водгукам</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Нататкі да картак
+experimental-features-tab-notes-description = Нататкі да картак — гэта эксперыментальная функцыя, якая дазваляе дадаваць нататкі на карткі браўзера. Запісвайце кантэкст, напаміны ці наступныя крокі, каб потым вярнуцца і ўспомніць, чаму вы яе адкрылі. Мы будзем рады вашым водгукам, бо мы працягваем удасканальваць гэту функцыю. <a data-l10n-name="connect">Падзяліцеся водгукам</a>
