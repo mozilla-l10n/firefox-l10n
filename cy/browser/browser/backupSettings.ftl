@@ -63,6 +63,9 @@ settings-data-backup-last-backup-filename = Enw ffeil: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = Adfer eich data
     .description = Adferwch eich data { -brand-product-name } o'r tro diwethaf cafodd ei gadw wrth gefn.
+settings-data-backup-restore-scheduled-off =
+    .label = Adfer eich data
+    .description = Defnyddio copi wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data
 settings-data-backup-restore-header = Adfer eich data
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -74,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Dewiswch ffeil wrth 
 
 settings-data-backup-scheduled-backups-on-restore-description = Adferwch eich data { -brand-product-name } o'r tro diwethaf iddo gael ei wneud wrth gefn.
 settings-data-backup-scheduled-backups-on-restore-choose = Wthi'n adfer…
+settings-sensitive-data =
+    .label = Data sensitif
 settings-data-toggle-encryption-label = Gwnewch gopi wrth gefn o'ch data sensitif
 settings-data-toggle-encryption-support-link = Dysgu rhagor
+settings-data-change-password2 =
+    .label = Newid cyfrinair
 settings-data-change-password = Newid cyfrinair…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -118,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Diffodd a dileu copïo wrth gefn
 restore-from-backup-header = Adfer eich data
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Beth fydd yn cael ei adfer?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Bydd hyn yn amnewid eich holl ddata { -brand-short-name } cyfredol gyda'ch copi wrth gefn o { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -135,6 +145,13 @@ restore-from-backup-password-description = Mae hwn yn datgloi eich copi wrth gef
 restore-from-backup-cancel-button = Diddymu
 restore-from-backup-confirm-button = Adfer ac ailgychwyn
 restore-from-backup-restoring-button = Wrthi'n adfer…
+restore-from-backup-type-group-label =
+    .label = Disodli'r proffil cyfredol?
+restore-from-backup-type-replace =
+    .label = Disodli'r holl ddata gyda'r copi wrth gefn hwn
+restore-from-backup-type-add =
+    .label = Cadw'r data a chreu proffil newydd
+restore-from-backup-profiles-disabled-message = Bydd hyn yn disodli eich holl ddata { -brand-short-name } cyfredol gyda'ch copi wrth gefn.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -264,6 +281,15 @@ other-backup-files-founds =
         [many] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeil wrth gefn arall
        *[other] <b>Sylw:</b> Wedi canfod { $numberOfOtherBackupsFound } ffeil wrth gefn arall
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Crëwyd ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ar { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Wedi'i adfer o { $deviceName } ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } am { DATETIME($date, hour: "2-digit", minutes: " 2-digid") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

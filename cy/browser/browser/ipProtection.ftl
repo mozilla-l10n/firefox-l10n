@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Cysylltwch â'r rhyng
 ipprotection-message-bandwidth-warning =
     .heading = Mae'n dod yn agos at derfyn eich VPN
     .message = Mae gennych { $usageLeft } GB o { $maxUsage } GB ar ôl mis yma
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Dod yn agos at eich terfyn VPN
+    .message = Mae gennych chi { $usageLeft } MB o { $maxUsage } GB ar ôl mis yma.
 ipprotection-message-continuous-onboarding-intro = Trowch y VPN ymlaen i guddio'ch lleoliad ac ychwanegu amgryptio ychwanegol at eich pori.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Gosod y VPN i droi ymlaen</a> bob tro byddwch yn agor { -brand-short-name } am haen ychwanegol o ddiogelwch.
 ipprotection-message-continuous-onboarding-site-settings = Bydd { -brand-short-name } yn cofio pa wefannau rydych chi wedi'u gosod i ddefnyddio'r VPN. Diweddarwch y rhain yn y  <a data-l10n-name="setting-link">gosodiadau</a> ar unrhyw bryd.
