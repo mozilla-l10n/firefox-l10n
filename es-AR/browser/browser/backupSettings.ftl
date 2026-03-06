@@ -57,6 +57,9 @@ settings-sensitive-data-encryption-description = Haga una copia de seguridad de 
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaurar los datos
+    .description = Recupere los datos de { -brand-product-name } desde la última vez que se hizo una copia de seguridad.
 settings-data-backup-restore-scheduled-off =
     .label = Restaurar los datos
     .description = Use una copia de seguridad de { -brand-product-name } desde otro dispositivo para restaurar los datos.

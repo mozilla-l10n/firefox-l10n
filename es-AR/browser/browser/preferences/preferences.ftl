@@ -2170,11 +2170,16 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group2 =
+    .label = Protección contra contenido engañoso y software peligroso
+    .description = Sitios peligrosos y descargas pueden poner datos y dispositivos en riesgo. { -brand-short-name } los bloquea automáticamente y advierte sobre software riesgoso o no deseado.
 security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
     .accesskey = B
 security-enable-safe-browsing-link = Conocer más
+security-safe-browsing-warning =
+    .message = Deshabilitar esto reduce la protección contra estafas, sitios maliciosos y descargas peligrosas.
 security-block-downloads =
     .label = Bloquear descargas peligrosas
     .accesskey = D
@@ -2302,8 +2307,40 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Protección predeterminada
     .description = Usar DNS seguro en regiones donde esté disponible.
+preferences-doh-advanced-button =
+    .label = Opciones avanzadas
+preferences-doh-manage-exceptions2 =
+    .label = Administrar excepciones
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Predeterminado
+    .description = Usar DNS seguro en regiones donde esté disponible.
 preferences-doh-fallback-label =
     .label = Avisarme siempre si el DNS seguro no está disponible
+preferences-doh-status-item-off =
+    .message = DNS sobre HTTPS está desactivado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS sobre HTTPS no está funcionando porque encontramos un error ({ $reason }) al intentar usar el proveedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS sobre HTTPS no está funcionando porque recibimos una URL inválida ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS sobre HTTPS está usando el proveedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS sobre HTTPS no está funcionando porque encontramos un error ({ $reason }) al intentar usar el proveedor local { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS sobre HTTPS está usando el proveedor local { $name }
 preferences-doh-select-resolver-label =
     .label = Seleccionar proveedor:
 # Variables:
@@ -2385,6 +2422,8 @@ security-privacy-status-ok-header = { -brand-short-name } está en guardia
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } recomienda algunas mejoras de seguridad
 security-privacy-status-ok-label = Protección contra rastreo aumentada activada
+security-privacy-status-problem-label = Encontramos configuraciones que afectan la protección
+security-privacy-status-problem-helper-label = Ver problemas
 security-privacy-status-update-button-label =
     .label = Actualizar { -brand-short-name }
 security-privacy-image-warning =
