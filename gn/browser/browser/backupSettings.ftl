@@ -151,6 +151,7 @@ restore-from-backup-type-replace =
     .label = Emyengoviapaite mba’ekuaarãita ko ñongatujey ndive
 restore-from-backup-type-add =
     .label = Erekomeme mba’ekuaarã ha emoheñói mba’ete pyahu
+restore-from-backup-profiles-disabled-message = Kóva omyengoviáta mba’ekuaarãita { -brand-short-name } mba’e ñongatu jey tekorosãrã ndive.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile

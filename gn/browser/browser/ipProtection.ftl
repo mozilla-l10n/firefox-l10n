@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Eike ñandutípe, up�
 ipprotection-message-bandwidth-warning =
     .heading = Og̃uahẽma VPN hu’ãme
     .message = Ereko { $usageLeft } GB { $maxUsage } GB hembýva ko jasýpe.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Og̃uahẽma ko VPN hu’ãme
+    .message = Ereko { $usageLeft } MB { $maxUsage } rehegua GB hembýva ko jasýpe.
 ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag̃ua tendaite ha embojuaju kundahára mbopapapyve.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Emboheko VPN ikatu hag̃uáicha hendy</a> oñembojuruja nove { -brand-short-name } peteĩ ñemo’ãverã.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } imandu’áta mba’e ñanduti roguépa oñemboheko oiporu hag̃ua VPN. Embohekopyahu <a data-l10n-name="setting-link">ñemboheko</a> ejapose vove.

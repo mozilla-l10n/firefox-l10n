@@ -636,6 +636,8 @@ newtab-report-cancel = Heja
 newtab-report-submit = Mondo
 newtab-toast-thanks-for-reporting =
     .message = Aguyje emomarandu haguére.
+newtab-toast-widgets-hidden =
+    .message = Eiporavo ta’ãnga’i haiháva embojuaju jey hag̃ua widgets eipota vove.
 
 ## Strings for task / to-do list productivity widget
 
