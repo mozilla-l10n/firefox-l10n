@@ -46,7 +46,7 @@ ip-protection-exceptions-dialog-window =
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = ყოველთვიური VPN-მიმოცვლა
+ip-protection-bandwidth-header = ყოველთვიური VPN-მოცულობა
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -65,7 +65,25 @@ ip-protection-bandwidth-left-this-month-mb = ამ თვეში დარჩ
 ip-protection-bandwidth-left-mb = დარჩა { $usageLeft } ᲛᲑ, სულ { $maxUsage } ᲒᲑ
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-hit-for-the-month = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მონაცემიდან. წვდომა აღდგება შემდეგი თვიდან.
+ip-protection-bandwidth-hit-for-the-month = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მოცულობიდან. წვდომა აღდგება შემდეგი თვიდან.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = აღდგება { $maxUsage } ᲒᲑ ყოველი თვის პირველ რიცხვში.
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } ᲒᲑ VPN-მონაცემები, განახლებულია და მზადაა გამოსაყენებლად
+ipprotection-bandwidth-reset-text = ჩართეთ VPN კიდევ უფრო მეტი პირადულობისთვის, უფასოდ ყოველთვიურად.
+ipprotection-bandwidth-reset-button = გასაგებია
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN შეჩერებულია
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მოცულობიდან. VPN-წვდომა აღდგება შემდეგი თვიდან.
+vpn-paused-alert-close-tabs-button = ყველა ჩანართის დახურვა
+vpn-error-alert-title = VPN ამჟამად არ მუშაობს.
+vpn-error-alert-body = სცადეთ მოგვიანებით.

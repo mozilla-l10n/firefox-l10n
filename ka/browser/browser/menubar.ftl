@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = პარამეტრები
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = პარამეტრები…
 menu-application-services =
     .label = მომსახურებები
 menu-application-hide-this =

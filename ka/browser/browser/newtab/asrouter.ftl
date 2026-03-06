@@ -422,3 +422,13 @@ etp-strict-exceptions-infobar-button = გამოსწორება
     .accesskey = წ
 etp-strict-exceptions-infobar-not-now = ახლა არა
     .accesskey = რ
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } ნაგულისხმევი ბრაუზერი არაა
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } თქვენი ძირითადი ბრაუზერი არაა
+set-default-menu-message-row-layout-title = აქციეთ { -brand-short-name } თქვენს ძირითად ბრაუზერად
+set-default-menu-message-row-layout-title-variant = აქციეთ { -brand-short-name } თქვენს ნაგულისხმევ ბრაუზერად
+set-default-menu-message-row-layout-subtitle = სისწრაფე, უსაფრთხოება და პირადულობა, გვერდების ყოველი მონახულებისას.
+set-default-menu-message-primary-button = ნაგულისხმევად დაყენება
+set-default-menu-message-primary-button-variant = ძირითად ბრაუზერად დაყენება
