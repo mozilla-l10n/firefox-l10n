@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = 网站隐私首选项
+do-not-track-removal3 =
+    .message = 我们已不再支持“请勿追踪”功能。
+non-technical-privacy-heading =
+    .label = 更多保护
+preferences-privacy-relay-available =
+    .label = 建议使用 { -relay-brand-name } 马甲邮箱
+    .description = 隐藏真实邮箱地址，保护收件箱免受垃圾邮件侵扰。
 non-technical-privacy-header = 网站隐私首选项
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -527,6 +534,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = 下载字典
+spellcheck-promo =
+    .heading = 如何使用拼写检查
+    .message = 右键点击文本字段可开关拼写检查或更改语言。并非所有字段都支持拼写检查。
 
 ## General Section - Files and Applications
 
@@ -566,9 +576,11 @@ applications-filter =
 applications-type-column =
     .label = 内容类型
     .accesskey = T
+applications-type-heading = 内容类型
 applications-action-column =
     .label = 操作
     .accesskey = A
+applications-action-heading = 操作
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } 文件
@@ -782,6 +794,9 @@ network-proxy-connection-learn-more = 详细了解
 network-proxy-connection-settings =
     .label = 设置…
     .accesskey = e
+network-proxy-group2 =
+    .label = 代理设置
+    .description = 配置 { -brand-short-name } 连接互联网的方式。
 network-proxy-connection-settings2 =
     .label = 配置代理
     .description = 更改这些设置可能会导致连接问题

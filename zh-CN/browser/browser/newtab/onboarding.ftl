@@ -527,6 +527,7 @@ restore-from-backup-secondary-top-button = 从备份恢复
 restore-from-backup-title = 按您需要，取回熟悉的 { -brand-short-name } 体验
 restore-from-backup-subtitle = 恢复您的所有书签、历史记录和其他数据，立即接续浏览。
 restore-from-backup-secondary-button = 不恢复
+multiple-backups-info-tile = <strong>发现多个备份文件。</strong>已选中最近的文件。如需还原其他配置文件，请前往<a data-l10n-name="settings-label">设置</a>。
 
 ## Restored from Backup spotlight
 
