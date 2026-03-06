@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Brabhsadh prìobhaideach
+popups-infobar-dont-show-message2 =
+    .label = Na seall an teachdaireachd seo nuair a bhios priob-uinneagan no ath-stiùireadh le treas-phàrtaidh air am bacadh
+    .accesskey = d
+edit-popup-settings2 =
+    .label = Stiùirich roghainnean phriob-uinneagan is ath-stiùireadh le treas-phàrtaidhean…
+    .accesskey = S
 
 ##
 
@@ -146,6 +152,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Fosgail panail nan teachdaireachdan
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Fosgail panail iarrtasan an ionaid
+urlbar-localhost-notification-anchor =
+    .tooltiptext = Stiùirich cead-inntrigeadh uidheaman ionadail dhan làrach
 urlbar-xr-notification-anchor =
     .tooltiptext = Cleachd panail ceadan na fìorachd bhiortail
 urlbar-storage-access-anchor =
