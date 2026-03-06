@@ -661,6 +661,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Cuir ann lorg no seòladh
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = Cuir a-steach seòladh
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -734,12 +738,15 @@ urlbar-result-action-search-in-private = Lorg am broinn uinneag phrìobhaideach
 urlbar-result-action-search-w-engine = Lorg le { $engine }
 urlbar-result-action-sponsored = Sponsairichte
 urlbar-result-action-switch-tab = Gearr leum gun taba
+urlbar-result-action-move-tab-to-split-view = Gluais an taba chun an t-seallaidh sgoilte
 urlbar-result-action-visit = Tadhail air
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = Leum gun taba · <span>{ $container }</span>
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = Buidheann gun ainm
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = Tadhail air on stòr-bhòrd
 # Directs a user to press the Tab key to perform a search with the specified
@@ -771,6 +778,14 @@ urlbar-result-action-copy-to-clipboard = Dèan lethbhreac
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = gun deifinisean
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Leudachan { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Na mholamaid
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -788,6 +803,61 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> an-seo: { $city }, { $region }
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> an-seo: { $city }, { $region }, { $country }
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> an-seo: { $city }
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · Sponsairichte
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = Faigh dàta mu mhargaid nan stocan ann am bàr nan lorg fhèin
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Seall naidheachdan na margaide is mòran a bharrachd o na com-pàirtichean againn is tu a’ co-roinneadh dàta nan lorg agad le { -vendor-short-name }. <a data-l10n-name="learn-more-link">Barrachd fiosrachaidh</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = Seall na molaidhean
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = Chan ann an-dràsta
+urlbar-result-realtime-opt-in-dismiss = Leig seachad
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = Na seall na molaidhean seo
 
 ## Strings used for buttons in the urlbar
 
@@ -815,6 +885,8 @@ urlbar-searchmode-actions =
     .label = Gnìomhan
 urlbar-searchmode-exit-button =
     .tooltiptext = Dùin
+urlbar-searchmode-default =
+    .tooltiptext = An t-einnsean-luirg bunaiteach
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
@@ -1284,6 +1356,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Seall “{ $popupURI }”
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = Seall “{ $redirectURI }”
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -1305,3 +1381,29 @@ file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’
 file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
+
+## The urlbar trust icon & panel
+
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = Falamhaich na briosgaidean is dàta na làraich airson { $host }
+trustpanel-clear-cookies-description = Ma bheir thu air falbh briosgaidean is dàta na làraich, dh’fhaodte gun tèid do chlàradh a-mach à làraichean-lìn agus gun tèid cairtean seopadaireachd fhalamhachadh.
+trustpanel-clear-cookies-subview-button-clear = Falamhaich
+trustpanel-clear-cookies-subview-button-cancel = Sguir dheth
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = Dìon a’ cheangail airson { $host }
+trustpanel-siteinformation-morelink = Barrachd fiosrachaidh mun làrach
+trustpanel-blocker-see-all = Seall na h-uile
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = Dìon o thracadh airson { $host }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-description = Tha { -brand-product-name } dhen bheachd nach bu chòir do chompanaidhean a bhith gad dhlùth-leantainn. Ri linn sin, bacaidh sin na ’s urrainn dhuinn dhiubh.
+trustpanel-blocked-header = Bhac { -brand-product-name } na leanas dhut:
