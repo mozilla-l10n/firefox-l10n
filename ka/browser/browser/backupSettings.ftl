@@ -145,6 +145,13 @@ restore-from-backup-password-description = შედეგად გაიხს
 restore-from-backup-cancel-button = გაუქმება
 restore-from-backup-confirm-button = აღდგენა და ხელახლა გაშვება
 restore-from-backup-restoring-button = მიმდინარეობს აღდგენა…
+restore-from-backup-type-group-label =
+    .label = შეიცვალოს მიმდინარე პროფილი?
+restore-from-backup-type-replace =
+    .label = ყველა მონაცემის ჩანაცვლება მარქაფიდან
+restore-from-backup-type-add =
+    .label = მონაცემების დატოვება და ახალი პროფილის შექმნა
+restore-from-backup-profiles-disabled-message = შედეგად { -brand-short-name } ჩაანაცვლებს ყველა არსებულ მონაცემს მარქაფიდან.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -270,6 +277,15 @@ other-backup-files-founds =
         [one] <b>შენიშვნა:</b> ნაპოვნია მარქაფის { $numberOfOtherBackupsFound } სხვა ფაილი
        *[other] <b>შენიშვნა:</b> ნაპოვნია მარქაფის { $numberOfOtherBackupsFound } სხვა ფაილი
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } შეიქმნა თარიღით { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, მოწყობილობა { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = აღდგენილია წყაროა { $deviceName } თარიღით { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } თარიღზე { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

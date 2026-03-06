@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = მოცილდეს { $provider }
 genai-menu-remove-sidebar =
     .label = მოცილება გვერდითი ზოლიდან
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = გიპასუხებთ { $provider }
 genai-menu-new-badge = სიახლე
 genai-menu-summarize-page = გვერდის შეჯამება
 genai-input-ask-generic =
@@ -226,6 +229,8 @@ link-preview-reading-time =
         [one] { $range } წთ კითხვის დრო
        *[other] { $range } წთ კითხვის დრო
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } ვერ შეათვალიერებს ამ გვერდს
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = ეწვიეთ ბმულს
 # Error message when something went wrong during key point generation

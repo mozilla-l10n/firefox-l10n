@@ -292,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = გვერდის ჩანიშვნა ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = გაყოფილი ხედი
+    .aria-label = გაყოფილი ხედი
 
 ## Page Action Context Menu
 
@@ -529,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = თქვენი კავშირი ამ საიტთან არაა დაცული.
 identity-connection-verified = თქვენ საიმედოდ ხართ დაკავშირებული ამ საიტთან.
 identity-ev-owner-label = სერტიფიკატის მფლობელი:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = განსაზღრულია წესდების მიხედვით (ᲔᲕ) 2024/1183.
 identity-description-custom-root2 = Mozilla არ ცნობს ამ სერტიფიკატის გამცემს. იგი შეიძლება დამატებულია თქვენი საოპერაციო სისტემას ან მმართველი პირის მიერ.
 identity-remove-cert-exception =
     .label = გამონაკლისის წაშლა
@@ -562,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = შემცირება
 browser-window-close-button =
     .tooltiptext = დახურვა
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = დაბრუნება
 
 ## Tab actions
 
@@ -719,6 +727,7 @@ urlbar-result-action-search-in-private = ძიება პირად ფა�
 urlbar-result-action-search-w-engine = { $engine } ძიება
 urlbar-result-action-sponsored = დამკვეთებისგან
 urlbar-result-action-switch-tab = ჩანართზე გადასვლა
+urlbar-result-action-move-tab-to-split-view = ჩანართის გადატანა გაყოფილ ხედზე
 urlbar-result-action-visit = მონახულება
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -758,6 +767,14 @@ urlbar-result-action-copy-to-clipboard = ასლი
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = განუსაზღვრელი
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = { -brand-product-name } – გაფართოება
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = სასურველი
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -815,6 +832,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · დამკვეთისგან
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = კითხვა
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -835,6 +854,9 @@ urlbar-result-menu-dont-show-market =
     .label = აღარ გამოჩნდეს ბაზრის შემოთავაზებები
 # A message that replaces a result when the user dismisses Market suggestions.
 urlbar-result-dismissal-acknowledgment-market = გმადლობთ გამოხმაურებისთვის. ბაზრის შესახებ შემოთავაზებებს აღარ იხილავთ.
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = საფონდო ბირჟის შემოთავაზებები
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = გმადლობთ გამოხმაურებისთვის. ამგვარ შემოთავაზებებს აღარ იხილავთ.
@@ -1155,6 +1177,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = ახალი პირადი ფანჯარა
     .tooltiptext = ახალი პირადი ფანჯრის გახსნა ({ $shortcut })
+toolbar-button-share-tab =
+    .label = გაზიარება
+    .tooltiptext = ამ გვერდის გაზიარება
 
 ## EME notification panel
 
@@ -1582,3 +1607,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } ნებას რთავს { $count } კრიპტოგამომმუშავებელს
     }
 trustpanel-cryptominer-tab-list-header = მოცემული საიტები ცდილობს კრიპტოგამომუშავებას:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
+       *[other] <span data-l10n-name="count">{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
+    }
