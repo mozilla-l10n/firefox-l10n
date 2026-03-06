@@ -60,6 +60,12 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnamn: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Gjenopprett dataa dine
+    .description = Gjenopprett { -brand-product-name }-dataa dine frå siste sikkerheitskopi.
+settings-data-backup-restore-scheduled-off =
+    .label = Gjenopprett dataa dine
+    .description = Bruk ein { -brand-product-name }-tryggingskopi frå ei anna eining for å gjenopprette dataa dine.
 settings-data-backup-restore-header = Gjenopprett dataa dine
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -143,6 +149,9 @@ restore-from-backup-type-group-label =
     .label = Erstatte gjeldande profil?
 restore-from-backup-type-replace =
     .label = Erstatt alle data med denne sikkerheitskopien
+restore-from-backup-type-add =
+    .label = Behald data og opprett ny profil
+restore-from-backup-profiles-disabled-message = Dette vil erstatte alle dei gjeldande { -brand-short-name }-dataa dine med tryggingskopien din.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -268,6 +277,15 @@ other-backup-files-founds =
         [one] <b>Merk:</b> { $numberOfOtherBackupsFound } annan sikkerheitskopifil funnen
        *[other] <b>Merk:</b> { $numberOfOtherBackupsFound } andre sikkerheitskopifilar funne
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } oppretta { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Gjenoppretta frå { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

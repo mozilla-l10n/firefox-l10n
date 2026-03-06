@@ -2042,6 +2042,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokker sprettoppvinduer og tredjepartvideresendinger
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Behandle omdirigeringer
+    .accesskey = B
+    .searchkeywords = sprettopp,sprett opp
 permissions-addon-install-warning3 =
     .label = Vis advarsel når nettsteder prøver å installere utvidelser
     .accesskey = a
@@ -2512,6 +2518,9 @@ preferences-etp-rfp-warning-message =
 preferences-etp-level-warning-message =
     .heading = Obs! Noen nettsteder fungerer kanskje ikke som forventet.
     .message = Noen nettsteder bygger sporere inn i funksjonene eller innholdet sitt. Når { -brand-short-name } blokkerer dem, kan nettstedet se ødelagt ut. Prøv å bruke «Fiks nettstedsproblem» eller slå av sporingsbeskyttelse for det nettstedet.
+preferences-etp-manage-exceptions-button =
+    .label = Behandle unntak
+    .description = Behandle nettsteder der utvidet sporingsbeskyttelse er deaktivert.
 preferences-etp-customize-header =
     .heading = Tilpass sporingsbeskyttelse
 preferences-etp-reset =

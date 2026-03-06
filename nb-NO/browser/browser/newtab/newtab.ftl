@@ -636,6 +636,8 @@ newtab-report-cancel = Avbryt
 newtab-report-submit = Send
 newtab-toast-thanks-for-reporting =
     .message = Takk for at du rapporterte dette.
+newtab-toast-widgets-hidden =
+    .message = Velg blyantikonet for å legge til widgeter igjen når som helst.
 
 ## Strings for task / to-do list productivity widget
 
@@ -676,6 +678,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny liste
 newtab-widget-section-title = Widgeter
+newtab-widget-menu-hide = Skjul widget
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Skjul widgeter
