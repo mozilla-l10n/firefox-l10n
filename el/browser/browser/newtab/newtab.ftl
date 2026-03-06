@@ -677,6 +677,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Νέα λίστα
 newtab-widget-section-title = Γραφικά στοιχεία
+newtab-widget-menu-hide = Απόκρυψη γραφικού στοιχείου
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Απόκρυψη widgets
@@ -687,6 +688,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Ελαχιστοποίηση γραφικών στοιχείων
     .aria-label = Σύμπτυξη όλων των γραφικών στοιχείων σε μικρό μέγεθος
+newtab-widget-section-feedback = Πείτε μας τη γνώμη σας
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
