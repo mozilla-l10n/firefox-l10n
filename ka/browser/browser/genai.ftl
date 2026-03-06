@@ -233,6 +233,8 @@ link-preview-reading-time =
 link-preview-error-message-v2 = { -brand-short-name } ვერ შეათვალიერებს ამ გვერდს
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = ეწვიეთ ბმულს
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } ვერ ახერხებს საკვანძო საკითხების გამოყოფას ამ გვერდიდან
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = რაღაც ხარვეზი წარმოიქმნა.
 # Text for the retry link when generation fails
