@@ -1688,11 +1688,17 @@ sitedata-total-size2 = თქვენ მიერ შენახულ ფუ
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = თქვენ მიერ შენახულ ფუნთუშებს, ასევე საიტის მუდმივ და დროებით მონაცემებს ამჟამად დისკზე უკავია { $value } { $unit }.
 sitedata-learn-more = ვრცლად
+sitedata-delete-on-close2 =
+    .label = გასუფთავდეს ფუნთუშები და საიტის მონაცემები ყოველ ჯერზე, როცა { -brand-short-name } დაიხურება
+    .accesskey = ფ
 sitedata-delete-on-close =
     .label = ფუნთუშებისა და საიტის მონაცემების წაშლა, როცა { -brand-short-name } დაიხურება
     .accesskey = ხ
 sitedata-delete-on-close-private-browsing3 =
     .message = თქვენი ისტორიის პარამეტრებიდან გამომდინარე { -brand-short-name } წაშლის ფუნთუშებსა და საიტის მონაცემებს ბრაუზერის დახურვისას.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = ისტორია არ შეინახება.
+    .message = { -brand-short-name } გაასუფთავებს ფუნთუშებსა და საიტის მონაცემებს, როცა ბრაუზერი დაიხურება.
 sitedata-delete-on-close-private-browsing = პირადი თვალიერების მუდმივ რეჟიმში, ფუნთუშები და საიტის მონაცემები ყოველთვის გასუფთავდება, როცა { -brand-short-name } დაიხურება.
 sitedata-delete-on-close-private-browsing2 = თქვენი ისტორიის პარამეტრებიდან გამომდინარე { -brand-short-name } წაშლის ფუნთუშებსა და საიტის მონაცემებს ბრაუზერის დახურვისას.
 sitedata-allow-cookies-option =
@@ -1738,6 +1744,13 @@ sitedata-cookies-exceptions2 =
     .label = გამონაკლისების მართვა
     .accesskey = ლ
     .description = შეგიძლიათ მიუთითოთ ვებსაიტები, რომლებიც ყოველთვის ან არასდროს გამოიყენებს ფუნთუშებსა და საიტის მონაცემებს.
+sitedata-heading =
+    .label = დათვალიერების მონაცემები
+    .description = მართეთ ფუნთუშები, ისტორია, მარაგები, ვებსაიტის მონაცემები და სხვ.
+sitedata-cookies-exceptions3 =
+    .label = გამონაკლისების მართვა
+    .accesskey = კ
+    .description = აირჩიეთ, როგორ მოეპყრას ცალკეული საიტი ფუნთუშებსა და სხვა მონაცემებს.
 cookies-site-data-group =
     .label = ფუნთუშები და საიტის მონაცემები
 
@@ -2317,6 +2330,12 @@ preferences-ai-controls-block-confirmation-confirm =
 preferences-etp-level-warning-message =
     .heading = ფრთხილად! ზოგმა საიტმა შეიძლება ვერ იმუშაოს სათანადოდ.
     .message = ზოგიერთ საიტს მეთვალყურეები ჩაშენებული აქვს თავის შესაძლებლობებსა თუ შიგთავსში. როცა { -brand-short-name } ზღუდავს მათ, საიტი ხარვეზიანად გამოიყურება. მოსინჯეთ „საიტის ხარვეზების გამოსწორება“ ან გამორთეთ თვალთვალისგან დაცვა ამგვარ საიტზე.
+preferences-etp-custom-cookies-enabled =
+    .label = ფუნთუშები
+preferences-etp-custom-cookie-behavior =
+    .aria-label = ფუნთუშები
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = ყველა ფუნთუშების მიღება
 preferences-etp-custom-tracking-protection-enabled =
     .label = თვალის მდევნელი შიგთავსი
 preferences-etp-custom-tracking-protection-enabled-context =
@@ -2324,6 +2343,12 @@ preferences-etp-custom-tracking-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = ცნობილი ამომცნობები არ იზღუდება
+    .description = შედეგად შეიძლება ზოგიერთი მეთვალყურე ფუნთუშების გარეშეც გადევნებდეთ თვალს.
+security-privacy-issue-warning-third-party-cookies =
+    .label = გარეშე მხარეთა ფუნთუშები ჩართულია
+    .description = გარეშე მხარეთა ფუნთუშები გამოიყენება თვალის მისადევნებლად სხვადასხვა ვებსაიტზე გადასვლისას.
 security-privacy-issue-warning-safe-browsing =
     .label = სახიფათო და თაღლითური შიგთავსი არ იზღუდება
     .description = დაუცველი რჩებით ყალბი და მავნე საიტების წინაშე.
