@@ -54,6 +54,9 @@ settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-create-backup-error = Det oppstod ein feil under oppretting av sikkerheitskopien din den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sikringskopier passorda og betalingsmåtane dine, og hald alle dataa dine trygge med kryptering.
+settings-data-toggle-encryption-label2 =
+    .label = Sikringskopier sensitive data
+    .description = Sikringskopier passord og betalingsmåtar, og hald alle dataa dine trygge med kryptering.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnamn: { $fileName }

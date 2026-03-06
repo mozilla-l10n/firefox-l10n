@@ -2439,6 +2439,9 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } er på vakt
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } anbefaler noen sikkerhetsforbedringer
 security-privacy-status-ok-label = Utvidet sporingsbeskyttelse er på
 security-privacy-status-problem-label = Vi fant innstillinger som påvirker beskyttelsen din
 security-privacy-status-problem-helper-label = Vis problemer
@@ -2462,6 +2465,10 @@ security-privacy-status-update-checking-label = { -brand-short-name } ser etter 
 security-privacy-status-update-needed-description = Oppdater for de nyeste forbedringene i hastighet, stabilitet og sikkerhet.
 security-privacy-status-update-button-label =
     .label = Oppdater { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Et skjold med et utropstegn som uttrykker bekymring over sikkerhetsvarslene dine
+security-privacy-image-ok =
+    .alt = Et skjold med en hake som viser at du ikke har noen utestående sikkerhetsproblemer
 security-privacy-issue-card =
     .heading = Sikkerhetsadvarsler
 issue-card-reset-button =
@@ -2472,8 +2479,23 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Utvidet sporingsbeskyttelse
+    .description = Nettsteder bruker sporere for å følge deg på nettet og vise påtrengende annonser. { -brand-short-name } beskytter deg mens du surfer ved å blokkere sporere automatisk, slik at du har kontroll over de digitale sporene dine.
+preferences-etp-level-standard =
+    .label = Standard (standard)
+    .description = Sterk og pålitelig beskyttelse som fungerer problemfritt med de fleste nettsteder.
+preferences-etp-level-strict =
+    .label = Streng
+    .description = Sterkere beskyttelse som blokkerer flere sporere, men kan føre til at noen nettsteder ikke fungerer som de skal.
+preferences-etp-level-custom =
+    .label = Tilpasset
+    .description = Velg hvilke beskyttelser som skal slås av eller på.
 preferences-etp-status-advanced-button =
     .label = Avanserte innstillinger
+preferences-etp-status-protections-dashboard-link =
+    .label = Se ditt personlige beskyttelsesoversikt
+    .description = Se hvor mange snikende sporere { -brand-short-name } har blokkert for deg, inkludert sporere fra sosiale medier, nettleseravtrykksporere og kryptoutvinnere.
 preferences-etp-header =
     .heading = Utvidet sporingsbeskyttelse
 preferences-etp-advanced-settings-group =
