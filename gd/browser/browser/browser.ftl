@@ -272,6 +272,8 @@ urlbar-screen-blocked =
     .tooltiptext = Bhac thu an làrach-lìn seo o bhith a’ co-roinneadh na sgrìn agad.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bhac thu stòras dàta buan mu choinneamh na làraich-lìn seo.
+urlbar-popup-blocked2 =
+    .tooltiptext = Bhac thu priob-uinneagan is ath-stiùireadh le treas-phàrtaidhean on làrach-lìn seo.
 urlbar-popup-blocked =
     .tooltiptext = Bhac thu priob-uinneagan air an làrach-lìn seo.
 urlbar-autoplay-media-blocked =
@@ -290,6 +292,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Cruthaich comharra-lìn dhan duilleag seo ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Sealladh sgoilte
+    .aria-label = Sealladh sgoilte
 
 ## Page Action Context Menu
 
@@ -366,10 +371,17 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Seall na tuilleadain
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = leudachain, ùrlaran, tuilleadain
 quickactions-cmd-addons2 = tuilleadain
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Stiùirich na comharran-lìn
 quickactions-cmd-bookmarks = comharran-lìn
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = Falamhaich na rinn thu o chionn goirid
+quickactions-cmd-clearrecenthistory = falamhaich na rinn thu o chionn goirid, eachdraidh
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Falamhaich an eachdraidh
 quickactions-cmd-clearhistory = falamhaich an eachdraidh
@@ -378,9 +390,20 @@ quickactions-downloads2 = Seall na chaidh a luchdadh a-nuas
 quickactions-cmd-downloads = luchdaidhean a-nuas
 # Opens about:addons page in the extensions section
 quickactions-extensions = Stiùirich na leudachain
+quickactions-cmd-extensions2 = leudachain, tuilleadain
 quickactions-cmd-extensions = leudachain
+# Opens Firefox View
+quickactions-firefoxview = Fosgail { -firefoxview-brand-name }
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = fosgail { -firefoxview-brand-name }, { -firefoxview-brand-name }, fosgail sealladh, sealladh
+# Opens SUMO home page
+quickactions-help = Cobhair { -brand-product-name }
+quickactions-cmd-help = cobhair, taic
 # Opens the devtools web inspector
 quickactions-inspector2 = Fosgail innealan an luchd-leasachaidh
+quickactions-cmd-inspector2 = sgrùdaiche, devtools, dev tools
 quickactions-cmd-inspector = sgrùdaiche, devtools
 # Opens about:logins
 quickactions-logins2 = Stiùirich na faclan-faire
@@ -393,6 +416,7 @@ quickactions-print2 = Clò-bhuail an duilleag
 quickactions-cmd-print = clò-bhuail
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Sàbhail an duilleag mar PDF
+quickactions-cmd-savepdf2 = PDF, sàbhail duilleag
 # Opens a new private browsing window
 quickactions-private2 = Fosgail uinneag phrìobhaideach
 quickactions-cmd-private = brabhsadh prìobhaideach
@@ -404,18 +428,29 @@ quickactions-restart = Ath-thòisich { -brand-short-name }
 quickactions-cmd-restart = ath-thòisich
 # Opens the screenshot tool
 quickactions-screenshot3 = Tog glacadh-sgrìn
+quickactions-cmd-screenshot2 = glacadh-sgrìn, tog glacadh-sgrìn
+# Opens about:translations
+quickactions-translate = Eadar-theangaich
+quickactions-cmd-translate = eadar-theangaich
 quickactions-cmd-screenshot = glacadh-sgrìn
 # Opens about:preferences
 quickactions-settings2 = Stiùirich na roghainnean
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = roghainnean, stiùirich
 quickactions-cmd-settings = roghainnean
 # Opens about:addons page in the themes section
 quickactions-themes = Stiùirich na h-ùrlaran
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = ùrlaran, tuilleadain
 quickactions-cmd-themes = ùrlaran
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ùraich { -brand-short-name }
 quickactions-cmd-update = ùraich
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Seall bun-tùs na duilleige
+quickactions-cmd-viewsource2 = seall an tùs, tùs, bun-tùs na duilleige
 quickactions-cmd-viewsource = seall am bun-tùs
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
@@ -499,6 +534,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Chan eil ceangal tèarainte agad ris an làrach seo.
 identity-connection-verified = Tha ceangal tèarainte agad ris an làrach seo.
 identity-ev-owner-label = Chaidh an teisteanas fhoillseachadh dha:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = A rèir riatanasan Riaghlad (AE) 2024/1183.
 identity-description-custom-root2 = Chan aithnich Mozilla foillsichear an teisteanais seo. Dh’fhaoidte gun do chuir an siostam-obrachaidh agad ris e no ’s dòcha rianaire.
 identity-remove-cert-exception =
     .label = Thoir an eisgeachd  air falbh
@@ -532,6 +569,9 @@ browser-window-restore-down-button =
     .tooltiptext = Aisig sìos
 browser-window-close-button =
     .tooltiptext = Dùin
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Till
 
 ## Tab actions
 
