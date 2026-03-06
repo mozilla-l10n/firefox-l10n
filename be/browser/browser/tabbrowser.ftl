@@ -446,7 +446,7 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Асобны падзелены выгляд
     .accesskey = е
-tab-context-badge-new = Новы
+tab-context-badge-new = Новае
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.

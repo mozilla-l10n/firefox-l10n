@@ -524,9 +524,14 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულებისთვის საოპერაციო სისტემას მიეთითოს „{ $localeName }“.
+settings-spellcheck-header =
+    .label = მართლწერის შემოწმება
 check-user-spelling =
     .label = მართლწერის შემოწმება აკრეფისთანავე
     .accesskey = მ
+spellcheck-promo =
+    .heading = როგორ მოწმდება მართლწერა
+    .message = მარჯვენა წკაპით ტექსტის ველში ჩართეთ მართლწერის შემოწმება ან მიუთითეთ ენა. ყველა ველში არაა მხარდაჭერილი მართლწერა.
 
 ## General Section - Files and Applications
 
