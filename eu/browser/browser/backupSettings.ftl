@@ -22,6 +22,9 @@ backup-folder-name = Berrezarri { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Babeskopia
+settings-data-backup-header2 =
+    .label = Babeskopia
+    .description = Automatikoki babestu zure laster-markak, historia eta bestelako datuak.
 settings-data-backup-header = Babeskopia
 settings-data-backup-toggle = Kudeatu babeskopia
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,28 @@ settings-data-backup-scheduled-backups-on = Babeskopia: aktibatuta
 settings-data-backup-scheduled-backups-off = Babeskopia: desaktibatuta
 settings-data-backup-scheduled-backups-description = Babestu automatikoki zure laster-markak, historia eta bestelako datuak. <a data-l10n-name="support-link">Argibide gehiago</a>
 settings-data-backup-last-backup-date = Azken babeskopia: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Babeskopia aktibatuta dago
+settings-data-backup-scheduled-backups-off2 =
+    .label = Babeskopia desaktibatuta dago
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Babeskopiaren kokapena
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Kokalekua
 settings-data-backup-last-backup-location-show-in-folder = Erakutsi karpetan
 settings-data-backup-last-backup-location-edit = Editatu…
 settings-data-create-backup-error = Errorea gertatu da babeskopia sortzean ondorengo datan: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Egin zure pasahitz eta ordainketa-metodoen babeskopia eta mantendu zure datu guztiak zifratze bidez seguru.
+settings-data-toggle-encryption-label2 =
+    .label = Egin kontuzko zure datuen babeskopia
+    .description = Egin zure pasahitz eta ordainketa-metodoen babeskopia eta mantendu zure datu guztiak zifratze bidez seguru.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Fitxategi-izena: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Berreskuratu zure datuak
+    .description = Berreskuratu zure { -brand-product-name } datuak azkeneko aldiz egin zen babeskopiatik.
 settings-data-backup-restore-header = Berreskuratu zure datuak
 
 ## These strings are shown under the header if scheduled backups are disabled.
