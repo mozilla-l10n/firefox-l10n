@@ -179,3 +179,43 @@ contextual-manager-edit-login-button = Deasaich
     .tooltiptext = Deasaich am facal-faire
 contextual-manager-view-alert-heading =
     .heading = Seall a’ chaismeachd
+contextual-manager-view-alert-button =
+    .tooltiptext = Thoir sùil air a’ chaismeachd
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Seall a’ chaismeachd
+            [one] Seall a’ chaismeachd
+            [two] Seall na caismeachdan
+            [few] Seall na caismeachdan
+           *[other] Seall na caismeachdan
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Thoir sùil air a’ chaismeachd
+            [one] Thoir sùil air a’ chaismeachd
+            [two] Thoir sùil air na caismeachdan
+            [few] Thoir sùil air na caismeachdan
+           *[other] Thoir sùil air na caismeachdan
+        }
+contextual-manager-show-password-button =
+    .aria-label = Seall am facal-faire
+    .title = Seall am facal-faire
+contextual-manager-hide-password-button =
+    .aria-label = Falaich am facal-faire
+    .title = Falaich am facal-faire
+# The message displayed when the search text does not match any of the user's saved logins.
+contextual-manager-passwords-no-passwords-found-header =
+    .heading = Cha deach facal-faire sam bith a lorg
+contextual-manager-passwords-no-passwords-found-message = Cha deach facal-faire a lorg. Feuch facal-luirg eile ’s dèan lorg as ùr.
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header = Sàbhail na faclan-faire agad ann an àite sàbhailte.
