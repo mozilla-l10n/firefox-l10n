@@ -33,6 +33,7 @@ perftools-description-local-build =
     Nếu bạn đang lược tả một bản dựng do chính bạn biên dịch, trên
     máy tính này, vui lòng thêm objdir của bản dựng của bạn vào
     danh sách bên dưới để có thể sử dụng nó để tra cứu thông tin symbol.
+perftools-pick-local-build-directory = Chọn thư mục build
 
 ## The controls for the interval at which the profiler samples the code.
 
