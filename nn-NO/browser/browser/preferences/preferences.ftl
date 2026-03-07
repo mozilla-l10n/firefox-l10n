@@ -1768,6 +1768,9 @@ sitedata-cookies-exceptions2 =
     .label = Handsam unntak
     .accesskey = H
     .description = Du kan angi kva nettstadar som alltid eller aldri har lov til å bruke infokapslar og nettstad-data.
+sitedata-settings3 =
+    .label = Fjern data for bestemte nettstadar
+    .accesskey = F
 cookies-site-data-group =
     .label = Infokapslar og sidedata
 
@@ -2192,6 +2195,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å 
 certs-description2 =
     .label = Sertifikat
     .description = Konfigurer sertifikata som { -brand-short-name } brukar for autentisering.
+certs-view2 =
+    .label = Handsam sertifikat
+    .accesskey = H
+certs-devices2 =
+    .label = Handsam tryggingseiningar
+    .accesskey = H
 
 ## Privacy Section - HTTPS-Only
 
@@ -2278,6 +2287,20 @@ preferences-doh-manage-exceptions =
     .accesskey = H
 preferences-doh-advanced-button =
     .label = Avanserte innstillingar
+preferences-doh-radio-default =
+    .label = Standard
+    .description = Bruk sikker DNS i område der det er tilgjengeleg.
+preferences-doh-status-item-off =
+    .message = DNS-over-HTTPS er av
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS-over-HTTPS fungerer ikkje fordi det oppstod ein feil ({ $reason }) då vi prøvde å bruke leverandøren { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS-over-HTTPS fungerer ikkje fordi vi fekk ein ugyldig URL ({ $reason })
 preferences-doh-select-resolver-label =
     .label = Vel leverandør:
 
