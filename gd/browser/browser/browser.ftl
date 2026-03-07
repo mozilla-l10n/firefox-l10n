@@ -1434,6 +1434,17 @@ popup-warning-message =
         [few] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneagan fhosgladh.
        *[other] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneag fhosgladh.
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] Cha do leig { -brand-short-name } leis an làrach seo d’ ath-stiùireadh.
+        [1] Cha do leig { -brand-short-name } leis an làrach seo priob-uinneag fhosgladh agus d’ ath-stiùireadh.
+        [one] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } phriob-uinneag fhosgladh agus d’ ath-stiùireadh.
+        [two] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } phriob-uinneag fhosgladh agus d’ ath-stiùireadh.
+        [few] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneagan fhosgladh agus d’ ath-stiùireadh.
+       *[other] Cha do leig { -brand-short-name } leis an làrach seo { $popupCount } priob-uinneag fhosgladh agus d’ ath-stiùireadh.
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1443,6 +1454,15 @@ popup-warning-exceeded-message =
         [two] Chum { -brand-short-name } an làrach seo o bhith a’ fosgladh { $popupCount } phriob-uinneag
         [few] Chum { -brand-short-name } an làrach seo o bhith a’ fosgladh { $popupCount } priob-uinneagan
        *[other] Chum { -brand-short-name } an làrach seo o bhith a’ fosgladh { $popupCount } priob-uinneag
+    }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] Cha do leig { -brand-short-name } leis an làrach seo barrachd air { $popupCount } phriob-uinneag fhosgladh agus d’ ath-stiùireadh.
+        [two] Cha do leig { -brand-short-name } leis an làrach seo barrachd air { $popupCount } phriob-uinneag fhosgladh agus d’ ath-stiùireadh.
+        [few] Cha do leig { -brand-short-name } leis an làrach seo barrachd air { $popupCount } priob-uinneagan fhosgladh agus d’ ath-stiùireadh.
+       *[other] Cha do leig { -brand-short-name } leis an làrach seo barrachd air { $popupCount } priob-uinneag fhosgladh agus d’ ath-stiùireadh.
     }
 popup-warning-button =
     .label =
@@ -1508,6 +1528,11 @@ trustpanel-etp-description-enabled = Ma tha coltas gu bheil rudeigin briste air 
 trustpanel-etp-description-disabled = Tha { -brand-product-name } dhen bheachd nach bu chòir do chompanaidhean a bhith gad dhlùth-leantainn. Ri linn sin, bacaidh sin na ’s urrainn dhuinn dhiubh ma chuireas tu na gleusan dìon air.
 trustpanel-connection-label-secure = Tha an ceangal tèarainte
 trustpanel-connection-label-insecure = Chan eil an ceangal tèarainte
+trustpanel-header-enabled = Tha { -brand-product-name } ri caithris
+trustpanel-header-disabled = Chuir thu an dìon dheth
+trustpanel-description-disabled = Chan eil { -brand-product-name } ri caithris. Mholamaid dhut an dìon a chur air a-rithist.
+trustpanel-clear-cookies-button = Falamhaich na briosgaidean is dàta na làraich
+trustpanel-privacy-link = Roghainnean prìobhaideachd
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
@@ -1532,3 +1557,35 @@ trustpanel-blocker-header =
 trustpanel-blocker-description = Tha { -brand-product-name } dhen bheachd nach bu chòir do chompanaidhean a bhith gad dhlùth-leantainn. Ri linn sin, bacaidh sin na ’s urrainn dhuinn dhiubh.
 trustpanel-blocked-header = Bhac { -brand-product-name } na leanas dhut:
 trustpanel-tracking-header = Cheadaich { -brand-product-name } na leanas airson ’s nach bris làraichean-lìn:
+trustpanel-tracking-description = As aonais thracaichean, dh’fhaodte gum bi cuid a phutanan, foirmean is raoinean airson clàradh a-steach ann nach obraich mar bu chòir.
+trustpanel-insecure-section-header = Chan eil an ceangal agad tèarainte
+trustpanel-insecure-description = Chan eil an dàta a tha thu a’ cur chun na làraich seo crioptaichte. Tha cunnart ann gum faic daoine e, gun atharraich iad e no gun goid iad ort e.
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } bhriosgaid a nì tracadh thar làraichean
+        [two] { $count } bhriosgaid a nì tracadh thar làraichean
+        [few] { $count } briosgaidean a nì tracadh thar làraichean
+       *[other] { $count } briosgaid a nì tracadh thar làraichean
+    }
+trustpanel-list-label-tracking-content = Susbaint tracaidh
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } lorgaire-meòir
+        [two] { $count } lorgaire-meòir
+        [few] { $count } lorgairean-meòir
+       *[other] { $count } lorgaire-meòir
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } tracaiche nam meadhanan sòisealta
+        [two] { $count } thracaiche nam meadhanan sòisealta
+        [few] { $count } tracaichean nam meadhanan sòisealta
+       *[other] { $count } tracaiche nam meadhanan sòisealta
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } chriopto-mhèinneadair
+        [two] { $count } chriopto-mhèinneadair
+        [few] { $count } criopto-mhèinneadairean
+       *[other] { $count } criopto-mhèinneadair
+    }
