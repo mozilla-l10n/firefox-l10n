@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Thêm mục
+storage-delete-all-button =
+    .title = Xoá tất cả
 # Refresh button title
 storage-refresh-button =
     .title = Làm mới mục

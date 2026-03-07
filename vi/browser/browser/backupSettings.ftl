@@ -22,6 +22,9 @@ backup-folder-name = Khôi phục { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = BanSaoLuu{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Sao lưu
+    .description = Tự động bảo vệ dấu trang, lịch sử và dữ liệu khác của bạn.
 settings-data-backup-header = Sao lưu
 settings-data-backup-toggle = Quản lý sao lưu
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Sao lưu: BẬT
 settings-data-backup-scheduled-backups-off = Sao lưu: TẮT
 settings-data-backup-scheduled-backups-description = Tự động tạo bản sao dấu trang, lịch sử và dữ liệu khác của bạn. <a data-l10n-name="support-link">Tìm hiểu thêm</a>
 settings-data-backup-last-backup-date = Sao lưu lần cuối: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Sao lưu đang BẬT
+settings-data-backup-scheduled-backups-off2 =
+    .label = Sao lưu đã TẮT
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Vị trí sao lưu
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Vị trí
 settings-data-backup-last-backup-location-show-in-folder = Mở trong thư mục
 settings-data-backup-last-backup-location-edit = Chỉnh sửa…
 settings-data-create-backup-error = Đã xảy ra lỗi khi tạo bản sao lưu của bạn trên { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sao lưu mật khẩu và phương thức thanh toán của bạn, đồng thời giữ an toàn cho mọi dữ liệu bằng mã hóa.
+settings-data-toggle-encryption-label2 =
+    .label = Sao lưu dữ liệu nhạy cảm của bạn
+    .description = Sao lưu mật khẩu và phương thức thanh toán của bạn, đồng thời bảo vệ tất cả dữ liệu bằng mã hóa.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Tên tập tin: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Khôi phục dữ liệu của bạn
+    .description = Khôi phục dữ liệu { -brand-product-name } của bạn từ lần sao lưu gần nhất.
+settings-data-backup-restore-scheduled-off =
+    .label = Khôi phục dữ liệu của bạn
+    .description = Sử dụng bản sao lưu { -brand-product-name } từ thiết bị khác để khôi phục dữ liệu của bạn.
 settings-data-backup-restore-header = Khôi phục dữ liệu của bạn
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Chọn tập tin sao
 
 settings-data-backup-scheduled-backups-on-restore-description = Khôi phục dữ liệu { -brand-product-name } của bạn từ lần sao lưu gần đây nhất.
 settings-data-backup-scheduled-backups-on-restore-choose = Khôi phục…
+settings-sensitive-data =
+    .label = Dữ liệu nhạy cảm
 settings-data-toggle-encryption-label = Sao lưu dữ liệu nhạy cảm của bạn
 settings-data-toggle-encryption-support-link = Tìm hiểu thêm
+settings-data-change-password2 =
+    .label = Thay đổi mật khẩu
 settings-data-change-password = Thay đổi mật khẩu…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Tắt và xoá sao lưu
 restore-from-backup-header = Khôi phục dữ liệu của bạn
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Những gì sẽ được khôi phục?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Điều này sẽ thay thế tất cả dữ liệu { -brand-short-name } hiện tại của bạn bằng bản sao lưu của bạn từ { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +145,13 @@ restore-from-backup-password-description = Thao tác này sẽ mở khóa bản 
 restore-from-backup-cancel-button = Hủy bỏ
 restore-from-backup-confirm-button = Khôi phục và khởi động lại
 restore-from-backup-restoring-button = Đang khôi phục…
+restore-from-backup-type-group-label =
+    .label = Thay thế hồ sơ hiện tại?
+restore-from-backup-type-replace =
+    .label = Thay thế toàn bộ dữ liệu bằng bản sao lưu này
+restore-from-backup-type-add =
+    .label = Giữ lại dữ liệu và tạo hồ sơ mới
+restore-from-backup-profiles-disabled-message = Thao tác này sẽ thay thế toàn bộ dữ liệu { -brand-short-name } hiện tại của bạn bằng bản sao lưu.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -240,6 +273,15 @@ backup-file-other-browser-restore-step-4 = Khởi động lại { -brand-short-n
 # Variables:
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds = <b>Lưu ý:</b> Đã tìm thấy { $numberOfOtherBackupsFound } tập tin sao lưu khác
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Được tạo vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } trên { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Đã khôi phục từ { $deviceName } vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } lúc { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
