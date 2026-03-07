@@ -1405,6 +1405,7 @@ firefox-relay-offer-why-to-use-relay = Tha na masgan againn tèarainte ’s fura
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Thèid gach post-d a chuirear dha na masgan puist-d agad a shìneadh air adhart gu <strong>{ $useremail }</strong> (ach ma bhacas tu iad).
 firefox-relay-offer-legal-notice = Le bith a’ briogadh air “Cleachd masg puist-d”, bidh tu ag aontachadh ri <label data-l10n-name="tos-url">teirmichean na seirbheise</label> agus <label data-l10n-name="privacy-url">aithris na prìobhaideachd</label>.
+firefox-relay-offer-legal-notice-1 = Le bith a’ briogadh air “Cleachd masg puist-d” agus a’ cruthachadh masg puist-d, bidh tu ag aontachadh ri <label data-l10n-name="tos-url">teirmichean na seirbheise</label> agus <label data-l10n-name="privacy-url">aithris na prìobhaideachd</label>.
 
 ## Add-on Pop-up Notifications
 
@@ -1484,8 +1485,29 @@ file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
 
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = Coilean an suidheachadh
+onboarding-aw-finish-setup-button =
+    .label = Coilean an suidheachadh
+    .tooltiptext = Coilean suidheachadh { -brand-short-name }
+
 ## The urlbar trust icon & panel
 
+trustpanel-etp-label-enabled = Tha an dìon adhartach o thracadh air
+trustpanel-etp-label-disabled = Tha an dìon adhartach o thracadh dheth
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = Tha an dìon adhartach o thracadh air airson { $host }
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = Tha an dìon adhartach o thracadh dheth airson { $host }
+trustpanel-etp-description-enabled = Ma tha coltas gu bheil rudeigin briste air an làrach seo, feuch is cuir an dìon dheth.
+trustpanel-etp-description-disabled = Tha { -brand-product-name } dhen bheachd nach bu chòir do chompanaidhean a bhith gad dhlùth-leantainn. Ri linn sin, bacaidh sin na ’s urrainn dhuinn dhiubh ma chuireas tu na gleusan dìon air.
+trustpanel-connection-label-secure = Tha an ceangal tèarainte
+trustpanel-connection-label-insecure = Chan eil an ceangal tèarainte
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
