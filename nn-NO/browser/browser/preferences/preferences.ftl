@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Vi støttar ikkje lenger «Ikkje spor»-funksjonen
 non-technical-privacy-heading =
     .label = Ytterlegare vern
+preferences-privacy-relay-available =
+    .label = Foreslå e-postalias frå { -relay-brand-name }
+    .description = Skjuler den verkelege e-postadressa din for å verne innboksen mot uønskt e-post (spam).
 non-technical-privacy-header = Personverninnstillingar for nettstaden
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -535,6 +538,9 @@ check-user-spelling =
     .accesskey = K
 spellcheck-download-dictionaries =
     .label = Last ned ordbøker
+spellcheck-promo =
+    .heading = Slik bruker du stavekontroll
+    .message = Høgreklikk i eit tekstfelt for å slå stavekontroll på eller av, eller for å endre språk. Ikkje alle felt støttar stavekontroll.
 
 ## General Section - Files and Applications
 
@@ -792,6 +798,13 @@ network-proxy-connection-learn-more = Les meir
 network-proxy-connection-settings =
     .label = Innstillingar…
     .accesskey = I
+network-proxy-group2 =
+    .label = Proxyinnstillingar
+    .description = Konfigurer korleis { -brand-short-name } koplar seg til internett.
+network-proxy-connection-settings2 =
+    .label = Konfigurer proxy
+    .description = Endring av desse innstillingane kan føre til tilkoplingsproblem
+    .accesskey = p
 
 ## Home Section
 
@@ -1664,6 +1677,9 @@ history-clear-button =
     .accesskey = s
 history-header2 =
     .heading = Historikk
+history-section-header =
+    .label = Historikk
+    .description = Vel kva du vil at { -brand-short-name } skal hugse når du lèt att nettlesaren.
 history-custom-button =
     .label = Vel kva du vil at { -brand-short-name } skal hugse
 history-group =
