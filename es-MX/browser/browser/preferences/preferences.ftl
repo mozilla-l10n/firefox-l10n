@@ -2296,3 +2296,11 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquear
+
+## Privacy and security status card
+
+issue-card-reset-button =
+    .label = Restablecer
+issue-card-dismiss-button =
+    .tooltiptext = Descartar
+    .aria-label = Descartar
