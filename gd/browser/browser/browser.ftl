@@ -1529,6 +1529,9 @@ trustpanel-etp-description-disabled = Tha { -brand-product-name } dhen bheachd n
 trustpanel-connection-label-secure = Tha an ceangal tèarainte
 trustpanel-connection-label-insecure = Chan eil an ceangal tèarainte
 trustpanel-header-enabled = Tha { -brand-product-name } ri caithris
+trustpanel-description-enabled2 = Tha thu fo fìon. Ma mhothaicheas sinn do rud sam bith, innsidh sinn dhut.
+trustpanel-header-enabled-insecure = Bi faiceallach air an làrach seo
+trustpanel-description-enabled-insecure = Mhothaich { -brand-product-name } do rudeigin amharasach.
 trustpanel-header-disabled = Chuir thu an dìon dheth
 trustpanel-description-disabled = Chan eil { -brand-product-name } ri caithris. Mholamaid dhut an dìon a chur air a-rithist.
 trustpanel-clear-cookies-button = Falamhaich na briosgaidean is dàta na làraich
@@ -1589,3 +1592,61 @@ trustpanel-list-label-cryptominer =
         [few] { $count } criopto-mhèinneadairean
        *[other] { $count } criopto-mhèinneadair
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] Bhac { -brand-product-name } { $count } tracaiche nam meadhanan sòisealta
+        [two] Bhac { -brand-product-name } { $count } thracaiche nam meadhanan sòisealta
+        [few] Bhac { -brand-product-name } { $count } tracaichean nam meadhanan sòisealta
+       *[other] Bhac { -brand-product-name } { $count } tracaiche nam meadhanan sòisealta
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] Cheadaich { -brand-product-name } { $count } tracaiche nam meadhanan sòisealta
+        [two] Cheadaich { -brand-product-name } { $count } thracaiche nam meadhanan sòisealta
+        [few] Cheadaich { -brand-product-name } { $count } tracaichean nam meadhanan sòisealta
+       *[other] Cheadaich { -brand-product-name } { $count } tracaiche nam meadhanan sòisealta
+    }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] Bhac { -brand-product-name } { $count } bhriosgaid a nì tracadh thar làraichean
+        [two] Bhac { -brand-product-name } { $count } bhriosgaid a nì tracadh thar làraichean
+        [few] Bhac { -brand-product-name } { $count } briosgaidean a nì tracadh thar làraichean
+       *[other] Bhac { -brand-product-name } { $count } briosgaid a nì tracadh thar làraichean
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] Cheadaich { -brand-product-name } { $count } bhriosgaid a nì tracadh thar làraichean
+        [two] Cheadaich { -brand-product-name } { $count } bhriosgaid a nì tracadh thar làraichean
+        [few] Cheadaich { -brand-product-name } { $count } briosgaidean a nì tracadh thar làraichean
+       *[other] Cheadaich { -brand-product-name } { $count } briosgaid a nì tracadh thar làraichean
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] Bhac { -brand-product-name } { $count } tracaiche
+        [two] Bhac { -brand-product-name } { $count } thracaiche
+        [few] Bhac { -brand-product-name } { $count } tracaichean
+       *[other] Bhac { -brand-product-name } { $count } tracaiche
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] Cheadaich { -brand-product-name } { $count } tracaiche
+        [two] Cheadaich { -brand-product-name } { $count } thracaiche
+        [few] Cheadaich { -brand-product-name } { $count } tracaichean
+       *[other] Cheadaich { -brand-product-name } { $count } tracaiche
+    }
+trustpanel-tracking-content-tab-list-header = Tha na làraichean seo a’ feuchainn ri do thracadh:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] Bhac { -brand-product-name } { $count } lorgaire-meòir
+        [two] Bhac { -brand-product-name } { $count } lorgaire-meòir
+        [few] Bhac { -brand-product-name } { $count } lorgairean-meòir
+       *[other] Bhac { -brand-product-name } { $count } lorgaire-meòir
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] Cheadaich { -brand-product-name } { $count } lorgaire-meòir
+        [two] Cheadaich { -brand-product-name } { $count } lorgaire-meòir
+        [few] Cheadaich { -brand-product-name } { $count } lorgairean-meòir
+       *[other] Cheadaich { -brand-product-name } { $count } lorgaire-meòir
+    }
+trustpanel-fingerprinter-list-header = Tha na làraichean seo a’ feuchainn ri fingerprinting a dhèanamh ort:
