@@ -1702,12 +1702,19 @@ sitedata-total-size-calculating = Reknar ut storleik på nettstad-data og snøgg
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Nettstadar brukar akkurat no <strong>{ $value } { $unit }</strong> med diskplass.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Dei lagra infokapslane dine, historikk, nettstad-data og hurtiglager brukar akkurat no <strong>{ $value } { $unit }</strong> diskplass.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dei lagra infokapslane dine, nettstad-data og hurtiglager brukar for tida { $value } { $unit } diskplass.
 sitedata-learn-more = Les meir
+sitedata-delete-on-close2 =
+    .label = Fjern infokapslar og nettstaddata kvar gong du lukkar { -brand-short-name }
+    .accesskey = n
 sitedata-delete-on-close =
     .label = Slett infokapslar og nettstad-data når { -brand-short-name } stenger
     .accesskey = S
