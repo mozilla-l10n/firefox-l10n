@@ -2290,6 +2290,9 @@ preferences-doh-advanced-button =
 preferences-doh-radio-default =
     .label = Standard
     .description = Bruk sikker DNS i område der det er tilgjengeleg.
+preferences-doh-radio-custom =
+    .label = Tilpassa
+    .description = Bruk alltid sikker DNS med kontroll over leverandør og reserveåtferd.
 preferences-doh-status-item-off =
     .message = DNS-over-HTTPS er av
 # Variables:
@@ -2301,6 +2304,10 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = DNS-over-HTTPS fungerer ikkje fordi vi fekk ein ugyldig URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS-over-HTTPS brukar leverandøren { $name }
 preferences-doh-select-resolver-label =
     .label = Vel leverandør:
 
