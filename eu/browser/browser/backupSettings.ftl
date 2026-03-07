@@ -74,8 +74,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Aukeratu babeskopia-
 
 settings-data-backup-scheduled-backups-on-restore-description = Berreskuratu zure { -brand-product-name } datuak azkeneko aldiz egin zen babeskopiatik.
 settings-data-backup-scheduled-backups-on-restore-choose = Berreskuratu…
+settings-sensitive-data =
+    .label = Kontuzko datuak
 settings-data-toggle-encryption-label = Egin kontuzko zure datuen babeskopia
 settings-data-toggle-encryption-support-link = Argibide gehiago
+settings-data-change-password2 =
+    .label = Aldatu pasahitza
 settings-data-change-password = Aldatu pasahitza…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -118,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Desaktibatu eta ezabatu babeskopia
 restore-from-backup-header = Berreskuratu zure datuak
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Zer berreskuratuko da?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Honek uneko zure { -brand-short-name } datu guztiak ordezkatuko ditu { DATETIME($date, timeStyle: "short", dateStyle: "short") } datako babeskopiarekin.
 restore-from-backup-support-link =
@@ -135,6 +142,13 @@ restore-from-backup-password-description = Zifratutako zure babeskopia desblokea
 restore-from-backup-cancel-button = Utzi
 restore-from-backup-confirm-button = Berreskuratu eta berrabiarazi
 restore-from-backup-restoring-button = Berreskuratzen…
+restore-from-backup-type-group-label =
+    .label = Ordezkatu uneko profila?
+restore-from-backup-type-replace =
+    .label = Ordezkatu datu guztiak babeskopia honekin
+restore-from-backup-type-add =
+    .label = Mantendu datuak eta sortu profil berria
+restore-from-backup-profiles-disabled-message = Honek zure uneko { -brand-short-name }(r)en datu guztiak ordezkatuko ditu zure babeskopiarekin.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -260,6 +274,15 @@ other-backup-files-founds =
         [one] <b>Oharra:</b> Beste babeskopia-fitxategi bat aurkitu da
        *[other] <b>Oharra:</b> Beste { $numberOfOtherBackupsFound } babeskopia-fitxategi aurkitu dira
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } profilaren sortze-data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { $machineName } makinan
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = { $deviceName } makinatik berreskuratuta; berreskuratze-data:{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
