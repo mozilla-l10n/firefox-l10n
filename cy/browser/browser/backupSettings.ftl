@@ -65,7 +65,7 @@ settings-data-backup-restore-scheduled-on =
     .description = Adferwch eich data { -brand-product-name } o'r tro diwethaf cafodd ei gadw wrth gefn.
 settings-data-backup-restore-scheduled-off =
     .label = Adfer eich data
-    .description = Defnyddio copi wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data
+    .description = Defnyddio copi wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data.
 settings-data-backup-restore-header = Adfer eich data
 
 ## These strings are shown under the header if scheduled backups are disabled.
