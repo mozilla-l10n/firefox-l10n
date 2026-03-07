@@ -80,4 +80,4 @@ experimental-features-semantic-history-search-description = Sử dụng mô hìn
 # Tab Notes
 experimental-features-tab-notes =
     .label = Ghi chú thẻ
-experimental-features-tab-notes-description = Ghi chú tab là một tính năng thử nghiệm cho phép bạn thêm ghi chú dán vào các thẻ trình duyệt. Ghi lại ngữ cảnh, lời nhắc hoặc các bước tiếp theo để bạn có thể quay lại và nhớ lý do tại sao bạn đã mở thẻ đó. Chúng tôi rất mong nhận được phản hồi của bạn để tiếp tục cải thiện tính năng này. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
+experimental-features-tab-notes-description = Ghi chú thẻ là một tính năng thử nghiệm cho phép bạn thêm ghi chú dán vào các thẻ trình duyệt. Ghi lại ngữ cảnh, lời nhắc hoặc các bước tiếp theo để bạn có thể quay lại và nhớ lý do tại sao bạn đã mở thẻ đó. Chúng tôi rất mong nhận được phản hồi của bạn để tiếp tục cải thiện tính năng này. <a data-l10n-name="connect">Chia sẻ phản hồi</a>
