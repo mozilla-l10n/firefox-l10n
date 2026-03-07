@@ -110,15 +110,72 @@ contextual-manager-passwords-change-password-button = Atharraich am facal-faire
 contextual-manager-passwords-vulnerable-password-heading-and-message =
     .heading = Mholamaid dhut am facal-faire atharrachadh
     .message = Tha am facal-faire seo cho furasta ri thomhas. Tagh fear nas làidire airson an cunntas agad a dhìon.
+contextual-manager-passwords-vulnerable-password-link-message = Ciamar a bhios fios aig { -brand-product-name } gu bheil facal-faire lag agam?
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = Cuir ainm-cleachdaiche ris
+    .message = Cuir fear ris airson clàradh a-steach nas luaithe.
+contextual-manager-passwords-add-username-button = Cuir ainm-cleachdaiche ris
+contextual-manager-passwords-title = Faclan-faire
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = Cuir facal-faire ris
+contextual-manager-passwords-update-label =
+    .label = Ùraich am facal-faire
+contextual-manager-passwords-edit-label =
+    .label = Deasaich am facal-faire
+contextual-manager-passwords-remove-label =
+    .title = Thoir am facal-faire air falbh
+contextual-manager-passwords-origin-tooltip = Cuir a-steach an dearbh-sheòladh far an clàraich thu a-steach dhan làrach.
+contextual-manager-passwords-username-tooltip = Cuir a-steach an t-ainm-cleachdaiche, seòladh puist-d no àireamh a’ chunntais a chleachdas tu airson clàradh a-steach.
+contextual-manager-passwords-password-tooltip-2 = Cuir a-steach am facal-faire airson clàradh a-steach chun a’ chunntais seo.
+contextual-manager-passwords-password-tooltip = Cuir a-steach am facal-faire a chleachdas tu airson clàradh a-steach chun a’ chunntais seo.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = Faclan-faire
+contextual-manager-website-icon =
+    .alt = Ìomhaigheag na làraich-lìn
 contextual-manager-copy-icon =
     .alt = Lethbhreac
+contextual-manager-check-icon-username =
+    .alt = Chaidh lethbhreac a dhèanamh
+contextual-manager-check-icon-password =
+    .alt = Chaidh lethbhreac a dhèanamh
+contextual-manager-alert-icon =
+    .alt = Rabhadh
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = Tadhail air { $url }
+    .title = Tadhail air { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = Tadhail air { $url } (rabhadh)
+    .title = Tadhail air { $url } (rabhadh)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = Dèan lethbhreac dhen ainm-chleachdaiche { $username }
+    .title = Dèan lethbhreac dhen ainm-chleachdaiche { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = Dèan lethbhreac dhen ainm-chleachdaiche { $username } (rabhadh)
+    .title = Dèan lethbhreac dhen ainm-chleachdaiche { $username } (rabhadh)
+contextual-manager-password-login-line =
+    .aria-label = Dèan lethbhreac dhen fhacal-fhaire
+    .title = Dèan lethbhreac dhen fhacal-fhaire
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = Dèan lethbhreac dhen fhacal-fhaire (rabhadh)
+    .title = Dèan lethbhreac dhen fhacal-fhaire (rabhadh)
+contextual-manager-edit-login-button = Deasaich
+    .tooltiptext = Deasaich am facal-faire
+contextual-manager-view-alert-heading =
+    .heading = Seall a’ chaismeachd
