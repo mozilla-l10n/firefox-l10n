@@ -88,10 +88,28 @@ contextual-manager-passwords-update-password-success-button = Deiseil
 contextual-manager-passwords-delete-password-success-button = Deiseil
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = A bheil thu airson am facal-faire a thoirt air falbh?
+# This message warns the user that deleting a login is permanent.
+contextual-manager-passwords-remove-login-card-message = Chan urrainn dhut seo a neo-dhèanamh.
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = Air ais
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = Thoir air falbh
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = Sguir dheth
+contextual-manager-passwords-alert-card =
+    .aria-label = Caismeachdan fhaclan-faire
+contextual-manager-passwords-alert-back-button =
+    .label = Air ais
+contextual-manager-passwords-alert-list =
+    .aria-label = Liosta nan caismeachdan
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Mholamaid dhut am facal-faire atharrachadh
+    .message = Chaidh innse gun deach faclan-faire a ghoid air an làrach-lìn seo no a leigeil air èalaidh. Atharraich am facal-faire agad airson an cunntas agad a dhìon.
+contextual-manager-passwords-breached-origin-link-message = Ciamar a gheibh { -brand-product-name } fios gun deach briseadh a-steach air dàta?
+contextual-manager-passwords-change-password-button = Atharraich am facal-faire
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Mholamaid dhut am facal-faire atharrachadh
+    .message = Tha am facal-faire seo cho furasta ri thomhas. Tagh fear nas làidire airson an cunntas agad a dhìon.
 
 ## Login Form
 

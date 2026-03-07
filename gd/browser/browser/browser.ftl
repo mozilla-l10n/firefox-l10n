@@ -1554,6 +1554,13 @@ trustpanel-blocker-see-all = Seall na h-uile
 trustpanel-blocker-header =
     .title = Dìon o thracadh airson { $host }
 
+## The urlbar trust icon & panel
+
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = Neo-thèarainte
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1650,3 +1657,25 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[other] Cheadaich { -brand-product-name } { $count } lorgaire-meòir
     }
 trustpanel-fingerprinter-list-header = Tha na làraichean seo a’ feuchainn ri fingerprinting a dhèanamh ort:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] Bhac { -brand-product-name } { $count } chriopto-mhèinneadair
+        [two] Bhac { -brand-product-name } { $count } chriopto-mhèinneadair
+        [few] Bhac { -brand-product-name } { $count } criopto-mhèinneadairean
+       *[other] Bhac { -brand-product-name } { $count } criopto-mhèinneadair
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] Cheadaich { -brand-product-name } { $count } chriopto-mhèinneadair
+        [two] Cheadaich { -brand-product-name } { $count } chriopto-mhèinneadair
+        [few] Cheadaich { -brand-product-name } { $count } criopto-mhèinneadairean
+       *[other] Cheadaich { -brand-product-name } { $count } criopto-mhèinneadair
+    }
+trustpanel-cryptominer-tab-list-header = Tha na làraichean seo a’ feuchainn ri criopto-mhèinneadaireachd a dhèanamh ort:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
+        [two] Chaidh <span data-l10n-name="count">{ $count }</span> thracaiche a bhacadh air an làrach seo
+        [few] Chaidh <span data-l10n-name="count">{ $count }</span> tracaichean a bhacadh air an làrach seo
+       *[other] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
+    }
