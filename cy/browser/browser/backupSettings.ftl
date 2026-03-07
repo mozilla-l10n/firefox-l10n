@@ -289,7 +289,7 @@ backup-file-creation-metadata = { $profileName } Crëwyd ar { DATETIME($date, ye
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Wedi'i adfer o { $deviceName } ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } am { DATETIME($date, hour: "2-digit", minutes: " 2-digid") }
+backup-restored-profile-name = Wedi'i adfer o { $deviceName } ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } am { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
