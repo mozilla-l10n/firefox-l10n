@@ -2310,6 +2310,8 @@ preferences-doh-status-item-active =
     .message = DNS-over-HTTPS brukar leverandøren { $name }
 preferences-doh-select-resolver-label =
     .label = Vel leverandør:
+preferences-doh-header2 =
+    .heading = DNS over HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2378,7 +2380,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } er på vakt
+security-privacy-status-ok-label = Utvida sporingsvern er på
 security-privacy-status-problem-helper-label = Vis problem
+security-privacy-status-update-needed-label = Ein ny versjon av { -brand-short-name } er tilgjengeleg.
 security-privacy-status-update-button-label =
     .label = Oppdater { -brand-short-name }
 security-privacy-issue-card =
