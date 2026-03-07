@@ -658,6 +658,7 @@ pdfjs-toggle-views-manager-button =
     .title = Alternar barra lateral
 pdfjs-toggle-views-manager-notification-button =
     .title = Cambiar barra lateral (índice de contenidos del documento/miniaturas/adjuntos/capas)
+pdfjs-toggle-views-manager-button1-label = Administrar páginas
 pdfjs-toggle-views-manager-button-label = Alternar barra lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Barra lateral
@@ -720,6 +721,8 @@ pdfjs-views-manager-status-close-button =
     .title = Cerrar
 pdfjs-views-manager-status-close-button-label = Cerrar
 pdfjs-views-manager-paste-button-label = Pegar
+pdfjs-toggle-views-manager-button1 =
+    .title = Administrar páginas
 
 ## Main menu for adding/removing signatures
 
