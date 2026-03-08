@@ -6,13 +6,22 @@ contextual-manager-filter-input =
     .placeholder = Lorg sna faclan-faire
     .key = f
     .aria-label = Lorg sna faclan-faire
+contextual-manager-menu-more-options-button =
+    .title = Barrachd roghainnean
+contextual-manager-more-options-popup =
+    .aria-label = Barrachd roghainnean
 
 ## Passwords
 
 contextual-manager-passwords-command-create = Cuir facal-faire ris
 contextual-manager-passwords-command-import-from-browser = Ion-phortaich o bhrabhsair eile…
 contextual-manager-passwords-command-import = Ion-phortaich o fhaidhle…
+contextual-manager-passwords-command-export = Às-phortaich na faclan-faire
+contextual-manager-passwords-command-remove-all = Thoir air falbh a h-uile facal-faire
+contextual-manager-passwords-command-options = Roghainnean
+contextual-manager-passwords-command-settings = Roghainnean
 contextual-manager-passwords-command-help = Cobhair
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = Airson na faclan-faire agad às-phortadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
 # This message can be seen when attempting to export a password in about:logins
@@ -35,6 +44,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Airson l
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = lethbhreac a dhèanamh dhen fhacal-fhaire a shàbhail thu
+contextual-manager-passwords-import-file-picker-title = Ion-phortaich na faclan-faire
 contextual-manager-passwords-import-file-picker-import-button = Ion-phortaich
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -50,7 +60,10 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Sgrìobhainn TSV
        *[other] Faidhle TSV
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = Chaidh na faclan-faire ion-phortadh
 contextual-manager-passwords-import-success-button = Deiseil
+contextual-manager-passwords-import-error-button-try-again = Feuch ris a-rithist
 contextual-manager-passwords-import-error-button-cancel = Sguir dheth
 contextual-manager-passwords-export-success-button = Deiseil
 contextual-manager-export-passwords-dialog-confirm-button = Lean air adhart leis an às-phortadh

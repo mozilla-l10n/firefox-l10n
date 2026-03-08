@@ -31,3 +31,5 @@ confirmation-hint-duplicate-tabs-closed =
         [few] Chaidh { $tabCount } tabaichean a dhùnadh
        *[other] Chaidh { $tabCount } taba a dhùnadh
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = Chaidh a ghluasad chun a’ chlàir-thaice
