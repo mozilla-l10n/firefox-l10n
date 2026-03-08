@@ -22,6 +22,9 @@ backup-folder-name = Restaurar { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = CopiaDe{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Copia de seguridad
+    .description = Protege automáticamente tus marcadores, historial y otros datos.
 settings-data-backup-header = Copia de seguridad
 settings-data-backup-toggle = Administrar copias de seguridad
 settings-data-backup-toggle-on2 =
@@ -38,15 +41,31 @@ settings-data-backup-scheduled-backups-on = Copia de seguridad: ACTIVADA
 settings-data-backup-scheduled-backups-off = Copia de seguridad: DESACTIVADA
 settings-data-backup-scheduled-backups-description = Proteja automáticamente sus marcadores, historial y otros datos. <a data-l10n-name="support-link">Saber más</a>
 settings-data-backup-last-backup-date = Última copia de seguridad: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Copia de seguridad ACTIVADA
+settings-data-backup-scheduled-backups-off2 =
+    .label = Copia de seguridad DESACTIVADA
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Ubicación de la copia de seguridad
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Ubicación
 settings-data-backup-last-backup-location-show-in-folder = Mostrar en carpeta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Hubo un error creando la copia de seguridad el { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Haga una copia de seguridad de contraseñas y métodos de pago, además de mantener todos sus datos seguros con cifrado.
+settings-data-toggle-encryption-label2 =
+    .label = Haz una copia de seguridad de tus datos sensibles.
+    .description = Haz una copia de seguridad de tus contraseñas y métodos de pago, y mantén todos tus datos a salvo mediante cifrado.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaura tus datos
+    .description = Recupera tus datos de { -brand-product-name } disponibles en la última copia de seguridad.
+settings-data-backup-restore-scheduled-off =
+    .label = Restaura tus datos
+    .description = Utiliza una copia de seguridad en otro dispositivo para restaurar tus datos de { -brand-product-name }.
 settings-data-backup-restore-header = Restaurar sus datos
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +77,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Seleccione una copia
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupere los datos de { -brand-product-name } desde la última vez que se hizo una copia de seguridad.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
+settings-sensitive-data =
+    .label = Datos sensibles
 settings-data-toggle-encryption-label = Hacer copia de seguridad de los datos sensibles
 settings-data-toggle-encryption-support-link = Saber más
+settings-data-change-password2 =
+    .label = Cambiar contraseña
 settings-data-change-password = Cambiar contraseña…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +125,9 @@ turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de se
 restore-from-backup-header = Restaurar sus datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = ¿Qué datos serán restaurados?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Esto reemplazará todos los datos actuales de { -brand-short-name } con la copia de seguridad de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +145,13 @@ restore-from-backup-password-description = Esto desbloquea su copia de seguridad
 restore-from-backup-cancel-button = Cancelar
 restore-from-backup-confirm-button = Restaurar y reiniciar
 restore-from-backup-restoring-button = Restaurando…
+restore-from-backup-type-group-label =
+    .label = ¿Reemplazar el perfil actual?
+restore-from-backup-type-replace =
+    .label = Reemplazar todos los datos con esta copia de seguridad
+restore-from-backup-type-add =
+    .label = Conservar datos y crear nuevo perfil
+restore-from-backup-profiles-disabled-message = Esto reemplazará todos los datos actuales de { -brand-short-name } con la copia de seguridad.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
