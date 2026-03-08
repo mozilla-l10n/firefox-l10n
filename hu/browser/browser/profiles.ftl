@@ -66,6 +66,8 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = A(z) { $profilename } példánya készen áll a testreszabásra
 copied-profile-page-header-description = Az adatait és beállításait egy új profilba másoltuk. Most adjon neki egy nevet, válasszon egy megjelenést, és szabja testre.
+restored-profile-page-header = Helyreállított profil testreszabása
+restored-profile-page-learn-more = További tudnivalók
 profile-window-title-2 = { -brand-short-name } – Profil kiválasztása
 profile-window-logo =
     .alt = { -brand-short-name } logó

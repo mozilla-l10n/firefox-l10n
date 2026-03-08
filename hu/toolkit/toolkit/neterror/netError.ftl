@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Próbálja HTTPS-re cseré
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = A webhelyek néha védelmet állítanak be saját maguk számára a más webhelyekkel történő nem kívánt interakciók ellen.
 fp-learn-more-about-https-connections = Tudjon meg többet a HTTPS kapcsolatokról
+fp-neterror-vpn-error-title = Nem sikerült kapcsolódni a VPN-hez
+fp-neterror-vpn-error-description = Próbálja újra néhány perc múlva.

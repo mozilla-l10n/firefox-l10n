@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Elem hozzáadása
+storage-delete-all-button =
+    .title = Összes törlése
 # Refresh button title
 storage-refresh-button =
     .title = Elemek frissítése

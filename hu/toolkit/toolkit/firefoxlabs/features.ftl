@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Tartsa fejben 
 experimental-features-semantic-history-search =
     .label = Szemantikus előzménykereső
 experimental-features-semantic-history-search-description = Használjon helyi gépi tanulási modellt, hogy olyan bejegyzéseket javasoljon az előzményekből, amelyek kapcsolódnak a { -brand-product-name } címsorából indított kereséseihez. <a data-l10n-name="connect">Visszajelzés megosztása</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Lapjegyzetek
+experimental-features-tab-notes-description = A lapjegyzetek egy kísérleti funkció, amellyel feljegyzéseket adhat a böngészőlapjaihoz. Jegyezze fel a kontextust, írjon emlékeztetőket vagy írja fel a következő lépéseket, hogy visszatérhessen, és emlékezzen rá, hogy miért nyitotta meg. Örülnénk a visszajelzésének, miközben folyamatosan fejlesztjük a funkciót. <a data-l10n-name="connect">Visszajelzés megosztása</a>
