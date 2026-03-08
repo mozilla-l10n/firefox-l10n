@@ -63,6 +63,9 @@ settings-data-backup-last-backup-filename = Fitxategi-izena: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = Berreskuratu zure datuak
     .description = Berreskuratu zure { -brand-product-name } datuak azkeneko aldiz egin zen babeskopiatik.
+settings-data-backup-restore-scheduled-off =
+    .label = Berreskuratu zure datuak
+    .description = Erabili beste gailu bateko { -brand-product-name } babeskopia zure datuak berreskuratzeko.
 settings-data-backup-restore-header = Berreskuratu zure datuak
 
 ## These strings are shown under the header if scheduled backups are disabled.

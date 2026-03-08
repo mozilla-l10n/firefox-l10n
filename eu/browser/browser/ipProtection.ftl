@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzailean integratuta
+ipprotection-feature-introduction-link-text = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak zifratze estraz babesteko.
+ipprotection-feature-introduction-link-text-private-browsing = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak zifratze estraz babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
 ipprotection-feature-introduction-button-secondary-no-thanks = Ez, eskerrik asko
@@ -37,6 +39,10 @@ ipprotection-site-settings-callout-button = Ulertuta
 ## Panel
 
 unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako VPNa
+unauthenticated-hide-location-message = Ezkutatu zure kokapena eta gehitu zifratze estra zure { -brand-product-name } nabigazioari.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Lortu VPN datuen doako { $maxUsage } GB hilabetero.
 unauthenticated-get-started = Hasi erabiltzen
 site-exclusion-toggle-label = Erabili VPNa gune honetarako
 site-exclusion-toggle-enabled =
@@ -65,9 +71,43 @@ ipprotection-button-connecting = Aktibatzen…
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPNa pausatuta dago
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. Sarbidea datorren hilabetean berrezarriko da.
+upgrade-vpn-title = Lortu babes estra nabigatzaileaz haratago
+upgrade-vpn-description = Aukeratu zure VPN kokapena, erabili VPNa zure aplikazio guztietarako eta 5 gailu arte, eta ibili seguru edozein saretan, bai etxean edo Wi-Fi publikoan.
+upgrade-vpn-button = Probatu { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-title = Ezin da VPNra konektatu
 ipprotection-connection-status-generic-error-description = Saiatu berriro minutu batzuk barru.
 ipprotection-connection-status-network-error-title = Egiaztatu zure Interneterako konexioa
+ipprotection-connection-status-network-error-description = Konektatu Internetera, gero saiatu VPNa aktibatzen.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Zure VPN mugatik gertu zaude
+    .message = { $usageLeft } GB falta dituzu oraindik hilabeteko { $maxUsage } GBtik.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Zure VPN mugatik gertu zaude
+    .message = { $usageLeft } MB falta dituzu oraindik hilabeteko { $maxUsage } GBtik.
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Ulertuta
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPNa pausatuta dago
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. VPN sarbidea datorren hilabetean berrezarriko da.
+vpn-paused-alert-close-tabs-button = Itxi fitxa guztiak
+vpn-paused-alert-continue-wo-vpn-button = Jarraitu VPNrik gabe
+vpn-error-alert-title = VPNa ez dabil oraintxe bertan.
+vpn-error-alert-body = Saiatu berriro geroago.
