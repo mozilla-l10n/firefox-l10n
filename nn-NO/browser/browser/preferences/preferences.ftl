@@ -1768,9 +1768,16 @@ sitedata-cookies-exceptions2 =
     .label = Handsam unntak
     .accesskey = H
     .description = Du kan angi kva nettstadar som alltid eller aldri har lov til å bruke infokapslar og nettstad-data.
+sitedata-heading =
+    .label = Nettlesingsdata
+    .description = Handsam infokapslar, historikk, hurtigbuffer, nettstaddata, og meir.
 sitedata-settings3 =
     .label = Fjern data for bestemte nettstadar
     .accesskey = F
+sitedata-cookies-exceptions3 =
+    .label = Handsam unntak
+    .accesskey = u
+    .description = Vel korleis visse nettstadar skal handsame infokapslar og nettstaddata.
 cookies-site-data-group =
     .label = Infokapslar og sidedata
 
