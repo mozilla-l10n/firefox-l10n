@@ -96,6 +96,61 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Zure VPN mugatik gertu zaude
     .message = { $usageLeft } MB falta dituzu oraindik hilabeteko { $maxUsage } GBtik.
+ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena ezkutatu eta zifratze estra gehitzeko zure nabigazioari.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
+
+## IP Protection Settings
+
+ip-protection-learn-more = Argibide gehiago
+ip-protection-site-exceptions =
+    .label = Gunearen araberako ezarpenak
+ip-protection-not-opted-in-button = Hasi erabiltzen
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Kudeatu webgunearen ezarpenak
+    .description =
+        { $count ->
+            [one] webgune { $count }
+           *[other] { $count } webgune
+        }
+ip-protection-autostart =
+    .label = Aktibatu VPNa automatikoki
+ip-protection-autostart-checkbox =
+    .label = { -brand-short-name } irekitzen dudanean
+ip-protection-autostart-private-checkbox =
+    .label = Leiho pribatuetan
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Kudeatu webgunearen ezarpenak
+
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB falta dituzu hilabeteko { $maxUsage } GBtik
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB faltan { $maxUsage } GBtik
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB falta dituzu hilabeteko { $maxUsage } MBtik
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB faltan { $maxUsage } MBtik
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. Sarbidea datorren hilabetean berrezarriko da.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = { $maxUsage } GBra berrezartzen da hilabete bakoitzeko lehen egunean.
 
 ## IP Protection bandwidth reset callout
 
