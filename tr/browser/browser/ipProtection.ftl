@@ -149,6 +149,7 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = Web sitesi ayarlarını yönet
+ip-protection-exclusions-desc = Bu listedeki siteler hariç tüm web siteleri için VPN kullanılır. Buradan veya VPN’i açarak site ekleyebilirsiniz.
 
 ## IP Protection Bandwidth
 

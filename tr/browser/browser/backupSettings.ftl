@@ -54,6 +54,9 @@ settings-data-backup-last-backup-location-show-in-folder = Klasörde göster
 settings-data-backup-last-backup-location-edit = Düzenle…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") } tarihinde yedeğiniz oluşturulurken bir hata oluştu
 settings-sensitive-data-encryption-description = Parolalarınızı ve ödeme yöntemlerinizi yedekleyin, şifreleme ile tüm verilerinizi güvende tutun.
+settings-data-toggle-encryption-label2 =
+    .label = Hassas verilerinizi yedekleyin
+    .description = Parolalarınızı ve ödeme yöntemlerinizi yedekleyin, ayrıca tüm verilerinizi şifreleme ile güvende tutun.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dosya adı: { $fileName }
