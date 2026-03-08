@@ -698,6 +698,10 @@ search-show-suggestions-url-bar-option =
     .accesskey = r
 search-suggestions-cant-show-2 =
     .message = Meklēšanas ieteikumi netiks parādīti adreses joslā, jo { -brand-short-name } ir nokonfigurēts neatcerēties vēsturi.
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Ieteikumi no { -brand-short-name } un mūsu partneriem adreses joslā.
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1199,6 +1203,8 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Adrešu josla
 addressbar-suggest = Meklējot adreses joslā, ieteikt
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Adrešu josla — { -firefox-suggest-brand-name }
 addressbar-locbar-history-option =
     .label = Pārlūkošanas vēsturi
     .accesskey = V
