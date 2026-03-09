@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Pytanske namjety zmóžnić abo znjemóžnić.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Přidajće abo zhašejće module PKCS #11.
 policy-ShowHomeButton = Tłóčatko startoweje strony na symbolowej lajsće pokazać.
+policy-SitePolicies = Za sydło specifiske prawidła.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Njepokazujće wužiwanske wuměnjenja a zdźělenku priwatnosće při startowanju. Deklarujeće, zo wužiwanske wuměnjenja akceptujeće a maće awtoritu je akceptować, w mjenje wšěch wosobow, kotrymž přistup k tutomu wobhladowakej dawaće.
 policy-SSLVersionMax = Nastajće maksimalnu SSL-wersiju.

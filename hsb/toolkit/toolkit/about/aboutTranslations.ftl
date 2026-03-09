@@ -15,6 +15,10 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Přełožki za wašu organizaciju k dispoziciji njejsu
     .message = To je prawidło, kotrež je so wot wašeho administratora postajiło.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Zo byšće tekst přełožował, zo byšće tutu funkciju wotblokował
+    .message = Zda so, kaž byšće wodźenske elementy KI aktualizował, zo byšće tutu funkciju blokował. Wotblokujće kóždy čas, zo byšće ju wužiwał.
 about-translations-feature-blocked-unblock-button = Hižo njeblokować
 about-translations-unsupported-info-button = Dalše informacije
 # An error message displayed when the language list fails to load.

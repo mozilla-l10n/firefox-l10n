@@ -2384,7 +2384,10 @@ preferences-ai-controls-block-confirmation-confirm =
 security-privacy-status-ok-header = { -brand-short-name } oma’ẽmeme
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } oikuaauka oipotaha tekorosãve
+security-privacy-status-ok-label = Tapykueho mo’ãha iporãvéva hendýma
+security-privacy-status-problem-label = Rojuhu ñemboheko omoapañuaáiva ñemo’ã
 security-privacy-status-problem-helper-label = Ehecha apañuái
+security-privacy-status-pending-trackers-label = Ohekávo mboy tapykuehoha ojoko { -brand-short-name } jasy ohasaramóvape
 security-privacy-issue-card =
     .heading = Jesarekorã tekorosãrã
 issue-card-reset-button =
@@ -2397,6 +2400,10 @@ issue-card-dismiss-button =
 
 preferences-etp-status-advanced-button =
     .label = Ñemboheko opapotáva
+preferences-etp-header =
+    .heading = Tapykueho mo’ãha iporãvéva
+preferences-etp-reload-tabs-hint =
+    .message = Emyanyhẽjey tendaykeita oiko hag̃ua ko’ã moambuepy.
 preferences-etp-reload-tabs-hint-button =
     .label = Emyanyhẽpaite tendayke
 preferences-etp-reset-strict-button =
