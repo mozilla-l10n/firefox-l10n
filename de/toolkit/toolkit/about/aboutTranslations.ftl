@@ -11,12 +11,31 @@ about-translations-learn-more-link = Weitere Informationen
 about-translations-unsupported-info-message =
     .heading = Übersetzung ist auf diesem Gerät nicht verfügbar.
     .message = Versuchen Sie es auf einem anderen Gerät.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Übersetzungen sind für Ihre Organisation nicht verfügbar
+    .message = Dies ist eine von Ihrem Administrator festgelegte Richtlinie.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Entsperren Sie diese Funktion, um Text zu übersetzen
+    .message = Es sieht so aus, als hätten Sie die KI-Steuerung aktualisiert, um diese Funktion zu blockieren. Sie können sie jederzeit entsperren, um sie zu nutzen.
+about-translations-feature-blocked-unblock-button = Nicht mehr blockieren
 about-translations-unsupported-info-button = Weitere Informationen
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Sprachen konnten nicht geladen werden.
     .message = Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
 about-translations-language-load-error-button = Erneut versuchen
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Beim Übersetzen ist ein Problem aufgetreten
+about-translations-translation-error-subtext = Bitte versuchen Sie es erneut.
+about-translations-translation-error-button = Erneut versuchen
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Leider wird { $language } noch nicht unterstützt
+about-translations-detected-language-unsupported-heading-unknown = Leider wird diese Sprache noch nicht unterstützt.
+about-translations-detected-language-unsupported-subtext = Bitte wählen Sie eine andere Sprache.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Zu übersetzenden Text hinzufügen
