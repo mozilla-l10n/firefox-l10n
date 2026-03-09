@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Preferencias de privacidad del sitio web
+do-not-track-removal3 =
+    .message = Ya no admitimos la funcionalidad “No rastrear”
+non-technical-privacy-heading =
+    .label = Protecciones adicionales
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +528,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Usa los ajustes de tu sistema operativo para “{ $localeName }” para formatear fechas, horas, números y medidas.
+settings-spellcheck-header =
+    .label = Corrección ortográfica
 check-user-spelling =
     .label = Revisar ortografía al escribir
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Descargar diccionarios
+spellcheck-promo =
+    .heading = Cómo utilizar el corrector ortográfico
+    .message = Haz clic derecho en un campo de texto para cambiar el estado de activación del corrector ortográfico o para cambiar el idioma. No todos los campos soportan la corrección ortográfica.
 
 ## General Section - Files and Applications
 
@@ -784,11 +795,20 @@ network-proxy-connection-learn-more = Aprender más
 network-proxy-connection-settings =
     .label = Configuraciones…
     .accesskey = e
+network-proxy-group2 =
+    .label = Configuración de proxy
+    .description = Configura cómo { -brand-short-name } se conecta a internet.
+network-proxy-connection-settings2 =
+    .label = Configurar proxy
+    .description = Cambiar estos ajustes puede producir problemas de conexión
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de inicio, nuevas ventanas y nuevas pestañas.
+home-section =
+    .heading = Inicio
 
 ## Home Section - Default Browser
 
@@ -1049,6 +1069,14 @@ search-one-click-header-3 =
     .description = Elige que motores y atajos aparecen en tu barra de direcciones.
 update-search-engine-success =
     .message = Motor de búsqueda actualizado correctamente
+search-edit-engine-2 =
+    .title = Editar motor de búsqueda
+search-delete-engine =
+    .title = Eliminar motor de búsqueda
+search-enable-engine =
+    .title = Habilitar motor de búsqueda
+search-outlink-to-extensions-page =
+    .title = Gestionar extensiones y temas
 search-choose-engine-column =
     .label = Motor de búsqueda
 search-choose-keyword-column =
@@ -1600,6 +1628,11 @@ history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = Recordará el historial
+history-remember-option-never2 =
+    .label = Nunca recordar el historial
+    .description = Cada ventana actúa como una ventana privada. Cuando está activo, las extensiones deben ser permitidas.
+history-remember-option-custom2 =
+    .label = Personalizar historial
 history-remember-option-never =
     .label = Nunca recordará el historial
 history-remember-option-custom =
@@ -1642,8 +1675,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpiar historial…
     .accesskey = s
+history-header2 =
+    .heading = Historial
+history-section-header =
+    .label = Historial
+    .description = Elige lo que quieres que { -brand-short-name } recuerde cuando cierres el navegador.
+history-custom-section-header =
+    .label = Ajustes avanzados
+    .description = Personaliza qué quieres que { -brand-short-name } recuerde cuando cierres el navegador.
+history-custom-button =
+    .label = Elige lo que quieres que { -brand-short-name } recuerde
 history-group =
     .label = Historial
+history-remember-option-all2 =
+    .label = Recordar el historial
 
 ## Privacy Section - Site Data
 
@@ -1654,17 +1699,27 @@ sitedata-total-size-calculating = Calculando el tamaño de los datos del sitio y
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Actualmente, los sitios web están utilizando <strong>{ $value } { $unit }</strong> de espacio en disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Tus cookies, historial, datos de sitio y caché almacenados están usando actualmente <strong>{ $value } { $unit }</strong> de espacio en disco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tus cookies, datos de sitio y caché almacenados están usando actualmente { $value } { $unit } de espacio en disco.
 sitedata-learn-more = Aprender más
+sitedata-delete-on-close2 =
+    .label = Borrar las cookies y los datos del sitio cada vez que cierres { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Eliminar cookies y datos de sitio cuando { -brand-short-name } sea cerrado
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = En base a tus ajustes de historial, { -brand-short-name } elimina las cookies y los datos del sitio de tu sesión cuando cierras el navegador.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = El historial no se guardará.
+    .message = { -brand-short-name } limpia las cookies y los datos del sitio de tu sesión cuando cierras el navegador.
 sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos de sitio siempre serán limpiados cuando { -brand-short-name } sea cerrado.
 sitedata-delete-on-close-private-browsing2 = En base a tus ajustes de historial, { -brand-short-name } elimina las cookies y los datos del sitio de tu sesión cuando cierras el navegador.
 sitedata-allow-cookies-option =
@@ -1710,6 +1765,16 @@ sitedata-cookies-exceptions2 =
     .label = Gestionar excepciones…
     .accesskey = x
     .description = Puedes especificar que sitios web tienen siempre permitido o prohibido usar cookies y datos de sitio.
+sitedata-heading =
+    .label = Datos de navegación
+    .description = Gestiona tus cookies, historial, cache, datos de sitio web y más.
+sitedata-settings3 =
+    .label = Borrar datos para sitios específicos
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Gestionar excepciones
+    .accesskey = x
+    .description = Elige cómo sitios específicos manejan cookies y datos de sitio.
 cookies-site-data-group =
     .label = Cookies y datos de sitio
 
@@ -1976,6 +2041,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Gestionar redirecciones
+    .accesskey = E
+    .searchkeywords = popups,pop-ups,emergentes
+permissions-addon-install-warning3 =
+    .label = Mostrar advertencia cuando los sitios web intenten instalar extensiones
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Administrar las excepciones de ventanas emergentes y redirecciones de terceros…
     .accesskey = E
@@ -2021,6 +2095,9 @@ permissions-speaker2 =
     .label = Salida de audio
 permissions-notification2 =
     .label = Notificaciones
+permissions-header3 =
+    .label = Permisos
+    .description = Gestionar lo que los sitios web pueden acceder, controlar o gatillar.
 
 ## Privacy Section - Data Collection
 

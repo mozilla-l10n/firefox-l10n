@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Restaurar desde una copia de segurida
 restore-from-backup-title = Recuperemos { -brand-short-name } como te gusta
 restore-from-backup-subtitle = Recupera todos tus marcadores, historial y otros datos para volver a navegar.
 restore-from-backup-secondary-button = No restaurar
+multiple-backups-info-tile = Se encontraron varios archivos de copias de seguridad. Se seleccionó el archivo más reciente. Restaura otros perfiles en <a data-l10n-name="settings-label">Ajustes</a>.
 
 ## Restored from Backup spotlight
 
@@ -578,8 +579,10 @@ onboarding-refresh-pin-set-default-subtitle = Protegemos tus datos y bloqueamos 
 onboarding-refresh-pin-set-default-title = Estás en buenas patas
 onboarding-refresh-import-subtitle = Trae tus contraseñas, marcadores, historial y más.
 onboarding-refresh-import-title = Haz que { -brand-short-name } se sienta más como en casa
+onboarding-refresh-onboarding-addons-subtitle = Las extensiones son pequeñas aplicaciones que te permiten personalizar { -brand-short-name }. Pueden mejorar tu privacidad, aumentar tu productividad, cambiar la apariencia de { -brand-short-name } y mucho más.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Dale un impulso a tu navegación
+onboarding-refresh-sync-subtitle = Accede a tus marcadores, contraseñas y más desde cualquier lugar donde te hayas conectado a { -brand-short-name }. Además, tus datos están cifrados, así que solo tú puedes verlos.
 onboarding-refresh-sync-title = Ve a cualquier parte. Sincroniza todo.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
