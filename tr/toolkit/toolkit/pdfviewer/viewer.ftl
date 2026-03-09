@@ -722,6 +722,10 @@ pdfjs-views-manager-status-undo-button-label = Geri al
 pdfjs-views-manager-status-close-button =
     .title = Kapat
 pdfjs-views-manager-status-close-button-label = Kapat
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = { $page }. sayfadan sonra yapıştır
+pdfjs-views-manager-paste-button-before-label = İlk sayfadan önce yapıştır
 pdfjs-views-manager-paste-button-label = Yapıştır
 pdfjs-toggle-views-manager-button1 =
     .title = Sayfaları yönet

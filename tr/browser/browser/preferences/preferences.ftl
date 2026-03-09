@@ -2433,6 +2433,15 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = Standart (varsayılan)
+    .description = Çoğu sitede sorunsuz çalışan güçlü ve güvenilir korumalar.
+preferences-etp-level-strict =
+    .label = Sıkı
+    .description = Daha fazla takip kodunu engelleyen ama bazı sitelerin bozulmasına yol açabilen daha güçlü korumalar.
+preferences-etp-level-custom =
+    .label = Özel
+    .description = Hangi korumaları etkinleştirmek veya devre dışı bırakmak istediğinizi seçin.
 preferences-etp-status-advanced-button =
     .label = Gelişmiş ayarlar
 preferences-etp-header =
@@ -2447,6 +2456,10 @@ preferences-etp-rfp-warning-message =
     .message = Resist Fingerprinting (RFP) özelliğini kullanıyorsunuz. { -brand-short-name } tarayıcısının bazı parmak izi koruma ayarlarını değiştiren bu özellik bazı sitelerin bozulmasına yol açabilir.
 preferences-etp-customize-header =
     .heading = İzlenme korumasını özelleştir
+preferences-etp-reset-standard-button =
+    .label = Standart ayarlara dön
+preferences-etp-reset-strict-button =
+    .label = Sıkı ayarlara dön
 preferences-etp-custom-cookies-enabled =
     .label = Çerezler
 preferences-etp-custom-cookie-behavior =

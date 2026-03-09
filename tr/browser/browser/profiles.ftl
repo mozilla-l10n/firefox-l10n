@@ -90,6 +90,9 @@ delete-profile-bookmarks = Yer imleri
 delete-profile-history = Geçmiş (ziyaret edilen sayfalar, çerezler, site verileri)
 delete-profile-autofill = Otomatik doldurma verileri (adresler, ödeme yöntemleri)
 delete-profile-logins = Parolalar
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = “{ $profilename }” profilini sil
 
 ##
 
