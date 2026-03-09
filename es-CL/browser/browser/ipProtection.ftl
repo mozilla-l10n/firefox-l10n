@@ -90,6 +90,12 @@ ipprotection-connection-status-network-error-description = Conéctate a Internet
 ipprotection-message-bandwidth-warning =
     .heading = Acercándose al límite de tu VPN
     .message = Te quedan { $usageLeft } GB de { $maxUsage } GB disponibles para este mes.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Acercándose al límite de tu VPN
+    .message = Te quedan { $usageLeft } MB de { $maxUsage } GB para este mes.
 ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configura la VPN para que se active</a> cada vez que abras { -brand-short-name } para tener una capa adicional de protección.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web has configurado para usar VPN. Actualízalos en <a data-l10n-name="setting-link">ajustes</a> cuando quieras.
@@ -138,6 +144,9 @@ ip-protection-autostart-checkbox =
     .label = Cuando abro { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = En ventanas privadas
+ip-protection-vpn-upgrade-link =
+    .label = Obtén aún más protección fuera de { -brand-short-name } con { -mozilla-vpn-brand-name }.
+    .description = Elige ubicaciones de VPN personalizadas y añade protección a todas tus apps en hasta cinco dispositivos, ya sea que estés en casa o en Wi-Fi público.
 
 ## IP Protection dialogs
 
