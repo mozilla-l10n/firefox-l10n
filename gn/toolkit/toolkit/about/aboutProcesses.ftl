@@ -63,6 +63,15 @@ about-processes-unknown-process = Ambue: { $type } ({ $pid })
 ## Properties of isolated web processes
 
 about-processes-web-isolated-property-private = ñemigua
+about-processes-web-isolated-property-serviceworker = mba’apohára pytyvõrãva
+about-processes-web-isolated-property-jit-disabled = JIT pe’apyre
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Isolated process names
 ## Variables:

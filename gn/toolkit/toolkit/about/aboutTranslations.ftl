@@ -11,12 +11,14 @@ about-translations-learn-more-link = Eikuaave
 about-translations-unsupported-info-message =
     .heading = Pe ñemoñe’ẽasa ndaipóri ko mba’e’okápe.
     .message = Eñeha’ã emoambue mba’e’oka ambuépe.
+about-translations-feature-blocked-unblock-button = Mbojera
 about-translations-unsupported-info-button = Eikuaave
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Noñemyanyhẽkuaái ñe’ẽita
     .message = Ehecha ne ñandutípe jeikeha ha eha’ã jey ag̃ave.
 about-translations-language-load-error-button = Eha’ã jey
+about-translations-translation-error-button = Eha’ã jey
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Embojuaju moñe’ẽrã emoñe’ẽasa hag̃ua
