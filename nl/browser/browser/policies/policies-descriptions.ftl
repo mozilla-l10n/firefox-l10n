@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Zoeksuggesties inschakelen of uitschakelen.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11-modules toevoegen of verwijderen.
 policy-ShowHomeButton = De startpaginaknop op de werkbalk tonen.
+policy-SitePolicies = Websitespecifiek beleid.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = De gebruiksvoorwaarden en privacyverklaring niet tonen bij opstarten. U verklaart dat u de Gebruiksvoorwaarden accepteert en de zeggenschap hebt om deze te accepteren namens alle personen aan wie u toegang tot deze browser geeft.
 policy-SSLVersionMax = De maximale SSL-versie instellen.

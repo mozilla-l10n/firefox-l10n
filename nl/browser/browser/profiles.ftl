@@ -90,6 +90,9 @@ delete-profile-bookmarks = Bladwijzers
 delete-profile-history = Geschiedenis (bezochte pagina’s, cookies, websitegegevens)
 delete-profile-autofill = Gegevens automatisch invullen (adressen, betalingsmethoden)
 delete-profile-logins = Wachtwoorden
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Profiel ‘{ $profilename }’ verwijderen
 
 ##
 
