@@ -11,12 +11,31 @@ about-translations-learn-more-link = 더 알아보기
 about-translations-unsupported-info-message =
     .heading = 이 기기에서는 번역을 사용할 수 없습니다.
     .message = 다른 기기로 전환해 보세요.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = 이 조직에서는 번역을 사용할 수 없습니다.
+    .message = 이는 관리자가 설정한 정책입니다.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = 텍스트를 번역하려면 이 기능 차단을 해제하세요
+    .message = 이 기능을 차단하기 위해 AI 제어를 업데이트한 것 같습니다. 언제든지 차단을 해제하고 사용해 보세요.
+about-translations-feature-blocked-unblock-button = 차단 해제
 about-translations-unsupported-info-button = 더 알아보기
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = 언어를 로드할 수 없음.
     .message = 인터넷 연결을 확인하고 다시 시도하세요.
 about-translations-language-load-error-button = 다시 시도
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = 번역하는 중에 문제가 발생함
+about-translations-translation-error-subtext = 다시 시도하세요.
+about-translations-translation-error-button = 다시 시도
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = 죄송합니다. 아직 { $language } 언어는 지원하지 않습니다
+about-translations-detected-language-unsupported-heading-unknown = 죄송합니다. 아직 이 언어는 지원하지 않습니다
+about-translations-detected-language-unsupported-subtext = 다른 언어를 선택해 주세요.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = 번역할 텍스트 추가
