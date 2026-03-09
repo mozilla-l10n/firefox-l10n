@@ -88,6 +88,9 @@ delete-profile-bookmarks = Σελιδοδείκτες
 delete-profile-history = Ιστορικό (σελίδες που έχετε επισκεφτεί, cookie, δεδομένα ιστοτόπων)
 delete-profile-autofill = Δεδομένα αυτόματης συμπλήρωσης (διευθύνσεις, μέθοδοι πληρωμής)
 delete-profile-logins = Κωδικοί πρόσβασης
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Διαγραφή του προφίλ «{ $profilename }»
 
 ##
 

@@ -17,6 +17,16 @@ about-translations-language-load-error-message =
     .heading = Δεν ήταν δυνατή η φόρτωση των γλωσσών.
     .message = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
 about-translations-language-load-error-button = Δοκιμή ξανά
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Προέκυψε πρόβλημα κατά τη μετάφραση
+about-translations-translation-error-subtext = Δοκιμάστε ξανά.
+about-translations-translation-error-button = Δοκιμή ξανά
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Δυστυχώς, δεν υποστηρίζονται ακόμα τα { $language }
+about-translations-detected-language-unsupported-heading-unknown = Δυστυχώς, δεν υποστηρίζεται ακόμα αυτή η γλώσσα
+about-translations-detected-language-unsupported-subtext = Επιλέξτε κάποια άλλη γλώσσα.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Προσθήκη κειμένου προς μετάφραση
