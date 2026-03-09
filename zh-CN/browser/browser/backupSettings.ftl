@@ -43,6 +43,9 @@ settings-data-backup-scheduled-backups-on2 =
 settings-data-backup-scheduled-backups-off2 =
     .label = 备份：已关闭
 # "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = 备份位置
+# "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = 位置
 settings-data-backup-last-backup-location-show-in-folder = 在文件夹中显示
 settings-data-backup-last-backup-location-edit = 编辑…
@@ -62,8 +65,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = 选择备份文件�
 
 settings-data-backup-scheduled-backups-on-restore-description = 从上次备份恢复您的 { -brand-product-name } 数据。
 settings-data-backup-scheduled-backups-on-restore-choose = 恢复…
+settings-sensitive-data =
+    .label = 敏感数据
 settings-data-toggle-encryption-label = 备份敏感数据
 settings-data-toggle-encryption-support-link = 详细了解
+settings-data-change-password2 =
+    .label = 更改密码
 settings-data-change-password = 更改密码…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -123,6 +130,10 @@ restore-from-backup-password-description = 用于解锁加密的备份。
 restore-from-backup-cancel-button = 取消
 restore-from-backup-confirm-button = 恢复并重启
 restore-from-backup-restoring-button = 正在恢复…
+restore-from-backup-type-replace =
+    .label = 用此备份替换所有数据
+restore-from-backup-type-add =
+    .label = 保留数据并创建新的配置文件
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
