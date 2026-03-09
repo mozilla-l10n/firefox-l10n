@@ -90,6 +90,9 @@ delete-profile-bookmarks = 書籤
 delete-profile-history = 瀏覽紀錄（造訪過的網頁、Cookie、網站資料等）
 delete-profile-autofill = 表單自動填寫資料（地址、付款方式等）
 delete-profile-logins = 密碼
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = 刪除「{ $profilename }」原則
 
 ##
 
