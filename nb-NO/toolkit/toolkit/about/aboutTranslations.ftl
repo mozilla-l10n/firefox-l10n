@@ -11,12 +11,30 @@ about-translations-learn-more-link = Les mer
 about-translations-unsupported-info-message =
     .heading = Oversettelse er ikke tilgjengelig på denne enheten.
     .message = Prøv å bytte til en annen enhet.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Oversettelser er ikke tilgjengelige for organisasjonen din
+    .message = Dette er en policy satt av administratoren din.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Opphev blokkeringen av denne funksjonen for å oversette tekst
+    .message = Det ser ut til at du har oppdatert A-kontrollene til å blokkere denne funksjonen. Opphev blokkeringen når som helst for å begynne å bruke den.
+about-translations-feature-blocked-unblock-button = Opphev blokkering
 about-translations-unsupported-info-button = Les mer
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Kunne ikke laste inn språk.
     .message = Kontroller internettforbindelsen din og prøv igjen.
 about-translations-language-load-error-button = Prøv igjen
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Det oppsto et problem med oversettelsen
+about-translations-translation-error-subtext = Prøv igjen.
+about-translations-translation-error-button = Prøv igjen
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Beklager, vi støtter ikke { $language } ennå
+about-translations-detected-language-unsupported-heading-unknown = Beklager, vi støtter ikke dette språket ennå
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Legg til tekst for å oversette

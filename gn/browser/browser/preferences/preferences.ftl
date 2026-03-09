@@ -1711,6 +1711,9 @@ sitedata-total-size2 = Umi kookie mbyatypyre, tembasakue, tenda mba’ekuaarã h
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Umi kookie, tenda mba’ekuaarã ha kache mandu’arenda oiporuhína { $value } { $unit } disco pegua pa’ũ.
 sitedata-learn-more = Kuaave
+sitedata-delete-on-close2 =
+    .label = Embogue kookieta ha tenda mba’ekuaarã embotývo { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Embogue kookie ha mba’ekuaarã rendagua oñemboty vove { -brand-short-name }
     .accesskey = c
