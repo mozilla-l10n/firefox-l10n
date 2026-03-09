@@ -11,12 +11,15 @@ about-translations-learn-more-link = Pro saper plus
 about-translations-unsupported-info-message =
     .heading = Le traduction non es disponibile sur iste apparato.
     .message = Tenta passar a un apparato differente.
+about-translations-feature-blocked-unblock-button = Disblocar
 about-translations-unsupported-info-button = Pro saper plus
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Impossibile cargar linguas.
     .message = Verifica tu connexion a internet e retenta.
 about-translations-language-load-error-button = Retentar
+about-translations-translation-error-subtext = Retenta.
+about-translations-translation-error-button = Retenta
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Adder texto a traducer
