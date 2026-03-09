@@ -1102,7 +1102,7 @@ home-prefs-timer-header =
 home-prefs-support-firefox-header =
     .label =
         { -brand-product-name.case-status ->
-            [with-cases] Podpora { -brand-product-name(case: "acc") }
+            [with-cases] Podpora { -brand-product-name(case: "gen") }
            *[no-cases] Podpora aplikace { -brand-product-name }
         }
 home-prefs-mission-message = Naši sponzoři podporují naši misi budovat lepší web.
