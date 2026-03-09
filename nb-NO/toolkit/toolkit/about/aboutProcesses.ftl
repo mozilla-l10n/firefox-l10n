@@ -65,6 +65,7 @@ about-processes-unknown-process = Annet: { $type }({ $pid })
 about-processes-web-isolated-property-private = privat
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT deaktivert
+about-processes-web-isolated-property-with-coop-coep = kryssende-opprinnelse-isolert
 
 ## Isolated process names
 ## Variables:
@@ -80,7 +81,7 @@ about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
 about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
-about-processes-with-coop-coep-process = { $origin } ({ $pid }, cross-origin isolert)
+about-processes-with-coop-coep-process = { $origin } ({ $pid }, kryssende-opprinnelse-isolert)
 about-processes-web-isolated-process-private = { $origin } — Privat ({ $pid })
 about-processes-with-coop-coep-process-private = { $origin } — Privat ({ $pid }, cross-origin isolert)
 
