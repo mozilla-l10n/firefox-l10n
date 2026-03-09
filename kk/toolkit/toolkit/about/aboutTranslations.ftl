@@ -11,12 +11,18 @@ about-translations-learn-more-link = Көбірек білу
 about-translations-unsupported-info-message =
     .heading = Бұл құрылғыда аударма қолжетімді емес.
     .message = Басқа құрылғыға ауысып көріңіз.
+about-translations-feature-blocked-unblock-button = Блоктан шығару
 about-translations-unsupported-info-button = Көбірек білу
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Тілдерді жүктеу мүмкін емес
     .message = Байланысты тексеріп, қайталап көріңіз.
 about-translations-language-load-error-button = Қайтадан көру
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Аударма кезінде мәселе туындады
+about-translations-translation-error-subtext = Қайталап көріңіз.
+about-translations-translation-error-button = Қайталап көру
+about-translations-detected-language-unsupported-subtext = Басқа тілді таңдаңыз.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Аударылатын мәтінді қосу
