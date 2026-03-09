@@ -11,12 +11,31 @@ about-translations-learn-more-link = Learn more
 about-translations-unsupported-info-message =
     .heading = Translation isn’t available on this device.
     .message = Try switching to a different device.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Translations aren’t available for your organisation
+    .message = This is a policy set by your administrator.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = To translate text, unblock this feature
+    .message = It looks like you updated AI controls to block this feature. Unblock any time to start using it.
+about-translations-feature-blocked-unblock-button = Unblock
 about-translations-unsupported-info-button = Learn more
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Couldn’t load languages.
     .message = Check your internet connection and try again.
 about-translations-language-load-error-button = Try again
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = There was a problem translating
+about-translations-translation-error-subtext = Please try again.
+about-translations-translation-error-button = Try again
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Sorry, we don’t support { $language } yet
+about-translations-detected-language-unsupported-heading-unknown = Sorry, we don’t support this language yet
+about-translations-detected-language-unsupported-subtext = Please choose another language.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Add text to translate
