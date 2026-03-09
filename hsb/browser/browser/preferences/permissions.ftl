@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Nowe žadanja za přistupom na wašu kameru blokować
 permissions-site-camera-disable-desc = To budźe websydła, kotrež horjeka w lisćinje podate njejsu, při žadanju za přistupom k wašej kamerje haćić. Hdyž přistup k wašej kamerje blokujeće, móže so stać, zo někotre funkcije websydła njefunguja.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Nastajenja – Gratowe nałoženja a słužby

@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Estä uudet lupapyynnöt kameran käyttämiseksi
 permissions-site-camera-disable-desc = Tämä estää kaikki yllä mainitsemattomat sivustot pyytämästä lupaa käyttää kameraa. Kameran käytön estäminen voi rikkoa joitain sivuston ominaisuuksia.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Asetukset - Laitesovellukset ja -palvelut

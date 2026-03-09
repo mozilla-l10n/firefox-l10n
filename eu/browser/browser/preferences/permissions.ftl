@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Blokeatu zure kamera erabiltzeko eskaera berriak
 permissions-site-camera-disable-desc = Aukera honekin, kamera erabiltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Kamerarako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Ezarpenak - Gailuaren aplikazio eta zerbitzuak

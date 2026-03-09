@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Bllokoni kërkesa të reja për përdorim kamere
 permissions-site-camera-disable-desc = Kjo do të pengojë çfarëdo sajti jo të pranishëm më sipër të kërkojë leje për të përdorur kamerën tuaj. Bllokimi i përdorimit të kamerës tuaj mund të prishë punimin e ndonjë veçorie të sajtit.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Rregullime - Aplikacione dhe shërbime pajisjeje

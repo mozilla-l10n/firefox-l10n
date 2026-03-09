@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Chặn các yêu cầu mới về việc cho phép tru cập máy ảnh của bạn
 permissions-site-camera-disable-desc = Điều này sẽ ngăn chặn bất cứ trang web nào không được liệt kê ở trên gửi yêu cầu cho phép việc truy cập máy ảnh của bạn. Chặn thông báo có thể ảnh hưởng đến một số tính năng trang web.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Cài đặt - Ứng dụng và dịch vụ thiết bị

@@ -172,7 +172,7 @@ permissions-site-camera-disable-label =
     .label = Blokir permintaan baru untuk mengakses kamera Anda
 permissions-site-camera-disable-desc = Ini akan mencegah situs web apa pun yang tidak tercantum di atas minta mengakses kamera Anda. Memblokir akses ke kamera Anda dapat menghentikan beberapa fitur situs web.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Pengaturan - Aplikasi dan layanan perangkat

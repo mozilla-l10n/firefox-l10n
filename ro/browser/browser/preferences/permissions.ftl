@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Blochează noile solicitări de accesare a camerei
 permissions-site-camera-disable-desc = Acest lucru va împiedica orice site web care nu este listat mai sus să ceară permisiunea de a-ți accesa camera. Blocarea accesului la cameră ar putea interfera cu unele funcții ale site-urilor web.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Setări - aplicații și servicii pe dispozitiv

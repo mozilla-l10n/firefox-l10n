@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Blokovať nové žiadosti o prístup ku kamere
 permissions-site-camera-disable-desc = Týmto zakážete webovým stránkam, ktoré nie sú uvedené v zozname vyššie, požiadať o prístup ku vašej kamere. Blokovanie prístupu ku kamere môže rozbiť niektoré funkcie stránok.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Nastavenia – Aplikácie a služby v zariadení

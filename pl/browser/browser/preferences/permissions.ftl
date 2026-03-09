@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Blokowanie nowych próśb o dostęp do kamery
 permissions-site-camera-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do kamery. Zablokowanie dostępu do kamery może spowodować, że niektóre funkcje witryny nie będą działać.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Aplikacje i usługi na urządzeniu — uprawnione witryny

@@ -165,7 +165,7 @@ permissions-site-camera-disable-label =
     .label = Արգելափակել Ձեր տեսախցիկին հասանելիություն ունենալու նոր պահանջները
 permissions-site-camera-disable-desc = Սա կկանխի ցանկում չնշված որևէ կայքի՝ Ձեր տեսախցիկին հասանելիություն պահանջելուց: Տեսախցիկին հասանելիություն ունենալուց արգելափակումը կարող է խախտել կայքերի որոշ հատկություններ:
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Կարգավորումներ․ սարքի հավելվածներ և ծառայություններ

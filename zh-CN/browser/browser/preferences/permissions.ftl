@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = 禁止新的操控摄像头请求
 permissions-site-camera-disable-desc = 所有列表外的网站将无法请求操控您的摄像头。禁止此权限可能会影响某些网站的功能。
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = 设置 - 设备应用和服务

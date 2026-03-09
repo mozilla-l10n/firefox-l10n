@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = ปิดกั้นคำร้องขอใหม่ที่ขอเข้าถึงกล้องของคุณ
 permissions-site-camera-disable-desc = นี่จะป้องกันไม่ให้เว็บไซต์ใดๆ ที่ไม่ได้ระบุไว้ด้านบนขออนุญาตเพื่อเข้าถึงกล้องของคุณ การปิดกั้นการเข้าถึงกล้องของคุณอาจทำให้คุณลักษณะบางอย่างของเว็บไซต์ไม่สมบูรณ์
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = การตั้งค่า - แอปและบริการบนอุปกรณ์

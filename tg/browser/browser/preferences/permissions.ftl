@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Манъ кардани дархостҳои наве, ки иҷозати пайдокунии дастрасиро ба камераи шумо дархост мекунанд
 permissions-site-camera-disable-desc = Ин амал ҳамаи сомонаҳоеро, ки дар рӯйхати бодо вуҷуд надоранд, аз дархости иҷозат барои пайдо кардани дастрасӣ ба камераи шумо пешгирӣ мекунад. Амали манъкунии дастрасӣ ба камераи шумо метавонад баъзе хусусиятҳои сомонаро вайрон кунад.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Танзимот - Барномаҳо ва хизматҳои дастгоҳ

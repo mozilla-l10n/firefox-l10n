@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Αποκλεισμός νέων αιτημάτων πρόσβασης στην κάμερά σας
 permissions-site-camera-disable-desc = Αυτό θα εμποδίσει τα αιτήματα πρόσβασης στην κάμερά σας από όλους τους ιστοτόπους που δεν αναγράφονται παραπάνω. Ο αποκλεισμός πρόσβασης στην κάμερά σας ενδέχεται να προκαλέσει δυσλειτουργία σε ορισμένους ιστοτόπους.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Ρυθμίσεις - Εφαρμογές και υπηρεσίες συσκευής

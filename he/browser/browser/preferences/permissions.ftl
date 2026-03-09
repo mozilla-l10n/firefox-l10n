@@ -177,7 +177,7 @@ permissions-site-camera-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למצלמה שלך
 permissions-site-camera-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למצלמה שלך. חסימת הגישה למצלמה שלך עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = הגדרות - יישומים ושירותים של מכשירים

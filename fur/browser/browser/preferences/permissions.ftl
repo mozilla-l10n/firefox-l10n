@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Bloche lis gnovis richiestis che a domandin di acedi ae tô fotocjamare
 permissions-site-camera-disable-desc = Chest al impedirà a ducj i sîts web che no son listâts achì parsore di domandâ il permès par doprâ la tô fotocjamare. Blocant l'acès ae tô fotocjamare cualchi sît web al podarès vê malfunzionaments.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Impostazions - Aplicazions e servizis dal dispositîf

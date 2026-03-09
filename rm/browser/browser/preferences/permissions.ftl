@@ -175,7 +175,7 @@ permissions-site-camera-disable-label =
     .label = Bloccar novas dumondas d'access a tia camera
 permissions-site-camera-disable-desc = Qua tras vegn impedì ch'ina pagina betg menziunada survart ta dumondia la permissiun da pudair acceder a tia camera. Cun bloccar l'access a tia camera vegnan eventualmain tangadas tschertas funcziuns da paginas d'internet.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Parameters - Apps e servetschs da l’apparat

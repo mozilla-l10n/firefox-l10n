@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Blockera nya förfrågningar om att få tillgång till din kamera
 permissions-site-camera-disable-desc = Detta kommer att förhindra att webbplatser som inte listas ovan från att begära tillstånd att komma åt din kamera. Att blockera åtkomst till din kamera kan störa vissa webbplatsfunktioner.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Inställningar - Enhetens appar och tjänster

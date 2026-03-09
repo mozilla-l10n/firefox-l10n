@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Kamerama erişme isteklerini sormadan engelle
 permissions-site-camera-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi kameranıza erişme isteğinde bulunamayacaktır. Kamera erişimini engellerseniz bazı site özellikleri çalışmayabilir.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Ayarlar - Cihaz uygulamaları ve hizmetleri

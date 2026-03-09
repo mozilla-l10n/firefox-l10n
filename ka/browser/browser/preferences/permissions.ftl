@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = კამერასთან წვდომის ახალი მოთხოვნების შეზღუდვა
 permissions-site-camera-disable-desc = შედეგად, ყველა ვებსაიტს, რომლებიც ზემოთ არ იქნება მითითებული, აეკრძალება თქვენს კამერასთან წვდომა. კამერასთან წვდომის შეზღუდვის გამო შესაძლოა, ვებსაიტის ზოგიერთმა შესაძლებლობამ ვერ იმუშაოს.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = პარამეტრები – მოწყობილობის პროგრამები და მომსახურებები

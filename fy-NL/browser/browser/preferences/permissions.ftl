@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Nije fersiken om tagong ta jo kamera blokkearje
 permissions-site-camera-disable-desc = Dit soarget derfoar dat websites dy’t hjirboppe net fermeld wurde om tastimming foar tagong ta jo kamera freegje. It blokkearjen fan tagong ta jo kamera kin bepaalde funksjes fan websites fersteure.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Ynstellingen - Apparaatapps en -services

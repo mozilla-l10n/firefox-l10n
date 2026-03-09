@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = 새 카메라 접근 요청을 차단
 permissions-site-camera-disable-desc = 위 목록에 없는 사이트는 카메라 사용 요청을 할 수 없게 됩니다. 카메라 접근을 차단하면 웹 사이트의 일부 기능이 작동하지 않을 수 있습니다.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = 설정 - 기기 앱과 서비스

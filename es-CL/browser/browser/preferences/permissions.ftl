@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Bloquear futuras solicitudes de acceso a tu cámara
 permissions-site-camera-disable-desc = Esto evitará que los sitios web no listados arriba puedan solicitar permiso para acceder a tu cámara. Bloquear el acceso a tu cámara puede hacer fallar ciertas características de algunos sitios web.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Ajustes - Aplicaciones y servicios del dispositivo

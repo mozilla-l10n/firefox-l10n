@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Камераңызға қатынауға жаңа сұранымдарды блоктау
 permissions-site-camera-disable-desc = Бұл төменде тізілмеген веб-сайттарға камераңызға қатынауға рұқсат сұрауға тыйым салады. Камераңызға қатынауды блоктау веб-сайттардың кейбір мүмкіндіктерін сындыра алады.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Баптаулар - Құрылғы қолданбалары мен қызметтері

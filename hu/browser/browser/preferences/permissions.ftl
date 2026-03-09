@@ -178,7 +178,7 @@ permissions-site-camera-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a kamerájához
 permissions-site-camera-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak kamera-hozzáférést kérjenek. A kamera-hozzáférés blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
-## Site Permissions - Local host
+## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
     .title = Beállítások – Eszközalkalmazások és -szolgáltatások
