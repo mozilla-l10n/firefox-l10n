@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Syksuggestjes ynskeakelje of útskeakelje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11-modules tafoegje of fuortsmite.
 policy-ShowHomeButton = De startsideknop op de arkbalke toane.
+policy-SitePolicies = Websitespesifyk belied.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Lit de brûksbetingsten en privacyferklearring net werjaan by it opstarten. Jo ferklearje dat jo de Brûksbetingsten akseptearje en it foech hawwe om dizze te akseptearjen út namme fan alle persoanen oan wa’t jo tagong jouwe ta dizze browser.
 policy-SSLVersionMax = De maksimale SSL-ferzje ynstelle.

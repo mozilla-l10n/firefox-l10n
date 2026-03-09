@@ -11,12 +11,31 @@ about-translations-learn-more-link = Meer info
 about-translations-unsupported-info-message =
     .heading = Vertaling is niet beschikbaar op dit apparaat.
     .message = Probeer naar een ander apparaat over te stappen.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Vertalingen zijn voor uw organisatie niet beschikbaar
+    .message = Dit is beleid dat door uw beheerder is ingesteld.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Deblokkeer deze functie om tekst te vertalen
+    .message = Het lijkt erop dat u AI-bedieningselementen hebt bijgewerkt om deze functie te blokkeren. Deblokkeer de functie op elk gewenst moment om deze te gaan gebruiken.
+about-translations-feature-blocked-unblock-button = Blokkering opheffen
 about-translations-unsupported-info-button = Meer info
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Kan talen niet laden.
     .message = Controleer uw internetverbinding en probeer het opnieuw.
 about-translations-language-load-error-button = Opnieuw proberen
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Er is een probleem opgetreden bij het vertalen
+about-translations-translation-error-subtext = Probeer het opnieuw.
+about-translations-translation-error-button = Opnieuw proberen
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Sorry, we ondersteunen nog geen { $language }
+about-translations-detected-language-unsupported-heading-unknown = Sorry, we ondersteunen deze taal nog niet
+about-translations-detected-language-unsupported-subtext = Kies een andere taal.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Te vertalen tekst toevoegen

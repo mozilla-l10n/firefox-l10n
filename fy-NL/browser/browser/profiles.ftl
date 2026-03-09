@@ -90,6 +90,9 @@ delete-profile-bookmarks = Blêdwizers
 delete-profile-history = Skiednis (besochte siden, cookies, websitegegevens)
 delete-profile-autofill = Gegevens automatysk ynfolje (adressen, betelmetoaden)
 delete-profile-logins = Wachtwurden
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Profyl ‘{ $profilename }’ fuortsmite
 
 ##
 

@@ -114,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Jo naderje jo VPN-l
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Jo hawwe hast gjin VPN-gegevens mear.</strong> Jo hawwe noch { $usageLeft } GB oer. As alles brûkt is, wurdt jo VPN pauzearre oant jo gegevens opnij ynsteld wurde op de earste dei fan de folgjende moanne.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Jo hawwe hast gjin VPN-gegevens mear.</strong> Jo hawwe noch { $usageLeft } MB oer. As alles brûkt is, wurdt jo VPN pauzearre oant jo gegevens opnij ynsteld wurde op de earste dei fan de folgjende moanne.
 
 ## IP Protection Settings
 
