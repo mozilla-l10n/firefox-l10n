@@ -722,6 +722,10 @@ pdfjs-views-manager-status-undo-button-label = Ångra
 pdfjs-views-manager-status-close-button =
     .title = Stäng
 pdfjs-views-manager-status-close-button-label = Stäng
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = Klistra in efter sida { $page }
+pdfjs-views-manager-paste-button-before-label = Klistra in före den första sidan
 pdfjs-views-manager-paste-button-label = Klistra in
 pdfjs-toggle-views-manager-button1 =
     .title = Hantera sidor

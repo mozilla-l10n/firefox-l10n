@@ -114,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Vous avez presque a
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Votre quota de données VPN est presque épuisé.</strong> Il vous reste { $usageLeft } Go disponibles. Dès que vous aurez tout utilisé, votre VPN sera suspendu jusqu’à la réinitialisation de votre quota le premier du mois prochain.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Vous n’avez presque plus de données VPN.</strong> Il vous reste { $usageLeft } Mo. Une fois que vous l’avez entièrement utilisé, votre VPN sera mis en pause jusqu’à ce que vos données soient réinitialisées le premier du mois suivant.
 
 ## IP Protection Settings
 

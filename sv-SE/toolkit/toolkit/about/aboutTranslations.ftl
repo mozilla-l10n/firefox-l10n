@@ -11,12 +11,31 @@ about-translations-learn-more-link = Läs mer
 about-translations-unsupported-info-message =
     .heading = Översättning är inte tillgänglig på den här enheten.
     .message = Försök att byta till en annan enhet.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Översättningar är inte tillgängliga för din organisation
+    .message = Detta är en policy som ställts in av administratören.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = För att översätta text, avblockera den här funktionen
+    .message = Det ser ut som du uppdaterat AI-kontroller för att blockera den här funktionen. Avblockera när som helst för att börja använda den.
+about-translations-feature-blocked-unblock-button = Blockera inte
 about-translations-unsupported-info-button = Läs mer
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Kunde inte ladda språken.
     .message = Kontrollera din internetanslutning och försök igen.
 about-translations-language-load-error-button = Försök igen
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Det uppstod ett problem med översättningen
+about-translations-translation-error-subtext = Försök igen.
+about-translations-translation-error-button = Försök igen
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Tyvärr, vi stöder inte { $language } ännu
+about-translations-detected-language-unsupported-heading-unknown = Tyvärr, vi stöder inte det här språket ännu
+about-translations-detected-language-unsupported-subtext = Välj ett annat språk.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Lägg till text för att översätta
