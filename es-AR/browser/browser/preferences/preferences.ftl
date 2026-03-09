@@ -2249,6 +2249,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group2 =
+    .label = DNS sobre HTTPS
+    .description = DNS sobre HTTPS (DoH) cifra las búsquedas de sitios para que sea más difícil que el proveedor de internet o algún otro puedan ver los sitios que se van a visitar.
 preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, creando un DNS seguro y haciendo más difícil que otros vean que sitio web está tratando de acceder.
 preferences-doh-description2 = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, proporcionando un DNS seguro y haciendo más difícil que otros vean que sitio web está tratando de acceder.
 # Variables:
