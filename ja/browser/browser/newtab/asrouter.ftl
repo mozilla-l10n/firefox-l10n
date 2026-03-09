@@ -237,10 +237,6 @@ annotations-make-default-pdf-handler-title = { -brand-short-name } を既定の 
 annotations-make-default-pdf-handler-subtitle = PDF を開くと毎回 { -brand-short-name } のツールが使用できるようになります。
 annotations-make-default-pdf-primary-cta-label = 既定に設定
 annotations-make-default-pdf-next-label = 次へ
-annotations-make-default-pdf-primary-cta =
-    .label = 既定に設定
-annotations-make-default-pdf-next =
-    .label = 次へ
 
 ## FxA sync CFR
 
