@@ -11,12 +11,31 @@ about-translations-learn-more-link = מידע נוסף
 about-translations-unsupported-info-message =
     .heading = התרגום אינו זמין במכשיר זה.
     .message = נא לנסות להחליף למכשיר אחר.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = התרגומים אינם זמינים עבור הארגון שלך
+    .message = זוהי מדיניות שנקבעה על־ידי מנהל המערכת שלך.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = כדי לתרגם טקסט, יש להסיר את החסימה של תכונה זו
+    .message = נראה שעדכנת את בקרי הבינה המלאכותית כדי לחסום תכונה זו. יש להסיר את החסימה כדי להתחיל להשתמש בה.
+about-translations-feature-blocked-unblock-button = הסרת חסימה
 about-translations-unsupported-info-button = מידע נוסף
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = לא ניתן לטעון שפות.
     .message = נא לבדוק את החיבור שלך לאינטרנט ולנסות שוב.
 about-translations-language-load-error-button = ניסיון חוזר
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = הייתה בעיה בתרגום
+about-translations-translation-error-subtext = נא לנסות שוב.
+about-translations-translation-error-button = ניסיון חוזר
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = איננו תומכים ב{ $language } עדיין, עמך הסליחה
+about-translations-detected-language-unsupported-heading-unknown = איננו תומכים בשפה זו עדיין, עמך הסליחה
+about-translations-detected-language-unsupported-subtext = נא לבחור בשפה אחרת.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = הוספת טקסט לתרגום

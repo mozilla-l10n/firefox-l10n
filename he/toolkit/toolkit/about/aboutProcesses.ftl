@@ -57,6 +57,12 @@ about-processes-preallocated-process = מוקצה מראש ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = אחר: { $type } ‏({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = private
+about-processes-web-isolated-property-serviceworker = serviceworker
+about-processes-web-isolated-property-jit-disabled = ‏JIT מושבת
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
