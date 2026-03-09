@@ -11,12 +11,31 @@ about-translations-learn-more-link = Mear ynfo
 about-translations-unsupported-info-message =
     .heading = Oersetting is net beskikber op dit apparaat.
     .message = Probearje nei in oar apparaat oer te stappen.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Oersettingen binne foar jo organisaasje net beskikber
+    .message = Dit is belied dat troch jo behearder ynsteld is.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Deblokkearje dizze funksje om tekst oer te setten
+    .message = It liket derop dat jo AI-betsjinningseleminten bywurke hawwe om dizze funksje te blokkearjen. Deblokkearje de funksje op elk winske momint om dizze brûken te gean.
+about-translations-feature-blocked-unblock-button = Blokkearring opheffe
 about-translations-unsupported-info-button = Mear ynfo
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Kin talen net lade.
     .message = Kontrolearje jo ynternetferbining en probearje it opnij.
 about-translations-language-load-error-button = Opnij probearje
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Der is in probleem bard by it oersetten
+about-translations-translation-error-subtext = Probearje it opnij.
+about-translations-translation-error-button = Opnij probearje
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Sorry, wy stypje it { $language } noch net
+about-translations-detected-language-unsupported-heading-unknown = Sorry, wy stypje dizze taal noch net
+about-translations-detected-language-unsupported-subtext = Kies in oare taal.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Oer te setten tekst tafoegje

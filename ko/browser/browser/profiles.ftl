@@ -90,6 +90,9 @@ delete-profile-bookmarks = 북마크
 delete-profile-history = 기록 (방문한 페이지, 쿠키, 사이트 데이터)
 delete-profile-autofill = 데이터 자동 채우기 (주소, 결제 수단)
 delete-profile-logins = 비밀번호
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = “{ $profilename }” 프로필 삭제
 
 ##
 
