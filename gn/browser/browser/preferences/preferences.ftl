@@ -2079,6 +2079,9 @@ permissions-speaker2 =
     .label = Ñe’ẽatãha
 permissions-notification2 =
     .label = Marandu’i
+permissions-header3 =
+    .label = Ñemoneĩ
+    .description = Eñangareko mba’e ñanduti rogue oikekuaa, ohechameme térã omyandy.
 
 ## Privacy Section - Data Collection
 
@@ -2279,10 +2282,23 @@ preferences-doh-exceptions-description = { -brand-short-name } ndoiporumo’ãi 
 preferences-doh-manage-exceptions =
     .label = Eñangareko oĩ’ỹva…
     .accesskey = x
+preferences-doh-overview-off =
+    .label = Mbogue
+    .description = Eiporu DNS moĩporãha ijypykuéva.
 preferences-doh-advanced-button =
     .label = Ñemoĩporã opapotáva
+preferences-doh-manage-exceptions2 =
+    .label = Eñangareko oĩ’ỹva
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Ijypykue
+    .description = Eiporu DNS hekorosãva tendaguasu ojeporukuaahápe.
 preferences-doh-status-item-off =
     .message = DNS HTTPS rehegua ojepe’a
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS HTTPS rehegua oiporu me’ẽhára { $name }
 preferences-doh-select-resolver-label =
     .label = Eiporavo me’ẽha:
 # Variables:

@@ -114,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Docpějeće swój l
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Sće swoje daty VPN nimale přetrjebał.</strong> Maće { $usageLeft } GB wyše. Hdyž je wšě přetrjebujeće, waš VPN wusadźi, doniž so waše daty prěnjeho přichodneho měsaca wróćo njestaja.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Sće swoje daty VPN nimale přetrjebał.</strong> Maće { $usageLeft } MB wyše. Hdyž je wšě přetrjebujeće, waš VPN wusadźi, doniž so waše daty prěnjeho přichodneho měsaca wróćo njestaja.
 
 ## IP Protection Settings
 
