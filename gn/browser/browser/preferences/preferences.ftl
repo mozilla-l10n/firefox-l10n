@@ -1701,6 +1701,10 @@ sitedata-total-size-calculating = Eikuaase tenda mba’ekuaarã ha kache tuichak
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Ñanduti rogueita oiporu ko’ág̃a <strong>{ $value } { $unit }</strong> disco ñeñongaturãgua.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Umi kookie mbyatypyre, tembasakue, tenda mba’ekuaarã ha kache ko’ág̃a oiporu <strong>{ $value } { $unit }</strong> mandu’arenda.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
