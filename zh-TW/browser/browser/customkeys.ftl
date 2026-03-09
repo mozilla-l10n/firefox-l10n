@@ -11,7 +11,7 @@ customkeys-new-key = 按下新按鍵：
 customkeys-reset-all = 將所有快速鍵重設回預設值
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
-customkeys-conflict-confirm = 此按鍵已分配給 { $conflict }，您確定要取代嗎？
+customkeys-conflict-confirm = 此快速鍵已分配給「{ $conflict }」功能，您確定要取代嗎？
 customkeys-reset-all-confirm = 您確定要將所有快速鍵重設回預設值嗎？
 customkeys-history-reopen-tab = 回復關閉的分頁
 customkeys-history-reopen-window = 回復關閉的視窗

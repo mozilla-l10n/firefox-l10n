@@ -90,6 +90,9 @@ delete-profile-bookmarks = סימניות
 delete-profile-history = היסטוריה (דפים שביקרת בהם, עוגיות, נתוני אתרים)
 delete-profile-autofill = נתוני מילוי אוטומטי (כתובות, אמצעי תשלום)
 delete-profile-logins = ססמאות
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = מחיקת הפרופיל ״{ $profilename }״
 
 ##
 

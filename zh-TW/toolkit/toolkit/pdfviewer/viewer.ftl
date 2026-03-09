@@ -690,6 +690,10 @@ pdfjs-views-manager-status-undo-button-label = 還原
 pdfjs-views-manager-status-close-button =
     .title = 關閉
 pdfjs-views-manager-status-close-button-label = 關閉
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = 貼到第 { $page } 頁後
+pdfjs-views-manager-paste-button-before-label = 貼到第一頁前
 pdfjs-views-manager-paste-button-label = 貼上
 pdfjs-toggle-views-manager-button1 =
     .title = 管理頁面
