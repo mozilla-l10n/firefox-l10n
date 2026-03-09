@@ -35,6 +35,7 @@ about-translations-translation-error-button = Prøv igjen
 #   $language (String) - The display name of the detected language.
 about-translations-detected-language-unsupported-heading = Beklager, vi støtter ikke { $language } ennå
 about-translations-detected-language-unsupported-heading-unknown = Beklager, vi støtter ikke dette språket ennå
+about-translations-detected-language-unsupported-subtext = Velg et annet språk
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Legg til tekst for å oversette
