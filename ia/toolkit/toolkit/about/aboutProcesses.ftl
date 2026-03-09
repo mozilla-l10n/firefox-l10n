@@ -64,6 +64,8 @@ about-processes-unknown-process = Altere: { $type } ({ $pid })
 
 about-processes-web-isolated-property-private = private
 about-processes-web-isolated-property-serviceworker = serviceworker
+about-processes-web-isolated-property-jit-disabled = JIT disactivate
+about-processes-web-isolated-property-with-coop-coep = origine-cruce isolate
 
 ## Isolated process names
 ## Variables:

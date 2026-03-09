@@ -11,6 +11,14 @@ about-translations-learn-more-link = Pro saper plus
 about-translations-unsupported-info-message =
     .heading = Le traduction non es disponibile sur iste apparato.
     .message = Tenta passar a un apparato differente.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Le traductiones non es disponibile pro tu organisation
+    .message = Isto es un regulamento definite per tu administrator.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Pro traducer texto, disbloca iste function
+    .message = Il pare que tu actualisava le controlos de IA pro blocar iste function.
 about-translations-feature-blocked-unblock-button = Disblocar
 about-translations-unsupported-info-button = Pro saper plus
 # An error message displayed when the language list fails to load.
@@ -18,8 +26,16 @@ about-translations-language-load-error-message =
     .heading = Impossibile cargar linguas.
     .message = Verifica tu connexion a internet e retenta.
 about-translations-language-load-error-button = Retentar
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Il habeva un problema a traducer
 about-translations-translation-error-subtext = Retenta.
 about-translations-translation-error-button = Retenta
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Desolate, nos non supporta { $language } ancora
+about-translations-detected-language-unsupported-heading-unknown = Desolate, nos non supporta iste lingua ancora
+about-translations-detected-language-unsupported-subtext = Elige un altere lingua.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Adder texto a traducer
