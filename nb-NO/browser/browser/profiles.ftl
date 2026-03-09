@@ -90,6 +90,9 @@ delete-profile-bookmarks = Bokmerker
 delete-profile-history = Historikk (besøkte sider, infokapsler, nettstedsdata)
 delete-profile-autofill = Autofylldata (adresser, betalingsmåter)
 delete-profile-logins = Passord
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Slett profilen «{ $profilename }»
 
 ##
 
