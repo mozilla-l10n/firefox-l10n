@@ -11,12 +11,27 @@ about-translations-learn-more-link = Dalše informacije
 about-translations-unsupported-info-message =
     .heading = Přełožk na tutym graće k dispoziciji njeje.
     .message = Spytajće druhi grat wužiwać.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Přełožki za wašu organizaciju k dispoziciji njejsu
+    .message = To je prawidło, kotrež je so wot wašeho administratora postajiło.
+about-translations-feature-blocked-unblock-button = Hižo njeblokować
 about-translations-unsupported-info-button = Dalše informacije
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Rěče njedadźa so začitać.
     .message = Přepruwujće swój internetny zwisk a spytajće hišće raz.
 about-translations-language-load-error-button = Hišće raz spytać
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Je problem při přełožowanju był
+about-translations-translation-error-subtext = Prošu spytajće hišće raz.
+about-translations-translation-error-button = Hišće raz spytać
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Bohužel { $language } hišće njepodpěrujemy
+about-translations-detected-language-unsupported-heading-unknown = Bohužel tutu rěč hišće njepodpěrujemy
+about-translations-detected-language-unsupported-subtext = Prošu wubjerće druhu rěč.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Tekst přidać, kotryž so přełožić

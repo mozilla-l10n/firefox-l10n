@@ -738,6 +738,10 @@ pdfjs-views-manager-status-undo-button-label = Cofnyć
 pdfjs-views-manager-status-close-button =
     .title = Začinić
 pdfjs-views-manager-status-close-button-label = Začinić
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = Za stronu { $page } zasadźić
+pdfjs-views-manager-paste-button-before-label = Před prěnjej stronu zasadźić
 pdfjs-views-manager-paste-button-label = Zasadźić
 pdfjs-toggle-views-manager-button1 =
     .title = Strony rjadować

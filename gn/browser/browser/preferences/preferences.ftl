@@ -2293,12 +2293,21 @@ preferences-doh-manage-exceptions2 =
 preferences-doh-radio-default =
     .label = Ijypykue
     .description = Eiporu DNS hekorosãva tendaguasu ojeporukuaahápe.
+preferences-doh-radio-off =
+    .label = Mbogue
+    .description = Eiporu DNS moĩporãha ijypykuéva.
+preferences-doh-fallback-label =
+    .label = Emombe’úke pe DNS hekorosãva ndoikóiramo
 preferences-doh-status-item-off =
     .message = DNS HTTPS rehegua ojepe’a
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS HTTPS rehegua oiporu me’ẽhára { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS HTTPS rehegua oiporuhína me’ẽhára { $name }
 preferences-doh-select-resolver-label =
     .label = Eiporavo me’ẽha:
 # Variables:
@@ -2306,6 +2315,8 @@ preferences-doh-select-resolver-label =
 connection-dns-over-https-url-item =
     .label = { $name }
     .tooltiptext = Eiporu ko me’ẽhára emoĩporã hag̃ua DNS HTTPS rupive
+preferences-doh-custom-provider-label =
+    .aria-label = Emoinge URL me’ẽhára mboavapyréva
 preferences-doh-header2 =
     .heading = DNS HTTPS rehegua
 
@@ -2371,6 +2382,8 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } oma’ẽmeme
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } oikuaauka oipotaha tekorosãve
 security-privacy-status-problem-helper-label = Ehecha apañuái
 security-privacy-issue-card =
     .heading = Jesarekorã tekorosãrã

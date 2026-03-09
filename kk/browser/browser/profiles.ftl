@@ -90,6 +90,9 @@ delete-profile-bookmarks = Бетбелгілер
 delete-profile-history = Тарих (ашылған беттер, cookie файлдары, сайт деректері)
 delete-profile-autofill = Автотолтыру деректері (адрестер, төлем әдістері)
 delete-profile-logins = Парольдер
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = “{ $profilename }” профилін өшіру
 
 ##
 
