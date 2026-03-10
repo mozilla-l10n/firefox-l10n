@@ -90,6 +90,9 @@ delete-profile-bookmarks = Dấu trang
 delete-profile-history = Lịch sử (các trang đã truy cập, cookie, dữ liệu trang web)
 delete-profile-autofill = Tự động điền dữ liệu (địa chỉ, phương thức thanh toán)
 delete-profile-logins = Mật khẩu
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Xoá hồ sơ “{ $profilename }”
 
 ##
 

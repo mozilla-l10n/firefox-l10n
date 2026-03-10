@@ -114,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Sắp đạt đến
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Bạn sắp hết dung lượng VPN.</strong> Bạn còn { $usageLeft } GB dữ liệu. Sau khi sử dụng hết, VPN của bạn sẽ bị tạm dừng cho đến khi dữ liệu được đặt lại vào ngày đầu tiên của tháng tới.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Bạn sắp hết dung lượng VPN.</strong> Bạn còn { $usageLeft } MB dữ liệu. Sau khi sử dụng hết, VPN của bạn sẽ bị tạm dừng cho đến khi dữ liệu được đặt lại vào ngày đầu tiên của tháng tới.
 
 ## IP Protection Settings
 

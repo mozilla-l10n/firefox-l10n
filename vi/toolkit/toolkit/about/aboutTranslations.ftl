@@ -11,12 +11,31 @@ about-translations-learn-more-link = Tìm hiểu thêm
 about-translations-unsupported-info-message =
     .heading = Tính năng dịch thuật không khả dụng trên thiết bị này.
     .message = Hãy thử chuyển sang thiết bị khác.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Bản dịch không có sẵn cho tổ chức của bạn
+    .message = Đây là chính sách được đặt bởi quản trị viên của bạn.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Để dịch văn bản, hãy bỏ chặn tính năng này
+    .message = Có vẻ như bạn đã cập nhật cài đặt AI để chặn tính năng này. Bạn có thể bỏ chặn bất cứ lúc nào để bắt đầu sử dụng.
+about-translations-feature-blocked-unblock-button = Bỏ chặn
 about-translations-unsupported-info-button = Tìm hiểu thêm
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Không thể tải ngôn ngữ.
     .message = Hãy kiểm tra kết nối internet của bạn và thử lại.
 about-translations-language-load-error-button = Thử lại
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Đã xảy ra sự cố khi dịch
+about-translations-translation-error-subtext = Vui lòng thử lại.
+about-translations-translation-error-button = Thử lại
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Xin lỗi, chúng tôi chưa hỗ trợ { $language }
+about-translations-detected-language-unsupported-heading-unknown = Xin lỗi, chúng tôi chưa hỗ trợ ngôn ngữ này
+about-translations-detected-language-unsupported-subtext = Vui lòng chọn ngôn ngữ khác.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Nhập văn bản cần dịch

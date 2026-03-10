@@ -690,6 +690,10 @@ pdfjs-views-manager-status-undo-button-label = Hoàn tác
 pdfjs-views-manager-status-close-button =
     .title = Đóng
 pdfjs-views-manager-status-close-button-label = Đóng
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = Dán sau trang { $page }
+pdfjs-views-manager-paste-button-before-label = Dán trước trang đầu
 pdfjs-views-manager-paste-button-label = Dán
 pdfjs-toggle-views-manager-button1 =
     .title = Quản lý trang
