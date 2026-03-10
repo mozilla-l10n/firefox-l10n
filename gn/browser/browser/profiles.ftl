@@ -66,6 +66,8 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Ne ñongatu { $profilename }-pegua oĩma embohéra hag̃ua
 copied-profile-page-header-description = Rombohasa ne mba’ekuaarã ha ñemoĩporã mbaéte pyahúpe. Ko’ág̃a embohéra, eiporavo peteĩchagua ha emboavaite.
+restored-profile-page-header = Emboava mba’ete myatyrõmbyre
+restored-profile-page-header-description = Peteĩteĩva mba’ete oreko hembiasakue ha ñemboheko ha’eñóva oĩ’ỹva ambue mba’ete ndive. Avei imbaretéva tekoñemi ñemo’ã { -brand-short-name } hendyhína ijypykue rupi.
 restored-profile-page-learn-more = Eikuaave
 profile-window-title-2 = { -brand-short-name } - Eiporavo mba’ete
 profile-window-logo =
@@ -88,6 +90,9 @@ delete-profile-bookmarks = Techaukahakuéra
 delete-profile-history = Tembiasakue (kuatiarogue eikehague, kookie, tenda mba’ekuaarã)
 delete-profile-autofill = Mba’ekuaarã myanyhẽrã (kundaharape, ñehepyme’ẽrã)
 delete-profile-logins = Ñe’ẽñemikuéra
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Embogue mba’ete “{ $profilename }”
 
 ##
 
