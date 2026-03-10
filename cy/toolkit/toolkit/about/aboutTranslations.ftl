@@ -15,12 +15,27 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Dyw cyfieithiadau ddim ar gael ar gyfer eich sefydliad
     .message = Mae'r polisi hwn wedi'i osod gan eich gweinyddwr.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = I gyfieithu testun, dad-rwystro'r nodwedd hon
+    .message = Mae'n ymddangos fel bod eich rheolaeth AI wedi'u diweddaru yn rhwystro'r nodwedd yma. Dad rwystrwch ef i'w ail ddefnyddio.
+about-translations-feature-blocked-unblock-button = Dad-rwystro
 about-translations-unsupported-info-button = Darllen rhagor
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Methu llwytho'r ieithoedd
     .message = Gwiriwch eich cysylltiad â'r we a cheisio eto.
 about-translations-language-load-error-button = Ceisiwch eto
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Bu problem wrth gyfieithu
+about-translations-translation-error-subtext = Ceisiwch eto.
+about-translations-translation-error-button = Ceisiwch eto
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Ymddiheuriadau, dydyn ni ddim yn cefnogi'r { $language } eto.
+about-translations-detected-language-unsupported-heading-unknown = Ymddiheuriadau, dydyn ni ddim yn cefnogi'r { $language } eto.
+about-translations-detected-language-unsupported-subtext = Dewiswch iaith arall
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Ychwanegu testun i'w gyfieithu

@@ -754,6 +754,10 @@ pdfjs-views-manager-status-undo-button-label = Dadwneud
 pdfjs-views-manager-status-close-button =
     .title = Cau
 pdfjs-views-manager-status-close-button-label = Cau
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = Gludo ar ôl tudalen { $page }
+pdfjs-views-manager-paste-button-before-label = Gludo cyn y dudalen gyntaf
 pdfjs-views-manager-paste-button-label = Gludo
 pdfjs-toggle-views-manager-button1 =
     .title = Rheoli tudalennau
