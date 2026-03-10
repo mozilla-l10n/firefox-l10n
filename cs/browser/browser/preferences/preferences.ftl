@@ -1841,6 +1841,8 @@ history-section-header =
 history-custom-section-header =
     .label = Rozšířené nastavení
     .description = Upravte, co si má { -brand-short-name } pamatovat, když zavřete prohlížeč.
+history-custom-button =
+    .label = Vyberte, co si má { -brand-short-name } pamatovat
 history-group =
     .label = Historie
 history-remember-option-all2 =
@@ -1855,12 +1857,19 @@ sitedata-total-size-calculating = Probíhá výpočet velikosti mezipaměti a da
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Webové stránky aktuálně používají <strong>{ $value } { $unit }</strong> místa na disku.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Uložené cookies, historie, data stránek a mezipaměť aktuálně zabírají <strong>{ $value } { $unit }</strong> místa na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Velikost cookies, dat uložených stránkami a mezipaměti je { $value } { $unit }.
 sitedata-learn-more = Zjistit více
+sitedata-delete-on-close2 =
+    .label = Vymazat cookies a data stránek při každém ukončení { -brand-short-name(case: "gen") }
+    .accesskey = V
 sitedata-delete-on-close =
     .label =
         { -brand-short-name.case-status ->
@@ -1870,6 +1879,9 @@ sitedata-delete-on-close =
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Na základě vašeho nastavení pro historii smaže { -brand-short-name } při svém ukončení z vaší relace cookies a data stránek.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historie se nebude ukládat.
+    .message = Když zavřete prohlížeč, { -brand-short-name } vymaže cookies a data webu z vaší relace.
 sitedata-delete-on-close-private-browsing = V trvalém režimu anonymního prohlížení { -brand-short-name } smaže cookies a data stránek vždy při svém ukončení.
 sitedata-delete-on-close-private-browsing2 = Na základě vašeho nastavení pro historii smaže { -brand-short-name } při svém ukončení z vaší relace cookies a data stránek.
 sitedata-allow-cookies-option =
@@ -1915,6 +1927,16 @@ sitedata-cookies-exceptions2 =
     .label = Spravovat výjimky
     .accesskey = v
     .description = Můžete určit, které weby mají vždy nebo nemají nikdy povoleno používat cookies a data stránek.
+sitedata-heading =
+    .label = Údaje o prohlížení
+    .description = Spravujte své cookies, historii, mezipaměť, data webových stránek a další.
+sitedata-settings3 =
+    .label = Vymazat data pro konkrétní stránky
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Spravovat výjimky
+    .accesskey = v
+    .description = Vyberte, jak konkrétní stránky zpracovávají cookies a data webu.
 cookies-site-data-group =
     .label = Cookies a data stránek
 
@@ -2205,6 +2227,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Spravovat přesměrování
+    .accesskey = p
+    .searchkeywords = vyskakovací okna
+permissions-addon-install-warning3 =
+    .label = Zobrazit varování, když se webové stránky pokouší o instalaci rozšíření
+    .accesskey = r
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Spravovat výjimky pro vyskakovací okna a přesměrování třetích stran
     .accesskey = e
@@ -2250,6 +2281,9 @@ permissions-speaker2 =
     .label = Reproduktor
 permissions-notification2 =
     .label = Oznámení
+permissions-header3 =
+    .label = Oprávnění
+    .description = Spravujte, k čemu mohou webové stránky přistupovat, co mohou ovládat nebo co mohou spouštět.
 
 ## Privacy Section - Data Collection
 
