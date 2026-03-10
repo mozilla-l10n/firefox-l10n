@@ -1486,16 +1486,16 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
-trustpanel-etp-label-enabled = Protección contra rastreo aumentada activada
-trustpanel-etp-label-disabled = Protección contra rastreo aumentada desactivada
+trustpanel-etp-label-enabled = Protección de rastreo aumentada activada
+trustpanel-etp-label-disabled = Protección de rastreo aumentada desactivada
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-on =
-    .aria-label = Protección contra rastreo aumentada: Activada para { $host }
+    .aria-label = Protección de rastreo aumentada: Activada para { $host }
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
-    .aria-label = Protección contra rastreo aumentada: Desactivada para { $host }
+    .aria-label = Protección de rastreo aumentada: Desactivada para { $host }
 trustpanel-etp-description-enabled = Si algo parece roto en este sitio, pruebe desactivar las protecciones.
 trustpanel-etp-description-disabled = { -brand-product-name } piensa que las empresas deberían seguirlo menos. Bloqueamos tantos rastreadores como podemos cuando se activan las protecciones.
 trustpanel-connection-label-secure = Conexión segura

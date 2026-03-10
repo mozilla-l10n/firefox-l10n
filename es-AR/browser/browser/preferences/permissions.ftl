@@ -77,7 +77,7 @@ permissions-invalid-uri-label = Ingrese un nombre de host válido
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
-    .title = Excepciones para la protección contra rastreo aumentada
+    .title = Excepciones para la protección de rastreo aumentada
     .style = { permissions-window2.style }
 permissions-exceptions-manage-etp-desc = Puede especificar qué sitios web tienen deshabilitada la protección de rastreo avanzada. Ingrese la dirección exacta del sitio que desea administrar y luego haga clic en Agregar excepción.
 
