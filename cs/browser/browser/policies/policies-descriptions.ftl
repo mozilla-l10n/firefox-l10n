@@ -167,6 +167,7 @@ policy-SearchSuggestEnabled = Povolení nebo zákaz našeptávání dotazů pro 
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Přidání nebo odebrání modulů PKCS #11.
 policy-ShowHomeButton = Zobrazení domovského tlačítka na liště.
+policy-SitePolicies = Zásady pro konkrétní web.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Nezobrazovat podmínky používání a zásady ochrany osobních údajů při spuštění. Prohlašujete, že souhlasíte s Podmínkami používání tohoto prohlížeče a jste oprávněni je přijmout jménem všech jednotlivců, kterým poskytnete přístup k tomuto prohlížeči.
 policy-SSLVersionMax = Nastavení maximální verze SSL.

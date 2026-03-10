@@ -614,6 +614,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = Stáhnout slovníky
+spellcheck-promo =
+    .heading = Jak používat kontrolu pravopisu
+    .message = Klepnutím pravým tlačítkem na textové pole zapnete nebo vypnete kontrolu pravopisu nebo změníte její jazyk. Ne všechna pole podporují kontrolu pravopisu.
 
 ## General Section - Files and Applications
 
@@ -925,6 +928,13 @@ network-proxy-connection-learn-more = Zjistit více
 network-proxy-connection-settings =
     .label = Nastavení…
     .accesskey = e
+network-proxy-group2 =
+    .label = Nastavení proxy
+    .description = Nakonfigurujte, jak se { -brand-short-name } má připojovat k internetu.
+network-proxy-connection-settings2 =
+    .label = Konfigurace proxy
+    .description = Změna těchto nastavení může způsobit problémy s připojením
+    .accesskey = K
 
 ## Home Section
 
@@ -1772,6 +1782,9 @@ history-remember-label = Historii prohlížených stránek
     .accesskey = i
 history-remember-option-all =
     .label = Pamatovat si historii
+history-remember-option-never2 =
+    .label = Nikdy neukládat historii prohlížení
+    .description = Každé okno funguje jako anonymní okno. Když je zapnuto, rozšíření se musí povolit.
 history-remember-option-custom2 =
     .label = Přizpůsobení historie
 history-remember-option-never =
@@ -1822,6 +1835,12 @@ history-clear-button =
     .accesskey = V
 history-header2 =
     .heading = Historie
+history-section-header =
+    .label = Historie
+    .description = Vyberte, co si má { -brand-short-name } pamatovat, když zavřete prohlížeč.
+history-custom-section-header =
+    .label = Rozšířené nastavení
+    .description = Upravte, co si má { -brand-short-name } pamatovat, když zavřete prohlížeč.
 history-group =
     .label = Historie
 history-remember-option-all2 =
