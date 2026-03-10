@@ -18,6 +18,7 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-button-primary = Далей
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, дзякуй
 
 ## Site settings callout
