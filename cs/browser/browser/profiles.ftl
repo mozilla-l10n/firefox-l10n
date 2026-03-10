@@ -82,6 +82,8 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Vaše kopie profilu { $profilename } je připravena k přizpůsobení
 copied-profile-page-header-description = Vaše data a nastavení byla zkopírována do nového profilu. Teď mu dejte jméno, vzhled a přizpůsobte si ho podle sebe.
+restored-profile-page-header = Přizpůsobte svůj obnovený profil
+restored-profile-page-header-description = Každý profil uchovává svou jedinečnou historii prohlížení a svá jedinečná nastavení odděleně od ostatních profilů. Navíc jsou ve výchozím nastavení zapnuta silná opatření aplikace { -brand-short-name } na ochranu soukromí.
 restored-profile-page-learn-more = Zjistit více
 profile-window-title-2 = { -brand-short-name } - Výběr profilu
 profile-window-logo =
@@ -108,6 +110,9 @@ delete-profile-bookmarks = Záložky
 delete-profile-history = Historie (navštívené stránky, cookies, data stránek)
 delete-profile-autofill = Automaticky vyplněné údaje (adresy, platební metody)
 delete-profile-logins = Hesla
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Smazat profil “{ $profilename }”
 
 ##
 

@@ -2773,3 +2773,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 security-privacy-issue-warning-doh =
     .label = DNS over HTTPS je zakázáno
     .description = DNS over HTTPS před poskytovatelem sítě skryje, jaké stránky navštěvujete.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Automatická konfigurace proxy serverů je povolena
+    .description = Automatická konfigurace proxy může umožnit nedůvěryhodným sítím sledovat vaši aktivitu.
