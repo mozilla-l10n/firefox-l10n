@@ -2285,6 +2285,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Ñemo’ã ijypyguáva
     .description = Eiporu DNS hekorosãva tendaguasu oĩhápe.
+preferences-doh-overview-custom =
+    .label = Mboava
+    .description = Eiporu DNS hekorosãva me’ẽhára jehechameme reheve ha jeykekoha reko.
 preferences-doh-overview-off =
     .label = Mbogue
     .description = Eiporu DNS moĩporãha ijypykuéva.
@@ -2296,6 +2299,9 @@ preferences-doh-manage-exceptions2 =
 preferences-doh-radio-default =
     .label = Ijypykue
     .description = Eiporu DNS hekorosãva tendaguasu ojeporukuaahápe.
+preferences-doh-radio-custom =
+    .label = Mboava
+    .description = Eiporu DNS hekorosãva me’ẽhára jehechameme reheve ha jeykekoha reko.
 preferences-doh-radio-off =
     .label = Mbogue
     .description = Eiporu DNS moĩporãha ijypykuéva.
@@ -2391,6 +2397,14 @@ security-privacy-status-ok-label = Tapykueho mo’ãha iporãvéva hendýma
 security-privacy-status-problem-label = Rojuhu ñemboheko omoapañuaáiva ñemo’ã
 security-privacy-status-problem-helper-label = Ehecha apañuái
 security-privacy-status-pending-trackers-label = Ohekávo mboy tapykuehoha ojoko { -brand-short-name } jasy ohasaramóvape
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } tapykuehoha jokopyre jasy ohasaramóvape
+       *[other] { $trackerCount } tapykuehohaita jokopyre jasy ohasaramóvape
+    }
 security-privacy-issue-card =
     .heading = Jesarekorã tekorosãrã
 issue-card-reset-button =
