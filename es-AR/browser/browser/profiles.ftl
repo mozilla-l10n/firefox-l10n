@@ -90,6 +90,9 @@ delete-profile-bookmarks = Marcadores
 delete-profile-history = Historial (páginas visitadas, cookies, datos del sitio)
 delete-profile-autofill = Datos de auto completado (direcciones, métodos de pago)
 delete-profile-logins = Contraseñas
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Borrar perfil “{ $profilename }”
 
 ##
 
