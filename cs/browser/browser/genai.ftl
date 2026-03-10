@@ -164,8 +164,8 @@ genai-onboarding-choose-header =
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-description =
     { -brand-short-name.case-status ->
-        [with-cases] Zvolte chatbota AI, kterého chcete používat v postranní liště  { -brand-short-name(case: "gen") }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
-       *[no-cases] Zvolte chatbota AI, kterého chcete používat v postranní liště aplikace  { -brand-short-name }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
+        [with-cases] Zvolte AI chatbota, kterého chcete používat v postranní liště  { -brand-short-name(case: "gen") }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
+       *[no-cases] Zvolte AI chatbota, kterého chcete používat v postranní liště aplikace  { -brand-short-name }. Podrobnosti o každém chatbotovi zobrazíte po jeho výběru. Změnit chatbota můžete kdykoliv. <a data-l10n-name="learn-more">Dozvědět se více</a>
     }
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Přepnutí je možné kdykoli. Pro pomoc s výběrem si <a data-l10n-name="learn-more">přečtěte více o jednotlivých chatbotech</a>.
