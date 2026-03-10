@@ -2472,6 +2472,12 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = Estándar (predeterminada)
+    .description = Protecciones seguras y confiables que funcionan de forma fluida con la mayoría de los sitios web.
+preferences-etp-level-strict =
+    .label = Estricta
+    .description = Protección más segura que bloquea más rastreadores, pero puede causar que algunos sitios no se carguen.
 preferences-etp-status-advanced-button =
     .label = Opciones avanzadas
 preferences-etp-reload-tabs-hint =
