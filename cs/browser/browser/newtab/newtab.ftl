@@ -664,6 +664,8 @@ newtab-report-cancel = Zrušit
 newtab-report-submit = Odeslat
 newtab-toast-thanks-for-reporting =
     .message = Děkujeme za nahlášení.
+newtab-toast-widgets-hidden =
+    .message = Klepněte na ikonu tužky a widgety si můžete kdykoliv zpět přidat.
 
 ## Strings for task / to-do list productivity widget
 

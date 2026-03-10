@@ -132,6 +132,11 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Blížíte se vyče
 ip-protection-bandwidth-warning-infobar-message-90 =
     <strong>Data VPN jste téměř vyčerpali.</strong> Zbývá vám { $usageLeft } GB. Jakmile všechny vyčerpáte, vaše VPN se 
     pozastaví až do začátku příštího měsíce.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb =
+    <strong>Data VPN jste téměř vyčerpali.</strong> Zbývá vám { $usageLeft } MB. Jakmile všechny vyčerpáte, vaše VPN se 
+    pozastaví až do začátku příštího měsíce.
 
 ## IP Protection Settings
 

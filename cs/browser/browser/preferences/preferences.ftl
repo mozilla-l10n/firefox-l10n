@@ -2552,11 +2552,11 @@ preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description =
     { -brand-short-name.case-status ->
-        [with-cases] Blokování znamená, že neuvidíte nová či aktuální vylepšení umělé inteligence { -brand-short-name(case: "gen") } ani žádná vyskakovací okna, která se jich týkají. <a data-l10n-name="link">Zjistěte více</a> o tom, co je zahrnuto a jak ovládat tradiční funkce strojového učení, jako jsou návrhy a doporučení pro vyhledávání.
-       *[no-cases] Blokování znamená, že neuvidíte nová či aktuální vylepšení umělé inteligence v aplikaci { -brand-short-name } ani žádná vyskakovací okna, která se jich týkají. <a data-l10n-name="link">Zjistěte více</a> o tom, co je zahrnuto a jak ovládat tradiční funkce strojového učení, jako jsou návrhy a doporučení pro vyhledávání.
+        [with-cases] Blokování znamená, že ve { -brand-short-name(case: "loc") } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. <a data-l10n-name="link">Zjistěte více</a> o tom, co všechno to zahrnuje a jak ovládat tradiční funkce strojového učení, jako jsou návrhy vyhledávání a doporučení.
+       *[no-cases] Blokování znamená, že v aplikaci { -brand-short-name } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. <a data-l10n-name="link">Zjistěte více</a> o tom, co všechno to zahrnuje a jak ovládat tradiční funkce strojového učení, jako jsou návrhy vyhledávání a doporučení.
     }
 preferences-ai-controls-blocked-message =
-    .message = Nová a aktuální vylepšení AI jsou ve výchozím nastavení blokována. Pro odblokování konkrétní funkce použijte ovládání níže.
+    .message = Nová a stávající vylepšení pomocí AI jsou ve výchozím nastavení blokována. Pro odblokování konkrétní funkce použijte ovládání níže.
 preferences-ai-controls-on-device-group =
     .label = Místně uložená umělá inteligence
     .description = Tyto funkce využívají menší modely umělé inteligence, které se při použití funkce stáhnou do vašeho zařízení. Tento přístup pomáhá chránit vaše soukromí.

@@ -751,6 +751,7 @@ restore-from-backup-title =
     }
 restore-from-backup-subtitle = Obnovte všechny své záložky, historii a další data, abyste se mohli vrátit k prohlížení.
 restore-from-backup-secondary-button = Neobnovovat
+multiple-backups-info-tile = <strong>Nalezeno více souborů se zálohou.</strong> Je vybrán nejnovější soubor. Ostatní profily můžete obnovit v <a data-l10n-name="settings-label">Nastavení</a>.
 
 ## Restored from Backup spotlight
 

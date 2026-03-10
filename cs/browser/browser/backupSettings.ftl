@@ -159,6 +159,11 @@ restore-from-backup-type-replace =
     .label = Nahradit všechna data touto zálohou
 restore-from-backup-type-add =
     .label = Ponechat data a vytvořit nový profil
+restore-from-backup-profiles-disabled-message =
+    { -brand-short-name.case-status ->
+        [with-cases] Tímto nahradíte všechna vaše současná data { -brand-short-name(case: "gen") } vaší zálohou.
+       *[no-cases] Tímto nahradíte všechna vaše současná data aplikace { -brand-short-name } vaší zálohou.
+    }
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -290,6 +295,15 @@ other-backup-files-founds =
         [many] <b>Poznámka:</b> Nalezeno { $numberOfOtherBackupsFound } dalších souborů se zálohou
        *[other] <b>Poznámka:</b> Nalezeno { $numberOfOtherBackupsFound } dalších souborů se zálohou
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } Vytvořeno dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na zařízení { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Obnoveno z { $deviceName } dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } v { DATETIME($date, hour: "2-digit", minute: " 2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
