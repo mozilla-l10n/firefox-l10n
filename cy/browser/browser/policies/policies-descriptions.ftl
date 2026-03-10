@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Galluogi neu analluogi awgrymiadau chwilio.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Ychwanegu neu ddileu modiwlau PKCS #11.
 policy-ShowHomeButton = Dangos y botwm cartref ar y bar offer.
+policy-SitePolicies = Polisïau gwefan benodol.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Peidiwch a dangos y Telerau Defnyddio a'r Hysbysiad Preifatrwydd wrth gychwyn. Rydych yn dweud eich bod yn derbyn a bod gennych yr awdurdod i dderbyn y Telerau Defnyddio ar ran yr holl unigolion rydych yn darparu mynediad iddyn nhw i'r porwr hwn.
 policy-SSLVersionMax = Gosodwch y fersiwn SSL uchaf.

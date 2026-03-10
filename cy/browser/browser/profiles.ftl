@@ -90,6 +90,9 @@ delete-profile-bookmarks = Nodau Tudalen
 delete-profile-history = Hanes (tudalennau yr ymwelwyd â hwy, cwcis, data gwefan)
 delete-profile-autofill = Awtolenwi data (cyfeiriadau, dulliau talu)
 delete-profile-logins = Cyfrineiriau
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Dileu proffil “{ $profilename }”.
 
 ##
 

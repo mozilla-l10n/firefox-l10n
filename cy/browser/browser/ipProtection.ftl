@@ -114,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Dod yn agos at derf
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Rydych bron allan o ddata'r VPN.</strong> Mae gennych { $usageLeft } GB ar ôl. Unwaith y byddwch chi'n ei ddefnyddio i gyd, bydd eich VPN yn aros nes i'ch data ailgychwyn ar y cyntaf o'r mis nesaf.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Rydych bron allan o ddata VPN.</strong> Mae gennych { $usageLeft } MB ar ôl. Unwaith y byddwch chi'n ei ddefnyddio i gyd, bydd eich VPN yn oedi nes i'ch data ailosod ar y cyntaf o'r mis nesaf.
 
 ## IP Protection Settings
 
