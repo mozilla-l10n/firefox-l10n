@@ -73,7 +73,7 @@ about-processes-web-isolated-property-with-coop-coep = изолирован от
 ##    $origin (String) The domain name for this process.
 ##    $properties (String) A formatted list of properties from the above strings.
 
-about-processes-web-isolated-process2 = { $origin } ({ $properries })
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Isolated process names
 ## Variables:
