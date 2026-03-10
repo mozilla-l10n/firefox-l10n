@@ -65,6 +65,7 @@ about-processes-unknown-process = Ambue: { $type } ({ $pid })
 about-processes-web-isolated-property-private = ñemigua
 about-processes-web-isolated-property-serviceworker = mba’apohára pytyvõrãva
 about-processes-web-isolated-property-jit-disabled = JIT pe’apyre
+about-processes-web-isolated-property-with-coop-coep = teñoiha juasapyre ag̃ui’ỹva
 
 ## Isolated process names
 ## Variables:
