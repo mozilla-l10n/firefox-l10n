@@ -324,8 +324,8 @@ about-logins-export-file-picker-export-button = នាំចេញ
 # filter by the operating system.
 about-logins-export-file-picker-csv-filter-title =
     { PLATFORM() ->
-        [macos] CSV Document
-       *[other] CSV File
+        [macos] ឯកសារ CSV
+       *[other] ឯកសារ CSV
     }
 
 ## Login Import Dialog

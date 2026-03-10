@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-policies-title = គោលនយោបាយ​សម្រាប់​សហគ្រាស
+about-policies-title = គោលនយោបាយ​សហគ្រាស
 aboutpolicies-page-heading =
     .heading = អំពីគោលការណ៍
 # 'Active' is used to describe the policies that are currently active
