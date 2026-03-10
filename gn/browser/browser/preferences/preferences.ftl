@@ -2405,6 +2405,13 @@ security-privacy-status-trackers-label =
         [one] { $trackerCount } tapykuehoha jokopyre jasy ohasaramóvape
        *[other] { $trackerCount } tapykuehohaita jokopyre jasy ohasaramóvape
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Ereko <a data-l10n-name="strict-tracking-protection">ñemo’ã oikóva</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Ereko <a data-l10n-name="strict-tracking-protection">ñemo’ã mboavapyre</a>
+security-privacy-status-up-to-date-label = Emboguejy { -brand-short-name } ipyahu ha hekorosãvéva.
+security-privacy-status-update-needed-label = Oĩma ipyahúva { -brand-short-name } eipurukuáva.
+security-privacy-status-update-error-label = { -brand-short-name } iñapañuãi oñembohekopyahu hag̃ua
 security-privacy-issue-card =
     .heading = Jesarekorã tekorosãrã
 issue-card-reset-button =
