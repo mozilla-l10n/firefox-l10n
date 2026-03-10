@@ -11,6 +11,10 @@ about-translations-learn-more-link = Darllen rhagor
 about-translations-unsupported-info-message =
     .heading = Dyw cyfieithiad ddim ar gael ar y ddyfais hon.
     .message = Ceisiwch newid i ddyfais arall.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Dyw cyfieithiadau ddim ar gael ar gyfer eich sefydliad
+    .message = Mae'r polisi hwn wedi'i osod gan eich gweinyddwr.
 about-translations-unsupported-info-button = Darllen rhagor
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
