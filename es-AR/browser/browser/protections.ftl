@@ -30,6 +30,7 @@ protection-report-page-summary = { -brand-short-name } puede proteger su privaci
 protection-report-page-summary-default = { -brand-short-name }  protege su privacidad detrás de escena mientras navega. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de su seguridad en línea.
 protection-report-settings-link = Administrar su configuración de privacidad y seguridad
 etp-card-title-always = Protección de rastreo aumentada: siempre activa
+etp-card-title-custom-not-blocking = Protección de rastreo aumentada: desactivada
 etp-card-content-description = { -brand-short-name } evita automáticamenteque las compañías lo sigan en secreto por la web.
 protection-report-etp-card-content-custom-not-blocking = Todas las protecciones están desactivadas ahora. Elija qué rastreadores bloquear cambiando la configuración de protección de { -brand-short-name }.
 protection-report-manage-protections = Administrar configuraciones

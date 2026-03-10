@@ -20,7 +20,7 @@ protections-popup-footer-protection-label-standard = Estándar
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = Más información sobre la protección contra rastreo aumentada
+    .aria-label = Más información sobre la protección de rastreo aumentada
 protections-panel-etp-on-header = La protección contra rastreo aumentada ahora está habilitada para este sitio
 protections-panel-etp-off-header = La protección contra rastreo aumentada ahora está deshabilitada para este sitio
 # The link to be clicked to open the sub-panel view
