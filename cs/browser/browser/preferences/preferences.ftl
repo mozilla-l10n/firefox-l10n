@@ -2544,8 +2544,8 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-description =
     { -brand-short-name.case-status ->
-        [with-cases] Ve { -brand-short-name(case: "loc") } máte vždy na výběr, včetně toho, zda chcete funkce vylepšené o umělou inteligenci používat. Další možnosti ovládání již brzy.
-       *[no-cases] V aplikaci { -brand-short-name } máte vždy na výběr, včetně toho, zda chcete funkce vylepšené o umělou inteligenci používat. Další možnosti ovládání již brzy.
+        [with-cases] Ve { -brand-short-name(case: "loc") } máte vždy možnost volby, a to i ohledně používání funkcí vylepšených o umělou inteligenci. Brzy přibudou další možnosti ovládání.
+       *[no-cases] V aplikaci { -brand-short-name } máte vždy možnost volby, a to i ohledně používání funkcí vylepšených o umělou inteligenci. Brzy přibudou další možnosti ovládání.
     }
 preferences-ai-controls-block-ai-label = Blokovat vylepšení pomocí AI
 preferences-ai-controls-block-ai =
