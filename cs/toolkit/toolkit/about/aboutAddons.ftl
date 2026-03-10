@@ -692,10 +692,10 @@ mlmodel-pdfjs = { -brand-short-name } toto používá k vytváření alternativn
 mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používá k navrhování názvů vašich skupin panelů
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používá k navrhování panelů pro vaše skupiny panelů
 # AI Model will be downloaded on the users device and used locally
-addon-category-mlmodel = Umělá inteligence na zařízení
+addon-category-mlmodel = Místně uložená AI
 addon-category-mlmodel-title =
-    .title = Umělá inteligence na zařízení
-mlmodel-heading = Správa modelů umělé inteligence na zařízení
+    .title = Místně uložená umělá inteligence
+mlmodel-heading = Správa místně uložených modelů umělé inteligence
 mlmodel-description =
     { -brand-short-name.case-status ->
         [with-cases] Některé funkce a rozšíření ve { -brand-short-name(case: "loc") } jsou postaveny na modelech umělé inteligence, které fungují lokálně na vašem zařízení. Tento přístup chrání vaše soukromí a v mnoha případech i zrychluje výkon. <a data-l10n-name="learn-more">Zjistit více</a>
