@@ -2589,8 +2589,8 @@ preferences-ai-controls-state-blocked =
     .label = Blokováno
 preferences-ai-controls-state-description-before = Co znamenají tyto možnosti:
 preferences-ai-controls-state-description-available = <strong>Dostupné:</strong> Funkci uvidíte a můžete ji používat.
-preferences-ai-controls-state-description-enabled = <strong>Povoleno:</strong> Přihlásili jste se k používání funkce.
-preferences-ai-controls-state-description-blocked = <strong>Blokováno:</strong> Tuto funkci neuvidíte a nebudete moci používat. V případě místně uložené umělé inteligence dochází k odstranění již stažených modelů.
+preferences-ai-controls-state-description-enabled = <strong>Povoleno:</strong> Funkci jste se sami rozhodli používat.
+preferences-ai-controls-state-description-blocked = <strong>Blokováno:</strong> Funkci neuvidíte a nebudete moci používat. V případě místně uložené umělé inteligence dochází k odstranění již stažených modelů.
 preferences-ai-controls-block-confirmation-heading = Blokovat vylepšování umělou inteligencí?
 preferences-ai-controls-block-confirmation-description =
     { -brand-short-name.case-status ->
