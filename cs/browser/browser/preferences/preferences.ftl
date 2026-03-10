@@ -2585,13 +2585,58 @@ preferences-doh-exceptions-description = { -brand-short-name } nebude používat
 preferences-doh-manage-exceptions =
     .label = Výjimky…
     .accesskey = k
+preferences-doh-overview-default =
+    .label = Výchozí ochrana
+    .description = Použije se zabezpečený DNS v oblastech, kde je dostupný.
 preferences-doh-overview-off =
     .label = Zakázáno
     .description = Bude použit váš výchozí překladač DNS.
 preferences-doh-advanced-button =
     .label = Pokročilé nastavení
+preferences-doh-manage-exceptions2 =
+    .label = Spravovat výjimky
+    .accesskey = v
+preferences-doh-radio-default =
+    .label = Výchozí
+    .description = Použije se zabezpečený DNS v oblastech, kde je dostupný.
+preferences-doh-radio-off =
+    .label = Vypnuto
+    .description = Použije se váš výchozí překladač DNS.
+preferences-doh-fallback-label =
+    .label = Vždy mě upozornit, pokud není zabezpečené DNS dostupné
+preferences-doh-status-item-off =
+    .message = DNS over HTTPS je vypnuté
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS over HTTPS nefunguje, protože při pokusu o použití poskytovatele { $name } došlo k chybě ({ $reason }).
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS over HTTPS nefunguje, protože jsme obdrželi neplatné URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS over HTTPS používá poskytovatele { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS over HTTPS nefunguje, protože při pokusu o použití místního poskytovatele { $name } došlo k chybě ({ $reason }).
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS over HTTPS používá místního poskytovatele { $name }
 preferences-doh-select-resolver-label =
     .label = Vyberte poskytovatele:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Použijte tohoto poskytovatele pro DNS over HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Zadejte URL vlastního poskytovatele
 preferences-doh-header2 =
     .heading = DNS over HTTPS
 
@@ -2679,6 +2724,9 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } je ve střehu
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } doporučuje některá vylepšení zabezpečení
+security-privacy-status-ok-label = Rozšířená ochrana proti sledování je zapnuta
 security-privacy-issue-card =
     .heading = Bezpečnostní varování
 issue-card-reset-button =
@@ -2719,3 +2767,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Předpokládané vytváření otisku prohlížeče
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Předpokládané vytváření otisku prohlížeče
+
+## Warnings section
+
+security-privacy-issue-warning-doh =
+    .label = DNS over HTTPS je zakázáno
+    .description = DNS over HTTPS před poskytovatelem sítě skryje, jaké stránky navštěvujete.
