@@ -2412,6 +2412,10 @@ security-privacy-status-custom-enabled-label = Ereko <a data-l10n-name="strict-t
 security-privacy-status-up-to-date-label = Emboguejy { -brand-short-name } ipyahu ha hekorosãvéva.
 security-privacy-status-update-needed-label = Oĩma ipyahúva { -brand-short-name } eipurukuáva.
 security-privacy-status-update-error-label = { -brand-short-name } iñapañuãi oñembohekopyahu hag̃ua
+security-privacy-status-update-checking-label = { -brand-short-name } ohekahína tekopyahurã
+security-privacy-status-update-needed-description = Embohekopyahu ereko hag̃ua ipyahuvéva tekopyahurã ipya’e, hekopyta ha tekorosãverã.
+security-privacy-status-update-button-label =
+    .label = Embohekopyahu { -brand-short-name }
 security-privacy-issue-card =
     .heading = Jesarekorã tekorosãrã
 issue-card-reset-button =
@@ -2422,10 +2426,15 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-custom =
+    .label = Mboava
+    .description = Eiporu mba’e ñemo’ã emyandy téra emboguétava.
 preferences-etp-status-advanced-button =
     .label = Ñemboheko opapotáva
 preferences-etp-header =
     .heading = Tapykueho mo’ãha iporãvéva
+preferences-etp-customize-button =
+    .label = Emboava tapykuehoha ñemo’ã
 preferences-etp-reload-tabs-hint =
     .message = Emyanyhẽjey tendaykeita oiko hag̃ua ko’ã moambuepy.
 preferences-etp-reload-tabs-hint-button =
@@ -2434,6 +2443,8 @@ preferences-etp-rfp-warning-message =
     .message = Eiporu Resist Fingerprinting (RFP), omyengoviáva peteĩva umi jeporavorã mo’ãha { -brand-short-name } mba’évape. Kóva omoapañuaikuaa ñanduti roguépe.
 preferences-etp-customize-header =
     .heading = Emboava tapykuehoha ñemo’ã
+preferences-etp-reset-standard-button =
+    .label = Emoĩjey oĩhaguéicha
 preferences-etp-reset-strict-button =
     .label = Emoĩjey oĩhápe
 preferences-etp-custom-cookies-enabled =
