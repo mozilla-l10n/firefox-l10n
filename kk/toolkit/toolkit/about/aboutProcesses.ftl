@@ -61,7 +61,10 @@ about-processes-unknown-process = Басқа: { $type } ({ $pid })
 
 ## Properties of isolated web processes
 
+about-processes-web-isolated-property-private = жеке
+about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT сөндірілген
+about-processes-web-isolated-property-with-coop-coep = доменаралық оқшауланды
 
 ## Isolated process names
 ## Variables:

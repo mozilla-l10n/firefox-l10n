@@ -11,6 +11,14 @@ about-translations-learn-more-link = Көбірек білу
 about-translations-unsupported-info-message =
     .heading = Бұл құрылғыда аударма қолжетімді емес.
     .message = Басқа құрылғыға ауысып көріңіз.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Аудармалар сіздің ұйымыңыз үшін қолжетімді емес
+    .message = Бұл - сіздің әкімшіңіз орнатқан саясат.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Мәтінді аудару үшін осы мүмкіндіктің блоктауын шешіңіз
+    .message = Осы функцияны бұғаттау үшін ЖИ басқару элементтерін жаңартқан көрінесіз. Оны пайдалануды бастау үшін кез келген уақытта бұғаттан шығара аласыз.
 about-translations-feature-blocked-unblock-button = Блоктан шығару
 about-translations-unsupported-info-button = Көбірек білу
 # An error message displayed when the language list fails to load.
@@ -22,6 +30,11 @@ about-translations-language-load-error-button = Қайтадан көру
 about-translations-translation-error-heading = Аударма кезінде мәселе туындады
 about-translations-translation-error-subtext = Қайталап көріңіз.
 about-translations-translation-error-button = Қайталап көру
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Кешіріңіз, { $language } тіліне қолдау әлі жоқ
+about-translations-detected-language-unsupported-heading-unknown = Кешіріңіз, бұл тілге қолдау әлі жоқ
 about-translations-detected-language-unsupported-subtext = Басқа тілді таңдаңыз.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
