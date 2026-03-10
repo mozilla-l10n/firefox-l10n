@@ -11,12 +11,31 @@ about-translations-learn-more-link = Подробнее
 about-translations-unsupported-info-message =
     .heading = Перевод недоступен на этом устройстве.
     .message = Попробуйте перейти на другое устройство.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Переводы для вашей организации недоступны
+    .message = Это политика, установленная вашим администратором.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Чтобы перевести текст, разблокируйте эту функцию
+    .message = Похоже, вы изменили настройки управления ИИ, чтобы заблокировать эту функцию. Разблокируйте в любое время, чтобы начать её использовать.
+about-translations-feature-blocked-unblock-button = Разблокировать
 about-translations-unsupported-info-button = Подробнее
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Не удалось загрузить языки.
     .message = Проверьте ваше интернет-соединение и попробуйте снова.
 about-translations-language-load-error-button = Попробовать снова
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = При переводе возникла проблема
+about-translations-translation-error-subtext = Пожалуйста, попробуйте снова.
+about-translations-translation-error-button = Попробовать снова
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = К сожалению, мы пока не поддерживаем { $language }
+about-translations-detected-language-unsupported-heading-unknown = Извините, мы пока не поддерживаем этот язык
+about-translations-detected-language-unsupported-subtext = Пожалуйста, выберите другой язык.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Добавить текст для перевода
