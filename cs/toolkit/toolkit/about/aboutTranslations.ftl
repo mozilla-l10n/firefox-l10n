@@ -15,12 +15,27 @@ about-translations-learn-more-link = Zjistit více
 about-translations-unsupported-info-message =
     .heading = Překlad není na tomto zařízení k dispozici.
     .message = Zkuste použít jiné zařízení.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Překlady pro vaši organizaci nejsou k dispozici
+    .message = Toto je zásada nastavená vaším správcem.
+about-translations-feature-blocked-unblock-button = Odblokovat
 about-translations-unsupported-info-button = Zjistit více
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Nepodařilo se načíst jazyky.
     .message = Zkontroluje své připojení k internetu a zkuste to znovu.
 about-translations-language-load-error-button = Zkusit znovu
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Při překladu došlo k chybě
+about-translations-translation-error-subtext = Zkuste to prosím znovu.
+about-translations-translation-error-button = Zkusit znovu
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Omlouváme se, ale jazyk { $language } zatím není podporován
+about-translations-detected-language-unsupported-heading-unknown = Omlouváme se, ale tento jazyk zatím není podporován
+about-translations-detected-language-unsupported-subtext = Zvolte prosím jiný jazyk.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Vložte text, který chcete přeložit

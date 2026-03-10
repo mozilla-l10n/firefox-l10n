@@ -736,6 +736,10 @@ pdfjs-views-manager-status-undo-button-label = Zpět
 pdfjs-views-manager-status-close-button =
     .title = Zavřít
 pdfjs-views-manager-status-close-button-label = Zavřít
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = Vložit za stránku { $page }
+pdfjs-views-manager-paste-button-before-label = Vloží před první stránku
 pdfjs-views-manager-paste-button-label = Vložit
 pdfjs-toggle-views-manager-button1 =
     .title = Spravovat strany
