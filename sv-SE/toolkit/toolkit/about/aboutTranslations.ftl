@@ -15,6 +15,10 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Översättningar är inte tillgängliga för din organisation
     .message = Detta är en policy som ställts in av administratören.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = För att översätta text, avblockera den här funktionen
+    .message = Det verkar som att du har uppdaterat AI-kontrollerna för att blockera den här funktionen. Avblockera när som helst för att börja använda den.
 about-translations-feature-blocked-unblock-button = Blockera inte
 about-translations-unsupported-info-button = Läs mer
 # An error message displayed when the language list fails to load.
