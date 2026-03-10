@@ -2574,8 +2574,8 @@ preferences-ai-controls-key-points-control =
     .label = Klíčové body v náhledech odkazů
     .description = Před otevřením odkazu si prohlédněte rychlé shrnutí.
 preferences-ai-controls-sidebar-chatbot-group =
-    .label = Poskytovatelé chatbotů AI v postranní liště
-    .description = Při procházení webu mějte chatbota na očích. Vyberte si z Anthropic Claude, ChatGPT, Copilot, Google Gemini či Le Chat Mistral.
+    .label = Poskytovatelé AI chatbotů v postranní liště
+    .description = Při procházení webu mějte chatbota stále na očích. Na výběr máte chatboty Anthropic Claude, ChatGPT, Copilot, Google Gemini a Le Chat Mistral.
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot v postranní liště
 # This option means that a user will see the feature and can use it.
