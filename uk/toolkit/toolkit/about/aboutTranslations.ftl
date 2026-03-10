@@ -11,12 +11,31 @@ about-translations-learn-more-link = Докладніше
 about-translations-unsupported-info-message =
     .heading = Переклад недоступний на цьому пристрої.
     .message = Спробуйте на іншому пристрої.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Переклади недоступні для вашої організації
+    .message = Цю політику встановив ваш адміністратор.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Щоб перекласти текст, розблокуйте цю функцію
+    .message = Здається, цю функцію заблоковано вашими налаштуваннями ШІ. Розблокуйте, щоб користуватися нею.
+about-translations-feature-blocked-unblock-button = Розблокувати
 about-translations-unsupported-info-button = Докладніше
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = Не вдається завантажити мови
     .message = Перевірте своє інтернет-з'єднання і повторіть спробу
 about-translations-language-load-error-button = Повторити спробу
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Виникла проблема з перекладом
+about-translations-translation-error-subtext = Спробуйте ще раз.
+about-translations-translation-error-button = Повторити спробу
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Перепрошуємо, { $language } ще не підтримується
+about-translations-detected-language-unsupported-heading-unknown = На жаль, ми ще не підтримуємо цю мову
+about-translations-detected-language-unsupported-subtext = Виберіть іншу мову.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Додати текст для перекладу
