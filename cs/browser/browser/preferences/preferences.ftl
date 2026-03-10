@@ -2322,6 +2322,8 @@ collection-health-report-telemetry-disabled =
        *[no-cases] Odesílání technických údajů a údajů o interakcích organizaci { -vendor-short-name } není nadále povoleno. Všechny historické údaje budou smazány do 30 dnů.
     }
 collection-health-report-telemetry-disabled-link = Zjistit více
+backup-multi-profile-warning-message =
+    .message = Abyste se ujistili, že tato změna bude zahrnuta do vašich záloh, otevřete každý profil a v nastavení vyberte „Zálohovat nyní“.
 collection-usage-ping =
     .label =
         { -vendor-short-name.case-status ->
@@ -2426,11 +2428,16 @@ website-advertising-private-attribution-description = Pomůžete tím webům poc
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Zabezpečení
+browsing-protection-group2 =
+    .label = Ochrana před klamavým obsahem a nebezpečným softwarem
+    .description = Nebezpečné stránky a stahování mohou ohrozit vaše data a zařízení. { -brand-short-name } je automaticky zablokuje a upozorní vás na rizikový nebo nežádoucí software.
 security-browsing-protection = Ochrana před podvodným obsahem a nebezpečným softwarem
 security-enable-safe-browsing =
     .label = Blokovat nebezpečný a podvodný obsah
     .accesskey = B
 security-enable-safe-browsing-link = Zjistit více
+security-safe-browsing-warning =
+    .message = Vypnutím této možnosti klesá ochrana proti podvodům, škodlivým webům a nebezpečnému stahování.
 security-block-downloads =
     .label = Blokovat nebezpečná stahování
     .accesskey = s
@@ -2516,6 +2523,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group2 =
+    .label = DNS over HTTPS
+    .description = Domain Name System over HTTPS (DoH) šifruje vyhledávání stránek, takže pro vašeho poskytovatele internetu nebo pro ostatní je obtížnější vidět, jaké webové stránky se chystáte navštívit.
 preferences-doh-description = DNS over HTTPS odesílá váš požadavek na doménové jméno skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
 preferences-doh-description2 = DNS over HTTPS odesílá váš požadavek na doménové jméno skrze šifrované spojení, čímž DNS zabezpečuje a znesnadňuje ostatním zjistit, na jaký web se chystáte přejít.
 # Variables:
