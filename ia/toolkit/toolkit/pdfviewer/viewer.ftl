@@ -724,7 +724,7 @@ pdfjs-views-manager-status-close-button =
 pdfjs-views-manager-status-close-button-label = Clauder
 # Variables:
 #   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = Colla post pagina { $pagina }
+pdfjs-views-manager-paste-button-after-label = Colla post pagina { $page }
 pdfjs-views-manager-paste-button-before-label = Colla ante le prime pagina
 pdfjs-views-manager-paste-button-label = Collar
 pdfjs-toggle-views-manager-button1 =
