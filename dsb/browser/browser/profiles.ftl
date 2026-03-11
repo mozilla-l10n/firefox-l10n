@@ -90,6 +90,9 @@ delete-profile-bookmarks = Cytańske znamjenja
 delete-profile-history = Historija (woglědane boki, cookieje, sedłowe daty)
 delete-profile-autofill = Daty za awtomatiske wupołnjenje (adrese, płaśeńske metody)
 delete-profile-logins = Gronidła
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Profil “{ $profilename }” lašowaś
 
 ##
 

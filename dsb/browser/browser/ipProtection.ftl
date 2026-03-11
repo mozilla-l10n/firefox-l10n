@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Pśedstajamy VPN, něnto direktnje we wašom wobglědowaku
+ipprotection-feature-introduction-link-text-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał, samo gaby wy w priwatnym woknje był.
 ipprotection-feature-introduction-link-text = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty z pśidatnym koděrowanim šćitał.
 ipprotection-feature-introduction-link-text-private-browsing = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty z pśidatnym koděrowanim šćitał, samo gaby wy w priwatnym woknje był.
 ipprotection-feature-introduction-button-primary = Dalej
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Som zrozměł
 ## Panel
 
 unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
+unauthenticated-hide-location-message-2 = Schowajśo swójo stojnišćo, mjaztym až z { -brand-product-name } pśeglědujośo.
 unauthenticated-hide-location-message = Schowajśo swójo stojnišćo a pśidajśo swójomu pśeglědowanjeju w { -brand-product-name } pśidatne koděrowanje.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -114,6 +117,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Dojśpijośo swój 
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Sćo swóje daty VPN pśisamem pśetrjebał.</strong> Maśo { $usageLeft } GB wušej. Gaž je wšykne pśetrjebujośo, waš VPN wusajźijo, daniž se waše daty prědnego pśiducego mjaseca slědk stajiju.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Sćo swóje daty VPN pśisamem pśetrjebał.</strong> Maśo { $usageLeft } MB wušej. Gaž je wšykne pśetrjebujośo, waš VPN wusajźijo, daniž se waše daty prědnego pśiducego mjaseca slědk stajiju.
 
 ## IP Protection Settings
 
@@ -123,6 +129,11 @@ ip-protection-description =
 ip-protection-learn-more = Dalšne informacije
 ip-protection-site-exceptions =
     .label = Specifiske nastajenja sedła
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
+    .message = Schowajśo swójo stojnišćo, mjaztym až z { -brand-short-name } pśeglědujośo. Wobstarajśo se { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
@@ -189,6 +200,11 @@ ip-protection-bandwidth-help-text = Staja na { $maxUsage } GB prědnego kuždego
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, wótnowjone a gótowe, aby se wužywało
 ipprotection-bandwidth-reset-text = Zmóžniśo VPN za pśidatny śisk priwatnosći, dermotny kuždy mjasec.
 ipprotection-bandwidth-reset-button = Som zrozměł
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Toś to websedło snaź z VPN njefunkcioněrujo.</strong> Wopytajśo se pśizjawiś abo VPN znjemóžniś, mjaztym až toś to websedło wužywaśo.
+ipp-activator-breakage-turn-off-warning = <strong>Toś to websedło snaź z VPN njefunkcioněrujo.</strong> Wopytajśo VPN znjemóžniś, mjaztym až toś to websedło wužywaśo.
 
 ## IP Protection alerts
 

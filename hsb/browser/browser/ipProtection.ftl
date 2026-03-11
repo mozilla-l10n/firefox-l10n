@@ -131,6 +131,11 @@ ip-protection-site-exceptions =
     .label = Specifiske nastajenja sydła
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
+    .message = Schowajće swoje stejnišćo, mjeztym zo z { -brand-short-name } přehladujeće. Wobstarajće sej { $maxUsage } GB darmotnych datow VPN kóždy měsac.
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
     .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
     .message = Schowajće swoje stejnišćo a přidajće swojemu přehladowanju w { -brand-short-name } přidatne kodowanje. Dóstańće { $maxUsage } GB darmotnych datow VPN kóždy měsac.
@@ -195,6 +200,11 @@ ip-protection-bandwidth-help-text = Staja na { $maxUsage } GB prěnjeho kóždeh
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, wobnowjene a hotowe, zo by so wužiwało
 ipprotection-bandwidth-reset-text = Zmóžńće VPN za přidatny stork priwatnosće, darmotny kóždy měsac.
 ipprotection-bandwidth-reset-button = Sym zrozumił
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Tute websydło snano z VPN njefunguje.</strong> Spytajće so přizjewić abo VPN znjemóžnić, mjeztym zo tute websydło wužiwaće.
+ipp-activator-breakage-turn-off-warning = <strong>Tute websydło snano z VPN njefunguje.</strong> Spytajće VPN znjemóžnić, mjeztym zo tute websydło wužiwaće.
 
 ## IP Protection alerts
 
