@@ -8,6 +8,10 @@ about-translations-title = Переводы { -brand-short-name }
 about-translations-description = Мгновенные переводы, уважающие вашу приватность.
 about-translations-learn-more-link = Подробнее
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Перевод недоступен на этом устройстве
+    .message = Попробуйте перейти на другое устройство.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Перевод недоступен на этом устройстве.
     .message = Попробуйте перейти на другое устройство.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Чтобы перевести текст, разблокируйте эту функцию
     .message = Похоже, вы изменили настройки управления ИИ, чтобы заблокировать эту функцию. Разблокируйте в любое время, чтобы начать её использовать.
 about-translations-feature-blocked-unblock-button = Разблокировать
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Не удалось загрузить языки
+    .message = Проверьте ваше интернет-соединение и попробуйте снова.
 about-translations-unsupported-info-button = Подробнее
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
