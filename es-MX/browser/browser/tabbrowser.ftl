@@ -370,6 +370,8 @@ tab-note-editor-button-save =
     .accesskey = S
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Leer más
+tab-note-panel-add-note-new-badge =
+    .label = Nuevo
 
 ## Split View
 
