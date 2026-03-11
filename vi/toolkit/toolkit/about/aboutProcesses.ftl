@@ -61,8 +61,10 @@ about-processes-unknown-process = Khác: { $type } ({ $pid })
 
 ## Properties of isolated web processes
 
+about-processes-web-isolated-property-private = riêng tư
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT đã bị vô hiệu hoá
+about-processes-web-isolated-property-with-coop-coep = cross-origin isolated
 
 ## Isolated process names
 ## Variables:
