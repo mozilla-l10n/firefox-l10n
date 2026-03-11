@@ -405,3 +405,9 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = 신규
+main-context-menu-pdfjs-copy-page =
+    .label = 페이지 복사
+main-context-menu-pdfjs-cut-page =
+    .label = 페이지 잘라내기
+main-context-menu-pdfjs-delete-page =
+    .label = 페이지 삭제
