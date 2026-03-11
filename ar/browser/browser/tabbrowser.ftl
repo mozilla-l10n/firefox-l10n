@@ -296,6 +296,10 @@ tab-context-unnamed-group =
     .label = مجموعة غير مسمّاة
 tab-group-name-default = مجموعة غير مسمّاة
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+
 ##
 
 tab-group-editor-action-new-tab =
@@ -370,6 +374,8 @@ tab-note-editor-button-save =
     .accesskey = ف
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = اطّلع على المزيد
+tab-note-panel-add-note-new-badge =
+    .label = جديد
 
 ## Split View
 
