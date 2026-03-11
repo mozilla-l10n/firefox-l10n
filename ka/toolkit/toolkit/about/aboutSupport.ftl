@@ -133,6 +133,10 @@ place-database-stats-efficiency-perc = შედეგიანობა (%)
 place-database-stats-sequentiality-perc = თანმიმდევრულობა (%)
 place-database-integrity = მთლიანობა
 place-database-verify-integrity = მთლიანობის გადამოწმება
+place-database-last-idle-maintenance-data = უქმი ტექნიკური სამუშაოების ბოლო თარიღი
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = ბოლო წმენდის თარიღი
+place-database-last-integrity-corruption-date = მთლიანობის დარღვევის ბოლო თარიღი
 a11y-title = დამხმარე საშუალებები
 a11y-activated = მოქმედი
 a11y-force-disabled = დამხმარე საშუალებების აკრძალვა

@@ -715,6 +715,9 @@ newtab-widget-timer-menu-learn-more = ვრცლად
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = რჩეული ამბები
 newtab-daily-briefing-card-menu-dismiss = აცილება
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = განახლდა { $minutes } წუთის წინ
 newtab-widget-message-title = მოიკრიბეთ ყურადღება სიებისა და ჩაშენებული წამმზომის მეშვეობით
 # to-dos stands for "things to do".
 newtab-widget-message-copy = სწრაფი შეხსენებები იქნება ეს, თუ ყოველდღიური საქმიანობები, დაძაბული სამუშაო მონაკვეთები თუ შესვენებები განსატვირთად — მიჰყევით და ნუ გადაუხვევთ გეგმებს.
@@ -730,10 +733,15 @@ newtab-promo-card-dismiss-button =
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
 
+newtab-activation-window-message-dismiss-button =
+    .title = აცილება
+    .aria-label = აცილება
 # "This space" refers to about:newtab. The call to action here ("make it your own")
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = მოაწყვეთ ეს სივრცე თქვენებურად
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = დაიწყეთ მორგება
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
 # meant to evoke the idea that newtab is malleable and customizable. The call to
 # action is to customize newtab with a background image or colour, or by tweaking

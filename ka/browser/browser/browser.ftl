@@ -936,9 +936,16 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = ძიებისთვის ამჯერად გამოიყენეთ:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = ძიება სისტემით:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = ძიებისთვის ამჯერად გამოიყენეთ:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description = ძიება სისტემით:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = ძიების პარამეტრები
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
