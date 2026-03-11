@@ -411,3 +411,5 @@ main-context-menu-pdfjs-cut-page =
     .label = 페이지 잘라내기
 main-context-menu-pdfjs-delete-page =
     .label = 페이지 삭제
+main-context-menu-pdfjs-save-page =
+    .label = 선택 내용 저장…
