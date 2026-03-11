@@ -26,6 +26,8 @@ about-translations-language-load-error-message =
     .heading = Noñemyanyhẽkuaái ñe’ẽita
     .message = Ehecha ne ñandutípe jeikeha ha eha’ã jey ag̃ave.
 about-translations-language-load-error-button = Eha’ã jey
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Oiko apañuái emoñe’ẽasakuévo
 about-translations-translation-error-subtext = Eha’ãjey ag̃ave.
 about-translations-translation-error-button = Eha’ã jey
 # An informational message displayed when the detected language is not supported.
