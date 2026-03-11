@@ -8,6 +8,10 @@ about-translations-title = { -brand-short-name } 번역
 about-translations-description = 개인 정보를 보호하는 즉각적인 번역 서비스.
 about-translations-learn-more-link = 더 알아보기
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = 이 기기에서는 번역을 사용할 수 없습니다
+    .message = 다른 기기로 전환해 보세요.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = 이 기기에서는 번역을 사용할 수 없습니다.
     .message = 다른 기기로 전환해 보세요.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = 텍스트를 번역하려면 이 기능 차단을 해제하세요
     .message = 이 기능을 차단하기 위해 AI 제어를 업데이트한 것 같습니다. 언제든지 차단을 해제하고 사용해 보세요.
 about-translations-feature-blocked-unblock-button = 차단 해제
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = 언어를 로드할 수 없음
+    .message = 인터넷 연결을 확인하고 다시 시도하세요.
 about-translations-unsupported-info-button = 더 알아보기
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
