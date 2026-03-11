@@ -2736,6 +2736,8 @@ security-privacy-status-update-error-label =
         [with-cases] { -brand-short-name } má problémy s aktualizací
        *[no-cases] Aplikace { -brand-short-name } má problémy s aktualizací
     }
+security-privacy-status-update-checking-label = { -brand-short-name } hledá aktualizace
+security-privacy-status-update-needed-description = Aktualizace pro nejnovější vylepšení rychlosti, stability a bezpečnosti.
 security-privacy-status-update-button-label =
     .label =
         { -brand-short-name.case-status ->
