@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = c
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nuevo
+main-context-menu-pdfjs-copy-page =
+    .label = Copiar página
+main-context-menu-pdfjs-cut-page =
+    .label = Cortar página
+main-context-menu-pdfjs-delete-page =
+    .label = Borrar página
+main-context-menu-pdfjs-save-page =
+    .label = Guardar selección como…

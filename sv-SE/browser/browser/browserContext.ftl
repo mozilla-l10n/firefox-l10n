@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Ny
+main-context-menu-pdfjs-copy-page =
+    .label = Kopiera sida
+main-context-menu-pdfjs-cut-page =
+    .label = Klipp ut sidan
+main-context-menu-pdfjs-delete-page =
+    .label = Ta bort sida
+main-context-menu-pdfjs-save-page =
+    .label = Spara markering som…
