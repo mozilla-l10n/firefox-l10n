@@ -191,6 +191,11 @@ ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN деректері, 
 ipprotection-bandwidth-reset-text = Жекелікті арттыру үшін VPN-ді іске қосыңыз, ол ай сайын тегін беріледі.
 ipprotection-bandwidth-reset-button = Түсіндім
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Бұл веб-сайт VPN-мен жұмыс істемеуі мүмкін.</strong> Бұл сайтты пайдалану кезінде жүйеге кіріп көріңіз немесе VPN-ді сөндіріңіз.
+ipp-activator-breakage-turn-off-warning = <strong>Бұл веб-сайт VPN-мен жұмыс істемеуі мүмкін.</strong> Бұл сайтты пайдалану кезінде VPN-ді сөндіріп көріңіз.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN аялдатылды
