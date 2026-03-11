@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## These strings are shown under the header if scheduled backups are enabled.
-
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -54,7 +51,7 @@ settings-data-backup-restore-header = Recùpera is datos tuos
 settings-data-backup-scheduled-backups-off-restore-description = Imprea una còpia de seguresa de { -brand-product-name } de un’àteru dispositivu pro recuperare is datos tuos.
 settings-data-backup-scheduled-backups-off-restore-choose = Sèbera s’archìviu de còpia de seguresa...
 
-## These strings are shown under the header if scheduled backups are enabled.
+##
 
 settings-data-backup-scheduled-backups-on-restore-description = Recùpera is datos tuos de { -brand-product-name } de s’ùrtima còpia de seguresa.
 settings-data-backup-scheduled-backups-on-restore-choose = Recùpera…

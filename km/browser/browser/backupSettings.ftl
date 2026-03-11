@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## These strings are shown under the header if scheduled backups are enabled.
-
 settings-data-backup-header = បម្រុងទុក
 settings-data-backup-toggle = គ្រប់គ្រងការបម្រុងទុក
 settings-data-backup-toggle-on2 =
@@ -32,7 +29,7 @@ settings-data-backup-restore-header = ស្ដារទិន្នន័យរ
 
 settings-data-backup-scheduled-backups-off-restore-choose = ជ្រើសរើសឯកសារបម្រុងទុក...
 
-## These strings are shown under the header if scheduled backups are enabled.
+##
 
 settings-data-backup-scheduled-backups-on-restore-choose = ស្ដារ…
 settings-data-toggle-encryption-support-link = ស្វែងយល់​បន្ថែម

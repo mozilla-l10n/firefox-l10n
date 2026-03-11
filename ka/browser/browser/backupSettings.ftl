@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## These strings are shown under the header if scheduled backups are enabled.
-
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -73,7 +70,7 @@ settings-data-backup-restore-header = თქვენი მონაცემ�
 settings-data-backup-scheduled-backups-off-restore-description = გამოიყენეთ სხვა მოწყობილობის { -brand-product-name } მარქაფით მონაცემების აღსადგენად.
 settings-data-backup-scheduled-backups-off-restore-choose = სამარქაფო ფაილის არჩევა…
 
-## These strings are shown under the header if scheduled backups are enabled.
+##
 
 settings-data-backup-scheduled-backups-on-restore-description = აღადგინეთ წინათ დამარქაფებული მონაცემები, რომელსაც შეიცავდა { -brand-product-name }.
 settings-data-backup-scheduled-backups-on-restore-choose = აღდგენა…

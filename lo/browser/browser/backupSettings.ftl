@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## These strings are shown under the header if scheduled backups are enabled.
-
 settings-data-backup-header = ສຳຮອງ
 settings-data-backup-toggle = ຈັດການການສຳຮອງຂໍ້ມູນ
 settings-data-backup-trigger-button = ສຳຮອງຂໍ້ມູນດຽວນີ້
@@ -16,7 +13,7 @@ settings-data-backup-last-backup-location = ຕຳແຫນ່ງທີ່ຕັ
 settings-data-backup-last-backup-location-show-in-folder = ສະແດງຢູ່ໃນໂຟນເດີ
 settings-data-backup-last-backup-location-edit = ແກ້ໄຂ…
 
-## These strings are shown under the header if scheduled backups are enabled.
+##
 
 settings-data-backup-scheduled-backups-on-restore-description = ກູ້ຂໍ້ມູນ { -brand-product-name } ຂອງທ່ານກັບຄືນມາຈາກຄັ້ງສຸດທ້າຍທີ່ມັນຖືກສຳຮອງຂໍ້ມູນ.
 settings-data-backup-scheduled-backups-on-restore-choose = ກູ້ຄືນ…

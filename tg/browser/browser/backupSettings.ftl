@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## These strings are shown under the header if scheduled backups are enabled.
-
 # This string is used to name the folder that users will save backups to.
 # "Restore" is an action and intended for prompting users to select this folder
 # when following backup restoration steps. Please only include characters that
@@ -54,7 +51,7 @@ settings-data-backup-restore-header = Маълумоти худро барқар
 settings-data-backup-scheduled-backups-off-restore-description = Барои барқарор кардани маълумоти худ, нусхаи эҳтиётии «{ -brand-product-name }»-ро аз дастгоҳи дигар истифода баред.
 settings-data-backup-scheduled-backups-off-restore-choose = Файли нусхаи эҳтиётиро интихоб кунед…
 
-## These strings are shown under the header if scheduled backups are enabled.
+##
 
 settings-data-backup-scheduled-backups-on-restore-description = Маълумоти «{ -brand-product-name }»-и худро аз вақти охирини таҳияи нусхаи эҳтиётии он барқарор кунед.
 settings-data-backup-scheduled-backups-on-restore-choose = Барқарор кардан…
