@@ -187,6 +187,10 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, 준비 완료
 ipprotection-bandwidth-reset-text = VPN을 켜서 개인 정보 보호를 더욱 강화하세요. 매달 무료로 제공해드립니다.
 ipprotection-bandwidth-reset-button = 확인
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>이 웹 사이트는 VPN이 작동하지 않을 수 있습니다.</strong> 이 웹사이트를 사용하는 동안 로그인하거나 VPN을 꺼보세요.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN 일시 중지됨
