@@ -405,3 +405,5 @@ main-context-menu-reveal-password =
     .accesskey = V
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Ny
+main-context-menu-pdfjs-copy-page =
+    .label = Kopier side
