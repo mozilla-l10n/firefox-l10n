@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Pśełožk njejo k dispoziciji na toś tom rěźe.
     .message = Wopytajśo drugi rěd wužywaś.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Pśełožki njejsu k dispoziciji za wašu organizaciju
+    .message = To jo pšawidło, kótarež jo se wót administratora póstajiło.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Aby tekst pśełožował, wótblokěrujśo toś tu funkciju
+    .message = Zda se, ako by wóźeńske elementy KI aktualizěrował, aby toś tu funkciju blokěrował. Wótblokěrujśo kuždy cas, aby ju wužywał.
+about-translations-feature-blocked-unblock-button = Wěcej njeblokěrowaś
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Rěcy njedaju se zacytaś
@@ -25,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = Rěcy njedaju se zacytaś.
     .message = Pśeglědajśo swój internetny zwisk a wopytajśo hyšći raz.
 about-translations-language-load-error-button = Hyšći raz wopytaś
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Jo dało problem pśi pśełožowanju
+about-translations-translation-error-subtext = Pšosym wopytajśo hyšći raz.
+about-translations-translation-error-button = Hyšći raz wopytaś
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Bóžko { $language } hyšći njepódpěrajomy
+about-translations-detected-language-unsupported-heading-unknown = Bóžko toś tu rěc hyšći njepódpěrajomy
+about-translations-detected-language-unsupported-subtext = Pšosym wubjeŕśo drugu rěc.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Tekst pśidaś, kótaryž se pśełožyś
