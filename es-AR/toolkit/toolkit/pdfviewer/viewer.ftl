@@ -203,8 +203,17 @@ pdfjs-thumb-page-canvas =
     .aria-label = Miniatura de página { $page }
 # Variables:
 #   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Seleccionar página { $page }
+# Variables:
+#   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = Seleccionar página { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Página { $page } de { $total }
 
 ## Find panel button title and messages
 
@@ -649,6 +658,7 @@ pdfjs-toggle-views-manager-button =
     .title = Alternar barra lateral
 pdfjs-toggle-views-manager-notification-button =
     .title = Alternar barra lateral (el documento contiene miniaturas/esquemas/adjuntos/capas)
+pdfjs-toggle-views-manager-button1-label = Administrar páginas
 pdfjs-toggle-views-manager-button-label = Alternar barra lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Barra lateral
@@ -710,7 +720,13 @@ pdfjs-views-manager-status-undo-button-label = Deshacer
 pdfjs-views-manager-status-close-button =
     .title = Cerrar
 pdfjs-views-manager-status-close-button-label = Cerrar
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after-label = Pegar después de la página { $page }
+pdfjs-views-manager-paste-button-before-label = Pegar antes de la primera página
 pdfjs-views-manager-paste-button-label = Pegar
+pdfjs-toggle-views-manager-button1 =
+    .title = Administrar páginas
 
 ## Main menu for adding/removing signatures
 
