@@ -351,6 +351,9 @@ tab-context-add-note =
     .label = Ավելացնել նշում
     .accesskey = A
 tab-note-editor-title-create = Ավելացնել նշում
+tab-note-editor-button-cancel =
+    .label = Չեղարկել
+    .accesskey = C
 
 ## Split View
 

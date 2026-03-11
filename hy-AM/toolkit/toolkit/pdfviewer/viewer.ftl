@@ -370,6 +370,17 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Գրվածքի խմբագիր
     .default-content = Սկսեք մուտքագրել...
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Մեկնաբանություն
+       *[other] Մեկնաբանություններ
+    }
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Տեսնո՞ւմ եք ինչ-որ ուշագրավ բան։ Գունանշեք այն և թողեք մեկնաբանություն։
+pdfjs-editor-comments-sidebar-no-comments-link = Իմանալ ավելին
 
 ## Alt-text dialog
 
@@ -593,6 +604,7 @@ pdfjs-editor-edit-comment-dialog-title-when-adding = Ավելացնել մեկն
 pdfjs-editor-edit-comment-dialog-save-button-when-adding = Ավելացնել
 pdfjs-editor-edit-comment-dialog-text-input =
     .placeholder = Մուտքագրեք այստեղ…
+pdfjs-editor-edit-comment-dialog-cancel-button = Չեղարկել
 
 ## Edit a comment button in the editor toolbar
 

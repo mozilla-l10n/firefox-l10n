@@ -265,6 +265,7 @@ discopane-notice-recommendations = Այս առաջարկներից մի քանի
 discopane-notice-recommendations2 =
     .message = Այս առաջարկներից մի քանիսը անհատականացված են։ Դրանք հիմնված են ուրիշների վրա ձեր սահմանած ընդարձակումների, հատկագրի կարգավորումների և օգտագործման վիճակագրությունից։
 discopane-notice-learn-more = Իմանալ ավելին
+colorway-removal-notice-learn-more = Իմանալ ավելին
 privacy-policy = Գաղտնիության դրույթներ
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -491,3 +492,8 @@ plugins-openh264-name = OpenH264 Video Codec, որը մատակարարում է
 plugins-openh264-description = Այս բաղադրիչը ինքնաբար տեղադրված է Mozilla-ի կողմից և համապատասխանում է WebRTC բնութագրին և WebRTC-ը միացնելու համար կանչում է սարքեր, որոնք պահանջում են H.264 տեսանյութի կոդեկ: Այցելեք http://www.openh264.org/ կայք՝ դիտելու համար կոդեկի բնագիրը:
 plugins-widevine-name = Widevine Content Decryption Module՝ Google Inc.-ի կողմից
 plugins-widevine-description = Այս բաղադրիչը հնարավորություն է տալիս նվագարկել գաղտնագրված մեդիան՝ գաղտնագրված մեդիայի ընդարձակման հատկորոշման համաձայն: Գաղտնագրված մեդիան սովորաբար օգտագործվում է կայքերի կողմից պրեմիում մեդիա բովանդակությունը պատճենելուց պաշտպանվելու համար: Այցելեք https://www.w3.org/TR/encrypted-media/՝ գաղտնագրված մեդիայի ընդարձակման վերաբերյալ լրացուցիչ տեղեկություններ ստանալու համար:
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+addon-data-collection-learnmore = Իմացեք ավելին տվյալների հավաքագրման մասին

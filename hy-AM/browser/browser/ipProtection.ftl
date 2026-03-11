@@ -69,6 +69,10 @@ ipprotection-connection-status-paused-title = VPN-ը դադարեցված է
 ipprotection-connection-status-paused-description = Դուք օգտագործել եք ձեր VPN տվյալների բոլոր { $maxUsage } ԳԲ-ը։ Մուտքը կվերակայվի հաջորդ ամիս։
 upgrade-vpn-button = Փորձեք { -mozilla-vpn-brand-name }-ը
 
+## IP Protection Settings
+
+ip-protection-learn-more = Իմանալ ավելին
+
 ## IP Protection alerts
 
 vpn-error-alert-body = Փորձեք ավելի ուշ

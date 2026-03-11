@@ -48,6 +48,7 @@ new-profile-page-header = Հարմարեցրեք ձեր նոր պրոֆիլը
 new-profile-page-learn-more = Իմանալ ավելին
 new-profile-page-done-button =
     .label = Խմբագրման ավարտ
+restored-profile-page-learn-more = Իմանալ ավելին
 profile-window-title-2 = { -brand-short-name } - ընտրեք պրոֆիլ
 profile-window-logo =
     .alt = { -brand-short-name }-ի լոգո

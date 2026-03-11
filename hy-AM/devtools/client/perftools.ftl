@@ -22,6 +22,7 @@ perftools-devtools-settings-label = Կարգավորումներ
 
 ##
 
+perftools-button-cancel-recording = Չեղարկել ձայնագրությունը
 perftools-button-restart = Վերամեկնարկել
 perftools-button-add-directory = Ավելացնել գրացուցակ
 perftools-button-remove-directory = Հեռացնել ընտրվածը
