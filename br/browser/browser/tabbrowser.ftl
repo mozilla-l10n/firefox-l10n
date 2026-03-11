@@ -106,6 +106,9 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Lenn { $tabCount } ivinell
         }
 
+## Tooltips for tab audio control
+
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -280,6 +283,10 @@ tab-context-unnamed-group =
     .label = Strollad dizanv
 tab-group-name-default = Strollad dizanv
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -346,3 +353,14 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Digeriñ ar strollad e-barzh ur prenestr nevez
+
+## Tab Notes
+
+tab-note-panel-add-note-new-badge =
+    .label = Nevez
+
+## Split View
+
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+

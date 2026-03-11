@@ -385,6 +385,8 @@ tab-note-editor-button-save =
     .accesskey = K
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Pli da informo
+tab-note-panel-add-note-new-badge =
+    .label = Nova
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:

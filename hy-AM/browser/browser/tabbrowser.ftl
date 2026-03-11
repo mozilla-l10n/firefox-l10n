@@ -354,6 +354,8 @@ tab-note-editor-title-create = Ավելացնել նշում
 tab-note-editor-button-cancel =
     .label = Չեղարկել
     .accesskey = C
+tab-note-panel-add-note-new-badge =
+    .label = Նոր
 
 ## Split View
 

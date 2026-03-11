@@ -79,6 +79,9 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Atskaņot { $tabCount } cilnes
         }
 
+## Tooltips for tab audio control
+
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -120,6 +123,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Aizvērt { -brand-short-name }
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Apstiprināt pirms aizvērt ar { $quitKey }
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -197,3 +204,27 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = Atjaunot skaņu cilnei
 tabbrowser-manager-close-tab =
     .tooltiptext = Aizvērt cilni
+
+##
+
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+
+##
+
+
+## Open/saved tab group context menu
+
+
+## Tab Notes
+
+tab-note-panel-add-note-new-badge =
+    .label = Jaunums
+
+## Split View
+
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+

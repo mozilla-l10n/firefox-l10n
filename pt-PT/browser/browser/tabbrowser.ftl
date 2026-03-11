@@ -345,6 +345,14 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Abrir grupo numa nova janela
 
+## Tab Notes
+
+tab-note-panel-add-note-new-badge =
+    .label = Nova
+
 ## Split View
 
 tab-context-badge-new = Nova
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+

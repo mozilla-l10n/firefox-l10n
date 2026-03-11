@@ -426,6 +426,8 @@ tab-note-editor-button-save =
     .accesskey = U
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Ďalšie informácie
+tab-note-panel-add-note-new-badge =
+    .label = Nové
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:

@@ -386,6 +386,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Salve
     .accesskey = S
+tab-note-panel-add-note-new-badge =
+    .label = Novitâts
 
 ## Split View
 
