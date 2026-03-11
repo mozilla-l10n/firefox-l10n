@@ -66,7 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = თქვენი { $profilename } მზადაა მოსარგებად
 copied-profile-page-header-description = თქვენი მონაცემებისა და პარამეტრების ასლები გადმოტანილია ახალ პროფილში. დროა, დაარქვათ რამე, შეარჩიეთ იერსახე და გახადოთ მეტად თქვენებური.
+restored-profile-page-header = მოირგეთ თქვენი აღდგენილი პროფილი
 restored-profile-page-header-description = თითოეული პროფილი გვერდების ისტორიასა და პარამეტრებს სხვა პროფილებისგან განცალკევებით ინახავს. ამასთანავე, { -brand-short-name } ნაგულისხმევად იყენებს პირადულობის მძლავრ დაცვას.
+restored-profile-page-learn-more = ვრცლად
 profile-window-title-2 = { -brand-short-name } – პროფილის არჩევა
 profile-window-logo =
     .alt = { -brand-short-name } – ლოგო
@@ -88,6 +90,9 @@ delete-profile-bookmarks = სანიშნები
 delete-profile-history = ისტორია (მონახულებული გვერდები, ფუნთუშები, საიტის მონაცემები)
 delete-profile-autofill = თვითშევსების მონაცემები (მისამართები, გადახდის საშუალებები)
 delete-profile-logins = პაროლები
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = წაიშალოს პროფილი „{ $profilename }“
 
 ##
 
