@@ -390,6 +390,8 @@ tab-note-editor-button-save =
     .accesskey = S
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Leer más
+tab-note-panel-add-note-new-badge =
+    .label = Nuevo
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
