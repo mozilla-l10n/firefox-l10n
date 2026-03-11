@@ -8,6 +8,10 @@ about-translations-title = Traducciones de { -brand-short-name }
 about-translations-description = Traducciones instantáneas que respetan la privacidad.
 about-translations-learn-more-link = Conocer más
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = La traducción no está disponible en este dispositivo
+    .message = Intente cambiar a un dispositivo diferente.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = La traducción no está disponible en este dispositivo.
     .message = Intente cambiar a un dispositivo diferente.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Para traducir texto, desbloquee esta función
     .message = Parece que se actualizaron los controles de IA para bloquear esta función. Desbloquee en cualquier momento para empezar a usarla.
 about-translations-feature-blocked-unblock-button = Desbloquear
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = No se pueden cargar los idiomas
+    .message = Verifique la conexión a internet en intente nuevamente.
 about-translations-unsupported-info-button = Conocer más
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
