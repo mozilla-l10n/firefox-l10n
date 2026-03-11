@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = აირჩიეთ ჩანართი გაყოფილ ხედში დასამატებლად
+opentabs-search-text-box =
+    .placeholder = ჩანართების ძიება
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = შედეგი ძიებისთვის „{ $query }“
