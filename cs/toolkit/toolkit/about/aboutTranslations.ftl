@@ -12,6 +12,10 @@ about-translations-title =
 about-translations-description = Okamžité překlady, které respektují vaše soukromí.
 about-translations-learn-more-link = Zjistit více
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Překlad není na tomto zařízení k dispozici
+    .message = Zkuste použít jiné zařízení.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Překlad není na tomto zařízení k dispozici.
     .message = Zkuste použít jiné zařízení.
@@ -20,6 +24,10 @@ about-translations-policy-disabled-info-message =
     .heading = Překlady pro vaši organizaci nejsou k dispozici
     .message = Toto je zásada nastavená vaším správcem.
 about-translations-feature-blocked-unblock-button = Odblokovat
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Nepodařilo se načíst jazyky
+    .message = Zkontroluje své připojení k internetu a zkuste to znovu.
 about-translations-unsupported-info-button = Zjistit více
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
