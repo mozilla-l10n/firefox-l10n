@@ -386,6 +386,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Gem
     .accesskey = G
+tab-note-panel-add-note-new-badge =
+    .label = Nyt
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
