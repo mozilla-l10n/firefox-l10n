@@ -8,9 +8,17 @@ about-translations-title = Terjemahan { -brand-short-name }
 about-translations-description = Terjemahan instan yang menghormati privasi Anda.
 about-translations-learn-more-link = Pelajari lebih lanjut
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Terjemahan tidak tersedia pada perangkat ini
+    .message = Cobalah beralih ke perangkat lain.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Terjemahan tidak tersedia pada perangkat ini.
     .message = Cobalah beralih ke perangkat lain.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Tidak dapat memuat bahasa
+    .message = Periksa koneksi internet Anda dan coba lagi.
 about-translations-unsupported-info-button = Pelajari lebih lanjut
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
