@@ -8,9 +8,17 @@ about-translations-title = { -brand-short-name } itzulpenak
 about-translations-description = Zure pribatutasuna errespetatzen dituzten berehalako itzulpenak.
 about-translations-learn-more-link = Argibide gehiago
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Itzulpena ez dago erabilgarri gailu honetan
+    .message = Probatu beste gailu batera aldatzen.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Itzulpena ez dago erabilgarri gailu honetan.
     .message = Probatu beste gailu batera aldatzen.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Ezin dira hizkuntzak kargatu
+    .message = Egiaztatu Interneterako zure konexioa eta saiatu berriro.
 about-translations-unsupported-info-button = Argibide gehiago
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
