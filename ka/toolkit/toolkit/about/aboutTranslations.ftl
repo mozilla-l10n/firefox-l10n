@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = თარგმანი მიუწვდომელია ამ მოწყობილობაზე.
     .message = სცადეთ სხვა მოწყობილობაზე.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = თარგმანები მიუწვდომელია თქვენი დაწესებულებისთვის
+    .message = დებულება მითითებულია ხელმძღვანელობის მიერ.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = ნაწერის თარგმნისთვის მოხსენით შეზღუდვა ამ შესაძლებლობას
+    .message = როგორც ჩანს, შეცვლილი გაქვთ ხელგოს პარამეტრები ამ შესაძლებლობის შესაზღუდად. მოხსენით შეზღუდვა ნებისმიერ დროს მის გამოსაყენებლად.
+about-translations-feature-blocked-unblock-button = შეზღუდვის მოხსნა
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = ვერ ჩაიტვირთა ენები
@@ -25,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = ვერ ჩაიტვირთა ენები.
     .message = შეამოწმეთ ქსელთან კავშირი და კვლავ სცადეთ.
 about-translations-language-load-error-button = ხელახლა ცდა
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = ხარვეზი წარმოიშვა თარგმნისას
+about-translations-translation-error-subtext = გთხოვთ, სცადოთ ხელახლა.
+about-translations-translation-error-button = ხელახლა ცდა
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = სამწუხაროდ, ჯერ არაა მხარდაჭერილი { $language }
+about-translations-detected-language-unsupported-heading-unknown = სამწუხაროდ, ჯერ არაა მხარდაჭერილი ეს ენა
+about-translations-detected-language-unsupported-subtext = გთხოვთ, აირჩიოთ სხვა ენა.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = დაამატეთ ტექსტი თარგმნისთვის

@@ -133,6 +133,11 @@ ip-protection-site-exceptions =
     .label = Parametros specific de sito
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Essaya le VPN integrate de { -brand-short-name }
+    .message = Cela tu position dum tu naviga in { -brand-short-name }. Recipe { $maxUsage } GB de datos VPN gratuite cata mense.
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
     .heading = Essaya le VPN integrate de { -brand-short-name }
     .message = Cela tu position e adde ulterior cryptation a tu navigation intra { -brand-short-name }. Obtene { $maxUsage } GB de datos de VPN gratuite cata mense.
@@ -198,7 +203,8 @@ ipprotection-bandwidth-reset-button = OK
 
 ## IP Protection add-on breakage warnings
 
-ipp-activator-breakage-sign-in-warning = <strong>Iste sito web pote non functionar con un VPN.</strong> Tenta acceder o disactivar le VPN dum tu usa iste sito web.
+ipp-activator-breakage-sign-in-warning = <strong>Iste sito web pote non functionar con un VPN.</strong> Tenta acceder o disactivar le VPN pro usar iste sito web.
+ipp-activator-breakage-turn-off-warning = <strong>Iste sito web pote non functionar con un VPN.</strong> Tenta disactivar le VPN dum tu usa iste sito web.
 
 ## IP Protection alerts
 
