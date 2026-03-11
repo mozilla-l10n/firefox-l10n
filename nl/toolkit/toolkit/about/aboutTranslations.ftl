@@ -8,6 +8,10 @@ about-translations-title = { -brand-short-name }-vertalingen
 about-translations-description = Directe vertalingen die uw privacy respecteren.
 about-translations-learn-more-link = Meer info
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Vertaling is niet beschikbaar op dit apparaat
+    .message = Probeer naar een ander apparaat over te stappen.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Vertaling is niet beschikbaar op dit apparaat.
     .message = Probeer naar een ander apparaat over te stappen.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Deblokkeer deze functie om tekst te vertalen
     .message = Het lijkt erop dat u AI-bedieningselementen hebt bijgewerkt om deze functie te blokkeren. Deblokkeer de functie op elk gewenst moment om deze te gaan gebruiken.
 about-translations-feature-blocked-unblock-button = Blokkering opheffen
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Kan talen niet laden
+    .message = Controleer uw internetverbinding en probeer het opnieuw.
 about-translations-unsupported-info-button = Meer info
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
