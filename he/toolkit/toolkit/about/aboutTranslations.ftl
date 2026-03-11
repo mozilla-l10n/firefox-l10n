@@ -8,6 +8,10 @@ about-translations-title = תרגומים של { -brand-short-name }
 about-translations-description = תרגומים מיידיים המכבדים את הפרטיות שלך.
 about-translations-learn-more-link = מידע נוסף
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = התרגום אינו זמין במכשיר זה
+    .message = נא לנסות להחליף למכשיר אחר.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = התרגום אינו זמין במכשיר זה.
     .message = נא לנסות להחליף למכשיר אחר.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = כדי לתרגם טקסט, יש להסיר את החסימה של תכונה זו
     .message = נראה שעדכנת את בקרי הבינה המלאכותית כדי לחסום תכונה זו. יש להסיר את החסימה כדי להתחיל להשתמש בה.
 about-translations-feature-blocked-unblock-button = הסרת חסימה
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = לא ניתן לטעון שפות
+    .message = נא לבדוק את החיבור שלך לאינטרנט ולנסות שוב.
 about-translations-unsupported-info-button = מידע נוסף
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

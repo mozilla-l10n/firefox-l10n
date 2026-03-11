@@ -8,9 +8,17 @@ about-translations-title = { -brand-short-name }-käännökset
 about-translations-description = Yksityisyyttäsi kunnioittavat pikakäännökset.
 about-translations-learn-more-link = Lue lisää
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Käännöstoiminnallisuus ei ole saatavilla tällä laitteella
+    .message = Kokeile vaihtaa toiseen laitteeseen.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Käännöstoiminnallisuus ei ole saatavilla tällä laitteella.
     .message = Kokeile vaihtaa toiseen laitteeseen.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Kielten lataus epäonnistui
+    .message = Tarkista internetyhteys ja yritä uudelleen.
 about-translations-unsupported-info-button = Lue lisää
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

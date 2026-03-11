@@ -8,6 +8,10 @@ about-translations-title = { -brand-short-name } oversettelser
 about-translations-description = Øyeblikkelige oversettelser som respekterer personvernet ditt.
 about-translations-learn-more-link = Les mer
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Oversettelse er ikke tilgjengelig på denne enheten
+    .message = Prøv å bytte til en annen enhet.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Oversettelse er ikke tilgjengelig på denne enheten.
     .message = Prøv å bytte til en annen enhet.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Opphev blokkeringen av denne funksjonen for å oversette tekst
     .message = Det ser ut til at du har oppdatert A-kontrollene til å blokkere denne funksjonen. Opphev blokkeringen når som helst for å begynne å bruke den.
 about-translations-feature-blocked-unblock-button = Opphev blokkering
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Kunne ikke laste inn språk
+    .message = Kontroller internettforbindelsen din og prøv igjen.
 about-translations-unsupported-info-button = Les mer
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

@@ -8,9 +8,17 @@ about-translations-title = Prevajanje v { -brand-short-name(sklon: "mestnik") }
 about-translations-description = Takojšnje prevajanje, ki spoštuje vašo zasebnost.
 about-translations-learn-more-link = Več o tem
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Prevajanje na tej napravi ni na voljo
+    .message = Poskusite na drugi napravi.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Prevajanje na tej napravi ni na voljo.
     .message = Poskusite na drugi napravi.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Jezikov ni bilo mogoče naložiti
+    .message = Preverite svojo povezavo z internetom in poskusite znova.
 about-translations-unsupported-info-button = Več o tem
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

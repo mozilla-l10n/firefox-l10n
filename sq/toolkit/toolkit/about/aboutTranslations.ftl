@@ -8,9 +8,17 @@ about-translations-title = Përkthime { -brand-short-name }
 about-translations-description = Përkthime të menjëhershme që respektojnë privatësinë tuaj.
 about-translations-learn-more-link = Mësoni më tepër
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Përkthimi s’është i mundshëm në këtë pajisje
+    .message = Provoni të kaloni në një pajisje tjetër.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Përkthimi s’është i mundshëm në këtë pajisje.
     .message = Provoni të kaloni në një pajisje tjetër.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = S’u ngarkuan dot gjuhë
+    .message = Kontrolloni lidhjen tuaj internet dhe riprovoni.
 about-translations-unsupported-info-button = Mësoni më tepër
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

@@ -8,6 +8,10 @@ about-translations-title = { -brand-short-name } translations
 about-translations-description = Instant translations that respect your privacy.
 about-translations-learn-more-link = Learn more
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Translation isn’t available on this device
+    .message = Try switching to a different device.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Translation isn’t available on this device.
     .message = Try switching to a different device.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = To translate text, unblock this feature
     .message = It looks like you updated AI controls to block this feature. Unblock any time to start using it.
 about-translations-feature-blocked-unblock-button = Unblock
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Couldn’t load languages
+    .message = Check your internet connection and try again.
 about-translations-unsupported-info-button = Learn more
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

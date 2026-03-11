@@ -8,9 +8,17 @@ about-translations-title = { -brand-short-name } omsettingar
 about-translations-description = Raske omsettingar som respekterer personvernet ditt.
 about-translations-learn-more-link = Les meir
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Omsetting er ikkje tilgjengeleg på denne eininga
+    .message = Prøv å byte til ei anna eining.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Omsetting er ikkje tilgjengeleg på denne eininga.
     .message = Prøv å byte til ei anna eining.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Klarte ikkje å laste inn språk
+    .message = Kontroller internettsambandet ditt og prøv igjen
 about-translations-unsupported-info-button = Les meir
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

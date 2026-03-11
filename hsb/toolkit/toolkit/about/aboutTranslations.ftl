@@ -8,6 +8,10 @@ about-translations-title = Přełožki { -brand-short-name }
 about-translations-description = Hnydomne přełožki, kotrež wašu priwatnosć respektuja.
 about-translations-learn-more-link = Dalše informacije
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Přełožk na tutym graće k dispoziciji njeje
+    .message = Spytajće druhi grat wužiwać.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Přełožk na tutym graće k dispoziciji njeje.
     .message = Spytajće druhi grat wužiwać.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Zo byšće tekst přełožował, zo byšće tutu funkciju wotblokował
     .message = Zda so, kaž byšće wodźenske elementy KI aktualizował, zo byšće tutu funkciju blokował. Wotblokujće kóždy čas, zo byšće ju wužiwał.
 about-translations-feature-blocked-unblock-button = Hižo njeblokować
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Rěče njedadźa so začitać
+    .message = Přepruwujće swój internetny zwisk a spytajće hišće raz.
 about-translations-unsupported-info-button = Dalše informacije
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

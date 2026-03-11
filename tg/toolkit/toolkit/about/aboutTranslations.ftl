@@ -8,9 +8,17 @@ about-translations-title = Тарҷумаҳои «{ -brand-short-name }»
 about-translations-description = Тарҷумаҳои фаврие, ки нисбат ба махфияти шумо бо эҳтиром иҷро мешаванд.
 about-translations-learn-more-link = Маълумоти бештар
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Тарҷума дар ин дастгоҳ дастнорас аст
+    .message = Кӯшиш кунед, ки ба дастгоҳи дигар гузаред.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Тарҷума дар ин дастгоҳ дастнорас аст.
     .message = Кӯшиш кунед, ки ба дастгоҳи дигар гузаред.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Низом забонҳоро бор карда натавонист
+    .message = Пайвасти интернети худро санҷед ва аз нав кӯшиш намоед.
 about-translations-unsupported-info-button = Маълумоти бештар
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

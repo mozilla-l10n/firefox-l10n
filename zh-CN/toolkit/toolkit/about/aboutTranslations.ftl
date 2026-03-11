@@ -8,9 +8,17 @@ about-translations-title = { -brand-short-name } 翻译
 about-translations-description = 尊重隐私的即时翻译。
 about-translations-learn-more-link = 详细了解
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = 此设备无法使用翻译
+    .message = 请尝试使用其他设备。
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = 此设备无法使用翻译。
     .message = 请尝试使用其他设备。
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = 无法加载语言
+    .message = 请检查互联网连接，然后重试。
 about-translations-unsupported-info-button = 详细了解
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =

@@ -8,9 +8,17 @@ about-translations-title = Μεταφράσεις { -brand-short-name }
 about-translations-description = Άμεσες μεταφράσεις που σέβονται το απόρρητό σας.
 about-translations-learn-more-link = Μάθετε περισσότερα
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Η μετάφραση δεν είναι διαθέσιμη σε αυτήν τη συσκευή
+    .message = Δοκιμάστε να μεταβείτε σε μια άλλη συσκευή.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Η μετάφραση δεν είναι διαθέσιμη σε αυτήν τη συσκευή.
     .message = Δοκιμάστε να μεταβείτε σε μια άλλη συσκευή.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Δεν ήταν δυνατή η φόρτωση των γλωσσών
+    .message = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
 about-translations-unsupported-info-button = Μάθετε περισσότερα
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
