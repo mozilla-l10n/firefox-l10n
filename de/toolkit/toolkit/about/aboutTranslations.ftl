@@ -8,6 +8,10 @@ about-translations-title = Übersetzungen von { -brand-short-name }
 about-translations-description = Sofortige Übersetzungen, die Ihre Privatsphäre respektieren.
 about-translations-learn-more-link = Weitere Informationen
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Übersetzung ist auf diesem Gerät nicht verfügbar
+    .message = Versuchen Sie es auf einem anderen Gerät.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Übersetzung ist auf diesem Gerät nicht verfügbar.
     .message = Versuchen Sie es auf einem anderen Gerät.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Entsperren Sie diese Funktion, um Text zu übersetzen
     .message = Es sieht so aus, als hätten Sie die KI-Steuerung aktualisiert, um diese Funktion zu blockieren. Sie können sie jederzeit entsperren, um sie zu nutzen.
 about-translations-feature-blocked-unblock-button = Nicht mehr blockieren
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Sprachen konnten nicht geladen werden
+    .message = Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
 about-translations-unsupported-info-button = Weitere Informationen
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
