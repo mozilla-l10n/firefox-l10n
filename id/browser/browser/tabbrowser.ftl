@@ -229,6 +229,10 @@ tab-context-unnamed-group =
     .label = Grup tanpa nama
 tab-group-name-default = Grup Tanpa Nama
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -302,3 +306,14 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = Buka Grup di Jendela Baru
+
+## Tab Notes
+
+tab-note-panel-add-note-new-badge =
+    .label = Baru
+
+## Split View
+
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
