@@ -548,8 +548,8 @@ pdfjs-editor-add-signature-image-button = Պատկեր
 ## Tab panels
 
 pdfjs-editor-add-signature-type-input =
-    .aria-label = Մուտքագրեք ձեր ստորագրությունը
-    .placeholder = Մուտքագրեք ձեր ստորագրությունը
+    .aria-label = Մուտքագրել ստորագրություն
+    .placeholder = Մուտքագրել ստորագրություն
 pdfjs-editor-add-signature-draw-placeholder = Նկարեք ձեր ստորագրությունը
 pdfjs-editor-add-signature-draw-thickness-range-label = Հաստություն
 # Variables:

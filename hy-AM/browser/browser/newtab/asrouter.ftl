@@ -201,6 +201,8 @@ set-default-pdf-handler-primary = Հասկացա
 
 ## PDF Annotations strings
 
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Նկարեք, տպեք կամ վերբեռնեք ձեր ստորագրությունը, ապա տեղադրեք այն ճիշտ այնտեղ, որտեղ ցանկանում եք: Պահպանեք ձեր ստորագրությունները՝ հաջորդ անգամ դրանք օգտագործելու համար:
 annotations-make-default-pdf-handler-title = Դարձնե՞լ { -brand-short-name }-ը ձեր սկզբնադիր PDF խմբագրիչը։
 annotations-make-default-pdf-primary-cta-label = Կայել որպես սկզբնադիր
 annotations-make-default-pdf-next-label = Հաջորդը
