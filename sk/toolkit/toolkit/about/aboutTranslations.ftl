@@ -8,9 +8,17 @@ about-translations-title = Preklady { -brand-short-name(case: "gen") }
 about-translations-description = Okamžité preklady, ktoré rešpektujú vaše súkromie.
 about-translations-learn-more-link = Ďalšie informácie
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Preklad nie je na tomto zariadení k dispozícii
+    .message = Skúste prejsť na iné zariadenie.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Preklad nie je na tomto zariadení k dispozícii.
     .message = Skúste prejsť na iné zariadenie.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Nepodarilo sa načítať jazyky
+    .message = Skontrolujte svoje internetové pripojenie a skúste to znova.
 about-translations-unsupported-info-button = Ďalšie informácie
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
