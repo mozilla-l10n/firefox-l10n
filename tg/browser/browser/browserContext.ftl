@@ -402,3 +402,11 @@ main-context-menu-reveal-password =
     .accesskey = Н
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Нав
+main-context-menu-pdfjs-copy-page =
+    .label = Нусха бардоштани саҳифа
+main-context-menu-pdfjs-cut-page =
+    .label = Буридани саҳифа
+main-context-menu-pdfjs-delete-page =
+    .label = Нест кардани саҳифа
+main-context-menu-pdfjs-save-page =
+    .label = Нигоҳ доштани интихоб ҳамчун…

@@ -25,6 +25,8 @@ about-translations-language-load-error-message =
     .heading = Низом забонҳоро бор карда натавонист.
     .message = Пайвасти интернети худро санҷед ва аз нав кӯшиш намоед.
 about-translations-language-load-error-button = Аз нав кӯшиш кардан
+about-translations-translation-error-subtext = Лутфан, аз нав кӯшиш кунед.
+about-translations-translation-error-button = Аз нав кӯшиш кардан
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Матнеро барои тарҷума илова кунед

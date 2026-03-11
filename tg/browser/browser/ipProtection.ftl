@@ -54,6 +54,10 @@ ipprotection-button-turn-vpn-on = Фаъол кардани «VPN»
 # Button while VPN is connecting
 ipprotection-button-connecting = Фаъол шуда истодааст…
 
+## VPN paused state
+
+upgrade-vpn-button = «{ -mozilla-vpn-brand-name }»-ро озмоед
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Маълумоти бештар

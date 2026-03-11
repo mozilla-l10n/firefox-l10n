@@ -570,3 +570,8 @@ onboarding-personalization-motivation-title = Кадом хусусиятҳои 
 onboarding-personalization-motivation-privacy-option = Махфият ва амният
 onboarding-personalization-motivation-productivity-option = Самаранокӣ
 onboarding-personalization-motivation-other-option = Дигар
+
+## Onboarding 2026 brand refresh
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = «{ -brand-short-name }» шуморо пуштибонӣ мекунад

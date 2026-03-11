@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = Б
 non-technical-privacy-group =
     .label = Хусусиятҳои махфияти сомона
+non-technical-privacy-heading =
+    .label = Муҳофизати иловагӣ
 non-technical-privacy-header = Хусусиятҳои махфияти сомона
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -568,9 +570,11 @@ applications-filter =
 applications-type-column =
     .label = Навъи муҳтаво
     .accesskey = Н
+applications-type-heading = Навъи муҳтаво
 applications-action-column =
     .label = Амал
     .accesskey = А
+applications-action-heading = Амал
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Файли { $extension }
@@ -2213,6 +2217,8 @@ preferences-doh-manage-exceptions =
     .accesskey = И
 preferences-doh-advanced-button =
     .label = Танзимоти иловагӣ
+preferences-doh-select-resolver-label =
+    .label = Интихоби таъминкунанда:
 
 ## The following strings are used in the Download section of settings
 
@@ -2272,3 +2278,11 @@ preferences-etp-custom-cookies-enabled =
     .label = Кукиҳо
 preferences-etp-custom-cookie-behavior =
     .aria-label = Кукиҳо
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Криптомайнерҳо
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Хонандаи нақши ангуштони маълум
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Хонандаи нақши ангуштони номаълум
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Хонандаи нақши ангуштони номаълум
