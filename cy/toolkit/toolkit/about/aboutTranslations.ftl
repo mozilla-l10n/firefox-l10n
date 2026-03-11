@@ -8,6 +8,10 @@ about-translations-title = Cyfieithiadau { -brand-short-name }
 about-translations-description = Cyfieithu sydyn sy'n parchu'ch preifatrwydd.
 about-translations-learn-more-link = Darllen rhagor
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Dyw cyfieithiad ddim ar gael ar y ddyfais hon
+    .message = Ceisiwch newid i ddyfais arall.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Dyw cyfieithiad ddim ar gael ar y ddyfais hon.
     .message = Ceisiwch newid i ddyfais arall.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = I gyfieithu testun, dad-rwystro'r nodwedd hon
     .message = Mae'n ymddangos fel bod eich rheolaeth AI wedi'u diweddaru yn rhwystro'r nodwedd yma. Dad rwystrwch ef i'w ail ddefnyddio.
 about-translations-feature-blocked-unblock-button = Dad-rwystro
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Methu llwytho'r ieithoedd
+    .message = Gwiriwch eich cysylltiad â'r we a cheisio eto.
 about-translations-unsupported-info-button = Darllen rhagor
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
