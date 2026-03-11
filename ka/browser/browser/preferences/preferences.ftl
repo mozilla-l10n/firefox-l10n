@@ -2352,6 +2352,26 @@ preferences-doh-status-item-not-active-bad-url =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS-მოთხოვნა HTTPS-ით იყენებს მომწოდებელს { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS-მოთხოვნა HTTPS-ით არ მუშაობს, რადგან აწყდება შეცდომას ({ $reason }), როცა ადგილობრივი მომწოდებელია { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS-მოთხოვნა HTTPS-ით იყენებს ადგილობრივ მომწოდებელს { $name }
+preferences-doh-select-resolver-label =
+    .label = მომწოდებლის არჩევა:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = ამ მომწოდებლის გამოყენება DNS-მოთხოვნისთვის HTTPS-ით.
+preferences-doh-custom-provider-label =
+    .aria-label = შეიყვანეთ სასურველი მომწოდებლის ბმული
+preferences-doh-header2 =
+    .heading = DNS-მოთხოვნა HTTPS-ით
 
 ## The following strings are used in the Download section of settings
 
@@ -2417,6 +2437,32 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = გაუქმება
 preferences-ai-controls-block-confirmation-confirm =
     .label = შეზღუდვა
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } სადარაჯოზეა
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } გირჩევთ უსაფრთხოების გასაუმჯობესებლად
+security-privacy-status-ok-label = თვალთვალისგან გაძლიერებული დაცვა ჩართ.
+security-privacy-status-problem-label = შემჩნეულია პარამეტრები, რომლებიც გავლენას ახდენს უსაფრთხოებაზე
+security-privacy-status-problem-helper-label = ხარვეზების ნახვა
+security-privacy-status-pending-trackers-label = გადახედეთ, რამდენ მეთვალყურეს აკავებდა { -brand-short-name } წინა თვეში
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } მეთვალყურე შეიზღუდა წინა თვეში
+       *[other] { $trackerCount } მეთვალყურე შეიზღუდა წინა თვეში
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = გიყენიათ <a data-l10n-name="strict-tracking-protection">მკაცრი დაცვა</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = გიყენიათ <a data-l10n-name="strict-tracking-protection">მორგებული დაცვა</a>
+security-privacy-status-up-to-date-label = გიყენიათ უახლესი, დაცული { -brand-short-name }
+security-privacy-status-update-needed-label = ახალი { -brand-short-name } ხელმისაწვდომია.
+security-privacy-status-update-error-label = { -brand-short-name } დაბრკოლებას აწყდება განახლებისას
+security-privacy-status-update-checking-label = { -brand-short-name } ამოწმებს განახლებებს
 
 ## Enhanced Tracking Protection (ETP) status section
 
