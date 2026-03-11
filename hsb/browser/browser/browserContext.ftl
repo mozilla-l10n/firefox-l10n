@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = s
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nowy
+main-context-menu-pdfjs-copy-page =
+    .label = Stronu kopěrować
+main-context-menu-pdfjs-cut-page =
+    .label = Stronu wutřihać
+main-context-menu-pdfjs-delete-page =
+    .label = Stronu zhašeć
+main-context-menu-pdfjs-save-page =
+    .label = Wuběr składować jako…
