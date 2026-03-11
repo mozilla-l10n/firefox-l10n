@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = აღდგენა მარქა
 restore-from-backup-title = დაიბრუნეთ { -brand-short-name } ისეთი, როგორიც მოგწონდათ.
 restore-from-backup-subtitle = აღადგინეთ თქვენი სანიშნები, ისტორია და სხვა მონაცემები, რომ დაუბრუნდეთ გვერდების მონახულებას.
 restore-from-backup-secondary-button = აღდგენის გარეშე
+multiple-backups-info-tile = <strong>მოიძებნა მარქაფის რამდენიმე ფაილი.</strong> შერჩეულია უახლესი. სხვა პროფილები აღადგინეთ <a data-l10n-name="settings-label">პარამეტრებიდან.</a>
 
 ## Restored from Backup spotlight
 
@@ -580,3 +581,10 @@ onboarding-refresh-pin-set-default-title = უსაფრთხო ხელშ
 onboarding-refresh-import-subtitle = გადმოიტანეთ თქვენი პაროლები, სანიშნები, ისტორია და სხვ.
 onboarding-refresh-import-title = გახადეთ { -brand-short-name } მეტად თქვენებური.
 onboarding-refresh-onboarding-addons-subtitle = გაფართოებები პაწაწინა პროგრამებია, რომლებიც საშუალებას გაძლევთ უკეთ მოირგოთ { -brand-short-name }. მათი მეშვეობით შეგიძლიათ, გააძლიეროთ პირადულობის დაცვა, აიმაღლოთ შედეგიანობა, გააფორმოთ { -brand-short-name } და აკეთოთ კიდევ ბევრი სხვა რამ.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = გაიუმჯობესეთ გვერდების მონახულება
+onboarding-refresh-sync-subtitle = წაიყოლეთ სანიშნები, პაროლები და ა. შ. ყველგან, სადაც გიყენიათ { -brand-short-name }. ამასთან ერთად, თქვენი მონაცემები იშიფრება და მხოლოდ თქვენთვისაა ხილული.
+onboarding-refresh-sync-title = წადით, სადაც გინდათ. დაასინქრონეთ, რაც გინდათ.
+onboarding-refresh-gratitude-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name }, მოწინავეთაგან ერთადერთი არამომგებიანი ბრაუზერი. თქვენი მხარდაჭერით ვცდილობთ ინტერნეტი გავხადოთ მეტად უსაფრთხო და საყოველთაოდ ხელმისაწვდომი.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } თქვენს გვერდშია

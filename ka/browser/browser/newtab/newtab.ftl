@@ -689,6 +689,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = ჩანამატების ჩაკეცვა
     .aria-label = ყველა ჩანამატი შემცირებული ზომით
+newtab-widget-section-feedback = მოგვახსენეთ თქვენი აზრი
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
@@ -711,6 +712,9 @@ newtab-widget-timer-menu-notifications = შეტყობინებები
 newtab-widget-timer-menu-notifications-on = შეტყობინებების ჩართვა
 newtab-widget-timer-menu-hide = წამმზომის დამალვა
 newtab-widget-timer-menu-learn-more = ვრცლად
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = რჩეული ამბები
+newtab-daily-briefing-card-menu-dismiss = აცილება
 newtab-widget-message-title = მოიკრიბეთ ყურადღება სიებისა და ჩაშენებული წამმზომის მეშვეობით
 # to-dos stands for "things to do".
 newtab-widget-message-copy = სწრაფი შეხსენებები იქნება ეს, თუ ყოველდღიური საქმიანობები, დაძაბული სამუშაო მონაკვეთები თუ შესვენებები განსატვირთად — მიჰყევით და ნუ გადაუხვევთ გეგმებს.

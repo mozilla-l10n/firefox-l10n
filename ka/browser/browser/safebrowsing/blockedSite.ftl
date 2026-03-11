@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>რატომ შეი
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> შესაძლოა თაღლითურ და მავნე ქმედებებთან იყოს კავშირში.
 safeb-blocked-addon-page-error-desc3-override = <strong>რისი გაკეთება შეიძლება?</strong>
 safeb-blocked-addon-page-error-desc4-override = ამის თავიდან ასაცილებლად, შეგიძლიათ ამოშალოთ ან გამორთოთ <strong>{ $addonName }</strong> გვერდიდან about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } თაღლითური და მავნე დამატებებისგან</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } თაღლითური და მავნე მასალებისგან</a>.

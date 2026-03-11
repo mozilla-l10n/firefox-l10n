@@ -65,6 +65,14 @@ about-processes-unknown-process = სხვა: { $type } ({ $pid })
 about-processes-web-isolated-property-private = პირადი
 about-processes-web-isolated-property-serviceworker = Serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT გამორთულია
+about-processes-web-isolated-property-with-coop-coep = წარმომავლობით გამიჯნული
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Isolated process names
 ## Variables:
