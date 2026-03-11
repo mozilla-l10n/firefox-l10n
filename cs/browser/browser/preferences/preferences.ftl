@@ -2673,8 +2673,8 @@ preferences-ai-controls-translations-control =
     .description = Procházejte internet plynule ve svém preferovaném jazyce.
 preferences-ai-controls-translations-more-link = Další nastavení překladu
 preferences-ai-controls-pdfjs-control =
-    .label = Alternativní text obrázku v prohlížeči PDF v aplikaci { -brand-short-name }
-    .description = Když do souborů PDF přidáte obrázky, přidá se popis, aby byly přístupné.
+    .label = Alternativní text obrázku v PDF prohlížeči aplikace { -brand-short-name }
+    .description = Když do souborů PDF přidáte obrázky, tato funkce přidá popis, aby byly přístupné.
 preferences-ai-controls-tab-group-suggestions-control =
     .label = Návrhy pro skupiny panelů
     .description = Získejte návrhy na pojmenování a uspořádání panelů.
@@ -2702,8 +2702,8 @@ preferences-ai-controls-state-description-blocked = <strong>Blokováno:</strong>
 preferences-ai-controls-block-confirmation-heading = Blokovat vylepšování umělou inteligencí?
 preferences-ai-controls-block-confirmation-description =
     { -brand-short-name.case-status ->
-        [with-cases] Ve { -brand-short-name(case: "loc") } neuvidíte nová či aktuální vylepšení od AI, ani související vyskakovací okna. Poté můžete odblokovat vše, co chcete nadále používat.
-       *[no-cases] V aplikaci { -brand-short-name } neuvidíte nová či aktuální vylepšení od AI, ani související vyskakovací okna. Poté můžete odblokovat vše, co chcete nadále používat.
+        [with-cases] ve { -brand-short-name(case: "loc") } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. Následně můžete odblokovat vše, co si přejete dál používat.
+       *[no-cases] V aplikaci { -brand-short-name } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. Následně můžete odblokovat vše, co si přejete dál používat.
     }
 preferences-ai-controls-block-confirmation-features-start = Co bude blokováno:
 preferences-ai-controls-block-confirmation-translations = Překlady
@@ -2779,6 +2779,15 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-password-manager =
+    .label = Správce hesel je zakázán
+    .description = Správci hesel vám pomohou ukládat silná hesla pro vaše účty.
+security-privacy-issue-warning-popup-blocker =
+    .label = Blokování vyskakovacích oken je zakázáno
+    .description = Vyskakovací okna jsou rušivá a potenciálně škodlivá.
+security-privacy-issue-warning-extension-install =
+    .label = Webové stránky mohou instalovat rozšíření
+    .description = Webové stránky mohou instalovat rozšíření pro { -brand-short-name } bez ptaní.
 security-privacy-issue-warning-doh =
     .label = DNS over HTTPS je zakázáno
     .description = DNS over HTTPS před poskytovatelem sítě skryje, jaké stránky navštěvujete.

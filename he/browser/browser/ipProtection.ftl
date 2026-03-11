@@ -201,7 +201,8 @@ ipprotection-bandwidth-reset-button = הבנתי
 
 ## IP Protection add-on breakage warnings
 
-ipp-activator-breakage-turn-off-warning = <strong>ייתכן שאתר זה לא יעבוד עם VPN.</strong> נא לנסות לכבות את ה־VPN בזמן גלישה אתר זה.
+ipp-activator-breakage-sign-in-warning = <strong>ייתכן שאתר זה לא יעבוד עם VPN.</strong> נא לנסות להתחבר לחשבון באתר או לכבות את ה־VPN בזמן הגלישה באתר זה.
+ipp-activator-breakage-turn-off-warning = <strong>ייתכן שאתר זה לא יעבוד עם VPN.</strong> נא לנסות לכבות את ה־VPN בזמן הגלישה באתר זה.
 
 ## IP Protection alerts
 
