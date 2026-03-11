@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = u
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nieuw
+main-context-menu-pdfjs-copy-page =
+    .label = Pagina kopiëren
+main-context-menu-pdfjs-cut-page =
+    .label = Pagina knippen
+main-context-menu-pdfjs-delete-page =
+    .label = Pagina verwijderen
+main-context-menu-pdfjs-save-page =
+    .label = Selectie opslaan als…
