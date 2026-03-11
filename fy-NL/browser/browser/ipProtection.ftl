@@ -131,6 +131,11 @@ ip-protection-site-exceptions =
     .label = Websitespesifike ynstellingen
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Probearje de ynboude VPN fan { -brand-short-name }
+    .message = Ferstopje jo lokaasje wylst it navigearjen yn { -brand-short-name }. Untfang  elke moanne { $maxUsage } GB fergees VPN-gegevens.
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
     .heading = Probearje de ynboude VPN fan { -brand-short-name }
     .message = Ferstopje jo lokaasje en foegje ekstra fersifering ta oan jo navigaasje yn { -brand-short-name }. Untfang elke moanne { $maxUsage } GB fergees VPN-gegevens.
