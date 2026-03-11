@@ -86,6 +86,9 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] Cluich { $tabCount } taba
         }
 
+## Tooltips for tab audio control
+
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -130,6 +133,10 @@ tabbrowser-confirm-close-tabs-with-key-button = Fàg { -brand-short-name }
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
 tabbrowser-confirm-close-tabs-with-key-checkbox = Dearbh mus dèid fàgail an-seo le { $quitKey }
 
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = Dearbhadh an fhosglaidh
@@ -147,6 +154,9 @@ tabbrowser-confirm-open-multiple-tabs-checkbox = Thoir rabhadh dhomh ma tha mi g
 tabbrowser-confirm-caretbrowsing-title = Brabhsadh carait
 tabbrowser-confirm-caretbrowsing-message = Cuiridh tu brabhsadh carait air is dheth le F7. Cuiridh an gleus seo carait ghluasadach ann an duilleag-lìn agus ’s urrainn dhut teacsa a thaghadh leis a’ mheur-chlàr leis. A bheil thu airson brabhsadh carait a chur air a-nis?
 tabbrowser-confirm-caretbrowsing-checkbox = Na seall am bogsa-còmhraidh seo dhomh a-rithist.
+
+## Confirmation dialog for closing all duplicate tabs
+
 
 ##
 
@@ -187,3 +197,33 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Seall na tabaichean air fad ({ $tabCount })
            *[other] Seall na tabaichean air fad ({ $tabCount })
         }
+
+## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+
+##
+
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+
+##
+
+
+## Open/saved tab group context menu
+
+
+## Tab Notes
+
+tab-note-panel-add-note-new-badge =
+    .label = Ùr
+
+## Split View
+
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
