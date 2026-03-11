@@ -2707,14 +2707,18 @@ preferences-ai-controls-block-confirmation-description =
     }
 preferences-ai-controls-block-confirmation-features-start = Co bude blokováno:
 preferences-ai-controls-block-confirmation-translations = Překlady
-preferences-ai-controls-block-confirmation-pdfjs = Alternativní text obrázku v PDF prohlížeči aplikace { -brand-short-name }
+preferences-ai-controls-block-confirmation-pdfjs =
+    { -brand-short-name.case-status ->
+        [with-cases] Alternativní text obrázku v PDF prohlížeči { -brand-short-name(case: "gen") }
+       *[no-cases] Alternativní text obrázku v PDF prohlížeči aplikace { -brand-short-name }
+    }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Návrhy pro skupiny panelů
 preferences-ai-controls-block-confirmation-key-points = Klíčové body v náhledech odkazů
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Poskytovatelé chatbotů v postranní liště
 preferences-ai-controls-block-confirmation-features-after =
     { -brand-short-name.case-status ->
-        [with-cases] Blokování ovlivní také rozšíření, která používají umělou inteligenci poskytnutou { -brand-short-name(case: "ins") }.
-       *[no-cases] Blokování ovlivní také rozšíření, která používají umělou inteligenci poskytnutou aplikací { -brand-short-name }.
+        [with-cases] Blokování ovlivní také rozšíření, která využívají umělou inteligenci poskytovanou { -brand-short-name(case: "ins") }.
+       *[no-cases] Blokování ovlivní také rozšíření, která využívají umělou inteligenci poskytovanou aplikací { -brand-short-name }.
     }
 preferences-ai-controls-block-confirmation-cancel =
     .label = Zrušit
@@ -2727,6 +2731,11 @@ security-privacy-status-ok-header = { -brand-short-name } je ve střehu
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } doporučuje některá vylepšení zabezpečení
 security-privacy-status-ok-label = Rozšířená ochrana proti sledování je zapnuta
+security-privacy-status-update-error-label =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } má problémy s aktualizací
+       *[no-cases] Aplikace { -brand-short-name } má problémy s aktualizací
+    }
 security-privacy-status-update-button-label =
     .label =
         { -brand-short-name.case-status ->
