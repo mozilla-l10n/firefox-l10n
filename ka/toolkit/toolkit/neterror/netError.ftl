@@ -183,9 +183,18 @@ fp-neterror-offline-body-title = რაღაც ხარვეზია ქს
 fp-neterror-connection-intro = { -brand-short-name } ვერ ამყარებს დაცულ კავშირს სერვერთან { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ვერ უკავშირდება სერვერს მისამართზე <strong>{ $hostname }</strong>
 fp-neterror-coop-coep-intro = { -brand-short-name } არ ჩატვირთავს ამ გვერდს, ვინაიდან ჩანს, უსაფრთხოება გამართვა არ ემთხვევა წინა გვერდისას.
+fp-neterror-http-auth-disabled-intro = ვიღაც მოჩვენებითი საიტით შეიძლება ცდილობდეს თქვენი მონაცემების მოპარვას, როგორიცაა მომხმარებლის სახელი, პაროლი ან ელფოსტა.
+fp-neterror-http-auth-disabled-secure-connection = ეს საიტი დაცულ კავშირს საჭიროებს და გამონაკლისად ვერ მიუთითებთ, რომ მოინახულოთ.
 fp-neterror-why-did-this-happen = რატომ მოხდა ეს?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = ჩანს, საიტი იყენებს ძველ პროგრამას უსაფრთხოების გამოვლენილი ხარვეზებით.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } მიიჩნევს, რომ არასანდოა { $hostname } კავშირის დაუცველობის გამო.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = დარწმუნდით, რომ { -brand-short-name } განახლებულია. მენიუში მონახეთ დახმარება > { -brand-short-name } შესახებ. თუ ისედაც უახლესი { -brand-short-name } გიყენიათ, ხარვეზი საიტის მხრიდან იქნება.
 fp-neterror-offline-what-can-you-do-body = სცადეთ დაკავშირება სხვა მოწყობილობიდან. შეამოწმეთ თქვენი მოდემი ან როუტერი. გამოთიშეთ და კვლავ დაუკავშირეთ WiFi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = სცადეთ და ბმულში მიუთიეთ HTTPS. მაგრამ, სავარაუდოდ, თავად საიტის მხრიდანაა ხარვეზი.
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = ზოგჯერ საიტები უსაფრთხოების ზომებს იღებენ სხვა საიტებთან არასასურველი ურთიერთქმედების ასარიდებლად.
+fp-learn-more-about-https-connections = ვრცლად გაეცანით HTTPS-კავშირებს
+fp-neterror-vpn-error-title = ვერ მიუერთდა VPN
+fp-neterror-vpn-error-description = კვლავ სცადეთ რამდენიმე წუთში.
