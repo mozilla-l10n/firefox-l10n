@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Vi introduserer VPN, nå rett i nettleseren din
+ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-link-text = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine med ekstra kryptering.
 ipprotection-feature-introduction-link-text-private-browsing = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine med ekstra kryptering, selv når du er i et privat vindu.
 ipprotection-feature-introduction-button-primary = Neste
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Jeg forstår
 ## Panel
 
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
+unauthenticated-hide-location-message-2 = Skjul posisjonen din mens du surfer i { -brand-product-name }.
 unauthenticated-hide-location-message = Skjul plasseringen din og legg til ekstra kryptering i nettlesingen din i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -128,6 +131,11 @@ ip-protection-site-exceptions =
     .label = Nettstedsspesifikke innstillinger
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
+    .message = Skjul plasseringen din mens du surfer i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
     .heading = Prøv den innebygde VPN-en i { -brand-short-name }
     .message = Skjul plasseringen din og legg til ekstra kryptering i nettlesingen i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
@@ -190,6 +198,11 @@ ip-protection-bandwidth-help-text = Nullstilles til { $maxUsage } GB den første
 ipprotection-bandwidth-reset-title = { $maxUsage } GB med VPN-data, fornyet og klart til bruk
 ipprotection-bandwidth-reset-text = Slå på VPN for et ekstra personvernløft, gratis hver måned.
 ipprotection-bandwidth-reset-button = Jeg forstår
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Dette nettstedet fungerer kanskje ikke med VPN.</strong> Prøv å logge inn eller slå av VPN mens du bruker dette nettstedet.
+ipp-activator-breakage-turn-off-warning = <strong>Dette nettstedet fungerer kanskje ikke med VPN.</strong> Prøv å slå av VPN mens du bruker dette nettstedet.
 
 ## IP Protection alerts
 
