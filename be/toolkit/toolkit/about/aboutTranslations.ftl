@@ -8,9 +8,17 @@ about-translations-title = Пераклады { -brand-short-name }
 about-translations-description = Імгненныя пераклады з павагай да вашай прыватнасці.
 about-translations-learn-more-link = Падрабязней
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = На гэтай прыладзе пераклад недаступны
+    .message = Паспрабуйце перайсці на іншую прыладу.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = На гэтай прыладзе пераклад недаступны.
     .message = Паспрабуйце перайсці на іншую прыладу.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Не ўдалося загрузіць мовы
+    .message = Праверце злучэнне з інтэрнэтам і паспрабуйце зноў.
 about-translations-unsupported-info-button = Падрабязней
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
