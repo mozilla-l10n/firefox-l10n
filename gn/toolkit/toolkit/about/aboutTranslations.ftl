@@ -8,10 +8,18 @@ about-translations-title = { -brand-short-name } ñe’ẽasaita
 about-translations-description = Ñe’ẽasaita oikóva omomba’eguasúva nde rekoñami.
 about-translations-learn-more-link = Eikuaave
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Pe ñemoñe’ẽasa ndaipóri ko mba’e’okápe
+    .message = Eñeha’ã emoambue mba’e’oka ambuépe.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Pe ñemoñe’ẽasa ndaipóri ko mba’e’okápe.
     .message = Eñeha’ã emoambue mba’e’oka ambuépe.
 about-translations-feature-blocked-unblock-button = Mbojera
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Noñemyanyhẽkuaái ñe’ẽita
+    .message = Ehecha ne ñandutípe jeikeha ha eha’ã jey ag̃ave.
 about-translations-unsupported-info-button = Eikuaave
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
