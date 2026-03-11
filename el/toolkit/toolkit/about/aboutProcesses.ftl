@@ -62,6 +62,7 @@ about-processes-unknown-process = Άλλο: { $type } ({ $pid })
 
 ## Properties of isolated web processes
 
+about-processes-web-isolated-property-private = ιδιωτική
 about-processes-web-isolated-property-serviceworker = serviceworker
 
 ## Isolated process names

@@ -392,6 +392,8 @@ tab-note-editor-button-save =
     .accesskey = r
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Mear ynfo
+tab-note-panel-add-note-new-badge =
+    .label = Nij
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:

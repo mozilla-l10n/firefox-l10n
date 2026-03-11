@@ -387,6 +387,8 @@ tab-note-editor-button-save =
     .accesskey = θ
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Διαβάστε περισσότερα
+tab-note-panel-add-note-new-badge =
+    .label = Νέο
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:

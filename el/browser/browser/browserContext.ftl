@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = φ
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Νέο
+main-context-menu-pdfjs-copy-page =
+    .label = Αντιγραφή σελίδας
+main-context-menu-pdfjs-cut-page =
+    .label = Αποκοπή σελίδας
+main-context-menu-pdfjs-delete-page =
+    .label = Διαγραφή σελίδας
+main-context-menu-pdfjs-save-page =
+    .label = Αποθήκευση επιλογής ως…

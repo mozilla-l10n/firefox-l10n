@@ -199,6 +199,11 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB oan VPN, fernijd en klear 
 ipprotection-bandwidth-reset-text = Skeakelje VPN yn foar in ekstra privacyboost, elke moanne fergees.
 ipprotection-bandwidth-reset-button = Begrepen
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Dizze website wurket mooglik net mei in VPN.</strong> Probearje jo oan te melden of VPN út te skeakeljen wylst jo dizze website brûke.
+ipp-activator-breakage-turn-off-warning = <strong>Dizze website wurket mooglik net mei in VPN.</strong> Probearje VPN út te skeakeljen wylst jo dizze website brûke.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN pauzearre
