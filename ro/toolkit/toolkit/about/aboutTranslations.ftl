@@ -8,9 +8,17 @@ about-translations-title = Traduceri { -brand-short-name }
 about-translations-description = Traduceri instant care îți respectă confidențialitatea.
 about-translations-learn-more-link = Află mai multe
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Traducerea nu este disponibilă pe acest dispozitiv
+    .message = Încearcă pe alt dispozitiv.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Traducerea nu este disponibilă pe acest dispozitiv.
     .message = Încearcă pe alt dispozitiv.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Nu s-au putut încărca limbile
+    .message = Verifică-ți conexiunea la internet și încearcă din nou.
 about-translations-unsupported-info-button = Află mai multe
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
