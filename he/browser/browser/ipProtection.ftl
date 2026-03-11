@@ -199,6 +199,10 @@ ipprotection-bandwidth-reset-title = { $maxUsage } ג״ב של VPN, רעננים
 ipprotection-bandwidth-reset-text = ניתן להפעיל VPN לקבלת תוספת פרטיות, בחינם בכל חודש.
 ipprotection-bandwidth-reset-button = הבנתי
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-turn-off-warning = <strong>ייתכן שאתר זה לא יעבוד עם VPN.</strong> נא לנסות לכבות את ה־VPN בזמן גלישה אתר זה.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = ה־VPN הושהה
