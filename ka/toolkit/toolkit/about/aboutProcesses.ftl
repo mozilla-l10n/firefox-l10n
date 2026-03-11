@@ -60,6 +60,12 @@ about-processes-inference-process = გამოტანილი ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = სხვა: { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = პირადი
+about-processes-web-isolated-property-serviceworker = Serviceworker
+about-processes-web-isolated-property-jit-disabled = JIT გამორთულია
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.

@@ -2463,15 +2463,43 @@ security-privacy-status-up-to-date-label = გიყენიათ უახლ
 security-privacy-status-update-needed-label = ახალი { -brand-short-name } ხელმისაწვდომია.
 security-privacy-status-update-error-label = { -brand-short-name } დაბრკოლებას აწყდება განახლებისას
 security-privacy-status-update-checking-label = { -brand-short-name } ამოწმებს განახლებებს
+security-privacy-status-update-needed-description = განაახლეთ სიჩქარის, მდგრადობისა და უსაფრთხოების უკანასკნელი გაუმჯობესებისთვის.
+security-privacy-status-update-button-label =
+    .label = განახლდეს { -brand-short-name }
+security-privacy-image-warning =
+    .alt = ფარი ძახილის ნიშნით, გამოხატავს წუხილს უსაფრთხოების კუთხით არსებული შენიშვნების გამო
+security-privacy-image-ok =
+    .alt = ფარი მოსანიშნი ნიშნით, გამოხატავს შენიშვნების არარსებობას უსაფრთხოების კუთხით
+security-privacy-issue-card =
+    .heading = უსაფრთხოების შენიშვნები
+issue-card-reset-button =
+    .label = აღდგენა
+issue-card-dismiss-button =
+    .tooltiptext = აცილება
+    .aria-label = აცილება
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = გაფართოებული პარამეტრები
+preferences-etp-header =
+    .heading = თვალთვალისგან გაძლიერებული დაცვა
+preferences-etp-customize-button =
+    .label = თვალთვალისგან მორგებული დაცვა
+preferences-etp-reload-tabs-hint =
+    .message = გააახლეთ თქვენი ჩანართები ცვლილებების ასახვისთვის.
+preferences-etp-reload-tabs-hint-button =
+    .label = ყველა ჩანართის გაახლება
+preferences-etp-rfp-warning-message =
+    .message = თუ ჩართული გაქვთ Resist Fingerprinting (RFP), რომლითაც ანაცვლებს { -brand-short-name } ამოცნობისგან დაცვის გარკვეულ პარამეტრებს, ზოგიერთ საიტზე შეიძლება იწვევდეს გაუმართაობებს.
 preferences-etp-level-warning-message =
     .heading = ფრთხილად! ზოგმა საიტმა შეიძლება ვერ იმუშაოს სათანადოდ.
     .message = ზოგიერთ საიტს მეთვალყურეები ჩაშენებული აქვს თავის შესაძლებლობებსა თუ შიგთავსში. როცა { -brand-short-name } ზღუდავს მათ, საიტი ხარვეზიანად გამოიყურება. მოსინჯეთ „საიტის ხარვეზების გამოსწორება“ ან გამორთეთ თვალთვალისგან დაცვა ამგვარ საიტზე.
 preferences-etp-manage-exceptions-button =
     .label = გამონაკლისების მართვა
     .description = ვებსაიტების მითითება, რომლებზეც გამოირთვება თვალთვალისგან გაძლიერებული დაცვა.
+preferences-etp-customize-header =
+    .heading = თვალთვალისგან მორგებული დაცვა
 preferences-etp-custom-cookies-enabled =
     .label = ფუნთუშები
 preferences-etp-custom-cookie-behavior =
@@ -2482,6 +2510,14 @@ preferences-etp-custom-tracking-protection-enabled =
     .label = თვალის მდევნელი შიგთავსი
 preferences-etp-custom-tracking-protection-enabled-context =
     .aria-label = თვალის მდევნელი შიგთავსი
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = კრიპტოგამომმუშავებლები
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = ცნობილი ამომცნობები
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = სავარაუდო ამომცნობები
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = სავარაუდო ამომცნობები
 
 ## Warnings section
 
