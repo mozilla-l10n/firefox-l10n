@@ -8,9 +8,17 @@ about-translations-title = { -brand-short-name } prijevodi
 about-translations-description = Trenutni prijevodi koji poštuju tvoju privatnost.
 about-translations-learn-more-link = Saznaj više
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Prevođenje nije dostupno na ovom uređaju
+    .message = Pokušaj se prebaciti na jedan drugi uređaj.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Prevođenje nije dostupno na ovom uređaju.
     .message = Pokušaj se prebaciti na jedan drugi uređaj.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Nije bilo moguće učitati jezike
+    .message = Provjeri svoju mrežnu vezu i pokušaj ponovo.
 about-translations-unsupported-info-button = Saznaj više
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
