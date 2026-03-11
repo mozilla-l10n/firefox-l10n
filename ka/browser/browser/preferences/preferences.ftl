@@ -2317,7 +2317,7 @@ preferences-doh-overview-default =
     .description = გამოიყენება დაცული DNS იმ მხარეებში, სადაც ხელმისაწვდომია
 preferences-doh-overview-custom =
     .label = მორგებული
-    .description = ყოველთვის გამოიყენება DNS მომწოდებლის მიერ შემოთავაზებულისა თუ არსებულის მოშველიების გარეშე.
+    .description = ყოველთვის გამოიყენება დაცული DNS, მომწოდებლის მიერ შემოთავაზებულისა თუ არსებულის მოშველიების გარეშე.
 preferences-doh-overview-off =
     .label = გამორთ.
     .description = გამოიყენება თქვენი ნაგულისხმევი DNS.
@@ -2326,6 +2326,32 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = გამონაკლისების მართვა
     .accesskey = ო
+preferences-doh-radio-default =
+    .label = ნაგულისხმევი
+    .description = გამოიყენება დაცული DNS იმ მხარეში, რომელშიც ხელმისაწვდომია
+preferences-doh-radio-custom =
+    .label = მორგებული
+    .description = ყოველთვის გამოიყენება დაცული DNS, მომწოდებლის მიერ შემოთავაზებულისა თუ არსებულის მოშველიების გარეშე.
+preferences-doh-radio-off =
+    .label = გამორთ.
+    .description = გამოიყენება თქვენი ნაგულისხმევი DNS
+preferences-doh-fallback-label =
+    .label = ყოველთვის გამოჩნდეს გაფრთხილება, როცა დაცული DNS მიუწვდომელია
+preferences-doh-status-item-off =
+    .message = DNS-მოთხოვნა HTTPS-ით გამორთ.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS-მოთხოვნა HTTPS-ით არ მუშაობს, რადგან აწყდება შეცდომას ({ $reason }), როცა მომწოდებელია { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS-მოთხოვნა HTTPS-ით არ მუშაობს, რადგან მიღებულია უმართებულო ბმული ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS-მოთხოვნა HTTPS-ით იყენებს მომწოდებელს { $name }
 
 ## The following strings are used in the Download section of settings
 
