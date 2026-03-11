@@ -2652,8 +2652,8 @@ preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
 preferences-ai-controls-description =
     { -brand-short-name.case-status ->
-        [with-cases] Ve { -brand-short-name(case: "loc") } máte vždy možnost volby, a to i ohledně používání funkcí vylepšených o umělou inteligenci. Brzy přibudou další možnosti ovládání.
-       *[no-cases] V aplikaci { -brand-short-name } máte vždy možnost volby, a to i ohledně používání funkcí vylepšených o umělou inteligenci. Brzy přibudou další možnosti ovládání.
+        [with-cases] Ve { -brand-short-name(case: "loc") } máte vždy možnost volby, a to i ohledně používání funkcí vylepšených pomocí umělé inteligence. Brzy přibudou další možnosti ovládání.
+       *[no-cases] V aplikaci { -brand-short-name } máte vždy možnost volby, a to i ohledně používání funkcí vylepšených pomocí umělé inteligence. Brzy přibudou další možnosti ovládání.
     }
 preferences-ai-controls-block-ai-label = Blokovat vylepšení pomocí AI
 preferences-ai-controls-block-ai =
@@ -2666,7 +2666,7 @@ preferences-ai-controls-block-ai-description =
 preferences-ai-controls-blocked-message =
     .message = Nová a stávající vylepšení pomocí AI jsou ve výchozím nastavení blokována. Pro odblokování konkrétní funkce použijte ovládání níže.
 preferences-ai-controls-on-device-group =
-    .label = Místně uložená umělá inteligence
+    .label = Místně uložená AI
     .description = Tyto funkce využívají menší modely umělé inteligence, které se při použití funkce stáhnou do vašeho zařízení. Tento přístup pomáhá chránit vaše soukromí.
 preferences-ai-controls-translations-control =
     .label = Překlady
