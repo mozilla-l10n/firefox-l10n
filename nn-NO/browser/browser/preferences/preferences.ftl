@@ -2305,10 +2305,10 @@ preferences-doh-advanced-button =
     .label = Avanserte innstillingar
 preferences-doh-radio-default =
     .label = Standard
-    .description = Bruk sikker DNS i område der det er tilgjengeleg.
+    .description = Bruk sikker DNS i område der det er tilgjengeleg
 preferences-doh-radio-custom =
     .label = Tilpassa
-    .description = Bruk alltid sikker DNS med kontroll over leverandør og reserveåtferd.
+    .description = Bruk alltid sikker DNS med kontroll over leverandør og reserveåtferd
 preferences-doh-status-item-off =
     .message = DNS-over-HTTPS er av
 # Variables:
