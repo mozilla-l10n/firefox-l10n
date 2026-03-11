@@ -8,9 +8,17 @@ about-translations-title = Oversættelser i { -brand-short-name }
 about-translations-description = Øjeblikkelige oversættelser, der respekterer dit privatliv.
 about-translations-learn-more-link = Læs mere
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Oversættelse er ikke tilgængelig på denne enhed
+    .message = Prøv at skifte til en anden enhed.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Oversættelse er ikke tilgængelig på denne enhed.
     .message = Prøv at skifte til en anden enhed.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Kunne ikke indlæse sprog
+    .message = Kontroller din internetforbindelse, og prøv igen.
 about-translations-unsupported-info-button = Læs mere
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
