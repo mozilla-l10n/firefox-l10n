@@ -8,9 +8,17 @@ about-translations-title = Traducciones de { -brand-short-name }
 about-translations-description = Traducciones instantáneas que respetan tu privacidad.
 about-translations-learn-more-link = Más información
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = La traducción no está disponible en este dispositivo
+    .message = Prueba a cambiar a un dispositivo diferente.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = La traducción no está disponible en este dispositivo.
     .message = Prueba a cambiar a un dispositivo diferente.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = No se pudieron cargar los idiomas
+    .message = Revisa tu conexión a internet y vuelve a intentarlo.
 about-translations-unsupported-info-button = Más información
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
