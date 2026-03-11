@@ -8,9 +8,17 @@ about-translations-title = Tradukoj de { -brand-short-name }
 about-translations-description = Tujaj tradukoj, kiuj respektas vian privatecon.
 about-translations-learn-more-link = Pli da informo
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Tradukado ne haveblas en tiu ĉi aparato
+    .message = Provu en alia aparato.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Tradukado ne haveblas en tiu ĉi aparato.
     .message = Provu en alia aparato.
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Ne eblis ŝargi lingvojn
+    .message = Kontrolu vian retaliron kaj provu denove.
 about-translations-unsupported-info-button = Pli da informo
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
