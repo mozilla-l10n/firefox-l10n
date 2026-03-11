@@ -8,9 +8,17 @@ about-translations-title = การแปลใน { -brand-short-name }
 about-translations-description = บริการแปลด่วนที่เคารพความเป็นส่วนตัวของคุณ
 about-translations-learn-more-link = เรียนรู้เพิ่มเติม
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = ไม่รองรับการแปลบนอุปกรณ์นี้
+    .message = โปรดลองสลับไปใช้อุปกรณ์อื่น
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = ไม่รองรับการแปลบนอุปกรณ์นี้
     .message = โปรดลองสลับไปใช้อุปกรณ์อื่น
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = ไม่สามารถโหลดภาษาได้
+    .message = โปรดตรวจสอบการเชื่อมต่อกับอินเทอร์เน็ตของคุณแล้วลองอีกครั้ง
 about-translations-unsupported-info-button = เรียนรู้เพิ่มเติม
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
