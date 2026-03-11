@@ -21,6 +21,10 @@ inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $prope
 inactive-css-not-multicol-container = <strong>{ $property }</strong> has no effect on this element since it’s not a multi-column container.
 inactive-css-column-span = <strong>{ $property }</strong> has no spanning effect on this element since it is not within a multi-column container.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> has no effect on this element since it’s not a grid or flex item.
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> has no effect on this element since it’s not a grid or flex item, nor an absolutely positioned element.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> has no effect on this element since it’s not a grid item nor an absolutely positioned element.
+inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> has no effect on this element since it’s not an absolutely positioned element.
+inactive-css-no-default-anchor = <strong>{ $property }</strong> has no effect on this element since it doesn’t have a default anchor element.
 inactive-css-not-grid-item = <strong>{ $property }</strong> has no effect on this element since it’s not a grid item.
 inactive-css-not-grid-container = <strong>{ $property }</strong> has no effect on this element since it’s not a grid container.
 inactive-css-not-flex-item = <strong>{ $property }</strong> has no effect on this element since it’s not a flex item.
@@ -63,6 +67,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> has no effect on this
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> is not supported on highlight pseudo-elements.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> is not supported on ::cue pseudo-elements.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> is not supported in <strong>@position-try</strong> rules.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -84,6 +89,10 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Try adding <strong>displa
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Try adding either <strong>display:grid</strong>, <strong>display:flex</strong>, or <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Try adding either <strong>column-count</strong> or <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Try adding <strong>column-count</strong> or <strong>column-width</strong> to one of its ancestor elements. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Try adding <strong>position:absolute</strong> to the element, or <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> to the element’s parent. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Try adding <strong>position:absolute</strong> to the element, or <strong>display:grid</strong> or <strong>display:inline-grid</strong> to the element’s parent. { learn-more }
+inactive-css-not-absolutely-positioned-item-fix = Try adding <strong>position:absolute</strong> to the element. { learn-more }
+inactive-css-no-default-anchor-fix = Try adding <strong>position-anchor</strong> with a valid anchor name. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Try adding <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, or <strong>display:inline-flex</strong> to the element’s parent. { learn-more }
 inactive-css-not-grid-item-fix-2 = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong> to the element’s parent. { learn-more }
 inactive-css-not-grid-container-fix = Try adding <strong>display:grid</strong> or <strong>display:inline-grid</strong>. { learn-more }
@@ -137,3 +146,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Learn more</s
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = This selector uses unconstrained <strong>:has()</strong>, which can be slow
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Sibling selectors after <strong>:scope</strong> will never match anything

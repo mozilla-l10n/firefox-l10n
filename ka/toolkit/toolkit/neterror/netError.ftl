@@ -46,6 +46,10 @@ neterror-load-error-firewall = თუ თქვენი ქსელი ან 
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = თუ ცდილობთ შიდა ქსელში გვერდის გახსნას, გთხოვთ გადაამოწმოთ, რომ { -brand-short-name } შიდა ქსელში წვდომის ნებართვების მქონეა macOS-ის პირადულობისა და უსაფრთხოების პარამეტრებიდან.
 neterror-http-error-page = გადაამოწმეთ, საიტის მისამართი ხომ სწორადაა აკრეფილი.
+neterror-http-empty-response = გადაამოწმეთ, საიტის მისამართი სწორადაა თუ არა აკრეფილი და სცადეთ ხელახლა რამდენიმე წამში.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } აბრუნებს ცარიელ გვერდს.
 neterror-captive-portal = ინტერნეტთან დასაკავშირებლად საჭიროა ამ ქსელში შესვლა.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +95,7 @@ neterror-file-not-found-moved = შეამოწმეთ, ხომ არა
 neterror-access-denied = შესაძლოა, წაშლილია, გადატანილია ან ფაილთან წვდომის უფლებები შეზღუდულია.
 neterror-unknown-protocol = ამ მისამართის გასახსნელად შესაძლოა, სხვა პროგრამის დაყენება იყოს საჭირო.
 neterror-redirect-loop = ამ ხარვეზს, ზოგჯერ იწვევს ფუნთუშების გამორთვა ან უარყოფა.
+neterror-unknown-socket-type-client-config = ამას შეიძლება იწვევდეს თქვენი კლიენტის გაუმართაობა.
 neterror-unknown-socket-type-psm-installed = შეამოწმეთ და დარწმუნდით რომ თქვენს სისტემაში პირადი უსაფრთხოების მმართველი დაყენებულია.
 neterror-unknown-socket-type-server-config = ამის მიზეზი შესაძლოა, სერვერის არასტანდარტული კონფიგურაცია იყოს.
 neterror-not-cached-intro = მოთხოვნილი შიგთავსი არაა ხელმისაწვდომი ადგილობრივად, სადაც მას { -brand-short-name } დროებით ინახავს.
@@ -177,6 +182,8 @@ fp-neterror-offline-body-title = რაღაც ხარვეზია ქს
 
 fp-neterror-connection-intro = { -brand-short-name } ვერ ამყარებს დაცულ კავშირს სერვერთან { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ვერ უკავშირდება სერვერს მისამართზე <strong>{ $hostname }</strong>
+fp-neterror-coop-coep-intro = { -brand-short-name } არ ჩატვირთავს ამ გვერდს, ვინაიდან ჩანს, უსაფრთხოება გამართვა არ ემთხვევა წინა გვერდისას.
+fp-neterror-why-did-this-happen = რატომ მოხდა ეს?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = ჩანს, საიტი იყენებს ძველ პროგრამას უსაფრთხოების გამოვლენილი ხარვეზებით.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)

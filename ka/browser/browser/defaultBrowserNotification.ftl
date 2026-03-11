@@ -40,4 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     ნაბიჯი 2: მიუთითეთ, რომ „გახდეს ნაგულისხმევი“ { -brand-short-name }
 default-browser-guidance-notification-info-page = ჩვენება
 default-browser-guidance-notification-dismiss = მზადაა
+default-browser-guidance-notification-v2-title = გამართვის დასასრულებლად მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად
 default-browser-guidance-notification-v2-body = პარამეტრებში აირჩიეთ, რომ „ნაგულისხმევად მიეთითოს“ { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = გამართვის დასასრულებლად მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად პარამეტრებში

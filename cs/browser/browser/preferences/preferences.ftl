@@ -2727,6 +2727,12 @@ security-privacy-status-ok-header = { -brand-short-name } je ve střehu
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } doporučuje některá vylepšení zabezpečení
 security-privacy-status-ok-label = Rozšířená ochrana proti sledování je zapnuta
+security-privacy-status-update-button-label =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Aktualizovat { -brand-short-name(case: "acc") }
+           *[no-cases] Aktualizovat aplikaci { -brand-short-name }
+        }
 security-privacy-issue-card =
     .heading = Bezpečnostní varování
 issue-card-reset-button =
@@ -2747,6 +2753,9 @@ preferences-etp-reload-tabs-hint =
     .message = Pro použití těchto změn znovu načtěte panely.
 preferences-etp-reload-tabs-hint-button =
     .label = Znovu načíst všechny panely
+preferences-etp-manage-exceptions-button =
+    .label = Spravovat výjimky
+    .description = Správa webových stránek, kde je vypnutá rozšířená ochrana proti sledování.
 preferences-etp-customize-header =
     .heading = Přizpůsobení ochrany proti sledování
 preferences-etp-custom-cookies-enabled =
