@@ -33,10 +33,29 @@ tabbrowser-close-tabs-tooltip =
            *[other] { $tabCount } ടാബുകളെ അടയ്ക്കുക
         }
 
+## Tooltips for tab audio control
+## Variables:
+##   $tabCount (Number): The number of tabs that will be affected.
+
+
+## Tooltips for tab audio control
+
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = റ്റാബുകള്‍ അടയ്ക്കുക
+
+## Confirmation dialog when quitting using the menu and multiple windows are open.
+
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## Windows does not show a prompt on quit when using the keyboard shortcut by default.
+
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -123,6 +142,10 @@ tab-context-unnamed-group =
     .label = പേരില്ലാത്ത കൂട്ടം
 tab-group-name-default = പേരില്ലാത്ത കൂട്ടം
 
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+
 ##
 
 tab-context-move-tab-to-new-group =
@@ -191,3 +214,14 @@ tab-group-context-open-saved-group-in-this-window =
 # open the tab group in that window.
 tab-group-context-open-saved-group-in-new-window =
     .label = പുതിയ ജാലകത്തിൽ ടാബുക്കൂട്ടം തുറക്കുക
+
+## Tab Notes
+
+tab-note-panel-add-note-new-badge =
+    .label = പുതിയതു്
+
+## Split View
+
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
