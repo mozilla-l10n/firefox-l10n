@@ -65,6 +65,9 @@ text-action-search-text-box-clear =
     .title = Մաքրել
 text-action-highlight-selection =
     .label = Գունանշել ընտրածը
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = Ավելացնել մեկնաբանություն ընտրությանը
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =

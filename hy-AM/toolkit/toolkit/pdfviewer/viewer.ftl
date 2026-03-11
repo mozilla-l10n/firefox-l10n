@@ -586,6 +586,30 @@ pdfjs-editor-add-signature-cancel-button = Չեղարկել
 pdfjs-editor-add-signature-add-button = Ավելացնել
 pdfjs-editor-edit-signature-update-button = Թարմացնել
 
+##  Edit a comment dialog
+
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Ավելացնել մեկնաբանություն
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = Ավելացնել
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = Մուտքագրեք այստեղ…
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-add-comment-button =
+    .title = Ավելացնել մեկնաբանություն
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-add-file-button =
+    .title = Ավելացնել ֆայլ
+pdfjs-views-manager-add-file-button-label = Ավելացնել ֆայլ
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

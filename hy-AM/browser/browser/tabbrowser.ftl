@@ -345,6 +345,13 @@ tab-group-context-open-saved-group-in-this-window =
 tab-group-context-open-saved-group-in-new-window =
     .label = Բացել խումբը նոր պատուհանում
 
+## Tab Notes
+
+tab-context-add-note =
+    .label = Ավելացնել նշում
+    .accesskey = A
+tab-note-editor-title-create = Ավելացնել նշում
+
 ## Split View
 
 tab-context-badge-new = Նոր
