@@ -190,6 +190,7 @@ ipprotection-bandwidth-reset-button = 확인
 ## IP Protection add-on breakage warnings
 
 ipp-activator-breakage-sign-in-warning = <strong>이 웹 사이트는 VPN이 작동하지 않을 수 있습니다.</strong> 이 웹사이트를 사용하는 동안 로그인하거나 VPN을 꺼보세요.
+ipp-activator-breakage-turn-off-warning = <strong>이 웹 사이트는 VPN이 작동하지 않을 수 있습니다.</strong> 이 웹사이트를 사용하는 동안 VPN을 꺼보세요.
 
 ## IP Protection alerts
 
