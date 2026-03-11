@@ -8,6 +8,10 @@ about-translations-title = { -brand-short-name } аудармалары
 about-translations-description = Жекелігіңізді құрметтейтін лезде аудармалар.
 about-translations-learn-more-link = Көбірек білу
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Бұл құрылғыда аударма қолжетімді емес
+    .message = Басқа құрылғыға ауысып көріңіз.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Бұл құрылғыда аударма қолжетімді емес.
     .message = Басқа құрылғыға ауысып көріңіз.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Мәтінді аудару үшін осы мүмкіндіктің блоктауын шешіңіз
     .message = Осы функцияны бұғаттау үшін ЖИ басқару элементтерін жаңартқан көрінесіз. Оны пайдалануды бастау үшін кез келген уақытта бұғаттан шығара аласыз.
 about-translations-feature-blocked-unblock-button = Блоктан шығару
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Тілдерді жүктеу мүмкін емес
+    .message = Байланысты тексеріп, қайталап көріңіз.
 about-translations-unsupported-info-button = Көбірек білу
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
