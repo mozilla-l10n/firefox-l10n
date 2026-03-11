@@ -8,6 +8,10 @@ about-translations-title = Công cụ dịch của { -brand-short-name }
 about-translations-description = Dịch thuật tức thì, tôn trọng quyền riêng tư của bạn.
 about-translations-learn-more-link = Tìm hiểu thêm
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Tính năng dịch thuật không khả dụng trên thiết bị này
+    .message = Hãy thử chuyển sang thiết bị khác.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Tính năng dịch thuật không khả dụng trên thiết bị này.
     .message = Hãy thử chuyển sang thiết bị khác.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Để dịch văn bản, hãy bỏ chặn tính năng này
     .message = Có vẻ như bạn đã cập nhật cài đặt AI để chặn tính năng này. Bạn có thể bỏ chặn bất cứ lúc nào để bắt đầu sử dụng.
 about-translations-feature-blocked-unblock-button = Bỏ chặn
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Không thể tải ngôn ngữ
+    .message = Hãy kiểm tra kết nối internet của bạn và thử lại.
 about-translations-unsupported-info-button = Tìm hiểu thêm
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
