@@ -8,10 +8,18 @@ about-translations-title = { -brand-short-name } çevirileri
 about-translations-description = Gizliliğinizi koruyan anlık çeviriler.
 about-translations-learn-more-link = Daha fazla bilgi alın
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Bu cihazda çeviri yapılamıyor
+    .message = Başka bir cihaza geçmeyi deneyin.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Bu cihazda çeviri yapılamıyor.
     .message = Başka bir cihaza geçmeyi deneyin.
 about-translations-feature-blocked-unblock-button = Engeli kaldır
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Diller yüklenemedi
+    .message = İnternet bağlantınızı kontrol edip yeniden deneyin.
 about-translations-unsupported-info-button = Daha fazla bilgi alın
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
