@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = 向您介紹直接內建於瀏覽器的 VPN 功能
+ipprotection-feature-introduction-link-text-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料。
+ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
 ipprotection-feature-introduction-link-text = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏您的所在位置，並透過額外的加密措施保護您的資料。
 ipprotection-feature-introduction-link-text-private-browsing = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏您的所在位置，並透過額外的加密措施保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
 ipprotection-feature-introduction-button-primary = 下一個
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = 知道了！
 ## Panel
 
 unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
+unauthenticated-hide-location-message-2 = 使用 { -brand-product-name } 上網時，隱藏您的所在位置。
 unauthenticated-hide-location-message = 於 { -brand-product-name } 隱藏您的所在位置，並多加一層加密保護。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -128,6 +131,11 @@ ip-protection-site-exceptions =
     .label = 網站設定
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = 試用 { -brand-short-name } 的內建 VPN
+    .message = 使用 { -brand-short-name } 上網時，隱藏您的所在位置。每月都有 { $maxUsage } GB 免費流量。
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
     .heading = 試用 { -brand-short-name } 的內建 VPN
     .message = 隱藏您的所在位置，並對 { -brand-short-name } 上網瀏覽內容多加一層加密。每月均可免費使用 { $maxUsage } GB VPN 流量。
@@ -186,6 +194,10 @@ ip-protection-bandwidth-help-text = 每月月初重設為 { $maxUsage } GB。
 ipprotection-bandwidth-reset-title = 已恢復 { $maxUsage } GB VPN 流量，可以立刻使用
 ipprotection-bandwidth-reset-text = 開啟 VPN 加上一層隱私保護，每月都有免費流量。
 ipprotection-bandwidth-reset-button = 知道了！
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>此網站可能無法透過 VPN 使用。</strong>請登入或關閉 VPN 後再開啟。
 
 ## IP Protection alerts
 

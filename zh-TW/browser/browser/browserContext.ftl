@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = 新功能
+main-context-menu-pdfjs-copy-page =
+    .label = 複製頁面
+main-context-menu-pdfjs-cut-page =
+    .label = 剪下頁面
+main-context-menu-pdfjs-delete-page =
+    .label = 刪除頁面
+main-context-menu-pdfjs-save-page =
+    .label = 將選擇頁面另存為…

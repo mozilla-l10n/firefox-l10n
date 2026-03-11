@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בדפדפן שלך
+ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
+ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-link-text = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך באמצעות הצפנה נוספת.
 ipprotection-feature-introduction-link-text-private-browsing = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך באמצעות הצפנה נוספת, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-button-primary = הבא
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = הבנתי
 ## Panel
 
 unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-product-name }
+unauthenticated-hide-location-message-2 = ניתן להסתיר את המיקום שלך בזמן הגלישה ב־{ -brand-product-name }.
 unauthenticated-hide-location-message = הסתרת המיקום שלך והוספת הצפנה נוספת לגלישה שלך בתוך { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -126,6 +129,11 @@ ip-protection-description =
 ip-protection-learn-more = מידע נוסף
 ip-protection-site-exceptions =
     .label = הגדרות אתרים ספציפיים
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = לנסות את ה־VPN המובנה של { -brand-short-name }
+    .message = ניתן להסתיר את המיקום שלך בזמן הגלישה ב־{ -brand-short-name }. כולל { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =

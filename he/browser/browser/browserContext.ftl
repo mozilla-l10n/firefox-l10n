@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = ה
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = חדש
+main-context-menu-pdfjs-copy-page =
+    .label = העתקת עמוד
+main-context-menu-pdfjs-cut-page =
+    .label = גזירת עמוד
+main-context-menu-pdfjs-delete-page =
+    .label = מחיקת עמוד
+main-context-menu-pdfjs-save-page =
+    .label = שמירת הבחירה בשם…
