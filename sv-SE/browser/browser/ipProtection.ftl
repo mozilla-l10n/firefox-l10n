@@ -191,6 +191,11 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB av VPN, uppdaterad och red
 ipprotection-bandwidth-reset-text = Slå på VPN för en extra integritetshöjning, gratis varje månad.
 ipprotection-bandwidth-reset-button = Jag förstår
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Den här webbplatsen kanske inte fungerar med ett VPN.</strong> Försök att logga in eller stänga av VPN medan du använder den här webbplatsen.
+ipp-activator-breakage-turn-off-warning = <strong>Den här webbplatsen kanske inte fungerar med ett VPN.</strong> Försök att stänga av VPN medan du använder den här webbplatsen.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN pausad
