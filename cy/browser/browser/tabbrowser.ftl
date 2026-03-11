@@ -468,6 +468,8 @@ tab-note-editor-button-save =
     .accesskey = C
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Darllen rhagor
+tab-note-panel-add-note-new-badge =
+    .label = Newydd
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
