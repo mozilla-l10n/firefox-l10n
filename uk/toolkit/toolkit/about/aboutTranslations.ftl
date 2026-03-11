@@ -8,6 +8,10 @@ about-translations-title = Переклади { -brand-short-name }
 about-translations-description = Миттєві переклади зі збереженням вашої приватності.
 about-translations-learn-more-link = Докладніше
 # An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = Переклад недоступний на цьому пристрої
+    .message = Спробуйте на іншому пристрої.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
 about-translations-unsupported-info-message =
     .heading = Переклад недоступний на цьому пристрої.
     .message = Спробуйте на іншому пристрої.
@@ -20,6 +24,10 @@ about-translations-feature-blocked-info-message =
     .heading = Щоб перекласти текст, розблокуйте цю функцію
     .message = Здається, цю функцію заблоковано вашими налаштуваннями ШІ. Розблокуйте, щоб користуватися нею.
 about-translations-feature-blocked-unblock-button = Розблокувати
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Не вдається завантажити мови
+    .message = Перевірте своє інтернет-з'єднання і повторіть спробу
 about-translations-unsupported-info-button = Докладніше
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
