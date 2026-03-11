@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Introducer VPN, ora justo interne a tu navigator
+ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-link-text = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos con ulterior cryptation.
 ipprotection-feature-introduction-link-text-private-browsing = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos con ulterior cryptation, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-button-primary = Sequente
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = OK
 ## Panel
 
 unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
+unauthenticated-hide-location-message-2 = Cela tu position dum tu naviga in { -brand-product-name }.
 unauthenticated-hide-location-message = Cela tu position e adde ulterior cryptation a tu navigation intra { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -192,6 +195,10 @@ ip-protection-bandwidth-help-text = Remonta a { $maxUsage } GB in le prime die d
 ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, renovate e preste a ir
 ipprotection-bandwidth-reset-text = Activa le VPN pro un pulsata de ulterior confidentialitate, gratuite cata mense.
 ipprotection-bandwidth-reset-button = OK
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Iste sito web pote non functionar con un VPN.</strong> Tenta acceder o disactivar le VPN dum tu usa iste sito web.
 
 ## IP Protection alerts
 
