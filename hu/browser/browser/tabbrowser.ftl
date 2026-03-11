@@ -392,6 +392,8 @@ tab-note-editor-button-save =
     .accesskey = e
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Bővebben
+tab-note-panel-add-note-new-badge =
+    .label = Új
 # Displayed within the tab note edit dialog box when the user has entered more
 # characters than are allowed.
 # Variables:
