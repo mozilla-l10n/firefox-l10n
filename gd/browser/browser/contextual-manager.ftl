@@ -320,6 +320,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Cha deach facal-faire sam bith a lorg
+contextual-manager-passwords-no-passwords-found-message-2 = Feuch facal-luirg eile ’s dèan lorg as ùr.
 contextual-manager-passwords-no-passwords-found-message = Cha deach facal-faire a lorg. Feuch facal-luirg eile ’s dèan lorg as ùr.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -334,6 +335,8 @@ contextual-manager-passwords-no-passwords-message = Bidh gach facal-faire air a 
 contextual-manager-passwords-no-passwords-get-started-message = Cuir ris iad an-seo airson toiseach-tòiseachaidh.
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Cuir ris de làimh
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Sàbhail na faclan-faire agad ann an àite sàbhailte
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -352,3 +355,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [few] Tha, thoiribh air falbh na faclan-faire
        *[other] Tha, thoiribh air falbh na faclan-faire
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Airson na faclan-faire a shàbhail thu fhaicinn, cuir a-steach am prìomh-fhacal-faire agad.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = Cuir a-steach am prìomh-fhacal-faire
+contextual-manager-primary-password-learn-more-link = Barrachd fiosrachaidh
