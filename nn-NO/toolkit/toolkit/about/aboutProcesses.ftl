@@ -60,6 +60,12 @@ about-processes-inference-process = Inferens ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Anna: { $type }({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = privat
+about-processes-web-isolated-property-serviceworker = serviceworker
+about-processes-web-isolated-property-jit-disabled = JIT deaktivert
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
