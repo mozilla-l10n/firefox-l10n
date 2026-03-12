@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Vi introducerer VPN, direkte i din browser
-ipprotection-feature-introduction-link-text = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data med ekstra kryptering.
-ipprotection-feature-introduction-link-text-private-browsing = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data med ekstra kryptering - selv om du befinder dig i et privat vindue.
 ipprotection-feature-introduction-button-primary = Næste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tak
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Forstået
 ## Panel
 
 unauthenticated-vpn-title = Prøv den indbyggede VPN i { -brand-product-name }
-unauthenticated-hide-location-message = Skjul din placering og beskyt dine data med ekstra kryptering, når du bruger { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB gratis VPN-data hver måned.

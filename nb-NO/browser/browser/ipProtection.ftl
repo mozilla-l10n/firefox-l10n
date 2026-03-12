@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Vi introduserer VPN, nå rett i nettleseren din
 ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
-ipprotection-feature-introduction-link-text = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine med ekstra kryptering.
-ipprotection-feature-introduction-link-text-private-browsing = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine med ekstra kryptering, selv når du er i et privat vindu.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nå
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = Jeg forstår
 
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-2 = Skjul posisjonen din mens du surfer i { -brand-product-name }.
-unauthenticated-hide-location-message = Skjul plasseringen din og legg til ekstra kryptering i nettlesingen din i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data hver måned.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = Prøv den innebygde VPN-en i { -brand-short-name }
     .message = Skjul plasseringen din mens du surfer i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
-    .message = Skjul plasseringen din og legg til ekstra kryptering i nettlesingen i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

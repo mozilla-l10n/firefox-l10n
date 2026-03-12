@@ -690,10 +690,6 @@ pdfjs-views-manager-status-undo-button-label = 실행 취소
 pdfjs-views-manager-status-close-button =
     .title = 닫기
 pdfjs-views-manager-status-close-button-label = 닫기
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = { $page } 페이지 뒤에 붙여넣기
-pdfjs-views-manager-paste-button-before-label = 첫 페이지 앞에 붙여넣기
 pdfjs-views-manager-paste-button-label = 붙여넣기
 pdfjs-toggle-views-manager-button1 =
     .title = 페이지 관리

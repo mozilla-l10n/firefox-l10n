@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Představujeme VPN, nyní přímo uvnitř vašeho prohlížeče
-ipprotection-feature-introduction-link-text = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a> pro skrytí své polohy a ochranu svých dat pomocí dodatečného šifrování.
-ipprotection-feature-introduction-link-text-private-browsing = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a> pro skrytí své polohy a ochranu svých dat pomocí dodatečného šifrování, i v rámci anonymního okna.
 ipprotection-feature-introduction-button-primary = Další
 ipprotection-feature-introduction-button-secondary-not-now = Teď ne
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, děkuji
@@ -42,11 +40,6 @@ unauthenticated-vpn-title =
     { -brand-product-name.case-status ->
         [with-cases] Vyzkoušejte vestavěnou VPN { -brand-product-name(case: "gen") }
        *[no-cases] Vyzkoušejte vestavěnou VPN aplikace { -brand-product-name }
-    }
-unauthenticated-hide-location-message =
-    { -brand-product-name.case-status ->
-        [with-cases] Skryjte svou polohu a přidejte dodatečné šifrování vašemu procházení webu ve { -brand-product-name(case: "loc") }.
-       *[no-cases] Skryjte svou polohu a přidejte dodatečné šifrování vašemu procházení webu v aplikaci { -brand-product-name }.
     }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -146,11 +139,6 @@ ip-protection-description =
 ip-protection-learn-more = Zjistit více
 ip-protection-site-exceptions =
     .label = Nastavení pro konkrétní stránku
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
-    .message = Skryjte svou polohu a přidejte další šifrování do svého procházení v aplikaci { -brand-short-name }. Získejte { $maxUsage } GB bezplatných dat VPN každý měsíc.
 ip-protection-not-opted-in-button = Začít
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

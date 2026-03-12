@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimessasi
-ipprotection-feature-introduction-link-text = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi lisäsalauksella.
-ipprotection-feature-introduction-link-text-private-browsing = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi lisäsalauksella, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-button-primary = Seuraava
 ipprotection-feature-introduction-button-secondary-not-now = Ei nyt
 ipprotection-feature-introduction-button-secondary-no-thanks = Ei kiitos
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Selvä
 ## Panel
 
 unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
-unauthenticated-hide-location-message = Piilota sijaintisi ja käytä lisäsalausta { -brand-product-name }illa selatessa.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
@@ -117,11 +114,6 @@ ip-protection-description =
 ip-protection-learn-more = Lue lisää
 ip-protection-site-exceptions =
     .label = Sivustokohtaiset asetukset
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
-    .message = Piilota sijaintisi ja lisää ripaus salausta { -brand-short-name }illa selatessa. Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
 ip-protection-not-opted-in-button = Aloitetaan
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

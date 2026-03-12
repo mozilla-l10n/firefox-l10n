@@ -275,11 +275,6 @@ other-backup-files-founds =
        *[other] <b>Opmerking:</b> { $numberOfOtherBackupsFound } oare reservekopybestannen fûn
     }
 # Variables:
-#   $profileName (String) - The name of the profile that was backed up.
-#   $date (Datetime) - The date the backup was created.
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata = { $profileName } Makke op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } op { $machineName }
-# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Wersteld fan { $deviceName } ôf op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } om { DATETIME($date, hour: "2-digit", minute: "2-digit") }

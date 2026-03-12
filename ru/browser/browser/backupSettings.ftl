@@ -276,11 +276,6 @@ other-backup-files-founds =
        *[many] <b>Примечание:</b> найдено { $numberOfOtherBackupsFound } других файлов с резервными копиями
     }
 # Variables:
-#   $profileName (String) - The name of the profile that was backed up.
-#   $date (Datetime) - The date the backup was created.
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata = { $profileName } создан { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } на { $machineName }
-# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Восстановлено с { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } в { DATETIME($date, hour: "2-digit", minute: "2-digit") }

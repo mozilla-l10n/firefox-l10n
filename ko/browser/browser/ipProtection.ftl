@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = 브라우저 안에서 바로 VPN을 만나보세요
 ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 데이터를 보호하세요.
 ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 데이터를 보호하세요.
-ipprotection-feature-introduction-link-text = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 추가 암호화로 데이터를 보호하세요.
-ipprotection-feature-introduction-link-text-private-browsing = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 추가 암호화로 데이터를 보호합니다.
 ipprotection-feature-introduction-button-primary = 다음
 ipprotection-feature-introduction-button-secondary-not-now = 나중에
 ipprotection-feature-introduction-button-secondary-no-thanks = 아니요
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = 확인
 
 unauthenticated-vpn-title = { -brand-product-name }에 내장된 VPN을 사용해 보세요
 unauthenticated-hide-location-message-2 = { -brand-product-name }에서 탐색하는 동안 위치를 숨기세요.
-unauthenticated-hide-location-message = { -brand-product-name } 안에서 탐색할 때 위치를 숨기고 추가 암호화를 추가하세요.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 매달 { $maxUsage } GB의 무료 VPN 데이터를 받으세요.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
     .message = { -brand-short-name }에서 탐색하는 동안 위치를 숨기세요. 매달 { $maxUsage } GB의 무료 VPN 데이터를 받으세요.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
-    .message = { -brand-short-name }에서 탐색하는 동안 위치를 ​​숨기고 추가 암호화를 추가하세요. 매달 { $maxUsage } GB의 무료 VPN 데이터를 받으세요.
 ip-protection-not-opted-in-button = 시작하기
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = VPN ਪੇਸ਼ ਹੈ, ਹੁਣ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੇ ਵਿੱਚ ਹੀ
 ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਵਿੱਚੇ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਵਿੱਚੇ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
-ipprotection-feature-introduction-link-text = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਵਾਧੂ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਵਿੱਚੇ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
-ipprotection-feature-introduction-link-text-private-browsing = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਵਧੀਕ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਵਿੱਚੇ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-button-primary = ਅੱਗੇ
 ipprotection-feature-introduction-button-secondary-not-now = ਹੁਣੇ ਨਹੀਂ
 ipprotection-feature-introduction-button-secondary-no-thanks = ਨਹੀਂ, ਧੰਨਵਾਦ
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = ਸਮਝੇ
 
 unauthenticated-vpn-title = { -brand-product-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
 unauthenticated-hide-location-message-2 = { -brand-product-name } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ।
-unauthenticated-hide-location-message = { -brand-product-name } ਵਿੱਚ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ ਅਤੇ ਵਧੀਕ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤੋਂ।
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = ਹਰ ਮਹੀਨੇ { $maxUsage } GB ਮੁਫ਼ਤ VPN ਡਾਟਾ ਲਵੋ।

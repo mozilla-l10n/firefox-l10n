@@ -293,11 +293,6 @@ other-backup-files-founds =
        *[other] <b>Poznámka:</b> Nalezeno { $numberOfOtherBackupsFound } dalších souborů se zálohou
     }
 # Variables:
-#   $profileName (String) - The name of the profile that was backed up.
-#   $date (Datetime) - The date the backup was created.
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata = { $profileName } Vytvořeno dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na zařízení { $machineName }
-# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Obnoveno z { $deviceName } dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } v { DATETIME($date, hour: "2-digit", minute: "2-digit") }

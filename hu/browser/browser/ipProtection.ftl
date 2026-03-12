@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetlenül a böngészőben
-ipprotection-feature-introduction-link-text = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét, és extra titkosítással védje az adatait.
-ipprotection-feature-introduction-link-text-private-browsing = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét, és extra titkosítással védje az adatait, még akkor is, ha privát ablakban van.
 ipprotection-feature-introduction-button-primary = Tovább
 ipprotection-feature-introduction-button-secondary-not-now = Most nem
 ipprotection-feature-introduction-button-secondary-no-thanks = Köszönöm, nem
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Megértettem
 ## Panel
 
 unauthenticated-vpn-title = Próbálja ki a { -brand-product-name } beépített VPN-jét
-unauthenticated-hide-location-message = Rejtse el a tartózkodási helyét, és adjon további titkosítást a böngészéséhez a { -brand-product-name }on belül.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Kapjon { $maxUsage } GB ingyenes VPN-adatot havonta.
@@ -123,11 +120,6 @@ ip-protection-description =
 ip-protection-learn-more = További tudnivalók
 ip-protection-site-exceptions =
     .label = Webhelyfüggő beállítások
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Próbálja ki a { -brand-short-name } beépített VPN-jét
-    .message = Rejtse el a tartózkodási helyét, és adjon további titkosítást a böngészéséhez a { -brand-short-name } böngészőben. Kapjon { $maxUsage } GB-os ingyenes adatkeretet minden hónapban.
 ip-protection-not-opted-in-button = Kezdő lépések
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

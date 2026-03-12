@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Vi introduserer VPN, no rett i nettlesaren din
-ipprotection-feature-introduction-link-text = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine med ekstra kryptering.
-ipprotection-feature-introduction-link-text-private-browsing = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine med ekstra kryptering, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikkje no
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Eg forstår
 ## Panel
 
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
-unauthenticated-hide-location-message = Skjul plasseringa di og legg til ekstra kryptering i nettlesinga di i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data kvar månad.
@@ -126,11 +123,6 @@ ip-protection-description =
 ip-protection-learn-more = Les meir
 ip-protection-site-exceptions =
     .label = Nettstadspesifikke innstillingar
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
-    .message = Skjul plasseringa di og legg til ekstra kryptering i nettlesinga i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data kvar månad.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

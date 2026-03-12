@@ -23,8 +23,6 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
-ipprotection-feature-introduction-link-text = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 添一层加密，隐藏真实位置、保护个人数据。
-ipprotection-feature-introduction-link-text-private-browsing = 即使是在隐私窗口，使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 也能添一层加密，隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-button-primary = 下一步
 ipprotection-feature-introduction-button-secondary-not-now = 暂时不要
 ipprotection-feature-introduction-button-secondary-no-thanks = 不了，谢谢
@@ -37,7 +35,6 @@ ipprotection-site-settings-callout-button = 知道了
 ## Panel
 
 unauthenticated-vpn-title = 试用 { -brand-product-name } 的内置 VPN
-unauthenticated-hide-location-message = 隐藏真实位置，为 { -brand-product-name } 中的浏览添一层加密保护。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月可免费获得 { $maxUsage } GB VPN 流量

@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Przedstawiamy VPN, teraz dostępny od razu w przeglądarce
-ipprotection-feature-introduction-link-text = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane za pomocą dodatkowego szyfrowania.
-ipprotection-feature-introduction-link-text-private-browsing = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane za pomocą dodatkowego szyfrowania, nawet w trybie prywatnym.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, dziękuję
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = OK
 ## Panel
 
 unauthenticated-vpn-title = Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }
-unauthenticated-hide-location-message = Ukryj swoje położenie i dodaj dodatkowe szyfrowanie podczas przeglądania w { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
@@ -117,11 +114,6 @@ ip-protection-description =
 ip-protection-learn-more = Więcej informacji
 ip-protection-site-exceptions =
     .label = Ustawienia poszczególnych witryn
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
-    .message = Ukryj swoje położenie i dodaj dodatkowe szyfrowanie podczas przeglądania w { -brand-short-name(case: "loc") }. Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
 ip-protection-not-opted-in-button = Zacznij teraz
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

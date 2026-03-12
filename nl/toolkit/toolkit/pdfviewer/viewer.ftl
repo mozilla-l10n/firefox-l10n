@@ -722,10 +722,6 @@ pdfjs-views-manager-status-undo-button-label = Ongedaan maken
 pdfjs-views-manager-status-close-button =
     .title = Sluiten
 pdfjs-views-manager-status-close-button-label = Sluiten
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = Plakken na pagina { $page }
-pdfjs-views-manager-paste-button-before-label = Plakken voor de eerste pagina
 pdfjs-views-manager-paste-button-label = Plakken
 pdfjs-toggle-views-manager-button1 =
     .title = Pagina’s beheren

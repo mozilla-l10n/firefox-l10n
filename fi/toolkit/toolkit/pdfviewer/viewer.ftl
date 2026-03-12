@@ -722,10 +722,6 @@ pdfjs-views-manager-status-undo-button-label = Kumoa
 pdfjs-views-manager-status-close-button =
     .title = Sulje
 pdfjs-views-manager-status-close-button-label = Sulje
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = Liitä sivun { $page } jälkeen
-pdfjs-views-manager-paste-button-before-label = Liitä ennen ensimmäistä sivua
 pdfjs-views-manager-paste-button-label = Liitä
 pdfjs-toggle-views-manager-button1 =
     .title = Hallitse sivuja

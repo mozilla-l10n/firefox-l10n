@@ -704,7 +704,6 @@ pdfjs-views-manager-status-undo-button-label = Zhbëje
 pdfjs-views-manager-status-close-button =
     .title = Mbylle
 pdfjs-views-manager-status-close-button-label = Mbylle
-pdfjs-views-manager-paste-button-before-label = Ngjite para faqes së parë
 pdfjs-views-manager-paste-button-label = Ngjite
 pdfjs-toggle-views-manager-button1 =
     .title = Administroni faqe

@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Giới thiệu VPN, giờ đây đã có ngay trong trình duyệt của bạn.
 ipprotection-feature-introduction-link-text-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
-ipprotection-feature-introduction-link-text = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu bằng mã hóa bổ sung.
-ipprotection-feature-introduction-link-text-private-browsing = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu bằng mã hóa bổ sung, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-button-primary = Tiếp
 ipprotection-feature-introduction-button-secondary-not-now = Không phải bây giờ
 ipprotection-feature-introduction-button-secondary-no-thanks = Không, cảm ơn
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = Đã hiểu
 
 unauthenticated-vpn-title = Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 unauthenticated-hide-location-message-2 = Ẩn vị trí của bạn khi duyệt web trong { -brand-product-name }.
-unauthenticated-hide-location-message = Ẩn vị trí của bạn và thêm mã hóa bổ sung cho hoạt động duyệt web của bạn bên trong { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
     .message = Ẩn vị trí của bạn khi duyệt web trong { -brand-short-name }. Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
-    .message = Ẩn vị trí của bạn và thêm mã hóa bổ sung cho hoạt động duyệt web của bạn trong { -brand-short-name }. Nhận { $maxUsage } GB dung lượng VPN miễn phí mỗi tháng.
 ip-protection-not-opted-in-button = Bắt đầu
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

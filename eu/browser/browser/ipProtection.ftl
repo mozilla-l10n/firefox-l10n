@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzailean integratuta
-ipprotection-feature-introduction-link-text = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak zifratze estraz babesteko.
-ipprotection-feature-introduction-link-text-private-browsing = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak zifratze estraz babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
 ipprotection-feature-introduction-button-secondary-no-thanks = Ez, eskerrik asko
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Ulertuta
 ## Panel
 
 unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako VPNa
-unauthenticated-hide-location-message = Ezkutatu zure kokapena eta gehitu zifratze estra zure { -brand-product-name } nabigazioari.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Lortu VPN datuen doako { $maxUsage } GB hilabetero.

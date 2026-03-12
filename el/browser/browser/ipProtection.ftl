@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Γνωρίστε το VPN, τώρα στο πρόγραμμα περιήγησής σας
 ipprotection-feature-introduction-link-text-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας, ακόμα και σε ιδιωτικά παράθυρα.
-ipprotection-feature-introduction-link-text = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας με επιπλέον κρυπτογράφηση.
-ipprotection-feature-introduction-link-text-private-browsing = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας με επιπλέον κρυπτογράφηση, ακόμα και σε ιδιωτικά παράθυρα.
 ipprotection-feature-introduction-button-primary = Επόμενο
 ipprotection-feature-introduction-button-secondary-not-now = Όχι τώρα
 ipprotection-feature-introduction-button-secondary-no-thanks = Όχι, ευχαριστώ
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = Το κατάλαβα
 
 unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
 unauthenticated-hide-location-message-2 = Αποκρύψτε την τοποθεσία σας κατά την περιήγηση με το { -brand-product-name }.
-unauthenticated-hide-location-message = Αποκρύψτε την τοποθεσία σας και προσθέστε επιπλέον κρυπτογράφηση στην περιήγησή σας μέσα στο { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Λάβετε { $maxUsage } GB δωρεάν VPN κάθε μήνα.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = Δοκιμάστε το ενσωματωμένο VPN του { -brand-short-name }
     .message = Αποκρύψτε την τοποθεσία σας κατά την περιήγηση με το { -brand-short-name }. Λάβετε { $maxUsage } GB δωρεάν δεδομένων VPN κάθε μήνα.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Δοκιμάστε το ενσωματωμένο VPN του { -brand-short-name }
-    .message = Αποκρύψτε την τοποθεσία σας και προσθέστε επιπλέον κρυπτογράφηση στην περιήγησή σας στο { -brand-short-name }. Λάβετε δωρεάν { $maxUsage } GB δεδομένων VPN κάθε μήνα.
 ip-protection-not-opted-in-button = Έναρξη
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Îți prezentăm VPN-ul, acum direct în browser
-ipprotection-feature-introduction-link-text = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> pentru a-ți ascunde locația și a-ți proteja datele cu criptare adițională.
-ipprotection-feature-introduction-link-text-private-browsing = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> pentru a-ți ascunde locația și a-ți proteja datele cu criptare adițională, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-button-primary = Înainte
 ipprotection-feature-introduction-button-secondary-not-now = Nu acum
 ipprotection-feature-introduction-button-secondary-no-thanks = Nu, mulțumesc
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Am înțeles
 ## Panel
 
 unauthenticated-vpn-title = Încearcă VPN-ul încorporat { -brand-product-name }
-unauthenticated-hide-location-message = Ascunde-ți locația și adaugă criptare adițională navigării în { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obține { $maxUsage } GB de date gratuit pentru VPN  în fiecare lună.
@@ -117,11 +114,6 @@ ip-protection-description =
 ip-protection-learn-more = Află mai multe
 ip-protection-site-exceptions =
     .label = Setări specifice site-ului
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Încearcă VPN-ul încorporat { -brand-short-name }
-    .message = Ascunde-ți locația și adaugă criptare adițională navigării tale în { -brand-short-name }. Primești { $maxUsage } GB de date gratis în fiecare lună.
 ip-protection-not-opted-in-button = Începe
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

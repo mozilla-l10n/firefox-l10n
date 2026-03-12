@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Енді браузеріңіздің ішінде қолжетімді болатын VPN ұсынамыз
 ipprotection-feature-introduction-link-text-2 = Орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
-ipprotection-feature-introduction-link-text = Орналасқан жеріңізді жасыру және деректеріңізді сенімді шифрлеумен қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
-ipprotection-feature-introduction-link-text-private-browsing = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді сенімді шифрлеумен қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-button-primary = Келесі
 ipprotection-feature-introduction-button-secondary-not-now = Қазір емес
 ipprotection-feature-introduction-button-secondary-no-thanks = Жоқ, рахмет
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = Түсіндім
 
 unauthenticated-vpn-title = { -brand-product-name } құрамындағы VPN қолданып көріңіз
 unauthenticated-hide-location-message-2 = { -brand-product-name } ішінде шолу кезінде орналасқан жеріңізді жасырыңыз.
-unauthenticated-hide-location-message = Орналасқан жеріңізді жасырыңыз және { -brand-product-name } ішіне қосымша шифрлеу қосыңыз.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін қолданып көріңіз.
     .message = { -brand-short-name } арқылы сайттарды шолу кезінде орналасқан жеріңізді жасырыңыз. Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін байқап көріңіз.
-    .message = { -brand-short-name } браузерінде жұмыс істеу кезінде орналасқан жеріңізді жасырыңыз және қосымша шифрлеу қосыңыз. Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
 ip-protection-not-opted-in-button = Бастау
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Předstajamy VPN, nětko direktnje we wašim wobhladowaku
 ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
-ipprotection-feature-introduction-link-text = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty z přidatnym zaklučowanjom škitał.
-ipprotection-feature-introduction-link-text-private-browsing = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty z přidatnym zaklučowanjom škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-button-primary = Dale
 ipprotection-feature-introduction-button-secondary-not-now = Nic nětko
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, dźakuju so
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = Sym zrozumił
 
 unauthenticated-vpn-title = Wupruwujće zatwarjeny VPN { -brand-product-name }
 unauthenticated-hide-location-message-2 = Schowajće swoje stejnišćo, mjeztym zo z { -brand-product-name } přehladujeće.
-unauthenticated-hide-location-message = Schowajće swoje stejnišćo a přidajće swojemu přehladowanju w { -brand-product-name } přidatne zaklučowanje.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dóstańće { $maxUsage } GB darmotnych datow VPN kóždy měsac.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
     .message = Schowajće swoje stejnišćo, mjeztym zo z { -brand-short-name } přehladujeće. Wobstarajće sej { $maxUsage } GB darmotnych datow VPN kóždy měsac.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
-    .message = Schowajće swoje stejnišćo a přidajće swojemu přehladowanju w { -brand-short-name } přidatne kodowanje. Dóstańće { $maxUsage } GB darmotnych datow VPN kóždy měsac.
 ip-protection-not-opted-in-button = Prěnje kroki
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

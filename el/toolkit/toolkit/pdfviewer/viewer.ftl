@@ -722,10 +722,6 @@ pdfjs-views-manager-status-undo-button-label = Αναίρεση
 pdfjs-views-manager-status-close-button =
     .title = Κλείσιμο
 pdfjs-views-manager-status-close-button-label = Κλείσιμο
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = Επικόλληση μετά τη σελίδα { $page }
-pdfjs-views-manager-paste-button-before-label = Επικόλληση πριν από την πρώτη σελίδα
 pdfjs-views-manager-paste-button-label = Επικόλληση
 pdfjs-toggle-views-manager-button1 =
     .title = Διαχείριση σελίδων

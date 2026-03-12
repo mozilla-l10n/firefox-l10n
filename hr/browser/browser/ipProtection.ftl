@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Predstavljanje VPN-a, sada izravno u tvom pregledniku
-ipprotection-feature-introduction-link-text = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka dodatnim šifriranjem.
-ipprotection-feature-introduction-link-text-private-browsing = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka dodatnim šifriranjem, čak i kada se nalaziš u privatnom prozoru.
 ipprotection-feature-introduction-button-primary = Dalje
 ipprotection-feature-introduction-button-secondary-not-now = Ne sada
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne hvala
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Razumijem
 ## Panel
 
 unauthenticated-vpn-title = Isprobaj ugrađeni VPN { -brand-product-name(case: "gen") }
-unauthenticated-hide-location-message = Sakrij svoju lokaciju i dodaj dodatno šifriranje za pregledavanje unutar { -brand-product-name(case: "gen") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dobij { $maxUsage } GB besplatnih VPN podataka svaki mjesec.

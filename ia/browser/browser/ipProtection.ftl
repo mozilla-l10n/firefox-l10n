@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Introducer VPN, ora justo interne a tu navigator
 ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
-ipprotection-feature-introduction-link-text = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos con ulterior cryptation.
-ipprotection-feature-introduction-link-text-private-browsing = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos con ulterior cryptation, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-button-primary = Sequente
 ipprotection-feature-introduction-button-secondary-not-now = Non ora
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gratias
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = OK
 
 unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
 unauthenticated-hide-location-message-2 = Cela tu position dum tu naviga in { -brand-product-name }.
-unauthenticated-hide-location-message = Cela tu position e adde ulterior cryptation a tu navigation intra { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message =
@@ -136,11 +133,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = Essaya le VPN integrate de { -brand-short-name }
     .message = Cela tu position dum tu naviga in { -brand-short-name }. Recipe { $maxUsage } GB de datos VPN gratuite cata mense.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Essaya le VPN integrate de { -brand-short-name }
-    .message = Cela tu position e adde ulterior cryptation a tu navigation intra { -brand-short-name }. Obtene { $maxUsage } GB de datos de VPN gratuite cata mense.
 ip-protection-not-opted-in-button = Comenciar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -722,10 +722,6 @@ pdfjs-views-manager-status-undo-button-label = Angre
 pdfjs-views-manager-status-close-button =
     .title = Lukk
 pdfjs-views-manager-status-close-button-label = Lukk
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = Lim inn etter side { $page }
-pdfjs-views-manager-paste-button-before-label = Lim inn før første side
 pdfjs-views-manager-paste-button-label = Lim inn
 pdfjs-toggle-views-manager-button1 =
     .title = Behandle sider

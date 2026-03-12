@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = ขอแนะนำ VPN ที่พร้อมใช้งานได้ทันทีในเบราว์เซอร์ของคุณ
-ipprotection-feature-introduction-link-text = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งของคุณและปกป้องข้อมูลของคุณด้วยการเข้ารหัสลับเพิ่มเติม
-ipprotection-feature-introduction-link-text-private-browsing = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งของคุณและปกป้องข้อมูลของคุณด้วยการเข้ารหัสลับเพิ่มเติม แม้ว่าคุณจะอยู่ในหน้าต่างส่วนตัวก็ตาม
 ipprotection-feature-introduction-button-primary = ถัดไป
 ipprotection-feature-introduction-button-secondary-not-now = ไม่ใช่ตอนนี้
 ipprotection-feature-introduction-button-secondary-no-thanks = ไม่ ขอบคุณ
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = เข้าใจแล้ว
 ## Panel
 
 unauthenticated-vpn-title = ลองใช้ VPN ในตัวของ { -brand-product-name }
-unauthenticated-hide-location-message = ซ่อนตำแหน่งของคุณและเพิ่มการเข้ารหัสลับพิเศษให้กับการเรียกดูของคุณภายใน { -brand-product-name }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = รับข้อมูล VPN ฟรี { $maxUsage } GB ทุกเดือน

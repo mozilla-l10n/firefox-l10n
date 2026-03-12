@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
-ipprotection-feature-introduction-link-text = Konumunuzu gizlemek ve verilerinizi ekstra şifrelemeyle korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
-ipprotection-feature-introduction-link-text-private-browsing = Gizli pencerede konumunuzu gizlemek ve verilerinizi ekstra şifrelemeyle korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
 ipprotection-feature-introduction-button-secondary-no-thanks = Hayır
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = Anladım
 
 unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
 unauthenticated-hide-location-message-2 = { -brand-product-name } ile gezinirken konumunuzu gizleyin.
-unauthenticated-hide-location-message = { -brand-product-name } ile konumunuzu gizleyin, gezintilerinize ekstra şifreleme ekleyin.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Her ay { $maxUsage } GB VPN kotası ücretsiz.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = Yerleşik { -brand-short-name } VPN’i deneyin
     .message = { -brand-short-name } ile gezinirken konumunuzu gizleyin. Her ay { $maxUsage } GB VPN kotası ücretsiz.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Yerleşik { -brand-short-name } VPN’i deneyin
-    .message = { -brand-short-name } ile gezinirken konumunuzu gizleyebilir, ekstra şifreleme ile güvenliği artırabilirsiniz. Her ay { $maxUsage } GB VPN kotası ücretsizdir.
 ip-protection-not-opted-in-button = Başla
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo vašom prehliadači
-ipprotection-feature-introduction-link-text = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu údajov pomocou dodatočného šifrovania.
-ipprotection-feature-introduction-link-text-private-browsing = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu údajov pomocou dodatočného šifrovania, a to aj v súkromnom okne.
 ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, ďakujem
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Rozumiem
 ## Panel
 
 unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
-unauthenticated-hide-location-message = Skryte svoju polohu a pridajte ďalšie šifrovanie do prehliadania vo { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
@@ -123,11 +120,6 @@ ip-protection-description =
 ip-protection-learn-more = Ďalšie informácie
 ip-protection-site-exceptions =
     .label = Nastavenia špecifické pre stránku
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
-    .message = Skryte svoju polohu a pridajte ďalšie šifrovanie do prehliadania vo { -brand-short-name(case: "loc") }. Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
 ip-protection-not-opted-in-button = Začíname
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -722,10 +722,6 @@ pdfjs-views-manager-status-undo-button-label = ביטול פעולה
 pdfjs-views-manager-status-close-button =
     .title = סגירה
 pdfjs-views-manager-status-close-button-label = סגירה
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = להדביק אחרי עמוד { $page }
-pdfjs-views-manager-paste-button-before-label = להדביק לפני העמוד הראשון
 pdfjs-views-manager-paste-button-label = הדבקה
 pdfjs-toggle-views-manager-button1 =
     .title = ניהול עמודים

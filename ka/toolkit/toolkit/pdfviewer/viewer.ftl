@@ -722,10 +722,6 @@ pdfjs-views-manager-status-undo-button-label = დაბრუნება
 pdfjs-views-manager-status-close-button =
     .title = დახურვა
 pdfjs-views-manager-status-close-button-label = დახურვა
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = ჩასმა { $page } გვერდის შემდეგ
-pdfjs-views-manager-paste-button-before-label = ჩასმა პირველი გვერდის წინ
 pdfjs-views-manager-paste-button-label = ჩასმა
 pdfjs-toggle-views-manager-button1 =
     .title = გვერდების მართვა

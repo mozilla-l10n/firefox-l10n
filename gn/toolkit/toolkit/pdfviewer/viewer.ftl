@@ -721,10 +721,6 @@ pdfjs-views-manager-status-undo-button-label = Mboguevi
 pdfjs-views-manager-status-close-button =
     .title = Mboty
 pdfjs-views-manager-status-close-button-label = Mboty
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = Emboja kuatiarogue { $page } rire
-pdfjs-views-manager-paste-button-before-label = Emboja togue peteĩha mboyve
 pdfjs-views-manager-paste-button-label = Mboja
 pdfjs-toggle-views-manager-button1 =
     .title = Eñangareko kuotiarogue

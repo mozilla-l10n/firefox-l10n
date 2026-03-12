@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via retumilo.
-ipprotection-feature-introduction-link-text = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn per aldona tavolo de ĉifrado.
-ipprotection-feature-introduction-link-text-private-browsing = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn per aldona tavolo de ĉifrado, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-button-primary = Antaŭen
 ipprotection-feature-introduction-button-secondary-not-now = Ne nun
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, dankon
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Mi komprenis
 ## Panel
 
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
-unauthenticated-hide-location-message = Kaŝu vian lokon en { -brand-product-name } kaj aldonu kroman tavolon de ĉifrado al via retumo.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
@@ -117,11 +114,6 @@ ip-protection-description =
 ip-protection-learn-more = Pli da informo
 ip-protection-site-exceptions =
     .label = Specifaj agordoj por retejoj
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Provu la integritan VPN de { -brand-short-name }
-    .message = Kaŝu vian lokon kaj aldonu kroman tavolon de ĉifrado al vi retumo en { -brand-short-name }. Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
 ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

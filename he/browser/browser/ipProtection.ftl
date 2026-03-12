@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בדפדפן שלך
 ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
-ipprotection-feature-introduction-link-text = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך באמצעות הצפנה נוספת.
-ipprotection-feature-introduction-link-text-private-browsing = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך באמצעות הצפנה נוספת, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-button-primary = הבא
 ipprotection-feature-introduction-button-secondary-not-now = לא כעת
 ipprotection-feature-introduction-button-secondary-no-thanks = לא תודה
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = הבנתי
 
 unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-product-name }
 unauthenticated-hide-location-message-2 = ניתן להסתיר את המיקום שלך בזמן הגלישה ב־{ -brand-product-name }.
-unauthenticated-hide-location-message = הסתרת המיקום שלך והוספת הצפנה נוספת לגלישה שלך בתוך { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = קבלת { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
@@ -134,11 +131,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = לנסות את ה־VPN המובנה של { -brand-short-name }
     .message = ניתן להסתיר את המיקום שלך בזמן הגלישה ב־{ -brand-short-name }. כולל { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = לנסות את ה־VPN המובנה של { -brand-short-name }
-    .message = ניתן להסתיר את המיקום שלך ולהוסיף הצפנה נוספת לגלישה שלך ב־{ -brand-short-name }. כולל { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
 ip-protection-not-opted-in-button = תחילת עבודה
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

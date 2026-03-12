@@ -24,8 +24,6 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Представляємо VPN, тепер прямо у вашому браузері
-ipprotection-feature-introduction-link-text = Скористайтеся нашою новою <a data-l10n-name="learn-more-vpn">вбудованою VPN</a>, щоб приховати своє розташування і захистити свої дані за допомогою додаткового шифрування.
-ipprotection-feature-introduction-link-text-private-browsing = Скористайтеся нашою новою <a data-l10n-name="learn-more-vpn">вбудованою VPN</a>, щоб приховати своє розташування і захистити свої дані за допомогою додаткового шифрування, навіть в режимі приватного перегляду.
 ipprotection-feature-introduction-button-primary = Далі
 ipprotection-feature-introduction-button-secondary-not-now = Не зараз
 ipprotection-feature-introduction-button-secondary-no-thanks = Ні, дякую
@@ -39,7 +37,6 @@ ipprotection-site-settings-callout-button = Зрозуміло
 ## Panel
 
 unauthenticated-vpn-title = Спробуйте вбудовану VPN від { -brand-product-name }
-unauthenticated-hide-location-message = Приховуйте своє розташування і додатково шифруйте дані під час користування інтернетом у { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Отримуйте щомісяця { $maxUsage } ГБ даних для VPN.
@@ -117,11 +114,6 @@ ip-protection-description =
 ip-protection-learn-more = Докладніше
 ip-protection-site-exceptions =
     .label = Налаштування певних сайтів
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Спробуйте вбудовану VPN від { -brand-short-name }
-    .message = Приховайте своє розташування і додайте ще один рівень шифрування під час користування { -brand-short-name }. Щомісяця отримуйте безплатно { $maxUsage } ГБ.
 ip-protection-not-opted-in-button = Розпочати
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

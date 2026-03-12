@@ -738,10 +738,6 @@ pdfjs-views-manager-status-undo-button-label = Anulěrowaś
 pdfjs-views-manager-status-close-button =
     .title = Zacyniś
 pdfjs-views-manager-status-close-button-label = Zacyniś
-# Variables:
-#   $page (Number) - the page number after which the paste button is.
-pdfjs-views-manager-paste-button-after-label = Za bokom { $page } zasajźiś
-pdfjs-views-manager-paste-button-before-label = Pśed prědnym bokom zasajźiś
 pdfjs-views-manager-paste-button-label = Zasajźiś
 pdfjs-toggle-views-manager-button1 =
     .title = Boki zastojaś

@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Ju paraqesim VPN-në, tanimë drejt e nga brenda shfletuesit tuaj
 ipprotection-feature-introduction-link-text-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja, edhe kur gjendeni në një Dritare Private.
-ipprotection-feature-introduction-link-text = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja me fshehtëzim shtesë.
-ipprotection-feature-introduction-link-text-private-browsing = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja me fshehtëzim shtesë, edhe kur gjendeni në një Dritare Private.
 ipprotection-feature-introduction-button-primary = Pasuesja
 ipprotection-feature-introduction-button-secondary-not-now = Jo tani
 ipprotection-feature-introduction-button-secondary-no-thanks = Jo, faleminderit
@@ -42,7 +40,6 @@ ipprotection-site-settings-callout-button = E mora vesh
 
 unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
 unauthenticated-hide-location-message-2 = Fshiheni vendndodhjen tuaj teksa shfletoni në { -brand-product-name }.
-unauthenticated-hide-location-message = Fshihni vendndodhjen tuaj dhe shtoni fshehtëzim shtesë te shfletimi juaj, që nga brenda { -brand-product-name }-it.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Përfitoni { $maxUsage } GB të dhëna VPN falas çdo muaj.
@@ -128,11 +125,6 @@ ip-protection-site-exceptions =
 ip-protection-not-opted-in-2 =
     .heading = Provoni VPN-në e brendshme të { -brand-short-name }-it
     .message = Fshihni vendndodhjen tuaj teksa shfletoni në { -brand-short-name }. Merrni { $maxUsage } GB të dhëna VPN flas çdo muaj.
-# Variables:
-#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
-ip-protection-not-opted-in =
-    .heading = Provoni VPN-në e brendshme të { -brand-short-name }-it
-    .message = Fshihni vendndodhjen tuaj dhe shtoni fshehtëzim ekstra në shfletimin tuaj në { -brand-short-name }. Merrni { $maxUsage } GB të dhëna VPN falas çdo muaj.
 ip-protection-not-opted-in-button = Fillojani
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
