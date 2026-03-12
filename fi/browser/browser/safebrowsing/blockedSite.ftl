@@ -73,4 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Miksi tämä sivusto este
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> saattaa olla yhdistetty petolliseen ja haitalliseen toimintaan.
 safeb-blocked-addon-page-error-desc3-override = <strong>Mitä voit tehdä asialle?</strong>
 safeb-blocked-addon-page-error-desc4-override = Estääksesi tätä tapahtumasta uudelleen, voit poistaa kokonaan tai poistaa käytöstä lisäosan <strong>{ $addonName }</strong> sivulla about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Lue lisää { -brand-short-name }in haitallisten lisäosien suojauksesta</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Lue lisää { -brand-short-name }in tietojenkalastelu- ja haittaohjelmasuojauksesta</a>.

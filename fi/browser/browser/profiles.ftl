@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Profiilin { $profilename } kopio on valmis muokattavaksi
 copied-profile-page-header-description = Kopioimme tietosi ja asetuksesi uuteen profiiliin. Anna sille nyt nimi, valitse ulkoasu ja tee siitä omasi.
+restored-profile-page-header = Mukauta palautettua profiiliasi
+restored-profile-page-header-description = Jokainen profiili pitää yksilöllisen selaushistorian ja asetukset erillään muista profiileistasi. Lisäksi { -brand-short-name }in vahvat yksityisyyden suojaukset ovat oletuksena käytössä.
+restored-profile-page-learn-more = Lue lisää
 profile-window-title-2 = { -brand-short-name } - Valitse profiili
 profile-window-logo =
     .alt = { -brand-short-name }in logo
@@ -87,6 +90,9 @@ delete-profile-bookmarks = Kirjanmerkit
 delete-profile-history = Historia (vieraillut sivut, evästeet, sivustotiedot)
 delete-profile-autofill = Automaattisen täytön tiedot (osoitteet, maksutavat)
 delete-profile-logins = Salasanat
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Poista profiili ”{ $profilename }”
 
 ##
 

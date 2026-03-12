@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Kokeile vaihtaa URL-osoite
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Joskus verkkosivustot asettavat suojan itselleen ei-toivotulta vuorovaikutukselta muiden sivustojen kanssa.
 fp-learn-more-about-https-connections = Lisätietoja HTTPS-yhteyksistä
+fp-neterror-vpn-error-title = VPN-yhteyden muodostaminen epäonnistui
+fp-neterror-vpn-error-description = Yritä uudelleen muutaman minuutin kuluttua.

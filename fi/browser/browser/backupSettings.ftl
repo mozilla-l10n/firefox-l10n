@@ -35,6 +35,13 @@ settings-data-backup-scheduled-backups-on = Varmuuskopiointi: PÄÄLLÄ
 settings-data-backup-scheduled-backups-off = Varmuuskopiointi: POIS
 settings-data-backup-scheduled-backups-description = Suojaa kirjanmerkit, historia ja muut tiedot automaattisesti. <a data-l10n-name="support-link">Lue lisää</a>
 settings-data-backup-last-backup-date = Viimeisin varmuuskopio: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Varmuuskopiointi on PÄÄLLÄ
+settings-data-backup-scheduled-backups-off2 =
+    .label = Varmuuskopiointi on POIS PÄÄLTÄ
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Varmuuskopioinnin sijainti
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Sijainti
 settings-data-backup-last-backup-location-show-in-folder = Näytä kansiossa
