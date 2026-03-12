@@ -155,6 +155,9 @@ ip-protection-autostart-checkbox =
     .label = { -brand-short-name } tarayıcısını açtığımda
 ip-protection-autostart-private-checkbox =
     .label = Gizli pencerelerde
+ip-protection-vpn-upgrade-link =
+    .label = { -mozilla-vpn-brand-name } ile { -brand-short-name } dışında daha da fazla korumaya sahip olabilirsiniz
+    .description = İstediğiniz VPN konumunu seçin, ister evde ister halka açık Wi-Fi ağlarında beş ayrı cihazda tüm uygulamalarınıza koruyun.
 
 ## IP Protection dialogs
 
@@ -195,6 +198,11 @@ ip-protection-bandwidth-help-text = Her ayın ilk günü { $maxUsage } GB hakkı
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN kotanız yenilendi ve kullanıma hazır
 ipprotection-bandwidth-reset-text = Gizliliğinizi artırmak için VPN’i açabilirsiniz. Her ay ücretsiz.
 ipprotection-bandwidth-reset-button = Anladım
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Bu site VPN ile çalışmayabilir.</strong> Bu siteyi kullanırken sitede oturum açmayı veya VPN’i kapatmayı deneyin.
+ipp-activator-breakage-turn-off-warning = <strong>Bu site VPN ile çalışmayabilir.</strong> Bu siteyi kullanırken VPN’i kapatmayı deneyin.
 
 ## IP Protection alerts
 

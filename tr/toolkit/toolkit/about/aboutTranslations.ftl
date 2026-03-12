@@ -15,6 +15,14 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Bu cihazda çeviri yapılamıyor.
     .message = Başka bir cihaza geçmeyi deneyin.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Kuruluşunuzda çeviri özelliği kullanılamıyor
+    .message = Bu ilkeyi yöneticiniz belirlemiştir.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Metni çevirmek için bu özelliğin engelini kaldırın
+    .message = Yapay zekâ kontrolleri üzerinden bu özelliği engellemişsiniz. Bu özelliği kullanmak isterseniz engeli kaldırabilirsiniz.
 about-translations-feature-blocked-unblock-button = Engeli kaldır
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =

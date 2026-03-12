@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = ਬਹਾਲ ਕਰੋ
 browser-window-close-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = ਵਾਪਸ
 
 ## Tab actions
 
@@ -1183,6 +1186,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ
     .tooltiptext = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੋ ({ $shortcut })
+toolbar-button-share-tab =
+    .label = ਸਾਂਝਾ ਕਰੋ
+    .tooltiptext = ਇਸ ਸਫ਼ੇ ਨੂੰ ਸਾਂਝਾ ਕਰੋ
 
 ## EME notification panel
 

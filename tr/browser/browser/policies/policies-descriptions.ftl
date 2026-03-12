@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Arama önerilerini etkinleştir veya devre dışı
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11 modülü ekle veya sil.
 policy-ShowHomeButton = Araç çubuğunda giriş sayfası düğmesini göster.
+policy-SitePolicies = Siteye özel ilkeler.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Başlangıçta Kullanım Koşulları ve Gizlilik Bildirimi’ni gösterme. Bu tarayıcıya erişim izni verdiğiniz tüm kişiler adına Kullanım Koşulları’nı kabul ettiğinizi ve kabul etme yetkiniz olduğunu onaylamış olursunuz.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
