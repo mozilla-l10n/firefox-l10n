@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Sivuston tietosuojakäytännöt
+do-not-track-removal3 =
+    .message = "Älä seuraa"-ominaisuus ei ole enää tuettu.
+non-technical-privacy-heading =
+    .label = Lisäsuojaukset
 non-technical-privacy-header = Sivuston tietosuojakäytännöt
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -2280,3 +2284,8 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Peruuta
 preferences-ai-controls-block-confirmation-confirm =
     .label = Estä
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = Evästeet

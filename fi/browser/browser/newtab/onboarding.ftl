@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Palauta varmuuskopiosta
 restore-from-backup-title = Palautetaan { -brand-short-name } mieleiseksesi
 restore-from-backup-subtitle = Palauta kaikki kirjanmerkit, historia ja muut tiedot, jotta voit jatkaa selaamista.
 restore-from-backup-secondary-button = Älä palauta
+multiple-backups-info-tile = <strong>Löytyi useita varmuuskopiotiedostoja.</strong> Viimeisin tiedosto on valittuna. Palauta muut profiilit <a data-l10n-name="settings-label">asetuksissa.</a>
 
 ## Restored from Backup spotlight
 

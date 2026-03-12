@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Palauta pienemmäksi ikkunaksi
 browser-window-close-button =
     .tooltiptext = Sulje
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Palaa
 
 ## Tab actions
 
@@ -1182,6 +1185,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Uusi yksityinen ikkuna
     .tooltiptext = Avaa yksityinen selaaminen -ikkuna ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Jaa
+    .tooltiptext = Jaa tämä sivu
 
 ## EME notification panel
 

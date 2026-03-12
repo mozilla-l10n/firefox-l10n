@@ -57,6 +57,8 @@ settings-data-backup-scheduled-backups-on-restore-description = Palauta { -brand
 settings-data-backup-scheduled-backups-on-restore-choose = Palauta…
 settings-data-toggle-encryption-label = Varmuuskopioi arkaluontoiset tietosi
 settings-data-toggle-encryption-support-link = Lue lisää
+settings-data-change-password2 =
+    .label = Vaihda salasana
 settings-data-change-password = Vaihda salasana…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -99,6 +101,9 @@ turn-off-scheduled-backups-confirm-button = Poista varmuuskopiointi käytöstä 
 restore-from-backup-header = Palauta tietosi
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Mitä palautetaan?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Tämä korvaa kaikki nykyiset { -brand-short-name }-tiedot varmuuskopiosi sisällöllä ajasta { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -116,6 +121,12 @@ restore-from-backup-password-description = Tämä avaa salatun varmuuskopiosi.
 restore-from-backup-cancel-button = Peruuta
 restore-from-backup-confirm-button = Palauta ja käynnistä uudelleen
 restore-from-backup-restoring-button = Palautetaan…
+restore-from-backup-type-group-label =
+    .label = Korvataanko nykyinen profiili?
+restore-from-backup-type-replace =
+    .label = Korvaa kaikki tiedot tällä varmuuskopiolla
+restore-from-backup-type-add =
+    .label = Säilytä tiedot ja luo uusi profiili
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
