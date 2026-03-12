@@ -577,4 +577,7 @@ onboarding-refresh-pin-set-default-subtitle = Ne i mbrojmë të dhënat tuaja dh
 onboarding-refresh-pin-set-default-title = Jeni në duart të sigurta
 onboarding-refresh-import-subtitle = Sillni fjalëkalimet tuaja, faqerojtësit, historikun, etj.
 onboarding-refresh-import-title = Bëjeni { -brand-short-name }-in të ndiheni si në shtëpi
+onboarding-refresh-onboarding-addons-subtitle = Zgjerimet janë aplikacione të vockla që ju lejojnë të përshtatni { -brand-short-name }-in. Mund të fuqizojnë privatësinë tuaj, të zgjerojnë prodhimtarinë, të ndryshojnë mënyrën se si duket { -brand-short-name }-i, e plot të tjera.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Jepni një përforcim shfletimit tuaj
 onboarding-refresh-sync-title = Shkoni ngado. Njëkohësoni gjithçka.

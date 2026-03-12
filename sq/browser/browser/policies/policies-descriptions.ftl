@@ -134,6 +134,7 @@ policy-SearchSuggestEnabled = Aktivizoni ose çaktivizoni sugjerime kërkimi.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Shtoni, ose fshini module PKCS #11.
 policy-ShowHomeButton = Shfaqe butonin Shtëpi te paneli.
+policy-SitePolicies = Rregulla specifike sipas sajtesh
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Mos shfaq gjatë nisjes Kushte Përdorimi dhe Njoftim Mbi Privatësinë. Kjo nënkupton se pranoni dhe keni autoritetin të pranoni Terma Përdorimi në emër të krejt individëve të cilëve u jepni hyrje në këtë shfletues.
 policy-SSLVersionMax = Caktoni version maksimum SSL-je.

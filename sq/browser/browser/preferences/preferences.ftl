@@ -535,6 +535,9 @@ check-user-spelling =
     .accesskey = o
 spellcheck-download-dictionaries =
     .label = Shkarkoni fjalorë
+spellcheck-promo =
+    .heading = Si të përdoret kontrolli i drejtshkrimit
+    .message = Djathtasklikoni mbi një fushë tekstesh që të aktivizoni apo çaktivizoni kontrollin e drejtshkrimit, ose për të ndryshuar gjuhë. Kontroll drejtshkrimi s’mbulojnë krejt fushat.
 
 ## General Section - Files and Applications
 
@@ -813,6 +816,8 @@ home-default-browser-title =
     .label = Shfletuesi parazgjedhje
 is-default-browser-2 =
     .message = { -brand-short-name }-i është shfletuesi juaj parazgjedhje. Zgjedhje e mirë.
+is-not-default-browser-2 =
+    .message = Psst, { -brand-short-name }-i s’është parazgjedhje juaj.
 set-as-my-default-browser-2 =
     .label = Vëre Parazgjedhje
     .accesskey = V
@@ -2272,11 +2277,31 @@ preferences-doh-exceptions-description = { -brand-short-name }-i s’do të për
 preferences-doh-manage-exceptions =
     .label = Administroni Përjashtime…
     .accesskey = A
+preferences-doh-overview-default =
+    .label = Mbrojtje parazgjedhje
+    .description = Përdor DNS të siguruar, në rajone ku kjo është e mundshme.
 preferences-doh-advanced-button =
     .label = Rregullime të mëtejshme
+preferences-doh-advanced-section =
+    .label = Rregullime të mëtejshme
+    .description = Sistem Emrash Përkatësish përmes HTTPS (DoH) fshehtëzon kërkime për sajte, kështu që është më e zorshme për shërbimin tuaj internet të shohë se ç’sajte po vizitoni.
 preferences-doh-manage-exceptions2 =
     .label = Administroni përjashtime
     .accesskey = A
+preferences-doh-radio-default =
+    .label = Parazgjedhje
+    .description = Përdor DNS të siguruar në rajone ku është e mundshme
+preferences-doh-status-item-off =
+    .message = DNS përmes HTTPS-je është e çaktivizuar
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS përmes HTTPS-je s’po funksionon, ngaqë hasëm një gabim ({ $reason }) teksa provohej të përdorej shërbimi { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS përmes HTTPS-je s’po funksionon, ngaqë morëm një URL të pavlefshme ({ $reason })
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
 
@@ -2290,6 +2315,14 @@ choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-confirmation-heading = Të bllokohen zgjerime IA?
+preferences-ai-controls-block-confirmation-features-start = Çfarë do të bllokohet:
+preferences-ai-controls-block-confirmation-translations = Përkthime
+preferences-ai-controls-block-confirmation-pdfjs = Tekst alternativ figurash në parës { -brand-short-name } PDF-sh
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugjerime për grupe skedash
+preferences-ai-controls-block-confirmation-key-points = Pika kyçe në paraparje lidhjesh
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Shërbime robotësh fjalosjesh në anështyllë
+preferences-ai-controls-block-confirmation-features-after = Bllokimi prek gjithashtu zgjerime që përdorin IA të dhënë nga { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Anuloje
 preferences-ai-controls-block-confirmation-confirm =
