@@ -46,6 +46,10 @@ neterror-load-error-firewall = Nëse kompjuteri apo rrjeti juaj mbrohet nga një
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Nëse po provoni të ngarkoni një faqe rrjeti vendor, ju lutemi, shihni nëse i janë akorduar{ -brand-short-name }-it leje mbi Rrjetin Vendor, te rregullimet për Privatësi & Siguri të macOS-it.
 neterror-http-error-page = Kontrolloni nëse e keni shkruar saktë adresën e sajtit.
+neterror-http-empty-response = Shihni për t’u siguruar se e keni shtypur saktë adresën e sajtit dhe riprovoni pas pak çastesh.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } ktheu një faqe të zbrazët.
 neterror-captive-portal = Duhet të bëni hyrjen në këtë rrjet, përpara se të përdorni Internetin.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -91,6 +95,7 @@ neterror-file-not-found-moved = Shihni se mos kartela qe lëvizur, riemërtuar o
 neterror-access-denied = Kartela mund të jetë hequr, lëvizur, ose hyrjen e pengojnë lejet mbi kartelën.
 neterror-unknown-protocol = Mund t'ju duhet të instaloni tjetër program për të hapur këtë adresë.
 neterror-redirect-loop = Ndonjëherë ky problem mund të shkaktohet nga çaktivizim ose mospranim cookie-sh.
+neterror-unknown-socket-type-client-config = Kjo mund të vijë nga një gabim formësimi me klientin tuaj.
 neterror-unknown-socket-type-psm-installed = Kontrolloni për t'u siguruar që sistemi juaj ka të instaluar Përgjegjësin e Sigurisë Vetjake.
 neterror-unknown-socket-type-server-config = Kjo mund të vijë nga një formësim jostandard te shërbyesi.
 neterror-not-cached-intro = Dokumenti i kërkuar nuk gjendet më te fshehtina e { -brand-short-name }-it.
@@ -191,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Provoni të ndryshoni URL-
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Ndonjëherë, sajtet ujdisin mbrojtje për veten, kundër ndërveprimesh të padëshiruara me sajte të tjerë.
 fp-learn-more-about-https-connections = Mësoni rreth lidhjesh HTTPS
+fp-neterror-vpn-error-title = S’u lidh dot me VPN-në
+fp-neterror-vpn-error-description = Riprovoni pas pak minutash.

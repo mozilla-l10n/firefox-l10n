@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Përdore profilin e përzgjedhur pa pyetur gjatë nisjes
     .accesskey = P
 profile-has-selectable-profiles-title = S’mund të fshihet një profil që është i lidhur me profile të tjerë
+profile-has-selectable-profiles-message = Që të fshini këtë profil, hapeni dhe përzgjidhni ”Administroni profile” që nga pjesa e profileve të menusë së { -brand-short-name }-it. Pasi të fshini çfarëdo profili shtesë që keni krijuar këtu, mund të ktheheni te about:profiles dhe të fshini këtë profil.
