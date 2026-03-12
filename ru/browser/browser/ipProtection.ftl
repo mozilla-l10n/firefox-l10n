@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Представляем VPN, теперь прямо в вашем браузере
+ipprotection-feature-introduction-link-text-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть свое местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-link-text = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные с помощью дополнительного шифрования.
 ipprotection-feature-introduction-link-text-private-browsing = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные с помощью дополнительного шифрования, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-button-primary = Далее
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Понятно
 ## Panel
 
 unauthenticated-vpn-title = Попробуйте VPN, встроенный в { -brand-product-name }
+unauthenticated-hide-location-message-2 = Скрывайте свое местоположение при работе в { -brand-product-name }.
 unauthenticated-hide-location-message = Скройте своё местоположение и добавьте дополнительное шифрование в { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -128,6 +131,11 @@ ip-protection-site-exceptions =
     .label = Настройки для конкретных сайтов
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Попробуйте VPN, встроенный в { -brand-short-name }
+    .message = Скройте своё местоположение при просмотре в { -brand-short-name }. Получите { $maxUsage } ГБ бесплатных VPN-данных каждый месяц.
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in =
     .heading = Попробуйте VPN, встроенный в { -brand-short-name }
     .message = Скройте своё местоположение и добавьте дополнительное шифрование к вашему веб-сёрфингу в { -brand-short-name }. Получите { $maxUsage } ГБ бесплатных данных VPN каждый месяц.
@@ -191,6 +199,11 @@ ip-protection-bandwidth-help-text = Сбрасывается на { $maxUsage } 
 ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN, обновлён и готов к работе
 ipprotection-bandwidth-reset-text = Включите VPN для дополнительного повышения приватности, бесплатно каждый месяц.
 ipprotection-bandwidth-reset-button = Понятно
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Этот веб-сайт может не работать через VPN.</strong> Попробуйте войти или отключить VPN на время использования этого веб-сайта.
+ipp-activator-breakage-turn-off-warning = <strong>Этот веб-сайт может не работать через VPN.</strong> Попробуйте отключить VPN на время использования этого веб-сайта.
 
 ## IP Protection alerts
 
