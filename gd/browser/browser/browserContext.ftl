@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = m
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Ùr
+main-context-menu-pdfjs-copy-page =
+    .label = Dèan lethbhreac dhen duilleag
+main-context-menu-pdfjs-cut-page =
+    .label = Geàrr an duilleag
+main-context-menu-pdfjs-delete-page =
+    .label = Sguab an duilleag às
+main-context-menu-pdfjs-save-page =
+    .label = Sàbhail na thagh thu mar…
