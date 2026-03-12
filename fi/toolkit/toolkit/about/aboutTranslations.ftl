@@ -25,6 +25,14 @@ about-translations-language-load-error-message =
     .heading = Kielten lataus epäonnistui.
     .message = Tarkista internetyhteys ja yritä uudelleen.
 about-translations-language-load-error-button = Yritä uudelleen
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Kääntämisessä oli ongelma
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Valitettavasti kieltä { $language } ei vielä tueta
+about-translations-detected-language-unsupported-heading-unknown = Valitettavasti emme vielä tue tätä kieltä
+about-translations-detected-language-unsupported-subtext = Valitse toinen kieli.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Lisää käännettävä teksti
