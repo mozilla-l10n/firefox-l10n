@@ -2458,7 +2458,7 @@ security-privacy-status-trackers-label =
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = გიყენიათ <a data-l10n-name="strict-tracking-protection">მკაცრი დაცვა</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
-security-privacy-status-custom-enabled-label = გიყენიათ <a data-l10n-name="strict-tracking-protection">მორგებული დაცვა</a>
+security-privacy-status-custom-enabled-label = გიყენიათ <a data-l10n-name="custom-tracking-protection">მორგებული დაცვა</a>
 security-privacy-status-up-to-date-label = გიყენიათ უახლესი, დაცული { -brand-short-name }
 security-privacy-status-update-needed-label = ახალი { -brand-short-name } ხელმისაწვდომია.
 security-privacy-status-update-error-label = { -brand-short-name } დაბრკოლებას აწყდება განახლებისას
