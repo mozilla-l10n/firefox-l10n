@@ -1236,11 +1236,11 @@ sync-sign-in =
 
 prefs-syncing-on = Synchronisation: EIN
 prefs-syncing-on-2 =
-    .label = Die Synchronisierung ist AKTIVIERT
+    .label = Die Synchronisation ist AKTIVIERT
 prefs-syncing-off = Synchronisation: AUS
 prefs-syncing-off-2 =
-    .label = Die Synchronisierung ist DEAKTIVIERT
-    .description = Aktivieren Sie die Synchronisierung, um Ihre Lesezeichen, Passwörter, den Verlauf und mehr auf jedem Gerät abzurufen.
+    .label = Die Synchronisation ist DEAKTIVIERT
+    .description = Aktivieren Sie die Synchronisation, um Ihre Lesezeichen, Passwörter, den Verlauf und mehr auf jedem Gerät abzurufen.
 prefs-sync-turn-on-syncing =
     .label = Synchronisation aktivieren…
     .accesskey = S
