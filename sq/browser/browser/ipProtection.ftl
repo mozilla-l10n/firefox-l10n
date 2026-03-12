@@ -117,9 +117,22 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Po i afroheni kufir
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = VPN e brendshme për të zgjeruar privatësinë tuaj teksa shfletoni në { -brand-short-name }.
 ip-protection-learn-more = Mësoni më tepër
 ip-protection-site-exceptions =
     .label = Rregullime specifike për sajt
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Provoni VPN-në e brendshme të { -brand-short-name }-it
+    .message = Fshihni vendndodhjen tuaj teksa shfletoni në { -brand-short-name }. Merrni { $maxUsage } GB të dhëna VPN flas çdo muaj.
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in =
+    .heading = Provoni VPN-në e brendshme të { -brand-short-name }-it
+    .message = Fshihni vendndodhjen tuaj dhe shtoni fshehtëzim ekstra në shfletimin tuaj në { -brand-short-name }. Merrni { $maxUsage } GB të dhëna VPN falas çdo muaj.
 ip-protection-not-opted-in-button = Fillojani
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -130,6 +143,8 @@ ip-protection-site-exceptions-all-sites-button =
             [one] { $count } sajt
            *[other] { $count } sajte
         }
+ip-protection-autostart =
+    .label = Hape automatikisht VPN-në
 ip-protection-autostart-checkbox =
     .label = Kur hap { -brand-short-name }
 ip-protection-autostart-private-checkbox =

@@ -637,6 +637,8 @@ newtab-report-cancel = Ακύρωση
 newtab-report-submit = Υποβολή
 newtab-toast-thanks-for-reporting =
     .message = Ευχαριστούμε για την αναφορά σας.
+newtab-toast-widgets-hidden =
+    .message = Επιλέξτε το εικονίδιο μολυβιού για να προσθέσετε γραφικά στοιχεία ανά πάσα στιγμή.
 
 ## Strings for task / to-do list productivity widget
 
