@@ -73,6 +73,14 @@ bookmarks-toolbar-callout-2a-secondary-button-label = Falaich am bàr-inneal
 bookmarks-toolbar-callout-2b-title = Airson bàr-inneal nan comharran-lìn a chumail fosgailte?
 bookmarks-toolbar-callout-2b-subtitle = ’S urrainn dhut làraichean eile air an tadhal thu gu tric a chur ris. Cha leig thu leas ach taba a shlaodadh is a leigeil às airson an fheadhainn air an tadhail thu gu tric a chumail deas ri làimh.
 bookmarks-toolbar-callout-2b-primary-button-label = Cùm fosgailte
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2b-secondary-button-label = Chan eil, tapadh leibh
+
+## Perplexity callout strings
+
+perplexity-callout-theme-1-title = Bheil an fhreagairt cheart a dhìth ort, làrach nam bonn?
+perplexity-callout-theme-2-title = Feuch Perplexity: dòigh ùr airson lorg a dhèanamh
+perplexity-callout-theme-1-subtitle-1 = Feuch Perplexity. Tagh e on phutan luirg ma bhios freagairt iomlan a dhìth ort, le tùsan na chois.
 
 ## Sidebar Strings
 
@@ -90,6 +98,12 @@ vertical-tabs-callout-2-subtitle = Nì a’ cho-dhealbhachd seo furasta e na th�
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = A bheil thu a’ call tabaichean cudromach?
+sidebar-pins-callout-subtitle = Feuch is prìnich iad, cumaidh sin aig bàrr liosta nan tabaichean agad. Dèan briogadh deas air taba a bu toil leat prìneachadh is tagh “Prìnich an taba” an uair sin.
+sidebar-pins-callout-cta-button = Prìnich an taba
+
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-1-title = Am bàr-taoibh: d’ àite airson innealan is tabaichean
 
 ## Sidebar Callout Survey Strings
 
@@ -105,3 +119,8 @@ sidebar-callout-survey-dont-use-it = Cha chleachd mi e
 sidebar-callout-survey-productive-question =
     Dè cho mòr ’s a tha thu ag aontachadh no a’ dol an aghaidh na leanas:<br/>
     “Bidh mi nas tarbhaiche le bàr-taoibh { -brand-short-name }”
+sidebar-callout-survey-strongly-agree = Ag aontachadh gu mòr
+sidebar-callout-survey-agree = Ag aontachadh
+sidebar-callout-survey-disagree = Ag eas-aontachadh
+sidebar-callout-survey-strongly-disagree = Ag eas-aontachadh gu mòr
+sidebar-callout-survey-features-question = Seo gleusan nach eil ri làimh air a’ bhàr-taoibh aig an ìre-sa. Dè am fear a chuiread an spionnadh as motha nad tharbhachd ann am { -brand-short-name }?
