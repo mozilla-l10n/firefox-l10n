@@ -26,6 +26,8 @@ about-translations-language-load-error-message =
     .heading = Klarte ikkje å laste inn språk.
     .message = Kontroller internettsambandet ditt og prøv igjen
 about-translations-language-load-error-button = Prøv igjen
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Det oppstod eit problem med omsettinga
 about-translations-translation-error-subtext = Prøv igjen.
 about-translations-translation-error-button = Prøv igjen
 # Placeholder text shown in the source-language text area when the user has not typed any text.

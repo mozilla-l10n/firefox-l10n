@@ -65,6 +65,14 @@ about-processes-unknown-process = Anna: { $type }({ $pid })
 about-processes-web-isolated-property-private = privat
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT deaktivert
+about-processes-web-isolated-property-with-coop-coep = kryssande-opphav-isolert
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Isolated process names
 ## Variables:
