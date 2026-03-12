@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Ju paraqesim VPN-në, tanimë drejt e nga brenda shfletuesit tuaj
+ipprotection-feature-introduction-link-text-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja, edhe kur gjendeni në një Dritare Private.
 ipprotection-feature-introduction-link-text = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja me fshehtëzim shtesë.
 ipprotection-feature-introduction-link-text-private-browsing = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja me fshehtëzim shtesë, edhe kur gjendeni në një Dritare Private.
 ipprotection-feature-introduction-button-primary = Pasuesja
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = E mora vesh
 ## Panel
 
 unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
+unauthenticated-hide-location-message-2 = Fshiheni vendndodhjen tuaj teksa shfletoni në { -brand-product-name }.
 unauthenticated-hide-location-message = Fshihni vendndodhjen tuaj dhe shtoni fshehtëzim shtesë te shfletimi juaj, që nga brenda { -brand-product-name }-it.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -97,11 +100,20 @@ ipprotection-message-bandwidth-warning-mb =
     .heading = Po i afroheni kufirit tuaj VPN
     .message = Ju mbeten { $usageLeft } MB nga { $maxUsage } GB këtë muaj.
 ipprotection-message-continuous-onboarding-intro = Që të fshihni vendndodhjen tuaj dhe të shtoni në shfletimin tuaj fshehtëzim shtesë, hapni VPN-në.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ujdiseni VPN-në të aktivizohet</a> sa herë që hapni { -brand-short-name }-in, për një shtresë shtesë mbrojtjeje.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }-i do të mbajë mend me cilët sajte keni vendosur të përdoret VPN. Përditësojeni këtë kurdo te <a data-l10n-name="setting-link">rregullimet</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ja është e mbyllur për këtë sajt
 
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = Ju pëlqen VPN-ja e brendshme? Merrni edhe më tepër mbrojtje jashtë { -brand-product-name }-it, me { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Zgjidhni një vendndodhje VPN dhe shtoni mbrojtje te krejt aplikacionet tuaja, deri në 5 pajisje, qoftë kur jeni në shtëpi, apo në një Wi-Fi publik.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Po i afroheni kufirit tuaj VPN.</strong> Keni edhe { $usageLeft } GB. Të dhënat tuaja do të zerohen në fillim të muajit pasues.
 
 ## IP Protection Settings
 

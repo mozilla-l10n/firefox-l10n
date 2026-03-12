@@ -565,6 +565,9 @@ browser-window-restore-down-button =
     .tooltiptext = Riktheje Poshtë
 browser-window-close-button =
     .tooltiptext = Mbylleni
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Riktheje
 
 ## Tab actions
 
