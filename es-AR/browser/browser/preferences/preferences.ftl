@@ -2494,6 +2494,9 @@ preferences-etp-level-custom =
     .description = Seleccionar que protecciones se activan o desactivan
 preferences-etp-status-advanced-button =
     .label = Opciones avanzadas
+preferences-etp-status-protections-dashboard-link =
+    .label = Ver el panel de protecciones personalizado
+    .description = Vea cuántos rastreadores furtivos fueron bloqueados por { -brand-short-name }, incluyendo rastreadores de redes sociales, detectores de huellas y criptomineros.
 preferences-etp-header =
     .heading = Protección de rastreo aumentada
 preferences-etp-advanced-settings-group =
@@ -2505,6 +2508,8 @@ preferences-etp-reload-tabs-hint =
     .message = Recargar las pestañas para aplicar estos cambios.
 preferences-etp-reload-tabs-hint-button =
     .label = Recargar todas las pestañas
+preferences-etp-rfp-warning-message =
+    .message = Está usando Resist Fingerprinting (RFP), que reemplaza algunas de las configuraciones de protección de huellas de { -brand-short-name }. Esto podría provocar que algunos sitios fallen.
 preferences-etp-level-warning-message =
     .heading = ¡Atención! Algunos sitios pueden no funcionar como se esperaba.
     .message = Algunos sitios incluyen a los rastreadores dentro sus funcionalidades o contenido. Cuando { -brand-short-name } los bloquea, el sitio aparece roto. Pruebe usar “Corregir problemas del sitio” o desactivar la protección de rastreo en ese sitio.
@@ -2535,6 +2540,12 @@ preferences-etp-custom-tracking-protection-enabled-context =
     .aria-label = Contenido de rastreo
 preferences-etp-custom-crypto-mining-protection-enabled =
     .label = Criptomineros
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Detectores de huellas digitales conocidas
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Presuntos detectores de huellas digitales
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Presuntos detectores de huellas digitales
 
 ## Warnings section
 
