@@ -60,6 +60,9 @@ settings-data-backup-last-backup-filename = Όνομα αρχείου: { $fileNa
 settings-data-backup-restore-scheduled-on =
     .label = Ανάκτηση δεδομένων
     .description = Ανακτήστε τα δεδομένα του { -brand-product-name } σας από το τελευταίο αντίγραφο ασφαλείας.
+settings-data-backup-restore-scheduled-off =
+    .label = Ανάκτηση δεδομένων
+    .description = Χρησιμοποιήστε ένα αντίγραφο ασφαλείας του { -brand-product-name } από κάποια άλλη συσκευή για να ανακτήσετε τα δεδομένα σας.
 settings-data-backup-restore-header = Επαναφορά δεδομένων
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -271,6 +274,15 @@ other-backup-files-founds =
         [one] <b>Σημείωση:</b> Βρέθηκε { $numberOfOtherBackupsFound } ακόμα αρχείο αντιγράφου ασφαλείας
        *[other] <b>Σημείωση:</b> Βρέθηκαν { $numberOfOtherBackupsFound } ακόμα αρχεία αντιγράφων ασφαλείας
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } (δημιουργήθηκε στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στο { $machineName })
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Ανακτήθηκε από το { $deviceName } στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στις { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
