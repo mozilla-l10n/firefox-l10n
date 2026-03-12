@@ -72,13 +72,27 @@ contextual-manager-passwords-import-success-message = Ùr: { $added }, air ùrac
 #   $no_change (number) - Number of duplicate passwords
 #   $error (number) - Number of invalid passwords
 contextual-manager-passwords-import-success-message-2 = Ùr: { $added }, air ùrachadh: { $modified }, feadhainn dhùblaichte: { $no_change }, mearachdan: { $error }
+contextual-manager-passwords-import-detailed-report = Seall an aithisg mhionaideach
 contextual-manager-passwords-import-success-button = Deiseil
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = Cha b’ urrainn dhuinn na faclan-faire ion-phortadh
+    .message = Dèan cinnteach gum bi colbh airson làraichean-lìn, ainmean-chleachdaichean is faclan-faire san fhaidhle agad.
 contextual-manager-passwords-import-error-button-try-again = Feuch ris a-rithist
 contextual-manager-passwords-import-error-button-cancel = Sguir dheth
+contextual-manager-passwords-import-learn-more = Barrachd fiosrachaidh mu ion-phortadh fhaclan-faire
+contextual-manager-passwords-export-success-heading =
+    .heading = Chaidh na faclan-faire às-phortadh
 contextual-manager-passwords-export-success-button = Deiseil
+# Export passwords to file dialog
+contextual-manager-export-passwords-dialog-title = Airson na faclan-faire às-phortadh mar fhaidhle?
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = An dèidh dhut an às-phortadh, mholamaid dhut a sguabadh às airson ’s nach fhaic daoine eile a chleachdas an t-uidheam seo na faclan-faire agad.
 contextual-manager-export-passwords-dialog-confirm-button = Lean air adhart leis an às-phortadh
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = Às-phortaich na faclan-faire o { -brand-short-name }
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = faclan-faire
 contextual-manager-passwords-export-file-picker-export-button = Às-phortaich
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -86,6 +100,16 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] Sgrìobhainn CSV
        *[other] Faidhle CSV
+    }
+# Confirm the removal of all saved passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-title =
+    { $total ->
+        [1] Airson am facal-faire a thoirt air falbh?
+        [one] Airson an { $total } fhacal-faire a thoirt air falbh?
+        [two] Airson an { $total } fhacal-faire a thoirt air falbh?
+        [few] Airson na { $total } faclan-faire a thoirt air falbh?
+       *[other] Airson an { $total } facal-faire a thoirt air falbh?
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords
@@ -107,8 +131,66 @@ contextual-manager-passwords-remove-all-confirm-button =
         [few] Thoir air falbh na h-uile
        *[other] Thoir air falbh na h-uile
     }
+# Message to confirm the removal of all saved passwords when user DOES NOT HAVE SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message =
+    { $total ->
+        [1] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [one] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [two] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [few] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+       *[other] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+    }
+# Message for modal to confirm the removal of all saved passwords when user HAS SYNC
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-message-sync =
+    { $total ->
+        [1] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam sioncronaichte agad agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [one] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam sioncronaichte agad agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [two] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam sioncronaichte agad agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+        [few] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam sioncronaichte agad agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+       *[other] Bheir seo air falbh na faclan-faire a shàbhail thu ann am { -brand-short-name } air gach uidheam sioncronaichte agad agus caismeachd sam bith mu bhriseadh a-steach air dàta. Chan urrainn dhut seo a neo-dhèanamh.
+    }
+contextual-manager-passwords-origin-label = Làrach-lìn
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-username-label = Ainm-cleachdaiche
+    .data-after = Air lethbhreac a dhèanamh
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = Facal-faire
+    .data-after = Air lethbhreac a dhèanamh
+contextual-manager-passwords-radiogroup-label =
+    .aria-label = Criathraich na faclan-faire
+# Variables
+#   $url (string) - The url associated with the new login
+contextual-manager-passwords-add-password-success-heading =
+    .heading = Chaidh facal-faire airson { $url } a chur ris
+contextual-manager-passwords-add-password-success-button = Seall
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = Tha facal-faire agus ainm-cleachdaiche airson { $url } ann mar-thà
+contextual-manager-passwords-password-already-exists-error-button = Tadhail air an fhacal-fhaire
+contextual-manager-passwords-update-password-success-heading =
+    .heading = Chaidh am facal-faire a shàbhaladh
 contextual-manager-passwords-update-password-success-button = Deiseil
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = Chaidh an t-ainm-chleachdaiche a shàbhaladh
+# Message to confirm successful removal of a password/passwords.
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-delete-password-success-heading =
+    .heading =
+        { $total ->
+            [1] Chaidh am facal-faire a thoirt air falbh
+            [one] Chaidh am facal-faire a thoirt air falbh
+            [two] Chaidh na faclan-faire a thoirt air falbh
+            [few] Chaidh na faclan-faire a thoirt air falbh
+           *[other] Chaidh na faclan-faire a thoirt air falbh
+        }
 contextual-manager-passwords-delete-password-success-button = Deiseil
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = Na h-uile ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = A bheil thu airson am facal-faire a thoirt air falbh?
 # This message warns the user that deleting a login is permanent.
