@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = ਵੰਡੀ ਝਲਕ ਵਿੱਚ ਜੋੜਨ ਲਈ ਟੈਬ ਨੂੰ ਚੁਣੋ
+opentabs-search-text-box =
+    .placeholder = ਟੈਬਾਂ ਨੂੰ ਲੱਭੋ
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = “{ $query }” ਲਈ ਖੋਜ ਨਤੀਜੇ

@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = ਮੇਰੀਆਂ ਪਸੰਦਾਂ
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = …ਸੈਟਿੰਗਾਂ
 menu-application-services =
     .label = ਸਰਵਿਸਾਂ
 menu-application-hide-this =

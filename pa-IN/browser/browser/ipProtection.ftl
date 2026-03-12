@@ -92,3 +92,34 @@ ipprotection-connection-status-network-error-description = ਇੰਟਰਨੈੱ
 ipprotection-message-bandwidth-warning =
     .heading = ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜੇ ਹੋ
     .message = ਇਸ ਮਹੀਨੇ ਲਈ ਤੁਹਾਡੇ ਕੋਲ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ।
+confirmation-hint-ipprotection-navigated-to-excluded-site = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+
+## IP Protection Settings
+
+ip-protection-learn-more = ਹੋਰ ਜਾਣੋ
+ip-protection-site-exceptions =
+    .label = ਖਾਸ ਸਾਈਟ ਸੈਟਿੰਗਾਂ
+ip-protection-not-opted-in-button = ਸ਼ੁਰੂ ਕਰੀਏ
+ip-protection-autostart-private-checkbox =
+    .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = ਮਹੀਨੇਵਾਰ VPN ਡਾਟਾ
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = ਸਮਝੇ
+
+## IP Protection alerts
+
+vpn-paused-alert-title = VPN ਰੁਕਿਆ ਹੈ
+vpn-paused-alert-close-tabs-button = ਸਾਰੀਆਂ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
+vpn-paused-alert-continue-wo-vpn-button = VPN ਤੋਂ ਬਿਨਾਂ ਜਾਰੀ ਰੱਖੋ
+vpn-error-alert-title = ਇਸ ਵੇਲੇ VPN ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ।
+vpn-error-alert-body = ਬਾਅਦ ਵਿੱਚ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
