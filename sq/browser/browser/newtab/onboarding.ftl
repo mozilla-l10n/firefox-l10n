@@ -541,6 +541,7 @@ restore-from-backup-secondary-top-button = Riktheje që nga Kopjeruajtje
 restore-from-backup-title = Le ta rikthejmë { -brand-short-name }-in si e doni
 restore-from-backup-subtitle = Rimerrni krejt faqerojtësit tuaj, historikun dhe të tjera të dhëna, që t’i riktheheni shfletimit.
 restore-from-backup-secondary-button = Mos e rikthe
+multiple-backups-info-tile = <strong>U gjetën kartela të shumta kopjeruajtje.</strong> Është përzgjedhur kartela më e freskët. Riktheni profile të tjerë që nga <a data-l10n-name="settings-label">Rregullimet.</a>
 
 ## Restored from Backup spotlight
 
@@ -570,4 +571,10 @@ onboarding-personalization-motivation-other-option = Tjetër
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Ne i mbrojmë të dhënat tuaja dhe bllokojmë shoqëri për të mos ju spiunuar përmes klikimeve tuaja — automatikisht.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Jeni në duart të sigurta
+onboarding-refresh-import-subtitle = Sillni fjalëkalimet tuaja, faqerojtësit, historikun, etj.
+onboarding-refresh-import-title = Bëjeni { -brand-short-name }-in të ndiheni si në shtëpi
 onboarding-refresh-sync-title = Shkoni ngado. Njëkohësoni gjithçka.
