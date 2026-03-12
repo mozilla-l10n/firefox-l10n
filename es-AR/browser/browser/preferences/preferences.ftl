@@ -2549,6 +2549,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Los detectores de huellas digitales conocidos no están bloqueados
+    .description = Esto puede permitir que algunos rastreadores lo persigan sin cookies.
 security-privacy-issue-warning-third-party-cookies =
     .label = Cookies de terceros están habilitadas
     .description = Las cookies de terceros son usadas para el rastreo entre sitios web.
