@@ -691,6 +691,8 @@ pdfjs-views-manager-status-close-button =
     .title = Mbylle
 pdfjs-views-manager-status-close-button-label = Mbylle
 pdfjs-views-manager-paste-button-label = Ngjite
+pdfjs-toggle-views-manager-button1 =
+    .title = Administroni faqe
 
 ## Main menu for adding/removing signatures
 

@@ -2366,6 +2366,10 @@ security-privacy-status-problem-header = { -brand-short-name }-i rekomandon disa
 security-privacy-status-ok-label = Mbrojtje e Thelluar Nga Gjurmimi është aktive
 security-privacy-status-problem-label = Gjetëm rregullime që prekin mbrojtjen tuaj
 security-privacy-status-problem-helper-label = Shihni probleme
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Keni <a data-l10n-name="strict-tracking-protection">mbrojtje strikte</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Keni <a data-l10n-name="custom-tracking-protection">mbrojtje të përshtatur</a>
 security-privacy-status-up-to-date-label = Keni versionin më të ri, më të siguruar të { -brand-short-name }-it
 security-privacy-status-update-needed-label = Ka gati një version të ri të { -brand-short-name }-it.
 security-privacy-status-update-error-label = { -brand-short-name } po ka probleme me përditësimin e vetes
@@ -2430,3 +2434,18 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Krijues shenjash gishtash të dyshuar
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Krijues shenjash gishtash të dyshuar
+
+## Warnings section
+
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookie-t e palëve të treta janë të çaktivizuara.
+    .description = Cookie-t e palëve të treta përdoren për t’ju ndjekur nëpër sajte.
+security-privacy-issue-warning-password-manager =
+    .label = Përgjegjësi i fjalëkalime është i çaktivizuar
+    .description = Përgjegjësit e fjalëkalimeve ju ndihmojnë të depozitoni fjalëkalime të fuqishëm për llogaritë tuaja.
+security-privacy-issue-warning-popup-blocker =
+    .label = Bllokuesi i flluskave është i çaktivizuar
+    .description = Flluskat të ndërpresin punën dhe mund të jenë potencialisht të dëmshme.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Vetëformësimi i ndërmjetësit është i aktivizuar
+    .description = Vetëformësimi i ndërmjetësit mund të lejonte rrjete jo të besueshëm të mbikëqyrin veprimtarinë tuaj.

@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Service Workers
     .alt = Ikonë Service Workers
     .title = Service Workers
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Historik Sesionesh
+    .alt = Ikonë Historiku Sesionesh
+    .title = Historik Sesionesh
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Shfaq të dhëna historiku sesionesh
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikonë sinjalizimi

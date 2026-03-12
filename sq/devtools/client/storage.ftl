@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Shtoni Objekt
+storage-delete-all-button =
+    .title = Fshiji Krejt
 # Refresh button title
 storage-refresh-button =
     .title = Rifresko Objekte

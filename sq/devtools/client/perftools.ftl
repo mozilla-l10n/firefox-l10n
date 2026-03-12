@@ -26,6 +26,7 @@ perftools-heading-local-build = Montim vendor
 
 perftools-description-intro = Regjistrimi vë në punë <a>profiler.firefox.com</a> në një skedë të re. Krejt të dhënat depozitohen lokalisht, por mund të zgjidhni t’i ngarkoni diku, për t’ua dhënë të tjerëve.
 perftools-description-local-build = Nëse po krijoni profil të një montimi që e keni përpiluar ju vetë, në këtë makinë, ju lutemi, shtoni te lista më poshtë objdir-in e montimit tuaj, që të mund të përdoret për të kërkuar informacion simbolesh.
+perftools-pick-local-build-directory = Zgjidhni drejtori montimesh
 
 ## The controls for the interval at which the profiler samples the code.
 

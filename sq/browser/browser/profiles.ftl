@@ -66,6 +66,8 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Kopja juaj e { $profilename } është gati për ta përshtatur
 copied-profile-page-header-description = Kopjuam në një profil të ri të dhënat tuaja dhe rregullimet. Tani jepini një emër, zgjidhni një pamje dhe bëjeni tuajin.
+restored-profile-page-header = Përshtatni profilin tuaj të rikthyer
+restored-profile-page-header-description = Çdo profil mban ndarazi nga profilet tuaj të tjerë historikun e vet unik të shfletimeve dhe rregullimet. Plus, mbrojtjet e fuqishme të privatësisë nga { -brand-short-name }-i janë aktive, si parazgjedhje.
 restored-profile-page-learn-more = Mësoni më tepër
 profile-window-title-2 = { -brand-short-name } - Zgjidhni një profil
 profile-window-logo =
@@ -88,6 +90,9 @@ delete-profile-bookmarks = Faqerojtës
 delete-profile-history = Historik (faqe të vizituara, “cookies”, të dhëna sajtesh)
 delete-profile-autofill = Të dhëna vetëplotësimesh (adresa, metoda pagesash)
 delete-profile-logins = Fjalëkalime
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Fshije profilin “{ $profilename }”
 
 ##
 

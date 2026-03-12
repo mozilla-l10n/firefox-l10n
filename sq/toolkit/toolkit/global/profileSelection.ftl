@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Përdore profilin e përzgjedhur pa pyetur gjatë nisjes
     .accesskey = P
+profile-has-selectable-profiles-title = S’mund të fshihet një profil që është i lidhur me profile të tjerë
