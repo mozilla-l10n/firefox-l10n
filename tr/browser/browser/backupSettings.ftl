@@ -57,6 +57,12 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dosya adı: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Verilerimi geri yükle
+    .description = { -brand-product-name } verilerinizi son yedeklendikleri zamandan geri getirin.
+settings-data-backup-restore-scheduled-off =
+    .label = Verilerimi geri yükle
+    .description = Başka bir cihazdaki { -brand-product-name } yedeğinizi kullanarak verilerinizi geri getirin.
 settings-data-backup-restore-header = Verilerinizi geri yükleyin
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -268,6 +274,15 @@ other-backup-files-founds =
         [one] <b>Not:</b> { $numberOfOtherBackupsFound } yedek dosyası daha bulundu
        *[other] <b>Not:</b> { $numberOfOtherBackupsFound } yedek dosyası daha bulundu
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata = { $profileName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } tarihinde { $machineName } adlı cihazda oluşturuldu
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = { DATETIME($date, hour: "2-digit", minute: "2-digit") } tarihinde { $deviceName } adlı cihazdan geri yüklendi
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
