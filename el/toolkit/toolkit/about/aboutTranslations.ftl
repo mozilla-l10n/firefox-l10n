@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Η μετάφραση δεν είναι διαθέσιμη σε αυτήν τη συσκευή.
     .message = Δοκιμάστε να μεταβείτε σε μια άλλη συσκευή.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Οι μεταφράσεις δεν είναι διαθέσιμες για τον οργανισμό σας
+    .message = Αυτή είναι μια πολιτική που έχει οριστεί από τον διαχειριστή σας.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Για τη μετάφραση κειμένου, αναιρέστε τον αποκλεισμό αυτής της λειτουργίας
+    .message = Φαίνεται πως ενημερώσατε τις επιλογές ελέγχου ΤΝ έτσι, ώστε να αποκλείεται αυτή η λειτουργία. Αναιρέστε τον αποκλεισμό ανά πάσα στιγμή για να ξεκινήσετε να τη χρησιμοποιείτε.
+about-translations-feature-blocked-unblock-button = Άρση αποκλεισμού
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Δεν ήταν δυνατή η φόρτωση των γλωσσών

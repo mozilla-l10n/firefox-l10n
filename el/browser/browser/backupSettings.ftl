@@ -19,6 +19,9 @@ backup-folder-name = Επαναφορά δεδομένων του { -brand-produ
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
+settings-data-backup-header2 =
+    .label = Αντίγραφο ασφαλείας
+    .description = Αυτόματη προστασία των σελιδοδεικτών, του ιστορικού και των υπόλοιπων δεδομένων σας.
 settings-data-backup-header = Αντίγραφο ασφαλείας
 settings-data-backup-toggle = Διαχείριση αντιγράφου ασφαλείας
 settings-data-backup-toggle-on2 =

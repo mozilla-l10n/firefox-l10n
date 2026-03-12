@@ -64,6 +64,8 @@ about-processes-unknown-process = Άλλο: { $type } ({ $pid })
 
 about-processes-web-isolated-property-private = ιδιωτική
 about-processes-web-isolated-property-serviceworker = serviceworker
+about-processes-web-isolated-property-jit-disabled = JIT ανενεργό
+about-processes-web-isolated-property-with-coop-coep = απομονωμένο cross-origin
 
 ## Isolated process names
 ## Variables:

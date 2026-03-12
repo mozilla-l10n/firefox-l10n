@@ -149,19 +149,61 @@ ip-protection-autostart-checkbox =
     .label = Kur hap { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Në dritare private
+ip-protection-vpn-upgrade-link =
+    .label = Merrni edhe më tepër mbrojtje jashtë { -brand-short-name }-it, me { -mozilla-vpn-brand-name }
+    .description = Zgjidhni vendndodhje vetjake VPN dhe shtoni mbrojtje te krejt aplikacionet tuaja për deri në pesë pajisje, qoftë kur jeni në shtëpi, apo në Wi-Fi publik.
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Administroni rregullime sajti
+ip-protection-exclusions-desc = Përdor VPN për krejt sajtet, hiq ata në këtë listë. Shtoni këtu një sajt, ose duke hapur VPN-në.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = Të dhëna VPN mujore
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = Edhe { $usageLeft } GB nga { $maxUsage } GB këtë muaj
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Edhe { $usageLeft } nga { $maxUsage } GB
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = Edhe { $usageLeft } MB nga { $maxUsage } GB këtë muaj
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Edhe { $usageLeft } MB nga { $maxUsage } GB
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi do të rifillohet muajin që vjen.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Rikthehet te { $maxUsage } GB ditën e parë të çdo muaji.
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, të rifreskuara dhe gati për t’u përdorur
+ipprotection-bandwidth-reset-text = Hapni VPN-në për një shtytje më tej të privatësisë, falas çdo muaj.
 ipprotection-bandwidth-reset-button = E mora vesh
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Ky sajt mund të mos punojë me një VPN.</strong> Provoni të bëni hyrjen në llogari, ose të mbyllni VPN-në, teksa përdorni këtë sajt.
+ipp-activator-breakage-turn-off-warning = <strong>Ky sajt mund të mos punojë me një VPN.</strong> Provoni të mbyllni VPN-në, teksa përdorni këtë sajt.
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN-ja u ndal
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Keni përdorur krejt { $maxUsage } GB të të dhënave tuaja VPN. Përdorimi i VPN-së do të rifillohet muajin që vjen.
 vpn-paused-alert-close-tabs-button = Mbylli krejt skedat
 vpn-paused-alert-continue-wo-vpn-button = Vazhdo pa VPN
 vpn-error-alert-title = VPN-ja s’është duke funksionuar.
