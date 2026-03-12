@@ -181,6 +181,8 @@ about-glean-label-for-filter-metrics = Filtër
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Kjo do filtrojë tabelën më poshtë bazuar në kategori, emra, lloje dhe vlera (nëse vlera është një lloj i thjeshtë).
 about-glean-button-load-all = Ngarko Krejt Vlerat
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = Eksporto të Dhëna
 about-glean-button-load-value = Ngarko
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Dokumentim

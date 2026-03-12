@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Përkthimi s’është i mundshëm në këtë pajisje.
     .message = Provoni të kaloni në një pajisje tjetër.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Përkthimet s’janë të përdorshme për entin tuaj
+    .message = Ky është një rregull i vendosur nga përgjegjësi juaj.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Që të përkthehet tekst, shkyçeni këtë veçori
+    .message = Duket sikur keni përditësuar kontrollet IA për ta bllokuar këtë veçori. Që të filloni ta përdorni, zhbllokojeni.
+about-translations-feature-blocked-unblock-button = Zhbllokoje
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = S’u ngarkuan dot gjuhë
@@ -25,6 +34,15 @@ about-translations-language-load-error-message =
     .heading = S’u ngarkuan dot gjuhë.
     .message = Kontrolloni lidhjen tuaj internet dhe riprovoni.
 about-translations-language-load-error-button = Riprovoni
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Pati një problem me përkthimin
+about-translations-translation-error-subtext = Ju lutemi, riprovoni.
+about-translations-translation-error-button = Riprovoni
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Na ndjeni, s’mbulojmë ende { $language }
+about-translations-detected-language-unsupported-heading-unknown = Na ndjeni, s’e mbulojmë ende këtë gjuhë
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Shtoni tekst të përkthehet

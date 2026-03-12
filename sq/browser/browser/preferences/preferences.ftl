@@ -2291,6 +2291,14 @@ preferences-doh-manage-exceptions2 =
 preferences-doh-radio-default =
     .label = Parazgjedhje
     .description = Përdor DNS të siguruar në rajone ku është e mundshme
+preferences-doh-radio-custom =
+    .label = Vetjake
+    .description = Përdor përherë DNS të siguruar me kontroll mbi shërbimin tuaj internet dhe sjellje rrugëdalje nga halli
+preferences-doh-radio-off =
+    .label = Off
+    .description = Përdorni ftilluesin tuaj parazgjedhje DNS
+preferences-doh-fallback-label =
+    .label = Sinjalizomë përherë, nëse s’ka DNS të siguruar
 preferences-doh-status-item-off =
     .message = DNS përmes HTTPS-je është e çaktivizuar
 # Variables:
@@ -2302,6 +2310,28 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = DNS përmes HTTPS-je s’po funksionon, ngaqë morëm një URL të pavlefshme ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS përmes HTTPS-je po përdor shërbimin { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS përmes HTTPS-je s’po funksionon, ngaqë hasëm një gabim ({ $reason }) teksa provohej të përdorej shërbimi vendor { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS përmes HTTPS-je po përdor shërbimin vendor { $name }
+preferences-doh-select-resolver-label =
+    .label = Zgjidhni furnizues:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Përdor këtë shërbim për ftillim DNS-je përmesr HTTPS-je
+preferences-doh-custom-provider-label =
+    .aria-label = Jepni një URL shërbimi të përshtatur
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
 
@@ -2330,6 +2360,9 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name }-i po bën roje
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name }-i rekomandon disa përmirësime sigurie
 security-privacy-status-ok-label = Mbrojtje e Thelluar Nga Gjurmimi është aktive
 security-privacy-status-problem-label = Gjetëm rregullime që prekin mbrojtjen tuaj
 security-privacy-status-problem-helper-label = Shihni probleme
@@ -2349,12 +2382,29 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = Standarde (parazgjedhje)
+    .description = Mbrojtje të fuqishme, të qëndrueshme, që funksionojnë rrjedhshëm me shumicën e sajteve.
+preferences-etp-level-custom =
+    .label = Vetjake
+    .description = Zgjidhni cilat mbrojtje të aktivizohen apo çaktivizohen.
 preferences-etp-status-advanced-button =
     .label = Rregullime të mëtejshme
+preferences-etp-header =
+    .heading = Mbrojtje e Thelluar Nga Gjurmimi
 preferences-etp-customize-button =
     .label = Përshtatni mbrojtje nga gjurmimi
+preferences-etp-reload-tabs-hint =
+    .message = Që të zbatohen këto ndryshime, ringarkoni skedat tuaja.
 preferences-etp-reload-tabs-hint-button =
     .label = Ringarko krejt skedat
+preferences-etp-rfp-warning-message =
+    .message = Po përdorni Resist Fingerprinting (RFP), që zëvendëson disa nga rregullimet e { -brand-short-name }-it për mbrojtje ndaj krijimi shenjash gishtash. Kjo mund të sjellë prishjen e funksionimit të disa sajteve.
+preferences-etp-manage-exceptions-button =
+    .label = Administroni përjashtime
+    .description = Administroni sajte ku Mbrojtja e Thelluar Nga Gjurmimet është e çaktivizuar.
+preferences-etp-customize-header =
+    .heading = Përshtatni mbrojtje nga gjurmimi
 preferences-etp-reset-standard-button =
     .label = Riktheje te standarde
 preferences-etp-reset-strict-button =
