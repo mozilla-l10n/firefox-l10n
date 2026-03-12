@@ -138,8 +138,11 @@ restore-from-backup-confirm-button = Geri yükle ve yeniden başlat
 restore-from-backup-restoring-button = Geri yükleniyor…
 restore-from-backup-type-group-label =
     .label = Mevcut profil değiştirilsin mi?
+restore-from-backup-type-replace =
+    .label = Tüm verileri bu yedekle değiştir
 restore-from-backup-type-add =
     .label = Verileri sakla ve yeni profil oluştur
+restore-from-backup-profiles-disabled-message = Bu işlem, mevcut { -brand-short-name } verilerinizin tamamını yedek verilerinizle değiştirecektir.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
