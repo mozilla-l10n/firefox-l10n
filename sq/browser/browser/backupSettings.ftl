@@ -19,6 +19,9 @@ backup-folder-name = Rikthe { -brand-product-name }-in
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Kopjeruajtje { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Kopjeruajtje
+    .description = Mbroni automatikisht faqerojtësit tuaj, historikun dhe të dhëna të tjera.
 settings-data-backup-header = Kopjeruajtje
 settings-data-backup-toggle = Administroni kopjeruajtje
 settings-data-backup-toggle-on2 =
@@ -57,6 +60,9 @@ settings-data-backup-last-backup-filename = Emër kartele: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = Riktheni të dhënat tuaja
     .description = Rktheni të dhënat tuaja { -brand-product-name } prej herës së fundit që qenë kopjeruar.
+settings-data-backup-restore-scheduled-off =
+    .label = Riktheni të dhënat tuaja
+    .description = Përdorni një kopjeruajtje { -brand-product-name } nga një tjetër pajisje, që të riktheni të dhënat tuaja.
 settings-data-backup-restore-header = Riktheni të dhënat tuaja
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -142,6 +148,7 @@ restore-from-backup-type-replace =
     .label = Zëvendëso krejt të dhënat me këtë kopjeruajtje
 restore-from-backup-type-add =
     .label = Mbaji të dhënat dhe krijo profil të ri
+restore-from-backup-profiles-disabled-message = Kjo do të zëvendësojë krejt të dhënat tuaja të tanishme { -brand-short-name } me kopjeruajtjen tuaj.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile

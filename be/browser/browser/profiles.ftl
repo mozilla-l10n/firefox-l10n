@@ -90,6 +90,9 @@ delete-profile-bookmarks = Закладкі
 delete-profile-history = Гісторыю (наведаныя старонкі, кукі, звесткі сайтаў)
 delete-profile-autofill = Звесткі аўтазапаўнення (адрасы, спосабы аплаты)
 delete-profile-logins = Паролі
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Выдаліць профіль «{ $profilename }»
 
 ##
 
