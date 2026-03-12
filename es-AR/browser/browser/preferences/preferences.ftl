@@ -2096,6 +2096,9 @@ permissions-speaker2 =
     .label = Parlante
 permissions-notification2 =
     .label = Notificaciones
+permissions-header3 =
+    .label = Permisos
+    .description = Administrar cuáles sitios pueden acceder, controlar o desencadenar.
 
 ## Privacy Section - Data Collection
 
