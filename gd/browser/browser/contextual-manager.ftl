@@ -191,6 +191,9 @@ contextual-manager-passwords-delete-password-success-button = Deiseil
 # Radiobutton label to display total number of passwords
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-radiobutton-all = Na h-uile ({ $total })
+# Radiobutton label to display total number of alerts
+#   $total (number) - Total number of alerts
+contextual-manager-passwords-radiobutton-alerts = Caismeachdan ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = A bheil thu airson am facal-faire a thoirt air falbh?
 # This message warns the user that deleting a login is permanent.
@@ -324,3 +327,28 @@ contextual-manager-passwords-no-passwords-found-message = Cha deach facal-faire 
 
 # This string encourages the user to save their passwords in Firefox (the "safe spot").
 contextual-manager-passwords-no-passwords-header = Sàbhail na faclan-faire agad ann an àite sàbhailte.
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Bidh gach facal-faire air a chrioptachadh is cumaidh sinn sùil airson briseadh a-steach air dàta agus innsidh sinn dhut ma chì sinn fear agadsa ann.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Cuir ris iad an-seo airson toiseach-tòiseachaidh.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = Cuir ris de làimh
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = Airson a dhùnadh gun sàbhaladh?
+    .message = Cha tèid na h-atharraichean agad a shàbhaladh.
+contextual-manager-passwords-discard-changes-close-button = Dùin
+contextual-manager-passwords-discard-changes-go-back-button = Air ais
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Tha, thoiribh air falbh na faclan-faire
+        [one] Tha, thoiribh air falbh na faclan-faire
+        [two] Tha, thoiribh air falbh na faclan-faire
+        [few] Tha, thoiribh air falbh na faclan-faire
+       *[other] Tha, thoiribh air falbh na faclan-faire
+    }
