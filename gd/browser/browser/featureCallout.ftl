@@ -63,6 +63,17 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = Stiùirich na roghainnean
 
+## Bookmarks toolbar callout strings
+
+bookmarks-toolbar-callout-2a-subtitle = Slaod is leig às tabaichean an-seo airson barrachd làraichean a chumail deas ri do làimh.
+bookmarks-toolbar-callout-2a-primary-button-label = Tha mi agaibh
+# Reverts the bookmarks toolbar to the default setting
+bookmarks-toolbar-callout-2a-secondary-button-label = Falaich am bàr-inneal
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = Airson bàr-inneal nan comharran-lìn a chumail fosgailte?
+bookmarks-toolbar-callout-2b-subtitle = ’S urrainn dhut làraichean eile air an tadhal thu gu tric a chur ris. Cha leig thu leas ach taba a shlaodadh is a leigeil às airson an fheadhainn air an tadhail thu gu tric a chumail deas ri làimh.
+bookmarks-toolbar-callout-2b-primary-button-label = Cùm fosgailte
+
 ## Sidebar Strings
 
 sidebar-button-callout-title = Seall ainmean nan tabaichean air a’ bhàr-taoibh
@@ -71,6 +82,14 @@ sidebar-button-callout-subtitle = Cleachd putan a’ bhàr-taoibh airson am bàr
 ## Sidebar Vertical Tabs Strings
 
 vertical-tabs-callout-1-subtitle = Feuch a’ cho-dhealbhachd ùr againn leis na tabaichean inghearach is faic na th’ ann an liosta nan tabaichean agad ann am priobadh na sùla. Thuirt an fheadhainn a chuir a’ cho-dhealbhachd seo fo dheuchainn gun robh seo a’ toirt rian nas fheàrr air cùisean. ’S urrainn dhut an tè eile a thilleadh uair sam bith.
+vertical-tabs-callout-1-cta-button = Feuch na tabaichean inghearach
+vertical-tabs-callout-2-cta-button = Feuch an-dràsta e
+vertical-tabs-callout-2-title = Càrn mòr thabaichean agad a ghnàth? Feuch na tabaichean inghearach.
+vertical-tabs-callout-2-subtitle = Nì a’ cho-dhealbhachd seo furasta e na th’ agad de thabaichean fhaicinn sa bhad. Agus is urrainn dhut an leud a chur air gleus ach am faic thu barrachd no nas lugha de thiotalan nan tabaichean agad.
+
+## Sidebar Vertical Tabs Pinning Strings
+
+sidebar-pins-callout-title = A bheil thu a’ call tabaichean cudromach?
 
 ## Sidebar Callout Survey Strings
 
@@ -83,3 +102,6 @@ sidebar-callout-survey-neutral = Neodrach
 sidebar-callout-survey-dissatisfied-2 = Mì-riaraichte
 sidebar-callout-survey-very-dissatisfied-2 = Glè mhì-riaraichte
 sidebar-callout-survey-dont-use-it = Cha chleachd mi e
+sidebar-callout-survey-productive-question =
+    Dè cho mòr ’s a tha thu ag aontachadh no a’ dol an aghaidh na leanas:<br/>
+    “Bidh mi nas tarbhaiche le bàr-taoibh { -brand-short-name }”
