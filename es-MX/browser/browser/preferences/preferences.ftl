@@ -1008,6 +1008,14 @@ suggestions-addressbar-settings-generic2 = Cambiar la configuración para otras 
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque has configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header2 = Atajos de búsqueda
 search-one-click-desc = Elegir los motores de búsqueda alternativos que aparecen debajo de la barra de direcciones y en la barra de búsqueda cuando comienzas a escribir una palabra.
+search-edit-engine-2 =
+    .title = Editar motor de búsqueda
+search-delete-engine =
+    .title = Eliminar motor de búsqueda
+search-enable-engine =
+    .title = Habilitar motor de búsqueda
+search-outlink-to-extensions-page =
+    .title = Administrar extensiones y temas
 search-choose-engine-column =
     .label = Motor de búsqueda
 search-choose-keyword-column =
@@ -1597,6 +1605,8 @@ history-section-header =
     .description = Elige lo que quieres que { -brand-short-name } recuerde cuando cierres el navegador.
 history-group =
     .label = Historial
+history-remember-option-all2 =
+    .label = Recordar el historial
 
 ## Privacy Section - Site Data
 
@@ -2286,6 +2296,7 @@ preferences-ai-controls-state-description-enabled = <strong>Habilitada:</strong>
 preferences-ai-controls-state-description-blocked = <strong>Bloqueada:</strong> No verás ni podrás usar la funcionalidad. Para la IA en el dispositivo, se eliminarán los modelos ya descargados.
 preferences-ai-controls-block-confirmation-heading = ¿Bloquear las mejoras de la IA?
 preferences-ai-controls-block-confirmation-description = No verás mejoras de IA nuevas ni actuales en { -brand-short-name }, ni ventanas emergentes sobre ellas. Después, puedes desbloquear lo que quieras seguir usando.
+preferences-ai-controls-block-confirmation-features-start = ¿Qué se bloqueará?
 preferences-ai-controls-block-confirmation-translations = Traducciones
 preferences-ai-controls-block-confirmation-pdfjs = Texto alternativo de la imagen en el visor de PDF de { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugerencias de grupos de pestañas
@@ -2304,3 +2315,18 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Descartar
     .aria-label = Descartar
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Permitir todas las cookies
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Contenido de rastreo
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Contenido de rastreo
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Criptomineros
