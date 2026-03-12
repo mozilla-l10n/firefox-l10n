@@ -19,6 +19,9 @@ backup-folder-name = 恢复 { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
+settings-data-backup-header2 =
+    .label = 备份
+    .description = 自动保护您的书签、历史记录等数据。
 settings-data-backup-header = 备份
 settings-data-backup-toggle = 管理备份
 settings-data-backup-toggle-on2 =
@@ -108,6 +111,9 @@ turn-off-scheduled-backups-confirm-button = 关闭并删除备份
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = 恢复数据
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = 恢复的内容
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
