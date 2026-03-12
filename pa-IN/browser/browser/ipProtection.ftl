@@ -41,3 +41,54 @@ ipprotection-site-settings-callout-button = ਸਮਝੇ
 ## Panel
 
 unauthenticated-vpn-title = { -brand-product-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
+unauthenticated-hide-location-message-2 = { -brand-product-name } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ।
+unauthenticated-hide-location-message = { -brand-product-name } ਵਿੱਚ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ ਅਤੇ ਵਧੀਕ ਇੰਕ੍ਰਿਪਸ਼ਨ ਵਰਤੋਂ।
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = ਹਰ ਮਹੀਨੇ { $maxUsage } GB ਮੁਫ਼ਤ VPN ਡਾਟਾ ਲਵੋ।
+unauthenticated-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
+site-exclusion-toggle-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
+site-exclusion-toggle-enabled =
+    .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਚਾਲੂ ਹੈ
+site-exclusion-toggle-disabled =
+    .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+ipprotection-settings-link =
+    .label = ਸੈਟਿੰਗਾਂ
+
+## Status card
+
+ipprotection-connection-status-connected = VPN ਚਾਲੂ ਹੈ
+ipprotection-connection-status-disconnected = VPN ਬੰਦ ਹੈ
+ipprotection-connection-status-excluded = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+ipprotection-connection-status-connecting = …VPN ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = VPN ਬੰਦ ਕਰੋ
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = VPN ਨੂੰ ਹਰ ਥਾਂ ਲਈ ਬੰਦ ਕਰੋ
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = VPN ਚਾਲੂ ਕਰੋ
+# Button while VPN is connecting
+ipprotection-button-connecting = …ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN ਰੁਕਿਆ ਹੈ
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = ਤੁਸੀਂ ਆਪਣੇ VPN ਡਾਟੇ ਲਈ ਸਾਰਾ { $maxUsage } GB ਵਰਤ ਚੁੱਕੇ ਹੋ। ਬਾਕੀ ਡਾਟੇ ਲਈ ਪਹੁੰਚ ਅਗਲੇ ਮਹੀਨੇ ਹੋਵੇਗੀ।
+upgrade-vpn-title = ਬਰਾਊਜ਼ਰ ਤੋਂ ਪਾਰ ਵੀ ਵਧੀਕ ਸੁਰੱਖਿਆ ਲਵੋ
+upgrade-vpn-button = { -mozilla-vpn-brand-name } ਨੂੰ ਅਜ਼ਮਾਓ
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+ipprotection-connection-status-generic-error-description = ਕੁਝ ਕੁ ਮਿੰਟਾਂ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
+ipprotection-connection-status-network-error-title = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
+ipprotection-connection-status-network-error-description = ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰੋ ਅਤੇ ਫੇਰ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜੇ ਹੋ
+    .message = ਇਸ ਮਹੀਨੇ ਲਈ ਤੁਹਾਡੇ ਕੋਲ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ।
