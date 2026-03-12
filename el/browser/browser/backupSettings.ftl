@@ -21,7 +21,7 @@ backup-folder-name = Επαναφορά δεδομένων του { -brand-produ
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
     .label = Αντίγραφο ασφαλείας
-    .description = Αυτόματη προστασία των σελιδοδεικτών, του ιστορικού και των υπόλοιπων δεδομένων σας.
+    .description = Ενεργοποιήστε την αυτόματη προστασία των σελιδοδεικτών, του ιστορικού και των υπόλοιπων δεδομένων σας.
 settings-data-backup-header = Αντίγραφο ασφαλείας
 settings-data-backup-toggle = Διαχείριση αντιγράφου ασφαλείας
 settings-data-backup-toggle-on2 =
@@ -51,9 +51,15 @@ settings-data-backup-last-backup-location-show-in-folder = Εμφάνιση στ
 settings-data-backup-last-backup-location-edit = Επεξεργασία…
 settings-data-create-backup-error = Προέκυψε σφάλμα κατά τη δημιουργία του αντιγράφου ασφαλείας στις { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Δημιουργήστε αντίγραφα ασφαλείας για τους κωδικούς πρόσβασης και τις μεθόδους πληρωμής σας, προστατεύοντας όλα τα δεδομένα σας με κρυπτογράφηση.
+settings-data-toggle-encryption-label2 =
+    .label = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
+    .description = Δημιουργία αντιγράφων ασφαλείας για τους κωδικούς πρόσβασης και τις μεθόδους πληρωμής σας, ενώ όλα τα δεδομένα σας προστατεύονται με κρυπτογράφηση.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Όνομα αρχείου: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Ανάκτηση δεδομένων
+    .description = Ανακτήστε τα δεδομένα του { -brand-product-name } σας από το τελευταίο αντίγραφο ασφαλείας.
 settings-data-backup-restore-header = Επαναφορά δεδομένων
 
 ## These strings are shown under the header if scheduled backups are disabled.
