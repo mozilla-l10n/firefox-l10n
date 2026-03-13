@@ -1166,6 +1166,17 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Contrasignos
     .tooltiptext = Vide e gere tu contrasignos salvate
+qrcode-copy-button =
+    .label = Copiar
+qrcode-save-button =
+    .label = Salvar
+qrcode-save-filename = qrcode.png
+qrcode-window-title = Codice QR
+qrcode-dialog-title = Codice QR
+qrcode-image =
+    .aria-label = Codice QR
+qrcode-close-button =
+    .aria-label = Clauder
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

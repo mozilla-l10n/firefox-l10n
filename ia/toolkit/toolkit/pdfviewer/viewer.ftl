@@ -719,10 +719,17 @@ pdfjs-views-manager-status-warning-copy-label = Impossibile copiar. Refresca le 
 pdfjs-views-manager-status-warning-delete-label = Impossibile deler. Refresca le pagina e retenta.
 pdfjs-views-manager-status-warning-save-label = Impossibile salvar. Refresca le pagina e retenta.
 pdfjs-views-manager-status-undo-button-label = Disfacer
+pdfjs-views-manager-status-done-button-label = Facite
 pdfjs-views-manager-status-close-button =
     .title = Clauder
 pdfjs-views-manager-status-close-button-label = Clauder
 pdfjs-views-manager-paste-button-label = Collar
+pdfjs-views-manager-paste-button-before =
+    .title = Collar ante le prime pagina
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Colla post pagina { $page }
 pdfjs-toggle-views-manager-button1 =
     .title = Gerer paginas
 
