@@ -111,6 +111,12 @@ ipprotection-bandwidth-upgrade-text = Zgjidhni një vendndodhje VPN dhe shtoni m
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Po i afroheni kufirit tuaj VPN.</strong> Keni edhe { $usageLeft } GB. Të dhënat tuaja do të zerohen në fillim të muajit pasues.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Jeni thuajse pa të dhëna VPN.</strong> Keni edhe { $usageLeft } GB. Pasi ta përdorni të tërën, VPN-ja juaj do të ndalet, deri sa të dhënat të zerohen në  ditën e parë të muajit pasues.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Jeni thuajse pa të dhëna VPN.</strong> Keni edhe { $usageLeft } MB. Pasi ta përdorni të tërën, VPN-ja juaj do të ndalet, deri sa të dhënat të zerohen në  will pause until your data resets on the first of next month.
 
 ## IP Protection Settings
 
@@ -176,6 +182,7 @@ ip-protection-bandwidth-hit-for-the-month = Keni përdorur krejt { $maxUsage } G
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Rikthehet te { $maxUsage } GB ditën e parë të çdo muaji.
+ip-protection-bandwidth-header-1 = Kufi mujor të dhënash
 
 ## IP Protection bandwidth reset callout
 

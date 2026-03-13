@@ -580,4 +580,8 @@ onboarding-refresh-import-title = Bëjeni { -brand-short-name }-in të ndiheni s
 onboarding-refresh-onboarding-addons-subtitle = Zgjerimet janë aplikacione të vockla që ju lejojnë të përshtatni { -brand-short-name }-in. Mund të fuqizojnë privatësinë tuaj, të zgjerojnë prodhimtarinë, të ndryshojnë mënyrën se si duket { -brand-short-name }-i, e plot të tjera.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Jepni një përforcim shfletimit tuaj
+onboarding-refresh-sync-subtitle = Merrni faqerojtës, fjalëkalime, etj kudo ku keni bërë hyrjen në { -brand-short-name }. Plus, të dhënat tuaja janë të fshehtëzuara, ndaj mund t’i shihni vetëm ju.
 onboarding-refresh-sync-title = Shkoni ngado. Njëkohësoni gjithçka.
+onboarding-refresh-gratitude-subtitle = Faleminderit që përdorni { -brand-short-name }-in, i vetmi shfletues i rëndësishëm që ka pas një ent jofitimprurës. Me përkrahjen tuaj, po punojmë për ta bërë internetin më të hapur dhe të përdorshëm për këdo.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } ju mbron krahët
