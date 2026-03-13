@@ -24,8 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
-ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn"> VPN adeiledig</a> i guddio'ch lleoliad a diogelu eich data.
-ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn"> VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
+ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-button-primary = Nesaf
 ipprotection-feature-introduction-button-secondary-not-now = Nid nawr
 ipprotection-feature-introduction-button-secondary-no-thanks = Dim diolch
@@ -130,7 +130,7 @@ ip-protection-site-exceptions =
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
-    .message = Cuddiwch eich lleoliad tra'n pori gyda { -brand-short-name }. Cewch { $maxUsage } GB o ddata bob mis am ddim.
+    .message = Cuddiwch eich lleoliad wrth bori gyda { -brand-short-name }. Cewch { $maxUsage } GB o ddata bob mis am ddim.
 ip-protection-not-opted-in-button = Cychwyn arni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
