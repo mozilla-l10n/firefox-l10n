@@ -22,3 +22,14 @@ felt-browser-error-connection = Impossible de se connecter à la console. Merci 
 ## Network error details.
 
 felt-error-network = Erreur réseau inconnue
+
+## Updates messages and related errors messages
+
+felt-updates-title = Bonjour
+felt-updates-checking = Recherche de mises à jour…
+felt-updates-application = Application des mises à jour…
+felt-updates-uptodate = { -brand-short-name } est à jour
+felt-updates-error-messages = Une erreur est survenue lors de l’application des mises à jour…
+felt-error-contact-admin = Veuillez contacter votre administrateur.
+felt-error-unsupported-system-contact-admin = Votre système actuel ne prend pas en charge cette nouvelle version. Veuillez contacter votre administrateur.
+felt-error-checking-failed-contact-admin = Une erreur inattendue s’est produite lors de la recherche de mise à jour. Veuillez contacter votre administrateur.

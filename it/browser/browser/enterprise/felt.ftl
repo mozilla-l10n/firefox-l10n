@@ -22,3 +22,14 @@ felt-browser-error-connection = Impossibile connettersi alla console. Contattare
 ## Network error details.
 
 felt-error-network = Errore di rete sconosciuto
+
+## Updates messages and related errors messages
+
+felt-updates-title = Buongiorno
+felt-updates-checking = Ricerca aggiornamenti…
+felt-updates-application = Applicazione aggiornamenti…
+felt-updates-uptodate = { -brand-short-name } è aggiornato
+felt-updates-error-messages = Si è verificato un errore durante l’applicazione degli aggiornamenti…
+felt-error-contact-admin = Contattare l'amministratore.
+felt-error-unsupported-system-contact-admin = La nuova versione non è compatibile con il sistema corrente. Contattare l'amministratore.
+felt-error-checking-failed-contact-admin = Errore imprevisto durante la ricerca degli aggiornamenti. Contattare l'amministratore.
