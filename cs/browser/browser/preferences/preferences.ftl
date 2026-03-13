@@ -2679,8 +2679,8 @@ preferences-ai-controls-tab-group-suggestions-control =
     .label = Návrhy pro skupiny panelů
     .description = Dostávejte návrhy na pojmenování a uspořádání panelů.
 preferences-ai-controls-key-points-control =
-    .label = Klíčové body v náhledech odkazů
-    .description = Před otevřením odkazu si prohlédněte rychlé shrnutí.
+    .label = Ústřední myšlenky v náhledech odkazů
+    .description = Před otevřením odkazu si prohlédněte krátké shrnutí.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = Poskytovatelé AI chatbotů v postranní liště
     .description = Při procházení webu mějte chatbota stále na očích. Na výběr máte chatboty Anthropic Claude, ChatGPT, Copilot, Google Gemini a Le Chat Mistral.
@@ -2713,7 +2713,7 @@ preferences-ai-controls-block-confirmation-pdfjs =
        *[no-cases] Alternativní text obrázku v PDF prohlížeči aplikace { -brand-short-name }
     }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Návrhy pro skupiny panelů
-preferences-ai-controls-block-confirmation-key-points = Klíčové body v náhledech odkazů
+preferences-ai-controls-block-confirmation-key-points = Ústřední myšlenky v náhledech odkazů
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Poskytovatelé chatbotů v postranní liště
 preferences-ai-controls-block-confirmation-features-after =
     { -brand-short-name.case-status ->
