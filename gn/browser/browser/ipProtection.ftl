@@ -176,6 +176,7 @@ ip-protection-bandwidth-hit-for-the-month = Ojeporupaite { $maxUsage } GB mba’
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Oiko jey { $maxUsage }-pe GB oñepyrũvo ára jasygua.
+ip-protection-bandwidth-header-1 = Jasy pukukue mba’ekuaarã
 
 ## IP Protection bandwidth reset callout
 
