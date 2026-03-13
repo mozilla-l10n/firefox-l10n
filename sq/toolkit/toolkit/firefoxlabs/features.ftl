@@ -74,3 +74,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Mbajeni listë
 experimental-features-semantic-history-search =
     .label = Kërkim Semantik Në Historik
 experimental-features-semantic-history-search-description = Përdorni një model vendor Nxënieje Nga Makina për të pasur sugjerime zërash nga historiku, zëra që lidhen me kërkimet tuaja, bazuar në të kuptuarit e gjuhëve natyrore, te shtylla e adresave në { -brand-product-name }. <a data-l10n-name="connect">Jepni përshtypje</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Shënime skedash
+experimental-features-tab-notes-description = Shënime skedash janë një veçori eksperimentale që ju lejon të shtoni shënime ngjitëse te skedat tuaja të shfletuesit. Hidhni në letër kontekst, kujtues, ose hapat pasuesi, që të mund të ktheheni dhe të mbani mend pse i hapët. Do të donim fort përshtypjet tuaja, teksa e përmirësojmë këtë veçori. <a data-l10n-name="connect">Jepni përshtypje</a>

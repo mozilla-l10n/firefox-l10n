@@ -94,6 +94,7 @@ about-logging-uploading-progress = Po ngarkohen të dhëna profili: { NUMBER($pe
 # Variables:
 #   $url (string) - The URL where the profile can be found
 about-logging-uploaded = U ngarkuan te <a data-l10n-name="uploaded-message-url">{ $url }</a>
+about-logging-share-uploaded-url = URL Ndarjeje <img data-l10n-name="share-image"/> Me të Tjerë
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-upload-error = Ndodhi një gabim teksa ngarkohej profili: { $errorText }
