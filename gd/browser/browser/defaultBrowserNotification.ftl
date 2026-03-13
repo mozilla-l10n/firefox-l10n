@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Ceum 2: Tagh “Suidhich { -brand-short-name } mar a’ bhun-roghainn”
 default-browser-guidance-notification-info-page = Seall dhomh
 default-browser-guidance-notification-dismiss = Deiseil
+default-browser-guidance-notification-v2-title = Làn-suidhich { -brand-short-name } mar am brabhsair bunaiteach agad
+default-browser-guidance-notification-v2-body = Sna roghainnean, tagh “Suidhich mar a’ bhun-roghainn” airson { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Làn-suidhich { -brand-short-name } mar am brabhsair bunaiteach agad sna roghainnean

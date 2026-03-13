@@ -183,6 +183,11 @@ downloads-history =
 downloads-details =
     .title = Fiosrachadh mun luchdadh a-nuas
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-details =
+    .title = Fanaidh faidhlichean air an uidheam agad
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.

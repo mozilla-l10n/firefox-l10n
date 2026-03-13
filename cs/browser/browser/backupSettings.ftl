@@ -136,7 +136,7 @@ backup-error-file-system =
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = Vypnout zálohování?
-turn-off-scheduled-backups-description = Tímto také odstraníte všechna zálohovaná data. Tuto akci nelze vzít zpět.
+turn-off-scheduled-backups-description = Tím se rovněž smažou všechna záložní data. Tuto akci nelze vzít zpět.
 turn-off-scheduled-backups-support-link = Zjistit více
 turn-off-scheduled-backups-cancel-button = Zrušit
 turn-off-scheduled-backups-confirm-button = Vypnout a smazat zálohu

@@ -36,3 +36,6 @@ customkeys-nav-home = Dhachaigh
 customkeys-nav-reload = Ath-luchdaich
 customkeys-nav-reload-skip-cache = Ath-luchdaich (tar-àithn an tasgadan)
 customkeys-nav-stop = Sguir dheth
+customkeys-caution-message = ’S e gleus probhail a tha seo agus dh’fhaodte nach obraich e mar bu chòir.
+# Displayed in the new key field when the key that was pressed isn't valid.
+customkeys-key-invalid = Mì-dhligheach
