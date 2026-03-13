@@ -687,10 +687,17 @@ pdfjs-views-manager-status-warning-copy-label = Không thể sao chép. Vui lòn
 pdfjs-views-manager-status-warning-delete-label = Không thể xoá. Vui lòng làm mới trang và thử lại.
 pdfjs-views-manager-status-warning-save-label = Không thể lưu. Vui lòng làm mới trang và thử lại.
 pdfjs-views-manager-status-undo-button-label = Hoàn tác
+pdfjs-views-manager-status-done-button-label = Xong
 pdfjs-views-manager-status-close-button =
     .title = Đóng
 pdfjs-views-manager-status-close-button-label = Đóng
 pdfjs-views-manager-paste-button-label = Dán
+pdfjs-views-manager-paste-button-before =
+    .title = Dán trước trang đầu
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Dán sau trang { $page }
 pdfjs-toggle-views-manager-button1 =
     .title = Quản lý trang
 

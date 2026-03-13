@@ -271,6 +271,11 @@ backup-file-other-browser-restore-step-4 = Khởi động lại { -brand-short-n
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds = <b>Lưu ý:</b> Đã tìm thấy { $numberOfOtherBackupsFound } tập tin sao lưu khác
 # Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> được tạo vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } trên { $machineName }
+# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Đã khôi phục từ { $deviceName } vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } lúc { DATETIME($date, hour: "2-digit", minute: "2-digit") }

@@ -62,10 +62,10 @@ about-processes-unknown-process = Autre : { $type } ({ $pid })
 
 ## Properties of isolated web processes
 
-about-processes-web-isolated-property-private = privée
-about-processes-web-isolated-property-serviceworker = service worker
+about-processes-web-isolated-property-private = privé
+about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT désactivé
-about-processes-web-isolated-property-with-coop-coep = multiorigine isolée
+about-processes-web-isolated-property-with-coop-coep = multiorigine isolé
 
 ## Isolated process names
 ## Variables:

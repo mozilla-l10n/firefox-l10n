@@ -178,6 +178,7 @@ ip-protection-bandwidth-hit-for-the-month = Bạn đã sử dụng hết { $maxU
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Đặt lại về { $maxUsage } GB vào ngày đầu tiên của mỗi tháng.
+ip-protection-bandwidth-header-1 = Giới hạn dữ liệu hàng tháng
 
 ## IP Protection bandwidth reset callout
 
