@@ -735,10 +735,17 @@ pdfjs-views-manager-status-warning-copy-label = Njedajo se kopěrowaś. Aktualiz
 pdfjs-views-manager-status-warning-delete-label = Njedajo se lašowaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
 pdfjs-views-manager-status-warning-save-label = Njedajo se składowaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
 pdfjs-views-manager-status-undo-button-label = Anulěrowaś
+pdfjs-views-manager-status-done-button-label = Dokóńcony
 pdfjs-views-manager-status-close-button =
     .title = Zacyniś
 pdfjs-views-manager-status-close-button-label = Zacyniś
 pdfjs-views-manager-paste-button-label = Zasajźiś
+pdfjs-views-manager-paste-button-before =
+    .title = Pśed prědnym bokom zasajźiś
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Za bokom { $page } zasajźiś
 pdfjs-toggle-views-manager-button1 =
     .title = Boki zastojaś
 
