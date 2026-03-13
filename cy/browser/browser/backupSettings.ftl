@@ -52,7 +52,7 @@ settings-data-backup-last-backup-location-edit = Golygu…
 settings-data-create-backup-error = Bu gwall wrth greu eich copi wrth gefn ar { DATETIME($date, timeStyle: "short") } , { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau a'ch dulliau talu, a chadw eich holl ddata'n ddiogel drwy amgryptio.
 settings-data-toggle-encryption-label2 =
-    .label = Gwnewch gopi wrth gefn o'ch data sensitif
+    .label = Gwneud copi wrth gefn o'ch data sensitif
     .description = Gwnewch gopi wrth gefn o'ch cyfrineiriau a dulliau talu, a chadw'ch data'n ddiogel gydag amgryptio.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
