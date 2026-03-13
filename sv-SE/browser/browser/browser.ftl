@@ -1172,6 +1172,23 @@ qrcode-copy-button =
     .label = Kopiera
 qrcode-copy-success =
     .message = QR-kod kopierad till urklipp.
+qrcode-copy-error =
+    .message = Det gick inte att kopiera QR-koden.
+qrcode-save-button =
+    .label = Spara
+qrcode-save-success =
+    .message = QR-kod sparad.
+qrcode-save-error =
+    .message = Det gick inte att spara QR-koden.
+qrcode-save-title = Spara QR-kod
+qrcode-save-filter-png = PNG-bild
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR-kod
+qrcode-dialog-title = QR-kod
+qrcode-image =
+    .aria-label = QR-kod
+qrcode-close-button =
+    .aria-label = Stäng
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
