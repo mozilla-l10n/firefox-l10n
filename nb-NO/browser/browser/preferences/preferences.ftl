@@ -2343,7 +2343,7 @@ preferences-doh-radio-off =
     .label = Av
     .description = Bruk standard DNS-oppslagstjeneste
 preferences-doh-fallback-label =
-    .label = Gi meg alltid en advarsel hvis sikker DNS ikke er tilgjengelig
+    .label = Varsle meg alltid hvis sikker DNS ikke er tilgjengelig
 preferences-doh-status-item-off =
     .message = DNS-over-HTTPS er av
 # Variables:
