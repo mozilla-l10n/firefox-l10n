@@ -276,7 +276,7 @@ link-preview-settings-enable =
     .label = Povolit náhledy odkazů
     .description = Při použití zástupce nebo klepnutí pravým tlačítkem myši na odkaz se zobrazí název stránky, popis a další informace.
 link-preview-settings-key-points =
-    .label = Umožnit umělé inteligenci přečíst začátek stránky a vygenerovat klíčové body.
+    .label = Povolit umělé inteligenci přečíst začátek stránky a vygenerovat klíčové body
 link-preview-settings-long-press =
     .label = Zkratka: Klepněte na odkaz a podržte jej 1 sekundu (dlouhý stisk).
 # Title that appears when user is shown the opt-in flow for link previews
