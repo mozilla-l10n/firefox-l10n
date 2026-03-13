@@ -120,6 +120,11 @@ ip-protection-description =
 ip-protection-learn-more = Eikuaave
 ip-protection-site-exceptions =
     .label = Ñembohekoite tendagua
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Eiporu VPN jehe’apyre { -brand-short-name }
+    .message = Eñomi ne rendaite eikunda aja { -brand-short-name }. Ereko { $maxUsage } GB mba’ekuaarã VPN rei jasy pukukue.
 ip-protection-not-opted-in-button = Eñepyrũ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
