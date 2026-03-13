@@ -23,6 +23,9 @@ backup-file-name =
         [with-cases] Zaloha{ -brand-product-name(case: "gen") }
        *[no-cases] Zaloha{ -brand-product-name }
     }
+settings-data-backup-header2 =
+    .label = Zálohování
+    .description = Automaticky chraňte své záložky, historii a další data.
 settings-data-backup-header = Zálohování
 settings-data-backup-toggle = Správa zálohování
 settings-data-backup-toggle-on2 =
