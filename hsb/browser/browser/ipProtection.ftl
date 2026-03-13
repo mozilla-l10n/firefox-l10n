@@ -184,6 +184,7 @@ ip-protection-bandwidth-hit-for-the-month = Sće wšě { $maxUsage } GB swojich 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Staja na { $maxUsage } GB prěnjeho kóždeho měsaca wróćo.
+ip-protection-bandwidth-header-1 = Měsačny datowy limit
 
 ## IP Protection bandwidth reset callout
 

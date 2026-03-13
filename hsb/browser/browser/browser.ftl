@@ -1189,6 +1189,23 @@ qrcode-copy-button =
     .label = Kopěrować
 qrcode-copy-success =
     .message = QR-kod je so do mjezyskłada kopěrował.
+qrcode-copy-error =
+    .message = QR-kod njeda so kopěrować.
+qrcode-save-button =
+    .label = Składować
+qrcode-save-success =
+    .message = QR-kod je so składował.
+qrcode-save-error =
+    .message = QR-kod njeda so składować.
+qrcode-save-title = QR-kod składować
+qrcode-save-filter-png = PNG-wobraz
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR-kod
+qrcode-dialog-title = QR-kod
+qrcode-image =
+    .aria-label = QR-kod
+qrcode-close-button =
+    .aria-label = Začinić
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

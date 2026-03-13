@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Najbliše při: { $colorName }
 colorpicker-tooltip-hue-slider-title = Barbowy wotsćin
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Opacita
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Za element specifiske pseudoklasy
