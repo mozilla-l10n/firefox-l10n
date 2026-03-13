@@ -1166,6 +1166,27 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Passord
     .tooltiptext = Vis og handsam dei lagra passorda dine
+qrcode-copy-button =
+    .label = Kopier
+qrcode-copy-success =
+    .message = QR-kode kopiert til utklippstavla.
+qrcode-copy-error =
+    .message = Klarte ikkje å kopiere QR-kode.
+qrcode-save-button =
+    .label = Lagre
+qrcode-save-success =
+    .message = QR-kode lagra.
+qrcode-save-error =
+    .message = Klarte ikkje å lagre QR-kode.
+qrcode-save-title = Lagre QR-kode
+qrcode-save-filter-png = PNG-bilde
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR-kode
+qrcode-dialog-title = QR-kode
+qrcode-image =
+    .aria-label = QR-kode
+qrcode-close-button =
+    .aria-label = Lat att
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
