@@ -264,7 +264,7 @@ link-preview-error-message-v2 = { -brand-short-name } nedokáže zobrazit náhle
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Navštívit odkaz
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
-link-preview-generation-error-missing-data-v2 = { -brand-short-name } nedokáže vytvořit ústřední myšlenky pro tuto webovou stránku
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } nedokáže pro tuto webovou stránku vygenerovat ústřední myšlenky
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Nastala chyba.
 # Text for the retry link when generation fails

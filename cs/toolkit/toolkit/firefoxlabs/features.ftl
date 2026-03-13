@@ -42,11 +42,16 @@ experimental-features-custom-wallpaper-description = Nahrajte vlastní tapetu ne
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Náhledy odkazů
+experimental-features-link-previews-description =
+    { PLATFORM() ->
+        [macos] Pokud se chcete o webové stránce předtím, než na ni klepnete, dozvědět více, najeďte na odkaz a stiskněte Shift (⇧) spolu s Option (⌥) nebo Alt. Náhledy mohou obsahovat detaily jako nadpis a odhadovanou dobu čtení. U některých webových stránek může umělá inteligence i přečíst text stránky a vygenerovat její ústřední myšlenky. Umělá inteligence je optimalizována pro čtení a generování anglického textu. Aby bylo upřednostněno vaše soukromí, umělá inteligence běží místně na vašem počítači. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+       *[other] Pokud se chcete o webové stránce předtím, než na ni klepnete, dozvědět více, najeďte na odkaz a stiskněte Shift + Alt. Náhledy mohou obsahovat detaily jako nadpis a odhadovanou dobu čtení. U některých webových stránek může umělá inteligence i přečíst text stránky a vygenerovat její ústřední myšlenky. Umělá inteligence je optimalizována pro čtení a generování anglického textu. Aby bylo upřednostněno vaše soukromí, umělá inteligence běží místně na vašem počítači. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+    }
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
     { PLATFORM() ->
-        [macos] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift (⇧) plus Option (⌥) nebo Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
-       *[other] Pokud se chcete o webové stránce dozvědět více než na ni klepnete, najeďte na odkaz a stiskněte Shift + Alt. Náhledy mohou obsahovat detaily jako nadpis a čas čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+        [macos] Pokud se chcete o webové stránce předtím, než na ni klepnete, dozvědět více, najeďte na odkaz a stiskněte Shift (⇧) spolu s Option (⌥) nebo Alt. Náhledy mohou obsahovat detaily jako nadpis a odhadovanou dobu čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+       *[other] Pokud se chcete o webové stránce předtím, než na ni klepnete, dozvědět více, najeďte na odkaz a stiskněte Shift + Alt. Náhledy mohou obsahovat detaily jako nadpis a odhadovanou dobu čtení. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
     }
 # New Tab Sections with follow and block
 experimental-features-newtab-sections-follow-block =
