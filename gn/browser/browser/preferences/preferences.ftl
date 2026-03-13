@@ -1775,6 +1775,10 @@ sitedata-heading =
 sitedata-settings3 =
     .label = Embogue mba’ekuaarã tenda ha’etévape g̃uarã
     .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Eñangareko oĩ’ỹva
+    .accesskey = x
+    .description = Eiporavo mba’éichapa emboguatáta ñanduti rogue, kookieita ha tenda mba’ekuaarã.
 cookies-site-data-group =
     .label = Kookie ha tenda mbakuaarã
 
@@ -2037,6 +2041,12 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Ejoko ovetã apysẽ ha emoma’ẽ mohapyháa gotyo
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Emboguata mbohapejey
+    .accesskey = E
+    .searchkeywords = popups,pop-ups
 permissions-addon-install-warning3 =
     .label = Ehechauka kyhyjerã oĩrõ ñanduti rogue omohendaséva jepysokue
     .accesskey = W
