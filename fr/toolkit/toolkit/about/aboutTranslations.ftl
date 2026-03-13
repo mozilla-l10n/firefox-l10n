@@ -41,7 +41,7 @@ about-translations-translation-error-button = Réessayer
 # An informational message displayed when the detected language is not supported.
 # Variables:
 #   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Désolé, nous ne prenons pas encore en charge { $language }
+about-translations-detected-language-unsupported-heading = Désolé, nous ne prenons pas encore en charge cette langue : { $language }
 about-translations-detected-language-unsupported-heading-unknown = Désolé, nous ne prenons pas encore en charge cette langue
 about-translations-detected-language-unsupported-subtext = Veuillez choisir une autre langue.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
