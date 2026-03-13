@@ -198,6 +198,7 @@ ip-protection-bandwidth-hit-for-the-month = Vous avez consommé la totalité de 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Le quota est réinitialisé à { $maxUsage } Go le premier jour de chaque mois.
+ip-protection-bandwidth-header-1 = Limite mensuelle de données
 
 ## IP Protection bandwidth reset callout
 

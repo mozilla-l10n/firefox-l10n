@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Närmast till: { $colorName }
 colorpicker-tooltip-hue-slider-title = Nyans
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Opacitet
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Elementspecifika pseudoklasser
