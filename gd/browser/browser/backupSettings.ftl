@@ -277,6 +277,11 @@ other-backup-files-founds =
        *[other] <b>An aire:</b> Chaidh { $numberOfOtherBackupsFound } faidhle lethbhric-ghlèidhidh eile a lorg
     }
 # Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> air a chruthachadh { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } air { $machineName }
+# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Chaidh aiseag o { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } aig { DATETIME($date, hour: "2-digit", minute: "2-digit") }

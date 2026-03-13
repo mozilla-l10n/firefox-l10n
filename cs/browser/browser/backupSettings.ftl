@@ -61,6 +61,20 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Název souboru: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Obnovení vašich dat
+    .description =
+        { -brand-product-name.case-status ->
+            [with-cases] Obnovte si data { -brand-product-name(case: "gen") } z poslední zálohy.
+           *[no-cases] Obnovte si data aplikace { -brand-product-name } z poslední zálohy.
+        }
+settings-data-backup-restore-scheduled-off =
+    .label = Obnovení vašich dat
+    .description =
+        { -brand-product-name.case-status ->
+            [with-cases] K obnově dat použijte zálohu { -brand-product-name(case: "gen") } z jiného zařízení.
+           *[no-cases] K obnově dat použijte zálohu aplikace { -brand-product-name } z jiného zařízení.
+        }
 settings-data-backup-restore-header = Obnovení vašich dat
 
 ## These strings are shown under the header if scheduled backups are disabled.
