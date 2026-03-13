@@ -2664,7 +2664,7 @@ preferences-ai-controls-block-ai-description =
        *[no-cases] Blokování znamená, že v aplikaci { -brand-short-name } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. <a data-l10n-name="link">Zjistěte více</a> o tom, co všechno to zahrnuje a jak ovládat tradiční funkce strojového učení, jako jsou návrhy vyhledávání a doporučení.
     }
 preferences-ai-controls-blocked-message =
-    .message = Nová a stávající vylepšení pomocí umělé inteligence jsou nyní blokována. Pro odblokování konkrétní funkce použijte ovládání níže.
+    .message = Nová a stávající vylepšení pomocí umělé inteligence jsou nyní standardně blokována. Chcete-li určitou funkci odblokovat, použijte níže její ovládání.
 preferences-ai-controls-on-device-group =
     .label = Místně uložená AI
     .description = Tyto funkce využívají menší modely umělé inteligence, které se při použití funkce stáhnou do vašeho zařízení. Tento přístup pomáhá chránit vaše soukromí.

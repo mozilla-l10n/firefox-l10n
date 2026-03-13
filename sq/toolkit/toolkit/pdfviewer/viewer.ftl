@@ -701,10 +701,17 @@ pdfjs-views-manager-status-warning-copy-label = S’u kopjua dot. Rifreskoni faq
 pdfjs-views-manager-status-warning-delete-label = S’u fshi dot. Rifreskoni faqen dhe riprovoni.
 pdfjs-views-manager-status-warning-save-label = S’u ruajt dot. Rifreskoni faqen dhe riprovoni.
 pdfjs-views-manager-status-undo-button-label = Zhbëje
+pdfjs-views-manager-status-done-button-label = U bë
 pdfjs-views-manager-status-close-button =
     .title = Mbylle
 pdfjs-views-manager-status-close-button-label = Mbylle
 pdfjs-views-manager-paste-button-label = Ngjite
+pdfjs-views-manager-paste-button-before =
+    .title = Ngjite para faqes së parë
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Ngjite pas faqes { $page }
 pdfjs-toggle-views-manager-button1 =
     .title = Administroni faqe
 
