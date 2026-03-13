@@ -278,7 +278,7 @@ link-preview-settings-enable =
 link-preview-settings-key-points =
     .label = Povolit umělé inteligenci přečíst začátek stránky a vygenerovat klíčové body
 link-preview-settings-long-press =
-    .label = Zkratka: Klepněte na odkaz a podržte jej 1 sekundu (dlouhý stisk).
+    .label = Zkratka: Klepněte na odkaz a ponechte tlačítko myši stisknuté 1 sekundu (dlouhý stisk)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcete vidět víc s pomocí umělé inteligence?
 # Message that appears when user is shown the opt-in flow for link previews
@@ -288,7 +288,7 @@ link-preview-optin-message =
        *[no-cases] Aplikace { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování několika klíčových bodů. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
     }
 # Onboarding card title for long press
-link-preview-onboarding-title-long-press = Novinka: Klepněte a podržte prst na libovolném odkazu pro náhled
+link-preview-onboarding-title-long-press = Novinka: Klepněte na libovolný odkaz a ponechte tlačítko myši stisknuté pro vytvoření náhledu
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Podívejte se na krátký popis, čas čtení a další informace, abyste se mohli rozhodnout, zda vám odkaz stojí za to otevřít. Dostupné také po klepnutí pravým tlačítkem myši.
 # Header for the key points section
