@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Жақын элементі: { $colorName
 colorpicker-tooltip-hue-slider-title = Реңі
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Мөлдірсіздігі
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Элементке тән жалған кластар

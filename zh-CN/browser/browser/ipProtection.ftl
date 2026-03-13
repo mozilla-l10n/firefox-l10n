@@ -132,6 +132,7 @@ ip-protection-vpn-upgrade-link =
 
 ip-protection-exceptions-dialog-window =
     .title = 管理网站设置
+ip-protection-exclusions-desc = 将为不在此列表中的所有网站使用 VPN。可在此处添加网站，或打开 VPN 添加。
 
 ## IP Protection Bandwidth
 
@@ -155,6 +156,9 @@ ip-protection-bandwidth-left-mb = 剩余 { $usageLeft } MB / { $maxUsage } GB
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = 每月初重置为 { $maxUsage } GB。
 
 ## IP Protection bandwidth reset callout
 
@@ -164,6 +168,9 @@ ipprotection-bandwidth-reset-button = 明白了
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN 已暂停
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
 vpn-paused-alert-close-tabs-button = 关闭所有标签页
 vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 继续
 vpn-error-alert-title = VPN 目前未运行。

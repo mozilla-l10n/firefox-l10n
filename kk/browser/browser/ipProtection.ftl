@@ -182,6 +182,7 @@ ip-protection-bandwidth-hit-for-the-month = Сіз VPN деректеріңіз�
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Әр айдың бірінші күнінде { $maxUsage } ГБ қалпына келтіріледі.
+ip-protection-bandwidth-header-1 = Ай сайынғы деректер шегі
 
 ## IP Protection bandwidth reset callout
 
