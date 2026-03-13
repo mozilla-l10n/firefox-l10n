@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = D
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Newydd
+main-context-menu-pdfjs-copy-page =
+    .label = Copïo tudalen
+main-context-menu-pdfjs-cut-page =
+    .label = Torri tudalen
+main-context-menu-pdfjs-delete-page =
+    .label = Dileu tudalen
+main-context-menu-pdfjs-save-page =
+    .label = Cadw'r dewis fel…

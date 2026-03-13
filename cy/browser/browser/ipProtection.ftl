@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
+ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn"> VPN adeiledig</a> i guddio'ch lleoliad a diogelu eich data.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn"> VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-button-primary = Nesaf
 ipprotection-feature-introduction-button-secondary-not-now = Nid nawr
 ipprotection-feature-introduction-button-secondary-no-thanks = Dim diolch
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Iawn
 ## Panel
 
 unauthenticated-vpn-title = Rhowch gynnig ar VPN mewnol { -brand-product-name }
+unauthenticated-hide-location-message-2 = Cuddiwch eich lleoliad wrth bori gyda { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Cael { $maxUsage } GB o ddata VPN am ddim bob mis.
@@ -123,6 +126,11 @@ ip-protection-description =
 ip-protection-learn-more = Dysgu rhagor
 ip-protection-site-exceptions =
     .label = Gosodiadau penodol gwefan
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
+    .message = Cuddiwch eich lleoliad tra'n pori gyda { -brand-short-name }. Cewch { $maxUsage } GB o ddata bob mis am ddim.
 ip-protection-not-opted-in-button = Cychwyn arni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -178,6 +186,7 @@ ip-protection-bandwidth-hit-for-the-month = Rydych chi wedi defnyddio { $maxUsag
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Yn ailgychwyn i { $maxUsage } GB, ar y cyntaf o bob mis.
+ip-protection-bandwidth-header-1 = Terfyn data misol
 
 ## IP Protection bandwidth reset callout
 
@@ -186,6 +195,11 @@ ip-protection-bandwidth-help-text = Yn ailgychwyn i { $maxUsage } GB, ar y cynta
 ipprotection-bandwidth-reset-title = { $maxUsage } GB o VPN, wedi'i ailgychwyn ac yn barod i fynd
 ipprotection-bandwidth-reset-text = Troi'r VPN ymlaen i gael hwb preifatrwydd ychwanegol, am ddim bob mis.
 ipprotection-bandwidth-reset-button = Iawn
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Efallai na fydd y wefan hon yn gweithio gyda VPN.</strong> Ceisiwch fewngofnodi neu ddiffodd VPN tra byddwch yn defnyddio'r wefan hon.
+ipp-activator-breakage-turn-off-warning = <strong>Efallai na fydd y wefan hon yn gweithio gyda VPN.</strong> Ceisiwch ddiffodd VPN tra byddwch yn defnyddio'r wefan hon.
 
 ## IP Protection alerts
 

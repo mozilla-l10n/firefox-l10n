@@ -247,10 +247,10 @@ urlbar-tabtosearch-onboard = Chọn phím tắt này để tìm những gì bạ
 
 ## Local search mode indicator labels in the urlbar
 
-urlbar-search-mode-bookmarks = Dấu trang
-urlbar-search-mode-tabs = Thẻ
-urlbar-search-mode-history = Lịch sử
-urlbar-search-mode-actions = Hành động
+urlbar-search-mode-bookmarks = dautrang
+urlbar-search-mode-tabs = the
+urlbar-search-mode-history = lichsu
+urlbar-search-mode-actions = hanhdong
 
 ##
 
@@ -905,13 +905,13 @@ urlbar-result-search-with-engine-keywords = { $keywords } - Tìm kiếm với { 
 urlbar-searchmode-dropmarker =
     .tooltiptext = Chọn công cụ tìm kiếm
 urlbar-searchmode-bookmarks =
-    .label = dautrang
+    .label = Dấu trang
 urlbar-searchmode-tabs =
-    .label = the
+    .label = Thẻ
 urlbar-searchmode-history =
-    .label = lichsu
+    .label = Lịch sử
 urlbar-searchmode-actions =
-    .label = hanhdong
+    .label = Hành động
 urlbar-searchmode-exit-button =
     .tooltiptext = Đóng
 urlbar-searchmode-default =
