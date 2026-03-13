@@ -275,6 +275,10 @@ other-backup-files-founds =
        *[other] <b>Not:</b> { $numberOfOtherBackupsFound } yedek dosyası daha bulundu
     }
 # Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } tarihinde { $deviceName } adlı cihazdan geri yüklendi
+# Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } tarihinde { $machineName } adlı cihazda oluşturuldu
