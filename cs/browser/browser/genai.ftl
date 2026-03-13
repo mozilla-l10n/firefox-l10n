@@ -284,8 +284,8 @@ link-preview-optin-title = Chcete vidět víc s pomocí umělé inteligence?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message =
     { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování několika ústředních myšlenek. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
-       *[no-cases] Aplikace { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování několika ústředních myšlenek. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
+        [with-cases] { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování pár ústředních myšlenek. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
+       *[no-cases] Aplikace { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování pár ústředních myšlenek. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
     }
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novinka: Klepněte na libovolný odkaz a ponechte tlačítko myši stisknuté pro vytvoření náhledu
