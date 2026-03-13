@@ -2389,6 +2389,40 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = Bllokimi do të thotë se s’do të shihni në { -brand-short-name } zgjerime të reja ose të tanishme IA të funksionimit, apo flluska rreth tyre. <a data-l10n-name="link">Shihni më tepër hollësi</a> se ç’është përfshirë dhe se si të kontrollohen veçori tradicionale të nxëni nga makina, fjala vjen, sugjerime dhe rekomandime kërkimi.
 preferences-ai-controls-blocked-message =
     .message = Si parazgjedhje, zgjerime të reja dhe të tanishme IA të funksionimit bllokohen. Që të zhbllokoni një veçori të caktuar, përdorni kontrollet më poshtë.
+preferences-ai-controls-on-device-group =
+    .label = IA brenda pajisjes
+    .description = Këto përdorin modele të vegjël IA që shkarkohen në pajisjen tuaj, nëse përdorni këtë veçori. Ky trajtim ndihmon të mbrohet privatësia juaj.
+preferences-ai-controls-translations-control =
+    .label = Përkthime
+    .description = Shfletoni rrjedhshëm në web në gjuhën tuaj të parapëlqyer.
+preferences-ai-controls-translations-more-link = Më tepër rregullime përkthimi
+preferences-ai-controls-pdfjs-control =
+    .label = Tekst alternativ figurash në parës { -brand-short-name } PDF-sh
+    .description = Kur shtoni figura në PDF, kjo shton përshkrime, për t’i bërë të përdorshme nga persona me aftësi të kufizuara.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugjerime për grupe skedash
+    .description = Merrni sugjerime se si të emërtoni dhe sistemoni skedat tuaja.
+preferences-ai-controls-key-points-control =
+    .label = Pika kyçe në paraparje lidhjesh
+    .description = Shihni një përmbledhje të shpejtë, para se të hapni një lidhje.
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = Shërbime robotësh fjalosjesh IA në anështyllë
+    .description = Mbani hapur një robot fjalosjesh, teksa shfletoni. Zgjidhni një nga Anthropic Claude, ChatGTP, Copilot, Google Gemini dhe Le Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Robot fjalosjesh në anështyllë
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = E përdorshme
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = E aktivizuar
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = E bllokuar
+preferences-ai-controls-state-description-before = Ç’duan të thonë mundësitë:
+preferences-ai-controls-state-description-available = <strong>E përdorshme:</strong> Do ta shihni dhe mund ta përdorni veçorinë.
+preferences-ai-controls-state-description-enabled = <strong>E aktivizuar:</strong> Keni zgjedhur ta përdorni veçorinë.
+preferences-ai-controls-state-description-blocked = <strong>E bllokuar:</strong> S’do ta shihni dhe s’mund ta përdorni veçorinë. Për IA brenda pajisjes, hiqen çfarëdo modelesh të shkarkuar tashmë.
 preferences-ai-controls-block-confirmation-heading = Të bllokohen zgjerime IA?
 preferences-ai-controls-block-confirmation-features-start = Çfarë do të bllokohet:
 preferences-ai-controls-block-confirmation-translations = Përkthime

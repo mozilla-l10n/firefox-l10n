@@ -2332,8 +2332,14 @@ preferences-doh-status-item-not-active-bad-url =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS-over-HTTPS brukar leverandøren { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS-over-HTTPS brukar den lokale leverandøren { $name }
 preferences-doh-select-resolver-label =
     .label = Vel leverandør:
+preferences-doh-custom-provider-label =
+    .aria-label = Skriv inn ein eigendefinert leverandør-URL
 preferences-doh-header2 =
     .heading = DNS over HTTPS
 
