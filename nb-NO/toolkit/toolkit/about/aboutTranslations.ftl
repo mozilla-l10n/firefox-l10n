@@ -35,7 +35,7 @@ about-translations-language-load-error-message =
     .message = Kontroller internettforbindelsen din og prøv igjen.
 about-translations-language-load-error-button = Prøv igjen
 # An error message displayed when a translation request fails.
-about-translations-translation-error-heading = Det oppsto et problem med oversettelsen
+about-translations-translation-error-heading = Det oppstod et problem med oversettelsen
 about-translations-translation-error-subtext = Prøv igjen.
 about-translations-translation-error-button = Prøv igjen
 # An informational message displayed when the detected language is not supported.

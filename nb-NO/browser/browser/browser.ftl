@@ -1176,6 +1176,12 @@ qrcode-save-button =
     .label = Lagre
 qrcode-save-title = Lagre QR-kode
 qrcode-save-filter-png = PNG-bilde
+qrcode-window-title = QR-kode
+qrcode-dialog-title = QR-kode
+qrcode-image =
+    .aria-label = QR-kode
+qrcode-close-button =
+    .aria-label = Lukk
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

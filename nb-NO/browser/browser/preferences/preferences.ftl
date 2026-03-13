@@ -2361,7 +2361,7 @@ preferences-doh-status-item-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-not-active-local =
-    .message = DNS-over-HTTPS fungerer ikke fordi det oppsto en feil ({ $reason }) da vi forsøkte å bruke den lokale leverandøren { $name }
+    .message = DNS-over-HTTPS fungerer ikke fordi det oppstod en feil ({ $reason }) da vi forsøkte å bruke den lokale leverandøren { $name }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
