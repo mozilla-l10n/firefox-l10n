@@ -290,7 +290,7 @@ link-preview-optin-message =
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novinka: Klepněte na libovolný odkaz a ponechte tlačítko myši stisknuté pro vytvoření náhledu
 # Onboarding card description for long press
-link-preview-onboarding-description-long-press = Podívejte se na krátký popis, čas čtení a další informace, abyste se mohli rozhodnout, zda vám odkaz stojí za to otevřít. Dostupné také po klepnutí pravým tlačítkem myši.
+link-preview-onboarding-description-long-press = Zobrazí se krátký popis, odhadovaná doba čtení a další informace, abyste se mohli rozhodnout, zda stojí za to odkaz otevírat. Dostupné také po klepnutí pravým tlačítkem myši.
 # Header for the key points section
 link-preview-key-points-header = Klíčové body
 # Disclaimer for AI-generated key points
