@@ -1174,6 +1174,8 @@ qrcode-copy-error =
     .message = Kunne ikke kopiere QR-koden.
 qrcode-save-button =
     .label = Lagre
+qrcode-save-title = Lagre QR-kode
+qrcode-save-filter-png = PNG-bilde
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
