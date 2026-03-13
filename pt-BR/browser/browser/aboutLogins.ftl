@@ -315,7 +315,7 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Vazamento de site
+about-logins-breach-alert-title = Vazamento de dados em site
 breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última vez que você atualizou suas credenciais de acesso. Mude a senha para proteger sua conta.
 about-logins-breach-alert-date = Este vazamento ocorreu em { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:

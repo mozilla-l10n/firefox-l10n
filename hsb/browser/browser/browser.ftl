@@ -1183,6 +1183,12 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Hesła
     .tooltiptext = Waše składowane hesła pokazać a rjadować
+qrcode-panel-error =
+    .message = QR-kod njeda so generěrować. Prošu spytajće hišće raz.
+qrcode-copy-button =
+    .label = Kopěrować
+qrcode-copy-success =
+    .message = QR-kod je so do mjezyskłada kopěrował.
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

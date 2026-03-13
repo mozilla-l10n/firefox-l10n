@@ -17,7 +17,7 @@ about-translations-unsupported-info-message =
     .message = Essayez avec un autre appareil.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
-    .heading = Aucune traduction disponible pour votre organisation
+    .heading = Les traductions ne sont pas disponibles pour votre organisation
     .message = Il s’agit d’une politique définie par votre administrateur.
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
