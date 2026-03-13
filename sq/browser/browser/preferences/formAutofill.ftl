@@ -150,6 +150,12 @@ autofill-card-expires-month = Muaj Skadimi
 autofill-card-expires-year = Vit Skadimi
 autofill-card-billing-address = Adresë Faturimi
 autofill-card-network = Lloj Karte
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = karta krediti, kredit, karta, karta debiti, debit, kuletë, përfundim blerjeje
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -56,6 +56,7 @@ policy-DisablePocket2 = Çaktivizoni veçorinë e ruajtjes së faqeve web në { 
 policy-DisablePrivateBrowsing = Çaktivizoni Shfletimin Privat.
 policy-DisableProfileImport = Çaktivizoni te menuja urdhrin për Importim të dhënash nga një tjetër shfletues.
 policy-DisableProfileRefresh = Çaktivizoni te faqja about:support butonin Rifreskoni { -brand-short-name }-in.
+policy-DisableRemoteImprovements = Pengoje { -brand-short-name }-in mes përditësimesh të aplikojë ndryshime funksionimi, qëndrueshmërie dhe veçorish.
 policy-DisableSafeMode = Çaktivizoni veçorinë e rinisjes nën Mënyrën e Parrezik. Shënim: tasti Shift për hyrje nën Mënyrën e Parrezik mund të çaktivizohet vetëm në Windows, duke përdorur Rregulla Grupi.
 policy-DisableSecurityBypass = Pengojini përdoruesit të anashkalojë disa sinjalizime sigurie.
 policy-DisableSetAsDesktopBackground = Çaktivizoni urdhër menuje Vëre si Sfond Desktopi për figura.

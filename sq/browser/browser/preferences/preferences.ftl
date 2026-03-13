@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = S’e mbulojmë më veçorinë “Mos Më Gjurmoni”
 non-technical-privacy-heading =
     .label = Mbrojtje shtesë
+preferences-privacy-relay-available =
+    .label = Sugjero maskë { -relay-brand-name } email-i
+    .description = Fsheh adresën tuaj të njëmendtë email, që të mbrohet posta juaj nga mesazh të padëshiruar.
 non-technical-privacy-header = Parapëlqime Privatësie Sajti
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -293,6 +296,8 @@ containers-remove-cancel-button = Mos e hiq këtë Kontejner
 settings-tabs-show-image-in-preview =
     .label = Shfaq një paraparje figure, kur kaloni kursorin sipër një skede
     .accessKey = q
+settings-tabs-drag-to-create-tab-groups =
+    .label = Që të krijoni grupe skedash, tërhiqni skeda tok
 browser-layout-header2 =
     .label = Skemë Shfletuesi
 browser-layout-horizontal-tabs2 =
@@ -1697,17 +1702,27 @@ sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Sajtet aktualisht përdorni <strong>{ $value } { $unit }</strong> hapësirë disku.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = “Cookies” tuaja të depozitura, historiku, të dhëna sajtesh dhe fshehtina aktualisht zënë <strong>{ $value } { $unit }</strong> hapësirë disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-t, të dhënat tuaja të sajteve dhe fshehtina përdorin deri sot { $value } { $unit } hapësirë disku.
 sitedata-learn-more = Mësoni më tepër
+sitedata-delete-on-close2 =
+    .label = Spastroni “cookies” dhe të dhëna sajtesh sa herë që mbyllni { -brand-short-name }-in
+    .accesskey = S
 sitedata-delete-on-close =
     .label = Fshi “cookies” dhe të dhëna sajti, kur mbyllet { -brand-short-name }-i
     .accesskey = F
 sitedata-delete-on-close-private-browsing3 =
     .message = Bazuar në rregullimet tuaja për historikun, kur mbyllni shfletuesin, { -brand-short-name }-i fshin nga sesioni juaj “cookies” dhe të dhëna sajtesh.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historiku s’do të ruhet.
+    .message = Kur mbyllni shfletuesin, { -brand-short-name }-i spastron “cookies” dhe të dhëna sajtesh nga sesioni juaj.
 sitedata-delete-on-close-private-browsing = Nën mënyrën shfletim i përhershëm privat, cookie-t dhe të dhënat e sajtit do të spastrohen përherë, kur mbyllet { -brand-short-name }-i.
 sitedata-delete-on-close-private-browsing2 = Bazuar në rregullimet tuaja për historikun, kur mbyllni shfletuesin, { -brand-short-name }-i fshin nga sesioni juaj “cookies” dhe të dhëna sajtesh.
 sitedata-allow-cookies-option =
@@ -1756,6 +1771,13 @@ sitedata-cookies-exceptions2 =
 sitedata-heading =
     .label = Të dhëna shfletimi
     .description = Administroni cookie-t tuaja, historikun, fshehtinën, të dhëna sajtesh, etj.
+sitedata-settings3 =
+    .label = Spastroni të dhëna për sajte specifikë
+    .accesskey = S
+sitedata-cookies-exceptions3 =
+    .label = Administroni përjashtime
+    .accesskey = x
+    .description = Zgjidhni se si trajtohen “cookies” dhe të dhëna sajtesh nga sajte të caktuar.
 cookies-site-data-group =
     .label = “Cookies” dhe të Dhëna Sajtesh
 
@@ -2093,6 +2115,8 @@ collection-description = Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbul
 collection-privacy-notice = Shënim Privatësie
 collection-health-report-telemetry-disabled = S’e lejoni më { -vendor-short-name }-n të marrë të dhëna teknike dhe ndërveprimesh. Krejt të dhënat e dikurshme do të fshihen brenda 30 ditësh.
 collection-health-report-telemetry-disabled-link = Mësoni më tepër
+backup-multi-profile-warning-message =
+    .message = Që të garantohet se ky ndryshim përfshihet në kopjeruajtjet tuaja, hapni çdo profil dhe zgjidhni “Kopjeruaje tani” te Rregullimet.
 collection-usage-ping =
     .label = Dërgo te { -vendor-short-name } ping përdorimi ditor
     .accesskey = D
@@ -2111,6 +2135,8 @@ collection-studies-description = Provoni veçori dhe ide para se të hidhen në 
 collection-studies =
     .label = Lejojeni { -brand-short-name } të instalojë dhe kryejë studime
 collection-studies-link = Shihni studime { -brand-short-name }
+nimbus-rollouts-enabled =
+    .label = Lejojeni { -brand-short-name } mes përditësimesh të përmirësojë veçori, funksionim dhe qëndrueshmëri
 nimbus-rollouts-enabled-description = Ndryshimet do të aplikohen që së largëti.
 addon-recommendations2 =
     .label = Lejo rekomandime të personalizuara rreth zgjerimesh

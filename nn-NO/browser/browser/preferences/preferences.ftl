@@ -2315,6 +2315,8 @@ preferences-doh-radio-custom =
 preferences-doh-radio-off =
     .label = Av
     .description = Bruk standard DNS-oppslagsteneste
+preferences-doh-fallback-label =
+    .label = Varsle meg alltid dersom sikker DNS ikkje er tilgjengeleg
 preferences-doh-status-item-off =
     .message = DNS-over-HTTPS er av
 # Variables:
