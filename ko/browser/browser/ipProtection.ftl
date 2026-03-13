@@ -178,6 +178,7 @@ ip-protection-bandwidth-hit-for-the-month = { $maxUsage } GB의 VPN 데이터를
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = 매월 1일에 { $maxUsage } GB로 초기화합니다.
+ip-protection-bandwidth-header-1 = 월간 데이터 제한
 
 ## IP Protection bandwidth reset callout
 

@@ -271,6 +271,11 @@ backup-file-other-browser-restore-step-4 = 요청 시 { -brand-short-name } 다�
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds = <b>주의:</b> 다른 백업 파일 { $numberOfOtherBackupsFound }개 찾음
 # Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성된 <b>{ $profileName }</b>
+# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }에 { $deviceName }에서 복원됨
