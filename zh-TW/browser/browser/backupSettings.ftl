@@ -271,6 +271,11 @@ backup-file-other-browser-restore-step-4 = 收到提示後，重新啟動 { -bra
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds = <b>註：</b>找到另 { $numberOfOtherBackupsFound } 個備份檔
 # Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 建立於 { $machineName }
+# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = 從 { $deviceName } 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 還原

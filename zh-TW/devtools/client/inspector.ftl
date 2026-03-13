@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = 最接近: { $colorName }
 colorpicker-tooltip-hue-slider-title = 色調
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = 透​明度
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = 特定元素的 pseudo-classes
