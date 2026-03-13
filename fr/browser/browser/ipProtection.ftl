@@ -24,8 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Découvrez le VPN, désormais intégré directement à votre navigateur
-ipprotection-feature-introduction-link-text-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour masquer votre localisation et protéger vos données.
-ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour masquer votre localisation et protéger vos données, même lorsque vous êtes dans une fenêtre privée.
+ipprotection-feature-introduction-link-text-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données, même lorsque vous êtes dans une fenêtre privée.
 ipprotection-feature-introduction-button-primary = Suivant
 ipprotection-feature-introduction-button-secondary-not-now = Plus tard
 ipprotection-feature-introduction-button-secondary-no-thanks = Non merci
@@ -116,7 +116,7 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Vous avez presque a
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Votre quota de données VPN est presque épuisé.</strong> Il vous reste { $usageLeft } Go disponibles. Dès que vous aurez tout utilisé, votre VPN sera suspendu jusqu’à la réinitialisation de votre quota le premier du mois prochain.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
-ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Vous n’avez presque plus de données VPN.</strong> Il vous reste { $usageLeft } Mo. Une fois que vous l’avez entièrement utilisé, votre VPN sera mis en pause jusqu’à ce que vos données soient réinitialisées le premier du mois suivant.
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Votre quota de données VPN est presque épuisé.</strong> Il vous reste { $usageLeft } Mo disponibles. Dès que vous aurez tout utilisé, votre VPN sera suspendu jusqu’à la réinitialisation de votre quota le premier du mois prochain.
 
 ## IP Protection Settings
 
@@ -130,7 +130,7 @@ ip-protection-site-exceptions =
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Essayez le VPN intégré à { -brand-short-name }
-    .message = Masquez votre localisation lorsque vous naviguez dans { -brand-short-name }. Bénéficiez de { $maxUsage } Go de données gratuits chaque mois.
+    .message = Masquez votre localisation lorsque vous naviguez dans { -brand-short-name }. Bénéficiez de { $maxUsage } Go de données VPN gratuits chaque mois.
 ip-protection-not-opted-in-button = Lancez-vous
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -198,7 +198,7 @@ ip-protection-bandwidth-hit-for-the-month = Vous avez consommé la totalité de 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Le quota est réinitialisé à { $maxUsage } Go le premier jour de chaque mois.
-ip-protection-bandwidth-header-1 = Limite mensuelle de données
+ip-protection-bandwidth-header-1 = Quota mensuel de données
 
 ## IP Protection bandwidth reset callout
 
@@ -210,8 +210,8 @@ ipprotection-bandwidth-reset-button = J’ai compris
 
 ## IP Protection add-on breakage warnings
 
-ipp-activator-breakage-sign-in-warning = <strong>Ce site web pourrait ne pas fonctionner avec un VPN.</strong> Essayez de vous connecter ou de désactiver le VPN pendant que vous utilisez ce site web.
-ipp-activator-breakage-turn-off-warning = <strong>Ce site web pourrait ne pas fonctionner avec un VPN.</strong> Essayez de désactiver le VPN pendant que vous utilisez ce site web.
+ipp-activator-breakage-sign-in-warning = <strong>Ce site web pourrait ne pas fonctionner avec un VPN.</strong> Essayez de vous connecter ou de désactiver le VPN pendant que vous consultez ce site web.
+ipp-activator-breakage-turn-off-warning = <strong>Ce site web pourrait ne pas fonctionner avec un VPN.</strong> Essayez de désactiver le VPN pendant que vous consultez ce site web.
 
 ## IP Protection alerts
 

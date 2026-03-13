@@ -2177,11 +2177,16 @@ website-advertising-private-attribution-description = Kjo i ndihmon sajtet të k
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Siguri
+browsing-protection-group2 =
+    .label = Mbrojtje nga lëndë e rrejshme dhe <em>software</em> i rrezikshëm
+    .description = Sajte dhe shkarkime të rrezikshme mund të rrezikojnë të dhënat dhe pajisje tuajat. { -brand-short-name }-i i bllokon ato automatikisht dhe ju sinjalizon rreth software-i të rrezikshëm, ose të padëshiruar.
 security-browsing-protection = Mbrojtje Nga Lëndë e Rrejshme dhe Software i Rrezikshëm
 security-enable-safe-browsing =
     .label = Blloko lëndë të rrezikshme dhe të rrejshme
     .accesskey = B
 security-enable-safe-browsing-link = Mësoni më tepër
+security-safe-browsing-warning =
+    .message = Çaktivizimi i kësaj redukton mbrojtje kundër mashtrimesh, sajtesh dashakeqë dhe shkarkimesh të rrezikshme.
 security-block-downloads =
     .label = Blloko shkarkime të rrezikshme
     .accesskey = z
@@ -2213,6 +2218,9 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet 
 certs-description2 =
     .label = Dëshmi
     .description = Formësoni dëshmitë që { -brand-short-name }-i përdor për mirëfilltësime.
+certs-description3 =
+    .label = Dëshmi
+    .description = Formësoni dëshmi që përdor { -brand-short-name }-i për të verifikuar lidhje të siguruara.
 certs-view2 =
     .label = Administroni dëshmi
     .accesskey = d
@@ -2248,6 +2256,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS përmes HTTPS-je
+dns-over-https-group2 =
+    .label = DNS përmes HTTPS-je
+    .description = Sistem Emrash Përkatësish përmes HTTPS-je (DoH) i fshehtëzon kërkimet për sajte, ndaj është më e zorshme për shërbimin tuaj internet dhe të tjerë të shohin se cilët sajte do të vizitoni.
 preferences-doh-description = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke krijuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 preferences-doh-description2 = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke furnizuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 # Variables:
@@ -2371,6 +2382,13 @@ choose-download-folder-title = Zgjidhni Dosje Shkarkimesh:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
+preferences-ai-controls-description = Ju jepet përherë një zgjedhje në { -brand-short-name }, përfshi të përdoren a jo veçori të zgjeruara me IA. Më tepër kontrolle së afërmi.
+preferences-ai-controls-block-ai-label = Blloko zgjerime IA
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Bllokimi do të thotë se s’do të shihni në { -brand-short-name } zgjerime të reja ose të tanishme IA të funksionimit, apo flluska rreth tyre. <a data-l10n-name="link">Shihni më tepër hollësi</a> se ç’është përfshirë dhe se si të kontrollohen veçori tradicionale të nxëni nga makina, fjala vjen, sugjerime dhe rekomandime kërkimi.
+preferences-ai-controls-blocked-message =
+    .message = Si parazgjedhje, zgjerime të reja dhe të tanishme IA të funksionimit bllokohen. Që të zhbllokoni një veçori të caktuar, përdorni kontrollet më poshtë.
 preferences-ai-controls-block-confirmation-heading = Të bllokohen zgjerime IA?
 preferences-ai-controls-block-confirmation-features-start = Çfarë do të bllokohet:
 preferences-ai-controls-block-confirmation-translations = Përkthime
