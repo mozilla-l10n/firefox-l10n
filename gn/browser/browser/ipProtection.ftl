@@ -39,6 +39,7 @@ ipprotection-site-settings-callout-button = Aikũmby
 ## Panel
 
 unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
+unauthenticated-hide-location-message-2 = Eñomi pe tendaite eikundaha aja { -brand-product-name } ndive.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ereko { $maxUsage } GB VPN mba’ekuaarã reiete jasygua.
