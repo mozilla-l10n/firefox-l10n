@@ -55,6 +55,9 @@ settings-data-backup-last-backup-location-show-in-folder = Zobrazit ve složce
 settings-data-backup-last-backup-location-edit = Upravit…
 settings-data-create-backup-error = Při vytváření zálohy dne { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } došlo k chybě
 settings-sensitive-data-encryption-description = Zálohujte svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
+settings-data-toggle-encryption-label2 =
+    .label = Zálohovat i citlivá data
+    .description = Zazálohujte svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Název souboru: { $fileName }
@@ -295,6 +298,11 @@ other-backup-files-founds =
         [many] <b>Poznámka:</b> Nalezeno { $numberOfOtherBackupsFound } dalších souborů se zálohou
        *[other] <b>Poznámka:</b> Nalezeno { $numberOfOtherBackupsFound } dalších souborů se zálohou
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> vytvořen { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
