@@ -15,6 +15,14 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Pe ñemoñe’ẽasa ndaipóri ko mba’e’okápe.
     .message = Eñeha’ã emoambue mba’e’oka ambuépe.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Ñe’ẽasaita noĩri oiporu hag̃uáicha ne mba’apohaguasu
+    .message = Kóva ha’e porureko omoĩva ne ñangarekohára.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Emoñe’ẽasa hag̃ua jehaipyre, embojuruja ko tembiapoite
+    .message = Ha’ete embohekopyahúva AI rehegua emboty hag̃ua ko tembiapoite. Eipe’akuaa eipota vove eiporu hag̃ua.
 about-translations-feature-blocked-unblock-button = Mbojera
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
