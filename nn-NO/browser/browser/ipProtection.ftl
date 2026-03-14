@@ -126,6 +126,11 @@ ip-protection-description =
 ip-protection-learn-more = Les meir
 ip-protection-site-exceptions =
     .label = Nettstadspesifikke innstillingar
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
+    .message = Skjul plasseringa di medan du surfar i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data kvar månad.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
