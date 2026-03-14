@@ -2310,6 +2310,8 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-issue-card =
+    .heading = Advertencias de seguridad
 issue-card-reset-button =
     .label = Restablecer
 issue-card-dismiss-button =
