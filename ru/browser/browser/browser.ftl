@@ -1174,6 +1174,10 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Пароли
     .tooltiptext = Просмотр и управление сохранёнными паролями
+qrcode-panel-error =
+    .message = Не удалось сгенерировать QR-код. Повторите попытку.
+qrcode-copy-button =
+    .label = Копировать
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
