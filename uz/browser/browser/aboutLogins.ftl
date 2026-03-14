@@ -57,7 +57,22 @@ login-list-filtered-count =
         [one] { $total } tadan { $count } ta login
        *[other] { $total } tadan { $count } ta login
     }
-login-list-sort-label-text = Saralash:
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } ta parol
+       *[other] { $count } ta parol
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count2 =
+    { $total ->
+        [one] { $total } tadan { $count } ta parol
+       *[other] { $total } tadan { $count } ta parol
+    }
+login-list-sort-label-text = Tartiblash:
 login-list-name-option = Nomi boʻyicha (A-Z)
 login-list-name-reverse-option = Nomi boʻyicha (Z-A)
 login-list-username-option = Foydalanuvchi nomi (A-Z)
@@ -66,18 +81,21 @@ about-logins-login-list-alerts-option = Ogohlantirishlar
 login-list-last-changed-option = Oxirgi oʻzgartirish boʻyicha
 login-list-last-used-option = Oxirgi foydalanish boʻyicha
 login-list-intro-title = Hech qanday login topilmadi
-login-list-intro-description = Parolni { -brand-product-name } brauzeriga saqlasangiz, u bu yerda chiqadi.
+login-list-intro-title2 = Saqlangan parollar yoʻq
+login-list-intro-description = { -brand-product-name }ʼda saqlangan parollar shu yerda koʻrsatiladi.
 about-logins-login-list-empty-search-title = Hech qanday login topilmadi
+about-logins-login-list-empty-search-title2 = Hech qanday parol topilmadi
 about-logins-login-list-empty-search-description = Qidiruvingiz boʻyicha hech nima topilmadi.
 login-list-item-title-new-login = Yangi login
-login-list-item-subtitle-new-login = Hisobingiz maʼlumotlarini kiriting
+login-list-item-subtitle-new-login = Login maʼlumotlaringizni kiriting
+login-list-item-title-new-login2 = Parol qoʻshish
 login-list-item-subtitle-missing-username = (foydalanuvchi nomi yoʻq)
 about-logins-list-item-breach-icon =
-    .title = Hujum qilingan sayt
+    .title = Xavfsizligi buzilgan sayt
 about-logins-list-item-vulnerable-password-icon =
-    .title = Juda kuchsiz parol
-about-logins-list-section-breach = Hujumga uchragan saytlar
-about-logins-list-section-vulnerable = Juda kuchsiz parol
+    .title = Zaif parol
+about-logins-list-section-breach = Xavfsizligi buzilgan saytlar
+about-logins-list-section-vulnerable = Zaif parollar
 about-logins-list-section-nothing = Ogohlantirish yoʻq
 about-logins-list-section-today = Bugun
 about-logins-list-section-yesterday = Kecha
