@@ -1068,6 +1068,10 @@ search-edit-engine-2 =
     .title = Muokkaa hakukonetta
 search-delete-engine =
     .title = Poista hakukone
+search-enable-engine =
+    .title = Ota hakukone käyttöön
+search-outlink-to-extensions-page =
+    .title = Hallitse laajennuksissa ja teemoissa
 search-choose-engine-column =
     .label = Hakukone
 search-choose-keyword-column =
@@ -2234,6 +2238,11 @@ preferences-doh-exceptions-description = { -brand-short-name } ei käytä suojat
 preferences-doh-manage-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = H
+preferences-doh-advanced-button =
+    .label = Lisäasetukset
+preferences-doh-manage-exceptions2 =
+    .label = Hallitse poikkeuksia
+    .accesskey = p
 
 ## The following strings are used in the Download section of settings
 
@@ -2300,7 +2309,27 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Estä
 
+## Privacy and security status card
+
+security-privacy-status-up-to-date-label = Sinulla on { -brand-short-name }in uusin ja turvallisin versio
+security-privacy-status-update-needed-label = Uusi versio { -brand-short-name }ista on saatavilla.
+security-privacy-status-update-checking-label = { -brand-short-name } tarkistaa päivityksiä
+security-privacy-status-update-button-label =
+    .label = Päivitä { -brand-short-name }
+
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = Lisäasetukset
 preferences-etp-custom-cookies-enabled =
     .label = Evästeet
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Evästeet
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Salli kaikki evästeet
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Tunnetut yksilöijät
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Epäillyt yksilöijät
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Epäillyt yksilöijät
