@@ -25,7 +25,9 @@ update-applying = Yangilanish qoʻllanilmoqda…
 update-failed = Yangilab bo‘lmadi.<label data-l10n-name="failed-link">So‘nggi versiyani yuklab olish</label>
 update-failed-main = Yangilanmadi.<a data-l10n-name="failed-link-main">Soʻnggi versiyani yuklab olish</a>
 update-adminDisabled = Yangilanishlar tizimingiz administratori tomonidan oʻchirib qoʻyilgan
+update-policy-disabled = Yangilanishlar tashkilotingiz tomonidan oʻchirilgan
 update-noUpdatesFound = { -brand-short-name } yangilangan
+aboutdialog-update-checking-failed = Yangilanishlarni tekshirib boʻlmadi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } boshqa manbadan yangilanadi
 
 ## Variables:
@@ -35,6 +37,7 @@ aboutdialog-update-manual-with-link = Yangilanishlar mavjud:<label data-l10n-nam
 settings-update-manual-with-link = Yangilanishlar mavjud:<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Siz keyingi yangilanishlarni ushbu tizimda bajara olmaysiz. <label data-l10n-name="unsupported-link">Batafsil</label>
 update-restarting = Qayta ishga tushirilmoqda…
+update-internal-error2 = Ichki xatolik tufayli yangilanishlarni tekshirib boʻlmadi. Yangilanishlar <label data-l10n-name="manual-link">{ $displayUrl }</label> manzilida joylashgan
 
 ##
 

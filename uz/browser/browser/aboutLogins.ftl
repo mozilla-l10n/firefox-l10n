@@ -4,10 +4,21 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Login va parollar
-fxaccounts-sign-in-text = Boshqa qurilmalardagi parollaringizdan foydalaning
-fxaccounts-sign-in-sync-button = Sinxronlash uchun hisobingizga kiring
+about-logins-login-filter =
+    .placeholder = Loginlarni qidirish
+    .key = F
+create-new-login-button =
+    .title = Yangi login yaratish
+about-logins-page-title-name = Parollar
+about-logins-login-filter2 =
+    .placeholder = Parollarni qidirish
+    .key = F
+create-login-button =
+    .title = Parol qoʻshish
+fxaccounts-sign-in-text = Parollaringizdan boshqa qurilmalaringizda foydalaning
+fxaccounts-sign-in-sync-button = Sinxronlash uchun akkauntingizga kiring
 fxaccounts-avatar-button =
-    .title = Hisobni boshqarish
+    .title = Akkauntni boshqarish
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -15,9 +26,11 @@ menu =
     .title = Menyuni ochish
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Boshqa brauzerdan import qilish
-about-logins-menu-menuitem-import-from-a-file = Fayldan import qilish
+about-logins-menu-menuitem-import-from-a-file = Fayldan import qilish…
 about-logins-menu-menuitem-export-logins = Loginlarni eksport qilish…
-about-logins-menu-menuitem-remove-all-logins = Barcha loginlarni olib tashlash
+about-logins-menu-menuitem-remove-all-logins = Barcha loginlarni oʻchirish…
+about-logins-menu-menuitem-export-logins2 = Parollarni eksport qilish…
+about-logins-menu-menuitem-remove-all-logins2 = Barcha parollarni oʻchirish…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Parametrlar
@@ -35,6 +48,14 @@ login-list-count =
     { $count ->
         [one] { $count } ta login
        *[other] { $count } ta login
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $total } tadan { $count } ta login
+       *[other] { $total } tadan { $count } ta login
     }
 login-list-sort-label-text = Saralash:
 login-list-name-option = Nomi boʻyicha (A-Z)
