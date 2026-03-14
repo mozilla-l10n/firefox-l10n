@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Představujeme VPN, nyní přímo uvnitř vašeho prohlížeče
+ipprotection-feature-introduction-link-text-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-button-primary = Další
 ipprotection-feature-introduction-button-secondary-not-now = Teď ne
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, děkuji
@@ -196,6 +198,7 @@ ip-protection-bandwidth-hit-for-the-month = Využili jste všech { $maxUsage } G
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Obnovuje se na { $maxUsage } GB každého prvního dne v měsíci.
+ip-protection-bandwidth-header-1 = Měsíční datový limit
 
 ## IP Protection bandwidth reset callout
 
