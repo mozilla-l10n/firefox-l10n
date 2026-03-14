@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Vi introduserer VPN, no rett i nettlesaren din
+ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikkje no
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Eg forstår
 ## Panel
 
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
+unauthenticated-hide-location-message-2 = Skjul posisjonen din medan du surfar i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data kvar månad.
@@ -174,6 +177,7 @@ ip-protection-bandwidth-hit-for-the-month = Du har brukt opp alle { $maxUsage } 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Blir nullstilt til { $maxUsage } GB den første i kvar månad.
+ip-protection-bandwidth-header-1 = Månadleg datagrense
 
 ## IP Protection bandwidth reset callout
 
@@ -182,6 +186,11 @@ ip-protection-bandwidth-help-text = Blir nullstilt til { $maxUsage } GB den før
 ipprotection-bandwidth-reset-title = { $maxUsage } GB med VPN-data, fornya og klart til bruk
 ipprotection-bandwidth-reset-text = Slå på VPN for eit ekstra personvernløft, gratis kvar månad.
 ipprotection-bandwidth-reset-button = Eg forstår
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Denne nettstaden fungerer kanskje ikkje med VPN.</strong> Prøv å logge inn eller slå av VPN medan du bruker denne nettstaden.
+ipp-activator-breakage-turn-off-warning = <strong>Denne nettstaden fungerer kanskje ikkje med VPN.</strong> Prøv å slå av VPN medan du brukar denne nettstaden.
 
 ## IP Protection alerts
 

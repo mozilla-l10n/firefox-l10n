@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Slå på eller av søkjeforslag.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Legg til eller slett PKCS #11-modular.
 policy-ShowHomeButton = Vis heimknappen på verktøylinja.
+policy-SitePolicies = Nettstadspesifikke policyar.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Ikkje vis vilkåra for bruk og personvernfråsegna ved oppstart. Du stadfestar at du aksepterer og har fullmakt til å godta vilkåra for bruk på vegner av alle personar som du gir tilgang til denne nettlesaren.
 policy-SSLVersionMax = Still inn den maksimale SSL-versjonen.
