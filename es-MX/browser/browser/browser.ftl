@@ -1169,6 +1169,13 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Contraseñas
     .tooltiptext = Ver y administrar tus contraseñas guardadas
+qrcode-save-filter-png = Imagen PNG
+qrcode-window-title = Código QR
+qrcode-dialog-title = Código QR
+qrcode-image =
+    .aria-label = Código QR
+qrcode-close-button =
+    .aria-label = Cerrar
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
