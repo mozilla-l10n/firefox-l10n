@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Käännöstoiminnallisuus ei ole saatavilla tällä laitteella.
     .message = Kokeile vaihtaa toiseen laitteeseen.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Käännökset eivät ole käytettävissä organisaatiossasi
+    .message = Tämä on ylläpitäjän asettama käytäntö.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Tekstin kääntämiseksi poista tämän ominaisuuden esto
+    .message = Vaikuttaa siltä, että päivitit tekoälyn säätimiä ja estit tämän ominaisuuden. Poista esto milloin tahansa käyttääksesi ominaisuutta.
+about-translations-feature-blocked-unblock-button = Poista esto
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Kielten lataus epäonnistui
