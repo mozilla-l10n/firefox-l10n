@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Itzulpena ez dago erabilgarri gailu honetan.
     .message = Probatu beste gailu batera aldatzen.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Itzulpenak ez daude erabilgarri zure erakundearentzat
+    .message = Zure administratzaileak ezarritako politika bat da hau.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Testua itzultzeko, desblokeatu eginbide hau
+    .message = Badirudi zure AA kontrola eguneratu dituzula eginbide hau blokeatzeko. Desblokeatu edonoiz erabiltzen hasteko.
+about-translations-feature-blocked-unblock-button = Desblokeatu
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Ezin dira hizkuntzak kargatu
@@ -25,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = Ezin dira hizkuntzak kargatu.
     .message = Egiaztatu Interneterako zure konexioa eta saiatu berriro.
 about-translations-language-load-error-button = Saiatu berriro
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Arazo bat egon da itzultzean.
+about-translations-translation-error-subtext = Saiatu berriro mesedez.
+about-translations-translation-error-button = Saiatu berriro
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Sentitzen dugu, oraindik ez dugu { $language } onartzen
+about-translations-detected-language-unsupported-heading-unknown = Sentitzen dugu, oraindik ez dugu hizkuntza hau onartzen
+about-translations-detected-language-unsupported-subtext = Aukeratu beste hizkuntza bat.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Idatzi itzuli beharreko testua

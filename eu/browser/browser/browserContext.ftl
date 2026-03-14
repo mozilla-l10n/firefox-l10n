@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = r
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Berria
+main-context-menu-pdfjs-copy-page =
+    .label = Kopiatu orria
+main-context-menu-pdfjs-cut-page =
+    .label = Ebaki orria
+main-context-menu-pdfjs-delete-page =
+    .label = Ezabatu orria
+main-context-menu-pdfjs-save-page =
+    .label = Gorde hautapena honela…

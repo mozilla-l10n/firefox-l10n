@@ -275,6 +275,11 @@ other-backup-files-founds =
        *[other] <b>Oharra:</b> Beste { $numberOfOtherBackupsFound } babeskopia-fitxategi aurkitu dira
     }
 # Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> profilaren sortze-data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { $machineName } makinan
+# Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = { $deviceName } makinatik berreskuratuta; berreskuratze-data:{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
