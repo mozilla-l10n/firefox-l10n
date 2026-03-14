@@ -2675,8 +2675,12 @@ preferences-ai-controls-translations-control =
     .description = Procházejte internet plynule ve svém preferovaném jazyce.
 preferences-ai-controls-translations-more-link = Další nastavení překladu
 preferences-ai-controls-pdfjs-control =
-    .label = Alternativní text obrázku v PDF prohlížeči aplikace { -brand-short-name }
-    .description = Když do souborů PDF přidáte obrázky, tato funkce přidá popis, aby byly přístupné.
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Alternativní text obrázku v PDF prohlížeči { -brand-short-name(case: "gen") }
+           *[no-cases] Alternativní text obrázku v PDF prohlížeči aplikace { -brand-short-name }
+        }
+    .description = Když do souborů PDF přidáte obrázky, tato funkce přidá popis, aby byly přístupnější.
 preferences-ai-controls-tab-group-suggestions-control =
     .label = Návrhy pro skupiny panelů
     .description = Dostávejte návrhy na pojmenování a uspořádání panelů.
