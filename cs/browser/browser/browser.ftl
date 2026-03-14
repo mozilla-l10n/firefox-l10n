@@ -1273,6 +1273,25 @@ qrcode-panel-error =
     .message = Nepodařilo se vygenerovat QR kód. Zkuste to prosím znovu.
 qrcode-copy-button =
     .label = Kopírovat
+qrcode-copy-success =
+    .message = QR kód zkopírován do schránky.
+qrcode-copy-error =
+    .message = Kopírování QR kódu se nezdařilo.
+qrcode-save-button =
+    .label = Uložit
+qrcode-save-success =
+    .message = QR kód uložen.
+qrcode-save-error =
+    .message = QR kód se nepodařilo uložit.
+qrcode-save-title = Uložit QR kód
+qrcode-save-filter-png = Obrázek PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR kód
+qrcode-dialog-title = QR kód
+qrcode-image =
+    .aria-label = QR kód
+qrcode-close-button =
+    .aria-label = Zavřít
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
