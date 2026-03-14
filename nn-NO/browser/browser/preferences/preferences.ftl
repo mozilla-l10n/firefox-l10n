@@ -2339,6 +2339,11 @@ preferences-doh-status-item-not-active-bad-url =
 preferences-doh-status-item-active =
     .message = DNS-over-HTTPS brukar leverandøren { $name }
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS-over-HTTPS fungerer ikkje fordi det oppstod ein feil ({ $reason }) då vi prøvde å bruke den lokale leverandøren { $name }
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
     .message = DNS-over-HTTPS brukar den lokale leverandøren { $name }
@@ -2417,13 +2422,27 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } er på vakt
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } tilrår nokre tryggingsforbetringar
 security-privacy-status-ok-label = Utvida sporingsvern er på
+security-privacy-status-problem-label = Vi fann innstillingar som påverkar vernet ditt
 security-privacy-status-problem-helper-label = Vis problem
+security-privacy-status-pending-trackers-label = Ser på kor mange sporarar som { -brand-short-name } har blokkert den siste månaden
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Du har <a data-l10n-name="strict-tracking-protection">strengt vern</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Du har <a data-l10n-name="custom-tracking-protection">tilpassa vern</a>
+security-privacy-status-up-to-date-label = Du har den nyaste og sikraste versjonen av { -brand-short-name }
 security-privacy-status-update-needed-label = Ein ny versjon av { -brand-short-name } er tilgjengeleg.
 security-privacy-status-update-error-label = { -brand-short-name } har problem med å oppdatere seg sjølv
 security-privacy-status-update-checking-label = { -brand-short-name } ser etter oppdateringar
+security-privacy-status-update-needed-description = Oppdater for dei nyaste forbetringane i fart, stabilitet og sikkerheit.
 security-privacy-status-update-button-label =
     .label = Oppdater { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Eit skjold med eit utropsteikn som uttrykkjer bekymring over sikkerheitsvarsla dine
+security-privacy-image-ok =
+    .alt = Eit skjold med ein hake som viser at du ikkje har nokon uteståande sikkerheitsproblem
 security-privacy-issue-card =
     .heading = Tryggingsåtvaringar
 issue-card-reset-button =
@@ -2448,6 +2467,8 @@ preferences-etp-rfp-warning-message =
     .message = Du brukar Resist Fingerprinting (RFP), som erstattar nokre av { -brand-short-name } sine verneinnstillingar for fingeravtrykk. Dette kan føre til at enkelte nettstadar ikkje vil fungere.
 preferences-etp-customize-header =
     .heading = Tilpass sporingsvern
+preferences-etp-reset-standard-button =
+    .label = Still tilbake til standard
 preferences-etp-reset-strict-button =
     .label = Still tilbake til streng
 preferences-etp-custom-cookies-enabled =
