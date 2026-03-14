@@ -1178,6 +1178,25 @@ qrcode-panel-error =
     .message = Не удалось сгенерировать QR-код. Повторите попытку.
 qrcode-copy-button =
     .label = Копировать
+qrcode-copy-success =
+    .message = QR-код скопирован в буфер обмена.
+qrcode-copy-error =
+    .message = Не удалось скопировать QR-код.
+qrcode-save-button =
+    .label = Сохранить
+qrcode-save-success =
+    .message = QR-код сохранён.
+qrcode-save-error =
+    .message = Не удалось сохранить QR-код.
+qrcode-save-title = Сохранить QR-код
+qrcode-save-filter-png = Изображение PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR-код
+qrcode-dialog-title = QR-код
+qrcode-image =
+    .aria-label = QR-код
+qrcode-close-button =
+    .aria-label = Закрыть
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
