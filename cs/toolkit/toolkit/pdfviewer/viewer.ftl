@@ -733,10 +733,17 @@ pdfjs-views-manager-status-warning-copy-label = Kopírování se nezdařilo. Obn
 pdfjs-views-manager-status-warning-delete-label = Smazání se nezdařilo. Obnovte stránku a zkuste to znovu.
 pdfjs-views-manager-status-warning-save-label = Nepodařilo se uložit. Obnovte stránku a zkuste to znovu.
 pdfjs-views-manager-status-undo-button-label = Zpět
+pdfjs-views-manager-status-done-button-label = Hotovo
 pdfjs-views-manager-status-close-button =
     .title = Zavřít
 pdfjs-views-manager-status-close-button-label = Zavřít
 pdfjs-views-manager-paste-button-label = Vložit
+pdfjs-views-manager-paste-button-before =
+    .title = Vloží před první stránku
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Vložit za stránku { $page }
 pdfjs-toggle-views-manager-button1 =
     .title = Spravovat strany
 

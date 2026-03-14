@@ -2796,6 +2796,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookies třetích stran jsou povoleny
+    .description = Cookies třetích stran se používají k tomu, aby vás sledovali na různých webových stránkách.
 security-privacy-issue-warning-password-manager =
     .label = Správce hesel je zakázán
     .description = Správci hesel vám pomohou ukládat silná hesla pro vaše účty.
