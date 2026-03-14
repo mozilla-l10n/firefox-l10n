@@ -719,10 +719,17 @@ pdfjs-views-manager-status-warning-copy-label = לא ניתן היה להעתי�
 pdfjs-views-manager-status-warning-delete-label = לא ניתן היה למחוק. נא לרענן את הדף ולנסות שוב.
 pdfjs-views-manager-status-warning-save-label = לא ניתן היה לשמור. נא לרענן את הדף ולנסות שוב.
 pdfjs-views-manager-status-undo-button-label = ביטול פעולה
+pdfjs-views-manager-status-done-button-label = סיום
 pdfjs-views-manager-status-close-button =
     .title = סגירה
 pdfjs-views-manager-status-close-button-label = סגירה
 pdfjs-views-manager-paste-button-label = הדבקה
+pdfjs-views-manager-paste-button-before =
+    .title = להדביק לפני העמוד הראשון
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = להדביק אחרי עמוד { $page }
 pdfjs-toggle-views-manager-button1 =
     .title = ניהול עמודים
 
