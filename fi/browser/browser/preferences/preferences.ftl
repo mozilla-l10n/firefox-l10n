@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = "Älä seuraa"-ominaisuus ei ole enää tuettu.
 non-technical-privacy-heading =
     .label = Lisäsuojaukset
+preferences-privacy-relay-available =
+    .label = Ehdota { -relay-brand-name }-sähköpostimaskeja
+    .description = Piilottaa oikean sähköpostiosoitteesi ja pyrkii siten suojaamaan sähköpostiasi roskapostilta.
 non-technical-privacy-header = Sivuston tietosuojakäytännöt
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -293,6 +296,8 @@ containers-remove-cancel-button = Älä poista eristystilaa
 settings-tabs-show-image-in-preview =
     .label = Näytä kuvan esikatselu, kun siirrät hiiren välilehden päälle
     .accessKey = h
+settings-tabs-drag-to-create-tab-groups =
+    .label = Vedä välilehtiä yhteen luodaksesi välilehtiryhmiä
 browser-layout-header2 =
     .label = Selaimen asettelu
 browser-layout-horizontal-tabs2 =
@@ -528,9 +533,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Käytä käyttöjärjestelmän asetuksia alueelle ”{ $localeName }” muotoilemaan päivämäärät, kellonajat, luvut ja mittayksiköt.
+settings-spellcheck-header =
+    .label = Oikeinkirjoituksen tarkistus
 check-user-spelling =
     .label = Oikolue käyttäjän kirjoitukset
     .accesskey = l
+spellcheck-download-dictionaries =
+    .label = Lataa oikolukusanastot
 
 ## General Section - Files and Applications
 
@@ -1053,6 +1062,12 @@ search-one-click-desc = Valitse vaihtoehtoiset hakukoneet, jotka ilmestyvät oso
 search-one-click-header-3 =
     .label = Lisähakukoneet
     .description = Valitse mitkä hakukoneet ja oikotiet näkyvät osoitepalkissa.
+update-search-engine-success =
+    .message = Hakukone päivitetty onnistuneesti
+search-edit-engine-2 =
+    .title = Muokkaa hakukonetta
+search-delete-engine =
+    .title = Poista hakukone
 search-choose-engine-column =
     .label = Hakukone
 search-choose-keyword-column =

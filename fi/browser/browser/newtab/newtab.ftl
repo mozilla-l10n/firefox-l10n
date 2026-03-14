@@ -641,6 +641,8 @@ newtab-report-cancel = Peruuta
 newtab-report-submit = Lähetä
 newtab-toast-thanks-for-reporting =
     .message = Kiitos, että ilmoitit tästä.
+newtab-toast-widgets-hidden =
+    .message = Voit lisätä pienoisohjelmia takaisin milloin tahansa valitsemalla kynäkuvakkeen.
 
 ## Strings for task / to-do list productivity widget
 
@@ -681,6 +683,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Uusi lista
 newtab-widget-section-title = Pienoisohjelmat
+newtab-widget-menu-hide = Piilota pienoisohjelma
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Piilota pienoisohjelmat

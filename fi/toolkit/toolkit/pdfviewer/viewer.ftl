@@ -719,10 +719,17 @@ pdfjs-views-manager-status-warning-copy-label = Kopiointi epäonnistui. Päivit�
 pdfjs-views-manager-status-warning-delete-label = Poisto epäonnistui. Päivitä sivu ja yritä uudelleen.
 pdfjs-views-manager-status-warning-save-label = Tallentaminen epäonnistui. Päivitä sivu ja yritä uudelleen.
 pdfjs-views-manager-status-undo-button-label = Kumoa
+pdfjs-views-manager-status-done-button-label = Valmis
 pdfjs-views-manager-status-close-button =
     .title = Sulje
 pdfjs-views-manager-status-close-button-label = Sulje
 pdfjs-views-manager-paste-button-label = Liitä
+pdfjs-views-manager-paste-button-before =
+    .title = Liitä ennen ensimmäistä sivua
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Liitä sivun { $page } jälkeen
 pdfjs-toggle-views-manager-button1 =
     .title = Hallitse sivuja
 

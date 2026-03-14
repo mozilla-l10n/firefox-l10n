@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Pidä tehtäv�
 experimental-features-semantic-history-search =
     .label = Semanttisen historian haku
 experimental-features-semantic-history-search-description = Käytä paikallista koneoppimismallia ehdottaaksesi historiasta hakuihisi liittyviä tietueita luonnollisen kielen ymmärtämisen perusteella { -brand-product-name }in osoitepalkissa. <a data-l10n-name="connect">Jaa palautetta</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Välilehtien muistiinpanot
+experimental-features-tab-notes-description = Välilehtien muistiinpanot ovat kokeellinen ominaisuus, jonka avulla voit lisätä tarralappuja selaimen välilehtiin. Kirjoita muistiin kontekstia, muistutuksia tai seuraavia vaiheita, jotta voit palata takaisin ja muistaa, miksi avasit välilehden. Arvostamme palautettasi, kun parannamme tätä ominaisuutta jatkuvasti. <a data-l10n-name="connect">Jaa palautetta</a>
