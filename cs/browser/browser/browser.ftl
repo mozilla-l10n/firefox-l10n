@@ -1269,6 +1269,10 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Hesla
     .tooltiptext = Zobrazení a správa vašich uložených hesel
+qrcode-panel-error =
+    .message = Nepodařilo se vygenerovat QR kód. Zkuste to prosím znovu.
+qrcode-copy-button =
+    .label = Kopírovat
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
