@@ -46,6 +46,7 @@ neterror-load-error-firewall = Nemohendaha térã ñanduti omo’ã chupe tataky
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Oñeha’ãramo oñemyanyhẽ peteĩ kuatiarogue upepegua, ehechajey oñemoneĩpa pe ñanduti upepeguágui { -brand-short-name }-pe macOS Privacy ha Security ñembohekorãme.
 neterror-http-error-page = Ehechajey ehai porãpa ñanduti renda réra.
+neterror-http-empty-response = Ehecha jey ehaípa hekopete upe ñanduti rogue kundaharenda ha upéi eha’ã jey ag̃amieve.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-http-empty-response-description = { $hostname } omondo kuatiarogue nandi.

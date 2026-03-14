@@ -95,6 +95,10 @@ fp-certerror-transparency-what-can-you-do-body = Ikatu ndaha’éi mba’evete, 
 fp-learn-more-about-secure-connection-failures = Eikuaave jeike katu jejavy rehegua
 fp-learn-more-about-cert-issues = Eikuaave ko apañuái kuatia’atã ndive rehegua
 fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta jejavy arange rehegua
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = { $hostname } jára nombohekói hekopete ha upévare ndaikatúi omoheñói peteĩ jeikerã hekorosãva.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
