@@ -719,10 +719,17 @@ pdfjs-views-manager-status-warning-copy-label = Kopyalanamadı. Sayfayı tazeley
 pdfjs-views-manager-status-warning-delete-label = Silinemedi. Sayfayı tazeleyip yeniden deneyin.
 pdfjs-views-manager-status-warning-save-label = Kaydedilemedi. Sayfayı tazeleyip yeniden deneyin.
 pdfjs-views-manager-status-undo-button-label = Geri al
+pdfjs-views-manager-status-done-button-label = Tamam
 pdfjs-views-manager-status-close-button =
     .title = Kapat
 pdfjs-views-manager-status-close-button-label = Kapat
 pdfjs-views-manager-paste-button-label = Yapıştır
+pdfjs-views-manager-paste-button-before =
+    .title = İlk sayfadan önce yapıştır
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = { $page }. sayfadan sonra yapıştır
 pdfjs-toggle-views-manager-button1 =
     .title = Sayfaları yönet
 

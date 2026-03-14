@@ -149,7 +149,7 @@ ip-protection-autostart-private-checkbox =
     .label = Gizli pencerelerde
 ip-protection-vpn-upgrade-link =
     .label = { -mozilla-vpn-brand-name } ile { -brand-short-name } dışında daha da fazla korumaya sahip olabilirsiniz
-    .description = İstediğiniz VPN konumunu seçin, ister evde ister halka açık Wi-Fi ağlarında beş ayrı cihazda tüm uygulamalarınıza koruyun.
+    .description = İstediğiniz VPN konumunu seçin, ister evde ister halka açık Wi-Fi ağlarında beş ayrı cihazda tüm uygulamalarınızı koruyun.
 
 ## IP Protection dialogs
 
