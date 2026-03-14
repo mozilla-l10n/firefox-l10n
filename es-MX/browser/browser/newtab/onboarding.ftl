@@ -448,6 +448,8 @@ tab-groups-onboarding-feature-callout-subtitle = Organízate arrastrando una pes
 tab-groups-onboarding-create-group-title-3 = Encuentra tus grupos de pestañas en el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-create-group-title-2 = Encuentra tus grupos de pestañas aquí en cualquier momento.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentra tus grupos buscándolos en la barra de direcciones.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Cuando cierres un grupo de pestañas, puedes volver a abrirlo desde el menú "Mostrar todas las pestañas" en cualquier momento.
 tab-groups-onboarding-saved-groups-title-2 = Cuando cierras un grupo de pestañas, puedes volver a abrirlo aquí en cualquier momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentra tus grupos cerrados buscándolos en la barra de direcciones.
 tab-groups-onboarding-session-restore-title = Vuelve a abrir tus grupos de pestañas aquí en cualquier momento.
