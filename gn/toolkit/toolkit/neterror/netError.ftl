@@ -188,6 +188,7 @@ fp-neterror-why-did-this-happen = ¿Mba’ére oiko ko’ãva?
 fp-neterror-cypher-overlap-why-dangerous-body = Amalisia ko tenda oiporu software itujáva orekóva apañuái tekorosã rehegua.
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } ndojeroviapái { $hostname } rehe pe jeikerã nahekorosãi rupive.
 fp-neterror-offline-what-can-you-do-body = Eñeha’ã eike ambue mba’e’okápe. Ehechajey ne módem térã router-pe. Esẽ ha upéi eikejey Wi-Fi rupive.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Eñeha’ã emoambue upe URL HTTPS-pe. Hákatu oikokuaahína peteĩ apañuái pe tenda ndive.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Sapy’ánte, umi ñanduti rogue omboheko ñemo’ã ijupe g̃uarã ambue mba’e rovake ambue tenda ndive.
 fp-learn-more-about-https-connections = Eikuaave HTTPS-pe jeike rehegua
