@@ -46,3 +46,6 @@ experimental-features-newtab-widget-timer =
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name } ਉੱਤੇ ਸੂਚੀਆਂ ਅਤੇ ਘੜੀ
+# Tab Notes
+experimental-features-tab-notes =
+    .label = ਟੈਬ ਨੋਟਿਸ

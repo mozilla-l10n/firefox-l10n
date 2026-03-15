@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } ਦੀ ਤੁਹਾਡੀ ਕਾਪੀ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ
 copied-profile-page-header-description = ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਟੇ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਨਵੇਂ ਪਰੋਫ਼ਾਈਲ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ ਹੈ। ਹੁਣ ਇਸ ਨੂੰ ਨਾਂ ਦਿਓ, ਦਿੱਖ ਚੁਣੋ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
+restored-profile-page-header = ਆਪਣੇ ਬਹਾਲ ਕੀਤੇ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+restored-profile-page-header-description = ਹਰ ਪਰੋਫਾਈਲ ਤੁਹਾਡੇ ਹੋਰ ਪਰੋਫਾਈਲਾਂ ਤੋਂ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਅਤੀਤ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵੱਖਰਾ ਰੱਖਦਾ ਹੈ। ਇਸ ਨਾਲ ਹੀ { -brand-short-name } ਦੀ ਮਜ਼ਬੂਤ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਵੀ ਮੂਲ ਰੂਪ ਵਿੱਚ ਚਾਲੂ ਹੁੰਦੀ ਹੈ।
+restored-profile-page-learn-more = ਹੋਰ ਜਾਣੋ
 profile-window-title-2 = { -brand-short-name } - ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਚੁਣੋ
 profile-window-logo =
     .alt = { -brand-short-name } ਲੋਗੋ
@@ -87,6 +90,9 @@ delete-profile-bookmarks = ਬੁੱਕਮਾਰਕ
 delete-profile-history = ਅਤੀਤ (ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼ੇ, ਕੂਕੀਜ਼, ਸਾਈਟ ਡਾਟਾ)
 delete-profile-autofill = ਆਪਣੇ ਭਰਨ ਵਾਲਾ ਡਾਟਾ (ਸਿਰਨਾਵੇਂ, ਭੁਗਤਾਨ ਦੇ ਢੰਗ)
 delete-profile-logins = ਪਾਸਵਰਡ
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = “{ $profilename }” ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਹਟਾਓ
 
 ##
 

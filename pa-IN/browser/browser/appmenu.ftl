@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਅਤੇ ਫ਼ੋਨ ਨੂੰ ਲੁਕਾਓ
 appmenuitem-services-relay-description = ਈਮੇਲ ਮਾਸਕ ਡੈਸ਼ਬੋਰਡ ਨੂੰ ਚਲਾਓ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = ਪੂਰੇ-ਡਿਵਾਈਸ ਲਈ ਸੁਰੱਖਿਆ ਲਵੋ
 appmenuitem-vpn-description = ਆਪਣੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ
 appmenu-services-header = ਮੇਰੀਆਂ ਸੇਵਾਵਾਂ
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
