@@ -15,6 +15,10 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Tłumaczenie nie jest dostępne na tym urządzeniu.
     .message = Spróbuj przejść na inne urządzenie.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Tłumaczenia nie są dostępne w Twojej organizacji
+    .message = Jest to zasada ustawiona przez administratora urządzenia.
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Nie można wczytać języków

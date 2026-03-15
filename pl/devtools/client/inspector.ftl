@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Najbliższy do: { $colorName }
 colorpicker-tooltip-hue-slider-title = Odcień
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Nieprzezroczystość
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Pseudoklasy dla poszczególnych elementów

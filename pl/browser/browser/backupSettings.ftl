@@ -78,6 +78,8 @@ settings-sensitive-data =
     .label = Prywatne dane
 settings-data-toggle-encryption-label = Utwórz kopię zapasową prywatnych danych
 settings-data-toggle-encryption-support-link = Więcej informacji
+settings-data-change-password2 =
+    .label = Zmień hasło
 settings-data-change-password = Zmień hasło…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -120,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Wyłącz i usuń kopię zapasową
 restore-from-backup-header = Przywróć dane
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Co zostanie przywrócone?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Spowoduje to zastąpienie wszystkich obecnych danych { -brand-short-name(case: "gen") } kopią zapasową z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -137,6 +142,13 @@ restore-from-backup-password-description = Odblokuje to zaszyfrowaną kopię zap
 restore-from-backup-cancel-button = Anuluj
 restore-from-backup-confirm-button = Przywróć i uruchom ponownie
 restore-from-backup-restoring-button = Przywracanie…
+restore-from-backup-type-group-label =
+    .label = Czy zastąpić obecny profil?
+restore-from-backup-type-replace =
+    .label = Zastąp wszystkie dane tą kopią zapasową
+restore-from-backup-type-add =
+    .label = Zachowaj dane i utwórz nowy profil
+restore-from-backup-profiles-disabled-message = Spowoduje to zastąpienie wszystkich obecnych danych { -brand-short-name(case: "gen") } kopią zapasową.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -264,9 +276,18 @@ other-backup-files-founds =
        *[many] <b>Uwaga:</b> odnaleziono { $numberOfOtherBackupsFound } innych plików kopii zapasowej
     }
 # Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b>, utworzony w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Przywrócony z urządzenia { $deviceName } w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } o { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+# Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Utworzono w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
+backup-file-creation-date-and-device = Utworzony w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
 backup-file-restore-file-validation-error = Ten plik nie działa. Spróbuj wybrać inny. <a data-l10n-name="restore-problems">Nadal masz problemy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nie wybrano pliku
