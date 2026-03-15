@@ -568,6 +568,9 @@ browser-window-restore-down-button =
     .tooltiptext = Przywróć w dół
 browser-window-close-button =
     .tooltiptext = Zamknij
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Wróć
 
 ## Tab actions
 
@@ -1173,6 +1176,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Hasła
     .tooltiptext = Wyświetl i zarządzaj zachowanymi hasłami
+qrcode-panel-error =
+    .message = Utworzenie kodu QR się nie powiodło. Spróbuj ponownie.
+qrcode-copy-button =
+    .label = Kopiuj
+qrcode-copy-success =
+    .message = Skopiowano kod QR do schowka
+qrcode-copy-error =
+    .message = Skopiowanie kodu QR się nie powiodło.
+qrcode-save-button =
+    .label = Zapisz
+qrcode-save-success =
+    .message = Zapisano kod QR
+qrcode-save-error =
+    .message = Zapisanie kodu QR się nie powiodło.
+qrcode-save-title = Zapisz kod QR
+qrcode-save-filter-png = Obraz PNG
+qrcode-save-filename = kod-qr.png
+qrcode-window-title = Kod QR
+qrcode-dialog-title = Kod QR
+qrcode-image =
+    .aria-label = Kod QR
+qrcode-close-button =
+    .aria-label = Zamknij
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1191,6 +1217,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nowe okno prywatne
     .tooltiptext = Otwórz nowe okno w trybie prywatnym ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Udostępnij
+    .tooltiptext = Udostępnij tę stronę
 
 ## EME notification panel
 
