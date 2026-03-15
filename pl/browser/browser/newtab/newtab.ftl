@@ -637,6 +637,8 @@ newtab-report-cancel = Anuluj
 newtab-report-submit = Wyślij
 newtab-toast-thanks-for-reporting =
     .message = Dziękujemy za zgłoszenie.
+newtab-toast-widgets-hidden =
+    .message = Aby z powrotem dodać widżety, kliknij ikonę ołówka.
 
 ## Strings for task / to-do list productivity widget
 
@@ -677,6 +679,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nowa lista
 newtab-widget-section-title = Widżety
+newtab-widget-menu-hide = Ukryj widżet
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ukryj widżety
