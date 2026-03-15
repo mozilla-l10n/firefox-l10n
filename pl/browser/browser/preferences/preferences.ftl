@@ -1718,11 +1718,17 @@ sitedata-total-size2 = Przechowywane ciasteczka, historia, dane i pamięć podr
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Przechowywane ciasteczka, dane i pamięć podręczna witryn zajmują { $value } { $unit } na dysku.
 sitedata-learn-more = Więcej informacji
+sitedata-delete-on-close2 =
+    .label = Usuwanie ciasteczek i danych witryn po zamknięciu { -brand-short-name(case: "gen") }
+    .accesskey = U
 sitedata-delete-on-close =
     .label = Usuwanie ciasteczek i danych witryn podczas zamykania przeglądarki { -brand-short-name }
     .accesskey = U
 sitedata-delete-on-close-private-browsing3 =
     .message = Ustawienia historii powodują, że { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historia nie będzie
+    .message = { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
 sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane witryn są zawsze usuwane podczas zamykania programu { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Ustawienia historii powodują, że { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
 sitedata-allow-cookies-option =
@@ -1768,6 +1774,16 @@ sitedata-cookies-exceptions2 =
     .label = Wyjątki
     .accesskey = W
     .description = Określ zasady akceptacji ciasteczek i danych witryn.
+sitedata-heading =
+    .label = Dane przeglądania
+    .description = Zarządzaj ciasteczkami, historią, pamięcią podręczną, danymi witryn i nie tylko.
+sitedata-settings3 =
+    .label = Usuń dane konkretnych witryn
+    .accesskey = k
+sitedata-cookies-exceptions3 =
+    .label = Zarządzaj wyjątkami
+    .accesskey = w
+    .description = Wybierz, jak konkretne witryny obsługują ciasteczka i dane.
 cookies-site-data-group =
     .label = Ciasteczka i dane witryn
 
@@ -2034,6 +2050,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Zarządzaj przekierowaniami
+    .accesskey = p
+    .searchkeywords = popups,pop-ups,wyskakujące,przekierowania
+permissions-addon-install-warning3 =
+    .label = Ostrzeganie, gdy witryny próbują instalować rozszerzenia
+    .accesskey = O
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Zarządzaj wyjątkami blokowania wyskakujących okien i zewnętrznych przekierowań
     .accesskey = t
@@ -2079,6 +2104,9 @@ permissions-speaker2 =
     .label = Głośniki
 permissions-notification2 =
     .label = Powiadomienia
+permissions-header3 =
+    .label = Uprawnienia
+    .description = Zarządzaj, do czego witryny mają dostęp, czym mogą sterować i co mogą wywoływać.
 
 ## Privacy Section - Data Collection
 
@@ -2093,6 +2121,8 @@ collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbieran
 collection-privacy-notice = Prywatność
 collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
 collection-health-report-telemetry-disabled-link = Więcej informacji
+backup-multi-profile-warning-message =
+    .message = Aby upewnić się, że ta zmiana zostanie uwzględniona w kopiach zapasowych, otwórz każdy profil i kliknij „Utwórz kopię zapasową” w Ustawieniach.
 collection-usage-ping =
     .label = Wysyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
     .accesskey = d

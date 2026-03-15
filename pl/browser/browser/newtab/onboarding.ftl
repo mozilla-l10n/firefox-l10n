@@ -527,7 +527,7 @@ fx-backup-confirmation-screen-close-button = Zamknij
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
-fx-backup-confirmation-screen-all-data-item-text-1 = Obejmuje wszystkie dane przeglądarki
+fx-backup-confirmation-screen-all-data-item-text-1 = Obejmuje wszystkie dane przeglądania
 fx-backup-confirmation-screen-all-data-item-text-2 = Zachowane na urządzeniu
 fx-backup-confirmation-screen-all-data-item-text-3 = Zaszyfrowane i chronione hasłem
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Obejmuje zakładki, historię, ustawienia i pozostałe dane
