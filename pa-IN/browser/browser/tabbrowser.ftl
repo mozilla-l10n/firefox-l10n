@@ -414,6 +414,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = ਵੰਡੀ ਹੋਈ ਝਲਕ ਵਿੱਚ ਵੱਖਰਾ ਕਰੋ
     .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = ਉਲਟ ਟੈਬਾਂ
+    .accesskey = r
 tab-context-badge-new = ਨਵਾਂ
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view

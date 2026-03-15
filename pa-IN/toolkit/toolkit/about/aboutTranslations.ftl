@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਅਨੁਵਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।
     .message = ਵੱਖਰੇ ਡਿਵਾਈਸ ਨਾਲ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ।
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = ਤੁਹਾਡੇ ਸੰਗਠਨ ਲਈ ਅਨੁਵਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹਨ
+    .message = ਇਹ ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਲਾਗੂ ਕੀਤੀ ਪਾਲਸੀ ਹੈ।
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = ਲਿਖਤ ਦਾ ਅਨੁਵਾਦ ਕਰਨ ਲਈ ਇਸ ਫ਼ੀਚਰ ਤੋਂ ਰੋਕ ਹਟਾਓ
+    .message = ਜਾਪਦਾ ਹੀ ਕਿ ਇਹ ਫ਼ੀਚਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ ਤੁਸੀਂ AI ਕੰਟਰੋਲਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਹੈ। ਇਸ ਨੂੰ ਵਰਤਣ ਲਈ ਕਿਸੇ ਵੀ ਸਮੇਂ ਪਾਬੰਦੀ ਹਟਾਓ।
+about-translations-feature-blocked-unblock-button = ਪਾਬੰਦੀ ਹਟਾਓ
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
@@ -25,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।
     .message = ਆਪਣੇ ਇੰਟਰਨੈੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 about-translations-language-load-error-button = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = ਅਨੁਵਾਦ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਸੀ
+about-translations-translation-error-subtext = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ
+about-translations-translation-error-button = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = ਅਫ਼ਸੋਸ, ਤੁਸੀਂ { $language } ਭਾਸ਼ਾ ਲਈ ਹਾਲੇ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ
+about-translations-detected-language-unsupported-heading-unknown = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ ਇਸ ਭਾਸ਼ਾ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ
+about-translations-detected-language-unsupported-subtext = ਕਿਰਪਾ ਕਰਕੇ ਹੋਰ ਭਾਸ਼ਾ ਚੁਣੋ।
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = ਅਨੁਵਾਦ ਲਈ ਲਿਖਤ ਦਿਓ
