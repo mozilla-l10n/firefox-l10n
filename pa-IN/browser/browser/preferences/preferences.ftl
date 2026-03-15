@@ -2446,6 +2446,39 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } ਗਾਰਡ ਚਾਲੂ ਹੈ
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } ਕੁਝ ਸੁਰੱਖਿਆ ਸੁਧਾਰਾਂ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕਰਦਾ ਹੈ
+security-privacy-status-ok-label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਚਾਲੂ ਹੈ
+security-privacy-status-problem-label = ਸਾਨੂੰ ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰਨ ਵਾਲੀਆਂ ਕੁਝ ਸੈਟਿੰਗਾਂ ਲੱਭੀਆਂ ਹਨ
+security-privacy-status-problem-helper-label = ਮਸਲਿਆਂ ਨੂੰ ਵੇਖੋ
+security-privacy-status-pending-trackers-label = ਵੇਖੋ ਕਿ ਪਿਛਲੇ ਮਹੀਨੇ { -brand-short-name } ਨੇ ਕਿੰਨੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] ਪਿਛਲੇ ਮਹੀਨੇ { $trackerCount } ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] ਪਿਛਲੇ ਮਹੀਨੇ { $trackerCount } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = ਤੁਹਾਡੇ ਕੋਲ <a data-l10n-name="strict-tracking-protection">ਸਖ਼ਤ ਸੁਰੱਖਿਆ</a> ਹੈ
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = ਤੁਹਾਡੇ ਕੋਲ <a data-l10n-name="custom-tracking-protection">ਚੁਣਿੰਦਾ ਸੁਰੱਖਿਆ</a> ਹੈ
+security-privacy-status-up-to-date-label = ਤੁਹਾਡੇ ਕੋਲ { -brand-short-name } ਦਾ ਬਿਲਕੁਲ ਨਵਾਂ, ਸੁਰੱਖਿਅਤ ਵਰਜ਼ਨ ਹੈ
+security-privacy-status-update-needed-label = { -brand-short-name } ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਮੌਜੂਦ ਹੈ।
+security-privacy-status-update-error-label = { -brand-short-name } ਨੂੰ ਖੁਦ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ
+security-privacy-status-update-checking-label = { -brand-short-name } ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਕਰ ਰਿਹਾ ਹੈ
+security-privacy-status-update-needed-description = ਸਭ ਤੋਂ ਤੇਜ਼, ਸਥਿਰ ਅਤੇ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਲਈ ਅੱਪਡੇਟ ਹਨ।
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
+security-privacy-image-warning =
+    .alt = ਵਿਸਮਿਕ ਨਿਸ਼ਾਨ ਵਾਲੀ ਢਾਲ ਤੁਹਾਡੀਆਂ ਸੁਰੱਖਿਆ ਚੇਤਾਵਨੀਆਂ ਬਾਰੇ ਚਿੰਤਾ ਦਰਸਾਉਂਦੀ ਹੈ
+security-privacy-image-ok =
+    .alt = ਸਹੀ ਦੇ ਨਿਸ਼ਾਨ ਵਾਲੀ ਢਾਲ ਦਰਸਾਉਂਦੀ ਹੈ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵੀ ਸੁਰੱਖਿਆ ਮਸਲੇ ਬਾਕੀ ਨਹੀਂ ਹਨ
+security-privacy-issue-card =
+    .heading = ਸੁਰੱਖਿਆ ਚੇਤਾਵਨੀਆਂ
+issue-card-reset-button =
+    .label = ਮੁੜ-ਸੈੱਟ
 issue-card-dismiss-button =
     .tooltiptext = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
@@ -2458,6 +2491,21 @@ preferences-etp-status-header =
 preferences-etp-level-standard =
     .label = ਸਟੈਂਡਰਡ (ਮੂਲ)
     .description = ਮਜ਼ਬੂਤ, ਭਰੋਸੇਯਗ ਸੁਰੱਖਿਆਵਾਂ, ਜੋ ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਆਮ ਵਾਂਗ ਕੰਮ ਕਰਦੀਆਂ ਹਨ।
+preferences-etp-level-strict =
+    .label = ਸਖ਼ਤ
+    .description = ਵੱਧ ਸੁਰੱਖਿਆਵਾਂ, ਜੋ ਕਿ ਵੱਧ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦੀਆਂ ਹਨ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਨਾਲ ਗੜਬੜ ਹੋ ਸਕਦੀ ਹੈ।
+preferences-etp-level-custom =
+    .label = ਚੁਣਿੰਦਾ
+    .description = ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨਾ ਹੈ।
+preferences-etp-status-advanced-button =
+    .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
+preferences-etp-customize-header =
+    .heading = ਚੁਣਿੰਦਾ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+preferences-etp-reset =
+    .label = ਕਸਟਮਾਈਜ਼ੇਸ਼ਨ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ
+    .description = ਸੈਟਿੰਗਾਂ ਨੂੰ ਪਹਿਲਾਂ ਤਿਆਰ ਕੀਤੇ ਸੁਰੱਖਿਆ ਪੱਧਰ ਲਈ ਬਹਾਲ ਕਰੋ।
+preferences-etp-reset-standard-button =
+    .label = ਸਟੈਂਡਰਡ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 preferences-etp-reset-strict-button =
     .label = ਸਖ਼ਤ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 preferences-etp-custom-control-group =
@@ -2467,6 +2515,8 @@ preferences-etp-custom-cookies-enabled =
     .label = ਕੂਕੀਜ਼
 preferences-etp-custom-cookie-behavior =
     .aria-label = ਕੂਕੀਜ਼
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = ਸਭ ਕੂਕੀਜ਼ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿਓ
 preferences-etp-custom-tracking-protection-enabled =
     .label = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
 preferences-etp-custom-tracking-protection-enabled-context =
