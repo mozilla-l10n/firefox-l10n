@@ -1168,6 +1168,22 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = ਪਾਸਵਰਡ
     .tooltiptext = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਪਾਸਵਰਡ ਵੇਖੋ ਅਤੇ ਉਹਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+qrcode-panel-error =
+    .message = QR ਕੋਡ ਤਿਆਰ ਕਰਨ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+qrcode-copy-button =
+    .label = ਕਾਪੀ ਕਰੋ
+qrcode-copy-success =
+    .message = QR ਕੋਡ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ ਗਿਆ ਹੈ।
+qrcode-copy-error =
+    .message = QR ਕੋਡ ਕਾਪੀ ਕਰਨ ਲਈ ਅਸਫ਼ਲ ਹੈ।
+qrcode-save-button =
+    .label = ਸੰਭਾਲੋ
+qrcode-save-success =
+    .message = QR ਕੋਡ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ ਹੈ।
+qrcode-save-error =
+    .message = QR ਕੋਡ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਅਸਫ਼ਲ ਹੈ।
+qrcode-save-title = QR ਕੋਡ ਨੂੰ ਸੰਭਾਲੋ
+qrcode-save-filter-png = PNG ਚਿੱਤਰ
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

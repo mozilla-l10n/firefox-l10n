@@ -24,8 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = VPN ਪੇਸ਼ ਹੈ, ਹੁਣ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੇ ਵਿੱਚ ਹੀ
-ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਵਿੱਚੇ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
-ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਵਿੱਚੇ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
+ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
+ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-button-primary = ਅੱਗੇ
 ipprotection-feature-introduction-button-secondary-not-now = ਹੁਣੇ ਨਹੀਂ
 ipprotection-feature-introduction-button-secondary-no-thanks = ਨਹੀਂ, ਧੰਨਵਾਦ
@@ -38,7 +38,7 @@ ipprotection-site-settings-callout-button = ਸਮਝੇ
 
 ## Panel
 
-unauthenticated-vpn-title = { -brand-product-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
+unauthenticated-vpn-title = { -brand-product-name } ਦੇ ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
 unauthenticated-hide-location-message-2 = { -brand-product-name } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ।
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -103,7 +103,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = ਇਸ ਸਾਈਟ 
 
 ## IP Protection bandwidth callouts
 
-ipprotection-bandwidth-upgrade-title = ਨਾਲ ਹੀ ਮੌਜੂਦ VPN ਪਸੰਦ ਆਇਆ? { -mozilla-vpn-brand-name } ਨਾਲ { -brand-product-name } ਤੋਂ ਬਿਨਾਂ ਵੀ ਸੁਰੱਖਿਆ ਲਵੋ।
+ipprotection-bandwidth-upgrade-title = ਨਾਲ ਹੀ ਮੌਜੂਦ VPN ਪਸੰਦ ਆਇਆ ਹੈ? { -mozilla-vpn-brand-name } ਨਾਲ { -brand-product-name } ਤੋਂ ਬਿਨਾਂ ਵੀ ਸੁਰੱਖਿਆ ਲਵੋ।
 ipprotection-bandwidth-upgrade-text = ਇੱਕ VPN ਟਿਕਾਣੇ ਨੂੰ ਚੁਣੋ ਅਤੇ 5 ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਲਈ ਸੁਰੱਖਿਆ ਪੱਧਰ ਨੂੰ ਜੋੜੋ, ਭਾਵੇਂ ਤੁਸੀਂ ਘਰੇ ਹੋ ਜਾਂ ਪਬਲਿਕ Wi-Fi ਉੱਤੇ।
 
 ## IP Protection bandwidth warning infobar
@@ -126,6 +126,11 @@ ip-protection-description =
 ip-protection-learn-more = ਹੋਰ ਜਾਣੋ
 ip-protection-site-exceptions =
     .label = ਖਾਸ ਸਾਈਟ ਸੈਟਿੰਗਾਂ
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = { -brand-short-name } ਦੇ ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
+    .message = { -brand-short-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ। ਹਰ ਮਹੀਨੇ { $maxUsage } GB VPN ਮੁਫ਼ਤ ਲਵੋ।
 ip-protection-not-opted-in-button = ਸ਼ੁਰੂ ਕਰੀਏ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -138,25 +143,66 @@ ip-protection-site-exceptions-all-sites-button =
         }
 ip-protection-autostart =
     .label = VPN ਨੂੰ ਆਪਣੇ-ਆਪ ਚਾਲੂ ਕਰੋ
+ip-protection-autostart-checkbox =
+    .label = ਜਦੋਂ ਵੀ ਮੈਂ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹਾਂ
 ip-protection-autostart-private-checkbox =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ
+ip-protection-vpn-upgrade-link =
+    .label = { -mozilla-vpn-brand-name } ਨਾਲ { -brand-short-name } ਤੋਂ ਬਿਨਾਂ ਵੀ ਹੋਰ ਸੁਰੱਖਿਆ ਲਵੋ
+    .description = ਪਸੰਦੀਦਾ VPN ਟਿਕਾਣੇ ਚੁਣੋ ਅਤੇ ਪੰਜ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਭਾਵੇਂ ਘਰੇ ਹੋਵੇ ਜਾਂ ਪਬਲਿਕ Wi-Fi ਉੱਤੇ।
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+ip-protection-exclusions-desc = ਇਸ ਸੂਚੀ ਵਿੱਚ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਬਿਨਾਂ ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ। ਵੈੱਬਸਾਈਟ ਨੂੰ ਜੋੜੋ ਜਾਂ VPN ਖੋਲ੍ਹਣ ਦੇ ਬਾਅਦ।
 
 ## IP Protection Bandwidth
 
 ip-protection-bandwidth-header = ਮਹੀਨੇਵਾਰ VPN ਡਾਟਾ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = ਇਸ ਮਹੀਨੇ ਲਈ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਹੈ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = ਇਸ ਮਹੀਨੇ ਲਈ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } MB ਬਾਕੀ ਹੈ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } MB ਬਾਕੀ ਬਚਿਆ ਹੈ
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = ਤੁਸੀਂ ਆਪਣੇ VPN ਡਾਟੇ ਲਈ ਸਾਰਾ { $maxUsage } GB ਵਰਤ ਚੁੱਕੇ ਹੋ। ਬਾਕੀ ਡਾਟੇ ਲਈ ਪਹੁੰਚ ਅਗਲੇ ਮਹੀਨੇ ਹੋਵੇਗੀ।
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = ਹਰ ਮਹੀਨੇ ਦੀ ਪਹਿਲੀਂ ਤਾਰੀਖ ਨੂੰ { $maxUsage } GB ਲਈ ਮੁੜ-ਸੈੱਟ ਹੁੰਦਾ ਹੈ।
+ip-protection-bandwidth-header-1 = ਮਹੀਨੇਵਾਰ ਡਾਟਾ ਹੱਦ
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = VPN ਲਈ { $maxUsage } GB, ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਅਤੇ ਵਰਤਣ ਲਈ ਤਿਆਰ ਹੈ
+ipprotection-bandwidth-reset-text = ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਦੇਣ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ, ਹਰ ਮਹੀਨੇ ਮੁਫ਼ਤ।
 ipprotection-bandwidth-reset-button = ਸਮਝੇ
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>ਇਹ ਵੈੱਬਸਾਈਟ ਸ਼ਾਇਦ VPN ਨਾਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ।</strong> ਇਸ ਵੈੱਬਸਾਈਟ ਨੂੰ ਵਰਤਣ ਦੌਰਾਨ ਸਾਈਨ ਇਨ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰੋ ਜਾਂ VPN ਨੂੰ ਬੰਦ ਕਰਕੇ।
+ipp-activator-breakage-turn-off-warning = <strong>ਇਹ ਵੈੱਬਸਾਈਟ ਸ਼ਾਇਦ VPN ਨਾਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ।</strong> ਇਸ ਵੈੱਬਸਾਈਟ ਨੂੰ ਵਰਤਣ ਦੌਰਾਨ VPN ਨੂੰ ਬੰਦ ਕਰਕੇ ਕੋਸ਼ਿਸ ਕਰੋ।
 
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN ਰੁਕਿਆ ਹੈ
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = ਤੁਸੀਂ ਆਪਣੇ VPN ਡਾਟੇ ਲਈ ਸਾਰੇ { $maxUsage } GB ਨੂੰ ਵਰਤ ਚੁੱਕੇ ਹੋ। VPN ਪਹੁੰਚ ਅਗਲੇ ਮਹੀਨੇ ਮੁੜ-ਸੈੱਟ ਹੋਵੇਗੀ।
 vpn-paused-alert-close-tabs-button = ਸਾਰੀਆਂ ਟੈਬਾਂ ਬੰਦ ਕਰੋ
 vpn-paused-alert-continue-wo-vpn-button = VPN ਤੋਂ ਬਿਨਾਂ ਜਾਰੀ ਰੱਖੋ
 vpn-error-alert-title = ਇਸ ਵੇਲੇ VPN ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ।
