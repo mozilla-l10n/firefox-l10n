@@ -296,6 +296,8 @@ containers-remove-cancel-button = Kapsayıcıyı silme
 settings-tabs-show-image-in-preview =
     .label = Bir sekmenin üzerine geldiğimde sekme ön izlemesini göster
     .accessKey = ö
+settings-tabs-drag-to-create-tab-groups =
+    .label = Sekme grubu oluşturmak için sekmeleri bir araya sürükleyin
 browser-layout-header2 =
     .label = Tarayıcı düzeni
 browser-layout-horizontal-tabs2 =
@@ -2422,12 +2424,21 @@ security-privacy-status-trackers-label =
         [one] Geçen ay { $trackerCount } takip kodu engellendi
        *[other] Geçen ay { $trackerCount } takip kodu engellendi
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">Sıkı korumayı</a> kullanıyorsunuz
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = <a data-l10n-name="custom-tracking-protection">Özel korumayı</a> kullanıyorsunuz
 security-privacy-status-up-to-date-label = { -brand-short-name } tarayıcısının en yeni ve en güvenli sürümünü kullanıyorsunuz
 security-privacy-status-update-needed-label = Yeni bir { -brand-short-name } sürümü çıktı.
 security-privacy-status-update-error-label = { -brand-short-name } kendi kendini güncelleyemedi
 security-privacy-status-update-checking-label = { -brand-short-name } güncellemeleri denetliyor
+security-privacy-status-update-needed-description = En yeni hız, kararlılık ve güvenlik güncellemeleri için güncelleme yapın.
 security-privacy-status-update-button-label =
     .label = { -brand-short-name } tarayıcısını güncelle
+security-privacy-image-warning =
+    .alt = Güvenlik uyarılarınızla ilgili endişemizi ifade eden ünlem işaretli bir kalkan
+security-privacy-image-ok =
+    .alt = Başka güvenlik sorununuz olmadığını gösteren, onay işaretli bir kalkan
 security-privacy-issue-card =
     .heading = Güvenlik uyarıları
 issue-card-reset-button =

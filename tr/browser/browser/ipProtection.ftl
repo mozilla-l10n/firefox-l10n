@@ -182,6 +182,7 @@ ip-protection-bandwidth-hit-for-the-month = { $maxUsage } GB VPN kotanızın hep
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Her ayın ilk günü { $maxUsage } GB hakkınız sıfırlanır.
+ip-protection-bandwidth-header-1 = Aylık kota
 
 ## IP Protection bandwidth reset callout
 
