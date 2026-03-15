@@ -2480,3 +2480,29 @@ security-privacy-status-update-button-label =
     .label = Zaktualizuj { -brand-short-name(case: "acc") }
 security-privacy-image-warning =
     .alt = Tarcza z wykrzyknikiem, wyrażająca obawy związane z ostrzeżeniami bezpieczeństwa
+security-privacy-image-ok =
+    .alt = Tarcza ze znakiem pokazującym, że nie ma żadnych nierozwiązanych problemów z bezpieczeństwem
+security-privacy-issue-card =
+    .heading = Ostrzeżenia bezpieczeństwa
+issue-card-reset-button =
+    .label = Przywróć
+issue-card-dismiss-button =
+    .tooltiptext = Zamknij
+    .aria-label = Zamknij
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Wzmocniona ochrona przed śledzeniem
+    .description = Witryny używają elementów śledzących, aby śledzić Cię w Internecie i wyświetlać podejrzane reklamy. { -brand-short-name } chroni Cię podczas przeglądania Internetu, automatycznie blokując elementy śledzące, dzięki czemu masz kontrolę nad swoim cyfrowym śladem.
+preferences-etp-level-standard =
+    .label = Standardowa (domyślna)
+    .description = Silna, niezawodna ochrona, która bezproblemowo działa na większości witryn.
+preferences-etp-level-strict =
+    .label = Ścisła
+    .description = Silniejsza ochrona, która blokuje więcej elementów śledzących, ale może powodować niepoprawne działanie niektórych stron.
+preferences-etp-level-custom =
+    .label = Własna
+    .description = Wybierz, które funkcje ochrony włączyć.
+preferences-etp-status-advanced-button =
+    .label = Ustawienia zaawansowane
