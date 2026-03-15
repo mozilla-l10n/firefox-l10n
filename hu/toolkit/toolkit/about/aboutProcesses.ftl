@@ -65,6 +65,7 @@ about-processes-unknown-process = Egyéb: { $type } ({ $pid })
 about-processes-web-isolated-property-private = magán
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT letiltva
+about-processes-web-isolated-property-with-coop-coep = eredetek közt elszigetelt
 
 ## Isolated process names
 ## Variables:
