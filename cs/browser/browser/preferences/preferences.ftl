@@ -2749,6 +2749,20 @@ security-privacy-status-trackers-label =
         [many] Za poslední měsíc bylo zablokováno { $trackerCount } sledovacích prvků
        *[other] Za poslední měsíc bylo zablokováno { $trackerCount } sledovacích prvků
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Máte <a data-l10n-name="strict-tracking-protection">přísnou ochranu</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Máte <a data-l10n-name="custom-tracking-protection">vlastní ochranu</a>
+security-privacy-status-up-to-date-label =
+    { -brand-short-name.case-status ->
+        [with-cases] Máte nejnovější a nejbezpečnější verzi { -brand-short-name(case: "gen") }
+       *[no-cases] Máte nejnovější a nejbezpečnější verzi aplikace { -brand-short-name }
+    }
+security-privacy-status-update-needed-label =
+    { -brand-short-name.case-status ->
+        [with-cases] Je k dispozici nová verze { -brand-short-name(case: "gen") }.
+       *[no-cases] Je k dispozici nová verze aplikace { -brand-short-name }.
+    }
 security-privacy-status-update-error-label =
     { -brand-short-name.case-status ->
         [with-cases] { -brand-short-name } má problémy s aktualizací
@@ -2762,6 +2776,10 @@ security-privacy-status-update-button-label =
             [with-cases] Aktualizovat { -brand-short-name(case: "acc") }
            *[no-cases] Aktualizovat aplikaci { -brand-short-name }
         }
+security-privacy-image-warning =
+    .alt = Štít s vykřičníkem, který vyjadřuje znepokojení nad vašimi bezpečnostními varováními
+security-privacy-image-ok =
+    .alt = Štít se značkou zaškrtnutí, který indikuje, že nemáte žádný nevyřešený bezpečnostní problém
 security-privacy-issue-card =
     .heading = Bezpečnostní varování
 issue-card-reset-button =
@@ -2772,6 +2790,18 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Rozšířená ochrana proti sledování
+    .description = Webové stránky používají sledovače, aby vás sledovaly online a zobrazovaly strašidelné reklamy. { -brand-short-name } vás chrání při procházení a automaticky blokuje sledovače, abyste měli svou digitální stopu pod kontrolou.
+preferences-etp-level-standard =
+    .label = Standardní (výchozí)
+    .description = Silná a spolehlivá ochrana, která hladce funguje s většinou webových stránek.
+preferences-etp-level-strict =
+    .label = Přísná
+    .description = Silnější ochrany, které blokují více sledovačů, ale mohou způsobit poškození některých webových stránek.
+preferences-etp-level-custom =
+    .label = Vlastní
+    .description = Vyberte, které ochrany chcete zapnout nebo vypnout.
 preferences-etp-status-advanced-button =
     .label = Pokročilé nastavení
 preferences-etp-header =
