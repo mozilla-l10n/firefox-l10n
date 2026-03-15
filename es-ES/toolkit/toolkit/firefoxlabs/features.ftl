@@ -77,3 +77,6 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantenga su li
 experimental-features-semantic-history-search =
     .label = Búsqueda semántica en el historial
 experimental-features-semantic-history-search-description = Use un modelo local de Machine Learning para sugerir entradas del historial que estén relacionadas con las búsquedas según la comprensión del lenguaje natural en la barra de direcciones de { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Notas de pestañas

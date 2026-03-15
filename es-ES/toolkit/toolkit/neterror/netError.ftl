@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Intente cambiar la URL a H
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = A veces, los sitios web configuran protecciones para sí mismos contra interacciones no deseadas con otros sitios.
 fp-learn-more-about-https-connections = Saber más sobre conexiones HTTPS
+fp-neterror-vpn-error-title = No se ha podido conectar a la VPN
+fp-neterror-vpn-error-description = Inténtelo de nuevo en unos minutos.
