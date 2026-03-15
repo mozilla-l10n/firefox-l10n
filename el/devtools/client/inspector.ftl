@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Πλησιέστερα σε: { $colorName
 colorpicker-tooltip-hue-slider-title = Απόχρωση
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Αδιαφάνεια
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Ψευδοκλάσεις συγκεκριμένου στοιχείου

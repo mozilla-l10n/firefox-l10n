@@ -1172,6 +1172,23 @@ qrcode-copy-button =
     .label = Αντιγραφή
 qrcode-copy-success =
     .message = Ο κωδικός QR αντιγράφτηκε στο πρόχειρο.
+qrcode-copy-error =
+    .message = Αποτυχία αντιγραφής κωδικού QR.
+qrcode-save-button =
+    .label = Αποθήκευση
+qrcode-save-success =
+    .message = Ο κωδικός QR αποθηκεύτηκε.
+qrcode-save-error =
+    .message = Αποτυχία αποθήκευσης κωδικού QR.
+qrcode-save-title = Αποθήκευση κωδικού QR
+qrcode-save-filter-png = Εικόνα PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = Κωδικός QR
+qrcode-dialog-title = Κωδικός QR
+qrcode-image =
+    .aria-label = Κωδικός QR
+qrcode-close-button =
+    .aria-label = Κλείσιμο
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
