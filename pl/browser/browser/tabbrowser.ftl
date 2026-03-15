@@ -438,6 +438,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Rozdziel widok
     .accesskey = R
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Odwróć kolejność kart
+    .accesskey = O
 tab-context-badge-new = Nowe
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view

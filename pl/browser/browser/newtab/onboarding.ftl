@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Przywróć z kopii zapasowej
 restore-from-backup-title = Wróćmy do { -brand-short-name(case: "gen") } takiego, jak lubisz
 restore-from-backup-subtitle = Odzyskaj wszystkie swoje zakładki, historię i inne dane, aby wrócić do przeglądania.
 restore-from-backup-secondary-button = Nie przywracaj
+multiple-backups-info-tile = <strong>Odnaleziono więcej niż jeden plik z kopią zapasową.</strong> Wybrano najnowszy plik. Pozostałe profile można przywrócić w <a data-l10n-name="settings-label">Ustawieniach.</a>
 
 ## Restored from Backup spotlight
 
