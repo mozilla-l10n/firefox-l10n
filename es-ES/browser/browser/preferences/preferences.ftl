@@ -293,6 +293,8 @@ containers-remove-cancel-button = No eliminar este contenedor
 settings-tabs-show-image-in-preview =
     .label = Mostrar una vista previa al pasar el cursor sobre una pestaña
     .accessKey = M
+settings-tabs-drag-to-create-tab-groups =
+    .label = Arrastre las pestañas para crear grupos de pestañas
 browser-layout-header2 =
     .label = Disposición del navegador
 browser-layout-horizontal-tabs2 =
@@ -528,9 +530,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Usar la configuración de su sistema operativo para “{ $localeName }” para dar formato a fechas, horas, números y medidas.
+settings-spellcheck-header =
+    .label = Corrector ortográfico
 check-user-spelling =
     .label = Revisar la ortografía según escribe
     .accesskey = v
+spellcheck-download-dictionaries =
+    .label = Descargar diccionarios
 
 ## General Section - Files and Applications
 
@@ -793,6 +799,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elige lo que ves cuando abres tu página de inicio, nuevas ventanas y nuevas pestañas.
+home-section =
+    .heading = Inicio
 
 ## Home Section - Default Browser
 
@@ -1053,6 +1061,14 @@ search-one-click-header-3 =
     .description = Elija qué buscadores y atajos aparecen en su barra de direcciones.
 update-search-engine-success =
     .message = Buscador actualizado correctamente
+search-edit-engine-2 =
+    .title = Editar buscador
+search-delete-engine =
+    .title = Eliminar buscador
+search-enable-engine =
+    .title = Acivar buscador
+search-outlink-to-extensions-page =
+    .title = Administrar en extensiones y temas
 search-choose-engine-column =
     .label = Buscador
 search-choose-keyword-column =
@@ -1604,6 +1620,8 @@ history-remember-label = { -brand-short-name } podrá
     .accesskey = o
 history-remember-option-all =
     .label = Recordar el historial
+history-remember-option-custom2 =
+    .label = Personalizar historial
 history-remember-option-never =
     .label = No recordar el historial
 history-remember-option-custom =
@@ -1646,8 +1664,14 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpiar historial…
     .accesskey = s
+history-header2 =
+    .heading = Historial
+history-custom-button =
+    .label = Seleccione qué quiere que { -brand-short-name } recuerde
 history-group =
     .label = Historial
+history-remember-option-all2 =
+    .label = Recordar el historial
 
 ## Privacy Section - Site Data
 
@@ -1658,12 +1682,19 @@ sitedata-total-size-calculating = Calculando el tamaño de los datos del sitio y
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Los sitios web están usando actualmente <strong>{ $value } { $unit }</strong> de espacio en disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Sus cookies almacenadas, el historial, los datos del sitio y caché están usando <strong>{ $value } { $unit }</strong> de espacio en disco en este momento.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Sus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Saber más
+sitedata-delete-on-close2 =
+    .label = Borrar cookies y datos del sitio cada vez que se cierre { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Eliminar cookies y datos del sitio cuando cierre { -brand-short-name }
     .accesskey = c
@@ -1714,6 +1745,9 @@ sitedata-cookies-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
     .description = Puede especificar que sitios web tienen siempre permitido o prohibido usar cookies y datos de sitio.
+sitedata-settings3 =
+    .label = Borrar datos para sitios específicos
+    .accesskey = s
 cookies-site-data-group =
     .label = Cookies y datos del sitio
 
