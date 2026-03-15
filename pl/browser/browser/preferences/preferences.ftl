@@ -806,11 +806,17 @@ network-proxy-connection-settings =
 network-proxy-group2 =
     .label = Ustawienia serwerów proxy
     .description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
+network-proxy-connection-settings2 =
+    .label = Konfiguruj serwery proxy
+    .description = Zmiana tych ustawień może spowodować problemy z połączeniem
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Nowe okna i karty
 home-new-windows-tabs-description2 = Wybierz, co ma być wyświetlane przy otwieraniu strony startowej, nowych okien i kart.
+home-section =
+    .heading = Strona startowa i uruchamianie
 
 ## Home Section - Default Browser
 
@@ -1070,6 +1076,16 @@ search-one-click-desc = Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyni
 search-one-click-header-3 =
     .label = Dodatkowe wyszukiwarki
     .description = Wybierz, które wyszukiwarki i skróty są wyświetlane na pasku adresu.
+update-search-engine-success =
+    .message = Pomyślnie zaktualizowano wyszukiwarkę
+search-edit-engine-2 =
+    .title = Edytuj wyszukiwarkę
+search-delete-engine =
+    .title = Usuń wyszukiwarkę
+search-enable-engine =
+    .title = Włącz wyszukiwarkę
+search-outlink-to-extensions-page =
+    .title = Zarządzaj w rozszerzeniach i motywach
 search-choose-engine-column =
     .label = Nazwa
 search-choose-keyword-column =
@@ -1621,6 +1637,11 @@ history-remember-label = Program { -brand-short-name }:
     .accesskey = m
 history-remember-option-all =
     .label = Zachowywanie historii
+history-remember-option-never2 =
+    .label = Bez zachowywania historii
+    .description = Każde okno zachowuje się, jakby było w trybie prywatnym. Po włączeniu każde rozszerzenie musi mieć pozwolenie na działanie.
+history-remember-option-custom2 =
+    .label = Dostosuj ustawienia historii
 history-remember-option-never =
     .label = Bez zachowywania historii
 history-remember-option-custom =
@@ -1663,8 +1684,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Wyczyść historię…
     .accesskey = W
+history-header2 =
+    .heading = Historia
+history-section-header =
+    .label = Historia
+    .description = Wybierz, co { -brand-short-name } ma zachowywać po zamknięciu przeglądarki.
+history-custom-section-header =
+    .label = Ustawienia zaawansowane
+    .description = Dostosuj, co { -brand-short-name } ma zachowywać po zamknięciu przeglądarki.
+history-custom-button =
+    .label = Wybierz, co { -brand-short-name } ma zachowywać
 history-group =
     .label = Historia
+history-remember-option-all2 =
+    .label = Zachowywanie historii
 
 ## Privacy Section - Site Data
 
@@ -1672,6 +1705,10 @@ sitedata-header = Ciasteczka i dane witryn
 sitedata-label =
     .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręcznej witryn…
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Witryny obecnie wykorzystują <strong>{ $value } { $unit }</strong> miejsca na dysku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
