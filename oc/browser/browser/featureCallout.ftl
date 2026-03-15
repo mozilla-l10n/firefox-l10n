@@ -56,6 +56,11 @@ fx-view-discoverability-secondary-button-label = Ignorar
 split-dismiss-button-manage-settings-option =
     .label = Gerir los paramètres
 
+## Sidebar Onboarding Strings
+
+sidebar-customization-callout-callout-button = Personalizar la barra laterala
+sidebar-customization-callout-2-subtitle = Ajustatz e suprimissètz d'aisinas. Plaçatz vòstres onglets dins la barra laterala. Ensajatz un agent de conversacion IA. La personalizacion de vòstra barra laterala depend de vos.
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = Ajudatz a melhorar { -brand-short-name }

@@ -94,3 +94,13 @@ contextual-manager-passwords-list-label =
     .aria-label = Senhals
 contextual-manager-copy-icon =
     .alt = Copiar
+
+## When the user cancels a login that's currently being edited, we display a message to confirm whether
+## or not the user wants to discard their current edits to the login.
+
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] Òc, suprimir lo senhal
+       *[other] Òc, suprimir los senhals
+    }

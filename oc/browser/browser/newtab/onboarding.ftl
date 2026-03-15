@@ -353,6 +353,9 @@ onboarding-mobile-download-security-and-privacy-title = Demoratz en lòc segur a
 onboarding-mobile-download-security-and-privacy-subtitle = Quand la sincronizacion es activada, { -brand-short-name } chifra vòstres senhals, vòstres marcapaginas e encara mai. Amai podètz recuperar vòstres onglets de vòstres autres aparelhs.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } es totjorn aquí per vos
+# Sign up or Sign in screen
+onboarding-sign-up-title = Sincronizar vòstras donadas entre los periferics
+onboarding-sign-up-description = Creatz un compte e totas vòstras informacions importantas — senhals, marcapaginas, e mai — seràn servadas en tota seguretat e disponiblas quand vos connectaretz a quin aparelh que siá.
 onboarding-sign-up-button = Crear un compte o se connectar
 onboarding-sign-up-secondary-button = Començar de navegar
 
@@ -376,10 +379,20 @@ onboarding-genai-sidebar-primary-button = Causir un robòt de convèrsa
 
 onboarding-checklist-import = Importar d’un autre navegador
 onboarding-checklist-extension = Apondre una extension
+onboarding-checklist-sign-up = Crear un compte o vos connectar
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-callout-cta = Crear un perfil
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-secondary-button = Passar aquesta etapa
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = Personalizatz vòstra experiéncia { -brand-short-name }
 
 ## Onboarding 2026 brand refresh
 

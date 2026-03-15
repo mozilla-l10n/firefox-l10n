@@ -283,9 +283,20 @@ root-certificate-succession-infobar-secondary-button =
 fxa-menu-message-close-button =
     .title = Tampar
     .aria-label = Tampar
+fxa-menu-message-backup-sync-primary-text = Gardatz e sincronizatz vòstras donadas
 
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = Urós de vos tornar veire !
 multi-cta-fox-doodle-set-default-checkbox = Definir { -brand-short-name } coma navegador per defaut
 multi-cta-fox-doodle-start-browsing-primary-button-label = Començar de navegar
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-not-now = Pas ara
+    .accesskey = P
