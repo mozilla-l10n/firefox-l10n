@@ -23,6 +23,10 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Překlady pro vaši organizaci nejsou k dispozici
     .message = Toto je zásada nastavená vaším správcem.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Pro překlad textu odblokujte tuto funkci
+    .message = Zdá se, že jste aktualizovali ovládací prvky AI, abyste tuto funkci zablokovali. Chcete-li jej začít používat, kdykoli jej odblokujte.
 about-translations-feature-blocked-unblock-button = Odblokovat
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
