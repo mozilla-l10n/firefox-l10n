@@ -19,6 +19,11 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Tłumaczenia nie są dostępne w Twojej organizacji
     .message = Jest to zasada ustawiona przez administratora urządzenia.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Aby przetłumaczyć tekst, odblokuj tę funkcję
+    .message = Zablokowano tę funkcję za pomocą opcji sterowania sztuczną inteligencją. W każdej chwili można ją odblokować, aby zacząć z niej korzystać.
+about-translations-feature-blocked-unblock-button = Odblokuj
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Nie można wczytać języków
@@ -29,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = Nie można wczytać języków.
     .message = Sprawdź połączenie z Internetem i spróbuj ponownie.
 about-translations-language-load-error-button = Spróbuj ponownie
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Wystąpił problem podczas tłumaczenia
+about-translations-translation-error-subtext = Spróbuj ponownie.
+about-translations-translation-error-button = Spróbuj ponownie
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Nie obsługujemy jeszcze tego języka ({ $language })
+about-translations-detected-language-unsupported-heading-unknown = Nie obsługujemy jeszcze tego języka
+about-translations-detected-language-unsupported-subtext = Wybierz inny język.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Dodaj tekst do przetłumaczenia

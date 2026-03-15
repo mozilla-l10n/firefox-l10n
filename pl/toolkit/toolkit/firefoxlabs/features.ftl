@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Miej swoją li
 experimental-features-semantic-history-search =
     .label = Semantyczne wyszukiwanie w historii
 experimental-features-semantic-history-search-description = Korzystanie z lokalnego modelu uczenia maszynowego do podpowiadania stron z historii powiązanych z danym wyszukiwaniem na podstawie rozumienia języka naturalnego na pasku adresu { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Podziel się opinią</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Notatki na kartach
+experimental-features-tab-notes-description = Notatki na kartach to eksperymentalna funkcja umożliwiająca dodawanie karteczek samoprzylepnych do kart przeglądarki. Zanotuj kontekst, przypomnienia lub kolejne kroki, aby móc do niej wrócić i przypomnieć sobie, dlaczego jest otwarta. Chętnie poznamy Twoją opinię, ponieważ stale ulepszamy tę funkcję. <a data-l10n-name="connect">Podziel się opinią</a>
