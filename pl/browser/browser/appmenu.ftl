@@ -116,7 +116,7 @@ appmenu-fxa-setup-sync-new = Włącz
 appmenuitem-save-page =
     .label = Zapisz stronę jako…
 appmenuitem-fxa-sync-off-title = Synchronizacja jest wyłączona
-appmenuitem-fxa-sync-off-description = Chroń i miej dostęp do swoich zakładek, haseł i innych danych z dowolnego miejsca.
+appmenuitem-fxa-sync-off-description = Chroń swoje zakładki, hasła i inne dane, oraz miej do nich dostęp z dowolnego miejsca.
 
 ## What's New panel in App menu.
 
