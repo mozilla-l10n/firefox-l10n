@@ -563,6 +563,9 @@ browser-window-restore-down-button =
     .tooltiptext = คืนค่าลงล่าง
 browser-window-close-button =
     .tooltiptext = ปิด
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = ย้อนกลับ
 
 ## Tab actions
 
@@ -1151,6 +1154,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = รหัสผ่าน
     .tooltiptext = ดูและจัดการรหัสผ่านที่บันทึกไว้ของคุณ
+qrcode-panel-error =
+    .message = สร้างรหัส QR ไม่สำเร็จ โปรดลองอีกครั้ง
+qrcode-copy-button =
+    .label = คัดลอก
+qrcode-copy-success =
+    .message = คัดลอกรหัส QR ไปยังคลิปบอร์ดแล้ว
+qrcode-copy-error =
+    .message = คัดลอกรหัส QR ไม่สำเร็จ
+qrcode-save-button =
+    .label = บันทึก
+qrcode-save-success =
+    .message = บันทึกรหัส QR เรียบร้อยแล้ว
+qrcode-save-error =
+    .message = บันทึกรหัส QR ไม่สำเร็จ
+qrcode-save-title = บันทึกรหัส QR
+qrcode-save-filter-png = ภาพ PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = รหัส QR
+qrcode-dialog-title = รหัส QR
+qrcode-image =
+    .aria-label = รหัส QR
+qrcode-close-button =
+    .aria-label = ปิด
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1169,6 +1195,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = หน้าต่างส่วนตัวใหม่
     .tooltiptext = เปิดหน้าต่างเรียกดูแบบส่วนตัวใหม่ ({ $shortcut })
+toolbar-button-share-tab =
+    .label = แบ่งปัน
+    .tooltiptext = แบ่งปันหน้านี้
 
 ## EME notification panel
 
