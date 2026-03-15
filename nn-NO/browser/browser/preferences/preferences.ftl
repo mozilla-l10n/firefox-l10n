@@ -2258,6 +2258,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS over HTTPS
+dns-over-https-group2 =
+    .label = DNS-over-HTTPS
+    .description = Domain Name System over HTTPS (Doh) krypterer nettstadoppslag slik at det blir vanskelegare for internettleverandøren din eller andre å sjå kva nettstadar du er i ferd med å besøkje.
 preferences-doh-description = Domain Name System (DNS) over HTTPS sender førespurnaden din om eit domennamn via ei kryptert tilkopling, lagar ein sikker DNS og gjer det vanskelegare for andre å sjå kva for nettstad du er i ferd med å besøkje.
 preferences-doh-description2 = Domain Name System (DNS) over HTTPS sender førespurnaden din om eit domenenamn gjennom ei kryptert tilkopling, og gir eit sikkert DNS og gjer det vanskelegare for andre å sjå kva for nettstad du er i ferd med å besøke.
 # Variables:
@@ -2313,6 +2316,15 @@ preferences-doh-exceptions-description = { -brand-short-name } vil ikkje bruke s
 preferences-doh-manage-exceptions =
     .label = Handsam unntak
     .accesskey = H
+preferences-doh-overview-default =
+    .label = Standardbeskyttelse
+    .description = Bruk sikker DNS i område der det er tilgjengeleg.
+preferences-doh-overview-custom =
+    .label = Tilpassa
+    .description = Bruk alltid sikker DNs med kontroll over leverandør og reserveåtferd.
+preferences-doh-overview-off =
+    .label = Av
+    .description = Bruk standard DNS-oppslagsteneste.
 preferences-doh-advanced-button =
     .label = Avanserte innstillingar
 preferences-doh-manage-exceptions2 =

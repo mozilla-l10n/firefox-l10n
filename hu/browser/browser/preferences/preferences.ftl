@@ -2258,6 +2258,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = HTTPS feletti DNS
+dns-over-https-group2 =
+    .label = HTTPS feletti DNS
+    .description = A HTTPS feletti DNS (DoH) titkosítja a webhelyek lekérdezését, így nehezebb az internetszolgáltatójának vagy másoknak megállapítania, hogy mely webhelyeket keres fel.
 preferences-doh-description = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t hozva létre, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
 preferences-doh-description2 = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t biztosítva, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
 # Variables:
@@ -2324,12 +2327,18 @@ preferences-doh-overview-off =
     .description = Az alapértelmezett DNS-feloldó használata.
 preferences-doh-advanced-button =
     .label = Speciális beállítások
+preferences-doh-advanced-section =
+    .label = Speciális beállítások
+    .description = A HTTPS feletti DNS (DoH) titkosítja a webhelyek lekérdezését, így nehezebb az internetszolgáltatójának vagy másoknak megállapítania, hogy mely webhelyeket keres fel.
 preferences-doh-manage-exceptions2 =
     .label = Kivételek kezelése
     .accesskey = v
 preferences-doh-radio-default =
     .label = Alapértelmezett
     .description = Biztonságos DNS használata azokban a régiókban, ahol elérhető
+preferences-doh-radio-custom =
+    .label = Egyéni
+    .description = Mindig biztonságos DNS használata úgy, hogy a szolgáltatóját és a tartalék megoldást is Ön irányítja
 preferences-doh-radio-off =
     .label = Ki
     .description = Az alapértelmezett DNS-feloldó használata
@@ -2337,6 +2346,28 @@ preferences-doh-fallback-label =
     .label = Figyelmeztetés mindig, ha a biztonságos DNS nem érhető el
 preferences-doh-status-item-off =
     .message = A HTTPS feletti DNS ki van kapcsolva
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = A HTTPS feletti DNS nem működik, mert hiba történt ({ $reason }) a(z) { $name } szolgáltató használata során
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = A HTTPS feletti DNS nem működik, mert érvénytelen webcímet kaptunk ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = A HTTPS-en keresztüli DNS a(z) { $name } szolgáltatót használja
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = A HTTPS feletti DNS nem működik, mert hiba történt ({ $reason }) a(z) { $name } helyi szolgáltató használata során
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = A HTTPS-en keresztüli DNS a(z) { $name } helyi szolgáltatót használja
 preferences-doh-select-resolver-label =
     .label = Válasszon szolgáltatót:
 # Variables:
@@ -2417,9 +2448,12 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = A { -brand-short-name } résen van
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = A { -brand-short-name } biztonsági fejlesztéseket javasol
 security-privacy-status-ok-label = A fokozott követés elleni védelem be van kapcsolva
 security-privacy-status-problem-label = Olyan beállításokat találtunk, amelyek hatással vannak a védelmére
 security-privacy-status-problem-helper-label = Problémák megtekintése
+security-privacy-status-pending-trackers-label = Keresés, hogy a { -brand-short-name } hány nyomkövetőt blokkolt az elmúlt hónapban
 # This label tells the user how many trackers we have blocked for them.
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
@@ -2428,6 +2462,21 @@ security-privacy-status-trackers-label =
         [one] { $trackerCount } nyomkövető blokkolva az elmúlt hónapban
        *[other] { $trackerCount } nyomkövető blokkolva az elmúlt hónapban
     }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">Szigorú védelem</a> van beállítva
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = <a data-l10n-name="custom-tracking-protection">Egyéni védelem</a> van beállítva
+security-privacy-status-up-to-date-label = A { -brand-short-name } legújabb, legbiztonságosabb verzióját használja
+security-privacy-status-update-needed-label = Elérhető a { -brand-short-name } új verziója.
+security-privacy-status-update-error-label = A { -brand-short-name } nem tudja frissíteni magát
+security-privacy-status-update-checking-label = A { -brand-short-name } frissítéseket keres
+security-privacy-status-update-needed-description = Frissítés a legfrissebb sebességbelii, stabilitási és biztonsági frissítésekért.
+security-privacy-status-update-button-label =
+    .label = A { -brand-short-name } frissítése
+security-privacy-image-warning =
+    .alt = Pajzs felkiáltójellel, amely a biztonsági figyelmeztetései miatti aggodalmát fejezi ki
+security-privacy-image-ok =
+    .alt = Egy pajzs egy pipával, amely azt jelzi, hogy nincs lezáratlan biztonsági problémája
 security-privacy-issue-card =
     .heading = Biztonsági figyelmeztetések
 issue-card-reset-button =
@@ -2438,10 +2487,34 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Fokozott követés elleni védelem
+    .description = A webhelyek követőket használnak, hogy kövessék online és reklámokat jelenítsenek meg. A { -brand-short-name } megvédi böngészés közben, és automatikusan blokkolja a követőket, így mindig az Ön kezében van a digitális nyoma feletti irányítás.
+preferences-etp-level-standard =
+    .label = Szokásos (alapértelmezett)
+    .description = Erős, megbízható védelem, amely zökkenőmentesen működik a legtöbb webhelyen.
+preferences-etp-level-strict =
+    .label = Szigorú
+    .description = Szigorú védelem, amely több követőt blokkol, de egyes webhelyek hibáját okozhatja.
+preferences-etp-level-custom =
+    .label = Egyéni
+    .description = Válassza ki, hogy mely védelmek legyenek be- vagy kikapcsolva.
 preferences-etp-status-advanced-button =
     .label = Speciális beállítások
+preferences-etp-status-protections-dashboard-link =
+    .label = Tekintse meg a személyre szabott védelmi irányítópultot
+    .description = Nézze meg, hány rejtett nyomkövetőt blokkolt Önnek a { -brand-short-name }, beleértve a közösségimédia-nyomkövetőket, az ujjlenyomat-készítőket és a kriptobányászokat.
 preferences-etp-header =
     .heading = Fokozott követés elleni védelem
+preferences-etp-advanced-settings-group =
+    .label = Speciális beállítások
+    .description = A webhelyek követőket használnak, hogy kövessék online és reklámokat jelenítsenek meg. A { -brand-short-name } megvédi böngészés közben, és automatikusan blokkolja a követőket, így mindig az Ön kezében van a digitális nyoma feletti irányítás.
+preferences-etp-customize-button =
+    .label = Követés elleni védelem testreszabása
+preferences-etp-reload-tabs-hint =
+    .message = Töltse újra a lapokat a változások érvényesítéséhez.
+preferences-etp-reload-tabs-hint-button =
+    .label = Összes lap újratöltése
 preferences-etp-manage-exceptions-button =
     .label = Kivételek kezelése
     .description = Webhelyek kezelése, ahol a Fokozott követés elleni védelem ki van kapcsolva.
