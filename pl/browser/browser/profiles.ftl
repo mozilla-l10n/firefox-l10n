@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Kopia profilu „{ $profilename }” jest gotowa do dostosowania
 copied-profile-page-header-description = Skopiowaliśmy Twoje dane i ustawienia do nowego profilu. Teraz nadaj mu nazwę, wybierz wygląd i spersonalizuj go.
+restored-profile-page-header = Dostosuj przywrócony profil
+restored-profile-page-header-description = Każdy profil ma swoją indywidualną historię przeglądania i ustawienia oddzielnie od pozostałych profili. Do tego silna ochrona prywatności { -brand-short-name(case: "gen") } jest domyślnie włączona.
+restored-profile-page-learn-more = Więcej informacji
 profile-window-title-2 = { -brand-short-name } — wybierz profil
 profile-window-logo =
     .alt = Logo { -brand-short-name(case: "gen") }
@@ -87,6 +90,9 @@ delete-profile-bookmarks = Zakładki
 delete-profile-history = Historia (odwiedzone strony, ciasteczka, dane witryn)
 delete-profile-autofill = Automatycznie wypełniane dane (adresy, metody płatności)
 delete-profile-logins = Hasła
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Usuń profil „{ $profilename }”
 
 ##
 
