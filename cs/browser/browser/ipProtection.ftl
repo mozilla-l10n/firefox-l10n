@@ -43,6 +43,11 @@ unauthenticated-vpn-title =
         [with-cases] Vyzkoušejte vestavěnou VPN { -brand-product-name(case: "gen") }
        *[no-cases] Vyzkoušejte vestavěnou VPN aplikace { -brand-product-name }
     }
+unauthenticated-hide-location-message-2 =
+    { -brand-product-name.case-status ->
+        [with-cases] Skrýt při procházení { -brand-product-name(case: "gen") } svou polohu.
+       *[no-cases] Skrýt při procházení aplikací { -brand-product-name } svou polohu.
+    }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získejte { $maxUsage } GB bezplatných dat VPN každý měsíc.
@@ -141,6 +146,11 @@ ip-protection-description =
 ip-protection-learn-more = Zjistit více
 ip-protection-site-exceptions =
     .label = Nastavení pro konkrétní stránku
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Vyzkoušejte vestavěnou síť VPN v aplikaci { -brand-short-name }
+    .message = Skryjte svou polohu při procházení webu v aplikaci { -brand-short-name }. Získejte každý měsíc { $maxUsage } GB dat VPN zdarma.
 ip-protection-not-opted-in-button = Začít
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
