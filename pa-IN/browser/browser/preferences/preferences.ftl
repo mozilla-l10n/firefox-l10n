@@ -1685,8 +1685,12 @@ history-section-header =
 history-custom-section-header =
     .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
     .description = ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਢਾਲੋ ਕਿ ਬਰਾਊਜ਼ਰ ਬੰਦ ਹੋਣ ਦੇ ਬਾਅਦ { -brand-short-name } ਕੀ ਯਾਦ ਰੱਖੇ।
+history-custom-button =
+    .label = ਚੁਣੋ ਕਿ ਤੁਸੀਂ { -brand-short-name } ਕੀ ਯਾਦ ਰੱਖੇ
 history-group =
     .label = ਅਤੀਤ
+history-remember-option-all2 =
+    .label = ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖੋ
 
 ## Privacy Section - Site Data
 
@@ -1697,17 +1701,27 @@ sitedata-total-size-calculating = ਸਾਈਟ ਡਾਟੇ ਅਤੇ ਕੈਸ਼ 
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = ਵੈੱਬਸਾਈਟਾਂ ਇਸ ਵੇਲੇ <strong>{ $value }{ $unit }</strong> ਡਿਸਕ ਥਾਂ ਵਰਤ ਰਹੀਆਂ ਹਨ।
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = ਤੁਹਾਡੇ ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਕੂਕੀਜ਼, ਅਤੀਤ, ਸਾਈਟ ਦੇ ਡਾਟੇ ਅਤੇ ਕੈਸ਼ ਇਸ ਵੇਲੇ <strong>{ $value } { $unit }</strong> ਡਿਸਕ ਥਾਂ ਨੂੰ ਵਰਤ ਰਹੇ ਹਨ।
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਹੋਏ ਕੂਕੀਜ਼, ਸਾਈਟ ਡਾਟਾ ਅਤੇ ਕੈਸ਼ ਇਸ ਵੇਲੇ { $value } { $unit } ਡਿਸਕ ਥਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੀ ਹੈ।
 sitedata-learn-more = ਹੋਰ ਜਾਣੋ
+sitedata-delete-on-close2 =
+    .label = ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
+    .accesskey = c
 sitedata-delete-on-close =
     .label = ਜਦੋਂ { -brand-short-name } ਬੰਦ ਹੋਵੇ ਤਾਂ ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = ਤੁਹਾਡੀਆਂ ਅਤੀਤ ਸੈਟਿੰਗਾਂ ਦੇ ਮੁਤਾਬਕ ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਸ਼ੈਸ਼ਨ ਤੋਂ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾ ਦਿੰਦਾ ਹੈ।
+sitedata-delete-on-close-private-browsing4 =
+    .heading = ਅਤੀਤ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+    .message = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਸ਼ੈਸ਼ਨ ਲਈ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਮਿਟਾਉਂਦਾ ਹੈ।
 sitedata-delete-on-close-private-browsing = ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਢੰਗ ਵਿੱਚ, { -brand-short-name } ਨੂੰ ਬੰਦ ਕਰਨ ਉੱਤੇ ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਮੇਸ਼ਾਂ ਹੀ ਸਾਫ਼ ਕੀਤਾ ਜਾਵੇਗਾ।
 sitedata-delete-on-close-private-browsing2 = ਤੁਹਾਡੀਆਂ ਅਤੀਤ ਸੈਟਿੰਗਾਂ ਦੇ ਮੁਤਾਬਕ ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਸ਼ੈਸ਼ਨ ਤੋਂ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾ ਦਿੰਦਾ ਹੈ।
 sitedata-allow-cookies-option =
@@ -1753,6 +1767,16 @@ sitedata-cookies-exceptions2 =
     .label = ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = X
     .description = ਤੁਸੀਂ ਅਜਿਹੀਆਂ ਸਾਈਟਾਂ ਦੇ ਸਕਦੇ ਹੋ, ਜਿੰਨ੍ਹਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਵਰਤਣ ਦੀ ਇਜਾਜ਼ਤ ਹਮੇਸ਼ਾਂ ਦੇਣੀ ਹੈ ਜਾਂ ਨਹੀਂ ਦੇਣੀ ਹੈ।
+sitedata-heading =
+    .label = ਬਰਾਊਜ਼ ਕਰਨ ਡਾਟਾ
+    .description = ਆਪਣੇ ਕੂਕੀਜ਼, ਅਤੀਤ, ਕੂਕੀਜ਼, ਵੈੱਬਸਾਈਟ ਡਾਟਾ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+sitedata-settings3 =
+    .label = ਖਾਸ ਸਾਈਟਾਂ ਲਈ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = x
+    .description = ਚੋਣ ਕਰੋ ਕਿ ਕਿਵੇਂ ਖਾਸ ਸਾਈਟਾਂ ਲਈ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨਾਲ ਕੰਮ ਕਰਦੀਆਂ ਹਨ।
 cookies-site-data-group =
     .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
 
@@ -2024,6 +2048,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = ਰੀ-ਡਾਇਰੈਕਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = E
+    .searchkeywords = ਪੌਪ-ਅੱਪ,ਪੌਪਅੱਪ
+permissions-addon-install-warning3 =
+    .label = ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ ਤਾਂ ਚੇਤਾਵਨੀ ਵੇਖਾਓ
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
     .accesskey = E
@@ -2069,6 +2102,9 @@ permissions-speaker2 =
     .label = ਸਪੀਕਰ
 permissions-notification2 =
     .label = ਨੋਟੀਫਿਕੇਸ਼ਨ
+permissions-header3 =
+    .label = ਇਜਾਜ਼ਤਾਂ
+    .description = ਇੰਤਜ਼ਾਮ ਕਰੋ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਪਹੁੰਚ, ਕੰਟਰੋਲ ਜਾਂ ਤਬਦੀਲ ਕਿਵੇਂ ਕਰ ਸਕਦੀਆਂ ਹਨ
 
 ## Privacy Section - Data Collection
 

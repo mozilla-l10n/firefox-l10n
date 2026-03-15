@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = URL ਨੂੰ HTTPS ਵਿ
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = ਕਈ ਵਾਰ ਵੈੱਬਸਾਈਟਾਂ ਖੁਦ ਲਈ ਹੋਰ ਸਾਈਟਾਂ ਨਾਲ ਅਣਚਾਹੇ ਤਾਲਮੇਲ ਤੋਂ ਸੁਰੱਖਿਆ ਸੈਟਅੱਪ ਕਰਦੀਆਂ ਹਨ।
 fp-learn-more-about-https-connections = HTTPS ਕਨੈਕਸ਼ਨਾਂ ਬਾਰੇ ਜਾਣੋ
+fp-neterror-vpn-error-title = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
+fp-neterror-vpn-error-description = ਕੁਝ ਕੁ ਮਿੰਟਾਂ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
