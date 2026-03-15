@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = n
 non-technical-privacy-group =
     .label = Preferencje dotyczące prywatności na witrynach
+do-not-track-removal3 =
+    .message = Funkcja „Do Not Track” (prośba o nieśledzenie) nie jest już obsługiwana
+non-technical-privacy-heading =
+    .label = Dodatkowa ochrona
+preferences-privacy-relay-available =
+    .label = Proponowanie masek dla adresu e-mail { -relay-brand-name }
+    .description = Ukrywa prawdziwy adres e-mail, aby chronić skrzynkę odbiorczą przed spamem.
 non-technical-privacy-header = Preferencje dotyczące prywatności na witrynach
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -292,6 +299,8 @@ containers-remove-cancel-button = Nie usuwaj
 settings-tabs-show-image-in-preview =
     .label = Podgląd po najechaniu kursorem na kartę
     .accessKey = P
+settings-tabs-drag-to-create-tab-groups =
+    .label = Przeciągaj karty na siebie, aby utworzyć grupy
 browser-layout-header2 =
     .label = Układ przeglądarki
 browser-layout-horizontal-tabs2 =
@@ -527,9 +536,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Używaj ustawień systemu operacyjnego dla języka „{ $localeName }” do formatowania dat, czasu, liczb i miar
+settings-spellcheck-header =
+    .label = Sprawdzanie pisowni
 check-user-spelling =
     .label = Sprawdzanie pisowni podczas wprowadzania tekstu
     .accesskey = S
+spellcheck-download-dictionaries =
+    .label = Pobierz słowniki
+spellcheck-promo =
+    .heading = Jak korzystać ze sprawdzania pisowni
+    .message = Kliknij pole tekstowe prawym przyciskiem, aby włączyć lub wyłączyć sprawdzanie pisowni albo zmienić język. Nie wszystkie pola obsługują sprawdzanie pisowni.
 
 ## General Section - Files and Applications
 
@@ -569,9 +585,11 @@ applications-filter =
 applications-type-column =
     .label = Typ zawartości
     .accesskey = T
+applications-type-heading = Typ zawartości
 applications-action-column =
     .label = Czynność
     .accesskey = C
+applications-action-heading = Czynność
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = plik { $extension }
@@ -785,6 +803,9 @@ network-proxy-connection-learn-more = Więcej informacji
 network-proxy-connection-settings =
     .label = Ustawienia…
     .accesskey = U
+network-proxy-group2 =
+    .label = Ustawienia serwerów proxy
+    .description = Konfiguruj, jak { -brand-short-name } ma się łączyć z Internetem.
 
 ## Home Section
 
