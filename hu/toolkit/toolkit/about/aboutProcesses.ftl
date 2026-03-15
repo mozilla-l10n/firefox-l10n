@@ -60,6 +60,19 @@ about-processes-inference-process = Következtetés ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Egyéb: { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = magán
+about-processes-web-isolated-property-serviceworker = serviceworker
+about-processes-web-isolated-property-jit-disabled = JIT letiltva
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.

@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetlenül a böngészőben
+ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
 ipprotection-feature-introduction-button-primary = Tovább
 ipprotection-feature-introduction-button-secondary-not-now = Most nem
 ipprotection-feature-introduction-button-secondary-no-thanks = Köszönöm, nem
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Megértettem
 ## Panel
 
 unauthenticated-vpn-title = Próbálja ki a { -brand-product-name } beépített VPN-jét
+unauthenticated-hide-location-message-2 = Tartózkodási hely elrejtése böngészés közben a { -brand-product-name }ban.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Kapjon { $maxUsage } GB ingyenes VPN-adatot havonta.
@@ -120,6 +123,11 @@ ip-protection-description =
 ip-protection-learn-more = További tudnivalók
 ip-protection-site-exceptions =
     .label = Webhelyfüggő beállítások
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Próbálja ki a { -brand-short-name } beépített VPN-jét
+    .message = Tartózkodási hely elrejtése böngészés közben a { -brand-short-name }ban. Havi { $maxUsage } GB-os ingyenes VPN adatkeretet kap.
 ip-protection-not-opted-in-button = Kezdő lépések
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -171,6 +179,7 @@ ip-protection-bandwidth-hit-for-the-month = Felhasználta a teljes { $maxUsage }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Minden hónap elsején { $maxUsage } GB-ra áll vissza.
+ip-protection-bandwidth-header-1 = Havi adatkorlát
 
 ## IP Protection bandwidth reset callout
 

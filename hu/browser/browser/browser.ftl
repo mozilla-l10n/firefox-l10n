@@ -1179,6 +1179,19 @@ qrcode-copy-error =
     .message = Nem sikerült a QR-kód másolása.
 qrcode-save-button =
     .label = Mentés
+qrcode-save-success =
+    .message = A QR-kód mentve.
+qrcode-save-error =
+    .message = Nem sikerült a QR-kód mentése.
+qrcode-save-title = QR-kód mentése
+qrcode-save-filter-png = PNG-kép
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR-kód
+qrcode-dialog-title = QR-kód
+qrcode-image =
+    .aria-label = QR-kód
+qrcode-close-button =
+    .aria-label = Bezárás
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

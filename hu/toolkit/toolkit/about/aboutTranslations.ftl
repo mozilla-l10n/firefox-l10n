@@ -15,6 +15,10 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = A fordítás nem érhető el ezen az eszközön.
     .message = Próbáljon meg egy másik eszközre váltani.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = A fordítások nem érhetők el az Ön szervezeténél
+    .message = Ez egy rendszergazda által beállított házirend.
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = A nyelvek betöltése sikertelen
