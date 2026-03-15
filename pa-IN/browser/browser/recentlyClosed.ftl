@@ -28,3 +28,13 @@ recently-closed-undo-close-window-label =
         [one] { $winTitle } (ਤੇ { $tabCount } ਹੋਰ ਟੈਬ)
        *[other] { $winTitle } (ਤੇ { $tabCount } ਅਤੇ ਹੋਰ ਟੈਬਾਂ)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } ਟੈਬ, { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") } ਵਜੇ ਬੰਦ ਕੀਤੀ)
+       *[other] { $winTitle } ({ $tabCount } ਟੈਬਾਂ,  { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") } ਵਜੇ ਬੰਦ ਕੀਤੀਆਂ)
+    }
