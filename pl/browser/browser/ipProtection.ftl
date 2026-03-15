@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Przedstawiamy VPN, teraz dostępny od razu w przeglądarce
+ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, dziękuję
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = OK
 ## Panel
 
 unauthenticated-vpn-title = Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }
+unauthenticated-hide-location-message-2 = Ukryj swoje położenie podczas przeglądania Internetu w { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
@@ -87,6 +90,12 @@ ipprotection-connection-status-network-error-description = Połącz się z Inte
 ipprotection-message-bandwidth-warning =
     .heading = Zbliżasz się do ograniczenia VPN
     .message = Pozostało { $usageLeft } GB z { $maxUsage } GB na ten miesiąc.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Zbliżasz się do ograniczenia VPN
+    .message = Pozostało { $usageLeft } MB z { $maxUsage } GB na ten miesiąc.
 ipprotection-message-continuous-onboarding-intro = Włącz VPN, aby ukryć swoje położenie i dodać dodatkowe szyfrowanie podczas przeglądania.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ustaw włączanie VPN</a> za każdym razem, gdy otwierasz { -brand-short-name(case: "acc") }, aby zapewnić dodatkową warstwę ochrony.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } zapamięta, które witryny mają korzystać z VPN. W każdej chwili można je zmienić w <a data-l10n-name="setting-link">ustawieniach</a>.
@@ -105,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Zbliżasz się do o
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Prawie skończyły Ci się dane VPN.</strong> Pozostało { $usageLeft } GB. Po ich wykorzystaniu VPN wstrzyma działanie do czasu przywrócenia ilości danych pierwszego dnia przyszłego miesiąca.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Prawie skończyły Ci się dane VPN.</strong> Pozostało { $usageLeft } MB. Po ich wykorzystaniu VPN wstrzyma działanie do czasu przywrócenia ilości danych pierwszego dnia przyszłego miesiąca.
 
 ## IP Protection Settings
 
@@ -114,6 +126,11 @@ ip-protection-description =
 ip-protection-learn-more = Więcej informacji
 ip-protection-site-exceptions =
     .label = Ustawienia poszczególnych witryn
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
+    .message = Ukryj swoje położenie podczas przeglądania Internetu w { -brand-short-name(case: "loc") }. Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
 ip-protection-not-opted-in-button = Zacznij teraz
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -166,6 +183,7 @@ ip-protection-bandwidth-hit-for-the-month = Wykorzystano całe { $maxUsage } GB
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Zostaje przywrócone do { $maxUsage } GB pierwszego dnia każdego miesiąca.
+ip-protection-bandwidth-header-1 = Miesięczne ograniczenie danych
 
 ## IP Protection bandwidth reset callout
 
@@ -174,6 +192,11 @@ ip-protection-bandwidth-help-text = Zostaje przywrócone do { $maxUsage } GB pi
 ipprotection-bandwidth-reset-title = { $maxUsage } GB danych VPN, odświeżone i gotowe do użycia
 ipprotection-bandwidth-reset-text = Włącz VPN i zapewnij sobie wzmocnienie prywatności, bezpłatnie co miesiąc.
 ipprotection-bandwidth-reset-button = OK
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Ta witryna może nie działać poprawnie podczas korzystania z sieci VPN.</strong> Spróbuj się na niej zalogować lub wyłączyć sieć VPN, kiedy ją odwiedzasz.
+ipp-activator-breakage-turn-off-warning = <strong>Ta witryna może nie działać poprawnie podczas korzystania z sieci VPN.</strong> Spróbuj wyłączyć sieć VPN, kiedy ją odwiedzasz.
 
 ## IP Protection alerts
 
