@@ -2226,6 +2226,12 @@ certs-description2 =
 certs-description3 =
     .label = ਸਰਟੀਫਿਕੇਟ
     .description = ਸਰਟੀਫਿਕੇਟ, ਜੋ { -brand-short-name } ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਜਾਂਚ ਲਈ ਵਰਤਦਾ ਹੈ, ਦੀ ਸੰਰਚਨਾ ਕਰੋ
+certs-view2 =
+    .label = ਸਰਟੀਫਿਕੇਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = C
+certs-devices2 =
+    .label = ਸੁਰੱਖਿਆ ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
