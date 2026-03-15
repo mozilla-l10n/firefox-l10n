@@ -19,6 +19,9 @@ backup-folder-name = Przywróć { -brand-product-name(case: "acc") }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Kopia zapasowa { -brand-product-name(case: "gen") }
+settings-data-backup-header2 =
+    .label = Kopia zapasowa
+    .description = Automatycznie chroń zakładki, historię i pozostałe dane.
 settings-data-backup-header = Kopia zapasowa
 settings-data-backup-toggle = Zarządzaj kopią zapasową
 settings-data-backup-toggle-on2 =
@@ -35,15 +38,31 @@ settings-data-backup-scheduled-backups-on = Kopia zapasowa: włączona
 settings-data-backup-scheduled-backups-off = Kopia zapasowa: wyłączona
 settings-data-backup-scheduled-backups-description = Automatycznie chroń zakładki, historię i pozostałe dane. <a data-l10n-name="support-link">Więcej informacji</a>
 settings-data-backup-last-backup-date = Ostatnia kopia zapasowa: { DATETIME($date, dateStyle: "short") } o { DATETIME($date, timeStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Kopia zapasowa jest włączona
+settings-data-backup-scheduled-backups-off2 =
+    .label = Kopia zapasowa jest wyłączona
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Położenie kopii zapasowych
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Położenie
 settings-data-backup-last-backup-location-show-in-folder = Pokaż w folderze
 settings-data-backup-last-backup-location-edit = Edytuj…
 settings-data-create-backup-error = Wystąpił błąd podczas tworzenia kopii zapasowej w dniu { DATETIME($date, dateStyle: "short") } o { DATETIME($date, timeStyle: "short") }
 settings-sensitive-data-encryption-description = Utwórz kopię zapasową haseł i metod płatności, a do tego zadbaj o bezpieczeństwo wszystkich swoich danych za pomocą szyfrowania.
+settings-data-toggle-encryption-label2 =
+    .label = Utwórz kopię zapasową prywatnych danych
+    .description = Utwórz kopię zapasową haseł i metod płatności, a do tego zadbaj o bezpieczeństwo wszystkich swoich danych za pomocą szyfrowania.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nazwa pliku: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Przywróć dane
+    .description = Odzyskaj dane { -brand-product-name(case: "gen") } z ostatniej kopii zapasowej.
+settings-data-backup-restore-scheduled-off =
+    .label = Przywróć dane
+    .description = Użyj kopii zapasowej { -brand-product-name(case: "gen") } z innego urządzenia, aby przywrócić swoje dane.
 settings-data-backup-restore-header = Przywróć dane
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -55,6 +74,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = Wybierz plik kopii z
 
 settings-data-backup-scheduled-backups-on-restore-description = Odzyskaj dane { -brand-product-name(case: "gen") } z ostatniej kopii zapasowej.
 settings-data-backup-scheduled-backups-on-restore-choose = Przywróć…
+settings-sensitive-data =
+    .label = Prywatne dane
 settings-data-toggle-encryption-label = Utwórz kopię zapasową prywatnych danych
 settings-data-toggle-encryption-support-link = Więcej informacji
 settings-data-change-password = Zmień hasło…
