@@ -114,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Közelít a VPN ada
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Majdnem elfogyott a VPN adatkerete.</strong> Még { $usageLeft } GB-ja van. Amint mindet felhasználta, a VPN szüneteltetve lesz addig, amíg az adathasználata nullázva nem lesz a következő hónap elsején.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Majdnem elfogyott a VPN adatkerete.</strong> Még { $usageLeft } MB-ja van. Amint mindet felhasználta, a VPN szüneteltetve lesz addig, amíg az adathasználata nullázva nem lesz a következő hónap elsején.
 
 ## IP Protection Settings
 
@@ -188,6 +191,11 @@ ip-protection-bandwidth-header-1 = Havi adatkorlát
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, felfrissítve és használatra kész
 ipprotection-bandwidth-reset-text = Kapcsolja be a VPN-t az adatvédelem további megerősítése érdekében, havonta ingyenesen.
 ipprotection-bandwidth-reset-button = Megértettem
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Lehet, hogy ez a webhely nem működik VPN-nel.</strong> Próbáljon meg bejelentkezni vagy kapcsolja ki a VPN-t, míg ezt a webhelyet használja.
+ipp-activator-breakage-turn-off-warning = <strong>Lehet, hogy ez a webhely nem működik VPN-nel.</strong> Próbálja meg kikapcsolni a VPN-t, míg ezt a webhelyet használja.
 
 ## IP Protection alerts
 
