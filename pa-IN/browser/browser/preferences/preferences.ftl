@@ -2406,3 +2406,28 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ਰੱਦ ਕਰੋ
 preferences-ai-controls-block-confirmation-confirm =
     .label = ਪਾਬੰਦੀ
+
+## Privacy and security status card
+
+issue-card-dismiss-button =
+    .tooltiptext = ਖ਼ਾਰਜ ਕਰੋ
+    .aria-label = ਖ਼ਾਰਜ ਕਰੋ
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = ਕੂਕੀਜ਼
+preferences-etp-custom-cookie-behavior =
+    .aria-label = ਕੂਕੀਜ਼
+preferences-etp-custom-tracking-protection-enabled =
+    .label = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = ਟਰੈਕਿੰਗ ਸਮੱਗਰੀ
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = ਜਾਣੇ-ਪਛਾਣੇ ਫਿੰਗਰ-ਪਰਿੰਟਰ
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = ਸ਼ੱਕੀ ਫਿੰਗਰ-ਪਰਿੰਟਰ
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = ਸ਼ੱਕੀ ਫਿੰਗਰ-ਪਰਿੰਟਰ
