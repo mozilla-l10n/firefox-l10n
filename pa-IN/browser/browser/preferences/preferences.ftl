@@ -2328,6 +2328,19 @@ preferences-doh-overview-custom =
 preferences-doh-overview-off =
     .label = ਬੰਦ
     .description = ਆਪਣੇ ਮੂਲ DNS ਹੱਲ਼ਕਰਤਾ ਨੂੰ ਵਰਤੋਂ।
+preferences-doh-advanced-button =
+    .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
+preferences-doh-advanced-section =
+    .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
+    .description = HTTPS ਉੱਤੇ ਡੋਮੇਨ ਨੇਮ ਸਿਸਟਮ (DoH) ਸਾਈਟ ਖੋਜਣ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਹਾਡੇ ਇੰਟਰਨੈੱਟ ਪੂਰਕ ਜਾਂ ਹੋਰ ਵੇਖ ਨਹੀਂ ਸਕਦੇ ਹੋ ਕਿ ਤੁਸੀਂ ਕੀ ਖੋਲ੍ਹ ਰਹੇ ਹੋ।
+preferences-doh-manage-exceptions2 =
+    .label = ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = ਮੂਲ
+    .description = ਜੇ ਖੇਤਰਾਂ ਵਿੱਚ ਸੁਰੱਖਿਅਤ DNS ਮੌਜੂਦ ਹਨ ਤਾਂ ਵਰਤੋਂ
+preferences-doh-status-item-off =
+    .message = HTTPS ਉੱਤੇ DNS ਬੰਦ ਹੈ
 
 ## The following strings are used in the Download section of settings
 
