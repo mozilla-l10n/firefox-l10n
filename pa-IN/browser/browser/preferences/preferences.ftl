@@ -540,6 +540,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = ਸ਼ਬਦਕੋਸ਼ਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+spellcheck-promo =
+    .heading = ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਨੂੰ ਕਿਵੇਂ ਵਰਤੀਏ
+    .message = ਸ਼ਬਦ ਜਾਂਚ ਨੂੰ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨ ਜਾਂ ਭਾਸ਼ਾ ਬਦਲਣ ਲਈ ਲਿਖਤ ਖੇਤਰ ਉੱਤੇ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ। ਸਾਰੇ ਖਾਤੇ ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੁੰਦੇ ਹਨ।
 
 ## General Section - Files and Applications
 
