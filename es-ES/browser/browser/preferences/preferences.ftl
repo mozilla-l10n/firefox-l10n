@@ -2012,6 +2012,9 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros
     .accesskey = B
+permissions-addon-install-warning3 =
+    .label = Mostrar una advertencia cuando los sitios web traten de instalar extensiones
+    .accesskey = M
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -2318,3 +2321,43 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquear
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = Protección mejorada contra rastreo activada
+security-privacy-status-problem-label = Hemos encontrado configuraciones que afectan a la protección
+security-privacy-status-problem-helper-label = Ver problemas
+security-privacy-status-pending-trackers-label = Buscando cuántos rastreadores bloqueó { -brand-short-name } en el último mes
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Tiene <a data-l10n-name="strict-tracking-protection">protección estricta</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Tiene <a data-l10n-name="custom-tracking-protection">protección personalizada</a>
+security-privacy-status-up-to-date-label = Tiene la última y más segura versión de { -brand-short-name }
+security-privacy-status-update-needed-label = Hay disponible una nueva versión de { -brand-short-name }.
+security-privacy-status-update-error-label = { -brand-short-name } tiene problemas para actualizarse
+security-privacy-status-update-checking-label = { -brand-short-name } está buscando actualizaciones
+security-privacy-status-update-needed-description = Actualizar para obtener las últimas actualizaciones de velocidad, estabilidad y seguridad.
+security-privacy-status-update-button-label =
+    .label = Actualizar { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Un escudo con un signo de exclamación, expresando preocupación por las advertencias de seguridad
+security-privacy-image-ok =
+    .alt = Un escudo con un check que muestra que no hay problemas de seguridad pendientes
+security-privacy-issue-card =
+    .heading = Advertencias de seguridad
+issue-card-reset-button =
+    .label = Restablecer
+issue-card-dismiss-button =
+    .tooltiptext = Descartar
+    .aria-label = Descartar
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Configuración avanzada
+preferences-etp-header =
+    .heading = Protección contra rastreo mejorada
+preferences-etp-customize-button =
+    .label = Personalizar la protección contra el rastreo
+preferences-etp-reload-tabs-hint =
+    .message = Recargar las pestañas para aplicar estos cambios.
