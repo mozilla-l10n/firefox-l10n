@@ -56,6 +56,12 @@ fx-view-discoverability-secondary-button-label = Ignorar
 split-dismiss-button-manage-settings-option =
     .label = Gerir los paramètres
 
+## Sidebar Vertical Tabs Strings
+
+vertical-tabs-callout-1-subtitle = Ensajatz nòstra novèla disposicion d'ongletas verticalas per percórrer rapidament vòstra lista d'onglets. Los primièrs testaires rapòrtan qu’aquesta disposicion los ajuda a se sentir mai organizats. Cambiatz quand volètz.
+vertical-tabs-callout-1-cta-button = Ensajar los onglets verticals
+vertical-tabs-callout-2-title = Gardatz fòrça onglets dobèrts ? Ensajatz los onglets verticals.
+
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-callout-button = Personalizar la barra laterala

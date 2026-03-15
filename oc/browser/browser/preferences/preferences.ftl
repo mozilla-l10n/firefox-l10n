@@ -230,6 +230,12 @@ containers-remove-cancel-button = Suprimir pas aqueste contenedor
 settings-tabs-show-image-in-preview =
     .label = Afichar un apercebut al subrevòl dels onglets
     .accessKey = h
+browser-layout-vertical-tabs2 =
+    .label = Onglets verticals
+    .title = Onglets sul costat, dins la barra laterala
+    .description = Onglets sul costat, dins la barra laterala
+browser-layout-vertical-tabs =
+    .label = Onglets verticals
 
 ## General Section - Language & Appearance
 
@@ -1139,6 +1145,9 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Escafar l’istoric…
     .accesskey = s
+history-custom-section-header =
+    .label = Paramètres avançats
+    .description = Personalizatz çò que volètz que { -brand-short-name } se remembra quand tampatz lo navigador.
 history-group =
     .label = Istoric
 
@@ -1556,3 +1565,10 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
 choose-download-folder-title = Causissètz lo dossièr de telecargament :
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-customize-button =
+    .label = Personalizar la proteccion contra lo seguiment
+preferences-etp-customize-header =
+    .heading = Personalizar la proteccion contra lo seguiment

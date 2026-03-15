@@ -291,6 +291,10 @@ multi-cta-fox-doodle-title = Urós de vos tornar veire !
 multi-cta-fox-doodle-set-default-checkbox = Definir { -brand-short-name } coma navegador per defaut
 multi-cta-fox-doodle-start-browsing-primary-button-label = Començar de navegar
 
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Los onglets verticals e los grops d’onglets son arribats !
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

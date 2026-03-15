@@ -372,6 +372,8 @@ onboarding-new-vertical-tabs-label = Onglets sul costat
 onboarding-new-horizontal-tabs-label = Onglets ennaut
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Los onglets verticals son ja aquí
+# Text underneath an image used for selecting browser tabs to appear on the side of the browser.
+onboarding-existing-vertical-tabs-label = Ensajar los onglets verticals
 onboarding-flair-text = Novetat
 onboarding-genai-sidebar-primary-button = Causir un robòt de convèrsa
 

@@ -289,6 +289,7 @@ newtab-custom-settings = Gerir mai de paramètres
 
 newtab-wallpaper-title = Fonzes
 newtab-wallpaper-reset = Reïnicializar
+newtab-wallpaper-upload-image = Enviar un imatge
 newtab-wallpaper-light-red-panda = Panda ros
 newtab-wallpaper-light-mountain = Montanha blanca
 newtab-wallpaper-light-color = Fòrmas blavas, ròsas e jaunas

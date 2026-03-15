@@ -57,6 +57,10 @@ sidebar-context-menu-bookmark-tab =
     .label = Apondre als marcapaginas…
 sidebar-context-menu-copy-link =
     .label = Copiar lo ligam
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Activar los onglets verticals
+sidebar-context-menu-customize-sidebar =
+    .label = Personalizar la barra laterala
 # Variables:
 #   $deviceName (String) - The name of the device the user is closing a tab for
 sidebar-context-menu-close-remote-tab =
@@ -99,6 +103,15 @@ sidebar-menu-close-bookmarks-tooltip = Tampar los marcapaginas ({ $shortcut })
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Dobrir lo robòt de convèrsa d’IA ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = Tampar lo robòt de convèrsa d’IA ({ $shortcut })
+
+## Headings for sidebar menu panels.
+
+sidebar-menu-customize-header =
+    .heading = Personalizar la barra laterala
+
+## Titles for sidebar menu panels.
+
+sidebar-customize-title = Personalizar la barra laterala
 
 ## Context for closing synced tabs when hovering over the items
 
