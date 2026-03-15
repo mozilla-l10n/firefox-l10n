@@ -19,6 +19,11 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = A fordítások nem érhetők el az Ön szervezeténél
     .message = Ez egy rendszergazda által beállított házirend.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = A szöveg lefordításához oldja fel a funkciót
+    .message = Úgy néz ki, hogy úgy frissítette az MI-vezérlőket, hogy blokkolta a funkciót. Oldja fel bármikor, hogy elkezdje a használatát.
+about-translations-feature-blocked-unblock-button = Feloldás
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = A nyelvek betöltése sikertelen
@@ -29,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = A nyelvek betöltése sikertelen.
     .message = Ellenőrizze az internetkapcsolatát, és próbálja meg újra.
 about-translations-language-load-error-button = Próbálja újra
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Hiba történt a fordítás során
+about-translations-translation-error-subtext = Próbálja meg újra.
+about-translations-translation-error-button = Próbálja újra
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Sajnos a(z) { $language } nyelvet még nem támogatjuk.
+about-translations-detected-language-unsupported-heading-unknown = Sajnos még nem támogatjuk ezt a nyelvet.
+about-translations-detected-language-unsupported-subtext = Válasszon másik nyelvet.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Adjon hozzá szöveget a fordításhoz
