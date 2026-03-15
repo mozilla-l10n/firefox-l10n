@@ -218,6 +218,10 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, obnoveno a připraven
 ipprotection-bandwidth-reset-text = Zapněte VPN pro další zvýšení soukromí. Zdarma každý měsíc.
 ipprotection-bandwidth-reset-button = Rozumím
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Tento stránka nemusí fungovat s VPN.</strong> Zkuste se přihlásit nebo VPN během procházení na této stránce vypněte.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN je pozastavena

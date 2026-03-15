@@ -2339,8 +2339,44 @@ preferences-doh-manage-exceptions2 =
 preferences-doh-radio-default =
     .label = ਮੂਲ
     .description = ਜੇ ਖੇਤਰਾਂ ਵਿੱਚ ਸੁਰੱਖਿਅਤ DNS ਮੌਜੂਦ ਹਨ ਤਾਂ ਵਰਤੋਂ
+preferences-doh-radio-custom =
+    .label = ਚੁਣਿੰਦਾ
+    .description = ਆਪਣੇ ਪੂਰਕ ਅਤੇ ਫਾਲਬੈਕ ਰਵੱਈਏ ਉੱਤੇ ਕੰਟਰੋਲ ਰੱਖਣ ਲਈ ਹਮੇਸ਼ਾਂ ਸੁਰੱਖਿਅਤ DNS ਨੂੰ ਵਰਤੋਂ।
+preferences-doh-radio-off =
+    .label = ਬੰਦ
+    .description = ਆਪਣੇ ਮੂਲ DNS ਹੱਲ਼-ਕਰਤਾ ਨੂੰ ਵਰਤੋਂ
+preferences-doh-fallback-label =
+    .label = ਜਦੋਂ ਵੀ ਸੁਰੱਖਿਅਤ DNS ਮੌਜੂਦ ਨਾ ਹੋਵੇ ਤਾਂ ਮੈਨੂੰ ਹਮੇਸ਼ਾਂ ਸਾਵਧਾਨ ਕਰੋ
 preferences-doh-status-item-off =
     .message = HTTPS ਉੱਤੇ DNS ਬੰਦ ਹੈ
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = ਸਾਨੂੰ ਗਲਤ URL ({ $reason }) ਮਿਲਣ ਕਰਕੇ HTTSP ਉੱਤੇ DNS ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = HTTPS ਉੱਤੇ DNS { $name } ਪੂਰਕ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹੈ
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = ਲੋਕਲ ਪੂਰਕ { $name } ਨੂੰ ਵਰਤਣ ਦੇ ਦੌਰਾਨ ਸਾਨੂੰ ਗਲਤੀ ({ $reason }) ਮਿਲਣ ਕਰਕੇ HTTPS ਉੱਤੇ DNS ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = HTTPS ਉੱਤੇ DNS { $name } ਪੂਰਕ ਦੀ ਵਰਤੋਂ ਕਰ ਰਿਹਾ ਹੈ
+preferences-doh-select-resolver-label =
+    .label = ਪੂਰਕ ਚੁਣੋ:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = HTTPS ਉੱਤੇ DNS ਹੱਲ਼ ਕਰਨ ਲਈ ਇਸ ਨੂੰ ਪੂਰਕ ਨੂੰ ਵਰਤੋਂ
+preferences-doh-custom-provider-label =
+    .aria-label = ਇੱਕ ਚੁਣਿੰਦਾ ਪੂਰਕ URL ਦਿਓ
+preferences-doh-header2 =
+    .heading = HTTPS ਉੱਤੇ DNS
 
 ## The following strings are used in the Download section of settings
 
@@ -2409,12 +2445,24 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } ਗਾਰਡ ਚਾਲੂ ਹੈ
 issue-card-dismiss-button =
     .tooltiptext = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+    .description = ਸਾਈਟਾਂ ਆਨਲਾਈਨ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਲਈ ਅਤੇ ਡਰਾਉਣੇ ਇਸ਼ਤਿਹਾਰ ਵੇਖਾਉਣ ਲਈ ਟਰੈਕਰਾਂ ਨੂੰ ਵਰਤਦੀਆਂ ਹਨ। ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੀ ਢਾਲ ਬਣਦਾ ਹੈ, ਟਰੈਕਰਾਂ ਉੱਤੇ ਆਪਣੇ-ਆਪ ਰੋਕ ਲਾਉਣ ਨਾਲ ਤੁਸੀਂ ਆਪਣੀ ਡਿਜ਼ਿਟਲ ਪੈੜਾਂ ਨੂੰ ਕੰਟਰੋਲ ਹੇਠ ਰੱਖ ਸਕਦੇ ਹੋ।
+preferences-etp-level-standard =
+    .label = ਸਟੈਂਡਰਡ (ਮੂਲ)
+    .description = ਮਜ਼ਬੂਤ, ਭਰੋਸੇਯਗ ਸੁਰੱਖਿਆਵਾਂ, ਜੋ ਬਹੁਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨਾਲ ਆਮ ਵਾਂਗ ਕੰਮ ਕਰਦੀਆਂ ਹਨ।
+preferences-etp-reset-strict-button =
+    .label = ਸਖ਼ਤ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
+preferences-etp-custom-control-group =
+    .label = ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+    .description = ਚੁਣੋ ਕਿ ਕਿਹੜੀ ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨਾ ਹੈ।
 preferences-etp-custom-cookies-enabled =
     .label = ਕੂਕੀਜ਼
 preferences-etp-custom-cookie-behavior =
