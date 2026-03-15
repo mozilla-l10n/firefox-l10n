@@ -75,6 +75,7 @@ ipprotection-connection-status-paused-title = VPN ਰੁਕਿਆ ਹੈ
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = ਤੁਸੀਂ ਆਪਣੇ VPN ਡਾਟੇ ਲਈ ਸਾਰਾ { $maxUsage } GB ਵਰਤ ਚੁੱਕੇ ਹੋ। ਬਾਕੀ ਡਾਟੇ ਲਈ ਪਹੁੰਚ ਅਗਲੇ ਮਹੀਨੇ ਹੋਵੇਗੀ।
 upgrade-vpn-title = ਬਰਾਊਜ਼ਰ ਤੋਂ ਪਾਰ ਵੀ ਵਧੀਕ ਸੁਰੱਖਿਆ ਲਵੋ
+upgrade-vpn-description = ਆਪਣੇ VPN ਟਿਕਾਣੇ ਨੂੰ ਚੁਣੋ, ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਅਤੇ 5 ਡਿਵਾਈਸਾਂ ਲਈ VPN ਨੂੰ ਚੁਣੋ। ਕਿਸੇ ਵੀ ਨੈੱਟਵਰਕ ਉੱਤੇ ਸੁਰੱਖਿਅਤ ਰਹੋ — ਘਰੇ ਜਾਂ ਪਬਲਿਕ Wi-Fi ਉੱਤੇ।
 upgrade-vpn-button = { -mozilla-vpn-brand-name } ਨੂੰ ਅਜ਼ਮਾਓ
 
 ## Messages and errors
@@ -89,14 +90,54 @@ ipprotection-connection-status-network-error-description = ਇੰਟਰਨੈੱ
 ipprotection-message-bandwidth-warning =
     .heading = ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜੇ ਹੋ
     .message = ਇਸ ਮਹੀਨੇ ਲਈ ਤੁਹਾਡੇ ਕੋਲ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ।
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜੇ ਹੋ
+    .message = ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਮਹੀਨੇ ਲਈ ਮੌਜੂਦ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } MB ਬਾਕੀ ਬਚਿਆ ਹੈ।
+ipprotection-message-continuous-onboarding-intro = ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਵਾਧੂ ਇੰਕ੍ਰਿਪਸ਼ਨ ਜੋੜਨ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ।
+ipprotection-message-continuous-onboarding-autostart = ਵਾਧੂ ਸੁਰੱਖਿਆ ਜੋੜਨ ਲਈ ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹੋ ਤਾਂ ਹਰ ਵਾਰ <a data-l10n-name="setting-link">VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰੋ</a>।
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ਯਾਦ ਰੱਖੇਗਾ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ VPN ਸੈੱਟ ਕੀਤਾ ਹੈ। ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ <a data-l10n-name="setting-link">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਅੱਪਡੇਟ ਕਰੋ।
 confirmation-hint-ipprotection-navigated-to-excluded-site = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = ਨਾਲ ਹੀ ਮੌਜੂਦ VPN ਪਸੰਦ ਆਇਆ? { -mozilla-vpn-brand-name } ਨਾਲ { -brand-product-name } ਤੋਂ ਬਿਨਾਂ ਵੀ ਸੁਰੱਖਿਆ ਲਵੋ।
+ipprotection-bandwidth-upgrade-text = ਇੱਕ VPN ਟਿਕਾਣੇ ਨੂੰ ਚੁਣੋ ਅਤੇ 5 ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਲਈ ਸੁਰੱਖਿਆ ਪੱਧਰ ਨੂੰ ਜੋੜੋ, ਭਾਵੇਂ ਤੁਸੀਂ ਘਰੇ ਹੋ ਜਾਂ ਪਬਲਿਕ Wi-Fi ਉੱਤੇ।
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜ ਰਹੇ ਹੋ।</strong> ਤੁਹਾਡੇ ਕੋਲ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ। ਤੁਹਾਡਾ ਡਾਟਾ ਅਗਲੇ ਮਹੀਨੇ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ ਮੁੜ-ਸੈੱਟ ਹੋਵੇਗਾ।
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>ਤੁਹਾਡੇ ਕੋਲ VPN ਲਗਭਗ ਖ਼ਤਮ ਹੋ ਗਿਆ ਹੈ।</strong> ਤੁਹਾਡੇ ਕੋਲ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਰਤ ਲਿਆ ਤਾਂ ਤੁਹਾਡਾ VPN ਅਗਲੇ ਮਹੀਨੇ ਦੇ ਪਹਿਲੀ ਤਾਰੀਖੀ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਹੋਣ ਤੱਕ ਰੁਕ ਜਾਵੇਗਾ।
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>ਤੁਹਾਡੇ ਕੋਲ VPN ਲਗਭਗ ਖ਼ਤਮ ਹੋ ਗਿਆ ਹੈ।</strong> ਤੁਹਾਡੇ ਕੋਲ { $usageLeft } MB ਬਾਕੀ ਬਚਿਆ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਰਤ ਲਿਆ ਤਾਂ ਤੁਹਾਡਾ VPN ਅਗਲੇ ਮਹੀਨੇ ਦੇ ਪਹਿਲੀ ਤਾਰੀਖੀ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਹੋਣ ਤੱਕ ਰੁਕ ਜਾਵੇਗਾ।
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ ਲਈ ਨਾਲ ਮੌਜੂਦ VPN ਹੈ।
 ip-protection-learn-more = ਹੋਰ ਜਾਣੋ
 ip-protection-site-exceptions =
     .label = ਖਾਸ ਸਾਈਟ ਸੈਟਿੰਗਾਂ
 ip-protection-not-opted-in-button = ਸ਼ੁਰੂ ਕਰੀਏ
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .description =
+        { $count ->
+            [one] { $count } ਵੈੱਬਸਾਈਟ
+           *[other] { $count } ਵੈੱਬਸਾਈਟਾਂ
+        }
+ip-protection-autostart =
+    .label = VPN ਨੂੰ ਆਪਣੇ-ਆਪ ਚਾਲੂ ਕਰੋ
 ip-protection-autostart-private-checkbox =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ
 
