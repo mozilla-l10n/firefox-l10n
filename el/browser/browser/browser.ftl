@@ -1166,6 +1166,12 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Κωδικοί πρόσβασης
     .tooltiptext = Προβολή και διαχείριση των αποθηκευμένων κωδικών πρόσβασης
+qrcode-panel-error =
+    .message = Αποτυχία δημιουργίας κωδικού QR. Δοκιμάστε ξανά.
+qrcode-copy-button =
+    .label = Αντιγραφή
+qrcode-copy-success =
+    .message = Ο κωδικός QR αντιγράφτηκε στο πρόχειρο.
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
