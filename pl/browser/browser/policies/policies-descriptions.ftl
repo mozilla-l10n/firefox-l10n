@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Włączenie lub wyłączenie podpowiedzi wyszukiwa
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Dodawanie i usuwanie modułów PKCS #11.
 policy-ShowHomeButton = Wyświetlanie przycisku strony domowej na pasku narzędzi.
+policy-SitePolicies = Zasady obowiązujące na konkretnych witrynach.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Wyłączenie wyświetlania warunków korzystania i zasad ochrony prywatności podczas uruchamiania. Oświadczasz, że zgadzasz się i masz prawo zgodzić się na warunki korzystania w imieniu wszystkich osób, którym dajesz dostęp do tej przeglądarki.
 policy-SSLVersionMax = Ustawienie maksymalnej wersji SSL.

@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = Własny obraz
 newtab-topsites-use-image-link = Użyj własnego obrazu…
 newtab-topsites-image-validation = Wczytanie obrazu się nie powiodło. Spróbuj innego adresu.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Wyczyść tekst
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anuluj
