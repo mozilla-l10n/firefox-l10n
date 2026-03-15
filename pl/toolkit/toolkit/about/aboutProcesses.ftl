@@ -61,6 +61,11 @@ about-processes-inference-process = Wnioskowanie ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Inny: { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = prywatny
+about-processes-web-isolated-property-serviceworker = wątek usługowy
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
