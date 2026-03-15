@@ -29,3 +29,15 @@ recently-closed-undo-close-window-label =
         [few] { $winTitle } (a { $tabCount } další panely)
        *[other] { $winTitle } (a { $tabCount } dalších panelů)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } panel, zavřený { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [few] { $winTitle } ({ $tabCount } panely, zavřené { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [many] { $winTitle } ({ $tabCount } panelů, zavřených { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } panelů, zavřených { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }
