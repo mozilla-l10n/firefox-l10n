@@ -13,8 +13,12 @@ unified-extensions-manage-extensions =
     .label = Կառավարել ընդլայնումները
 unified-extensions-discover-extensions =
     .label = Բացահայտեք ընդլայնումները
+unified-extensions-empty-reason-private-browsing-not-allowed = Դուք տեղադրված ընդլայնումներ ունեք, բայց դրանք միացված չեն գաղտնի պատուհաններում
+unified-extensions-empty-reason-extension-not-enabled = Դուք ունեք ընդլայնումներ տեղադրված, բայց չմիացված
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Բարձրացրեք ձեր դիտարկիչի մակարդակը ընդլայնումների միջոցով
+unified-extensions-empty-content-explain-enable2 = Ընտրեք «{ unified-extensions-manage-extensions.label }»՝ դրանք կարգավորումներում միացնելու համար։
+unified-extensions-empty-content-explain-manage2 = Ընտրեք «{ unified-extensions-manage-extensions.label }»՝ դրանք կարգավորումներում կառավարելու համար։
 unified-extensions-empty-content-explain-extensions-onboarding = Անհատականացրեք { -brand-short-name }-ը՝ փոխելով տեսքն ու աշխատանքը կամ բարձրացնելով գաղտնիությունն ու անվտանգությունը։
 
 ## An extension in the main list
