@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
+do-not-track-removal3 =
+    .message = ਅਸੀਂ ਹੁਣ “ਟਰੈਕ ਨਾ ਕਰੋ” ਫ਼ੀਚਰ ਲਈ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹਾਂ।
+non-technical-privacy-heading =
+    .label = ਵਧੀਕ ਸੁਰੱਖਿਆ
+preferences-privacy-relay-available =
+    .label = { -relay-brand-name } ਈਮੇਲ ਮਾਸਕਾਂ ਲਈ ਸੁਝਾਅ
+    .description = ਸਮੈਪ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਆਪਣੇ ਅਸਲ ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਨੂੰ ਓਹਲੇ ਕਰੋ।
 non-technical-privacy-header = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -289,6 +296,8 @@ containers-remove-cancel-button = ਇਸ ਕਨਟੇਨਰ ਨੂੰ ਨਾ ਹ
 settings-tabs-show-image-in-preview =
     .label = ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਉੱਤੇ ਹੋਵੋ ਤਾਂ ਚਿੱਤਰ ਚਿੱਤਰ ਝਲਕ ਵੇਖੋ
     .accessKey = h
+settings-tabs-drag-to-create-tab-groups =
+    .label = ਟੈਬ ਗਰੁੱਪ ਬਣਾਉਣ ਲਈ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇਕੱਠੀਆਂ ਕਰੋ
 browser-layout-header2 =
     .label = ਬਰਾਊਜ਼ਰ ਦਾ ਲੇਆਉਟ
 browser-layout-horizontal-tabs2 =
@@ -524,9 +533,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = ਤਾਰੀਖਾਂ, ਸਮੇਂ, ਨੰਬਰਾਂ ਅਤੇ ਮਾਪ ਲਈ “{ $localeName }” ਵਾਸਤੇ ਆਪਣੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਨੂੰ ਵਰਤੋਂ।
+settings-spellcheck-header =
+    .label = ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ
 check-user-spelling =
     .label = ਲਿਖਦੇ ਵੇਲੇ ਸ਼ਬਦ ਜੋੜਾਂ ਦੀ ਜਾਂਚ ਨਾਲ ਦੀ ਨਾਲ ਕਰਦੇ ਰਹੋ
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = ਸ਼ਬਦਕੋਸ਼ਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
 
 ## General Section - Files and Applications
 
@@ -784,11 +797,20 @@ network-proxy-connection-learn-more = ਹੋਰ ਜਾਣੋ
 network-proxy-connection-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = e
+network-proxy-group2 =
+    .label = ਪਰਾਕਸੀ ਸੈਟਿੰਗਾਂ
+    .description = { -brand-short-name } ਨੂੰ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਸੰਰਚਨਾ ਕਰੋ
+network-proxy-connection-settings2 =
+    .label = ਪਰਕਾਸੀ ਦੀ ਸੰਰਚਨਾ
+    .description = ਇਹ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਣ ਨਾਲ ਕਨੈਕਸ਼ਨ ਮਸਲੇ ਖੜ੍ਹੇ ਹੋ ਸਕਦੇ ਹਨ
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਟੈਬਾਂ
 home-new-windows-tabs-description2 = ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਕੀ ਵੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਮੁੱਖ ਸਫ਼ੇ, ਨਵੀਆਂ ਵਿੰਡੋਆਂ ਅਤੇ ਨਵੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਦੇ ਹੋ।
+home-section =
+    .heading = ਮੁੱਖ-ਸਕਰੀਨ ਅਤੇ ਸ਼ੁਰੂਆਤ
 
 ## Home Section - Default Browser
 
@@ -1049,6 +1071,14 @@ search-one-click-header-3 =
     .description = ਤੁਹਾਡੀ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਖੋਜ ਇੰਜਣਾਂ ਅਤੇ ਸ਼ਾਰਟਕੱਟਾਂ ਨੂੰ ਚੁਣੋ।
 update-search-engine-success =
     .message = ਖੋਜ ਇੰਜਣ ਨੂੰ ਕਾਮਯਾਬੀ ਨਾਲ ਅੱਪਡੇਟ ਕੀਤਾ
+search-edit-engine-2 =
+    .title = ਖੋਜ ਇੰਜਣ ਸੋਧੋ
+search-delete-engine =
+    .title = ਖੋਜ ਇੰਜਣ ਨੂੰ ਹਟਾਓ
+search-enable-engine =
+    .title = ਖੋਜ ਇੰਜਣ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
+search-outlink-to-extensions-page =
+    .title = ਇਕਟੈਨਸ਼ਨਾਂ ਅਤੇ ਥੀਮਾਂ ਵਿੱਚ ਇੰਤਜ਼ਾਮ
 search-choose-engine-column =
     .label = ਖੋਜ ਇੰਜਣ
 search-choose-keyword-column =
@@ -1600,6 +1630,11 @@ history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = ਅਤੀਤ ਯਾਦ ਰੱਖੋ
+history-remember-option-never2 =
+    .label = ਅਤੀਤ ਕਦੇ ਵੀ ਯਾਦ ਨਾ ਰੱਖੋ
+    .description = ਹਰ ਵਿੰਡੋ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਜੋਂ ਕੰਮ ਕਰਦੀ ਹੈ। ਜਦੋਂ ਚਾਲੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਇਕਟਨੈਸ਼ਨਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦੇਣ ਦੀ ਲੋੜ ਪੈਂਦੀ ਹੈ।
+history-remember-option-custom2 =
+    .label = ਪਸੰਦੀਦਾ ਅਤੀਤ
 history-remember-option-never =
     .label = ਅਤੀਤ ਕਦੇ ਵੀ ਯਾਦ ਨਾ ਰੱਖੋ
 history-remember-option-custom =
@@ -1642,6 +1677,14 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = …ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
     .accesskey = s
+history-header2 =
+    .heading = ਅਤੀਤ
+history-section-header =
+    .label = ਅਤੀਤ
+    .description = ਚੋਣ ਕਰੋ ਕਿ ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਬੰਦ ਹੋਣ ਸਮੇਂ { -brand-short-name } ਕੀ ਯਾਦ ਰੱਖੇ।
+history-custom-section-header =
+    .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
+    .description = ਆਪਣੀ ਲੋੜ ਮੁਤਾਬਕ ਢਾਲੋ ਕਿ ਬਰਾਊਜ਼ਰ ਬੰਦ ਹੋਣ ਦੇ ਬਾਅਦ { -brand-short-name } ਕੀ ਯਾਦ ਰੱਖੇ।
 history-group =
     .label = ਅਤੀਤ
 

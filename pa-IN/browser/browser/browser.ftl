@@ -1184,6 +1184,13 @@ qrcode-save-error =
     .message = QR ਕੋਡ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਅਸਫ਼ਲ ਹੈ।
 qrcode-save-title = QR ਕੋਡ ਨੂੰ ਸੰਭਾਲੋ
 qrcode-save-filter-png = PNG ਚਿੱਤਰ
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR ਕੋਡ
+qrcode-dialog-title = QR ਕੋਡ
+qrcode-image =
+    .aria-label = QR ਕੋਡ
+qrcode-close-button =
+    .aria-label = ਬੰਦ ਕਰੋ
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
