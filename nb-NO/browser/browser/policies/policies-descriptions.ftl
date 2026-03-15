@@ -65,7 +65,7 @@ policy-DisableTelemetry = Slå av av telemetri.
 policy-DisableThirdPartyModuleBlocking = Hindre brukeren fra å blokkere tredjepartsmoduler som blir injisert i { -brand-short-name }-prosessen.
 policy-DisplayBookmarksToolbar = Vise bokmerkeverktøylinjen som standard.
 policy-DisplayMenuBar = Vise menylinjen som standard.
-policy-DNSOverHTTPS = Konfigurer DNS-oppslag over HTTPS.
+policy-DNSOverHTTPS = Konfigurer DNS-over-HTTPS.
 policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettleser ved oppstart.
 policy-DownloadDirectory = Angi og lås netlastingskatalogen.
 # “lock” means that the user won’t be able to change this setting
