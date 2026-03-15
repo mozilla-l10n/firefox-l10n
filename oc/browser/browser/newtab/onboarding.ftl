@@ -347,6 +347,7 @@ amo-picker-collection-link = Percórrer mai de moduls
 
 # Easy setup screen
 onboarding-easy-setup-security-and-privacy-title = Nos impòrta vòstra vida privada
+onboarding-easy-setup-security-and-privacy-subtitle = Nòstre navegador es sostengut per una organizacion sens tòca lucrativa ajuda a blocar automaticament las entrepresas de vos pistar secrètament pel web.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Demoratz en lòc segur amb lo chiframent quand basculatz d’aparelh
 onboarding-mobile-download-security-and-privacy-subtitle = Quand la sincronizacion es activada, { -brand-short-name } chifra vòstres senhals, vòstres marcapaginas e encara mai. Amai podètz recuperar vòstres onglets de vòstres autres aparelhs.
@@ -373,8 +374,13 @@ onboarding-genai-sidebar-primary-button = Causir un robòt de convèrsa
 
 ## New user onboarding checklist
 
+onboarding-checklist-import = Importar d’un autre navegador
 onboarding-checklist-extension = Apondre una extension
 
 ## Multi Profiles feature onboarding messages
 
 multi-profile-callout-cta = Crear un perfil
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-onboarding-addons-subtitle = Las extensions son de pichonas aplicacions que vos permeton de personalizar { -brand-short-name }. Pòdon reforzar vòstra confidencialitat, melhorar la productivitat, cambiar l'aparéncia de { -brand-short-name }, e fòrça mai.
