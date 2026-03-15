@@ -637,6 +637,8 @@ newtab-report-cancel = Mégse
 newtab-report-submit = Elküldés
 newtab-toast-thanks-for-reporting =
     .message = Köszönjük, hogy bejelentette.
+newtab-toast-widgets-hidden =
+    .message = Válassza a ceruza ikont, hogy bármikor újra kisalkalmazásokat adjon hozzá.
 
 ## Strings for task / to-do list productivity widget
 
@@ -677,6 +679,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Új lista
 newtab-widget-section-title = Kisalkalmazások
+newtab-widget-menu-hide = Kisalkalmazás elrejtése
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Kisalkalmazások elrejtése
