@@ -2323,9 +2323,66 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Domyślna ochrona
     .description = Używa zabezpieczonego serwera DNS w regionach, gdzie jest dostępny.
+preferences-doh-overview-custom =
+    .label = Własne ustawienia
+    .description = Zawsze używa zabezpieczonego serwera DNS, umożliwiając wybranie dostawcy i sterowanie zachowaniem w razie problemów.
 preferences-doh-overview-off =
     .label = Wyłączone
     .description = Używa domyślnego serwera DNS.
+preferences-doh-advanced-button =
+    .label = Ustawienia zaawansowane
+preferences-doh-advanced-section =
+    .label = Ustawienia zaawansowane
+    .description = System nazw domen poprzez HTTPS (DoH) szyfruje zapytania o nazwy domen, utrudniając dostawcy Internetu i innym podejrzenie, jakie witryny zaraz otworzysz.
+preferences-doh-manage-exceptions2 =
+    .label = Zarządzaj wyjątkami
+    .accesskey = k
+preferences-doh-radio-default =
+    .label = Domyślne ustawienia
+    .description = Używa zabezpieczonego serwera DNS w regionach, gdzie jest dostępny.
+preferences-doh-radio-custom =
+    .label = Własne ustawienia
+    .description = Zawsze używa zabezpieczonego serwera DNS, umożliwiając wybranie dostawcy i sterowanie zachowaniem w razie problemów
+preferences-doh-radio-off =
+    .label = Wyłączone
+    .description = Używa domyślnego serwera DNS
+preferences-doh-fallback-label =
+    .label = Zawsze ostrzega, jeśli zabezpieczony serwer DNS jest niedostępny
+preferences-doh-status-item-off =
+    .message = DNS poprzez HTTPS jest wyłączony
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS poprzez HTTPS nie działa, ponieważ wystąpił błąd ({ $reason }) podczas próby użycia dostawcy { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS poprzez HTTPS nie działa, ponieważ otrzymano nieprawidłowy adres URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS poprzez HTTPS używa dostawcy { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS poprzez HTTPS nie działa, ponieważ wystąpił błąd ({ $reason }) podczas próby użycia lokalnego dostawcy { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS poprzez HTTPS używa lokalnego dostawcy { $name }
+preferences-doh-select-resolver-label =
+    .label = Wybierz dostawcę:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Używa tego dostawcy DNS poprzez HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Wpisz adres URL własnego dostawcy
+preferences-doh-header2 =
+    .heading = DNS poprzez HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2391,3 +2448,35 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anuluj
 preferences-ai-controls-block-confirmation-confirm =
     .label = Zablokuj
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } jest na straży
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } poleca pewne usprawnienia bezpieczeństwa
+security-privacy-status-ok-label = Wzmocniona ochrona przed śledzeniem jest włączona
+security-privacy-status-problem-label = Znaleźliśmy ustawienia wpływające na Twoją ochronę
+security-privacy-status-problem-helper-label = Wyświetl problemy
+security-privacy-status-pending-trackers-label = Sprawdzanie, ile elementów śledzących { -brand-short-name } zablokował w ciągu ostatniego miesiąca
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } element śledzący zablokowany w ciągu ostatniego miesiąca
+        [few] { $trackerCount } elementy śledzące zablokowane w ciągu ostatniego miesiąca
+       *[many] { $trackerCount } elementów śledzących zablokowanych w ciągu ostatniego miesiąca
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Wybrano <a data-l10n-name="strict-tracking-protection">ścisła ochronę</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Wybrano <a data-l10n-name="custom-tracking-protection">własne ustawienia ochrony</a>
+security-privacy-status-up-to-date-label = Masz najnowszą, najbezpieczniejszą wersję { -brand-short-name(case: "gen") }
+security-privacy-status-update-needed-label = Dostępna jest nowa wersja { -brand-short-name(case: "gen") }.
+security-privacy-status-update-error-label = { -brand-short-name } ma problem z aktualizacją
+security-privacy-status-update-checking-label = { -brand-short-name } wyszukuje aktualizacje
+security-privacy-status-update-needed-description = Zaktualizuj, aby korzystać z najszybszej, najstabilniejszej i najbezpieczniejszej przeglądarki.
+security-privacy-status-update-button-label =
+    .label = Zaktualizuj { -brand-short-name(case: "acc") }
+security-privacy-image-warning =
+    .alt = Tarcza z wykrzyknikiem, wyrażająca obawy związane z ostrzeżeniami bezpieczeństwa
