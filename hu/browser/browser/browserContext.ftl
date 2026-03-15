@@ -405,3 +405,11 @@ main-context-menu-reveal-password =
     .accesskey = f
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Új
+main-context-menu-pdfjs-copy-page =
+    .label = Oldal másolása
+main-context-menu-pdfjs-cut-page =
+    .label = Oldal kivágása
+main-context-menu-pdfjs-delete-page =
+    .label = Oldal törlése
+main-context-menu-pdfjs-save-page =
+    .label = Kiválasztás mentése másként…

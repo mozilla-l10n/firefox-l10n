@@ -1169,6 +1169,16 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Jelszavak
     .tooltiptext = A mentett jelszavak megtekintése és kezelése
+qrcode-panel-error =
+    .message = Nem sikerült a QR-kód előállítása. Próbálja meg újra.
+qrcode-copy-button =
+    .label = Másolás
+qrcode-copy-success =
+    .message = QR-kód a vágólapra másolva.
+qrcode-copy-error =
+    .message = Nem sikerült a QR-kód másolása.
+qrcode-save-button =
+    .label = Mentés
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
