@@ -2183,11 +2183,16 @@ website-advertising-private-attribution-description = Pomaga to witrynom zrozumi
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Bezpieczeństwo
+browsing-protection-group2 =
+    .label = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
+    .description = Niebezpieczne witryny i pliki mogą zagrozić Twoim danym i urządzeniu. { -brand-short-name } automatycznie je blokuje i ostrzega przed ryzykownym i niechcianym oprogramowaniem.
 security-browsing-protection = Ochrona przed oszustwami i niebezpiecznym oprogramowaniem
 security-enable-safe-browsing =
     .label = Blokowanie niebezpiecznych i podejrzanych treści.
     .accesskey = B
 security-enable-safe-browsing-link = Więcej informacji
+security-safe-browsing-warning =
+    .message = Wyłączenie zmniejsza ochronę przed oszustwami, złośliwymi witrynami i niebezpiecznymi plikami.
 security-block-downloads =
     .label = Blokowanie możliwości pobierania niebezpiecznych plików
     .accesskey = e
@@ -2219,6 +2224,15 @@ space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zac
 certs-description2 =
     .label = Certyfikaty
     .description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
+certs-description3 =
+    .label = Certyfikaty
+    .description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do weryfikacji zabezpieczonych połączeń.
+certs-view2 =
+    .label = Zarządzaj certyfikatami
+    .accesskey = c
+certs-devices2 =
+    .label = Zarządzaj urządzeniami zabezpieczającymi
+    .accesskey = u
 
 ## Privacy Section - HTTPS-Only
 
@@ -2248,6 +2262,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS poprzez HTTPS
+dns-over-https-group2 =
+    .label = DNS poprzez HTTPS
+    .description = System nazw domen poprzez HTTPS (DoH) szyfruje zapytania o nazwy domen, utrudniając dostawcy Internetu i innym podejrzenie, jakie witryny zaraz otworzysz.
 preferences-doh-description = System nazw domen (DNS) poprzez HTTPS wysyła zapytanie o nazwę domeny przez zaszyfrowane połączenie, tworząc zabezpieczony serwer DNS i utrudniając innym podejrzenie, jaką witrynę zaraz otworzysz.
 preferences-doh-description2 = System nazw domen (DNS) poprzez HTTPS wysyła zapytanie o nazwę domeny przez zaszyfrowane połączenie, zapewniając zabezpieczony serwer DNS i utrudniając innym podejrzenie, jaką witrynę zaraz otworzysz.
 # Variables:
@@ -2303,6 +2320,12 @@ preferences-doh-exceptions-description = { -brand-short-name } nie będzie używ
 preferences-doh-manage-exceptions =
     .label = Wyjątki…
     .accesskey = k
+preferences-doh-overview-default =
+    .label = Domyślna ochrona
+    .description = Używa zabezpieczonego serwera DNS w regionach, gdzie jest dostępny.
+preferences-doh-overview-off =
+    .label = Wyłączone
+    .description = Używa domyślnego serwera DNS.
 
 ## The following strings are used in the Download section of settings
 
