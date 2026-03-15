@@ -221,6 +221,7 @@ ipprotection-bandwidth-reset-button = Rozumím
 ## IP Protection add-on breakage warnings
 
 ipp-activator-breakage-sign-in-warning = <strong>Tento stránka nemusí fungovat s VPN.</strong> Zkuste se přihlásit nebo VPN během procházení na této stránce vypněte.
+ipp-activator-breakage-turn-off-warning = <strong>Tato stránka nemusí fungovat se sítí VPN.</strong> Zkuste během prohlížení vypnout VPN.
 
 ## IP Protection alerts
 

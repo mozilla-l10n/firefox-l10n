@@ -2737,6 +2737,18 @@ security-privacy-status-ok-header = { -brand-short-name } je ve střehu
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } doporučuje některá vylepšení zabezpečení
 security-privacy-status-ok-label = Rozšířená ochrana proti sledování je zapnuta
+security-privacy-status-problem-helper-label = Zobrazit problémy
+security-privacy-status-pending-trackers-label = Vyhledává se, kolik sledovacích prvků { -brand-short-name } zablokoval během posledního měsíce
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] Za poslední měsíc byl zablokován { $trackerCount } sledovací prvek
+        [few] Za poslední měsíc byly zablokovány { $trackerCount } sledovací prvky
+        [many] Za poslední měsíc bylo zablokováno { $trackerCount } sledovacích prvků
+       *[other] Za poslední měsíc bylo zablokováno { $trackerCount } sledovacích prvků
+    }
 security-privacy-status-update-error-label =
     { -brand-short-name.case-status ->
         [with-cases] { -brand-short-name } má problémy s aktualizací
