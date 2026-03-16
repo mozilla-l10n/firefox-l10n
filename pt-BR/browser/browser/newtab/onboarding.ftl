@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Restaurar do backup
 restore-from-backup-title = Vamos deixar o { -brand-short-name } de volta do seu jeito
 restore-from-backup-subtitle = Recupere todos os seus favoritos, histórico e outros dados para retomar a navegação.
 restore-from-backup-secondary-button = Não restaurar
+multiple-backups-info-tile = <strong>Vários arquivos de backup encontrados.</strong> O arquivo mais recente está selecionado. Restaure outros perfis nas <a data-l10n-name="settings-label">configurações.</a>
 
 ## Restored from Backup spotlight
 
