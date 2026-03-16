@@ -24,11 +24,16 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпер прама ў вашым браўзеры
+ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-button-primary = Далей
+ipprotection-feature-introduction-button-secondary-not-now = Не цяпер
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, дзякуй
 
 ## Site settings callout
 
+ipprotection-site-settings-callout-title = Выберыце, дзе вы карыстаецеся VPN
+ipprotection-site-settings-callout-subtitle = Адключыце VPN для пэўнага сайта, і мы ўспомнім гэта пры наступным наведванні.
 ipprotection-site-settings-callout-button = Зразумела
 
 ## Panel
