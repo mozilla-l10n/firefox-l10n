@@ -61,6 +61,13 @@ about-processes-inference-process = Выснова ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Іншае: { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = прыватны
+about-processes-web-isolated-property-serviceworker = воркер сэрвіса
+about-processes-web-isolated-property-jit-disabled = JIT адключаны
+about-processes-web-isolated-property-with-coop-coep = ізаляваны ад крос-паходжання
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.

@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Дадаць элемент
+storage-delete-all-button =
+    .title = Выдаліць усе
 # Refresh button title
 storage-refresh-button =
     .title = Абнавіць элементы

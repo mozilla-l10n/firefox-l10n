@@ -196,3 +196,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Provu ŝanĝi la retadreso
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Kelkefoje retejoj agordas protektojn por si mem kontraŭ nedezirataj interagoj kun aliaj retejoj.
 fp-learn-more-about-https-connections = Pli da informo pri konektoj HTTPS
+fp-neterror-vpn-error-title = Ne eblis konektiĝi al la VPN
+fp-neterror-vpn-error-description = Provu denove post kelkaj minutoj.
