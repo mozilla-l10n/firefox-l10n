@@ -719,10 +719,17 @@ pdfjs-views-manager-status-warning-copy-label = ასლი ვერ აიღ
 pdfjs-views-manager-status-warning-delete-label = ვერ წაიშალა. განაახლეთ გვერდი და კვლავ სცადეთ.
 pdfjs-views-manager-status-warning-save-label = ვერ შეინახა. განაახლეთ გვერდი და კვლავ სცადეთ.
 pdfjs-views-manager-status-undo-button-label = დაბრუნება
+pdfjs-views-manager-status-done-button-label = მზადაა
 pdfjs-views-manager-status-close-button =
     .title = დახურვა
 pdfjs-views-manager-status-close-button-label = დახურვა
 pdfjs-views-manager-paste-button-label = ჩასმა
+pdfjs-views-manager-paste-button-before =
+    .title = ჩასმა პირველი გვერდის წინ
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = ჩასმა { $page } გვერდის შემდეგ
 pdfjs-toggle-views-manager-button1 =
     .title = გვერდების მართვა
 
