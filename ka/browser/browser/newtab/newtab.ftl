@@ -740,6 +740,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = მოაწყვეთ ეს სივრცე თქვენებურად
+newtab-activation-window-message-customization-focus-message = აირჩიეთ ახალთახალი ფონი, დაამატეთ რჩეული საიტების მალსახმობები და მუდმივად გაეცანით თქვენთვის საყურადღებო ამბებს.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = დაიწყეთ მორგება
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -747,3 +748,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = ეს სივრცე შეიძლება მოაწყოთ თქვენებურად
+newtab-activation-window-message-values-focus-message = { -brand-product-name } საშუალებას გაძლევთ გვერდები ინახულოთ ისე, როგორც მოგესურვებათ, ინტერნეტში შებიჯებისთანავე. გახადეთ { -brand-product-name } თქვენებური.
