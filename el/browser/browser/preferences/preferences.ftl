@@ -2453,6 +2453,7 @@ security-privacy-status-problem-header = Το { -brand-short-name } προτεί
 security-privacy-status-ok-label = Η Ενισχυμένη προστασία από καταγραφή είναι ενεργή
 security-privacy-status-problem-label = Εντοπίσαμε ρυθμίσεις που επηρεάζουν την προστασία σας
 security-privacy-status-problem-helper-label = Προβολή ζητημάτων
+security-privacy-status-pending-trackers-label = Αναζήτηση του αριθμού των ιχνηλατών που απέκλεισε το { -brand-short-name } τον τελευταίο μήνα
 # This label tells the user how many trackers we have blocked for them.
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
@@ -2486,6 +2487,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Ενισχυμένη προστασία από καταγραφή
+    .description = Οι ιστότοποι χρησιμοποιούν ιχνηλάτες για να σας ακολουθούν στο διαδίκτυο και να εμφανίζουν διαφημίσεις. Το { -brand-short-name } σάς προστατεύει κατά την περιήγησή σας, αποκλείοντας τους περισσότερους ιχνηλάτες αυτόματα, ώστε να έχετε τον έλεγχο των ψηφιακών σας ιχνών.
 preferences-etp-level-standard =
     .label = Τυπική (προεπιλογή)
     .description = Ισχυρή, αξιόπιστη προστασία που λειτουργεί ομαλά με τους περισσότερους ιστοτόπους.
@@ -2497,8 +2501,14 @@ preferences-etp-level-custom =
     .description = Επιλέξτε ποια μέτρα προστασίας θα (απ)ενεργοποιήσετε.
 preferences-etp-status-advanced-button =
     .label = Σύνθετες ρυθμίσεις
+preferences-etp-status-protections-dashboard-link =
+    .label = Προβολή εξατομικευμένου πίνακα προστασίας
+    .description = Δείτε πόσους ύπουλους ιχνηλάτες έχει αποκλείσει το { -brand-short-name } για εσάς, όπως ιχνηλάτες μέσων κοινωνικής δικτύωσης, fingerprinter και cryptominer.
 preferences-etp-header =
     .heading = Ενισχυμένη προστασία από καταγραφή
+preferences-etp-advanced-settings-group =
+    .label = Σύνθετες ρυθμίσεις
+    .description = Οι ιστότοποι χρησιμοποιούν ιχνηλάτες για να σας ακολουθούν στο διαδίκτυο και να εμφανίζουν διαφημίσεις. Το { -brand-short-name } σάς προστατεύει κατά την περιήγησή σας, αποκλείοντας τους περισσότερους ιχνηλάτες αυτόματα, ώστε να έχετε τον έλεγχο των ψηφιακών σας ιχνών.
 preferences-etp-customize-button =
     .label = Προσαρμογή προστασίας από καταγραφή
 preferences-etp-reload-tabs-hint =
@@ -2507,6 +2517,9 @@ preferences-etp-reload-tabs-hint-button =
     .label = Επαναφόρτωση όλων των καρτελών
 preferences-etp-rfp-warning-message =
     .message = Χρησιμοποιείτε το Resist Fingerprinting (RFP), το οποίο αντικαθιστά ορισμένες από τις ρυθμίσεις προστασίας του { -brand-short-name } ενάντια στο fingerprinting. Αυτό μπορεί να προκαλέσει δυσλειτουργίες σε ορισμένους ιστοτόπους.
+preferences-etp-level-warning-message =
+    .heading = Προσοχή! Ορισμένοι ιστότοποι ενδέχεται να μην λειτουργούν όπως πρέπει.
+    .message = Ορισμένοι ιστότοποι ενσωματώνουν ιχνηλάτες στις λειτουργίες ή το περιεχόμενό τους. Όταν αυτοί αποκλείονται από το { -brand-short-name }, ο ιστότοπος δεν θα εμφανίζεται σωστά. Δοκιμάστε να χρησιμοποιήσετε την επιλογή «Διόρθωση ζητήματος ιστοτόπου» ή να απενεργοποιήσετε την προστασία από καταγραφή στον συγκεκριμένο ιστότοπο.
 preferences-etp-manage-exceptions-button =
     .label = Διαχείριση εξαιρέσεων
     .description = Διαχειριστείτε τους ιστοτόπους όπου η Ενισχυμένη προστασία από καταγραφή είναι ανενεργή.
@@ -2543,6 +2556,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Τα γνωστά fingerprinter δεν αποκλείονται
+    .description = Αυτό ενδέχεται να επιτρέπει σε ορισμένους ιχνηλάτες να σας ακολουθούν χωρίς cookie.
 security-privacy-issue-warning-third-party-cookies =
     .label = Τα cookie τρίτων είναι ενεργά
     .description = Τα cookie τρίτων χρησιμοποιούνται για την καταγραφή σας μεταξύ των ιστοτόπων.
