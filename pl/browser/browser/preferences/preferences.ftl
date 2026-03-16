@@ -2452,6 +2452,8 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } jest na straży
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } poleca kilka usprawnień bezpieczeństwa
 security-privacy-status-ok-label = Wzmocniona ochrona przed śledzeniem jest włączona
 security-privacy-status-problem-label = Znaleźliśmy ustawienia wpływające na Twoją ochronę
 security-privacy-status-problem-helper-label = Wyświetl problemy
