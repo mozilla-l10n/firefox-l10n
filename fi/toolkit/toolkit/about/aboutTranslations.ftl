@@ -36,6 +36,8 @@ about-translations-language-load-error-message =
 about-translations-language-load-error-button = Yritä uudelleen
 # An error message displayed when a translation request fails.
 about-translations-translation-error-heading = Kääntämisessä oli ongelma
+about-translations-translation-error-subtext = Yritä uudelleen.
+about-translations-translation-error-button = Yritä uudelleen
 # An informational message displayed when the detected language is not supported.
 # Variables:
 #   $language (String) - The display name of the detected language.

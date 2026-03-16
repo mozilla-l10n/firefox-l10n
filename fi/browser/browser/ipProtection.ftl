@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimessasi
+ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-button-primary = Seuraava
 ipprotection-feature-introduction-button-secondary-not-now = Ei nyt
 ipprotection-feature-introduction-button-secondary-no-thanks = Ei kiitos
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Selvä
 ## Panel
 
 unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
+unauthenticated-hide-location-message-2 = Piilota sijaintisi selatessasi { -brand-product-name }illa.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
@@ -87,6 +90,12 @@ ipprotection-connection-status-network-error-description = Yhdistä internetiin 
 ipprotection-message-bandwidth-warning =
     .heading = VPN-raja lähestyy
     .message = Sinulla on { $usageLeft }/{ $maxUsage } Gt jäljellä tässä kuussa.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = VPN-raja lähestyy
+    .message = Sinulla on { $usageLeft } Mt / { $maxUsage } Gt jäljellä tämän kuun kiintiöstä.
 ipprotection-message-continuous-onboarding-intro = Ota VPN käyttöön piilottaaksesi sijaintisi ja lisätäksesi lisäsalausta selailuun.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aseta VPN käynnistymään</a> aina, kun avaat { -brand-short-name }in, saadaksesi lisäsuojausta.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } muistaa, mitkä verkkosivustot olet asettanut käyttämään VPN:ää. Voit päivittää sivustot <a data-l10n-name="setting-link">asetuksissa</a> milloin tahansa.
@@ -105,6 +114,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN-rajasi lähesty
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN-datasi on melkein loppu.</strong> Sinulla on { $usageLeft } Gt jäljellä. Kun olet käyttänyt kaiken, VPN-datasi keskeytetään, kunnes datarajasi nollautuu seuraavan kuukauden ensimmäisenä päivänä.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN-datasi on melkein loppu.</strong> Sinulla on { $usageLeft } Mt jäljellä. Kun olet käyttänyt koko kiintiön, VPN keskeytetään, kunnes datarajasi nollautuu seuraavan kuukauden ensimmäisenä päivänä.
 
 ## IP Protection Settings
 
@@ -114,6 +126,11 @@ ip-protection-description =
 ip-protection-learn-more = Lue lisää
 ip-protection-site-exceptions =
     .label = Sivustokohtaiset asetukset
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
+    .message = Piilota sijaintisi selatessasi { -brand-short-name }illa. Saat { $maxUsage } Gt ilmaista VPN-dataa joka kuukausi.
 ip-protection-not-opted-in-button = Aloitetaan
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -165,6 +182,7 @@ ip-protection-bandwidth-hit-for-the-month = Olet käyttänyt kaiken VPN-datasi, 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Nollautuu arvoon { $maxUsage } Gt jokaisen kuukauden ensimmäisenä päivänä.
+ip-protection-bandwidth-header-1 = Kuukausittainen dataraja
 
 ## IP Protection bandwidth reset callout
 
@@ -173,6 +191,11 @@ ip-protection-bandwidth-help-text = Nollautuu arvoon { $maxUsage } Gt jokaisen k
 ipprotection-bandwidth-reset-title = { $maxUsage } Gt VPN-yhteyttä käyttövalmiina
 ipprotection-bandwidth-reset-text = Ota VPN käyttöön saadaksesi ylimääräisen yksityisyydensuojan, ilmaiseksi joka kuukausi.
 ipprotection-bandwidth-reset-button = Selvä
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Tämä verkkosivusto ei välttämättä toimi VPN:n kanssa.</strong> Kokeile kirjautua sisään tai poistaa VPN käytöstä, kun käytät tätä verkkosivustoa.
+ipp-activator-breakage-turn-off-warning = <strong>Tämä verkkosivusto ei välttämättä toimi VPN:n kanssa.</strong> Kokeile poistaa VPN käytöstä, kun käytät tätä verkkosivustoa.
 
 ## IP Protection alerts
 

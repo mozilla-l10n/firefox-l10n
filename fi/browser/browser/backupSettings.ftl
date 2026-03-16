@@ -280,6 +280,10 @@ other-backup-files-founds =
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-metadata2 = <b>{ $profileName }</b> luotu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } laitteella { $machineName }
 # Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Palautettu laitteen { $deviceName } varmuuskopiosta { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kello { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+# Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-date-and-device = Luotu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } laitteella { $machineName }
