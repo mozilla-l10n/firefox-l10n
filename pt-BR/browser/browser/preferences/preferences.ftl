@@ -528,9 +528,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Usar as configurações de “{ $localeName }” do sistema operacional para formatar datas, horários, números e medidas.
+settings-spellcheck-header =
+    .label = Correção ortográfica
 check-user-spelling =
     .label = Verificar a ortografia ao digitar
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Baixar dicionários
 
 ## General Section - Files and Applications
 
@@ -1057,6 +1061,8 @@ search-one-click-header-3 =
     .description = Escolha quais mecanismos de pesquisa e atalhos devem aparecer na barra de endereços.
 update-search-engine-success =
     .message = Mecanismo de pesquisa atualizado com sucesso
+search-edit-engine-2 =
+    .title = Editar mecanismo de pesquisa
 search-delete-engine =
     .title = Excluir mecanismo de pesquisa
 search-choose-engine-column =
