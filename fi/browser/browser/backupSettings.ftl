@@ -19,6 +19,9 @@ backup-folder-name = Palauta { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }in_varmuuskopio
+settings-data-backup-header2 =
+    .label = Varmuuskopiointi
+    .description = Suojaa automaattisesti kirjanmerkit, selaushistoria ja muut tiedot.
 settings-data-backup-header = Varmuuskopiointi
 settings-data-backup-toggle = Hallitse varmuuskopiointia
 settings-data-backup-toggle-on2 =
@@ -48,9 +51,18 @@ settings-data-backup-last-backup-location-show-in-folder = Näytä kansiossa
 settings-data-backup-last-backup-location-edit = Muokkaa…
 settings-data-create-backup-error = Varmuuskopion luomisessa { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } tapahtui virhe
 settings-sensitive-data-encryption-description = Varmuuskopioi salasanasi ja maksutapasi, pidä kaikki tietosi turvassa salauksen avulla.
+settings-data-toggle-encryption-label2 =
+    .label = Varmuuskopioi arkaluontoiset tietosi
+    .description = Varmuuskopioi salasanat ja maksutavat, ja pidä tiedot turvassa salauksen avulla.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Tiedostonimi: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Palauta tietosi
+    .description = Palauta { -brand-product-name }-tietosi viimeisimmästä varmuuskopioinnista.
+settings-data-backup-restore-scheduled-off =
+    .label = Palauta tietosi
+    .description = Käytä { -brand-product-name }-varmuuskopiota toiselta laitteelta palauttaaksesi tietosi.
 settings-data-backup-restore-header = Palauta tietosi
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -62,6 +74,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = Valitse varmuuskopio
 
 settings-data-backup-scheduled-backups-on-restore-description = Palauta { -brand-product-name }-tiedot viimeisimmästä varmuuskopiosta.
 settings-data-backup-scheduled-backups-on-restore-choose = Palauta…
+settings-sensitive-data =
+    .label = Arkaluontoiset tiedot
 settings-data-toggle-encryption-label = Varmuuskopioi arkaluontoiset tietosi
 settings-data-toggle-encryption-support-link = Lue lisää
 settings-data-change-password2 =
@@ -134,6 +148,7 @@ restore-from-backup-type-replace =
     .label = Korvaa kaikki tiedot tällä varmuuskopiolla
 restore-from-backup-type-add =
     .label = Säilytä tiedot ja luo uusi profiili
+restore-from-backup-profiles-disabled-message = Tämä korvaa kaikki nykyiset { -brand-short-name }-tietosi varmuuskopion tiedoilla.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -259,6 +274,11 @@ other-backup-files-founds =
         [one] <b>Huomautus:</b> { $numberOfOtherBackupsFound } muu varmuuskopiotiedosto löytyi
        *[other] <b>Huomautus:</b> { $numberOfOtherBackupsFound } muuta varmuuskopiotiedostoa löytyi
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> luotu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } laitteella { $machineName }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
