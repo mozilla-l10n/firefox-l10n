@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = { -brand-product-name } ішінде �
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
 unauthenticated-get-started = Бастау
+site-exclusion-toggle-enabled-1 =
+    .label = Бұл сайт үшін VPN пайдалану
+    .aria-label = Бұл сайт үшін VPN іске қосулы тұр
+site-exclusion-toggle-disabled-1 =
+    .label = Бұл сайт үшін VPN пайдалану
+    .aria-label = Бұл сайт үшін VPN сөндірулі тұр
 site-exclusion-toggle-label = Бұл сайт үшін VPN пайдалану
 site-exclusion-toggle-enabled =
     .aria-label = Бұл сайт үшін VPN іске қосулы тұр
