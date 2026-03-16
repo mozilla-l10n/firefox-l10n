@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako V
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Lortu VPN datuen doako { $maxUsage } GB hilabetero.
 unauthenticated-get-started = Hasi erabiltzen
+site-exclusion-toggle-enabled-1 =
+    .label = Erabili VPNa gune honetarako
+    .aria-label = VPNa aktibo dago gune honetarako
+site-exclusion-toggle-disabled-1 =
+    .label = Erabili VPNa gune honetarako
+    .aria-label = VPNa inaktibo dago gune honetarako
 site-exclusion-toggle-label = Erabili VPNa gune honetarako
 site-exclusion-toggle-enabled =
     .aria-label = VPNa aktibo dago gune honetarako
@@ -97,6 +103,12 @@ ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena e
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Argibide gehiago
@@ -152,6 +164,9 @@ ip-protection-bandwidth-help-text = { $maxUsage } GBra berrezartzen da hilabete 
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Ulertuta
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
