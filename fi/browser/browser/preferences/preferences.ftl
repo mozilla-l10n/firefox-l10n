@@ -579,6 +579,7 @@ applications-filter =
 applications-type-column =
     .label = Sisältötyyppi
     .accesskey = S
+applications-type-heading = Sisältötyyppi
 applications-action-column =
     .label = Toiminto
     .accesskey = o
@@ -795,11 +796,16 @@ network-proxy-connection-learn-more = Lue lisää
 network-proxy-connection-settings =
     .label = Asetukset…
     .accesskey = A
+network-proxy-group2 =
+    .label = Välityspalvelimen asetukset
+    .description = Määritä miten { -brand-short-name } yhdistää Internetiin.
 
 ## Home Section
 
 home-new-windows-tabs-header = Uudet ikkunat ja välilehdet
 home-new-windows-tabs-description2 = Valitse, mitä näet kun avaat aloitussivun, uuden ikkunan tai uuden välilehden.
+home-section =
+    .heading = Koti ja käynnistys
 
 ## Home Section - Default Browser
 
@@ -1623,6 +1629,8 @@ history-remember-label = { -brand-short-name } säilyttää
     .accesskey = F
 history-remember-option-all =
     .label = Täydelliset historiatiedot
+history-remember-option-custom2 =
+    .label = Mukauta sivuhistoriaa
 history-remember-option-never =
     .label = Ei mitään historiatietoja
 history-remember-option-custom =
@@ -1665,6 +1673,14 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tyhjennä historia…
     .accesskey = T
+history-header2 =
+    .heading = Sivuhistoria
+history-section-header =
+    .label = Sivuhistoria
+    .description = Valitse mitä haluat { -brand-short-name }in muistavan, kun suljet selaimen.
+history-custom-section-header =
+    .label = Lisäasetukset
+    .description = Mukauta mitä haluat { -brand-short-name }in muistavan, kun suljet selaimen.
 history-custom-button =
     .label = Valitse mitä haluat { -brand-short-name }in muistavan
 history-group =
@@ -1877,6 +1893,9 @@ enhanced-tracking-protection-setting-standard =
 enhanced-tracking-protection-setting-strict =
     .label = Tiukka
     .accesskey = u
+enhanced-tracking-protection-setting-custom =
+    .label = Mukautettu
+    .accesskey = M
 
 ##
 
@@ -2376,6 +2395,15 @@ security-privacy-issue-card =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = Tavallinen (oletus)
+    .description = Vahva, luotettava suojaus, joka toimii useimpien verkkosivustojen kanssa.
+preferences-etp-level-strict =
+    .label = Tiukka
+    .description = Vahvemmat suojaukset useimpien seurainten estämiseksi, mutta saattaa aiheuttaa joidenkin verkkosivustojen rikkoutumisen.
+preferences-etp-level-custom =
+    .label = Mukautettu
+    .description = Valitse mitkä suojaukset ovat käytössä tai pois käytöstä.
 preferences-etp-status-advanced-button =
     .label = Lisäasetukset
 preferences-etp-header =
@@ -2403,3 +2431,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Epäillyt yksilöijät
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Epäillyt yksilöijät
+
+## Warnings section
+
+security-privacy-issue-warning-password-manager =
+    .label = Salasananhallinta on poistettu käytöstä
+    .description = Salasananhallinnan palvelut ja sovellukset voivat auttaa tallentamaan vahvoja salasanoja tilejäsi varten.
