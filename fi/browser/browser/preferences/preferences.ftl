@@ -2292,11 +2292,38 @@ preferences-doh-exceptions-description = { -brand-short-name } ei käytä suojat
 preferences-doh-manage-exceptions =
     .label = Hallitse poikkeuksia…
     .accesskey = H
+preferences-doh-overview-default =
+    .label = Oletussuojaus
+    .description = Käytä suojattua DNS:ää alueilla, joilla se on saatavilla.
+preferences-doh-overview-off =
+    .label = Pois päältä
+    .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää.
 preferences-doh-advanced-button =
     .label = Lisäasetukset
 preferences-doh-manage-exceptions2 =
     .label = Hallitse poikkeuksia
     .accesskey = p
+preferences-doh-radio-default =
+    .label = Oletus
+    .description = Käytä suojattua DNS:ää alueilla, joilla se on saatavilla
+preferences-doh-radio-off =
+    .label = Pois päältä
+    .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = HTTPS-yhteyden kautta toimiva DNS käyttää palveluntarjoajaa { $name }
+preferences-doh-select-resolver-label =
+    .label = Valitse palveluntarjoaja:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Käytä tätä palveluntarjoajaa DNS-selvityksien tekemiseen HTTPS-yhteydellä
+preferences-doh-custom-provider-label =
+    .aria-label = Anna mukautetun tarjoajan URL-osoite
+preferences-doh-header2 =
+    .heading = DNS HTTPS:n kautta
 
 ## The following strings are used in the Download section of settings
 
@@ -2371,6 +2398,7 @@ security-privacy-status-problem-header = { -brand-short-name } suosittelee joita
 security-privacy-status-ok-label = Tehostettu seurannan suojaus on päällä
 security-privacy-status-problem-label = Löysimme turvallisuuteesi vaikuttavia asetuksia
 security-privacy-status-problem-helper-label = Näytä ongelmat
+security-privacy-status-pending-trackers-label = Tarkastellaan, kuinka monta seurainta { -brand-short-name } esti viimeisen kuukauden aikana
 # This label tells the user how many trackers we have blocked for them.
 # Variables:
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
@@ -2390,8 +2418,15 @@ security-privacy-status-update-checking-label = { -brand-short-name } tarkistaa 
 security-privacy-status-update-needed-description = Päivitä uusimmat nopeus-, vakaus- ja tietoturvapäivitykset.
 security-privacy-status-update-button-label =
     .label = Päivitä { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Huutomerkillä varustettu kilpi, joka ilmaisee huolta turvallisuuteesi liittyvistä varoituksista
+security-privacy-image-ok =
+    .alt = Oikein-merkillä varustettu kilpi, joka osoittaa, että sinulla ei ole ratkaisemattomia tietoturvaongelmia
 security-privacy-issue-card =
     .heading = Turvallisuusvaroitukset
+issue-card-dismiss-button =
+    .tooltiptext = Hylkää
+    .aria-label = Hylkää
 
 ## Enhanced Tracking Protection (ETP) status section
 
