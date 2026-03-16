@@ -33,6 +33,12 @@ ipprotection-site-settings-callout-button = فئمیم
 
 unauthenticated-vpn-title = VPN منی { -brand-product-name } ن امتهووݩ کۊنین
 unauthenticated-get-started = ناهاڌن پا کار
+site-exclusion-toggle-enabled-1 =
+    .label = و کار گرؽڌن VPN سی ای وبگه
+    .aria-label = VPN سی ای وبگه رۊشن هڌ
+site-exclusion-toggle-disabled-1 =
+    .label = و کار گرؽڌن VPN سی ای وبگه
+    .aria-label = VPN سی ای وبگه کۊر هڌ
 site-exclusion-toggle-label = و کار گرؽڌن VPN سی ای وبگه
 site-exclusion-toggle-enabled =
     .aria-label = VPN سی ای وبگه رۊشن هڌ
@@ -67,6 +73,12 @@ upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
 ipprotection-connection-status-network-error-title = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = قلوه دووسته بۊین
@@ -92,6 +104,9 @@ ip-protection-bandwidth-header = داده یل VPN ماهانه
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = فئمیم
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
