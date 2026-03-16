@@ -96,6 +96,24 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Набліжаецеся да ліміту VPN
     .message = Засталося { $usageLeft } МБ з { $maxUsage } ГБ у гэтым месяцы.
+ipprotection-message-continuous-onboarding-intro = Уключыце VPN, каб схаваць сваё месцазнаходжанне і дадаць дадатковае шыфраванне для прагляду вэб-старонак.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Устанавіце VPN на ўключэнне</a> кожны раз, калі вы адкрываеце { -brand-short-name }, каб атрымаць дадатковы ўзровень аховы.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } запомніць, якія вэб-сайты вы наладзілі на выкарыстанне VPN. Абнавіце іх у <a data-l10n-name="setting-link">наладах</a> у любы час.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN для гэтага сайта выключаны
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Падабаецца ўбудаваны VPN? Атрымайце яшчэ большую абарону па-за { -brand-product-name } з дапамогай { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Выберыце месцазнаходжанне VPN і дадайце абарону ўсім сваім праграмам на максімум 5 прыладах, незалежна ад таго, знаходзіцеся вы дома ці ў грамадскім Wi-Fi.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Набліжаецеся да ліміту VPN.</strong> У вас засталося { $usageLeft } ГБ. Вашы дадзеныя будуць перазапушчаны ў пачатку наступнага месяца.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>У вас амаль скончыўся VPN-трафік.</strong> Засталося { $usageLeft } ГБ. Пасля таго, як вы скарыстаеце іх цалкам, ваш VPN прыпыніцца, пакуль вашы дадзеныя не будуць перазапушчаны ў пачатку наступнага месяца.
 
 ## IP Protection Settings
 
