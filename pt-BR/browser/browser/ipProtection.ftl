@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Experimente a VPN integrada no { -brand-product-name
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Tenha { $maxUsage } GB de dados gratuitos na VPN todo mês.
 unauthenticated-get-started = Introdução
+site-exclusion-toggle-enabled-1 =
+    .label = Usar VPN neste site
+    .aria-label = A VPN está ativada neste site
+site-exclusion-toggle-disabled-1 =
+    .label = Usar VPN neste site
+    .aria-label = A VPN está desativada neste site
 site-exclusion-toggle-label = Usar VPN neste site
 site-exclusion-toggle-enabled =
     .aria-label = A VPN está ativada neste site
@@ -173,6 +179,9 @@ ip-protection-bandwidth-help-text = É renovado para { $maxUsage } GB no início
 ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, renovado e pronto para usar
 ipprotection-bandwidth-reset-text = Ative a VPN para reforçar sua privacidade, gratuitamente todo mês.
 ipprotection-bandwidth-reset-button = Entendi
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
