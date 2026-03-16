@@ -281,19 +281,25 @@ link-preview-settings-long-press =
     .label = Zkratka: Klepněte na odkaz a ponechte tlačítko myši stisknuté 1 sekundu (dlouhý stisk)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcete vidět víc s pomocí umělé inteligence?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message =
+    { -brand-short-name.case-status ->
+        [with-cases] { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování výčtu hlavních myšlenek. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
+       *[no-cases] Aplikace { -brand-short-name } používá umělou inteligenci k přečtení začátku stránky a vygenerování výčtu hlavních myšlenek. Aby bylo upřednostněno vaše soukromí, děje se tak na vašem zařízení.
+    }
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Novinka: Klepněte na libovolný odkaz a ponechte tlačítko myši stisknuté pro vytvoření náhledu
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Zobrazí se krátký popis, odhadovaná doba čtení a další informace, abyste se mohli rozhodnout, zda stojí za to odkaz otevírat. Dostupné také po klepnutí pravým tlačítkem myši.
 # Header for the key points section
-link-preview-key-points-header = Ústřední myšlenky
+link-preview-key-points-header = Výčet hlavních myšlenek
 # Disclaimer for AI-generated key points
-link-preview-key-points-disclaimer = Ústřední myšlenky jsou vygenerované umělou inteligencí a mohou obsahovat chyby.
+link-preview-key-points-disclaimer = Výčet hlavních myšlenek je vygenerován umělou inteligencí a může obsahovat chyby.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = První nastavení • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
-link-preview-setup-faster-next-time = Příště uvidíte ústřední myšlenky rychleji.
+link-preview-setup-faster-next-time = Příště uvidíte výčet hlavních myšlenek rychleji.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Zobrazit náhled
 # Onboarding card Close button
@@ -301,4 +307,4 @@ link-preview-onboarding-close = Zavřít
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = První nastavení
 # Message for the first-time setup modal
-link-preview-first-time-setup-message = Může to chvíli trvat. Příště ale uvidíte ústřední myšlenky rychleji.
+link-preview-first-time-setup-message = Může to chvíli trvat. Příště ale uvidíte výčet hlavních myšlenek rychleji.
