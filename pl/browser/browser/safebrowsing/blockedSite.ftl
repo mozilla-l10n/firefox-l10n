@@ -73,5 +73,5 @@ safeb-blocked-addon-page-error-desc-override = <strong>Dlaczego ta witryna zosta
 safeb-blocked-addon-page-error-desc2-override = Witryna <strong>{ $sitename }</strong> może być powiązana z oszustwami lub szkodliwą działalnością.
 safeb-blocked-addon-page-error-desc3-override = <strong>Co zrobić w takim przypadku?</strong>
 safeb-blocked-addon-page-error-desc4-override = Aby to się nie powtórzyło, można usunąć lub wyłączyć dodatek <strong>{ $addonName }</strong> na stronie about:addons.
-safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support'>Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed szkodliwymi dodatkami</a>.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed szkodliwymi dodatkami</a>.
 safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa</a>.
