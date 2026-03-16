@@ -2545,6 +2545,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = ਜਾਣ-ਪਛਾਣੇ ਫਿੰਗਰਪਰਿੰਟ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਹੈ
+    .description = ਇਹ ਕੁਝ ਟਰੈਕਰਾਂ ਨੂੰ ਬਿਨਾਂ ਕੂਕੀਜ਼ ਦੇ ਵੀ ਤੁਹਾਡੀ ਸੂਹ ਲੈਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇ ਸਕਦੇ ਹਨ।
+security-privacy-issue-warning-third-party-cookies =
+    .label = ਤੀਜੀ ਧਿਰ ਦੀਆਂ ਕੂਕੀਜ ਸਮਰੱਥ ਹਨ।
+    .description = ਤੀਜੀ ਧਿਰ ਦੀਆਂ ਕੂਕੀਜ ਵੱਖ-ਵੱਖ ਵੈੱਬਸਾਈਟਾਂ ਉੱਤੇ ਤੁਹਾਡੀ ਸੂਹ ਲੈ ਸਕਦੀਆਂ ਹਨ।
 security-privacy-issue-warning-password-manager =
     .label = ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਅਸਮਰੱਥ ਹੈ
     .description = ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਤੁਹਾਡੇ ਖਾਤਿਆਂ ਲਈ ਤੁਹਾਨੂੰ ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਸਹਾਇਕ ਹੈ।
