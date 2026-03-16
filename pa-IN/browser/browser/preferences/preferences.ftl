@@ -2122,6 +2122,8 @@ collection-description = ਅਸੀਂ ਤੁਹਾਨੂੰ ਚੋਣ ਕਰਨ 
 collection-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
 collection-health-report-telemetry-disabled = ਤੁਸੀਂ ਹੁਣ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਫੜਨ ਲਈ ਸਹਿਮਤੀ ਹਟਾ ਦਿੱਤੀ ਹੈ। ਸਾਰੇ ਪਿਛਲੇ ਡਾਟੇ ਨੂੰ 30 ਦਿਨਾਂ ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।
 collection-health-report-telemetry-disabled-link = ਹੋਰ ਜਾਣੋ
+backup-multi-profile-warning-message =
+    .message = ਇਹ ਤਬਦੀਲੀ ਨੂੰ ਆਪਣੇ ਬੈਕਅੱਪ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹਰ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ “ਹੁਣੇ ਬੈਕਅੱਪ” ਨੂੰ ਚੁਣੋ।
 collection-usage-ping =
     .label = ਰੋਜ਼ਾਨਾ ਵਰਤੋਂ ਪਿੰਗ { -vendor-short-name } ਨੂੰ ਭੇਜੋ
     .accesskey = u
@@ -2351,6 +2353,11 @@ preferences-doh-status-item-off =
     .message = HTTPS ਉੱਤੇ DNS ਬੰਦ ਹੈ
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = ਪੂਰਕ { $name } ਨੂੰ ਵਰਤਣ ਦੇ ਦੌਰਾਨ ਸਾਨੂੰ ਗਲਤੀ ({ $reason }) ਮਿਲਣ ਕਰਕੇ HTTPS ਉੱਤੇ DNS ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = ਸਾਨੂੰ ਗਲਤ URL ({ $reason }) ਮਿਲਣ ਕਰਕੇ HTTSP ਉੱਤੇ DNS ਕੰਮ ਨਹੀਂ ਕਰਦਾ ਹੈ
 # Variables:
@@ -2499,8 +2506,14 @@ preferences-etp-level-custom =
     .description = ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਸੁਰੱਖਿਆਵਾਂ ਨੂੰ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨਾ ਹੈ।
 preferences-etp-status-advanced-button =
     .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
+preferences-etp-status-protections-dashboard-link =
+    .label = ਆਪਣੇ ਬਣਾਏ ਸੁਰੱਖਿਆ ਡੈਸ਼ਬੋਰਡ ਨੂੰ ਵੇਖੋ
+    .description = ਵੇਖੋ ਕਿ ਕਿੰਨੇ ਚੋਰ ਟਰੈਕਰਾਂ ਨੂੰ { -brand-short-name } ਤੁਹਾਡੇ ਲਈ ਰੋਕਿਆ ਹੈ, ਜਿਸ ਵਿੱਚ ਸਮਾਜਿਕ ਮੀਡੀਆ ਟਰੈਕਰ, ਫਿੰਗਰਪਰਿੰਟਰ ਅਤੇ ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਸ਼ਾਮਲ ਹਨ।
 preferences-etp-header =
     .heading = ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+preferences-etp-advanced-settings-group =
+    .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
+    .description = ਸਾਈਟਾਂ ਟਰੈਕਰਾਂ ਨੂੰ ਆਨਲਾਈਨ ਤੁਹਾਡੀ ਸੂਹ ਲੈਣ ਲਈ ਅਤੇ ਭੈੜੇ ਇਸ਼ਤਿਹਾਰ ਦਿਖਾਉਣ ਲਈ ਵਰਤੀਆਂ ਹਨ। ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੀ ਢਾਲ ਬਣਦਾ ਹੈ, ਜੋ ਕਿ ਬਹੁਤ ਸਾਰੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਰੋਕ ਲਗਾਉਂਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਸੀਂ ਆਪਣੀ ਡਿਜ਼ਿਟਲ ਜ਼ਿੰਦਗੀ ਉੱਤੇ ਕੰਟਰੋਲ ਰੱਖ ਸਕੋ।
 preferences-etp-customize-button =
     .label = ਚੁਣਿੰਦਾ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
 preferences-etp-reload-tabs-hint =
@@ -2509,6 +2522,9 @@ preferences-etp-reload-tabs-hint-button =
     .label = ਸਭ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ
 preferences-etp-rfp-warning-message =
     .message = ਤੁਸੀਂ Resist Fingerprinting (RFP) ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ { -brand-short-name } ਦੀਆਂ ਕੁਝ ਫਿੰਗਰ-ਪਰਿੰਟਿੰਗ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਦਾ ਹੈ। ਇਸ ਨਾਲ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਾ ਕਰਨ।
+preferences-etp-level-warning-message =
+    .heading = ਧਿਆਨ ਰੱਖੋ! ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਸਾਈਟਾਂ ਆਸ ਮੁਤਾਬਕ ਕੰਮ ਨਾ ਕਰਨ।
+    .message = ਕੁਝ ਸਾਈਟਾਂ ਆਪਣੇ ਫ਼ੀਚਰਾਂ ਜਾਂ ਸਮੱਗਰੀ ਵਿੱਚ ਟਰੈਕਰ ਰੱਖਦੀਆਂ ਹਨ। ਜਦੋਂ { -brand-short-name } ਉਹਨਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਦਿੰਦਾ ਤਾਂ ਸਾਈਟ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ। ਉਸ ਸਾਈਟ ਲਈ "ਸਾਈਟ ਮਸਲੇ ਨੂੰ ਠੀਕ ਕਰੋ” ਵਰਤ ਕੇ ਜਾਂ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰਕ ਵੇਖੋ।
 preferences-etp-manage-exceptions-button =
     .label = ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .description = ਵੈੱਬਸਾਈਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ, ਜਿਸ ਲਈ ਵਧਾਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਅਸਮਰੱਥ ਹੁੰਦੀ ਹੈ।
