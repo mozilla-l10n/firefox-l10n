@@ -2313,6 +2313,10 @@ preferences-doh-radio-off =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = HTTPS-yhteyden kautta toimiva DNS käyttää palveluntarjoajaa { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = HTTPS-yhteyden kautta toimiva DNS käyttää paikallista palveluntarjoajaa { $name }
 preferences-doh-select-resolver-label =
     .label = Valitse palveluntarjoaja:
 # Variables:
@@ -2469,6 +2473,21 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-third-party-cookies =
+    .label = Kolmannen osapuolen evästeet ovat käytössä
+    .description = Kolmannen osapuolen evästeitä käytetään seuraamiseesi verkkosivustojen välillä.
 security-privacy-issue-warning-password-manager =
     .label = Salasananhallinta on poistettu käytöstä
     .description = Salasananhallinnan palvelut ja sovellukset voivat auttaa tallentamaan vahvoja salasanoja tilejäsi varten.
+security-privacy-issue-warning-popup-blocker =
+    .label = Ponnahdusikkunoiden esto on poistettu käytöstä
+    .description = Ponnahdusikkunat ovat häiritseviä ja mahdollisesti haitallisia.
+security-privacy-issue-warning-extension-install =
+    .label = Verkkosivustot voivat asentaa laajennuksia
+    .description = Verkkosivustot voivat asentaa laajennuksia { -brand-short-name }iin kysymättä minulta.
+security-privacy-issue-warning-safe-browsing =
+    .label = Vaarallista ja harhaanjohtavaa sisältöä ei estetä
+    .description = Altistumisesi verkkosivustojen huijauksille ja haittaohjelmille on kasvanut.
+security-privacy-issue-warning-doh =
+    .label = DNS HTTPS:n kautta on poistettu käytöstä
+    .description = DNS HTTPS:n kautta piilottaa verkkoyhteytesi tarjoajalta vierailemasi sivustot.
