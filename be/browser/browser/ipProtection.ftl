@@ -148,11 +148,62 @@ ip-protection-autostart-checkbox =
     .label = Калі я адкрываю { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = У прыватных вокнах
+ip-protection-vpn-upgrade-link =
+    .label = Атрымайце яшчэ большую абарону па-за { -brand-short-name } з дапамогай { -mozilla-vpn-brand-name }.
+    .description = Выберыце ўласныя месцы VPN і дадайце абарону ўсім вашым праграмам на пяці прыладах, незалежна ад таго, знаходзіцеся вы дома ці ў грамадскім Wi-Fi.
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Кіраваць наладамі сайтаў
+ip-protection-exclusions-desc = Ужываць VPN для ўсіх сайтаў, акрамя тых, што ў гэтым спісе. Дадайце вэб-сайт тут або адкрыўшы VPN.
+
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = У гэтым месяцы засталося { $usageLeft } ГБ з { $maxUsage } ГБ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = Засталося { $usageLeft } ГБ з { $maxUsage } ГБ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = У гэтым месяцы засталося { $usageLeft } МБ з { $maxUsage } ГБ
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = Засталося { $usageLeft } МБ з { $maxUsage } ГБ
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Вы выкарысталі ўсе { $maxUsage } ГБ вашага VPN-трафіку. Доступ будзе перазапушчаны ў наступным месяцы.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Скідае значэнне да { $maxUsage } ГБ першага чысла кожнага месяца.
+ip-protection-bandwidth-header-1 = Штомесячны ліміт дадзеных
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN, абноўлены і гатовы да выкарыстання
+ipprotection-bandwidth-reset-text = Уключыце VPN для дадатковага павышэння прыватнасці, бясплатна кожны месяц.
 ipprotection-bandwidth-reset-button = Зразумела
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Гэты сайт можа не працаваць з VPN.</strong> Паспрабуйце ўвайсці ў сістэму або адключыць VPN пры выкарыстанні гэтага сайта.
+ipp-activator-breakage-turn-off-warning = <strong>Гэты сайт можа не працаваць з VPN.</strong> Паспрабуйце адключыць VPN пры выкарыстанні гэтага сайта.
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN прыпынены
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Вы выкарысталі ўсе { $maxUsage } ГБ вашага VPN-трафіку. Доступ да VPN будзе перазапушчаны ў наступным месяцы.
+vpn-paused-alert-close-tabs-button = Закрыць усе карткі
+vpn-paused-alert-continue-wo-vpn-button = Працягнуць без VPN
+vpn-error-alert-title = VPN зараз не працуе.
 vpn-error-alert-body = Паўтарыць спробу пазней.
