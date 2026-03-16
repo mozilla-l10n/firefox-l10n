@@ -2487,8 +2487,23 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = თვალთვალისგან გაძლიერებული დაცვა
+    .description = საიტები შეიცავს მეთვალყურეებს, რომლებიც თან დაგყვებათ მთელ ვებსივრცეში და გიგდებთ საძაგელ რეკლამებს. { -brand-short-name } დაგიფარავთ გვერდების მონახულებისას მეთვალყურეების თავისთავადი შეზღუდვით, რომ თქვენს ციფრულ კვალს თავადვე განკარგავდეთ.
+preferences-etp-level-standard =
+    .label = საშუალო (ნაგულისხმევი)
+    .description = მძლავრი, საიმედო დაცვა, შეუფერხებლად რომ იმუშავებს საიტთა უმეტესობაზე.
+preferences-etp-level-strict =
+    .label = მკაცრი
+    .description = გაძლიერებული დაცვა, რომელიც უფრო მეტ მეთვალყურეს ზღუდავს, მაგრამ ზოგიერთ საიტზე შეიძლება იწვევდეს გაუმართაობებს.
+preferences-etp-level-custom =
+    .label = მორგებული
+    .description = დაცვის შერჩეული პარამეტრების ჩართვითა და გამორთვით.
 preferences-etp-status-advanced-button =
     .label = გაფართოებული პარამეტრები
+preferences-etp-status-protections-dashboard-link =
+    .label = თქვენზე მორგებული დაცვის მაჩვენებლების ნახვა
+    .description = იხილეთ, რამდენი გაიძვერა მეთვალყურისგან გიცავთ { -brand-short-name }, მათ შორის, სოცქსელის მიმყურადებლის, ვინაობის ამომცნობისა თუ კრიპტოგამომმუშავებლისგან.
 preferences-etp-header =
     .heading = თვალთვალისგან გაძლიერებული დაცვა
 preferences-etp-customize-button =
