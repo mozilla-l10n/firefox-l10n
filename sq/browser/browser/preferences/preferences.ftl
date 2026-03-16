@@ -2317,6 +2317,12 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Mbrojtje parazgjedhje
     .description = Përdor DNS të siguruar, në rajone ku kjo është e mundshme.
+preferences-doh-overview-custom =
+    .label = Vetjake
+    .description = Përdorni përherë DNS me kontroll mbi shërbimin tuaj dhe sjellje rrugëdaljeje.
+preferences-doh-overview-off =
+    .label = Off
+    .description = Përdorni ftilluesin tuaj parazgjedhje DNS.
 preferences-doh-advanced-button =
     .label = Rregullime të mëtejshme
 preferences-doh-advanced-section =
@@ -2424,6 +2430,7 @@ preferences-ai-controls-state-description-available = <strong>E përdorshme:</st
 preferences-ai-controls-state-description-enabled = <strong>E aktivizuar:</strong> Keni zgjedhur ta përdorni veçorinë.
 preferences-ai-controls-state-description-blocked = <strong>E bllokuar:</strong> S’do ta shihni dhe s’mund ta përdorni veçorinë. Për IA brenda pajisjes, hiqen çfarëdo modelesh të shkarkuar tashmë.
 preferences-ai-controls-block-confirmation-heading = Të bllokohen zgjerime IA?
+preferences-ai-controls-block-confirmation-description = S’do të shihni zgjerime IA të reja apo të tanishme në { -brand-short-name }, apo flluska rreth tyre. Më pas, mund të zhbllokoni çfarëdo që dëshironi të vazhdoni ta përdorni.
 preferences-ai-controls-block-confirmation-features-start = Çfarë do të bllokohet:
 preferences-ai-controls-block-confirmation-translations = Përkthime
 preferences-ai-controls-block-confirmation-pdfjs = Tekst alternativ figurash në parës { -brand-short-name } PDF-sh
@@ -2444,6 +2451,15 @@ security-privacy-status-problem-header = { -brand-short-name }-i rekomandon disa
 security-privacy-status-ok-label = Mbrojtje e Thelluar Nga Gjurmimi është aktive
 security-privacy-status-problem-label = Gjetëm rregullime që prekin mbrojtjen tuaj
 security-privacy-status-problem-helper-label = Shihni probleme
+security-privacy-status-pending-trackers-label = Po shihet se sa gjurmues bllokoi { -brand-short-name }-i gjatë muajit të kaluar
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } gjurmues i bllokuar gjatë muajit të kaluar
+       *[other] { $trackerCount } gjurmues të bllokuar gjatë muajit të kaluar
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Keni <a data-l10n-name="strict-tracking-protection">mbrojtje strikte</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
@@ -2452,8 +2468,11 @@ security-privacy-status-up-to-date-label = Keni versionin më të ri, më të si
 security-privacy-status-update-needed-label = Ka gati një version të ri të { -brand-short-name }-it.
 security-privacy-status-update-error-label = { -brand-short-name } po ka probleme me përditësimin e vetes
 security-privacy-status-update-checking-label = { -brand-short-name } po kontrollon për përditësime
+security-privacy-status-update-needed-description = Për shpejtësinë, qëndrueshmërinë dhe përditësimet më të reja të sigurisë, përditësojeni.
 security-privacy-status-update-button-label =
     .label = Përditësoni { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Një mburojë me një shenjë pikëpyetjeje, që shpreh shqetësim rreth sinjalizimesh sigurie për ju
 security-privacy-issue-card =
     .heading = Sinjalizime sigurie
 issue-card-reset-button =

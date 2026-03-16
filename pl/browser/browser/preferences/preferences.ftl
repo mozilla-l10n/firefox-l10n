@@ -1708,7 +1708,7 @@ sitedata-total-size-calculating = Obliczanie rozmiaru danych i pamięci podręc
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size3 = Witryny obecnie wykorzystują <strong>{ $value } { $unit }</strong> miejsca na dysku.
+sitedata-total-size3 = Witryny obecnie zajmują <strong>{ $value } { $unit }</strong> na dysku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1727,7 +1727,7 @@ sitedata-delete-on-close =
 sitedata-delete-on-close-private-browsing3 =
     .message = Ustawienia historii powodują, że { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
 sitedata-delete-on-close-private-browsing4 =
-    .heading = Historia nie będzie
+    .heading = Historia nie będzie zachowywana.
     .message = { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
 sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane witryn są zawsze usuwane podczas zamykania programu { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Ustawienia historii powodują, że { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
