@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Найбліжэйшы да: { $colorName
 colorpicker-tooltip-hue-slider-title = Адценне
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Непразрыстасць
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Псеўдакласы, спецыфічныя для элементаў
