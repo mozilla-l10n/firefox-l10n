@@ -65,7 +65,7 @@ about-processes-unknown-process = Inny: { $type } ({ $pid })
 
 about-processes-web-isolated-property-private = prywatny
 about-processes-web-isolated-property-serviceworker = wątek usługowy
-about-processes-web-isolated-property-jit-disabled = Wyłączone JIT
+about-processes-web-isolated-property-jit-disabled = wyłączone JIT
 about-processes-web-isolated-property-with-coop-coep = wydzielony innego pochodzenia
 
 ## Isolated process names
