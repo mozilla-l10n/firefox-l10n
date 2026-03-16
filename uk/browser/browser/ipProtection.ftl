@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Спробуйте вбудовану VPN від { -
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Отримуйте щомісяця { $maxUsage } ГБ даних для VPN.
 unauthenticated-get-started = Розпочати
+site-exclusion-toggle-enabled-1 =
+    .label = Використовувати VPN для цього сайту
+    .aria-label = VPN увімкнено для цього сайту
+site-exclusion-toggle-disabled-1 =
+    .label = Використовувати VPN для цього сайту
+    .aria-label = VPN вимкнено для цього сайту
 site-exclusion-toggle-label = Використовувати VPN для цього сайту
 site-exclusion-toggle-enabled =
     .aria-label = VPN увімкнено для цього сайту
@@ -174,6 +180,9 @@ ip-protection-bandwidth-help-text = Скидається до { $maxUsage } ГБ
 ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN оновлено і готово до використання
 ipprotection-bandwidth-reset-text = Увімкніть VPN для посилення приватності, безплатно щомісяця.
 ipprotection-bandwidth-reset-button = Зрозуміло
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
