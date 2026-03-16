@@ -1166,6 +1166,16 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = პაროლები
     .tooltiptext = იხილეთ და მართეთ შენახული პაროლები
+qrcode-panel-error =
+    .message = QR-კოდის შედგენა ვერ მოხერხდა. გთხოვთ, კვლავ სცადოთ.
+qrcode-copy-button =
+    .label = ასლი
+qrcode-copy-success =
+    .message = QR-კოდის ასლი აღებულია.
+qrcode-copy-error =
+    .message = ვერ მოხერხდა QR-კოდის ასლი აღება.
+qrcode-save-button =
+    .label = შენახვა
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

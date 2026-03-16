@@ -27,6 +27,7 @@ profiles-rootdir = ძირეული საქაღალდე
 profiles-localdir = ადგილობრივი საქაღალდე
 profiles-current-profile = ამჟამად ეს პროფილი გამოიყენება, ამიტომ ვერ წაიშლება.
 profiles-in-use-profile = ამ პროფილს სხვა პროგრამა იყენებს და მისი წაშლა ვერ მოხერხდება.
+profiles-cannot-delete-profile = ვერ წაიშლება პროფილი, რომელიც სხვა პროფილებთანაა დაკავშირებული.
 profiles-rename = გადარქმევა
 profiles-remove = მოცილება
 profiles-set-as-default = ნაგულისხმევ პროფილად დაყენება
