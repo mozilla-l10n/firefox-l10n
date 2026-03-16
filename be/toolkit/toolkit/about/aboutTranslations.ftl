@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = На гэтай прыладзе пераклад недаступны.
     .message = Паспрабуйце перайсці на іншую прыладу.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Пераклады недаступныя для вашай арганізацыі
+    .message = Гэта палітыка, устаноўленая вашым адміністратарам.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Каб перакласці тэкст, разблакуйце гэту функцыю
+    .message = Здаецца, вы абнавілі кіраванне штучным інтэлектам, каб заблакаваць гэту функцыю. Разблакуйце ў любы час, каб пачаць ёю карыстацца.
+about-translations-feature-blocked-unblock-button = Разблакаваць
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Не ўдалося загрузіць мовы
@@ -25,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = Не ўдалося загрузіць мовы.
     .message = Праверце злучэнне з інтэрнэтам і паспрабуйце зноў.
 about-translations-language-load-error-button = Паспрабаваць зноў
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Узнікла праблема з перакладам
+about-translations-translation-error-subtext = Паспрабуйце зноў.
+about-translations-translation-error-button = Паспрабаваць зноў
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = На жаль, мы пакуль не падтрымліваем { $language }
+about-translations-detected-language-unsupported-heading-unknown = На жаль, мы пакуль не падтрымліваем гэтую мову
+about-translations-detected-language-unsupported-subtext = Калі ласка, абярыце іншую мову.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Дадаць тэкст для перакладу

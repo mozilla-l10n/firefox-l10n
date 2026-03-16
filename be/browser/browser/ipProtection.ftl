@@ -8,12 +8,17 @@
 ipprotection-button =
     .label = VPN
     .tooltiptext = VPN
+ipprotection-button-error =
+    .label = Уключыць VPN
+    .tooltiptext = Уключыць VPN
 
 ##
 
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = BETA
+ipprotection-help-button =
+    .tooltiptext = Адкрыць старонку падтрымкі VPN
 ipprotection-title = VPN
 
 ## Feature introduction callout

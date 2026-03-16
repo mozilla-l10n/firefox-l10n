@@ -29,3 +29,14 @@ recently-closed-undo-close-window-label =
         [few] { $winTitle } (і { $tabCount } іншыя карткі)
        *[many] { $winTitle } (і { $tabCount } іншых картак)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } картка, закрыта { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [few] { $winTitle } ({ $tabCount } карткі, закрытыя { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[many] { $winTitle } ({ $tabCount } картак, закрытых { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }
