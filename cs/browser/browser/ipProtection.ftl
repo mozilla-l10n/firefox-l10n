@@ -52,6 +52,12 @@ unauthenticated-hide-location-message-2 =
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získejte { $maxUsage } GB bezplatných dat VPN každý měsíc.
 unauthenticated-get-started = Začínáme
+site-exclusion-toggle-enabled-1 =
+    .label = Použít VPN pro tuto stránku
+    .aria-label = VPN je pro tuto stránku zapnuta
+site-exclusion-toggle-disabled-1 =
+    .label = Použít VPN pro tuto stránku
+    .aria-label = VPN je pro tuto stránku vypnuta
 site-exclusion-toggle-label = Použít VPN pro tuto stránku
 site-exclusion-toggle-enabled =
     .aria-label = VPN je pro tuto stránku zapnuta
