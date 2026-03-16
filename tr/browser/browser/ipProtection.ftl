@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = { -brand-product-name } ile gezinirken
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Her ay { $maxUsage } GB VPN kotası ücretsiz.
 unauthenticated-get-started = Kullanmaya başlayın
+site-exclusion-toggle-enabled-1 =
+    .label = Bu sitede VPN kullan
+    .aria-label = Bu sitede VPN açık
+site-exclusion-toggle-disabled-1 =
+    .label = Bu sitede VPN kullan
+    .aria-label = Bu sitede VPN kapalı
 site-exclusion-toggle-label = Bu sitede VPN kullan
 site-exclusion-toggle-enabled =
     .aria-label = Bu sitede VPN açık
