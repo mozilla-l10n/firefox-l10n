@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
 unauthenticated-get-started = Unuaj paŝoj
+site-exclusion-toggle-enabled-1 =
+    .label = Ŝalti VPN por tiu ĉi retejo
+    .aria-label = VPN ŝaltita por tiu ĉi retejo
+site-exclusion-toggle-disabled-1 =
+    .label = Ŝalti VPN por tiu ĉi retejo
+    .aria-label = VPN malŝaltita por tiu ĉi retejo
 site-exclusion-toggle-label = Ŝalti VPN por tiu ĉi retejo
 site-exclusion-toggle-enabled =
     .aria-label = VPN ŝaltita por tiu ĉi retejo
@@ -177,6 +183,9 @@ ipprotection-bandwidth-reset-title =
     }
 ipprotection-bandwidth-reset-text = Ŝaltu vian VPN por aldona privateca plibonigo, senpage ĉiumonate.
 ipprotection-bandwidth-reset-button = Mi komprenis
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
