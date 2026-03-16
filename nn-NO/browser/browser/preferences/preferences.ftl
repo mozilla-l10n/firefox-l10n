@@ -2370,6 +2370,11 @@ preferences-doh-status-item-active-local =
     .message = DNS-over-HTTPS brukar den lokale leverandøren { $name }
 preferences-doh-select-resolver-label =
     .label = Vel leverandør:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Bruk denne leverandøren for DNS-over-HTTPS-oppslag
 preferences-doh-custom-provider-label =
     .aria-label = Skriv inn ein eigendefinert leverandør-URL
 preferences-doh-header2 =
@@ -2449,6 +2454,14 @@ security-privacy-status-ok-label = Utvida sporingsvern er på
 security-privacy-status-problem-label = Vi fann innstillingar som påverkar vernet ditt
 security-privacy-status-problem-helper-label = Vis problem
 security-privacy-status-pending-trackers-label = Ser på kor mange sporarar som { -brand-short-name } har blokkert den siste månaden
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } sporar blokkert den siste månaden
+       *[other] { $trackerCount } sporarar blokkerte den siste månaden
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Du har <a data-l10n-name="strict-tracking-protection">strengt vern</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
