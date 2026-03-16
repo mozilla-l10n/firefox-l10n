@@ -1176,6 +1176,19 @@ qrcode-copy-error =
     .message = ვერ მოხერხდა QR-კოდის ასლი აღება.
 qrcode-save-button =
     .label = შენახვა
+qrcode-save-success =
+    .message = QR-კოდი შენახულია.
+qrcode-save-error =
+    .message = ვერ მოხერხდა QR-კოდის შენახვა.
+qrcode-save-title = QR-კოდის შენახვა
+qrcode-save-filter-png = PNG-გამოსახულება
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR-კოდი
+qrcode-dialog-title = QR-კოდი
+qrcode-image =
+    .aria-label = QR-კოდი
+qrcode-close-button =
+    .aria-label = დახურვა
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

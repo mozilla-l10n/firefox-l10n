@@ -76,14 +76,22 @@ fp-certerror-return-to-previous-page-recommended-button = უკან დაბ
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } გაფრთხილებთ ამ საიტის შესახებ, ვინაიდან სერტიფიკატი, რომლის წარდგენასაც ცდილობს { $hostname }, გაუქმებულია და აღარ მიიჩნევა სანდოდ.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტის მხრიდან იყოს ხარვეზი. შეგიძლიათ მიმართოთ ვებსაიტის მფლობელებს, რომ გაარკვიოთ, მუშაობენ თუ არა ხარვეზის გამოსასწორებლად.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = საიტი მომართულია მხოლოდ დაცული კავშირების დასამყარებლად, მაგრამ ხარვეზი აქვს სერტიფიკატს. არაა გამორიცხული, ვინმე ბოროტმოქმედი ცდილობდეს ამ საიტის სხვა საიტად გასაღებას. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. { -brand-short-name } არ ენდობა ამ საიტს, რადგან მისი სერტიფიკატი უქმია მისამართისთვის { $hostname }. სერტიფიკატი მოქმედია მისამართებისთვის: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-bad-domain-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს მხრიდან იყოს ხარვეზი. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. თუ დაწესებულების ქსელში იმყოფებით, ქსელის ზედამხედველ გუნდს ექნება მეტი ინფორმაცია. თუ გიყენიათ ანტივირუსი, ეცადეთ მოიძიოთ თავსებადობის ან სხვა ცნობილი ხარვეზები.
+fp-certerror-bad-domain-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტის მხრიდან იყოს ხარვეზი. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. თუ დაწესებულების ქსელში იმყოფებით, ქსელის ზედამხედველ გუნდს ექნება მეტი ინფორმაცია. თუ გიყენიათ ანტივირუსი, ეცადეთ მოიძიოთ თავსებადობის ან სხვა ცნობილი ხარვეზები.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტის მხრიდან იყოს ხარვეზი. შეგიძლიათ მიმართოთ ვებსაიტის მფლობელებს, რომ გაარკვიოთ, მუშაობენ თუ არა ხარვეზის გამოსასწორებლად.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = ხარვეზი აქვს საიტის სერტიფიკატს. არაა გამორიცხული, ვინმე ბოროტმოქმედი ცდილობდეს ამ საიტის სხვა საიტად გასაღებას. საიტები იყენებს უფლებამოსილი მხარის გაცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. { -brand-short-name } არ ენდობა ამ საიტს, რადგან უცნობია მისი გამომცემელი, შეიძლება თვითდამოწმებულია ან საიტი არ აგზავნის სანდო შუალედურ სერტიფიკატს.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-unknown-issuer-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს მხრიდან იყოს ხარვეზი. თუ დაწესებულების ქსელში იმყოფებით, ქსელის მხარდაჭერის გუნდს ეცოდინება უკეთ. თუ იყენებთ ანტივირუსს, შეიძლება საჭირო იყოს ისე გამართვა, რომ { -brand-short-name } შეუთავსებლად არ მუშაობდეს.
+fp-certerror-unknown-issuer-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტის მხრიდან იყოს ხარვეზი. თუ დაწესებულების ქსელში იმყოფებით, ქსელის მხარდაჭერის გუნდს ეცოდინება უკეთ. თუ იყენებთ ანტივირუსს, შეიძლება საჭირო იყოს ისე გამართვა, რომ { -brand-short-name } შეუთავსებლად არ მუშაობდეს.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = იმის, რომ ხარვეზითაა საიტის სერტიფიკატი. საიტები იყენებს უფლებამოსილი მხარის გამოცემულ სერტიფიკატებს ნამდვილობის დასამოწმებლად. ამ საიტის სერტიფიკატი კი თვითდამოწმებულია. არაა აღიარებული მხარის მიერ გამოცემული — ასე რომ თავისთავად სანდო ვერ იქნება.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -112,7 +120,7 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-transparency-why-dangerous-body = { -brand-short-name } არ ენდობა { $hostname }-ს, რადგანაც ვერ ადასტურებს, რომ აკმაყოფილებს საჯარო სერტიფიკატის გამჭვირვალობის მოთხოვნებს.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-transparency-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტს ჰქონდეს ხარვეზი.
+fp-certerror-transparency-what-can-you-do-body = შესაძლოა, არც არაფრის და თავად საიტის მხრიდან იყოს ხარვეზი.
 fp-learn-more-about-secure-connection-failures = ვრცლად უსაფრთხო კავშირის ხარვეზების შესახებ
 fp-learn-more-about-cert-issues = ვრცლად ამ სახის სერტიფიკატების საკითხების შესახებ
 fp-learn-more-about-time-related-errors = ვრცლად არეული საათით გამოწვეული ხარვეზების მოგვარების შესახებ
