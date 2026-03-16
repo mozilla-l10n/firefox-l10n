@@ -19,6 +19,9 @@ backup-folder-name = Restaurar { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
+settings-data-backup-header2 =
+    .label = Backup
+    .description = Salvar automaticamente seus favoritos, histórico e outros dados.
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Gerenciar backup
 settings-data-backup-toggle-on2 =
@@ -35,6 +38,13 @@ settings-data-backup-scheduled-backups-on = Backup: ATIVADO
 settings-data-backup-scheduled-backups-off = Backup: DESATIVADO
 settings-data-backup-scheduled-backups-description = Proteja automaticamente seus favoritos, histórico e outros dados. <a data-l10n-name="support-link">Saiba mais</a>
 settings-data-backup-last-backup-date = Último backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Backup está ATIVADO
+settings-data-backup-scheduled-backups-off2 =
+    .label = Backup está DESATIVADO
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Local do backup
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Local
 settings-data-backup-last-backup-location-show-in-folder = Mostrar na pasta
