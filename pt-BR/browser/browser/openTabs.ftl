@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Escolha uma aba a adicionar na exibição dividida
+opentabs-search-text-box =
+    .placeholder = Pesquisar nas abas
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Resultados da pesquisa de “{ $query }”

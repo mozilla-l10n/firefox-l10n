@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Preferências de privacidade em sites
+do-not-track-removal3 =
+    .message = Não oferecemos mais suporte ao recurso “Não rastrear”.
+non-technical-privacy-heading =
+    .label = Proteções adicionais
 non-technical-privacy-header = Preferências de privacidade em sites
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -784,6 +788,10 @@ network-proxy-connection-learn-more = Saiba mais
 network-proxy-connection-settings =
     .label = Configurar conexão…
     .accesskey = e
+network-proxy-connection-settings2 =
+    .label = Configurar proxy
+    .description = Mudar essas configurações pode causar problemas de conexão
+    .accesskey = p
 
 ## Home Section
 
@@ -1049,6 +1057,8 @@ search-one-click-header-3 =
     .description = Escolha quais mecanismos de pesquisa e atalhos devem aparecer na barra de endereços.
 update-search-engine-success =
     .message = Mecanismo de pesquisa atualizado com sucesso
+search-delete-engine =
+    .title = Excluir mecanismo de pesquisa
 search-choose-engine-column =
     .label = Mecanismo de pesquisa
 search-choose-keyword-column =
@@ -1642,6 +1652,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpar histórico…
     .accesskey = h
+history-header2 =
+    .heading = Histórico
 history-group =
     .label = Histórico
 
@@ -2215,6 +2227,12 @@ preferences-doh-exceptions-description = O { -brand-short-name } não usa DNS se
 preferences-doh-manage-exceptions =
     .label = Gerenciar exceções…
     .accesskey = x
+preferences-doh-manage-exceptions2 =
+    .label = Gerenciar exceções
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Padrão
+    .description = Usar DNS seguro em regiões onde estiver disponível
 
 ## The following strings are used in the Download section of settings
 
