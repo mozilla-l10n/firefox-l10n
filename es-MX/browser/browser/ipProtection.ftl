@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Prueba la VPN integrada de { -brand-product-name }
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obtén { $maxUsage } GB de datos VPN gratis cada mes.
 unauthenticated-get-started = Comenzar
+site-exclusion-toggle-enabled-1 =
+    .label = Utiliza VPN para este sitio
+    .aria-label = La VPN está activada para este sitio
+site-exclusion-toggle-disabled-1 =
+    .label = Utiliza VPN para este sitio
+    .aria-label = La VPN está desactivada para este sitio
 site-exclusion-toggle-label = Utiliza VPN para este sitio
 site-exclusion-toggle-enabled =
     .aria-label = La VPN está activada para este sitio
@@ -83,6 +89,12 @@ ipprotection-connection-status-network-error-title = Revisa tu conexión a Inter
 ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
 ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
