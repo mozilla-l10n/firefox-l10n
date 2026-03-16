@@ -1665,8 +1665,12 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Tyhjennä historia…
     .accesskey = T
+history-custom-button =
+    .label = Valitse mitä haluat { -brand-short-name }in muistavan
 history-group =
     .label = Historiatiedot
+history-remember-option-all2 =
+    .label = Muista historia
 
 ## Privacy Section - Site Data
 
@@ -1677,17 +1681,27 @@ sitedata-total-size-calculating = Lasketaan sivustotietojen ja välimuistin koko
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Verkkosivustot käyttävät tällä hetkellä <strong>{ $value } { $unit }</strong> levytilaa.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Tallennetut evästeet, historia, sivustotiedot ja välimuisti vievät tällä hetkellä <strong>{ $value } { $unit }</strong> levytilaa.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Evästeet, sivustotiedot ja välimuisti vievät tällä hetkellä { $value } { $unit } levytilaa.
 sitedata-learn-more = Lue lisää
+sitedata-delete-on-close2 =
+    .label = Tyhjennä evästeet ja sivustotiedot aina, kun suljet { -brand-short-name }in
+    .accesskey = ä
 sitedata-delete-on-close =
     .label = Poista evästeet ja sivustotiedot, kun { -brand-short-name } suljetaan
     .accesskey = s
 sitedata-delete-on-close-private-browsing3 =
     .message = Historia-asetustesi perusteella { -brand-short-name } poistaa evästeet ja sivustotiedot istunnostasi, kun suljet selaimen.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historiaa ei tallenneta.
+    .message = { -brand-short-name } tyhjentää istunnon aikana kertyneet evästeet ja sivustotiedot, kun suljet selaimen.
 sitedata-delete-on-close-private-browsing = Pysyvässä yksityisessä selaustilassa evästeet ja sivustotiedot poistetaan aina, kun { -brand-short-name } suljetaan.
 sitedata-delete-on-close-private-browsing2 = Historia-asetustesi perusteella { -brand-short-name } poistaa evästeet ja sivustotiedot istunnostasi, kun suljet selaimen.
 sitedata-allow-cookies-option =
@@ -1733,6 +1747,12 @@ sitedata-cookies-exceptions2 =
     .label = Hallitse poikkeuksia
     .accesskey = k
     .description = Voit määrittää, mitkä verkkosivustot voivat aina tai ei koskaan käyttää evästeitä ja sivustotietoa.
+sitedata-heading =
+    .label = Selaustiedot
+    .description = Hallitse evästeitä, sivuhistoriaa, välimuistia, verkkosivustojen tietoja ja paljon muuta.
+sitedata-settings3 =
+    .label = Tyhjennä tiettyjen sivustojen tiedot
+    .accesskey = s
 cookies-site-data-group =
     .label = Evästeet ja sivustotiedot
 
@@ -1999,6 +2019,15 @@ permissions-block-popups2 =
     .accesskey = ä
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Hallitse uudelleenohjauksia
+    .accesskey = e
+    .searchkeywords = popups,pop-ups,ponnahdukset
+permissions-addon-install-warning3 =
+    .label = Näytä varoitus, kun verkkosivustot yrittävät asentaa laajennuksia
+    .accesskey = v
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Hallitse ponnahdusikkunoiden ja kolmannen osapuolen uudelleenohjausten poikkeuksia
     .accesskey = e
@@ -2044,6 +2073,9 @@ permissions-speaker2 =
     .label = Kaiutin
 permissions-notification2 =
     .label = Ilmoitukset
+permissions-header3 =
+    .label = Käyttöoikeudet
+    .description = Hallitse mitä verkkosivustot voivat käyttää, ohjata ja käynnistää.
 
 ## Privacy Section - Data Collection
 
@@ -2154,6 +2186,12 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") }
 certs-description2 =
     .label = Varmenteet
     .description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
+certs-description3 =
+    .label = Varmenteet
+    .description = Määritä { -brand-short-name }in suojattujen yhteyksien vahvistamiseen käyttämät varmenteet.
+certs-view2 =
+    .label = Hallitse varmenteita
+    .accesskey = r
 
 ## Privacy Section - HTTPS-Only
 
@@ -2311,11 +2349,17 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } on valppaana
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } suosittelee joitakin tietoturvaparannuksia
+security-privacy-status-ok-label = Tehostettu seurannan suojaus on päällä
 security-privacy-status-up-to-date-label = Sinulla on { -brand-short-name }in uusin ja turvallisin versio
 security-privacy-status-update-needed-label = Uusi versio { -brand-short-name }ista on saatavilla.
 security-privacy-status-update-checking-label = { -brand-short-name } tarkistaa päivityksiä
 security-privacy-status-update-button-label =
     .label = Päivitä { -brand-short-name }
+security-privacy-issue-card =
+    .heading = Turvallisuusvaroitukset
 
 ## Enhanced Tracking Protection (ETP) status section
 
