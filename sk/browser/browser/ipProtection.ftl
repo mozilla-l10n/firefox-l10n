@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
 unauthenticated-get-started = Začíname
+site-exclusion-toggle-enabled-1 =
+    .label = Použiť VPN pre túto stránku
+    .aria-label = VPN je pre túto stránku zapnutá
+site-exclusion-toggle-disabled-1 =
+    .label = Použiť VPN pre túto stránku
+    .aria-label = VPN je pre túto stránku vypnutá
 site-exclusion-toggle-label = Použiť VPN pre túto stránku
 site-exclusion-toggle-enabled =
     .aria-label = VPN je pre túto stránku zapnutá
@@ -181,6 +187,9 @@ ip-protection-bandwidth-help-text = Obnoví sa na { $maxUsage } GB v prvý deň
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN, obnovené a pripravené na použitie
 ipprotection-bandwidth-reset-text = Zapnite si VPN a získajte ďalšie zvýšenie súkromia, každý mesiac zadarmo.
 ipprotection-bandwidth-reset-button = Rozumiem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
