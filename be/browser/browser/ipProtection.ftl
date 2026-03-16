@@ -23,6 +23,7 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпер прама ў вашым браўзеры
 ipprotection-feature-introduction-button-primary = Далей
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, дзякуй
 
