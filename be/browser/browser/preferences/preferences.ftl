@@ -2484,3 +2484,20 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Адхіліць
     .aria-label = Адхіліць
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Узмоцненая ахова ад сачэння
+    .description = Сайты выкарыстоўваюць трэкеры, каб сачыць за вамі ў інтэрнэце і паказваць злавесную рэкламу. { -brand-short-name } ахоўвае вас у часе аглядання, аўтаматычна блакуючы трэкеры, каб ваш лічбавы след быў пад вашым кантролем.
+preferences-etp-level-standard =
+    .label = Стандартная (прадвызначана)
+    .description = Моцная, надзейная ахова, якая працуе гладка з большасцю сайтаў.
+preferences-etp-level-strict =
+    .label = Строгая
+    .description = Больш моцная ахова, якая блакуе больш трэкераў, але можа прывесці да збою на некаторых сайтах.
+preferences-etp-level-custom =
+    .label = Адмысловая
+    .description = Выберыце, якія меры аховы ўключыць або выключыць.
+preferences-etp-status-advanced-button =
+    .label = Дадатковыя налады
