@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Preferoj
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Agordoj…
 menu-application-services =
     .label = Servoj
 menu-application-hide-this =
@@ -86,6 +89,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Dividi
     .accesskey = D
+menu-file-share-qrcode =
+    .label = Krei kodon QR…
+    .accesskey = Q
 menu-file-print-setup =
     .label = Agordi paĝon…
     .accesskey = A

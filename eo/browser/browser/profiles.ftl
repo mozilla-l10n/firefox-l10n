@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Via kopio de { $profilename } pretas esti personecigita
 copied-profile-page-header-description = Ni kopiis viajn datumojn kaj agordojn en la nova profilo. Nomu ĝin nun, elektu aspekton kaj personecigu.
+restored-profile-page-header = Personecigi vian restarigitan profilon
+restored-profile-page-header-description = Ĉiu profilo konservas sian propran retuman historion kaj agordojn apartigitaj de la aliaj profiloj. Cetere, la fortaj protektoj pri privateco de { -brand-short-name } estas norme ŝaltitaj.
+restored-profile-page-learn-more = Pli da informo
 profile-window-title-2 = { -brand-short-name } - Elekti profilon
 profile-window-logo =
     .alt = Emblemo de { -brand-short-name }
@@ -87,6 +90,9 @@ delete-profile-bookmarks = Legosignoj
 delete-profile-history = Historio (vizititaj paĝoj, kuketoj, retejaj datumoj)
 delete-profile-autofill = Aŭtomata plenigo de datumoj (adresoj, pagmetodoj)
 delete-profile-logins = Pasvortoj
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Forigi profilon “{ $profilename }”
 
 ##
 

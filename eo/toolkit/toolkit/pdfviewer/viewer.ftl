@@ -201,6 +201,19 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniaturo de paĝo { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Elekti paĝon { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Elekti paĝon { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Paĝo { $page } el { $total }
 
 ## Find panel button title and messages
 
@@ -645,6 +658,7 @@ pdfjs-toggle-views-manager-button =
     .title = Montri/kaŝi flankan strion
 pdfjs-toggle-views-manager-notification-button =
     .title = Montri/kaŝi flankan strion (la dokumento enhavas miniaturojn/konturon/kunsendaĵojn/tavolojn)
+pdfjs-toggle-views-manager-button1-label = Administri paĝojn
 pdfjs-toggle-views-manager-button-label = Montri/kaŝi flankan strion
 pdfjs-views-manager-sidebar =
     .aria-label = Flanka strio
@@ -703,9 +717,13 @@ pdfjs-views-manager-status-warning-copy-label = Ne eblis kopii. Refreŝigu la pa
 pdfjs-views-manager-status-warning-delete-label = Ne eblis forigi. Refreŝigu la paĝon kaj provu denove.
 pdfjs-views-manager-status-warning-save-label = Ne eblis konservi. Refreŝigu la paĝon kaj provu denove.
 pdfjs-views-manager-status-undo-button-label = Malfari
+pdfjs-views-manager-status-done-button-label = Farita
 pdfjs-views-manager-status-close-button =
     .title = Fermi
 pdfjs-views-manager-status-close-button-label = Fermi
+pdfjs-views-manager-paste-button-label = Alglui
+pdfjs-toggle-views-manager-button1 =
+    .title = Administri paĝojn
 
 ## Main menu for adding/removing signatures
 
