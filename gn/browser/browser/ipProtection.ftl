@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Eñomi pe tendaite eikundaha aja { -br
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ereko { $maxUsage } GB VPN mba’ekuaarã reiete jasygua.
 unauthenticated-get-started = Eñepyrũ
+site-exclusion-toggle-enabled-1 =
+    .label = Eiporu VPN ko tendápe g̃uarã
+    .aria-label = VPN hendy ko tendápe g̃uarã
+site-exclusion-toggle-disabled-1 =
+    .label = Eiporu VPN ko tendápe g̃uarã
+    .aria-label = VPN ogue ko tendápe g̃uarã
 site-exclusion-toggle-label = Eiporu VPN ko tendápe g̃uarã
 site-exclusion-toggle-enabled =
     .aria-label = VPN hendy ko tendápe g̃uarã
@@ -185,6 +191,9 @@ ip-protection-bandwidth-header-1 = Jasy pukukue mba’ekuaarã
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN rehegua, hekopyahu ha eiporukuaáma
 ipprotection-bandwidth-reset-text = Emyandy VPN imbareteve hag̃ua nde rekoñemi, rei opaite jasýpe.
 ipprotection-bandwidth-reset-button = Aikũmby
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

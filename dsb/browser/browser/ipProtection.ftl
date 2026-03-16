@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Schowajśo swójo stojnišćo, mjaztym
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
 unauthenticated-get-started = Prědne kšace
+site-exclusion-toggle-enabled-1 =
+    .label = VPN za toś to sedło wužywaś
+    .aria-label = VPN jo za toś to sedło zmóžnjony
+site-exclusion-toggle-disabled-1 =
+    .label = VPN za toś to sedło wužywaś
+    .aria-label = VPN jo za toś to sedło znjemóžnjony
 site-exclusion-toggle-label = VPN za toś to sedło wužywaś
 site-exclusion-toggle-enabled =
     .aria-label = VPN jo za toś to sedło zmóžnjony

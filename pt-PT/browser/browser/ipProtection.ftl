@@ -35,6 +35,12 @@ ipprotection-site-settings-callout-title = Escolha onde utiliza a VPN
 ## Panel
 
 unauthenticated-get-started = Começar
+site-exclusion-toggle-enabled-1 =
+    .label = Utilizar a VPN para este site
+    .aria-label = A VPN está ativada para este site
+site-exclusion-toggle-disabled-1 =
+    .label = Utilizar a VPN para este site
+    .aria-label = A VPN está desativada para este site
 site-exclusion-toggle-label = Utilizar a VPN para este site
 site-exclusion-toggle-enabled =
     .aria-label = A VPN está ativada para este site
@@ -81,3 +87,27 @@ ipprotection-connection-status-network-error-description = Ligue-se à Internet 
 ipprotection-message-bandwidth-warning =
     .heading = A chegar perto do limite da sua VPN
     .message = Tem { $usageLeft } GB de { $maxUsage } GB remanescentes neste mês.
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
+## IP Protection Settings
+
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
+
+## IP Protection alerts
+

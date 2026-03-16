@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Verbergen Sie Ihren Standort beim Surf
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Holen Sie sich jeden Monat { $maxUsage } GB kostenlose VPN-Daten.
 unauthenticated-get-started = Erste Schritte
+site-exclusion-toggle-enabled-1 =
+    .label = VPN für diese Website verwenden
+    .aria-label = VPN ist für diese Website aktiviert
+site-exclusion-toggle-disabled-1 =
+    .label = VPN für diese Website verwenden
+    .aria-label = VPN ist für diese Website deaktiviert
 site-exclusion-toggle-label = VPN für diese Website verwenden
 site-exclusion-toggle-enabled =
     .aria-label = VPN ist für diese Website aktiviert

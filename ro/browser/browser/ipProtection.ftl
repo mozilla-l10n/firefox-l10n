@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Încearcă VPN-ul încorporat { -brand-product-name 
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obține { $maxUsage } GB de date gratuit pentru VPN  în fiecare lună.
 unauthenticated-get-started = Începe
+site-exclusion-toggle-enabled-1 =
+    .label = Activează VPN-ul pentru acest site
+    .aria-label = VPN-ul este activat pentru acest site
+site-exclusion-toggle-disabled-1 =
+    .label = Activează VPN-ul pentru acest site
+    .aria-label = VPN-ul este dezactivat pentru acest site
 site-exclusion-toggle-label = Activează VPN-ul pentru acest site
 site-exclusion-toggle-enabled =
     .aria-label = VPN-ul este activat pentru acest site
@@ -174,6 +180,9 @@ ip-protection-bandwidth-help-text = Se resetează la { $maxUsage } GB în prima 
 ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, actualizați și gata de utilizare
 ipprotection-bandwidth-reset-text = Activează VPN-ul pentru o îmbunătățire a confidențialității, gratuit în fiecare lună.
 ipprotection-bandwidth-reset-button = Am înţeles
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Verberg uw locatie tijdens het naviger
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ontvang elke maand { $maxUsage } GB gratis VPN-gegevens.
 unauthenticated-get-started = Beginnen
+site-exclusion-toggle-enabled-1 =
+    .label = VPN voor deze website gebruiken
+    .aria-label = VPN is aan voor deze website
+site-exclusion-toggle-disabled-1 =
+    .label = VPN voor deze website gebruiken
+    .aria-label = VPN is uit voor deze website
 site-exclusion-toggle-label = VPN voor deze website gebruiken
 site-exclusion-toggle-enabled =
     .aria-label = VPN is aan voor deze website

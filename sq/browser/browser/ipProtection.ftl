@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Fshiheni vendndodhjen tuaj teksa shfle
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Përfitoni { $maxUsage } GB të dhëna VPN falas çdo muaj.
 unauthenticated-get-started = Fillojani
+site-exclusion-toggle-enabled-1 =
+    .label = Përdore VPN-në për këtë sajt
+    .aria-label = VPN-ja është e hapur për këtë sajt
+site-exclusion-toggle-disabled-1 =
+    .label = Përdore VPN-në për këtë sajt
+    .aria-label = VPN-ja është e mbyllur për këtë sajt
 site-exclusion-toggle-label = Përdore VPN-në për këtë sajt
 site-exclusion-toggle-enabled =
     .aria-label = VPN-ja është e hapur për këtë sajt

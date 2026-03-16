@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Cuddiwch eich lleoliad wrth bori gyda 
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Cael { $maxUsage } GB o ddata VPN am ddim bob mis.
 unauthenticated-get-started = Cychwyn arni
+site-exclusion-toggle-enabled-1 =
+    .label = Defnyddio VPN ar gyfer y wefan hon
+    .aria-label = Mae VPN ymlaen ar y wefan hon
+site-exclusion-toggle-disabled-1 =
+    .label = Defnyddio VPN ar gyfer y wefan hon
+    .aria-label = Mae VPN i ffwrdd ar y wefan hon
 site-exclusion-toggle-label = Defnyddio VPN ar gyfer y wefan hon
 site-exclusion-toggle-enabled =
     .aria-label = Mae VPN ymlaen ar y wefan hon

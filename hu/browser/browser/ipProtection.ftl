@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Tartózkodási hely elrejtése böngé
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Kapjon { $maxUsage } GB ingyenes VPN-adatot havonta.
 unauthenticated-get-started = Kezdő lépések
+site-exclusion-toggle-enabled-1 =
+    .label = VPN használata ezen a webhelyen
+    .aria-label = A VPN be van kapcsolva ezen a webhelyen
+site-exclusion-toggle-disabled-1 =
+    .label = VPN használata ezen a webhelyen
+    .aria-label = A VPN ki van kapcsolva ezen a webhelyen
 site-exclusion-toggle-label = VPN használata ezen a webhelyen
 site-exclusion-toggle-enabled =
     .aria-label = A VPN be van kapcsolva ezen a webhelyen

@@ -39,6 +39,12 @@ unauthenticated-vpn-title = 试用 { -brand-product-name } 的内置 VPN
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月可免费获得 { $maxUsage } GB VPN 流量
 unauthenticated-get-started = 开始使用
+site-exclusion-toggle-enabled-1 =
+    .label = 为此网站使用 VPN
+    .aria-label = 已为此网站开启 VPN
+site-exclusion-toggle-disabled-1 =
+    .label = 为此网站使用 VPN
+    .aria-label = 已为此网站关闭 VPN
 site-exclusion-toggle-label = 为此网站使用 VPN
 site-exclusion-toggle-enabled =
     .aria-label = 已为此网站开启 VPN
@@ -164,6 +170,9 @@ ip-protection-bandwidth-help-text = 每月初重置为 { $maxUsage } GB。
 
 ipprotection-bandwidth-reset-text = 启用 VPN 可额外增强隐私保护，每月免费提供。
 ipprotection-bandwidth-reset-button = 明白了
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

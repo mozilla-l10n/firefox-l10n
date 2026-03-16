@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Ẩn vị trí của bạn khi duyệt
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
 unauthenticated-get-started = Bắt đầu
+site-exclusion-toggle-enabled-1 =
+    .label = Sử dụng VPN cho trang web này
+    .aria-label = Đã bật VPN cho trang web này
+site-exclusion-toggle-disabled-1 =
+    .label = Sử dụng VPN cho trang web này
+    .aria-label = Đã tắt VPN cho trang web này
 site-exclusion-toggle-label = Sử dụng VPN cho trang web này
 site-exclusion-toggle-enabled =
     .aria-label = Đã bật VPN cho trang web này

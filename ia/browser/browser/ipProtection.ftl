@@ -46,6 +46,12 @@ unauthenticated-bandwidth-limit-message =
     Obtene { $maxUsage } GB de datos de VPN
      gratuite cata mense.
 unauthenticated-get-started = Comenciar
+site-exclusion-toggle-enabled-1 =
+    .label = Usar VPN pro iste sito
+    .aria-label = VPN es active pro iste sito
+site-exclusion-toggle-disabled-1 =
+    .label = Usar VPN pro iste sito
+    .aria-label = VPN es disactivate pro iste sito
 site-exclusion-toggle-label = Usar VPN pro iste sito
 site-exclusion-toggle-enabled =
     .aria-label = VPN es active pro iste sito
