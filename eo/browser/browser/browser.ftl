@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Remeti antaŭan grandon
 browser-window-close-button =
     .tooltiptext = Fermi
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Reiri
 
 ## Tab actions
 
@@ -1163,6 +1166,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Pasvortoj
     .tooltiptext = Vidi kaj administri viajn konservitajn pasvortojn
+qrcode-panel-error =
+    .message = Ne eblis krei kodon QR. Bonvolu klopodi denove.
+qrcode-copy-button =
+    .label = Kopii
+qrcode-copy-success =
+    .message = Kodo QR kopiita al tondujo.
+qrcode-copy-error =
+    .message = Ne eblis kopii la kodon QR.
+qrcode-save-button =
+    .label = Konservi
+qrcode-save-success =
+    .message = Kodo QR konservita.
+qrcode-save-error =
+    .message = Ne eblis konservi la kodon QR.
+qrcode-save-title = Konservi kodon QR
+qrcode-save-filter-png = Bildo PNG
+qrcode-save-filename = kodoqr.png
+qrcode-window-title = Kodo QR
+qrcode-dialog-title = Kodo QR
+qrcode-image =
+    .aria-label = Kodo QR
+qrcode-close-button =
+    .aria-label = Fermi
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1181,6 +1207,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nova privata fenestro
     .tooltiptext = Malfermi novan privatan retuman fenestron ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Dividi
+    .tooltiptext = Dividi tiun ĉi paĝon
 
 ## EME notification panel
 

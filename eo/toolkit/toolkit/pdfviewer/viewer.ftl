@@ -722,6 +722,12 @@ pdfjs-views-manager-status-close-button =
     .title = Fermi
 pdfjs-views-manager-status-close-button-label = Fermi
 pdfjs-views-manager-paste-button-label = Alglui
+pdfjs-views-manager-paste-button-before =
+    .title = Alglui antaŭ la unua paĝo
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Alglui post la paĝo { $page }
 pdfjs-toggle-views-manager-button1 =
     .title = Administri paĝojn
 
