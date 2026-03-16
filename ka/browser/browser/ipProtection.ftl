@@ -39,6 +39,58 @@ ipprotection-site-settings-callout-button = გასაგებია
 ## Panel
 
 unauthenticated-vpn-title = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }
+unauthenticated-hide-location-message-2 = მდებარეობის გაუმჟღავნებლად გამოიყენეთ { -brand-product-name } გვერდების მონახულებისთვის.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = გამოიყენეთ { $maxUsage } ᲒᲑ მოცულობით უფასო VPN ყოველთვიურად.
+unauthenticated-get-started = დაიწყეთ
+site-exclusion-toggle-label = გამოიყენოს VPN ამ საიტზე
+site-exclusion-toggle-enabled =
+    .aria-label = VPN ჩართულია ამ საიტზე
+site-exclusion-toggle-disabled =
+    .aria-label = VPN გამორთულია ამ საიტზე
+ipprotection-settings-link =
+    .label = პარამეტრები
+
+## Status card
+
+ipprotection-connection-status-connected = VPN ჩართ.
+ipprotection-connection-status-disconnected = VPN გამორთ.
+ipprotection-connection-status-excluded = VPN გამორთულია ამ საიტზე
+ipprotection-connection-status-connecting = VPN უკავშირდება…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = გამოირთოს VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = გამოირთოს VPN ყველგან
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = ჩაირთოს VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = ირთვება…
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN შეჩერებულია
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მოცულობიდან. წვდომა აღდგება შემდეგი თვიდან.
+upgrade-vpn-title = მიიღეთ დამატებითი დაცვა ბრაუზერს მიღმაც
+upgrade-vpn-description = თავადვე შეარჩიეთ სასურველი VPN-მდებარეობა, გამოიყენეთ VPN ყველა პროგრამისთვის ხუთ მოწყობილობამდე და იყავით დაცული ნებისმიერ ქსელში — სახლსა თუ საჯარო WiFi-ზე.
+upgrade-vpn-button = გამოცადეთ { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-title = ვერ მიუერთდა VPN
+ipprotection-connection-status-generic-error-description = კვლავ სცადეთ რამდენიმე წუთში.
+ipprotection-connection-status-network-error-title = შეამოწმეთ ქსელთან კავშირი
+ipprotection-connection-status-network-error-description = დაუკავშირდით ინტერნეტს და შემდეგ ჩართეთ VPN.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = იწურება თქვენი VPN-მოცულობა
+    .message = დარჩენილია { $usageLeft } ᲒᲑ ამ თვის { $maxUsage } ᲒᲑ მოცულობიდან.
+ipprotection-message-continuous-onboarding-intro = ჩართეთ VPN, რომ დაფაროთ თქვენი ადგილსამყოფელი და დამატებითი დაშიფვრით მოინახულოთ გვერდები.
 
 ## IP Protection Settings
 
