@@ -1701,7 +1701,7 @@ trustpanel-etp-toggle-on =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = Rozšířená ochrana proti sledování: vypnuta na { $host }
-trustpanel-etp-description-enabled = Pokud na tomto webu něco vypadá nefunkčně, zkuste vypnout ochrany.
+trustpanel-etp-description-enabled = Pokud se vám zdá, že něco na tomto webu nefunguje správně, zkuste vypnout ochranu.
 trustpanel-etp-description-disabled =
     { -brand-product-name.case-status ->
         [with-cases] { -brand-product-name } si myslí, že by vás společnosti měly sledovat méně. Když si zapnete ochranu, blokujeme tolik sledovacích prvků, kolik jen můžeme.

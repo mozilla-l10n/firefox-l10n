@@ -540,6 +540,9 @@ check-user-spelling =
     .accesskey = l
 spellcheck-download-dictionaries =
     .label = Lataa oikolukusanastot
+spellcheck-promo =
+    .heading = Oikeinkirjoituksen tarkistuksen käyttö
+    .message = Napsauta hiiren oikealla painikkeella tekstikenttää tarkistaaksesi oikeinkirjoituksen tai poistaaksesi sen käytöstä, tai vaihtaaksesi kieltä. Kaikki kentät eivät tue oikeinkirjoituksen tarkistusta.
 
 ## General Section - Files and Applications
 
@@ -583,6 +586,7 @@ applications-type-heading = Sisältötyyppi
 applications-action-column =
     .label = Toiminto
     .accesskey = o
+applications-action-heading = Toiminto
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension }-tiedosto
@@ -799,6 +803,10 @@ network-proxy-connection-settings =
 network-proxy-group2 =
     .label = Välityspalvelimen asetukset
     .description = Määritä miten { -brand-short-name } yhdistää Internetiin.
+network-proxy-connection-settings2 =
+    .label = Määritä välityspalvelin
+    .description = Näiden asetusten muuttaminen saattaa aiheuttaa ongelmia yhteydessä
+    .accesskey = p
 
 ## Home Section
 
@@ -1629,6 +1637,9 @@ history-remember-label = { -brand-short-name } säilyttää
     .accesskey = F
 history-remember-option-all =
     .label = Täydelliset historiatiedot
+history-remember-option-never2 =
+    .label = Älä koskaan muista sivuhistoriaa
+    .description = Jokainen ikkuna käyttäytyy kuin yksityinen ikkuna. Kun käytössä, laajennukset tulee olla sallittu.
 history-remember-option-custom2 =
     .label = Mukauta sivuhistoriaa
 history-remember-option-never =
@@ -1769,6 +1780,10 @@ sitedata-heading =
 sitedata-settings3 =
     .label = Tyhjennä tiettyjen sivustojen tiedot
     .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Hallitse poikkeuksia
+    .accesskey = p
+    .description = Valitse miten tietyt sivustot käsittelevät evästeitä ja sivustotietoa.
 cookies-site-data-group =
     .label = Evästeet ja sivustotiedot
 
@@ -2457,12 +2472,17 @@ preferences-etp-status-protections-dashboard-link =
     .description = Näe, kuinka monta seurainta { -brand-short-name } on estänyt puolestasi, mukaan lukien sosiaalisen median seuraimet, yksilöijät ja kryptolouhijat.
 preferences-etp-header =
     .heading = Tehostettu seurannan suojaus
+preferences-etp-advanced-settings-group =
+    .label = Lisäasetukset
+    .description = Sivustot käyttävät seuraimia käyttäjien seurantaan ja mainosten esittämiseen. { -brand-short-name } suojaa sinut, kun selaat, estäen seuraimet automaattisesti, asettaen digitaalisen jalanjälkesi hallintaasi.
 preferences-etp-customize-button =
     .label = Mukauta seurannan suojausta
 preferences-etp-reload-tabs-hint =
     .message = Lataa välilehdet uudelleen, jotta nämä muutokset otetaan käyttöön.
 preferences-etp-reload-tabs-hint-button =
     .label = Lataa kaikki välilehdet uudelleen
+preferences-etp-rfp-warning-message =
+    .message = Käytät Resist Fingerprinting (RFP) -toimintoa, joka korvaa osan { -brand-short-name }in yksilöinnin suojausasetuksista. Tämä saattaa aiheuttaa joidenkin sivustojen rikkoutumisen.
 preferences-etp-manage-exceptions-button =
     .label = Hallitse poikkeuksia
     .description = Hallitse verkkosivustoja, joiden kohdalla ei käytetä tehostettua seurannan suojausta.
