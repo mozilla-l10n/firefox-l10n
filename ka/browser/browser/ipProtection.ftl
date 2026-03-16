@@ -90,7 +90,21 @@ ipprotection-connection-status-network-error-description = დაუკავშ
 ipprotection-message-bandwidth-warning =
     .heading = იწურება თქვენი VPN-მოცულობა
     .message = დარჩენილია { $usageLeft } ᲒᲑ ამ თვის { $maxUsage } ᲒᲑ მოცულობიდან.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = იწურება თქვენი VPN-მოცულობა
+    .message = დარჩენილია { $usageLeft } ᲛᲑ ამ თვის { $maxUsage } ᲒᲑ მოცულობიდან.
 ipprotection-message-continuous-onboarding-intro = ჩართეთ VPN, რომ დაფაროთ თქვენი ადგილსამყოფელი და დამატებითი დაშიფვრით მოინახულოთ გვერდები.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">VPN ჩაირთოს</a> ყოველ ჯერზე, როცა კი გაეშვება { -brand-short-name } დაცვის დამატებითი შრით უზრუნველსაყოფად.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } დაიხსომებს, რომელი საიტებისთვის უნდა გამოიყენოს VPN. შეცვლა ნებისმიერ დროს შეგეძლებათ <a data-l10n-name="setting-link">პარამეტრებიდან</a>.
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN გამორთულია ამ საიტზე
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = მოგეწონათ ჩაშენებული VPN? კიდევ უფრო მეტი დაცვისთვის, რომლითაც არამხოლოდ { -brand-product-name } შეძლებს სარგებლობას, გამოცადეთ { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = თავადვე შეარჩიეთ სასურველი VPN-მდებარეობა და ყველა პროგრამა აღჭურვეთ დამატებითი დაცვით ხუთ მოწყობილობამდე, როგორც სახლის, ასევე საჯარო WiFi-ქსელით სარგებლობისას.
 
 ## IP Protection Settings
 
