@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Isprobaj ugrađeni VPN { -brand-product-name(case: "
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dobij { $maxUsage } GB besplatnih VPN podataka svaki mjesec.
 unauthenticated-get-started = Započni
+site-exclusion-toggle-enabled-1 =
+    .label = Koristi VPN za ovu web-stranicu
+    .aria-label = VPN je uključen za ovu web-stranicu
+site-exclusion-toggle-disabled-1 =
+    .label = Koristi VPN za ovu web-stranicu
+    .aria-label = VPN je isključen za ovu web-stranicu
 site-exclusion-toggle-label = Koristi VPN za ovu web-stranicu
 site-exclusion-toggle-enabled =
     .aria-label = VPN je uključen za ovu web-stranicu
@@ -53,6 +59,18 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = VPN je uključen
 ipprotection-connection-status-disconnected = VPN je isključen
+
+## VPN paused state
+
+
+## Messages and errors
+
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -119,6 +137,9 @@ ip-protection-bandwidth-help-text = Resetira se na { $maxUsage } GB svakog prvog
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-a, osvježeno i spremno za korištenje
 ipprotection-bandwidth-reset-text = Uključi VPN za dodatno poboljšanje privatnosti, besplatno svaki mjesec.
 ipprotection-bandwidth-reset-button = Razumijem
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
