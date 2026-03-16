@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = მდებარეობის გ�
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = გამოიყენეთ { $maxUsage } ᲒᲑ მოცულობით უფასო VPN ყოველთვიურად.
 unauthenticated-get-started = დაიწყეთ
+site-exclusion-toggle-enabled-1 =
+    .label = გამოიყენოს VPN ამ საიტზე
+    .aria-label = VPN ჩართულია ამ საიტზე
+site-exclusion-toggle-disabled-1 =
+    .label = გამოიყენოს VPN ამ საიტზე
+    .aria-label = VPN გამორთულია ამ საიტზე
 site-exclusion-toggle-label = გამოიყენოს VPN ამ საიტზე
 site-exclusion-toggle-enabled =
     .aria-label = VPN ჩართულია ამ საიტზე
