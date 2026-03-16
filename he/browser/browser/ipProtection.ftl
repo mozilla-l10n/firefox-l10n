@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = ניתן להסתיר את המיקו�
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = קבלת { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
 unauthenticated-get-started = תחילת עבודה
+site-exclusion-toggle-enabled-1 =
+    .label = שימוש ב־VPN עבור אתר זה
+    .aria-label = ה־VPN פעיל עבור אתר זה
+site-exclusion-toggle-disabled-1 =
+    .label = שימוש ב־VPN עבור אתר זה
+    .aria-label = ה־VPN כבוי עבור אתר זה
 site-exclusion-toggle-label = שימוש ב־VPN עבור אתר זה
 site-exclusion-toggle-enabled =
     .aria-label = ה־VPN פעיל עבור אתר זה
