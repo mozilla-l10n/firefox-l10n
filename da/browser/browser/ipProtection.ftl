@@ -41,6 +41,12 @@ unauthenticated-vpn-title = Prøv den indbyggede VPN i { -brand-product-name }
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB gratis VPN-data hver måned.
 unauthenticated-get-started = Kom i gang
+site-exclusion-toggle-enabled-1 =
+    .label = Brug VPN for dette websted
+    .aria-label = VPN er slået til for dette websted
+site-exclusion-toggle-disabled-1 =
+    .label = Brug VPN for dette websted
+    .aria-label = VPN er slået fra for dette websted
 site-exclusion-toggle-label = Brug VPN for dette websted
 site-exclusion-toggle-enabled =
     .aria-label = VPN er slået til for dette websted
@@ -114,3 +120,18 @@ ip-protection-description =
 ip-protection-learn-more = Læs mere
 ip-protection-site-exceptions =
     .label = Websteds-specifikke indstillinger
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
+
+## IP Protection alerts
+
