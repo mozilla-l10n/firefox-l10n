@@ -2121,6 +2121,8 @@ collection-description = Pyrimme antamaan sinulle vapauden valita ja keräämä�
 collection-privacy-notice = Tietosuojakäytäntö
 collection-health-report-telemetry-disabled = Et enää salli { -vendor-short-name }n vastaanottaa teknisiä ja käyttötilastoja. Kaikki aikaisemmat tiedot poistetaan 30 päivän kuluessa.
 collection-health-report-telemetry-disabled-link = Lue lisää
+backup-multi-profile-warning-message =
+    .message = Varmistaaksesi, että tämä muutos sisältyy varmuuskopioihisi, avaa jokainen profiili ja valitse asetuksissa ”Varmuuskopioi nyt”.
 collection-usage-ping =
     .label = Lähetä päivittäinen käyttöilmoitus { -vendor-short-name }lle
     .accesskey = u
@@ -2186,6 +2188,8 @@ security-enable-safe-browsing =
     .label = Estä vaarallinen ja petollinen sisältö
     .accesskey = s
 security-enable-safe-browsing-link = Lue lisää
+security-safe-browsing-warning =
+    .message = Tämän poistaminen käytöstä heikentää suojaa huijauksia, haitallisia sivustoja ja vaarallisia latauksia vastaan.
 security-block-downloads =
     .label = Estä vaaralliset lataukset
     .accesskey = a
@@ -2326,6 +2330,13 @@ preferences-doh-radio-off =
     .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää
 preferences-doh-fallback-label =
     .label = Varoita aina, jos suojattua DNS:ää ei ole saatavilla
+preferences-doh-status-item-off =
+    .message = DNS HTTPS:n kautta on pois päältä
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = HTTPS-yhteyskäytännön kautta toimiva DNS ei toimi, koska palveluntarjoajaa { $name } käytettäessä tapahtui virhe ({ $reason }).
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
