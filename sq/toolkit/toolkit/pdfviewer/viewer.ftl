@@ -647,6 +647,8 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Shfaq/Fshih Anështyllën
+pdfjs-toggle-views-manager-notification-button =
+    .title = Shfaqni/Fshihni Anështyllër (dokumenti përmban miniatura/përvijim/bashkëngjitje/shtresa)
 pdfjs-toggle-views-manager-button1-label = Administroni faqe
 pdfjs-toggle-views-manager-button-label = Shfaq/Fshih Anështyllën
 pdfjs-views-manager-sidebar =
@@ -680,6 +682,13 @@ pdfjs-views-manager-pages-status-copy-button-label = Kopjoje
 pdfjs-views-manager-pages-status-cut-button-label = Prije
 pdfjs-views-manager-pages-status-delete-button-label = Fshije
 pdfjs-views-manager-pages-status-save-as-button-label = Ruajeni si…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] Prerje e 1 faqeje
+       *[other] Prerje e { $count } faqesh
+    }
 # Variables:
 #   $count (Number) - the number of selected pages to be copied.
 pdfjs-views-manager-pages-status-undo-copy-label =

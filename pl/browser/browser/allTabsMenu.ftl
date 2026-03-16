@@ -6,11 +6,11 @@
 all-tabs-menu-search-tabs =
     .label = Przeszukaj karty
 all-tabs-menu-new-user-context =
-    .label = Nowa karta z kontekstem
+    .label = Nowa karta w kontenerze
 all-tabs-menu-hidden-tabs =
     .label = Ukryte karty
 all-tabs-menu-manage-user-context =
-    .label = Zarządzaj kontekstami
+    .label = Zarządzaj kontenerami
     .accesskey = Z
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Zamknij wszystkie podwójne karty

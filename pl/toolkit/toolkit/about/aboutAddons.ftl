@@ -586,7 +586,7 @@ addon-data-collection-learnmore = Więcej informacji o zbieraniu danych
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-about-inference = { -brand-short-name } używa tego na about:inference
-mlmodel-link-preview = { -brand-short-name } używa tego do generowania punktów kluczowych podczas podglądu odnośników
+mlmodel-link-preview = { -brand-short-name } używa tego do generowania podsumowania podczas podglądu odnośników
 mlmodel-pdfjs = { -brand-short-name } używa tego do tworzenia tekstu alternatywnego dla obrazów dodawanych do plików PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } używa tego do podpowiadania nazw grup kart
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } używa tego do proponowania organizacji kart w grupach kart

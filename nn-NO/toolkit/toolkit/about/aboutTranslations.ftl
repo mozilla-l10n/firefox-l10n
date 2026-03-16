@@ -15,6 +15,10 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Omsetting er ikkje tilgjengeleg på denne eininga.
     .message = Prøv å byte til ei anna eining.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Omsettingar er ikkje tilgjengelege for organisasjonen din
+    .message = Dette er ein politikk fastsett av administratoren din.
 about-translations-feature-blocked-unblock-button = Opphev blokkeringa
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =

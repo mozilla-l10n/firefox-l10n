@@ -22,8 +22,8 @@ user-context-shopping =
 ##
 
 user-context-none =
-    .label = Bez kontekstu
+    .label = Bez kontenera
     .accesskey = k
 user-context-manage-containers =
-    .label = Zarządzaj kontekstami
+    .label = Zarządzaj kontenerami
     .accesskey = Z

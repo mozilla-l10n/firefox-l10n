@@ -2496,6 +2496,9 @@ preferences-etp-level-standard =
 preferences-etp-level-strict =
     .label = Streng
     .description = Sterkare vern som blokkerer fleire sporarar, men kan føre til at nokre nettstadar ikkje fungerer som dei skal.
+preferences-etp-level-custom =
+    .label = Tilpassa
+    .description = Vel kva vern som skal slåast av eller på.
 preferences-etp-status-advanced-button =
     .label = Avanserte innstillingar
 preferences-etp-header =
@@ -2514,6 +2517,9 @@ preferences-etp-reset-standard-button =
     .label = Still tilbake til standard
 preferences-etp-reset-strict-button =
     .label = Still tilbake til streng
+preferences-etp-custom-control-group =
+    .label = Tracking protection
+    .description = Vel kva vern som skal slåast på eller av.
 preferences-etp-custom-cookies-enabled =
     .label = Infokapslar
 preferences-etp-custom-cookie-behavior =
@@ -2532,3 +2538,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Mistenkte nettlesaravtrykk
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Mistenkte nettlesaravtrykk
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Kjende nettlesaravtrykksporarar blir ikkje blokkerte
+    .description = Dette kan gjere det mogleg for nokre sporarar å følgje deg utan infokapslar.

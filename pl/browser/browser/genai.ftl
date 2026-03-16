@@ -237,7 +237,7 @@ link-preview-error-message-v2 = { -brand-short-name } nie może wyświetlić pod
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Otwórz odnośnik
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
-link-preview-generation-error-missing-data-v2 = { -brand-short-name } nie może wygenerować punktów kluczowych tej strony.
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } nie może wygenerować podsumowania tej strony.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Coś się nie powiodło.
 # Text for the retry link when generation fails
@@ -249,26 +249,26 @@ link-preview-settings-enable =
     .label = Podgląd odnośników
     .description = Wyświetla tytuł strony, opis i nie tylko po użyciu skrótu lub kliknięciu odnośnika prawym przyciskiem.
 link-preview-settings-key-points =
-    .label = Sztuczna inteligencja może odczytywać początek strony i generować kluczowe punkty
+    .label = Sztuczna inteligencja może odczytywać początek strony i generować podsumowanie
 link-preview-settings-long-press =
     .label = Skrót: kliknij i przytrzymaj odnośnik przez 1 sekundę (długie naciśnięcie)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcesz widzieć więcej dzięki sztucznej inteligencji?
 # Message that appears when user is shown the opt-in flow for link previews
-link-preview-optin-message = { -brand-short-name } korzysta ze sztucznej inteligencji do odczytania początku strony i wygenerowania kilku punktów kluczowych. Aby zapewnić Ci prywatność, jest to wykonywane na Twoim urządzeniu.
+link-preview-optin-message = { -brand-short-name } korzysta ze sztucznej inteligencji do odczytania początku strony i wygenerowania krótkiego podsumowania. Aby zapewnić Ci prywatność, jest to wykonywane na Twoim urządzeniu.
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Nowość: kliknij i przytrzymaj dowolny odnośnik, aby wyświetlić jego podgląd
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Zobacz krótki opis, czas potrzebny na przeczytanie i nie tylko, aby zdecydować, czy odnośnik jest warty otwarcia. Dostępne także po kliknięciu prawym przyciskiem.
 # Header for the key points section
-link-preview-key-points-header = Kluczowe punkty
+link-preview-key-points-header = Podsumowanie
 # Disclaimer for AI-generated key points
-link-preview-key-points-disclaimer = Kluczowe punkty są generowane przez sztuczną inteligencję i mogą zawierać błędy.
+link-preview-key-points-disclaimer = Podsumowanie jest generowane przez sztuczną inteligencję i może zawierać błędy.
 # Progress message for the first-time setup
 # $progress (number) - The percentage value 1-100 indicating the progress of the setup.
 link-preview-setup = Początkowa konfiguracja • <strong>{ $progress }%</strong>
 # Message indicating faster performance after initial setup
-link-preview-setup-faster-next-time = Następnym razem punkty kluczowe zobaczysz szybciej.
+link-preview-setup-faster-next-time = Następnym razem podsumowanie zobaczysz szybciej.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Wyświetl podgląd
 # Onboarding card Close button
@@ -276,4 +276,4 @@ link-preview-onboarding-close = Zamknij
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Początkowa konfiguracja
 # Message for the first-time setup modal
-link-preview-first-time-setup-message = To może chwilę potrwać. Następnym razem punkty kluczowe zobaczysz szybciej.
+link-preview-first-time-setup-message = To może chwilę potrwać. Następnym razem podsumowanie zobaczysz szybciej.

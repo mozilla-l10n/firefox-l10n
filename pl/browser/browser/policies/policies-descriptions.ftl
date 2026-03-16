@@ -32,7 +32,7 @@ policy-CertificatesDescription = Dodawanie certyfikatów lub używanie wbudowany
 policy-ContentAnalysis = Włączenie lub wyłączenie połączenia z agentem zapobiegającym utracie danych.
 policy-Cookies = Zezwalanie lub zabranianie witrynom ustawiania ciasteczek.
 # Containers in this context is referring to container tabs in Firefox.
-policy-Containers = Ustawianie zasad związanych z kontekstami.
+policy-Containers = Ustawianie zasad związanych z kontenerami.
 policy-DisableAccounts = Wyłączenie usług korzystających z konta, w tym synchronizacji.
 policy-DisabledCiphers = Wyłączenie szyfrów.
 policy-DefaultDownloadDirectory = Ustawienie domyślnego katalogu pobierania.

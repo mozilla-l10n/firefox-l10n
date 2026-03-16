@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Dodawanie kontekstu
+    .title = Dodawanie kontenera
     .style = min-width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Ustawienia kontekstu „{ $name }”
+    .title = Ustawienia kontenera „{ $name }”
     .style = min-width: 45em
 containers-window-close =
     .key = w
@@ -26,7 +26,7 @@ containers-name-label = Nazwa:
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Nazwa kontekstu
+    .placeholder = Nazwa kontenera
 containers-icon-label = Ikona:
     .accesskey = I
     .style = { -containers-labels-style }

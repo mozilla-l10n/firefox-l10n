@@ -65,10 +65,10 @@ category-ai-controls =
     .tooltiptext = Sterowanie sztuczną inteligencją
 pane-experimental-title = Eksperymenty { -brand-short-name(case: "gen") }
 category-experimental =
-    .tooltiptext = Eksperymenty przeglądarki { -brand-short-name }
+    .tooltiptext = Eksperymenty { -brand-short-name(case: "gen") }
 pane-experimental-subtitle = Zachowaj ostrożność
-pane-experimental-search-results-header = Eksperymenty przeglądarki { -brand-short-name }: zachowaj ostrożność
-pane-experimental-description2 = Modyfikacja zaawansowanych ustawień może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
+pane-experimental-search-results-header = Eksperymenty { -brand-short-name(case: "gen") }: zachowaj ostrożność
+pane-experimental-description2 = Modyfikacja zaawansowanych ustawień może wpłynąć na wydajność lub bezpieczeństwo { -brand-short-name(case: "gen") }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
@@ -77,7 +77,7 @@ pane-experimental-description3 = Wypróbuj nasze funkcje eksperymentalne! Są w�
 pane-experimental-reset =
     .label = Przywróć domyślne
     .accesskey = P
-help-button-label = Wsparcie { -brand-short-name(case: "gen") }
+help-button-label = Pomoc { -brand-short-name(case: "gen") }
 addons-button-label = Rozszerzenia i motywy
 focus-search =
     .key = f
@@ -90,8 +90,8 @@ applications-setting-new-file-types =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = Konieczne jest ponowne uruchomienie przeglądarki { -brand-short-name }, aby włączyć tę funkcję.
-feature-disable-requires-restart = Konieczne jest ponowne uruchomienie przeglądarki { -brand-short-name }, aby wyłączyć tę funkcję.
+feature-enable-requires-restart = Konieczne jest ponowne uruchomienie { -brand-short-name(case: "gen") }, aby włączyć tę funkcję.
+feature-disable-requires-restart = Konieczne jest ponowne uruchomienie { -brand-short-name(case: "gen") }, aby wyłączyć tę funkcję.
 should-restart-title = Ponowne uruchomienie { -brand-short-name(case: "gen") }
 should-restart-ok = Uruchom { -brand-short-name(case: "acc") } ponownie
 cancel-no-restart-button = Anuluj
@@ -115,7 +115,7 @@ extension-controlling-password-saving = Rozszerzenie <img data-l10n-name="icon"/
 extension-controlling-web-notifications = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroluje to ustawienie.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> wymaga włączonych „Kart z kontekstem”.
+extension-controlling-privacy-containers = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> wymaga włączonych „Kart w kontenerach”.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = Rozszerzenie <img data-l10n-name="icon"/> <strong>{ $name }</strong> kontroluje to ustawienie.
@@ -138,7 +138,7 @@ extension-controlling-homepage = Rozszerzenie „{ $name }” kontroluje częś�
 search-results-header = Wyniki wyszukiwania
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Niestety! W ustawieniach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
-search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">pomoc przeglądarki { -brand-short-name }</a>.
+search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">pomoc { -brand-short-name(case: "gen") }</a>.
 
 ## General Section
 
@@ -212,7 +212,7 @@ tabs-opening-heading =
 tabs-interaction-heading =
     .label = Interakcje
 tabs-containers-heading =
-    .label = Konteksty
+    .label = Kontenery
 tabs-closing-heading =
     .label = Zamykanie
 tabs-group-header = Karty
@@ -247,7 +247,7 @@ confirm-on-quit-with-key =
     .label = Pytanie o potwierdzenie przed zamknięciem programu za pomocą { $quitKey }
     .accesskey = P
 warn-on-open-many-tabs =
-    .label = Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić przeglądarkę { -brand-short-name }
+    .label = Ostrzeganie o otwarciu zbyt wielu kart mogących spowolnić { -brand-short-name(case: "acc") }
     .accesskey = m
 switch-to-new-tabs =
     .label = Automatyczne przechodzenie do stron, obrazów i multimediów otwieranych w nowej karcie
@@ -256,13 +256,13 @@ show-tabs-in-taskbar =
     .label = Podgląd kart na pasku zadań Windows
     .accesskey = W
 browser-containers-enabled =
-    .label = Karty z kontekstem.
+    .label = Karty w kontenerach.
     .accesskey = K
 browser-containers-learn-more = Więcej informacji
 browser-containers-settings =
     .label = Dostosuj…
     .accesskey = D
-containers-disable-alert-title = Czy zamknąć wszystkie karty z kontekstem?
+containers-disable-alert-title = Czy zamknąć wszystkie karty w kontenerach?
 startup-group =
     .label = Uruchamianie
 
@@ -271,28 +271,28 @@ startup-group =
 
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Jeśli wyłączysz funkcję kart z kontekstem, jedna taka karta zostanie zamknięta. Czy na pewno wyłączyć karty z kontekstem?
-        [few] Jeśli wyłączysz funkcję kart z kontekstem, { $tabCount } takie karty zostaną zamknięte. Czy na pewno wyłączyć karty z kontekstem?
-       *[many] Jeśli wyłączysz funkcję kart z kontekstem, { $tabCount } takich kart zostanie zamkniętych. Czy na pewno wyłączyć karty z kontekstem?
+        [one] Jeśli wyłączysz funkcję kart w kontenerach, jedna taka karta zostanie zamknięta. Czy na pewno wyłączyć karty w kontenerach?
+        [few] Jeśli wyłączysz funkcję kart w kontenerach, { $tabCount } takie karty zostaną zamknięte. Czy na pewno wyłączyć karty w kontenerach?
+       *[many] Jeśli wyłączysz funkcję kart w kontenerach, { $tabCount } takich kart zostanie zamkniętych. Czy na pewno wyłączyć karty w kontenerach?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Zamknij kartę z kontekstem
-        [few] Zamknij { $tabCount } karty z kontekstem
-       *[many] Zamknij { $tabCount } kart z kontekstem
+        [one] Zamknij kartę w kontenerze
+        [few] Zamknij { $tabCount } karty w kontenerach
+       *[many] Zamknij { $tabCount } kart w kontenerach
     }
 
 ##
 
 containers-disable-alert-cancel-button = Anuluj
-containers-remove-alert-title = Usuwanie kontekstu
+containers-remove-alert-title = Usuwanie kontenera
 # Variables:
 #   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Jeśli usuniesz teraz ten kontekst, { $count } karta zostanie zamknięta. Czy na pewno usunąć ten kontekst?
-        [few] Jeśli usuniesz teraz ten kontekst, { $count } karty zostaną zamknięte. Czy na pewno usunąć ten kontekst?
-       *[many] Jeśli usuniesz teraz ten kontekst, { $count } kart zostanie zamkniętych. Czy na pewno usunąć ten kontekst?
+        [one] Jeśli usuniesz teraz ten kontener, { $count } karta zostanie zamknięta. Czy na pewno usunąć ten kontener?
+        [few] Jeśli usuniesz teraz ten kontener, { $count } karty zostaną zamknięte. Czy na pewno usunąć ten kontener?
+       *[many] Jeśli usuniesz teraz ten kontener, { $count } kart zostanie zamkniętych. Czy na pewno usunąć ten kontener?
     }
 containers-remove-ok-button = Usuń
 containers-remove-cancel-button = Nie usuwaj
@@ -335,7 +335,7 @@ preferences-web-appearance-header = Wygląd witryn internetowych
 preferences-web-appearance-description = Część witryn dostosowuje swój schemat kolorów na podstawie preferencji użytkownika. Wybierz schemat kolorów używany na tych witrynach.
 preferences-web-appearance-choice-auto2 =
     .label = Automatyczny
-    .title = Automatycznie zmieniaj tła i treści witryn na podstawie ustawień systemu i motywu przeglądarki { -brand-short-name }.
+    .title = Automatycznie zmieniaj tła i treści witryn na podstawie ustawień systemu i motywu { -brand-short-name(case: "gen") }.
 preferences-web-appearance-choice-light2 =
     .label = Jasny
     .title = Używaj jasnego wyglądu teł i treści witryn.
@@ -348,7 +348,7 @@ preferences-web-appearance-choice-auto = Automatyczny
 preferences-web-appearance-choice-light = Jasny
 preferences-web-appearance-choice-dark = Ciemny
 preferences-web-appearance-choice-tooltip-auto =
-    .title = Automatycznie zmieniaj tła i treści witryn na podstawie ustawień systemu i motywu przeglądarki { -brand-short-name }.
+    .title = Automatycznie zmieniaj tła i treści witryn na podstawie ustawień systemu i motywu { -brand-short-name(case: "gen") }.
 preferences-web-appearance-choice-tooltip-light =
     .title = Używaj jasnego wyglądu teł i treści witryn.
 preferences-web-appearance-choice-tooltip-dark =
@@ -388,7 +388,7 @@ preferences-contrast-control-custom =
     .label = Inne
     .accesskey = I
 preferences-colors-header = Kolory
-preferences-colors-description = Zastąp domyślne kolory przeglądarki { -brand-short-name } dla tekstu, teł witryn i odnośników.
+preferences-colors-description = Zastąp domyślne kolory { -brand-short-name(case: "gen") } dla tekstu, teł witryn i odnośników.
 preferences-colors-manage-button =
     .label = Zarządzaj kolorami…
     .accesskey = k
@@ -454,11 +454,11 @@ website-remove-language-button =
 choose-button =
     .label = Wybierz…
     .accesskey = e
-choose-browser-language-description = Wybierz język używany do wyświetlania interfejsu użytkownika przeglądarki { -brand-short-name } (menu, komunikaty, powiadomienia itp.).
+choose-browser-language-description = Wybierz język używany do wyświetlania interfejsu użytkownika { -brand-short-name(case: "gen") } (menu, komunikaty, powiadomienia itp.).
 manage-browser-languages-button =
     .label = Wybierz alternatywne…
     .accesskey = W
-confirm-browser-language-change-description = Uruchom przeglądarkę { -brand-short-name } ponownie, aby zastosować zmiany.
+confirm-browser-language-change-description = Uruchom { -brand-short-name(case: "acc") } ponownie, aby zastosować zmiany.
 confirm-browser-language-change-button = Uruchom ponownie
 translate-web-pages =
     .label = Tłumaczenie stron WWW
@@ -628,9 +628,9 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = Wtyczka { $plugin-name } (w programie { -brand-short-name })
+    .label = Wtyczka { $plugin-name } (w { -brand-short-name(case: "loc") })
 applications-open-inapp =
-    .label = Otwórz w programie { -brand-short-name }
+    .label = Otwórz w { -brand-short-name(case: "loc") }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -669,15 +669,15 @@ play-drm-content =
     .label = Odtwarzanie treści chronionych przez DRM.
     .accesskey = O
 play-drm-content-learn-more = Więcej informacji
-update-application-title = Aktualizacje przeglądarki { -brand-short-name }
-update-application-description = Utrzymuj przeglądarkę { -brand-short-name } aktualną dla najlepszej wydajności, stabilności i bezpieczeństwa.
+update-application-title = Aktualizacje { -brand-short-name(case: "gen") }
+update-application-description = Utrzymuj { -brand-short-name(case: "acc") } aktualnym dla najlepszej wydajności, stabilności i bezpieczeństwa.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Wersja: { $version }. <a data-l10n-name="learn-more">Informacje o wydaniu</a>.
 update-history =
     .label = Wyświetl historię aktualizacji…
     .accesskey = W
-update-application-allow-description = Zezwalaj przeglądarce { -brand-short-name } na:
+update-application-allow-description = Zezwalaj { -brand-short-name(case: "dat") } na:
 update-application-auto =
     .label = automatyczne instalowanie aktualizacji (zalecane)
     .accesskey = a
@@ -688,9 +688,9 @@ update-application-manual =
     .label = niesprawdzanie dostępności aktualizacji (niezalecane)
     .accesskey = n
 update-application-background-enabled =
-    .label = kiedy przeglądarka { -brand-short-name } nie jest włączona
+    .label = kiedy { -brand-short-name } nie jest włączony
     .accesskey = k
-update-application-warning-cross-user-setting = To ustawienie będzie obowiązywać dla wszystkich kont systemu Windows i profilów programu { -brand-short-name } używających tej instalacji.
+update-application-warning-cross-user-setting = To ustawienie będzie obowiązywać dla wszystkich kont systemu Windows i profilów { -brand-short-name(case: "gen") } używających tej instalacji.
 update-application-use-service =
     .label = Używaj usługi instalowania aktualizacji działającej w tle
     .accesskey = U
@@ -703,7 +703,7 @@ update-setting-write-failure-title2 = Błąd podczas zachowywania ustawień aktu
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    W przeglądarce { -brand-short-name } wystąpił błąd i nie zachowano tej zmiany. Zauważ, że zmiana tego ustawienia aktualizacji wymaga uprawnienia do zapisu do poniższego pliku. Ty lub administrator komputera może móc rozwiązać błąd przez udzielenie grupie „Użytkownicy” pełnej kontroli nad tym plikiem.
+    W { -brand-short-name(case: "loc") } wystąpił błąd i nie zachowano tej zmiany. Zauważ, że zmiana tego ustawienia aktualizacji wymaga uprawnienia do zapisu do poniższego pliku. Ty lub administrator komputera może móc rozwiązać błąd przez udzielenie grupie „Użytkownicy” pełnej kontroli nad tym plikiem.
     
     Nie można zapisać do pliku: { $path }
 update-in-progress-title = Trwa aktualizacja
@@ -716,7 +716,7 @@ update-in-progress-cancel-button = &Kontynuuj
 ## Firefox support
 
 support-application-heading =
-    .label = Wsparcie { -brand-short-name(case: "gen") }
+    .label = Pomoc { -brand-short-name(case: "gen") }
     .description = Rozwiązuj problemy lub dziel się pomysłami ze społecznością.
 support-get-help =
     .label = Pomoc
@@ -1070,7 +1070,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Podpowiedzi wyszukiwania w prywatnych oknach
 suggestions-addressbar-settings-generic2 = Zmień ustawienia innych podpowiedzi w pasku adresu
-search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
+search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania { -brand-short-name(case: "gen") }.
 search-one-click-header2 = Skróty wyszukiwania
 search-one-click-desc = Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.
 search-one-click-header-3 =
@@ -1129,14 +1129,14 @@ search-default-engine =
 
 containers-back-button2 =
     .aria-label = Wróć do ustawień
-containers-header = Karty z kontekstem
+containers-header = Karty w kontenerach
 containers-section-header =
-    .heading = Karty z kontekstem
+    .heading = Karty w kontenerach
 containers-add-button =
-    .label = Dodaj kontekst
+    .label = Dodaj kontener
     .accesskey = D
 containers-new-tab-check =
-    .label = Wybieraj kontekst dla każdej nowej karty
+    .label = Wybieraj kontener dla każdej nowej karty
     .accesskey = W
 containers-settings-button =
     .label = Ustawienia
@@ -1676,7 +1676,7 @@ history-remember-search-option =
     .label = Zachowywanie historii pola wyszukiwania i formularzy
     .accesskey = o
 history-clear-on-close-option =
-    .label = Czyszczenie historii podczas zamykania przeglądarki { -brand-short-name }
+    .label = Czyszczenie historii podczas zamykania { -brand-short-name(case: "gen") }
     .accesskey = z
 history-clear-on-close-settings =
     .label = Ustawienia…
@@ -1722,14 +1722,14 @@ sitedata-delete-on-close2 =
     .label = Usuwanie ciasteczek i danych witryn po zamknięciu { -brand-short-name(case: "gen") }
     .accesskey = U
 sitedata-delete-on-close =
-    .label = Usuwanie ciasteczek i danych witryn podczas zamykania przeglądarki { -brand-short-name }
+    .label = Usuwanie ciasteczek i danych witryn podczas zamykania { -brand-short-name(case: "gen") }
     .accesskey = U
 sitedata-delete-on-close-private-browsing3 =
     .message = Ustawienia historii powodują, że { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
 sitedata-delete-on-close-private-browsing4 =
     .heading = Historia nie będzie zachowywana.
     .message = { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
-sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane witryn są zawsze usuwane podczas zamykania programu { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = W stale aktywnym trybie przeglądania prywatnego ciasteczka i dane witryn są zawsze usuwane podczas zamykania { -brand-short-name(case: "gen") }.
 sitedata-delete-on-close-private-browsing2 = Ustawienia historii powodują, że { -brand-short-name } usuwa ciasteczka i dane witryn z obecnej sesji po zamknięciu przeglądarki.
 sitedata-allow-cookies-option =
     .label = Akceptowanie ciasteczek i danych witryn
@@ -1892,7 +1892,7 @@ addressbar-restore-dismissed-suggestions-button =
 content-blocking-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 content-blocking-section-top-level-description = Elementy śledzące monitorują Cię w Internecie, zbierając informacje o Twoich działaniach i zainteresowaniach. { -brand-short-name } blokuje wiele tych elementów i inne złośliwe skrypty.
 content-blocking-learn-more = Więcej informacji
-content-blocking-fpi-incompatibility-warning = Używasz funkcji FPI („First Party Isolation”), która zastępuje część ustawień ciasteczek przeglądarki { -brand-short-name }.
+content-blocking-fpi-incompatibility-warning = Używasz funkcji FPI („First Party Isolation”), która zastępuje część ustawień ciasteczek { -brand-short-name(case: "gen") }.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
@@ -2037,7 +2037,7 @@ permissions-notification-settings =
     .accesskey = s
 permissions-notification-link = Więcej informacji
 permissions-notification-pause =
-    .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia przeglądarki { -brand-short-name }
+    .label = Wstrzymaj powiadomienia do czasu ponownego uruchomienia { -brand-short-name(case: "gen") }
     .accesskey = W
 permissions-autoplay2 =
     .label = Automatyczne odtwarzanie
@@ -2110,14 +2110,14 @@ permissions-header3 =
 
 ## Privacy Section - Data Collection
 
-collection-header = Dane zbierane przez program { -brand-short-name }
-collection-header2 = Dane zbierane przez program { -brand-short-name }
+collection-header = Dane zbierane przez { -brand-short-name(case: "acc") }
+collection-header2 = Dane zbierane przez { -brand-short-name(case: "acc") }
     .searchkeywords = telemetria
 preferences-collection-description = Dokładamy wszelkich starań, aby zapewnić Ci wybór i zbierać tylko minimalną ilość danych niezbędnych do ulepszania { -brand-product-name(case: "gen") } dla wszystkich.
 preferences-collection-privacy-notice = Zasady ochrony prywatności
 preferences-across-profiles = Te ustawienia dotyczą każdego profilu { -brand-product-name(case: "gen") } na tym urządzeniu.
 preferences-view-profiles = Wyświetl wszystkie profile
-collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
+collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić { -brand-short-name(case: "acc") } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
 collection-privacy-notice = Prywatność
 collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
 collection-health-report-telemetry-disabled-link = Więcej informacji
@@ -2131,7 +2131,7 @@ collection-health-report2 =
     .label = Wysyłanie danych technicznych i o interakcjach do { -vendor-short-name(case: "gen") }
     .accesskey = z
 collection-health-report =
-    .label = Wysyłanie do { -vendor-short-name(case: "gen") } danych technicznych i o interakcjach z przeglądarką { -brand-short-name }.
+    .label = Wysyłanie do { -vendor-short-name(case: "gen") } danych technicznych i o interakcjach z { -brand-short-name(case: "ins") }.
     .accesskey = z
 collection-health-report-link = Więcej informacji
 collection-health-report-description = To pomaga nam ulepszać funkcje, wydajność i stabilność { -brand-product-name(case: "gen") }.
@@ -2139,7 +2139,7 @@ collection-studies2 =
     .label = Instalowanie i przeprowadzanie badań
 collection-studies-description = Wypróbuj funkcje i pomysły, zanim zostaną udostępnione wszystkim użytkownikom.
 collection-studies =
-    .label = Instalowanie i przeprowadzanie badań przez przeglądarkę { -brand-short-name }.
+    .label = Instalowanie i przeprowadzanie badań przez { -brand-short-name(case: "acc") }.
 collection-studies-link = Wyświetl badania { -brand-short-name(case: "gen") }
 nimbus-rollouts-enabled =
     .label = { -brand-short-name } może ulepszać funkcje oraz zwiększać wydajność i stabilność pomiędzy aktualizacjami
@@ -2155,17 +2155,17 @@ collection-backlogged-crash-reports2 =
     .accesskey = o
 collection-backlogged-crash-reports-description = Umożliwia to { -vendor-short-name(case: "dat") } diagnozowanie i naprawianie problemów z przeglądarką. Zgłoszenia mogą zawierać dane osobowe lub prywatne informacje.
 addon-recommendations =
-    .label = Personalizowane polecenia rozszerzeń przez przeglądarkę { -brand-short-name }.
+    .label = Personalizowane polecenia rozszerzeń przez { -brand-short-name(case: "acc") }.
 addon-recommendations-link = Więcej informacji
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Przesyłanie danych jest wyłączone przy tej konfiguracji programu
-collection-backlogged-crash-reports-with-link = Wysyłanie zgromadzonych zgłoszeń awarii przeglądarki { -brand-short-name }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
+collection-backlogged-crash-reports-with-link = Wysyłanie zgromadzonych zgłoszeń awarii { -brand-short-name(case: "gen") }. <a data-l10n-name="crash-reports-link">Więcej informacji</a>
     .accesskey = o
 privacy-segmentation-section-header = Nowe funkcje usprawniające przeglądanie
 privacy-segmentation-section-description = Kiedy oferujemy funkcje wykorzystujące Twoje dane do zapewniania bardziej spersonalizowanej przeglądarki:
 privacy-segmentation-radio-off =
-    .label = Używaj zaleceń przeglądarki { -brand-product-name }
+    .label = Używaj zaleceń { -brand-product-name(case: "gen") }
 privacy-segmentation-radio-on =
     .label = Wyświetlaj szczegółowe informacje
 
@@ -2219,8 +2219,8 @@ certs-devices-enable-fips = Włącz FIPS
 space-alert-over-5gb-settings-button =
     .label = Otwórz ustawienia
     .accesskey = O
-space-alert-over-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Ustawienia → Prywatność i bezpieczeństwo → Ciasteczka i dane witryn.
-space-alert-under-5gb-message2 = <strong>Przeglądarce { -brand-short-name } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Przechowywane dane może wyczyścić w Ustawienia → Prywatność i bezpieczeństwo → Ciasteczka i dane witryn.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } zaczyna brakować miejsca na dysku.</strong> Zawartość stron może być wyświetlana niepoprawnie. Skorzystaj z odnośnika „Więcej informacji”, aby zoptymalizować użycie dysku dla lepszego przeglądania.
 certs-description2 =
     .label = Certyfikaty
     .description = Skonfiguruj certyfikaty, których { -brand-short-name } używa do uwierzytelniania.
@@ -2242,7 +2242,7 @@ httpsonly-label =
     .description = Zezwala wyłącznie na zabezpieczone połączenia z witrynami. { -brand-short-name } będzie pytał przed niezabezpieczonym połączeniem.
 httpsonly-description3 = Zezwala wyłącznie na zabezpieczone połączenia z witrynami. { -brand-short-name } będzie pytał przed niezabezpieczonym połączeniem.
 httpsonly-learn-more2 = Jak działa tryb używania wyłącznie protokołu HTTPS
-httpsonly-description = Protokół HTTPS zapewnia zabezpieczone, zaszyfrowane połączenie między przeglądarką { -brand-short-name } a odwiedzanymi witrynami. Większość witryn obsługuje HTTPS, a jeśli tryb używania wyłącznie protokołu HTTPS jest włączony, to { -brand-short-name } przełączy wszystkie połączenia na HTTPS.
+httpsonly-description = Protokół HTTPS zapewnia zabezpieczone, zaszyfrowane połączenie między { -brand-short-name(case: "ins") } a odwiedzanymi witrynami. Większość witryn obsługuje HTTPS, a jeśli tryb używania wyłącznie protokołu HTTPS jest włączony, to { -brand-short-name } przełączy wszystkie połączenia na HTTPS.
 httpsonly-learn-more = Więcej informacji
 httpsonly-radio-enabled =
     .label = Włącz we wszystkich oknach
@@ -2415,7 +2415,7 @@ preferences-ai-controls-tab-group-suggestions-control =
     .label = Podpowiedzi grup kart
     .description = Podpowiada, jak nazywać i organizować karty.
 preferences-ai-controls-key-points-control =
-    .label = Punkty kluczowe w podglądach odnośników
+    .label = Podsumowanie w podglądach odnośników
     .description = Wyświetla krótkie streszczenie przed otwarciem odnośnika.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = Dostawcy czatbotów SI w panelu bocznym
@@ -2441,7 +2441,7 @@ preferences-ai-controls-block-confirmation-features-start = Co zostanie zablokow
 preferences-ai-controls-block-confirmation-translations = Tłumaczenia
 preferences-ai-controls-block-confirmation-pdfjs = Alternatywny tekst obrazów w przeglądarce plików PDF { -brand-short-name(case: "gen") }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Podpowiedzi grup kart
-preferences-ai-controls-block-confirmation-key-points = Punkty kluczowe w podglądach odnośników
+preferences-ai-controls-block-confirmation-key-points = Podsumowanie w podglądach odnośników
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Dostawcy czatbotów w panelu bocznym
 preferences-ai-controls-block-confirmation-features-after = Zablokowanie wpływa także na rozszerzenia wykorzystujące sztuczną inteligencję dostarczaną przez { -brand-short-name(case: "acc") }.
 preferences-ai-controls-block-confirmation-cancel =
@@ -2452,8 +2452,6 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } jest na straży
-# This is the header above a section telling the user about problems in their settings
-security-privacy-status-problem-header = { -brand-short-name } poleca pewne usprawnienia bezpieczeństwa
 security-privacy-status-ok-label = Wzmocniona ochrona przed śledzeniem jest włączona
 security-privacy-status-problem-label = Znaleźliśmy ustawienia wpływające na Twoją ochronę
 security-privacy-status-problem-helper-label = Wyświetl problemy

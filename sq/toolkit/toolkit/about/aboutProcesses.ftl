@@ -57,6 +57,17 @@ about-processes-utility-process = Mjet ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Tjetër: { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = private
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.

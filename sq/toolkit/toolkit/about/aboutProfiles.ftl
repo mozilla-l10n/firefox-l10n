@@ -27,6 +27,7 @@ profiles-rootdir = Drejtori Rrënjë
 profiles-localdir = Drejtori Vendore
 profiles-current-profile = Ky është profili në përdorim dhe s’mund të fshihet.
 profiles-in-use-profile = Ky profil është në përdorim nga një aplikacion dhe s’mund të fshihet.
+profiles-cannot-delete-profile = S’mund të fshihet një profil që është i lidhur me profile të tjerë.
 profiles-rename = Riemërtoje
 profiles-remove = Hiqe
 profiles-set-as-default = Vëre si parazgjedhje

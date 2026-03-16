@@ -134,7 +134,7 @@ main-context-menu-open-link-split-view =
     .label = Otwórz odnośnik w podzielonym widoku
     .accesskey = m
 main-context-menu-open-link-container-tab =
-    .label = Otwórz odnośnik w nowej karcie z kontekstem
+    .label = Otwórz odnośnik w nowej karcie w kontenerze
     .accesskey = k
 main-context-menu-open-link-new-window =
     .label = Otwórz odnośnik w nowym oknie
@@ -398,7 +398,7 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
-    .label = Otwórz w nowej karcie z kontekstem „{ $containerName }”
+    .label = Otwórz w nowej karcie w kontenerze „{ $containerName }”
     .accesskey = k
 main-context-menu-reveal-password =
     .label = Widoczne hasło
