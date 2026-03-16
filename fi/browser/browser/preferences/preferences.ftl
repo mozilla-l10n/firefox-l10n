@@ -2227,6 +2227,9 @@ certs-description3 =
 certs-view2 =
     .label = Hallitse varmenteita
     .accesskey = r
+certs-devices2 =
+    .label = Hallitse turvalaitteita
+    .accesskey = t
 
 ## Privacy Section - HTTPS-Only
 
@@ -2256,6 +2259,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS HTTPS:n kautta
+dns-over-https-group2 =
+    .label = DNS HTTPS:n kautta
+    .description = Domain Name System (nimipalvelujärjestlemä) HTTPS:n kautta (DoH) salaa sivustojen etsinnän, joten Internet-yhteytesi palveluntarjoajan ja muiden on vaikeampi nähdä, millä verkkosivustoilla vierailet.
 preferences-doh-description = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, luoden suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 preferences-doh-description2 = DNS (Domain Name System eli nimipalvelujärjestelmä) HTTPS:n kautta lähettää verkkotunnuksen nimeä koskevan pyyntösi salatun yhteyden kautta, tarjoten suojatun DNS:n ja vaikeuttaen muiden nähdä, mihin verkkosivustoon olet siirtymässä.
 # Variables:
@@ -2319,12 +2325,18 @@ preferences-doh-overview-off =
     .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää.
 preferences-doh-advanced-button =
     .label = Lisäasetukset
+preferences-doh-advanced-section =
+    .label = Lisäasetukset
+    .description = Domain Name System (nimipalvelujärjestlemä) HTTPS:n kautta (DoH) salaa sivustojen etsinnän, joten Internet-yhteytesi palveluntarjoajan ja muiden on vaikeampi nähdä, millä verkkosivustoilla vierailet.
 preferences-doh-manage-exceptions2 =
     .label = Hallitse poikkeuksia
     .accesskey = p
 preferences-doh-radio-default =
     .label = Oletus
     .description = Käytä suojattua DNS:ää alueilla, joilla se on saatavilla
+preferences-doh-radio-custom =
+    .label = Mukautettu
+    .description = Käytä aina suojattua DNS:ää siten, että hallitset palveluntarjoajaa ja varatoiminnallisuutta
 preferences-doh-radio-off =
     .label = Pois päältä
     .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää
@@ -2338,9 +2350,18 @@ preferences-doh-status-item-off =
 preferences-doh-status-item-not-active =
     .message = HTTPS-yhteyskäytännön kautta toimiva DNS ei toimi, koska palveluntarjoajaa { $name } käytettäessä tapahtui virhe ({ $reason }).
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS HTTPS:n kautta ei toimi, koska vastaanotettiin virheellinen URL-osoite ({ $reason })
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = HTTPS-yhteyden kautta toimiva DNS käyttää palveluntarjoajaa { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = HTTPS-yhteyskäytännön kautta toimiva DNS ei toimi, koska havaitsimme virheen ({ $reason }) yrittäessämme käyttää paikallista palveluntarjoajaa { $name }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
@@ -2494,6 +2515,9 @@ preferences-etp-reload-tabs-hint-button =
     .label = Lataa kaikki välilehdet uudelleen
 preferences-etp-rfp-warning-message =
     .message = Käytät Resist Fingerprinting (RFP) -toimintoa, joka korvaa osan { -brand-short-name }in yksilöinnin suojausasetuksista. Tämä saattaa aiheuttaa joidenkin sivustojen rikkoutumisen.
+preferences-etp-level-warning-message =
+    .heading = Huomio! Jotkin sivustot eivät välttämättä toimi odotetulla tavalla.
+    .message = Jotkin sivustot rakentavat seuraimia itse sivuston ominaisuuksiin tai sisältöön. Kun { -brand-short-name } estää ne, sivusto vaikuttaa rikkinäiseltä. Kokeile “Korjaa sivuston ongelmat” tai poista seurannan suojaus pois käytöstä kyseisellä sivustolla.
 preferences-etp-manage-exceptions-button =
     .label = Hallitse poikkeuksia
     .description = Hallitse verkkosivustoja, joiden kohdalla ei käytetä tehostettua seurannan suojausta.
@@ -2504,12 +2528,23 @@ preferences-etp-reset =
     .description = Palauta asetukset esiasetettuun suojaustasoon.
 preferences-etp-reset-standard-button =
     .label = Palauta vakioasetuksiin
+preferences-etp-reset-strict-button =
+    .label = Palauta tiukaksi
+preferences-etp-custom-control-group =
+    .label = Seurannan suojaus
+    .description = Valitse mitkä suojaukset ovat käytössä tai pois käytöstä.
 preferences-etp-custom-cookies-enabled =
     .label = Evästeet
 preferences-etp-custom-cookie-behavior =
     .aria-label = Evästeet
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Salli kaikki evästeet
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Seurantaan tarkoitettu sisältö
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Seurantaan tarkoitettu sisältö
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kryptolouhijat
 preferences-etp-custom-known-fingerprinting-protection-enabled =
     .label = Tunnetut yksilöijät
 preferences-etp-custom-suspect-fingerprinting-protection-enabled =
@@ -2519,6 +2554,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Tunnettuja yksilöijiä ei estetä
+    .description = Tämä saattaa mahdollistaa joidenkin seurainten seurata sinua ilman evästeitä.
 security-privacy-issue-warning-third-party-cookies =
     .label = Kolmannen osapuolen evästeet ovat käytössä
     .description = Kolmannen osapuolen evästeitä käytetään seuraamiseesi verkkosivustojen välillä.
