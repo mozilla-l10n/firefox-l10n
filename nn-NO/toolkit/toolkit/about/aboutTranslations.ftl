@@ -19,6 +19,10 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Omsettingar er ikkje tilgjengelege for organisasjonen din
     .message = Dette er ein politikk fastsett av administratoren din.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Opphev blokkeringa av denne funksjonen for å omsette tekst
+    .message = Det ser ut til at du har oppdatert AI-kontrollane til å blokkere denne funksjonen. Opphev blokkeringa når som helst for å byrje å bruke han.
 about-translations-feature-blocked-unblock-button = Opphev blokkeringa
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
