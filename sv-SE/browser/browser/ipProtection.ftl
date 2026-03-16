@@ -44,6 +44,12 @@ unauthenticated-hide-location-message-2 = Dölj din plats medan du surfar i { -b
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB gratis VPN-data varje månad.
 unauthenticated-get-started = Kom igång
+site-exclusion-toggle-enabled-1 =
+    .label = Använd VPN för den här webbplatsen
+    .aria-label = VPN är på för den här webbplatsen
+site-exclusion-toggle-disabled-1 =
+    .label = Använd VPN för den här webbplatsen
+    .aria-label = VPN är avstängt för den här webbplatsen
 site-exclusion-toggle-label = Använd VPN för den här webbplatsen
 site-exclusion-toggle-enabled =
     .aria-label = VPN är på för den här webbplatsen
