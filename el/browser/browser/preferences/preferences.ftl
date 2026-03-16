@@ -2543,6 +2543,15 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-third-party-cookies =
+    .label = Τα cookie τρίτων είναι ενεργά
+    .description = Τα cookie τρίτων χρησιμοποιούνται για την καταγραφή σας μεταξύ των ιστοτόπων.
+security-privacy-issue-warning-password-manager =
+    .label = Η διαχείριση κωδικών πρόσβασης είναι ανενεργή
+    .description = Οι εφαρμογές διαχείρισης κωδικών πρόσβασης σάς βοηθούν να αποθηκεύετε ισχυρούς κωδικούς πρόσβασης για τους λογαριασμούς σας.
+security-privacy-issue-warning-popup-blocker =
+    .label = Η φραγή αναδυόμενων παραθύρων είναι ανενεργή
+    .description = Τα αναδυόμενα παράθυρα διακόπτουν την περιήγησή σας και είναι δυνητικά επιβλαβή.
 security-privacy-issue-warning-extension-install =
     .label = Οι ιστότοποι μπορούν να εγκαθιστούν επεκτάσεις
     .description = Οι ιστότοποι μπορούν να εγκαθιστούν επεκτάσεις στο { -brand-short-name } χωρίς να ζητούν την άδειά σας.
@@ -2555,3 +2564,6 @@ security-privacy-issue-warning-doh =
 security-privacy-issue-warning-ech =
     .label = Το Encrypted Client Hello είναι απενεργοποιημένο
     .description = Το Encrypted Client Hello αποκρύπτει ποιους ιστοτόπους επισκέπτεστε από τον πάροχο δικτύου σας.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης είναι ενεργή
+    .description = Η αυτόματη ρύθμιση διακομιστή μεσολάβησης θα μπορούσε να επιτρέψει σε αναξιόπιστα δίκτυα να παρακολουθήσουν τη δραστηριότητά σας.
