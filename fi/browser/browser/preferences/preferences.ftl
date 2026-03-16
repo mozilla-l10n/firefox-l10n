@@ -2183,6 +2183,9 @@ website-advertising-private-attribution-description = Tämä auttaa sivustoja ym
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Turvallisuus
+browsing-protection-group2 =
+    .label = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
+    .description = Vaaralliset sivustot ja lataukset voivat saattaa tietosi ja laitteesi alttiiksi riskeille. { -brand-short-name } estää ne automaattisesti, ja varoittaa sinua riskalttiista tai ei-halutuista ohjelmistoista.
 security-browsing-protection = Petolliselta sisällöltä ja vaarallisilta ohjelmilta suojaus
 security-enable-safe-browsing =
     .label = Estä vaarallinen ja petollinen sisältö
@@ -2320,6 +2323,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Oletussuojaus
     .description = Käytä suojattua DNS:ää alueilla, joilla se on saatavilla.
+preferences-doh-overview-custom =
+    .label = Mukautettu
+    .description = Käytä aina suojattua DNS:ää halliten palveluntarjoajaa ja varatoiminnallisuutta.
 preferences-doh-overview-off =
     .label = Pois päältä
     .description = Käytä yhteytesi oletusarvoista DNS-selvittäjää.
