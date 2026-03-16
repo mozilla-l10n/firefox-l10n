@@ -1877,9 +1877,6 @@ enhanced-tracking-protection-setting-standard =
 enhanced-tracking-protection-setting-strict =
     .label = Tiukka
     .accesskey = u
-enhanced-tracking-protection-setting-custom =
-    .label = Oma
-    .accesskey = O
 
 ##
 
@@ -2353,9 +2350,25 @@ security-privacy-status-ok-header = { -brand-short-name } on valppaana
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } suosittelee joitakin tietoturvaparannuksia
 security-privacy-status-ok-label = Tehostettu seurannan suojaus on päällä
+security-privacy-status-problem-label = Löysimme turvallisuuteesi vaikuttavia asetuksia
+security-privacy-status-problem-helper-label = Näytä ongelmat
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } seurain estetty viimeisen kuukauden aikana
+       *[other] { $trackerCount } seurainta estetty viimeisen kuukauden aikana
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Sinulla on <a data-l10n-name="strict-tracking-protection">tiukka suojaus</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Sinulla on <a data-l10n-name="custom-tracking-protection">mukautettu suojaus</a>
 security-privacy-status-up-to-date-label = Sinulla on { -brand-short-name }in uusin ja turvallisin versio
 security-privacy-status-update-needed-label = Uusi versio { -brand-short-name }ista on saatavilla.
+security-privacy-status-update-error-label = { -brand-short-name } kohtasi ongelmia päivittäessä itseään
 security-privacy-status-update-checking-label = { -brand-short-name } tarkistaa päivityksiä
+security-privacy-status-update-needed-description = Päivitä uusimmat nopeus-, vakaus- ja tietoturvapäivitykset.
 security-privacy-status-update-button-label =
     .label = Päivitä { -brand-short-name }
 security-privacy-issue-card =
@@ -2365,6 +2378,19 @@ security-privacy-issue-card =
 
 preferences-etp-status-advanced-button =
     .label = Lisäasetukset
+preferences-etp-header =
+    .heading = Tehostettu seurannan suojaus
+preferences-etp-customize-button =
+    .label = Mukauta seurannan suojausta
+preferences-etp-reload-tabs-hint =
+    .message = Lataa välilehdet uudelleen, jotta nämä muutokset otetaan käyttöön.
+preferences-etp-reload-tabs-hint-button =
+    .label = Lataa kaikki välilehdet uudelleen
+preferences-etp-manage-exceptions-button =
+    .label = Hallitse poikkeuksia
+    .description = Hallitse verkkosivustoja, joiden kohdalla ei käytetä tehostettua seurannan suojausta.
+preferences-etp-customize-header =
+    .heading = Mukauta seurannan suojausta
 preferences-etp-custom-cookies-enabled =
     .label = Evästeet
 preferences-etp-custom-cookie-behavior =
