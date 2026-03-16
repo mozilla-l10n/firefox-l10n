@@ -543,6 +543,7 @@ restore-from-backup-secondary-top-button = Reakiri el sekurkopio
 restore-from-backup-title = Rehavu ni { -brand-short-name } tiel kiel vi ĝin ŝatas
 restore-from-backup-subtitle = Reakiru ĉiujn viajn legosignojn, historion kaj aliajn datumojn por daŭrigi vian retumon.
 restore-from-backup-secondary-button = Ne reakiri
+multiple-backups-info-tile = <strong>Pluraj sekurkopiaj dosieroj estis trovitaj.</strong> La plej nova estas elektita. Restarigu aliajn profilojn en la <a data-l10n-name="settings-label">agordoj.</a>
 
 ## Restored from Backup spotlight
 

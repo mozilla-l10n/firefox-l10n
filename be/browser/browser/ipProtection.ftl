@@ -160,6 +160,7 @@ ip-protection-exclusions-desc = Ужываць VPN для ўсіх сайтаў,
 
 ## IP Protection Bandwidth
 
+ip-protection-bandwidth-header = Штомесячны VPN-трафік
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

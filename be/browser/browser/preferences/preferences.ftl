@@ -2473,6 +2473,11 @@ security-privacy-status-strict-enabled-label = Выбрана <a data-l10n-name=
 security-privacy-status-custom-enabled-label = Выбрана <a data-l10n-name="custom-tracking-protection">адмысловая ахова</a>
 security-privacy-status-up-to-date-label = У вас найноўшая, самая бяспечная версія { -brand-short-name }
 security-privacy-status-update-needed-label = Даступна новая версія { -brand-short-name }.
+security-privacy-status-update-error-label = { -brand-short-name } мае праблемы з абнаўленнем
+security-privacy-status-update-checking-label = { -brand-short-name } правярае наяўнасць абнаўленняў
+security-privacy-status-update-needed-description = Абнавіцеся для найноўшай хуткасці, стабільнасці і абнаўленняў бяспекі.
+security-privacy-status-update-button-label =
+    .label = Абнавіць { -brand-short-name }
 security-privacy-image-warning =
     .alt = Шчыт з клічнікам, што выказвае занепакоенасць вашымі папярэджаннямі бяспекі
 security-privacy-image-ok =
