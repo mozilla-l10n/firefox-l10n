@@ -2487,6 +2487,15 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Utvidet sporingsbeskyttelse
+    .description = Nettstadar brukar sporarar for å følgje deg på nettet og vise påtrengjande annonsar. { -brand-short-name } vernar deg medan du surfar ved å blokkere sporarar automatisk, slik at du har kontroll over dei digitale spora dine.
+preferences-etp-level-standard =
+    .label = Standard (standard)
+    .description = Sterkt og påliteleg vern som fungerer problemfritt med dei fleste nettstadar.
+preferences-etp-level-strict =
+    .label = Streng
+    .description = Sterkare vern som blokkerer fleire sporarar, men kan føre til at nokre nettstadar ikkje fungerer som dei skal.
 preferences-etp-status-advanced-button =
     .label = Avanserte innstillingar
 preferences-etp-header =
