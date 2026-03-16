@@ -2471,3 +2471,11 @@ security-privacy-status-trackers-label =
 security-privacy-status-strict-enabled-label = Выбрана <a data-l10n-name="strict-tracking-protection">строгая ахова</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = Выбрана <a data-l10n-name="custom-tracking-protection">адмысловая ахова</a>
+security-privacy-status-up-to-date-label = У вас найноўшая, самая бяспечная версія { -brand-short-name }
+security-privacy-status-update-needed-label = Даступна новая версія { -brand-short-name }.
+security-privacy-image-warning =
+    .alt = Шчыт з клічнікам, што выказвае занепакоенасць вашымі папярэджаннямі бяспекі
+security-privacy-image-ok =
+    .alt = Шчыт з галачкай, які паказвае, што ў вас няма праблем з бяспекай
+security-privacy-issue-card =
+    .heading = Папярэджанні бяспекі
