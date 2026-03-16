@@ -24,8 +24,21 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = შემოთავაზებულია VPN, ახლა უკვე პირდაპირ თქვენს ბრაუზერში
+ipprotection-feature-introduction-link-text-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად.
+ipprotection-feature-introduction-link-text-private-browsing-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად პირადი ფანჯრით სარგებლობის დროსაც.
 ipprotection-feature-introduction-button-primary = შემდეგი
 ipprotection-feature-introduction-button-secondary-not-now = ახლა არა
+ipprotection-feature-introduction-button-secondary-no-thanks = არა, გმადლობთ
+
+## Site settings callout
+
+ipprotection-site-settings-callout-title = აირჩიეთ, სად გამოიყენებოდეს VPN
+ipprotection-site-settings-callout-subtitle = გამორთეთ VPN ცალკეულ საიტზე და დაიმახსოვრებს მომდევნო მონახულებისას.
+ipprotection-site-settings-callout-button = გასაგებია
+
+## Panel
+
+unauthenticated-vpn-title = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }
 
 ## IP Protection Settings
 
