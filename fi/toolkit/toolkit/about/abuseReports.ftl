@@ -9,6 +9,7 @@
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Raportti lisäosasta { $addon-name }
 abuse-report-title-extension = Raportoi tämä laajennus { -vendor-short-name }lle
+abuse-report-title-sitepermission = Raportoi tämä sivuston käyttöoikeuksien lisäosa { -vendor-short-name }lle
 abuse-report-title-theme = Raportoi tämä teema { -vendor-short-name }lle
 abuse-report-subtitle = Mikä on ongelmana?
 # Variables:
@@ -41,6 +42,7 @@ abuse-report-messagebar-submitting = Lähetetään raportti lisäosasta <span da
 abuse-report-messagebar-submitted = Kiitos kun lähetit raportin. Haluatko poistaa lisäosan <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Kiitos kun lähetit raportin.
 abuse-report-messagebar-removed-extension = Kiitos kun lähetit raportin. Poistit laajennuksen <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-removed-sitepermission = Kiitos kun lähetit raportin. Poistit sivuston käyttöoikeuksien lisäosan <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Kiitos kun lähetit raportin. Poistit teeman <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Raportin lähettäminen lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> epäonnistui.
 abuse-report-messagebar-error-recent-submit = Raporttia lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> ei lähetetty, koska toinen raportti lähetettiin äskettäin.
