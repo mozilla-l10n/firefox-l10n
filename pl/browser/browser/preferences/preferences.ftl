@@ -1896,7 +1896,7 @@ content-blocking-fpi-incompatibility-warning = Używasz funkcji FPI („First Pa
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Używasz funkcji RFP („Resist Fingerprinting”), która zastępuje część ustawień ochrony przed zbieraniem informacji o konfiguracji przeglądarki { -brand-short-name }. Może to powodować problemy z działaniem niektórych stron.
+content-blocking-rfp-incompatibility-warning = Używasz funkcji RFP („Resist Fingerprinting”), która zastępuje część ustawień ochrony przed zbieraniem informacji o konfiguracji { -brand-short-name(case: "gen") }. Może to powodować problemy z działaniem niektórych stron.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -2468,7 +2468,7 @@ security-privacy-status-trackers-label =
        *[many] { $trackerCount } elementów śledzących zablokowanych w ciągu ostatniego miesiąca
     }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
-security-privacy-status-strict-enabled-label = Wybrano <a data-l10n-name="strict-tracking-protection">ścisła ochronę</a>
+security-privacy-status-strict-enabled-label = Wybrano <a data-l10n-name="strict-tracking-protection">ścisłą ochronę</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = Wybrano <a data-l10n-name="custom-tracking-protection">własne ustawienia ochrony</a>
 security-privacy-status-up-to-date-label = Masz najnowszą, najbezpieczniejszą wersję { -brand-short-name(case: "gen") }
@@ -2521,7 +2521,7 @@ preferences-etp-reload-tabs-hint =
 preferences-etp-reload-tabs-hint-button =
     .label = Odśwież wszystkie karty
 preferences-etp-rfp-warning-message =
-    .message = Używasz funkcji RFP („Resist Fingerprinting”), która zastępuje część ustawień ochrony przed zbieraniem informacji o konfiguracji przeglądarki { -brand-short-name }. Może to powodować problemy z działaniem niektórych stron.
+    .message = Używasz funkcji RFP („Resist Fingerprinting”), która zastępuje część ustawień ochrony przed zbieraniem informacji o konfiguracji { -brand-short-name(case: "gen") }. Może to powodować problemy z działaniem niektórych stron.
 preferences-etp-level-warning-message =
     .heading = Uwaga! Niektóre witryny mogą nie działać jak powinny.
     .message = Niektóre witryny wbudowują elementy śledzące w swoje funkcje lub treść. Kiedy { -brand-short-name } je blokuje, witryna wydaje się uszkodzona. Spróbuj użyć ustawień „Naprawianie problemów ze stronami” lub wyłączyć na niej ochronę przed śledzeniem.
