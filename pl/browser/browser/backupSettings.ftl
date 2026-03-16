@@ -279,15 +279,15 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b>, utworzony w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b>, utworzona w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Przywrócony z urządzenia { $deviceName } w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } o { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Przywrócona z urządzenia { $deviceName } w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } o { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Utworzony w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
+backup-file-creation-date-and-device = Utworzona w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
 backup-file-restore-file-validation-error = Ten plik nie działa. Spróbuj wybrać inny. <a data-l10n-name="restore-problems">Nadal masz problemy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nie wybrano pliku

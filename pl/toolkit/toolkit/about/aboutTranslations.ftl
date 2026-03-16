@@ -36,7 +36,7 @@ about-translations-language-load-error-message =
 about-translations-language-load-error-button = Spróbuj ponownie
 # An error message displayed when a translation request fails.
 about-translations-translation-error-heading = Wystąpił problem podczas tłumaczenia
-about-translations-translation-error-subtext = Spróbuj ponownie.
+about-translations-translation-error-subtext = Proszę spróbować ponownie.
 about-translations-translation-error-button = Spróbuj ponownie
 # An informational message displayed when the detected language is not supported.
 # Variables:
