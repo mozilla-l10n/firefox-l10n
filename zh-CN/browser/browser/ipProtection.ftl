@@ -171,9 +171,6 @@ ip-protection-bandwidth-help-text = 每月初重置为 { $maxUsage } GB。
 ipprotection-bandwidth-reset-text = 启用 VPN 可额外增强隐私保护，每月免费提供。
 ipprotection-bandwidth-reset-button = 明白了
 
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN 已暂停

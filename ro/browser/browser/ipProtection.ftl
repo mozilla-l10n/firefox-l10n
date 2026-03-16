@@ -181,9 +181,6 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, actualizați și g
 ipprotection-bandwidth-reset-text = Activează VPN-ul pentru o îmbunătățire a confidențialității, gratuit în fiecare lună.
 ipprotection-bandwidth-reset-button = Am înţeles
 
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN în pauză

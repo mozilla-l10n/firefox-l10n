@@ -181,9 +181,6 @@ ipprotection-bandwidth-reset-title = { $maxUsage } ГБ VPN оновлено і 
 ipprotection-bandwidth-reset-text = Увімкніть VPN для посилення приватності, безплатно щомісяця.
 ipprotection-bandwidth-reset-button = Зрозуміло
 
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN призупинено

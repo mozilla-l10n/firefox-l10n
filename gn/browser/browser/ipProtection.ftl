@@ -192,9 +192,6 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN rehegua, hekopyahu ha 
 ipprotection-bandwidth-reset-text = Emyandy VPN imbareteve hag̃ua nde rekoñemi, rei opaite jasýpe.
 ipprotection-bandwidth-reset-button = Aikũmby
 
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN opytáva

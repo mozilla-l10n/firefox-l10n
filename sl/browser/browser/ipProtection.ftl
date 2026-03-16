@@ -80,12 +80,6 @@ ipprotection-connection-status-network-error-title = Preverite svojo povezavo z 
 ipprotection-connection-status-network-error-description = Povežite se z internetom in nato poskusite vklopiti VPN.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je na tem spletnem mestu izklopljen
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-description =
@@ -119,15 +113,9 @@ ip-protection-exceptions-dialog-window =
     .title = Nastavitve spletnih mest
 ip-protection-exclusions-desc = VPN naj se uporablja na vseh spletnih mestih, razen na navedenih. Spletno mesto dodate na seznam tukaj ali prek VPN.
 
-## IP Protection Bandwidth
-
-
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

@@ -120,18 +120,3 @@ ip-protection-description =
 ip-protection-learn-more = Læs mere
 ip-protection-site-exceptions =
     .label = Websteds-specifikke indstillinger
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
-## IP Protection alerts
-

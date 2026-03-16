@@ -60,18 +60,6 @@ ipprotection-settings-link =
 ipprotection-connection-status-connected = VPN je uključen
 ipprotection-connection-status-disconnected = VPN je isključen
 
-## VPN paused state
-
-
-## Messages and errors
-
-
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-learn-more = Saznaj više
@@ -137,9 +125,6 @@ ip-protection-bandwidth-help-text = Resetira se na { $maxUsage } GB svakog prvog
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-a, osvježeno i spremno za korištenje
 ipprotection-bandwidth-reset-text = Uključi VPN za dodatno poboljšanje privatnosti, besplatno svaki mjesec.
 ipprotection-bandwidth-reset-button = Razumijem
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

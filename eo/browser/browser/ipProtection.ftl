@@ -184,9 +184,6 @@ ipprotection-bandwidth-reset-title =
 ipprotection-bandwidth-reset-text = Ŝaltu vian VPN por aldona privateca plibonigo, senpage ĉiumonate.
 ipprotection-bandwidth-reset-button = Mi komprenis
 
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN paŭzigita

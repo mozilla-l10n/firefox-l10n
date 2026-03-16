@@ -103,12 +103,6 @@ ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena e
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-learn-more = Argibide gehiago
@@ -164,9 +158,6 @@ ip-protection-bandwidth-help-text = { $maxUsage } GBra berrezartzen da hilabete 
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Ulertuta
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

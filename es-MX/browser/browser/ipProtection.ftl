@@ -90,12 +90,6 @@ ipprotection-connection-status-network-error-description = Conéctate a Internet
 ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-description =

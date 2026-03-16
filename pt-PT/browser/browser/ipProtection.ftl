@@ -87,27 +87,3 @@ ipprotection-connection-status-network-error-description = Ligue-se à Internet 
 ipprotection-message-bandwidth-warning =
     .heading = A chegar perto do limite da sua VPN
     .message = Tem { $usageLeft } GB de { $maxUsage } GB remanescentes neste mês.
-
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
-## IP Protection Settings
-
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
-## IP Protection alerts
-

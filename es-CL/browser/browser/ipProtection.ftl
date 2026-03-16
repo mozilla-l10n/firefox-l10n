@@ -189,9 +189,6 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, actualizados y lis
 ipprotection-bandwidth-reset-text = Activa la VPN para obtener un aumento adicional de privacidad, gratis todos los meses.
 ipprotection-bandwidth-reset-button = Entendido
 
-## IP Protection add-on breakage warnings
-
-
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN pausada
