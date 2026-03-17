@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Tenu vian list
 experimental-features-semantic-history-search =
     .label = Semantika serĉo en historio
 experimental-features-semantic-history-search-description = Uzi lokan modelon de maŝinlerno por sugesti elementojn el la historio kiu estas rilatitaj kun viaj serĉoj, bazita sur la kompreno de natura lingvo en la adresa strio de { -brand-product-name }. <a data-l10n-name="connect">Dividi komentojn</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Notoj de langetoj
+experimental-features-tab-notes-description = Notoj de langetoj estas eksperimenta trajto kiu permesas aldonon de notoj al la langetoj de via retumilo. Aldonu kuntekston, memorigilojn aŭ venontajn paŝojn por memori, kial vi malfermis la langeton. Ni ŝategus ricevi viajn komentojn dum ni plu disvolvas tiun ĉi trajton.  <a data-l10n-name="connect">Dividi ideojn kaj komentojn</a>
