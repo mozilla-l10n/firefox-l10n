@@ -19,6 +19,9 @@ backup-folder-name = Obnovenie { -brand-product-name(case: "gen") }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Zaloha{ -brand-product-name(case: "gen") }
+settings-data-backup-header2 =
+    .label = Záloha
+    .description = Automaticky chráni vaše záložky, históriu a ďalšie údaje.
 settings-data-backup-header = Záloha
 settings-data-backup-toggle = Spravovať zálohovanie
 settings-data-backup-toggle-on2 =
@@ -35,15 +38,31 @@ settings-data-backup-scheduled-backups-on = Zálohovanie: zapnuté
 settings-data-backup-scheduled-backups-off = Zálohovanie: vypnuté
 settings-data-backup-scheduled-backups-description = Automaticky chráňte svoje záložky, históriu a ďalšie údaje. <a data-l10n-name="support-link">Ďalšie informácie</a>
 settings-data-backup-last-backup-date = Posledná záloha: { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Zálohovanie je ZAPNUTÉ
+settings-data-backup-scheduled-backups-off2 =
+    .label = Zálohovanie je VYPNUTÉ
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Umiestnenie zálohy
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Umiestnenie
 settings-data-backup-last-backup-location-show-in-folder = Zobraziť v priečinku
 settings-data-backup-last-backup-location-edit = Upraviť…
 settings-data-create-backup-error = Pri vytváraní zálohy dňa { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } sa vyskytla chyba
 settings-sensitive-data-encryption-description = Zálohujte si heslá a spôsoby platby a zároveň uložte všetky svoje údaje do bezpečia pomocou šifrovania.
+settings-data-toggle-encryption-label2 =
+    .label = Zálohovať citlivé údaje
+    .description = Zálohujte si heslá a spôsoby platby a zároveň uložte všetky svoje údaje do bezpečia pomocou šifrovania.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Názov súboru: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Obnovte svoje údaje
+    .description = Obnovte si dáta { -brand-product-name(case: "gen") } z poslednej zálohy.
+settings-data-backup-restore-scheduled-off =
+    .label = Obnovte svoje údaje
+    .description = Na obnovenie údajov použite zálohu { -brand-product-name(case: "gen") } z iného zariadenia.
 settings-data-backup-restore-header = Obnovte svoje údaje
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -55,8 +74,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vybrať súbor zálo
 
 settings-data-backup-scheduled-backups-on-restore-description = Obnovte si dáta { -brand-product-name(case: "gen") } z poslednej zálohy.
 settings-data-backup-scheduled-backups-on-restore-choose = Obnoviť…
+settings-sensitive-data =
+    .label = Citlivé údaje
 settings-data-toggle-encryption-label = Zálohovať citlivé údaje
 settings-data-toggle-encryption-support-link = Ďalšie informácie
+settings-data-change-password2 =
+    .label = Zmeniť heslo
 settings-data-change-password = Zmeniť heslo…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -99,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Vypnúť a odstrániť zálohu
 restore-from-backup-header = Obnovte svoje údaje
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Čo bude obnovené?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Toto nahradí všetky vaše aktuálne údaje { -brand-short-name(case: "gen") } zálohou z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -116,6 +142,13 @@ restore-from-backup-password-description = Týmto sa odomkne vaša šifrovaná z
 restore-from-backup-cancel-button = Zrušiť
 restore-from-backup-confirm-button = Obnoviť a reštartovať
 restore-from-backup-restoring-button = Obnovuje sa…
+restore-from-backup-type-group-label =
+    .label = Nahradiť aktuálny profil?
+restore-from-backup-type-replace =
+    .label = Nahradiť všetky dáta touto zálohou
+restore-from-backup-type-add =
+    .label = Ponechať údaje a vytvoriť nový profil
+restore-from-backup-profiles-disabled-message = Týmto sa všetky vaše aktuálne údaje { -brand-short-name(case: "gen") } nahradia zálohou.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -243,6 +276,15 @@ other-backup-files-founds =
         [many] <b>Poznámka:</b> bolo nájdených { $numberOfOtherBackupsFound } ďalších súborov zálohy
        *[other] <b>Poznámka:</b> bolo nájdených { $numberOfOtherBackupsFound } ďalších súborov zálohy
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> vytvorený dňa { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Obnovený zo zariadenia { $deviceName } dňa { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } o { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

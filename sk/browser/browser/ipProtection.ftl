@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo vašom prehliadači
+ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, ďakujem
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Rozumiem
 ## Panel
 
 unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
+unauthenticated-hide-location-message-2 = Skryte svoju polohu počas prehliadania v { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
@@ -117,6 +120,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Blížite sa k vyč
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Takmer máte minulé dáta VPN.</strong> Zostáva vám { $usageLeft } GB. Keď ich všetky miniete, vaša VPN sa pozastaví, kým sa vaše dáta nevynulujú v prvý deň nasledujúceho mesiaca.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Blížite sa k vášmu limitu pre dáta VPN.</strong> Zostáva vám { $usageLeft } GB. Keď ich všetky miniete, vaša VPN sa pozastaví, kým sa vaše dáta nevynulujú v prvý deň nasledujúceho mesiaca.
 
 ## IP Protection Settings
 
@@ -126,6 +132,11 @@ ip-protection-description =
 ip-protection-learn-more = Ďalšie informácie
 ip-protection-site-exceptions =
     .label = Nastavenia špecifické pre stránku
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
+    .message = Skryte svoju polohu počas prehliadania vo { -brand-short-name(case: "loc") }. Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
 ip-protection-not-opted-in-button = Začíname
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -179,6 +190,7 @@ ip-protection-bandwidth-hit-for-the-month = Vyčerpali ste celý objem { $maxUsa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Obnoví sa na { $maxUsage } GB v prvý deň každý mesiac.
+ip-protection-bandwidth-header-1 = Mesačný dátový limit
 
 ## IP Protection bandwidth reset callout
 

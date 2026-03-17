@@ -15,6 +15,10 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Preklad nie je na tomto zariadení k dispozícii.
     .message = Skúste prejsť na iné zariadenie.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Preklady nie sú pre vašu organizáciu k dispozícii
+    .message = Toto je politika nastavená vaším správcom.
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Nepodarilo sa načítať jazyky
