@@ -230,7 +230,7 @@ link-preview-reading-time =
        *[other] Tempore de lectura { $range } minutas
     }
 # Error message displayed when a link preview cannot be generated
-link-preview-error-message-v2 = { -brand-short-name } non pote monstrar in vista preliminar iste ligamine
+link-preview-error-message-v2 = { -brand-short-name } non pote previsualisar iste ligamine
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar le ligamine
 # Error message when key points generation (summary highlights or main ideas of page content) fails for a page
