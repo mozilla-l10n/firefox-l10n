@@ -1704,12 +1704,19 @@ sitedata-total-size-calculating = Calculando o tamanho dos dados de sites e do c
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = No momento, sites estão usando <strong>{ $value } { $unit }</strong> de espaço em disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Seus cookies, histórico, dados de sites e cache armazenados estão no momento ocupando <strong>{ $value }{ $unit }</strong> de espaço em disco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Seus cookies, dados de sites e cache armazenados estão no momento ocupando { $value }{ $unit } de espaço em disco.
 sitedata-learn-more = Saiba mais
+sitedata-delete-on-close2 =
+    .label = Limpar cookies e dados de sites sempre que fechar o { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Apagar cookies e dados de sites quando o { -brand-short-name } for fechado
     .accesskey = c

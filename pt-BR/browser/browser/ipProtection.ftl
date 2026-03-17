@@ -188,6 +188,7 @@ ip-protection-bandwidth-hit-for-the-month = Você usou todos os seus { $maxUsage
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = É renovado para { $maxUsage } GB no início de cada mês.
+ip-protection-bandwidth-header-1 = Limite mensal de dados
 
 ## IP Protection bandwidth reset callout
 
@@ -196,6 +197,11 @@ ip-protection-bandwidth-help-text = É renovado para { $maxUsage } GB no início
 ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, renovado e pronto para usar
 ipprotection-bandwidth-reset-text = Ative a VPN para reforçar sua privacidade, gratuitamente todo mês.
 ipprotection-bandwidth-reset-button = Entendi
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Este site pode não funcionar com uma VPN.</strong> Experimente entrar na sua conta ou desativar a VPN ao usar este site.
+ipp-activator-breakage-turn-off-warning = <strong>Este site pode não funcionar com uma VPN.</strong> Experimente desativar a VPN ao usar este site.
 
 ## IP Protection alerts
 
