@@ -2293,12 +2293,28 @@ preferences-doh-overview-default =
 preferences-doh-overview-custom =
     .label = Personalizado
     .description = Sempre usar DNS seguro com controle sobre seu provedor e comportamento de usar alternativas.
+preferences-doh-overview-off =
+    .label = Desativado
+    .description = Usar seu resolvedor padrão de DNS.
+preferences-doh-advanced-button =
+    .label = Configurações avançadas
 preferences-doh-manage-exceptions2 =
     .label = Gerenciar exceções
     .accesskey = x
 preferences-doh-radio-default =
     .label = Padrão
     .description = Usar DNS seguro em regiões onde estiver disponível
+preferences-doh-select-resolver-label =
+    .label = Escolher provedor:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Usar este provedor para resolver DNS sobre HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Insira uma URL de provedor personalizado
+preferences-doh-header2 =
+    .heading = DNS sobre HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2364,3 +2380,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquear
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = O { -brand-short-name } está em guarda
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = O { -brand-short-name } recomenda algumas melhorias de segurança
+security-privacy-status-ok-label = A proteção aprimorada contra rastreamento está ativada
+security-privacy-status-problem-label = Encontramos configurações que afetam sua proteção
+security-privacy-status-problem-helper-label = Ver problemas
