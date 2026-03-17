@@ -716,6 +716,12 @@ pdfjs-views-manager-status-close-button =
     .title = Fechar
 pdfjs-views-manager-status-close-button-label = Fechar
 pdfjs-views-manager-paste-button-label = Colar
+pdfjs-views-manager-paste-button-before =
+    .title = Colar antes da primeira página
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Colar após a página { $page }
 pdfjs-toggle-views-manager-button1 =
     .title = Gerenciar páginas
 
