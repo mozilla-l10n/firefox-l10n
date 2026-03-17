@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Apri sito in nuova finestra
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Per proteggere la tua sicurezza, { $hostname } non consente a { -brand-short-name } di visualizzare la pagina quando è inclusa all’interno di un altro sito. Per visualizzare questa pagina è necessario aprirla in una nuova finestra.
 fp-certerror-view-certificate-link = Visualizza il certificato del sito
+fp-certerror-return-to-previous-page-recommended-button-2 = Torna indietro (consigliato)
+    .accesskey = c
 fp-certerror-return-to-previous-page-recommended-button = Torna indietro (consigliato)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -222,3 +224,5 @@ fp-certerror-override-exception-button = Procedi su { $hostname } (rischioso)
 fp-certerror-intro = { -brand-short-name } ha rilevato un potenziale problema di sicurezza con <strong>{ $hostname }</strong>. Un soggetto che finge di essere il sito potrebbe cercare di rubare informazioni su carte di credito, password o email.
 fp-certerror-expired-into = { -brand-short-name } ha rilevato un problema di sicurezza con <strong>{ $hostname }</strong>. Il sito non è configurato correttamente o l’orologio del dispositivo è impostato su una data/ora sbagliata.
 fp-certerror-transparency-intro = Un soggetto che finge di essere <strong>{ $hostname }</strong> potrebbe cercare di rubare dettagli come informazioni sulle carte di credito, password o email.
+fp-certerror-override-exception-button-2 = Procedi su { $hostname } (rischioso)
+    .accesskey = P
