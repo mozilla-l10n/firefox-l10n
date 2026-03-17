@@ -19,6 +19,9 @@ backup-folder-name = Restarigi { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Sekurkopio de { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Sekurkopio
+    .description = Aŭtomate protektu viajn legosignojn, historion kaj aliajn datumojn.
 settings-data-backup-header = Sekurkopio
 settings-data-backup-toggle = Administri sekurkopion
 settings-data-backup-toggle-on2 =
@@ -35,6 +38,13 @@ settings-data-backup-scheduled-backups-on = Sekurkopio: aktiva
 settings-data-backup-scheduled-backups-off = Sekurkopio: malaktiva
 settings-data-backup-scheduled-backups-description = Aŭtomate protektu viajn legosignojn, historion, kaj aliajn datumojn. <a data-l10n-name="support-link">Pli da informo</a>
 settings-data-backup-last-backup-date = Lasta sekurkopio: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Sekurkopioj aktivaj
+settings-data-backup-scheduled-backups-off2 =
+    .label = Sekurkopioj malaktivaj
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Dosierujo por sekurkopioj
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Loko
 settings-data-backup-last-backup-location-show-in-folder = Montri en dosierujo

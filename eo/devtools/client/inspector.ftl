@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Plej proksima al: { $colorName }
 colorpicker-tooltip-hue-slider-title = Tono
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Diafaneco
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Pseŭdoklasoj specifaj por elemento

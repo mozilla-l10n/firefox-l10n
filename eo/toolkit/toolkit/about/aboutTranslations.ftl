@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Tradukado ne haveblas en tiu ĉi aparato.
     .message = Provu en alia aparato.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Tradukoj ne estas disponeblaj por via organizo
+    .message = Tio estas difinita de politiko de via administranto.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Malbloku tiun ĉi trajton por povi traduki tekston
+    .message = Ŝajne vi agordis la regilojn de AI por bloki tiun ĉi trajton. Malbloku ĝin iam por povi uzi ĝin.
+about-translations-feature-blocked-unblock-button = Malbloki
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Ne eblis ŝargi lingvojn
@@ -25,6 +34,8 @@ about-translations-language-load-error-message =
     .heading = Ne eblis ŝargi lingvojn.
     .message = Kontrolu vian retaliron kaj provu denove.
 about-translations-language-load-error-button = Klopodi denove
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Okazis problemo dum traduko.
 about-translations-translation-error-subtext = Bonvolu klopodi denove.
 about-translations-translation-error-button = Klopodi denove
 # An informational message displayed when the detected language is not supported.
