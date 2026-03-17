@@ -14,6 +14,13 @@ global-privacy-control-description =
     .accesskey = v
 non-technical-privacy-group =
     .label = Preferoj pri privateco en retejoj
+do-not-track-removal3 =
+    .message = Ni ne plu subtenas la trajton “Do Not Track”.
+non-technical-privacy-heading =
+    .label = Aldonaj protektoj
+preferences-privacy-relay-available =
+    .label = Sugesti retpoŝtajn maskojn de { -relay-brand-name }
+    .description = Tio kaŝas vian veran retpoŝtan adreson por protekti vian enirkeston kontraŭ trudmesaĝoj.
 non-technical-privacy-header = Preferoj pri privateco en retejoj
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -289,6 +296,8 @@ containers-remove-cancel-button = Ne forigi tiun ĉi ingon
 settings-tabs-show-image-in-preview =
     .label = Montri antaŭvidon kiam vi movas la muson super langeto
     .accessKey = a
+settings-tabs-drag-to-create-tab-groups =
+    .label = Trenu langetojn kune por krei grupojn de langetoj
 browser-layout-header2 =
     .label = Aranĝo de la retumilo
 browser-layout-horizontal-tabs2 =
@@ -524,9 +533,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Uzi la agordojn de via mastruma sistemo por “{ $localeName }” por la formo de datoj, horoj, numeroj kaj mezuroj.
+settings-spellcheck-header =
+    .label = Kontrolo de literumo
 check-user-spelling =
     .label = Kontroli literumadon dum tajpado
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Elŝuti vortarojn
+spellcheck-promo =
+    .heading = Kiel uzi la kontrolon de literumo
+    .message = Alklaku per la dekstra butono sur teksta kampo por ŝalti aŭ malŝalti la kontrolon de literumo aŭ por ŝanĝi la lingvon. Kelkaj kampoj ne subtenas kontrolon de literumo.
 
 ## General Section - Files and Applications
 
@@ -566,9 +582,11 @@ applications-filter =
 applications-type-column =
     .label = Tipo de enhavo
     .accesskey = E
+applications-type-heading = Tipo de enhavo
 applications-action-column =
     .label = Ago
     .accesskey = A
+applications-action-heading = Ago
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } dosiero
@@ -782,11 +800,20 @@ network-proxy-connection-learn-more = Pli da informo
 network-proxy-connection-settings =
     .label = Agordoj…
     .accesskey = g
+network-proxy-group2 =
+    .label = Agordoj de retperanto
+    .description = Agordi la manieron, kiel { -brand-short-name } konektiĝas al la reto.
+network-proxy-connection-settings2 =
+    .label = Agordi retperanton
+    .description = Ŝanĝo de tiuj ĉi agordoj povus kaŭzi konektajn problemojn
+    .accesskey = A
 
 ## Home Section
 
 home-new-windows-tabs-header = Novaj fenestroj kaj langetoj
 home-new-windows-tabs-description2 = Elektu tion, kion vi volas vidi je malfermo de via eka paĝo, novaj fenestroj aŭ novaj langetoj.
+home-section =
+    .heading = Eka paĝo kaj starto
 
 ## Home Section - Default Browser
 
@@ -1045,6 +1072,16 @@ search-one-click-desc = Elekti la alternativajn serĉilojn, kiuj aperos sub la a
 search-one-click-header-3 =
     .label = Aldonaj serĉiloj
     .description = Elekti serĉilojn kaj ŝparvojojn por via adresa strio.
+update-search-engine-success =
+    .message = Serĉilo sukcese ĝisdatigita
+search-edit-engine-2 =
+    .title = Modifi serĉilon
+search-delete-engine =
+    .title = Forigi serĉilon
+search-enable-engine =
+    .title = Aktivigi serĉilon
+search-outlink-to-extensions-page =
+    .title = Administri en etendaĵoj kaj etosoj
 search-choose-engine-column =
     .label = Serĉilo
 search-choose-keyword-column =

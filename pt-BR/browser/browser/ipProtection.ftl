@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Descubra a VPN, agora integrada diretamente no seu navegador
+ipprotection-feature-introduction-link-text-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-button-primary = Avançar
 ipprotection-feature-introduction-button-secondary-not-now = Agora não
 ipprotection-feature-introduction-button-secondary-no-thanks = Não, obrigado
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Entendi
 ## Panel
 
 unauthenticated-vpn-title = Experimente a VPN integrada no { -brand-product-name }
+unauthenticated-hide-location-message-2 = Oculte sua localização ao navegar no { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Tenha { $maxUsage } GB de dados gratuitos na VPN todo mês.
@@ -93,6 +96,12 @@ ipprotection-connection-status-network-error-description = Conecte-se à interne
 ipprotection-message-bandwidth-warning =
     .heading = Chegando perto do seu limite de VPN
     .message = Você tem { $usageLeft } GB de { $maxUsage } GB restante este mês.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Chegando perto do seu limite de VPN
+    .message = Você tem { $usageLeft } MB de { $maxUsage } GB restante este mês.
 ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar sua localização e adicionar criptografia extra à sua navegação.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure a VPN para ativar</a> toda vez que você abrir o { -brand-short-name }, para ter uma camada extra de proteção.
 ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } memoriza quais sites você configura para usar VPN. Você pode modificar quando quiser nas <a data-l10n-name="setting-link">configurações</a>.
