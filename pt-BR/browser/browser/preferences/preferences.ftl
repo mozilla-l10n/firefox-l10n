@@ -2099,6 +2099,8 @@ collection-description = Nos esforçamos para proporcionar escolhas e coletar so
 collection-privacy-notice = Aviso de privacidade
 collection-health-report-telemetry-disabled = Você não está mais permitindo que a { -vendor-short-name } capture dados técnicos e de interação. Todos os dados coletados anteriormente serão apagados em até 30 dias.
 collection-health-report-telemetry-disabled-link = Saiba mais
+backup-multi-profile-warning-message =
+    .message = Para garantir que essas alterações sejam incluídas nos seus backups, abra cada perfil e escolha “Fazer backup agora” nas configurações.
 collection-usage-ping =
     .label = Enviar ping de uso diário para a { -vendor-short-name }
     .accesskey = u
@@ -2195,6 +2197,12 @@ space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está ficando s
 certs-description2 =
     .label = Certificados
     .description = Configurar os certificados que o { -brand-short-name } usa para autenticação.
+certs-view2 =
+    .label = Gerenciar certificados
+    .accesskey = c
+certs-devices2 =
+    .label = Gerenciador de dispositivos de segurança
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
