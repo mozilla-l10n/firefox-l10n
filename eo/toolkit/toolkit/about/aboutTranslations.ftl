@@ -25,6 +25,14 @@ about-translations-language-load-error-message =
     .heading = Ne eblis ŝargi lingvojn.
     .message = Kontrolu vian retaliron kaj provu denove.
 about-translations-language-load-error-button = Klopodi denove
+about-translations-translation-error-subtext = Bonvolu klopodi denove.
+about-translations-translation-error-button = Klopodi denove
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Bedaŭrinde ni ankoraŭ ne subtenas la { $language }n
+about-translations-detected-language-unsupported-heading-unknown = Bedaŭrinde ni ankoraŭ ne subtenas tiun ĉi lingvon.
+about-translations-detected-language-unsupported-subtext = Bonvolu elekti alian lingvon.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Aldoni tradukotan tekston
