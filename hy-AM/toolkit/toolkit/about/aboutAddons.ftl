@@ -434,6 +434,7 @@ release-notes-error = Հնարավոր չեղավ բացել թողարկման 
 addon-permissions-heading = Թույլտվություններ
 addon-permissions-required-label = Պահանջված՝
 addon-permissions-empty = Այս ընդլայնումը չի պահանջում որևէ թույլատվություններ
+addon-permissions-required = Հիմնական գործառության համար անհրաժեշտ թույլտվություններ՝
 addon-permissions-learnmore = Իմանալ ավելին թույլտվությունների մասին
 recommended-extensions-heading = Երաշխավորված ընդլայնում
 recommended-themes-heading = Երաշխավորված հիմնապատկերներ
