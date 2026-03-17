@@ -2472,3 +2472,29 @@ security-privacy-status-update-button-label =
     .label = Ĝisdatigi { -brand-short-name }
 security-privacy-image-warning =
     .alt = Ŝildo kun krisigno, kiu montras zorgon pri viaj sekurecaj avertoj
+security-privacy-image-ok =
+    .alt = Ŝildo kun kontrolmarko, kiu montras ke vi ne havas nunajn sekurecajn problemojn
+security-privacy-issue-card =
+    .heading = Sekurecaj avertoj
+issue-card-reset-button =
+    .label = Rekomenci
+issue-card-dismiss-button =
+    .tooltiptext = Ignori
+    .aria-label = Ignori
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Plibonigita protekto kontraŭ spurado
+    .description = Retejoj uzas spuriloj por sekvi vin tra la reto kaj montri trudajn reklamojn. { -brand-short-name } protektas vin dum vi retumas per aŭtomata blokado de spuriloj kaj redonas al vi la regon de viaj ciferecaj spuroj.
+preferences-etp-level-standard =
+    .label = Norma
+    .description = Fortaj, fidindaj protektoj, kiuj glate funkcias kun la plimulto de retejoj.
+preferences-etp-level-strict =
+    .label = Rigora
+    .description = Pli fortaj protektoj, kiuj blokas pli da spuriloj sed povas ankaŭ misfunkciigi kelkajn retejojn.
+preferences-etp-level-custom =
+    .label = Personecigita
+    .description = Elektu kiujn protektojn aktivigi kaj kiujn ne.
+preferences-etp-status-advanced-button =
+    .label = Spertulaj agordoj
