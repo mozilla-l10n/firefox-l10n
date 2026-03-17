@@ -2117,6 +2117,8 @@ collection-description = Ni penas doni al vi plurajn eblojn, kaj kolekti nur tio
 collection-privacy-notice = Rimarko pri privateco
 collection-health-report-telemetry-disabled = Vi ne plu permesas al { -vendor-short-name } kapti teknikajn kaj interagajn datumojn. Ĉiuj antaŭaj datumoj estos forigitaj dum la venontaj 30 tagoj.
 collection-health-report-telemetry-disabled-link = Pli da informo
+backup-multi-profile-warning-message =
+    .message = Por certi ke tiu ĉi ŝanĝo eniros vian sekurkopiojn, malfermu ĉiun profilon kaj elektu “Fari sekurkopion nun“ en Agordoj.
 collection-usage-ping =
     .label = Sendi ping pri taga uzo al { -vendor-short-name }
     .accesskey = u
@@ -2177,11 +2179,16 @@ website-advertising-private-attribution-description = Tio ĉi permesas al retejo
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sekureco
+browsing-protection-group2 =
+    .label = Protekto kontraŭ trompa enhavo kaj danĝeraj programoj
+    .description = Danĝeraj retejoj kaj elŝutoj povas riski viajn datumojn kaj aparaton. { -brand-short-name } aŭtomate blokas ilin kaj avertas vin pri riskaj aŭ neatenditaj programoj.
 security-browsing-protection = Protekto kontraŭ trompa enhavo kaj danĝera programaro
 security-enable-safe-browsing =
     .label = Bloki danĝeran aŭ trompan enhavon
     .accesskey = B
 security-enable-safe-browsing-link = Pli da informo
+security-safe-browsing-warning =
+    .message = Malŝalto de tio ĉi reduktas la protekton kontraŭ trompoj, malicaj retejoj kaj danĝeraj elŝutoj.
 security-block-downloads =
     .label = Bloki danĝerajn elŝutojn
     .accesskey = d
@@ -2213,6 +2220,15 @@ space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -bran
 certs-description2 =
     .label = Atestiloj
     .description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.
+certs-description3 =
+    .label = Atestiloj
+    .description = Agordi la atestilojn, kiujn { -brand-short-name } uzas por kontroli sekurajn konektojn.
+certs-view2 =
+    .label = Administri atestilojn
+    .accesskey = a
+certs-devices2 =
+    .label = Administri sekurecajn aparatojn
+    .accesskey = s
 
 ## Privacy Section - HTTPS-Only
 

@@ -812,6 +812,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Novas janelas e abas
 home-new-windows-tabs-description2 = Escolha o que aparece ao abrir a página inicial, novas janelas e novas abas.
+home-section =
+    .heading = Página inicial e inicialização
 
 ## Home Section - Default Browser
 
@@ -1076,6 +1078,10 @@ search-edit-engine-2 =
     .title = Editar mecanismo de pesquisa
 search-delete-engine =
     .title = Excluir mecanismo de pesquisa
+search-enable-engine =
+    .title = Ativar mecanismo de pesquisa
+search-outlink-to-extensions-page =
+    .title = Gerenciamento de extensões e temas
 search-choose-engine-column =
     .label = Mecanismo de pesquisa
 search-choose-keyword-column =
@@ -1627,6 +1633,11 @@ history-remember-label = O { -brand-short-name } irá
     .accesskey = i
 history-remember-option-all =
     .label = Memorizar todo o histórico
+history-remember-option-never2 =
+    .label = Nunca memorizar o histórico
+    .description = Cada janela age como uma janela privativa. Quando ativado, extensões precisam ser permitidas.
+history-remember-option-custom2 =
+    .label = Personalização do histórico
 history-remember-option-never =
     .label = Nunca memorizar o histórico
 history-remember-option-custom =
@@ -1671,8 +1682,18 @@ history-clear-button =
     .accesskey = h
 history-header2 =
     .heading = Histórico
+history-section-header =
+    .label = Histórico
+    .description = Escolha o que você quer que o { -brand-short-name } memorize quando você fecha o navegador.
+history-custom-section-header =
+    .label = Configurações avançadas
+    .description = Personalize o que você quer que o { -brand-short-name } memorize quando você fecha o navegador.
+history-custom-button =
+    .label = Escolha o que você quer que o { -brand-short-name } memorize
 history-group =
     .label = Histórico
+history-remember-option-all2 =
+    .label = Memorizar o histórico
 
 ## Privacy Section - Site Data
 
