@@ -2339,6 +2339,8 @@ preferences-doh-radio-default =
 preferences-doh-radio-off =
     .label = Malŝaltita
     .description = Uzi vian norman servilon DNS
+preferences-doh-fallback-label =
+    .label = Ĉiam averti se sekura DNS ne estas disponebla
 preferences-doh-status-item-off =
     .message = DNS per HTTPS estas malŝaltita
 # Variables:
@@ -2354,6 +2356,26 @@ preferences-doh-status-item-not-active-bad-url =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS per HTTPS uzas la provizanton { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS per HTTPS ne funkcias ĉar ni trovis eraron ({ $reason }) dum la klopodo uzi la lokan provizanton { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS per HTTPS uzas la lokan provizanton { $name }
+preferences-doh-select-resolver-label =
+    .label = Elekti provizanton:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Uzi tiun ĉi provizanton por serĉi DNS per HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Tajpu personecigitan URL de provizanto
+preferences-doh-header2 =
+    .heading = DNS per HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2419,3 +2441,34 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Nuligi
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloki
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } staras garde
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } rekomendas kelkajn sekurecajn plibonigojn
+security-privacy-status-ok-label = La plibonigita protekto kontraŭ spurado estas ŝaltita
+security-privacy-status-problem-label = Ni trovis agordojn kiuj koncernas vian protekton
+security-privacy-status-problem-helper-label = Montri problemojn
+security-privacy-status-pending-trackers-label = Serĉo pri la nombro de spuriloj blokitaj de { -brand-short-name } dum la pasinta monato
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } spurilo blokita dum la lasta monato
+       *[other] { $trackerCount } spuriloj blokitaj dum la lasta monato
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Vi havas <a data-l10n-name="strict-tracking-protection">rigoran protekton</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Vi havas <a data-l10n-name="custom-tracking-protection">personecigitan protekton</a>
+security-privacy-status-up-to-date-label = Vi havas la lastan, plej sekuran version de { -brand-short-name }
+security-privacy-status-update-needed-label = Nova versio de { -brand-short-name } estas disponebla.
+security-privacy-status-update-error-label = { -brand-short-name } ne sukcesas ĝisdatigi sin mem
+security-privacy-status-update-checking-label = { -brand-short-name } kontrolas ĉu estas ĝisdatigoj
+security-privacy-status-update-needed-description = Ĝisdatigu por havi la lastajn plibonigojn rilate al rapideco, stabileco kaj sekureco.
+security-privacy-status-update-button-label =
+    .label = Ĝisdatigi { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Ŝildo kun krisigno, kiu montras zorgon pri viaj sekurecaj avertoj
