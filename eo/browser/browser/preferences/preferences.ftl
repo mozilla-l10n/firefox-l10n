@@ -2258,6 +2258,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS per HTTPS
+dns-over-https-group2 =
+    .label = DNS per HTTPS
+    .description = La sistemo de nomregnoj per HTTPS (DoH) ĉifras la serĉadon de retejoj. Por via retprovizanto aŭ aliaj estos do pli malfacile vidi kiujn retejojn vi pretas viziti.
 preferences-doh-description = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio kreas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 preferences-doh-description2 = Nomregna sistemo (DNS) tra HTTPS sendas vian peton por nomregna nomo tra ĉifrita konekto, kio provizas pli sekuran DNS kaj malhelpas al aliaj vidi, kiun retejon vi pretas aliri.
 # Variables:
@@ -2313,6 +2316,44 @@ preferences-doh-exceptions-description = { -brand-short-name } ne uzos sekuran D
 preferences-doh-manage-exceptions =
     .label = Administri esceptojn…
     .accesskey = e
+preferences-doh-overview-default =
+    .label = Norma protekto
+    .description = Uzi sekuran DNS en regionoj kie ĝi estas disponebla.
+preferences-doh-overview-custom =
+    .label = Personecigita
+    .description = Ĉiam uzi sekuran DNS elektante mem la provizanton kaj kun alternativo se tio ne funkcias.
+preferences-doh-overview-off =
+    .label = Malŝaltita
+    .description = Uzi vian norman servilon DNS.
+preferences-doh-advanced-button =
+    .label = Spertulaj agordoj
+preferences-doh-advanced-section =
+    .label = Spertulaj agordoj
+    .description = La sistemo de nomregnoj per HTTPS (DoH) ĉifras la serĉadon de retejoj. Por via retprovizanto aŭ aliaj estos do pli malfacile vidi kiujn retejojn vi pretas viziti.
+preferences-doh-manage-exceptions2 =
+    .label = Administri esceptojn
+    .accesskey = e
+preferences-doh-radio-default =
+    .label = Norma
+    .description = Uzi sekuran DNS en regionoj, kie ĝi disponeblas
+preferences-doh-radio-off =
+    .label = Malŝaltita
+    .description = Uzi vian norman servilon DNS
+preferences-doh-status-item-off =
+    .message = DNS per HTTPS estas malŝaltita
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS per HTTPS ne funkcias ĉar ni trovis eraron ({ $reason }) dum la klopodo uzi la provizanton { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS per HTTPS ne funkcias ĉar ni ricevis nevalidan URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS per HTTPS uzas la provizanton { $name }
 
 ## The following strings are used in the Download section of settings
 
