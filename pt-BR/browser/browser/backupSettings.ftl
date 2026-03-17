@@ -51,9 +51,15 @@ settings-data-backup-last-backup-location-show-in-folder = Mostrar na pasta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Houve um erro ao criar seu backup em { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Faça backup de suas senhas e métodos de pagamento e mantenha todos os seus dados protegidos com criptografia.
+settings-data-toggle-encryption-label2 =
+    .label = Salvar cópia de segurança de dados sensíveis
+    .description = Salvar senhas e métodos de pagamento, além de manter todos os dados protegidos com criptografia.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nome do arquivo: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaurar dados
+    .description = Recuperar os dados do { -brand-product-name } da última vez que foram salvos.
 settings-data-backup-restore-scheduled-off =
     .label = Restaurar seus dados
     .description = Usar um backup do { -brand-product-name } de outro dispositivo para restaurar seus dados.
@@ -116,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Desativar e excluir backup
 restore-from-backup-header = Restaurar seus dados
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = O que será restaurado?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Isso substituirá todos os seus dados atuais do { -brand-short-name } pelos do backup de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -133,6 +142,13 @@ restore-from-backup-password-description = Isto desbloqueia seu backup criptogra
 restore-from-backup-cancel-button = Cancelar
 restore-from-backup-confirm-button = Restaurar e reiniciar
 restore-from-backup-restoring-button = Restaurando…
+restore-from-backup-type-group-label =
+    .label = Substituir o perfil atual?
+restore-from-backup-type-replace =
+    .label = Substituir todos os dados por este backup
+restore-from-backup-type-add =
+    .label = Manter dados e criar novo perfil
+restore-from-backup-profiles-disabled-message = Todos os dados atuais do { -brand-short-name } são substituídos pelos do backup.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -258,6 +274,15 @@ other-backup-files-founds =
         [one] <b>Nota:</b> Encontrado { $numberOfOtherBackupsFound } outro arquivo de backup
        *[other] <b>Nota:</b> Encontrados { $numberOfOtherBackupsFound } outros arquivos de backup
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> criado em { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restaurado de { $deviceName } em { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } às { DATETIME($date, hour: "2-digit", minute: " 2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

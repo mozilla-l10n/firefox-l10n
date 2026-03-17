@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via retumilo.
+ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-button-primary = Antaŭen
 ipprotection-feature-introduction-button-secondary-not-now = Ne nun
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, dankon
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Mi komprenis
 ## Panel
 
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
+unauthenticated-hide-location-message-2 = Kaŝu vian lokon dum vi retumas per { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
@@ -93,6 +96,12 @@ ipprotection-connection-status-network-error-description = Konektiĝu al la reto
 ipprotection-message-bandwidth-warning =
     .heading = Vi alproksimiĝas al via limo en VPN
     .message = Restas al vi { $usageLeft } GB el { $maxUsage } GB por la cetero de la monato.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Vi alproksimiĝas al via limo en VPN
+    .message = Restas al vi { $usageLeft } MB el { $maxUsage } GB por tiu ĉi monato.
 ipprotection-message-continuous-onboarding-intro = Ŝaltu VPN por kaŝi vian lokon kaj aldoni kroman tavolon de ĉifrado al via retumo.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Aŭtomate ŝaltu VPN</a> ĉiufoje kiam vi malfermas { -brand-short-name } por havi aldonan tavolon de protekto.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memoros la retejojn kiujn vi agordis por viziti pere de VPN. Vi povas modifi ilin iam ajn en <a data-l10n-name="setting-link">agordoj</a>.
@@ -111,6 +120,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Vi alproksimiĝas a
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Vi preskaŭ elĉerpas viajn datumojn en VPN.</strong> Restas al vi { $usageLeft } GB. Elĉerpinte ilin via VPN paŭzos ĝis la unuan tagon de la venonta monato, kiam la datumoj estos replenigitaj.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Vi preskaŭ elĉerpas viajn datumojn en VPN.</strong> Restas al vi { $usageLeft } MB. Elĉerpinte ilin via VPN paŭzos ĝis la unua tago de la venonta monato, kiam la datumoj estos replenigitaj.
 
 ## IP Protection Settings
 
@@ -120,6 +132,11 @@ ip-protection-description =
 ip-protection-learn-more = Pli da informo
 ip-protection-site-exceptions =
     .label = Specifaj agordoj por retejoj
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Provu la integritan VPN de { -brand-short-name }
+    .message = Kaŝu vian lokon dum vi retumas per { -brand-short-name }. Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj VPN.
 ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -171,6 +188,7 @@ ip-protection-bandwidth-hit-for-the-month = Vi elĉerpis la { $maxUsage } GB de 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = La unuan tagon de ĉiu monato { $maxUsage } GB estos disponigitaj.
+ip-protection-bandwidth-header-1 = Monata datuma limo
 
 ## IP Protection bandwidth reset callout
 
@@ -183,6 +201,11 @@ ipprotection-bandwidth-reset-title =
     }
 ipprotection-bandwidth-reset-text = Ŝaltu vian VPN por aldona privateca plibonigo, senpage ĉiumonate.
 ipprotection-bandwidth-reset-button = Mi komprenis
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Tiu ĉi retejo povus ne funkcii per VPN.</strong> Provu komenci seancon aŭ malŝalti la VPN dum vi uzas tiun ĉi retejon.
+ipp-activator-breakage-turn-off-warning = <strong>Tiu ĉi retejo povus ne funkcii per VPN.</strong> Provu malŝalti la VPN dum vi uzas tiun ĉi retejon.
 
 ## IP Protection alerts
 
