@@ -19,6 +19,11 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Preklady nie sú pre vašu organizáciu k dispozícii
     .message = Toto je politika nastavená vaším správcom.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Ak chcete preložiť text, odblokujte túto funkciu
+    .message = Zdá sa, že ste aktualizovali ovládacie prvky umelej inteligencie, aby ste túto funkciu zablokovali. Kedykoľvek ju môžete odblokovať a začať ju používať.
+about-translations-feature-blocked-unblock-button = Odblokovať
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Nepodarilo sa načítať jazyky
@@ -29,6 +34,9 @@ about-translations-language-load-error-message =
     .heading = Nepodarilo sa načítať jazyky.
     .message = Skontrolujte svoje internetové pripojenie a skúste to znova.
 about-translations-language-load-error-button = Skúsiť znova
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Vyskytol sa problém s prekladom
+about-translations-translation-error-subtext = Skúste to znova.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Vložte text, ktorý chcete preložiť

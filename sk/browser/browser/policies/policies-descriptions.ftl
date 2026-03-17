@@ -135,6 +135,7 @@ policy-SearchSuggestEnabled = Povolí alebo zakáže návrhy vyhľadávania.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Pridá alebo odstráni moduly PKCS #11.
 policy-ShowHomeButton = Zobrazí tlačidlo Domov na paneli nástrojov.
+policy-SitePolicies = Zásady špecifické pre danú stránku.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Pri spustení nezobrazí Podmienky používania a Vyhlásenie o ochrane osobných údajov. Potvrdzujete, že prijímate a máte oprávnenie prijať Podmienky používania v mene všetkých jednotlivcov, ktorým poskytnete prístup k tomuto prehliadaču.
 policy-SSLVersionMax = Nastaví maximálnu verziu SSL.

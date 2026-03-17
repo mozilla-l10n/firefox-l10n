@@ -90,6 +90,9 @@ delete-profile-bookmarks = Záložky
 delete-profile-history = História (navštívené stránky, súbory cookie, údaje stránok)
 delete-profile-autofill = Automaticky vypĺňané údaje (adresy, spôsoby platby)
 delete-profile-logins = Heslá
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Odstránenie profilu “{ $profilename }”
 
 ##
 
