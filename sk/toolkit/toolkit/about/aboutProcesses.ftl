@@ -66,6 +66,7 @@ about-processes-unknown-process = Iný: { $type } ({ $pid })
 about-processes-web-isolated-property-private = súkromný
 about-processes-web-isolated-property-serviceworker = skript typu worker
 about-processes-web-isolated-property-jit-disabled = JIT zakázané
+about-processes-web-isolated-property-with-coop-coep = izolovaný cross-origin
 
 ## Isolated process names
 ## Variables:
