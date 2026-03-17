@@ -1880,6 +1880,9 @@ permissions-speaker2 =
     .label = Բարձրախոս
 permissions-notification2 =
     .label = Ծանուցումներ
+permissions-header3 =
+    .label = Թույլտվություններ
+    .description = Կառավարեք, թե որ կայքերը կարող են մատչվել, կառավարվել կամ գործարկվել:
 
 ## Privacy Section - Data Collection
 

@@ -6,6 +6,10 @@
 ### Localization for about:webauthn, a security token management page
 
 
+## Section titles
+
+about-webauthn-pin-required-section-title = PIN է պահանջվում
+
 ## Buttons
 
 about-webauthn-cancel-button = Չեղարկել
