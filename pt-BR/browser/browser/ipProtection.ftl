@@ -120,6 +120,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Chegando perto do s
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Você está quase sem dados de VPN.</strong> Tem { $usageLeft } GB restante. Após usar tudo, a VPN fica em pausa até que os dados sejam renovados no primeiro dia do próximo mês.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Você está quase sem dados de VPN.</strong> Tem { $usageLeft } MB restante. Após usar tudo, a VPN fica em pausa até que os dados sejam renovados no primeiro dia do próximo mês.
 
 ## IP Protection Settings
 
@@ -129,6 +132,11 @@ ip-protection-description =
 ip-protection-learn-more = Saiba mais
 ip-protection-site-exceptions =
     .label = Configurações específicas por site
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Experimente a VPN integrada no { -brand-short-name }
+    .message = Oculte sua localização enquanto navega no { -brand-short-name }. Tenha { $maxUsage } GB de dados gratuitos de VPN todo mês.
 ip-protection-not-opted-in-button = Introdução
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
