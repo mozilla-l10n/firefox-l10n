@@ -1767,6 +1767,13 @@ sitedata-cookies-exceptions2 =
     .label = Gerenciar exceções
     .accesskey = x
     .description = Você pode especificar quais sites sempre ou nunca têm permissão para usar cookies e dados de sites.
+sitedata-settings3 =
+    .label = Limpar dados de sites específicos
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Gerenciar exceções
+    .accesskey = x
+    .description = Escolha como lidar com cookies e dados de sites específicos.
 cookies-site-data-group =
     .label = Cookies e dados de sites
 
