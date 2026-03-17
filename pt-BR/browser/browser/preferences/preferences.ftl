@@ -2389,3 +2389,39 @@ security-privacy-status-problem-header = O { -brand-short-name } recomenda algum
 security-privacy-status-ok-label = A proteção aprimorada contra rastreamento está ativada
 security-privacy-status-problem-label = Encontramos configurações que afetam sua proteção
 security-privacy-status-problem-helper-label = Ver problemas
+security-privacy-status-pending-trackers-label = Verificando quantos rastreadores o { -brand-short-name } bloqueou no último mês
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } rastreador bloqueado no último mês
+       *[other] { $trackerCount } rastreadores bloqueados no último mês
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Você tem <a data-l10n-name="strict-tracking-protection">proteção rigorosa</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Você tem <a data-l10n-name="custom-tracking-protection">proteção personalizada</a>
+security-privacy-status-up-to-date-label = Você tem a versão mais recente e segura do { -brand-short-name }
+security-privacy-status-update-needed-label = Está disponível uma nova versão do { -brand-short-name }.
+security-privacy-status-update-error-label = O { -brand-short-name } está tendo problemas em se atualizar
+security-privacy-status-update-checking-label = O { -brand-short-name } está verificando se há atualizações
+security-privacy-status-update-needed-description = Atualize para as atualizações mais recentes de velocidade, estabilidade e segurança.
+security-privacy-status-update-button-label =
+    .label = Atualizar o { -brand-short-name }
+security-privacy-issue-card =
+    .heading = Avisos de segurança
+issue-card-reset-button =
+    .label = Redefinir
+issue-card-dismiss-button =
+    .tooltiptext = Descartar
+    .aria-label = Descartar
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = Configurações avançadas
+preferences-etp-header =
+    .heading = Proteção aprimorada contra rastreamento
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Suspeitos de ser rastreadores de identidade digital (fingerprinters)
