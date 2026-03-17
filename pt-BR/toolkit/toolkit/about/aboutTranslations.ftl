@@ -15,6 +15,7 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = O recurso de tradução não está disponível neste dispositivo.
     .message = Experimente mudar para outro dispositivo.
+about-translations-feature-blocked-unblock-button = Desbloquear
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Não foi possível carregar idiomas
@@ -25,6 +26,8 @@ about-translations-language-load-error-message =
     .heading = Não foi possível carregar idiomas.
     .message = Verifique a conexão com a internet e tente novamente.
 about-translations-language-load-error-button = Tentar novamente
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Houve um problema ao traduzir
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Adicione texto para traduzir

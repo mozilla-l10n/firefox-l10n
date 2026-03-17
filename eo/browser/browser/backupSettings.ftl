@@ -51,9 +51,18 @@ settings-data-backup-last-backup-location-show-in-folder = Montri en dosierujo
 settings-data-backup-last-backup-location-edit = Modifi…
 settings-data-create-backup-error = Okazis eraro dum la kreado de via sekurkopio je { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Faru sekurkopion de viaj pasvortoj kaj pagmetodoj kaj tenu ĉiujn viajn datumojn sekuraj per ĉifrado.
+settings-data-toggle-encryption-label2 =
+    .label = Faru sekurkopion de viaj delikataj datumoj
+    .description = Faru sekurkopion de viaj pasvortoj kaj pagmetodoj, kaj cetere gardu ĉiujn viajn datumojn ĉifrite sekuraj.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomo de dosiero: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restarigi viajn datumojn
+    .description = Rehavu viajn datumojn de { -brand-product-name } el via lasta sekurkopio.
+settings-data-backup-restore-scheduled-off =
+    .label = Restarigi viajn datumojn
+    .description = Uzu sekurkopion de { -brand-product-name } en alia aparato por rehavi viajn datumojn.
 settings-data-backup-restore-header = Restarigi viajn datumojn
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -65,8 +74,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Elekti sekurkopian d
 
 settings-data-backup-scheduled-backups-on-restore-description = Restarigi viajn datumojn de { -brand-product-name } el la lasta sekurkopio.
 settings-data-backup-scheduled-backups-on-restore-choose = Restarigi…
+settings-sensitive-data =
+    .label = Delikataj datumoj
 settings-data-toggle-encryption-label = Faru sekurkopion de viaj delikataj datumoj
 settings-data-toggle-encryption-support-link = Pli da informo
+settings-data-change-password2 =
+    .label = Ŝanĝi pasvorton
 settings-data-change-password = Ŝanĝi pasvorton…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -109,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Malŝalti kaj forigi sekurkopion
 restore-from-backup-header = Restarigi viajn datumojn
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Kio estos restarigita?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Tio ĉi anstataŭigos ĉiujn nunajn datumon de { -brand-short-name } per la datumoj de via sekurkopio el { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -126,6 +142,13 @@ restore-from-backup-password-description = Tio ĉi malblokas vian ĉifritan seku
 restore-from-backup-cancel-button = Nuligi
 restore-from-backup-confirm-button = Restarigi kaj restarti
 restore-from-backup-restoring-button = Restarigo…
+restore-from-backup-type-group-label =
+    .label = Ĉu anstataŭigi nunan profilon?
+restore-from-backup-type-replace =
+    .label = Anstataŭigi ĉiujn datumojn per tiu ĉi sekurkopio
+restore-from-backup-type-add =
+    .label = Gardi datumojn kaj krei novan profilon
+restore-from-backup-profiles-disabled-message = Tio ĉi anstataŭigos ĉiujn viajn nunajn datumojn de { -brand-short-name } per via sekurkopio.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
