@@ -1633,6 +1633,11 @@ history-remember-label = { -brand-short-name }
     .accesskey = F
 history-remember-option-all =
     .label = memoros historion
+history-remember-option-never2 =
+    .label = Neniam memori historion
+    .description = Ĉiu fenestro agas kvazaŭ privata fenestro. Kiam tio ĉi estas ŝaltita, etendaĵoj devas esti permesitaj.
+history-remember-option-custom2 =
+    .label = Personecigi historion
 history-remember-option-never =
     .label = neniam memoros historion
 history-remember-option-custom =
@@ -1675,8 +1680,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Viŝi historion…
     .accesskey = V
+history-header2 =
+    .heading = Historio
+history-section-header =
+    .label = Historio
+    .description = Elekti kion vi volas ke { -brand-short-name } memoru kiam vi fermas la retumilon.
+history-custom-section-header =
+    .label = Spertulaj agordoj
+    .description = Personecigi kion vi volas ke { -brand-short-name } memoru kiam vi fermas la retumilon.
+history-custom-button =
+    .label = Elekti kion vi volas ke { -brand-short-name } memoru
 history-group =
     .label = Historio
+history-remember-option-all2 =
+    .label = Memori historion
 
 ## Privacy Section - Site Data
 
@@ -1687,17 +1704,27 @@ sitedata-total-size-calculating = Kalkulo de datuma kaj stapla grando de retejo�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Retejoj uzas nun <strong>{ $value } { $unit }</strong> da diska spaco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size2 = Viaj konservitaj kuketoj, historio, retejaj datumoj kaj staplo uzas nuntempe entute <strong>{ $value } { $unit }</strong> da diska spaco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Viaj konservitaj kuketoj, retejaj datumoj kaj stokejo uzas nuntempe { $value } { $unit } da diska spaco.
 sitedata-learn-more = Pli da informo
+sitedata-delete-on-close2 =
+    .label = Viŝi kuketojn kaj retejajn datumojn ĉiu foje, kiam vi fermas { -brand-short-name }
+    .accesskey = V
 sitedata-delete-on-close =
     .label = Forigi kuketojn kaj retejajn datumojn je fermo de { -brand-short-name }
     .accesskey = F
 sitedata-delete-on-close-private-browsing3 =
     .message = Konforme al viaj agordoj pri historio, { -brand-short-name } forigos kuketojn kaj retejajn datumojn el via seanco, kiam vi fermas la retumilon.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = La historio ne estos konservita.
+    .message = { -brand-short-name } viŝas kuketojn kaj retejajn datumojn el viaj seancoj, kiam vi fermas la retumilon.
 sitedata-delete-on-close-private-browsing = En la konstanta reĝimo de privata retumo, kuketoj kaj retejaj datumoj estos forviŝitaj je ĉiu fermo de { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Konforme al viaj agordoj pri historio, { -brand-short-name } forigos kuketojn kaj retejajn datumojn el via seanco, kiam vi fermas la retumilon.
 sitedata-allow-cookies-option =
@@ -1743,6 +1770,16 @@ sitedata-cookies-exceptions2 =
     .label = Administri esceptojn
     .accesskey = e
     .description = Vi povas specifi, kiuj retejoj ĉiam aŭ neniam rajtas uzi kuketojn kaj retejajn datumojn.
+sitedata-heading =
+    .label = Retumaj datumoj
+    .description = Administri viajn kuketojn, historion, staplon, retejajn datumojn, kaj pli.
+sitedata-settings3 =
+    .label = Viŝi datumojn por specifaj retejoj
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Administri esceptojn
+    .accesskey = A
+    .description = Elektu kiel specifaj retejoj traktas kuketojn kaj retejajn datumojn.
 cookies-site-data-group =
     .label = Kuketoj kaj retejaj datumoj
 
@@ -2009,6 +2046,15 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Administri redirektojn
+    .accesskey = r
+    .searchkeywords = ŝpruc,ŝprucfenestro
+permissions-addon-install-warning3 =
+    .label = Montri averton kiam retejoj volas instali etendaĵojn
+    .accesskey = M
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Administri esceptojn pri ŝprucaĵoj kaj redirektoj de aliaj retejoj
     .accesskey = e
@@ -2054,6 +2100,9 @@ permissions-speaker2 =
     .label = Soneligiloj
 permissions-notification2 =
     .label = Sciigoj
+permissions-header3 =
+    .label = Permesoj
+    .description = Administri kion retejoj povas aliri, regi aŭ funkciigi.
 
 ## Privacy Section - Data Collection
 
