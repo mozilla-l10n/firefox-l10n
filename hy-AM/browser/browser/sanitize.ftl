@@ -60,7 +60,7 @@ item-history-and-downloads =
     .accesskey = Դ
 item-history-and-downloads-description2 = Մաքրում է կայքի և ներբեռնումների պատմությունը
 item-cookies =
-    .label = Cookie-ները
+    .label = Թխուկներ
     .accesskey = C
 # Variables:
 #   $amount (Number) - Amount of site data currently stored on disk

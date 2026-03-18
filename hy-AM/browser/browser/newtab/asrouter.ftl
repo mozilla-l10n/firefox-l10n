@@ -183,6 +183,8 @@ firefoxview-spotlight-promo-secondarybutton = Բաց թողնել
 ## Cookie Banner Handling CFR
 
 cfr-cbh-header = Թույլատրե՞լ { -brand-short-name }-ին մերժել թխուկների պաստառները:
+cfr-cbh-confirm-button = Մերժել թխուկների պաստառները
+    .accesskey = R
 cfr-cbh-dismiss-button = Ոչ հիմա
     .accesskey = N
 cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին

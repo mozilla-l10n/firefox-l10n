@@ -123,9 +123,13 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = Թխուկների ազդերիզի կրճատում
+protections-panel-cookie-banner-blocker-header = Թխուկների ազդերիզի արգելափակիչ
 protections-panel-cookie-banner-handling-enabled = Միացված է այս կայքի համար
 protections-panel-cookie-banner-handling-disabled = Անջատված է այս կայքի համար
 protections-panel-cookie-banner-handling-undetected = Կայքը ներկայումս չի աջակցվում
+protections-panel-cookie-banner-view-title =
+    .title = Թխուկների ազդերիզի կրճատում
 protections-panel-cookie-banner-view-cancel = Չեղարկել
 protections-panel-cookie-banner-view-turn-off = Անջատել
 protections-panel-cookie-banner-view-turn-on = Միացնել
