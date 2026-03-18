@@ -2100,6 +2100,9 @@ permissions-speaker2 =
     .label = Saída de áudio
 permissions-notification2 =
     .label = Notificações
+permissions-header3 =
+    .label = Permissões
+    .description = Gerencie quais sites podem acessar, controlar ou acionar.
 
 ## Privacy Section - Data Collection
 
