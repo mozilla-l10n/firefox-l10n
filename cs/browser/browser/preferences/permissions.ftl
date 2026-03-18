@@ -186,7 +186,7 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Tyto servery požádaly o přístup k aplikacím a službám na tomto zařízení. Můžete jim ho povolit nebo zakázat.
 permissions-site-localhost-disable-label =
     .label = Blokovat nové žádosti o přístup k aplikacím a službám na tomto zařízení
-permissions-site-localhost-disable-desc = Tím se zabrání tomu, aby všechny webové stránky, které nejsou uvedeny výše, požadovaly přístup k aplikacím a službám v tomto zařízení. Tímto postupem můžete porušit některé funkce webových stránek.
+permissions-site-localhost-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o přístup k aplikacím a službám v tomto zařízení. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
 
 ## Site Permissions - Local network
 
