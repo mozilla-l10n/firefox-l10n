@@ -1359,6 +1359,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Լրացնել օգտվողի անունները և գաղտնաբառերն ինքնաբերաբար
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = Պահել և ինքնալրացնել օգտանուններն ու գաղտնաբառերը
+    .accesskey = f
 forms-saved-passwords =
     .label = Պահված գաղտնաբառեր
     .accesskey = d
@@ -1387,6 +1390,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Գաղտնաբառերը լրացնելու և կառավարելու համար պահանջել սարքի մուտք գործում
+forms-os-reauth-2 =
+    .label = Գաղտնաբառերը կառավարելու համար պահանջել սարք մուտք գործել
 forms-primary-pw-learn-more-link = Իմանալ ավելին
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1451,6 +1456,13 @@ autofill-payment-methods-checkbox-message-2 =
     .accesskey = p
 autofill-payment-methods-manage-payments-title =
     .heading = Կառավարել վճարամիջոցները
+autofill-payment-methods-manage-payments-button =
+    .label = Կառավարել վճարամիջոցները
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Պահանջել սարքում մուտք գործել՝ վճարման եղանակները ինքնալրացնելու և կառավարելու համար
+    .accesskey = o
 autofill-payment-methods-add-button = Ավելացնել նոր վճարամիջոց
 payments-list-header =
     .label = Վճարամիջոցներ
