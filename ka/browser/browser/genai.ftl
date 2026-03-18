@@ -248,7 +248,7 @@ link-preview-settings-enable =
 link-preview-settings-key-points =
     .label = ნებართვა, რომ ხელგონი წაიკითხავს გვერდის დასაწყისს და გამოკვეთს საკვანძო საკითხებს
 link-preview-settings-long-press =
-    .label = მალსახმობი: დაწკაპეთ და დააყოვნეთ ბმულზე 1 წამი (ხანგრძლივი დაჭერა)
+    .label = მალსახმობი: დაწკაპეთ და დააყოვნეთ ბმულზე 1 წამი (ხანგრძლივი დაჭერით)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = გსურთ, უფრო ვრცლად იხილოთ ხელგონით?
 # Message that appears when user is shown the opt-in flow for link previews
