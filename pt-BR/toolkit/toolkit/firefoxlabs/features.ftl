@@ -80,3 +80,4 @@ experimental-features-semantic-history-search-description = Usar um modelo local
 # Tab Notes
 experimental-features-tab-notes =
     .label = Nota de aba
+experimental-features-tab-notes-description = Nota de aba é um recurso experimental que permite adicionar notas adesivas às abas do navegador. Anote o contexto, lembretes ou as próximas etapas para que você possa voltar e lembrar por que abriu a página. Adoraremos receber sua opinião para continuar melhorando este recurso. <a data-l10n-name="connect">Compartilhar opinião</a>
