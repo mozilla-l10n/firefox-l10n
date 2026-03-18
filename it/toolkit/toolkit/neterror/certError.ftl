@@ -211,6 +211,8 @@ certerror-mitm-title = Un software impedisce a { -brand-short-name } di connette
 
 fp-certerror-page-title = Attenzione: rischio per la sicurezza
 fp-certerror-body-title = Fai attenzione. Qualcosa sembra fuori posto.
+fp-certerror-illustration-alt =
+    .alt = Illustrazione di una volpe che osserva un cartello di avvertimento arancione.
 fp-certerror-why-site-dangerous = Che cosa rende il sito pericoloso?
 fp-certerror-what-can-you-do = Che cosa posso fare per risolvere?
 fp-certerror-advanced-title = Avanzate
