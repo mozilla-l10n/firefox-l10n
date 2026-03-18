@@ -28,6 +28,9 @@ about-translations-language-load-error-message =
 about-translations-language-load-error-button = Tentar novamente
 # An error message displayed when a translation request fails.
 about-translations-translation-error-heading = Houve um problema ao traduzir
+about-translations-translation-error-subtext = Tente novamente.
+about-translations-translation-error-button = Tentar novamente
+about-translations-detected-language-unsupported-subtext = Escolha outro idioma.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Adicione texto para traduzir
