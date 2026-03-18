@@ -2517,6 +2517,12 @@ preferences-etp-reload-tabs-hint-button =
     .label = Recarregar todas as abas
 preferences-etp-rfp-warning-message =
     .message = Você está usando Resist Fingerprinting (RFP), que substitui algumas configurações de proteção contra rastreamento de identidade digital do { -brand-short-name }. Isso pode fazer com que alguns sites não funcionem corretamente.
+preferences-etp-level-warning-message =
+    .heading = Atenção! Alguns sites podem não funcionar como esperado.
+    .message = Alguns sites incorporam rastreadores em seus recursos ou conteúdo. Quando o { -brand-short-name } os bloqueia, um site pode não funcionar corretamente. Experimente usar “Corrigir problemas em sites” ou desativar a proteção contra rastreamento no site.
+preferences-etp-manage-exceptions-button =
+    .label = Gerenciar exceções
+    .description = Gerenciar sites em que a proteção aprimorada contra rastreamento é desativada.
 preferences-etp-customize-header =
     .heading = Personalizar a proteção contra rastreamento
 preferences-etp-reset =
@@ -2526,6 +2532,9 @@ preferences-etp-reset-standard-button =
     .label = Redefinir para normal
 preferences-etp-reset-strict-button =
     .label = Redefinir para rigoroso
+preferences-etp-custom-control-group =
+    .label = Proteção contra rastreamento
+    .description = Escolher quais proteções ativar ou desativar.
 preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
@@ -2544,3 +2553,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Suspeitos de ser rastreadores de identidade digital (fingerprinters)
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Suspeitos de ser rastreadores de identidade digital (fingerprinters)
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Rastreadores de identidade digital (fingerprinters) conhecidos não são bloqueados
+    .description = Isto pode permitir que alguns rastreadores sigam você sem usar cookies.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookies de terceiros estão habilitados.
+    .description = Cookies de terceiros são usados para rastrear você de um site para outro.
