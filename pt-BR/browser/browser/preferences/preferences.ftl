@@ -1722,6 +1722,9 @@ sitedata-delete-on-close =
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Com base nas configurações do histórico, o { -brand-short-name } exclui cookies e dados de sites de sua sessão quando você fecha o navegador.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = O histórico não é salvo
+    .message = O { -brand-short-name } limpa cookies e dados de sites da sessão quando você fecha o navegador.
 sitedata-delete-on-close-private-browsing = No modo de navegação privativa permanente, cookies e dados de sites são sempre limpos quando o { -brand-short-name } é fechado.
 sitedata-delete-on-close-private-browsing2 = Com base nas configurações do histórico, o { -brand-short-name } exclui cookies e dados de sites de sua sessão quando você fecha o navegador.
 sitedata-allow-cookies-option =
@@ -1767,6 +1770,9 @@ sitedata-cookies-exceptions2 =
     .label = Gerenciar exceções
     .accesskey = x
     .description = Você pode especificar quais sites sempre ou nunca têm permissão para usar cookies e dados de sites.
+sitedata-heading =
+    .label = Dados de navegação
+    .description = Gerencie seus cookies, histórico, cache, dados de sites e muito mais
 sitedata-settings3 =
     .label = Limpar dados de sites específicos
     .accesskey = s
@@ -2038,6 +2044,15 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear abertura de janelas e redirecionamento de terceiros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button3 =
+    .label = Gerenciar redirecionamento
+    .accesskey = e
+    .searchkeywords = popup, abertura de janelas
+permissions-addon-install-warning3 =
+    .label = Avisar quando sites tentam instalar extensões
+    .accesskey = v
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
