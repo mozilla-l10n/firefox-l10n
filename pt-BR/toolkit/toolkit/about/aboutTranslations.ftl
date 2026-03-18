@@ -15,6 +15,10 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = O recurso de tradução não está disponível neste dispositivo.
     .message = Experimente mudar para outro dispositivo.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = O recurso de tradução não está disponível na sua organização
+    .message = Esta é uma diretiva definida pelo seu administrador.
 about-translations-feature-blocked-unblock-button = Desbloquear
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
