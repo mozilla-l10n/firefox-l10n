@@ -141,12 +141,12 @@ permissions-site-autoplay-desc = Níže můžete nastavit výjimky a vlastní na
 ## Site Permissions - Notifications
 
 permissions-site-notification-window2 =
-    .title = Oprávnění posílat oznámení
+    .title = Oprávnění zasílat oznámení
     .style = { permissions-window2.style }
-permissions-site-notification-desc = Následující servery požádaly o povolení vám posílat oznámení. Zde můžete určit, které servery mají nebo nemají povoleno vám oznámení posílat. Můžete zde také zablokovat nové žádosti o povolení.
+permissions-site-notification-desc = Následující servery požádaly o povolení vám zasílat oznámení. Zde můžete určit, které servery mají nebo nemají povoleno vám oznámení zasílat. Můžete zde také zablokovat nové žádosti o povolení.
 permissions-site-notification-disable-label =
-    .label = Blokovat nové žádosti o povolení posílat oznámení
-permissions-site-notification-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o povolení vám posílat oznámení. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
+    .label = Blokovat nové žádosti o povolení zasílat oznámení
+permissions-site-notification-disable-desc = Tímto zakážete všem serverům, které nejsou v seznamu výše, požádat o povolení vám zasílat oznámení. Při blokování žádostí nemusí některé funkce webových stránek správně fungovat.
 
 ## Site Permissions - Location
 
