@@ -13,6 +13,10 @@
 genai-prompts-quiz =
     .label = اختبرني
     .value = يُرجى اختباري في هذا الجزء. اطرح عليّ أنواعًا مختلفة من الأسئلة، على سبيل المثال: اختيار من متعدد، صح أو خطأ، وأسئلة ذات إجابات قصيرة. انتظر ردي قبل الانتقال إلى السؤال التالي.
+# This prompt is added to the beginning of selection prompts sent to a chatbot.
+# $tabTitle (string) - title of the webpage
+# $selection (string) - selected text
+genai-prompt-prefix-selection = أنا في الصفحة "{ $tabTitle }" مع تحديد "{ $selection }".
 
 ## Chatbot menu shortcuts
 
@@ -20,23 +24,51 @@ genai-prompts-quiz =
 genai-menu-ask-provider =
     .label = اسأل { $provider }
 # $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = افتح { $provider }
+# $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = أزِل { $provider }
+genai-menu-remove-sidebar =
+    .label = أزل من الشريط الجانبي
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = اسأل { $provider }
+genai-menu-new-badge = جديد
+genai-menu-summarize-page = لخص الصفحة
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = اسأل { $provider }…
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = اسأل { $provider }
+    .accesskey = ا
 
 ## Chatbot header
 
 genai-header-provider-menu =
     .title = اختر روبوت المحادثة
+genai-header-settings-button =
+    .title = إعدادات دردشة الذكاء الاصطناعي
 genai-header-options-button =
     .title = افتح القائمة
 genai-header-close-button =
     .title = أغلق
+# $provider (string) - name of the provider
+genai-options-reload-provider =
+    .label = أعد تحميل { $provider }
+genai-options-show-shortcut =
+    .label = أظهِر الاختصار عند تحديد النص
+genai-options-hide-shortcut =
+    .label = أخفِ الاختصار عند تحديد النص
+
+## Chatbot footer
+
+genai-page-button-summarize = لخص الصفحة
 
 ## Chatbot onboarding
 
+genai-onboarding-header = تلخيص، والتفكير، والمزيد أثناء التصفح
 genai-onboarding-primary = واصِل
 genai-onboarding-secondary = أغلق
 genai-onboarding-claude-learn = اعرف المزيد عن Claude
