@@ -181,9 +181,9 @@ permissions-site-camera-disable-desc = Tímto zakážete všem serverům, které
 ## Site Permissions - Loopback network
 
 permissions-site-localhost-window =
-    .title = Nastavení - Aplikace a služby zařízení
+    .title = Nastavení - Aplikace a služby v zařízení
     .style = { permissions-window2.style }
-permissions-site-localhost-desc = Tyto servery požádaly o přístup k aplikacím a službám na tomto zařízení. Můžete to stránkám povolit nebo zakázat.
+permissions-site-localhost-desc = Tyto servery požádaly o přístup k aplikacím a službám na tomto zařízení. Můžete jim ho povolit nebo zakázat.
 permissions-site-localhost-disable-label =
     .label = Blokovat nové žádosti o přístup k aplikacím a službám na tomto zařízení
 permissions-site-localhost-disable-desc = Tím se zabrání tomu, aby všechny webové stránky, které nejsou uvedeny výše, požadovaly přístup k aplikacím a službám v tomto zařízení. Tímto postupem můžete porušit některé funkce webových stránek.
