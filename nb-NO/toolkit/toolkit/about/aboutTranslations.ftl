@@ -22,7 +22,7 @@ about-translations-policy-disabled-info-message =
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
     .heading = Opphev blokkeringen av denne funksjonen for å oversette tekst
-    .message = Det ser ut til at du har oppdatert A-kontrollene til å blokkere denne funksjonen. Opphev blokkeringen når som helst for å begynne å bruke den.
+    .message = Det ser ut til at du har oppdatert AI-kontrollene til å blokkere denne funksjonen. Opphev blokkeringen når som helst for å begynne å bruke den.
 about-translations-feature-blocked-unblock-button = Opphev blokkering
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
