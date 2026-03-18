@@ -19,6 +19,10 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = O recurso de tradução não está disponível na sua organização
     .message = Esta é uma diretiva definida pelo seu administrador.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Para traduzir texto, desbloqueie este recurso
+    .message = Parece que você alterou os controles de inteligência artificial para bloquear esse recurso. Desbloqueie quando quiser para começar a usar.
 about-translations-feature-blocked-unblock-button = Desbloquear
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
@@ -34,6 +38,11 @@ about-translations-language-load-error-button = Tentar novamente
 about-translations-translation-error-heading = Houve um problema ao traduzir
 about-translations-translation-error-subtext = Tente novamente.
 about-translations-translation-error-button = Tentar novamente
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Desculpe, ainda não oferecemos suporte a { $language }
+about-translations-detected-language-unsupported-heading-unknown = Desculpe, ainda não oferecemos suporte a este idioma
 about-translations-detected-language-unsupported-subtext = Escolha outro idioma.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
