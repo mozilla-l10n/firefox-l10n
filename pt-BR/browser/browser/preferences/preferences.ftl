@@ -2484,6 +2484,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Proteção aprimorada contra rastreamento
+    .description = Sites usam rastreadores para tentar te seguir online e mostrar anúncios invasivos. O { -brand-short-name } protege você enquanto navega, bloqueando rastreadores automaticamente para que você tenha controle sobre o seu rastro digital.
 preferences-etp-level-standard =
     .label = Normal (padrão)
     .description = Proteções poderosas e confiáveis que funcionam suavemente na maioria dos sites.
