@@ -2255,6 +2255,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group2 =
+    .label = DNS sobre HTTPS
+    .description = Domain Name System sobre HTTPS (DoH) criptografa a procura de sites, dificultando que seu provedor de internet ou outros vejam quais sites você vai visitar.
 preferences-doh-description = O DNS (Domain Name System) sobre HTTPS envia sua requisição de nome de domínio através de uma conexão criptografada, criando um DNS seguro e dificultando a outras pessoas ver qual site você irá acessar.
 preferences-doh-description2 = O DNS (Domain Name System) sobre HTTPS envia sua requisição de nome de domínio através de uma conexão criptografada, fornecendo um DNS seguro e dificultando a outras pessoas ver qual site você irá acessar.
 # Variables:
@@ -2321,12 +2324,47 @@ preferences-doh-overview-off =
     .description = Usar seu resolvedor padrão de DNS.
 preferences-doh-advanced-button =
     .label = Configurações avançadas
+preferences-doh-advanced-section =
+    .label = Configurações avançadas
+    .description = Domain Name System sobre HTTPS (DoH) criptografa a procura de sites, dificultando que seu provedor de internet ou outros vejam quais sites você vai visitar.
 preferences-doh-manage-exceptions2 =
     .label = Gerenciar exceções
     .accesskey = x
 preferences-doh-radio-default =
     .label = Padrão
     .description = Usar DNS seguro em regiões onde estiver disponível
+preferences-doh-radio-custom =
+    .label = Personalizado
+    .description = Sempre usar DNS seguro com controle sobre seu provedor e comportamento de usar alternativas
+preferences-doh-radio-off =
+    .label = Desativado
+    .description = Usar seu resolvedor de DNS padrão
+preferences-doh-fallback-label =
+    .label = Sempre me avisar se DNS seguro não estiver disponível
+preferences-doh-status-item-off =
+    .message = DNS sobre HTTPS está desativado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = O DNS sobre HTTPS não está funcionando porque encontramos um erro ({ $reason }) ao tentar usar o provedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = O DNS sobre HTTPS não está funcionando porque recebemos uma URL inválida ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS sobre HTTPS está usando o provedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = O DNS sobre HTTPS não está funcionando porque encontramos um erro ({ $reason }) ao tentar usar o provedor local { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = O DNS sobre HTTPS está usando o provedor local { $name }
 preferences-doh-select-resolver-label =
     .label = Escolher provedor:
 # Variables:
@@ -2432,6 +2470,10 @@ security-privacy-status-update-checking-label = O { -brand-short-name } está ve
 security-privacy-status-update-needed-description = Atualize para as atualizações mais recentes de velocidade, estabilidade e segurança.
 security-privacy-status-update-button-label =
     .label = Atualizar o { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Um escudo com um ponto de exclamação, expressando preocupação com seus avisos de segurança
+security-privacy-image-ok =
+    .alt = Um escudo com uma marca de seleção, mostrando que você não tem problemas de segurança pendentes
 security-privacy-issue-card =
     .heading = Avisos de segurança
 issue-card-reset-button =
