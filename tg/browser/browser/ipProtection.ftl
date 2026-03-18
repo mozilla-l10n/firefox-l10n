@@ -35,6 +35,10 @@ ipprotection-site-settings-callout-button = Фаҳмидам
 ## Panel
 
 unauthenticated-get-started = Оғози кор
+site-exclusion-toggle-enabled =
+    .aria-label = «VPN» барои ин сомона фаъол аст
+site-exclusion-toggle-disabled =
+    .aria-label = «VPN» барои ин сомона ғайрифаъол аст
 ipprotection-settings-link =
     .label = Танзимот
 
@@ -58,10 +62,21 @@ ipprotection-button-connecting = Фаъол шуда истодааст…
 
 upgrade-vpn-button = «{ -mozilla-vpn-brand-name }»-ро озмоед
 
+## Messages and errors
+
+ipprotection-connection-status-network-error-title = Пайвастшавии Интернети худро тафтиш кунед
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Маълумоти бештар
 ip-protection-not-opted-in-button = Оғози кор
+ip-protection-autostart-private-checkbox =
+    .label = Дар равзанаҳои хусусӣ
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Идоракунии танзимоти сомона
 
 ## IP Protection bandwidth reset callout
 

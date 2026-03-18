@@ -1166,6 +1166,16 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Ниҳонвожаҳо
     .tooltiptext = Ниҳонвожаҳои худро бинед ва идора намоед
+qrcode-copy-button =
+    .label = Нусха бардоштан
+qrcode-save-button =
+    .label = Нигоҳ доштан
+qrcode-window-title = Рамзи «QR»
+qrcode-dialog-title = Рамзи «QR»
+qrcode-image =
+    .aria-label = Рамзи «QR»
+qrcode-close-button =
+    .aria-label = Пӯшидан
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
