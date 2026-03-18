@@ -503,3 +503,11 @@ addon-permissions-required-data-collection = Պահանջվող տվյալներ
 # Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
 permissions-data-addon-button = Թույլտվություններ և տվյալներ
 addon-data-collection-learnmore = Իմացեք ավելին տվյալների հավաքագրման մասին
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Սարքի վրա գործող ԱԲ
+addon-category-mlmodel-title =
+    .title = Սարքի վրա գործող ԱԲ
+mlmodel-heading = Կառավարեք սարքի վրա գործող արհեստական բանականության մոդելները
