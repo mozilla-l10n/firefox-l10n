@@ -19,6 +19,10 @@ about-translations-unsupported-info-message =
 about-translations-policy-disabled-info-message =
     .heading = Las traducciones no están disponibles para tu organización
     .message = Esta es una política establecida por tu administrador.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Para traducir texto, desbloquea esta funcionalidad
+    .message = Parece que actualizaste los controles de IA para bloquear esta funcionalidad. Desbloquéala en cualquier momento para empezar a usarla.
 about-translations-feature-blocked-unblock-button = Desbloquear
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =

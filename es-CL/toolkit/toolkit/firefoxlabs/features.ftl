@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantén tu lis
 experimental-features-semantic-history-search =
     .label = Búsqueda semántica de historial
 experimental-features-semantic-history-search-description = Utiliza un modelo de aprendizaje automático local para sugerir entradas del historial relacionadas con sus búsquedas según la comprensión del lenguaje natural en la barra de direcciones { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Notas de pestañas
+experimental-features-tab-notes-description = Las notas de pestañas son una funcionalidad experimental que permite añadir notas rápidas a las pestañas del navegador. Se puede anotar el contexto, los recordatorios o los próximos pasos para poder volver y recordar por qué se abrió. Nos encantaría recibir comentarios mientras seguimos mejorando esta funcionalidad. <a data-l10n-name="connect">Compartir comentarios</a>
