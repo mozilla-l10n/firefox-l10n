@@ -153,3 +153,36 @@ ip-protection-autostart-checkbox =
     .label = Når jeg åbner { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = I private vinduer
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = Håndter indstillinger for websteder
+
+## IP Protection Bandwidth
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB af { $maxUsage } GB tilbage denne måned
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } GB af { $maxUsage } GB tilbage
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB af { $maxUsage } GB tilbage denne måned
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } MB af { $maxUsage } GB tilbage
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Du har brugt alle { $maxUsage } GB af dine VPN-data. Mængden af tilgængelig data nulstilles næste måned.
+
+## IP Protection alerts
+
+vpn-paused-alert-close-tabs-button = Luk alle faneblade
+vpn-paused-alert-continue-wo-vpn-button = Fortsæt uden VPN
+vpn-error-alert-body = Prøv igen senere.

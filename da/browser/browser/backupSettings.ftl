@@ -38,6 +38,13 @@ settings-data-backup-scheduled-backups-on = Sikkerhedskopiering: TIL
 settings-data-backup-scheduled-backups-off = Sikkerhedskopiering: FRA
 settings-data-backup-scheduled-backups-description = Beskyt automatisk dine bogmærker, historik og andre data. <a data-l10n-name="support-link">Læs mere</a>
 settings-data-backup-last-backup-date = Seneste sikkerhedskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Sikkerhedskopiering: TIL
+settings-data-backup-scheduled-backups-off2 =
+    .label = Sikkerhedskopiering: FRA
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Placering af sikkerhedskopi
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Placering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
