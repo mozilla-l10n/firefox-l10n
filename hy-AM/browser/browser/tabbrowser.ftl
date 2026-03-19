@@ -295,8 +295,8 @@ tab-group-editor-action-ungroup =
 tab-group-editor-action-delete =
     .label = Ջնջել խումբը
 tab-group-editor-done =
-    .label = Ավարտ
-    .accessKey = Ա
+    .label = Պատրաստ է։
+    .accessKey = D
 tab-context-reopen-tab-group =
     .label = Վերաբացել ներդիրների խումբը
 # Variables:
