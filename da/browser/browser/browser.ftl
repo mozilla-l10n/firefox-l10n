@@ -1167,6 +1167,18 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Adgangskoder
     .tooltiptext = Se og håndter dine gemte adgangskoder
+qrcode-panel-error =
+    .message = QR-koden kunne ikke oprettes. Prøv igen.
+qrcode-copy-button =
+    .label = Kopier
+qrcode-copy-success =
+    .message = QR-kode kopieret til udklipsholder
+qrcode-copy-error =
+    .message = Kunne ikke kopiere QR-kode.
+qrcode-save-button =
+    .label = Gem
+qrcode-save-success =
+    .message = QR-kode gemt.
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
