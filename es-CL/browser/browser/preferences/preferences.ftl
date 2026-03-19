@@ -2117,6 +2117,8 @@ collection-description = Nos esforzamos por proveerte con opciones y recolectar 
 collection-privacy-notice = Política de privacidad
 collection-health-report-telemetry-disabled = Ya no permites que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán dentro de 30 días.
 collection-health-report-telemetry-disabled-link = Aprender más
+backup-multi-profile-warning-message =
+    .message = Para asegurarte de que este cambio se incluya en tus copias de seguridad, abre cada perfil y selecciona "Realizar copia de seguridad ahora" en Ajustes.
 collection-usage-ping =
     .label = Envía un ping de uso diario a { -vendor-short-name }
     .accesskey = u
@@ -2177,11 +2179,16 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group2 =
+    .label = Protección de contenido fraudulento y software peligroso
+    .description = Sitios y descargas peligrosas pueden poner tus datos y dispositivo en riesgo. { -brand-short-name } automáticamente los bloquea y te advierte de software riesgoso o no deseado.
 security-browsing-protection = Protección de contenido fraudulento y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y fraudulento
     .accesskey = B
 security-enable-safe-browsing-link = Aprender más
+security-safe-browsing-warning =
+    .message = Desactivar esta opción reduce la protección contra estafas, sitios web maliciosos y descargas peligrosas.
 security-block-downloads =
     .label = Bloquear descargas peligrosas
     .accesskey = D
@@ -2213,6 +2220,15 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name }</strong> se está
 certs-description2 =
     .label = Certificados
     .description = Configura los certificados que { -brand-short-name } utiliza para la autenticación.
+certs-description3 =
+    .label = Certificados
+    .description = Configura los certificados que { -brand-short-name } usa para verificar conexiones seguras.
+certs-view2 =
+    .label = Gestionar certificados
+    .accesskey = C
+certs-devices2 =
+    .label = Gestionar dispositivos de seguridad
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
@@ -2242,6 +2258,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group2 =
+    .label = DNS sobre HTTPS
+    .description = Domain Name System over HTTPS (DoH) cifra las búsquedas de sitios para que sea más difícil para tu proveedor de internet u otros ver qué sitios web estás por visitar.
 preferences-doh-description = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 preferences-doh-description2 = El Sistema de nombres de dominio (DNS) a través de HTTPS envía tu solicitud de un nombre de dominio a través de una conexión cifrada, lo que entrega un DNS seguro y dificulta que otros vean a qué sitio web estás a punto de acceder.
 # Variables:
@@ -2297,6 +2316,69 @@ preferences-doh-exceptions-description = { -brand-short-name } no usará DNS seg
 preferences-doh-manage-exceptions =
     .label = Gestionar excepciones…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protección predeterminada
+    .description = Usa DNS seguros en regiones donde están disponibles.
+preferences-doh-overview-custom =
+    .label = Personalizado
+    .description = Siempre usa DNS seguros con control sobre tu proveedor y comportamiento de alternativas.
+preferences-doh-overview-off =
+    .label = Desactivado
+    .description = Usa tu resolvedor de DNS predeterminado.
+preferences-doh-advanced-button =
+    .label = Ajustes avanzados
+preferences-doh-advanced-section =
+    .label = Ajustes avanzados
+    .description = Domain Name System over HTTPS (DoH) cifra las búsquedas de sitios para que sea más difícil para tu proveedor de internet u otros ver qué sitios web estás por visitar.
+preferences-doh-manage-exceptions2 =
+    .label = Gestionar excepciones…
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Por defecto
+    .description = Usar DNS seguro en regiones donde esté disponible
+preferences-doh-radio-custom =
+    .label = Personalizado
+    .description = Siempre usar DNS seguras con control sobre tu proveedor y comportamiento alternativo.
+preferences-doh-radio-off =
+    .label = Desactivado
+    .description = Usar tu resolvedor de DNS predeterminado
+preferences-doh-fallback-label =
+    .label = Avisarme siempre si el DNS seguro no está disponible
+preferences-doh-status-item-off =
+    .message = DNS sobre HTTPS desactivado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS sobre HTTPS no funciona porque encontramos un error ({ $reason }) al intentar usar el proveedor { $name }.
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS sobre HTTPS no funciona porque hemos recibido una URL no válida ({ $reason }).
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS sobre HTTPS está utilizando el proveedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS sobre HTTPS no funciona porque encontramos un error ({ $reason }) al intentar usar el proveedor local { $name }.
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS sobre HTTPS está utilizando el proveedor local { $name }
+preferences-doh-select-resolver-label =
+    .label = Elegir proveedor:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Usar este proveedor para resolver DNS sobre HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Introduce una URL de proveedor personalizada
+preferences-doh-header2 =
+    .heading = DNS sobre HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2362,3 +2444,39 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancelar
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloquear
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } está en guardia
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } recomienda algunas mejoras de seguridad
+security-privacy-status-ok-label = Protección de seguimiento mejorada activada
+security-privacy-status-problem-label = Hemos encontrado ajustes que afectan a tu protección.
+security-privacy-status-problem-helper-label = Ver problemas
+security-privacy-status-pending-trackers-label = Consultando cuántos rastreadores { -brand-short-name } bloqueó durante el último mes
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } rastreador bloqueado durante el último mes
+       *[other] { $trackerCount } rastreadores bloqueados durante el último mes
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Tienes <a data-l10n-name="strict-tracking-protection">protección estricta</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Tienes <a data-l10n-name="custom-tracking-protection">protección personalizada</a>
+security-privacy-status-up-to-date-label = Tienes la versión más reciente y segura de { -brand-short-name }
+security-privacy-status-update-needed-label = Una nueva versión de { -brand-short-name } está disponible.
+security-privacy-status-update-error-label = { -brand-short-name } está teniendo problemas para actualizarse
+security-privacy-status-update-checking-label = { -brand-short-name } está buscando actualizaciones
+security-privacy-status-update-needed-description = Actualiza para obtener las últimas mejoras de velocidad, estabilidad y seguridad.
+security-privacy-status-update-button-label =
+    .label = Actualizar { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Un escudo con un signo de exclamación, que expresa preocupación por tus advertencias de seguridad
+issue-card-reset-button =
+    .label = Restablecer
+issue-card-dismiss-button =
+    .tooltiptext = Ocultar
+    .aria-label = Ocultar
