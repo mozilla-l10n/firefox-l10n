@@ -670,6 +670,12 @@ pdfjs-views-manager-outlines-title = Dokument-disposition
 pdfjs-views-manager-attachments-title = Vedhæftede filer
 pdfjs-views-manager-layers-title = Lag
 pdfjs-views-manager-pages-option-label = Sider
+pdfjs-views-manager-paste-button-before =
+    .title = Indsæt før første side
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Indsæt efter side { $page }
 
 ## Main menu for adding/removing signatures
 
