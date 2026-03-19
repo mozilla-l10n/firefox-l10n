@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Vi introducerer VPN, direkte i din browser
+ipprotection-feature-introduction-link-text-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data - selv om du befinder dig i et privat vindue.
 ipprotection-feature-introduction-button-primary = Næste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tak
@@ -37,6 +39,7 @@ ipprotection-site-settings-callout-button = Forstået
 ## Panel
 
 unauthenticated-vpn-title = Prøv den indbyggede VPN i { -brand-product-name }
+unauthenticated-hide-location-message-2 = Skjul din placering, når du er på nettet med { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB gratis VPN-data hver måned.
@@ -93,6 +96,12 @@ ipprotection-connection-status-network-error-description = Opret forbindelse til
 ipprotection-message-bandwidth-warning =
     .heading = Du er tæt på din grænse for VPN
     .message = Du har { $usageLeft } GB af { $maxUsage } GB tilbage denne måned.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Du er tæt på din grænse for VPN
+    .message = Du har { $usageLeft } MB af { $maxUsage } GB tilbage denne måned.
 ipprotection-message-continuous-onboarding-intro = Slå VPN til for at skjule dine placering, og tilføj ekstra kryptering til din browsing.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Indstil VPN til at være aktiveret</a>, hver gang du åbner { -brand-short-name } for at tilføje et ekstra lag af beskyttelse.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker, hvilke websteder du har indstillet til at bruge VPN. Du kan opdatere listen med websteder i <a data-l10n-name="setting-link">indstillingerne</a>.
@@ -111,6 +120,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du er tæt på din 
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du løber snart tør for VPN-data.</strong> Du har { $usageLeft } GB tilbage. Når du har brugt alt, bliver din VPN sat på pause, indtil grænsen for data nulstilles i starten af næste måned.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du løber snart tør for VPN-data.</strong> Du har { $usageLeft } MB tilbage. Når du har brugt alt, bliver din VPN sat på pause, indtil grænsen for data nulstilles i starten af næste måned.
 
 ## IP Protection Settings
 
@@ -120,3 +132,24 @@ ip-protection-description =
 ip-protection-learn-more = Læs mere
 ip-protection-site-exceptions =
     .label = Websteds-specifikke indstillinger
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Prøv den indbyggede VPN i { -brand-short-name }
+    .message = Skjul din placering, når du er på nettet med { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
+ip-protection-not-opted-in-button = Kom i gang
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Håndter indstillinger for websteder
+    .description =
+        { $count ->
+            [one] { $count } websted
+           *[other] { $count } websteder
+        }
+ip-protection-autostart =
+    .label = Slå VPN til automatisk
+ip-protection-autostart-checkbox =
+    .label = Når jeg åbner { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = I private vinduer

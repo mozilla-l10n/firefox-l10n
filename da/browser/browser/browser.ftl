@@ -1179,6 +1179,17 @@ qrcode-save-button =
     .label = Gem
 qrcode-save-success =
     .message = QR-kode gemt.
+qrcode-save-error =
+    .message = Kunne ikke gemme QR-kode.
+qrcode-save-title = Gem QR-kode
+qrcode-save-filter-png = PNG-billede
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR-kode
+qrcode-dialog-title = QR-kode
+qrcode-image =
+    .aria-label = QR-kode
+qrcode-close-button =
+    .aria-label = Luk
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
