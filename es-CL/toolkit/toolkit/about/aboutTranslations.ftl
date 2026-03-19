@@ -15,6 +15,11 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = La traducción no está disponible en este dispositivo.
     .message = Prueba a cambiar a un dispositivo diferente.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Las traducciones no están disponibles para tu organización
+    .message = Esta es una política establecida por tu administrador.
+about-translations-feature-blocked-unblock-button = Desbloquear
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = No se pudieron cargar los idiomas
@@ -25,6 +30,16 @@ about-translations-language-load-error-message =
     .heading = No se pudieron cargar los idiomas.
     .message = Revisa tu conexión a internet y vuelve a intentarlo.
 about-translations-language-load-error-button = Volver a intentarlo
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Hubo un problema al traducir.
+about-translations-translation-error-subtext = Por favor, vuelve a intentarlo.
+about-translations-translation-error-button = Volver a intentarlo
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Lo sentimos, todavía no admitimos { $language }
+about-translations-detected-language-unsupported-heading-unknown = Lo sentimos, todavía no admitimos este idioma
+about-translations-detected-language-unsupported-subtext = Por favor, elige otro idioma.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Añadir texto para traducir

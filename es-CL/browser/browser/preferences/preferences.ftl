@@ -2475,8 +2475,55 @@ security-privacy-status-update-button-label =
     .label = Actualizar { -brand-short-name }
 security-privacy-image-warning =
     .alt = Un escudo con un signo de exclamación, que expresa preocupación por tus advertencias de seguridad
+security-privacy-image-ok =
+    .alt = Un escudo con una marca de verificación, que indica que no tienes problemas de seguridad pendientes
+security-privacy-issue-card =
+    .heading = Advertencias de seguridad
 issue-card-reset-button =
     .label = Restablecer
 issue-card-dismiss-button =
     .tooltiptext = Ocultar
     .aria-label = Ocultar
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-reload-tabs-hint-button =
+    .label = Recargar todas las pestañas
+preferences-etp-rfp-warning-message =
+    .message = Estás utilizando Resist Fingerprinting (RFP), que reemplaza algunas de las configuraciones de la protección de huellas digitales de { -brand-short-name }. Esto podría provocar que algunos sitios fallen.
+preferences-etp-customize-header =
+    .heading = Personalizar protección de seguimiento
+preferences-etp-reset =
+    .label = Restablecer personalizaciones
+    .description = Restablecer ajustes a un nivel de protección preestablecido.
+preferences-etp-reset-standard-button =
+    .label = Restablecer a estándar
+preferences-etp-reset-strict-button =
+    .label = Restablecer a estricto
+preferences-etp-custom-control-group =
+    .label = Protección de seguimiento
+    .description = Elige que protecciones activar o desactivar.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Permitir todas las cookies
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Contenido de rastreo
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Contenido de rastreo
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Criptomineros
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Creadores de huellas (Fingerprinters) conocidos
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Creadores de huellas (fingerprinters) presuntos
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Creadores de huellas (fingerprinters) presuntos
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Los creadores de huellas (Fingerprinters) conocidos no están bloqueados
+    .description = Esto podría permitir a algunos rastreadores seguirte sin cookies.
