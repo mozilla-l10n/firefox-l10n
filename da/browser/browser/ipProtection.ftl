@@ -153,14 +153,19 @@ ip-protection-autostart-checkbox =
     .label = Når jeg åbner { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = I private vinduer
+ip-protection-vpn-upgrade-link =
+    .label = Få endnu mere beskyttelse udenfor { -brand-short-name } med { -mozilla-vpn-brand-name }
+    .description = Vælg tilpassede VPN-placeringer og føj beskyttelse til for alle dine apps på op til fem enheder, uanset om du er derhjemme eller på et offentligt wi-fi.
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Håndter indstillinger for websteder
+ip-protection-exclusions-desc = Brug VPN på alle websteder, undtagen dem på denne liste. Tilføj et websted her eller ved at åbne VPN.
 
 ## IP Protection Bandwidth
 
+ip-protection-bandwidth-header = Månedlige VPN-data
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -180,9 +185,31 @@ ip-protection-bandwidth-left-mb = { $usageLeft } MB af { $maxUsage } GB tilbage
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Du har brugt alle { $maxUsage } GB af dine VPN-data. Mængden af tilgængelig data nulstilles næste måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-help-text = Nulstilles til { $maxUsage } GB den første hver måned.
+ip-protection-bandwidth-header-1 = Månedlig data-grænse
+
+## IP Protection bandwidth reset callout
+
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN-data, opdateret og klar til brug
+ipprotection-bandwidth-reset-text = Slå VPN til for at få bedre beskyttelse af dit privatliv, gratis hver måned.
+ipprotection-bandwidth-reset-button = Forstået
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Dette websted virker muligvis ikke med en VPN.</strong> Prøv at logge ind eller slå VPN fra, mens du bruger webstedet.
+ipp-activator-breakage-turn-off-warning = <strong>Dette websted virker muligvis ikke med en VPN.</strong> Prøv at slå VPN fra, mens du bruger webstedet.
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = VPN sat på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Du har brugt alle { $maxUsage } GB af dine VPN-data. Mængden af tilgængelig data nulstilles næste måned.
 vpn-paused-alert-close-tabs-button = Luk alle faneblade
 vpn-paused-alert-continue-wo-vpn-button = Fortsæt uden VPN
+vpn-error-alert-title = VPN virker ikke lige nu.
 vpn-error-alert-body = Prøv igen senere.
