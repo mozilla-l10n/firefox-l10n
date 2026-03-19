@@ -2004,10 +2004,11 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Gestisci reindirizzamenti
-    .accesskey = m
-    .searchkeywords = popup,pop-up
+permissions-block-popups-exceptions-button4 =
+    .label = Gestisci eccezioni
+    .description = Aggiungi siti web con il permesso di aprire pop-up e utilizzare reindirizzamenti di terze parti.
+    .accesskey = z
+    .searchkeywords = popup
 permissions-addon-install-warning3 =
     .label = Mostra un avviso quando i siti web tentano di installare estensioni
     .accesskey = v
