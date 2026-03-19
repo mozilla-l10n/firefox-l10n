@@ -19,6 +19,9 @@ backup-folder-name = Gendan { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }_sikkerhedskopi
+settings-data-backup-header2 =
+    .label = Sikkerhedskopiering
+    .description = Beskyt automatisk dine bogmærker, historik og andre data.
 settings-data-backup-header = Sikkerhedskopiering
 settings-data-backup-toggle = Håndter sikkerhedskopiering
 settings-data-backup-toggle-on2 =
