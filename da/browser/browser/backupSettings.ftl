@@ -44,9 +44,18 @@ settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-create-backup-error = Der opstod en fejl under oprettelsen af din sikkerhedskopi den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sikkerhedskopier dine adgangskoder og betalingsmetoder - og beskyt alle dine data med kryptering.
+settings-data-toggle-encryption-label2 =
+    .label = Sikkerhedskopier dine følsomme data
+    .description = Sikkerhedskopier dine adgangskoder og betalingsmetoder - og beskyt alle dine data med kryptering.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnavn: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Gendan dine data
+    .description = Gendan dine { -brand-product-name }-data fra den seneste sikkerhedskopi.
+settings-data-backup-restore-scheduled-off =
+    .label = Gendan dine data
+    .description = Brug en { -brand-product-name }-sikkerhedskopi fra en anden enhed til at gendanne dine data.
 settings-data-backup-restore-header = Gendan dine data
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -58,8 +67,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Vælg sikkerhedskopi
 
 settings-data-backup-scheduled-backups-on-restore-description = Gendan dine { -brand-product-name }-data fra den seneste sikkerhedskopi.
 settings-data-backup-scheduled-backups-on-restore-choose = Gendan…
+settings-sensitive-data =
+    .label = Følsomme data
 settings-data-toggle-encryption-label = Sikkerhedskopier dine følsomme data
 settings-data-toggle-encryption-support-link = Læs mere
+settings-data-change-password2 =
+    .label = Skift adgangskode
 settings-data-change-password = Skift adgangskode…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -102,6 +115,9 @@ turn-off-scheduled-backups-confirm-button = Slå fra og slet sikkerhedskopi
 restore-from-backup-header = Gendan dine data
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Hvad bliver gendannet?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Dette vil erstatte alle dine aktuelle { -brand-short-name }-data med din sikkerhedskopi gemt den { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -119,6 +135,13 @@ restore-from-backup-password-description = Dette låser din krypterede sikkerhed
 restore-from-backup-cancel-button = Annuller
 restore-from-backup-confirm-button = Gendan og genstart
 restore-from-backup-restoring-button = Gendanner…
+restore-from-backup-type-group-label =
+    .label = Erstat nuværende profil?
+restore-from-backup-type-replace =
+    .label = Erstat alle data med denne sikkerhedskopi
+restore-from-backup-type-add =
+    .label = Behold data og opret ny profil
+restore-from-backup-profiles-disabled-message = Dette vil erstatte alle dine aktuelle { -brand-short-name }-data med din sikkerhedskopi.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -244,6 +267,15 @@ other-backup-files-founds =
         [one] <b>Bemærk:</b> { $numberOfOtherBackupsFound } anden sikkerhedskopi blev fundet
        *[other] <b>Bemærk:</b> { $numberOfOtherBackupsFound } andre sikkerhedskopier blev fundet
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> oprettet den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Gendannet fra { $deviceName } den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

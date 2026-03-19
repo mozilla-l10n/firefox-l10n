@@ -130,6 +130,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = Åbn link i nyt faneblad
     .accesskey = f
+main-context-menu-open-link-split-view =
+    .label = Åbn link i opdelt visning
+    .accesskey = d
 main-context-menu-open-link-container-tab =
     .label = Åbn link i nyt kontekst-faneblad
     .accesskey = l
@@ -402,3 +405,5 @@ main-context-menu-reveal-password =
     .accesskey = a
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nyt
+main-context-menu-pdfjs-copy-page =
+    .label = Kopier side
