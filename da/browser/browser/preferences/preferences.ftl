@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Privatlivsindstillinger for websted
+do-not-track-removal3 =
+    .message = Vi understøtter ikke længere "Spor mig ikke"-funktionen.
+non-technical-privacy-heading =
+    .label = Yderligere beskyttelse
 non-technical-privacy-header = Privatlivsindstillinger for websted
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -524,9 +528,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Brug dit operativsystems indstillinger for "{ $localeName }" til at formatere datoer, klokkeslæt, tal og måleenheder.
+settings-spellcheck-header =
+    .label = Stavekontrol
 check-user-spelling =
     .label = Kontroller min stavning mens jeg taster
     .accesskey = K
+spellcheck-download-dictionaries =
+    .label = Hent ordbøger
 
 ## General Section - Files and Applications
 
@@ -566,9 +574,11 @@ applications-filter =
 applications-type-column =
     .label = Indholdstype
     .accesskey = I
+applications-type-heading = Indholdstype
 applications-action-column =
     .label = Handling
     .accesskey = H
+applications-action-heading = Handling
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fil
@@ -1640,6 +1650,8 @@ history-clear-button =
     .accesskey = h
 history-group =
     .label = Historik
+history-remember-option-all2 =
+    .label = Gemme historik
 
 ## Privacy Section - Site Data
 
@@ -2131,6 +2143,15 @@ space-alert-under-5gb-message2 =
 certs-description2 =
     .label = Certifikater
     .description = Konfigurer certifikaterne, som { -brand-short-name } bruger til godkendelse.
+certs-description3 =
+    .label = Certifikater
+    .description = Konfigurer certifikaterne, som { -brand-short-name } bruger til at bekræfte sikre forbindelser.
+certs-view2 =
+    .label = Håndter certifikater
+    .accesskey = c
+certs-devices2 =
+    .label = Håndter sikkerhedsmoduler
+    .accesskey = s
 
 ## Privacy Section - HTTPS-Only
 
@@ -2215,6 +2236,26 @@ preferences-doh-exceptions-description = { -brand-short-name } vil ikke anvende 
 preferences-doh-manage-exceptions =
     .label = Håndter undtagelser…
     .accesskey = u
+preferences-doh-overview-default =
+    .label = Standard-beskyttelse
+    .description = Brug sikker DNS i lande, hvor det er tilgængeligt.
+preferences-doh-advanced-button =
+    .label = Avancerede indstillinger
+preferences-doh-manage-exceptions2 =
+    .label = Håndter undtagelser
+    .accesskey = u
+preferences-doh-radio-default =
+    .label = Standard
+    .description = Brug sikker DNS i lande, hvor det er tilgængeligt.
+preferences-doh-radio-off =
+    .label = Fra
+    .description = Brug din standard DNS-resolver.
+preferences-doh-fallback-label =
+    .label = Advar mig altid, hvis sikker DNS ikke er tilgængelig
+preferences-doh-select-resolver-label =
+    .label = Vælg udbyder:
+preferences-doh-header2 =
+    .heading = DNS via HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2280,3 +2321,28 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annuller
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloker
+
+## Privacy and security status card
+
+security-privacy-status-ok-label = Udvidet beskyttelse mod sporing er slået til
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Tillad alle cookies
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Sporings-indhold
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Sporings-indhold
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Cryptominers
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Kendte fingerprinters
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Formodede fingerprinters
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Formodede fingerprinters

@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Tilføj element
+storage-delete-all-button =
+    .title = Slet alle
 # Refresh button title
 storage-refresh-button =
     .title = Genindlæs elementer

@@ -705,6 +705,9 @@ newtab-widget-timer-menu-learn-more = Læs mere
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Topoverskrifter
 newtab-daily-briefing-card-menu-dismiss = Afvis
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Opdateret for { $minutes } m. siden
 newtab-widget-message-title = Hold fokus med lister og den indbyggede timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fra hurtige påmindelser til daglige opgaver — funktionen Fokus hjælper dig med at have styr på tingene og din tid.
@@ -728,3 +731,5 @@ newtab-activation-window-message-dismiss-button =
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Gør denne plads til din egen
 newtab-activation-window-message-customization-focus-message = Vælg en ny baggrund, tilføj genveje til dine foretrukne websteder, og hold dig opdateret med artikler, som interesserer dig.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Gå i gang med at tilpasse

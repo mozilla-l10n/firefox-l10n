@@ -23,6 +23,7 @@ inactive-css-column-span = <strong>{ $property }</strong> har ingen effekt på t
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element eller et flex-element.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det hverken er et absolut placeret element eller et flex- eller grid-element.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element eller et absolut placeret element.
+inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et absolut placeret element.
 inactive-css-not-grid-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et grid-element.
 inactive-css-not-grid-container = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er en grid-container.
 inactive-css-not-flex-item = <strong>{ $property }</strong> har ingen effekt på dette element, fordi det ikke er et flex-element.

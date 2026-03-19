@@ -386,6 +386,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Gem
     .accesskey = G
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Læs mere
 tab-note-panel-add-note-new-badge =
     .label = Nyt
 # Displayed within the tab note edit dialog box when the user has entered more
@@ -412,6 +414,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Adskil opdelt visning
     .accesskey = p
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Byt om på faneblade
+    .accesskey = m
 tab-context-badge-new = Ny
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
