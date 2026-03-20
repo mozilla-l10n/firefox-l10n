@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = ไม่รองรับการแปลบนอุปกรณ์นี้
     .message = โปรดลองสลับไปใช้อุปกรณ์อื่น
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = การแปลไม่มีให้ใช้สำหรับองค์กรของคุณ
+    .message = นี่เป็นนโยบายที่กำหนดโดยผู้ดูแลระบบของคุณ
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = หากต้องการแปลข้อความ ให้เลิกปิดกั้นคุณลักษณะนี้
+    .message = ดูเหมือนว่าคุณจะอัปเดตส่วนควบคุม AI ให้ปิดกั้นคุณลักษณะนี้ เลิกปิดกั้นได้ตลอดเพื่อเริ่มใช้งาน
+about-translations-feature-blocked-unblock-button = เลิกปิดกั้น
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = ไม่สามารถโหลดภาษาได้
@@ -25,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = ไม่สามารถโหลดภาษาได้
     .message = โปรดตรวจสอบการเชื่อมต่อกับอินเทอร์เน็ตของคุณแล้วลองอีกครั้ง
 about-translations-language-load-error-button = ลองอีกครั้ง
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = มีปัญหาในการแปล
+about-translations-translation-error-subtext = โปรดลองอีกครั้ง
+about-translations-translation-error-button = ลองอีกครั้ง
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = ขออภัย เรายังไม่รองรับ { $language }
+about-translations-detected-language-unsupported-heading-unknown = ขออภัย เรายังไม่รองรับภาษานี้
+about-translations-detected-language-unsupported-subtext = โปรดเลือกภาษาอื่น
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = เพิ่มข้อความเพื่อแปล

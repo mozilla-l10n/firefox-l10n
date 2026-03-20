@@ -57,7 +57,7 @@ protections-panel-not-blocking-why-etp-off-tooltip-label =
 ##
 
 protections-panel-no-trackers-found = ไม่มีตัวติดตามที่ { -brand-short-name } รู้จักถูกตรวจพบที่หน้านี้
-protections-panel-content-blocking-tracking-protection = ตัวติดตามเนื้อหา
+protections-panel-content-blocking-tracking-protection = เนื้อหาติดตาม
 protections-panel-content-blocking-socialblock = ตัวติดตามสื่อสังคมออนไลน์
 protections-panel-content-blocking-cryptominers-label = ตัวขุดเหรียญดิจิทัล
 protections-panel-content-blocking-fingerprinters-label = ลายนิ้วมือดิจิทัล
