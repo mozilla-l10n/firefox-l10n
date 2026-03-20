@@ -67,10 +67,6 @@ startup-header = શરૂઆત
 always-check-default =
     .label = હંમેશાં તપાસો કે { -brand-short-name } તમારું મૂળભૂત બ્રાઉઝર છે
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } હાલમાં તમારું મૂળભૂત બ્રાઉઝર છે
-is-not-default-browser =
-    .message = { -brand-short-name } તમારું મૂળભૂત બ્રાઉઝર નથી
 is-default = { -brand-short-name } હાલમાં તમારું મૂળભૂત બ્રાઉઝર છે
 is-not-default = { -brand-short-name } તમારું મૂળભૂત બ્રાઉઝર નથી
 set-as-my-default-browser =
@@ -632,16 +628,6 @@ history-header = ઇતિહાસ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } કરશે
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } કરશે
     .accesskey = w
 history-remember-option-all =
@@ -655,12 +641,6 @@ history-remember-description4 =
     .description = { -brand-short-name } તમારી બ્રાઉઝિંગ, ડાઉનલોડ, ફોર્મ અને શોધ ઇતિહાસ યાદ રાખશે.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } તમારી બ્રાઉઝિંગ, ડાઉનલોડ, ફોર્મ અને શોધ ઇતિહાસ યાદ રાખશે.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.
 history-remember-description = { -brand-short-name } તમારી બ્રાઉઝિંગ, ડાઉનલોડ, ફોર્મ અને શોધ ઇતિહાસ યાદ રાખશે.
 history-dontremember-description = { -brand-short-name } ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.

@@ -25,10 +25,6 @@ should-restart-title = { -brand-short-name }  كریو وئن شروع
 ## General Section
 
 startup-header = شروعات
-is-default-browser =
-    .message = برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر
-is-not-default-browser =
-    .message = برانڈ شاٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر&
 is-default = برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر
 is-not-default = برانڈ شاٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر&
 tabs-group-header2 =
@@ -256,9 +252,6 @@ history-remember-option-custom =
     .label = كسٹم سیٹینگس كریو استیمال تٲریخ خٲطرئ
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
 history-dontremember-description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
 history-private-browsing-permanent =

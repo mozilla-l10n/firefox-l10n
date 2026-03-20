@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Ehdota { -relay-brand-name }-sähköpostimaskeja
     .description = Piilottaa oikean sähköpostiosoitteesi ja pyrkii siten suojaamaan sähköpostiasi roskapostilta.
 non-technical-privacy-header = Sivuston tietosuojakäytännöt
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Käynnistys
 always-check-default =
     .label = Tarkista aina, onko { -brand-short-name } oletusselain
     .accesskey = i
-is-default-browser =
-    .message = { -brand-short-name } on järjestelmän oletusselain
-is-not-default-browser =
-    .message = { -brand-short-name } ei ole järjestelmän oletusselain
 is-default = { -brand-short-name } on järjestelmän oletusselain
 is-not-default = { -brand-short-name } ei ole järjestelmän oletusselain
 set-as-my-default-browser =
@@ -884,8 +878,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Verkkosivuston tai -sivustojen osoitteet
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Verkkosivuston tai -sivustojen osoitteet
 home-custom-homepage-address =
     .placeholder = Kirjoita osoite
 home-custom-homepage-address-button =
@@ -900,11 +892,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Korvaa käyttäen
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ei vielä lisättyjä verkkosivustoja.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Korvaa käyttäen
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = nyt avoinna olevia sivuja
@@ -1539,7 +1526,6 @@ autofill-saved-payment-methods-button = Tallennetut maksutavat
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vaadi laitteen sisäänkirjautumista maksutapojen täyttämiseksi ja hallitsemiseksi
     .accesskey = o
-autofill-payment-methods-title = Maksutavat
 autofill-payment-methods-header =
     .aria-label = Maksutavat
 autofill-payment-methods-checkbox-message-2 =
@@ -1567,9 +1553,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Maksutapoja ei ole lisätty
-autofill-addresses-title = Osoitteita ja muuta
-autofill-addresses-header =
-    .aria-label = Osoitteita ja muuta
 autofill-addresses-checkbox-message =
     .label = Tallenna ja täytä osoitteet automaattisesti
     .accesskey = s
@@ -1623,16 +1606,6 @@ history-header = Historiatiedot
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } säilyttää
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } säilyttää
     .accesskey = F
 history-remember-option-all =
@@ -1654,15 +1627,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } käyttää mukautettuja asetuksia selaus-, lataus-, lomake- ja hakuhistoriaa varten.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } käyttää mukautettuja asetuksia selaus-, lataus-, lomake- ja hakuhistoriaa varten.
 history-remember-description = { -brand-short-name } kerää ja säilyttää selaus-, lataus-, lomake- ja hakuhistorian.
 history-dontremember-description = { -brand-short-name } toimii aina kuten yksityisessä selaustilassa, eikä säilytä mitään historiatietoja.
@@ -1702,17 +1666,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Evästeet ja sivustotiedot
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Lasketaan sivustotietojen ja välimuistin kokoa…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Verkkosivustot käyttävät tällä hetkellä <strong>{ $value } { $unit }</strong> levytilaa.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Tallennetut evästeet, historia, sivustotiedot ja välimuisti vievät tällä hetkellä <strong>{ $value } { $unit }</strong> levytilaa.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2048,12 +2006,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Estä ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset
     .accesskey = ä
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Hallitse uudelleenohjauksia
-    .accesskey = e
-    .searchkeywords = popups,pop-ups,ponnahdukset
 permissions-addon-install-warning3 =
     .label = Näytä varoitus, kun verkkosivustot yrittävät asentaa laajennuksia
     .accesskey = v
@@ -2063,9 +2015,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Hallitse ponnahdusikkunoiden ja kolmannen osapuolen uudelleenohjausten poikkeuksia
     .accesskey = e
     .searchkeywords = ponnahdusikkunat
-permissions-addon-install-warning2 =
-    .label = Varoita, kun verkkosivustot yrittävät asentaa laajennuksia
-    .accesskey = V
 permissions-addon-exceptions2 =
     .label = Valitse, mitkä verkkosivustot voivat asentaa laajennuksia
     .accesskey = a
@@ -2084,9 +2033,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Poikkeukset…
     .accesskey = P
-permissions-header2 =
-    .label = Oikeudet
-    .description = Oikeudet, jotka myönnät sivustoille, joilla vierailet.
 permissions-location2 =
     .label = Sijainti
 permissions-localhost2 =
@@ -2221,9 +2167,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit tyhjentää sivustotiedot avaamalla Asetukset > Tietosuoja ja turvallisuus > Evästeet ja sivustotiedot.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "ablative") } loppuu kohta levytila.</strong> Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
-certs-description2 =
-    .label = Varmenteet
-    .description = Määritä { -brand-short-name }in todennukseen käyttämät varmenteet.
 certs-description3 =
     .label = Varmenteet
     .description = Määritä { -brand-short-name }in suojattujen yhteyksien vahvistamiseen käyttämät varmenteet.
@@ -2237,9 +2180,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Vain HTTPS -tila
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 httpsonly-description3 = Sallii vain suojatut yhteydet verkkosivustoille. { -brand-short-name } kysyy, ennen kuin muodostaa suojaamattoman yhteyden.
 httpsonly-learn-more2 = Miten ”Vain HTTPS”-tila toimii
 httpsonly-description = HTTPS:n avulla { -brand-short-name } muodostaa suojatun ja salatun yhteyden vierailemiisi sivustoihin. Useimmat sivustot tukevat HTTPS:ää, ja jos ”Vain HTTPS”-tila on käytössä, { -brand-short-name } muuntaa kaikki yhteydet käyttämään HTTPS:ää.

@@ -42,10 +42,6 @@ startup-header = Qalisa
 always-check-default =
     .label = Khangela qho ukuba i-{ -brand-short-name } iyibhrawuza yakho esisiseko
     .accesskey = o
-is-default-browser =
-    .message = I-{ -brand-short-name } kungokunje iyibhrawuza yakho esisiseko
-is-not-default-browser =
-    .message = I-{ -brand-short-name } ayiyobhrawuza yakho esisiseko
 is-default = I-{ -brand-short-name } kungokunje iyibhrawuza yakho esisiseko
 is-not-default = I-{ -brand-short-name } ayiyobhrawuza yakho esisiseko
 tabs-group-header2 =
@@ -442,16 +438,6 @@ history-header = Imbali
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = I-{ -brand-short-name } iya
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = I-{ -brand-short-name } iya
     .accesskey = i
 history-remember-option-all =
@@ -462,9 +448,6 @@ history-remember-option-custom =
     .label = Sebenzisa iisethingi zesiqhelo kwimbali
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = i-{ -brand-short-name } iya kusebenzisa iisethingi ezifanayo njengokubhrawuza kwangasese kwaye ayiyi kukhumbula nayiphi na imbali njengokuba ubhrawuza iwebhu.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = i-{ -brand-short-name } iya kusebenzisa iisethingi ezifanayo njengokubhrawuza kwangasese kwaye ayiyi kukhumbula nayiphi na imbali njengokuba ubhrawuza iwebhu.
 history-dontremember-description = i-{ -brand-short-name } iya kusebenzisa iisethingi ezifanayo njengokubhrawuza kwangasese kwaye ayiyi kukhumbula nayiphi na imbali njengokuba ubhrawuza iwebhu.
 history-private-browsing-permanent =

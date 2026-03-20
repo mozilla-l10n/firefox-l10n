@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Föreslå { -relay-brand-name } e-postalias
     .description = Döljer din riktiga e-postadress för att skydda din inkorg från skräppost.
 non-technical-privacy-header = Sekretessinställningar för webbplatsen
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Vid start
 always-check-default =
     .label = Kontrollera alltid om { -brand-short-name } är din standardwebbläsare
     .accesskey = a
-is-default-browser =
-    .message = { -brand-short-name } är din standardwebbläsare
-is-not-default-browser =
-    .message = { -brand-short-name } är inte din standardwebbläsare
 is-default = { -brand-short-name } är din standardwebbläsare
 is-not-default = { -brand-short-name } är inte din standardwebbläsare
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Webbadress(er)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Webbadress(er)
 home-custom-homepage-address =
     .placeholder = Ange adress
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Ersätt med
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Inga webbplatser tillagda ännu.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Ersätt med
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = För närvarande öppna sidor
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Sparade betalningsmetoder
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Kräv enhetsinloggning för att fylla i och hantera betalningsmetoder
     .accesskey = K
-autofill-payment-methods-title = Betalningsmetoder
 autofill-payment-methods-header =
     .aria-label = Betalningsmetoder
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Inga betalningsmetoder har lagts till
-autofill-addresses-title = Adresser och mer
-autofill-addresses-header =
-    .aria-label = Adresser och mer
 autofill-addresses-checkbox-message =
     .label = Spara och fyll i adresser automatiskt
     .accesskey = S
@@ -1619,16 +1602,6 @@ history-header = Historik
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } kommer att
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } kommer att
     .accesskey = m
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } använder anpassade inställningar för din surfning, nedladdningar, formulär och sökhistorik.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } använder anpassade inställningar för din surfning, nedladdningar, formulär och sökhistorik.
 history-remember-description = { -brand-short-name } kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik.
 history-dontremember-description = { -brand-short-name } kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Kakor och webbplatsdata
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Beräkning av webbplatsdata och cachestorlek…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Webbplatser använder för närvarande <strong>{ $value } { $unit }</strong> diskutrymme.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Dina lagrade kakor, historik, webbplatsdata och cache använder för närvarande <strong>{ $value } { $unit }</strong> diskutrymme.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blockera popup-fönster och omdirigeringar från tredje part
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Hantera omdirigeringar
-    .accesskey = o
-    .searchkeywords = popup-fönster
 permissions-addon-install-warning3 =
     .label = Visa varning när webbplatser försöker installera tillägg
     .accesskey = V
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Hantera popup- och omdirigeringsundantag från tredje part
     .accesskey = H
     .searchkeywords = popup-fönster
-permissions-addon-install-warning2 =
-    .label = Varna när webbplatser försöker installera tillägg
-    .accesskey = V
 permissions-addon-exceptions2 =
     .label = Välj vilka webbplatser som kan installera tillägg
     .accesskey = V
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undantag…
     .accesskey = U
-permissions-header2 =
-    .label = Behörigheter
-    .description = Behörigheter du ger till webbplatser du besöker.
 permissions-location2 =
     .label = Plats
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = n
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Du kan rensa lagrad data i Inställningar>Sekretess & säkerhet>Kakor och webbplatsdata.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } håller på att få slut på diskutrymme.</strong> Webbplatsens innehåll kanske inte visas korrekt. Besök "Läs mer" för att optimera din diskanvändning för bättre surfupplevelse.
-certs-description2 =
-    .label = Certifikat
-    .description = Konfigurera certifikaten som { -brand-short-name } använder för autentisering.
 certs-description3 =
     .label = Certifikat
     .description = Konfigurera certifikaten som { -brand-short-name } använder för att verifiera säkra anslutningar.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Endast HTTPS-läge
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
 httpsonly-description3 = Tillåter endast säkra anslutningar till webbplatser. { -brand-short-name } kommer att fråga innan du ansluter osäkert.
 httpsonly-learn-more2 = Hur endast HTTPS fungerar
 httpsonly-description = HTTPS ger en säker, krypterad anslutning mellan { -brand-short-name } och de webbplatser du besöker. De flesta webbplatser stöder HTTPS och om endast HTTPS-läget är aktiverat kommer { -brand-short-name } att uppgradera alla anslutningar till HTTPS.

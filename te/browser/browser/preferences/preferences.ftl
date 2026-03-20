@@ -77,10 +77,6 @@ startup-header = మొదలవడం
 always-check-default =
     .label = { -brand-short-name } మీ అప్రమేయ విహారిణియేనా అని ఎల్లప్పుడూ పరిశీలించు
     .accesskey = w
-is-default-browser =
-    .message = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
-is-not-default-browser =
-    .message = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
 is-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి
 is-not-default = { -brand-short-name } ప్రస్తుతం మీ అప్రమేయ విహారిణి కాదు
 set-as-my-default-browser =
@@ -755,16 +751,6 @@ history-header = చరిత్ర
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
@@ -778,12 +764,6 @@ history-remember-description4 =
     .description = { -brand-short-name } మీ విహరణ, దింపుకోళ్ళ, ఫారాల, వెతుకులాటల చరిత్రను గుర్తుపెట్టుకుంటుంది.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } మీ విహరణ, దింపుకోళ్ళ, ఫారాల, వెతుకులాటల చరిత్రను గుర్తుపెట్టుకుంటుంది.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.
 history-remember-description = { -brand-short-name } మీ విహరణ, దింపుకోళ్ళ, ఫారాల, వెతుకులాటల చరిత్రను గుర్తుపెట్టుకుంటుంది.
 history-dontremember-description = { -brand-short-name } గోప్య వీక్షణం అమరికలనే వాడుతుంది మరియు మీ వీక్షణ చరిత్రని గుర్తుంచుకోదు.

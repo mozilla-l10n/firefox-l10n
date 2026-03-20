@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = { -relay-brand-name } 이메일 가리기 제안
     .description = 받은편지함을 스팸으로부터 보호하기 위해 실제 이메일 주소를 숨깁니다.
 non-technical-privacy-header = 웹 사이트 개인 정보 보호 설정
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = 시작 페이지
 always-check-default =
     .label = 항상 { -brand-short-name }가 기본 브라우저인지 확인
     .accesskey = w
-is-default-browser =
-    .message = 현재 { -brand-short-name }가 기본 브라우저입니다
-is-not-default-browser =
-    .message = { -brand-short-name }가 기본 브라우저가 아닙니다
 is-default = 현재 { -brand-short-name }가 기본 브라우저입니다
 is-not-default = { -brand-short-name }가 기본 브라우저가 아닙니다
 set-as-my-default-browser =
@@ -868,8 +862,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = 웹 사이트 주소
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = 웹 사이트 주소
 home-custom-homepage-address =
     .placeholder = 주소 입력
 home-custom-homepage-address-button =
@@ -884,11 +876,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = 대체:
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = 아직 추가된 웹 사이트가 없습니다.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = 대체:
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = 현재 열려있는 페이지
@@ -1519,7 +1506,6 @@ autofill-saved-payment-methods-button = 저장된 결제 수단
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = 결제 수단을 채우고 관리하려면 기기 로그인이 필요합니다.
     .accesskey = o
-autofill-payment-methods-title = 결제 수단
 autofill-payment-methods-header =
     .aria-label = 결제 수단
 autofill-payment-methods-checkbox-message-2 =
@@ -1547,9 +1533,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 추가된 결제 수단 없음
-autofill-addresses-title = 주소 및 기타
-autofill-addresses-header =
-    .aria-label = 주소 및 기타
 autofill-addresses-checkbox-message =
     .label = 주소 저장 및 자동 채우기
     .accesskey = S
@@ -1603,16 +1586,6 @@ history-header = 기록
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }가
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }가
     .accesskey = w
 history-remember-option-all =
@@ -1634,15 +1607,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며, 웹 사이트 방문 중 어떤 기록도 기억하지 않습니다.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name }가 탐색, 다운로드, 양식 및 검색 기록에 대해 사용자 지정 설정을 사용합니다.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }가 방문, 다운로드, 양식 및 검색 기록을 기억합니다.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며, 웹 사이트 방문 중 어떤 기록도 기억하지 않습니다.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }가 탐색, 다운로드, 양식 및 검색 기록에 대해 사용자 지정 설정을 사용합니다.
 history-remember-description = { -brand-short-name }가 방문, 다운로드, 양식 및 검색 기록을 기억합니다.
 history-dontremember-description = { -brand-short-name }는 사생활 보호 모드와 같은 설정을 가지며, 웹 사이트 방문 중 어떤 기록도 기억하지 않습니다.
@@ -1682,17 +1646,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = 쿠키 및 사이트 데이터
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = 사이트 데이터와 캐시 크기 계산 중…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = 웹 사이트가 현재 <strong>{ $value } { $unit }</strong>의 디스크 공간을 사용하고 있습니다.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = 저장된 쿠키, 기록, 사이트 데이터 및 캐시가 현재 <strong>{ $value } { $unit }</strong>의 디스크 공간을 사용하고 있습니다.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2028,12 +1986,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = 팝업 및 제3자 리디렉션 차단
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = 리디렉션 관리
-    .accesskey = E
-    .searchkeywords = 팝업
 permissions-addon-install-warning3 =
     .label = 웹 사이트가 확장 기능을 설치하려고 할 때 경고 표시
     .accesskey = W
@@ -2043,9 +1995,6 @@ permissions-block-popups-exceptions-button2 =
     .label = 팝업 및 제3자 리디렉션 예외 관리
     .accesskey = E
     .searchkeywords = 팝업
-permissions-addon-install-warning2 =
-    .label = 웹 사이트가 확장 기능을 설치하려고 할 때 경고
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = 확장 기능을 설치할 수 있는 웹 사이트 선택
     .accesskey = E
@@ -2064,9 +2013,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 예외…
     .accesskey = E
-permissions-header2 =
-    .label = 권한
-    .description = 사용자가 탐색하는 웹 사이트에 부여하는 권한
 permissions-location2 =
     .label = 위치
 permissions-localhost2 =
@@ -2201,9 +2147,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량이 부족합니다.</strong> 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 설정 > 개인 정보 및 보안 > 쿠키 및 사이트 데이터에서 저장된 데이터를 지울 수 있습니다.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 디스크 용량이 부족합니다.</strong> 웹 사이트 내용이 제대로 표시되지 않을 수 있습니다. 더 나은 인터넷 경험을 위해 디스크 용량을 최적화하는 방법을 알아보려면 “더 알아보기”를 방문하세요.
-certs-description2 =
-    .label = 인증서
-    .description = { -brand-short-name }가 인증에 사용하는 인증서를 구성합니다.
 certs-description3 =
     .label = 인증서
     .description = 보안 연결을 확인하기 위해 { -brand-short-name }가 사용하는 인증서를 구성합니다.
@@ -2217,9 +2160,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS 전용 모드
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 httpsonly-description3 = 웹 사이트에 보안 연결만 허용합니다. { -brand-short-name }는 안전하지 않은 연결을 하기 전에 묻습니다.
 httpsonly-learn-more2 = HTTPS 전용 모드 작동 방식
 httpsonly-description = HTTPS는 { -brand-short-name }와 사용자가 방문한 웹 사이트 간에 안전한 암호화된 연결을 제공합니다. 대부분의 웹 사이트는 HTTPS를 지원하며, HTTPS 전용 모드를 사용하도록 설정한 경우 { -brand-short-name }는 모든 연결을 HTTPS로 업그레이드합니다.

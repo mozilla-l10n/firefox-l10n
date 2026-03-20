@@ -113,10 +113,6 @@ startup-header = Aig an toiseach
 always-check-default =
     .label = Dèan cinnteach an-còmhnaidh an e { -brand-short-name } fhèin do roghainn brabhsair
     .accesskey = D
-is-default-browser =
-    .message = 'S e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
-is-not-default-browser =
-    .message = Chan e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
 is-default = 'S e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
 is-not-default = Chan e { -brand-short-name } am brabhsair bunaiteach agad an-dràsta
 set-as-my-default-browser =
@@ -989,16 +985,6 @@ history-header = Eachdraidh
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Nì { -brand-short-name } na leanas:
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Nì { -brand-short-name } na leanas:
     .accesskey = N
 history-remember-option-all =
@@ -1012,12 +998,6 @@ history-remember-description4 =
     .description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.
 history-remember-description = Cuimhnichidh { -brand-short-name } eachdraidh a’ bhrabhsaidh, nam foirm, nan lorg is nan rudan a luchdaich thu a-nuas.
 history-dontremember-description = Cleachdaidh { -brand-short-name } na dearbh roghainnean 's a tha agad ann an brabhsadh prìobhaideach agus cha chuimhnich e eachdraidh sam bith 's tu a' brabhsadh an lìn.

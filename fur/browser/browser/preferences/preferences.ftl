@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Preferencis pe riservatece dai sîts web
 non-technical-privacy-header = Preferencis pe riservatece dai sîts web
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -136,10 +134,6 @@ startup-header = Inviament
 always-check-default =
     .label = Controle simpri se { -brand-short-name } al è il tô navigadôr predefinît
     .accesskey = è
-is-default-browser =
-    .message = In chest moment { -brand-short-name } al è il to navigadôr predefinît
-is-not-default-browser =
-    .message = { -brand-short-name } nol è il to navigadôr predefinît
 is-default = In chest moment { -brand-short-name } al è il to navigadôr predefinît
 is-not-default = { -brand-short-name } nol è il to navigadôr predefinît
 set-as-my-default-browser =
@@ -814,8 +808,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Direzions di sîts web
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Direzions di sîts web
 home-custom-homepage-address =
     .placeholder = Inserìs une direzion
 home-custom-homepage-address-button =
@@ -827,11 +819,6 @@ home-custom-homepage-no-results =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Sostituìs cun
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Nol è stât zontât ancjemò nissun sît.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Sostituìs cun
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Pagjinis viertis in chest moment
@@ -1444,7 +1431,6 @@ autofill-saved-payment-methods-button = Metodis di paiament salvâts
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Domande la conferme dal acès al dispositîf par compilâ in automatic e gjestî i metodis di paiament
     .accesskey = o
-autofill-payment-methods-title = Metodis di paiament
 autofill-payment-methods-header =
     .aria-label = Metodis di paiament
 autofill-payment-methods-checkbox-message-2 =
@@ -1468,9 +1454,6 @@ payments-delete-payment-prompt-cancel-button = Anule
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nissun metodi di paiament zontât
-autofill-addresses-title = Recapits e altris dâts
-autofill-addresses-header =
-    .aria-label = Recapits e altris dâts
 autofill-addresses-checkbox-message =
     .label = Salve e compile in automatic i recapits
     .accesskey = S
@@ -1524,16 +1507,6 @@ history-header = Cronologjie
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
@@ -1550,15 +1523,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } al doprarà impostazions personalizadis pe navigazion, par discjariâ, pai formularis e pe cronologjie di ricercje.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } si visarà de navigazion, dai discjariaments, dai formularis e de cronologjie di ricercje.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } al doprarà impostazions personalizadis pe navigazion, par discjariâ, pai formularis e pe cronologjie di ricercje.
 history-remember-description = { -brand-short-name } si visarà de navigazion, dai discjariaments, dai formularis e de cronologjie di ricercje.
 history-dontremember-description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e nol tignarà in memorie nissune cronologjie di navigazion.
@@ -1586,13 +1550,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e dâts dai sîts
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Daûr a calcolâ la dimension dai dâts dai sîts e de cache…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = In chest moment i cookies, la cronologjie, i dâts salvâts dai sîts web e la cache a stan doprant <strong>{ $value } { $unit }</strong> di spazi su disc.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1918,9 +1876,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Gjestìs ecezions par barcons a comparse e indreçaments di tierçs
     .accesskey = e
     .searchkeywords = barcons a comparse
-permissions-addon-install-warning2 =
-    .label = Vise cuant che un sît web al cîr di instalâ une estension
-    .accesskey = V
 permissions-addon-exceptions2 =
     .label = Sielç i sîts web che a puedin instalâ estensions
     .accesskey = e
@@ -1939,9 +1894,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ecezions…
     .accesskey = E
-permissions-header2 =
-    .label = Permès
-    .description = Permès dâts ai sîts web che tu visitis.
 permissions-location2 =
     .label = Posizion
 permissions-localhost2 =
@@ -2063,16 +2015,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = I
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Tu puedis netâ i dâts archiviâts in Impostazions > Riservatece e sigurece > Cookies e dâts di sîts.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } al sta finint il spazi su disc.</strong> Al è pussibil che i contignûts dai sîts web no vignedin visualizâts ben. Visite “Plui informazions” par otimizâ la utilizazion dal to disc cussì di vê une esperience di navigazion miorade.
-certs-description2 =
-    .label = Certificâts
-    .description = Configure i certificâts doprâts di { -brand-short-name } pe autenticazion.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalitât Dome-HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 httpsonly-description3 = Permet dome conessions siguris ai sîts web. { -brand-short-name } al domandarà prime di stabilî une conession che no je sigure.
 httpsonly-learn-more2 = Cemût che e funzione la modalitât dome-HTTPS
 httpsonly-description = HTTPS al da une conession sigure e cifrade tra { -brand-short-name } e i sîts web che tu visitis. La plui part dai sîts web e supuarte HTTPS e se la modalitât Dome-HTTPS e je ative, alore { -brand-short-name } al doprarà HTTPS in dutis lis conessions.

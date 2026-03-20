@@ -65,10 +65,6 @@ startup-header = Başlanğıc
 always-check-default =
     .label = { -brand-short-name } səyyahının əsas səyyahınız olub olmadığını hər dəfə yoxla
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } hazırda əsas səyyahınızdır
-is-not-default-browser =
-    .message = { -brand-short-name } əsas səyyahınız deyil
 is-default = { -brand-short-name } hazırda əsas səyyahınızdır
 is-not-default = { -brand-short-name } əsas səyyahınız deyil
 set-as-my-default-browser =
@@ -628,16 +624,6 @@ history-header = Tarixçə
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } səyyahı
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } səyyahı
     .accesskey = s
 history-remember-option-all =
@@ -651,12 +637,6 @@ history-remember-description4 =
     .description = { -brand-short-name } səyahət, endirmə, forma və axtarış tarixçənizi yadda saxlayacaq.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } səyahət, endirmə, forma və axtarış tarixçənizi yadda saxlayacaq.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.
 history-remember-description = { -brand-short-name } səyahət, endirmə, forma və axtarış tarixçənizi yadda saxlayacaq.
 history-dontremember-description = { -brand-short-name } gizli baxışdakı nizamlamalardan istifadə edəcək və siz Web-də gəzərkən keçmişlə bağlı heçnə xatırlamayacaq.

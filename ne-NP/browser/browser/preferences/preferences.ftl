@@ -47,10 +47,6 @@ startup-header = सुरुवात
 always-check-default =
     .label = सधैं { -brand-short-name } आफ्नो पूर्वनिर्धारित ब्राउजर हो भन्ने बारे जाँच गर्नुहोस्
     .accesskey = y
-is-default-browser =
-    .message = तपाईँको हालको निर्धारित ब्राउजर { -brand-short-name }
-is-not-default-browser =
-    .message = तपाईँको हालको निर्धारित ब्राउजर { -brand-short-name }
 is-default = तपाईँको हालको निर्धारित ब्राउजर { -brand-short-name }
 is-not-default = तपाईँको हालको निर्धारित ब्राउजर { -brand-short-name }
 set-as-my-default-browser =
@@ -556,16 +552,6 @@ history-header = इतिहास
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } ले
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } ले
     .accesskey = w
 history-remember-option-all =
@@ -576,9 +562,6 @@ history-remember-option-custom =
     .label = इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
 history-dontremember-description = { -brand-short-name } ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन
 history-private-browsing-permanent =

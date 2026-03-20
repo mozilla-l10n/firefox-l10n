@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Webbplatsskapare
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = MDN webbdokument
 more-from-moz-mdn-description = Lär dig webbutveckling med kostnadsfria, omfattande guider och referenser.
 more-from-moz-mdn-button = Lär dig webbutveckling
 more-from-moz-mdn-title2 = { -mdn-brand-name }

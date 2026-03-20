@@ -43,10 +43,6 @@ search-results-help-link = हेफाजाब नांगौ ? <a data-l10n-
 ## General Section
 
 startup-header = जागायजेन्नाइ
-is-default-browser =
-    .message = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
-is-not-default-browser =
-    .message = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
 set-as-my-default-browser =
@@ -426,16 +422,6 @@ history-header = जारिमिन
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } आ
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } आ
     .accesskey = w
 history-remember-option-all =
@@ -446,9 +432,6 @@ history-remember-option-custom =
     .label = जारिमिननि थाखाय कास्टम सेटिंखौ बाहाय
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
 history-dontremember-description = { -brand-short-name } आ एखे सेटिंखौ प्राइभेट ब्राउजिं महरै बाहायगोन आरो नोंथाङा वेबखौ ब्राउज खालामनाय बादि जायखि जाया जारिमिनखौ गोसोखांनाय नङा।
 history-private-browsing-permanent =

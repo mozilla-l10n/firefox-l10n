@@ -43,6 +43,5 @@ more-from-moz-solo-title-2 = AI-værktøj fra { -solo-ai-brand-name } til at ska
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = MDN-webdokumenter
 more-from-moz-mdn-description = Lær webudvikling med omfattende, gratis guider og dokumentation.
 more-from-moz-mdn-button = Lær webudvikling

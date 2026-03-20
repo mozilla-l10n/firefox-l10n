@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AA webgune sortzailea
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = MDN web dokumentuak
 more-from-moz-mdn-description = Ikasi web garapena gida eta erreferentzia sakonekin.
 more-from-moz-mdn-button = Ikasi web garapena
 more-from-moz-mdn-title2 = { -mdn-brand-name }

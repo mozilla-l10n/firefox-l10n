@@ -68,10 +68,6 @@ startup-header = Gayi'ì
 always-check-default =
     .label = Natsi' si { -brand-short-name } huin raj sun' da' gaché nu'.
     .accesskey = o
-is-default-browser =
-    .message = { -brand-short-name } huin sa rajsun' da' gaché nu'
-is-not-default-browser =
-    .message = { -brand-short-name } sè sa rajsùn yitin' da' gaché nu' huin ma
 is-default = { -brand-short-name } huin sa rajsun' da' gaché nu'
 is-not-default = { -brand-short-name } sè sa rajsùn yitin' da' gaché nu' huin ma
 set-as-my-default-browser =
@@ -721,16 +717,6 @@ history-header = Daran sa gahuin
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } ga'ue
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } ga'ue
     .accesskey = W
 history-remember-option-all =
@@ -744,12 +730,6 @@ history-remember-description4 =
     .description = { -brand-short-name } gataj na'anj ma dane' gaché nut, nuin si naduninj nī nej sa nana'uit.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } garusunj ru'ua riña gaché nu hui' se si na'ninj sa'aj riña gaché nut.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } gataj na'anj ma dane' gaché nut, nuin si naduninj nī nej sa nana'uit.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } garusunj ru'ua riña gaché nu hui' se si na'ninj sa'aj riña gaché nut.
 history-remember-description = { -brand-short-name } gataj na'anj ma dane' gaché nut, nuin si naduninj nī nej sa nana'uit.
 history-dontremember-description = { -brand-short-name } garusunj ru'ua riña gaché nu hui' se si na'ninj sa'aj riña gaché nut.

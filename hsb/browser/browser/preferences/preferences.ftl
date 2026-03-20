@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = E-mejlowe maski { -relay-brand-name } namjetować
     .description = Chowa wašu woprawdźitu e-mejlowu adresu, zo by waš dochad pósta před spamom škitał.
 non-technical-privacy-header = Nastajenja priwatnosće websydła
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Startować
 always-check-default =
     .label = Přeco kontrolować, hač { -brand-short-name } je waš standardny wobhladowak
     .accesskey = c
-is-default-browser =
-    .message = { -brand-short-name } je tuchwilu waš standardny wobhladowak
-is-not-default-browser =
-    .message = { -brand-short-name } tuchwilu waš standardny wobhladowak njeje
 is-default = { -brand-short-name } je tuchwilu waš standardny wobhladowak
 is-not-default = { -brand-short-name } tuchwilu waš standardny wobhladowak njeje
 set-as-my-default-browser =
@@ -886,8 +880,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresy websydłow
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adresy websydłow
 home-custom-homepage-address =
     .placeholder = Adresu zapodać
 home-custom-homepage-address-button =
@@ -902,11 +894,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Wuměnić z
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Hišće žane websydła přidate.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Wuměnić z
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Aktualne wočinjene strony
@@ -1543,7 +1530,6 @@ autofill-saved-payment-methods-button = Składowane płaćenske metody
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Gratowe přizjewjenje za wupjelnjenje a rjadowanje płaćenskich metodow žadać
     .accesskey = r
-autofill-payment-methods-title = Płaćenske metody
 autofill-payment-methods-header =
     .aria-label = Płaćenske metody
 autofill-payment-methods-checkbox-message-2 =
@@ -1571,9 +1557,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Žane płaćenske metody přidate
-autofill-addresses-title = Adresy a wjace
-autofill-addresses-header =
-    .aria-label = Adresy a wjace
 autofill-addresses-checkbox-message =
     .label = Adresy składować a awtomatisce wupjelnić
     .accesskey = A
@@ -1627,16 +1610,6 @@ history-header = Historija
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } budźe
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } budźe
     .accesskey = b
 history-remember-option-all =
@@ -1658,15 +1631,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } budźe swójske nastajenja za přehladowansku, sćehnjensku, formularnu a pytansku historiju wužiwać.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } budźe sej wašu přehladowansku, sćehnjensku, formularnu a pytansku historiju spomjatkować.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } budźe swójske nastajenja za přehladowansku, sćehnjensku, formularnu a pytansku historiju wužiwać.
 history-remember-description = { -brand-short-name } budźe sej wašu přehladowansku, sćehnjensku, formularnu a pytansku historiju spomjatkować.
 history-dontremember-description = { -brand-short-name } budźe samsne nastajenja kaž w priwatnym modusu wužiwać a njebuźde sej historiju spomjatkować, hdyž Web přehladujeće.
@@ -1706,17 +1670,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Placki a sydłowe daty
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Wulkosć sydłowych datow a pufrowaka so wuličuje…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Websydła tuchwilu <strong>{ $value } { $unit } </strong> tačeloweho ruma wužiwaja.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Waše składowane placki, historiju, sydłowe daty a pufrowak so tuchwilu <strong>{ $value } { $unit }</strong> tačeloweho ruma wužiwaja.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2052,12 +2010,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Wuskakowace wokna a dalesposrědkowanja třećich poskićowarjow blokować
     .accesskey = k
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Dalesposrědkowanja rjadować
-    .accesskey = D
-    .searchkeywords = wuskakowace wokna
 permissions-addon-install-warning3 =
     .label = Warnowanje pokazać, hdyž websydła pospytuja rozšěrjenja instalować
     .accesskey = W
@@ -2067,9 +2019,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Wuskakowace wokna a wuwzaća dalesposrědkowanjow třećich poskićowarjow rjadować
     .accesskey = u
     .searchkeywords = wuskakowace wokna
-permissions-addon-install-warning2 =
-    .label = Warnować, hdyž websydła pospytuja rozšěrjenja instalować
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Wubjerće, kotre websydła móža rozšěrjenja instalować
     .accesskey = k
@@ -2088,9 +2037,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wuwzaća…
     .accesskey = W
-permissions-header2 =
-    .label = Prawa
-    .description = Prawa, kotrež websydłam dawaće, kotrež wopytujeće.
 permissions-location2 =
     .label = Stejnišćo
 permissions-localhost2 =
@@ -2225,9 +2171,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = o
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće składowane daty w Nastajenja > Priwatnosć a wěstota > Placki a sydłowe daty zhašeć.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hižo dosć składowanskeho ruma nima.</strong> Wobsah websydła so snano korektnje njezwobrazni. Móžeće na “Dalše informacije” kliknyć, zo byšće swój składowe wužiće za lěpše přehladowanske dožiwjenje opiměrował.
-certs-description2 =
-    .label = Certifikaty
-    .description = Konfigurujće certifikaty, kotrež { -brand-short-name } za awtentifikaciju wužiwa.
 certs-description3 =
     .label = Certifikaty
     .description = Konfigurujće certifikaty, kotrež { -brand-short-name } wužiwa, zo by wěste zwiski přepruwował.
@@ -2241,9 +2184,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jenož-HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 httpsonly-description3 = Zmóžnja jenož wěste zwiski z websydłami. { -brand-short-name } budźe so was prašeć, prjedy hač njewěsće zwjazuje.
 httpsonly-learn-more2 = Kak Jenož-HTTPS funguje
 httpsonly-description = HTTPS wěsty, zaklučowany zwisk mjez { -brand-short-name } a websydłami skići, kotrež wopytujeće. Najwjace websydłow HTTPS podpěruje, a jeli modus Jenož-HTTPS je zmóžnjeny, { -brand-short-name } budźe wšě zwiski na HTTPS aktualizować.

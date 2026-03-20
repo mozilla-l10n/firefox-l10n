@@ -98,10 +98,6 @@ startup-header = راه‌اندازی
 always-check-default =
     .label = همیشه بررسی شود که آیا { -brand-short-name } مرورگر پیش‌فرض شما است یا خیر
     .accesskey = ه
-is-default-browser =
-    .message = { -brand-short-name } مرورگر همیشگی شماست
-is-not-default-browser =
-    .message = { -brand-short-name } مرورگر پیش‌فرض شما نیست
 is-default = { -brand-short-name } مرورگر همیشگی شماست
 is-not-default = { -brand-short-name } مرورگر پیش‌فرض شما نیست
 set-as-my-default-browser =
@@ -909,16 +905,6 @@ history-header = تاریخچه
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = مرورگر { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = مرورگر { -brand-short-name }
     .accesskey = م
 history-remember-option-all =
@@ -932,12 +918,6 @@ history-remember-description4 =
     .description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جستجوهای شما را به خاطر خواهد سپرد.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جستجوهای شما را به خاطر خواهد سپرد.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.
 history-remember-description = { -brand-short-name } سابقهٔ مرور، دریافت‌ها، اطلاعات فرم‌ها و تاریخچهٔ جستجوهای شما را به خاطر خواهد سپرد.
 history-dontremember-description = { -brand-short-name } تنظیمات حالت مرور ناشناس را استفاده خواهد کرد، و هیچ تاریخچه‌ای از مرور شما در وب نگه نخواهد داشت.

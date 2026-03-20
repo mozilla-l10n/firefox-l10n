@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = შემოთავაზებული { -relay-brand-name } ელფოსტის შესანიღბად
     .description = ფარავს თქვენს ნამდვილ ელფოსტას უსარგებლო წერილების ასარიდებლად
 non-technical-privacy-header = საიტის პირადულობის პარამეტრები
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = ჩართვისას
 always-check-default =
     .label = ყოველთვის შემოწმდეს, არის თუ არა { -brand-short-name } ნაგულისხმევი ბრაუზერი
     .accesskey = ვ
-is-default-browser =
-    .message = ამჟამად { -brand-short-name } ნაგულისხმევი ბრაუზერია
-is-not-default-browser =
-    .message = { -brand-short-name } ნაგულისხმევი ბრაუზერი არაა
 is-default = ამჟამად { -brand-short-name } ნაგულისხმევი ბრაუზერია
 is-not-default = { -brand-short-name } ნაგულისხმევი ბრაუზერი არაა
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = საიტის მისამართ(ებ)ი
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = საიტის მისამართ(ებ)ი
 home-custom-homepage-address =
     .placeholder = შეიყვანეთ მისამართი
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = ჩაანაცვლებს
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = საიტები ჯერ არ დამატებულა.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = ჩაანაცვლებს
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = ახლად გახსნილი გვერდები
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = შენახული გადახ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = საჭიროა მოწყობილობით დამოწმება პაროლების შესავსებად და სამართავად
     .accesskey = ო
-autofill-payment-methods-title = გადახდის საშუალებები
 autofill-payment-methods-header =
     .aria-label = გადახდის საშუალებები
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = გადახდის საშუალება არაა დამატებული
-autofill-addresses-title = მისამართები და სხვა
-autofill-addresses-header =
-    .aria-label = მისამართები და სხვა
 autofill-addresses-checkbox-message =
     .label = მისამართების შენახვა და თვითშევსება
     .accesskey = ნ
@@ -1619,16 +1602,6 @@ history-header = ისტორია
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } მონაცემებს
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } მონაცემებს
     .accesskey = მ
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახავს თქვენ მიერ მონახულებული საიტების ისტორიას.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } გამოიყენებს მორგებულ პარამეტრებს მონახულებული გვერდების, ჩამოთვირთვების, შევსებული ველებისა თუ მოძიებული გვერდების მიხედვით.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } შეინახავს მონახულებული გვერდების, ჩამოტვირთვების, შევსებული ველებისა და ძიების ისტორიას.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახავს თქვენ მიერ მონახულებული საიტების ისტორიას.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } გამოიყენებს მორგებულ პარამეტრებს მონახულებული გვერდების, ჩამოთვირთვების, შევსებული ველებისა თუ მოძიებული გვერდების მიხედვით.
 history-remember-description = { -brand-short-name } შეინახავს მონახულებული გვერდების, ჩამოტვირთვების, შევსებული ველებისა და ძიების ისტორიას.
 history-dontremember-description = { -brand-short-name } ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახავს თქვენ მიერ მონახულებული საიტების ისტორიას.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = ფუნთუშები და საიტის მონაცემები
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = ითვლება საიტის მუდმივი და დროებითი მონაცემების მოცულობა…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = ვებსაიტები ამჟამად იყენებს <strong>{ $value } { $unit }</strong> ადგილს დისკზე.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = თქვენ მიერ შენახულ ფუნთუშებს, საიტის მონაცემებს, მარაგებს ამჟამად დისკზე უკავია <strong>{ $value } { $unit }</strong> მოცულობა.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = გარეშე მხარის მიერ გადამისამართების შეზღუდვა
     .accesskey = ზ
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = გადამისამართების მართვა
-    .accesskey = დ
-    .searchkeywords = ამომხტომი, სარკმლები
 permissions-addon-install-warning3 =
     .label = გაფრთხილება საიტების მიერ გაფართოების ჩადგმის მცდელობისას
     .accesskey = ხ
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = მართეთ ამომხტომებისა და გარე გადამისამართების გამონაკლისები…
     .accesskey = კ
     .searchkeywords = ამომხტომები
-permissions-addon-install-warning2 =
-    .label = გაფრთხილება საიტების მიერ გაფართოების ჩადგმის მცდელობისას
-    .accesskey = ფ
 permissions-addon-exceptions2 =
     .label = აირჩიეთ საიტები, რომელთაც შეეძლება გაფართოებების დაყენება
     .accesskey = გ
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = გამონაკლისები…
     .accesskey = გ
-permissions-header2 =
-    .label = ნებართვები
-    .description = ნებართვები, რომელთაც ანიჭებთ მონახულებულ საიტებს.
 permissions-location2 =
     .label = მდებარეობა
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = ხ
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } იუწყება, რომ დისკზე ადგილი ეწურება.</strong> საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. შენახული მონაცემების წაშლა და ადგილის გამოთავისუფლება შეგიძლიათ მენიუდან – პარამეტრები > პირადულობა და უსაფრთხოება > ფუნთუშები და საიტის მონაცემები.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } იუწყება, რომ დისკზე ადგილი ეწურება.</strong> საიტების შიგთავსი, შეიძლება არ გამოჩნდეს სათანადოდ. იხილეთ „ვრცლად“, თუ როგორ გამოათავისუფლოთ ადგილი დისკზე, გვერდების შეუფერხებლად მოსანახულებლად.
-certs-description2 =
-    .label = სერტიფიკატები
-    .description = იმ სერტიფიკატების გამართვა, რომელთაც { -brand-short-name } იყენებს დამოწმებისთვის.
 certs-description3 =
     .label = სერტიფიკატები
     .description = გამართეთ სერტიფიკატები, რომლებსაც { -brand-short-name } იყენებს დაცული კავშირების დასამოწმებლად.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = მხოლოდ-HTTPS-რეჟიმი
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = მხოლოდ დაცული კავშირის მქონე საიტებთან წვდომა. { -brand-short-name } ნებართვას მოითხოვს დაუცველი კავშირის დამყარებამდე.
 httpsonly-description3 = მხოლოდ დაცული კავშირის მქონე საიტებთან წვდომა. { -brand-short-name } ნებართვას მოითხოვს დაუცველი კავშირის დამყარებამდე.
 httpsonly-learn-more2 = როგორ მუშაობს მხოლოდ-HTTPS
 httpsonly-description = HTTPS საშუალებას იძლევა, რომ { -brand-short-name } უსაფრთხოდ და მონაცემთა დაშიფვრით დაუკავშირდეს საიტს, რომელსაც ეწვევით. უმეტეს ვებსაიტზე HTTPS მხარდაჭერილია და როცა მხოლოდ-HTTPS-რეჟიმი ჩართულია, { -brand-short-name } ყველა კავშირს ატარებს HTTPS-ით.

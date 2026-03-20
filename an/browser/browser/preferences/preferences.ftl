@@ -73,10 +73,6 @@ startup-header = Inicio
 always-check-default =
     .label = Comprebar siempre si lo { -brand-short-name } ye o suyo navegador por defecto
     .accesskey = o
-is-default-browser =
-    .message = { -brand-short-name } ye agora o suyo navegador por defecto
-is-not-default-browser =
-    .message = { -brand-short-name } no ye o suyo navegador por defecto
 is-default = { -brand-short-name } ye agora o suyo navegador por defecto
 is-not-default = { -brand-short-name } no ye o suyo navegador por defecto
 set-as-my-default-browser =
@@ -789,16 +785,6 @@ history-header = Historial
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Lo { -brand-short-name }:
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Lo { -brand-short-name }:
     .accesskey = L
 history-remember-option-all =
@@ -812,12 +798,6 @@ history-remember-description4 =
     .description = { -brand-short-name } recordará la tuya navegación, descargas, formularios y historial de busqueda.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = O { -brand-short-name } ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } recordará la tuya navegación, descargas, formularios y historial de busqueda.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = O { -brand-short-name } ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.
 history-remember-description = { -brand-short-name } recordará la tuya navegación, descargas, formularios y historial de busqueda.
 history-dontremember-description = O { -brand-short-name } ferá servir a mesma configuración que en a navegación privada, y no remerará garra dato d'o suyo historial entre que navega por a Web.

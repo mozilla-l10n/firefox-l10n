@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Foreslå e-postalias fra { -relay-brand-name }
     .description = Skjuler den virkelige e-postadressen din for å beskytte innboksen mot uønsket e-post (spam).
 non-technical-privacy-header = Nettstedets personverninnstillinger
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Startside
 always-check-default =
     .label = Kontroller alltid om { -brand-short-name } er standardnettleser
     .accesskey = a
-is-default-browser =
-    .message = { -brand-short-name } er din standard nettleser
-is-not-default-browser =
-    .message = { -brand-short-name } er ikke valgt som standard nettleser
 is-default = { -brand-short-name } er din standard nettleser
 is-not-default = { -brand-short-name } er ikke valgt som standard nettleser
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Nettadresse(r)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Nettadresse(r)
 home-custom-homepage-address =
     .placeholder = Skriv inn adresse
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Erstatt med
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ingen nettsteder lagt til ennå.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Erstatt med
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Gjeldende åpnede sider
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Lagrede betalingsmåter
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krev enhetsinnlogging for å fylle ut og behandle betalingsmåter
     .accesskey = o
-autofill-payment-methods-title = Betalingsmåter
 autofill-payment-methods-header =
     .aria-label = Betalingsmåter
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmåter lagt til
-autofill-addresses-title = Adresser og mer
-autofill-addresses-header =
-    .aria-label = Adresser og mer
 autofill-addresses-checkbox-message =
     .label = Lagre og autoutfyll adresser
     .accesskey = L
@@ -1619,16 +1602,6 @@ history-header = Historikk
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } vil
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } vil
     .accesskey = v
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } vil bruke egendefinerte innstillinger for nettleser-, nedlastings-, skjema- og søkehistorikk.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkehistorikk.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } vil bruke egendefinerte innstillinger for nettleser-, nedlastings-, skjema- og søkehistorikk.
 history-remember-description = { -brand-short-name } vil lagre informasjon om besøkte nettsider, skjema- og søkehistorikk.
 history-dontremember-description = { -brand-short-name } vil bruke de samme innstillingene som privat nettlesing, og vil ikke huske noen historikk mens du bruker nettet.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Infokapsler og nettstedsdata
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Regner ut størrelse på nettstedsdata og hurtiglager…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Nettsteder bruker for øyeblikket <strong>{ $value } { $unit }</strong> med diskplass.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Dine lagrede infokapsler, historikk, nettstedsdata og hurtiglager bruker for øyeblikket <strong>{ $value } { $unit }</strong> diskplass.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokker sprettoppvinduer og tredjepartvideresendinger
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Behandle omdirigeringer
-    .accesskey = B
-    .searchkeywords = sprettopp,sprett opp
 permissions-addon-install-warning3 =
     .label = Vis advarsel når nettsteder prøver å installere utvidelser
     .accesskey = a
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Behandle unntak for sprettoppvinduer og tredjepartsvideresendinger
     .accesskey = e
     .searchkeywords = sprettopp
-permissions-addon-install-warning2 =
-    .label = Advar når nettsteder forsøker å installere utvidelser
-    .accesskey = A
 permissions-addon-exceptions2 =
     .label = Velg hvilke nettsteder som kan installere utvidelser
     .accesskey = e
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Unntak …
     .accesskey = U
-permissions-header2 =
-    .label = Tillatelser
-    .description = Tillatelser du gir til nettsteder du besøker.
 permissions-location2 =
     .label = Plassering
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = p
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innholdet på nettstedet ikke vises ordentlig. Du kan tømme lagret data i Innstillinger > Personern og sikkerhet > Infokapsler og nettstedsdata.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er i ferd med å gå tom for plass på disken.</strong> Det kan hende at innholdet på nettsiden ikke vises ordentlig. Gå til «Les mer» for å optimalisere diskbruken din for en bedre nettleseropplevelse.
-certs-description2 =
-    .label = Sertifikater
-    .description = Konfigurer sertifikatene som { -brand-short-name } bruker for autentisering.
 certs-description3 =
     .label = Sertifikater
     .description = Konfigurer sertifikatene som { -brand-short-name } bruker til å verifisere sikre tilkoblinger.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Kun-HTTPS-modus
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Tillater kun sikre tilkoblinger til nettsteder. { -brand-short-name } vil spørre, før en usikker tilkobling opprettes.
 httpsonly-description3 = Tillater kun sikre tilkoblinger til nettsteder. { -brand-short-name } vil spørre, før en usikker tilkobling opprettes.
 httpsonly-learn-more2 = Hvordan kun-HTTPS-modus fungerer
 httpsonly-description = HTTPS gir en sikker, kryptert forbindelse mellom { -brand-short-name } og nettstedene du besøker. De fleste nettsteder støtter HTTPS, og hvis kun-HTTPS er aktivert, vil { -brand-short-name } oppgradere alle tilkoblinger til HTTPS.

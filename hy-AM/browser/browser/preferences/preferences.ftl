@@ -17,8 +17,6 @@ non-technical-privacy-group =
 non-technical-privacy-heading =
     .label = Լրացուցիչ պաշտպանություններ
 non-technical-privacy-header = Կայքի գաղտնիության նախընտրանքներ
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -133,10 +131,6 @@ startup-header = Մեկնարկ
 always-check-default =
     .label = Միշտ ստուգել, թե արդյոք { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչն է
     .accesskey = շ
-is-default-browser =
-    .message = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
-is-not-default-browser =
-    .message = { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչը չէ
 is-default = { -brand-short-name }-ը այժմ ձեր հիմնական դիտարկիչն է
 is-not-default = { -brand-short-name }-ը Ձեր սկզբնադիր դիտարկիչը չէ
 set-as-my-default-browser =
@@ -823,8 +817,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Վեբ-կայքի հասցե(ներ)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Վեբ-կայքի հասցե(ներ)
 home-custom-homepage-address =
     .placeholder = Մուտքագրեք հասցե
 home-custom-homepage-address-button =
@@ -839,11 +831,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Փոխարինել՝
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Դեռևս կայքեր չեն ավելացվել։
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Փոխարինել՝
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Բացված էջեր
@@ -1451,7 +1438,6 @@ autofill-saved-payment-methods-button = Պահված վճարամիջոցներ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Պահանջել մուտք գործել սարք՝ լրացնելու և կառավարելու համար վճարամիջոցները
     .accesskey = o
-autofill-payment-methods-title = Վճարամիջոցներ
 autofill-payment-methods-header =
     .aria-label = Վճարամիջոցներ
 autofill-payment-methods-checkbox-message-2 =
@@ -1479,9 +1465,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Վճարամիջոցներ չեն ավելացվել
-autofill-addresses-title = Հասցեներ և այլն
-autofill-addresses-header =
-    .aria-label = Հասցեներ և այլն
 autofill-addresses-checkbox-message =
     .label = Պահել և ինքնալրացնել հասցեները
     .accesskey = S
@@ -1532,16 +1515,6 @@ history-header = Պատմություն
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }-ը
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }-ը
     .accesskey = ը
 history-remember-option-all =
@@ -1555,12 +1528,6 @@ history-remember-description4 =
     .description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
 history-remember-description = { -brand-short-name }-ը կհիշի դիտարկումների, ներբեռնումների, ձևերի և որոնումների պատմությունը:
 history-dontremember-description = { -brand-short-name }ը կօգտագործի գաղտնի դիտարկման կարգավումները և չի հիշի համացանցում ձեր դիտարկումների պատմությունը:
@@ -1588,13 +1555,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Թխուկներ և կայքի տվյալներ
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Հաշվում է կայքի տվյալները և շտեմի չափը…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Ձեր պահված թխուկները, պատմությունը, կայքի տվյալները և շտեմը ներկայումս զբաղեցնում են <strong>{ $value } { $unit } </strong> սկավառակի տարածք։
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1896,9 +1857,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Բացառություններ…
     .accesskey = Բ
-permissions-header2 =
-    .label = Թույլտվություններ
-    .description = Թույլտվություններ, որոնք տալիս եք կայքերին, որոնք դիտարկում եք:
 permissions-location2 =
     .label = Տեղադրություն
 permissions-localhost2 =
@@ -2023,9 +1981,6 @@ space-alert-over-5gb-settings-button =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Միայն HTTPS կերպ
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Թույլատրում է միայն անվտանգ միացումները վեբ կայքերին։ Չպաշտպանված միացումից առաջ՝ { -brand-short-name }-ը կհարցնի։
 httpsonly-description3 = Թույլատրում է միայն անվտանգ միացումները վեբ կայքերին։ Չպաշտպանված միացումից առաջ՝ { -brand-short-name }-ը կհարցնի։
 httpsonly-learn-more2 = Ինչպես է աշխատում միայն HTTPS-ը
 httpsonly-description = HTTPS-ը տրամադրում է անվտանգ, գաղտնագրված կապակցում { -brand-short-name }-ի և ձեր այցելած կայքերի միջև: Կայքերի մեծամասնությունը աջակցում է HTTPS և եթե միացված է Միայն HTTPS կերպը, ապա { -brand-short-name }-ը կարդիացնի բոլոր կապակցումները HTTPS-ի:

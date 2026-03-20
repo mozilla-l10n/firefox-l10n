@@ -19,8 +19,6 @@ do-not-track-removal3 =
 non-technical-privacy-heading =
     .label = Yderligere beskyttelse
 non-technical-privacy-header = Privatlivsindstillinger for websted
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -143,10 +141,6 @@ startup-header = Opstart
 always-check-default =
     .label = Undersøg altid om { -brand-short-name } er min standardbrowser
     .accesskey = U
-is-default-browser =
-    .message = { -brand-short-name } er sat som din standardbrowser
-is-not-default-browser =
-    .message = { -brand-short-name } er ikke din standardbrowser
 is-default = { -brand-short-name } er sat som din standardbrowser
 is-not-default = { -brand-short-name } er ikke din standardbrowser
 set-as-my-default-browser =
@@ -863,8 +857,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Websteds-adresse(r)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Websteds-adresse(r)
 home-custom-homepage-address =
     .placeholder = Indtast adresse
 home-custom-homepage-address-button =
@@ -879,11 +871,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Erstat med
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ingen websteder tilføjet endnu.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Erstat med
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Aktuelt åbnede sider
@@ -1508,7 +1495,6 @@ autofill-saved-payment-methods-button = Gemte betalingsmetoder
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Kræv login på enhed for at udfylde og håndtere betalingsmetoder
     .accesskey = o
-autofill-payment-methods-title = Betalingsmetoder
 autofill-payment-methods-header =
     .aria-label = Betalingsmetoder
 autofill-payment-methods-checkbox-message-2 =
@@ -1536,9 +1522,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ingen betalingsmetoder tilføjet
-autofill-addresses-title = Adresser med mere
-autofill-addresses-header =
-    .aria-label = Adresser med mere
 autofill-addresses-checkbox-message =
     .label = Gem og autofyld adresser
     .accesskey = G
@@ -1592,16 +1575,6 @@ history-header = Historik
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } vil:
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } vil:
     .accesskey = i
 history-remember-option-all =
@@ -1618,15 +1591,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } vil bruge de samme indstillinger som privat browsing, og vil ikke gemme nogen historik, mens du surfer på nettet.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } vil bruge tilpassede indstillinger for browsing og filhentninger, samt historik for formularer og søgning.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } vil huske din historik, dine filhentninger samt søgninger og data, du har indtastet i formularer.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } vil bruge de samme indstillinger som privat browsing, og vil ikke gemme nogen historik, mens du surfer på nettet.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } vil bruge tilpassede indstillinger for browsing og filhentninger, samt historik for formularer og søgning.
 history-remember-description = { -brand-short-name } vil huske din historik, dine filhentninger samt søgninger og data, du har indtastet i formularer.
 history-dontremember-description = { -brand-short-name } vil bruge de samme indstillinger som privat browsing, og vil ikke gemme nogen historik, mens du surfer på nettet.
@@ -1656,13 +1620,7 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies og websteds-data
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Udregner størrelse på cache og websteds-data…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Gemte cookies, historik, websteds-data og cache bruger lige nu <strong>{ $value } { $unit }</strong> diskplads.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1988,9 +1946,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Håndter undtagelser for pop op-vinduer og tredjeparts-omdirigeringer
     .accesskey = u
     .searchkeywords = popop
-permissions-addon-install-warning2 =
-    .label = Advar mig, når et websted forsøger at installere udvidelser
-    .accesskey = A
 permissions-addon-exceptions2 =
     .label = Vælg hvilke websteder, som kan installere udvidelser
     .accesskey = u
@@ -2009,9 +1964,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Undtagelser…
     .accesskey = U
-permissions-header2 =
-    .label = Tilladelser
-    .description = Tilladelser, som du giver til websteder
 permissions-location2 =
     .label = Position
 permissions-localhost2 =
@@ -2140,9 +2092,6 @@ space-alert-over-5gb-message2 =
 space-alert-under-5gb-message2 =
     <strong>{ -brand-short-name } er ved at løbe tør for diskplads</strong> 
     Indhold på websteder vises måske ikke korrekt. Klik på "Læs mere" for at optimere dit diskforbrug og få en bedre browsing-oplevelse.
-certs-description2 =
-    .label = Certifikater
-    .description = Konfigurer certifikaterne, som { -brand-short-name } bruger til godkendelse.
 certs-description3 =
     .label = Certifikater
     .description = Konfigurer certifikaterne, som { -brand-short-name } bruger til at bekræfte sikre forbindelser.
@@ -2156,9 +2105,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Tilstanden Kun-HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-description3 = Tillad kun sikre forbindelser til websteder. { -brand-short-name } vil spørge, før en usikker forbindelse oprettes.
 httpsonly-learn-more2 = Sådan virker tilstanden kun-HTTPS
 httpsonly-description = HTTPS sørger for en sikker, krypteret forbindelse mellem { -brand-short-name } og de websteder, du besøger. De fleste websteder understøtter HTTPS, og hvis kun-HTTPS er slået til, så opgraderer { -brand-short-name } alle forbindelser til HTTPS.

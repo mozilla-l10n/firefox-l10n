@@ -99,10 +99,6 @@ startup-header = Startup
 always-check-default =
     .label = Laging suriin kung { -brand-short-name } ang iyong default na browser
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } ang iyong kasalukuyang ginagamit na browser.
-is-not-default-browser =
-    .message = Hindi { -brand-short-name } ang iyong default na browser
 is-default = { -brand-short-name } ang iyong kasalukuyang ginagamit na browser.
 is-not-default = Hindi { -brand-short-name } ang iyong default na browser
 set-as-my-default-browser =
@@ -876,16 +872,6 @@ history-header = Kasaysayan
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Gagawin ng { -brand-short-name } na
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Gagawin ng { -brand-short-name } na
     .accesskey = w
 history-remember-option-all =
@@ -899,12 +885,6 @@ history-remember-description4 =
     .description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = Gagamitin ng { -brand-short-name } ang kaparehong mga setting sa private browsing, at hindi nito tatandaan ang iyong kasaysayan ng pag-browse sa Web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = Gagamitin ng { -brand-short-name } ang kaparehong mga setting sa private browsing, at hindi nito tatandaan ang iyong kasaysayan ng pag-browse sa Web.
 history-remember-description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
 history-dontremember-description = Gagamitin ng { -brand-short-name } ang kaparehong mga setting sa private browsing, at hindi nito tatandaan ang iyong kasaysayan ng pag-browse sa Web.

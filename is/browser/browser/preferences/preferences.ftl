@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Persónuverndarstefna vefsvæðis
 non-technical-privacy-header = Persónuverndarstefna vefsvæðis
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -131,10 +129,6 @@ startup-header = Ræsing
 always-check-default =
     .label = Alltaf athuga hvort { -brand-short-name } sé sjálfgefinn vafri
     .accesskey = l
-is-default-browser =
-    .message = { -brand-short-name } er núna sjálfgefinn vafri
-is-not-default-browser =
-    .message = { -brand-short-name } er ekki sjálfgefinn vafri
 is-default = { -brand-short-name } er núna sjálfgefinn vafri
 is-not-default = { -brand-short-name } er ekki sjálfgefinn vafri
 set-as-my-default-browser =
@@ -1167,7 +1161,6 @@ autofill-saved-payment-methods-button = Vistaðir greiðslumátar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Krefjast innskráningar tækis til að fylla út og hafa umsjón með greiðslumátum
     .accesskey = o
-autofill-payment-methods-title = Greiðslumátar
 autofill-payment-methods-header =
     .aria-label = Greiðslumátar
 autofill-payment-methods-manage-payments-title =
@@ -1183,9 +1176,6 @@ autofill-payment-methods-add-button = Bæta við nýjum greiðslumáta
 payments-list-header =
     .label = Greiðslumátar
 payments-delete-payment-prompt-title = Eyða þessum greiðslumáta?
-autofill-addresses-title = Heimilisföng og fleira
-autofill-addresses-header =
-    .aria-label = Heimilisföng og fleira
 autofill-addresses-manage-addresses-button =
     .label = Sýsla með heimilisföng og fleira
     .accesskey = m
@@ -1208,16 +1198,6 @@ history-header = Ferill
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } mun
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } mun
     .accesskey = m
 history-remember-option-all =
@@ -1231,12 +1211,6 @@ history-remember-description4 =
     .description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
 history-remember-description = { -brand-short-name } mun muna vafurferil, niðurhöl, innfyllingar- og leitarferil.
 history-dontremember-description = { -brand-short-name } mun nota sömu stillingar og í huliðsvafri, og geyma ekki vafraferil.
@@ -1265,10 +1239,6 @@ history-group =
 
 sitedata-header = Vefkökur og gögn vefsvæðis
 sitedata-total-size-calculating = Reikna gagnastærð vefsvæðis og stærð skyndiminnis…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Geymdar vefkökur, vafurferill, gögn fyrir vefsvæði og skyndiminni eru að nota <strong>{ $value } { $unit }</strong> af diskplássi.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1690,16 +1660,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } er verða búið með diskaplássið.</strong> Mögulega birtist efni vefsvæðis ekki rétt. Þú getur hreinsað vistuð gögn í Valkostir > Friðhelgi og öryggi > Vefkökur og gögn vefsvæðis.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } er að verða uppiskroppa með diskpláss.</strong> Mögulega birtist efni vefsvæðis ekki rétt. Farðu á „Frekari upplýsingar“ til að hámarka disknotkun þína fyrir betra vafur.
-certs-description2 =
-    .label = Skilríki
-    .description = Grunnstilltu þau skilríki sem { -brand-short-name } notar til auðkenninga.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Einungis-HTTPS-hamur
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-description3 = Leyfir aðeins öruggar tengingar við vefsvæði. { -brand-short-name } mun spyrja áður en þú tengist á óöruggan hátt.
 httpsonly-learn-more2 = Hvernig virkar Einungis-HTTPS
 httpsonly-description = HTTPS veitir örugga, dulkóðaða tengingu milli { -brand-short-name } og vefsvæðanna sem þú heimsækir. Flest vefsvæði styðja HTTPS og ef Einungis-HTTPS-hamur er virkt mun { -brand-short-name } verða allar tengingar uppfærðar í HTTPS.

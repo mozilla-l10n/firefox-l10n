@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Прапаноўваць маскі электроннай пошты { -relay-brand-name }
     .description = Хавае ваш сапраўдны адрас электроннай пошты, каб абараніць вашу паштовую скрыню ад спаму.
 non-technical-privacy-header = Налады прыватнасці сайта
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Запуск
 always-check-default =
     .label = Заўжды правяраць, ці з'яўляецца { -brand-short-name } прадвызначаным браўзерам
     .accesskey = н
-is-default-browser =
-    .message = { -brand-short-name } зараз ваш прадвызначаны браўзер
-is-not-default-browser =
-    .message = { -brand-short-name } не прадвызначаны браўзер
 is-default = { -brand-short-name } зараз ваш прадвызначаны браўзер
 is-not-default = { -brand-short-name } не прадвызначаны браўзер
 set-as-my-default-browser =
@@ -883,8 +877,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Адрас(ы) сайта(ў)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Адрас(ы) сайта(ў)
 home-custom-homepage-address =
     .placeholder = Увядзіце адрас
 home-custom-homepage-address-button =
@@ -899,11 +891,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Замяніць на
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Пакуль не дададзены ніводны сайт.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Замяніць на
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Зараз адкрытыя старонкі
@@ -1539,7 +1526,6 @@ autofill-saved-payment-methods-button = Захаваныя спосабы апл
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Патрабаваць уваход на прыладзе для запаўнення спосабаў аплаты і кіравання імі
     .accesskey = ў
-autofill-payment-methods-title = Спосабы аплаты
 autofill-payment-methods-header =
     .aria-label = Спосабы аплаты
 autofill-payment-methods-checkbox-message-2 =
@@ -1567,9 +1553,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Спосабы аплаты не дададзены
-autofill-addresses-title = Адрасы і іншае
-autofill-addresses-header =
-    .aria-label = Адрасы і іншае
 autofill-addresses-checkbox-message =
     .label = Захоўваць і аўтаматычна запаўняць адрасы
     .accesskey = ы
@@ -1623,16 +1606,6 @@ history-header = Гісторыя
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } будзе
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } будзе
     .accesskey = б
 history-remember-option-all =
@@ -1654,15 +1627,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } будзе выкарыстоўваць карыстальніцкія налады для вашай гісторыі аглядання, сцягванняў, формаў і пошуку.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } будзе помніць гісторыю аглядання, сцягвання, запаўнення форм і пошуку.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } будзе выкарыстоўваць карыстальніцкія налады для вашай гісторыі аглядання, сцягванняў, формаў і пошуку.
 history-remember-description = { -brand-short-name } будзе помніць гісторыю аглядання, сцягвання, запаўнення форм і пошуку.
 history-dontremember-description = { -brand-short-name } будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.
@@ -1702,17 +1666,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Кукі і дадзеныя сайтаў
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Падлік памеру дадзеных сайтаў і кэша…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Сайты зараз выкарыстоўваюць<strong>{ $value } { $unit }</strong> дыскавай прасторы.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Вашы захаваныя кукі, гісторыя, дадзеныя сайтаў і кэш зараз займаюць <strong>{ $value } { $unit }</strong> на дыску.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2048,12 +2006,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блакаваць выплыўныя вокны і перанакіраванне на староннія сайты
     .accesskey = Б
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Кіраваць перанакіраваннямі
-    .accesskey = К
-    .searchkeywords = popups,pop-ups
 permissions-addon-install-warning3 =
     .label = Паказваць папярэджанне пры спробе вэб-сайтаў усталяваць пашырэнні
     .accesskey = ц
@@ -2063,9 +2015,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Кіраваць выключэннямі выплыўных акон і перанакіравання на староннія сайты
     .accesskey = К
     .searchkeywords = выплыўныя вокны
-permissions-addon-install-warning2 =
-    .label = Папярэджваць пры спробе вэб-сайтаў усталяваць пашырэнні
-    .accesskey = ц
 permissions-addon-exceptions2 =
     .label = Выбраць, якія сайты могуць усталёўваць пашырэнні
     .accesskey = у
@@ -2084,9 +2033,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Выключэнні…
     .accesskey = В
-permissions-header2 =
-    .label = Дазволы
-    .description = Правы доступу, якія вы даяце тым сайтам, што аглядаеце.
 permissions-location2 =
     .label = Месцазнаходжанне
 permissions-localhost2 =
@@ -2221,9 +2167,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = А
 space-alert-over-5gb-message2 = <strong>У { -brand-short-name } сканчаецца месца на дыску</strong>. Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Вы можаце выдаліць захаваныя дадзеныя ў Налады > Прыватнасць і бяспека > Кукі і дадзеныя сайтаў.
 space-alert-under-5gb-message2 = <strong>У { -brand-short-name } сканчаецца месца на дыску.</strong> Змесціва вэб-сайтаў можа адлюстроўвацца няправільна. Клікніце “Падрабязней”, каб аптымізаваць выкарыстанне вашага дыска для паляпшэння вэб-сёрфінгу.
-certs-description2 =
-    .label = Сертыфікаты
-    .description = Наладзьце сертыфікаты, якія { -brand-short-name } выкарыстоўвае для аўтэнтыфікацыі.
 certs-description3 =
     .label = Сертыфікаты
     .description = Наладзьце сертыфікаты, якія { -brand-short-name } выкарыстоўвае для пацвярджэння бяспечных злучэняў.
@@ -2237,9 +2180,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Рэжым толькі HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Дазваляе толькі бяспечнае злучэнне з вэб-сайтамі. { -brand-short-name } спытае перад небяспечным злучэннем.
 httpsonly-description3 = Дазваляе толькі бяспечнае злучэнне з вэб-сайтамі. { -brand-short-name } спытае перад небяспечным злучэннем.
 httpsonly-learn-more2 = Як працуе «Толькі HTTPS»
 httpsonly-description = HTTPS забяспечвае бяспечнае зашыфраванае злучэнне паміж { -brand-short-name } і вэб-сайтамі, якія вы наведваеце. Большасць сайтаў падтрымліваюць HTTPS, і калі ўключаны рэжым толькі HTTPS, { -brand-short-name } пераключа ўсе злучэнні на HTTPS.

@@ -67,10 +67,6 @@ startup-header = Başlanğıç
 always-check-default =
     .label = Ögbelgilengen kezicimniñ { -brand-short-name } olıp olmağanını er zaman teşker
     .accesskey = b
-is-default-browser =
-    .message = { -brand-short-name } al-azırda ögbelgilengen keziciñiz
-is-not-default-browser =
-    .message = { -brand-short-name } ögbelgilengen keziciñiz degildir
 is-default = { -brand-short-name } al-azırda ögbelgilengen keziciñiz
 is-not-default = { -brand-short-name } ögbelgilengen keziciñiz degildir
 set-as-my-default-browser =
@@ -635,16 +631,6 @@ history-header = Keçmiş
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } keçmişni
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } keçmişni
     .accesskey = k
 history-remember-option-all =
@@ -658,12 +644,6 @@ history-remember-description4 =
     .description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-remember-description = { -brand-short-name } kezinüv, endirme, forma ve qıdırma keçmişiñizni hatırlayacaq.
 history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.

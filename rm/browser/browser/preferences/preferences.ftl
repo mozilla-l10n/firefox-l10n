@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Preferenzas per la protecziun da datas da websites
 non-technical-privacy-header = Preferenzas per la protecziun da datas da websites
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -136,10 +134,6 @@ startup-header = Aviar
 always-check-default =
     .label = Adina controllar sche { -brand-short-name } è il navigatur da standard
     .accesskey = d
-is-default-browser =
-    .message = { -brand-short-name } è actualmain il navigatur da standard
-is-not-default-browser =
-    .message = { -brand-short-name } n'è betg il navigatur da standard
 is-default = { -brand-short-name } è actualmain il navigatur da standard
 is-not-default = { -brand-short-name } n'è betg il navigatur da standard
 set-as-my-default-browser =
@@ -737,8 +731,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adressa(s) da website(s)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adressa(s) da website(s)
 home-custom-homepage-address =
     .placeholder = Endatar in’adressa
 home-custom-homepage-address-button =
@@ -750,11 +742,6 @@ home-custom-homepage-no-results =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Remplazzar cun
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Anc n’agiuntà naginas websites.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Remplazzar cun
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Paginas avertas actualmain
@@ -1310,7 +1297,6 @@ autofill-saved-payment-methods-button = Metodas da pajament memorisadas
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Pretender l’endataziun da las datas d’annunzia da l’apparat per laschar endatar automaticamain metodas da pajament e per las administrar
     .accesskey = o
-autofill-payment-methods-title = Metodas da pajament
 autofill-payment-methods-header =
     .aria-label = Metodas da pajament
 autofill-payment-methods-checkbox-message-2 =
@@ -1328,9 +1314,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Agiuntar ina nova metoda da pajament
 payments-list-header =
     .label = Metodas da pajament
-autofill-addresses-title = Adressas e dapli
-autofill-addresses-header =
-    .aria-label = Adressas e dapli
 autofill-addresses-checkbox-message =
     .label = Memorisar ed endatar automaticamain las adressas
     .accesskey = s
@@ -1362,16 +1345,6 @@ history-header = Cronologia
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } vegn a
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } vegn a
     .accesskey = v
 history-remember-option-all =
@@ -1385,12 +1358,6 @@ history-remember-description4 =
     .description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
 history-remember-description = { -brand-short-name } memorisescha las adressas da las paginas d'internet visitadas, da las telechargiadas sco era infurmaziuns endatadas en formulars e maschinas da tschertgar.
 history-dontremember-description = { -brand-short-name } vegn ad utilisar las medemas preferenzas sco en il modus privat e na vegn betg a far ina cronologia da tia navigaziun en l'internet.
@@ -1418,13 +1385,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e datas da websites
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Calcular il volumen da datas da websites e dal cache…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Tes cookies, la cronologia, las datas da websites ed il cache occupan actualmain <strong>{ $value }{ $unit }</strong> da la capacitad da memorisar.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1858,16 +1819,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>La capacitad da memorisar da { -brand-short-name } è prest exausta.</strong> Il cuntegn da websites na vegn eventualmain betg visualisà endretg. Ti pos stizzar datas memorisadas en Parameters > Protecziun da datas & segirezza > Cookies e datas da websites.
 space-alert-under-5gb-message2 = <strong>La memoria da { -brand-short-name } è prest plaina.</strong> Il cuntegn da websites na vegn eventualmain betg pli visualisà endretg. Clicca sin «Ulteriuras infurmaziuns» per optimar l'utilisaziun da la memoria e per meglierar la prestaziun durant la navigaziun.
-certs-description2 =
-    .label = Certificats
-    .description = Configurar ils certificats che { -brand-short-name } utilisescha per l’autentificaziun.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus mo HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 httpsonly-description3 = Permetta mo connexiuns segiradas cun websites. { -brand-short-name } vegn a dumandar avant che connectar a moda betg segirada.
 httpsonly-learn-more2 = Co il modus mo HTTPS funcziuna
 httpsonly-description = HTTPS porscha ina connexiun segira, criptada tranter { -brand-short-name } e las websites che ti visitas. Las bleras websites sustegnan HTTPS e sch'il modus «mo HTTPS» è activà, connectescha { -brand-short-name } automaticamain cun HTTPS.

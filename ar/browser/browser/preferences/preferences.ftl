@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = تفضيلات خصوصية الموقع
 non-technical-privacy-header = تفضيلات خصوصية الموقع
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -134,10 +132,6 @@ startup-header = البدء
 always-check-default =
     .label = تحقق دائمًا من كون { -brand-short-name } متصفّحك المبدئي
     .accesskey = د
-is-default-browser =
-    .message = ‏{ -brand-short-name } هو المتصفح المبدئي حاليًا
-is-not-default-browser =
-    .message = ‏{ -brand-short-name } ليس المتصفح المبدئي حاليًا
 is-default = ‏{ -brand-short-name } هو المتصفح المبدئي حاليًا
 is-not-default = ‏{ -brand-short-name } ليس المتصفح المبدئي حاليًا
 set-as-my-default-browser =
@@ -760,9 +754,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = استبدل ب
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = استبدل ب
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = الصفحات المفتوحة حاليًا
@@ -1300,16 +1291,6 @@ history-header = التأريخ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = اجعل { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = اجعل { -brand-short-name }
     .accesskey = ع
 history-remember-option-all =
@@ -1323,12 +1304,6 @@ history-remember-description4 =
     .description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
 history-remember-description = سيتذكر { -brand-short-name } تأريخ التصفح، و التنزيلات، و الاستمارات، و البحث.
 history-dontremember-description = سيستخدم { -brand-short-name } نفس إعدادات التصفح الخاص، بحيث لن يحتفظ بأيّ تأريخ لتصفحك للوب.
@@ -1356,8 +1331,6 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = الكعكات و بيانات المواقع
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = يحسب حجم بيانات الموقع و الخبيئة…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
@@ -1749,9 +1722,6 @@ space-alert-under-5gb-message2 = <strong>مساحة القرص قاربت على
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = وضع HTTPS فقط
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
 httpsonly-description3 = يسمح فقط بالاتصالات الآمنة بمواقع الوب. سيسأل { -brand-short-name } قبل الاتصال بشكل غير آمن.
 httpsonly-learn-more2 = كيف يعمل HTTPS-Only
 httpsonly-description = يقدّم بروتوكول HTTPS اتصالًا آمنًا ومعمًى بين { -brand-short-name } والمواقع التي تزورها. تدعم أغلب المواقع HTTPS، ولو فعّلت وضع ”HTTPS فقط“ فسيُرقّي { -brand-short-name } كل الاتصالات لتكون ببروتوكول HTTPS.

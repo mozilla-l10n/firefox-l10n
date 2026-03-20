@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = { -relay-brand-name }-e-mailmaskers voorstellen
     .description = Verbergt uw echte e-mailadres om uw Postvak IN te beschermen tegen spam.
 non-technical-privacy-header = Websiteprivacyvoorkeuren
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Opstarten
 always-check-default =
     .label = Altijd controleren of { -brand-short-name } uw standaardbrowser is
     .accesskey = c
-is-default-browser =
-    .message = { -brand-short-name } is momenteel uw standaardbrowser
-is-not-default-browser =
-    .message = { -brand-short-name } is niet uw standaardbrowser
 is-default = { -brand-short-name } is momenteel uw standaardbrowser
 is-not-default = { -brand-short-name } is niet uw standaardbrowser
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Websiteadres(sen)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Websiteadres(sen)
 home-custom-homepage-address =
     .placeholder = Voer adres in
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Vervangen door
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Nog geen websites toegevoegd.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Vervangen door
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Huidige geopende pagina’s
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Opgeslagen betalingsmethoden
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Apparaataanmelding voor invullen en beheren van betalingsmethoden vereisen
     .accesskey = m
-autofill-payment-methods-title = Betalingsmethoden
 autofill-payment-methods-header =
     .aria-label = Betalingsmethoden
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Geen betalingsmethoden toegevoegd
-autofill-addresses-title = Adressen en meer
-autofill-addresses-header =
-    .aria-label = Adressen en meer
 autofill-addresses-checkbox-message =
     .label = Adressen opslaan en automatisch invullen
     .accesskey = o
@@ -1619,16 +1602,6 @@ history-header = Geschiedenis
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } zal
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } zal
     .accesskey = z
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } gebruikt aangepaste instellingen voor uw browser-, download-, formulier- en zoekgeschiedenis.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gebruikt aangepaste instellingen voor uw browser-, download-, formulier- en zoekgeschiedenis.
 history-remember-description = { -brand-short-name } zal uw browser-, download-, formulier- en zoekgeschiedenis onthouden.
 history-dontremember-description = { -brand-short-name } zal dezelfde instellingen gebruiken als bij Privénavigatie, en geen geschiedenis onthouden terwijl u over het web surft.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies en websitegegevens
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Grootte van websitegegevens en buffer berekenen…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Websites gebruiken momenteel <strong>{ $value } { $unit }</strong> aan schijfruimte.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Uw opgeslagen cookies, geschiedenis, websitegegevens en buffer gebruiken momenteel <strong>{ $value } { $unit }</strong> aan schijfruimte.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Pop-ups en omleidingen van derden blokkeren
     .accesskey = b
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Omleidingen beheren
-    .accesskey = l
-    .searchkeywords = pop-ups,popups
 permissions-addon-install-warning3 =
     .label = Waarschuwing tonen wanneer websites extensies proberen te installeren
     .accesskey = W
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Uitzonderingen voor pop-ups en omleidingen van derden beheren
     .accesskey = o
     .searchkeywords = popups popup pop-upscherm
-permissions-addon-install-warning2 =
-    .label = Waarschuwen wanneer websites extensies proberen te installeren
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Kiezen welke websites extensies mogen installeren
     .accesskey = x
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Uitzonderingen…
     .accesskey = U
-permissions-header2 =
-    .label = Toestemmingen
-    .description = Toestemmingen die u verleent aan websites waarop u navigeert
 permissions-location2 =
     .label = Locatie
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = o
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. U kunt opgeslagen gegevens wissen in Instellingen > Privacy & Beveiliging > Cookies en websitegegevens.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } heeft bijna geen schijfruimte meer.</strong> Inhoud van websites wordt mogelijk niet goed weergegeven. Bezoek ‘Meer info’ om uw schijfgebruik te optimaliseren voor betere prestaties.
-certs-description2 =
-    .label = Certificaten
-    .description = De certificaten die { -brand-short-name } gebruikt voor authenticatie configureren.
 certs-description3 =
     .label = Certificaten
     .description = De certificaten die { -brand-short-name } gebruikt om beveiligde verbindingen te verifiëren configureren.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Alleen-HTTPS-modus
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 httpsonly-description3 = Staat alleen beveiligde verbindingen met websites toe. { -brand-short-name } zal vragen voordat een onveilige verbinding wordt gemaakt.
 httpsonly-learn-more2 = Hoe Alleen-HTTPS werkt
 httpsonly-description = HTTPS biedt een veilige, versleutelde verbinding tussen { -brand-short-name } en de door u bezochte websites. De meeste websites ondersteunen HTTPS en als de Alleen-HTTPS-modus is ingeschakeld, zal { -brand-short-name } alle verbindingen upgraden naar HTTPS.

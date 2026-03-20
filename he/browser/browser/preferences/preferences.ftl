@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = להציע מסכות דוא״ל של { -relay-brand-name }
     .description = הסתרת כתובת הדוא״ל האמיתית שלך כדי להגן על תיבת הדואר הנכנס שלך מפני דואל זבל.
 non-technical-privacy-header = העדפות פרטיות של אתרים
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = הפעלה
 always-check-default =
     .label = תמיד לבדוק אם { -brand-short-name } הוא דפדפן ברירת המחדל
     .accesskey = ת
-is-default-browser =
-    .message = { -brand-short-name } הוא כרגע דפדפן ברירת המחדל שלך
-is-not-default-browser =
-    .message = { -brand-short-name } אינו דפדפן ברירת המחדל שלך
 is-default = { -brand-short-name } הוא כרגע דפדפן ברירת המחדל שלך
 is-not-default = { -brand-short-name } אינו דפדפן ברירת המחדל שלך
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = כתובות אתרי אינטרנט
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = כתובות אתרי אינטרנט
 home-custom-homepage-address =
     .placeholder = נא להכניס כתובת
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = החלפה עם
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = עדיין לא נוספו אתרים.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = החלפה עם
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = הדפים הפתוחים הנוכחיים
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = אמצעי תשלום שמורים
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = לדרוש פרטי התחברות של המכשיר כדי למלא ולנהל אמצעי תשלום
     .accesskey = ד
-autofill-payment-methods-title = אמצעי תשלום
 autofill-payment-methods-header =
     .aria-label = אמצעי תשלום
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = לא נוספו אמצעי תשלום
-autofill-addresses-title = כתובות ועוד
-autofill-addresses-header =
-    .aria-label = כתובות ועוד
 autofill-addresses-checkbox-message =
     .label = שמירה ומילוי אוטומטי של כתובות
     .accesskey = ש
@@ -1619,16 +1602,6 @@ history-header = היסטוריה
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = F
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = ‏{ -brand-short-name } ישתמש בהגדרות מותאמות אישית עבור היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = ‏{ -brand-short-name } יזכור את היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = ‏{ -brand-short-name } ישתמש בהגדרות מותאמות אישית עבור היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-remember-description = ‏{ -brand-short-name } יזכור את היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-dontremember-description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = עוגיות ונתוני אתרים
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומטמון…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = אתרים משתמשים כעת ב־<strong>{ $value } { $unit }</strong> משטח הדיסק.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = העוגיות, ההיסטוריה, נתוני האתרים והמטמון השמורים שלך משתמשים כרגע ב־<strong>{ $value } { $unit }</strong> משטח הדיסק.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = חסימת חלונות קופצים והפניות מצד שלישי
     .accesskey = ח
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = ניהול הפניות
-    .accesskey = פ
-    .searchkeywords = חלון קופץ,חלונות קופצים,פופ אפ,פופאפ
 permissions-addon-install-warning3 =
     .label = הצגת אזהרה כשאתרים מנסים להתקין הרחבות
     .accesskey = א
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = ניהול חריגות עבור חלונות קופצים והפניות צד שלישי
     .accesskey = נ
     .searchkeywords = חלונות קופצים
-permissions-addon-install-warning2 =
-    .label = הצגת אזהרה כשאתרים מנסים להתקין הרחבות
-    .accesskey = ה
 permissions-addon-exceptions2 =
     .label = בחירה באתרים המורשים להתקין הרחבות
     .accesskey = ב
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = חריגות…
     .accesskey = ח
-permissions-header2 =
-    .label = הרשאות
-    .description = הרשאות הניתנות לאתרים בהם גולשים.
 permissions-location2 =
     .label = מיקום
 permissions-localhost2 =
@@ -2216,9 +2162,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = ה
 space-alert-over-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שטח הדיסק.</strong> יתכן שתכני אתרים לא יוצגו כשורה. ניתן למחוק נתונים שמורים בהגדרות > פרטיות ואבטחה > עוגיות ונתוני אתרים.
 space-alert-under-5gb-message2 = <strong>ל־{ -brand-short-name } אוזל שטח הדיסק.</strong> יתכן שנתוני אתרים לא יוצגו כשורה. ניתן לבקר בקישור של “מידע נוסף” כדי לייעל את אופן השימוש בדיסק לחוויית גלישה טובה יותר.
-certs-description2 =
-    .label = אישורים
-    .description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות.
 certs-description3 =
     .label = אישורי אבטחה
     .description = הגדרת התצורה של האישורים שבהם { -brand-short-name } משתמש לצורך אימות חיבורים מאובטחים.
@@ -2232,9 +2175,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = מצב HTTPS בלבד
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
 httpsonly-description3 = מאפשר רק חיבורים מאובטחים לאתרי אינטרנט. { -brand-short-name } ישאל לפני התחברות באמצעות חיבור לא מאובטח.
 httpsonly-learn-more2 = כיצד עובד מצב HTTPS בלבד
 httpsonly-description = ‏HTTPS מספק חיבור מאובטח ומוצפן בין { -brand-short-name } לבין האתרים שמבקרים בהם. רוב האתרים תומכים ב־HTTPS, ואם מצב HTTPS בלבד מופעל, { -brand-short-name } ישדרג את כל החיבורים ל־HTTPS.

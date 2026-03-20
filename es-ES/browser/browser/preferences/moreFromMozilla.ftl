@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } Creador de sitios web con I
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = Documentos web de MDN
 more-from-moz-mdn-description = Aprenda desarrollo web con guías y referencias gratuitas y completas.
 more-from-moz-mdn-button = Aprender desarrollo web
 more-from-moz-mdn-title2 = { -mdn-brand-name }

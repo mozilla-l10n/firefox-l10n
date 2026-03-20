@@ -129,10 +129,6 @@ startup-header = Pokretanje
 always-check-default =
     .label = Uvijek provjeravaj da li je { -brand-short-name } glavni browser
     .accesskey = g
-is-default-browser =
-    .message = { -brand-short-name } je trenutno vaš glavni browser
-is-not-default-browser =
-    .message = { -brand-short-name } trenutno nije vaš glavni browser
 is-default = { -brand-short-name } je trenutno vaš glavni browser
 is-not-default = { -brand-short-name } trenutno nije vaš glavni browser
 set-as-my-default-browser =
@@ -1184,16 +1180,6 @@ history-header = Historija
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } će
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } će
     .accesskey = e
 history-remember-option-all =
@@ -1207,12 +1193,6 @@ history-remember-description4 =
     .description = { -brand-short-name } će pamtiti vašu historiju surfanja, preuzimanja, formi i pretraga.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } će pamtiti vašu historiju surfanja, preuzimanja, formi i pretraga.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
 history-remember-description = { -brand-short-name } će pamtiti vašu historiju surfanja, preuzimanja, formi i pretraga.
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao za privatno surfanje, i neće pamtiti bilo kakvu historiju dok pregledate Web.
@@ -1643,9 +1623,6 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } ponestaje prostor
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način rada samo za HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-description3 = Omogućava samo sigurne veze s web stranicama. { -brand-short-name } će pitati prije nesigurnog povezivanja.
 httpsonly-learn-more2 = Kako funkcionira samo HTTPS
 httpsonly-description = HTTPS pruža sigurnu, šifrovanu vezu između { -brand-short-name } i web stranica koje posjećujete. Većina web stranica podržava HTTPS, a ako je omogućen način rada samo za HTTPS, tada će { -brand-short-name } nadograditi sve veze na HTTPS.

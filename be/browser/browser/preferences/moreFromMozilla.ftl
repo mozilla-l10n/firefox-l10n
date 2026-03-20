@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = Штучны інтэлект для стварэн
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = Вэб-дакументацыя MDN
 more-from-moz-mdn-description = Вывучайце вэб-распрацоўку з дапамогай бясплатных, падрабязных кіраўніцтваў і даведнікаў.
 more-from-moz-mdn-button = Вывучаць вэб-распрацоўку
 more-from-moz-mdn-title2 = { -mdn-brand-name }

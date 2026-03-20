@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name }-AI-websitemaker
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Leer webontwikkeling met gratis, uitgebreide gidsen en referenties.
 more-from-moz-mdn-button = Webontwikkeling leren
 more-from-moz-mdn-title2 = { -mdn-brand-name }

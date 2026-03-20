@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Preferințe de confidențialitate pe site-uri web
 non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -139,10 +137,6 @@ startup-header = Pornire
 always-check-default =
     .label = Verifică întotdeauna dacă { -brand-short-name } este browserul implicit
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } este în prezent browserul implicit
-is-not-default-browser =
-    .message = { -brand-short-name } nu este browserul implicit
 is-default = { -brand-short-name } este în prezent browserul implicit
 is-not-default = { -brand-short-name } nu este browserul implicit
 set-as-my-default-browser =
@@ -856,8 +850,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresă(e) site web
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adresă(e) site web
 home-custom-homepage-address =
     .placeholder = Introdu adresa
 home-custom-homepage-address-button =
@@ -872,11 +864,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Înlocuiește cu
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Nu au fost adăugate încă site-uri web.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Înlocuiește cu
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Pagini deschise acum
@@ -1502,7 +1489,6 @@ autofill-saved-payment-methods-button = Metode de plată salvate
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Trebuie să intri în cont pe dispozitiv ca să completezi și să gestionezi metode de plată
     .accesskey = o
-autofill-payment-methods-title = Metode de plată
 autofill-payment-methods-header =
     .aria-label = Metode de plată
 autofill-payment-methods-checkbox-message-2 =
@@ -1530,9 +1516,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nu a fost adăugată nicio metodă de plată
-autofill-addresses-title = Adrese și multe altele
-autofill-addresses-header =
-    .aria-label = Adrese și multe altele
 autofill-addresses-checkbox-message =
     .label = Salvează și completează automat adrese
     .accesskey = S
@@ -1586,16 +1569,6 @@ history-header = Istoric
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
@@ -1612,15 +1585,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } va folosi setări personalizate pentru navigare, descărcări, formulare și istoricul căutărilor.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } va folosi setări personalizate pentru navigare, descărcări, formulare și istoricul căutărilor.
 history-remember-description = { -brand-short-name } va ține minte istoricul navigării, descărcărilor, formularelor și căutărilor.
 history-dontremember-description = { -brand-short-name } va folosi aceleași setări ca navigarea privată și nu va ține minte istoricul în timp ce navighezi pe web.
@@ -1648,13 +1612,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie-uri și date ale site-urilor
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Se calculează datele site-urilor și mărimea cache-ului…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Cookie-urile stocate, istoricul, datele despre site-uri și cache-ul folosesc acum <strong>{ $value } { $unit }</strong> de spațiu pe disc.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1980,9 +1938,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Gestionează excepțiile pentru ferestre pop-up și redirecționări către terți
     .accesskey = E
     .searchkeywords = popups
-permissions-addon-install-warning2 =
-    .label = Avertizează când site-urile web încearcă să instaleze extensii
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Alege ce site-uri web pot instala extensii
     .accesskey = E
@@ -2001,9 +1956,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Excepții…
     .accesskey = E
-permissions-header2 =
-    .label = Permisiuni
-    .description = Permisiuni pe care le dai site-urilor pe care intri
 permissions-location2 =
     .label = Locație
 permissions-localhost2 =
@@ -2128,16 +2080,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc. </strong>Este posibil ca conținutul site-urilor web să nu fie afișat corespunzător. Poți șterge datele stocate în Setări > Confidențialitate și securitate > Cookie-uri și date ale site-urilor.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc.</strong> Este posibil va conținutul site-urilor web să nu fie afișat corespunzător. Intră pe „Află mai multe” ca să îți optimizezi utilizarea spațiului pe disc pentru o mai bună experiență la navigare.
-certs-description2 =
-    .label = Certificate
-    .description = Configurează certificatele pe care { -brand-short-name } le folosește pentru autentificare.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mod numai HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 httpsonly-description3 = Permite doar conexiuni securizate la site-uri web. { -brand-short-name } va întreba înainte de a se conecta în mod nesecurizat.
 httpsonly-learn-more2 = Cum funcționează Numai HTTPS
 httpsonly-description = HTTPS oferă o conexiune criptată și securizată între { -brand-short-name } și site-urile web pe care intri. Cele mai multe site-uri au suport pentru HTTPS și, dacă este activat modul numai HTTPS, atunci { -brand-short-name } va folosi HTTPS pentru toate conexiunile.

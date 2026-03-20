@@ -47,10 +47,6 @@ startup-header = ಆರಂಭಿಕ
 always-check-default =
     .label = ಯಾವಾಗಲೂ { -brand-short-name } ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿದೆಯೆ ಎಂದು ಪರೀಕ್ಷಿಸಿ
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } ಎನ್ನುವುದು ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿದೆ
-is-not-default-browser =
-    .message = { -brand-short-name } ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿಲ್ಲ
 is-default = { -brand-short-name } ಎನ್ನುವುದು ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ಜಾಲವೀಕ್ಷಕವಾಗಿದೆ
 is-not-default = { -brand-short-name } ಪ್ರಸ್ತುತ ನಿಮ್ಮ ಪೂರ್ವನಿಯೋಜಿತ ವೀಕ್ಷಕವಾಗಿಲ್ಲ
 set-as-my-default-browser =
@@ -490,16 +486,6 @@ history-header = ಇತಿಹಾಸ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } ವು
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } ವು
     .accesskey = w
 history-remember-option-all =
@@ -510,9 +496,6 @@ history-remember-option-custom =
     .label = ಇತಿಹಾಸಕ್ಕಾಗಿ ನಿಮ್ಮ ಇಚ್ಛೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
 history-dontremember-description = { -brand-short-name } ಖಾಸಗಿ ಜಾಲ ವೀಕ್ಷಣದ ರೀತಿಯದ್ದೆ ಆದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸುತ್ತದೆ, ಹಾಗು ನೀವು ಜಾಲವನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಯಾವುದೆ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವುದಿಲ್ಲ.
 history-private-browsing-permanent =

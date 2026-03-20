@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } KI Website-Ersteller
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = MDN Web Docs
 more-from-moz-mdn-description = Lernen Sie Web-Entwicklung mit kostenlosen, umfassenden Anleitungen und Referenzen.
 more-from-moz-mdn-button = Web-Entwicklung lernen
 more-from-moz-mdn-title2 = { -mdn-brand-name }

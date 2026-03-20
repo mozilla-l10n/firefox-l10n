@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Sugjero maskë { -relay-brand-name } email-i
     .description = Fsheh adresën tuaj të njëmendtë email, që të mbrohet posta juaj nga mesazh të padëshiruar.
 non-technical-privacy-header = Parapëlqime Privatësie Sajti
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Nisje
 always-check-default =
     .label = Kontrollo përherë për të parë nëse { -brand-short-name }-i është shfletuesi parazgjedhje
     .accesskey = o
-is-default-browser =
-    .message = { -brand-short-name }-i është shfletuesi juaj parazgjedhje
-is-not-default-browser =
-    .message = { -brand-short-name }-i s'është shfletuesi juaj parazgjedhje
 is-default = { -brand-short-name }-i është shfletuesi juaj parazgjedhje
 is-not-default = { -brand-short-name }-i s'është shfletuesi juaj parazgjedhje
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresë(a) sajti
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adresë(a) sajti
 home-custom-homepage-address =
     .placeholder = Jepni adresë
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Zëvendësoje me
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ende pa sajte të shtuar.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Zëvendësoje me
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Faqe aktualisht të hapura
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Metoda pagesash të ruajtura
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Kërko bërje hyrjeje në pajisje, për të plotësuar dhe administruar metoda pagesash
     .accesskey = o
-autofill-payment-methods-title = Metoda pagesash
 autofill-payment-methods-header =
     .aria-label = Metoda pagesash
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = S’u shtuan metoda pagesash
-autofill-addresses-title = Adresa, etj
-autofill-addresses-header =
-    .aria-label = Adresa, etj
 autofill-addresses-checkbox-message =
     .label = Ruaj dhe vetëplotëso adresa
     .accesskey = R
@@ -1619,16 +1602,6 @@ history-header = Historik
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }-i
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }-i
     .accesskey = F
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name }-i do të përdorë të njëjtat rregullime si të shfletimit privat dhe s’do të mbajë mend ndonjë historik, teksa shfletoni në Web.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name }-i do të përdorë rregullime të përshtatur për historik shfletimi, shkarkimesh, formularësh dhe kërkimesh tuajat.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }-i do të përdorë të njëjtat rregullime si të shfletimit privat dhe s’do të mbajë mend ndonjë historik, teksa shfletoni në Web.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }-i do të përdorë rregullime të përshtatur për historik shfletimi, shkarkimesh, formularësh dhe kërkimesh tuajat.
 history-remember-description = { -brand-short-name }-i do të mbajë mend historikun tuaj të shfletimeve, shkarkimeve, formularëve dhe kërkimeve.
 history-dontremember-description = { -brand-short-name }-i do të përdorë të njëjtat rregullime si të shfletimit privat dhe s’do të mbajë mend ndonjë historik, teksa shfletoni në Web.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = “Cookies” dhe të Dhëna Sajtesh
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Po njehsohet madhësi të dhënash sajtesh dhe fshehtine…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Sajtet aktualisht përdorni <strong>{ $value } { $unit }</strong> hapësirë disku.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = “Cookies” tuaja të depozitura, historiku, të dhëna sajtesh dhe fshehtina aktualisht zënë <strong>{ $value } { $unit }</strong> hapësirë disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bllokoni flluska dhe ridrejtime nga palë të treta…
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Administroni ridrejtime
-    .accesskey = A
-    .searchkeywords = flluska
 permissions-addon-install-warning3 =
     .label = Shfaq sinjalizim, kur sajte rreken të instalojnë zgjerime
     .accesskey = i
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Administroni përjashtime për flluska dhe ridrejtime nga palë të treta
     .accesskey = A
     .searchkeywords = flluska
-permissions-addon-install-warning2 =
-    .label = Kur sajte përpiqen të instalojnë zgjerime
-    .accesskey = K
 permissions-addon-exceptions2 =
     .label = Zgjidhni cilët sajte mund të instalojnë zgjerime
     .accesskey = Z
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Përjashtime…
     .accesskey = a
-permissions-header2 =
-    .label = Leje
-    .description = Leje që jepni për sajte që shfletoni.
 permissions-location2 =
     .label = Vendndodhje
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = H
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet hapësira në disk.</strong> Lënda e sajteve mund të mos shfaqet si duhet. Mundësi të spastroni të dhëna të depozituara që nga Rregullime > Privatësi & Siguri > “Cookies” dhe Të dhëna Sajtesh.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name }-it po i mbarohet hapësira në disk.</strong> Lënda e sajteve mund të mos shfaqet si duhet. Që të optimizoni përdorimin tuaj të diskut për punim më të mirë të shfletimin, vizitoni “Mësoni Më Tepër”.
-certs-description2 =
-    .label = Dëshmi
-    .description = Formësoni dëshmitë që { -brand-short-name }-i përdor për mirëfilltësime.
 certs-description3 =
     .label = Dëshmi
     .description = Formësoni dëshmi që përdor { -brand-short-name }-i për të verifikuar lidhje të siguruara.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mënyra Vetëm-HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 httpsonly-description3 = Lejon vetëm lidhje të siguruara te sajtet. { -brand-short-name }-i do të pyesë, para lidhjes në mënyrë jo të siguruar.
 httpsonly-learn-more2 = Si funksionon Vetëm-HTTPS-ja
 httpsonly-description = HTTPS-ja furnizon një lidhje të siguruar, të fshehtëzuar, mes { -brand-short-name }-it dhe sajtit që vizitoni. Shumica e sajteve e mbulojnë përdorimin e HTTPS-së dhe, nëse është aktivizuar mënyrë Vetëm-HTTPS, atëherë { -brand-short-name }-i do t’i kalojë krejt lidhjet nën mënyrën HTTPS.

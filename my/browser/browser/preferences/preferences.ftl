@@ -65,10 +65,6 @@ startup-header = စတင်ခြင်း
 always-check-default =
     .label = { -brand-short-name } သည် ပုံသေဘရောင်ဇာ ဟုတ်/မဟုတ် အမြဲစစ်ဆေးပါ
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်
-is-not-default-browser =
-    .message = { -brand-short-name } သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ
 is-default = { -brand-short-name } သည် လက်ရှိတွင် ပုံသေဘရောက်ဇာ ဖြစ်ပါသည်
 is-not-default = { -brand-short-name } သည် ပုံသေဘရောက်ဇာ ဖြစ်မနေပါ
 set-as-my-default-browser =
@@ -624,16 +620,6 @@ history-header = မှတ်တမ်း
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } သည်
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } သည်
     .accesskey = w
 history-remember-option-all =
@@ -647,12 +633,6 @@ history-remember-description4 =
     .description = { -brand-short-name }သည် သင့်၏ရှာဖွေမှု၊ဆွဲယူမှု၊ရှာဖွေမှတ်တမ်းများကို မှတ်သားမည်။
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }သည် သင့်၏ရှာဖွေမှု၊ဆွဲယူမှု၊ရှာဖွေမှတ်တမ်းများကို မှတ်သားမည်။
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။
 history-remember-description = { -brand-short-name }သည် သင့်၏ရှာဖွေမှု၊ဆွဲယူမှု၊ရှာဖွေမှတ်တမ်းများကို မှတ်သားမည်။
 history-dontremember-description = { -brand-short-name } က တူညီတဲ့ အပြင်အဆင်များကို သီးသန့် လှော်လှန်မှုအဖြစ် သုံးစွဲမှာ ဖြစ်ပြီး၊ ကွန်ရက်ကို သင်လှော်လှန်နေစဉ် ဘယ် မှတ်တမ်းကိုမှ မှတ်သားထားမှာ မဟုတ်ဘူး။

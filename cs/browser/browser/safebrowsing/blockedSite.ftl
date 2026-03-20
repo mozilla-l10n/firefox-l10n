@@ -122,8 +122,3 @@ safeb-blocked-addon-page-learn-more3 =
         [with-cases] <a data-l10n-name='firefox_support_harmful_addons'>Zjistěte více o ochraně před škodlivými doplňky ve { -brand-short-name(case: "gen") }</a>.
        *[no-cases] <a data-l10n-name='firefox_support_harmful_addons'>Zjistěte více o ochraně před škodlivými doplňky v aplikaci { -brand-short-name }</a>.
     }
-safeb-blocked-addon-page-learn-more =
-    { -brand-short-name.case-status ->
-        [with-cases] <a data-l10n-name='firefox_support'>Přečtěte si více o ochraně proti phishingu a malwaru { -brand-short-name(case: "gen") }</a>.
-       *[no-cases] <a data-l10n-name='firefox_support'>Přečtěte si více o ochraně proti phishingu a malwaru aplikace { -brand-short-name }</a>.
-    }

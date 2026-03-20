@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Налаштування приватності вебсайтів
 non-technical-privacy-header = Налаштування приватності вебсайтів
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -136,10 +134,6 @@ startup-header = Запуск
 always-check-default =
     .label = Завжди перевіряти чи { -brand-short-name } типовий браузер
     .accesskey = б
-is-default-browser =
-    .message = { -brand-short-name } зараз ваш типовий браузер
-is-not-default-browser =
-    .message = { -brand-short-name } не є вашим типовим браузером
 is-default = { -brand-short-name } зараз ваш типовий браузер
 is-not-default = { -brand-short-name } не є вашим типовим браузером
 set-as-my-default-browser =
@@ -750,8 +744,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Адреса вебсайту
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Адреса вебсайту
 home-custom-homepage-address =
     .placeholder = Введіть адресу
 home-custom-homepage-address-button =
@@ -763,11 +755,6 @@ home-custom-homepage-no-results =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Замінити на
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ще не додано жодного вебсайту.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Замінити на
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Поточні відкриті сторінки
@@ -1335,7 +1322,6 @@ autofill-saved-payment-methods-button = Збережені способи опл
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Вимагати входу на пристрої для заповнення та керування способами оплати
     .accesskey = х
-autofill-payment-methods-title = Способи оплати
 autofill-payment-methods-header =
     .aria-label = Способи оплати
 autofill-payment-methods-checkbox-message-2 =
@@ -1353,9 +1339,6 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Додати новий спосіб оплати
 payments-list-header =
     .label = Способи оплати
-autofill-addresses-title = Адреси та інше
-autofill-addresses-header =
-    .aria-label = Адреси та інше
 autofill-addresses-checkbox-message =
     .label = Зберігати й автоматично заповнювати адреси
     .accesskey = б
@@ -1387,16 +1370,6 @@ history-header = Історія
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Поведінка { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Поведінка { -brand-short-name }
     .accesskey = П
 history-remember-option-all =
@@ -1413,15 +1386,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } використовуватиме такі самі налаштування, що й у приватному режимі, та не буде пам'ятати історію перегляду.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } використовуватиме власні налаштування для перегляду, завантажень, історії форм і пошуку.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } зберігатиме історію переглядів, завантажень, заповнених форм і пошукових запитів.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } використовуватиме такі самі налаштування, що й у приватному режимі, та не буде пам'ятати історію перегляду.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } використовуватиме власні налаштування для перегляду, завантажень, історії форм і пошуку.
 history-remember-description = { -brand-short-name } зберігатиме історію переглядів, завантажень, заповнених форм і пошукових запитів.
 history-dontremember-description = { -brand-short-name } використовуватиме такі самі налаштування, що й у приватному режимі, та не буде пам'ятати історію перегляду.
@@ -1449,13 +1413,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Файли cookie та дані сайтів
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Обчислення розміру даних сайтів і кешу…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Ваші збережені файли cookie, історія, дані сайтів і кеш використовують <strong>{ $value } { $unit }</strong> дискового простору.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1773,9 +1731,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Керувати винятками спливних вікон і стороннім переспрямуванням…
     .accesskey = К
     .searchkeywords = винятки спливні вікна
-permissions-addon-install-warning2 =
-    .label = Попереджати про спроби вебсайтів встановити розширення
-    .accesskey = и
 permissions-addon-exceptions2 =
     .label = Виберіть вебсайти, які можуть встановлювати розширення
     .accesskey = ь
@@ -1794,9 +1749,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
-permissions-header2 =
-    .label = Дозволи
-    .description = Дозволи, які ви надаєте вебсайтам під час перегляду.
 permissions-location2 =
     .label = Розташування
 permissions-localhost2 =
@@ -1918,16 +1870,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = В
 space-alert-over-5gb-message2 = <strong>Для { -brand-short-name } закінчується місце на диску.</strong> Вміст вебсайтів може показуватись неналежним чином. Ви можете стерти збережені дані в меню Налаштування > Приватність і безпека > Файли cookie та дані сайтів.
 space-alert-under-5gb-message2 = <strong>Для { -brand-short-name } закінчується місце на диску.</strong> Вміст вебсайтів може показуватись неправильно. Натисніть “Докладніше”, щоб оптимізувати використання диска для кращої роботи.
-certs-description2 =
-    .label = Сертифікати
-    .description = налаштування сертифікатів, які { -brand-short-name } використовує для автентифікації.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-режим
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
 httpsonly-description3 = Дозволяє лише захищені з'єднання з вебсайтами. { -brand-short-name } запитає перш ніж встановлювати незахищене з'єднання.
 httpsonly-learn-more2 = Як працює HTTPS-режим
 httpsonly-description = HTTPS забезпечує захищене, зашифроване з'єднання між { -brand-short-name } та відвідуваними вебсайтами. Більшість вебсайтів підтримують HTTPS, тому якщо увімкнено HTTPS-режим, { -brand-short-name } перенаправлятиме усі з'єднання до HTTPS.

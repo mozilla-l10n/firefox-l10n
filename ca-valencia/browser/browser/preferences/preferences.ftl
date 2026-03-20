@@ -96,10 +96,6 @@ startup-header = Inici
 always-check-default =
     .label = Comprova sempre si el { -brand-short-name } és el navegador per defecte
     .accesskey = o
-is-default-browser =
-    .message = Actualment el { -brand-short-name } és el navegador per defecte
-is-not-default-browser =
-    .message = El { -brand-short-name } no és el navegador per defecte
 is-default = Actualment el { -brand-short-name } és el navegador per defecte
 is-not-default = El { -brand-short-name } no és el navegador per defecte
 set-as-my-default-browser =
@@ -887,16 +883,6 @@ history-header = Historial
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = El { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = El { -brand-short-name }
     .accesskey = l
 history-remember-option-all =
@@ -910,12 +896,6 @@ history-remember-description4 =
     .description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
 history-remember-description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
 history-dontremember-description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.

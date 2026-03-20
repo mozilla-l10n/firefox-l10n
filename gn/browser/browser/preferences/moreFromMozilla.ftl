@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } IA ñanduti rogue moheñoih
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = MDN ñandutigua kuatiatee
 more-from-moz-mdn-description = Eikuaa ñanduti ñemboguata kuaukaha ndive ha opamba’e reigua ha tuichaháicha.
 more-from-moz-mdn-button = Eñembokatupyry ñanduti mboguatarãme
 more-from-moz-mdn-title2 = { -mdn-brand-name }

@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = E-mailowe maski { -relay-brand-name } naraźiś
     .description = Chowa wašu e-mailowu adresu, aby waš dochad posta pśed spamom šćitał.
 non-technical-privacy-header = Nastajenja priwatnosći websedła
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Startowaś
 always-check-default =
     .label = Pśecej kontrolěrowaś, lěc { -brand-short-name } jo waš standardny wobglědowak
     .accesskey = c
-is-default-browser =
-    .message = { -brand-short-name } jo tuchylu waš standardny wobglědowak
-is-not-default-browser =
-    .message = { -brand-short-name } njejo waš standardny wobglědowak
 is-default = { -brand-short-name } jo tuchylu waš standardny wobglědowak
 is-not-default = { -brand-short-name } njejo waš standardny wobglědowak
 set-as-my-default-browser =
@@ -886,8 +880,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adrese websedłow
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adrese websedłow
 home-custom-homepage-address =
     .placeholder = Adresu zapódaś
 home-custom-homepage-address-button =
@@ -902,11 +894,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Wuměniś z
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Hyšći žedne websedła pśidane.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Wuměniś z
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Aktualne wócynjone boki
@@ -1543,7 +1530,6 @@ autofill-saved-payment-methods-button = Skłaźone płaśeńske metody
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Rědowe pśizjawjenje za wupołnjenje a zastojanje płaśeńskcih metodow pominaś
     .accesskey = d
-autofill-payment-methods-title = Płaśeńske metody
 autofill-payment-methods-header =
     .aria-label = Płaśeńske metody
 autofill-payment-methods-checkbox-message-2 =
@@ -1571,9 +1557,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Žedne płaśeńske metody pśidane
-autofill-addresses-title = Adrese a wěcej
-autofill-addresses-header =
-    .aria-label = Adrese a wěcej
 autofill-addresses-checkbox-message =
     .label = Adrese składowaś a awtomatiski wupołniś
     .accesskey = A
@@ -1627,16 +1610,6 @@ history-header = Historija
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } buźo
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } buźo
     .accesskey = b
 history-remember-option-all =
@@ -1658,15 +1631,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } buźo te samske nastajenja ako w priwatnem modusu wužywaś a njebuźo se historiju markowaś, gaž Web pśeglědujośo.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } buźo swójske nastajenja za wašu pśeglědowańsku, ześěgnjeńsku, formularnu a pytańsku historiju wužywaś.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } buźo se wašu pśeglědowańsku, ześěgnjeńsku, formularnu a pytańsku historiju spomnjeś.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } buźo te samske nastajenja ako w priwatnem modusu wužywaś a njebuźo se historiju markowaś, gaž Web pśeglědujośo.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } buźo swójske nastajenja za wašu pśeglědowańsku, ześěgnjeńsku, formularnu a pytańsku historiju wužywaś.
 history-remember-description = { -brand-short-name } buźo se wašu pśeglědowańsku, ześěgnjeńsku, formularnu a pytańsku historiju spomnjeś.
 history-dontremember-description = { -brand-short-name } buźo te samske nastajenja ako w priwatnem modusu wužywaś a njebuźo se historiju markowaś, gaž Web pśeglědujośo.
@@ -1706,17 +1670,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookieje a sedłowe daty
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Wjelikosć sedłowych datow a pufrowaka se wulicujo…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Websedła tuchylu <strong>{ $value } { $unit } </strong> platowego ruma wužywaju.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Waše skłaźone cookieje, historija, sedłowe daty a pufrowak se tuchylu <strong>{ $value } { $unit }</strong> platowego ruma wužywaju.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2052,12 +2010,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow blokěrowaś…
     .accesskey = u
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Dalejpósrědnjenja zastojaś
-    .accesskey = D
-    .searchkeywords = wuskokujuce wokna
 permissions-addon-install-warning3 =
     .label = Warnowanje pokazaś, gaž sedła wopytuju rozšyrjenja instalěrowaś
     .accesskey = W
@@ -2067,9 +2019,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Wuskokujuce wokna a wuwześa dalejpósrědnjenjow tśeśich póbitowarjow zastojaś
     .accesskey = u
     .searchkeywords = wuskokujuce wokna
-permissions-addon-install-warning2 =
-    .label = Warnowaś, gaž sedła wopytuju rozšyrjenja instalěrowaś
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Wubjeŕśo, kótare websedła mógu rozšyrjenja instalěrowaś
     .accesskey = b
@@ -2088,9 +2037,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wuwześa…
     .accesskey = W
-permissions-header2 =
-    .label = Pšawa
-    .description = Pšawa, kótarež websedłam dawaśo, ku kótarymž se woglědujośo.
 permissions-location2 =
     .label = Stojnišćo
 permissions-localhost2 =
@@ -2225,9 +2171,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = c
 space-alert-over-5gb-message2 = <strong> { -brand-short-name } njama wěcej dosć składowańskego ruma.</strong> Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo skłaźone daty w Nastajenja > Priwatnosć a wěstota > Cookieje a sedłowe daty lašowaś.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } njama wěcej dosć składowańskego ruma.</strong> Wopśimjeśe websedła se snaź korektnje njezwobraznijo. Móžośo na “Dalšne informacije” kliknuś, aby swój składowe wužyśe za lěpše pśeglědowańske dožywjenje opiměrował.
-certs-description2 =
-    .label = Certifikaty
-    .description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } za awtentifikaciju wužywa.
 certs-description3 =
     .label = Certifikaty
     .description = Konfigurěrujśo certifikaty, kótarež { -brand-short-name } wužywa, aby wěste zwiski pśekontrolěrował.
@@ -2241,9 +2184,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modus Jano-HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Zmóžnja jano wěste zwiski z websedłami. { -brand-short-name } buźo se was pšašaś, nježli až njewěsće zwězujo.
 httpsonly-description3 = Zmóžnja jano wěste zwiski z websedłami. { -brand-short-name } buźo se was pšašaś, nježli až njewěsće zwězujo.
 httpsonly-learn-more2 = Kak Jano-HTTPS funkcioněrujo
 httpsonly-description = HTTPS wěsty, skoděrowany zwisk mjazy { -brand-short-name } a websedłami bitujo, ku kótarymž se woglědujośo. Nejwěcej websedłow HTTPS pódpěra, a jolic modus Jano-HTTPS jo zmóžnjony, { -brand-short-name } buźo wše zwiski na HTTPS aktualizěrowaś.

@@ -59,10 +59,6 @@ search-results-help-link = ¿Nukunu chineiani noo´o? Kune´ya <a data-l10n-name
 ## General Section
 
 startup-header = Nuu kajie´e
-is-default-browser =
-    .message = { -brand-short-name } kuvi ka̱a̱ nánuku xinañu'u
-is-not-default-browser =
-    .message = { -brand-short-name } ntu kuvi ka̱a̱ nánuku xinañu'u
 is-default = { -brand-short-name } kuvi ka̱a̱ nánuku xinañu'u
 is-not-default = { -brand-short-name } ntu kuvi ka̱a̱ nánuku xinañu'u
 set-as-my-default-browser =
@@ -742,16 +738,6 @@ history-header = Sɨ´ɨ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
@@ -762,9 +748,6 @@ history-remember-option-custom =
     .label = Ni'i configuraciones personalizadas nuu historial
 history-remember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
 history-remember-description = { -brand-short-name } kuna̱'an a nkanu, nxinu, formularios ji historial nnánukunu.
 history-private-browsing-permanent =

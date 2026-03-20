@@ -66,10 +66,6 @@ startup-header = Caki
 always-check-default =
     .label = Jwijwi rot kace { -brand-short-name } tye layeny mamegi makwongo
     .accesskey = j
-is-default-browser =
-    .message = { -brand-short-name } kombedi tye layeny mamegi makwongo
-is-not-default-browser =
-    .message = { -brand-short-name } pe tye layeny mamegi makwongo
 is-default = { -brand-short-name } kombedi tye layeny mamegi makwongo
 is-not-default = { -brand-short-name } pe tye layeny mamegi makwongo
 set-as-my-default-browser =
@@ -666,16 +662,6 @@ history-header = Gin mukato
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } obi
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } obi
     .accesskey = o
 history-remember-option-all =
@@ -689,12 +675,6 @@ history-remember-description4 =
     .description = { -brand-short-name } bi poo ikom yeny mamegi, gam, pwom ki yeny mukato.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } bi poo ikom yeny mamegi, gam, pwom ki yeny mukato.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.
 history-remember-description = { -brand-short-name } bi poo ikom yeny mamegi, gam, pwom ki yeny mukato.
 history-dontremember-description = { -brand-short-name } bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.

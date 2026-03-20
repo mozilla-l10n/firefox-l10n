@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = Trình tạo trang web bằng AI của { -solo-ai-b
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = Tài liệu Web MDN
 more-from-moz-mdn-description = Tìm hiểu phát triển web với các hướng dẫn và tài liệu tham khảo miễn phí và toàn diện.
 more-from-moz-mdn-button = Tìm hiểu phát triển web
 more-from-moz-mdn-title2 = { -mdn-brand-name }

@@ -113,10 +113,6 @@ startup-header = Loc'hañ
 always-check-default =
     .label = Gwiriañ atav ma'z eo { -brand-short-name } ho merdeer dre ziouer
     .accesskey = w
-is-default-browser =
-    .message = Ho merdeer dre ziouer eo { -brand-short-name }
-is-not-default-browser =
-    .message = N'eo ket { -brand-short-name } ho merdeer dre ziouer
 is-default = Ho merdeer dre ziouer eo { -brand-short-name }
 is-not-default = N'eo ket { -brand-short-name } ho merdeer dre ziouer
 set-as-my-default-browser =
@@ -1029,16 +1025,6 @@ history-header = Roll istor
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Gant { -brand-short-name } e vo:
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Gant { -brand-short-name } e vo:
     .accesskey = G
 history-remember-option-all =
@@ -1052,12 +1038,6 @@ history-remember-description4 =
     .description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.
 history-remember-description = { -brand-short-name } a zalc'ho soñj eus ho roll istor, ho pellgargadennoù, ho furmskridoù hag ho klaskoù.
 history-dontremember-description = { -brand-short-name } a implijo ar memes arventennoù hag ar merdeiñ prevez, ha ne zalc'ho ket soñj ar roll istor.

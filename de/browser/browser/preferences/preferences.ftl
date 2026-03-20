@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = { -relay-brand-name } E-Mail-Masken vorschlagen
     .description = Verbirgt Ihre echte E-Mail-Adresse, um Ihren Posteingang vor Spam zu schützen.
 non-technical-privacy-header = Datenschutzeinstellungen für Websites
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Start
 always-check-default =
     .label = Immer überprüfen, ob { -brand-short-name } der Standardbrowser ist
     .accesskey = p
-is-default-browser =
-    .message = { -brand-short-name } ist derzeit der Standardbrowser
-is-not-default-browser =
-    .message = { -brand-short-name } ist nicht Ihr Standardbrowser
 is-default = { -brand-short-name } ist derzeit der Standardbrowser
 is-not-default = { -brand-short-name } ist nicht Ihr Standardbrowser
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Website-Adresse(n)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Website-Adresse(n)
 home-custom-homepage-address =
     .placeholder = Adresse eingeben
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Ersetzen durch
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Noch keine Websites hinzugefügt.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Ersetzen durch
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Derzeit geöffnete Seiten
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Gespeicherte Zahlungsmethoden
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Anmeldung am Gerät zum Ausfüllen und Verwalten von Zahlungsmethoden verlangen
     .accesskey = u
-autofill-payment-methods-title = Zahlungsmethoden
 autofill-payment-methods-header =
     .aria-label = Zahlungsmethoden
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Keine Zahlungsmethoden hinzugefügt
-autofill-addresses-title = Adressen und mehr
-autofill-addresses-header =
-    .aria-label = Adressen und mehr
 autofill-addresses-checkbox-message =
     .label = Adressen speichern und automatisch ausfüllen
     .accesskey = s
@@ -1619,16 +1602,6 @@ history-header = Chronik
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } wird eine Chronik
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } wird eine Chronik
     .accesskey = F
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } wird dieselben Einstellungen wie im Privaten Modus verwenden und keinerlei Chronik anlegen, während Sie { -brand-short-name } benutzen.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } wird benutzerdefinierte Einstellungen für das Surfen, Downloads, Formulare und Suchchroniken verwenden.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } wird die Adressen der besuchten Webseiten, Downloads sowie eingegebene Formular- und Suchdaten speichern.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } wird dieselben Einstellungen wie im Privaten Modus verwenden und keinerlei Chronik anlegen, während Sie { -brand-short-name } benutzen.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } wird benutzerdefinierte Einstellungen für das Surfen, Downloads, Formulare und Suchchroniken verwenden.
 history-remember-description = { -brand-short-name } wird die Adressen der besuchten Webseiten, Downloads sowie eingegebene Formular- und Suchdaten speichern.
 history-dontremember-description = { -brand-short-name } wird dieselben Einstellungen wie im Privaten Modus verwenden und keinerlei Chronik anlegen, während Sie { -brand-short-name } benutzen.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies und Website-Daten
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Größe von Website-Daten und Cache wird berechnet…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Websites belegen derzeit <strong>{ $value } { $unit }</strong> Speicherplatz.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Die gespeicherten Cookies, Chronik, Website-Daten und der Cache belegen derzeit <strong>{ $value } { $unit }</strong> Speicherplatz.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blockieren Sie Pop-ups und Drittanbieter-Weiterleitungen
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Ausnahmen für Pop-ups und Drittanbieter-Weiterleitungen verwalten
-    .accesskey = P
-    .searchkeywords = Popups, Pop-ups
 permissions-addon-install-warning3 =
     .label = Warnen, wenn Websites versuchen, Erweiterungen zu installieren
     .accesskey = W
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Ausnahmen für Pop-ups und Drittanbieter-Weiterleitungen verwalten
     .accesskey = P
     .searchkeywords = Popup Popups
-permissions-addon-install-warning2 =
-    .label = Warnen, wenn Websites versuchen, Erweiterungen zu installieren
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Wählen Sie aus, welche Websites Erweiterungen installieren dürfen
     .accesskey = E
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ausnahmen…
     .accesskey = A
-permissions-header2 =
-    .label = Berechtigungen
-    .description = Berechtigungen, die Sie den von Ihnen besuchten Websites erteilen.
 permissions-location2 =
     .label = Standort
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = E
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Sie können gespeicherte Daten im Menü Einstellungen > Datenschutz & Sicherheit > Cookies und Website-Daten löschen.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } verfügt über nur noch wenig freien Speicherplatz.</strong> Website-Inhalte werden vielleicht nicht richtig angezeigt. Besuchen Sie "Weitere Informationen", um die Speichernutzung für ein besseres Weberlebnis zu optimieren.
-certs-description2 =
-    .label = Zertifikate
-    .description = Zertifikate konfigurieren, die { -brand-short-name } zur Authentifizierung verwendet.
 certs-description3 =
     .label = Zertifikate
     .description = Konfigurieren Sie die Zertifikate, die { -brand-short-name } zur Überprüfung sicherer Verbindungen verwendet.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Nur-HTTPS-Modus
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
 httpsonly-description3 = Erlaubt nur sichere Verbindungen zu Websites. { -brand-short-name } wird nachfragen, bevor eine unsichere Verbindung hergestellt wird.
 httpsonly-learn-more2 = So funktioniert Nur-HTTPS
 httpsonly-description = HTTPS bietet eine sichere, verschlüsselte Verbindung zwischen { -brand-short-name } und den von Ihnen besuchten Websites. Die meisten Websites unterstützen HTTPS und wenn der Nur-HTTPS-Modus aktiviert ist, wird { -brand-short-name } alle Verbindungen zu HTTPS aufrüsten.

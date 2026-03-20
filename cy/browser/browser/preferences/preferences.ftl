@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Awgrymu arallenwau e-bost { -relay-brand-name }
     .description = Mae'n cuddio'ch cyfeiriad go-iawn er mwyn diogelu eich blwch derbyn rhag sbam.
 non-technical-privacy-header = Dewisiadau Preifatrwydd Gwefan
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Cychwyn
 always-check-default =
     .label = Wrth gychwyn, gwirio ai { -brand-short-name } yw eich porwr ragosodedig
     .accesskey = W
-is-default-browser =
-    .message = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
-is-not-default-browser =
-    .message = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
 is-default = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
 is-not-default = { -brand-short-name } yw eich porwr rhagosodedig cyfredol
 set-as-my-default-browser =
@@ -892,8 +886,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Cyfeiriad(au) gwefan
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Cyfeiriad(au) gwefan
 home-custom-homepage-address =
     .placeholder = Rhowch gyfeiriad
 home-custom-homepage-address-button =
@@ -908,11 +900,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Amnewid gyda
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Dim gwefannau wedi'u hychwanegu eto.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Amnewid gyda
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Tudalennau ar agor nawr
@@ -1551,7 +1538,6 @@ autofill-saved-payment-methods-button = Dulliau talu wedi'u cadw
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Gofyn am fewngofnodi dyfais i lenwi a rheoli dulliau talu
     .accesskey = t
-autofill-payment-methods-title = Dulliau talu
 autofill-payment-methods-header =
     .aria-label = Dulliau talu
 autofill-payment-methods-checkbox-message-2 =
@@ -1579,9 +1565,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Dim dulliau talu wedi'u hychwanegu
-autofill-addresses-title = Cyfeiriadau a mwy
-autofill-addresses-header =
-    .aria-label = Cyfeiriadau a mwy
 autofill-addresses-checkbox-message =
     .label = Cadw ac awtolenwi cyfeiriadau
     .accesskey = C
@@ -1635,16 +1618,6 @@ history-header = Hanes
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Bydd { -brand-short-name } yn
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Bydd { -brand-short-name } yn
     .accesskey = B
 history-remember-option-all =
@@ -1666,15 +1639,6 @@ history-dontremember-description4 =
     .description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = Bydd { -brand-short-name } yn defnyddio gosodiadau cyfaddas ar gyfer eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = Bydd { -brand-short-name } yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = Bydd { -brand-short-name } yn defnyddio gosodiadau cyfaddas ar gyfer eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
 history-remember-description = Bydd { -brand-short-name } yn cofio eich hanes pori, llwytho i lawr, ffurflenni a chwilio.
 history-dontremember-description = Bydd { -brand-short-name } yn defnyddio'r un gosodiadau â phori preifat, ond ni fydd yn cofio unrhyw hanes wrth i chi bori'r We.
@@ -1714,17 +1678,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cwcis a Data Gwefan
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Cyfrifo maint data gwefan a storfa dros dro…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Mae gwefannau'n defnyddio <strong>{ $value } { $unit }</strong> o ofod disg ar hyn o bryd.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Mae'r cwcis, data gwefan a storfa dros dro yn defnyddio <strong>{ $value } { $unit }</strong> o le ar ddisg ar hyn o bryd.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2060,12 +2018,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Rhwystro llamlenni ac ailgyfeirio trydydd parti
     .accesskey = l
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Rheoli ailgyfeiriadau
-    .accesskey = a
-    .searchkeywords = llamlenni
 permissions-addon-install-warning3 =
     .label = Dangos rhybudd pan fydd gwefannau'n ceisio gosod estyniadau
     .accesskey = r
@@ -2075,9 +2027,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Rheoli eithriadau ailgyfeirio llamlenni a thrydydd parti
     .accesskey = R
     .searchkeywords = llamlenni
-permissions-addon-install-warning2 =
-    .label = Rhybuddio pan fydd gwefannau'n ceisio gosod estyniadau
-    .accesskey = R
 permissions-addon-exceptions2 =
     .label = Dewis pa wefannau all osod estyniadau
     .accesskey = D
@@ -2096,9 +2045,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Eithriadau…
     .accesskey = E
-permissions-header2 =
-    .label = Caniatâd
-    .description = Y caniatâd rydych yn rhoi i wefannau rydych yn eu pori
 permissions-location2 =
     .label = Lleoliad
 permissions-localhost2 =
@@ -2233,9 +2179,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le ar ddisg.</strong> Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Mae modd i chi glirio data wedi ei storio yn Dewisiadau > Preifatrwydd a Diogelwch > Cwcis a Data Gwefan.
 space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le ar ddisg.</strong> Efallai na fydd cynnwys gwefan yn cael ei ddangos yn iawn. Ewch i “Learn More” i wella'r defnydd o'r disg ar gyfer gwell profiad pori.
-certs-description2 =
-    .label = Tystysgrifau
-    .description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio ar gyfer dilysu.
 certs-description3 =
     .label = Tystysgrifau
     .description = Ffurfweddu'r tystysgrifau mae { -brand-short-name } yn eu defnyddio i ddilysu cysylltiadau.
@@ -2249,9 +2192,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modd HTTPS-yn-Unig
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
 httpsonly-description3 = Dim ond yn caniatáu cysylltiadau diogel â gwefannau. Bydd { -brand-short-name } yn gofyn cyn cysylltu'n anniogel.
 httpsonly-learn-more2 = Sut mae HTTPS-yn Unig yn gweithio
 httpsonly-description = Mae HTTPS yn darparu cysylltiad diogel, wedi'i amgryptio rhwng  { -brand-short-name } a'r gwefannau rydych chi'n ymweld â nhw. Mae'r mwyafrif o wefannau yn cefnogi HTTPS, ac os yw Modd HTTPS-yn-Unig wedi'i alluogi, yna bydd { -brand-short-name } yn uwchraddio'r holl gysylltiadau â HTTPS.

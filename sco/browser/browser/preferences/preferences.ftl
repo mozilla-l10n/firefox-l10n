@@ -96,10 +96,6 @@ startup-header = Stertup
 always-check-default =
     .label = Ayeweys check if { -brand-short-name } is yer staunart stravaiger
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } is yer staunart stravaiger the noo
-is-not-default-browser =
-    .message = { -brand-short-name } isnae yer staunart stravaiger
 is-default = { -brand-short-name } is yer staunart stravaiger the noo
 is-not-default = { -brand-short-name } isnae yer staunart stravaiger
 set-as-my-default-browser =
@@ -887,16 +883,6 @@ history-header = Historie
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } will
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } will
     .accesskey = w
 history-remember-option-all =
@@ -910,12 +896,6 @@ history-remember-description4 =
     .description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.
 history-remember-description = { -brand-short-name } will mind yer stravaigin, doonload, form and sairch historie.
 history-dontremember-description = { -brand-short-name } will yaise the same settins as private stravaigin, and willnae mind o onie historie as ye stravaig the Wab.

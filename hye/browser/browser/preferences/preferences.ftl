@@ -113,10 +113,6 @@ startup-header = Մեկնարկ
 always-check-default =
     .label = Միշտ ստուգել՝ արդեւք { -brand-short-name }-ը ձեր լռելեայն զննարկիչն է
     .accesskey = շ
-is-default-browser =
-    .message = { -brand-short-name }-ն այժմ ձեր լռելեայն զննարկիչն է
-is-not-default-browser =
-    .message = { -brand-short-name }-ն ձեր հիմնական դիտարկիչը չէ
 is-default = { -brand-short-name }-ն այժմ ձեր լռելեայն զննարկիչն է
 is-not-default = { -brand-short-name }-ն ձեր հիմնական դիտարկիչը չէ
 set-as-my-default-browser =
@@ -955,16 +951,6 @@ history-header = Պատմութիւն
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }-ը կը սկսի
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }-ը կը սկսի
     .accesskey = կ
 history-remember-option-all =
@@ -978,12 +964,6 @@ history-remember-description4 =
     .description = { -brand-short-name }-ը կը յիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name }֊ը կաւգտագործի գաղտնի դիտարկման կարգաւորումները եւ չի յիշի համացանցում Ձեր դիտարկումների պատմութիւնը:
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }-ը կը յիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }֊ը կաւգտագործի գաղտնի դիտարկման կարգաւորումները եւ չի յիշի համացանցում Ձեր դիտարկումների պատմութիւնը:
 history-remember-description = { -brand-short-name }-ը կը յիշի դիտարկումների, ներբեռնումների, ձեւերի եւ որոնումների պատմութիւնը:
 history-dontremember-description = { -brand-short-name }֊ը կաւգտագործի գաղտնի դիտարկման կարգաւորումները եւ չի յիշի համացանցում Ձեր դիտարկումների պատմութիւնը:

@@ -17,8 +17,6 @@ non-technical-privacy-group =
 non-technical-privacy-heading =
     .label = Муҳофизати иловагӣ
 non-technical-privacy-header = Хусусиятҳои махфияти сомона
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -141,10 +139,6 @@ startup-header = Оғози кор
 always-check-default =
     .label = Ҳамеша тафтиш кунед, ки «{ -brand-short-name }» браузери пешфарзи шумо мебошад
     .accesskey = Ҳ
-is-default-browser =
-    .message = «{ -brand-short-name }» браузери пешфарзи шумо мебошад
-is-not-default-browser =
-    .message = «{ -brand-short-name }» браузери пешфарзи шумо намебошад
 is-default = «{ -brand-short-name }» браузери пешфарзи шумо мебошад
 is-not-default = «{ -brand-short-name }» браузери пешфарзи шумо намебошад
 set-as-my-default-browser =
@@ -858,8 +852,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Нишони(ҳо)и сомона
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Нишони(ҳо)и сомона
 home-custom-homepage-address =
     .placeholder = Нишониеро ворид намоед
 home-custom-homepage-address-button =
@@ -874,11 +866,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Иваз кардан бо
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = То ҳол ягон сомона илова карда нашудааст.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Иваз кардан бо
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Саҳифаҳои кушодашудаи ҷорӣ
@@ -1502,7 +1489,6 @@ autofill-saved-payment-methods-button = Тарзҳои пардохти ниго
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Дархости воридшавӣ дар дастгоҳ барои пур кардан ва идора намудани тарзҳои пардохт
     .accesskey = Д
-autofill-payment-methods-title = Тарзҳои пардохт
 autofill-payment-methods-header =
     .aria-label = Тарзҳои пардохт
 autofill-payment-methods-checkbox-message-2 =
@@ -1530,9 +1516,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ягон тарзи пардохт илова карда нашуд
-autofill-addresses-title = Нишониҳо ва ғайра
-autofill-addresses-header =
-    .aria-label = Нишониҳо ва ғайра
 autofill-addresses-checkbox-message =
     .label = Нигоҳ доштан ва ба таври худкор пур кардани нишониҳо
     .accesskey = Н
@@ -1586,16 +1569,6 @@ history-header = Таърих
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
@@ -1612,15 +1585,6 @@ history-dontremember-description4 =
     .description = «{ -brand-short-name }» танзимоти реҷаи тамошобинии хусусиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошобинии сомонаҳо дар хотир намедорад.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = «{ -brand-short-name }» барои тамошобинӣ, боргирӣ, шаклҳо ва таърихи ҷустуҷӯи шумо аз танзимоти фармоишии шумо истифода мебарад.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = «{ -brand-short-name }» танзимоти реҷаи тамошобинии хусусиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошобинии сомонаҳо дар хотир намедорад.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = «{ -brand-short-name }» барои тамошобинӣ, боргирӣ, шаклҳо ва таърихи ҷустуҷӯи шумо аз танзимоти фармоишии шумо истифода мебарад.
 history-remember-description = Браузери «{ -brand-short-name }» таърихи тамошобинӣ, боргирӣ, шаклҳо ва ҷустуҷӯи шуморо дар хотир медорад.
 history-dontremember-description = «{ -brand-short-name }» танзимоти реҷаи тамошобинии хусусиро истифода мебарад ва ягон таърихи шуморо ҳангоми тамошобинии сомонаҳо дар хотир намедорад.
@@ -1650,13 +1614,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Кукиҳо ва иттилооти сомона
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Ҳисобкунии ҳаҷми маълумоти сомона ва андозаи зерҳофиза…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Айни замон кукиҳои нигоҳдошташуда, таърих, маълумоти сомона ва зерҳофиза <strong>{ $value }{ $unit }</strong> фазои дискро истифода мебаранд.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1982,9 +1940,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Идоракунии истисноҳои равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
     .accesskey = И
     .searchkeywords = равзанаҳои зоҳиршаванда
-permissions-addon-install-warning2 =
-    .label = Намоиш додани огоҳӣ ҳангоми кӯшиши насби васеъшавиҳо аз тарафи сомонаҳо
-    .accesskey = Н
 permissions-addon-exceptions2 =
     .label = Интихоб кунед, ки кадом сомонаҳо метавонанд васеъшавиҳоро насб кунанд
     .accesskey = И
@@ -2003,9 +1958,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Истисноҳо…
     .accesskey = И
-permissions-header2 =
-    .label = Иҷозатҳо
-    .description = Иҷозатҳое, ки шумо ба сомонаҳое, ки тамошо мекунед, медиҳед.
 permissions-location2 =
     .label = Ҷойгиршавӣ
 permissions-localhost2 =
@@ -2128,16 +2080,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = К
 space-alert-over-5gb-message2 = <strong>Фазои диски «{ -brand-short-name }» қариб комилан пур шуд.</strong> Муҳтавои сомонаҳо метавонад нодуруст намоиш дода шавад. Шумо метавонед маълумоти нигоҳдошташударо дар Танзимот > Махфият ва амният > Кукиҳо ва маълумоти сомона пок кунед.
 space-alert-under-5gb-message2 = <strong>Фазои диски «{ -brand-short-name }» қариб комилан пур шуд.</strong> Муҳтавои сомонаҳо метавонад нодуруст намоиш дода шавад. Барои ба таври беҳтар истифода бурдани диски худ ва барои таҷрибаи тамошобинии беҳин, ба «Маълумоти бештар» нигаред.
-certs-description2 =
-    .label = Гувоҳномаҳо
-    .description = Танзим кардани гувоҳиномаҳое, ки «{ -brand-short-name }» барои санҷиши ҳаққоният истифода мебарад.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Реҷаи «Танҳо HTTPS»
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 httpsonly-description3 = Ин имкон танҳо ба пайвастҳои бехатар ба сомонаҳо иҷозат медиҳад. «{ -brand-short-name }» пеш аз сохтани пайвастшавии ҳифзнашуда иҷозат мепурсад.
 httpsonly-learn-more2 = Чӣ тавр реҷаи «Танҳо HTTPS» кор мекунад
 httpsonly-description = HTTPS байни «{ -brand-short-name }» ва сомонаҳое, ки шумо истифода мебаред, пайвастшавии бехатар ва рамзгузоришударо таъмин менамояд. Бисёр сомонаҳо «HTTPS»-ро дастгирӣ менамоянд, ва агар Реҷаи «Танҳо HTTPS» фаъол шуда бошад, он гоҳ браузери «{ -brand-short-name }» ҳамаи пайвастҳоро ба «HTTPS» такмил медиҳад.

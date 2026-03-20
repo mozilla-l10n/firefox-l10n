@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Preferèntzias de riservadesa de su situ
 non-technical-privacy-header = Preferèntzias de riservadesa de su situ
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -131,10 +129,6 @@ startup-header = Aviu
 always-check-default =
     .label = Controlla semper si { -brand-short-name } est su navigadore predefinidu tuo
     .accesskey = C
-is-default-browser =
-    .message = Immoe { -brand-short-name } est su navigadore predefinidu tuo
-is-not-default-browser =
-    .message = { -brand-short-name } no est su navigadore predefinidu tuo
 is-default = Immoe { -brand-short-name } est su navigadore predefinidu tuo
 is-not-default = { -brand-short-name } no est su navigadore predefinidu tuo
 set-as-my-default-browser =
@@ -1182,7 +1176,6 @@ autofill-saved-payment-methods-button = Mètodos de pagamentu sarvados
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Rechede s’identificatzione in su dispositivu pro compilare in automàticu e gestire is mètodos de pagamentu
     .accesskey = R
-autofill-payment-methods-title = Mètodos de pagamentu
 autofill-payment-methods-header =
     .aria-label = Mètodos de pagamentu
 autofill-payment-methods-checkbox-message-2 =
@@ -1195,9 +1188,6 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Rechede s’identificatzione in su dispositivu pro compilare in automàticu e gestire is mètodos de pagamentu
     .accesskey = R
-autofill-addresses-title = Indiritzos e àteru
-autofill-addresses-header =
-    .aria-label = Indiritzos e àteru
 autofill-addresses-checkbox-message =
     .label = Sarva e cumpleta in automàticu is indiritzos
     .accesskey = a
@@ -1221,16 +1211,6 @@ history-header = Cronologia
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = a
 history-remember-option-all =
@@ -1244,12 +1224,6 @@ history-remember-description4 =
     .description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
 history-remember-description = { -brand-short-name } at a regordare sa cronologia de navigatzione, iscarrigamentu, formulàrios e de chirca.
 history-dontremember-description = { -brand-short-name } at a impreare sa pròpiu cunfiguratzione de sa navigatzione privada, e no at a regordare nissuna cronologia durante sa navigatzione tua in rete.
@@ -1278,10 +1252,6 @@ history-group =
 
 sitedata-header = Testimòngios e datos de is sitos
 sitedata-total-size-calculating = Carculende sa mannària de is datos de is sitos e de sa memòria temporànea…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Is testimòngios, sa cronologia, is datos de sitos e sa memòria temporànea sunt impreende immoe <strong>{ $value } { $unit }</strong> de ispàtziu in su discu.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1694,16 +1664,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu pro { -brand-short-name }.</strong> Podet èssere chi is cuntenutos de is sitos no s'ammustrent in manera curreta. Podes isboidare is datos de is sitos sarvados in Cunfiguratziones > Riservadesa e Seguresa > Testimòngios e datos de is sitos.
 space-alert-under-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu pro { -brand-short-name }.</strong> Podet èssere chi is cuntenutos de is sitos no s'ammustrent in manera curreta. Bae a “Àteras informatziones” pro megiorare s'impreu de s'ispàtziu de su discu e duncas s'esperièntzia de navigatzione.
-certs-description2 =
-    .label = Tzertificados
-    .description = Cunfigura is tzertificados impreados dae { -brand-short-name } pro s’autenticatzione.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modalidade HTTPS ebbia
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
 httpsonly-description3 = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
 httpsonly-learn-more2 = Comente funtzionat sa modalidade «isceti HTTPS»
 httpsonly-description = HTTPS garantit una connessione segura e tzifrada intre { -brand-short-name } e is sitos web chi ses bisitende. Sa majoria de is sitos sunt cumpatìbiles cun HTTPS; si sa Modalidade HTTPS ebbia est ativada, { -brand-short-name } at a impreare HTTPS in totu is connessiones.

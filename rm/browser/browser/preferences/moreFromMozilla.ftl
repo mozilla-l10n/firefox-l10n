@@ -43,6 +43,5 @@ more-from-moz-solo-title-2 = Creatur da websites IA { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = Documentaziun web MDN
 more-from-moz-mdn-description = Emprenda il svilup dal web cun agid da documentaziuns e manuals cumplessivs e gratuits.
 more-from-moz-mdn-button = Emprender il svilup dal web

@@ -40,5 +40,4 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } ԱԲ վեբ-կայքի ստ
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = MDN վեբ փաստաթղթեր
 more-from-moz-mdn-button = Սովորեք վեբ մշակում

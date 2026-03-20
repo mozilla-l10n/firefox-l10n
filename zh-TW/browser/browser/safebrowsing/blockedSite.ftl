@@ -74,4 +74,3 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> �
 safeb-blocked-addon-page-error-desc3-override = <strong>您可以做什麼？</strong>
 safeb-blocked-addon-page-error-desc4-override = 若要防止這個情況再發生，可以到 about:addons 移除或停用 <strong>{ $addonName }</strong>。
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>了解 { -brand-short-name } 的有害附加元件保護機制的更多資訊</a>。
-safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>了解 { -brand-short-name } 的防釣魚及惡意軟體保護功能的更多資訊</a>。

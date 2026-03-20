@@ -67,10 +67,6 @@ startup-header = འགོ་བསྐྱར་འཛུགས
 always-check-default =
     .label = དུས་རྟག་ཏུ་{ -brand-short-name }་ནི་སྔོན་སྒྲིག་གི་ལྟ་བྱེད་ཡིན་མིན་ལྟ་ཞིབ་བྱེད
     .accesskey = w
-is-default-browser =
-    .message = ད་ལྟ་{ -brand-short-name }་ནི་ཁྱེད་ཀྱི་སྔོན་སྒྲིག་གི་ལྟ་བྱེད་རེད།
-is-not-default-browser =
-    .message = ད་ལྟ་{ -brand-short-name }་ནི་ཁྱེད་ཀྱི་སྔོན་སྒྲིག་གི་ལྟ་བྱེད་མ་རེད།
 is-default = ད་ལྟ་{ -brand-short-name }་ནི་ཁྱེད་ཀྱི་སྔོན་སྒྲིག་གི་ལྟ་བྱེད་རེད།
 is-not-default = ད་ལྟ་{ -brand-short-name }་ནི་ཁྱེད་ཀྱི་སྔོན་སྒྲིག་གི་ལྟ་བྱེད་མ་རེད།
 set-as-my-default-browser =
@@ -535,16 +531,6 @@ history-header = ཟིན་ཐོ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }་ཡིས་
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }་ཡིས་
     .accesskey = w
 history-remember-option-all =
@@ -558,12 +544,6 @@ history-remember-description4 =
     .description = { -brand-short-name }་ཡིས་ཁྱེད་ཀྱི་འཚོལ་བཤེར་དང་མར་འཇུག རེའུ་མིག འཚོལ་བཤེར་ཟིན་ཐོ་ངེས་པ།
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }་ཡིས་ཁྱེད་ཀྱི་འཚོལ་བཤེར་དང་མར་འཇུག རེའུ་མིག འཚོལ་བཤེར་ཟིན་ཐོ་ངེས་པ།
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-remember-description = { -brand-short-name }་ཡིས་ཁྱེད་ཀྱི་འཚོལ་བཤེར་དང་མར་འཇུག རེའུ་མིག འཚོལ་བཤེར་ཟིན་ཐོ་ངེས་པ།
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.

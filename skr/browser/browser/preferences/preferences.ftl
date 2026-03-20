@@ -125,10 +125,6 @@ startup-header = سٹارٹ اپ
 always-check-default =
     .label = ہمیشاں جانچ پڑتال کرو جو { -brand-short-name } تہاݙا پہلے کنوں طے شدہ براؤزر ہے
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } فی الحال تہاݙا ڈیفالٹ براؤزر ہے۔
-is-not-default-browser =
-    .message = { -brand-short-name } تہاݙا ڈیفالٹ براؤزر کائنی۔
 is-default = { -brand-short-name } فی الحال تہاݙا ڈیفالٹ براؤزر ہے۔
 is-not-default = { -brand-short-name } تہاݙا ڈیفالٹ براؤزر کائنی۔
 set-as-my-default-browser =
@@ -1086,16 +1082,6 @@ history-header = تاریخ
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } ہوسے
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } ہوسے
     .accesskey = w
 history-remember-option-all =
@@ -1109,12 +1095,6 @@ history-remember-description4 =
     .description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } نجی براؤزنگ دیاں ترتیباں استعمال کریسے، تے تہاݙے براوز کریندے ویلھے کوئی تاریخ یاد کائنا رکھیسے۔
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } نجی براؤزنگ دیاں ترتیباں استعمال کریسے، تے تہاݙے براوز کریندے ویلھے کوئی تاریخ یاد کائنا رکھیسے۔
 history-remember-description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
 history-dontremember-description = { -brand-short-name } نجی براؤزنگ دیاں ترتیباں استعمال کریسے، تے تہاݙے براوز کریندے ویلھے کوئی تاریخ یاد کائنا رکھیسے۔

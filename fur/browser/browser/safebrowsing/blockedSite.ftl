@@ -73,4 +73,3 @@ safeb-blocked-addon-page-error-desc-override = <strong>Parcè isal stât blocât
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> al podarès vê colegaments cun ativitâts ingjanosis e danosis.
 safeb-blocked-addon-page-error-desc3-override = <strong>Ce puedistu fâ?</strong>
 safeb-blocked-addon-page-error-desc4-override = Par evitâ che al torni a capitâ, tu puedis gjavâ o disativâ <strong>{ $addonName }</strong> di about:addons.
-safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Scuvierç altris informazions su la protezion dal phishing e dal malware de bande di { -brand-short-name }</a>.

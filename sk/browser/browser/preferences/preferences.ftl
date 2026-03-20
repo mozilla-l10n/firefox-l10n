@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Navrhovať e‑mailové masky služby { -relay-brand-name }
     .description = Skryje vašu skutočnú e‑mailovú adresu, aby chránila vašu schránku pred spamom.
 non-technical-privacy-header = Predvoľby ochrany súkromia na webových stránkach
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Spustenie
 always-check-default =
     .label = Vždy kontrolovať, či je { -brand-short-name } predvoleným prehliadačom
     .accesskey = r
-is-default-browser =
-    .message = { -brand-short-name } je nastavený ako predvolený prehliadač
-is-not-default-browser =
-    .message = { -brand-short-name } nie je vaším predvoleným prehliadačom
 is-default = { -brand-short-name } je nastavený ako predvolený prehliadač
 is-not-default = { -brand-short-name } nie je vaším predvoleným prehliadačom
 set-as-my-default-browser =
@@ -883,8 +877,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresy webových stránok
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adresy webových stránok
 home-custom-homepage-address =
     .placeholder = Zadajte adresu
 home-custom-homepage-address-button =
@@ -899,11 +891,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Nahradiť s
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Zatiaľ neboli pridané žiadne webové stránky.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Nahradiť s
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Aktuálne otvorené stránky
@@ -1539,7 +1526,6 @@ autofill-saved-payment-methods-button = Uložené spôsoby platby
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Vyžadovať heslo k účtu na zariadení na vyplnenie a správu spôsobov platby
     .accesskey = u
-autofill-payment-methods-title = Spôsoby platby
 autofill-payment-methods-header =
     .aria-label = Spôsoby platby
 autofill-payment-methods-checkbox-message-2 =
@@ -1567,9 +1553,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Zatiaľ nebol pridaný žiadny spôsob platby
-autofill-addresses-title = Adresy a ďalšie
-autofill-addresses-header =
-    .aria-label = Adresy a ďalšie
 autofill-addresses-checkbox-message =
     .label = Ukladať a automaticky dopĺňať adresy
     .accesskey = d
@@ -1623,16 +1606,6 @@ history-header = História
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Uchovávanie histórie:
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Uchovávanie histórie:
     .accesskey = h
 history-remember-option-all =
@@ -1654,15 +1627,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } použije totožné nastavenia s režimom súkromného prehliadania a nebude si pamätať žiadnu históriu prehliadania webu.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } použije vlastné nastavenia pre vašu históriu prehliadania, sťahovania, formulárov a vyhľadávania.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } si bude pamätať históriu vášho prehliadania, sťahovania, formulárov a vyhľadávania.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } použije totožné nastavenia s režimom súkromného prehliadania a nebude si pamätať žiadnu históriu prehliadania webu.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } použije vlastné nastavenia pre vašu históriu prehliadania, sťahovania, formulárov a vyhľadávania.
 history-remember-description = { -brand-short-name } si bude pamätať históriu vášho prehliadania, sťahovania, formulárov a vyhľadávania.
 history-dontremember-description = { -brand-short-name } použije totožné nastavenia s režimom súkromného prehliadania a nebude si pamätať žiadnu históriu prehliadania webu.
@@ -1702,17 +1666,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies a údaje stránok
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Výpočet veľkosti údajov stránky a vyrovnávacej pamäte…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Webové stránky momentálne využívajú <strong>{ $value } { $unit }</strong> miesta na disku.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Vaše uložené súbory cookie, história, údaje stránok a vyrovnávacia pamäť momentálne využívajú <strong>{ $value } { $unit }</strong> miesta na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2048,12 +2006,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokovať vyskakovacie okná a presmerovania tretích strán
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Spravovať presmerovania
-    .accesskey = e
-    .searchkeywords = vyskakovacie okná
 permissions-addon-install-warning3 =
     .label = Zobraziť upozornenie, keď sa webové stránky pokúšajú nainštalovať rozšírenia
     .accesskey = w
@@ -2063,9 +2015,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Spravovať výnimky pre vyskakovacie okná a presmerovania tretích strán…
     .accesskey = m
     .searchkeywords = vyskakovacie okná
-permissions-addon-install-warning2 =
-    .label = Upozorniť, keď sa webové stránky pokúšajú nainštalovať rozšírenia
-    .accesskey = w
 permissions-addon-exceptions2 =
     .label = Vyberte, ktoré webové stránky môžu inštalovať rozšírenia
     .accesskey = e
@@ -2084,9 +2033,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Výnimky…
     .accesskey = V
-permissions-header2 =
-    .label = Oprávnenia
-    .description = Oprávnenia, ktoré udeľujete webovým stránkam, ktoré prehliadate.
 permissions-location2 =
     .label = Poloha
 permissions-localhost2 =
@@ -2221,9 +2167,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Uložené údaje stránok môžete odstrániť v ponuke Možnosti > Súkromie a bezpečnosť > Cookies a údaje stránok.
 space-alert-under-5gb-message2 = <strong>Aplikácii { -brand-short-name } dochádza miesto na disku.</strong> Obsah webovej stránky sa nemusí zobrazovať správne. Kliknutím na “Ďalšie informácie” sa dozviete viac o optimalizovaní vyžitia disku pre lepší zážitok z prehliadania.
-certs-description2 =
-    .label = Certifikáty
-    .description = Nakonfigurujte certifikáty, ktoré { -brand-short-name } používa na overovanie.
 certs-description3 =
     .label = Certifikáty
     .description = Nakonfigurujte certifikáty, ktoré { -brand-short-name } používa na overovanie zabezpečených pripojení.
@@ -2237,9 +2180,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Režim "Len HTTPS"
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 httpsonly-description3 = Umožňuje iba zabezpečené pripojenie k webovým stránkam. { -brand-short-name } sa opýta pred použitím nezabezpečeného pripojenia.
 httpsonly-learn-more2 = Ako funguje režim Len HTTPS
 httpsonly-description = Protokol HTTPS poskytuje bezpečné a šifrované spojenie medzi aplikáciou { -brand-short-name } a webmi, ktoré navštevujete. Väčšina webových stránok podporuje protokol HTTPS a ak je povolený režim "Len HTTPS", { -brand-short-name } zmení všetky pripojenia na zabezpečené.

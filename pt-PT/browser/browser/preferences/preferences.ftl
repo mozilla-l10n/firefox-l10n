@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Preferências de Privacidade do Site
 non-technical-privacy-header = Preferências de Privacidade do Site
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -138,10 +136,6 @@ startup-header = Inicialização
 always-check-default =
     .label = Verificar sempre se o { -brand-short-name } é o seu navegador predefinido
     .accesskey = V
-is-default-browser =
-    .message = O { -brand-short-name } é o seu navegador predefinido
-is-not-default-browser =
-    .message = O { -brand-short-name } não é o seu navegador predefinido
 is-default = O { -brand-short-name } é o seu navegador predefinido
 is-not-default = O { -brand-short-name } não é o seu navegador predefinido
 set-as-my-default-browser =
@@ -714,8 +708,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Endereço(s) do site
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Endereço(s) do site
 home-custom-homepage-address =
     .placeholder = Inserir endereço
 home-custom-homepage-address-button =
@@ -727,11 +719,6 @@ home-custom-homepage-no-results =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Substituir por
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ainda não foram adicionados sites.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Substituir por
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Páginas atualmente abertas
@@ -1246,7 +1233,6 @@ autofill-saved-payment-methods-button = Métodos de pagamento guardados
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Requerer o início de sessão no dispositivo para preencher e gerir métodos de pagamento
     .accesskey = o
-autofill-payment-methods-title = Métodos de pagamento
 autofill-payment-methods-header =
     .aria-label = Métodos de pagamento
 autofill-payment-methods-checkbox-message-2 =
@@ -1259,9 +1245,6 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Exigir início de sessão do dispositivo para o preenchimento automaticamente e gerir métodos de pagamento
     .accesskey = E
-autofill-addresses-title = Endereços e mais
-autofill-addresses-header =
-    .aria-label = Endereços e mais
 autofill-addresses-checkbox-message =
     .label = Guardar e autopreencher os endereços
     .accesskey = G
@@ -1285,16 +1268,6 @@ history-header = Histórico
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = O { -brand-short-name } irá
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = O { -brand-short-name } irá
     .accesskey = i
 history-remember-option-all =
@@ -1308,12 +1281,6 @@ history-remember-description4 =
     .description = O { -brand-short-name } irá memorizar o seu histórico de navegação, transferências, formulários e pesquisa.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = O { -brand-short-name } irá utilizar as mesmas definições da navegação privada e não irá memorizar qualquer histórico enquanto navega na Web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = O { -brand-short-name } irá memorizar o seu histórico de navegação, transferências, formulários e pesquisa.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = O { -brand-short-name } irá utilizar as mesmas definições da navegação privada e não irá memorizar qualquer histórico enquanto navega na Web.
 history-remember-description = O { -brand-short-name } irá memorizar o seu histórico de navegação, transferências, formulários e pesquisa.
 history-dontremember-description = O { -brand-short-name } irá utilizar as mesmas definições da navegação privada e não irá memorizar qualquer histórico enquanto navega na Web.
@@ -1347,13 +1314,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e dados de sites
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = A calcular tamanho dos dados de sites e cache…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Os seus cookies, histórico, dados de sites e cache estão atualmente a utilizar <strong>{ $value } { $unit }</strong> de espaço em disco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1788,16 +1749,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos dos sites podem não ser apresentados corretamente. Pode limpar os dados armazenados em Definições > Privacidade e segurança > Cookies e Dados de sites.
 space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos de sites podem não ser apresentados corretamente. Visite “Saber mais” para otimizar a utilização do seu disco e melhorar a experiência de navegação.
-certs-description2 =
-    .label = Certificados
-    .description = Configure os certificados que o { -brand-short-name } utiliza para a autenticação.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo apenas HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Apenas permite ligações seguras a sites. O { -brand-short-name } irá perguntar antes de ligar sem segurança.
 httpsonly-description3 = Apenas permite ligações seguras a sites. O { -brand-short-name } irá perguntar antes de ligar sem segurança.
 httpsonly-learn-more2 = Como funciona o Apenas HTTPS
 httpsonly-description = O HTTPS fornece um ligação segura e encriptada entre o { -brand-short-name } e os sites que visita. A maioria dos sites suporta HTTPS e se o modo apenas HTTPS estiver ativo, então o { -brand-short-name } irá melhorar/atualizar todas as ligações para HTTPS.

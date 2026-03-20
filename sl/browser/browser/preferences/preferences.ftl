@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Nastavitve zasebnosti spletnih mest
 non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -138,10 +136,6 @@ startup-header = Zagon
 always-check-default =
     .label = Vedno preveri, ali je { -brand-short-name } privzeti brskalnik
     .accesskey = V
-is-default-browser =
-    .message = { -brand-short-name } je trenutno vaš privzeti brskalnik
-is-not-default-browser =
-    .message = { -brand-short-name } ni vaš privzeti brskalnik
 is-default = { -brand-short-name } je trenutno vaš privzeti brskalnik
 is-not-default = { -brand-short-name } ni vaš privzeti brskalnik
 set-as-my-default-browser =
@@ -864,8 +858,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Naslov spletnega mesta oz. spletnih mest
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Naslov spletnega mesta oz. spletnih mest
 home-custom-homepage-address =
     .placeholder = Vnesite naslov
 home-custom-homepage-address-button =
@@ -880,11 +872,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Zamenjaj s/z
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Dodano ni še nobeno spletno mesto.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Zamenjaj s/z
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = trenutno odprtimi stranmi
@@ -1508,7 +1495,6 @@ autofill-saved-payment-methods-button = Shranjena plačilna sredstva
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Zahtevaj prijavo v napravi za izpolnjevanje in upravljanje plačilnih sredstev
     .accesskey = o
-autofill-payment-methods-title = Plačilna sredstva
 autofill-payment-methods-header =
     .aria-label = Plačilna sredstva
 autofill-payment-methods-checkbox-message-2 =
@@ -1582,16 +1568,6 @@ history-header = Zgodovina
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } naj
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } naj
     .accesskey = n
 history-remember-option-all =
@@ -1608,15 +1584,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } bo za zgodovino brskanja, prenosov, obrazcev in iskanj uporabljal nastavitve po meri.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } bo za zgodovino brskanja, prenosov, obrazcev in iskanj uporabljal nastavitve po meri.
 history-remember-description = { -brand-short-name } si bo zapomnil vašo zgodovino brskanja, prenosov, obrazcev in iskanj.
 history-dontremember-description = { -brand-short-name } bo uporabljal enake nastavitve kot pri zasebnem brskanju in med brskanjem ne bo hranil nobene zgodovine.
@@ -1644,13 +1611,7 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Piškotki in podatki strani
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Računanje velikosti podatkov strani in predpomnilnika …
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Shranjeni piškotki, zgodovina, podatki strani in predpomnilnik trenutno zavzemajo <strong>{ $value } { $unit }</strong> prostora na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -1967,9 +1928,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Upravljanje izjem za pojavna okna in preusmeritve tretjih strani
     .accesskey = U
     .searchkeywords = popup
-permissions-addon-install-warning2 =
-    .label = Opozori, ko spletno mesto poskuša namestiti razširitev
-    .accesskey = š
 permissions-addon-exceptions2 =
     .label = Izberite, katera spletna mesta smejo nameščati razširitve
     .accesskey = e
@@ -1988,9 +1946,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Izjeme …
     .accesskey = I
-permissions-header2 =
-    .label = Dovoljenja
-    .description = Dovoljenja, ki ste jih podelili spletnim mestom.
 permissions-location2 =
     .label = Lokacija
 permissions-localhost2 =
@@ -2113,16 +2068,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora.</strong> Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora na disku.</strong> Strani se morda ne bodo prikazovale pravilno. Kliknite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo pri brskanju po spletu.
-certs-description2 =
-    .label = Digitalna potrdila
-    .description = Nastavitev digitalnih potrdil, ki jih { -brand-short-name } uporablja za overjanje.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Način "samo HTTPS"
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 httpsonly-description3 = Dovoli samo varne povezave na spletna mesta. Pred vzpostavitvijo nezavarovane povezave naj { -brand-short-name } vpraša
 httpsonly-learn-more2 = Kako deluje način "samo HTTPS"
 httpsonly-description = HTTPS zagotavlja varno, šifrirano povezavo med { -brand-short-name(sklon: "orodnik") } in spletnimi mesti, ki jih obiščete. Večina spletnih mest podpira HTTPS in če je omogočen način "samo HTTPS", bo { -brand-short-name } nadgradil vse povezave na HTTPS.

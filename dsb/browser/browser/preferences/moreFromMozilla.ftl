@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = Twóriśel websedłow KI { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = Web-dokumentacija MDN
 more-from-moz-mdn-description = Wukniśo webwuwiśe z dermotnymi, wobšyrnymi rozpokazanjami a referencami.
 more-from-moz-mdn-button = Webwuwiśe wuknuś
 more-from-moz-mdn-title2 = { -mdn-brand-name }

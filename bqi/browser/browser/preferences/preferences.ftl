@@ -10,8 +10,6 @@ do-not-track-option-always =
 non-technical-privacy-group =
     .label = سامووا هریم سیخومی وبگه
 non-technical-privacy-header = سامووا هریم سیخومی وبگه
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -548,8 +546,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = نشۊوی (ا) وبگه
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = نشۊوی (ا) وبگه
 home-custom-homepage-address =
     .placeholder = زیذن نشۊوی
 home-custom-homepage-address-button =
@@ -558,9 +554,6 @@ home-custom-homepage-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = جایونی کردن وا
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = جایونی کردن وا
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = بلگه یل گۊشیڌه وابیڌه هیم سکویی
@@ -843,7 +836,6 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy section - Autofill
 
 pane-privacy-autofill-header = پور کردن خوتکار
-autofill-payment-methods-title = بارتا پرداخت
 autofill-payment-methods-header =
     .aria-label = بارتا پرداخت
 autofill-payment-methods-manage-payments-title =
@@ -924,8 +916,6 @@ history-group =
 
 ## Privacy Section - Site Data
 
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-learn-more = قلوه دووسته بۊین
 sitedata-option-block-cross-site-cookies2 =
     .label = سوا کردن کۊکیا منجا وبگهی

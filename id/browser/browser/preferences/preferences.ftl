@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Pengaturan Privasi Situs
 non-technical-privacy-header = Pengaturan Privasi Situs
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -131,10 +129,6 @@ startup-header = Memulai
 always-check-default =
     .label = Selalu periksa apakah { -brand-short-name } adalah peramban baku Anda
     .accesskey = S
-is-default-browser =
-    .message = { -brand-short-name } adalah peramban baku Anda
-is-not-default-browser =
-    .message = { -brand-short-name } bukan peramban baku Anda
 is-default = { -brand-short-name } adalah peramban baku Anda
 is-not-default = { -brand-short-name } bukan peramban baku Anda
 set-as-my-default-browser =
@@ -1147,7 +1141,6 @@ autofill-saved-payment-methods-button = Metode pembayaran tersimpan
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Wajibkan info masuk perangkat untuk mengisi dan mengelola metode pembayaran
     .accesskey = W
-autofill-payment-methods-title = Metode pembayaran
 autofill-payment-methods-header =
     .aria-label = Metode pembayaran
 autofill-payment-methods-checkbox-message-2 =
@@ -1160,9 +1153,6 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Wajibkan masuk perangkat untuk mengisi otomatis dan mengelola metode pembayaran
     .accesskey = o
-autofill-addresses-title = Alamat dan lainnya
-autofill-addresses-header =
-    .aria-label = Alamat dan lainnya
 autofill-addresses-checkbox-message =
     .label = Simpan dan isi otomatis alamat
     .accesskey = S
@@ -1186,16 +1176,6 @@ history-header = Riwayat
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = i
 history-remember-option-all =
@@ -1209,12 +1189,6 @@ history-remember-description4 =
     .description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
 history-remember-description = { -brand-short-name } akan mengingat penjelajahan, unduhan, formulir, dan riwayat pencarian Anda.
 history-dontremember-description = { -brand-short-name } akan menggunakan pengaturan seperti halnya pengaturan mode penjelajahan pribadi dan tidak akan menyimpan riwayat apa pun ketika Anda menjelajah Web.
@@ -1648,9 +1622,6 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } kehabisan ruang d
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mode Hanya HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
 httpsonly-description3 = Hanya mengizinkan sambungan aman ke situs web. { -brand-short-name } akan bertanya sebelum menyambung secara tidak aman.
 httpsonly-learn-more2 = Bagaimana cara kerja HTTPS-Only
 httpsonly-description = HTTPS menyediakan koneksi yang aman, terenkripsi antara { -brand-short-name } dan situs web yang Anda kunjungi. Kebanyakan situs web mendukung HTTPS, dan jika Mode Hanya HTTPS diaktifkan, maka { -brand-short-name } akan meningkatkan semua koneksi ke HTTPS.

@@ -28,10 +28,6 @@ should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 ## General Section
 
 startup-header = আৰম্ভণি
-is-default-browser =
-    .message = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ
-is-not-default-browser =
-    .message = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়
 is-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ
 is-not-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়
 tabs-group-header2 =
@@ -275,9 +271,6 @@ history-remember-option-custom =
     .label = ইতিহাসৰ বাবে স্বনিৰ্বাচিত সংহতিসমূহ ব্যৱহাৰ কৰক
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } এ ব্যক্তিগত ব্ৰাউছিংৰ সংহতিসমূহ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব ব্ৰাউছ কৰি থাকোঁতে কোনো ইতিহাস মনত নাৰাখে।
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } এ ব্যক্তিগত ব্ৰাউছিংৰ সংহতিসমূহ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব ব্ৰাউছ কৰি থাকোঁতে কোনো ইতিহাস মনত নাৰাখে।
 history-dontremember-description = { -brand-short-name } এ ব্যক্তিগত ব্ৰাউছিংৰ সংহতিসমূহ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব ব্ৰাউছ কৰি থাকোঁতে কোনো ইতিহাস মনত নাৰাখে।
 history-private-browsing-permanent =

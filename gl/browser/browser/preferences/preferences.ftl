@@ -129,10 +129,6 @@ startup-header = Inicio
 always-check-default =
     .label = Comprobar sempre se { -brand-short-name } é o seu navegador predeterminado
     .accesskey = o
-is-default-browser =
-    .message = { -brand-short-name } xa é o navegador predeterminado
-is-not-default-browser =
-    .message = { -brand-short-name } non é o navegador predeterminado
 is-default = { -brand-short-name } xa é o navegador predeterminado
 is-not-default = { -brand-short-name } non é o navegador predeterminado
 set-as-my-default-browser =
@@ -1180,16 +1176,6 @@ history-header = Historial
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = x
 history-remember-option-all =
@@ -1203,12 +1189,6 @@ history-remember-description4 =
     .description = { -brand-short-name } lembrará o seu historial de navegación, descargas, formularios e buscas.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } lembrará o seu historial de navegación, descargas, formularios e buscas.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
 history-remember-description = { -brand-short-name } lembrará o seu historial de navegación, descargas, formularios e buscas.
 history-dontremember-description = { -brand-short-name } usará a mesma configuración que na navegación privada, e non gardará ningún historial mentres navega pola Internet.
@@ -1640,9 +1620,6 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } xa non ten sufici
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Modo só HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Só permite conexións seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 httpsonly-description3 = Só permite conexións seguras a sitios web. { -brand-short-name } preguntará antes de conectarse de forma insegura.
 httpsonly-learn-more2 = Como funciona o modo só-HTTPS
 httpsonly-description = HTTPS fornece unha conexión segura e cifrada entre { -brand-short-name } e os sitios web que visita. A maioría dos sitios web admiten HTTPS e se o modo Só HTTPS está activado, o { -brand-short-name } actualizará todas as conexións a HTTPS.

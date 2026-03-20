@@ -144,10 +144,6 @@ startup-header = Покретање
 always-check-default =
     .label = Проверавај да ли је { -brand-short-name } подразумевани прегледач
     .accesskey = р
-is-default-browser =
-    .message = { -brand-short-name } је тренутно подразумевани прегледач
-is-not-default-browser =
-    .message = { -brand-short-name } није подразумевани прегледач
 is-default = { -brand-short-name } је тренутно подразумевани прегледач
 is-not-default = { -brand-short-name } није подразумевани прегледач
 set-as-my-default-browser =
@@ -1065,16 +1061,6 @@ history-header = Историја
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }:
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }:
     .accesskey = F
 history-remember-option-all =
@@ -1088,12 +1074,6 @@ history-remember-description4 =
     .description = { -brand-short-name } ће чувати историју прегледања, преузимања, образаца и претраге.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } ће користити иста подешавања као и за приватно прегледање и неће чувати историју прегледања веб-страница.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } ће чувати историју прегледања, преузимања, образаца и претраге.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ће користити иста подешавања као и за приватно прегледање и неће чувати историју прегледања веб-страница.
 history-remember-description = { -brand-short-name } ће чувати историју прегледања, преузимања, образаца и претраге.
 history-dontremember-description = { -brand-short-name } ће користити иста подешавања као и за приватно прегледање и неће чувати историју прегледања веб-страница.

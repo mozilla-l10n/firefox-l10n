@@ -43,10 +43,6 @@ startup-header = Begin
 always-check-default =
     .label = Kontroleer altyd of { -brand-short-name } die verstekblaaier is
     .accesskey = K
-is-default-browser =
-    .message = { -brand-short-name } is tans die verstekblaaier
-is-not-default-browser =
-    .message = { -brand-short-name } is nie die verstekblaaier nie
 is-default = { -brand-short-name } is tans die verstekblaaier
 is-not-default = { -brand-short-name } is nie die verstekblaaier nie
 set-as-my-default-browser =
@@ -542,16 +538,6 @@ history-header = Geskiedenis
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } sal
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } sal
     .accesskey = s
 history-remember-option-all =
@@ -562,9 +548,6 @@ history-remember-option-custom =
     .label = eie instellings vir geskiedenis gebruik
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
 history-dontremember-description = { -brand-short-name } gebruik dieselfde instellings as private blaaiery en sal nie enige geskiedenis onthou wanneer u die web besoek nie.
 history-private-browsing-permanent =

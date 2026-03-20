@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Sugesti retpoŝtajn maskojn de { -relay-brand-name }
     .description = Tio kaŝas vian veran retpoŝtan adreson por protekti vian enirkeston kontraŭ trudmesaĝoj.
 non-technical-privacy-header = Preferoj pri privateco en retejoj
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Starto
 always-check-default =
     .label = Ĉiam kontroli ĉu { -brand-short-name } estas via ĉefa retumilo
     .accesskey = i
-is-default-browser =
-    .message = { -brand-short-name } estas nuntempe via ĉefa retumilo
-is-not-default-browser =
-    .message = { -brand-short-name } ne estas via ĉefa retumilo
 is-default = { -brand-short-name } estas nuntempe via ĉefa retumilo
 is-not-default = { -brand-short-name } ne estas via ĉefa retumilo
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adreso(j) de retejo
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Adreso(j) de retejo
 home-custom-homepage-address =
     .placeholder = Tajpi adreson
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Anstataŭigi per
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ankoraŭ neniu retejo aldonita.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Anstataŭigi per
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Nune malfermitaj paĝoj
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Konservitaj pagmetodoj
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Postuli komencon de seanco en la aparato por enigi kaj administri pagmetodojn
     .accesskey = p
-autofill-payment-methods-title = Pagmetodoj
 autofill-payment-methods-header =
     .aria-label = Pagmetodoj
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Neniu pagmetodo aldonita
-autofill-addresses-title = Adresoj kaj pli
-autofill-addresses-header =
-    .aria-label = Adresoj kaj pli
 autofill-addresses-checkbox-message =
     .label = Konservi kaj aŭtomate plenigi adresojn
     .accesskey = a
@@ -1619,16 +1602,6 @@ history-header = Historio
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = F
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } uzos personecitigajn agordojn por via retumo, elŝutoj, formularoj kaj historio.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } uzos personecitigajn agordojn por via retumo, elŝutoj, formularoj kaj historio.
 history-remember-description = { -brand-short-name } memoros vian retuman, elŝutan, formularan kaj serĉan historiojn.
 history-dontremember-description = { -brand-short-name } uzos la samajn agordojn de privata retumo, kaj ĝi ne memoros iun historion dum vi esploras la reton.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Kuketoj kaj retejaj datumoj
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Kalkulo de datuma kaj stapla grando de retejo…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Retejoj uzas nun <strong>{ $value } { $unit }</strong> da diska spaco.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Viaj konservitaj kuketoj, historio, retejaj datumoj kaj staplo uzas nuntempe entute <strong>{ $value } { $unit }</strong> da diska spaco.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloki ŝprucaĵojn kaj redirektojn al aliaj retejoj
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Administri redirektojn
-    .accesskey = r
-    .searchkeywords = ŝpruc,ŝprucfenestro
 permissions-addon-install-warning3 =
     .label = Montri averton kiam retejoj volas instali etendaĵojn
     .accesskey = M
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Administri esceptojn pri ŝprucaĵoj kaj redirektoj de aliaj retejoj
     .accesskey = e
     .searchkeywords = ŝprucaĵoj
-permissions-addon-install-warning2 =
-    .label = Averti kiam retejoj volas instali etendaĵojn
-    .accesskey = A
 permissions-addon-exceptions2 =
     .label = Elekti, kiuj retejoj povas instali etendaĵojn
     .accesskey = E
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Esceptoj…
     .accesskey = E
-permissions-header2 =
-    .label = Permesoj
-    .description = Permesoj donitaj de vi al la retejoj kiun vi vizitas.
 permissions-location2 =
     .label = Loko
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = a
 space-alert-over-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -brand-short-name }.</strong> Enhavo de retejoj povas aperi malĝuste. Vi povas viŝi konservitajn retejajn datumojn en Agordoj > Privateco kaj sekureco > Kuketoj kaj retejaj datumoj.
 space-alert-under-5gb-message2 = <strong>Elĉerpiĝas la diska spaco por { -brand-short-name }</strong>. Enhavo de retejoj povas aperi malĝuste. Vizitu “Pli da informo” por optimumigi la uzon de diska spaco, por pli bona retuma sperto.
-certs-description2 =
-    .label = Atestiloj
-    .description = Agordi la atestilojn uzatajn de { -brand-short-name } por aŭtentigo.
 certs-description3 =
     .label = Atestiloj
     .description = Agordi la atestilojn, kiujn { -brand-short-name } uzas por kontroli sekurajn konektojn.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-nura reĝimo
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 httpsonly-description3 = Nur permesi sekurajn konektojn al retejoj. { -brand-short-name } demandos antaŭ ol konektiĝi nesekure.
 httpsonly-learn-more2 = Kiel funkcias HTTPS-nura reĝimo
 httpsonly-description = HTTPS provizas sekuran, ĉifritan konekton inter { -brand-short-name } kaj la vizitataj retejoj. Plimulto de la retejoj subtenas HTTPS kaj, se la HTTPS-nura reĝimo estas aktiva, { -brand-short-name } movos ĉiujn konektojn al HTTPS.

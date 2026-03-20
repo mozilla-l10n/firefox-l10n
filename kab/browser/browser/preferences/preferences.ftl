@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Ismenyifen n tbaḍnit n yismal web
 non-technical-privacy-header = Ismenyifen n tbaḍnit n yismal web
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -131,10 +129,6 @@ startup-header = Asenker
 always-check-default =
     .label = Senqed yal tikkelt ma yella { -brand-short-name } d iminig-ik amezwar
     .accesskey = S
-is-default-browser =
-    .message = { -brand-short-name } d iminig-inek amezwar
-is-not-default-browser =
-    .message = { -brand-short-name } mačči d iminig-inek amezwer
 is-default = { -brand-short-name } d iminig-inek amezwar
 is-not-default = { -brand-short-name } mačči d iminig-inek amezwer
 set-as-my-default-browser =
@@ -1135,12 +1129,8 @@ autofill-saved-payment-methods-button = Isseklas tarrayin n uxelleṣ
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Ssuter tuqqna ɣer yibenk i wakken ad tesferkeḍ tarrayin n uxelleṣ
     .accesskey = u
-autofill-payment-methods-title = Tarrayin n uxelleṣ
 autofill-payment-methods-header =
     .aria-label = Tarrayin n uxelleṣ
-autofill-addresses-title = Tansiwin d wayen niḍen
-autofill-addresses-header =
-    .aria-label = Tansiwin d wayen niḍen
 autofill-addresses-checkbox-message =
     .label = Asekles d taččart tawurmant n tansiwin
     .accesskey = A
@@ -1152,16 +1142,6 @@ payments-group =
 ## Privacy Section - History
 
 history-header = Azray
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } ad
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -1184,12 +1164,6 @@ history-remember-description4 =
     .description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
 history-remember-description = { -brand-short-name } ad yeḥrez isefka n tunigin, izedman, tiferkiyin d umezruy n unadi.
 history-dontremember-description = { -brand-short-name } ad isseqdec iɣewwaṛen n tunigin tusligt, u diɣen ur iḥerrez ara azray n tunigin-inek.
@@ -1217,8 +1191,6 @@ history-group =
 ## Privacy Section - Site Data
 
 sitedata-header = Inagan n tuqna akked isefka n usmel
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Asiḍen n teɣzi n yisefka akked tuɣzi n tuffirt…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)

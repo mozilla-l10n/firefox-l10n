@@ -74,4 +74,3 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> w
 safeb-blocked-addon-page-error-desc3-override = <strong>Was können Sie dagegen tun?</strong>
 safeb-blocked-addon-page-error-desc4-override = Damit dies nicht wieder passiert, können Sie <strong>{ $addonName }</strong> von about:addons entfernen oder deaktivieren.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Weitere Informationen über den Schutz vor schädlichen Add-ons in { -brand-short-name }</a>.
-safeb-blocked-addon-page-learn-more = <a data-l10n-name='firefox_support'>Weitere Informationen zum Schutz vor Betrug und Schadsoftware in { -brand-short-name }</a>

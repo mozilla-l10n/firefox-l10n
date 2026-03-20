@@ -67,10 +67,6 @@ startup-header = Iniçio
 always-check-default =
     .label = Contròlla de longo se { -brand-short-name } o l'é o navegatô predefinio
     .accesskey = t
-is-default-browser =
-    .message = { -brand-short-name } o l'é o navegatô predefinio
-is-not-default-browser =
-    .message = { -brand-short-name } o no l'é o navegatô predefinio
 is-default = { -brand-short-name } o l'é o navegatô predefinio
 is-not-default = { -brand-short-name } o no l'é o navegatô predefinio
 set-as-my-default-browser =
@@ -636,16 +632,6 @@ history-header = Stöia
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } o se
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } o se
     .accesskey = o
 history-remember-option-all =
@@ -659,12 +645,6 @@ history-remember-description4 =
     .description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.
 history-remember-description = { -brand-short-name } o s'aregòrda de teu navegaçioin, descaregamenti e stöia de riçerche.
 history-dontremember-description = { -brand-short-name } o deuvia e mæxime preferense da-a navegaçion privâ, e o no se aregòrda da stöia de teu navegaçioin.

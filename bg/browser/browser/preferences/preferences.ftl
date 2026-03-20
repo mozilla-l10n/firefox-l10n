@@ -15,8 +15,6 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Предпочитания за поверителност към сайтовете
 non-technical-privacy-header = Предпочитания за поверителност към сайтовете
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -135,10 +133,6 @@ startup-header = Стартиране
 always-check-default =
     .label = Винаги да се проверява дали { -brand-short-name } е браузър по подразбиране
     .accesskey = В
-is-default-browser =
-    .message = { -brand-short-name } е стандартния за системата четец
-is-not-default-browser =
-    .message = { -brand-short-name } не е стандартния за системата четец
 is-default = { -brand-short-name } е стандартния за системата четец
 is-not-default = { -brand-short-name } не е стандартния за системата четец
 set-as-my-default-browser =
@@ -1168,16 +1162,6 @@ history-header = История
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = Нека { -brand-short-name } да
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = Нека { -brand-short-name } да
     .accesskey = д
 history-remember-option-all =
@@ -1191,12 +1175,6 @@ history-remember-description4 =
     .description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.
 history-remember-description = { -brand-short-name } ще пази историята на разглеждане, изтегляния и търсене.
 history-dontremember-description = { -brand-short-name } ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.

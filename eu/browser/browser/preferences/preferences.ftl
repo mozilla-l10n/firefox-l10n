@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Gomendatu { -relay-brand-name } posta-maskarak
     .description = Zure benetako helbide elektronikoa ezkutatzen du sarrera-ontzia spametik babesteko.
 non-technical-privacy-header = Webgunearen pribatutasun-hobespenak
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Abioa
 always-check-default =
     .label = Egiaztatu beti ea { -brand-short-name } nabigatzaile lehenetsia den
     .accesskey = E
-is-default-browser =
-    .message = { -brand-short-name } nabigatzaile lehenetsia da une honetan
-is-not-default-browser =
-    .message = { -brand-short-name } ez da zure nabigatzaile lehenetsia
 is-default = { -brand-short-name } nabigatzaile lehenetsia da une honetan
 is-not-default = { -brand-short-name } ez da zure nabigatzaile lehenetsia
 set-as-my-default-browser =
@@ -878,8 +872,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Webgunearen helbidea
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Webgunearen helbidea
 home-custom-homepage-address =
     .placeholder = Idatzi helbidea
 home-custom-homepage-address-button =
@@ -894,11 +886,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Ordeztu honekin
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Ez da webgunerik gehitu oraindik.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Ordeztu honekin
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Unean irekitako orriak
@@ -1533,7 +1520,6 @@ autofill-saved-payment-methods-button = Gordetako ordainketa metodoak
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Behartu gailuan saioa hastea ordainketa metodoak bete eta kudeatzeko
     .accesskey = o
-autofill-payment-methods-title = Ordainketa-metodoak
 autofill-payment-methods-header =
     .aria-label = Ordainketa-metodoak
 autofill-payment-methods-checkbox-message-2 =
@@ -1561,9 +1547,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Ez da ordainketa-metodorik gehitu
-autofill-addresses-title = Helbideak eta gehiago
-autofill-addresses-header =
-    .aria-label = Helbideak eta gehiago
 autofill-addresses-checkbox-message =
     .label = Gorde eta osatu automatikoki helbideak
     .accesskey = G
@@ -1617,16 +1600,6 @@ history-header = Historia
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }(e)k
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }(e)k
     .accesskey = k
 history-remember-option-all =
@@ -1648,15 +1621,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name }(e)k ezarpen pertsonalizatuak erabiliko ditu zure nabigatze-, deskarga-, inprimaki- eta bilaketa-historiarako.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }(e)k zure nabigazio-, deskarga-, inprimaki- eta bilaketa-historia gogoratuko ditu.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }(e)k ezarpen pertsonalizatuak erabiliko ditu zure nabigatze-, deskarga-, inprimaki- eta bilaketa-historiarako.
 history-remember-description = { -brand-short-name }(e)k zure nabigazio-, deskarga-, inprimaki- eta bilaketa-historia gogoratuko ditu.
 history-dontremember-description = { -brand-short-name }(e)k nabigatze pribatuaren ezarpen berak erabiliko ditu, eta ez du gogoratuko historia webean nabigatzen ari zarenean.
@@ -1696,13 +1660,7 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookieak eta guneetako datuak
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulatzen…
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Gordetako cookiek, historiak, gunearen datuek eta cacheak une honetan <strong>{ $value } { $unit }</strong> hartzen dute diskoan.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2028,9 +1986,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Kudeatu laster-leihoen eta hirugarrenek eragindako birbideratzeen salbuespenak
     .accesskey = e
     .searchkeywords = laster-leihoak laster-leiho popup
-permissions-addon-install-warning2 =
-    .label = Abisatu webguneak hedapenak instalatzen saiatzen badira
-    .accesskey = A
 permissions-addon-exceptions2 =
     .label = Aukeratu zein webgunek instala ditzaketen hedapenak
     .accesskey = A
@@ -2049,9 +2004,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Salbuespenak…
     .accesskey = S
-permissions-header2 =
-    .label = Baimenak
-    .description = Nabigatutako webguneei ematen dizkiozun baimenak.
 permissions-location2 =
     .label = Kokapena
 permissions-localhost2 =
@@ -2176,16 +2128,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = k
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Biltegiratutako datuak Ezarpenak > Pribatutasuna eta segurtasuna > Cookieak eta guneetako datuak atalean garbi ditzakezu.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Bisitatu "Argibide gehiago" diskoaren erabilpena optimizatu eta nabigatze-esperientzia hobetzeko.
-certs-description2 =
-    .label = Ziurtagiriak
-    .description = Konfiguratu { -brand-short-name }(e)k autentifikaziorako erabiltzen dituen ziurtagiriak.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only modua
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Soilik konexio seguruak baimentzen ditu webguneetara. { -brand-short-name }(e)k galdetu egingo du modu ez-seguruan konektatu aurretik.
 httpsonly-description3 = Webguneetarako konexio seguruak baimentzen ditu soilik. { -brand-short-name }(e)k galdetu egingo du modu ez-seguruan konektatu aurretik.
 httpsonly-learn-more2 = Nola dabilen HTTPS-Only modua
 httpsonly-description = HTTPSk konexio seguru eta zifratua eskaintzen du { -brand-short-name } eta bisitatzen dituzun webguneen artean. Webgune gehienek HTTPS onartzen dute eta HTTPS-Only modua gaituta badago, orduan { -brand-short-name }(e)k konexio guztiak HTTPSra bihurtuko ditu.

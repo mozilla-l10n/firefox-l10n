@@ -43,7 +43,6 @@ more-from-moz-solo-title-2 = Сомонасоз дар асоси «{ -solo-ai-b
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
-more-from-moz-mdn-title = Ҳуҷҷатҳои интернетии «MDN»
 more-from-moz-mdn-description = Омӯзиши сомонасозӣ ва коркарди веб бо истифода аз дастурҳо ва тавсияҳои ройгон ва ҳамаҷониба.
 more-from-moz-mdn-button = Омӯзиши сомонасозӣ ва коркарди веб
 more-from-moz-mdn-title2 = { -mdn-brand-name }

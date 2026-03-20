@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = Đề xuất email ẩn danh của { -relay-brand-name }
     .description = Ứng dụng này ẩn địa chỉ email thật của bạn để bảo vệ hộp thư đến khỏi thư rác.
 non-technical-privacy-header = Tùy chọn riêng tư trang web
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Khởi động
 always-check-default =
     .label = Luôn kiểm tra xem { -brand-short-name } có phải trình duyệt mặc định không
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } đang là trình duyệt mặc định của bạn
-is-not-default-browser =
-    .message = { -brand-short-name } không phải là trình duyệt mặc định
 is-default = { -brand-short-name } đang là trình duyệt mặc định của bạn
 is-not-default = { -brand-short-name } không phải là trình duyệt mặc định
 set-as-my-default-browser =
@@ -868,8 +862,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Địa chỉ trang web
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Địa chỉ trang web
 home-custom-homepage-address =
     .placeholder = Nhập địa chỉ
 home-custom-homepage-address-button =
@@ -884,11 +876,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Thay thế bằng
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Chưa có trang web nào được thêm vào.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Thay thế bằng
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Các trang hiện đang mở
@@ -1519,7 +1506,6 @@ autofill-saved-payment-methods-button = Phương thức thanh toán đã lưu
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Yêu cầu đăng nhập từ thiết bị để điền và quản lý phương thức thanh toán
     .accesskey = o
-autofill-payment-methods-title = Phương thức thanh toán
 autofill-payment-methods-header =
     .aria-label = Phương thức thanh toán
 autofill-payment-methods-checkbox-message-2 =
@@ -1547,9 +1533,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Không có phương thức thanh toán nào được thêm
-autofill-addresses-title = Địa chỉ và nhiều hơn nữa
-autofill-addresses-header =
-    .aria-label = Địa chỉ và nhiều hơn nữa
 autofill-addresses-checkbox-message =
     .label = Lưu và tự động điền địa chỉ
     .accesskey = S
@@ -1603,16 +1586,6 @@ history-header = Lịch sử
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } sẽ
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } sẽ
     .accesskey = w
 history-remember-option-all =
@@ -1634,15 +1607,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lịch sử khi bạn duyệt Web.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } sẽ sử dụng các thiết lập tùy chỉnh cho lịch sử duyệt, tải xuống, biểu mẫu và tìm kiếm của bạn.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } sẽ ghi nhớ lịch sử duyệt web, tải xuống, biểu mẫu và tìm kiếm của bạn.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lịch sử khi bạn duyệt Web.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } sẽ sử dụng các thiết lập tùy chỉnh cho lịch sử duyệt, tải xuống, biểu mẫu và tìm kiếm của bạn.
 history-remember-description = { -brand-short-name } sẽ ghi nhớ lịch sử duyệt web, tải xuống, biểu mẫu và tìm kiếm của bạn.
 history-dontremember-description = { -brand-short-name } sẽ dùng thiết lập giống như chế độ duyệt web riêng tư, và sẽ không ghi nhớ lịch sử khi bạn duyệt Web.
@@ -1682,17 +1646,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie và dữ liệu trang
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Đang tính toán kích thước bộ nhớ đệm và dữ liệu trang…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Các trang web hiện đang sử dụng <strong>{ $value } { $unit }</strong> dung lượng ổ đĩa.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Cookie, lịch sử, dữ liệu trang web và bộ nhớ đệm của bạn hiện đang sử dụng <strong>{ $value } { $unit }</strong> dung lượng đĩa.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2028,12 +1986,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Chặn cửa sổ bật lên và chuyển hướng của bên thứ ba
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Quản lý chuyển hướng
-    .accesskey = E
-    .searchkeywords = popups,pop-ups
 permissions-addon-install-warning3 =
     .label = Hiển thị cảnh báo khi các trang web cố gắng cài đặt tiện ích mở rộng
     .accesskey = W
@@ -2043,9 +1995,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Quản lý ngoại lệ cửa sổ bật lên và chuyển hướng của bên thứ ba
     .accesskey = E
     .searchkeywords = cửa sổ bật lên
-permissions-addon-install-warning2 =
-    .label = Cảnh báo khi các trang web cố gắng cài đặt tiện ích mở rộng
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Chọn trang web nào có thể cài đặt tiện ích mở rộng
     .accesskey = E
@@ -2064,9 +2013,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Ngoại lệ…
     .accesskey = E
-permissions-header2 =
-    .label = Quyền hạn
-    .description = Quyền bạn cấp cho các trang web bạn duyệt.
 permissions-location2 =
     .label = Vị trí
 permissions-localhost2 =
@@ -2201,9 +2147,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa.</strong> Nội dung trang web có thể không hiển thị chính xác. Bạn có thể xóa dữ liệu được lưu trữ trong Cài đặt > Riêng tư & Bảo mật > Cookie và dữ liệu trang.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } sắp hết dung lượng đĩa. </strong>Nội dung trang web có thể không hiển thị chính xác. Truy cập “Tìm hiểu thêm” để tối ưu hóa việc sử dụng đĩa của bạn để có trải nghiệm duyệt web tốt hơn.
-certs-description2 =
-    .label = Chứng nhận
-    .description = Cấu hình chứng chỉ mà { -brand-short-name } sử dụng để xác thực.
 certs-description3 =
     .label = Chứng chỉ
     .description = Cấu hình các chứng chỉ mà { -brand-short-name } sử dụng để xác minh các kết nối an toàn.
@@ -2217,9 +2160,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Chế độ chỉ HTTPS
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 httpsonly-description3 = Chỉ cho phép các kết nối an toàn đến các trang web. { -brand-short-name } sẽ hỏi trước khi kết nối không an toàn.
 httpsonly-learn-more2 = Chế độ Chỉ HTTPS hoạt động như thế nào
 httpsonly-description = HTTPS cung cấp kết nối được mã hóa an toàn giữa { -brand-short-name } và các trang web bạn truy cập. Hầu hết các trang web đều hỗ trợ HTTPS và nếu chế độ chỉ HTTPS được bật, thì { -brand-short-name } sẽ nâng cấp tất cả các kết nối lên HTTPS.

@@ -77,10 +77,6 @@ startup-header = തുടക്കം
 always-check-default =
     .label = { -brand-short-name } താങ്ങളുടെ തനതായ അന്വേഷിയന്ത്രമാണെന്നു് എപ്പോഴും പരിശോധിക്കുക
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } ആണു് ഇപ്പോള്‍ തനതായ അന്വേഷിയന്ത്രം
-is-not-default-browser =
-    .message = { -brand-short-name } അല്ല ഇപ്പോള്‍ തനതായ അന്വേഷിയന്ത്രം
 is-default = { -brand-short-name } ആണു് ഇപ്പോള്‍ തനതായ അന്വേഷിയന്ത്രം
 is-not-default = { -brand-short-name } അല്ല ഇപ്പോള്‍ തനതായ അന്വേഷിയന്ത്രം
 set-as-my-default-browser =
@@ -526,8 +522,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = വെബ്ബിട വിലാസം(കൾ)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = വെബ്ബിട വിലാസം(കൾ)
 home-custom-homepage-address =
     .placeholder = വിലാസം നല്കുക
 home-custom-homepage-address-button =
@@ -535,8 +529,6 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = വെബ്ബിടങ്ങൾ ചേൎത്തിട്ടില്ല
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = നിലവിൽ തുറന്നിരിക്കുന്ന താളുകൾ
@@ -935,7 +927,6 @@ autofill-payment-methods-checkbox-message = പണമടക്കൽമുറക
     .accesskey = മ
 autofill-saved-payment-methods-button = കരുതിവച്ച പണമടക്കൽമുറകൾ
     .accesskey = പ
-autofill-payment-methods-title = പണമടക്കൽ മുറകൾ
 autofill-payment-methods-header =
     .aria-label = പണമടക്കൽ മുറകൾ
 autofill-payment-methods-checkbox-message-2 =
@@ -968,16 +959,6 @@ history-header = നാള്‍വഴി
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
@@ -988,9 +969,6 @@ history-remember-option-custom =
     .label = നാള്‍വഴിക്കു വേണ്ടി ഇച്ഛാനുസൃതം സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
 history-dontremember-description = { -brand-short-name } സ്വകാര്യ തിരയലിന്റെ സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കും, അതിനാല്‍ നിങ്ങള്‍ വെബ് തിരയുംബോള്‍ നാള്‍വഴികൾ ഓര്‍ക്കുകയില്ല.
 history-private-browsing-permanent =
@@ -1187,9 +1165,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = E
-permissions-header2 =
-    .label = അനുമതികൾ
-    .description = താങ്ങൾ സന്ദൎശിക്കുന്ന വെബ്ബിടങ്ങൾക്കു നല്കുന്ന അനുമതികൾ
 permissions-location2 =
     .label = സ്ഥലവിവരം
 permissions-localhost2 =

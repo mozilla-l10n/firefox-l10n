@@ -96,10 +96,6 @@ startup-header = Aniciu
 always-check-default =
     .label = Comprobar siempres si { -brand-short-name } ye'l restolador predetermináu
     .accesskey = i
-is-default-browser =
-    .message = Anguaño { -brand-short-name } ye'l restolador web predetermináu
-is-not-default-browser =
-    .message = Anguaño { -brand-short-name } nun ye'l restolador web predetermináu
 is-default = Anguaño { -brand-short-name } ye'l restolador web predetermináu
 is-not-default = Anguaño { -brand-short-name } nun ye'l restolador web predetermináu
 set-as-my-default-browser =
@@ -833,16 +829,6 @@ history-header = Historial
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } va:
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } va:
     .accesskey = v
 history-remember-option-all =
@@ -856,12 +842,6 @@ history-remember-description4 =
     .description = { -brand-short-name } va recordar los historiales de restolar, descargues, formularios y busques.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } va usar los mesmos axustes del restolar en privao y nun va recordar nengún historial mentanto restoles la web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } va recordar los historiales de restolar, descargues, formularios y busques.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } va usar los mesmos axustes del restolar en privao y nun va recordar nengún historial mentanto restoles la web.
 history-remember-description = { -brand-short-name } va recordar los historiales de restolar, descargues, formularios y busques.
 history-dontremember-description = { -brand-short-name } va usar los mesmos axustes del restolar en privao y nun va recordar nengún historial mentanto restoles la web.

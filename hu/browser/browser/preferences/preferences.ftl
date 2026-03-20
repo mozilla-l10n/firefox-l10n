@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = { -relay-brand-name } e-mail-maszkok javaslata
     .description = Elrejti a valódi e-mail-címét, hogy megvédje postafiókját a kéretlen tartalomtól.
 non-technical-privacy-header = Webhely adatvédelmi beállításai
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Indítás
 always-check-default =
     .label = Mindig ellenőrizze, hogy a { -brand-short-name }-e az alapértelmezett böngésző
     .accesskey = M
-is-default-browser =
-    .message = Jelenleg a { -brand-short-name } az alapértelmezett böngésző.
-is-not-default-browser =
-    .message = A { -brand-short-name } nem az alapértelmezett böngésző
 is-default = Jelenleg a { -brand-short-name } az alapértelmezett böngésző.
 is-not-default = A { -brand-short-name } nem az alapértelmezett böngésző
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Webhelyek címei
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Webhelyek címei
 home-custom-homepage-address =
     .placeholder = Cím megadása
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Csere erre:
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Még nincsenek webhelyek hozzáadva.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Csere erre:
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Jelenleg megnyitott oldalak
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Mentett fizetési módok
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Az eszköz által biztosított bejelentkezés megkövetelése a fizetési módok kitöltéséhez és kezeléséhez
     .accesskey = o
-autofill-payment-methods-title = Fizetési módok
 autofill-payment-methods-header =
     .aria-label = Fizetési módok
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Nincs fizetési mód hozzáadva
-autofill-addresses-title = Címek és egyebek
-autofill-addresses-header =
-    .aria-label = Címek és egyebek
 autofill-addresses-checkbox-message =
     .label = Címek mentése és automatikus kitöltése
     .accesskey = C
@@ -1619,16 +1602,6 @@ history-header = Előzmények
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = A { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = A { -brand-short-name }
     .accesskey = A
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = A { -brand-short-name } egyéni beállításokat fog használni a böngészési, letöltési, űrlap- és keresési előzményekhez.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = A { -brand-short-name } emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = A { -brand-short-name } egyéni beállításokat fog használni a böngészési, letöltési, űrlap- és keresési előzményekhez.
 history-remember-description = A { -brand-short-name } emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.
 history-dontremember-description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Sütik és oldaladatok
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Az oldaladatok és a gyorsítótár méretének kiszámítása…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = A webhelyek jelenleg <strong>{ $value } { $unit }</strong> lemezterületet használnak.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = A tárolt sütik, előzmények, oldaladatok és a gyorsítótár jelenleg <strong>{ $value } { $unit }</strong> területet foglalnak el a lemezen.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Felugró ablakok és külső átirányítások blokkolása
     .accesskey = b
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Átirányítások kezelése
-    .accesskey = e
-    .searchkeywords = felugró ablakok,popupok
 permissions-addon-install-warning3 =
     .label = Figyelmeztetés megjelenítése, ha a webhely kiegészítőket próbál meg telepíteni
     .accesskey = F
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Felugró ablakok és harmadik féltől származó átirányítási kivételek kezelése…
     .accesskey = e
     .searchkeywords = felugró ablakok
-permissions-addon-install-warning2 =
-    .label = Figyelmeztetés, ha a webhely kiegészítőket próbál meg telepíteni
-    .accesskey = F
 permissions-addon-exceptions2 =
     .label = Válassza ki, hogy mely webhelyek telepíthetnek kiegészítőket
     .accesskey = e
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Kivételek…
     .accesskey = K
-permissions-header2 =
-    .label = Jogosultságok
-    .description = Felkeresett webhelyeknek adott jogosultságok
 permissions-location2 =
     .label = Hely
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = m
 space-alert-over-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
 space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
-certs-description2 =
-    .label = Tanúsítványok
-    .description = A { -brand-short-name } által hitelesítéshez használt tanúsítványok beállítása.
 certs-description3 =
     .label = Tanúsítványok
     .description = Állítsa be a { -brand-short-name } által a biztonságos kapcsolatok ellenőrzéséhez használt tanúsítványokat.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Csak HTTPS mód
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
 httpsonly-description3 = Csak a biztonságos kapcsolatokat engedélyezi. A { -brand-short-name } megkérdezi, mielőtt nem biztonságosan csatlakozna.
 httpsonly-learn-more2 = Hogyan működik a Csak HTTPS mód
 httpsonly-description = A HTTPS biztonságos, titkosított kapcsolatot biztosít a { -brand-short-name } és a meglátogatott webhelyek között. A legtöbb webhely támogatja a HTTPS-t, és ha a Csak HTTPS mód engedélyezve van, akkor a { -brand-short-name } HTTPS-re frissíti az összes kapcsolatot.

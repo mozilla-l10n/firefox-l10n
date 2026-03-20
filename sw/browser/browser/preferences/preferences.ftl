@@ -26,8 +26,6 @@ should-restart-title = Washa upya { -brand-short-name }
 ## General Section
 
 startup-header = Uwashaji
-is-default-browser =
-    .message = { -brand-short-name } kwa sasa ni kivinjari chako msingi
 is-default = { -brand-short-name } kwa sasa ni kivinjari chako msingi
 tabs-group-header2 =
     .label = Vichupo
@@ -219,9 +217,6 @@ history-remember-option-custom =
     .label = Tumia mipangilio maalum ya historia
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.
 history-dontremember-description = { -brand-short-name } itatumia mipangilio sawa kama kuvinjari kwa kibinafsi, na haitakumbuka historia yoyote unapovinjari Tovuti.
 history-private-browsing-permanent =

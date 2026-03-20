@@ -20,8 +20,6 @@ close-button =
 ## General Section
 
 startup-header = Tàmbali
-is-default-browser =
-    .message = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
 is-default = { -brand-short-name } mooy leegi sa joowukaay ñakk ndigal
 show-tabs-in-taskbar =
     .label = Wone seenub koñ yi ci banqaasu sas bu windows
@@ -209,9 +207,6 @@ history-remember-option-custom =
     .label = Jëfandikoo parameetar yi ñu solal ngir jaar jaar bi
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.
 history-dontremember-description = { -brand-short-name } dina jëfandikoo parameetar yii ci joowum biir, te du denc benn jaar jaaru joow mi.
 history-private-browsing-permanent =

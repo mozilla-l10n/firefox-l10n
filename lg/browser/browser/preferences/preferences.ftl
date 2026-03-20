@@ -25,8 +25,6 @@ should-restart-title = Ddamu otandike { -brand-short-name }
 ## General Section
 
 startup-header = Entandika
-is-default-browser =
-    .message = { -brand-short-name } ye'nonyeso yo eyenkalakalira kakati
 is-default = { -brand-short-name } ye'nonyeso yo eyenkalakalira kakati
 tabs-group-header2 =
     .label = Awaddirira
@@ -217,9 +215,6 @@ history-remember-option-custom =
     .label = Kozesa entegeka eyiyo ku byafaayo
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } ejja kkozesa entegekka yemu nga enoonyereza eyo bwa nnannyini, era tejja kujjukira byafaayo nga bwo obiwamanta ku Mutimbangano.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } ejja kkozesa entegekka yemu nga enoonyereza eyo bwa nnannyini, era tejja kujjukira byafaayo nga bwo obiwamanta ku Mutimbangano.
 history-dontremember-description = { -brand-short-name } ejja kkozesa entegekka yemu nga enoonyereza eyo bwa nnannyini, era tejja kujjukira byafaayo nga bwo obiwamanta ku Mutimbangano.
 history-private-browsing-permanent =

@@ -65,10 +65,6 @@ startup-header = Permulaan
 always-check-default =
     .label = Sentiasa semak samada { -brand-short-name } adalah pelayar piawai anda
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } kini adalah pelayar piawai anda
-is-not-default-browser =
-    .message = { -brand-short-name } bukan pelayar piawai anda
 is-default = { -brand-short-name } kini adalah pelayar piawai anda
 is-not-default = { -brand-short-name } bukan pelayar piawai anda
 set-as-my-default-browser =
@@ -609,16 +605,6 @@ history-header = Sejarah
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } akan
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } akan
     .accesskey = a
 history-remember-option-all =
@@ -632,12 +618,6 @@ history-remember-description4 =
     .description = { -brand-short-name } akan mengingati sejarah pelayaran, muat turun, borang dan carian.
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } akan menggunakan tetapan yang sama untuk pelayaran peribadi dan tidak akan mengingati sejarah pelayaran semasa anda melayari Web.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } akan mengingati sejarah pelayaran, muat turun, borang dan carian.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } akan menggunakan tetapan yang sama untuk pelayaran peribadi dan tidak akan mengingati sejarah pelayaran semasa anda melayari Web.
 history-remember-description = { -brand-short-name } akan mengingati sejarah pelayaran, muat turun, borang dan carian.
 history-dontremember-description = { -brand-short-name } akan menggunakan tetapan yang sama untuk pelayaran peribadi dan tidak akan mengingati sejarah pelayaran semasa anda melayari Web.

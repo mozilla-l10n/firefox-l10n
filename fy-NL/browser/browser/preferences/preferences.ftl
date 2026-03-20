@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = { -relay-brand-name }-e-mailmaskers foarstelle
     .description = Ferstoppet jo echte e-mailadres om jo Postfek YN te beskermjen tsjin spam.
 non-technical-privacy-header = Websiteprivacyfoarkarren
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Opstarte
 always-check-default =
     .label = Altyd kontrolearje oft { -brand-short-name } de standertbrowser is
     .accesskey = k
-is-default-browser =
-    .message = { -brand-short-name } is op dit stuit jo standertbrowser
-is-not-default-browser =
-    .message = { -brand-short-name } is net jo standertbrowser
 is-default = { -brand-short-name } is op dit stuit jo standertbrowser
 is-not-default = { -brand-short-name } is net jo standertbrowser
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Websiteadres(sen)
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Websiteadres(sen)
 home-custom-homepage-address =
     .placeholder = Fier adres yn
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Ferfange troch
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Noch gjin websites tafoege.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Ferfange troch
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Aktuele iepene siden
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Bewarre betellingsmetoaden
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Apparaatoanmelding foar ynfoljen en behearen fan betellingsmetoaden fereaskje
     .accesskey = m
-autofill-payment-methods-title = Betellingsmetoaden
 autofill-payment-methods-header =
     .aria-label = Betellingsmetoaden
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Gjin betellingsmetoaden tafoege
-autofill-addresses-title = Adressen en mear
-autofill-addresses-header =
-    .aria-label = Adressen en mear
 autofill-addresses-checkbox-message =
     .label = Adressen bewarje en automatysk ynfolje
     .accesskey = d
@@ -1619,16 +1602,6 @@ history-header = Skiednis
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } sil
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } sil
     .accesskey = s
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } brûkt oanpaste ynstellingen foar jo sneup-, download-, formulier- en sykskiednis.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } sil jo browser-, download-, formulier- en sykskiednis ûnthâlde.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } brûkt oanpaste ynstellingen foar jo sneup-, download-, formulier- en sykskiednis.
 history-remember-description = { -brand-short-name } sil jo browser-, download-, formulier- en sykskiednis ûnthâlde.
 history-dontremember-description = { -brand-short-name } sil deselde ynstellingen brûke as privee sneupe en sil gjin skiednis ûnthâlde as jo sneupe oer it ynternet.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies en websitegegevens
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Grutte fan websitegegevens en buffer berekkenje…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Websites brûke op dit stuit <strong>{ $value } { $unit }</strong> oan skiifromte.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Jo bewarre cookies, websitegegevens en buffer brûke op dit stuit <strong>{ $value } { $unit }</strong> oan skiifromte.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2044,12 +2002,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Pop-ups en omliedingen fan tredden blokkearje
     .accesskey = b
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Omliedingen beheare
-    .accesskey = l
-    .searchkeywords = pop-ups,popups
 permissions-addon-install-warning3 =
     .label = Warskôging toane as websites probearje útwreidingen te ynstallearjen
     .accesskey = W
@@ -2059,9 +2011,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Utsûnderingen foar pop-ups en omliedingen fan tredden beheare
     .accesskey = o
     .searchkeywords = pop-ups
-permissions-addon-install-warning2 =
-    .label = Warskôgje as websites útwreidingen probearje te ynstallearjen
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Kies hokker websiden útwreidingen ynstallearje meie
     .accesskey = K
@@ -2080,9 +2029,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Utsûnderingen…
     .accesskey = U
-permissions-header2 =
-    .label = Tastimmingen
-    .description = Tastimmingen dy’t jo ferliene oan websites wêrop jo navigearje
 permissions-location2 =
     .label = Lokaasje
 permissions-localhost2 =
@@ -2217,9 +2163,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = i
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Jo kinne bewarre gegevens wiskje yn Ynstellingen > Privacy & Befeiliging > Cookies en websitegegevens.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } hat hast gjin skiifromte mear.</strong> Ynhâld fan websites wurdt mooglik net goed werjûn. Besykje ‘Mear ynfo’ om jo skiifgebrûk te optimalisearjen foar bettere prestaasjes.
-certs-description2 =
-    .label = Sertifikaten
-    .description = De sertifikaten dy’t { -brand-short-name } brûkt foar autentikaasje konfigurearje.
 certs-description3 =
     .label = Sertifikaten
     .description = De sertifikaten, dy’t { -brand-short-name } brûkt om befeilige ferbiningen te ferifiearjen, konfigurearje.
@@ -2233,9 +2176,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Allinnich-HTTPS-modus
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
 httpsonly-description3 = Stiet allinnich befeilige ferbiningen mei websites ta. { -brand-short-name } sil freegje eardat in ûnfeilige ferbining makke wurdt.
 httpsonly-learn-more2 = Hoe Allinnich-HTTPS wurket
 httpsonly-description = HTTPS biedt in feilige, fersifere ferbining tusken { -brand-short-name } en de troch jo besochte websites. De measte websites stypje HTTPS en as de Allinnich-HTTPS-modus ynskeakele is, sil { -brand-short-name } alle ferbiningen fernije nei HTTPS.

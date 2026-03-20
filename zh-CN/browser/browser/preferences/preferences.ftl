@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = 建议使用 { -relay-brand-name } 马甲邮箱
     .description = 隐藏真实邮箱地址，保护收件箱免受垃圾邮件侵扰。
 non-technical-privacy-header = 网站隐私首选项
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = 启动
 always-check-default =
     .label = 总是检查 { -brand-short-name } 是否是您的默认浏览器
     .accesskey = w
-is-default-browser =
-    .message = { -brand-short-name } 目前是您的默认浏览器
-is-not-default-browser =
-    .message = { -brand-short-name } 目前不是您的默认浏览器
 is-default = { -brand-short-name } 目前是您的默认浏览器
 is-not-default = { -brand-short-name } 目前不是您的默认浏览器
 set-as-my-default-browser =
@@ -872,8 +866,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = 网址
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = 网址
 home-custom-homepage-address =
     .placeholder = 输入地址
 home-custom-homepage-address-button =
@@ -888,11 +880,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = 替换为
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = 未添加网站。
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = 替换为
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = 当前打开的页面
@@ -1523,7 +1510,6 @@ autofill-saved-payment-methods-button = 保存的付款方式
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = 填写和管理付款方式前需验证设备登录信息
     .accesskey = o
-autofill-payment-methods-title = 付款方式
 autofill-payment-methods-header =
     .aria-label = 付款方式
 autofill-payment-methods-checkbox-message-2 =
@@ -1551,9 +1537,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = 未添加付款方式
-autofill-addresses-title = 地址等信息
-autofill-addresses-header =
-    .aria-label = 地址等信息
 autofill-addresses-checkbox-message =
     .label = 保存并自动填写地址
     .accesskey = S
@@ -1607,16 +1590,6 @@ history-header = 历史记录
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } 将
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } 将
     .accesskey = w
 history-remember-option-all =
@@ -1633,15 +1606,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } 将使用自定义设置处理您的浏览、下载、表单和搜索记录。
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } 将使用自定义设置处理您的浏览、下载、表单和搜索记录。
 history-remember-description = { -brand-short-name } 将记住您的浏览、下载、表单和搜索记录。
 history-dontremember-description = { -brand-short-name } 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。
@@ -1681,17 +1645,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookie 和网站数据
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = 正在计算网站数据和缓存的大小…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = 各网站目前使用了 <strong>{ $value } { $unit }</strong> 磁盘空间。
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = 您已存储的 Cookie、历史记录、网站数据和缓存目前使用了 <strong>{ $value } { $unit }</strong> 磁盘空间。
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2026,19 +1984,10 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = 管理重定向
-    .accesskey = E
-    .searchkeywords = 弹窗,弹出式窗口,popups,pop-ups
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = 管理弹出式窗口和第三方重定向例外
     .accesskey = E
     .searchkeywords = 弹出式窗口 弹窗 popups
-permissions-addon-install-warning2 =
-    .label = 当网站尝试安装扩展时发出警告
-    .accesskey = W
 permissions-addon-exceptions2 =
     .label = 选择可以安装扩展的网站
     .accesskey = E
@@ -2057,9 +2006,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = 例外…
     .accesskey = E
-permissions-header2 =
-    .label = 权限
-    .description = 您授予所浏览网站的权限。
 permissions-location2 =
     .label = 位置
 permissions-localhost2 =
@@ -2186,16 +2132,10 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 运行所需的磁盘空间不足。</strong>网站内容可能无法正常显示。您可以在 设置 > 隐私与安全 > Cookie 和网站数据 中清除已存储的数据。
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 运行所需的磁盘空间不足。</strong>网站内容可能无法正常显示。点击“详细了解”了解如何优化您的磁盘空间，从而获得更好的浏览体验。
-certs-description2 =
-    .label = 证书
-    .description = 配置 { -brand-short-name } 用于进行身份验证的证书。
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = HTTPS-Only 模式
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
 httpsonly-description3 = 仅允许与网站进行安全连接。{ -brand-short-name } 将在进行不安全连接前询问。
 httpsonly-learn-more2 = HTTPS-Only 模式的运作原理
 httpsonly-description = HTTPS 可在 { -brand-short-name } 和您访问的网站之间提供安全、加密的连接。现今，大多数网站都支持 HTTPS，若选择启用 HTTPS-Only 模式，{ -brand-short-name } 将会升级所有连接为 HTTPS。

@@ -22,8 +22,6 @@ preferences-privacy-relay-available =
     .label = { -relay-brand-name } e-posta maskeleri öner
     .description = Gerçek e-posta adresinizi gizleyerek gelen kutunuzu spam’den korur.
 non-technical-privacy-header = Web sitesi gizlilik tercihleri
-non-technical-privacy-label =
-    .aria-label = { non-technical-privacy-header }
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -146,10 +144,6 @@ startup-header = Başlangıç
 always-check-default =
     .label = Varsayılan tarayıcımın { -brand-short-name } olup olmadığını her zaman denetle
     .accesskey = H
-is-default-browser =
-    .message = { -brand-short-name } şu anda varsayılan tarayıcınız
-is-not-default-browser =
-    .message = { -brand-short-name } varsayılan tarayıcınız değil
 is-default = { -brand-short-name } şu anda varsayılan tarayıcınız
 is-not-default = { -brand-short-name } varsayılan tarayıcınız değil
 set-as-my-default-browser =
@@ -880,8 +874,6 @@ home-custom-homepage-subpage =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Web sitesi adres(ler)i
-# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
-home-custom-homepage-subheader = Web sitesi adres(ler)i
 home-custom-homepage-address =
     .placeholder = Adres yazın
 home-custom-homepage-address-button =
@@ -896,11 +888,6 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Bununla değiştir:
-# Shown when no custom websites/URLs to use as a homepage have been added yet
-home-custom-homepage-no-websites-yet = Henüz hiç site eklenmedi.
-# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
-# to replace the current home page with a currently open page or bookmark.
-home-custom-homepage-replace-with = Bununla değiştir:
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Şu anda açık olan sayfalar
@@ -1535,7 +1522,6 @@ autofill-saved-payment-methods-button = Kayıtlı ödeme yöntemleri
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Ödeme yöntemlerini doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
     .accesskey = Ö
-autofill-payment-methods-title = Ödeme yöntemleri
 autofill-payment-methods-header =
     .aria-label = Ödeme yöntemleri
 autofill-payment-methods-checkbox-message-2 =
@@ -1563,9 +1549,6 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = Hiç ödeme yöntemi eklenmedi
-autofill-addresses-title = Adresler ve daha fazlası
-autofill-addresses-header =
-    .aria-label = Adresler ve daha fazlası
 autofill-addresses-checkbox-message =
     .label = Adresleri kaydedip otomatik doldur
     .accesskey = A
@@ -1619,16 +1602,6 @@ history-header = Geçmiş
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name }
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = i
 history-remember-option-all =
@@ -1650,15 +1623,6 @@ history-dontremember-description4 =
     .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
 history-custom-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişleriniz için özel ayarlar kullanacak.
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
-history-custom-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name } gezinti, indirme, form ve arama geçmişleriniz için özel ayarlar kullanacak.
 history-remember-description = { -brand-short-name } gezinti, indirme, form ve arama geçmişlerinizi hatırlayacak.
 history-dontremember-description = { -brand-short-name } Gizli Gezinti ile aynı ayarları kullanacak ve siz internette gezerken geçmişle ilgili hiçbir şeyi hatırlamayacak.
@@ -1698,17 +1662,11 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = Çerezler ve site verileri
-sitedata-label =
-    .aria-label = { sitedata-header }
 sitedata-total-size-calculating = Site verilerinin ve önbelleğin boyutu hesaplanıyor…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size3 = Web siteleri şu anda <strong>{ $value } { $unit }</strong> disk alanı kullanıyor.
-# Variables:
-#   $value (number) - Value of the unit (for example: 4.6, 500)
-#   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size2 = Depolanmış çerezleriniz, geçmişiniz, site verileriniz ve önbelleğiniz şu anda <strong>{ $value } { $unit }</strong> disk alanı kullanıyor.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2041,12 +1999,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Açılır pencereleri ve üçüncü taraf yönlendirmelerini engelle
     .accesskey = A
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button3 =
-    .label = Yönlendirmeleri yönet
-    .accesskey = Y
-    .searchkeywords = popups,pop-ups
 permissions-addon-install-warning3 =
     .label = Siteler uzantı yüklemeye çalıştığında uyarı göster
     .accesskey = S
@@ -2056,9 +2008,6 @@ permissions-block-popups-exceptions-button2 =
     .label = Açılır pencere ve üçüncü taraf yönlendirmesi istisnalarını yönet
     .accesskey = A
     .searchkeywords = popups
-permissions-addon-install-warning2 =
-    .label = Siteler uzantı yüklemeye çalıştığında uyar
-    .accesskey = t
 permissions-addon-exceptions2 =
     .label = Uzantı yükleyebilecek siteleri seç
     .accesskey = U
@@ -2077,9 +2026,6 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = İstisnalar…
     .accesskey = n
-permissions-header2 =
-    .label = İzinler
-    .description = Gezdiğiniz web sitelerine verdiğiniz izinler.
 permissions-location2 =
     .label = Konum
 permissions-localhost2 =
@@ -2214,9 +2160,6 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Depolanan verileri Ayarlar > Gizlilik ve Güvenlik > Çerezler ve site verileri kısmından temizleyebilirsiniz.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } tarafından kulllanılabilen disk alanı azaldı.</strong> Site içerikleri düzgün görüntülenemeyebilir. Daha iyi bir gezinti deneyimi içi disk kullanımınızı iyileştirmek isterseniz “Daha fazla bilgi al” sayfasını ziyaret edin.
-certs-description2 =
-    .label = Sertifikalar
-    .description = { -brand-short-name } tarayıcısının kimlik doğrulama için kullandığı sertifikaları yapılandırın.
 certs-description3 =
     .label = Sertifikalar
     .description = { -brand-short-name } tarayıcısının güvenli bağlantıları doğrulamak için kullandığı sertifikaları yapılandırın.
@@ -2230,9 +2173,6 @@ certs-devices2 =
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Yalnızca HTTPS modu
-httpsonly-label =
-    .aria-label = { httpsonly-header }
-    .description = Web sitelerine yalnızca güvenli bağlantı kurulmasına izin verir. { -brand-short-name } güvensiz bir bağlantı kurmadan önce size sorar.
 httpsonly-description3 = Web sitelerine yalnızca güvenli bağlantı kurulmasına izin verir. { -brand-short-name } güvensiz bir bağlantı kurmadan önce size sorar.
 httpsonly-learn-more2 = Yalnızca HTTPS modu nasıl çalışır?
 httpsonly-description = HTTPS, ziyaret ettiğiniz sitelerle { -brand-short-name } arasında güvenli ve şifrelenmiş bağlantı sağlar. Çoğu site HTTPS desteği sunar. “Yalnızca HTTPS” modunu açarsanız { -brand-short-name } tüm bağlantılarda HTTPS kullanmaya çalışır.

@@ -65,10 +65,6 @@ startup-header = Peuphôn
 always-check-default =
     .label = Parèksa sabé peuë { -brand-short-name } nakeuh browser baku
     .accesskey = p
-is-default-browser =
-    .message = { -brand-short-name } nyankeuh browser default droen jinoe
-is-not-default-browser =
-    .message = { -brand-short-name } kën default browser droen jinoe
 is-default = { -brand-short-name } nyankeuh browser default droen jinoe
 is-not-default = { -brand-short-name } kën default browser droen jinoe
 set-as-my-default-browser =
@@ -588,16 +584,6 @@ history-header = Riwayat
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } keuneuk
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } keuneuk
     .accesskey = k
 history-remember-option-all =
@@ -611,12 +597,6 @@ history-remember-description4 =
     .description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = { -brand-short-name }  jingui peuatô nyang saban lagée browsing privat, dan han jiingat dumpue riwayat watée neu browse bak web
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = { -brand-short-name }  jingui peuatô nyang saban lagée browsing privat, dan han jiingat dumpue riwayat watée neu browse bak web
 history-remember-description = { -brand-short-name } tingat pue nyang droen browsing, download, formulir dan riwayat seutöt
 history-dontremember-description = { -brand-short-name }  jingui peuatô nyang saban lagée browsing privat, dan han jiingat dumpue riwayat watée neu browse bak web
