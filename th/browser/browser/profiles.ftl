@@ -66,6 +66,9 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = สำเนาของ { $profilename } ของคุณพร้อมให้ปรับแต่งแล้ว
 copied-profile-page-header-description = เราคัดลอกข้อมูลและการตั้งค่าของคุณไปยังโปรไฟล์ใหม่แล้ว ทีนี้ให้ตั้งชื่อ เลือกรูปลักษณ์ และปรับแต่งให้เป็นของคุณเอง
+restored-profile-page-header = ปรับแต่งโปรไฟล์ที่เรียกคืนของคุณ
+restored-profile-page-header-description = แต่ละโปรไฟล์จะเก็บประวัติการเรียกดูและการตั้งค่าเฉพาะของตัวเองแยกจากโปรไฟล์อื่น ๆ ของคุณ และ { -brand-short-name } จะเปิดระบบป้องกันความเป็นส่วนตัวที่แข็งแกร่งโดยค่าเริ่มต้นอยู่แล้ว
+restored-profile-page-learn-more = เรียนรู้เพิ่มเติม
 profile-window-title-2 = { -brand-short-name } - เลือกโปรไฟล์
 profile-window-logo =
     .alt = โลโก้ { -brand-short-name }
@@ -87,6 +90,9 @@ delete-profile-bookmarks = ที่คั่นหน้า
 delete-profile-history = ประวัติ (หน้าที่เยี่ยมชม คุกกี้ ข้อมูลไซต์)
 delete-profile-autofill = ข้อมูลเติมอัตโนมัติ (ที่อยู่ วิธีการชำระเงิน)
 delete-profile-logins = รหัสผ่าน
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = ลบโปรไฟล์ “{ $profilename }”
 
 ##
 

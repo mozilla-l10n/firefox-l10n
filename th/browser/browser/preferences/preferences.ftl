@@ -2210,6 +2210,9 @@ certs-description3 =
 certs-view2 =
     .label = จัดการใบรับรอง
     .accesskey = บ
+certs-devices2 =
+    .label = จัดการอุปกรณ์ความปลอดภัย
+    .accesskey = อ
 
 ## Privacy Section - HTTPS-Only
 
@@ -2323,6 +2326,8 @@ preferences-doh-radio-custom =
 preferences-doh-radio-off =
     .label = ปิด
     .description = ใช้ DNS Resolver เริ่มต้นของคุณ
+preferences-doh-fallback-label =
+    .label = เตือนฉันเสมอเมื่อ Secure DNS ใช้ไม่ได้
 preferences-doh-status-item-off =
     .message = DNS over HTTPS ปิดอยู่
 # Variables:
@@ -2338,6 +2343,26 @@ preferences-doh-status-item-not-active-bad-url =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS over HTTPS กำลังใช้ผู้ให้บริการ { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS over HTTPS ไม่ทำงานเนื่องจากเราพบข้อผิดพลาด ({ $reason }) ขณะที่พยายามใช้ผู้ให้บริการท้องถิ่น { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS over HTTPS กำลังใช้ผู้ให้บริการท้องถิ่น { $name }
+preferences-doh-select-resolver-label =
+    .label = เลือกผู้ให้บริการ:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = ใช้ผู้ให้บริการนี้สำหรับการทำ Resolving DNS over HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = ป้อน URL ของผู้ให้บริการที่กำหนดเอง
+preferences-doh-header2 =
+    .heading = DNS over HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2406,6 +2431,25 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } กำลังป้องกันอยู่
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } ขอแนะนำการปรับปรุงด้านความปลอดภัยบางอย่าง
+security-privacy-status-ok-label = การป้องกันการติดตามแบบพิเศษเปิดอยู่
+security-privacy-status-problem-label = เราพบการตั้งค่าที่มีผลกระทบกับการป้องกันของคุณ
+security-privacy-status-problem-helper-label = ดูปัญหา
+security-privacy-status-pending-trackers-label = กำลังตรวจหาจำนวนตัวติดตามที่ { -brand-short-name } ปิดกั้นในเดือนที่ผ่านมา
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label = ปิดกั้นตัวติดตามไปแล้ว { $trackerCount } ตัวในเดือนที่ผ่านมา
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = คุณใช้<a data-l10n-name="strict-tracking-protection">การป้องกันแบบเข้มงวด</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = คุณใช้<a data-l10n-name="custom-tracking-protection">การป้องกันแบบกำหนดเอง</a>
+security-privacy-status-up-to-date-label = คุณมี { -brand-short-name } รุ่นล่าสุดและปลอดภัยที่สุดแล้ว
+security-privacy-status-update-needed-label = มี { -brand-short-name } รุ่นใหม่ที่พร้อมให้ใช้งาน
+security-privacy-status-update-error-label = { -brand-short-name } มีปัญหาในการอัปเดตตัวเอง
+security-privacy-status-update-checking-label = { -brand-short-name } กำลังตรวจสอบอัปเดต
 security-privacy-status-update-needed-description = อัปเดตเพื่อความเร็วและความเสถียรที่ดียิ่งขึ้น รวมทั้งการอัปเดตด้านความปลอดภัยล่าสุด
 security-privacy-status-update-button-label =
     .label = อัปเดต { -brand-short-name }
@@ -2423,7 +2467,33 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = การป้องกันการติดตามแบบพิเศษ
+    .description = ไซต์จะใช้ตัวติดตามเพื่อตามรอยคุณทางออนไลน์และแสดงโฆษณาที่กวนใจ { -brand-short-name } จะป้องกันให้คุณขณะที่คุณเรียกดู โดยปิดกั้นตัวติดตามอัตโนมัติเพื่อให้คุณควบคุมโลกดิจิทัลของคุณได้เต็มที่
+preferences-etp-level-standard =
+    .label = มาตรฐาน (ค่าเริ่มต้น)
+    .description = การป้องกันที่แข็งแกร่ง เชื่อถือได้ซึ่งทำงานราบรื่นกับเว็บไซต์ส่วนใหญ่
+preferences-etp-level-strict =
+    .label = เข้มงวด
+    .description = การป้องกันที่แข็งแกร่งขึ้นซึ่งปิดกั้นตัวติดตามมากขึ้น แต่อาจทำให้บางไซต์ใช้ไม่ได้
+preferences-etp-level-custom =
+    .label = กำหนดเอง
+    .description = เลือกว่าจะเปิดหรือปิดการป้องกันใดบ้าง
 preferences-etp-status-advanced-button =
     .label = การตั้งค่าขั้นสูง
+preferences-etp-status-protections-dashboard-link =
+    .label = ดูแดชบอร์ดการป้องกันส่วนบุคคลของคุณ
+    .description = ดูว่า { -brand-short-name } ได้ปิดกั้นตัวติดตามให้คุณไปเท่าใดแล้ว รวมถึงตัวติดตามสื่อสังคมออนไลน์ ลายนิ้วมือดิจิทัล และตัวขุดเหรียญดิจิทัล
 preferences-etp-header =
     .heading = การป้องกันการติดตามแบบพิเศษ
+preferences-etp-advanced-settings-group =
+    .label = การตั้งค่าขั้นสูง
+    .description = ไซต์จะใช้ตัวติดตามเพื่อตามรอยคุณทางออนไลน์และแสดงโฆษณาที่กวนใจ { -brand-short-name } จะป้องกันให้คุณขณะที่คุณเรียกดู โดยปิดกั้นตัวติดตามส่วนใหญ่อัตโนมัติเพื่อให้คุณควบคุมโลกดิจิทัลของคุณได้เต็มที่
+preferences-etp-customize-button =
+    .label = ปรับแต่งการป้องกันการติดตาม
+preferences-etp-reload-tabs-hint =
+    .message = โหลดแท็บของคุณใหม่เพื่อเริ่มใช้การเปลี่ยนแปลงเหล่านี้
+preferences-etp-reload-tabs-hint-button =
+    .label = โหลดแท็บทั้งหมดใหม่
+preferences-etp-rfp-warning-message =
+    .message = คุณกำลังใช้ Resist Fingerprinting (RFP) ซึ่งจะแทนที่การตั้งค่าการป้องกันการตรวจลายนิ้วมือของ { -brand-short-name } บางส่วน ซึ่งอาจทำให้บางไซต์ใช้งานไม่ได้
