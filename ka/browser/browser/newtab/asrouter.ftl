@@ -311,6 +311,7 @@ tail-fox-spotlight-secondary-button = ახლა არა
 
 welcome-back-spotlight-title = დაუბრუნდით თანმომყოლ პირადულობას
 welcome-back-spotlight-subtitle = კეთილი იყოს თქვენი დაბრუნება ერთადერთ მოწინავე ბრაუზერში, რომელსაც ზურგს უმაგრებს არამომგებიანი დაწესებულება. ჩვენ სიფრთხილის განსაკუთრებულ ზომებს ვიღებთ თქვენი მონაცემების დასაცავად, სადაც არ უნდა გადაადგილდებოდეთ.
+welcome-back-embedded-import-title = გადმოიტანეთ თქვენი მონაცემები და მოირგეთ { -brand-short-name }, რომ თავი იგრძნოთ შინ.
 
 ## Root Certificate Succession Infobar
 

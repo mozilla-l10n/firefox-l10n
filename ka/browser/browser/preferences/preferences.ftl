@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = გარეშე მხარის მიერ გადამისამართების შეზღუდვა
     .accesskey = ზ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = გამონაკლისების მართვა
+    .description = დაამატეთ ვებსაიტები ამომხტომებისა და გარეშე მხარის მიერ გადამისამართებების ნებართვით.
+    .accesskey = ვ
+    .searchkeywords = ამომხტომები
 permissions-addon-install-warning3 =
     .label = გაფრთხილება საიტების მიერ გაფართოების ჩადგმის მცდელობისას
     .accesskey = ხ

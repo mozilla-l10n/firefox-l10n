@@ -306,6 +306,8 @@ tail-fox-spotlight-secondary-button = 나중에
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-title = 내장된 개인 정보 보호로 돌아가 보세요
+welcome-back-spotlight-subtitle = 비영리 단체가 운영하는 유일한 주요 브라우저에 오신 것을 환영합니다. 사용자가 어디서든 안전하게 이용할 수 있도록 데이터 보호에 만전을 기하고 있습니다.
 welcome-back-embedded-import-title = 데이터를 가져오고 { -brand-short-name }를 나만의 것으로 만드세요.
 
 ## Root Certificate Succession Infobar

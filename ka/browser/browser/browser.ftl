@@ -1226,6 +1226,15 @@ panel-save-update-password = პაროლი
 # "More" item in macOS share menu
 menu-share-more =
     .label = სხვა…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] ბმულის ასლი
+           *[other] { $count } ბმულის ასლი
+        }
+    .accesskey = უ
 menu-share-copy-link =
     .label = ბმულის ასლი
     .accesskey = ს

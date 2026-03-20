@@ -203,3 +203,44 @@ bar-tooltip-cryptominer =
             [one] { $count } kripto madencisi (%{ $percentage })
            *[other] { $count } kripto madencisi (%{ $percentage })
         }
+# Privacy Metrics Card
+privacy-metrics-title = Gizlilik Korumaları
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] Bu hafta { $count } takip kodu engellendi
+       *[other] Bu hafta { $count } takip kodu engellendi
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } takip kodu
+       *[other] { $count } takip kodu
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } parmak izi toplayıcı
+       *[other] { $count } parmak izi toplayıcı
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } takip çerezi
+       *[other] { $count } takip çerezi
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sosyal medya takip kodu
+       *[other] { $count } sosyal medya takip kodu
+    }
+privacy-metrics-empty = Bu hafta hiç takip kodu engellenmedi. Siz internette gezinirken { -brand-short-name } sizi aşağıdaki tehditlerden korur.
+privacy-metrics-loading = Koruma istatistikleri yükleniyor…
+privacy-metrics-error = Koruma istatistikleri yüklenemedi.
+privacy-metrics-private-window = { -brand-short-name } gizli pencerelerde takip kodlarını engellemeye devam eder ama neleri engellediğinin kaydını tutmaz.
