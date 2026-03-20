@@ -25,6 +25,8 @@ neterror-override-exception-button = 위험을 감수하고 계속
 neterror-pref-reset-button = 기본 설정으로 복원
 neterror-return-to-previous-page-button = 뒤로 가기
 neterror-return-to-previous-page-recommended-button = 뒤로 가기 (권장)
+neterror-try-again-button-2 = 다시 시도
+    .accesskey = T
 neterror-try-again-button = 다시 시도
 neterror-add-exception-button = 이 사이트는 항상 계속
 neterror-settings-button = DNS 설정 변경
@@ -176,12 +178,15 @@ neterror-response-status-code = 오류 코드: { $responsestatus } { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = 인터넷 연결에 문제가 있는 것 같습니다
+fp-neterror-illustration-alt =
+    .alt = 연결이 끊긴 네트워크 케이블을 보고 있는 여우의 그림입니다.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }는 { $hostname } 서버에 대한 보안 연결을 만들 수 없습니다.
 fp-neterror-offline-intro = { -brand-short-name }가 <strong>{ $hostname }</strong> 서버에 연결할 수 없습니다.
+fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> 서버가 응답하는 데 시간이 너무 오래 걸립니다.
 fp-neterror-coop-coep-intro = 보안 구성이 이전 페이지와 일치하지 않기 때문에 { -brand-short-name }가 이 페이지를 로드하지 않았습니다.
 fp-neterror-http-auth-disabled-intro = 사이트를 사칭하는 누군가가 사용자 이름, 비밀번호, 이메일 등을 훔칠 수 있습니다.
 fp-neterror-http-auth-disabled-secure-connection = 이 사이트는 보안 연결이 필요하며, 방문하기 위해 예외를 추가할 수 없습니다.

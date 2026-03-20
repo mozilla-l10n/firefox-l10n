@@ -226,3 +226,5 @@ fp-certerror-override-exception-button = Перейти на { $hostname } (ри
 fp-certerror-intro = { -brand-short-name } обнаружил потенциально значимую проблему с безопасностью <strong>{ $hostname }</strong>. Кто-то, выдающий себя за сайт, может попытаться украсть такие данные, как данные банковской карты, пароли или адреса электронной почты.
 fp-certerror-expired-into = { -brand-short-name } обнаружил проблему с безопасностью на <strong>{ $hostname }</strong>. Либо сайт не настроен правильно, либо на часах вашего устройства установлена неверная дата и время.
 fp-certerror-transparency-intro = Кто-то, выдающий себя за <strong>{ $hostname }</strong>, может попытаться украсть такие данные, как данные банковской карты, пароли или электронные письма.
+fp-certerror-override-exception-button-2 = Перейти на { $hostname } (рискованно)
+    .accesskey = З

@@ -668,6 +668,8 @@ pdfjs-views-manager-view-selector-button =
     .title = Görünümler
 pdfjs-views-manager-view-selector-button-label = Görünümler
 pdfjs-views-manager-pages-title = Sayfalar
+pdfjs-views-manager-outlines-title1 = Belge ana hatları
+    .title = Belge ana hatları (Tüm öğeleri genişletmek/daraltmak için çift tıklayın)
 pdfjs-views-manager-outlines-title = Belge ana hatları
 pdfjs-views-manager-attachments-title = Ekler
 pdfjs-views-manager-layers-title = Katmanlar
@@ -690,6 +692,7 @@ pdfjs-views-manager-pages-status-action-button-label = Yönet
 pdfjs-views-manager-pages-status-copy-button-label = Kopyala
 pdfjs-views-manager-pages-status-cut-button-label = Kes
 pdfjs-views-manager-pages-status-delete-button-label = Sil
+pdfjs-views-manager-pages-status-export-selected-button-label = Seçilenleri dışa aktar…
 pdfjs-views-manager-pages-status-save-as-button-label = Farklı kaydet…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -730,6 +733,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = { $page }. sayfadan sonra yapıştır
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = YENİ
 pdfjs-toggle-views-manager-button1 =
     .title = Sayfaları yönet
 

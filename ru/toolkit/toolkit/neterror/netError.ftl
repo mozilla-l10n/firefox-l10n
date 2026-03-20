@@ -25,6 +25,8 @@ neterror-override-exception-button = Принять риск и продолжи
 neterror-pref-reset-button = Восстановить настройки по умолчанию
 neterror-return-to-previous-page-button = Вернуться назад
 neterror-return-to-previous-page-recommended-button = Вернуться назад (рекомендуется)
+neterror-try-again-button-2 = Попробовать снова
+    .accesskey = Е
 neterror-try-again-button = Попробовать снова
 neterror-add-exception-button = Всегда продолжать для этого сайта
 neterror-settings-button = Изменить настройки DNS
@@ -176,12 +178,15 @@ neterror-response-status-code = Код ошибки: { $responsestatus } { $resp
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Похоже, есть проблема с вашим интернет-соединением
+fp-neterror-illustration-alt =
+    .alt = Иллюстрация с лисой, смотрящей на отсоединённые сетевые контакты.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } не может создать защищённое соединение с сервером на { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не может подключиться к серверу <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Сервер на <strong>{ $hostname }</strong> слишком долго не отвечает.
 fp-neterror-coop-coep-intro = { -brand-short-name } не загрузил эту страницу, так как похоже, что конфигурация безопасности не соответствует предыдущей странице.
 fp-neterror-http-auth-disabled-intro = Кто-то, выдающий себя за сайт, может попытаться украсть ваше имя пользователя, пароль или адрес электронной почты.
 fp-neterror-http-auth-disabled-secure-connection = Этот сайт требует использования безопасного соединения, и вы не можете добавить исключение для его посещения.
