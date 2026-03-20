@@ -33,6 +33,9 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-see-all-masks =
     .label = Zobrazit všechny masky
     .accesskey = m
+firefox-relay-dismiss =
+    .label = Zrušit
+    .accesskey = Z
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Chraňte svou e-mailovou adresu:
 firefox-relay-opt-in-title-2 = Získejte zdarma e-mailovou masku
