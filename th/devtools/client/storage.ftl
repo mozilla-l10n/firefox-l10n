@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = เพิ่มรายการ
+storage-delete-all-button =
+    .title = ลบทั้งหมด
 # Refresh button title
 storage-refresh-button =
     .title = เรียกรายการใหม่
