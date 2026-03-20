@@ -203,3 +203,42 @@ bar-tooltip-cryptominer =
             [one] კრიპტოვალუტის { $count } გამომმუშავებელი ({ $percentage }%)
            *[other] კრიპტოვალუტის { $count } გამომმუშავებელი ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = პირადულობის დაცვა
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } შეიზღუდა ამ კვირაში
+       *[other] { $count } შეიზღუდა ამ კვირაში
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } მეთვალყურე
+       *[other] { $count } მეთვალყურე
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } ამომცნობი
+       *[other] { $count } ამომცნობი
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } მეთვალყურე ფუნთუშა
+       *[other] { $count } მეთვალყურე ფუნთუშა
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } სოცქსელის მეთვალყურე
+       *[other] { $count } სოცქსელის მეთვალყურე
+    }
+privacy-metrics-empty = ამ კვირაში მეთვალყურეები არ შეზღუდულა. { -brand-short-name } გიცავთ მოცემული საფრთხეებისგან გვერდების თვალიერებისას.
+privacy-metrics-loading = იტვირთება დაცვის აღრციხვები…
