@@ -316,6 +316,7 @@ tail-fox-spotlight-secondary-button = Nic nětko
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = Skočće wróćo k zatwarjenej priwatnosći
+welcome-back-spotlight-subtitle = Witajće wróćo k jeničkemu wuznamnemu wobhladowakej, kotryž so přez powšitkownosći wužitnu organizaciju podpěruje. Přewjedźemy přidatne kroki, zo bychmy waše daty škitali, hdźežkuli dundaće.
 welcome-back-embedded-import-title = Importujće swoje daty a čujće so z { -brand-short-name } kaž doma
 
 ## Root Certificate Succession Infobar
