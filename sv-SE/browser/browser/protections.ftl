@@ -203,3 +203,44 @@ bar-tooltip-cryptominer =
             [one] { $count } kryptogrävare ({ $percentage }%)
            *[other] { $count } kryptogrävare ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Integritetsskydd
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blockerad denna vecka
+       *[other] { $count } blockerad denna vecka
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } spårare
+       *[other] { $count } spårare
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } fingeravtrycksspårare
+       *[other] { $count } fingeravtrycksspårare
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } spårningskaka
+       *[other] { $count } spårningskakor
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } social spårare
+       *[other] { $count } sociala spårare
+    }
+privacy-metrics-empty = Inga trackers blockerade denna vecka. { -brand-short-name } skyddar dig från följande hot när du surfar.
+privacy-metrics-loading = Laddar skyddsstatistik…
+privacy-metrics-error = Det gick inte att läsa in skyddsstatistik.
+privacy-metrics-private-window = { -brand-short-name } fortsätter att blockera spårare i privata fönster, men sparar inte vad som blockerades.

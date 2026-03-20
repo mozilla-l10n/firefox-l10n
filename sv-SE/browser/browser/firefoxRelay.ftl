@@ -18,6 +18,20 @@ firefox-relay-must-login-to-account = Logga in på ditt konto för att använda 
 firefox-relay-get-unlimited-masks =
     .label = Hantera alias
     .accesskey = H
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Du har använt alla { $count } gratis e-postalias
+       *[other] Du har använt alla { $count } gratis e-postalias
+    }
+firefox-relay-reuse-masks-description = Du kan återanvända ett befintligt alias, men att använda ett unikt alias för varje webbplats är det säkraste alternativet. <label data-l10n-name="learn-more-url">Uppgradera för obegränsade alias</label>
+firefox-relay-reuse-masks-select-label = Välj ett senaste alias
+firefox-relay-see-all-masks =
+    .label = Se alla alias
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Ignorera
+    .accesskey = I
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Skydda din e-postadress:
 firefox-relay-opt-in-title-2 = Få ett gratis e-postalias

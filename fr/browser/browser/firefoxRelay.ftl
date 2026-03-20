@@ -18,6 +18,20 @@ firefox-relay-must-login-to-account = Connectez-vous à votre compte pour utilis
 firefox-relay-get-unlimited-masks =
     .label = Gérer les alias de messagerie
     .accesskey = G
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Vous avez utilisé les { $count } alias de messagerie gratuits
+       *[other] Vous avez utilisé les { $count } alias de messagerie gratuits
+    }
+firefox-relay-reuse-masks-description = Vous pouvez réutiliser un alias existant, mais utiliser un alias unique pour chaque site web est l’option la plus sûre. <label data-l10n-name="learn-more-url">Mettre à jour un nombre illimité d’alias</label>
+firefox-relay-reuse-masks-select-label = Sélectionnez un alias récent
+firefox-relay-see-all-masks =
+    .label = Voir tous les alias
+    .accesskey = V
+firefox-relay-dismiss =
+    .label = Ignorer
+    .accesskey = I
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protégez votre adresse e-mail :
 firefox-relay-opt-in-title-2 = Obtenez un alias de messagerie gratuit

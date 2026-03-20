@@ -1243,6 +1243,17 @@ panel-save-update-password = Hesło
 # "More" item in macOS share menu
 menu-share-more =
     .label = Wjace…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] { $count } wotkaz kopěrować
+            [two] { $count } wotkazaj kopěrować
+            [few] { $count } wotkazy kopěrować
+           *[other] { $count } wotkazow kopěrować
+        }
+    .accesskey = k
 menu-share-copy-link =
     .label = Wotkaz kopěrować
     .accesskey = r

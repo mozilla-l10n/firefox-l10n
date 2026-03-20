@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Öppna webbplatsen i nytt fönster
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = För att skydda din säkerhet tillåter { $hostname } inte { -brand-short-name } att visa sidan om en annan webbplats har den inbäddad. För att se den här sidan måste du öppna den i ett nytt fönster.
 fp-certerror-view-certificate-link = Visa webbplatsens certifikat
+fp-certerror-return-to-previous-page-recommended-button-2 = Gå tillbaka (rekommenderas)
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Gå tillbaka (rekommenderas)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Programvaran hindrar { -brand-short-name } från säker a
 
 fp-certerror-page-title = Varning: Säkerhetsrisk
 fp-certerror-body-title = Var försiktig. Något ser inte rätt ut.
+fp-certerror-illustration-alt =
+    .alt = Illustration av en räv tittar på en orange varningsskylt.
 fp-certerror-why-site-dangerous = Vad får webbplatsen att se farlig ut?
 fp-certerror-what-can-you-do = Vad kan du göra åt det?
 fp-certerror-advanced-title = Avancerat
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Fortsätt till { $hostname } (riskfullt
 fp-certerror-intro = { -brand-short-name } upptäckte ett potentiellt allvarligt säkerhetsproblem med <strong>{ $hostname }</strong>. Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som kreditkortsinformation, lösenord eller e-postmeddelanden.
 fp-certerror-expired-into = { -brand-short-name } upptäckte ett säkerhetsproblem med <strong>{ $hostname }</strong>. Antingen är webbplatsen inte rätt inställd eller så är din enhets klocka inställd på fel datum/tid.
 fp-certerror-transparency-intro = Någon som låtsas vara <strong>{ $hostname }</strong> kan försöka stjäla saker som kreditkortsinformation, lösenord eller e-post.
+fp-certerror-override-exception-button-2 = Fortsätt till { $hostname } (riskfullt)
+    .accesskey = F

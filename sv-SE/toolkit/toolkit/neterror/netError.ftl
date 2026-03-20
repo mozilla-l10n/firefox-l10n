@@ -25,6 +25,8 @@ neterror-override-exception-button = Acceptera risken och fortsätt
 neterror-pref-reset-button = Återställ standardinställningar
 neterror-return-to-previous-page-button = Gå tillbaka
 neterror-return-to-previous-page-recommended-button = Gå tillbaka (rekommenderas)
+neterror-try-again-button-2 = Försök igen
+    .accesskey = F
 neterror-try-again-button = Försök igen
 neterror-add-exception-button = Fortsätt alltid för den här webbplatsen
 neterror-settings-button = Ändra DNS-inställningar
@@ -176,12 +178,15 @@ neterror-response-status-code = Felkod: { $responsestatus } { $responsestatustex
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Det verkar finnas ett problem med din internetanslutning
+fp-neterror-illustration-alt =
+    .alt = Illustration av en räv som tittar på frånkopplade nätverkskablar.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan inte skapa en säker anslutning till servern på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan inte ansluta till servern på <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Servern på <strong>{ $hostname }</strong> tar för lång tid att svara.
 fp-neterror-coop-coep-intro = { -brand-short-name } laddade inte den här sidan eftersom det ser ut som att säkerhetskonfigurationen inte matchar föregående sida.
 fp-neterror-http-auth-disabled-intro = Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som ditt användarnamn, lösenord eller e-postadress.
 fp-neterror-http-auth-disabled-secure-connection = Den här webbplatsen kräver en säker anslutning, och du kan inte lägga till ett undantag för att besöka den.

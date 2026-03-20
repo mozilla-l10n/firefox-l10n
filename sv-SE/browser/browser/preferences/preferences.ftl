@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blockera popup-fönster och omdirigeringar från tredje part
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Hantera undantag
+    .description = Lägg till webbplatser som kan öppna popup-fönster och använda omdirigeringar från tredje part.
+    .accesskey = H
+    .searchkeywords = popup-fönster
 permissions-addon-install-warning3 =
     .label = Visa varning när webbplatser försöker installera tillägg
     .accesskey = V
