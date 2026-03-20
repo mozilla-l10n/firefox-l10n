@@ -79,5 +79,5 @@ experimental-features-semantic-history-search =
 experimental-features-semantic-history-search-description = Use un modelo local de Machine Learning para sugerir entradas del historial que estén relacionadas con las búsquedas según la comprensión del lenguaje natural en la barra de direcciones de { -brand-product-name }. <a data-l10n-name="connect">Compartir opinión</a>
 # Tab Notes
 experimental-features-tab-notes =
-    .label = NNotas de pestañas
+    .label = Notas de pestañas
 experimental-features-tab-notes-description = Las notas de pestañas son una función experimental que permite agregar notas rápidas a las pestañas del navegador. Se puede anotar el contexto, los recordatorios o los próximos pasos para poder volver y recordar por qué se abrió. Nos encantaría recibir una opinión mientras seguimos mejorando esta función. <a data-l10n-name="connect">Compartir opinión</a>
