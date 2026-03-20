@@ -304,6 +304,10 @@ tail-fox-spotlight-subtitle = 귀찮은 광고 추적기와 작별하고 더 안
 tail-fox-spotlight-primary-button = { -brand-short-name }로 내 링크 열기
 tail-fox-spotlight-secondary-button = 나중에
 
+## Welcome Back Spotlight and Import
+
+welcome-back-embedded-import-title = 데이터를 가져오고 { -brand-short-name }를 나만의 것으로 만드세요.
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>구 버전의 { -brand-short-name }는 2025년 1월 14일에 문제가 생기기 시작할 수 있습니다.</strong>

@@ -18,6 +18,12 @@ firefox-relay-must-login-to-account = შედით ანგარიშზ�
 firefox-relay-get-unlimited-masks =
     .label = ნიღბების მართვა
     .accesskey = მ
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] უკვე გამოყენებულია ყველა, ანუ { $count } ელფოსტის უფასო ნიღაბი
+       *[other] უკვე გამოყენებულია ყველა, ანუ { $count } ელფოსტის უფასო ნიღაბი
+    }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = დაიცავით საკუთარი ელფოსტის მისამართი:
 firefox-relay-opt-in-title-2 = მიიღეთ უფასო ნიღაბი

@@ -242,3 +242,5 @@ privacy-metrics-social =
     }
 privacy-metrics-empty = ამ კვირაში მეთვალყურეები არ შეზღუდულა. { -brand-short-name } გიცავთ მოცემული საფრთხეებისგან გვერდების თვალიერებისას.
 privacy-metrics-loading = იტვირთება დაცვის აღრციხვები…
+privacy-metrics-error = დაცვის აღრიცხვები ვერ ჩაიტვირთა.
+privacy-metrics-private-window = { -brand-short-name } არ წყვეტს მეთვალყურეების შეზღუდვას პირად ჩანართებში, მაგრამ არ აღრიცხავს, რას შეზღუდავს.
