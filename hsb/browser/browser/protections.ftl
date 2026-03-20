@@ -233,3 +233,14 @@ bar-tooltip-cryptominer =
             [few] { $count } kryptokopaki ({ $percentage } %)
            *[other] { $count } kryptokopakow ({ $percentage } %)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Škit priwatnosće
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } je so tutón tydźeń zablokował
+        [two] { $count } stej so tutón tydźeń zablokowałoj
+        [few] { $count } su so tutón tydźeń zablokowali
+       *[other] { $count } je so tutón tydźeń zablokowało
+    }

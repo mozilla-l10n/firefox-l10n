@@ -18,6 +18,21 @@ firefox-relay-must-login-to-account = Přizjewće so pola swojeho konta, zo byš
 firefox-relay-get-unlimited-masks =
     .label = Maski rjadować
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Sće { $count }  darmotnu e-mejlowu masku wužił
+        [two] Sće { $count } darmotnej e-mejlowej masce wužił
+        [few] Sće wšě { $count }  darmotne e-mejlowe maski wužił
+       *[other] Sće wšě { $count }  darmotnych e-mejlowych maskow wužił
+    }
+firefox-relay-reuse-masks-select-label = Wubjerće nowu masku
+firefox-relay-see-all-masks =
+    .label = Hlejće wšě maski
+    .accesskey = H
+firefox-relay-dismiss =
+    .label = Zaćisnyć
+    .accesskey = Z
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Škitajće swoju e-mejlowu adresu:
 firefox-relay-opt-in-title-2 = Wobstarajće sej darmotnu e-mejlowu masku
