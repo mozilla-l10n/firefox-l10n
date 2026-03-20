@@ -1986,6 +1986,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = 팝업 및 제3자 리디렉션 차단
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = 예외 관리
+    .description = 팝업을 열고 제3자 리디렉션을 사용할 수 있는 웹 사이트를 추가하세요.
+    .accesskey = E
+    .searchkeywords = 팝업
 permissions-addon-install-warning3 =
     .label = 웹 사이트가 확장 기능을 설치하려고 할 때 경고 표시
     .accesskey = W

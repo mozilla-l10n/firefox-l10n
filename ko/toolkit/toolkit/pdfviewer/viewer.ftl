@@ -652,8 +652,12 @@ pdfjs-views-manager-view-selector-button =
     .title = 보기
 pdfjs-views-manager-view-selector-button-label = 보기
 pdfjs-views-manager-pages-title = 페이지
+pdfjs-views-manager-outlines-title1 = 문서 아웃라인
+    .title = 문서 아웃라인 (더블 클릭해서 모든 항목 펼치기/접기)
 pdfjs-views-manager-outlines-title = 문서 아웃라인
 pdfjs-views-manager-attachments-title = 첨부파일
+pdfjs-views-manager-layers-title1 = 레이어
+    .title = 레이어 (더블 클릭해서 모든 레이어를 기본 상태로 재설정)
 pdfjs-views-manager-layers-title = 레이어
 pdfjs-views-manager-pages-option-label = 페이지
 pdfjs-views-manager-outlines-option-label = 문서 아웃라인
@@ -670,6 +674,7 @@ pdfjs-views-manager-pages-status-action-button-label = 관리
 pdfjs-views-manager-pages-status-copy-button-label = 복사
 pdfjs-views-manager-pages-status-cut-button-label = 잘라내기
 pdfjs-views-manager-pages-status-delete-button-label = 삭제
+pdfjs-views-manager-pages-status-export-selected-button-label = 선택한 항목 내보내기…
 pdfjs-views-manager-pages-status-save-as-button-label = 다른 이름으로 저장…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -698,6 +703,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = { $page } 페이지 뒤에 붙여넣기
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = 신규
 pdfjs-toggle-views-manager-button1 =
     .title = 페이지 관리
 

@@ -18,6 +18,21 @@ firefox-relay-must-login-to-account = Войдите в свой аккаунт,
 firefox-relay-get-unlimited-masks =
     .label = Управление псевдонимами
     .accesskey = п
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Вы использовали { $count } бесплатный псевдоним электронной почты
+        [few] Вы использовали все { $count } бесплатных псевдонима электронной почты
+       *[many] Вы использовали все { $count } бесплатных псевдонимов электронной почты
+    }
+firefox-relay-reuse-masks-description = Вы можете использовать существующий псевдоним, но использование уникального псевдонима для каждого веб-сайта является наиболее безопасным вариантом. <label data-l10n-name="learn-more-url">Произведите апгрейд для получения неограниченного количества псевдонимов</label>
+firefox-relay-reuse-masks-select-label = Выберите недавний псевдоним
+firefox-relay-see-all-masks =
+    .label = Показать все псевдонимы
+    .accesskey = Ы
+firefox-relay-dismiss =
+    .label = Убрать
+    .accesskey = В
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Защитите свой адрес электронной почты:
 firefox-relay-opt-in-title-2 = Получите бесплатный псевдоним электронной почты

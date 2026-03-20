@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Открыть сайт в новом 
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Для обеспечения вашей безопасности { $hostname } не разрешил { -brand-short-name } отобразить страницу, так как она встроена в другой сайт. Чтобы увидеть эту страницу, вам нужно открыть её в новом окне.
 fp-certerror-view-certificate-link = Просмотреть сертификат сайта
+fp-certerror-return-to-previous-page-recommended-button-2 = Вернуться назад (рекомендуется)
+    .accesskey = П
 fp-certerror-return-to-previous-page-recommended-button = Вернуться назад (рекомендуется)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Программное обеспечение не даё
 
 fp-certerror-page-title = Предупреждение: Риск безопасности
 fp-certerror-body-title = Будьте осторожны. Что-то выглядит не так.
+fp-certerror-illustration-alt =
+    .alt = Иллюстрация с лисой, смотрящей на оранжевый предупреждающий знак.
 fp-certerror-why-site-dangerous = Что делает сайт опасным?
 fp-certerror-what-can-you-do = Как вы можете это исправить?
 fp-certerror-advanced-title = Дополнительно

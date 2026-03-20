@@ -25,6 +25,8 @@ neterror-override-exception-button = საფრთხის გაცნობ
 neterror-pref-reset-button = ნაგულისხმევი პარამეტრების აღდგენა
 neterror-return-to-previous-page-button = უკან დაბრუნება
 neterror-return-to-previous-page-recommended-button = უკან დაბრუნება (სასურველია)
+neterror-try-again-button-2 = ხელახლა ცდა
+    .accesskey = ც
 neterror-try-again-button = სცადეთ ხელახლა
 neterror-add-exception-button = ყოველთვის განაგრძობს ამ საიტზე
 neterror-settings-button = DNS-პარამეტრების შეცვლა
@@ -176,12 +178,15 @@ neterror-response-status-code = შეცდომის კოდი: { $respon
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = რაღაც ხარვეზია ქსელთან კავშირისას
+fp-neterror-illustration-alt =
+    .alt = მელას გამოსახულება, რომელიც ქსელის გამოთიშულ სადენებს უცქერს.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ვერ ამყარებს დაცულ კავშირს სერვერთან { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ვერ უკავშირდება სერვერს მისამართზე <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = მომსახურე მისამართით <strong>{ $hostname }</strong> დიდ დროს ანდომებს პასუხს.
 fp-neterror-coop-coep-intro = { -brand-short-name } არ ჩატვირთავს ამ გვერდს, ვინაიდან ჩანს, უსაფრთხოება გამართვა არ ემთხვევა წინა გვერდისას.
 fp-neterror-http-auth-disabled-intro = ვიღაც მოჩვენებითი საიტით შეიძლება ცდილობდეს თქვენი მონაცემების მოპარვას, როგორიცაა მომხმარებლის სახელი, პაროლი ან ელფოსტა.
 fp-neterror-http-auth-disabled-secure-connection = ეს საიტი დაცულ კავშირს საჭიროებს და გამონაკლისად ვერ მიუთითებთ, რომ მოინახულოთ.

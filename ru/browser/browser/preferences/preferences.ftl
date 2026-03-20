@@ -2006,6 +2006,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блокировать всплывающие окна и сторонние перенаправления
     .accesskey = И
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Управление исключениями
+    .description = Добавьте веб-сайты, которые могут открывать всплывающие окна и использовать сторонние переадресации.
+    .accesskey = У
+    .searchkeywords = всплывающие окна
 permissions-addon-install-warning3 =
     .label = Показывать предупреждение при попытке веб-сайтов установить расширения
     .accesskey = Ц

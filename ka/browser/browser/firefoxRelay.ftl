@@ -24,6 +24,14 @@ firefox-relay-reuse-masks-header =
         [one] უკვე გამოყენებულია ყველა, ანუ { $count } ელფოსტის უფასო ნიღაბი
        *[other] უკვე გამოყენებულია ყველა, ანუ { $count } ელფოსტის უფასო ნიღაბი
     }
+firefox-relay-reuse-masks-description = შეგიძლიათ კვლავ გამოიყენოთ არსებული ნიღაბი, მაგრამ განსხვავებული ნიღბის გამოყენება თითოეული ვებსაიტისთვის დაცვის საუკეთესო გზაა. <label data-l10n-name="learn-more-url">გადადით შეუზღუდავ ნიღბებზე</label>
+firefox-relay-reuse-masks-select-label = აირჩეს უახლესი ნიღაბი
+firefox-relay-see-all-masks =
+    .label = იხილეთ ყველ ნიღაბი
+    .accesskey = ყ
+firefox-relay-dismiss =
+    .label = აცილება
+    .accesskey = ც
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = დაიცავით საკუთარი ელფოსტის მისამართი:
 firefox-relay-opt-in-title-2 = მიიღეთ უფასო ნიღაბი

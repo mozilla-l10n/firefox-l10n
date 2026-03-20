@@ -219,3 +219,49 @@ bar-tooltip-cryptominer =
             [few] { $count } криптомайнера ({ $percentage }%)
            *[many] { $count } криптомайнеров ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Защита приватности
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } заблокирован на этой неделе
+        [few] { $count } заблокировано на этой неделе
+       *[many] { $count } заблокировано на этой неделе
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } трекер
+        [few] { $count } трекера
+       *[many] { $count } трекеров
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } сборщик цифровых отпечатков
+        [few] { $count } сборщика цифровых отпечатков
+       *[many] { $count } сборщиков цифровых отпечатков
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } отслеживающий куки
+        [few] { $count } отслеживающих кука
+       *[many] { $count } отслеживающих куков
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } социальный трекер
+        [few] { $count } социальных трекера
+       *[many] { $count } социальных трекеров
+    }
+privacy-metrics-empty = На этой неделе трекеры не блокировались. { -brand-short-name } защищает вас во время интернет-сёрфинга от следующих угроз.
+privacy-metrics-loading = Загрузка статистики защиты…
+privacy-metrics-error = Не удалось загрузить статистику защиты.
+privacy-metrics-private-window = { -brand-short-name } продолжает блокировать трекеры во время работы в приватном режиме, но не ведёт запись того, что было заблокировано.

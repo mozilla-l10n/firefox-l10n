@@ -188,3 +188,24 @@ bar-tooltip-cryptominer =
         { $count ->
            *[other] { $count } 암호화폐 채굴기 ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = 개인 정보 보호
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week = 이번 주 { $count }개 차단됨
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers = 추적기 { $count }개
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters = 디지털 지문 { $count }개
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies = 추적 쿠키 { $count }개
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social = 소셜 추적기 { $count }개
+privacy-metrics-empty = 이번 주는 차단된 추적기가 없습니다. { -brand-short-name }는 탐색할 때 다음 위협으로부터 보호합니다.
+privacy-metrics-loading = 보호 통계 로드 중…
+privacy-metrics-error = 보호 통계를 로드할 수 없습니다.
+privacy-metrics-private-window = { -brand-short-name }는 사생활 보호 창에서 추적기를 계속 차단하지만, 차단 된 내용은 기록하지 않습니다.

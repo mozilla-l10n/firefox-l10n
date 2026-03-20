@@ -690,12 +690,12 @@ pdfjs-views-manager-add-file-button-label = Přidat soubor
 #   $count (Number) - the number of selected pages.
 pdfjs-views-manager-pages-status-action-label =
     { $count ->
-        [one] { $count } vybrán
+        [one] { $count } vybrána
         [few] { $count } vybrány
         [many] { $count } vybráno
        *[other] { $count } vybráno
     }
-pdfjs-views-manager-pages-status-none-action-label = Vyberte stránky
+pdfjs-views-manager-pages-status-none-action-label = Výběr stránek
 pdfjs-views-manager-pages-status-action-button-label = Správa
 pdfjs-views-manager-pages-status-copy-button-label = Kopírovat
 pdfjs-views-manager-pages-status-cut-button-label = Vyjmout

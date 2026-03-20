@@ -310,6 +310,12 @@ tail-fox-spotlight-subtitle = Попрощайтесь с надоедливым
 tail-fox-spotlight-primary-button = Открывать мои ссылки с помощью { -brand-short-name }
 tail-fox-spotlight-secondary-button = Не сейчас
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Вернитесь к встроенной приватности
+welcome-back-spotlight-subtitle = С возвращением в единственный крупный браузер, поддерживаемый некоммерческой организацией. Мы предпринимаем дополнительные шаги для защиты ваших данных, где бы вы ни находились.
+welcome-back-embedded-import-title = Импортируйте свои данные и почувствуйте себя с { -brand-short-name } как дома
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>14 января 2025 г. в более старых версиях { -brand-short-name } могут начаться проблемы.</strong>
