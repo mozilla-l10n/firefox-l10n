@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Sydło w nowym woknje wočinić
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Zo byšće swoju wěstotu škitał, { $hostname } { -brand-short-name } njedowoli, stronu pokazać, jeli je zasadźeny w druhim sydle. Zo byšće tutu stronu widźał, dyrbiće ju w nowym woknje wočinić.
 fp-certerror-view-certificate-link = Certifikat sydła pokazać
+fp-certerror-return-to-previous-page-recommended-button-2 = Wróćo (doporučeny)
+    .accesskey = W
 fp-certerror-return-to-previous-page-recommended-button = Wróćo (doporučeny)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -222,3 +224,5 @@ fp-certerror-override-exception-button = Dale k { $hostname } (riskantny)
 fp-certerror-intro = { -brand-short-name } potencielnje ćežki wěstotny problem z <strong>{ $hostname }</strong> wotkry. Něchtó, kotryž twjerdźi, zo tute sydło wěcy kaž informacije kreditnych kartow, hesła abo e-mejlowe adresy kradnje.
 fp-certerror-expired-into = { -brand-short-name } potencielnje ćežki wěstotny problem z <strong>{ $hostname }</strong> wotkry. Pak sydło korektnje konfigurowane njeje pak časnik wašeho grata je na wopačny datum/čas stajeny.
 fp-certerror-transparency-intro = Něchtó, kotryž wudawa, zo je <strong>{ $hostname }</strong>, móhł wěcy kaž informacije kreditneje karty, hesła abo e-mejlowe adresy kradnyć.
+fp-certerror-override-exception-button-2 = Dale k { $hostname } (riskantny)
+    .accesskey = D

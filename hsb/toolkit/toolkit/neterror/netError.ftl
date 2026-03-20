@@ -25,6 +25,8 @@ neterror-override-exception-button = Riziko akceptować a pokročować
 neterror-pref-reset-button = Standardne nastajenja wobnowić
 neterror-return-to-previous-page-button = Wróćo hić
 neterror-return-to-previous-page-recommended-button = Wróćo (doporučeny)
+neterror-try-again-button-2 = Hišće raz spytać
+    .accesskey = H
 neterror-try-again-button = Hišće raz spytać
 neterror-add-exception-button = Za tute sydło přeco pokročować
 neterror-settings-button = DNS-nastajenja změnić
@@ -182,6 +184,7 @@ fp-neterror-offline-body-title = Zda so, zo je problem z wašim internetnym zwis
 
 fp-neterror-connection-intro = { -brand-short-name } njemóže wěsty zwisk z serwerom na { $hostname } nawjazać.
 fp-neterror-offline-intro = { -brand-short-name } njemóže ze serwerom <strong>{ $hostname }</strong> zwjazać
+fp-neterror-net-timeout-intro = Serwer na <strong>{ $hostname }{ $hostname }</strong> předołho trjeba, zo by wotmołwił.
 fp-neterror-coop-coep-intro = { -brand-short-name } njeje tutu stronu začitał, dokelž so zda, jako njeby wěstotna konfiguracija z předchadnej stronu wotpowědował.
 fp-neterror-http-auth-disabled-intro = Něchtó, kotryž wudawa, zo je sydło, móhł wěcy kaž waše wužiwarske mjeno, hesło abo e-mejlowu adresu kradnyć.
 fp-neterror-http-auth-disabled-secure-connection = Tute sydło sej wěsty zwisk wužaduje, a njemóžeće wuwzaće přidać, zo byšće jo wopytał.

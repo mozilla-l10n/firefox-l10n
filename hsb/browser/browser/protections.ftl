@@ -244,3 +244,43 @@ privacy-metrics-blocked-this-week =
         [few] { $count } su so tutón tydźeń zablokowali
        *[other] { $count } je so tutón tydźeń zablokowało
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } přesćěhowak
+        [two] { $count } přesćěhowakaj
+        [few] { $count } přesćěhowaki
+       *[other] { $count } přesćěhowakow
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } hromadźak porstowych wotćišćow
+        [two] { $count } hromadźakaj porstowych wotćišćow
+        [few] { $count } hromadźaki porstowych wotćišćow
+       *[other] { $count } hromadźakow porstowych wotćišćow
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } přesćěhowacy plack
+        [two] { $count } přesćěhowacej plackaj
+        [few] { $count } přesćěhowace placki
+       *[other] { $count } přesćěhowacych plackow
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } socialny přesćěhowak
+        [two] { $count } socialnej přesćěhowakaj
+        [few] { $count } socialne přesćěhowaki
+       *[other] { $count } socialnych přesćěhowakow
+    }
+privacy-metrics-empty = Přesćěhowaki njejsu so tutón tydźeń zablokowali. { -brand-short-name } was před slědowacymi wohroženjemi škita, hdyž přehladujeće.
+privacy-metrics-loading = Škitne statistiske daty so začitaja…
+privacy-metrics-error = Njeje móžno, škitne statistiske daty začitać.
+privacy-metrics-private-window = { -brand-short-name } přesćěhowaki w priwatnych woknach dale blokuje, ale njezapřijima, što je so zablokowało.
