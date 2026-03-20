@@ -186,6 +186,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } non è in grado di creare una connessione sicura al server per { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } non riesce a connettersi al server <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Il server <strong>{ $hostname }</strong> sta impiegando troppo tempo per rispondere.
 fp-neterror-coop-coep-intro = { -brand-short-name } non ha caricato questa pagina in quanto sembra che la configurazione di sicurezza non corrisponda alla pagina precedente.
 fp-neterror-http-auth-disabled-intro = Un soggetto che finge di essere il sito potrebbe cercare di rubare dettagli come nome utente, password o indirizzo email.
 fp-neterror-http-auth-disabled-secure-connection = Questo sito richiede una connessione sicura e non è possibile aggiungere un’eccezione per visitarlo.
