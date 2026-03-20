@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = En yakın: { $colorName }
 colorpicker-tooltip-hue-slider-title = Renk tonu
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Saydamlık
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Elemana özgü sözde sınıflar
