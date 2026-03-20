@@ -202,3 +202,5 @@ bar-tooltip-cryptominer =
             [one] { $count } kryptominar ({ $percentage }%)
            *[other] { $count } Kryptoutvinnarar ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Personvernsikring
