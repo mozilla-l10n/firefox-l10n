@@ -313,6 +313,10 @@ tail-fox-spotlight-subtitle = Rozžohnujće z wobćežnymi wabjenskimi přesćě
 tail-fox-spotlight-primary-button = Moje wotkazy z { -brand-short-name } wočinić
 tail-fox-spotlight-secondary-button = Nic nětko
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Skočće wróćo k zatwarjenej priwatnosći
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Starše wersije { -brand-short-name } móža snano wot 14. januara 2025 problemy měć.</strong>
