@@ -30,6 +30,9 @@ firefox-relay-must-login-to-account = Pokud chcete používat své e-mailové ma
 firefox-relay-get-unlimited-masks =
     .label = Spravovat masky
     .accesskey = m
+firefox-relay-see-all-masks =
+    .label = Zobrazit všechny masky
+    .accesskey = m
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Chraňte svou e-mailovou adresu:
 firefox-relay-opt-in-title-2 = Získejte zdarma e-mailovou masku
