@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = บ
 non-technical-privacy-group =
     .label = ค่าปรับแต่งความเป็นส่วนตัวของเว็บ
+do-not-track-removal3 =
+    .message = เราไม่รองรับคุณลักษณะ “Do Not Track” อีกต่อไป
+non-technical-privacy-heading =
+    .label = การป้องกันเพิ่มเติม
 non-technical-privacy-header = ค่าปรับแต่งความเป็นส่วนตัวของเว็บ
 non-technical-privacy-label =
     .aria-label = { non-technical-privacy-header }
@@ -512,9 +516,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = ใช้การตั้งค่าระบบปฏิบัติการสำหรับ “{ $localeName }” ของคุณในการกำหนดรูปแบบวันที่ เวลา ตัวเลข และการวัดค่า
+settings-spellcheck-header =
+    .label = ตรวจสอบการสะกด
 check-user-spelling =
     .label = ตรวจสอบการสะกดคำของคุณเมื่อคุณพิมพ์
     .accesskey = จ
+spellcheck-download-dictionaries =
+    .label = ดาวน์โหลดพจนานุกรม
 
 ## General Section - Files and Applications
 
@@ -554,9 +562,11 @@ applications-filter =
 applications-type-column =
     .label = ชนิดเนื้อหา
     .accesskey = ช
+applications-type-heading = ชนิดเนื้อหา
 applications-action-column =
     .label = การกระทำ
     .accesskey = ก
+applications-action-heading = การกระทำ
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = ไฟล์ { $extension }
