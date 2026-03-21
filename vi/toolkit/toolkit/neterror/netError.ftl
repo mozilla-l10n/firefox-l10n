@@ -25,6 +25,8 @@ neterror-override-exception-button = Chấp nhận rủi ro và tiếp tục
 neterror-pref-reset-button = Khôi phục cài đặt mặc định
 neterror-return-to-previous-page-button = Quay lại
 neterror-return-to-previous-page-recommended-button = Quay lại (Khuyến nghị)
+neterror-try-again-button-2 = Thử lại
+    .accesskey = T
 neterror-try-again-button = Thử lại
 neterror-add-exception-button = Luôn luôn tiếp tục cho trang web này
 neterror-settings-button = Thay đổi cài đặt DNS
@@ -176,12 +178,15 @@ neterror-response-status-code = Mã lỗi: { $responsestatus } { $responsestatus
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Có vẻ như đã xảy ra sự cố với kết nối Internet của bạn
+fp-neterror-illustration-alt =
+    .alt = Hình minh họa một con cáo đang quan sát các dây cáp mạng bị ngắt kết nối.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } không thể tạo kết nối an toàn tới máy chủ tại { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } không thể kết nối đến máy chủ tại <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Máy chủ tại <strong>{ $hostname }</strong> mất quá nhiều thời gian để phản hồi.
 fp-neterror-coop-coep-intro = { -brand-short-name } không tải trang này vì có vẻ như cấu hình bảo mật không khớp với trang trước.
 fp-neterror-http-auth-disabled-intro = Ai đó giả vờ là trang web có thể cố gắng đánh cắp những thứ như tên người dùng, mật khẩu hoặc email của bạn.
 fp-neterror-http-auth-disabled-secure-connection = Trang web này yêu cầu kết nối bảo mật và bạn không thể thêm ngoại lệ để truy cập.

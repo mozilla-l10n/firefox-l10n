@@ -188,3 +188,24 @@ bar-tooltip-cryptominer =
         { $count ->
            *[other] { $count } trình đào tiền điện tử ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Bảo vệ quyền riêng tư
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week = { $count } đã bị chặn trong tuần này
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers = { $count } trình theo dõi
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters = { $count } dấu vết
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies = { $count } trình theo dõi dạng cookie
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social = { $count } trình theo dõi mạng xã hội
+privacy-metrics-empty = Không có trình theo dõi nào bị chặn trong tuần này. { -brand-short-name } bảo vệ bạn khỏi các mối đe dọa khi bạn duyệt web.
+privacy-metrics-loading = Đang tải thống kê bảo vệ…
+privacy-metrics-error = Không thể tải số liệu thống kê bảo vệ.
+privacy-metrics-private-window = { -brand-short-name } tiếp tục chặn các trình theo dõi trong cửa sổ riêng tư, nhưng không lưu lại thông tin về những trình theo dõi nào bị chặn.
