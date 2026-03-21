@@ -47,6 +47,7 @@ callout-pdfjs-draw-button = Comprés !
 ## Firefox View Discoverability Strings
 
 fx-view-discoverability-title = Voliatz pas tampar aqueste onglet ?
+fx-view-discoverability-subtitle = Retrobatz-lo e dobrissètz-lo de nòu aquí. Servam un istoric dels onglets qu’avètz recentament tampats.
 fx-view-discoverability-primary-button-label = Dobrir { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = Ignorar
 
