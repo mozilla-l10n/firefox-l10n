@@ -53,9 +53,20 @@ fx-view-discoverability-secondary-button-label = Ignorar
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = Me mostrar pas aquela recomandacion de nòu
+# Dismisses message and reduces frequency of message
+split-dismiss-button-show-fewer-option =
+    .label = Mostrar mens de recomandacions
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = Gerir los paramètres
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = Mostrar mens de recomandacions
 
 ## Sidebar Vertical Tabs Strings
 
