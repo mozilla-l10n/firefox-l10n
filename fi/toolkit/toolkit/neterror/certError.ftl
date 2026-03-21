@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Avaa sivusto uuteen ikkunaan
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Turvallisuutesi suojaamiseksi { $hostname } ei salli, että { -brand-short-name } näyttää sivun, jos se on upotettu toiselle sivulle. Jotta voit nähdä tämän sivun, sinun tulee avata se uudessa ikkunassa.
 fp-certerror-view-certificate-link = Näytä sivuston varmenne
+fp-certerror-return-to-previous-page-recommended-button-2 = Palaa takaisin (suositus)
+    .accesskey = P
 fp-certerror-return-to-previous-page-recommended-button = Palaa (suositellaan)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Ohjelmisto estää { -brand-short-name }ia yhdistämäst�
 
 fp-certerror-page-title = Varoitus: Tietoturvariski
 fp-certerror-body-title = Ole varovainen. Jokin ei vaikuta olevan oikein.
+fp-certerror-illustration-alt =
+    .alt = Kuva ketusta, joka katsoo oranssia varoituskylttiä.
 fp-certerror-why-site-dangerous = Mikä saa sivuston vaikuttamaan vaaralliselta?
 fp-certerror-what-can-you-do = Mitä voin tehdä asialle?
 fp-certerror-advanced-title = Lisäasetukset
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Jatka sivustolle { $hostname } (riskial
 fp-certerror-intro = { -brand-short-name } havaitsi mahdollisesti vakavan tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Sivustona esiintyvä taho voi yrittää varastaa esimerkiksi luottokorttitietoja, salasanoja tai sähköposteja.
 fp-certerror-expired-into = { -brand-short-name } havaitsi tietoturvaongelman sivustossa <strong>{ $hostname }</strong>. Joko sivustoa ei ole määritetty oikein tai laitteesi kello on asetettu väärään päivämäärään/aikaan.
 fp-certerror-transparency-intro = Joku, joka tekeytyy sivustoksi <strong>{ $hostname }</strong>, voi yrittää varastaa esimerkiksi luottokorttitietosi, salasanasi tai sähköpostisi.
+fp-certerror-override-exception-button-2 = Jatka sivustolle { $hostname } (riskialtista)
+    .accesskey = J

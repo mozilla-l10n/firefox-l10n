@@ -2006,6 +2006,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Estä ponnahdusikkunat ja kolmannen osapuolen uudelleenohjaukset
     .accesskey = ä
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Hallitse poikkeuksia
+    .description = Lisää verkkosivustoja, jotka voivat avata ponnahdusikkunoita ja käyttää kolmannen osapuolen uudelleenohjauksia.
+    .accesskey = e
+    .searchkeywords = ponnahdukset
 permissions-addon-install-warning3 =
     .label = Näytä varoitus, kun verkkosivustot yrittävät asentaa laajennuksia
     .accesskey = v

@@ -1227,6 +1227,15 @@ panel-save-update-password = Salasana
 # "More" item in macOS share menu
 menu-share-more =
     .label = Lisää…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Kopioi linkki
+           *[other] Kopioi { $count } linkkiä
+        }
+    .accesskey = l
 menu-share-copy-link =
     .label = Kopioi linkki
     .accesskey = l

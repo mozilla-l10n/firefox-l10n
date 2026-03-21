@@ -18,6 +18,12 @@ firefox-relay-must-login-to-account = Kirjaudu sisään tiliisi käyttääksesi 
 firefox-relay-get-unlimited-masks =
     .label = Hallitse maskeja
     .accesskey = m
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Olet käyttänyt { $count } ilmaisen sähköpostimaskin
+       *[other] Olet käyttänyt kaikki { $count } ilmaista sähköpostimaskia
+    }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Suojaa sähköpostiosoitteesi:
 firefox-relay-opt-in-title-2 = Hanki ilmainen sähköpostimaski

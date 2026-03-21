@@ -202,3 +202,44 @@ bar-tooltip-cryptominer =
             [one] { $count } kryptolouhija ({ $percentage } %)
            *[other] { $count } kryptolouhijaa ({ $percentage } %)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Yksityisyyden suojaukset
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } estetty tällä viikolla
+       *[other] { $count } estetty tällä viikolla
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } seurain
+       *[other] { $count } seurainta
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } yksilöijä
+       *[other] { $count } yksilöijää
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } seurantaeväste
+       *[other] { $count } seurantaevästettä
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sosiaalisen median seurain
+       *[other] { $count } sosiaalisen median seurainta
+    }
+privacy-metrics-empty = Ei estettyjä seuraimia tällä viikolla. { -brand-short-name } suojaa sinua seuraavilta uhilta selatessasi.
+privacy-metrics-loading = Ladataan suojaustilastoja…
+privacy-metrics-error = Suojaustilastojen lataaminen epäonnistui.
+privacy-metrics-private-window = { -brand-short-name } jatkaa seuraimien estämistä yksityisissä ikkunoissa, mutta ei pidä kirjaa siitä, mitä on estetty.
