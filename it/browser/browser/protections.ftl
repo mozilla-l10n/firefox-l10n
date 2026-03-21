@@ -232,4 +232,3 @@ privacy-metrics-empty = Nessun elemento tracciante bloccato questa settimana. { 
 privacy-metrics-loading = Caricamento delle statistiche sulla protezione…
 privacy-metrics-error = Impossibile caricare le statistiche sulla protezione.
 privacy-metrics-private-window = { -brand-short-name } continua a bloccare gli elementi traccianti in navigazione anonima, ma non tiene traccia di ciò che è stato bloccato.
-

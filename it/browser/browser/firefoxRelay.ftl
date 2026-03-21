@@ -24,6 +24,9 @@ firefox-relay-reuse-masks-header =
         [one] Hai utilizzato l’alias di posta elettronica gratuito
        *[other] Hai utilizzato tutti i { $count } alias di posta elettronica gratuiti
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Puoi riutilizzarne uno oppure visualizzare tutti gli alias per sceglierne un altro.
 firefox-relay-reuse-masks-select-label = Seleziona un alias recente
 firefox-relay-see-all-masks =
     .label = Visualizza tutti gli alias

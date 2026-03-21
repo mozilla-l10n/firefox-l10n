@@ -228,4 +228,3 @@ fp-certerror-expired-into = { -brand-short-name } ha rilevato un problema di sic
 fp-certerror-transparency-intro = Un soggetto che finge di essere <strong>{ $hostname }</strong> potrebbe cercare di rubare dettagli come informazioni sulle carte di credito, password o email.
 fp-certerror-override-exception-button-2 = Procedi su { $hostname } (rischioso)
     .accesskey = P
-
