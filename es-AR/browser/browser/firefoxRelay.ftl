@@ -18,6 +18,14 @@ firefox-relay-must-login-to-account = Inicie sesión en su cuenta para usar sus 
 firefox-relay-get-unlimited-masks =
     .label = Administrar alias
     .accesskey = m
+firefox-relay-reuse-masks-description = Se puede reutilizar una máscara existente, pero usar una máscara única para cada sitio web es la opción más segura. <label data-l10n-name="learn-more-url">Actualizar para máscaras ilimitadas</label>
+firefox-relay-reuse-masks-select-label = Seleccionar una máscara reciente
+firefox-relay-see-all-masks =
+    .label = Ver todas las máscaras
+    .accesskey = s
+firefox-relay-dismiss =
+    .label = Descartar
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Proteger dirección de correo electrónico:
 firefox-relay-opt-in-title-2 = Consiga una máscara de correo electrónico gratuita
