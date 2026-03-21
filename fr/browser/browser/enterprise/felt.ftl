@@ -14,9 +14,25 @@ felt-sso-input-email =
 felt-sso-continue-btn =
     .label = Continuer
 
+## Network error headings
+
+felt-browser-error-connection2 =
+    .heading = Connexion impossible. Veuillez contacter votre administrateur.
+felt-browser-error-no-network =
+    .heading = Aucune connexion réseau
+
+## Error details when launching the browser crashes
+
+felt-browser-error-sso-timeout2 =
+    .heading = Délai de connexion dépassé
+    .message = Veuillez réessayer ou contacter votre administrateur si le problème persiste.
+felt-browser-error-multiple-crashes2 =
+    .heading = { -brand-short-name } a planté à de nombreuses reprises
+
 ## Network error details.
 
 felt-error-network = Erreur réseau inconnue
+felt-error-no-network-connection = Veuillez vérifier votre connexion Internet puis réessayer.
 
 ## Updates messages and related errors messages
 
@@ -24,6 +40,8 @@ felt-updates-title = Bonjour
 felt-updates-checking = Recherche de mises à jour…
 felt-updates-application = Application des mises à jour…
 felt-updates-uptodate = { -brand-short-name } est à jour
+felt-error-updates =
+    .heading = Une erreur est survenue lors de l’application des mises à jour…
 felt-error-contact-admin = Veuillez contacter votre administrateur.
 felt-error-unsupported-system-contact-admin = Votre système actuel ne prend pas en charge cette nouvelle version. Veuillez contacter votre administrateur.
 felt-error-checking-failed-contact-admin = Une erreur inattendue s’est produite lors de la recherche de mise à jour. Veuillez contacter votre administrateur.
