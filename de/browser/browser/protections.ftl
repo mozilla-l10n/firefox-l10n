@@ -203,3 +203,37 @@ bar-tooltip-cryptominer =
             [one] { $count } Heimlicher Digitalwährungsberechner (Krypto-Miner) ({ $percentage } %)
            *[other] { $count } Heimliche Digitalwährungsberechner (Krypto-Miner) ({ $percentage } %)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Schutz der Privatsphäre
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } diese Woche blockiert
+       *[other] { $count } diese Woche blockiert
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } Tracker
+       *[other] { $count } Tracker
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } Identifizierer (Fingerprinter)
+       *[other] { $count } Identifizierer (Fingerprinter)
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } Cookie zur Aktivitätenverfolgung
+       *[other] { $count } Cookies zur Aktivitätenverfolgung
+    }
+privacy-metrics-empty = Diese Woche wurden keine Tracker blockiert. { -brand-short-name } schützt Sie beim Surfen vor den folgenden Bedrohungen.
+privacy-metrics-loading = Schutzmaßnahmen-Statistiken werden geladen…
+privacy-metrics-error = Schutzmaßnahmen können nicht geladen werden.
+privacy-metrics-private-window = { -brand-short-name } wird weiterhin Elemente zur Aktivitätenverfolgung in privaten Fenstern blockieren, aber nicht aufzeichnen, was blockiert wurde.

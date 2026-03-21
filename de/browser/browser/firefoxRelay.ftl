@@ -24,6 +24,14 @@ firefox-relay-reuse-masks-header =
         [one] Sie haben Ihre { $count } kostenlose E-Mail-Masken aufgebraucht
        *[other] Sie haben alle { $count } kostenlosen E-Mail-Masken aufgebraucht
     }
+firefox-relay-reuse-masks-description = Sie können eine vorhandene Maske wiederverwenden, aber die Verwendung einer eindeutigen Maske für jede Website ist die sicherste Option. <label data-l10n-name="learn-more-url">Upgrade für unbegrenzt viele Masken</label>
+firefox-relay-reuse-masks-select-label = Eine kürzlich verwendete Maske auswählen
+firefox-relay-see-all-masks =
+    .label = Alle Masken ansehen
+    .accesskey = a
+firefox-relay-dismiss =
+    .label = Verwerfen
+    .accesskey = V
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Schützen Sie Ihre E-Mail-Adresse:
 firefox-relay-opt-in-title-2 = Holen Sie sich eine kostenlose E-Mail-Maske

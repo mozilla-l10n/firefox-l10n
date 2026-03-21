@@ -226,3 +226,5 @@ fp-certerror-override-exception-button = Proceed to { $hostname } (Risky)
 fp-certerror-intro = { -brand-short-name } spotted a potentially serious security issue with <strong>{ $hostname }</strong>. Someone pretending to be the site could try to steal things like credit card info, passwords, or emails.
 fp-certerror-expired-into = { -brand-short-name } spotted a security issue with <strong>{ $hostname }</strong>. Either the site isn’t set up right or your device’s clock is set to the wrong date/time.
 fp-certerror-transparency-intro = Someone pretending to be <strong>{ $hostname }</strong> could try to steal things like credit card info, passwords, or emails.
+fp-certerror-override-exception-button-2 = Proceed to { $hostname } (Risky)
+    .accesskey = P
