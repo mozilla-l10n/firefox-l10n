@@ -192,3 +192,21 @@ bar-tooltip-cryptominer =
             [one] כורה מטבעות דיגיטליים אחד ({ $percentage }%)
            *[other] { $count } כורי מטבעות דיגיטליים ({ $percentage }%)
         }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] עוגיית מעקב אחת
+       *[other] { $count } עוגיות מעקב
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] רכיב מעקב אחד של רשתות חברתיות
+       *[other] { $count } רכיבי מעקב של רשתות חברתיות
+    }
+privacy-metrics-empty = אין רכיבי מעקב שנחסמו השבוע. { -brand-short-name } מגן עליך מפני האיומים הבאים תוך כדי גלישה.
+privacy-metrics-loading = בטעינה סטטיסטיקות הגנה…
+privacy-metrics-error = לא ניתן לטעון סטטיסטיקות הגנה.
+privacy-metrics-private-window = { -brand-short-name } ממשיך לחסום רכיבי מעקב בחלונות פרטיים, אך אינו שומר תיעוד על מה שנחסם.

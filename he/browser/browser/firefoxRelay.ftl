@@ -18,6 +18,20 @@ firefox-relay-must-login-to-account = יש להיכנס לחשבון שלך כד
 firefox-relay-get-unlimited-masks =
     .label = ניהול מסכות
     .accesskey = מ
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] השתמשת במסכת הדוא״ל החינמית
+       *[other] השתמשת בכל { $count } מסכות הדוא״ל החינמיות
+    }
+firefox-relay-reuse-masks-description = ניתן לעשות שימוש חוזר במסכה קיימת, אך שימוש במסכה ייחודית לכל אתר אינטרנט הוא האפשרות הבטוחה ביותר. <label data-l10n-name="learn-more-url">שדרוג למסכות ללא הגבלה</label>
+firefox-relay-reuse-masks-select-label = בחירה במסכה אחרונה
+firefox-relay-see-all-masks =
+    .label = הצגת כל המסכות
+    .accesskey = ה
+firefox-relay-dismiss =
+    .label = סגירה
+    .accesskey = ס
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = הגנה על כתובת הדוא״ל שלך:
 firefox-relay-opt-in-title-2 = קבלת מסכת דוא״ל חינמית

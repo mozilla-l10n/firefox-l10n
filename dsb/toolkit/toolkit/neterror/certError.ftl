@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Sedło w nowem woknje wócyniś
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Aby swóju wěstotu šćitał, { $hostname } { -brand-short-name } njedowólijo, bok pokazaś, jolic jo zasajźony w drugem sedle. Aby toś ten bok wiźeł, musyśo jen w nowem woknje wócyniś.
 fp-certerror-view-certificate-link = Certifikat sedła pokazaś
+fp-certerror-return-to-previous-page-recommended-button-2 = Slědk (dopórucony)
+    .accesskey = S
 fp-certerror-return-to-previous-page-recommended-button = Slědk (dopórucony)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Software { -brand-short-name } wěste zwězowanje z toś 
 
 fp-certerror-page-title = Warnowanje: wěstotne riziko
 fp-certerror-body-title = Buźćo wobglědniwy. Něco njejo w pórěźe.
+fp-certerror-illustration-alt =
+    .alt = Wobraz liški, kótaraž na oranžowe warnowańske znamje glěda.
 fp-certerror-why-site-dangerous = Cogodla sedło tšašnje wuglěda?
 fp-certerror-what-can-you-do = Co móžośo pśeśiwo tomu cyniś?
 fp-certerror-advanced-title = Rozšyrjone
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Dalej k { $hostname } (riskantny)
 fp-certerror-intro = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Něchten, kótaryž twarźi, až toś to sedło wěcy ako informacije kreditowych kórtow, gronidła abo e-mailowe adrese kšadnjo.
 fp-certerror-expired-into = { -brand-short-name } jo namakał potencielnje śěžki wěstotny problem z <strong>{ $hostname }</strong>. Pak sedło njejo korektnje konfigurěrowane pak zeger wašogo rěda jo na wopacny datum/cas stajony.
 fp-certerror-transparency-intro = Něchten, kótaryž wudawa, až jo <strong>{ $hostname }</strong>, mógał wěcy ako waše informacije kreditoweje kórty, gronidła abo e-mailowe adrese kšadnuś.
+fp-certerror-override-exception-button-2 = Dalej k { $hostname } (riskantny)
+    .accesskey = D

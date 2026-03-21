@@ -25,6 +25,8 @@ neterror-override-exception-button = Riziko akceptěrowaś a pókšacowaś
 neterror-pref-reset-button = Standardne nastajenja wótnowiś
 neterror-return-to-previous-page-button = Slědk hyś
 neterror-return-to-previous-page-recommended-button = Slědk (dopórucony)
+neterror-try-again-button-2 = Hyšći raz wopytaś
+    .accesskey = H
 neterror-try-again-button = Hyšći raz wopytaś
 neterror-add-exception-button = Za toś to sedło pśecej pókšacowaś
 neterror-settings-button = DNS-nastajenja změniś
@@ -176,12 +178,15 @@ neterror-response-status-code = Zmólkowy kode: { $responsestatus } { $responses
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Zda se, až jo problem z wašym internetnym zwiskom
+fp-neterror-illustration-alt =
+    .alt = Wobraz liški, kótaraž na njezwězane seśowe kable glěda.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } njamóžo wěsty zwisk z serwerom na { $hostname } nawězaś.
 fp-neterror-offline-intro = { -brand-short-name } njamóžo ze serwerom <strong>{ $hostname }</strong> zwězaś
+fp-neterror-net-timeout-intro = Serwer na <strong>{ $hostname }{ $hostname }</strong> pśedłujko trjeba, aby wótgronił.
 fp-neterror-coop-coep-intro = { -brand-short-name } njejo zacytał toś ten bok, dokulaž se zda, ako njeby wěstotna konfiguracija z pjerwjejšnym bokom wótpowědował.
 fp-neterror-http-auth-disabled-intro = Něchten, kótaryž wudawa, až jo sedło, mógał wěcy ako wašo wužywaŕske mě, gronidło abo e-mailowu adresu kšadnuś.
 fp-neterror-http-auth-disabled-secure-connection = Toś to sedło se wěsty zwisk pomina, a njamóžośo wuwześe pśidaś, aby se k njomu  woglědał.
