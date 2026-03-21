@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] Hai utilizzato l’alias di posta elettronica gratuito
        *[other] Hai utilizzato tutti i { $count } alias di posta elettronica gratuiti
     }
-firefox-relay-reuse-masks-description = Puoi riutilizzare un alias esistente, ma la soluzione più sicura è utilizzarne uno specifico per ogni sito. <label data-l10n-name="learn-more-url">Fai l’upgrade per ottenere un numero illimitato di alias</label>
 firefox-relay-reuse-masks-select-label = Seleziona un alias recente
 firefox-relay-see-all-masks =
     .label = Visualizza tutti gli alias
@@ -104,4 +103,3 @@ firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-p
 firefox-relay-and-fxa-opt-in-confirmation-enable-button-with-domain-and-value-prop =
     .label = Successivo
     .accesskey = S
-
