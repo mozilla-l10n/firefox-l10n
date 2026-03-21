@@ -178,12 +178,15 @@ neterror-response-status-code = 錯誤代碼：{ $responsestatus } { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = 您的網路連線可能有點問題
+fp-neterror-illustration-alt =
+    .alt = 狐狸看著離線的網路線的圖示。
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } 無法與伺服器 { $hostname } 建立安全連線。
 fp-neterror-offline-intro = { -brand-short-name } 無法連線到位於 <strong>{ $hostname }</strong> 的伺服器
+fp-neterror-net-timeout-intro = 位於 <strong>{ $hostname }</strong> 的伺服器花了太久時間，還是沒有回應。
 fp-neterror-coop-coep-intro = 因為此頁面的安全性設定與前一頁不符，{ -brand-short-name } 並未載入此頁面。
 fp-neterror-http-auth-disabled-intro = 可能是其他假扮為該網站的有心人，正嘗試偷走您的帳號、密碼、信箱等資料。
 fp-neterror-http-auth-disabled-secure-connection = 此網站要求必須使用安全連線，您無法加入例外造訪此網站。

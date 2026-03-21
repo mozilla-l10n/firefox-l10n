@@ -191,6 +191,9 @@ bar-tooltip-cryptominer =
 # Privacy Metrics Card
 privacy-metrics-title = 隱私保護
 # Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week = 本週封鎖 { $count } 組追蹤器
+# Variables:
 #   $count (Number) - Number of trackers blocked
 privacy-metrics-trackers = { $count } 組追蹤器
 # Variables:
@@ -202,5 +205,7 @@ privacy-metrics-cookies = { $count } 個追蹤用 Cookie
 # Variables:
 #   $count (Number) - Number of social trackers blocked
 privacy-metrics-social = { $count } 個社群網路追蹤器
+privacy-metrics-empty = 本週沒有封鎖追蹤器。{ -brand-short-name } 會在您上網時保護您不受下列威脅。
 privacy-metrics-loading = 正在載入保護統計…
 privacy-metrics-error = 無法載入保護統計資訊。
+privacy-metrics-private-window = { -brand-short-name } 會繼續在隱私瀏覽視窗當中封鎖追蹤器，但不會對封鎖的項目留下紀錄。

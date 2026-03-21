@@ -1990,6 +1990,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = 封鎖彈出型視窗與第三方重新導向
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = 管理例外網站
+    .description = 加入可以開啟彈出型視窗，或重新導向到第三方網站的網站。
+    .accesskey = E
+    .searchkeywords = 彈出型視窗, popups
 permissions-addon-install-warning3 =
     .label = 網站嘗試安裝擴充套件時，喜善警告
     .accesskey = W
