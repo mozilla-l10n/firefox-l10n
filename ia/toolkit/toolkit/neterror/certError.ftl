@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Aperir sito in nove fenestra
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pro proteger tu securitate, { $hostname } non permitte a { -brand-short-name } monstrar le pagina si un altere sito lo ha integrate. Pro vider iste pagina, tu debe aperir lo in un nove fenestra.
 fp-certerror-view-certificate-link = Vider le certificato de sito
+fp-certerror-return-to-previous-page-recommended-button-2 = Retroceder (Recommendate)
+    .accesskey = R
 fp-certerror-return-to-previous-page-recommended-button = Retroceder (Recommendate)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Un programma impedi que { -brand-short-name } se connecte
 
 fp-certerror-page-title = ATTENTION: Risco de securitate
 fp-certerror-body-title = Attention! Alco non pare correcte.
+fp-certerror-illustration-alt =
+    .alt = Illustration de un vulpe reguardante un indicator de aviso orange.
 fp-certerror-why-site-dangerous = Que rende le sito parer periculose?
 fp-certerror-what-can-you-do = Que pote tu facer concernente isto?
 fp-certerror-advanced-title = Avantiate
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Continuar a { $hostname } (Riscose)
 fp-certerror-intro = { -brand-short-name } individuava un problema de securitate potentialmente serie con <strong>{ $hostname }</strong>. Alcuno que finge de esser le sito poterea tentar de robar cosas como info carta de credito, contrasignos, o emails.
 fp-certerror-expired-into = { -brand-short-name } individuava un problema de securitate con <strong>{ $hostname }</strong>. O le sito non es implementate correctemente o le horologio de tu apparato es regulate al data/tempore errate.
 fp-certerror-transparency-intro = Alcuno que finge de esser <strong>{ $hostname }</strong> poterea tentar de robar cosas como informationes de carta de credito, contrasignos, o emails.
+fp-certerror-override-exception-button-2 = Continuar a { $hostname } (Riscose)
+    .accesskey = C

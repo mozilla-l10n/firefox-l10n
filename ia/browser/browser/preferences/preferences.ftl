@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blocar quadros resaltante e re-directiones de tertie-partes
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Gerer exceptiones
+    .description = Adder sitos web que pote aperir fenestras contextual e usar re-directiones de tertie-partes.
+    .accesskey = e
+    .searchkeywords = fenestras contextual
 permissions-addon-install-warning3 =
     .label = Monstrar advertimento quando le sitos web tenta installar extensiones
     .accesskey = w

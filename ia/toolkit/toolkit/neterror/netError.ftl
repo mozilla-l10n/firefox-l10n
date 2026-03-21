@@ -178,12 +178,15 @@ neterror-response-status-code = Codice de error: { $responsestatus } { $response
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Il pare haber un problema con tu connexion a internet
+fp-neterror-illustration-alt =
+    .alt = Illustration de un vulpe reguardante cablos de rete disconnexe.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } non pote crear un connexion secur al servitor al adresse { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } non pote connecter se al servitor a <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Le servitor a <strong>{ $hostname }</strong> tarda troppo a responder.
 fp-neterror-coop-coep-intro = { -brand-short-name } non carga iste pagina perque il pare que le configuration de securitate non concorda con le pagina previe.
 fp-neterror-http-auth-disabled-intro = Alcuno que finge de esser le sito poterea tentar de robar cosas como tu nomine de usator, contrasigno, o email.
 fp-neterror-http-auth-disabled-secure-connection = Iste sito require un connexion secur, e tu non pote adder un exception pro visitar lo.

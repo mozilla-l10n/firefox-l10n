@@ -307,6 +307,12 @@ tail-fox-spotlight-subtitle = Dice adeo al enoiose traciatores publicitari e opt
 tail-fox-spotlight-primary-button = Aperir mi ligamines con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Non ora
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Saltar retro in confidentialitate integrate
+welcome-back-spotlight-subtitle = Ben tornate al sol navigator importante supportate per un organisation non-lucrative. Nos prende mesuras additional pro proteger tu datos ubicunque tu ambula.
+welcome-back-embedded-import-title = Importa tu datos e senti te como a casa in { -brand-short-name }
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Le versiones plus vetere de { -brand-short-name } poterea haber problemas desde le 14 de januario 2025.</strong>

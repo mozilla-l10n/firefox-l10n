@@ -233,3 +233,14 @@ privacy-metrics-cookies =
         [one] { $count } cookie traciante
        *[other] { $count } cookies traciante
     }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } traciator de medios social
+       *[other] { $count } traciatores de medios social
+    }
+privacy-metrics-empty = Necun traciator blocate iste septimana. { -brand-short-name } te protege del sequente menacias quando tu naviga.
+privacy-metrics-loading = Cargante statistica de protection…
+privacy-metrics-error = Impossibile cargar statistica de protection.
+privacy-metrics-private-window = { -brand-short-name } continua a blocar traciatores in Fenestras private, ma non mantene un registration de cosa era blocate.
