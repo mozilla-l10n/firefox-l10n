@@ -18,6 +18,9 @@ firefox-relay-must-login-to-account = Барои истифода кардани
 firefox-relay-get-unlimited-masks =
     .label = Идоракунии ниқобҳо
     .accesskey = И
+firefox-relay-dismiss =
+    .label = Нодида гузарондан
+    .accesskey = Н
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Нишонии почтаи электронии худро ҳифз намоед:
 firefox-relay-opt-in-title-2 = Ниқоби почтаи электронии ройгонро ба даст оред
