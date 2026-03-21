@@ -1986,6 +1986,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Chặn cửa sổ bật lên và chuyển hướng của bên thứ ba
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Quản lý ngoại lệ
+    .description = Thêm các trang web có thể mở cửa sổ bật lên và sử dụng chuyển hướng của bên thứ ba.
+    .accesskey = E
+    .searchkeywords = bật lên
 permissions-addon-install-warning3 =
     .label = Hiển thị cảnh báo khi các trang web cố gắng cài đặt tiện ích mở rộng
     .accesskey = W

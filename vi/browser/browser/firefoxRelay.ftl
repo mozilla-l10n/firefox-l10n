@@ -18,6 +18,19 @@ firefox-relay-must-login-to-account = Đăng nhập vào tài khoản của bạ
 firefox-relay-get-unlimited-masks =
     .label = Muản lý mặt nạ
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+       *[other] Bạn đã sử dụng hết { $count } email ẩn danh miễn phí
+    }
+firefox-relay-reuse-masks-description = Bạn có thể sử dụng lại email ẩn danh hiện có, nhưng sử dụng email ẩn danh riêng cho mỗi trang web là lựa chọn an toàn nhất. <label data-l10n-name="learn-more-url">Nâng cấp để có email ẩn danh không giới hạn</label>
+firefox-relay-reuse-masks-select-label = Chọn một email ẩn danh gần đây
+firefox-relay-see-all-masks =
+    .label = Xem tất cả email ẩn danh
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Bỏ qua
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Bảo vệ địa chỉ email của bạn:
 firefox-relay-opt-in-title-2 = Nhận một địa chỉ email ẩn danh miễn phí

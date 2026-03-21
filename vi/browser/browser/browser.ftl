@@ -1210,6 +1210,11 @@ panel-save-update-password = Mật khẩu
 # "More" item in macOS share menu
 menu-share-more =
     .label = Xem thêm…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label = Sao chép { $count } liên kết
+    .accesskey = L
 menu-share-copy-link =
     .label = Sao chép liên kết
     .accesskey = L

@@ -304,6 +304,12 @@ tail-fox-spotlight-subtitle = Nói lời tạm biệt với những trình theo 
 tail-fox-spotlight-primary-button = Mở liên kết của tôi bằng { -brand-short-name }
 tail-fox-spotlight-secondary-button = Không phải bây giờ
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Quay trở lại với tính năng bảo mật được tích hợp sẵn
+welcome-back-spotlight-subtitle = Chào mừng bạn trở lại với trình duyệt lớn duy nhất được hỗ trợ bởi một tổ chức phi lợi nhuận. Chúng tôi thực hiện các biện pháp bổ sung để bảo vệ dữ liệu của bạn mọi lúc mọi nơi.
+welcome-back-embedded-import-title = Nhập dữ liệu của bạn và biến { -brand-short-name } theo ý muốn của bạn
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Các phiên bản cũ hơn của { -brand-short-name } có thể bắt đầu gặp sự cố vào ngày 14 tháng 1 năm 2025.</strong>
