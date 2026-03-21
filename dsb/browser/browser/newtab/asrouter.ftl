@@ -313,6 +313,12 @@ tail-fox-spotlight-subtitle = Rozžognujśo se z gramnymi wabjeńskimi pśeslěd
 tail-fox-spotlight-primary-button = Móje wótkaze z { -brand-short-name } wócyniś
 tail-fox-spotlight-secondary-button = Nic něnto
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Skócćo slědk k zatwarjonej priwatnosći
+welcome-back-spotlight-subtitle = Witajśo slědk k jadnučkemu wuznamnemu wobglědowakoju, kótaryž se pśez za wše wužytnu organizaciju pódpěra. Pśewjeźomy pśidatne kšace, aby my waše daty šćitali, źožkuli snochtaśo.
+welcome-back-embedded-import-title = Importěrujśo swóje daty a cujśo se z { -brand-short-name } ako doma
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Starše wersije { -brand-short-name } mógu snaź wót 14. januara 2025 problemy měś.</strong>

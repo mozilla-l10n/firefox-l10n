@@ -21,10 +21,10 @@ firefox-relay-get-unlimited-masks =
 # $count (Number) - The number of free email masks the user has used
 firefox-relay-reuse-masks-header =
     { $count ->
-        [one] Sće { $count }  darmotnu e-mejlowu masku wužił
+        [one] Sće { $count } darmotnu e-mejlowu masku wužił
         [two] Sće { $count } darmotnej e-mejlowej masce wužił
-        [few] Sće wšě { $count }  darmotne e-mejlowe maski wužił
-       *[other] Sće wšě { $count }  darmotnych e-mejlowych maskow wužił
+        [few] Sće wšě { $count } darmotne e-mejlowe maski wužił
+       *[other] Sće wšě { $count } darmotnych e-mejlowych maskow wužił
     }
 firefox-relay-reuse-masks-description = Móžeće eksistowacu masku znowa wužiwać, ale je najwěsćiša móžnosć, hdyž jónkróćna maska kóžde websydło wužiwaće. <label data-l10n-name="learn-more-url">Za njewobmjezowane maski aktualizować</label>
 firefox-relay-reuse-masks-select-label = Wubjerće nowu masku

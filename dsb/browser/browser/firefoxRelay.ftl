@@ -18,6 +18,22 @@ firefox-relay-must-login-to-account = Pśizjawśo se pla swójogo konta, aby sw�
 firefox-relay-get-unlimited-masks =
     .label = Maski zastojaś
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Sćo wužył { $count } dermotnu e-mailowu masku
+        [two] Sćo wužył wobej { $count } dermotnej e-mailowej masce
+        [few] Sćo wužył wšykne { $count } dermotne e-mailowe maski
+       *[other] Sćo wužył wšykne { $count } dermotnych e-mailowych maskow
+    }
+firefox-relay-reuse-masks-description = Móžośo eksistěrujucu masku znowego wužywaś, ale jo nejwěsćejša móžnosć, gaž jadnorazowa maska kužde websedło wužywaśo. <label data-l10n-name="learn-more-url">Za njewobgranicowane maski aktualizěrowaś</label>
+firefox-relay-reuse-masks-select-label = Wubjeŕśo nowu masku
+firefox-relay-see-all-masks =
+    .label = Wšykne maski se woglědaś
+    .accesskey = m
+firefox-relay-dismiss =
+    .label = Zachyśiś
+    .accesskey = Z
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Šćitajśo swóju e-mailowu adresu:
 firefox-relay-opt-in-title-2 = Wobstarajśo se dermotnu e-mailowu masku
