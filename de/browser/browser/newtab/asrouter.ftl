@@ -307,6 +307,10 @@ tail-fox-spotlight-subtitle = Verabschieden Sie sich von nervigen Werbe-Trackern
 tail-fox-spotlight-primary-button = Meine Links mit { -brand-short-name } öffnen
 tail-fox-spotlight-secondary-button = Nicht jetzt
 
+## Welcome Back Spotlight and Import
+
+welcome-back-embedded-import-title = Importieren Sie Ihre Daten, damit Sie sich mit { -brand-short-name } wie zu Hause fühlen
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Ältere Versionen von { -brand-short-name } können ab dem 14. Januar 2025 Probleme haben.</strong>
