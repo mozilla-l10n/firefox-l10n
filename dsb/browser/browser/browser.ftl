@@ -1243,6 +1243,17 @@ panel-save-update-password = Gronidło
 # "More" item in macOS share menu
 menu-share-more =
     .label = Wěcej…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] { $count } wótkaz kopěrowaś
+            [two] { $count } wótkaza kopěrowaś
+            [few] { $count } wótkaze kopěrowaś
+           *[other] { $count } wótkazow kopěrowaś
+        }
+    .accesskey = k
 menu-share-copy-link =
     .label = Wótkaz kopěrowaś
     .accesskey = k
