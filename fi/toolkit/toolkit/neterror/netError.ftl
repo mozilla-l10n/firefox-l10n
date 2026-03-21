@@ -176,12 +176,15 @@ neterror-response-status-code = Virhekoodi: { $responsestatus } { $responsestatu
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Vaikuttaa siltä, että Internet-yhteydessäsi on ongelma
+fp-neterror-illustration-alt =
+    .alt = Kuva ketusta, joka katsoo irronneita verkkokaapeleita.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } ei voi luoda suojattua yhteyttä palvelimeen osoitteessa { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ei saa yhteyttä palvelimeen osoitteessa <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Palvelin osoitteessa <strong>{ $hostname }</strong> vastaa liian hitaasti.
 fp-neterror-coop-coep-intro = { -brand-short-name } ei ladannut tätä sivua, koska vaikuttaa siltä, että tietoturva-asetukset eivät vastaa edellistä sivua.
 fp-neterror-http-auth-disabled-intro = Sivustona esiintyvä taho voi yrittää varastaa esimerkiksi käyttäjätunnuksesi, salasanasi tai sähköpostiosoitteesi.
 fp-neterror-http-auth-disabled-secure-connection = Tämä sivusto vaatii suojatun yhteyden, etkä voi lisätä poikkeusta käydäksesi sivustolla.

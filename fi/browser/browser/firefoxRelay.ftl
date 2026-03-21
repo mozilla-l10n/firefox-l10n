@@ -24,6 +24,14 @@ firefox-relay-reuse-masks-header =
         [one] Olet käyttänyt { $count } ilmaisen sähköpostimaskin
        *[other] Olet käyttänyt kaikki { $count } ilmaista sähköpostimaskia
     }
+firefox-relay-reuse-masks-description = Voit käyttää uudelleen olemassa olevaa maskia, mutta yksilöllisen maskin käyttäminen jokaisella verkkosivustolla on turvallisin vaihtoehto. <label data-l10n-name="learn-more-url">Päivitä saadaksesi rajattomasti maskeja</label>
+firefox-relay-reuse-masks-select-label = Valitse äskettäin käytetty maski
+firefox-relay-see-all-masks =
+    .label = Näytä kaikki maskit
+    .accesskey = s
+firefox-relay-dismiss =
+    .label = Hylkää
+    .accesskey = H
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Suojaa sähköpostiosoitteesi:
 firefox-relay-opt-in-title-2 = Hanki ilmainen sähköpostimaski
