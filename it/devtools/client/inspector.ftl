@@ -20,4 +20,3 @@ colorpicker-tooltip-hue-slider-title = Tonalità
 colorpicker-tooltip-alpha-slider-title = Opacità
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudoclassi specifiche degli elementi
-
