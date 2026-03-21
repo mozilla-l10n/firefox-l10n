@@ -210,7 +210,7 @@ privacy-metrics-title = Integritetsskydd
 privacy-metrics-blocked-this-week =
     { $count ->
         [one] { $count } blockerad denna vecka
-       *[other] { $count } blockerad denna vecka
+       *[other] { $count } blockerade denna vecka
     }
 # Variables:
 #   $count (Number) - Number of trackers blocked
@@ -240,7 +240,7 @@ privacy-metrics-social =
         [one] { $count } social spårare
        *[other] { $count } sociala spårare
     }
-privacy-metrics-empty = Inga trackers blockerade denna vecka. { -brand-short-name } skyddar dig från följande hot när du surfar.
+privacy-metrics-empty = Inga spårare blockerade denna vecka. { -brand-short-name } skyddar dig från följande hot när du surfar.
 privacy-metrics-loading = Laddar skyddsstatistik…
 privacy-metrics-error = Det gick inte att läsa in skyddsstatistik.
 privacy-metrics-private-window = { -brand-short-name } fortsätter att blockera spårare i privata fönster, men sparar inte vad som blockerades.
