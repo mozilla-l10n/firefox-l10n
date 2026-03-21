@@ -233,3 +233,14 @@ privacy-metrics-cookies =
         [one] { $count } cookie de rastreo
        *[other] { $count } cookies de rastreo
     }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } rastreador social
+       *[other] { $count } rastreadores sociales
+    }
+privacy-metrics-empty = No hay rastreadores bloqueados esta semana. { -brand-short-name } protege de las siguientes amenazas mientras se  navega.
+privacy-metrics-loading = Cargando estadísticas de protección…
+privacy-metrics-error = No se pudieron cargar las estadísticas de protección.
+privacy-metrics-private-window = { -brand-short-name } sigue bloqueando rastreadores en ventanas privadas, pero no guarda el registro de lo que se bloqueó.
