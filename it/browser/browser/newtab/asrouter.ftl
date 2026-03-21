@@ -439,3 +439,4 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Imposta come predefinito
 set-default-menu-message-primary-button-variant = Imposta come browser principale
+
