@@ -307,6 +307,10 @@ tail-fox-spotlight-subtitle = Diga adiós a los molestos rastreadores de publici
 tail-fox-spotlight-primary-button = Abrir mis enlaces con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ahora no
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-subtitle = Bienvenido de nuevo al único navegador importante respaldado por una organización sin fines de lucro. Tomamos medidas adicionales para proteger tus datos donde quiera que vaya.
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Versiones viejas de { -brand-short-name } pueden empezar a tener problemas el 14 de enero de 2025.</strong>
