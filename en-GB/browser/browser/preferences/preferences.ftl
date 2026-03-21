@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Block pop-ups and third-party redirects
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Manage exceptions
+    .description = Add web sites that can open pop-ups and use third-party redirects.
+    .accesskey = e
+    .searchkeywords = popups
 permissions-addon-install-warning3 =
     .label = Show warning when web sites try to install extensions
     .accesskey = W

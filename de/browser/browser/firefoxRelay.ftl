@@ -18,6 +18,12 @@ firefox-relay-must-login-to-account = Melden Sie sich bei Ihrem Konto an, um Ihr
 firefox-relay-get-unlimited-masks =
     .label = Masken verwalten
     .accesskey = v
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Sie haben Ihre { $count } kostenlose E-Mail-Masken aufgebraucht
+       *[other] Sie haben alle { $count } kostenlosen E-Mail-Masken aufgebraucht
+    }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Schützen Sie Ihre E-Mail-Adresse:
 firefox-relay-opt-in-title-2 = Holen Sie sich eine kostenlose E-Mail-Maske

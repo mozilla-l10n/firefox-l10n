@@ -1226,6 +1226,15 @@ panel-save-update-password = Pasahitza
 # "More" item in macOS share menu
 menu-share-more =
     .label = Gehiago…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Kopiatu lotura
+           *[other] Kopiatu { $count } lotura
+        }
+    .accesskey = l
 menu-share-copy-link =
     .label = Kopiatu lotura
     .accesskey = K

@@ -247,10 +247,10 @@ urlbar-tabtosearch-onboard = Chọn phím tắt này để tìm những gì bạ
 
 ## Local search mode indicator labels in the urlbar
 
-urlbar-search-mode-bookmarks = dautrang
-urlbar-search-mode-tabs = the
-urlbar-search-mode-history = lichsu
-urlbar-search-mode-actions = hanhdong
+urlbar-search-mode-bookmarks = Dấu trang
+urlbar-search-mode-tabs = Thẻ
+urlbar-search-mode-history = Lịch sử
+urlbar-search-mode-actions = Hành động
 
 ##
 

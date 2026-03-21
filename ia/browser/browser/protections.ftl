@@ -203,3 +203,31 @@ bar-tooltip-cryptominer =
             [one] { $count } cryptominator ({ $percentage }%)
            *[other] { $count } cryptominatores ({ $percentage }%)
         }
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blocate iste septimana
+       *[other] { $count } blocate iste septimana
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } traciator
+       *[other] { $count } traciatores
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } dactylogrammator
+       *[other] { $count } dactylogrammatores
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } cookie traciante
+       *[other] { $count } cookies traciante
+    }

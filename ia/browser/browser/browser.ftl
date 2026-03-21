@@ -1226,6 +1226,15 @@ panel-save-update-password = Contrasigno
 # "More" item in macOS share menu
 menu-share-more =
     .label = Plus…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copiar ligamine
+           *[other] Copiar { $count } ligamines
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Copiar ligamine
     .accesskey = l

@@ -18,6 +18,14 @@ firefox-relay-must-login-to-account = Accede a tu conto pro usar tu mascas email
 firefox-relay-get-unlimited-masks =
     .label = Gerer le mascas
     .accesskey = G
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+       *[other] Tu ha usate tote le { $count } mascas de e-mail gratuite
+    }
+firefox-relay-dismiss =
+    .label = Ignorar
+    .accesskey = I
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protege tu adresse de e-mail:
 firefox-relay-opt-in-title-2 = Obtene un masca de e-mail gratuite

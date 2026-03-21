@@ -90,6 +90,9 @@ delete-profile-bookmarks = Laster-markak
 delete-profile-history = Historia (bisitatutako orriak, cookieak, guneen datuak)
 delete-profile-autofill = Betetze automatikorako datuak (helbideak, ordainketa-metodoak)
 delete-profile-logins = Pasahitzak
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Ezabatu "{ $profilename }" profila
 
 ##
 
