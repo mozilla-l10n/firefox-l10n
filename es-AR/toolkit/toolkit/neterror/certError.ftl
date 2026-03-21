@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Abrir sitio en una ventana nueva
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para proteger su seguridad, { $hostname } no permitirá que { -brand-short-name } muestre la página si otro sitio la ha incrustado. Para ver esta página, debe abrirla en una nueva ventana.
 fp-certerror-view-certificate-link = Ver el certificado del sitio
+fp-certerror-return-to-previous-page-recommended-button-2 = Retroceder (recomendado)
+    .accesskey = R
 fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = El software está impidiendo que { -brand-short-name } se
 
 fp-certerror-page-title = Advertencia: Riesgo de seguridad
 fp-certerror-body-title = Cuidado. Algo no parece estar bien.
+fp-certerror-illustration-alt =
+    .alt = Ilustración de un zorro mirando una señal de advertencia naranja.
 fp-certerror-why-site-dangerous = ¿Qué hace que el sitio se vea peligroso?
 fp-certerror-what-can-you-do = ¿Qué podés hacer al respecto?
 fp-certerror-advanced-title = Avanzadas
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Continuar a { $hostname } (Riesgoso)
 fp-certerror-intro = { -brand-short-name } detectó un problema de seguridad potencialmente grave con <strong>{ $hostname }</strong>. Alguien que se haga pasar por el sitio podría intentar robar información de tarjetas de crédito, contraseñas o correos electrónicos.
 fp-certerror-expired-into = { -brand-short-name } detectó un problema de seguridad con <strong>{ $hostname }</strong>. O el sitio no está configurado correctamente o el reloj de su dispositivo está configurado en una fecha/hora incorrecta.
 fp-certerror-transparency-intro = Alguien que se haga pasar por <strong>{ $hostname }</strong> podría intentar robar cosas como información de tarjetas de crédito, contraseñas o correos electrónicos.
+fp-certerror-override-exception-button-2 = Continuar a { $hostname } (Riesgoso)
+    .accesskey = g
