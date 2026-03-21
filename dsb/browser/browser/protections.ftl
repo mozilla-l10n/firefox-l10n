@@ -233,3 +233,54 @@ bar-tooltip-cryptominer =
             [few] { $count } kryptokopaki ({ $percentage } %)
            *[other] { $count } kryptokopakow ({ $percentage } %)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Šćit priwatnosći
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } jo se ten tyźeń blokěrował
+        [two] { $count } stej se ten tyźeń blokěrowałej
+        [few] { $count } su se ten tyźeń blokěrowali
+       *[other] { $count } jo se ten tyźeń blokěrowało
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } pśeslědowak
+        [two] { $count } pśeslědowaka
+        [few] { $count } pśeslědowaki
+       *[other] { $count } pśeslědowakow
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } zběraŕ palcowych wótśišćow
+        [two] { $count } zběrarja palcowych wótśišćow
+        [few] { $count } zběrarje palcowych wótśišćow
+       *[other] { $count } zběrarjow palcowych wótśišćow
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } pśeslědujucy cookie
+        [two] { $count } pśeslědujucej cookieja
+        [few] { $count } pśeslědujuce cookieje
+       *[other] { $count } pśeslědujucych cookiejow
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } pśeslědowak socialnych medijow
+        [two] { $count } pśeslědowaka socialnych medijow
+        [few] { $count } pśeslědowaki socialnych medijow
+       *[other] { $count } pśeslědowakow socialnych medijow
+    }
+privacy-metrics-empty = Pśeslědowaki njejsu se ten tyźeń blokěrowali. { -brand-short-name } was pśed slědujucymi wobgrozenjami šćita, gaž pśeglědujośo.
+privacy-metrics-loading = Šćitne statistiske daty se zacytaju…
+privacy-metrics-error = Njejo móžno, šćitne statistiske daty zacytaś.
+privacy-metrics-private-window = { -brand-short-name } pśeslědowaki w priwatnych woknach dalej blokěrujo, ale njeregistrěrujo, co jo se blokěrowało.

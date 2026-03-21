@@ -2010,6 +2010,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Wuskokujuce wokna a dalejpósrědnjenja tśeśich póbitowarjow blokěrowaś…
     .accesskey = u
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Wuwześa zastojaś
+    .description = Pśidajśo websedło, kótarež mógu wuskokujuce wokna wócyniś a dalejpósrědnjenja tśeśich póbitowarjow wužywaś.
+    .accesskey = u
+    .searchkeywords = wuskokujuce wokna
 permissions-addon-install-warning3 =
     .label = Warnowanje pokazaś, gaž sedła wopytuju rozšyrjenja instalěrowaś
     .accesskey = W
