@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = פתיחת אתר בחלון חדש
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = כדי להגן על האבטחה שלך, { $hostname } לא יאפשר ל־{ -brand-short-name } להציג את הדף אם אתר אחר הטמיע אותו. כדי לצפות בדף זה, עליך לפתוח אותו בחלון חדש.
 fp-certerror-view-certificate-link = הצגת אישור האתר
+fp-certerror-return-to-previous-page-recommended-button-2 = חזרה (מומלץ)
+    .accesskey = ח
 fp-certerror-return-to-previous-page-recommended-button = חזרה (מומלץ)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = תכנית כלשהי מונעת מ־{ -brand-short-name 
 
 fp-certerror-page-title = אזהרה: סיכון אבטחה
 fp-certerror-body-title = נא להיזהר. משהו לא נראה תקין.
+fp-certerror-illustration-alt =
+    .alt = איור של שועל מביט בשלט אזהרה כתום.
 fp-certerror-why-site-dangerous = מה גורם לאתר להיראות מסוכן?
 fp-certerror-what-can-you-do = מה ניתן לעשות בנדון?
 fp-certerror-advanced-title = מתקדם
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = המשך אל { $hostname } (מסוכן
 fp-certerror-intro = ‏{ -brand-short-name } זיהה בעיית אבטחה שעלולה להיות חמורה עם <strong>{ $hostname }</strong>. מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו פרטי כרטיסי אשראי, ססמאות או דוא״ל.
 fp-certerror-expired-into = ‏{ -brand-short-name } זיהה בעיית אבטחה עם <strong>{ $hostname }</strong>. או שהאתר לא מוגדר נכון או ששעון המכשיר שלך מוגדר לתאריך/שעה הלא נכונים.
 fp-certerror-transparency-intro = מישהו שמתחזה לאתר <strong>{ $hostname }</strong> יכול לנסות לגנוב דברים כמו פרטים על כרטיסי אשראי, ססמאות או הודעות דוא״ל.
+fp-certerror-override-exception-button-2 = המשך אל { $hostname } (מסוכן)
+    .accesskey = ה

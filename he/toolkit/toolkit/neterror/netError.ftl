@@ -25,6 +25,8 @@ neterror-override-exception-button = קבלת הסיכון והמשך
 neterror-pref-reset-button = שחזור הגדרות בררת המחדל
 neterror-return-to-previous-page-button = חזרה
 neterror-return-to-previous-page-recommended-button = חזרה (מומלץ)
+neterror-try-again-button-2 = ניסיון חוזר
+    .accesskey = נ
 neterror-try-again-button = נסה שוב
 neterror-add-exception-button = תמיד להמשיך עבור אתר זה
 neterror-settings-button = שינוי הגדרות DNS
@@ -176,12 +178,15 @@ neterror-response-status-code = קוד שגיאה: { $responsestatus } { $respon
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = נראה שיש בעיה בחיבור האינטרנט שלך
+fp-neterror-illustration-alt =
+    .alt = איור של שועל מביט על כבלי רשת מנותקים.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = ל־{ -brand-short-name } אין אפשרות ליצור חיבור מאובטח לשרת ב־{ $hostname }.
 fp-neterror-offline-intro = ‏{ -brand-short-name } לא הצליח להתחבר לשרת ב־<strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = לשרת ב־<strong>{ $hostname }</strong> לוקח יותר מדי זמן להגיב.
 fp-neterror-coop-coep-intro = ‏{ -brand-short-name } לא טען את הדף הזה מכיוון שנראה שתצורת האבטחה לא תואמת את הדף הקודם.
 fp-neterror-http-auth-disabled-intro = מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו שם המשתמש, הססמה או הדוא״ל שלך.
 fp-neterror-http-auth-disabled-secure-connection = אתר זה דורש חיבור מאובטח, ולא ניתן להוסיף חריגה כדי לבקר בו.

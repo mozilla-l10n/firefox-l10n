@@ -668,8 +668,12 @@ pdfjs-views-manager-view-selector-button =
     .title = תצוגות
 pdfjs-views-manager-view-selector-button-label = תצוגות
 pdfjs-views-manager-pages-title = עמודים
+pdfjs-views-manager-outlines-title1 = תוכן העניינים של המסמך
+    .title = הצגת תוכן העניינים של המסמך (יש ללחוץ לחיצה כפולה כדי להרחיב או לצמצם את כל הפריטים)
 pdfjs-views-manager-outlines-title = תוכן העניינים של המסמך
 pdfjs-views-manager-attachments-title = קבצים מצורפים
+pdfjs-views-manager-layers-title1 = שכבות
+    .title = הצגת שכבות (יש ללחוץ לחיצה כפולה כדי לאפס את כל השכבות למצב ברירת המחדל)
 pdfjs-views-manager-layers-title = שכבות
 pdfjs-views-manager-pages-option-label = עמודים
 pdfjs-views-manager-outlines-option-label = תוכן העניינים של המסמך
@@ -690,6 +694,7 @@ pdfjs-views-manager-pages-status-action-button-label = ניהול
 pdfjs-views-manager-pages-status-copy-button-label = העתקה
 pdfjs-views-manager-pages-status-cut-button-label = גזירה
 pdfjs-views-manager-pages-status-delete-button-label = מחיקה
+pdfjs-views-manager-pages-status-export-selected-button-label = ייצוא הפריטים שנבחרו…
 pdfjs-views-manager-pages-status-save-as-button-label = שמירה בשם…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -730,6 +735,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = להדביק אחרי עמוד { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = חדש
 pdfjs-toggle-views-manager-button1 =
     .title = ניהול עמודים
 
