@@ -1226,6 +1226,15 @@ panel-save-update-password = 密碼
 # "More" item in macOS share menu
 menu-share-more =
     .label = 更多…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] 複製鏈結
+           *[other] 複製 { $count } 個鏈結
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = 複製鏈結
     .accesskey = L

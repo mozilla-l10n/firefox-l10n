@@ -18,6 +18,16 @@ firefox-relay-must-login-to-account = 登入帳號即可使用您的 { -relay-br
 firefox-relay-get-unlimited-masks =
     .label = 管理轉寄信箱
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header = 您已用完全部 { $count } 個免費轉寄信箱
+firefox-relay-reuse-masks-description = 您可以重複使用現有的轉寄信箱，但對每個網站使用不同的轉寄信箱較為安全。<label data-l10n-name="learn-more-url">升級至無限信箱方案</label>
+firefox-relay-reuse-masks-select-label = 選擇近期產生的轉寄信箱
+firefox-relay-see-all-masks =
+    .label = 檢視所有轉寄信箱
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = 知道了！
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = 保護您的電子郵件信箱：
 firefox-relay-opt-in-title-2 = 取得免費轉寄信箱

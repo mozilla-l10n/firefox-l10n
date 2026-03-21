@@ -188,3 +188,19 @@ bar-tooltip-cryptominer =
         { $count ->
            *[other] { $count } 組加密貨幣採礦程式（{ $percentage }%）
         }
+# Privacy Metrics Card
+privacy-metrics-title = 隱私保護
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers = { $count } 組追蹤器
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters = { $count } 個數位指紋追蹤程式
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies = { $count } 個追蹤用 Cookie
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social = { $count } 個社群網路追蹤器
+privacy-metrics-loading = 正在載入保護統計…
+privacy-metrics-error = 無法載入保護統計資訊。
