@@ -2259,6 +2259,14 @@ preferences-doh-overview-default =
 preferences-doh-overview-custom =
     .label = Personalizado
     .description = Utilizar siempre DNS seguro con control sobre su proveedor y comportamiento de respaldo.
+preferences-doh-overview-off =
+    .label = Desactivado
+    .description = Utilice su solucionador de DNS predeterminado.
+preferences-doh-advanced-button =
+    .label = Ajustes avanzados
+preferences-doh-radio-default =
+    .label = Predeterminado
+    .description = Utilizar DNS seguro en regiones donde esté disponible
 
 ## The following strings are used in the Download section of settings
 
@@ -2356,6 +2364,12 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-strict =
+    .label = Estricto
+    .description = Mejores protecciones que bloquean más rastreadores, pero que pueden causar que ciertas páginas dejen de funcionar correctamente.
+preferences-etp-level-custom =
+    .label = Personalizado
+    .description = Seleccione qué protecciones activar o desactivar.
 preferences-etp-status-advanced-button =
     .label = Configuración avanzada
 preferences-etp-header =
@@ -2392,3 +2406,21 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Presuntos detectores de huellas digitales
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Presuntos detectores de huellas digitales
+
+## Warnings section
+
+security-privacy-issue-warning-password-manager =
+    .label = El gestor de contraseñas está desactivado
+    .description = Los gestores de contraseñas le ayudan a almacenar contraseñas seguras para sus cuentas.
+security-privacy-issue-warning-popup-blocker =
+    .label = El bloqueador de ventanas emergentes (popups) está desactivado
+    .description = Las ventanas emergentes son disruptivas y potencialmente dañinas.
+security-privacy-issue-warning-extension-install =
+    .label = Las páginas web pueden instalar extensiones
+    .description = Las páginas web pueden instalar extensiones en { -brand-short-name } sin pedir permiso.
+security-privacy-issue-warning-safe-browsing =
+    .label = El contenido peligroso y engañoso no está siendo bloqueado
+    .description = Está más expuesto ante estafas y software malicioso proveniente de páginas web.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = La configuración automática de proxy está activada
+    .description = La configuración automática del proxy puede permitir que redes no fiables vigilen su actividad.
