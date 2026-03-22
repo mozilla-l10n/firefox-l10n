@@ -188,3 +188,9 @@ bar-tooltip-cryptominer =
         { $count ->
            *[other] { $count } ตัวขุดเหรียญดิจิทัล ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = การปกป้องความเป็นส่วนตัว
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week = { $count } ถูกปิดกั้นในสัปดาห์นี้
+privacy-metrics-empty = ไม่มีตัวติดตามถูกปิดกั้นในสัปดาห์นี้ { -brand-short-name } ปกป้องคุณจากอันตรายต่าง ๆ ในขณะที่คุณเรียกดู

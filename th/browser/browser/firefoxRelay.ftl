@@ -18,6 +18,8 @@ firefox-relay-must-login-to-account = ลงชื่อเข้าบัญช
 firefox-relay-get-unlimited-masks =
     .label = จัดการตัวปกปิด
     .accesskey = จ
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header = คุณได้ใช้ตัวปกปิดอีเมลฟรีทั้งหมด { $count } อันแล้ว
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ปกป้องที่อยู่อีเมลของคุณ:
 firefox-relay-opt-in-title-2 = รับตัวปกปิดอีเมลฟรี

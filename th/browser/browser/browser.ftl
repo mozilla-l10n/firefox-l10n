@@ -1214,6 +1214,11 @@ panel-save-update-password = รหัสผ่าน
 # "More" item in macOS share menu
 menu-share-more =
     .label = เพิ่มเติม…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label = คัดลอก { $count } ลิงก์
+    .accesskey = ง
 menu-share-copy-link =
     .label = คัดลอกลิงก์
     .accesskey = ง
