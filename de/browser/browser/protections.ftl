@@ -233,6 +233,13 @@ privacy-metrics-cookies =
         [one] { $count } Cookie zur Aktivitätenverfolgung
        *[other] { $count } Cookies zur Aktivitätenverfolgung
     }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sozialer Tracker
+       *[other] { $count } soziale Tracker
+    }
 privacy-metrics-empty = Diese Woche wurden keine Tracker blockiert. { -brand-short-name } schützt Sie beim Surfen vor den folgenden Bedrohungen.
 privacy-metrics-loading = Schutzmaßnahmen-Statistiken werden geladen…
 privacy-metrics-error = Schutzmaßnahmen können nicht geladen werden.
