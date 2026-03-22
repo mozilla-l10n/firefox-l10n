@@ -25,6 +25,8 @@ neterror-override-exception-button = Riski kabul ederek devam et
 neterror-pref-reset-button = Varsayılan ayarları geri yükle
 neterror-return-to-previous-page-button = Geri dön
 neterror-return-to-previous-page-recommended-button = Geri dön (Önerilir)
+neterror-try-again-button-2 = Yeniden dene
+    .accesskey = Y
 neterror-try-again-button = Yeniden dene
 neterror-add-exception-button = Bu site için her zaman devam et
 neterror-settings-button = DNS ayarlarını değiştir
@@ -176,12 +178,15 @@ neterror-response-status-code = Hata kodu: { $responsestatus } { $responsestatus
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = İnternet bağlantınızla ilgili bir sorun var
+fp-neterror-illustration-alt =
+    .alt = Bağlantısı kesilmiş ağ kablolarına bakan tilki resmi.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }, { $hostname } sunucusuyla güvenli bir bağlantı kuramıyor.
 fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> sunucusuna bağlanamadı
+fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> sunucusunun yanıt vermesi çok uzun sürüyor.
 fp-neterror-coop-coep-intro = Bu sayfanın güvenlik yapılandırması bir önceki sayfayla eşleşmediği için { -brand-short-name } bu sayfayı yüklemedi.
 fp-neterror-http-auth-disabled-intro = Birisi bu siteyi taklit ederek kullanıcı adınız, parolanız veya e-postanız gibi bilgileri çalmaya çalışabilir.
 fp-neterror-http-auth-disabled-secure-connection = Bu site güvenli bir bağlantı gerektiriyor ve siteyi ziyaret etmek için istisna ekleyemezsiniz.

@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Siteyi yeni pencerede aç
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Bu sayfayı başka bir site gömdüyse { $hostname } güvenliğinizi korumak için  { -brand-short-name } tarayıcınızın sayfayı görüntülemesine izin vermez. Bu sayfayı görmek için yeni bir pencerede açmanız gerekir.
 fp-certerror-view-certificate-link = Sitenin sertifikasını göster
+fp-certerror-return-to-previous-page-recommended-button-2 = Geri dön (önerilen)
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Geri dön (önerilen)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = { -brand-short-name } başka bir yazılım nedeniyle bu s
 
 fp-certerror-page-title = Uyarı: Güvenlik Riski
 fp-certerror-body-title = Dikkatli olun. Doğru görünmeyen bir şeyler var.
+fp-certerror-illustration-alt =
+    .alt = Turuncu bir uyarı işaretine bakan tilki resmi.
 fp-certerror-why-site-dangerous = Bu site neden tehlikeli görünüyor?
 fp-certerror-what-can-you-do = Ne yapabilirsiniz?
 fp-certerror-advanced-title = Gelişmiş
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = { $hostname } sitesine devam et (riskli
 fp-certerror-intro = { -brand-short-name }, <strong>{ $hostname }</strong> sitesiyle ilgili ciddi olabilecek bir güvenlik sorunu tespit etti. Bu siteymiş gibi davranan birisi kredi kartı bilgileriniz, parolalarınız ve e-postalarınız gibi şeyleri çalmaya çalışabilir.
 fp-certerror-expired-into = { -brand-short-name } <strong>{ $hostname }</strong> sitesiyle ilgili bir güvenlik sorunu tespit etti. Ya site doğru kurulmamış ya da cihazınızın tarih/saat ayarları yanlış.
 fp-certerror-transparency-intro = Birisi <strong>{ $hostname }</strong> sitesini taklit ederek kredi kartı bilgileriniz, parolalarınız veya e-postalarınız gibi bilgileri çalmaya çalışabilir.
+fp-certerror-override-exception-button-2 = { $hostname } sitesine devam et (riskli)
+    .accesskey = d

@@ -2463,6 +2463,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-popup-blocker =
+    .label = Açılır pencere engelleyici devre dışı
+    .description = Açılır pencereler rahatsız edici ve bazen de zararlı olabilir.
 security-privacy-issue-warning-doh =
     .label = HTTPS üzerinden DNS devre dışı
     .description = HTTPS üzerinden DNS, hangi siteleri ziyaret ettiğinizi servis sağlayıcınızdan gizler.

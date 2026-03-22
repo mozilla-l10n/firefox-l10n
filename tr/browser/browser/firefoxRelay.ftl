@@ -18,6 +18,9 @@ firefox-relay-must-login-to-account = { -relay-brand-name } e-posta maskeleriniz
 firefox-relay-get-unlimited-masks =
     .label = Maskeleri yönet
     .accesskey = M
+firefox-relay-dismiss =
+    .label = Kapat
+    .accesskey = K
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = E-posta adresinizi koruyun:
 firefox-relay-opt-in-title-2 = Ücretsiz e-posta maskenizi oluşturun
