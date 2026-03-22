@@ -531,6 +531,9 @@ check-user-spelling =
     .accesskey = v
 spellcheck-download-dictionaries =
     .label = Descargar diccionarios
+spellcheck-promo =
+    .heading = Cómo usar el corrector ortográfico
+    .message = Haga clic en un campo de texto para activar o desactivar el corrector ortográfico o para cambiar el idioma. No todos los campos permiten uso del corrector ortográfico.
 
 ## General Section - Files and Applications
 
@@ -788,6 +791,13 @@ network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
     .label = Configuración…
     .accesskey = o
+network-proxy-group2 =
+    .label = Configuración de proxy
+    .description = Configure cómo { -brand-short-name } se conecta al internet.
+network-proxy-connection-settings2 =
+    .label = Configurar proxy
+    .description = Cambiar estos ajustes puede ocasionar problemas de conectividad
+    .accesskey = p
 
 ## Home Section
 
@@ -1593,6 +1603,9 @@ history-remember-label = { -brand-short-name } podrá
     .accesskey = o
 history-remember-option-all =
     .label = Recordar el historial
+history-remember-option-never2 =
+    .label = No recordar el historial
+    .description = Todas las pestañas se comportan como una pestaña privada. Cuando esta función está activada, las extensiones deben ser autorizadas.
 history-remember-option-custom2 =
     .label = Personalizar historial
 history-remember-option-never =
@@ -1630,6 +1643,12 @@ history-clear-button =
     .accesskey = s
 history-header2 =
     .heading = Historial
+history-section-header =
+    .label = Historial
+    .description = Elija lo que desea que { -brand-short-name } recuerde al cerrar el navegador.
+history-custom-section-header =
+    .label = Ajustes avanzados
+    .description = Personalice lo que desea que { -brand-short-name } recuerde al cerrar el navegador.
 history-custom-button =
     .label = Seleccione qué quiere que { -brand-short-name } recuerde
 history-group =
@@ -1658,6 +1677,9 @@ sitedata-delete-on-close =
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de su sesión cuando cierra el navegador.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = El historial no se guardará.
+    .message = { -brand-short-name } eliminará las cookies y datos web de su sesión al cerrar el navegador.
 sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos del sitio siempre se borrarán cuando se cierre { -brand-short-name } .
 sitedata-delete-on-close-private-browsing2 = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de su sesión cuando cierra el navegador.
 sitedata-allow-cookies-option =
@@ -1703,9 +1725,16 @@ sitedata-cookies-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
     .description = Puede especificar que sitios web tienen siempre permitido o prohibido usar cookies y datos de sitio.
+sitedata-heading =
+    .label = Datos de búsqueda.
+    .description = Gestione sus cookies, historial, caché, datos web y más.
 sitedata-settings3 =
     .label = Borrar datos para sitios específicos
     .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Administrar excepciones
+    .accesskey = x
+    .description = Seleccione la manera en la que sitios web específicos manejan las cookies y los datos web.
 cookies-site-data-group =
     .label = Cookies y datos del sitio
 
@@ -2014,6 +2043,9 @@ permissions-speaker2 =
     .label = Altavoz
 permissions-notification2 =
     .label = Notificaciones
+permissions-header3 =
+    .label = Permisos
+    .description = Gestione lo que las páginas web pueden acceder, controlar o activar.
 
 ## Privacy Section - Data Collection
 
@@ -2028,6 +2060,8 @@ collection-description = Nos esforzamos en proporcionarle opciones y recopilamos
 collection-privacy-notice = Aviso sobre privacidad
 collection-health-report-telemetry-disabled = Ya no permite que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
 collection-health-report-telemetry-disabled-link = Saber más
+backup-multi-profile-warning-message =
+    .message = Para garantizar que este cambio sea incluido en sus copias de seguridad, abra cada perfil y seleccione “Hacer copia de seguridad ahora” en Ajustes.
 collection-usage-ping =
     .label = Enviar ping de uso diario a { -vendor-short-name }
     .accesskey = u
@@ -2088,11 +2122,16 @@ website-advertising-private-attribution-description = Esto ayuda a los sitios a 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
+browsing-protection-group2 =
+    .label = Protección contra contenido engañoso y software peligroso
+    .description = Páginas web y descargas peligrosas pueden poner en peligro sus datos y dispositivo. { -brand-short-name } las bloquea automáticamente, y le advierte sobre software peligroso o no deseado.
 security-browsing-protection = Protección contra contenido engañoso y software peligroso
 security-enable-safe-browsing =
     .label = Bloquear contenido peligroso y engañoso
     .accesskey = B
 security-enable-safe-browsing-link = Saber más
+security-safe-browsing-warning =
+    .message = Desactivar esta función reduce la protección ante estafas, páginas maliciosas y descargas peligrosas.
 security-block-downloads =
     .label = Bloquear descargas peligrosas
     .accesskey = d
@@ -2121,6 +2160,15 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en disco. </strong>Los contenidos del sitio web pueden no mostrarse correctamente. Puede limpiar los datos de sitios guardados en Ajustes > Privacidad & Seguridad> Cookies y datos del sitio.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } se está quedando sin espacio en disco.</strong> Los contenidos del sitio web pueden no mostrarse correctamente. Visite “Saber más” para optimizar su uso de disco y mejorar la experiencia de navegación.
+certs-description3 =
+    .label = Certificados
+    .description = Configure los certificados que { -brand-short-name } utiliza para verificar conexiones seguras.
+certs-view2 =
+    .label = Administrar certificados
+    .accesskey = c
+certs-devices2 =
+    .label = Administrar dispositivos de seguridad
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
@@ -2147,6 +2195,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS sobre HTTPS
+dns-over-https-group2 =
+    .label = DNS sobre HTTPS
+    .description = Domain Name System (Sistema de Nombres de Dominio) sobre HTTPS (DoH) cifra sus consultas web para complicar que su proveedor de internet u otros  puedan ver qué páginas web está visitando.
 preferences-doh-description = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que crea un DNS seguro y hace más difícil que otros vean que sitio web está tratando de acceder.
 preferences-doh-description2 = El sistema de nombres de dominio (DNS) sobre HTTPS envía los pedidos de un nombre de dominio a través de una conexión cifrada, lo que proporciona un DNS seguro y hace más difícil que otros vean qué sitio web está tratando de acceder.
 # Variables:
@@ -2202,6 +2253,12 @@ preferences-doh-exceptions-description = { -brand-short-name } no usará DNS seg
 preferences-doh-manage-exceptions =
     .label = Administrar excepciones…
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protección predeterminada
+    .description = Utilizar DNS seguro en regiones donde esté disponible.
+preferences-doh-overview-custom =
+    .label = Personalizado
+    .description = Utilizar siempre DNS seguro con control sobre su proveedor y comportamiento de respaldo.
 
 ## The following strings are used in the Download section of settings
 
