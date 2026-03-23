@@ -198,6 +198,7 @@ applications-filter =
 applications-type-column =
     .label = உள்ளடக்க வகை
     .accesskey = T
+applications-type-heading = உள்ளடக்க வகை
 applications-action-column =
     .label = செயல்
     .accesskey = A
