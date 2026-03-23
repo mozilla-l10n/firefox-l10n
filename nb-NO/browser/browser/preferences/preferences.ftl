@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokker sprettoppvinduer og tredjepartvideresendinger
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Behandle unntak
+    .description = Legg til nettsteder som kan åpne sprettoppvinduer og bruke tredjepartsomdirigeringer.
+    .accesskey = u
+    .searchkeywords = sprettoppvinduer
 permissions-addon-install-warning3 =
     .label = Vis advarsel når nettsteder prøver å installere utvidelser
     .accesskey = a

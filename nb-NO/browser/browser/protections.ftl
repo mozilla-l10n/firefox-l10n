@@ -202,3 +202,33 @@ bar-tooltip-cryptominer =
             [one] { $count } kryptominer ({ $percentage }%)
            *[other] { $count } kryptoutvinnere ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Personvernbeskyttelser
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week = { $count } blokkert denne uken
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } sporer
+       *[other] { $count } sporere
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } nettleseravtrykksporer
+       *[other] { $count } nettleseravtrykksporere
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } sporingsinfokapsel
+       *[other] { $count } sporingsinfokapsler
+    }
+privacy-metrics-empty = Ingen sporere blokkert denne uken. { -brand-short-name } beskytter deg mot følgende trusler mens du surfer.
+privacy-metrics-loading = Laster inn beskyttelsesstatistikk …
+privacy-metrics-error = Klarte ikke å laste inn beskyttelsesstatistikk.
+privacy-metrics-private-window = { -brand-short-name } fortsetter å blokkere sporere i private vinduer, men lagrer ikke en oversikt over hva som ble blokkert.

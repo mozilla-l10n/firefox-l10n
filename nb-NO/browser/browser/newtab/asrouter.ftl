@@ -310,6 +310,7 @@ tail-fox-spotlight-secondary-button = Ikke nå
 
 welcome-back-spotlight-title = Gå tilbake til innebygd personvern
 welcome-back-spotlight-subtitle = Velkommen tilbake til den eneste store nettleseren som er støttet av en ideell organisasjon. Vi tar ekstra grep for å beskytte dataene dine uansett hvor du surfer.
+welcome-back-embedded-import-title = Importer dataene dine og gjør { -brand-short-name } til ditt eget
 
 ## Root Certificate Succession Infobar
 
