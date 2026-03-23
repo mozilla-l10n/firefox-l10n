@@ -214,9 +214,11 @@ applications-filter =
 applications-type-column =
     .label = ប្រភេទ​មាតិកា
     .accesskey = ក
+applications-type-heading = ប្រភេទ​មាតិកា
 applications-action-column =
     .label = អំពើ
     .accesskey = ព
+applications-action-heading = អំពើ
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = ឯកសារ { $extension }
@@ -293,6 +295,9 @@ update-application-manual =
 update-application-use-service =
     .label = ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព
     .accesskey = b
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -389,6 +394,9 @@ use-current-pages =
 choose-bookmark =
     .label = ប្រើ​ចំណាំ…
     .accesskey = ច
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -495,6 +503,9 @@ containers-add-button =
 containers-remove-button =
     .label = លុប​ចេញ
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -530,6 +541,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } មិន​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់។
 sync-signedin-login-failure = សូម​ចូល​ដើម្បី​តភ្ជាប់​ឡើង​វិញ { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -756,6 +772,12 @@ sitedata-settings =
 cookies-site-data-group =
     .label = ខូឃី និងទិន្នន័យ​គេហទំព័រ
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = របារអាសយដ្ឋាន
@@ -794,6 +816,9 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-cookies-label =
     .label = ​ខូគី
     .accesskey = ខ
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -850,6 +875,9 @@ collection-health-report-link = ស្វែងយល់​​បន្ថែម
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ការ​រាយការណ៍​ទិន្នន័យ​ត្រូវ​បាន​បិទ​សម្រាប់​ការ​កំណត់​រចនាសម្ព័ន្ធ​កំណែ​នេះ
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -882,6 +910,12 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = បើក FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ផ្ទៃតុ
@@ -892,3 +926,12 @@ choose-download-folder-title = ជ្រើស​ថត​ទាញ​យក �
 
 preferences-ai-controls-block-confirmation-cancel =
     .label = បោះបង់
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
