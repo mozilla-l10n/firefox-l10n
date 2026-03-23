@@ -306,6 +306,10 @@ tail-fox-spotlight-subtitle = Emboyke umi marandu tapykuehoha ha eike ñanduti h
 tail-fox-spotlight-primary-button = Embojuruja juajuha { -brand-short-name } ndive
 tail-fox-spotlight-secondary-button = Ani ko’ág̃a
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Ehayhu jey tekoñemi juajupyre
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Apopyre itujavéva { -brand-short-name } rehegua iñapañuaikuaa 14 jasyteĩ ary 2025 guive.</strong>

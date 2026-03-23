@@ -24,6 +24,13 @@ firefox-relay-reuse-masks-header =
         [one] Eiporupáma { $count } ñanduti veve rovamo’ãha reigua
        *[other] Eiporupáma { $count } ñanduti veve rovamo’ãha reigua
     }
+firefox-relay-reuse-masks-select-label = Eiporavo tovamo’ãha ramogua
+firefox-relay-see-all-masks =
+    .label = Ehechapa tovamo’ãha
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Mboyke
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Emo’ã ñanduti veve kundaharape:
 firefox-relay-opt-in-title-2 = Ereko ñanduti veve rovamo’ãha reigua
