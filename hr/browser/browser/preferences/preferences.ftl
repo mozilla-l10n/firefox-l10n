@@ -563,9 +563,11 @@ applications-filter =
 applications-type-column =
     .label = Vrsta sadržaja
     .accesskey = t
+applications-type-heading = Vrsta sadržaja
 applications-action-column =
     .label = Radnja
     .accesskey = R
+applications-action-heading = Radnja
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } datoteka
@@ -2223,3 +2225,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Odustani
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokiraj
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
