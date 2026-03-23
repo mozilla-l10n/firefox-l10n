@@ -35,8 +35,6 @@ close-button =
 ## General Section
 
 startup-header = ஆரம்பிக்க
-is-default-browser =
-    .message = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
 is-default = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
 startup-group =
     .label = ஆரம்பிக்க
@@ -315,4 +313,16 @@ certs-header = சான்றிதழ்கள்
 
 
 ## The following strings are used in the Download section of settings
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
 
