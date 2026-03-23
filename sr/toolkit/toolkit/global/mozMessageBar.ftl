@@ -2,6 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+moz-message-bar-icon-info =
+    .alt = Информација
+moz-message-bar-icon-warning =
+    .alt = Упозорење
+moz-message-bar-icon-success =
+    .alt = Успех
+moz-message-bar-icon-error =
+    .alt = Грешка
 moz-message-bar-close-button =
     .aria-label = Затвори
     .title = Затвори

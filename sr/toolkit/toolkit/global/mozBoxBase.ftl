@@ -2,4 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-cookie-banner-handled-webconsole = { -brand-shorter-name } је обрадио врпцу за колачиће у име корисника.
+moz-box-link-anchor =
+    .title = Отвара се у новом језичку

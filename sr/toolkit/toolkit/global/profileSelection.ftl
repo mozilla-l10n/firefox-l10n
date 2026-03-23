@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Не питај при следећем покретању
     .accesskey = с
+profile-has-selectable-profiles-title = Не могу да обришем профил који је повезан са другим профилима
+profile-has-selectable-profiles-message = Да бисте обрисали овај профил, отворите га и изаберите „Управљај профилима“ из одељка са профилима у менију { -brand-short-name }. Након што обришете све додатне профиле које сте овде направили, можете се вратити на about:profiles и обрисати овај профил.

@@ -23,3 +23,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Не приказуј поново
     .accesskey = Н
 sandbox-unprivileged-namespaces-howtofix = Како решити овај проблем
+sandbox-content-disabled-warning = Сигурносно изоловано окружење (sandbox) је онемогућено. Ваша конфигурација је неподржана и мање безбедна.

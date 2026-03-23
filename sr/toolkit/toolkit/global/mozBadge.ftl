@@ -2,4 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-cookie-banner-handled-webconsole = { -brand-shorter-name } је обрадио врпцу за колачиће у име корисника.
+
+## A small badge added to feature (text in a bordered or coloured box)
+## labels or buttons to indicate "New" or in "Beta".
+
+moz-badge-beta = Бета
+moz-badge-new = Ново

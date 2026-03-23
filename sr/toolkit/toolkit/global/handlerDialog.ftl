@@ -18,6 +18,19 @@ permission-dialog-description-app = Дозволити да овај сајт о
 permission-dialog-description-host-app = Дозволити да { $host } отвори { $scheme } везу помоћу програма { $appName }?
 permission-dialog-description-file-app = Дозволити да ова датотека отвара { $scheme } везе помоћу програма { $appName }?
 permission-dialog-description-extension-app = Дозволити додатку { $extension } да отвори { $scheme } везу путем { $appName }-а?
+permission-dialog-description-system-app = Желите ли да отворите { $scheme } везу помоћу апликације { $appName }?
+permission-dialog-description-system-noapp = Желите ли да отворите { $scheme } везу?
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = Желите ли да дозволите овом сајту да отвори ваш дигитални новчаник?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Отварање <strong>{ $scheme }</strong> везе омогућава сајту <strong>{ $host }</strong> да затражи ваш стварни идентитет помоћу апликације <strong>{ $appName }</strong>. Наставите само ако верујете овом сајту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Отварање <strong>{ $scheme }</strong> везе омогућава овом сајту да затражи ваш стварни идентитет помоћу апликације <strong>{ $appName }</strong>. Наставите само ако верујете овом сајту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Отварање <strong>{ $scheme }</strong> везе омогућава сајту <strong>{ $host }</strong> да затражи ваш стварни идентитет из вашег дигиталног новчаника. Наставите само ако верујете овом сајту.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Отварање <strong>{ $scheme }</strong> везе омогућава овом сајту да затражи ваш стварни идентитет из вашег дигиталног новчаника. Наставите само ако верујете овом сајту.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start

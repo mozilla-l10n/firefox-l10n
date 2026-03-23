@@ -166,6 +166,7 @@ language-name-se = северни сами
 language-name-sg = санго
 language-name-si = сингалски
 language-name-sk = словачки
+language-name-skr = сараики
 language-name-sl = словеначки
 language-name-sm = самоански
 language-name-sn = шона

@@ -262,6 +262,7 @@ region-name-xe = Острво Европа
 region-name-xg = Појас Газе
 region-name-xh = Оство Хауланд
 region-name-xj = Јан Мајен
+region-name-xk = Косово и Метохија
 region-name-xl = Палмира
 region-name-xm = Кингмен
 region-name-xp = Острва Парасел
