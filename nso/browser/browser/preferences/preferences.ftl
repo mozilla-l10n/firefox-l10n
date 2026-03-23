@@ -41,8 +41,6 @@ should-restart-title = Thoma { -brand-short-name } ka leswa
 ## General Section
 
 startup-header = Thoma
-is-default-browser =
-    .message = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
 is-default = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
 tabs-group-header2 =
     .label = Dithepe
@@ -314,9 +312,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
 history-dontremember-description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
 history-private-browsing-permanent =
     .label = Ka mehla diriša mokgwa wa go praosa wa praebete
@@ -396,3 +391,15 @@ certs-devices-enable-fips = Kgontšha FIPS
 desktop-folder-name = Tesekethopo
 downloads-folder-name = Ditaollo
 choose-download-folder-title = Kgetha foltara ya go laolla:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
