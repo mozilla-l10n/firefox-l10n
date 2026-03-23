@@ -30,6 +30,10 @@ options-context-inspector = Inspector
 options-show-user-agent-styles-label = Show Browser Styles
 options-show-user-agent-styles-tooltip =
     .title = Turning this on will show default styles that are loaded by the browser.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Прикажи DOM сенку прегледача
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Укључивање овога ће приказати Shadow DOM елементе којима управља прегледач.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Truncate DOM attributes
 options-collapse-attrs-tooltip =
@@ -43,6 +47,11 @@ options-inspector-draggable-properties-tooltip =
 options-inspector-simplified-highlighters-label = Use simpler highlighters with prefers-reduced-motion
 options-inspector-simplified-highlighters-tooltip =
     .title = Enables simplified highlighters when prefers-reduced-motion is enabled. Draws lines instead of filled rectangles around highlighted elements to avoid flashing effects.
+# The label for the checkbox option to make the Enter key move the focus to the next input
+# when editing a property name or value in the Inspector rules view
+options-inspector-rules-focus-next-on-enter-label = Фокусирај следећи унос на <kbd>Enter</kbd>
+options-inspector-rules-focus-next-on-enter-tooltip =
+    .title = Када је омогућено, притисак на тастер Enter приликом уређивања селектора, назива својства или вредности ће померити фокус на следећи унос.
 
 ## "Default Color Unit" options for the Inspector
 
@@ -53,6 +62,15 @@ options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
 options-default-color-unit-hwb = HWB
 options-default-color-unit-name = Color Names
+
+## Web Console section
+
+# The heading
+options-webconsole-label = Веб конзола
+# The label for the checkbox that toggle whether the Split console is enabled
+options-webconsole-split-console-label = Омогући подељену конзолу
+options-webconsole-split-console-tooltip =
+    .title = Отвори подељену конзолу помоћу тастера Escape
 
 ## Style Editor section
 
@@ -102,6 +120,8 @@ options-disable-http-cache-label = Disable HTTP Cache (when toolbox is open)
 options-disable-http-cache-tooltip =
     .title = Turning this option on will disable the HTTP cache for all tabs that have the toolbox open. Service Workers are not affected by this option.
 # The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = Онемогући JavaScript
+# The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Disable JavaScript *
 options-disable-javascript-tooltip =
     .title = Turning this option on will disable JavaScript for the current tab. If the tab or the toolbox is closed then this setting will be forgotten.
@@ -130,4 +150,10 @@ options-source-maps-label = Enable Source Maps
 options-source-maps-tooltip =
     .title = If you enable this option sources will be mapped in the tools.
 # The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (само за тренутну сесију, поново учитава страницу)
+# The message shown for settings that trigger page reload and will only apply to the current session
 options-context-triggers-page-refresh = * Current session only, reloads the page
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (поново учитава страницу)

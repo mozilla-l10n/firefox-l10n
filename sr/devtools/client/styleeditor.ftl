@@ -49,3 +49,13 @@ styleeditor-stylesheet-rule-count =
         [few] { $ruleCount } rules.
        *[other] { $ruleCount } rules.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Улепшано штампање стилског листа
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Могу се улепшано штампати само CSS датотеке
+# Title for the pretty print button in the editor footer, when it's disabled because
+# the stylesheet is read-only
+styleeditor-pretty-print-button-disabled-read-only =
+    .title = Не може се улепшано штампати стилски лист који је само за читање.

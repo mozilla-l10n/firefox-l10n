@@ -33,6 +33,7 @@ perftools-description-local-build =
     If you’re profiling a build that you have compiled yourself, on this
     machine, please add your build’s objdir to the list below so that
     it can be used to look up symbol information.
+perftools-pick-local-build-directory = Изаберите директоријум изградње
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -68,6 +69,14 @@ perftools-button-restart = Restart
 perftools-button-add-directory = Add a directory
 perftools-button-remove-directory = Remove selected
 perftools-button-edit-settings = Edit Settings…
+
+## More actions menu
+
+perftools-menu-more-actions-button =
+    .title = Још радњи
+perftools-menu-more-actions-restart-with-profiling = Поново покрените { -brand-shorter-name } са укљученим профилисањем при покретању
+perftools-menu-more-actions-copy-for-startup = Умножите променљиве окружења за профилисање при покретању
+perftools-menu-more-actions-copy-for-perf-tests = Умножите параметре за тестове перформанси
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
@@ -141,9 +150,15 @@ perftools-presets-graphics-label = Graphics
 perftools-presets-graphics-description = Preset for investigating graphics bugs in { -brand-shorter-name }.
 perftools-presets-media-label = Media
 perftools-presets-media-description2 = Preset for investigating audio and video bugs in { -brand-shorter-name }.
+perftools-presets-ml-label = Машинско учење
+perftools-presets-ml-description2 = Подешеност за истраживање грешака машинског учења у { -brand-shorter-name }.
 perftools-presets-networking-label = Networking
 perftools-presets-networking-description = Preset for investigating networking bugs in { -brand-shorter-name }.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Power
 perftools-presets-power-description = Preset for investigating power use bugs in { -brand-shorter-name }, with low overhead.
+perftools-presets-debug-label = Уклањање грешака
+perftools-presets-debug-description = Подешеност за уклањање грешака у { -brand-shorter-name }. Високо оптерећење, не користите за рад на перформансама већ за фокусирање на разумевање понашања прегледача.
+perftools-presets-web-compat-label = Веб компатибилност
+perftools-presets-web-compat-description = Препоручена подешеност за уклањање грешака у вези са веб компатибилношћу на веб страницама, радије него за праћење перформанси.
 perftools-presets-custom-label = Custom
