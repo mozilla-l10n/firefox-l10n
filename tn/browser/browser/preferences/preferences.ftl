@@ -38,10 +38,6 @@ should-restart-title = Simolola { -brand-short-name } sešwa
 ## General Section
 
 startup-header = Tshimololosešwa
-is-default-browser =
-    .message = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
-is-not-default-browser =
-    .message = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
 is-default = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
 is-not-default = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
 tabs-group-header2 =
@@ -103,6 +99,7 @@ download-choose-folder =
 applications-action-column =
     .label = Kgato
     .accesskey = K
+applications-action-heading = Kgato
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = faele ya { $extension }
@@ -347,3 +344,15 @@ certs-devices-enable-fips = Kgontsha FIPS
 
 desktop-folder-name = Tesekopo
 choose-download-folder-title = Tlhopha setsholadifaele sa Kopololo:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
