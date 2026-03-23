@@ -450,9 +450,11 @@ applications-filter =
 applications-type-column =
     .label = Tipo de conteúdo
     .accesskey = T
+applications-type-heading = Tipo de conteúdo
 applications-action-column =
     .label = Ação
     .accesskey = A
+applications-action-heading = Ação
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Ficheiro { $extension }
@@ -575,6 +577,9 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -699,6 +704,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -959,6 +967,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1895,3 +1908,6 @@ preferences-etp-status-header =
 preferences-etp-advanced-settings-group =
     .label = Definições avançadas
     .description = Os sites utilizam rastreadores que seguem o que você faz online e para mostrar anúncios intrusivos. O { -brand-short-name } garante a sua proteção enquanto navega, bloqueando automaticamente a maioria dos rastreadores para que mantenha o controlo do seu rasto digital.
+
+## Warnings section
+
