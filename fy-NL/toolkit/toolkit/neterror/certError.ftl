@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Website iepenje yn nij finster
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Om jo feilichheid te beskermjen, stiet { $hostname } net ta dat { -brand-short-name } de side toant as in oare website dizze opnommen hat. Om dizze side te besjen moatte jo dizze iepenje yn in nij finster.
 fp-certerror-view-certificate-link = Sertifikaat fan de website besjen
+fp-certerror-return-to-previous-page-recommended-button-2 = Tebekgean (Oanrekommandearre)
+    .accesskey = g
 fp-certerror-return-to-previous-page-recommended-button = Tebekgean (Oanrekommandearre)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Software foarkomt dat { -brand-short-name } in befeilige 
 
 fp-certerror-page-title = Warskôging: befeiligingsrisiko
 fp-certerror-body-title = Wês foarsichtich. Eatwat sjocht der net goed út.
+fp-certerror-illustration-alt =
+    .alt = Yllustraasje fan in foks dy’t nei in oranje warskôgingsboerd sjocht.
 fp-certerror-why-site-dangerous = Wat makket dat dizze website gefaarlik liket?
 fp-certerror-what-can-you-do = Wat kinne jo hjir oan dwaan?
 fp-certerror-advanced-title = Avansearre
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Trochgean nei { $hostname } (Risikofol)
 fp-certerror-intro = { -brand-short-name } hat in mooglik earnstich befeiligingsprobleem mei <strong>{ $hostname }</strong> opmurken. Ien dy’t harren foardocht as de website kin saken lykas creditcardgegevens, wachtwurden of e-mailadressen probearje te stellen.
 fp-certerror-expired-into = { -brand-short-name } hat in befeiligingsprobleem ûntdekt mei <strong>{ $hostname }</strong>. Of de website is net goed ynsteld, of de klok fan jo apparaat is op de ferkearde datum/tiid ynsteld.
 fp-certerror-transparency-intro = Immen dy’t him foardocht as <strong>{ $hostname }</strong> kin dingen lykas jo brûkersnamme, wachtwurd of e-mailadressen probearje te stellen.
+fp-certerror-override-exception-button-2 = Trochgean nei { $hostname } (Risikofol)
+    .accesskey = T

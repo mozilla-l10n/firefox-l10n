@@ -25,6 +25,8 @@ neterror-override-exception-button = It risiko oanfurdigje en trochgean
 neterror-pref-reset-button = Standertynstellingen werom bringe
 neterror-return-to-previous-page-button = Tebek
 neterror-return-to-previous-page-recommended-button = Gean werom (oanrekommandearre)
+neterror-try-again-button-2 = Opnij probearje
+    .accesskey = j
 neterror-try-again-button = Probearje it opnij
 neterror-add-exception-button = Altyd trochgean foar dizze website
 neterror-settings-button = DNS-ynstellingen wizigje
@@ -176,12 +178,15 @@ neterror-response-status-code = Flaterkoade: { $responsestatus } { $responsestat
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = It liket derop dat der in probleem is mei jo ynternetferbining
+fp-neterror-illustration-alt =
+    .alt = Yllustraasje fan in foks dy’t nei loskeppele netwurkkabels sjocht.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kin gjin befeilige ferbining mei de server op { $hostname } oanmeitsje.
 fp-neterror-offline-intro = { -brand-short-name } kin gjin ferbining meitsje mei de server op <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = De server op <strong>{ $hostname }</strong> docht der te lang oer om te reagearjen.
 fp-neterror-coop-coep-intro = { -brand-short-name } hat dizze side net laden omdat it liket dat de befeiligingskonfiguraasje net oerienkomt mei dy fan de foarige side.
 fp-neterror-http-auth-disabled-intro = Immen dy’t him foardocht as de website kin probearje dingen lykas jo brûkersnamme, wachtwurd of e-mailadres te stellen.
 fp-neterror-http-auth-disabled-secure-connection = Dizze website fereasket in feilige ferbining, en jo kinne gjin útsûndering tafoegje om it te besykjen.

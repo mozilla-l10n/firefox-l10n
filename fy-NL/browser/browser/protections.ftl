@@ -242,3 +242,5 @@ privacy-metrics-social =
     }
 privacy-metrics-empty = Gjin trackers blokkearre dizze wike. { -brand-short-name } beskermet jo tsjin de folgjende bedrigingen as jo sneupe.
 privacy-metrics-loading = Beskermingsstatistiken lade…
+privacy-metrics-error = Kin beskermingsstatistiken net lade.
+privacy-metrics-private-window = { -brand-short-name } bliuwt trackers blokkearje yn priveefinsters, mar hâldt net by wat blokkearre is.
