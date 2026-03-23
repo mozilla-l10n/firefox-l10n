@@ -41,8 +41,6 @@ should-restart-title = Маны { -brand-short-name } хат ыыт
 ## General Section
 
 startup-header = Саҥаттан
-is-default-browser =
-    .message = Билигин куруук холбонор браузер - { -brand-short-name }
 is-default = Билигин куруук холбонор браузер - { -brand-short-name }
 tabs-group-header2 =
     .label = Кыбытыктар
@@ -313,9 +311,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
 history-dontremember-description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
 history-private-browsing-permanent =
     .label = Бүөмнээн көрүү эрэсиимигэр куруук үлэлииргэ
@@ -394,3 +389,15 @@ certs-header = Сэртипикээттэр
 desktop-folder-name = Үлэлиир сирэй (рабочий стол)
 downloads-folder-name = Хачайдааһыннар
 choose-download-folder-title = Хачайдааһыннар паапкаларын тал:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
