@@ -18,6 +18,19 @@ firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -r
 firefox-relay-get-unlimited-masks =
     .label = Behandle masker
     .accesskey = m
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+       *[other] Du har brukt opp alle { $count } gratis e-postalias
+    }
+firefox-relay-reuse-masks-description = Du kan gjenbruke et eksisterende e-postalias, men å bruke et unikt e-postalias for hvert nettsted er det sikreste alternativet. <label data-l10n-name="learn-more-url">Oppgrader for ubegrensede e-postalias</label>
+firefox-relay-reuse-masks-select-label = Velg et nylig brukt e-postalias
+firefox-relay-see-all-masks =
+    .label = Se alle e-postalias
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Avvis
+    .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Beskytt e-postadressen din:
 firefox-relay-opt-in-title-2 = Få et gratis e-postalias

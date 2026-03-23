@@ -306,6 +306,11 @@ tail-fox-spotlight-subtitle = Si farvel til irriterende annonse-sporere og opple
 tail-fox-spotlight-primary-button = Åpne lenkene mine med { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ikke nå
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Gå tilbake til innebygd personvern
+welcome-back-spotlight-subtitle = Velkommen tilbake til den eneste store nettleseren som er støttet av en ideell organisasjon. Vi tar ekstra grep for å beskytte dataene dine uansett hvor du surfer.
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Eldre versjoner av { -brand-short-name } kan begynne å få problemer 14. januar 2025.</strong>
