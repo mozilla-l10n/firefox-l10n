@@ -307,6 +307,10 @@ tail-fox-spotlight-subtitle = Can sıkıcı reklam takip kodlarını engelleyere
 tail-fox-spotlight-primary-button = Bağlantılarımı { -brand-short-name } ile aç
 tail-fox-spotlight-secondary-button = Şimdi değil
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Yerleşik gizliliğe geri dönün
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } tarayıcısının eski sürümleri 14 Ocak 2025’ten itibaren sorun yaşamaya başlayabilir.</strong>

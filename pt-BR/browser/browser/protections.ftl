@@ -203,3 +203,36 @@ bar-tooltip-cryptominer =
             [one] { $count } criptominerador ({ $percentage }%)
            *[other] { $count } criptomineradores ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Proteções de privacidade
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } bloqueado esta semana
+       *[other] { $count } bloqueados esta semana
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } rastreador
+       *[other] { $count } rastreadores
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } cookie de rastreamento
+       *[other] { $count } cookies de rastreamento
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } rastreador de mídias sociais
+       *[other] { $count } rastreadores de mídias sociais
+    }
+privacy-metrics-empty = Nenhum rastreador bloqueado esta semana. O { -brand-short-name } te protege das seguintes ameaças enquanto você navega.
+privacy-metrics-loading = Carregando estatísticas de proteção…
+privacy-metrics-error = Não foi possível carregar estatísticas de proteção.

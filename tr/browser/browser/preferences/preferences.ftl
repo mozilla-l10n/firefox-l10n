@@ -1999,6 +1999,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Açılır pencereleri ve üçüncü taraf yönlendirmelerini engelle
     .accesskey = A
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = İstisnaları yönet
+    .description = Açılır pencere açabilecek ve üçüncü taraf  yönlendirmeleri kullanabilecek siteleri ekleyin.
+    .accesskey = s
+    .searchkeywords = popups
 permissions-addon-install-warning3 =
     .label = Siteler uzantı yüklemeye çalıştığında uyarı göster
     .accesskey = S
@@ -2406,6 +2413,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Gelişmiş izlenme koruması
+    .description = Siteler internette sizi takip etmek ve rahatsız edici reklamlar göstermek için takip kodlarını kullanır. { -brand-short-name }, internette gezinirken sizi korur ve takip kodlarını otomatik olarak engelleyerek dijital izinizin kontrolünü size verir.
 preferences-etp-level-standard =
     .label = Standart (varsayılan)
     .description = Çoğu sitede sorunsuz çalışan güçlü ve güvenilir korumalar.
@@ -2419,6 +2429,9 @@ preferences-etp-status-advanced-button =
     .label = Gelişmiş ayarlar
 preferences-etp-header =
     .heading = Gelişmiş izlenme koruması
+preferences-etp-advanced-settings-group =
+    .label = Gelişmiş ayarlar
+    .description = Siteler internette sizi takip etmek ve rahatsız edici reklamlar göstermek için takip kodlarını kullanır. { -brand-short-name }, internette gezinirken sizi korur ve çoğu takip kodunu olarak engelleyerek dijital izinizin kontrolünü size verir.
 preferences-etp-customize-button =
     .label = İzlenme korumasını özelleştir
 preferences-etp-reload-tabs-hint =
@@ -2463,6 +2476,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-password-manager =
+    .label = Parola yöneticisi devre dışı
+    .description = Parola yöneticileri hesaplarınız için güçlü parolaları depolamanıza yardımcı olur.
 security-privacy-issue-warning-popup-blocker =
     .label = Açılır pencere engelleyici devre dışı
     .description = Açılır pencereler rahatsız edici ve bazen de zararlı olabilir.
