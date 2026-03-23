@@ -25,6 +25,8 @@ neterror-override-exception-button = Het risico aanvaarden en doorgaan
 neterror-pref-reset-button = Standaardinstellingen herstellen
 neterror-return-to-previous-page-button = Terug
 neterror-return-to-previous-page-recommended-button = Teruggaan (Aanbevolen)
+neterror-try-again-button-2 = Opnieuw proberen
+    .accesskey = w
 neterror-try-again-button = Opnieuw proberen
 neterror-add-exception-button = Altijd doorgaan voor deze website
 neterror-settings-button = DNS-instellingen wijzigen
@@ -176,12 +178,15 @@ neterror-response-status-code = Foutcode: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Het lijkt erop dat er een probleem is met uw internetverbinding
+fp-neterror-illustration-alt =
+    .alt = Illustratie van een vos die losgekoppelde netwerkkabels bekijkt.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan geen beveiligde verbinding met de server op { $hostname } tot stand brengen.
 fp-neterror-offline-intro = { -brand-short-name } kan geen verbinding maken met de server op <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = De server op <strong>{ $hostname }</strong> doet er te lang over om te reageren.
 fp-neterror-coop-coep-intro = { -brand-short-name } heeft deze pagina niet geladen, omdat het lijkt alsof de beveiligingsconfiguratie niet overeenkomt met die van de vorige pagina.
 fp-neterror-http-auth-disabled-intro = Iemand die zich voordoet als de website kan dingen zoals uw gebruikersnaam, wachtwoord of e-mailadres proberen te stelen.
 fp-neterror-http-auth-disabled-secure-connection = Deze website vereist een beveiligde verbinding, en u kunt geen uitzondering toevoegen om deze te bezoeken.

@@ -203,3 +203,44 @@ bar-tooltip-cryptominer =
             [one] { $count } cryptominer ({ $percentage }%)
            *[other] { $count } cryptominers ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Privacybeschermingen
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } geblokkeerd deze week
+       *[other] { $count } geblokkeerd deze week
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } tracker
+       *[other] { $count } trackers
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } fingerprinter
+       *[other] { $count } fingerprinters
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } trackingcookie
+       *[other] { $count } trackingcookies
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sociale tracker
+       *[other] { $count } sociale trackers
+    }
+privacy-metrics-empty = Geen trackers geblokkeerd deze week. { -brand-short-name } beschermt u tegen de volgende bedreigingen terwijl u surft.
+privacy-metrics-loading = Beschermingsstatistieken laden…
+privacy-metrics-error = Kan beschermingsstatistieken niet laden.
+privacy-metrics-private-window = { -brand-short-name } blijft trackers blokkeren in privévensters, maar houdt niet bij wat is geblokkeerd.

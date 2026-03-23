@@ -668,8 +668,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Weergaven
 pdfjs-views-manager-view-selector-button-label = Weergaven
 pdfjs-views-manager-pages-title = Pagina’s
+pdfjs-views-manager-outlines-title1 = Documentoverzicht
+    .title = Documentoverzicht (dubbelklik om alle items uit te vouwen/samen te vouwen)
 pdfjs-views-manager-outlines-title = Documentoverzicht
 pdfjs-views-manager-attachments-title = Bijlagen
+pdfjs-views-manager-layers-title1 = Lagen
+    .title = Lagen (dubbelklik om alle lagen naar de standaardstatus terug te zetten)
 pdfjs-views-manager-layers-title = Lagen
 pdfjs-views-manager-pages-option-label = Pagina’s
 pdfjs-views-manager-outlines-option-label = Documentoverzicht
@@ -690,6 +694,7 @@ pdfjs-views-manager-pages-status-action-button-label = Beheren
 pdfjs-views-manager-pages-status-copy-button-label = Kopiëren
 pdfjs-views-manager-pages-status-cut-button-label = Knippen
 pdfjs-views-manager-pages-status-delete-button-label = Verwijderen
+pdfjs-views-manager-pages-status-export-selected-button-label = Geselecteerde exporteren…
 pdfjs-views-manager-pages-status-save-as-button-label = Opslaan als…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -730,6 +735,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = Plakken na pagina { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = NIEUW
 pdfjs-toggle-views-manager-button1 =
     .title = Pagina’s beheren
 

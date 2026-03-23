@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Website openen in nieuw venster
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Om uw veiligheid te beschermen, staat { $hostname } niet toe dat { -brand-short-name } de pagina toont als een andere website deze heeft ingebed. Om deze pagina te bekijken moet u deze openen in een nieuw venster.
 fp-certerror-view-certificate-link = Certificaat van de website bekijken
+fp-certerror-return-to-previous-page-recommended-button-2 = Teruggaan (Aanbevolen)
+    .accesskey = g
 fp-certerror-return-to-previous-page-recommended-button = Teruggaan (Aanbevolen)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Software voorkomt dat { -brand-short-name } een beveiligd
 
 fp-certerror-page-title = Waarschuwing: beveiligingsrisico
 fp-certerror-body-title = Wees voorzichtig. Er is iets niet in orde.
+fp-certerror-illustration-alt =
+    .alt = Illustratie van een vos die naar een oranje waarschuwingsbord kijkt.
 fp-certerror-why-site-dangerous = Wat maakt dat deze website gevaarlijk lijkt?
 fp-certerror-what-can-you-do = Wat kunt u hieraan doen?
 fp-certerror-advanced-title = Geavanceerd
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Doorgaan naar { $hostname } (Risicovol)
 fp-certerror-intro = { -brand-short-name } heeft een mogelijk ernstig beveiligingsprobleem met <strong>{ $hostname }</strong> opgemerkt. Iemand die zich voordoet als de website kan zaken zoals creditcardgegevens, wachtwoorden of e-mailadressen proberen te stelen.
 fp-certerror-expired-into = { -brand-short-name } heeft een beveiligingsprobleem ontdekt met <strong>{ $hostname }</strong>. Of de website is niet goed ingesteld, of de klok van uw apparaat is op de verkeerde datum/tijd ingesteld.
 fp-certerror-transparency-intro = Iemand die zich voordoet als <strong>{ $hostname }</strong> kan dingen zoals creditcardgegevens, wachtwoorden of e-mailadressen proberen te stelen.
+fp-certerror-override-exception-button-2 = Doorgaan naar { $hostname } (Risicovol)
+    .accesskey = D

@@ -18,6 +18,20 @@ firefox-relay-must-login-to-account = Meld u aan bij uw account om uw { -relay-b
 firefox-relay-get-unlimited-masks =
     .label = Maskers beheren
     .accesskey = b
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] U hebt uw gratis e-mailmasker gebruikt
+       *[other] U hebt alle { $count } gratis e-mailmaskers gebruikt
+    }
+firefox-relay-reuse-masks-description = U kunt een bestaand masker hergebruiken, maar het gebruik van een uniek masker voor elke website is de veiligste optie. <label data-l10n-name="learn-more-url">Upgrade voor onbeperkte maskers</label>
+firefox-relay-reuse-masks-select-label = Een recent masker selecteren
+firefox-relay-see-all-masks =
+    .label = Alle maskers bekijken
+    .accesskey = b
+firefox-relay-dismiss =
+    .label = Sluiten
+    .accesskey = S
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Bescherm uw e-mailadres:
 firefox-relay-opt-in-title-2 = Ontvang een gratis e-mailmasker
