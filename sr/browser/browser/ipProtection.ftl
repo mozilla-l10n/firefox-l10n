@@ -88,8 +88,11 @@ upgrade-vpn-button = Покушајте { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Не могу се повезати на ВПН
 ipprotection-connection-status-generic-error-description = Покушајте поново за неколико минута.
+ipprotection-connection-status-generic-error-try-again = Покушајте поново касније.
 ipprotection-connection-status-network-error-title = Проверите своју интернет везу
 ipprotection-connection-status-network-error-description = Повежите се на интернет, а затим покушајте да укључите ВПН.
+ipprotection-connection-status-blocked-error-title = ВПН није доступан
+ipprotection-connection-status-blocked-error-description = Локални закони нам забрањују пружање ВПН услуга у овом региону. <a data-l10n-name="learn-more-link">Сазнајте више</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

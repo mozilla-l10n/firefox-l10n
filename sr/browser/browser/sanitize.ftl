@@ -59,9 +59,20 @@ history-section-label = Историја
 item-history-and-downloads =
     .label = Историја прегледања и преузимања
     .accesskey = И
+item-history-and-downloads-description2 = Брише историју сајтова и преузимања
 item-cookies =
     .label = Колачићи
     .accesskey = К
+# Variables:
+#   $amount (Number) - Amount of site data currently stored on disk
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cookies-site-data-with-size =
+    .label = Колачићи и подаци сајтова ({ $amount } { $unit })
+    .accesskey = л
+item-cookies-site-data =
+    .label = Колачићи и подаци сајта
+    .accesskey = ц
+item-cookies-site-data-description = Може вас одјавити са сајтова или испразнити корпе за куповину
 item-active-logins =
     .label = Активне сесије
     .accesskey = А

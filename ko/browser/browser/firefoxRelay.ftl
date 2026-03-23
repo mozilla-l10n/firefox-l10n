@@ -20,6 +20,9 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # $count (Number) - The number of free email masks the user has used
 firefox-relay-reuse-masks-header = 무료 이메일 가리기 { $count }개를 모두 사용함
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = 하나를 재사용하거나 모든 가리기를 확인하여 다른 것을 선택할 수 있습니다.
 firefox-relay-reuse-masks-select-label = 최근 가리기 선택
 firefox-relay-see-all-masks =
     .label = 모든 가리기 보기
