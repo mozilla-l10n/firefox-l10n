@@ -530,9 +530,11 @@ applications-filter =
 applications-type-column =
     .label = Բովանդակության տեսակը
     .accesskey = տ
+applications-type-heading = Բովանդակության տեսակը
 applications-action-column =
     .label = Գործողություն
     .accesskey = Գ
+applications-action-heading = Գործողություն
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ֆայլ
@@ -2098,6 +2100,9 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Արգելափակել
 
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookies-enabled =
@@ -2106,3 +2111,6 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Թխուկներ
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
+
+## Warnings section
+
