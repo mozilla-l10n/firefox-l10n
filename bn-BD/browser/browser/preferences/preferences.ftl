@@ -203,9 +203,11 @@ applications-filter =
 applications-type-column =
     .label = কন্টেন্টর ধরণ
     .accesskey = T
+applications-type-heading = কন্টেন্টর ধরণ
 applications-action-column =
     .label = করণীয়
     .accesskey = A
+applications-action-heading = করণীয়
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ফাইল
