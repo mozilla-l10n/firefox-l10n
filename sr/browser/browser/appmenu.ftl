@@ -302,6 +302,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Маскирајте вашу праву адресу е-поште и број телефона
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = Заштитите ваше радње на мрежи
+appmenu-services-header = Моје услуге
 
 ## Profiles panel
 
