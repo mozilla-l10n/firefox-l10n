@@ -92,9 +92,11 @@ download-choose-folder =
 applications-type-column =
     .label = Cureyê Naverokê
     .accesskey = C
+applications-type-heading = Cureyê Naverokê
 applications-action-column =
     .label = Çalakî
     .accesskey = a
+applications-action-heading = Çalakî
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Pela { $extension }
