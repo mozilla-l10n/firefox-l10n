@@ -18,6 +18,14 @@ firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -r
 firefox-relay-get-unlimited-masks =
     .label = Handsam masker
     .accesskey = H
+firefox-relay-reuse-masks-description = Du kan bruke oppatt eit eksisterande e-postalias, men å bruke eit unikt e-postalias for kvar nettstad er det sikraste alternativet. <label data-l10n-name="learn-more-url">Oppgrader for uavgrensa e-postalias</label>
+firefox-relay-reuse-masks-select-label = Vel eit nyleg brukt e-postalias
+firefox-relay-see-all-masks =
+    .label = Sjå alle e-postalias
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Avvis
+    .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Vern e-postadressa di:
 firefox-relay-opt-in-title-2 = Få eit gratis e-postalias

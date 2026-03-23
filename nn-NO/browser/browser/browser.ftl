@@ -1226,6 +1226,15 @@ panel-save-update-password = Passord
 # "More" item in macOS share menu
 menu-share-more =
     .label = Meir…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Kopier lenke
+           *[other] Kopier { $count } lenker
+        }
+    .accesskey = o
 menu-share-copy-link =
     .label = Kopier lenke
     .accesskey = K

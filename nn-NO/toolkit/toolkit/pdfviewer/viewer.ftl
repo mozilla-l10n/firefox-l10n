@@ -690,6 +690,7 @@ pdfjs-views-manager-pages-status-action-button-label = Handsam
 pdfjs-views-manager-pages-status-copy-button-label = Kopier
 pdfjs-views-manager-pages-status-cut-button-label = Klipp ut
 pdfjs-views-manager-pages-status-delete-button-label = Slett
+pdfjs-views-manager-pages-status-export-selected-button-label = Eksporter valde…
 pdfjs-views-manager-pages-status-save-as-button-label = Lagre som…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
