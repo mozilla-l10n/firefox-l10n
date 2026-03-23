@@ -560,9 +560,11 @@ applications-filter =
 applications-type-column =
     .label = Content Type
     .accesskey = T
+applications-type-heading = Content Type
 applications-action-column =
     .label = Action
     .accesskey = A
+applications-action-heading = Action
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } file
@@ -2222,3 +2224,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel
 preferences-ai-controls-block-confirmation-confirm =
     .label = Block
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
