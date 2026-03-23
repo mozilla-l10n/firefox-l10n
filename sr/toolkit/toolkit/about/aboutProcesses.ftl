@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-processes-title = Менаџер процеса
+about-processes-title = Управник процеса
 # The Actions column
 about-processes-column-action =
     .title = Радње
@@ -11,9 +11,11 @@ about-processes-column-action =
 ## Tooltips
 
 about-processes-shutdown-process =
-    .title = Затвори картице и окончај процесе
+    .title = Затвори језичке и окончај процесе
+about-processes-kill-process =
+    .title = Убиј процес
 about-processes-shutdown-tab =
-    .title = Затвори картицу
+    .title = Затвори језичке
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -52,11 +54,26 @@ about-processes-remote-sandbox-broker-process = Даљински Sandbox Broker 
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Унапред додељено ({ $pid })
 about-processes-utility-process = Помоћни програм ({ $pid })
+about-processes-inference-process = Закључивање ({ $pid })
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Друго: { $type } ({ $pid })
+
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = приватно
+about-processes-web-isolated-property-serviceworker = сервисни радник
+about-processes-web-isolated-property-jit-disabled = JIT је онемогућен
+about-processes-web-isolated-property-with-coop-coep = изоловано унакрсним пореклом
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Isolated process names
 ## Variables:
@@ -109,7 +126,7 @@ about-processes-thread-name-and-id = { $name }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Језичак: { $name }
-about-processes-preloaded-tab = Унапред учитана нова картица
+about-processes-preloaded-tab = Унапред учитан нови језичак
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -129,6 +146,9 @@ about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework ауд
 about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media Engine CDM
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
+about-processes-utility-actor-windows-utils = Windows алатке
+about-processes-utility-actor-windows-file-dialog = Windows прозор за датотеке
+about-processes-utility-actor-pkcs11-module = Помоћник безбедносног модула
 
 ## Displaying CPU (percentage and total)
 ## Variables:

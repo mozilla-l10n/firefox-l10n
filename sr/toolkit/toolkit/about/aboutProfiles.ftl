@@ -27,6 +27,7 @@ profiles-rootdir = Основна фасцикла
 profiles-localdir = Локална фасцикла
 profiles-current-profile = Овај профил се тренутно користи и не може бити обрисан.
 profiles-in-use-profile = Овај профил се користи на другој апликацији и не може бити обрисан.
+profiles-cannot-delete-profile = Не могу да обришем профил који је повезан са другим профилима.
 profiles-rename = Преименуј
 profiles-remove = Уклони
 profiles-set-as-default = Постави као подразумевани

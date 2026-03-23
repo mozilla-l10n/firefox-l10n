@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 certmgr-title =
-    .title = Менаџер сертификата
+    .title = Управник сертификата
 certmgr-tab-mine =
     .label = Ваши сертификати
 certmgr-tab-remembered =
@@ -46,6 +46,8 @@ certmgr-email =
     .label = Адреса е-поште
 certmgr-serial =
     .label = Серијски број
+certmgr-fingerprint-sha-256 =
+    .label = SHA-256 Fingerprint
 certmgr-view =
     .label = Преглед…
     .accesskey = П

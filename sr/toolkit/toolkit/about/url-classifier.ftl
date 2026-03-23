@@ -14,6 +14,7 @@ url-classifier-search-result-list = Листа табела: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Неважећи URL
 url-classifier-search-error-no-features = Није изабрана ниједна функција
+url-classifier-search-error-no-results = Нису пронађени уноси за URL
 url-classifier-search-btn = Започните претрагу
 url-classifier-search-features = Функције
 url-classifier-search-listType = Тип листе

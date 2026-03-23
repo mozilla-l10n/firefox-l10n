@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-performance-title = Менаџер задатака
+about-performance-title = Управник задатака
 
 ## Column headers
 
@@ -14,14 +14,14 @@ column-memory = Меморија
 
 ## Special values for the Name column
 
-ghost-windows = Недавно затворене картице
+ghost-windows = Недавно затворени језичци
 # Variables:
 #   $title (String) - the title of the preloaded page, typically 'New Tab'
 preloaded-tab = Претходно учитано: { $title }
 
 ## Values for the Type column
 
-type-tab = Картица
+type-tab = Језичак
 type-subframe = Подоквир
 type-tracker = Праћење
 type-addon = Додатак
@@ -51,9 +51,9 @@ size-GB = { $value } GB
 ## Tooltips for the action buttons
 
 close-tab =
-    .title = Затвори картицу
+    .title = Затвори језичак
 show-addon =
-    .title = Прикажи у менаџеру додатака
+    .title = Прикажи у управнику додатака
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

@@ -23,6 +23,9 @@ firefox-relay-reuse-masks-header =
     { $count ->
        *[other] Du har brukt opp alle { $count } gratis e-postalias
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Du kan gjenbruke ett eller se alle e-postaliasene for å velge et annet.
 firefox-relay-reuse-masks-select-label = Velg et nylig brukt e-postalias
 firefox-relay-see-all-masks =
     .label = Se alle e-postalias

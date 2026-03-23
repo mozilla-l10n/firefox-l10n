@@ -4,6 +4,7 @@
 
 about-networking-title = О умрежавању
 about-networking-http = HTTP
+about-networking-http-clear-cache-button = Очисти HTTP оставу
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-dns-clear-cache-button = Очисти DNS кеш
@@ -38,6 +39,7 @@ about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Решити
 about-networking-dns-domain = Домен:
 about-networking-dns-lookup-table-column = IP адресе
+about-networking-dns-https-rrs-lookup-table-column = HTTPС RR-ови
 about-networking-dns-https-rr-lookup-table-column = HTTP RRs
 about-networking-rcwn = RCWN статистика
 about-networking-rcwn-status = RCWN стање

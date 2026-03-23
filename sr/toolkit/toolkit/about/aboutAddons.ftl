@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-page-title = Менаџер додатака
+addons-page-title = Управник додатака
 search-header =
     .placeholder = Претражите addons.mozilla.org
     .searchbuttonlabel = Претражи
@@ -176,6 +176,11 @@ extensions-warning-update-security2 =
     .message = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
 extensions-warning-update-security-button = Омогући
     .title = Омогући проверавање безбедности додатка
+extensions-warning-imported-addons2 =
+    .message = Довршите инсталацију додатака који су увезени у { -brand-short-name }.
+extensions-warning-imported-addons-button = Инсталирај додатке
+extensions-warning-safe-mode3 =
+    .message = Сви додаци су онемогућени у режиму за решавање проблема.
 
 ## Strings connected to add-on updates
 
@@ -212,6 +217,10 @@ addon-updates-manual-updates-found = Прикажи доступна ажури�
 
 addon-install-from-file = Инсталирај додатак из датотеке…
     .accesskey = И
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Инсталирај или ажурирај додатак из датотеке…
+    .accesskey = И
 addon-install-from-file-dialog-title = Изаберите додатке за инсталирање
 addon-install-from-file-filter-name = Додаци
 addon-open-about-debugging = Отклањање грешака у додацима
@@ -226,6 +235,9 @@ shortcuts-no-addons = Нисте омогућили ниједан додата�
 shortcuts-no-commands = Следећи додаци немају пречице:
 shortcuts-input =
     .placeholder = Унесите пречицу
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = Уклони пречицу
 shortcuts-browserAction2 = Активирајте тастер на траци са алатима
 shortcuts-pageAction = Активирајте радњу странице
 shortcuts-sidebarAction = Прикажи/сакриј бочни панел
@@ -272,6 +284,16 @@ discopane-notice-recommendations = Неке од ових препорука с�
 discopane-notice-recommendations2 =
     .message = Неке од ових препорука се заснивају на инсталираним додацима, подешавањима из профила и статистици употребе.
 discopane-notice-learn-more = Сазнајте више
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Ваше теме комбинација боја су уклоњене.
+    .message = { -brand-product-name } је ажурирао своју колекцију комбинација боја. Уклонили смо старе верзије са ваше листе „Сачуваних тема”. Преузмите нове верзије на сајту са додацима.
+colorway-removal-notice-learn-more = Сазнајте више
+colorway-removal-notice-button = Преузмите ажуриране теме комбинација боја
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = Ваша Windows подешавања контраста надјачавају { -brand-short-name } теме. Искључите ова подешавања да бисте користили теме у { -brand-short-name }.
 privacy-policy = Политика приватности
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -292,6 +314,11 @@ find-more-themes = Нађите више тема
 # used for screen readers.
 addon-options-button =
     .aria-label = Више опција
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = Додаци и теме вам омогућавају да прилагодите { -brand-product-name }. Они могу повећати приватност, побољшати продуктивност, унапредити медије, променити изглед { -brand-product-name } и још много тога. Ове мале софтверске програме често развијају треће стране. Ево избора који Firefox <a data-l10n-name="learn-more-trigger">препоручује</a> за изузетну безбедност, перформансе и функционалност.
 
 ## Add-on actions
 
@@ -329,10 +356,10 @@ addon-detail-last-updated-label = Последње ажурирање
 addon-detail-homepage-label = Веб-сајт
 addon-detail-rating-label = Оцена
 # Message for add-ons with a staged pending update.
-install-postponed-message = Ово роширење ће се ажурирати током поновног покретања { -brand-short-name }-а.
+install-postponed-message = Овај додатак ће се ажурирати током поновног покретања { -brand-short-name }-а.
 # Message for add-ons with a staged pending update.
 install-postponed-message2 =
-    .message = Ово роширење ће се ажурирати током поновног покретања { -brand-short-name }-а.
+    .message = Овај додатак ће се ажурирати током поновног покретања { -brand-short-name }-а.
 install-postponed-button = Ажурирајте сада
 # The average rating that the add-on has received.
 # Variables:
@@ -393,6 +420,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Покрени на сајтовима са ограничењима
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Када је дозвољено, додатак ће имати приступ сајтовима које је ограничио { -vendor-short-name }. Дозволите само ако верујете овом додатку.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Дозволи
 addon-detail-quarantined-domains-disallow = Немој
@@ -418,6 +449,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Званични додатак организације Mozilla. Задовољава стандарде безбедности и перформанси
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Овај додатак је прегледан како би испунио стандарде за безбедност и перформансе
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox препоручује само додатке која испуњавају стандарде за безбедност и перформансе
 
 ##
 
@@ -425,7 +470,10 @@ available-updates-heading = Доступна ажурирања
 recent-updates-heading = Недавна ажурирања
 release-notes-loading = Учитава се...
 release-notes-error = Нажалост, дошло је до грешке при учитавању напомена о издању.
+addon-permissions-heading = Овлашћења
 addon-permissions-empty2 = Овај додатак не захтева никакве дозволе.
+addon-permissions-required-label = Обавезно:
+addon-permissions-optional-label = Опционо:
 addon-permissions-empty = Овај додатак не захтева никакве дозволе
 addon-permissions-required = Потребне дозволе за основну функционалност:
 addon-permissions-optional = Додатне дозволе за додатну функционалност:
@@ -453,6 +501,9 @@ shortcuts-heading = Управљајте пречицама додатака
 default-heading-search-label = Пронађите више додатака
 addons-heading-search-input =
     .placeholder = Претражите addons.mozilla.org
+addons-heading-search-button =
+    .title = Претражи addons.mozilla.org
+    .aria-label = Претражи addons.mozilla.org
 addon-page-options-button =
     .title = Алатке за све додатке
 
@@ -482,6 +533,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Више информација
 details-notification-blocked = { $name } је онемогућен због проблема са безбедношћу или стабилношћу.
 details-notification-blocked-link2 = Прикажи детаље
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Овај додатак је ограничен и онемогућен. Можете га омогућити, али то може бити ризично.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Овај додатак је ограничен. Његово коришћење може бити ризично.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Овај додатак је ограничен и онемогућен. Можете га омогућити, али то може бити ризично.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Овај додатак је ограничен. Његово коришћење може бити ризично.
 details-notification-soft-blocked-extension-disabled =
     .message = Овај додатак је ограничен и онемогућен због кршења Mozilla-иних смерница. Можете га омогућити, али то може да буде ризично.
 details-notification-soft-blocked-extension-enabled =
@@ -506,3 +565,45 @@ plugins-openh264-name = Видео-кодек OpenH264 који пружа Cisco
 plugins-openh264-description = Mozilla испоручује ову додатну компоненту како би се ускладила са спецификацијом WebRTC и омогућила WebRTC позиве са уређајима којима је потребан кодек H.264. Погледајте изворни кôд кодека и сазнајте више о примени на адреси http://www.openh264.org.
 plugins-widevine-name = Модул за дешифровање садржаја Widevine који пружа Google Inc.
 plugins-widevine-description = Ова додатна компонента омогућава репродукцију шифрованих медија спецификацијом Encrypted Media Extensions. Сајтови користе шифровање ради заштите од неовлашћеног копирања медијског садржаја. За више информација о овој спецификацији посетите https://www.w3.org/TR/encrypted-media.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+addon-permissions-required-data-collection = Обавезно прикупљање података:
+addon-permissions-optional-data-collection = Опционо прикупљање података:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Дозволе и подаци
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Користи га додатак { $extensionName }
+addon-permissions-data-collection-heading = Прикупљање података
+addon-permissions-data-collection-empty = Програмер каже да овај додатак не захтева прикупљање података.
+addon-data-collection-provided = Информације које је доставио програмер додатка
+addon-data-collection-learnmore = Сазнајте више о прикупљању података
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+mlmodel-about-inference = { -brand-short-name } користи ово на about:inference
+mlmodel-link-preview = { -brand-short-name } користи ово за генерисање кључних тачака када прегледате везе
+mlmodel-pdfjs = { -brand-short-name } користи ово за креирање алтернативног текста за слике које додајете у PDF-ове
+mlmodel-smart-tab-topic-engine = { -brand-short-name } користи ово да предложи називе за ваше групе језичака
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } користи ово да предложи језичке за ваше групе језичака
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = Вештачка интелигенција на уређају
+addon-category-mlmodel-title =
+    .title = Вештачка интелигенција на уређају
+mlmodel-heading = Управљајте ВИ моделима на уређају
+mlmodel-description = Неке функције и додатке у { -brand-short-name } покрећу ВИ модели који раде локално на вашем уређају. Овај приступ штити вашу приватност и, у многим случајевима, убрзава перформансе. <a data-l10n-name="learn-more">Сазнајте више</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Уклони
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Величина датотеке
+mlmodel-addon-detail-last-used-label = Последњи пут коришћено
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Користи га
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Картица модела
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Погледајте на Hugging Face
