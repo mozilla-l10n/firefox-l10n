@@ -368,9 +368,11 @@ applications-filter =
 applications-type-column =
     .label = Tipus de contingut
     .accesskey = T
+applications-type-heading = Tipus de contingut
 applications-action-column =
     .label = Acció
     .accesskey = A
+applications-action-heading = Acció
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = fitxer { $extension }
@@ -494,6 +496,9 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -612,6 +617,12 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -812,6 +823,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no està verificat.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1549,3 +1565,15 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
