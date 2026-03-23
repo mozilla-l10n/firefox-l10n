@@ -94,9 +94,11 @@ download-choose-folder =
 applications-type-column =
     .label = Isimo sokuqukethwe
     .accesskey = s
+applications-type-heading = Isimo sokuqukethwe
 applications-action-column =
     .label = Isenzo
     .accesskey = I
+applications-action-heading = Isenzo
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ifayela
