@@ -135,6 +135,14 @@ tab-context-send-to-device =
            *[other] 탭 { $tabCount }개를 기기로 보내기
         }
     .accesskey = n
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] 모바일로 보내기
+           *[other] 탭 { $tabCount }개를 모바일로 보내기
+        }
+    .accesskey = n
 tab-context-send-tabs-to-device =
     .label = 탭 { $tabCount }개를 기기로 보내기
     .accesskey = n

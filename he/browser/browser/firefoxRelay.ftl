@@ -24,6 +24,9 @@ firefox-relay-reuse-masks-header =
         [one] השתמשת במסכת הדוא״ל החינמית
        *[other] השתמשת בכל { $count } מסכות הדוא״ל החינמיות
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = ניתן לעשות שימוש חוזר באחת המסכות או לראות את כל המסכות כדי לבחור מסכה אחרת.
 firefox-relay-reuse-masks-select-label = בחירה במסכה אחרונה
 firefox-relay-see-all-masks =
     .label = הצגת כל המסכות

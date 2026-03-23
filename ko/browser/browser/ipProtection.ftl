@@ -88,8 +88,11 @@ upgrade-vpn-button = { -mozilla-vpn-brand-name } 사용해보기
 
 ipprotection-connection-status-generic-error-title = VPN에 연결할 수 없음
 ipprotection-connection-status-generic-error-description = 몇 분 후 다시 시도하세요.
+ipprotection-connection-status-generic-error-try-again = 나중에 다시 시도하세요.
 ipprotection-connection-status-network-error-title = 인터넷 연결 확인
 ipprotection-connection-status-network-error-description = 인터넷에 연결하고, VPN을 켜보세요.
+ipprotection-connection-status-blocked-error-title = VPN을 사용할 수 없음
+ipprotection-connection-status-blocked-error-description = 현지 법률에 따라 이 지역에서는 VPN 서비스를 제공할 수 없습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

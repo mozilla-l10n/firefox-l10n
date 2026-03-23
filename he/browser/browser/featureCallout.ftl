@@ -93,6 +93,9 @@ perplexity-callout-secondary-label-2 = הבנתי
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = רוצה לנסות חיפוש חדש המתמקד בפרטיות?
+start-page-callout-subtitle = ניתן לנסות את Startpage. הוא נועד לשמור על פרטיות החיפוש שלך כבר מהרגע הראשון.
+start-page-callout-primary-label = לנסות את Startpage
+start-page-callout-secondary-label = סגירה
 
 ## Account Adoption Passwords callout strings
 

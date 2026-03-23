@@ -29,6 +29,15 @@ fxa-menu-send-to-device =
         }
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] 모바일로 보내기
+           *[other] 탭 { $tabCount }개를 모바일로 보내기
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label = 탭 { $tabCount }개를 기기로 보내기
 # This is shown dynamically within "Send tab to device" in fxa menu.
