@@ -238,9 +238,11 @@ applications-filter =
 applications-type-column =
     .label = কন্টেন্টর ধরণ
     .accesskey = T
+applications-type-heading = কন্টেন্টর ধরণ
 applications-action-column =
     .label = করণীয়
     .accesskey = A
+applications-action-heading = করণীয়
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ফাইল
@@ -334,6 +336,9 @@ update-in-progress-ok-button = &বাতিল
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &চালিয়ে যান
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -439,6 +444,12 @@ use-current-pages =
 choose-bookmark =
     .label = বুকমার্ক ব্যবহার করুন
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -593,6 +604,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } যাচাইকৃত নয়।
 sync-signedin-login-failure = { $email } পুনরায় সংযোগ করতে অনুগ্রহ করে সাইন ইন করুন
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -757,6 +773,9 @@ forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = ইতিহাস
@@ -843,6 +862,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = কুকি এবং সাইট ডাটা
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1006,6 +1031,9 @@ addon-recommendations-link = আরও জানুন
 # or builds with no Telemetry support available.
 collection-health-report-disabled = এই বিল্ড কনফিগারেশনের জন্যে ডাটা রিপোর্টিং নিস্ক্রিয় করা হয়েছে
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1038,8 +1066,26 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = FIPS সক্রিয় করা হবে
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনলোড
 choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
