@@ -22,6 +22,20 @@ close-button =
 
 should-restart-title = Ddamu otandike { -brand-short-name }
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
+## Preferences UI Search Results
+
+
 ## General Section
 
 startup-header = Entandika
@@ -34,6 +48,13 @@ show-tabs-in-taskbar =
     .accesskey = k
 startup-group =
     .label = Entandika
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+
+##
+
 
 ## General Section - Language & Appearance
 
@@ -72,9 +93,11 @@ download-choose-folder =
 applications-type-column =
     .label = Ebirimu Kyikka
     .accesskey = K
+applications-type-heading = Ebirimu Kyikka
 applications-action-column =
     .label = Ekola
     .accesskey = E
+applications-action-heading = Ekola
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fayiro
@@ -127,6 +150,9 @@ update-application-use-service =
     .label = Kozesa empereza ekolera emabega okutekamu ebituusa
     .accesskey = e
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -154,6 +180,12 @@ network-proxy-connection-settings =
     .label = Etegeka…
     .accesskey = t
 
+## Home Section
+
+
+## Home Section - Default Browser
+
+
 ## Custom Homepage subpage
 
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -171,6 +203,21 @@ choose-bookmark =
     .label = Kozesa Akalambe…
     .accesskey = e
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
+
+## Home Section - Firefox Home Content Customization
+
+
+##
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -183,6 +230,38 @@ search-keyword-warning-title = Ekigambo ekikulu Kiddiddwamu
 search-keyword-warning-engine = Olonze ekigambo ekikulu ekiri mukukozesebwa "{ $name }". Bambi funayo ekirala.
 search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa akalambe. Bambi funayo ekirala.
 
+## Containers Section
+
+
+## Account and sync
+
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
+## Firefox account - Signed in
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
+##
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
 ## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
@@ -191,6 +270,19 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Ebyafaayo
     .accesskey = f
+
+## The device name controls.
+
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
+
+
+## Privacy Section
+
+
+## Privacy Section - Logins and Passwords
+
 
 ## Privacy Section - Passwords
 
@@ -204,6 +296,12 @@ forms-master-pw-change =
     .label = Kyuusa Ekisumuluzo Ekifuga byonna…
     .accesskey = E
 forms-master-pw-fips-desc = Okukyuusa Akasumulizo ku Ganye
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -230,6 +328,34 @@ history-clear-on-close-settings =
     .label = Entegeka…
     .accesskey = t
 
+## Privacy Section - Site Data
+
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
+## Search Section
+
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
+
 ## Privacy Section - Permissions
 
 permissions-block-popups =
@@ -239,13 +365,43 @@ permissions-addon-exceptions =
     .label = Okujjako…
     .accesskey = j
 
+## Privacy Section - Data Collection
+
+
+## Privacy Section - Website Advertising Preferences
+
+
+## Privacy Section - Security
+##
+## It is important that wording follows the guidelines outlined on this page:
+## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+
+
 ## Privacy Section - Certificates
 
 certs-header = Zasatifiketi
 certs-devices-enable-fips = Ekyisobozisa FIPS
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Sikulini
 downloads-folder-name = Ebiwanundwa
 choose-download-folder-title = Londako okuwanula ebasa:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

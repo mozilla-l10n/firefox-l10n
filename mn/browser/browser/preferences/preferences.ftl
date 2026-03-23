@@ -92,9 +92,11 @@ download-choose-folder =
 applications-type-column =
     .label = Файлын төрөл
     .accesskey = ө
+applications-type-heading = Файлын төрөл
 applications-action-column =
     .label = Хэрхэн хандах
     .accesskey = н
+applications-action-heading = Хэрхэн хандах
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = файл { $extension }
@@ -292,9 +294,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
 history-dontremember-description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
 history-private-browsing-permanent =
     .label = Дандаа ашиглах & хувийн ачааллах загвар
@@ -365,3 +364,15 @@ certs-devices-enable-fips = FIPS зөвшөөр
 desktop-folder-name = Ар дэвсгэр
 downloads-folder-name = Татаж авалтууд
 choose-download-folder-title = Татаж авалтын санг сонго:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

@@ -67,10 +67,6 @@ startup-header = প্রারম্ভ
 always-check-default =
     .label = সর্বদা পরীক্ষা করুন { -brand-short-name } ডিফল্ট ব্রাউজার রূপে ব্যবহার করা যাবে কি না
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
-is-not-default-browser =
-    .message = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
 is-default = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
 is-not-default = { -brand-short-name } বর্তমানে আপনার ডিফল্ট ব্রাউজার রূপে নির্ধারিত রয়েছে।
 set-as-my-default-browser =
@@ -209,9 +205,11 @@ applications-filter =
 applications-type-column =
     .label = বিষয়বস্তু প্রকৃতি
     .accesskey = T
+applications-type-heading = বিষয়বস্তু প্রকৃতি
 applications-action-column =
     .label = কর্ম
     .accesskey = A
+applications-action-heading = কর্ম
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ফাইল
@@ -345,9 +343,6 @@ network-proxy-connection-learn-more = আরো জানুন
 network-proxy-connection-settings =
     .label = বৈশিষ্ট্যাবলী...
     .accesskey = ব
-network-proxy-group =
-    .label = নেটওয়ার্ক সেটিংস
-    .description = কিভাবে { -brand-short-name } ইন্টারেনেটে সংযোগ করে তা কনফিগার করুন।
 
 ## Home Section
 
@@ -657,16 +652,6 @@ history-header = পূর্ববর্তী তথ্য
 #   - Simply as "Firefox", moving the verb into each option.
 #     This will result in "Firefox" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label2 = { -brand-short-name } দ্বারা
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } দ্বারা
     .accesskey = w
 history-remember-option-all =
@@ -680,12 +665,6 @@ history-remember-description4 =
     .description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
 history-dontremember-description4 =
     .aria-label = { history-group.label }
-    .description = ব্যক্তিগত ব্রাউজিংয়ের জন্য ব্যবহৃত বৈশিষ্ট্যগুলি { -brand-short-name } দ্বারা ব্যবহার করা হবে, ও ওয়েব ব্রাউজ করার সময়কার কোনো পূর্ববর্তী তথ্য সংরক্ষণ করা হবে না।
-history-remember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
     .description = ব্যক্তিগত ব্রাউজিংয়ের জন্য ব্যবহৃত বৈশিষ্ট্যগুলি { -brand-short-name } দ্বারা ব্যবহার করা হবে, ও ওয়েব ব্রাউজ করার সময়কার কোনো পূর্ববর্তী তথ্য সংরক্ষণ করা হবে না।
 history-remember-description = { -brand-short-name } আপনার ব্রাউজিং, ডাউনলোড, ফর্ম এবং অনুসন্ধানের ইতিহাস মনে রাখবে।
 history-dontremember-description = ব্যক্তিগত ব্রাউজিংয়ের জন্য ব্যবহৃত বৈশিষ্ট্যগুলি { -brand-short-name } দ্বারা ব্যবহার করা হবে, ও ওয়েব ব্রাউজ করার সময়কার কোনো পূর্ববর্তী তথ্য সংরক্ষণ করা হবে না।
@@ -846,8 +825,6 @@ collection-health-report-disabled = এই বিল্ড কনফিগার
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = নিরাপত্তা
-browsing-protection-group =
-    .label = প্রতারণামূলক সামগ্রী এবং বিপজ্জনক সফ্টওয়্যারের সুরক্ষা
 security-browsing-protection = প্রতারণামূলক সামগ্রী এবং বিপজ্জনক সফ্টওয়্যারের সুরক্ষা
 security-enable-safe-browsing =
     .label = বিপজ্জনক এবং প্রতারণামূলক কন্টেন্ট ব্লক করুন
@@ -887,4 +864,13 @@ downloads-folder-name = Downloads
 choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
 
 ## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
 

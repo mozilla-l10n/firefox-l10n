@@ -51,6 +51,17 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
 restart-later = Nakajie'e inka ichi
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = Nánuku resultados
@@ -188,9 +199,11 @@ applications-filter =
 applications-type-column =
     .label = Tipo de contenido
     .accesskey = T
+applications-type-heading = Tipo de contenido
 applications-action-column =
     .label = Acción
     .accesskey = A
+applications-action-heading = Acción
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archivo { $extension }
@@ -288,6 +301,9 @@ update-in-progress-ok-button = &Xita
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -388,6 +404,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ni´i marcador...
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -545,6 +567,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Kuni kune'ya de ya'a kuvi... { $email } noo'o
 sync-signedin-login-failure = Kuamani ini noo´o je kajie´e sesión tuku { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -726,6 +753,9 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 primary-password-os-auth-dialog-message-macosx = Sá´á iin contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Sɨ´ɨ
@@ -806,6 +836,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies ji datos nuu ya´a
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -946,6 +982,9 @@ collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -984,8 +1023,23 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Nte kutuvi HTTPS
 
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Nxinuu
 choose-download-folder-title = Kaji carpeta chuva´a da nxinuun:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

@@ -563,9 +563,11 @@ applications-filter =
 applications-type-column =
     .label = Tip de conținut
     .accesskey = T
+applications-type-heading = Tip de conținut
 applications-action-column =
     .label = Acțiune
     .accesskey = A
+applications-action-heading = Acțiune
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Fișier { $extension }
@@ -2226,3 +2228,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anulează
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blochează
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

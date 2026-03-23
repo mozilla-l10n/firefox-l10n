@@ -41,8 +41,6 @@ should-restart-title = San hyɛ { -brand-short-name } ase
 ## General Section
 
 startup-header = Nhyɛase
-is-default-browser =
-    .message = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
 is-default = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
 tabs-group-header2 =
     .label = Ntab
@@ -97,9 +95,11 @@ download-choose-folder =
 applications-type-column =
     .label = Emu nsɛm tebea
     .accesskey = t
+applications-type-heading = Emu nsɛm tebea
 applications-action-column =
     .label = Dwumadi
     .accesskey = D
+applications-action-heading = Dwumadi
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fael
@@ -314,9 +314,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
 history-dontremember-description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
 history-private-browsing-permanent =
     .label = Fa tebea praevet a wɔde brawse di dwuma abere biara
@@ -396,3 +393,15 @@ certs-devices-enable-fips = Ekyisobozisa FIPS
 desktop-folder-name = Dɛsktɔp
 downloads-folder-name = Atwe siane
 choose-download-folder-title = Paw atwe folda:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

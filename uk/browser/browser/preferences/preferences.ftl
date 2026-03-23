@@ -463,9 +463,11 @@ applications-filter =
 applications-type-column =
     .label = Тип вмісту
     .accesskey = Т
+applications-type-heading = Тип вмісту
 applications-action-column =
     .label = Дія
     .accesskey = Д
+applications-action-heading = Дія
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } файл
@@ -1019,6 +1021,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1955,3 +1962,15 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

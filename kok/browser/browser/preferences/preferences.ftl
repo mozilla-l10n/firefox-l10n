@@ -39,10 +39,6 @@ should-restart-title = { -brand-short-name } परतून सुरू कर
 ## General Section
 
 startup-header = सुरवेक
-is-default-browser =
-    .message = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
-is-not-default-browser =
-    .message = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
 is-default = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
 is-not-default = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
 tabs-group-header2 =
@@ -104,9 +100,11 @@ download-choose-folder =
 applications-type-column =
     .label = आशय प्रकार
     .accesskey = T
+applications-type-heading = आशय प्रकार
 applications-action-column =
     .label = कारवाय
     .accesskey = A
+applications-action-heading = कारवाय
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = % फायली
@@ -341,9 +339,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-dontremember-description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-private-browsing-permanent =
     .label = सदाच खाजगी ब्रावजींग स्थिती वापरात
@@ -434,3 +429,15 @@ certs-devices-enable-fips = एफआयपीएस सक्षम
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाऊनलोड
 choose-download-folder-title = डावनलोड धारक निवडात:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

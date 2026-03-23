@@ -460,9 +460,11 @@ applications-filter =
 applications-type-column =
     .label = Tip da datoteca
     .accesskey = d
+applications-type-heading = Tip da datoteca
 applications-action-column =
     .label = Acziun
     .accesskey = A
+applications-action-heading = Acziun
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Datoteca { $extension }
@@ -722,6 +724,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -994,6 +999,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1904,3 +1914,15 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

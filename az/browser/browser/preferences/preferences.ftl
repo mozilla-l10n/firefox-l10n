@@ -201,9 +201,11 @@ applications-filter =
 applications-type-column =
     .label = Məzmun formatı
     .accesskey = t
+applications-type-heading = Məzmun formatı
 applications-action-column =
     .label = Əməliyyat
     .accesskey = Ə
+applications-action-heading = Əməliyyat
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } faylı
@@ -280,6 +282,9 @@ update-application-manual =
 update-application-use-service =
     .label = Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et
     .accesskey = a
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -378,6 +383,12 @@ choose-bookmark =
     .label = Əlfəcin istifadə et…
     .accesskey = Ə
 
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-search-header =
@@ -475,6 +486,9 @@ containers-add-button =
 containers-remove-button =
     .label = Sil
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -509,6 +523,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } təsdiqlənməyib.
 sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -520,6 +539,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Daxil ol
     .accesskey = x
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -612,6 +637,12 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Tarixçə
@@ -692,6 +723,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = Çərəzlər və Sayt Məlumatları
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -811,6 +848,9 @@ addon-recommendations-link = Ətraflı öyrən
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -843,8 +883,26 @@ certs-devices =
     .accesskey = T
 certs-devices-enable-fips = FIPS aktivləşdir
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = İşçi masası
 downloads-folder-name = Endirmələr
 choose-download-folder-title = Endirmə qovluğunu seçin:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

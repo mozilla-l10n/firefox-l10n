@@ -40,8 +40,6 @@ should-restart-title = Qala kabusha i-{ -brand-short-name }
 ## General Section
 
 startup-header = Qala
-is-default-browser =
-    .message = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
 is-default = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
 tabs-group-header2 =
     .label = Amathebhu
@@ -96,9 +94,11 @@ download-choose-folder =
 applications-type-column =
     .label = Isimo sokuqukethwe
     .accesskey = s
+applications-type-heading = Isimo sokuqukethwe
 applications-action-column =
     .label = Isenzo
     .accesskey = I
+applications-action-heading = Isenzo
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ifayela
@@ -313,9 +313,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
 history-dontremember-description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
 history-private-browsing-permanent =
     .label = Sebenzisa njalo indlela yangasese yokudlulisa amehlo
@@ -395,3 +392,15 @@ certs-devices-enable-fips = Yenza kusebenze i-FIPS
 desktop-folder-name = Okukuskrini
 downloads-folder-name = Okwami Ukwaziswa Okuthathwe Kwafakwa
 choose-download-folder-title = Khetha Ifolda Ozothatha Ukwaziswa Ukufake Kuyo:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

@@ -381,9 +381,11 @@ applications-filter =
 applications-type-column =
     .label = අන්තර්ගත වර්ගය
     .accesskey = T
+applications-type-heading = අන්තර්ගත වර්ගය
 applications-action-column =
     .label = ක්‍රියාමාර්ගය
     .accesskey = A
+applications-action-heading = ක්‍රියාමාර්ගය
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ගොනුව
@@ -507,6 +509,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -623,6 +628,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -826,6 +837,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1590,3 +1606,15 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
 choose-download-folder-title = බාගත වන බහාලුම තේරීම:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

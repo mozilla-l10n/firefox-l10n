@@ -90,9 +90,11 @@ download-choose-folder =
 applications-type-column =
     .label = Ôrt zamkłoscë
     .accesskey = t
+applications-type-heading = Ôrt zamkłoscë
 applications-action-column =
     .label = Dzejanié
     .accesskey = D
+applications-action-heading = Dzejanié
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = lopk { $extension }
@@ -304,9 +306,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
 history-dontremember-description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
 history-private-browsing-permanent =
     .label = Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë
@@ -389,3 +388,15 @@ certs-devices-enable-fips = Włączë FIPS
 desktop-folder-name = Pùlt
 downloads-folder-name = Zladënczi
 choose-download-folder-title = Wëbierzë katalog dlô zladënków:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
