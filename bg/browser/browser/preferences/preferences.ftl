@@ -424,9 +424,11 @@ applications-filter =
 applications-type-column =
     .label = Вид на съдържанието
     .accesskey = В
+applications-type-heading = Вид на съдържанието
 applications-action-column =
     .label = Действие
     .accesskey = Д
+applications-action-heading = Действие
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = файл { $extension }
@@ -550,6 +552,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -668,6 +673,12 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -875,6 +886,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1727,3 +1743,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отказ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
