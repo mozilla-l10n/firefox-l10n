@@ -205,9 +205,11 @@ applications-filter =
 applications-type-column =
     .label = বিষয়বস্তু প্রকৃতি
     .accesskey = T
+applications-type-heading = বিষয়বস্তু প্রকৃতি
 applications-action-column =
     .label = কর্ম
     .accesskey = A
+applications-action-heading = কর্ম
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ফাইল
