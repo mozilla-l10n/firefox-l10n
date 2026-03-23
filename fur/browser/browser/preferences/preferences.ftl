@@ -527,9 +527,11 @@ applications-filter =
 applications-type-column =
     .label = Gjenar di contignût
     .accesskey = t
+applications-type-heading = Gjenar di contignût
 applications-action-column =
     .label = Azion
     .accesskey = A
+applications-action-heading = Azion
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = file { $extension }
@@ -2100,3 +2102,15 @@ preferences-doh-manage-exceptions =
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
