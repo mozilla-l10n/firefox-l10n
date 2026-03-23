@@ -95,9 +95,11 @@ download-choose-folder =
 applications-type-column =
     .label = Emu nsɛm tebea
     .accesskey = t
+applications-type-heading = Emu nsɛm tebea
 applications-action-column =
     .label = Dwumadi
     .accesskey = D
+applications-action-heading = Dwumadi
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fael
