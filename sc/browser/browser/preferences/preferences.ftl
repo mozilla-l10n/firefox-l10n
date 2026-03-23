@@ -430,9 +430,11 @@ applications-filter =
 applications-type-column =
     .label = Genias de cuntenutu
     .accesskey = G
+applications-type-heading = Genias de cuntenutu
 applications-action-column =
     .label = Atzione
     .accesskey = A
+applications-action-heading = Atzione
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archìviu { $extension }
@@ -555,6 +557,9 @@ update-in-progress-ok-button = &Iscarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -680,6 +685,12 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -902,6 +913,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1756,3 +1772,12 @@ preferences-ai-controls-translations-more-link = Àteras cunfiguratziones de tra
 preferences-ai-controls-key-points-control =
     .label = Puntos crae in sa previsualizatzione de is ligòngios
     .description = Bide unu resumu lestru in antis de abèrrere unu ligòngiu.
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
