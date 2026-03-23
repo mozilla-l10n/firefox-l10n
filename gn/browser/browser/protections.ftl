@@ -203,3 +203,33 @@ bar-tooltip-cryptominer =
             [one] { $count } criptominero ({ $percentage }%)
            *[other] { $count } criptomineros ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Ñemiguáva ñemo’ã
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } ojejoko ko arapokõindýpe
+       *[other] { $count } ojejoko ko arapokõindýpe
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } tapykuehoha
+       *[other] { $count } tapykuehohaita
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } mokuãhũ juhuha
+       *[other] { $count } mokuãhũita juhuha
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } kookie rapykuehoha
+       *[other] { $count } kookieita rapykuehoha
+    }

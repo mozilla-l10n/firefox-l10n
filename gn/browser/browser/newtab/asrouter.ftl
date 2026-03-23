@@ -309,6 +309,7 @@ tail-fox-spotlight-secondary-button = Ani ko’ág̃a
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = Ehayhu jey tekoñemi juajupyre
+welcome-back-embedded-import-title = Egueru ne mba’ekuaarã ha { -brand-short-name } tovy’a hogapeguáicha.
 
 ## Root Certificate Succession Infobar
 
