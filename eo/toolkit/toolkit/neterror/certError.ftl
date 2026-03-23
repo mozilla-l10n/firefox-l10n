@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Malfermi retejon en nova fenestro
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Por protekti vian sekurecon, { $hostname } ne permesas al { -brand-short-name } montri la paĝon se ĝi estis enmetita en alian retejon. Por vidi tiun ĉi paĝon, vi devas malfermi ĝin en nova fenestro.
 fp-certerror-view-certificate-link = Montri la atestilon de la retejo
+fp-certerror-return-to-previous-page-recommended-button-2 = Reen (rekomendita)
+    .accesskey = R
 fp-certerror-return-to-previous-page-recommended-button = Reen (rekomendita)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Programaro malpermesas al { -brand-short-name } sekure ko
 
 fp-certerror-page-title = Averto: sekureca risko
 fp-certerror-body-title = Estu singarda. Io ne ĝustas.
+fp-certerror-illustration-alt =
+    .alt = Bildo de vulpo, kiu rigardas oranĝkoloran avertan ŝildon.
 fp-certerror-why-site-dangerous = Kio igas tiun ĉi retejon aspekti danĝere?
 fp-certerror-what-can-you-do = Kion vi povas fari pri tio?
 fp-certerror-advanced-title = Spertula
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Daŭrigi al { $hostname } (riska)
 fp-certerror-intro = { -brand-short-name } eltrovis eble gravan sekurecan problemon kun <strong>{ $hostname }</strong>. Iu kiu ŝajnigas esti tiu retejo povus ŝteli aferojn, ekzemple kreditkartajn informojn, pasvortojn aŭ retpoŝtajn mesaĝojn.
 fp-certerror-expired-into = { -brand-short-name } eltrovis sekurecan problemon kun <strong>{ $hostname }</strong>. Ĉu la retejo ne estas bone agordita ĉu la horloĝo en via aparato ne havas la ĝustan daton/horon.
 fp-certerror-transparency-intro = Io, kio pretendas esti <strong>{ $hostname }</strong>, povus klopodi ŝteli aferojn kiel informojn de kreditkaroj, pasvortojn aŭ retpoŝtajn mesaĝojn.
+fp-certerror-override-exception-button-2 = Daŭrigi al { $hostname } (riske)
+    .accesskey = D

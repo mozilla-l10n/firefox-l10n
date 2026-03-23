@@ -203,3 +203,5 @@ bar-tooltip-cryptominer =
             [one] { $count } minilo de ĉifromono ({ $percentage }%)
            *[other] { $count } miniloj de ĉifromono ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Protektoj de privateco

@@ -18,6 +18,20 @@ firefox-relay-must-login-to-account = Komenu seancon en via konto por uzi viajn 
 firefox-relay-get-unlimited-masks =
     .label = Administri retpoŝtajn maskojn
     .accesskey = A
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Vi uzis vian senpagan retpoŝtan maskon
+       *[other] Vi uzis ĉiujn viajn { $count } senpagajn retpoŝtajn maskojn
+    }
+firefox-relay-reuse-masks-description = Vi povas reuzi ekzistantan maskon, sed la plej sekura eblo estas uzi apartan maskon por ĉiu retejo. <label data-l10n-name="learn-more-url">Ricevi senliman nombron de maskoj</label>
+firefox-relay-reuse-masks-select-label = Elekti ĵusan maskon
+firefox-relay-see-all-masks =
+    .label = Montri ĉiujn maskojn
+    .accesskey = m
+firefox-relay-dismiss =
+    .label = Ignori
+    .accesskey = I
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protektu vian retpoŝtan adreson:
 firefox-relay-opt-in-title-2 = Ricevu senpagan retpoŝtan maskon
