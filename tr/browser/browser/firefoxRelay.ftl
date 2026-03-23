@@ -18,6 +18,17 @@ firefox-relay-must-login-to-account = { -relay-brand-name } e-posta maskeleriniz
 firefox-relay-get-unlimited-masks =
     .label = Maskeleri yönet
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] { $count } ücretsiz e-posta maskesinin hepsini kullandınız
+       *[other] { $count } ücretsiz e-posta maskesinin hepsini kullandınız
+    }
+firefox-relay-reuse-masks-description = Mevcut bir maskeyi yeniden kullanabilirsiniz ama her site için ayrı bir maske kullanmak en güvenli seçenektir. <label data-l10n-name="learn-more-url">Sınırsız maske için paketinizi yükseltebilirsiniz</label>
+firefox-relay-reuse-masks-select-label = Son maskelerden birini seç
+firefox-relay-see-all-masks =
+    .label = Tüm maskeleri göster
+    .accesskey = T
 firefox-relay-dismiss =
     .label = Kapat
     .accesskey = K

@@ -2288,9 +2288,23 @@ preferences-doh-fallback-label =
 preferences-doh-status-item-off =
     .message = HTTPS üzerinden DNS kapalı
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = { $name } sağlayıcısını kullanmaya çalışırken bir hatayla ({ $reason }) karşılaştığımız için HTTPS üzerinden DNS çalışmıyor
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = Geçersiz bir URL aldığımız için HTTPS üzerinden DNS çalışmıyor ({ $reason })
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = HTTPS üzerinden DNS özelliği { $name } sağlayıcısını kullanıyor
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = Yerel { $name } sağlayıcısını kullanmaya çalışırken bir hatayla ({ $reason }) karşılaştığımız için HTTPS üzerinden DNS çalışmıyor
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
