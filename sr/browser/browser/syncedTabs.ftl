@@ -2,16 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-synced-tabs-sidebar-title = Синхронизоване картице
-synced-tabs-sidebar-noclients-subtitle = Желите ли овде да видите картице са других уређаја?
-synced-tabs-sidebar-intro = Погледајте листу картица са других уређаја.
+synced-tabs-sidebar-title = Усклађени језичци
+synced-tabs-sidebar-noclients-subtitle = Желите ли овде да видите језичке са других уређаја?
+synced-tabs-sidebar-intro = Погледајте листу језичака са других уређаја.
 synced-tabs-sidebar-unverified = Ваш налог мора бити потврђен.
-synced-tabs-sidebar-notabs = Нема отворених картица
-synced-tabs-sidebar-open-settings = Отвори подешавања синхронизације
-synced-tabs-sidebar-tabsnotsyncing = Укључите синхронизацију да бисте видели листу картица са других уређаја.
+synced-tabs-sidebar-notabs = Нема отворених језичака
+synced-tabs-sidebar-open-settings = Отвори подешавања усклађивања
+synced-tabs-sidebar-tabsnotsyncing = Укључите усклађивање да бисте видели списак језичака са других уређаја.
 synced-tabs-sidebar-connect-another-device = Повежи други уређај
 synced-tabs-sidebar-search =
-    .placeholder = Претражите синхронизоване картице
+    .placeholder = Претражите усклађене језичке
 
 ## Displayed in the Synced Tabs sidebar's context menu when right-clicking tabs
 ## and/or devices in the list. The "Open" strings below should be translated
@@ -26,7 +26,7 @@ synced-tabs-context-open-in-tab =
     .label = Отвори у новом језичку
     .accesskey = м
 synced-tabs-context-open-in-container-tab =
-    .label = Отвори у новој картици контејнера
+    .label = Отвори у новом контејнер језичку
     .accesskey = у
 synced-tabs-context-open-in-window =
     .label = Отвори у новом прозору
@@ -43,24 +43,24 @@ synced-tabs-context-open-in-private-window =
 # string is located in tabContextMenu.ftl. So, this string should be translated
 # consistently with the "Bookmark Tab…" string there.
 synced-tabs-context-bookmark =
-    .label = Обележи картицу
+    .label = Обележи језичак
     .accesskey = б
 synced-tabs-context-copy =
     .label = Копирај
     .accesskey = К
 synced-tabs-context-open-all-in-tabs =
-    .label = Отвори све у картицама
+    .label = Отвори све у језичцима
     .accesskey = О
 synced-tabs-context-manage-devices =
     .label = Управљај уређајима…
     .accesskey = У
 synced-tabs-context-sync-now =
-    .label = Синхронизуј
-    .accesskey = С
-synced-tabs-fxa-sign-in = Пријавите се ради синхронизације
-synced-tabs-turn-on-sync = Укључите синхронизацију
+    .label = Усклади
+    .accesskey = с
+synced-tabs-fxa-sign-in = Пријавите се ради усклађивања
+synced-tabs-turn-on-sync = Укључите усклађивање
 # Context for hovering over the close tab button that will
 # send a push to the device to close said tab
 # Variables
 # $deviceName - the name of the device the user is closing a tab for
-synced-tabs-context-close-tab = Затвори картицу на { $deviceName }
+synced-tabs-context-close-tab = Затвори језичак на { $deviceName }

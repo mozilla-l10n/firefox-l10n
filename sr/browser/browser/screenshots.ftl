@@ -66,6 +66,11 @@ screenshots-component-copy-button-2 = Копирај
 screenshots-component-download-button-2 = Преузми
     .title = Преузми ({ $shortcut })
     .aria-label = Преузми
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = Снимак екрана
+    .tooltiptext = Направите снимак екрана ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.
@@ -81,3 +86,5 @@ screenshots-component-copy-key = C
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size-3 = { $width } × { $height }
+screenshots-overlay-preview-face-label =
+    .aria-label = Изаберите ову област

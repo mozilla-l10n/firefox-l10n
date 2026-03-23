@@ -88,8 +88,11 @@ upgrade-vpn-button = Essayer { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Impossible de se connecter au VPN
 ipprotection-connection-status-generic-error-description = Réessayez dans quelques minutes.
+ipprotection-connection-status-generic-error-try-again = Veuillez réessayer plus tard.
 ipprotection-connection-status-network-error-title = Vérifiez votre connexion à Internet
 ipprotection-connection-status-network-error-description = Connectez-vous à Internet, puis essayez d’activer le VPN.
+ipprotection-connection-status-blocked-error-title = Le VPN est indisponible
+ipprotection-connection-status-blocked-error-description = Les lois locales nous empêchent de fournir un service VPN dans cette région. <a data-l10n-name="learn-more-link">En savoir plus</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

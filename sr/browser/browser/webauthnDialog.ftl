@@ -12,6 +12,12 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Нетачан PIN. Покушајте поново.
 webauthn-pin-required-prompt = Унесите PIN код за ваш уређај.
+webauthn-select-sign-result-unknown-account = Непознати налог
+webauthn-a-passkey-label = Користи приступни кључ
+webauthn-another-passkey-label = Користи други приступни кључ
+# Variables:
+#   $domain (String): the domain of the site.
+webauthn-specific-passkey-label = Приступни кључ за { $domain }
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

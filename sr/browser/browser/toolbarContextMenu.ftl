@@ -3,32 +3,38 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-new-tab =
-    .label = Нова картица
+    .label = Нови језичак
     .accesskey = Н
 toolbar-context-menu-reload-selected-tab =
-    .label = Поново учитај изабрану картицу
+    .label = Поново учитај изабрани језичак
     .accesskey = П
 toolbar-context-menu-reload-selected-tabs =
-    .label = Поново учитај изабране картице
+    .label = Поново учитај изабране језичке
     .accesskey = П
 toolbar-context-menu-bookmark-selected-tab =
-    .label = Обележи изабрану картицу…
+    .label = Обележи изабрани језичак…
     .accesskey = б
 toolbar-context-menu-bookmark-selected-tabs =
-    .label = Обележи изабране картице…
+    .label = Обележи изабране језичке…
     .accesskey = О
 toolbar-context-menu-select-all-tabs =
-    .label = Изабери све картице
+    .label = Изабери све језичке
     .accesskey = И
 # Variables
 #   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Врати затворену картицу
-           *[other] Врати затворене картице
+            [1] Врати затворени језичак
+           *[other] Врати затворене језичке
         }
     .accesskey = В
+toolbar-context-turn-on-vertical-tabs =
+    .label = Укључи усправне језичке
+toolbar-context-turn-off-vertical-tabs =
+    .label = Искључи усправне језичке
+toolbar-context-customize-sidebar =
+    .label = Прилагоди бочну површ
 toolbar-context-menu-manage-extension =
     .label = Управљај додатком
     .accesskey = в
@@ -51,8 +57,12 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
     .label = Сакриј дугме када је листа празна
     .accesskey = С
 toolbar-context-menu-always-open-downloads-panel =
-    .label = Прикажи панел када преузимање почне
+    .label = Прикажи површ када преузимање почне
     .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Увек прикажи у алатници
+    .accesskey = У
 toolbar-context-menu-remove-from-toolbar =
     .label = Уклони
     .accesskey = у
@@ -74,7 +84,7 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
     .label = Никад не приказуј
     .accesskey = Н
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
-    .label = Приказуј само на новој картици
+    .label = Приказуј само у новом језичку
     .accesskey = П
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Прикажи остале обележиваче
