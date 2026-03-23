@@ -205,3 +205,41 @@ bar-tooltip-cryptominer =
         }
 # Privacy Metrics Card
 privacy-metrics-title = Protektoj de privateco
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blokita ĉi semajne
+       *[other] { $count } blokitaj ĉi semajne
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } spurilo
+       *[other] { $count } spuriloj
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } identigilo de ciferecaj spuroj
+       *[other] { $count } identigiloj de ciferecaj spuroj
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } spura kuketo
+       *[other] { $count } spuraj kuketoj
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } socireta spurilo
+       *[other] { $count } sociretaj spuriloj
+    }
+privacy-metrics-empty = Neniu spurilo blokita ĉi semajne. Dum retumo { -brand-short-name } protektas vin kontraŭ minacoj.
+privacy-metrics-loading = Protektaj statistikoj ŝargataj…
+privacy-metrics-error = Ne eblis ŝargi protektajn statistikojn.
