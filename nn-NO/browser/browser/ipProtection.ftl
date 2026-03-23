@@ -88,8 +88,11 @@ upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Klarte ikkje å kople til VPN
 ipprotection-connection-status-generic-error-description = Prøv igjen om nokre minutt.
+ipprotection-connection-status-generic-error-try-again = Prøv igjen seinare.
 ipprotection-connection-status-network-error-title = Sjekk internettilkoplinga di
 ipprotection-connection-status-network-error-description = Kople til internett, og prøv deretter å slå på VPN.
+ipprotection-connection-status-blocked-error-title = VPN er ikkje tilgjengeleg
+ipprotection-connection-status-blocked-error-description = Lokale lover hindrar oss i å tilby VPN-tenester i denne regionen. <a data-l10n-name="learn-more-link">Les meir</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
