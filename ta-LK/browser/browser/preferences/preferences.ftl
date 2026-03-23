@@ -80,9 +80,11 @@ download-choose-folder =
 applications-type-column =
     .label = உள்ளடக்க வகை
     .accesskey = T
+applications-type-heading = உள்ளடக்க வகை
 applications-action-column =
     .label = செயல்
     .accesskey = A
+applications-action-heading = செயல்
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } கோப்பு
