@@ -47,8 +47,8 @@ aboutdialog-channel-description = Vi nun estas en la ĝisdatiga kanalo <label da
 warningDesc-version = { -brand-short-name } estas prova versio kaj povas esti nestabila.
 aboutdialog-help-user = Helpo de { -brand-product-name }
 aboutdialog-submit-feedback = Sendi opinion
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> estas <label data-l10n-name="community-exp-creditsLink">tutmonda komunumo</label> kiu kunlaboras por konservi la Teksaĵon malfermita, publika kaj alirebla por ĉiuj.
-community-2 = { -brand-short-name } estas projektita de <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">tutmonda komunumo</label> kiu kunlaboras por konservi la Teksaĵon malfermita, publika kaj alirebla por ĉiuj.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> estas <label data-l10n-name="community-exp-creditsLink">tutmonda komunumo</label> kiu kunlaboras por konservi Interreton malfermita, publika kaj alirebla por ĉiuj.
+community-2 = { -brand-short-name } estas projektita de <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">tutmonda komunumo</label> kiu kunlaboras por konservi la Interreton malfermita, publika kaj alirebla por ĉiuj.
 helpus = Ĉu vi volas helpi? <label data-l10n-name="helpus-donateLink">Donacu</label> aŭ <label data-l10n-name="helpus-getInvolvedLink">partoprenu!</label>
 bottomLinks-license = Permesila informo
 bottom-links-terms = Kondiĉoj de uzo
