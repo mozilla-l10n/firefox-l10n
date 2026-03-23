@@ -203,3 +203,42 @@ bar-tooltip-cryptominer =
             [one] { $count } cryptominer ({ $percentage }%)
            *[other] { $count } cryptominers ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Privacybeskermingen
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blokkearre dizze wike
+       *[other] { $count } blokkearre dizze wike
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } tracker
+       *[other] { $count } trackers
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } fingerprinter
+       *[other] { $count } fingerprinters
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } trackingcookie
+       *[other] { $count } trackingcookies
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sosjale tracker
+       *[other] { $count } sosjale trackers
+    }
+privacy-metrics-empty = Gjin trackers blokkearre dizze wike. { -brand-short-name } beskermet jo tsjin de folgjende bedrigingen as jo sneupe.
+privacy-metrics-loading = Beskermingsstatistiken lade…

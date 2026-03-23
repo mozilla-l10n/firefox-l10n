@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Pop-ups en omliedingen fan tredden blokkearje
     .accesskey = b
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Utsûnderingen beheare
+    .description = Foegje websites ta dy’t pop-ups iepenje meie en trochliedingen fan tredden brûke meie.
+    .accesskey = b
+    .searchkeywords = popups
 permissions-addon-install-warning3 =
     .label = Warskôging toane as websites probearje útwreidingen te ynstallearjen
     .accesskey = W

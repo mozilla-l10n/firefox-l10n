@@ -307,6 +307,12 @@ tail-fox-spotlight-subtitle = Sis farwol tsjin ferfelende advertinsjetrackers en
 tail-fox-spotlight-primary-button = Myn keppelingen iepenje mei { -brand-short-name }
 tail-fox-spotlight-secondary-button = No net
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Meitsje in sprong tebek nei ynboude privacy
+welcome-back-spotlight-subtitle = Wolkom werom by de iennige grutte browser dy’t stipe wurdt troch in non-profitorganisaasje. Wy nimme ekstra stappen om jo gegevens te beskermjen, wêr’t jo ek mar binne.
+welcome-back-embedded-import-title = Ymportearje jo gegevens en lit { -brand-short-name } as thús fiele
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Aldere ferzjes fan { -brand-short-name } kinne mooglik op 14 jannewaris 2025 problemen begjinne te hawwen.</strong>
