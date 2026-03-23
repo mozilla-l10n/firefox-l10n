@@ -95,9 +95,11 @@ download-choose-folder =
 applications-type-column =
     .label = Mohuta wa dikagare
     .accesskey = t
+applications-type-heading = Mohuta wa dikagare
 applications-action-column =
     .label = Modiro
     .accesskey = M
+applications-action-heading = Modiro
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Faele ya { $extension }
