@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloki ŝprucaĵojn kaj redirektojn al aliaj retejoj
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Administri esceptojn
+    .description = Aldoni retejojn, kiuj rajtas malfermi ŝprucaĵojn kaj uzi redirektojn de aliaj.
+    .accesskey = A
+    .searchkeywords = ŝpruc
 permissions-addon-install-warning3 =
     .label = Montri averton kiam retejoj volas instali etendaĵojn
     .accesskey = M

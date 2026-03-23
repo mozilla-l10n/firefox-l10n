@@ -668,8 +668,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Vidoj
 pdfjs-views-manager-view-selector-button-label = Vidoj
 pdfjs-views-manager-pages-title = Paĝoj
+pdfjs-views-manager-outlines-title1 = Konturo de dokumento
+    .title = Konturo de dokumento (alklaku duoble por faldi/malfaldi ĉiujn elementojn)
 pdfjs-views-manager-outlines-title = Konturo de dokumento
 pdfjs-views-manager-attachments-title = Kunsendaĵoj
+pdfjs-views-manager-layers-title1 = Tavoloj
+    .title = Tavoloj (alklaku duoble por ke ĉiuj tavoloj reiru al la norma stato)
 pdfjs-views-manager-layers-title = Tavoloj
 pdfjs-views-manager-pages-option-label = Paĝoj
 pdfjs-views-manager-outlines-option-label = Konturo de dokumento
@@ -690,6 +694,7 @@ pdfjs-views-manager-pages-status-action-button-label = Administri
 pdfjs-views-manager-pages-status-copy-button-label = Kopii
 pdfjs-views-manager-pages-status-cut-button-label = Eltondi
 pdfjs-views-manager-pages-status-delete-button-label = Forigi
+pdfjs-views-manager-pages-status-export-selected-button-label = Eksporti elektitajn…
 pdfjs-views-manager-pages-status-save-as-button-label = Konservi kiel…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -730,6 +735,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = Alglui post la paĝo { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = NOVA
 pdfjs-toggle-views-manager-button1 =
     .title = Administri paĝojn
 

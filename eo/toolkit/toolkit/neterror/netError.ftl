@@ -25,6 +25,8 @@ neterror-override-exception-button = Akcepti la riskon kaj daŭrigi
 neterror-pref-reset-button = Restarigi normajn agordojn
 neterror-return-to-previous-page-button = Iri reen
 neterror-return-to-previous-page-recommended-button = Reen (rekomendita)
+neterror-try-again-button-2 = Provi denove
+    .accesskey = P
 neterror-try-again-button = Klopodi denove
 neterror-add-exception-button = Ĉiam daŭrigi por tiu ĉi retejo
 neterror-settings-button = Ŝanĝi agordojn de DNS
@@ -176,6 +178,8 @@ neterror-response-status-code = Erarkodo: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Ŝajne estas problemo kun via retaliro
+fp-neterror-illustration-alt =
+    .alt = Bildo de vulpo, kiu rigardas malkonektitajn retajn kablojn.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
