@@ -18,6 +18,18 @@ firefox-relay-must-login-to-account = Συνδεθείτε στον λογαρι
 firefox-relay-get-unlimited-masks =
     .label = Διαχείριση μασκών
     .accesskey = Δ
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+       *[other] Έχετε χρησιμοποιήσει και τις { $count } δωρεάν μάσκες email
+    }
+firefox-relay-reuse-masks-select-label = Επιλογή πρόσφατης μάσκας
+firefox-relay-see-all-masks =
+    .label = Προβολή όλων των μασκών
+    .accesskey = Π
+firefox-relay-dismiss =
+    .label = Απόρριψη
+    .accesskey = Α
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Προστασία διεύθυνσης email:
 firefox-relay-opt-in-title-2 = Αποκτήστε μια δωρεάν μάσκα email

@@ -203,3 +203,43 @@ bar-tooltip-cryptominer =
             [one] { $count } cryptominer ({ $percentage }%)
            *[other] { $count } cryptominer ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Προστασία απορρήτου
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } αποκλεισμός αυτήν την εβδομάδα
+       *[other] { $count } αποκλεισμοί αυτήν την εβδομάδα
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } ιχνηλάτης
+       *[other] { $count } ιχνηλάτες
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } fingerprinter
+       *[other] { $count } fingerprinter
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } cookie καταγραφής
+       *[other] { $count } cookie καταγραφής
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } ιχνηλάτης κοινωνικών δικτύων
+       *[other] { $count } ιχνηλάτες κοινωνικών δικτύων
+    }
+privacy-metrics-loading = Φόρτωση στατιστικών προστασίας…
+privacy-metrics-error = Δεν είναι δυνατή η φόρτωση των στατιστικών προστασίας.
+privacy-metrics-private-window = Το { -brand-short-name } συνεχίζει να αποκλείει τους ιχνηλάτες στα ιδιωτικά παράθυρα, αλλά δεν διατηρείται αρχείο καταγραφής των αποκλεισμένων στοιχείων.

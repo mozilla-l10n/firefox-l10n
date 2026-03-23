@@ -1226,6 +1226,15 @@ panel-save-update-password = Κωδικός πρόσβασης
 # "More" item in macOS share menu
 menu-share-more =
     .label = Περισσότερα…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Αντιγραφή συνδέσμου
+           *[other] Αντιγραφή { $count } συνδέσμων
+        }
+    .accesskey = σ
 menu-share-copy-link =
     .label = Αντιγραφή συνδέσμου
     .accesskey = σ
