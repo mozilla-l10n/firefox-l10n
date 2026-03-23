@@ -18,6 +18,12 @@ firefox-relay-must-login-to-account = Eñepyrũ tembiapo mba’etépe eiporu hag
 firefox-relay-get-unlimited-masks =
     .label = Eñangareko tovamo’ãháre
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Eiporupáma { $count } ñanduti veve rovamo’ãha reigua
+       *[other] Eiporupáma { $count } ñanduti veve rovamo’ãha reigua
+    }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Emo’ã ñanduti veve kundaharape:
 firefox-relay-opt-in-title-2 = Ereko ñanduti veve rovamo’ãha reigua

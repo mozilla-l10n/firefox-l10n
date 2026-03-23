@@ -1229,6 +1229,15 @@ panel-save-update-password = Ñe’ẽñemi
 # "More" item in macOS share menu
 menu-share-more =
     .label = Hetave…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Emonguatia juajuha
+           *[other] Emonguatia { $count } juajuha
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Embokuatia juajuha
     .accesskey = L
