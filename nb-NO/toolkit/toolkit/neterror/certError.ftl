@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Åpne nettsted i nytt vindu
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheten din, vil { $hostname } ikke tillate at { -brand-short-name } viser siden hvis et annet nettsted har bygd den inn. For å se denne siden, må du åpne den i et nytt vindu.
 fp-certerror-view-certificate-link = Vis nettstedets sertifikat
+fp-certerror-return-to-previous-page-recommended-button-2 = Gå tilbake (anbefalt)
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (anbefalt)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Programvare hindrer { -brand-short-name } fra sikker tilk
 
 fp-certerror-page-title = Advarsel: Sikkerhetsrisiko
 fp-certerror-body-title = Vær forsiktig. Noe ser ikke riktig ut.
+fp-certerror-illustration-alt =
+    .alt = Illustrasjon av en rev som ser på et oransje varselskilt.
 fp-certerror-why-site-dangerous = Hva får siden til å se farlig ut?
 fp-certerror-what-can-you-do = Hva kan du gjøre med det?
 fp-certerror-advanced-title = Avansert
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Fortsett til { $hostname } (risikofylt)
 fp-certerror-intro = { -brand-short-name } oppdaget et potensielt alvorlig sikkerhetsproblem med <strong>{ $hostname }</strong>. Noen som utgir seg for å være nettstedet kan prøve å stjele ting som kredittkortinformasjon, passord eller e-poster.
 fp-certerror-expired-into = { -brand-short-name } oppdaget et sikkerhetsproblem med <strong>{ $hostname }</strong>. Enten er nettstedet ikke konfigurert riktig eller enhetens klokke er satt til feil dato/tid.
 fp-certerror-transparency-intro = Noen som utgir seg for å være <strong>{ $hostname }</strong> kan prøve å stjele ting som bankkortinformasjon, passord eller e-poster.
+fp-certerror-override-exception-button-2 = Gå videre til { $hostname } (risikabelt)
+    .accesskey = v

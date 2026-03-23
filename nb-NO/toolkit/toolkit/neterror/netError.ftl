@@ -25,6 +25,8 @@ neterror-override-exception-button = Godta risikoen og fortsett
 neterror-pref-reset-button = Gjenopprett standardinnstillinger
 neterror-return-to-previous-page-button = Gå tilbake
 neterror-return-to-previous-page-recommended-button = Gå tilbake (Anbefalt)
+neterror-try-again-button-2 = Prøv igjen
+    .accesskey = r
 neterror-try-again-button = Prøv igjen
 neterror-add-exception-button = Fortsett alltid for denne siden
 neterror-settings-button = Endre DNS-innstillinger.
@@ -176,12 +178,15 @@ neterror-response-status-code = Feilkode: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Det ser ut til at det er et problem med internett-tilkoblingen din
+fp-neterror-illustration-alt =
+    .alt = Illustrasjon av en rev som ser på frakoblede nettverkskabler.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikke opprette en sikker forbindelse til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikke koble til serveren på <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Serveren på <strong>{ $hostname }</strong> bruker for lang tid på å svare.
 fp-neterror-coop-coep-intro = { -brand-short-name } lastet ikke inn denne siden fordi det ser ut til at sikkerhetskonfigurasjonen ikke samsvarer med den forrige siden.
 fp-neterror-http-auth-disabled-intro = Noen som utgir seg for å være nettstedet kan prøve å stjele ting som brukernavn, passord eller e-postadresse.
 fp-neterror-http-auth-disabled-secure-connection = Dette nettstedet krever en sikker tilkobling, og du kan ikke legge til et unntak for å besøke det.

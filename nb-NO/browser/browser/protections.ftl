@@ -228,6 +228,13 @@ privacy-metrics-cookies =
         [one] { $count } sporingsinfokapsel
        *[other] { $count } sporingsinfokapsler
     }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sporer via sosiale medier
+       *[other] { $count } sporere via sosiale medier
+    }
 privacy-metrics-empty = Ingen sporere blokkert denne uken. { -brand-short-name } beskytter deg mot følgende trusler mens du surfer.
 privacy-metrics-loading = Laster inn beskyttelsesstatistikk …
 privacy-metrics-error = Klarte ikke å laste inn beskyttelsesstatistikk.
