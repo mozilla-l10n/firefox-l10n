@@ -41,8 +41,6 @@ should-restart-title = Nûdestpêkirina { -brand-short-name }
 ## General Section
 
 startup-header = Destpêk
-is-default-browser =
-    .message = { -brand-short-name } jixwe geroka te ya standard e
 is-default = { -brand-short-name } jixwe geroka te ya standard e
 tabs-group-header2 =
     .label = Hilpekîn
@@ -313,9 +311,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
 history-dontremember-description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
 history-private-browsing-permanent =
     .label = Her tim moda gera nepen bi kar bîne
@@ -395,3 +390,15 @@ certs-devices-enable-fips = FIPS 'ê çalak bike
 desktop-folder-name = Sermase
 downloads-folder-name = Jêbarkirî
 choose-download-folder-title = Peldanka jêbarkirinê hilbijêre:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
