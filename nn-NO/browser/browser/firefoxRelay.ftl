@@ -18,6 +18,12 @@ firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -r
 firefox-relay-get-unlimited-masks =
     .label = Handsam masker
     .accesskey = H
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Du har brukt { $count } gratis e-postalias
+       *[other] Du har brukt alle { $count } gratis e-postalias
+    }
 firefox-relay-reuse-masks-description = Du kan bruke oppatt eit eksisterande e-postalias, men å bruke eit unikt e-postalias for kvar nettstad er det sikraste alternativet. <label data-l10n-name="learn-more-url">Oppgrader for uavgrensa e-postalias</label>
 firefox-relay-reuse-masks-select-label = Vel eit nyleg brukt e-postalias
 firefox-relay-see-all-masks =

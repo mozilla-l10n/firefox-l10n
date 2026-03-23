@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Opne nettstad i nytt vindauge
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For å ta vare på sikkerheita di, vil { $hostname } ikkje tillate at { -brand-short-name } viser sida dersom ein annan nettstad har bygd henne inn. For å sjå denne sida, må du opne henne i eit nytt vindauge.
 fp-certerror-view-certificate-link = Vis sertifikatet til nettstaden
+fp-certerror-return-to-previous-page-recommended-button-2 = Gå tilbake (tilrådd)
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbake (tilrådd)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Programvara hindrar { -brand-short-name } frå trygg tilk
 
 fp-certerror-page-title = Åtvaring: Tryggingsrisiko
 fp-certerror-body-title = Ver varsam. Noko ser ikkje rett ut.
+fp-certerror-illustration-alt =
+    .alt = Illustrasjon av ein rev som ser på eit oransje varselskilt.
 fp-certerror-why-site-dangerous = Kva får sida til å sjå farleg ut?
 fp-certerror-what-can-you-do = Kva kan du gjere med det?
 fp-certerror-advanced-title = Avansert
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Hald fram til { $hostname } (risikofylt
 fp-certerror-intro = { -brand-short-name } oppdaga eit potensielt alvorleg tryggingsproblem med <strong>{ $hostname }</strong>. Nokon som gir seg ut for å vere nettstaden kan prøve å stele ting som kredittkortinformasjon, passord eller e-postar.
 fp-certerror-expired-into = { -brand-short-name } oppdaga eit tryggingsproblem med <strong>{ $hostname }</strong>. Anten er nettstaden ikkje konfigurert rett eller klokka i eininga er sett til feil dato/tid.
 fp-certerror-transparency-intro = Nokon som gir seg ut for å vere <strong>{ $hostname }</strong> kan prøve å stele ting som bankkortinformasjon, passord eller e-postar.
+fp-certerror-override-exception-button-2 = Gå vidare til { $hostname } (risikabelt)
+    .accesskey = v

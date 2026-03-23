@@ -178,12 +178,15 @@ neterror-response-status-code = Feilkode: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Det ser ut til at det er eit problem med internett-tilkoplinga di
+fp-neterror-illustration-alt =
+    .alt = Illustrasjon av ein rev som ser på fråkopla nettverkskablar.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikkje opprette eit sikkert samband til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikkje kople til serveren på <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Serveren på <strong>{ $hostname }</strong> brukar for lang tid på å svare.
 fp-neterror-coop-coep-intro = { -brand-short-name } lasta ikkje inn denne sida fordi det ser ut til at tryggingskonfigurasjonen ikkje samsvarer med den førre sida.
 fp-neterror-http-auth-disabled-intro = Nokon som gir seg ut for å vere nettstaden kan prøve å stele ting som brukarnamn, passord eller e-post.
 fp-neterror-http-auth-disabled-secure-connection = Denne nettstaden krev ei sikker tilkopling, og du kan ikkje leggje til eit unntak for å besøkje det.
