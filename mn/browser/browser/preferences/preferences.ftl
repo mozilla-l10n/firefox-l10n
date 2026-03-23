@@ -92,9 +92,11 @@ download-choose-folder =
 applications-type-column =
     .label = Файлын төрөл
     .accesskey = ө
+applications-type-heading = Файлын төрөл
 applications-action-column =
     .label = Хэрхэн хандах
     .accesskey = н
+applications-action-heading = Хэрхэн хандах
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = файл { $extension }
