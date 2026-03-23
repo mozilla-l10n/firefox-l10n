@@ -36,10 +36,6 @@ restart-later = Úire abɨdo taineye
 ## General Section
 
 startup-header = Táɨnia
-is-default-browser =
-    .message = { -brand-short-name } ó makara ja beno íte
-is-not-default-browser =
-    .message = { -brand-short-name } ó makara ja beno íte
 is-default = { -brand-short-name } ó makara ja beno íte
 is-not-default = { -brand-short-name } ó makara ja beno íte
 tabs-group-header2 =
@@ -101,9 +97,11 @@ download-choose-folder =
 applications-type-column =
     .label = Ráa ofítaɨra ízoi
     .accesskey = í
+applications-type-heading = Ráa ofítaɨra ízoi
 applications-action-column =
     .label = Fɨnoka
     .accesskey = F
+applications-action-heading = Fɨnoka
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -314,9 +312,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
 history-dontremember-description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
 history-private-browsing-permanent =
     .label = Dama& ó makara benomo íri
@@ -401,4 +396,16 @@ permissions-notification2 =
 
 
 ## The following strings are used in the Download section of settings
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
 
