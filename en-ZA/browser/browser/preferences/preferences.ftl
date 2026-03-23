@@ -113,9 +113,11 @@ download-choose-folder =
 applications-type-column =
     .label = Content Type
     .accesskey = T
+applications-type-heading = Content Type
 applications-action-column =
     .label = Action
     .accesskey = A
+applications-action-heading = Action
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } file
