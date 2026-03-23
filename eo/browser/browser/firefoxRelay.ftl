@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] Vi uzis vian senpagan retpoŝtan maskon
        *[other] Vi uzis ĉiujn viajn { $count } senpagajn retpoŝtajn maskojn
     }
-firefox-relay-reuse-masks-description = Vi povas reuzi ekzistantan maskon, sed la plej sekura eblo estas uzi apartan maskon por ĉiu retejo. <label data-l10n-name="learn-more-url">Ricevi senliman nombron de maskoj</label>
 firefox-relay-reuse-masks-select-label = Elekti ĵusan maskon
 firefox-relay-see-all-masks =
     .label = Montri ĉiujn maskojn

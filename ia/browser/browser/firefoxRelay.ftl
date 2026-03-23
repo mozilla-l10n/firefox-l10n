@@ -23,7 +23,6 @@ firefox-relay-reuse-masks-header =
     { $count ->
        *[other] Tu ha usate tote le { $count } mascas de e-mail gratuite
     }
-firefox-relay-reuse-masks-description = Tu pote reusar un masca existente, ma usar un masca unic pro cata sito web es le option plus secur. <label data-l10n-name="learn-more-url">Promover a mascas illimitate</label>
 firefox-relay-reuse-masks-select-label = Seliger un masca recente
 firefox-relay-see-all-masks =
     .label = Vider tote le mascas

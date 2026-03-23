@@ -26,7 +26,6 @@ firefox-relay-reuse-masks-header =
         [few] Sćo wužył wšykne { $count } dermotne e-mailowe maski
        *[other] Sćo wužył wšykne { $count } dermotnych e-mailowych maskow
     }
-firefox-relay-reuse-masks-description = Móžośo eksistěrujucu masku znowego wužywaś, ale jo nejwěsćejša móžnosć, gaž jadnorazowa maska kužde websedło wužywaśo. <label data-l10n-name="learn-more-url">Za njewobgranicowane maski aktualizěrowaś</label>
 firefox-relay-reuse-masks-select-label = Wubjeŕśo nowu masku
 firefox-relay-see-all-masks =
     .label = Wšykne maski se woglědaś

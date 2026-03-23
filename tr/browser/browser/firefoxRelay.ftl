@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] { $count } ücretsiz e-posta maskesinin hepsini kullandınız
        *[other] { $count } ücretsiz e-posta maskesinin hepsini kullandınız
     }
-firefox-relay-reuse-masks-description = Mevcut bir maskeyi yeniden kullanabilirsiniz ama her site için ayrı bir maske kullanmak en güvenli seçenektir. <label data-l10n-name="learn-more-url">Sınırsız maske için paketinizi yükseltebilirsiniz</label>
 firefox-relay-reuse-masks-select-label = Son maskelerden birini seç
 firefox-relay-see-all-masks =
     .label = Tüm maskeleri göster

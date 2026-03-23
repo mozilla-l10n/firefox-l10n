@@ -30,7 +30,7 @@ account-manage-devices-titlecase = Управљај уређајима…
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Нема повезаних уређаја
 # Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = Више о слању картица…
+account-send-tab-to-device-singledevice-learnmore = Више о слању језичака…
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Повежи други уређај…
 
@@ -62,10 +62,10 @@ account-connection-disconnected = Овај рачунар је отпојен.
 ## a single tab another device sent us to display.
 ## The body for this notification is the URL of the received tab.
 
-account-single-tab-arriving-title = Картица је примљена
+account-single-tab-arriving-title = Језичак је примљен
 # Variables:
 #   $deviceName (String): the device name.
-account-single-tab-arriving-from-device-title = Картица са { $deviceName }
+account-single-tab-arriving-from-device-title = Језичак са { $deviceName }
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -77,27 +77,27 @@ account-single-tab-arriving-truncated-url = { $url }…
 ## Variables:
 ##   $tabCount (Number): the number of tabs received
 
-account-multiple-tabs-arriving-title = Примљене картице
+account-multiple-tabs-arriving-title = Примљени језичци
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
     { $tabCount ->
-        [one] Преузета је { $tabCount } картица са { $deviceName }
-        [few] Преузете су { $tabCount } картице са { $deviceName }
-       *[other] Преузето је { $tabCount } картица са { $deviceName }
+        [one] Преузет је { $tabCount } језичак са { $deviceName }
+        [few] Преузета су { $tabCount } језичка са { $deviceName }
+       *[other] Преузето је { $tabCount } језичака са { $deviceName }
     }
 account-multiple-tabs-arriving-from-multiple-devices =
     { $tabCount ->
-        [one] Преузета је { $tabCount } картица са повезаних уређаја
-        [few] Преузете су { $tabCount } картице са повезаних уређаја
-       *[other] Преузето је { $tabCount } картица са повезаних уређаја
+        [one] Преузет је { $tabCount } језичак са повезаних уређаја
+        [few] Преузета су { $tabCount } језичка са повезаних уређаја
+       *[other] Преузето је { $tabCount } језичака са повезаних уређаја
     }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
-        [one] Преузета је { $tabCount } картица
-        [few] Преузете су { $tabCount } картице
-       *[other] Преузето је { $tabCount } картица
+        [one] Преузет је { $tabCount } језичак
+        [few] Преузета су { $tabCount } језичка
+       *[other] Преузето је { $tabCount } језичака
     }
 
 ## These strings are used in notifications in which the user remotely closed
@@ -105,10 +105,10 @@ account-multiple-tabs-arriving-from-unknown-device =
 ## Variables:
 ##   $closedCount (Number): the number of tabs closed
 
-account-view-recently-closed-tabs = Прегледај недавно затворене картице
+account-view-recently-closed-tabs = Прегледај недавно затворене језичке
 account-tabs-closed-remotely =
     { $closedCount ->
-        [one] { $closedCount } зетворена { -brand-short-name } картица
-        [few] { $closedCount } зетворене { -brand-short-name } картице
-       *[other] { $closedCount } затворених { -brand-short-name } картица
+        [one] { $closedCount } затворен { -brand-short-name } језичак
+        [few] { $closedCount } затворена { -brand-short-name } језичка
+       *[other] { $closedCount } затворених { -brand-short-name } језичака
     }

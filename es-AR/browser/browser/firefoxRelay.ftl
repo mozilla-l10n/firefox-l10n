@@ -18,7 +18,6 @@ firefox-relay-must-login-to-account = Inicie sesión en su cuenta para usar sus 
 firefox-relay-get-unlimited-masks =
     .label = Administrar alias
     .accesskey = m
-firefox-relay-reuse-masks-description = Se puede reutilizar una máscara existente, pero usar una máscara única para cada sitio web es la opción más segura. <label data-l10n-name="learn-more-url">Actualizar para máscaras ilimitadas</label>
 firefox-relay-reuse-masks-select-label = Seleccionar una máscara reciente
 firefox-relay-see-all-masks =
     .label = Ver todas las máscaras

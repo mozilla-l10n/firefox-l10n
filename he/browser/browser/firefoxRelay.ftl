@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] השתמשת במסכת הדוא״ל החינמית
        *[other] השתמשת בכל { $count } מסכות הדוא״ל החינמיות
     }
-firefox-relay-reuse-masks-description = ניתן לעשות שימוש חוזר במסכה קיימת, אך שימוש במסכה ייחודית לכל אתר אינטרנט הוא האפשרות הבטוחה ביותר. <label data-l10n-name="learn-more-url">שדרוג למסכות ללא הגבלה</label>
 firefox-relay-reuse-masks-select-label = בחירה במסכה אחרונה
 firefox-relay-see-all-masks =
     .label = הצגת כל המסכות

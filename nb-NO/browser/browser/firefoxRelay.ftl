@@ -23,7 +23,6 @@ firefox-relay-reuse-masks-header =
     { $count ->
        *[other] Du har brukt opp alle { $count } gratis e-postalias
     }
-firefox-relay-reuse-masks-description = Du kan gjenbruke et eksisterende e-postalias, men å bruke et unikt e-postalias for hvert nettsted er det sikreste alternativet. <label data-l10n-name="learn-more-url">Oppgrader for ubegrensede e-postalias</label>
 firefox-relay-reuse-masks-select-label = Velg et nylig brukt e-postalias
 firefox-relay-see-all-masks =
     .label = Se alle e-postalias

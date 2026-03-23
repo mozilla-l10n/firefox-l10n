@@ -32,6 +32,7 @@ default-browser-prompt-message-pin =
         [neuter] Нека вам { -brand-short-name } буде надохват руке – поставите га као подразумевани прегледач и закачите на траку задатака.
        *[other] Нека вам програм { -brand-short-name } буде надохват руке – поставите га као подразумевани прегледач и закачите на траку задатака.
     }
+default-browser-prompt-message-pin-msix = Нека вам { -brand-short-name } буде надохват руке - поставите га као подразумевани прегледач и закачите га на траку задатака и почетни мени.
 default-browser-prompt-message-pin-mac =
     { -brand-short-name.gender ->
         [masculine] Нека вам { -brand-short-name } буде надохват руке – поставите га као подразумевани прегледач и додајте на док.
@@ -69,3 +70,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Корак 2: Изаберите „Постави као подразумевано” за { -brand-short-name }
 default-browser-guidance-notification-info-page = Покажи ми
 default-browser-guidance-notification-dismiss = Готово
+default-browser-guidance-notification-v2-title = Довршите постављање { -brand-short-name }-а као подразумеваног прегледача
+default-browser-guidance-notification-v2-body = У подешавањима изаберите „Постави као подразумевано” за { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Довршите постављање { -brand-short-name }-а као подразумеваног прегледача у подешавањима

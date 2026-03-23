@@ -25,6 +25,18 @@ address-capture-save-doorhanger-header = Сачувај адресу?
 address-capture-save-doorhanger-description = Сачувај податак у { -brand-short-name } за брзо попуњавање образаца.
 address-capture-update-doorhanger-header = Ажурирај адресу?
 address-capture-edit-doorhanger-header = Измени адресу
+address-capture-save-button =
+    .label = Сачувај
+    .accessKey = С
+address-capture-not-now-button =
+    .label = Не сада
+    .accessKey = н
+address-capture-cancel-button =
+    .label = Откажи
+    .accessKey = О
+address-capture-update-button =
+    .label = Ажурирај
+    .accessKey = А
 address-capture-manage-address-button =
     .label = Подешавања адресе
 address-capture-learn-more-button =
@@ -140,6 +152,12 @@ autofill-card-expires-month = Месец ист.
 autofill-card-expires-year = Година ист.
 autofill-card-billing-address = Адреса за наплату
 autofill-card-network = Тип картице
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = кредитне картице, кредит, картице, дебитне картице, дебит, новчаник, плаћање, kreditne kartice, kredit, kartice, debitne kartice, debit, novčanik, plaćanje
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

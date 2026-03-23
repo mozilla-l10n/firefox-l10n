@@ -23,7 +23,6 @@ firefox-relay-reuse-masks-header =
     { $count ->
        *[other] Bạn đã sử dụng hết { $count } email ẩn danh miễn phí
     }
-firefox-relay-reuse-masks-description = Bạn có thể sử dụng lại email ẩn danh hiện có, nhưng sử dụng email ẩn danh riêng cho mỗi trang web là lựa chọn an toàn nhất. <label data-l10n-name="learn-more-url">Nâng cấp để có email ẩn danh không giới hạn</label>
 firefox-relay-reuse-masks-select-label = Chọn một email ẩn danh gần đây
 firefox-relay-see-all-masks =
     .label = Xem tất cả email ẩn danh

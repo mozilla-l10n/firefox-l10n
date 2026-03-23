@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] U hebt uw gratis e-mailmasker gebruikt
        *[other] U hebt alle { $count } gratis e-mailmaskers gebruikt
     }
-firefox-relay-reuse-masks-description = U kunt een bestaand masker hergebruiken, maar het gebruik van een uniek masker voor elke website is de veiligste optie. <label data-l10n-name="learn-more-url">Upgrade voor onbeperkte maskers</label>
 firefox-relay-reuse-masks-select-label = Een recent masker selecteren
 firefox-relay-see-all-masks =
     .label = Alle maskers bekijken

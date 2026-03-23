@@ -23,7 +23,6 @@ firefox-relay-reuse-masks-header =
     { $count ->
        *[other] Você usou todas as { $count } máscaras de email gratuitas
     }
-firefox-relay-reuse-masks-description = Você pode reusar uma máscara existente, mas usar uma máscara exclusiva para cada site é a opção mais segura. <label data-l10n-name="learn-more-url">Mudar para máscaras ilimitadas</label>
 firefox-relay-reuse-masks-select-label = Selecionar uma máscara recente
 firefox-relay-see-all-masks =
     .label = Ver todas as máscaras

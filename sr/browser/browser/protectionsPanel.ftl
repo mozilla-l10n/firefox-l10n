@@ -78,6 +78,19 @@ protections-panel-blocking-label = Блокирано
 protections-panel-not-blocking-label = Дозвољено
 protections-panel-not-found-label = Нису уочени
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } блокира садржај за праћење док сте на овом сајту, осим ако то не дозволите.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = Дозволи { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } пратиоци и садржај су блокирани
+smartblock-placeholder-desc = Ваша { -brand-short-name } подешавања су блокирала овај садржај како вас не би пратио на различитим сајтовима или био коришћен за огласе.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = Дозволи на { $websitehost }
+
 ##
 
 protections-panel-settings-label = Подешавања заштите

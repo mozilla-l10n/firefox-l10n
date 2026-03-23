@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] Du har använt { $count } gratis e-postalias
        *[other] Du har använt alla { $count } gratis e-postalias
     }
-firefox-relay-reuse-masks-description = Du kan återanvända ett befintligt alias, men att använda ett unikt alias för varje webbplats är det säkraste alternativet. <label data-l10n-name="learn-more-url">Uppgradera för obegränsade alias</label>
 firefox-relay-reuse-masks-select-label = Välj senaste alias
 firefox-relay-see-all-masks =
     .label = Se alla alias

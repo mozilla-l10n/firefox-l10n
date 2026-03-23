@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] Vous avez utilisé les { $count } alias de messagerie gratuits
        *[other] Vous avez utilisé les { $count } alias de messagerie gratuits
     }
-firefox-relay-reuse-masks-description = Vous pouvez réutiliser un alias existant, mais utiliser un alias unique pour chaque site web est l’option la plus sûre. <label data-l10n-name="learn-more-url">Mettre à jour un nombre illimité d’alias</label>
 firefox-relay-reuse-masks-select-label = Sélectionnez un alias récent
 firefox-relay-see-all-masks =
     .label = Voir tous les alias

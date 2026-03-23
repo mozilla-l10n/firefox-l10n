@@ -20,7 +20,6 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # $count (Number) - The number of free email masks the user has used
 firefox-relay-reuse-masks-header = 무료 이메일 가리기 { $count }개를 모두 사용함
-firefox-relay-reuse-masks-description = 기존 가리기를 재사용할 수 있지만, 각 웹 사이트에 고유한 가리기를 사용하는 것이 가장 안전한 옵션입니다. <label data-l10n-name="learn-more-url">가리기 무제한 업그레이드</label>
 firefox-relay-reuse-masks-select-label = 최근 가리기 선택
 firefox-relay-see-all-masks =
     .label = 모든 가리기 보기

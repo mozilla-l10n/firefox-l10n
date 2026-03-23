@@ -6,7 +6,7 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Пражњење картица
+about-unloads-page-title = Пражњење језичака
 about-unloads-intro =
     { -brand-short-name } има функцију која аутоматски ослобађа језичке
     да би се избегло рушење апликације услед недостатка меморије
@@ -20,8 +20,8 @@ about-unloads-intro =
 about-unloads-learn-more = Детаљније о овој функцији пронађите у <a data-l10n-name="doc-link">документацији</a>.
 about-unloads-last-updated = Последња измена: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Испразни
-    .title = Испразни картицу са највишим приоритетом
-about-unloads-no-unloadable-tab = Нема картица које се могу испразнити.
+    .title = Испразни језичак са највишим приоритетом
+about-unloads-no-unloadable-tab = Нема језичака који се могу испразнити.
 about-unloads-column-priority = Приоритет
 about-unloads-column-host = Хост
 about-unloads-column-last-accessed = Последњи приступ

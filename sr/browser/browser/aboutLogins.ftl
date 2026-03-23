@@ -16,7 +16,7 @@ about-logins-login-filter2 =
 create-login-button =
     .title = Додај лозинку
 fxaccounts-sign-in-text = Приступите лозинкама на другим уређајима
-fxaccounts-sign-in-sync-button = Пријавите се ради синхронизације
+fxaccounts-sign-in-sync-button = Пријавите се ради усклађивања
 fxaccounts-avatar-button =
     .title = Управљај налогом
 
@@ -107,8 +107,8 @@ about-logins-list-section-week = Последњих 7 дана
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите синхронизацију.
-about-logins-login-intro-heading-logged-in = Синхронизоване пријаве нису пронађене.
+about-logins-login-intro-heading-logged-out2 = Тражите сачуване лозинке? Увезите их или укључите усклађивање.
+about-logins-login-intro-heading-logged-in = Усклађене пријаве нису пронађене.
 login-intro-description =
     { -brand-product-name.declinable ->
         [true] Ако сте сачували лозинке у { -brand-product-name(case: "loc") } на другом уређају, ево како им можете приступити:
@@ -118,7 +118,7 @@ login-intro-instructions-fxa = Отворите { -fxaccount-brand-name(case: "a
 about-logins-login-intro-heading-message = Сачувај своје лозинке на безбедном месту
 login-intro-description2 = Све лозинке које сачуваш у { -brand-product-name } су шифроване. Ми пратимо цурења података и обавестићемо вас ако сте у њима. <a data-l10n-name="breach-alert-link">Сазнај више</a>
 login-intro-instructions-fxa2 = Направите или се пријавите на ваш налог, на уређају где су сачуване ваше пријаве.
-login-intro-instructions-fxa-settings = Идите у Подешавања → Синхронизација → Укључи синхронизацију. Изаберите поље „Лозинке”.
+login-intro-instructions-fxa-settings = Идите у Подешавања → Усклађивање → Укључи усклађивање. Изаберите поље „Лозинке”.
 login-intro-instructions-fxa-passwords-help = Посетите <a data-l10n-name="passwords-help-link">подршку за лозинке</a> за додатну помоћ.
 about-logins-intro-browser-only-import = Ако су ваше пријаве сачуване у другом прегледачу, можете да их <a data-l10n-name="import-link">увезете у { -brand-product-name }</a>
 about-logins-intro-import2 = Ако се ваше лозинке налазе ван { -brand-product-name(case: "gen") }, можете да их <a data-l10n-name="import-browser-link">увезете из другог прегледача</a> или <a data-l10n-name="import-file-link">из датотеке</a>
@@ -282,13 +282,13 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1]
             { -brand-short-name.declinable ->
-                [true] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
-               *[false] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [true] Овим ћете уклонити лозинку коју сте сачували у { -brand-short-name(case: "loc") } на свим уређајима усклађеним са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[false] Овим ћете уклонити све лозинке које сте сачували у { -brand-short-name(case: "loc") } на свим уређајима усклађеним са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
             }
        *[other]
             { -brand-short-name.declinable ->
-                [true] Овим ћете уклонити лозинку коју сте сачували у програму { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
-               *[false] Овим ћете уклонити све лозинке које сте сачували у програму { -brand-short-name(case: "loc") } на свим уређајима синхронизованим са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+                [true] Овим ћете уклонити лозинку коју сте сачували у програму { -brand-short-name(case: "loc") } на свим уређајима усклађеним са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
+               *[false] Овим ћете уклонити све лозинке које сте сачували у програму { -brand-short-name(case: "loc") } на свим уређајима усклађеним са { -fxaccount-brand-name(case: "ins") }, као и упозорења о цурењу података која се појављују овде. Ова радња се не може опозвати.
             }
     }
 # Checkbox for modal to confirm the removal of saved passwords
@@ -324,10 +324,10 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
-        [1] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
-        [one] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
-        [few] Ово ће уклонити лозинке сачуване у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
-       *[other] Ово ће уклонити све лозинке сачуване у { -brand-short-name } на свим вашим синхронизованим уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+        [1] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим усклађеним уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+        [one] Ово ће уклонити лозинку сачувану у { -brand-short-name } на свим вашим усклађеним уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+        [few] Ово ће уклонити лозинке сачуване у { -brand-short-name } на свим вашим усклађеним уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
+       *[other] Ово ће уклонити све лозинке сачуване у { -brand-short-name } на свим вашим усклађеним уређајима. Такође, уклониће се и сва упозорења о цурењу која се појаве овде. Не можете поништити ову радњу.
     }
 
 ##

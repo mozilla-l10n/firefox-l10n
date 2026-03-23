@@ -10,10 +10,10 @@ appmenu-update-available2 =
     .secondarybuttonaccesskey = О
 appmenu-update-available-message2 =
     { -brand-shorter-name.gender ->
-        [masculine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }.
-        [feminine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }.
-        [neuter] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }.
-       *[other] Преузмите најновију верзију програма { -brand-shorter-name }.
+        [masculine] Преузмите најновије издање { -brand-shorter-name(case: "acc") }.
+        [feminine] Преузмите најновије издање { -brand-shorter-name(case: "acc") }.
+        [neuter] Преузмите најновије издање { -brand-shorter-name(case: "acc") }.
+       *[other] Преузмите најновије издање програма { -brand-shorter-name }.
     }
 appmenu-update-manual2 =
     .label = Доступно је ажурирање
@@ -49,11 +49,14 @@ appmenu-update-restart2 =
     .secondarybuttonaccesskey = О
 appmenu-update-restart-message2 =
     { -brand-shorter-name.gender ->
-        [masculine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }. Отворене картице и прозори ће бити враћени.
-        [feminine] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }. Отворене картице и прозори ће бити враћени.
-        [neuter] Преузмите најновију верзију { -brand-shorter-name(case: "acc") }. Отворене картице и прозори ће бити враћени.
-       *[other] Преузмите најновију верзију програма { -brand-shorter-name }. Отворене картице и прозори ће бити враћени.
+        [masculine] Преузмите најновије издање { -brand-shorter-name(case: "acc") }. Отворени језичци и прозори ће бити враћени.
+        [feminine] Преузмите најновије издање { -brand-shorter-name(case: "acc") }. Отворени језичци и прозори ће бити враћени.
+        [neuter] Преузмите најновије издање { -brand-shorter-name(case: "acc") }. Отворени језичци и прозори ће бити враћени.
+       *[other] Преузмите најновије издање програма { -brand-shorter-name }. Отворени језичци и прозори ће бити враћени.
     }
+appmenu-theme-installed =
+    .secondarybuttonlabel = Опозови
+    .secondarybuttonaccesskey = U
 appmenu-update-other-instance =
     .label =
         { -brand-shorter-name.gender ->
@@ -83,14 +86,20 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = У реду
     .buttonaccesskey = У
 appmenu-addon-post-install-message3 = Управљајте додацима и темама из менија програма.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Ажурирајте овлашћења и поставке података било када у <a data-l10n-name="settings-link">подешавањима додатка</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Окачи екстензију на радну линију
+    .accesskey = P
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволи рад у приватним прозорима
     .accesskey = Д
 appmenu-new-tab-controlled-changes =
-    .label = Страница нове картице је промењена.
+    .label = Страница новог језичка је промењена.
     .buttonlabel = Задржи промене
     .buttonaccesskey = З
-    .secondarybuttonlabel = Управљај новим картицама
+    .secondarybuttonlabel = Управљај новим језичцима
     .secondarybuttonaccesskey = У
 appmenu-homepage-controlled-changes =
     .label = Ваша почетна страница је промењена.
@@ -99,8 +108,8 @@ appmenu-homepage-controlled-changes =
     .secondarybuttonlabel = Уредите почетну страницу
     .secondarybuttonaccesskey = M
 appmenu-tab-hide-controlled =
-    .label = Приступите скривеним картицама
-    .buttonlabel = Задржи картице скривеним
+    .label = Приступите скривеним језичцима
+    .buttonlabel = Задржи језичке скривеним
     .buttonaccesskey = З
     .secondarybuttonlabel = Онемогући додатак
     .secondarybuttonaccesskey = О

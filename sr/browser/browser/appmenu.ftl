@@ -22,7 +22,7 @@ appmenuitem-banner-update-unsupported =
 appmenuitem-banner-update-restart =
     .label = Доступно је ажурирање – поново покрените прегледач
 appmenuitem-new-tab =
-    .label = Нова картица
+    .label = Нови језичак
 appmenuitem-new-window =
     .label = Нови прозор
 appmenuitem-new-private-window =
@@ -76,31 +76,31 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = Пријавите се ради синхронизације…
+    .label = Пријавите се ради усклађивања…
 appmenu-remote-tabs-turn-on-sync =
-    .label = Укључи синхронизацију
+    .label = Укључи усклађивање
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
-    .label = Прикажи још картица
-    .tooltiptext = Прикажи више картица са овог уређаја
+    .label = Прикажи још језичака
+    .tooltiptext = Прикажи више језичака са овог уређаја
 # This is shown as the label for an element to show inactive tabs from this device.
 appmenu-remote-tabs-show-inactive-tabs =
-    .label = Неактивне картице
-    .tooltiptext = Погледај неактивне картице на овом уређају
+    .label = Неактивни језичци
+    .tooltiptext = Погледај неактивне језичке на овом уређају
 # This is shown beneath the name of a device when that device has no open tabs
-appmenu-remote-tabs-notabs = Нема отворених картица
+appmenu-remote-tabs-notabs = Нема отворених језичака
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = Укључите синхронизацију да бисте видели листу картица са других уређаја.
+appmenu-remote-tabs-tabsnotsyncing = Укључите усклађивање да бисте видели списак језичака са других уређаја.
 appmenu-remote-tabs-opensettings =
     .label = Подешавања
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = Желите ли да овде видите картице са других уређаја?
+appmenu-remote-tabs-noclients = Желите ли да овде видите језичке са других уређаја?
 appmenu-remote-tabs-connectdevice =
     .label = Повежи други уређај
-appmenu-remote-tabs-welcome = Погледајте листу картица са других уређаја.
+appmenu-remote-tabs-welcome = Погледајте списак језичака са других уређаја.
 appmenu-remote-tabs-unverified = Потребно је да потврдите налог.
-appmenuitem-fxa-toolbar-sync-now2 = Синхронизуј
+appmenuitem-fxa-toolbar-sync-now2 = Усклади
 appmenuitem-fxa-sign-in = Пријавите се у { -brand-product-name }
 appmenuitem-fxa-manage-account = Управљај налогом
 appmenu-fxa-header2 = { -fxaccount-brand-name }
@@ -108,16 +108,16 @@ appmenu-account-header = Налог
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
-appmenu-fxa-last-sync = Последња синхронизација { $time }
-    .label = Последња синхронизација { $time }
-appmenu-fxa-sync-and-save-data2 = Синхронизуј и сачувај податке
+appmenu-fxa-last-sync = Последње усклађивање { $time }
+    .label = Последње усклађивање { $time }
+appmenu-fxa-sync-and-save-data2 = Усклади и сачувај податке
 appmenu-fxa-signed-in-label = Пријава
 appmenu-fxa-setup-sync =
-    .label = Укључи синхронизацију
+    .label = Укључи усклађивање
 appmenu-fxa-setup-sync-new = Укључи
 appmenuitem-save-page =
     .label = Сачувај страницу као…
-appmenuitem-fxa-sync-off-title = Синхронизација је искључена
+appmenuitem-fxa-sync-off-title = Усклађивање је искључено
 appmenuitem-fxa-sync-off-description = Заштитите и приступите вашим обележивачима, лозинкама и другим подацима било где.
 
 ## What's New panel in App menu.
@@ -172,6 +172,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = Отворите панел профилера
+    .tooltiptext = Отворите панел профилера
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -198,6 +201,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = Препоручена подешавања за решавање { -brand-shorter-name } аудио и видео грешака.
 profiler-popup-presets-media-label =
     .label = Медији
+profiler-popup-presets-ml-description = Унапред подешена вредност за истраживање грешака машинског учења у { -brand-shorter-name }-у.
 profiler-popup-presets-ml-label =
     .label = Машинско учење
 profiler-popup-presets-networking-description = Препоручена подешавања за решавање { -brand-shorter-name } мрежних грешака.
@@ -210,6 +214,9 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Препоручене поставке за отклањање грешака у { -brand-shorter-name }-у. Високо оптерећење, за задатке високих перформанси, већ да за фокусирање на разумевање понашања прегледача.
 profiler-popup-presets-debug-label =
     .label = Отклањање грешака
+profiler-popup-presets-web-compat-description = Препоручена подешеност за отклањање грешака у вези са веб компатибилношћу на веб страницама, уместо праћења перформанси.
+profiler-popup-presets-web-compat-label =
+    .label = Веб компатибилност
 profiler-popup-presets-custom-label =
     .label = Прилагођено
 
@@ -223,7 +230,7 @@ appmenu-clear-history =
     .label = Обриши историју…
 appmenu-recent-history-subheader = Недавна историја
 appmenu-recently-closed-tabs =
-    .label = Недавно затворене картице
+    .label = Недавно затворени језичци
 appmenu-recently-closed-windows =
     .label = Недавно затворени прозори
 # This allows to search through the browser's history.
@@ -300,15 +307,24 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Добијајте упозорења о цурењу података
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Маскирајте вашу праву адресу е-поште и број телефона
+appmenuitem-services-relay-description = Покрените контролну таблу маски е-поште
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Набавите заштиту за цео уређај
 appmenuitem-vpn-description = Заштитите ваше радње на мрежи
 appmenu-services-header = Моје услуге
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Испробајте друге Mozilla-ине алате за заштиту:
+appmenu-other-protection-header = Пробајте друге заштитне алате од { -vendor-short-name }:
 
 ## Profiles panel
 
 appmenu-other-profiles = Други профили
 appmenu-manage-profiles =
     .label = Управљај профилима
+appmenu-copy-profile =
+    .label = Копирај овај профил
 appmenu-create-profile =
     .label = Нови профил
 appmenu-edit-profile =

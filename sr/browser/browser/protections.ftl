@@ -66,7 +66,7 @@ mobile-app-links = { -brand-product-name } прегледач за <a data-l10n-
 lockwise-title = Немојте поново заборавити лозинку
 passwords-title-logged-in = Управљајте вашим лозинкама
 passwords-header-content = { -brand-product-name } сигурно погхрањује ваше лозинке у вашем прегледачу.
-lockwise-header-content-logged-in = Безбедно чувајте и синхронизујте ваше лозинке на свим вашим уређајима.
+lockwise-header-content-logged-in = Безбедно чувајте и усклађујте ваше лозинке на свим вашим уређајима.
 protection-report-passwords-save-passwords-button = Сачувај лозинке
     .title = Сачувај лозинке
 protection-report-passwords-manage-passwords-button = Управљај лозинкама
@@ -224,3 +224,49 @@ bar-tooltip-cryptominer =
             [few] { $count } крипто-рудара ({ $percentage }%)
            *[other] { $count } крипто-рудара ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Заштите приватности
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } блокиран ове седмице
+        [few] { $count } блокирана ове седмице
+       *[other] { $count } блокираних ове седмице
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } пратилац
+        [few] { $count } пратиоца
+       *[other] { $count } пратилаца
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } сакупљач дигиталних отисака
+        [few] { $count } сакупљача дигиталних отисака
+       *[other] { $count } сакупљача дигиталних отисака
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } колачић за праћење
+        [few] { $count } колачића за праћење
+       *[other] { $count } колачића за праћење
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } друштвени пратилац
+        [few] { $count } друштвена пратиоца
+       *[other] { $count } друштвених пратилаца
+    }
+privacy-metrics-empty = Ове седмице није блокиран ниједан пратилац. { -brand-short-name } вас штити од следећих претњи док прегледате веб.
+privacy-metrics-loading = Учитавање статистике заштите…
+privacy-metrics-error = Не могу да учитам статистику заштите.
+privacy-metrics-private-window = { -brand-short-name } наставља да блокира пратиоце у приватним прозорима, али не води евиденцију о томе шта је блокирано.

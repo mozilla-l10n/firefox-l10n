@@ -24,7 +24,6 @@ firefox-relay-reuse-masks-header =
         [one] Jo hawwe jo fergeze e-mailmaskers brûkt
        *[other] Jo hawwe alle { $count } fergeze e-mailmaskers brûkt
     }
-firefox-relay-reuse-masks-description = Jo kinne in besteand masker opnij brûke, mar it brûken fan in unyk masker foar elke website is de feilichste opsje. <label data-l10n-name="learn-more-url">Opwurdearje foar ûnbeheinde maskers</label>
 firefox-relay-reuse-masks-select-label = In resint masker selektearje
 firefox-relay-see-all-masks =
     .label = Alle maskers besjen

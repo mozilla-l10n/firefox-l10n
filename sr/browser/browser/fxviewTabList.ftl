@@ -43,6 +43,28 @@ fxviewtabrow-save-to-pocket = Сачувај у { -pocket-brand-name }
     .accesskey = С
 fxviewtabrow-copy-link = Копирај везу
     .accesskey = в
+fxviewtabrow-close-tab = Затвори језичак
+    .accesskey = З
+fxviewtabrow-move-tab = Премести језичак
+    .accesskey = П
+fxviewtabrow-move-tab-start = Премести на почетак
+    .accesskey = п
+fxviewtabrow-move-tab-end = Премести на крај
+    .accesskey = к
+fxviewtabrow-move-tab-window = Премести у нови прозор
+    .accesskey = в
+fxviewtabrow-send-to-device = Пошаљи на уређај
+    .accesskey = у
+fxviewtabrow-send-tab = Пошаљи језичак на уређај
+    .accesskey = у
+fxviewtabrow-pin-tab = Закачи језичак
+    .accesskey = к
+fxviewtabrow-unpin-tab = Откачи језичак
+    .accesskey = О
+fxviewtabrow-mute-tab = Утишај језичак
+    .accesskey = У
+fxviewtabrow-unmute-tab = Пусти звук језичка
+    .accesskey = з
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
@@ -51,6 +73,6 @@ fxviewtabrow-options-menu-button =
 ## Strings below are to be used without context (tab title/URL) on mute/unmute buttons
 
 fxviewtabrow-mute-tab-button-no-context =
-    .title = Утишај картицу
+    .title = Утишај језичак
 fxviewtabrow-unmute-tab-button-no-context =
-    .title = Појачај картицу
+    .title = Појачај језичак

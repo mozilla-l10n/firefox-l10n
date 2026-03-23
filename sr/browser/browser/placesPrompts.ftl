@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = Неподржани тип датоте
 places-bookmarks-restore-parse-error = Није могуће обрадити датотеку резервне копије.
 places-bookmarks-import = Увоз датотеке са обележивачима
 places-bookmarks-export = Извоз датотеке са обележивачима
+places-bookmarks-paste-error-title = Пронађене су неисправне адресе
+places-bookmarks-paste-error-message-header = Следеће адресе нису могле бити додате у ваше обележиваче. Покушајте да проверите форматирање и додате их поново.

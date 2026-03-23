@@ -35,6 +35,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Објасни ово
     .value = Објасни кључне идеје у одабраном делу служећи се једноставним речима. Такође, користи примере.
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Лектурисано
+    .value = Лектуришите изабрани текст за правописне и граматичке грешке. Препознајте све грешке и обезбедите исправљену верзију текста. Задржите значење и чињеничну тачност и прво испишите листу предложених исправки, а затим коначну, исправљену верзију текста.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -43,23 +47,75 @@ genai-prompt-prefix-selection = Налазим се на страници „{ $
 ## Chatbot menu shortcuts
 
 genai-menu-ask-generic =
-    .label = Питај AI чет-бота
+    .label = Питај ВИ чет-бота
 # $provider (string) - name of the provider
 genai-menu-ask-provider =
     .label = Питај { $provider }
+genai-menu-open-generic =
+    .label = Отвори ВИ чет-бота
+# $provider (string) - name of the provider
+genai-menu-open-provider =
+    .label = Отвори { $provider }
+genai-menu-remove-generic =
+    .label = Уклони ВИ чет-бота
+# $provider (string) - name of the provider
+genai-menu-remove-provider =
+    .label = Уклони { $provider }
+genai-menu-remove-sidebar =
+    .label = Уклони из бочне површи
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Питај { $provider }
+genai-menu-new-badge = Ново
+genai-menu-summarize-page = Сажми страницу
 genai-input-ask-generic =
-    .placeholder = Питај AI чет-бота…
+    .placeholder = Питај ВИ чет-бота…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Питај { $provider }…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = ВИ чет-бот неће добити ваш цео избор
+    .message =
+        { $selectionLength ->
+            [one] Изабрали сте око { $selectionLength } знак. Број знакова које можемо послати ВИ чет-боту је око { $maxLength }.
+            [few] Изабрали сте око { $selectionLength } знака. Број знакова које можемо послати ВИ чет-боту је око { $maxLength }.
+           *[other] Изабрали сте око { $selectionLength } знакова. Број знакова које можемо послати ВИ чет-боту је око { $maxLength }.
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider } неће добити ваш цео избор
+    .message =
+        { $selectionLength ->
+            [one] Изабрали сте око { $selectionLength } знак. Број знакова које можемо послати услузи { $provider } је око { $maxLength }.
+            [few] Изабрали сте око { $selectionLength } знака. Број знакова које можемо послати услузи { $provider } је око { $maxLength }.
+           *[other] Изабрали сте око { $selectionLength } знакова. Број знакова које можемо послати услузи { $provider } је око { $maxLength }.
+        }
 genai-shortcuts-hide =
     .label = Сакриј пречице за чет-бота
+genai-menu-choose-chatbot =
+    .label = Изабери ВИ чет-бота
+genai-menu-ask-generic-2 =
+    .label = Питај ВИ чет-ботаа
+    .accesskey = з
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Питај { $provider }
+    .accesskey = з
+genai-menu-no-provider-2 =
+    .label = Питај ВИ чет-ботаа
+    .accesskey = з
 
 ## Chatbot header
 
-genai-chatbot-title = AI чет-бот
+genai-chatbot-title = ВИ чет-бот
 genai-header-provider-menu =
     .title = Изабери чет-бота
+genai-header-settings-button =
+    .title = Подешавања ВИ ћаскања
 genai-header-options-button =
     .title = Отвори мени
 genai-header-close-button =
@@ -67,7 +123,7 @@ genai-header-close-button =
 genai-provider-view-details =
     .label = Погледај детаље чет-бота
 genai-options-reload-generic =
-    .label = Поново учитај AI чет-бота
+    .label = Поново учитај ВИ чет-бота
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Поново учитај { $provider }
@@ -76,13 +132,25 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Сакриј пречицу кад означиш текст
 genai-options-about-chatbot =
-    .label = О AI чет-ботовима у { -brand-short-name }-у
+    .label = О ВИ чет-ботовима у { -brand-short-name }-у
+
+## Chatbot message
+
+genai-page-warning =
+    .message = Пошто је страница дугачка, ово је делимичан сажетак.
+
+## Chatbot footer
+
+genai-page-button-summarize = Сажми страницу
 
 ## Chatbot onboarding
 
 genai-onboarding-header = Сажимајте, разрађујте идеје и још много тога док прегледате
+genai-onboarding-choose-header = Изаберите ВИ чет-бота за коришћење у бочној површи { -brand-short-name } прегледача
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Изаберите AI чет-бота за коришћење у { -brand-short-name } бочном панелу. Показаћемо вам детаље о сваком од њих када их изаберете. Промените било када. <a data-l10n-name="learn-more">Сазнајте више</a>
+genai-onboarding-description = Изаберите ВИ чет-бота за коришћење у { -brand-short-name } бочном панелу. Показаћемо вам детаље о сваком од њих када их изаберете. Промените било када. <a data-l10n-name="learn-more">Сазнајте више</a>
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-choose-description = Промените било када. За помоћ при избору, <a data-l10n-name="learn-more">сазнајте више о сваком чет-боту</a>.
 genai-onboarding-primary = Настави
 genai-onboarding-secondary = Затвори
 genai-onboarding-claude-tooltip =
@@ -106,6 +174,18 @@ genai-onboarding-lechat-learn = Сазнајте више о Le Chat-у
 genai-onboarding-select-header = Одабери текст за приказ предлога
 genai-onboarding-select-description = Када одаберете текст, направићемо предлоге које можете послати чет-боту. Такође, можете написати сопствени упит.
 genai-onboarding-select-primary = Започни ћаскање
+genai-chatbot-contextual-title = Користите ВИ чет-бота без мењања језичака
+genai-chatbot-contextual-subtitle = Ћаскајте и прегледајте упоредо када додате ВИ чет-бота у бочну површ { -brand-short-name } прегледача.
+genai-chatbot-contextual-button = Изаберите чет-бота
+genai-chatbot-summarize-title = Ново! Сажми странице у једном клику
+genai-chatbot-summarize-button = Сажми страницу
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-provider-subtitle = Десним кликом на ваш ВИ чет-бот у бочној површи и изаберите „Сажми страницу“.
+# “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
+genai-chatbot-summarize-sidebar-generic-subtitle = Десним кликом на дугме са варницама у бочној површи и изаберите „Сажми страницу“. Први пут ћете такође изабрати ВИ чет-бота.
+# “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
+genai-chatbot-summarize-footer-provider-subtitle = Отворите ваш ВИ чет-бот у бочној површи и изаберите „Сажми страницу“ на дну.
+genai-chatbot-summarize-footer-generic-subtitle = Додајте ВИ чет-бота у бочну површ { -brand-short-name } прегледача да бисте брзо сажели странице.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
@@ -127,3 +207,73 @@ genai-onboarding-huggingchat-switch = Бирајте између разновр
 genai-onboarding-huggingchat-price-2 = Бесплатно; налог је потребан након одређеног броја захтева
 genai-onboarding-lechat-generate = Направи текст и кȏд
 genai-onboarding-lechat-price = Бесплатно; потребан је налог
+
+## Model Optin Component
+
+genai-model-optin-continue =
+    .label = Настави
+genai-model-optin-optout =
+    .label = Откажи
+genai-model-optin-cancel =
+    .label = Откажи
+
+## Link previews
+
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } мин. за читање
+        [few] { $range } мин. за читање
+       *[other] { $range } мин. за читање
+    }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } не може да прикаже преглед ове везе
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = Посети везу
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } не може да генерише кључне тачке за ову веб страницу.
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = Нешто је пошло наопако.
+# Text for the retry link when generation fails
+link-preview-generation-retry = Покушај поново
+# Button that opens the Link Preview settings
+link-preview-settings-button =
+    .title = Подешавања прегледа везе
+link-preview-settings-enable =
+    .label = Омогући прегледе веза
+    .description = Погледајте наслов странице, опис и још много тога када користите пречицу или десним кликом на везу.
+link-preview-settings-key-points =
+    .label = Дозволи вештачкој интелигенцији да прочита почетак странице и генерише кључне тачке
+link-preview-settings-long-press =
+    .label = Пречица: кликните и држите везу 1 секунду (дуги притисак)
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = Видите више уз помоћ вештачке интелигенције?
+# Message that appears when user is shown the opt-in flow for link previews
+link-preview-optin-message = { -brand-short-name } користи вештачку интелигенцију за читање почетка странице и генерисање неколико кључних тачака. Ради ваше приватности, ово се дешава на вашем уређају.
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Ново: кликните и држите било коју везу за преглед
+# Onboarding card description for long press
+link-preview-onboarding-description-long-press = Погледајте кратак опис, време читања и још много тога да бисте одлучили да ли вреди отворити везу. Такође доступно на десни клик.
+# Header for the key points section
+link-preview-key-points-header = Кључне тачке
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Кључне тачке су генерисане вештачком интелигенцијом и могу имати грешке.
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Прво подешавање • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Следећи пут ћете брже видети кључне тачке.
+# Onboarding card See a preview button
+link-preview-onboarding-button = Погледај преглед
+# Onboarding card Close button
+link-preview-onboarding-close = Затвори
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Прво подешавање
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Ово може потрајати. Следећи пут ћете брже видети кључне тачке.
