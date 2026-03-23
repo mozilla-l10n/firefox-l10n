@@ -204,3 +204,42 @@ bar-tooltip-cryptominer =
         }
 # Privacy Metrics Card
 privacy-metrics-title = Personvernsikring
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blokkert denne veka
+       *[other] { $count } blokkerte denne veka
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } sporar
+       *[other] { $count } sporarar
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } nettlesaravtrykksporar
+       *[other] { $count } nettlesaravtrykksporarar
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } sporingsinfokapsel
+       *[other] { $count } sporingsinfokapslar
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sporar via sosiale medium
+       *[other] { $count } sporarar via sosiale medium
+    }
+privacy-metrics-empty = Ingen sporarar blokkerte denne veka. { -brand-short-name } vernar deg mot følgjande truslar medan du surfar.
+privacy-metrics-loading = Lastar inn vernestatistikk…
+privacy-metrics-error = Klarte ikkje å laste inn vernestatistikk.
+privacy-metrics-private-window = { -brand-short-name } held fram med å blokkere sporarar i private vindauge, men lagrar ikkje ei oversikt over kva som vart blokkert.
