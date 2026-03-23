@@ -79,9 +79,27 @@ item-active-logins =
 item-cache =
     .label = Кеш
     .accesskey = ш
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = Привремене кеширане датотеке и странице ({ $amount } { $unit })
+    .accesskey = т
+item-cached-content =
+    .label = Привремене кеширане датотеке и странице
+    .accesskey = в
+item-cached-content-description = Чисти ставке које помажу сајтовима да се брже учитавају
 item-form-search-history =
     .label = Историја образаца и претраге
     .accesskey = с
+item-site-prefs =
+    .label = Подешавања сајта
+    .accesskey = ј
+item-formdata-prefs =
+    .label = Сачувани подаци из образаца
+    .accesskey = о
+item-formdata-description = Чисти ствари као што су имена, е-поште и друге ставке које уносите у обрасце
+item-site-prefs-description = Враћа ваша овлашћења и поставке сајта на изворна подешавања
 data-section-label = Подаци
 item-site-settings =
     .label = Подешавања сајта
@@ -110,3 +128,6 @@ sanitize-everything-warning = Обрисаћете сву историју.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Обрисаћете све изабране ставке.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = Израчунавам…

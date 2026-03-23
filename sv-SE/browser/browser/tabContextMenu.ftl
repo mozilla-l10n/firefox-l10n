@@ -141,7 +141,7 @@ tab-context-send-to-mobile =
     .label =
         { $tabCount ->
             [1] Skicka till mobil
-            [one] Skicka { $tabCount } flikar till mobilen
+            [one] Skicka { $tabCount } flik till mobilen
            *[other] Skicka { $tabCount } flikar till mobilen
         }
     .accesskey = S

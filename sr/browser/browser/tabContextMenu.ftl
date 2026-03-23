@@ -138,6 +138,16 @@ tab-context-send-to-device =
             [few] Пошаљи { $tabCount } језичка на уређај
            *[other] Пошаљи { $tabCount } језичака на уређај
         }
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Пошаљи на мобилни
+            [one] Пошаљи { $tabCount } језичак на мобилни
+            [few] Пошаљи { $tabCount } језичка на мобилни
+           *[other] Пошаљи { $tabCount } језичака на мобилни
+        }
+    .accesskey = н
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
