@@ -45,10 +45,6 @@ startup-header = Startup
 always-check-default =
     .label = Always check if { -brand-short-name } is your default browser
     .accesskey = y
-is-default-browser =
-    .message = { -brand-short-name } is currently your default browser
-is-not-default-browser =
-    .message = { -brand-short-name } is not your default browser
 is-default = { -brand-short-name } is currently your default browser
 is-not-default = { -brand-short-name } is not your default browser
 tabs-group-header2 =
@@ -387,9 +383,6 @@ history-remember-option-custom =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
-history-dontremember-description3 =
-    .aria-label = { history-remember-label2 }
-    .description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-dontremember-description = { -brand-short-name } will use the same settings as private browsing, and will not remember any history as you browse the Web.
 history-private-browsing-permanent =
     .label = Always use private browsing mode
@@ -489,3 +482,15 @@ certs-devices-enable-fips = Enable FIPS
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
