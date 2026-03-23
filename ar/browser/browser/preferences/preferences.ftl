@@ -474,9 +474,11 @@ applications-filter =
 applications-type-column =
     .label = نوع المحتوى
     .accesskey = ن
+applications-type-heading = نوع المحتوى
 applications-action-column =
     .label = الإجراء
     .accesskey = ج
+applications-action-heading = الإجراء
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = ملف { $extension }
@@ -737,6 +739,9 @@ use-current-pages =
 choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -1837,3 +1842,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
