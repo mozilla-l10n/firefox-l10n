@@ -1495,7 +1495,7 @@ trustpanel-etp-toggle-on =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = 향상된 추적 방지 기능: { $host }에 대해 꺼짐
-trustpanel-etp-description-enabled = 이 사이트에서 뭔가 손상된 것처럼 보이면 보호 기능을 꺼보세요.
+trustpanel-etp-description-enabled = 이 사이트가 손상되어 보이면 보호 기능을 꺼보세요.
 trustpanel-etp-description-disabled = { -brand-product-name }는 기업들이 사용자를 덜 추적해야 한다고 생각합니다. 보호 기능을 켜면 가능한 한 많은 추적기를 차단합니다.
 trustpanel-connection-label-secure = 안전한 연결
 trustpanel-connection-label-insecure = 안전하지 않은 연결
