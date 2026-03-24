@@ -88,8 +88,11 @@ upgrade-vpn-button = 請試用 { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = 無法連線至 VPN
 ipprotection-connection-status-generic-error-description = 請稍候幾分鐘再試一次。
+ipprotection-connection-status-generic-error-try-again = 請稍候再試。
 ipprotection-connection-status-network-error-title = 請檢查您的網際網路連線是否正常
 ipprotection-connection-status-network-error-description = 請連線到網際網路，再嘗試開啟 VPN。
+ipprotection-connection-status-blocked-error-title = 無法使用 VPN
+ipprotection-connection-status-blocked-error-description = 由於此地區的相關法律規定，我們無法提供 VPN 服務。<a data-l10n-name="learn-more-link">更多資訊</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

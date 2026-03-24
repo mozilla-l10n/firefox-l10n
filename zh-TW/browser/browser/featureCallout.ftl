@@ -104,6 +104,14 @@ perplexity-callout-primary-label = 詢問 Perplexity
 perplexity-callout-secondary-label-1 = 知道了！
 perplexity-callout-secondary-label-2 = 知道了！
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = 想試用全新的隱私保護搜尋功能嗎？
+start-page-callout-subtitle = 請試用 Startpage。從一開始使用就讓您的搜尋更有隱私。
+start-page-callout-primary-label = 試用 Startpage
+start-page-callout-secondary-label = 知道了！
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync

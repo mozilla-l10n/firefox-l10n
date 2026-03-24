@@ -20,6 +20,9 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # $count (Number) - The number of free email masks the user has used
 firefox-relay-reuse-masks-header = 您已用完全部 { $count } 個免費轉寄信箱
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = 您可以重複使用任一組，或確認所有轉寄信箱後，選擇其他信箱。
 firefox-relay-reuse-masks-select-label = 選擇近期產生的轉寄信箱
 firefox-relay-see-all-masks =
     .label = 檢視所有轉寄信箱
