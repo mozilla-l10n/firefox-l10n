@@ -22,7 +22,7 @@ about-translations-policy-disabled-info-message =
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
     .heading = Pour traduire du texte, débloquez cette fonctionnalité
-    .message = Il semble que vous ayez mis à jour les paramètres de l’IA pour bloquer cette fonctionnalité. Débloquez à tout moment pour commencer à l’utiliser.
+    .message = Il semble que vous ayez mis à jour les contrôles d’IA pour bloquer cette fonctionnalité. Débloquez-la à tout moment pour commencer à l’utiliser.
 about-translations-feature-blocked-unblock-button = Débloquer
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
