@@ -88,8 +88,11 @@ upgrade-vpn-button = Probearje { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Kin net ferbine mei VPN
 ipprotection-connection-status-generic-error-description = Probearje it oer in pear minuten opnij.
+ipprotection-connection-status-generic-error-try-again = Probearje it letter noch ris.
 ipprotection-connection-status-network-error-title = Kontrolearje jo ynternetferbining
 ipprotection-connection-status-network-error-description = Meitsje ferbining mei it ynternet en probearje dernei VPN yn te skeakeljen.
+ipprotection-connection-status-blocked-error-title = VPN is net beskikber
+ipprotection-connection-status-blocked-error-description = Fanwegen lokale wetjouwing kinne wy gjin VPN-tsjinsten oanbiede yn dizze regio. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

@@ -24,6 +24,9 @@ firefox-relay-reuse-masks-header =
         [one] Jo hawwe jo fergeze e-mailmaskers brûkt
        *[other] Jo hawwe alle { $count } fergeze e-mailmaskers brûkt
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Jo kinne der ien opnij brûke of alle maskers besjen om in oare te kiezen.
 firefox-relay-reuse-masks-select-label = In resint masker selektearje
 firefox-relay-see-all-masks =
     .label = Alle maskers besjen
