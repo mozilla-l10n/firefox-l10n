@@ -99,7 +99,7 @@ permissions-exceptions-https-only-desc2 = Sie können den Nur-HTTPS-Modus für b
 ## Exceptions - Pop-ups And Third-Party Redirects
 
 permissions-exceptions-popup-window3 =
-    .title = Erlaube Websites - Pop-ups und Drittanbieter-Weiterleitungen
+    .title = Erlaubte Websites - Pop-ups und Drittanbieter-Weiterleitungen
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc2 = Sie können festlegen, welche Websites Pop-up-Fenster öffnen und von Frames von Drittanbietern umgeleitet werden dürfen.
 
