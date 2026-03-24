@@ -209,6 +209,8 @@ certerror-mitm-title = มีซอฟต์แวร์ที่ทำให้
 
 fp-certerror-page-title = คำเตือน: ความเสี่ยงด้านความปลอดภัย
 fp-certerror-body-title = ระวังหน่อย มีบางอย่างผิดปกติ
+fp-certerror-illustration-alt =
+    .alt = ภาพประกอบแสดงสุนัขจิ้งจอกกำลังมองป้ายเตือนสีส้ม
 fp-certerror-why-site-dangerous = สิ่งที่ทำให้ไซต์ดูอันตรายคืออะไร?
 fp-certerror-what-can-you-do = คุณสามารถทำอะไรเกี่ยวกับเรื่องนี้ได้บ้าง?
 fp-certerror-advanced-title = ขั้นสูง

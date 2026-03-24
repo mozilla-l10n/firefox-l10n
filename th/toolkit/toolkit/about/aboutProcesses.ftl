@@ -59,6 +59,11 @@ about-processes-inference-process = การอนุมาน ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = อื่น ๆ : { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = ส่วนตัว
+about-processes-web-isolated-property-jit-disabled = ปิดใช้งาน JIT อยู่
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
