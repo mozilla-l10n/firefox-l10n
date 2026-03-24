@@ -31,6 +31,9 @@ firefox-relay-reuse-masks-select-label = Sélectionnez un alias récent
 firefox-relay-see-all-masks =
     .label = Voir tous les alias
     .accesskey = V
+firefox-relay-dismiss =
+    .label = Ignorer
+    .accesskey = I
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protégez votre adresse e-mail :
 firefox-relay-opt-in-title-2 = Obtenez un alias de messagerie gratuit
