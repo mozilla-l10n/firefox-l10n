@@ -33,9 +33,8 @@ fxa-menu-send-to-device =
 fxa-menu-send-to-mobile =
     .label =
         { $tabCount ->
-            [1] Envoyer vers un mobile
-            [one] Envoyez { $tabCount } onglets vers votre mobile
-           *[other] Envoyez { $tabCount } onglets vers votre mobile
+            [1] Envoyer à un mobile
+           *[other] Envoyer { $tabCount } onglets à un mobile
         }
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.

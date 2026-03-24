@@ -209,38 +209,38 @@ privacy-metrics-title = Protection de la vie privée
 #   $count (Number) - Total number of trackers blocked this week
 privacy-metrics-blocked-this-week =
     { $count ->
-        [one] { $count } bloqués cette semaine
-       *[other] { $count } bloqués cette semaine
+        [one] { $count } bloqué cette semaine
+       *[other] { $count } bloqués cette semaine
     }
 # Variables:
 #   $count (Number) - Number of trackers blocked
 privacy-metrics-trackers =
     { $count ->
-        [one] { $count } traqueur
+        [one] { $count } traqueur
        *[other] { $count } traqueurs
     }
 # Variables:
 #   $count (Number) - Number of fingerprinters blocked
 privacy-metrics-fingerprinters =
     { $count ->
-        [one] { $count } détecteur d’empreinte numérique
-       *[other] { $count } détecteurs d’empreinte numérique
+        [one] { $count } détecteur d’empreinte numérique
+       *[other] { $count } détecteurs d’empreinte numérique
     }
 # Variables:
 #   $count (Number) - Number of tracking cookies blocked
 privacy-metrics-cookies =
     { $count ->
-        [one] { $count } cookie de pistage
-       *[other] { $count } cookies de pistage
+        [one] { $count } cookie de pistage
+       *[other] { $count } cookies de pistage
     }
 # Variables:
 #   $count (Number) - Number of social trackers blocked
 privacy-metrics-social =
     { $count ->
-        [one] { $count } traqueur de réseaux sociaux
-       *[other] { $count } traqueurs de réseaux sociaux
+        [one] { $count } traqueur de réseaux sociaux
+       *[other] { $count } traqueurs de réseaux sociaux
     }
 privacy-metrics-empty = Aucun traqueur bloqué cette semaine. { -brand-short-name } vous protège contre les menaces suivantes pendant votre navigation.
-privacy-metrics-loading = Chargement des stats de protection…
+privacy-metrics-loading = Chargement des statistiques de protection…
 privacy-metrics-error = Impossible de charger les statistiques de protection.
 privacy-metrics-private-window = { -brand-short-name } continue de bloquer les traqueurs dans les fenêtres de navigation privée, mais ne conserve aucune trace de ce qui a été bloqué.

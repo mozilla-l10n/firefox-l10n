@@ -26,8 +26,8 @@ firefox-relay-reuse-masks-header =
     }
 # Description following warning that the user has used all their free email masks.
 # The user is presented a list of recently used masks to select, or they can click a button to see all masks.
-firefox-relay-reuse-masks-description-v2 = Vous pouvez réutiliser un ou plusieurs alias pour en choisir un autre.
-firefox-relay-reuse-masks-select-label = Sélectionnez un alias récent
+firefox-relay-reuse-masks-description-v2 = Vous pouvez réutiliser un alias ou tous les afficher pour en choisir un autre.
+firefox-relay-reuse-masks-select-label = Sélectionner un alias récent
 firefox-relay-see-all-masks =
     .label = Voir tous les alias
     .accesskey = V

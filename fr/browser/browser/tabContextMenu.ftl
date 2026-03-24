@@ -141,9 +141,8 @@ tab-context-send-to-device =
 tab-context-send-to-mobile =
     .label =
         { $tabCount ->
-            [1] Envoyer vers mobile
-            [one] Envoyez { $tabCount } onglets vers mobile
-           *[other] Envoyez { $tabCount } onglets vers mobile
+            [1] Envoyer à un mobile
+           *[other] Envoyer { $tabCount } onglets à un mobile
         }
     .accesskey = E
 tab-context-send-tabs-to-device =
