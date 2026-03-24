@@ -178,12 +178,15 @@ neterror-response-status-code = Κωδικός σφάλματος: { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Φαίνεται ότι υπάρχει κάποιο πρόβλημα με τη σύνδεσή σας στο διαδίκτυο
+fp-neterror-illustration-alt =
+    .alt = Απεικόνιση μιας αλεπούς που κοιτάζει αποσυνδεδεμένα καλώδια δικτύου.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = Το { -brand-short-name } δεν μπορεί να δημιουργήσει ασφαλή σύνδεση με τον διακομιστή στο { $hostname }.
 fp-neterror-offline-intro = Το { -brand-short-name } δεν μπορεί να συνδεθεί στον διακομιστή στο <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Ο διακομιστής στο <strong>{ $hostname }</strong> αργεί πολύ να αποκριθεί.
 fp-neterror-coop-coep-intro = Το { -brand-short-name } δεν φόρτωσε αυτήν τη σελίδα, επειδή φαίνεται ότι οι ρυθμίσεις ασφαλείας δεν συμφωνούν με την προηγούμενη σελίδα.
 fp-neterror-http-auth-disabled-intro = Κάποιος που προσποιείται ότι είναι ο ιστότοπος θα μπορούσε να υποκλέψει στοιχεία, όπως το όνομα χρήστη, τον κωδικό πρόσβασης ή το email σας.
 fp-neterror-http-auth-disabled-secure-connection = Αυτός ο ιστότοπος απαιτεί ασφαλή σύνδεση και δεν μπορείτε να προσθέσετε εξαίρεση για να τον επισκεφθείτε.

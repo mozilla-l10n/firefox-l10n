@@ -211,6 +211,8 @@ certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την
 
 fp-certerror-page-title = Προειδοποίηση: Κίνδυνος ασφαλείας
 fp-certerror-body-title = Να προσέχετε. Κάτι δεν πάει καλά.
+fp-certerror-illustration-alt =
+    .alt = Απεικόνιση μιας αλεπούς που κοιτάζει ένα πορτοκαλί προειδοποιητικό σημάδι.
 fp-certerror-why-site-dangerous = Τι είναι αυτό που κάνει τον ιστότοπο να φαίνεται επικίνδυνος;
 fp-certerror-what-can-you-do = Τι μπορείτε να κάνετε για αυτό;
 fp-certerror-advanced-title = Σύνθετες επιλογές

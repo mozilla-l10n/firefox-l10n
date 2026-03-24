@@ -88,8 +88,10 @@ upgrade-vpn-button = Δοκιμή του { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Δεν ήταν δυνατή η σύνδεση στο VPN
 ipprotection-connection-status-generic-error-description = Δοκιμάστε ξανά σε λίγα λεπτά.
+ipprotection-connection-status-generic-error-try-again = Δοκιμάστε ξανά αργότερα.
 ipprotection-connection-status-network-error-title = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
 ipprotection-connection-status-network-error-description = Συνδεθείτε στο διαδίκτυο και δοκιμάστε να ενεργοποιήσετε το VPN.
+ipprotection-connection-status-blocked-error-title = Το VPN δεν είναι διαθέσιμο
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
