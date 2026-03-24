@@ -15,6 +15,11 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Prevajanje na tej napravi ni na voljo.
     .message = Poskusite na drugi napravi.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Za prevajanje besedila odblokirajte to možnost
+    .message = Videti je, da vaše nastavitve umetne inteligence prepovedujejo delovanje te možnosti. Če jo želite uporabiti, jo lahko kadarkoli odblokirate.
+about-translations-feature-blocked-unblock-button = Odblokiraj
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Jezikov ni bilo mogoče naložiti
@@ -25,6 +30,16 @@ about-translations-language-load-error-message =
     .heading = Jezikov ni bilo mogoče naložiti.
     .message = Preverite svojo povezavo z internetom in poskusite znova.
 about-translations-language-load-error-button = Poskusi znova
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Pri prevajanju je prišlo do težave
+about-translations-translation-error-subtext = Poskusite znova.
+about-translations-translation-error-button = Poskusi znova
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading = Jezika { $language } žal še ne podpiramo
+about-translations-detected-language-unsupported-heading-unknown = Tega jezika žal še ne podpiramo
+about-translations-detected-language-unsupported-subtext = Izberite drug jezik.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Vnesite besedilo, ki ga želite prevesti

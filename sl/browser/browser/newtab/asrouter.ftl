@@ -312,6 +312,10 @@ tail-fox-spotlight-subtitle = Poslovite se od nadležnega sledenja oglasov in se
 tail-fox-spotlight-primary-button = Odpiraj povezave v { -brand-short-name(sklon: "mestnik") }
 tail-fox-spotlight-secondary-button = Ne zdaj
 
+## Welcome Back Spotlight and Import
+
+welcome-back-embedded-import-title = Uvozite svoje podatke in se počutite v { -brand-short-name(sklon: "mestnik") } kot doma
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>V starejših različicah { -brand-short-name(sklon: "rodilnik") } se bodo po 14. januarju 2025 morda pojavile težave.</strong>

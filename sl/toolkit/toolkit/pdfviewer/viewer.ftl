@@ -666,9 +666,12 @@ pdfjs-toggle-views-manager-button =
     .title = Preklopi stransko vrstico
 pdfjs-toggle-views-manager-notification-button =
     .title = Preklopi stransko vrstico (dokument vsebuje sli훾ice/oris/priponke/plasti)
+pdfjs-toggle-views-manager-button1-label = Upravljanje strani
 pdfjs-toggle-views-manager-button-label = Preklopi stransko vrstico
 pdfjs-views-manager-sidebar =
     .aria-label = Stranska vrstica
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Sprememba velikosti stranske vrstice
 pdfjs-views-manager-view-selector-button =
     .title = Pogledi
 pdfjs-views-manager-view-selector-button-label = Pogledi
@@ -732,10 +735,19 @@ pdfjs-views-manager-status-warning-copy-label = Kopiranje ni bilo mogo훾e. Osve�
 pdfjs-views-manager-status-warning-delete-label = Brisanje ni bilo mogo훾e. Osve탑ite stran in poskusite znova.
 pdfjs-views-manager-status-warning-save-label = Shranjevanje ni bilo mogo훾e. Osve탑ite stran in poskusite znova.
 pdfjs-views-manager-status-undo-button-label = Razveljavi
+pdfjs-views-manager-status-done-button-label = Kon훾ano
 pdfjs-views-manager-status-close-button =
     .title = Zapri
 pdfjs-views-manager-status-close-button-label = Zapri
 pdfjs-views-manager-paste-button-label = Prilepi
+pdfjs-views-manager-paste-button-before =
+    .title = Prilepi pred prvo stran
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Prilepi za stranjo { $page }
+pdfjs-toggle-views-manager-button1 =
+    .title = Upravljanje strani
 
 ## Main menu for adding/removing signatures
 

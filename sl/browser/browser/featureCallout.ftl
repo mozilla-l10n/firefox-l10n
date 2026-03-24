@@ -225,7 +225,11 @@ sidebar-genai-survey-satisfaction-question = Kako ste zadovoljni z dostopom do U
 sidebar-genai-survey-productive-question =
     V kolikšni meri se strinjate oziroma ne strinjate s to izjavo:<br/>
     “UI-klepetalnik veča mojo produktivnost”?
+splitview-onboarding-callout-title-1 = Razdeljen pogled: boljši način za hkratno opravljanje več nalog
+splitview-onboarding-callout-subtitle-1 = Za hkraten prikaz dveh zavihkov z desno miškino tipko kliknite na ta zavihek in izberite "Dodaj razdeljeni pogled".
 splitview-onboarding-callout-cta-1 = Preizkusite zdaj
+splitview-onboarding-callout-title-2 = Prikažite dva zavihka hkrati z razdeljenim pogledom
+splitview-onboarding-callout-subtitle-2 = Brez dodatnih oken. Brez skakanja z enega zavihka na drugega. Z desno miškino tipko kliknite ta zavihek in izberite "Dodaj razdeljeni pogled".
 splitview-onboarding-callout-cta-2 = Preizkusite razdeljeni pogled
 unified-search-callout-title = Preklapljajte med iskalniki
 unified-search-callout-subtitle = Izberite, kar se za vaše trenutno iskanje najbolje obnese.

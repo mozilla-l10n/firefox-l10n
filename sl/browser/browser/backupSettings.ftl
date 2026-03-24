@@ -19,6 +19,9 @@ backup-folder-name = Obnovi { -brand-product-name(sklon: "tozilnik") }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }_Varnostna_kopija
+settings-data-backup-header2 =
+    .label = Varnostno kopiranje
+    .description = Samodejno zavarujte svoje zaznamke, zgodovino in druge podatke.
 settings-data-backup-header = Varnostna kopija
 settings-data-backup-toggle = Upravljanje varnostne kopije
 settings-data-backup-toggle-on2 =
@@ -35,12 +38,22 @@ settings-data-backup-scheduled-backups-on = Varnostno kopiranje: Vklopljeno
 settings-data-backup-scheduled-backups-off = Varnostno kopiranje: Izključeno
 settings-data-backup-scheduled-backups-description = Samodejno zaščitite svoje zaznamke, zgodovino in druge podatke. <a data-l10n-name="support-link">Več o tem</a>
 settings-data-backup-last-backup-date = Zadnja varnostna kopija: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Varnostno kopiranje je VKLJUČENO
+settings-data-backup-scheduled-backups-off2 =
+    .label = Varnostno kopiranje je IZKLJUČENO
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Mesto shranjevanja varnostnih kopij
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Mesto
 settings-data-backup-last-backup-location-show-in-folder = Prikaži v mapi
 settings-data-backup-last-backup-location-edit = Spremeni …
 settings-data-create-backup-error = { DATETIME($date, dateStyle: "short") } ob { DATETIME($date, timeStyle: "short") } je prišlo do napake
 settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in plačilna sredstva ter zavarujte vse podatke s šifriranjem.
+settings-data-toggle-encryption-label2 =
+    .label = Varnostno kopirajte občutljive podatke
+    .description = Ustvarite si varnostno kopijo gesel in plačilnih sredstev ter zavarujte vse svoje podatke s šifriranjem.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ime datoteke: { $fileName }
@@ -121,6 +134,13 @@ restore-from-backup-password-description = Z njim odklenete šifrirano varnostno
 restore-from-backup-cancel-button = Prekliči
 restore-from-backup-confirm-button = Obnovi in znova zaženi
 restore-from-backup-restoring-button = Obnavljanje …
+restore-from-backup-type-group-label =
+    .label = Želite zamenjati trenutni profil?
+restore-from-backup-type-replace =
+    .label = Zamenjaj vse podatke s to varnostno kopijo
+restore-from-backup-type-add =
+    .label = Obdrži podatke in ustvari nov profil
+restore-from-backup-profiles-disabled-message = S tem se bodo vsi trenutni podatki { -brand-short-name(sklon: "rodilnik") }  zamenjali s podatki iz varnostne kopije.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -248,6 +268,10 @@ other-backup-files-founds =
         [few] <b>Opomba:</b> Najdene so bile tudi { $numberOfOtherBackupsFound } druge datoteke z varnostnimi kopijami
        *[other] <b>Opomba:</b> Najdenih je bilo tudi { $numberOfOtherBackupsFound } drugih datotek z varnostnimi kopijami
     }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Obnovljeno z naprave { $deviceName } dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ob { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

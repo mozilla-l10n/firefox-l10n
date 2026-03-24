@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = n
 non-technical-privacy-group =
     .label = Nastavitve zasebnosti spletnih mest
+do-not-track-removal3 =
+    .message = Možnosti "Brez sledenja" ne podpiramo več.
+non-technical-privacy-heading =
+    .label = Dodatne zaščite
 non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -288,6 +292,8 @@ containers-remove-cancel-button = Ne odstrani tega vsebnika
 settings-tabs-show-image-in-preview =
     .label = Ob pomiku miškinega kazalca na zavihek prikaži sliko predogleda
     .accessKey = h
+settings-tabs-drag-to-create-tab-groups =
+    .label = Ustvari skupino zavihkov z vlečenjem enega zavihka na drugega
 browser-layout-header2 =
     .label = Postavitev brskalnika
 browser-layout-horizontal-tabs2 =
@@ -787,11 +793,16 @@ network-proxy-connection-learn-more = Več o tem
 network-proxy-connection-settings =
     .label = Nastavitve …
     .accesskey = n
+network-proxy-group2 =
+    .label = Nastavitve posrednika
+    .description = Nastavite, kako se { -brand-short-name } povezuje z internetom.
 
 ## Home Section
 
 home-new-windows-tabs-header = Nova okna in zavihki
 home-new-windows-tabs-description2 = Izberite, kaj želite videti, ko odprete domačo stran, nova okna in nove zavihke.
+home-section =
+    .heading = Domača stran in zagon
 
 ## Home Section - Default Browser
 
@@ -1045,6 +1056,16 @@ search-one-click-desc = Izberite nadomestne iskalnike, ki se pojavijo pod naslov
 search-one-click-header-3 =
     .label = Dodatni iskalniki
     .description = Izberite, kateri iskalniki in bližnjice naj se prikazujejo v naslovni vrstici.
+update-search-engine-success =
+    .message = Iskalnik uspešno urejen
+search-edit-engine-2 =
+    .title = Uredi iskalnik
+search-delete-engine =
+    .title = Izbriši iskalnik
+search-enable-engine =
+    .title = Omogoči iskalnik
+search-outlink-to-extensions-page =
+    .title = Upravljaj v razširitvah in temah
 search-choose-engine-column =
     .label = Iskalnik
 search-choose-keyword-column =
@@ -1605,6 +1626,16 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Počisti zgodovino …
     .accesskey = č
+history-header2 =
+    .heading = Zgodovina
+history-section-header =
+    .label = Zgodovina
+    .description = Določite, kaj naj si { -brand-short-name } zapomni, potem ko zaprete brskalnik.
+history-custom-section-header =
+    .label = Napredne nastavitve
+    .description = Nastavite, kaj naj si { -brand-short-name } zapomni, potem ko zaprete brskalnik.
+history-custom-button =
+    .label = Kaj naj si { -brand-short-name } zapomni
 history-group =
     .label = Zgodovina
 
@@ -1612,6 +1643,10 @@ history-group =
 
 sitedata-header = Piškotki in podatki strani
 sitedata-total-size-calculating = Računanje velikosti podatkov strani in predpomnilnika …
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Spletne strani trenutno zasedajo <strong>{ $value } { $unit }</strong> prostora na disku.
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
@@ -2035,6 +2070,9 @@ website-advertising-private-attribution-description = To spletnim mestom pomaga 
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Varnost
+browsing-protection-group2 =
+    .label = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
+    .description = Nevarne spletne strani in prenosi lahko ogrozijo našo napravo. { -brand-short-name } jih samodejno blokira in vas opozarja pred tvegano ali neželeno programsko opremo.
 security-browsing-protection = Zaščita pred zavajajočo vsebino in nevarno programsko opremo
 security-enable-safe-browsing =
     .label = Zavrni nevarno in zavajajočo vsebino
@@ -2068,6 +2106,12 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora.</strong> Vsebina spletnih strani morda ne bo prikazana pravilno. Shranjene podatke lahko izbrišete v Nastavitve > Zasebnost in varnost > Piškotki in podatki strani.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(sklon: "dajalnik") } zmanjkuje prostora na disku.</strong> Strani se morda ne bodo prikazovale pravilno. Kliknite "Več o tem" za optimizacijo uporabe prostora na disku in boljšo izkušnjo pri brskanju po spletu.
+certs-description3 =
+    .label = Digitalna potrdila
+    .description = Nastavitve digitalnih potrdil, s katerimi { -brand-short-name } preverja istovetnost varnih povezav.
+certs-view2 =
+    .label = Upravljanje potrdil
+    .accesskey = U
 
 ## Privacy Section - HTTPS-Only
 
@@ -2149,6 +2193,8 @@ preferences-doh-exceptions-description = Na naslednjih spletnih mestih { -brand-
 preferences-doh-manage-exceptions =
     .label = Upravljanje izjem ...
     .accesskey = z
+preferences-doh-advanced-button =
+    .label = Napredne nastavitve
 
 ## The following strings are used in the Download section of settings
 
@@ -2218,7 +2264,17 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } je na straži
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } priporoča nekaj varnostnih izboljšav
 security-privacy-status-ok-label = Izboljšana zaščita pred sledenjem je vključena
+security-privacy-status-up-to-date-label = Imate najnovejšo in najvarnejšo različico { -brand-short-name(sklon: "rodilnik") }.
+security-privacy-status-update-needed-label = Na voljo je nova različica { -brand-short-name(sklon: "rodilnik") }.
+security-privacy-status-update-error-label = { -brand-short-name } ima težave pri posodabljanju
+security-privacy-status-update-checking-label = { -brand-short-name } preverja, ali so na voljo posodobitve
+security-privacy-status-update-button-label =
+    .label = Posodobi { -brand-short-name(sklon: "tozilnik") }
+security-privacy-issue-card =
+    .heading = Varnostna opozorila
 issue-card-reset-button =
     .label = Ponastavi
 issue-card-dismiss-button =
@@ -2227,5 +2283,11 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-reload-tabs-hint =
+    .message = Za uveljavitev sprememb ponovno naložite zavihke.
 preferences-etp-reload-tabs-hint-button =
     .label = Znova naloži vse zavihke
+preferences-etp-custom-cookies-enabled =
+    .label = Piškotki
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Piškotki
