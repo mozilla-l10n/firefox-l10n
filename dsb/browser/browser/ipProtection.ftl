@@ -88,8 +88,10 @@ upgrade-vpn-button = { -mozilla-vpn-brand-name } wopytaś
 
 ipprotection-connection-status-generic-error-title = Zwisk z VPN njejo móžny
 ipprotection-connection-status-generic-error-description = Wopytajśo za mało minutow hyšći raz.
+ipprotection-connection-status-generic-error-try-again = Wopytajśo pšosym pózdźej hyšći raz.
 ipprotection-connection-status-network-error-title = Pśeglědujśo swój internetny zwisk
 ipprotection-connection-status-network-error-description = Zwěžćo z internetom a wopytajśo pón VPN zmóžniś.
+ipprotection-connection-status-blocked-error-title = VPN njejo k dispoziciji
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

@@ -26,6 +26,9 @@ firefox-relay-reuse-masks-header =
         [few] Sćo wužył wšykne { $count } dermotne e-mailowe maski
        *[other] Sćo wužył wšykne { $count } dermotnych e-mailowych maskow
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Móžośo masku zasej wužywaś abo se wšykne maski woglědaś, aby drugu wubrał.
 firefox-relay-reuse-masks-select-label = Wubjeŕśo nowu masku
 firefox-relay-see-all-masks =
     .label = Wšykne maski se woglědaś
