@@ -2007,7 +2007,7 @@ permissions-block-popups2 =
 permissions-block-popups-exceptions-button4 =
     .label = Ausnahmen verwalten
     .description = Ausnahmen für Pop-ups und Drittanbieter-Weiterleitungen verwalten
-    .accesskey = P
+    .accesskey = E
     .searchkeywords = Pop-ups
 permissions-addon-install-warning3 =
     .label = Warnen, wenn Websites versuchen, Erweiterungen zu installieren
@@ -2016,7 +2016,7 @@ permissions-addon-install-warning3 =
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Ausnahmen für Pop-ups und Drittanbieter-Weiterleitungen verwalten
-    .accesskey = P
+    .accesskey = E
     .searchkeywords = Popup Popups
 permissions-addon-exceptions2 =
     .label = Wählen Sie aus, welche Websites Erweiterungen installieren dürfen
