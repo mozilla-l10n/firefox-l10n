@@ -25,6 +25,9 @@ firefox-relay-reuse-masks-header =
         [few] Вы использовали все { $count } бесплатных псевдонима электронной почты
        *[many] Вы использовали все { $count } бесплатных псевдонимов электронной почты
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Вы можете использовать псевдоним повторно или просмотреть все псевдонимы, чтобы выбрать другой.
 firefox-relay-reuse-masks-select-label = Выберите недавний псевдоним
 firefox-relay-see-all-masks =
     .label = Показать все псевдонимы
