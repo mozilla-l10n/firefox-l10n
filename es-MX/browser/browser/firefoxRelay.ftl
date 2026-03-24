@@ -18,6 +18,10 @@ firefox-relay-must-login-to-account = Inicia sesión en tu cuenta para usar las 
 firefox-relay-get-unlimited-masks =
     .label = Administrar máscaras
     .accesskey = A
+firefox-relay-reuse-masks-select-label = Selecciona una máscara reciente
+firefox-relay-dismiss =
+    .label = Descartar
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protege tu dirección de correo electrónico:
 firefox-relay-opt-in-title-2 = Usa una máscara de correo electrónico
