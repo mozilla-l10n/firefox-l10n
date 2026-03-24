@@ -104,6 +104,12 @@ perplexity-callout-primary-label = Eporandu Perplexity-pe
 perplexity-callout-secondary-label-1 = Mboyke
 perplexity-callout-secondary-label-2 = Aikũmby
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-primary-label = Eiporu Startpage
+start-page-callout-secondary-label = Emboyke
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync

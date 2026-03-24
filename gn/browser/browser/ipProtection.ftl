@@ -88,8 +88,10 @@ upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Ndaikatúi eike VPN-pe
 ipprotection-connection-status-generic-error-description = Eha’ã jey ndahetái aravo’i rire.
+ipprotection-connection-status-generic-error-try-again = Eha’ã jey ag̃amieve.
 ipprotection-connection-status-network-error-title = Ehecha oiko porãpa ne ñanduti
 ipprotection-connection-status-network-error-description = Eike ñandutípe, upéi ikatukuaáma emyady upe VPN.
+ipprotection-connection-status-blocked-error-title = VPN ndojeporukuaái
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
