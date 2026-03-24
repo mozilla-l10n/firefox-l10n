@@ -98,7 +98,7 @@ about-glean-adhoc-explanation =
 about-glean-adhoc-explanation2 = За више <i>ад-хок</i> тестирања, такође можете одредити тренутну вредност одређеног дела инструментације отварањем конзоле развојних алата овде на <code>about:glean</code> и коришћењем <code>testGetValue()</code> АПИ-ја као што је <code>Glean.metricCategory.metricName.testGetValue()</code> за метрику под називом <code>metric.category.metric_name</code>.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-note = Имајте на уму да користите Glean JS АПИ коришћењем конзоле развојних алата. То значи да су категорија метрике и назив метрике форматирани у <code>camelCase</code> стилу, за разлику од Rust и C++ АПИ-ја.
-about-glean-profiler-explanation = Да бисте видели потпуни приказ свих снимљених метрика, можете користити { -profiler-brand-name }. Прво морате да <a data-l10n-name="firefox-profiler-link">снимите профил перформанси</a>. Након што снимите профил, изаберите „Marker Chart“ и погледајте маркере под „Telemetry“.
+about-glean-profiler-explanation = Да бисте видели потпуни приказ свих снимљених метрика, можете користити { -profiler-brand-name }. Прво морате да <a data-l10n-name="firefox-profiler-link">снимите профил перформанси</a>. Након што снимите профил, изаберите <q>Marker Chart</q> и погледајте маркере под <q>Telemetry</q>.
 about-glean-profiler-explanation-profiler = У профилу перформанси можете видети све прикупљене метрике, када су прикупљене и тачно које вредности су прикупљене. Постављањем курсора изнад појединачних маркера, можете проверити да ли је прикупљена исправна вредност и да ли се прикупљање десило у право време.
 controls-button-label-verbose = Примени подешавања и пошаљи пинг
 about-glean-feedback-settings-only =
