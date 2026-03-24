@@ -24,6 +24,9 @@ firefox-relay-reuse-masks-header =
         [one] Sie haben Ihre { $count } kostenlose E-Mail-Masken aufgebraucht
        *[other] Sie haben alle { $count } kostenlosen E-Mail-Masken aufgebraucht
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Sie können eine Maske wiederverwenden, oder alle ansehen, um eine andere zu wählen.
 firefox-relay-reuse-masks-select-label = Eine kürzlich verwendete Maske auswählen
 firefox-relay-see-all-masks =
     .label = Alle Masken ansehen
