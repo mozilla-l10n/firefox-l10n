@@ -664,12 +664,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Vues
 pdfjs-views-manager-view-selector-button-label = Vues
 pdfjs-views-manager-pages-title = Pages
-pdfjs-views-manager-outlines-title1 = Signets du document
+pdfjs-views-manager-outlines-title1 = Structure du document
     .title = Structure du document (double-cliquer pour développer/réduire tous les éléments)
 pdfjs-views-manager-outlines-title = Signets du document
 pdfjs-views-manager-attachments-title = Pièces jointes
 pdfjs-views-manager-layers-title1 = Calques
-    .title = Calques (double-clic pour réinitialiser tous les Calques à leur état par défaut)
+    .title = Calques (double-cliquer pour réinitialiser tous les calques à leur état par défaut)
 pdfjs-views-manager-layers-title = Calques
 pdfjs-views-manager-pages-option-label = Pages
 pdfjs-views-manager-outlines-option-label = Signets du document
@@ -733,7 +733,7 @@ pdfjs-views-manager-paste-button-after =
     .title = Coller après la page { $page }
 # Badge used to promote a new feature in the UI, keep it as short as possible.
 # It's spelled uppercase for English, but it can be translated as usual.
-pdfjs-new-badge-content = Nouveau
+pdfjs-new-badge-content = NOUVEAU
 pdfjs-toggle-views-manager-button1 =
     .title = Gérer les pages
 

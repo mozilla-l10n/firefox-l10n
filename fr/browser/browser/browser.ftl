@@ -1235,7 +1235,7 @@ menu-share-copy-links =
     .label =
         { $count ->
             [one] Copier le lien
-           *[other] Copier les liens { $count }
+           *[other] Copier les { $count } liens
         }
     .accesskey = C
 menu-share-copy-link =
