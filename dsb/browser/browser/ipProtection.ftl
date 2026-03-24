@@ -92,6 +92,7 @@ ipprotection-connection-status-generic-error-try-again = Wopytajśo pšosym póz
 ipprotection-connection-status-network-error-title = Pśeglědujśo swój internetny zwisk
 ipprotection-connection-status-network-error-description = Zwěžćo z internetom a wopytajśo pón VPN zmóžniś.
 ipprotection-connection-status-blocked-error-title = VPN njejo k dispoziciji
+ipprotection-connection-status-blocked-error-description = Lokalne kazni nam zawoboruju, słužbu VPN w toś tom regionje póbitowaś. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
