@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Φραγή αναδυόμενων παραθύρων και ανακατευθύνσεις τρίτων
     .accesskey = Φ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Διαχείριση εξαιρέσεων
+    .description = Προσθέστε ιστοτόπους που μπορούν να ανοίγουν αναδυόμενα παράθυρα και να χρησιμοποιούν ανακατευθύνσεις τρίτων.
+    .accesskey = ε
+    .searchkeywords = αναδυόμενα, αναδυόμενα παράθυρα, popups, popup, pop-up, pop-ups
 permissions-addon-install-warning3 =
     .label = Εμφάνιση προειδοποίησης όταν οι ιστότοποι προσπαθούν να εγκαταστήσουν επεκτάσεις
     .accesskey = φ

@@ -308,6 +308,8 @@ tail-fox-spotlight-secondary-button = Όχι τώρα
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-title = Επιστρέψτε στο ενσωματωμένο απόρρητο
+welcome-back-spotlight-subtitle = Καλώς ορίσατε και πάλι στο μόνο μεγάλο πρόγραμμα περιήγησης που υποστηρίζεται από έναν μη κερδοσκοπικό οργανισμό. Λαμβάνουμε επιπλέον μέτρα για την προστασία των δεδομένων σας, όπου κι αν περιηγείστε.
 welcome-back-embedded-import-title = Εισαγάγετε τα δεδομένα σας και νιώστε σαν στο σπίτι σας στο { -brand-short-name }
 
 ## Root Certificate Succession Infobar
