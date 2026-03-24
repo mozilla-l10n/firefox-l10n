@@ -18,6 +18,9 @@ firefox-relay-must-login-to-account = Inicie sesión en su cuenta para usar sus 
 firefox-relay-get-unlimited-masks =
     .label = Administrar alias
     .accesskey = m
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Puede reutilizar una o ver todas las máscaras para elegir una diferente.
 firefox-relay-reuse-masks-select-label = Seleccionar una máscara reciente
 firefox-relay-see-all-masks =
     .label = Ver todas las máscaras
