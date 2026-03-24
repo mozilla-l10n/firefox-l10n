@@ -138,3 +138,30 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Dej wykoz ze wszyskimi { $tabCount } kartami
            *[many] Dej wykoz ze wszyskimi { $tabCount } kartami
         }
+
+##
+
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] Przidej karta to nowyj grupy
+            [one] Przidej karta to nowyj grupy
+            [few] Przidej karty to nowyj grupy
+           *[many] Przidej karty to nowyj grupy
+        }
+    .accesskey = g
+tab-group-editor-action-new-tab =
+    .label = Nowo karta w grupie
+tab-group-editor-action-new-window =
+    .label = Przeniyś grupa do nowego ôkna
+
+## Open/saved tab group context menu
+
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = Przeniyś grupa do nowego ôkna
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = Ôtwōrz grupa w nowym ôknie

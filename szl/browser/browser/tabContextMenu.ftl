@@ -76,6 +76,16 @@ tab-context-close-multiple-tabs =
 tab-context-share-url =
     .label = Udostympnij
     .accesskey = U
+# In left-to-right languages this should use "Right" and in right-to-left languages this should use "Left" to indicate the direction a new tab will open.
+tab-context-new-tab-open =
+    .label = Nowo karta z prawyj
+    .accesskey = w
+tab-context-new-tab-open-vertical =
+    .label = Nowo karta niżyj
+    .accesskey = w
+tab-context-new-group =
+    .label = Nowo grupa
+    .accesskey = g
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.

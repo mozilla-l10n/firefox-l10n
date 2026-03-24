@@ -119,6 +119,12 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Kopiuj link
     .accesskey = K
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = Kopiuj czysty link
+    .accesskey = u
 
 ## Media (video/audio) controls
 ##
@@ -232,6 +238,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = poślij emaila z audio…
     .accesskey = a
+main-context-menu-send-to-device-2 =
+    .label = Poślij na maszina
+    .accesskey = n
 main-context-menu-save-to-pocket =
     .label = Chrōń strōna we { -pocket-brand-name }
     .accesskey = c
