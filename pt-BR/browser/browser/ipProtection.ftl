@@ -88,6 +88,7 @@ upgrade-vpn-button = Experimente o { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Não foi possível conectar com a VPN
 ipprotection-connection-status-generic-error-description = Tente novamente em alguns minutos.
+ipprotection-connection-status-generic-error-try-again = Tente novamente mais tarde.
 ipprotection-connection-status-network-error-title = Verifique sua conexão com a internet
 ipprotection-connection-status-network-error-description = Conecte-se à internet, depois tente ativar a VPN.
 ipprotection-connection-status-blocked-error-title = A VPN não está disponível.
