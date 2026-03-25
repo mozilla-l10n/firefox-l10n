@@ -1285,8 +1285,8 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Filă nouă
 tabs-toolbar-list-all-tabs =
-    .label = Printează toate filele
-    .tooltiptext = Printează toate filele
+    .label = Listează toate filele
+    .tooltiptext = Listează toate filele
 
 ## Drop indicator text for pinned tabs when no tabs are pinned.
 
