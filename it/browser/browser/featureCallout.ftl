@@ -183,16 +183,16 @@ vertical-tabs-callout-2-subtitle = Questo layout ti permette di esaminare più v
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Perdi traccia delle schede più importanti?
-sidebar-pins-callout-subtitle = Prova ad appuntarle, in questo modo rimarranno sempre in cima all’elenco delle schede. Fai clic con il pulsante destro del mouse su una scheda, quindi scegli Appunta scheda.
+sidebar-pins-callout-subtitle = Prova ad appuntarle, in questo modo rimarranno sempre in cima all’elenco delle schede. Fai clic con il tasto destro del mouse su una scheda, quindi scegli Appunta scheda.
 sidebar-pins-callout-cta-button = Appunta scheda
 
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Tieni le schede più importanti a portata di mano
-pin-tabs-callout-1-subtitle = Trascina una scheda all’inizio della barra delle schede per appuntarla. Oppure fai clic con il pulsante destro del mouse e scegli Appunta scheda.
+pin-tabs-callout-1-subtitle = Trascina una scheda all’inizio della barra delle schede per appuntarla. Oppure fai clic con il tasto destro del mouse e scegli Appunta scheda.
 pin-tabs-callout-cta-1-button = Appunta questa scheda
 pin-tabs-callout-2-title = Appunta le schede che visiti di più
-pin-tabs-callout-2-subtitle = Per appuntare una scheda, trascinala all’inizio della barra delle schede. Oppure fai clic con il pulsante destro del mouse e scegli Appunta scheda.
+pin-tabs-callout-2-subtitle = Per appuntare una scheda, trascinala all’inizio della barra delle schede. Oppure fai clic con il tasto destro del mouse e scegli Appunta scheda.
 pin-tabs-callout-cta-2-button = Appunta questa scheda
 pin-tabs-callout-3-title = Tieni i siti più importanti a portata di mano
 pin-tabs-callout-4-title = Appunta i siti che visiti di più
@@ -232,10 +232,10 @@ sidebar-callout-survey-thank-you = Grazie per aver condiviso la tua opinione.
 sidebar-genai-survey-satisfaction-question = Quanto sei soddisfatto dell’accesso a un chatbot basato sull’intelligenza artificiale nella barra laterale?
 sidebar-genai-survey-productive-question = In che misura sei d’accordo o in disaccordo con questa affermazione:<br/> “Il chatbot IA nella barra laterale mi aiuta a essere più produttivo”?
 splitview-onboarding-callout-title-1 = Schermo diviso: la soluzione perfetta per il multitasking
-splitview-onboarding-callout-subtitle-1 = Fai clic con il pulsante destro del mouse su questa scheda e scegli “Aggiungi schermo diviso” per visualizzare due schede contemporaneamente.
+splitview-onboarding-callout-subtitle-1 = Fai clic con il tasto destro del mouse su questa scheda e scegli “Aggiungi schermo diviso” per visualizzare due schede contemporaneamente.
 splitview-onboarding-callout-cta-1 = Prova ora
 splitview-onboarding-callout-title-2 = Visualizza due schede contemporaneamente con lo schermo diviso
-splitview-onboarding-callout-subtitle-2 = Niente finestre aggiuntive. Niente passaggi tra schede. Fai clic con il pulsante destro del mouse su questa scheda e scegli “Aggiungi schermo diviso”.
+splitview-onboarding-callout-subtitle-2 = Niente finestre aggiuntive. Niente passaggi tra schede. Fai clic con il tasto destro del mouse su questa scheda e scegli “Aggiungi schermo diviso”.
 splitview-onboarding-callout-cta-2 = Prova schermo diviso
 unified-search-callout-title = Passa da un motore di ricerca all’altro
 unified-search-callout-subtitle = Scegli quello che funziona meglio per la tua ricerca specifica.
