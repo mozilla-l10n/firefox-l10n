@@ -199,14 +199,14 @@ tabbrowser-customizemode-tab-title = Прилагођавање програма
 
 tabbrowser-context-mute-tab =
     .label = Искључи звук језичка
-    .accesskey = г
+    .accesskey = е
 tabbrowser-context-unmute-tab =
     .label = Укључи звук језичка
     .accesskey = с
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
     .label = Искључи звук језичка
-    .accesskey = У
+    .accesskey = И
 # The accesskey should match the accesskey for tabbrowser-context-unmute-tab
 tabbrowser-context-unmute-selected-tabs =
     .label = Укључи звук језичка

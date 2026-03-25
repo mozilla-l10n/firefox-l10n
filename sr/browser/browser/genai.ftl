@@ -37,8 +37,8 @@ genai-prompts-explain =
     .value = Објасни кључне идеје у одабраном делу служећи се једноставним речима. Такође, користи примере.
 # Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
 genai-prompts-proofread =
-    .label = Лектурисано
-    .value = Лектуришите изабрани текст за правописне и граматичке грешке. Препознајте све грешке и обезбедите исправљену верзију текста. Задржите значење и чињеничну тачност и прво испишите листу предложених исправки, а затим коначну, исправљену верзију текста.
+    .label = Лектуриши
+    .value = Лектуриши изабрани текст за правописне и граматичке грешке. Препознај све грешке и обезбедите исправљену верзију текста. Задржите значење и чињеничну тачност и прво испишите листу предложених исправки, а затим коначну, исправљену верзију текста.
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
