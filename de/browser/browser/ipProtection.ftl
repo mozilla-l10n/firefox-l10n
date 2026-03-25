@@ -190,7 +190,7 @@ ip-protection-bandwidth-left-mb = { $usageLeft } MB von { $maxUsage } GB übrig
 ip-protection-bandwidth-hit-for-the-month = Sie haben die gesamten { $maxUsage } GB Ihrer VPN-Daten aufgebraucht. Volumen wird nächsten Monat zurückgesetzt.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-help-text = Wird am ersten eines Monats auf { $maxUsage } GB zurückgesetzt.
+ip-protection-bandwidth-help-text = Wird am Ersten eines Monats auf { $maxUsage } GB zurückgesetzt.
 ip-protection-bandwidth-header-1 = Monatliches Datenlimit
 
 ## IP Protection bandwidth reset callout
