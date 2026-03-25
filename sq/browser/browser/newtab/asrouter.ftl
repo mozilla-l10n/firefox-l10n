@@ -306,6 +306,12 @@ tail-fox-spotlight-subtitle = U thoni lamtumirë gjurmuesve të bezdisshëm në 
 tail-fox-spotlight-primary-button = Hapi lidhjet e mia me { -brand-short-name }
 tail-fox-spotlight-secondary-button = Jo tani
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Kthehuni te privatësi e brendshme
+welcome-back-spotlight-subtitle = Mirë se ktheheni te shfletuesi i vetëm i njohur që ka pas një ent jofitimprurës. Ndërmarrim hapa shtesë për të mbrojtur të dhënat tuaja, kudo ku gjendeni.
+welcome-back-embedded-import-title = Importoni të dhënat tuaja dhe bëjeni { -brand-short-name } t’ju duket si shtëpia
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Versione më të vjetër të { -brand-short-name }-it mund të zënë e të kenë probleme më 14 janar 2025.</strong>

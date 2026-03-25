@@ -239,6 +239,7 @@ privacy-metrics-social =
         [one] { $count } gjurmues mediash shoqërore
        *[other] { $count } gjurmues mediash shoqërore
     }
+privacy-metrics-empty = S’ka gjurmues të bllokuar këtë javë. { -brand-short-name }-i ju mbron nga kërcënimet vijuese teksa shfletoni.
 privacy-metrics-loading = Po ngarkohen statistika mbrojtjeje…
 privacy-metrics-error = S’arrihet të ngarkohen statistika mbrojtjeje.
 privacy-metrics-private-window = { -brand-short-name } vazhdon të bllokojë gjurmues në Dritare Private, por s’mban ndonjë regjistër se ç’është bllokuar.
