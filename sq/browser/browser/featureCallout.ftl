@@ -104,6 +104,14 @@ perplexity-callout-primary-label = Pyetni Perplexity-në
 perplexity-callout-secondary-label-1 = Hidhe tej
 perplexity-callout-secondary-label-2 = E mora vesh
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = Doni të provoni një kërkim të ri, me privatësinë në mendje?
+start-page-callout-subtitle = Provoni Startpage. Është konceptuar t’i mbajë kërkimet tuaja më private, që nga fillimi.
+start-page-callout-primary-label = Provoni Startpage
+start-page-callout-secondary-label = Hidhe tej
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync

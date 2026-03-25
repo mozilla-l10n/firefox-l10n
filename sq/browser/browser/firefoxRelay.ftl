@@ -18,6 +18,13 @@ firefox-relay-must-login-to-account = Që të përdorni maska tuajat email-i { -
 firefox-relay-get-unlimited-masks =
     .label = Administroni maska
     .accesskey = A
+firefox-relay-reuse-masks-select-label = Përzgjidhni një maskë të freskët
+firefox-relay-see-all-masks =
+    .label = Shihini krejt maskat
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Hidhe tej
+    .accesskey = H
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Mbroni adresën tuaj email:
 firefox-relay-opt-in-title-2 = Merrni një maskë falas email-i

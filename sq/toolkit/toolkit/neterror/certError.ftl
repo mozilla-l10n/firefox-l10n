@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Hape Sajtin në Dritare të Re
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Për të mbrojtur sigurinë tuaj, { $hostname } s’do ta lejojë { -brand-short-name }-in të shfaqë faqen, nëse e ka trupëzuar një sajt tjetër. Që të shihni këtë faqe, duhet ta hapni në një dritare tjetër.
 fp-certerror-view-certificate-link = Shihni dëshminë e sajtit
+fp-certerror-return-to-previous-page-recommended-button-2 = Shko mbrapsht (E këshilluar)
+    .accesskey = o
 fp-certerror-return-to-previous-page-recommended-button = Shko mbrapsht (E këshilluar)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Një program po i pengon { -brand-short-name }-it të Lid
 
 fp-certerror-page-title = Kujdes: Rrezik Sigurie
 fp-certerror-body-title = Hapni sytë. Diçka s’duket të jetë siç duhet.
+fp-certerror-illustration-alt =
+    .alt = Ilustrim i një dhelpre që sheh një shenjë portokalli sinjalizimi.
 fp-certerror-why-site-dangerous = Ç’e bën këtë sajt të duket i rrezikshëm?
 fp-certerror-what-can-you-do = Ç’mund të bëni për të?
 fp-certerror-advanced-title = Të mëtejshme
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Vazhdo për te { $hostname } (E rreziks
 fp-certerror-intro = { -brand-short-name } pikasi një problem potencialisht serioz sigurie me <strong>{ $hostname }</strong>. Dikush që po pretendon se është sajti mund të vjedhë gjëra të tilla si hollësi kartash kredit, fjalëkalime, ose email-e.
 fp-certerror-expired-into = { -brand-short-name } pikasi një problem sigurie me <strong>{ $hostname }</strong>. Ose sajti s’është ujdisur si duhet, ose sahati i pajisjes tuaj është vënë në datë/kohë të gabuar.
 fp-certerror-transparency-intro = Dikush që hiqet se është <strong>{ $hostname }</strong> mund të provonte të vidhte gjëra të tilla si hollësi kartash krediti, fjalëkalime, ose email-e.
+fp-certerror-override-exception-button-2 = Vazhdo për te { $hostname } (E rrezikshme)
+    .accesskey = V

@@ -88,8 +88,11 @@ upgrade-vpn-button = Provoni { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = S’u lidh dot me VPN-në
 ipprotection-connection-status-generic-error-description = Riprovoni pas pak minutash.
+ipprotection-connection-status-generic-error-try-again = Ju lutemi, riprovoni më vonë.
 ipprotection-connection-status-network-error-title = Kontrolloni lidhjen tuaj internet
 ipprotection-connection-status-network-error-description = Lidhuni në internet, mandej provoni të hapni VPN-në.
+ipprotection-connection-status-blocked-error-title = VPN-ja s’është e përdorshme
+ipprotection-connection-status-blocked-error-description = Ligje vendore na pengojnë të japim shërbim VPN në të këtë rajon. <a data-l10n-name="learn-more-link">Mësoni më tepër</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

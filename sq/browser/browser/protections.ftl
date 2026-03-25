@@ -202,3 +202,43 @@ bar-tooltip-cryptominer =
             [one] { $count } nxjerrës kriptomonedhash ({ $percentage }%)
            *[other] { $count } nxjerrës kriptomonedhash ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Mbrojtje Privatësie
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } i bllokuar këtë javë
+       *[other] { $count } të bllokuar këtë javë
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } gjurmues
+       *[other] { $count } Gjurmues
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } krijues shenjash gishtash
+       *[other] { $count } krijues shenjash gishtash
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } “cookie” gjurmimi
+       *[other] { $count } “cookies” gjurmimi
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } gjurmues mediash shoqërore
+       *[other] { $count } gjurmues mediash shoqërore
+    }
+privacy-metrics-loading = Po ngarkohen statistika mbrojtjeje…
+privacy-metrics-error = S’arrihet të ngarkohen statistika mbrojtjeje.
+privacy-metrics-private-window = { -brand-short-name } vazhdon të bllokojë gjurmues në Dritare Private, por s’mban ndonjë regjistër se ç’është bllokuar.
