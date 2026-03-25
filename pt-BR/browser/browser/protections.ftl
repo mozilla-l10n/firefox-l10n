@@ -220,6 +220,13 @@ privacy-metrics-trackers =
        *[other] { $count } rastreadores
     }
 # Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } fingerprinter
+       *[other] { $count } fingerprinters
+    }
+# Variables:
 #   $count (Number) - Number of tracking cookies blocked
 privacy-metrics-cookies =
     { $count ->
