@@ -109,8 +109,7 @@ choose-p12-restore-file-dialog = Soubor s certifikátem pro import
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Soubory s certifikáty
-import-ca-certs-prompt = Vyberte soubor obsahující certifikát(y) CA pro import
-import-email-cert-prompt = Vyberte soubor obsahující poštovní certifikát pro import
+import-email-cert-prompt = Vyberte soubor obsahující poštovní certifikát, který se má naimportovat
 
 ## For editing certificates trust
 
