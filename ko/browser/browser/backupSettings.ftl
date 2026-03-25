@@ -59,10 +59,10 @@ settings-data-toggle-encryption-label2 =
 settings-data-backup-last-backup-filename = 파일 이름: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = 데이터 복원
-    .description = 마지막으로 백업된 시점의 { -brand-product-name } 데이터를 복구하세요.
+    .description = { -brand-product-name } 데이터를 마지막으로 백업된 시점으로 복원하세요.
 settings-data-backup-restore-scheduled-off =
     .label = 데이터 복원
-    .description = 데이터를 복원하려면 다른 기기의 { -brand-product-name } 백업을 사용하세요.
+    .description = 다른 기기의 { -brand-product-name } 백업을 사용하여 데이터를 복원하세요.
 settings-data-backup-restore-header = 데이터 복원
 
 ## These strings are shown under the header if scheduled backups are disabled.
