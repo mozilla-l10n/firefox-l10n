@@ -211,6 +211,8 @@ certerror-mitm-title = Um software está impedindo que o { -brand-short-name } s
 
 fp-certerror-page-title = Atenção: Risco de segurança
 fp-certerror-body-title = Tenha cautela. Algo não parece estar certo.
+fp-certerror-illustration-alt =
+    .alt = Ilustração de uma raposa olhando para um sinal de alerta laranja.
 fp-certerror-why-site-dangerous = O que faz o site parecer perigoso?
 fp-certerror-what-can-you-do = O que você pode fazer a respeito?
 fp-certerror-advanced-title = Avançado
@@ -224,3 +226,5 @@ fp-certerror-override-exception-button = Prosseguir para { $hostname } (arriscad
 fp-certerror-intro = O { -brand-short-name } identificou um problema de segurança potencialmente grave em <strong>{ $hostname }</strong>. Alguém se fazendo passar pelo site pode tentar furtar itens como informações de cartões de crédito, senhas ou emails.
 fp-certerror-expired-into = O { -brand-short-name } identificou um problema de segurança em <strong>{ $hostname }</strong>. O site não está configurado corretamente, ou o relógio do seu dispositivo está com data/hora errada.
 fp-certerror-transparency-intro = Alguém fingindo ser <strong>{ $hostname }</strong> pode tentar roubar coisas como informações de cartões de crédito, senhas ou emails.
+fp-certerror-override-exception-button-2 = Prosseguir para { $hostname } (arriscado)
+    .accesskey = P
