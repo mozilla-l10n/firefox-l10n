@@ -178,6 +178,8 @@ neterror-response-status-code = Código de erro: { $responsestatus } { $response
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Parece que há um problema na sua conexão com a internet
+fp-neterror-illustration-alt =
+    .alt = Ilustração de uma raposa olhando para cabos de rede desconectados.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
