@@ -80,6 +80,8 @@ csp-xfo-blocked-long-desc =
        *[no-cases] Pro vaši ochranu web { $hostname } nepovolí aplikaci { -brand-short-name } stránku zobrazit jako vloženou součást jiné stránky. Chcete-li ji zobrazit, otevřete ji v novém okně.
     }
 fp-certerror-view-certificate-link = Zobrazit certifikát serveru
+fp-certerror-return-to-previous-page-recommended-button-2 = Přejít zpět (doporučeno)
+    .accesskey = P
 fp-certerror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -301,6 +303,8 @@ certerror-mitm-title =
 
 fp-certerror-page-title = Upozornění: bezpečnostní riziko
 fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
+fp-certerror-illustration-alt =
+    .alt = Ilustrace lišky, která se dívá na oranžovou výstražnou značku.
 fp-certerror-why-site-dangerous = Co způsobuje, že stránka vypadá nebezpečně?
 fp-certerror-what-can-you-do = Co s tím můžete dělat?
 fp-certerror-advanced-title = Rozšířené
@@ -320,3 +324,5 @@ fp-certerror-intro =
     }
 fp-certerror-expired-into = { -brand-short-name } zjistil bezpečnostní problém se stránkou <strong>{ $hostname }</strong>. Buď není web správně nastaven, nebo jsou hodiny vašeho zařízení nastaveny na špatný datum/čas.
 fp-certerror-transparency-intro = Osoba vydávající se za server <strong>{ $hostname }</strong> se může pokusit ukrást informace o platební kartě, hesla nebo e-mailové adresy.
+fp-certerror-override-exception-button-2 = Pokračovat na { $hostname } (riskantní)
+    .accesskey = P

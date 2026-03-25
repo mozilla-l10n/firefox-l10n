@@ -96,8 +96,11 @@ upgrade-vpn-button = Vyzkoušejte { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Nepodařilo se připojit k VPN
 ipprotection-connection-status-generic-error-description = Zkuste to znovu za několik minut.
+ipprotection-connection-status-generic-error-try-again = Zkuste to prosím znovu později.
 ipprotection-connection-status-network-error-title = Zkontrolujte své připojení k internetu
 ipprotection-connection-status-network-error-description = Připojte se k internetu a zkuste zapnout VPN.
+ipprotection-connection-status-blocked-error-title = VPN není dostupná
+ipprotection-connection-status-blocked-error-description = Místní zákony zakazují poskytovat služby VPN v tomto regionu. <a data-l10n-name="learn-more-link">Zjistit více</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

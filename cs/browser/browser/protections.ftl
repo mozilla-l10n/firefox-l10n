@@ -251,3 +251,52 @@ bar-tooltip-cryptominer =
             [few] { $count } pokusy o těžbu kryptoměn ({ $percentage }%)
            *[other] { $count } pokusů o těžbu kryptoměn ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Ochrana soukromí
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } zablokován tento týden
+        [few] { $count } zablokovány tento týden
+        [many] { $count } zablokováno tento týden
+       *[other] { $count } zablokováno tento týden
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } sledovací prvek
+        [few] { $count } sledovací prvky
+        [many] { $count } sledovacích prvků
+       *[other] { $count } sledovacích prvků
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } otisk prohlížeče
+        [few] { $count } otisky prohlížeče
+        [many] { $count } otisků prohlížeče
+       *[other] { $count } otisků prohlížeče
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } sledovací cookie
+        [few] { $count } sledovací cookies
+        [many] { $count } sledovacích cookies
+       *[other] { $count } sledovacích cookies
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sledovací prvek sociální sítě
+        [few] { $count } sledovací prvky sociálních sítí
+        [many] { $count } sledovacích prvků sociálních sítí
+       *[other] { $count } sledovacích prvků sociálních sítí
+    }
+privacy-metrics-loading = Načítání statistik ochrany…
+privacy-metrics-error = Nepodařilo se načíst statistiky ochrany.

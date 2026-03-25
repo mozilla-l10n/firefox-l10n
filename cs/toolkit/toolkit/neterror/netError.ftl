@@ -25,6 +25,8 @@ neterror-override-exception-button = Beru na vědomí a chci pokračovat
 neterror-pref-reset-button = Obnovit výchozí nastavení
 neterror-return-to-previous-page-button = Zpátky
 neterror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
+neterror-try-again-button-2 = Zkusit znovu
+    .accesskey = Z
 neterror-try-again-button = Zkusit znovu
 neterror-add-exception-button = Na tomto webu vždy pokračovat
 neterror-settings-button = Změnit nastavení DNS
@@ -226,12 +228,15 @@ neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatu
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Zdá se, že došlo k problému s připojením k internetu
+fp-neterror-illustration-alt =
+    .alt = Ilustrace lišky, která se dívá na odpojené síťové kabely.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nemůže vytvořit zabezpečené připojení k serveru { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se nemůže připojit k serveru na adrese <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Server na adrese <strong>{ $hostname }</strong> reaguje příliš pomalu.
 fp-neterror-coop-coep-intro = { -brand-short-name } nenačetl tuto stránku, protože nastavení zabezpečení zřejmě neodpovídá předchozí stránce.
 fp-neterror-http-auth-disabled-intro = Někdo, kdo se vydává za web, by se mohl pokusit ukrást například vaše uživatelské jméno, heslo nebo e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Tato stránka vyžaduje zabezpečené připojení a pro její návštěvu nelze udělit výjimku.

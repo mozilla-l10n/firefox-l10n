@@ -421,6 +421,11 @@ tail-fox-spotlight-primary-button =
     }
 tail-fox-spotlight-secondary-button = Teď ne
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Vraťte se k vestavěné ochraně soukromí
+welcome-back-spotlight-subtitle = Vítejte zpět v jediném hlavním prohlížeči, který je spravován neziskovou organizací. Podnikáme dodatečné kroky k ochraně vašich dat, kdekoli se vyskytujete.
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message =
