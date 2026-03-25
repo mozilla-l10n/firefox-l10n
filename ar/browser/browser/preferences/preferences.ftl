@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = ش
 non-technical-privacy-group =
     .label = تفضيلات خصوصية الموقع
+non-technical-privacy-heading =
+    .label = حمايات إضافية
 non-technical-privacy-header = تفضيلات خصوصية الموقع
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -160,6 +162,10 @@ preferences-manage-profiles-button =
     .label = أدِر ملفات الإعدادات
 preferences-profiles-settings-button =
     .label = الإعدادات
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = اختر الملف الشخصيّ
 preferences-copy-profile-button = انسخ
 tabs-group-header2 =
     .label = الألسنة
@@ -425,6 +431,15 @@ settings-translations-subpage-download-language-option = { $language } ({ $size 
     .label = { $language } ({ $size } م.بايت)
 settings-translations-subpage-no-languages-downloaded =
     .label = لم تُنزل أي لغات
+settings-translations-subpage-no-languages-added =
+    .label = لم تُضيف أي لغات
+settings-translations-subpage-download-progress = جارِ التنزيل…
+settings-translations-subpage-download-retry-button =
+    .label = حاول مجددًا
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = احذف { $language } ({ $size }م.بايت)؟
 settings-translations-subpage-download-delete-button =
     .label = احذف
 settings-translations-subpage-download-cancel-button =
@@ -435,9 +450,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = استعمل إعدادات نظام التشغيل لتنسيق التواريخ والأوقات والأرقام والمقاييس في ”{ $localeName }“.
+settings-spellcheck-header =
+    .label = التدقيق الإملائي
 check-user-spelling =
     .label = دقق الإملاء أثناء الكتابة
     .accesskey = ك
+spellcheck-download-dictionaries =
+    .label = نزّل القواميس
 
 ## General Section - Files and Applications
 
@@ -740,11 +759,9 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
-## Home Section - Home Page Customization
-
-
 ## Custom Homepage subpage
 
+home-custom-homepage-header = صفحة بداية مخصّصة
 home-custom-homepage-address =
     .placeholder = أدخل العنوان
 home-custom-homepage-address-button =
@@ -1842,12 +1859,3 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
