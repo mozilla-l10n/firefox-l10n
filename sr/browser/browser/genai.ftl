@@ -99,15 +99,15 @@ genai-shortcuts-hide =
 genai-menu-choose-chatbot =
     .label = Изабери ВИ чет-бота
 genai-menu-ask-generic-2 =
-    .label = Питај ВИ чет-ботаа
-    .accesskey = з
+    .label = Питај ВИ чет-бота
+    .accesskey = б
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Питај { $provider }
     .accesskey = з
 genai-menu-no-provider-2 =
-    .label = Питај ВИ чет-ботаа
-    .accesskey = з
+    .label = Питај ВИ чет-бота
+    .accesskey = ј
 
 ## Chatbot header
 
