@@ -14,7 +14,7 @@ customkeys-dev-accessibility = الإتاحة
 customkeys-category-navigation = تصفّح
 customkeys-nav-back = السابق
 customkeys-nav-forward = التالي
-customkeys-nav-home = الرئيسية
+customkeys-nav-home = المنزل
 customkeys-nav-reload = أعِد التحميل
 customkeys-nav-stop = أوقف
 # Displayed in the new key field when the key that was pressed isn't valid.

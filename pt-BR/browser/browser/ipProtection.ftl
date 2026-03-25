@@ -90,6 +90,8 @@ ipprotection-connection-status-generic-error-title = Não foi possível conectar
 ipprotection-connection-status-generic-error-description = Tente novamente em alguns minutos.
 ipprotection-connection-status-network-error-title = Verifique sua conexão com a internet
 ipprotection-connection-status-network-error-description = Conecte-se à internet, depois tente ativar a VPN.
+ipprotection-connection-status-blocked-error-title = A VPN não está disponível.
+ipprotection-connection-status-blocked-error-description = A legislação local nos impede de fornecer o serviço de VPN nesta região. <a data-l10n-name="learn-more-link">Saiba mais</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

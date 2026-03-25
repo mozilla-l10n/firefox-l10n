@@ -710,6 +710,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = النوافذ و الألسنة الجديدة
 home-new-windows-tabs-description2 = اختر ما تراه عندما تفتح صفحة البداية و النوافذ و الألسنة الجديدة.
+home-section =
+    .heading = الصفحة الرئيسية والبدء
 
 ## Home Section - Default Browser
 
@@ -724,6 +726,8 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = صفحة البداية و النوافذ الجديدة
+home-homepage-new-windows =
+    .label = نوافذ جديدة
 home-newtabs-mode-label = الألسنة الجديدة
 home-homepage-new-tabs =
     .label = الألسنة الجديدة
@@ -759,9 +763,16 @@ choose-bookmark =
     .label = استخدم علامة…
     .accesskey = ع
 
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = صفحة البداية
+
 ## Custom Homepage subpage
 
 home-custom-homepage-header = صفحة بداية مخصّصة
+home-custom-homepage-subpage =
+    .heading = صفحة بداية مخصّصة
 home-custom-homepage-address =
     .placeholder = أدخل العنوان
 home-custom-homepage-address-button =
@@ -839,6 +850,9 @@ home-prefs-weather-header =
     .label = الطقس
 home-prefs-weather-description = لمحة عامة عن توقعات الطقس اليوم
 home-prefs-weather-learn-more-link = اطّلع على المزيد
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = قوائم
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = المؤقت
