@@ -676,6 +676,8 @@ pdfjs-views-manager-view-selector-button =
     .title = Zobrazení
 pdfjs-views-manager-view-selector-button-label = Zobrazení
 pdfjs-views-manager-pages-title = Stránky
+pdfjs-views-manager-outlines-title1 = Osnova dokumentu
+    .title = Osnova dokumentu (dvojité klepnutí rozbalí/sbalí všechny položky)
 pdfjs-views-manager-outlines-title = Osnova dokumentu
 pdfjs-views-manager-attachments-title = Přílohy
 pdfjs-views-manager-layers-title = Vrstvy
@@ -700,6 +702,7 @@ pdfjs-views-manager-pages-status-action-button-label = Správa
 pdfjs-views-manager-pages-status-copy-button-label = Kopírovat
 pdfjs-views-manager-pages-status-cut-button-label = Vyjmout
 pdfjs-views-manager-pages-status-delete-button-label = Smazat
+pdfjs-views-manager-pages-status-export-selected-button-label = Exportovat vybrané…
 pdfjs-views-manager-pages-status-save-as-button-label = Uložit jako…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -746,6 +749,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = Vložit za stránku { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = NOVÉ
 pdfjs-toggle-views-manager-button1 =
     .title = Spravovat strany
 
