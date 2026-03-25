@@ -43,11 +43,6 @@ about-translations-translation-error-button = Riprova
 #   $language (String) - The display name of the detected language.
 about-translations-detected-language-unsupported-heading-2 = Siamo spiacenti, la traduzione da { $language } non è ancora supportata
 about-translations-detected-language-unsupported-heading-unknown-2 = Siamo spiacenti, la traduzione da questa lingua non è ancora supportata
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Siamo spiacenti, non supportiamo ancora { $language }
-about-translations-detected-language-unsupported-heading-unknown = Siamo spiacenti, questa lingua non è ancora supportata
 about-translations-detected-language-unsupported-subtext = Scegli un’altra lingua.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
