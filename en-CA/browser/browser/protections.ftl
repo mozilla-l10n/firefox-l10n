@@ -202,3 +202,6 @@ bar-tooltip-cryptominer =
             [one] { $count } cryptominer ({ $percentage }%)
            *[other] { $count } cryptominers ({ $percentage }%)
         }
+privacy-metrics-loading = Loading protection stats…
+privacy-metrics-error = Unable to load protection stats.
+privacy-metrics-private-window = { -brand-short-name } continues to block trackers in Private Windows, but does not keep a record of what was blocked.

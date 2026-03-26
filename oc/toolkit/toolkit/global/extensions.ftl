@@ -16,6 +16,14 @@ webext-perms-header-unsigned = Apondre { $extension } ? Aquesta extension fogu
 webext-perms-header-unsigned-with-perms = Apondre { $extension } ? Aquesta extension foguèt pas verificada. Las extensions malvolentas pòdon prendre vòstras donadas personalas o far perilh a vòstre ordenador. L’apondètz sonque se vos fisatz de la font. Aquesta extension aurà la permission de :
 webext-perms-sideload-header = { $extension } es estat apondut
 webext-perms-optional-perms-header = { $extension } demanda de permissions suplementàrias.
+webext-perms-header2 = Apondre { $extension } ?
+
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = Autorizacions necessàrias :
+webext-perms-header-optional-settings = Paramètres opcionals :
+webext-perms-header-update-required-perms = Autorizacions necessàrias novèla :
+webext-perms-header-data-collection-is-none = Culhida de donadas :
 
 ##
 
@@ -69,6 +77,23 @@ webext-perms-host-description-too-many-sites =
         [one] Accedir a vòstras donadas dins { $domainCount } autre site
        *[other] Accedir a vòstras donadas dins { $domainCount } autres sites
     }
+# Variables:
+#   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., mozilla.org),
+#     $domain should be treated as plural (because it may also include all subdomains, e.g www.mozilla.org, ftp.mozilla.org).
+webext-perms-host-description-one-domain = Accedir a vòstras donadas pels sites dels domenis { $domain }
+# Permission string used for webextensions requesting access to 2 or more domains (and so $domainCount is expected to always
+# be >= 2, for webextensions requesting access to only one domain the `webext-perms-host-description-one-domain` string is
+# used instead).
+# Variables:
+#   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
+#     (the list of domains will follow this string).
+webext-perms-host-description-multiple-domains = Accedir a vòstras donadas pels sites de { $domain } domenis
+
+## Strings for data collection permissions in the permission prompt.
+
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } demanda d’autorizacions suplementàrias
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

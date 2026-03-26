@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Open Site in New Window
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = To protect your security, { $hostname } will not allow { -brand-short-name } to display the page if another site has embedded it. To see this page, you need to open it in a new window.
 fp-certerror-view-certificate-link = View the site’s certificate
+fp-certerror-return-to-previous-page-recommended-button-2 = Go back (Recommended)
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Go back (Recommended)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Software is Preventing { -brand-short-name } From Safely 
 
 fp-certerror-page-title = Warning: Security Risk
 fp-certerror-body-title = Be careful. Something doesn’t look right.
+fp-certerror-illustration-alt =
+    .alt = Illustration of a fox looking at an orange warning sign.
 fp-certerror-why-site-dangerous = What makes the site look dangerous?
 fp-certerror-what-can-you-do = What can you do about it?
 fp-certerror-advanced-title = Advanced
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Proceed to { $hostname } (Risky)
 fp-certerror-intro = { -brand-short-name } spotted a potentially serious security issue with <strong>{ $hostname }</strong>. Someone pretending to be the site could try to steal things like credit card info, passwords, or emails.
 fp-certerror-expired-into = { -brand-short-name } spotted a security issue with <strong>{ $hostname }</strong>. Either the site isn’t set up right or your device’s clock is set to the wrong date/time.
 fp-certerror-transparency-intro = Someone pretending to be <strong>{ $hostname }</strong> could try to steal things like credit card info, passwords, or emails.
+fp-certerror-override-exception-button-2 = Proceed to { $hostname } (Risky)
+    .accesskey = P

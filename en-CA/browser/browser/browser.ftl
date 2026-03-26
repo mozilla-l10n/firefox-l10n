@@ -567,6 +567,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restore Down
 browser-window-close-button =
     .tooltiptext = Close
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Return
 
 ## Tab actions
 
@@ -1160,6 +1163,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Passwords
     .tooltiptext = View and manage your saved passwords
+qrcode-panel-error =
+    .message = Failed to generate QR code. Please try again.
+qrcode-copy-button =
+    .label = Copy
+qrcode-copy-success =
+    .message = QR code copied to clipboard.
+qrcode-copy-error =
+    .message = Failed to copy QR code.
+qrcode-save-button =
+    .label = Save
+qrcode-save-success =
+    .message = QR code saved.
+qrcode-save-error =
+    .message = Failed to save QR code.
+qrcode-save-title = Save QR Code
+qrcode-save-filter-png = PNG Image
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR Code
+qrcode-dialog-title = QR Code
+qrcode-image =
+    .aria-label = QR code
+qrcode-close-button =
+    .aria-label = Close
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1178,6 +1204,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = New private window
     .tooltiptext = Open a new private browsing window ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Share
+    .tooltiptext = Share this page
 
 ## EME notification panel
 
@@ -1197,6 +1226,15 @@ panel-save-update-password = Password
 # "More" item in macOS share menu
 menu-share-more =
     .label = More…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copy Link
+           *[other] Copy { $count } Links
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Copy Link
     .accesskey = L

@@ -25,6 +25,8 @@ neterror-override-exception-button = Accept the Risk and Continue
 neterror-pref-reset-button = Restore default settings
 neterror-return-to-previous-page-button = Go Back
 neterror-return-to-previous-page-recommended-button = Go Back (Recommended)
+neterror-try-again-button-2 = Try Again
+    .accesskey = T
 neterror-try-again-button = Try Again
 neterror-add-exception-button = Always continue for this site
 neterror-settings-button = Change DNS settings
@@ -176,12 +178,15 @@ neterror-response-status-code = Error code: { $responsestatus } { $responsestatu
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Looks like there’s a problem with your internet connection
+fp-neterror-illustration-alt =
+    .alt = Illustration of a fox looking at disconnected network cables.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } can’t create a secure connection to the server at { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } can’t connect to the server at <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = The server at <strong>{ $hostname }</strong> is taking too long to respond.
 fp-neterror-coop-coep-intro = { -brand-short-name } didn’t load this page because it looks like the security configuration doesn’t match the previous page.
 fp-neterror-http-auth-disabled-intro = Someone pretending to be the site could try to steal things like your username, password, or email.
 fp-neterror-http-auth-disabled-secure-connection = This site requires a secure connection, and you can’t add an exception to visit it.
@@ -196,3 +201,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Try changing the URL to HT
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Sometimes websites set up protections for themselves from unwanted interactions with other sites.
 fp-learn-more-about-https-connections = Learn about HTTPS connections
+fp-neterror-vpn-error-title = Couldn’t connect to VPN
+fp-neterror-vpn-error-description = Try again in a few minutes.
