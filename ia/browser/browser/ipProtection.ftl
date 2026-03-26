@@ -94,7 +94,7 @@ ipprotection-connection-status-generic-error-try-again = Retenta plus tarde.
 ipprotection-connection-status-network-error-title = Controla tu connexion a internet
 ipprotection-connection-status-network-error-description = Connecte te a internet, pois tenta activar VPN.
 ipprotection-connection-status-blocked-error-title = Le VPN es indisponibile
-ipprotection-connection-status-blocked-error-description = Le leges local nos impedi de fornir servicio VPN in iste region. <a data-l10n-name="learn-more-link">Saper plus</a>
+ipprotection-connection-status-blocked-error-description = Le leges local nos impedi de fornir servicio VPN in iste region. <a data-l10n-name="learn-more-link">Pro saper plus</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
