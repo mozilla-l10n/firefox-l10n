@@ -558,9 +558,6 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -686,12 +683,6 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
-
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -780,6 +771,15 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Ammustra cussìgios de chirca in is resurtados de sa barra de indiritzos
     .accesskey = i
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Ammustra is cussìgios de chirca in antis de sa cronologia de navigatzione in is resurtados de sa barra de indiritzos
+search-show-suggestions-private-windows-2 =
+    .label = Cussìgios de chirca in is ventanas privadas
 search-suggestions-cant-show-2 =
     .message = Is cussìgios de chirca no ant a èssere ammustrados in is resurtados de sa barra de positzione ca as cunfiguradu { -brand-short-name } in manera chi no regordet mai sa cronologia.
 addressbar-header-1 =
@@ -789,6 +789,8 @@ addressbar-header-1 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Ammustra is tèrmines de chirca in sa barra de indiritzos de is pàginas de resurtados
+search-suggestions-header-2 =
+    .label = Cussìgios dae is motores de chirca
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -913,11 +915,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1772,12 +1769,3 @@ preferences-ai-controls-translations-more-link = Àteras cunfiguratziones de tra
 preferences-ai-controls-key-points-control =
     .label = Puntos crae in sa previsualizatzione de is ligòngios
     .description = Bide unu resumu lestru in antis de abèrrere unu ligòngiu.
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-
