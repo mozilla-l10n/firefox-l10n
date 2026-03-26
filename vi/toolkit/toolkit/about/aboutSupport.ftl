@@ -121,7 +121,7 @@ graphics-device-pixel-ratios = Tỉ lệ Pixel của cửa sổ thiết bị
 graphics-window-protocol = Giao thức cửa sổ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Môi trường máy tính để bàn
-place-database-title = Cơ sở dữ liệu địa điểm
+place-database-title = Cơ sở dữ liệu lịch sử và dấu trang
 place-database-stats = Thống kê
 place-database-stats-show = Hiển thị thống kê
 place-database-stats-hide = Ẩn thống kê
@@ -134,6 +134,9 @@ place-database-stats-sequentiality-perc = Tuần tự (%)
 place-database-integrity = Tính toàn vẹn
 place-database-verify-integrity = Xác nhận tính toàn vẹn
 place-database-last-idle-maintenance-data = Ngày bảo trì không hoạt động gần đây nhất
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Lần cuối thực hiện Vacuum
+place-database-last-integrity-corruption-date = Lần cuối phát hiện lỗi cơ sở dữ liệu
 a11y-title = Trợ năng
 a11y-activated = Được kích hoạt
 a11y-force-disabled = Ngăn các tùy chọn về trợ năng
@@ -282,7 +285,7 @@ virtual-monitor-disp = Màn hình ảo
 ## not found.
 
 found = Đã tìm thấy
-missing = Còn thiếu
+missing = Chưa có
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Mô tả
