@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } no
 
 neterror-file-not-found-filename = Verificare che il nome del file non contenga maiuscole o errori di battitura.
 neterror-file-not-found-moved = Verificare se il file è stato spostato, rinominato o rimosso.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } non riesce a trovare il file in <strong>{ $path }</strong>. Potrebbe non esistere oppure il percorso potrebbe essere errato.
+neterror-file-not-found-what-can-you-do = Se hai inserito l’indirizzo manualmente, controlla che non ci siano differenze nelle maiuscole o errori di battitura nel nome del file o nel percorso. Se hai utilizzato un segnalibro o un link salvato, è possibile che il file sia stato spostato, rinominato o eliminato dopo il salvataggio. Prova a trovarlo tramite il tuo file manager o cercandolo tra i file recenti.
 neterror-access-denied = Il file potrebbe essere stato rimosso o spostato, oppure non si possiedono le autorizzazioni necessarie per aprirlo.
 neterror-unknown-protocol = È necessario installare del software aggiuntivo per aprire questo indirizzo.
 neterror-redirect-loop = Questo problema spesso è causato dal blocco o dal rifiuto dei cookie.
