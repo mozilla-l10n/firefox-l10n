@@ -2120,10 +2120,27 @@ privacy-segmentation-radio-off =
     .label = Usa le impostazioni consigliate da { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostra informazioni dettagliate
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Raccolta e utilizzo dati di { -brand-short-name }
+    .description = Ci impegniamo a fornirti la possibilità di scegliere e raccogliamo solo i dati essenziali per migliorare { -brand-product-name } per tutti.
+    .searchkeywords = telemetria
+data-collection-link = Visualizza l’informativa sulla privacy
+data-collection-preferences-across-profiles =
+    .message = Queste impostazioni si applicano a tutti i profili di { -brand-product-name } su questo dispositivo.
+data-collection-profiles-link = Visualizza tutti i profili
 data-collection-health-report-telemetry-disabled =
     .message = È stato revocato il permesso a { -vendor-short-name } di raccogliere dati tecnici e relativi all’interazione con il browser. Tutti i dati esistenti verranno rimossi entro 30 giorni.
+data-collection-health-report =
+    .label = Invia dati tecnici e di interazione a { -vendor-short-name }
+    .accesskey = v
+    .description = Questo ci aiuta a migliorare caratteristiche, prestazioni e stabilità di { -brand-product-name }.
 data-collection-studies-link =
     .label = Visualizza studi di { -brand-short-name }
+data-collection-usage-ping =
+    .label = Invia ping di utilizzo giornaliero a { -vendor-short-name }
+    .description = Questo consente a { -vendor-short-name } di stimare il numero di utenti attivi.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
