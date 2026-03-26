@@ -313,6 +313,7 @@ newtab-error-fallback-refresh-link = Aggiornare la pagina per riprovare.
 
 newtab-custom-shortcuts-title = Scorciatoie
 newtab-custom-shortcuts-subtitle = Siti che hai salvato oppure visitato
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Scorciatoie
     .description = Siti che hai salvato oppure visitato
