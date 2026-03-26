@@ -23,6 +23,9 @@ firefox-relay-reuse-masks-header =
     { $count ->
        *[other] Bạn đã sử dụng hết { $count } email ẩn danh miễn phí
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Bạn có thể tái sử dụng một email ẩn danh hoặc xem tất cả email ẩn danh để chọn một cái khác.
 firefox-relay-reuse-masks-select-label = Chọn một email ẩn danh gần đây
 firefox-relay-see-all-masks =
     .label = Xem tất cả email ẩn danh

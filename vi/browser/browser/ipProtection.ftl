@@ -88,8 +88,11 @@ upgrade-vpn-button = Hãy thử { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Không thể kết nối tới VPN
 ipprotection-connection-status-generic-error-description = Hãy thử lại sau vài phút.
+ipprotection-connection-status-generic-error-try-again = Vui lòng thử lại sau.
 ipprotection-connection-status-network-error-title = Kiểm tra kết nối Internet của bạn
 ipprotection-connection-status-network-error-description = Hãy kết nối internet, sau đó thử bật VPN lên.
+ipprotection-connection-status-blocked-error-title = VPN không khả dụng
+ipprotection-connection-status-blocked-error-description = Luật pháp địa phương ngăn cấm chúng tôi cung cấp dịch vụ VPN tại khu vực này. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
