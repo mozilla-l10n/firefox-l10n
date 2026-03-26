@@ -407,3 +407,8 @@ etp-strict-exceptions-infobar-button = Àplica is curretziones
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Immoe nono
     .accesskey = n
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } no est su navigadore predefinidu tuo
+set-default-menu-message-row-layout-title-variant = Cunfigura { -brand-short-name } comente su navigadore predefinidu

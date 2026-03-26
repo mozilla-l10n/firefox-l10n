@@ -148,6 +148,9 @@ startup-restore-warn-on-quit =
     .label = Faghe ischire cando essis dae su navigadore
 disable-extension =
     .label = Disativa estensione
+preferences-data-migration-group =
+    .label = Importa datos de su navigadore
+    .description = Bati is sinnalibros, is craes, sa cronologia, is estensiones e is datos de cumpletamentu automàticu dae un'àteru navigadore.
 preferences-data-migration-header = Importa datos de su navigadore
 preferences-data-migration-description = Importa sinnalibros, craes, cronologia e datos de cumpletamentu automàticu in { -brand-short-name }.
 preferences-data-migration-button =
@@ -646,6 +649,8 @@ home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgin
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navigadore predefinidu
 set-as-my-default-browser-2 =
     .label = Cunfigura comente predefinidu
     .accesskey = p
@@ -1375,6 +1380,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Atziones lestras
     .accesskey = A
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Cussìgios de chirca in tendèntzia
+    .accesskey = t
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = Cussìgios dae { -brand-short-name }
