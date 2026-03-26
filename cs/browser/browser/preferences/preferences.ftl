@@ -2660,7 +2660,7 @@ preferences-ai-controls-state-description-blocked = <strong>Blokováno:</strong>
 preferences-ai-controls-block-confirmation-heading = Blokovat vylepšování umělou inteligencí?
 preferences-ai-controls-block-confirmation-description =
     { -brand-short-name.case-status ->
-        [with-cases] ve { -brand-short-name(case: "loc") } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. Následně můžete odblokovat vše, co si přejete dál používat.
+        [with-cases] Ve { -brand-short-name(case: "loc") } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. Následně můžete odblokovat vše, co si přejete dál používat.
        *[no-cases] V aplikaci { -brand-short-name } neuvidíte nová ani stávající vylepšení pomocí umělé inteligence, ani vyskakovací okna zpravující o nich. Následně můžete odblokovat vše, co si přejete dál používat.
     }
 preferences-ai-controls-block-confirmation-features-start = Co bude blokováno:
