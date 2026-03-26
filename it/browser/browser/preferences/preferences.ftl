@@ -2072,6 +2072,9 @@ collection-health-report-telemetry-disabled = È stato revocato il permesso a { 
 collection-health-report-telemetry-disabled-link = Ulteriori informazioni
 backup-multi-profile-warning-message =
     .message = Per assicurarti che questa modifica sia inclusa nei tuoi backup, apri ciascun profilo e scegli “Effettua backup adesso” nelle impostazioni.
+addon-recommendations3 =
+    .label = Consenti consigli personalizzati sulle estensioni
+    .description = Ricevi consigli sulle estensioni per migliorare la tua esperienza di navigazione.
 collection-usage-ping =
     .label = Invia ping di utilizzo giornaliero a { -vendor-short-name }
     .accesskey = u
@@ -2117,6 +2120,10 @@ privacy-segmentation-radio-off =
     .label = Usa le impostazioni consigliate da { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostra informazioni dettagliate
+data-collection-health-report-telemetry-disabled =
+    .message = È stato revocato il permesso a { -vendor-short-name } di raccogliere dati tecnici e relativi all’interazione con il browser. Tutti i dati esistenti verranno rimossi entro 30 giorni.
+data-collection-studies-link =
+    .label = Visualizza studi di { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
