@@ -1743,6 +1743,9 @@ collection-description = Nus ta laschain la tscherna e ramassain mo las infurmaz
 collection-privacy-notice = Infurmaziuns davart la protecziun da datas
 collection-health-report-telemetry-disabled = Ti na permettas betg pli a { -vendor-short-name } da registrar datas davart la tecnica e l'interacziun. Tut las datas dal passà vegnan stizzadas entaifer 30 dis.
 collection-health-report-telemetry-disabled-link = Ulteriuras infurmaziuns
+addon-recommendations3 =
+    .label = Permetta recumandaziuns persunalisadas per extensiuns
+    .description = Retschaiva recumandaziuns dad extensiuns per meglierar tia experientscha da navigaziun.
 collection-usage-ping =
     .label = Trametter in ping d’utilisaziun quotidian a { -vendor-short-name }
     .accesskey = u
@@ -1785,6 +1788,8 @@ privacy-segmentation-radio-off =
     .label = Utilisar recumandaziuns da { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mussar infurmaziuns detagliadas
+data-collection-studies-link =
+    .label = Vesair ils studis da { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
