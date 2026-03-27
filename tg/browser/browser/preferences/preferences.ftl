@@ -2036,6 +2036,12 @@ privacy-segmentation-radio-off =
     .label = Истифода бурдан аз тавсияҳои «{ -brand-product-name }»
 privacy-segmentation-radio-on =
     .label = Намоиш додани маълумоти муфассал
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Ҷамъоварӣ ва истифодабарии маълумоти «{ -brand-short-name }»
+    .description = Мо cаъю кӯшиш мекунем, ки ба шумо имконияти интихобро таъмин намоем ва танҳо он маълумоти камтаринеро ҷамъ мекунем, ки барои беҳтар кардани «{ -brand-product-name }» барои ҳамаи мо лозим мешавад.
+    .searchkeywords = телеметрия
+data-collection-link = Намоиш додани «Огоҳномаи махфият»
 
 ## Privacy Section - Website Advertising Preferences
 
