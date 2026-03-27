@@ -2121,6 +2121,15 @@ privacy-segmentation-radio-off =
     .label = Utiliser les recommandations de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Afficher les informations détaillées
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Collecte de données par { -brand-short-name } et utilisation
+    .description = Nous nous efforçons de vous laisser le choix et de ne recueillir que le minimum de données nécessaires à l’amélioration de { -brand-product-name } pour tout le monde.
+    .searchkeywords = télémétrie
+data-collection-link = Consulter la politique de confidentialité
+data-collection-preferences-across-profiles =
+    .message = Ces paramètres s’appliquent à tous les profils de { -brand-product-name } sur cet appareil.
+data-collection-profiles-link = Afficher tous les profils
 data-collection-health-report-telemetry-disabled =
     .message = Vous n’autorisez plus { -vendor-short-name } à capturer des données techniques et d’interaction. Toutes les données passées seront supprimées dans les 30 jours.
 
