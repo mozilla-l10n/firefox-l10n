@@ -361,6 +361,8 @@ newtab-wallpaper-title = ਵਾਲਪੇਪਰ
 newtab-wallpaper-reset = ਮੂਲ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 newtab-wallpaper-upload-image = ਚਿੱਤਰ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ
 newtab-wallpaper-custom-color = ਰੰਗ ਨੂੰ ਚੁਣੋ
+newtab-wallpaper-toggle-title =
+    .label = ਵਾਲਪੇਪਰ
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = ਚਿੱਤਰ ਫ਼ਾਇਲ ਦਾ ਆਕਾਰ { $file_size } MB ਤੋਂ ਵੱਧ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਛੋਟੇ ਆਕਾਰ ਦੀ ਫਾਇਲ ਅੱਪਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
