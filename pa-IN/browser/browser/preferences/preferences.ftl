@@ -2074,6 +2074,9 @@ collection-health-report-telemetry-disabled = ਤੁਸੀਂ ਹੁਣ { -vendo
 collection-health-report-telemetry-disabled-link = ਹੋਰ ਜਾਣੋ
 backup-multi-profile-warning-message =
     .message = ਇਹ ਤਬਦੀਲੀ ਨੂੰ ਆਪਣੇ ਬੈਕਅੱਪ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹਰ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ “ਹੁਣੇ ਬੈਕਅੱਪ” ਨੂੰ ਚੁਣੋ।
+addon-recommendations3 =
+    .label = ਨਿੱਜੀ ਬਣਾਈਆਂ ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿਓ
+    .description = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਤਜਰਬੇ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।
 collection-usage-ping =
     .label = ਰੋਜ਼ਾਨਾ ਵਰਤੋਂ ਪਿੰਗ { -vendor-short-name } ਨੂੰ ਭੇਜੋ
     .accesskey = u
@@ -2119,6 +2122,8 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ਸਿਫ਼ਾਰਸ਼ਾਂ ਨੂੰ ਵਰਤੋਂ
 privacy-segmentation-radio-on =
     .label = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
+data-collection-studies-link =
+    .label = { -brand-short-name } ਅਧਿਐਨ ਵੇਖੋ
 
 ## Privacy Section - Website Advertising Preferences
 
