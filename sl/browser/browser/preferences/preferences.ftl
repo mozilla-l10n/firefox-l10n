@@ -2068,8 +2068,21 @@ data-collection =
     .description = Trudimo se vam ponuditi izbiro in zbirati minimalno količino podatkov, ki jih potrebujemo za izboljševanje { -brand-product-name(sklon: "rodilnik") }.
     .searchkeywords = telemetrija
 data-collection-link = Ogled obvestila o zasebnosti
+data-collection-preferences-across-profiles =
+    .message = Te nastavitve veljajo za vse profile { -brand-product-name(sklon: "rodilnik") } v tej napravi.
+data-collection-profiles-link = Prikaži vse profile
+data-collection-health-report-telemetry-disabled =
+    .message = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.
+data-collection-health-report =
+    .label = Pošiljaj { -vendor-short-name(sklon: "dajalnik") } tehnične in interakcijske podatke
+    .accesskey = r
+    .description = To nam pomaga izboljšati lastnosti, zmogljivost in zanesljivost { -brand-product-name(sklon: "rodilnik") }.
 data-collection-studies-link =
     .label = Prikaži raziskave { -brand-short-name(sklon: "rodilnik") }
+data-collection-usage-ping =
+    .label = Pošlji { -vendor-short-name(sklon: "dajalnik") } ping za dnevno uporabo
+    .description = To { -vendor-short-name(sklon: "dajalnik") } pomaga oceniti število aktivnih uporabnikov.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
