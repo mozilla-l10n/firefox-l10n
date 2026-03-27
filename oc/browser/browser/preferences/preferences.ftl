@@ -19,6 +19,8 @@ non-technical-privacy-header = Preferéncias de confidencialitat dels sites web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Paramètres
+category-nav-heading =
+    .heading = Paramètres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -33,6 +35,8 @@ search-input-box2 =
 managed-notice = Vòstra organizacion gerís vòstre navegador.
 managed-notice-info-icon =
     .alt = Informacions
+managed-notice-nav =
+    .label = Vòstra organizacion gerís vòstre navegador.
 category-list =
     .aria-label = Categorias
 pane-general-title = General
@@ -505,6 +509,9 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Contunhar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanças
@@ -622,6 +629,12 @@ use-current-pages =
 choose-bookmark =
     .label = Favorits…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -821,6 +834,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } es pas verificat.
 sync-signedin-login-failure = Vos cal reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1554,9 +1572,18 @@ desktop-folder-name = Burèu
 downloads-folder-name = Telecargaments
 choose-download-folder-title = Causissètz lo dossièr de telecargament :
 
+## AI controls page
+
+
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-customize-button =
     .label = Personalizar la proteccion contra lo seguiment
 preferences-etp-customize-header =
     .heading = Personalizar la proteccion contra lo seguiment
+
+## Warnings section
+
