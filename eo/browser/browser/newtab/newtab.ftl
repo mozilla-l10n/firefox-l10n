@@ -358,6 +358,8 @@ newtab-wallpaper-title = Ekranfonoj
 newtab-wallpaper-reset = Reŝargi normajn valorojn
 newtab-wallpaper-upload-image = Alŝuti bildon
 newtab-wallpaper-custom-color = Elekti koloron
+newtab-wallpaper-toggle-title =
+    .label = Ekranfonoj
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La grando de la bildo superas la maksimuman grandon de dosiero, kiu estas { $file_size }MO. Bonvolu provi alŝuti pli etan dosieron.
