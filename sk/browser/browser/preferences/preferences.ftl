@@ -2121,6 +2121,12 @@ privacy-segmentation-radio-off =
     .label = Použiť odporúčania { -brand-product-name(case: "gen") }
 privacy-segmentation-radio-on =
     .label = Zobraziť podrobné informácie
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Zber a použitie údajov o aplikácii { -brand-short-name }
+    .description = Snažíme sa poskytnúť vám možnosti a zhromažďovať len minimum údajov potrebných na zlepšenie { -brand-product-name(case: "gen") } pre každého.
+    .searchkeywords = telemetria
+data-collection-link = Zobraziť Vyhlásenie o ochrane osobných údajov
 data-collection-studies-link =
     .label = Zobraziť štúdie aplikácie { -brand-short-name }
 
