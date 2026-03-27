@@ -88,8 +88,10 @@ upgrade-vpn-button = Паспрабуйце { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Не ўдалося падключыцца да VPN
 ipprotection-connection-status-generic-error-description = Паспрабуйце зноў праз некалькі хвілін.
+ipprotection-connection-status-generic-error-try-again = Калі ласка, паспрабуйце пазней.
 ipprotection-connection-status-network-error-title = Праверце падлучэнне да Інтэрнэту
 ipprotection-connection-status-network-error-description = Падключыцеся да Інтэрнэту, а затым паспрабуйце ўключыць VPN.
+ipprotection-connection-status-blocked-error-title = VPN недаступны
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

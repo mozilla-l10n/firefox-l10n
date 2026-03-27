@@ -218,3 +218,19 @@ bar-tooltip-cryptominer =
             [few] { $count } майнеры крыптавалют ({ $percentage }%)
            *[many] { $count } майнераў крыптавалют ({ $percentage }%)
         }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } трэкер
+        [few] { $count } трэкеры
+       *[many] { $count } трэкераў
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } збіральнік лічбавых адбіткаў
+        [few] { $count } збіральнікі лічбавых адбіткаў
+       *[many] { $count } збіральнікаў лічбавых адбіткаў
+    }

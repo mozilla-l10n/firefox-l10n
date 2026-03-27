@@ -695,6 +695,7 @@ pdfjs-views-manager-pages-status-action-button-label = Кіраваць
 pdfjs-views-manager-pages-status-copy-button-label = Капіяваць
 pdfjs-views-manager-pages-status-cut-button-label = Выразаць
 pdfjs-views-manager-pages-status-delete-button-label = Выдаліць
+pdfjs-views-manager-pages-status-export-selected-button-label = Экспартаваць выбранае…
 pdfjs-views-manager-pages-status-save-as-button-label = Захаваць як…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -738,6 +739,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = Уставіць пасля старонкі { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = НОВАЕ
 pdfjs-toggle-views-manager-button1 =
     .title = Кіраванне старонкамі
 

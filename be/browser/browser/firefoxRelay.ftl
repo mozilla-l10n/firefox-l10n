@@ -18,6 +18,13 @@ firefox-relay-must-login-to-account = Увайдзіце ў свой уліко�
 firefox-relay-get-unlimited-masks =
     .label = Кіраванне маскамі
     .accesskey = К
+firefox-relay-reuse-masks-select-label = Выбраць нядаўнюю маску
+firefox-relay-see-all-masks =
+    .label = Глядзець усе маскі
+    .accesskey = д
+firefox-relay-dismiss =
+    .label = Адхіліць
+    .accesskey = А
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Абараніце свой адрас электроннай пошты:
 firefox-relay-opt-in-title-2 = Атрымайце бясплатную маску электроннай пошты
