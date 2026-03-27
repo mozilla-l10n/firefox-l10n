@@ -361,6 +361,8 @@ newtab-wallpaper-title = ფონები
 newtab-wallpaper-reset = ნაგულისხმევზე ჩამოყრა
 newtab-wallpaper-upload-image = სურათის ატვირთვა
 newtab-wallpaper-custom-color = ფერის არჩევა
+newtab-wallpaper-toggle-title =
+    .label = ფონები
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = სურათის ფაილის ზომა აღემატება ზღვარს { $file_size }ᲛᲑ. გთხოვთ, სცადოთ უფრო მცირე ფაილის ატვირთვა.
