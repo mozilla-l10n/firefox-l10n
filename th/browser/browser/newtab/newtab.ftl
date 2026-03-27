@@ -361,6 +361,8 @@ newtab-wallpaper-title = รูปพื้นหลัง
 newtab-wallpaper-reset = กลับเป็นค่าเริ่มต้น
 newtab-wallpaper-upload-image = อัปโหลดภาพ
 newtab-wallpaper-custom-color = เลือกสี
+newtab-wallpaper-toggle-title =
+    .label = รูปพื้นหลัง
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = ภาพมีขนาดเกินขีดจำกัดขนาดไฟล์ที่ { $file_size } MB โปรดลองอัปโหลดไฟล์ที่มีขนาดเล็กกว่านี้
