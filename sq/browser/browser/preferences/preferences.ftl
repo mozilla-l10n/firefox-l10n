@@ -2124,6 +2124,15 @@ privacy-segmentation-radio-off =
     .label = Përdorni rekomandime { -brand-product-name }-i
 privacy-segmentation-radio-on =
     .label = Shfaq të dhëna të hollësishme
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
+    .description = Përpiqemi t’ju japin mundësi zgjedhjeje dhe grumbullojmë vetëm të dhënat minimum të nevojshme për përmirësimin e { -brand-product-name }-it për gjithkënd.
+    .searchkeywords = telemetri
+data-collection-link = Shihni Shënim Mbi Privatësinë
+data-collection-preferences-across-profiles =
+    .message = Këto rregullime aplikohen mbi çdo profil { -brand-product-name } në këtë pajisje.
+data-collection-profiles-link = Shihni krejt profilet
 data-collection-health-report-telemetry-disabled =
     .message = S’e lejoni më { -vendor-short-name }-n të marrë të dhëna teknike dhe ndërveprimesh. Krejt të dhënat e dikurshme do të fshihen brenda 30 ditësh.
 data-collection-health-report =
