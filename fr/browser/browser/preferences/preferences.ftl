@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = Vous n’autorisez plus { -vendor-
 collection-health-report-telemetry-disabled-link = En savoir plus
 backup-multi-profile-warning-message =
     .message = Pour vous assurer que cette modification est incluse dans vos sauvegardes, ouvrez chaque profil et choisissez « Sauvegarder maintenant » dans les paramètres.
+addon-recommendations3 =
+    .label = Autoriser les recommandations personnalisées d’extensions
+    .description = Recevez des recommandations d’extensions pour améliorer votre navigation.
 collection-usage-ping =
     .label = Envoyer un ping quotidien d’utilisation à { -vendor-short-name }
     .accesskey = u
@@ -2132,6 +2135,16 @@ data-collection-preferences-across-profiles =
 data-collection-profiles-link = Afficher tous les profils
 data-collection-health-report-telemetry-disabled =
     .message = Vous n’autorisez plus { -vendor-short-name } à capturer des données techniques et d’interaction. Toutes les données passées seront supprimées dans les 30 jours.
+data-collection-health-report =
+    .label = Envoyer des données techniques et d’interaction à { -vendor-short-name }
+    .accesskey = d
+    .description = Ce partage nous aide à améliorer les fonctionnalités, les performances et la stabilité de { -brand-product-name }.
+data-collection-studies-link =
+    .label = Consulter les études de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Envoyer un ping quotidien d’utilisation à { -vendor-short-name }
+    .description = Ce paramètre aide { -vendor-short-name } à évaluer le nombre d’utilisateurs actifs.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
