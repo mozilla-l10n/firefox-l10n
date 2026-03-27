@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = Vi ne plu permesas al { -vendor-sh
 collection-health-report-telemetry-disabled-link = Pli da informo
 backup-multi-profile-warning-message =
     .message = Por certi ke tiu ĉi ŝanĝo eniros vian sekurkopiojn, malfermu ĉiun profilon kaj elektu “Fari sekurkopion nun“ en Agordoj.
+addon-recommendations3 =
+    .label = Permesi personecigitajn rekomendojn pri etendaĵoj
+    .description = Ricevu rekomendojn pri etendaĵoj por plibonigi vian retuman sperton.
 collection-usage-ping =
     .label = Sendi ping pri taga uzo al { -vendor-short-name }
     .accesskey = u
@@ -2121,8 +2124,27 @@ privacy-segmentation-radio-off =
     .label = Uzi la rekomendojn de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Montri detalan informon
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Kolekto kaj uzo de datumojn de { -brand-short-name }
+    .description = Ni strebas lasi vin decidi, kaj nur kolektas la minimumajn datumojn bezonatajn por plibonigi { -brand-product-name } por ĉiuj.
+    .searchkeywords = telemezuro
+data-collection-link = Vidi rimarkon pri privateco
+data-collection-preferences-across-profiles =
+    .message = Tiuj ĉi agordoj aplikeblas al ĉiuj profilo de { -brand-product-name } en tiu ĉi aparato.
+data-collection-profiles-link = Montri ĉiujn profilojn
+data-collection-health-report-telemetry-disabled =
+    .message = Vi ne plu permesas al { -vendor-short-name } kapti teknikajn kaj interagajn datumojn. Ĉiuj antaŭaj datumoj estos forigitaj dum la venontaj 30 tagoj.
+data-collection-health-report =
+    .label = Sendi teknikajn kaj interagajn datumojn al { -vendor-short-name }
+    .accesskey = r
+    .description = Tio helpas nin plibonigi la trajtojn, efikecon kaj stabilecon de { -brand-product-name }.
 data-collection-studies-link =
     .label = Vidi studojn de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Sendi ping pri taga uzo al { -vendor-short-name }
+    .description = Tio helpas { -vendor-short-name } taksi la nombron de aktivaj uzantoj.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
