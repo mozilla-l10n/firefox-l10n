@@ -41,6 +41,8 @@ search-input-box2 =
 managed-notice = Nabigatzailea zure erakundeak kudeatzen du.
 managed-notice-info-icon =
     .alt = Informazioa
+managed-notice-nav =
+    .label = Nabigatzailea zure erakundeak kudeatzen du.
 category-list =
     .aria-label = Kategoriak
 pane-general-title = Orokorra
@@ -2322,3 +2324,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Susmopeko hatz-marka bidezko jarraipena
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Susmopeko hatz-marka bidezko jarraipena
+
+## Warnings section
+
