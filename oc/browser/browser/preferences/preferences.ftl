@@ -1451,6 +1451,10 @@ privacy-segmentation-radio-off =
     .label = Utilizar las recomandacions { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar las informacions detalhadas
+data-collection-health-report-telemetry-disabled =
+    .message = Autorizatz pas mai { -vendor-short-name } a capturar de donadas tecnicas e d’interaccion. Totas las donadas passadas seràn suprimidas d’aquí 30 jorns.
+data-collection-studies-link =
+    .label = Veire los estudis de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
