@@ -2101,14 +2101,27 @@ privacy-segmentation-radio-off =
     .label = ใช้คำแนะนำจาก { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = แสดงข้อมูลโดยละเอียด
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = การรวบรวมและใช้ข้อมูลของ { -brand-short-name }
+    .description = เราพยายามที่จะมอบทางเลือกให้กับคุณและรวบรวมข้อมูลอย่างน้อยที่สุดเท่าที่จำเป็นเพื่อปรับปรุง { -brand-product-name } ให้กับทุกคน
+    .searchkeywords = การวัดและส่งข้อมูลทางไกล
 data-collection-link = ดูประกาศความเป็นส่วนตัว
 data-collection-preferences-across-profiles =
     .message = การตั้งค่าเหล่านี้จะมีผลกับโปรไฟล์ { -brand-product-name } ทุกอันบนอุปกรณ์นี้
 data-collection-profiles-link = ดูโปรไฟล์ทั้งหมด
 data-collection-health-report-telemetry-disabled =
     .message = คุณจะไม่อนุญาตให้ { -vendor-short-name } เก็บข้อมูลทางเทคนิคและการโต้ตอบอีกต่อไป ข้อมูลที่ผ่านมาทั้งหมดจะถูกลบภายใน 30 วัน
+data-collection-health-report =
+    .label = ส่งข้อมูลทางเทคนิคและการโต้ตอบไปยัง { -vendor-short-name }
+    .accesskey = ต
+    .description = ตัวเลือกนี้จะช่วยเราปรับปรุงคุณลักษณะ ประสิทธิภาพ และความเสถียรของ { -brand-product-name }
 data-collection-studies-link =
     .label = ดูการศึกษาของ { -brand-short-name }
+data-collection-usage-ping =
+    .label = ส่งพิงการใช้งานรายวันไปยัง { -vendor-short-name }
+    .description = ตัวเลือกนี้จะช่วยให้ { -vendor-short-name } ประเมินจำนวนผู้ใช้ที่มีความเคลื่อนไหวได้
+    .accesskey = ช
 
 ## Privacy Section - Website Advertising Preferences
 
