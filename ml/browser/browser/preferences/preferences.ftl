@@ -8,6 +8,8 @@ do-not-track-learn-more = കൂടുതലറിവ് നേടുക
 do-not-track-option-always =
     .label = എപ്പോഴും
 settings-page-title = ക്രമീകരണങ്ങള്‍
+category-nav-heading =
+    .heading = ക്രമീകരണങ്ങള്‍
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
