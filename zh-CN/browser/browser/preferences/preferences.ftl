@@ -41,6 +41,8 @@ search-input-box2 =
 managed-notice = 您的浏览器正由组织管理。
 managed-notice-info-icon =
     .alt = 信息
+managed-notice-nav =
+    .label = 您的浏览器正由组织管理。
 category-list =
     .aria-label = 分类
 pane-general-title = 常规
@@ -2331,3 +2333,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = 存疑的数字指纹跟踪程序
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = 存疑的数字指纹跟踪程序
+
+## Warnings section
+
