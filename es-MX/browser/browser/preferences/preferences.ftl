@@ -2014,6 +2014,8 @@ privacy-segmentation-radio-off =
     .label = Usa las recomendaciones de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar información detallada
+data-collection-studies-link =
+    .label = Ver estudios de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
