@@ -2099,6 +2099,12 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } のおすすめを利用する
 privacy-segmentation-radio-on =
     .label = 詳細情報を表示する
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } のデータ収集と利用について
+    .description = 私たちはユーザーに選択肢を提供し、{ -brand-product-name } の改善に必要な最小限のデータだけを収集するよう努力しています。
+    .searchkeywords = テレメトリー
+data-collection-link = プライバシー通知を表示
 
 ## Privacy Section - Website Advertising Preferences
 
