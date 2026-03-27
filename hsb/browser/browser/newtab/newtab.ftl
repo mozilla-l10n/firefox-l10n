@@ -316,6 +316,17 @@ newtab-custom-shortcuts-toggle =
     .description = Sydła, kotrež składujeće abo wopytujeće
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } linka
+            [two] { $num } lince
+            [few] { $num } linki
+           *[other] { $num } linkow
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } linka
