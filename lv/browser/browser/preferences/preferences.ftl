@@ -19,6 +19,8 @@ non-technical-privacy-header = Vietņu privātuma preferences
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Globālā privātuma kontrole (GPC)
 settings-page-title = Iestatījumi
+category-nav-heading =
+    .heading = Iestatījumi
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -33,6 +35,8 @@ search-input-box2 =
 managed-notice = Jūsu pārlūku pārvalda jūsu organizācija.
 managed-notice-info-icon =
     .alt = Informācija
+managed-notice-nav =
+    .label = Jūsu pārlūku pārvalda jūsu organizācija.
 category-list =
     .aria-label = Kategorijas
 pane-general-title = Vispārīgi
