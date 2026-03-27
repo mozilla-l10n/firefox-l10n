@@ -27,6 +27,8 @@ non-technical-privacy-header = Preferentias de confidentialitate del sito
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Controlo global del confidentialitate (GPC)
 settings-page-title = Parametros
+category-nav-heading =
+    .heading = Parametros
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Tu navigator debe ser gerite per tu organisation.
 managed-notice-info-icon =
     .alt = Information
+managed-notice-nav =
+    .label = Tu navigator debe ser gerite per tu organisation.
 category-list =
     .aria-label = Categorias
 pane-general-title = General
