@@ -1032,6 +1032,8 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
+data-collection-studies-link =
+    .label = { -brand-short-name } అథ్యయనాలను చూడండి
 
 ## Privacy Section - Website Advertising Preferences
 
