@@ -364,6 +364,8 @@ newtab-wallpaper-title = Pozadkowe wobrazy
 newtab-wallpaper-reset = Na standard wróćo stajić
 newtab-wallpaper-upload-image = Wobraz nahrać
 newtab-wallpaper-custom-color = Barbu wubrać
+newtab-wallpaper-toggle-title =
+    .label = Pozadkowe wobrazy
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Wobraz je limit datajoweje wulkosće { $file_size } překročił. Nahrajće prošu mjeńšu dataju.
