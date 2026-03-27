@@ -27,6 +27,8 @@ non-technical-privacy-header = Websiteprivacyvoorkeuren
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Instellingen
+category-nav-heading =
+    .heading = Instellingen
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Uw browser wordt door uw organisatie beheerd.
 managed-notice-info-icon =
     .alt = Informatie
+managed-notice-nav =
+    .label = Uw browser wordt door uw organisatie beheerd.
 category-list =
     .aria-label = Categorieën
 pane-general-title = Algemeen
