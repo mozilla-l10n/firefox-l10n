@@ -1549,6 +1549,7 @@ privacy-segmentation-radio-on =
 data-collection-link = Wali tasertit n tbaḍnit
 data-collection-preferences-across-profiles =
     .message = Iɣewwaren-a ttwasnasen ɣef meṛṛa imaɣnuten n { -brand-product-name } ɣef yibenk-a.
+data-collection-profiles-link = Sken akk imaɣnuten
 data-collection-health-report-telemetry-disabled =
     .message = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
 data-collection-studies-link =
