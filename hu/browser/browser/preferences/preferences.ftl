@@ -2121,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = A{ -brand-product-name } javaslatainak használata
 privacy-segmentation-radio-on =
     .label = Részletes információk megjelenítése
+data-collection-health-report-telemetry-disabled =
+    .message = Már nem engedélyezi, hogy a { -vendor-short-name } műszaki és interakciós adatokat rögzítsen. A múltbeli adatai 30 napon belül törölve lesznek.
 data-collection-studies-link =
     .label = { -brand-short-name } tanulmányok megtekintése
 
