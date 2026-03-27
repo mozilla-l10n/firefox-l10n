@@ -359,6 +359,8 @@ newtab-wallpaper-title = Обои
 newtab-wallpaper-reset = Восстановить по умолчанию
 newtab-wallpaper-upload-image = Загрузить изображение
 newtab-wallpaper-custom-color = Выберите цвет
+newtab-wallpaper-toggle-title =
+    .label = Обои
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Размер файла изображения превысил лимит в { $file_size }МБ. Пожалуйста, попробуйте загрузить файл меньшего размера.
