@@ -2121,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = A{ -brand-product-name } javaslatainak használata
 privacy-segmentation-radio-on =
     .label = Részletes információk megjelenítése
+data-collection-studies-link =
+    .label = { -brand-short-name } tanulmányok megtekintése
 
 ## Privacy Section - Website Advertising Preferences
 
