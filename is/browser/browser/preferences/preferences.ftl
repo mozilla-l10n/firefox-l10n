@@ -1632,6 +1632,8 @@ privacy-segmentation-radio-off =
     .label = Nota ráðleggingar frá { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sýna nánari upplýsingar
+data-collection-studies-link =
+    .label = Skoða rannsóknir frá { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
