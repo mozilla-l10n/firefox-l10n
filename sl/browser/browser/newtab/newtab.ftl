@@ -363,6 +363,8 @@ newtab-wallpaper-title = Ozadja
 newtab-wallpaper-reset = Ponastavi privzeto
 newtab-wallpaper-upload-image = Naloži sliko
 newtab-wallpaper-custom-color = Izberite barvo
+newtab-wallpaper-toggle-title =
+    .label = Ozadja
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Največja dovoljena velikost slike je { $file_size } MB. Poskusite naložiti manjšo datoteko.
