@@ -1177,6 +1177,10 @@ addon-recommendations-link = Més informació
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'esta versió
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } envie els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
+data-collection-health-report-telemetry-disabled =
+    .message = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'ací a 30 dies.
+data-collection-studies-link =
+    .label = Mostra els estudis del { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
