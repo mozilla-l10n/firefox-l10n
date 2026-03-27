@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Dycki
 settings-page-title = Sztalōnki
+category-nav-heading =
+    .heading = Sztalōnki
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Znojdź we sztalōnkach
 managed-notice = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
+managed-notice-nav =
+    .label = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
 category-list =
     .aria-label = Kategoryje
 pane-general-title = Ôgōlne
