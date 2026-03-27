@@ -2127,8 +2127,21 @@ data-collection =
     .description = Snažíme sa poskytnúť vám možnosti a zhromažďovať len minimum údajov potrebných na zlepšenie { -brand-product-name(case: "gen") } pre každého.
     .searchkeywords = telemetria
 data-collection-link = Zobraziť Vyhlásenie o ochrane osobných údajov
+data-collection-preferences-across-profiles =
+    .message = Tieto nastavenia platia pre každý profil { -brand-product-name(case: "gen") } na tomto zariadení.
+data-collection-profiles-link = Zobraziť všetky profily
+data-collection-health-report-telemetry-disabled =
+    .message = Odosielanie technických údajov a údajov o interakciách spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
+data-collection-health-report =
+    .label = Odosielať { -vendor-short-name(case: "dat") } technické údaje a údaje o interakciách
+    .accesskey = t
+    .description = Pomáha nám to zlepšovať funkcie, výkon a stabilitu { -brand-product-name(case: "gen") }.
 data-collection-studies-link =
     .label = Zobraziť štúdie aplikácie { -brand-short-name }
+data-collection-usage-ping =
+    .label = Odosielať ping denného používania { -vendor-short-name(case: "gen") }
+    .description = Toto pomáha spoločnosti { -vendor-short-name } odhadnúť počet aktívnych používateľov.
+    .accesskey = l
 
 ## Privacy Section - Website Advertising Preferences
 
