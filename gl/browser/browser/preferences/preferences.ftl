@@ -1591,8 +1591,14 @@ privacy-segmentation-radio-off =
     .label = Usar as recomendacións de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar información detallada
+data-collection-health-report-telemetry-disabled =
+    .message = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
 data-collection-studies-link =
     .label = Ver os estudos de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Enviar ping de uso diario a { -vendor-short-name }
+    .description = Isto axuda a { -vendor-short-name } a estimar os usuarios activos.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
