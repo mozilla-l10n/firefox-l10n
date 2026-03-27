@@ -2016,6 +2016,9 @@ collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo t
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report-telemetry-disabled = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.
 collection-health-report-telemetry-disabled-link = Več o tem
+addon-recommendations3 =
+    .label = Dovoli osebno prilagojena priporočila razširitev
+    .description = Prejemajte priporočila za razširitve, ki bi vam izboljšale izkušnjo brskanja.
 collection-usage-ping =
     .label = Pošlji { -vendor-short-name(sklon: "dajalnik") } ping za dnevno uporabo
     .accesskey = u
@@ -2065,6 +2068,8 @@ data-collection =
     .description = Trudimo se vam ponuditi izbiro in zbirati minimalno količino podatkov, ki jih potrebujemo za izboljševanje { -brand-product-name(sklon: "rodilnik") }.
     .searchkeywords = telemetrija
 data-collection-link = Ogled obvestila o zasebnosti
+data-collection-studies-link =
+    .label = Prikaži raziskave { -brand-short-name(sklon: "rodilnik") }
 
 ## Privacy Section - Website Advertising Preferences
 
