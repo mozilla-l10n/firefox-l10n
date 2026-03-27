@@ -362,6 +362,8 @@ newtab-wallpaper-title = Achtergronden
 newtab-wallpaper-reset = Standaardwaarden
 newtab-wallpaper-upload-image = Een afbeelding uploaden
 newtab-wallpaper-custom-color = Kies een kleur
+newtab-wallpaper-toggle-title =
+    .label = Achtergronden
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = De afbeelding heeft de bestandsgroottelimiet van { $file_size } MB overschreden. Probeer een kleiner bestand te uploaden.
