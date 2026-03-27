@@ -362,6 +362,8 @@ newtab-wallpaper-title = Ταπετσαρίες
 newtab-wallpaper-reset = Επαναφορά προεπιλογής
 newtab-wallpaper-upload-image = Μεταφόρτωση εικόνας
 newtab-wallpaper-custom-color = Επιλογή χρώματος
+newtab-wallpaper-toggle-title =
+    .label = Ταπετσαρίες
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Η εικόνα υπερέβη το όριο μεγέθους των { $file_size }MB. Δοκιμάστε να μεταφορτώσετε ένα μικρότερο αρχείο.
