@@ -34,6 +34,8 @@ search-input-box2 =
 managed-notice = Tu organización gestiona el navegador.
 managed-notice-info-icon =
     .alt = Información
+managed-notice-nav =
+    .label = Tu organización gestiona el navegador.
 category-list =
     .aria-label = Categorías
 pane-general-title = General
@@ -2272,3 +2274,6 @@ preferences-etp-custom-tracking-protection-enabled-context =
     .aria-label = Contenido de rastreo
 preferences-etp-custom-crypto-mining-protection-enabled =
     .label = Criptomineros
+
+## Warnings section
+
