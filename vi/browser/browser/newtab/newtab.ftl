@@ -361,6 +361,8 @@ newtab-wallpaper-title = Hình nền
 newtab-wallpaper-reset = Đặt lại về mặc định
 newtab-wallpaper-upload-image = Tải lên một ảnh
 newtab-wallpaper-custom-color = Chọn màu
+newtab-wallpaper-toggle-title =
+    .label = Hình nền
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Hình ảnh vượt quá giới hạn kích thước tập tin { $file_size }MB. Vui lòng thử tải lên một tập tin nhỏ hơn.
