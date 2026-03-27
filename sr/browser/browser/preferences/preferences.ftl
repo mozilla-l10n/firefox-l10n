@@ -2205,8 +2205,27 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Прикупљање и коришћење података апликације { -brand-short-name }
+    .description = Трудимо се да вам пружимо избор и прикупљамо само минималне податке неопходне за побољшање { -brand-product-name } производа за све.
+    .searchkeywords = телеметрија
+data-collection-link = Погледајте обавештење о приватности
+data-collection-preferences-across-profiles =
+    .message = Ове поставке се примењују на сваки { -brand-product-name } профил на овом уређају.
+data-collection-profiles-link = Прикажи све профиле
+data-collection-health-report-telemetry-disabled =
+    .message = Више не дозвољавате { -vendor-short-name }-у да снима техничке и интерактивне податке. Сви протекли подаци биће избрисани у року од 30 дана.
+data-collection-health-report =
+    .label = Шаљите техничке податке и податке о интеракцији { -vendor-short-name }-у
+    .accesskey = т
+    .description = Ово нам помаже да побољшамо функције, перформансе и стабилност { -brand-product-name } производа.
 data-collection-studies-link =
     .label = Погледајте { -brand-short-name } студије
+data-collection-usage-ping =
+    .label = Шаљите дневне податке о коришћењу { -vendor-short-name }-у
+    .description = Ово помаже { -vendor-short-name }-у да процени број активних корисника.
+    .accesskey = д
 
 ## Privacy Section - Website Advertising Preferences
 
