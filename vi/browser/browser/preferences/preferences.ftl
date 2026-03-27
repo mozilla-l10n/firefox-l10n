@@ -27,6 +27,8 @@ non-technical-privacy-header = Tùy chọn riêng tư trang web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Cài đặt
+category-nav-heading =
+    .heading = Cài đặt
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
 managed-notice-info-icon =
     .alt = Thông tin
+managed-notice-nav =
+    .label = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
 category-list =
     .aria-label = Thể loại
 pane-general-title = Tổng quát
