@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = مسار الصورة المخصصة
 newtab-topsites-use-image-link = استخدم صورة مخصصة…
 newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = ألغِ
@@ -87,6 +90,9 @@ newtab-confirm-delete-history-p2 = لا يمكن التراجع عن هذا ال
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = نتيجة مموّلة
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -324,6 +330,8 @@ newtab-wallpaper-title = الخلفيات
 newtab-wallpaper-reset = صفّر إلى المبدئي
 newtab-wallpaper-upload-image = ارفع صورة
 newtab-wallpaper-custom-color = اختر لونًا
+newtab-wallpaper-toggle-title =
+    .label = الخلفيات
 newtab-wallpaper-light-red-panda = باندا أحمر
 newtab-wallpaper-light-mountain = جبل ابيض
 newtab-wallpaper-light-sky = سماء مع غيوم أرجوانية ووردية
@@ -376,6 +384,12 @@ newtab-wallpaper-feature-highlight-button = فهمت
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -437,10 +451,16 @@ newtab-section-cancel-button = ليس الآن
 newtab-section-mangage-topics-title = المواضيع
 newtab-custom-wallpaper-cta = جربه
 
+## Strings for new user activation custom wallpaper highlight
+
+
 ## Strings for download mobile highlight
 
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = افحص الرمز للتصفح بشكل آمن أثناء التنقل.
+
+## Strings for shortcuts highlight
+
 
 ## Strings for reporting issues with ads and content
 
@@ -499,3 +519,9 @@ newtab-promo-card-cta = اطّلع على المزيد
 newtab-promo-card-dismiss-button =
     .title = أهمِل
     .aria-label = أهمِل
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
