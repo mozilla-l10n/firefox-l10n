@@ -1058,6 +1058,10 @@ addon-recommendations-link = Saber-ne mas
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lo reporte de datos ye desactivau en esta configuración de programa
+data-collection-health-report-telemetry-disabled =
+    .message = Ya no permites que { -vendor-short-name } obtienga datos tecnicos y d'interacción. Totz los datos anteriors se borrarán en 30 días.
+data-collection-studies-link =
+    .label = Veyer estudios de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
