@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = Du tillater ikke lenger { -vendor-
 collection-health-report-telemetry-disabled-link = Les mer
 backup-multi-profile-warning-message =
     .message = For å sørge for at denne endringen er inkludert i sikkerhetskopiene dine, åpne hver profil og velg «Sikkerhetskopier nå» i Innstillinger.
+addon-recommendations3 =
+    .label = Tillat tilpassede anbefalinger for utvidelser
+    .description = Få anbefalinger for utvidelser for å forbedre nettleseropplevelsen din.
 collection-usage-ping =
     .label = Send ping for daglig bruk til { -vendor-short-name }
     .accesskey = u
@@ -2121,6 +2124,18 @@ privacy-segmentation-radio-off =
     .label = Bruk { -brand-product-name }-anbefalinger
 privacy-segmentation-radio-on =
     .label = Vis detaljert informasjon
+data-collection-health-report-telemetry-disabled =
+    .message = Du tillater ikke lenger { -vendor-short-name } å samle inn teknisk data og data om bruk. Alle tidligere data vil bli slettet innen 30 dager.
+data-collection-health-report =
+    .label = Send tekniske data og data om bruk til { -vendor-short-name }
+    .accesskey = e
+    .description = Dette hjelper oss med å forbedre funksjoner, ytelse og stabilitet i { -brand-product-name }.
+data-collection-studies-link =
+    .label = Vis { -brand-short-name }-studier
+data-collection-usage-ping =
+    .label = Send ping for daglig bruk til { -vendor-short-name }
+    .description = Dette hjelper { -vendor-short-name } med å beregne aktive brukere.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
