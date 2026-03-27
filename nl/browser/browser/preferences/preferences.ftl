@@ -2121,6 +2121,14 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-aanbevelingen gebruiken
 privacy-segmentation-radio-on =
     .label = Detailinformatie tonen
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name }-gegevensverzameling en -gebruik
+    .description = We streven ernaar om u keuzes te bieden en verzamelen alleen de gegevens die minimaal nodig zijn om { -brand-product-name } voor iedereen te verbeteren.
+    .searchkeywords = telemetrie
+data-collection-link = Privacyverklaring bekijken
+data-collection-health-report-telemetry-disabled =
+    .message = U staat { -vendor-short-name } niet langer toe technische en interactiegegevens vast te leggen. Alle eerdere gegevens worden binnen 30 dagen verwijderd.
 
 ## Privacy Section - Website Advertising Preferences
 
