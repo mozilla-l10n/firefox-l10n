@@ -360,6 +360,8 @@ newtab-wallpaper-title = Тасвирҳои замина
 newtab-wallpaper-reset = Ба ҳолати пешфарз барқарор кунед
 newtab-wallpaper-upload-image = Бор кардани тасвир
 newtab-wallpaper-custom-color = Рангеро интихоб кунед
+newtab-wallpaper-toggle-title =
+    .label = Тасвирҳои замина
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Андозаи тасвир зиёда аз маҳдудияти андозаи файли { $file_size } МБ мебошад. Лутфан, кӯшиш кунед, ки файлеро бо андозаи хурдтар бор намоед.
