@@ -27,6 +27,8 @@ non-technical-privacy-header = Webgunearen pribatutasun-hobespenak
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Ezarpenak
+category-nav-heading =
+    .heading = Ezarpenak
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
