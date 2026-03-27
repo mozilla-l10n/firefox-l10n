@@ -22,6 +22,8 @@ non-technical-privacy-header = تفضيلات خصوصية الموقع
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = التحكم العالمي في الخصوصية (GPC)
 settings-page-title = الإعدادات
+category-nav-heading =
+    .heading = الإعدادات
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -36,6 +38,8 @@ search-input-box2 =
 managed-notice = تُدير منظّمتك المتصفح الذي تستخدم الآن.
 managed-notice-info-icon =
     .alt = معلومة
+managed-notice-nav =
+    .label = تُدير منظّمتك المتصفح الذي تستخدم الآن.
 category-list =
     .aria-label = الفئات
 pane-general-title = عام
@@ -1873,3 +1877,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
