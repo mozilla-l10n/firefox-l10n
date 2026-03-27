@@ -361,6 +361,8 @@ newtab-wallpaper-title = Bakgrunnsbilde
 newtab-wallpaper-reset = Still tilbake til standard
 newtab-wallpaper-upload-image = Last opp eit bilde
 newtab-wallpaper-custom-color = Vel ein farge
+newtab-wallpaper-toggle-title =
+    .label = Bakgrunnsbilde
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bildet overskreid filstorleiksgrensa på { $file_size }MB. Prøv å laste opp ei mindre fil.
