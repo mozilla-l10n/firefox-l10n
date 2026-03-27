@@ -2035,6 +2035,8 @@ privacy-segmentation-radio-off =
     .label = Koristi { -brand-product-name } preporuke
 privacy-segmentation-radio-on =
     .label = Prikaži detaljne informacije
+data-collection-studies-link =
+    .label = Pregledaj { -brand-short-name } istraživanja
 
 ## Privacy Section - Website Advertising Preferences
 
