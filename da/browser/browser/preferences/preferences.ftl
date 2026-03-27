@@ -2044,6 +2044,10 @@ privacy-segmentation-radio-off =
     .label = Brug { -brand-product-name }-anbefalinger
 privacy-segmentation-radio-on =
     .label = Vis detaljeret information
+data-collection-health-report-telemetry-disabled =
+    .message = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
+data-collection-studies-link =
+    .label = Vis { -brand-short-name }-undersøgelser
 
 ## Privacy Section - Website Advertising Preferences
 
