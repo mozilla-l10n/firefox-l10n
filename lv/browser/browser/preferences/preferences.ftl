@@ -1434,6 +1434,10 @@ privacy-segmentation-radio-off =
     .label = Izmantot { -brand-product-name } ieteikumus
 privacy-segmentation-radio-on =
     .label = Rādīt detalizētu informāciju
+data-collection-health-report-telemetry-disabled =
+    .message = Jūs vairs neļaujat { -vendor-short-name } uzņemt tehniskos un mijiedarbības datus. Visi iepriekšējie dati tiks dzēsti 30 dienu laikā.
+data-collection-studies-link =
+    .label = Aplūkot { -brand-short-name } pētījumus
 
 ## Privacy Section - Website Advertising Preferences
 
