@@ -1594,6 +1594,11 @@ privacy-segmentation-radio-off =
     .label = Koristite preporuke { -brand-product-name }a
 privacy-segmentation-radio-on =
     .label = Prikaži detaljne informacije
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } prikupljanje i upotreba podataka
+    .description = Trudimo se da vam pružimo izbor i prikupljamo samo minimalne podatke potrebne za poboljšanje { -brand-product-name } za sve.
+    .searchkeywords = telemetrija
 data-collection-link = Pogledajte Policu privatnosti
 data-collection-preferences-across-profiles =
     .message = Ove postavke se primjenjuju na svaki { -brand-product-name } profil na ovom uređaju.
