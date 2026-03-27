@@ -361,6 +361,8 @@ newtab-wallpaper-title = Mba’erechaha rugua
 newtab-wallpaper-reset = Emoñerũjey ypyguáramo
 newtab-wallpaper-upload-image = Ehupi peteĩ ta’ãnga
 newtab-wallpaper-custom-color = Eiporavo peteĩ sa’y
+newtab-wallpaper-toggle-title =
+    .label = Mba’erechaha rugua
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Ta’ãnga ohasáma tuichakuépe { $file_size } MB rehegua. Eñeha’ã ehupi marandurenda michĩvéva.
