@@ -2069,6 +2069,9 @@ collection-health-report-telemetry-disabled = Ya no permites que { -vendor-short
 collection-health-report-telemetry-disabled-link = Aprender más
 backup-multi-profile-warning-message =
     .message = Para asegurarte de que este cambio se incluya en tus copias de seguridad, abre cada perfil y selecciona "Realizar copia de seguridad ahora" en Ajustes.
+addon-recommendations3 =
+    .label = Permitir recomendaciones de extensiones personalizadas
+    .description = Obtén recomendaciones de extensiones para mejorar tu experiencia de navegación.
 collection-usage-ping =
     .label = Envía un ping de uso diario a { -vendor-short-name }
     .accesskey = u
@@ -2114,6 +2117,10 @@ privacy-segmentation-radio-off =
     .label = Usar recomendaciones de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar información detallada
+data-collection-health-report-telemetry-disabled =
+    .message = Ya no permites que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán dentro de 30 días.
+data-collection-studies-link =
+    .label = Ver los estudios de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
