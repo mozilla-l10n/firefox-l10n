@@ -2073,6 +2073,9 @@ collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już
 collection-health-report-telemetry-disabled-link = Więcej informacji
 backup-multi-profile-warning-message =
     .message = Aby upewnić się, że ta zmiana zostanie uwzględniona w kopiach zapasowych, otwórz każdy profil i kliknij „Utwórz kopię zapasową” w Ustawieniach.
+addon-recommendations3 =
+    .label = Personalizowane polecenia rozszerzeń
+    .description = Polecenia rozszerzeń, które usprawnią przeglądanie Internetu.
 collection-usage-ping =
     .label = Wysyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
     .accesskey = d
@@ -2118,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = Używaj zaleceń { -brand-product-name(case: "gen") }
 privacy-segmentation-radio-on =
     .label = Wyświetlaj szczegółowe informacje
+data-collection-studies-link =
+    .label = Wyświetl badania { -brand-short-name(case: "gen") }
 
 ## Privacy Section - Website Advertising Preferences
 
