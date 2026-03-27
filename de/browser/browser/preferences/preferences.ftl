@@ -2121,6 +2121,12 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-Empfehlungen verwenden
 privacy-segmentation-radio-on =
     .label = Detaillierte Informationen anzeigen
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Datenerhebung durch { -brand-short-name } und deren Verwendung
+    .description = Wir bemühen uns, Ihnen die Wahl zu lassen und nur die Daten zu sammeln, die notwendig sind, um { -brand-product-name } für alle zu verbessern.
+    .searchkeywords = Telemetrie
+data-collection-link = Datenschutzhinweis ansehen
 
 ## Privacy Section - Website Advertising Preferences
 
