@@ -2135,8 +2135,16 @@ data-collection-preferences-across-profiles =
 data-collection-profiles-link = View all profiles
 data-collection-health-report-telemetry-disabled =
     .message = You’re no longer allowing { -vendor-short-name } to capture technical and interaction data. All past data will be deleted within 30 days.
+data-collection-health-report =
+    .label = Send technical and interaction data to { -vendor-short-name }
+    .accesskey = r
+    .description = This helps us improve { -brand-product-name } features, performance, and stability.
 data-collection-studies-link =
     .label = View { -brand-short-name } studies
+data-collection-usage-ping =
+    .label = Send daily usage ping to { -vendor-short-name }
+    .description = This helps { -vendor-short-name } to estimate active users.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
