@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Junelïk
 settings-page-title = Taq Runuk'ulem
+category-nav-heading =
+    .heading = Taq Runuk'ulem
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Tikanöx pa Runuk'ulem
 managed-notice = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
+managed-notice-nav =
+    .label = Ri awokik'amaya'l ninuk'samajiïx ruma ri amoloj.
 category-list =
     .aria-label = Taq ruwäch
 pane-general-title = Chijun
