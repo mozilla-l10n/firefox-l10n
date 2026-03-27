@@ -2068,6 +2068,9 @@ collection-privacy-notice = הצהרת פרטיות
 collection-health-report-telemetry-disabled-link = מידע נוסף
 backup-multi-profile-warning-message =
     .message = כדי לוודא ששינוי זה כלול בגיבויים שלך, יש לפתוח כל פרופיל ולבחור באפשרות ״גיבוי כעת״ בהגדרות.
+addon-recommendations3 =
+    .label = לאפשר המלצות מותאמות אישית על הרחבות
+    .description = קבלת המלצות על הרחבות לשיפור חווית הגלישה שלך.
 collection-usage-ping =
     .label = שליחת פינג שימוש יומי אל { -vendor-short-name }
     .accesskey = פ
@@ -2119,8 +2122,19 @@ data-collection =
     .description = אנו שואפים לספק לך אפשרויות בחירה ולאסוף רק את הנתונים המינימליים הדרושים כדי לשפר את { -brand-product-name } עבור כולם.
     .searchkeywords = טלמטריה
 data-collection-link = הצגת הצהרת הפרטיות
+data-collection-preferences-across-profiles =
+    .message = הגדרות אלה חלות על כל פרופיל של { -brand-product-name } במכשיר זה.
+data-collection-profiles-link = צפייה בכל הפרופילים
+data-collection-health-report =
+    .label = שליחת נתונים טכניים ונתוני אינטראקציה אל { -vendor-short-name }
+    .accesskey = ט
+    .description = זה מסייע לנו לשפר את היכולות, הביצועים והיציבות של { -brand-product-name }.
 data-collection-studies-link =
     .label = הצגת המחקרים של { -brand-short-name }
+data-collection-usage-ping =
+    .label = שליחת פינג שימוש יומי אל { -vendor-short-name }
+    .description = זה מסייע ל־{ -vendor-short-name } להעריך כמה יש משתמשים פעילים.
+    .accesskey = פ
 
 ## Privacy Section - Website Advertising Preferences
 
