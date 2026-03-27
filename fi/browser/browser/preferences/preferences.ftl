@@ -2128,10 +2128,27 @@ privacy-segmentation-radio-off =
     .label = Käytä { -brand-product-name }-suosituksia
 privacy-segmentation-radio-on =
     .label = Näytä yksityiskohtaiset tiedot
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name }in tietojen keräys ja käyttö
+    .description = Pyrimme tarjoamaan sinulle vaihtoehtoja ja keräämään vain vähimmäistiedot, jotka ovat tarpeen { -brand-product-name }in parantamiseksi.
+    .searchkeywords = telemetria
+data-collection-link = Näytä tietosuojakäytäntö
+data-collection-preferences-across-profiles =
+    .message = Nämä asetukset koskevat kaikkia tämän laitteen { -brand-product-name }-profiileja.
+data-collection-profiles-link = Näytä kaikki profiilit
 data-collection-health-report-telemetry-disabled =
     .message = Et enää salli { -vendor-short-name }n vastaanottaa teknisiä ja käyttötilastoja. Kaikki aikaisemmat tiedot poistetaan 30 päivän kuluessa.
+data-collection-health-report =
+    .label = Lähetä teknistä ja vuorovaikutustietoa { -vendor-short-name }lle
+    .accesskey = r
+    .description = Tämä auttaa meitä parantamaan { -brand-product-name }in ominaisuuksia, suorituskykyä ja vakautta.
 data-collection-studies-link =
     .label = Näytä { -brand-short-name }-tutkimukset
+data-collection-usage-ping =
+    .label = Lähetä päivittäinen käyttöilmoitus { -vendor-short-name }lle
+    .description = Tämä auttaa { -vendor-short-name }a arvioimaan aktiivisten käyttäjien määrää.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
