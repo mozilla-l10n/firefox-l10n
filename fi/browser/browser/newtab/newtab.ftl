@@ -366,6 +366,8 @@ newtab-wallpaper-title = Taustakuvat
 newtab-wallpaper-reset = Palauta oletusarvo
 newtab-wallpaper-upload-image = Lähetä kuva
 newtab-wallpaper-custom-color = Valitse väri
+newtab-wallpaper-toggle-title =
+    .label = Taustakuvat
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Kuvan koko ylitti tiedostokokorajan { $file_size } Mt. Yritä ladata pienempi tiedosto.
