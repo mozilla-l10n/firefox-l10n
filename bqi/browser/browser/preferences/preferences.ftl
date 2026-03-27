@@ -15,6 +15,8 @@ non-technical-privacy-header = سامووا هریم سیخومی وبگه
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = کونتورول هریم سیخومی جهۊوی (GPC)
 settings-page-title = سامووا
+category-nav-heading =
+    .heading = سامووا
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -29,6 +31,8 @@ search-input-box2 =
 managed-notice = گشت گر ایسا و دست سازمووݩ ایسا دؽوۉداری ابۊ.
 managed-notice-info-icon =
     .alt = دووسمندیا
+managed-notice-nav =
+    .label = گشت گر ایسا و دست سازمووݩ ایسا دؽوۉداری ابۊ.
 category-list =
     .aria-label = کتنا
 pane-general-title = پوی وولاتی
