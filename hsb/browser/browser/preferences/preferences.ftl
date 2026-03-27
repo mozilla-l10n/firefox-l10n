@@ -2129,6 +2129,10 @@ privacy-segmentation-radio-off =
     .label = Doporučenja { -brand-product-name } wužiwać
 privacy-segmentation-radio-on =
     .label = Nadrobne informacije pokazać
+data-collection-health-report-telemetry-disabled =
+    .message = Sće { -vendor-short-name } dowolnosć zebrał, techniske a interakciske daty hromadźić. Wšě dotal zhromadźene daty so w běhu 30 dnjow zhašeja.
+data-collection-studies-link =
+    .label = Studije { -brand-short-name } pokazać
 
 ## Privacy Section - Website Advertising Preferences
 
