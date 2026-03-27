@@ -307,6 +307,12 @@ tail-fox-spotlight-subtitle = Mondjon búcsút a bosszantó hirdetéskövetőkne
 tail-fox-spotlight-primary-button = Saját hivatkozások megnyitása a { -brand-short-name }szal
 tail-fox-spotlight-secondary-button = Most nem
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Ugorjon vissza a beépített adatvédelembe
+welcome-back-spotlight-subtitle = Üdvözöljük újra az egyetlen jelentős böngészőnél, melyet nonprofit szervezet támogat. Mindent megteszünk az adatvédelme érdekében, bármerre is járjon.
+welcome-back-embedded-import-title = Importálja az adatait, és érezze magát otthon a { -brand-short-name }ban
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>A { -brand-short-name } régebbi verzióiban 2025. január 14-én problémák léphetnek fel.</strong>

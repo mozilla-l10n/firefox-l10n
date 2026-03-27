@@ -202,3 +202,40 @@ bar-tooltip-cryptominer =
             [one] { $count } kriptobányász ({ $percentage }%)
            *[other] { $count } kriptobányász ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Adatvédelem
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blokkolva a héten
+       *[other] { $count } blokkolva a héten
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } követő
+       *[other] { $count } követő
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } ujjlenyomat-készítő
+       *[other] { $count } ujjlenyomat-készítő
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } nyomkövető süti
+       *[other] { $count } nyomkövető süti
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } közösségi követő
+       *[other] { $count } közösségi követő
+    }

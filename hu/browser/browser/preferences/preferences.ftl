@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Felugró ablakok és külső átirányítások blokkolása
     .accesskey = b
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Kivételek kezelése
+    .description = Adja hozzá azokat a webhelyeket, ahol engedélyezi a felugró ablakokat és a harmadik felek általi átirányításokat.
+    .accesskey = K
+    .searchkeywords = felugró ablakok
 permissions-addon-install-warning3 =
     .label = Figyelmeztetés megjelenítése, ha a webhely kiegészítőket próbál meg telepíteni
     .accesskey = F
