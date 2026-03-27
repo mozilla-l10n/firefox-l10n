@@ -364,6 +364,8 @@ newtab-wallpaper-title = Slězynowe wobraze
 newtab-wallpaper-reset = Na standard slědk stajiś
 newtab-wallpaper-upload-image = Wobraz nagraś
 newtab-wallpaper-custom-color = Barwu wubraś
+newtab-wallpaper-toggle-title =
+    .label = Slězynowe wobraze
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Wobraz jo pśekšocył limit datajoweje wjelikosći { $file_size }. Nagrajśo pšosym mjeńšu dataju.
