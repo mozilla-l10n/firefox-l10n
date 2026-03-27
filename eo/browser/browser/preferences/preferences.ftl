@@ -2121,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = Uzi la rekomendojn de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Montri detalan informon
+data-collection-studies-link =
+    .label = Vidi studojn de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
