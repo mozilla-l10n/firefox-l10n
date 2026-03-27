@@ -1478,6 +1478,10 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
 privacy-segmentation-radio-on =
     .label = විස්තරාත්මක තොරතුරු පෙන්වන්න
+data-collection-health-report-telemetry-disabled =
+    .message = ඔබ තවදුරටත් { -vendor-short-name } සඳහා තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත ග්‍රහණය කර ගැනීමට ඉඩ නොදේ. සියළුම අතීත දත්ත දවස් 30 ක් ඇතුළත මකා දැමෙනු ඇත.
+data-collection-studies-link =
+    .label = { -brand-short-name } අධ්‍යන බලන්න
 
 ## Privacy Section - Website Advertising Preferences
 
