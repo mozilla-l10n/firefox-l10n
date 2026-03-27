@@ -1439,6 +1439,9 @@ collection-description = අපි බොහෝ විට ඔබට තෝරා
 collection-privacy-notice = රහස්‍යතා දැන්වීම
 collection-health-report-telemetry-disabled = ඔබ තවදුරටත් { -vendor-short-name } සඳහා තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත ග්‍රහණය කර ගැනීමට ඉඩ නොදේ. සියළුම අතීත දත්ත දවස් 30 ක් ඇතුළත මකා දැමෙනු ඇත.
 collection-health-report-telemetry-disabled-link = තව දැනගන්න
+addon-recommendations3 =
+    .label = පුද්ගලීකරණ දිගු නිර්දේශයට ඉඩ දෙන්න
+    .description = ඔබගේ පිරික්සුම් අත්දැකීම ඉහළ නැංවීමට දිගු නිර්දේශ ලබා ගන්න.
 collection-usage-ping =
     .label = දෛනික භාවිත හැඬවීම { -vendor-short-name } වෙත යවන්න.
     .accesskey = u
@@ -1478,10 +1481,24 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
 privacy-segmentation-radio-on =
     .label = විස්තරාත්මක තොරතුරු පෙන්වන්න
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } දත්ත රැස් කිරීම හා භාවිතය
+    .description = අපි ඔබට තේරීම් ලබා දීමට වෙහෙසෙන අතර සැමට { -brand-product-name } වැඩිදියුණුවට වුවමනා අවම දත්ත පමණක් රැස් කරන්නෙමු.
+    .searchkeywords = telemetry
+data-collection-link = රහස්‍යතා දැන්වීම බලන්න
 data-collection-health-report-telemetry-disabled =
     .message = ඔබ තවදුරටත් { -vendor-short-name } සඳහා තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත ග්‍රහණය කර ගැනීමට ඉඩ නොදේ. සියළුම අතීත දත්ත දවස් 30 ක් ඇතුළත මකා දැමෙනු ඇත.
+data-collection-health-report =
+    .label = තාක්‍ෂණික සහ අන්තර්ක්‍රියා දත්ත { -vendor-short-name } වෙත යවන්න
+    .accesskey = r
+    .description = මෙය { -brand-product-name } විශේෂාංග, කාර්ය සාධනය සහ ස්ථායීතාව වැඩිදියුණුවට උපකාරී වේ.
 data-collection-studies-link =
     .label = { -brand-short-name } අධ්‍යන බලන්න
+data-collection-usage-ping =
+    .label = දෛනික භාවිත හැඬවීම { -vendor-short-name } වෙත යවන්න.
+    .description = මෙය { -vendor-short-name } සඳහා සක්‍රිය පරිශ්‍රීලකයින් තක්සේරුවට උපකාරී වේ.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
