@@ -1254,6 +1254,10 @@ addon-recommendations-link = Przewiydz sie wiyncyj
 collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kōnfiguracyji
 collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
     .accesskey = c
+data-collection-health-report-telemetry-disabled =
+    .message = { -vendor-short-name } niy mo już zgody, coby zbiyrać techniczne dane i dane ô interakcyjach. Wszyskie nazbiyrane dane bydōm skasowane do 30 dni.
+data-collection-studies-link =
+    .label = Pokoż badania aplikacyje { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
