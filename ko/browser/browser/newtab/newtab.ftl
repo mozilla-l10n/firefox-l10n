@@ -361,6 +361,8 @@ newtab-wallpaper-title = 배경 화면
 newtab-wallpaper-reset = 기본값으로 재설정
 newtab-wallpaper-upload-image = 이미지 업로드
 newtab-wallpaper-custom-color = 색상 선택
+newtab-wallpaper-toggle-title =
+    .label = 배경 화면
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 이미지가 파일 크기 제한인 { $file_size }MB를 초과했습니다. 더 작은 파일을 업로드 해 주세요.
