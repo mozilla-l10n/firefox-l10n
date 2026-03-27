@@ -2130,8 +2130,21 @@ data-collection =
     .description = Wy stribje dernei om jo kar te jaan en allinnich de minimale gegevens te sammeljen dy’t nedich binne om { -brand-product-name } foar elkenien te ferbetterjen.
     .searchkeywords = telemetry
 data-collection-link = Privacyferklearring besjen
+data-collection-preferences-across-profiles =
+    .message = Dizze ynstellingen jilde foar elk { -brand-product-name }-profyl op dit apparaat.
+data-collection-profiles-link = Alle profilen besjen
+data-collection-health-report-telemetry-disabled =
+    .message = Jo steane { -vendor-short-name } net langer ta technyske en ynteraksjegegevens fêst te lizzen. Alle eardere gegevens wurde binnen 30 dagen fuortsmiten.
+data-collection-health-report =
+    .label = Technyske en ynteraksjegegevens nei { -vendor-short-name } ferstjoere
+    .accesskey = r
+    .description = Dit helpt ús de funksjes, prestaasjes en stabiliteit fan { -brand-product-name } te ferbetterjen.
 data-collection-studies-link =
     .label = { -brand-short-name }-ûndersiken werjaan
+data-collection-usage-ping =
+    .label = Ping foar deistich gebrûk nei { -vendor-short-name } ferstjoerd
+    .description = Dit helpt { -vendor-short-name } om aktive brûkers te skatten.
+    .accesskey = d
 
 ## Privacy Section - Website Advertising Preferences
 
