@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = Δεν επιτρέπεται πλ
 collection-health-report-telemetry-disabled-link = Μάθετε περισσότερα
 backup-multi-profile-warning-message =
     .message = Για να βεβαιωθείτε ότι αυτή η αλλαγή θα συμπεριληφθεί στα αντίγραφα ασφαλείας σας, ανοίξτε καθένα από τα προφίλ και επιλέξτε «Δημιουργία τώρα» στις Ρυθμίσεις.
+addon-recommendations3 =
+    .label = Να επιτρέπονται εξατομικευμένες προτάσεις επεκτάσεων
+    .description = Λάβετε προτάσεις επεκτάσεων για να βελτιώσετε την εμπειρία περιήγησής σας.
 collection-usage-ping =
     .label = Αποστολή ping ημερήσιας χρήσης στη { -vendor-short-name }
     .accesskey = σ
@@ -2121,10 +2124,27 @@ privacy-segmentation-radio-off =
     .label = Χρήση προτάσεων του { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Εμφάνιση λεπτομερών πληροφοριών
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Συλλογή και χρήση δεδομένων { -brand-short-name }
+    .description = Προσπαθούμε να σας παρέχουμε επιλογές και να συλλέγουμε μόνο τα ελάχιστα δεδομένα που απαιτούνται για τη βελτίωση του { -brand-product-name } για όλους.
+    .searchkeywords = τηλεμετρία
+data-collection-link = Προβολή σημείωσης απορρήτου
+data-collection-preferences-across-profiles =
+    .message = Αυτές οι ρυθμίσεις ισχύουν για κάθε προφίλ του { -brand-product-name } σε αυτήν τη συσκευή.
+data-collection-profiles-link = Προβολή όλων των προφίλ
 data-collection-health-report-telemetry-disabled =
     .message = Δεν επιτρέπεται πλέον στη { -vendor-short-name } η συλλογή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης. Όλα τα προηγούμενα δεδομένα θα διαγραφούν μέσα σε 30 ημέρες.
+data-collection-health-report =
+    .label = Αποστολή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης στη { -vendor-short-name }
+    .accesskey = λ
+    .description = Αυτό μάς βοηθά να βελτιώσουμε τις λειτουργίες, τις επιδόσεις και τη σταθερότητα του { -brand-product-name }.
 data-collection-studies-link =
     .label = Προβολή μελετών του { -brand-short-name }
+data-collection-usage-ping =
+    .label = Αποστολή ping ημερήσιας χρήσης στη { -vendor-short-name }
+    .description = Αυτό βοηθά τη { -vendor-short-name } να εκτιμήσει τους ενεργούς χρήστες.
+    .accesskey = σ
 
 ## Privacy Section - Website Advertising Preferences
 
