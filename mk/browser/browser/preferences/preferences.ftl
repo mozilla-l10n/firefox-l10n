@@ -677,6 +677,8 @@ collection-health-report-telemetry-disabled-link = Дознајте повеќе
 collection-health-report-link = Дознај повеќе
 collection-studies-link = Погледнете ги студиите на { -brand-short-name }
 addon-recommendations-link = Дознајте повеќе
+data-collection-studies-link =
+    .label = Погледнете ги студиите на { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
