@@ -20,6 +20,8 @@ non-technical-privacy-header = Persónuverndarstefna vefsvæðis
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Stillingar
+category-nav-heading =
+    .heading = Stillingar
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Vafranum er stjórnað af kerfisstjórum þínum.
 managed-notice-info-icon =
     .alt = Upplýsingar
+managed-notice-nav =
+    .label = Vafranum er stjórnað af kerfisstjórum þínum.
 category-list =
     .aria-label = Flokkar
 pane-general-title = Almennt
