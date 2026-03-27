@@ -835,6 +835,8 @@ addon-recommendations-link = ပိုမိုလေ့လာရန်
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = တည်ဆောက်မှုဆိုင်ရာ ယခုအပြင်အဆင်အတွက် အချက်အလက်အစီရင်ခံခြင်းကို ပိတ်ထားသည်
+data-collection-studies-link =
+    .label = { -brand-short-name }လေ့လာမှု ကြည့်ရန်
 
 ## Privacy Section - Website Advertising Preferences
 
