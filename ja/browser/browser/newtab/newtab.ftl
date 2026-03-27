@@ -314,6 +314,11 @@ newtab-custom-shortcuts-toggle =
     .description = 保存または訪問したサイト
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label = { $num } 行
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector = { $num } 行
 newtab-custom-sponsored-sites = 広告ショートカット
 newtab-custom-pocket-title = { -pocket-brand-name } のおすすめ
