@@ -73,6 +73,9 @@ newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anulează
@@ -354,6 +357,8 @@ newtab-wallpaper-title = Imagini de fundal
 newtab-wallpaper-reset = Resetează la valorile implicite
 newtab-wallpaper-upload-image = Încarcă o imagine
 newtab-wallpaper-custom-color = Alege o culoare
+newtab-wallpaper-toggle-title =
+    .label = Imagini de fundal
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Imaginea a depășit limita de dimensiune a fișierului de { $file_size } MB. Te rugăm să încerci să încarci un fișier mai mic.
