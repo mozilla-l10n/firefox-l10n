@@ -1229,6 +1229,15 @@ panel-save-update-password = Jelszó
 # "More" item in macOS share menu
 menu-share-more =
     .label = Továbbiak…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Hivatkozás másolása
+           *[other] { $count } hivatkozás másolása
+        }
+    .accesskey = H
 menu-share-copy-link =
     .label = Hivatkozás másolása
     .accesskey = H

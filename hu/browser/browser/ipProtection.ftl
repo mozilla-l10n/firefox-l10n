@@ -88,8 +88,11 @@ upgrade-vpn-button = Próbálja ki a { -mozilla-vpn-brand-name }-t
 
 ipprotection-connection-status-generic-error-title = Nem sikerült kapcsolódni a VPN-hez
 ipprotection-connection-status-generic-error-description = Próbálja újra néhány perc múlva.
+ipprotection-connection-status-generic-error-try-again = Próbálja újra később.
 ipprotection-connection-status-network-error-title = Ellenőrizze internetkapcsolatát
 ipprotection-connection-status-network-error-description = Kapcsolódjon az internethez, majd próbálja bekapcsolni a VPN-t.
+ipprotection-connection-status-blocked-error-title = A VPN nem érhető el
+ipprotection-connection-status-blocked-error-description = A helyi törvények miatt nem nyújthatunk VPN-szolgáltatást ebben a régióban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

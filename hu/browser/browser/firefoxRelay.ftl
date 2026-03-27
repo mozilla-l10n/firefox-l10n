@@ -18,6 +18,22 @@ firefox-relay-must-login-to-account = Jelentkezzen be a fiókjába a { -relay-br
 firefox-relay-get-unlimited-masks =
     .label = Maszkok kezelése
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Felhasználta az { $count } ingyenes e-mail-maszkot
+       *[other] Felhasználta mind a(z) { $count } ingyenes e-mail-maszkot
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Újra felhasználhat egyet, vagy nézze meg az összes maszkot, hogy egy másikat válasszon.
+firefox-relay-reuse-masks-select-label = Nemrég használt maszk kiválasztása
+firefox-relay-see-all-masks =
+    .label = Összes maszk megtekintése
+    .accesskey = s
+firefox-relay-dismiss =
+    .label = Eltüntetés
+    .accesskey = E
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Védje meg az e-mail-címét:
 firefox-relay-opt-in-title-2 = Szerezzen egy ingyenes e-mail-maszkot

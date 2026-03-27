@@ -104,6 +104,14 @@ perplexity-callout-primary-label = Kérdezze a Perplexityt
 perplexity-callout-secondary-label-1 = Eltüntetés
 perplexity-callout-secondary-label-2 = Megértettem
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = Szeretne kipróbálni egy új, adatvédelem-fókuszú keresőt?
+start-page-callout-subtitle = Próbálja ki a Startpage-et. Arra tervezték, hogy a kereséseit a kezdetektől fogva bizalmasan kezelje.
+start-page-callout-primary-label = Startpage kipróbálása
+start-page-callout-secondary-label = Eltüntetés
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
