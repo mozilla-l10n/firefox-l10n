@@ -1440,6 +1440,10 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } دیاں سفارشاں استعمال کرو
 privacy-segmentation-radio-on =
     .label = تفصیلی معلومات ݙکھاؤ
+data-collection-health-report-telemetry-disabled =
+    .message = ہݨ تساں { -vendor-short-name } کوں تکنیکی تے تعامل دا ڈیٹا حاصل کرݨ دی اجازت نہیں ݙیندے پئے او۔ تمام پچھوکڑ دا ڈیٹا 30 ݙینہاں دے اندر حذف تھی ویسے۔
+data-collection-studies-link =
+    .label = { -brand-short-name } مطالعے ݙیکھو
 
 ## Privacy Section - Website Advertising Preferences
 
