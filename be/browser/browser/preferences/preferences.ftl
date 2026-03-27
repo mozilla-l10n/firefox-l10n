@@ -2124,6 +2124,8 @@ data-collection =
     .description = Мы імкнёмся прадстаўляць вам выбар і збіраем толькі мінімальныя звесткі, неабходныя для паляпшэння { -brand-product-name } для ўсіх.
     .searchkeywords = тэлеметрыя
 data-collection-link = Паглядзець Паведамленне аб прыватнасці
+data-collection-studies-link =
+    .label = Прагляд даследаванняў { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
