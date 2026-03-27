@@ -2120,8 +2120,21 @@ data-collection =
     .description = Nos esforzamos por ofrecerle opciones y recopilar solo los datos mínimos necesarios para mejorar { -brand-product-name } para todos.
     .searchkeywords = telemetría
 data-collection-link = Ver el aviso de privacidad
+data-collection-preferences-across-profiles =
+    .message = Esta configuración se aplica a todos los perfiles de { -brand-product-name } en este dispositivo.
+data-collection-profiles-link = Ver todos los perfiles
+data-collection-health-report-telemetry-disabled =
+    .message = Ya no permite que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
+data-collection-health-report =
+    .label = Enviar datos técnicos y de interacción a { -vendor-short-name }
+    .accesskey = r
+    .description = Esto nos ayuda a mejorar las características, el rendimiento y la estabilidad de { -brand-product-name }.
 data-collection-studies-link =
     .label = Ver los estudios de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Enviar ping de uso diario a { -vendor-short-name }
+    .description = Esto ayuda a { -vendor-short-name } a estimar la cantidad de usuarios activos.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
