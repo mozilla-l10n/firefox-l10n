@@ -1842,10 +1842,21 @@ data-collection =
     .description = Ми прагнемо забезпечити вибір і збираємо лише дані, необхідні для вдосконалення { -brand-product-name }.
     .searchkeywords = телеметрія
 data-collection-link = Переглянути Положення про приватність
+data-collection-preferences-across-profiles =
+    .message = Ці налаштування застосовуються до кожного профілю { -brand-product-name } на цьому пристрої.
+data-collection-profiles-link = Переглянути всі профілі
 data-collection-health-report-telemetry-disabled =
     .message = Ви більше не дозволяєте { -vendor-short-name } збирати технічні дані й інформацію про взаємодію. Всі минулі дані будуть видалені протягом 30 днів.
+data-collection-health-report =
+    .label = Надсилати технічні й аналітичні дані до { -vendor-short-name }
+    .accesskey = с
+    .description = Це допомагає вдосконалити функції, продуктивність і стабільність { -brand-product-name }.
 data-collection-studies-link =
     .label = Переглянути дослідження { -brand-short-name }
+data-collection-usage-ping =
+    .label = Надсилати щоденний сигнал використання до { -vendor-short-name }
+    .description = Це допомагає { -vendor-short-name } оцінити активних користувачів.
+    .accesskey = г
 
 ## Privacy Section - Website Advertising Preferences
 
