@@ -1973,6 +1973,8 @@ privacy-segmentation-radio-off =
     .label = Dopre lis impostazions conseadis di { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostre informazions detaiadis
+data-collection-health-report-telemetry-disabled =
+    .message = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
 
 ## Privacy Section - Website Advertising Preferences
 
