@@ -1179,6 +1179,10 @@ addon-recommendations-link = Lairn mair
 collection-health-report-disabled = Data reportin is disabled fur this build confeeguration
 collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
     .accesskey = c
+data-collection-health-report-telemetry-disabled =
+    .message = Ye're nae langer lattin { -vendor-short-name } captur technical and interaction data. Aw bygane data will be dichtit within 30 days.
+data-collection-studies-link =
+    .label = View { -brand-short-name } studies
 
 ## Privacy Section - Website Advertising Preferences
 
