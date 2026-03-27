@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 settings-page-title = అమరికలు
+category-nav-heading =
+    .heading = అమరికలు
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -23,6 +25,8 @@ search-input-box2 =
 managed-notice = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 managed-notice-info-icon =
     .alt = సమాచారం
+managed-notice-nav =
+    .label = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 category-list =
     .aria-label = వర్గాలు
 pane-general-title = సాధారణం
