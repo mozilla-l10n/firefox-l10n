@@ -1546,6 +1546,9 @@ privacy-segmentation-radio-off =
     .label = Seqdec iwellihen n { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sken Talɣut leqqayen
+data-collection-link = Wali tasertit n tbaḍnit
+data-collection-preferences-across-profiles =
+    .message = Iɣewwaren-a ttwasnasen ɣef meṛṛa imaɣnuten n { -brand-product-name } ɣef yibenk-a.
 data-collection-studies-link =
     .label = Wali tizrawin n { -brand-short-name }
 
