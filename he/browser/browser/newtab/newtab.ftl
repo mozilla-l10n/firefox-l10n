@@ -356,6 +356,8 @@ newtab-wallpaper-title = תמונות רקע
 newtab-wallpaper-reset = איפוס לברירת מחדל
 newtab-wallpaper-upload-image = העלאת תמונה
 newtab-wallpaper-custom-color = בחירת צבע
+newtab-wallpaper-toggle-title =
+    .label = תמונות רקע
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = התמונה חרגה ממגבלת גודל הקובץ של { $file_size } מ״ב. נא לנסות להעלות קובץ קטן יותר.
