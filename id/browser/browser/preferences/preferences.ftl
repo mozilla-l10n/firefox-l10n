@@ -20,6 +20,8 @@ non-technical-privacy-header = Pengaturan Privasi Situs
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Pengaturan
+category-nav-heading =
+    .heading = Pengaturan
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
