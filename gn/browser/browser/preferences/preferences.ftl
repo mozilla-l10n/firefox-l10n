@@ -27,6 +27,8 @@ non-technical-privacy-header = Ñanduti renda marandu’i ñemigua
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Ñemboheko
+category-nav-heading =
+    .heading = Ñemboheko
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Pe kundaha rehe oñangareko atyguasu.
 managed-notice-info-icon =
     .alt = Ñemomarandu
+managed-notice-nav =
+    .label = Pe kundaha rehe oñangareko atyguasu.
 category-list =
     .aria-label = Mboja’opy
 pane-general-title = Tuichakue
@@ -2429,3 +2433,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Ojapyhyséva mokuãhũha
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Ojapyhyséva mokuãhũha
+
+## Warnings section
+
