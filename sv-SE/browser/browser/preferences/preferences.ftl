@@ -2130,6 +2130,8 @@ data-collection =
     .description = Vi strävar efter att ge dig val och samlar bara in den minimala information som behövs för att förbättra { -brand-product-name } för alla.
     .searchkeywords = telemetri
 data-collection-link = Visa sekretessmeddelande
+data-collection-health-report-telemetry-disabled =
+    .message = Du tillåter inte längre { -vendor-short-name } att fånga in teknisk data och interaktionsdata. All tidigare data kommer att raderas inom 30 dagar.
 data-collection-studies-link =
     .label = Visa { -brand-short-name }-studier
 
