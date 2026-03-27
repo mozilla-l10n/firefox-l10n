@@ -1632,6 +1632,16 @@ privacy-segmentation-radio-off =
     .label = Nota ráðleggingar frá { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sýna nánari upplýsingar
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Söfnun og notkun gagna í { -brand-short-name }
+    .description = Við kappkostum að veita þér valkosti og söfnum aðeins þeim lágmarksgögnum sem nauðsynleg eru til að bæta { -brand-product-name } fyrir alla.
+    .searchkeywords = gagnasöfnun
+data-collection-link = Skoða upplýsingar um meðferð persónuupplýsinga
+data-collection-preferences-across-profiles =
+    .message = Þessar stillingar eiga við um öll { -brand-product-name } notkunarsnið á þessu tæki.
+data-collection-health-report-telemetry-disabled =
+    .message = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
 data-collection-studies-link =
     .label = Skoða rannsóknir frá { -brand-short-name }
 
