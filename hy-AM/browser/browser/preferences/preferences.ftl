@@ -1937,6 +1937,12 @@ privacy-segmentation-radio-off =
     .label = Օգտվել { -brand-product-name }-ի խորհուրդներից
 privacy-segmentation-radio-on =
     .label = Ցուցադրել մանրամասն տեղեկություն
+data-collection-health-report-telemetry-disabled =
+    .message = Դուք այլևս թույլ չեք տալիս՝{ -vendor-short-name }֊ին գրավել տեխնիկական և միջազգային միջնորդության տվյալները։ Անցյալ բոլոր տվյալները կջնջվեն 30 օրվա ընթացքում։
+data-collection-usage-ping =
+    .label = Ուղարկեք ամենօրյա օգտագործման պինգ { -vendor-short-name }-ին
+    .description = Սա օգնում է { -vendor-short-name }-ին գնահատել ակտիվ օգտվողներին:
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
