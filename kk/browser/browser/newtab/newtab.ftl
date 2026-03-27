@@ -361,6 +361,8 @@ newtab-wallpaper-title = Түсқағаздар
 newtab-wallpaper-reset = Бастапқы түріне тастау
 newtab-wallpaper-upload-image = Суретті жүктеп жіберу
 newtab-wallpaper-custom-color = Түсті таңдау
+newtab-wallpaper-toggle-title =
+    .label = Түсқағаздар
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Сурет файл өлшемі шегінен { $file_size } МБ асып кетті. Шағындау файлды жүктеп салып көріңіз.
