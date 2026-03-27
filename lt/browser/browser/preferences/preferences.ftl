@@ -1284,6 +1284,10 @@ privacy-segmentation-radio-off =
     .label = Naudoti „{ -brand-product-name }“ rekomendacijas
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
+data-collection-health-report-telemetry-disabled =
+    .message = Jūs nebeleidžiate „{ -vendor-short-name }“ rinkti techninių ir naudojimosi duomenų. Visi ankstesni duomenys bus pašalinti per 30 dienų.
+data-collection-studies-link =
+    .label = Peržiūrėti „{ -brand-short-name }“ tyrimus
 
 ## Privacy Section - Website Advertising Preferences
 
