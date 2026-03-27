@@ -358,6 +358,8 @@ newtab-wallpaper-title = Fonds d’écran
 newtab-wallpaper-reset = Réinitialiser
 newtab-wallpaper-upload-image = Envoyer une image
 newtab-wallpaper-custom-color = Choisir une couleur
+newtab-wallpaper-toggle-title =
+    .label = Fonds d’écran
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La taille de l’image dépasse la limite de { $file_size } Mo. Veuillez essayer d’envoyer un fichier plus petit.
