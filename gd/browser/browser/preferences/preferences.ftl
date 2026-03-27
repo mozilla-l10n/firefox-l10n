@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = An-còmhnaidh
 settings-page-title = Roghainnean
+category-nav-heading =
+    .heading = Roghainnean
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 17em
     .placeholder = Lorg sna roghainnean
 managed-notice = Tha am brabhsair agad fo stiùireadh a’ bhuidhinn agad.
+managed-notice-nav =
+    .label = Tha am brabhsair agad fo stiùireadh a’ bhuidhinn agad.
 category-list =
     .aria-label = Roinnean-seòrsa
 pane-general-title = Coitcheann
