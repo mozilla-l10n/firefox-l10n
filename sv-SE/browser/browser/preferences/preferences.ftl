@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = Du tillåter inte längre { -vendo
 collection-health-report-telemetry-disabled-link = Läs mer
 backup-multi-profile-warning-message =
     .message = För att säkerställa att den här ändringen inkluderas i dina säkerhetskopior, öppna varje profil och välj "Säkerhetskopiera nu" i Inställningar.
+addon-recommendations3 =
+    .label = Tillåt anpassade tilläggsrekommendationer
+    .description = Få tilläggsrekommendationer för att förbättra din webbupplevelse.
 collection-usage-ping =
     .label = Skicka ping för daglig användning till { -vendor-short-name }
     .accesskey = d
@@ -2121,6 +2124,14 @@ privacy-segmentation-radio-off =
     .label = Använd rekommendationer från { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Visa detaljerad information
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } Datainsamling och användning
+    .description = Vi strävar efter att ge dig val och samlar bara in den minimala information som behövs för att förbättra { -brand-product-name } för alla.
+    .searchkeywords = telemetri
+data-collection-link = Visa sekretessmeddelande
+data-collection-studies-link =
+    .label = Visa { -brand-short-name }-studier
 
 ## Privacy Section - Website Advertising Preferences
 
