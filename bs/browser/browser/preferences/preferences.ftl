@@ -1549,6 +1549,9 @@ collection-description = Trudimo se da vam pružimo izbor i da sakupljamo samo o
 collection-privacy-notice = Polica privatnosti
 collection-health-report-telemetry-disabled = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznajte više
+addon-recommendations3 =
+    .label = Dozvoli personalizirane preporuke za ekstenzije
+    .description = Dobijte preporuke za ekstenzije kako biste poboljšali svoje iskustvo pregledavanja.
 collection-usage-ping =
     .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
     .accesskey = u
@@ -1591,6 +1594,22 @@ privacy-segmentation-radio-off =
     .label = Koristite preporuke { -brand-product-name }a
 privacy-segmentation-radio-on =
     .label = Prikaži detaljne informacije
+data-collection-link = Pogledajte Policu privatnosti
+data-collection-preferences-across-profiles =
+    .message = Ove postavke se primjenjuju na svaki { -brand-product-name } profil na ovom uređaju.
+data-collection-profiles-link = Pogledajte sve profile
+data-collection-health-report-telemetry-disabled =
+    .message = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
+data-collection-health-report =
+    .label = Pošalji tehničke podatke i podatke o interakciji na { -vendor-short-name }
+    .accesskey = r
+    .description = Ovo nam pomaže da poboljšamo funkcije, performanse i stabilnost proizvoda { -brand-product-name }.
+data-collection-studies-link =
+    .label = Prikaži { -brand-short-name } studije
+data-collection-usage-ping =
+    .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
+    .description = Ovo pomaže { -vendor-short-name } da procijeni broj aktivnih korisnika.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
