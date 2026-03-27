@@ -2105,6 +2105,14 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } 추천 사용
 privacy-segmentation-radio-on =
     .label = 자세한 정보 표시
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } 데이터 수집과 사용
+    .description = 우리는 사용자에게 선택권을 제공하고 모두를 위해 { -brand-product-name }를 개선하는 데 필요한 최소한의 데이터만 수집하기 위해 노력합니다.
+    .searchkeywords = 원격 분석
+data-collection-link = 개인정보처리방침 보기
+data-collection-health-report-telemetry-disabled =
+    .message = { -vendor-short-name }에서 더 이상 기술 및 상호 작용 데이터를 캡처할 수 없습니다. 모든 과거 데이터는 30일 이내에 삭제됩니다.
 
 ## Privacy Section - Website Advertising Preferences
 
