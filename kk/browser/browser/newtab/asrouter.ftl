@@ -304,6 +304,12 @@ tail-fox-spotlight-subtitle = Тітіркендіргіш жарнама тре
 tail-fox-spotlight-primary-button = Менің сілтемелерімді { -brand-short-name } арқылы ашу
 tail-fox-spotlight-secondary-button = Қазір емес
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Кірістірілген жекелікке қайта оралыңыз
+welcome-back-spotlight-subtitle = Коммерциялық емес ұйым қолдайтын жалғыз ірі браузерге қайта қош келдіңіз. Қайда жүрсеңіз де, деректеріңізді қорғау үшін қосымша шаралар қолданамыз.
+welcome-back-embedded-import-title = Деректеріңізді импорттаңыз және { -brand-short-name } қызметін үйдегідей сезініңіз
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>2025 жылдың 14 қаңтарында { -brand-short-name } ескі нұсқаларында мәселелер пайда болуы мүмкін.</strong>

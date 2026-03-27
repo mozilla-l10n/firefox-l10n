@@ -46,6 +46,16 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] Document TSV
        *[other] Fichièr TSV
     }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+contextual-manager-passwords-import-success-message = Nòus : { $added }, actualizats : { $modified }
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = Nòus : { $added }, actualizats : { $modified }, duplicats : { $no_change }, en error : { $error }
 contextual-manager-passwords-import-success-button = Acabat
 contextual-manager-passwords-import-error-button-cancel = Anullar
 contextual-manager-passwords-export-success-button = Acabat

@@ -2002,6 +2002,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Қалқымалы терезелер және үшінші тарап қайта бағыттауларын бұғаттау
     .accesskey = б
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Ережеден тыс жағдайларды басқару
+    .description = Қалқымалы терезелерді аша алатын және үшінші тараптық қайта бағыттауларды қолдана алатын веб-сайттарды қосу.
+    .accesskey = Е
+    .searchkeywords = қалқымалы
 permissions-addon-install-warning3 =
     .label = Вебсайттар кеңейтулерді орнатқысы келсе, ескертуді көрсету
     .accesskey = е

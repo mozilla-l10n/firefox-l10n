@@ -592,6 +592,8 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pagina d’acuèlh e novèlas fenèstras
+home-homepage-new-windows =
+    .label = Fenèstra novèla
 home-newtabs-mode-label = Onglets novèls
 home-homepage-new-tabs =
     .label = Onglets novèls

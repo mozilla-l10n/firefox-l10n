@@ -420,6 +420,16 @@ newtab-section-cancel-button = Pas ara
 
 newtab-shortcuts-highlight-subtitle = Apondre un acorchi per gardar vòstres sites preferits a un clic.
 
+## Strings for task / to-do list productivity widget
+
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Nòu
+newtab-widget-lists-menu-create = Crear una lista novèla
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new =
+    .placeholder = Lista novèla
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with

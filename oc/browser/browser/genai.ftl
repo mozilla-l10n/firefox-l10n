@@ -9,6 +9,10 @@
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Resumís
+    .value = Se vos plai, resumissètz la seleccion en utilizant un lengatge precís e concís. Utilizatz d'entèstas e de listas de piuses dins lo resumit, per facilitar la lectura rapida. Mantenètz lo sens e l'exactitud factuala.
 # Prompt purpose: test understanding of selection in an interactive way
 genai-prompts-quiz =
     .label = Pròva-me
@@ -29,6 +33,7 @@ genai-menu-remove-generic =
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandar a { $provider }
+genai-menu-new-badge = Nòu
 genai-menu-summarize-page = Resumir la pagina
 genai-input-ask-generic =
     .placeholder = Demandar al robòt de convèrsa d’IA…
@@ -70,6 +75,7 @@ genai-onboarding-gemini-tooltip =
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-chatbot-contextual-button = Causir un robòt de convèrsa
+genai-chatbot-summarize-title = Nòu ! Resumissètz las paginas en un clic
 genai-chatbot-summarize-button = Resumir la pagina
 
 ## Link previews

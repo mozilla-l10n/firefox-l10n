@@ -23,6 +23,7 @@ webext-perms-header2 = Apondre { $extension } ?
 webext-perms-header-required-perms = Autorizacions necessàrias :
 webext-perms-header-optional-settings = Paramètres opcionals :
 webext-perms-header-update-required-perms = Autorizacions necessàrias novèla :
+webext-perms-header-optional-required-perms = Autorizacions novèlas :
 webext-perms-header-data-collection-is-none = Culhida de donadas :
 
 ##

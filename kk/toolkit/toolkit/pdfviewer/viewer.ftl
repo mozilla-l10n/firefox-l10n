@@ -668,8 +668,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Көріністер
 pdfjs-views-manager-view-selector-button-label = Көріністер
 pdfjs-views-manager-pages-title = Беттер
+pdfjs-views-manager-outlines-title1 = Құжат құрылымы
+    .title = Құжат құрылымы (барлық нәрселерді жаю/жию үшін қос шерту)
 pdfjs-views-manager-outlines-title = Құжаттың құрылымы
 pdfjs-views-manager-attachments-title = Салынымдар
+pdfjs-views-manager-layers-title1 = Қабаттар
+    .title = Қабаттар (барлық нәрселерді жаю/жию үшін қос шерту)
 pdfjs-views-manager-layers-title = Қабаттар
 pdfjs-views-manager-pages-option-label = Беттер
 pdfjs-views-manager-outlines-option-label = Құжаттың құрылымы
@@ -690,6 +694,7 @@ pdfjs-views-manager-pages-status-action-button-label = Басқару
 pdfjs-views-manager-pages-status-copy-button-label = Көшіріп алу
 pdfjs-views-manager-pages-status-cut-button-label = Қиып алу
 pdfjs-views-manager-pages-status-delete-button-label = Өшіру
+pdfjs-views-manager-pages-status-export-selected-button-label = Таңдалғанды экспорттау…
 pdfjs-views-manager-pages-status-save-as-button-label = Қалайша сақтау…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -730,6 +735,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = { $page } бетінен кейін кірістіру
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = ЖАҢА
 pdfjs-toggle-views-manager-button1 =
     .title = Беттерді басқару
 

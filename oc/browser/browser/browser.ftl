@@ -715,6 +715,8 @@ urlbar-searchmode-popup-description-menucaption =
 urlbar-searchmode-popup-description = Aqueste còp, recercar amb :
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Paramètres de recèrca
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = Nòu
 # Searchmode Switcher button
 # Variables:
 #   $engine (String): the current default search engine.

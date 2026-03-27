@@ -88,8 +88,11 @@ upgrade-vpn-button = { -mozilla-vpn-brand-name } қолданып көру
 
 ipprotection-connection-status-generic-error-title = VPN-ге қосылу мүмкін болмады
 ipprotection-connection-status-generic-error-description = Бірнеше минуттан кейін қайталап көріңіз.
+ipprotection-connection-status-generic-error-try-again = Кейінірек қайталап көріңіз.
 ipprotection-connection-status-network-error-title = Интернетпен байланысын тексеріңіз
 ipprotection-connection-status-network-error-description = Интернетке қосылыңыз, содан кейін VPN іске қосып көріңіз.
+ipprotection-connection-status-blocked-error-title = VPN қолжетімді емес
+ipprotection-connection-status-blocked-error-description = Жергілікті заңдар бізге бұл аймақта VPN қызметін ұсынуға тыйым салады. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

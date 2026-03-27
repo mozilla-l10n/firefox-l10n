@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Сайтты жаңа терезеде
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Қауіпсіздігіңізді қорғау үшін, { $hostname } { -brand-short-name } үшін бетті көрсетуге рұқсат етпейді, егер оны басқа сайт ендірілген болса. Бұл бетті қарау үшін, оны жаңа терезеде ашыңыз.
 fp-certerror-view-certificate-link = Сайт сертификатын қарау
+fp-certerror-return-to-previous-page-recommended-button-2 = Артқа оралу (ұсынылады)
+    .accesskey = т
 fp-certerror-return-to-previous-page-recommended-button = Артқа оралу (ұсынылады)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Бағдарламалық қамтама { -brand-short-
 
 fp-certerror-page-title = Ескерту: Қауіпсіздік тәуекелі
 fp-certerror-body-title = Сақ болыңыз. Бірдеңе дұрыс емес сияқты.
+fp-certerror-illustration-alt =
+    .alt = Қызғылт сары ескерту белгісіне қарап тұрған түлкінің суреті.
 fp-certerror-why-site-dangerous = Сайтты қауіпті етіп көрсететін не?
 fp-certerror-what-can-you-do = Оған не жасауыңызға болады?
 fp-certerror-advanced-title = Кеңейтілген
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = { $hostname } адресіне өту (
 fp-certerror-intro = { -brand-short-name } <strong>{ $hostname }</strong> адресіндегі мүмкін болған маңызды қауіпсіздік мәселесін анықтады. Біреулер сайттың жалған көшірмесін жасап несие карта, парольдер немесе электрондық пошта ақпаратын ұрлауға әрекет етуі мүмкін.
 fp-certerror-expired-into = { -brand-short-name } <strong>{ $hostname }</strong> адресіндегі қауіпсіздік мәселесін анықтады. Сайт дұрыс бапталмаған немесе құрылғының сағаты дұрыс емес күнге/уақытқа орнатылған болуы мүмкін.
 fp-certerror-transparency-intro = Біреу өзін <strong>{ $hostname }</strong> ретінде көрсетіп, несие картасының деректері, парольдер немесе электрондық пошта сияқты ақпаратты ұрлауға әрекет жасауы мүмкін.
+fp-certerror-override-exception-button-2 = { $hostname } адресіне өту (Тәуекелі бар)
+    .accesskey = т

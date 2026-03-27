@@ -25,6 +25,8 @@ neterror-override-exception-button = Тәуекелді қабылдап, жал
 neterror-pref-reset-button = Бастапқы баптауларды қалпына келтіру
 neterror-return-to-previous-page-button = Артқа
 neterror-return-to-previous-page-recommended-button = Артқа оралу (ұсынылады)
+neterror-try-again-button-2 = Қайтадан көру
+    .accesskey = т
 neterror-try-again-button = Қайтадан көру
 neterror-add-exception-button = Бұл сайт үшін әрқашан жалғастыру
 neterror-settings-button = DNS бапталарын өзгерту
@@ -176,12 +178,15 @@ neterror-response-status-code = Қате коды: { $responsestatus } { $respon
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Интернет байланысыңызда мәселе бар сияқты
+fp-neterror-illustration-alt =
+    .alt = Ажыратылған желілік кабельдерге қарап тұрған түлкінің суреті.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } бағдарламасы { $hostname } серверімен қауіпсіз байланыс орната алмады.
 fp-neterror-offline-intro = { -brand-short-name } бағдарламасы <strong>{ $hostname }</strong> серверіне қосыла алмай тұр.
+fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> адресіндегі сервер жауап беру үшін тым ұзақ уақыт алуда.
 fp-neterror-coop-coep-intro = { -brand-short-name } бұл бетті жүктемеді, себебі қауіпсіздік баптамасы алдыңғы бетке сәйкес келмейтін сияқты.
 fp-neterror-http-auth-disabled-intro = Сайттың атын жамылған біреулер сіздің пайдаланушы атыңызды, пароліңізді немесе электрондық поштаңызды ұрлауға әрекеттенуі мүмкін.
 fp-neterror-http-auth-disabled-secure-connection = Бұл сайт қауіпсіз қосылымды талап етеді, және оған кіру үшін сіз ерекше жағдай қоса алмайсыз.

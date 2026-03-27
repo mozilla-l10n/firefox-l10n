@@ -188,3 +188,44 @@ bar-tooltip-cryptominer =
         { $count ->
            *[other] { $count } криптомайнер ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Жекелікті қорғау
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] Осы аптада { $count } блокталды
+       *[other] Осы аптада { $count } блокталды
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } трекер
+       *[other] { $count } трекер
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } цифрлық саусақ іздерін жинаушы
+       *[other] { $count } цифрлық саусақ іздерін жинаушы
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } бақылау cookie файлы
+       *[other] { $count } бақылау cookie файлы
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } әлеуметтік желі трекері
+       *[other] { $count } әлеуметтік желі трекері
+    }
+privacy-metrics-empty = Бұл аптада ешқандай трекерлер бұғатталған жоқ. { -brand-short-name } сізді шолу кезінде келесі қауіптерден қорғайды.
+privacy-metrics-loading = Қорғаныс статистикасы жүктелуде…
+privacy-metrics-error = Қорғаныс статистикасын жүктеу мүмкін емес.
+privacy-metrics-private-window = { -brand-short-name } жекелік терезелерінде трекерлерді бұғаттауды жалғастырады, бірақ, не бұғатталғанын жазып отырмайды.
