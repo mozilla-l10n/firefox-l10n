@@ -2085,6 +2085,9 @@ collection-health-report-telemetry-disabled = Nid ydych bellach yn caniatáu i {
 collection-health-report-telemetry-disabled-link = Darllen rhagor
 backup-multi-profile-warning-message =
     .message = I wneud yn siŵr bod y newid hwn wedi'i gynnwys yn eich copïau wrth gefn, agorwch bob proffil a dewis "Gwneud copi wrth gefn nawr" yn y Gosodiadau.
+addon-recommendations3 =
+    .label = Caniatáu argymhellion estyniadau personoledig
+    .description = Cael argymhellion estyniadau i wella'ch profiad pori.
 collection-usage-ping =
     .label = Anfon ping defnydd dyddiol at { -vendor-short-name }
     .accesskey = A
@@ -2130,6 +2133,14 @@ privacy-segmentation-radio-off =
     .label = Defnyddio argymhellion { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Dangos gwybodaeth fanwl
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Casglu Data a'r Defnydd o { -brand-short-name }
+    .description = Rydym yn ymdrechu i roi i chi ddewisiadau a chasglu dim ond y lleiafswm data sydd ei angen i wella { -brand-product-name } i bawb.
+    .searchkeywords = telemetreg
+data-collection-link = Gweld yr Hysbysiad Preifatrwydd
+data-collection-studies-link =
+    .label = Gweld astudiaethau { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
