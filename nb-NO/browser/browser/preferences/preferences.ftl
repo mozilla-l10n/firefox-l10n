@@ -27,6 +27,8 @@ non-technical-privacy-header = Nettstedets personverninnstillinger
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Innstillinger
+category-nav-heading =
+    .heading = Innstillinger
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Nettleseren din administreres av organisasjonen din.
 managed-notice-info-icon =
     .alt = Informasjon
+managed-notice-nav =
+    .label = Nettleseren din administreres av organisasjonen din.
 category-list =
     .aria-label = Kategorier
 pane-general-title = Generelt
