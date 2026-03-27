@@ -12,6 +12,8 @@ global-privacy-control-description =
     .label = Sabihin sa mga website na huwag ibahagi o ibenta ang aking data
     .accesskey = s
 settings-page-title = Mga setting
+category-nav-heading =
+    .heading = Mga setting
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
