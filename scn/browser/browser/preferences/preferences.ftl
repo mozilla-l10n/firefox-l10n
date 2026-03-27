@@ -1027,6 +1027,10 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
+data-collection-health-report-telemetry-disabled =
+    .message = Nun sta’ pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
+data-collection-studies-link =
+    .label = Talìa studi di { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
