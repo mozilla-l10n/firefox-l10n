@@ -2121,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = Χρήση προτάσεων του { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Εμφάνιση λεπτομερών πληροφοριών
+data-collection-studies-link =
+    .label = Προβολή μελετών του { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
