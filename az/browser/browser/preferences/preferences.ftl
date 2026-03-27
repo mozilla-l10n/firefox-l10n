@@ -847,6 +847,8 @@ addon-recommendations-link = Ətraflı öyrən
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məlumat xəbərdarlığı söndürülüb
+data-collection-studies-link =
+    .label = { -brand-short-name } tədqiqatlarını gör
 
 ## Privacy Section - Website Advertising Preferences
 
