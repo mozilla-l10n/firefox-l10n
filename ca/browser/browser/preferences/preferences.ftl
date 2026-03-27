@@ -19,6 +19,8 @@ non-technical-privacy-header = Preferències de privadesa del lloc web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Paràmetres
+category-nav-heading =
+    .heading = Paràmetres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -33,6 +35,8 @@ search-input-box2 =
 managed-notice = El navegador està gestionat per la vostra organització.
 managed-notice-info-icon =
     .alt = Informació
+managed-notice-nav =
+    .label = El navegador està gestionat per la vostra organització.
 category-list =
     .aria-label = Categories
 pane-general-title = General
