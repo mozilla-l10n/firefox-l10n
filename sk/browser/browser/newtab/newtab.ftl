@@ -359,6 +359,8 @@ newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnoviť predvolenú tapetu
 newtab-wallpaper-upload-image = Nahrať obrázok
 newtab-wallpaper-custom-color = Zvoľte farbu
+newtab-wallpaper-toggle-title =
+    .label = Tapety
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obrázok prekročil limit veľkosti súboru { $file_size } MB. Skúste nahrať menší súbor.
