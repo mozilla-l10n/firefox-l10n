@@ -27,6 +27,8 @@ non-technical-privacy-header = Webhely adatvédelmi beállításai
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Globális adatvédelmi szabályozás (GPC)
 settings-page-title = Beállítások
+category-nav-heading =
+    .heading = Beállítások
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
