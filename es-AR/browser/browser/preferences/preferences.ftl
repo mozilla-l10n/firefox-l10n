@@ -2125,6 +2125,8 @@ data-collection =
     .description = Nos esforzamos por brindar opciones y recopilar solo los datos mínimos necesarios para mejorar { -brand-product-name } para todos.
     .searchkeywords = telemetría
 data-collection-link = Ver nota de privacidad
+data-collection-studies-link =
+    .label = Ver los estudios { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
