@@ -1249,6 +1249,10 @@ addon-recommendations-link = Իմանալ աւելին
 collection-health-report-disabled = Տուեալների զեկուցումը անջատուած է կազմաձեւի այս կառուցման համար
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
+data-collection-health-report-telemetry-disabled =
+    .message = Դուք այլեւս թոյլ չեք տալիս՝{ -vendor-short-name }֊ին գրաւել տեխնիկական եւ միջազգային միջնորդութեան տուեալները։ Անցեալ բոլոր տուեալները կը ջնջուեն 30 աւրուայ ընթացքում։
+data-collection-studies-link =
+    .label = Դիտել { -brand-short-name }-ի հետազոտութիւնները
 
 ## Privacy Section - Website Advertising Preferences
 
