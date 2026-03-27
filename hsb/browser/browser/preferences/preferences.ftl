@@ -2084,6 +2084,9 @@ collection-health-report-telemetry-disabled = Sće { -vendor-short-name } dowoln
 collection-health-report-telemetry-disabled-link = Dalše informacije
 backup-multi-profile-warning-message =
     .message = Zo byšće zawěsćił, zo je tuta změna we wašich zawěsćenjach wobsahowana, wočińće profil a wubjerće „Nětko zawěsćić“ w nastajenjach.
+addon-recommendations3 =
+    .label = Personalizowane doporučenja za rozšěrjenja dowolić
+    .description = Wobstarajće sej doporučenja za rozšěrjenja, zo byšće swoje přehladowanske dožiwjenje polěpšił.
 collection-usage-ping =
     .label = Ping za wšědne wužiwanje na { -vendor-short-name } pósłać
     .accesskey = P
@@ -2129,10 +2132,27 @@ privacy-segmentation-radio-off =
     .label = Doporučenja { -brand-product-name } wužiwać
 privacy-segmentation-radio-on =
     .label = Nadrobne informacije pokazać
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Hromadźenje a wužiwanje datow { -brand-short-name }
+    .description = Chcemy was z wuběrami wobstarać a jenož te mało datow hromadźić, kotrež su trěbne, zo by so { -brand-product-name } za kóždeho polěpšił.
+    .searchkeywords = telemetrija
+data-collection-link = Zdźělenku priwatnosće pokazać
+data-collection-preferences-across-profiles =
+    .message = Tute nastajenja za kóždy profil { -brand-product-name } na tutym graće płaća.
+data-collection-profiles-link = Wšě profile pokazać
 data-collection-health-report-telemetry-disabled =
     .message = Sće { -vendor-short-name } dowolnosć zebrał, techniske a interakciske daty hromadźić. Wšě dotal zhromadźene daty so w běhu 30 dnjow zhašeja.
+data-collection-health-report =
+    .label = Techniske daty a daty interakcije na { -vendor-short-name } pósłać
+    .accesskey = T
+    .description = To nam pomha, funkcije, wukon a stabilnosć { -brand-product-name } polěpšić.
 data-collection-studies-link =
     .label = Studije { -brand-short-name } pokazać
+data-collection-usage-ping =
+    .label = Ping za wšědne wužiwanje na { -vendor-short-name } pósłać
+    .description = To { -vendor-short-name } pomha, sej aktiwnych wužiwarjow wažić.
+    .accesskey = P
 
 ## Privacy Section - Website Advertising Preferences
 
