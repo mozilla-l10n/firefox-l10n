@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = alati
 settings-page-title = Sätted
+category-nav-heading =
+    .heading = Sätted
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Otsi sätetest
 managed-notice = Brauserit haldab sinu organisatsioon.
+managed-notice-nav =
+    .label = Brauserit haldab sinu organisatsioon.
 category-list =
     .aria-label = Kategooriad
 pane-general-title = Üldine
