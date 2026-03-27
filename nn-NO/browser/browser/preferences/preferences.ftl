@@ -2121,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = Bruk { -brand-product-name }-tilrådingar
 privacy-segmentation-radio-on =
     .label = Vis detaljert informasjon
+data-collection-health-report-telemetry-disabled =
+    .message = Du tillèt ikkje lenger { -vendor-short-name } å samle inn teknisk- og interaksjonsdata. Alle tidlegare data vil bli sletta innan 30 dagar.
 data-collection-studies-link =
     .label = Vis { -brand-short-name }-studium
 
