@@ -933,6 +933,8 @@ addon-recommendations-link = अधिक जाणा
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे
+data-collection-studies-link =
+    .label = { -brand-short-name } studies पहा
 
 ## Privacy Section - Website Advertising Preferences
 
