@@ -27,6 +27,8 @@ non-technical-privacy-header = העדפות פרטיות של אתרים
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = הגדרות
+category-nav-heading =
+    .heading = הגדרות
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
