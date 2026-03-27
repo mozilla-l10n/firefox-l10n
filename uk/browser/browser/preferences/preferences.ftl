@@ -1833,6 +1833,14 @@ privacy-segmentation-radio-off =
     .label = Використовувати рекомендації { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Показати подробиці
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Збір та використання даних { -brand-short-name }
+    .description = Ми прагнемо забезпечити вибір і збираємо лише дані, необхідні для вдосконалення { -brand-product-name }.
+    .searchkeywords = телеметрія
+data-collection-link = Переглянути Положення про приватність
+data-collection-health-report-telemetry-disabled =
+    .message = Ви більше не дозволяєте { -vendor-short-name } збирати технічні дані й інформацію про взаємодію. Всі минулі дані будуть видалені протягом 30 днів.
 
 ## Privacy Section - Website Advertising Preferences
 
