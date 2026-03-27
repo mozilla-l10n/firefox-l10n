@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = Você não está mais permitindo q
 collection-health-report-telemetry-disabled-link = Saiba mais
 backup-multi-profile-warning-message =
     .message = Para garantir que essas alterações sejam incluídas nos seus backups, abra cada perfil e escolha “Fazer backup agora” nas configurações.
+addon-recommendations3 =
+    .label = Permitir recomendações personalizadas de extensões
+    .description = Receber recomendações de extensões para melhorar sua experiência de navegação.
 collection-usage-ping =
     .label = Enviar ping de uso diário para a { -vendor-short-name }
     .accesskey = u
@@ -2121,6 +2124,16 @@ privacy-segmentation-radio-off =
     .label = Usar recomendações do { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar informações detalhadas
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Coleta e uso de dados pelo { -brand-short-name }
+    .description = Nos empenhamos em oferecer escolhas e coletar somente o mínimo de dados necessários para melhorar o { -brand-product-name } para todos.
+    .searchkeywords = telemetria
+data-collection-link = Ver aviso de privacidade
+data-collection-health-report-telemetry-disabled =
+    .message = Você não está mais permitindo que a { -vendor-short-name } capture dados técnicos e de interação. Todos os dados coletados anteriormente serão apagados em até 30 dias.
+data-collection-studies-link =
+    .label = Ver estudos do { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
