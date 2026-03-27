@@ -1256,6 +1256,10 @@ addon-recommendations-link = Rohkem teavet
 collection-health-report-disabled = Selle kompileerimise konfiguratsiooniga on andmete raporteerimine keelatud
 collection-backlogged-crash-reports-with-link = Luba { -brand-short-name }il sinu eest saata varasemad vearaportid <a data-l10n-name="crash-reports-link">Rohkem teavet</a>
     .accesskey = L
+data-collection-health-report-telemetry-disabled =
+    .message = Sa ei luba enam { -vendor-short-name }il koguda tehnilisi andmeid. Kõik varasemad andmed kustutatakse 30 päeva jooksul.
+data-collection-studies-link =
+    .label = Vaata { -brand-short-name }i uuringuid
 
 ## Privacy Section - Website Advertising Preferences
 
