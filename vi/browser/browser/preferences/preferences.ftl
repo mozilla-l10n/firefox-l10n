@@ -2105,6 +2105,14 @@ privacy-segmentation-radio-off =
     .label = Sử dụng các đề xuất của { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Hiển thị thông tin chi tiết
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Thu thập và sử dụng dữ liệu { -brand-short-name }
+    .description = Chúng tôi cố gắng cung cấp cho bạn các lựa chọn và chỉ thu thập dữ liệu tối thiểu cần thiết để cải thiện { -brand-product-name } cho mọi người.
+    .searchkeywords = thu thập
+data-collection-link = Xem thông báo về quyền riêng tự
+data-collection-health-report-telemetry-disabled =
+    .message = Bạn không còn cho phép { -vendor-short-name } thu thập dữ liệu kỹ thuật và tương tác. Tất cả dữ liệu trong quá khứ sẽ bị xóa trong vòng 30 ngày.
 
 ## Privacy Section - Website Advertising Preferences
 
