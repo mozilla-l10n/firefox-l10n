@@ -1714,6 +1714,11 @@ privacy-segmentation-radio-off =
 privacy-segmentation-radio-on =
     .label = أظهِر المعلومات المفصلة
 data-collection-link = اعرض تنويه الخصوصية
+data-collection-preferences-across-profiles =
+    .message = تنطبق هذه الإعدادات على كل ملف تعريف { -brand-product-name } على هذا الجهاز.
+data-collection-profiles-link = اعرض جميع الملفات الشخصية
+data-collection-health-report-telemetry-disabled =
+    .message = لم تعد تسمح بأن يلتقط { -vendor-short-name } البيانات التقنية والتفاعلية. ستُحذف البيانات القديمة كلها خلال 30 يومًا.
 data-collection-studies-link =
     .label = اعرض دراسات { -brand-short-name }
 
