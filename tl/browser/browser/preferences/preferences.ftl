@@ -1164,6 +1164,8 @@ addon-recommendations-link = Alamin
 collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa build configuration na ito
 privacy-segmentation-radio-on =
     .label = Ipakita ang detalyadong impormasyon
+data-collection-studies-link =
+    .label = Tingnan ang mga pag-aaral sa { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
