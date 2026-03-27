@@ -1788,6 +1788,12 @@ privacy-segmentation-radio-off =
     .label = Utilisar recumandaziuns da { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mussar infurmaziuns detagliadas
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Rimnada da datas da { -brand-short-name } e lur utilisaziun
+    .description = Nus ans engaschain per ta dar la pussaivladad da tscherner e rimnain mo las datas essenzialas necessarias per meglierar { -brand-product-name } per tut:tas.
+    .searchkeywords = telemetria
+data-collection-link = Vesair la decleraziun davart la protecziun da datas
 data-collection-studies-link =
     .label = Vesair ils studis da { -brand-short-name }
 
