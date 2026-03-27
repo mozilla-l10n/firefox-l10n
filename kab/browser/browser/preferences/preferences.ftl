@@ -1546,6 +1546,8 @@ privacy-segmentation-radio-off =
     .label = Seqdec iwellihen n { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sken Talɣut leqqayen
+data-collection-studies-link =
+    .label = Wali tizrawin n { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
