@@ -65,6 +65,9 @@ newtab-topsites-image-url-label = අභිරුචි රූපයේ ඒ.ස.
 newtab-topsites-use-image-link = අභිරුචි රූපයක් යොදා ගන්න...
 newtab-topsites-image-validation = රූපය පූරණයට අසමත් විය. අන් ඒ.ස.නි. බලන්න.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = අවලංගු කරන්න
@@ -81,6 +84,9 @@ newtab-confirm-delete-history-p2 = මෙම ක්‍රියාමාර්�
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = අනුග්‍රහය ලද
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -116,6 +122,9 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්
 newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
 newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්‍ෂණය
 newtab-menu-show-privacy-info = අපගේ අනුග්‍රහකයින් හා ඔබගේ පෞද්ගලිකත්‍වය
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -225,6 +234,9 @@ newtab-toast-dismiss-button =
     .title = ඉවතලන්න
     .aria-label = ඉවතලන්න
 
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -257,6 +269,8 @@ newtab-custom-settings = වෙනත් සැකසුම් කළමනා�
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = බිතුපත්
+newtab-wallpaper-toggle-title =
+    .label = බිතුපත්
 
 ## Solid Colors
 
@@ -271,6 +285,9 @@ newtab-wallpaper-pink = රෝස
 newtab-wallpaper-light-pink = ලා රෝස
 newtab-wallpaper-red = රතු
 
+## Abstract
+
+
 ## Firefox
 
 newtab-wallpaper-feature-highlight-button = තේරුණා
@@ -281,6 +298,12 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -305,12 +328,51 @@ newtab-weather-menu-learn-more = තව දැනගන්න
 # This message is shown if user is working offline
 newtab-weather-error-not-available = කාලගුණ දත්ත දැනට නොතිබේ.
 
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
 ## e.g. Blocked the politics section of stories.
 
 newtab-section-blocked-button = අවහිරයි
 
+## Confirmation modal for blocking a section
+
+
 ## Strings for custom wallpaper highlight
 
 newtab-section-mangage-topics-blocked-topics = අවහිරයි
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
