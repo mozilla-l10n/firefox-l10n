@@ -56,6 +56,9 @@ newtab-topsites-image-url-label = Ichinan Ruwachib'al URL
 newtab-topsites-use-image-link = Tokisäx jun ichinan ruwachib'al…
 newtab-topsites-image-validation = Man xsamajib'ëx ta ri wachib'äl. Titojtob'ëx rik'in jun chik URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Tiq'at
@@ -73,6 +76,9 @@ newtab-confirm-delete-history-p2 = Man tikirel ta nitzolïx re b'anïk.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = To'on
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -108,6 +114,9 @@ newtab-menu-save-to-pocket = Tiyak pa { -pocket-brand-name }
 newtab-menu-delete-pocket = Tiyuj el pa { -pocket-brand-name }
 newtab-menu-archive-pocket = Tiyak pa { -pocket-brand-name }
 newtab-menu-show-privacy-info = Ri e qato'onela' & ri kichinanem
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -228,6 +237,9 @@ newtab-pocket-pocket-firefox-family = { -pocket-brand-name } jun { -brand-produc
 newtab-pocket-save = Tiyak
 newtab-pocket-saved = Xyak
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = Tawila' ri rutzil ajk'amaya'l
@@ -247,6 +259,15 @@ newtab-custom-shortcuts-toggle =
     .description = Taq ruxaq xe'ayäk o xe'atz'ët
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } cholaj
+           *[other] { $num } taq cholaj
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } cholaj
@@ -261,3 +282,71 @@ newtab-custom-recent-title = K'ak'a' samaj
 newtab-custom-recent-subtitle = Jun cha'on taq ruxaq chuqa' k'ak'a' rupam
 newtab-custom-close-button = Titz'apïx
 newtab-custom-settings = Tinuk'samajïx ch'aqa' runuk'ulem
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Firefox
+
+
+## Firefox
+
+
+## Celestial
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
