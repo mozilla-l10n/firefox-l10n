@@ -870,6 +870,8 @@ addon-recommendations-link = Atre informaçioin
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = O report di dæti o l'é dizabilitou pe sta configuraçion
+data-collection-studies-link =
+    .label = Amia i studde de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
