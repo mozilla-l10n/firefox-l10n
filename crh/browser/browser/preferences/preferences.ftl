@@ -865,6 +865,8 @@ addon-recommendations-link = Daha çoq ögren
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Bu yapılandırma için veri raporlama devre dışı bırakılmış
+data-collection-studies-link =
+    .label = { -brand-short-name } tetqiqlerini kör
 
 ## Privacy Section - Website Advertising Preferences
 
