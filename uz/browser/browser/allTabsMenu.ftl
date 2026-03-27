@@ -12,3 +12,5 @@ all-tabs-menu-hidden-tabs =
 all-tabs-menu-manage-user-context =
     .label = Konteynerlarni boshqarish
     .accesskey = O
+all-tabs-menu-synced-tabs =
+    .label = Boshqa qurilmalardagi varaqlar

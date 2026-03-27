@@ -6,6 +6,9 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-new-tab =
+    .label = Yangi varaq
+    .accesskey = Y
 reload-tab =
     .label = Varaqni yangilash
     .accesskey = y
