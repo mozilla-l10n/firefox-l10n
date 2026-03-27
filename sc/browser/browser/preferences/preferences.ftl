@@ -1829,6 +1829,9 @@ collection-description = Chircamus de ti garantire sèberos e de regòllere isce
 collection-privacy-notice = Avisu de riservadesa
 collection-health-report-telemetry-disabled = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
 collection-health-report-telemetry-disabled-link = Àteras informatziones
+addon-recommendations3 =
+    .label = Permite cussìgios personalizados de estensiones
+    .description = Retzi cussìgios de estensiones pro megiorare s’esperièntzia tua de navigatzione.
 collection-usage-ping =
     .label = Imbia unu ping de impreu diàriu a { -vendor-short-name }
     .accesskey = I
@@ -1872,6 +1875,27 @@ privacy-segmentation-radio-off =
     .label = Imprea is cussìgios de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Ammustra informatziones detalliadas
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Impreu e collida de datos dae { -brand-short-name }
+    .description = Nos impinnamus a ti donare sa possibilidade de seberare e regollimus isceti is datos mìnimos pro megiorare { -brand-product-name } pro totus.
+    .searchkeywords = telemetria
+data-collection-link = Bide s'avisu de riservadesa
+data-collection-preferences-across-profiles =
+    .message = Custas cunfiguratziones sunt aplicadas a totu is profilos de { -brand-product-name } de custu dispositivu.
+data-collection-profiles-link = Ammustra totu is profilos
+data-collection-health-report-telemetry-disabled =
+    .message = Non permitas prus a { -vendor-short-name } de caturare datos tècnicos e de interatzione. Totu is datos betzos ant a èssere cantzellados intro de 30 dies.
+data-collection-health-report =
+    .label = Imbia datos tècnicos e de interatzione a { -vendor-short-name }
+    .accesskey = r
+    .description = Custu nos agiudat a megiorare is funtziones, su rendimentu e s’istabilidade de { -brand-product-name }.
+data-collection-studies-link =
+    .label = Ammustra is istùdios de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Imbia unu ping de impreu diàriu a { -vendor-short-name }
+    .description = Custu permitit a { -vendor-short-name } de istimare su nùmeru de utentes ativos.
+    .accesskey = I
 
 ## Privacy Section - Website Advertising Preferences
 
