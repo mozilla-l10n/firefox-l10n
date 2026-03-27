@@ -19,6 +19,8 @@ non-technical-privacy-header = ویب سائٹ رازداری ترجیحاں
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = گلوبل پرائیویسی کنٹرول (جی پی سی)
 settings-page-title = ترتیباں
+category-nav-heading =
+    .heading = ترتیباں
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -33,6 +35,8 @@ search-input-box2 =
 managed-notice = تہاݙا براؤزر تہاݙی تنظیم دے زیر انتظام ہے۔
 managed-notice-info-icon =
     .alt = معلومات
+managed-notice-nav =
+    .label = تہاݙا براؤزر تہاݙی تنظیم دے زیر انتظام ہے۔
 category-list =
     .aria-label = ونکیاں
 pane-general-title = عمومی
