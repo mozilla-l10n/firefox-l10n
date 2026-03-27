@@ -1713,6 +1713,7 @@ privacy-segmentation-radio-off =
     .label = استخدم توصيات { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = أظهِر المعلومات المفصلة
+data-collection-link = اعرض تنويه الخصوصية
 data-collection-studies-link =
     .label = اعرض دراسات { -brand-short-name }
 
