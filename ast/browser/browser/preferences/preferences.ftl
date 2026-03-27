@@ -1120,6 +1120,10 @@ addon-recommendations-link = Lleer más
 collection-health-report-disabled = L'informe de datos ta desactiváu na configuración d'esta compilación
 collection-backlogged-crash-reports-with-link = Permtir a { -brand-short-name } qu'unvie por ti los informes de casques acumulaos <a data-l10n-name="crash-reports-link">Llleer más</a>
     .accesskey = c
+data-collection-health-report-telemetry-disabled =
+    .message = Yá nun permites que { -vendor-short-name } capture datos téunicos y d'interaición. Tolos datos vieyos van desaniciase en 30 díes.
+data-collection-studies-link =
+    .label = Amosar los estudios de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
