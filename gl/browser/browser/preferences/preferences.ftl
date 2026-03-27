@@ -1546,6 +1546,9 @@ collection-description = Esforzámonos para darlle opcións e recoller só aquil
 collection-privacy-notice = Política de privacidade
 collection-health-report-telemetry-disabled = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
 collection-health-report-telemetry-disabled-link = Máis información
+addon-recommendations3 =
+    .label = Permitir recomendacións personalizadas de extensións
+    .description = Obtén recomendacións de extensións para mellorar a túa experiencia de navegación.
 collection-usage-ping =
     .label = Enviar ping de uso diario a { -vendor-short-name }
     .accesskey = u
@@ -1588,6 +1591,8 @@ privacy-segmentation-radio-off =
     .label = Usar as recomendacións de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar información detallada
+data-collection-studies-link =
+    .label = Ver os estudos de { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
