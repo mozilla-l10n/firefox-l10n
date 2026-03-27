@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = თქვენ გაუქმე
 collection-health-report-telemetry-disabled-link = ვრცლად
 backup-multi-profile-warning-message =
     .message = ეს ცვლილება რომ აისახოს მარქაფში, გახსენით თითოეული პროფილი და მიუთითეთ „ახლავე დამარქაფება“ პარამეტრებიდან.
+addon-recommendations3 =
+    .label = გაფართოებების მორგებული შემოთავაზებების ნებართვა
+    .description = მიიღეთ გაფართოებების შემოთავაზებები გვერდების თვალიერების გასაუმჯობესებლად.
 collection-usage-ping =
     .label = გაეგზავნოს დღიური მოხმარების უწყება { -vendor-short-name }-ს
     .accesskey = ზ
@@ -2129,10 +2132,19 @@ data-collection =
 data-collection-link = იხილეთ პირადულობის დაცვის განაცხადი
 data-collection-preferences-across-profiles =
     .message = მოცემულ პარამეტრებს ასახავს { -brand-product-name } თითოეულ პროფილზე ამ მოწყობილობაში.
+data-collection-profiles-link = ყველა პროფილის ნახვა
 data-collection-health-report-telemetry-disabled =
     .message = თქვენ გაუქმებული გაქვთ ნებართვა და შედეგად { -vendor-short-name } ვეღარ აღრიცხავს ტექნიკურ და გამოყენების მონაცემებს. აქამდე შეგროვებული ყველა მონაცემი წაიშლება 30 დღეში.
+data-collection-health-report =
+    .label = გაეგზავნოს ტექნიკური და გამოყენების მონაცემები { -vendor-short-name }-ს
+    .accesskey = ქ
+    .description = ეს გვეხმარება გავაუმჯობესოთ { -brand-product-name } შესაძლებლობების, წარმადობისა და მდგრადობის კუთხით.
 data-collection-studies-link =
     .label = იხილეთ { -brand-short-name } – კვლევები
+data-collection-usage-ping =
+    .label = გაეგზავნოს დღიური მოხმარების უწყება { -vendor-short-name }-ს
+    .description = ამით { -vendor-short-name } მიახლოებით ითვლის მოქმედ მომხმარებლებს.
+    .accesskey = ზ
 
 ## Privacy Section - Website Advertising Preferences
 
