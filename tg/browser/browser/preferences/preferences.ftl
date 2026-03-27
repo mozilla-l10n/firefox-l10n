@@ -22,6 +22,8 @@ non-technical-privacy-header = Хусусиятҳои махфияти сомо�
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Танзимот
+category-nav-heading =
+    .heading = Танзимот
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -36,6 +38,8 @@ search-input-box2 =
 managed-notice = Браузери шумо аз тарафи ташкилоти шумо идора карда мешавад.
 managed-notice-info-icon =
     .alt = Маълумот
+managed-notice-nav =
+    .label = Браузери шумо аз тарафи ташкилоти шумо идора карда мешавад.
 category-list =
     .aria-label = Категорияҳо
 pane-general-title = Умумӣ
@@ -2232,3 +2236,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
+
+## Warnings section
+
