@@ -38,6 +38,8 @@ search-input-box2 =
 managed-notice = Din browser bliver forvaltet af din organisation.
 managed-notice-info-icon =
     .alt = Information
+managed-notice-nav =
+    .label = Din browser bliver forvaltet af din organisation.
 category-list =
     .aria-label = Kategorier
 pane-general-title = Generelt
@@ -2292,3 +2294,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
