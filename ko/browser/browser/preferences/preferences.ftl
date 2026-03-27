@@ -27,6 +27,8 @@ non-technical-privacy-header = 웹 사이트 개인 정보 보호 설정
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = 설정
+category-nav-heading =
+    .heading = 설정
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = 이 브라우저는 조직에서 관리하고 있습니다.
 managed-notice-info-icon =
     .alt = 정보
+managed-notice-nav =
+    .label = 이 브라우저는 조직에서 관리하고 있습니다.
 category-list =
     .aria-label = 카테고리
 pane-general-title = 일반
