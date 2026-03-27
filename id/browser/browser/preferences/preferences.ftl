@@ -1548,6 +1548,9 @@ collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan han
 collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.
 collection-health-report-telemetry-disabled-link = Pelajari lebih lanjut
+addon-recommendations3 =
+    .label = Izinkan rekomendasi ekstensi yang dipersonalisasi
+    .description = Dapatkan rekomendasi ekstensi untuk meningkatkan pengalaman penjelajahan Anda.
 collection-usage-ping =
     .label = Kirim ping penggunaan harian ke { -vendor-short-name }
     .accesskey = u
@@ -1590,6 +1593,8 @@ privacy-segmentation-radio-off =
     .label = Gunakan rekomendasi { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tampilkan informasi rinci
+data-collection-studies-link =
+    .label = Lihat kajian { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
