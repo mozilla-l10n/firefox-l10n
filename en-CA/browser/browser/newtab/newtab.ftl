@@ -316,6 +316,15 @@ newtab-custom-shortcuts-toggle =
     .description = Sites you save or visit
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } row
+           *[other] { $num } rows
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } row
@@ -362,6 +371,8 @@ newtab-wallpaper-title = Wallpapers
 newtab-wallpaper-reset = Reset to default
 newtab-wallpaper-upload-image = Upload an image
 newtab-wallpaper-custom-color = Choose a colour
+newtab-wallpaper-toggle-title =
+    .label = Wallpapers
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = The image exceeded the file size limit of { $file_size }MB. Please try uploading a smaller file.

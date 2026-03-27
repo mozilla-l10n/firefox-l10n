@@ -27,6 +27,8 @@ non-technical-privacy-header = Preferentias de confidentialitate del sito
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Controlo global del confidentialitate (GPC)
 settings-page-title = Parametros
+category-nav-heading =
+    .heading = Parametros
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Tu navigator debe ser gerite per tu organisation.
 managed-notice-info-icon =
     .alt = Information
+managed-notice-nav =
+    .label = Tu navigator debe ser gerite per tu organisation.
 category-list =
     .aria-label = Categorias
 pane-general-title = General
@@ -2072,6 +2076,9 @@ collection-health-report-telemetry-disabled = Tu non plus permitte que { -vendor
 collection-health-report-telemetry-disabled-link = Saper plus
 backup-multi-profile-warning-message =
     .message = Pro esser secur que iste cambio es includite in tu copias de securitate, aperi cata profilo e elige “Salveguardar ora” in Parametros.
+addon-recommendations3 =
+    .label = Permitter recommendationes personalisate sur le extensiones
+    .description = Reciper recommendationes sur le extensiones pro meliorar tu experientia de navigation.
 collection-usage-ping =
     .label = Inviar ping de uso quotidian a { -vendor-short-name }
     .accesskey = u
@@ -2117,6 +2124,27 @@ privacy-segmentation-radio-off =
     .label = Usar recommendationes de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Monstrar informationes detaliate
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Collecta e uso de datos per { -brand-short-name }
+    .description = Nos nos effortia fornir te selectiones e colliger solo le minime datos necessari pro meliorar { -brand-product-name } pro totes.
+    .searchkeywords = telemetria
+data-collection-link = Vider le aviso de confidentialitate
+data-collection-preferences-across-profiles =
+    .message = Iste parametros se applica a cata profilo de { -brand-product-name } sur iste apparato.
+data-collection-profiles-link = Vider tote le profilos
+data-collection-health-report-telemetry-disabled =
+    .message = Tu non plus permitte que { -vendor-short-name } captura datos technic e de interaction. Tote le datos jam capturate essera delite intra 30 dies.
+data-collection-health-report =
+    .label = Inviar datos technic e de interaction a { -vendor-short-name }
+    .accesskey = r
+    .description = Isto adjuta nos a meliorar functiones, prestation, e stabilitate de { -brand-product-name }.
+data-collection-studies-link =
+    .label = Consultar le studios de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Inviar ping de uso quotidian a { -vendor-short-name }
+    .description = Isto adjuta { -vendor-short-name } a estimar le usatores active.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

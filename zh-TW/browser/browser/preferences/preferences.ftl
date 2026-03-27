@@ -27,6 +27,8 @@ non-technical-privacy-header = 網站隱私權偏好設定
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = 設定
+category-nav-heading =
+    .heading = 設定
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = 您的瀏覽器受到組織管理。
 managed-notice-info-icon =
     .alt = 資訊
+managed-notice-nav =
+    .label = 您的瀏覽器受到組織管理。
 category-list =
     .aria-label = 分類
 pane-general-title = 一般
@@ -2060,6 +2064,9 @@ collection-health-report-telemetry-disabled = 將不再允許 { -vendor-short-na
 collection-health-report-telemetry-disabled-link = 了解更多
 backup-multi-profile-warning-message =
     .message = 若要讓此變更在備份中生效，請開啟每個設定檔，並到「設定」當中選擇「立即備份」。
+addon-recommendations3 =
+    .label = 允許個人化推薦的擴充套件
+    .description = 依照您的使用方式推薦擴充套件，改進您的上網體驗。
 collection-usage-ping =
     .label = 傳送每日使用情況回報給 { -vendor-short-name }
     .accesskey = u
@@ -2105,6 +2112,27 @@ privacy-segmentation-radio-off =
     .label = 使用 { -brand-product-name } 推薦設定
 privacy-segmentation-radio-on =
     .label = 顯示詳細資訊
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } 資料收集與使用
+    .description = 我們盡力提供您不同選擇，也只會收集最少而必須的資料，以用於為所有人改善 { -brand-product-name }。
+    .searchkeywords = telemetry
+data-collection-link = 檢視隱私權公告
+data-collection-preferences-across-profiles =
+    .message = 此設定將套用到此裝置中的所有 { -brand-product-name } 設定檔。
+data-collection-profiles-link = 檢視所有設定檔
+data-collection-health-report-telemetry-disabled =
+    .message = 將不再允許 { -vendor-short-name } 捕捉技術與互動資料，之前收集的資料將於 30 天內刪除。
+data-collection-health-report =
+    .label = 傳送技術與互動資料給 { -vendor-short-name }
+    .accesskey = r
+    .description = 此資料可幫助我們改進 { -brand-product-name } 產品功能、效能與穩定度。
+data-collection-studies-link =
+    .label = 檢視 { -brand-short-name } 所進行的研究
+data-collection-usage-ping =
+    .label = 傳送每日使用情況回報給 { -vendor-short-name }
+    .description = 此資訊可幫助 { -vendor-short-name } 估算活躍使用者數。
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

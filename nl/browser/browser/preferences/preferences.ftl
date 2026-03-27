@@ -27,6 +27,8 @@ non-technical-privacy-header = Websiteprivacyvoorkeuren
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Instellingen
+category-nav-heading =
+    .heading = Instellingen
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Uw browser wordt door uw organisatie beheerd.
 managed-notice-info-icon =
     .alt = Informatie
+managed-notice-nav =
+    .label = Uw browser wordt door uw organisatie beheerd.
 category-list =
     .aria-label = Categorieën
 pane-general-title = Algemeen
@@ -2072,6 +2076,9 @@ collection-health-report-telemetry-disabled = U staat { -vendor-short-name } nie
 collection-health-report-telemetry-disabled-link = Meer info
 backup-multi-profile-warning-message =
     .message = Open elk profiel en kies ‘Nu een reservekopie maken’ in Instellingen om ervoor te zorgen dat deze wijziging in uw reservekopieën wordt opgenomen.
+addon-recommendations3 =
+    .label = Gepersonaliseerde extensieaanbevelingen toestaan
+    .description = Ontvang extensieaanbevelingen om uw surfervaring te verbeteren.
 collection-usage-ping =
     .label = Ping voor dagelijks gebruik naar { -vendor-short-name } verzenden
     .accesskey = u
@@ -2117,6 +2124,27 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-aanbevelingen gebruiken
 privacy-segmentation-radio-on =
     .label = Detailinformatie tonen
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name }-gegevensverzameling en -gebruik
+    .description = We streven ernaar om u keuzes te bieden en verzamelen alleen de gegevens die minimaal nodig zijn om { -brand-product-name } voor iedereen te verbeteren.
+    .searchkeywords = telemetrie
+data-collection-link = Privacyverklaring bekijken
+data-collection-preferences-across-profiles =
+    .message = Deze instellingen zijn van toepassing op elk { -brand-product-name }-profiel op dit apparaat.
+data-collection-profiles-link = Alle profielen bekijken
+data-collection-health-report-telemetry-disabled =
+    .message = U staat { -vendor-short-name } niet langer toe technische en interactiegegevens vast te leggen. Alle eerdere gegevens worden binnen 30 dagen verwijderd.
+data-collection-health-report =
+    .label = Technische en interactiegegevens naar { -vendor-short-name } verzenden
+    .accesskey = r
+    .description = Dit helpt ons de functies, prestaties en stabiliteit van { -brand-product-name } te verbeteren.
+data-collection-studies-link =
+    .label = { -brand-short-name }-onderzoeken weergeven
+data-collection-usage-ping =
+    .label = Ping voor dagelijks gebruik naar { -vendor-short-name } verzenden
+    .description = Dit helpt { -vendor-short-name } bij het schatten van actieve gebruikers.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

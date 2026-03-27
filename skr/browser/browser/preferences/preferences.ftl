@@ -19,6 +19,8 @@ non-technical-privacy-header = ویب سائٹ رازداری ترجیحاں
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = گلوبل پرائیویسی کنٹرول (جی پی سی)
 settings-page-title = ترتیباں
+category-nav-heading =
+    .heading = ترتیباں
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -33,6 +35,8 @@ search-input-box2 =
 managed-notice = تہاݙا براؤزر تہاݙی تنظیم دے زیر انتظام ہے۔
 managed-notice-info-icon =
     .alt = معلومات
+managed-notice-nav =
+    .label = تہاݙا براؤزر تہاݙی تنظیم دے زیر انتظام ہے۔
 category-list =
     .aria-label = ونکیاں
 pane-general-title = عمومی
@@ -1436,6 +1440,10 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } دیاں سفارشاں استعمال کرو
 privacy-segmentation-radio-on =
     .label = تفصیلی معلومات ݙکھاؤ
+data-collection-health-report-telemetry-disabled =
+    .message = ہݨ تساں { -vendor-short-name } کوں تکنیکی تے تعامل دا ڈیٹا حاصل کرݨ دی اجازت نہیں ݙیندے پئے او۔ تمام پچھوکڑ دا ڈیٹا 30 ݙینہاں دے اندر حذف تھی ویسے۔
+data-collection-studies-link =
+    .label = { -brand-short-name } مطالعے ݙیکھو
 
 ## Privacy Section - Website Advertising Preferences
 

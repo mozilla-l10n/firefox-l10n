@@ -27,6 +27,8 @@ non-technical-privacy-header = Ñanduti renda marandu’i ñemigua
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Ñemboheko
+category-nav-heading =
+    .heading = Ñemboheko
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Pe kundaha rehe oñangareko atyguasu.
 managed-notice-info-icon =
     .alt = Ñemomarandu
+managed-notice-nav =
+    .label = Pe kundaha rehe oñangareko atyguasu.
 category-list =
     .aria-label = Mboja’opy
 pane-general-title = Tuichakue
@@ -2060,6 +2064,9 @@ collection-description = Roñeha’ãmbaite rome’ẽ hag̃ua jeporavorã ha ro
 collection-privacy-notice = Marandu Ñemigua
 collection-health-report-telemetry-disabled = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
 collection-health-report-telemetry-disabled-link = Kuaave
+addon-recommendations3 =
+    .label = Emoneĩ jepysokue mboherapyre ñemoñe’ẽ
+    .description = Erekokuaa jepysokuégui ñe’ẽporã oiko porãve hag̃ua ne kundahára.
 collection-usage-ping =
     .label = Emondo { -vendor-short-name }-pe ping eiporúva ára ha ára
     .accesskey = u
@@ -2105,6 +2112,27 @@ privacy-segmentation-radio-off =
     .label = Eiporu he’iháicha { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Eike marandurenda hesa’ỹijopyrévape
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
+    .description = Roñeha’ãmbaite heta mba’erã ha rombyaty umi mba’ekuaarã tekotevẽvante oiko porãve hag̃ua { -brand-product-name } opavavépe g̃uarã.
+    .searchkeywords = telemetría
+data-collection-link = Ehecha marandu’i ñemi rehegua
+data-collection-preferences-across-profiles =
+    .message = Ño ñemboheko oiko opaite mba’ete { -brand-product-name } pegua ko mba’e’okápe.
+data-collection-profiles-link = Ehechapa mba’etekuéra
+data-collection-health-report-telemetry-disabled =
+    .message = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
+data-collection-health-report =
+    .label = Emondo mba’ekuaarã aporekogua ha ñomongeta { -vendor-short-name }-pe
+    .accesskey = r
+    .description = Kóva ñanepytyvõta oiko porãve, ha’eve ha hekopyta hag̃ua { -brand-product-name }.
+data-collection-studies-link =
+    .label = Ehecha kuaarã { -brand-short-name } mba’éva
+data-collection-usage-ping =
+    .label = Emondo { -vendor-short-name }-pe ping eiporúva ára ha ára
+    .description = Kóva oipytyvõ { -vendor-short-name } oikuaa hag̃ua mboy poruhárapa oĩ.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -2429,3 +2457,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Ojapyhyséva mokuãhũha
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Ojapyhyséva mokuãhũha
+
+## Warnings section
+

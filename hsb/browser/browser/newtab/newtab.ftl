@@ -316,6 +316,17 @@ newtab-custom-shortcuts-toggle =
     .description = Sydła, kotrež składujeće abo wopytujeće
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } linka
+            [two] { $num } lince
+            [few] { $num } linki
+           *[other] { $num } linkow
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } linka
@@ -364,6 +375,8 @@ newtab-wallpaper-title = Pozadkowe wobrazy
 newtab-wallpaper-reset = Na standard wróćo stajić
 newtab-wallpaper-upload-image = Wobraz nahrać
 newtab-wallpaper-custom-color = Barbu wubrać
+newtab-wallpaper-toggle-title =
+    .label = Pozadkowe wobrazy
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Wobraz je limit datajoweje wulkosće { $file_size } překročił. Nahrajće prošu mjeńšu dataju.

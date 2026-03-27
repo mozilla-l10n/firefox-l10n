@@ -20,6 +20,8 @@ non-technical-privacy-header = Pengaturan Privasi Situs
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Pengaturan
+category-nav-heading =
+    .heading = Pengaturan
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Peramban Anda dikelola oleh organisasi Anda.
 managed-notice-info-icon =
     .alt = Informasi
+managed-notice-nav =
+    .label = Peramban Anda dikelola oleh organisasi Anda.
 category-list =
     .aria-label = Kategori
 pane-general-title = Umum
@@ -1544,6 +1548,9 @@ collection-description = Kami berusaha memberi Anda pilihan dan mengumpulkan han
 collection-privacy-notice = Pemberitahuan Privasi
 collection-health-report-telemetry-disabled = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.
 collection-health-report-telemetry-disabled-link = Pelajari lebih lanjut
+addon-recommendations3 =
+    .label = Izinkan rekomendasi ekstensi yang dipersonalisasi
+    .description = Dapatkan rekomendasi ekstensi untuk meningkatkan pengalaman penjelajahan Anda.
 collection-usage-ping =
     .label = Kirim ping penggunaan harian ke { -vendor-short-name }
     .accesskey = u
@@ -1586,6 +1593,27 @@ privacy-segmentation-radio-off =
     .label = Gunakan rekomendasi { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tampilkan informasi rinci
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Pengumpulan dan Penggunaan Data { -brand-short-name }
+    .description = Kami berusaha untuk memberi Anda pilihan dan hanya mengumpulkan data minimal yang diperlukan untuk meningkatkan { -brand-product-name } bagi semua orang.
+    .searchkeywords = telemetri
+data-collection-link = Lihat Pemberitahuan Privasi
+data-collection-preferences-across-profiles =
+    .message = Pengaturan ini berlaku untuk setiap profil { -brand-product-name } pada perangkat ini.
+data-collection-profiles-link = Tampilkan semua profil
+data-collection-health-report-telemetry-disabled =
+    .message = Anda tidak lagi mengizinkan { -vendor-short-name } untuk menangkap data teknis dan interaksi. Semua data sebelumnya akan dihapus dalam waktu 30 hari.
+data-collection-health-report =
+    .label = Kirim data teknis dan interaksi ke { -vendor-short-name }
+    .accesskey = r
+    .description = Ini membantu kami meningkatkan fitur, kinerja, dan stabilitas { -brand-product-name }.
+data-collection-studies-link =
+    .label = Lihat kajian { -brand-short-name }
+data-collection-usage-ping =
+    .label = Kirim ping penggunaan harian ke { -vendor-short-name }
+    .description = Ini membantu { -vendor-short-name } untuk memperkirakan pengguna aktif.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

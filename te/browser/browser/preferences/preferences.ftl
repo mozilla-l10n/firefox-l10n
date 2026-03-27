@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = ఎల్లప్పుడూ
 settings-page-title = అమరికలు
+category-nav-heading =
+    .heading = అమరికలు
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -23,6 +25,8 @@ search-input-box2 =
 managed-notice = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 managed-notice-info-icon =
     .alt = సమాచారం
+managed-notice-nav =
+    .label = మీ విహారిణి మీ సంస్థ ద్వారా నిర్వహించబడుతోంది.
 category-list =
     .aria-label = వర్గాలు
 pane-general-title = సాధారణం
@@ -1028,6 +1032,8 @@ addon-recommendations-link = ఇంకా తెలుసుకోండి
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ఈ బిల్డ్ కాన్ఫిగరేషన్ కోసం డేటా రిపోర్టింగ్ నిలిపివేయబడింది
+data-collection-studies-link =
+    .label = { -brand-short-name } అథ్యయనాలను చూడండి
 
 ## Privacy Section - Website Advertising Preferences
 

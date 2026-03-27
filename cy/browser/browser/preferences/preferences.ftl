@@ -27,6 +27,8 @@ non-technical-privacy-header = Dewisiadau Preifatrwydd Gwefan
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Rheoli Preifatrwydd Eang (GPC)
 settings-page-title = Gosodiadau
+category-nav-heading =
+    .heading = Gosodiadau
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Mae eich porwr yn cael ei reoli gan eich sefydliad.
 managed-notice-info-icon =
     .alt = Manylion
+managed-notice-nav =
+    .label = Mae eich porwr yn cael ei reoli gan eich sefydliad.
 category-list =
     .aria-label = Categorïau
 pane-general-title = Cyffredinol
@@ -2081,6 +2085,9 @@ collection-health-report-telemetry-disabled = Nid ydych bellach yn caniatáu i {
 collection-health-report-telemetry-disabled-link = Darllen rhagor
 backup-multi-profile-warning-message =
     .message = I wneud yn siŵr bod y newid hwn wedi'i gynnwys yn eich copïau wrth gefn, agorwch bob proffil a dewis "Gwneud copi wrth gefn nawr" yn y Gosodiadau.
+addon-recommendations3 =
+    .label = Caniatáu argymhellion estyniadau personoledig
+    .description = Cael argymhellion estyniadau i wella'ch profiad pori.
 collection-usage-ping =
     .label = Anfon ping defnydd dyddiol at { -vendor-short-name }
     .accesskey = A
@@ -2126,6 +2133,27 @@ privacy-segmentation-radio-off =
     .label = Defnyddio argymhellion { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Dangos gwybodaeth fanwl
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Casglu Data a'r Defnydd o { -brand-short-name }
+    .description = Rydym yn ymdrechu i roi i chi ddewisiadau a chasglu dim ond y lleiafswm data sydd ei angen i wella { -brand-product-name } i bawb.
+    .searchkeywords = telemetreg
+data-collection-link = Gweld yr Hysbysiad Preifatrwydd
+data-collection-preferences-across-profiles =
+    .message = Mae'r gosodiadau hyn yn berthnasol i bob proffil { -brand-product-name } ar y ddyfais hon.
+data-collection-profiles-link = Gweld pob proffil
+data-collection-health-report-telemetry-disabled =
+    .message = Nid ydych bellach yn caniatáu i { -vendor-short-name } ddal data technegol a rhyngweithiol. Bydd holl ddata'r gorffennol yn cael ei ddileu cyn pen 30 diwrnod.
+data-collection-health-report =
+    .label = Anfon data technegol a rhyngweithio at { -vendor-short-name }
+    .accesskey = d
+    .description = Mae hyn yn ein helpu i wella nodweddion, perfformiad a sefydlogrwydd { -brand-product-name }.
+data-collection-studies-link =
+    .label = Gweld astudiaethau { -brand-short-name }
+data-collection-usage-ping =
+    .label = Anfon ping defnydd dyddiol at { -vendor-short-name }
+    .description = Mae hyn yn helpu { -vendor-short-name } i amcangyfrif defnyddwyr gweithredol.
+    .accesskey = A
 
 ## Privacy Section - Website Advertising Preferences
 

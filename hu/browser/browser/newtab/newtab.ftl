@@ -316,6 +316,15 @@ newtab-custom-shortcuts-toggle =
     .description = Mentett vagy felkeresett webhelyek
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } sor
+           *[other] { $num } sor
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } sor
@@ -362,6 +371,8 @@ newtab-wallpaper-title = Háttérképek
 newtab-wallpaper-reset = Visszaállítás az alapértelmezésre
 newtab-wallpaper-upload-image = Kép feltöltése
 newtab-wallpaper-custom-color = Válasszon színt
+newtab-wallpaper-toggle-title =
+    .label = Háttérképek
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A kép túllépte a { $file_size } MB-os fájlméretkorlátot. Próbáljon meg egy kisebb fájlt feltölteni.

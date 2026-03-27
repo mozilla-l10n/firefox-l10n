@@ -73,6 +73,9 @@ newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Չեղարկել
@@ -304,6 +307,15 @@ newtab-custom-shortcuts-toggle =
     .description = Կայքեր, որոնք պահել կամ այցելել եք
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } տող
+           *[other] { $num } տող
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } տող
@@ -345,6 +357,8 @@ newtab-wallpaper-title = Պաստառներ
 newtab-wallpaper-reset = Վերակայել սկզբնադիրը
 newtab-wallpaper-upload-image = Վերբեռնել պատկեր
 newtab-wallpaper-custom-color = Ընտրել գույն
+newtab-wallpaper-toggle-title =
+    .label = Պաստառներ
 newtab-wallpaper-error-upload-file-type = Մենք չկարողացանք վերբեռնել ձեր ֆայլը։ Խնդրում ենք կրկին փորձել պատկերի ֆայլով։
 newtab-wallpaper-light-red-panda = Կարմիր պանդա
 newtab-wallpaper-light-mountain = Սպիտակ լեռ

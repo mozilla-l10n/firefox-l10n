@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = An-còmhnaidh
 settings-page-title = Roghainnean
+category-nav-heading =
+    .heading = Roghainnean
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 17em
     .placeholder = Lorg sna roghainnean
 managed-notice = Tha am brabhsair agad fo stiùireadh a’ bhuidhinn agad.
+managed-notice-nav =
+    .label = Tha am brabhsair agad fo stiùireadh a’ bhuidhinn agad.
 category-list =
     .aria-label = Roinnean-seòrsa
 pane-general-title = Coitcheann
@@ -1304,6 +1308,10 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+data-collection-health-report-telemetry-disabled =
+    .message = Chan eil thu a’ toirt cead dha { -vendor-short-name } tuilleadh airson dàta teicnigeach ’s nan eadar-ghnìomhan a ghlacadh. Thèid dàta sam bith a chaidh a chruinneachadh cheana a sguabadh às am broinn 30 latha.
+data-collection-studies-link =
+    .label = Seall obair-rannsachaidh { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

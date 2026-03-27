@@ -12,6 +12,8 @@ global-privacy-control-description =
     .label = Goulenn gant al lec’hiennoù ne vefe ket gwerzhet pe rannet ma roadennoù
     .accesskey = G
 settings-page-title = Arventennoù
+category-nav-heading =
+    .heading = Arventennoù
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -26,6 +28,8 @@ search-input-box2 =
 managed-notice = Ardoet eo ho merdeer gant hoc'h aozadur.
 managed-notice-info-icon =
     .alt = Titouroù
+managed-notice-nav =
+    .label = Ardoet eo ho merdeer gant hoc'h aozadur.
 category-list =
     .aria-label = Rummadoù
 pane-general-title = Hollek
@@ -1343,6 +1347,10 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+data-collection-health-report-telemetry-disabled =
+    .message = Ne aotreit ket ken { -vendor-short-name } da zastum ho roadennoù teknikel hag etrewezhiañ. An holl roadennoù tremenet a vo skarzhet dindan 30 deiz.
+data-collection-studies-link =
+    .label = Gwelout studiadennoù { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

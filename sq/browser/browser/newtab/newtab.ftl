@@ -312,6 +312,15 @@ newtab-custom-shortcuts-toggle =
     .description = Sajte që ruani ose vizitoni
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } rresht
+           *[other] { $num } rreshta
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } rresht
@@ -358,6 +367,8 @@ newtab-wallpaper-title = Sfonde
 newtab-wallpaper-reset = Riktheje te parazgjedhjet
 newtab-wallpaper-upload-image = Ngarkoni një figurë
 newtab-wallpaper-custom-color = Zgjidhni një ngjyrë
+newtab-wallpaper-toggle-title =
+    .label = Sfonde
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Figura tejkalonte kufirin { $file_size }MB e madhësive të kartelave. Ju lutemi, provoni të ngarkoni një kartelë më të vogël.

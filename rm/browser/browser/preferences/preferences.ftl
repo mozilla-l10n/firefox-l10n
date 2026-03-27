@@ -20,6 +20,8 @@ non-technical-privacy-header = Preferenzas per la protecziun da datas da website
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Parameters
+category-nav-heading =
+    .heading = Parameters
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Tes navigatur vegn administrà da tia organisaziun.
 managed-notice-info-icon =
     .alt = Infurmaziuns
+managed-notice-nav =
+    .label = Tes navigatur vegn administrà da tia organisaziun.
 category-list =
     .aria-label = Categorias
 pane-general-title = General
@@ -1739,6 +1743,9 @@ collection-description = Nus ta laschain la tscherna e ramassain mo las infurmaz
 collection-privacy-notice = Infurmaziuns davart la protecziun da datas
 collection-health-report-telemetry-disabled = Ti na permettas betg pli a { -vendor-short-name } da registrar datas davart la tecnica e l'interacziun. Tut las datas dal passà vegnan stizzadas entaifer 30 dis.
 collection-health-report-telemetry-disabled-link = Ulteriuras infurmaziuns
+addon-recommendations3 =
+    .label = Permetta recumandaziuns persunalisadas per extensiuns
+    .description = Retschaiva recumandaziuns dad extensiuns per meglierar tia experientscha da navigaziun.
 collection-usage-ping =
     .label = Trametter in ping d’utilisaziun quotidian a { -vendor-short-name }
     .accesskey = u
@@ -1781,6 +1788,27 @@ privacy-segmentation-radio-off =
     .label = Utilisar recumandaziuns da { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mussar infurmaziuns detagliadas
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Rimnada da datas da { -brand-short-name } e lur utilisaziun
+    .description = Nus ans engaschain per ta dar la pussaivladad da tscherner e rimnain mo las datas essenzialas necessarias per meglierar { -brand-product-name } per tut:tas.
+    .searchkeywords = telemetria
+data-collection-link = Vesair la decleraziun davart la protecziun da datas
+data-collection-preferences-across-profiles =
+    .message = Quests parameters han effect sin tut ils profils da { -brand-product-name } da quest apparat.
+data-collection-profiles-link = Mussar tut ils profils
+data-collection-health-report-telemetry-disabled =
+    .message = Ti na permettas betg pli a { -vendor-short-name } da registrar datas davart la tecnica e l'interacziun. Tut las datas dal passà vegnan stizzadas entaifer 30 dis.
+data-collection-health-report =
+    .label = Trametter datas tecnicas e d’interacziun a { -vendor-short-name }
+    .accesskey = r
+    .description = Quai ans gida a meglierar las funcziuns, la prestaziun e la stabilitad da { -brand-product-name }.
+data-collection-studies-link =
+    .label = Vesair ils studis da { -brand-short-name }
+data-collection-usage-ping =
+    .label = Trametter in ping d’utilisaziun quotidian a { -vendor-short-name }
+    .description = Quai gida { -vendor-short-name } a stimar ils utilisaders activs.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

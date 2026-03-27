@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Nigànj chre
 managed-notice = Yi'nïn' nikòt ni huej dugumi dàj 'iaj sun riña nana'uît nuguan'an.
+managed-notice-nav =
+    .label = Yi'nïn' nikòt ni huej dugumi dàj 'iaj sun riña nana'uît nuguan'an.
 pane-general-title = Da'ua nguéj
 category-general =
     .tooltiptext = { pane-general-title }
@@ -976,6 +978,8 @@ addon-recommendations-link = Gahuin chrūn doj
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj sun 'ngà nej kopilacion
+data-collection-studies-link =
+    .label = Ni'io' nej sa digi'ñun { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

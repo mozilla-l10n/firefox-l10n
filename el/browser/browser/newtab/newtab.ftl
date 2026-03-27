@@ -316,6 +316,15 @@ newtab-custom-shortcuts-toggle =
     .description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } σειρά
+           *[other] { $num } σειρές
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } σειρά
@@ -362,6 +371,8 @@ newtab-wallpaper-title = Ταπετσαρίες
 newtab-wallpaper-reset = Επαναφορά προεπιλογής
 newtab-wallpaper-upload-image = Μεταφόρτωση εικόνας
 newtab-wallpaper-custom-color = Επιλογή χρώματος
+newtab-wallpaper-toggle-title =
+    .label = Ταπετσαρίες
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Η εικόνα υπερέβη το όριο μεγέθους των { $file_size }MB. Δοκιμάστε να μεταφορτώσετε ένα μικρότερο αρχείο.

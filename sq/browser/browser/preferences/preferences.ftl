@@ -27,6 +27,8 @@ non-technical-privacy-header = Parapëlqime Privatësie Sajti
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Kontroll Global Privatësie (GPC)
 settings-page-title = Rregullime
+category-nav-heading =
+    .heading = Rregullime
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Shfletuesi juaj administrohet nga enti juaj.
 managed-notice-info-icon =
     .alt = Informacion
+managed-notice-nav =
+    .label = Shfletuesi juaj administrohet nga enti juaj.
 category-list =
     .aria-label = Kategori
 pane-general-title = Të përgjithshme
@@ -2072,6 +2076,9 @@ collection-health-report-telemetry-disabled = S’e lejoni më { -vendor-short-n
 collection-health-report-telemetry-disabled-link = Mësoni më tepër
 backup-multi-profile-warning-message =
     .message = Që të garantohet se ky ndryshim përfshihet në kopjeruajtjet tuaja, hapni çdo profil dhe zgjidhni “Kopjeruaje tani” te Rregullimet.
+addon-recommendations3 =
+    .label = Lejo rekomandime të personalizuara rreth zgjerimesh
+    .description = Merrni rekomandime zgjerimesh, për të përmirësuar funksionimin e shfletimit tuaj.
 collection-usage-ping =
     .label = Dërgo te { -vendor-short-name } ping përdorimi ditor
     .accesskey = D
@@ -2117,6 +2124,27 @@ privacy-segmentation-radio-off =
     .label = Përdorni rekomandime { -brand-product-name }-i
 privacy-segmentation-radio-on =
     .label = Shfaq të dhëna të hollësishme
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
+    .description = Përpiqemi t’ju japin mundësi zgjedhjeje dhe grumbullojmë vetëm të dhënat minimum të nevojshme për përmirësimin e { -brand-product-name }-it për gjithkënd.
+    .searchkeywords = telemetri
+data-collection-link = Shihni Shënim Mbi Privatësinë
+data-collection-preferences-across-profiles =
+    .message = Këto rregullime aplikohen mbi çdo profil { -brand-product-name } në këtë pajisje.
+data-collection-profiles-link = Shihni krejt profilet
+data-collection-health-report-telemetry-disabled =
+    .message = S’e lejoni më { -vendor-short-name }-n të marrë të dhëna teknike dhe ndërveprimesh. Krejt të dhënat e dikurshme do të fshihen brenda 30 ditësh.
+data-collection-health-report =
+    .label = Dërgo te { -vendor-short-name } të dhëna teknike dhe ndërveprimesh
+    .accesskey = k
+    .description = Kjo na ndihmon të përmirësojmë veçori, funksionimin dhe qëndrueshmërinë e { -brand-product-name }-it.
+data-collection-studies-link =
+    .label = Shihni studime { -brand-short-name }
+data-collection-usage-ping =
+    .label = Dërgo te { -vendor-short-name } ping përdorimi ditor
+    .description = Kjo e ndihmon { -vendor-short-name }-n të hamendësojë numrin e përdoruesve aktivë.
+    .accesskey = D
 
 ## Privacy Section - Website Advertising Preferences
 

@@ -317,6 +317,15 @@ newtab-custom-shortcuts-toggle =
     .description = Gemte eller besøgte websteder
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } række
+           *[other] { $num } rækker
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } række
@@ -363,6 +372,8 @@ newtab-wallpaper-title = Baggrunde
 newtab-wallpaper-reset = Nulstil til standard
 newtab-wallpaper-upload-image = Upload et billede
 newtab-wallpaper-custom-color = Vælg en farve
+newtab-wallpaper-toggle-title =
+    .label = Baggrunde
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Billedet overskrider grænsen for filstørrelse på { $file_size } MB. Prøv at uploade en mindre fil.

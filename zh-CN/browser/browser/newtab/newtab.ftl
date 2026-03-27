@@ -312,6 +312,14 @@ newtab-custom-shortcuts-toggle =
     .description = 您保存或访问过的网站
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+           *[other] { $num } 行
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } 行
@@ -357,6 +365,8 @@ newtab-wallpaper-title = 壁纸
 newtab-wallpaper-reset = 重置为默认设置
 newtab-wallpaper-upload-image = 上传图像
 newtab-wallpaper-custom-color = 选择颜色
+newtab-wallpaper-toggle-title =
+    .label = 壁纸
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 图像超出文件大小上限（{ $file_size }MB），请尝试上传较小的文件。

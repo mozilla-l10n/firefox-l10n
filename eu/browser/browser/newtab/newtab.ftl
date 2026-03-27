@@ -315,6 +315,15 @@ newtab-custom-shortcuts-toggle =
     .description = Gordetzen edo bisitatzen dituzun guneak
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] Errenkada bat
+           *[other] { $num } errenkada
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] Errenkada bat
@@ -361,6 +370,8 @@ newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
 newtab-wallpaper-upload-image = Igo irudia
 newtab-wallpaper-custom-color = Aukeratu kolorea
+newtab-wallpaper-toggle-title =
+    .label = Horma-paperak
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Irudiak fitxategi-tamainaren { $file_size } MBko muga gainditzen du. Saiatu fitxategi txikiago bat igotzen.

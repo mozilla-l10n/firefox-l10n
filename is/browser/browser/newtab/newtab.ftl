@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = Sérsniðin myndslóð
 newtab-topsites-use-image-link = Nota sérsniðna mynd…
 newtab-topsites-image-validation = Ekki tókst að hlaða mynd. Prófið aðra vefslóð.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Hætta við
@@ -308,6 +311,15 @@ newtab-custom-shortcuts-toggle =
     .description = Vefsvæði sem þú vistar eða heimsækir
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } röð
+           *[other] { $num } raðir
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } röð
@@ -352,6 +364,8 @@ newtab-wallpaper-title = Bakgrunnar
 newtab-wallpaper-reset = Endurstilla á sjálfgefið
 newtab-wallpaper-upload-image = Senda inn mynd
 newtab-wallpaper-custom-color = Veldu lit
+newtab-wallpaper-toggle-title =
+    .label = Bakgrunnar
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Myndin er stærri en takmörkin á stærð skráa { $file_size }MB. Reyndu að senda inn minni skrá.
@@ -691,3 +705,9 @@ newtab-promo-card-cta = Fræðast meira
 newtab-promo-card-dismiss-button =
     .title = Afgreiða
     .aria-label = Afgreiða
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

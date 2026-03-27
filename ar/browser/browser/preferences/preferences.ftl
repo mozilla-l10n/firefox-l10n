@@ -22,6 +22,8 @@ non-technical-privacy-header = تفضيلات خصوصية الموقع
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = التحكم العالمي في الخصوصية (GPC)
 settings-page-title = الإعدادات
+category-nav-heading =
+    .heading = الإعدادات
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -36,6 +38,8 @@ search-input-box2 =
 managed-notice = تُدير منظّمتك المتصفح الذي تستخدم الآن.
 managed-notice-info-icon =
     .alt = معلومة
+managed-notice-nav =
+    .label = تُدير منظّمتك المتصفح الذي تستخدم الآن.
 category-list =
     .aria-label = الفئات
 pane-general-title = عام
@@ -1709,6 +1713,14 @@ privacy-segmentation-radio-off =
     .label = استخدم توصيات { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = أظهِر المعلومات المفصلة
+data-collection-link = اعرض تنويه الخصوصية
+data-collection-preferences-across-profiles =
+    .message = تنطبق هذه الإعدادات على كل ملف تعريف { -brand-product-name } على هذا الجهاز.
+data-collection-profiles-link = اعرض جميع الملفات الشخصية
+data-collection-health-report-telemetry-disabled =
+    .message = لم تعد تسمح بأن يلتقط { -vendor-short-name } البيانات التقنية والتفاعلية. ستُحذف البيانات القديمة كلها خلال 30 يومًا.
+data-collection-studies-link =
+    .label = اعرض دراسات { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -1873,3 +1885,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

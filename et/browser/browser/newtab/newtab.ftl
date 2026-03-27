@@ -56,6 +56,9 @@ newtab-topsites-image-url-label = Kohandatud pildi URL
 newtab-topsites-use-image-link = Kasuta kohandatud pilti…
 newtab-topsites-image-validation = Pildi laadimine ebaõnnestus. Proovi teistsugust URLi.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Tühista
@@ -73,6 +76,9 @@ newtab-confirm-delete-history-p2 = Seda tegevust pole võimalik tagasi võtta.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Sponsitud
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -108,6 +114,9 @@ newtab-menu-save-to-pocket = Salvesta { -pocket-brand-name }isse
 newtab-menu-delete-pocket = Kustuta { -pocket-brand-name }ist
 newtab-menu-archive-pocket = Arhiveeri { -pocket-brand-name }is
 newtab-menu-show-privacy-info = Meie sponsoritest ja sinu privaatsusest
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -227,6 +236,12 @@ newtab-pocket-cta-button = Hangi { -pocket-brand-name }
 newtab-pocket-cta-text = Salvesta oma lemmiklood { -pocket-brand-name }isse.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name } perekonnast
 
+## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
+
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -240,6 +255,15 @@ newtab-custom-shortcuts-subtitle = Saidid, mida oled külastanud või mille oled
 newtab-custom-shortcuts-toggle =
     .label = Otseteed
     .description = Saidid, mida oled külastanud või mille oled salvestanud
+# Variables
+#   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } rida
+           *[other] { $num } rida
+        }
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -256,3 +280,71 @@ newtab-custom-recent-title = Hiljutine tegevus
 newtab-custom-recent-subtitle = Valik hiljutisi saite ja sisu
 newtab-custom-close-button = Sulge
 newtab-custom-settings = Halda rohkem sätteid
+
+## New Tab Wallpapers
+
+
+## Solid Colors
+
+
+## Abstract
+
+
+## Firefox
+
+
+## Firefox
+
+
+## Celestial
+
+
+## New Tab Weather
+
+
+## Topic Labels
+
+
+## Topic Selection Modal
+
+
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

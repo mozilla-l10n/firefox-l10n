@@ -27,6 +27,8 @@ non-technical-privacy-header = Preferencje dotyczące prywatności na witrynach
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Ustawienia
+category-nav-heading =
+    .heading = Ustawienia
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Przeglądarka jest zarządzana przez Twoją organizację
 managed-notice-info-icon =
     .alt = Informacje
+managed-notice-nav =
+    .label = Przeglądarka jest zarządzana przez Twoją organizację
 category-list =
     .aria-label = Kategorie
 pane-general-title = Ogólne
@@ -2069,6 +2073,9 @@ collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już
 collection-health-report-telemetry-disabled-link = Więcej informacji
 backup-multi-profile-warning-message =
     .message = Aby upewnić się, że ta zmiana zostanie uwzględniona w kopiach zapasowych, otwórz każdy profil i kliknij „Utwórz kopię zapasową” w Ustawieniach.
+addon-recommendations3 =
+    .label = Personalizowane polecenia rozszerzeń
+    .description = Polecenia rozszerzeń, które usprawnią przeglądanie Internetu.
 collection-usage-ping =
     .label = Wysyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
     .accesskey = d
@@ -2114,6 +2121,27 @@ privacy-segmentation-radio-off =
     .label = Używaj zaleceń { -brand-product-name(case: "gen") }
 privacy-segmentation-radio-on =
     .label = Wyświetlaj szczegółowe informacje
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Dane zbierane przez { -brand-short-name(case: "acc") }
+    .description = Dokładamy wszelkich starań, aby zapewnić Ci wybór i zbierać tylko minimalną ilość danych niezbędnych do ulepszania { -brand-product-name(case: "gen") } dla wszystkich.
+    .searchkeywords = telemetria
+data-collection-link = Zasady ochrony prywatności
+data-collection-preferences-across-profiles =
+    .message = Te ustawienia dotyczą każdego profilu { -brand-product-name(case: "gen") } na tym urządzeniu.
+data-collection-profiles-link = Wyświetl wszystkie profile
+data-collection-health-report-telemetry-disabled =
+    .message = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
+data-collection-health-report =
+    .label = Wysyłanie danych technicznych i o interakcjach do { -vendor-short-name(case: "gen") }
+    .accesskey = z
+    .description = To pomaga nam ulepszać funkcje, wydajność i stabilność { -brand-product-name(case: "gen") }.
+data-collection-studies-link =
+    .label = Wyświetl badania { -brand-short-name(case: "gen") }
+data-collection-usage-ping =
+    .label = Wysyłanie dziennego sygnału o użyciu do { -vendor-short-name(case: "gen") }
+    .description = To pomaga { -vendor-short-name(case: "dat") } oszacować liczbę aktywnych użytkowników.
+    .accesskey = d
 
 ## Privacy Section - Website Advertising Preferences
 

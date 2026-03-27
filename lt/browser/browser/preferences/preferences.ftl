@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Visada
 settings-page-title = Nuostatos
+category-nav-heading =
+    .heading = Nuostatos
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Rasti nuostatose
 managed-notice = Jūsų naršyklę tvarko jūsų organizacija.
+managed-notice-nav =
+    .label = Jūsų naršyklę tvarko jūsų organizacija.
 category-list =
     .aria-label = Kategorijos
 pane-general-title = Bendrosios
@@ -1280,6 +1284,10 @@ privacy-segmentation-radio-off =
     .label = Naudoti „{ -brand-product-name }“ rekomendacijas
 privacy-segmentation-radio-on =
     .label = Rodyti detalią informaciją
+data-collection-health-report-telemetry-disabled =
+    .message = Jūs nebeleidžiate „{ -vendor-short-name }“ rinkti techninių ir naudojimosi duomenų. Visi ankstesni duomenys bus pašalinti per 30 dienų.
+data-collection-studies-link =
+    .label = Peržiūrėti „{ -brand-short-name }“ tyrimus
 
 ## Privacy Section - Website Advertising Preferences
 

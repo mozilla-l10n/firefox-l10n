@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = Tugna tudmawant URL
 newtab-topsites-use-image-link = Seqdec tugna tudmawant…
 newtab-topsites-image-validation = Tugna ur d-uli ara. Ɛreḍ tansa-nniḍen URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Sefsex
@@ -87,6 +90,9 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = S lmendad
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -295,6 +301,15 @@ newtab-custom-shortcuts-toggle =
     .description = Ismal i teskelseḍ neɣ wuɣur terziḍ
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } yizirig
+           *[other] { $num } yizirigen
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } yizirig
@@ -332,6 +347,8 @@ newtab-wallpaper-title = Tugniwin n ugilal
 newtab-wallpaper-reset = Wennez ɣer umezwer
 newtab-wallpaper-upload-image = Sali n tugna
 newtab-wallpaper-custom-color = Fren ini
+newtab-wallpaper-toggle-title =
+    .label = Tugniwin n ugilal
 newtab-wallpaper-light-red-panda = Apunda azewwaɣ
 newtab-wallpaper-light-mountain = Adrar amellal
 newtab-wallpaper-dark-mountain = Tugna n yidurar
@@ -376,6 +393,12 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -478,6 +501,9 @@ newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
 newtab-download-mobile-highlight-image =
     .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
 
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting issues with ads and content
 
 newtab-report-content-why-reporting-this =
@@ -539,3 +565,9 @@ newtab-promo-card-cta = Issin ugar
 newtab-promo-card-dismiss-button =
     .title = Zgel
     .aria-label = Zgel
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

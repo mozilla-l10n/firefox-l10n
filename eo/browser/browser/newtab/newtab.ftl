@@ -312,6 +312,15 @@ newtab-custom-shortcuts-toggle =
     .description = Retejoj konservitaj aŭ vizititaj de vi
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] unu vico
+           *[other] { $num } vicoj
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] unu vico
@@ -358,6 +367,8 @@ newtab-wallpaper-title = Ekranfonoj
 newtab-wallpaper-reset = Reŝargi normajn valorojn
 newtab-wallpaper-upload-image = Alŝuti bildon
 newtab-wallpaper-custom-color = Elekti koloron
+newtab-wallpaper-toggle-title =
+    .label = Ekranfonoj
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La grando de la bildo superas la maksimuman grandon de dosiero, kiu estas { $file_size }MO. Bonvolu provi alŝuti pli etan dosieron.

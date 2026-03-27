@@ -322,6 +322,16 @@ newtab-custom-shortcuts-toggle =
     .description = Uložené nebo navštěvované stránky
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } řádek
+            [few] { $num } řádky
+           *[other] { $num } řádků
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } řádek
@@ -369,6 +379,8 @@ newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnovit výchozí nastavení
 newtab-wallpaper-upload-image = Nahrát obrázek
 newtab-wallpaper-custom-color = Vybrat barvu
+newtab-wallpaper-toggle-title =
+    .label = Tapety
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obrázek překročil limit velikosti souboru { $file_size } MB. Zkuste nahrát menší soubor.

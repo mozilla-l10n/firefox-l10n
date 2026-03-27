@@ -27,6 +27,8 @@ non-technical-privacy-header = Predvoľby ochrany súkromia na webových stránk
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Nastavenia
+category-nav-heading =
+    .heading = Nastavenia
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Váš prehliadač je spravovaný vašou organizáciou.
 managed-notice-info-icon =
     .alt = Informácia
+managed-notice-nav =
+    .label = Váš prehliadač je spravovaný vašou organizáciou.
 category-list =
     .aria-label = Kategórie
 pane-general-title = Všeobecné
@@ -2069,6 +2073,9 @@ collection-health-report-telemetry-disabled = Odosielanie technických údajov a
 collection-health-report-telemetry-disabled-link = Ďalšie informácie
 backup-multi-profile-warning-message =
     .message = Ak chcete zabezpečiť, aby sa táto zmena zahrnula do vašich záloh, otvorte každý profil a v Nastaveniach vyberte možnosť “Zálohovať teraz”.
+addon-recommendations3 =
+    .label = Povoliť prispôsobené odporúčania rozšírení
+    .description = Získajte odporúčania na rozšírenia, ktoré zlepšujú zážitok z prehliadania.
 collection-usage-ping =
     .label = Odosielať ping denného používania { -vendor-short-name(case: "gen") }
     .accesskey = l
@@ -2114,6 +2121,27 @@ privacy-segmentation-radio-off =
     .label = Použiť odporúčania { -brand-product-name(case: "gen") }
 privacy-segmentation-radio-on =
     .label = Zobraziť podrobné informácie
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Zber a použitie údajov o aplikácii { -brand-short-name }
+    .description = Snažíme sa poskytnúť vám možnosti a zhromažďovať len minimum údajov potrebných na zlepšenie { -brand-product-name(case: "gen") } pre každého.
+    .searchkeywords = telemetria
+data-collection-link = Zobraziť Vyhlásenie o ochrane osobných údajov
+data-collection-preferences-across-profiles =
+    .message = Tieto nastavenia platia pre každý profil { -brand-product-name(case: "gen") } na tomto zariadení.
+data-collection-profiles-link = Zobraziť všetky profily
+data-collection-health-report-telemetry-disabled =
+    .message = Odosielanie technických údajov a údajov o interakciách spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
+data-collection-health-report =
+    .label = Odosielať { -vendor-short-name(case: "dat") } technické údaje a údaje o interakciách
+    .accesskey = t
+    .description = Pomáha nám to zlepšovať funkcie, výkon a stabilitu { -brand-product-name(case: "gen") }.
+data-collection-studies-link =
+    .label = Zobraziť štúdie aplikácie { -brand-short-name }
+data-collection-usage-ping =
+    .label = Odosielať ping denného používania { -vendor-short-name(case: "gen") }
+    .description = Toto pomáha spoločnosti { -vendor-short-name } odhadnúť počet aktívnych používateľov.
+    .accesskey = l
 
 ## Privacy Section - Website Advertising Preferences
 

@@ -315,6 +315,15 @@ newtab-custom-shortcuts-toggle =
     .description = Sitos chi as sarvadu o bisitadu
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } riga
+           *[other] { $num } rigas
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } riga
@@ -361,6 +370,8 @@ newtab-wallpaper-title = Isfundos de ischermu
 newtab-wallpaper-reset = Ripristina comente predefinidu
 newtab-wallpaper-upload-image = Càrriga un’immàgine
 newtab-wallpaper-custom-color = Sèbera unu colore
+newtab-wallpaper-toggle-title =
+    .label = Isfundos de ischermu
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = S’immàgine bàrigat su lìmite de mannària de archìviu de { $file_size } MB. Torra·nche a proare carrighende un’archìviu prus piticu.

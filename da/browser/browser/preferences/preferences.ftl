@@ -24,6 +24,8 @@ non-technical-privacy-header = Privatlivsindstillinger for websted
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Indstillinger
+category-nav-heading =
+    .heading = Indstillinger
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -38,6 +40,8 @@ search-input-box2 =
 managed-notice = Din browser bliver forvaltet af din organisation.
 managed-notice-info-icon =
     .alt = Information
+managed-notice-nav =
+    .label = Din browser bliver forvaltet af din organisation.
 category-list =
     .aria-label = Kategorier
 pane-general-title = Generelt
@@ -1995,6 +1999,9 @@ collection-description = Vi stræber efter at give dig mulighed for selv at væl
 collection-privacy-notice = Privatlivserklæring
 collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
 collection-health-report-telemetry-disabled-link = Læs mere
+addon-recommendations3 =
+    .label = Tillad tilpassede anbefalinger af udvidelser
+    .description = Få anbefalinger om udvidelser, der kan forbedre din oplevelse på nettet.
 collection-usage-ping =
     .label = Send ping for dagligt brug til { -vendor-short-name }
     .accesskey = b
@@ -2040,6 +2047,27 @@ privacy-segmentation-radio-off =
     .label = Brug { -brand-product-name }-anbefalinger
 privacy-segmentation-radio-on =
     .label = Vis detaljeret information
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Indsamling og brug af data i { -brand-short-name }
+    .description = Vi stræber efter at give dig mulighed for at vælge og indsamler kun data, der er nødvendige for at forbedre { -brand-product-name } for alle.
+    .searchkeywords = telemetry
+data-collection-link = Se privatlivserklæring
+data-collection-preferences-across-profiles =
+    .message = Disse indstillinger vil gælde alle { -brand-product-name }-profiler på denne enhed.
+data-collection-profiles-link = Vis alle profiler
+data-collection-health-report-telemetry-disabled =
+    .message = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
+data-collection-health-report =
+    .label = Send tekniske data og data om brug til { -vendor-short-name }
+    .accesskey = r
+    .description = Dette hjælper os med at forbedre funktionerne i { -brand-product-name } samt ydelse og stabilitet.
+data-collection-studies-link =
+    .label = Vis { -brand-short-name }-undersøgelser
+data-collection-usage-ping =
+    .label = Send ping for dagligt brug til { -vendor-short-name }
+    .description = Dette hjælper { -vendor-short-name } med at vurdere antallet af aktive brugere.
+    .accesskey = b
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -2292,3 +2320,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+

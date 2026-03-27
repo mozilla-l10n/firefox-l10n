@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Sempre
 settings-page-title = Paràmetres
+category-nav-heading =
+    .heading = Paràmetres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Cerca en els paràmetres
 managed-notice = El navegador està gestionat per la vostra organització.
+managed-notice-nav =
+    .label = El navegador està gestionat per la vostra organització.
 category-list =
     .aria-label = Categories
 pane-general-title = General
@@ -1173,6 +1177,10 @@ addon-recommendations-link = Més informació
 collection-health-report-disabled = L'informe de dades està desactivat en la configuració d'esta versió
 collection-backlogged-crash-reports-with-link = Permet que el { -brand-short-name } envie els informes de fallada pendents automàticament <a data-l10n-name="crash-reports-link">Més informació</a>
     .accesskey = f
+data-collection-health-report-telemetry-disabled =
+    .message = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'ací a 30 dies.
+data-collection-studies-link =
+    .label = Mostra els estudis del { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

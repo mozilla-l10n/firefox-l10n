@@ -815,6 +815,8 @@ collection-studies-link = Papar kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi binaan ini
+data-collection-studies-link =
+    .label = Papar kajian { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

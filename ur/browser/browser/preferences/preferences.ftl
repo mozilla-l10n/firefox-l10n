@@ -7,7 +7,11 @@ do-not-track-learn-more = مزید سیکھیں
 do-not-track-option-always =
     .label = ہمیشہ
 settings-page-title = سیٹنگ
+category-nav-heading =
+    .heading = سیٹنگ
 managed-notice = آپ کا براؤزر آپ کی تنظیم کے زیر انتظام ہے۔
+managed-notice-nav =
+    .label = آپ کا براؤزر آپ کی تنظیم کے زیر انتظام ہے۔
 category-list =
     .aria-label = زمرہ جات
 pane-general-title = عمومی
@@ -1015,6 +1019,8 @@ collection-health-report-telemetry-disabled-link = مزید سیکھیں
 collection-health-report-link = مزید سیکھیں
 collection-studies-link = { -brand-short-name } کی مطالعات دیکھیں
 addon-recommendations-link = مزید سیکھیں
+data-collection-studies-link =
+    .label = { -brand-short-name } کی مطالعات دیکھیں
 
 ## Privacy Section - Website Advertising Preferences
 

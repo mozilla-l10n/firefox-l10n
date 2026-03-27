@@ -73,6 +73,9 @@ newtab-topsites-image-url-label = Prilagođeni URL slike
 newtab-topsites-use-image-link = Koristi prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušaj jedan drugi URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Odustani
@@ -311,6 +314,16 @@ newtab-custom-shortcuts-toggle =
     .description = Stranice koje spremiš ili posjetiš
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } redak
+            [few] { $num } retka
+           *[other] { $num } redaka
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } redak
@@ -358,6 +371,8 @@ newtab-wallpaper-title = Pozadine
 newtab-wallpaper-reset = Obnovi na standardnu pozadinu
 newtab-wallpaper-upload-image = Prenesi sliku
 newtab-wallpaper-custom-color = Odaberi boju
+newtab-wallpaper-toggle-title =
+    .label = Pozadine
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Slika premašuje ograničenje veličine datoteke od { $file_size } MB. Pokušaj prenijeti manju datoteku.

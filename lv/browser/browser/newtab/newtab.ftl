@@ -67,6 +67,9 @@ newtab-topsites-image-url-label = Pielāgota attēla adrese
 newtab-topsites-use-image-link = Izmantot pielāgotu attēlu…
 newtab-topsites-image-validation = Neizdevās ielādēt attēlu. Izmēģiniet citu adresi.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Atcelt
@@ -84,6 +87,9 @@ newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Apmaksāts
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -126,6 +132,9 @@ newtab-menu-section-block = Bloķēt
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Pārtraukt sekot tēmai
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -286,6 +295,16 @@ newtab-custom-shortcuts-toggle =
     .description = Saglabātās vai apmeklētās vietnes
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [zero] { $num } rinda
+            [one] { $num } rindas
+           *[other] { $num } rindu
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [zero] { $num } rinda
@@ -312,6 +331,8 @@ newtab-custom-settings = Pārvaldīt vairāk iestatījumu
 
 newtab-wallpaper-title = Tapetes
 newtab-wallpaper-reset = Atiestatīt uz noklusējumu
+newtab-wallpaper-toggle-title =
+    .label = Tapetes
 newtab-wallpaper-light-red-panda = Sarkana panda
 newtab-wallpaper-light-mountain = Balts kalns
 newtab-wallpaper-light-sky = Debesis ar violetiem un rozā mākoņiem
@@ -379,6 +400,12 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -464,6 +491,39 @@ newtab-section-follow-button = Sekot
 newtab-section-following-button = Seko
 newtab-section-unfollow-button = Pārtraukt sekošanu
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Ne tagad
+
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

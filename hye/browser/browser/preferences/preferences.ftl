@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Միշտ
 settings-page-title = Կարգաւորումներ
+category-nav-heading =
+    .heading = Կարգաւորումներ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Փնտրել կարգաւորումներում
 managed-notice = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
+managed-notice-nav =
+    .label = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
 category-list =
     .aria-label = Անուանակարգեր
 pane-general-title = Ընդհանուր
@@ -1245,6 +1249,10 @@ addon-recommendations-link = Իմանալ աւելին
 collection-health-report-disabled = Տուեալների զեկուցումը անջատուած է կազմաձեւի այս կառուցման համար
 collection-backlogged-crash-reports-with-link = Թոյլ տալ { -brand-short-name }-ին Ձեր անունից զեկոյցներ ներկայացնել խափանումների վերաբերեալ <a data-l10n-name="crash-reports-link"> Իմանալ աւելին </a>
     .accesskey = թ
+data-collection-health-report-telemetry-disabled =
+    .message = Դուք այլեւս թոյլ չեք տալիս՝{ -vendor-short-name }֊ին գրաւել տեխնիկական եւ միջազգային միջնորդութեան տուեալները։ Անցեալ բոլոր տուեալները կը ջնջուեն 30 աւրուայ ընթացքում։
+data-collection-studies-link =
+    .label = Դիտել { -brand-short-name }-ի հետազոտութիւնները
 
 ## Privacy Section - Website Advertising Preferences
 

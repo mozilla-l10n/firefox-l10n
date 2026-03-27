@@ -27,6 +27,8 @@ non-technical-privacy-header = Tùy chọn riêng tư trang web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Cài đặt
+category-nav-heading =
+    .heading = Cài đặt
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
 managed-notice-info-icon =
     .alt = Thông tin
+managed-notice-nav =
+    .label = Trình duyệt của bạn đang được quản lý bởi tổ chức của bạn.
 category-list =
     .aria-label = Thể loại
 pane-general-title = Tổng quát
@@ -2056,6 +2060,9 @@ collection-health-report-telemetry-disabled = Bạn không còn cho phép { -ven
 collection-health-report-telemetry-disabled-link = Tìm hiểu thêm
 backup-multi-profile-warning-message =
     .message = Để đảm bảo thay đổi này được sao lưu, hãy mở từng hồ sơ và chọn “Sao lưu ngay” trong Cài đặt.
+addon-recommendations3 =
+    .label = Cho phép các đề xuất tiện ích mở rộng được cá nhân hoá
+    .description = Nhận đề xuất tiện ích mở rộng để cải thiện trải nghiệm duyệt web của bạn.
 collection-usage-ping =
     .label = Gửi ping sử dụng hàng ngày đến { -vendor-short-name }
     .accesskey = u
@@ -2101,6 +2108,27 @@ privacy-segmentation-radio-off =
     .label = Sử dụng các đề xuất của { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Hiển thị thông tin chi tiết
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Thu thập và sử dụng dữ liệu { -brand-short-name }
+    .description = Chúng tôi cố gắng cung cấp cho bạn các lựa chọn và chỉ thu thập dữ liệu tối thiểu cần thiết để cải thiện { -brand-product-name } cho mọi người.
+    .searchkeywords = thu thập
+data-collection-link = Xem thông báo về quyền riêng tự
+data-collection-preferences-across-profiles =
+    .message = Những thiết lập này áp dụng cho tất cả hồ sơ { -brand-product-name } trên thiết bị này.
+data-collection-profiles-link = Xem tất cả hồ sơ
+data-collection-health-report-telemetry-disabled =
+    .message = Bạn không còn cho phép { -vendor-short-name } thu thập dữ liệu kỹ thuật và tương tác. Tất cả dữ liệu trong quá khứ sẽ bị xóa trong vòng 30 ngày.
+data-collection-health-report =
+    .label = Gửi dữ liệu kỹ thuật và tương tác đến { -vendor-short-name }
+    .accesskey = r
+    .description = Điều này giúp chúng tôi cải thiện các tính năng, hiệu suất và ổn định của { -brand-product-name }.
+data-collection-studies-link =
+    .label = Xem nghiên cứu { -brand-short-name }
+data-collection-usage-ping =
+    .label = Gửi ping sử dụng hàng ngày đến { -vendor-short-name }
+    .description = Điều này giúp { -vendor-short-name } ước tính số người dùng đang hoạt động.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

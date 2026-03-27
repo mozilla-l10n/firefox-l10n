@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = ᱡᱟᱣᱜᱮ
 settings-page-title = ᱥᱟᱡᱟᱣ ᱠᱚ
+category-nav-heading =
+    .heading = ᱥᱟᱡᱟᱣ ᱠᱚ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = ᱥᱟᱡᱟᱣ ᱨᱮ ᱯᱟᱱᱛᱮ ᱢᱮ
 managed-notice = ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱟᱢ ᱜᱟᱶᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱮᱫᱟᱭ ᱾
+managed-notice-nav =
+    .label = ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱟᱢ ᱜᱟᱶᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱮᱫᱟᱭ ᱾
 category-list =
     .aria-label = ᱛᱷᱚᱠᱠᱚ
 pane-general-title = ᱥᱟᱫᱷᱟᱨᱚᱱ
@@ -1317,6 +1321,10 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+data-collection-health-report-telemetry-disabled =
+    .message = ᱟᱢ { -vendor-short-name } ᱴᱮᱠᱱᱤᱠᱟᱞ ᱟᱨ ᱤᱱᱴᱟᱨᱟᱠᱥᱚᱱ ᱰᱟᱴᱟ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱟᱱᱟ ᱮᱱᱟᱢ ᱾ 30 ᱫᱤᱱ ᱢᱟᱲᱟᱝ ᱨᱮ ᱡᱚᱛᱚ ᱯᱟᱹᱦᱤᱞ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾
+data-collection-studies-link =
+    .label = { -brand-short-name } ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱧᱮᱞ ᱢᱮ
 
 ## Privacy Section - Website Advertising Preferences
 

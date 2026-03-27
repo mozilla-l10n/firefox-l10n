@@ -20,6 +20,8 @@ non-technical-privacy-header = Preferencis pe riservatece dai sîts web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Impostazions
+category-nav-heading =
+    .heading = Impostazions
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Il to navigadôr al ven gjestît de tô organizazion.
 managed-notice-info-icon =
     .alt = Informazion
+managed-notice-nav =
+    .label = Il to navigadôr al ven gjestît de tô organizazion.
 category-list =
     .aria-label = Categoriis
 pane-general-title = Gjenerâl
@@ -1927,6 +1931,9 @@ collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e 
 collection-privacy-notice = Informative su la riservatece
 collection-health-report-telemetry-disabled = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
 collection-health-report-telemetry-disabled-link = Plui informazions
+addon-recommendations3 =
+    .label = Permet racomandazions personalizadis su lis estensions
+    .description = Ricêf conseis su estensions che ti permetin di miorâ la tô esperience di navigazion.
 collection-usage-ping =
     .label = Mande ping di utilizazion zornaliere a { -vendor-short-name }
     .accesskey = u
@@ -1969,6 +1976,27 @@ privacy-segmentation-radio-off =
     .label = Dopre lis impostazions conseadis di { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostre informazions detaiadis
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Racuelte e utilizazion dâts di { -brand-short-name }
+    .description = O combatìn par dâti la pussibilitât di sielzi e i tirìn sù dome i minims dâts necessaris par miorâ { -brand-product-name } par ducj.
+    .searchkeywords = telemetrie
+data-collection-link = Viôt la informative su la riservatece
+data-collection-preferences-across-profiles =
+    .message = Chestis impostazions a vegnin aplicadis a ducj i profîi di { -brand-product-name } su chest dispositîf.
+data-collection-profiles-link = Viôt ducj i profîi
+data-collection-health-report-telemetry-disabled =
+    .message = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.
+data-collection-health-report =
+    .label = Mande dâts tecnics e di interazion a { -vendor-short-name }
+    .accesskey = r
+    .description = Chest nus jude a miorâ funzionalitâts, prestazions e stabilitât di { -brand-product-name }
+data-collection-studies-link =
+    .label = Visualize i studis di { -brand-short-name }
+data-collection-usage-ping =
+    .label = Mande ping di utilizazion zornaliere a { -vendor-short-name }
+    .description = Chest al permet a { -vendor-short-name } di stimâ il numar di utents atîfs.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

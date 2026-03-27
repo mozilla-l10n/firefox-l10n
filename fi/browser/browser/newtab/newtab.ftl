@@ -320,6 +320,15 @@ newtab-custom-shortcuts-toggle =
     .description = Tallentamasi tai vierailemasi sivustot
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } rivi
+           *[other] { $num } riviä
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } rivi
@@ -366,6 +375,8 @@ newtab-wallpaper-title = Taustakuvat
 newtab-wallpaper-reset = Palauta oletusarvo
 newtab-wallpaper-upload-image = Lähetä kuva
 newtab-wallpaper-custom-color = Valitse väri
+newtab-wallpaper-toggle-title =
+    .label = Taustakuvat
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Kuvan koko ylitti tiedostokokorajan { $file_size } Mt. Yritä ladata pienempi tiedosto.

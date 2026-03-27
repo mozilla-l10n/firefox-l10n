@@ -20,6 +20,8 @@ non-technical-privacy-header = Preferencias de privacidade do sitio web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Configuración
+category-nav-heading =
+    .heading = Configuración
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = O seu navegador está a ser xestionado pola súa organización.
 managed-notice-info-icon =
     .alt = Información
+managed-notice-nav =
+    .label = O seu navegador está a ser xestionado pola súa organización.
 category-list =
     .aria-label = Categorías
 pane-general-title = Xeral
@@ -1542,6 +1546,9 @@ collection-description = Esforzámonos para darlle opcións e recoller só aquil
 collection-privacy-notice = Política de privacidade
 collection-health-report-telemetry-disabled = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
 collection-health-report-telemetry-disabled-link = Máis información
+addon-recommendations3 =
+    .label = Permitir recomendacións personalizadas de extensións
+    .description = Obtén recomendacións de extensións para mellorar a túa experiencia de navegación.
 collection-usage-ping =
     .label = Enviar ping de uso diario a { -vendor-short-name }
     .accesskey = u
@@ -1584,6 +1591,27 @@ privacy-segmentation-radio-off =
     .label = Usar as recomendacións de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar información detallada
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } Recollida e uso de datos
+    .description = Esforzámonos por ofrecerche opcións e recompilar só os datos mínimos necesarios para mellorar { -brand-product-name } para todos.
+    .searchkeywords = telemetría
+data-collection-link = Ver o aviso de privacidade
+data-collection-preferences-across-profiles =
+    .message = Esta configuración aplícase a todos os perfís de { -brand-product-name } deste dispositivo.
+data-collection-profiles-link = Ver todos os perfís
+data-collection-health-report-telemetry-disabled =
+    .message = Xa non permite que o { -vendor-short-name } capure datos técnicos e de interacción. Todos os datos pasados eliminaranse nun prazo de 30 días.
+data-collection-health-report =
+    .label = Enviar datos técnicos e de interacción a { -vendor-short-name }
+    .accesskey = r
+    .description = Isto axúdanos a mellorar as funcións, o rendemento e a estabilidade de { -brand-product-name }.
+data-collection-studies-link =
+    .label = Ver os estudos de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Enviar ping de uso diario a { -vendor-short-name }
+    .description = Isto axuda a { -vendor-short-name } a estimar os usuarios activos.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

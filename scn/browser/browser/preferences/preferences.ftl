@@ -19,9 +19,13 @@ non-technical-privacy-header = Prifirenzi di privatizza dî siti web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Cuntrollu Glubbali dâ Privatizza (GPC)
 settings-page-title = Paràmitri
+category-nav-heading =
+    .heading = Paràmitri
 managed-notice = U to navicaturi è manijatu dâ to urganizzazzioni.
 managed-notice-info-icon =
     .alt = Nfurmazzioni
+managed-notice-nav =
+    .label = U to navicaturi è manijatu dâ to urganizzazzioni.
 category-list =
     .aria-label = Catigurìi
 pane-general-title = Ginirali
@@ -1023,6 +1027,10 @@ addon-recommendations-link = Cchiù nfurmazzioni
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = A signalijazzioni di dati è sdisabbilitata nnâ cunfijurazzioni di sta virsiuni
+data-collection-health-report-telemetry-disabled =
+    .message = Nun sta’ pirmittennu cchiù a { -vendor-short-name } di cògghiri dati tècnici e supra ê ntirazzioni. Tutti i dati vecchi sarannu scancillati nna 30 jorna.
+data-collection-studies-link =
+    .label = Talìa studi di { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

@@ -312,6 +312,16 @@ newtab-custom-shortcuts-toggle =
     .description = Сачувани или посећени сајтови
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } ред
+            [few] { $num } реда
+           *[other] { $num } редова
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } ред
@@ -359,6 +369,8 @@ newtab-wallpaper-title = Позадине
 newtab-wallpaper-reset = Врати на подразумевано
 newtab-wallpaper-upload-image = Отпреми слику
 newtab-wallpaper-custom-color = Изабери боју
+newtab-wallpaper-toggle-title =
+    .label = Позадине
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Слика је премашила ограничење величине датотеке од { $file_size } MB. Покушајте да отпремите мању датотеку.

@@ -316,6 +316,15 @@ newtab-custom-shortcuts-toggle =
     .description = Bewarre of besochte websites
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } rige
+           *[other] { $num } rigen
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } rige
@@ -362,6 +371,8 @@ newtab-wallpaper-title = Eftergrûnen
 newtab-wallpaper-reset = Standertwearden
 newtab-wallpaper-upload-image = In ôfbylding oplade
 newtab-wallpaper-custom-color = Kies in kleur
+newtab-wallpaper-toggle-title =
+    .label = Eftergrûnen
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = De ôfbylding giet oer de limyt fan { $file_size } MB. Probearje in lytser bestân op te laden.

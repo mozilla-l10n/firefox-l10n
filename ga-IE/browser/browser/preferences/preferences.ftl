@@ -7,6 +7,8 @@ do-not-track-learn-more = Tuilleadh eolais
 do-not-track-option-always =
     .label = I gCónaí
 settings-page-title = Socruithe
+category-nav-heading =
+    .heading = Socruithe
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #

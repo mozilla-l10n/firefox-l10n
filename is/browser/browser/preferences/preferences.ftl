@@ -20,6 +20,8 @@ non-technical-privacy-header = Persónuverndarstefna vefsvæðis
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Stillingar
+category-nav-heading =
+    .heading = Stillingar
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Vafranum er stjórnað af kerfisstjórum þínum.
 managed-notice-info-icon =
     .alt = Upplýsingar
+managed-notice-nav =
+    .label = Vafranum er stjórnað af kerfisstjórum þínum.
 category-list =
     .aria-label = Flokkar
 pane-general-title = Almennt
@@ -1586,6 +1590,9 @@ collection-description = Við reynum alltaf að bjóða upp á valkosti og söfn
 collection-privacy-notice = Meðferð persónuupplýsinga
 collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
 collection-health-report-telemetry-disabled-link = Frekari upplýsingar
+addon-recommendations3 =
+    .label = Leyfa persónusniðnar ráðleggingar um forritsauka
+    .description = Fáðu ráðleggingar um forritsauka til að bæta notkun þína við vafur.
 collection-usage-ping =
     .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
     .accesskey = u
@@ -1628,6 +1635,26 @@ privacy-segmentation-radio-off =
     .label = Nota ráðleggingar frá { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sýna nánari upplýsingar
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Söfnun og notkun gagna í { -brand-short-name }
+    .description = Við kappkostum að veita þér valkosti og söfnum aðeins þeim lágmarksgögnum sem nauðsynleg eru til að bæta { -brand-product-name } fyrir alla.
+    .searchkeywords = gagnasöfnun
+data-collection-link = Skoða upplýsingar um meðferð persónuupplýsinga
+data-collection-preferences-across-profiles =
+    .message = Þessar stillingar eiga við um öll { -brand-product-name } notkunarsnið á þessu tæki.
+data-collection-health-report-telemetry-disabled =
+    .message = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
+data-collection-health-report =
+    .label = Senda tækni- og samskiptagögn til { -vendor-short-name }
+    .accesskey = n
+    .description = Þetta hjálpar okkur að bæta eiginleika, afköst og stöðugleika í { -brand-product-name }.
+data-collection-studies-link =
+    .label = Skoða rannsóknir frá { -brand-short-name }
+data-collection-usage-ping =
+    .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
+    .description = Þetta hjálpar { -vendor-short-name } að áætla virka notendur.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

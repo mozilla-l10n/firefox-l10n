@@ -315,6 +315,15 @@ newtab-custom-shortcuts-toggle =
     .description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } რიგი
+           *[other] { $num } რიგი
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } რიგი
@@ -361,6 +370,8 @@ newtab-wallpaper-title = ფონები
 newtab-wallpaper-reset = ნაგულისხმევზე ჩამოყრა
 newtab-wallpaper-upload-image = სურათის ატვირთვა
 newtab-wallpaper-custom-color = ფერის არჩევა
+newtab-wallpaper-toggle-title =
+    .label = ფონები
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = სურათის ფაილის ზომა აღემატება ზღვარს { $file_size }ᲛᲑ. გთხოვთ, სცადოთ უფრო მცირე ფაილის ატვირთვა.

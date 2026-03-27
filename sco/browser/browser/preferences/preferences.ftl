@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Ayeweys
 settings-page-title = Settins
+category-nav-heading =
+    .heading = Settins
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Airt-oot in Settins
 managed-notice = Yer stravaiger is bein managed by yer organisation.
+managed-notice-nav =
+    .label = Yer stravaiger is bein managed by yer organisation.
 category-list =
     .aria-label = Categories
 pane-general-title = General
@@ -1175,6 +1179,10 @@ addon-recommendations-link = Lairn mair
 collection-health-report-disabled = Data reportin is disabled fur this build confeeguration
 collection-backlogged-crash-reports-with-link = Alloo { -brand-short-name } tae send backlogged crash reports on yer behauf <a data-l10n-name="crash-reports-link">Lairn mair</a>
     .accesskey = c
+data-collection-health-report-telemetry-disabled =
+    .message = Ye're nae langer lattin { -vendor-short-name } captur technical and interaction data. Aw bygane data will be dichtit within 30 days.
+data-collection-studies-link =
+    .label = View { -brand-short-name } studies
 
 ## Privacy Section - Website Advertising Preferences
 

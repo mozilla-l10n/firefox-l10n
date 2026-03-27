@@ -7,7 +7,11 @@ do-not-track-learn-more = और अधिक जानें
 do-not-track-option-always =
     .label = हमेशा
 settings-page-title = सेटिंग
+category-nav-heading =
+    .heading = सेटिंग
 managed-notice = आपके ब्राउज़र को आपके संगठन द्वारा प्रबंधित किया जा रहा है।
+managed-notice-nav =
+    .label = आपके ब्राउज़र को आपके संगठन द्वारा प्रबंधित किया जा रहा है।
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
@@ -991,6 +995,8 @@ addon-recommendations-link = और जानें
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = इस निर्मित विन्यास के लिए डेटा रिपोर्टिंग को असक्रिय किया हैं
+data-collection-studies-link =
+    .label = { -brand-short-name } अध्ययन देखें
 
 ## Privacy Section - Website Advertising Preferences
 

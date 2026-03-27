@@ -316,6 +316,14 @@ newtab-custom-shortcuts-toggle =
     .description = Các trang web bạn lưu hoặc truy cập
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+           *[other] { $num } hàng
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
        *[other] { $num } hàng
@@ -361,6 +369,8 @@ newtab-wallpaper-title = Hình nền
 newtab-wallpaper-reset = Đặt lại về mặc định
 newtab-wallpaper-upload-image = Tải lên một ảnh
 newtab-wallpaper-custom-color = Chọn màu
+newtab-wallpaper-toggle-title =
+    .label = Hình nền
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Hình ảnh vượt quá giới hạn kích thước tập tin { $file_size }MB. Vui lòng thử tải lên một tập tin nhỏ hơn.

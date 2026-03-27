@@ -20,6 +20,8 @@ non-technical-privacy-header = Ismenyifen n tbaḍnit n yismal web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Iɣewwaren
+category-nav-heading =
+    .heading = Iɣewwaren
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Iminig-ik tessefrak-it tuddsa-ik.
 managed-notice-info-icon =
     .alt = Talɣut
+managed-notice-nav =
+    .label = Iminig-ik tessefrak-it tuddsa-ik.
 category-list =
     .aria-label = Taggayin
 pane-general-title = Amatu
@@ -1542,6 +1546,14 @@ privacy-segmentation-radio-off =
     .label = Seqdec iwellihen n { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Sken Talɣut leqqayen
+data-collection-link = Wali tasertit n tbaḍnit
+data-collection-preferences-across-profiles =
+    .message = Iɣewwaren-a ttwasnasen ɣef meṛṛa imaɣnuten n { -brand-product-name } ɣef yibenk-a.
+data-collection-profiles-link = Sken akk imaɣnuten
+data-collection-health-report-telemetry-disabled =
+    .message = Ur tezgiḍ teǧǧiḍ { -vendor-short-name } ad d-yelqeḍ isefka itiknikanen akked wid n temyigawt. Meṛṛa isefka yezrin ad ttwakksen deg 30 n wussan.
+data-collection-studies-link =
+    .label = Wali tizrawin n { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

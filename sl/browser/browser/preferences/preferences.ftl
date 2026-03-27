@@ -24,6 +24,8 @@ non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Nastavitve
+category-nav-heading =
+    .heading = Nastavitve
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -38,6 +40,8 @@ search-input-box2 =
 managed-notice = Vaš brskalnik upravlja vaša organizacija.
 managed-notice-info-icon =
     .alt = Informacije
+managed-notice-nav =
+    .label = Vaš brskalnik upravlja vaša organizacija.
 category-list =
     .aria-label = Kategorije
 pane-general-title = Splošno
@@ -2012,6 +2016,9 @@ collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo t
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report-telemetry-disabled = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.
 collection-health-report-telemetry-disabled-link = Več o tem
+addon-recommendations3 =
+    .label = Dovoli osebno prilagojena priporočila razširitev
+    .description = Prejemajte priporočila za razširitve, ki bi vam izboljšale izkušnjo brskanja.
 collection-usage-ping =
     .label = Pošlji { -vendor-short-name(sklon: "dajalnik") } ping za dnevno uporabo
     .accesskey = u
@@ -2055,6 +2062,27 @@ privacy-segmentation-radio-off =
     .label = Uporabi priporočila { -brand-product-name(sklon: "rodilnik") }
 privacy-segmentation-radio-on =
     .label = Prikaži podrobne informacije
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Zbiranje in uporaba podatkov v { -brand-short-name(sklon: "mestnik") }
+    .description = Trudimo se vam ponuditi izbiro in zbirati minimalno količino podatkov, ki jih potrebujemo za izboljševanje { -brand-product-name(sklon: "rodilnik") }.
+    .searchkeywords = telemetrija
+data-collection-link = Ogled obvestila o zasebnosti
+data-collection-preferences-across-profiles =
+    .message = Te nastavitve veljajo za vse profile { -brand-product-name(sklon: "rodilnik") } v tej napravi.
+data-collection-profiles-link = Prikaži vse profile
+data-collection-health-report-telemetry-disabled =
+    .message = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.
+data-collection-health-report =
+    .label = Pošiljaj { -vendor-short-name(sklon: "dajalnik") } tehnične in interakcijske podatke
+    .accesskey = r
+    .description = To nam pomaga izboljšati lastnosti, zmogljivost in zanesljivost { -brand-product-name(sklon: "rodilnik") }.
+data-collection-studies-link =
+    .label = Prikaži raziskave { -brand-short-name(sklon: "rodilnik") }
+data-collection-usage-ping =
+    .label = Pošlji { -vendor-short-name(sklon: "dajalnik") } ping za dnevno uporabo
+    .description = To { -vendor-short-name(sklon: "dajalnik") } pomaga oceniti število aktivnih uporabnikov.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -2291,3 +2319,6 @@ preferences-etp-custom-cookies-enabled =
     .label = Piškotki
 preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
+
+## Warnings section
+

@@ -27,6 +27,8 @@ non-technical-privacy-header = Personverninnstillingar for nettstaden
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Innstillingar
+category-nav-heading =
+    .heading = Innstillingar
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Nettlessaren din vert administrert av organisasjonen din.
 managed-notice-info-icon =
     .alt = Informasjon
+managed-notice-nav =
+    .label = Nettlessaren din vert administrert av organisasjonen din.
 category-list =
     .aria-label = Kategoriar
 pane-general-title = Generelt
@@ -2072,6 +2076,9 @@ collection-health-report-telemetry-disabled = Du tillèt ikkje lenger { -vendor-
 collection-health-report-telemetry-disabled-link = Les meir
 backup-multi-profile-warning-message =
     .message = For å sørgje for at denne endringa er inkludert i sikkerheitskopiane dine, opne kvar profil og vel «Sikkerheitskopier no» i Innstillingar.
+addon-recommendations3 =
+    .label = Tillat personleg tilpassa utvidingstilrådingar
+    .description = Få utvidingstilrådingar for å forbetre nettlesaropplevinga di.
 collection-usage-ping =
     .label = Send ping for dagleg bruk til { -vendor-short-name }
     .accesskey = e
@@ -2117,6 +2124,27 @@ privacy-segmentation-radio-off =
     .label = Bruk { -brand-product-name }-tilrådingar
 privacy-segmentation-radio-on =
     .label = Vis detaljert informasjon
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Datainnsamling og bruk for { -brand-short-name }
+    .description = Vi strevar etter å gi deg valmoglegheiter og samlar berre inn minimalt med data som er nødvendig for å forbetre { -brand-product-name } for alle.
+    .searchkeywords = telemetri
+data-collection-link = Vis personvernfråsegn
+data-collection-preferences-across-profiles =
+    .message = Desse innstillingane gjeld for alle { -brand-product-name }-profilane på denne eininga.
+data-collection-profiles-link = VIs alle profilar
+data-collection-health-report-telemetry-disabled =
+    .message = Du tillèt ikkje lenger { -vendor-short-name } å samle inn teknisk- og interaksjonsdata. Alle tidlegare data vil bli sletta innan 30 dagar.
+data-collection-health-report =
+    .label = Send tekniske data og data om bruk til { -vendor-short-name }
+    .accesskey = e
+    .description = Dette hjelper oss med å forbetre { -brand-product-name }-funksjonar, yting og stabilitet.
+data-collection-studies-link =
+    .label = Vis { -brand-short-name }-studium
+data-collection-usage-ping =
+    .label = Send ping for dagleg bruk til { -vendor-short-name }
+    .description = Dette hjelper { -vendor-short-name } med å berekne aktive brukarar.
+    .accesskey = e
 
 ## Privacy Section - Website Advertising Preferences
 

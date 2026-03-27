@@ -316,6 +316,15 @@ newtab-custom-shortcuts-toggle =
     .description = Websites, die Sie speichern oder besuchen
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } Zeile
+           *[other] { $num } Zeilen
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } Zeile
@@ -362,6 +371,8 @@ newtab-wallpaper-title = Hintergrundbilder
 newtab-wallpaper-reset = Standard wiederherstellen
 newtab-wallpaper-upload-image = Grafik hochladen
 newtab-wallpaper-custom-color = Farbe auswählen
+newtab-wallpaper-toggle-title =
+    .label = Hintergrundbilder
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Die Grafik hat die Größenbegrenzung von { $file_size } MB überschritten. Bitte versuchen Sie, eine kleinere Datei hochzuladen.

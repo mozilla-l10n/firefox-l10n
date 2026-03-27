@@ -317,6 +317,19 @@ newtab-custom-shortcuts-toggle =
     .description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [zero] { $num } rhesi
+            [one] { $num } rhes
+            [two] { $num } res
+            [few] { $num } rhes
+            [many] { $num } rhes
+           *[other] { $num } rhes
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [zero] { $num } rhesi
@@ -367,6 +380,8 @@ newtab-wallpaper-title = Papurau wal
 newtab-wallpaper-reset = Ailosod i'r rhagosodiad
 newtab-wallpaper-upload-image = Llwytho delwedd
 newtab-wallpaper-custom-color = Dewis lliw
+newtab-wallpaper-toggle-title =
+    .label = Papurau wal
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Mae'r ddelwedd yn fwy na'r terfyn maint ffeil { $file_size }MB. Ceisiwch lwytho ffeil lai.

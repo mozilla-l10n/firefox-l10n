@@ -314,6 +314,15 @@ newtab-custom-shortcuts-toggle =
     .description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [one] { $num } сатр
+           *[other] { $num } сатр
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } сатр
@@ -360,6 +369,8 @@ newtab-wallpaper-title = Тасвирҳои замина
 newtab-wallpaper-reset = Ба ҳолати пешфарз барқарор кунед
 newtab-wallpaper-upload-image = Бор кардани тасвир
 newtab-wallpaper-custom-color = Рангеро интихоб кунед
+newtab-wallpaper-toggle-title =
+    .label = Тасвирҳои замина
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Андозаи тасвир зиёда аз маҳдудияти андозаи файли { $file_size } МБ мебошад. Лутфан, кӯшиш кунед, ки файлеро бо андозаи хурдтар бор намоед.

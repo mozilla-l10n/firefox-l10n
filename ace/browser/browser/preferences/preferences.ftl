@@ -770,6 +770,8 @@ collection-studies-link = Kalön kajian { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Lapuran data meupeulèn keu build konfigurasi nyoe
+data-collection-studies-link =
+    .label = Kalön kajian { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

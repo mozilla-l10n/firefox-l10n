@@ -20,6 +20,8 @@ non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Setări
+category-nav-heading =
+    .heading = Setări
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Browserul este gestionat de organizația ta.
 managed-notice-info-icon =
     .alt = Informații
+managed-notice-nav =
+    .label = Browserul este gestionat de organizația ta.
 category-list =
     .aria-label = Categorii
 pane-general-title = General
@@ -1989,6 +1993,9 @@ collection-description = Ne străduim să îți oferim posibilitatea de a face a
 collection-privacy-notice = Notificare privind confidențialitatea
 collection-health-report-telemetry-disabled = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
 collection-health-report-telemetry-disabled-link = Află mai multe
+addon-recommendations3 =
+    .label = Permite recomandări personalizate pentru extensii
+    .description = Obține recomandări de extensii pentru a-ți îmbunătăți experiența de navigare.
 collection-usage-ping =
     .label = Trimite un ping de utilizare zilnică către { -vendor-short-name }
     .accesskey = u
@@ -2034,6 +2041,27 @@ privacy-segmentation-radio-off =
     .label = Folosește recomandările { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Afișează informații detaliate
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Colectarea și utilizarea de date în { -brand-short-name }
+    .description = Ne străduim să îți oferim opțiuni și să colectăm doar datele minime necesare pentru a îmbunătăți { -brand-product-name } pentru toți.
+    .searchkeywords = telemetrie
+data-collection-link = Vezi notificarea privind confidențialitatea
+data-collection-preferences-across-profiles =
+    .message = Setările se aplică fiecărui profil { -brand-product-name } de pe acest dispozitiv.
+data-collection-profiles-link = Vezi toate profilurile
+data-collection-health-report-telemetry-disabled =
+    .message = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
+data-collection-health-report =
+    .label = Trimite date tehnice și de interacțiune către { -vendor-short-name }
+    .accesskey = r
+    .description = Ne ajută să îmbunătățim funcționalitățile, performanța și stabilitatea { -brand-product-name }.
+data-collection-studies-link =
+    .label = Vezi studiile { -brand-short-name }
+data-collection-usage-ping =
+    .label = Trimite un ping de utilizare zilnică către { -vendor-short-name }
+    .description = Ajută { -vendor-short-name } să estimeze utilizatorii activi.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

@@ -27,6 +27,8 @@ non-technical-privacy-header = Веб-сайттың жекелік баптау
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Баптаулар
+category-nav-heading =
+    .heading = Баптаулар
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Браузеріңіз сіздің ұйымыңызбен басқаралады.
 managed-notice-info-icon =
     .alt = Ақпарат
+managed-notice-nav =
+    .label = Браузеріңіз сіздің ұйымыңызбен басқаралады.
 category-list =
     .aria-label = Санаттар
 pane-general-title = Жалпы
@@ -2072,6 +2076,9 @@ collection-health-report-telemetry-disabled = Сіз { -vendor-short-name } үш
 collection-health-report-telemetry-disabled-link = Көбірек білу
 backup-multi-profile-warning-message =
     .message = Бұл өзгерістің сақтық көшірмелерге енгізілгеніне көз жеткізу үшін әрбір профильді ашып, «Баптаулар» бөлімінен «Қазір сақтық көшірме жасау» командасын таңдаңыз.
+addon-recommendations3 =
+    .label = Жекелендірілген кеңейу ұсыныстарына рұқсат ету
+    .description = Шолу тәжірибесін жақсарту үшін кеңейтулер ұсыныстарын алыңыз.
 collection-usage-ping =
     .label = Күнделікті пайдалану ақпаратын { -vendor-short-name } адресіне жіберіп отыру
     .accesskey = й
@@ -2117,6 +2124,27 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ұсыныстарын қолдану
 privacy-segmentation-radio-on =
     .label = Толық ақпаратты көрсету
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } деректер жинауы және қолдануы
+    .description = Біз сізге таңдау беруге және { -brand-product-name } өнімін барлығы үшін жақсарту мақсатында қажетті минималды деректерді ғана жинауға тырысамыз.
+    .searchkeywords = телеметрия
+data-collection-link = Жекелік ескертуін қарау
+data-collection-preferences-across-profiles =
+    .message = Бұл параметрлер осы құрылғыдағы әрбір { -brand-product-name } профиліне іске асырылады.
+data-collection-profiles-link = Барлық профильдерді қарау
+data-collection-health-report-telemetry-disabled =
+    .message = Сіз { -vendor-short-name } үшін ешбір техникалық және әрекеттесу мәліметтерін жинауға енді рұқсат етпейсіз. Барлық бұрыңғы деректер 30 күннің ішінде өшірілетін болады.
+data-collection-health-report =
+    .label = Техникалық және өзара әрекеттесу деректерін { -vendor-short-name } адресіне жіберу
+    .accesskey = р
+    .description = Бұл { -brand-product-name } мүмкіндіктерін, өнімділігін және тұрақтылығын жақсартуға көмектеседі.
+data-collection-studies-link =
+    .label = { -brand-short-name } зерттеулерін қарау
+data-collection-usage-ping =
+    .label = Күнделікті пайдалану ақпаратын { -vendor-short-name } адресіне жіберіп отыру
+    .description = Бұл { -vendor-short-name } үшін белсенді пайдаланушылар санын бағалауға көмектеседі.
+    .accesskey = й
 
 ## Privacy Section - Website Advertising Preferences
 

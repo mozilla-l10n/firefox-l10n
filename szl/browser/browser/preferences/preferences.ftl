@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Dycki
 settings-page-title = Sztalōnki
+category-nav-heading =
+    .heading = Sztalōnki
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Znojdź we sztalōnkach
 managed-notice = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
+managed-notice-nav =
+    .label = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
 category-list =
     .aria-label = Kategoryje
 pane-general-title = Ôgōlne
@@ -1250,6 +1254,10 @@ addon-recommendations-link = Przewiydz sie wiyncyj
 collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kōnfiguracyji
 collection-backlogged-crash-reports-with-link = Przizwōl, coby { -brand-short-name } posyłoł nazbiyrane raporty z awaryjōw za ciebie <a data-l10n-name="crash-reports-link">Przewiydz sie wiyncyj</a>
     .accesskey = c
+data-collection-health-report-telemetry-disabled =
+    .message = { -vendor-short-name } niy mo już zgody, coby zbiyrać techniczne dane i dane ô interakcyjach. Wszyskie nazbiyrane dane bydōm skasowane do 30 dni.
+data-collection-studies-link =
+    .label = Pokoż badania aplikacyje { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

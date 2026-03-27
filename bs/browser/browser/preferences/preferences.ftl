@@ -20,6 +20,8 @@ non-technical-privacy-header = Postavke privatnosti web stranice
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Globalna kontrola privatnosti (GPC)
 settings-page-title = Postavke
+category-nav-heading =
+    .heading = Postavke
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Vašim pretraživačem upravlja vaša organizacija.
 managed-notice-info-icon =
     .alt = Informacije
+managed-notice-nav =
+    .label = Vašim pretraživačem upravlja vaša organizacija.
 category-list =
     .aria-label = Kategorije
 pane-general-title = Opće
@@ -1545,6 +1549,9 @@ collection-description = Trudimo se da vam pružimo izbor i da sakupljamo samo o
 collection-privacy-notice = Polica privatnosti
 collection-health-report-telemetry-disabled = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznajte više
+addon-recommendations3 =
+    .label = Dozvoli personalizirane preporuke za ekstenzije
+    .description = Dobijte preporuke za ekstenzije kako biste poboljšali svoje iskustvo pregledavanja.
 collection-usage-ping =
     .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
     .accesskey = u
@@ -1587,6 +1594,27 @@ privacy-segmentation-radio-off =
     .label = Koristite preporuke { -brand-product-name }a
 privacy-segmentation-radio-on =
     .label = Prikaži detaljne informacije
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } prikupljanje i upotreba podataka
+    .description = Trudimo se da vam pružimo izbor i prikupljamo samo minimalne podatke potrebne za poboljšanje { -brand-product-name } za sve.
+    .searchkeywords = telemetrija
+data-collection-link = Pogledajte Policu privatnosti
+data-collection-preferences-across-profiles =
+    .message = Ove postavke se primjenjuju na svaki { -brand-product-name } profil na ovom uređaju.
+data-collection-profiles-link = Pogledajte sve profile
+data-collection-health-report-telemetry-disabled =
+    .message = Više ne dozvoljavate { -vendor-short-name } da bilježi tehničke podatke i podatke o interakciji. Svi prošli podaci će biti izbrisani u roku od 30 dana.
+data-collection-health-report =
+    .label = Pošalji tehničke podatke i podatke o interakciji na { -vendor-short-name }
+    .accesskey = r
+    .description = Ovo nam pomaže da poboljšamo funkcije, performanse i stabilnost proizvoda { -brand-product-name }.
+data-collection-studies-link =
+    .label = Prikaži { -brand-short-name } studije
+data-collection-usage-ping =
+    .label = Pošalji dnevni ping korištenja na { -vendor-short-name }
+    .description = Ovo pomaže { -vendor-short-name } da procijeni broj aktivnih korisnika.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

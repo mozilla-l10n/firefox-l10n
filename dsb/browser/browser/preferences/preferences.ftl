@@ -27,6 +27,8 @@ non-technical-privacy-header = Nastajenja priwatnosći websedła
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Nastajenja
+category-nav-heading =
+    .heading = Nastajenja
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Waš wobglědowak se wót wašeje organizacije zastoj.
 managed-notice-info-icon =
     .alt = Informacije
+managed-notice-nav =
+    .label = Waš wobglědowak se wót wašeje organizacije zastoj.
 category-list =
     .aria-label = Kategorije
 pane-general-title = Powšykne
@@ -2080,6 +2084,9 @@ collection-health-report-telemetry-disabled = Sćo zajmjeł { -vendor-short-name
 collection-health-report-telemetry-disabled-link = Dalšne informacije
 backup-multi-profile-warning-message =
     .message = Aby zawěsćił, až jo toś ta změna we wašych zawěsćenjach wopśimjona, wócyńśo profil a wubjeŕśo „Něnto zawěsćiś“ w nastajenjach.
+addon-recommendations3 =
+    .label = Personalizěrowane dopórucenja za rozšyrjenja dowóliś
+    .description = Wobstarajśo se dopórucenja za rozšyrjenja, aby swóje pśeglědowańske dožywjenje pólěpšył.
 collection-usage-ping =
     .label = Ping za wšedne wužywanje na { -vendor-short-name } pósłaś
     .accesskey = P
@@ -2125,6 +2132,27 @@ privacy-segmentation-radio-off =
     .label = Dopórucenja { -brand-product-name } wužywaś
 privacy-segmentation-radio-on =
     .label = Detailěrowane informacije pokazaś
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Gromaźenje a wužywanje datow { -brand-short-name }
+    .description = Comy was z wuběrkami wobstaraś a jano te mało datow gromaźiś, kótarež su trjebne, aby se { -brand-product-name } za kuždego pólěpšył.
+    .searchkeywords = telemetrija
+data-collection-link = Powěźeńku priwatnosći pokazaś
+data-collection-preferences-across-profiles =
+    .message = Toś te nastajenja za kuždy profil { -brand-product-name } na toś tom rěźe płaśe.
+data-collection-profiles-link = Wšykne profile pokazaś
+data-collection-health-report-telemetry-disabled =
+    .message = Sćo zajmjeł { -vendor-short-name } dowólnosć, techniske a interakciske daty gromaźiś. Wšykne dotychměst zgromaźone daty se w běgu 30 dnjow wulašuju.
+data-collection-health-report =
+    .label = Techniske daty a daty interakcije na { -vendor-short-name } pósłaś
+    .accesskey = T
+    .description = To nam pomaga, funkcije, wugbaśe a stabilnosć { -brand-product-name } pólěpyś.
+data-collection-studies-link =
+    .label = Studije { -brand-short-name } pokazaś
+data-collection-usage-ping =
+    .label = Ping za wšedne wužywanje na { -vendor-short-name } pósłaś
+    .description = To { -vendor-short-name } pomaga, se aktiwne wužywarje wažyś.
+    .accesskey = P
 
 ## Privacy Section - Website Advertising Preferences
 

@@ -27,6 +27,8 @@ non-technical-privacy-header = Webhely adatvédelmi beállításai
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Globális adatvédelmi szabályozás (GPC)
 settings-page-title = Beállítások
+category-nav-heading =
+    .heading = Beállítások
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = A böngészőjét a szervezete kezeli.
 managed-notice-info-icon =
     .alt = Információ
+managed-notice-nav =
+    .label = A böngészőjét a szervezete kezeli.
 category-list =
     .aria-label = Kategóriák
 pane-general-title = Általános
@@ -2072,6 +2076,9 @@ collection-health-report-telemetry-disabled = Már nem engedélyezi, hogy a { -v
 collection-health-report-telemetry-disabled-link = További tudnivalók
 backup-multi-profile-warning-message =
     .message = Hogy ez a változás szerepeljen a biztonsági mentésekben, nyisson meg minden profilt, és válassza a „Biztonsági mentés most” lehetőséget a beállításokban.
+addon-recommendations3 =
+    .label = Személyre szabott kiegészítőjavaslatok engedélyezése
+    .description = Kapjon kiegészítőjavaslatokat a böngészési élmény javítása érdekében.
 collection-usage-ping =
     .label = Napi használati ping küldése a { -vendor-short-name(ending: "accented") }nak
     .accesskey = h
@@ -2117,6 +2124,27 @@ privacy-segmentation-radio-off =
     .label = A{ -brand-product-name } javaslatainak használata
 privacy-segmentation-radio-on =
     .label = Részletes információk megjelenítése
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } adatgyűjtés és felhasználás
+    .description = Arra törekszünk, hogy választási lehetőséget biztosítsunk, és csak a minimálisan szükséges adatokat gyűjtsük ahhoz, hogy mindenki számára jobb legyen a { -brand-product-name }.
+    .searchkeywords = telemetria
+data-collection-link = Adatvédelmi nyilatkozat megtekintése
+data-collection-preferences-across-profiles =
+    .message = Ezek a beállítások az összes { -brand-product-name }-profilra vonatkoznak ezen az eszközön.
+data-collection-profiles-link = Összes profil megtekintése
+data-collection-health-report-telemetry-disabled =
+    .message = Már nem engedélyezi, hogy a { -vendor-short-name } műszaki és interakciós adatokat rögzítsen. A múltbeli adatai 30 napon belül törölve lesznek.
+data-collection-health-report =
+    .label = Műszaki és interakciós adatok küldése a { -vendor-short-name(ending: "accented") }nak
+    .accesskey = r
+    .description = Ez segít a { -brand-product-name } funkcióinak, teljesítményének és stabilitásának fejlesztésében.
+data-collection-studies-link =
+    .label = { -brand-short-name } tanulmányok megtekintése
+data-collection-usage-ping =
+    .label = Napi használati ping küldése a { -vendor-short-name(ending: "accented") }nak
+    .description = Ez segít a { -vendor-short-name(ending: "accented") }nak az aktív felhasználók megbecslésében.
+    .accesskey = h
 
 ## Privacy Section - Website Advertising Preferences
 

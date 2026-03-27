@@ -27,6 +27,8 @@ non-technical-privacy-header = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = ਗਲੋਬਲ ਪਰਦੇਦਾਰੀ ਕੰਟਰੋਲ (GPC)
 settings-page-title = ਸੈਟਿੰਗਾਂ
+category-nav-heading =
+    .heading = ਸੈਟਿੰਗਾਂ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦਾ ਇੰਤਜ਼ਾਮ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
 managed-notice-info-icon =
     .alt = ਜਾਣਕਾਰੀ
+managed-notice-nav =
+    .label = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦਾ ਇੰਤਜ਼ਾਮ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
 category-list =
     .aria-label = ਵਰਗ
 pane-general-title = ਆਮ
@@ -2070,6 +2074,9 @@ collection-health-report-telemetry-disabled = ਤੁਸੀਂ ਹੁਣ { -vendo
 collection-health-report-telemetry-disabled-link = ਹੋਰ ਜਾਣੋ
 backup-multi-profile-warning-message =
     .message = ਇਹ ਤਬਦੀਲੀ ਨੂੰ ਆਪਣੇ ਬੈਕਅੱਪ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹਰ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ “ਹੁਣੇ ਬੈਕਅੱਪ” ਨੂੰ ਚੁਣੋ।
+addon-recommendations3 =
+    .label = ਨਿੱਜੀ ਬਣਾਈਆਂ ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿਓ
+    .description = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਤਜਰਬੇ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਲਵੋ।
 collection-usage-ping =
     .label = ਰੋਜ਼ਾਨਾ ਵਰਤੋਂ ਪਿੰਗ { -vendor-short-name } ਨੂੰ ਭੇਜੋ
     .accesskey = u
@@ -2115,6 +2122,27 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ਸਿਫ਼ਾਰਸ਼ਾਂ ਨੂੰ ਵਰਤੋਂ
 privacy-segmentation-radio-on =
     .label = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } ਡਾਟਾ ਇਕੱਤਰ ਅਤੇ ਵਰਤੋਂ
+    .description = ਅਸੀਂ ਤੁਹਾਨੂੰ ਚੋਣਾਂ ਦੇਣ ਅਤੇ ਹਰੇਕ ਵਾਸਤੇ { -brand-product-name } ਸੁਧਾਰਨ ਵਾਸਤੇ ਲੋੜੀਂਦਾ ਘੱਟੋ-ਘੱਟ ਡਾਟਾ ਹੀ ਇਕੱਤਰ ਕਰਨ ਲਈ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ।
+    .searchkeywords = ਟੈਲੀਮੈਂਟਰੀ
+data-collection-link = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ ਨੂੰ ਵੇਖੋ
+data-collection-preferences-across-profiles =
+    .message = ਇਹ ਸੈਟਿੰਗਾਂ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹਰ { -brand-product-name } ਪਰੋਫ਼ਾਈਲ ਉੱਤੇ ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ।
+data-collection-profiles-link = ਸਬ ਪਰੋਫ਼ਾਇਲਾਂ ਨੂੰ ਵੇਖੋ
+data-collection-health-report-telemetry-disabled =
+    .message = ਤੁਸੀਂ ਹੁਣ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਫੜਨ ਲਈ ਸਹਿਮਤੀ ਹਟਾ ਦਿੱਤੀ ਹੈ। ਸਾਰੇ ਪਿਛਲੇ ਡਾਟੇ ਨੂੰ 30 ਦਿਨਾਂ ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।
+data-collection-health-report =
+    .label = { -vendor-short-name } ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜੋ
+    .accesskey = r
+    .description = ਇਹ ਸਾਨੂੰ { -brand-product-name } ਦੇ ਫ਼ੀਚਰ, ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਸਥਿਰਤਾ ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
+data-collection-studies-link =
+    .label = { -brand-short-name } ਅਧਿਐਨ ਵੇਖੋ
+data-collection-usage-ping =
+    .label = ਰੋਜ਼ਾਨਾ ਵਰਤੋਂ ਪਿੰਗ { -vendor-short-name } ਨੂੰ ਭੇਜੋ
+    .description = ਇਹ { -vendor-short-name } ਨੂੰ ਸਰਗਰਮ ਵਰਤੋਂਕਾਰਾਂ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 

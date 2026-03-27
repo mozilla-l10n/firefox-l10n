@@ -27,6 +27,8 @@ non-technical-privacy-header = העדפות פרטיות של אתרים
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = הגדרות
+category-nav-heading =
+    .heading = הגדרות
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = הדפדפן שלך מנוהל על־ידי הארגון שלך.
 managed-notice-info-icon =
     .alt = מידע
+managed-notice-nav =
+    .label = הדפדפן שלך מנוהל על־ידי הארגון שלך.
 category-list =
     .aria-label = קטגוריות
 pane-general-title = כללי
@@ -2064,6 +2068,9 @@ collection-privacy-notice = הצהרת פרטיות
 collection-health-report-telemetry-disabled-link = מידע נוסף
 backup-multi-profile-warning-message =
     .message = כדי לוודא ששינוי זה כלול בגיבויים שלך, יש לפתוח כל פרופיל ולבחור באפשרות ״גיבוי כעת״ בהגדרות.
+addon-recommendations3 =
+    .label = לאפשר המלצות מותאמות אישית על הרחבות
+    .description = קבלת המלצות על הרחבות לשיפור חווית הגלישה שלך.
 collection-usage-ping =
     .label = שליחת פינג שימוש יומי אל { -vendor-short-name }
     .accesskey = פ
@@ -2109,6 +2116,25 @@ privacy-segmentation-radio-off =
     .label = שימוש בהצעות של { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = הצגת מידע מפורט
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = איסוף המידע של { -brand-short-name }
+    .description = אנו שואפים לספק לך אפשרויות בחירה ולאסוף רק את הנתונים המינימליים הדרושים כדי לשפר את { -brand-product-name } עבור כולם.
+    .searchkeywords = טלמטריה
+data-collection-link = הצגת הצהרת הפרטיות
+data-collection-preferences-across-profiles =
+    .message = הגדרות אלה חלות על כל פרופיל של { -brand-product-name } במכשיר זה.
+data-collection-profiles-link = צפייה בכל הפרופילים
+data-collection-health-report =
+    .label = שליחת נתונים טכניים ונתוני אינטראקציה אל { -vendor-short-name }
+    .accesskey = ט
+    .description = זה מסייע לנו לשפר את היכולות, הביצועים והיציבות של { -brand-product-name }.
+data-collection-studies-link =
+    .label = הצגת המחקרים של { -brand-short-name }
+data-collection-usage-ping =
+    .label = שליחת פינג שימוש יומי אל { -vendor-short-name }
+    .description = זה מסייע ל־{ -vendor-short-name } להעריך כמה יש משתמשים פעילים.
+    .accesskey = פ
 
 ## Privacy Section - Website Advertising Preferences
 

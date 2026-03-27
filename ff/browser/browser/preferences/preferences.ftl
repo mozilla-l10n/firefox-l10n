@@ -872,6 +872,8 @@ collection-studies-link = Yiy jaŋdeeji { -brand-short-name }
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonka mahngo
+data-collection-studies-link =
+    .label = Yiy jaŋdeeji { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

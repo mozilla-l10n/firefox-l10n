@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = همیشه
 settings-page-title = تنظیمات
+category-nav-heading =
+    .heading = تنظیمات
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = جستجو در تنظیمات
 managed-notice = مرورگر شما توسط سازمان شما مدیریت می شود.
+managed-notice-nav =
+    .label = مرورگر شما توسط سازمان شما مدیریت می شود.
 category-list =
     .aria-label = دسته‌بندی‌ها
 pane-general-title = عمومی
@@ -1200,6 +1204,10 @@ addon-recommendations-link = بیشتر بدانید
 collection-health-report-disabled = گزارش کردن داده‌ها برای این پیکربندی ساخته شده غیرفعال شده است
 collection-backlogged-crash-reports-with-link = به { -brand-short-name } اجازه دهید گزارش‌های خرابی عقب مانده را از طرف شما ارسال کند <a data-l10n-name="crash-reports-link">اطلاعات بیشتر</a>
     .accesskey = ج
+data-collection-health-report-telemetry-disabled =
+    .message = شما دیگر به { -vendor-short-name } اجازهٔ ضبط داده‌های فنی و تعاملی را نداده‌‌اید. تمام اطلاعات قبلی تا ۳۰ روز آینده حذف خواهند شد.
+data-collection-studies-link =
+    .label = نمایش studyهای { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 

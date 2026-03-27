@@ -6,7 +6,11 @@ do-not-track-learn-more = Ka´vi kue´eka
 do-not-track-option-always =
     .label = Ntaka ichi
 settings-page-title = Da nu ke´i
+category-nav-heading =
+    .heading = Da nu ke´i
 managed-notice = Vetiñunu tetiñu ka̱a̱ nánuku.
+managed-notice-nav =
+    .label = Vetiñunu tetiñu ka̱a̱ nánuku.
 category-list =
     .aria-label = Categories
 pane-general-title = General
@@ -981,6 +985,8 @@ collection-health-report-telemetry-disabled-link = Ka´vi kue´eka
 collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
+data-collection-studies-link =
+    .label = Kune'ya da estudio { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
