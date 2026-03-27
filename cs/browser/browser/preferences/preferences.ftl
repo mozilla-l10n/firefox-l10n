@@ -2279,6 +2279,9 @@ collection-health-report-telemetry-disabled =
 collection-health-report-telemetry-disabled-link = Zjistit více
 backup-multi-profile-warning-message =
     .message = Abyste se ujistili, že tato změna bude zahrnuta do vašich záloh, otevřete každý profil a v nastavení vyberte „Zálohovat nyní“.
+addon-recommendations3 =
+    .label = Povolit personalizovaná doporučení rozšíření
+    .description = Nechte si doporučovat rozšíření pro zlepšení vašeho prohlížení.
 collection-usage-ping =
     .label =
         { -vendor-short-name.case-status ->
@@ -2368,12 +2371,59 @@ privacy-segmentation-radio-off =
         }
 privacy-segmentation-radio-on =
     .label = Zobrazit podrobnosti
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Sběr a použití údajů ve { -brand-short-name(case: "loc") }
+           *[no-cases] Sběr a použití údajů v aplikaci { -brand-short-name }
+        }
+    .description =
+        { -brand-product-name.case-status ->
+            [with-cases] Snažíme se vám poskytnout možnost volby a sbírat jen minimum údajů potřebných k vylepšování { -brand-product-name(case: "gen") }.
+           *[no-cases] Snažíme se vám poskytnout možnost volby a sbírat jen minimum údajů potřebných k vylepšování aplikace { -brand-product-name }.
+        }
+    .searchkeywords = telemetrie
+data-collection-link = Zobrazit zásady ochrany osobních údajů
+data-collection-preferences-across-profiles =
+    .message =
+        { -brand-product-name.case-status ->
+            [with-cases] Tato nastavení platí pro každý profil { -brand-product-name(case: "gen") } na tomto zařízení.
+           *[no-cases] Tato nastavení platí pro každý profil aplikace { -brand-product-name } na tomto zařízení.
+        }
+data-collection-profiles-link = Zobrazit všechny profily
+data-collection-health-report-telemetry-disabled =
+    .message =
+        { -vendor-short-name.case-status ->
+            [with-cases] Odesílání technických údajů a údajů o interakcích { -vendor-short-name(case: "dat") } není nadále povoleno. Všechny historické údaje budou smazány do 30 dnů.
+           *[no-cases] Odesílání technických údajů a údajů o interakcích organizaci { -vendor-short-name } není nadále povoleno. Všechny historické údaje budou smazány do 30 dnů.
+        }
+data-collection-health-report =
+    .label = Odesílat { -vendor-short-name(case: "dat") } technické údaje a údaje o interakcích
+    .accesskey = t
+    .description =
+        { -brand-product-name.case-status ->
+            [with-cases] To nám pomáhá vylepšovat funkce, výkon a stabilitu { -brand-product-name(case: "gen") }.
+           *[no-cases] To nám pomáhá vylepšovat funkce, výkon a stabilitu aplikace { -brand-product-name }.
+        }
 data-collection-studies-link =
     .label =
         { -brand-short-name.case-status ->
             [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
            *[no-cases] Zobrazit studie aplikace { -brand-short-name }
         }
+data-collection-usage-ping =
+    .label =
+        { -vendor-short-name.case-status ->
+            [with-cases] Odesílat { -vendor-short-name(case: "dat") } denní ping o používání
+           *[no-cases] Odesílat organizaci { -vendor-short-name } denní ping o používání
+        }
+    .description =
+        { -vendor-short-name.case-status ->
+            [with-cases] To { -vendor-short-name(case: "dat") } pomáhá odhadnout počet aktivních uživatelů.
+           *[no-cases] To organizaci { -vendor-short-name } pomáhá odhadnout počet aktivních uživatelů.
+        }
+    .accesskey = p
 
 ## Privacy Section - Website Advertising Preferences
 
