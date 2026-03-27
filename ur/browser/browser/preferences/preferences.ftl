@@ -1019,6 +1019,8 @@ collection-health-report-telemetry-disabled-link = مزید سیکھیں
 collection-health-report-link = مزید سیکھیں
 collection-studies-link = { -brand-short-name } کی مطالعات دیکھیں
 addon-recommendations-link = مزید سیکھیں
+data-collection-studies-link =
+    .label = { -brand-short-name } کی مطالعات دیکھیں
 
 ## Privacy Section - Website Advertising Preferences
 
