@@ -2109,6 +2109,8 @@ privacy-segmentation-radio-off =
     .label = Eiporu he’iháicha { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Eike marandurenda hesa’ỹijopyrévape
+data-collection-studies-link =
+    .label = Ehecha kuaarã { -brand-short-name } mba’éva
 
 ## Privacy Section - Website Advertising Preferences
 
