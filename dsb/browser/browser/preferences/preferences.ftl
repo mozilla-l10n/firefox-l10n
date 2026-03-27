@@ -27,6 +27,8 @@ non-technical-privacy-header = Nastajenja priwatnosći websedła
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Nastajenja
+category-nav-heading =
+    .heading = Nastajenja
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Waš wobglědowak se wót wašeje organizacije zastoj.
 managed-notice-info-icon =
     .alt = Informacije
+managed-notice-nav =
+    .label = Waš wobglědowak se wót wašeje organizacije zastoj.
 category-list =
     .aria-label = Kategorije
 pane-general-title = Powšykne
