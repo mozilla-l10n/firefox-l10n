@@ -2121,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = Utiliser les recommandations de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Afficher les informations détaillées
+data-collection-health-report-telemetry-disabled =
+    .message = Vous n’autorisez plus { -vendor-short-name } à capturer des données techniques et d’interaction. Toutes les données passées seront supprimées dans les 30 jours.
 
 ## Privacy Section - Website Advertising Preferences
 
