@@ -19,6 +19,8 @@ non-technical-privacy-header = අඩවි‌ සඳහා පෞද්ගල�
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = ගෝලීය රහස්‍යතා පාලනය (GPC)
 settings-page-title = සැකසුම්
+category-nav-heading =
+    .heading = සැකසුම්
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -33,6 +35,8 @@ search-input-box2 =
 managed-notice = අතිරික්සුව ඔබගේ සංවිධානය මගින් කළමනාකරණය කෙරේ.
 managed-notice-info-icon =
     .alt = තොරතුරු
+managed-notice-nav =
+    .label = අතිරික්සුව ඔබගේ සංවිධානය මගින් කළමනාකරණය කෙරේ.
 category-list =
     .aria-label = ප්‍රවර්ග
 pane-general-title = සාමාන්‍ය
