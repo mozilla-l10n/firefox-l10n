@@ -1940,6 +1940,13 @@ privacy-segmentation-radio-off =
     .label = Օգտվել { -brand-product-name }-ի խորհուրդներից
 privacy-segmentation-radio-on =
     .label = Ցուցադրել մանրամասն տեղեկություն
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name }-ի տվյալների հավաքում և օգտագործում
+    .description = Մենք փորձում ենք տրամադրել ձեզ ընտրություն և հավաքել նվազագույն տվյալներ, որոնք անհրաժեշտ են լավարկել { -brand-product-name }-ը բոլորի համար:
+    .searchkeywords = հեռաչափություն
+data-collection-link = Դիտեք Գաղտնիության ծանուցումը
+data-collection-profiles-link = Դիտել բոլոր պրոֆիլները
 data-collection-health-report-telemetry-disabled =
     .message = Դուք այլևս թույլ չեք տալիս՝{ -vendor-short-name }֊ին գրավել տեխնիկական և միջազգային միջնորդության տվյալները։ Անցյալ բոլոր տվյալները կջնջվեն 30 օրվա ընթացքում։
 data-collection-health-report =
