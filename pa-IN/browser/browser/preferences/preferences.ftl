@@ -2122,6 +2122,8 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ਸਿਫ਼ਾਰਸ਼ਾਂ ਨੂੰ ਵਰਤੋਂ
 privacy-segmentation-radio-on =
     .label = ਵੇਰਵੇ ਸਮੇਤ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
+data-collection-health-report-telemetry-disabled =
+    .message = ਤੁਸੀਂ ਹੁਣ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਫੜਨ ਲਈ ਸਹਿਮਤੀ ਹਟਾ ਦਿੱਤੀ ਹੈ। ਸਾਰੇ ਪਿਛਲੇ ਡਾਟੇ ਨੂੰ 30 ਦਿਨਾਂ ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।
 data-collection-studies-link =
     .label = { -brand-short-name } ਅਧਿਐਨ ਵੇਖੋ
 
