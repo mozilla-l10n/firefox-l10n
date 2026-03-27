@@ -1590,6 +1590,9 @@ collection-description = Við reynum alltaf að bjóða upp á valkosti og söfn
 collection-privacy-notice = Meðferð persónuupplýsinga
 collection-health-report-telemetry-disabled = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
 collection-health-report-telemetry-disabled-link = Frekari upplýsingar
+addon-recommendations3 =
+    .label = Leyfa persónusniðnar ráðleggingar um forritsauka
+    .description = Fáðu ráðleggingar um forritsauka til að bæta notkun þína við vafur.
 collection-usage-ping =
     .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
     .accesskey = u
@@ -1642,8 +1645,16 @@ data-collection-preferences-across-profiles =
     .message = Þessar stillingar eiga við um öll { -brand-product-name } notkunarsnið á þessu tæki.
 data-collection-health-report-telemetry-disabled =
     .message = Þú leyfir { -vendor-short-name } ekki lengur að safna tækni- og samskiptagögnum. Öllum fyrri gögnum verður eytt innan 30 daga.
+data-collection-health-report =
+    .label = Senda tækni- og samskiptagögn til { -vendor-short-name }
+    .accesskey = n
+    .description = Þetta hjálpar okkur að bæta eiginleika, afköst og stöðugleika í { -brand-product-name }.
 data-collection-studies-link =
     .label = Skoða rannsóknir frá { -brand-short-name }
+data-collection-usage-ping =
+    .label = Senda upplýsingar um daglega notkun til { -vendor-short-name }
+    .description = Þetta hjálpar { -vendor-short-name } að áætla virka notendur.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
