@@ -359,6 +359,8 @@ newtab-wallpaper-title = Позадине
 newtab-wallpaper-reset = Врати на подразумевано
 newtab-wallpaper-upload-image = Отпреми слику
 newtab-wallpaper-custom-color = Изабери боју
+newtab-wallpaper-toggle-title =
+    .label = Позадине
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Слика је премашила ограничење величине датотеке од { $file_size } MB. Покушајте да отпремите мању датотеку.
