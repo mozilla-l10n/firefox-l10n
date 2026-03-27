@@ -27,6 +27,8 @@ non-technical-privacy-header = საიტის პირადულობი
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = პარამეტრები
+category-nav-heading =
+    .heading = პარამეტრები
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = თქვენი ბრაუზერი იმართება დაწესებულების მიერ.
 managed-notice-info-icon =
     .alt = ცნობა
+managed-notice-nav =
+    .label = თქვენი ბრაუზერი იმართება დაწესებულების მიერ.
 category-list =
     .aria-label = კატეგორიები
 pane-general-title = მთავარი
