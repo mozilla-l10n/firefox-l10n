@@ -2059,6 +2059,12 @@ privacy-segmentation-radio-off =
     .label = Uporabi priporočila { -brand-product-name(sklon: "rodilnik") }
 privacy-segmentation-radio-on =
     .label = Prikaži podrobne informacije
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Zbiranje in uporaba podatkov v { -brand-short-name(sklon: "mestnik") }
+    .description = Trudimo se vam ponuditi izbiro in zbirati minimalno količino podatkov, ki jih potrebujemo za izboljševanje { -brand-product-name(sklon: "rodilnik") }.
+    .searchkeywords = telemetrija
+data-collection-link = Ogled obvestila o zasebnosti
 
 ## Privacy Section - Website Advertising Preferences
 
