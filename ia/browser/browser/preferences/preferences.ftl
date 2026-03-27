@@ -2127,6 +2127,8 @@ data-collection =
     .description = Nos nos effortia fornir te selectiones e colliger solo le minime datos necessari pro meliorar { -brand-product-name } pro totes.
     .searchkeywords = telemetria
 data-collection-link = Vider le aviso de confidentialitate
+data-collection-health-report-telemetry-disabled =
+    .message = Tu non plus permitte que { -vendor-short-name } captura datos technic e de interaction. Tote le datos jam capturate essera delite intra 30 dies.
 data-collection-studies-link =
     .label = Consultar le studios de { -brand-short-name }
 
