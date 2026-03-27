@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = You’re no longer allowing { -ven
 collection-health-report-telemetry-disabled-link = Learn more
 backup-multi-profile-warning-message =
     .message = To make sure this change is included in your backups, open each profile and choose “Backup now” in Settings.
+addon-recommendations3 =
+    .label = Allow personalized extension recommendations
+    .description = Get extension recommendations to improve your browsing experience.
 collection-usage-ping =
     .label = Send daily usage ping to { -vendor-short-name }
     .accesskey = u
@@ -2121,6 +2124,8 @@ privacy-segmentation-radio-off =
     .label = Use { -brand-product-name } recommendations
 privacy-segmentation-radio-on =
     .label = Show detailed information
+data-collection-studies-link =
+    .label = View { -brand-short-name } studies
 
 ## Privacy Section - Website Advertising Preferences
 
