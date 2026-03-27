@@ -391,9 +391,16 @@ translate-exceptions =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Imprea sa cunfiguratzione de su sistema operativu de “{ $localeName }” pro formatare datas, oras, nùmeros e medidas.
+settings-spellcheck-header =
+    .label = Curretzione ortogràfica
 check-user-spelling =
     .label = Controlla s’ortografia comente iscries
     .accesskey = o
+spellcheck-download-dictionaries =
+    .label = Iscàrriga ditzionàrios
+spellcheck-promo =
+    .heading = Comente s’impreat su controllu ortogràficu
+    .message = Incarca cun su butone deretu unu campu de testu pro ativare o disativare sa curretzione ortogràfica. Non totu is campos sunt cumpatìbiles cun sa curretzione ortogràfica.
 
 ## General Section - Files and Applications
 
