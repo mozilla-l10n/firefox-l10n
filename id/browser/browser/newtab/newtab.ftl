@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = URL Gambar Khusus
 newtab-topsites-use-image-link = Gunakan gambar khusus…
 newtab-topsites-image-validation = Gambar gagal dimuat. Coba URL lain.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Batalkan
@@ -345,6 +348,8 @@ newtab-wallpaper-title = Gambar latar
 newtab-wallpaper-reset = Setel ulang ke bawaan
 newtab-wallpaper-upload-image = Unggah gambar
 newtab-wallpaper-custom-color = Pilih warna
+newtab-wallpaper-toggle-title =
+    .label = Gambar latar
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Gambar melebihi batas ukuran berkas sebesar { $file_size }MB. Coba unggah berkas yang lebih kecil.
@@ -427,6 +432,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
 
 ## Celestial
 
@@ -627,3 +635,9 @@ newtab-widget-timer-menu-notifications = Matikan notifikasi
 newtab-widget-timer-menu-notifications-on = Hidupkan notifikasi
 newtab-widget-timer-menu-learn-more = Pelajari lebih lanjut
 newtab-promo-card-title = Dukung { -brand-product-name }
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
