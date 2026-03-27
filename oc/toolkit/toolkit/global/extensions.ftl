@@ -87,7 +87,7 @@ webext-perms-host-description-one-domain = Accedir a vòstras donadas pels sites
 # Variables:
 #   $domainCount (Number): Integer indicating the number of websites domains for which this webextension is requesting permission
 #     (the list of domains will follow this string).
-webext-perms-host-description-multiple-domains = Accedir a vòstras donadas pels sites de { $domain } domenis
+webext-perms-host-description-multiple-domains = Accedir a vòstras donadas pels sites de { $domainCount } domenis
 
 ## Strings for data collection permissions in the permission prompt.
 
