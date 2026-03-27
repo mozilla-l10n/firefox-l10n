@@ -1791,6 +1791,9 @@ collection-description = Ми прагнемо надати вам вибір і
 collection-privacy-notice = Положення про приватність
 collection-health-report-telemetry-disabled = Ви більше не дозволяєте { -vendor-short-name } збирати технічні дані й інформацію про взаємодію. Всі минулі дані будуть видалені протягом 30 днів.
 collection-health-report-telemetry-disabled-link = Докладніше
+addon-recommendations3 =
+    .label = Дозволити персоналізовані рекомендації розширень
+    .description = Отримуйте рекомендації щодо розширень, щоб покращити роботу в інтернеті.
 collection-usage-ping =
     .label = Надсилати щоденний сигнал використання до { -vendor-short-name }
     .accesskey = г
@@ -1841,6 +1844,8 @@ data-collection =
 data-collection-link = Переглянути Положення про приватність
 data-collection-health-report-telemetry-disabled =
     .message = Ви більше не дозволяєте { -vendor-short-name } збирати технічні дані й інформацію про взаємодію. Всі минулі дані будуть видалені протягом 30 днів.
+data-collection-studies-link =
+    .label = Переглянути дослідження { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
