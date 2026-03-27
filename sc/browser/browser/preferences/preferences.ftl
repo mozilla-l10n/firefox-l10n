@@ -400,6 +400,18 @@ website-add-language =
 website-add-language-button =
     .aria-label = Agiunghe sa limba seletzionada
     .title = Agiunghe sa limba seletzionada
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Cantzella sa limba: { $locale }
+    .title = Cantzella sa limba: { $locale }
 choose-button =
     .label = Sèbera…
     .accesskey = b
@@ -430,6 +442,57 @@ settings-translations-more-settings-button =
     .description = Cunfigura is preferèntzias tuas pro cantu a is limbas, sitos web e tradutzione in foras de lìnia.
 settings-translations-subpage-header =
     .heading = Àteras cunfiguratziones de tradutzione
+settings-translations-subpage-speed-up-translation-header =
+    .label = Allestra sa tradutzine
+    .description = Iscàrriga limbas cumpletas pro otènnere tradutziones prus lestras e pro tradùere in foras de lìnia
+settings-translations-subpage-automatic-translation-header =
+    .label = Tradutzione automàtica
+settings-translations-subpage-always-translate-header =
+    .label = Tradue semper custas limbas
+settings-translations-subpage-never-translate-header =
+    .label = Non traduas mai custas limbas
+settings-translations-subpage-never-translate-sites-header =
+    .label = Non traduas mai custos sitos
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Pro agiùnghere unu situ, aberi su pannellu de tradutzione <img data-l10n-name="translations-icon"/>, seletziona sa cunfiguratzione de tradutzione <img data-l10n-name="settings-icon"/> e sèbera «Non traduas mai custu situ»
+settings-translations-subpage-language-select-option =
+    .label = Agiunghe una limba
+settings-translations-subpage-language-add-button =
+    .aria-label = Agiunghe una limba
+    .title = Agiunghe una limba
+settings-translations-subpage-download-languages-header =
+    .label = Iscàrriga limbas
+settings-translations-subpage-download-languages-select-option =
+    .label = Seletziona una limba
+settings-translations-subpage-download-languages-button =
+    .aria-label = Iscàrriga sa limba
+    .title = Iscàrriga sa limba
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nissuna limba iscarrigada
+settings-translations-subpage-no-languages-added =
+    .label = Nissuna limba agiunta
+settings-translations-subpage-download-progress = Iscarrigamentu in cursu…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Impossìbile iscarrigare sa limba { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Torra·nche a proare
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Boles cantzellare sa limba { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Cantzella
+settings-translations-subpage-download-cancel-button =
+    .label = Annulla
+settings-translations-subpage-no-sites-added =
+    .label = Nissunu situ agiuntu
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -740,6 +803,18 @@ choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
 
+## Custom Homepage subpage
+
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Indiritzos de sitos web
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Nissunu situ web galu agiuntu.
+home-custom-homepage-delete-address-button =
+    .aria-label = Cantzella s’indiritzu
+    .title = Cantzella s’indiritzu
+
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = Cuntenutos de sa { -firefox-home-brand-name }
@@ -846,6 +921,11 @@ addressbar-header-1 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Ammustra is tèrmines de chirca in sa barra de indiritzos de is pàginas de resurtados
+search-separate-default-engine-2 =
+    .label = Imprea unu motore de chirca predefinidu diversu in is ischedas privadas
+    .accesskey = I
+search-separate-default-engine-dropdown =
+    .aria-label = Motore de chirca privadu in ventanas privadas
 search-suggestions-header-2 =
     .label = Cussìgios dae is motores de chirca
 # With this option enabled, on the search results page
