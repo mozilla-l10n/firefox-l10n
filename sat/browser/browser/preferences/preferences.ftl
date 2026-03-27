@@ -1321,6 +1321,10 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } ᱵᱟᱛᱟᱣᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 privacy-segmentation-radio-on =
     .label = ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+data-collection-health-report-telemetry-disabled =
+    .message = ᱟᱢ { -vendor-short-name } ᱴᱮᱠᱱᱤᱠᱟᱞ ᱟᱨ ᱤᱱᱴᱟᱨᱟᱠᱥᱚᱱ ᱰᱟᱴᱟ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱟᱱᱟ ᱮᱱᱟᱢ ᱾ 30 ᱫᱤᱱ ᱢᱟᱲᱟᱝ ᱨᱮ ᱡᱚᱛᱚ ᱯᱟᱹᱦᱤᱞ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾
+data-collection-studies-link =
+    .label = { -brand-short-name } ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱧᱮᱞ ᱢᱮ
 
 ## Privacy Section - Website Advertising Preferences
 
