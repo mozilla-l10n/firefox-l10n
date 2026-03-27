@@ -565,6 +565,9 @@ browser-window-restore-down-button =
     .tooltiptext = Riprìstina in bàsciu
 browser-window-close-button =
     .tooltiptext = Serra
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Torra
 
 ## Tab actions
 
@@ -722,6 +725,7 @@ urlbar-result-action-search-in-private = Chirca in una ventana privada
 urlbar-result-action-search-w-engine = Chirca cun { $engine }
 urlbar-result-action-sponsored = Patrotzinadu
 urlbar-result-action-switch-tab = Passa a s’ischeda
+urlbar-result-action-move-tab-to-split-view = Move s’ischeda a s’ischermu partzidu
 urlbar-result-action-visit = Bìsita
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -761,6 +765,14 @@ urlbar-result-action-copy-to-clipboard = Còpia
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = indefinidu
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Estensione de { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Cussigiadu
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -818,6 +830,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Pregunta
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -917,6 +931,10 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Custa borta chirca cun:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Chirca cun:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Custa borta chirca cun:
@@ -1140,6 +1158,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Craes
     .tooltiptext = Ammustra e gesti is craes sarvadas tuas
+qrcode-panel-error =
+    .message = Faddina in sa generatzione de su còdighe QR. Torra·nche a proare.
+qrcode-copy-button =
+    .label = Còpia
+qrcode-copy-success =
+    .message = Còdighe QR copiadu in punta de billete.
+qrcode-copy-error =
+    .message = Faddina in sa còpia de su còdighe QR.
+qrcode-save-button =
+    .label = Sarva
+qrcode-save-success =
+    .message = Còdighe QR sarvadu.
+qrcode-save-error =
+    .message = Faddina in su sarvamentu de su còdighe QR.
+qrcode-save-title = Sarva su còdighe QR
+qrcode-save-filter-png = Immàgine PNG
+qrcode-save-filename = codigheqr.png
+qrcode-window-title = Còdighe QR
+qrcode-dialog-title = Còdighe QR
+qrcode-image =
+    .aria-label = Còdighe QR
+qrcode-close-button =
+    .aria-label = Serra
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1158,6 +1199,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Ventana privada noa
     .tooltiptext = Aberi una ventana privada de navigatzione noa ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Cumpartzi
+    .tooltiptext = Cumpartzi custa pàgina
 
 ## EME notification panel
 
@@ -1177,6 +1221,15 @@ panel-save-update-password = Crae
 # "More" item in macOS share menu
 menu-share-more =
     .label = Àteru...
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Còpia su ligòngiu
+           *[other] Còpia { $count } ligòngios
+        }
+    .accesskey = l
 menu-share-copy-link =
     .label = Còpia su ligòngiu
     .accesskey = C

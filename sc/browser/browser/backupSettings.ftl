@@ -19,6 +19,9 @@ backup-folder-name = Riprìstina { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Còpia_de_seguresa_de_{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Còpia de seguresa
+    .description = Ampara in automàticu is sinnalibros, sa cronologia e àteros datos.
 settings-data-backup-header = Còpia de seguresa
 settings-data-backup-toggle = Gesti is còpias de seguresa
 settings-data-backup-toggle-on2 =
@@ -35,15 +38,31 @@ settings-data-backup-scheduled-backups-on = Còpia de seguresa: ATIVADA
 settings-data-backup-scheduled-backups-off = Còpia de seguresa: DISATIVADA
 settings-data-backup-scheduled-backups-description = Ampara in automàticu is sinnalibros, sa cronologia e is àteros datos tuos. <a data-l10n-name="support-link">Àteras informatziones</a>
 settings-data-backup-last-backup-date = Ùrtima còpia de seguresa: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Sa còpia de seguresa est ativada
+settings-data-backup-scheduled-backups-off2 =
+    .label = Sa còpia de seguresa est disativada
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Positzione de sa còpia de seguresa
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Positzione
 settings-data-backup-last-backup-location-show-in-folder = Ammustra in sa cartella
 settings-data-backup-last-backup-location-edit = Modifica...
 settings-data-create-backup-error = Faddina durante sa creatzione de sa còpia de seguresa tua: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sarva is craes e is mètodos de pagamentu tuos, e ampara totu is datos tuos gràtzias a su tzifradu.
+settings-data-toggle-encryption-label2 =
+    .label = Faghe una còpia de seguresa de is datos riservados tuos
+    .description = Faghe una còpia de seguresa de is craes e is mètodos de pagamentu, e in prus mantene totu is datos in seguresa cun unu tzifradu.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nòmine de archìviu: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Recùpera is datos tuos
+    .description = Recùpera is datos de { -brand-product-name } dae s’ùrtima còpia chi nd’as fatu.
+settings-data-backup-restore-scheduled-off =
+    .label = Recùpera is datos tuos
+    .description = Imprea una còpia de seguresa de { -brand-product-name } dae un’àteru dispositivu pro recuperare is datos tuos.
 settings-data-backup-restore-header = Recùpera is datos tuos
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -55,8 +74,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Sèbera s’archìvi
 
 settings-data-backup-scheduled-backups-on-restore-description = Recùpera is datos tuos de { -brand-product-name } de s’ùrtima còpia de seguresa.
 settings-data-backup-scheduled-backups-on-restore-choose = Recùpera…
+settings-sensitive-data =
+    .label = Datos sensìbiles
 settings-data-toggle-encryption-label = Faghe una còpia de seguresa de is datos riservados tuos
 settings-data-toggle-encryption-support-link = Àteras informatziones
+settings-data-change-password2 =
+    .label = Modifica sa crae
 settings-data-change-password = Modifica sa crae…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -99,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Disativa e cantzella sa còpia de se
 restore-from-backup-header = Recùpera is datos tuos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Ite at a èssere recuperadu?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Custu at a sostituire totu is datos atuales de { -brand-short-name } cun sa còpia de seguresa chi as fatu in custa data: { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -116,6 +142,13 @@ restore-from-backup-password-description = Custu isblocat sa còpia de seguresa 
 restore-from-backup-cancel-button = Annulla
 restore-from-backup-confirm-button = Recùpera e torra a aviare
 restore-from-backup-restoring-button = Recùperu in cursu...
+restore-from-backup-type-group-label =
+    .label = Boles sostituire su profilu atuale?
+restore-from-backup-type-replace =
+    .label = Sostitui totu is datos cun custa còpia de seguresa
+restore-from-backup-type-add =
+    .label = Mantene is datos e crea unu profilu nou
+restore-from-backup-profiles-disabled-message = Custu at a sostituire totu is datos atuales de { -brand-short-name } cun sa còpia de seguresa.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -241,6 +274,15 @@ other-backup-files-founds =
         [one] <b>Nota:</b> un’àtera còpia de seguresa agatada
        *[other] <b>Nota:</b> àteras { $numberOfOtherBackupsFound } còpias de seguresa agatadas
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creadu in { $machineName } in sa data imbeniente: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Recuperadu dae { $deviceName } in sa data e s’ora imbeniente: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
