@@ -1724,8 +1724,18 @@ data-collection =
     .description = Nós esforçamos-nos para lhe dar opções e recolher apenas a quantidade mínima de dados que são necessários para melhorar o { -brand-product-name } para todos.
     .searchkeywords = telemetria
 data-collection-link = Ver informação de privacidade
+data-collection-health-report-telemetry-disabled =
+    .message = Já não está a permitir que o { -vendor-short-name } recolha dados técnicos e de interação. Todos os dados antigos serão eliminados dentro de 30 dias.
+data-collection-health-report =
+    .label = Enviar dados técnicos e de interação para a { -vendor-short-name }
+    .accesskey = r
+    .description = Isto ajuda-nos a melhorar as funcionalidades, desempenho e a estabilidade do { -brand-product-name }.
 data-collection-studies-link =
     .label = Ver estudos do { -brand-short-name }
+data-collection-usage-ping =
+    .label = Enviar ping de utilização diário para a { -vendor-short-name }
+    .description = Isto ajuda a { -vendor-short-name } a calcular os utilizadores ativos.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
