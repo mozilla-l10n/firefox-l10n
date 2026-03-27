@@ -362,6 +362,8 @@ newtab-wallpaper-title = Eftergrûnen
 newtab-wallpaper-reset = Standertwearden
 newtab-wallpaper-upload-image = In ôfbylding oplade
 newtab-wallpaper-custom-color = Kies in kleur
+newtab-wallpaper-toggle-title =
+    .label = Eftergrûnen
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = De ôfbylding giet oer de limyt fan { $file_size } MB. Probearje in lytser bestân op te laden.
