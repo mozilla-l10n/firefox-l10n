@@ -2014,8 +2014,14 @@ privacy-segmentation-radio-off =
     .label = Usa las recomendaciones de { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostrar información detallada
+data-collection-health-report-telemetry-disabled =
+    .message = Ya no permites que { -vendor-short-name } capture datos técnicos y de interacción. Todos los datos anteriores se eliminarán en 30 días.
 data-collection-studies-link =
     .label = Ver estudios de { -brand-short-name }
+data-collection-usage-ping =
+    .label = Enviar ping de uso diario a { -vendor-short-name }
+    .description = Esto ayuda a { -vendor-short-name } a estimar los usuarios activos.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
