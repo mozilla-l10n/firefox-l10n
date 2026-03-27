@@ -1255,6 +1255,10 @@ privacy-segmentation-radio-off =
     .label = Tokisäx ruchilab'exik { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tik'ut pe ri cholajin retamab'al
+data-collection-health-report-telemetry-disabled =
+    .message = Man nuya' ta chik q'ij chi ri { -vendor-short-name } yeruchäp samajel chuqa' k'exonel taq tzij. Konojel ri taq tzij xkeyujtäj pa 30 q'ij.
+data-collection-studies-link =
+    .label = Ketz'et taq rutijonik { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
