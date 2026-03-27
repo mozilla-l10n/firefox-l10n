@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Միշտ
 settings-page-title = Կարգաւորումներ
+category-nav-heading =
+    .heading = Կարգաւորումներ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Փնտրել կարգաւորումներում
 managed-notice = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
+managed-notice-nav =
+    .label = Ձեր դիտարկիչը կառավարում է ձեր կազմակերպութիւնը։
 category-list =
     .aria-label = Անուանակարգեր
 pane-general-title = Ընդհանուր
