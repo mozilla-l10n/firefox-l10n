@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = همیشه
 settings-page-title = تنظیمات
+category-nav-heading =
+    .heading = تنظیمات
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
