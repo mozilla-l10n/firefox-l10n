@@ -1794,8 +1794,21 @@ data-collection =
     .description = Nus ans engaschain per ta dar la pussaivladad da tscherner e rimnain mo las datas essenzialas necessarias per meglierar { -brand-product-name } per tut:tas.
     .searchkeywords = telemetria
 data-collection-link = Vesair la decleraziun davart la protecziun da datas
+data-collection-preferences-across-profiles =
+    .message = Quests parameters han effect sin tut ils profils da { -brand-product-name } da quest apparat.
+data-collection-profiles-link = Mussar tut ils profils
+data-collection-health-report-telemetry-disabled =
+    .message = Ti na permettas betg pli a { -vendor-short-name } da registrar datas davart la tecnica e l'interacziun. Tut las datas dal passà vegnan stizzadas entaifer 30 dis.
+data-collection-health-report =
+    .label = Trametter datas tecnicas e d’interacziun a { -vendor-short-name }
+    .accesskey = r
+    .description = Quai ans gida a meglierar las funcziuns, la prestaziun e la stabilitad da { -brand-product-name }.
 data-collection-studies-link =
     .label = Vesair ils studis da { -brand-short-name }
+data-collection-usage-ping =
+    .label = Trametter in ping d’utilisaziun quotidian a { -vendor-short-name }
+    .description = Quai gida { -vendor-short-name } a stimar ils utilisaders activs.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
