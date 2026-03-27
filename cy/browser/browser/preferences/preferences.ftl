@@ -27,6 +27,8 @@ non-technical-privacy-header = Dewisiadau Preifatrwydd Gwefan
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Rheoli Preifatrwydd Eang (GPC)
 settings-page-title = Gosodiadau
+category-nav-heading =
+    .heading = Gosodiadau
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Mae eich porwr yn cael ei reoli gan eich sefydliad.
 managed-notice-info-icon =
     .alt = Manylion
+managed-notice-nav =
+    .label = Mae eich porwr yn cael ei reoli gan eich sefydliad.
 category-list =
     .aria-label = Categorïau
 pane-general-title = Cyffredinol
