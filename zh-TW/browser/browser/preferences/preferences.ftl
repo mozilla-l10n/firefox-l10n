@@ -2109,6 +2109,14 @@ privacy-segmentation-radio-off =
     .label = 使用 { -brand-product-name } 推薦設定
 privacy-segmentation-radio-on =
     .label = 顯示詳細資訊
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } 資料收集與使用
+    .description = 我們盡力提供您不同選擇，也只會收集最少而必須的資料，以用於為所有人改善 { -brand-product-name }。
+    .searchkeywords = telemetry
+data-collection-link = 檢視隱私權公告
+data-collection-studies-link =
+    .label = 檢視 { -brand-short-name } 所進行的研究
 
 ## Privacy Section - Website Advertising Preferences
 
