@@ -2118,6 +2118,8 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name } önerilerini kullan
 privacy-segmentation-radio-on =
     .label = Ayrıntılı bilgileri göster
+data-collection-studies-link =
+    .label = { -brand-short-name } araştırmalarını göster
 
 ## Privacy Section - Website Advertising Preferences
 
