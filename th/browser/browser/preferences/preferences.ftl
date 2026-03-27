@@ -2101,6 +2101,12 @@ privacy-segmentation-radio-off =
     .label = ใช้คำแนะนำจาก { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = แสดงข้อมูลโดยละเอียด
+data-collection-link = ดูประกาศความเป็นส่วนตัว
+data-collection-preferences-across-profiles =
+    .message = การตั้งค่าเหล่านี้จะมีผลกับโปรไฟล์ { -brand-product-name } ทุกอันบนอุปกรณ์นี้
+data-collection-profiles-link = ดูโปรไฟล์ทั้งหมด
+data-collection-health-report-telemetry-disabled =
+    .message = คุณจะไม่อนุญาตให้ { -vendor-short-name } เก็บข้อมูลทางเทคนิคและการโต้ตอบอีกต่อไป ข้อมูลที่ผ่านมาทั้งหมดจะถูกลบภายใน 30 วัน
 data-collection-studies-link =
     .label = ดูการศึกษาของ { -brand-short-name }
 
