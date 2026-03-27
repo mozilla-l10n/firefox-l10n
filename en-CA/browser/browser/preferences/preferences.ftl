@@ -2124,6 +2124,17 @@ privacy-segmentation-radio-off =
     .label = Use { -brand-product-name } recommendations
 privacy-segmentation-radio-on =
     .label = Show detailed information
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } Data Collection and Use
+    .description = We strive to provide you with choices and collect only the minimal data necessary to improve { -brand-product-name } for everyone.
+    .searchkeywords = telemetry
+data-collection-link = View Privacy Notice
+data-collection-preferences-across-profiles =
+    .message = These settings apply to every { -brand-product-name } profile on this device.
+data-collection-profiles-link = View all profiles
+data-collection-health-report-telemetry-disabled =
+    .message = You’re no longer allowing { -vendor-short-name } to capture technical and interaction data. All past data will be deleted within 30 days.
 data-collection-studies-link =
     .label = View { -brand-short-name } studies
 
