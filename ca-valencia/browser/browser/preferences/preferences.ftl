@@ -9,6 +9,8 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Sempre
 settings-page-title = Paràmetres
+category-nav-heading =
+    .heading = Paràmetres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -21,6 +23,8 @@ search-input-box2 =
     .style = width: 15.4em
     .placeholder = Cerca en els paràmetres
 managed-notice = El navegador està gestionat per la vostra organització.
+managed-notice-nav =
+    .label = El navegador està gestionat per la vostra organització.
 category-list =
     .aria-label = Categories
 pane-general-title = General
