@@ -1308,6 +1308,10 @@ privacy-segmentation-radio-off =
     .label = Cleachd molaidhean { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Seall am mion-fhiosrachadh
+data-collection-health-report-telemetry-disabled =
+    .message = Chan eil thu a’ toirt cead dha { -vendor-short-name } tuilleadh airson dàta teicnigeach ’s nan eadar-ghnìomhan a ghlacadh. Thèid dàta sam bith a chaidh a chruinneachadh cheana a sguabadh às am broinn 30 latha.
+data-collection-studies-link =
+    .label = Seall obair-rannsachaidh { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
