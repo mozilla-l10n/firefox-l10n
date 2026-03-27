@@ -985,6 +985,8 @@ collection-health-report-telemetry-disabled-link = Ka´vi kue´eka
 collection-health-report-link = Ka´vi kue´eka
 collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
+data-collection-studies-link =
+    .label = Kune'ya da estudio { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
