@@ -2113,6 +2113,12 @@ privacy-segmentation-radio-off =
     .label = שימוש בהצעות של { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = הצגת מידע מפורט
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = איסוף המידע של { -brand-short-name }
+    .description = אנו שואפים לספק לך אפשרויות בחירה ולאסוף רק את הנתונים המינימליים הדרושים כדי לשפר את { -brand-product-name } עבור כולם.
+    .searchkeywords = טלמטריה
+data-collection-link = הצגת הצהרת הפרטיות
 data-collection-studies-link =
     .label = הצגת המחקרים של { -brand-short-name }
 
