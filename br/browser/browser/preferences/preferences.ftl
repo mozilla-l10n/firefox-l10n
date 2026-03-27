@@ -12,6 +12,8 @@ global-privacy-control-description =
     .label = Goulenn gant al lec’hiennoù ne vefe ket gwerzhet pe rannet ma roadennoù
     .accesskey = G
 settings-page-title = Arventennoù
+category-nav-heading =
+    .heading = Arventennoù
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
