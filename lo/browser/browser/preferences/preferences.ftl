@@ -1217,6 +1217,10 @@ privacy-segmentation-radio-off =
     .label = ໃຊ້ຄຳແນະນຳ { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = ສະແດງຂໍ້ມູນລະອຽດ
+data-collection-health-report-telemetry-disabled =
+    .message = ທ່ານບໍ່ສາມາດອະນຸຍາດໃຫ້ { -vendor-short-name } ບັນທຶກຂໍ້ມູນດ້ານວິຊາການ ແລະການໂຕ້ຕອບໄດ້ອີກຕໍ່ໄປ. ຂໍ້ມູນທີ່ຜ່ານມາທັງໝົດຈະຖືກລຶບພາຍໃນ 30 ມື້.
+data-collection-studies-link =
+    .label = ເບິ່ງການສຶກສາຂອງ { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
