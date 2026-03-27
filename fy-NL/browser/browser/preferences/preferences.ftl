@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = Jo steane { -vendor-short-name } n
 collection-health-report-telemetry-disabled-link = Mear ynfo
 backup-multi-profile-warning-message =
     .message = Iepenje elk profyl en kies ‘No in reservekopy meitsje’ yn Ynstellingen om derfoar te soargjen dat dizze wiziging yn jo reservekopyen opnommen wurdt.
+addon-recommendations3 =
+    .label = Personalisearre útwreidingsoanrekommandaasjes tastean
+    .description = Untfang útwreidingsoanrekommandaasjes om jo sneupûnderfining te ferbetterjen.
 collection-usage-ping =
     .label = Ping foar deistich gebrûk nei { -vendor-short-name } ferstjoerd
     .accesskey = d
@@ -2121,6 +2124,14 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-oanrekommandaasjes brûke
 privacy-segmentation-radio-on =
     .label = Detailynformaasje toane
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name }-gegevenssamling en -gebrûk
+    .description = Wy stribje dernei om jo kar te jaan en allinnich de minimale gegevens te sammeljen dy’t nedich binne om { -brand-product-name } foar elkenien te ferbetterjen.
+    .searchkeywords = telemetry
+data-collection-link = Privacyferklearring besjen
+data-collection-studies-link =
+    .label = { -brand-short-name }-ûndersiken werjaan
 
 ## Privacy Section - Website Advertising Preferences
 
