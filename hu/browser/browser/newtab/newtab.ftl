@@ -362,6 +362,8 @@ newtab-wallpaper-title = Háttérképek
 newtab-wallpaper-reset = Visszaállítás az alapértelmezésre
 newtab-wallpaper-upload-image = Kép feltöltése
 newtab-wallpaper-custom-color = Válasszon színt
+newtab-wallpaper-toggle-title =
+    .label = Háttérképek
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A kép túllépte a { $file_size } MB-os fájlméretkorlátot. Próbáljon meg egy kisebb fájlt feltölteni.
