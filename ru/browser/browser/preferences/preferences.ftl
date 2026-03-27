@@ -2128,10 +2128,21 @@ privacy-segmentation-radio-off =
     .label = Использовать советы { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Показать подробные сведения
+data-collection-preferences-across-profiles =
+    .message = Эти настройки применяются ко всем профилям { -brand-product-name } на этом устройстве.
+data-collection-profiles-link = Просмотреть все профили
 data-collection-health-report-telemetry-disabled =
     .message = Вы больше не разрешаете { -vendor-short-name } собирать технические данные и данные взаимодействия. Все собранные ранее данные будут удалены в течение 30 дней.
+data-collection-health-report =
+    .label = Отправлять технические данные и данные взаимодействия в { -vendor-short-name }
+    .accesskey = к
+    .description = Это поможет нам улучшить возможности, производительность и стабильность { -brand-product-name }.
 data-collection-studies-link =
     .label = Просмотреть исследования { -brand-short-name }
+data-collection-usage-ping =
+    .label = Отправлять ежедневный пинг использования в { -vendor-short-name }
+    .description = Это помогает { -vendor-short-name } оценить активных пользователей.
+    .accesskey = г
 
 ## Privacy Section - Website Advertising Preferences
 
