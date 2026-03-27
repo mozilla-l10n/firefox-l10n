@@ -2076,6 +2076,9 @@ collection-health-report-telemetry-disabled = S’e lejoni më { -vendor-short-n
 collection-health-report-telemetry-disabled-link = Mësoni më tepër
 backup-multi-profile-warning-message =
     .message = Që të garantohet se ky ndryshim përfshihet në kopjeruajtjet tuaja, hapni çdo profil dhe zgjidhni “Kopjeruaje tani” te Rregullimet.
+addon-recommendations3 =
+    .label = Lejo rekomandime të personalizuara rreth zgjerimesh
+    .description = Merrni rekomandime zgjerimesh, për të përmirësuar funksionimin e shfletimit tuaj.
 collection-usage-ping =
     .label = Dërgo te { -vendor-short-name } ping përdorimi ditor
     .accesskey = D
@@ -2121,6 +2124,18 @@ privacy-segmentation-radio-off =
     .label = Përdorni rekomandime { -brand-product-name }-i
 privacy-segmentation-radio-on =
     .label = Shfaq të dhëna të hollësishme
+data-collection-health-report-telemetry-disabled =
+    .message = S’e lejoni më { -vendor-short-name }-n të marrë të dhëna teknike dhe ndërveprimesh. Krejt të dhënat e dikurshme do të fshihen brenda 30 ditësh.
+data-collection-health-report =
+    .label = Dërgo te { -vendor-short-name } të dhëna teknike dhe ndërveprimesh
+    .accesskey = k
+    .description = Kjo na ndihmon të përmirësojmë veçori, funksionimin dhe qëndrueshmërinë e { -brand-product-name }-it.
+data-collection-studies-link =
+    .label = Shihni studime { -brand-short-name }
+data-collection-usage-ping =
+    .label = Dërgo te { -vendor-short-name } ping përdorimi ditor
+    .description = Kjo e ndihmon { -vendor-short-name }-n të hamendësojë numrin e përdoruesve aktivë.
+    .accesskey = D
 
 ## Privacy Section - Website Advertising Preferences
 
