@@ -2038,6 +2038,14 @@ privacy-segmentation-radio-off =
     .label = Folosește recomandările { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Afișează informații detaliate
+data-collection-health-report-telemetry-disabled =
+    .message = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
+data-collection-studies-link =
+    .label = Vezi studiile { -brand-short-name }
+data-collection-usage-ping =
+    .label = Trimite un ping de utilizare zilnică către { -vendor-short-name }
+    .description = Ajută { -vendor-short-name } să estimeze utilizatorii activi.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
