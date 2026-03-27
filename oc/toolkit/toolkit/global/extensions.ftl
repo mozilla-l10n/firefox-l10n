@@ -43,6 +43,9 @@ webext-perms-sideload-cancel =
     .accesskey = n
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } es estat mes a jorn. Devètz aprovar las autorizacions novèlas abans l’installacion de la version novèla. Seleccionar « Anullar » servarà la version actuala de l’extension.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } es estat actualizat. Devètz aprovar de permissions novèlas abans d'installar la version actualizada. Causir « Anullar »  mantendrà la version actuala de l’extension. Aquesta extension aurà la permission de :
 webext-perms-update-accept =
     .label = Metre a jorn

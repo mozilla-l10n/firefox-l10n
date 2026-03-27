@@ -41,6 +41,9 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = D’acòrdi
     .buttonaccesskey = D
 appmenu-addon-post-install-message3 = Gerissètz vòstres moduls complementaris e tèmas via lo menú de l’aplicacion.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Podètz actualizar las autorizacions e preferéncias de donadas quand volgatz dins los <a data-l10n-name="settings-link">paramètres d’exetension</a>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autorizar aquesta extension en navegacion privada
     .accesskey = A
