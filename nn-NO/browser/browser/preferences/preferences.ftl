@@ -2121,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = Bruk { -brand-product-name }-tilrådingar
 privacy-segmentation-radio-on =
     .label = Vis detaljert informasjon
+data-collection-studies-link =
+    .label = Vis { -brand-short-name }-studium
 
 ## Privacy Section - Website Advertising Preferences
 
