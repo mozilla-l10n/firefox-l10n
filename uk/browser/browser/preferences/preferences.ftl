@@ -20,6 +20,8 @@ non-technical-privacy-header = Налаштування приватності �
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Налаштування
+category-nav-heading =
+    .heading = Налаштування
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Вашим браузером керує ваша організація.
 managed-notice-info-icon =
     .alt = Інформація
+managed-notice-nav =
+    .label = Вашим браузером керує ваша організація.
 category-list =
     .aria-label = Категорії
 pane-general-title = Загальні
