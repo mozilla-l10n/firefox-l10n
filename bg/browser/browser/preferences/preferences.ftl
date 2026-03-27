@@ -1572,6 +1572,18 @@ privacy-segmentation-radio-off =
     .label = Използвайте препоръките от { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Показване на подробна информация
+data-collection-health-report-telemetry-disabled =
+    .message = Вече не позволявате на { -vendor-short-name } да събира технически данни и данни за взаимодействията. Всички стари данни ще бъдат изтрити в рамките на 30 дни.
+data-collection-health-report =
+    .label = Изпращане на технически данни и данни за взаимодействие към { -vendor-short-name }
+    .accesskey = т
+    .description = Това ни помага да подобрим възможностите, производителността и стабилността на { -brand-product-name }.
+data-collection-studies-link =
+    .label = Преглед на изследванията на { -brand-short-name }
+data-collection-usage-ping =
+    .label = Ежедневно изпращане на сигнал до { -vendor-short-name }, че продуктът се ползва
+    .description = Това помага на { -vendor-short-name } да направи приблизителна преценка на броя активни потребители.
+    .accesskey = Е
 
 ## Privacy Section - Website Advertising Preferences
 
