@@ -2151,6 +2151,9 @@ collection-health-report-telemetry-disabled = Више не дозвољават
 collection-health-report-telemetry-disabled-link = Сазнајте више
 backup-multi-profile-warning-message =
     .message = Да бисте били сигурни да је ова измена укључена у ваше резервне копије, отворите сваки профил и изаберите „Направи резервну копију сада“ у подешавањима.
+addon-recommendations3 =
+    .label = Дозволи персонализоване препоруке за додатке
+    .description = Преузмите препоруке за додатке како бисте побољшали своје искуство прегледања.
 collection-usage-ping =
     .label = Шаљите дневне податке о коришћењу { -vendor-short-name }-у
     .accesskey = д
@@ -2202,6 +2205,8 @@ privacy-segmentation-radio-off =
     .label = Користите { -brand-product-name } препоруке
 privacy-segmentation-radio-on =
     .label = Прикажи детаљне информације
+data-collection-studies-link =
+    .label = Погледајте { -brand-short-name } студије
 
 ## Privacy Section - Website Advertising Preferences
 
