@@ -363,6 +363,8 @@ newtab-wallpaper-title = Шпалери
 newtab-wallpaper-reset = Відновити типові
 newtab-wallpaper-upload-image = Вивантажте зображення
 newtab-wallpaper-custom-color = Виберіть колір
+newtab-wallpaper-toggle-title =
+    .label = Шпалери
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Зображення перевищує обмеження розміру файлу в { $file_size } МБ. Спробуйте вивантажити менший файл.
