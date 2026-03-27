@@ -2039,6 +2039,9 @@ collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } 
 collection-privacy-notice = Pribatutasun-oharra
 collection-health-report-telemetry-disabled = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
 collection-health-report-telemetry-disabled-link = Argibide gehiago
+addon-recommendations3 =
+    .label = Baimendu hedapenen pertsonalizatutako gomendioak
+    .description = Jaso hedapenen gomendioak zure nabigatze-esperientzia hobetzeko.
 collection-usage-ping =
     .label = Bidali eguneroko erabilpenaren ping-a { -vendor-short-name }(r)a
     .accesskey = r
@@ -2084,6 +2087,27 @@ privacy-segmentation-radio-off =
     .label = Erabili { -brand-product-name } gomendioak
 privacy-segmentation-radio-on =
     .label = Erakutsi informazio xehatua
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } datuen bilketa eta erabilera
+    .description = Zuri aukerak eskaintzen ahalegintzen gara eta { -brand-product-name } guztiontzat hobetzeko behar diren gutxieneko datuak biltzen ditugu soilik.
+    .searchkeywords = telemetria
+data-collection-link = Ikusi pribatutasun-oharra
+data-collection-preferences-across-profiles =
+    .message = Ezarpen hauek gailu honetako { -brand-product-name }(r)en profil guztiei eragiten die.
+data-collection-profiles-link = Ikusi profil guztiak
+data-collection-health-report-telemetry-disabled =
+    .message = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
+data-collection-health-report =
+    .label = Bidali datu tekniko eta interakziozkoak { -vendor-short-name }(r)a
+    .accesskey = r
+    .description = Honek { -brand-product-name }(r)en eginbideak, errendimendua eta egonkortasuna hobetzen laguntzen digu.
+data-collection-studies-link =
+    .label = Ikusi { -brand-short-name } esperimentuak
+data-collection-usage-ping =
+    .label = Bidali eguneroko erabilpenaren ping-a { -vendor-short-name }(r)a
+    .description = Honek erabiltzaile aktiboen kopurua kalkulatzen laguntzen dio { -vendor-short-name }(r)i.
+    .accesskey = r
 
 ## Privacy Section - Website Advertising Preferences
 
