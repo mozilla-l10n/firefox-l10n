@@ -361,6 +361,8 @@ newtab-wallpaper-title = Isfundos de ischermu
 newtab-wallpaper-reset = Ripristina comente predefinidu
 newtab-wallpaper-upload-image = Càrriga un’immàgine
 newtab-wallpaper-custom-color = Sèbera unu colore
+newtab-wallpaper-toggle-title =
+    .label = Isfundos de ischermu
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = S’immàgine bàrigat su lìmite de mannària de archìviu de { $file_size } MB. Torra·nche a proare carrighende un’archìviu prus piticu.
