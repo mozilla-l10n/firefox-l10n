@@ -2080,6 +2080,9 @@ collection-health-report-telemetry-disabled = Et enää salli { -vendor-short-na
 collection-health-report-telemetry-disabled-link = Lue lisää
 backup-multi-profile-warning-message =
     .message = Varmistaaksesi, että tämä muutos sisältyy varmuuskopioihisi, avaa jokainen profiili ja valitse asetuksissa ”Varmuuskopioi nyt”.
+addon-recommendations3 =
+    .label = Salli henkilökohtaiset laajennussuositukset
+    .description = Hanki laajennussuosituksia parantaaksesi selauskokemustasi.
 collection-usage-ping =
     .label = Lähetä päivittäinen käyttöilmoitus { -vendor-short-name }lle
     .accesskey = u
@@ -2125,6 +2128,10 @@ privacy-segmentation-radio-off =
     .label = Käytä { -brand-product-name }-suosituksia
 privacy-segmentation-radio-on =
     .label = Näytä yksityiskohtaiset tiedot
+data-collection-health-report-telemetry-disabled =
+    .message = Et enää salli { -vendor-short-name }n vastaanottaa teknisiä ja käyttötilastoja. Kaikki aikaisemmat tiedot poistetaan 30 päivän kuluessa.
+data-collection-studies-link =
+    .label = Näytä { -brand-short-name }-tutkimukset
 
 ## Privacy Section - Website Advertising Preferences
 
