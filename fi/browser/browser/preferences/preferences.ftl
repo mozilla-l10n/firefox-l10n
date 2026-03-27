@@ -27,6 +27,8 @@ non-technical-privacy-header = Sivuston tietosuojakäytännöt
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Asetukset
+category-nav-heading =
+    .heading = Asetukset
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Organisaatiosi hallitsee selaimesi asetuksia.
 managed-notice-info-icon =
     .alt = Tietoa
+managed-notice-nav =
+    .label = Organisaatiosi hallitsee selaimesi asetuksia.
 category-list =
     .aria-label = Luokat
 pane-general-title = Yleiset
