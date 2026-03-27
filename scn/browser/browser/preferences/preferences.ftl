@@ -19,6 +19,8 @@ non-technical-privacy-header = Prifirenzi di privatizza dî siti web
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Cuntrollu Glubbali dâ Privatizza (GPC)
 settings-page-title = Paràmitri
+category-nav-heading =
+    .heading = Paràmitri
 managed-notice = U to navicaturi è manijatu dâ to urganizzazzioni.
 managed-notice-info-icon =
     .alt = Nfurmazzioni
