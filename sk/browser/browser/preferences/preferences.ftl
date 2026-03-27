@@ -2073,6 +2073,9 @@ collection-health-report-telemetry-disabled = Odosielanie technických údajov a
 collection-health-report-telemetry-disabled-link = Ďalšie informácie
 backup-multi-profile-warning-message =
     .message = Ak chcete zabezpečiť, aby sa táto zmena zahrnula do vašich záloh, otvorte každý profil a v Nastaveniach vyberte možnosť “Zálohovať teraz”.
+addon-recommendations3 =
+    .label = Povoliť prispôsobené odporúčania rozšírení
+    .description = Získajte odporúčania na rozšírenia, ktoré zlepšujú zážitok z prehliadania.
 collection-usage-ping =
     .label = Odosielať ping denného používania { -vendor-short-name(case: "gen") }
     .accesskey = l
@@ -2118,6 +2121,8 @@ privacy-segmentation-radio-off =
     .label = Použiť odporúčania { -brand-product-name(case: "gen") }
 privacy-segmentation-radio-on =
     .label = Zobraziť podrobné informácie
+data-collection-studies-link =
+    .label = Zobraziť štúdie aplikácie { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
