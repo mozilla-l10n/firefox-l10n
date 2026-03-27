@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Ανανεώστε τη σελίδα για
 
 newtab-custom-shortcuts-title = Συντομεύσεις
 newtab-custom-shortcuts-subtitle = Ιστότοποι από σελιδοδείκτες ή ιστορικό
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Συντομεύσεις
     .description = Ιστότοποι από σελιδοδείκτες ή ιστορικό

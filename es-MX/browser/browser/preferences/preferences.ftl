@@ -2300,6 +2300,3 @@ preferences-etp-custom-tracking-protection-enabled-context =
     .aria-label = Contenido de rastreo
 preferences-etp-custom-crypto-mining-protection-enabled =
     .label = Criptomineros
-
-## Warnings section
-

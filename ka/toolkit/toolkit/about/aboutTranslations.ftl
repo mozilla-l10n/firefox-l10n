@@ -38,11 +38,6 @@ about-translations-language-load-error-button = ხელახლა ცდა
 about-translations-translation-error-heading = ხარვეზი წარმოიშვა თარგმნისას
 about-translations-translation-error-subtext = გთხოვთ, სცადოთ ხელახლა.
 about-translations-translation-error-button = ხელახლა ცდა
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = სამწუხაროდ, ჯერ არაა მხარდაჭერილი { $language }
-about-translations-detected-language-unsupported-heading-unknown = სამწუხაროდ, ჯერ არაა მხარდაჭერილი ეს ენა
 about-translations-detected-language-unsupported-subtext = გთხოვთ, აირჩიოთ სხვა ენა.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

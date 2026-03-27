@@ -38,11 +38,6 @@ about-translations-language-load-error-button = Riprovoni
 about-translations-translation-error-heading = Pati një problem me përkthimin
 about-translations-translation-error-subtext = Ju lutemi, riprovoni.
 about-translations-translation-error-button = Riprovoni
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Na ndjeni, s’mbulojmë ende { $language }
-about-translations-detected-language-unsupported-heading-unknown = Na ndjeni, s’e mbulojmë ende këtë gjuhë
 about-translations-detected-language-unsupported-subtext = Ju lutemi, përzgjidhni një gjuhë tjetër.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

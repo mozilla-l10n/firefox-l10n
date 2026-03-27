@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = Yeniden denemek için sayfayı tazeleyin.
 
 newtab-custom-shortcuts-title = Kısayollar
 newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz siteler
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Kısayollar
     .description = Kaydettiğiniz veya ziyaret ettiğiniz siteler

@@ -2253,12 +2253,3 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Odustani
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokiraj
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

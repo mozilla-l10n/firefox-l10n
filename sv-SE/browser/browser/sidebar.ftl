@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Ta bort sidor från historiken
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Redigera bokmärke…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Ta bort bokmärke
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Ta bort
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Flikar från andra enheter
 sidebar-menu-cpm-header =
     .heading = Lösenord
+sidebar-menu-bookmarks-header =
+    .heading = Bokmärken
 sidebar-panel-header-close-button =
     .tooltiptext = Stäng
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Bokmärkesmeny
+sidebar-bookmarks-folder-toolbar = Bokmärkesfältet
+sidebar-bookmarks-folder-other = Andra bokmärken
+sidebar-bookmarks-folder-mobile = Mobila bokmärken
 
 ## Titles for sidebar menu panels.
 

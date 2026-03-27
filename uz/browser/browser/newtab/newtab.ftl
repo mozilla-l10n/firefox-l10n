@@ -56,9 +56,6 @@ newtab-topsites-image-url-label = Rasmning URL manzili
 newtab-topsites-use-image-link = Boshqa rasmdan foydalaning…
 newtab-topsites-image-validation = Rasm yuklanmadi. Boshqa URL manzildan foydalaning.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Bekor qilish
@@ -76,9 +73,6 @@ newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib boʻlmaydi.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Homiylik qilgan
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -114,9 +108,6 @@ newtab-menu-save-to-pocket = { -pocket-brand-name } xizmatiga saqlash
 newtab-menu-delete-pocket = { -pocket-brand-name } xizmatidan oʻchirish
 newtab-menu-archive-pocket = { -pocket-brand-name } xizmatiga arxivlash
 newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -229,12 +220,6 @@ newtab-pocket-learn-more = Batafsil
 newtab-pocket-cta-button = { -pocket-brand-name }ni yuklab olish
 newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmatiga saqlab qoʻying va maroqli oʻqib, tafakkuringizni rivojlantiring
 
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -250,68 +235,3 @@ newtab-custom-settings = Boshqa sozlamalarni boshqarish
 newtab-wallpaper-title = Fon rasmlari
 newtab-wallpaper-toggle-title =
     .label = Fon rasmlari
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-

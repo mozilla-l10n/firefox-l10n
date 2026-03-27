@@ -330,9 +330,6 @@ update-in-progress-ok-button = और छोड़े
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = और जारी रखें
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = प्रदर्शन
@@ -431,12 +428,6 @@ use-current-pages =
 choose-bookmark =
     .label = बुकमार्क का उपयोग करें…
     .accesskey = B
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -548,9 +539,6 @@ containers-settings-button =
 containers-remove-button =
     .label = हटायें
 
-## Account and sync
-
-
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -590,11 +578,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } सत्यापित नहीं है.
 sync-signedin-login-failure = फिर से कनेक्ट करने के लिए साइन इन करें { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -746,9 +729,6 @@ forms-windows-sso-learn-more-link = अधिक जानें
 master-password-os-auth-dialog-caption = { -brand-full-name }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = इतिहास
@@ -829,12 +809,6 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = कुकीज़ और साइट डेटा
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -998,9 +972,6 @@ collection-health-report-disabled = इस निर्मित विन्य
 data-collection-studies-link =
     .label = { -brand-short-name } अध्ययन देखें
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1040,23 +1011,8 @@ space-alert-over-5gb-settings-button =
 
 httpsonly-learn-more = अधिक जानें
 
-## DoH Section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाउनलोड
 choose-download-folder-title = डाउनलोड फोल्डर चुनें:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

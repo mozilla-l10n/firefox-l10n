@@ -70,9 +70,6 @@ newtab-topsites-image-url-label = Адрес на изображение по ж
 newtab-topsites-use-image-link = Използване изображение по желание…
 newtab-topsites-image-validation = Изображението не може да бъде заредено. Опитайте с друг адрес.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Отказ
@@ -307,6 +304,7 @@ newtab-error-fallback-refresh-link = Презаредете страницата
 
 newtab-custom-shortcuts-title = Препратки
 newtab-custom-shortcuts-subtitle = Страници за преглед по-късно
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Препратки
     .description = Страници за преглед по-късно
@@ -425,9 +423,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Firefox
-
-
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -489,34 +484,9 @@ newtab-topic-selection-button-maybe-later = Може би по-късно
 newtab-topic-selection-button-update-interests = Актуализирайте интересите си
 newtab-topic-selection-button-pick-interests = Изберете вашите интереси
 
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
 ## Strings for custom wallpaper highlight
 
 newtab-custom-wallpaper-cta = Опитайте
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
 
 ## Strings for task / to-do list productivity widget
 
@@ -530,9 +500,3 @@ newtab-widget-lists-input-menu-delete = Изтриване
 newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа
 newtab-promo-card-cta = Научете повече
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-

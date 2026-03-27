@@ -27,11 +27,6 @@ about-translations-language-load-error-message =
 about-translations-language-load-error-button = Prøv igen
 about-translations-translation-error-subtext = Prøv igen.
 about-translations-translation-error-button = Prøv igen
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Beklager, vi understøtter ikke { $language } endnu
-about-translations-detected-language-unsupported-heading-unknown = Beklager, vi understøtter ikke dette sprog endnu
 about-translations-detected-language-unsupported-subtext = Vælg et andet sprog.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

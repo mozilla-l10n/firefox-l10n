@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Uppdatera sidan för att försöka igen.
 
 newtab-custom-shortcuts-title = Genvägar
 newtab-custom-shortcuts-subtitle = Webbplatser du sparar eller besöker
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Genvägar
     .description = Webbplatser du sparar eller besöker

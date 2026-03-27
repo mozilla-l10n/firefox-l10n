@@ -2256,12 +2256,3 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anulează
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blochează
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

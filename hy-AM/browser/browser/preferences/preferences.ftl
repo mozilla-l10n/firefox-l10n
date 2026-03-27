@@ -2126,9 +2126,6 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Արգելափակել
 
-## Privacy and security status card
-
-
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookies-enabled =
@@ -2137,6 +2134,3 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Թխուկներ
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
-
-## Warnings section
-

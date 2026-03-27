@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Aktualizěrujśo bok, aby hyšći raz wopyt
 
 newtab-custom-shortcuts-title = Zwězanja
 newtab-custom-shortcuts-subtitle = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Zwězanja
     .description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo

@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Az újrapróbálkozáshoz frissítse az old
 
 newtab-custom-shortcuts-title = Gyorskeresők
 newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Gyorskeresők
     .description = Mentett vagy felkeresett webhelyek

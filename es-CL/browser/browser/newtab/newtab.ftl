@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = Recarga la página para volver a intentarlo
 
 newtab-custom-shortcuts-title = Atajos
 newtab-custom-shortcuts-subtitle = Sitios que guardas o visitas
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Atajos
     .description = Sitios que guardas o visitas

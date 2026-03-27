@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = Rifreskoni faqen që të riprovohet.
 
 newtab-custom-shortcuts-title = Shkurtore
 newtab-custom-shortcuts-subtitle = Sajte që ruani ose vizitoni
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Shkurtore
     .description = Sajte që ruani ose vizitoni

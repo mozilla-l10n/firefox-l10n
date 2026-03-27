@@ -2457,6 +2457,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Ojapyhyséva mokuãhũha
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Ojapyhyséva mokuãhũha
-
-## Warnings section
-

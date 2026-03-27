@@ -315,6 +315,7 @@ newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
 
 newtab-custom-shortcuts-title = Oikotiet
 newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Oikotiet
     .description = Tallentamasi tai vierailemasi sivustot

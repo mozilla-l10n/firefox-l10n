@@ -56,9 +56,6 @@ newtab-topsites-image-url-label = Adresa URL ôd włosnego ôbrozka
 newtab-topsites-use-image-link = Użyj włosnego ôbrozka…
 newtab-topsites-image-validation = Niy podarziło sie zaladować ôbrozka. Sprōbuj inkszyj adresy URL.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Pociep
@@ -76,9 +73,6 @@ newtab-confirm-delete-history-p2 = Tyj akcyje niy idzie cofnōńć.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Spōnsorowane
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -114,9 +108,6 @@ newtab-menu-save-to-pocket = Spamiyntej do { -pocket-brand-name(case: "gen") }
 newtab-menu-delete-pocket = Skasuj ze { -pocket-brand-name(case: "gen") }
 newtab-menu-archive-pocket = Archiwizuj we { -pocket-brand-name(case: "loc") }
 newtab-menu-show-privacy-info = Nasze spōnsory a twoja prywatność
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -232,12 +223,6 @@ newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
 newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } teksty, co ci pasujōm, coby durch mieć co ciekawego do poczytanio.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je tajlōm familije { -brand-product-name }
 
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -248,6 +233,7 @@ newtab-error-fallback-refresh-link = Ôdświyż strōna, coby sprōbować jeszcz
 
 newtab-custom-shortcuts-title = Skrōty
 newtab-custom-shortcuts-subtitle = Spamiyntane i nawiydzane strōny
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Skrōty
     .description = Spamiyntane i nawiydzane strōny
@@ -277,71 +263,3 @@ newtab-custom-recent-title = Niydowno aktywność
 newtab-custom-recent-subtitle = Wybōr z niydownych strōn i zawartości
 newtab-custom-close-button = Zawrzij
 newtab-custom-settings = Inksze nasztalowania
-
-## New Tab Wallpapers
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
-
-## Strings for task / to-do list productivity widget
-
-
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-

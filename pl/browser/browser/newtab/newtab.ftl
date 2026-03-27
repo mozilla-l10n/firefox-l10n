@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = Odśwież stronę, by spróbować ponownie
 
 newtab-custom-shortcuts-title = Skróty
 newtab-custom-shortcuts-subtitle = Zachowane i odwiedzane strony.
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Skróty
     .description = Zachowane i odwiedzane strony.

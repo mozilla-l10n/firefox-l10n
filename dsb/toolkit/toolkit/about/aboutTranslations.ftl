@@ -38,11 +38,6 @@ about-translations-language-load-error-button = Hyšći raz wopytaś
 about-translations-translation-error-heading = Jo dało problem pśi pśełožowanju
 about-translations-translation-error-subtext = Pšosym wopytajśo hyšći raz.
 about-translations-translation-error-button = Hyšći raz wopytaś
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Bóžko { $language } hyšći njepódpěrajomy
-about-translations-detected-language-unsupported-heading-unknown = Bóžko toś tu rěc hyšći njepódpěrajomy
 about-translations-detected-language-unsupported-subtext = Pšosym wubjeŕśo drugu rěc.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

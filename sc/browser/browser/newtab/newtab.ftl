@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = Agiorna sa pàgina pro torrare a proare.
 
 newtab-custom-shortcuts-title = Curtzadòrgios
 newtab-custom-shortcuts-subtitle = Sitos chi as sarvadu o bisitadu
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Curtzadòrgios
     .description = Sitos chi as sarvadu o bisitadu

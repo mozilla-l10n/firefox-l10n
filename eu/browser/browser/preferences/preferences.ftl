@@ -2350,6 +2350,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Susmopeko hatz-marka bidezko jarraipena
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Susmopeko hatz-marka bidezko jarraipena
-
-## Warnings section
-

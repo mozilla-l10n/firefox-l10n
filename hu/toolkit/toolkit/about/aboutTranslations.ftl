@@ -38,11 +38,6 @@ about-translations-language-load-error-button = Próbálja újra
 about-translations-translation-error-heading = Hiba történt a fordítás során
 about-translations-translation-error-subtext = Próbálja meg újra.
 about-translations-translation-error-button = Próbálja újra
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Sajnos a(z) { $language } nyelvet még nem támogatjuk.
-about-translations-detected-language-unsupported-heading-unknown = Sajnos még nem támogatjuk ezt a nyelvet.
 about-translations-detected-language-unsupported-subtext = Válasszon másik nyelvet.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

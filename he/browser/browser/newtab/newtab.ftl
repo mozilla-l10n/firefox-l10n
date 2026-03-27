@@ -305,6 +305,7 @@ newtab-error-fallback-refresh-link = נא לרענן את הדף כדי לנסו
 
 newtab-custom-shortcuts-title = קיצורי דרך
 newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = קיצורי דרך
     .description = אתרים ששמרת או ביקרת בהם

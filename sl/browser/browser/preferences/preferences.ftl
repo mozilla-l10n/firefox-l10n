@@ -2319,6 +2319,3 @@ preferences-etp-custom-cookies-enabled =
     .label = Piškotki
 preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
-
-## Warnings section
-

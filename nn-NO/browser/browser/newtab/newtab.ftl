@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = Oppdater sida for å prøve på nytt.
 
 newtab-custom-shortcuts-title = Snarvegar
 newtab-custom-shortcuts-subtitle = Nettstadar du lagrar eller besøkjer
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Snarvegar
     .description = Nettstadar du lagrar eller besøkjer

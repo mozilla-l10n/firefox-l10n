@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ku
 
 neterror-file-not-found-filename = Kontrollera om det finns stavfel eller andra typografiska fel i filnamnet.
 neterror-file-not-found-moved = Kontrollera om filen flyttats, fått ett annat namn eller tagits bort.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } kan inte hitta filen på <strong>{ $path }</strong>. Antingen finns den inte eller så är sökvägen felaktig.
+neterror-file-not-found-what-can-you-do = Om du skrev in adressen manuellt, kontrollera efter stavfel eller skrivfel i filnamnet eller sökvägen. Om du följde ett sparat bokmärke eller länk kan filen ha flyttats, fått ett annat namn eller tagits bort sedan den sparades. Försök hitta den med hjälp av din filhanterare eller en nyligen genomförd sökning.
 neterror-access-denied = Den kan ha tagits bort, flyttats eller så kan filrättigheter hindra tillgång.
 neterror-unknown-protocol = Du kan behöva installera andra program för att öppna den här sidan.
 neterror-redirect-loop = Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta emot kakor.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } kan inte skapa en säker anslutning till servern på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan inte ansluta till servern på <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Servern på <strong>{ $hostname }</strong> tar för lång tid att svara.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Servern på <strong>{ $hostname }</strong> skickade tillbaka ett fel: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } laddade inte den här sidan eftersom det ser ut som att säkerhetskonfigurationen inte matchar föregående sida.
 fp-neterror-http-auth-disabled-intro = Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som ditt användarnamn, lösenord eller e-postadress.
 fp-neterror-http-auth-disabled-secure-connection = Den här webbplatsen kräver en säker anslutning, och du kan inte lägga till ett undantag för att besöka den.

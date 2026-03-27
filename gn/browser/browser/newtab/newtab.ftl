@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = Kuatiarogue mbopiro’y eñepyrũjey hag̃u
 
 newtab-custom-shortcuts-title = Jeike pya’eha
 newtab-custom-shortcuts-subtitle = Tenda eñongatúva térã eikeha
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Jeike pya’eha
     .description = Tenda eñongatúva térã eikeha

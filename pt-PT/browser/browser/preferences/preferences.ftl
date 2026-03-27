@@ -582,9 +582,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -708,9 +705,6 @@ use-current-pages =
 choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
-
-## Home Section - Home Page Customization
-
 
 ## Custom Homepage subpage
 
@@ -971,11 +965,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } não está verificado.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1936,6 +1925,3 @@ preferences-etp-status-header =
 preferences-etp-advanced-settings-group =
     .label = Definições avançadas
     .description = Os sites utilizam rastreadores que seguem o que você faz online e para mostrar anúncios intrusivos. O { -brand-short-name } garante a sua proteção enquanto navega, bloqueando automaticamente a maioria dos rastreadores para que mantenha o controlo do seu rasto digital.
-
-## Warnings section
-

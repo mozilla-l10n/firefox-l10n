@@ -70,9 +70,6 @@ newtab-topsites-image-url-label = URL ar skeudenn personelaet
 newtab-topsites-use-image-link = Ober gant ur skeudenn personelaet…
 newtab-topsites-image-validation = N'haller ket kargan ar skeudenn. Klaskit gant un URL disheñvel.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Nullañ
@@ -90,9 +87,6 @@ newtab-confirm-delete-history-p2 = Ne c'haller ket dizober ar gwezh-mañ.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Paeroniet
-
-## Label used by screen readers for pinned top sites
-
 
 ## Context Menu - Action Tooltips.
 
@@ -277,6 +271,7 @@ newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
 
 newtab-custom-shortcuts-title = Berradennoù
 newtab-custom-shortcuts-subtitle = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Berradennoù
     .description = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
@@ -380,9 +375,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Firefox
-
-
 ## Celestial
 
 newtab-wallpaper-celestial-lunar-eclipse = Fallaenn loar
@@ -465,15 +457,6 @@ newtab-section-mangage-topics-followed-topics = O heuliañ
 newtab-section-mangage-topics-blocked-topics = Stanket
 newtab-custom-wallpaper-cta = Esaeañ
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting issues with ads and content
 
 newtab-report-cancel = Nullañ
@@ -488,13 +471,3 @@ newtab-widget-lists-menu-create = Krouiñ ur roll nevez
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Roll nevez
-
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-

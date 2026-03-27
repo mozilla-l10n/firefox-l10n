@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = Actualiza la página e intenta de nuevo.
 
 newtab-custom-shortcuts-title = Accesos directos
 newtab-custom-shortcuts-subtitle = Sitios que guardas o visitas
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Accesos directos
     .description = Sitios que guardas o visitas

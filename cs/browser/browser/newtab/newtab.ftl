@@ -317,6 +317,7 @@ newtab-error-fallback-refresh-link = Opětovným načtením stránky to zkuste z
 
 newtab-custom-shortcuts-title = Zkratky
 newtab-custom-shortcuts-subtitle = Uložené nebo navštěvované stránky
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Zkratky
     .description = Uložené nebo navštěvované stránky

@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Vernieuw de pagina om het opnieuw te prober
 
 newtab-custom-shortcuts-title = Snelkoppelingen
 newtab-custom-shortcuts-subtitle = Opgeslagen of bezochte websites
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Snelkoppelingen
     .description = Opgeslagen of bezochte websites

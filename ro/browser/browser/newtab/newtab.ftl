@@ -73,9 +73,6 @@ newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anulează
@@ -305,6 +302,7 @@ newtab-error-fallback-refresh-link = Reîmprospătează pagina pentru a încerca
 
 newtab-custom-shortcuts-title = Comenzi rapide
 newtab-custom-shortcuts-subtitle = Site-uri pe care le salvezi sau le vizitezi
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Comenzi rapide
     .description = Site-uri pe care le salvezi sau le vizitezi

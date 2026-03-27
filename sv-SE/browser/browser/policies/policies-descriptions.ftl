@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ange policyer som WebExtensions kan komma åt via chrome.storage.managed.
+policy-AIControls = Konfigurera AI-kontroller.
 policy-AllowedDomainsForApps = Definiera domäner som får åtkomst till Google Workspace.
 policy-AllowFileSelectionDialogs = Tillåt filmarkeringsdialoger.
 policy-AppAutoUpdate = Aktivera eller inaktivera automatisk applikationsuppdatering.
@@ -90,6 +91,7 @@ policy-Homepage = Ställ in och eventuellt lås startsidan.
 policy-HttpAllowlist = Ursprung som inte kommer att uppgraderas till HTTPS.
 policy-HttpsOnlyMode = Tillåt endast HTTPS-läge.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
+policy-IPProtectionAvailable = Förhindra att inbyggt VPN från att vara tillgängligt för användarna.
 policy-LegacyProfiles = Inaktivera funktionen som framtvingar en separat profil för varje installation
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Ställ in och lås värdet för en delmängd av inställnin
 policy-PrivateBrowsingModeAvailability = Ange tillgänglighet för privat surfläge.
 policy-PromptForDownloadLocation = Fråga var du ska spara filer när du laddar ner.
 policy-Proxy = Ange inställningar för proxy.
+policy-RelaunchRequired = Kräv att { -brand-short-name } ska återstartas inom en viss period och meddela användaren om den kommande nylanseringen.
 policy-RequestedLocales = Ange listan över begärda språk för programmet efter ordning i inställningar.
 policy-SanitizeOnShutdown2 = Rensa navigeringsdata vid avstängning.
 policy-SearchBar = Ange standardplacering av sökfältet. Användaren kan fortfarande flytta det.

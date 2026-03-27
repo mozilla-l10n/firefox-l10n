@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = Oppdater siden for å prøve igjen.
 
 newtab-custom-shortcuts-title = Snarveier
 newtab-custom-shortcuts-subtitle = Nettsteder du lagrer eller besøker
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Snarveier
     .description = Nettsteder du lagrer eller besøker

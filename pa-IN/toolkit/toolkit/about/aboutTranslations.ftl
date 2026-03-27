@@ -38,11 +38,6 @@ about-translations-language-load-error-button = ਫੇਰ ਕੋਸ਼ਿਸ਼ 
 about-translations-translation-error-heading = ਅਨੁਵਾਦ ਕਰਨ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਸੀ
 about-translations-translation-error-subtext = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ
 about-translations-translation-error-button = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = ਅਫ਼ਸੋਸ, ਤੁਸੀਂ { $language } ਭਾਸ਼ਾ ਲਈ ਹਾਲੇ ਸਹਿਯੋਗੀ ਨਹੀਂ ਹੈ
-about-translations-detected-language-unsupported-heading-unknown = ਅਫ਼ਸੋਸ, ਅਸੀਂ ਹਾਲੇ ਇਸ ਭਾਸ਼ਾ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹਾਂ
 about-translations-detected-language-unsupported-subtext = ਕਿਰਪਾ ਕਰਕੇ ਹੋਰ ਭਾਸ਼ਾ ਚੁਣੋ।
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

@@ -38,11 +38,6 @@ about-translations-language-load-error-button = Opnieuw proberen
 about-translations-translation-error-heading = Er is een probleem opgetreden bij het vertalen
 about-translations-translation-error-subtext = Probeer het opnieuw.
 about-translations-translation-error-button = Opnieuw proberen
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Sorry, we ondersteunen nog geen { $language }
-about-translations-detected-language-unsupported-heading-unknown = Sorry, we ondersteunen deze taal nog niet
 about-translations-detected-language-unsupported-subtext = Kies een andere taal.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

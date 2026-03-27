@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Fernij de side om it opnij te probearjen.
 
 newtab-custom-shortcuts-title = Fluchkeppelingen
 newtab-custom-shortcuts-subtitle = Bewarre of besochte websites
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Fluchkeppelingen
     .description = Bewarre of besochte websites

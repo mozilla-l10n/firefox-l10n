@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Thử làm mới lại trang.
 
 newtab-custom-shortcuts-title = Lối tắt
 newtab-custom-shortcuts-subtitle = Các trang web bạn lưu hoặc truy cập
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Lối tắt
     .description = Các trang web bạn lưu hoặc truy cập

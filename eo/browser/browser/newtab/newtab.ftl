@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = Refreŝigi paĝon por klopodi denove.
 
 newtab-custom-shortcuts-title = Ŝparvojoj
 newtab-custom-shortcuts-subtitle = Retejoj konservitaj aŭ vizititaj de vi
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Ŝparvojoj
     .description = Retejoj konservitaj aŭ vizititaj de vi

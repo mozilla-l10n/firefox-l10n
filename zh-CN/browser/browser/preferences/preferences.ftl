@@ -2359,6 +2359,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = 存疑的数字指纹跟踪程序
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = 存疑的数字指纹跟踪程序
-
-## Warnings section
-

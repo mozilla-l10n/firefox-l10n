@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = Osvežite stran za ponoven poskus.
 
 newtab-custom-shortcuts-title = Bližnjice
 newtab-custom-shortcuts-subtitle = Strani, ki jih shranite ali obiščete
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Bližnjice
     .description = Strani, ki jih shranite ali obiščete

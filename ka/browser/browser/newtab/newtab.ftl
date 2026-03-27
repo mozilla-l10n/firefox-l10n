@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = განაახლეთ გვერდ
 
 newtab-custom-shortcuts-title = მალსახმობები
 newtab-custom-shortcuts-subtitle = საიტები, რომლებსაც ინახავთ ან სტუმრობთ
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = მალსახმობები
     .description = საიტები, რომლებსაც ინახავთ ან სტუმრობთ

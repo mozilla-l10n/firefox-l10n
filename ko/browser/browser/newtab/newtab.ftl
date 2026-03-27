@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = 페이지를 새로 고침해서 다시 시
 
 newtab-custom-shortcuts-title = 바로 가기
 newtab-custom-shortcuts-subtitle = 저장하거나 방문한 사이트
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = 바로 가기
     .description = 저장하거나 방문한 사이트

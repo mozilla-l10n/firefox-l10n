@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = 請重新整理頁面再試一次。
 
 newtab-custom-shortcuts-title = 捷徑
 newtab-custom-shortcuts-subtitle = 您儲存或造訪過的網站
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = 捷徑
     .description = 您儲存或造訪過的網站

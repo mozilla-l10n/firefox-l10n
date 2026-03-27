@@ -38,11 +38,6 @@ about-translations-language-load-error-button = Попробовать снов�
 about-translations-translation-error-heading = При переводе возникла проблема
 about-translations-translation-error-subtext = Пожалуйста, попробуйте снова.
 about-translations-translation-error-button = Попробовать снова
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = К сожалению, мы пока не поддерживаем { $language }
-about-translations-detected-language-unsupported-heading-unknown = Извините, мы пока не поддерживаем этот язык
 about-translations-detected-language-unsupported-subtext = Пожалуйста, выберите другой язык.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

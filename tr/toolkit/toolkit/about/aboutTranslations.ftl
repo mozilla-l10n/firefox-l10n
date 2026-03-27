@@ -38,11 +38,6 @@ about-translations-language-load-error-button = Yeniden dene
 about-translations-translation-error-heading = Çeviri sırasında bir sorun oluştu
 about-translations-translation-error-subtext = Lütfen yeniden deneyin.
 about-translations-translation-error-button = Yeniden dene
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Maalesef henüz { $language } dilini desteklemiyoruz
-about-translations-detected-language-unsupported-heading-unknown = Ne yazık ki henüz bu dili desteklemiyoruz
 about-translations-detected-language-unsupported-subtext = Lütfen başka bir dil seçin.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

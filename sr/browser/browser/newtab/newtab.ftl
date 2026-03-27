@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = Освежите страницу да би
 
 newtab-custom-shortcuts-title = Пречице
 newtab-custom-shortcuts-subtitle = Сачувани или посећени сајтови
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Пречице
     .description = Сачувани или посећени сајтови

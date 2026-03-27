@@ -38,11 +38,6 @@ about-translations-language-load-error-button = Ceisiwch eto
 about-translations-translation-error-heading = Bu problem wrth gyfieithu
 about-translations-translation-error-subtext = Ceisiwch eto.
 about-translations-translation-error-button = Ceisiwch eto
-# An informational message displayed when the detected language is not supported.
-# Variables:
-#   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading = Ymddiheuriadau, dydyn ni ddim yn cefnogi'r { $language } eto.
-about-translations-detected-language-unsupported-heading-unknown = Ymddiheuriadau, dydyn ni ddim yn cefnogi'r { $language } eto.
 about-translations-detected-language-unsupported-subtext = Dewiswch iaith arall
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

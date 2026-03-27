@@ -307,6 +307,7 @@ newtab-error-fallback-refresh-link = Actualisez la page pour réessayer.
 
 newtab-custom-shortcuts-title = Raccourcis
 newtab-custom-shortcuts-subtitle = Sites que vous enregistrez ou visitez
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Raccourcis
     .description = Sites que vous enregistrez ou visitez

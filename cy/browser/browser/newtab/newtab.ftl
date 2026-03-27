@@ -312,6 +312,7 @@ newtab-error-fallback-refresh-link = Adnewyddu'r dudalen i geisio eto.
 
 newtab-custom-shortcuts-title = Llwybrau Byr
 newtab-custom-shortcuts-subtitle = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Llwybrau Byr
     .description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw

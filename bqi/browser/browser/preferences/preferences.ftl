@@ -190,10 +190,6 @@ browser-containers-settings =
 startup-group =
     .label = ره وندن
 
-## Variables:
-##   $tabCount (number) - Number of tabs
-
-
 ##
 
 containers-disable-alert-cancel-button = فعال بمهنه
@@ -807,13 +803,6 @@ sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
-## Privacy Section
-
-
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
@@ -952,9 +941,6 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = کۊکیا وو داده یل وبگه
-
-## Privacy Section - Cookie Banner Handling
-
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1139,9 +1125,6 @@ collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز
 addon-recommendations-link = قلوه دووسته بۊین
 data-collection-profiles-link = نیشتن پوی پوروفایلا
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1266,6 +1249,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = جا کلکا مشکۊک
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = جا کلکا مشکۊک
-
-## Warnings section
-

@@ -310,6 +310,7 @@ newtab-error-fallback-refresh-link = Berritu orria berriro saiatzeko.
 
 newtab-custom-shortcuts-title = Lasterbideak
 newtab-custom-shortcuts-subtitle = Gordetzen edo bisitatzen dituzun guneak
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Lasterbideak
     .description = Gordetzen edo bisitatzen dituzun guneak

@@ -311,6 +311,7 @@ newtab-error-fallback-refresh-link = Қайталап көру үшін, бет�
 
 newtab-custom-shortcuts-title = Жарлықтар
 newtab-custom-shortcuts-subtitle = Сіз сақтайтын немесе шолатын сайттар
+#  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Жарлықтар
     .description = Сіз сақтайтын немесе шолатын сайттар
