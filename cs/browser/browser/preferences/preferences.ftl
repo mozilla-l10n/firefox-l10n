@@ -2368,6 +2368,12 @@ privacy-segmentation-radio-off =
         }
 privacy-segmentation-radio-on =
     .label = Zobrazit podrobnosti
+data-collection-studies-link =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
+           *[no-cases] Zobrazit studie aplikace { -brand-short-name }
+        }
 
 ## Privacy Section - Website Advertising Preferences
 
