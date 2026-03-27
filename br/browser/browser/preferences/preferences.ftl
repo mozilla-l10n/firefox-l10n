@@ -1347,6 +1347,10 @@ privacy-segmentation-radio-off =
     .label = Ober gant alioù { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Diskouez an titouroù dre ar munud
+data-collection-health-report-telemetry-disabled =
+    .message = Ne aotreit ket ken { -vendor-short-name } da zastum ho roadennoù teknikel hag etrewezhiañ. An holl roadennoù tremenet a vo skarzhet dindan 30 deiz.
+data-collection-studies-link =
+    .label = Gwelout studiadennoù { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
