@@ -2086,6 +2086,8 @@ privacy-segmentation-radio-off =
     .label = 使用 { -brand-product-name } 推荐
 privacy-segmentation-radio-on =
     .label = 显示详细信息
+data-collection-health-report-telemetry-disabled =
+    .message = 您不再允许 { -vendor-short-name } 捕获技术和交互数据。过去收集的所有数据将在 30 天内删除。
 
 ## Privacy Section - Website Advertising Preferences
 
