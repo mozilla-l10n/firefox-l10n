@@ -1593,6 +1593,12 @@ privacy-segmentation-radio-off =
     .label = Gunakan rekomendasi { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Tampilkan informasi rinci
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Pengumpulan dan Penggunaan Data { -brand-short-name }
+    .description = Kami berusaha untuk memberi Anda pilihan dan hanya mengumpulkan data minimal yang diperlukan untuk meningkatkan { -brand-product-name } bagi semua orang.
+    .searchkeywords = telemetri
+data-collection-link = Lihat Pemberitahuan Privasi
 data-collection-studies-link =
     .label = Lihat kajian { -brand-short-name }
 
