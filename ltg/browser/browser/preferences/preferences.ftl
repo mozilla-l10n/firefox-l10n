@@ -802,6 +802,8 @@ collection-studies-link = Apsavērt { -brand-short-name } pietejumus
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Data reporting is disabled for this build configuration
+data-collection-studies-link =
+    .label = Apsavērt { -brand-short-name } pietejumus
 
 ## Privacy Section - Website Advertising Preferences
 
