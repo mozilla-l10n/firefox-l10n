@@ -27,6 +27,8 @@ non-technical-privacy-header = Parapëlqime Privatësie Sajti
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Kontroll Global Privatësie (GPC)
 settings-page-title = Rregullime
+category-nav-heading =
+    .heading = Rregullime
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Shfletuesi juaj administrohet nga enti juaj.
 managed-notice-info-icon =
     .alt = Informacion
+managed-notice-nav =
+    .label = Shfletuesi juaj administrohet nga enti juaj.
 category-list =
     .aria-label = Kategori
 pane-general-title = Të përgjithshme
