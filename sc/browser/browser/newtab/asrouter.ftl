@@ -411,4 +411,9 @@ etp-strict-exceptions-infobar-not-now = Immoe nono
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-simple-layout-title = { -brand-short-name } no est su navigadore predefinidu tuo
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } no est su navigadore printzipale
+set-default-menu-message-row-layout-title = Faghe chi { -brand-short-name } siat su navigadore printzipale
 set-default-menu-message-row-layout-title-variant = Cunfigura { -brand-short-name } comente su navigadore predefinidu
+set-default-menu-message-row-layout-subtitle = Nàviga semper a sa lestra, cun seguresa e in manera privada.
+set-default-menu-message-primary-button = Cunfigura comente predefinidu
+set-default-menu-message-primary-button-variant = Cunfigura comente navigadore printzipale

@@ -36,7 +36,7 @@ translations-panel-displayname-beta =
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
-    .label = Gesti is lìnguas
+    .label = Gesti is limbas
 translations-panel-settings-about = Informatziones in pitzus de is tradutziones de { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Informatziones in pitzus de is tradutziones de { -brand-shorter-name }
@@ -46,7 +46,7 @@ translations-panel-settings-about2 =
 translations-panel-settings-always-translate-language =
     .label = Tradue semper is pàginas in { $language }
 translations-panel-settings-always-translate-unknown-language =
-    .label = Tradue semper custa lìngua
+    .label = Tradue semper custa limba
 translations-panel-settings-always-offer-translation =
     .label = Oferi semper de tradùere
 # Text displayed for the option to never translate a given language
@@ -55,7 +55,7 @@ translations-panel-settings-always-offer-translation =
 translations-panel-settings-never-translate-language =
     .label = Non traduas mai is pàginas in { $language }
 translations-panel-settings-never-translate-unknown-language =
-    .label = Non traduas mai custa lìngua
+    .label = Non traduas mai custa limba
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Non traduas mai custu situ
@@ -72,9 +72,9 @@ translations-panel-translate-cancel =
     .label = Annulla
 translations-panel-learn-more-link = Àteras informatziones
 translations-panel-intro-header = Proa su sistema de tradutziones chi rispetat sa riservadesa in { -brand-shorter-name }
-translations-panel-intro-description = Pro rispetare sa riservadesa tua, is tradutziones non lassant mai su dispositivu tuo. Àteras lìnguas e megioros ant a sighire luego!
+translations-panel-intro-description = Pro rispetare sa riservadesa tua, is tradutziones non lassant mai su dispositivu tuo. Àteras limbas e megioros ant a sighire luego!
 translations-panel-error-translating = Ddoe est istadu unu problema cun sa tradutzione. Torra a proare.
-translations-panel-error-load-languages = Impossìbile carrigare is lìnguas
+translations-panel-error-load-languages = Impossìbile carrigare is limbas
 translations-panel-error-load-languages-hint = Averìgua sa connessione a Internet e torra a proare.
 translations-panel-error-load-languages-hint-button =
     .label = Torra a nche proare
@@ -82,15 +82,15 @@ translations-panel-error-unsupported = Sa tradutzione no est a disponimentu pro 
 translations-panel-error-dismiss-button =
     .label = Apo cumprèndidu
 translations-panel-error-change-button =
-    .label = Càmbia sa lìngua de orìgine
+    .label = Càmbia sa limba de orìgine
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Custa lìngua no est ancora cumpatìbile: { $language }
-translations-panel-error-unsupported-hint-unknown = Custa lìngua no est ancora cumpatìbile.
+translations-panel-error-unsupported-hint-known = Custa limba no est galu cumpatìbile: { $language }
+translations-panel-error-unsupported-hint-unknown = Custa limba no est galu cumpatìbile.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -112,7 +112,7 @@ translations-panel-to-label = Tradue in:
 #   $toLanguage (string) - The target language of the translation.
 translations-panel-revisit-header = Custa pàgina est una tradutzione in { $toLanguage }, s’originale est in: { $fromLanguage }
 translations-panel-choose-language =
-    .label = Sèbera una lìngua
+    .label = Sèbera una limba
 translations-panel-restore-button =
     .label = Ammustra s’originale
 
@@ -122,12 +122,12 @@ translations-manage-header = Tradutziones
 translations-manage-settings-button =
     .label = Cunfiguratziones...
     .accesskey = u
-translations-manage-description = Iscàrriga lìnguas pro sa tradutzione in foras de lìnia.
-translations-manage-all-language = Totu is lìnguas
+translations-manage-description = Iscàrriga limbas pro sa tradutzione in foras de lìnia.
+translations-manage-all-language = Totu is limbas
 translations-manage-download-button = Iscàrriga
 translations-manage-delete-button = Cantzella
-translations-manage-intro-2 = Cunfigura is preferèntzias de lìngua e tradutzione de sitos e gesti is lìnguas iscarrigadas pro sa tradutzione a foras de lìnia.
-translations-manage-download-description = Iscàrriga lìnguas pro sa tradutzione in foras de lìnia
+translations-manage-intro-2 = Cunfigura is preferèntzias de limba e tradutzione de sitos e gesti is limbas iscarrigadas pro sa tradutzione a foras de lìnia.
+translations-manage-download-description = Iscàrriga limbas pro sa tradutzione in foras de lìnia
 translations-manage-language-download-button =
     .label = Iscàrriga
 translations-manage-language-download-all-button =
@@ -138,27 +138,27 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Boga totu
     .accesskey = o
-translations-manage-error-download = Ddoe est istadu unu problema iscarrighende is archìvios de lìngua. Torra a proare.
-translations-manage-error-delete = Ddoe est istadu unu problema cantzellende is archìvios de lìngua. Torra a proare.
-translations-manage-error-remove = Ddoe est istadu unu problema cantzellende is archìvios de lìngua. Torra a proare.
+translations-manage-error-download = Ddoe est istadu unu problema iscarrighende is archìvios de limba. Torra·nche a proare.
+translations-manage-error-delete = Ddoe est istadu unu problema cantzellende is archìvios de limba. Torra a proare.
+translations-manage-error-remove = Ddoe est istadu unu problema cantzellende is archìvios de limba. Torra·nche a proare.
 translations-manage-error-list =
-    Impossìbile otènnere sa lista de is lìnguas disponìbiles pro sa tradutzione.
-    Torra a carrigare sa pàgina pro torrare a proare.
+    Impossìbile otènnere sa lista de is limbas disponìbiles pro sa tradutzione.
+    Torra a carrigare sa pàgina pro nche torrare a proare.
 translations-settings-title =
     .title = Cunfiguratziones de tradutzione
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
-translations-settings-always-translate-langs-description = Is lìnguas chi sighint ant a èssere traduidas in automàticu
-translations-settings-never-translate-langs-description = Nissuna tradutzione at a èssere frunida pro is lìnguas imbenientes
+translations-settings-always-translate-langs-description = Is limbas chi sighint ant a èssere traduidas in automàticu
+translations-settings-never-translate-langs-description = Nissuna tradutzione at a èssere frunida pro is limbas imbenientes
 translations-settings-never-translate-sites-description = Nissuna tradutzione at a èssere frunida pro is sitos imbenientes
 translations-settings-languages-column =
-    .label = Lìnguas
+    .label = Limbas
 translations-settings-remove-language-button =
-    .label = Boga sa lìngua
+    .label = Boga sa limba
     .accesskey = B
 translations-settings-remove-all-languages-button =
-    .label = Boga totu is lìnguas
+    .label = Boga totu is limbas
     .accesskey = t
 translations-settings-sites-column =
     .label = Sitos web
@@ -237,9 +237,9 @@ select-translations-panel-translation-failure-message =
 # Variables:
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known =
-    .message = Custa lìngua no est ancora cumpatìbile: { $language }
+    .message = Custa limba no est galu cumpatìbile: { $language }
 select-translations-panel-unsupported-language-message-unknown =
-    .message = Custa lìngua no est ancora cumpatìbile.
+    .message = Custa limba no est galu cumpatìbile.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Cunfiguratzione de sa tradutzione

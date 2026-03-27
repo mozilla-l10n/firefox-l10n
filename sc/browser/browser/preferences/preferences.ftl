@@ -51,6 +51,9 @@ category-privacy =
 pane-sync-title3 = Sincronizatzione
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controllos de s’IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Esperimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperimentos de { -brand-short-name }
@@ -170,6 +173,16 @@ preferences-manage-profiles-button =
     .label = Gesti is profilos
 preferences-profiles-settings-button =
     .label = Cunfiguratzione
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Profilu de copiare
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Seletziona unu profilu
+preferences-copy-profile-button = Còpia
 tabs-group-header2 =
     .label = Ischedas
 tabs-opening-heading =
@@ -259,8 +272,18 @@ containers-remove-cancel-button = Non boghes custu cuntenidore
 settings-tabs-show-image-in-preview =
     .label = Ammustra un’anteprima de immàgine cando su puntadore est subra de un’ischeda.
     .accessKey = m
+settings-tabs-drag-to-create-tab-groups =
+    .label = Traga ischedas in paris pro creare grupos de ischedas
 browser-layout-header2 =
     .label = Dispositzione de su navigadore
+browser-layout-horizontal-tabs2 =
+    .label = Ischedas orizontales
+    .title = Ischedas in sa parte superiore
+    .description = Ischedas in sa parte superiore
+browser-layout-vertical-tabs2 =
+    .label = Ischedas verticales
+    .title = Ischedas in sa barra laterale
+    .description = Ischedas in sa barra laterale
 browser-layout-show-sidebar2 =
     .label = Ammustra sa barra laterale
     .description = Atzede a sa lestra a sinnalibros, ischedas dae su telefoneddu tuo, chatbot IA e àteru chene lassare s’ischermu printzipale.
@@ -292,6 +315,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Iscuru
     .title = Imprea un'aspetu iscuru pro is isfundos e is cuntenutos de is sitos web.
+web-appearance-group =
+    .aria-label = Aspetu de is sitos web
 preferences-web-appearance-choice-auto = Automàticu
 preferences-web-appearance-choice-light = Craru
 preferences-web-appearance-choice-dark = Iscuru
@@ -368,6 +393,13 @@ preferences-text-zoom-override-warning =
     .message = Atentzione: si sèberas “Ismànnia isceti su testu” e s'ingrandimentu predefinidu tuo no est cunfiguradu a su 100%, calicunu situ o cuntenutu diat pòdere funtzionare male.
 language-header = Limba
 choose-language-description = Sèbera sa limba preferida tua pro ammustrare pàginas
+website-preferred-language =
+    .label = Limbas preferidas
+website-add-language =
+    .label = Agiunghe una limba
+website-add-language-button =
+    .aria-label = Agiunghe sa limba seletzionada
+    .title = Agiunghe sa limba seletzionada
 choose-button =
     .label = Sèbera…
     .accesskey = b
@@ -387,6 +419,17 @@ translate-attribution = Tradutzione fata dae <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Etzetziones…
     .accesskey = z
+settings-translations-header =
+    .label = Tradutziones
+    .aria-label = Tradutziones
+    .description = Tradue pàginas o testu seletzionadu. Pro amparare sa riservadesa tua, is tradutziones abarrant in su dispositivu tuo.
+settings-translations-offer-to-translate-label =
+    .label = Propone sa tradutzione cumpleta de sa pàgina
+settings-translations-more-settings-button =
+    .label = Àteras cunfiguratziones de tradutzione
+    .description = Cunfigura is preferèntzias tuas pro cantu a is limbas, sitos web e tradutzione in foras de lìnia.
+settings-translations-subpage-header =
+    .heading = Àteras cunfiguratziones de tradutzione
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =

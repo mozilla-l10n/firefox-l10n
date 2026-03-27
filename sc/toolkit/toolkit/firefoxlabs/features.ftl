@@ -14,7 +14,7 @@ experimental-features-js-warp-description = Ativa Warp, unu progetu pro megiorar
 # Search during IME
 experimental-features-ime-search =
     .label = Barra de indiritzos: ammustra is resurtados durante sa cumpositzione IME
-experimental-features-ime-search-description = Un’IME (editore de mètodu de intrada) est un’aina chi permitit de insertare sìmbolos cumplessos, che a cussos impreados in is lìnguas iscritas de s’Àsia orientale o de s’Ìndia, impreende unu tecladu istandard. Ativende custu esperimentu, s’at a mantènnere abertu su pannellu de sa barra de indiritzos, ammustrende resurtados e cussìgios de chirca, mentras s’impreat s’IME pro insertare su testu. Càstia chi s’IME diat pòdere ammustrare unu pannellu chi cuat is resurtados de sa barra de indiritzos, duncas custa preferèntzia est cussigiada isceti pro is IME chi no imperant custa genia de pannellu.
+experimental-features-ime-search-description = Un’IME (editore de mètodu de intrada) est un’aina chi permitit de insertare sìmbolos cumplessos, che a cussos impreados in is limbas iscritas de s’Àsia orientale o de s’Ìndia, impreende unu tecladu istandard. Ativende custu esperimentu, s’at a mantènnere abertu su pannellu de sa barra de indiritzos, ammustrende resurtados e cussìgios de chirca, mentras s’impreat s’IME pro insertare su testu. Càstia chi s’IME diat pòdere ammustrare unu pannellu chi cuat is resurtados de sa barra de indiritzos, duncas custa preferèntzia est cussigiada isceti pro is IME chi no imperant custa genia de pannellu.
 # Auto Picture-in-Picture
 experimental-features-auto-pip =
     .label = Immàgine-subra-immàgine: abertura automàtica a su càmbiu de ischeda
