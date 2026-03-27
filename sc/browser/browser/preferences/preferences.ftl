@@ -814,6 +814,10 @@ home-custom-homepage-no-results =
 home-custom-homepage-delete-address-button =
     .aria-label = Cantzella s’indiritzu
     .title = Cantzella s’indiritzu
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Sostitui cun
 
 ## Home Section - Firefox Home Content Customization
 
@@ -917,6 +921,10 @@ search-suggestions-cant-show-2 =
 addressbar-header-1 =
     .label = Barra de indiritzos
     .description = Sèbera is cussìgios de ammustrare in sa barra de indiritzos
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Cussìgios dae { -brand-short-name } e is sòtzios nostros in sa barra de indiritzos tua.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
@@ -946,6 +954,19 @@ suggestions-addressbar-settings-generic2 = Modìfica sa cunfiguratzione de àter
 search-suggestions-cant-show = Is cussìgios de chirca no ant a èssere ammustrados in is resurtados de sa barra de positzione ca as cunfiguradu { -brand-short-name } in manera chi no regordet mai sa cronologia.
 search-one-click-header2 = Curtzadòrgios de chirca
 search-one-click-desc = Sèbera motores de chirca alternativos chi ant a èssere ammustrados a suta de sa barra de indiritzos e de sa barra de chirca comente cumintzas a iscrìere unu faeddu.
+search-one-click-header-3 =
+    .label = Motores de chirca agiuntivos
+    .description = Sèbera cales motores de chirca e curtzadòrgios cumparent in sa barra de indiritzos tua.
+update-search-engine-success =
+    .message = Motores de chirca atualizadu
+search-edit-engine-2 =
+    .title = Modifica su motore de chirca
+search-delete-engine =
+    .title = Cantzella su motore de chirca
+search-enable-engine =
+    .title = Ativa su motore de chirca
+search-outlink-to-extensions-page =
+    .title = Gesti dae Estensiones e temas
 search-choose-engine-column =
     .label = Motore de chirca
 search-choose-keyword-column =
@@ -959,6 +980,9 @@ search-remove-engine =
 search-add-engine =
     .label = Agiunghe
     .accesskey = u
+search-add-engine-2 =
+    .label = Agiunghe unu motore de chirca
+    .accesskey = A
 search-edit-engine =
     .label = Modìfica
     .accesskey = M
@@ -1004,6 +1028,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizatzione
+account-group-label =
+    .label = Contu de { -vendor-short-name }
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1012,6 +1038,12 @@ sync-signedout-caption = Bati·ti·nche·ddu in ònnia logu, su web tuo
 sync-signedout-description2 = Sincroniza is sinnalibros tuos, sa cronologia, is ischedas, is craes, is cumplementos e sa cunfiguratzione in totu is dispositivos tuos.
 sync-signedout-account-signin3 =
     .label = Identìfica·ti pro sincronizare…
+    .accesskey = I
+sync-signedout-account-signin-4 =
+    .label = Identìfica·ti cun su contu tuo pro aviare sa sincronizatzione
+    .accesskey = I
+sync-signedout-account-short =
+    .label = Identìfica·ti
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1053,6 +1085,16 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } no est verificadu.
 sync-signedin-login-failure = Identìfica·ti pro torrare a connètere a { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -1071,7 +1113,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronizatzione ativada
+prefs-syncing-on-2 =
+    .label = Sa sincronizatzione est ATIVA
 prefs-syncing-off = Sincronizatzione disativada
+prefs-syncing-off-2 =
+    .label = Sa sincronizatzione est DISATIVADA
+    .description = Ativa sa sincronizatzione pro tènnere totu is sinnalibros, is craes, sa cronologia e àteru in su dispositivu.
 prefs-sync-turn-on-syncing =
     .label = Ativa sa sincronizatzione…
     .accesskey = s
@@ -1098,6 +1145,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Ses acanta de sincronizare custos elementos intre totu is dispositivos tuos connètidos:
+sync-syncing-across-devices-heading-2 = Datos sincronizados intre dispositivos
+sync-syncing-across-devices-empty-state =
+    .label = Non ses sincronizende nudda… galu.
+    .description = Cumintza a sincronizare pro tènnere totu is datos in totu is dispositivos.
 sync-currently-syncing-bookmarks = Sinnalibros
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Ischedas abertas
@@ -1110,6 +1161,9 @@ sync-currently-syncing-addons = Cumplementos
 sync-currently-syncing-settings = Cunfiguratzione
 sync-manage-options =
     .label = Gesti sa sincronizatzione…
+    .accesskey = G
+sync-manage-options-2 =
+    .label = Gesti is datos sincronizados
     .accesskey = G
 sync-change-options =
     .label = Modìfica…
@@ -1227,10 +1281,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Craes
     .searchkeywords = credentziales
+forms-passwords-header =
+    .label = Craes
+    .aria-label = Craes
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Cussìgia de sarvare is craes
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Gesti is etzetziones pro is craes
+    .accesskey = G
 forms-exceptions =
     .label = Etzetziones…
     .accesskey = z
@@ -1264,9 +1324,25 @@ forms-fill-usernames-and-passwords =
 forms-saved-passwords =
     .label = Craes sarvadas
     .accesskey = C
+forms-saved-passwords-2 =
+    .label = Gesti is craes sarvadas
+    .accesskey = d
+forms-saved-passwords-searchkeywords = S’elaboradore tuo tenet credentziales sarvadas pro is sitos imbenientes
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Amparos agiuntivos
 forms-primary-pw-use =
     .label = Imprea una crae printzipale
     .accesskey = u
+forms-primary-pw-set =
+    .label = Cunfigura una crae printzipale
+forms-primary-pw-on =
+    .label = Sa crae printzipale est ATIVA
+forms-primary-pw-change-2 =
+    .label = Modifica sa crae printzipale
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Disativa·dda
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Rechede s’identificatzione in su dispositivu pro compilare in automàticu e gestire is craes
@@ -1331,6 +1407,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Sarva e cumpleta in automàticu is informatziones de pagamentu
     .accesskey = S
+autofill-payment-methods-manage-payments-title =
+    .heading = Gesti is mètodos de pagamentu
 autofill-payment-methods-manage-payments-button =
     .label = Gesti is mètodos de pagamentu
     .accesskey = m
@@ -1338,12 +1416,24 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Rechede s’identificatzione in su dispositivu pro compilare in automàticu e gestire is mètodos de pagamentu
     .accesskey = R
+autofill-payment-methods-add-button = Agiunghe unu mètodu de pagamentu nou
+payments-list-header =
+    .label = Mètodos de pagamentu
+payments-delete-payment-prompt-title = Boles cantzellare custu mètodu de pagamentu?
 autofill-addresses-checkbox-message =
     .label = Sarva e cumpleta in automàticu is indiritzos
     .accesskey = a
 autofill-addresses-manage-addresses-button =
     .label = Gesti is indiritzos e àteru
     .accesskey = s
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 addresses-group =
     .label = Indiritzos e àteru
 payments-group =
@@ -1602,6 +1692,7 @@ content-blocking-etp-standard-tcp-title = Includet sa protetzione totale de test
 content-blocking-warning-title = Atentzione!
 content-blocking-and-isolating-etp-warning-description-2 = Custa cunfiguratzione diat pòdere fàghere chi unos cantos sitos no ammustrent cuntenutos o non funtzionent bene. Si paret chi unu situ non siat funtzionende, podes proare a istudare sa protetzione dae sa sighidura pro chi cussu situ càrrighet totu su cuntenutu.
 content-blocking-warning-learn-how = Impara comente ddu fàghere
+content-blocking-baseline-uncheck-warning-dialog-title = Seguru chi boles disativare is curretziones?
 content-blocking-reload-description = As a dèpere torrare a carrigare is ischedas tuas pro carrigare custas modìficas.
 content-blocking-reload-tabs-button =
     .label = Torra a carrigare totu is ischedas
@@ -1746,6 +1837,7 @@ collection-studies-description = Proa funtziones e ideas in antis chi siant publ
 collection-studies =
     .label = Permite a { -brand-short-name } de installare e aviare istùdios
 collection-studies-link = Ammustra is istùdios de { -brand-short-name }
+nimbus-rollouts-enabled-description = Is modìficas ant a èssere aplicadas dae remotu.
 addon-recommendations2 =
     .label = Permite cussìgios personalizados de estensiones
 addon-recommendations-description = Retzi cussìgios de estensiones pro megiorare s’esperièntzia tua de navigatzione.
@@ -1817,6 +1909,12 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu pro { -brand-short-name }.</strong> Podet èssere chi is cuntenutos de is sitos no s'ammustrent in manera curreta. Podes isboidare is datos de is sitos sarvados in Cunfiguratziones > Riservadesa e Seguresa > Testimòngios e datos de is sitos.
 space-alert-under-5gb-message2 = <strong>Est acabbende s'ispàtziu in su discu pro { -brand-short-name }.</strong> Podet èssere chi is cuntenutos de is sitos no s'ammustrent in manera curreta. Bae a “Àteras informatziones” pro megiorare s'impreu de s'ispàtziu de su discu e duncas s'esperièntzia de navigatzione.
+certs-view2 =
+    .label = Gesti is tzertificados
+    .accesskey = z
+certs-devices2 =
+    .label = Gesti is dispositivos de seguresa
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
@@ -1837,6 +1935,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modalidade HTTPS ebbia
     .description = Permitit isceti connessiones seguras a is sitos. { -brand-short-name } at a preguntare in antis de si connètere in manera non segura.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
@@ -1896,6 +1996,11 @@ preferences-doh-exceptions-description = { -brand-short-name } no at a impreare 
 preferences-doh-manage-exceptions =
     .label = Gesti is etzetziones…
     .accesskey = E
+preferences-doh-advanced-button =
+    .label = Cunfiguratziones avantzadas
+preferences-doh-manage-exceptions2 =
+    .label = Gesti is etzetziones
+    .accesskey = z
 
 ## The following strings are used in the Download section of settings
 
@@ -1905,7 +2010,26 @@ choose-download-folder-title = Sèbera sa cartella de iscarrigamentos
 
 ## AI controls page
 
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-translations-more-link = Àteras cunfiguratziones de tradutzione
 preferences-ai-controls-key-points-control =
     .label = Puntos crae in sa previsualizatzione de is ligòngios
     .description = Bide unu resumu lestru in antis de abèrrere unu ligòngiu.
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = A disponimentu
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Ativadu
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = Blocadu
+preferences-ai-controls-state-description-before = Significadu dae is optziones:
+preferences-ai-controls-block-confirmation-translations = Tradutziones
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Annulla
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bloca
