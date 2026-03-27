@@ -2060,6 +2060,9 @@ collection-health-report-telemetry-disabled = Bạn không còn cho phép { -ven
 collection-health-report-telemetry-disabled-link = Tìm hiểu thêm
 backup-multi-profile-warning-message =
     .message = Để đảm bảo thay đổi này được sao lưu, hãy mở từng hồ sơ và chọn “Sao lưu ngay” trong Cài đặt.
+addon-recommendations3 =
+    .label = Cho phép các đề xuất tiện ích mở rộng được cá nhân hoá
+    .description = Nhận đề xuất tiện ích mở rộng để cải thiện trải nghiệm duyệt web của bạn.
 collection-usage-ping =
     .label = Gửi ping sử dụng hàng ngày đến { -vendor-short-name }
     .accesskey = u
@@ -2113,6 +2116,8 @@ data-collection =
 data-collection-link = Xem thông báo về quyền riêng tự
 data-collection-health-report-telemetry-disabled =
     .message = Bạn không còn cho phép { -vendor-short-name } thu thập dữ liệu kỹ thuật và tương tác. Tất cả dữ liệu trong quá khứ sẽ bị xóa trong vòng 30 ngày.
+data-collection-studies-link =
+    .label = Xem nghiên cứu { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
