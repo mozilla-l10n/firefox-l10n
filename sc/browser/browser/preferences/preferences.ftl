@@ -651,6 +651,8 @@ home-new-windows-tabs-description2 = Sèbera su chi bides cando aberis sa pàgin
 
 home-default-browser-title =
     .label = Navigadore predefinidu
+is-default-browser-2 =
+    .message = { -brand-short-name } est su navigadore predefinidu tuo. Mègius de aici!
 set-as-my-default-browser-2 =
     .label = Cunfigura comente predefinidu
     .accesskey = p
