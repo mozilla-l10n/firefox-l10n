@@ -20,6 +20,8 @@ non-technical-privacy-header = Preferèntzias de riservadesa de su situ
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Cunfiguratzione
+category-nav-heading =
+    .heading = Cunfiguratzione
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Su navigadore est gestidu dae s'organizatzione tua.
 managed-notice-info-icon =
     .alt = Informatzione
+managed-notice-nav =
+    .label = Su navigadore est gestidu dae s'organizatzione tua.
 category-list =
     .aria-label = Categorias
 pane-general-title = Generale
@@ -674,6 +678,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -802,6 +809,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -2033,3 +2043,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annulla
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloca
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
