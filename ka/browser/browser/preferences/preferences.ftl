@@ -2121,6 +2121,18 @@ privacy-segmentation-radio-off =
     .label = { -brand-product-name }-შემოთავაზებების გამოყენება
 privacy-segmentation-radio-on =
     .label = დაწვრილებით ჩვენება
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
+    .description = ჩვენ მთელი ძალისხმევით ვცდილობთ, მოგცეთ არჩევანის საშუალება და აღვრიცხოთ მხოლოდ ის უმცირესი მონაცემები, რომლებიც მეტად წაგვადგება, რომ გავაუმჯობესოთ { -brand-product-name }.
+    .searchkeywords = telemetry
+data-collection-link = იხილეთ პირადულობის დაცვის განაცხადი
+data-collection-preferences-across-profiles =
+    .message = მოცემულ პარამეტრებს ასახავს { -brand-product-name } თითოეულ პროფილზე ამ მოწყობილობაში.
+data-collection-health-report-telemetry-disabled =
+    .message = თქვენ გაუქმებული გაქვთ ნებართვა და შედეგად { -vendor-short-name } ვეღარ აღრიცხავს ტექნიკურ და გამოყენების მონაცემებს. აქამდე შეგროვებული ყველა მონაცემი წაიშლება 30 დღეში.
+data-collection-studies-link =
+    .label = იხილეთ { -brand-short-name } – კვლევები
 
 ## Privacy Section - Website Advertising Preferences
 
