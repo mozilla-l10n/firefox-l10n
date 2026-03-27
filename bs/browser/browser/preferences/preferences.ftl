@@ -20,6 +20,8 @@ non-technical-privacy-header = Postavke privatnosti web stranice
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Globalna kontrola privatnosti (GPC)
 settings-page-title = Postavke
+category-nav-heading =
+    .heading = Postavke
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -34,6 +36,8 @@ search-input-box2 =
 managed-notice = Vašim pretraživačem upravlja vaša organizacija.
 managed-notice-info-icon =
     .alt = Informacije
+managed-notice-nav =
+    .label = Vašim pretraživačem upravlja vaša organizacija.
 category-list =
     .aria-label = Kategorije
 pane-general-title = Opće
