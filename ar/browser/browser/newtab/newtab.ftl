@@ -299,6 +299,19 @@ newtab-custom-shortcuts-toggle =
     .description = المواقع التي حفظتها أو زرتها
 # Variables
 #   $num (number) - Number of rows to display
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
+newtab-custom-row-selector2 =
+    .label =
+        { $num ->
+            [zero] ما من صفوف
+            [one] صف واحد
+            [two] صفّان اثنان
+            [few] { $num } صفوف
+            [many] { $num } صفًا
+           *[other] { $num } صف
+        }
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [zero] ما من صفوف
