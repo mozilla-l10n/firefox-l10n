@@ -27,6 +27,8 @@ non-technical-privacy-header = Веб-сайттың жекелік баптау
 # included to facilitate power-user search of the about:preferences page.
 global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Баптаулар
+category-nav-heading =
+    .heading = Баптаулар
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -41,6 +43,8 @@ search-input-box2 =
 managed-notice = Браузеріңіз сіздің ұйымыңызбен басқаралады.
 managed-notice-info-icon =
     .alt = Ақпарат
+managed-notice-nav =
+    .label = Браузеріңіз сіздің ұйымыңызбен басқаралады.
 category-list =
     .aria-label = Санаттар
 pane-general-title = Жалпы
