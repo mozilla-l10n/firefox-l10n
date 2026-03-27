@@ -2114,10 +2114,21 @@ data-collection =
     .description = Chúng tôi cố gắng cung cấp cho bạn các lựa chọn và chỉ thu thập dữ liệu tối thiểu cần thiết để cải thiện { -brand-product-name } cho mọi người.
     .searchkeywords = thu thập
 data-collection-link = Xem thông báo về quyền riêng tự
+data-collection-preferences-across-profiles =
+    .message = Những thiết lập này áp dụng cho tất cả hồ sơ { -brand-product-name } trên thiết bị này.
+data-collection-profiles-link = Xem tất cả hồ sơ
 data-collection-health-report-telemetry-disabled =
     .message = Bạn không còn cho phép { -vendor-short-name } thu thập dữ liệu kỹ thuật và tương tác. Tất cả dữ liệu trong quá khứ sẽ bị xóa trong vòng 30 ngày.
+data-collection-health-report =
+    .label = Gửi dữ liệu kỹ thuật và tương tác đến { -vendor-short-name }
+    .accesskey = r
+    .description = Điều này giúp chúng tôi cải thiện các tính năng, hiệu suất và ổn định của { -brand-product-name }.
 data-collection-studies-link =
     .label = Xem nghiên cứu { -brand-short-name }
+data-collection-usage-ping =
+    .label = Gửi ping sử dụng hàng ngày đến { -vendor-short-name }
+    .description = Điều này giúp { -vendor-short-name } ước tính số người dùng đang hoạt động.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
