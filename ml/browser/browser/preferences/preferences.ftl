@@ -1226,6 +1226,7 @@ addon-recommendations-link = കൂടുതല്‍ അറിയുക
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = ഈ ബിൽഡ് കോൺഫിഗറേഷനായി ഡാറ്റ റിപ്പോർട്ടുചെയ്യൽ പ്രവർത്തനരഹിതമാക്കി
+data-collection-link = സ്വകാര്യത അറിയിപ്പു് കാണുക
 
 ## Privacy Section - Website Advertising Preferences
 
