@@ -2128,6 +2128,12 @@ privacy-segmentation-radio-off =
     .label = Использовать советы { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Показать подробные сведения
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Сбор и использование данных { -brand-short-name }
+    .description = Мы стремимся предоставить вам возможность выбора и собираем только минимальные данные, необходимые для улучшения { -brand-product-name } для всех и каждого.
+    .searchkeywords = телеметрия
+data-collection-link = Просмотреть Уведомление о конфиденциальности
 data-collection-preferences-across-profiles =
     .message = Эти настройки применяются ко всем профилям { -brand-product-name } на этом устройстве.
 data-collection-profiles-link = Просмотреть все профили
