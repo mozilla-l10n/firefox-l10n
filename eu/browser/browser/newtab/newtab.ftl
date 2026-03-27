@@ -361,6 +361,8 @@ newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
 newtab-wallpaper-upload-image = Igo irudia
 newtab-wallpaper-custom-color = Aukeratu kolorea
+newtab-wallpaper-toggle-title =
+    .label = Horma-paperak
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Irudiak fitxategi-tamainaren { $file_size } MBko muga gainditzen du. Saiatu fitxategi txikiago bat igotzen.
