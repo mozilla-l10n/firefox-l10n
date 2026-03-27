@@ -2109,8 +2109,14 @@ privacy-segmentation-radio-off =
     .label = Eiporu he’iháicha { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Eike marandurenda hesa’ỹijopyrévape
+data-collection-health-report-telemetry-disabled =
+    .message = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.
 data-collection-studies-link =
     .label = Ehecha kuaarã { -brand-short-name } mba’éva
+data-collection-usage-ping =
+    .label = Emondo { -vendor-short-name }-pe ping eiporúva ára ha ára
+    .description = Kóva oipytyvõ { -vendor-short-name } oikuaa hag̃ua mboy poruhárapa oĩ.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
