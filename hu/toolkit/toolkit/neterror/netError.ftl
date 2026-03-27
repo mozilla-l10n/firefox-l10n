@@ -25,6 +25,8 @@ neterror-override-exception-button = Kockázat elfogadása és továbblépés
 neterror-pref-reset-button = Alapértelmezett beállítások visszaállítása
 neterror-return-to-previous-page-button = Ugrás vissza
 neterror-return-to-previous-page-recommended-button = Visszalépés (ajánlott)
+neterror-try-again-button-2 = Próbálja újra
+    .accesskey = P
 neterror-try-again-button = Próbálja újra
 neterror-add-exception-button = Folytatás mindig ezen az oldalon
 neterror-settings-button = DNS beállítások módosítása
@@ -176,12 +178,15 @@ neterror-response-status-code = Hibakód: { $responsestatus } { $responsestatust
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Úgy néz ki, hogy probléma van az internetkapcsolatával
+fp-neterror-illustration-alt =
+    .alt = Egy széthúzott hálózati kábeleket figyelő rókát ábrázoló illusztráció.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = A { -brand-short-name } nem tud biztonságos kapcsolatot létrehozni a(z) { $hostname } kiszolgálóval.
 fp-neterror-offline-intro = A { -brand-short-name } nem tud kapcsolódni a(z) <strong>{ $hostname }</strong> kiszolgálóhoz
+fp-neterror-net-timeout-intro = A(z) <strong>{ $hostname }</strong> kiszolgáló válasza túl hosszú ideig tart.
 fp-neterror-coop-coep-intro = A { -brand-short-name } nem töltötte be az oldalt, mert a biztonsági beállítások nem felelnek meg az előző oldalnak.
 fp-neterror-http-auth-disabled-intro = Valaki, aki a webhelynek adja ki magát, megpróbálhatja ellopni a felhasználónevét, jelszavát vagy e-mail-címét.
 fp-neterror-http-auth-disabled-secure-connection = Ez a webhely biztonságos kapcsolatot igényel, és nem adhat hozzá kivételt, hogy felkeresse.

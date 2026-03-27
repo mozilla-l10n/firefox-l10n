@@ -668,8 +668,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Nézetek
 pdfjs-views-manager-view-selector-button-label = Nézetek
 pdfjs-views-manager-pages-title = Oldalak
+pdfjs-views-manager-outlines-title1 = Dokumentumvázlat
+    .title = Dokumentumvázlat (dupla kattintás az összes elem kinyitásához/becsukásához)
 pdfjs-views-manager-outlines-title = Dokumentumvázlat
 pdfjs-views-manager-attachments-title = Mellékletek
+pdfjs-views-manager-layers-title1 = Rétegek
+    .title = Rétegek (dupla kattintás az összes réteg eredeti állapotba való visszaállításához)
 pdfjs-views-manager-layers-title = Rétegek
 pdfjs-views-manager-pages-option-label = Oldalak
 pdfjs-views-manager-outlines-option-label = Dokumentumvázlat
@@ -690,6 +694,7 @@ pdfjs-views-manager-pages-status-action-button-label = Kezelés
 pdfjs-views-manager-pages-status-copy-button-label = Másolás
 pdfjs-views-manager-pages-status-cut-button-label = Kivágás
 pdfjs-views-manager-pages-status-delete-button-label = Törlés
+pdfjs-views-manager-pages-status-export-selected-button-label = Kiválasztottak exportálása…
 pdfjs-views-manager-pages-status-save-as-button-label = Mentés másként…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -730,6 +735,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = Beillesztés a(z) { $page }. oldal után
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = ÚJ
 pdfjs-toggle-views-manager-button1 =
     .title = Oldalak kezelése
 

@@ -239,3 +239,7 @@ privacy-metrics-social =
         [one] { $count } közösségi követő
        *[other] { $count } közösségi követő
     }
+privacy-metrics-empty = A héten egy követő sem volt blokkolva. A { -brand-short-name } megvédi a következő fenyegetésektől böngészés közben.
+privacy-metrics-loading = Védelmi statisztikák betöltése…
+privacy-metrics-error = Nem sikerült betölteni a védelmi statisztikákat.
+privacy-metrics-private-window = A { -brand-short-name } a privát ablakokban is blokkolja a követőket, de nem tárolja, hogy mik kerültek blokkolásra.

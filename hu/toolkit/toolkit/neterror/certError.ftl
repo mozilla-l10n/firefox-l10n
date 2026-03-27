@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Webhely megnyitása új ablakban
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = A biztonsága érdekében a { $hostname } nem engedi a { -brand-short-name }nak, hogy megjelenítse az oldalt, ha egy másik oldal beágyazta magába. Az oldal megtekintéséhez új ablakban kell megnyitnia.
 fp-certerror-view-certificate-link = A webhely tanúsítványának megtekintése
+fp-certerror-return-to-previous-page-recommended-button-2 = Visszalépés (ajánlott)
+    .accesskey = V
 fp-certerror-return-to-previous-page-recommended-button = Visszalépés (ajánlott)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Egy szoftver megakadályozza, hogy a { -brand-short-name 
 
 fp-certerror-page-title = Figyelmeztetés: biztonsági kockázat
 fp-certerror-body-title = Legyen óvatos. Úgy tűnik, hogy valami nincs rendben.
+fp-certerror-illustration-alt =
+    .alt = Egy narancssárga figyelmeztetőjelzést figyelő rókát ábrázoló illusztráció.
 fp-certerror-why-site-dangerous = Mitől tűnik veszélyesnek az oldal?
 fp-certerror-what-can-you-do = Mit tehet ez ellen?
 fp-certerror-advanced-title = Speciális
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Tovább erre: { $hostname } (kockázato
 fp-certerror-intro = A { -brand-short-name } egy lehetséges komoly biztonsági problémát észlelt a(z) <strong>{ $hostname }</strong> webhelyen. Lehet, hogy valaki a webhelynek adja ki magát, és bankkártyaadatokat, jelszavakat vagy e-mail-címeket próbál ellopni.
 fp-certerror-expired-into = A { -brand-short-name } biztonsági problémát észlelt a(z) <strong>{ $hostname }</strong> webhelyen. A webhely nincs jól beállítva, vagy az eszköz órája hibás dátumra és időre van beállítva.
 fp-certerror-transparency-intro = Valaki, aki a(z) <strong>{ $hostname }</strong> webhelynek adja ki magát, megpróbálhatja ellopni a felhasználónevét, jelszavát vagy e-mail-címét.
+fp-certerror-override-exception-button-2 = Tovább erre: { $hostname } (kockázatos)
+    .accesskey = T
