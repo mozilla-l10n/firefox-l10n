@@ -1990,6 +1990,9 @@ collection-description = Želimo ti omogućiti izbor i prikupljati samo ono što
 collection-privacy-notice = Napomene o privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš proizvođaču { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci će se izbrisati u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznaj više
+addon-recommendations3 =
+    .label = Dozvoli personalizirane preporuke za proširenja
+    .description = Dobij preporuke za proširenja i poboljšaj svoj način pregledavanja interneta.
 collection-usage-ping =
     .label = Šalji ping dnevnog korištenja proizvođaču { -vendor-short-name }
     .accesskey = k
@@ -2035,8 +2038,27 @@ privacy-segmentation-radio-off =
     .label = Koristi { -brand-product-name } preporuke
 privacy-segmentation-radio-on =
     .label = Prikaži detaljne informacije
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = { -brand-short-name } – prikupljanje i upotreba podataka
+    .description = Nastojimo pružiti izbor i prikupiti samo potrebne podatke za poboljšanje { -brand-product-name }a za sve.
+    .searchkeywords = telemetrija
+data-collection-link = Pogledaj napomene o privatnosti
+data-collection-preferences-across-profiles =
+    .message = Ove se postavke primjenjuju na svaki { -brand-product-name } profil na ovom uređaju.
+data-collection-profiles-link = Prikaži sve profile
+data-collection-health-report-telemetry-disabled =
+    .message = Više ne dopuštaš proizvođaču { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci će se izbrisati u roku od 30 dana.
+data-collection-health-report =
+    .label = Šalji tehničke podatke i podatke o interakciji proizvođaču { -vendor-short-name }
+    .accesskey = r
+    .description = To nam pomaže poboljšati { -brand-product-name } funkcije, performanse i stabilnost.
 data-collection-studies-link =
     .label = Pregledaj { -brand-short-name } istraživanja
+data-collection-usage-ping =
+    .label = Šalji ping dnevnog korištenja proizvođaču { -vendor-short-name }
+    .description = Ovo pomaže da { -vendor-short-name } procijeni broj aktivnih korisnika.
+    .accesskey = k
 
 ## Privacy Section - Website Advertising Preferences
 
