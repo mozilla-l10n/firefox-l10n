@@ -2113,6 +2113,8 @@ privacy-segmentation-radio-off =
     .label = שימוש בהצעות של { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = הצגת מידע מפורט
+data-collection-studies-link =
+    .label = הצגת המחקרים של { -brand-short-name }
 
 ## Privacy Section - Website Advertising Preferences
 
