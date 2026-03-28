@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Hoàn tất sửa
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Bản sao “{ $profilename }” của bạn đã sẵn sàng để tuỳ chỉnh
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Bản sao { $profilename } của bạn đã sẵn sàng để tùy chỉnh
 copied-profile-page-header-description = Chúng tôi đã sao chép dữ liệu và cài đặt của bạn vào một hồ sơ mới. Bây giờ, hãy đặt tên, chọn giao diện và biến nó thành của riêng bạn.
 restored-profile-page-header = Tùy chỉnh hồ sơ đã khôi phục của bạn

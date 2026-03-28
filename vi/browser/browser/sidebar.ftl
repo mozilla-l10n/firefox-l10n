@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Xóa trang khỏi lịch sử
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Chỉnh sửa dấu trang…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Xóa dấu trang
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Xóa
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Thẻ từ thiết bị khác
 sidebar-menu-cpm-header =
     .heading = Mật khẩu
+sidebar-menu-bookmarks-header =
+    .heading = Dấu trang
 sidebar-panel-header-close-button =
     .tooltiptext = Đóng
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Trình đơn dấu trang
+sidebar-bookmarks-folder-toolbar = Thanh dấu trang
+sidebar-bookmarks-folder-other = Dấu trang khác
+sidebar-bookmarks-folder-mobile = Dấu trang trên di động
 
 ## Titles for sidebar menu panels.
 

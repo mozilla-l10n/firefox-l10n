@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Thử lại
 about-translations-translation-error-heading = Đã xảy ra sự cố khi dịch
 about-translations-translation-error-subtext = Vui lòng thử lại.
 about-translations-translation-error-button = Thử lại
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Rất tiếc, hiện tại chúng tôi chưa hỗ trợ dịch từ { $language }
+about-translations-detected-language-unsupported-heading-unknown-2 = Rất tiếc, hiện tại chúng tôi chưa hỗ trợ dịch từ ngôn ngữ này
 about-translations-detected-language-unsupported-subtext = Vui lòng chọn ngôn ngữ khác.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

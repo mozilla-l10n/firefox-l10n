@@ -732,6 +732,12 @@ newtab-daily-briefing-card-timestamp = Đã cập nhật { $minutes } phút trư
 newtab-widget-message-title = Giữ tập trung với danh sách và bộ đếm thời gian tích hợp
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Từ những lời nhắc nhở nhanh đến những việc cần làm hàng ngày, các buổi tập trung đến những giờ nghỉ giải lao — hãy tập trung vào nhiệm vụ và đúng giờ.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Biến { -brand-product-name } thành của riêng bạn
+newtab-promo-card-body-addons = Chọn một hình nền từ bộ sưu tập của chúng tôi hoặc tự tạo hình nền của riêng bạn.
+newtab-promo-card-cta-addons = Thử ngay bây giờ
 newtab-promo-card-title = Hỗ trợ cho { -brand-product-name }
 newtab-promo-card-body = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn
 newtab-promo-card-cta = Tìm hiểu thêm
