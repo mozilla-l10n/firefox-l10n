@@ -128,6 +128,7 @@ policy-Preferences = Werte von bestimmten Einstellungen festlegen und Änderunge
 policy-PrivateBrowsingModeAvailability = Verfügbarkeit des Privaten Modus festlegen
 policy-PromptForDownloadLocation = Für gestartete Downloads nach Speicherort fragen
 policy-Proxy = Proxy-Einstellungen festlegen
+policy-RelaunchRequired = Einen Neustart von { -brand-short-name } innerhalb eines bestimmten Zeitraums anfordern und den Benutzer über den bevorstehenden Neustart informieren.
 policy-RequestedLocales = Sprachen für die Anwendungsoberfläche in bevorzugter Reihenfolge festlegen
 policy-SanitizeOnShutdown2 = Navigationsdaten beim Beenden löschen
 policy-SearchBar = Standardposition der Suchleiste setzen. Der Benutzer darf sie weiterhin anpassen.
