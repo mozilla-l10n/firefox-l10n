@@ -191,7 +191,7 @@ sidebar-panel-header-close-button =
 ## Labels for sidebar bookmarks panel folder names.
 
 sidebar-bookmarks-folder-menu = Bokmärkesmeny
-sidebar-bookmarks-folder-toolbar = Bokmärkesfältet
+sidebar-bookmarks-folder-toolbar = Verktygsfältet bokmärken
 sidebar-bookmarks-folder-other = Andra bokmärken
 sidebar-bookmarks-folder-mobile = Mobila bokmärken
 
