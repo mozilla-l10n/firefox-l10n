@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = 向您介紹直接內建於瀏覽器的 VPN 功能
 ipprotection-feature-introduction-link-text-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
+ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
+ipprotection-feature-introduction-description-captive-portal = 隱藏您的實際所在位置，就算是使用公共 Wi-Fi 也能獲得額外保護。
 ipprotection-feature-introduction-button-primary = 下一個
 ipprotection-feature-introduction-button-secondary-not-now = 現在不要
 ipprotection-feature-introduction-button-secondary-no-thanks = 不要，謝謝
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = 知道了！
 ## Panel
 
 unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
+unauthenticated-hide-location-message-3 = 使用 { -brand-product-name } 上網時<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-hide-location-message-2 = 使用 { -brand-product-name } 上網時，隱藏您的所在位置。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

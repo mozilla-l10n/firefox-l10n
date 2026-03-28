@@ -90,6 +90,7 @@ policy-Homepage = 設定或鎖定首頁。
 policy-HttpAllowlist = 不升級為 HTTPS 連線的來源。
 policy-HttpsOnlyMode = 允許開啟純 HTTPS 模式。
 policy-InstallAddonsPermission = 允許某些網站安裝附加元件。
+policy-IPProtectionAvailable = 防止使用者使用內建 VPN 功能。
 policy-LegacyProfiles = 停用「於每一套安裝使用不同設定檔」的功能。
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +128,7 @@ policy-Preferences = 鎖定部分偏好設定的內容。
 policy-PrivateBrowsingModeAvailability = 設定是否可使用隱私瀏覽模式。
 policy-PromptForDownloadLocation = 下載檔案時，詢問要將檔案儲存至何處。
 policy-Proxy = 設定代理伺服器選項。
+policy-RelaunchRequired = 要求 { -brand-short-name } 在指定的時間內重新啟動，並在即將重新啟動前通知使用者。
 policy-RequestedLocales = 為應用程式設定使用的語系清單順序。
 policy-SanitizeOnShutdown2 = 關閉瀏覽器時，清除上網資料。
 policy-SearchBar = 設定搜尋列的預設位置，使用者仍然可以自訂。
