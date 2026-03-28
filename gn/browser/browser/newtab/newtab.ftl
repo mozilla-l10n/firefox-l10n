@@ -733,6 +733,12 @@ newtab-daily-briefing-card-timestamp = Hekopyahu ojapo { $minutes }m
 newtab-widget-message-title = Epyta umi tysýi ndive ha aravopapaha reheve
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Mandu’arã guive tembiaporã peve, ñamindu’u ha jepytu’u jehetetirarã, ema’ẽ ne rembiapo ha aravo rehe.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Eñemomba’e { -brand-product-name } rehe
+newtab-promo-card-body-addons = Eiporavo mba’erecha rugua ore mba’égui térã ejapo ndetevoi.
+newtab-promo-card-cta-addons = Eiporu ko’ág̃a
 newtab-promo-card-title = Eipytyvõ { -brand-product-name }
 newtab-promo-card-body = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue
 newtab-promo-card-cta = Eikuaave
@@ -760,3 +766,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ko pa’ũ ohuga ambue tekoguatarãme
+newtab-activation-window-message-values-focus-message = { -brand-product-name } omoneĩ eikundahávo nde eipotahaichaite, ndeháicha eñepyrũ hag̃ua ne rembiapo ñandutípe. Emboava { -brand-product-name }.
