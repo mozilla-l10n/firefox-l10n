@@ -734,6 +734,7 @@ newtab-widget-message-copy = 從快速提醒到每日待辦事項，或是在專
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
 newtab-promo-card-title-addons = 讓 { -brand-product-name } 有您的風格
+newtab-promo-card-body-addons = 從我們的收藏集中挑選一張背景，或自行建立一張。
 newtab-promo-card-cta-addons = 立刻試試
 newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 贊助商支持我們打造出一個更好的網路環境的使命

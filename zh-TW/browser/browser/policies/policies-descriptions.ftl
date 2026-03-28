@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = 設定 WebExtension 可透過 chrome.storage.managed 存取的政策。
+policy-AIControls = 設定 AI 控制。
 policy-AllowedDomainsForApps = 指定允許存取 Google Workspace 的網域。
 policy-AllowFileSelectionDialogs = 允許顯示檔案選擇對話框。
 policy-AppAutoUpdate = 開啟或關閉應用程式自動更新。
