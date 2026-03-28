@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = 편집 완료
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = “{ $profilename }” 사본을 사용자 지정할 준비가 되었습니다.
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } 사본을 사용자 지정할 준비가 되었습니다.
 copied-profile-page-header-description = 사용자의 데이터와 설정을 새 프로필에 복사했습니다. 이제 이름을 지정하고, 모양을 골라 자신 만의 것으로 만드세요.
 restored-profile-page-header = 복원된 프로필 사용자 지정

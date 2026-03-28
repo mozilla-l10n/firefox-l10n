@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Defini politicas al quales le WebExtensions pote acceder via chrome.storage.managed.
+policy-AIControls = Configura le controlos de IA.
 policy-AllowedDomainsForApps = Defini dominios con permission de acceder a Google Workspace.
 policy-AllowFileSelectionDialogs = Consenti fenestras de dialogos de selection de file.
 policy-AppAutoUpdate = Activar o disactivar le actualisation automatic del application.
