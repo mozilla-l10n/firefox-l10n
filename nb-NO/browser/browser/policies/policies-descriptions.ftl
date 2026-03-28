@@ -129,6 +129,7 @@ policy-Preferences = Still inn og lås verdien for en undergruppe av innstilling
 policy-PrivateBrowsingModeAvailability = Angi tilgjengeligheten av privat nettlesingsmodus.
 policy-PromptForDownloadLocation = Spør hvor du skal lagre filer når du laster ned.
 policy-Proxy = Konfigurer proxy-innstillinger.
+policy-RelaunchRequired = Krev at { -brand-short-name } startes på nytt innen en gitt tidsperiode, og varsle brukeren om den kommende omstarten.
 policy-RequestedLocales = Velg rekkefølgen av språk, som skal brukes i programmet.
 policy-SanitizeOnShutdown2 = Fjern nettlesingsdata ved avslutning.
 policy-SearchBar = Angi standardplassering for søkelinjen. Brukeren kan fortsatt tilpasse den.
