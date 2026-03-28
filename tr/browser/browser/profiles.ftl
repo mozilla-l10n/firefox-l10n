@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Düzenlemeyi bitir
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = { $profilename } kopyanız özelleştirilmeye hazır
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } profil kopyanız özelleştirilmeye hazır
 copied-profile-page-header-description = Verilerinizi ve ayarlarınızı yeni bir profile kopyaladık. Şimdi profilinize bir isim verin, bir görünüm seçin ve profili kişiselleştirin.
 restored-profile-page-header = Geri yüklenen profilinizi özelleştirin

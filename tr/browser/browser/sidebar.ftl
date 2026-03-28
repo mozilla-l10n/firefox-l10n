@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Sayfaları geçmişten sil
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Yer imini düzenle…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Yer imini sil
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Sil
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Diğer cihazlardaki sekmeler
 sidebar-menu-cpm-header =
     .heading = Parolalar
+sidebar-menu-bookmarks-header =
+    .heading = Yer imleri
 sidebar-panel-header-close-button =
     .tooltiptext = Kapat
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Yer imleri menüsü
+sidebar-bookmarks-folder-toolbar = Yer imleri araç çubuğu
+sidebar-bookmarks-folder-other = Diğer yer imleri
+sidebar-bookmarks-folder-mobile = Mobil yer imleri
 
 ## Titles for sidebar menu panels.
 

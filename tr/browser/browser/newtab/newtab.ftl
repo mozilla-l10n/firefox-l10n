@@ -730,6 +730,7 @@ newtab-daily-briefing-card-timestamp = { $minutes } dk. önce güncellendi
 newtab-widget-message-title = Listeler ve sayaçla işinize daha iyi odaklanın
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Küçük anımsatıcılar ve günlük görev listeleriyle, odaklanma oturumları ve molalarla zamanınızı daha iyi yönetin.
+newtab-promo-card-cta-addons = Hemen deneyin
 newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
 newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor
 newtab-promo-card-cta = Daha fazla bilgi alın

@@ -88,8 +88,10 @@ upgrade-vpn-button = { -mozilla-vpn-brand-name }’i deneyin
 
 ipprotection-connection-status-generic-error-title = VPN’e bağlanılamadı
 ipprotection-connection-status-generic-error-description = Birkaç dakika sonra yeniden deneyin.
+ipprotection-connection-status-generic-error-try-again = Lütfen daha sonra yeniden deneyin.
 ipprotection-connection-status-network-error-title = İnternet bağlantınızı kontrol edin
 ipprotection-connection-status-network-error-description = İnternete bağlandıktan sonra VPN’i açmayı deneyin.
+ipprotection-connection-status-blocked-error-title = VPN kullanılamıyor
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
