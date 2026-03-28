@@ -122,6 +122,10 @@ sidebar-history-context-menu-delete-pages =
 
 sidebar-bookmarks-context-menu-edit-bookmark =
     .label = Rediger bokmerke …
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Slett bokmerke
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Slett
 
 ## Labels for sidebar menu items.
 
@@ -179,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Faner fra andre enheter
 sidebar-menu-cpm-header =
     .heading = Passord
+sidebar-menu-bookmarks-header =
+    .heading = Bokmerker
 sidebar-panel-header-close-button =
     .tooltiptext = Lukk
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Bokmerkemeny
+sidebar-bookmarks-folder-toolbar = Bokmerkeverktøylinje
+sidebar-bookmarks-folder-other = Andre bokmerker
+sidebar-bookmarks-folder-mobile = Mobile bokmerker
 
 ## Titles for sidebar menu panels.
 
