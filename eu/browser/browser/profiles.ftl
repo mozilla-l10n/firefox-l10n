@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Edizioa eginda
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Zure "{ $profilename }" profilaren kopia pertsonalizatzeko prest dago
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Zure { $profilename } profilaren kopia pertsonalizatzeko prest dago
 copied-profile-page-header-description = Zure datu eta ezarpenak profil berri batera kopiatu ditugu. Orain emaiozu izen bat, aukeratu itxura eta pertsonaliza ezazu.
 restored-profile-page-header = Pertsonalizatu berreskuratu duzun profila

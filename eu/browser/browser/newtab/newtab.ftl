@@ -733,6 +733,8 @@ newtab-daily-briefing-card-timestamp = Duela { $minutes }m eguneratuta
 newtab-widget-message-title = Mantendu kontzentratuta zerrendekin eta tenporizadorearekin
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Abisu azkarretatik egunaren egitekoetara, saio zentratuetatik luzatzeko hutsuneetara — izan zereginen gainean eta garaiz.
+newtab-promo-card-body-addons = Hautatu horma-papera gure bildumatik edo sortu zurea.
+newtab-promo-card-cta-addons = Probatu orain
 newtab-promo-card-title = Lagundu { -brand-product-name }
 newtab-promo-card-body = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte
 newtab-promo-card-cta = Argibide gehiago
