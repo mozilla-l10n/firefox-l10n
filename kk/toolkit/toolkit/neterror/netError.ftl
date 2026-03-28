@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { 
 
 neterror-file-not-found-filename = Файлдың енгізілген аты, үлкен-кіші әріптердің дұрыстығы, және басқа да қателер жоқ екеніне көз жеткізіңіз.
 neterror-file-not-found-moved = Файлдың аты ауысқан, ол өшірілген немесе басқа жаққа көшірілген болуы мүмкін.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } <strong>{ $path }</strong> адресіндегі файлды таба алмады. Ол жоқ немесе жол дұрыс емес.
 neterror-access-denied = Ол өшірілген, жылжытылған немесе файл рұқсаттары қатынауға жол бермеуі мүмкін.
 neterror-unknown-protocol = Бұл адресті ашу үшін сізге қосымша бағдарламаларды орнату керек мүмкін.
 neterror-redirect-loop = Бұл мәселе анда-санда cookies файлдарын қабылдау сөндірілген кезде болуы мүмкін.

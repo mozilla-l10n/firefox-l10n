@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = WebExtensions chrome.storage.managed арқылы қатынай алатын саясаттарды орнатыңыз.
+policy-AIControls = ЖИ басқару элементтерін баптау.
 policy-AllowedDomainsForApps = Google Workspace жүйесіне қатынауға рұқсат етілген домендерді анықтайды.
 policy-AllowFileSelectionDialogs = Файлды таңдау сұхбат терезелеріне рұқсат беру.
 policy-AppAutoUpdate = Қолданбаны автожаңартуды іске қосу немесе сөндіру.

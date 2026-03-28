@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Беттерді тарихтан өшіру
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Бетбелгіні түзету…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Бетбелгіні өшіру
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Өшіру
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Басқа құрылғылардан беттер
 sidebar-menu-cpm-header =
     .heading = Парольдер
+sidebar-menu-bookmarks-header =
+    .heading = Бетбелгілер
 sidebar-panel-header-close-button =
     .tooltiptext = Жабу
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Бетбелгілер мәзірі
+sidebar-bookmarks-folder-toolbar = Бетбелгілер панелі
+sidebar-bookmarks-folder-other = Басқа бетбелгілер
+sidebar-bookmarks-folder-mobile = Мобильді бетбелгілер
 
 ## Titles for sidebar menu panels.
 

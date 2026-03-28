@@ -40,6 +40,27 @@ perftools-pick-local-build-directory = Құрастыру бумасын таң�
 perftools-range-interval-label = Іріктеу аралығы:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } мс
 
+## Generic memory units that can be used in various places, eg for the buffer size.
+
+# Byte
+perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } Б
+# Kibibyte
+perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } КиБ
+# Mebibyte
+perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } МиБ
+# Gibibyte
+perftools-memory-unit-gib = { NUMBER($num, maxFractionalUnits: 2) } ГиБ
+# Tebibyte
+perftools-memory-unit-tib = { NUMBER($num, maxFractionalUnits: 2) } ТиБ
+# Pebibyte
+perftools-memory-unit-pib = { NUMBER($num, maxFractionalUnits: 2) } ПиБ
+# Exbibyte
+perftools-memory-unit-eib = { NUMBER($num, maxFractionalUnits: 2) } ЭиБ
+# Zebibyte
+perftools-memory-unit-zib = { NUMBER($num, maxFractionalUnits: 2) } ЗиБ
+# Yobibyte
+perftools-memory-unit-yib = { NUMBER($num, maxFractionalUnits: 2) } ЙиБ
+
 ##
 
 # The size of the memory buffer used to store things in the profiler.

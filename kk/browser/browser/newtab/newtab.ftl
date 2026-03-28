@@ -732,6 +732,7 @@ newtab-daily-briefing-card-timestamp = { $minutes } минут бұрын жаң
 newtab-widget-message-title = Тізімдер мен кірістірілген таймер арқылы назарыңызды сақтаңыз
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Жылдам еске салғыштардан күнделікті істер тізіміне дейін, зейін қою сессияларынан бой жазу үзілістеріне дейін — жұмыстан ауытқымай, уақытыңызды тиімді пайдаланыңыз.
+newtab-promo-card-cta-addons = Қазір қолданып көру
 newtab-promo-card-title = { -brand-product-name } қолдау
 newtab-promo-card-body = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді
 newtab-promo-card-cta = Көбірек білу
