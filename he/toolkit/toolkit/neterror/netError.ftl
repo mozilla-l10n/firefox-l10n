@@ -97,6 +97,7 @@ neterror-file-not-found-moved = בדוק אם הקובץ הועבר, שינה ש
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = ‏{ -brand-short-name } לא יכול למצוא את הקובץ במיקום <strong>{ $path }</strong>. ייתכן שהוא לא קיים או שהנתיב לא נכון.
+neterror-file-not-found-what-can-you-do = אם הקלדת את הכתובת באופן ידני, נא לבדוק אם יש שגיאות באותיות גדולות/קטנות או שגיאות הקלדה בשם הקובץ או בנתיב. אם הגעת לכאן דרך סימנייה שמורה או קישור, ייתכן שהקובץ הועבר, שמו שונה או שהוא נמחק מאז שנשמר. ניתן לנסות לאתר אותו באמצעות מנהל הקבצים שלך.
 neterror-access-denied = ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.
 neterror-unknown-protocol = ייתכן שיהיה צורך להתקין יישום אחר כדי לפתוח כתובת זו.
 neterror-redirect-loop = בעיה זו נגרמת לעיתים מסירוב לקבל עוגיות או ניטרולן.
@@ -190,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = ל־{ -brand-short-name } אין אפשרות ליצור חיבור מאובטח לשרת ב־{ $hostname }.
 fp-neterror-offline-intro = ‏{ -brand-short-name } לא הצליח להתחבר לשרת ב־<strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = לשרת ב־<strong>{ $hostname }</strong> לוקח יותר מדי זמן להגיב.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = השרת ב־<strong>{ $hostname }</strong> שלח בחזרה שגיאה: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = ‏{ -brand-short-name } לא טען את הדף הזה מכיוון שנראה שתצורת האבטחה לא תואמת את הדף הקודם.
 fp-neterror-http-auth-disabled-intro = מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו שם המשתמש, הססמה או הדוא״ל שלך.
 fp-neterror-http-auth-disabled-secure-connection = אתר זה דורש חיבור מאובטח, ולא ניתן להוסיף חריגה כדי לבקר בו.
