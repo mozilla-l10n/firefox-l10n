@@ -90,6 +90,7 @@ policy-Homepage = Startseite festlegen und optional zusätzlich unveränderbar s
 policy-HttpAllowlist = Quellen, die nicht auf HTTPS geändert werden
 policy-HttpsOnlyMode = Erlauben, dass Nur-HTTPS-Modus aktiviert wird
 policy-InstallAddonsPermission = Add-on-Installation von festgelegten Websites erlauben
+policy-IPProtectionAvailable = Verhindern, dass das integrierte VPN für Benutzer verfügbar ist.
 policy-LegacyProfiles = Erzwingen eines eigenen Profils für jede Installation deaktivieren
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

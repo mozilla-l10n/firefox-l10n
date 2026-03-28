@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Änderungen übernehmen
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Ihre Kopie von „{ $profilename }“ kann jetzt angepasst werden
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Ihre Kopie von { $profilename } kann jetzt angepasst werden
 copied-profile-page-header-description = Wir haben Ihre Daten und Einstellungen in ein neues Profil kopiert. Geben Sie ihm jetzt einen Namen, wählen Sie ein Aussehen und passen Sie es Ihren Bedürfnissen an.
 restored-profile-page-header = Ihr wiederhergestelltes Profil anpassen
