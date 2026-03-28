@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Đặt chính sách mà WebExtensions có thể truy cập thông qua chrome.storage.managed.
+policy-AIControls = Cấu hình kiểm soát trí tuệ nhân tạo (AI).
 policy-AllowedDomainsForApps = Xác định các miền được phép truy cập Google Workspace.
 policy-AllowFileSelectionDialogs = Cho phép hộp thoại chọn tập tin.
 policy-AppAutoUpdate = Bật hoặc tắt cập nhật chương trình tự động.
@@ -90,6 +91,7 @@ policy-Homepage = Đặt và tùy chọn khóa trang chủ.
 policy-HttpAllowlist = Origin sẽ không được nâng cấp lên HTTPS.
 policy-HttpsOnlyMode = Cho phép bật chế độ chỉ HTTPS.
 policy-InstallAddonsPermission = Cho phép một số trang web cài đặt tiện ích.
+policy-IPProtectionAvailable = Ngăn chặn người dùng truy cập vào VPN tích hợp sẵn.
 policy-LegacyProfiles = Vô hiệu hóa tính năng thực thi một cấu hình riêng cho mỗi cài đặt
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Đặt và khóa giá trị cho một tập hợp con ưu t
 policy-PrivateBrowsingModeAvailability = Đặt tính khả dụng của chế độ duyệt web riêng tư.
 policy-PromptForDownloadLocation = Hỏi nơi lưu tập tin khi tải xuống.
 policy-Proxy = Cài đặt cấu hình proxy.
+policy-RelaunchRequired = Yêu cầu { -brand-short-name } phải được khởi chạy lại trong một khoảng thời gian nhất định và thông báo cho người dùng về việc khởi chạy lại sắp tới.
 policy-RequestedLocales = Đặt danh sách các ngôn ngữ được yêu cầu cho ứng dụng theo thứ tự ưu tiên.
 policy-SanitizeOnShutdown2 = Xóa dữ liệu điều hướng khi tắt máy.
 policy-SearchBar = Đặt thanh tìm kiếm ở vị trí mặc định. Người dùng vẫn được phép tùy chỉnh nó.

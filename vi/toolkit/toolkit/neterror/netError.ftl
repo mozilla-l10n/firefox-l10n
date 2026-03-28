@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kh
 
 neterror-file-not-found-filename = Kiểm tra tên xem có lỗi gõ HOA-thường hay lỗi nào khác không.
 neterror-file-not-found-moved = Kiểm tra xem tập tin có bị di chuyển, đổi tên hay bị xóa không.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } không thể tìm thấy tập tin tại <strong>{ $path }</strong>. Nó không tồn tại, hoặc đường dẫn không chính xác.
+neterror-file-not-found-what-can-you-do = Nếu bạn nhập địa chỉ theo cách thủ công, hãy kiểm tra xem có lỗi viết hoa hoặc lỗi chính tả nào trong tên tập tin hoặc đường dẫn hay không. Nếu bạn đã theo một dấu trang hoặc liên kết đã lưu, tập tin có thể đã bị di chuyển, đổi tên hoặc xoá kể từ khi được lưu. Hãy thử tìm tập tin đó bằng trình quản lý tập tin hoặc tìm kiếm gần đây.
 neterror-access-denied = Nó có thể đã bị xóa, chuyển đi, hay quyền truy cập tập tin đã bị chặn.
 neterror-unknown-protocol = Có lẽ bạn cần phải cài đặt phần mềm khác mới mở được.
 neterror-redirect-loop = Vấn đề này thỉnh thoảng có thể xảy ra do bạn vô hiệu hóa hoặc từ chối cookie.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } không thể tạo kết nối an toàn tới máy chủ tại { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } không thể kết nối đến máy chủ tại <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Máy chủ tại <strong>{ $hostname }</strong> mất quá nhiều thời gian để phản hồi.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Máy chủ tại <strong>{ $hostname }</strong> đã trả về lỗi: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } không tải trang này vì có vẻ như cấu hình bảo mật không khớp với trang trước.
 fp-neterror-http-auth-disabled-intro = Ai đó giả vờ là trang web có thể cố gắng đánh cắp những thứ như tên người dùng, mật khẩu hoặc email của bạn.
 fp-neterror-http-auth-disabled-secure-connection = Trang web này yêu cầu kết nối bảo mật và bạn không thể thêm ngoại lệ để truy cập.
