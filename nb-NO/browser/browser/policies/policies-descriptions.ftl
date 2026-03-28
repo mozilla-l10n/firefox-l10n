@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Angi policyer som WebExtensions kan få tilgang til via chrome.storage.managed.
+policy-AIControls = Konfigurer AI-kontroller.
 policy-AllowedDomainsForApps = Definier domener som får tilgang til Google Workspace.
 policy-AllowFileSelectionDialogs = Tillat dialogvindu for valg av filer.
 policy-AppAutoUpdate = Slå på eller slå av automatisk programoppdateringer.
@@ -90,6 +91,7 @@ policy-Homepage = Sett og eventuelt lås startsiden.
 policy-HttpAllowlist = Opphav som ikke vil bli oppgradert til HTTPS.
 policy-HttpsOnlyMode = Tillat at kun-HTTPS-modus aktiveres.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
+policy-IPProtectionAvailable = Forhindre at den innebygde VPN-en er tilgjengelig for brukere.
 policy-LegacyProfiles = Slå av funksjonen som påtvinger en egen profil for hver installasjon
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

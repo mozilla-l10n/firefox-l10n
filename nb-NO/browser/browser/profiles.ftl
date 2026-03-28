@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Ferdig med redigering
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Din kopi av «{ $profilename }» er klar for tilpasning
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Din kopi av { $profilename } er klar for tilpasning
 copied-profile-page-header-description = Vi kopierte dine data og innstillinger til en ny profil. Gi den et navn, velg et utseende og gjør den til din egen.
 restored-profile-page-header = Tilpass den gjenopprettede profilen din

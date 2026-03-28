@@ -118,6 +118,11 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Slett sider fra historikken
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Rediger bokmerke …
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
