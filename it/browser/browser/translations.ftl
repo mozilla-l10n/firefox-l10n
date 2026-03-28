@@ -261,3 +261,4 @@ select-translations-panel-open-translations-settings-menuitem =
     .label = Impostazioni traduzione
 # An announcement made to assistive technology when the translation is complete
 select-translations-panel-translation-complete-announcement = Traduzione completata
+
