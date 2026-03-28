@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Διαγραφή σελίδων από το ιστορικό
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Επεξεργασία σελιδοδείκτη…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Διαγραφή σελιδοδείκτη
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Διαγραφή
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Καρτέλες από άλλες συσκευές
 sidebar-menu-cpm-header =
     .heading = Κωδικοί πρόσβασης
+sidebar-menu-bookmarks-header =
+    .heading = Σελιδοδείκτες
 sidebar-panel-header-close-button =
     .tooltiptext = Κλείσιμο
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Μενού σελιδοδεικτών
+sidebar-bookmarks-folder-toolbar = Γραμμή σελιδοδεικτών
+sidebar-bookmarks-folder-other = Άλλοι σελιδοδείκτες
+sidebar-bookmarks-folder-mobile = Σελιδοδείκτες κινητού
 
 ## Titles for sidebar menu panels.
 

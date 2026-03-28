@@ -85,6 +85,13 @@ translations-panel-error-change-button =
     .label = Αλλαγή αρχικής γλώσσας
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από τα { $language }.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:
