@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = 브라우저 안에서 바로 VPN을 만나보세요
 ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 데이터를 보호하세요.
 ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 데이터를 보호하세요.
+ipprotection-feature-introduction-description-private-browsing = 사생활 보호 창에 있을 때도 위치를 숨겨 탐색을 추가 보호합니다.
+ipprotection-feature-introduction-description-captive-portal = 공용 Wi-Fi에서도 위치를 숨겨 탐색을 추가 보호합니다.
 ipprotection-feature-introduction-button-primary = 다음
 ipprotection-feature-introduction-button-secondary-not-now = 나중에
 ipprotection-feature-introduction-button-secondary-no-thanks = 아니요
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = 확인
 ## Panel
 
 unauthenticated-vpn-title = { -brand-product-name }에 내장된 VPN을 사용해 보세요
+unauthenticated-hide-location-message-3 = { -brand-product-name }에서 탐색하는 동안 <a data-l10n-name="learn-more-vpn">위치를 숨기세요</a>.
 unauthenticated-hide-location-message-2 = { -brand-product-name }에서 탐색하는 동안 위치를 숨기세요.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

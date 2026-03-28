@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Retentar
 about-translations-translation-error-heading = Il habeva un problema a traducer
 about-translations-translation-error-subtext = Retenta.
 about-translations-translation-error-button = Retenta
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Desolate, nos ancora non supporta traductiones ab { $language }
+about-translations-detected-language-unsupported-heading-unknown-2 = Desolate, nos ancora non supporta traductiones ab iste lingua
 about-translations-detected-language-unsupported-subtext = Elige un altere lingua.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Modification completate
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Tu copia de “{ $profilename }” es preste a esser personalisate
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Tu copia de { $profilename } es preste a esser personalisate
 copied-profile-page-header-description = Nos ha copiate tu datos e parametros in un nove profilo. Ora da lo un nomine, elige un apparentia e personalisa lo secundo tu preferentias.
 restored-profile-page-header = Personalisar tu profilo restaurate

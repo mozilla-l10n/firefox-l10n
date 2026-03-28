@@ -238,6 +238,16 @@ select-translations-panel-translation-failure-message =
     .message = Il habeva un problema traducente. Retenta.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = Desolate, nos ancora non supporta traductiones ab { $language }
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = Desolate, nos ancora non supporta traductiones ab iste lingua.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:

@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Deler paginas del chronologia
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Modificar marcapagina…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Deler marcapagina
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Deler
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Schedas ab altere apparatos
 sidebar-menu-cpm-header =
     .heading = Contrasignos
+sidebar-menu-bookmarks-header =
+    .heading = Marcapaginas
 sidebar-panel-header-close-button =
     .tooltiptext = Clauder
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menu de marcapaginas
+sidebar-bookmarks-folder-toolbar = Barra de marcapaginas
+sidebar-bookmarks-folder-other = Altere marcapaginas
+sidebar-bookmarks-folder-mobile = Marcapaginas mobile
 
 ## Titles for sidebar menu panels.
 
