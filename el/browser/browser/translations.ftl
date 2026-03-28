@@ -90,6 +90,7 @@ translations-panel-error-change-button =
 # Variables:
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από τα { $language }.
+translations-panel-error-unsupported-hint-unknown-2 = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από αυτήν τη γλώσσα.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
@@ -235,6 +236,16 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Προέκυψε πρόβλημα με τη μετάφραση. Δοκιμάστε ξανά.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από τα { $language }.
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από αυτήν τη γλώσσα.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }

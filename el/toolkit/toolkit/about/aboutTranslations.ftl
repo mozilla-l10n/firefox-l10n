@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Δοκιμή ξανά
 about-translations-translation-error-heading = Προέκυψε πρόβλημα κατά τη μετάφραση
 about-translations-translation-error-subtext = Δοκιμάστε ξανά.
 about-translations-translation-error-button = Δοκιμή ξανά
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από τα { $language }
+about-translations-detected-language-unsupported-heading-unknown-2 = Δυστυχώς, δεν υποστηρίζουμε ακόμα μεταφράσεις από αυτήν τη γλώσσα
 about-translations-detected-language-unsupported-subtext = Επιλέξτε κάποια άλλη γλώσσα.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
