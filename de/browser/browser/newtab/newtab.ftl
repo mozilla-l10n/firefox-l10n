@@ -743,6 +743,7 @@ newtab-widget-message-copy = Von kurzen Erinnerungen über tägliche Aufgaben bi
 # the built-in wallpaper collection or uploading your own image.
 newtab-promo-card-title-addons = Passen Sie { -brand-product-name } an Ihre Wünsche an
 newtab-promo-card-body-addons = Wählen Sie ein Hintergrundbild aus unserer Sammlung, oder erstellen Sie Ihr eigenes.
+newtab-promo-card-cta-addons = Jetzt ausprobieren
 newtab-promo-card-title = { -brand-product-name } unterstützen
 newtab-promo-card-body = Unsere Sponsoren unterstützen unsere Mission, ein besseres Internet zu schaffen
 newtab-promo-card-cta = Weitere Informationen

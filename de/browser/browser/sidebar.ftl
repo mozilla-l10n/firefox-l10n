@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Seiten aus Chronik löschen
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Lesezeichen bearbeiten…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Lesezeichen löschen
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Löschen
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Tabs von anderen Geräten
 sidebar-menu-cpm-header =
     .heading = Passwörter
+sidebar-menu-bookmarks-header =
+    .heading = Lesezeichen
 sidebar-panel-header-close-button =
     .tooltiptext = Schließen
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Lesezeichen-Menü
+sidebar-bookmarks-folder-toolbar = Lesezeichen-Symbolleiste
+sidebar-bookmarks-folder-other = Weitere Lesezeichen
+sidebar-bookmarks-folder-mobile = Mobile Lesezeichen
 
 ## Titles for sidebar menu panels.
 
