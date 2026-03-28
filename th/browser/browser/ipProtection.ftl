@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = ขอแนะนำ VPN ที่พร้อมใช้งานได้ทันทีในเบราว์เซอร์ของคุณ
 ipprotection-feature-introduction-link-text-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ
 ipprotection-feature-introduction-link-text-private-browsing-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ แม้ในขณะที่คุณอยู่ในหน้าต่างส่วนตัว
+ipprotection-feature-introduction-description-private-browsing = ท่องเว็บได้อย่างปลอดภัยยิ่งขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณ แม้ว่าคุณจะอยู่ในหน้าต่างส่วนตัวก็ตาม
+ipprotection-feature-introduction-description-captive-portal = ท่องเว็บได้อย่างปลอดภัยยิ่งขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณ แม้ว่าจะใช้ Wi-Fi สาธารณะก็ตาม
 ipprotection-feature-introduction-button-primary = ถัดไป
 ipprotection-feature-introduction-button-secondary-not-now = ไม่ใช่ตอนนี้
 ipprotection-feature-introduction-button-secondary-no-thanks = ไม่ ขอบคุณ
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = เข้าใจแล้ว
 ## Panel
 
 unauthenticated-vpn-title = ลองใช้ VPN ในตัวของ { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">ซ่อนตำแหน่งของคุณ</a>ขณะท่องเว็บใน { -brand-product-name }
 unauthenticated-hide-location-message-2 = ซ่อนตำแหน่งที่ตั้งของคุณขณะท่องเว็บใน { -brand-product-name }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -88,8 +91,11 @@ upgrade-vpn-button = ลองใช้ { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = ไม่สามารถเชื่อมต่อกับ VPN ได้
 ipprotection-connection-status-generic-error-description = ลองใหม่อีกครั้งในอีกสักครู่
+ipprotection-connection-status-generic-error-try-again = โปรดลองอีกครั้งในภายหลัง
 ipprotection-connection-status-network-error-title = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
 ipprotection-connection-status-network-error-description = เชื่อมต่อกับอินเทอร์เน็ต จากนั้นลองเปิด VPN
+ipprotection-connection-status-blocked-error-title = VPN ไม่พร้อมใช้งาน
+ipprotection-connection-status-blocked-error-description = กฎหมายท้องถิ่นไม่อนุญาตให้เราให้บริการ VPN ในภูมิภาคนี้ <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

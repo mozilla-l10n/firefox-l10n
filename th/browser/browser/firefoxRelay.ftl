@@ -20,7 +20,16 @@ firefox-relay-get-unlimited-masks =
     .accesskey = จ
 # $count (Number) - The number of free email masks the user has used
 firefox-relay-reuse-masks-header = คุณได้ใช้ตัวปกปิดอีเมลฟรีทั้งหมด { $count } อันแล้ว
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = คุณสามารถใช้งานซ้ำหรือดูตัวปกปิดทั้งหมดเพื่อเลือกใช้งานอันใหม่
 firefox-relay-reuse-masks-select-label = เลือกตัวปกปิดล่าสุด
+firefox-relay-see-all-masks =
+    .label = ดูตัวปกปิดทั้งหมด
+    .accesskey = ด
+firefox-relay-dismiss =
+    .label = ยกเลิก
+    .accesskey = ล
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ปกป้องที่อยู่อีเมลของคุณ:
 firefox-relay-opt-in-title-2 = รับตัวปกปิดอีเมลฟรี
