@@ -62,7 +62,16 @@ about-processes-unknown-process = อื่น ๆ : { $type } ({ $pid })
 ## Properties of isolated web processes
 
 about-processes-web-isolated-property-private = ส่วนตัว
+about-processes-web-isolated-property-serviceworker = ตัวทำงานบริการ
 about-processes-web-isolated-property-jit-disabled = ปิดใช้งาน JIT อยู่
+about-processes-web-isolated-property-with-coop-coep = ถูกคัดแยกข้ามที่มา
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Isolated process names
 ## Variables:

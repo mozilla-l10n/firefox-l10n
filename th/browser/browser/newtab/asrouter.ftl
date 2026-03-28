@@ -306,6 +306,7 @@ tail-fox-spotlight-secondary-button = ยังไม่ทำตอนนี้
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-title = กลับเข้าสู่ความเป็นส่วนตัวในตัว
 welcome-back-spotlight-subtitle = ยินดีต้อนรับกลับสู่เบราว์เซอร์หลักหนึ่งเดียวที่สนับสนุนโดยกลุ่มไม่แสวงหากำไร พวกเราปกป้องข้อมูลของคุณอย่างระมัดระวังไม่ว่าคุณจะท่องไปที่ไหน
 welcome-back-embedded-import-title = นำเข้าข้อมูลของคุณและทำให้ { -brand-short-name } รู้สึกเหมือนบ้าน
 
