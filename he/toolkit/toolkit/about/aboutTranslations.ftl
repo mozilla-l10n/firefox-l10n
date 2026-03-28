@@ -38,6 +38,11 @@ about-translations-language-load-error-button = ניסיון חוזר
 about-translations-translation-error-heading = הייתה בעיה בתרגום
 about-translations-translation-error-subtext = נא לנסות שוב.
 about-translations-translation-error-button = ניסיון חוזר
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = איננו תומכים בתרגומים מ־{ $language } עדיין, עמך הסליחה
+about-translations-detected-language-unsupported-heading-unknown-2 = איננו תומכים בתרגומים משפה זו עדיין, עמך הסליחה
 about-translations-detected-language-unsupported-subtext = נא לבחור בשפה אחרת.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = ‏{ -brand-short-name }
 
 neterror-file-not-found-filename = בדוק ששם הקובץ אוית נכון, שנעשה שימוש נכון באותיות רישיות ושאין שגיאות הקלדה אחרות.
 neterror-file-not-found-moved = בדוק אם הקובץ הועבר, שינה שם או נמחק.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = ‏{ -brand-short-name } לא יכול למצוא את הקובץ במיקום <strong>{ $path }</strong>. ייתכן שהוא לא קיים או שהנתיב לא נכון.
 neterror-access-denied = ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.
 neterror-unknown-protocol = ייתכן שיהיה צורך להתקין יישום אחר כדי לפתוח כתובת זו.
 neterror-redirect-loop = בעיה זו נגרמת לעיתים מסירוב לקבל עוגיות או ניטרולן.
