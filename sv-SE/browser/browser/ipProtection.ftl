@@ -41,7 +41,7 @@ ipprotection-site-settings-callout-button = Jag förstår
 ## Panel
 
 unauthenticated-vpn-title = Testa { -brand-product-name }:s inbyggda VPN
-unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Dölj din plats</a> när du surfar i { -brand-product-name }.
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Dölj din plats</a> när du surfar med { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Dölj din plats medan du surfar i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
