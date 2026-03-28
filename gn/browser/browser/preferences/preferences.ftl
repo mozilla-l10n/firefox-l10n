@@ -2003,6 +2003,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Ejoko ovetã apysẽ ha emoma’ẽ mohapyháa gotyo
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Eñangareko oĩ’ỹva
+    .description = Embojuaju ñanduti renda ombojurujátava ovetã apysẽ ha oiporúva mbohapejey mbohapyháva.
+    .accesskey = E
+    .searchkeywords = ovetãita apysẽ
 permissions-addon-install-warning3 =
     .label = Ehechauka kyhyjerã oĩrõ ñanduti rogue omohendaséva jepysokue
     .accesskey = W

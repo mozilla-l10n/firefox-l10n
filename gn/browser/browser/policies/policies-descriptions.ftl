@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Emboheko porureko WebExtensions oikekuaa hag̃ua chrome.storage.managed rupive.
+policy-AIControls = Emboheko IA mongu’eha.
 policy-AllowedDomainsForApps = Emboaty umi mba’éva oñemoneĩva oike hag̃ua Google Workspace-pe.
 policy-AllowFileSelectionDialogs = Emoneĩ marandu jerureha marandurenda poravohápe.
 policy-AppAutoUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokuégui.

@@ -233,3 +233,12 @@ privacy-metrics-cookies =
         [one] { $count } kookie rapykuehoha
        *[other] { $count } kookieita rapykuehoha
     }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } tapykuehoha tekohagua
+       *[other] { $count } tapykuehohaita tekohagua
+    }
+privacy-metrics-loading = Henyhẽhína mbopapapy ñemo’ãgua…
+privacy-metrics-error = Ndaikatúi henyhẽ mbopapapy ñemo’ãgua.
