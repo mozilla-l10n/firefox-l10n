@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בדפדפן שלך
 ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
+ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
+ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
 ipprotection-feature-introduction-button-primary = הבא
 ipprotection-feature-introduction-button-secondary-not-now = לא כעת
 ipprotection-feature-introduction-button-secondary-no-thanks = לא תודה
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = הבנתי
 ## Panel
 
 unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">הסתרת המיקום שלך</a> בזמן גלישה ב־{ -brand-product-name }.
 unauthenticated-hide-location-message-2 = ניתן להסתיר את המיקום שלך בזמן הגלישה ב־{ -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

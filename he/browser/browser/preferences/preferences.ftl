@@ -2006,6 +2006,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = חסימת חלונות קופצים והפניות מצד שלישי
     .accesskey = ח
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = ניהול חריגות
+    .description = ניתן להוסיף אתרים שיכולים לפתוח חלונות קופצים ולהשתמש בהפניות מצד שלישי.
+    .accesskey = נ
+    .searchkeywords = חלון קופץ
 permissions-addon-install-warning3 =
     .label = הצגת אזהרה כשאתרים מנסים להתקין הרחבות
     .accesskey = א
