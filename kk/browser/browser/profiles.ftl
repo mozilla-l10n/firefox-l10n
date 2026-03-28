@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Түзету аяқталды
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Сіздің “{ $profilename }” көшірмесі баптауға дайын
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } профилінің көшірмесі баптауға дайын.
 copied-profile-page-header-description = Біз сіздің деректеріңіз бен параметрлеріңізді жаңа профильге көшірдік. Енді оған атау беріп, сыртқы түрін таңдаңыз және оны өз қалауыңызша баптаңыз.
 restored-profile-page-header = Қалпына келтірілген профиліңізді баптау

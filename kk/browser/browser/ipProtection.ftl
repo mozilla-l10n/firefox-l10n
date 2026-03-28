@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Енді браузеріңіздің ішінде қолжетімді болатын VPN ұсынамыз
 ipprotection-feature-introduction-link-text-2 = Орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
+ipprotection-feature-introduction-description-private-browsing = Жекелік терезесінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
+ipprotection-feature-introduction-description-captive-portal = Қоғамдық Wi-Fi желісінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 ipprotection-feature-introduction-button-primary = Келесі
 ipprotection-feature-introduction-button-secondary-not-now = Қазір емес
 ipprotection-feature-introduction-button-secondary-no-thanks = Жоқ, рахмет
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Түсіндім
 ## Panel
 
 unauthenticated-vpn-title = { -brand-product-name } құрамындағы VPN қолданып көріңіз
+unauthenticated-hide-location-message-3 = { -brand-product-name } ішінде шолу кезінде <a data-l10n-name="learn-more-vpn">Орналасқан жеріңізді жасырыңыз</a>.
 unauthenticated-hide-location-message-2 = { -brand-product-name } ішінде шолу кезінде орналасқан жеріңізді жасырыңыз.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

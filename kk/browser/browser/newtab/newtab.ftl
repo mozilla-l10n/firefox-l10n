@@ -732,6 +732,11 @@ newtab-daily-briefing-card-timestamp = { $minutes } минут бұрын жаң
 newtab-widget-message-title = Тізімдер мен кірістірілген таймер арқылы назарыңызды сақтаңыз
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Жылдам еске салғыштардан күнделікті істер тізіміне дейін, зейін қою сессияларынан бой жазу үзілістеріне дейін — жұмыстан ауытқымай, уақытыңызды тиімді пайдаланыңыз.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = { -brand-product-name } өзіңізге лайықтаңыз
+newtab-promo-card-body-addons = Біздің коллекциямыздан тұсқағаз таңдаңыз немесе өзіңіздікін жасаңыз.
 newtab-promo-card-cta-addons = Қазір қолданып көру
 newtab-promo-card-title = { -brand-product-name } қолдау
 newtab-promo-card-body = Біздің демеушілеріміз жақсырақ интернет құру миссиямызға қолдау көрсетеді
