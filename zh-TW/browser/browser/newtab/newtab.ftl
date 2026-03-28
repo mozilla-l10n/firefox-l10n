@@ -730,6 +730,11 @@ newtab-daily-briefing-card-timestamp = { $minutes } 分鐘前更新
 newtab-widget-message-title = 使用清單與內建的計時器，讓您保持專注
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 從快速提醒到每日待辦事項，或是在專注時間之後休息一下伸伸懶腰，讓您及時完成工作。
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = 讓 { -brand-product-name } 有您的風格
+newtab-promo-card-cta-addons = 立刻試試
 newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 贊助商支持我們打造出一個更好的網路環境的使命
 newtab-promo-card-cta = 更多資訊
