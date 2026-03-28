@@ -85,6 +85,14 @@ translations-panel-error-change-button =
     .label = שינוי שפת המקור
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = איננו תומכים בתרגומים מ־{ $language } עדיין, עמך הסליחה.
+translations-panel-error-unsupported-hint-unknown-2 = איננו תומכים בתרגומים משפה זו עדיין, עמך הסליחה.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:
@@ -228,6 +236,16 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = אירעה שגיאה בתרגום. נא לנסות שוב.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = איננו תומכים בתרגומים מ־{ $language } עדיין, עמך הסליחה.
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = איננו תומכים בתרגומים משפה זו עדיין, עמך הסליחה.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }

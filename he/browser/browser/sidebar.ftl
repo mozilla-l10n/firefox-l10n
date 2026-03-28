@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = מחיקת הדפים מההיסטוריה
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = עריכת סימנייה…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = מחיקת סימנייה
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = מחיקה
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = לשוניות ממכשירים אחרים
 sidebar-menu-cpm-header =
     .heading = ססמאות
+sidebar-menu-bookmarks-header =
+    .heading = סימניות
 sidebar-panel-header-close-button =
     .tooltiptext = סגירה
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = תפריט סימניות
+sidebar-bookmarks-folder-toolbar = סרגל כלים סימניות
+sidebar-bookmarks-folder-other = סימניות אחרות
+sidebar-bookmarks-folder-mobile = סימניות מהנייד
 
 ## Titles for sidebar menu panels.
 

@@ -192,6 +192,29 @@ bar-tooltip-cryptominer =
             [one] כורה מטבעות דיגיטליים אחד ({ $percentage }%)
            *[other] { $count } כורי מטבעות דיגיטליים ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = הגנות פרטיות
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] אחד נחסם השבוע
+       *[other] { $count } נחסמו השבוע
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] רכיב מעקב אחד
+       *[other] { $count } רכיבי מעקב
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] רכיב זהות דיגיטלית אחד
+       *[other] { $count } רכיבי זהות דיגיטלית
+    }
 # Variables:
 #   $count (Number) - Number of tracking cookies blocked
 privacy-metrics-cookies =
