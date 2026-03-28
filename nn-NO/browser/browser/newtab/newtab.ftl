@@ -733,6 +733,10 @@ newtab-daily-briefing-card-timestamp = Oppdatert for { $minutes } minutt sidan
 newtab-widget-message-title = Hald fokus med lister og ein innebygd nedteljar
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Frå kjappe påminningar til daglege gjeremål, fokuserte arbeidsøkter til strekkpausar — hald deg til oppgåva og tidsplanen.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Gjer { -brand-product-name } til din
 newtab-promo-card-cta-addons = Prøv han no
 newtab-promo-card-title = Støtt { -brand-product-name }
 newtab-promo-card-body = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
