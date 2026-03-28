@@ -106,7 +106,7 @@ main-context-menu-bookmark-page-mac =
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
 # so should probably have the same access key if possible.
 main-context-menu-edit-bookmark-mac =
-    .label = Embosakoí techaukaha…
+    .label = Embosako’i techaukaha…
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
@@ -115,15 +115,15 @@ main-context-menu-bookmark-page-with-shortcut =
     .accesskey = m
     .tooltiptext = Embojuaju kuatiarogue techaukaháre ({ $shortcut })
 main-context-menu-edit-bookmark =
-    .aria-label = Embosakoí Techaukaha…
+    .aria-label = Embosako’i Techaukaha…
     .accesskey = m
-    .tooltiptext = Embosakoí techaukaha
+    .tooltiptext = Embosako’i techaukaha
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 main-context-menu-edit-bookmark-with-shortcut =
-    .aria-label = Embosakoí Techaukaha…
+    .aria-label = Embosako’i Techaukaha…
     .accesskey = m
-    .tooltiptext = Embosakoí techaukaha ({ $shortcut })
+    .tooltiptext = Embosako’i techaukaha ({ $shortcut })
 main-context-menu-open-link =
     .label = Joajuhápe jeike
     .accesskey = O

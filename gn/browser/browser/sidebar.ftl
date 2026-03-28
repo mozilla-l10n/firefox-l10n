@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Emboguete kuatiarogu rembiasakue
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Embosako’i Techaukaha…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Emboguete Techaukaha
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Mboguete
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Tendaykekuéra ambue mba’e’okagua
 sidebar-menu-cpm-header =
     .heading = Ñe’ẽñemikuéra
+sidebar-menu-bookmarks-header =
+    .heading = Techaukahaita
 sidebar-panel-header-close-button =
     .tooltiptext = Mboty
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Techaukaha Poravorã
+sidebar-bookmarks-folder-toolbar = Techaukaha rembiporu renda
+sidebar-bookmarks-folder-other = Ambuekuéra Techaukaha
+sidebar-bookmarks-folder-mobile = Pumbyry Rechaukaha
 
 ## Titles for sidebar menu panels.
 
