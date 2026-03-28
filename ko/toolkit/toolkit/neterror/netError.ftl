@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }가
 
 neterror-file-not-found-filename = 파일 이름에 대문자 또는 기타 입력 오류가 있는지 확인해 보세요.
 neterror-file-not-found-moved = 파일이 이동, 이름 변경 또는 삭제되었는지 확인해 보세요.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name }가 <strong>{ $path }</strong>에서 파일을 찾을 수 없습니다. 존재하지 않거나 경로가 잘못되었습니다.
+neterror-file-not-found-what-can-you-do = 주소를 직접 입력한 경우, 파일 이름이나 경로에 대소문자 오류나 오타가 없는지 확인해 보세요. 저장된 북마크나 링크를 통해 접속한 경우, 해당 파일이 저장된 이후 이동되었거나 이름이 변경되었거나 삭제되었을 수 있습니다. 파일 관리자를 사용하거나 최근 검색을 통해 파일을 찾아보세요.
 neterror-access-denied = 삭제, 이동 또는 권한이 없어서 접근할 수 없습니다.
 neterror-unknown-protocol = 이 주소를 열기 위해서는 다른 소프트웨어를 설치할 필요가 있습니다.
 neterror-redirect-loop = 이 문제는 드물게 해당 사이트에서 요구하는 쿠키를 차단하여 발생할 수 있습니다.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name }는 { $hostname } 서버에 대한 보안 연결을 만들 수 없습니다.
 fp-neterror-offline-intro = { -brand-short-name }가 <strong>{ $hostname }</strong> 서버에 연결할 수 없습니다.
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> 서버가 응답하는 데 시간이 너무 오래 걸립니다.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = <strong>{ $hostname }</strong> 서버가 다음 오류를 보냈습니다: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = 보안 구성이 이전 페이지와 일치하지 않기 때문에 { -brand-short-name }가 이 페이지를 로드하지 않았습니다.
 fp-neterror-http-auth-disabled-intro = 사이트를 사칭하는 누군가가 사용자 이름, 비밀번호, 이메일 등을 훔칠 수 있습니다.
 fp-neterror-http-auth-disabled-secure-connection = 이 사이트는 보안 연결이 필요하며, 방문하기 위해 예외를 추가할 수 없습니다.
