@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Scopri la VPN, ora disponibile direttamente nel tuo browser.
 ipprotection-feature-introduction-link-text-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati, anche quando ti trovi in una finestra anonima
+ipprotection-feature-introduction-description-private-browsing = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi una finestra anonima.
+ipprotection-feature-introduction-description-captive-portal = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi reti Wi-Fi pubbliche.
 ipprotection-feature-introduction-button-primary = Successivo
 ipprotection-feature-introduction-button-secondary-not-now = Non adesso
 ipprotection-feature-introduction-button-secondary-no-thanks = No grazie
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = OK
 ## Panel
 
 unauthenticated-vpn-title = Prova la VPN integrata in { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Nascondi la tua posizione</a> mentre navighi in { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Nascondi la tua posizione durante la navigazione in { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -216,4 +219,3 @@ vpn-paused-alert-close-tabs-button = Chiudi tutte le schede
 vpn-paused-alert-continue-wo-vpn-button = Continua senza VPN
 vpn-error-alert-title = La VPN non è in funzione al momento.
 vpn-error-alert-body = Riprova più tardi.
-

@@ -155,6 +155,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Cerca nella cronologia
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Cerca nei segnalibri
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Cerca nelle schede chiuse di recente
@@ -261,4 +264,3 @@ firefoxview-opentabs-bookmarked-pinned-tab =
 # This tooltip will be shown for an unpinned tab whose URL is currently bookmarked.
 firefoxview-opentabs-bookmarked-tab =
     .title = { $url } (nei segnalibri)
-

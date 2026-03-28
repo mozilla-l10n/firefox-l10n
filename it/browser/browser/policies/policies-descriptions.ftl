@@ -91,6 +91,7 @@ policy-Homepage = Imposta la pagina iniziale ed eventualmente impedisci modifich
 policy-HttpAllowlist = Origini che non verranno aggiornate a HTTPS.
 policy-HttpsOnlyMode = Consenti l’attivazione della modalità solo HTTPS.
 policy-InstallAddonsPermission = Consenti a determinati siti web di installare componenti aggiuntivi.
+policy-IPProtectionAvailable = Impedisci che la VPN integrata sia disponibile per gli utenti.
 policy-LegacyProfiles = Disattiva la funzione che impone profili separati per ogni installazione
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -153,4 +154,3 @@ policy-WebsiteFilter = Impedisci l’accesso a determinati siti web. Consulta la
 policy-Windows10SSO = Permetti l’utilizzo di Windows single sign-on per account Microsoft, account aziendale o dell’istituto di istruzione.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permetti l’utilizzo di Windows single sign-on per account Microsoft Entra.
-

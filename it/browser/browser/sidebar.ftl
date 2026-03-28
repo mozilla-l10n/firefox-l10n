@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Elimina pagine dalla cronologia
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Modifica segnalibro…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Elimina segnalibri
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Elimina
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Schede da altri dispositivi
 sidebar-menu-cpm-header =
     .heading = Password
+sidebar-menu-bookmarks-header =
+    .heading = Segnalibri
 sidebar-panel-header-close-button =
     .tooltiptext = Chiudi
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menu segnalibri
+sidebar-bookmarks-folder-toolbar = Barra dei segnalibri
+sidebar-bookmarks-folder-other = Altri segnalibri
+sidebar-bookmarks-folder-mobile = Segnalibri da dispositivi mobile
 
 ## Titles for sidebar menu panels.
 
@@ -221,4 +239,3 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Trascina qui le schede più importanti per averle sempre a portata di mano
-
