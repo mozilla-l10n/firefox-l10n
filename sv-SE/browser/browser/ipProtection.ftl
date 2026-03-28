@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Introducerar VPN, nu direkt i din webbläsare
 ipprotection-feature-introduction-link-text-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.
+ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
+ipprotection-feature-introduction-description-captive-portal = Surfa med extra skydd genom att dölja din plats, även på offentligt Wi-Fi.
 ipprotection-feature-introduction-button-primary = Nästa
 ipprotection-feature-introduction-button-secondary-not-now = Inte nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tack
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Jag förstår
 ## Panel
 
 unauthenticated-vpn-title = Testa { -brand-product-name }:s inbyggda VPN
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Dölj din plats</a> när du surfar i { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Dölj din plats medan du surfar i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
