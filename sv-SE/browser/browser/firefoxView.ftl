@@ -157,7 +157,7 @@ firefoxview-search-text-box-history =
     .placeholder = Sök i historik
 # Placeholder for the input field to search in bookmarks ("search" is a verb).
 firefoxview-search-text-box-bookmarks =
-    .placeholder = Sök bokmärken
+    .placeholder = Sök i bokmärken
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Sök i nyligen stängda flikar

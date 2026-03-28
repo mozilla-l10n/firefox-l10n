@@ -97,7 +97,7 @@ neterror-file-not-found-moved = Kontrollera om filen flyttats, fått ett annat n
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } kan inte hitta filen på <strong>{ $path }</strong>. Antingen finns den inte eller så är sökvägen felaktig.
-neterror-file-not-found-what-can-you-do = Om du skrev in adressen manuellt, kontrollera efter stavfel eller skrivfel i filnamnet eller sökvägen. Om du följde ett sparat bokmärke eller länk kan filen ha flyttats, fått ett annat namn eller tagits bort sedan den sparades. Försök hitta den med hjälp av din filhanterare eller en nyligen genomförd sökning.
+neterror-file-not-found-what-can-you-do = Om du skrev in adressen manuellt, kontrollera om det finns några fel med versaler eller stavfel i filnamnet eller sökvägen. Om du följde ett sparat bokmärke eller en länk kan filen ha flyttats, bytt namn eller tagits bort sedan den sparades. Försök att hitta den med hjälp av filhanteraren eller en nyligen genomförd sökning.
 neterror-access-denied = Den kan ha tagits bort, flyttats eller så kan filrättigheter hindra tillgång.
 neterror-unknown-protocol = Du kan behöva installera andra program för att öppna den här sidan.
 neterror-redirect-loop = Det här problemet kan ibland uppstå om du inaktiverat eller nekat att ta emot kakor.
