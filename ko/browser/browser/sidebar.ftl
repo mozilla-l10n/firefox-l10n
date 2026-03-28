@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = 기록에서 페이지 삭제
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = 북마크 편집…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = 북마크 삭제
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = 삭제
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = 다른 기기의 탭
 sidebar-menu-cpm-header =
     .heading = 비밀번호
+sidebar-menu-bookmarks-header =
+    .heading = 북마크
 sidebar-panel-header-close-button =
     .tooltiptext = 닫기
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = 북마크 메뉴
+sidebar-bookmarks-folder-toolbar = 북마크 도구 모음
+sidebar-bookmarks-folder-other = 기타 북마크
+sidebar-bookmarks-folder-mobile = 모바일 북마크
 
 ## Titles for sidebar menu panels.
 

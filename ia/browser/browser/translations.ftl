@@ -85,6 +85,14 @@ translations-panel-error-change-button =
     .label = Cambiar lingua fonte
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = Desolate, nos ancora non supporta traductiones ab { $language }
+translations-panel-error-unsupported-hint-unknown-2 = Desolate, nos ancora non supporta traductiones ab  iste lingua.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:
