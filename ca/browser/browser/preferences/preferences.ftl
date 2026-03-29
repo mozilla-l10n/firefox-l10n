@@ -1607,9 +1607,14 @@ history-header = Historial
 history-remember-label = El { -brand-short-name }
     .accesskey = l
 history-remember-option-all =
-    .label = Recordarà l'historial
+    .label = Recorda l'historial
+history-remember-option-never2 =
+    .label = No recordis mai l'historial
+    .description = Cada finestra actua com una finestra privada. Amb aquesta opció activada, haureu de permetre les extensions.
+history-remember-option-custom2 =
+    .label = Personalitza l'historial
 history-remember-option-never =
-    .label = No recordarà mai l'historial
+    .label = No recordis mai l'historial
 history-remember-option-custom =
     .label = Utilitza els paràmetres personalitzats de l'historial
 history-remember-description4 =
@@ -1641,8 +1646,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Esborra l'historial…
     .accesskey = s
+history-header2 =
+    .heading = Historial
+history-section-header =
+    .label = Historial
+    .description = Trieu què voleu que el { -brand-short-name } recordi en tancar el navegador.
+history-custom-section-header =
+    .label = Paràmetres avançats
+    .description = Personalitzeu què voleu que el { -brand-short-name } recordi en tancar el navegador.
+history-custom-button =
+    .label = Trieu què voleu que el { -brand-short-name } recordi en tancar el navegador.
 history-group =
     .label = Historial
+history-remember-option-all2 =
+    .label = Recorda l'historial
 
 ## Privacy Section - Site Data
 
@@ -1651,8 +1668,15 @@ sitedata-total-size-calculating = S'està calculant la mida de les dades dels ll
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Els llocs web actualment utilitzen <strong>{ $value } { $unit }</strong> d'espai en disc.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Les galetes, les dades dels llocs i la memòria cau actualment ocupen { $value } { $unit } d'espai de disc.
 sitedata-learn-more = Més informació
+sitedata-delete-on-close2 =
+    .label = Esborra les galetes i les dades dels llocs en tancar el { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Suprimeix les galetes i les dades dels llocs web en tancar el { -brand-short-name }
     .accesskey = c
@@ -1766,6 +1790,13 @@ addressbar-locbar-showrecentsearches-option-2 =
 addressbar-locbar-showtrendingsuggestions-option-2 =
     .label = Suggeriments de cerca que són tendència
     .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .label = Suggeriments del { -brand-short-name }
+    .description = Obtén suggeriments del web relacionats amb la cerca.
+addressbar-locbar-suggest-sponsored-option-2 =
+    .label = Suggeriments dels patrocinadors
+    .description = Doneu suport al { -brand-short-name } activant els suggeriments patrocinats ocasionals.
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 addressbar-locbar-showrecentsearches-option =
     .label = Mostra les cerques recents
@@ -1979,12 +2010,19 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Ubicació
+permissions-localhost2 =
+    .label = Aplicacions i serveis del dispositiu
+permissions-local-network2 =
+    .label = Dispositius de la xarxa local
 permissions-xr2 =
     .label = Realitat virtual
 permissions-camera2 =
     .label = Càmera
 permissions-microphone2 =
     .label = Micròfon
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = Altaveu
 permissions-notification2 =
     .label = Notificacions
 
