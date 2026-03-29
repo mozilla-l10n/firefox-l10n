@@ -2136,8 +2136,19 @@ data-collection-health-report-disabled =
     .label = Envia dades tècniques i d’interacció a { -vendor-short-name }
     .accesskey = r
     .description = L'informe de dades està desactivat en la configuració d'aquesta versió.
+data-collection-run-studies =
+    .label = Permet al { -brand-short-name } instal·lar i executar estudis de funcionalitat
+    .description = El { -brand-short-name } selecciona aleatòriament usuaris per provar funcions, cosa que ajuda a millorar la qualitat per a tothom.
 data-collection-studies-link =
     .label = Mostra els estudis del { -brand-short-name }
+data-collection-backlogged-crash-reports =
+    .label = Envia automàticament informes de fallada
+    .description = Això ajuda { -vendor-short-name } a diagnosticar i solucionar problemes del navegador. Els informes poden incloure dades personals o confidencials.
+    .accesskey = c
+data-collection-usage-ping =
+    .label = Envia un ping d'ús diari a { -vendor-short-name }
+    .description = Això ajuda a { -vendor-short-name } a estimar els usuaris actius.
+    .accesskey = u
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -2186,6 +2197,12 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostri correctament. Podeu esborrar les dades emmagatzemades dels llocs a «Paràmetres > Privadesa i seguretat > Galetes i dades dels llocs».
 space-alert-under-5gb-message2 = <strong>El { -brand-short-name } s'està quedant sense espai de disc.</strong> És possible que el contingut dels llocs web no es mostri correctament. Vegeu «Més informació» per optimitzar l'ús de disc i millorar l'experiència de navegació.
+certs-view2 =
+    .label = Gestiona els certificats
+    .accesskey = c
+certs-devices2 =
+    .label = Gestiona els dispositius de seguretat
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
@@ -2265,9 +2282,44 @@ preferences-doh-exceptions-description = El { -brand-short-name } no utilitzarà
 preferences-doh-manage-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+preferences-doh-header2 =
+    .heading = DNS sobre HTTPS
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
+
+## AI controls page
+
+preferences-ai-controls-header =
+    .heading = { pane-ai-controls-title }
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Cancel·la
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bloca
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = El { -brand-short-name } està en guàrdia
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = El { -brand-short-name } recomana algunes millores de seguretat
+security-privacy-status-ok-label = La protecció contra el seguiment millorada està activada
+security-privacy-status-problem-label = Hem trobat paràmetres que afecten la vostra protecció
+security-privacy-status-problem-helper-label = Mostra els problemes
+security-privacy-status-up-to-date-label = Teniu la versió més recent i segura del { -brand-short-name }
+security-privacy-status-update-needed-label = Hi ha disponible una nova versió del { -brand-short-name }.
+security-privacy-status-update-error-label = El { -brand-short-name } té problemes per actualitzar-se
+security-privacy-status-update-checking-label = El { -brand-short-name } està comprovant si hi ha actualitzacions
+security-privacy-status-update-button-label =
+    .label = Actualitza el { -brand-short-name }
+security-privacy-issue-card =
+    .heading = Avisos de seguretat
+issue-card-reset-button =
+    .label = Reinicia
+issue-card-dismiss-button =
+    .tooltiptext = Descarta
+    .aria-label = Descarta

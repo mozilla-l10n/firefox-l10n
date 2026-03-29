@@ -738,6 +738,12 @@ newtab-daily-briefing-card-timestamp = Pśed { $minutes } m zaktualizěrowany
 newtab-widget-message-title = Wóstańśo koncentrěrowany z lisćinami a zatwarjonym casowym měritkom
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Wót malsnych dopomnjeśow do wšednych nadawkowych lisćinow, koncentrěrujśo se na posejźenja, aby pśestawki pódlejšył – njepópušćajśo a buźćo zdypkom.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Pśiměŕśo { -brand-product-name } pó swójom dobrozdaśu
+newtab-promo-card-body-addons = Wubjeŕśo slězynowy wobraz z našeje zběrki abo napórajśo swójski.
+newtab-promo-card-cta-addons = Wopytajśo něnto
 newtab-promo-card-title = { -brand-product-name } pódpěraś
 newtab-promo-card-body = Naše sponsory našu misiju pódpěraju, aby lěpšy web twórili
 newtab-promo-card-cta = Dalšne informacije

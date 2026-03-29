@@ -41,6 +41,7 @@ ipprotection-site-settings-callout-button = Som zrozměł
 ## Panel
 
 unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajśo swójo stojnišćo</a>, mjaztym až w { -brand-product-name } pśeglědujośo.
 unauthenticated-hide-location-message-2 = Schowajśo swójo stojnišćo, mjaztym až z { -brand-product-name } pśeglědujośo.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

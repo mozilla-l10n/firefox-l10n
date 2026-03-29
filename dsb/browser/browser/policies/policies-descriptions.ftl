@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Pšawidła nastajiś, ku kótarymž WebExtensions maju pśistup pśez chrome.storage.managed.
+policy-AIControls = Wóźeńske elementy KI konfigurěrowaś.
 policy-AllowedDomainsForApps = Definěrujśo domeny, kótarež směju pśistup k Google Workspace měś.
 policy-AllowFileSelectionDialogs = Dialogi za wuběranje datajow dowóliś.
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžniś abo znjemóžniś.
@@ -90,6 +91,7 @@ policy-Homepage = Startowy bok nastajiś a na žycenje zastajiś.
 policy-HttpAllowlist = Póchady, kótarež njebudu se na HTTPS aktualizěrowaś.
 policy-HttpsOnlyMode = Zmóžnjanje modusa Jano-HTTPS dowóliś.
 policy-InstallAddonsPermission = Wěstym websedłam dowóliś, dodanki instalěrowaś.
+policy-IPProtectionAvailable = Tomu zajźowaś, až jo zatwarjony VPN za wužywarje k dispoziciji.
 policy-LegacyProfiles = Funkciju znjemóžniś, kótaraž separatny profil za kuždu instalaciju wunuźijo
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Gódnotu za pódsajźbu nastajenjow stajiś a zastajiś
 policy-PrivateBrowsingModeAvailability = Nastajśo k-dispoziciji-byśe priwatnego modusa.
 policy-PromptForDownloadLocation = Pšašaś se, źož maju se dataje pśi ześěgowanju składowaś.
 policy-Proxy = Nastajenja proksy konfigurěrowaś.
+policy-RelaunchRequired = Nowy start { -brand-short-name } za pódany cas pominaś a wužywarja wó pśichodnem nowem starśe informěrowaś.
 policy-RequestedLocales = Pódajśo lisćinu pominanych rěcow za nałoženje w preferěrowanem pórěźe.
 policy-SanitizeOnShutdown2 = Nawigaciske daty pśi kóńcenju wulašowaś.
 policy-SearchBar = Standardne městno pytańskego póla nastajiś. Wužywaŕ móžo jo hyšći pśiměriś.
