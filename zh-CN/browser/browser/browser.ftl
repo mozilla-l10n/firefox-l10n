@@ -1151,6 +1151,12 @@ qrcode-copy-button =
     .label = 复制
 qrcode-save-button =
     .label = 保存
+qrcode-window-title = 二维码
+qrcode-dialog-title = 二维码
+qrcode-image =
+    .aria-label = 二维码
+qrcode-close-button =
+    .aria-label = 关闭
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
