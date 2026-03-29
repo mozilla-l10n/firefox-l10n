@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Předstajamy VPN, nětko direktnje we wašim wobhladowaku
 ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
+ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
+ipprotection-feature-introduction-description-captive-portal = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo w zjawnym WLAN.
 ipprotection-feature-introduction-button-primary = Dale
 ipprotection-feature-introduction-button-secondary-not-now = Nic nětko
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, dźakuju so

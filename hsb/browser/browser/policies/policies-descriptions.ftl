@@ -129,6 +129,7 @@ policy-Preferences = Hódnotu za podsadźbu nastajenjow stajić a zawrěć
 policy-PrivateBrowsingModeAvailability = Nastajće disponujomnosć priwatneho modusa.
 policy-PromptForDownloadLocation = Prašeć so, hdźež maja so dataje při sćehnjenju składować.
 policy-Proxy = Nastajenja proksy konfigurować.
+policy-RelaunchRequired = Nowy start { -brand-short-name } za podatu dobu požadać a wužiwarja wo přichodnym nowym starće informować.
 policy-RequestedLocales = Podajće lisćinu požadanych rěčow za nałoženje w preferowanym porjedźe.
 policy-SanitizeOnShutdown2 = Nawigaciske daty při kónčenju zhašeć.
 policy-SearchBar = Standardne městno pytanskeho pola nastajić. Wužiwar móže jo hišće přiměrić.
