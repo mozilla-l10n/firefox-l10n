@@ -18,7 +18,7 @@ ipprotection-button-error =
 ipprotection-experiment-badge =
     .label = BETA
 ipprotection-help-button =
-    .tooltiptext = Otevřít stránku podpory VPN
+    .tooltiptext = Otevře stránku podpory VPN
 ipprotection-title = VPN
 
 ## Feature introduction callout
@@ -47,8 +47,8 @@ unauthenticated-vpn-title =
     }
 unauthenticated-hide-location-message-2 =
     { -brand-product-name.case-status ->
-        [with-cases] Skrýt při procházení { -brand-product-name(case: "gen") } svou polohu.
-       *[no-cases] Skrýt při procházení aplikací { -brand-product-name } svou polohu.
+        [with-cases] Skryjte svou polohu při procházení { -brand-product-name(case: "loc") }.
+       *[no-cases] Skryjte svou polohu při procházení  aplikací { -brand-product-name }.
     }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

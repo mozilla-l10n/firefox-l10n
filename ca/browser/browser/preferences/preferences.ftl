@@ -1544,6 +1544,13 @@ payments-list-header =
 payments-delete-payment-prompt-title = Voleu suprimir aquesta forma de pagament?
 payments-delete-payment-prompt-confirm-button = Suprimeix
 payments-delete-payment-prompt-cancel-button = Cancel·la
+payments-delete-payment-button-label =
+    .aria-label = Suprimeix
+payments-edit-payment-button-label =
+    .aria-label = Edita
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = No heu afegit cap mètode de pagament
 autofill-addresses-checkbox-message =
     .label = Desa i emplena automàticament les adreces
     .accesskey = s
@@ -1562,6 +1569,9 @@ addresses-delete-address-prompt-cancel-button = Cancel·la
 autofill-addresses-add-button = Afegeix una adreça nova
 autofill-addresses-manage-addresses-title =
     .heading = Gestiona les adreces i altra informació
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = No heu afegit cap adreça
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1577,6 +1587,10 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Adreces i altra informació
+payments-group =
+    .label = Formes de pagament
 
 ## Privacy Section - History
 
@@ -1604,6 +1618,9 @@ history-remember-description4 =
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = El { -brand-short-name } utilitzarà una configuració personalitzada per a l'historial de navegació, baixades, formularis i cerques.
 history-remember-description = El { -brand-short-name } recordarà el vostre historial de navegació, de baixades, de formularis i de cerques.
 history-dontremember-description = El { -brand-short-name } utilitzarà els mateixos paràmetres de la navegació privada, i no conservarà cap historial mentre navegueu.
 history-private-browsing-permanent =
@@ -1743,6 +1760,12 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Accions ràpides
     .accesskey = r
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = Cerques recents
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = Suggeriments de cerca que són tendència
+    .accesskey = t
 addressbar-suggestions-settings = Canvia les preferències dels suggeriments de motors de cerca
 addressbar-locbar-showrecentsearches-option =
     .label = Mostra les cerques recents
@@ -1930,6 +1953,15 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloca les finestres emergents i les redireccions de tercers
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Gestiona les excepcions de finestres emergents i redirecció de tercers
+    .accesskey = e
+    .searchkeywords = popup,pop-up
+permissions-addon-exceptions2 =
+    .label = Tria quins llocs web poden instal·lar extensions
+    .accesskey = e
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
@@ -2065,12 +2097,17 @@ space-alert-under-5gb-message2 = <strong>El { -brand-short-name } s'està quedan
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Mode només HTTPS
+httpsonly-description3 = Permet només connexions segures als llocs web. El { -brand-short-name } us preguntarà abans de connectar-se de manera no segura.
+httpsonly-learn-more2 = Com funciona el mode només HTTPS
 httpsonly-description = HTTPS garanteix una connexió xifrada i segura entre el { -brand-short-name } i els llocs web que visiteu. La majoria dels llocs web admeten HTTPS; per tant, si el Mode només HTTPS està activat, el { -brand-short-name } utilitzarà HTTPS en totes les connexions.
 httpsonly-learn-more = Més informació
 httpsonly-radio-enabled =
     .label = Activa el mode només HTTPS en totes les finestres
 httpsonly-radio-enabled-pbm =
     .label = Activa el mode només HTTPS únicament en les finestres privades
+httpsonly-radio-disabled3 =
+    .label = No activis el mode només HTTPS
+    .description = El { -brand-short-name } igualment pot actualitzar algunes connexions
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
 
