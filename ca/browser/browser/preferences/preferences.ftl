@@ -294,6 +294,8 @@ containers-remove-cancel-button = No eliminis aquest contenidor
 settings-tabs-show-image-in-preview =
     .label = Mostra una vista prèvia de la imatge en passar el cursor per sobre d'una pestanya
     .accessKey = M
+browser-layout-header2 =
+    .label = Disposició del navegador
 browser-layout-header = Disposició del navegador
 browser-layout-horizontal-tabs =
     .label = Pestanyes horitzontals
@@ -322,6 +324,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = Fosc
     .title = Usa un aspecte fosc per al fons i el contingut dels llocs web.
+web-appearance-group =
+    .aria-label = Aparença dels llocs web
 preferences-web-appearance-choice-auto = Automàtic
 preferences-web-appearance-choice-light = Clar
 preferences-web-appearance-choice-dark = Fosc
@@ -337,6 +341,10 @@ preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = Els paràmetres de control del contrast modifiquen l'aparença dels llocs web.
 preferences-web-appearance-link =
     .label = Gestioneu els temes del { -brand-short-name } a Extensions i temes
 # This can appear when using windows HCM or "Override colors: always" without
@@ -345,6 +353,17 @@ preferences-web-appearance-override-warning = La vostra selecció de colors modi
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Gestioneu els temes del { -brand-short-name } a <a data-l10n-name="themes-link">Extensions i temes</a>
+preferences-contrast-control-header = Control del contrast
+preferences-contrast-control-description = Els llocs web tenen una varietat de colors de primer pla i de fons. Configureu el { -brand-short-name } perquè utilitzi els mateixos colors en tots els llocs web per millorar la llegibilitat.
+preferences-contrast-control-use-platform-settings =
+    .label = Automàtic (utilitza els paràmetres del sistema)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = Desactivat
+    .accesskey = D
+preferences-contrast-control-custom =
+    .label = Personalitzat
+    .accesskey = P
 preferences-colors-header = Colors
 preferences-colors-description = Sobreescriu els colors per defecte del { -brand-short-name } per al text, els fons dels llocs web i els enllaços.
 preferences-colors-manage-button =
