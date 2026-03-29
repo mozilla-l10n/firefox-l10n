@@ -1061,6 +1061,12 @@ search-one-click-desc = Trieu els motors de cerca alternatius que es mostraran s
 search-one-click-header-3 =
     .label = Motors de cerca addicionals
     .description = Trieu quins motors de cerca i dreceres apareixen a la barra d’adreces.
+update-search-engine-success =
+    .message = El motor de cerca s'ha actualitzat correctament
+search-edit-engine-2 =
+    .title = Edita el motor de cerca
+search-delete-engine =
+    .title = Suprimeix el motor de cerca
 search-choose-engine-column =
     .label = Motor de cerca
 search-choose-keyword-column =
@@ -1124,6 +1130,9 @@ sync-group-label =
     .label = Sincronització
 account-group-label =
     .label = Compte de { -vendor-short-name }
+account-placeholder =
+    .label = No heu iniciat la sessió.
+    .description = Inicieu la sessió per mantenir les vostres dades privades, segures i sincronitzades entre els dispositius.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1135,6 +1144,9 @@ sync-signedout-account-signin3 =
     .accesskey = I
 sync-signedout-account-signin-4 =
     .label = Inicieu la sessió al compte per començar la sincronització
+    .accesskey = I
+sync-signedout-account-short =
+    .label = Inicia la sessió
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1174,6 +1186,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } no està verificat.
+sync-signedin-unverified2 =
+    .label = { $email } encara no està confirmat
+    .description = Comproveu la safata d'entrada per confirmar el vostre compte i fer-lo oficial.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
 
 ##
@@ -1242,6 +1257,9 @@ sync-currently-syncing-addons = Complements
 sync-currently-syncing-settings = Paràmetres
 sync-manage-options =
     .label = Gestiona la sincronització…
+    .accesskey = G
+sync-manage-options-2 =
+    .label = Gestiona les dades sincronitzades
     .accesskey = G
 sync-change-options =
     .label = Canvia…
@@ -1359,10 +1377,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Contrasenyes
     .searchkeywords = inicis de sessió
+forms-passwords-header =
+    .label = Contrasenyes
+    .aria-label = Contrasenyes
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Demana desar les contrasenyes
     .accesskey = D
+forms-manage-password-exceptions =
+    .label = Gestiona les excepcions de contrasenya
+    .accesskey = G
 forms-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -1393,6 +1417,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Emplena automàticament els noms d'usuari i les contrasenyes
     .accesskey = E
+forms-fill-usernames-and-passwords-2 =
+    .label = Desa i emplena automàticament els noms d'usuari i contrasenyes
+    .accesskey = e
 forms-saved-passwords =
     .label = Contrasenyes desades
     .accesskey = d
@@ -1457,6 +1484,24 @@ autofill-saved-payment-methods-button = Formes de pagament desades
     .accesskey = F
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Demana iniciar la sessió en el dispositiu per emplenar i gestionar les formes de pagament
+    .accesskey = m
+autofill-payment-methods-header =
+    .aria-label = Formes de pagament
+autofill-payment-methods-checkbox-message-2 =
+    .label = Desa i emplena automàticament les formes de pagament
+    .accesskey = p
+autofill-payment-methods-manage-payments-button =
+    .label = Gestiona les formes de pagament
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = Demana iniciar la sessió en el dispositiu per emplenar automàticament i gestionar les formes de pagament
+    .accesskey = o
+autofill-addresses-checkbox-message =
+    .label = Desa i emplena automàticament les adreces
+    .accesskey = s
+autofill-addresses-manage-addresses-button =
+    .label = Gestiona les adreces i altra informació
     .accesskey = m
 
 ## Privacy Section - History

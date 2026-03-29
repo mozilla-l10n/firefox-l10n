@@ -47,6 +47,7 @@ migration-history-option-label = విహరణ చరిత్ర
 migration-extensions-option-label = పొడగింతలు
 migration-payment-methods-option-label = చెల్లింపు పద్ధతులు
 migration-cookies-option-label = కుకీలు
+migration-passwords-new = కొత్త సంకేతపదాలు
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =

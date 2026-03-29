@@ -41,6 +41,14 @@ split-dismiss-button-show-fewer-option =
 split-dismiss-button-manage-settings-option =
     .label = అమరికల నిర్వహణ
 
+## Sidebar Strings
+
+sidebar-deprecation-cta-button = ఇప్పుడే ప్రయత్నించండి
+
+## Sidebar Vertical Tabs Strings
+
+vertical-tabs-callout-2-cta-button = ఇప్పుడే ప్రయత్నించండి
+
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-privacy-notice-link = గోప్యతా విధానం

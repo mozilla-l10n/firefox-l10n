@@ -40,6 +40,13 @@ perftools-pick-local-build-directory = Выберите каталог для с
 perftools-range-interval-label = Интервал выборки:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } мс
 
+## Generic memory units that can be used in various places, eg for the buffer size.
+
+# Byte
+perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } байт
+# Kibibyte
+perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } КиБ
+
 ##
 
 # The size of the memory buffer used to store things in the profiler.

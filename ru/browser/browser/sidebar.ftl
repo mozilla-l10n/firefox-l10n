@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Удалить страницы из истории
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Изменить закладку…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Удалить закладку
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Удалить
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Вкладки с других устройств
 sidebar-menu-cpm-header =
     .heading = Пароли
+sidebar-menu-bookmarks-header =
+    .heading = Закладки
 sidebar-panel-header-close-button =
     .tooltiptext = Закрыть
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Меню закладок
+sidebar-bookmarks-folder-toolbar = Панель закладок
+sidebar-bookmarks-folder-other = Другие закладки
+sidebar-bookmarks-folder-mobile = Мобильные закладки
 
 ## Titles for sidebar menu panels.
 

@@ -254,11 +254,15 @@ newtab-custom-row-selector =
         [one] { $num } వరుస
        *[other] { $num } వరుసలు
     }
+newtab-custom-stories-personalized-toggle =
+    .label = కథనాలు
 newtab-custom-pocket-sponsored = ప్రాయోజిక కథనాలు
 newtab-custom-recent-title = ఇటీవలి కార్యకలాపం
 newtab-custom-weather-toggle =
     .label = వాతావరణం
     .description = నేటి వాతావరణ అంచనా
+newtab-custom-widget-lists-toggle =
+    .label = జాబితాలు
 newtab-custom-close-button = మూసివేయి
 
 ## Solid Colors
@@ -268,6 +272,7 @@ newtab-wallpaper-blue = నీలం
 newtab-wallpaper-light-blue = లేత నీలం
 newtab-wallpaper-light-green = లేత ఆకుపచ్చ
 newtab-wallpaper-green = పచ్చ
+newtab-wallpaper-yellow = పసుపు
 newtab-wallpaper-red = ఎరుపు
 newtab-wallpaper-dark-blue = ముదురు నీలం
 newtab-wallpaper-dark-green = ముదురాకుపచ్చ
@@ -284,6 +289,8 @@ newtab-wallpaper-feature-highlight-button = అర్థమైంది
 newtab-weather-menu-temperature-units = ఉష్ణోగ్రత యూనిట్లు
 newtab-weather-menu-temperature-option-celsius = సెల్సియస్
 newtab-weather-menu-learn-more = ఇంకా తెలుసుకోండి
+newtab-weather-opt-in-yes =
+    .label = అవును
 
 ## Topic Labels
 
@@ -308,3 +315,7 @@ newtab-topic-selection-cancel-button = రద్దుచేయి
 newtab-topic-selection-button-maybe-later = బహుశా తర్వాత
 newtab-topic-selection-button-update-interests = మీ ఆసక్తులను తాజాకరించండి
 newtab-topic-selection-button-pick-interests = మీ ఆసక్తులను ఎంచుకోండి
+
+## Strings for reporting issues with ads and content
+
+newtab-report-cancel = రద్దుచేయి

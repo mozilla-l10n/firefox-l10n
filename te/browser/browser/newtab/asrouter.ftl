@@ -216,3 +216,16 @@ fxa-menu-message-close-button =
 ## Multi-CTA Fox Doodle Spotlight
 
 multi-cta-fox-doodle-title = పునఃస్వాగతం
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-sync-callout-get-started-button = మొదలుపెట్టండి
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-learn-more = ఇంకా తెలుసుకోండి
