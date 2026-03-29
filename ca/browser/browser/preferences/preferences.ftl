@@ -518,12 +518,29 @@ settings-translations-subpage-download-error = No s'ha pogut baixar { $language 
 settings-translations-subpage-download-retry-button =
     .label = Torna-ho a provar
 # Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Voleu suprimir { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Suprimeix
+settings-translations-subpage-download-cancel-button =
+    .label = Cancel·la
+settings-translations-subpage-no-sites-added =
+    .label = No heu afegit cap lloc web
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Utilitza els paràmetres del sistema operatiu de «{ $localeName }» per formatar dates, hores, nombres i mesures.
+settings-spellcheck-header =
+    .label = Corrector ortogràfic
 check-user-spelling =
     .label = Verifica l'ortografia a mesura que s'escriu
     .accesskey = o
+spellcheck-download-dictionaries =
+    .label = Baixeu diccionaris
+spellcheck-promo =
+    .heading = Com s'utilitza la correcció ortogràfica
+    .message = Feu clic amb el botó dret en un camp de text per activar o desactivar la correcció ortogràfica o per canviar la llengua. No tots els camps admeten la correcció ortogràfica.
 
 ## General Section - Files and Applications
 
@@ -691,6 +708,16 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## Firefox support
+
+support-application-heading =
+    .label = Assistència del { -brand-short-name }
+    .description = Resoleu problemes o compartiu idees amb la comunitat.
+support-get-help =
+    .label = Obteniu ajuda
+support-share-ideas =
+    .label = Comparteix idees i comentaris
+
 ## General Section - Performance
 
 performance-title = Rendiment
@@ -716,6 +743,8 @@ performance-group =
 ## General Section - Browsing
 
 browsing-title = Navegació
+browsing-group-label =
+    .aria-label = Navegació
 browsing-use-autoscroll =
     .label = Utilitza el desplaçament automàtic
     .accesskey = a
@@ -743,6 +772,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Activa els controls de vídeo d'imatge sobre imatge
     .accesskey = A
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = En canviar de pestanya, segueix reproduint els vídeos en mode d'Imatge sobre imatge
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Més informació
 browsing-media-control =
     .label = Controla el contingut multimèdia amb teclat, auriculars o interfície virtual
@@ -795,6 +827,9 @@ home-mode-choice-blank =
     .label = Pàgina en blanc
 home-homepage-custom-url =
     .placeholder = Enganxeu un URL…
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Gestiona l'extensió
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -809,6 +844,20 @@ use-current-pages =
 choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
+
+## Custom Homepage subpage
+
+home-custom-homepage-header = Pàgina d'inici personalitzada
+home-custom-homepage-address =
+    .placeholder = Escriviu una adreça
+home-custom-homepage-address-button =
+    .label = Afegeix l'adreça
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Pàgines obertes actualment
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = Adreces d'interès…
 
 ## Home Section - Firefox Home Content Customization
 
@@ -860,6 +909,7 @@ home-prefs-weather-header =
     .label = Informació meteorològica
 home-prefs-weather-description = La previsió d'avui d'un cop d'ull
 home-prefs-weather-learn-more-link = Més informació
+home-prefs-mission-message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -895,6 +945,10 @@ search-show-suggestions-url-bar-option =
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
+search-show-search-term-option-2 =
+    .label = Mostra els termes de cerca a la barra d'adreces de les pàgines de resultats
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
