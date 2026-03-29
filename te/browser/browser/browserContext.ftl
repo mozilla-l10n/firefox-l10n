@@ -320,3 +320,5 @@ main-context-menu-eme-learn-more =
 main-context-menu-reveal-password =
     .label = సంకేతపదాన్ని చూపించు
     .accesskey = v
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = కొత్తది

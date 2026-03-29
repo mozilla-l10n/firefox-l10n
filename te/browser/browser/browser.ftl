@@ -191,6 +191,11 @@ urlbar-result-menu-dismiss-suggestion =
 urlbar-result-menu-learn-more-about-firefox-suggest =
     .label = { -firefox-suggest-brand-name } గురించి మరింత తెలుసుకోండి
     .accesskey = L
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = వాతావరణ సూచనలను చూపించవద్దు
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = మీ ప్రతిస్పందనకు కృతజ్ఞతలు
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -325,6 +330,8 @@ quickactions-cmd-private = అంతరంగిక విహారణ
 quickactions-restart = { -brand-short-name }‌ను పునఃప్రారంభించు
 # Opens the screenshot tool
 quickactions-screenshot3 = తెరపట్టు తీసుకోండి
+# Opens about:translations
+quickactions-translate = అనువదించు
 quickactions-cmd-screenshot = తెరపట్టు
 quickactions-cmd-settings = అమరికలు, ప్రాధాన్యతలు, ఎంపికలు
 # Opens about:addons page in the themes section
@@ -568,12 +575,35 @@ urlbar-result-action-copy-to-clipboard = కాపీచేయి
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
 #  $result (String): the string representation for a result in scientific notation
 #  (e.g. "1.0e17").
 urlbar-result-action-calculator-result-scientific-notation = = { $result }
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = ఇప్పుడు కాదు
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · ఇవాళ
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · ఇవాళ ముగుస్తుంది
 
 ## Strings used for buttons in the urlbar
 
@@ -596,6 +626,8 @@ urlbar-searchmode-popup-description-menucaption =
 urlbar-searchmode-popup-description = ఈసారి దీనితో వెతుకు:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = వెతుకుడు అమరికలు
+# Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
+urlbar-searchmode-new = కొత్తది
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -750,6 +782,10 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = సంకేతపదాలు
     .tooltiptext = మీరు భద్రపరచుకున్న సంకేతపదాలను చూడండి, నిర్వహించుకోండి
+qrcode-save-button =
+    .label = భద్రపరుచు
+qrcode-close-button =
+    .aria-label = మూసివేయి
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -818,6 +854,8 @@ navbar-accessible =
     .aria-label = మార్గదర్శకం
 navbar-downloads =
     .label = దింపుకోళ్ళు
+navbar-overflow-2 =
+    .tooltiptext = మరిన్ని పనిముట్లు
 navbar-overflow =
     .tooltiptext = మరిన్ని పనిముట్లు…
 # Variables:
@@ -955,3 +993,9 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు
     .accessKey = F
+
+## The urlbar trust icon & panel
+
+trustpanel-header-enabled-insecure = ఈ సైటులో జాగ్రత్తగా ఉండండి
+trustpanel-privacy-link = అంతరంగిత అమరికలు
+trustpanel-clear-cookies-subview-button-cancel = రద్దుచేయి
