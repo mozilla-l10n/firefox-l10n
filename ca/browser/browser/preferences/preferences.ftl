@@ -1819,6 +1819,11 @@ addressbar-locbar-suggest-sponsored-desc = Doneu suport al { -brand-short-name }
 # by Mozilla.
 addressbar-firefox-suggest-online =
     .label = Mostra suggeriments de Mozilla mentre escriviu
+addressbar-dismissed-suggestions-label-2 =
+    .label = Suggeriments descartats
+    .description = Restaura els suggeriments descartats dels patrocinadors i del { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = Restaura els suggeriments
 addressbar-quickactions-learn-more = Més informació
 addressbar-dismissed-suggestions-label = Suggeriments descartats
 addressbar-restore-dismissed-suggestions-description = Restaura els suggeriments descartats dels patrocinadors i del { -brand-short-name }.
