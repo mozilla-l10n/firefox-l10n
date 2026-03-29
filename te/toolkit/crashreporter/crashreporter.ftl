@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashreporter-plea = సమస్యను విశ్లేషించి పరిష్కరించుటలో మాకు సహాయపడుటకు, మీరు క్రాష్ నివేదికను మాకు పంపుగలరు.
+crashreporter-error-details-header = వివరాలు:
 crashreporter-no-run-message = అనువర్తనపు అమ్మకందారుకు సమస్యను నివేదించుటకు ఈ అనువర్తనం క్రాష్ తరువాత నడుచును.  ఇది నేరుగా నడుపకూడదు.
 crashreporter-button-details = వివరాలు…
 crashreporter-view-report-title = నివేదిక వివరాలు

@@ -5,3 +5,9 @@
 
 ### Localization for about:webauthn, a security token management page
 
+
+## Buttons
+
+about-webauthn-cancel-button = రద్దుచేయి
+about-webauthn-send-pin-button = సరే
+about-webauthn-delete-button = తొలగించు

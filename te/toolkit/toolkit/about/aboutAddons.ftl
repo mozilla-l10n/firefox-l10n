@@ -19,6 +19,9 @@ list-empty-find-updates =
     .label = నవీకరణల కొరకు పరిశీలించు
 list-empty-button =
     .label = పొడిగింతలు గురించి మరింత తెలుసుకొనండి
+addons-settings-button = { -brand-short-name } అమరికలు
+sidebar-settings-button-title =
+    .title = { -brand-short-name } అమరికలు
 show-unsigned-extensions-button =
     .label = కొన్ని పొడగింతలను తనిఖీ చేయలేకపోయాం
 show-all-extensions-button =
@@ -27,6 +30,8 @@ detail-version =
     .label = వెర్షను
 detail-last-updated =
     .label = చివరిగా నవీకరించింది
+addon-detail-description-expand = ఇంకా చూపించు
+addon-detail-description-collapse = తక్కువ చూపించు
 detail-contributions-description = ఈ పొడిగింతను అభివృద్దికారి దాని తదుపరి అభివృద్ది కొనసాగింపు కొరకు మీ నుండి కొద్ది మొత్తంలో సహాయంను కోరుచున్నారు.
 detail-update-type =
     .value = స్వయంచాలక నవీకరణలు
@@ -113,6 +118,9 @@ addon-category-available-updates-title =
 addon-category-recent-updates = ఇటీవలి నవీకరణలు
 addon-category-recent-updates-title =
     .title = ఇటీవలి నవీకరణలు
+addon-category-sitepermission = సైటు అనుమతులు
+addon-category-sitepermission-title =
+    .title = సైటు అనుమతులు
 # String displayed in about:addons in the Site Permissions section
 # Variables:
 #  $host (string) - DNS host name for which the webextension enables permissions
@@ -245,13 +253,32 @@ addon-detail-reviews-link =
 
 addon-detail-updates-radio-default = అప్రమేయం
 addon-detail-update-check-label = తాజాకరణలకై చూడు
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 addon-detail-private-browsing-allow = అనుమతించు
 addon-detail-private-browsing-disallow = అనుమతించ వద్దు
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = అనుమతించు
+addon-detail-quarantined-domains-disallow = అనుమతించవద్దు
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ##
 
 available-updates-heading = అందుబాటులో ఉన్న తాజాకరణలు
 recent-updates-heading = ఇటీవలి తాజాకరణలు
+addon-permissions-heading = అనుమతులు
 
 ## Page headings
 
