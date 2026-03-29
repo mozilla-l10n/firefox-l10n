@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Prawidła nastajić, na kotrež WebExtensions přez chrome.storage.managed přistup maja.
+policy-AIControls = Wodźenske elementy KI konfigurować.
 policy-AllowedDomainsForApps = Definujće domeny, kotrež smědźa přistup k Google Workspace měć.
 policy-AllowFileSelectionDialogs = Dialogi za wuběranje datajow dowolić.
 policy-AppAutoUpdate = Awtomatiske aktualizacije nałoženjow zmóžnić abo znjemóžnić.
