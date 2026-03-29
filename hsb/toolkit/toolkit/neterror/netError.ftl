@@ -97,6 +97,7 @@ neterror-file-not-found-moved = Přepruwujće, hač je so dataja přesunyła, p�
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } njemóže dataju na <strong>{ $path }</strong> namakać. Pak njeeksistuje pak šćežka je wopačna.
+neterror-file-not-found-what-can-you-do = Jeli sć adresu manuelnje zapodał, pytajće za zmylkami wulko-/małopisanja abo pisanskimi zmylkami w mjenje abo šćežce dataje. Jeli sće składowanej zapołožce abo wotkazej slědował, je so dataja snano přesunyła, přemjenowała abo zhašała, wot toho zo je so składła. Pytajće za njej z pomocu swojeho managera datajow abo najnowšeho pytanja.
 neterror-access-denied = Snano je so wotstroniła, přesunyła, abo datajowe prawa zadźěwaju přistupej.
 neterror-unknown-protocol = Snano dyrbiće druhe programy instalować, zo by so tuta adresa wočiniła.
 neterror-redirect-loop = Tutón problem so druhdy přeze znjemóžnjenje abo wotpokazowanje plackow zawinuje.

@@ -2004,6 +2004,16 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Gestiona les excepcions
+    .description = Afegiu els llocs web que poden obrir finestres emergents i utilitzar redireccions de tercers.
+    .accesskey = e
+    .searchkeywords = popup,pop-up
+permissions-addon-install-warning3 =
+    .label = Mostra un avís quan els llocs web intentin instal·lar extensions
+    .accesskey = w
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Gestiona les excepcions de finestres emergents i redirecció de tercers
     .accesskey = e
@@ -2043,6 +2053,9 @@ permissions-speaker2 =
     .label = Altaveu
 permissions-notification2 =
     .label = Notificacions
+permissions-header3 =
+    .label = Permisos
+    .description = Gestiona a què poden accedir, controlar o activar els llocs web.
 
 ## Privacy Section - Data Collection
 
@@ -2056,6 +2069,12 @@ collection-description = Ens esforcem per oferir-vos opcions i només recollim a
 collection-privacy-notice = Avís de privadesa
 collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
 collection-health-report-telemetry-disabled-link = Més informació
+nimbus-rollouts =
+    .label = Permet que el { -brand-short-name } millori les funcions, el rendiment i l'estabilitat entre actualitzacions
+    .description = Els canvis s'aplicaran de manera remota.
+addon-recommendations3 =
+    .label = Permet les recomanacions d'extensions personalitzades
+    .description = Rebeu recomanacions d'extensions per millorar l'experiència de navegació.
 collection-usage-ping =
     .label = Envia un ping d'ús diari a { -vendor-short-name }
     .accesskey = u
@@ -2076,6 +2095,7 @@ collection-studies =
 collection-studies-link = Mostra els estudis del { -brand-short-name }
 nimbus-rollouts-enabled =
     .label = Permet que el { -brand-short-name } millori les funcions, el rendiment i l'estabilitat entre actualitzacions
+nimbus-rollouts-enabled-description = Els canvis s'aplicaran de manera remota.
 addon-recommendations2 =
     .label = Permet les recomanacions d'extensions personalitzades
 addon-recommendations-description = Rebeu recomanacions d'extensions per millorar l'experiència de navegació.
@@ -2099,8 +2119,23 @@ privacy-segmentation-radio-off =
     .label = Utilitza les recomanacions del { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Mostra informació detallada
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .label = Ús i recollida de dades i del { -brand-short-name }
+    .description = Ens esforcem per oferir-vos opcions i només recollim el mínim de dades necessàries per millorar el { -brand-product-name } per a tothom.
+    .searchkeywords = telemetria
+data-collection-link = Mostra l'avís de privadesa
+data-collection-profiles-link = Mostra tots els perfils
 data-collection-health-report-telemetry-disabled =
     .message = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
+data-collection-health-report =
+    .label = Envia dades tècniques i d’interacció a { -vendor-short-name }
+    .accesskey = r
+    .description = Això ens ajuda a millorar les funcions, el rendiment i l'estabilitat del { -brand-product-name }.
+data-collection-health-report-disabled =
+    .label = Envia dades tècniques i d’interacció a { -vendor-short-name }
+    .accesskey = r
+    .description = L'informe de dades està desactivat en la configuració d'aquesta versió.
 data-collection-studies-link =
     .label = Mostra els estudis del { -brand-short-name }
 
@@ -2168,6 +2203,9 @@ httpsonly-radio-disabled3 =
     .description = El { -brand-short-name } igualment pot actualitzar algunes connexions
 httpsonly-radio-disabled =
     .label = No activis el mode només HTTPS
+httpsonly-group =
+    .label = Mode només HTTPS
+    .description = Permet només connexions segures als llocs web. El { -brand-short-name } us preguntarà abans de connectar-se de manera no segura.
 
 ## DoH Section
 
