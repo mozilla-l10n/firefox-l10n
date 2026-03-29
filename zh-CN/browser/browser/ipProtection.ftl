@@ -83,8 +83,10 @@ upgrade-vpn-button = 试用 { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = 无法连接 VPN
 ipprotection-connection-status-generic-error-description = 请过几分钟后再试。
+ipprotection-connection-status-generic-error-try-again = 请稍后再试。
 ipprotection-connection-status-network-error-title = 请检查您的互联网连接
 ipprotection-connection-status-network-error-description = 请先连接到互联网，然后尝试开启 VPN。
+ipprotection-connection-status-blocked-error-title = VPN 不可用
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -165,6 +167,7 @@ ip-protection-bandwidth-hit-for-the-month = 您已用完全部 { $maxUsage } GB 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = 每月初重置为 { $maxUsage } GB。
+ip-protection-bandwidth-header-1 = 每月流量限额
 
 ## IP Protection bandwidth reset callout
 
