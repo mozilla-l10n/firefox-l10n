@@ -638,6 +638,12 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = చదువరి వీక్షణం మూయి
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+picture-in-picture-panel-header = చిత్రంలో-చిత్రం
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.

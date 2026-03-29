@@ -16,3 +16,7 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = నకిలీ ట్యాబులన్నిటినీ మూసివేయి
 all-tabs-menu-synced-tabs =
     .label = ఇతర పరికరాల నుండి ట్యాబులు
+all-tabs-menu-current-window-header = ప్రస్తుత కిటికీ
+# This opens the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-show-all =
+    .label = అన్నీ చూపించు

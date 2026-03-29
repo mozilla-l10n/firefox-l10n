@@ -30,3 +30,5 @@ customize-mode-undo-cmd =
 customize-mode-lwthemes-link = అలంకారాల నిర్వహణ
 customize-mode-touchbar-cmd =
     .label = టచ్ బార్‌ను అభిమతీకరించు…
+customize-mode-downloads-button-autohide =
+    .label = ఖాళీగా ఉన్నప్పుడు బొత్తాన్ని దాచు

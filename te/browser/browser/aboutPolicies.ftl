@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = సంస్థ విధానాలు
+aboutpolicies-page-heading =
+    .heading = విధానాల గురించి
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = క్రియాశీలం
 errors-tab = దోషాలు
