@@ -19,7 +19,10 @@ backup-folder-name = Restaurar { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Copia de seguridad
-settings-data-backup-header = Respaldo
+settings-data-backup-header2 =
+    .label = Copia de seguridad
+    .description = Protege automáticamente tus marcadores, historial y otros datos.
+settings-data-backup-header = Copia de seguridad
 settings-data-backup-toggle = Administrar copias de seguridad
 settings-data-backup-toggle-on2 =
     .label = Activar copia de seguridad
@@ -35,6 +38,13 @@ settings-data-backup-scheduled-backups-on = Copia de seguridad: ACTIVADA
 settings-data-backup-scheduled-backups-off = Copia de seguridad: DESACTIVADA
 settings-data-backup-scheduled-backups-description = Protege automáticamente tus marcadores, historial y otros datos. <a data-l10n-name="support-link">Más información</a>
 settings-data-backup-last-backup-date = Última copia de seguridad: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = La copia de seguridad está ACTIVADA
+settings-data-backup-scheduled-backups-off2 =
+    .label = La copia de seguridad está DESACTIVADA
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Ubicación de la copia de seguridad
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Ubicación
 settings-data-backup-last-backup-location-show-in-folder = Mostrar en carpeta
