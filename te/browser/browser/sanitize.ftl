@@ -63,6 +63,9 @@ item-cache =
 item-form-search-history =
     .label = ఫారాలు & వెతుకుడు చరిత్ర
     .accesskey = F
+item-site-prefs =
+    .label = సైటు అమరికలు
+    .accesskey = i
 data-section-label = దత్తాంశము
 item-site-settings =
     .label = సైటు అమరికలు
@@ -75,6 +78,8 @@ window-close =
     .key = w
 sanitize-button-ok =
     .label = ఇప్పుడు చెరిపివేయండి
+sanitize-button-ok-on-shutdown =
+    .label = మార్పులను భద్రపరచు
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

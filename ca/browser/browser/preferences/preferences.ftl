@@ -1450,6 +1450,15 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Utilitza una contrasenya principal
     .accesskey = U
+forms-primary-pw-set =
+    .label = Defineix la contrasenya principal
+forms-primary-pw-on =
+    .label = La contrasenya principal està ACTIVADA
+forms-primary-pw-change-2 =
+    .label = Canvia la contrasenya principal
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Desactiva
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Demana iniciar la sessió en el dispositiu per emplenar i gestionar les contrasenyes
@@ -1514,6 +1523,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Desa i emplena automàticament les formes de pagament
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Gestiona les formes de pagament
 autofill-payment-methods-manage-payments-button =
     .label = Gestiona les formes de pagament
     .accesskey = m
@@ -1521,12 +1532,23 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Demana iniciar la sessió en el dispositiu per emplenar automàticament i gestionar les formes de pagament
     .accesskey = o
+autofill-payment-methods-add-button = Afegeix una forma de pagament nova
+payments-list-header =
+    .label = Formes de pagament
 autofill-addresses-checkbox-message =
     .label = Desa i emplena automàticament les adreces
     .accesskey = s
 autofill-addresses-manage-addresses-button =
     .label = Gestiona les adreces i altra informació
     .accesskey = m
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 
 ## Privacy Section - History
 
@@ -1607,6 +1629,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Elements de seguiment entre llocs
 sitedata-option-block-cross-site-tracking-cookies =
     .label = Galetes de seguiment entre llocs
+sitedata-option-block-cross-site-cookies2 =
+    .label = Aïlla les galetes entre llocs
 sitedata-option-block-cross-site-cookies =
     .label = Galetes de seguiment entre llocs, i aïlla les altres galetes entre llocs
 sitedata-option-block-unvisited =
@@ -1615,6 +1639,12 @@ sitedata-option-block-all-cross-site-cookies =
     .label = Totes les galetes entre llocs (pot fer que alguns llocs web no funcionin)
 sitedata-option-block-all =
     .label = Totes les galetes (farà que alguns llocs web no funcionin)
+sitedata-clear2 =
+    .label = Esborra les dades de navegació
+    .accesskey = l
+sitedata-settings2 =
+    .label = Gestiona les dades de navegació
+    .accesskey = G
 sitedata-clear =
     .label = Esborra les dades…
     .accesskey = l
@@ -1624,6 +1654,10 @@ sitedata-settings =
 sitedata-cookies-exceptions =
     .label = Gestiona les excepcions…
     .accesskey = x
+sitedata-cookies-exceptions2 =
+    .label = Gestiona les excepcions
+    .accesskey = x
+    .description = Podeu especificar quins llocs web poden o no poden utilitzar galetes i dades dels llocs.
 cookies-site-data-group =
     .label = Galetes i dades dels llocs
 
@@ -1650,6 +1684,9 @@ addressbar-suggest = Quan s'utilitzi la barra d'adreces, suggereix
 addressbar-header-firefox-suggest = Barra d'adreces — { -firefox-suggest-brand-name }
 # When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
 addressbar-suggest-firefox-suggest = Trieu el tipus de suggeriments que apareixen a la barra d'adreces.
+# When Firefox Suggest is enabled, a "Learn more" link appears at the end of
+# `addressbar-suggest-firefox-suggest`.
+addressbar-locbar-firefox-suggest-learn-more = Més informació
 addressbar-locbar-history-option =
     .label = Historial de navegació
     .accesskey = H
@@ -1682,7 +1719,18 @@ addressbar-locbar-showrecentsearches-option =
 addressbar-locbar-showtrendingsuggestions-option =
     .label = Mostra suggeriments de cerca que són tendència
     .accesskey = t
+# Nonsponsored suggestions refers to Firefox Suggest suggestions like Wikipedia.
+addressbar-locbar-suggest-nonsponsored-option =
+    .label = Suggeriments del { -brand-short-name }
+addressbar-locbar-suggest-nonsponsored-desc = Obteniu suggeriments del web relacionats amb la vostra cerca.
+addressbar-locbar-suggest-sponsored-option =
+    .label = Suggeriments dels patrocinadors
+addressbar-locbar-suggest-sponsored-desc = Doneu suport al { -brand-short-name } activant els suggeriments patrocinats ocasionals
 addressbar-quickactions-learn-more = Més informació
+addressbar-dismissed-suggestions-label = Suggeriments descartats
+addressbar-restore-dismissed-suggestions-description = Restaura els suggeriments descartats dels patrocinadors i del { -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button =
+    .label = Restaura
 
 ## Privacy Section - Content Blocking
 
@@ -1719,6 +1767,7 @@ content-blocking-private-windows = Contingut que fa seguiment en finestres priva
 content-blocking-cross-site-cookies-in-all-windows2 = Galetes entre llocs en totes les finestres
 content-blocking-cross-site-tracking-cookies = Galetes de seguiment entre llocs
 content-blocking-all-cross-site-cookies-private-windows = Galetes entre llocs en finestres privades
+content-blocking-isolate-cross-site-cookies = Aïlla les galetes entre llocs
 content-blocking-cross-site-tracking-cookies-plus-isolate = Galetes de seguiment entre llocs, i aïlla les galetes restants
 content-blocking-social-media-trackers = Elements de seguiment de xarxes socials
 content-blocking-all-cookies = Totes les galetes
@@ -1739,6 +1788,8 @@ content-blocking-etp-standard-tcp-rollout-description = La protecció total de g
 content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
 content-blocking-etp-standard-tcp-title = Inclou la Protecció total de galetes, la nostra funció de privadesa més potent fins ara
 content-blocking-warning-title = Atenció!
+content-blocking-warning-title-2 = La protecció contra el seguiment estricta pot fer que alguns llocs no funcionin correctament
+content-blocking-warning-title-custom = La protecció contra el seguiment personalitzada pot fer que alguns llocs no funcionin correctament
 content-blocking-and-isolating-etp-warning-description-2 = Aquest paràmetre pot fer que alguns llocs web no mostrin part del contingut o que no funcionin correctament. Si sembla que un lloc no funciona bé, podeu provar de desactivar la protecció contra el seguiment perquè aquest lloc carregui tot el contingut.
 content-blocking-warning-learn-how = Vegeu com fer-ho
 content-blocking-reload-description = Cal tornar a carregar les pestanyes per aplicar aquests canvis.
@@ -1861,6 +1912,13 @@ collection-description = Ens esforcem per oferir-vos opcions i recollir només a
 collection-privacy-notice = Avís de privadesa
 collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
 collection-health-report-telemetry-disabled-link = Més informació
+collection-usage-ping =
+    .label = Envia un ping d'ús diari a { -vendor-short-name }
+    .accesskey = u
+collection-usage-ping-description = Això ajuda a { -vendor-short-name } a estimar els usuaris actius.
+collection-health-report2 =
+    .label = Envia dades tècniques i d’interacció a { -vendor-short-name }
+    .accesskey = r
 collection-health-report =
     .label = Permet que el { -brand-short-name } enviï dades tècniques i d'interacció a { -vendor-short-name }
     .accesskey = r

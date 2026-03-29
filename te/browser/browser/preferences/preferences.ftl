@@ -607,6 +607,14 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } నిర్థారించబడలేదు.
 sync-signedin-login-failure = మళ్ళీ అనుసంధానించడానికి సైన్ ఇన్ అవ్వండి { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
+
 ##
 
 sync-resend-verification =
@@ -783,6 +791,23 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 autofill-payment-methods-header =
     .aria-label = చెల్లింపు పద్ధతులు
+payments-delete-payment-prompt-cancel-button = రద్దుచేయి
+addresses-list-header =
+    .label = చిరునామాలు
+addreses-delete-address-button-label =
+    .aria-label = తొలగించు
+addreses-edit-address-button-label =
+    .aria-label = మార్చు
+addresses-delete-address-prompt-title = ఈ చిరునామా తొలగించాలా?
+addresses-delete-address-prompt-confirm-button = తొలగించు
+addresses-delete-address-prompt-cancel-button = రద్దుచేయి
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 
 ## Privacy Section - History
 
@@ -830,6 +855,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = చరిత్రను తుడిచివేయి…
     .accesskey = s
+history-header2 =
+    .heading = చరిత్ర
 history-group =
     .label = చరిత్ర
 
@@ -1093,3 +1120,14 @@ preferences-doh-status = స్థితి: { $status }
 desktop-folder-name = డెస్కుటాప్
 downloads-folder-name = దింపుకోళ్ళు
 choose-download-folder-title = దింపుకోళ్ళ సంచయాన్ని తెరువు:
+
+## AI controls page
+
+preferences-ai-controls-block-confirmation-translations = అనువాదాలు
+preferences-ai-controls-block-confirmation-cancel =
+    .label = రద్దుచేయి
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-advanced-button =
+    .label = ఉన్నత అమరికలు
