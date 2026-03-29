@@ -429,6 +429,23 @@ website-language-heading =
     .description = Algunes pàgines web es mostren en diverses llengües. Trieu les llengües en l'ordre que preferiu.
 website-preferred-language =
     .label = Llengües preferides
+website-add-language =
+    .label = Afegeix una llengua
+website-add-language-button =
+    .aria-label = Afegeix la llengua seleccionada
+    .title = Afegeix la llengua seleccionada
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Elimina { $locale }
+    .title = Elimina { $locale }
 choose-button =
     .label = Trieu…
     .accesskey = T
@@ -454,6 +471,52 @@ settings-translations-header =
     .description = Traduïu pàgines o el text seleccionat. Per protegir la vostra privadesa, les traduccions es fan en el vostre dispositiu.
 settings-translations-offer-to-translate-label =
     .label = Ofereix traduir la pàgina sencera
+settings-translations-more-settings-button =
+    .label = Més paràmetres de traducció
+    .description = Definiu les preferències pel que fa a llengües, llocs web i traducció fora de línia.
+settings-translations-subpage-header =
+    .heading = Més paràmetres de traducció
+settings-translations-subpage-speed-up-translation-header =
+    .label = Accelereu la traducció
+    .description = Baixeu llengües senceres per tal que les traduccions siguin més ràpides i es facin fora de línia.
+settings-translations-subpage-automatic-translation-header =
+    .label = Traducció automàtica
+settings-translations-subpage-always-translate-header =
+    .label = Tradueix sempre d'aquestes llengües
+settings-translations-subpage-never-translate-header =
+    .label = No tradueixis mai d'aquestes llengües
+settings-translations-subpage-never-translate-sites-header =
+    .label = No tradueixis mai aquests llocs
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Per afegir un lloc web, obriu el tauler de traducció <img data-l10n-name="translations-icon"/>, seleccioneu els paràmetres de traducció <img data-l10n-name="settings-icon"/> i, a continuació, trieu «No tradueixis mai aquest lloc».
+settings-translations-subpage-language-select-option =
+    .label = Afegeix una llengua
+settings-translations-subpage-language-add-button =
+    .aria-label = Afegeix una llengua
+    .title = Afegeix una llengua
+settings-translations-subpage-download-languages-header =
+    .label = Baixa llengües
+settings-translations-subpage-download-languages-select-option =
+    .label = Trieu una llengua
+settings-translations-subpage-download-languages-button =
+    .aria-label = Baixa la llengua
+    .title = Baixa la llengua
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = No heu baixat cap llengua
+settings-translations-subpage-no-languages-added =
+    .label = No heu afegit cap llengua
+settings-translations-subpage-download-progress = S’està baixant…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = No s'ha pogut baixar { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Torna-ho a provar
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
