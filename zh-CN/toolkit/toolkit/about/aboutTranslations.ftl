@@ -25,6 +25,8 @@ about-translations-language-load-error-message =
     .heading = 无法加载语言。
     .message = 请检查互联网连接，然后重试。
 about-translations-language-load-error-button = 重试
+about-translations-translation-error-subtext = 请重试。
+about-translations-translation-error-button = 重试
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = 输入文本以翻译

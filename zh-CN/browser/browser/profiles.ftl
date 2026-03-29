@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = “{ $profilename }”的副本已准备好，可进行定制
 copied-profile-page-header-description = 我们已将您的数据和设置复制到新的配置文件。现在请为其命名、选择外观，并完成定制。
+restored-profile-page-learn-more = 详细了解
 profile-window-title-2 = { -brand-short-name } - 选择配置文件
 profile-window-logo =
     .alt = { -brand-short-name } 徽标

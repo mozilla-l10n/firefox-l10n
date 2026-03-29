@@ -2327,6 +2327,9 @@ security-privacy-issue-card =
     .heading = 安全警告
 issue-card-reset-button =
     .label = 重置
+issue-card-dismiss-button =
+    .tooltiptext = 知道了
+    .aria-label = 知道了
 
 ## Enhanced Tracking Protection (ETP) status section
 

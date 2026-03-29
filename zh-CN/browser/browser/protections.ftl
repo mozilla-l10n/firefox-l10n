@@ -188,3 +188,5 @@ bar-tooltip-cryptominer =
         { $count ->
            *[other] { $count } 个加密货币挖矿程序（{ $percentage }%）
         }
+# Privacy Metrics Card
+privacy-metrics-title = 隐私保护
