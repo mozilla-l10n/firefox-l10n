@@ -360,6 +360,11 @@ preferences-web-appearance-override-warning3 =
     .message = Els paràmetres de control del contrast modifiquen l'aparença dels llocs web.
 preferences-web-appearance-link =
     .label = Gestioneu els temes del { -brand-short-name } a Extensions i temes
+preferences-contrast-control-group =
+    .label = Contrast dels llocs web
+    .description = Els llocs web utilitzen una varietat de colors de primer pla i de fons. Si voleu que el contrast sigui constant, podeu utilitzar els mateixos colors en tots els llocs web.
+preferences-contrast-control-radio-group =
+    .label = Substitueix els colors
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = La vostra selecció de colors modifica l'aparença dels llocs web. <a data-l10n-name="colors-link">Gestiona els colors</a>
@@ -419,6 +424,11 @@ preferences-text-zoom-override-warning =
     .message = Avís: si seleccioneu "Amplia només el text" i el zoom per defecte no és 100%, pot ser que alguns llocs o continguts no funcionin correctament.
 language-header = Llengua
 choose-language-description = Trieu la llengua en què es mostraran preferentment les pàgines
+website-language-heading =
+    .label = Llengua dels llocs web
+    .description = Algunes pàgines web es mostren en diverses llengües. Trieu les llengües en l'ordre que preferiu.
+website-preferred-language =
+    .label = Llengües preferides
 choose-button =
     .label = Trieu…
     .accesskey = T
@@ -438,6 +448,12 @@ translate-attribution = Traducció feta per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
+settings-translations-header =
+    .label = Traduccions
+    .aria-label = Traduccions
+    .description = Traduïu pàgines o el text seleccionat. Per protegir la vostra privadesa, les traduccions es fan en el vostre dispositiu.
+settings-translations-offer-to-translate-label =
+    .label = Ofereix traduir la pàgina sencera
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -471,6 +487,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = Demana sempre on desar els fitxers
     .accesskey = a
+download-private-browsing-delete =
+    .label = Suprimeix els fitxers baixats en la navegació privada quan tanqueu totes les finestres privades
+    .accesskey = S
 applications-setting =
     .label = Aplicacions
     .description = Trieu com voleu que el { -brand-short-name } tracti els fitxers que baixeu del web o les aplicacions que utilitzeu mentre navegueu.
