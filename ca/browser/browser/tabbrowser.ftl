@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Tanca la pestanya
            *[other] Tanca { $tabCount } pestanyes
         }
+tab-splitview-splitter =
+    .aria-label = Canvia la mida de les pestanyes dividides
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -259,10 +261,6 @@ tab-context-unnamed-group =
     .label = Grup sense nom
 tab-group-name-default = Grup sense nom
 
-## When collapsed, the tab group label's aria-description will indicate
-## whether the hover menu is open or closed.
-
-
 ##
 
 tab-context-move-tab-to-new-group =
@@ -348,6 +346,15 @@ tab-note-panel-add-note-new-badge =
 
 ## Split View
 
-
-## Manage Split View (icon in the address bar & three-dot menu in the footer)
-
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Afegeix una vista dividida
+    .accesskey = t
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Obre en una vista dividida
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separa la vista dividida
+    .accesskey = t

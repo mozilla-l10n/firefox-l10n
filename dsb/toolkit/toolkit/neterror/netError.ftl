@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nj
 
 neterror-file-not-found-filename = Pśeglědajśo datajowe mě za wjelikopisańskimi abo hynakšymi pisańskimi zmólkami.
 neterror-file-not-found-moved = Pśespytajśo, lěć dataja jo se pśesunuła, pśemjeniła abo wótpórała.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } njamóžo dataju na <strong>{ $path }</strong> namakaś. Pak njeeksistěrujo pak sćažka jo wopacna.
+neterror-file-not-found-what-can-you-do = Jolic sćo adresu manuelnje zapódał, pytajśo za zmólkami wjeliko-/małopisanja abo pisańskimi zmólkami w mjenju abo sćažce dataje. Jolic sćo skłaźonemu cytańskemu znamjenju abo wótkazoju slědował, jo se dataja snaź pśesunuła, pśemjeniła abo wulašowała, wót togo až jo se składła. Pytajśo za njeju z pomocu swójogo managera datajow abo nejnowšego pytanja.
 neterror-access-denied = Snaź jo se wótpórała, pśesunuła, abo datajowe pšawa zajźuju pśistupoju.
 neterror-unknown-protocol = Snaź musyśo druge programy instalěrowaś, aby se toś ta adresa wócyniła.
 neterror-redirect-loop = Toś ten problem zawinujo se wótergi pśez znjemóžnjanje abo wótpokazowanje cookiejow.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } njamóžo wěsty zwisk z serwerom na { $hostname } nawězaś.
 fp-neterror-offline-intro = { -brand-short-name } njamóžo ze serwerom <strong>{ $hostname }</strong> zwězaś
 fp-neterror-net-timeout-intro = Serwer na <strong>{ $hostname }{ $hostname }</strong> pśedłujko trjeba, aby wótgronił.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Serwer na <strong>{ $hostname }</strong> jo zmólku slědk pósłał: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } njejo zacytał toś ten bok, dokulaž se zda, ako njeby wěstotna konfiguracija z pjerwjejšnym bokom wótpowědował.
 fp-neterror-http-auth-disabled-intro = Něchten, kótaryž wudawa, až jo sedło, mógał wěcy ako wašo wužywaŕske mě, gronidło abo e-mailowu adresu kšadnuś.
 fp-neterror-http-auth-disabled-secure-connection = Toś to sedło se wěsty zwisk pomina, a njamóžośo wuwześe pśidaś, aby se k njomu  woglědał.

@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Boki z historije lašowaś
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Cytańske znamje wobźěłaś…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Cytańske znamje lašowaś
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Lašowaś
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Rejtariki z drugich rědow
 sidebar-menu-cpm-header =
     .heading = Gronidła
+sidebar-menu-bookmarks-header =
+    .heading = Cytańske znamjenja
 sidebar-panel-header-close-button =
     .tooltiptext = Zacyniś
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Meni cytańskich znamjenjow
+sidebar-bookmarks-folder-toolbar = Rědka cytańskich znamjenjow
+sidebar-bookmarks-folder-other = Druge cytańske znamjenja
+sidebar-bookmarks-folder-mobile = Mobilne cytańske znamjenja
 
 ## Titles for sidebar menu panels.
 
