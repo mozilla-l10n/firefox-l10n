@@ -1560,6 +1560,15 @@ addresses-delete-address-prompt-title = Voleu suprimir aquesta adreça?
 addresses-delete-address-prompt-confirm-button = Suprimeix
 addresses-delete-address-prompt-cancel-button = Cancel·la
 autofill-addresses-add-button = Afegeix una adreça nova
+autofill-addresses-manage-addresses-title =
+    .heading = Gestiona les adreces i altra informació
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1918,6 +1927,9 @@ permissions-autoplay = Reproducció automàtica
 permissions-autoplay-settings =
     .label = Paràmetres…
     .accesskey = t
+permissions-block-popups2 =
+    .label = Bloca les finestres emergents i les redireccions de tercers
+    .accesskey = B
 permissions-block-popups =
     .label = Bloca les finestres emergents
     .accesskey = B
