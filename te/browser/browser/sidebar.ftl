@@ -22,6 +22,11 @@ sidebar-history-delete =
 sidebar-history-sort-option-date =
     .label = తేదీ
 
+## Labels for sidebar customize panel
+
+sidebar-customize-firefox-tools-header =
+    .label = { -brand-product-name } పనిముట్లు
+
 ## Labels for sidebar context menu items
 
 sidebar-context-menu-open-in-window =
@@ -31,6 +36,11 @@ sidebar-context-menu-open-in-private-window =
 sidebar-context-menu-copy-link =
     .label = లంకెను కాపీచేయి
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = తొలగించు
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-history-label =
@@ -39,6 +49,10 @@ sidebar-menu-synced-tabs-label =
     .label = ఇతర పరికరాల నుండి ట్యాబులు
 sidebar-menu-bookmarks-label =
     .label = ఇష్టాంశాలు
+sidebar-menu-contextual-password-manager-label =
+    .label = సంకేతపదాలు
+sidebar-menu-more-tools-label =
+    .label = మరిన్ని పనిముట్లు
 
 ## Headings for sidebar menu panels.
 
@@ -46,8 +60,14 @@ sidebar-menu-history-header =
     .heading = చరిత్ర
 sidebar-menu-syncedtabs-header =
     .heading = ఇతర పరికరాల నుండి ట్యాబులు
+sidebar-menu-cpm-header =
+    .heading = సంకేతపదాలు
 sidebar-panel-header-close-button =
     .tooltiptext = మూసివేయి
+
+## Titles for sidebar menu panels.
+
+sidebar-history-title = చరిత్ర
 
 ## Context for closing synced tabs when hovering over the items
 

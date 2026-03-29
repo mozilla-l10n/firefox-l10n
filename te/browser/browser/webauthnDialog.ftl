@@ -7,3 +7,7 @@
 
 webauthn-cancel = రద్దుచేయి
     .accesskey = c
+webauthn-allow = అనుమతించు
+    .accesskey = A
+webauthn-block = నిరోధించు
+    .accesskey = B

@@ -7,6 +7,19 @@ tabbrowser-menuitem-close-tab =
     .label = ట్యాబును మూసివేయి
 tabbrowser-menuitem-close =
     .label = మూసివేయి
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -73,3 +86,14 @@ tab-group-editor-name-label = పేరు
 tab-group-editor-cancel =
     .label = రద్దుచేయి
     .accesskey = C
+tab-group-editor-color-selector2-blue = నీలం
+    .title = నీలం
+
+## Tab Notes
+
+tab-note-editor-button-cancel =
+    .label = రద్దుచేయి
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = భద్రపరుచు
+    .accesskey = S
