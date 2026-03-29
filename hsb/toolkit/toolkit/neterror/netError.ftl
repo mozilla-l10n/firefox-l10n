@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nj
 
 neterror-file-not-found-filename = Přepruwujće datajowe mjeno za wulkopisanskimi abo hinašimi pisanskimi zmylkami.
 neterror-file-not-found-moved = Přepruwujće, hač je so dataja přesunyła, přemjenowała abo wotstroniła.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } njemóže dataju na <strong>{ $path }</strong> namakać. Pak njeeksistuje pak šćežka je wopačna.
 neterror-access-denied = Snano je so wotstroniła, přesunyła, abo datajowe prawa zadźěwaju přistupej.
 neterror-unknown-protocol = Snano dyrbiće druhe programy instalować, zo by so tuta adresa wočiniła.
 neterror-redirect-loop = Tutón problem so druhdy přeze znjemóžnjenje abo wotpokazowanje plackow zawinuje.
@@ -187,6 +190,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } njemóže wěsty zwisk z serwerom na { $hostname } nawjazać.
 fp-neterror-offline-intro = { -brand-short-name } njemóže ze serwerom <strong>{ $hostname }</strong> zwjazać
 fp-neterror-net-timeout-intro = Serwer na <strong>{ $hostname }{ $hostname }</strong> předołho trjeba, zo by wotmołwił.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Serwer na <strong>{ $hostname }</strong> je zmylk wroćo pósłał: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } njeje tutu stronu začitał, dokelž so zda, jako njeby wěstotna konfiguracija z předchadnej stronu wotpowědował.
 fp-neterror-http-auth-disabled-intro = Něchtó, kotryž wudawa, zo je sydło, móhł wěcy kaž waše wužiwarske mjeno, hesło abo e-mejlowu adresu kradnyć.
 fp-neterror-http-auth-disabled-secure-connection = Tute sydło sej wěsty zwisk wužaduje, a njemóžeće wuwzaće přidać, zo byšće jo wopytał.

@@ -91,6 +91,7 @@ policy-Homepage = Startowu stronu nastajić a na přeće zawrěć.
 policy-HttpAllowlist = Pochady, kotrež njebudu so na HTTPS aktualizować.
 policy-HttpsOnlyMode = Zmóžnjenje modusa Jenož-HTTPS dowolić.
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
+policy-IPProtectionAvailable = Tomu zadźěwać, zo je zatwarjeny VPN za wužiwarjow k dispoziciji.
 policy-LegacyProfiles = Funkciju znjemóžnić, kotraž separatny profil za kóždu instalaciju wunuzuje
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
