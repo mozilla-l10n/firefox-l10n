@@ -18,6 +18,12 @@ firefox-relay-must-login-to-account = Intra in su contu tuo pro impreare is alia
 firefox-relay-get-unlimited-masks =
     .label = Gesti is alias
     .accesskey = G
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] As impreadu s’alias gratùitu de posta eletrònica
+       *[other] As impreadu totu is { $count } alias gratùitos de posta eletrònica
+    }
 firefox-relay-reuse-masks-select-label = Seletziona un’alias reghente
 firefox-relay-see-all-masks =
     .label = Ammustra totu is alias

@@ -257,10 +257,6 @@ tab-context-unnamed-group =
     .label = Grupu chene nòmine
 tab-group-name-default = Grupu chene nòmine
 
-## When collapsed, the tab group label's aria-description will indicate
-## whether the hover menu is open or closed.
-
-
 ##
 
 tab-context-move-tab-to-new-group =
@@ -337,6 +333,7 @@ tab-note-panel-add-note-new-badge =
 
 ## Split View
 
-
-## Manage Split View (icon in the address bar & three-dot menu in the footer)
-
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Serra s’ischermu partzidu
+    .accesskey = S

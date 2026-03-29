@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+opentabs-page-title = Sèbera un’ischeda de agiùnghere a s’ischermu partzidu
 opentabs-search-text-box =
     .placeholder = Chirca ischedas
 # Variables:
