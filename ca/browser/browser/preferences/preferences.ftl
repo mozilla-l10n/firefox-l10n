@@ -865,11 +865,15 @@ home-prefs-content-header2 = Contingut de l'{ -firefox-home-brand-name }
 home-prefs-content-description2 = Trieu el contingut que voleu en la pantalla d'{ -firefox-home-brand-name }.
 home-prefs-search-header =
     .label = Cerca web
+home-prefs-search-header2 =
+    .label = Cerca
 home-prefs-shortcuts-header =
     .label = Dreceres
 home-prefs-shortcuts-description = Llocs que deseu o visiteu
 home-prefs-shortcuts-by-option-sponsored =
     .label = Dreceres patrocinades
+home-prefs-content-header =
+    .label = { -firefox-home-brand-name }
 
 ## Home Section - Firefox Home Content Customization
 
@@ -879,6 +883,12 @@ home-prefs-recommended-by-description-new = Contingut excepcional seleccionat pe
 home-prefs-recommended-by-header-generic =
     .label = Articles recomanats
 home-prefs-recommended-by-description-generic = Contingut excepcional seleccionat per la família del { -brand-product-name }
+home-prefs-stories-header =
+    .label = Articles
+home-prefs-stories-description = Articles personalitzats basats en la vostra activitat
+home-prefs-stories-header2 =
+    .label = Articles
+    .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
 
 ##
 
@@ -909,7 +919,11 @@ home-prefs-weather-header =
     .label = Informació meteorològica
 home-prefs-weather-description = La previsió d'avui d'un cop d'ull
 home-prefs-weather-learn-more-link = Més informació
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = Doneu suport al { -brand-product-name }
 home-prefs-mission-message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
+home-prefs-mission-message-learn-more-link = Descobriu com
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
