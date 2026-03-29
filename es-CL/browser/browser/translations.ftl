@@ -85,6 +85,14 @@ translations-panel-error-change-button =
     .label = Cambiar el idioma de origen
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = Lo sentimos, todavía no admitimos traducciones de { $language }.
+translations-panel-error-unsupported-hint-unknown-2 = Lo sentimos, todavía no admitimos traducciones de este idioma.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:
@@ -228,6 +236,16 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Hubo un problema al traducir. Por favor, vuelve a intentarlo.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = Lo sentimos, todavía no admitimos traducciones de { $language }.
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = Lo sentimos, todavía no admitimos traducciones de este idioma.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }

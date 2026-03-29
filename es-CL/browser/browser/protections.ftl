@@ -203,6 +203,15 @@ bar-tooltip-cryptominer =
             [one] { $count } criptominero ({ $percentage }%)
            *[other] { $count } criptomineros ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Protecciones de privacidad
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } bloqueado esta semana
+       *[other] { $count } bloqueados esta semana
+    }
 # Variables:
 #   $count (Number) - Number of trackers blocked
 privacy-metrics-trackers =

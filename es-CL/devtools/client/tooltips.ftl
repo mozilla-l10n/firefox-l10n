@@ -23,6 +23,7 @@ inactive-css-column-span = <strong>{ $property }</strong> no tiene efecto extens
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de cuadrícula o flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de cuadrícula o flexible, ni un elemento con posición absoluta.
 inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de la cuadrícula ni un elemento con posición absoluta.
+inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado de forma absoluta.
 inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento de cuadrícula.
 inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor de cuadrícula.
 inactive-css-not-flex-item = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento flex.
