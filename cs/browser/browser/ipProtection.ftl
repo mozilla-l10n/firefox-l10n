@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Představujeme VPN, nyní přímo uvni
 ipprotection-feature-introduction-link-text-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
+ipprotection-feature-introduction-description-captive-portal = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i na veřejných Wi-Fi sítích.
 ipprotection-feature-introduction-button-primary = Další
 ipprotection-feature-introduction-button-secondary-not-now = Teď ne
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, děkuji
