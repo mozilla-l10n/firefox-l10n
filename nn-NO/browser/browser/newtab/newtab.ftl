@@ -737,6 +737,7 @@ newtab-widget-message-copy = Frå kjappe påminningar til daglege gjeremål, fok
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
 newtab-promo-card-title-addons = Gjer { -brand-product-name } til din
+newtab-promo-card-body-addons = Vel eit bakgrunnsbilde frå samlinga vår, eller lag ditt eige.
 newtab-promo-card-cta-addons = Prøv han no
 newtab-promo-card-title = Støtt { -brand-product-name }
 newtab-promo-card-body = Sponsorane våre støttar oppdraget vårt om å byggje eit betre internett
