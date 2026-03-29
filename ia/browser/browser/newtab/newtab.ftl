@@ -734,6 +734,7 @@ newtab-widget-message-copy = De rememorationes a travalios, de concentration a r
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
 newtab-promo-card-title-addons = Face tue { -brand-product-name }
+newtab-promo-card-body-addons = Impedi al VPN integrate de esser disponibile al usatores.
 newtab-promo-card-cta-addons = Proba lo subito
 newtab-promo-card-title = Supporta { -brand-product-name }
 newtab-promo-card-body = Nostre patrocinatores supporta nostre mission pro construer un web melior

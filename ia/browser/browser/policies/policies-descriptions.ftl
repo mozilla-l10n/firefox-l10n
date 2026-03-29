@@ -91,6 +91,7 @@ policy-Homepage = Definir e optionalmente blocar le pagina principal.
 policy-HttpAllowlist = Origines que non sera promovite a HTTPS.
 policy-HttpsOnlyMode = Permitter al modo solo-HTTPS de esser activate.
 policy-InstallAddonsPermission = Permitter a certe sitos web de installar additivos.
+policy-IPProtectionAvailable = Impedi al VPN integrate de esser disponibile al usatores.
 policy-LegacyProfiles = Disactivar le function que fortia le creation de un profilo separate pro cata installation
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -128,6 +129,7 @@ policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.
 policy-PrivateBrowsingModeAvailability = Predefini le disponibilitate del modalitate Navigation private.
 policy-PromptForDownloadLocation = Demandar ubi salvar le files quando on discarga.
 policy-Proxy = Configurar le parametros del servitor proxy.
+policy-RelaunchRequired = Require a { -brand-short-name } de esser re-lanceate in un date puncto e notifica le usator del imminente relanceamento.
 policy-RequestedLocales = Defini le lista del localisationes desirate pro le applicationes in ordine de tu preferentias.
 policy-SanitizeOnShutdown2 = Eliminar datos de navigation al clausura.
 policy-SearchBar = Definir le localisation predefinite del barra de recerca. Le usator pote ancora lo personalisar.

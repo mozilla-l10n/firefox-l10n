@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Introducer VPN, ora justo interne a tu navigator
 ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
+ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
+ipprotection-feature-introduction-description-captive-portal = Navigar con protection ulterior celante tu position, mesmo sur wi-fi public.
 ipprotection-feature-introduction-button-primary = Sequente
 ipprotection-feature-introduction-button-secondary-not-now = Non ora
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gratias
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = OK
 ## Panel
 
 unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cela tu position</a> navigante in { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Cela tu position dum tu naviga in { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
