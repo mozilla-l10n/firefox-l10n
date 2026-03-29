@@ -2,6 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Toolbar button tooltip reflects VPN state
+
+ipprotection-button =
+    .label = VPN
+    .tooltiptext = VPN
+ipprotection-button-error =
+    .label = Ativa sa VPN
+    .tooltiptext = Ativa sa VPN
+
+##
+
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = BETA
@@ -14,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Iscoberi sa VPN, immoe a disponimentu deretu dae su navigadore
 ipprotection-feature-introduction-link-text-2 = Imprea sa <a data-l10n-name="learn-more-vpn">VPN nostra</a>, una funtzionalidade noa e integrada pro cuare sa positzione tua e amparare is datos tuos.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Imprea sa <a data-l10n-name="learn-more-vpn">VPN nostra</a>, una funtzionalidade noa e integrada pro cuare sa positzione tua e amparare is datos tuos, fintzas cando ses impreende sa Navigatzione privada.
+ipprotection-feature-introduction-description-private-browsing = Nàviga in una manera galu prus segura cuende sa positzione tua, fintzas cando impreas una ventana privada.
+ipprotection-feature-introduction-description-captive-portal = Nàviga in una manera galu prus segura cuende sa positzione tua, fintzas cando impreas retes Wi-FI pùblicas.
 ipprotection-feature-introduction-button-primary = Imbeniente
 ipprotection-feature-introduction-button-secondary-not-now = Immoe nono
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gràtzias
@@ -27,6 +41,7 @@ ipprotection-site-settings-callout-button = Apo cumprèndidu
 ## Panel
 
 unauthenticated-vpn-title = Proa sa VPN integrada de { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cua sa positzione tua</a> durante sa navigatzione cun { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Cua sa positzione tua durante sa navigatzione cun { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -75,3 +90,8 @@ ipprotection-connection-status-generic-error-try-again = Torra·nche a proare a 
 ipprotection-connection-status-network-error-title = Controlla sa connessione a sa rete
 ipprotection-connection-status-blocked-error-title = Sa VPN no est a disponimentu
 confirmation-hint-ipprotection-navigated-to-excluded-site = Sa VPN est disativada pro custu situ
+
+## IP Protection alerts
+
+vpn-paused-alert-close-tabs-button = Serra totu is ischedas
+vpn-error-alert-body = Torra·nche a proare a pustis.

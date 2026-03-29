@@ -72,6 +72,7 @@ fxa-adoption-addresses-backup-title = Immoe amus a fàghere una còpia de segure
 fxa-adoption-addresses-backup-subtitle = Ampara is indiritzos sarvados cun una sincronizatzione tzifrada intre dispositivos.
 fxa-adoption-credit-cards-backup-title = Immoe amus a fàghere una còpia de seguresa de is mètodos de pagamentu
 fxa-adoption-credit-cards-backup-subtitle = Ampara is mètodos de pagamentu tuos cun una sincronizatzione tzifrada intre dispositivos.
+fxa-adoption-bookmarks-treatment-backup-title = Fatzamus una còpia de seguresa de is sinnalibros tuos
 fxa-adoption-primary-button-label = Registra·ti
 
 ## Protections panel

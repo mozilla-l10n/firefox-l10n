@@ -246,7 +246,16 @@ link-preview-settings-enable =
 link-preview-optin-title = Nde boles bìdere de prus cun IA?
 # Header for the key points section
 link-preview-key-points-header = Puntos crae
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Cunfiguratzione initziale • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Is puntos crae ant a èssere ammustrados prus a sa lestra sa borta chi benit.
 # Onboarding card See a preview button
 link-preview-onboarding-button = Ammustra una previsualizatzione
 # Onboarding card Close button
 link-preview-onboarding-close = Serra
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Cunfiguratzione initziale
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Custu protzessu podet tardare. As a bìdere is puntos crae prus a sa lestra sa borta chi benit.
