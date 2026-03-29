@@ -177,6 +177,13 @@ sidebar-menu-cpm-header =
 sidebar-panel-header-close-button =
     .tooltiptext = Cerrar
 
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menú de marcadores
+sidebar-bookmarks-folder-toolbar = Barra de marcadores
+sidebar-bookmarks-folder-other = Otros marcadores
+sidebar-bookmarks-folder-mobile = Marcadores en dispositivo móvil
+
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Personalizar barra lateral

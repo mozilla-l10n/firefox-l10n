@@ -584,5 +584,6 @@ onboarding-refresh-onboarding-addons-subtitle = Las extensiones son pequeñas ap
 onboarding-refresh-onboarding-addons-title = Dale un impulso a tu navegación
 onboarding-refresh-sync-subtitle = Accede a tus marcadores, contraseñas y más desde cualquier lugar donde te hayas conectado a { -brand-short-name }. Además, tus datos están cifrados, así que solo tú puedes verlos.
 onboarding-refresh-sync-title = Ve a cualquier parte. Sincroniza todo.
+onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador de los grandes respaldado por una organización sin fines de lucro. Con tu apoyo, trabajamos para que internet sea más seguro y accesible para todos.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda

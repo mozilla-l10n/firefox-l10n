@@ -25,6 +25,8 @@ neterror-override-exception-button = Aceptar el riesgo y continuar
 neterror-pref-reset-button = Restaurar ajustes predeterminados
 neterror-return-to-previous-page-button = Retroceder
 neterror-return-to-previous-page-recommended-button = Retroceder (recomendado)
+neterror-try-again-button-2 = Volver a intentarlo
+    .accesskey = T
 neterror-try-again-button = Volver a intentarlo
 neterror-add-exception-button = Continuar siempre para este sitio
 neterror-settings-button = Cambiar ajustes DNS
@@ -176,12 +178,20 @@ neterror-response-status-code = Código de error: { $responsestatus } { $respons
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Parece que hay un problema con tu conexión a Internet
+fp-neterror-illustration-alt =
+    .alt = Ilustración de un zorro observando cables de red desconectados.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } no puede crear una conexión segura con el servidor en { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } no puede conectarse al servidor en <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = El servidor en <strong>{ $hostname }</strong> está tardando demasiado en responder.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = El servidor en <strong>{ $hostname }</strong> devolvió un error: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } no cargó esta página porque parece que la configuración de seguridad no coincide con la página anterior.
 fp-neterror-http-auth-disabled-intro = Alguien que se esté haciendo pasar por el sitio podría intentar robar cosas como tu nombre de usuario, contraseña o correo electrónico.
 fp-neterror-http-auth-disabled-secure-connection = Este sitio requiere una conexión segura y no puedes añadir una excepción para visitarlo.

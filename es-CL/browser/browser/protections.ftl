@@ -203,3 +203,33 @@ bar-tooltip-cryptominer =
             [one] { $count } criptominero ({ $percentage }%)
            *[other] { $count } criptomineros ({ $percentage }%)
         }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } rastreador
+       *[other] { $count } rastreadores
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } creador de huellas (Fingerprinter)
+       *[other] { $count } creadores de huellas (Fingerprinters)
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } cookie de seguimiento
+       *[other] { $count } cookies de seguimiento
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } rastreador social
+       *[other] { $count } rastreadores sociales
+    }
+privacy-metrics-empty = No se han bloqueado rastreadores esta semana. { -brand-short-name } te protege de las siguientes amenazas mientras navegas.
+privacy-metrics-loading = Cargando estadísticas de protección…

@@ -310,6 +310,7 @@ tail-fox-spotlight-secondary-button = Ahora no
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = Vuelve a disfrutar de la privacidad integrada.
+welcome-back-embedded-import-title = Importa tus datos y haz que { -brand-short-name } se sienta como en casa.
 
 ## Root Certificate Succession Infobar
 
