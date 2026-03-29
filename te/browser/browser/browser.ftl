@@ -305,6 +305,7 @@ search-one-offs-actions =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-addons2 = పొడగింతలు
 quickactions-cmd-bookmarks = ఇష్టాంశాలు
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = చరిత్రను తుడిచివేయి
@@ -324,6 +325,7 @@ quickactions-cmd-private = అంతరంగిక విహారణ
 quickactions-restart = { -brand-short-name }‌ను పునఃప్రారంభించు
 # Opens the screenshot tool
 quickactions-screenshot3 = తెరపట్టు తీసుకోండి
+quickactions-cmd-screenshot = తెరపట్టు
 quickactions-cmd-settings = అమరికలు, ప్రాధాన్యతలు, ఎంపికలు
 # Opens about:addons page in the themes section
 quickactions-themes = అలంకారాల నిర్వహణ

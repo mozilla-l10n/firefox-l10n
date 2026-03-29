@@ -1058,6 +1058,9 @@ suggestions-addressbar-settings-generic2 = Canvia els paràmetres d'altres sugge
 search-suggestions-cant-show = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
 search-one-click-header2 = Dreceres de cerca
 search-one-click-desc = Trieu els motors de cerca alternatius que es mostraran sota la barra d'adreces i de cerca en començar a escriure una paraula.
+search-one-click-header-3 =
+    .label = Motors de cerca addicionals
+    .description = Trieu quins motors de cerca i dreceres apareixen a la barra d’adreces.
 search-choose-engine-column =
     .label = Motor de cerca
 search-choose-keyword-column =
@@ -1070,6 +1073,9 @@ search-remove-engine =
     .accesskey = E
 search-add-engine =
     .label = Afegeix
+    .accesskey = A
+search-add-engine-2 =
+    .label = Afegeix un motor de cerca
     .accesskey = A
 search-edit-engine =
     .label = Edita
@@ -1116,6 +1122,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronització
+account-group-label =
+    .label = Compte de { -vendor-short-name }
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1186,7 +1194,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronització: ACTIVADA
+prefs-syncing-on-2 =
+    .label = La sincronització està ACTIVADA
 prefs-syncing-off = Sincronització: DESACTIVADA
+prefs-syncing-off-2 =
+    .label = La sincronització està DESACTIVADA
+    .description = Activeu la sincronització per tenir les adreces d'interès, contrasenyes, historial i molt més en tots els dispositius.
 prefs-sync-turn-on-syncing =
     .label = Activa la sincronització…
     .accesskey = s
@@ -1213,6 +1226,10 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Actualment, sincronitzeu aquests elements en tots els vostres dispositius connectats:
+sync-syncing-across-devices-heading-2 = Dades sincronitzades entre dispositius
+sync-syncing-across-devices-empty-state =
+    .label = Encara no esteu sincronitzant res…
+    .description = Activeu la sincronització per tenir totes les vostres dades en tots els dispositius.
 sync-currently-syncing-bookmarks = Adreces d'interès
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestanyes obertes
