@@ -401,7 +401,7 @@ default-font = Προεπιλεγμένη γραμματοσειρά
 default-font-size = Μέγεθος
     .accesskey = Μ
 advanced-fonts =
-    .label = Σύνθετα…
+    .label = Σύνθετες επιλογές…
     .accesskey = Σ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header2 =
