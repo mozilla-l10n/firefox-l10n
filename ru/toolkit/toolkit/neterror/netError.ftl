@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } н
 
 neterror-file-not-found-filename = Проверьте правильность введённого имени файла, соответствие регистра и отсутствие других ошибок в имени файла.
 neterror-file-not-found-moved = Проверьте, не был ли файл переименован, удалён или перемещён.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } не может найти файл по пути <strong>{ $path }</strong>. Он либо не существует, либо путь некорректен.
+neterror-file-not-found-what-can-you-do = Если вы набрали адрес вручную, проверьте наличие ошибок регистра или опечаток в имени файла или пути. Если вы перешли по сохранённой закладке или ссылке, то файл, возможно, был перемещён, переименован или удалён после сохранения. Попробуйте найти его с помощью файлового менеджера или недавнего поиска.
 neterror-access-denied = Возможно, что он был удалён или перемещён, или разрешения на файл не дают получить к нему доступ.
 neterror-unknown-protocol = Для открытия данного адреса вам, возможно, понадобится установить стороннее программное обеспечение.
 neterror-redirect-loop = Эта проблема может возникать при отключении или запрещении принятия кук.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } не может создать защищённое соединение с сервером на { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не может подключиться к серверу <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Сервер на <strong>{ $hostname }</strong> слишком долго не отвечает.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Сервер на <strong>{ $hostname }</strong> отправил обратно ошибку: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } не загрузил эту страницу, так как похоже, что конфигурация безопасности не соответствует предыдущей странице.
 fp-neterror-http-auth-disabled-intro = Кто-то, выдающий себя за сайт, может попытаться украсть ваше имя пользователя, пароль или адрес электронной почты.
 fp-neterror-http-auth-disabled-secure-connection = Этот сайт требует использования безопасного соединения, и вы не можете добавить исключение для его посещения.

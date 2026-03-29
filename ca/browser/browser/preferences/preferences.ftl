@@ -1067,6 +1067,10 @@ search-edit-engine-2 =
     .title = Edita el motor de cerca
 search-delete-engine =
     .title = Suprimeix el motor de cerca
+search-enable-engine =
+    .title = Activa el motor de cerca
+search-outlink-to-extensions-page =
+    .title = Gestioneu-ho dins d'extensions i temes
 search-choose-engine-column =
     .label = Motor de cerca
 search-choose-keyword-column =
@@ -1190,6 +1194,19 @@ sync-signedin-unverified2 =
     .label = { $email } encara no està confirmat
     .description = Comproveu la safata d'entrada per confirmar el vostre compte i fer-lo oficial.
 sync-signedin-login-failure = Inicieu la sessió per tornar-vos a connectar { $email }
+sync-signedin-login-failure2 =
+    .label = La sessió de { $email } és tancada
+    .description = Torneu a iniciar la sessió per connectar-vos i començar a sincronitzar les vostres dades.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1423,6 +1440,13 @@ forms-fill-usernames-and-passwords-2 =
 forms-saved-passwords =
     .label = Contrasenyes desades
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = Gestiona les contrasenyes desades
+    .accesskey = d
+forms-saved-passwords-searchkeywords = S'han emmagatzemat les dades d'inici de sessió dels llocs següents en el vostre ordinador
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Proteccions addicionals
 forms-primary-pw-use =
     .label = Utilitza una contrasenya principal
     .accesskey = U
@@ -1622,6 +1646,10 @@ cookie-banner-blocker-checkbox-label =
 
 addressbar-header = Barra d'adreces
 addressbar-suggest = Quan s'utilitzi la barra d'adreces, suggereix
+# When Firefox Suggest is enabled, this replaces `addressbar-header`.
+addressbar-header-firefox-suggest = Barra d'adreces — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = Trieu el tipus de suggeriments que apareixen a la barra d'adreces.
 addressbar-locbar-history-option =
     .label = Historial de navegació
     .accesskey = H
@@ -1651,6 +1679,9 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 addressbar-locbar-showrecentsearches-option =
     .label = Mostra les cerques recents
     .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option =
+    .label = Mostra suggeriments de cerca que són tendència
+    .accesskey = t
 addressbar-quickactions-learn-more = Més informació
 
 ## Privacy Section - Content Blocking
