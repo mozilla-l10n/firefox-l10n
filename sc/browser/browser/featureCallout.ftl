@@ -104,6 +104,14 @@ perplexity-callout-primary-label = Pregunta a Perplexity
 perplexity-callout-secondary-label-1 = Iscarta
 perplexity-callout-secondary-label-2 = Apo cumprèndidu
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = Boles proare unu motore de chirca nou chi donat prioridade a sa riservadesa tua?
+start-page-callout-subtitle = Proa Startpage. Est progetadu pro mantènnere privadas is chircas tuas, dae su primu momentu.
+start-page-callout-primary-label = Proa Startpage
+start-page-callout-secondary-label = Iscarta
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
@@ -227,6 +235,12 @@ sidebar-genai-survey-satisfaction-question = Cale est su livellu de satisfatzion
 sidebar-genai-survey-productive-question =
     Cantu ses de acordu cun custa afirmatzione:<br/>
     “Su chatbot IA in sa barra laterale m’agiudadu cun sa produtividade”?
+splitview-onboarding-callout-title-1 = Ischermu partzidu: una manera prus eficatze pro fàghere prus tareas a su pròpiu tempus
+splitview-onboarding-callout-subtitle-1 = Incarca custa ischeda cun su butone deretu e sèbera «Agiunghe ischermu partzidu« pro ammustrare duas ischedas a su pròpiu tempus.
+splitview-onboarding-callout-cta-1 = Proa·ddu immoe
+splitview-onboarding-callout-title-2 = Ammustra duas ischedas a su pròpiu tempus cun s’ischermu partzidu
+splitview-onboarding-callout-subtitle-2 = Chena de ventanas agiuntivas. Nudda de colare a un’àtera ischeda. Incarca custa ischeda cun su butone deretu e sèbera «Agiunghe ischermu partzidu».
+splitview-onboarding-callout-cta-2 = Proa s’ischermu partzidu
 unified-search-callout-title = Cola intre motores de chirca
 unified-search-callout-subtitle = Sèbera su chi funtzionat mègius pro sa chirca ispetzìfica tua.
 unified-search-callout-primary-label = Imbeniente

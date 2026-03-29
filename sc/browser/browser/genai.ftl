@@ -226,8 +226,12 @@ link-preview-reading-time =
         [one] Tempus de letura de { $range } minutu
        *[other] Tempus de letura de { $range } minutos
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } non podet ammustrare sa previsualizatzione de custu ligòngiu
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Bìsita su ligòngiu
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } non podet generare puntos crae pro custa pàgina web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Ddoe est istada una faddina.
 # Text for the retry link when generation fails
@@ -235,6 +239,9 @@ link-preview-generation-retry = Torra a nche proare
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Cunfiguratzione de previsualizatzione de ligòngiu
+link-preview-settings-enable =
+    .label = Ativa sa previsualizatzione de ligòngios
+    .description = Ammustra su tìtulu de sa pàgina, sa descritzione e àteru cando impreas su curtzadòrgiu o incarcas unu ligòngiu cun su butone deretu.
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Nde boles bìdere de prus cun IA?
 # Header for the key points section

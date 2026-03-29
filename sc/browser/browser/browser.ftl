@@ -532,6 +532,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Sa connessione a custu situ no est segura.
 identity-connection-verified = Sa connessione a custu situ est segura.
 identity-ev-owner-label = Tzertificadu emìtidu pro:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Calificadu comente est ispetzificadu a su Regulamentu (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla non reconnoschet custu emitente de tzertificatzione. Diat pòdere èssere istadu agiuntu dae su sistema operativu o dae s'amministratzione.
 identity-remove-cert-exception =
     .label = Boga s’etzetzione

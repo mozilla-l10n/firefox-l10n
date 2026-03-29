@@ -41,4 +41,5 @@ default-browser-guidance-notification-body-instruction-win11 =
 default-browser-guidance-notification-info-page = Ammustra·mi·ddu
 default-browser-guidance-notification-dismiss = Fatu
 default-browser-guidance-notification-v2-title = Agabba de cunfigurare { -brand-short-name } comente navigadore predefinidu
+default-browser-guidance-notification-v2-body = In sa cunfiguratzione, sèbera «Cunfigura comente predefinidu» pro { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Agabba de cunfigurare { -brand-short-name } comente navigadore predefinidu in is cunfiguratziones
