@@ -806,6 +806,10 @@ home-new-windows-tabs-description2 = Trieu què voleu veure en obrir la pàgina 
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navegador per defecte
+is-default-browser-2 =
+    .message = El { -brand-short-name } és el navegador per defecte. Molt bona elecció.
 set-as-my-default-browser-2 =
     .label = Fes que sigui el navegador per defecte
     .accesskey = d
@@ -921,11 +925,21 @@ home-prefs-weather-header =
     .label = Informació meteorològica
 home-prefs-weather-description = La previsió d'avui d'un cop d'ull
 home-prefs-weather-learn-more-link = Més informació
+home-prefs-widgets-header =
+    .label = Ginys
+# Lists is a widget on New Tab, similar to a to-do widget
+home-prefs-lists-header =
+    .label = Llistes
+# Timer is a widget on New Tab, similar to the Pomodoro timer.
+home-prefs-timer-header =
+    .label = Temporitzador
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Doneu suport al { -brand-product-name }
 home-prefs-mission-message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
 home-prefs-mission-message-learn-more-link = Descobriu com
+home-prefs-manage-topics-link = Gestiona els temes
+home-prefs-choose-wallpaper-link = Trieu un fons de pantalla
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1007,6 +1021,10 @@ search-keyword-warning-title = Duplica la paraula clau
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Heu triat una paraula clau que ja utilitza «{ $name }». Seleccioneu-ne una altra.
 search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una adreça d'interès. Seleccioneu-ne una altra.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = Ja hi ha un motor de cerca amb el nom «{ $name }». Trieu-ne un altre.
 remove-engine-confirmation = Segur que voleu eliminar aquest motor de cerca?
 remove-engine-remove = Elimina
 remove-addon-engine-alert = Per eliminar aquest motor de cerca, elimineu el complement associat.

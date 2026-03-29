@@ -310,6 +310,8 @@ tail-fox-spotlight-secondary-button = Şimdi değil
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = Yerleşik gizliliğe geri dönün
+welcome-back-spotlight-subtitle = Kâr amacı gütmeyen bir kuruluş tarafından geliştirilen tek büyük tarayıcıya yeniden hoş geldiniz. Gezindiğiniz tüm sitelerde verilerinizi korumak için ek önlemler alıyoruz.
+welcome-back-embedded-import-title = Verilerinizi içe aktarın, { -brand-short-name } tarayıcınızda yabancılık çekmeyin
 
 ## Root Certificate Succession Infobar
 
