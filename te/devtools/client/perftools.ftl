@@ -7,4 +7,12 @@
 ### the remote profiling panel. There are additional profiler strings in the appmenu.ftl
 ### file that are used for the profiler popup.
 
+
+## All of the headings for the various sections.
+
+perftools-heading-features = విశేషాలు
+perftools-heading-features-experimental = ప్రయోగాత్మకం
+
+##
+
 perftools-devtools-settings-label = అమరికలు

@@ -1450,6 +1450,10 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = Utilitza una contrasenya principal
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Utilitza una contrasenya principal
+    .description = Afegeix una capa addicional de seguretat per protegir les contrasenyes desades.
+    .accesskey = U
 forms-primary-pw-set =
     .label = Defineix la contrasenya principal
 forms-primary-pw-on =
@@ -1462,6 +1466,8 @@ forms-primary-pw-turn-off =
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Demana iniciar la sessió en el dispositiu per emplenar i gestionar les contrasenyes
+forms-os-reauth-2 =
+    .label = Demana iniciar la sessió en el dispositiu per gestionar les contrasenyes
 forms-primary-pw-learn-more-link = Més informació
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1535,12 +1541,25 @@ autofill-reauth-payment-methods-checkbox-2 =
 autofill-payment-methods-add-button = Afegeix una forma de pagament nova
 payments-list-header =
     .label = Formes de pagament
+payments-delete-payment-prompt-title = Voleu suprimir aquesta forma de pagament?
+payments-delete-payment-prompt-confirm-button = Suprimeix
+payments-delete-payment-prompt-cancel-button = Cancel·la
 autofill-addresses-checkbox-message =
     .label = Desa i emplena automàticament les adreces
     .accesskey = s
 autofill-addresses-manage-addresses-button =
     .label = Gestiona les adreces i altra informació
     .accesskey = m
+addresses-list-header =
+    .label = Adreces
+addreses-delete-address-button-label =
+    .aria-label = Suprimeix
+addreses-edit-address-button-label =
+    .aria-label = Edita
+addresses-delete-address-prompt-title = Voleu suprimir aquesta adreça?
+addresses-delete-address-prompt-confirm-button = Suprimeix
+addresses-delete-address-prompt-cancel-button = Cancel·la
+autofill-addresses-add-button = Afegeix una adreça nova
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1706,6 +1725,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Llocs principals
     .accesskey = L
+addressbar-locbar-engines-option-1 =
+    .label = Suggereix motors de cerca per utilitzar
+    .accesskey = a
 addressbar-locbar-engines-option =
     .label = Motors de cerca
     .accesskey = M
@@ -1726,6 +1748,14 @@ addressbar-locbar-suggest-nonsponsored-desc = Obteniu suggeriments del web relac
 addressbar-locbar-suggest-sponsored-option =
     .label = Suggeriments dels patrocinadors
 addressbar-locbar-suggest-sponsored-desc = Doneu suport al { -brand-short-name } activant els suggeriments patrocinats ocasionals
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = Mostra suggeriments de Mozilla mentre escriviu
 addressbar-quickactions-learn-more = Més informació
 addressbar-dismissed-suggestions-label = Suggeriments descartats
 addressbar-restore-dismissed-suggestions-description = Restaura els suggeriments descartats dels patrocinadors i del { -brand-short-name }.
@@ -1795,6 +1825,14 @@ content-blocking-warning-learn-how = Vegeu com fer-ho
 content-blocking-baseline-exceptions-3 =
     .label = Corregeix els problemes més greus dels llocs (recomanat)
     .description = Ajuda a carregar els llocs i les funcions desblocant només els elements essencials que poden fer seguiment. Inclou els problemes més comuns.
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .label = Corregeix els problemes menors dels llocs
+    .description = Restaura elements com ara els vídeos d'un article o les seccions de comentaris desblocant elements que poden fer seguiment. Això pot reduir els problemes del lloc web, però ofereix menys protecció. Cal utilitzar-ho conjuntament amb la correcció dels  problemes més greus.
+content-blocking-baseline-uncheck-warning-dialog-title = Segur que voleu desactivar les correccions?
+content-blocking-baseline-uncheck-warning-dialog-body = Aquest paràmetre ajuda a solucionar els problemes més comuns dels llocs web. Si el desactiveu, és possible que alguns llocs web no funcionin i el { -brand-short-name } no us podrà ajudar a resoldre-ho.
+content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactiva les correccions
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantén activades les correccions
 content-blocking-reload-description = Cal tornar a carregar les pestanyes per aplicar aquests canvis.
 content-blocking-reload-tabs-button =
     .label = Torna a carregar totes les pestanyes
@@ -1913,6 +1951,7 @@ collection-header2 = Ús i recollida de dades i del { -brand-short-name }
     .searchkeywords = telemetria
 preferences-collection-description = Ens esforcem per oferir-vos opcions i només recollim el mínim de dades necessàries per millorar el { -brand-product-name } per a tothom.
 preferences-collection-privacy-notice = Mostra l'avís de privadesa
+preferences-view-profiles = Mostra tots els perfils
 collection-description = Ens esforcem per oferir-vos opcions i només recollim allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
 collection-privacy-notice = Avís de privadesa
 collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
@@ -1928,9 +1967,22 @@ collection-health-report =
     .label = Permet que el { -brand-short-name } enviï dades tècniques i d'interacció a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Més informació
+collection-health-report-description = Això ens ajuda a millorar les funcions, el rendiment i l'estabilitat del { -brand-product-name }.
+collection-studies2 =
+    .label = Instal·la i executa estudis
+collection-studies-description = Proveu funcions i idees abans que estiguin disponibles per a tothom.
 collection-studies =
     .label = Permet al { -brand-short-name } instal·lar i executar estudis
 collection-studies-link = Mostra els estudis del { -brand-short-name }
+addon-recommendations2 =
+    .label = Permet les recomanacions d'extensions personalitzades
+addon-recommendations-description = Rebeu recomanacions d'extensions per millorar l'experiència de navegació.
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = L'informe de dades està desactivat en la configuració d'aquesta versió.
+collection-backlogged-crash-reports2 =
+    .label = Envia automàticament informes de fallada
+    .accesskey = c
 addon-recommendations =
     .label = Permet que el { -brand-short-name } faci recomanacions personalitzades d'extensions
 addon-recommendations-link = Més informació

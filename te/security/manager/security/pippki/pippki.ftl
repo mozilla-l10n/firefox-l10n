@@ -62,6 +62,8 @@ client-auth-cert-details-issued-by = జారీచేసినది: { $issue
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = నిల్వ ఉన్నది: { $storedOn }
+client-auth-cert-remember-never =
+    .label = ఒకసారి
 
 ## Set password (p12) dialog
 

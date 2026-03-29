@@ -127,6 +127,13 @@ delete-email-cert-impact = మీరు ఒక వ్యక్తియొక్
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = సీరియల్ నంబర్ తో సర్టిఫికెట్: { $serialNumber }
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (అందుబాటులోలేదు)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = శాశ్వతం
+temporary-override = తాత్కాలికం
 
 ## Add Security Exception dialog
 
