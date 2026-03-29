@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Hišće raz spytać
 about-translations-translation-error-heading = Je problem při přełožowanju był
 about-translations-translation-error-subtext = Prošu spytajće hišće raz.
 about-translations-translation-error-button = Hišće raz spytać
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Bohužel přełožki z rěče { $language } hišće njepodpěrujemy
+about-translations-detected-language-unsupported-heading-unknown-2 = Bohužel přełožki z tuteje rěče hišće njepodpěrujemy
 about-translations-detected-language-unsupported-subtext = Prošu wubjerće druhu rěč.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

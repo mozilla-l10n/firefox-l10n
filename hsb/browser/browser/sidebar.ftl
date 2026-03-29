@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Strony z historije zhašeć
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Zapołožku wobdźěłać…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Zapołožku zhašeć
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Zhašeć
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Rajtarki z druhich gratow
 sidebar-menu-cpm-header =
     .heading = Hesła
+sidebar-menu-bookmarks-header =
+    .heading = Zapołožki
 sidebar-panel-header-close-button =
     .tooltiptext = Začinić
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Meni zapołožkow
+sidebar-bookmarks-folder-toolbar = Lajsta zapołožkow
+sidebar-bookmarks-folder-other = Druhe zapołožki
+sidebar-bookmarks-folder-mobile = Mobilne zapołožki
 
 ## Titles for sidebar menu panels.
 

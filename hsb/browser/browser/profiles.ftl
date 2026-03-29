@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Wobdźěłanje dokónčene
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Waša kopija profila „{ $profilename }“ je hotowa za přiměrjenje
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Waša kopija profila { $profilename } je hotowa za přiměrjenje
 copied-profile-page-header-description = Smy waše daty a nastajenja do noweho profila kopěrowali. Dajće jemu nětko mjeno, wubjerće napohlad a čińće jón k swojemu.
 restored-profile-page-header = Přiměrće swój wobnowjeny profil
