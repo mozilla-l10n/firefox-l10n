@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment
+do-not-track-removal = Ja no s'admet el senyal «No vull ser seguit»
 do-not-track-learn-more = Més informació
 do-not-track-option-default-content-blocking-known =
     .label = Només si el { -brand-short-name } està configurat per blocar els elements de seguiment coneguts
@@ -13,6 +14,13 @@ global-privacy-control-description =
     .accesskey = S
 non-technical-privacy-group =
     .label = Preferències de privadesa del lloc web
+do-not-track-removal3 =
+    .message = Ja no s'admet la funció «No vull ser seguit».
+non-technical-privacy-heading =
+    .label = Proteccions addicionals
+preferences-privacy-relay-available =
+    .label = Suggereix màscares d'adreça electrònica del { -relay-brand-name }
+    .description = Amaga la vostra adreça electrònica real per protegir-vos del correu brossa
 non-technical-privacy-header = Preferències de privadesa del lloc web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -54,6 +62,9 @@ category-privacy =
 pane-sync-title3 = Sincronització
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+pane-ai-controls-title = Controls d’IA
+category-ai-controls =
+    .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = Experiments del { -brand-short-name }
 category-experimental =
     .tooltiptext = Experiments del { -brand-short-name }
@@ -63,6 +74,7 @@ pane-experimental-description2 = La modificació dels paràmetres avançats de c
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Proveu les funcions experimentals. Com que estan en desenvolupament i en continua evolució, podrien afectar el funcionament del { -brand-short-name }. Només es recullen dades sobre com utilitzeu aquestes funcions si teniu activades les <a data-l10n-name="data-collection">dades tècniques i d’interacció</a>.
 pane-experimental-description3 = Proveu les nostres funcions experimentals! Estan en constant desenvolupament i evolució, i podrien afectar el funcionament del { -brand-short-name }.
 pane-experimental-reset =
     .label = Restaura els valors per defecte
@@ -73,6 +85,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Tanca
+do-not-track-removal2 =
+    .label = Ja no s'admet el senyal «No vull ser seguit»
 applications-setting-new-file-types =
     .label = Què ha de fer el { -brand-short-name } amb els altres fitxers?
 
@@ -116,6 +130,10 @@ extension-controlling-proxy-config = L'extensió <img data-l10n-name="icon"/> <s
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = Per activar l'extensió, aneu a <img data-l10n-name="addons-icon"/> Complements del menú <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable-2 = Per tornar a activar aquesta extensió, aneu a <a data-l10n-name="addons-link">Extensions i temes</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } controla alguns dels paràmetres de la pàgina d'inici.
 
 ## Preferences UI Search Results
 

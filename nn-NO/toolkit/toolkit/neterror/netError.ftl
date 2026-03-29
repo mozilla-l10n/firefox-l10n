@@ -97,6 +97,7 @@ neterror-file-not-found-moved = Kontroller om fila er flytta, har endra namn ell
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } finn ikkje fila på <strong>{ $path }</strong>. Ho finst anten ikkje, eller så er filstien feil.
+neterror-file-not-found-what-can-you-do = Om du skreiv inn adressa manuelt, kontroller om det er feil med store og små bokstavar eller skrivefeil i filnamnet eller filstien. Om du følgde eit lagra bokmerke eller ei lenkje, kan fila ha vorte flytta, gitt nytt namn eller sletta sidan ho vart lagra. Prøv å finne henne ved hjelp av filhandsamaren eller eit nyleg søk.
 neterror-access-denied = Den kan ha vorte fjerna, flytta, eller filrettar hindrar tilgang.
 neterror-unknown-protocol = Du må kanskje installere anna programvare for å opne denne adressa.
 neterror-redirect-loop = Dette problemet kan av og til kome av at infokapslar har vorte slått av eller ved å ikkje godta infokapslar.
@@ -190,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } kan ikkje opprette eit sikkert samband til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikkje kople til serveren på <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Serveren på <strong>{ $hostname }</strong> brukar for lang tid på å svare.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Serveren på <strong>{ $hostname }</strong> returnerte ein feil: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } lasta ikkje inn denne sida fordi det ser ut til at tryggingskonfigurasjonen ikkje samsvarer med den førre sida.
 fp-neterror-http-auth-disabled-intro = Nokon som gir seg ut for å vere nettstaden kan prøve å stele ting som brukarnamn, passord eller e-post.
 fp-neterror-http-auth-disabled-secure-connection = Denne nettstaden krev ei sikker tilkopling, og du kan ikkje leggje til eit unntak for å besøkje det.
