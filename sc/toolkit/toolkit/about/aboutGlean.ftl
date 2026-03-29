@@ -11,3 +11,5 @@ about-glean-feedback-settings-only =
 about-glean-feedback-settings-and-ping =
     .message = Cunfiguratziones aplicadas e ping imbiadu.
 about-glean-metrics-table-settings-button = Cunfiguratzione
+about-glean-enable-new-features-button = Ativa is funtzionalidades noas
+about-glean-disable-new-features-button = Disativa is funtzionalidades noas

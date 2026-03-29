@@ -244,6 +244,8 @@ link-preview-settings-enable =
     .description = Ammustra su tìtulu de sa pàgina, sa descritzione e àteru cando impreas su curtzadòrgiu o incarcas unu ligòngiu cun su butone deretu.
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Nde boles bìdere de prus cun IA?
+# Onboarding card title for long press
+link-preview-onboarding-title-long-press = Nou: Incarca e mantene incarcados is ligòngios pro ammustrare una previsualizatzione
 # Header for the key points section
 link-preview-key-points-header = Puntos crae
 # Progress message for the first-time setup

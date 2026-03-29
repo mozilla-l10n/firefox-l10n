@@ -30,6 +30,11 @@ devmgr-button-unload =
     .label = Iscàrriga
     .accesskey = s
 
+## Strings used for load device
+
+load-device-modname-default =
+    .value = Mòdulu PKCS#11 nou
+
 ## Token Manager
 
 devinfo-status =
@@ -56,7 +61,7 @@ devinfo-serialnum =
     .label = Nùmeru de sèrie
 # Load Module Dialog
 load-module-help-empty-module-name =
-    .value = Su nùmene de mòdulu non podet èssere bòidu.
+    .value = Su nòmine de mòdulu non podet èssere bòidu.
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
     .value = ‘Root Certs‘ est riservadu e non podet èssere impreadu comente nùmene de mòdulu.

@@ -10,6 +10,11 @@
 
 about-webauthn-results-cancelled-by-user-error = Errore: s’utente at annulladu s’operatzione.
 
+## Labels
+
+about-webauthn-new-pin-label = PIN nou:
+about-webauthn-repeat-pin-label = Repite su còdighe PIN nou:
+
 ## Buttons
 
 about-webauthn-cancel-button = Annulla

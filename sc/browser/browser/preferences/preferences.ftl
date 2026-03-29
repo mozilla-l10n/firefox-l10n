@@ -177,6 +177,10 @@ preferences-manage-profiles-button =
     .label = Gesti is profilos
 preferences-profiles-settings-button =
     .label = Cunfiguratzione
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Còpia unu profilu chi esistit giai
+    .description = Su profilu nou at a copiare is cunfiguratziones e is estensiones tuas, sa cronologia e datos sarvados comente is sinnalibros e is craes, ma non su contu tuo o is datos de sincronizatzione.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -777,6 +781,8 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pàgina printzipale e ventanas noas
+home-homepage-new-windows =
+    .label = Ventanas noas
 home-newtabs-mode-label = Ischedas noas
 home-homepage-new-tabs =
     .label = Ischedas noas
@@ -1430,6 +1436,7 @@ autofill-addresses-checkbox-message =
 autofill-addresses-manage-addresses-button =
     .label = Gesti is indiritzos e àteru
     .accesskey = s
+autofill-addresses-add-button = Agiunghe un’indiritzu nou
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

@@ -275,6 +275,22 @@ tab-context-move-tab-to-group =
            *[other] Agiunghe is ischedas a unu grupu
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Agiunghe s’ischermu partzidu a unu grupu nou
+            [one] Agiunghe is ischermos partzidos a unu grupu nou
+           *[other] Agiunghe is ischermos partzidos a unu grupu nou
+        }
+    .accesskey = i
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Agiunghe s’ischermu partzidu a unu grupu
+            [one] Agiunghe is ischermos partzidos a unu grupu
+           *[other] Agiunghe is ischermos partzidos a unu grupu
+        }
+    .accesskey = g
 tab-group-editor-action-new-tab =
     .label = Ischeda noa in su grupu
 tab-group-editor-action-new-window =
@@ -333,7 +349,12 @@ tab-note-panel-add-note-new-badge =
 
 ## Split View
 
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Agiunghe ischermu partzidu
+    .accesskey = A
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
     .label = Serra s’ischermu partzidu
     .accesskey = S
+tab-context-badge-new = Nou

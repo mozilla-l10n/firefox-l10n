@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = Move totu a una ventana noa
     .accesskey = v
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = Move a { $profileName }
 tab-context-close-multiple-tabs =
     .label = Serra prus ischedas
     .accesskey = p

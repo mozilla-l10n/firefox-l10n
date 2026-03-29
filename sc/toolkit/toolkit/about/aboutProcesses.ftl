@@ -54,3 +54,4 @@ about-processes-web-isolated-process-private = { $origin } — Privadu ({ $pid }
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Ischeda: { $name }
+about-processes-preloaded-tab = Ischeda precarrigada noa

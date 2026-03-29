@@ -4,10 +4,12 @@
 
 about-logging-page-title = Gestore de identificatziones
 about-logging-current-log-file = Archìviu de registru atuale:
+about-logging-new-log-file = Archìviu de informe nou:
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = Aberi sa cartella
 about-logging-set-log-file = Aberi s'archìviu de registru
 about-logging-copy-as-url = Còpia sa cunfiguratzione atuale comente URL
+about-logging-new-log-modules = Archìvios de informe noos:
 
 ## Logging presets
 

@@ -19,6 +19,7 @@ profiles-current-profile = Custu est su profilu chi ses impreende e no ddu podes
 profiles-in-use-profile = Custu profilu est essende impreadu in un’àtera aplicatzione e no ddu podes cantzellare.
 profiles-rename = Muda su nòmine
 profiles-remove = Boga
+profiles-launch-profile = Avia su profilu in unu navigadore nou
 profiles-rename-profile-title = Muda su nòmine de su profilu
 # Variables:
 #   $name (String) - Name of the profile
