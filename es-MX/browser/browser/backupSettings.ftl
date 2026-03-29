@@ -51,9 +51,15 @@ settings-data-backup-last-backup-location-show-in-folder = Mostrar en carpeta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Se produjo un error al crear la copia de seguridad el { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Realiza copias de seguridad de tus contraseñas y métodos de pago, además de mantener todos tus datos seguros con cifrado.
+settings-data-toggle-encryption-label2 =
+    .label = Realiza una copia de seguridad de tus datos sensibles
+    .description = Realiza copias de seguridad de tus contraseñas y métodos de pago, mantén todos tus datos seguros mediante cifrado.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaura tus datos
+    .description = Recupera tus datos de { -brand-product-name } desde la última vez que se realizó una copia de seguridad.
 settings-data-backup-restore-header = Restaura tus datos
 
 ## These strings are shown under the header if scheduled backups are disabled.

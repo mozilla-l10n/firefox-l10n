@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } no
 
 neterror-file-not-found-filename = Verifica si le nomine del file ha errores de majusculas e minusculas o altere errores orthographic.
 neterror-file-not-found-moved = Verifica si le file ha essite movite, renominate o delite.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } non pote trovar le file a <strong>{ $path }</strong>. Illo non existe o le route es errate.
+neterror-file-not-found-what-can-you-do = Si tu typava le adresse manualmente, controla errores de majusculas o errores in le nomine del file o del route. Si tu ha sequite un marcapagina o ligamine salvate, le file forsan ha essite movite, renominate, o delite desde que illo era salvata. Tenta localisar lo per tu gestor de files o un recerca recente.
 neterror-access-denied = Illo pote haber essite removite, movite, o le permissiones del file pote impedir le accesso.
 neterror-unknown-protocol = Es possibile que tu debe installar altere software pro aperir iste adresse.
 neterror-redirect-loop = Iste problema pote esser causate per le disactivation o refusa de cookies.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } non pote crear un connexion secur al servitor al adresse { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } non pote connecter se al servitor a <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Le servitor a <strong>{ $hostname }</strong> tarda troppo a responder.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Le servitor a <strong>{ $hostname }</strong> restitueva un error: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } non carga iste pagina perque il pare que le configuration de securitate non concorda con le pagina previe.
 fp-neterror-http-auth-disabled-intro = Alcuno que finge de esser le sito poterea tentar de robar cosas como tu nomine de usator, contrasigno, o email.
 fp-neterror-http-auth-disabled-secure-connection = Iste sito require un connexion secur, e tu non pote adder un exception pro visitar lo.

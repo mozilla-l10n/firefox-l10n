@@ -118,6 +118,11 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Eliminar páginas del historial
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Eliminar
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +179,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
 sidebar-menu-cpm-header =
     .heading = Contraseñas
+sidebar-menu-bookmarks-header =
+    .heading = Marcadores
 sidebar-panel-header-close-button =
     .tooltiptext = Cerrar
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menú de marcadores
+sidebar-bookmarks-folder-toolbar = Barra de herramientas de marcadores
+sidebar-bookmarks-folder-other = Otros Marcadores
+sidebar-bookmarks-folder-mobile = Marcadores móviles
 
 ## Titles for sidebar menu panels.
 
@@ -217,3 +231,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = Ocultar barra lateral ({ $shortcut })
     .label = Barras laterales
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = Arrastra las pestañas importantes aquí para tenerlas a la mano

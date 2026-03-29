@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Preferencias de privacidad del sitio web
+non-technical-privacy-heading =
+    .label = Protecciones adicionales
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -2205,6 +2207,8 @@ preferences-doh-status-item-not-active-bad-url =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS sobre HTTPS utiliza el proveedor { $name }
+preferences-doh-select-resolver-label =
+    .label = Seleccionar proveedor:
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
@@ -2278,6 +2282,8 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-label = Protección de seguimiento mejorada habilitada
+security-privacy-status-problem-label = Hemos encontrado ajustes que afectan a tu protección.
 security-privacy-issue-card =
     .heading = Advertencias de seguridad
 issue-card-reset-button =
