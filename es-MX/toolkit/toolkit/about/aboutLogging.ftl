@@ -86,6 +86,9 @@ about-logging-upload-button = Subir
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Guardado en { $path }
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir URL
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
+about-logging-upload-error = Se produjo un error al cargar el perfil: { $errorText }
 
 ## Uploaded Profiles section
 
