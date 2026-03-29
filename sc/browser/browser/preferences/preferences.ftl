@@ -2068,3 +2068,7 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Annulla
 preferences-ai-controls-block-confirmation-confirm =
     .label = Bloca
+
+## Privacy and security status card
+
+security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.

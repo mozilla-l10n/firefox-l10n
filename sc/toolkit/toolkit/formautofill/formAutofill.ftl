@@ -17,6 +17,9 @@ credit-card-capture-cancel-button =
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-capture-save-new-button =
+    .label = Sarva comente carta noa
+    .accessKey = S
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Isbòida su formulàriu cumpletadu in automàticu
 
