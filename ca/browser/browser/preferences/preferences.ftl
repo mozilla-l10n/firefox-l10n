@@ -875,10 +875,23 @@ home-homepage-title =
 home-custom-homepage-header = Pàgina d'inici personalitzada
 home-custom-homepage-subpage =
     .heading = Pàgina d'inici personalitzada
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = Adreces de llocs web
 home-custom-homepage-address =
     .placeholder = Escriviu una adreça
 home-custom-homepage-address-button =
     .label = Afegeix l'adreça
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = Encara no heu afegit cap lloc web.
+home-custom-homepage-delete-address-button =
+    .aria-label = Suprimeix l’adreça
+    .title = Suprimeix l’adreça
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = Reemplaça amb
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-current-pages-button =
     .label = Pàgines obertes actualment
@@ -965,6 +978,8 @@ home-prefs-manage-topics-link = Gestiona els temes
 home-prefs-manage-topics-link2 =
     .label = Gestiona els temes
 home-prefs-choose-wallpaper-link = Trieu un fons de pantalla
+home-prefs-choose-wallpaper-link2 =
+    .label = Trieu un fons de pantalla
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -998,12 +1013,33 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostra suggeriments de cerca als resultats de la barra d'adreces
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = En els resultats de la barra d'adreces, mostra els suggeriments de cerca abans de l'historial de navegació
+search-show-suggestions-private-windows-2 =
+    .label = Suggeriments de cerca en les finestres privades
 search-suggestions-cant-show-2 =
     .message = No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el { -brand-short-name } per tal que no recordi mai l'historial.
+addressbar-header-1 =
+    .label = Barra d’adreces
+    .description = Trieu quins suggeriments es mostren a la barra d’adreces
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .label = { -firefox-suggest-brand-name }
+    .description = Suggeriments del { -brand-short-name } i dels nostres socis a la barra d’adreces.
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostra els termes de cerca a la barra d'adreces de les pàgines de resultats
+search-separate-default-engine-2 =
+    .label = Utilitza un altre motor de cerca per defecte en les finestres privades
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Motor de cerca per defecte en les finestres privades
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1088,6 +1124,9 @@ sync-signedout-caption = El vostre web a tot arreu
 sync-signedout-description2 = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i paràmetres en tots els vostres dispositius.
 sync-signedout-account-signin3 =
     .label = Inicia la sessió per sincronitzar…
+    .accesskey = I
+sync-signedout-account-signin-4 =
+    .label = Inicieu la sessió al compte per començar la sincronització
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1239,6 +1278,13 @@ sync-engine-settings =
     .label = Paràmetres
     .tooltiptext = Paràmetres generals, de privadesa i de seguretat que heu canviat
     .accesskey = P
+sync-choose-what-to-sync-dialog4 =
+    .title = Gestioneu què voleu sincronitzar en tots els vostres dispositius connectats
+    .style = min-width: 36em;
+    .buttonlabelaccept = Desa
+    .buttonaccesskeyaccept = s
+    .buttonlabelextra2 = Desconnecta…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 

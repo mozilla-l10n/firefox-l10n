@@ -969,7 +969,7 @@ urlbar-group-firefox-suggest =
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
-    .label = Suggeriments del { $engine }
+    .label = Suggeriments de: { $engine }
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Accions ràpides
