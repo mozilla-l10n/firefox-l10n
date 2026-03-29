@@ -813,6 +813,8 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Pàgina d'inici i finestres noves
+home-homepage-new-windows =
+    .label = Finestres noves
 home-newtabs-mode-label = Pestanyes noves
 home-homepage-new-tabs =
     .label = Pestanyes noves
@@ -994,6 +996,9 @@ search-remove-engine =
 search-add-engine =
     .label = Afegeix
     .accesskey = A
+search-edit-engine =
+    .label = Edita
+    .accesskey = E
 search-find-more-link = Afegiu més motors de cerca
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -1002,6 +1007,9 @@ search-keyword-warning-title = Duplica la paraula clau
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = Heu triat una paraula clau que ja utilitza «{ $name }». Seleccioneu-ne una altra.
 search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una adreça d'interès. Seleccioneu-ne una altra.
+remove-engine-confirmation = Segur que voleu eliminar aquest motor de cerca?
+remove-engine-remove = Elimina
+remove-addon-engine-alert = Per eliminar aquest motor de cerca, elimineu el complement associat.
 search-engine-group =
     .label = Motor de cerca per defecte
 search-default-engine =
