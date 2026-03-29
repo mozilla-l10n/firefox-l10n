@@ -2469,6 +2469,18 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Protección de seguimiento mejorada
+    .description = Los sitios usan rastreadores para seguirte en línea y mostrar publicidad molesta. { -brand-short-name } te protege a medida que navegas, bloqueando rastreadores automáticamente para que estés al control de tu huella digital.
+preferences-etp-level-standard =
+    .label = Estándar (por defecto)
+    .description = Protecciones potentes y confiables que funcionan sin contratiempos en la mayoría de los sitios web.
+preferences-etp-level-strict =
+    .label = Estricto
+    .description = Protecciones más potentes que bloquean aún más rastreadores, pero que pueden causar que algunos sitios dejen de funcionar.
+preferences-etp-level-custom =
+    .label = Personalizado
+    .description = Elige que protecciones activar o desactivar.
 preferences-etp-status-advanced-button =
     .label = Ajustes avanzados
 preferences-etp-header =

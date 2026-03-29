@@ -156,19 +156,37 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Obre les finestres i pestanyes anteriors
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = Activeu aquesta preferència marcant «{ profile-manager-use-selected.label }» a la finestra «Trieu un perfil d'usuari».
 windows-launch-on-login =
     .label = Obre el { -brand-short-name } automàticament en iniciar l'ordinador
     .accesskey = O
 windows-launch-on-login-disabled = Aquesta preferència s'ha desactivat al Windows. Per canviar-la, aneu a <a data-l10n-name="startup-link">Aplicacions d'inici</a> en els paràmetres del sistema.
+windows-launch-on-login-profile-disabled = Activeu aquesta preferència marcant «{ profile-manager-use-selected.label }» a la finestra «Trieu un perfil d'usuari».
 startup-restore-warn-on-quit =
     .label = Avisa en sortir del navegador
 disable-extension =
     .label = Inhabilita l'extensió
+preferences-data-migration-group =
+    .label = Importa les dades d'un altre navegador
+    .description = Importeu les adreces d'interès, les contrasenyes, l'historial, les extensions i les dades d'emplenament automàtic d'un altre navegador.
 preferences-data-migration-header = Importa les dades d'un altre navegador
 preferences-data-migration-description = Importa les adreces d'interès, les contrasenyes, l'historial i les dades d'emplenament automàtic al { -brand-short-name }.
 preferences-data-migration-button =
     .label = Importa les dades
     .accesskey = m
+preferences-profiles-group-header =
+    .heading = Perfils
+preferences-profiles-subpane-description =
+    .description = Cada perfil té els paràmetres i les dades de navegació separats, com ara l'historial i les contrasenyes, entre d'altres.
+preferences-profiles-section-header =
+    .label = Perfils
+    .description = Cada perfil té els paràmetres i les dades de navegació separats, com ara l'historial i les contrasenyes, entre d'altres.
+preferences-profiles-header = Perfils
+preferences-manage-profiles-description = Cada perfil té els paràmetres i les dades de navegació separats, com ara l'historial i les contrasenyes, entre d'altres.
+preferences-manage-profiles-learn-more = Més informació
+preferences-manage-profiles-button =
+    .label = Gestiona els perfils
 tabs-group-header2 =
     .label = Pestanyes
 tabs-group-header = Pestanyes
@@ -178,6 +196,17 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Obre els enllaços en pestanyes en lloc de finestres noves
     .accesskey = t
+ask-on-close-multiple-tabs =
+    .label = Pregunta abans de tancar diverses pestanyes de cop
+    .accesskey = P
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = Pregunta abans de sortir amb { $quitKey }
+    .accesskey = b
 confirm-on-close-multiple-tabs =
     .label = Confirma abans de tancar diverses pestanyes de cop
     .accesskey = m
