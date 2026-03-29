@@ -104,6 +104,11 @@ perplexity-callout-primary-label = Аз «Perplexity» пурсед
 perplexity-callout-secondary-label-1 = Нодида гузарондан
 perplexity-callout-secondary-label-2 = Фаҳмидам
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-secondary-label = Нодида гузарондан
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync

@@ -1167,6 +1167,8 @@ qrcode-copy-button =
     .label = Нусха бардоштан
 qrcode-save-button =
     .label = Нигоҳ доштан
+qrcode-save-filter-png = Тасвири «PNG»
+qrcode-save-filename = qrcode.png
 qrcode-window-title = Рамзи «QR»
 qrcode-dialog-title = Рамзи «QR»
 qrcode-image =
@@ -1213,6 +1215,15 @@ panel-save-update-password = Ниҳонвожа
 # "More" item in macOS share menu
 menu-share-more =
     .label = Бештар…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Нусха бардоштани пайванд
+           *[other] Нусха бардоштани { $count } пайванд
+        }
+    .accesskey = Н
 menu-share-copy-link =
     .label = Нусха бардоштани пайванд
     .accesskey = Н
