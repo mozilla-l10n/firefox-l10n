@@ -798,11 +798,20 @@ network-proxy-connection-learn-more = Més informació
 network-proxy-connection-settings =
     .label = Paràmetres…
     .accesskey = P
+network-proxy-group2 =
+    .label = Paràmetres del servidor intermediari
+    .description = Configureu com el { -brand-short-name } es connecta a Internet.
+network-proxy-connection-settings2 =
+    .label = Configura el servidor intermediari
+    .description = Canviar aquesta configuració pot causar problemes de connexió
+    .accesskey = C
 
 ## Home Section
 
 home-new-windows-tabs-header = Finestres i pestanyes noves
 home-new-windows-tabs-description2 = Trieu què voleu veure en obrir la pàgina d'inici, finestres noves i pestanyes noves.
+home-section =
+    .heading = Pàgina d'inici i inicialització
 
 ## Home Section - Default Browser
 
@@ -810,6 +819,8 @@ home-default-browser-title =
     .label = Navegador per defecte
 is-default-browser-2 =
     .message = El { -brand-short-name } és el navegador per defecte. Molt bona elecció.
+is-not-default-browser-2 =
+    .message = Ep! El { -brand-short-name } no és el navegador per defecte.
 set-as-my-default-browser-2 =
     .label = Fes que sigui el navegador per defecte
     .accesskey = d
@@ -836,6 +847,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gestiona l'extensió
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Tria un lloc específic
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -851,9 +865,16 @@ choose-bookmark =
     .label = Utilitza una adreça d'interès…
     .accesskey = z
 
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Pàgina d’inici
+
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Pàgina d'inici personalitzada
+home-custom-homepage-subpage =
+    .heading = Pàgina d'inici personalitzada
 home-custom-homepage-address =
     .placeholder = Escriviu una adreça
 home-custom-homepage-address-button =
@@ -938,7 +959,11 @@ home-prefs-support-firefox-header =
     .label = Doneu suport al { -brand-product-name }
 home-prefs-mission-message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
 home-prefs-mission-message-learn-more-link = Descobriu com
+home-prefs-mission-message2 =
+    .message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor.
 home-prefs-manage-topics-link = Gestiona els temes
+home-prefs-manage-topics-link2 =
+    .label = Gestiona els temes
 home-prefs-choose-wallpaper-link = Trieu un fons de pantalla
 # Variables:
 #   $num (number) - Number of rows displayed
@@ -1159,6 +1184,9 @@ sync-currently-syncing-creditcards = Targetes de crèdit
 sync-currently-syncing-payment-methods = Formes de pagament
 sync-currently-syncing-addons = Complements
 sync-currently-syncing-settings = Paràmetres
+sync-manage-options =
+    .label = Gestiona la sincronització…
+    .accesskey = G
 sync-change-options =
     .label = Canvia…
     .accesskey = C
