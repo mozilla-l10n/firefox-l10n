@@ -91,6 +91,7 @@ policy-Homepage = Still inn og eventuelt lås startsida.
 policy-HttpAllowlist = Opphav som ikkje vil bli oppgradert til HTTPS.
 policy-HttpsOnlyMode = Tillat at berre-HTTPS-modus vert aktivert.
 policy-InstallAddonsPermission = Tillat visse nettstadar å installere tillegg.
+policy-IPProtectionAvailable = Forhindre at det innebygde VPN-et er tilgjengeleg for brukarar.
 policy-LegacyProfiles = Slå av funksjonen som tvingar fram ein eigen profil for kvar installasjon
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -128,6 +129,7 @@ policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar
 policy-PrivateBrowsingModeAvailability = Vel tilgjengelegheit for privat nettlesingsmodus.
 policy-PromptForDownloadLocation = Spør kvar nedlasta filer skal lagrast.
 policy-Proxy = Konfigurer proxy-innstillingar.
+policy-RelaunchRequired = Krev at { -brand-short-name } vert starta på nytt innan ein gitt tidsperiode, og varsle brukaren om den komande omstarten.
 policy-RequestedLocales = Vel rekkjefølgja av språk, som skal brukeast i programmet.
 policy-SanitizeOnShutdown2 = Fjern nettlesingsdata ved avslutting.
 policy-SearchBar = Spesifiser standardplassering for søkjefeltet. Brukaren kan framleis tilpassse feltet.

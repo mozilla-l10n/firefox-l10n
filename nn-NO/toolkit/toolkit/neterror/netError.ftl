@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } kl
 
 neterror-file-not-found-filename = Kontroller filnamnet etter skilnadar i store/små bokstavar eller andre skrivefeil.
 neterror-file-not-found-moved = Kontroller om fila er flytta, har endra namn eller er sletta.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } finn ikkje fila på <strong>{ $path }</strong>. Ho finst anten ikkje, eller så er filstien feil.
 neterror-access-denied = Den kan ha vorte fjerna, flytta, eller filrettar hindrar tilgang.
 neterror-unknown-protocol = Du må kanskje installere anna programvare for å opne denne adressa.
 neterror-redirect-loop = Dette problemet kan av og til kome av at infokapslar har vorte slått av eller ved å ikkje godta infokapslar.

@@ -109,6 +109,15 @@ sidebar-context-menu-remove-extension2 =
 sidebar-context-menu-unpin-extension =
     .label = Elimina de la barra lateral
 
+## Labels for sidebar history context menu items
+
+sidebar-history-context-menu-delete-page-2 =
+    .label = Suprimeix la pàgina de l'historial
+sidebar-history-context-menu-bookmark-page =
+    .label = Afegeix la pàgina a les adreces d'interès…
+sidebar-history-context-menu-delete-pages =
+    .label = Suprimeix les pàgines de l'historial
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -132,6 +141,14 @@ sidebar-menu-open-history-tooltip = Obre l'historial ({ $shortcut })
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-close-history-tooltip = Tanca l'historial ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Obre les adreces d'interès ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-close-bookmarks-tooltip = Tanca les adreces d'interès ({ $shortcut })
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
@@ -140,6 +157,11 @@ sidebar-menu-close-history-tooltip = Tanca l'historial ({ $shortcut })
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Obre el bot de conversa d’IA ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = Tanca el bot de conversa d’IA ({ $shortcut })
+
+## Headings for sidebar menu panels.
+
+sidebar-menu-customize-header =
+    .heading = Personalitza la barra lateral
 
 ## Context for closing synced tabs when hovering over the items
 
