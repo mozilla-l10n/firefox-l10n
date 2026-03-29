@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nastavení pravidel, ke kterým mají přístup rozšíření skrze chrome.storage.managed.
+policy-AIControls = Nastavení ovládání AI.
 policy-AllowedDomainsForApps = Nastavení domén, které mají povolený přístup ke Google Workspace.
 policy-AllowFileSelectionDialogs = Povolí dialogová okna pro výběr souborů.
 policy-AppAutoUpdate = Vypnutí nebo zapnutí automatických aktualizací aplikace.
@@ -110,6 +111,7 @@ policy-Homepage = Nastavení a případné uzamčení domovské stránky.
 policy-HttpAllowlist = Zdroje, které nebudou povýšeny na HTTPS.
 policy-HttpsOnlyMode = Povolení režimu pouze HTTPS.
 policy-InstallAddonsPermission = Povolení instalace doplňků z vybraných webových stránek.
+policy-IPProtectionAvailable = Zabraňte tomu, aby byla vestavěná VPN dostupná pro uživatele.
 policy-LegacyProfiles = Vypnutí funkce vynucující samostatný profil pro každou instalaci aplikace.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

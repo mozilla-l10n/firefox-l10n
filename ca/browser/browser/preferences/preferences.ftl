@@ -187,8 +187,32 @@ preferences-manage-profiles-description = Cada perfil té els paràmetres i les 
 preferences-manage-profiles-learn-more = Més informació
 preferences-manage-profiles-button =
     .label = Gestiona els perfils
+preferences-profiles-settings-button =
+    .label = Paràmetres
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copia un perfil existent
+    .description = El perfil nou copiarà els paràmetres, els complements, l'historial i les dades desades, com ara les adreces d'interès i les contrasenyes, però no copiarà la informació del compte ni la de sincronització.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Perfil que voleu copiar
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Seleccioneu el perfil
+preferences-copy-profile-button = Copia
 tabs-group-header2 =
     .label = Pestanyes
+tabs-opening-heading =
+    .label = Obertura
+tabs-interaction-heading =
+    .label = Interacció
+tabs-containers-heading =
+    .label = Contenidors
+tabs-closing-heading =
+    .label = Tancament
 tabs-group-header = Pestanyes
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab canvia de pestanya en ordre d'ús recent
@@ -196,6 +220,8 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = Obre els enllaços en pestanyes en lloc de finestres noves
     .accesskey = t
+open-external-link-next-to-active-tab =
+    .label = Obre els enllaços provinents d'aplicacions al costat de la pestanya activa
 ask-on-close-multiple-tabs =
     .label = Pregunta abans de tancar diverses pestanyes de cop
     .accesskey = P
@@ -268,12 +294,16 @@ containers-remove-cancel-button = No eliminis aquest contenidor
 settings-tabs-show-image-in-preview =
     .label = Mostra una vista prèvia de la imatge en passar el cursor per sobre d'una pestanya
     .accessKey = M
+browser-layout-header = Disposició del navegador
 browser-layout-horizontal-tabs =
     .label = Pestanyes horitzontals
+browser-layout-horizontal-tabs-desc = Mostra a la part superior del navegador
 browser-layout-vertical-tabs =
     .label = Pestanyes verticals
+browser-layout-vertical-tabs-desc = Mostra al costat, a la barra lateral
 browser-layout-show-sidebar =
     .label = Mostra la barra lateral
+browser-layout-show-sidebar-desc = Accediu ràpidament a les adreces d'interès, a les pestanyes del telèfon, als bots de conversa d'IA i molt més sense sortir de la vista principal.
 
 ## General Section - Language & Appearance
 

@@ -80,6 +80,9 @@ new-profile-page-done-button =
     .label = Hotovo
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Vaše kopie profilu “{ $profilename }” je připravena k přizpůsobení
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Vaše kopie profilu { $profilename } je připravena k přizpůsobení
 copied-profile-page-header-description = Vaše data a nastavení byla zkopírována do nového profilu. Teď mu dejte jméno, vzhled a přizpůsobte si ho podle sebe.
 restored-profile-page-header = Přizpůsobte svůj obnovený profil
