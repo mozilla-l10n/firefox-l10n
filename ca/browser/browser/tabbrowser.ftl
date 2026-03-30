@@ -257,9 +257,17 @@ tab-group-editor-color-selector2-red = Vermell
 tab-group-description = { $tabGroupName } — Grup de pestanyes
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Reduït
 tab-group-label-tooltip-expanded = { $tabGroupName } — Ampliat
+tab-group-preview-name =
+    .aria-label = Pestanyes en un grup reduït
 tab-context-unnamed-group =
     .label = Grup sense nom
 tab-group-name-default = Grup sense nom
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = Llista de pestanyes oberta
+tab-group-preview-closed-description = Llista de pestanyes tancada
 
 ##
 
@@ -355,8 +363,41 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Afegeix una nota
+    .accesskey = A
+tab-context-update-note =
+    .label = Actualitza la nota
+    .accesskey = u
+tab-context-edit-note =
+    .label = Edita la nota
+    .accesskey = E
+tab-context-delete-note =
+    .label = Suprimeix la nota
+    .accesskey = x
+tab-note-editor-title-create = Afegeix una nota
+tab-note-editor-title-edit = Edita la nota
+tab-note-editor-text-field =
+    .placeholder = Què voleu recordar sobre aquesta pestanya?
+tab-note-editor-button-cancel =
+    .label = Cancel·la
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = Desa
+    .accesskey = s
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Més informació
 tab-note-panel-add-note-new-badge =
     .label = Nou
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } caràcters
+    }
 
 ## Split View
 
@@ -376,3 +417,27 @@ tab-context-separate-split-view =
 tab-context-reverse-split-view =
     .label = Inverteix les pestanyes
     .accesskey = r
+tab-context-badge-new = Nou
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, vista dividida esquerra
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, vista dividida dreta
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Separa les pestanyes
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Inverteix les pestanyes
+split-view-menuitem-close-both-tabs =
+    .label = Tanca ambdues pestanyes

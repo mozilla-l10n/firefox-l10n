@@ -40,23 +40,23 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 ## Generic memory units that can be used in various places, eg for the buffer size.
 
 # Byte
-perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } G
+perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } o
 # Kibibyte
 perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } Kio
 # Mebibyte
-perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } MiO
+perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } Mio
 # Gibibyte
-perftools-memory-unit-gib = { NUMBER($num, maxFractionalUnits: 2) } GiO
+perftools-memory-unit-gib = { NUMBER($num, maxFractionalUnits: 2) } Gio
 # Tebibyte
-perftools-memory-unit-tib = { NUMBER($num, maxFractionalUnits: 2) } TiO
+perftools-memory-unit-tib = { NUMBER($num, maxFractionalUnits: 2) } Tio
 # Pebibyte
-perftools-memory-unit-pib = { NUMBER($num, maxFractionalUnits: 2) } PiO
+perftools-memory-unit-pib = { NUMBER($num, maxFractionalUnits: 2) } Pio
 # Exbibyte
-perftools-memory-unit-eib = { NUMBER($num, maxFractionalUnits: 2) } EiO
+perftools-memory-unit-eib = { NUMBER($num, maxFractionalUnits: 2) } Eio
 # Zebibyte
-perftools-memory-unit-zib = { NUMBER($num, maxFractionalUnits: 2) } ZiO
+perftools-memory-unit-zib = { NUMBER($num, maxFractionalUnits: 2) } Zio
 # Yobibyte
-perftools-memory-unit-yib = { NUMBER($num, maxFractionalUnits: 2) } YiO
+perftools-memory-unit-yib = { NUMBER($num, maxFractionalUnits: 2) } Yio
 
 ##
 

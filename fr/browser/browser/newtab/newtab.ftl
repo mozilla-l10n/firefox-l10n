@@ -519,13 +519,13 @@ newtab-weather-see-forecast-description =
 
 ## Topic Labels
 
-newtab-topic-label-business = Affaires
+newtab-topic-label-business = Économie
 newtab-topic-label-career = Carrière
 newtab-topic-label-education = Enseignement
 newtab-topic-label-arts = Divertissement
-newtab-topic-label-food = Nourriture
+newtab-topic-label-food = Cuisine
 newtab-topic-label-health = Santé
-newtab-topic-label-hobbies = Jeu vidéo
+newtab-topic-label-hobbies = Jeux vidéo
 # ”Money” = “Personal Finance”, refers to articles and stories that help readers better manage
 # and understand their personal finances – from saving money to buying a home. See the
 # “Curated by our editors“ section at the top of https://getpocket.com/explore/personal-finance for more context
