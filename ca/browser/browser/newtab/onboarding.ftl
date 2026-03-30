@@ -577,3 +577,9 @@ onboarding-refresh-pin-set-default-subtitle = Protegim les vostres dades i imped
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Esteu en bones grapes
+onboarding-refresh-import-subtitle = Importeu les contrasenyes, les adreces d'interès, l'historial i molt més.
+onboarding-refresh-import-title = Sentiu-vos com a casa amb el { -brand-short-name }
+onboarding-refresh-sync-title = Aneu arreu on vulgueu. Sincronitzeu-ho tot.
+onboarding-refresh-gratitude-subtitle = Gràcies per utilitzar el { -brand-short-name }, l'únic navegador important que té el suport d'una organització sense ànim de lucre. Amb el vostre suport, treballem per fer que Internet sigui més segura i accessible per a tothom.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vostra
