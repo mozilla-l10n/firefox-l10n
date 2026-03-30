@@ -108,6 +108,9 @@ perplexity-callout-secondary-label-2 = გასაგებია
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = გსურთ მოსინჯოთ პირადულობაზე მომართული ახალი საძიებო?
+start-page-callout-subtitle = მოსინჯეთ Startpage. საგანგებოდაა შემუშავებული, რომ ძიება თავიდანვე პირადული იყოს.
+start-page-callout-primary-label = გამოცადეთ Startpage
+start-page-callout-secondary-label = აცილება
 
 ## Account Adoption Passwords callout strings
 
