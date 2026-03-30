@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = გვერდების ისტორიიდან ამოშლა
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = სანიშნის ჩასწორება…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = სანიშნის წაშლა
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = წაშლა
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = ჩანართები სხვა მოწყობილობებიდან
 sidebar-menu-cpm-header =
     .heading = პაროლები
+sidebar-menu-bookmarks-header =
+    .heading = სანიშნები
 sidebar-panel-header-close-button =
     .tooltiptext = დახურვა
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = სანიშნების მენიუ
+sidebar-bookmarks-folder-toolbar = სანიშნების ხელსაწყოთა ზოლი
+sidebar-bookmarks-folder-other = სხვა სანიშნები
+sidebar-bookmarks-folder-mobile = მობილურის სანიშნები
 
 ## Titles for sidebar menu panels.
 
