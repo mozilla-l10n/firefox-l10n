@@ -1901,8 +1901,8 @@ content-blocking-etp-standard-tcp-rollout-description = Der vollständige Cookie
 content-blocking-etp-standard-tcp-rollout-learn-more = Weitere Informationen
 content-blocking-etp-standard-tcp-title = Beinhaltet den vollständigen Cookie-Schutz, unsere leistungsfähigste Datenschutzfunktion aller Zeiten
 content-blocking-warning-title = Achtung!
-content-blocking-warning-title-2 = Einige Websites können möglicherweise wegen dem strengen Schutz vor Aktivitätenverfolgung nicht funktionieren.
-content-blocking-warning-title-custom = Einige Websites können möglicherweise wegen dem benutzerdefinierten Schutz vor Aktivitätenverfolgung nicht funktionieren.
+content-blocking-warning-title-2 = Einige Websites können möglicherweise wegen des strengen Schutzes vor Aktivitätenverfolgung nicht funktionieren.
+content-blocking-warning-title-custom = Einige Websites können möglicherweise wegen des benutzerdefinierten Schutzes vor Aktivitätenverfolgung nicht funktionieren.
 # “Fix site issues” references the string content-blocking-exceptions-subheader
 content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } empfiehlt die Verwendung der Einstellungen "Probleme mit Webseiten beheben", um fehlerhafte Funktionen und Inhalte von Websites zu reduzieren. Wenn eine Webseite defekt zu sein scheint, versuchen Sie, den Tracking-Schutz für diese Website zu deaktivieren, um alle Inhalte zu laden.
 content-blocking-and-isolating-etp-warning-description-2 = Diese Einstellung kann dazu führen, dass einige Websites nicht korrekt Inhalte anzeigen oder funktionieren. Wenn eine Website defekt zu sein scheint, können Sie den Schutz vor Aktivitätenverfolgung für diese Website deaktivieren, um alle Inhalte zu laden.
