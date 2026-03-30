@@ -26,7 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = შემოთავაზებულია VPN, ახლა უკვე პირდაპირ თქვენს ბრაუზერში
 ipprotection-feature-introduction-link-text-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად.
 ipprotection-feature-introduction-link-text-private-browsing-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად პირადი ფანჯრით სარგებლობის დროსაც.
-ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში დამატებითი დაცვით, მდებარეობის დაფარვით, პირად ფანჯრებშიც.
+ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში დამატებითი დაცვით, მდებარეობის დაფარვით, მათ შორის პირად ფანჯრებში.
+ipprotection-feature-introduction-description-captive-portal = იმოგზაურეთ ინტერნეტში დამატებითი დაცვით, მდებარეობის დაფარვით, მათ შორის საჯარო WiFi-ქსელებში.
 ipprotection-feature-introduction-button-primary = შემდეგი
 ipprotection-feature-introduction-button-secondary-not-now = ახლა არა
 ipprotection-feature-introduction-button-secondary-no-thanks = არა, გმადლობთ
@@ -89,8 +90,11 @@ upgrade-vpn-button = გამოცადეთ { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = ვერ მიუერთდა VPN
 ipprotection-connection-status-generic-error-description = კვლავ სცადეთ რამდენიმე წუთში.
+ipprotection-connection-status-generic-error-try-again = გთხოვთ სცადოთ მოგვიანებით.
 ipprotection-connection-status-network-error-title = შეამოწმეთ ქსელთან კავშირი
 ipprotection-connection-status-network-error-description = დაუკავშირდით ინტერნეტს და შემდეგ ჩართეთ VPN.
+ipprotection-connection-status-blocked-error-title = VPN მიუწვდომელია
+ipprotection-connection-status-blocked-error-description = ადგილობრივი სამართალი გვიზღუდავს VPN-მომსახურებას ამ მხარეში. <a data-l10n-name="learn-more-link">ვრცლად</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
