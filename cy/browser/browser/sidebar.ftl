@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Dileu Tudalennau o Hanes
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Golygu Nod Tudalen…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Dileu Nod Tudalen
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Dileu
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

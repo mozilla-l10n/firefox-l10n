@@ -108,7 +108,7 @@ perplexity-callout-secondary-label-2 = Iawn
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = Eisiau rhoi cynnig ar chwilio newydd sy'n canolbwyntio ar breifatrwydd?
-start-page-callout-subtitle = Rhowch gynnig ar Startpage. Mae wedi'i gynllunio i gadw'ch chwilio'n fwy preifat o'r cychwyn cyntaf.
+start-page-callout-subtitle = Rhowch gynnig ar Startpage. Mae wedi'i gynllunio i'ch chwilio'n fod yn fwy preifat o'r cychwyn cyntaf.
 start-page-callout-primary-label = Rhowch gynnig ar Startpage
 start-page-callout-secondary-label = Cau
 

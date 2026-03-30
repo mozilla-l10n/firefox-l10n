@@ -287,3 +287,40 @@ privacy-metrics-trackers =
         [many] { $count } traciwr
        *[other] { $count } traciwr
     }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [zero] { $count } bysbrintwyr
+        [one] { $count } bysbrintiwr
+        [two] { $count } bysbrintiwr
+        [few] { $count } bysbrintiwr
+        [many] { $count } bysbrintiwr
+       *[other] { $count } bysbrintiwr
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [zero] { $count } cwcis tracio
+        [one] { $count } cwcis tracio
+        [two] { $count } gwcis tracio
+        [few] { $count } cwcis tracio
+        [many] { $count } cwcis tracio
+       *[other] { $count } cwcis tracio
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [zero] { $count } tracwyr cymdeithasol
+        [one] { $count } traciwr cymdeithasol
+        [two] { $count } draciwr cymdeithasol
+        [few] { $count } traciwr cymdeithasol
+        [many] { $count } thraciwr cymdeithasol
+       *[other] { $count } traciwr cymdeithasol
+    }
+privacy-metrics-empty = Dim tracwyr wedi'u rhwystro'r wythnos hon. Mae { -brand-short-name } yn eich diogelu rhag y bygythiadau canlynol wrth i chi bori.
+privacy-metrics-loading = Wrthi'n llwytho ystadegau diogelu…
+privacy-metrics-error = Methu llwytho ystadegau diogelu.
+privacy-metrics-private-window = Mae { -brand-short-name } yn parhau i rwystro tracwyr mewn Ffenestri Preifat, ond nid yw'n cadw cofnod o'r hyn sydd wedi'u rhwystro.
