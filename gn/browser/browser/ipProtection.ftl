@@ -200,6 +200,7 @@ ipprotection-bandwidth-reset-button = Aikũmby
 ## IP Protection add-on breakage warnings
 
 ipp-activator-breakage-sign-in-warning = <strong>Ikatuhína ko ñanduti rogue ndoikói VPN ndive.</strong> Eike térã embogue VPN eiporu aja ko ñanduti rogue.
+ipp-activator-breakage-turn-off-warning = <strong>Ikatu ko ñanduti rogue ndoikói VPN ndive.</strong> Eikutu VPN ñembogue eiporu aja ko ñanduti rogue.
 
 ## IP Protection alerts
 
