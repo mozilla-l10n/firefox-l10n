@@ -97,6 +97,7 @@ neterror-file-not-found-moved = Revisa si el archivo fue movido, renombrado o el
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } no puede encontrar el archivo en <strong>{ $path }</strong>. O no existe o la ruta es incorrecta.
+neterror-file-not-found-what-can-you-do = Si escribiste la dirección manualmente, revisa si hay errores de mayúsculas o errores de tipeo en el nombre o la ruta del archivo. Si seguiste un marcador o enlace guardado, es posible que el archivo haya sido reubicado, renombrado o eliminado desde que lo guardaste. Intenta localizarlo usando tu administrador de archivos o una búsqueda reciente.
 neterror-access-denied = Puede haber sido eliminado o movido, o puede que los permisos del archivo prevengan el acceso.
 neterror-unknown-protocol = Puede que debas instalar otro software para abrir esta dirección.
 neterror-redirect-loop = Este problema puede ser causado a veces por desactivar o rechazar cookies.
