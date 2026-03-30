@@ -1257,6 +1257,19 @@ panel-save-update-password = Cyfrinair
 # "More" item in macOS share menu
 menu-share-more =
     .label = Rhagor…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [zero] Copïo { $count } Dolenni
+            [one] Copïo Dolen
+            [two] Copïo { $count } Ddolen
+            [few] Copïo { $count } Dolen
+            [many] Copïo { $count } Dolen
+           *[other] Copïo { $count } Dolen
+        }
+    .accesskey = D
 menu-share-copy-link =
     .label = Copïo'r Ddolen
     .accesskey = D
