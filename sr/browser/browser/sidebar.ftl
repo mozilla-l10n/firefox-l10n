@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Обриши странице из историјата
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Уреди обележивач…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Обриши обележивач
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Обриши
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Језичци са других уређаја
 sidebar-menu-cpm-header =
     .heading = Лозинке
+sidebar-menu-bookmarks-header =
+    .heading = Обележивачи
 sidebar-panel-header-close-button =
     .tooltiptext = Затвори
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Мени са обележивачима
+sidebar-bookmarks-folder-toolbar = Трака са обележивачима
+sidebar-bookmarks-folder-other = Други обележивачи
+sidebar-bookmarks-folder-mobile = Мобилни обележивачи
 
 ## Titles for sidebar menu panels.
 

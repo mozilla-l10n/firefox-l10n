@@ -26,6 +26,8 @@ ipprotection-title = ВПН
 ipprotection-feature-introduction-title = Представљамо ВПН, сада директно у вашем прегледачу
 ipprotection-feature-introduction-link-text-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке, чак и када сте у приватном прозору.
+ipprotection-feature-introduction-description-private-browsing = Претражујте уз додатну заштиту скривањем локације, чак и када сте у приватном прозору.
+ipprotection-feature-introduction-description-captive-portal = Претражујте уз додатну заштиту скривањем локације, чак и на јавној бежичној мрежи.
 ipprotection-feature-introduction-button-primary = Даље
 ipprotection-feature-introduction-button-secondary-not-now = Не сада
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, хвала

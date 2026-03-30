@@ -288,17 +288,17 @@ tab-context-move-tab-to-group =
 tab-context-move-split-view-to-new-group =
     .label =
         { $splitViewCount ->
-            [1] Getrennte Ansicht zu neuer Gruppe hinzufügen
-            [one] Getrennte Ansicht zu neuer Gruppe hinzufügen
-           *[other] Getrennte Ansichten zu neuer Gruppe hinzufügen
+            [1] Geteilte Ansicht zu neuer Gruppe hinzufügen
+            [one] Geteilte Ansicht zu neuer Gruppe hinzufügen
+           *[other] Geteilte Ansicht zu neuer Gruppe hinzufügen
         }
     .accesskey = G
 tab-context-move-split-view-to-group =
     .label =
         { $splitViewCount ->
-            [1] Getrennte Ansicht zu Gruppe hinzufügen
-            [one] Getrennte Ansicht zu Gruppe hinzufügen
-           *[other] Getrennte Ansichten zu Gruppe hinzufügen
+            [1] Geteilte Ansicht zu Gruppe hinzufügen
+            [one] Geteilte Ansicht zu Gruppe hinzufügen
+           *[other] Geteilte Ansicht zu Gruppe hinzufügen
         }
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =

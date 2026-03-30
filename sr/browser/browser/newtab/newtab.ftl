@@ -742,6 +742,7 @@ newtab-daily-briefing-card-timestamp =
 newtab-widget-message-title = Останите фокусирани уз спискове и уграђени тајмер
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Од брзих подсетника до дневних задатака, сесија фокуса до пауза за протезање - останите на задатку и на време.
+newtab-promo-card-cta-addons = Испробај одмах
 newtab-promo-card-title = Подржите { -brand-product-name }
 newtab-promo-card-body = Наши спонзори подржавају нашу мисију изградње бољег веба
 newtab-promo-card-cta = Сазнајте више
