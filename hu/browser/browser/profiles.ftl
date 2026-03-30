@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Szerkesztés kész
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = A(z) „{ $profilename }” másolata készen áll a testreszabásra
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = A(z) { $profilename } példánya készen áll a testreszabásra
 copied-profile-page-header-description = Az adatait és beállításait egy új profilba másoltuk. Most adjon neki egy nevet, válasszon egy megjelenést, és szabja testre.
 restored-profile-page-header = Helyreállított profil testreszabása

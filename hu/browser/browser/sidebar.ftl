@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Oldalak törlése az előzményekből
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Könyvjelző szerkesztése…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Könyvjelző törlése
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Törlés
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Lapok más eszközökről
 sidebar-menu-cpm-header =
     .heading = Jelszavak
+sidebar-menu-bookmarks-header =
+    .heading = Könyvjelzők
 sidebar-panel-header-close-button =
     .tooltiptext = Bezárás
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Könyvjelzők menü
+sidebar-bookmarks-folder-toolbar = Könyvjelzők eszköztár
+sidebar-bookmarks-folder-other = Más könyvjelzők
+sidebar-bookmarks-folder-mobile = Mobilos könyvjelzők
 
 ## Titles for sidebar menu panels.
 

@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = A { -brand-short-name } 
 
 neterror-file-not-found-filename = Ellenőrizze a fájlnevet, hogy jól írta-e.
 neterror-file-not-found-moved = Ellenőrizze, hogy a fájlt áthelyezték-e, átnevezték-e vagy eltávolították-e.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = A { -brand-short-name } nem találja a fájlt itt: <strong>{ $path }</strong>. Vagy nem létezik, vagy az elérési út helytelen.
+neterror-file-not-found-what-can-you-do = Ha kézzel írta be a címet, akkor ellenőrizze, hogy nincs-e kis- és nagybetűből eredő hiba a fájlnévben vagy az elérési útban. Ha egy mentett könyvjelzőt vagy hivatkozást követett, akkor lehet, hogy a fájlt áthelyezték, átnevezték vagy törölték a mentés óta. Próbálja megkeresni a fájlkezelővel vagy egy legutóbbi kereséssel.
 neterror-access-denied = Lehet hogy törölve lett, át lett helyezve, vagy a fájljogosultságok megakadályozzák a hozzáférést.
 neterror-unknown-protocol = Lehet, hogy egyéb szoftvert kell telepítenie a cím megnyitásához.
 neterror-redirect-loop = Ez a probléma néha a letiltott vagy visszautasított sütik miatt jelentkezik.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = A { -brand-short-name } nem tud biztonságos kapcsolatot létrehozni a(z) { $hostname } kiszolgálóval.
 fp-neterror-offline-intro = A { -brand-short-name } nem tud kapcsolódni a(z) <strong>{ $hostname }</strong> kiszolgálóhoz
 fp-neterror-net-timeout-intro = A(z) <strong>{ $hostname }</strong> kiszolgáló válasza túl hosszú ideig tart.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = A(z) <strong>{ $hostname }</strong> helyen lévő kiszolgáló hibát küldött: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = A { -brand-short-name } nem töltötte be az oldalt, mert a biztonsági beállítások nem felelnek meg az előző oldalnak.
 fp-neterror-http-auth-disabled-intro = Valaki, aki a webhelynek adja ki magát, megpróbálhatja ellopni a felhasználónevét, jelszavát vagy e-mail-címét.
 fp-neterror-http-auth-disabled-secure-connection = Ez a webhely biztonságos kapcsolatot igényel, és nem adhat hozzá kivételt, hogy felkeresse.
