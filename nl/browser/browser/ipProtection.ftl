@@ -41,6 +41,7 @@ ipprotection-site-settings-callout-button = Begrepen
 ## Panel
 
 unauthenticated-vpn-title = De ingebouwde VPN van { -brand-product-name } proberen
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Verberg uw locatie</a> tijdens het navigeren in { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Verberg uw locatie tijdens het navigeren in { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

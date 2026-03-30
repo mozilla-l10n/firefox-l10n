@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Beleidsregels instellen zodat WebExtensions via chrome.storage.managed toegang kunnen krijgen.
+policy-AIControls = AI-bedieningselementen configureren.
 policy-AllowedDomainsForApps = Definieer domeinen die toegang hebben tot Google Workspace.
 policy-AllowFileSelectionDialogs = Bestandsselectiedialoogvensters toestaan.
 policy-AppAutoUpdate = Automatische applicatie-update in- of uitschakelen.
@@ -90,6 +91,7 @@ policy-Homepage = De startpagina instellen en optioneel vergrendelen.
 policy-HttpAllowlist = Oorspronkelijke bronnen die niet naar HTTPS worden geüpgraded.
 policy-HttpsOnlyMode = Alleen-HTTPS-modus toestaan om in te schakelen.
 policy-InstallAddonsPermission = Toestaan dat bepaalde websites add-ons installeren.
+policy-IPProtectionAvailable = Voorkomen dat de ingebouwde VPN beschikbaar is voor gebruikers.
 policy-LegacyProfiles = Functie om een afzonderlijk profiel voor elke installatie af te dwingen uitschakelen
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = De waarde voor een subset van voorkeuren instellen en vergr
 policy-PrivateBrowsingModeAvailability = Beschikbaarheid van privénavigatiemodus instellen.
 policy-PromptForDownloadLocation = Vragen waar gedownloade bestanden moeten worden opgeslagen.
 policy-Proxy = Proxyinstellingen configureren.
+policy-RelaunchRequired = Vereisen dat { -brand-short-name } binnen een bepaalde periode opnieuw wordt gestart, en de gebruiker op de hoogte stellen van de aanstaande herstart.
 policy-RequestedLocales = De lijst van gevraagde locales voor de toepassing instellen, op volgorde van voorkeur.
 policy-SanitizeOnShutdown2 = Navigatiegegevens wissen bij afsluiten.
 policy-SearchBar = De standaardlocatie van de zoekbalk instellen. De gebruiker mag deze nog steeds aanpassen.
