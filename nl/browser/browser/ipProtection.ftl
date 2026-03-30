@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Nieuw: VPN, nu rechtstreeks in uw browser
 ipprotection-feature-introduction-link-text-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen, zelfs als u zich in een privévenster bevindt.
+ipprotection-feature-introduction-description-private-browsing = Navigeer met extra bescherming door uw locatie te verbergen, zelfs wanneer u een privévenster gebuikt.
+ipprotection-feature-introduction-description-captive-portal = Navigeer met extra bescherming door uw locatie te verbergen, zelfs op openbare wifi.
 ipprotection-feature-introduction-button-primary = Volgende
 ipprotection-feature-introduction-button-secondary-not-now = Niet nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nee bedankt
