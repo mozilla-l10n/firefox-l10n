@@ -733,6 +733,12 @@ newtab-daily-briefing-card-timestamp = განახლდა { $minutes } წ
 newtab-widget-message-title = მოიკრიბეთ ყურადღება სიებისა და ჩაშენებული წამმზომის მეშვეობით
 # to-dos stands for "things to do".
 newtab-widget-message-copy = სწრაფი შეხსენებები იქნება ეს, თუ ყოველდღიური საქმიანობები, დაძაბული სამუშაო მონაკვეთები თუ შესვენებები განსატვირთად — მიჰყევით და ნუ გადაუხვევთ გეგმებს.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = გახადეთ { -brand-product-name } თქვენებური
+newtab-promo-card-body-addons = აირჩიეთ ფონი ჩვენი კრებულიდან ან შექმენით თავად.
+newtab-promo-card-cta-addons = მოსინჯეთ ახლავე
 newtab-promo-card-title = თანადგომა – { -brand-product-name }
 newtab-promo-card-body = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად
 newtab-promo-card-cta = ვრცლად
