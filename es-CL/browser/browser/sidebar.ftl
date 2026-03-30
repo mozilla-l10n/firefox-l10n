@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Eliminar páginas del historial
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Editar marcador…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Eliminar marcador
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Borrar
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,6 +183,8 @@ sidebar-menu-syncedtabs-header =
     .heading = Pestañas de otros dispositivos
 sidebar-menu-cpm-header =
     .heading = Contraseñas
+sidebar-menu-bookmarks-header =
+    .heading = Marcadores
 sidebar-panel-header-close-button =
     .tooltiptext = Cerrar
 

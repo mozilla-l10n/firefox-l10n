@@ -242,3 +242,5 @@ privacy-metrics-social =
     }
 privacy-metrics-empty = No se han bloqueado rastreadores esta semana. { -brand-short-name } te protege de las siguientes amenazas mientras navegas.
 privacy-metrics-loading = Cargando estadísticas de protección…
+privacy-metrics-error = No se pudieron cargar las estadísticas de protección.
+privacy-metrics-private-window = { -brand-short-name } sigue bloqueando rastreadores en ventanas privadas, pero no mantiene un registro de lo que se bloqueó.
