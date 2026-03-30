@@ -91,6 +91,7 @@ policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
 policy-HttpAllowlist = Teñoiha ndahekopyahumo’ãiva HTTPS ndive.
 policy-HttpsOnlyMode = Emoneĩ tahendy HTTPS ayvu añoite.
 policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moĩmbaha.
+policy-IPProtectionAvailable = Emboyke upe VPN juajupyre ani oimeraẽva oiporukuaa.
 policy-LegacyProfiles = Eipe’a tembiapoite omoĩva mba’ete mombyryguáva emohendakuévo
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

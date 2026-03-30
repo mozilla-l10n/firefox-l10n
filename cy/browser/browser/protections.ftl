@@ -263,3 +263,27 @@ bar-tooltip-cryptominer =
             [many] { $count } cryptogloddwyr ({ $percentage }%)
            *[other] { $count } cryptogloddwyr ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Diogelu Preifatrwydd
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [zero] Does { $count } wedi'u rhwystro'r wythnos hon
+        [one] Mae { $count } wedi'i rwystro'r wythnos hon
+        [two] Mae { $count } wedi'u rhwystro'r wythnos hon
+        [few] Mae { $count } wedi'u rhwystro'r wythnos hon
+        [many] Mae { $count } wedi'u rhwystro'r wythnos hon
+       *[other] Mae { $count } wedi'u rhwystro'r wythnos hon
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [zero] { $count } tracwyr
+        [one] { $count } traciwr
+        [two] { $count } draciwr
+        [few] { $count } traciwr
+        [many] { $count } traciwr
+       *[other] { $count } traciwr
+    }

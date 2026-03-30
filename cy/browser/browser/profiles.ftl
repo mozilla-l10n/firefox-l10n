@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Wedi gorffen golygu
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Mae eich copi o “{ $profilename }” yn barod i'w gyfaddasu
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Mae eich copi o { $profilename } yn barod i'w gyfaddasu
 copied-profile-page-header-description = Rydym wedi copïo'ch data a'ch gosodiadau i broffil newydd. Nawr rhowch enw iddo, dewiswch olwg, a'i ddefnyddio fel eich un chi.
 restored-profile-page-header = Cyfaddasu eich proffil wedi'i adfer
