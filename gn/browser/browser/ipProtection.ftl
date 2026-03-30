@@ -41,6 +41,7 @@ ipprotection-site-settings-callout-button = Aikũmby
 ## Panel
 
 unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Eñomi tendaite</a> oñeikundaha aja { -brand-product-name } ndive.
 unauthenticated-hide-location-message-2 = Eñomi pe tendaite eikundaha aja { -brand-product-name } ndive.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -195,6 +196,10 @@ ip-protection-bandwidth-header-1 = Jasy pukukue mba’ekuaarã
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN rehegua, hekopyahu ha eiporukuaáma
 ipprotection-bandwidth-reset-text = Emyandy VPN imbareteve hag̃ua nde rekoñemi, rei opaite jasýpe.
 ipprotection-bandwidth-reset-button = Aikũmby
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Ikatuhína ko ñanduti rogue ndoikói VPN ndive.</strong> Eike térã embogue VPN eiporu aja ko ñanduti rogue.
 
 ## IP Protection alerts
 
