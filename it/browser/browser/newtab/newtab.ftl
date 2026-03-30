@@ -317,9 +317,6 @@ newtab-custom-shortcuts-subtitle = Siti che hai salvato oppure visitato
 newtab-custom-shortcuts-toggle =
     .label = Scorciatoie
     .description = Siti che hai salvato oppure visitato
-newtab-custom-shortcuts-toggle-rows =
-    .label = Scorciatoie
-    .description = Numero di righe
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
