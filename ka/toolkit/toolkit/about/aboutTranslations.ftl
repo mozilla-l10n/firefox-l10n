@@ -41,7 +41,7 @@ about-translations-translation-error-button = ხელახლა ცდა
 # An informational message displayed when the detected language is not supported.
 # Variables:
 #   $language (String) - The display name of the detected language.
-about-translations-detected-language-unsupported-heading-2 = სამწუხაროდ, თარგმნისას ჯერჯერობით მხარდაუჭერელია %1$s
+about-translations-detected-language-unsupported-heading-2 = სამწუხაროდ, თარგმნისას ჯერჯერობით მხარდაუჭერელია { $language }
 about-translations-detected-language-unsupported-heading-unknown-2 = სამწუხაროდ, თარგმნისას ჯერჯერობით მხარდაუჭერელია ეს ენა
 about-translations-detected-language-unsupported-subtext = გთხოვთ, აირჩიოთ სხვა ენა.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
