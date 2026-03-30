@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Eha’ã jey
 about-translations-translation-error-heading = Oiko apañuái emoñe’ẽasakuévo
 about-translations-translation-error-subtext = Eha’ãjey ag̃ave.
 about-translations-translation-error-button = Eha’ã jey
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Rombyasy, noromoneĩri gueteri ko { $language } moñe’ẽasa.
+about-translations-detected-language-unsupported-heading-unknown-2 = Rombyasy, noromoneĩri gueteri moñe’ẽasa ko ñe’ẽme g̃uarã.
 about-translations-detected-language-unsupported-subtext = Ikatúnepa eiporavo ambue ñe’ẽ.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
