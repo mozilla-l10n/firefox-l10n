@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ko
 
 neterror-file-not-found-filename = Controleer de bestandsnaam op grote/kleine letters of andere typefouten.
 neterror-file-not-found-moved = Controleer of het bestand is verplaatst, hernoemd of verwijderd.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } kan het bestand niet vinden in <strong>{ $path }</strong>. Het bestaat niet, of het pad is onjuist.
+neterror-file-not-found-what-can-you-do = Als u het adres handmatig hebt ingetypt, controleer dan de bestandsnaam of het pad op hoofdletterfouten of typefouten. Als u een opgeslagen bladwijzer of koppeling hebt gevolgd, is het bestand mogelijk verplaatst, hernoemd of verwijderd sinds het werd opgeslagen. Probeer het te vinden via uw bestandsbeheerder of een recente zoekopdracht.
 neterror-access-denied = Het kan zijn verwijderd, verplaatst, of bestandsmachtigingen kunnen toegang tegengaan.
 neterror-unknown-protocol = Misschien moet u andere software installeren om dit adres te openen.
 neterror-redirect-loop = Dit probleem kan soms worden veroorzaakt door het uitschakelen of weigeren van cookies.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } kan geen beveiligde verbinding met de server op { $hostname } tot stand brengen.
 fp-neterror-offline-intro = { -brand-short-name } kan geen verbinding maken met de server op <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = De server op <strong>{ $hostname }</strong> doet er te lang over om te reageren.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = De server op <strong>{ $hostname }</strong> heeft een fout teruggestuurd: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } heeft deze pagina niet geladen, omdat het lijkt alsof de beveiligingsconfiguratie niet overeenkomt met die van de vorige pagina.
 fp-neterror-http-auth-disabled-intro = Iemand die zich voordoet als de website kan dingen zoals uw gebruikersnaam, wachtwoord of e-mailadres proberen te stelen.
 fp-neterror-http-auth-disabled-secure-connection = Deze website vereist een beveiligde verbinding, en u kunt geen uitzondering toevoegen om deze te bezoeken.

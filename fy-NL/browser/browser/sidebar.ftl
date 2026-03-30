@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Siden út skiednis fuortsmite
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Blêdwizer bewurkje…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Blêdwizers fuortsmite
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Fuortsmite
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Ljepblêden fan oare apparaten
 sidebar-menu-cpm-header =
     .heading = Wachtwurden
+sidebar-menu-bookmarks-header =
+    .heading = Blêdwizers
 sidebar-panel-header-close-button =
     .tooltiptext = Slute
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Blêdwizermenu
+sidebar-bookmarks-folder-toolbar = Blêdwizerarkbalke
+sidebar-bookmarks-folder-other = Oare blêdwizers
+sidebar-bookmarks-folder-mobile = Mobyl-blêdwizers
 
 ## Titles for sidebar menu panels.
 

@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Opnij probearje
 about-translations-translation-error-heading = Der is in probleem bard by it oersetten
 about-translations-translation-error-subtext = Probearje it opnij.
 about-translations-translation-error-button = Opnij probearje
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Sorry, wy stypje noch gjin oersettingen fan it { $language } út
+about-translations-detected-language-unsupported-heading-unknown-2 = Sorry, wy stypje noch gjin oersettingen fan dizze taal út
 about-translations-detected-language-unsupported-subtext = Kies in oare taal.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Gosodwch bolisïau y gall WebExtensions gael mynediad atyn nhw trwy chrome.storage.managed.
+policy-AIControls = Ffurfweddu rheolyddion AI.
 policy-AllowedDomainsForApps = Diffinio parthau sy'n cael eu caniatáu i gael mynediad at Google Workpace.
 policy-AllowFileSelectionDialogs = Caniatáu deialogau dewis ffeiliau.
 policy-AppAutoUpdate = Galluogi neu analluogi diweddaru rhaglen yn awtomatig.
@@ -90,6 +91,7 @@ policy-Homepage = Gosod ac o ddewis cloi'r dudalen cartref.
 policy-HttpAllowlist = Gwreiddiau na fyddant yn cael eu huwchraddio i HTTPS.
 policy-HttpsOnlyMode = Caniatáu i'r Modd HTTPS yn Unig gael ei alluogi.
 policy-InstallAddonsPermission = Caniatáu i rai gwefannau i osod ychwanegion
+policy-IPProtectionAvailable = Rhwystro'r VPN mewnol rhag bod ar gael i ddefnyddwyr.
 policy-LegacyProfiles = Analluoga'r nodwedd gan orfodi proffil ar wahân ar gyfer pob gosodiad
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Gosod a chloi gwerth is-set o ddewisiadau.
 policy-PrivateBrowsingModeAvailability = Gosod argaeledd y modd pori preifat.
 policy-PromptForDownloadLocation = Gofynnwch ble i gadw ffeiliau wrth eu llwytho i lawr.
 policy-Proxy = Ffurfweddu gosodiadau eilydd
+policy-RelaunchRequired = Mynnu bod { -brand-short-name } yn cael ei ail-lansio o fewn cyfnod penodol a hysbysu'r defnyddiwr o'r ail-lansiad sydd i ddod.
 policy-RequestedLocales = Gosodwch y rhestr o locales gofynnol ar gyfer y rhaglen yn ôl eich trefn dewis.
 policy-SanitizeOnShutdown2 = Clirio data llywio wrth gau.
 policy-SearchBar = Gosod y lleoliad ragosodedig y bar chwilio. Mae'r defnyddiwr dal yn cael ei gyfaddasu.

@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
 ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
+ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
+ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
 ipprotection-feature-introduction-button-primary = Nesaf
 ipprotection-feature-introduction-button-secondary-not-now = Nid nawr
 ipprotection-feature-introduction-button-secondary-no-thanks = Dim diolch
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Iawn
 ## Panel
 
 unauthenticated-vpn-title = Rhowch gynnig ar VPN mewnol { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cuddiwch eich lleoliad</a> wrth bori yn { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Cuddiwch eich lleoliad wrth bori gyda { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -88,8 +91,11 @@ upgrade-vpn-button = Rhowch gynnig ar { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Methu cysylltu â'r VPN
 ipprotection-connection-status-generic-error-description = Ceisiwch eto mewn ychydig funudau.
+ipprotection-connection-status-generic-error-try-again = Ceisiwch eto'n ddiweddarach.
 ipprotection-connection-status-network-error-title = Gwiriwch eich cysylltiad rhyngrwyd
 ipprotection-connection-status-network-error-description = Cysylltwch â'r rhyngrwyd, yna ceisio troi'r VPN ymlaen.
+ipprotection-connection-status-blocked-error-title = Dyw VPN ddim ar gael
+ipprotection-connection-status-blocked-error-description = Mae cyfreithiau lleol yn ein hatal rhag darparu gwasanaeth VPN yn y rhanbarth hwn. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

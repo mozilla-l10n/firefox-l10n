@@ -743,6 +743,12 @@ newtab-daily-briefing-card-timestamp = Diweddarwyd { $minutes }m yn ôl
 newtab-widget-message-title = Canolbwyntio gyda rhestrau a'r amserydd mewnol
 # to-dos stands for "things to do".
 newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiynau canolbwyntio i egwyliau ymarfer corff — cadwch i'r dasg ac amser.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Gwnewch { -brand-product-name } yn gartrefol i chi
+newtab-promo-card-body-addons = Dewiswch bapur wal o'n casgliad, neu crëwch un eich hun.
+newtab-promo-card-cta-addons = Rhowch gynnig arno nawr
 newtab-promo-card-title = Cefnogi { -brand-product-name }
 newtab-promo-card-body = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 newtab-promo-card-cta = Dysgu rhagor

@@ -18,6 +18,26 @@ firefox-relay-must-login-to-account = Mewngofnodwch i'ch cyfrif i ddefnyddio'ch 
 firefox-relay-get-unlimited-masks =
     .label = Rheoli arallenwau
     .accesskey = R
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [zero] Dydych chi heb ddefnyddio un o'r { $count } arallenwau e-bost rhad ac am ddim
+        [one] Rydych chi wedi defnyddio { $count } o'r arallenw e-bost rhad ac am ddim
+        [two] Rydych chi wedi defnyddio pob un o'r { $count } arallenw e-bost rhad ac am ddim
+        [few] Rydych chi wedi defnyddio pob un o'r { $count } arallenw e-bost rhad ac am ddim
+        [many] Rydych chi wedi defnyddio pob un o'r { $count } arallenw e-bost rhad ac am ddim
+       *[other] Rydych chi wedi defnyddio pob un o'r { $count } arallenw e-bost rhad ac am ddim
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Gallwch ailddefnyddio un neu weld pob arallenw i ddewis un gwahanol.
+firefox-relay-reuse-masks-select-label = Dewiswch arallenw diweddar
+firefox-relay-see-all-masks =
+    .label = Gweld pob arallenw
+    .accesskey = a
+firefox-relay-dismiss =
+    .label = Cau
+    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Diogelwch eich cyfeiriad e-bost:
 firefox-relay-opt-in-title-2 = Cael e-bost enwarall am ddim

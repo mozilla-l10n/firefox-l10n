@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Pagina’s uit geschiedenis verwijderen
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Bladwijzer bewerken…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Bladwijzer verwijderen
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Verwijderen
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Tabbladen van andere apparaten
 sidebar-menu-cpm-header =
     .heading = Wachtwoorden
+sidebar-menu-bookmarks-header =
+    .heading = Bladwijzers
 sidebar-panel-header-close-button =
     .tooltiptext = Sluiten
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Bladwijzermenu
+sidebar-bookmarks-folder-toolbar = Bladwijzerwerkbalk
+sidebar-bookmarks-folder-other = Andere bladwijzers
+sidebar-bookmarks-folder-mobile = Mobiel-bladwijzers
 
 ## Titles for sidebar menu panels.
 

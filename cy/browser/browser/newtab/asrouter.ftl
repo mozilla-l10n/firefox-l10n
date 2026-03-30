@@ -319,6 +319,12 @@ tail-fox-spotlight-subtitle = Ffarweliwch â thracwyr hysbysebion annifyr a symu
 tail-fox-spotlight-primary-button = Agor fy nolenni gyda { -brand-short-name }
 tail-fox-spotlight-secondary-button = Nid nawr
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Ewch nôl i'r preifatrwydd mewnol
+welcome-back-spotlight-subtitle = Croeso yn ôl i'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw. Rydym yn cymryd camau ychwanegol i ddiogelu eich data ble bynnag byddwch yn crwydro.
+welcome-back-embedded-import-title = Mewnforiwch eich data a gwneud i { -brand-short-name } deimlo fel cartref
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Mae'n bosib y bydd fersiynau hŷn o { -brand-short-name } yn dechrau cael problemau ar Ionawr 14, 2025.</strong>
