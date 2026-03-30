@@ -746,7 +746,7 @@ newtab-widget-message-copy = O negeseuon atgoffa cyflym i dasgau bob dydd, sesiy
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
-newtab-promo-card-title-addons = Gwnewch { -brand-product-name } yn gartrefol i chi
+newtab-promo-card-title-addons = Gwnewch { -brand-product-name } yn gartrefol
 newtab-promo-card-body-addons = Dewiswch bapur wal o'n casgliad, neu crëwch un eich hun.
 newtab-promo-card-cta-addons = Rhowch gynnig arno nawr
 newtab-promo-card-title = Cefnogi { -brand-product-name }

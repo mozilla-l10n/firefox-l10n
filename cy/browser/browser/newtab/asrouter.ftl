@@ -323,7 +323,7 @@ tail-fox-spotlight-secondary-button = Nid nawr
 
 welcome-back-spotlight-title = Ewch nôl i'r preifatrwydd mewnol
 welcome-back-spotlight-subtitle = Croeso yn ôl i'r unig borwr mawr sy'n cael ei gefnogi gan gorff dim-er-elw. Rydym yn cymryd camau ychwanegol i ddiogelu eich data ble bynnag byddwch yn crwydro.
-welcome-back-embedded-import-title = Mewnforiwch eich data a gwneud i { -brand-short-name } deimlo fel cartref
+welcome-back-embedded-import-title = Mewnforiwch eich data a gwneud i { -brand-short-name } deimlo'n gartrefol
 
 ## Root Certificate Succession Infobar
 

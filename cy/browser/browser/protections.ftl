@@ -320,7 +320,7 @@ privacy-metrics-social =
         [many] { $count } thraciwr cymdeithasol
        *[other] { $count } traciwr cymdeithasol
     }
-privacy-metrics-empty = Dim tracwyr wedi'u rhwystro'r wythnos hon. Mae { -brand-short-name } yn eich diogelu rhag y bygythiadau canlynol wrth i chi bori.
+privacy-metrics-empty = Does dim tracwyr wedi'u rhwystro'r wythnos hon. Mae { -brand-short-name } yn eich diogelu rhag y bygythiadau canlynol wrth i chi bori.
 privacy-metrics-loading = Wrthi'n llwytho ystadegau diogelu…
 privacy-metrics-error = Methu llwytho ystadegau diogelu.
 privacy-metrics-private-window = Mae { -brand-short-name } yn parhau i rwystro tracwyr mewn Ffenestri Preifat, ond nid yw'n cadw cofnod o'r hyn sydd wedi'u rhwystro.
