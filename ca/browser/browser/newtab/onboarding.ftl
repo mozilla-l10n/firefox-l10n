@@ -486,6 +486,7 @@ create-backup-screen-1-subtitle = Protegiu automàticament les contrasenyes, les
 create-backup-screen-1-flair = Recomanat
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Més informació</a>
 create-backup-screen-1-sync-label = Sincronitza amb el { -brand-product-name }
+create-backup-screen-1-sync-body = Fa còpia de seguretat de tots els dispositius on hàgiu iniciat la sessió
 create-backup-screen-1-backup-label = Còpia de seguretat a l'ordinador
 create-backup-screen-1-backup-body = Desa al dispositiu o al OneDrive
 create-backup-select-tile-button-label = Selecciona
@@ -541,10 +542,13 @@ fx-backup-confirmation-screen-item-subtext-2 = El { -brand-short-name } buscarà
 restore-from-backup-secondary-top-button = Restaura des de la còpia de seguretat
 restore-from-backup-title = Recuperem el { -brand-short-name } tal com us agrada.
 restore-from-backup-subtitle = Recupereu totes les adreces d'interès, l'historial i altres dades per tornar a navegar.
+restore-from-backup-secondary-button = No restauris
+multiple-backups-info-tile = <strong>S'han trobat diversos fitxers de còpia de seguretat.</strong> S'ha seleccionat el fitxer més recent. Podeu restaurar altres perfils des dels <a data-l10n-name="settings-label">Paràmetres</a>.
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = Ja tornem a ser aquí! Les vostres dades del { -brand-short-name } s'han restaurat.
+restored-from-backup-success-with-checklist-subtitle = Voleu tenir el vostre navegador preferit centrat en la privadesa a un sol clic?
 restored-from-backup-success-no-checklist-subtitle = Podeu activar la còpia de seguretat per a aquest dispositiu a <a data-l10n-name="settings">Configuració</a>.
 restored-from-backup-success-with-checklist-primary-button = Desa i continua
 restored-from-backup-success-with-checklist-secondary-button = Omet aquest pas
@@ -566,3 +570,10 @@ onboarding-personalization-motivation-title = Quines funcions del { -brand-short
 onboarding-personalization-motivation-privacy-option = Privadesa i seguretat
 onboarding-personalization-motivation-productivity-option = Productivitat
 onboarding-personalization-motivation-other-option = Altres
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = Protegim les vostres dades i impedim que les empreses espiïn els vostres clics, automàticament.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Esteu en bones grapes
