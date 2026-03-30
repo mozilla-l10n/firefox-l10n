@@ -540,7 +540,7 @@ newtab-topic-label-society = Astuces du quotidien
 newtab-topic-label-sports = Sports
 newtab-topic-label-tech = Technologie
 newtab-topic-label-travel = Voyage
-newtab-topic-label-home = Maison et extérieur
+newtab-topic-label-home = Maison et jardin
 
 ## Topic Selection Modal
 

@@ -277,6 +277,20 @@ tab-context-move-tab-to-group =
            *[other] Add Tabs to Group
         }
     .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Afegeix la vista dividida a un grup nou
+           *[other] Afegeix les vistes dividides a un grup nou
+        }
+    .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Afegeix la vista dividida a un grup
+           *[other] Add Split Views to Group
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Grups tancats
 tab-group-editor-action-new-tab =
@@ -358,3 +372,7 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separa la vista dividida
     .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Inverteix les pestanyes
+    .accesskey = r
