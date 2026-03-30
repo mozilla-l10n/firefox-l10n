@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Rohechauka VPN, ko’ág̃a ne kundahára ryepýpe
 ipprotection-feature-introduction-link-text-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã, oĩramo jepe ovetã ñemíme.
+ipprotection-feature-introduction-description-private-browsing = Ñeikundaha ñemo’ãve ndive oñomívo péicha pe hendaite, taha’e jepe ovetã ñemíme.
+ipprotection-feature-introduction-description-captive-portal = Ñeikundaha ñemo’ãve ndive oñomívo hendaite, taha’e Wi-Fi ojeporukuaávape.
 ipprotection-feature-introduction-button-primary = Tenondegua
 ipprotection-feature-introduction-button-secondary-not-now = Ani ko’ág̃a
 ipprotection-feature-introduction-button-secondary-no-thanks = Nahániri, aguyje

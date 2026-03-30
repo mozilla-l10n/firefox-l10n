@@ -2108,7 +2108,7 @@ addon-recommendations2 =
 addon-recommendations-description = მიიღეთ გაფართოებების შემოთავაზებები გვერდების თვალიერების გასაუმჯობესებლად.
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled2 = მოხსენებები გათიშული ამ გამართვის მქონე ანაწყობისთვის.
+collection-health-report-disabled2 = მონაცემთა მოხსენება გათიშულია ამ გამართვის ანაწყობზე.
 collection-backlogged-crash-reports2 =
     .label = უეცარი გათიშვის მოხსენებების თვითგაგზავნა
     .accesskey = ც
@@ -2118,7 +2118,7 @@ addon-recommendations =
 addon-recommendations-link = ვრცლად
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის
+collection-health-report-disabled = მონაცემთა მოხსენება გათიშულია ამ გამართვის ანაწყობზე.
 collection-backlogged-crash-reports-with-link = ნებართვა, რომ { -brand-short-name } თავადვე გაგზავნის უეცარი გათიშვების მოხსენებებს <a data-l10n-name="crash-reports-link">ვრცლად</a>
     .accesskey = უ
 privacy-segmentation-section-header = ახალი შესაძლებლობები მოხერხებულად სარგებლობისთვის
@@ -2145,7 +2145,7 @@ data-collection-health-report =
 data-collection-health-report-disabled =
     .label = გაიგზავნოს ტექნიკური და გამოყენების მონაცემები, რომელთაც გაეცნობა { -vendor-short-name }
     .accesskey = ტ
-    .description = მონაცემთა მოხსენება გათიშულია ამ მომართულ ანაწყობზე.
+    .description = მონაცემთა მოხსენება გათიშულია ამ გამართვის ანაწყობზე.
 data-collection-run-studies =
     .label = ნებართვა, რომ { -brand-short-name } დააყენებს და გაუშვებს კვლევებს
     .description = { -brand-short-name } შემთხვევითად არჩევს მომხმარებლებს შესაძლებლობების გამოსაცდელად ხარისხის საყოველთაო გაუმჯობესებისთვის.

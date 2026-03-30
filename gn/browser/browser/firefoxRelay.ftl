@@ -24,6 +24,9 @@ firefox-relay-reuse-masks-header =
         [one] Eiporupáma { $count } ñanduti veve rovamo’ãha reigua
        *[other] Eiporupáma { $count } ñanduti veve rovamo’ãha reigua
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Eiporujeykuaa peteĩ térã ehechapaite tovamo’ãhaita eiporavo hag̃ua ambuéva.
 firefox-relay-reuse-masks-select-label = Eiporavo tovamo’ãha ramogua
 firefox-relay-see-all-masks =
     .label = Ehechapa tovamo’ãha

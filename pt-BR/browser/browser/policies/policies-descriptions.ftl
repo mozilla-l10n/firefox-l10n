@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Definir diretivas que WebExtensions podem acessar via chrome.storage.managed.
+policy-AIControls = Configurar controles de inteligência artificial.
 policy-AllowedDomainsForApps = Definir domínios com permissão para acessar o Google Workspace.
 policy-AllowFileSelectionDialogs = Permitir diálogos de seleção de arquivos.
 policy-AppAutoUpdate = Ativar ou desativar atualizações automáticas da aplicação.
@@ -90,6 +91,7 @@ policy-Homepage = Definir a página inicial e, opcionalmente, impedir que seja a
 policy-HttpAllowlist = Origens que não mudam para HTTPS.
 policy-HttpsOnlyMode = Permitir ativar o modo somente HTTPS.
 policy-InstallAddonsPermission = Permitir que determinados sites instalem extensões.
+policy-IPProtectionAvailable = Impedir que a VPN integrada esteja disponível para os usuários.
 policy-LegacyProfiles = Desativar o recurso de impor um perfil separado para cada instalação.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Definir e bloquear o valor de um subconjunto de preferênci
 policy-PrivateBrowsingModeAvailability = Definir disponibilidade do modo de navegação privativa.
 policy-PromptForDownloadLocation = Perguntar onde salvar arquivos ao baixar.
 policy-Proxy = Definir as configurações de proxy.
+policy-RelaunchRequired = Exigir que o { -brand-short-name } seja relançado dentro de um determinado período e notificar o usuário sobre um próximo relançamento.
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown2 = Limpar dados de navegação ao fechar.
 policy-SearchBar = Definir a localização padrão da barra de pesquisa. O usuário ainda pode personalizar tal localização.

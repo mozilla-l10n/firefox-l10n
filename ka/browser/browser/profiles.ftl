@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = ჩასწორება დასრულებულია
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = თქვენი „{ $profilename }“ მზადაა მოსარგებად
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = თქვენი { $profilename } მზადაა მოსარგებად
 copied-profile-page-header-description = თქვენი მონაცემებისა და პარამეტრების ასლები გადმოტანილია ახალ პროფილში. დროა, დაარქვათ რამე, შეარჩიეთ იერსახე და გახადოთ მეტად თქვენებური.
 restored-profile-page-header = მოირგეთ თქვენი აღდგენილი პროფილი

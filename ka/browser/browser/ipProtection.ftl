@@ -41,6 +41,7 @@ ipprotection-site-settings-callout-button = გასაგებია
 ## Panel
 
 unauthenticated-vpn-title = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">დამალეთ თქვენი მდებარეობა</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
 unauthenticated-hide-location-message-2 = მდებარეობის გაუმჟღავნებლად გამოიყენეთ { -brand-product-name } გვერდების მონახულებისთვის.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

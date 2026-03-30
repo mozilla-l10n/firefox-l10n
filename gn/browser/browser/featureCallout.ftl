@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = Aikũmby
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = ¿Eiporusépa jeheka pyahu oma’ẽva nde rekoñemíre?
+start-page-callout-subtitle = Eiporu Startpage. Ojejapo nde jeheka hekoñemive hag̃ua ñepyrũhaite guive.
 start-page-callout-primary-label = Eiporu Startpage
 start-page-callout-secondary-label = Emboyke
 
