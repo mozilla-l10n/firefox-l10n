@@ -178,6 +178,8 @@ neterror-response-status-code = Ayvu jejavy: { $responsestatus } { $responsestat
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Ha’eténte ku oĩva apañuái eike hag̃ua ñandutípe
+fp-neterror-illustration-alt =
+    .alt = Peteĩ aguara ra’ãnga oma’ẽvahína cable ñandutigua osóva rehe.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

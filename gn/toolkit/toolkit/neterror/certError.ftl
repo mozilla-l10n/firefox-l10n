@@ -170,6 +170,8 @@ certerror-mitm-title = Ko software ojokohína { -brand-short-name } ani oike ko 
 
 fp-certerror-page-title = Kyhyjerã: Tekorosã ñembyaikuaa
 fp-certerror-body-title = Ema’ẽke. Oĩvaicha iporãmba’ỹva.
+fp-certerror-illustration-alt =
+    .alt = Peteĩ aguara ra’ãnga oma’ẽva kyhyjerã narãva rehe.
 fp-certerror-why-site-dangerous = ¿Mba’érevaicha upe tenda ivaikuaa?
 fp-certerror-what-can-you-do = ¿Mba’e ikatu rejapo upéicharõ?
 fp-certerror-advanced-title = Opapotáva
@@ -183,3 +185,5 @@ fp-certerror-override-exception-button = Ejapo { $hostname } ndive (ivaikuaa)
 fp-certerror-intro = { -brand-short-name } ohecha apañuái tekorosãgua ivaikuaáva <strong>{ $hostname }</strong> ndive. Oĩrõ oñembohasáva tenda rendaguépe ikatuhína omonda marandu kuatia’atã ñemurãgui, ñe’ẽñemi térã ñanduti veve.
 fp-certerror-expired-into = { -brand-short-name } ohechakuaa tekorosã apañuái <strong>{ $hostname }</strong> ndive. Térã tenda noñembohekoporãi térã mba’e’oka aravopapaha oñemohenda arange/aravo oĩvaívape.
 fp-certerror-transparency-intro = Peteĩ ohasáva <strong>{ $hostname }</strong> rekovia omondakuaa ne marandu ikatúva kuatia’atã mba’ekuaarã, ñe’ẽñemi térã ñanduti veve.
+fp-certerror-override-exception-button-2 = Eku’e { $hostname } peve (Ivaikuaáva)
+    .accesskey = P
