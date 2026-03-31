@@ -43,6 +43,10 @@ certificate-viewer-logid = Protokolowy ID
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modul
 certificate-viewer-name = Mě
+certificate-viewer-surname = Familijowe mě
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Dane mě
 certificate-viewer-not-after = Nic pó tom
 certificate-viewer-not-before = Nic pjerwjej
 certificate-viewer-organization = Organizacija

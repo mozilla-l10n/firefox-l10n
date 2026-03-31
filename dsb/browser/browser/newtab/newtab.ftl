@@ -317,6 +317,8 @@ newtab-custom-shortcuts-toggle =
     .description = Sedła, kótarež składujośo abo ku kótarymž se woglědujośo
 newtab-custom-shortcuts-nova =
     .label = Zwězanja
+newtab-custom-row-description =
+    .description = Licba smužkow
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -521,6 +523,12 @@ newtab-weather-opt-in-yes =
     .label = Jo
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Wusoka
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Niska
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
