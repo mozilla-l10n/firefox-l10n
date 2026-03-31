@@ -314,6 +314,8 @@ newtab-custom-shortcuts-subtitle = Sitos chi as sarvadu o bisitadu
 newtab-custom-shortcuts-toggle =
     .label = Curtzadòrgios
     .description = Sitos chi as sarvadu o bisitadu
+newtab-custom-shortcuts-nova =
+    .label = Curtzadòrgios
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
