@@ -316,6 +316,8 @@ newtab-custom-shortcuts-subtitle = Gwefannau rydych yn eu cadw neu'n ymweld â n
 newtab-custom-shortcuts-toggle =
     .label = Llwybrau Byr
     .description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
+newtab-custom-shortcuts-nova =
+    .label = Llwybrau Byr
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
