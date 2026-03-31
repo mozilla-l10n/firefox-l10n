@@ -309,6 +309,8 @@ newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם
 newtab-custom-shortcuts-toggle =
     .label = קיצורי דרך
     .description = אתרים ששמרת או ביקרת בהם
+newtab-custom-shortcuts-nova =
+    .label = קיצורי דרך
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
