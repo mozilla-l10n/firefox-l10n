@@ -43,6 +43,10 @@ certificate-viewer-logid = ID καταγραφής
 certificate-viewer-method = Μέθοδος
 certificate-viewer-modulus = Μέτρο
 certificate-viewer-name = Όνομα
+certificate-viewer-surname = Επώνυμο
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Όνομα
 certificate-viewer-not-after = Όχι μετά
 certificate-viewer-not-before = Όχι πριν
 certificate-viewer-organization = Εταιρεία

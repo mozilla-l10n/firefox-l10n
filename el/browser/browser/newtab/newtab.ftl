@@ -317,6 +317,8 @@ newtab-custom-shortcuts-toggle =
     .description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 newtab-custom-shortcuts-nova =
     .label = Συντομεύσεις
+newtab-custom-row-description =
+    .description = Αριθμός σειρών
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -517,6 +519,12 @@ newtab-weather-opt-in-yes =
     .label = Ναι
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Νέα Υόρκη
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Υψηλή
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Χαμηλή
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =

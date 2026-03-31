@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ορισμός πολιτικών που μπορούν να προσπελάσουν τα WebExtensions μέσω του chrome.storage.managed.
+policy-AIControls = Ρύθμιση παραμέτρων στοιχείων ελέγχου ΤΝ.
 policy-AllowedDomainsForApps = Καθορισμός τομέων στους οποίους επιτρέπεται πρόσβαση στο Google Workspace.
 policy-AllowFileSelectionDialogs = Να επιτρέπονται τα παράθυρα διαλόγου για επιλογή αρχείων.
 policy-AppAutoUpdate = Ενεργοποίηση ή απενεργοποίηση αυτόματων ενημερώσεων εφαρμογής.
@@ -90,6 +91,7 @@ policy-Homepage = Ορισμός και προαιρετικό κλείδωμα 
 policy-HttpAllowlist = Προελεύσεις που δεν θα αναβαθμίζονται σε HTTPS.
 policy-HttpsOnlyMode = Να επιτρέπεται η ενεργοποίηση της λειτουργίας «Μόνο HTTPS».
 policy-InstallAddonsPermission = Αποδοχή εγκατάστασης προσθέτων από ορισμένους ιστοτόπους.
+policy-IPProtectionAvailable = Αποτροπή της διάθεσης του ενσωματωμένου VPN στους χρήστες.
 policy-LegacyProfiles = Απενεργοποίηση της λειτουργίας που απαιτεί ξεχωριστό προφίλ για κάθε εγκατάσταση.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
