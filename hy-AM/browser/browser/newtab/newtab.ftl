@@ -73,6 +73,9 @@ newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Չեղարկել
@@ -303,6 +306,8 @@ newtab-custom-shortcuts-subtitle = Կայքեր, որոնք պահել կամ ա
 newtab-custom-shortcuts-toggle =
     .label = Դյուրանցումներ
     .description = Կայքեր, որոնք պահել կամ այցելել եք
+newtab-custom-shortcuts-nova =
+    .label = Դյուրանցումներ
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
