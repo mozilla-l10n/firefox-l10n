@@ -96,6 +96,13 @@ permissions-exceptions-https-only-window2 =
 permissions-exceptions-https-only-desc = Pode desativar o modo apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro  para estes sites. As exceções não se aplicam a janelas privadas.
 permissions-exceptions-https-only-desc2 = Pode desativar o Modo Apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro nesses sites.
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Sites permitidos - Popus e redirecionamentos de terceiros
+    .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Pode especificar quais os sites que têm permissão para abrir janelas de popup e serem redirecionados por frames de terceiros.
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
@@ -170,6 +177,19 @@ permissions-site-camera-desc = Os sites seguintes solicitaram acesso à sua câm
 permissions-site-camera-disable-label =
     .label = Bloquear novos pedidos de acesso à sua câmara
 permissions-site-camera-disable-desc = Isto irá impedir quaisquer sites não listados acima de solicitar permissão para aceder à sua câmara. Bloquear o acesso à sua câmara pode quebrar algumas funcionalidades dos sites.
+
+## Site Permissions - Loopback network
+
+permissions-site-localhost-window =
+    .title = Definições - aplicações e serviços do dispositivo
+    .style = { permissions-window2.style }
+permissions-site-localhost-desc = Estes sites solicitaram acesso às aplicações e serviços neste dispositivo. Pode optar por permitir ou bloquear sites que façam isto.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = Definições - dispositivos da rede local
+    .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 

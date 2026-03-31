@@ -14,6 +14,10 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Preferências de Privacidade do Site
+do-not-track-removal3 =
+    .message = Nós já não suportamos a funcionalidade “Não monitorizar”.
+non-technical-privacy-heading =
+    .label = Proteções adicionais
 non-technical-privacy-header = Preferências de Privacidade do Site
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -156,9 +160,12 @@ windows-launch-on-login =
 windows-launch-on-login-disabled = Esta preferência foi desativada no Windows. Para alterar, visite <a data-l10n-name="startup-link">Aplicações de arranque</a> nas definições do Sistema.
 windows-launch-on-login-profile-disabled = Ative esta preferência marcando “{ profile-manager-use-selected.label }” na janela “Escolher perfil de utilizador”.
 startup-restore-warn-on-quit =
-    .label = Avisar-lhe ao sair do navegador
+    .label = Avisar ao sair do navegador
 disable-extension =
     .label = Desativar extensão
+preferences-data-migration-group =
+    .label = Importar dados de navegador
+    .description = Traga de outro navegador os seus marcadores, palavras-passe, histórico, extensões e dados de autopreenchimento.
 preferences-data-migration-header = Importar dados do navegador
 preferences-data-migration-description = Importe favoritos, palavras-passe, histórico e dados de preenchimento automático para o { -brand-short-name }.
 preferences-data-migration-button =
@@ -178,12 +185,16 @@ preferences-manage-profiles-button =
     .label = Gerir perfis
 tabs-group-header2 =
     .label = Separadores
+tabs-opening-heading =
+    .label = Abertura
+tabs-interaction-heading =
+    .label = Interação
 tabs-group-header = Separadores
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab permuta em ciclo os separadores pela ordem dos mais recentemente utilizados
+    .label = Ctrl+Tab alterna entre separadores ordenados pela utilização mais recente
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Abrir ligações em novos separadores em vez de novas janelas
+    .label = Abrir ligações em separadores em vez de novas janelas
     .accesskey = j
 open-external-link-next-to-active-tab =
     .label = Abrir as ligações das aplicações ao lado do seu separador ativo
@@ -210,7 +221,7 @@ confirm-on-quit-with-key =
     .label = Confirmar antes de sair com { $quitKey }
     .accesskey = t
 warn-on-open-many-tabs =
-    .label = Avisar-lhe se a abertura de múltiplos separadores puder tornar o { -brand-short-name } lento
+    .label = Avisar-me quando abrir vários separadores pode abrandar o { -brand-short-name }
     .accesskey = d
 switch-to-new-tabs =
     .label = Quando abre uma ligação, imagem ou media num novo separador, mudar imediatamente para o mesmo
@@ -315,6 +326,11 @@ preferences-web-appearance-override-warning3 =
     .message = As suas definições do controlo de contraste estão a sobrepor-se à aparência do site.
 preferences-web-appearance-link =
     .label = Gerir temas do { -brand-short-name } em Extensões e Temas
+preferences-contrast-control-group =
+    .label = Contraste dos sites
+    .description = Os sites utilizam uma panóplia de cores de primeiro plano e de fundo. Para um contraste consistente, pode utilizar as mesmas cores em vários sites na Web.
+preferences-contrast-control-radio-group =
+    .label = Sobrepor cores
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = As suas seleções de cores estão a substituir o aspeto do website. <a data-l10n-name="colors-link">Gerir cores</a>
@@ -333,7 +349,7 @@ preferences-contrast-control-custom =
     .label = Personalizado
     .accesskey = z
 preferences-colors-header = Cores
-preferences-colors-description = Subsituir as cores padrão do { -brand-short-name } quanto a texto, fundos de websites e ligações.
+preferences-colors-description = Substituir as cores predefinidas do { -brand-short-name } para o texto, fundos do site e ligações.
 preferences-colors-manage-button =
     .label = Gerir cores…
     .accesskey = C
@@ -377,7 +393,7 @@ choose-language-description = Escolha o seu idioma preferencial para apresentar 
 choose-button =
     .label = Escolher…
     .accesskey = o
-choose-browser-language-description = Escolha os idiomas utilizados para mostrar menus, mensagens, e notificações do { -brand-short-name }.
+choose-browser-language-description = Escolher os idiomas utilizados para apresentar os menus, mensagens e notificações do { -brand-short-name }.
 manage-browser-languages-button =
     .label = Definir alternativas
     .accesskey = l
@@ -586,7 +602,7 @@ update-in-progress-cancel-button = &Continuar
 
 performance-title = Desempenho
 performance-use-recommended-settings-checkbox =
-    .label = Utilizar definições de desempenho recomendadas
+    .label = Utilizar as definições de desempenho recomendadas
     .accesskey = U
 performance-use-recommended-settings-desc = Estas definições são ajustadas para o hardware e sistema operativo do seu computador.
 performance-settings-learn-more = Saber mais
@@ -635,6 +651,9 @@ browsing-search-on-start-typing =
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
     .label = Ativar os controlos de janela flutuante
+    .accesskey = f
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Continuar a reproduzir os vídeos em janelas flutuantes quando mudar de separadores
     .accesskey = f
 browsing-picture-in-picture-learn-more = Saber mais
 browsing-media-control =
@@ -835,8 +854,20 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Mostrar sugestões de pesquisa nos resultados da barra de endereço
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereço
+search-show-suggestions-private-windows-2 =
+    .label = Sugestões de pesquisa nas janelas privadas
 search-suggestions-cant-show-2 =
-    .message = Sugestões de pesquisa não serão apresentadas nos resultados da barra de localização porque configurou o { -brand-short-name } para nunca memorizar histórico.
+    .message = As sugestões de pesquisa não serão mostradas nos resultados da barra de localização porque configurou o { -brand-short-name } para nunca memorizar o histórico.
+addressbar-header-1 =
+    .label = Barra de endereço
+    .description = Escolha quais sugestões que aparecem na sua barra de endereço
 # When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
 addressbar-header-firefox-suggest-2 =
     .label = { -firefox-suggest-brand-name }
@@ -845,6 +876,13 @@ addressbar-header-firefox-suggest-2 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = Mostrar os termos de pesquisa na barra de endereço das páginas de resultados
+search-separate-default-engine-2 =
+    .label = Utilizar um motor de pesquisa predefinido diferente nas janelas privadas
+    .accesskey = U
+search-separate-default-engine-dropdown =
+    .aria-label = Motor de pesquisa predefinido nas janelas privadas
+search-suggestions-header-2 =
+    .label = Sugestões do motor de pesquisa
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
