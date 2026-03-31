@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = URL de l'imatge personalizat
 newtab-topsites-use-image-link = Utilizar un imatge personalizat…
 newtab-topsites-image-validation = L’imatge a pas capitat de se cargar. Ensajatz una URL diferenta.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anullar
@@ -87,6 +90,9 @@ newtab-confirm-delete-history-p2 = Impossible d'anullar aquesta accion.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Esponsorizat
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -123,6 +129,9 @@ newtab-menu-delete-pocket = Suprimir de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar dins { -pocket-brand-name }
 newtab-menu-show-privacy-info = Nòstres esponsòrs e vòstra vida privada
 newtab-menu-about-fakespot = A prepaus de { -fakespot-brand-name }
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -266,6 +275,8 @@ newtab-custom-shortcuts-subtitle = Los sites qu’enregistratz o consultatz
 newtab-custom-shortcuts-toggle =
     .label = Acorchis
     .description = Los sites qu’enregistratz o consultatz
+newtab-custom-shortcuts-nova =
+    .label = Acorchis
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -350,6 +361,12 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
+## Celestial
+
+
 ## New Tab Weather
 
 # Variables:
@@ -424,13 +441,35 @@ newtab-topic-selection-privacy-link = Descobrissètz cossí protegissèm e geris
 newtab-topic-selection-button-update-interests = Metre a jorn vòstres interèsses
 newtab-topic-selection-button-pick-interests = Causir vòstres interèsses
 
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Pas ara
 
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for download mobile highlight
+
+
 ## Strings for shortcuts highlight
 
 newtab-shortcuts-highlight-subtitle = Apondre un acorchi per gardar vòstres sites preferits a un clic.
+
+## Strings for reporting issues with ads and content
+
 
 ## Strings for task / to-do list productivity widget
 
@@ -441,6 +480,10 @@ newtab-widget-lists-menu-create = Crear una lista novèla
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Lista novèla
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
