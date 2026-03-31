@@ -31,9 +31,15 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Não, obrigado
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Escolha onde utiliza a VPN
+ipprotection-site-settings-callout-button = Percebi
 
 ## Panel
 
+unauthenticated-vpn-title = Experimente a VPN integrada do { -brand-product-name }
+unauthenticated-hide-location-message-2 = Oculte a sua localização enquanto navega no { -brand-product-name }.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+unauthenticated-bandwidth-limit-message = Obtenha { $maxUsage } GB de dados de VPN gratuitos todos os meses.
 unauthenticated-get-started = Começar
 site-exclusion-toggle-enabled-1 =
     .label = Utilizar a VPN para este site
@@ -87,3 +93,37 @@ ipprotection-connection-status-network-error-description = Ligue-se à Internet 
 ipprotection-message-bandwidth-warning =
     .heading = A chegar perto do limite da sua VPN
     .message = Tem { $usageLeft } GB de { $maxUsage } GB remanescentes neste mês.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = A chegar perto do limite da sua VPN
+    .message = Restam-lhe { $usageLeft } MB de { $maxUsage } GB este mês.
+ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar a sua localização e adicionar uma encriptação adicional à sua navegação.
+ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } irá memorizar quais os sites que configurou para utilizar a VPN. Atualize os mesmos, a qualquer momento, nas <a data-l10n-name="setting-link">definições</a>.
+confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativada para este site
+
+## IP Protection Settings
+
+ip-protection-description =
+    .label = VPN
+    .description = VPN incorporada para aumentar a sua privacidade enquanto navega no { -brand-short-name }.
+ip-protection-learn-more = Saber mais
+ip-protection-site-exceptions =
+    .label = Definições específicas do site
+ip-protection-not-opted-in-button = Começar
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .label = Gerir definições dos sites
+    .description =
+        { $count ->
+            [one] { $count } site
+           *[other] { $count } sites
+        }
+ip-protection-autostart =
+    .label = Ativar a VPN automaticamente
+ip-protection-autostart-checkbox =
+    .label = Quando eu abro o { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = Nas janelas privadas

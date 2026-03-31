@@ -33,7 +33,7 @@ about-private-browsing-focus-promo-text = A nossa app móvel dedicada a uma nave
 ## The following strings will be used for experiments in Fx99 and Fx100
 
 about-private-browsing-focus-promo-header-b = Leve a navegação privada para o seu telemóvel
-about-private-browsing-focus-promo-text-b = Use o { -focus-brand-name } para as pesquisas privadas que não deseja que o seu navegador principal para dispositivos móveis veja.
+about-private-browsing-focus-promo-text-b = Utilize o { -focus-brand-name } para essas pesquisas privadas que não deseja que o seu navegador móvel principal veja.
 about-private-browsing-focus-promo-header-c = Privacidade do próximo nível em dispositivos móveis
 about-private-browsing-focus-promo-text-c = O { -focus-brand-name } limpa o seu histórico todas as vezes enquanto bloqueia anúncios e rastreadores.
 # This string is the title for the banner for search engine selection

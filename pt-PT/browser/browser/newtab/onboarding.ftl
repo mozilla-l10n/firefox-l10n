@@ -531,6 +531,7 @@ restore-from-backup-secondary-button = Não restaurar
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-no-checklist-subtitle = Pode ativar a cópia de segurança para este dispositivo nas <a data-l10n-name="settings">Definições</a>.
 restored-from-backup-success-with-checklist-primary-button = Guardar e continuar
 restored-from-backup-success-with-checklist-secondary-button = Ignorar este passo
 restored-from-backup-success-no-checklist-primary-button = Continuar
@@ -550,3 +551,8 @@ onboarding-personalization-motivation-title = Quais são as funcionalidades do {
 onboarding-personalization-motivation-privacy-option = Privacidade e segurança
 onboarding-personalization-motivation-productivity-option = Produtividade
 onboarding-personalization-motivation-other-option = Outra
+
+## Onboarding 2026 brand refresh
+
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Otimize a sua navegação

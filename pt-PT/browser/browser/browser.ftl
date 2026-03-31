@@ -625,7 +625,7 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Microfone
 popup-select-speaker-icon =
-    .tooltiptext = Colunas
+    .tooltiptext = Altifalantes
 popup-select-window-or-screen =
     .label = Janela ou ecrã:
     .accesskey = J
@@ -1009,7 +1009,7 @@ urlbar-group-sponsored =
     .label = Patrocinado
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
-    .label = Não mostrar pesquisas em tendência
+    .label = Não mostrar pesquisas de tendência
     .accesskey = d
 urlbar-result-menu-trending-why =
     .label = Porque estou a ver isto?
@@ -1166,6 +1166,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Palavras-passe
     .tooltiptext = Ver e gerir as suas palavras-passe
+qrcode-panel-error =
+    .message = Falha ao gerar o código QR. Por favor, tente novamente.
+qrcode-copy-button =
+    .label = Copiar
+qrcode-copy-success =
+    .message = Código QR copiado para a área de transferência.
+qrcode-copy-error =
+    .message = Falha ao copiar o código QR.
+qrcode-save-button =
+    .label = Guardar
+qrcode-save-success =
+    .message = Código QR guardado.
+qrcode-save-error =
+    .message = Não foi possível guardar o código QR.
+qrcode-save-title = Guardar código QR
+qrcode-save-filter-png = Imagem PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = Código QR
+qrcode-dialog-title = Código QR
+qrcode-image =
+    .aria-label = Código QR
+qrcode-close-button =
+    .aria-label = Fechar
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1412,8 +1435,8 @@ popup-notification-addon-technical-and-interaction-checkbox =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] O { -brand-short-name } impediu este site de abrir janelas pop-up.
-       *[other] O { -brand-short-name } impediu este site de abrir { $popupCount } janelas pop-up.
+        [one] O { -brand-short-name } impediu este site de abrir janelas de pop-up.
+       *[other] O { -brand-short-name } impediu este site de abrir { $popupCount } janelas de pop-up.
     }
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
@@ -1428,8 +1451,7 @@ redirect-warning-with-popup-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message =
     { $popupCount ->
-        [one] O
-       *[other] { -brand-short-name } impediu este site de abrir mais de { $popupCount } janelas pop-up.
+       *[other] { -brand-short-name } impediu este site de abrir mais de { $popupCount } janelas de pop-up.
     }
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.

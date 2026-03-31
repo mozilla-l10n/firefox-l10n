@@ -691,6 +691,12 @@ newtab-widget-timer-menu-notifications = Desativar as notificações
 newtab-widget-timer-menu-notifications-on = Ativar as notificações
 newtab-widget-timer-menu-hide = Ocultar temporizador
 newtab-widget-timer-menu-learn-more = Saber mais
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Principais manchetes
+newtab-daily-briefing-card-menu-dismiss = Dispensar
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Atualizadas há { $minutes }m
 newtab-widget-message-title = Mantenha-se focado com as listas e um temporizador integrado
 newtab-promo-card-title = Apoiar o { -brand-product-name }
 newtab-promo-card-body = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
@@ -698,3 +704,23 @@ newtab-promo-card-cta = Saber mais
 newtab-promo-card-dismiss-button =
     .title = Dispensar
     .aria-label = Dispensar
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-dismiss-button =
+    .title = Dispensar
+    .aria-label = Dispensar
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Torne este espaço seu
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = Começar a personalizar
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Este espaço segue as suas regras
