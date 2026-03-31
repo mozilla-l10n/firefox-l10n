@@ -43,6 +43,10 @@ certificate-viewer-logid = Logg-ID
 certificate-viewer-method = Metode
 certificate-viewer-modulus = Modulus
 certificate-viewer-name = Namn
+certificate-viewer-surname = Etternamn
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Fornamn
 certificate-viewer-not-after = Ikkje etter
 certificate-viewer-not-before = Ikkje før
 certificate-viewer-organization = Organisasjon
