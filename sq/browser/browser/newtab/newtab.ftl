@@ -311,6 +311,8 @@ newtab-custom-shortcuts-subtitle = Sajte që ruani ose vizitoni
 newtab-custom-shortcuts-toggle =
     .label = Shkurtore
     .description = Sajte që ruani ose vizitoni
+newtab-custom-shortcuts-nova =
+    .label = Shkurtore
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

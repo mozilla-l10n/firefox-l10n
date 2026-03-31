@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = Sérsniðin myndslóð
 newtab-topsites-use-image-link = Nota sérsniðna mynd…
 newtab-topsites-image-validation = Ekki tókst að hlaða mynd. Prófið aðra vefslóð.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Hætta við
@@ -307,6 +310,8 @@ newtab-custom-shortcuts-subtitle = Vefsvæði sem þú vistar eða heimsækir
 newtab-custom-shortcuts-toggle =
     .label = Flýtileiðir
     .description = Vefsvæði sem þú vistar eða heimsækir
+newtab-custom-shortcuts-nova =
+    .label = Flýtileiðir
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -703,3 +708,9 @@ newtab-promo-card-cta = Fræðast meira
 newtab-promo-card-dismiss-button =
     .title = Afgreiða
     .aria-label = Afgreiða
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

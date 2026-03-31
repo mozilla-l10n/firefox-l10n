@@ -315,6 +315,8 @@ newtab-custom-shortcuts-subtitle = Sites you save or visit
 newtab-custom-shortcuts-toggle =
     .label = Shortcuts
     .description = Sites you save or visit
+newtab-custom-shortcuts-nova =
+    .label = Shortcuts
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

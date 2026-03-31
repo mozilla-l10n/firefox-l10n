@@ -311,6 +311,8 @@ newtab-custom-shortcuts-subtitle = Stránky, ktoré si uložíte alebo navštív
 newtab-custom-shortcuts-toggle =
     .label = Skratky
     .description = Stránky, ktoré si uložíte alebo navštívite
+newtab-custom-shortcuts-nova =
+    .label = Skratky
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

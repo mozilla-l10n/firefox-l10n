@@ -319,6 +319,8 @@ newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot
 newtab-custom-shortcuts-toggle =
     .label = Oikotiet
     .description = Tallentamasi tai vierailemasi sivustot
+newtab-custom-shortcuts-nova =
+    .label = Oikotiet
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

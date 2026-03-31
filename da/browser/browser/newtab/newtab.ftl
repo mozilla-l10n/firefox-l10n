@@ -316,6 +316,8 @@ newtab-custom-shortcuts-subtitle = Gemte eller besøgte websteder
 newtab-custom-shortcuts-toggle =
     .label = Genveje
     .description = Gemte eller besøgte websteder
+newtab-custom-shortcuts-nova =
+    .label = Genveje
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

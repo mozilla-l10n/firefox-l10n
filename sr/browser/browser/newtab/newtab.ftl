@@ -311,6 +311,8 @@ newtab-custom-shortcuts-subtitle = Сачувани или посећени са
 newtab-custom-shortcuts-toggle =
     .label = Пречице
     .description = Сачувани или посећени сајтови
+newtab-custom-shortcuts-nova =
+    .label = Пречице
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

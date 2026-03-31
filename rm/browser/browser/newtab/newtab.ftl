@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = URL dal maletg persunalisà
 newtab-topsites-use-image-link = Utilisar in maletg persunalisà…
 newtab-topsites-image-validation = Impussibel da chargiar il maletg. Emprova in auter URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Interrumper
@@ -307,6 +310,8 @@ newtab-custom-shortcuts-subtitle = Websites che ti memoriseschas u visitas
 newtab-custom-shortcuts-toggle =
     .label = Scursanidas
     .description = Websites che ti memoriseschas u visitas
+newtab-custom-shortcuts-nova =
+    .label = Scursanidas
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -714,3 +719,9 @@ newtab-promo-card-cta = Ulteriuras infurmaziuns
 newtab-promo-card-dismiss-button =
     .title = Serrar
     .aria-label = Serrar
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

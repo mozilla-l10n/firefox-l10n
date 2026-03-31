@@ -314,6 +314,8 @@ newtab-custom-shortcuts-subtitle = Gordetzen edo bisitatzen dituzun guneak
 newtab-custom-shortcuts-toggle =
     .label = Lasterbideak
     .description = Gordetzen edo bisitatzen dituzun guneak
+newtab-custom-shortcuts-nova =
+    .label = Lasterbideak
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

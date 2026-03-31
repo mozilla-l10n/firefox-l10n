@@ -315,6 +315,8 @@ newtab-custom-shortcuts-subtitle = 저장하거나 방문한 사이트
 newtab-custom-shortcuts-toggle =
     .label = 바로 가기
     .description = 저장하거나 방문한 사이트
+newtab-custom-shortcuts-nova =
+    .label = 바로 가기
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

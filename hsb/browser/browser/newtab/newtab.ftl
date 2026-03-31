@@ -315,6 +315,8 @@ newtab-custom-shortcuts-subtitle = Sydła, kotrež składujeće abo wopytujeće
 newtab-custom-shortcuts-toggle =
     .label = Zwjazanja
     .description = Sydła, kotrež składujeće abo wopytujeće
+newtab-custom-shortcuts-nova =
+    .label = Zwjazanja
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown

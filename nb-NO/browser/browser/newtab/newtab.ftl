@@ -314,6 +314,8 @@ newtab-custom-shortcuts-subtitle = Nettsteder du lagrer eller besøker
 newtab-custom-shortcuts-toggle =
     .label = Snarveier
     .description = Nettsteder du lagrer eller besøker
+newtab-custom-shortcuts-nova =
+    .label = Snarveier
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
