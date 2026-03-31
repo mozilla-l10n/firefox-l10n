@@ -317,6 +317,8 @@ newtab-custom-shortcuts-toggle =
     .description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
 newtab-custom-shortcuts-nova =
     .label = ทางลัด
+newtab-custom-row-description =
+    .description = จำนวนแถว
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -515,6 +517,12 @@ newtab-weather-opt-in-yes =
     .label = ใช่
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = นครนิวยอร์ก
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = สูง
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = ต่ำ
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -734,6 +742,12 @@ newtab-daily-briefing-card-timestamp = อัปเดตเมื่อ { $minu
 newtab-widget-message-title = มีสมาธิด้วยรายการสิ่งที่ต้องทำและตัวจับเวลาในตัว
 # to-dos stands for "things to do".
 newtab-widget-message-copy = ตั้งแต่เตือนความจำด่วน ๆ ไปจนถึงสิ่งที่ต้องทำในแต่ละวัน ช่วงเวลาโฟกัสไปจนถึงช่วงเวลาพัก ให้คุณอยู่กับงานและตรงเวลาเสมอ
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = แต่ง { -brand-product-name } ในแบบคุณ
+newtab-promo-card-body-addons = เลือกรูปพื้นหลังจากชุดสะสมของเรา หรือสร้างขึ้นมาเอง
+newtab-promo-card-cta-addons = ลองเลย
 newtab-promo-card-title = ร่วมสนับสนุน { -brand-product-name }
 newtab-promo-card-body = ผู้สนับสนุนของเราสนับสนุนภารกิจที่จะสร้างเว็บที่ดีขึ้น
 newtab-promo-card-cta = เรียนรู้เพิ่มเติม
