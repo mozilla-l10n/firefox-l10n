@@ -68,6 +68,7 @@ cfr-doorhanger-bookmark-fxa-link-text = Sincronizar marcadores agora...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botão de fecho
     .title = Fechar
+fxa-adoption-addresses-backup-title = Vamos efetuar uma cópia de segurança dos seus endereços guardados
 fxa-adoption-credit-cards-backup-title = Vamos efetuar uma cópia de segurança dos seus métodos de pagamento
 fxa-adoption-bookmarks-treatment-backup-title = Vamos efetuar uma cópia de segurança dos seus marcadores
 fxa-adoption-primary-button-label = Registar
@@ -296,6 +297,10 @@ tail-fox-spotlight-subtitle = Diga adeus aos rastreadores de anúncios irritante
 tail-fox-spotlight-primary-button = Abrir as minhas ligações com o { -brand-short-name }
 tail-fox-spotlight-secondary-button = Agora não
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-subtitle = Bem-vindo(a) de volta ao único grande navegador apoiado por uma organização sem fins lucrativos. Nós tomamos medidas adicionais para proteger os seus dados, onde quer que vá.
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>As versões mais antigas do { -brand-short-name } podem começar a ter problemas a 14 de janeiro de 2025.</strong>
@@ -365,6 +370,7 @@ windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 
 windows-10-eos-challenger-sync-primary-button = Efetuar cópia de segurança do { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = Efetuar cópia de segurança do { -brand-shorter-name } torna mais fácil trazer os seus dados e definições de privacidade consigo.
 windows-10-eos-sync-callout-privacy-info-button = Veja o que está bloqueado
 windows-10-eos-callout-addons-title = Experimente os extras: atualizações simples, grande impacto
 windows-10-eos-callout-addons-subtitle = Estas extensões foram selecionadas para ajudar a que possa manter a produtividade, a segurança e a evitar distrações.
@@ -395,3 +401,8 @@ etp-strict-exceptions-infobar-button = Aplicar correções
     .accesskey = A
 etp-strict-exceptions-infobar-not-now = Agora não
     .accesskey = n
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-primary-button = Definir como predefinição
+set-default-menu-message-primary-button-variant = Definir como navegador principal
