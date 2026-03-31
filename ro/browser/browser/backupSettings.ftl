@@ -19,6 +19,9 @@ backup-folder-name = Restabilește { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backup_{ -brand-product-name }
+settings-data-backup-header2 =
+    .label = Copie de siguranță
+    .description = Îți protejezi automat marcajele, istoricul și alte date.
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Gestionează backupurile
 settings-data-backup-toggle-on2 =
@@ -35,15 +38,28 @@ settings-data-backup-scheduled-backups-on = Backup: Activat
 settings-data-backup-scheduled-backups-off = Backup: Dezactivat
 settings-data-backup-scheduled-backups-description = Protejează-ți automat marcajele, istoricul și alte date. <a data-l10n-name="support-link">Află mai multe</a>
 settings-data-backup-last-backup-date = Ultimul backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Copiile de siguranță sunt ACTIVATE
+settings-data-backup-scheduled-backups-off2 =
+    .label = Copiile de siguranță sunt DEZACTIVATE
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Cale de salvare a copiilor de siguranță
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Locație
 settings-data-backup-last-backup-location-show-in-folder = Afișează în dosar
 settings-data-backup-last-backup-location-edit = Editează…
 settings-data-create-backup-error = A apărut o eroare la crearea backupului pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Fă copii de rezervă cu parolele și metodele de plată și păstrează-ți toate datele în siguranță prin criptare.
+settings-data-toggle-encryption-label2 =
+    .label = Fă-ți copii de rezervă cu datele sensibile
+    .description = Fă-ți copii de rezervă cu parolele și metodele de plată; în plus, îți păstrezi toate datele în siguranță prin criptare.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Denumire fișier: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaurează-ți dattele
+    .description = Recuperează-ți datele { -brand-product-name } din ultima copie de rezervă.
 settings-data-backup-restore-header = Restabilește datele
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -53,7 +69,7 @@ settings-data-backup-scheduled-backups-off-restore-choose = Alege un fișier de 
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recuperează-ți datele { -brand-product-name } de la ultima copie de rezervă.
+settings-data-backup-scheduled-backups-on-restore-description = Recuperează-ți datele { -brand-product-name } din ultima copie de rezervă.
 settings-data-backup-scheduled-backups-on-restore-choose = Restabilește…
 settings-data-toggle-encryption-label = Fă o copie de rezervă cu datele tale sensibile
 settings-data-toggle-encryption-support-link = Află mai multe
