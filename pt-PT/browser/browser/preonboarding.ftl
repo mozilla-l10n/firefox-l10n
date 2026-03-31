@@ -10,7 +10,7 @@ preonboarding-subtitle = Ao continuar, concorda com os Termos de utilização e 
 preonboarding-primary-cta = Confirmar e continuar
 preonboarding-primary-cta-v2 = Continuar
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
-preonboarding-manage-and-read-header = Gerir as definições de recolha de dados e consultar os nossos Termos de Utilização e Informação de de Privacidade
+preonboarding-manage-and-read-header = Gerir as definições de recolha de dados e ler os nossos Termos de Utilização e Informação de Privacidade
 preonboarding-manage-and-read-header-v2 = Leia os Termos de Utilização e a Informação de Privacidade. Faça a gestão de definições adicionais.
 # Label for header style button that toggles showing the Terms of Use
 preonboarding-terms-of-use-header-button-title = Ler os nossos Termos de Utilização

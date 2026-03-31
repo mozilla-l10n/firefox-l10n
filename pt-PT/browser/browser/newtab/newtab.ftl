@@ -23,6 +23,9 @@ newtab-personalize-dialog-label =
     .aria-label = Personalizar
 newtab-logo-and-wordmark =
     .aria-label = { -brand-full-name }
+newtab-card-dismiss-button =
+    .title = Dispensar
+    .aria-label = Dispensar
 
 ## Search box component.
 
@@ -69,6 +72,11 @@ newtab-topsites-url-validation = URL válido requerido
 newtab-topsites-image-url-label = URL de imagem personalizada
 newtab-topsites-use-image-link = Utilizar uma imagem personalizada…
 newtab-topsites-image-validation = A imagem falhou o carregamento. Tente um URL diferente.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Limpar texto
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -351,6 +359,8 @@ newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
 newtab-widget-manage-title = Widgets
+newtab-widget-manage-widget-button =
+    .label = Gerir widgets
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = Fechar
@@ -369,6 +379,7 @@ newtab-wallpaper-toggle-title =
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A imagem excedeu o limite de tamanho de ficheiro de { $file_size } MB. Tente enviar um ficheiro mais pequeno.
+newtab-wallpaper-error-upload-file-type = Não foi possível enviar o seu ficheiro. Tente novamente com um ficheiro de imagem.
 newtab-wallpaper-error-file-type = Não foi possível carregar o seu ficheiro. Tente novamente com outro tipo de ficheiro diferente.
 newtab-wallpaper-light-red-panda = Panda vermelho
 newtab-wallpaper-light-mountain = Montanha Branca
@@ -448,6 +459,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -475,6 +490,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = Pesquisar localização
     .aria-label = Pesquisar localização
 newtab-weather-menu-weather-display = Apresentação da meteorologia
+newtab-weather-todays-forecast = Previsão de hoje
+newtab-weather-see-full-forecast = Ver a previsão completa
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -487,6 +504,7 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Alterar para Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Alterar para Celsius
+newtab-weather-menu-hide-weather-v2 = Ocultar meteorologia
 newtab-weather-menu-hide-weather = Ocultar a meteorologia no novo separador
 newtab-weather-menu-learn-more = Saber mais
 newtab-weather-menu-detect-my-location = Detetar a minha localização
@@ -626,10 +644,15 @@ newtab-report-content-inappropriate-offensive =
     .label = Inapropriado ou ofensivo
 newtab-report-content-spam-misleading =
     .label = Lixo eletrónico ou enganador
+newtab-report-content-requires-payment-subscription =
+    .label = Requer pagamento ou subscrição
+newtab-report-content-requires-payment-subscription-learn-more = Saber mais
 newtab-report-cancel = Cancelar
 newtab-report-submit = Submeter
 newtab-toast-thanks-for-reporting =
     .message = Obrigado por reportar isto.
+newtab-toast-widgets-hidden =
+    .message = Selecione o ícone do lápis para voltar a adicionar widgets a qualquer momento.
 
 ## Strings for task / to-do list productivity widget
 
@@ -669,6 +692,19 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova lista
+newtab-widget-section-title = Widgets
+newtab-widget-menu-hide = Ocultar widget
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = Ocultar widgets
+    .aria-label = Ocultar todos os widgets
+newtab-widget-section-maximize =
+    .title = Expandir widgets
+    .aria-label = Expandir todos os widgets para o tamanho completo
+newtab-widget-section-minimize =
+    .title = Minimizar widgets
+    .aria-label = Colapsar todos os widgets para tamanho compacto
+newtab-widget-section-feedback = Dê-nos a sua opinião
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

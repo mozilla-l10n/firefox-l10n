@@ -15,6 +15,8 @@ unified-extensions-discover-extensions =
     .label = Descobrir extensões
 unified-extensions-empty-reason-private-browsing-not-allowed = Tem extensões instaladas, mas não ativadas, nas janelas privadas
 unified-extensions-empty-reason-extension-not-enabled = Tem extensões instaladas, mas não ativadas
+unified-extensions-empty-content-explain-enable2 = Selecione “{ unified-extensions-manage-extensions.label }” para as ativar nas definições.
+unified-extensions-empty-content-explain-manage2 = Selecione “{ unified-extensions-manage-extensions.label }” para gerir as mesmas nas definições.
 
 ## An extension in the main list
 
@@ -57,6 +59,13 @@ unified-extensions-mb-quarantined-domain-learn-more = Saber mais
 unified-extensions-mb-about-addons-link = Ir para as definições da extensão
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = Extensão { $extensionName } desativada
+    .message =
+        Esta extensão está restrita e foi desativada.
+        Pode ativá-la nas definições, mas pode ser arriscado.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = Extensão { $extensionName } desativada
     .message =
@@ -67,6 +76,16 @@ unified-extensions-mb-blocklist-warning-single =
 unified-extensions-mb-blocklist-error-single =
     .heading = Extensão { $extensionName } desativada
     .message = Esta extensão viola as políticas da Mozilla e foi desativada.
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
+unified-extensions-mb-blocklist-warning-multiple2 =
+    .heading =
+        { $extensionsCount ->
+           *[other] { $extensionsCount } extensões desativadas
+        }
+    .message =
+        Algumas das suas extensões estão restritas e foram desativadas.
+        Pode ativá-las nas definições, mas pode ser arriscado.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)
 unified-extensions-mb-blocklist-warning-multiple =

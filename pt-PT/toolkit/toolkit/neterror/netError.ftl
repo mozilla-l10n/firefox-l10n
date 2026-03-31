@@ -166,3 +166,9 @@ certerror-coep-learn-more = Saber mais sobre as Cross Origin Embedder Policies (
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Código de erro: { $responsestatus } { $responsestatustext }
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = Por vezes os sites configuram proteções para si próprios contra interações indesejadas com outros sites.

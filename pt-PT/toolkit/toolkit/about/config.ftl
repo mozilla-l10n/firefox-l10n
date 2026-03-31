@@ -7,7 +7,7 @@
 
 about-config-intro-warning-title = Prosseguir com cuidado
 about-config-intro-warning-text = Alterar as preferências avançadas de configuração pode interferir com o desempenho ou segurança do { -brand-short-name }.
-about-config-intro-warning-checkbox = Avisar quando eu tento aceder a estas preferências
+about-config-intro-warning-checkbox = Avisar-me quando eu tento aceder a estas preferências
 about-config-intro-warning-button = Aceitar o risco e continuar
 
 ##

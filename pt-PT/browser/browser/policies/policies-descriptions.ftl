@@ -21,6 +21,7 @@ policy-AutofillAddressEnabled = Ativar o preenchimento automático para endereç
 policy-AutofillCreditCardEnabled = Ativar o preenchimento automático para métodos de pagamento.
 policy-AutoLaunchProtocolsFromOrigins = Define uma lista de protocolos externos que podem ser utilizados a partir de origens listadas, sem avisar o utilizador.
 policy-BackgroundAppUpdate2 = Ativar ou desativar o serviço de atualização em segundo plano.
+policy-Backup = Desativar a cópia de segurança ou o restauro dos dados de perfil.
 policy-BlockAboutAddons = Bloquear acesso ao Gestor de extras (about:addons).
 policy-BlockAboutConfig = Bloquear acesso  à página about:config.
 policy-BlockAboutProfiles = Bloquear acesso  à página about:profiles.
@@ -79,6 +80,7 @@ policy-ExtensionSettings = Gerir todos os aspetos de instalação de extensões.
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
 policy-FirefoxHome2 = Configurar o { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Configurar o { -firefox-suggest-brand-name }
+policy-GenerativeAI = Configurar funcionalidades generativas de IA.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Força a navegação direta no site da intranet em vez de pesquisar ao digitar entradas de uma única palavra na barra de endereço.
 policy-Handlers = Configurar as aplicações operadoras predefinidas.
 policy-HardwareAcceleration = Se falso, desligar aceleração de hardware.
@@ -97,6 +99,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reverta para o comport
 ##
 
 policy-LocalFileLinks = Permitir que determinados sites estabeleçam ligações a ficheiros locais.
+policy-LocalNetworkAccess = Ativar ou desativar as verificações de acesso à rede local.
 policy-ManagedBookmarks = Configura uma lista de marcadores geridos por um administrador que não podem ser alterados pelo utilizador.
 policy-ManualAppUpdateOnly = Permitir apenas atualizações manuais e não notificar o utilizador sobre atualizações.
 policy-PrimaryPassword = Exigir ou impedir a utilização de uma palavra-passe principal.
@@ -117,6 +120,7 @@ policy-PostQuantumKeyAgreementEnabled = Ativar o acordo de chaves pós-quântico
 policy-PDFjs = Desativar ou configurar o PDF.js, o visualizador integrado de PDF do { -brand-short-name }.
 policy-Permissions2 = Configurar as permissões para a câmara, microfone, localização, notificações e reprodução automática.
 policy-PictureInPicture = Ativar ou desativar a janela flutuante.
+policy-PopupBlocking2 = Permitir que determinados sites mostrem popups e sejam redirecionados por molduras de terceiros.
 policy-PopupBlocking = Permitir que determinados sites mostrem pop-ups por predefinição.
 policy-Preferences = Definir e bloquear o valor para um subconjunto de preferências.
 policy-PrivateBrowsingModeAvailability = Definir a disponibilidade do modo de navegação privada.
@@ -130,6 +134,7 @@ policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Adicionar ou eliminar os módulos PKCS #11.
 policy-ShowHomeButton = Mostrar o botão início na barra de ferramentas.
+policy-SitePolicies = Políticas específicas do site.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Não mostrar os Termos de utilização e a Informação de privacidade após o arranque. Declara que aceita e tem autoridade para aceitar os Termos de utilização em nome de todos os indivíduos a quem permite o acesso a este navegador.
 policy-SSLVersionMax = Definir a versão máxima de SSL.
@@ -139,6 +144,7 @@ policy-SupportMenu = Adicionar um item de menu de suporte personalizado ao menu 
 policy-TranslateEnabled = Ativar ou desativar a tradução de páginas.
 policy-UserMessaging = Não mostrar determinadas mensagens ao utilizador.
 policy-UseSystemPrintDialog = Imprimir utilizando a janela de impressão do sistema.
+policy-VisualSearchEnabled = Ativar ou desativar a pesquisa visual.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Impedir que sites sejam visitados. Consulte a documentação para mais detalhes sobre o formato.
 policy-Windows10SSO = Permitir a autenticação única para contas da Microsoft, trabalho e escola.

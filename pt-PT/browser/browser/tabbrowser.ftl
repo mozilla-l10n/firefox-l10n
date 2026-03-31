@@ -152,7 +152,7 @@ tabbrowser-confirm-open-multiple-tabs-message =
        *[other] Vai abrir { $tabCount } separadores. Isto pode tornar o { -brand-short-name } lento enquanto as páginas carregam. Tem a certeza que pretende continuar?
     }
 tabbrowser-confirm-open-multiple-tabs-button = Abrir separadores
-tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar-me quando abrir múltiplos separadores poderá tornar o { -brand-short-name } lento
+tabbrowser-confirm-open-multiple-tabs-checkbox = Avisar-me quando abrir vários separadores pode abrandar o { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 
@@ -353,6 +353,3 @@ tab-note-panel-add-note-new-badge =
 ## Split View
 
 tab-context-badge-new = Nova
-
-## Manage Split View (icon in the address bar & three-dot menu in the footer)
-

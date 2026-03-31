@@ -16,3 +16,4 @@ unexpected-script-load-message-button-block =
     .accesskey = B
 unexpected-script-load-more-info = Mais informação
 unexpected-script-load-learn-more = Saber mais
+unexpected-script-load-telemetry-disabled = O reporte está desativado porque a Telemetria está desativada nas Definições. Ative a Telemetria para Reportar.

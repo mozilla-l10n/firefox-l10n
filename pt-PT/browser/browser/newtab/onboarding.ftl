@@ -556,3 +556,8 @@ onboarding-personalization-motivation-other-option = Outra
 
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Otimize a sua navegação
+onboarding-refresh-sync-subtitle = Obtenha marcadores, palavras-passe e muito mais, em todos os lugares em que estiver autenticado no { -brand-short-name }. Além disso, os seus dados são encriptados para que apenas você os possa ver.
+onboarding-refresh-sync-title = Vá para qualquer lugar. Sincronize tudo.
+onboarding-refresh-gratitude-subtitle = Obrigado por utilizar o { -brand-short-name }, o único grande navegador apoiado por uma organização sem fins lucrativos. Com o seu apoio, nós estamos a trabalhar para tornar a Internet mais segura e acessível para todos.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = O { -brand-short-name } está aqui para si

@@ -145,7 +145,7 @@ webrtc-allow-share-microphone = Permitir que { $origin } utilize o seu microfone
 webrtc-allow-share-screen = Permitir que { $origin } veja o seu ecrã?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker = Permitir que { $origin } utilize outras colunas?
+webrtc-allow-share-speaker = Permitir que { $origin } utilize outros altifalantes?
 webrtc-allow-share-camera-and-microphone = Permitir que { $origin } utilize a sua câmara e microfone?
 webrtc-allow-share-camera-and-audio-capture = Permitir que { $origin } utilize a sua câmara e ouça o áudio deste separador?
 webrtc-allow-share-screen-and-microphone = Permitir que { $origin } utilize o seu microfone e veja o seu ecrã?
@@ -175,7 +175,7 @@ webrtc-allow-share-microphone-unsafe-delegation = Permitir que { $origin } forne
 webrtc-allow-share-screen-unsafe-delegation = Permitir que { $origin } forneça acesso para ver o seu ecrã a { $thirdParty }?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = Permitir que { $origin } forneça acesso a outras colunas a { $thirdParty }?
+webrtc-allow-share-speaker-unsafe-delegation = Permitir que { $origin } dê a { $thirdParty } acesso a outros altifalantes?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Permitir que { $origin } forneça acesso à sua câmara e ao seu microfone a { $thirdParty }?
 webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Permitir que { $origin } forneça acesso à sua câmara e ouvir o áudio deste separador a { $thirdParty }?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Permite que { $origin } forneça acesso ao seu microfone e a visualizar o seu ecrã a { $thirdParty }?
