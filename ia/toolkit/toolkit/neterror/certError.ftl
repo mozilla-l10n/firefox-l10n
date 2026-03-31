@@ -85,9 +85,9 @@ fp-certerror-revoked-what-can-you-do-body = Probabilemente nihil, pois que il es
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
-fp-certerror-bad-domain-why-dangerous-body = Le sito es configurate pro permitter solo connexiones secur, ma il ha un problema con le certificato de sito. Il es possibile que un malfactor tenta finger se le sito. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. { -brand-short-name } non se fide de iste sito perque su certificato non es valide pro { $hostname }. Le certificato es solo valide pro: { $validHosts }.
+fp-certerror-bad-domain-why-dangerous-body = Le sito es configurate pro permitter solmente connexiones secur, ma il ha un problema con le certificato del sito. Es possibile que un malfactor tenta usurpar le identitate del sito. Sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos pretende esser. { -brand-short-name } non se fide a iste sito perque su certificato non es valide pro { $hostname }. Le certificato es solmente valide pro: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-bad-domain-what-can-you-do-body = Probabilemente nihil, pois que il es probabile que il ha un problema con le sito mesme. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos dice esser. Ma si tu es sur un rete corporative, tu equipa de assistentia pote haber altere informationes. Si tu usa software antivirus, prova cercar pro conflictos potential o problemas note.
+fp-certerror-bad-domain-what-can-you-do-body = Probabilemente nihil, pois que il es probabile que il ha un problema con le sito mesme. Le sitos usa certificatos emittite per un autoritate de certification pro provar que illos es realmente lo que illos pretende esser. Ma si tu es sur un rete corporative, tu equipa de assistentia pote haber plus informationes. Si tu usa software antivirus, prova cercar conflictos potential o problemas cognoscite.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -213,7 +213,7 @@ fp-certerror-page-title = ATTENTION: Risco de securitate
 fp-certerror-body-title = Attention! Alco non pare correcte.
 fp-certerror-illustration-alt =
     .alt = Illustration de un vulpe reguardante un indicator de aviso orange.
-fp-certerror-why-site-dangerous = Que rende le sito parer periculose?
+fp-certerror-why-site-dangerous = Que face le sito parer periculose?
 fp-certerror-what-can-you-do = Que pote tu facer concernente isto?
 fp-certerror-advanced-title = Avantiate
 fp-certerror-advanced-button = Avantiate
@@ -223,7 +223,7 @@ fp-certerror-hide-advanced-button = Celar avantiate
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Continuar a { $hostname } (Riscose)
-fp-certerror-intro = { -brand-short-name } individuava un problema de securitate potentialmente serie con <strong>{ $hostname }</strong>. Alcuno que finge de esser le sito poterea tentar de robar cosas como info carta de credito, contrasignos, o emails.
+fp-certerror-intro = { -brand-short-name } ha detegite un problema de securitate potentialmente grave con <strong>{ $hostname }</strong>. Alcuno que finge esser le sito poterea tentar robar cosas como informationes de carta de credito, contrasignos, o adresses de e-mail.
 fp-certerror-expired-into = { -brand-short-name } individuava un problema de securitate con <strong>{ $hostname }</strong>. O le sito non es implementate correctemente o le horologio de tu apparato es regulate al data/tempore errate.
 fp-certerror-transparency-intro = Alcuno que finge de esser <strong>{ $hostname }</strong> poterea tentar de robar cosas como informationes de carta de credito, contrasignos, o emails.
 fp-certerror-override-exception-button-2 = Continuar a { $hostname } (Riscose)
