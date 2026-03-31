@@ -43,6 +43,10 @@ certificate-viewer-logid = Protokolowy ID
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modul
 certificate-viewer-name = Mjeno
+certificate-viewer-surname = Swójbne mjeno
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Date mjeno
 certificate-viewer-not-after = Nic po
 certificate-viewer-not-before = Nic před
 certificate-viewer-organization = Organizacija
