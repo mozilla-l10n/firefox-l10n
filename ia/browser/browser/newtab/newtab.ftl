@@ -311,6 +311,8 @@ newtab-custom-shortcuts-subtitle = Sitos que tu salva o visita
 newtab-custom-shortcuts-toggle =
     .label = Accessos directe
     .description = Sitos que tu salva o visita
+newtab-custom-shortcuts-nova =
+    .label = Accessos directe
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
