@@ -311,6 +311,8 @@ newtab-custom-shortcuts-subtitle = Retejoj konservitaj aŭ vizititaj de vi
 newtab-custom-shortcuts-toggle =
     .label = Ŝparvojoj
     .description = Retejoj konservitaj aŭ vizititaj de vi
+newtab-custom-shortcuts-nova =
+    .label = Ŝparvojoj
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
