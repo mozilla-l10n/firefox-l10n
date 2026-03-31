@@ -282,6 +282,22 @@ tab-context-move-tab-to-group =
            *[other] Հավելել ներդիրները խմբում
         }
     .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Ավելացնել տրոհված տեսք նոր խմբին
+            [one] Ավելացնել տրոհված տեսքեր նոր խմբին
+           *[other] Ավելացնել տրոհված տեսքեր նոր խմբին
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Ավելացնել տրոհված տեսք խմբին
+            [one] Ավելացնել տրոհված տեսք խմբերին
+           *[other] Ավելացնել տրոհված տեսք խմբերին
+        }
+    .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
     .label = Փակված խմբեր
 tab-group-editor-action-new-tab =
@@ -359,6 +375,10 @@ tab-note-panel-add-note-new-badge =
 
 ## Split View
 
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Ավելացնել տրոհված տեսք
+    .accesskey = t
 tab-context-badge-new = Նոր
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
