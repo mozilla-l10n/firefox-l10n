@@ -290,7 +290,7 @@ tab-context-move-split-view-to-new-group =
         { $splitViewCount ->
             [1] Geteilte Ansicht zu neuer Gruppe hinzufügen
             [one] Geteilte Ansicht zu neuer Gruppe hinzufügen
-           *[other] Geteilte Ansicht zu neuer Gruppe hinzufügen
+           *[other] Geteilte Ansichten zu neuer Gruppe hinzufügen
         }
     .accesskey = G
 tab-context-move-split-view-to-group =
@@ -298,7 +298,7 @@ tab-context-move-split-view-to-group =
         { $splitViewCount ->
             [1] Geteilte Ansicht zu Gruppe hinzufügen
             [one] Geteilte Ansicht zu Gruppe hinzufügen
-           *[other] Geteilte Ansicht zu Gruppe hinzufügen
+           *[other] Geteilte Ansichten zu Gruppe hinzufügen
         }
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
