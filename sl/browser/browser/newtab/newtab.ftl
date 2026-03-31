@@ -314,6 +314,8 @@ newtab-custom-shortcuts-subtitle = Strani, ki jih shranite ali obiščete
 newtab-custom-shortcuts-toggle =
     .label = Bližnjice
     .description = Strani, ki jih shranite ali obiščete
+newtab-custom-shortcuts-nova =
+    .label = Bližnjice
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
