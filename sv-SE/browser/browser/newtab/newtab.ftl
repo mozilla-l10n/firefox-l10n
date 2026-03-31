@@ -317,6 +317,8 @@ newtab-custom-shortcuts-toggle =
     .description = Webbplatser du sparar eller besöker
 newtab-custom-shortcuts-nova =
     .label = Genvägar
+newtab-custom-row-description =
+    .description = Antal rader
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -517,6 +519,12 @@ newtab-weather-opt-in-yes =
     .label = Ja
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Hög
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Låg
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
