@@ -43,6 +43,10 @@ certificate-viewer-logid = ID log
 certificate-viewer-method = Methodo
 certificate-viewer-modulus = Modulo
 certificate-viewer-name = Nomine
+certificate-viewer-surname = Nomine de familia
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Nomine date
 certificate-viewer-not-after = Non post
 certificate-viewer-not-before = Non ante
 certificate-viewer-organization = Organisation
