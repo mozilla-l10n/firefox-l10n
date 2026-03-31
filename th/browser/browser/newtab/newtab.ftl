@@ -315,6 +315,8 @@ newtab-custom-shortcuts-subtitle = ไซต์ที่คุณบันทึ
 newtab-custom-shortcuts-toggle =
     .label = ทางลัด
     .description = ไซต์ที่คุณบันทึกหรือเยี่ยมชม
+newtab-custom-shortcuts-nova =
+    .label = ทางลัด
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
