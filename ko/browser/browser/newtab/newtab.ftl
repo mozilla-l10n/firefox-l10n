@@ -317,6 +317,8 @@ newtab-custom-shortcuts-toggle =
     .description = 저장하거나 방문한 사이트
 newtab-custom-shortcuts-nova =
     .label = 바로 가기
+newtab-custom-row-description =
+    .description = 행 수
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -515,6 +517,12 @@ newtab-weather-opt-in-yes =
     .label = 예
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 뉴욕
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = 높음
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = 낮음
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =

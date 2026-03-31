@@ -43,6 +43,10 @@ certificate-viewer-logid = 로그 ID
 certificate-viewer-method = 메소드
 certificate-viewer-modulus = 계수
 certificate-viewer-name = 이름
+certificate-viewer-surname = 성
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = 이름
 certificate-viewer-not-after = 이 시각 이후에는 없음
 certificate-viewer-not-before = 이 시각 이전에는 없음
 certificate-viewer-organization = 조직

@@ -43,6 +43,10 @@ certificate-viewer-logid = Naplóazonosító
 certificate-viewer-method = Módszer
 certificate-viewer-modulus = Modulus
 certificate-viewer-name = Név
+certificate-viewer-surname = Vezetéknév
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Utónév
 certificate-viewer-not-after = Vége
 certificate-viewer-not-before = Kezdete
 certificate-viewer-organization = Szervezet

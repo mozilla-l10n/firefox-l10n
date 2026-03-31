@@ -26,6 +26,7 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetlenül a böngészőben
 ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
+ipprotection-feature-introduction-description-private-browsing = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még privát ablakban is.
 ipprotection-feature-introduction-description-captive-portal = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még nyilvános Wi-Fi-n is.
 ipprotection-feature-introduction-button-primary = Tovább
 ipprotection-feature-introduction-button-secondary-not-now = Most nem
