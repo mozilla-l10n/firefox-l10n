@@ -315,6 +315,8 @@ newtab-custom-shortcuts-subtitle = Các trang web bạn lưu hoặc truy cập
 newtab-custom-shortcuts-toggle =
     .label = Lối tắt
     .description = Các trang web bạn lưu hoặc truy cập
+newtab-custom-shortcuts-nova =
+    .label = Lối tắt
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
