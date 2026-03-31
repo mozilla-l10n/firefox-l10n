@@ -313,6 +313,8 @@ newtab-custom-shortcuts-toggle =
     .description = 您儲存或造訪過的網站
 newtab-custom-shortcuts-nova =
     .label = 捷徑
+newtab-custom-row-description =
+    .description = 資料列數
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -513,6 +515,12 @@ newtab-weather-opt-in-yes =
     .label = 好的
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 紐約市
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = 高溫
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = 低溫
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
