@@ -315,6 +315,8 @@ newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek
 newtab-custom-shortcuts-toggle =
     .label = Gyorskeresők
     .description = Mentett vagy felkeresett webhelyek
+newtab-custom-shortcuts-nova =
+    .label = Gyorskeresők
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
