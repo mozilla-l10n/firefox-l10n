@@ -43,6 +43,10 @@ certificate-viewer-logid = ID ñemboguapy
 certificate-viewer-method = Tapereko
 certificate-viewer-modulus = Ha’ãha
 certificate-viewer-name = Téra
+certificate-viewer-surname = Terajoapy
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Nde reraite
 certificate-viewer-not-after = Ani uperire
 certificate-viewer-not-before = Ani upemboyve
 certificate-viewer-organization = Atyguasu

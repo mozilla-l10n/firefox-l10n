@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nd
 
 neterror-file-not-found-filename = Ehechajey marandurenda réra ndoguerekoiha jejavy ijehaípe, avei taiguasu ojeporukuévo.
 neterror-file-not-found-moved = Ehechajey pe marandurenda noñemongu’éipa, oñembohéra ambue térã ñemboguepyréva.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } ndaikatúi ojuhu pe marandurenda <strong>{ $path }</strong>. Ndaipóri térã pe tape ndoikoporãi.
 neterror-access-denied = Ikatúmakuri oñemboguete, oñemongu’e térã marandurenda ñemoneĩ ikatu omboyke pe jeike.
 neterror-unknown-protocol = Ikatu eikotevẽ emohenda ambue software eike hag̃ua ko kundaharapépe.
 neterror-redirect-loop = Ko apañuái oikokuaa reipe’a térã neremoneĩriramo kookie ñeg̃uahẽ.
@@ -186,6 +189,8 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } ndaikatúi omoheñói jeike hekorosãva { $hostname } mba’e’oka ndive.
 fp-neterror-offline-intro = { -brand-short-name } ndoikekuaái mba’e’okápe <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Pe mohendahavusu <strong>{ $hostname }</strong> imbegue ombohovái hag̃ua.
+fp-neterror-coop-coep-intro = { -brand-short-name } nomyanyhẽi ko kuatiarogue ha’etére pe ñemboheko rekorosãrã ndojokupytýiva kuatiarogue oĩva’ekue rehe.
 fp-neterror-http-auth-disabled-intro = Peteĩva ohasáva pe tenda rekovia ikatuhína omonda nde poruhára réra, ñe’ẽñemi térã ñanduti veve.
 fp-neterror-http-auth-disabled-secure-connection = Ko tenda oikotevẽ jeikerã hekorosãva ha ndaikatúi embojoapy oĩ’ỹva eikekuaa hag̃ua.
 fp-neterror-why-did-this-happen = ¿Mba’ére oiko ko’ãva?
