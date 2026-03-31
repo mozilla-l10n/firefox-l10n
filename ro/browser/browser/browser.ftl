@@ -568,6 +568,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurează jos
 browser-window-close-button =
     .tooltiptext = Închide
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Înapoi
 
 ## Tab actions
 
@@ -1170,6 +1173,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Parole
     .tooltiptext = Vezi și gestionează parolele salvate
+qrcode-panel-error =
+    .message = Nu s-a putut genera codul QR. Te rugăm să încerci din nou.
+qrcode-copy-button =
+    .label = Copiază
+qrcode-copy-success =
+    .message = Cod QR copiat în clipboard.
+qrcode-copy-error =
+    .message = Copierea codului QR a eșuat.
+qrcode-save-button =
+    .label = Salvează
+qrcode-save-success =
+    .message = Cod QR salvat.
+qrcode-save-error =
+    .message = Salvarea codului QR a eșuat.
+qrcode-save-title = Salvează codul QR
+qrcode-save-filter-png = Imagine PNG
+qrcode-save-filename = qrcode.png
+qrcode-window-title = Cod QR
+qrcode-dialog-title = Cod QR
+qrcode-image =
+    .aria-label = Cod QR
+qrcode-close-button =
+    .aria-label = Închide
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1188,6 +1214,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Fereastră privată nouă
     .tooltiptext = Deschide o fereastră nouă de navigare privată ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Partajează
+    .tooltiptext = Partajează pagina
 
 ## EME notification panel
 
@@ -1207,6 +1236,16 @@ panel-save-update-password = Parolă
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mai multe…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copiază linkul
+            [few] Copiază { $count } linkuri
+           *[other] Copiază { $count } de linkuri
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Copiază linkul
     .accesskey = L

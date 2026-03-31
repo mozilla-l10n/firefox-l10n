@@ -36,6 +36,10 @@ certificate-viewer-log-name = שם הרישום
 certificate-viewer-logid = מזהה רישום
 certificate-viewer-method = שיטה
 certificate-viewer-name = שם
+certificate-viewer-surname = שם משפחה
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = שם פרטי
 certificate-viewer-not-after = לא אחרי
 certificate-viewer-not-before = לא לפני
 certificate-viewer-organization = ארגון

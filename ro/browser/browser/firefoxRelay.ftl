@@ -18,6 +18,23 @@ firefox-relay-must-login-to-account = Intră în cont ca să folosești măștil
 firefox-relay-get-unlimited-masks =
     .label = Gestionează măștile
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Ți-ai folosit { $count } mască gratuită de e-mail
+        [few] Ți-ai folosit toate cele { $count } măști gratuite de e-mail
+       *[other] Ți-ai folosit toate cele { $count } de măști gratuite de e-mail
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Poți reutiliza una sau poți vedea toate măștile pentru a alege una diferită.
+firefox-relay-reuse-masks-select-label = Selectează o mască recentă
+firefox-relay-see-all-masks =
+    .label = Afișează toate măștile
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = Ignoră
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protejează-ți adresa de e-mail:
 firefox-relay-opt-in-title-2 = Obține o mască de e-mail gratuită

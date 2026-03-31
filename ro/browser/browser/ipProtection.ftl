@@ -24,6 +24,10 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Îți prezentăm VPN-ul, acum direct în browser
+ipprotection-feature-introduction-link-text-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
+ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
+ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
 ipprotection-feature-introduction-button-primary = Înainte
 ipprotection-feature-introduction-button-secondary-not-now = Nu acum
 ipprotection-feature-introduction-button-secondary-no-thanks = Nu, mulțumesc
@@ -37,6 +41,8 @@ ipprotection-site-settings-callout-button = Am înțeles
 ## Panel
 
 unauthenticated-vpn-title = Încearcă VPN-ul încorporat { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ascunde-ți locația</a> când navighezi cu{ -brand-product-name }.
+unauthenticated-hide-location-message-2 = Ascunde-ți locația când navighezi cu { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obține { $maxUsage } GB de date gratuit pentru VPN  în fiecare lună.
@@ -85,14 +91,23 @@ upgrade-vpn-button = Încearcă { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Nu s-a putut conecta la VPN
 ipprotection-connection-status-generic-error-description = Încearcă din nou în câteva minute.
+ipprotection-connection-status-generic-error-try-again = Te rugăm să încerci mai târziu.
 ipprotection-connection-status-network-error-title = Verifică conexiunea la internet
 ipprotection-connection-status-network-error-description = Conectează-te la internet, apoi încearcă să activezi VPN-ul.
+ipprotection-connection-status-blocked-error-title = VPN-ul este indisponibil
+ipprotection-connection-status-blocked-error-description = Legislația locală nu ne permite să oferim servicii VPN în această regiune. <a data-l10n-name="learn-more-link">Află mai multe</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Te apropii de limita VPN
     .message = Mai ai { $usageLeft } GB din { $maxUsage } GB de date disponibile luna aceasta.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Te apropii de limita VPN
+    .message = Mai ai { $usageLeft } MB din { $maxUsage } GB luna aceasta.
 ipprotection-message-continuous-onboarding-intro = Activează VPN-ul pentru a-ți ascunde locația și a adăuga criptare suplimentară navigării.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Setează VPN-ul să se activeze</a> de fiecare dată când deschizi { -brand-short-name } pentru un nivel suplimentar de protecție.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } va reține site-urile web pe care le-ai configurat să utilizeze VPN. Poți actualiza oricând opțiunile din <a data-l10n-name="setting-link">setări</a>.
