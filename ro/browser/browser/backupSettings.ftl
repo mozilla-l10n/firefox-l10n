@@ -58,8 +58,11 @@ settings-data-toggle-encryption-label2 =
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Denumire fișier: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Restaurează-ți dattele
+    .label = Restaurează-ți datele
     .description = Recuperează-ți datele { -brand-product-name } din ultima copie de rezervă.
+settings-data-backup-restore-scheduled-off =
+    .label = Restaurează-ți datele
+    .description = Folosește o copie de rezervă { -brand-product-name } de pe alt dispozitiv ca să îți restaurezi datele.
 settings-data-backup-restore-header = Restabilește datele
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -71,8 +74,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Alege un fișier de 
 
 settings-data-backup-scheduled-backups-on-restore-description = Recuperează-ți datele { -brand-product-name } din ultima copie de rezervă.
 settings-data-backup-scheduled-backups-on-restore-choose = Restabilește…
+settings-sensitive-data =
+    .label = Date sensibile
 settings-data-toggle-encryption-label = Fă o copie de rezervă cu datele tale sensibile
 settings-data-toggle-encryption-support-link = Află mai multe
+settings-data-change-password2 =
+    .label = Schimbă parola
 settings-data-change-password = Schimbă parola…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -115,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Dezactivează și șterge backupuril
 restore-from-backup-header = Restabilește datele
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Ce va fi restabilit?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Această acțiune va înlocui datele { -brand-short-name } curente cu datele din copia de rezervă din { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -132,6 +142,13 @@ restore-from-backup-password-description = Va debloca copia de rezervă criptat�
 restore-from-backup-cancel-button = Anulează
 restore-from-backup-confirm-button = Restabilește și repornește
 restore-from-backup-restoring-button = Restabilire în curs…
+restore-from-backup-type-group-label =
+    .label = Înlocuiești profilul actual?
+restore-from-backup-type-replace =
+    .label = Înlocuiește toate datele cu această copie de rezervă
+restore-from-backup-type-add =
+    .label = Păstrează datele și creează un profil  nou
+restore-from-backup-profiles-disabled-message = Toate datele tale actuale { -brand-short-name } vor fi înlocuite cu copia de rezervă.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -258,6 +275,15 @@ other-backup-files-founds =
         [few] <b>Notă:</b> { $numberOfOtherBackupsFound } fișiere de backup găsite
        *[other] <b>Notă:</b> { $numberOfOtherBackupsFound } de fișiere de backup găsite
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creat la data de { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } pe { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restaurare din { $deviceName } la data de { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } la { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
