@@ -311,6 +311,8 @@ newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz sitele
 newtab-custom-shortcuts-toggle =
     .label = Kısayollar
     .description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
+newtab-custom-shortcuts-nova =
+    .label = Kısayollar
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
