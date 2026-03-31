@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Schermo diviso
     .aria-label = Schermo diviso
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Cancella la cronologia di ricerca
+    .accesskey = n
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
