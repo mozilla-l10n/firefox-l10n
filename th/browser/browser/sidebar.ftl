@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = ลบหน้าออกจากประวัติ
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = แก้ไขที่คั่นหน้า…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = ลบที่คั่นหน้า
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = ลบ
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = แท็บจากอุปกรณ์อื่น ๆ
 sidebar-menu-cpm-header =
     .heading = รหัสผ่าน
+sidebar-menu-bookmarks-header =
+    .heading = ที่คั่นหน้า
 sidebar-panel-header-close-button =
     .tooltiptext = ปิด
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = เมนูที่คั่นหน้า
+sidebar-bookmarks-folder-toolbar = แถบเครื่องมือที่คั่นหน้า
+sidebar-bookmarks-folder-other = ที่คั่นหน้าอื่น ๆ
+sidebar-bookmarks-folder-mobile = ที่คั่นหน้าบนมือถือ
 
 ## Titles for sidebar menu panels.
 

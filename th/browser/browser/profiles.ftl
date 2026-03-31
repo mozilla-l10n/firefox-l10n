@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = เสร็จสิ้นการแก้ไข
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = สำเนา “{ $profilename }” ของคุณพร้อมให้ปรับแต่งแล้ว
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = สำเนาของ { $profilename } ของคุณพร้อมให้ปรับแต่งแล้ว
 copied-profile-page-header-description = เราคัดลอกข้อมูลและการตั้งค่าของคุณไปยังโปรไฟล์ใหม่แล้ว ทีนี้ให้ตั้งชื่อ เลือกรูปลักษณ์ และปรับแต่งให้เป็นของคุณเอง
 restored-profile-page-header = ปรับแต่งโปรไฟล์ที่เรียกคืนของคุณ
