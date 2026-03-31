@@ -313,6 +313,8 @@ newtab-custom-shortcuts-subtitle = Сомонаҳое, ки шумо нигоҳ 
 newtab-custom-shortcuts-toggle =
     .label = Миёнбурҳо
     .description = Сомонаҳое, ки шумо нигоҳ медоред ё ба онҳо ворид мешавед
+newtab-custom-shortcuts-nova =
+    .label = Миёнбурҳо
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
