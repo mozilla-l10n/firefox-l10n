@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Exibição dividida
     .aria-label = Exibição dividida
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Limpar histórico de pesquisa
+    .accesskey = L
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
