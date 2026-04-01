@@ -2320,6 +2320,58 @@ preferences-doh-overview-off =
     .description = Folosește rezolverul DNS implicit.
 preferences-doh-advanced-button =
     .label = Setări avansate
+preferences-doh-advanced-section =
+    .label = Setări avansate
+    .description = Sistemul de nume de domenii prin HTTPS (DoH) criptează căutările de site-uri, astfel încât furnizorului tău de internet sau altor persoane le este mai greu să vadă pe ce site-uri urmează să intri.
+preferences-doh-manage-exceptions2 =
+    .label = Gestionează excepțiile
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Implicit
+    .description = Folosește DNS securizat în regiunile unde este disponibil
+preferences-doh-radio-custom =
+    .label = Personalizat
+    .description = Folosește întotdeauna DNS securizat cu control asupra furnizorului și comportament de revenire
+preferences-doh-radio-off =
+    .label = Dezactivat
+    .description = Folosește rezolverul DNS implicit
+preferences-doh-fallback-label =
+    .label = Avertizează-mă întotdeauna dacă nu este disponibil DNS securizat
+preferences-doh-status-item-off =
+    .message = DNS prin HTTPS este dezactivat
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS-ul prin HTTPS nu funcționează deoarece am întâmpinat o eroare ({ $reason }) în timp ce încercam să utilizăm furnizorul { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS prin HTTPS nu funcționează deoarece am primit o adresă URL nevalidă ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS prin HTTPS folosește furnizorul { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS-ul prin HTTPS nu funcționează deoarece am întâmpinat o eroare ({ $reason }) în timp ce încercam să utilizăm furnizorul { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS prin HTTPS folosește furnizorul local { $name }
+preferences-doh-select-resolver-label =
+    .label = Alege furnizorul:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Folosește acest furnizor pentru rezolvarea DNS prin HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Introdu o adresă URL personalizată a furnizorului
+preferences-doh-header2 =
+    .heading = DNS prin HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2451,3 +2503,53 @@ preferences-etp-header =
 preferences-etp-advanced-settings-group =
     .label = Setări avansate
     .description = Site-urile folosesc elemente de urmărire care merg după tine online și să îți arate reclame ciudate. { -brand-short-name } te protejează în timp ce navighezi, blocând automat majoritatea elementelor de urmărire ca să ai control asupra urmelor pe care le lași online.
+preferences-etp-customize-button =
+    .label = Personalizează protecția împotriva urmăririi
+preferences-etp-reload-tabs-hint =
+    .message = Reîncarcă filele pentru aplicarea modificărilor.
+preferences-etp-reload-tabs-hint-button =
+    .label = Reîncarcă toate filele
+preferences-etp-rfp-warning-message =
+    .message = Folosești Resist Fingerprinting (RFP), care înlocuiește o parte din setările de protecție împotriva generării de amprente digitale din { -brand-short-name }. Ar putea cauza defecțiuni ale unor site-uri.
+preferences-etp-level-warning-message =
+    .heading = Atenție! Este posibil ca unele site-uri să nu funcționeze conform așteptărilor.
+    .message = Unele site-uri au încorporate elemente de urmărire în funcționalități sau conținut. Când { -brand-short-name } le blochează, site-ul pare că nu funcționează. Încearcă să folosești „Repară problema site-ului” sau dezactivează protecția împotriva urmăririi pe acest site.
+preferences-etp-manage-exceptions-button =
+    .label = Gestionează excepțiile
+    .description = Gestionează site-urile unde protecția îmbunătățită împotriva urmăririi este dezactivată.
+preferences-etp-customize-header =
+    .heading = Personalizează protecția împotriva urmăririi
+preferences-etp-reset =
+    .label = Resetează personalizările
+    .description = Restaurează setările la un nivel de protecție presetat.
+preferences-etp-reset-standard-button =
+    .label = Resetare la standard
+preferences-etp-reset-strict-button =
+    .label = Resetare la strictă
+preferences-etp-custom-control-group =
+    .label = Protecție împotriva urmăririi
+    .description = Alege ce protecții să activezi sau să dezactivezi.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookie-uri
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookie-uri
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Permite toate cookie-urile
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Conținut de urmărire
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Conținut de urmărire
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Criptomineri
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Generatoare cunoscute de amprente digitale
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Generatoare suspectate de amprente digitale
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Generatoare suspectate de amprente digitale
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Generatoarele cunoscute de amprente digitale nu sunt blocate
+    .description = Este posibil să permită unor elemente de urmărire să te urmărească fără cookie-uri.
