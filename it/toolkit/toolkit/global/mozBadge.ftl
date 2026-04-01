@@ -8,3 +8,5 @@
 
 moz-badge-beta = Beta
 moz-badge-new = Novità
+moz-badge-beta2 = BETA
+moz-badge-new2 = NOVITÀ
