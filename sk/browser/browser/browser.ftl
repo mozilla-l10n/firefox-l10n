@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Rozdelené zobrazenie
     .aria-label = Rozdelené zobrazenie
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Vymazať históriu vyhľadávania
+    .accesskey = h
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
