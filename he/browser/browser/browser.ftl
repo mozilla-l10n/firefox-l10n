@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = תצוגה מפוצלת
     .aria-label = תצוגה מפוצלת
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = מחיקת היסטוריית חיפוש
+    .accesskey = מ
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
