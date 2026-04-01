@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Jaettu näkymä
     .aria-label = Jaettu näkymä
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Tyhjennä hakuhistoria
+    .accesskey = T
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
