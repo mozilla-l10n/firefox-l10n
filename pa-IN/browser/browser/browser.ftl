@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = ਵੰਡੀ ਹੋਈ ਝਲਕ
     .aria-label = ਵੰਡੀ ਹੋਈ ਝਲਕ
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = ਖੋਜ ਦਾ ਅਤੀਤ ਸਾਫ਼ ਕਰੋ
+    .accesskey = C
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

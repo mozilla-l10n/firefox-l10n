@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Розділений екран
     .aria-label = Розділений екран
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Стерти історію пошуку
+    .accesskey = С
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

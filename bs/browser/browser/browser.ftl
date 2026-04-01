@@ -285,6 +285,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Zabilježi ovu stranicu ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Obriši historiju pretrage
+    .accesskey = O
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -1434,6 +1440,9 @@ trustpanel-blocker-see-all = Vidi sve
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

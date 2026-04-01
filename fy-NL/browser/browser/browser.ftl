@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Splitste werjefte
     .aria-label = Splitste werjefte
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Sykskiednis fuortsmite
+    .accesskey = S
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

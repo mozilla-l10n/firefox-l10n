@@ -282,6 +282,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = এই পাতাটি বুকমার্ক করুন ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = অনুসন্ধানের ইতিহাস অপসারণ
+    .accesskey = C
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -746,6 +752,9 @@ urlbar-result-dismissal-acknowledgment-market = আপনার প্রতি�
 # particular type.
 urlbar-result-dismissal-acknowledgment-all = আপনার প্রতিক্রিয়ার জন্য ধন্যবাদ। এখন থেকে আপনি আর এই পরামর্শগুলি দেখবেন না।
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-dropmarker =
@@ -1004,6 +1013,10 @@ picture-in-picture-hide-toggle =
     .label = পিকচার-ইন-পিকচার টগল লুকান
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
 
 
@@ -1070,6 +1083,21 @@ private-browsing-indicator-label = ব্যক্তিগত ব্রাউ�
 private-browsing-indicator-tooltip =
     .tooltiptext = ব্যক্তিগত ব্রাউজিং
 content-analysis-panel-title = তথ্য সুরক্ষা
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -1150,6 +1178,9 @@ trustpanel-privacy-link = প্রাইভেসি সেটিংস
 trustpanel-clear-cookies-subview-button-cancel = বাতিল
 trustpanel-siteinformation-morelink = আরও সাইটের তথ্য
 trustpanel-blocker-see-all = সব দেখুন
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

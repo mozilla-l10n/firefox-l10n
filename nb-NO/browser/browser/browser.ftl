@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Delt visning
     .aria-label = Delt visning
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Tøm søkehistorikk
+    .accesskey = T
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

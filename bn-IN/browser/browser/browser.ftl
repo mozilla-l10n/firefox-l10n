@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The main browser window's title
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -95,6 +92,12 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = বর্তমান পৃষ্ঠা বুকমার্ক করুন ({ $shortcut })
+
+## Searchbar context menu
+
+clear-search-history =
+    .label = অনুসন্ধানের পূর্ববর্তী তথ্য মুছে ফেলুন
+    .accesskey = H
 
 ## Page Action Context Menu
 
@@ -253,6 +256,16 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = অনুসন্ধান { $engine }
 urlbar-result-action-switch-tab = ট্যাবে পরিবর্তন করুন
 urlbar-result-action-visit = পরিদর্শন করুন
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
+
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -444,7 +457,13 @@ tabs-toolbar-list-all-tabs =
     .label = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
     .tooltiptext = সকল ট্যাবের তালিকা প্রদর্শন করা হবে
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -462,6 +481,10 @@ data-reporting-notification-button =
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
@@ -508,3 +531,26 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' প্রদর্শন
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

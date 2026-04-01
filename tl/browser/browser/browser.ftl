@@ -159,6 +159,15 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = i-Bookmark ang pahinang ito ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Burahin ang Search History
+    .accesskey = H
+
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -552,6 +561,13 @@ urlbar-result-action-copy-to-clipboard = Kopyahin
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -786,6 +802,10 @@ picture-in-picture-hide-toggle =
     .label = Itago ang Toggle para sa Picture-in-Picture
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
 
 
@@ -824,9 +844,15 @@ tabs-toolbar-list-all-tabs =
     .label = Ilista ang lahat ng mga tabs
     .tooltiptext = Ilista ang lahat ng mga tabs
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Ipakita sa akin kung paano
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -861,6 +887,13 @@ unified-extensions-button-quarantined =
         Mga extension
         May ilang mga extension na hindi pinapayagan
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Pinigilan ng { -brand-short-name } ang agarang pagbukas ng pahinang ito.
@@ -868,6 +901,9 @@ refresh-blocked-redirect-label = Pingilan ng { -brand-short-name } ang kusang pa
 refresh-blocked-allow =
     .label = Payagan
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -903,3 +939,26 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ipakita ang '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

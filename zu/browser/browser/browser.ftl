@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The main browser window's title
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -28,6 +25,12 @@ browser-main-window-title = { -brand-full-name }
 
 ##
 
+
+## Searchbar context menu
+
+clear-search-history =
+    .label = Sula Izinto Ezike Zqcwaningwa
+    .accesskey = H
 
 ## Page Action Context Menu
 
@@ -92,15 +95,23 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
-
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
-
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
 
 
 ## Action text shown in urlbar results, usually appended after the search
@@ -120,9 +131,6 @@ urlbar-go-button =
 
 
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -164,9 +172,6 @@ bookmarks-toolbar-placeholder-button =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 
@@ -176,7 +181,6 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Vumela okuzivelelayo ku-{ $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Vimbela okuqhamuka esikhaleni { $uriHost }
     .accesskey = p
@@ -198,21 +202,24 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ukwaziswa okuthathwe kwafakwa
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Omoki bokuphequlula
-
 tabs-toolbar-new-tab =
     .label = Ithebhu entsha
-
 tabs-toolbar-list-all-tabs =
     .label = Faka ohlwini bonke omaki
     .tooltiptext = Faka ohlwini bonke omaki
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -229,11 +236,18 @@ data-reporting-notification-message = I-{ -brand-short-name } ithumela ngokuzenz
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = I-{ -brand-short-name } ivimbele le khasi ekulayisheni kabusha ngokuzenzakalela.
 refresh-blocked-redirect-label = I-{ -brand-short-name } ivimbele le khasi ekuthumeleni kabusha ngokuzenzakalela kwelinye ikhasi.
-
 refresh-blocked-allow =
     .label = Vumela
     .accesskey = A
@@ -241,13 +255,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -258,8 +267,30 @@ popup-warning-message =
         [one] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni iwindi le-pop-up.
        *[other] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni amawindi we-pop-up angu-{ $popupCount }.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Bonisa '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

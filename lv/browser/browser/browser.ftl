@@ -293,6 +293,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Saglabāt šo lapu grāmatzīmēs ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Notīrīt meklēšanas vēsturi
+    .accesskey = M
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -1503,6 +1509,9 @@ trustpanel-blocker-see-all = Redzēt visu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Aizsardzība pret izsekošanu { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

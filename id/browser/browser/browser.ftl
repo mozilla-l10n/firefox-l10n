@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Tampilan belah
     .aria-label = Tampilan belah
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Hapus Riwayat Pencarian
+    .accesskey = s
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

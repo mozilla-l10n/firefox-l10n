@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Vistas fisse
     .aria-label = Vistas fisse
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Vacuar le chronologia de recerca
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

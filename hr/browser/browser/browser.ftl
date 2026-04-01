@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Podijeljeni prikaz
     .aria-label = Podijeljeni prikaz
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Izbriši povijest pretraživanja
+    .accesskey = v
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

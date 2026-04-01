@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = 分屏视图
     .aria-label = 分屏视图
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = 清空搜索历史
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

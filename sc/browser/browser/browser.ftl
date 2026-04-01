@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Visualizatzione partzida
     .aria-label = Visualizatzione partzida
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Cantzella cronologia de chirca
+    .accesskey = c
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

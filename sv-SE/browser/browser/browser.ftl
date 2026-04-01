@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Delad vy
     .aria-label = Delad vy
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Rensa sökhistorik
+    .accesskey = s
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

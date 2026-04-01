@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Rozdźělony naglěd
     .aria-label = Rozdźělony naglěd
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Pytańsku historiju wuprozniś
+    .accesskey = P
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

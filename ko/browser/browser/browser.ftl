@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = 분할 화면
     .aria-label = 분할 화면
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = 검색 기록 지우기
+    .accesskey = C
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

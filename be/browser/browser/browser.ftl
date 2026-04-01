@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Падзелены выгляд
     .aria-label = Падзелены выгляд
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Ачысціць гісторыю пошуку
+    .accesskey = г
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

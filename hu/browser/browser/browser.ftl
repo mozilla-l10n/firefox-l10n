@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Osztott nézet
     .aria-label = Osztott nézet
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Keresés előzményeinek törlése
+    .accesskey = t
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

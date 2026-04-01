@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Pamje krah për krah
     .aria-label = Pamje krah për krah
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Spastro Historik Kërkimesh
+    .accesskey = P
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

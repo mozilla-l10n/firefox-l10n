@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = 分割畫面
     .aria-label = 分割畫面
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = 清除搜尋記錄
+    .accesskey = h
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

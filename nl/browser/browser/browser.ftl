@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Gesplitste weergave
     .aria-label = Gesplitste weergave
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Zoekgeschiedenis wissen
+    .accesskey = Z
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

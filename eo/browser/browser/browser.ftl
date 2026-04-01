@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Apartigita vido
     .aria-label = Apartigita vido
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Forviŝi la serĉilan historion
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =

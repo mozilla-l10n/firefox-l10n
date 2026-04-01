@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Vizualizare divizată
     .aria-label = Vizualizare divizată
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Șterge istoricul căutărilor
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
