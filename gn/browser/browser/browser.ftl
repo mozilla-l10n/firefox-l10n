@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Jehecha vorepyre
     .aria-label = Jehecha vorepyre
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Tembiasakue jeheka mopotĩ
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
