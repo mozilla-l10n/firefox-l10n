@@ -190,6 +190,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } ndaikatúi omoheñói jeike hekorosãva { $hostname } mba’e’oka ndive.
 fp-neterror-offline-intro = { -brand-short-name } ndoikekuaái mba’e’okápe <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Pe mohendahavusu <strong>{ $hostname }</strong> imbegue ombohovái hag̃ua.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Pe mohendahavusu <strong>{ $hostname }</strong> ombojevy jejavy: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } nomyanyhẽi ko kuatiarogue ha’etére pe ñemboheko rekorosãrã ndojokupytýiva kuatiarogue oĩva’ekue rehe.
 fp-neterror-http-auth-disabled-intro = Peteĩva ohasáva pe tenda rekovia ikatuhína omonda nde poruhára réra, ñe’ẽñemi térã ñanduti veve.
 fp-neterror-http-auth-disabled-secure-connection = Ko tenda oikotevẽ jeikerã hekorosãva ha ndaikatúi embojoapy oĩ’ỹva eikekuaa hag̃ua.
