@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Torna a obrir les pestanyes tancades
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = Activa les pestanyes verticals
+toolbar-context-turn-off-vertical-tabs =
+    .label = Desactiva les pestanyes verticals
+toolbar-context-customize-sidebar =
+    .label = Personalitza la barra lateral
 toolbar-context-menu-manage-extension =
     .label = Gestiona l'extensió
     .accesskey = e
@@ -53,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Mostra la subfinestra en iniciar la baixada
     .accesskey = s
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Mostra sempre a la barra d'eines
+    .accesskey = a
 toolbar-context-menu-remove-from-toolbar =
     .label = Elimina de la barra d'eines
     .accesskey = E

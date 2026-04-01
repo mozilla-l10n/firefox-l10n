@@ -227,6 +227,7 @@ sidebar-genai-survey-satisfaction-question = Esteu satisfet/a de tenir accés a 
 sidebar-genai-survey-productive-question =
     Fins a quin punt esteu d’acord o en desacord amb aquesta afirmació:<br/>
     «El bot de conversa d’IA a la barra lateral m’ajuda a ser més productiu»?
+splitview-onboarding-callout-cta-1 = Proveu-ho ara
 unified-search-callout-title = Canvieu els motors de cerca
 unified-search-callout-subtitle = Trieu aquell que s’adapti millor a la vostra cerca.
 unified-search-callout-primary-label = Següent

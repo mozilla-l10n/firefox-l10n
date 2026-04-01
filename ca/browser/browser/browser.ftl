@@ -730,6 +730,7 @@ urlbar-result-action-search-in-private = Cerca en una finestra privada
 urlbar-result-action-search-w-engine = Cerca amb { $engine }
 urlbar-result-action-sponsored = Patrocinat
 urlbar-result-action-switch-tab = Canvia a la pestanya
+urlbar-result-action-move-tab-to-split-view = Mou la pestanya a la vista dividida
 urlbar-result-action-visit = Visita
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
