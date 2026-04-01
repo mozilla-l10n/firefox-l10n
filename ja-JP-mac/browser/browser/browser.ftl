@@ -298,6 +298,9 @@ urlbar-split-view-button =
 
 ## Searchbar context menu
 
+clear-search-history =
+    .label = 検索履歴を消去
+    .accesskey = C
 
 ## Page Action Context Menu
 
