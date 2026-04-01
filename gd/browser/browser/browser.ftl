@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Sealladh sgoilte
     .aria-label = Sealladh sgoilte
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Glan eachdraidh nan lorg
+    .accesskey = c
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
