@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Chế độ chia cửa sổ
     .aria-label = Chế độ chia cửa sổ
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Xóa lịch sử tìm kiếm
+    .accesskey = X
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
