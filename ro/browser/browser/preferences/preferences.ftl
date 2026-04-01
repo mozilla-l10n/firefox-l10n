@@ -2155,6 +2155,10 @@ data-collection-run-studies =
     .description = { -brand-short-name } selectează aleatoriu utilizatori pentru testarea funcționalităților, ceea ce ajută la îmbunătățirea calității pentru toți.
 data-collection-studies-link =
     .label = Vezi studiile { -brand-short-name }
+data-collection-backlogged-crash-reports =
+    .label = Trimite automat rapoarte de închidere neașteptată
+    .description = Ajută { -vendor-short-name } să diagnosticheze și să repare probleme în browser. Rapoartele pot include date personale sau sensibile.
+    .accesskey = c
 data-collection-usage-ping =
     .label = Trimite un ping de utilizare zilnică către { -vendor-short-name }
     .description = Ajută { -vendor-short-name } să estimeze utilizatorii activi.
@@ -2174,11 +2178,16 @@ website-advertising-private-attribution-description = Ajută site-urile să în�
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
+browsing-protection-group2 =
+    .label = Protecție împotriva conținutului înșelător și a programelor periculoase
+    .description = Site-urile și descărcările periculoase îți pot pune în pericol datele și dispozitivul. { -brand-short-name } le blochează automat și te avertizează despre softuri riscante sau nedorite.
 security-browsing-protection = Protecție împotriva conținutului înșelător și a programelor periculoase
 security-enable-safe-browsing =
     .label = Blochează conținutul periculos și înșelător
     .accesskey = B
 security-enable-safe-browsing-link = Află mai multe
+security-safe-browsing-warning =
+    .message = Dezactivarea reduce protecția împotriva escrocheriilor, site-urilor rău intenționate și descărcărilor periculoase.
 security-block-downloads =
     .label = Blochează descărcările periculoase
     .accesskey = d
@@ -2207,6 +2216,15 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc. </strong>Este posibil ca conținutul site-urilor web să nu fie afișat corespunzător. Poți șterge datele stocate în Setări > Confidențialitate și securitate > Cookie-uri și date ale site-urilor.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } rămâne fără spațiu pe disc.</strong> Este posibil va conținutul site-urilor web să nu fie afișat corespunzător. Intră pe „Află mai multe” ca să îți optimizezi utilizarea spațiului pe disc pentru o mai bună experiență la navigare.
+certs-description3 =
+    .label = Certificate
+    .description = Configurează certificatele folosite de { -brand-short-name } pentru verificarea conexiunilor securizate.
+certs-view2 =
+    .label = Gestionează certificatele
+    .accesskey = C
+certs-devices2 =
+    .label = Gestionează dispozitivele de securitate
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
@@ -2233,6 +2251,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS prin HTTPS
+dns-over-https-group2 =
+    .label = DNS prin HTTPS
+    .description = Sistemul de nume de domenii prin HTTPS (DoH) criptează căutările de site-uri, astfel încât furnizorului tău de internet sau altor persoane le este mai greu să vadă pe ce site-uri urmează să intri.
 preferences-doh-description = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 preferences-doh-description2 = Sistemul de nume de domeniu (DNS) prin HTTPS îți trimite cerere pentru un nume de domeniu printr-o conexiune criptată, creând un DNS securizat și făcând mai dificil pentru alții să vadă ce site web urmează să accesezi.
 # Variables:
@@ -2288,6 +2309,12 @@ preferences-doh-exceptions-description = { -brand-short-name } nu va folosi DNS 
 preferences-doh-manage-exceptions =
     .label = Gestionează excepțiile...
     .accesskey = x
+preferences-doh-overview-default =
+    .label = Protecție implicită
+    .description = Folosește DNS securizat în regiunile unde este disponibil.
+preferences-doh-overview-off =
+    .label = Dezactivat
+    .description = Folosește rezolverul DNS implicit.
 
 ## The following strings are used in the Download section of settings
 
