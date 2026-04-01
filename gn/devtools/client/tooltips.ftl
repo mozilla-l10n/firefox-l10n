@@ -102,6 +102,7 @@ inactive-css-not-inline-or-tablecell-fix = Eñeha’ã embojuaju <strong>display
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Eñaha’ã embojuaju <strong>display:inline-block</strong> térã <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha’ã embojuaju <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
+inactive-css-only-non-grid-or-flex-item-fix = Eñeha’ã emoambue <strong>display</strong> repykue pe mba’eporu mbyatyhápe peteĩ iñambuévape <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, térã <strong>inline-grid</strong>, térã emboguévo <strong>float</strong>. { learn-more }
 inactive-css-not-block-fix = Eñeha’ã embojuaju <strong>display:block</strong> térã <strong>float:left</strong>. { learn-more }
 inactive-css-not-block-container-fix = Embojuaju <strong>display:block</strong>, <strong>display:inline-block</strong> térã <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-block-flex-grid-container-fix = Eñeha’ã embojuaju <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> térã <strong>display:flow-root</strong>. { learn-more }
