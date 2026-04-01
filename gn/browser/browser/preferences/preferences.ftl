@@ -2444,8 +2444,14 @@ preferences-etp-reload-tabs-hint-button =
     .label = Emyanyhẽpaite tendayke
 preferences-etp-rfp-warning-message =
     .message = Eiporu Resist Fingerprinting (RFP), omyengoviáva peteĩva umi jeporavorã mo’ãha { -brand-short-name } mba’évape. Kóva omoapañuaikuaa ñanduti roguépe.
+preferences-etp-manage-exceptions-button =
+    .label = Eñangareko oĩ’ỹva
+    .description = Eñangareko ñandutieta rogue pe tapykuehoha ñemo’ã iporãvéva oñemboguehápe.
 preferences-etp-customize-header =
     .heading = Emboava tapykuehoha ñemo’ã
+preferences-etp-reset =
+    .label = Eguerujey ñemboavaita
+    .description = Emyatyrõ ñemboheko ñemo’ã ijypykuéva rupi.
 preferences-etp-reset-standard-button =
     .label = Emoĩjey oĩhaguéicha
 preferences-etp-reset-strict-button =
@@ -2471,3 +2477,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Ojapyhyséva mokuãhũha
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Ojapyhyséva mokuãhũha
+
+## Warnings section
+
+security-privacy-issue-warning-popup-blocker =
+    .label = Ovetã apysẽ jokoha oñembogue
+    .description = Umi ovetã iñapysẽva imarãkuaa ha ikatúva ivai.

@@ -43,6 +43,10 @@ certificate-viewer-logid = აღრიცხვის ID
 certificate-viewer-method = მეთოდი
 certificate-viewer-modulus = მოდული
 certificate-viewer-name = სახელი
+certificate-viewer-surname = გვარი
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = სახელი
 certificate-viewer-not-after = არა უგვიანეს
 certificate-viewer-not-before = არა უადრეს
 certificate-viewer-organization = დაწესებულება
