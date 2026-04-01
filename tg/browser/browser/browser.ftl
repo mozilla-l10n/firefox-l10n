@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Намоиши тақсимшуда
     .aria-label = Намоиши тақсимшуда
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Пок кардани таърихи ҷустуҷӯ
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
