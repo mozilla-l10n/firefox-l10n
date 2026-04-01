@@ -44,6 +44,7 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = اپݨا
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = محفوظ تھئے پاس ورڈ نقل کرو
+contextual-manager-passwords-import-file-picker-title = پاس ورڈز درآمد کرو
 contextual-manager-passwords-import-file-picker-import-button = درآمد کرو
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -65,6 +66,9 @@ contextual-manager-passwords-export-success-button = تھی ڳیا
 contextual-manager-export-passwords-dialog-confirm-button = برآمد نال جاری رکھو
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = { -brand-short-name } کنوں پاس ورڈ برآمد کرو
+# The default file name shown in the file picker when exporting saved logins.
+# The resultant filename will end in .csv (added in code).
+contextual-manager-passwords-export-file-picker-default-filename = پاس ورڈز
 contextual-manager-passwords-export-file-picker-export-button = برآمد کرو
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
