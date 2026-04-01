@@ -41,6 +41,7 @@ ipprotection-site-settings-callout-button = Разумем
 ## Panel
 
 unauthenticated-vpn-title = Испробајте { -brand-product-name } уграђени ВПН
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Сакријте своју локацију</a> током прегледања у { -brand-product-name }-у.
 unauthenticated-hide-location-message-2 = Сакријте своју локацију док прегледате у { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

@@ -43,6 +43,10 @@ certificate-viewer-logid = ID дневника
 certificate-viewer-method = Метода
 certificate-viewer-modulus = Модул
 certificate-viewer-name = Назив
+certificate-viewer-surname = Презиме
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Име
 certificate-viewer-not-after = Не после
 certificate-viewer-not-before = Не пре
 certificate-viewer-organization = Организација
