@@ -672,8 +672,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Ikuspegiak
 pdfjs-views-manager-view-selector-button-label = Ikuspegiak
 pdfjs-views-manager-pages-title = Orriak
+pdfjs-views-manager-outlines-title1 = Dokumentuaren eskema
+    .title = Dokumentuaren eskema (klik bikoitza elementu guztiak zabaltzeko/tolesteko)
 pdfjs-views-manager-outlines-title = Dokumentuaren eskema
 pdfjs-views-manager-attachments-title = Eranskinak
+pdfjs-views-manager-layers-title1 = Geruzak
+    .title = Geruzak (klik bikoitza geruza guztiak egoera lehenetsira berrezartzeko)
 pdfjs-views-manager-layers-title = Geruzak
 pdfjs-views-manager-pages-option-label = Orriak
 pdfjs-views-manager-outlines-option-label = Dokumentuaren eskema
@@ -694,6 +698,7 @@ pdfjs-views-manager-pages-status-action-button-label = Kudeatu
 pdfjs-views-manager-pages-status-copy-button-label = Kopiatu
 pdfjs-views-manager-pages-status-cut-button-label = Ebaki
 pdfjs-views-manager-pages-status-delete-button-label = Ezabatu
+pdfjs-views-manager-pages-status-export-selected-button-label = Esportatu hautatutakoa…
 pdfjs-views-manager-pages-status-save-as-button-label = Gorde honela…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -734,6 +739,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = Itsatsi { $page }. orriaren aurretik
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = BERRIA
 pdfjs-toggle-views-manager-button1 =
     .title = Kudeatu orriak
 
