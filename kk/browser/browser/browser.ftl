@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Бөлінген көрініс
     .aria-label = Бөлінген көрініс
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Іздеулер тарихын тазарту
+    .accesskey = т
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
