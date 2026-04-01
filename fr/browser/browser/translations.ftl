@@ -89,8 +89,8 @@ translations-panel-error-change-button =
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known-2 = Désolé, nous ne prenons pas encore en charge les traductions à partir de { $language }.
-translations-panel-error-unsupported-hint-unknown-2 = Désolé, nous ne prenons pas encore en charge les traductions à partir de cette langue.
+translations-panel-error-unsupported-hint-known-2 = Désolé, nous ne prenons pas encore en charge les traductions depuis cette langue : { $language }.
+translations-panel-error-unsupported-hint-unknown-2 = Désolé, nous ne prenons pas encore en charge les traductions depuis cette langue.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
@@ -243,9 +243,9 @@ select-translations-panel-translation-failure-message =
 # Variables:
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known-2 =
-    .message = Désolé, nous ne prenons pas encore en charge les traductions à partir de { $language }.
+    .message = Désolé, nous ne prenons pas encore en charge les traductions depuis cette langue : { $language }.
 select-translations-panel-unsupported-language-message-unknown-2 =
-    .message = Désolé, nous ne prenons pas encore en charge les traductions à partir de cette langue.
+    .message = Désolé, nous ne prenons pas encore en charge les traductions depuis cette langue.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
