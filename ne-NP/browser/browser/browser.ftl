@@ -176,6 +176,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = यो पृष्ठ बुकमार्क गर्नुहोस् ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = खोजी इतिहास मेटाउनुहोस्
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -604,6 +610,13 @@ urlbar-result-action-copy-to-clipboard = प्रतिलिपि गर्�
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = ={ $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -921,6 +934,9 @@ tabs-toolbar-list-all-tabs =
     .label = सब ट्याबहरूको सूचि बनाउनुहोस्
     .tooltiptext = सब ट्याबहरूको सूचि बनाउनुहोस्
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -965,6 +981,10 @@ unified-extensions-button-permissions-needed =
 unified-extensions-button-quarantined =
     .label = बिस्तारहरु
     .tooltiptext = बिस्तारहरु
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -1059,3 +1079,16 @@ file-picker-crashed-save-nowhere = Windows फाइल-संवाद क्�
 file-picker-crashed-show-in-folder =
     .label = फोल्डरमा देखाउनुहोस्
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
