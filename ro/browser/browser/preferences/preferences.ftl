@@ -1892,7 +1892,7 @@ content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
 content-blocking-all-windows-tracking-content = Conținutul de urmărire în toate ferestrele
 content-blocking-all-cross-site-cookies = Toate cookie-urile intersite-uri
 content-blocking-cryptominers = Criptominerii
-content-blocking-fingerprinters = Detectoarele de amprente digitale
+content-blocking-fingerprinters = Detectoare de amprente digitale
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
@@ -2497,7 +2497,7 @@ preferences-etp-status-advanced-button =
     .label = Setări avansate
 preferences-etp-status-protections-dashboard-link =
     .label = Vezi tabloul de bord cu protecții personalizate
-    .description = Vezi câte elemente de urmărire insidioase a blocat { -brand-short-name } pentru tine, inclusiv elemente de urmărire de pe rețele de socializare, generatoare de amprente digitale și criptomineri.
+    .description = Vezi câte elemente de urmărire insidioase a blocat { -brand-short-name } pentru tine, inclusiv elemente de urmărire de pe rețele de socializare, detectoare de amprente digitale și criptomineri.
 preferences-etp-header =
     .heading = Protecție îmbunătățită împotriva urmăririi
 preferences-etp-advanced-settings-group =
@@ -2542,14 +2542,35 @@ preferences-etp-custom-tracking-protection-enabled-context =
 preferences-etp-custom-crypto-mining-protection-enabled =
     .label = Criptomineri
 preferences-etp-custom-known-fingerprinting-protection-enabled =
-    .label = Generatoare cunoscute de amprente digitale
+    .label = Detectoare cunoscute de amprente digitale
 preferences-etp-custom-suspect-fingerprinting-protection-enabled =
-    .label = Generatoare suspectate de amprente digitale
+    .label = Detectoare suspectate de amprente digitale
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
-    .aria-label = Generatoare suspectate de amprente digitale
+    .aria-label = Detectoare suspectate de amprente digitale
 
 ## Warnings section
 
 security-privacy-issue-warning-fingerprinters =
-    .label = Generatoarele cunoscute de amprente digitale nu sunt blocate
+    .label = Detectoarele cunoscute de amprente digitale nu sunt blocate
     .description = Este posibil să permită unor elemente de urmărire să te urmărească fără cookie-uri.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookie-urile de la terți sunt activate
+    .description = Cookie-urile de la terți sunt folosite să te urmărească pe site-uri.
+security-privacy-issue-warning-password-manager =
+    .label = Managerul de parole este dezactivat
+    .description = Managerii de parole te ajută să stochezi parole puternice pentru conturi.
+security-privacy-issue-warning-popup-blocker =
+    .label = Blocarea ferestrelor pop-up este dezactivată
+    .description = Pop-up-urile creează întreruperi și sunt potențial dăunătoare.
+security-privacy-issue-warning-extension-install =
+    .label = Site-urile web pot instala extensii
+    .description = Site-urile pot instala extensii în { -brand-short-name } fără să întrebe.
+security-privacy-issue-warning-safe-browsing =
+    .label = Conținutul periculos și înșelător nu este blocat
+    .description = Expunerea ta la înșelătorii și softuri rău intenționate de pe site-uri este și mai mare.
+security-privacy-issue-warning-doh =
+    .label = DNS prin HTTPS este dezactivat
+    .description = DNS prin HTTPS ascunde de furnizorul de rețea pe ce site-uri intri.
+security-privacy-issue-warning-ech =
+    .label = Clientul criptat Hello este dezactivat
+    .description = Clientul criptat Hello ascunde de furnizorul de internet pe ce site-uri intri.

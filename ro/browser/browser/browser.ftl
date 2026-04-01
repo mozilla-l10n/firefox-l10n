@@ -1603,9 +1603,9 @@ trustpanel-list-label-tracking-cookies =
 trustpanel-list-label-tracking-content = Conținut de urmărire
 trustpanel-list-label-fingerprinter =
     { $count ->
-        [one] { $count } generator de amprente digitale
-        [few] { $count } generatoare de amprente digitale
-       *[other] { $count } de generatoare de amprente digitale
+        [one] { $count } detector de amprente digitale
+        [few] { $count } detectoare de amprente digitale
+       *[other] { $count } de detectoare de amprente digitale
     }
 trustpanel-list-label-social-tracking =
     { $count ->
@@ -1658,9 +1658,15 @@ trustpanel-tracking-content-not-blocking-tab-header =
 trustpanel-tracking-content-tab-list-header = Aceste site-uri încearcă să te urmărească:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } a blocat { $count } generator de amprente digitale
-        [few] { -brand-product-name } a blocat { $count } generatoare de amprente digitale
-       *[other] { -brand-product-name } a blocat { $count } de generatoare de amprente digitale
+        [one] { -brand-product-name } a blocat { $count } detector de amprente digitale
+        [few] { -brand-product-name } a blocat { $count } detectoare de amprente digitale
+       *[other] { -brand-product-name } a blocat { $count } de detectoare de amprente digitale
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } a permis { $count } detector de amprente digitale
+        [few] { -brand-product-name } a permis { $count } detectoare de amprente digitale
+       *[other] { -brand-product-name } a permis { $count } de detectoare de amprente digitale
     }
 trustpanel-fingerprinter-list-header = Aceste site-uri încearcă să îți detecteze amprentele digitale:
 trustpanel-cryptominer-blocking-tab-header =

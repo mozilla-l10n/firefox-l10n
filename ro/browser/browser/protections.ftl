@@ -48,7 +48,7 @@ cookie-tab-content = Aceste cookie-uri te urmăresc de pe un site pe altul și a
 tracker-tab-title = Conținut de urmărire
 tracker-tab-description = Site-urile web pot încărca reclame externe, videoclipuri și alte conținuturi ce conțin coduri de urmărire. Blocarea conținutului de urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze. <a data-l10n-name="learn-more-link">Află mai multe</a>
 fingerprinter-tab-title = Detectoare de amprente digitale
-fingerprinter-tab-content = Detectoarele de amprente digitale  îți colectează setările din browser și calculator și creează un profil despre tine. Folosind această amprentă digitală, te pot urmări pe diferite site-uri web. <a data-l10n-name="learn-more-link">Află mai multe</a>
+fingerprinter-tab-content = Detectoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Folosind această amprentă digitală, te pot urmări pe diferite site-uri web. <a data-l10n-name="learn-more-link">Află mai multe</a>
 cryptominer-tab-title = Criptomineri
 cryptominer-tab-content = Criptomomerii folosesc puterea de calcul a sistemului tău pentru a mina bani digitali. Scripturile de criptominare îți golesc bateria, îți încetinesc calculatorul și îți pot crește factura la energie. <a data-l10n-name="learn-more-link">Află mai multe</a>
 protections-close-button2 =
