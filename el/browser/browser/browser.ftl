@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Διαχωρισμός προβολής
     .aria-label = Διαχωρισμός προβολής
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Απαλοιφή ιστορικού αναζήτησης
+    .accesskey = κ
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
