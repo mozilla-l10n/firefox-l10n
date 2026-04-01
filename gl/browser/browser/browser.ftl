@@ -285,6 +285,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Marcar esta páxina ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Borrar historial de buscas
+    .accesskey = L
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -1414,6 +1420,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
