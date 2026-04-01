@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Ayrık görünüm
     .aria-label = Ayrık görünüm
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Arama geçmişini temizle
+    .accesskey = t
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
