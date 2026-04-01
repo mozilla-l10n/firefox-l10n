@@ -293,6 +293,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Setja síðu í bókamerki ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Hreinsa leitarferil
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
