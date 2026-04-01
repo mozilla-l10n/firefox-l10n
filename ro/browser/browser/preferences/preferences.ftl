@@ -2312,9 +2312,14 @@ preferences-doh-manage-exceptions =
 preferences-doh-overview-default =
     .label = Protecție implicită
     .description = Folosește DNS securizat în regiunile unde este disponibil.
+preferences-doh-overview-custom =
+    .label = Personalizat
+    .description = Folosește întotdeauna DNS securizat cu control asupra furnizorului și comportament de revenire.
 preferences-doh-overview-off =
     .label = Dezactivat
     .description = Folosește rezolverul DNS implicit.
+preferences-doh-advanced-button =
+    .label = Setări avansate
 
 ## The following strings are used in the Download section of settings
 
