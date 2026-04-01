@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } no
 
 neterror-file-not-found-filename = Verifique si el nombre del archivo tiene errores de mayúsculas o de tipeo.
 neterror-file-not-found-moved = Fíjese si el archivo fue movido, renombrado o borrado.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } no puede encontrar el archivo en <strong>{ $path }</strong>. O no existe o la ruta es incorrecta.
+neterror-file-not-found-what-can-you-do = Si se escribió la dirección manualmente, verifique si hay errores de mayúsculas o tipográficos en el nombre o la ruta del archivo. Si se siguió un marcador o enlace guardado, es posible que el archivo se haya movido, renombrado o eliminado desde que se guardó. Intente localizarlo usando el administrador de archivos o una búsqueda reciente.
 neterror-access-denied = Puede haber sido eliminado, movido o los permisos del archivo pueden evitar el acceso.
 neterror-unknown-protocol = Necesita instalar otro software para abrir esta dirección.
 neterror-redirect-loop = Este problema a veces es causado por deshabilitar o rechazar cookies.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } no puede crear una conexión segura al servidor en { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } no puede conectarse al servidor en <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = El servidor en <strong>{ $hostname }</strong> está tardando demasiado en responder.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = El servidor en <strong>{ $hostname }</strong> devolvió un error: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } no cargó esta página porque parece que la configuración de seguridad no coincide con la de la página anterior.
 fp-neterror-http-auth-disabled-intro = Alguien que se haga pasar por el sitio podría intentar robar cosas como el nombre de usuario, contraseña o correo electrónico.
 fp-neterror-http-auth-disabled-secure-connection = Este sitio requiere una conexión segura y no se puede agregar una excepción para visitarlo.
