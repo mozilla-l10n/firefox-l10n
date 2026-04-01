@@ -417,3 +417,5 @@ main-context-menu-pdfjs-cut-page =
     .label = Retalla la pàgina
 main-context-menu-pdfjs-delete-page =
     .label = Suprimeix la pàgina
+main-context-menu-pdfjs-save-page =
+    .label = Anomena i desa la selecció…
