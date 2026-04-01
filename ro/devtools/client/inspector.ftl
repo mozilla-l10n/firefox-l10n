@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Cea mai apropiată de: { $colorName }
 colorpicker-tooltip-hue-slider-title = Tentă
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Opacitate
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Pseudo-clase specifice elementelor

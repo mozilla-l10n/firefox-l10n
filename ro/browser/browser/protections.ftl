@@ -218,3 +218,49 @@ bar-tooltip-cryptominer =
             [few] { $count } criptomineri ({ $percentage }%)
            *[other] { $count } de criptomineri ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Protecții pentru confidențialitate
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blocat săptămâna aceasta
+        [few] { $count } blocate săptămâna aceasta
+       *[other] { $count } blocate săptămâna aceasta
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } element de urmărire
+        [few] { $count } elemente de urmărire
+       *[other] { $count } de elemente de urmărire
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } detector de amprente digitale
+        [few] { $count } detectoare de amprente digitale
+       *[other] { $count } de detectoare de amprente digitale
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } cookie de urmărire
+        [few] { $count } cookie-uri de urmărire
+       *[other] { $count } de cookie-uri de urmărire
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } element de urmărire de pe rețele sociale
+        [few] { $count } elemente de urmărire de pe rețele sociale
+       *[other] { $count } de elemente de urmărire de pe rețele sociale
+    }
+privacy-metrics-empty = Niciun element de urmărire blocat săptămâna aceasta. { -brand-short-name } te protejează de următoarele amenințări în timp ce navighezi.
+privacy-metrics-loading = Se încarcă statisticile de protecție…
+privacy-metrics-error = Nu se pot încărca statisticile de protecție.
+privacy-metrics-private-window = { -brand-short-name } continuă să blocheze elementele de urmărire în ferestre private, dar nu ține o evidență cu ce a blocat.

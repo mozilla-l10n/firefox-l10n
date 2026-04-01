@@ -29,3 +29,14 @@ recently-closed-undo-close-window-label =
         [few] { $winTitle } (și alte { $tabCount } file)
        *[other] { $winTitle } (și alte { $tabCount } de file)
     }
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } filă, închisă la{ DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [few] { $winTitle } ({ $tabCount } file, închise la { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } de file, închise la { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }

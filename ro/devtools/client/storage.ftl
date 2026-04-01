@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = Adaugă un element
+storage-delete-all-button =
+    .title = Șterge tot
 # Refresh button title
 storage-refresh-button =
     .title = Reîmprospătează elementele

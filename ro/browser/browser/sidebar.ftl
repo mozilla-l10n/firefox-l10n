@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Șterge paginile din istoric
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Editează marcajul…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Șterge marcajul
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Șterge
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = File de pe alte dispozitive
 sidebar-menu-cpm-header =
     .heading = Parole
+sidebar-menu-bookmarks-header =
+    .heading = Marcaje
 sidebar-panel-header-close-button =
     .tooltiptext = Închide
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Meniu de marcaje
+sidebar-bookmarks-folder-toolbar = Bară de marcaje
+sidebar-bookmarks-folder-other = Alte marcaje
+sidebar-bookmarks-folder-mobile = Marcaje mobile
 
 ## Titles for sidebar menu panels.
 

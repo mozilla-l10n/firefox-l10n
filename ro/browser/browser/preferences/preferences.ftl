@@ -2574,3 +2574,6 @@ security-privacy-issue-warning-doh =
 security-privacy-issue-warning-ech =
     .label = Clientul criptat Hello este dezactivat
     .description = Clientul criptat Hello ascunde de furnizorul de internet pe ce site-uri intri.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Configurarea automată a proxy-ului este activată
+    .description = Configurarea automată a proxy-ului ar putea lăsa rețele care nu sunt de încredere să îți monitorizeze activitatea.

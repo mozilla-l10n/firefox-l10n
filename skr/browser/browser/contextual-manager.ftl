@@ -6,13 +6,22 @@ contextual-manager-filter-input =
     .placeholder = پاس ورڈز ڳولو
     .key = F
     .aria-label = پاس ورڈز ڳولو
+contextual-manager-menu-more-options-button =
+    .title = ٻیاں آپشناں
+contextual-manager-more-options-popup =
+    .aria-label = ودھیک اختیارات
 
 ## Passwords
 
 contextual-manager-passwords-command-create = پاس ورڈ شامل کرو
 contextual-manager-passwords-command-import-from-browser = ٻئے براؤزر کنوں درآمد کرو…
 contextual-manager-passwords-command-import = فائل کنوں درآمد کرو…
+contextual-manager-passwords-command-export = پاس ورڈز برآمد کرو
+contextual-manager-passwords-command-remove-all = سارے پاس ورڈ ہٹاؤ
+contextual-manager-passwords-command-options = اختیارات
+contextual-manager-passwords-command-settings = ترتیباں
 contextual-manager-passwords-command-help = مدد
+contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
 contextual-manager-passwords-export-os-auth-dialog-message-win = آپݨے پاس ورڈ برآمد کرݨ کِیتے، آپݨے ونڈوز لاگ اِن دیاں سنداں درج کرو۔ اِین٘دے نال تُہاݙے اکاؤنٹس دی راکھی وِچ مَدت مِلدی ہِے۔
 # This message can be seen when attempting to export a password in about:logins

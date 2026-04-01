@@ -43,6 +43,9 @@ certificate-viewer-logid = ID de jurnal
 certificate-viewer-method = Metodă
 certificate-viewer-modulus = Modul
 certificate-viewer-name = Denumire
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Nume de botez
 certificate-viewer-not-after = Nu după
 certificate-viewer-not-before = Nu înainte
 certificate-viewer-organization = Organizație

@@ -64,8 +64,14 @@ new-profile-page-done-button =
     .label = Editare terminată
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Copia ta „{ $profilename }” este gata de personalizare
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Copia ta { $profilename } este gata de personalizare
 copied-profile-page-header-description = Ți-am copiat datele și setările într-un profil nou. Acum dă-i un nume, alege un aspect și personalizează.
+restored-profile-page-header = Personalizează-ți profilul restaurat
+restored-profile-page-header-description = Fiecare profil își păstrează istoricul de navigare și setările unice separat de celelalte profiluri. În plus, protecțiile puternice de confidențialitate din { -brand-short-name } sunt activate implicit.
+restored-profile-page-learn-more = Află mai multe
 profile-window-title-2 = { -brand-short-name } - Alege un profil
 profile-window-logo =
     .alt = Logoul { -brand-short-name }
@@ -87,6 +93,9 @@ delete-profile-bookmarks = Marcaje
 delete-profile-history = Istoric (pagini vizitate, cookie-uri, date ale site-urilor)
 delete-profile-autofill = Date de completare automată (adrese, metode de plată)
 delete-profile-logins = Parole
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Șterge profilul „{ $profilename }”
 
 ##
 
