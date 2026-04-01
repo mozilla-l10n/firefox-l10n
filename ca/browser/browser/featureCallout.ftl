@@ -104,6 +104,14 @@ perplexity-callout-primary-label = Demana-ho al Perplexity
 perplexity-callout-secondary-label-1 = Descarta
 perplexity-callout-secondary-label-2 = Entesos
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = Voleu provar una nova cerca centrada en la privadesa?
+start-page-callout-subtitle = Proveu Startpage. Està dissenyat per mantenir les vostres cerques més privades de bon principi.
+start-page-callout-primary-label = Prova Startpage
+start-page-callout-secondary-label = Descarta
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
@@ -227,7 +235,12 @@ sidebar-genai-survey-satisfaction-question = Esteu satisfet/a de tenir accés a 
 sidebar-genai-survey-productive-question =
     Fins a quin punt esteu d’acord o en desacord amb aquesta afirmació:<br/>
     «El bot de conversa d’IA a la barra lateral m’ajuda a ser més productiu»?
+splitview-onboarding-callout-title-1 = Vista dividida: la millor manera de treballar en diverses tasques alhora
+splitview-onboarding-callout-subtitle-1 = Feu clic amb el botó dret sobre aquesta pestanya i seleccioneu «Afegeix una vista dividida» per veure dues pestanyes alhora.
 splitview-onboarding-callout-cta-1 = Proveu-ho ara
+splitview-onboarding-callout-title-2 = Vegeu dues pestanyes alhora amb la vista dividida
+splitview-onboarding-callout-subtitle-2 = Sense finestres addicionals. Sense canviar de pestanya. Feu clic amb el botó dret en aquesta pestanya i trieu «Afegeix una vista dividida».
+splitview-onboarding-callout-cta-2 = Proveu la vista dividida
 unified-search-callout-title = Canvieu els motors de cerca
 unified-search-callout-subtitle = Trieu aquell que s’adapti millor a la vostra cerca.
 unified-search-callout-primary-label = Següent
