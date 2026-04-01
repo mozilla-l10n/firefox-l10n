@@ -1034,7 +1034,7 @@ addressbar-header-firefox-suggest-2 =
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
-    .label = Εμφάνιση όρων αναζήτησης στη γραμμή διευθύνσεων όταν βρίσκεστε σε σελίδες αποτελεσμάτων
+    .label = Εμφάνιση όρων αναζήτησης στη γραμμή διευθύνσεων σε σελίδες αποτελεσμάτων
 search-separate-default-engine-2 =
     .label = Χρήση διαφορετικής μηχανής αναζήτησης στα ιδιωτικά παράθυρα
     .accesskey = Χ
