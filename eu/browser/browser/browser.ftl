@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Ikuspegi zatitua
     .aria-label = Ikuspegi zatitua
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Garbitu bilaketa-historia
+    .accesskey = h
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
