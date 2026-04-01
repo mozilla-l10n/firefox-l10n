@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ko
 
 neterror-file-not-found-filename = Kontrolearje de bestânsnamme op grutte/lytse letters of oare typflaters.
 neterror-file-not-found-moved = Kontrolearje oft it bestân ferpleatst, omneamd of fuortsmiten is.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } kin it bestân net fine yn <strong>{ $path }</strong>. It bestiet net of it paad is net korrekt.
+neterror-file-not-found-what-can-you-do = As jo it adres mei de hân ynfierd hawwe, kontrolearje de bestânsnamme of it paad op flaters yn haadletters of typflaters. As jo in bewarre blêdwizer of keppeling folge hawwe, kin it bestân ferpleatst, omneamd of wiske wêze sûnt it bewarre is. Probearje it te finen mei jo bestânbehearder of in resinte sykopdracht.
 neterror-access-denied = It kin fuortsmiten wêze, ferpleatst, of bestânsmachtigingen kinne tagong tsjingean.
 neterror-unknown-protocol = Miskien moatte jo oare software ynstallearje om dit adres te iepenjen.
 neterror-redirect-loop = Dit probleem kin somtiden feroarsake wurde troch it útskeakeljen of wegerjen fan cookies.
@@ -187,6 +191,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } kin gjin befeilige ferbining mei de server op { $hostname } oanmeitsje.
 fp-neterror-offline-intro = { -brand-short-name } kin gjin ferbining meitsje mei de server op <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = De server op <strong>{ $hostname }</strong> docht der te lang oer om te reagearjen.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = De server op <strong>{ $hostname }</strong> hat in flater weromstjoerd: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } hat dizze side net laden omdat it liket dat de befeiligingskonfiguraasje net oerienkomt mei dy fan de foarige side.
 fp-neterror-http-auth-disabled-intro = Immen dy’t him foardocht as de website kin probearje dingen lykas jo brûkersnamme, wachtwurd of e-mailadres te stellen.
 fp-neterror-http-auth-disabled-secure-connection = Dizze website fereasket in feilige ferbining, en jo kinne gjin útsûndering tafoegje om it te besykjen.

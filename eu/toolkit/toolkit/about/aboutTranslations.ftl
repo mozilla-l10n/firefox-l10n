@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Saiatu berriro
 about-translations-translation-error-heading = Arazo bat egon da itzultzean.
 about-translations-translation-error-subtext = Saiatu berriro mesedez.
 about-translations-translation-error-button = Saiatu berriro
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Sentitzen dugu, oraindik ez dugu { $language } onartzen
+about-translations-detected-language-unsupported-heading-unknown-2 = Sentitzen dugu, oraindik ez dugu itzulpenik onartzen hizkuntza honetatik
 about-translations-detected-language-unsupported-subtext = Aukeratu beste hizkuntza bat.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Ezabatu orriak historiatik
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Editatu laster-marka…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Ezabatu-laster-marka
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Ezabatu
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Beste gailuetako fitxak
 sidebar-menu-cpm-header =
     .heading = Pasahitzak
+sidebar-menu-bookmarks-header =
+    .heading = Laster-markak
 sidebar-panel-header-close-button =
     .tooltiptext = Itxi
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Laster-marken menua
+sidebar-bookmarks-folder-toolbar = Laster-marken tresna-barra
+sidebar-bookmarks-folder-other = Beste laster-markak
+sidebar-bookmarks-folder-mobile = Mugikorreko laster-markak
 
 ## Titles for sidebar menu panels.
 

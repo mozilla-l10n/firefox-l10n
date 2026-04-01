@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Nu mai oferim suport pentru funcționalitatea „Nu urmări”.
 non-technical-privacy-heading =
     .label = Protecții suplimentare
+preferences-privacy-relay-available =
+    .label = Recomandă măști de e-mail { -relay-brand-name }
+    .description = Îți ascunde adresa reală pentru a-ți proteja căsuța poștală de spam.
 non-technical-privacy-header = Preferințe de confidențialitate pe site-uri web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -294,6 +297,8 @@ containers-remove-cancel-button = Nu elimina acest container
 settings-tabs-show-image-in-preview =
     .label = Afișează o previzualizare a imaginii când plasezi cursorul pe o filă
     .accessKey = h
+settings-tabs-drag-to-create-tab-groups =
+    .label = Trage filele laolaltă ca să creezi grupaje de file
 browser-layout-header2 =
     .label = Aspect browser
 browser-layout-horizontal-tabs2 =
@@ -529,9 +534,16 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Folosește setările sistemului de operare în „{ $localeName }” pentru formatul datelor, orelor, numerelor și unităților de măsură.
+settings-spellcheck-header =
+    .label = Verificare ortografică
 check-user-spelling =
     .label = Verifică ortografia pe măsură ce tastez
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Descarcă dicționare
+spellcheck-promo =
+    .heading = Cum se folosește verificarea ortografică
+    .message = Dă clic dreapta într-un câmp de text ca să activezi sau să dezactivezi verificarea ortografică sau ca să schimbi limba. Nu toate câmpurile permit verificarea ortografică.
 
 ## General Section - Files and Applications
 
@@ -789,11 +801,20 @@ network-proxy-connection-learn-more = Află mai multe
 network-proxy-connection-settings =
     .label = Setări…
     .accesskey = e
+network-proxy-group2 =
+    .label = Setări proxy
+    .description = Configurează cum se conectează { -brand-short-name } la internet.
+network-proxy-connection-settings2 =
+    .label = Configurează proxy-ul
+    .description = Modificarea setărilor poate duce la probleme de conexiune
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Ferestre și file noi
 home-new-windows-tabs-description2 = Alege ce vezi când deschizi pagina de start, ferestre noi și file noi.
+home-section =
+    .heading = Acasă și pornire
 
 ## Home Section - Default Browser
 
@@ -1046,6 +1067,16 @@ search-one-click-desc = Alege motoarele de căutare alternative care apar sub ba
 search-one-click-header-3 =
     .label = Motoare de căutare suplimentare
     .description = Alege ce motoare de căutare și comenzi rapide să apară în bara de adrese.
+update-search-engine-success =
+    .message = Motorul de căutare a fost actualizat cu succes
+search-edit-engine-2 =
+    .title = Editează motorul de căutare
+search-delete-engine =
+    .title = Șterge motorul de căutare
+search-enable-engine =
+    .title = Activează motorul de căutare
+search-outlink-to-extensions-page =
+    .title = Gestionează în extensii și teme
 search-choose-engine-column =
     .label = Motor de căutare
 search-choose-keyword-column =
@@ -1583,6 +1614,11 @@ history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = Va ține minte istoricul
+history-remember-option-never2 =
+    .label = Nu reține niciodată istoricul
+    .description = Fiecare fereastră se comportă ca o fereastră privată. Când este activat acest mod, extensiile au nevoie de permisiuni.
+history-remember-option-custom2 =
+    .label = Personalizează istoricul
 history-remember-option-never =
     .label = Nu va ține minte istoricul niciodată
 history-remember-option-custom =
@@ -1616,6 +1652,16 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Șterge istoricul…
     .accesskey = s
+history-header2 =
+    .heading = Istoric
+history-section-header =
+    .label = Istoric
+    .description = Alege ce vrei să rețină { -brand-short-name } când închizi browserul.
+history-custom-section-header =
+    .label = Setări avansate
+    .description = Personalizează ce vrei să rețină { -brand-short-name } când închizi browserul.
+history-custom-button =
+    .label = Alege ce vrei să rețină { -brand-short-name }
 history-group =
     .label = Istoric
 
@@ -2260,3 +2306,61 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Anulează
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blochează
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } este în gardă
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } recomandă câteva îmbunătățiri de securitate
+security-privacy-status-ok-label = Protecția îmbunătățită împotriva urmăririi este activată
+security-privacy-status-problem-label = Am găsit setări care îți afectează protecția
+security-privacy-status-problem-helper-label = Vezi problemele
+security-privacy-status-pending-trackers-label = Se caută câte elemente de urmărire a blocat { -brand-short-name } în ultima lună
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } element de urmărire blocat în ultima lună
+        [few] { $trackerCount } elemente de urmărire blocate în ultima lună
+       *[other] { $trackerCount } de elemente de urmărire blocate în ultima lună
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Ai <a data-l10n-name="strict-tracking-protection">protecție strictă</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Ai <a data-l10n-name="custom-tracking-protection">protecție personalizată</a>
+security-privacy-status-up-to-date-label = Ai cea mai recentă și sigură versiune de { -brand-short-name }
+security-privacy-status-update-needed-label = Este disponibilă o versiune nouă { -brand-short-name }.
+security-privacy-status-update-error-label = { -brand-short-name } întâmpină probleme la actualizările proprii
+security-privacy-status-update-checking-label = { -brand-short-name } verifică dacă există actualizări
+security-privacy-status-update-needed-description = Actualizează pentru cele mai recente actualizări de viteză, stabilitate și securitate.
+security-privacy-status-update-button-label =
+    .label = Actualizează { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Un scut cu un semn de exclamare, care exprimă îngrijorarea cu privire la avertismentele de securitate
+security-privacy-image-ok =
+    .alt = Un scut cu o bifă, care arată că nu ai probleme de securitate nerezolvate
+security-privacy-issue-card =
+    .heading = Avertismente de securitate
+issue-card-reset-button =
+    .label = Resetează
+issue-card-dismiss-button =
+    .tooltiptext = Ignoră
+    .aria-label = Ignoră
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-status-header =
+    .label = Protecție îmbunătățită împotriva urmăririi
+    .description = Site-urile folosesc elemente de urmărire care să meargă după tine online și îți arată reclame ciudate. { -brand-short-name } te protejează în timp ce navighezi, blocând automat elementele de urmărire, ca să ai control asupra urmelor pe care le lași online.
+preferences-etp-level-standard =
+    .label = Standard (implicit)
+    .description = Protecții puternice și fiabile care funcționează fără probleme cu majoritatea site-urilor.
+preferences-etp-level-strict =
+    .label = Strictă
+    .description = Protecții mai puternice, care blochează majoritatea elementelor de urmărire, dar este posibil să dea probleme pe unele site-uri.
+preferences-etp-level-custom =
+    .label = Personalizată
+    .description = Alege tu ce protecții să activezi sau să dezactivezi.
+preferences-etp-status-advanced-button =
+    .label = Setări avansate

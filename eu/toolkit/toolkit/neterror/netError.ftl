@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name }(e)
 
 neterror-file-not-found-filename = Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.
 neterror-file-not-found-moved = Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name }(e)k ezin du <strong>{ $path }</strong> bideko fitxategia aurkitu. Edo fitxategia ez dago, edo bidea okerra da.
+neterror-file-not-found-what-can-you-do = Helbidea eskuz idatzi baduzu, egiaztatu letra larri/xeheak ondo daudela edo bestelako idazketa-akatsak ez dituela fitxategi-izenean edo bidean. Gordetako laster-marka edo lotura bat jarraitu baduzu, baliteke gorde zen unetik fitxategia lekuz aldatua, berrizendatua edo ezabatua izana. Saiatu sistemaren fitxategi-kudeatzailearekin edo bilaketarako tresnarekin bilatzen.
 neterror-access-denied = Kendua edo lekuz aldatua egon liteke, edo fitxategi-baimenek sarrera eragotz lezakete.
 neterror-unknown-protocol = Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.
 neterror-redirect-loop = Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.
@@ -180,12 +184,20 @@ neterror-response-status-code = Errore-kodea: { $responsestatus } { $responsesta
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Badirudi zure Interneterako konexioak arazoren bat duela
+fp-neterror-illustration-alt =
+    .alt = Azeri baten ilustrazioa, deskonektatutako sareko kableei begira dagoela.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name }(e)k ezin du sortu konexio segurua { $hostname } helbideko zerbitzariarekin.
 fp-neterror-offline-intro = { -brand-short-name }(e)k ezin du konektatu <strong>{ $hostname }</strong> helbideko zerbitzariarekin
+fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> ostalariko zerbitzaria erantzuteko denbora gehiegi ari da hartzen.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = <strong>{ $hostname }</strong> ostalariko zerbitzariak errore bat itzuli du: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name }(e)k ez du orri hau kargatu bere segurtasun-konfigurazioa aurreko orriarenarekin bat ez datorrela baitirudi.
 fp-neterror-http-auth-disabled-intro = Gunearen itxurak egiten dituen norbait saia liteke lapurtzen zure erabiltzaile-izena, pasahitza edo posta elektronikoko mezuak.
 fp-neterror-http-auth-disabled-secure-connection = Gune honek konexio segurua eskatzen du eta ezin duzu bisitatzeko salbuespenik gehitu.
