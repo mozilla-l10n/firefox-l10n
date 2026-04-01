@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = มุมมองแยก
     .aria-label = มุมมองแยก
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = ล้างประวัติการค้นหา
+    .accesskey = ง
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
