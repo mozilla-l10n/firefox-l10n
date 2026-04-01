@@ -43,6 +43,10 @@ certificate-viewer-logid = ID de registro
 certificate-viewer-method = Método
 certificate-viewer-modulus = Módulo
 certificate-viewer-name = Nombre
+certificate-viewer-surname = Apellido
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Nombre de pila
 certificate-viewer-not-after = No después de
 certificate-viewer-not-before = No antes de
 certificate-viewer-organization = Organización
