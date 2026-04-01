@@ -517,10 +517,10 @@ newtab-weather-opt-in-yes =
 newtab-weather-static-city = New York
 # "Highest" here refers to the highest temperature of the day
 newtab-weather-high =
-    .aria-label = Haute
+    .aria-label = Maximale
 # "Lowest" here refers to the lowest temperature of the day
 newtab-weather-low =
-    .aria-label = Basse
+    .aria-label = Minimale
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -745,7 +745,7 @@ newtab-widget-message-copy = Qu’il s’agisse de rappels rapides ou de tâches
 # the built-in wallpaper collection or uploading your own image.
 newtab-promo-card-title-addons = Personnalisez { -brand-product-name }
 newtab-promo-card-body-addons = Choisissez un fond d’écran dans notre collection ou créez le vôtre.
-newtab-promo-card-cta-addons = Essayez-le maintenant
+newtab-promo-card-cta-addons = Essayer maintenant
 newtab-promo-card-title = Apportez votre soutien à { -brand-product-name }
 newtab-promo-card-body = Nos sponsors soutiennent notre mission de créer un meilleur Web
 newtab-promo-card-cta = En apprendre davantage
