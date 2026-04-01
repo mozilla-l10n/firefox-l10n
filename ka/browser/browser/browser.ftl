@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = გაყოფილი ხედი
     .aria-label = გაყოფილი ხედი
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = ძიების ისტორიის გასუფთავება
+    .accesskey = ტ
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
