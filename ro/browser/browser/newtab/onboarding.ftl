@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Restaurează din copia de rezervă
 restore-from-backup-title = Hai să facem { -brand-short-name } iar cum îți place
 restore-from-backup-subtitle = Recuperează-ți toate marcajele, istoricul și alte date ca să revii la navigare.
 restore-from-backup-secondary-button = Nu restaura
+multiple-backups-info-tile = <strong>S-au găsit mai multe copii de rezervă.</strong> Este selectat cel mai recent fișier. Restaurează alte profiluri în <a data-l10n-name="settings-label">Setări.</a>
 
 ## Restored from Backup spotlight
 

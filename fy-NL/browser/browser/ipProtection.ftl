@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Nij: VPN, no streekrjocht yn jo browser
 ipprotection-feature-introduction-link-text-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen, sels as jo yn in priveefinster binne.
+ipprotection-feature-introduction-description-private-browsing = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels as jo in priveefinster brûke.
+ipprotection-feature-introduction-description-captive-portal = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels op iepenbiere wifi.
 ipprotection-feature-introduction-button-primary = Folgjende
 ipprotection-feature-introduction-button-secondary-not-now = No net
 ipprotection-feature-introduction-button-secondary-no-thanks = Nee, tankewol
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Begrepen
 ## Panel
 
 unauthenticated-vpn-title = De ynboude VPN fan { -brand-product-name } probearje
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ferstopje jo lokaasje</a> by it navigearjen yn { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Ferstopje jo lokaasje by it navigearjen yn { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

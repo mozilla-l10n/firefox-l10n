@@ -126,6 +126,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>Te apropii de limit
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Aproape că ți-ai folosit toate datele VPN.</strong> Ți-au mai rămas { $usageLeft } GB. După ce le epuizezi, VPN-ul se va întrerupe până la resetarea de la începutul lunii viitoare.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Aproape că nu mai ai date VPN.</strong> Mai ai { $usageLeft } MB. Când le termini pe toate, VPN-ul va intra în pauză până la resetarea datelor, pe data de întâi a lunii următoare.
 
 ## IP Protection Settings
 
@@ -135,6 +138,11 @@ ip-protection-description =
 ip-protection-learn-more = Află mai multe
 ip-protection-site-exceptions =
     .label = Setări specifice site-ului
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Încearcă VPN-ul încorporat din { -brand-short-name }
+    .message = Ascunde-ți locația când navighezi în { -brand-short-name }. Obține { $maxUsage } GB de date VPN gratuite în fiecare lună.
 ip-protection-not-opted-in-button = Începe
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -187,6 +195,7 @@ ip-protection-bandwidth-hit-for-the-month = Ți-ai folosit toți cei { $maxUsage
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Se resetează la { $maxUsage } GB în prima zi a fiecărei luni.
+ip-protection-bandwidth-header-1 = Limită lunară de date
 
 ## IP Protection bandwidth reset callout
 
@@ -195,6 +204,11 @@ ip-protection-bandwidth-help-text = Se resetează la { $maxUsage } GB în prima 
 ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, actualizați și gata de utilizare
 ipprotection-bandwidth-reset-text = Activează VPN-ul pentru o îmbunătățire a confidențialității, gratuit în fiecare lună.
 ipprotection-bandwidth-reset-button = Am înţeles
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Este posibil ca site-ul să nu meargă cu VPN.</strong> Încearcă să intri în cont sau să dezactivezi VPN-ul când ești pe acest site.
+ipp-activator-breakage-turn-off-warning = <strong>Este posibil ca site-ul să nu meargă cu VPN.</strong> Încearcă să dezactivezi VPN-ul când ești pe acest site.
 
 ## IP Protection alerts
 

@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Setează politicile pe care WebExtensions le pot accesa prin chrome.storage.managed.
+policy-AIControls = Configurează comenzile AI.
 policy-AllowedDomainsForApps = Definește domeniile cu permisiune de acces la Google Workspace.
 policy-AllowFileSelectionDialogs = Permite ferestre de dialog pentru selectarea filelor.
 policy-AppAutoUpdate = Activează sau dezactivează actualizarea automată a aplicației.
@@ -90,6 +91,7 @@ policy-Homepage = Setează și, opțional, blochează pagina de start.
 policy-HttpAllowlist = Origini care nu vor fi trecute la nivel HTTPS.
 policy-HttpsOnlyMode = Permite activarea modului Numai HTTPS.
 policy-InstallAddonsPermission = Permite anumitor site-uri web să instaleze suplimente.
+policy-IPProtectionAvailable = Fă indisponibil pentru utilizatori VPN-ul încorporat.
 policy-LegacyProfiles = Dezactivează funcționalitatea care forțează crearea unui profil separat pentru fiecare versiune instalată.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Setează și blochează valoarea pentru un subset de prefer
 policy-PrivateBrowsingModeAvailability = Setează disponibilitatea modului de navigare privată.
 policy-PromptForDownloadLocation = Întreabă unde să fie salvate fișierele la descărcare.
 policy-Proxy = Configurează setările proxy.
+policy-RelaunchRequired = Cere redeschiderea { -brand-short-name } într-un interval dat de timp și notificarea utilizatorului cu privire la relansarea viitoare.
 policy-RequestedLocales = Setează lista de limbi solicitate de aplicație, în ordinea preferinței.
 policy-SanitizeOnShutdown2 = Șterge datele de navigare la închidere.
 policy-SearchBar = Setează locația implicită în bara de căutare. Utilizatorul are în continuare posibilitatea de personalizare.
@@ -135,6 +138,7 @@ policy-SearchSuggestEnabled = Activează sau dezactivează sugestiile de căutar
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Adaugă sau șterge module PKCS #11.
 policy-ShowHomeButton = Afișează butonul paginii de start în bara de instrumente.
+policy-SitePolicies = Politici specifice site-ului.
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = Nu afișa Condițiile de utilizare și Notificarea privind confidențialitatea la pornire. Declară că accepți și ai autoritatea de a accepta Condițiile de utilizare în numele tuturor persoanelor cărora le oferi acces la acest browser.
 policy-SSLVersionMax = Setează versiunea maximă SSL.

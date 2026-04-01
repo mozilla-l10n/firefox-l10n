@@ -73,6 +73,11 @@ newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+newtab-topsites-clear-input =
+    .aria-label = Șterge textul
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anulează
@@ -308,6 +313,8 @@ newtab-custom-shortcuts-toggle =
     .description = Site-uri pe care le salvezi sau le vizitezi
 newtab-custom-shortcuts-nova =
     .label = Comenzi rapide
+newtab-custom-row-description =
+    .description = Număr de rânduri
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -510,6 +517,12 @@ newtab-weather-opt-in-yes =
     .label = Da
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Ridicată
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Scăzută
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -644,6 +657,8 @@ newtab-report-cancel = Anulează
 newtab-report-submit = Trimite
 newtab-toast-thanks-for-reporting =
     .message = Îți mulțumim pentru sesizare.
+newtab-toast-widgets-hidden =
+    .message = Selectează pictograma cu creion ca să adaugi widgeturi în orice moment.
 
 ## Strings for task / to-do list productivity widget
 
@@ -684,6 +699,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Listă nouă
 newtab-widget-section-title = Widgeturi
+newtab-widget-menu-hide = Ascunde widgetul
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ascunde widgeturile
@@ -694,6 +710,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizează widgeturile
     .aria-label = Minimizează toate widgeturile la mărimea compactă
+newtab-widget-section-feedback = Spune-ne ce părere ai
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
@@ -725,6 +742,12 @@ newtab-daily-briefing-card-timestamp = Actualizat acum { $minutes } min
 newtab-widget-message-title = Stai concentrat(ă) cu liste și un cronometru încorporat
 # to-dos stands for "things to do".
 newtab-widget-message-copy = De la mementouri rapide la liste zilnice de sarcini, sesiuni de concentrare până la pauze de întindere — stai concentrat(ă) pe sarcină și o termini la timp.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Personalizează { -brand-product-name } cum vrei tu
+newtab-promo-card-body-addons = Alege un fundal din colecție sau creează tu unul.
+newtab-promo-card-cta-addons = Încearcă acum
 newtab-promo-card-title = Susține { -brand-product-name }
 newtab-promo-card-body = Sponsorii noștri ne susțin misiunea de a construi un web mai bun
 newtab-promo-card-cta = Află mai multe

@@ -7,6 +7,9 @@
 
 menu-application-preferences =
     .label = Preferințe
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = Setări…
 menu-application-services =
     .label = Servicii
 menu-application-hide-this =
@@ -87,6 +90,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Partajează
     .accesskey = h
+menu-file-share-qrcode =
+    .label = Generează cod QR…
+    .accesskey = Q
 menu-file-print-setup =
     .label = Aranjare în pagină…
     .accesskey = u

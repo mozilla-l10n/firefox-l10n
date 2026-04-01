@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Ireki gunea leiho berrian
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Zure segurtasuna babesteko, { $hostname } ostalariak ez du { -brand-short-name } baimenduko orria bistaratzea, beste gune batek hau kapsulatu badu. Orri hau ikusteko, leiho berri batean ireki behar duzu.
 fp-certerror-view-certificate-link = Ikusi gunearen ziurtagiria
+fp-certerror-return-to-previous-page-recommended-button-2 = Itzuli (gomendatua)
+    .accesskey = z
 fp-certerror-return-to-previous-page-recommended-button = Itzuli (gomendatua)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Softwareak { -brand-short-name }(r)i gune honetara modu s
 
 fp-certerror-page-title = Abisua: segurtasun arriskua
 fp-certerror-body-title = Kontuz. Badirudi zerbait oker dagoela.
+fp-certerror-illustration-alt =
+    .alt = Azeri baten ilustrazioa, abisu-seinale laranja bati begira dagoela.
 fp-certerror-why-site-dangerous = Zerk egiten du gunea itxuraz arriskutsu?
 fp-certerror-what-can-you-do = Zer egin dezakezu?
 fp-certerror-advanced-title = Aurreratua
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Jarraitu { $hostname } gunera (arriskut
 fp-certerror-intro = { -brand-short-name }(e)k benetakoa izateko itxura duen segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunearen itxurak egiten dituen norbait saia liteke lapurtzen kreditu-txartelen informazioa, pasahitzak edo posta elektronikoko mezuak.
 fp-certerror-expired-into = { -brand-short-name }(e)k segurtasun-arazo bat aurkitu du <strong>{ $hostname }</strong> ostalarian. Gunea ez dago ondo konfiguratuta edo zure gailuaren erlojua data eta ordu okerrean dago ezarrita.
 fp-certerror-transparency-intro = <strong>{ $hostname }</strong> gunea izateko itxurak egiten dabilen norbait informazioa lapurtzen saia liteke, hala nola kreditu-txartelen informazioa, pasahitzak edo posta elektronikoa.
+fp-certerror-override-exception-button-2 = Jarraitu { $hostname } gunera (arriskutsua)
+    .accesskey = r

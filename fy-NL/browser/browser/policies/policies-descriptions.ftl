@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Beliedsrigels ynstelle dy’t troch WebExtensions benadere wurde kinne fia chrome.storage.managed.
+policy-AIControls = AI-betsjinningseleminten konfigurearje.
 policy-AllowedDomainsForApps = Definiearje domeinen dy’t tagong hawwe ta Google Workspace.
 policy-AllowFileSelectionDialogs = Bestânsseleksjedialoochfinsters tastean.
 policy-AppAutoUpdate = Automatyske applikaasjefernijing yn- of útskeakelje.
@@ -90,6 +91,7 @@ policy-Homepage = De startside ynstelle en opsjoneel beskoattelje.
 policy-HttpAllowlist = Oarspronklike boarnen dy’t net nei HTTPS upgrade wurde.
 policy-HttpsOnlyMode = Allinnich-HTTPS-modus tasean om yn te skeakeljen.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
+policy-IPProtectionAvailable = Foarkomme dat de ynboude VPN beskikber is foar brûkers.
 policy-LegacyProfiles = Funksje om in ôfsûnderlik profyl foar elke ynstallaasje ôf te twingen útskeakelje
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = De wearde foar in subset fan foarkarren ynstelle en beskoat
 policy-PrivateBrowsingModeAvailability = Beskikberheid fan priveenavigaasjemodus ynstelle.
 policy-PromptForDownloadLocation = Freegje wêr’t downloade bestannen bewarre moatte wurde.
 policy-Proxy = Proxyynstellingen konfigurearje.
+policy-RelaunchRequired = Fereaskje dat { -brand-short-name } binnen in bepaalde perioade opnij start wurdt, en de brûker ynformearje oer de kommende werstart.
 policy-RequestedLocales = De list fan frege locales foar de tapassing ynstelle, op folchoarder fan foarkar.
 policy-SanitizeOnShutdown2 = Navigaasjegegevens wiskje by ôfsluten.
 policy-SearchBar = De standertlokaasje fan de sykbalke ynstelle. De brûker mei dizze noch hieltyd oanpasse.

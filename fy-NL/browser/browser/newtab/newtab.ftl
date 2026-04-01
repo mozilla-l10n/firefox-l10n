@@ -317,6 +317,8 @@ newtab-custom-shortcuts-toggle =
     .description = Bewarre of besochte websites
 newtab-custom-shortcuts-nova =
     .label = Fluchkeppelingen
+newtab-custom-row-description =
+    .description = Oantal rigen
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -517,6 +519,12 @@ newtab-weather-opt-in-yes =
     .label = Ja
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Heech
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Leech
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -736,6 +744,11 @@ newtab-daily-briefing-card-timestamp = { $minutes } min. lyn bywurke
 newtab-widget-message-title = Bliuw fokust mei listen en in ynboude timer
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Fan rappe yn ’t sin bringers oant deistige taken, fokussesjes oant stretchskoft – bliuw by de taak en op tiid.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Meitsje { -brand-product-name } fan josels
+newtab-promo-card-body-addons = Kies in eftergrûn út ús kolleksje, of meitsje jo eigen.
 newtab-promo-card-cta-addons = No probearje
 newtab-promo-card-title = { -brand-product-name } stypje
 newtab-promo-card-body = Us sponsors stypje ús misje om in better web te bouwen

@@ -310,6 +310,12 @@ tail-fox-spotlight-subtitle = Spune adio elementelor de urmărire enervante ale 
 tail-fox-spotlight-primary-button = Deschide linkurile cu { -brand-short-name }
 tail-fox-spotlight-secondary-button = Nu acum
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Revino la confidențialitate integrată
+welcome-back-spotlight-subtitle = Bine ai revenit la singurul browser major care este susținut de o organizație non-profit. Luăm măsuri suplimentare ca să îți protejăm datele indiferent unde mergi.
+welcome-back-embedded-import-title = Importă-ți datele și personalizează { -brand-short-name } cum vrei
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Versiunile mai vechi de { -brand-short-name } ar putea începe să aibă probleme pe 14 ianuarie 2025.</strong>

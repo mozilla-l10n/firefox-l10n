@@ -306,6 +306,12 @@ tail-fox-spotlight-subtitle = Esan agur iragarkien jarraipen-elementu nekagarrie
 tail-fox-spotlight-primary-button = Ireki nire loturak { -brand-short-name } erabiliz
 tail-fox-spotlight-secondary-button = Une honetan ez
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Jauzi integratutako pribatutasunera
+welcome-back-spotlight-subtitle = Ongi etorri berriro irabazi-asmorik gabeko erakunde bat atzetik duen nabigatzaile nagusi bakarrera. Aparteko urratsak ematen ditugu zure datuak babesteko harat-honat zabiltzala.
+welcome-back-embedded-import-title = Inportatu zure datuak eta molda ezazu { -brand-short-name } zure erara
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name }(r)en bertsio zaharragoak arazoak izaten has litezke 2025eko urtarrilaren 14tik aurrera.</strong>

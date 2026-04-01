@@ -137,6 +137,14 @@ tab-context-send-to-device =
            *[other] Bidali { $tabCount } fitxa gailura
         }
     .accesskey = d
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Bidali mugikorrera
+           *[other] Bidali { $tabCount } fitxa mugikorrera
+        }
+    .accesskey = d
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
