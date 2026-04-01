@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Opdelt visning
     .aria-label = Opdelt visning
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Ryd søgehistorik
+    .accesskey = R
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
