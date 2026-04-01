@@ -285,6 +285,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Էջանշել այս էջը ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Մաքրել որոնման պատմությունը
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -622,6 +628,9 @@ sharing-warning-proceed-to-tab =
     .label = Շարունակել ներդիրում
 sharing-warning-disable-for-session =
     .label = Անջ. պաշտպանությունը ա/շրջանի համար
+
+## DevTools F12 popup
+
 
 ## URL Bar
 
