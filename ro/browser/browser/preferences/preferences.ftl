@@ -1664,6 +1664,8 @@ history-custom-button =
     .label = Alege ce vrei să rețină { -brand-short-name }
 history-group =
     .label = Istoric
+history-remember-option-all2 =
+    .label = Reține istoricul
 
 ## Privacy Section - Site Data
 
@@ -1672,13 +1674,23 @@ sitedata-total-size-calculating = Se calculează datele site-urilor și mărimea
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Site-urile folosesc acum <strong>{ $value } { $unit }</strong> din spațiul de pe disc.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Cookie-urile stocate, datele site-urilor și cache-ul folosesc în prezent { $value } { $unit } din spațiul de pe disc.
 sitedata-learn-more = Află mai multe
+sitedata-delete-on-close2 =
+    .label = Șterge cookie-urile și datele site-urilor de fiecare dată când închizi { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Șterge cookie-urile și datele site-urilor la închiderea { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Pe baza setărilor istoricului, { -brand-short-name } șterge cookie-urile și datele site-urilor din sesiune la închiderea browserului.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Istoricul nu va fi salvat.
+    .message = { -brand-short-name } elimină cookie-urile și datele site-urilor din sesiune când închizi browserul.
 sitedata-delete-on-close-private-browsing = În modul de navigare privată permanentă, cookie-urile și datele site-urilor vor fi întotdeauna șterse la închiderea { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Pe baza setărilor istoricului, { -brand-short-name } șterge cookie-urile și datele site-urilor din sesiune la închiderea browserului.
 sitedata-allow-cookies-option =
@@ -1724,6 +1736,16 @@ sitedata-cookies-exceptions2 =
     .label = Gestionează excepțiile
     .accesskey = x
     .description = Poți specifica ce site-uri au întotdeauna permisiunea sau interdicția de a folosi cookie-uri și date despre site-uri.
+sitedata-heading =
+    .label = Date de navigare
+    .description = Gestionează-ți cookie-urile, istoricul, cache-ul, datele site-urilor și mai multe.
+sitedata-settings3 =
+    .label = Șterge datele pentru anumite site-uri
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Gestionează excepțiile
+    .accesskey = x
+    .description = Alege cum gestionează anumite site-uri cookie-urile și datele site-urilor.
 cookies-site-data-group =
     .label = Cookie-uri și date ale site-urilor
 
@@ -1990,6 +2012,16 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Gestionează excepțiile
+    .description = Adaugă site-uri care pot deschide pop-up-uri și pot folosi redirecționări către terți.
+    .accesskey = E
+    .searchkeywords = pop-up-uri
+permissions-addon-install-warning3 =
+    .label = Afișează un avertisment când site-urile încearcă să instaleze extensii
+    .accesskey = W
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Gestionează excepțiile pentru ferestre pop-up și redirecționări către terți
     .accesskey = E
@@ -2029,6 +2061,9 @@ permissions-speaker2 =
     .label = Boxă
 permissions-notification2 =
     .label = Notificări
+permissions-header3 =
+    .label = Permisiuni
+    .description = Gestionează ce pot accesa, controla sau declanșa site-urile.
 
 ## Privacy Section - Data Collection
 
@@ -2043,6 +2078,11 @@ collection-description = Ne străduim să îți oferim posibilitatea de a face a
 collection-privacy-notice = Notificare privind confidențialitatea
 collection-health-report-telemetry-disabled = Nu mai permiți { -vendor-short-name } să îți capteze datele tehnice și de interacționare. Toate datele anterioare vor fi șterse în 30 de zile.
 collection-health-report-telemetry-disabled-link = Află mai multe
+backup-multi-profile-warning-message =
+    .message = Pentru siguranța că modificarea este inclusă în copiile de rezervă, deschide fiecare profil și alege „Fă acum copie de rezervă” în Setări.
+nimbus-rollouts =
+    .label = Permite { -brand-short-name } să îmbunătățească funcționalități, performanța și stabilitatea între actualizări
+    .description = Modificările vor fi lansate de la distanță.
 addon-recommendations3 =
     .label = Permite recomandări personalizate pentru extensii
     .description = Obține recomandări de extensii pentru a-ți îmbunătăți experiența de navigare.
@@ -2106,6 +2146,13 @@ data-collection-health-report =
     .label = Trimite date tehnice și de interacțiune către { -vendor-short-name }
     .accesskey = r
     .description = Ne ajută să îmbunătățim funcționalitățile, performanța și stabilitatea { -brand-product-name }.
+data-collection-health-report-disabled =
+    .label = Trimite date tehnice și despre interacțiuni către { -vendor-short-name }
+    .accesskey = r
+    .description = Raportarea datelor este dezactivată pentru această configurație.
+data-collection-run-studies =
+    .label = Permite { -brand-short-name } să ruleze studii despre funcționalități
+    .description = { -brand-short-name } selectează aleatoriu utilizatori pentru testarea funcționalităților, ceea ce ajută la îmbunătățirea calității pentru toți.
 data-collection-studies-link =
     .label = Vezi studiile { -brand-short-name }
 data-collection-usage-ping =
@@ -2352,7 +2399,7 @@ issue-card-dismiss-button =
 
 preferences-etp-status-header =
     .label = Protecție îmbunătățită împotriva urmăririi
-    .description = Site-urile folosesc elemente de urmărire care să meargă după tine online și îți arată reclame ciudate. { -brand-short-name } te protejează în timp ce navighezi, blocând automat elementele de urmărire, ca să ai control asupra urmelor pe care le lași online.
+    .description = Site-urile folosesc elemente de urmărire care merg după tine online și îți arată reclame ciudate. { -brand-short-name } te protejează în timp ce navighezi, blocând automat elementele de urmărire ca să ai control asupra urmelor pe care le lași online.
 preferences-etp-level-standard =
     .label = Standard (implicit)
     .description = Protecții puternice și fiabile care funcționează fără probleme cu majoritatea site-urilor.
@@ -2364,3 +2411,11 @@ preferences-etp-level-custom =
     .description = Alege tu ce protecții să activezi sau să dezactivezi.
 preferences-etp-status-advanced-button =
     .label = Setări avansate
+preferences-etp-status-protections-dashboard-link =
+    .label = Vezi tabloul de bord cu protecții personalizate
+    .description = Vezi câte elemente de urmărire insidioase a blocat { -brand-short-name } pentru tine, inclusiv elemente de urmărire de pe rețele de socializare, generatoare de amprente digitale și criptomineri.
+preferences-etp-header =
+    .heading = Protecție îmbunătățită împotriva urmăririi
+preferences-etp-advanced-settings-group =
+    .label = Setări avansate
+    .description = Site-urile folosesc elemente de urmărire care merg după tine online și să îți arate reclame ciudate. { -brand-short-name } te protejează în timp ce navighezi, blocând automat majoritatea elementelor de urmărire ca să ai control asupra urmelor pe care le lași online.
