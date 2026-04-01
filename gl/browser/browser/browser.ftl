@@ -1421,9 +1421,6 @@ trustpanel-blocker-see-all = Ver todo
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
 
-## The urlbar trust icon & panel
-
-
 ## Variables
 ##  $count (String): the number of trackers blocked.
 

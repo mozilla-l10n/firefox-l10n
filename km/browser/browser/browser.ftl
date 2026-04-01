@@ -100,9 +100,6 @@ clear-search-history =
     .label = សម្អាត​ប្រវត្តិ​ស្វែងរក
     .accesskey = ស
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -217,14 +214,6 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = បិទ
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -234,12 +223,6 @@ browser-import-button2 =
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -289,9 +272,6 @@ urlbar-result-action-visit = មើល
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = កុំទាន់
 
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -309,9 +289,6 @@ urlbar-result-action-search-bookmarks = ស្វែងរក​ចំណាំ
 urlbar-result-action-search-history = ស្វែងរក​ប្រវត្តិ
 urlbar-result-action-search-tabs = ស្វែងរកផ្ទាំង
 
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -320,11 +297,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = បិទ​ទិដ្ឋភាព​អ្នក​អាន​
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -417,12 +389,6 @@ bookmarks-subview-bookmark-tab =
 library-bookmarks-menu =
     .label = ចំណាំ
 
-## Pocket toolbar button
-
-
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -483,10 +449,6 @@ popups-infobar-dont-show-message =
     .label = កុំ​បង្ហាញ​សារ​នេះ ​ពេល​ដែល​បង្អួច​លេចឡើង​ត្រូវ​បាន​ទប់ស្កាត់
     .accesskey = D
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -520,36 +482,12 @@ tabs-toolbar-list-all-tabs =
     .label = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
     .tooltiptext = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ផ្ញើ​ទិន្នន័យ​មួយ​ចំនួន​ដោយ​ស្វ័យប្រវត្តិ​ទៅកាន់ { -vendor-short-name } ដូច្នេះ​យើង​អាច​ធ្វើឲ្យ​បទពិសោធន៍​របស់​អ្នក​ប្រសើរ​ឡើង។
 data-reporting-notification-button =
     .label = ជ្រើស​អ្វី​ដែល​ខ្ញុំ​ចែករំលែក
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
 
 ## Private browsing reset button
 
@@ -564,9 +502,6 @@ refresh-blocked-redirect-label = { -brand-short-name } បាន​រារា�
 refresh-blocked-allow =
     .label = អនុញ្ញាត
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -594,19 +529,6 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = បង្ហាញ '{ $popupURI }'
 
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-
-
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-cancel = បោះបង់
@@ -617,7 +539,3 @@ trustpanel-clear-cookies-subview-button-cancel = បោះបង់
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = មិនមានសុវត្ថិភាព
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

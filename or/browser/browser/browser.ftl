@@ -108,9 +108,6 @@ clear-search-history =
     .label = ଖୋଜା ଇତିହାସ ସଫାକରନ୍ତୁ
     .accesskey = H
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -141,22 +138,6 @@ search-one-offs-context-set-as-default-private =
 search-one-offs-add-engine-menu =
     .label = ସନ୍ଧାନ ଇଞ୍ଜିନ୍ ଯୋଡ଼ନ୍ତୁ
 
-## Local search mode one-off buttons
-## Variables:
-##  $restrict (String): The restriction token corresponding to the search mode.
-##    Restriction tokens are special characters users can type in the urlbar to
-##    restrict their searches to certain sources (e.g., "*" to search only
-##    bookmarks).
-
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
-
-## Bookmark Panel
-
-
 ## Identity Panel
 
 identity-https-only-dropdown-on =
@@ -177,17 +158,6 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-camera-icon =
@@ -195,12 +165,6 @@ popup-select-camera-icon =
 popup-select-microphone-icon =
     .tooltiptext = ମାଇକ୍ରୋଫୋନ୍
 popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।
-
-## WebRTC window or screen share tab switch warning
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -225,36 +189,10 @@ urlbar-go-button =
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍ତୁ
 
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-history =
     .label = ଇତିହାସ
-
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
-## In these actions "Search" is a verb, followed by where the search is performed.
-
-
-## Labels shown above groups of urlbar results
-
-
-## Reader View toolbar buttons
-
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
-## Full Screen and Pointer Lock UI
-
 
 ## Bookmarks panels, menus and toolbar
 
@@ -262,11 +200,6 @@ bookmarks-toolbar-chevron =
     .tooltiptext = ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ
 bookmarks-sidebar-content =
     .aria-label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
-
-## Variables:
-##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
-##                         bookmarks toolbar, etc.) is visible or not.
-
 
 ##
 
@@ -281,12 +214,6 @@ bookmarks-toolbar-placeholder-button =
 
 library-recent-activity-title =
     .value = ସାମ୍ପ୍ରତିକ ଗତିବିଧି
-
-## Pocket toolbar button
-
-
-## Repair text encoding toolbar button
-
 
 ## Customize Toolbar Buttons
 
@@ -308,9 +235,6 @@ toolbar-button-open-file =
 toolbar-button-new-private-window =
     .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ
     .tooltiptext = ନୂତନ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ୱିଣ୍ଡୋ ଖୋଲନ୍ତୁ ({ $shortcut })
-
-## EME notification panel
-
 
 ## Password save/update panel
 
@@ -337,10 +261,6 @@ popups-infobar-dont-show-message =
     .label = ପପ୍-ଅପ୍ ଗୁଡ଼ିକୁ ଅଟକାଯାଇଥିବା ସମୟରେ ଏହି ସନ୍ଦେଶକୁ ଦର୍ଶାନ୍ତୁ ନାହିଁ
     .accesskey = D
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -366,15 +286,6 @@ tabs-toolbar-list-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
     .tooltiptext = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ସ୍ୱୟଂଚାଳିତ ଭାବରେ କିଛି ତଥ୍ୟ { -vendor-short-name } କୁ ପଠାଇଥାଏ ଯାହା ଫଳରେ ଆମେ ଆପଣଙ୍କର ଅଭିଜ୍ଞତାକୁ ଉନ୍ନତ କରିପାରିବୁ।
@@ -382,34 +293,10 @@ data-reporting-notification-button =
     .label = ମୁଁ ଯାହା ସହଭାଗ କରିଛି ତାହାକୁ ବାଛନ୍ତୁ
     .accesskey = C
 
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନର୍ଧାରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
 refresh-blocked-redirect-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅନ୍ୟ ଏକ ପୃଷ୍ଠାକୁ ପୁନଃ ପ୍ରେରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
-
-## Firefox Relay integration
-
-
-## Add-on Pop-up Notifications
-
 
 ## Pop-up warning
 
@@ -424,26 +311,3 @@ popup-warning-message =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }'କୁ ଦର୍ଶାନ୍ତୁ
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
