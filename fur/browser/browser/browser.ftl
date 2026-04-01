@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Schermi dividût
     .aria-label = Schermi dividût
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Nete la cronologjie des ricercjis
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
