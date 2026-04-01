@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Golwg hollt
     .aria-label = Golwg hollt
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Clirio Hanes Chwilio
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
