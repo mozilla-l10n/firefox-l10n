@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Vue scindée
     .aria-label = Vue scindée
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Effacer l’historique de recherche
+    .accesskey = E
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
