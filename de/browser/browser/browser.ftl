@@ -296,6 +296,12 @@ urlbar-split-view-button =
     .tooltiptext = Geteilte Ansicht
     .aria-label = Geteilte Ansicht
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = Such-Chronik löschen
+    .accesskey = S
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
