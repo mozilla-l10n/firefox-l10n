@@ -170,6 +170,12 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = මෙම පිටුවට පොත්යොමුවක් ({ $shortcut })
 
+## Searchbar context menu
+
+clear-search-history =
+    .label = සෙවුම් ඉතිහාසය මකන්න
+    .accesskey = H
+
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -468,6 +474,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = මෙම වාරය සඳහා බෙදාගැනීමේ ආරක්‍ෂාව අබල කරන්න
 
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -576,6 +585,13 @@ urlbar-result-action-copy-to-clipboard = පිටපතක්
 # Variables
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -819,6 +835,10 @@ edit-popup-settings =
     .label = උත්පතන සැකසුම් කළමනාකරණය…
     .accesskey = M
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
 
 
@@ -856,6 +876,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = සියළු පටිති ලේඛනය
     .tooltiptext = සියළු පටිති ලේඛනය
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -899,6 +922,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         දිගු
         ඇතැම් දිගු සඳහා ඉඩ නොදේ
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -967,3 +994,16 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = බහාලුමෙහි පෙන්වන්න
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
