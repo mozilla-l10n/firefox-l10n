@@ -573,6 +573,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaura avall
 browser-window-close-button =
     .tooltiptext = Tanca
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Torna
 
 ## Tab actions
 
@@ -770,6 +773,14 @@ urlbar-result-action-copy-to-clipboard = Copia
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = indefinit
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Extensió del { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Recomanat
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -827,6 +838,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinat
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Pregunta
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -929,6 +942,10 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Aquesta vegada, cerca amb:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Cerca amb:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Aquesta vegada, cerca amb:
@@ -1152,6 +1169,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Contrasenyes
     .tooltiptext = Vegeu i gestioneu les contrasenyes que heu desat
+qrcode-panel-error =
+    .message = No s’ha pogut generar el codi QR. Torneu-ho a provar.
+qrcode-copy-button =
+    .label = Copia
+qrcode-copy-success =
+    .message = S’ha copiat el codi QR al porta-retalls
+qrcode-copy-error =
+    .message = No s’ha pogut copiar el codi QR.
+qrcode-save-button =
+    .label = Desa
+qrcode-save-success =
+    .message = S’ha desat el codi QR.
+qrcode-save-error =
+    .message = No s’ha pogut desar el codi QR.
+qrcode-save-title = Desa el codi QR
+qrcode-save-filter-png = Imatge PNG
+qrcode-save-filename = codiqr.png
+qrcode-window-title = Codi QR
+qrcode-dialog-title = Codi QR
+qrcode-image =
+    .aria-label = Codi QR
+qrcode-close-button =
+    .aria-label = Tanca
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1170,6 +1210,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Finestra privada nova
     .tooltiptext = Obre una finestra de navegació privada nova ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Comparteix
+    .tooltiptext = Comparteix aquesta pàgina
 
 ## EME notification panel
 
@@ -1189,6 +1232,15 @@ panel-save-update-password = Contrasenya
 # "More" item in macOS share menu
 menu-share-more =
     .label = Més…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copia l’enllaç
+           *[other] Copia { $count } enllaços
+        }
+    .accesskey = l
 menu-share-copy-link =
     .label = Copia l’enllaç
     .accesskey = l
