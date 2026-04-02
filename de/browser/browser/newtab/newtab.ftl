@@ -7,7 +7,7 @@
 
 newtab-page-title = Neuer Tab
 newtab-settings-button =
-    .title = Einstellungen für neue Tabs anpassen
+    .title = Neuer-Tab-Seite anpassen
 newtab-customize-panel-icon-button =
     .title = Diese Seite anpassen
 newtab-customize-panel-icon-button-label = Anpassen
