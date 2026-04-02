@@ -30,7 +30,7 @@ videocontrols-closed-caption-off =
     .offlabel = بدون
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
-videocontrols-picture-in-picture-label = ڤديو معترِض
+videocontrols-picture-in-picture-label = فديو معترِض
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = أخرج هذا الفيديو
@@ -44,7 +44,7 @@ videocontrols-error-decode = تعذّر تشغيل الفديو لعطب في ا
 videocontrols-error-src-not-supported = نسق أو نوع MIME الفديو غير مدعوم.
 videocontrols-error-no-source = لم يُعثر على فديو بنسق أو نوع MIME مدعوم.
 videocontrols-error-generic = توقف تشغيل الفديو بسبب عُطل غير معروف.
-videocontrols-status-picture-in-picture = يعمل هذا الڤديو في وضع الڤديوهات المعترِضة.
+videocontrols-status-picture-in-picture = يعمل هذا الفديو في وضع الفديوهات المعترِضة.
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -7,6 +7,7 @@ customkeys-search = ابحث:
 customkeys-change = غيّر
 customkeys-reset = إعادة تعيين
 customkeys-clear = مسح
+customkeys-view-picture-in-picture = فديو معترِض
 customkeys-dev-style = مُحرّر الأنماط
 customkeys-dev-performance = الأداء
 customkeys-dev-dom = DOM

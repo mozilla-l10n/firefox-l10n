@@ -95,7 +95,7 @@ policy-PasswordManagerExceptions = منع { -brand-short-name } من حفظ كل
 # PDF.js and PDF should not be translated
 policy-PDFjs = تعطيل أو ضبط PDF.js، عارِض ملفات PDF المضمّن في { -brand-short-name }.
 policy-Permissions2 = ضبط تصاريح الكمرة والمِكرفون والمكان والتنبيهات والتشغيل التلقائي.
-policy-PictureInPicture = تفعيل الڤديو المعترِض أو تعطيله.
+policy-PictureInPicture = فعِّل أو عطِّل الفديو المعترِض.
 policy-PopupBlocking = السماح لبعض المواقع بعرض المنبثقات مبدئيا.
 policy-Preferences = ضبط وقفل قيمة إحدى المجموعات الفرعية في التفضيلات.
 policy-PromptForDownloadLocation = السؤال عن مكان حفظ الملفات عند تنزيلها.
