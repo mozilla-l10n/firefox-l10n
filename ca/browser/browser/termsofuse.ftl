@@ -6,7 +6,7 @@
 ## Existing User Terms of Use InfoBar
 
 #  Full infobar message, with inline links to the Terms of Use and Privacy Notice that will be added at runtime.
-existing-user-tou-message = <strong>Actualització</strong> Hem introduït unes <a data-l10n-name="terms-of-use-link">Condicions d'ús</a> del { -brand-short-name } i hem actualitzat el nostre <a data-l10n-name="privacy-notice-link-">Avís de privadesa</a>. Dediqueu uns instants a revisar-los i acceptar-los.
+existing-user-tou-message = <strong>Actualització</strong> Hem introduït unes <a data-l10n-name="terms-of-use-link">Condicions d'ús</a> del { -brand-short-name } i hem actualitzat el nostre <a data-l10n-name="privacy-notice-link">Avís de privadesa</a>. Dediqueu uns instants a revisar-los i acceptar-los.
 # Infobar message for when the Privacy Notice is updated.
 existing-user-privacy-notice-update-message = Hem actualitzat el nostre <a data-l10n-name="privacy-notice-link">Avís de privadesa</a> per reflectir les noves funcionalitats del { -brand-short-name }.
 # Text for secondary button linking to FAQ page
