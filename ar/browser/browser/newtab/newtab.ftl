@@ -513,6 +513,7 @@ newtab-widget-timer-label-pause =
     .label = ألبِث
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
 newtab-promo-card-title = ادعم { -brand-product-name }
+newtab-promo-card-body = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل
 newtab-promo-card-cta = اطّلع على المزيد
 newtab-promo-card-dismiss-button =
     .title = أهمِل

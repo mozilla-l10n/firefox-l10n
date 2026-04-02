@@ -892,7 +892,10 @@ home-prefs-timer-header =
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = ادعم { -brand-product-name }
+home-prefs-mission-message = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل
 home-prefs-mission-message-learn-more-link = اكتشف كيف
+home-prefs-mission-message2 =
+    .message = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل.
 home-prefs-manage-topics-link = أدِر المواضيع
 home-prefs-manage-topics-link2 =
     .label = أدِر المواضيع
@@ -936,12 +939,26 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = أظهر اقتراحات البحث في نتائج شريط العناوين
     .accesskey = ت
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = اعرض اقتراحات البحث قبل عرض تأريخ التصفح في نتائج شريط العناوين
+search-show-suggestions-private-windows-2 =
+    .label = اقتراحات البحث في النوافذ الخاصة
 search-suggestions-cant-show-2 =
     .message = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
+addressbar-header-1 =
+    .label = شريط العناوين
+    .description = اختر الاقتراحات التي تظهر في شريط عنوانك
 # With this option enabled, while on a SERP, the URL normally displayed in the
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = أظهِر مصطلحات البحث في شريط العناوين على صفحات النتائج
+search-suggestions-header-2 =
+    .label = اقتراحات محركات البحث
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
@@ -1497,6 +1514,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = إجراءات سريعة
     .accesskey = س
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = اقتراحات البحث المُتداولة
+    .accesskey = ت
 # Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
 addressbar-locbar-suggest-all-option-2 =
     .label = اقتراحات من { -brand-short-name }

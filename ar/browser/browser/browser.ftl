@@ -956,20 +956,20 @@ urlbar-group-recent-searches =
 # Variables:
 #  $engine (String): the name of the search engine providing the trending suggestions
 urlbar-group-trending =
-    .label = الشائع في { $engine }
+    .label = مُتداول في { $engine }
 # Label shown above sponsored suggestions in the urlbar results.
 urlbar-group-sponsored =
     .label = نتيجة مموّلة
 # The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
-    .label = لا تعرض عمليات البحث الشائعة
+    .label = لا تعرض عمليات البحث المُتداولة
     .accesskey = م
 urlbar-result-menu-trending-why =
     .label = لماذا أرى هذا؟
     .accesskey = ل
 # A message that replaces a result when the user dismisses all suggestions of a
 # particular type.
-urlbar-trending-dismissal-acknowledgment = شكرًا على تعليقك. لن ترى عمليات البحث الشائعة بعد الآن.
+urlbar-trending-dismissal-acknowledgment = شكرًا على تعليقك. لن ترى عمليات البحث المُتداولة بعد الآن.
 
 ## Reader View toolbar buttons
 

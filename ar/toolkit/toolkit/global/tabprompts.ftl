@@ -7,6 +7,6 @@ tabmodalprompt-username =
 tabmodalprompt-password =
     .value = كلمة السرّ:
 tabmodalprompt-ok-button =
-    .label = حسنا
+    .label = حسنًا
 tabmodalprompt-cancel-button =
     .label = ألغِ

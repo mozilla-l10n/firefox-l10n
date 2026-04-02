@@ -33,7 +33,7 @@ about-webauthn-results-general-error = خطأ!
 ## Buttons
 
 about-webauthn-cancel-button = ألغِ
-about-webauthn-send-pin-button = حسنا
+about-webauthn-send-pin-button = حسنًا
 about-webauthn-delete-button = احذف
 about-webauthn-start-enrollment-button = بدء التسجيل
 about-webauthn-update-button = حدّث

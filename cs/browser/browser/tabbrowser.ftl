@@ -484,7 +484,7 @@ tab-context-separate-split-view =
     .accesskey = t
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
-    .label = Obrátit panely
+    .label = Prohodit panely
     .accesskey = r
 tab-context-badge-new = Nové
 # Split view tabs display their respective contents side by side
@@ -507,6 +507,6 @@ split-view-menuitem-separate-tabs =
     .label = Osamostatnit panely
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
-    .label = Obrátit panely
+    .label = Prohodit panely
 split-view-menuitem-close-both-tabs =
     .label = Zavřít oba panely

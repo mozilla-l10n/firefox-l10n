@@ -286,7 +286,7 @@ pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", tim
 
 pdfjs-password-label = أدخل لكلمة السر لفتح هذا الملف.
 pdfjs-password-invalid = كلمة سر خطأ. من فضلك أعد المحاولة.
-pdfjs-password-ok-button = حسنا
+pdfjs-password-ok-button = حسنًا
 pdfjs-password-cancel-button = ألغِ
 pdfjs-web-fonts-disabled = خطوط الوب مُعطّلة: تعذّر استخدام خطوط PDF المُضمّنة.
 
