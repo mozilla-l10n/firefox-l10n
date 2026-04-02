@@ -178,6 +178,9 @@ ip-protection-bandwidth-header-1 = 每月流量限额
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN 流量已蓄势待发
 ipprotection-bandwidth-reset-text = 启用 VPN 可额外增强隐私保护，每月免费提供。
 ipprotection-bandwidth-reset-button = 明白了
 

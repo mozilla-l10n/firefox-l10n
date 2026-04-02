@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+settings-data-backup-header2 =
+    .label = បម្រុងទុក
+    .description = ការពារចំណាំ ប្រវត្តិ និងទិន្នន័យផ្សេងទៀតរបស់អ្នកដោយស្វ័យប្រវត្តិ។
 settings-data-backup-header = បម្រុងទុក
 settings-data-backup-toggle = គ្រប់គ្រងការបម្រុងទុក
 settings-data-backup-toggle-on2 =
