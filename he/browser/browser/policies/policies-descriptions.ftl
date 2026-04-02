@@ -124,6 +124,7 @@ policy-Preferences = הגדרה ונעילת הערכים עבור חלק מהה
 policy-PrivateBrowsingModeAvailability = הגדרת הזמינות של מצב הגלישה הפרטית.
 policy-PromptForDownloadLocation = הצגת שאלה היכן לשמור קבצים בזמן הורדה.
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
+policy-RelaunchRequired = לדרוש להפעיל מחדש את { -brand-short-name } בתוך פרק זמן נתון ולהודיע למשתמש על ההפעלה מחדש הקרובה.
 policy-RequestedLocales = הגדרת רשימת השפות המבוקשות עבור היישום לפי סדר העדפה.
 policy-SanitizeOnShutdown2 = ניקוי נתוני ניווט עם הכיבוי.
 policy-SearchBar = הגדרת מיקום ברירת המחדל של שורת החיפוש. המשתמש עדיין מורשה להתאים זאת אישית.
