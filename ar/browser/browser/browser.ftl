@@ -571,7 +571,7 @@ browser-tab-audio-muted2 = مكتوم
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = حُجب التشغيل التلقائي
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-pip = ڤديو معترِض
+browser-tab-audio-pip = فديو معترِض
 
 ## These labels should be written in all capital letters if your locale supports them.
 ## Variables:
@@ -1184,17 +1184,17 @@ edit-popup-settings =
     .label = أدِر إعدادات المنبثقات…
     .accesskey = د
 picture-in-picture-hide-toggle =
-    .label = أخفِ زر تفعيل/تعطيل الڤديوهات المعترِضة
+    .label = أخفِ زر تفعيل/تعطيل الفديوهات المعترِضة
     .accesskey = خ
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
 
 picture-in-picture-move-toggle-right =
-    .label = انقل زر تبديل وضع ”الڤِديوهات المعترِضة“ إلى اليمين
+    .label = انقل زر تبديل وضع ”الفديوهات المعترِضة“ إلى اليمين
     .accesskey = ن
 picture-in-picture-move-toggle-left =
-    .label = انقل زر تبديل وضع ”الڤِديوهات المعترِضة“ إلى اليسار
+    .label = انقل زر تبديل وضع ”الفديوهات المعترِضة“ إلى اليسار
     .accesskey = س
 
 ##

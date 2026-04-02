@@ -2230,6 +2230,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS HTTPS reheguáva
+dns-over-https-group2 =
+    .label = DNS HTTPS rehegua
+    .description = Pe tendaite réra HTTPS (DoH) rehegua ombopapapy porandu ñanduti rogue, ombohasýva ñanduti me’ẽha térã ambue tohecha mba’e ñanduti roguépepa eikéta.
 preferences-doh-description = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 preferences-doh-description2 = Pe apopyvusu rendatee réra (DNS) HTTPS rehegua omondo mba’ejerure tendatee réra jeike ipapapýva rupive, omoheñóiva peteĩ DNS hekorosãva ha ombohasyve ambuépe ohechávo mba’ete ñanduti rendápe ojeike.
 # Variables:

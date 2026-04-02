@@ -461,6 +461,9 @@ check-user-spelling =
     .accesskey = ك
 spellcheck-download-dictionaries =
     .label = نزّل القواميس
+spellcheck-promo =
+    .heading = كيفية استخدام التدقيق الإملائي
+    .message = انقر بزر الفأرة الأيمن فوق أي حقل نصي لتشغيل التدقيق الإملائي أو إيقافه، أو لتغيير اللغة. لا تدعم جميع الحقول التدقيق الإملائي.
 
 ## General Section - Files and Applications
 
@@ -487,6 +490,9 @@ download-choose-folder =
 download-always-ask-where =
     .label = اسألني دائمًا عن مكان حفظ الملفّات
     .accesskey = ن
+download-private-browsing-delete =
+    .label = احذف الملفات المُنزلة أثناء التصفح الخاص عند إغلاق جميع نوافذ التصفح الخاص.
+    .accesskey = ذ
 applications-setting =
     .label = التطبيقات
     .description = اختر كيف يتعامل { -brand-short-name } مع الملفات التي تنزلها من الوب أو التطبيقات التي تستخدمها أثناء التصفح.
@@ -686,6 +692,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = فعّل عناصر التحكّم بالڤديوهات المعترِضة
     .accesskey = ك
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = استمر في تشغيل مقاطع الفيديو في وضع فديو معترِض عند التبديل بين الألسنة
+    .accesskey = م
 browsing-picture-in-picture-learn-more = اطّلع على المزيد
 browsing-media-control =
     .label = تحكّم بالوسائط عبر لوحة المفاتيح أو سماعة الرأس أو الواجهة الافتراضية
