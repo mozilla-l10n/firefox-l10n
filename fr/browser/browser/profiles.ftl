@@ -64,7 +64,7 @@ new-profile-page-done-button =
     .label = Modifications terminées
 # Variables
 #   $profilename (String) - The name of the copied profile.
-copied-profile-page-header-2 = Votre exemplaire de « { $profilename } » est prêt à être personnalisé
+copied-profile-page-header-2 = Votre copie de « { $profilename } » est prête à être personnalisée
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Votre copie de { $profilename } est prête à être personnalisée
