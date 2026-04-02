@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = 在新窗口中打开网站
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = 为了保护您的安全，{ $hostname } 将不允许 { -brand-short-name } 显示嵌入了其他网站的页面。要查看此页面，请在新窗口中打开。
 fp-certerror-view-certificate-link = 查看网站证书
+fp-certerror-return-to-previous-page-recommended-button-2 = 返回（推荐）
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = 返回上一页（推荐）
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -218,7 +220,7 @@ fp-certerror-hide-advanced-button = 隐藏高级选项
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-certerror-override-exception-button = 继续前往 { $hostname }（存在风险）
+fp-certerror-override-exception-button = 继续前往 { $hostname }（有风险）
 fp-certerror-intro = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在严重的安全隐患。若有人冒充此网站，其可试图窃取您的信用卡信息、密码、邮箱地址等信息。
 fp-certerror-expired-into = { -brand-short-name } 发现 <strong>{ $hostname }</strong> 存在安全问题。此网站可能未正确设置，或者您设备的日期/时间有误。
 fp-certerror-transparency-intro = 若有人冒充 <strong>{ $hostname }</strong>，其可试图窃取您的信用卡信息、密码、邮箱地址等信息。
