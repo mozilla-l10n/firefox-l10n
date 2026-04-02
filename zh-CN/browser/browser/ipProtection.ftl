@@ -23,12 +23,16 @@ ipprotection-title = VPN
 
 ## Feature introduction callout
 
+ipprotection-feature-introduction-title = 欢迎连接 VPN，现已内置于浏览器
+ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 隐藏真实位置、保护个人数据。
+ipprotection-feature-introduction-link-text-private-browsing-2 = 即使是在隐私窗口，使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 也能隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-button-primary = 下一步
 ipprotection-feature-introduction-button-secondary-not-now = 暂时不要
 ipprotection-feature-introduction-button-secondary-no-thanks = 不了，谢谢
 
 ## Site settings callout
 
+ipprotection-site-settings-callout-title = 选择使用 VPN 的网站
 ipprotection-site-settings-callout-subtitle = 您可为特定网站关闭 VPN，下次访问该网站时将自动关闭。
 ipprotection-site-settings-callout-button = 知道了
 
@@ -111,6 +115,9 @@ ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPN 流量即将用
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN 流量即将用尽</strong>，剩余 { $usageLeft } GB。用尽后，VPN 将暂停运行，直到下月初流量重置。
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN 流量即将用尽</strong>，剩余 { $usageLeft } MB。用尽后，VPN 将暂停运行，直到下月初流量重置。
 
 ## IP Protection Settings
 

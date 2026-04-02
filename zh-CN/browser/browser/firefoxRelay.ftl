@@ -18,6 +18,17 @@ firefox-relay-must-login-to-account = 登录账户以使用您的 { -relay-brand
 firefox-relay-get-unlimited-masks =
     .label = 管理马甲
     .accesskey = M
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header = 您已用完 { $count } 个免费马甲邮箱
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = 您可以重复使用某个马甲，或查看所有马甲来另选一个。
+firefox-relay-see-all-masks =
+    .label = 查看所有马甲
+    .accesskey = S
+firefox-relay-dismiss =
+    .label = 知道了
+    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = 保护您的邮箱地址：
 firefox-relay-opt-in-title-2 = 免费获取马甲邮箱

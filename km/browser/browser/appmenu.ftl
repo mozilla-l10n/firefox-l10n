@@ -187,6 +187,8 @@ profiler-popup-presets-graphics-label =
     .label = ក្រាហ្វិក
 profiler-popup-presets-media-label =
     .label = មេឌៀ
+profiler-popup-presets-ml-label =
+    .label = សិក្ខាម៉ាស៊ីន
 profiler-popup-presets-networking-label =
     .label = បណ្តាញ
 # "Power" is used in the sense of energy (electricity used by the computer).
@@ -264,6 +266,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ចូលទៅក្នុងគណនីរបស់អ្នក
+appmenuitem-vpn-description = ការពារសកម្មភាពអនឡាញរបស់អ្នក
 appmenu-services-header = សេវាកម្មរបស់ខ្ញុំ
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
