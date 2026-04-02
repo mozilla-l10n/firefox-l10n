@@ -1659,6 +1659,9 @@ sitedata-total-size3 = 各网站目前使用了 <strong>{ $value } { $unit }</st
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = 您已存储的 Cookie、网站数据和缓存目前使用了 { $value } { $unit } 磁盘空间。
 sitedata-learn-more = 详细了解
+sitedata-delete-on-close2 =
+    .label = 每次关闭 { -brand-short-name } 时清除 Cookie 和网站数据
+    .accesskey = c
 sitedata-delete-on-close =
     .label = 关闭 { -brand-short-name } 时删除 Cookie 与网站数据
     .accesskey = C
