@@ -201,6 +201,14 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = 页面 { $page } 的缩略图
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = 选择第 { $page } 页
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = 选择第 { $page } 页
 
 ## Find panel button title and messages
 
@@ -641,6 +649,8 @@ pdfjs-views-manager-outlines-title1 = 文档大纲
     .title = 文档大纲（双击可展开/折叠所有项目）
 pdfjs-views-manager-outlines-title = 文档大纲
 pdfjs-views-manager-attachments-title = 附件
+pdfjs-views-manager-layers-title1 = 图层
+    .title = 图层（双击可将所有图层重置为默认状态）
 pdfjs-views-manager-layers-title = 图层
 pdfjs-views-manager-pages-option-label = 页面
 pdfjs-views-manager-outlines-option-label = 文档大纲
@@ -678,6 +688,13 @@ pdfjs-views-manager-status-close-button =
     .title = 关闭
 pdfjs-views-manager-status-close-button-label = 关闭
 pdfjs-views-manager-paste-button-label = 粘贴
+pdfjs-views-manager-paste-button-before =
+    .title = 粘贴在第一页之前
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = 新
+pdfjs-toggle-views-manager-button1 =
+    .title = 管理页面
 
 ## Main menu for adding/removing signatures
 
