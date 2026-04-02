@@ -118,12 +118,31 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desacti
 ipprotection-bandwidth-upgrade-title = ¿Te gusta la VPN integrada? Consigue aún más protección fuera de { -brand-product-name } con { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Elige una ubicación de VPN y añade protección a todas tus aplicaciones hasta en 5 dispositivos, ya sea en casa o en redes Wi-Fi públicas.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Estás cerca de tu límite de VPN.</strong> Te quedan { $usageLeft } GB. Tus datos se restablecerán al comienzo del próximo mes.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Te estás quedando sin datos de la VPN. </strong> Te quedan { $usageLeft } GB. Una vez que los agotes, la VPN se pausará hasta que tus datos se restablezcan el día primero del mes que viene.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Te queda poco volumen de datos de la VPN.</strong> Te restan { $usageLeft } MB. Una vez que los agotes, la VPN se pausará hasta que tus datos se restablezcan el día primero del próximo mes.
+
 ## IP Protection Settings
 
 ip-protection-description =
     .label = VPN
     .description = VPN incorporada para mejorar tu privacidad mientras navegas en { -brand-short-name }.
 ip-protection-learn-more = Saber más
+ip-protection-site-exceptions =
+    .label = Ajustes específicos del sitio
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Prueba la VPN integrada de { -brand-short-name }
+    .message = Oculta tu ubicación mientras navegas en { -brand-short-name }. Consigue { $maxUsage } GB de datos de VPN gratis cada mes.
 ip-protection-not-opted-in-button = Comenzar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -136,8 +155,13 @@ ip-protection-site-exceptions-all-sites-button =
         }
 ip-protection-autostart =
     .label = Activar VPN automáticamente
+ip-protection-autostart-checkbox =
+    .label = Cuando abro { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = En ventanas privadas
+ip-protection-vpn-upgrade-link =
+    .label = Consigue aún más protección fuera de { -brand-short-name } con { -mozilla-vpn-brand-name }
+    .description = Elige ubicaciones de VPN personalizadas y añade protección a todas tus aplicaciones hasta en cinco dispositivos, ya sea en casa o en redes Wi-Fi públicas.
 
 ## IP Protection dialogs
 
