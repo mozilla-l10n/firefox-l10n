@@ -95,6 +95,7 @@ ipprotection-connection-status-generic-error-try-again = Por favor, intenta de n
 ipprotection-connection-status-network-error-title = Revisa tu conexión a Internet
 ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
 ipprotection-connection-status-blocked-error-title = La VPN no está disponible
+ipprotection-connection-status-blocked-error-description = Las leyes locales nos impiden ofrecer el servicio de VPN en esta región. <a data-l10n-name="learn-more-link">Más información</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -109,7 +110,13 @@ ipprotection-message-bandwidth-warning-mb =
     .message = Te quedan { $usageLeft } GB de { $maxUsage } GB este mes.
 ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configura la VPN para que se active</a> cada vez que abras { -brand-short-name } y así tener una capa extra de protección.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } recordará qué sitios web has configurado para usar la VPN. Puedes actualizar estos <a data-l10n-name="setting-link">ajustes</a> en cualquier momento.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = ¿Te gusta la VPN integrada? Consigue aún más protección fuera de { -brand-product-name } con { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Elige una ubicación de VPN y añade protección a todas tus aplicaciones hasta en 5 dispositivos, ya sea en casa o en redes Wi-Fi públicas.
 
 ## IP Protection Settings
 
