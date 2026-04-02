@@ -24,19 +24,33 @@ about-translations-feature-blocked-info-message =
     .heading = لترجمة النص، ألغِ حظر هذه الميزة
     .message = يبدو أنك حدَّثت عناصر التحكم في الذكاء الاصطناعي لحظر هذه الميزة. يمكنك إلغاء الحظر في أي وقت للبدء في استخدامها.
 about-translations-feature-blocked-unblock-button = ألغِ الحظر
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = تعذّر تحميل اللغات
+    .message = تحقق من اتصالك بالإنترنت وحاول مجددًا.
 about-translations-unsupported-info-button = اطّلع على المزيد
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message =
     .heading = تعذّر تحميل اللغات.
     .message = تحقق من اتصالك بالإنترنت وحاول مجددًا.
 about-translations-language-load-error-button = حاول مجددًا
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = كانت هناك مشكلة في الترجمة
+about-translations-translation-error-subtext = يُرجى المحاولة مجددًا.
+about-translations-translation-error-button = حاول مجددًا
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = عذرًا، لا ندعم الترجمات من { $language } حتى الآن
+about-translations-detected-language-unsupported-heading-unknown-2 = عذرًا، لا ندعم الترجمة من هذه اللغة حتى الآن
+about-translations-detected-language-unsupported-subtext = الرجاء اختيار لغة أخرى.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = أضف نصًا لترجمته
 # Text displayed on the source-language selector when no explicit option is selected
 # and no language has been identified from the content of the source-language text area.
 about-translations-detect-default-label =
-    .label = اكتشاف اللغة
+    .label = اكتشف اللغة
 # Text displayed on the source-language selector when no explicit option is selected
 # and a valid language has been identified from the content of the source-language text area.
 # Variables:
@@ -58,11 +72,11 @@ about-translations-copy-button-copied =
 about-translations-select-label =
     .label = اختر لغة
 # A message displayed in the target-language output area while waiting for the translation to complete.
-about-translations-translating-message = نترجم…
+about-translations-translating-message = يترجم…
 # The title attribute for the swap languages button, which swaps the selected
 # source and target languages, reversing the direction of translation.
 about-translations-swap-languages =
     .title = بدّل اللغات
 # The title attribute for the button that clears the source text area.
 about-translations-clear-button =
-    .title = امسح مصدر النص
+    .title = امحُ مصدر النص
