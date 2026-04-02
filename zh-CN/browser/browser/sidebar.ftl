@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = 从历史记录中删除页面
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = 编辑书签…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = 删除书签
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = 删除
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = 其他设备上的标签页
 sidebar-menu-cpm-header =
     .heading = 密码
+sidebar-menu-bookmarks-header =
+    .heading = 书签
 sidebar-panel-header-close-button =
     .tooltiptext = 关闭
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = 书签菜单
+sidebar-bookmarks-folder-toolbar = 书签工具栏
+sidebar-bookmarks-folder-other = 其他书签
+sidebar-bookmarks-folder-mobile = 移动设备上的书签
 
 ## Titles for sidebar menu panels.
 

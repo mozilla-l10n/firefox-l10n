@@ -376,6 +376,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = 解除分屏
     .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = 对调标签页
+    .accesskey = r
 tab-context-badge-new = 新
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
