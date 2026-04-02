@@ -32,6 +32,8 @@ protection-report-settings-link = Administra tu configuración de privacidad y s
 etp-card-title-always = Protección contra rastreo mejorada: siempre activa
 etp-card-title-custom-not-blocking = Protección contra rastreo mejorada: desactivada
 etp-card-content-description = { -brand-short-name } bloquea automáticamente a las compañías que te siguen en secreto por la web.
+protection-report-etp-card-content-custom-not-blocking = Todas las protecciones están desactivadas en este momento. Selecciona qué rastreadores bloquear administrando los ajustes de protección de { -brand-short-name }.
+protection-report-manage-protections = Administrar los ajustes
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoy

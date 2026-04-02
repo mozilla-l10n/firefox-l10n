@@ -108,7 +108,7 @@ protections-panel-site-not-working-view-send-report = Envía un reporte
 
 protections-panel-cross-site-tracking-cookies = Esas cookies te siguen de sitio en sitio para recolectar datos sobre lo que haces en línea. Ellos son creados por terceros, como anunciantes y empresas de análisis.
 protections-panel-cryptominers = Los criptomineros utilizan la potencia informática de tu sistema para extraer dinero digital. Los scripts de criptominería agotan tu batería, ralentizan tu computadora y pueden aumentar tu factura de energía.
-protections-panel-fingerprinters = Las huellas digitales recopilan configuraciones de tu navegador y computadora para crear un perfil tuyo. Con esta huella digital, pueden rastrearte a través de diferentes sitios web.
+protections-panel-fingerprinters = Las huellas digitales recopilan ajustes de tu navegador y computadora para crear un perfil tuyo. Con esta huella digital, pueden rastrearte a través de diferentes sitios web.
 protections-panel-tracking-content = Los sitios web pueden cargar anuncios externos, videos y otro tipo de contenido gracias a un código de rastreo. Si bloqueas el contenido de rastreo, los sitios se cargarán más rápido, pero puede que algunos botones y formularios dejen de funcionar.
 protections-panel-social-media-trackers = Las redes sociales ubican rastreadores en otros sitios web para seguir lo que haces, ves y miras en línea. Esto permite que las empresas de redes sociales aprendan más sobre ti, más allá de lo que compartes en tus perfiles de redes sociales.
 protections-panel-description-shim-allowed = Algunos rastreadores marcados abajo han sido parcialmente desbloqueados en esta página porque interactuaste con ellos.
