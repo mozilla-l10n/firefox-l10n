@@ -500,6 +500,7 @@ identity-connection-file = هذه الصفحة مخزنة على حاسوبك.
 identity-connection-associated = حمِّلت هذه الصفحة من صفحة أخرى.
 identity-extension-page = حمِّلت هذه الصفحة من امتداد.
 identity-active-blocked = حجب { -brand-short-name } الأجزاء غير الآمنة في هذه الصفحة.
+identity-custom-root = تحققَ من هذا الاتصال مُصْدِر شهادات لا تعرفه Mozilla.
 identity-passive-loaded = بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).
 identity-active-loaded = لقد أوقفت الحماية على هذه الصفحة.
 identity-weak-encryption = تستخدم هذه الصفحة تعمية ضعيفة.

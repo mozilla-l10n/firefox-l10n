@@ -41,7 +41,7 @@ appmenu-update-other-instance =
     .secondarybuttonaccesskey = ل
 appmenu-update-other-instance-message = يتوفّر تحديث { -brand-shorter-name } جديد، لكن تعذّر تثبيته بسبب تشغيل نسخة أخرى من { -brand-shorter-name }. أغلِق هذه النسخة لمتابعة التحديث، أو اختر التحديث على أية حال (قد لا تعمل النسخة الأخرى كما ينبغي حتّى تعيد تشغيلها).
 appmenu-addon-private-browsing-installed2 =
-    .buttonlabel = حسنا
+    .buttonlabel = حسنًا
     .buttonaccesskey = ح
 appmenu-addon-post-install-message3 = أدِر الإضافات والسمات لديك عبر قائمة التطبيق.
 # This string is used in the confirmation popup displayed after an extension

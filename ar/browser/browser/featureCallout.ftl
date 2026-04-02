@@ -102,6 +102,7 @@ sidebar-button-callout-vertical-tabs = لإظهار ألسنتك، حدّد زر
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-subtitle = جرّب تصميم الألسنة العمودية الجديدة لتصفح قائمة الألسنة بسرعة. أفاد المستخدمون الأوائل أن هذا التصميم يساعدهم على الشعور بمزيد من التنظيم. يمكنك التبديل في أي وقت.
 vertical-tabs-callout-1-cta-button = جرّب الألسنة العمودية
 vertical-tabs-callout-2-cta-button = جرّب الآن
 vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة مفتوحة؟ جرّب الألسنة العمودية.

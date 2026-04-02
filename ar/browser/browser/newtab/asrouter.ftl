@@ -117,7 +117,7 @@ cfr-doorhanger-milestone-close-button = أغلِق
 
 cfr-doorhanger-doh-body = خصوصيّتك فوق كل شيء. بات { -brand-short-name } يوجّه كل طلبات DNS التي تُجريها (متى كان ممكنًا) إلى خدمة شريكة، ذلك لحمايتك وأنت تتصفّح.
 cfr-doorhanger-doh-header = عمليات بحث DNS أكثر أمانًا وتعميةً
-cfr-doorhanger-doh-primary-button-2 = حسنا
+cfr-doorhanger-doh-primary-button-2 = حسنًا
     .accesskey = ح
 cfr-doorhanger-doh-secondary-button = عطّل
     .accesskey = ط
@@ -362,3 +362,7 @@ windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = الألسنة العمودية ومجموعات الألسنة متوفرة الآن!

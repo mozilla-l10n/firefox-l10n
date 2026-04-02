@@ -153,6 +153,9 @@ startup-restore-warn-on-quit =
     .label = نبّهني عند إنهاء المتصفح
 disable-extension =
     .label = عطّل الامتداد
+preferences-data-migration-group =
+    .label = استورِد بيانات المتصفح
+    .description = استورد العلامات وكلمات السر والسجل والامتدادات وبيانات التعبئة التلقائية من متصفح آخر.
 preferences-data-migration-header = استورد بيانات المتصفح
 preferences-data-migration-description = استورد العلامات وكلمات السر والتأريخ وبيانات الملء الآلي إلى { -brand-short-name }.
 preferences-data-migration-button =
@@ -265,6 +268,14 @@ settings-tabs-show-image-in-preview =
     .accessKey = ع
 browser-layout-header2 =
     .label = تخطيط المتصفح
+browser-layout-horizontal-tabs2 =
+    .label = ألسنة أفقية
+    .title = ألسنة في الأعلى
+    .description = ألسنة في الأعلى
+browser-layout-vertical-tabs2 =
+    .label = ألسنة عمودية
+    .title = ألسنة جانبية، في الشريط الجانبي
+    .description = ألسنة جانبية، في الشريط الجانبي
 browser-layout-show-sidebar2 =
     .label = أظهِر الشريط الجانبي
     .description = الوصول بسرعة إلى العلامات، والألسنة من هاتفك، ودردشة الذكاء الاصطناعي، والمزيد دون مغادرة واجهتك الرئيسية.
@@ -320,6 +331,8 @@ preferences-web-appearance-link =
 preferences-contrast-control-group =
     .label = تباين الموقع
     .description = تستخدم المواقع الإلكترونية مجموعة متنوعة من ألوان الخلفية والنصوص. لضمان تباين ثابت، يمكنك استخدام نفس الألوان عبر جميع المواقع.
+preferences-contrast-control-radio-group =
+    .label = تجاوز الألوان
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = إن اختياراتك للألوان تهيمن على مظهر موقع الويب. <a data-l10n-name="colors-link">إدارة الألوان</a>
@@ -717,6 +730,13 @@ network-proxy-connection-description = اضبط طريقة اتصال { -brand-s
 network-proxy-connection-learn-more = اطّلع على المزيد
 network-proxy-connection-settings =
     .label = الإعدادات…
+    .accesskey = ع
+network-proxy-group2 =
+    .label = إعدادات الوسيط
+    .description = أعدّ كيفية اتصال { -brand-short-name } بالإنترنت.
+network-proxy-connection-settings2 =
+    .label = أعدّ الوسيط
+    .description = تغيير هذه الإعدادات قد يتسبب في مشاكل في الاتصال
     .accesskey = ع
 
 ## Home Section
@@ -1899,3 +1919,9 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
+
+## Warnings section
+
+security-privacy-issue-warning-proxy-autodetection =
+    .label = فُعِّل التضيبط التلقائي للوسيط
+    .description = قد التضيبط التلقائي للوسيط للشبكات غير الموثوقة بمراقبة نشاطك.

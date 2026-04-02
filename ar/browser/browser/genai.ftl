@@ -99,5 +99,10 @@ link-preview-error-message-v2 = { -brand-short-name } لا يمكن معاينة
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = إعدادات معاينة الرابط
+link-preview-settings-enable =
+    .label = فعِّل معاينات الروابط
+    .description = شاهد عنوان الصفحة والوصف والمزيد عند استخدام الاختصار أو النقر بزر الفأرة الأيمن على أي رابط.
+link-preview-settings-long-press =
+    .label = اختصار: انقر مع الاستمرار على الرابط لمدة ثانية واحدة (ضغط مطول)
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = جديد: انقر مع الاستمرار على أي رابط لمعاينة المحتوى
