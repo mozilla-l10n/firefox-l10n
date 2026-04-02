@@ -20,7 +20,7 @@ abuse-report-learnmore =
     <a data-l10n-name="learnmore-link">Eñemomaranduve jepysokue rehegua ha avei téma</a>
 abuse-report-submit-description = Emoha’ãnga apañuái (ejaposérõ)
 abuse-report-textarea =
-    .placeholder = Oréve ndahasyive romoĩporãvo apañuái roguerekóramo mba’esa’i hesegua. Ehesa’ỹijo ne apañuái. Aguyje orepytyvõ haguére ñanduti hekoresãi hag̃ua.
+    .placeholder = Oréve ndahasyive romoĩporãvo apañuái roguerekóramo mba’esa’i hesegua. Ehesa’ỹijo ne apañuái. Aguyje orepytyvõ haguére ñanduti hekoresã hag̃ua.
 abuse-report-submit-note =
     Kuaarã: ndogueroikéi marandu nemba’etéva (téra, ñanduti veve kundaharape, pumbyry papapy, óga rape).
     { -vendor-short-name } oguereko tapia jehaipy ko’ã marandu rehegua.
