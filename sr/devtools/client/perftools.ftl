@@ -54,6 +54,12 @@ perftools-memory-unit-gib = { NUMBER($num, maxFractionalUnits: 2) } GiB
 perftools-memory-unit-tib = { NUMBER($num, maxFractionalUnits: 2) } TiB
 # Pebibyte
 perftools-memory-unit-pib = { NUMBER($num, maxFractionalUnits: 2) } PiB
+# Exbibyte
+perftools-memory-unit-eib = { NUMBER($num, maxFractionalUnits: 2) } EiB
+# Zebibyte
+perftools-memory-unit-zib = { NUMBER($num, maxFractionalUnits: 2) } ZiB
+# Yobibyte
+perftools-memory-unit-yib = { NUMBER($num, maxFractionalUnits: 2) } YiB
 
 ##
 

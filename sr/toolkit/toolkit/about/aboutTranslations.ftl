@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Покушај поново
 about-translations-translation-error-heading = Дошло је до проблема при превођењу
 about-translations-translation-error-subtext = Покушајте поново.
 about-translations-translation-error-button = Покушај поново
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Нажалост, још увек не подржавамо преводе са { $language }.
+about-translations-detected-language-unsupported-heading-unknown-2 = Нажалост, још увек не подржавамо преводе са овог језика.
 about-translations-detected-language-unsupported-subtext = Изаберите други језик.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
