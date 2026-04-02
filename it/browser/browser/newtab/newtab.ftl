@@ -340,6 +340,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Scorciatoie sponsorizzate
 newtab-custom-pocket-title = Consigliati da { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenuti eccezionali a cura di { -pocket-brand-name }, un membro della famiglia { -brand-product-name }
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .label = Storie consigliate
     .description = Contenuti eccezionali curati dalla famiglia di prodotti { -brand-product-name }
@@ -780,4 +781,3 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Questo spazio segue le tue regole
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ti consente di navigare come preferisci, offrendoti un modo più personale per iniziare la tua giornata online. Rendi { -brand-product-name } davvero tuo.
-
