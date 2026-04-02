@@ -2165,6 +2165,15 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } 运行所需的磁盘空间不足。</strong>网站内容可能无法正常显示。您可以在 设置 > 隐私与安全 > Cookie 和网站数据 中清除已存储的数据。
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } 运行所需的磁盘空间不足。</strong>网站内容可能无法正常显示。点击“详细了解”了解如何优化您的磁盘空间，从而获得更好的浏览体验。
+certs-description3 =
+    .label = 证书
+    .description = 配置 { -brand-short-name } 用于验证安全连接的证书。
+certs-view2 =
+    .label = 管理证书
+    .accesskey = C
+certs-devices2 =
+    .label = 管理安全设备
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
