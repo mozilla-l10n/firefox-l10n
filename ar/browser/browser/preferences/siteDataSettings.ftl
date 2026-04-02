@@ -46,8 +46,8 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = أزِل
-site-data-removing-header = إزالة الكعكات و بيانات المواقع
-site-data-removing-desc = بإزالة الكعكات و بيانات المواقع قد تخرج من مواقع الوِب. أمتأكد من إجراء هذه التغييرات؟
+site-data-removing-header = إزالة ملفات تعريف الارتباط و بيانات المواقع
+site-data-removing-desc = بإزالة ملفات تعريف الارتباط و بيانات المواقع قد تخرج من مواقع الوِب. أمتأكد من إجراء هذه التغييرات؟
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = قد تؤدي إزالة ملفات تعريف الارتباط وبيانات الموقع إلى تسجيل خروجك من مواقع الويب. هل أنت متأكد من أنك تريد إزالة ملفات تعريف الارتباط وبيانات الموقع لـ <strong>{ $baseDomain }</strong>؟

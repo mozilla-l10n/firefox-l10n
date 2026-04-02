@@ -500,7 +500,6 @@ identity-connection-file = هذه الصفحة مخزنة على حاسوبك.
 identity-connection-associated = حمِّلت هذه الصفحة من صفحة أخرى.
 identity-extension-page = حمِّلت هذه الصفحة من امتداد.
 identity-active-blocked = حجب { -brand-short-name } الأجزاء غير الآمنة في هذه الصفحة.
-identity-custom-root = تثبّت من هذا الاتصال مُصْدِر شهادات لا تعرفه Mozilla.
 identity-passive-loaded = بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).
 identity-active-loaded = لقد أوقفت الحماية على هذه الصفحة.
 identity-weak-encryption = تستخدم هذه الصفحة تعمية ضعيفة.
@@ -1423,6 +1422,7 @@ onboarding-aw-finish-setup-button =
 
 ## The urlbar trust icon & panel
 
+trustpanel-etp-label-enabled = الحماية الموسّعة من التعقب مفعّلة
 trustpanel-etp-label-disabled = الحماية الموسّعة من التعقب معطّلة
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
@@ -1447,6 +1447,7 @@ trustpanel-privacy-link = إعدادات الخصوصية
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = امحُ ملفات تعريف الارتباط وبيانات الموقع لـ { $host }
+trustpanel-clear-cookies-description = قد يؤدي إزالة ملفات تعريف الارتباط وبيانات المواقع إلى تسجيل خروجك من مواقع الوِب ومحُ عربات التسوق.
 trustpanel-clear-cookies-subview-button-clear = امسح
 trustpanel-clear-cookies-subview-button-cancel = ألغِ
 # Variables
@@ -1470,6 +1471,24 @@ trustpanel-tracking-description = دون المتعقّبات، قد لا تعم
 trustpanel-insecure-section-header = اتّصالك غير آمن
 trustpanel-insecure-description = البيانات التي ترسلها إلى هذا الموقع غير مُعمّاة، مما قد يعرضها للعرض أو السرقة أو التعديل.
 trustpanel-list-label-tracking-content = المحتوى الذي يتعقّبك
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } سمح { $count } متعقِّب
+        [one] { -brand-product-name } سمح { $count } متعقِّب
+        [two] { -brand-product-name } سمح { $count } متعقِّب
+        [few] { -brand-product-name } سمح { $count } متعقِّب
+        [many] { -brand-product-name } سمح { $count } متعقِّب
+       *[other] { -brand-product-name } سمح { $count } متعقِّب
+    }
 trustpanel-tracking-content-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-fingerprinter-list-header = تحاول هذه المواقع تبصيمك:
 trustpanel-cryptominer-tab-list-header = تحاول هذه المواقع تعدين العُملات الرقمية:
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [zero] حُظر المتعقِّبات على هذا الموقع
+        [one] حُظر المتعقِّبات على هذا الموقع
+        [two] حُظر المتعقِّبات على هذا الموقع
+        [few] حُظر المتعقِّبات على هذا الموقع
+        [many] حُظر المتعقِّبات على هذا الموقع
+       *[other] حُظر المتعقِّبات على هذا الموقع
+    }
