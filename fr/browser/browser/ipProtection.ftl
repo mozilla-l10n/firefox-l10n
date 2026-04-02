@@ -26,7 +26,7 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Découvrez le VPN, désormais intégré directement à votre navigateur
 ipprotection-feature-introduction-link-text-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données, même lorsque vous êtes dans une fenêtre privée.
-ipprotection-feature-introduction-description-private-browsing = Naviguez avec une protection supplémentaire en masquant votre localisation, même lorsque vous êtes dans une fenêtre de navigation privée.
+ipprotection-feature-introduction-description-private-browsing = Naviguez avec une protection supplémentaire en masquant votre localisation, même dans une fenêtre de navigation privée.
 ipprotection-feature-introduction-description-captive-portal = Naviguez avec une protection supplémentaire en masquant votre localisation, même sur un Wi-Fi public.
 ipprotection-feature-introduction-button-primary = Suivant
 ipprotection-feature-introduction-button-secondary-not-now = Plus tard
@@ -41,7 +41,7 @@ ipprotection-site-settings-callout-button = J’ai compris
 ## Panel
 
 unauthenticated-vpn-title = Essayez le VPN intégré à { -brand-product-name }
-unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Masquer votre localisation</a> lorsque vous naviguez dans { -brand-product-name }.
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Masquez votre localisation</a> lorsque vous naviguez dans { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Masquez votre localisation lorsque vous naviguez dans { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

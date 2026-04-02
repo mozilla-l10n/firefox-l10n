@@ -91,7 +91,7 @@ policy-Homepage = Définir la page d’accueil et permettre de la verrouiller.
 policy-HttpAllowlist = Origines qui ne seront pas mises à niveau vers HTTPS.
 policy-HttpsOnlyMode = Autoriser l’activation du mode HTTPS uniquement.
 policy-InstallAddonsPermission = Autoriser certains sites web à installer des extensions.
-policy-IPProtectionAvailable = Empêcher le VPN intégré d’être disponible pour les utilisateurs.
+policy-IPProtectionAvailable = Faire en sorte que le VPN intégré ne soit pas accessible aux utilisateurs.
 policy-LegacyProfiles = Désactiver la fonctionnalité qui impose l’utilisation d’un profil distinct pour chaque installation.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -129,7 +129,7 @@ policy-Preferences = Définir et verrouiller la valeur d’un sous-ensemble de p
 policy-PrivateBrowsingModeAvailability = Définir la disponibilité du mode de navigation privée.
 policy-PromptForDownloadLocation = Demander où enregistrer les fichiers lors du téléchargement.
 policy-Proxy = Configurer les paramètres du proxy.
-policy-RelaunchRequired = Exiger de { -brand-short-name } pour être relancé dans un laps de temps donné et informer l’utilisateur de la relance à venir.
+policy-RelaunchRequired = Forcer le redémarrage de { -brand-short-name } dans un délai déterminé et avertir l’utilisateur de ce redémarrage imminent.
 policy-RequestedLocales = Définir la liste des locales demandées par l’application, dans l’ordre de préférence.
 policy-SanitizeOnShutdown2 = Permettre d’effacer des données de navigation à la fermeture.
 policy-SearchBar = Définir l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
