@@ -127,4 +127,3 @@ certificate-viewer-tab-people = Persone
 certificate-viewer-tab-servers = Server
 certificate-viewer-tab-ca = Autorità
 certificate-viewer-tab-unkonwn = Sconosciuti
-
