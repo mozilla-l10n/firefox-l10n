@@ -489,7 +489,7 @@ settings-translations-subpage-no-sites-added =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Usar la configuración de tu sistema operativo para “{ $localeName }” para dar formato a fechas, horas, números y medidas.
+    .label = Usar los ajustes de tu sistema operativo para “{ $localeName }” para dar formato a fechas, horas, números y medidas.
 settings-spellcheck-header =
     .label = Revisión ortográfica
 check-user-spelling =
@@ -678,9 +678,9 @@ support-share-ideas =
 
 performance-title = Rendimiento
 performance-use-recommended-settings-checkbox =
-    .label = Usar las configuraciones de rendimiento recomendadas
+    .label = Usar los ajustes de rendimiento recomendadas
     .accesskey = U
-performance-use-recommended-settings-desc = Estas configuraciones se adaptan al hardware y sistema operativo de tu equipo.
+performance-use-recommended-settings-desc = Estos ajustes se adaptan al hardware y al sistema operativo de tu computadora.
 performance-settings-learn-more = Aprender más
 performance-allow-hw-accel =
     .label = Usa aceleración de hardware cuando esté disponible
@@ -745,12 +745,12 @@ browsing-group =
 
 ## General Section - Proxy
 
-network-settings-title = Configuración de conexión
+network-settings-title = Configuración de red
 network-proxy-connection-description = Configurar como { -brand-short-name } se conecta a internet.
 network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
-    .label = Configurar…
-    .accesskey = C
+    .label = Ajustes…
+    .accesskey = e
 
 ## Home Section
 
@@ -997,7 +997,7 @@ search-show-suggestions-above-history-option =
     .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
 search-show-suggestions-private-windows =
     .label = Mostrar sugerencias de búsqueda en ventanas privadas
-suggestions-addressbar-settings-generic2 = Cambiar la configuración para otras sugerencias de la barra de direcciones
+suggestions-addressbar-settings-generic2 = Cambiar los ajustes para otras sugerencias de la barra de direcciones
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque has configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header2 = Atajos de búsqueda
 search-one-click-desc = Elegir los motores de búsqueda alternativos que aparecen debajo de la barra de direcciones y en la barra de búsqueda cuando comienzas a escribir una palabra.
@@ -1039,7 +1039,7 @@ search-keyword-warning-bookmark = Seleccionaste una palabra clave usada por un m
 # This warning is displayed when the chosen name is already in use.
 # Variables:
 #   $name (string) - Name of a search engine.
-edit-engine-name-warning-duplicate = Ya existe un motor de búsqueda con el nombre “{ $name }”. Elije otro nombre.
+edit-engine-name-warning-duplicate = Ya existe un motor de búsqueda con el nombre “{ $name }”. Selecciona otro nombre.
 remove-engine-confirmation = ¿Estás seguro de que deseas eliminar este motor de búsqueda?
 remove-engine-remove = Eliminar
 remove-addon-engine-alert = Para eliminar este motor de búsqueda, elimina el complemento asociado.
@@ -1051,7 +1051,7 @@ search-default-engine =
 ## Containers Section
 
 containers-back-button2 =
-    .aria-label = Volver a la configuración
+    .aria-label = Volver a los ajustes
 containers-header = Pestañas contenedoras
 containers-section-header =
     .heading = Pestañas contenedoras
@@ -1062,7 +1062,7 @@ containers-new-tab-check =
     .label = Seleccionar un contenedor para cada nueva pestaña
     .accesskey = S
 containers-settings-button =
-    .label = Configuración
+    .label = Ajustes
 containers-remove-button =
     .label = Eliminar
 
@@ -1077,7 +1077,7 @@ account-group-label =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Lleva la Web contigo
-sync-signedout-description2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y configuraciones en todos tus dispositivos.
+sync-signedout-description2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos tus dispositivos.
 sync-signedout-account-signin3 =
     .label = Iniciar sesión para sincronizar...
     .accesskey = I
@@ -1167,7 +1167,7 @@ prefs-sync-turn-on-syncing =
 prefs-sync-turn-on-syncing-2 =
     .label = Activar sincronización
     .accesskey = s
-prefs-sync-offer-setup-label2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y configuraciones en todos tus dispositivos.
+prefs-sync-offer-setup-label2 = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y ajustes en todos tus dispositivos.
 prefs-sync-now =
     .labelnotsyncing = Sincronizar ahora
     .accesskeynotsyncing = N
@@ -1413,7 +1413,7 @@ forms-windows-sso =
     .label = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administra las cuentas en la configuración de tu dispositivo
-windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
+windows-passkey-settings-label = Administrar claves de acceso en los ajustes del sistema
 
 ## OS Authentication dialog
 
@@ -1538,7 +1538,7 @@ history-remember-option-custom2 =
 history-remember-option-never =
     .label = No guarde el historial
 history-remember-option-custom =
-    .label = Utilice configuraciones personalizadas para el historial
+    .label = Utiliza ajustes personalizados para el historial
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } recordará tu navegación, descargas, formularios e historial de búsqueda.
@@ -1549,7 +1549,7 @@ history-custom-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } utilizará configuraciones personalizadas para tu historial de navegación, descargas, formularios y búsqueda.
 history-remember-description = { -brand-short-name } recordará tu navegación, descargas, formularios e historial de búsqueda.
-history-dontremember-description = { -brand-short-name } usará la misma configuración de la navegación privada, es decir, no guardará ningún historial de tu navegación.
+history-dontremember-description = { -brand-short-name } usará los mismos ajustes de la navegación privada, es decir, no guardará ningún historial de tu navegación.
 history-private-browsing-permanent =
     .label = Siempre usar modo de navegación privada
     .accesskey = p
@@ -1593,7 +1593,7 @@ sitedata-delete-on-close =
 sitedata-delete-on-close-private-browsing3 =
     .message = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de su sesión cuando cierra el navegador.
 sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos del sitio se borrarán siempre cuando se cierre { -brand-short-name }.
-sitedata-delete-on-close-private-browsing2 = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de su sesión cuando cierra el navegador.
+sitedata-delete-on-close-private-browsing2 = Según la configuración de tu historial, { -brand-short-name } elimina las cookies y los datos del sitio de tu sesión cuando cierras el navegador.
 sitedata-allow-cookies-option =
     .label = Aceptar cookies y datos del sitio
     .accesskey = A

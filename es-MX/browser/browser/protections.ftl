@@ -28,12 +28,10 @@ protection-report-page-content-title = Panel de protecciones
 protection-report-page-summary = { -brand-short-name } puede proteger tu privacidad entre bastidores mientras navegas. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de tu seguridad en línea.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } protege tu privacidad tras bambalinas mientras navegas. Este es un resumen personalizado de estas protecciones, incluyendo herramientas para tomar el control de tu vida en línea.
-protection-report-settings-link = Administrar tu configuración de privacidad y seguridad
+protection-report-settings-link = Administra tu configuración de privacidad y seguridad
 etp-card-title-always = Protección contra rastreo mejorada: siempre activa
 etp-card-title-custom-not-blocking = Protección contra rastreo mejorada: desactivada
 etp-card-content-description = { -brand-short-name } bloquea automáticamente a las compañías que te siguen en secreto por la web.
-protection-report-etp-card-content-custom-not-blocking = Todas las protecciones están desactivadas en este momento. Selecciona qué rastreadores bloquear administrando las configuraciones de protección de { -brand-short-name }.
-protection-report-manage-protections = Administrar configuración
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoy
