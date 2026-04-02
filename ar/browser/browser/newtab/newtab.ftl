@@ -444,7 +444,7 @@ newtab-section-unfollow-button = ألغِ المتابعة
 
 newtab-section-block-button = احجب
 newtab-section-blocked-button = حُجبت
-newtab-section-unblock-button = ألعِ الحجب
+newtab-section-unblock-button = ألغِ الحظر
 
 ## Confirmation modal for blocking a section
 

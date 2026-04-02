@@ -7,7 +7,28 @@ about-translations-title = ترجمات { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = ترجمات فورية تحترم خصوصيتك.
 about-translations-learn-more-link = اطّلع على المزيد
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = الترجمة غير متوفرة على هذا الجهاز
+    .message = جرّب التبديل إلى جهاز آخر.
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message =
+    .heading = خدمة الترجمة غير متوفرة على هذا الجهاز.
+    .message = جرّب التبديل إلى جهاز آخر.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = لا تتوفر خدمات الترجمة لمنظمتك
+    .message = هذه سياسة عُينت من قِبل مديرك.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = لترجمة النص، ألغِ حظر هذه الميزة
+    .message = يبدو أنك حدَّثت عناصر التحكم في الذكاء الاصطناعي لحظر هذه الميزة. يمكنك إلغاء الحظر في أي وقت للبدء في استخدامها.
+about-translations-feature-blocked-unblock-button = ألغِ الحظر
 about-translations-unsupported-info-button = اطّلع على المزيد
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = تعذّر تحميل اللغات.
+    .message = تحقق من اتصالك بالإنترنت وحاول مجددًا.
 about-translations-language-load-error-button = حاول مجددًا
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
