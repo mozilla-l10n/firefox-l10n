@@ -60,6 +60,9 @@ settings-data-backup-last-backup-filename = Nombre de archivo: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = Restaura tus datos
     .description = Recupera tus datos de { -brand-product-name } desde la última vez que se realizó una copia de seguridad.
+settings-data-backup-restore-scheduled-off =
+    .label = Restaurar tus datos
+    .description = Usar una copia de seguridad de { -brand-product-name } desde otro dispositivo para restaurar tus datos.
 settings-data-backup-restore-header = Restaura tus datos
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -71,8 +74,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Selecciona el archiv
 
 settings-data-backup-scheduled-backups-on-restore-description = Recupera tus datos de { -brand-product-name } desde la última vez que se realizó la copia de seguridad.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
+settings-sensitive-data =
+    .label = Datos confidenciales
 settings-data-toggle-encryption-label = Realiza una copia de seguridad de tus datos sensibles
 settings-data-toggle-encryption-support-link = Más información
+settings-data-change-password2 =
+    .label = Cambiar contraseña
 settings-data-change-password = Cambiar contraseña…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -115,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Desactivar y eliminar la copia de se
 restore-from-backup-header = Restaurar tus datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = ¿Qué se restaurará?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Esto reemplazará todos tus datos actuales de { -brand-short-name } con tu copia de seguridad de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -132,6 +142,13 @@ restore-from-backup-password-description = Esto desbloquea tu copia de seguridad
 restore-from-backup-cancel-button = Cancelar
 restore-from-backup-confirm-button = Restaurar y reiniciar
 restore-from-backup-restoring-button = Restaurando…
+restore-from-backup-type-group-label =
+    .label = ¿Reemplazar el perfil actual?
+restore-from-backup-type-replace =
+    .label = Reemplazar todos los datos con esta copia de seguridad
+restore-from-backup-type-add =
+    .label = Conservar los datos y crear un perfil nuevo
+restore-from-backup-profiles-disabled-message = Esto reemplazará todos tus datos actuales de { -brand-short-name } con tu copia de seguridad.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -257,6 +274,15 @@ other-backup-files-founds =
         [one] <b>Nota:</b> se encontró otro archivo de respaldo
        *[other] <b>Nota:</b> se encontraron otros { $numberOfOtherBackupsFound } archivos de respaldo
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creado en { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restaurado desde { $deviceName } el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a las { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

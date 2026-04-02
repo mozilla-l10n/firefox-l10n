@@ -1172,6 +1172,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Contraseñas
     .tooltiptext = Ver y administrar tus contraseñas guardadas
+qrcode-panel-error =
+    .message = Error al generar el código QR. Por favor, inténtalo de nuevo.
 qrcode-copy-button =
     .label = Copiar
 qrcode-copy-success =
@@ -1186,6 +1188,7 @@ qrcode-save-error =
     .message = No se pudo guardar el código QR.
 qrcode-save-title = Guardar código QR
 qrcode-save-filter-png = Imagen PNG
+qrcode-save-filename = qrcode.png
 qrcode-window-title = Código QR
 qrcode-dialog-title = Código QR
 qrcode-image =
@@ -1232,6 +1235,15 @@ panel-save-update-password = Contraseña
 # "More" item in macOS share menu
 menu-share-more =
     .label = Más…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copiar enlace
+           *[other] Copias { $count } enlaces
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Copiar enlace
     .accesskey = L
