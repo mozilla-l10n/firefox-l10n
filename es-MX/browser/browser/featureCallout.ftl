@@ -108,6 +108,8 @@ perplexity-callout-secondary-label-2 = Enterado
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = ¿Quieres probar un nuevo buscador centrado en la privacidad?
+start-page-callout-subtitle = Prueba Startpage. Está diseñada para que tus búsquedas sean más privadas desde el primer momento.
+start-page-callout-primary-label = Prueba Startpage
 start-page-callout-secondary-label = Descartar
 
 ## Account Adoption Passwords callout strings

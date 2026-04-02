@@ -18,7 +18,19 @@ firefox-relay-must-login-to-account = Inicia sesión en tu cuenta para usar las 
 firefox-relay-get-unlimited-masks =
     .label = Administrar máscaras
     .accesskey = A
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Has usado las { $count } máscaras de correo gratuitas
+       *[other] Has usado las { $count } máscaras de correo gratuitas
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Puedes reutilizar una o ver todas las máscaras para elegir una diferente.
 firefox-relay-reuse-masks-select-label = Selecciona una máscara reciente
+firefox-relay-see-all-masks =
+    .label = Ver todas las máscaras
+    .accesskey = S
 firefox-relay-dismiss =
     .label = Descartar
     .accesskey = D

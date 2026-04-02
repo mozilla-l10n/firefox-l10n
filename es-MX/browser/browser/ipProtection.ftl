@@ -24,6 +24,10 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Presentamos VPN, ahora directamente en tu navegador
+ipprotection-feature-introduction-link-text-2 = Utilizar nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos, incluso si estás en una ventana privada.
+ipprotection-feature-introduction-description-private-browsing = Navega con protección extra ocultando tu ubicación, incluso cuando estés en una ventana privada.
+ipprotection-feature-introduction-description-captive-portal = Navega con protección extra ocultando tu ubicación, incluso en redes Wi-Fi públicas.
 ipprotection-feature-introduction-button-primary = Siguiente
 ipprotection-feature-introduction-button-secondary-not-now = Ahora no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
@@ -37,6 +41,8 @@ ipprotection-site-settings-callout-button = Entendido
 ## Panel
 
 unauthenticated-vpn-title = Prueba la VPN integrada de { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Oculta tu ubicación</a> mientras navegas en { -brand-product-name }.
+unauthenticated-hide-location-message-2 = Oculta tu ubicación mientras navegas en { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obtén { $maxUsage } GB de datos VPN gratis cada mes.
@@ -85,9 +91,24 @@ upgrade-vpn-button = Prueba { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = No se pudo conectar a la VPN
 ipprotection-connection-status-generic-error-description = Inténtalo de nuevo en unos minutos.
+ipprotection-connection-status-generic-error-try-again = Por favor, intenta de nuevo más tarde.
 ipprotection-connection-status-network-error-title = Revisa tu conexión a Internet
 ipprotection-connection-status-network-error-description = Conéctate a Internet y luego intenta activar la VPN.
+ipprotection-connection-status-blocked-error-title = La VPN no está disponible
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Acercándose el límite de tu VPN
+    .message = Te quedan { $usageLeft } GB de { $maxUsage } GB este mes.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Acercándose el límite de tu VPN
+    .message = Te quedan { $usageLeft } GB de { $maxUsage } GB este mes.
 ipprotection-message-continuous-onboarding-intro = Activa la VPN para ocultar tu ubicación y agregar cifrado adicional a tu navegación.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configura la VPN para que se active</a> cada vez que abras { -brand-short-name } y así tener una capa extra de protección.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN está desactivada para este sitio
 
 ## IP Protection Settings
