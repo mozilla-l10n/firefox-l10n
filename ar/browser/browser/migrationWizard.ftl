@@ -166,6 +166,7 @@ migration-safari-password-import-step1 = في Safari، افتح قائمة "Safa
 migration-safari-password-import-step2 = حدد زر <img data-l10n-name="safari-icon-3dots"/> واختر "تصدير جميع كلمات المرور"
 migration-safari-password-import-step3 = احفظ ملف كلمات السر
 migration-safari-password-import-step4 = استخدم "تحديد الملف" أدناه لاختيار ملف كلمات المرور التي حفظتها
+migration-chrome-windows-password-import-steps-header = في Chrome:
 migration-manual-password-import-skip-button = تخطَّ
 migration-manual-password-import-select-button = اختر ملفًا
 migration-safari-password-import-skip-button = تخطَّ
@@ -175,6 +176,7 @@ migration-safari-password-import-select-button = اختر ملفًا
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+migration-wizard-progress-extensions-support-link = تعرّف على كيفية تطابق { -brand-product-name } مع الامتدادات
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = لا امتدادات مطابقة

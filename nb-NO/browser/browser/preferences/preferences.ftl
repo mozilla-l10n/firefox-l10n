@@ -1134,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-group-label2 =
+    .label = Konto
+account-placeholder2 =
+    .label = Du er ikke logget inn
+    .description = Logg inn og hold dataene dine private, krypterte og umiddelbart tilgjengelige overalt der du bruker { -brand-short-name }.
 account-group-label =
     .label = { -vendor-short-name }-konto
 account-placeholder =
     .label = Du er ikke logget inn
     .description = Logg inn for å holde dine data private, krypterte og synkronisert på tvers av enheter.
+account-sync-section =
+    .heading = Konto og synkronisering
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1280,6 +1287,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Behandle synkroniserte data
     .accesskey = B
+settings-sync-disconnect-button =
+    .label = Koble fra
 sync-change-options =
     .label = Endre…
     .accesskey = E

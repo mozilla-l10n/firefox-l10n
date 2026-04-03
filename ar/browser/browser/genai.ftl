@@ -79,6 +79,8 @@ genai-onboarding-claude-learn = اعرف المزيد عن Claude
 genai-onboarding-chatgpt-tooltip =
     .title = chatGPT
 genai-onboarding-chatgpt-learn = اعرف المزيد عن ChatGPT
+genai-onboarding-copilot-tooltip =
+    .title = Copilot
 genai-onboarding-copilot-learn = اعرف المزيد عن Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
@@ -86,11 +88,25 @@ genai-onboarding-gemini-learn = اعرف المزيد عن Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-huggingchat-learn = اعرف المزيد عن HuggingChat
+genai-onboarding-lechat-tooltip =
+    .title = Le Chat Mistral
 genai-onboarding-lechat-learn = اعرف المزيد عن Le Chat
+genai-onboarding-select-header = حدّد النص لرؤية الاقتراحات
 genai-onboarding-select-primary = ابدأ الدردشة
+
+## Chatbot onboarding choices
+## These describe features/capabilities of chatbot providers. These are not buttons/actions.
+
+genai-onboarding-claude-analyze = حلّل المستندات والصور
+genai-onboarding-claude-price = خيارات مجانية ومدفوعة؛ يلزم وجود حساب
+genai-onboarding-chatgpt-generate = أنشئ نصوص وصور ورموز
+genai-onboarding-chatgpt-analyze = حلّل المستندات والصور
+genai-onboarding-copilot-analyze = حلّل الصور
 
 ## Model Optin Component
 
+genai-model-optin-continue =
+    .label = واصِل
 genai-model-optin-optout =
     .label = ألغِ
 genai-model-optin-cancel =
@@ -100,6 +116,12 @@ genai-model-optin-cancel =
 
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } لا يمكن معاينة هذا الرابط
+# Text for the link to visit the original URL when in error state
+link-preview-visit-link = زُر الرابط
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = حدث خطأ ما.
+# Text for the retry link when generation fails
+link-preview-generation-retry = حاول مجددًا
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = إعدادات معاينة الرابط
