@@ -2002,7 +2002,7 @@ permissions-block-popups-exceptions-button4 =
     .accesskey = E
     .searchkeywords = 彈出型視窗, popups
 permissions-addon-install-warning3 =
-    .label = 網站嘗試安裝擴充套件時，喜善警告
+    .label = 網站嘗試安裝擴充套件時，顯示警告
     .accesskey = W
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.

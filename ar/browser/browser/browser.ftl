@@ -1348,8 +1348,8 @@ popup-notification-addon-privatebrowsing-checkbox2 =
 # This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
 # but it is used in the install prompt, and it needs an access key.
 popup-notification-addon-technical-and-interaction-checkbox =
-    .label = مشاركة البيانات الفنية والتفاعلية مع مطور الامتداد
-    .accesskey = و
+    .label = شارك البيانات التقنية والتفاعلية مع مطوِّر الامتدادة
+    .accesskey = ر
 
 ## Pop-up warning
 

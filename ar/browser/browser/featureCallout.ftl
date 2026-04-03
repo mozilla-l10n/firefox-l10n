@@ -183,7 +183,11 @@ sidebar-genai-survey-productive-question =
     إلى أي مدى تتفق أو لا تتفق مع هذه العبارة:<br/>
     
     "يساعدني برنامج الدردشة الآلي الموجود في الشريط الجانبي على أن أكون أكثر إنتاجية"؟
+splitview-onboarding-callout-subtitle-1 = انقر بزر الفأرة الأيمن على اللسان هذا واختر "أضف عرض منقسم" لعرض اللسان في وقتٍ واحد.
 splitview-onboarding-callout-cta-1 = جرّبه الآن
+splitview-onboarding-callout-title-2 = يمكنك عرض لسانين في وقتٍ واحد باستخدام خاصية العرض المنقسم.
+splitview-onboarding-callout-subtitle-2 = لا حاجة لنوافذ إضافية. لا حاجة لتقليب الألسنة. انقر بزر الفأرة الأيمن على اللسان هذا واختر "أضف عرض منقسم".
+splitview-onboarding-callout-cta-2 = جرّب العرض المنقسم
 unified-search-callout-title = بدّل بين محركات البحث
 unified-search-callout-primary-label = التالي
 unified-search-callout-secondary-label = أهمِل
