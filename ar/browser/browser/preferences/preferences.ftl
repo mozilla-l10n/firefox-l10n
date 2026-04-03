@@ -1035,7 +1035,7 @@ sync-group-label =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = خُذ الوِب معك
-sync-signedout-description2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
+sync-signedout-description2 = زامن علاماتك وتأريخك وألسنتك وكلمات سرك وإضافاتك و الإعدادات بين كل أجهزتك.
 sync-signedout-account-signin3 =
     .label = لِج كي تبدأ المزامنة…
     .accesskey = ل
@@ -1114,7 +1114,7 @@ prefs-sync-turn-on-syncing =
 prefs-sync-turn-on-syncing-2 =
     .label = فعّل المزامنة
     .accesskey = ف
-prefs-sync-offer-setup-label2 = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و الإعدادات بين كل أجهزتك.
+prefs-sync-offer-setup-label2 = زامن علاماتك وتأريخك وألسنتك وكلمات سرك وإضافاتك و الإعدادات بين كل أجهزتك.
 prefs-sync-now =
     .labelnotsyncing = زامِن الآن
     .accesskeynotsyncing = م
@@ -2018,6 +2018,9 @@ preferences-ai-controls-block-ai =
 preferences-ai-controls-block-ai-description = يعني الحظر أنك لن ترى تحسينات الذكاء الاصطناعي الجديدة أو الحالية في { -brand-short-name }، أو النوافذ المنبثقة المتعلقة بها. <a data-l10n-name="link">للحصول على مزيد من التفاصيل</a> حول ما هو مُضمّن وكيفية التحكم في ميزات التعلّم الآلي التقليدية، مثل اقتراحات البحث والتوصيات.
 preferences-ai-controls-blocked-message =
     .message = تُحظر التحسينات الجديدة والحالية للذكاء الاصطناعي مبدئيًا. لإلغاء حظر ميزة معينة، استخدم عناصر التحكم أدناه.
+preferences-ai-controls-on-device-group =
+    .label = الذكاء الاصطناعي على الجهاز
+    .description = تستخدم هذه الميزات نماذج ذكاء اصطناعي صغيرة تُنزّل على جهازك عند استخدامها. ويساعد هذا النهج في حماية خصوصيتك.
 preferences-ai-controls-translations-control =
     .label = الترجمات
     .description = تصفح الوِب بسهولة في لغتك المفضلة.
@@ -2032,6 +2035,7 @@ preferences-ai-controls-state-enabled =
 preferences-ai-controls-state-blocked =
     .label = محجوب
 preferences-ai-controls-state-description-before = معنى الخيارات:
+preferences-ai-controls-state-description-blocked = <strong>محظور:</strong> لن تتمكن من رؤية هذه الميزة أو استخدامها. بالنسبة للذكاء الاصطناعي المُثبّت على الجهاز، ستتم إزالة أي نماذج نُزلت مسبقًا.
 preferences-ai-controls-block-confirmation-description = لن ترى أي تحسينات جديدة أو حالية للذكاء الاصطناعي في { -brand-short-name }، أو أي نوافذ منبثقة بشأنها. بعد ذلك، يمكنك إلغاء حظر أي شيء ترغب في الاستمرار باستخدامه.
 preferences-ai-controls-block-confirmation-tab-group-suggestions = اقتراحات مجموعات اللسان
 preferences-ai-controls-block-confirmation-key-points = أهم النقاط في معاينات الروابط
