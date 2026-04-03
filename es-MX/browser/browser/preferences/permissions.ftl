@@ -101,6 +101,7 @@ permissions-exceptions-https-only-desc2 = Puedes desactivar el modo solo HTTPS p
 permissions-exceptions-popup-window3 =
     .title = Sitios web permitidos: ventanas emergentes y redirecciones de terceros
     .style = { permissions-window2.style }
+permissions-exceptions-popup-desc2 = Puedes especificar qué sitios web tienen permiso para abrir ventanas emergentes y recibir redirecciones de marcos de terceros.
 
 ## Exceptions - Pop-ups
 
