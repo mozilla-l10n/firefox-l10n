@@ -82,6 +82,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = العودة إلى س
 ##
 
 policy-LocalFileLinks = اسمح لمواقع بعينها أن تصنع روابط إلى ملفات محلية.
+policy-LocalNetworkAccess = فعِّل أو عطِّل التحقق من الوصول إلى الشبكة المحلية.
 policy-ManagedBookmarks = ضبط قائمة من العلامات المُدارة من الإدارة بحيث لا يمكن للمستخدم تغييرها.
 policy-ManualAppUpdateOnly = اسمح بالتحديثات اليدوية فقط وعدم إعلام المستخدم بالتحديثات.
 policy-PrimaryPassword = طلب استعمال كلمة سر رئيسية، أو منع ذلك.

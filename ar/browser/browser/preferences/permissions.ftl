@@ -174,6 +174,19 @@ permissions-site-camera-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب استخدام الكمرة
 permissions-site-camera-disable-desc = سيمنع هذا مواقع الوب غير المدرجة أعلاه من طلب تصريح استخدام الكمرة. يمكن أن يؤدي منع الاستخدام هذا إلى عطب مزايا بعض المواقع.
 
+## Site Permissions - Loopback network
+
+permissions-site-localhost-window =
+    .title = الإعدادات - تطبيقات وخدمات الجهاز
+    .style = { permissions-window2.style }
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .title = الإعدادات - أجهزة الشبكة المحلية
+    .style = { permissions-window2.style }
+permissions-site-local-network-disable-desc = سيمنع هذا أي موقع ويب غير مدرج أعلاه من طلب الوصول إلى التطبيقات والخدمات على الأجهزة المتصلة بشبكة واي فاي أو الشبكة المحلية. قد يؤدي هذا إلى تعطيل بعض ميزات مواقع الوِب.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =

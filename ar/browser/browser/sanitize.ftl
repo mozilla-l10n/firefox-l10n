@@ -7,6 +7,9 @@ sanitize-prefs2 =
     .style = min-width: 34em
 sanitize-prefs-style =
     .style = width: 17em
+sanitize-dialog-title2 =
+    .title = امحُ بيانات التصفح وملفات تعريف الارتباط
+    .style = min-width: 34em
 sanitize-dialog-title =
     .title = امسح التأريخ الحالي
     .style = min-width: 34em
@@ -16,6 +19,7 @@ sanitize-dialog-title-everything =
     .title = امسح كل التأريخ
     .style = min-width: 34em
 clear-data-settings-label = على { -brand-short-name } مسح كل شيء تلقائيا عندما إغلاقه
+sanitize-on-shutdown-description = امحُ جميع العناصر المحدّدة تلقائيًا عند إغلاق { -brand-short-name }.
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -55,6 +59,7 @@ history-section-label = التأريخ
 item-history-and-downloads =
     .label = تأريخ التصفح و التنزيلات
     .accesskey = ص
+item-history-and-downloads-description2 = يمحو تأريخ التصفح والتنزيل
 item-cookies =
     .label = الكعكات
     .accesskey = ت
@@ -67,18 +72,33 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = الكعكات وبيانات المواقع
     .accesskey = م
+item-cookies-site-data-description = قد يخرجك من المواقع أو يُفرغ سلال تسوقك.
 item-active-logins =
     .label = جلسات الدخول النشِطة
     .accesskey = ش
 item-cache =
     .label = ذاكرة مخبّأة
     .accesskey = ة
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size =
+    .label = الملفات والصفحات المخزنة مؤقتًا ({ $amount } { $unit })
+    .accesskey = م
+item-cached-content =
+    .label = الملفات والصفحات المخزنة مؤقتًا
+    .accesskey = م
+item-cached-content-description = يمحو العناصر التي تساعد المواقع على التحميل بشكل أسرع
 item-form-search-history =
     .label = تأريخ البحث و النماذج
     .accesskey = ث
 item-site-prefs =
     .label = إعدادات الموقع
     .accesskey = ق
+item-formdata-prefs =
+    .label = معلومات الاستماراة المحفوظة
+    .accesskey = ل
+item-formdata-description = يمحُ بيانات مثل الأسماء وعناوين البريد الإلكتروني وغيرها من العناصر التي تدخلها في الاستمارات
 item-site-prefs-description = إعادة تعيين أذوناتك وتفضيلات الموقع إلى الإعدادات الأصلية
 data-section-label = البيانات
 item-site-settings =
@@ -108,3 +128,6 @@ sanitize-everything-warning = سوف يُمسح كل التأريخ.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = سوف تُحذف كل العناصر المحدّدة.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = يحسب...
