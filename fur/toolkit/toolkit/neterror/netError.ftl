@@ -177,6 +177,9 @@ fp-neterror-offline-body-title = Al somee che al sedi presint un probleme cu la 
 
 fp-neterror-connection-intro = { -brand-short-name } nol rive a creâ une conession sigure cul servidôr { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } nol rive a conetisi al servidôr <strong>{ $hostname }</strong>
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> al à tornât un erôr.
 fp-neterror-coop-coep-intro = { -brand-short-name } nol à cjariât cheste pagjine parcè che al somee che la configurazion di sigurece no corispuint ae pagjine di prime.
 fp-neterror-http-auth-disabled-intro = Cualchidun che al fâs fente di jessi il sît al podarès cirî di robâ detais come il non utent, la password o la direzion e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Chest sît al domande une conession sigure e no tu puedis zontâ une ecezion par visitâlu.
