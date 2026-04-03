@@ -28,12 +28,19 @@ more-from-moz-firefox-relay-button = احصل على { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
+more-from-moz-mozilla-monitor-title = { -mozmonitor-brand-name }
+more-from-moz-mozilla-monitor-us-description = استعِدة معلوماتك الشخصية المكشوفة تلقائيًا.
 more-from-moz-mozilla-monitor-global-description = احصل على تنبيهات عندما تُخترق بياناتك.
+more-from-moz-mozilla-monitor-button = احصل على { -monitor-brand-short-name }
 
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
+more-from-moz-solo-title = { -solo-ai-brand-name } الذكاء الاصطناعي
 more-from-moz-solo-description = أنشئ موقع الوِب الخاص بك على الفور ووصّل نطاقك المخصص مجانًا.
+more-from-moz-solo-button = جرّب { -solo-ai-brand-name }
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 
 more-from-moz-mdn-description = تعلّم تطوير الوِب مع أدلة ومراجع شاملة ومجانية.
+more-from-moz-mdn-button = تعلّم تطوير الوب
+more-from-moz-mdn-title2 = { -mdn-brand-name }
