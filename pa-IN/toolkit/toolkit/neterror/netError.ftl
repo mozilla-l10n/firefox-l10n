@@ -182,6 +182,9 @@ fp-neterror-offline-body-title = ਤੁਹਾਡੇ ਇੰਟਰਨੈੱਟ ਕ
 
 fp-neterror-connection-intro = { -brand-short-name } { $hostname } ਉੱਤੇ ਸਰਵਰ ਨਾਲ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਬਣਾ ਸਕਦਾ ਹੈ।
 fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> ਉੱਤੇ ਸਰਵਰ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ਨੇ ਗ਼ਲਤੀ ਦਿੱਤੀ ਹੈ।
 fp-neterror-coop-coep-intro = { -brand-short-name } ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ, ਕਿਉਂਕਿ ਜਾਪਦਾ ਹੈ ਕਿ ਸੁਰੱਖਿਆ ਸੰਰਚਨਾ ਪਿਛਲੇ ਸਫ਼ੇ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ ਸੀ।
 fp-neterror-http-auth-disabled-intro = ਕੋਈ ਸਾਈਟ ਦਾ ਝਾਂਸਾ ਦੇ ਕੇ ਤੁਹਾਡੇ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਪਾਸਵਰਡ ਜਾਂ ਈਮੇਲ ਵਰਗੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਚੋਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।
 fp-neterror-http-auth-disabled-secure-connection = ਇਸ ਸਾਈਟ ਲਈ ਇੱਕ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਤੁਸੀਂ ਛੋਟ ਜੋੜ ਨਹੀਂ ਸਕਦੇ ਹੋ।
