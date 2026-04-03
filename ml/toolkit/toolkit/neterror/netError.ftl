@@ -99,3 +99,13 @@ certerror-what-can-you-do-about-it-title = അതിനെപ്പറ്റി 
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = പിശകുസങ്കേതം: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ഒരു പിഴവു് തിരിച്ചയച്ചു.
