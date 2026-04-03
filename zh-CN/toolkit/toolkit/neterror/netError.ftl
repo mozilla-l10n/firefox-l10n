@@ -189,6 +189,9 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } 无法与 { $hostname } 的服务器创建安全连接。
 fp-neterror-offline-intro = { -brand-short-name } 无法连接到 <strong>{ $hostname }</strong> 的服务器
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> 发回一个错误。
 fp-neterror-coop-coep-intro = { -brand-short-name } 未加载此页面，因为其安全配置与上个页面似乎不一致。
 fp-neterror-http-auth-disabled-intro = 若有人冒充此网站，其可试图窃取您的用户名、密码、邮箱地址等信息。
 fp-neterror-http-auth-disabled-secure-connection = 此网站需要安全连接，且无法添加例外以访问。

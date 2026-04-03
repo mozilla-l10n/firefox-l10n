@@ -187,6 +187,9 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name }-i s’mund të krijojë një lidhje të siguruar me shërbyesin te { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } s’mund të lidhet te shërbyesi në <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Shërbyesi te <strong>{ $hostname }</strong> po e vonon shumë përgjigjen.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> dërgoi një gabim.
 fp-neterror-coop-coep-intro = { -brand-short-name }-i s’e ngarkoi këtë faqe, ngaqë duket se formësimi i sigurisë s’përkon me faqen e mëparshme.
 fp-neterror-http-auth-disabled-intro = Dikush që hiqet se është sajti mund të provonte të vidhte gjëra të tilla si emrin juaj i përdoruesit, fjalëkalimin, ose email-in.
 fp-neterror-http-auth-disabled-secure-connection = Ky sajt lyp një lidhje të siguruar dhe s’mund të shtoni një përjashtim, për ta vizituar.

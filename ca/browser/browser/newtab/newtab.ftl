@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancel·la
@@ -331,6 +334,8 @@ newtab-custom-pocket-subtitle = Contingut excepcional seleccionat per { -pocket-
 newtab-custom-stories-toggle =
     .label = Articles recomanats
     .description = Contingut excepcional seleccionat per la família del { -brand-product-name }
+newtab-recommended-stories-toggle =
+    .label = Articles recomanats
 newtab-custom-stories-personalized-toggle =
     .label = Articles
 newtab-custom-stories-personalized-checkbox-label = Articles personalitzats basats en la vostra activitat
@@ -716,3 +721,9 @@ newtab-promo-card-cta = Més informació
 newtab-promo-card-dismiss-button =
     .title = Ignora
     .aria-label = Ignora
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

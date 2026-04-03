@@ -193,6 +193,9 @@ fp-neterror-offline-intro = { -brand-short-name } kin gjin ferbining meitsje mei
 fp-neterror-net-timeout-intro = De server op <strong>{ $hostname }</strong> docht der te lang oer om te reagearjen.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> hat in flater weromstjoerd.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = De server op <strong>{ $hostname }</strong> hat in flater weromstjoerd: { $responsestatus } { $responsestatustext }

@@ -193,6 +193,9 @@ fp-neterror-offline-intro = { -brand-short-name }가 <strong>{ $hostname }</stro
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> 서버가 응답하는 데 시간이 너무 오래 걸립니다.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong>에서 오류를 반환했습니다.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> 서버가 다음 오류를 보냈습니다: { $responsestatus } { $responsestatustext }

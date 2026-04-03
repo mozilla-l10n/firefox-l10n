@@ -70,6 +70,9 @@ newtab-topsites-image-url-label = Prilagođena URL slika
 newtab-topsites-use-image-link = Koristite prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Probajte drugi URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Otkaži
@@ -87,6 +90,9 @@ newtab-confirm-delete-history-p2 = Ova radnja se ne može opozvati.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Sponzorisano
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -325,6 +331,8 @@ newtab-custom-pocket-subtitle = Izuzetan sadržaj koji je kurirao { -pocket-bran
 newtab-custom-stories-toggle =
     .label = Preporučene priče
     .description = Izuzetan sadržaj koji je kurirala porodica { -brand-product-name }
+newtab-recommended-stories-toggle =
+    .label = Preporučene priče
 newtab-custom-pocket-sponsored = Sponzorisane priče
 newtab-custom-pocket-show-recent-saves = Prikaži nedavno sačuvane
 newtab-custom-recent-title = Nedavne aktivnosti
@@ -424,6 +432,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Firefox
+
 
 ## Celestial
 
@@ -556,6 +567,9 @@ newtab-custom-wallpaper-title = Prilagođene pozadine su ovdje
 newtab-custom-wallpaper-subtitle = Otpremite vlastitu pozadinu ili odaberite prilagođenu boju kako biste { -brand-product-name } prilagodili sebi.
 newtab-custom-wallpaper-cta = Probaj
 
+## Strings for new user activation custom wallpaper highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmite { -brand-product-name } za mobilne uređaje
@@ -593,3 +607,16 @@ newtab-report-cancel = Otkaži
 newtab-report-submit = Pošalji
 newtab-toast-thanks-for-reporting =
     .message = Hvala vam što ste ovo prijavili.
+
+## Strings for task / to-do list productivity widget
+
+
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

@@ -187,6 +187,9 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } ne povas krei sekuran konekton al la servilo ĉe { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ne povas konektiĝi al la servilo ĉe <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = La servilo ĉe <strong>{ $hostname }</strong> prenas tro longan tempon por respondi.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> respondis per eraro.
 fp-neterror-coop-coep-intro = { -brand-short-name } ne ŝargis tiun ĉi paĝon ĉar ŝajne la sekurecaj agordoj ne kongruas kun tiuj de la antaŭa paĝo.
 fp-neterror-http-auth-disabled-intro = Iu, kiu pretendas esti la retejo, povus klopodi ŝteli aferojn, kiel vian nomon de uzanto, pasvorton aŭ retpoŝtan adreson.
 fp-neterror-http-auth-disabled-secure-connection = Tiu ĉi retejo postulas sekuran konekton kaj pro tio vi ne povas aldoni escepton por viziti ĝin.

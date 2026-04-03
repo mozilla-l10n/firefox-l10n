@@ -193,6 +193,9 @@ fp-neterror-offline-intro = A { -brand-short-name } nem tud kapcsolódni a(z) <s
 fp-neterror-net-timeout-intro = A(z) <strong>{ $hostname }</strong> kiszolgáló válasza túl hosszú ideig tart.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = A(z) <strong>{ $hostname }</strong> hibát küldött vissza.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = A(z) <strong>{ $hostname }</strong> helyen lévő kiszolgáló hibát küldött: { $responsestatus } { $responsestatustext }

@@ -182,6 +182,9 @@ fp-neterror-offline-body-title = Se pare că ai o problemă cu conexiunea la int
 
 fp-neterror-connection-intro = { -brand-short-name } nu poate crea o conexiune securizată la serverul de la { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } nu se poate conecta la serverul de la <strong>{ $hostname }</strong>
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> a returnat o eroare.
 fp-neterror-coop-coep-intro = { -brand-short-name } nu a încărcat pagina deoarece se pare că configurația de securitate nu corespunde cu pagina anterioară.
 fp-neterror-http-auth-disabled-intro = Cineva care pretinde a fi site-ul ar putea încerca să fure ceva, cum ar fi numele de utilizator, parola sau adresa de e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Site-ul necesită o conexiune securizată și nu poți adăuga o excepție ca să intri pe el.

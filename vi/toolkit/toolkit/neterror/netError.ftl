@@ -193,6 +193,9 @@ fp-neterror-offline-intro = { -brand-short-name } không thể kết nối đế
 fp-neterror-net-timeout-intro = Máy chủ tại <strong>{ $hostname }</strong> mất quá nhiều thời gian để phản hồi.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> gửi lại một lỗi.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Máy chủ tại <strong>{ $hostname }</strong> đã trả về lỗi: { $responsestatus } { $responsestatustext }

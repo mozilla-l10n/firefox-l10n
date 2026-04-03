@@ -180,6 +180,9 @@ fp-neterror-offline-body-title = Чунин ба назар мерасад, ки
 
 fp-neterror-connection-intro = Браузери «{ -brand-short-name }» бо сервер дар нишонии { $hostname } ба таври бехатар пайваст шуда наметавонад.
 fp-neterror-offline-intro = Браузери «{ -brand-short-name }» наметавонад, ки ба сервер дар нишонии <strong>{ $hostname }</strong> пайваст шавад
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> хаторо баргардонид.
 fp-neterror-coop-coep-intro = Браузери «{ -brand-short-name }» ин саҳифаро бор накард, зеро ба назар мерасад, ки танзимоти амниятӣ ба саҳифаи қаблӣ мувофиқат намекунад.
 fp-neterror-http-auth-disabled-intro = Касе, ки худро дар ин сомона вонамуд мекунад, метавонад кӯшиш карда, чизҳоеро, аз қабили номи корбар, ниҳонвожа ё почтаи электронии шумо, дуздӣ кунад.
 fp-neterror-http-auth-disabled-secure-connection = Ин сомона пайвасти бехатарро талаб мекунад ва шумо барои ворид шудан ба он қоидаи истисноиро татбиқ карда наметавонед.

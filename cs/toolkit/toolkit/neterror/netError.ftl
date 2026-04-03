@@ -243,6 +243,9 @@ fp-neterror-offline-intro = { -brand-short-name } se nemůže připojit k server
 fp-neterror-net-timeout-intro = Server na adrese <strong>{ $hostname }</strong> reaguje příliš pomalu.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = Server <strong>{ $hostname }</strong> vrátil chybu.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Server <strong>{ $hostname }</strong> vrátil chybu: { $responsestatus } { $responsestatustext }

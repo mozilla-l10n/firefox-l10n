@@ -183,6 +183,9 @@ fp-neterror-offline-body-title = يبدو أن هناك مشكلة في اتصا
 
 fp-neterror-connection-intro = لا يستطيع { -brand-short-name } عمل اتصال آمن بالخادم في { $hostname }.
 fp-neterror-offline-intro = لا يمكن لـ { -brand-short-name } الاتصال بالخادم على <strong>{ $hostname }</strong>
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> أرسل خطأ.
 fp-neterror-coop-coep-intro = لم تُحمّل هذه الصفحة بواسطة { -brand-short-name } لأن إعدادات الأمان لا تتطابق مع الصفحة السابقة.
 fp-neterror-http-auth-disabled-intro = قد يحاول شخص يتظاهر بأنه مسؤول عن الموقع سرقة أشياء مثل اسم المستخدم أو كلمة السر أو البريد الإلكتروني.
 fp-neterror-http-auth-disabled-secure-connection = يتطلب هذا الموقع اتصالاً آمناً، ولا يمكنك إضافة استثناء لزيارته.
