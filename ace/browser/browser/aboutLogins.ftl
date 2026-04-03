@@ -27,3 +27,13 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Impor nibak Browser Laén...
 about-logins-menu-menuitem-import-from-a-file = Peutamong nibak beureukah
+about-logins-menu-menuitem-export-logins = Peuteubiet Teunamong
+about-logins-menu-menuitem-remove-all-logins = Sampôh Ban Dum Teunamong
+about-logins-menu-menuitem-export-logins2 = Peuteubiet Lageuem Tamong
+about-logins-menu-menuitem-remove-all-logins2 = Sampôh Ban Dum Lageuem Tamong
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Peuniléh
+       *[other] Geunalak
+    }
+about-logins-menu-menuitem-help = Tulông
