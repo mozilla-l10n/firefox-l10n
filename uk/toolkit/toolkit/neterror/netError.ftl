@@ -182,6 +182,9 @@ fp-neterror-offline-body-title = Здається, виникла проблем
 
 fp-neterror-connection-intro = { -brand-short-name } не може створити захищене з'єднання із сервером за адресою { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не може під'єднатися до сервера за адресою <strong>{ $hostname }</strong>
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> надіслав повідомлення про помилку.
 fp-neterror-coop-coep-intro = { -brand-short-name } не завантажив цю сторінку, оскільки конфігурація безпеки не відповідає попередній сторінці.
 fp-neterror-http-auth-disabled-intro = Хтось від імені сайту може спробувати викрасти ваше ім'я користувача, пароль або електронну пошту.
 fp-neterror-http-auth-disabled-secure-connection = Цей сайт вимагає захищеного з'єднання, і ви не можете додати виняток для його відвідування.
