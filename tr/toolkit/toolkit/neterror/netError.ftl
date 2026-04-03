@@ -187,6 +187,9 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name }, { $hostname } sunucusuyla güvenli bir bağlantı kuramıyor.
 fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> sunucusuna bağlanamadı
 fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> sunucusunun yanıt vermesi çok uzun sürüyor.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> bir hata gönderdi.
 fp-neterror-coop-coep-intro = Bu sayfanın güvenlik yapılandırması bir önceki sayfayla eşleşmediği için { -brand-short-name } bu sayfayı yüklemedi.
 fp-neterror-http-auth-disabled-intro = Birisi bu siteyi taklit ederek kullanıcı adınız, parolanız veya e-postanız gibi bilgileri çalmaya çalışabilir.
 fp-neterror-http-auth-disabled-secure-connection = Bu site güvenli bir bağlantı gerektiriyor ve siteyi ziyaret etmek için istisna ekleyemezsiniz.
