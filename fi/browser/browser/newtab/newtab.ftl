@@ -321,6 +321,8 @@ newtab-custom-shortcuts-toggle =
     .description = Tallentamasi tai vierailemasi sivustot
 newtab-custom-shortcuts-nova =
     .label = Oikotiet
+newtab-custom-row-description =
+    .description = Rivien lukumäärä
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -521,6 +523,12 @@ newtab-weather-opt-in-yes =
     .label = Kyllä
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Helsinki
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Korkein
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Matalin
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -740,6 +748,12 @@ newtab-daily-briefing-card-timestamp = Päivitetty { $minutes } min sitten
 newtab-widget-message-title = Pysy keskittyneenä listojen ja sisäänrakennetun ajastimen avulla
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Nopeista muistutuksista päivittäisiin tehtäviin, keskittymisharjoituksista venyttelytaukoihin – pysy tehtävässäsi ja aikataulussa.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Tee { -brand-product-name }ista omasi
+newtab-promo-card-body-addons = Valitse taustakuva kokoelmastamme tai luo omasi.
+newtab-promo-card-cta-addons = Kokeile nyt
 newtab-promo-card-title = Tue { -brand-product-name }ia
 newtab-promo-card-body = Sponsorimme tukevat tehtäväämme rakentaa parempaa Internetiä
 newtab-promo-card-cta = Lue lisää

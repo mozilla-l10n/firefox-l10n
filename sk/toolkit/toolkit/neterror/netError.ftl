@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name(case
 
 neterror-file-not-found-filename = Skontrolujte názov súboru, napríklad malé a veľké písmená alebo iné preklepy.
 neterror-file-not-found-moved = Skontrolujte, či súbor nebol premenovaný, presunutý alebo odstránený.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } nevie nájsť súbor na adrese <strong>{ $path }</strong>. Buď neexistuje, alebo je cesta nesprávna.
+neterror-file-not-found-what-can-you-do = Ak ste adresu zadali manuálne, skontrolujte, či v názve alebo ceste k súboru nie sú chyby v písaní veľkých písmen alebo preklepy. Ak ste klikli na uloženú záložku alebo odkaz, súbor mohol byť od uloženia presunutý, premenovaný alebo odstránený. Skúste ho nájsť pomocou správcu súborov alebo nedávneho vyhľadávania.
 neterror-access-denied = Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho oprávnenia.
 neterror-unknown-protocol = Na otvorenie tejto adresy možno bude potrebné nainštalovať ďalší softvér.
 neterror-redirect-loop = Tento problém môže nastať pri nepovolení, resp. odmietnutí cookies.
@@ -178,12 +182,20 @@ neterror-response-status-code = Kód chyby: { $responsestatus } { $responsestatu
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Zdá sa, že sa vyskytol problém s vaším internetovým pripojením
+fp-neterror-illustration-alt =
+    .alt = Ilustrácia líšky pozerajúcej sa na odpojené sieťové káble.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nedokáže vytvoriť zabezpečené pripojenie k serveru na adrese { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } sa nemôže pripojiť k serveru na adrese <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Server na adrese <strong>{ $hostname }</strong> odpovedá príliš dlho.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Server na adrese <strong>{ $hostname }</strong> odoslal späť chybu: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } nenačítal túto stránku, pretože vyzerá to tak, že konfigurácia zabezpečenia nezodpovedá predchádzajúcej stránke.
 fp-neterror-http-auth-disabled-intro = Niekto, kto predstiera, že je webom, by sa mohol pokúsiť ukradnúť veci, ako je vaše používateľské meno, heslo alebo e‑mailovú adresu.
 fp-neterror-http-auth-disabled-secure-connection = Táto stránka vyžaduje zabezpečené pripojenie a na jej návštevu nie je možné pridať výnimku.

@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Poista sivut historiasta
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Muokkaa kirjanmerkkiä…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Poista kirjanmerkki
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Poista
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Välilehdet muista laitteista
 sidebar-menu-cpm-header =
     .heading = Salasanat
+sidebar-menu-bookmarks-header =
+    .heading = Kirjanmerkit
 sidebar-panel-header-close-button =
     .tooltiptext = Sulje
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Kirjanmerkkivalikko
+sidebar-bookmarks-folder-toolbar = Kirjanmerkkipalkki
+sidebar-bookmarks-folder-other = Muut kirjanmerkit
+sidebar-bookmarks-folder-mobile = Kannettavan laitteen kirjanmerkit
 
 ## Titles for sidebar menu panels.
 
