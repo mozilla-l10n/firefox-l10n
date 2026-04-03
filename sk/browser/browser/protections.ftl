@@ -216,3 +216,5 @@ bar-tooltip-cryptominer =
             [few] { $count } pokusy o ťažbu kryptomien ({ $percentage }%)
            *[other] { $count } pokusov o ťažbu kryptomien ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Ochrana súkromia
