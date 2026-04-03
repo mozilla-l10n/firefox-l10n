@@ -291,6 +291,16 @@ find-more-themes = ابحث عن المزيد من السمات
 # used for screen readers.
 addon-options-button =
     .aria-label = خيارات أكثر
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    تتيح لك الإمتدادات والسمات تخصيص { -brand-product-name }. فهي تعزز الخصوصية،
+    وتزيد الإنتاجية، وتحسن جودة الوسائط، وتغير مظهر { -brand-product-name }،
+    وغير ذلك الكثير.
+    غالبًا ما تُطوِّر هذه البرامج الصغيرة بواسطة جهات خارجية. إليك
+    مجموعة مختارة يوصي بها فايرفوكس <a data-l10n-name="learn-more-trigger">لأمان وأداء ووظائف استثنائية.</a>
 
 ## Add-on actions
 

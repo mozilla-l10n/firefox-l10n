@@ -10,7 +10,7 @@ more-from-moz-category =
     .tooltiptext = المزيد من { -vendor-short-name }
 more-from-moz-subtitle = اطلع على منتجات { -vendor-short-name } الأخرى التي تعمل لدعم إنترنت صحي.
 more-from-moz-firefox-mobile-title = متصفّح { -brand-product-name } للمحمول
-more-from-moz-firefox-mobile-description = متصفّح المحمول الذي يضع خصوصيتك أولا وقبل كل شيء.
+more-from-moz-firefox-mobile-description = متصفّح المحمول الذي يضع خصوصيتك أولاً وقبل كل شيء.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = اكتشف طبقة إضافية من التصفح المجهول والحماية.
 more-from-moz-qr-code-box-firefox-mobile-title = نزّله بجهازك المحمول. ثم صوّر رمز QR بالكمرة وانقر على الرابط الذي سيظهر.
@@ -26,6 +26,14 @@ more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = احمِ صندوق الوارد وهويتك بتقنيع البريد الإلكتروني مجانا.
 more-from-moz-firefox-relay-button = احصل على { -relay-brand-short-name }
 
+## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
+
+more-from-moz-mozilla-monitor-global-description = احصل على تنبيهات عندما تُخترق بياناتك.
+
 ## These strings are for the Solo card in about:preferences moreFromMozilla page
 
 more-from-moz-solo-description = أنشئ موقع الوِب الخاص بك على الفور ووصّل نطاقك المخصص مجانًا.
+
+## These strings are for the MDN card in about:preferences moreFromMozilla page
+
+more-from-moz-mdn-description = تعلّم تطوير الوِب مع أدلة ومراجع شاملة ومجانية.
