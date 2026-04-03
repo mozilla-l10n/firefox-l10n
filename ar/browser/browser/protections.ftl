@@ -203,3 +203,8 @@ bar-tooltip-cryptominer =
             [many] { $count } معدّنًا معمّى ({ $percentage }٪)
            *[other] { $count } معدّنًا معمّى ({ $percentage }٪)
         }
+# Privacy Metrics Card
+privacy-metrics-title = تقرير حماية الخصوصية
+privacy-metrics-loading = يحمل إحصائيات الحماية…
+privacy-metrics-error = تعذّر تحميل إحصائيات الحماية.
+privacy-metrics-private-window = { -brand-short-name } يستمر في حظر أدوات التتبع في النوافذ الخاصة، ولكنه لا يحتفظ بسجل ما حُظر.

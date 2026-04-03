@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = الموقع القادم مخادع
 safeb-blocked-malware-page-title = قد تؤذي زيارة هذا الموقع حاسوبك
 safeb-blocked-unwanted-page-title = قد يحتوي هذا الموقع برنامج ضارة
 safeb-blocked-harmful-page-title = قد يحتوي هذا الموقع برمجيات خبيثة
+safeb-blocked-addon-page-title = حُظر الموقع من أجل سلامتك
 safeb-blocked-phishing-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول خداعك لفعل شيء خطير مثل تثبيت برمجيات أو كشف معلوماتك الشخصية مثل كلمات السر أو بطاقات الائتمان.
 safeb-blocked-malware-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول تثبيت برمجيات خبيثة قد تسرق معلوماتك الشخصية على الحاسوب أو تحذفها.
 safeb-blocked-unwanted-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول خداعك لتثبيت برمجيات تضرك في تصفح الوب (مثل تغيير صفحتك الرئيسية أو عرض إعلانات إضافية في المواقع التي تزورها).
 safeb-blocked-harmful-page-short-desc = حجب { -brand-short-name } هذه الصفحة لأنها قد تحاول تثبيت تطبيقات خطرة تحاول سرقة معلوماتك أو حذفها (معلوماتك مثل الصور، وكلمات السر، والرسائل والبطاقات الائتمانية).
+safeb-blocked-addon-page-short-desc = قام { -brand-short-name } بحظر هذه الصفحة لأن أحد إضافاتك حاول فتحها. قد يُستخدم هذا الموقع لسرقة معلوماتك الشخصية، مثل كلمات السر أو أرقام بطاقات الائتمان.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = تقرير من <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -62,3 +64,13 @@ safeb-blocked-harmful-page-learn-more = اطلع على المزيد عن حما
 safeb-palm-notdeceptive =
     .label = هذا ليس موقعًا مخادعًا…
     .accesskey = خ
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = لمَ حُظر هذا الموقع؟
+safeb-blocked-addon-page-error-desc2-override = قد يكون الموقع <strong>{ $sitename }</strong> مرتبطًا بنشاط خادع وضار.
+safeb-blocked-addon-page-error-desc3-override = ما الذي يمكنك فعله حيال ذلك؟
+safeb-blocked-addon-page-error-desc4-override = لمنع حدوث ذلك مرة أخرى، يمكنك إزالة أو تعطيل <strong>{ $addonName }</strong> من صفحة about:addons.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>تعرّف على المزيد حول حماية الإضافات الضارة من { -brand-short-name }</a>.
