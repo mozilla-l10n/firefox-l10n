@@ -359,6 +359,8 @@ onboarding-existing-vertical-tabs-label = جرّب الألسنة العمودي
 onboarding-flair-text = جديد!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = حافظ على الألسنة الأفقية
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = لخّص محتوى الويب، وفكّر في الأفكار، وصياغة الرسائل - كل ذلك أثناء تصفّحك. اختر من بين مزوّدين متعددين. غيّر الخدمة في أي وقت. <a data-l10n-name="learn-more">اطّلع على المزيد</a>
 onboarding-genai-sidebar-primary-button = اختر روبوت المحادثة
 onboarding-genai-sidebar-secondary-button = ابدأ التصفح
 

@@ -30,7 +30,7 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = غُيِّر محرك البحث المبدئي الخاص بك. لم يعد { $oldEngine } متاحًا كمحرك بحث مبدئي في { -brand-short-name }. أصبح { $newEngine } الآن محرك البحث المبدئي الخاص بك. لتغييره إلى محرك بحث مبدئي آخر، انتقل إلى الإعدادات. <label data-l10n-name="remove-search-engine-article">تعرّف على المزيد</label>
+removed-search-engine-message = غُيِّر محرك البحث المبدئي الخاص بك. لم يعد { $oldEngine } متاحًا كمحرك بحث مبدئي في { -brand-short-name }. أصبح { $newEngine } الآن محرك البحث المبدئي الخاص بك. لتغييره إلى محرك بحث مبدئي آخر، انتقل إلى الإعدادات. <label data-l10n-name="remove-search-engine-article">اطّلع على المزيد</label>
 removed-search-engine-message2 = غُيِّر محرك البحث المبدئي الخاص بك. لم يعد { $oldEngine } متاحًا كمحرك بحث مبدئي في { -brand-short-name }. أصبح { $newEngine } الآن محرك البحث المبدئي الخاص بك. لتغييره إلى محرك بحث مبدئي آخر، انتقل إلى الإعدادات.
 remove-search-engine-button = حسنًا
 

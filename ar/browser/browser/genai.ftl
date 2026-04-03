@@ -69,6 +69,8 @@ genai-page-button-summarize = لخص الصفحة
 ## Chatbot onboarding
 
 genai-onboarding-header = تلخيص، والتفكير، والمزيد أثناء التصفح
+# "Switch anytime" refers to allowing the user to switch to a different chatbot.
+genai-onboarding-description = اختر روبوت محادثة ذكيًا لاستخدامه في الشريط الجانبي { -brand-short-name }. سنعرض تفاصيل كل روبوت محادثة عند اختياره. يمكنك التبديل في أي وقت. <a data-l10n-name="learn-more">اطّلع على المزيد</a>
 genai-onboarding-primary = واصِل
 genai-onboarding-secondary = أغلق
 genai-onboarding-claude-learn = اعرف المزيد عن Claude
