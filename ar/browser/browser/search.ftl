@@ -30,6 +30,8 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+removed-search-engine-message = غُيِّر محرك البحث المبدئي الخاص بك. لم يعد { $oldEngine } متاحًا كمحرك بحث مبدئي في { -brand-short-name }. أصبح { $newEngine } الآن محرك البحث المبدئي الخاص بك. لتغييره إلى محرك بحث مبدئي آخر، انتقل إلى الإعدادات. <label data-l10n-name="remove-search-engine-article">تعرّف على المزيد</label>
+removed-search-engine-message2 = غُيِّر محرك البحث المبدئي الخاص بك. لم يعد { $oldEngine } متاحًا كمحرك بحث مبدئي في { -brand-short-name }. أصبح { $newEngine } الآن محرك البحث المبدئي الخاص بك. لتغييره إلى محرك بحث مبدئي آخر، انتقل إلى الإعدادات.
 remove-search-engine-button = حسنًا
 
 ## Infobar shown when default search engine is reset due to an issue reading the settings file.
@@ -77,7 +79,7 @@ add-engine-keyword-placeholder =
 add-engine-keyword-exists = هذه الكلمة المفتاحية مستخدمة بالفعل. جرّب كلمة أخرى.
 add-engine-name-exists = هذا الاسم مستخدم بالفعل. يُرجى اختيار اسم آخر.
 add-engine-no-name = رجاءً أضف اسم.
-add-engine-no-url = أدخِل رجاءً عنوان الموقع.
+add-engine-no-url = رجاءً أدخِل عنوان الموقع.
 add-engine-invalid-url = يبدو أن هذا الرابط غير صحيح. يُرجى التحقق منه والمحاولة مجددًا.
 add-engine-invalid-protocol = هذا الرابط غير صحيح. استخدم رابطًا يبدأ بـ http أو https.
 # This error is shown when the user typed URL is missing %s.

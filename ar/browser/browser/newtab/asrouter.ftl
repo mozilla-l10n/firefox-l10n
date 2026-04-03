@@ -366,3 +366,12 @@ windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = الألسنة العمودية ومجموعات الألسنة متوفرة الآن!
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = قد تتسبب الحماية الصارمة من التتبع في تعطّل المواقع. أصلح المشكلات الشائعة عن طريق إلغاء حظر العناصر الأساسية التي قد تحتوي على أدوات تتبع.

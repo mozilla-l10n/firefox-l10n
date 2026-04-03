@@ -66,6 +66,7 @@ app-basics-location-service-key-google = مفتاح خدمة التموضع من
 app-basics-safebrowsing-key-google = مفتاح التصفّح الآمن من جوجل
 app-basics-key-mozilla = مفتاح خدمة التموضع من Mozilla
 app-basics-safe-mode = الوضع الآمن
+app-basics-disk-available = مساحة القرص المتاحة
 show-dir-label =
     { PLATFORM() ->
         [macos] أظهِر في فايندر
