@@ -133,3 +133,13 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si ses in una 
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = De acordu cun su rellògiu de s’elaboradore tuo, sa data e s'ora atuales sunt: { DATETIME($now, dateStyle: "medium") }. Assegura·ti chi s’elaboradore tuo tèngiat sa data, s’ora e sa zona orària curretas in is cunfiguratziones de su sistema. Pustis atualiza <b>{ $hostname }</b>.
 certerror-mitm-what-can-you-do-about-it-corporate = Si ses in una rete aziendale, podes cuntatare su servìtziu informàticu.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> at torradu una faddina.
