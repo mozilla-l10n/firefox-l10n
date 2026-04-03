@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nastaví, ku ktorým pravidlám majú prístup rozšírenia cez chrome.storage.managed.
+policy-AIControls = Konfiguruje ovládacie prvky umelej inteligencie.
 policy-AllowedDomainsForApps = Definuje domény, ktoré majú povolený prístup do služby Google Workspace.
 policy-AllowFileSelectionDialogs = Povolí dialógové okná pre výber súboru.
 policy-AppAutoUpdate = Zapne alebo vypne automatické aktualizácie aplikácie.
@@ -90,6 +91,7 @@ policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
 policy-HttpAllowlist = Zdroje, ktoré nebudú inovované na HTTPS.
 policy-HttpsOnlyMode = Povolí zapnutie režimu "Len HTTPS".
 policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalovať doplnky.
+policy-IPProtectionAvailable = Zabráni používateľom v prístupe k vstavanej sieti VPN.
 policy-LegacyProfiles = Vypne funkciu, ktorá vynucuje samostatný profil pre každú inštaláciu aplikácie.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Nastaví a uzamkne hodnotu pre podmnožinu predvolieb.
 policy-PrivateBrowsingModeAvailability = Nastaví dostupnosť režimu súkromného prehliadania.
 policy-PromptForDownloadLocation = Spýta sa na umiestnenie súboru pred jeho stiahnutím.
 policy-Proxy = Nakonfiguruje nastavenia proxy.
+policy-RelaunchRequired = Vyžaduje opätovné spustenie { -brand-short-name(case: "gen") } v danom období a informuje používateľa o nadchádzajúcom reštarte.
 policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v poradí podľa nastavenej priority.
 policy-SanitizeOnShutdown2 = Vymaže údaje o prehliadaní v priebehu vypnutia.
 policy-SearchBar = Nastaví predvolené umiestnenie vyhľadávacieho poľa. Používateľ ho môže premiestniť.

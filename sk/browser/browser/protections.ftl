@@ -218,3 +218,52 @@ bar-tooltip-cryptominer =
         }
 # Privacy Metrics Card
 privacy-metrics-title = Ochrana súkromia
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } zablokovanie tento týždeň
+        [few] { $count } zablokovania tento týždeň
+        [many] { $count } zablokovaní tento týždeň
+       *[other] { $count } zablokovaní tento týždeň
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } sledovací prvok
+        [few] { $count } sledovacie prvky
+        [many] { $count } sledovacích prvkov
+       *[other] { $count } sledovacích prvkov
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } čítačka digitálnych odtlačkov
+        [few] { $count } čítačky digitálnych odtlačkov
+        [many] { $count } čítačiek digitálnych odtlačkov
+       *[other] { $count } čítačiek digitálnych odtlačkov
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } sledovací súbor cookie
+        [few] { $count } sledovacie súbory cookie
+        [many] { $count } sledovacích súborov cookie
+       *[other] { $count } sledovacích súborov cookie
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sledovací prvok sociálnych sietí
+        [few] { $count } sledovacie prvky sociálnych sietí
+        [many] { $count } sledovacích prvkov sociálnych sietí
+       *[other] { $count } sledovacích prvkov sociálnych sietí
+    }
+privacy-metrics-empty = Tento týždeň neboli zablokované žiadne sledovacie prvky. { -brand-short-name } vás počas prehliadania chráni pred nasledujúcimi hrozbami.
+privacy-metrics-loading = Načítavajú sa štatistiky ochrany…
+privacy-metrics-error = Nepodarilo sa načítať štatistiky ochrany.
+privacy-metrics-private-window = Prehliadač { -brand-short-name } naďalej blokuje sledovacie prvky v súkromných oknách, ale neukladá si informácie o tom, čo bolo zablokované.

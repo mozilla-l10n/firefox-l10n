@@ -314,6 +314,7 @@ tail-fox-spotlight-secondary-button = Teraz nie
 
 welcome-back-spotlight-title = Vráťte sa k vstavanému súkromiu
 welcome-back-spotlight-subtitle = Vitajte späť v jedinom hlavnom prehliadači, ktorý je podporovaný neziskovou organizáciou. Podnikáme dodatočné kroky na ochranu vašich údajov, nech ste kdekoľvek.
+welcome-back-embedded-import-title = Importujte si údaje a { -brand-short-name } bude taký, ako ste ho poznali
 
 ## Root Certificate Succession Infobar
 

@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Otvoriť stránku v novom okne
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Kvôli ochrane vašej bezpečnosti nemôže { -brand-short-name } zobraziť stránku zo servera { $hostname }, pretože táto je vložená do inej stránky. Ak ju chcete zobraziť, musíte ju otvoriť v novom okne.
 fp-certerror-view-certificate-link = Zobraziť certifikát stránky
+fp-certerror-return-to-previous-page-recommended-button-2 = Prejsť späť (odporúčané)
+    .accesskey = P
 fp-certerror-return-to-previous-page-recommended-button = Prejsť späť (odporúčané)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = { -brand-short-name } nemôže nadviazať zabezpečené p
 
 fp-certerror-page-title = Upozornenie: bezpečnostné riziko
 fp-certerror-body-title = Buďte opatrní. Niečo nie je v poriadku.
+fp-certerror-illustration-alt =
+    .alt = Ilustrácia líšky pozerajúcej sa na oranžovú výstražnú značku.
 fp-certerror-why-site-dangerous = Čo spôsobuje, že stránka vyzerá nebezpečne?
 fp-certerror-what-can-you-do = Čo s tým môžete urobiť?
 fp-certerror-advanced-title = Pokročilé
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Pokračovať na { $hostname } (riskantn
 fp-certerror-intro = { -brand-short-name } zistil potenciálne vážny bezpečnostný problém so stránkou <strong>{ $hostname }</strong>. Niekto, kto predstiera, že je webom, by sa mohol pokúsiť ukradnúť veci, ako sú informácie o kreditnej karte, heslá alebo e‑maily.
 fp-certerror-expired-into = { -brand-short-name } zistil bezpečnostný problém so stránkou <strong>{ $hostname }</strong>. Buď stránka nie je správne nastavená, alebo sú hodiny vášho zariadenia nastavené na nesprávny dátum/čas.
 fp-certerror-transparency-intro = Niekto, kto sa vydáva za <strong>{ $hostname }</strong>, by sa mohol pokúsiť ukradnúť veci, ako sú informácie o kreditných kartách, heslá alebo e‑maily.
+fp-certerror-override-exception-button-2 = Pokračovať na { $hostname } (riskantné)
+    .accesskey = o
