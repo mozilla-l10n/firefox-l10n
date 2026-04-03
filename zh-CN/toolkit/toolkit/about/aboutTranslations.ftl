@@ -27,6 +27,8 @@ about-translations-language-load-error-message =
 about-translations-language-load-error-button = 重试
 about-translations-translation-error-subtext = 请重试。
 about-translations-translation-error-button = 重试
+about-translations-detected-language-unsupported-heading-unknown-2 = 抱歉，我们尚未支持翻译此语言。
+about-translations-detected-language-unsupported-subtext = 请选择其他语言。
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = 输入文本以翻译

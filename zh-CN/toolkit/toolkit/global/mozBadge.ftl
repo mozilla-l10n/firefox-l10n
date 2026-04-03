@@ -6,4 +6,5 @@
 ## A small badge added to feature (text in a bordered or coloured box)
 ## labels or buttons to indicate "New" or in "Beta".
 
+moz-badge-beta = 测试版
 moz-badge-new = 新

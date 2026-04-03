@@ -181,6 +181,8 @@ neterror-response-status-code = 错误代码：{ $responsestatus } { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = 您的网络连接似乎出了点问题
+fp-neterror-illustration-alt =
+    .alt = 狐狸看着断开的网线的插图。
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

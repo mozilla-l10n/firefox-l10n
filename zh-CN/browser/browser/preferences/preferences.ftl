@@ -2265,8 +2265,23 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = 管理例外
     .accesskey = x
+preferences-doh-radio-custom =
+    .label = 自定义
+    .description = 始终使用安全 DNS，并自主选择提供商及回退行为
+preferences-doh-radio-off =
+    .label = 关
+    .description = 使用默认 DNS 解析器
 preferences-doh-status-item-off =
     .message = 基于 HTTPS 的 DNS 已关闭
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = 由于尝试使用提供商 { $name } 时遇到错误（{ $reason }），基于 HTTPS 的 DNS 未运作
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = 由于收到无效网址（{ $reason }），基于 HTTPS 的 DNS 未运作
 preferences-doh-custom-provider-label =
     .aria-label = 输入自定义提供商的 URL
 preferences-doh-header2 =
