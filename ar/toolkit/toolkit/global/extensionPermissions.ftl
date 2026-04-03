@@ -31,7 +31,7 @@ webext-perms-description-tabs = الوصول إلى ألسنة المتصفح
 webext-perms-description-tabHide = إخفاء و إظهار ألسنة المتصفح
 webext-perms-description-topSites = الوصول إلى تأريخ التصفح
 webext-perms-description-trialML = تنزيل نماذج الذكاء الاصطناعي وتشغيلها على جهازك
-webext-perms-description-userScripts = السماح لسكربتات الأطراف الثالثة غير الموثوقة بالوصول إلى بياناتك
+webext-perms-description-userScripts = اسمح لسكربتات الأطراف الثالثة غير الموثوقة بالوصول إلى بياناتك
 webext-perms-description-webNavigation = الوصول إلى نشاط المتصفح أثناء التنقل
 
 ## The userScripts permission includes an additional explanation that is

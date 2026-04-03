@@ -33,9 +33,9 @@ wallet-custom-scheme-warning-host-app = يُتيح فتح رابط <strong>{ $sc
 ##  $host (string) - The hostname that is initiating the request
 ##  $scheme (string) - The type of link that's being opened.
 
-permission-dialog-remember = اسمح دائما لـ<strong>{ $host }</strong> بفتح روابط <strong>{ $scheme }</strong>
-permission-dialog-remember-file = اسمح دائما لهذا الملف بأن يفتح روابط <strong>{ $scheme }</strong>
-permission-dialog-remember-extension = السماح دائمًا لهذا الامتداد بفتح روابط <strong>{ $scheme }</strong>
+permission-dialog-remember = اسمح دائمًا لـ<strong>{ $host }</strong> بفتح روابط <strong>{ $scheme }</strong>
+permission-dialog-remember-file = اسمح دائمًا لهذا الملف بأن يفتح روابط <strong>{ $scheme }</strong>
+permission-dialog-remember-extension = اسمح دائمًا لهذا الامتداد بفتح روابط <strong>{ $scheme }</strong>
 
 ##
 
@@ -60,7 +60,7 @@ chooser-dialog =
     .buttonaccesskeyaccept = ف
 chooser-dialog-description = اختر تطبيقا لفتح رابط { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = استخدم هذا التطبيق دائما لفتح روابط <strong>{ $scheme }</strong>
+chooser-dialog-remember = استخدم هذا التطبيق دائمًا لفتح روابط <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] يُمكن تغيير هذا من خيارات { -brand-short-name }.

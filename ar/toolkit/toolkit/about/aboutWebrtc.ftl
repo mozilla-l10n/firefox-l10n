@@ -129,6 +129,12 @@ about-webrtc-fold-default-hide-msg = أخفِ التفاصيل
     .title = انقر لطي هذا القسم
 about-webrtc-decoder-label = فاكك الترميز
 about-webrtc-encoder-label = المُرمِّز
+about-webrtc-estimated-framerate = معدّل الإطارات المقدر
+
+##
+
+# Section header for estimated bandwidths of WebRTC media flows
+about-webrtc-bandwidth-stats-heading = النطاق الترددي المقدر
 
 ##
 

@@ -15,7 +15,7 @@ origin-controls-quarantined =
 origin-controls-quarantined-status =
     .label = لا يُسمح بالامتداد على المواقع المحظورة
 origin-controls-quarantined-allow =
-    .label = السماح به على المواقع المحظورة
+    .label = اسمح به على المواقع المحظورة
 origin-controls-options =
     .label = يمكن للامتداد قراءة البيانات وتغييرها:
 origin-controls-option-all-domains =
@@ -27,7 +27,7 @@ origin-controls-option-when-clicked =
 # Variables:
 #   $domain (String) - The domain for which the access is granted.
 origin-controls-option-always-on =
-    .label = السماح دائمًا على { $domain }
+    .label = اسمح دائمًا على { $domain }
 
 ## These strings are used to map Origin Controls states to user-friendly
 ## messages. They currently appear in the unified extensions panel.
