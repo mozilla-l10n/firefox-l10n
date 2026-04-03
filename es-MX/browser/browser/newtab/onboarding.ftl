@@ -561,19 +561,29 @@ restored-from-backup-error-primary-button = Cerrar
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-title = Personaliza tu experiencia en { -brand-short-name }
+onboarding-personalization-subtitle = Responde algunas preguntas y te recomendaremos funciones y extensiones para mejorar tu experiencia en { -brand-short-name }.
+onboarding-personalization-use-case-title = ¿Para qué usarás { -brand-short-name }?
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = Escuela
 onboarding-personalization-use-case-work-option = Trabajo
+onboarding-personalization-motivation-title = ¿Qué funciones de { -brand-short-name } son las más importantes para ti?
 onboarding-personalization-motivation-privacy-option = Privacidad y seguridad
 onboarding-personalization-motivation-productivity-option = Productividad
 onboarding-personalization-motivation-other-option = Otros
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Protegemos tus datos y evitamos que las empresas espíen tus clics, de forma automática.
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Estás en buenas manos
 onboarding-refresh-import-subtitle = Transfiere tus contraseñas, marcadores, historial y mucho más.
 onboarding-refresh-import-title = Haz que { -brand-short-name } se sienta más como en casa
+onboarding-refresh-onboarding-addons-subtitle = Las extensiones son aplicaciones pequeñas que te permiten personalizar { -brand-short-name }. Pueden reforzar tu privacidad, mejorar la productividad, cambiar la apariencia de { -brand-short-name } y mucho más.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = Dale un impulso a tu navegación
+onboarding-refresh-sync-subtitle = Accede a tus marcadores, contraseñas y más en cualquier lugar donde inicies sesión en { -brand-short-name }. Además, tu información está cifrada para que solo tú puedas verla.
+onboarding-refresh-sync-title = Ve a donde sea. Sincroniza todo.
+onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, el único navegador importante respaldado por una organización sin fines de lucro. Con tu apoyo, trabajamos para que internet sea más seguro y accesible para todas las personas.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda

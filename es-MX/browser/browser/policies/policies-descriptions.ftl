@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Establece políticas a las que WebExtensions pueda acceder a través de chrome.storage.managed.
+policy-AIControls = Configura los ajustes de IA.
 policy-AllowedDomainsForApps = Define los dominios autorizados para acceder a Google Workspace.
 policy-AllowFileSelectionDialogs = Permitir cuadros de diálogo de selección de archivos.
 policy-AppAutoUpdate = Activar o desactivar la actualización automática de la aplicación.
@@ -21,6 +22,7 @@ policy-AutofillAddressEnabled = Habilitar autocompletado de direcciones.
 policy-AutofillCreditCardEnabled = Habilitar autocompletado para métodos de pago.
 policy-AutoLaunchProtocolsFromOrigins = Define una lista de protocolos externos que pueden ser usados desde los orígenes que aparecen en la lista sin que se le pregunte al usuario.
 policy-BackgroundAppUpdate2 = Habilitar o deshabilitar la actualización en segundo plano.
+policy-Backup = Desactiva el respaldo o la restauración de los datos del perfil.
 policy-BlockAboutAddons = Bloquear el acceso al administrador de complementos (about:addons).
 policy-BlockAboutConfig = Bloquear acceso a la página about:config
 policy-BlockAboutProfiles = Bloquear acceso a la página about:profiles.
@@ -55,6 +57,7 @@ policy-DisablePocket2 = Deshabilitar la característica para guardar páginas we
 policy-DisablePrivateBrowsing = Deshabilitar Navegación Privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh = Deshabilitar el botón "Recargar { -brand-short-name }" en la página about:support.
+policy-DisableRemoteImprovements = Evita que { -brand-short-name } aplique cambios de rendimiento, estabilidad y funciones entre actualizaciones.
 policy-DisableSafeMode = Deshabilitar la función para reiniciar en modo seguro. Nota: la tecla Mayús para ingresar al modo seguro solo se puede deshabilitar en Windows usando la política de grupo.
 policy-DisableSecurityBypass = Evitar que el usuario ignore ciertas advertencias de seguridad.
 policy-DisableSetAsDesktopBackground = Deshabilitar el comando de menú configurado como fondo de escritorio para las imágenes.
@@ -88,6 +91,7 @@ policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
 policy-HttpAllowlist = Orígenes que no se actualizarán a HTTPS.
 policy-HttpsOnlyMode = Permitir que se habilite el modo solo HTTPS.
 policy-InstallAddonsPermission = Permitir que algunos sitios web instalen complementos.
+policy-IPProtectionAvailable = Evita que la VPN integrada esté disponible para quienes usan el navegador.
 policy-LegacyProfiles = Deshabilitar la función que obliga a tener un perfil separado para cada instalación
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -125,6 +129,7 @@ policy-Preferences = Establece y bloquea el valor para un subconjunto de prefere
 policy-PrivateBrowsingModeAvailability = Establecer la disponibilidad del modo de navegación privada.
 policy-PromptForDownloadLocation = Pregunte dónde guardar archivos al descargar.
 policy-Proxy = Configura los ajustes del proxy.
+policy-RelaunchRequired = Solicita que { -brand-short-name } se reinicie en un periodo determinado y notifica a cada persona sobre el próximo reinicio.
 policy-RequestedLocales = Establecer la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
 policy-SanitizeOnShutdown2 = Borrar datos de navegación al apagar.
 policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqueda. El usuario aún puede personalizarlo.
@@ -133,6 +138,7 @@ policy-SearchSuggestEnabled = Habilitar o deshabilitar sugerencias de búsqueda.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Agregar o eliminar módulos PKCS #11.
 policy-ShowHomeButton = Muestra el botón de inicio en la barra de herramientas.
+policy-SitePolicies = Políticas específicas por sitio
 # ”You represent that...” means ”You confirm/declare that...”
 policy-SkipTermsOfUse2 = No mostrar los Términos de Uso ni el Aviso de Privacidad al iniciar. Declaras que aceptas y tienes la autoridad para aceptar los Términos de Uso en nombre de todas las personas a las que les proporcionas acceso a este navegador.
 policy-SSLVersionMax = Establecer la versión máxima de SSL.
