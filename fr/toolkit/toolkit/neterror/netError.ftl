@@ -193,6 +193,9 @@ fp-neterror-offline-intro = { -brand-short-name } ne peut pas se connecter au se
 fp-neterror-net-timeout-intro = Le serveur à l’adresse <strong>{ $hostname }</strong> met trop de temps à répondre.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> a renvoyé une erreur.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Le serveur à l’adresse <strong>{ $hostname }</strong> a renvoyé une erreur : { $responsestatus } { $responsestatustext }
