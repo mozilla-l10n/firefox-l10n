@@ -182,6 +182,9 @@ fp-neterror-offline-body-title = Wystąpił problem z połączeniem z Internet
 
 fp-neterror-connection-intro = { -brand-short-name } nie może utworzyć zabezpieczonego połączenia z serwerem pod adresem { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } nie może połączyć się z serwerem pod adresem <strong>{ $hostname }</strong>
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = Witryna <strong>{ $hostname }</strong> zwróciła błąd.
 fp-neterror-coop-coep-intro = { -brand-short-name } nie wczytał tej strony, ponieważ konfiguracja zabezpieczeń nie zgadza się z poprzednią stroną.
 fp-neterror-http-auth-disabled-intro = Ktoś podszywający się pod witrynę może próbować ukraść nazwę użytkownika, hasło, adres e-mail lub coś innego.
 fp-neterror-http-auth-disabled-secure-connection = Ta witryna wymaga zabezpieczonego połączenia i nie można dodać wyjątku, aby ją otworzyć.
