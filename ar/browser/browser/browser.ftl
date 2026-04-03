@@ -1484,12 +1484,3 @@ trustpanel-tracking-content-not-blocking-tab-header =
 trustpanel-tracking-content-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-fingerprinter-list-header = تحاول هذه المواقع تبصيمك:
 trustpanel-cryptominer-tab-list-header = تحاول هذه المواقع تعدين العُملات الرقمية:
-trustpanel-blocker-section-header2 =
-    { $count ->
-        [zero] حُظر المتعقِّبات على هذا الموقع
-        [one] حُظر المتعقِّبات على هذا الموقع
-        [two] حُظر المتعقِّبات على هذا الموقع
-        [few] حُظر المتعقِّبات على هذا الموقع
-        [many] حُظر المتعقِّبات على هذا الموقع
-       *[other] حُظر المتعقِّبات على هذا الموقع
-    }
