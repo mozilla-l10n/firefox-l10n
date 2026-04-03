@@ -185,6 +185,9 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } ei voi luoda suojattua yhteyttä palvelimeen osoitteessa { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } ei saa yhteyttä palvelimeen osoitteessa <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Palvelin osoitteessa <strong>{ $hostname }</strong> vastaa liian hitaasti.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> lähetti takaisin virheilmoituksen.
 fp-neterror-coop-coep-intro = { -brand-short-name } ei ladannut tätä sivua, koska vaikuttaa siltä, että tietoturva-asetukset eivät vastaa edellistä sivua.
 fp-neterror-http-auth-disabled-intro = Sivustona esiintyvä taho voi yrittää varastaa esimerkiksi käyttäjätunnuksesi, salasanasi tai sähköpostiosoitteesi.
 fp-neterror-http-auth-disabled-secure-connection = Tämä sivusto vaatii suojatun yhteyden, etkä voi lisätä poikkeusta käydäksesi sivustolla.
