@@ -43,6 +43,10 @@ certificate-viewer-logid = ID protokolu
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modul
 certificate-viewer-name = Název
+certificate-viewer-surname = Příjmení
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Křestní jméno
 certificate-viewer-not-after = Platnost do
 certificate-viewer-not-before = Platnost od
 certificate-viewer-organization = Organizace

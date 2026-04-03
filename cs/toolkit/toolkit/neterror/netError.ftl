@@ -110,6 +110,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 =
 
 neterror-file-not-found-filename = Zkontrolujte, že je název souboru napsán správně, a to včetně velikosti písmen.
 neterror-file-not-found-moved = Zkontrolujte, že soubor nebyl přesunut, přejmenován nebo smazán.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } nemůže najít soubor na adrese <strong>{ $path }</strong>. Buď neexistuje, nebo je cesta nesprávná.
+neterror-file-not-found-what-can-you-do = Pokud jste adresu zadali ručně, zkontrolujte, zda v názvu souboru nebo v cestě nejsou chyby ve velkých písmenech nebo překlepy. Pokud jste použili uloženou záložku nebo odkaz, mohl být soubor od doby uložení přesunut, přejmenován nebo smazán. Zkuste jej vyhledat pomocí správce souborů nebo pomocí nedávného vyhledávání.
 neterror-access-denied = Možná byl smazán, přesunut nebo jeho oprávnění zabraňují přístupu.
 neterror-unknown-protocol = Pro otevření této adresy budete patrně potřebovat nainstalovat další software.
 neterror-redirect-loop = Tento problém může být způsoben zakázáním nebo odmítnutím cookies.
@@ -237,6 +241,11 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } nemůže vytvořit zabezpečené připojení k serveru { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se nemůže připojit k serveru na adrese <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Server na adrese <strong>{ $hostname }</strong> reaguje příliš pomalu.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Server <strong>{ $hostname }</strong> vrátil chybu: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } nenačetl tuto stránku, protože nastavení zabezpečení zřejmě neodpovídá předchozí stránce.
 fp-neterror-http-auth-disabled-intro = Někdo, kdo se vydává za web, by se mohl pokusit ukrást například vaše uživatelské jméno, heslo nebo e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Tato stránka vyžaduje zabezpečené připojení a pro její návštěvu nelze udělit výjimku.

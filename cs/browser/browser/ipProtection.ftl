@@ -45,6 +45,11 @@ unauthenticated-vpn-title =
         [with-cases] Vyzkoušejte vestavěnou VPN { -brand-product-name(case: "gen") }
        *[no-cases] Vyzkoušejte vestavěnou VPN aplikace { -brand-product-name }
     }
+unauthenticated-hide-location-message-3 =
+    { -brand-product-name.case-status ->
+        [with-cases] <a data-l10n-name="learn-more-vpn">Skrýt svou polohu</a> při procházení webu ve { -brand-product-name(case: "loc") }.
+       *[no-cases] <a data-l10n-name="learn-more-vpn">Skrýt svou polohu</a> při procházení webu v aplikaci { -brand-product-name }.
+    }
 unauthenticated-hide-location-message-2 =
     { -brand-product-name.case-status ->
         [with-cases] Skryjte svou polohu při procházení { -brand-product-name(case: "loc") }.
