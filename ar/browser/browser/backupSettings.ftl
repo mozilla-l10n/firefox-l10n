@@ -22,10 +22,16 @@ settings-data-backup-in-progress-message =
     .message = جارِ النسخ الاحتياطي…
 settings-data-backup-scheduled-backups-on = النسخ الاحتياطي: مفعّل
 settings-data-backup-scheduled-backups-off = النسخ الاحتياطي: متوقف
+settings-data-backup-scheduled-backups-off2 =
+    .label = النسخ الاحتياطي متوقف
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = مكان النسخ الاحتياطي
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = المكان
 settings-data-backup-last-backup-location-show-in-folder = اعرض في المجلد
 settings-data-backup-last-backup-location-edit = حرّر…
+settings-sensitive-data-encryption-description = اعمل نسخة احتياطية لكلمات سرك وطرق الدفع، أيضًا حافظ على جميع بياناتك باستخدام التعمية.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = اسم الملف: { $fileName }
@@ -33,7 +39,92 @@ settings-data-backup-last-backup-filename = اسم الملف: { $fileName }
 ## These strings are shown under the header if scheduled backups are disabled.
 
 settings-data-backup-scheduled-backups-off-restore-description = استخدم النسخة الاحتياطية { -brand-product-name } من جهاز آخر لاستعادة بياناتك.
+settings-data-backup-scheduled-backups-off-restore-choose = اختر ملف النسخة الاحتياطية…
+
+##
+
+settings-data-backup-scheduled-backups-on-restore-description = استورد بيانات { -brand-product-name } الخاصة بك من آخر مرة نسختها احتياطيًا.
+settings-data-backup-scheduled-backups-on-restore-choose = استعِدة…
+settings-data-toggle-encryption-label = اعمل نسخة احتياطية بياناتك الحساسة
+settings-data-toggle-encryption-support-link = اطّلع على المزيد
+settings-data-change-password2 =
+    .label = غيّر كلمة السر
+
+## These strings are displayed in a modal when users want to turn on scheduled backups.
+
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = حدثت مشكلة في مجلد النسخ الاحتياطي. اختر مجلدًا آخر وحاول مجددًا.
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-header = إيقاف النسخ الاحتياطي؟
+turn-off-scheduled-backups-support-link = اطّلع على المزيد
+turn-off-scheduled-backups-cancel-button = ألغِ
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = ماذا سيتم استعادته؟
+restore-from-backup-support-link =
+    .message = ماذا سيتم استعادته؟
 restore-from-backup-no-backup-file-link = هل تواجه مشاكل في العثور على نُسختك الاحتياطية؟
+restore-from-backup-filepicker-label = ملف النسخة الاحتياطية
+restore-from-backup-filepicker-title = اختر ملف النسخة الاحتياطية:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] اختر…
+       *[other] تصفَح…
+    }
+restore-from-backup-type-group-label =
+    .label = استبدال الملف الشخصي الحالي؟
+restore-from-backup-type-replace =
+    .label = استبدل جميع البيانات بهذه النسخة الاحتياطية
+restore-from-backup-profiles-disabled-message = سيؤدي هذا إلى استبدال جميع بياناتك الحالية { -brand-short-name } بنسخة احتياطية.
+
+## These strings are displayed in a small error message bar in the settings
+## menu if there was an error when trying to restore a backed up profile
+
+# Recovery from backup did not succeed. Potential causes could be file system
+# errors, internal code errors, decryption errors, etc.
+backup-service-error-recovery-failed =
+    .heading = لم يتمكن من استعادة { -brand-short-name }
+    .message = اعد تشغيل { -brand-short-name } ثم حاول استعادة النسخة احتياطية مرة أخرى.
+# There was some error in the backup service but we don't have a more specific
+# idea of what went wrong
+backup-service-error-went-wrong2 =
+    .heading = هممم، حدثت مشكلة أثناء النسخ الاحتياطي.
+    .message = حاول مرة أخرى بعد بضعة دقائق
+
+## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
+
+enable-backup-encryption-header = اعمل نسخة احتياطية لبياناتك الحساسة
+enable-backup-encryption-support-link = اطّلع على المزيد
+enable-backup-encryption-create-password-label = كلمة السر
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+enable-backup-encryption-repeat-password-label = كرّر كلمة السر
+enable-backup-encryption-cancel-button = ألغِ
+enable-backup-encryption-confirm-button = احفظ
+change-backup-encryption-header = غيِّر كلمة السر النسخ الاحتياطي
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-header = متطلبات كلمة السر
+password-rules-length-description = 8 أحرف على الأقل
+password-validity-has-email = لا يمكن أن يكون عنوان بريد إلكتروني
+password-validity-do-not-match = كلمات السر غير متطابقة
+
+## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
+
+password-rules-a11y-success =
+    .alt = نجح
+password-rules-a11y-warning =
+    .alt = تحذير
+
+## These strings are displayed in a modal when users want to disable encryption for an existing backup.
+
+disable-backup-encryption-header = أزِل حماية كلمة السر
+disable-backup-encryption-support-link = ما الذي سيتم نسخه احتياطيًا؟
+disable-backup-encryption-cancel-button = ألغِ
+disable-backup-encryption-confirm-button = أزِل كلمة السر

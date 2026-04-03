@@ -9,14 +9,14 @@ screenshot-shortcut =
     .key = S
 screenshots-instructions = 드래그하거나 클릭해서 영역을 선택하세요. ESC 키를 누르면 취소됩니다.
 screenshots-cancel-button = 취소
-screenshots-save-visible-button = 보이는 내용 저장
-screenshots-save-page-button = 전체 페이지 저장
-screenshots-download-button = 다운로드
-screenshots-download-button-tooltip = 스크린샷 다운로드
+screenshots-save-visible-button = 보이는 내용
+screenshots-save-page-button = 전체 페이지
+screenshots-download-button = 저장
+screenshots-download-button-tooltip = 스크린샷 저장
 screenshots-copy-button = 복사
 screenshots-copy-button-tooltip = 클립보드에 스크린샷 복사
 screenshots-download-button-title =
-    .title = 스크린샷 다운로드
+    .title = 스크린샷 저장
 screenshots-copy-button-title =
     .title = 클립보드에 스크린샷 복사
 screenshots-cancel-button-title =
@@ -63,9 +63,9 @@ screenshots-component-copy-button-2 = 복사
     .aria-label = 복사
 # Variables
 #   $shortcut (String) - A keyboard shortcut for saving/downloading the screenshot.
-screenshots-component-download-button-2 = 다운로드
-    .title = 다운로드 ({ $shortcut })
-    .aria-label = 다운로드
+screenshots-component-download-button-2 = 저장
+    .title = 저장 ({ $shortcut })
+    .aria-label = 저장
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the screenshot command.
 screenshot-toolbar-button =

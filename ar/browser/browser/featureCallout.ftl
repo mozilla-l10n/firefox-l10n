@@ -131,6 +131,7 @@ link-preview-onboarding-callout-title = جديد: انقر مع الاستمرا
 sidebar-button-callout-title = أظهِر عناوين الألسنة في الشريط الجانبي
 sidebar-button-callout-subtitle = استخدم زر الشريط الجانبي لتوسيع الشريط الجانبي حتى تتمكن من رؤية عناوين الألسنة.
 sidebar-button-callout-vertical-tabs = لإظهار ألسنتك، حدّد زر الشريط الجانبي في شريط الأدوات.
+sidebar-deprecation-cta-button = جرّبه الآن
 
 ## Sidebar Vertical Tabs Strings
 

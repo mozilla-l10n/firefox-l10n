@@ -1134,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-group-label2 =
+    .label = Konto
+account-placeholder2 =
+    .label = Du är inte inloggad
+    .description = Logga in och håll din data privat, krypterad och omedelbar tillgänglig överallt där du använder { -brand-short-name }.
 account-group-label =
     .label = { -vendor-short-name }-konto
 account-placeholder =
     .label = Du är inte inloggad
     .description = Logga in för att hålla din data privat, krypterad och synkroniserad mellan enheter.
+account-sync-section =
+    .heading = Konto och synk
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1261,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Du synkroniserar dessa objekt mellan alla dina anslutna enheter:
 sync-syncing-across-devices-heading-2 = Data synkroniserad mellan enheter
+sync-syncing-across-devices-empty-state2 =
+    .label = Hantera synkroniserad data
+    .description = Du synkroniserar inget… än. Börja synkronisera för att få all din data på alla dina enheter.
 sync-syncing-across-devices-empty-state =
     .label = Du synkroniserar inget… än.
     .description = Börja synkronisera för att få all din data på alla dina enheter.
@@ -1280,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Hantera synkroniserad data
     .accesskey = H
+settings-sync-disconnect-button =
+    .label = Koppla från
 sync-change-options =
     .label = Ändra…
     .accesskey = n
