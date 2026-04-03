@@ -313,6 +313,8 @@ newtab-custom-shortcuts-toggle =
     .description = Stránky, ktoré si uložíte alebo navštívite
 newtab-custom-shortcuts-nova =
     .label = Skratky
+newtab-custom-row-description =
+    .description = Počet riadkov
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -515,6 +517,12 @@ newtab-weather-opt-in-yes =
     .label = Áno
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Najvyššia
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Najnižšia
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -734,6 +742,12 @@ newtab-daily-briefing-card-timestamp = Aktualizované pred { $minutes } min.
 newtab-widget-message-title = Zostaňte sústredení vďaka zoznamom a vstavanému časovaču
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od rýchlych pripomienok až po denné úlohy, od sústredených stretnutí až po prestávky – sústreďte sa na úlohy a dodržujte čas.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Prispôsobte si { -brand-product-name(case: "acc") }
+newtab-promo-card-body-addons = Vyberte si tapetu z našej kolekcie alebo si vytvorte vlastnú.
+newtab-promo-card-cta-addons = Vyskúšajte si to teraz
 newtab-promo-card-title = Podporiť { -brand-product-name }
 newtab-promo-card-body = Naši sponzori podporujú našu misiu budovať lepší web
 newtab-promo-card-cta = Ďalšie informácie

@@ -1245,6 +1245,17 @@ panel-save-update-password = Heslo
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ďalšie…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Kopírovať odkaz
+            [few] Kopírovať { $count } odkazy
+            [many] Kopírovať { $count } odkazov
+           *[other] Kopírovať { $count } odkazov
+        }
+    .accesskey = o
 menu-share-copy-link =
     .label = Kopírovať odkaz
     .accesskey = d

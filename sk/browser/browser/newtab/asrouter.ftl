@@ -310,6 +310,11 @@ tail-fox-spotlight-subtitle = Rozlúčte sa s otravnými reklamnými sledovacím
 tail-fox-spotlight-primary-button = Otvárať moje odkazy pomocou { -brand-short-name(case: "gen") }
 tail-fox-spotlight-secondary-button = Teraz nie
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Vráťte sa k vstavanému súkromiu
+welcome-back-spotlight-subtitle = Vitajte späť v jedinom hlavnom prehliadači, ktorý je podporovaný neziskovou organizáciou. Podnikáme dodatočné kroky na ochranu vašich údajov, nech ste kdekoľvek.
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Staršie verzie { -brand-short-name(case: "gen") } môžu začať mať problémy 14. januára 2025.</strong>

@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo vašom prehliadači
 ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
+ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
+ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
 ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, ďakujem
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Rozumiem
 ## Panel
 
 unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skrytie polohy</a> počas prehliadania vo { -brand-product-name(case: "loc") }.
 unauthenticated-hide-location-message-2 = Skryte svoju polohu počas prehliadania v { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -88,8 +91,11 @@ upgrade-vpn-button = Vyskúšajte { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Nepodarilo sa pripojiť k VPN
 ipprotection-connection-status-generic-error-description = Skúste to znova o pár minút.
+ipprotection-connection-status-generic-error-try-again = Skúste to znova neskôr.
 ipprotection-connection-status-network-error-title = Skontrolujte svoje internetové pripojenie
 ipprotection-connection-status-network-error-description = Pripojte sa na internet a potom skúste zapnúť VPN.
+ipprotection-connection-status-blocked-error-title = VPN nie je k dispozícii
+ipprotection-connection-status-blocked-error-description = Miestne zákony nám bránia v poskytovaní služieb VPN v tomto regióne. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
