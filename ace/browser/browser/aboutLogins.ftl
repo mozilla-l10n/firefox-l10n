@@ -9,6 +9,12 @@ about-logins-login-filter =
     .key = F
 create-new-login-button =
     .title = Peugöt teunamong barô
+about-logins-page-title-name = Lageuem tamöng
+about-logins-login-filter2 =
+    .placeholder = Mita Lageuem Tamöng
+    .key = M
+create-login-button =
+    .title = Tamah lageuem tamöng
 fxaccounts-sign-in-text = Cok lageuem tamöng bak peukakah laén
 fxaccounts-sign-in-sync-button = Tamöng keu peusinkron
 fxaccounts-avatar-button =
@@ -20,3 +26,4 @@ menu =
     .title = Peuhah menu
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Impor nibak Browser Laén...
+about-logins-menu-menuitem-import-from-a-file = Peutamong nibak beureukah
