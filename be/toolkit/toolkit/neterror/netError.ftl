@@ -184,6 +184,9 @@ fp-neterror-offline-body-title = Здаецца, ёсць праблема з і
 
 fp-neterror-connection-intro = { -brand-short-name } не можа стварыць бяспечнае злучэнне з серверам па адрасе { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не можа падключыцца да сервера па адрасе <strong>{ $hostname }</strong>
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> вярнуў памылку.
 fp-neterror-coop-coep-intro = { -brand-short-name } не загрузіў гэтую старонку, таму што канфігурацыя бяспекі, здаецца, не адпавядае папярэдняй старонцы.
 fp-neterror-http-auth-disabled-intro = Нехта, выдаючы сябе за сайт, можа паспрабаваць скрасці такія рэчы, як ваша імя карыстальніка, пароль або адрас электроннай пошты.
 fp-neterror-http-auth-disabled-secure-connection = Гэты сайт патрабуе бяспечнага падключэння, і вы не можаце дадаць выключэнне для яго наведвання.
