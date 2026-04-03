@@ -90,6 +90,38 @@ perplexity-callout-primary-label = اسأل Perplexity
 perplexity-callout-secondary-label-1 = أهمِل
 perplexity-callout-secondary-label-2 = فهمت
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = أترغب في تجربة بحث جديد يركز على الخصوصية؟
+start-page-callout-subtitle = جرّب موقع Startpage. فهو مصمم للحفاظ على خصوصية عمليات البحث الخاصة بك منذ البداية.
+start-page-callout-primary-label = جرّب Startpage
+start-page-callout-secondary-label = أهمِل
+
+## Account Adoption Passwords callout strings
+
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = حُفظ كلمة السر. لنقم بعمل نسخة احتياطية منها.
+fxa-adoption-passwords-subtitle = احمِ كلمات سرك عن طريق مزامنتها مع أجهزتك باستخدام التعمية.
+# Opens Mozilla accounts sign-up page
+fxa-adoption-passwords-primary-button-label = سجّل حسابًا
+
+## Taskbar Tabs callout strings
+
+taskbar-tabs-chat-callout-title = دردشة من شريط المهام
+taskbar-tabs-chat-callout-subtitle = شغِّل مواقع الدردشة الخاصة بك كتطبيق في نافذة مبسطة محمية بواسطة { -brand-short-name }.
+taskbar-tabs-email-callout-title = احتفظ ببريدك الإلكتروني في شريط المهام
+taskbar-tabs-value-prop-callout-title = أضف هذا الموقع إلى شريط مهامك
+
+## Windows 10 EoS Sync messages group 1 callouts
+
+windows-10-eos-sync-urgency-subtitle-2 = حتى لو لم تستخدم { -brand-short-name } يوميًا، زامِن للحفاظ على علاماتك وكلمات السر آمنة ويمكن الوصول إليها.
+windows-10-eos-sync-new-device-title-1 = لا تخاطر بالبدء من جديد على جهازك التالي.
+windows-10-eos-sync-new-device-title-2 = هل تنتقل إلى جهاز جديد؟ لا تفقد ما يهمك.
+windows-10-eos-sync-new-device-primary-label = زامِن الآن
+windows-10-eos-sync-dismiss-button-label = أهمِل
+windows-10-eos-sync-callout-primary-advance-button-label = التالي
+
 ## Link Preview Onboarding message callout strings
 
 link-preview-onboarding-callout-title = جديد: انقر مع الاستمرار لمعاينة الروابط
@@ -121,6 +153,7 @@ pin-tabs-callout-cta-2-button = ثبّت هذا اللسان
 
 sidebar-customization-callout-callout-button = خصّص الشريط الجانبي
 sidebar-customization-callout-dismiss-button = أخفِ الشريط الجانبي
+sidebar-customization-callout-2-title = اجعل الشريط الجانبي { -brand-product-name } خاصًا بك
 sidebar-customization-callout-2-subtitle = أضف أدوات وأزلها. ضع ألسنتك في الشريط الجانبي. جرّب روبوت الدردشة بالذكاء الاصطناعي. تخصيص الشريط الجانبي يعود إليك.
 
 ## Sidebar Callout Survey Strings
@@ -133,13 +166,25 @@ sidebar-callout-survey-neutral = محايد
 sidebar-callout-survey-dissatisfied-2 = غير راضٍ
 sidebar-callout-survey-very-dissatisfied-2 = غير راضٍ أبدًا
 sidebar-callout-survey-dont-use-it = أنا لا أستخدمه
+sidebar-callout-survey-productive-question =
+    إلى أي مدى تتفق أو لا تتفق مع هذه العبارة:<br/>
+    
+    "يساعدني الشريط الجانبي { -brand-short-name } على أن أكون أكثر إنتاجية"؟
 sidebar-callout-survey-strongly-agree = أوافق بشدة
 sidebar-callout-survey-agree = أوافق
 sidebar-callout-survey-disagree = لا أوافق
 sidebar-callout-survey-strongly-disagree = لا أوافق أبدًا
+sidebar-callout-survey-keep-website-open = أبقِ موقعًا إلكترونيًا، مثل البريد الإلكتروني أو التقويم، مفتوحًا في الشريط الجانبي أثناء التصفح.
 sidebar-callout-survey-none-of-above = لا شيء مما سبق
 sidebar-callout-survey-submit = أرسِل
 sidebar-callout-survey-thank-you = شكرًا على تعليقك!
+sidebar-genai-survey-satisfaction-question = ما مدى رضاك عن إمكانية الوصول إلى آلي محادثة يعمل بالذكاء الاصطناعي في الشريط الجانبي؟
+sidebar-genai-survey-productive-question =
+    إلى أي مدى تتفق أو لا تتفق مع هذه العبارة:<br/>
+    
+    "يساعدني برنامج الدردشة الآلي الموجود في الشريط الجانبي على أن أكون أكثر إنتاجية"؟
+splitview-onboarding-callout-cta-1 = جرّبه الآن
+unified-search-callout-title = بدّل بين محركات البحث
 unified-search-callout-primary-label = التالي
 unified-search-callout-secondary-label = أهمِل
 unified-search-engines-callout-title = ابحث باستخدام اختصار

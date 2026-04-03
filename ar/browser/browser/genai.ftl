@@ -26,6 +26,8 @@ genai-menu-ask-provider =
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = افتح { $provider }
+genai-menu-remove-generic =
+    .label = أزِل روبوت المحادثة الذكاء الاصناعي
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = أزِل { $provider }

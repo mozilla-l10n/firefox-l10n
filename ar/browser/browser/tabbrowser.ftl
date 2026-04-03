@@ -296,12 +296,32 @@ tab-context-unnamed-group =
     .label = مجموعة غير مسمّاة
 tab-group-name-default = مجموعة غير مسمّاة
 
-## When collapsed, the tab group label's aria-description will indicate
-## whether the hover menu is open or closed.
-
-
 ##
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] أضف لسان إلى مجموعة جديدة
+            [zero] لا ألسنة لإضافة إلى مجموعة جديدة
+            [one] أضف لسان إلى مجموعة جديدة
+            [two] أضف لسانين إلى مجموعة جديدة
+            [few] أضف ألسنة إلى مجموعة جديدة
+            [many] أضف ألسنة إلى مجموعة جديدة
+           *[other] أضف ألسنة إلى مجموعة جديدة
+        }
+    .accesskey = ض
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] أضف لسان إلى مجموعة
+            [zero] لا ألسنة لإضافة إلى مجموعة
+            [one] أضف لسان إلى مجموعة
+            [two] أضف لسانين إلى مجموعة
+            [few] أضف ألسنة إلى مجموعة
+            [many] أضف ألسنة إلى مجموعة
+           *[other] أضف ألسنة إلى مجموعة
+        }
+    .accesskey = ض
 tab-group-editor-action-new-tab =
     .label = لسان جديد في المجموعة
 tab-group-editor-action-new-window =
