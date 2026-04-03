@@ -452,6 +452,8 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentra tus grupo
 tab-groups-onboarding-saved-groups-title-3 = Cuando cierres un grupo de pestañas, puedes volver a abrirlo desde el menú "Mostrar todas las pestañas" en cualquier momento.
 tab-groups-onboarding-saved-groups-title-2 = Cuando cierras un grupo de pestañas, puedes volver a abrirlo aquí en cualquier momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentra tus grupos cerrados buscándolos en la barra de direcciones.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Vuelve a abrir tus grupos de pestañas desde el menú «Listar todas las pestañas» en cualquier momento.
 tab-groups-onboarding-session-restore-title = Vuelve a abrir tus grupos de pestañas aquí en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
 
@@ -480,6 +482,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     ¿Actualizando a Windows 11?
     Hagamos una copia de seguridad de tus datos de { -brand-product-name }.
+create-backup-screen-1-subtitle = Protege automáticamente tus contraseñas, marcadores y más en solo 1 o 2 minutos.
 create-backup-screen-1-flair = Recomendados
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Más información</a>
 create-backup-screen-1-sync-label = Sincronizar con { -brand-product-name }
@@ -490,6 +493,8 @@ create-backup-select-tile-button-label = Seleccionar
 create-backup-back-button-label = Atrás
 create-backup-show-fewer =
     .label = Mostrar menos como este
+create-backup-screen-2-title = Elige los datos de { -brand-product-name } para respaldar
+create-backup-screen-2-subtitle = Solo toma un minuto. Tu información se respalda una vez al día.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Configuración fácil
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -528,17 +533,23 @@ fx-backup-confirmation-screen-all-data-item-text-3 = Encriptado y protegido con 
 fx-backup-confirmation-screen-easy-setup-item-text-1 = Marcadores, historial, configuraciones y otros datos incluidos
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Guardado en tu dispositivo
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Contraseñas y pagos no incluidos
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Ve a <a data-l10n-name="settings">Ajustes</a> para incluir datos confidenciales.
+fx-backup-confirmation-screen-item-subtext-1 = Tu respaldo comenzará en unos minutos y se realizará una vez al día. Puedes consultar el progreso en <a data-l10n-name="settings">Ajustes</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } buscará tu respaldo si necesitas volver a instalar.
 
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar desde una copia de seguridad
 restore-from-backup-title = Recuperemos { -brand-short-name } como te gusta
+restore-from-backup-subtitle = Recupera todos tus marcadores, historial y otros datos para volver a navegar.
 restore-from-backup-secondary-button = No restaurar
+multiple-backups-info-tile = <strong>Se encontraron varios archivos de respaldo.</strong> Se seleccionó el archivo más reciente. Restaura otros perfiles en <a data-l10n-name="settings-label">Ajustes.</a>
 
 ## Restored from Backup spotlight
 
 restored-from-backup-success-title = ¡Estamos de vuelta! Tus datos de { -brand-short-name } se han restaurado.
 restored-from-backup-success-with-checklist-subtitle = ¿Quieres tener tu navegador favorito centrado en la privacidad a un solo clic de distancia?
+restored-from-backup-success-no-checklist-subtitle = Puedes activar el respaldo para este dispositivo en <a data-l10n-name="settings">Ajustes</a>.
 restored-from-backup-success-with-checklist-primary-button = Guardar y continuar
 restored-from-backup-success-with-checklist-secondary-button = Omitir este paso
 restored-from-backup-success-no-checklist-primary-button = Continuar
@@ -549,6 +560,7 @@ restored-from-backup-error-primary-button = Cerrar
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Personaliza tu experiencia en { -brand-short-name }
 onboarding-personalization-use-case-personal-option = Personal
 onboarding-personalization-use-case-school-option = Escuela
 onboarding-personalization-use-case-work-option = Trabajo
