@@ -435,6 +435,7 @@ available-updates-heading = التحديثات المتاحة
 recent-updates-heading = التحديثات الأخيرة
 release-notes-loading = يحمّل…
 release-notes-error = المعذرة، ولكن حصل خطأ أثناء تحميل ملاحظات الإصدار.
+addon-permissions-heading = الصلاحيات
 addon-permissions-empty2 = لا يطلب هذا الامتداد أيّ صلاحيات.
 addon-permissions-empty = لا يطلب هذا الامتداد أيّ صلاحيات
 addon-permissions-required = الصلاحيات المطلوبة للوظيفة الجوهرية:
