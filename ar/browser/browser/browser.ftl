@@ -123,6 +123,9 @@ browser-main-private-suffix-for-content = التصفح الخاص
 popups-infobar-dont-show-message2 =
     .label = لا تعرض هذه الرسالة عند حظر النوافذ المنبثقة أو عمليات إعادة التوجيه من جهات خارجية
     .accesskey = ر
+edit-popup-settings2 =
+    .label = أدر إعدادات إعادة التوجيه المنبثقة والجهات الخارجية…
+    .accesskey = د
 
 ##
 
