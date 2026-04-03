@@ -97,6 +97,12 @@ ipprotection-connection-status-blocked-error-title = VPN 不可用
 ipprotection-message-bandwidth-warning =
     .heading = VPN 流量即将用尽
     .message = 本月剩余 { $usageLeft } / { $maxUsage } GB。
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = VPN 流量即将用尽
+    .message = 本月剩余 { $usageLeft } / { $maxUsage } GB。
 ipprotection-message-continuous-onboarding-intro = 开启 VPN，隐藏真实位置，为浏览添一层加密保护。
 ipprotection-message-continuous-onboarding-autostart = 将 VPN <a data-l10n-name="setting-link">设为打开 { -brand-short-name } 时自动开启</a>，添一层保护。
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 将记住您设置为使用 VPN 的网站。您随时可在<a data-l10n-name="setting-link">设置</a>中更新网站。
@@ -183,6 +189,11 @@ ip-protection-bandwidth-header-1 = 每月流量限额
 ipprotection-bandwidth-reset-title = { $maxUsage } GB VPN 流量已蓄势待发
 ipprotection-bandwidth-reset-text = 启用 VPN 可额外增强隐私保护，每月免费提供。
 ipprotection-bandwidth-reset-button = 明白了
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>此网站可能无法通过 VPN 使用。</strong>请尝试先登录此网站，或关闭 VPN 后再使用此网站。
+ipp-activator-breakage-turn-off-warning = <strong>此网站可能无法通过 VPN 使用。</strong>请尝试关闭 VPN 后再使用此网站。
 
 ## IP Protection alerts
 

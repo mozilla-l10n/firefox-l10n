@@ -139,6 +139,7 @@ restore-from-backup-type-replace =
     .label = 用此备份替换所有数据
 restore-from-backup-type-add =
     .label = 保留数据并创建新的配置文件
+restore-from-backup-profiles-disabled-message = 将用您的备份数据替换当前的 { -brand-short-name } 数据。
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile

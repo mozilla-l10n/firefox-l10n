@@ -35,6 +35,13 @@ ipprotection-site-settings-callout-button = Фаҳмидам
 ## Panel
 
 unauthenticated-get-started = Оғози кор
+site-exclusion-toggle-enabled-1 =
+    .label = Истифодаи «VPN» барои ин сомона
+    .aria-label = «VPN» барои ин сомона фаъол аст
+site-exclusion-toggle-disabled-1 =
+    .label = Истифодаи «VPN» барои ин сомона
+    .aria-label = «VPN» барои ин сомона ғайрифаъол аст
+site-exclusion-toggle-label = Истифодаи «VPN» барои ин сомона
 site-exclusion-toggle-enabled =
     .aria-label = «VPN» барои ин сомона фаъол аст
 site-exclusion-toggle-disabled =
@@ -60,11 +67,16 @@ ipprotection-button-connecting = Фаъол шуда истодааст…
 
 ## VPN paused state
 
+ipprotection-connection-status-paused-title = «VPN» таваққуф шуд
 upgrade-vpn-button = «{ -mozilla-vpn-brand-name }»-ро озмоед
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-title = Ба «VPN» пайваст шуда натавонист
+ipprotection-connection-status-generic-error-description = Пас аз чанд дақиқа аз нав кӯшиш кунед.
+ipprotection-connection-status-generic-error-try-again = Лутфан, баъдтар аз нав кӯшиш кунед.
 ipprotection-connection-status-network-error-title = Пайвастшавии Интернети худро тафтиш кунед
+ipprotection-connection-status-blocked-error-title = «VPN» дастнорас аст
 
 ## IP Protection Settings
 
