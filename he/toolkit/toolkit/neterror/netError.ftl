@@ -193,6 +193,9 @@ fp-neterror-offline-intro = ‏{ -brand-short-name } לא הצליח להתחב�
 fp-neterror-net-timeout-intro = לשרת ב־<strong>{ $hostname }</strong> לוקח יותר מדי זמן להגיב.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = ‏<strong>{ $hostname }</strong> שלח חזרה שגיאה.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = השרת ב־<strong>{ $hostname }</strong> שלח בחזרה שגיאה: { $responsestatus } { $responsestatustext }
