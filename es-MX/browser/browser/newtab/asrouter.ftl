@@ -311,6 +311,7 @@ tail-fox-spotlight-secondary-button = Ahora no
 
 welcome-back-spotlight-title = Regresa a la privacidad integrada
 welcome-back-spotlight-subtitle = Te damos la bienvenida de nuevo al único navegador principal respaldado por una organización sin fines de lucro. Tomamos medidas adicionales para proteger tus datos dondequiera que vayas.
+welcome-back-embedded-import-title = Importa tus datos y haz que { -brand-short-name } se sienta como en casa
 
 ## Root Certificate Succession Infobar
 
@@ -435,5 +436,10 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } no 
 set-default-menu-message-row-layout-title = Hacer que { -brand-short-name } sea tu navegador principal
 set-default-menu-message-row-layout-title-variant = Hacer que { -brand-short-name } sea tu navegador predeterminado
 set-default-menu-message-row-layout-subtitle = Obtén velocidad, seguridad y privacidad cada vez que navegas.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] Ten { -brand-short-name } siempre a mano: elígelo como predeterminado y mantenlo en tu Dock.
+       *[other] Ten { -brand-short-name } siempre a mano: hazlo tu navegador predeterminado y mantenlo en tu barra de tareas.
+    }
 set-default-menu-message-primary-button = Establecer como predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador principal

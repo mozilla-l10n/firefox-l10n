@@ -313,6 +313,8 @@ newtab-custom-shortcuts-toggle =
     .description = Sitios que guardas o visitas
 newtab-custom-shortcuts-nova =
     .label = Accesos directos
+newtab-custom-row-description =
+    .description = Número de filas
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -375,6 +377,7 @@ newtab-wallpaper-toggle-title =
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La imagen superó el límite de tamaño de archivo de { $file_size } MB. Por favor, intenta cargar un archivo más pequeño.
+newtab-wallpaper-error-upload-file-type = No se pudo subir tu archivo. Por favor, inténtalo de nuevo con un archivo de imagen.
 newtab-wallpaper-error-file-type = No pudimos cargar tu archivo. Por favor, vuelve a intentarlo con un tipo de archivo diferente.
 newtab-wallpaper-light-red-panda = Panda rojo
 newtab-wallpaper-light-mountain = Montaña Blanca
@@ -512,6 +515,12 @@ newtab-weather-opt-in-yes =
     .label = Sí
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Ciudad de Nueva York
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Alta
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Baja
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -646,6 +655,8 @@ newtab-report-cancel = Cancelar
 newtab-report-submit = Enviar
 newtab-toast-thanks-for-reporting =
     .message = Gracias por informar esto.
+newtab-toast-widgets-hidden =
+    .message = Selecciona el icono del lápiz para volver a añadir widgets en cualquier momento.
 
 ## Strings for task / to-do list productivity widget
 
@@ -691,6 +702,9 @@ newtab-widget-menu-hide = Ocultar widget
 newtab-widget-section-hide-all-button =
     .title = Ocultar widgets
     .aria-label = Ocultar todos los widgets
+newtab-widget-section-maximize =
+    .title = Expandir widgets
+    .aria-label = Expandir todos los widgets a tamaño completo
 newtab-widget-section-feedback = Dinos lo que piensas
 
 ## Strings for timer productivity widget
