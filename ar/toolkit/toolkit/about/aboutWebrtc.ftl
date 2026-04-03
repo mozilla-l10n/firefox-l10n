@@ -127,6 +127,7 @@ about-webrtc-fold-default-show-msg = اعرض التفاصيل
     .title = انقر لتوسيع هذا القسم
 about-webrtc-fold-default-hide-msg = أخفِ التفاصيل
     .title = انقر لطي هذا القسم
+about-webrtc-discarded-packets-label = الحزم  المهملة:
 about-webrtc-decoder-label = فاكك الترميز
 about-webrtc-encoder-label = المُرمِّز
 about-webrtc-estimated-framerate = معدّل الإطارات المقدر

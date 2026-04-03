@@ -378,3 +378,15 @@ windows-10-eos-feature-toast-dismiss-button = أهمِل
 
 etp-strict-exceptions-infobar-message = <strong>قد تتسبب الحماية الصارمة من التتبع في تعطّل المواقع.</strong> أصلح المشكلات الشائعة عن طريق إلغاء حظر العناصر الأساسية التي قد تحتوي على أدوات تتبع.
 etp-strict-exceptions-infobar-learn-more = اطّلع على المزيد
+etp-strict-exceptions-infobar-button = طبّق الإصلاحات
+    .accesskey = ص
+etp-strict-exceptions-infobar-not-now = ليس الآن
+    .accesskey = ل
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = ‏{ -brand-short-name } ليس المتصفح المبدئي حاليًا
+set-default-menu-message-simple-layout-title-variant = ‏{ -brand-short-name } ليس المتصفح الأساسي حاليًا
+set-default-menu-message-row-layout-title = اجعل { -brand-short-name } متصفّحك الأساسي
+set-default-menu-message-row-layout-title-variant = اجعل { -brand-short-name } متصفّحك المبدئي
+set-default-menu-message-row-layout-subtitle = تحصّل على السرعة والأمان والخصوصية في كل مرة تتصفح فيها.

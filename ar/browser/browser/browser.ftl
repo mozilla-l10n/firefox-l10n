@@ -577,6 +577,9 @@ browser-window-restore-down-button =
     .tooltiptext = أنزِله
 browser-window-close-button =
     .tooltiptext = أغلِق
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = ارجع
 
 ## Tab actions
 

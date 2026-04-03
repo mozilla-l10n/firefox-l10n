@@ -1134,6 +1134,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronisation
+account-group-label2 =
+    .label = Konto
 account-group-label =
     .label = { -vendor-short-name } Konto
 account-placeholder =
@@ -1280,6 +1282,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Synchronisierte Daten verwalten
     .accesskey = v
+settings-sync-disconnect-button =
+    .label = Trennen
 sync-change-options =
     .label = Ändern…
     .accesskey = Ä
