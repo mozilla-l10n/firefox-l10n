@@ -187,6 +187,9 @@ fp-neterror-illustration-alt =
 fp-neterror-connection-intro = { -brand-short-name } не може да успостави безбедну везу са сервером на { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не може да се повеже са сервером на <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Серверу на <strong>{ $hostname }</strong> треба превише времена да одговори.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> је вратио грешку.
 fp-neterror-coop-coep-intro = { -brand-short-name } није учитао ову страницу јер изгледа да се безбедносна подешавања не поклапају са претходном страницом.
 fp-neterror-http-auth-disabled-intro = Неко ко се претвара да је овај сајт могао би да покуша да украде ствари попут вашег корисничког имена, лозинке или е-поште.
 fp-neterror-http-auth-disabled-secure-connection = Овај сајт захтева безбедну везу и не можете додати изузетак да бисте га посетили.
