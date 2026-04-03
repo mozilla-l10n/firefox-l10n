@@ -168,10 +168,16 @@ certerror-coep-learn-more = Pelajari lebih lanjut tentang Cross Origin Embedder 
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kode kesalahan: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } tidak dapat membuat sambungan aman ke server di { $hostname }.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> mengirim kembali kesalahan.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Sepertinya situs ini menggunakan perangkat lunak lama dengan masalah keamanan yang diketahui.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
