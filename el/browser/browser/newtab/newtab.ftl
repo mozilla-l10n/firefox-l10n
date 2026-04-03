@@ -338,6 +338,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Χορηγούμενες συντομεύσεις
 newtab-custom-pocket-title = Προτείνεται από το { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .label = Προτεινόμενα άρθρα
     .description = Εξαιρετικό περιεχόμενο από την οικογένεια του { -brand-product-name }

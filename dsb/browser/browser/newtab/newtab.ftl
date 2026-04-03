@@ -342,6 +342,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponserowane zwězanja
 newtab-custom-pocket-title = Wót { -pocket-brand-name } dopórucone
 newtab-custom-pocket-subtitle = Wósebne wopśimjeśe, wubrane pśez { -pocket-brand-name }, źěla swójźby { -brand-product-name }
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .label = Dopórucone tšojeńka
     .description = Wuwześowe wopśimjeśe, kótarež se pśez swójźbu { -brand-product-name } wótwardujo

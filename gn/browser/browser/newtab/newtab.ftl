@@ -337,6 +337,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Jeike pya’eha jehepyme’ẽpyre
 newtab-custom-pocket-title = { -pocket-brand-name } oñe’ẽporãha
 newtab-custom-pocket-subtitle = Tetepy iporãva { -pocket-brand-name } oiporavopyre, { -brand-product-name } mba’éva pegua
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .label = Tembiasakue momba’epyre
     .description = Tetepy iporãva oiporavóva { -brand-product-name } reheguáva

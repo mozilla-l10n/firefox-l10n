@@ -336,6 +336,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонзорисане пречице
 newtab-custom-pocket-title = Препоруке из { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Изузетан садржај који уређује { -pocket-brand-name }, део породице { -brand-product-name }
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .label = Препоручене приче
     .description = Изузетан садржај који је бирала { -brand-product-name } породица

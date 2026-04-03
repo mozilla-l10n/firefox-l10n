@@ -345,6 +345,7 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Llwybrau byr wedi'u noddi
 newtab-custom-pocket-title = Argymhellir gan  { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
+#  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be having a description under "Recommended stories" anymore
 newtab-custom-stories-toggle =
     .label = Straeon cymeradwy
     .description = Cynnwys eithriadol wedi'i gasglu gan deulu { -brand-product-name }

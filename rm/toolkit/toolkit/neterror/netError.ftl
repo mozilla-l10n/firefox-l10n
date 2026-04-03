@@ -174,9 +174,6 @@ certerror-coep-learn-more = Ulteriuras infurmaziuns davart directivas COEP (Cros
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Code d’errur: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
-
-
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
