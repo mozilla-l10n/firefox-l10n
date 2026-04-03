@@ -144,7 +144,7 @@ main-context-menu-open-link-new-private-window =
     .accesskey = о
 main-context-menu-bookmark-link-2 =
     .label = Обележи везу…
-    .accesskey = B
+    .accesskey = л
 main-context-menu-save-link =
     .label = Сачувај везу као…
     .accesskey = С
@@ -164,8 +164,8 @@ main-context-menu-copy-link-simple =
     .label = Копирај везу
     .accesskey = К
 main-context-menu-preview-link =
-    .label = Преглед линка
-    .accesskey = r
+    .label = Преглед везе
+    .accesskey = г
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
