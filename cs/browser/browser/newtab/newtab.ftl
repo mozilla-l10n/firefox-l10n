@@ -506,7 +506,7 @@ newtab-weather-see-full-forecast = Zobrazit úplnou předpověď
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = Jednoduché
-newtab-weather-menu-change-weather-display-simple = Přepnout na jednoduché rozhraní
+newtab-weather-menu-change-weather-display-simple = Přepnout na jednoduché zobrazení
 newtab-weather-menu-weather-display-option-detailed = Podrobné
 newtab-weather-menu-change-weather-display-detailed = Přepnout na podrobné zobrazení
 newtab-weather-menu-temperature-units = Jednotky teploty
