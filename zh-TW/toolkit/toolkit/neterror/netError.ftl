@@ -193,6 +193,9 @@ fp-neterror-offline-intro = { -brand-short-name } 無法連線到位於 <strong>
 fp-neterror-net-timeout-intro = 位於 <strong>{ $hostname }</strong> 的伺服器花了太久時間，還是沒有回應。
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> 回傳錯誤訊息。
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = 位於 <strong>{ $hostname }</strong> 的伺服器回傳了錯誤：{ $responsestatus } { $responsestatustext }
