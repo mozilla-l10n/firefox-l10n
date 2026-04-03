@@ -702,7 +702,7 @@ newtab-widget-lists-label-beta =
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
 # Variables:
 #   $number (number) - Amount of list items marked complete
-newtab-widget-lists-completed-list = Dokončeno ({ $number })
+newtab-widget-lists-completed-list = Splněno ({ $number })
 newtab-widget-task-list-menu-copy = Kopírovat
 newtab-widget-lists-menu-edit = Upravit název seznamu
 newtab-widget-lists-menu-create = Vytvoření nového seznamu
