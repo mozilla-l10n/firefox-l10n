@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Odstrániť stránky z histórie
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Upraviť záložku…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Odstrániť záložku
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Odstrániť
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Karty z ďalších zariadení
 sidebar-menu-cpm-header =
     .heading = Heslá
+sidebar-menu-bookmarks-header =
+    .heading = Záložky
 sidebar-panel-header-close-button =
     .tooltiptext = Zavrieť
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Ponuka Záložky
+sidebar-bookmarks-folder-toolbar = Panel záložiek
+sidebar-bookmarks-folder-other = Ostatné záložky
+sidebar-bookmarks-folder-mobile = Záložky z mobilnej verzie
 
 ## Titles for sidebar menu panels.
 
