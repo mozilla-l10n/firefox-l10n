@@ -149,3 +149,15 @@ tab-context-send-tabs-to-device =
            *[other] أرسِل { $tabCount } لسان إلى الجهاز
         }
     .accesskey = س
+tab-context-unload-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] ألغ التحميل
+            [zero] لا إلغاء تحميل
+            [one] ألغ التحميل لسان
+            [two] ألغ التحميل لسانين
+            [few] ألغ التحميل { $tabCount } ألسنة
+            [many] ألغ التحميل { $tabCount } لسانًا
+           *[other] ألغ التحميل { $tabCount } لسان
+        }
+    .accesskey = غ

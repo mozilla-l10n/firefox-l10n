@@ -2025,6 +2025,9 @@ preferences-ai-controls-translations-control =
     .label = الترجمات
     .description = تصفح الوِب بسهولة في لغتك المفضلة.
 preferences-ai-controls-translations-more-link = المزيد من إعدادات الترجمة
+preferences-ai-controls-sidebar-chatbot-group =
+    .label = مزودي برامج الدردشة الآلية المدعومة بالذكاء الاصطناعي في الشريط الجانبي
+    .description = أبقِ روبوت الدردشة أمامك أثناء التصفح. اختر من بين Anthropic Claude وChatGPT وCopilot وGoogle Gemini وLe Chat Mistral.
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = متاح
