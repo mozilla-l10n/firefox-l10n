@@ -120,6 +120,12 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Գաղտնի դիտարկում
+popups-infobar-dont-show-message2 =
+    .label = Չցուցադրել այս հաղորդագրությունը, երբ թռուցիկները կամ երրորդ կողմի վերահասցեավորիչներն արգելափակված են
+    .accesskey = D
+edit-popup-settings2 =
+    .label = Կառավարել թռուցիկները և երրորդ կողմի վերահասցեավորման կարգավորումները…
+    .accesskey = M
 
 ##
 
@@ -266,8 +272,10 @@ urlbar-screen-blocked =
     .tooltiptext = Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համօգտագործելուց:
 urlbar-persistent-storage-blocked =
     .tooltiptext = Դուք արգելափակել եք մշտական պահեստը այս կայքի համար:
+urlbar-popup-blocked2 =
+    .tooltiptext = Դուք արգելափակել եք այս կայքի թռուցիկները և երրորդ կողմի վերահասցեավորումները։
 urlbar-popup-blocked =
-    .tooltiptext = Դուք ունեք արգելափակված ելնող պատուհաններ այս կայքում:
+    .tooltiptext = Դուք ունեք արգելափակված թռուցիկներ այս կայքում:
 urlbar-autoplay-media-blocked =
     .tooltiptext = Դուք այս կայքի համար արգելափակել եք ինքնանվագարկվող ձայնային մեդիան։
 urlbar-canvas-blocked =
@@ -1179,16 +1187,19 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Թույլատրել ելնող պատուհաններ { $uriHost }-ից
+    .label = Թույլատրել թռուցիկները { $uriHost }-ից
     .accesskey = p
 popups-infobar-block =
-    .label = Արգելել ինքնաելիցներ { $uriHost }-ից
+    .label = Արգելել թռուցիկները { $uriHost }-ից
+    .accesskey = p
+popups-infobar-allow2 =
+    .label = Թույլատրել թռուցիկները և երրորդ կողմի վերահասցեավորումները { $uriHost }-ի համար
     .accesskey = p
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = Չցուցադրել սա, երբ ելնող պատուհնները արգելափակված են
+    .label = Չցուցադրել սա, երբ թռուցիկներն արգելափակված են
     .accesskey = D
 edit-popup-settings =
     .label = Կառավարել թռուցիկների կարգավորումները…
@@ -1375,7 +1386,7 @@ redirect-warning-with-popup-message =
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = { -brand-short-name } արգելափակեց այս կայքը ավելի բացելու քան { $popupCount } թռուցիկ պատուհաններ։
+popup-warning-exceeded-message = { -brand-short-name } արգելափակեց այս կայքը ավելի բացելու քան { $popupCount } թռուցիկներ։
 popup-warning-button =
     .label =
         { PLATFORM() ->

@@ -93,6 +93,12 @@ permissions-exceptions-https-only-window2 =
     .title = Բացառություններ - Միայն HTTPS կերպ
     .style = { permissions-window2.style }
 
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .title = Թույլատրված կայքեր - թռուցիկներ և երրորդ կողմի վերահասցեավորումներ
+    .style = { permissions-window2.style }
+
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =

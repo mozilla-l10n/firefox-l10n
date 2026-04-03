@@ -1845,11 +1845,27 @@ permissions-autoplay = Ինքնանվագարկում
 permissions-autoplay-settings =
     .label = Կարգավորումներ...
     .accesskey = t
+permissions-block-popups2 =
+    .label = Արգելափակել թռուցիկներները և երրորդ կողմի վերահասցեավորումները
+    .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Կառավարել բացառությունները
+    .description = Ավելացրեք կայքեր, որոնք կարող են բացել թռուցիկներ և օգտագործել երրորդ կողմի վերահասցեավորումներ:
+    .accesskey = E
+    .searchkeywords = թռուցիկներ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button2 =
+    .label = Կառավարել թռուցիկների և երրորդ կողմի վերահասցեավորման բացառությունները
+    .accesskey = E
+    .searchkeywords = թռուցիկներ
 permissions-addon-exceptions2 =
     .label = Ընտրեք, թե որ կայքերը կարող են տեղադրել ընդլայնումներ
     .accesskey = E
 permissions-block-popups =
-    .label = Կանխել ելնող պատուհանները
+    .label = Արգելափակել թռուցիկները
     .accesskey = Կ
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
