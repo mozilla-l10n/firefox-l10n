@@ -1136,11 +1136,16 @@ sync-group-label =
     .label = Синхрондау
 account-group-label2 =
     .label = Тіркелгі
+account-placeholder2 =
+    .label = Сіз кірген жоқсыз
+    .description = Жүйеге кіріп, деректеріңіздің жекелігін, шифрленуін және { -brand-short-name } бағдарламасын пайдаланатын кез келген жерде дереу қолжетімді болуын қамтамасыз етіңіз.
 account-group-label =
     .label = { -vendor-short-name } тіркелгісі
 account-placeholder =
     .label = Сіз кірген жоқсыз
     .description = Деректеріңіздің құпиялығын, шифрленуін және құрылғылар арасында синхрондалуын қамтамасыз ету үшін жүйеге кіріңіз.
+account-sync-section =
+    .heading = Тіркелгі және синхрондау
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1263,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Сіз бұл элементтерді барлық қосылған құрылғыларға синхрондаудасыз:
 sync-syncing-across-devices-heading-2 = Деректер құрылғылар арасында синхрондалған
+sync-syncing-across-devices-empty-state2 =
+    .label = Синхрондалған деректерді басқару
+    .description = Сіз ештеңе синхрондап жатқан жоқсыз... әлі. Барлық деректеріңізді барлық құрылғыларыңыздан алу үшін синхрондауды бастаңыз.
 sync-syncing-across-devices-empty-state =
     .label = Сіз ештеңені синхрондаған жоқсыз… әлі.
     .description = Барлық құрылғыларыңызда барлық деректерді алу үшін синхрондауды бастаңыз.
@@ -1282,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Синхрондалған деректерді басқару
     .accesskey = у
+settings-sync-disconnect-button =
+    .label = Байланысты үзу
 sync-change-options =
     .label = Өзгерту…
     .accesskey = з
