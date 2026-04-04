@@ -14,8 +14,13 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Preferencias de privacidad del sitio web
+do-not-track-removal3 =
+    .message = Ya no ofrecemos soporte para la función “No rastrear”.
 non-technical-privacy-heading =
     .label = Protecciones adicionales
+preferences-privacy-relay-available =
+    .label = Sugerir máscaras de correo de { -relay-brand-name }
+    .description = Oculta tu dirección de correo real para proteger tu bandeja de entrada del spam.
 non-technical-privacy-header = Preferencias de privacidad del sitio web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -289,6 +294,8 @@ containers-remove-cancel-button = No eliminar este marcador
 settings-tabs-show-image-in-preview =
     .label = Mostrar una imagen de vista previa cuando pases el cursor sobre una pestaña
     .accessKey = h
+settings-tabs-drag-to-create-tab-groups =
+    .label = Arrastra las pestañas para agruparlas.
 browser-layout-header2 =
     .label = Disposición del navegador
 browser-layout-horizontal-tabs2 =
@@ -353,6 +360,9 @@ preferences-web-appearance-override-warning3 =
     .message = Tus ajustes del control de contraste prevalecen por sobre la apariencia del sitio web.
 preferences-web-appearance-link =
     .label = Administra los temas de { -brand-short-name } en Extensiones y Temas
+preferences-contrast-control-group =
+    .label = Contraste del sitio web
+    .description = Los sitios web usan una gran variedad de colores de primer plano y fondo. Para que el contraste sea constante, puedes usar los mismos colores en todos los sitios.
 preferences-contrast-control-radio-group =
     .label = Reemplazar colores
 # This can appear when using windows HCM or "Override colors: always" without
