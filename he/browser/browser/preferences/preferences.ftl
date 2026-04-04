@@ -1134,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = סנכרון
+account-group-label2 =
+    .label = חשבון
+account-placeholder2 =
+    .label = לא נכנסת לחשבון
+    .description = ניתן להתחבר ולשמור על הנתונים שלך פרטיים, מוצפנים ונגישים באופן מיידי בכל מקום בו משתמשים ב־{ -brand-short-name }.
 account-group-label =
     .label = חשבון { -vendor-short-name }
 account-placeholder =
     .label = לא נכנסת לחשבון
     .description = יש להיכנס כדי לשמור על הנתונים שלך פרטיים, מוצפנים ומסונכרנים בין מכשירים.
+account-sync-section =
+    .heading = חשבון וסנכרון
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
