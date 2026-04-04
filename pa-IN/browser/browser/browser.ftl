@@ -410,6 +410,9 @@ quickactions-cmd-help = ਮਦਦ, ਸਹਿਯੋਗ
 # Opens the devtools web inspector
 quickactions-inspector2 = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-inspector2 = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ, ਡਿਵੈਲਪਮੈੰਟ ਟੂਲ
+# Opens Firefox Library
+quickactions-cmd-library = ਲਾਇਬਰੇਰੀ
+quickactions-library = ਲਾਇਬਰੇਰੀ ਨੂੰ ਖੋਲ੍ਹੋ
 quickactions-cmd-inspector = ਇੰਸਪੈਕਟਰ, ਡਿਵ-ਟੂਲ
 # Opens about:logins
 quickactions-logins2 = ਪਾਸਵਰਡਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
@@ -1234,6 +1237,15 @@ panel-save-update-password = ਪਾਸਵਰਡ
 # "More" item in macOS share menu
 menu-share-more =
     .label = …ਹੋਰ
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
+           *[other] { $count } ਲਿੰਕਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = L
