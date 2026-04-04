@@ -1152,11 +1152,16 @@ sync-group-label =
     .label = Sync
 account-group-label2 =
     .label = Cyfrif
+account-placeholder2 =
+    .label = Dydych chi heb fewngofnodi
+    .description = Mewngofnodwch a  chadw'ch data yn breifat, wedi'i amgryptio ac ar gael yn syth lle bynnag fyddwch yn defnyddio { -brand-short-name }.
 account-group-label =
     .label = Cyfrif { -vendor-short-name }
 account-placeholder =
     .label = Dydych chi heb fewngofnodi
     .description = Mewngofnodwch i gadw'ch data'n breifat, wedi'i amgryptio a'i gydweddu ar draws dyfeisiau.
+account-sync-section =
+    .heading = Cyfrif a chydweddu
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1279,6 +1284,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Rydych yn cydweddu'r eitemau hyn i'ch holl ddyfeisiau cysylltiedig:
 sync-syncing-across-devices-heading-2 = Data wedi'u cydweddu ar draws dyfeisiau
+sync-syncing-across-devices-empty-state2 =
+    .label = Rheoli data wedi'i gydweddu
+    .description = Dydych chi ddim yn cydweddu dim… eto. Cychwynnwch gydweddu i gael y cyfan o'ch data ar eich holl ddyfeisiau.
 sync-syncing-across-devices-empty-state =
     .label = Dydych chi ddim yn cydweddu unrhyw beth… eto
     .description = Cychwyn cydweddu i gael eich holl ddata ar eich holl ddyfeisiau.
@@ -1298,6 +1306,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Rheoli data wedi'u cydweddu
     .accesskey = R
+settings-sync-disconnect-button =
+    .label = Datgysylltu
 sync-change-options =
     .label = Newid…
     .accesskey = N

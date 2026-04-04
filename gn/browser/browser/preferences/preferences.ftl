@@ -1133,6 +1133,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Mbojuehe
+account-group-label2 =
+    .label = Mba’ete
 account-group-label =
     .label = { -vendor-short-name } mba’ete
 account-placeholder =

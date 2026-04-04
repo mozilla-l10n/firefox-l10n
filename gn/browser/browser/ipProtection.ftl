@@ -123,6 +123,12 @@ ipprotection-bandwidth-upgrade-text = Eiporavo peteĩ VPN rendaite ha emo’ã o
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Og̃uahẽmahína ne VPN hu’ãme.</strong> Reguereko { $usageLeft } GB hembýva. Mba’ekuaarãita oĩporãjeýta jasy pyahu og̃uahẽtavape.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Haimetéma opa pe VPN mba’ekuaarã.</strong>Opyta { $usageLeft } GB. Ojeiporupa vove, pe VPN opytáta umi mba’ekuaarã hekopyta peve og̃uahẽvo peteĩha ára jasy oútavape.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Haimetéma opa pe VPN mba’ekuaarã.</strong>Opyta { $usageLeft } GB. Ojeiporupa vove, pe VPN opytáta umi mba’ekuaarã hekopyta peve og̃uahẽvo peteĩha ára jasy oútavape.
 
 ## IP Protection Settings
 
