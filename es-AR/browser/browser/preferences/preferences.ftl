@@ -1134,11 +1134,16 @@ sync-group-label =
     .label = Sync
 account-group-label2 =
     .label = Cuenta
+account-placeholder2 =
+    .label = No se ha iniciado sesión
+    .description = Inicie sesión y mantenga sus datos privados, cifrados y accesibles al instante en cualquier parte que use { -brand-short-name }.
 account-group-label =
     .label = Cuenta de { -vendor-short-name }
 account-placeholder =
     .label = No ha iniciado sesión
     .description = Inicie sesión para mantener los datos privados, cifrados y sincronizados entre dispositivos.
+account-sync-section =
+    .heading = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1261,6 +1266,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Se están sincronizando estos ítems en todos sus dispositivos conectados:
 sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state2 =
+    .label = Administrar datos sincronizados
+    .description = No se está sincronizando nada… aún. Empiece a sincronizar para tener todos sus datos en todos sus dispositivos.
 sync-syncing-across-devices-empty-state =
     .label = No se está sincronizando nada… todavía.
     .description = Empiece a sincronizar para tener todos los datos en todos los dispositivos.
@@ -1280,6 +1288,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Administrar datos sincronizados
     .accesskey = m
+settings-sync-disconnect-button =
+    .label = Desconectar
 sync-change-options =
     .label = Cambiar…
     .accesskey = C
@@ -2076,6 +2086,9 @@ collection-health-report-telemetry-disabled = Ya no permite que { -vendor-short-
 collection-health-report-telemetry-disabled-link = Conocer más
 backup-multi-profile-warning-message =
     .message = Para asegurar que este cambio se incluya en las copias de seguridad, abra cada perfil y elija “Respaldar ahora” en Configuración.
+nimbus-rollouts =
+    .label = Permitir que { -brand-short-name } mejore funciones, rendimiento y estabilidad entre actualizaciones
+    .description = Los cambios se aplicarán de forma remota.
 addon-recommendations3 =
     .label = Permitir recomendaciones de extensiones personalizadas
     .description = Consiga recomendaciones de extensiones para mejorar la experiencia de navegación.
