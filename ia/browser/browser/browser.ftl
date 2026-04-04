@@ -412,6 +412,7 @@ quickactions-inspector2 = Aperir utensiles de disveloppator
 quickactions-cmd-inspector2 = inspector, devtools, utensiles pro disveloppatores
 # Opens Firefox Library
 quickactions-cmd-library = bibliotheca
+quickactions-library = Aperir bibliotheca
 quickactions-cmd-inspector = analyse pagina, utensiles de disveloppatores
 # Opens about:logins
 quickactions-logins2 = Gerer contrasignos

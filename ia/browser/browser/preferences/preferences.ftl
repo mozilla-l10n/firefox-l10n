@@ -1136,11 +1136,16 @@ sync-group-label =
     .label = Sync
 account-group-label2 =
     .label = Conto
+account-placeholder2 =
+    .label = Tu non es connexe
+    .description = Accede e mantene tu datos private, cryptate, e instantaneemente accessibile ubique tu usa { -brand-short-name }.
 account-group-label =
     .label = Conto { -vendor-short-name }
 account-placeholder =
     .label = Tu non es connectite
     .description = Accede pro tener tu datos private, cryptate, e synchronisate inter apparatos.
+account-sync-section =
+    .heading = Conto e synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1263,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Tu synchronisa iste elementos inter tote tu apparatos connexe:
 sync-syncing-across-devices-heading-2 = Datos synchronisate a transverso apparatos
+sync-syncing-across-devices-empty-state2 =
+    .label = Gerer le datos synchronisate
+    .description = Tu non synchronisa alco… ancora. Initia synchronisar pro tener tote tu datos sur tote tu apparatos.
 sync-syncing-across-devices-empty-state =
     .label = Tu non synchronisa alco… ancora.
     .description = Initia synchronisar pro tener tote tu datos sur tote tu apparatos.
