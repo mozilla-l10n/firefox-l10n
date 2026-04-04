@@ -516,6 +516,12 @@ newtab-weather-opt-in-yes =
     .label = 好的
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 纽约市
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = 最高
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = 最低
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -690,6 +696,7 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = 新清单
 newtab-widget-section-title = 小组件
+newtab-widget-menu-hide = 隐藏小组件
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = 隐藏小组件
