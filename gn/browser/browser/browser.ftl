@@ -410,6 +410,9 @@ quickactions-cmd-help = pytyvõ, pytyvõha
 # Opens the devtools web inspector
 quickactions-inspector2 = Embojuruja tembiporu mboguatahárape g̃uarã
 quickactions-cmd-inspector2 = hechahára, devtools, tembiporu mboguatahárape g̃uarã
+# Opens Firefox Library
+quickactions-cmd-library = Arandukaty
+quickactions-library = Embojuruja Arandukaty
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembiporu
 # Opens about:logins
 quickactions-logins2 = Eñangareko ñe’ẽñemíre

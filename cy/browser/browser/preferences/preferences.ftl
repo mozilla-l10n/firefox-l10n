@@ -1150,6 +1150,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label2 =
+    .label = Cyfrif
 account-group-label =
     .label = Cyfrif { -vendor-short-name }
 account-placeholder =

@@ -46,7 +46,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 # Byte
 perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } B
 # Kibibyte
-perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } B
+perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } KiB
 # Mebibyte
 perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } MiB
 # Gibibyte

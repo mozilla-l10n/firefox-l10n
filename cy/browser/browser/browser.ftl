@@ -410,6 +410,9 @@ quickactions-cmd-help = cymorth, cefnogaeth
 # Opens the devtools web inspector
 quickactions-inspector2 = Agor Offer Datblygwyr
 quickactions-cmd-inspector2 = arolygydd, devtools, offer datblygwr
+# Opens Firefox Library
+quickactions-cmd-library = llyfrgell
+quickactions-library = Agor y Llyfrgell
 quickactions-cmd-inspector = arolygydd, devtools
 # Opens about:logins
 quickactions-logins2 = Rheoli cyfrineiriau
