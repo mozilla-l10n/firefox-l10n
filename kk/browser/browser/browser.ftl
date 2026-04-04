@@ -410,6 +410,8 @@ quickactions-cmd-help = көмек, қолдау
 # Opens the devtools web inspector
 quickactions-inspector2 = Әзірлеуші құралдарын ашу
 quickactions-cmd-inspector2 = inspector, devtools, dev tools, бақылаушы, әзірлеуші құралдары
+# Opens Firefox Library
+quickactions-cmd-library = кітапхана
 quickactions-cmd-inspector = бақылаушы, әзірлеуші құралдары
 # Opens about:logins
 quickactions-logins2 = Парольдерді басқару
