@@ -2445,6 +2445,8 @@ security-privacy-status-update-button-label =
     .label = Embohekopyahu { -brand-short-name }
 security-privacy-image-warning =
     .alt = Peteĩ ñemo’ãha orekóva kyndýi, ohechaukáva ojepyʼapyha umi jyhyjerã tekorosãrãve
+security-privacy-image-ok =
+    .alt = Peteĩ ñemo’ãha orekóva jehecharã ohechaukáva ndaiporiha apañuái tekorosãrã rehegua
 security-privacy-issue-card =
     .heading = Jesarekorã tekorosãrã
 issue-card-reset-button =
@@ -2455,6 +2457,12 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = Ypyguaite (ijypygua)
+    .description = Ñemo’ã mbarete ha jeroviaha omba’apóva hekopete ñanduti rogueita ndive.
+preferences-etp-level-strict =
+    .label = Mbaretépe
+    .description = Ñemo’ãita imbaretevéva ojokóva hetave tapykuehoha, hákatu omoapañuaikuaáva ñanduti rogue.
 preferences-etp-level-custom =
     .label = Mboava
     .description = Eiporu mba’e ñemo’ã emyandy téra emboguétava.
