@@ -1135,11 +1135,16 @@ sync-group-label =
     .label = Mbojuehe
 account-group-label2 =
     .label = Mba’ete
+account-placeholder2 =
+    .label = Avave ndojeikéi gueteri
+    .description = Eike ha eñongatu nde VPN mba’ekuaarã ñemi, ipapapypy ha ojeikekuaaha opaite reiporusehápe { -brand-short-name }.
 account-group-label =
     .label = { -vendor-short-name } mba’ete
 account-placeholder =
     .label = Ndereikéi gueteri
     .description = Eike ereko hag̃ua ne mba’ekuarã tekoñemíme, ipapapy ha ñembojuehépe ne mba’e’okaitápe.
+account-sync-section =
+    .heading = Mba’ete ha ñembojuehe
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1262,6 +1267,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Oñembojuehepa ko’ã kyta opavavete ne mba’e’oka omba’apóvape:
 sync-syncing-across-devices-heading-2 = Mba’ekuaarã mbojuehepyre mba’e’okaita pa’ũme
+sync-syncing-across-devices-empty-state2 =
+    .label = Eñangareko mba’ekuaarã mobjuehepyrére
+    .description = Na’írã embojuehe mba’eve. Eñepyrũ embojuehe ehupyty hag̃ua mba’ekuaarãita ne mba’e’okaitápe.
 sync-syncing-across-devices-empty-state =
     .label = Noñembojuehéi mba’eve… gueteri.
     .description = Embojuehe ereko hag̃ua mba’ekuarã opaite ne mba’e’okápe.
@@ -1281,6 +1289,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Eñangareko mba’ekuaarã mobjuehepyrére
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = Ñesẽte
 sync-change-options =
     .label = Moambue
     .accesskey = M
