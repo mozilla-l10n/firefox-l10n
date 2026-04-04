@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Agor Gwefan mewn Ffenestr Newydd
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Er mwyn amddiffyn eich diogelwch, ni fydd { $hostname } yn caniatáu i { -brand-short-name } ddangos y dudalen os yw gwefan arall wedi'i mewnblannu ynddi. I weld y dudalen hon, bydd angen i chi ei hagor mewn ffenestr newydd.
 fp-certerror-view-certificate-link = Gweld tystysgrif y wefan
+fp-certerror-return-to-previous-page-recommended-button-2 = Mynd Nôl (Argymell)
+    .accesskey = N
 fp-certerror-return-to-previous-page-recommended-button = Mynd Nôl (Argymell)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:

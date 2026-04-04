@@ -43,6 +43,10 @@ certificate-viewer-logid = ID Cofnod
 certificate-viewer-method = Dull
 certificate-viewer-modulus = Modwlws
 certificate-viewer-name = Enw
+certificate-viewer-surname = Cyfenw
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Enw
 certificate-viewer-not-after = Nid ar Ôl
 certificate-viewer-not-before = Nid Cyn
 certificate-viewer-organization = Corff
