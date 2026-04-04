@@ -2514,6 +2514,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-third-party-cookies =
+    .label = Kookie mbohapyháva ijurujááma
+    .description = Kookieita mbohapyháva ojeporu ojehapykueho hag̃ua heta ñanduti roguépe.
 security-privacy-issue-warning-popup-blocker =
     .label = Ovetã apysẽ jokoha oñembogue
     .description = Umi ovetã iñapysẽva imarãkuaa ha ikatúva ivai.
