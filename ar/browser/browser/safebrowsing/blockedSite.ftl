@@ -71,5 +71,6 @@ safeb-palm-notdeceptive =
 
 safeb-blocked-addon-page-error-desc-override = <strong>لمَ حُظر هذا الموقع؟</strong>
 safeb-blocked-addon-page-error-desc2-override = قد يكون الموقع <strong>{ $sitename }</strong> مرتبطًا بنشاط خادع وضار.
+safeb-blocked-addon-page-error-desc3-override = <strong>ما الذي يمكنك فعله حيال ذلك؟</strong>
 safeb-blocked-addon-page-error-desc4-override = لمنع حدوث ذلك مرة أخرى، يمكنك إزالة أو تعطيل <strong>{ $addonName }</strong> من صفحة about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>تعرّف على المزيد حول حماية الإضافات الضارة من { -brand-short-name }</a>.
