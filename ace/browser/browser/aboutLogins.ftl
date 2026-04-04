@@ -37,3 +37,8 @@ menu-menuitem-preferences =
        *[other] Geunalak
     }
 about-logins-menu-menuitem-help = Tulông
+
+## Login List
+
+login-list =
+    .aria-label = Teunamong saban ngon neulakèe seumeutot
