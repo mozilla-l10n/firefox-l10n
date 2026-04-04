@@ -113,13 +113,13 @@ turn-off-scheduled-backups-confirm-button = 关闭并删除备份
 restore-from-backup-header = 恢复数据
 # Variables:
 #   $date (string) - Date to be formatted based on locale
-restore-from-backup-support-link1 = 恢复的内容
+restore-from-backup-support-link1 = 了解恢复的内容
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = 此操作将使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 的备份替换 { -brand-short-name } 当前所有数据。
 restore-from-backup-support-link =
-    .message = 恢复的内容
+    .message = 了解恢复的内容
 restore-from-backup-no-backup-file-link = 找不到备份？
 restore-from-backup-filepicker-label = 备份文件
 restore-from-backup-filepicker-title = 选择备份文件：
