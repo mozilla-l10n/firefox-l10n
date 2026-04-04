@@ -316,6 +316,8 @@ newtab-custom-shortcuts-toggle =
     .description = ਸਾਈਟਾਂ ਤੁਸੀਂ ਸੰਭਾਲੀਆਂ ਜਾਂ ਖੋਲ੍ਹੀਆਂ
 newtab-custom-shortcuts-nova =
     .label = ਸ਼ਾਰਟਕੱਟ
+newtab-custom-row-description =
+    .description = ਕਤਾਰਾਂ ਦੀ ਗਿਣਤੀ
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -519,6 +521,12 @@ newtab-weather-opt-in-yes =
     .label = ਹਾਂ
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = ਅੰਮ੍ਰਿਤਸਰ
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = ਵੱਧ
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = ਘੱਟ
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -738,6 +746,12 @@ newtab-daily-briefing-card-timestamp = { $minutes } ਮਿੰਟ ਪਹਿਲਾ
 newtab-widget-message-title = ਸੂਚੀਆਂ ਅਤੇ ਵਿੱਚ ਮੌਜੂਦ ਟਾਈਮਰ ਨਾਲ ਫੋਕਸ ਰਹੋ
 # to-dos stands for "things to do".
 newtab-widget-message-copy = ਕਰਨ ਵਾਲੇ ਕੰਮਾਂ, ਫ਼ੋਕਸ ਵਾਲੇ ਸ਼ੈਸ਼ਨਾਂ ਤੋਂ ਲੈ ਕੇ ਛੋਟੀ ਬਰੇਕ ਲੈਣ ਲਈ ਫ਼ੌਰਨ ਯਾਦ ਕਰਵਾਉਣਾ — ਕੰਮ ਸਮੇਂ ਸਿਰ ਪੂਰੇ ਕਰੋ।
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ
+newtab-promo-card-body-addons = ਸਾਡੇ ਭੰਡਾਰ ਵਿੱਚੋਂ ਵਾਲਪੇਪਰ ਚੁਣੋ ਜਾਂ ਆਪਣਾ ਖੁਦ ਦਾ ਬਣਾਓ।
+newtab-promo-card-cta-addons = ਹੁਣੇ ਅਜ਼ਮਾਓ
 newtab-promo-card-title = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
 newtab-promo-card-body = ਸਾਡੇ ਸਪੌਂਸ ਵਧੀਆ ਵੈੱਬ ਬਣਾਉਣ ਦੇ ਸਾਡੇ ਟੀਚੇ ਵਿੱਚ ਸਹਿਯੋਗ ਕਰਦੇ ਹਨ।
 newtab-promo-card-cta = ਹੋਰ ਜਾਣੋ

@@ -306,6 +306,11 @@ tail-fox-spotlight-subtitle = ਖਿਝਾਉਣ ਵਾਲੇ ਇਸ਼ਤਿਹਾ
 tail-fox-spotlight-primary-button = ਮੇਰੇ ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
 tail-fox-spotlight-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-subtitle = ਸਿਰਫ਼ ਇੱਕੋ-ਇੱਕ ਪ੍ਰਮੁੱਖ ਬਰਾਊਜ਼ਰ ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ, ਜੋ ਕਿ ਗ਼ੈਰ-ਮੁਨਾਫਾ ਸੰਸਥਾ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਹੈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਆਪਣੇ ਖੇਤਰ ਤੋਂ ਬਾਹਰ ਹੁੰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂਂ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਵਾਧੂ ਯਤਨ ਕਰਦੇ ਹਾਂ।
+welcome-back-embedded-import-title = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ ਅਤੇ { -brand-short-name } ਨੂੰ ਆਪਣੀ ਸਹੂਲਤ ਮੁਤਾਬਕ ਬਣਾਓ
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>{ -brand-short-name } ਦੇ ਪੁਰਾਣੇ ਵਰਜ਼ਨਾਂ ਨੂੰ 14 ਜਨਵਰੀ 2024 ਤੋਂ ਸਮੱਸਿਆਵਾਂ ਆਉਣੀਆਂ ਸ਼ੁਰੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।</strong>
