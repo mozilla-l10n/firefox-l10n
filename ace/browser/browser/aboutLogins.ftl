@@ -42,3 +42,25 @@ about-logins-menu-menuitem-help = Tulông
 
 login-list =
     .aria-label = Teunamong saban ngon neulakèe seumeutot
+# Variables
+#   $count (number) - Number of logins
+login-list-count =
+    { $count ->
+        [one] { $count } teunamong
+       *[other] { $count } teunamong
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } nibak { $total } teunamong
+       *[other] { $count } nibak { $total } teunamong
+    }
+# Variables
+#   $count (number) - Number of logins
+login-list-count2 =
+    { $count ->
+        [one] { $count } lageuem tamong
+       *[other] { $count } lageuem tamong
+    }
