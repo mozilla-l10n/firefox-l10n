@@ -410,6 +410,9 @@ quickactions-cmd-help = 說明, 支援, 幫助, 協助, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 開啟開發者工具
 quickactions-cmd-inspector2 = 檢測器, 開發者工具, inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = 收藏庫
+quickactions-library = 開啟收藏庫
 quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 管理密碼

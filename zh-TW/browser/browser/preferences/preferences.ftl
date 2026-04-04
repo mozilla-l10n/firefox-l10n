@@ -1122,11 +1122,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = 同步
+account-group-label2 =
+    .label = 帳號
+account-placeholder2 =
+    .label = 您尚未登入
+    .description = 登入後即可將您的資料用有隱私、加密的方式即時同步到您所有裝置上的 { -brand-short-name }。
 account-group-label =
     .label = { -vendor-short-name } 帳號
 account-placeholder =
     .label = 您尚未登入
     .description = 登入後即可透過有隱私、加密過的方式，將您的資料同步道不同裝置上。
+account-sync-section =
+    .heading = 帳號與同步
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1249,6 +1256,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = 您連線的裝置會同步下列項目：
 sync-syncing-across-devices-heading-2 = 在不同裝置間同步的資料
+sync-syncing-across-devices-empty-state2 =
+    .label = 管理要同步的資料
+    .description = 您目前沒有同步任何資料。開始同步即可將所有資料同步到您的所有裝置上。
 sync-syncing-across-devices-empty-state =
     .label = 您還沒有同步任何東西。
     .description = 開始同步，就可以將所有資料同步到您所有裝置中。
@@ -1268,6 +1278,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = 管理要同步的資料
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = 取消連線
 sync-change-options =
     .label = 修改…
     .accesskey = C
