@@ -1060,6 +1060,11 @@ suggestions-addressbar-settings-generic2 = Cambiar los ajustes para otras sugere
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque has configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header2 = Atajos de búsqueda
 search-one-click-desc = Elegir los motores de búsqueda alternativos que aparecen debajo de la barra de direcciones y en la barra de búsqueda cuando comienzas a escribir una palabra.
+search-one-click-header-3 =
+    .label = Motores de búsqueda adicionales
+    .description = Elige qué motores de búsqueda y atajos aparecen en tu barra de direcciones.
+update-search-engine-success =
+    .message = El motor de búsqueda se actualizó correctamente
 search-edit-engine-2 =
     .title = Editar motor de búsqueda
 search-delete-engine =
@@ -1129,8 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizar
+account-group-label2 =
+    .label = Cuenta
+account-placeholder2 =
+    .label = No has iniciado sesión
+    .description = Inicia sesión y mantén tus datos privados, cifrados y siempre disponibles dondequiera que uses { -brand-short-name }.
 account-group-label =
     .label = Cuenta de { -vendor-short-name }
+account-placeholder =
+    .label = No has iniciado sesión
+    .description = Inicia sesión para mantener tus datos privados, cifrados y sincronizados entre dispositivos.
+account-sync-section =
+    .heading = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1184,6 +1199,9 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
+sync-signedin-unverified2 =
+    .label = { $email } aún no se ha confirmado
+    .description = Revisa tu bandeja de entrada para confirmar tu cuenta y hacerla oficial.
 sync-signedin-login-failure = Inicia sesión para reconectar { $email } Favor de iniciar la sesión para reconectar
 sync-signedin-login-failure2 =
     .label = Has cerrado sesión en { $email }
@@ -1220,6 +1238,9 @@ prefs-syncing-on = Sincronización: ACTIVADA
 prefs-syncing-on-2 =
     .label = Sincronización ACTIVADA
 prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-syncing-off-2 =
+    .label = La sincronización está DESACTIVADA
+    .description = Activa la sincronización para tener tus marcadores, contraseñas, historial y más en cualquier dispositivo.
 prefs-sync-turn-on-syncing =
     .label = Activar sincronización...
     .accesskey = s
@@ -1246,6 +1267,13 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Estás sincronizando estos elementos en todos tus dispositivos conectados:
+sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state2 =
+    .label = Administra datos sincronizados
+    .description = Aún no estás sincronizando nada… por ahora. Comienza a sincronizar para tener todos tus datos en todos tus dispositivos.
+sync-syncing-across-devices-empty-state =
+    .label = Aún no estás sincronizando nada… por ahora.
+    .description = Comienza a sincronizar para tener todos tus datos en todos tus dispositivos.
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Abrir pestañas
@@ -1262,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Administrar datos sincronizados
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = Desconectar
 sync-change-options =
     .label = Cambiar
     .accesskey = C
@@ -1879,6 +1909,7 @@ content-blocking-convenience-exceptions-3 =
     .label = Solucionar problemas menores del sitio
     .description = Restaura elementos como vídeos en un artículo o secciones de comentarios desbloqueando elementos que puedan contener rastreadores. Esto puede reducir los problemas del sitio, pero ofrece menos protección. Debe usarse junto con correcciones para problemas graves.
 content-blocking-baseline-uncheck-warning-dialog-title = ¿Estás seguro de que deseas desactivar las correcciones?
+content-blocking-baseline-uncheck-warning-dialog-body = Este ajuste ayuda a corregir los problemas más comunes de los sitios. Si lo desactivas, es posible que algunos sitios no funcionen y { -brand-short-name } no podrá ayudarte a solucionar esos problemas.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desactivar correcciones
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Mantener las correcciones activadas
 content-blocking-reload-description = Tendrás que volver a cargar tus pestañas para aplicar estos cambios.
