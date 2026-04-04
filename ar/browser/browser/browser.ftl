@@ -410,6 +410,9 @@ quickactions-cmd-help = المساعدة والدعم
 # Opens the devtools web inspector
 quickactions-inspector2 = افتح أدوات المطورين
 quickactions-cmd-inspector2 = المفتش, أدوات التطوير, أدوات التطوير, inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = المكتبة
+quickactions-library = افتح المكتبة
 quickactions-cmd-inspector = الفاحص، أدوات تطوير
 # Opens about:logins
 quickactions-logins2 = أدِر كلمات السر
@@ -951,6 +954,10 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = لم تحدد اختصار، اختر اختصارًا
     .tooltiptext = لم تحدد اختصار، اختر اختصارًا
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword =
+    .label = عُطّل البحث بالكلمات المفتاحية
+    .tooltiptext = عُطّل البحث بالكلمات المفتاحية
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1154,6 +1161,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = كلمات السر
     .tooltiptext = اعرض و أدِر كلماتي السرية المحفوظة
+qrcode-panel-error =
+    .message = فشل توليد رمز QR. يُرجى المحاولة مجددًا.
 qrcode-copy-button =
     .label = انسخ
 qrcode-copy-success =
