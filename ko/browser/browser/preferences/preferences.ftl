@@ -1118,11 +1118,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label2 =
+    .label = 계정
+account-placeholder2 =
+    .label = 로그인되어 있지 않음
+    .description = 로그인하여 { -brand-short-name }를 사용하는 모든 곳에서 데이터를 안전하게 보호하고, 암호화하며, 언제 어디서나 즉시 사용할 수 있도록 하세요.
 account-group-label =
     .label = { -vendor-short-name } 계정
 account-placeholder =
     .label = 로그인되어 있지 않음
     .description = 데이터를 비공개로 유지하고, 암호화하고, 여러 기기에서 동기화하려면 로그인하세요.
+account-sync-section =
+    .heading = 계정 및 동기화
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1245,6 +1252,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = 연결된 모든 기기에서 다음 항목을 동기화하고 있습니다:
 sync-syncing-across-devices-heading-2 = 여러 기기에서 데이터 동기화됨
+sync-syncing-across-devices-empty-state2 =
+    .label = 동기화된 데이터 관리
+    .description = 아직 아무것도 동기화하고 있지 않습니다. 지금 동기화를 시작하여 모든 기기에서 데이터를 확인해 보세요.
 sync-syncing-across-devices-empty-state =
     .label = 아직 아무것도 동기화하고 있지 않습니다.
     .description = 모든 기기에서 모든 데이터를 가져오려면 동기화를 시작하세요.
@@ -1264,6 +1274,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = 동기화된 데이터 관리
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = 연결 끊기
 sync-change-options =
     .label = 변경…
     .accesskey = C
