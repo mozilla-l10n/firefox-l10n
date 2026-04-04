@@ -2286,6 +2286,8 @@ preferences-doh-status-item-not-active-bad-url =
     .message = 由于收到无效网址（{ $reason }），基于 HTTPS 的 DNS 未运作
 preferences-doh-select-resolver-label =
     .label = 选择提供方：
+preferences-doh-custom-provider-label =
+    .aria-label = 输入自定义提供方的网址
 preferences-doh-header2 =
     .heading = 基于 HTTPS 的 DNS
 
