@@ -1622,6 +1622,9 @@ history-remember-label = { -brand-short-name }
     .accesskey = w
 history-remember-option-all =
     .label = Recuerde el historial
+history-remember-option-never2 =
+    .label = No recordar nunca el historial
+    .description = Cada ventana funciona como una ventana privada. Al activar esta opción, deberás autorizar el uso de extensiones.
 history-remember-option-custom2 =
     .label = Personalizar el historial
 history-remember-option-never =
@@ -1662,6 +1665,11 @@ history-header2 =
 history-section-header =
     .label = Historial
     .description = Elige lo que quieres que { -brand-short-name } recuerde cuando cierres el navegador.
+history-custom-section-header =
+    .label = Ajustes avanzados
+    .description = Personaliza lo que quieres que { -brand-short-name } recuerde al cerrar el navegador.
+history-custom-button =
+    .label = Elige qué quieres que { -brand-short-name } recuerde
 history-group =
     .label = Historial
 history-remember-option-all2 =
@@ -1674,13 +1682,23 @@ sitedata-total-size-calculating = Calculando tamaño de los datos del sitio y el
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Los sitios web están usando actualmente <strong>{ $value } { $unit }</strong> de espacio en disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tus cookies, datos del sitio y caché almacenados ocupan actualmente un { $value } { $unit } del espacio en disco.
 sitedata-learn-more = Aprender más
+sitedata-delete-on-close2 =
+    .label = Borrar las cookies y los datos de los sitios cada vez que cierres { -brand-short-name }
+    .accesskey = c
 sitedata-delete-on-close =
     .label = Eliminar cookies y datos del sitio cuando se cierra { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Según la configuración de su historial, { -brand-short-name } elimina las cookies y los datos del sitio de su sesión cuando cierra el navegador.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = No se guardará el historial
+    .message = { -brand-short-name } borra las cookies y los datos de los sitios de tu sesión al cerrar el navegador.
 sitedata-delete-on-close-private-browsing = En el modo de navegación privada permanente, las cookies y los datos del sitio se borrarán siempre cuando se cierre { -brand-short-name }.
 sitedata-delete-on-close-private-browsing2 = Según la configuración de tu historial, { -brand-short-name } elimina las cookies y los datos del sitio de tu sesión cuando cierras el navegador.
 sitedata-allow-cookies-option =
@@ -2000,6 +2018,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Administrar excepciones
+    .description = Agrega sitios web que puedan abrir ventanas emergentes y usar redireccionamientos de terceros.
+    .accesskey = E
+    .searchkeywords = ventanas emergentes
 permissions-addon-install-warning3 =
     .label = Mostrar advertencia cuando los sitios web intentan instalar extensiones
     .accesskey = W
