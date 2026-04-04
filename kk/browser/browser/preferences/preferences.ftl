@@ -1134,6 +1134,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Синхрондау
+account-group-label2 =
+    .label = Тіркелгі
 account-group-label =
     .label = { -vendor-short-name } тіркелгісі
 account-placeholder =
