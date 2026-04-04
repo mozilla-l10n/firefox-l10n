@@ -318,6 +318,8 @@ newtab-custom-shortcuts-toggle =
     .description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
 newtab-custom-shortcuts-nova =
     .label = Llwybrau Byr
+newtab-custom-row-description =
+    .description = Y nifer o resi
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -529,6 +531,12 @@ newtab-weather-opt-in-yes =
     .label = Iawn
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Dinas Efrog Newydd
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Uchel
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Isel
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =

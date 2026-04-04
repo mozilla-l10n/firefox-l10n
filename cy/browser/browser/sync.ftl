@@ -34,6 +34,20 @@ fxa-menu-send-to-device =
         }
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Anfon i'r symudol
+            [zero] Anfon { $tabCount } tabiau i'r symudol
+            [one] Anfon { $tabCount } tab i'r symudol
+            [two] Anfon { $tabCount } dab i'r symudol
+            [few] Anfon { $tabCount } tab i'r symudol
+            [many] Anfon { $tabCount } thab i'r symudol
+           *[other] Anfon { $tabCount } tab i'r symudol
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->

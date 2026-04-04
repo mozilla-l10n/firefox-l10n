@@ -183,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Tabiau o ddyfeisiau eraill
 sidebar-menu-cpm-header =
     .heading = Cyfrineiriau
+sidebar-menu-bookmarks-header =
+    .heading = Nodau Tudalen
 sidebar-panel-header-close-button =
     .tooltiptext = Cau
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Dewislen Nodau Tudalen
+sidebar-bookmarks-folder-toolbar = Bar Offer Nodau Tudalen
+sidebar-bookmarks-folder-other = Nodau Tudalen Eraill
+sidebar-bookmarks-folder-mobile = Nodau Tudalen Symudol
 
 ## Titles for sidebar menu panels.
 
