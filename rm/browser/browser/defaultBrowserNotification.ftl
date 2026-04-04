@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     Pass 2: Tscherner «Definir sco standard» per { -brand-short-name }
 default-browser-guidance-notification-info-page = Ma mussar
 default-browser-guidance-notification-dismiss = Finì
+default-browser-guidance-notification-v2-title = Finir da definir { -brand-short-name } sco navigatur da standard
+default-browser-guidance-notification-v2-body = En ils parameters, tscherner «Als Standard festlegen» per { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = Cumplettescha la configuraziun da { -brand-short-name } sco tes navigatur da standard en ils parameters

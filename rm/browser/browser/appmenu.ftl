@@ -295,6 +295,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Zuppenta tia adressa dad e-mail e tes numer da telefon
 appmenuitem-services-relay-description = Avrir la survista dals alias dad e-mail
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Protecziun per l’entir apparat
 appmenuitem-vpn-description = Protegia tias activitads online
 appmenu-services-header = Mes servetschs
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

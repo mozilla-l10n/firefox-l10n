@@ -19,6 +19,9 @@ backup-folder-name = Restaurar { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backups da { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Copia da segirezza
+    .description = Protegia automaticamain tes segnapaginas, tia cronologia ed autras datas.
 settings-data-backup-header = Backup
 settings-data-backup-toggle = Administrar backups
 settings-data-backup-toggle-on2 =
@@ -35,15 +38,31 @@ settings-data-backup-scheduled-backups-on = Backup: ACTIVÀ
 settings-data-backup-scheduled-backups-off = Backup: DEACTIVÀ
 settings-data-backup-scheduled-backups-description = Protegia automaticamain tes segnapaginas, la cronologia ed autras datas. <a data-l10n-name="support-link">Ulteriuras infurmaziuns</a>
 settings-data-backup-last-backup-date = Ultim backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Backup è ACTIVÀ
+settings-data-backup-scheduled-backups-off2 =
+    .label = Backup è DEACTIVÀ
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Posiziun da la copia da segirezza
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Lieu
 settings-data-backup-last-backup-location-show-in-folder = Mussar en l’ordinatur
 settings-data-backup-last-backup-location-edit = Modifitgar…
 settings-data-create-backup-error = Igl ha dà in’errur cun crear tes backup ils { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Fa copias da segirezza da tes pleds-clav e da tias metodas da pajament. Segirescha ultra da quai tut tias datas cun agida dal criptadi.
+settings-data-toggle-encryption-label2 =
+    .label = Fa copias da segirezza da tias datas sensiblas
+    .description = Fa copias da segirezza da tes pleds-clav e da tias metodas da pajament e protegia tias datas cun criptadi.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Num da datoteca: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Restaurar tias datas
+    .description = Restaurescha tias datas da { -brand-product-name } dal mument cura che ti has fatg l’ultima giada ina copia da segirezza.
+settings-data-backup-restore-scheduled-off =
+    .label = Restaurar tias datas
+    .description = Utilisescha ina copia da segirezza da { -brand-product-name } d’in auter apparat per restaurar tias datas.
 settings-data-backup-restore-header = Restaurar tias datas
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -55,8 +74,12 @@ settings-data-backup-scheduled-backups-off-restore-choose = Tscherner ina datote
 
 settings-data-backup-scheduled-backups-on-restore-description = Restaurescha tias datas da { -brand-product-name } da l’ultima copia da segirezza.
 settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
+settings-sensitive-data =
+    .label = Datas sensiblas
 settings-data-toggle-encryption-label = Fa copias da segirezza da tias datas sensiblas
 settings-data-toggle-encryption-support-link = Ulteriuras infurmaziuns
+settings-data-change-password2 =
+    .label = Midar il pled-clav
 settings-data-change-password = Midar il pled-clav…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
@@ -99,6 +122,9 @@ turn-off-scheduled-backups-confirm-button = Deactivar e stizzar ils backups
 restore-from-backup-header = Restaurar tias datas
 # Variables:
 #   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = Tge vegn a vegnir restaurà?
+# Variables:
+#   $date (string) - Date to be formatted based on locale
 restore-from-backup-description-with-metadata =
     .message = Quai remplazza tut tias datas actualas da { -brand-short-name } cun tes backup dals { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
 restore-from-backup-support-link =
@@ -116,6 +142,13 @@ restore-from-backup-password-description = Quai deblochescha tes backup criptà.
 restore-from-backup-cancel-button = Interrumper
 restore-from-backup-confirm-button = Restaurar e reaviar
 restore-from-backup-restoring-button = Restaurar…
+restore-from-backup-type-group-label =
+    .label = Remplazzar il profil actual?
+restore-from-backup-type-replace =
+    .label = Remplazzar tut las datas cun questa copia da segirezza
+restore-from-backup-type-add =
+    .label = Preservar las datas e crear in nov profil
+restore-from-backup-profiles-disabled-message = Quai vegn a remplazzar tut tias datas actualas da { -brand-short-name } cun tia copia da segirezza.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -241,6 +274,15 @@ other-backup-files-founds =
         [one] <b>Remartga:</b> chattà { $numberOfOtherBackupsFound } autra datoteca da backup
        *[other] <b>Remartga:</b> chattà { $numberOfOtherBackupsFound } autras datotecas da backup
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creà ils { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sin { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Restaurà da { $deviceName } ils { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a las { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

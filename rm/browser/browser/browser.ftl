@@ -538,6 +538,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Ti n'es betg collià a moda segira cun questa website.
 identity-connection-verified = Ti es collià a moda segira cun questa website.
 identity-ev-owner-label = Certificat emess per:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Qualifitgà confurm a l’ordinaziun (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla na renconuscha betg l'emettur da quest certificat. Eventualmain è el vegnì agiuntà da tes sistem operativ u dad in administratur.
 identity-remove-cert-exception =
     .label = Allontanar l'excepziun
@@ -571,6 +573,9 @@ browser-window-restore-down-button =
     .tooltiptext = Restaurar
 browser-window-close-button =
     .tooltiptext = Serrar
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Returnar
 
 ## Tab actions
 
@@ -728,6 +733,7 @@ urlbar-result-action-search-in-private = Tschertgar en ina fanestra privata
 urlbar-result-action-search-w-engine = Tschertgar cun { $engine }
 urlbar-result-action-sponsored = Sponsurisà
 urlbar-result-action-switch-tab = Midar al tab
+urlbar-result-action-move-tab-to-split-view = Spustar il tab en la vista dividida
 urlbar-result-action-visit = Visitar
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
@@ -767,6 +773,14 @@ urlbar-result-action-copy-to-clipboard = Copiar
 urlbar-result-action-calculator-result = = { $result }
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = nundefinì
+# The sub title of an add-on suggestion in the urlbar.
+urlbar-result-addons-subtitle = Extensiun da { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = Recumandà
 # Shows the result of a formula expression being calculated, in scientific notation.
 # The last = sign will be shown as part of the result (e.g. "= 1.0e17").
 # Variables
@@ -824,6 +838,8 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = Dumandar
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -926,6 +942,10 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Per questa giada, tschertgar cun:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Tschertgar cun:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Per questa giada, tschertgar cun:
@@ -1149,6 +1169,29 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Pleds-clav
     .tooltiptext = Consultar ed administrar tes pleds-clav memorisads
+qrcode-panel-error =
+    .message = I n’è betg reussì da generar in code QR. Emprova per plaschair anc ina giada.
+qrcode-copy-button =
+    .label = Copiar
+qrcode-copy-success =
+    .message = Copià il code QR en l’archiv provisoric.
+qrcode-copy-error =
+    .message = Betg reussì da copiar il code QR.
+qrcode-save-button =
+    .label = Memorisar
+qrcode-save-success =
+    .message = Memorisà il code QR.
+qrcode-save-error =
+    .message = Betg reussì da memorisar il code QR.
+qrcode-save-title = Memorisar il code QR
+qrcode-save-filter-png = Maletg PNG
+qrcode-save-filename = codeqr.png
+qrcode-window-title = Code QR
+qrcode-dialog-title = Code QR
+qrcode-image =
+    .aria-label = Code QR
+qrcode-close-button =
+    .aria-label = Serrar
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1167,6 +1210,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nova fanestra privata
     .tooltiptext = Avrir ina nova fanestra en il modus privat ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Parter
+    .tooltiptext = Parter questa pagina
 
 ## EME notification panel
 
@@ -1186,6 +1232,15 @@ panel-save-update-password = Pled-clav
 # "More" item in macOS share menu
 menu-share-more =
     .label = Dapli…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copiar la colliaziun
+           *[other] Copiar las { $count } colliaziuns
+        }
+    .accesskey = c
 menu-share-copy-link =
     .label = Copiar la colliaziun
     .accesskey = l
