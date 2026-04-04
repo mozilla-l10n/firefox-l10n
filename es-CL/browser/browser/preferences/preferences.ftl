@@ -1134,11 +1134,15 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronización
+account-group-label2 =
+    .label = Cuenta
 account-group-label =
     .label = Cuenta de { -vendor-short-name }
 account-placeholder =
     .label = No estás conectado
     .description = Conéctate para mantener tus datos privados, cifrados y sincronizados entre dispositivos.
+account-sync-section =
+    .heading = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1280,6 +1284,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Administrar datos sincronizados
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = Desconectar
 sync-change-options =
     .label = Cambiar…
     .accesskey = C
