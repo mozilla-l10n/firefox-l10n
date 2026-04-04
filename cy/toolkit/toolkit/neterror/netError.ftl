@@ -25,6 +25,8 @@ neterror-override-exception-button = Derbyn y Perygl a Pharhau
 neterror-pref-reset-button = Adfer y gosodiadau rhagosodedig
 neterror-return-to-previous-page-button = Mynd Nôl
 neterror-return-to-previous-page-recommended-button = Ewch Nôl (Argymell)
+neterror-try-again-button-2 = Ceisio eto
+    .accesskey = C
 neterror-try-again-button = Ceisiwch eto
 neterror-add-exception-button = Parhau bob tro ar gyfer y wefan hon
 neterror-settings-button = Newid gosodiadau DNS
@@ -92,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = Nid oedd modd i { -brand
 
 neterror-file-not-found-filename = Gwiriwch yr enw ffeil am brif lythrennu neu wallau teipio eraill.
 neterror-file-not-found-moved = Gwiriwch i weld os yw'r ffeil wedi symud, ailenwi neu ei dileu.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = Dyw { -brand-short-name } ddim yn gallu dod o hyd i'r ffeil yn <strong>{ $path }</strong>. Naill ai dyw e ddim yn bodoli neu mae'r llwybr yn anghywir.
+neterror-file-not-found-what-can-you-do = Os ydych chi  wedi teipio'r cyfeiriad â llaw, gwiriwch am gamgymeriadau priflythrennu  neu gamgymeriadau teipio yn enw'r ffeil neu'r llwybr. Os ydych wedi dilyn nod tudalen neu ddolen wedi'u cadw, mae'n bosibl bod y ffeil wedi'i symud, ei hailenwi neu ei dileu ers iddi gael ei chadw. Ceisiwch ddod o hyd iddo gan ddefnyddio'ch rheolwr ffeiliau neu chwilio diweddar.
 neterror-access-denied = Gall ei fod wedi ei dynnu, symud neu fod caniatâd ffeiliau yn rhwystro mynediad.
 neterror-unknown-protocol = Efallai bydd angen i chi osod meddalwedd arall i agor y cyfeiriad yma.
 neterror-redirect-loop = Gall y broblem yma fod wedi ei hachosi drwy analluogi neu wrthod cwci.
@@ -176,15 +182,23 @@ neterror-response-status-code = Cod gwall: { $responsestatus } { $responsestatus
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Mae'n ymddangos bod problem gyda'ch cysylltiad rhyngrwyd
+fp-neterror-illustration-alt =
+    .alt = Darlun o lwynog yn edrych ar geblau rhwydwaith sydd wedi'u datgysylltu.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = Dyw { -brand-short-name } ddim yn gallu creu cysylltiad diogel i'r gweinydd yn { $hostname } .
 fp-neterror-offline-intro = Does dim modd i { -brand-short-name } gysylltu â'r gweinydd yn <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Mae'r gweinydd yn <strong>{ $hostname }</strong> yn cymryd gormod o amser i ymateb.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = Anfonodd <strong>{ $hostname }</strong> wall yn ôl.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Anfonodd y gweinydd yn <strong>{ $hostname }</strong> wall yn ôl: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = Nid yw { -brand-short-name } wedi llwytho'r dudalen hon oherwydd mae'n edrych yn debyg nad yw'r ffurfweddiad diogelwch yn cyfateb i'r dudalen flaenorol.
 fp-neterror-http-auth-disabled-intro = Gallai rhywun sy'n cymryd arno fod ar y wefan geisio dwyn pethau fel eich enw defnyddiwr, cyfrinair neu e-bost.
 fp-neterror-http-auth-disabled-secure-connection = Mae angen cysylltiad diogel ar y wefan hon, a does dim modd i chi ychwanegu eithriad i ymweld â hi.

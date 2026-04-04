@@ -211,6 +211,8 @@ certerror-mitm-title = Mae Meddalwedd yn Rhwystro { -brand-short-name } Rhag Cys
 
 fp-certerror-page-title = Rhybudd: Risg Diogelwch
 fp-certerror-body-title = Byddwch yn ofalus. Mae rhywbeth i weld yn anghywir.
+fp-certerror-illustration-alt =
+    .alt = Darlun o lwynog yn edrych ar arwydd rhybudd oren.
 fp-certerror-why-site-dangerous = Beth sy'n gwneud i'r wefan edrych yn beryglus?
 fp-certerror-what-can-you-do = Beth allwch chi wneud am hyn?
 fp-certerror-advanced-title = Uwch
@@ -224,3 +226,5 @@ fp-certerror-override-exception-button = Ewch ymlaen i { $hostname } ( Peryglus 
 fp-certerror-intro = Mae { -brand-short-name } wedi sylwi ar fater diogelwch a allai fod yn ddifrifol gyda <strong>{ $hostname }</strong>. Gall rhywun sy'n smalio fod y wefan geisio dwyn pethau fel manylion cerdyn credyd, cyfrineiriau neu e-byst.
 fp-certerror-expired-into = Mae { -brand-short-name } wedi sylwi ar broblem diogelwch gyda <strong>{ $hostname }</strong>. Naill ai nid yw'r wefan wedi'i gosod yn iawn neu mae cloc eich dyfais wedi'i osod i'r dyddiad/amser anghywir.
 fp-certerror-transparency-intro = Gallai rhywun sy'n smalio bod yn <strong>{ $hostname }</strong> geisio dwyn pethau fel manylion cerdyn credyd, cyfrineiriau neu e-byst.
+fp-certerror-override-exception-button-2 = Mynd ymlaen i { $hostname } ( Peryglus )
+    .accesskey = M

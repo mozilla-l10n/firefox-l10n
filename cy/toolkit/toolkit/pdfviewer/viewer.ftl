@@ -684,8 +684,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Golygon
 pdfjs-views-manager-view-selector-button-label = Golygon
 pdfjs-views-manager-pages-title = Tudalennau
+pdfjs-views-manager-outlines-title1 = Amlinelliad Dogfen
+    .title = Amlinelliad dogfen (clic dwbl i ehangu/leihau pob eitem)
 pdfjs-views-manager-outlines-title = Amlinelliad dogfen
 pdfjs-views-manager-attachments-title = Atodiadau
+pdfjs-views-manager-layers-title1 = Haenau
+    .title = Haenau clic dwbl i ailosod pob haen i'r cyflwr ragosodedig)
 pdfjs-views-manager-layers-title = Haenau
 pdfjs-views-manager-pages-option-label = Tudalennau
 pdfjs-views-manager-outlines-option-label = Amlinelliad dogfen
@@ -710,6 +714,7 @@ pdfjs-views-manager-pages-status-action-button-label = Rheoli
 pdfjs-views-manager-pages-status-copy-button-label = Copïo
 pdfjs-views-manager-pages-status-cut-button-label = Torri
 pdfjs-views-manager-pages-status-delete-button-label = Dileu
+pdfjs-views-manager-pages-status-export-selected-button-label = Wedi dewis allforio…
 pdfjs-views-manager-pages-status-save-as-button-label = Cadw fel…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -762,6 +767,9 @@ pdfjs-views-manager-paste-button-before =
 #   $page (Number) - the page number after which the paste button is.
 pdfjs-views-manager-paste-button-after =
     .title = Gludo ar ôl tudalen { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = NEWYDD
 pdfjs-toggle-views-manager-button1 =
     .title = Rheoli tudalennau
 
