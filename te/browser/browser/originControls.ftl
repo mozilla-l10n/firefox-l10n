@@ -27,7 +27,7 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-hover-run-visit-only = ఈ ఒక్కసారికి నడుపు
-origin-controls-state-runnable-hover-open = పొడింతను తెరువు
+origin-controls-state-runnable-hover-open = పొడగింతను తెరువు
 origin-controls-state-runnable-hover-run = పొడగింతను నడుపు
 
 ## Extension's toolbar button.

@@ -252,6 +252,12 @@ clear-search-history =
     .label = శోధించిన చరత్రను చెరిపివేయి
     .accesskey = H
 
+## Page Action Context Menu
+
+page-action-remove-extension2 =
+    .label = పొడగింతను తొలగించు
+    .accesskey = v
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -320,6 +326,7 @@ quickactions-cmd-addons2 = పొడగింతలు
 quickactions-cmd-bookmarks = ఇష్టాంశాలు
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = చరిత్రను తుడిచివేయి
+quickactions-cmd-clearhistory = చరిత్రను తుడిచివేయి
 # Opens about:downloads page
 quickactions-downloads2 = దింపుకోళ్ళను చూడండి
 quickactions-cmd-downloads = దింపుకోళ్ళు

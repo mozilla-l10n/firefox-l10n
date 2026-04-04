@@ -53,6 +53,9 @@ vertical-tabs-callout-2-cta-button = ఇప్పుడే ప్రయత్న
 
 sidebar-callout-survey-privacy-notice-link = గోప్యతా విధానం
 sidebar-callout-survey-dont-use-it = నేను దానిని వాడను
+sidebar-callout-survey-agree = అంగీకరిస్తాను
+sidebar-callout-survey-disagree = అంగీకరించను
+sidebar-callout-survey-strongly-disagree = అస్సలు అంగీకరించను
 sidebar-callout-survey-none-of-above = పైవేవీ కాదు
 sidebar-callout-survey-submit = సమర్పించు
 sidebar-callout-survey-thank-you = మీ ప్రతిస్పందనకు కృతజ్ఞతలు!

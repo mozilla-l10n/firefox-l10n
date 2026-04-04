@@ -95,6 +95,12 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = ఇటీవల మూసిన ట్యాబులలో వెతకండి
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = ట్యాబులలో వెతకండి
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-opentabs =
+    .placeholder = తెరిచివున్న ట్యాబులలో వెతుకు
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
@@ -102,6 +108,7 @@ firefoxview-search-results-count =
         [one] { $count } సైటు
        *[other] { $count } సైట్లు
     }
+firefoxview-sort-history-by-date-label = తేదీ వారీగా క్రమపర్చు
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -126,7 +133,12 @@ firefoxview-import-history-close-button =
     .aria-label = మూసివేయి
     .title = మూసివేయి
 
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = వేరే విహరిణి నుండి చరిత్రను దిగుమతి చేయి
+
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = మరొక పరికరాన్ని అనుసంధానించండి
 firefoxview-tabs =
     .title = ట్యాబులు
