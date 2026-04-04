@@ -2358,6 +2358,7 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } 正在防护
 security-privacy-status-ok-label = 增强型跟踪保护已开启
 security-privacy-status-problem-label = 我们发现有些设置会影响您的保护状态
 security-privacy-status-problem-helper-label = 查看问题
