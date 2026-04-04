@@ -319,7 +319,7 @@ newtab-custom-shortcuts-toggle =
 newtab-custom-shortcuts-nova =
     .label = Llwybrau Byr
 newtab-custom-row-description =
-    .description = Y nifer o resi
+    .description = Nifer y rhesi
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
