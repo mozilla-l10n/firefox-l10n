@@ -2526,3 +2526,6 @@ security-privacy-issue-warning-popup-blocker =
 security-privacy-issue-warning-extension-install =
     .label = Ñanduti rogueita omohendakuaa jepysokue
     .description = Ñanduti rogueita omohendakuaa jepysokue { -brand-short-name }-pe oporandu’ỹre.
+security-privacy-issue-warning-safe-browsing =
+    .label = Tetepy imarã ha nembotavykuaáva ndojejokói
+    .description = Eimeve ñembotavyrãme ha software ivaíva oúva ñanduti roguégui.

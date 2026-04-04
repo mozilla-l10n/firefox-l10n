@@ -242,3 +242,4 @@ privacy-metrics-social =
     }
 privacy-metrics-loading = Henyhẽhína mbopapapy ñemo’ãgua…
 privacy-metrics-error = Ndaikatúi henyhẽ mbopapapy ñemo’ãgua.
+privacy-metrics-private-window = { -brand-short-name } ojoko gueteri tapykuehohaita ovetã ñemiguápe, hákatu noñongatúi pe jokopyre rapykuere.
