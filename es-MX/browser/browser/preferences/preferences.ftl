@@ -431,6 +431,9 @@ website-preferred-language =
     .label = Idiomas preferidos
 website-add-language =
     .label = Agregar idioma
+website-add-language-button =
+    .aria-label = Agregar idioma seleccionado
+    .title = Agregar idioma seleccionado
 # The pattern used to generate strings presented to the user in the
 # website languages selection list.
 #
@@ -468,8 +471,24 @@ settings-translations-header =
     .description = Traduce páginas o texto seleccionado. Para proteger tu privacidad, las traducciones permanecen en tu dispositivo.
 settings-translations-offer-to-translate-label =
     .label = Ofrecer traducción de página completa
+settings-translations-more-settings-button =
+    .label = Más ajustes de traducción
+    .description = Configura tus preferencias de idiomas, sitios web y traducción sin conexión.
+settings-translations-subpage-header =
+    .heading = Más ajustes de traducción
+settings-translations-subpage-speed-up-translation-header =
+    .label = Acelerar la traducción
+    .description = Descarga los idiomas completos para obtener traducciones más rápidas y traducir sin conexión.
 settings-translations-subpage-automatic-translation-header =
     .label = Traducción automática
+settings-translations-subpage-always-translate-header =
+    .label = Traducir siempre estos idiomas
+settings-translations-subpage-never-translate-header =
+    .label = No traducir nunca estos idiomas
+settings-translations-subpage-never-translate-sites-header =
+    .label = Nunca traducir estos sitios
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = Para agregar un sitio, abre el <img data-l10n-name="translations-icon"/> panel de traducción, selecciona <img data-l10n-name="settings-icon"/> los ajustes de traducción  y luego elige “No traducir nunca este sitio”.
 settings-translations-subpage-language-select-option =
     .label = Agregar idioma
 settings-translations-subpage-language-add-button =
@@ -487,9 +506,21 @@ settings-translations-subpage-download-languages-button =
 #   $size (string) - Download size in megabytes, formatted for the locale.
 settings-translations-subpage-download-language-option = { $language } { $size }MB)
     .label = { $language } { $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = No se descargaron idiomas
+settings-translations-subpage-no-languages-added =
+    .label = No se agregaron idiomas
 settings-translations-subpage-download-progress = Descarga en progreso…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = No se pudo descargar { $language } ({ $size } MB)
 settings-translations-subpage-download-retry-button =
     .label = Intentar de nuevo
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = ¿Eliminar { $language } ({ $size }MB)?
 settings-translations-subpage-download-delete-button =
     .label = Eliminar
 settings-translations-subpage-download-cancel-button =
@@ -507,6 +538,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = Descargar diccionarios
+spellcheck-promo =
+    .heading = Cómo usar el corrector ortográfico
+    .message = Haz clic derecho en un campo de texto para activar o desactivar el corrector ortográfico o para cambiar el idioma. No todos los campos son compatibles con la revisión ortográfica.
 
 ## General Section - Files and Applications
 
@@ -738,6 +772,9 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Habilitar controles de video picture-in-picture
     .accesskey = A
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Seguir reproduciendo videos en modo Picture-in-Picture al cambiar de pestaña
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Saber más
 browsing-media-control =
     .label = Controla los medios con el teclado, los auriculares o la interfaz virtual
@@ -761,11 +798,20 @@ network-proxy-connection-learn-more = Saber más
 network-proxy-connection-settings =
     .label = Ajustes…
     .accesskey = e
+network-proxy-group2 =
+    .label = Ajustes de proxy
+    .description = Configura cómo se conecta { -brand-short-name } a internet.
+network-proxy-connection-settings2 =
+    .label = Configuración de proxy
+    .description = Cambiar estos ajustes podría causar problemas de conexión.
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elige que quieres ver cuando abras tu página de inicio, nuevas ventanas y nuevas pestañas.
+home-section =
+    .heading = Inicio y sesión
 
 ## Home Section - Default Browser
 
@@ -846,6 +892,9 @@ home-custom-homepage-delete-address-button =
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
     .label = Reemplazar con
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Páginas abiertas actualmente
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Marcadores…
