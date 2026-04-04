@@ -88,8 +88,10 @@ upgrade-vpn-button = { -mozilla-vpn-brand-name } ਨੂੰ ਅਜ਼ਮਾਓ
 
 ipprotection-connection-status-generic-error-title = VPN ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
 ipprotection-connection-status-generic-error-description = ਕੁਝ ਕੁ ਮਿੰਟਾਂ ਬਾਅਦ ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
+ipprotection-connection-status-generic-error-try-again = ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ ਕਰੋ ਜੀ।
 ipprotection-connection-status-network-error-title = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
 ipprotection-connection-status-network-error-description = ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਕਰੋ ਅਤੇ ਫੇਰ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
+ipprotection-connection-status-blocked-error-title = VPN ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

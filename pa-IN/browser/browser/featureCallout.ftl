@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = ਸਮਝੇ
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = ਨਵੇਂ ਪਰਦੇਦਾਰੀ-ਫੋਕਸ ਅਧਾਰਿਤ ਖੋਜ ਨੂੰ ਅਜਮਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?
+start-page-callout-subtitle = ਸ਼ੁਰੂਆਤੀ-ਸਫ਼ੇ ਅਜ਼ਮਾਓ। ਇਸ ਨੂੰ ਸ਼ੁਰੂ ਤੋਂ ਤੁਹਾਡੀਆਂ ਖੋਜਾਂ ਨੂੰ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ।
 start-page-callout-primary-label = ਸ਼ੁਰੂਆਤੀ-ਸਫ਼ਾ ਅਜ਼ਮਾਓ
 start-page-callout-secondary-label = ਖ਼ਾਰਜ ਕਰੋ
 
