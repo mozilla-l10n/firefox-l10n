@@ -410,6 +410,9 @@ quickactions-cmd-help = hjelp, brukarstøtte
 # Opens the devtools web inspector
 quickactions-inspector2 = Opne utviklarverktøy
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = bibliotek
+quickactions-library = Opne biblioteket
 quickactions-cmd-inspector = inspektør, utviklarverktøy
 # Opens about:logins
 quickactions-logins2 = Handsam passord
