@@ -410,6 +410,9 @@ quickactions-cmd-help = עזרה, תמיכה
 # Opens the devtools web inspector
 quickactions-inspector2 = פתיחת כלי פיתוח
 quickactions-cmd-inspector2 = מפקח, inspector, כלי פיתוח, כלי מפתחים, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = ספרייה,ספריה
+quickactions-library = פתיחת ספרייה
 quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools
 # Opens about:logins
 quickactions-logins2 = ניהול ססמאות
