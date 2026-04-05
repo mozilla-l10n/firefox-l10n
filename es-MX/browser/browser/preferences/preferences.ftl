@@ -2467,6 +2467,17 @@ security-privacy-status-trackers-label =
 security-privacy-status-strict-enabled-label = Tienes <a data-l10n-name="strict-tracking-protection">protección estricta</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = Tienes <a data-l10n-name="custom-tracking-protection">protección personalizada</a>
+security-privacy-status-up-to-date-label = Tienes la versión más reciente y segura de { -brand-short-name }
+security-privacy-status-update-needed-label = Una nueva versión de { -brand-short-name } está disponible.
+security-privacy-status-update-error-label = { -brand-short-name } tiene problemas para actualizarse
+security-privacy-status-update-checking-label = { -brand-short-name } está revisando si hay actualizaciones
+security-privacy-status-update-needed-description = Actualiza para obtener lo último en velocidad, estabilidad y seguridad.
+security-privacy-status-update-button-label =
+    .label = Actualizar { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Escudo con signo de exclamación que señala una alerta en tus advertencias de seguridad
+security-privacy-image-ok =
+    .alt = Un escudo con una marca de verificación, que muestra que no tienes problemas de seguridad pendientes
 security-privacy-issue-card =
     .heading = Advertencias de seguridad
 issue-card-reset-button =
@@ -2477,6 +2488,36 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Protección mejorada contra el rastreo
+    .description = Los sitios usan rastreadores para seguirte en internet y mostrarte anuncios invasivos. { -brand-short-name } te protege mientras navegas, bloqueando los rastreadores automáticamente para que tú tengas el control de tu rastro digital.
+preferences-etp-level-standard =
+    .label = Estándar (predeterminado)
+    .description = Protecciones sólidas y confiables que funcionan sin problemas con la mayoría de los sitios web.
+preferences-etp-level-strict =
+    .label = Estricto
+    .description = Protecciones más fuertes que bloquean más rastreadores, pero que podrían causar fallas en algunos sitios.
+preferences-etp-level-custom =
+    .label = Personalizado
+    .description = Elige qué protecciones activar o desactivar.
+preferences-etp-status-advanced-button =
+    .label = Configuración avanzada
+preferences-etp-status-protections-dashboard-link =
+    .label = Ver tu panel de protecciones personalizadas
+    .description = Mira cuántos rastreadores ocultos ha bloqueado { -brand-short-name } por ti, incluyendo rastreadores de redes sociales, rastreadores de huella digital y criptomineros.
+preferences-etp-header =
+    .heading = Protección mejorada contra el rastreo
+preferences-etp-advanced-settings-group =
+    .label = Configuración avanzada
+    .description = Los sitios usan rastreadores para seguirte en internet y mostrarte anuncios invasivos. { -brand-short-name } te protege mientras navegas, bloqueando la mayoría de los rastreadores automáticamente para que tú tengas el control de tu rastro digital.
+preferences-etp-customize-button =
+    .label = Personalizar la protección contra el rastreo
+preferences-etp-reload-tabs-hint =
+    .message = Recarga tus pestañas para aplicar estos cambios.
+preferences-etp-reload-tabs-hint-button =
+    .label = Recargar todas las pestañas
+preferences-etp-rfp-warning-message =
+    .message = Estás usando Resist Fingerprinting (RFP), que reemplaza algunas de las configuraciones de protección de huellas digitales de { -brand-short-name }. Esto podría provocar que algunos sitios fallen.
 preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
