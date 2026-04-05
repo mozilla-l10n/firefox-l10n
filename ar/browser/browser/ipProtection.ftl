@@ -86,8 +86,8 @@ upgrade-vpn-button = جرّب { -mozilla-vpn-brand-name }
 
 ## IP Protection add-on breakage warnings
 
-ipp-activator-breakage-sign-in-warning = قد لا يعمل هذا الموقع الإلكتروني مع شبكة VPN. حاول ولوج أو إيقاف تشغيل VPN أثناء استخدام هذا الموقع.
-ipp-activator-breakage-turn-off-warning = قد لا يعمل هذا الموقع الإلكتروني مع شبكة VPN. حاول إيقاف تشغيل VPN أثناء استخدام هذا الموقع.
+ipp-activator-breakage-sign-in-warning = <strong>قد لا يعمل هذا الموقع الإلكتروني مع شبكة VPN.</strong> حاول ولوج أو إيقاف تشغيل VPN أثناء استخدام هذا الموقع.
+ipp-activator-breakage-turn-off-warning = <strong>قد لا يعمل هذا الموقع الإلكتروني مع شبكة VPN.</strong> حاول إيقاف تشغيل VPN أثناء استخدام هذا الموقع.
 
 ## IP Protection alerts
 
