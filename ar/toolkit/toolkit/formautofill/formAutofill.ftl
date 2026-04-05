@@ -33,7 +33,7 @@ autofill-card-network-visa = ڤيزا
 #   Also autofills organization, phone, email.
 # Variables:
 #   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = يملأ { $categories } آليا أيضا
+autofill-phishing-warningmessage-extracategory = يملأ { $categories } آليا أيضًا
 # Variation when all are in the same category.
 # Variables:
 #   $categories - one or more of the categories

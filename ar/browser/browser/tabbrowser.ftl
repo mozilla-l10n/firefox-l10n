@@ -292,10 +292,19 @@ tab-group-editor-color-selector2-gray = الرمادي
 tab-group-editor-color-selector2-red = أحمر
     .title = أحمر
 tab-group-description = { $tabGroupName } — مجموعة اللسان
+tab-group-label-tooltip-collapsed = { $tabGroupName } — مطوِ
 tab-group-label-tooltip-expanded = { $tabGroupName } — مُوسَّع
+tab-group-preview-name =
+    .aria-label = ألسنة في مجموعة مطوية
 tab-context-unnamed-group =
     .label = مجموعة غير مسمّاة
 tab-group-name-default = مجموعة غير مسمّاة
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = قائمة الألسنة مفتوحة
+tab-group-preview-closed-description = قائمة الألسنة أُغلقت
 
 ##
 
@@ -323,6 +332,8 @@ tab-context-move-tab-to-group =
            *[other] أضف ألسنة إلى مجموعة
         }
     .accesskey = ض
+tab-context-move-tab-to-group-saved-groups =
+    .label = الألسنة المغلقة
 tab-group-editor-action-new-tab =
     .label = لسان جديد في المجموعة
 tab-group-editor-action-new-window =

@@ -152,7 +152,7 @@ certerror-expired-cert-second-para = أغلب الظن هو أن شهادة ال
 certerror-expired-cert-sts-second-para = أغلب الظن هو أن شهادة الموقع قد انقضت، ما يمنع { -brand-short-name } من الاتصال بطريقة آمنة.
 certerror-what-can-you-do-about-it-title = إليك ما تستطيع فعله حيال هذا
 certerror-unknown-issuer-what-can-you-do-about-it-website = أغلب الظن بأن المشكلة هي بالموقع نفسه، وليس هنالك ما يمكنك فعله لحلها.
-certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = إن كنت متصلا عبر شبكة للشركات أو كنت تستخدم برمجية مضادة للفيروسات، فيمكنك إيصال الأمر إلى فرق الدعم لمساعدتك. يمكنك أيضا إعلام مدير الموقع عن هذه المشكلة.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = إن كنت متصلاً عبر شبكة للشركات أو كنت تستخدم برمجية مضادة للفيروسات، فيمكنك إيصال الأمر إلى فرق الدعم لمساعدتك. يمكنك أيضًا إعلام مدير الموقع عن هذه المشكلة.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
