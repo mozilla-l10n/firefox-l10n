@@ -87,6 +87,10 @@ contextual-manager-passwords-password-label = సంకేతపదం
 contextual-manager-passwords-add-password-success-button = చూడండి
 contextual-manager-passwords-update-password-success-button = పూర్తయింది
 contextual-manager-passwords-delete-password-success-button = పూర్తయింది
+#
+# Radiobutton label to display total number of passwords
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-radiobutton-all = అన్నీ ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = సంకేతపదం తొలగించాలా?
 # This message gives the user an option to go back to the edit login form.

@@ -1142,11 +1142,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizěrowaś
+account-group-label2 =
+    .label = Konto
+account-placeholder2 =
+    .label = Njejsćo pśizjawjony
+    .description = Pśizjawśo se a wobchowajśo swóje daty priwatne, skoděrowane a ned pśistupne wšuźi, źož { -brand-short-name } wužywaśo.
 account-group-label =
     .label = Konto { -vendor-short-name }
 account-placeholder =
     .label = Njejsćo pśizjawjony.
     .description = Pśizjawśo, aby  na wšych rědach swóje daty priwatne, skoděrowane a synchronizěrowane źaržał.
+account-sync-section =
+    .heading = Konto a synchronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1269,6 +1276,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synchronizěrujośo toś te zapiski pśez wšykne waše zwězane rědy:
 sync-syncing-across-devices-heading-2 = Daty, kótarež su pśez rědy synchronizěrowane
+sync-syncing-across-devices-empty-state2 =
+    .label = Synchronizěrowane daty zastojaś
+    .description = Njesynchronizěrujośo nic… hyšći. Zachopśo synchronizěrowaś, aby wšykne swóje daty na wšych swójich rědach dostał.
 sync-syncing-across-devices-empty-state =
     .label = Hyšći njesynchronizěrujośo nic…
     .description = Zachopśo synchronizěrowaś, aby wšykne waše daty na wšych wašych rědach dostał.
@@ -1288,6 +1298,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Synchronizěrowane daty zastojaś
     .accesskey = S
+settings-sync-disconnect-button =
+    .label = Zwisk źěliś
 sync-change-options =
     .label = Změniś…
     .accesskey = Z
