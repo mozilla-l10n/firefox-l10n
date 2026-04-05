@@ -65,7 +65,7 @@ mobile-app-card-content = استعمل متصفح المحمول ذا الحما
 mobile-app-links = متصفّح { -brand-product-name } لنظامي <a data-l10n-name="android-mobile-inline-link">أندرويد</a> و<a data-l10n-name="ios-mobile-inline-link">آي‌أوإس</a>
 lockwise-title = بعد الآن، ”نسيت كلمة السر“ فعل ماض
 passwords-title-logged-in = أدِر كلمات السر
-passwords-header-content = يخزّن { -brand-product-name } كلمات السرّ لديك في متصفّحك بأمان تام.
+passwords-header-content = يخزّن { -brand-product-name } كلمات السر لديك في متصفّحك بأمان تام.
 lockwise-header-content-logged-in = خزّن كلمات السر وزامنها على مختلف الأجهزة لديك.
 protection-report-passwords-save-passwords-button = احفظ كلمات السر
     .title = احفظ كلمات السر

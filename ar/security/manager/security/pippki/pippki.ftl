@@ -2,16 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-password-quality-meter = مقياس جودة كلمة السرّ
+password-quality-meter = مقياس جودة كلمة السر
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = غيّر كلمة السر
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = جهاز الأمن: { $tokenName }
-change-password-old = كلمة السرّ الحاليّة:
-change-password-new = كلمة السرّ الجّديدة:
-change-password-reenter = كلمة السرّ الجّديدة (مرّة ثانية):
+change-password-old = كلمة السر الحالية:
+change-password-new = كلمة السر الجديدة:
+change-password-reenter = كلمة السر الجديدة (مرة ثانية):
 pippki-incorrect-pw = لم تُدخل كلمة السر الرئيسية الصحيحة. رجاءً أعِد المحاولة.
 
 ## Reset Primary Password dialog
@@ -69,9 +71,9 @@ client-auth-cert-remember-label = تذكّر هذا القرار:
 
 set-password-window =
     .title = اختر كلمة سرّ النّسخة الاحتياطيّة للشّهادة
-set-password-message = تحمي كلمة سرّ النّسخة الاحتياطيّة للشّهادة التي تعيّنها الملفّ الاحتياطي الذي توشك على إنشائه.  عليك ضبط كلمة السرّ هذه لمتابعة النسخ الاحتياطي.
+set-password-message = تحمي كلمة سر النّسخة الاحتياطيّة للشّهادة التي تعيّنها الملفّ الاحتياطي الذي توشك على إنشائه.  عليك ضبط كلمة السر هذه لمتابعة النسخ الاحتياطي.
 set-password-backup-pw =
-    .value = كلمة سرّ النّسخة الاحتياطيّة للشّهادة:
+    .value = كلمة سر النسخة الاحتياطية للشهادة:
 set-password-repeat-backup-pw =
-    .value = كلمة سرّ النّسخة الاحتياطيّة للشّهادة (مرّة ثانية):
-set-password-reminder = هامّ: إذا نسيت كلمة سرّ النّسخة الاحتياطيّة للشّهادة، لن تكون قادرًا على استعادة هذه النّسخة الاحتياطيّة لاحقًا.  الرجاء تسجيلها بمكان آمن.
+    .value = كلمة سر النسخة الاحتياطية للشهادة (مرّة ثانية):
+set-password-reminder = هامّ: إذا نسيت كلمة سر النسخة الاحتياطية للشهادة، لن تكون قادرًا على استعادة هذه النسخة الاحتياطية لاحقًا.  الرجاء تسجيلها بمكان آمن.

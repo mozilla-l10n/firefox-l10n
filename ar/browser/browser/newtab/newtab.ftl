@@ -414,6 +414,7 @@ newtab-weather-menu-weather-display-option-detailed = مفصل
 newtab-weather-menu-change-weather-display-detailed = بدّل إلى العرض التفصيلي
 newtab-weather-menu-temperature-units = وحدات قياس درجة الحرارة
 newtab-weather-menu-temperature-option-celsius = درجة مئوية
+newtab-weather-menu-hide-weather = أخفِ الطقس في اللسان الجديد
 newtab-weather-menu-learn-more = اطّلع على المزيد
 
 ## Topic Labels
