@@ -64,8 +64,14 @@ new-profile-page-done-button =
     .label = Terminar de editar
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Tu copia de “{ $profilename }” está lista para personalizarse
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Tu copia de { $profilename } está lista para personalizarse
 copied-profile-page-header-description = Copiamos tus datos y configuración en un nuevo perfil. Ahora, dale un nombre, elige un estilo y personalízalo.
+restored-profile-page-header = Personaliza tu perfil restaurado
+restored-profile-page-header-description = Cada perfil es único, así que tu historial de navegación y configuraciones se mantienen separadas de cada perfil. Además, la fuerte protección de tu privacidad en { -brand-short-name } viene de manera predeterminada.
+restored-profile-page-learn-more = Saber más
 profile-window-title-2 = { -brand-short-name } - Selecciona un perfil
 profile-window-logo =
     .alt = Logotipo de { -brand-short-name }
@@ -87,6 +93,9 @@ delete-profile-bookmarks = Marcadores
 delete-profile-history = Historial (páginas visitadas, cookies, datos del sitio)
 delete-profile-autofill = Autocompletar datos (direcciones, métodos de pago)
 delete-profile-logins = Contraseñas
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Eliminar el perfil “{ $profilename }”
 
 ##
 

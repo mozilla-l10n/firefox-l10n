@@ -203,3 +203,5 @@ bar-tooltip-cryptominer =
             [one] { $count } criptominero ({ $percentage } %)
            *[other] { $count } criptomineros ({ $percentage } %)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Protecciones de privacidad
