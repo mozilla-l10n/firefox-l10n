@@ -152,6 +152,7 @@ pin-tabs-callout-cta-2-button = ثبّت هذا اللسان
 
 ## Sidebar Onboarding Strings
 
+sidebar-customization-callout-1-title = الشريط الجانبي: مكانك للأدوات والألسنة
 sidebar-customization-callout-callout-button = خصّص الشريط الجانبي
 sidebar-customization-callout-dismiss-button = أخفِ الشريط الجانبي
 sidebar-customization-callout-2-title = اجعل الشريط الجانبي { -brand-product-name } خاصًا بك

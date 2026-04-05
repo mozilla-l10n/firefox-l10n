@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = ش
 non-technical-privacy-group =
     .label = تفضيلات خصوصية الموقع
+do-not-track-removal3 =
+    .message = لم نعد ندعم ميزة "لا تتعقبني".
 non-technical-privacy-heading =
     .label = حمايات إضافية
 non-technical-privacy-header = تفضيلات خصوصية الموقع
@@ -165,12 +167,20 @@ preferences-data-migration-button =
     .accesskey = د
 preferences-profiles-group-header =
     .heading = ملفات الإعدادات
+preferences-profiles-subpane-description =
+    .description = يحتوي كل ملف شخصي على بيانات وإعدادات تصفح منفصلة، بما في ذلك السجل وكلمات السر والمزيد.
 preferences-profiles-header = ملفات الإعدادات
+preferences-manage-profiles-description = يحتوي كل ملف شخصي على بيانات وإعدادات تصفح منفصلة، بما في ذلك السجل وكلمات السر والمزيد.
 preferences-manage-profiles-learn-more = اطّلع على المزيد
 preferences-manage-profiles-button =
     .label = أدِر ملفات الإعدادات
 preferences-profiles-settings-button =
     .label = الإعدادات
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = الملف الشخصي المراد نسخه
 # This string is a placeholder that will be shown in a drop-down list of
 # profiles. The user will select a profile, then click the copy button
 # to make a copy of that profile.
@@ -309,6 +319,8 @@ preferences-web-appearance-choice-light2 =
 preferences-web-appearance-choice-dark2 =
     .label = داكن
     .title = استخدم مظهرًا داكنًا لخلفيات موقع الويب ومحتواه.
+web-appearance-group =
+    .aria-label = مظهر الموقع
 preferences-web-appearance-choice-auto = تلقائي
 preferences-web-appearance-choice-light = فاتح
 preferences-web-appearance-choice-dark = داكن
@@ -392,6 +404,10 @@ preferences-zoom-text-only =
     .accesskey = ن
 language-header = اللّغات
 choose-language-description = اختر لغتك المفضلة لعرض الصفحات
+website-preferred-language =
+    .label = اللغات المفضلة
+website-add-language =
+    .label = أضِف لغة
 # The pattern used to generate strings presented to the user in the
 # website languages selection list.
 #
@@ -423,6 +439,8 @@ translate-attribution = ترجمات <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = الاستثناءات…
     .accesskey = ث
+settings-translations-subpage-header =
+    .heading = المزيد من إعدادات الترجمة
 settings-translations-subpage-automatic-translation-header =
     .label = الترجمة التلقائية
 settings-translations-subpage-always-translate-header =
@@ -453,6 +471,10 @@ settings-translations-subpage-no-languages-downloaded =
 settings-translations-subpage-no-languages-added =
     .label = لم تُضيف أي لغات
 settings-translations-subpage-download-progress = جارِ التنزيل…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = تعذّر تنزيل { $language } ({ $size }م.بايت)
 settings-translations-subpage-download-retry-button =
     .label = حاول مجددًا
 # Variables:
@@ -2075,6 +2097,10 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =
     .label = احجب
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } على الحراسة
 
 ## Enhanced Tracking Protection (ETP) status section
 
