@@ -292,6 +292,7 @@ tab-group-editor-color-selector2-gray = الرمادي
 tab-group-editor-color-selector2-red = أحمر
     .title = أحمر
 tab-group-description = { $tabGroupName } — مجموعة اللسان
+tab-group-label-tooltip-expanded = { $tabGroupName } — مُوسَّع
 tab-context-unnamed-group =
     .label = مجموعة غير مسمّاة
 tab-group-name-default = مجموعة غير مسمّاة
@@ -411,6 +412,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = عرض مقسم منفصل
     .accesskey = ص
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = اعكس الألسنة
+    .accesskey = ك
 tab-context-badge-new = جديد
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)

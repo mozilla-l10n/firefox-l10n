@@ -1313,7 +1313,7 @@ restore-session-startup-suggestion-button = ما الطريقة؟
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
-filepicker-blocked-infobar = حجبت مؤسستك الوصول إلى الملفات المحلية الموجودة على هذا الكمبيوتر
+filepicker-blocked-infobar = حجبت مؤسستك الوصول إلى الملفات المحلية الموجودة على هذا الحاسوب
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

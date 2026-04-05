@@ -38,7 +38,7 @@ firefoxview-tabpickup-adddevice-description = قم بتنزيل { -brand-product
 firefoxview-tabpickup-adddevice-learn-how = اطّلع على الطريقة
 firefoxview-tabpickup-adddevice-primarybutton = احصل على { -brand-product-name } للجوال
 firefoxview-syncedtabs-adddevice-header-2 = اسحب الألسنة من أي مكان
-firefoxview-syncedtabs-adddevice-description-2 = لِج إلى { -brand-product-name } على هاتفك أو على جهاز كمبيوتر آخر لرؤية الألسنة هنا. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
+firefoxview-syncedtabs-adddevice-description-2 = لِج إلى { -brand-product-name } على هاتفك أو على حاسوب آخر لرؤية الألسنة هنا. تعرَّف على كيفية <a data-l10n-name="url">ربط أجهزة إضافية</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = جرّب { -brand-product-name } للجوال
 firefoxview-tabpickup-synctabs-header = فعّل مزامنة اللسان
 firefoxview-tabpickup-synctabs-description = اسمح لـ{ -brand-short-name } بمشاركة الألسنة بين الأجهزة.

@@ -271,7 +271,7 @@ device-migration-fxa-spotlight-sync-primary-button = ابدأ
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>هل تريد جعل { -brand-short-name } قارئ PDF الافتراضي؟</strong> استخدم { -brand-short-name } لقراءة وتحرير ملفات PDF المحفوظة على جهاز الكمبيوتر الخاص بك.
+pdf-default-notification-message = <strong>أتريد جعل { -brand-short-name } قارئ PDF المبدئي؟</strong> استخدم { -brand-short-name } لقراءة وتحرير ملفات PDF المحفوظة على حاسوبك.
 pdf-default-notification-set-default-button =
     .label = اجعله المبدئي
 pdf-default-notification-decline-button =
@@ -279,7 +279,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>فتح { -brand-short-name } في كل مرة تقوم فيها بإعادة تشغيل جهاز الكمبيوتر الخاص بك؟</strong> الآن يمكنك ضبط { -brand-short-name } ليتم فتحه تلقائيًا عند إعادة تشغيل جهازك.
+launch-on-login-infobar-message = <strong>فتح { -brand-short-name } في كل مرة تقوم فيها بإعادة تشغيل حاسوبك؟</strong> الآن يمكنك ضبط { -brand-short-name } ليتم فتحه تلقائيًا عند إعادة تشغيل جهازك.
 launch-on-login-learnmore = اطّلع على المزيد
 launch-on-login-infobar-confirm-button = نعم، افتح { -brand-short-name }
     .accesskey = ف
@@ -289,7 +289,7 @@ launch-on-login-infobar-reject-button = ليس الآن
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>افتح { -brand-short-name } في كل مرة تقوم فيها بإعادة تشغيل جهاز الكمبيوتر الخاص بك؟</strong> لإدارة تفضيلات بدء التشغيل، ابحث عن "البدء" في الإعدادات.
+launch-on-login-infobar-final-message = <strong>فتح { -brand-short-name } في كل مرة تقوم فيها بإعادة تشغيل حاسوبك؟</strong> لإدارة تفضيلات بدء التشغيل، ابحث عن "البدء" في الإعدادات.
 launch-on-login-infobar-final-reject-button = لا، شكرًا
     .accesskey = ا
 

@@ -55,3 +55,30 @@ sync-setup-verify-description = لِج مستخدم آخر مسبقًا للمز
 
 # Dialog 1 - different account signing in without option to merge
 sync-profile-different-account-title = وصل إلى الحد الأقصى للحساب لهذا الملف الشخصي
+sync-profile-different-account-header = زامَن هذا الملف الشخصي مسبقًا مع حساب مختلف
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = للحفاظ على بياناتك منظمة وآمنة، لا يمكن مزامنة كل ملف شخصي { -brand-product-name } إلا مع حساب واحد. للولوج باستخدام { $acctEmail }، أنشئ ملف شخصي جديد.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = زامَنت الملف الشخصي مع حساب مختلف
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = للحفاظ على بياناتك منظمة وآمنة، نوصي بإنشاء ملف شخصي جديد للولوج باستخدام { $acctEmail }. إذا اخترت الاستمرار في المزامنة على هذا الملف الشخصي، فسيتم دمج البيانات من كِلا الحسابين بشكل دائم على "{ $profileName }".
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = الحساب قيد الاستخدام بالفعل
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } مسجل بالفعل في ملف شخصي "{ $otherProfile }"
+sync-account-in-use-description = لا يمكنك ربط هذا الحساب إلا بملف شخصي واحد على هذا الحاسوب.
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = هذا الحساب مسجل دخوله إلى ملف شخصي آخر. هل تريد مزامنة كِلا الملفين؟
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = بدل إلى  "{ $profileName }"
+sync-button-create-profile = أنشئ ملف شخصي جديد
+sync-button-sync-and-merge = زامِن وادمج البيانات
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = زامِن "{ $profileName }"
