@@ -410,6 +410,9 @@ quickactions-cmd-help = súgó, támogatás
 # Opens the devtools web inspector
 quickactions-inspector2 = Fejlesztői eszközök megnyitása
 quickactions-cmd-inspector2 = inspector, vizsgáló, devtools, fejlesztői eszközök
+# Opens Firefox Library
+quickactions-cmd-library = könyvtár
+quickactions-library = Könyvtár megnyitása
 quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
 # Opens about:logins
 quickactions-logins2 = Jelszavak kezelése

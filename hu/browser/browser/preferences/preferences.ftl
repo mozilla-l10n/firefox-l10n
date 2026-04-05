@@ -1134,6 +1134,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Szinkronizálás
+account-group-label2 =
+    .label = Fiók
 account-group-label =
     .label = { -vendor-short-name }-fiók
 account-placeholder =
