@@ -891,6 +891,48 @@ urlbar-result-dismissal-acknowledgment-all = شكرًا لملاحظاتك. لن
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [zero] { $name } · خلال { $daysUntilStart } يوم
+        [one] { $name } · خلال يوم
+        [two] { $name } · خلال يومين
+        [few] { $name } · خلال { $daysUntilStart } أيام
+        [many] { $name } · خلال { $daysUntilStart } يومًا
+       *[other] { $name } · خلال { $daysUntilStart } يوم
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [zero] { $name } · يبدأ خلال { $daysUntilStart } يوم
+        [one] { $name } · يبدأ خلال يوم
+        [two] { $name } · يبدأ خلال يومين
+        [few] { $name } · يبدأ خلال { $daysUntilStart } أيام
+        [many] { $name } · يبدأ خلال { $daysUntilStart } يومًا
+       *[other] { $name } · يبدأ خلال { $daysUntilStart } يوم
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [zero] { $name } · ينتهي خلال { $daysUntilStart } يوم
+        [one] { $name } · ينتهي خلال يوم
+        [two] { $name } · ينتهي خلال يومين
+        [few] { $name } · ينتهي خلال { $daysUntilStart } أيام
+        [many] { $name } · ينتهي خلال { $daysUntilStart } يومًا
+       *[other] { $name } · ينتهي خلال { $daysUntilStart } يوم
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
@@ -1224,6 +1266,19 @@ panel-save-update-password = كلمة السر
 # "More" item in macOS share menu
 menu-share-more =
     .label = أكثر…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [zero] لا رابط للنسخ
+            [one] انسخ رابط
+            [two] انسخ رابطين
+            [few] انسخ { $count } روابط
+            [many] انسخ { $count } رابطًا
+           *[other] انسخ { $count } رابط
+        }
+    .accesskey = ن
 menu-share-copy-link =
     .label = انسخ الرابط
     .accesskey = ط
@@ -1304,6 +1359,10 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = اسرد كل الألسنة
     .tooltiptext = اسرد كل الألسنة
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = أسقِط اللسان هنا لتثبيته
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1402,6 +1461,7 @@ firefox-relay-offer-why-to-use-relay = تحمي أقنعتنا الآمنة وس
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = ستمرر كل رسائل البريد الإلكتروني المرسلة إلى أقنعة بريدك إلى <strong>{ $useremail }</strong> (ما لم تقرر حجبها).
 firefox-relay-offer-legal-notice = بالنقر على"أستخدم قناع البريد"، أنت توافق على شروط <label data-l10n-name="tos-url"> للخدمة </label> و <label data-l10n-name="privacy-url">تنويه الخصوصية </label>.
+firefox-relay-offer-legal-notice-1 = من خلال التسجيل وإنشاء قناع بريد إلكتروني، فإنك توافق على <label data-l10n-name="tos-url">شروط الخدمة</label> و <label data-l10n-name="privacy-url">تنويه الخصوصية</label>.
 
 ## Add-on Pop-up Notifications
 

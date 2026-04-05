@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = ضبط السياسات التي يمكن لامتدادات الوِب WebExtensions الوصول إليها عبر chrome.storage.managed.
+policy-AIControls = اضبط عناصر التحكم بالذكاء الاصطناعي.
 policy-AllowedDomainsForApps = حدّد النطاقات المسموح لها بالوصول إلى مساحة عمل جوجل.
 policy-AllowFileSelectionDialogs = اسمح بحوارات اختيار الملف.
 policy-AppAutoUpdate = تفعيل/تعطيل تحديث التطبيق تلقائيًا.
@@ -44,6 +45,7 @@ policy-DisablePocket2 = تعطيل ميزة حفظ الصفحات في { -pocket
 policy-DisablePrivateBrowsing = تعطيل التصفح الخاص.
 policy-DisableProfileImport = تعطيل أمر القائمة الخاص باستيراد البيانات من المتصفحات الأخرى.
 policy-DisableProfileRefresh = تعطيل زر ”أنعِش { -brand-short-name }“ في صفحة about:support.
+policy-DisableRemoteImprovements = امنع { -brand-short-name } من تطبيق تغييرات الأداء والاستقرار والميزات بين التحديثات.
 policy-DisableSafeMode = تعطيل ميزة إعادة التشغيل في الوضع الآمن. ملاحظة: لا يمكن تعطيل مفتاح Shift لدخول الوضع الآمن في وِندوز إلا باستخدام سياسة المجموعات.
 policy-DisableSecurityBypass = منع المستخدم من تخطّي أنواع معيّنة من التحذيرات الأمنية.
 policy-DisableSetAsDesktopBackground = تعطيل أمر القائمة الخاص بالضبط كخلفية سطح مكتب للصور.
@@ -66,6 +68,7 @@ policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = تعطيل الت
 policy-Extensions = تثبيت أو إزالة أو قفل حالة الامتدادات. يأخذ خيار التثبيت مسارات محلية أو شبكية كمعطيات. يأخذ خياري الإزالة والقفل معرّفات الامتدادات.
 policy-ExtensionSettings = إدارة كل ما يتعلّق بتثبيت الامتدادات.
 policy-ExtensionUpdate = تفعيل/تعطيل تحديث الامتدادات تلقائيًا.
+policy-FirefoxHome2 = اضبط { -firefox-home-brand-name }.
 policy-FirefoxSuggest = اضبط { -firefox-suggest-brand-name }.
 policy-Handlers = ضبط طرائق التعامل مع التطبيقات المبدئية.
 policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسريع العتادي.

@@ -1134,11 +1134,15 @@ containers-remove-button =
 
 sync-group-label =
     .label = Συγχρονισμός
+account-group-label2 =
+    .label = Λογαριασμός
 account-group-label =
     .label = Λογαριασμός { -vendor-short-name }
 account-placeholder =
     .label = Δεν έχετε συνδεθεί
     .description = Συνδεθείτε για να διατηρήσετε τα δεδομένα σας ιδιωτικά, κρυπτογραφημένα και συγχρονισμένα μεταξύ των συσκευών σας.
+account-sync-section =
+    .heading = Λογαριασμός και συγχρονισμός
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1280,6 +1284,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Διαχείριση συγχρονισμένων δεδομένων
     .accesskey = Δ
+settings-sync-disconnect-button =
+    .label = Αποσύνδεση
 sync-change-options =
     .label = Αλλαγή…
     .accesskey = Α
