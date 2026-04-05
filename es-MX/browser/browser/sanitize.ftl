@@ -59,6 +59,7 @@ history-section-label = Historial
 item-history-and-downloads =
     .label = Historial de navegación y descargas
     .accesskey = n
+item-history-and-downloads-description2 = Limpia el historial de sitios y de descargas
 item-cookies =
     .label = Cookies
     .accesskey = C
