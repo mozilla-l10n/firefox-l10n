@@ -707,6 +707,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nuova lista
 newtab-widget-section-title = Widget
 newtab-widget-menu-hide = Nascondi widget
+newtab-widget-menu-change-size = Cambia dimensione
+newtab-widget-size-small = Piccola
+newtab-widget-size-medium = Media
+newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Nascondi widget
