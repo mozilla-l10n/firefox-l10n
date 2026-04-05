@@ -1144,11 +1144,16 @@ sync-group-label =
     .label = Synchronizować
 account-group-label2 =
     .label = Konto
+account-placeholder2 =
+    .label = Njejsće přizjewjeny
+    .description = Přizjewće so a wobchowajće swoje daty priwatne, zaklučowane a hnydom přistupne wšudźe, hdźež { -brand-short-name } wužiwaće.
 account-group-label =
     .label = Konto { -vendor-short-name }
 account-placeholder =
     .label = Njejsće přizjewjeny.
     .description = Přizjewće so, zo byšće swoje daty na wšěch wašich gratach priwatne, zaklučowane a synchronizowane dźeržał.
+account-sync-section =
+    .heading = Konto a synchronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1271,6 +1276,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synchronizujeće tute zapiski přez wšě waše zwjazane graty:
 sync-syncing-across-devices-heading-2 = Daty, kotrež su přez graty synchronizowane
+sync-syncing-across-devices-empty-state2 =
+    .label = Synchronizowane daty rjadować
+    .description = Ničo njesynchronizujeće… hišće. Započńće synchronizować, zo byšće wšě waše daty na wšěch wašich gratach dóstał.
 sync-syncing-across-devices-empty-state =
     .label = Hišće njesynchronizujeće ničo…
     .description = Započńće synchronizować, zo byšće swoje daty na wšěch swojich gratach k dispoziciji měł
@@ -1290,6 +1298,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Synchronizowane daty rjadować
     .accesskey = S
+settings-sync-disconnect-button =
+    .label = Zwisk dźělić
 sync-change-options =
     .label = Změnić…
     .accesskey = Z

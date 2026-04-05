@@ -6,6 +6,8 @@ contextual-manager-filter-input =
     .placeholder = సంకేతపదాలను వెతుకు
     .key = F
     .aria-label = సంకేతపదాలను వెతుకు
+contextual-manager-menu-more-options-button =
+    .title = మరిన్ని ఎంపికలు
 contextual-manager-more-options-popup =
     .aria-label = మరిన్ని ఎంపికలు
 
@@ -75,6 +77,7 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] తొలగించు
        *[other] అన్నీ తొలగించు
     }
+contextual-manager-passwords-origin-label = వెబ్‌సైటు
 # The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
 contextual-manager-passwords-username-label = వాడుకరి పేరు
     .data-after = కాపీ అయ్యింది

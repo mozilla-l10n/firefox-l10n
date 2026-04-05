@@ -26,3 +26,6 @@ pending-crash-reports-send =
     .label = పంపించు
 pending-crash-reports-always-send =
     .label = ఎల్లప్పుడూ పంపించు
+requested-crash-reports-dont-show-again =
+    .label = మళ్ళీ చూపించకు
+    .accesskey = D

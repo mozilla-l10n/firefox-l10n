@@ -612,6 +612,16 @@ urlbar-result-realtime-opt-in-not-now = ఇప్పుడు కాదు
 
 ## These strings are used for suggestions of important dates in the urlbar.
 
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · { $daysUntilEnd } రోజులో ముగుస్తుంది
+       *[other] { $name } · { $daysUntilEnd } రోజుల్లో ముగుస్తుంది
+    }
 # The name of an event and a note that it is happening today separated by a
 # middot.
 # Variables:
@@ -744,6 +754,12 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] ఇష్టాంశాల పనిముట్లపట్టీని దాచు
            *[other] ఇష్టాంశాల పట్టీని చూడండి
         }
+bookmarks-tools-toolbar-visibility-panel =
+    .label =
+        { $isVisible ->
+            [true] ఇష్టాంశాల పట్టీని దాచు
+           *[other] ఇష్టాంశాల పట్టీని చూపించు
+        }
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
@@ -757,6 +773,8 @@ bookmarks-search =
     .label = ఇష్టాంశాలను వెతకండి
 bookmarks-tools =
     .label = ఇష్టాంశాల పనిముట్లు
+bookmarks-subview-edit-bookmark =
+    .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -1021,3 +1039,19 @@ file-picker-crashed-show-in-folder =
 trustpanel-header-enabled-insecure = ఈ సైటులో జాగ్రత్తగా ఉండండి
 trustpanel-privacy-link = అంతరంగిత అమరికలు
 trustpanel-clear-cookies-subview-button-cancel = రద్దుచేయి
+trustpanel-siteinformation-morelink = మరింత సైటు సమాచారం
+trustpanel-blocker-see-all = అన్నింటినీ చూడండి
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } సామాజిక మాధ్యమ ట్రాకర్
+       *[other] { $count } సామాజిక మాధ్యమ ట్రాకర్లు
+    }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } క్రిప్టోమైనర్
+       *[other] { $count } క్రిప్టోమైనర్లు
+    }
