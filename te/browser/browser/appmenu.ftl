@@ -23,6 +23,10 @@ appmenuitem-downloads =
     .label = దింపుకోళ్ళు
 appmenuitem-passwords =
     .label = సంకేతపదాలు
+appmenuitem-extensions-and-themes =
+    .label = పొడగింతలు, అలంకారాలు
+appmenuitem-extensions =
+    .label = పొడగింతలు
 appmenuitem-addons-and-themes =
     .label = పొడగింతలు, అలంకారాలు
 appmenuitem-print =
@@ -224,4 +228,8 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = మీ ఆన్‌లైన్ కార్యాచరణను సంరక్షించుకోండి
 appmenu-services-header = నా సేవలు
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = మొజిల్లా వారి ఇతర సంరక్షణ పనిముట్లను ప్రయత్నించండి:
 appmenu-other-protection-header = { -vendor-short-name } వారి ఇతర రక్షణ పనిముట్లని ప్రయత్నించండి:

@@ -117,6 +117,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name }— ఆంతరంగిక విహారణ
        *[other] { -brand-full-name } ఆంతరంగిక విహారణ
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = అంతరంగిక విహరణ
 
 ##
 
@@ -324,6 +327,8 @@ search-one-offs-actions =
 
 quickactions-cmd-addons2 = పొడగింతలు
 quickactions-cmd-bookmarks = ఇష్టాంశాలు
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = ఇటీవలి చరిత్రను తుడిచివేయి
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = చరిత్రను తుడిచివేయి
 quickactions-cmd-clearhistory = చరిత్రను తుడిచివేయి
@@ -649,6 +654,10 @@ urlbar-searchmode-new = కొత్తది
 urlbar-result-action-search-bookmarks = ఇష్టాంశాలను వెతకండి
 urlbar-result-action-search-history = చరిత్రలో వెతకండి
 urlbar-result-action-search-tabs = ట్యాబులలో వెతకండి
+urlbar-result-action-search-actions = వెతుకుడు చర్యలు
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = { $group }కి మారండి
 
 ## Labels shown above groups of urlbar results
 

@@ -16,6 +16,9 @@ all-tabs-menu-close-all-duplicate-tabs =
     .label = నకిలీ ట్యాబులన్నిటినీ మూసివేయి
 all-tabs-menu-synced-tabs =
     .label = ఇతర పరికరాల నుండి ట్యాబులు
+# "Recent" refers to tab groups being sorted in recently used order. We show up
+# to five of these in this section.
+all-tabs-menu-recent-tab-groups-header = ఇటీవలి ట్యాబు సమూహాలు
 all-tabs-menu-current-window-header = ప్రస్తుత కిటికీ
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =

@@ -410,6 +410,9 @@ quickactions-cmd-help = pomoc, podpěra
 # Opens the devtools web inspector
 quickactions-inspector2 = Wuwiwarske nastroje wočinić
 quickactions-cmd-inspector2 = inspektor, wuwiwarske nastroje, devtools
+# Opens Firefox Library
+quickactions-cmd-library = biblioteka
+quickactions-library = Biblioteku wočinić
 quickactions-cmd-inspector = inspektor, wuwiwarske nastroje
 # Opens about:logins
 quickactions-logins2 = Hesła rjadować

@@ -1142,6 +1142,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizować
+account-group-label2 =
+    .label = Konto
 account-group-label =
     .label = Konto { -vendor-short-name }
 account-placeholder =

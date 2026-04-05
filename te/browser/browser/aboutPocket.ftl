@@ -26,6 +26,8 @@ pocket-panel-saved-save-tags = భద్రపరచు
 pocket-panel-saved-saving-tags = భద్రమవుతోంది…
 pocket-panel-saved-suggested-tags = సూచించిన ట్యాగులు
 pocket-panel-saved-tags-saved = ట్యాగులు చేర్చబడ్డాయి
+# This is displayed above a field where the user can add tags
+pocket-panel-signup-add-tags = ట్యాగులు చేర్చండి:
 
 ## about:pocket-signup panel
 
