@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = WebExtension’ların chrome.storage.managed aracılığıyla ulaşabileceği ilkeleri ayarla.
+policy-AIControls = Yapay zekâ denetimlerini yapılandır.
 policy-AllowedDomainsForApps = Google Workspace’e erişim izni olan etki alanlarını tanımla.
 policy-AllowFileSelectionDialogs = Dosya seçme iletişim kutularına izin ver.
 policy-AppAutoUpdate = Otomatik uygulama güncellemesini aç veya kapat.

@@ -313,6 +313,8 @@ newtab-custom-shortcuts-toggle =
     .description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
 newtab-custom-shortcuts-nova =
     .label = Kısayollar
+newtab-custom-row-description =
+    .description = Satır sayısı
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -516,6 +518,12 @@ newtab-weather-opt-in-yes =
     .label = Evet
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Yüksek
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Düşük
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -735,6 +743,11 @@ newtab-daily-briefing-card-timestamp = { $minutes } dk. önce güncellendi
 newtab-widget-message-title = Listeler ve sayaçla işinize daha iyi odaklanın
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Küçük anımsatıcılar ve günlük görev listeleriyle, odaklanma oturumları ve molalarla zamanınızı daha iyi yönetin.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = { -brand-product-name } tarayıcınızı kişiselleştirin
+newtab-promo-card-body-addons = Koleksiyonumuzdan bir duvar kâğıdı seçin veya kendi duvar kâğıdınızı oluşturun.
 newtab-promo-card-cta-addons = Hemen deneyin
 newtab-promo-card-title = { -brand-product-name } tarayıcısını destekleyin
 newtab-promo-card-body = Sponsorlarımız daha iyi bir web inşa etme misyonumuzu destekliyor

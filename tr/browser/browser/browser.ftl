@@ -410,6 +410,9 @@ quickactions-cmd-help = yardım, destek
 # Opens the devtools web inspector
 quickactions-inspector2 = Geliştirici araçlarını aç
 quickactions-cmd-inspector2 = denetçi, geliştirici araçları, inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = arşiv
+quickactions-library = Arşivi aç
 quickactions-cmd-inspector = denetçi, geliştirici araçları
 # Opens about:logins
 quickactions-logins2 = Parolaları yönet

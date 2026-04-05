@@ -1134,6 +1134,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Eşitleme
+account-group-label2 =
+    .label = Hesap
 account-group-label =
     .label = { -vendor-short-name } hesabı
 account-placeholder =
@@ -1280,6 +1282,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Eşitlenen verileri yönet
     .accesskey = E
+settings-sync-disconnect-button =
+    .label = Bağlantıyı kes
 sync-change-options =
     .label = Değiştir…
     .accesskey = D
