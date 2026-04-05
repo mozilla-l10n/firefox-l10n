@@ -37,3 +37,21 @@ fxa-menu-send-tab-to-device-syncnotready =
 fxa-menu-send-tab-to-device-description = أرسِل اللسان مباشرةً إلى أي جهاز ولجت فيه.
 fxa-menu-sign-out =
     .label = اخرج…
+fxa-menu-sync-description = توصّل إلى الإنترنت من أي مكان
+fxa-avatar-sign-in = لِج
+fxa-avatar-sign-up = سجِّل
+fxa-avatar-tooltip =
+    .tooltiptext = لِج إلى حسابك
+sync-setup-verify-continue = واصِل
+sync-setup-verify-title = تحذير دمج
+sync-setup-verify-heading = أمتأكد أنك تريد الولوج إلى المزامنة؟
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = لِج مستخدم آخر مسبقًا للمزامنة على هذا الحاسوب. سيؤدي الولوج إلى دمج علامات هذا المتصفح وكلمات السر والإعدادات الأخرى مع { $email }
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = وصل إلى الحد الأقصى للحساب لهذا الملف الشخصي
