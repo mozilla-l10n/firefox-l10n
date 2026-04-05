@@ -63,6 +63,7 @@ client-auth-cert-details-issued-by = أصدرها: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = محفوظة في: { $storedOn }
+client-auth-cert-remember-label = تذكّر هذا القرار:
 
 ## Set password (p12) dialog
 
