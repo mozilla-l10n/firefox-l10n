@@ -2042,6 +2042,12 @@ space-alert-over-5gb-settings-button =
     .accesskey = ف
 space-alert-over-5gb-message2 = <strong>مساحة القرص قاربت على النفاذ من { -brand-short-name }</strong>. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”الإعدادات ← الخصوصية والأمان ← الكعكات وبيانات المواقع“.
 space-alert-under-5gb-message2 = <strong>مساحة القرص قاربت على النفاذ من { -brand-short-name }</strong>. قد لا يُعرض محتوى المواقع كما ينبغي. انتقل إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
+certs-view2 =
+    .label = أدر الشهادات
+    .accesskey = د
+certs-devices2 =
+    .label = أدر أجهزة الأمان
+    .accesskey = د
 
 ## Privacy Section - HTTPS-Only
 
@@ -2126,8 +2132,25 @@ preferences-doh-manage-exceptions =
 preferences-doh-manage-exceptions2 =
     .label = أدر الاستثناءات
     .accesskey = د
+preferences-doh-fallback-label =
+    .label = أبلغني دائمًا إذا لم يكن DNS الآمن متاحًا
+preferences-doh-status-item-off =
+    .message = DNS عبر HTTPS مُعطّل
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = يستخدم DNS عبر HTTPS المزود { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = يستخدم DNS عبر HTTPS المزود المحلي { $name }
 preferences-doh-select-resolver-label =
     .label = اختر المزود:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = استخدم هذا المزود لتحليل DNS عبر HTTPS
 preferences-doh-custom-provider-label =
     .aria-label = أدخل عنوان URL مخصصًا لمزود الخدمة
 preferences-doh-header2 =
@@ -2173,7 +2196,11 @@ preferences-ai-controls-state-description-before = معنى الخيارات:
 preferences-ai-controls-state-description-available = <strong>متاح:</strong> سترى الميزة ويمكنك استخدامها.
 preferences-ai-controls-state-description-enabled = <strong>مفعّل:</strong> لقد اخترت استخدام هذه الميزة.
 preferences-ai-controls-state-description-blocked = <strong>محجوب:</strong> لن تتمكن من رؤية هذه الميزة أو استخدامها. بالنسبة للذكاء الاصطناعي المُثبّت على الجهاز، ستتم إزالة أي نماذج نُزلت مسبقًا.
+preferences-ai-controls-block-confirmation-heading = احظر تحسينات الذكاء الاصطناعي؟
 preferences-ai-controls-block-confirmation-description = لن ترى أي تحسينات جديدة أو حالية للذكاء الاصطناعي في { -brand-short-name }، أو أي نوافذ منبثقة بشأنها. بعد ذلك، يمكنك إلغاء حظر أي شيء ترغب في الاستمرار باستخدامه.
+preferences-ai-controls-block-confirmation-features-start = ما الذي سيُحظر:
+preferences-ai-controls-block-confirmation-translations = الترجمات
+preferences-ai-controls-block-confirmation-pdfjs = نص بديل للصورة في عارض ملفات PDF { -brand-short-name }
 preferences-ai-controls-block-confirmation-tab-group-suggestions = اقتراحات مجموعات اللسان
 preferences-ai-controls-block-confirmation-key-points = أهم النقاط في معاينات الروابط
 preferences-ai-controls-block-confirmation-sidebar-chatbot = مزودي برامج الدردشة الآلية في الشريط الجانبي
@@ -2185,7 +2212,22 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } على الحراسة
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } يوصي ببعض التحسينات الأمنية
+security-privacy-status-ok-label = الحماية الموسّعة من التعقب مفعّلة
+security-privacy-status-problem-label = لقد وجدنا إعدادات تؤثر على حمايتك
 security-privacy-status-problem-helper-label = اعرض المشكلات
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = لديك <a data-l10n-name="strict-tracking-protection">حماية صارمة</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = لديك <a data-l10n-name="custom-tracking-protection">حماية مخصّصة</a>
+security-privacy-status-up-to-date-label = لديك أحدث وأكثر إصدارات { -brand-short-name } أمانًا
+security-privacy-status-update-needed-label = يتوفر إصدار جديد من { -brand-short-name } .
+security-privacy-status-update-error-label = { -brand-short-name } يواجه مشكلة في تحديث نفسه
+security-privacy-status-update-checking-label = { -brand-short-name } يتحقق من وجود تحديثات
+security-privacy-status-update-needed-description = حدِّث للحصول على أحدث التحديثات المتعلقة بالسرعة والاستقرار والأمان.
+security-privacy-status-update-button-label =
+    .label = حدِّث { -brand-short-name }
 security-privacy-image-ok =
     .alt = درع عليه علامة صح، مما يدل على عدم وجود أي مشكلات أمنية عالقة.
 security-privacy-issue-card =
@@ -2206,6 +2248,8 @@ preferences-etp-level-custom =
     .description = اختر الحمايات التي تريد تفعيلها أو إيقافها.
 preferences-etp-status-advanced-button =
     .label = إعدادات متقدّمة
+preferences-etp-header =
+    .heading = الحماية الموسّعة من التعقب
 preferences-etp-reload-tabs-hint-button =
     .label = أعِد تحميل كل الألسنة
 preferences-etp-rfp-warning-message =
