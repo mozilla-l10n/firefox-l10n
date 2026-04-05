@@ -1008,6 +1008,8 @@ search-one-click-desc = اختر محركات البحث البديلة التي
 search-one-click-header-3 =
     .label = محركات بحث إضافية
     .description = اختر محركات البحث والاختصارات التي تظهر في شريط العنوان لديك.
+search-edit-engine-2 =
+    .title = تعديل محرك البحث
 search-delete-engine =
     .title = احذف محرك البحث
 search-enable-engine =
@@ -1192,6 +1194,9 @@ sync-currently-syncing-settings = الإعدادات
 sync-manage-options =
     .label = أدر المزامنة…
     .accesskey = د
+sync-manage-options-2 =
+    .label = أدر البيانات المتزامنة
+    .accesskey = د
 settings-sync-disconnect-button =
     .label = اقطع الاتصال
 sync-change-options =
@@ -1340,6 +1345,9 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = املأ أسماء المستخدمين وكلمات السر تلقائيًا
     .accesskey = ر
+forms-fill-usernames-and-passwords-2 =
+    .label = احفظ أسماء المستخدمين وكلمات المرور واملأها تلقائيًا
+    .accesskey = ف
 forms-saved-passwords =
     .label = كلمات السر المحفوظة
     .accesskey = ت
@@ -1355,6 +1363,8 @@ forms-primary-pw-use =
     .accesskey = س
 forms-primary-pw-set =
     .label = عيِّن كلمة سر رئيسية
+forms-primary-pw-change-2 =
+    .label = غيّر كلمة السر الرئيسية
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = عطّله
@@ -2209,6 +2219,9 @@ preferences-etp-custom-control-group =
 
 ## Warnings section
 
+security-privacy-issue-warning-extension-install =
+    .label = يمكن للمواقع الإلكترونية تثبيت امتدادات.
+    .description = يمكن للمواقع الإلكترونية تثبيت امتدادات إلى { -brand-short-name } دون سؤال.
 security-privacy-issue-warning-safe-browsing =
     .label = لا يُحظر المحتوى الخطير والمضلل
     .description = تزداد احتمالية تعرضك لعمليات الاحتيال والبرمجيات الخبيثة من المواقع الإلكترونية.

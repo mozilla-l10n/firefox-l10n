@@ -196,6 +196,8 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = إعداد مسبق للتحرّي عن مشاكل الصوت والفيديو في { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = الوسائط
+profiler-popup-presets-ml-label =
+    .label = التعلم الآلي
 profiler-popup-presets-networking-description = إعداد مسبق للتحرّي عن مشاكل الشبكة في { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = الشبكة
@@ -288,6 +290,10 @@ appmenuitem-services-relay-description = إطلاق لوحة معلومات أق
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description = احمِ نشاطك على الإنترنت
 appmenu-services-header = خدماتي
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = جرّب أدوات الحماية الأخرى من Mozilla:
 appmenu-other-protection-header = جرّب أدوات حماية أخرى من { -vendor-short-name }:
 
 ## Profiles panel
@@ -295,6 +301,8 @@ appmenu-other-protection-header = جرّب أدوات حماية أخرى من {
 appmenu-other-profiles = ملفات تعريف أخرى
 appmenu-manage-profiles =
     .label = أدِر ملفات التعريف
+appmenu-copy-profile =
+    .label = انسخ هذا الملف الشخصي
 appmenu-create-profile =
     .label = ملف شخصي جديد
 appmenu-edit-profile =
