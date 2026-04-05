@@ -25,6 +25,8 @@ neterror-override-exception-button = أقبلُ المخاطرة فتابِع
 neterror-pref-reset-button = استرجع الإعدادات الأصلية
 neterror-return-to-previous-page-button = عُد للخلف
 neterror-return-to-previous-page-recommended-button = عُد للخلف (يُنصح به)
+neterror-try-again-button-2 = حاول مجددًا
+    .accesskey = و
 neterror-try-again-button = حاول مجددًا
 neterror-add-exception-button = واصِل دائمًا لهذا الموقع
 neterror-settings-button = غيّر إعدادات DNS
@@ -92,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = لم يتمكن { -brand
 
 neterror-file-not-found-filename = افحص اسم الملف بحثًا عن أخطاء في الكتابة.
 neterror-file-not-found-moved = تأكد أن الملف لم يُنقل، أو يتغير اسمه، أو يُحذف.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = لا يمكن ل { -brand-short-name } العثور على الملف في المسار <strong>{ $path }</strong>. إما أنه غير موجود أو أن المسار غير صحيح.
 neterror-file-not-found-what-can-you-do = إذا أدخلت العنوان يدويًا، فتحقق من وجود أخطاء في كتابة الأحرف الكبيرة أو الصغيرة أو الأخطاء الإملائية في اسم الملف أو مساره. إذا اتبعت علامة أو رابطًا محفوظًا، فقد يكون الملف قد نُقل أو أُعيد تسميته أو حُذف منذ حفظه. حاول العثور عليه باستخدام مدير الملفات أو من خلال بحث حديث.
 neterror-access-denied = قد يكون حُذِف أو نُقِل أو أن صلاحيّات الملف تمنع الوصول إليه.
 neterror-unknown-protocol = قد تحتاج تنصيب برمجيات أخرى لفتح هذا العنوان.
@@ -177,15 +182,23 @@ neterror-response-status-code = رمز الخطأ: { $responsestatus } { $respon
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = يبدو أن هناك مشكلة في اتصالك بالإنترنت
+fp-neterror-illustration-alt =
+    .alt = رسم توضيحي لثعلب ينظر إلى كابلات الشبكة المفصولة.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = لا يستطيع { -brand-short-name } عمل اتصال آمن بالخادم في { $hostname }.
 fp-neterror-offline-intro = لا يمكن لـ { -brand-short-name } الاتصال بالخادم على <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = يستغرق الخادم الموجود على <strong>{ $hostname }</strong> وقتًا طويلاً جدًا للاستجابة.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> أرسل خطأ.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = أعاد الخادم الموجود على <strong>{ $hostname }</strong> خطأً: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = لم تُحمّل هذه الصفحة بواسطة { -brand-short-name } لأن إعدادات الأمان لا تتطابق مع الصفحة السابقة.
 fp-neterror-http-auth-disabled-intro = قد يحاول شخص يتظاهر بأنه مسؤول عن الموقع سرقة أشياء مثل اسم المستخدم أو كلمة السر أو البريد الإلكتروني.
 fp-neterror-http-auth-disabled-secure-connection = يتطلب هذا الموقع اتصالاً آمناً، ولا يمكنك إضافة استثناء لزيارته.
@@ -193,8 +206,12 @@ fp-neterror-why-did-this-happen = لمَ حدث هذا؟
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = يبدو أن هذا الموقع يستخدم برنامجًا قديمًا به مشاكل أمنية معروفة.
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } لا يثق في { $hostname } لأن الاتصال غير آمن.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = استخدام أحدث إصدار من { -brand-short-name }. انتقل إلى "مساعدة" > "عن { -brand-short-name }" في القائمة. إذا كنت تستخدم أحدث إصدار، فمن المرجح أن المشكلة في الموقع نفسه.
 fp-neterror-offline-what-can-you-do-body = حاول الاتصال من جهاز آخر. تحقّق من المودم أو جهاز التوجيه. افصل اتصالك بالواي فاي وأعد الاتصال به.
 fp-neterror-http-auth-disabled-what-can-you-do-body = حاول تغيير عنوان الموقع إلى HTTPS. لكن من المحتمل أن تكون هناك مشكلة في الموقع نفسه.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = في بعض الأحيان، تقوم المواقع الإلكترونية بوضع إجراءات حماية لحماية نفسها من التفاعلات غير المرغوب فيها مع المواقع الأخرى.
 fp-learn-more-about-https-connections = تعرّف على اتصالات HTTPS
+fp-neterror-vpn-error-title = تعذّر الاتصال بشبكة VPN
+fp-neterror-vpn-error-description = حاول مرة أخرى بعد بضع دقائق.

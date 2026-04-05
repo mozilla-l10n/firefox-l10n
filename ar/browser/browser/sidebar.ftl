@@ -39,6 +39,8 @@ sidebar-history-sort-option-site =
     .label = الموقع
 sidebar-history-sort-option-date-and-site =
     .label = التاريخ والموقع
+sidebar-history-sort-option-last-visited =
+    .label = آخر زيارة
 
 ## Labels for sidebar search
 

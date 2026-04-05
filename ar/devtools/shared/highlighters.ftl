@@ -33,3 +33,6 @@ flextype-item = عنصر مرن
 flextype-dual = حاوٍ/عنصر مرن
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
 remote-node-picker-notice-action-desktop = انقر فوق عنصر لتحديده في الفاحص
+# Text displayed in a button inside the "simple-highlighters-message" toolbox
+# notification. "Settings" here refers to the DevTools settings panel.
+simple-highlighters-settings-button = افتح الإعدادات
