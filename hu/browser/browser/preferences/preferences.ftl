@@ -1136,11 +1136,16 @@ sync-group-label =
     .label = Szinkronizálás
 account-group-label2 =
     .label = Fiók
+account-placeholder2 =
+    .label = Nincs bejelentkezve
+    .description = Jelentkezzen be és tartsa biztonságban, titkosítva az adatait, és érje el mindenhol, ahol a { -brand-short-name }ot használja.
 account-group-label =
     .label = { -vendor-short-name }-fiók
 account-placeholder =
     .label = Nincs bejelentkezve
     .description = Jelentkezzen be, hogy biztonságban, titkosítva és az eszközei között szinkronizálva tartsa az adatait.
+account-sync-section =
+    .heading = Fiók és szinkronizálás
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
