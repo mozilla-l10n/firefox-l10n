@@ -1118,11 +1118,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Đồng bộ hóa
+account-group-label2 =
+    .label = Tài khoản
+account-placeholder2 =
+    .label = Bạn chưa đăng nhập
+    .description = Đăng nhập và giữ dữ liệu của bạn riêng tư, được mã hoá và có thể truy cập ngay lập tức mọi lúc mọi nơi bạn sử dụng { -brand-short-name }.
 account-group-label =
     .label = Tài khoản { -vendor-short-name }
 account-placeholder =
     .label = Bạn chưa đăng nhập
     .description = Đăng nhập để giữ dữ liệu của bạn riêng tư, được mã hóa và đồng bộ hóa trên các thiết bị.
+account-sync-section =
+    .heading = Tài khoản và đồng bộ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1245,6 +1252,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Bạn đang đồng bộ hóa các mục này trên tất cả các thiết bị được kết nối của mình:
 sync-syncing-across-devices-heading-2 = Dữ liệu được đồng bộ hóa trên các thiết bị.
+sync-syncing-across-devices-empty-state2 =
+    .label = Quản lý dữ liệu đã đồng bộ
+    .description = Bạn chưa đồng bộ… cái gì cả. Bắt đầu đồng bộ hoá để tất cả dữ liệu luôn sẵn sàng trên mọi thiết bị của bạn.
 sync-syncing-across-devices-empty-state =
     .label = Bạn chưa đồng bộ hóa bất cứ thứ gì…
     .description = Bắt đầu đồng bộ hóa để có được tất cả dữ liệu trên mọi thiết bị của bạn.
@@ -1264,6 +1274,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Quản lý dữ liệu đã đồng bộ hoá
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = Ngắt kết nối
 sync-change-options =
     .label = Thay đổi…
     .accesskey = C

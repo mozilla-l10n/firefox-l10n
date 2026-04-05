@@ -43,6 +43,10 @@ certificate-viewer-logid = ID bản ghi
 certificate-viewer-method = Phương thức
 certificate-viewer-modulus = Mô-đun
 certificate-viewer-name = Tên
+certificate-viewer-surname = Họ
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Tên (tên riêng)
 certificate-viewer-not-after = Hiệu lực đến
 certificate-viewer-not-before = Hiệu lực từ
 certificate-viewer-organization = Tổ chức

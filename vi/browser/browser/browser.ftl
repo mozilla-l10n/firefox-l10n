@@ -410,6 +410,9 @@ quickactions-cmd-help = trợ giúp, hỗ trợ, tro giup, ho tro
 # Opens the devtools web inspector
 quickactions-inspector2 = Mở Công cụ dành cho nhà phát triển
 quickactions-cmd-inspector2 = trình kiểm tra, trinh kiem tra, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = mo thu vien, thu vien, mở thư viện, thư viện, library
+quickactions-library = Mở thư viện
 quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra, nhà phát triển, nha phat trien
 # Opens about:logins
 quickactions-logins2 = Quản lý mật khẩu
