@@ -243,6 +243,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = لم يُعثر على كلمات السر
+contextual-manager-passwords-no-passwords-found-message-2 = حاول مصطلح آخر ثم ابحث مجددًا.
 contextual-manager-passwords-no-passwords-found-message = لم يُعثر على كلمات السر. ابحث عن مصطلح آخر وحاول مرة أخرى.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
@@ -263,5 +264,13 @@ contextual-manager-passwords-no-passwords-header-2 = احفظ كلمات سرك 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = إغلاق دون حفظ؟
+    .message = لن تُحفظ تغييراتك.
 contextual-manager-passwords-discard-changes-close-button = أغلق
 contextual-manager-passwords-discard-changes-go-back-button = عُد
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = لرؤية كلمات سرك المحفوظة، أدخل كلمة سرك الرئيسية.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = أدخل كلمة السر الرئيسية
+contextual-manager-primary-password-learn-more-link = اطّلع على المزيد

@@ -119,6 +119,8 @@ windows-10-eos-sync-urgency-subtitle-2 = حتى لو لم تستخدم { -brand-
 windows-10-eos-sync-new-device-title-1 = لا تخاطر بالبدء من جديد على جهازك التالي.
 windows-10-eos-sync-new-device-title-2 = هل تنتقل إلى جهاز جديد؟ لا تفقد ما يهمك.
 windows-10-eos-sync-new-device-primary-label = زامِن الآن
+windows-10-eos-sync-split-dismiss-button-show-fewer-option =
+    .label = أظهر توصيات أقل
 windows-10-eos-sync-dismiss-button-label = أهمِل
 windows-10-eos-sync-callout-primary-advance-button-label = التالي
 
@@ -176,6 +178,7 @@ sidebar-callout-survey-strongly-agree = أوافق بشدة
 sidebar-callout-survey-agree = أوافق
 sidebar-callout-survey-disagree = لا أوافق
 sidebar-callout-survey-strongly-disagree = لا أوافق أبدًا
+sidebar-callout-survey-split-view = اعرض أي موقعين على الوِب في منظور منقسم جنبًا إلى جنب في نفس الوقت
 sidebar-callout-survey-keep-website-open = أبقِ موقعًا إلكترونيًا، مثل البريد الإلكتروني أو التقويم، مفتوحًا في الشريط الجانبي أثناء التصفح.
 sidebar-callout-survey-none-of-above = لا شيء مما سبق
 sidebar-callout-survey-submit = أرسِل

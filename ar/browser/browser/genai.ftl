@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Generative AI (GenAI) Settings section
+
+genai-settings-chat-chatgpt-links = من خلال اختيار ChatGPT، فإنك توافق على <a data-l10n-name="link1">شروط الاستخدام</a> و<a data-l10n-name="link2">سياسة الخصوصية</a> الخاصة بـ OpenAI.
+genai-settings-chat-claude-links = من خلال اختيار Anthropic Claude، فإنك توافق على <a data-l10n-name="link1">شروط خدمة المستهلك</a>، و<a data-l10n-name="link2">سياسة الاستخدام</a>، و<a data-l10n-name="link3">سياسة الخصوصية</a> الخاصة بـ Anthropic.
+genai-settings-chat-copilot-links = من خلال اختيار Copilot، فإنك توافق على <a data-l10n-name="link1">شروط تجارب Copilot AI</a> و<a data-l10n-name="link2">بيان خصوصية Microsoft</a>.
+genai-settings-chat-gemini-links = من خلال اختيار Google Gemini، فإنك توافق على <a data-l10n-name="link1">شروط خدمة Google</a>، و<a data-l10n-name="link2">سياسة الاستخدام المحظورة للذكاء الاصطناعي التوليدي</a>، و<a data-l10n-name="link3">إشعار خصوصية تطبيقات Gemini</a>.
+genai-settings-chat-huggingchat-links = من خلال اختيار HuggingChat، فإنك توافق على <a data-l10n-name="link1">إشعار خصوصية HuggingChat</a> و<a data-l10n-name="link2">سياسة خصوصية Hugging Face</a>.
+genai-settings-chat-lechat-links = من خلال اختيار Le Chat Mistral، فإنك توافق على <a data-l10n-name="link1">شروط الخدمة</a> و<a data-l10n-name="link2">سياسة الخصوصية</a> الخاصة بـ Mistral AI.
+
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
 ## These prompts have been made concise and direct in English because some chatbot providers

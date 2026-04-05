@@ -362,6 +362,8 @@ windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }
+windows-10-eos-callout-addons-primary-button = شاهد اختياراتنا
+windows-10-eos-sync-callout-next-button = التالي
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 

@@ -395,6 +395,8 @@ multi-profile-callout-cta = أنشئ ملفًا شخصيًا
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = نزّل وزامِن وانطلق!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = امسح رمز QR لتنزيل تطبيق { -brand-product-name } للجوّال. بعد التثبيت، اختر "زامن مع الجوّال" للوصول إلى كلمات سرك وعلاماتك والمزيد أينما كنت.
 dismiss-button-label = أهمِل

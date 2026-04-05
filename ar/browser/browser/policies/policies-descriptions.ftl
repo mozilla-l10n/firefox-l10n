@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = ضبط السياسات التي يمكن لامتدادات الوِب WebExtensions الوصول إليها عبر chrome.storage.managed.
+policy-AllowedDomainsForApps = حدّد النطاقات المسموح لها بالوصول إلى مساحة عمل جوجل.
 policy-AllowFileSelectionDialogs = اسمح بحوارات اختيار الملف.
 policy-AppAutoUpdate = تفعيل/تعطيل تحديث التطبيق تلقائيًا.
 policy-AppUpdatePin = منع تحديث { -brand-short-name } خارج نطاق الإصدارة المحددة.
