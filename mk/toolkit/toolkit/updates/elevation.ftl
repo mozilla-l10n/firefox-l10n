@@ -16,3 +16,9 @@ elevation-more-elevated =
     инсталира следниот пат кога { -brand-short-name } ќе се стартува. Можете да го рестартирате
     { -brand-short-name } сега, да продолжите да работите и да го рестартирате подоцна или
     да ја одбиете оваа надградба.
+sandbox-missing-unprivileged-namespaces = Некои од безбедносните особености на { -brand-short-name } може да нудат помалку заштита на оперативниот систем што го користите.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Не покажувај повторно
+    .accesskey = Н
+sandbox-unprivileged-namespaces-howtofix = Повеќе информации
+sandbox-content-disabled-warning = Безбедносното игралиште е оневозможено. Вашата конфигурација не е поддржана и е помалку безбедна.
