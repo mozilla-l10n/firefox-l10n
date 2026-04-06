@@ -42,3 +42,6 @@ experimental-features-fx-web-apps =
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = مؤقت على { -firefox-home-brand-name }
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = القوائم والمؤقت على { -firefox-home-brand-name }
