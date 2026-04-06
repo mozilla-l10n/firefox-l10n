@@ -1191,11 +1191,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Усклађивање
+account-group-label2 =
+    .label = Налог
+account-placeholder2 =
+    .label = Није пријављени
+    .description = Пријавите се да би ваши подаци остали приватни, шифровани и у тренутку доступни тамо где користите { -brand-short-name }.
 account-group-label =
     .label = { -vendor-short-name } налог
 account-placeholder =
     .label = Нисте пријављени
     .description = Пријавите се да би ваши подаци били приватни, шифровани и усклађени на свим уређајима.
+account-sync-section =
+    .heading = Налог и усклађивање
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1337,6 +1344,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Управљај усклађеним подацима
     .accesskey = с
+settings-sync-disconnect-button =
+    .label = Прекини везу
 sync-change-options =
     .label = Промена…
     .accesskey = П

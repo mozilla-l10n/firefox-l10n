@@ -410,6 +410,9 @@ quickactions-cmd-help = помоћ, подршка
 # Opens the devtools web inspector
 quickactions-inspector2 = Отвори алатке за програмере
 quickactions-cmd-inspector2 = инспектор, алатке за програмере
+# Opens Firefox Library
+quickactions-cmd-library = библиотека,library,biblioteka
+quickactions-library = Отвори библиотеку
 quickactions-cmd-inspector = инспектор, алатке за програмере
 # Opens about:logins
 quickactions-logins2 = Управљај лозинкама
