@@ -1136,11 +1136,16 @@ sync-group-label =
     .label = Sincronização
 account-group-label2 =
     .label = Conta
+account-placeholder2 =
+    .label = Você não está conectado.
+    .description = Entre na sua conta e mantenha seus dados privativos, criptografados e acessíveis imediatamente onde quer que use o { -brand-short-name }.
 account-group-label =
     .label = Conta { -vendor-short-name }
 account-placeholder =
     .label = Você não está conectado.
     .description = Entre na sua conta para manter seus dados privativos, criptografados e sincronizados entre dispositivos.
+account-sync-section =
+    .heading = Conta e sincronização
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1263,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Estes itens estão sendo sincronizados em todos os seus dispositivos conectados:
 sync-syncing-across-devices-heading-2 = Dados sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state2 =
+    .label = Gerenciar dados sincronizados
+    .description = Você não tem nada sendo sincronizado… ainda. Inicie a sincronização para ter todos os seus dados em todos os seus dispositivos.
 sync-syncing-across-devices-empty-state =
     .label = Você não está sincronizando nada... ainda.
     .description = Comece a sincronizar para ter todos os seus dados em todos os seus dispositivos.
@@ -1282,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Gerenciar dados sincronizados
     .accesskey = G
+settings-sync-disconnect-button =
+    .label = Desconectar
 sync-change-options =
     .label = Alterar…
     .accesskey = A
