@@ -671,8 +671,12 @@ pdfjs-views-manager-view-selector-button =
     .title = Vizualizări
 pdfjs-views-manager-view-selector-button-label = Vizualizări
 pdfjs-views-manager-pages-title = Pagini
+pdfjs-views-manager-outlines-title1 = Structura documentului
+    .title = Structura documentului (dă dublu clic pentru extinderea/restrângerea elementelor)
 pdfjs-views-manager-outlines-title = Schiță document
 pdfjs-views-manager-attachments-title = Atașamente
+pdfjs-views-manager-layers-title1 = Straturi
+    .title = Straturi (dă dublu clic ca să resetezi toate straturile la starea implicită)
 pdfjs-views-manager-layers-title = Straturi
 pdfjs-views-manager-pages-option-label = Pagini
 pdfjs-views-manager-outlines-option-label = Schiță document
@@ -694,6 +698,7 @@ pdfjs-views-manager-pages-status-action-button-label = Gestionează
 pdfjs-views-manager-pages-status-copy-button-label = Copiază
 pdfjs-views-manager-pages-status-cut-button-label = Taie
 pdfjs-views-manager-pages-status-delete-button-label = Șterge
+pdfjs-views-manager-pages-status-export-selected-button-label = Exportă selecția…
 pdfjs-views-manager-pages-status-save-as-button-label = Salvează ca…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
@@ -726,9 +731,22 @@ pdfjs-views-manager-status-warning-copy-label = Nu s-a putut copia. Reîmprospă
 pdfjs-views-manager-status-warning-delete-label = Nu s-a putut șterge. Reîmprospătează pagina și încearcă din nou.
 pdfjs-views-manager-status-warning-save-label = Nu s-a putut salva. Reîmprospătează pagina și încearcă din nou.
 pdfjs-views-manager-status-undo-button-label = Anulează
+pdfjs-views-manager-status-done-button-label = Terminat
 pdfjs-views-manager-status-close-button =
     .title = Închide
 pdfjs-views-manager-status-close-button-label = Închide
+pdfjs-views-manager-paste-button-label = Lipește
+pdfjs-views-manager-paste-button-before =
+    .title = Inserează înainte de prima pagină
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Inserează după pagina { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = NOU
+pdfjs-toggle-views-manager-button1 =
+    .title = Gestionează paginile
 
 ## Main menu for adding/removing signatures
 
