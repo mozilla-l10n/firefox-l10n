@@ -1771,7 +1771,7 @@ trustpanel-tracking-header =
        *[no-cases] Aplikace { -brand-product-name } povolila tyto věci, aby se stránky nerozbily:
     }
 trustpanel-tracking-description = Bez sledovacích prvků nemusí některá tlačítka, formuláře a přihlašovací údaje správně fungovat.
-trustpanel-insecure-section-header = Vaše připojení není zabezpečené
+trustpanel-insecure-section-header = Vaše spojení není zabezpečené
 trustpanel-insecure-description = Data, která posíláte na tento server, nejsou šifrována. Může být viděn, ukraden nebo pozměněn.
 trustpanel-list-label-tracking-cookies =
     { $count ->
