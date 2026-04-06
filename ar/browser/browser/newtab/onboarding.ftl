@@ -290,6 +290,8 @@ mr2022-onboarding-pin-image-alt =
     .aria-label = شخص يعمل على حاسوب محمول محاط بالنجوم والزهور
 mr2022-onboarding-default-image-alt =
     .aria-label = شخص يعانق شعار { -brand-product-name }
+mr2022-onboarding-mobile-download-image-alt =
+    .aria-label = ضفادع تقفز فوق أوراق زنبق الماء، وفي المنتصف رمز QR لتنزيل تطبيق { -brand-product-name } للجوّال.
 
 ## Device migration onboarding
 

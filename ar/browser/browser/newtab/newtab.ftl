@@ -462,8 +462,11 @@ newtab-custom-wallpaper-cta = جربه
 
 ## Strings for download mobile highlight
 
+newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = افحص الرمز للتصفح بشكل آمن أثناء التنقل.
+newtab-download-mobile-highlight-image =
+    .aria-label = رمز QR لتنزيل { -brand-product-name } للجوال
 
 ## Strings for reporting issues with ads and content
 
