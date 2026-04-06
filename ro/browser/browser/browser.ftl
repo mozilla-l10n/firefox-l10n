@@ -410,6 +410,9 @@ quickactions-cmd-help = ajutor, asistență
 # Opens the devtools web inspector
 quickactions-inspector2 = Deschide instrumentele pentru dezvoltatori
 quickactions-cmd-inspector2 = inspector, instrumente de dezvoltare
+# Opens Firefox Library
+quickactions-cmd-library = bibliotecă
+quickactions-library = Bibliotecă deschisă
 quickactions-cmd-inspector = inspector, instrumente de dezvoltare
 # Opens about:logins
 quickactions-logins2 = Gestionează parolele

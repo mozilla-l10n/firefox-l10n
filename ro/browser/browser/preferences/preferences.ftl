@@ -1138,11 +1138,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizare
+account-group-label2 =
+    .label = Cont
+account-placeholder2 =
+    .label = Nu ești autentificat(ă)
+    .description = Intră în cont și păstrează-ți datele private, criptate și accesibile instant oriunde folosești { -brand-short-name }.
 account-group-label =
     .label = Cont { -vendor-short-name }
 account-placeholder =
     .label = Nu ești autentificat(ă).
     .description = Intră în cont ca să îți păstrezi datele private, criptate și sincronizate pe toate dispozitivele.
+account-sync-section =
+    .heading = Cont și sincronizare
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1265,6 +1272,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Sincronizezi aceste elemente pe toate dispozitivele tale conectate:
 sync-syncing-across-devices-heading-2 = Date sincronizate pe dispozitive
+sync-syncing-across-devices-empty-state2 =
+    .label = Gestionează datele sincronizate
+    .description = Nu sincronizezi nimic… încă. Începe să sincronizezi ca să ai toate datele pe toate dispozitivele.
 sync-syncing-across-devices-empty-state =
     .label = Nu sincronizezi nimic… încă.
     .description = Începe să sincronizezi ca să obții toate datele pe toate dispozitivele.
@@ -1284,6 +1294,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Gestionează datele sincronizate
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = Deconectare
 sync-change-options =
     .label = Modifică…
     .accesskey = C
