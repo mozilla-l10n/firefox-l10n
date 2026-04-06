@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Fă o priorita
 experimental-features-semantic-history-search =
     .label = Căutare istorică semantică
 experimental-features-semantic-history-search-description = Folosește un model local de învățare automată pentru a sugera intrări din istoric care sunt legate de căutările tale, pe baza înțelegerii limbajului natural din bara de adrese { -brand-product-name }. <a data-l10n-name="connect">Trimite feedback</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Note file
+experimental-features-tab-notes-description = Notele despre file sunt o funcționalitate experimentală care te lasă să adaugi note adezive la filele din browser. Fă adnotări despre context, memento-uri sau pașii următori ca să îți amintești de ce ai deschis o filă când revii pe ea. Ne-ar plăcea să ne dai feedback pe măsură ce continuăm să îmbunătățim această funcționalitate. <a data-l10n-name="connect">Dă-ne feedback</a>

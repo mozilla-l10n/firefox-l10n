@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Traducerea nu este disponibilă pe acest dispozitiv.
     .message = Încearcă pe alt dispozitiv.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Nu sunt disponibile traduceri pentru organizația ta
+    .message = Este o politică setată de administratorul tău.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Deblochează funcția pentru traduceri de texte
+    .message = Se pare că ai actualizat comenzile AI ca să blocheze funcția. Deblocheaz-o în orice moment ca să începi să o utilizezi.
+about-translations-feature-blocked-unblock-button = Deblochează
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Nu s-au putut încărca limbile
@@ -25,6 +34,16 @@ about-translations-language-load-error-message =
     .heading = Nu s-au putut încărca limbile.
     .message = Verifică-ți conexiunea la internet și încearcă din nou.
 about-translations-language-load-error-button = Încearcă din nou
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = A apărut o problemă la traducere
+about-translations-translation-error-subtext = Te rugăm să încerci din nou.
+about-translations-translation-error-button = Încearcă din nou
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Ne pare rău, încă nu oferim traduceri din { $language }
+about-translations-detected-language-unsupported-heading-unknown-2 = Ne pare rău, încă nu oferim traduceri din această limbă
+about-translations-detected-language-unsupported-subtext = Te rugăm să alegi altă limbă.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Adaugă text de tradus

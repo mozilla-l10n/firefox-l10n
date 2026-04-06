@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Deschide site-ul într-o fereastră no
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Pentru a-ți proteja securitatea, { $hostname } nu va permite { -brand-short-name } să afișeze pagina dacă a fost încorporată de alt site. Pentru a vedea această pagină, trebuie să o deschizi într-o fereastră nouă.
 fp-certerror-view-certificate-link = Vezi certificatul site-ului
+fp-certerror-return-to-previous-page-recommended-button-2 = Înapoi (Recomandat)
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Întoarce-te (Recomandat)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Un program împiedică { -brand-short-name } să se conec
 
 fp-certerror-page-title = Avertisment: Risc de securitate
 fp-certerror-body-title = Ai grijă. Ceva nu pare în regulă.
+fp-certerror-illustration-alt =
+    .alt = Ilustrație cu o vulpe care se uită la un semn de avertizare portocaliu.
 fp-certerror-why-site-dangerous = Ce face ca site-ul să pară periculos?
 fp-certerror-what-can-you-do = Ce poți face?
 fp-certerror-advanced-title = Avansat
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Continuă către { $hostname } (Riscant
 fp-certerror-intro = { -brand-short-name } a observat o problemă de securitate potențial gravă cu <strong>{ $hostname }</strong>. Cineva care se preface a fi site-ul ar putea încerca să fure informații precum datele cardului de credit, parole sau adrese de e-mail.
 fp-certerror-expired-into = { -brand-short-name } a observat o problemă de securitate cu <strong>{ $hostname }</strong>. Fie site-ul nu este configurat corect, fie ceasul dispozitivului este setat greșit.
 fp-certerror-transparency-intro = Cineva care pretinde a fi <strong>{ $hostname }</strong> ar putea încerca să fure ceva cum ar fi informații despre cardul de credit, parole sau e-mailuri.
+fp-certerror-override-exception-button-2 = Mergi la { $hostname } (Riscant)
+    .accesskey = P

@@ -201,6 +201,19 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniatura paginii { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Selectează pagina { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Selectează pagina { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Pagina { $page } din { $total }
 
 ## Find panel button title and messages
 
@@ -648,9 +661,12 @@ pdfjs-toggle-views-manager-button =
     .title = Comută bara laterală
 pdfjs-toggle-views-manager-notification-button =
     .title = Comută bara laterală (documentul conține miniaturi/schițe/atașamente/straturi)
+pdfjs-toggle-views-manager-button1-label = Gestionează paginile
 pdfjs-toggle-views-manager-button-label = Comută bara laterală
 pdfjs-views-manager-sidebar =
     .aria-label = Bară laterală
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Redimensionare bară laterală
 pdfjs-views-manager-view-selector-button =
     .title = Vizualizări
 pdfjs-views-manager-view-selector-button-label = Vizualizări

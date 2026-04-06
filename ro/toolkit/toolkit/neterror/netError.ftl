@@ -25,6 +25,8 @@ neterror-override-exception-button = Acceptă riscul și continuă
 neterror-pref-reset-button = Restaurează setările implicite
 neterror-return-to-previous-page-button = Întoarce-te
 neterror-return-to-previous-page-recommended-button = Întoarce-te (Recomandat)
+neterror-try-again-button-2 = Încearcă din nou
+    .accesskey = T
 neterror-try-again-button = Încearcă din nou
 neterror-add-exception-button = Continuă întotdeauna pentru acest site
 neterror-settings-button = Modifică setările DNS
@@ -92,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nu
 
 neterror-file-not-found-filename = Verifică numele fișierului - să nu aibă erori de majuscule/minuscule sau alte erori de tastare.
 neterror-file-not-found-moved = Verifică fișierul - să nu fi fost mutat, redenumit sau șters.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } nu poate găsi fișierul de la <strong>{ $path }</strong>. Ori nu există, ori calea este incorectă.
+neterror-file-not-found-what-can-you-do = Dacă ai tastat manual adresa, verifică pentru erori de majuscule și minuscule sau erori de tastare din denumirea fișierului sau a căii. Dacă ai urmat un marcaj salvat sau un link, este posibil ca fișierul să fi fost mutat, redenumit sau șters de la salvare. Încearcă să îl găsești folosind gestionarul de fișiere sau prin căutările recente.
 neterror-access-denied = Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.
 neterror-unknown-protocol = S-ar putea să fie necesară instalarea altui program pentru a deschide această adresă.
 neterror-redirect-loop = Această problemă poate fi uneori cauzată de dezactivarea sau refuzarea acceptării de cookie-uri.
@@ -176,15 +182,23 @@ neterror-response-status-code = Cod de eroare: { $responsestatus } { $responsest
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Se pare că ai o problemă cu conexiunea la internet
+fp-neterror-illustration-alt =
+    .alt = Ilustrație cu o vulpe care se uită la cabluri de rețea deconectate.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nu poate crea o conexiune securizată la serverul de la { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } nu se poate conecta la serverul de la <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Serverului de la <strong>{ $hostname }</strong> îi ia prea mult ca să răspundă.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> a returnat o eroare.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Serverul de la <strong>{ $hostname }</strong> a returnat o eroare: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } nu a încărcat pagina deoarece se pare că configurația de securitate nu corespunde cu pagina anterioară.
 fp-neterror-http-auth-disabled-intro = Cineva care pretinde a fi site-ul ar putea încerca să fure ceva, cum ar fi numele de utilizator, parola sau adresa de e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Site-ul necesită o conexiune securizată și nu poți adăuga o excepție ca să intri pe el.
@@ -199,3 +213,5 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Încearcă să schimbi adr
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Uneori, site-urile web configurează protecții pentru ele însele împotriva interacțiunilor nedorite cu alte site-uri.
 fp-learn-more-about-https-connections = Află mai multe despre conexiunile HTTPS
+fp-neterror-vpn-error-title = Nu s-a putut conecta la VPN
+fp-neterror-vpn-error-description = Încearcă din nou în câteva minute.
