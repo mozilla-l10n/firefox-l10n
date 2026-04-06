@@ -84,6 +84,8 @@ add-engine-invalid-url = Esa URL no parece correcta. Por favor, revísala e int�
 add-engine-invalid-protocol = Esa URL no parece correcta. Usa una que comience con http o https.
 # This error is shown when the user typed URL is missing %s.
 add-engine-missing-terms-url = Intenta incluir %s en lugar del término de búsqueda.
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = Intenta incluir %s en lugar del término de búsqueda.
 
 ## The following strings are used as labels for the dialog's buttons.
 
