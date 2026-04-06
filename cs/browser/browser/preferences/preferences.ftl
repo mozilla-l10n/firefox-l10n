@@ -935,7 +935,7 @@ network-proxy-group2 =
     .label = Nastavení proxy
     .description = Určete, jak se má { -brand-short-name } připojovat k internetu.
 network-proxy-connection-settings2 =
-    .label = Konfigurace proxy
+    .label = Konfigurace proxy serveru
     .description = Změna těchto nastavení může způsobit problémy s připojením
     .accesskey = K
 
