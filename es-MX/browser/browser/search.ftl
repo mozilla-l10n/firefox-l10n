@@ -95,3 +95,9 @@ add-engine-dialog2 =
     .buttonlabelaccept = Agregar motor de búsqueda
     .buttonaccesskeyaccept = A
     .buttonlabelextra1 = Avanzado
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Guardar buscador
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra1 = Avanzado

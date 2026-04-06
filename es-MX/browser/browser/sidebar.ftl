@@ -120,6 +120,10 @@ sidebar-history-context-menu-delete-pages =
 
 ## Labels for sidebar bookmarks context menu items
 
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Editar marcador…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Eliminar marcador
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Eliminar
 

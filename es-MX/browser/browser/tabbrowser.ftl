@@ -253,6 +253,10 @@ tab-group-editor-color-selector2-gray = Gris
 tab-group-editor-color-selector2-red = Rojo
     .title = Rojo
 tab-group-description = { $tabGroupName } — Grupo de pestañas
+tab-group-label-tooltip-collapsed = { $tabGroupName } — Contraído
+tab-group-label-tooltip-expanded = { $tabGroupName } — Expandido
+tab-group-preview-name =
+    .aria-label = Pestañas en un grupo contraído
 tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre
@@ -279,6 +283,22 @@ tab-context-move-tab-to-group =
             [1] Agregar pestaña a grupo
             [one] Agregar pestaña a grupo
            *[other] Agregar pestañas a grupo
+        }
+    .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Agregar vista dividida a un grupo nuevo
+            [one] Agregar vistas divididas a un grupo nuevo
+           *[other] Agregar vistas divididas a un grupo nuevo
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Agregar vista dividida al grupo
+            [one] Agregar vistas divididas al grupo
+           *[other] Agregar vistas divididas al grupo
         }
     .accesskey = G
 tab-context-move-tab-to-group-saved-groups =
@@ -372,6 +392,16 @@ tab-note-editor-button-save =
 tab-note-preview-expand = Leer más
 tab-note-panel-add-note-new-badge =
     .label = Nuevo
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } caracter
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } caracteres
+    }
 
 ## Split View
 
@@ -387,7 +417,23 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separar vista dividida
     .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Invertir orden de las pestañas
+    .accesskey = r
 tab-context-badge-new = Nuevo
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, vista dividida izquierda
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, vista dividida derecha
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
