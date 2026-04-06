@@ -411,7 +411,7 @@ quickactions-cmd-help = aide, assistance
 quickactions-inspector2 = Ouvrir les outils de développement
 quickactions-cmd-inspector2 = inspecteur, outils de développement
 # Opens Firefox Library
-quickactions-cmd-library = library
+quickactions-cmd-library = bibliothèque
 quickactions-library = Ouvrir la bibliothèque
 quickactions-cmd-inspector = inspecteur, outils de développement
 # Opens about:logins
