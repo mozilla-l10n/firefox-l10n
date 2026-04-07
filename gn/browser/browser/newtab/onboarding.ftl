@@ -544,6 +544,7 @@ restore-from-backup-secondary-top-button = Erujey tekorosãrã ñongatuha guive
 restore-from-backup-title = Toiko ko { -brand-short-name }-gui eipotahaichaite
 restore-from-backup-subtitle = Erujey techaukaha, tembiasakue ha ambue mba’ekuaarã eike hag̃ua ñandutípe.
 restore-from-backup-secondary-button = Ani eguerujey
+multiple-backups-info-tile = <strong>Ojejuhu heta maranduranda ykekoháva.</strong> Ojeporavóma maranduranda ipyahuvéva. Emyatyrõkuaa ambue mba’ete <a data-l10n-name="settings-label">Moĩporã.</a>-pe.
 
 ## Restored from Backup spotlight
 
