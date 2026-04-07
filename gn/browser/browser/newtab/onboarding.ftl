@@ -582,6 +582,7 @@ onboarding-refresh-import-subtitle = Eru ne ñe’ẽñemieta, techaukaha, tembi
 onboarding-refresh-import-title = Eiko { -brand-short-name } ndive nde rogapeguáicha.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Emboha’eve ne ñeikundaha
+onboarding-refresh-sync-subtitle = Eike techaukaha, ñe’ẽñemi ha hetave oimeraẽ hendágui eikehague { -brand-short-name }-pe. Avei, umi mba’ekuaarã ipapapy neañoite ehecha hag̃uáicha.
 onboarding-refresh-sync-title = Oimeraẽ hendápe. Oñembojuehepa.
 onboarding-refresh-gratitude-subtitle = Aguyje eiporu haguére { -brand-short-name }, kundahára guasu oykekóva peteĩ atyguasu vivu’ỹguáva. Nepytyvõ rupive, romba’apo Ñanduti hekorosã ha ijuruja hag̃ua opavavetépe g̃uarã.
 # "has your back" is an idiom suggesting support and protection
