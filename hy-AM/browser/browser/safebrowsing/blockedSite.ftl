@@ -51,3 +51,9 @@ safeb-blocked-harmful-page-learn-more = Իմացեք ավելին { -brand-short
 safeb-palm-notdeceptive =
     .label = Սա խաբուսիկ կայք չէ...
     .accesskey = խ
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc3-override = <strong>Ի՞նչ կարող եք անել։</strong>
