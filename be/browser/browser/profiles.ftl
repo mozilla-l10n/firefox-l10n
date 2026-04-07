@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Скончыць рэдагаванне
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Ваша копія «{ $profilename }» гатовая да персаналізацыі
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Ваша копія { $profilename } гатовая да персаналізацыі
 copied-profile-page-header-description = Мы скапіравалі вашы дадзеныя і налады ў новы профіль. Цяпер дайце яму назву, выберыце выгляд і зрабіце яго сваім.
 restored-profile-page-header = Уладкаванне адноўленага профілю

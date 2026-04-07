@@ -1138,11 +1138,15 @@ containers-remove-button =
 
 sync-group-label =
     .label = Сінхранізацыя
+account-group-label2 =
+    .label = Уліковы запіс
 account-group-label =
     .label = Уліковы запіс { -vendor-short-name }
 account-placeholder =
     .label = Вы не ўвайшлі
     .description = Увайдзіце, каб трымаць свае звесткі прыватнымі, зашыфраванымі і сінхранізаванымі паміж прыладамі.
+account-sync-section =
+    .heading = Уліковы запіс і сінхранізацыя
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1284,6 +1288,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Кіраваць сінхранізаванымі дадзенымі
     .accesskey = ь
+settings-sync-disconnect-button =
+    .label = Адлучыцца
 sync-change-options =
     .label = Змяніць…
     .accesskey = м
