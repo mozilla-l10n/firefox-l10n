@@ -75,6 +75,10 @@ fp-certerror-view-certificate-link = Ehecha tenda kuatia’atã
 fp-certerror-return-to-previous-page-recommended-button-2 = Eguevi (ñemoñe’ẽmbyre)
     .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Eguevi (ñemoñe’ẽmbyre)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } ojoko nde jeike ko tendápe upe kuatia’atã oñeme’ẽva { $hostname }-pe g̃uarã oguenohẽkuri mburuvicha kuatia’atã omoheñóiva ndojejeroviavéima hese.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-untrusted-issuer-what-can-you-do-body = Ikatu hína mba’eve, ha’ete ku oĩva peteĩ apañuái pe tenda ndive. Eporandukuaa pe ñanduti rogue jára ndive ehecha hag̃ua omba’apopahína pe apañuái rehe.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
