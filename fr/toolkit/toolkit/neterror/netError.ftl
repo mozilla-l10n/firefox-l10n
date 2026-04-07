@@ -96,8 +96,8 @@ neterror-file-not-found-filename = Vérifiez la syntaxe du nom de fichier (dont 
 neterror-file-not-found-moved = Vérifiez si le fichier n’a pas été déplacé, renommé ou supprimé.
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
-neterror-file-not-found-intro = { -brand-short-name } ne peut trouver le fichier situé à l’emplacement <strong>{ $path }</strong>. Soit il n’existe pas, soit le chemin est incorrect.
-neterror-file-not-found-what-can-you-do = Si vous avez saisi l’adresse manuellement, vérifiez qu’il n’y a pas d’erreur de majuscule ou de faute de frappe dans le nom ou le chemin du fichier. Si vous avez suivi un marque-page ou un lien enregistré, le fichier a peut-être été déplacé, renommé ou supprimé depuis son enregistrement. Essayez de le localiser en utilisant votre gestionnaire de fichiers ou en effectuant une recherche récente.
+neterror-file-not-found-intro = { -brand-short-name } ne parvient pas à trouver le fichier situé à l’emplacement <strong>{ $path }</strong>. Soit il n’existe pas, soit le chemin est incorrect.
+neterror-file-not-found-what-can-you-do = Si vous avez saisi l’adresse manuellement, vérifiez qu’il n’y a pas d’erreur de majuscule ou de faute de frappe dans le nom ou le chemin du fichier. Si vous avez suivi un marque-page ou un lien enregistré, le fichier a peut-être été déplacé, renommé ou supprimé depuis son enregistrement. Essayez de le localiser en utilisant votre gestionnaire de fichiers ou en effectuant une recherche parmi les fichiers récents.
 neterror-access-denied = Il a peut-être été supprimé, déplacé ou les permissions associées au fichier ne permettent pas d’y accéder.
 neterror-unknown-protocol = Il est peut-être nécessaire d’installer une autre application pour ouvrir ce type d’adresse.
 neterror-redirect-loop = La cause de ce problème peut être la désactivation ou le refus des cookies.
