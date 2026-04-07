@@ -68,6 +68,7 @@ split-dismiss-button-default-label =
 
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = أتريد إضافة هذا الموقع إلى شريط العلامات؟
 bookmarks-toolbar-callout-1-primary-button-label = أضِف علامة
 bookmarks-toolbar-callout-1-secondary-button-label = لا، شكرًا
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders

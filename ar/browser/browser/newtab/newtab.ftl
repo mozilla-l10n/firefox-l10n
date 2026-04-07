@@ -486,6 +486,8 @@ newtab-report-cancel = ألغِ
 newtab-report-submit = أرسِل
 newtab-toast-thanks-for-reporting =
     .message = شكرا لك على الإبلاغ عن هذا.
+newtab-toast-widgets-hidden =
+    .message = حدّد رمز القلم لإضافة الأدوات مرة أخرى في أي وقت.
 
 ## Strings for task / to-do list productivity widget
 
@@ -503,6 +505,7 @@ newtab-widget-lists-menu-hide = أخفِ جميع القوائم
 newtab-widget-lists-menu-learn-more = اطّلع على المزيد
 newtab-widget-lists-input-add-an-item =
     .placeholder = أضف عنصر
+newtab-widget-lists-input-error = يُرجى إدخال نص لإضافة عنصر.
 newtab-widget-lists-input-menu-delete = احذف
 newtab-widget-lists-input-menu-edit = حرّر
 newtab-widget-lists-name-placeholder-default =
@@ -526,3 +529,10 @@ newtab-promo-card-cta = اطّلع على المزيد
 newtab-promo-card-dismiss-button =
     .title = أهمِل
     .aria-label = أهمِل
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+newtab-activation-window-message-customization-focus-message = اختر خلفية جديدة، وأضف اختصارات لمواقعك المفضلة، وابقَ على اطلاع دائم بالقصص التي تهمك.

@@ -33,6 +33,7 @@ edit-profile-page-delete-button =
 avatar-selector-custom-tab = مخصّص
 avatar-selector-cancel-button =
     .label = ألغِ
+avatar-selector-add-image = أضِف صورة
 edit-profile-page-profile-saved = حُفظت
 new-profile-page-title = ملف شخصي جديد
 new-profile-page-header = خصّص ملفك الشخصي الجديد
@@ -56,6 +57,9 @@ delete-profile-windows = النوافذ المفتوحة
 delete-profile-tabs = الألسنة المفتوحة
 delete-profile-bookmarks = العلامات
 delete-profile-logins = كلمات السر
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = احذف الملف الشخصي "{ $profilename }"
 
 ##
 

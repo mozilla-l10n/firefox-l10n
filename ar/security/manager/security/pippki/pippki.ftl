@@ -15,6 +15,7 @@ change-password-old = كلمة السر الحالية:
 change-password-new = كلمة السر الجديدة:
 change-password-reenter = كلمة السر الجديدة (مرة ثانية):
 pippki-incorrect-pw = لم تُدخل كلمة السر الرئيسية الصحيحة. رجاءً أعِد المحاولة.
+pippki-pw-erased-ok = حذفت كلمة سرك. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 

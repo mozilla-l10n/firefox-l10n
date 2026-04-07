@@ -1440,6 +1440,7 @@ autofill-payment-methods-manage-payments-title =
 autofill-payment-methods-manage-payments-button =
     .label = أدر طرق الدفع
     .accesskey = د
+autofill-payment-methods-add-button = أضف طريقة دفع جديدة
 payments-list-header =
     .label = طرق الدفع
 payments-delete-payment-prompt-title = حذف طريقة الدفع هذه؟
@@ -1449,6 +1450,12 @@ payments-delete-payment-button-label =
     .aria-label = احذف
 payments-edit-payment-button-label =
     .aria-label = حرّر
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = لم تُضاف أي طُرق دفع
+autofill-addresses-manage-addresses-button =
+    .label = أدر العناوين والمزيد
+    .accesskey = د
 addresses-list-header =
     .label = العناوين
 addreses-delete-address-button-label =
@@ -1461,6 +1468,9 @@ addresses-delete-address-prompt-cancel-button = ألغِ
 autofill-addresses-add-button = أضِف عنوانًا جديدًا
 autofill-addresses-manage-addresses-title =
     .heading = أدر العناوين والمزيد
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = لم تُضاف أي عناوين
 # These values are displayed for each address record listed on the "Manage addresses and more" subpage.
 # Variables:
 #   $name (string) - The name associated with the address
@@ -1637,6 +1647,8 @@ addressbar-header = شريط العناوين
 addressbar-suggest = عند استخدام شريط العناوين، اقترح
 # When Firefox Suggest is enabled, this replaces `addressbar-header`.
 addressbar-header-firefox-suggest = شريط العناوين — { -firefox-suggest-brand-name }
+# When Firefox Suggest is enabled, this replaces `addressbar-suggest`.
+addressbar-suggest-firefox-suggest = اختر نوع الاقتراحات التي تظهر في شريط العناوين.
 # When Firefox Suggest is enabled, a "Learn more" link appears at the end of
 # `addressbar-suggest-firefox-suggest`.
 addressbar-locbar-firefox-suggest-learn-more = اطّلع على المزيد

@@ -105,11 +105,17 @@ sidebar-context-menu-unpin-extension =
 
 ## Labels for sidebar history context menu items
 
+sidebar-history-context-menu-delete-page-2 =
+    .label = احذف الصفحة من التأريخ
 sidebar-history-context-menu-bookmark-page =
     .label = علِّم الصفحة…
+sidebar-history-context-menu-delete-pages =
+    .label = احذف الصفحات من التأريخ
 
 ## Labels for sidebar bookmarks context menu items
 
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = احذف العلامة
 sidebar-bookmarks-context-menu-delete-separator =
     .label = احذف
 

@@ -31,6 +31,7 @@ return-to-amo-extension-install-complete-label = ثُبتت الامتداد
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 mr1-return-to-amo-subtitle = رحّب بـ{ -brand-short-name }
+mr1-return-to-amo-addon-title = لديك متصفح سريع وخاص في متناول يديك. الآن يمكنك إضافة <b>{ $addon-name }</b> والقيام بالمزيد باستخدام { -brand-short-name }.
 mr1-return-to-amo-add-extension-label = أضف { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)

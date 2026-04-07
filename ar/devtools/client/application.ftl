@@ -47,6 +47,8 @@ serviceworker-worker-status-stopped = متوقف
 serviceworker-empty-intro2 = لم يوجد عمّال خدمة
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = اطّلع على المزيد
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro-link = تعرّف على كيفية إضافة بيان
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = الأخطاء والتحذيرات
 # Header for the Identity section of Manifest inspection displayed in the application panel.

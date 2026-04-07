@@ -507,6 +507,7 @@ pdfjs-editor-undo-bar-message-freetext = أُزيل النص
 pdfjs-editor-undo-bar-message-ink = أُزِيلت الرسمة
 pdfjs-editor-undo-bar-message-stamp = أُزيلت الصورة
 pdfjs-editor-undo-bar-message-signature = أُزيل التوقيع
+pdfjs-editor-undo-bar-message-comment = أُزيل التعليق
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -580,6 +581,12 @@ pdfjs-editor-add-signature-cancel-button = ألغِ
 pdfjs-editor-add-signature-add-button = أضِف
 pdfjs-editor-edit-signature-update-button = حدّث
 
+## Comment popup
+
+pdfjs-editor-delete-comment-popup-button-label = أزِل التعليق
+pdfjs-editor-delete-comment-popup-button =
+    .title = أزِل التعليق
+
 ##  Edit a comment dialog
 
 pdfjs-editor-edit-comment-dialog-cancel-button = ألغِ
@@ -592,6 +599,7 @@ pdfjs-editor-edit-comment-dialog-cancel-button = ألغِ
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
 pdfjs-views-manager-pages-status-delete-button-label = احذف
+pdfjs-views-manager-status-warning-delete-label = تعذّر الحذف. حدِّث الصفحة وحاول مجددًا.
 
 ## Main menu for adding/removing signatures
 
