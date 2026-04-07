@@ -613,6 +613,8 @@ pdfjs-editor-add-signature-save-checkbox = احفظ التوقيع
 pdfjs-editor-add-signature-save-warning-message = لقد وصلت إلى الحد الأقصى وهو 5 توقيعات محفوظة. أزِل توقيع واحد لحفظ المزيد.
 pdfjs-editor-add-signature-image-upload-error-title = تعذر رفع الصورة.
 pdfjs-editor-add-signature-image-upload-error-description = تحقق من اتصال الشبكة لديك أو جرّب صورة أخرى.
+pdfjs-editor-add-signature-image-no-data-error-title = لا يمكن تحويل هذه الصورة إلى توقيع
+pdfjs-editor-add-signature-image-no-data-error-description = من فضلك حاول رفع صورة أخرى.
 pdfjs-editor-add-signature-error-close-button = أغلق
 
 ## Dialog buttons
@@ -623,14 +625,31 @@ pdfjs-editor-edit-signature-update-button = حدّث
 
 ## Comment popup
 
+pdfjs-editor-edit-comment-popup-button-label = حرّر التعليق
+pdfjs-editor-edit-comment-popup-button =
+    .title = حرّر التعليق
 pdfjs-editor-delete-comment-popup-button-label = أزِل التعليق
 pdfjs-editor-delete-comment-popup-button =
     .title = أزِل التعليق
+pdfjs-show-comment-button =
+    .title = أظهر التعليق
 
 ##  Edit a comment dialog
 
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = حرّر التعليق
 pdfjs-editor-edit-comment-dialog-save-button-when-editing = حدّث
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = أضِف تعليقًا
+pdfjs-editor-edit-comment-dialog-save-button-when-adding = أضف
+pdfjs-editor-edit-comment-dialog-text-input =
+    .placeholder = ابدأ الكتابة…
 pdfjs-editor-edit-comment-dialog-cancel-button = ألغِ
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-add-comment-button =
+    .title = أضف التعليق
 
 ## The view manager is a sidebar displaying different views:
 ##  - thumbnails;
@@ -639,6 +658,29 @@ pdfjs-editor-edit-comment-dialog-cancel-button = ألغِ
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = بدّل ظهور الشريط الجانبي
+pdfjs-toggle-views-manager-button1-label = أدِر الصفحات
+pdfjs-toggle-views-manager-button-label = بدّل ظهور الشريط الجانبي
+pdfjs-views-manager-sidebar =
+    .aria-label = الشريط الجانبي
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = أداة تغيير حجم الشريط الجانبي
+pdfjs-views-manager-view-selector-button =
+    .title = المناظير
+pdfjs-views-manager-view-selector-button-label = المناظير
+pdfjs-views-manager-pages-title = الصفحات
+pdfjs-views-manager-outlines-title = مخطط المستند
+pdfjs-views-manager-attachments-title = المرفقات
+pdfjs-views-manager-layers-title = ‏‏الطبقات
+pdfjs-views-manager-pages-option-label = الصفحات
+pdfjs-views-manager-outlines-option-label = مخطط المستند
+pdfjs-views-manager-attachments-option-label = المرفقات
+pdfjs-views-manager-layers-option-label = ‏‏الطبقات
+pdfjs-views-manager-add-file-button =
+    .title = أضف ملف
+pdfjs-views-manager-add-file-button-label = أضف ملف
+pdfjs-views-manager-pages-status-none-action-label = حدّد الصفحات
 pdfjs-views-manager-pages-status-delete-button-label = احذف
 pdfjs-views-manager-status-warning-delete-label = تعذّر الحذف. حدِّث الصفحة وحاول مجددًا.
 
