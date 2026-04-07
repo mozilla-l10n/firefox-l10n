@@ -182,6 +182,9 @@ about-logins-export-password-os-auth-dialog-message-win = మీ ప్రవే
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = భద్రపరచిన ప్రవేశాలను, సంకేతపదాలను ఎగుమతిచేయి
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message2-macosx = భద్రపరిచిన సంకేతపదాలను ఎగుమతి చేయి
 
 ## Primary Password notification
 
@@ -262,6 +265,7 @@ confirm-discard-changes-dialog-confirm-button = విస్మరించు
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = వెబ్‌సైట్ ఉల్లంఘన
 breach-alert-text = మీరు చివరిసారి మీ ప్రవేశ వివరాలను తాజాకరించిన తర్వాత ఈ వెబ్‌సైటు నుండి సంకేతపదాలు బయల్పడ్డాయి లేదా దొంగిలించబడ్డాయి. మీ ఖాతాను సంరక్షించుకోడానికి మీ సంకేపదాన్ని మార్చుకోండి.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
