@@ -1325,6 +1325,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ове ставке усклађујете на свим повезаним уређајима:
 sync-syncing-across-devices-heading-2 = Подаци усклађени на свим уређајима
+sync-syncing-across-devices-empty-state2 =
+    .label = Управљај усклађеним подацима
+    .description = Тренутно не усклађујете, за сада… Започните усклађивање да бисте имали ваше податке на свим вашим уређајима.
 sync-syncing-across-devices-empty-state =
     .label = Још увек ништа не усклађујете…
     .description = Започните усклађивање да бисте имали све своје податке на свим својим уређајима.
