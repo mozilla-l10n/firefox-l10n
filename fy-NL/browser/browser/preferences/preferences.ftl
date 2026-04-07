@@ -1134,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Syngronisaasje
+account-group-label2 =
+    .label = Account
+account-placeholder2 =
+    .label = Jo binne net oanmeld
+    .description = Meld jo oan en hâld jo gegevens privee, fersifere en daliks tagonklik, oeral wêr’t jo { -brand-short-name } brûke.
 account-group-label =
     .label = { -vendor-short-name }-account
 account-placeholder =
     .label = Jo binne net oanmeld
     .description = Meld jo oan om jo gegevens privee, fersifere en tusken apparaten syngronisearre te hâlden.
+account-sync-section =
+    .heading = Accoant en syngronisaasje
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1261,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Jo syngronisearje dizze items tusken al jo ferbûne apparaten:
 sync-syncing-across-devices-heading-2 = Gegevens tusken apparaten syngronisearre
+sync-syncing-across-devices-empty-state2 =
+    .label = Syngronisearre gegevens beheare
+    .description = Jo syngronisearje neat… noch net. Begjin mei syngronisearjen om al jo gegevens op al jo apparaten te ûntfangen.
 sync-syncing-across-devices-empty-state =
     .label = Jo syngronisearje neat… noch net.
     .description = Begjin mei syngronisearjen om al jo gegevens op al jo apparaten te krijen.
@@ -1280,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Syngronisearre gegevens beheare
     .accesskey = b
+settings-sync-disconnect-button =
+    .label = Ferbrekke
 sync-change-options =
     .label = Wizigje…
     .accesskey = W
