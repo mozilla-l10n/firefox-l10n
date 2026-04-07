@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } н
 
 neterror-file-not-found-filename = Проверите подударање малих и великих слова и друге могуће грешке у куцању.
 neterror-file-not-found-moved = Проверите да ли је датотека премештена, преименована или избрисана.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } не може да пронађе датотеку на <strong>{ $path }</strong>. Или не постоји или је путања нетачна.
 neterror-access-denied = Можда је уклоњена, премештена или немате приступ датотеци.
 neterror-unknown-protocol = Можда ћете морати да инсталирате неки други програм како бисте отворили ову адресу.
 neterror-redirect-loop = Овај проблем понекад настаје ако искључите или одбијете прихватање колачића.
