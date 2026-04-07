@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = Anladım
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = Gizlilik odaklı yeni bir arama motoru denemek ister misiniz?
+start-page-callout-subtitle = Startpage’i deneyin. Bu arama motoru, aramalarınızı en başından itibaren gizli tutmak için tasarlandı.
 start-page-callout-primary-label = Startpage’i deneyin
 start-page-callout-secondary-label = Kapat
 

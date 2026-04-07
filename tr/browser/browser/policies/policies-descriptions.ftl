@@ -91,6 +91,7 @@ policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-HttpAllowlist = HTTPS’e yükseltilmeyecek kökenler.
 policy-HttpsOnlyMode = Yalnızca HTTPS modunun etkinleştirilmesine izin ver.
 policy-InstallAddonsPermission = Belirli web sitelerinin eklenti yüklemesine izin ver.
+policy-IPProtectionAvailable = Kullanıcıların yerleşik VPN’i kullanabilmesini önle.
 policy-LegacyProfiles = Her kurulum için ayrı bir profil oluşturmayı zorunlu tutan özelliği devre dışı bırak
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -128,6 +129,7 @@ policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
 policy-PrivateBrowsingModeAvailability = Gizli gezinti modunun kullanılabilirliğini ayarla.
 policy-PromptForDownloadLocation = Dosya indirirken nereye kaydedileceklerini sor.
 policy-Proxy = Vekil sunucu ayarlarını yapılandır.
+policy-RelaunchRequired = { -brand-short-name } tarayıcısının belirli bir süre sonra yeniden başlatılmasını zorunlu tut ve yeniden başlatmayı kullanıcıya bildir.
 policy-RequestedLocales = Uygulamada kullanılması istenen dilleri tercih sırasına göre ayarla.
 policy-SanitizeOnShutdown2 = Kapanırken gezinti verilerini temizle.
 policy-SearchBar = Arama çubuğunun varsayılan konumunu ayarla. Kullanıcı daha sonra özelleştirebilir.

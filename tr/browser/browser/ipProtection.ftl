@@ -26,6 +26,7 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
+ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizleyin, halka açık Wi-Fi ağlarında bile ekstra korumayla gezinin.
 ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
 ipprotection-feature-introduction-button-secondary-no-thanks = Hayır
@@ -39,6 +40,7 @@ ipprotection-site-settings-callout-button = Anladım
 ## Panel
 
 unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
+unauthenticated-hide-location-message-3 = { -brand-product-name } ile gezinirken <a data-l10n-name="learn-more-vpn">konumunuzu gizleyin</a>.
 unauthenticated-hide-location-message-2 = { -brand-product-name } ile gezinirken konumunuzu gizleyin.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -92,6 +94,7 @@ ipprotection-connection-status-generic-error-try-again = Lütfen daha sonra yeni
 ipprotection-connection-status-network-error-title = İnternet bağlantınızı kontrol edin
 ipprotection-connection-status-network-error-description = İnternete bağlandıktan sonra VPN’i açmayı deneyin.
 ipprotection-connection-status-blocked-error-title = VPN kullanılamıyor
+ipprotection-connection-status-blocked-error-description = Yerel yasalar bu bölgede VPN hizmeti sunmamızı engelliyor. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
