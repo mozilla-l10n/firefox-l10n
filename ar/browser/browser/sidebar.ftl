@@ -108,6 +108,11 @@ sidebar-context-menu-unpin-extension =
 sidebar-history-context-menu-bookmark-page =
     .label = علِّم الصفحة…
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = احذف
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

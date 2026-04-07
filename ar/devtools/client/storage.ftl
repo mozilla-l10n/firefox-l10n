@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = أضف عنصرا
+storage-delete-all-button =
+    .title = احذف الكل
 # Refresh button title
 storage-refresh-button =
     .title = أنعِش العناصر

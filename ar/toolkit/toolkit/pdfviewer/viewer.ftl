@@ -580,6 +580,19 @@ pdfjs-editor-add-signature-cancel-button = ألغِ
 pdfjs-editor-add-signature-add-button = أضِف
 pdfjs-editor-edit-signature-update-button = حدّث
 
+##  Edit a comment dialog
+
+pdfjs-editor-edit-comment-dialog-cancel-button = ألغِ
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-views-manager-pages-status-delete-button-label = احذف
+
 ## Main menu for adding/removing signatures
 
 pdfjs-editor-delete-signature-button1 =

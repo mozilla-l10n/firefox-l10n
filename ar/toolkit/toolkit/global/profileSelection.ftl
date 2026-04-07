@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = استخدم الملف الشخصي المحدد دون سؤال عند بدء التشغيل
     .accesskey = س
+profile-has-selectable-profiles-title = لا يمكن حذف ملف شخصي مرتبط بملفات شخصية أخرى

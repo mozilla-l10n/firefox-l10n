@@ -1258,6 +1258,13 @@ sync-engine-settings =
     .label = الإعدادات
     .tooltiptext = الإعدادات العامة وإعدادات الخصوصية والأمن التي غيّرتها
     .accesskey = ع
+sync-choose-what-to-sync-dialog4 =
+    .title = إدارة ما يُزامِن على جميع أجهزتك المتصلة
+    .style = min-width: 36em;
+    .buttonlabelaccept = احفظ
+    .buttonaccesskeyaccept = ح
+    .buttonlabelextra2 = اقطع الاتصال…
+    .buttonaccesskeyextra2 = ق
 
 ## The device name controls.
 

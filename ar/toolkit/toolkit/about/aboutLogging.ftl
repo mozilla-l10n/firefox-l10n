@@ -22,3 +22,12 @@ about-logging-new-log-modules = وحدات سجل جديدة:
 ## Logging presets
 
 about-logging-preset-custom-label = مخصّص
+
+## Uploaded Profiles section
+
+about-logging-delete-uploaded-profile = احذف
+about-logging-delete-profile-confirm-title = احذف الملف الشخصي
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = أمتأكد من رغبتك في حذف الملف الشخصي "{ $profileName }"؟ لا يمكن التراجع عن هذا الإجراء.

@@ -164,6 +164,7 @@ intl-regional-prefs = التفضيلات الإقليمية
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = التنقيح عن بُعد (بروتوكول كروميوم)
+remote-debugging-accepting-connections = قبول الاتصالات
 
 ##
 

@@ -30,6 +30,10 @@ about-webauthn-add-bio-enrollment-section-title = إضافة تسجيل جديد
 about-webauthn-results-success = تم!
 about-webauthn-results-general-error = خطأ!
 
+## Labels
+
+about-webauthn-confirm-deletion-label = أنت على وشك حذف:
+
 ## Buttons
 
 about-webauthn-cancel-button = ألغِ

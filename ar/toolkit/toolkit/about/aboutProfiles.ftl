@@ -22,6 +22,7 @@ profiles-rootdir = المجلد الجذر
 profiles-localdir = الملجد المحلي
 profiles-current-profile = هذا الملف الشخصي مستخدم و لا يمكن حذفه.
 profiles-in-use-profile = ملف الإعدادات قيد الاستخدام في تطبيق آخر و لا يمكن حذفه.
+profiles-cannot-delete-profile = لا يمكن حذف ملف شخصي مرتبط بملفات شخصية أخرى.
 profiles-rename = غيّر الاسم
 profiles-remove = أزِل
 profiles-set-as-default = اجعله الملف الشخصي المبدئي
