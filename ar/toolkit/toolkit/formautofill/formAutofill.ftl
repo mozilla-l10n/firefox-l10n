@@ -14,6 +14,11 @@ autofill-options-link-osx = تفضيلات الملء الآلي للاستما�
 
 # Used on the doorhanger when an credit card change is detected.
 
+credit-card-update-doorhanger-header = حدث البطاقة؟
+credit-card-update-doorhanger-description = البطاقة المراد تحديثها:
+credit-card-capture-update-button =
+    .label = حدّث البطاقة الحالية
+    .accessKey = د
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = امسح استمارة الملء الآلي
 

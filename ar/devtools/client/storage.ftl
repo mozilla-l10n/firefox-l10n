@@ -69,6 +69,7 @@ storage-table-headers-cookies-value = القيمة
 storage-table-headers-cookies-size = الحجم
 storage-table-headers-cookies-last-accessed = تاريخ آخر وصول
 storage-table-headers-cookies-creation-time = تاريخ الإنشاء
+storage-table-headers-cookies-update-time = مُحدّث
 storage-table-headers-cache-status = الحالة
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
@@ -100,3 +101,7 @@ storage-idb-delete-blocked = ستُحذف قاعدة البيانات ”{ $dbNa
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = تعذر حذف قاعدة البيانات ”{ $dbName }“.
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = تعذر تحديث ملف تعريف الارتباط: "{ $errorString }".

@@ -87,6 +87,7 @@ upgrade-vpn-button = جرّب { -mozilla-vpn-brand-name }
 ## Messages and errors
 
 ipprotection-message-continuous-onboarding-intro = شغّل VPN لإخفاء موقعك وإضافة تعمية إضافي لتصفحك.
+ipprotection-message-continuous-onboarding-site-settings = سيحفظ { -brand-short-name } المواقع الإلكترونية التي عينتها لاستخدام VPN. يمكنك تحديث هذه الإعدادات في <a data-l10n-name="setting-link">الإعدادات</a> في أي وقت.
 
 ## IP Protection bandwidth callouts
 

@@ -435,6 +435,7 @@ newtab-topic-label-education-science = علوم
 newtab-topic-selection-save-button = احفظ
 newtab-topic-selection-cancel-button = ألغِ
 newtab-topic-selection-button-maybe-later = ربما لاحقا
+newtab-topic-selection-button-update-interests = حدِّث اهتماماتك
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
@@ -523,6 +524,9 @@ newtab-widget-timer-label-play =
 newtab-widget-timer-label-pause =
     .label = ألبِث
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = حُدِّث منذ { $minutes }د
 newtab-promo-card-title = ادعم { -brand-product-name }
 newtab-promo-card-body = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل
 newtab-promo-card-cta = اطّلع على المزيد
