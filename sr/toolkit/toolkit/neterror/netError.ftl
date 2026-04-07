@@ -97,6 +97,7 @@ neterror-file-not-found-moved = Проверите да ли је датотек
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } не може да пронађе датотеку на <strong>{ $path }</strong>. Или не постоји или је путања нетачна.
+neterror-file-not-found-what-can-you-do = Ако сте адресу унели ручно, проверите да ли има грешака у писању великим словима или правописних грешака у називу датотеке или путањи. Ако сте пратили сачувани обележивач или везу, датотека је можда премештена, преименована или обрисана откако је сачувана. Покушајте да је пронађете помоћу управника датотека или недавне претраге.
 neterror-access-denied = Можда је уклоњена, премештена или немате приступ датотеци.
 neterror-unknown-protocol = Можда ћете морати да инсталирате неки други програм како бисте отворили ову адресу.
 neterror-redirect-loop = Овај проблем понекад настаје ако искључите или одбијете прихватање колачића.
@@ -193,6 +194,11 @@ fp-neterror-net-timeout-intro = Серверу на <strong>{ $hostname }</stron
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> је вратио грешку.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Сервер на <strong>{ $hostname }</strong> је вратио грешку: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } није учитао ову страницу јер изгледа да се безбедносна подешавања не поклапају са претходном страницом.
 fp-neterror-http-auth-disabled-intro = Неко ко се претвара да је овај сајт могао би да покуша да украде ствари попут вашег корисничког имена, лозинке или е-поште.
 fp-neterror-http-auth-disabled-secure-connection = Овај сајт захтева безбедну везу и не можете додати изузетак да бисте га посетили.

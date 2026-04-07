@@ -5,13 +5,6 @@
 printui-title = Печати
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = Сними како
-# Variables
-# $sheetCount (integer) - Number of paper sheets
-printui-sheets-count =
-    { $sheetCount ->
-        [one] лист
-       *[other] листови
-    }
 printui-page-range-all = Сè
 printui-page-range-current = Тековна
 printui-page-range-odd = Непарни
