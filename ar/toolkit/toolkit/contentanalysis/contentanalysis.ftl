@@ -7,6 +7,8 @@ contentanalysis-slow-agent-dialog-header = جارِ المسح
 contentanalysis-operationtype-clipboard = الحافظة
 contentanalysis-operationtype-dropped-text = النص المُسقط
 contentanalysis-operationtype-print = اطبع
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = تنزيل “{ $filename }”
 contentanalysis-warndialogtitle = قد يكون هذا المحتوى غير آمن
 contentanalysis-warndialog-response-allow = استخدم المحتوى
 contentanalysis-warndialog-response-deny = ألغِ
@@ -22,6 +24,10 @@ contentanalysis-error-message-print = رُفِضت الطباعة.
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
 contentanalysis-timeout-block-error-message-content = انتهت مهلة الاتصال بـ { $agent }. حُظر { $contentName }.
 contentanalysis-block-dialog-title-upload-file = لا يسمح لك برفع هذا الملف
+contentanalysis-block-dialog-title-download-file = لا يُسمح لك بتنزيل هذا الملف
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = وفقًا لسياسات حماية البيانات الخاصة بمديرك، لا يُسمح لك بتنزيل الملف "{ $filename }". تواصل مع ديرك النظام لمزيد من المعلومات.
 contentanalysis-block-dialog-title-clipboard = لا يسمح لك بلصق هذا المحتوى
 contentanalysis-block-dialog-title-dropped-text = لا يسمح لك بإسقاط هذا المحتوى
 contentanalysis-block-dialog-title-print = لا يسمح لك بطباعة هذا المستند

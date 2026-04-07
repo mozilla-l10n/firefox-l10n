@@ -29,6 +29,7 @@ about-webauthn-add-bio-enrollment-section-title = إضافة تسجيل جديد
 
 about-webauthn-results-success = تم!
 about-webauthn-results-general-error = خطأ!
+about-webauthn-results-cancelled-by-user-error = خطأ: ألغِيَ العملية من قبل المستخدم.
 
 ## Labels
 

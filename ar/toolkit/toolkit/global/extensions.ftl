@@ -35,6 +35,9 @@ webext-perms-sideload-cancel =
     .accesskey = ل
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = حُدِّث { $extension }. يجب عليك الموافقة على الأذونات الجديدة قبل تثبيت الإصدار المُحدَّث. سيؤدي اختيار "ألغِ" إلى الاحتفاظ بإصدار الإضافة الحالي.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = حُدّث { $extension }. يجب عليك الموافقة على الصلاحيات الجديدة لتنصيب النسخة المحدّثة. اختيار الإلغاء سيُبقي النسخة الحالية من الامتداد. لهذا الامتداد تصريح:
 webext-perms-update-accept =
     .label = حدّث
