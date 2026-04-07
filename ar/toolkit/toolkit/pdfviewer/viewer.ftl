@@ -201,6 +201,19 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = مصغّرة صفحة { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = حدّد الصفحة { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = حدّد الصفحة { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = الصفحة { $page } من { $total }
 
 ## Find panel button title and messages
 
@@ -294,9 +307,13 @@ pdfjs-web-fonts-disabled = خطوط الوب مُعطّلة: تعذّر استخ
 
 pdfjs-editor-free-text-button =
     .title = نص
+pdfjs-editor-color-picker-free-text-input =
+    .title = غيِّر لون النص
 pdfjs-editor-free-text-button-label = نص
 pdfjs-editor-ink-button =
     .title = ارسم
+pdfjs-editor-color-picker-ink-input =
+    .title = غيِّر لون الرسم
 pdfjs-editor-ink-button-label = ارسم
 pdfjs-editor-stamp-button =
     .title = أضِف أو حرّر الصور
@@ -308,6 +325,14 @@ pdfjs-highlight-floating-button1 =
     .title = أبرِز
     .aria-label = أبرِز
 pdfjs-highlight-floating-button-label = أبرِز
+pdfjs-comment-floating-button =
+    .title = علق
+    .aria-label = علق
+pdfjs-comment-floating-button-label = علق
+pdfjs-editor-comment-button =
+    .title = علق
+    .aria-label = علق
+pdfjs-editor-comment-button-label = التعليق
 pdfjs-editor-signature-button =
     .title = أضِف توقيع
 pdfjs-editor-signature-button-label = أضِف توقيع
@@ -370,6 +395,12 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = محرِّر النص
     .default-content = ابدأ في كتابة…
+pdfjs-editor-comments-sidebar-close-button =
+    .title = أغلِق الشريط الجانبي
+    .aria-label = أغلِق الشريط الجانبي
+pdfjs-editor-comments-sidebar-close-button-label = أغلِق الشريط الجانبي
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = هل رأيت شيئاً جديرًا بالملاحظة؟ ابرزه واترك تعليقًا.
 pdfjs-editor-comments-sidebar-no-comments-link = اطّلع على المزيد
 
 ## Alt-text dialog
@@ -500,6 +531,14 @@ pdfjs-editor-alt-text-settings-editor-title = مُحرِّر النص البدي
 pdfjs-editor-alt-text-settings-show-dialog-button-label = أظهِر مُحرِّر النص البديل على الفور عند إضافة صورة
 pdfjs-editor-alt-text-settings-show-dialog-description = يساعدك على التأكد من أن جميع صورك تحتوي على نص بديل.
 pdfjs-editor-alt-text-settings-close-button = أغلق
+
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = أُضيف إبراز
+pdfjs-editor-freetext-added-alert = أُضيف النص
+pdfjs-editor-ink-added-alert = أُضيف رسم
+pdfjs-editor-stamp-added-alert = أُضيف صورة
+pdfjs-editor-signature-added-alert = أُضيف توقيع
 
 ## "Annotations removed" bar
 

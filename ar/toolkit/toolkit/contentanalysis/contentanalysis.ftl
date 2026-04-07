@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 contentanalysis-alert-title = تحليل المحتوى
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-notification = تستغرق أداة تحليل المحتوى وقتًا طويلاً للاستجابة للمورد “{ $content }”
 contentanalysis-slow-agent-dialog-header = جارِ المسح
 contentanalysis-operationtype-clipboard = الحافظة
 contentanalysis-operationtype-dropped-text = النص المُسقط

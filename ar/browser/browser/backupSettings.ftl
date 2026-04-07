@@ -119,6 +119,8 @@ restore-from-backup-type-group-label =
     .label = استبدال الملف الشخصي الحالي؟
 restore-from-backup-type-replace =
     .label = استبدل جميع البيانات بهذه النسخة الاحتياطية
+restore-from-backup-type-add =
+    .label = احتفظ بالبيانات وأنشئ ملف شخصي جديد
 restore-from-backup-profiles-disabled-message = سيؤدي هذا إلى استبدال جميع بياناتك الحالية { -brand-short-name } بنسخة احتياطية.
 
 ## These strings are displayed in a small error message bar in the settings
@@ -150,6 +152,7 @@ change-backup-encryption-header = غيِّر كلمة السر النسخ الا
 
 password-rules-header = متطلبات كلمة السر
 password-rules-length-description = 8 أحرف على الأقل
+password-rules-email-description = ليس عنوان بريدك الإلكتروني
 password-validity-has-email = لا يمكن أن يكون عنوان بريد إلكتروني
 password-validity-do-not-match = كلمات السر غير متطابقة
 
@@ -186,5 +189,22 @@ backup-file-title = استعِد { -brand-short-name }
 backup-file-intro = ارجع إلى التصفح واسترد جميع الألسنة وتأريخ التصفح والبيانات الأخرى الخاصة بك. <a data-l10n-name="backup-file-support-link">اطّلع على المزيد</a>
 backup-file-path-label = ملف النسخ الاحتياطي:
 backup-file-encryption-state-label = مُعمّاة:
+backup-file-encryption-state-value-encrypted = نعم
+backup-file-encryption-state-value-not-encrypted = لا
+backup-file-creation-device-label = الجهاز:
+backup-file-creation-date-label = أُنشئ:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = كيفية الاستعادة:
+backup-file-moz-browser-restore-step-3 = أعد تشغيل { -brand-short-name } عند الطلب
 backup-file-other-browser-restore-step-1 = نزّل وثبِّت { -brand-short-name }
 backup-file-download-moz-browser-button = نزّل
+backup-file-other-browser-restore-step-4 = أعد تشغيل { -brand-short-name } عند الطلب
+
+## These strings are used in the about:restore and about:welcome pages
+## These pages guide the user on browser startup to help them restore a backup
+## if they have one on their file system.
+
+restore-from-backup-filepicker-input =
+    .placeholder = لم يحدّد أي ملف

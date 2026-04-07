@@ -15,7 +15,25 @@ webext-perms-header-with-perms = أتريد إضافة { $extension }؟ لهذا
 webext-perms-header-unsigned = أتريد إضافة { $extension }؟ لم يُتحقق من هذا الامتداد. تستطيع الامتدادات الخبيثة سرقة بيانات الخاصة أو تعريض حاسوبك للخطر. لا تُضفه إلا إن كنت تثق في مصدره.
 webext-perms-header-unsigned-with-perms = أتريد إضافة { $extension }؟ لم يُتحقق من هذا الامتداد. تستطيع الامتدادات الخبيثة سرقة بيانات الخاصة أو تعريض حاسوبك للخطر. لا تُضفه إلا إن كنت تثق في مصدره. لهذا الامتداد تصريح:
 webext-perms-sideload-header = أُضيف { $extension }
+webext-perms-optional-perms-header2 = يطلب { $extension } أذونات إضافية.
 webext-perms-optional-perms-header = يطلب { $extension } صلاحيات إضافية.
+webext-perms-header2 = أضف { $extension }
+webext-perms-list-intro-unsigned = قد يُعرّض هذا الامتداد غير الموثوق خصوصيتك للخطر أو يُلحق الضرر بجهازك. لا تثبته إلا إذا كنت تثق بمصدره.
+
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = التصاريح المطلوبة:
+webext-perms-header-optional-settings = إعدادات اختيارية:
+webext-perms-header-update-required-perms = الأذونات المطلوبة الجديدة:
+webext-perms-header-optional-required-perms = الأذونات الجديدة:
+webext-perms-header-data-collection-perms = تجميع البيانات المطلوبة:
+webext-perms-header-data-collection-is-none = جمع البيانات:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = جمع البيانات المطلوبة الجديدة:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = تجميع بيانات جديدة:
 
 ##
 
@@ -85,10 +103,26 @@ webext-perms-host-description-one-domain = الوصول إلى بياناتك ل
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = يقول المطوِّر إن هذا الامتداد لا يتطلب جمع البيانات.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = يقول المطوِّر إن هذا الامتداد يجمع: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = يقول المطوِّر إن الامتداد سيجمع: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = يقول المطوِّر إن الامتداد يريد جمع: { $permissions }
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = يتطلب { $extension } إعدادات جديدة للتحديث
 webext-perms-update-list-intro-with-data-collection = ألغِ للاحتفاظ بإصدارك وإعداداتك الحالية، أو حدِّث للحصول على الإصدار الجديد والموافقة على التغييرات.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = يطلب { $extension } إعدادات إضافية
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } يطلب جمع بيانات إضافية
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
