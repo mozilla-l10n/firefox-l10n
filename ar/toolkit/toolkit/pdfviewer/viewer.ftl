@@ -370,6 +370,7 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = محرِّر النص
     .default-content = ابدأ في كتابة…
+pdfjs-editor-comments-sidebar-no-comments-link = اطّلع على المزيد
 
 ## Alt-text dialog
 

@@ -120,6 +120,7 @@ policy-ShowHomeButton = عرض زر الصفحة الرئيسية في شريط 
 policy-SkipTermsOfUse2 = لا تعرض شروط الاستخدام وتنويه الخصوصية عند بدء التشغيل. أنت تقرّ بأنك تقبل شروط الاستخدام وتملك الصلاحية لقبولها نيابةً عن جميع الأفراد الذين تمنحهم حق الوصول إلى هذا المتصفح.
 policy-SSLVersionMax = ضبط إصدارة SSL العليا.
 policy-SSLVersionMin = ضبط إصدارة SSL الدنيا.
+policy-StartDownloadsInTempDirectory = فرض بدء التنزيلات في موقع محلي مؤقت بدلاً من مجلد التنزيل المبدئي.
 policy-SupportMenu = إضافة عنصر ”الدعم“ (يمكن تخصيصه) في قائمة المساعدة.
 policy-TranslateEnabled = فعّل أو عطّل ترجمة صفحة الوِب.
 policy-UserMessaging = عدم عرض بعض الرسائل بعينها للمستخدم.
