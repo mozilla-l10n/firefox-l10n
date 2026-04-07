@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Aseta käytäntöjä, joita WebExtensionit voivat käyttää chrome.storage.managed-objektin kautta.
+policy-AIControls = Määritä tekoälysäätimet.
 policy-AllowedDomainsForApps = Määritä verkkotunnukset, joilla on pääsy Google Workspaceen.
 policy-AllowFileSelectionDialogs = Salli tiedostojen valintaikkunat.
 policy-AppAutoUpdate = Käytä tai poista käytöstä sovelluksen automaattiset päivitykset.
@@ -90,6 +91,7 @@ policy-Homepage = Aseta ja valinnaisesti lukitse aloitussivu.
 policy-HttpAllowlist = Alkuperät, joita ei päivitetä HTTPS:ään.
 policy-HttpsOnlyMode = Salli, että "Vain HTTPS"-tila on mahdollista ottaa käyttöön.
 policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
+policy-IPProtectionAvailable = Estä sisäänrakennetun VPN:n olevan saatavilla käyttäjille.
 policy-LegacyProfiles = Poista käytöstä ominaisuus, joka pakottaa erillisen profiilin kullekin asennukselle
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
 policy-PrivateBrowsingModeAvailability = Aseta yksityisen selaustilan saatavuus.
 policy-PromptForDownloadLocation = Kysy ladattaessa minne tiedostot tallennetaan.
 policy-Proxy = Määritä välityspalvelimen asetukset.
+policy-RelaunchRequired = Edellytä, että { -brand-short-name } käynnistetään uudelleen uudelleen tietyn ajan kuluessa, ja ilmoita käyttäjälle tulevasta uudelleenkäynnistyksestä.
 policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjestyksessä.
 policy-SanitizeOnShutdown2 = Tyhjennä selaustiedot sammutuksen yhteydessä.
 policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihtaa sitä.

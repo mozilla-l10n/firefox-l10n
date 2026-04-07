@@ -109,6 +109,8 @@ perplexity-callout-secondary-label-2 = Selvä
 
 start-page-callout-title = Haluatko kokeilla uutta yksityisyyteen keskittyvää hakua?
 start-page-callout-subtitle = Kokeile Startpagea. Se on suunniteltu pitämään hakusi yksityisempinä alusta alkaen.
+start-page-callout-primary-label = Kokeile Startpagea
+start-page-callout-secondary-label = Hylkää
 
 ## Account Adoption Passwords callout strings
 
