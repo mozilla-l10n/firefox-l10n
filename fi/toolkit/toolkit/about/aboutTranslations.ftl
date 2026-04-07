@@ -38,6 +38,11 @@ about-translations-language-load-error-button = Yritä uudelleen
 about-translations-translation-error-heading = Kääntämisessä oli ongelma
 about-translations-translation-error-subtext = Yritä uudelleen.
 about-translations-translation-error-button = Yritä uudelleen
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Valitettavasti käännökset kielestä { $language } eivät ole vielä tuettuja
+about-translations-detected-language-unsupported-heading-unknown-2 = Valitettavasti käännökset tästä kielestä eivät ole vielä tuettuja
 about-translations-detected-language-unsupported-subtext = Valitse toinen kieli.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

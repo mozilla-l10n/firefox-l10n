@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimessasi
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
+ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
+ipprotection-feature-introduction-description-captive-portal = Selaa lisäsuojauksella piilottamalla sijaintisi jopa julkisissa Wi-Fi-verkoissa.
 ipprotection-feature-introduction-button-primary = Seuraava
 ipprotection-feature-introduction-button-secondary-not-now = Ei nyt
 ipprotection-feature-introduction-button-secondary-no-thanks = Ei kiitos
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Selvä
 ## Panel
 
 unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Piilota sijaintisi</a> selatessasi { -brand-product-name }illa.
 unauthenticated-hide-location-message-2 = Piilota sijaintisi selatessasi { -brand-product-name }illa.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -88,8 +91,11 @@ upgrade-vpn-button = Kokeile { -mozilla-vpn-brand-name }:ää
 
 ipprotection-connection-status-generic-error-title = VPN-yhteyden muodostaminen epäonnistui
 ipprotection-connection-status-generic-error-description = Yritä uudelleen muutaman minuutin kuluttua.
+ipprotection-connection-status-generic-error-try-again = Yritä myöhemmin uudelleen.
 ipprotection-connection-status-network-error-title = Tarkista Internet-yhteytesi
 ipprotection-connection-status-network-error-description = Yhdistä internetiin ja kokeile sitten VPN:n käyttöönottoa.
+ipprotection-connection-status-blocked-error-title = VPN ei ole käytettävissä
+ipprotection-connection-status-blocked-error-description = Paikalliset lait estävät meitä tarjoamasta VPN-palvelua tällä alueella. <a data-l10n-name="learn-more-link">Lisätietoja</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
