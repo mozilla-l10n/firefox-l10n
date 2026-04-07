@@ -6,6 +6,7 @@ report-broken-site-mainview-title = أبلِغ عن موقع معطوب
 report-broken-site-panel-header =
     .label = أبلِغ عن موقع معطوب
     .title = أبلِغ عن موقع معطوب
+report-broken-site-panel-learn-more-link = اطّلع على المزيد
 report-broken-site-panel-intro = ساعد في جعل { -brand-product-name } أفضل للجميع. يستخدم { -vendor-short-name } المعلومات التي ترسلها لإصلاح مشكلات موقع الوِب.
 report-broken-site-panel-url = المسار
 report-broken-site-panel-reason-label = ما المتعطّل؟

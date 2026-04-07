@@ -483,6 +483,7 @@ newtab-report-content-outdated =
     .label = قديم
 newtab-report-content-inappropriate-offensive =
     .label = غير ملائم أو بذيء
+newtab-report-content-requires-payment-subscription-learn-more = اطّلع على المزيد
 newtab-report-cancel = ألغِ
 newtab-report-submit = أرسِل
 newtab-toast-thanks-for-reporting =

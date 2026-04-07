@@ -409,6 +409,7 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">اطّلع على المزيد</a>
 create-backup-screen-1-sync-label = زامن مع { -brand-product-name }
 create-backup-select-tile-button-label = حدّد
 create-backup-back-button-label = السابق

@@ -40,6 +40,7 @@ new-profile-page-header = خصّص ملفك الشخصي الجديد
 new-profile-page-learn-more = اطّلع على المزيد
 new-profile-page-done-button =
     .label = حُرِّر
+restored-profile-page-learn-more = اطّلع على المزيد
 profile-window-title-2 = { -brand-short-name } - اختر ملف شخصي
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
