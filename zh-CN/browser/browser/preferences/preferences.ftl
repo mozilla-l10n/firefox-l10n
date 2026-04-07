@@ -2450,10 +2450,15 @@ preferences-etp-reset-standard-button =
     .label = 重置为标准
 preferences-etp-reset-strict-button =
     .label = 重置为严格
+preferences-etp-custom-control-group =
+    .label = 跟踪保护
+    .description = 选择开启和关闭的保护。
 preferences-etp-custom-cookies-enabled =
     .label = Cookie
 preferences-etp-custom-cookie-behavior =
     .aria-label = Cookie
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = 允许所有 Cookie
 preferences-etp-custom-tracking-protection-enabled =
     .label = 跟踪性内容
 preferences-etp-custom-tracking-protection-enabled-context =
@@ -2466,3 +2471,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = 存疑的数字指纹跟踪程序
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = 存疑的数字指纹跟踪程序
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = 未拦截已知的数字指纹跟踪程序
+    .description = 这可能会允许某些追踪器不使用 Cookie 而继续跟踪您。
+security-privacy-issue-warning-doh =
+    .label = 基于 HTTPS 的 DNS 已禁用
+    .description = 基于 HTTPS 的 DNS 可向您的网络提供商隐藏您访问的网站。

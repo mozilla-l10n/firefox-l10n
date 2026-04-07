@@ -209,6 +209,11 @@ pdfjs-thumb-page-checkbox1 =
 #   $page (Number) - the page number
 pdfjs-thumb-page-checkbox =
     .aria-label = 选择第 { $page } 页
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = 第 { $page } / { $total } 页
 
 ## Find panel button title and messages
 
@@ -669,6 +674,7 @@ pdfjs-views-manager-pages-status-action-button-label = 管理
 pdfjs-views-manager-pages-status-copy-button-label = 复制
 pdfjs-views-manager-pages-status-cut-button-label = 剪切
 pdfjs-views-manager-pages-status-delete-button-label = 删除
+pdfjs-views-manager-pages-status-export-selected-button-label = 导出选中的页面…
 pdfjs-views-manager-pages-status-save-as-button-label = 另存为…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.

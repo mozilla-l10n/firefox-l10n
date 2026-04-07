@@ -189,6 +189,7 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } 无法与 { $hostname } 的服务器创建安全连接。
 fp-neterror-offline-intro = { -brand-short-name } 无法连接到 <strong>{ $hostname }</strong> 的服务器
+fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> 的服务器响应时间过长。
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> 发回一个错误。

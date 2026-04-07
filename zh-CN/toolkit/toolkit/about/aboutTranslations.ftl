@@ -15,6 +15,15 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = 此设备无法使用翻译。
     .message = 请尝试使用其他设备。
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = 翻译功能在您的组织不可用
+    .message = 这是您的管理员设置的策略。
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = 若要翻译文本，请取消屏蔽此功能
+    .message = 您似乎通过更新 AI 控制屏蔽了此功能。可随时取消屏蔽以开始使用。
+about-translations-feature-blocked-unblock-button = 取消屏蔽
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = 无法加载语言
@@ -25,8 +34,14 @@ about-translations-language-load-error-message =
     .heading = 无法加载语言。
     .message = 请检查互联网连接，然后重试。
 about-translations-language-load-error-button = 重试
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = 翻译时出现问题
 about-translations-translation-error-subtext = 请重试。
 about-translations-translation-error-button = 重试
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = 抱歉，我们尚未支持翻译{ $language }。
 about-translations-detected-language-unsupported-heading-unknown-2 = 抱歉，我们尚未支持翻译此语言。
 about-translations-detected-language-unsupported-subtext = 请选择其他语言。
 # Placeholder text shown in the source-language text area when the user has not typed any text.

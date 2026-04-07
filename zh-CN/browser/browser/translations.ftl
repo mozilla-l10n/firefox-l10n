@@ -83,6 +83,13 @@ translations-panel-error-dismiss-button =
     .label = 知道了
 translations-panel-error-change-button =
     .label = 更改原始语言
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = 抱歉，我们尚未支持翻译{ $language }。
 translations-panel-error-unsupported-hint-unknown-2 = 抱歉，我们尚未支持翻译此语言。
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
@@ -229,6 +236,14 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = 翻译时遇到问题，请重试。
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = 抱歉，我们尚未支持翻译{ $language }。
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = 抱歉，我们尚未支持翻译此语言。
 # If your language requires declining the language name, a possible solution
