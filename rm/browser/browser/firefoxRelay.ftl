@@ -18,6 +18,22 @@ firefox-relay-must-login-to-account = T'annunzia en tes conto per utilisar tes a
 firefox-relay-get-unlimited-masks =
     .label = Administrar ils alias
     .accesskey = A
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Ti has gia utilisà l’alias dad e-mail gratuit
+       *[other] Ti has utilisà tut ils { $count } alias dad e-mail gratuits
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Ti pos reutilisar in alias u laschar mussar tuts per tscherner in auter.
+firefox-relay-reuse-masks-select-label = Tscherner in alias recent
+firefox-relay-see-all-masks =
+    .label = Mussar tut ils alias
+    .accesskey = s
+firefox-relay-dismiss =
+    .label = Serrar
+    .accesskey = S
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protegia tia adressa dad e-mail:
 firefox-relay-opt-in-title-2 = Va per in alias dad e-mail gratuit

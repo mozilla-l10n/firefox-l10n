@@ -1138,11 +1138,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronointi
+account-group-label2 =
+    .label = Tili
+account-placeholder2 =
+    .label = Et ole kirjautunut sisään
+    .description = Kirjaudu sisään ja pidä tietosi yksityisenä, salattuna ja välittömästi käyttövalmiina missä hyvänsä käytät { -brand-short-name }ia.
 account-group-label =
     .label = { -vendor-short-name }-tili
 account-placeholder =
     .label = Et ole kirjautunut sisään
     .description = Kirjaudu sisään pitääksesi tietosi yksityisinä, salattuna ja synkronoituna laitteiden välillä.
+account-sync-section =
+    .heading = Tili ja synkronointi
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1265,6 +1272,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synkronoit näitä tietoja kaikkien yhdistettyjen laitteiden välillä:
 sync-syncing-across-devices-heading-2 = Laitteiden välillä synkronoidut tiedot
+sync-syncing-across-devices-empty-state2 =
+    .label = Synkronoitujen tietojen hallinta
+    .description = Et synkronoi mitään… vielä. Aloita synkronointi saadaksesi kaikki tietosi kaikille laitteillesi.
 sync-syncing-across-devices-empty-state =
     .label = Et synkronoi mitään… vielä.
     .description = Aloita synkronointi saadaksesi tietosi kaikille laitteillesi.
@@ -1284,6 +1294,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Synkronoitujen tietojen hallinta
     .accesskey = S
+settings-sync-disconnect-button =
+    .label = Katkaise yhteys
 sync-change-options =
     .label = Muuta…
     .accesskey = M

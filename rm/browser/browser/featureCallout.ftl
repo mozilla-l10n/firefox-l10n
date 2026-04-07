@@ -104,6 +104,14 @@ perplexity-callout-primary-label = Dumonda Perplexity
 perplexity-callout-secondary-label-1 = Serrar
 perplexity-callout-secondary-label-2 = Jau hai chapì
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-title = Vuls ti empruvar ina nova tschertga focussada sin la protecziun da datas?
+start-page-callout-subtitle = Emprova Startpage. Concepì per che tias tschertgas restian privatas da bell’entschatta.
+start-page-callout-primary-label = Emprova Startpage
+start-page-callout-secondary-label = Serrar
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync
@@ -227,6 +235,12 @@ sidebar-genai-survey-satisfaction-question = Quant satisfatg es ti da l’access
 sidebar-genai-survey-productive-question =
     Quant enavant es ti d’accord u betg d’accord cun suandanta constataziun :<br/>
     «Il chatbot IA en la trav laterala ma gida dad esser pli productiv»?
+splitview-onboarding-callout-title-1 = Vista dividida: la soluziun perfetga per multitasking
+splitview-onboarding-callout-subtitle-1 = Clicca cun la tasta dretga da la mieur sin quest tab e tscherna «Agiuntar ina vista dividida» per vesair dus tabs il medem mument.
+splitview-onboarding-callout-cta-1 = Ussa empruvar
+splitview-onboarding-callout-title-2 = Vesair dus tabs il medem mument cun la vista dividida
+splitview-onboarding-callout-subtitle-2 = Naginas fanestras supplementaras. Naginas midadas da tabs. Clicca cun la tasta dretga da la mieur e tscherna «Agiuntar ina vista dividida».
+splitview-onboarding-callout-cta-2 = Emprova la vista dividida
 unified-search-callout-title = Midar tranter maschinas da retschertga
 unified-search-callout-subtitle = Tscherna la maschina che funcziuna il meglier per tia retschertga specifica.
 unified-search-callout-primary-label = Enavant

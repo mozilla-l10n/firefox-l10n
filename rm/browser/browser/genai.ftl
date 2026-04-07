@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Allontanar { $provider }
 genai-menu-remove-sidebar =
     .label = Allontanar da la trav laterala
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Dumandar { $provider }
 genai-menu-new-badge = Nov
 genai-menu-summarize-page = Resumar la pagina
 genai-input-ask-generic =
@@ -224,8 +227,12 @@ link-preview-reading-time =
         [one] { $range } minuta temp da lectura
        *[other] { $range } minutas temp da lectura
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } na po betg visualisar ina prevista da questa colliaziun
 # Text for the link to visit the original URL when in error state
 link-preview-visit-link = Visitar la colliaziun
+# Error message when key points generation (summary highlights or main ideas of page content) fails for a page
+link-preview-generation-error-missing-data-v2 = { -brand-short-name } na po betg generar puncts centrals per questa pagina-web.
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Igl ha dà in problem.
 # Text for the retry link when generation fails

@@ -410,6 +410,9 @@ quickactions-cmd-help = agid, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Avrir ils utensils per sviluppaders
 quickactions-cmd-inspector2 = inspectur, analisa da la pagina, devtools, instruments da svilup, svilup, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = biblioteca
+quickactions-library = Avrir la biblioteca
 quickactions-cmd-inspector = inspectur, utensils per sviluppaders
 # Opens about:logins
 quickactions-logins2 = Administrar ils pleds-clav

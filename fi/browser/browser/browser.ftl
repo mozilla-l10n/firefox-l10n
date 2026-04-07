@@ -410,6 +410,9 @@ quickactions-cmd-help = ohje, tuki
 # Opens the devtools web inspector
 quickactions-inspector2 = Avaa kehittäjätyökalut
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = kirjasto
+quickactions-library = Avaa kirjasto
 quickactions-cmd-inspector = tarkastaja, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Hallitse salasanoja
