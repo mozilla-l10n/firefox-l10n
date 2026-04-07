@@ -85,6 +85,14 @@ translations-panel-error-change-button =
     .label = Vaihda lähdekieltä
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = Valitettavasti käännökset kielestä { $language } eivät ole vielä tuettuja.
+translations-panel-error-unsupported-hint-unknown-2 = Valitettavasti käännökset tästä kielestä eivät ole vielä tuettuja.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
 #
 # Variables:
@@ -228,6 +236,16 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = Käännettäessä ilmeni ongelma. Yritä uudelleen.
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = Valitettavasti käännökset kielestä { $language } eivät ole vielä tuettuja.
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = Valitettavasti käännökset tästä kielestä eivät ole vielä tuettuja.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }

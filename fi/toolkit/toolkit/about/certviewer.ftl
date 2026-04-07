@@ -43,6 +43,10 @@ certificate-viewer-logid = Lokin tunnus
 certificate-viewer-method = Metodi
 certificate-viewer-modulus = Modulus
 certificate-viewer-name = Nimi
+certificate-viewer-surname = Sukunimi
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Etunimi
 certificate-viewer-not-after = Ei jälkeen
 certificate-viewer-not-before = Ei ennen
 certificate-viewer-organization = Organisaatio
