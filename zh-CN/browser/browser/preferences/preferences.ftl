@@ -290,6 +290,8 @@ containers-remove-cancel-button = 不移除此身份
 settings-tabs-show-image-in-preview =
     .label = 悬停在标签页的标签上时显示预览图
     .accessKey = h
+settings-tabs-drag-to-create-tab-groups =
+    .label = 将标签页拖放到一起以创建标签页群组
 browser-layout-header2 =
     .label = 浏览器布局
 browser-layout-horizontal-tabs2 =
@@ -804,6 +806,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = 新窗口和标签页
 home-new-windows-tabs-description2 = 选择您打开主页、新窗口和新标签页时要看到的内容。
+home-section =
+    .heading = 主页与启动
 
 ## Home Section - Default Browser
 
@@ -1122,6 +1126,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = 同步
+account-group-label2 =
+    .label = 账户
 account-group-label =
     .label = { -vendor-short-name } 账户
 account-placeholder =
@@ -2284,8 +2290,26 @@ preferences-doh-status-item-not-active =
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
     .message = 由于收到无效网址（{ $reason }），基于 HTTPS 的 DNS 未运作
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = 基于 HTTPS 的 DNS 正在使用提供方 { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = 由于在尝试使用本地提供方 { $name } 时遇到错误（{ $reason }），基于 HTTPS 的 DNS 未运作
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = 基于 HTTPS 的 DNS 正在使用本地提供方 { $name }
 preferences-doh-select-resolver-label =
     .label = 选择提供方：
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = 使用此提供方进行基于 HTTPS 的 DNS 解析
 preferences-doh-custom-provider-label =
     .aria-label = 输入自定义提供方的网址
 preferences-doh-header2 =
@@ -2359,10 +2383,22 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-header = { -brand-short-name } 正在防护
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } 安全改进推荐
 security-privacy-status-ok-label = 增强型跟踪保护已开启
 security-privacy-status-problem-label = 我们发现有些设置会影响您的保护状态
 security-privacy-status-problem-helper-label = 查看问题
+security-privacy-status-pending-trackers-label = 正在查询 { -brand-short-name } 上月拦截的跟踪器数量
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label = 上月拦截了 { $trackerCount } 个跟踪器
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = 正在使用<a data-l10n-name="strict-tracking-protection">严格保护</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = 正在使用<a data-l10n-name="custom-tracking-protection">自定义保护</a>
 security-privacy-status-up-to-date-label = 您已安装最新、最安全的 { -brand-short-name } 版本
+security-privacy-status-update-needed-label = { -brand-short-name } 有新版本可用。
 security-privacy-status-update-error-label = { -brand-short-name } 更新时遇到问题
 security-privacy-status-update-checking-label = { -brand-short-name } 正在检查更新
 security-privacy-status-update-needed-description = 更新以获取最新的速度、稳定性和安全性更新。
@@ -2378,8 +2414,20 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-standard =
+    .label = 标准（默认）
+    .description = 强大又可靠的保护，与大多数网站顺畅兼容。
+preferences-etp-level-strict =
+    .label = 严格
+    .description = 更强大的保护，可拦截更多跟踪器，但可能导致某些网站异常。
+preferences-etp-level-custom =
+    .label = 定制
+    .description = 选择开启和关闭的保护。
 preferences-etp-status-advanced-button =
     .label = 高级设置
+preferences-etp-status-protections-dashboard-link =
+    .label = 查看个性化保护信息面板
+    .description = 查看 { -brand-short-name } 为您拦截的跟踪器数量，包括社交媒体跟踪器、数字指纹跟踪程序和加密货币挖矿程序。
 preferences-etp-header =
     .heading = 增强型跟踪保护
 preferences-etp-customize-button =
@@ -2390,6 +2438,9 @@ preferences-etp-reload-tabs-hint-button =
     .label = 重新加载所有标签页
 preferences-etp-rfp-warning-message =
     .message = 您正在使用 Resist Fingerprinting（RFP），这会覆盖 { -brand-short-name } 部分数字指纹跟踪程序保护设置，并可能导致某些网站异常。
+preferences-etp-manage-exceptions-button =
+    .label = 管理例外
+    .description = 管理禁用增强型跟踪保护的网站。
 preferences-etp-customize-header =
     .heading = 自定义跟踪保护
 preferences-etp-reset =

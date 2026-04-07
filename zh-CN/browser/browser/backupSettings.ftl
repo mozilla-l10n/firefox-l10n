@@ -51,9 +51,15 @@ settings-data-backup-last-backup-location-show-in-folder = 在文件夹中显示
 settings-data-backup-last-backup-location-edit = 编辑…
 settings-data-create-backup-error = 于 { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") } 创建备份时出错
 settings-sensitive-data-encryption-description = 备份您的密码和付款信息，并以加密来保护数据安全。
+settings-data-toggle-encryption-label2 =
+    .label = 备份敏感数据
+    .description = 备份密码和付款方式，并以加密来保护数据安全。
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 文件名：{ $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = 恢复数据
+    .description = 从最近一次备份恢复您的 { -brand-product-name } 数据。
 settings-data-backup-restore-header = 恢复数据
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -261,6 +267,11 @@ backup-file-other-browser-restore-step-4 = 按照指引，重新启动 { -brand-
 # Variables:
 # $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
 other-backup-files-founds = <b>注意：</b>另找到其他 { $numberOfOtherBackupsFound } 个备份文件
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b>（{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 创建于 { $machineName }）
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

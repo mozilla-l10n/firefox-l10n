@@ -23,6 +23,7 @@ firefox-relay-reuse-masks-header = 您已用完 { $count } 个免费马甲邮箱
 # Description following warning that the user has used all their free email masks.
 # The user is presented a list of recently used masks to select, or they can click a button to see all masks.
 firefox-relay-reuse-masks-description-v2 = 您可以重复使用某个马甲，或查看所有马甲来另选一个。
+firefox-relay-reuse-masks-select-label = 选择最近使用的马甲
 firefox-relay-see-all-masks =
     .label = 查看所有马甲
     .accesskey = S

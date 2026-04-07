@@ -410,6 +410,9 @@ quickactions-cmd-help = 帮助, 支持, help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 打开开发者工具
 quickactions-cmd-inspector2 = 检查器, 开发者工具, inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = 我的足迹, 足迹, library
+quickactions-library = 打开“我的足迹”
 quickactions-cmd-inspector = 查看器, 开发工具, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 管理密码
@@ -1153,6 +1156,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = 密码
     .tooltiptext = 查看并管理您存放的密码
+qrcode-panel-error =
+    .message = 生成二维码失败，请重试。
 qrcode-copy-button =
     .label = 复制
 qrcode-copy-success =

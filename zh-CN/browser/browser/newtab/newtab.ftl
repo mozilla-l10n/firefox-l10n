@@ -656,6 +656,8 @@ newtab-report-cancel = 取消
 newtab-report-submit = 提交
 newtab-toast-thanks-for-reporting =
     .message = 感谢反馈。
+newtab-toast-widgets-hidden =
+    .message = 选择铅笔图标，随时重新添加小组件。
 
 ## Strings for task / to-do list productivity widget
 
@@ -707,6 +709,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = 最小化小组件
     .aria-label = 将所有小组件收缩为紧凑大小
+newtab-widget-section-feedback = 告诉我们您的想法
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
@@ -738,6 +741,11 @@ newtab-daily-briefing-card-timestamp = { $minutes } 分钟前更新
 newtab-widget-message-title = 借助清单和内置计时器，聚焦重点、保持专注。
 # to-dos stands for "things to do".
 newtab-widget-message-copy = 从快捷提醒到日常待办，从专注时段到放松片刻，既能帮您管理任务，又可助您把握时间。
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = 让 { -brand-product-name } 更具个性
+newtab-promo-card-body-addons = 从我们的精选壁纸中挑选一张，也可以自己创作。
 newtab-promo-card-cta-addons = 现在就试试
 newtab-promo-card-title = 支持 { -brand-product-name }
 newtab-promo-card-body = 建设一个更好的互联网的使命，离不开我们赞助商的支持
@@ -766,3 +774,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = 这片空间，由您做主
+newtab-activation-window-message-values-focus-message = { -brand-product-name } 可让您以更具个性的方式开启网络上的新一天，按自己喜欢的方式来浏览。让 { -brand-product-name } 有您的个性。

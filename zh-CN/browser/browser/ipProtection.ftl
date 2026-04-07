@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = 欢迎连接 VPN，现已内置于浏览器
 ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 即使是在隐私窗口，使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 也能隐藏真实位置、保护个人数据。
+ipprotection-feature-introduction-description-private-browsing = 即使是在隐私窗口，也能隐藏真实位置，获得额外保护。
+ipprotection-feature-introduction-description-captive-portal = 即使使用公共 Wi-Fi，也能隐藏真实位置，获得额外保护。
 ipprotection-feature-introduction-button-primary = 下一步
 ipprotection-feature-introduction-button-secondary-not-now = 暂时不要
 ipprotection-feature-introduction-button-secondary-no-thanks = 不了，谢谢
@@ -39,6 +41,8 @@ ipprotection-site-settings-callout-button = 知道了
 ## Panel
 
 unauthenticated-vpn-title = 试用 { -brand-product-name } 的内置 VPN
+unauthenticated-hide-location-message-3 = 在用 { -brand-product-name } 浏览时<a data-l10n-name="learn-more-vpn">隐藏真实位置</a>。
+unauthenticated-hide-location-message-2 = 在用 { -brand-product-name } 浏览时隐藏真实位置。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月可免费获得 { $maxUsage } GB VPN 流量
@@ -91,6 +95,7 @@ ipprotection-connection-status-generic-error-try-again = 请稍后再试。
 ipprotection-connection-status-network-error-title = 请检查您的互联网连接
 ipprotection-connection-status-network-error-description = 请先连接到互联网，然后尝试开启 VPN。
 ipprotection-connection-status-blocked-error-title = VPN 不可用
+ipprotection-connection-status-blocked-error-description = 当地法律未允许我们在此地区提供 VPN 服务。<a data-l10n-name="learn-more-link">详细了解</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -133,6 +138,11 @@ ip-protection-description =
 ip-protection-learn-more = 详细了解
 ip-protection-site-exceptions =
     .label = 特定网站设置
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = 试用 { -brand-short-name } 的内置 VPN
+    .message = 在用 { -brand-short-name } 浏览时隐藏真实位置，每月可享 { $maxUsage } GB VPN 流量。
 ip-protection-not-opted-in-button = 开始使用
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

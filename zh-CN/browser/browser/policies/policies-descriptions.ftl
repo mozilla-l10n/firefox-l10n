@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = 设置 WebExtension 可通过 chrome.storage.managed 访问的策略。
+policy-AIControls = 配置 AI 控制。
 policy-AllowedDomainsForApps = 定义允许访问 Google Workspace 的域。
 policy-AllowFileSelectionDialogs = 允许显示文件选择对话框。
 policy-AppAutoUpdate = 启用或禁用应用程序自动更新。
@@ -90,6 +91,7 @@ policy-Homepage = 设置主页，可选择锁定。
 policy-HttpAllowlist = 不会被升级为 HTTPS 的来源。
 policy-HttpsOnlyMode = 允许启用 HTTPS-Only 模式。
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
+policy-IPProtectionAvailable = 阻止向用户提供内置 VPN。
 policy-LegacyProfiles = 禁用要求每个安装实例有不同用户配置文件的功能
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
