@@ -64,8 +64,12 @@ new-profile-page-done-button =
     .label = 完成编辑
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = “{ $profilename }”的副本已准备好，可进行定制
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = “{ $profilename }”的副本已准备好，可进行定制
 copied-profile-page-header-description = 我们已将您的数据和设置复制到新的配置文件。现在请为其命名、选择外观，并完成定制。
+restored-profile-page-header-description = 各配置文件独立保存浏览历史和设置，互不影响。此外，{ -brand-short-name } 强大的隐私保护功能默认开启。
 restored-profile-page-learn-more = 详细了解
 profile-window-title-2 = { -brand-short-name } - 选择配置文件
 profile-window-logo =
@@ -88,6 +92,9 @@ delete-profile-bookmarks = 书签
 delete-profile-history = 历史记录（曾访问的页面、Cookie、网站数据）
 delete-profile-autofill = 自动填写数据（地址、付款方式）
 delete-profile-logins = 密码
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = 删除“{ $profilename }”配置文件
 
 ##
 

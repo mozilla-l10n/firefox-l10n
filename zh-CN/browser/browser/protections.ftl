@@ -190,3 +190,15 @@ bar-tooltip-cryptominer =
         }
 # Privacy Metrics Card
 privacy-metrics-title = 隐私保护
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week = 本周已拦截 { $count } 个
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers = { $count } 个跟踪器
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters = { $count } 个数字指纹跟踪程序
+privacy-metrics-loading = 正在加载保护统计信息…
+privacy-metrics-error = 无法加载保护统计信息。
+privacy-metrics-private-window = { -brand-short-name } 将继续在隐私窗口中拦截跟踪器，但不会记录拦截了什么。
