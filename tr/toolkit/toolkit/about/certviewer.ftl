@@ -43,6 +43,10 @@ certificate-viewer-logid = Log kimliği
 certificate-viewer-method = Yöntem
 certificate-viewer-modulus = Modülüs
 certificate-viewer-name = Adı
+certificate-viewer-surname = Soyadı
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Adı
 certificate-viewer-not-after = Bitiş
 certificate-viewer-not-before = Başlangıç
 certificate-viewer-organization = Kurum

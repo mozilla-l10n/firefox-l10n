@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } { 
 
 neterror-file-not-found-filename = Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.
 neterror-file-not-found-moved = Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } <strong>{ $path }</strong> konumundaki dosyayı bulamıyor. Bu dosya yok veya yolu yanlış.
 neterror-access-denied = Silinmiş, taşınmış veya dosya izinleri nedeniyle erişilemiyor olabilir.
 neterror-unknown-protocol = Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.
 neterror-redirect-loop = Bu sorun bazen çerezlerin devre dışı bırakılmasından veya reddedilmesinden kaynaklanabilir.
@@ -190,6 +193,11 @@ fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> sunucusunun yanı
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> bir hata gönderdi.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = <strong>{ $hostname }</strong> sunucusu bir hata mesajı gönderdi: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = Bu sayfanın güvenlik yapılandırması bir önceki sayfayla eşleşmediği için { -brand-short-name } bu sayfayı yüklemedi.
 fp-neterror-http-auth-disabled-intro = Birisi bu siteyi taklit ederek kullanıcı adınız, parolanız veya e-postanız gibi bilgileri çalmaya çalışabilir.
 fp-neterror-http-auth-disabled-secure-connection = Bu site güvenli bir bağlantı gerektiriyor ve siteyi ziyaret etmek için istisna ekleyemezsiniz.

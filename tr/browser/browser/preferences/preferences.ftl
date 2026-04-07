@@ -1141,6 +1141,8 @@ account-group-label =
 account-placeholder =
     .label = Giriş yapmadınız
     .description = Verilerinizi gizli, şifreli ve tüm cihazlarınızla eşitlenmiş tutmak için giriş yapın.
+account-sync-section =
+    .heading = Hesap ve eşitleme
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -2143,8 +2145,16 @@ data-collection-health-report =
     .label = Teknik verileri ve etkileşim verilerini { -vendor-short-name }’ya gönder
     .accesskey = r
     .description = Bu, { -brand-product-name } tarayıcısının özelliklerini, performansını ve kararlılığını geliştirmemize yardımcı olur.
+data-collection-health-report-disabled =
+    .label = Teknik verileri ve etkileşim verilerini { -vendor-short-name }’ya gönder
+    .accesskey = r
+    .description = Bu sürümün yapılandırmasında veri raporlama devre dışı bırakılmış.
 data-collection-studies-link =
     .label = { -brand-short-name } araştırmalarını göster
+data-collection-backlogged-crash-reports =
+    .label = Çökme raporlarını otomatik olarak gönder
+    .description = Bu sayede { -vendor-short-name } tarayıcıyla ilgili sorunları tanılayıp düzeltebilir. Raporlar kişisel veya hassas veriler içerebilir.
+    .accesskey = ö
 data-collection-usage-ping =
     .label = Günlük kullanım ping’ini { -vendor-short-name }’ya gönder
     .description = Bu sayede { -vendor-short-name } aktif kullanıcı sayısını tahmin edebilir.
