@@ -589,6 +589,7 @@ pdfjs-editor-delete-comment-popup-button =
 
 ##  Edit a comment dialog
 
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = حدّث
 pdfjs-editor-edit-comment-dialog-cancel-button = ألغِ
 
 ## The view manager is a sidebar displaying different views:

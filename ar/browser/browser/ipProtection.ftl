@@ -24,6 +24,9 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = نقدم لكم خدمة VPN، الآن مباشرة داخل متصفحك
+ipprotection-feature-introduction-link-text-2 = استخدم خاصية VPN المدمجة الجديدة لدينا لإخفاء موقعك وحماية بياناتك.
+ipprotection-feature-introduction-link-text-private-browsing-2 = استخدم خاصية VPN المدمجة الجديدة لدينا لإخفاء موقعك وحماية بياناتك، حتى عندما تكون في نافذة خاصة.
+ipprotection-feature-introduction-description-private-browsing = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى عندما تكون في نافذة خاصة.
 ipprotection-feature-introduction-description-captive-portal = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى على شبكات الواي فاي العامة.
 ipprotection-feature-introduction-button-primary = التالي
 ipprotection-feature-introduction-button-secondary-not-now = ليس الآن
@@ -86,12 +89,41 @@ upgrade-vpn-button = جرّب { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-title = تعذّر الاتصال بشبكة VPN
+ipprotection-connection-status-generic-error-description = حاول مرة أخرى بعد بضع دقائق.
+ipprotection-connection-status-generic-error-try-again = من فضلك حاول ثانية فيما بعد.
+ipprotection-connection-status-network-error-title = تحقَّق من اتصالك بالإنترنت
+ipprotection-connection-status-network-error-description = اتصل بالإنترنت، ثم حاول تشغيل VPN.
+ipprotection-connection-status-blocked-error-title = خدمة VPN غير متاحة
+ipprotection-connection-status-blocked-error-description = تمنعنا القوانين المحلية من تقديم خدمة VPN في هذه المنطقة. <a data-l10n-name="learn-more-link">اطّلع على المزيد</a>
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = اقتربت من الحد الأقصى لاستخدام VPN الخاص بك
+    .message = لديك { $usageLeft }ج.بايت متبقية من { $maxUsage }ج.بايت لهذا الشهر.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = اقتربت من الحد الأقصى لاستخدام VPN الخاص بك
+    .message = لديك { $usageLeft }م.بايت متبقية من { $maxUsage }ج.بايت لهذا الشهر.
 ipprotection-message-continuous-onboarding-intro = شغّل VPN لإخفاء موقعك وإضافة تعمية إضافي لتصفحك.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">عيّن لتشغيل VPN</a> في كل مرة تفتح فيها { -brand-short-name } للحصول على طبقة إضافية من الحماية.
 ipprotection-message-continuous-onboarding-site-settings = سيحفظ { -brand-short-name } المواقع الإلكترونية التي عينتها لاستخدام VPN. يمكنك تحديث هذه الإعدادات في <a data-l10n-name="setting-link">الإعدادات</a> في أي وقت.
+confirmation-hint-ipprotection-navigated-to-excluded-site = ال VPN معطّل لهذا الموقع
 
 ## IP Protection bandwidth callouts
 
+ipprotection-bandwidth-upgrade-title = أتحب استخدام VPN المدمج؟ احصل على حماية أكبر خارج { -brand-product-name } مع { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = اختر موقع VPN وأضف الحماية لجميع تطبيقاتك على ما يصل إلى 5 أجهزة، سواء كنت في المنزل أو على شبكة Wi-Fi عامة.
+
+## IP Protection Settings
+
+ip-protection-learn-more = اطّلع على المزيد
+ip-protection-site-exceptions =
+    .label = إعدادات خاصة بالموقع
+ip-protection-not-opted-in-button = ابدأ
 
 ## IP Protection add-on breakage warnings
 
