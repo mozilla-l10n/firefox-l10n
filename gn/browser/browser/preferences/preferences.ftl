@@ -2339,9 +2339,23 @@ preferences-doh-fallback-label =
 preferences-doh-status-item-off =
     .message = DNS HTTPS rehegua ojepe’a
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS HTTPS rehegua ndoikói rojuhu haguére peteĩ jejavy ({ $reason }) eiporusévo pe me’ẽhára { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS HTTPS rehegua ndoikói og̃uahẽre oréve peteĩ URL oiko’ỹva ({ $reason })
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS HTTPS rehegua oiporu me’ẽhára { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS HTTPS rehegua ndoikói hína rojuhu haguére peteĩ jejavy ({ $reason }) eiporusévo pe me’ẽhára { $name }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
