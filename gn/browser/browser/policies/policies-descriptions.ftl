@@ -129,6 +129,7 @@ policy-Preferences = Emboheko ha ejoko tepykue jeguerohoryvéva aty’ípe g̃ua
 policy-PrivateBrowsingModeAvailability = Emboheko ñeikundaha ñemiguáva rekópe.
 policy-PromptForDownloadLocation = Eporandu moõpa eñongatúta marandurenda emboguejykuévo.
 policy-Proxy = Emboheko proxy mohendahavusu.
+policy-RelaunchRequired = Ejerure { -brand-short-name } toñepyrũ jey peteĩ arapa’ũ oje’évape ha emomarandu puruharaitápe oñepyrũjeýta vove.
 policy-RequestedLocales = Emopyenda tenda jerurepyre rusýi emomba’apo hag̃ua hekoitépe.
 policy-SanitizeOnShutdown2 = Emboguete kundaha mba’ekuaarã esẽnguévo.
 policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe poruhára ikatu gueteri oñemomba’e hese.
@@ -138,6 +139,8 @@ policy-SearchSuggestEnabled = Emyandy térã embogue jeheka rehegua.
 policy-SecurityDevices2 = Embojuaju térã eipe’a PKCS #11 ta’ãha.
 policy-ShowHomeButton = Ehechauka ñepyrũha votõ tembiporu rendápe.
 policy-SitePolicies = Tenda porurekoite.
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = Anietéke ehechauka umi jeporurã rekoguatarã rehegua ha umi jehaipy tekoñemiregua oñepyrũvo. Nde ere emoneĩ ha ikatuha emoneĩ jeporurã rekoguata opavavete tapicha oikeséva ko kundahárape.
 policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 policy-SSLVersionMin = Emboheko SSL rembiapokue oiko’ivéva.
 policy-StartDownloadsInTempDirectory = Embojere umi ñemboguejy oñepyrũ hag̃ua peteĩ tenda sapy’agua tendápe, tenda’i ñemboguejyrã ñepyrũrã rangue.
