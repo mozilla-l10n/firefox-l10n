@@ -113,6 +113,19 @@ profiles-ocean-theme-2 = أزرق المحيط
 profiles-terracotta-theme-2 = أحمر طوبي
 # This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
 profiles-moss-theme-2 = أخضر طحلبي
+profiles-gray-theme = رمادي
+profiles-gray-theme-title =
+    .title = طبّق المظهر الرمادي
+profiles-yellow-theme = أصفر
+profiles-orange-theme = برتقالي
+profiles-red-theme = أحمر
+
+## Data collection settings changed (multi-profile)
+
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = اعرض الإعدادات
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = أهمِل
 
 ## Alternative text for default profile icons
 
@@ -120,19 +133,54 @@ book-avatar-alt =
     .alt = كتاب
 briefcase-avatar-alt =
     .alt = حقيبة
+picture-avatar-alt =
+    .alt = صورة
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = حرفة
 flower-avatar-alt =
     .alt = ورد
 heart-avatar-alt =
     .alt = قلب
+clock-avatar-alt =
+    .alt = ساعة
 shopping-avatar-alt =
     .alt = عربة تسوق
 star-avatar-alt =
     .alt = نجمة
+video-game-controller-avatar-alt =
+    .alt = وحدة تحكم ألعاب الفيديو
 custom-avatar-alt =
     .alt = صورة رمزية مخصّصة
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = الماس
+barbell-avatar-alt =
+    .alt = باربل
+bike-avatar-alt =
+    .alt = دراجة
 
 ## Tooltips for default avatar icons
 
 book-avatar = كتاب
 briefcase-avatar = حقيبة
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = حرفة
 custom-avatar = صورة رمزية مخصّصة
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = الماس
+flower-avatar = ورد
+folder-avatar = مجلد
+hammer-avatar = مطرقة
+heart-avatar = قلب
+heart-rate-avatar = معدل ضربات القلب
+leaf-avatar = ورقة شجر
+lightbulb-avatar = مصباح كهربائي
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = رسالة
+shopping-avatar = عربة تسوق
+star-avatar = النجمة
+profiles-appmenu-callout-tour-title = ملفك الشخصي الجديد جاهز للاستخدام
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = في قائمة ☰، انقر على اسم ملفك الشخصي لإنشاء ملف آخر أو حرّر هذا الملف أو التنقل بين حياتك الرقمية.
+profiles-appmenu-callout-tour-primary-button = ما الطريقة؟

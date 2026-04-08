@@ -24,6 +24,10 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = A apresentar a VPN, agora dentro do seu navegador
+ipprotection-feature-introduction-link-text-2 = Utilize a nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar a sua localização e proteger os seus dados.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Utilize a nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar a sua localização e proteger os seus dados, mesmo quando estiver numa janela privada.
+ipprotection-feature-introduction-description-private-browsing = Navegue com proteção adicional ao ocultar a sua localização, mesmo ao utilizar uma janela privada.
+ipprotection-feature-introduction-description-captive-portal = Navegue com proteção adicional ao ocultar a sua localização, mesmo ao utilizar o Wi-Fi público.
 ipprotection-feature-introduction-button-primary = Seguinte
 ipprotection-feature-introduction-button-secondary-not-now = Agora não
 ipprotection-feature-introduction-button-secondary-no-thanks = Não, obrigado
@@ -31,11 +35,13 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Não, obrigado
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Escolha onde utiliza a VPN
+ipprotection-site-settings-callout-subtitle = Desative a VPN para um site específico e vamos manter a sua escolha na próxima visita.
 ipprotection-site-settings-callout-button = Percebi
 
 ## Panel
 
 unauthenticated-vpn-title = Experimente a VPN integrada do { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Oculte a sua localização</a> enquanto navega no { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Oculte a sua localização enquanto navega no { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -85,8 +91,11 @@ upgrade-vpn-button = Experimente a { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Não foi possível ligar à VPN
 ipprotection-connection-status-generic-error-description = Tente novamente dentro de alguns minutos.
+ipprotection-connection-status-generic-error-try-again = Tente mais tarde.
 ipprotection-connection-status-network-error-title = Verifique a sua ligação à Internet
 ipprotection-connection-status-network-error-description = Ligue-se à Internet e tente ligar a VPN.
+ipprotection-connection-status-blocked-error-title = A VPN está indisponível
+ipprotection-connection-status-blocked-error-description = A legislação local impede-nos de disponibilizar o serviço de VPN nesta região. <a data-l10n-name="learn-more-link">Saiba mais</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -100,8 +109,14 @@ ipprotection-message-bandwidth-warning-mb =
     .heading = A chegar perto do limite da sua VPN
     .message = Restam-lhe { $usageLeft } MB de { $maxUsage } GB este mês.
 ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar a sua localização e adicionar uma encriptação adicional à sua navegação.
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ative a VPN automaticamente</a> sempre que abrir o { -brand-short-name } para garantir uma proteção adicional.
 ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } irá memorizar quais os sites que configurou para utilizar a VPN. Atualize os mesmos, a qualquer momento, nas <a data-l10n-name="setting-link">definições</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativada para este site
+
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Gosta de uma VPN integrada? Obtenha ainda mais proteção fora do { -brand-product-name } com a { -mozilla-vpn-brand-name }.
+ipprotection-bandwidth-upgrade-text = Escolha uma localização da VPN e adicione proteção a todas as suas aplicações em até 5 dispositivos, quer esteja em casa ou numa rede Wi-Fi pública.
 
 ## IP Protection Settings
 
