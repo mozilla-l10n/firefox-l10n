@@ -259,6 +259,13 @@ menu-profiles-manage-profiles =
     .label = أدِر ملفات الإعدادات
 menu-profiles-new-profile =
     .label = ملف إعداد جديد
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (الحالي)
+menu-profiles-menu =
+    .label = ملفات شخصية
+    .accesskey = ل
 
 ## Tools Menu
 
