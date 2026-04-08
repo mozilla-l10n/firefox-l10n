@@ -1134,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = სინქრონიზაცია
+account-group-label2 =
+    .label = ანგარიში
+account-placeholder2 =
+    .label = შესული არ ხართ.
+    .description = შედით, რომ თქვენი მონაცემები დარჩეს ხელშეუხებელი, დაშიფრული და მყისიერად ხელმისაწვდომი ყველგან, სადაც კი გიყენიათ { -brand-short-name }.
 account-group-label =
     .label = { -vendor-short-name }-ანგარიში
 account-placeholder =
     .label = შესული არ ხართ.
     .description = შედით, რომ თქვენი მონაცემები დარჩეს პირადული, დაშიფრული და დასინქრონებული სხვადასხვა მოწყობილობაზე.
+account-sync-section =
+    .heading = ანგარიში და დასინქრონება
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1261,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = ეს ერთეულები დასინქრონებული გაქვთ ყველა დაკავშირებულ მოწყობილობაში:
 sync-syncing-across-devices-heading-2 = მონაცემები დასინქრონებულია მოწყობილობებს შორის.
+sync-syncing-across-devices-empty-state2 =
+    .label = მართეთ დასინქ. მონაცემები
+    .description = ჯერ არაფერი დაგისინქრონებიათ… დაიწყეთ დასინქრონება, რომ თქვენი მონაცემები ხელთ გქონდეთ ყველა თქვენს მოწყობილობაზე.
 sync-syncing-across-devices-empty-state =
     .label = ჯერ არაფერია დასინქრონებული…
     .description = დაიწყეთ დასინქრონება, რომ იხილოთ ყველა მონაცემი სხვა მოწყობილობებზეც.
@@ -1280,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = დასინქრონებული მონაცემების მართვა
     .accesskey = მ
+settings-sync-disconnect-button =
+    .label = გამოთიშვა
 sync-change-options =
     .label = შეცვლა…
     .accesskey = შ
