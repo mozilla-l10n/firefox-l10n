@@ -309,7 +309,9 @@ tail-fox-spotlight-secondary-button = Agora não
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-title = Regresse à privacidade intrínseca
 welcome-back-spotlight-subtitle = Bem-vindo(a) de volta ao único grande navegador apoiado por uma organização sem fins lucrativos. Nós tomamos medidas adicionais para proteger os seus dados, onde quer que vá.
+welcome-back-embedded-import-title = Importe os seus dados e faça do { -brand-short-name } a sua casa
 
 ## Root Certificate Succession Infobar
 
@@ -340,6 +342,7 @@ fxa-menu-message-sign-in-button = Iniciar sessão
 fxa-menu-message-sync-button = Começar a sincronizar
 fxa-menu-message-sync-devices-primary-text = Sincronize todos os seus dispositivos
 fxa-menu-message-sync-devices-secondary-text = Obtenha a sua informação de forma instantânea — como marcadores e palavras-passe — onde quer que utilize o { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = Aceda rapidamente aos seus marcadores, palavras-passe e muito mais — em todos os dispositivos onde tenha sessão iniciada no { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = Sincronize todos os seus dispositivos
 fxa-menu-message-backup-data-primary-text = Cópia de segurança dos dados do seu navegador
 fxa-menu-message-backup-data-secondary-text = Proteja automaticamente marcadores, palavras-passe e outras informações em todos os seus dispositivos.
@@ -371,8 +374,16 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Mantenha o seu navegador privado favorito, apenas a um clique de distância. Defina o { -brand-short-name } como o seu navegador predefinido para abrir ligações e fixe-o à sua barra de ferramentas e menu Iniciar.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = Vai atualizar a partir do Windows 10 em breve?
+windows-10-eos-sync-spotlight-subtitle = Faça uma cópia das suas palavras-passe e marcadores para que tenha tudo pronto para mudar para qualquer dispositivo.
+windows-10-eos-sync-spotlight-primary-label = Guarde uma cópia de segurança do seu { -brand-short-name }
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
+windows-10-eos-sync-toast-title = A atualizar para o Windows 11? Não perca os marcadores e as palavras-passe.
+windows-10-eos-sync-toast-subtitle = Guarde uma cópia dos seus dados para que o { -brand-short-name } esteja sempre pronto, neste PC ou no próximo.
 windows-10-eos-sync-toast-primary-label = Começar
 windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 
