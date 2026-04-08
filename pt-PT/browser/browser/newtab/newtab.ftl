@@ -317,6 +317,8 @@ newtab-custom-shortcuts-toggle =
     .description = Sites que guarda ou visita
 newtab-custom-shortcuts-nova =
     .label = Atalhos
+newtab-custom-row-description =
+    .description = Número de linhas
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -520,6 +522,12 @@ newtab-weather-opt-in-yes =
     .label = Sim
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Nova Iorque
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Máxima
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Mínima
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -737,6 +745,7 @@ newtab-daily-briefing-card-menu-dismiss = Dispensar
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Atualizadas há { $minutes }m
 newtab-widget-message-title = Mantenha-se focado com as listas e um temporizador integrado
+newtab-promo-card-cta-addons = Experimentar agora
 newtab-promo-card-title = Apoiar o { -brand-product-name }
 newtab-promo-card-body = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
 newtab-promo-card-cta = Saber mais

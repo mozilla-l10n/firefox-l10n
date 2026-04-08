@@ -496,13 +496,48 @@ settings-translations-subpage-language-add-button =
     .title = Adicionar idioma
 settings-translations-subpage-download-languages-header =
     .label = Transferir idiomas
+settings-translations-subpage-download-languages-select-option =
+    .label = Selecionar idioma
+settings-translations-subpage-download-languages-button =
+    .aria-label = Transferir idioma
+    .title = Transferir idioma
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size } MB)
+    .label = { $language } ({ $size } MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = Nenhum idioma transferido
+settings-translations-subpage-no-languages-added =
+    .label = Nenhum idioma adicionado
+settings-translations-subpage-download-progress = A transferir…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = Não foi possível transferir { $language } ({ $size } MB)
+settings-translations-subpage-download-retry-button =
+    .label = Tentar novamente
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = Eliminar { $language } ({ $size } MB)?
+settings-translations-subpage-download-delete-button =
+    .label = Eliminar
+settings-translations-subpage-download-cancel-button =
+    .label = Cancelar
+settings-translations-subpage-no-sites-added =
+    .label = Nenhum site adicionado
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Utilize as definições do sistema operativo para o “{ $localeName }” para formatar datas, horas, números e medidas.
+settings-spellcheck-header =
+    .label = Verificação ortográfica
 check-user-spelling =
     .label = Verificar a sua ortografia enquanto escreve
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = Transferir dicionários
 
 ## General Section - Files and Applications
 
@@ -2189,3 +2224,9 @@ preferences-etp-custom-tracking-protection-enabled-context =
     .aria-label = Conteúdo de monitorização
 preferences-etp-custom-crypto-mining-protection-enabled =
     .label = Cripto-mineradores
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Identificadores digitais conhecidos
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Identificadores digitais suspeitos
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Identificadores digitais suspeitos

@@ -65,6 +65,7 @@ new-profile-page-done-button =
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = A sua cópia de { $profilename } está pronta para ser personalizada
+restored-profile-page-learn-more = Saber mais
 profile-window-title-2 = { -brand-short-name } - Escolha um perfil
 profile-window-logo =
     .alt = Logótipo do { -brand-short-name }

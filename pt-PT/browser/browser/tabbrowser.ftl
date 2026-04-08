@@ -347,6 +347,23 @@ tab-group-context-open-saved-group-in-new-window =
 
 ## Tab Notes
 
+tab-context-add-note =
+    .label = Adicionar nota
+    .accesskey = A
+tab-context-update-note =
+    .label = Atualizar nota
+    .accesskey = u
+tab-context-edit-note =
+    .label = Editar nota
+    .accesskey = E
+tab-context-delete-note =
+    .label = Eliminar nota
+    .accesskey = l
+tab-note-editor-title-create = Adicionar nota
+tab-note-editor-title-edit = Editar nota
+tab-note-editor-button-save =
+    .label = Guardar
+    .accesskey = G
 tab-note-panel-add-note-new-badge =
     .label = Nova
 
