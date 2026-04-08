@@ -66,21 +66,21 @@ unified-extensions-mb-about-addons-link = Перейти в настройки �
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single2 =
-    .heading = { $extensionName } отключено
+    .heading = «{ $extensionName }» отключено
     .message =
         Это расширение ограничено и было отключено.
         Вы можете включить его в настройках, но это может быть рискованно.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
-    .heading = { $extensionName } отключено
+    .heading = «{ $extensionName }» отключено
     .message =
         Это расширение нарушает политику Mozilla и было отключено.
         Вы можете включить его в настройках, но это может быть рискованно.
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a hard-block.
 unified-extensions-mb-blocklist-error-single =
-    .heading = { $extensionName } отключено
+    .heading = «{ $extensionName }» отключено
     .message = Это расширение нарушает политику Mozilla и было отключено.
 # Variables:
 #   $extensionsCount (Number) - Number of extensions disabled through both soft and hard-blocks (always going to be greater than 1)

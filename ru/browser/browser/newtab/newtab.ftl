@@ -476,7 +476,7 @@ newtab-wallpaper-celestial-lunar-eclipse = Лунное затмение
 newtab-wallpaper-celestial-earth-night = Ночное фото с низкой околоземной орбиты
 newtab-wallpaper-celestial-starry-sky = Звёздное небо
 newtab-wallpaper-celestial-eclipse-time-lapse = Хронометраж лунного затмения
-newtab-wallpaper-celestial-black-hole = Иллюстрация галактики с черной дырой
+newtab-wallpaper-celestial-black-hole = Иллюстрация галактики с чёрной дырой
 newtab-wallpaper-celestial-river = Космический снимок реки
 
 ## New Tab Weather

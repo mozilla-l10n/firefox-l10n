@@ -245,7 +245,7 @@ about-debugging-tmp-extension-remove-button = Удалить
 # Clicking on the button will forcefully terminate the extension background script (button
 # only visible in extensions that includes a non-persistent background script, either an
 # event page or a background service worker).
-about-debugging-tmp-extension-terminate-bgscript-button = Завершить фоновый сценарий
+about-debugging-tmp-extension-terminate-bgscript-button = Завершить фоновый скрипт
 # Message displayed in the file picker that opens to select a temporary extension to load
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
@@ -272,7 +272,7 @@ about-debugging-extension-id =
 # Text displayed for extensions in "runtime" pages, before displaying the status of the
 # extension background script.
 about-debugging-extension-backgroundscript =
-    .label = Фоновый сценарий
+    .label = Фоновый скрипт
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = Выполняется

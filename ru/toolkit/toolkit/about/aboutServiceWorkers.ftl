@@ -22,7 +22,7 @@ origin-title = Источник: { $originTitle }
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Область:</strong> { $name }
-script-spec = <strong>Спецификация сценария:</strong> <a data-l10n-name="link">{ $url }</a>
+script-spec = <strong>Спецификация скрипта:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL текущего Worker:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Имя активного кеша:</strong> { $name }
 waiting-cache-name = <strong>Имя кеша ожидания:</strong> { $name }

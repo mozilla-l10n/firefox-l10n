@@ -25,7 +25,7 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Представляем VPN, теперь прямо в вашем браузере
 ipprotection-feature-introduction-link-text-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные.
-ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть свое местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-description-private-browsing = Работайте в интернете с дополнительной защитой, скрывая своё местоположение, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-description-captive-portal = Работайте в интернете с дополнительной защитой, скрывая своё местоположение даже при подключении к общедоступной сети Wi-Fi.
 ipprotection-feature-introduction-button-primary = Далее
@@ -41,8 +41,8 @@ ipprotection-site-settings-callout-button = Понятно
 ## Panel
 
 unauthenticated-vpn-title = Попробуйте VPN, встроенный в { -brand-product-name }
-unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Скройте свое местоположение</a> при просмотре через { -brand-product-name }.
-unauthenticated-hide-location-message-2 = Скрывайте свое местоположение при работе в { -brand-product-name }.
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Скройте своё местоположение</a> при просмотре через { -brand-product-name }.
+unauthenticated-hide-location-message-2 = Скрывайте своё местоположение при работе в { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Получайте { $maxUsage } ГБ бесплатных VPN-данных каждый месяц.

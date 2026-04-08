@@ -34,7 +34,7 @@ xslt-load-blocked-error = Загрузка таблицы стилей XSLT бы
 xpath-invalid-expression-evaluated = Вычисление неправильного выражения.
 xpath-unbalanced-curly-brace = Несбалансированность фигурных скобок.
 xslt-bad-node-name = Создание элемента с неправильным QName.
-xslt-var-already-set = Перекрытие имен переменных в пределах одного шаблона.
+xslt-var-already-set = Перекрытие имён переменных в пределах одного шаблона.
 xslt-call-to-key-not-allowed = Вызов ключевой функции не разрешён.
 # Other failures, not found in the previous ones.
 # Variables:
