@@ -110,6 +110,13 @@ sidebar-item-manifest = Manifiesto
 sidebar-item-service-workers = Service Workers
     .alt = Ícono de Service Workers
     .title = Service Workers
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = Historial de la sesión
+    .alt = Icono de historial de la sesión
+    .title = Historial de la sesión
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Mostrar datos del historial de la sesión
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ícono de advertencia

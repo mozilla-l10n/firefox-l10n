@@ -60,6 +60,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = Mostrar panel cuando la descarga comience
     .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = Mostrar siempre en la barra de herramientas
+    .accesskey = A
 toolbar-context-menu-remove-from-toolbar =
     .label = Quitar de la barra de herramientas
     .accesskey = Q
