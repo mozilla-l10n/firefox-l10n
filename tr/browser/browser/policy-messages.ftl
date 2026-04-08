@@ -2,4 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+compulsory-restart-message = <strong>Yeni bir { -brand-short-name } sürümü çıktı.</strong> Sistem yöneticiniz { DATETIME($datetime, dateStyle: "short", timeStyle: "short") } tarihinde tarayıcınızı yeniden başlatacak. Sekmeleriniz yeniden açılacaktır.
 policy-update-now = Şimdi güncelle

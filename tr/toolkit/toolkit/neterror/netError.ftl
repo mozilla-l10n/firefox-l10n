@@ -97,6 +97,7 @@ neterror-file-not-found-moved = Dosyanın taşınmadığını, adının değişm
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } <strong>{ $path }</strong> konumundaki dosyayı bulamıyor. Bu dosya yok veya yolu yanlış.
+neterror-file-not-found-what-can-you-do = Adresi elle yazdıysanız dosya adındaki veya yolundaki büyük-küçük harfleri kontrol edin. Kayıtlı bir yer imine veya bağlantıya tıkladıysanız dosya kaydedildikten sonra taşınmış, silinmiş veya adı değiştirilmişmiş olabilir. Dosya yöneticinizde veya son aramalarınızda bulmayı deneyin.
 neterror-access-denied = Silinmiş, taşınmış veya dosya izinleri nedeniyle erişilemiyor olabilir.
 neterror-unknown-protocol = Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.
 neterror-redirect-loop = Bu sorun bazen çerezlerin devre dışı bırakılmasından veya reddedilmesinden kaynaklanabilir.
