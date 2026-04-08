@@ -118,6 +118,18 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativa
 ipprotection-bandwidth-upgrade-title = Gosta de uma VPN integrada? Obtenha ainda mais proteção fora do { -brand-product-name } com a { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = Escolha uma localização da VPN e adicione proteção a todas as suas aplicações em até 5 dispositivos, quer esteja em casa ou numa rede Wi-Fi pública.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Está quase a atingir o limite da sua VPN.</strong> Restam-lhe { $usageLeft } GB. Os seus dados serão repostos no início do próximo mês.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Está quase a ficar sem dados de VPN.</strong> Restam-lhe { $usageLeft } GB. Quando esgotar este valor, a sua VPN será pausada até os dados serem renovados no primeiro dia do próximo mês.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Está quase a ficar sem dados de VPN.</strong> Restam-lhe { $usageLeft } MB. Quando esgotar este valor, a sua VPN será pausada até os dados serem renovados no primeiro dia do próximo mês.
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -126,6 +138,11 @@ ip-protection-description =
 ip-protection-learn-more = Saber mais
 ip-protection-site-exceptions =
     .label = Definições específicas do site
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Experimente a VPN integrada do { -brand-short-name }
+    .message = Oculte a sua localização enquanto navega no { -brand-short-name }. Obtenha { $maxUsage } GB de dados de VPN gratuitos todos os meses.
 ip-protection-not-opted-in-button = Começar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -142,6 +159,9 @@ ip-protection-autostart-checkbox =
     .label = Quando eu abro o { -brand-short-name }
 ip-protection-autostart-private-checkbox =
     .label = Nas janelas privadas
+ip-protection-vpn-upgrade-link =
+    .label = Obtenha ainda mais proteção fora do { -brand-short-name } com a { -mozilla-vpn-brand-name }
+    .description = Escolha localizações personalizadas de VPN e adicione proteção a todas as suas aplicações em até cinco dispositivos, quer esteja em casa ou numa rede Wi-Fi pública.
 
 ## IP Protection dialogs
 
@@ -174,6 +194,7 @@ ip-protection-bandwidth-hit-for-the-month = Utilizou todos os { $maxUsage } GB 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Reinicia para { $maxUsage } GB no primeiro dia de cada mês.
+ip-protection-bandwidth-header-1 = Limite de dados mensal
 
 ## IP Protection bandwidth reset callout
 
@@ -183,9 +204,17 @@ ipprotection-bandwidth-reset-title = { $maxUsage } GB de VPN, atualizados e pro
 ipprotection-bandwidth-reset-text = Ative a VPN para um aumento de privacidade adicional e gratuito, todos os meses.
 ipprotection-bandwidth-reset-button = Percebi
 
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Este site pode não funcionar com uma VPN.</strong> Tente iniciar sessão ou desligar a VPN enquanto utiliza este site.
+ipp-activator-breakage-turn-off-warning = <strong>Este site pode não funcionar com uma VPN.</strong> Tente desligar a VPN enquanto utiliza este site.
+
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN pausada
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = Utilizou todos os { $maxUsage } GB de dados da sua VPN. O acesso à VPN será reposto no próximo mês.
 vpn-paused-alert-close-tabs-button = Fechar todos os separadores
 vpn-paused-alert-continue-wo-vpn-button = Continuar sem a VPN
 vpn-error-alert-title = A VPN não está a funcionar neste momento.

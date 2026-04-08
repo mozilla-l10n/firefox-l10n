@@ -69,8 +69,11 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botão de fecho
     .title = Fechar
 fxa-adoption-addresses-backup-title = Vamos efetuar uma cópia de segurança dos seus endereços guardados
+fxa-adoption-addresses-backup-subtitle = Proteja os seus endereços guardados, sincronizando-os de forma encriptada para os seus dispositivos.
 fxa-adoption-credit-cards-backup-title = Vamos efetuar uma cópia de segurança dos seus métodos de pagamento
+fxa-adoption-credit-cards-backup-subtitle = Proteja os seus métodos de pagamento, sincronizando-os de forma encriptada para os seus dispositivos.
 fxa-adoption-bookmarks-treatment-backup-title = Vamos efetuar uma cópia de segurança dos seus marcadores
+fxa-adoption-bookmarks-treatment-backup-subtitle = Proteja os seus marcadores, sincronizando-os de forma encriptada para os seus dispositivos.
 fxa-adoption-primary-button-label = Registar
 
 ## Protections panel
@@ -232,6 +235,13 @@ set-default-pdf-handler-primary = Percebi
 
 ## PDF Annotations strings
 
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = Assine na linha pontilhada — ou em qualquer sítio!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = Desenhe, digite ou carregue a sua assinatura e coloque-a exatamente onde quiser. Guarde as suas assinaturas habituais para utilizar da próxima vez.
 annotations-make-default-pdf-handler-title = Tornar o { -brand-short-name } no seu editor de PDF predefinido?
 annotations-make-default-pdf-handler-subtitle = Terá acesso às nossas ferramentas sempre que abrir um PDF.
 annotations-make-default-pdf-primary-cta-label = Definir como predefinição
