@@ -60,11 +60,6 @@ perftools-button-edit-settings = عدّل الإعدادات…
 perftools-menu-more-actions-button =
     .title = إجراءات أكثر
 
-## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
-## devtools.performance.new-panel-onboarding preference is true.
-
-perftools-onboarding-message = جديد: دُمج { -profiler-brand-name } الآن في أدوات المطورين. اطّلع على المزيد حول هذه الأداة الجديدة القوية.
-
 ## Profiler presets
 
 
