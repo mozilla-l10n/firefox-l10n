@@ -410,6 +410,9 @@ quickactions-cmd-help = დახმარება, მხარდაჭერ
 # Opens the devtools web inspector
 quickactions-inspector2 = შემმუშავებლის ხელსაწყოების გახსნა
 quickactions-cmd-inspector2 = დაკვირვება, გამოკვლევა, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = ბიბლიოთეკა
+quickactions-library = ბიბლიოთეკის გახსნა
 quickactions-cmd-inspector = გამოკვლევა, შემუშავება
 # Opens about:logins
 quickactions-logins2 = პაროლების მართვა
