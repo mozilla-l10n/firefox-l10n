@@ -184,6 +184,8 @@ permissions-site-localhost-window =
     .title = Definições - aplicações e serviços do dispositivo
     .style = { permissions-window2.style }
 permissions-site-localhost-desc = Estes sites solicitaram acesso às aplicações e serviços neste dispositivo. Pode optar por permitir ou bloquear sites que façam isto.
+permissions-site-localhost-disable-label =
+    .label = Bloquear novos pedidos de acesso a aplicações e serviços neste dispositivo
 
 ## Site Permissions - Local network
 

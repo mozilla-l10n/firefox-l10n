@@ -477,12 +477,15 @@ create-backup-screen-1-title =
 create-backup-screen-1-flair = Recomendado
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saber mais</a>
 create-backup-screen-1-sync-label = Sincronizar com o { -brand-product-name }
+create-backup-screen-1-sync-body = Faz uma cópia de segurança de todos os dispositivos autenticados
 create-backup-screen-1-backup-label = Cópia de segurança para PC
 create-backup-screen-1-backup-body = Guarda no seu dispositivo ou OneDrive
 create-backup-select-tile-button-label = Selecionar
 create-backup-back-button-label = Retroceder
 create-backup-show-fewer =
     .label = Mostrar menos como isto
+create-backup-screen-2-title = Escolher os dados do { -brand-product-name } para criar uma cópia
+create-backup-screen-2-subtitle = Demora apenas um minuto. Os seus dados são guardados uma vez por dia.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Configuração fácil
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -523,6 +526,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Guardada no seu dispositi
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Palavras-passe e pagamentos não incluídos
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Aceda às <a data-l10n-name="settings">Definições</a> para incluir dados sensíveis.
 fx-backup-confirmation-screen-item-subtext-1 = A sua cópia de segurança irá iniciar em alguns minutos e será executada uma vez por dia. Pode verificar o progresso nas <a data-l10n-name="settings">Definições</a>.
+fx-backup-confirmation-screen-item-subtext-2 = O { -brand-short-name } irá procurar pela sua cópia de segurança, se precisar de reinstalar.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -530,14 +534,18 @@ restore-from-backup-secondary-top-button = Restaurar da cópia de segurança
 restore-from-backup-title = Vamos pôr o { -brand-short-name } novamente ao seu gosto
 restore-from-backup-subtitle = Recupere todos os seus marcadores, histórico e outros dados para voltar à navegação.
 restore-from-backup-secondary-button = Não restaurar
+multiple-backups-info-tile = <strong>Foram encontrados vários ficheiros de cópia de segurança.</strong> O ficheiro mais recente está selecionado. Para restaurar outros perfis, aceda às <a data-l10n-name="settings-label">Definições</a>.
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = Estamos de volta! Os seus dados do { -brand-short-name } foram restaurados.
+restored-from-backup-success-with-checklist-subtitle = Pretende manter o seu navegador favorito, focado na privacidade, a um clique de distância?
 restored-from-backup-success-no-checklist-subtitle = Pode ativar a cópia de segurança para este dispositivo nas <a data-l10n-name="settings">Definições</a>.
 restored-from-backup-success-with-checklist-primary-button = Guardar e continuar
 restored-from-backup-success-with-checklist-secondary-button = Ignorar este passo
 restored-from-backup-success-no-checklist-primary-button = Continuar
 restored-from-backup-error-title = Hmm, ocorreu um problema com o seu ficheiro da cópia de segurança.
+restored-from-backup-error-subtitle = Se tiver outro ficheiro de cópia de segurança do { -brand-short-name }, tente restaurar a partir desse. <a data-l10n-name="restore-problems">Ainda tem problemas?</a>
 restored-from-backup-error-primary-button = Fechar
 
 ## Onboarding Personalization Screen
@@ -556,6 +564,13 @@ onboarding-personalization-motivation-other-option = Outra
 
 ## Onboarding 2026 brand refresh
 
+onboarding-refresh-pin-set-default-subtitle = Protegemos os seus dados e bloqueamos empresas que tentam espiar os seus cliques — tudo de forma automática.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = Está em boas patas
+onboarding-refresh-import-subtitle = Traga as suas palavras-passe, marcadores, histórico e muito mais.
+onboarding-refresh-import-title = Faça do { -brand-short-name } a sua casa
+onboarding-refresh-onboarding-addons-subtitle = As extensões são pequenas aplicações que permitem personalizar o { -brand-short-name }. Podem reforçar a sua privacidade, aumentar a produtividade, mudar o aspeto do { -brand-short-name } e muito mais.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Otimize a sua navegação
 onboarding-refresh-sync-subtitle = Obtenha marcadores, palavras-passe e muito mais, em todos os lugares em que estiver autenticado no { -brand-short-name }. Além disso, os seus dados são encriptados para que apenas você os possa ver.

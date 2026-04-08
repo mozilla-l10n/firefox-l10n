@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Definir políticas que WebExtensions podem aceder via chrome.storage.managed.
+policy-AIControls = Configurar controlos de IA.
 policy-AllowedDomainsForApps = Definir os domínios com permissão para aceder ao Google Workspace.
 policy-AllowFileSelectionDialogs = Permitir janelas de seleção de ficheiros.
 policy-AppAutoUpdate = Ativar ou desativar atualizações automáticas de aplicações.
@@ -56,6 +57,7 @@ policy-DisablePocket2 = Desativar a funcionalidade de guardar páginas web no { 
 policy-DisablePrivateBrowsing = Desativar a Navegação privada.
 policy-DisableProfileImport = Desativar o menu de comando para importar dados de outro navegador.
 policy-DisableProfileRefresh = Desativar o botão Restaurar { -brand-short-name } na página about:support.
+policy-DisableRemoteImprovements = Impedir o { -brand-short-name } de aplicar alterações de desempenho, estabilidade e de funcionalidades entre atualizações.
 policy-DisableSafeMode = Desativar a funcionalidade de reiniciar no Modo de segurança. Nota: o botão Shift para entrar no Modo de segurança apenas pode ser desativado no Windows utilizando Política de grupo.
 policy-DisableSecurityBypass = Impedir o utilizador de contornar certos avisos de segurança.
 policy-DisableSetAsDesktopBackground = Desativar o comando de menu Definir como fundo do ambiente de trabalho para imagens.
@@ -89,6 +91,7 @@ policy-Homepage = Definir e bloquear opcionalmente a página inicial.
 policy-HttpAllowlist = Origens que não serão atualizadas para HTTPS.
 policy-HttpsOnlyMode = Permitir que o modo apenas HTTPS seja ativado.
 policy-InstallAddonsPermission = Permitir a instalação de extras a determinados sites.
+policy-IPProtectionAvailable = Impedir que a VPN integrada esteja disponível para os utilizadores.
 policy-LegacyProfiles = Desativar a funcionalidade de forçar um perfil separado para cada instalação
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -126,6 +129,7 @@ policy-Preferences = Definir e bloquear o valor para um subconjunto de preferên
 policy-PrivateBrowsingModeAvailability = Definir a disponibilidade do modo de navegação privada.
 policy-PromptForDownloadLocation = Perguntar onde guardar os ficheiros durante a transferência.
 policy-Proxy = Configurar definições proxy.
+policy-RelaunchRequired = Requerer que o { -brand-short-name } seja reiniciado num dado período e notificar o utilizador do próximo reinício.
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown2 = Limpar dados de navegação ao desligar.
 policy-SearchBar = Definir a localização predefinida da barra de pesquisa. O utilizador ainda tem permissão para a personalizar.
