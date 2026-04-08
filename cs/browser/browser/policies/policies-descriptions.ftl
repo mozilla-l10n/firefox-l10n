@@ -161,6 +161,11 @@ policy-Preferences = Nastavení a uzamčení hodnoty pro podmnožinu předvoleb.
 policy-PrivateBrowsingModeAvailability = Nastaví dostupnost v režimu anonymního prohlížení.
 policy-PromptForDownloadLocation = Zeptat se na adresář před stažením souboru.
 policy-Proxy = Nastavení proxy.
+policy-RelaunchRequired =
+    { -brand-short-name.case-status ->
+        [with-cases] Vyžaduje opětovné spuštění { -brand-short-name(case: "gen") } v daném období a informuje uživatele o nadcházejícím restartu.
+       *[no-cases] Vyžaduje opětovné spuštění aplikace { -brand-short-name } v daném období a informuje uživatele o nadcházejícím restartu.
+    }
 policy-RequestedLocales = Nastavení seznamu požadovaných jazyků pro zobrazení aplikace, v pořadí podle preference.
 policy-SanitizeOnShutdown2 = Vymazání dat o prohlížení během vypnutí.
 policy-SearchBar = Nastavení výchozího umístění vyhledávacího pole. Uživatel ho může přemístit.
