@@ -38,7 +38,7 @@ app-basics-update-channel = قناة التحديث
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] دليل التحديثات
+        [linux] مجلد التحديثات
        *[other] مجلد التحديثات
     }
 app-basics-update-history = تأريخ التحديث

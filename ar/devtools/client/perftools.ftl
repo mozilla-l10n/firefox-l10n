@@ -23,6 +23,10 @@ perftools-heading-features-experimental = الميزات التجريبية
 perftools-heading-threads = الخيوط
 perftools-heading-local-build = بناء محلي
 
+##
+
+perftools-pick-local-build-directory = اختر مجلد البناء
+
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } م‌ث
@@ -59,6 +63,16 @@ perftools-button-edit-settings = عدّل الإعدادات…
 
 perftools-menu-more-actions-button =
     .title = إجراءات أكثر
+
+## These messages are descriptions of the threads that can be enabled for the profiler.
+
+perftools-thread-renderer =
+    .title = عند تفعيل WebRender، فإن الخيط الذي ينفذ استدعاءات OpenGL
+
+## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
+## devtools.performance.new-panel-onboarding preference is true.
+
+perftools-onboarding-message = <b>جديد</b>: دُمج { -profiler-brand-name } الآن في أدوات المطورين. <a>اطّلع على المزيد</a> حول هذه الأداة الجديدة القوية.
 
 ## Profiler presets
 

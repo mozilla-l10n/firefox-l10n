@@ -114,10 +114,10 @@ account-multiple-tabs-arriving-from-unknown-device =
 account-view-recently-closed-tabs = عرض الألسنة المُغلقة مؤخرًا
 account-tabs-closed-remotely =
     { $closedCount ->
-        [zero] أغلق { $closedCount } لسان من { -brand-short-name }
-        [one] أغلق لسان { -brand-short-name } واحد
-        [two] أغلق لسانان من { -brand-short-name }
-        [few] أغلقت { $closedCount } ألسنة من { -brand-short-name }
-        [many] أغلق { $closedCount } لسانًا من { -brand-short-name }
-       *[other] أغلق { $closedCount } لسانًا من { -brand-short-name }
+        [zero] أُغلق { $closedCount } لسان من { -brand-short-name }
+        [one] أُغلق لسان { -brand-short-name } واحد
+        [two] أُغلق لسانان من { -brand-short-name }
+        [few] أُغلقت { $closedCount } ألسنة من { -brand-short-name }
+        [many] أُغلق { $closedCount } لسانًا من { -brand-short-name }
+       *[other] أُغلق { $closedCount } لسان من { -brand-short-name }
     }

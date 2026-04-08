@@ -108,7 +108,7 @@ disabled-unsigned-heading =
     .value = عُطّلت بعض الإضافات
 disabled-unsigned-description = لم يُتحقق من الإضافات التالية لاستخدامها مع { -brand-short-name }. يمكنك <label data-l10n-name="find-addons">البحث عن بدائل</label> أو أن تطلب من المطوّر أن يجعل موزيلا تتحقق منهم.
 disabled-unsigned-learn-more = اطلع أكثر على مجهوداتنا في إبقائك آمنا على الإنترنت.
-disabled-unsigned-devinfo = المطورين المهتمين بأن تتحقق موزيلا من إضافاتهم، يمكنهم قراءة <label data-l10n-name="learn-more">دليلنا</label>.
+disabled-unsigned-devinfo = المطوِّرين المهتمين بأن تتحقق موزيلا من إضافاتهم، يمكنهم قراءة <label data-l10n-name="learn-more">دليلنا</label>.
 plugin-deprecation-description = أهناك ما تفتقده؟ لم يعد { -brand-short-name } يدعم بعض الملحقات. <label data-l10n-name="learn-more">اطّلع على المزيد.</label>
 legacy-warning-show-legacy = اعرض الامتدادات العتيقة
 legacy-extensions =

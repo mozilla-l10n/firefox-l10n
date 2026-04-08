@@ -40,8 +40,8 @@ crashreporter-error-opening-file = فشل فتح ملف ({ $path })
 # $path (String) - the file path
 crashreporter-error-loading-file = فشل تحميل ملف ({ $path })
 # $path (String) - the path
-crashreporter-error-creating-dir = فشل إنشاء الدليل ({ $path })
-crashreporter-error-no-home-dir = دليل المنزل مفقود
+crashreporter-error-creating-dir = فشل في إنشاء مجلد ({ $path })
+crashreporter-error-no-home-dir = مجلد المنزل مفقود
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = فشل نقل { $from } إلى { $to }
