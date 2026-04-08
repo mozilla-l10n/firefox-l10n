@@ -389,6 +389,7 @@ windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-callout-title = O { -brand-product-name } não vem atochado de origem como os outros navegadores das grandes tecnológicas. E é precisamente essa a ideia.
 windows-10-eos-challenger-sync-primary-button = Efetuar cópia de segurança do { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Efetuar cópia de segurança do { -brand-shorter-name } torna mais fácil trazer os seus dados e definições de privacidade consigo.

@@ -527,6 +527,8 @@ fx-backup-confirmation-screen-item-subtext-1 = A sua cópia de segurança irá i
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = Restaurar da cópia de segurança
+restore-from-backup-title = Vamos pôr o { -brand-short-name } novamente ao seu gosto
+restore-from-backup-subtitle = Recupere todos os seus marcadores, histórico e outros dados para voltar à navegação.
 restore-from-backup-secondary-button = Não restaurar
 
 ## Restored from Backup spotlight
