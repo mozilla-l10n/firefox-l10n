@@ -186,12 +186,17 @@ permissions-site-localhost-window =
 permissions-site-localhost-desc = Estes sites solicitaram acesso às aplicações e serviços neste dispositivo. Pode optar por permitir ou bloquear sites que façam isto.
 permissions-site-localhost-disable-label =
     .label = Bloquear novos pedidos de acesso a aplicações e serviços neste dispositivo
+permissions-site-localhost-disable-desc = Isto impedirá que qualquer site não listado acima peça acesso a aplicações e serviços neste dispositivo. Esta ação pode fazer com que algumas funcionalidades dos sites falhem.
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .title = Definições - dispositivos da rede local
     .style = { permissions-window2.style }
+permissions-site-local-network-desc = Estes sites solicitaram acesso a aplicações e serviços em dispositivos ligados à sua rede local ou Wi-Fi. Pode optar por permitir ou bloquear que os sites o façam.
+permissions-site-local-network-disable-label =
+    .label = Bloquear novos pedidos de acesso a aplicações e serviços em dispositivos ligados à sua rede local ou Wi-Fi.
+permissions-site-local-network-disable-desc = Isto irá impedir que qualquer site não listado acima possa solicitar acesso a aplicações e serviços nos dispositivos ligados ao seu Wi-Fi ou dispositivos de rede local. Esta ação pode fazer com que algumas funcionalidades dos sites falhem.
 
 ## Site Permissions - Microphone
 

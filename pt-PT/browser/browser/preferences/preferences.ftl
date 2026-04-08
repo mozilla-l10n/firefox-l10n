@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Nós já não suportamos a funcionalidade “Não monitorizar”.
 non-technical-privacy-heading =
     .label = Proteções adicionais
+preferences-privacy-relay-available =
+    .label = Sugerir máscaras de e-mail { -relay-brand-name }
+    .description = Oculta o seu endereço de e-mail real para proteger a sua caixa de entrada contra o spam.
 non-technical-privacy-header = Preferências de Privacidade do Site
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -71,6 +74,7 @@ pane-experimental-description2 = Alterar definições de configuração avançad
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Teste as nossas funcionalidades experimentais! Estão em desenvolvimento e em constante evolução, o que pode afetar o funcionamento do { -brand-short-name }. Só recebemos informações sobre a sua utilização destas funcionalidades se tiver os <a data-l10n-name="data-collection">dados técnicos e de interação</a> ativados.
 pane-experimental-description3 = Experimente as nossas funcionalidades em fase experimental! Estão ainda em desenvolvimento e a evoluir, o que pode influenciar o funcionamento do { -brand-short-name }.
 pane-experimental-reset =
     .label = Repor predefinições
@@ -183,12 +187,32 @@ preferences-manage-profiles-description = Cada perfil possui dados de navegaçã
 preferences-manage-profiles-learn-more = Saber mais
 preferences-manage-profiles-button =
     .label = Gerir perfis
+preferences-profiles-settings-button =
+    .label = Definições
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = Copiar um perfil existente
+    .description = O novo perfil copiará as suas definições, extras, histórico e dados guardados, tais como marcadores e palavras-passe — mas não a sua conta ou informações de sincronização.
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = Perfil a copiar
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = Selecionar perfil
+preferences-copy-profile-button = Copiar
 tabs-group-header2 =
     .label = Separadores
 tabs-opening-heading =
     .label = Abertura
 tabs-interaction-heading =
     .label = Interação
+tabs-containers-heading =
+    .label = Contentores
+tabs-closing-heading =
+    .label = Fecho
 tabs-group-header = Separadores
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab alterna entre separadores ordenados pela utilização mais recente
@@ -270,8 +294,18 @@ containers-remove-cancel-button = Não remover este contentor
 settings-tabs-show-image-in-preview =
     .label = Mostrar uma pré-visualização da imagem ao passar o rato sobre um separador
     .accessKey = v
+settings-tabs-drag-to-create-tab-groups =
+    .label = Arraste e junte separadores para criar grupos de separadores
 browser-layout-header2 =
     .label = Esquema do navegador
+browser-layout-horizontal-tabs2 =
+    .label = Separadores horizontais
+    .title = Separadores no topo
+    .description = Separadores no topo
+browser-layout-vertical-tabs2 =
+    .label = Separadores verticais
+    .title = Separadores na lateral, na barra lateral
+    .description = Separadores na lateral, na barra lateral
 browser-layout-show-sidebar2 =
     .label = Mostrar barra lateral
     .description = Aceda rapidamente a marcadores, separadores do seu telemóvel, chatbots de IA e muito mais, sem sair da vista principal.
@@ -390,6 +424,11 @@ preferences-text-zoom-override-warning =
     .message = Aviso: se selecionar “Ampliar apenas texto” e a ampliação predefinida não estiver definida para 100%, isto poderá causar falhas em alguns sites ou conteúdos.
 language-header = Idioma
 choose-language-description = Escolha o seu idioma preferencial para apresentar as páginas
+website-language-heading =
+    .label = Idioma do site
+    .description = Algumas páginas Web são apresentadas em vários idiomas. Selecione os idiomas pela sua ordem de preferência.
+website-preferred-language =
+    .label = Idiomas preferenciais
 choose-button =
     .label = Escolher…
     .accesskey = o
@@ -413,6 +452,8 @@ settings-translations-header =
     .label = Traduções
     .aria-label = Traduções
     .description = Traduz páginas ou o texto selecionado. Para proteger a sua privacidade, as traduções permanecem no seu dispositivo.
+settings-translations-offer-to-translate-label =
+    .label = Sugerir tradução integral da página
 settings-translations-subpage-speed-up-translation-header =
     .label = Acelerar a tradução
     .description = Transfira os idiomas completos para traduções mais rápidas e para traduzir offline.
