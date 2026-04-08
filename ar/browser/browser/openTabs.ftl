@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = اختر لسان لإضافته إلى العرض المنقسم
+opentabs-search-text-box =
+    .placeholder = ابحث في الألسنة
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = نتائج البحث عن "{ $query }"

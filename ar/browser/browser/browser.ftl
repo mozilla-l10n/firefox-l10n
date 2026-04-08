@@ -1608,6 +1608,15 @@ trustpanel-tracking-description = دون المتعقّبات، قد لا تعم
 trustpanel-insecure-section-header = اتّصالك غير آمن
 trustpanel-insecure-description = البيانات التي ترسلها إلى هذا الموقع غير مُعمّاة، مما قد يعرضها للعرض أو السرقة أو التعديل.
 trustpanel-list-label-tracking-content = المحتوى الذي يتعقّبك
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [zero] { $count } متتبع وسائل التواصل الاجتماعي
+        [one] { $count } متتبع وسائل التواصل الاجتماعي
+        [two] { $count } متتبعي وسائل التواصل الاجتماعي
+        [few] { $count } متتبعات وسائل التواصل الاجتماعي
+        [many] { $count } متتبعًا وسائل التواصل الاجتماعي
+       *[other] { $count } متتبع وسائل التواصل الاجتماعي
+    }
 trustpanel-tracking-content-not-blocking-tab-header =
     { $count ->
         [zero] { -brand-product-name } سمح { $count } متعقِّب

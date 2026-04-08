@@ -172,3 +172,8 @@ webext-site-perms-header-unsigned-with-perms = أتريد إضافة { $extensio
 
 webext-site-perms-midi = الوصول إلى أجهزة MIDI
 webext-site-perms-midi-sysex = الوصول إلى أجهزة MIDI التي تدعم SysEx
+
+## Colorway theme migration
+
+webext-colorway-theme-migration-notification-message = أُزيلت سمة التلاوين الخاصة بك. قامت شركة { -brand-shorter-name } بتحديث مجموعة ألوانها. يمكنك العثور على أحدث الإصدارات على موقع الإضافات.
+webext-colorway-theme-migration-notification-button = احصل على التلاوين المحدثة

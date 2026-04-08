@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profile-window-heading = { -brand-short-name } - اختر ملف شخصي
+profile-window-body = افصل تمامًا بين تصفحك للعمل وتصفحك الشخصي، بما في ذلك كلمات السر والعلامات. أو أنشئ ملفات شخصي لكل من يستخدم هذا الجهاز.
+# This checkbox appears in the Choose profile window that appears when the browser is opened. "Show this" refers to this window, which is displayed when the checkbox is enabled.
+profile-window-checkbox-label-2 =
+    .label = اختر ملف شخصي عند فتح { -brand-short-name }
+# This subcopy appears below the checkbox when it is unchecked
+profile-window-checkbox-subcopy = { -brand-short-name } سيفتح على الملف الشخصي الذي استخدمته حديثًا.
 profile-window-create-profile = أنشئ ملفًا شخصيًا
 profile-card-edit-button =
     .title = حرّر الملف الشخصي
@@ -20,20 +26,32 @@ profile-card =
 default-profile-name = ملف شخصي: { $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = الملف الشخصي الأصلي
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = حرّر الملف الشخصي
 edit-profile-page-header = حرّر ملفك الشخصي
 edit-profile-page-profile-name-label = اسم الملف الشخصي
 edit-profile-page-theme-header-2 =
     .label = السمة
 edit-profile-page-explore-themes = استكشاف المزيد من السمات
+edit-profile-page-desktop-shortcut-header = أنشئ اختصار على سطح المكتب
+edit-profile-page-desktop-shortcut-toggle =
+    .aria-label = أنشئ اختصار على سطح المكتب
 edit-profile-page-avatar-header-2 =
     .label = الصورة
 edit-profile-page-delete-button =
     .label = احذف
+edit-profile-page-avatar-selector-opener-link = حرّر
+avatar-selector-icon-tab = الأيقونة
 avatar-selector-custom-tab = مخصّص
 avatar-selector-cancel-button =
     .label = ألغِ
+avatar-selector-save-button =
+    .label = احفظ
+avatar-selector-upload-file = ارفع ملفًا
 avatar-selector-add-image = أضِف صورة
+avatar-selector-crop = قصّ
+edit-profile-page-no-name = تسمية هذا الملف الشخصي ليسهل عليك العثور عليه لاحقاً. يمكنك إعادة تسميته في أي وقت.
+edit-profile-page-duplicate-name = اسم الملف الشخصي مستخدم بالفعل. جرّب اسمًا جديدًا.
 edit-profile-page-profile-saved = حُفظت
 new-profile-page-title = ملف شخصي جديد
 new-profile-page-header = خصّص ملفك الشخصي الجديد
@@ -42,6 +60,8 @@ new-profile-page-done-button =
     .label = حُرِّر
 restored-profile-page-learn-more = اطّلع على المزيد
 profile-window-title-2 = { -brand-short-name } - اختر ملف شخصي
+profile-window-logo =
+    .alt = شعار { -brand-short-name }
 
 ## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
 
@@ -77,12 +97,42 @@ profiles-light-theme = فاتح
 profiles-dark-theme = داكن
 # The default system theme
 profiles-system-theme = النظام
+profiles-system-theme-title =
+    .title = طبّق سمة النظام
+# This light theme features sunny colors such as goldenrod and pale yellow. Its name evokes the color of a marigold flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-marigold-theme-2 = أصفر القطيفة
+# This light theme features various shades of soft, muted purples. Its name evokes the color of a lavender flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lavender-theme-2 = لون الخزامى الباهت
+# This light theme features very pale green tones. Its name evokes the color of pale green mint ice cream. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-lichen-theme-2 = أخضر نعناعي
+# This light theme features various shades of pink ranging from pale to bold. Its name evokes the color of a pink magnolia flower. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-magnolia-theme-2 = ماغنوليا بينك
+# Ocean blue is a dark theme that features very dark blues and black. Its name evokes the color of the deep ocean water. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-ocean-theme-2 = أزرق المحيط
+# This dark theme features warm oranges, dark mahogany browns, and earthy red/brown colors. The name evokes the earthy colors of brick masonry. This name can be translated directly if it's easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-terracotta-theme-2 = أحمر طوبي
+# This dark theme features forest green, dusky green with a gray undertone, and a muted sage green. Its name evokes the rich color of green moss in the forest. This name can be translated directly if its easily understood in your language, or adapted to a more natural sounding name that fits the color scheme.
+profiles-moss-theme-2 = أخضر طحلبي
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = كتاب
+briefcase-avatar-alt =
+    .alt = حقيبة
+flower-avatar-alt =
+    .alt = ورد
+heart-avatar-alt =
+    .alt = قلب
+shopping-avatar-alt =
+    .alt = عربة تسوق
+star-avatar-alt =
+    .alt = نجمة
 custom-avatar-alt =
     .alt = صورة رمزية مخصّصة
 
 ## Tooltips for default avatar icons
 
+book-avatar = كتاب
+briefcase-avatar = حقيبة
 custom-avatar = صورة رمزية مخصّصة
