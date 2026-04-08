@@ -2521,7 +2521,7 @@ httpsonly-radio-disabled =
     .label = Nezapínat režim „pouze HTTPS“
 httpsonly-group =
     .label = Režim „pouze HTTPS“
-    .description = Umožňuje pouze zabezpečená připojení k webovým stránkám. { -brand-short-name } se před použitím nezabezpečeným připojení zeptá.
+    .description = Umožňuje pouze zabezpečená spojení s weby. { -brand-short-name } se před použitím nezabezpečeného spojení zeptá.
 httpsonly-label2 =
     .aria-label = { httpsonly-group.label }
 

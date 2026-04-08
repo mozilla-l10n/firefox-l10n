@@ -248,4 +248,4 @@ webrtc-remember-allow-checkbox-camera-and-microphone = Zapamatovat pro všechny 
 webrtc-mute-notifications-checkbox = Během sdílení potlačit oznámení od serverů
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nemůže povolit trvalý přístup k vaší obrazovce.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nemůže povolit trvalý přístup ke zvuku z vašich panelů bez dotazu, který panel sdílet.
-webrtc-reason-for-no-permanent-allow-insecure = Vaše připojení k tomuto serveru není zabezpečené. Abychom vás ochránili, { -brand-short-name } povolí přístup pouze pro tuto relaci.
+webrtc-reason-for-no-permanent-allow-insecure = Vaše spojení s tímto serverem není zabezpečené. Abychom vás ochránili, { -brand-short-name } povolí přístup pouze pro tuto relaci.
