@@ -429,6 +429,23 @@ website-language-heading =
     .description = Algumas páginas Web são apresentadas em vários idiomas. Selecione os idiomas pela sua ordem de preferência.
 website-preferred-language =
     .label = Idiomas preferenciais
+website-add-language =
+    .label = Adicionar idioma
+website-add-language-button =
+    .aria-label = Adicionar idioma selecionado
+    .title = Adicionar idioma selecionado
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = Remover { $locale }
+    .title = Remover { $locale }
 choose-button =
     .label = Escolher…
     .accesskey = o
@@ -454,9 +471,16 @@ settings-translations-header =
     .description = Traduz páginas ou o texto selecionado. Para proteger a sua privacidade, as traduções permanecem no seu dispositivo.
 settings-translations-offer-to-translate-label =
     .label = Sugerir tradução integral da página
+settings-translations-more-settings-button =
+    .label = Mais definições de tradução
+    .description = Algumas páginas Web são apresentadas em vários idiomas. Selecione os idiomas pela sua ordem de preferência.
+settings-translations-subpage-header =
+    .heading = Mais definições de tradução
 settings-translations-subpage-speed-up-translation-header =
     .label = Acelerar a tradução
     .description = Transfira os idiomas completos para traduções mais rápidas e para traduzir offline.
+settings-translations-subpage-automatic-translation-header =
+    .label = Tradução automática
 settings-translations-subpage-always-translate-header =
     .label = Traduzir sempre estes idiomas
 settings-translations-subpage-never-translate-header =
@@ -465,6 +489,13 @@ settings-translations-subpage-never-translate-sites-header =
     .label = Nunca traduzir estes sites
 # The icon placeholders show the translations button and the settings gear in the urlbar panel.
 settings-translations-subpage-never-translate-sites-description = Para adicionar um site, abra o <img data-l10n-name="translations-icon"/> painel de tradução, selecione <img data-l10n-name="settings-icon"/> as definições de tradução e depois escolha “Nunca traduzir este site”
+settings-translations-subpage-language-select-option =
+    .label = Adicionar idioma
+settings-translations-subpage-language-add-button =
+    .aria-label = Adicionar idioma
+    .title = Adicionar idioma
+settings-translations-subpage-download-languages-header =
+    .label = Transferir idiomas
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
@@ -1108,6 +1139,9 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Está a sincronizar estes itens em todos os seus dispositivos associados:
+sync-syncing-across-devices-empty-state2 =
+    .label = Gerir dados sincronizados
+    .description = Ainda não está a sincronizar nada. Comece a sincronizar para ter todos os seus dados em todos os seus dispositivos.
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Histórico
 sync-currently-syncing-tabs = Separadores abertos
@@ -1121,6 +1155,8 @@ sync-currently-syncing-settings = Definições
 sync-manage-options =
     .label = Gerir a sincronização…
     .accesskey = G
+settings-sync-disconnect-button =
+    .label = Desligar
 sync-change-options =
     .label = Alterar...
     .accesskey = A
@@ -1277,9 +1313,15 @@ forms-saved-passwords =
 forms-primary-pw-use =
     .label = Utilizar uma palavra-passe principal
     .accesskey = U
+forms-primary-pw-use-2 =
+    .label = Utilizar uma palavra-passe principal
+    .description = Adiciona uma camada adicional de segurança para proteger as suas palavras-passe guardadas.
+    .accesskey = U
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerer início de sessão no dispositivo para preencher e gerir palavras-passe
+forms-os-reauth-2 =
+    .label = Requerer início de sessão no dispositivo para gerir palavras-passe
 forms-primary-pw-learn-more-link = Saber mais
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1348,12 +1390,44 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Exigir início de sessão do dispositivo para o preenchimento automaticamente e gerir métodos de pagamento
     .accesskey = E
+payments-delete-payment-prompt-title = Eliminar este método de pagamento?
+payments-delete-payment-prompt-confirm-button = Eliminar
+payments-delete-payment-prompt-cancel-button = Cancelar
+payments-delete-payment-button-label =
+    .aria-label = Eliminar
+payments-edit-payment-button-label =
+    .aria-label = Editar
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = Não foram adicionados métodos de pagamento
 autofill-addresses-checkbox-message =
     .label = Guardar e autopreencher os endereços
     .accesskey = G
 autofill-addresses-manage-addresses-button =
     .label = Gerir endereços e mais
     .accesskey = m
+addresses-list-header =
+    .label = Endereços
+addreses-delete-address-button-label =
+    .aria-label = Eliminar
+addreses-edit-address-button-label =
+    .aria-label = Editar
+addresses-delete-address-prompt-title = Eliminar este endereço?
+addresses-delete-address-prompt-confirm-button = Eliminar
+addresses-delete-address-prompt-cancel-button = Cancelar
+autofill-addresses-add-button = Adicionar novo endereço
+autofill-addresses-manage-addresses-title =
+    .heading = Gerir endereços e mais
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = Não foram adicionados endereços
+# These values are displayed for each address record listed on the "Manage addresses and more" subpage.
+# Variables:
+#   $name (string) - The name associated with the address
+#   $address (string) - The address
+address-moz-box-item =
+    .label = { $name }
+    .description = { $address }
 addresses-group =
     .label = Endereços e mais
 payments-group =
@@ -1375,6 +1449,11 @@ history-remember-label = O { -brand-short-name } irá
     .accesskey = i
 history-remember-option-all =
     .label = Memorizar histórico
+history-remember-option-never2 =
+    .label = Nunca memorizar histórico
+    .description = Cada janela funciona como uma janela privada. Quando ativado, as extensões têm de ser autorizadas.
+history-remember-option-custom2 =
+    .label = Personalizar histórico
 history-remember-option-never =
     .label = Nunca memorizar histórico
 history-remember-option-custom =
@@ -1408,14 +1487,20 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Limpar histórico…
     .accesskey = s
+history-header2 =
+    .heading = Histórico
 history-section-header =
     .label = Histórico
     .description = Escolha o pretende que o { -brand-short-name } memorize quando fecha o navegador.
 history-custom-section-header =
     .label = Definições avançadas
     .description = Personalize o pretende que o { -brand-short-name } memorize quando fecha o navegador.
+history-custom-button =
+    .label = Escolha o que pretende que o { -brand-short-name } memorize
 history-group =
     .label = Histórico
+history-remember-option-all2 =
+    .label = Memorizar histórico
 
 ## Privacy Section - Site Data
 
@@ -1424,13 +1509,23 @@ sitedata-total-size-calculating = A calcular tamanho dos dados de sites e cache�
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Atualmente, os sites estão a utilizar <strong>{ $value } { $unit }</strong> de espaço em disco.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Os seus cookies, dados de sites e cache estão atualmente a utilizar { $value } { $unit } de espaço em disco.
 sitedata-learn-more = Saber mais
+sitedata-delete-on-close2 =
+    .label = Limpar cookies e os dados de sites sempre que fechar o { -brand-short-name }
+    .accesskey = L
 sitedata-delete-on-close =
     .label = Eliminar cookies e os dados de sites quando o { -brand-short-name } é fechado
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Com base nas suas definições do histórico, o { -brand-short-name } elimina os cookies e os dados dos sites da sua sessão quando fecha o navegador.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = O histórico não será guardado.
+    .message = O { -brand-short-name } limpa os cookies e os dados dos sites da sua sessão quando fecha o navegador.
 sitedata-delete-on-close-private-browsing = No modo de navegação privada permanente, os cookies e os dados de sites irão ser sempre limpos quando o { -brand-short-name } é fechado.
 sitedata-delete-on-close-private-browsing2 = Com base nas suas definições do histórico, o { -brand-short-name } elimina os cookies e os dados dos sites da sua sessão quando fecha o navegador.
 sitedata-allow-cookies-option =
@@ -1476,6 +1571,16 @@ sitedata-cookies-exceptions2 =
     .label = Gerir exceções
     .accesskey = x
     .description = Pode especificar que sites que estão, sempre ou nunca, autorizados a utilizar os cookies e os dados de sites.
+sitedata-heading =
+    .label = Dados de navegação
+    .description = Faça a gestão dos seus cookies, histórico, cache, dados de sites e muito mais.
+sitedata-settings3 =
+    .label = Limpar dados para sites específicos
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Gerir exceções
+    .accesskey = x
+    .description = Escolha a forma como sites específicos tratam os cookies e dados do site.
 cookies-site-data-group =
     .label = Cookies e dados de sites
 
@@ -1635,6 +1740,10 @@ content-blocking-etp-standard-tcp-rollout-description = A Proteção total de co
 content-blocking-etp-standard-tcp-rollout-learn-more = Saber mais
 content-blocking-etp-standard-tcp-title = Inclui a Proteção Total de Cookies, a nossa funcionalidade de privacidade mais poderosa de sempre
 content-blocking-warning-title = Atenção!
+content-blocking-warning-title-2 = Alguns sites podem deixar de funcionar com a proteção rigorosa contra a monitorização
+content-blocking-warning-title-custom = Alguns sites podem deixar de funcionar com a proteção personalizada contra a monitorização
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = O { -brand-short-name } recomenda utilizar as definições “Corrigir problemas no site” para minimizar falhas nas funcionalidades e conteúdos das páginas. Se um site não funcionar corretamente, experimente desativar a proteção contra monitorização nesse site para carregar todo o conteúdo.
 content-blocking-and-isolating-etp-warning-description-2 = Esta definição pode fazer com que alguns sites não mostrem o conteúdo ou que não funcionem corretamente. Se um site parecer com problemas, pode querer desativar a proteção contra a monitorização para esse site para carregar todo o conteúdo.
 content-blocking-warning-learn-how = Saiba como
 content-blocking-baseline-exceptions-3 =
@@ -1644,6 +1753,8 @@ content-blocking-baseline-exceptions-3 =
 content-blocking-convenience-exceptions-3 =
     .label = Corrigir pequenos problemas do site
     .description = Restaura coisas, tal como vídeos num artigo ou nas secções de comentários, desbloqueando elementos que possam conter rastreadores. Isto pode reduzir os problemas no site, mas oferece menos proteção. Tem de ser utilizado com as correções para problemas graves.
+content-blocking-baseline-uncheck-warning-dialog-title = Tem a certeza de que pretende desativar as correções?
+content-blocking-baseline-uncheck-warning-dialog-body = Esta definição ajuda a corrigir os problemas mais comuns de sites. Se a desativar, alguns sites poderão não funcionar e o { -brand-short-name } não poderá ajudar a resolver estes problemas.
 content-blocking-baseline-uncheck-warning-dialog-ok-button = Desativar as correções
 content-blocking-baseline-uncheck-warning-dialog-cancel-button = Manter as correções ativadas
 content-blocking-reload-description = Irá precisar de recarregar os seus separadores para aplicar estas alterações.
@@ -1763,6 +1874,10 @@ permissions-addon-exceptions =
     .accesskey = E
 permissions-location2 =
     .label = Localização
+permissions-localhost2 =
+    .label = Aplicações e serviços do dispositivo
+permissions-local-network2 =
+    .label = Dispositivos da rede local
 permissions-xr2 =
     .label = Realidade virtual
 permissions-camera2 =
@@ -1811,6 +1926,7 @@ collection-studies =
 collection-studies-link = Ver estudos do { -brand-short-name }
 nimbus-rollouts-enabled =
     .label = Permitir que o { -brand-short-name } melhore as funcionalidades, desempenho e estabilidade entre as atualizações
+nimbus-rollouts-enabled-description = As alterações serão aplicadas remotamente.
 addon-recommendations2 =
     .label = Permitir recomendações personalizadas de extensões
 addon-recommendations-description = Obtenha recomendações de extensões para melhorar a sua experiência de navegação.
@@ -2067,3 +2183,9 @@ preferences-etp-reset =
 preferences-etp-custom-control-group =
     .label = Proteção contra a monitorização
     .description = Escolha quais as proteções a ativar ou a desativar.
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Conteúdo de monitorização
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Conteúdo de monitorização
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Cripto-mineradores
