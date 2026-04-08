@@ -24,6 +24,8 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = نقدم لكم خدمة VPN، الآن مباشرة داخل متصفحك
+ipprotection-feature-introduction-link-text-2 = استخدم خاصية <a data-l10n-name="learn-more-vpn">VPN المدمجة</a> الجديدة لدينا لإخفاء موقعك وحماية بياناتك.
+ipprotection-feature-introduction-link-text-private-browsing-2 = استخدم خاصية <a data-l10n-name="learn-more-vpn">VPN المدمجة</a> الجديدة لدينا لإخفاء موقعك وحماية بياناتك، حتى عندما تكون في نافذة خاصة.
 ipprotection-feature-introduction-description-private-browsing = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى عندما تكون في نافذة خاصة.
 ipprotection-feature-introduction-description-captive-portal = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى على شبكات الواي فاي العامة.
 ipprotection-feature-introduction-button-primary = التالي
