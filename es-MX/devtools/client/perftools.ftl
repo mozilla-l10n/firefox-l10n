@@ -33,6 +33,7 @@ perftools-description-local-build =
     Si estás perfilando una compilación que hiciste tu, en este
     equipo, por favor añade el objdir de tu compilación a la lista a continuación para que
     pueda utilizarse para buscar información simbólica.
+perftools-pick-local-build-directory = Seleccionar el directorio de compilación
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -94,6 +95,7 @@ perftools-button-edit-settings = Editar ajustes…
 
 perftools-menu-more-actions-button =
     .title = Más acciones
+perftools-menu-more-actions-restart-with-profiling = Reiniciar { -brand-shorter-name } con el perfilado de inicio activado
 perftools-menu-more-actions-copy-for-startup = Copiar variables de entorno para el análisis de inicio
 perftools-menu-more-actions-copy-for-perf-tests = Copiar parámetros para pruebas de rendimiento
 
