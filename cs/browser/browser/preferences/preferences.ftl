@@ -1288,11 +1288,15 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizace
+account-group-label2 =
+    .label = Účet
 account-group-label =
     .label = Účet { -vendor-short-name }
 account-placeholder =
     .label = Nejste přihlášeni
     .description = Přihlaste se, aby vaše data byla soukromá, šifrovaná a synchronizovaná napříč zařízeními.
+account-sync-section =
+    .heading = Účet a synchronizace
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1434,6 +1438,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Spravovat synchronizovaná data
     .accesskey = S
+settings-sync-disconnect-button =
+    .label = Odpojit
 sync-change-options =
     .label = Změnit…
     .accesskey = Z
