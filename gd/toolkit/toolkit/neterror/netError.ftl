@@ -144,3 +144,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Mur eil thu eòlach air <b>
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Tha poileasaidh tèarainteachd aig <b>{ $hostname }</b> air a bheil HTTP Strict Transport Security (HSTS), agus is ciall dha sin nach urrainn dha { -brand-short-name } ach ceangal tèarainte a dhèanamh. Chan urrainn dhut eisgeachd a chur ris a thadhal air an làrach seo.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Tha an seòladh seo a' cleachdadh port lìonra a chleachdar a chum rudan eile a ghnàth seach brabhsadh-lìn. Sguir { -brand-short-name } dhen iarrtas gus do dhìon.
