@@ -194,3 +194,4 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Intenta cambiar la URL a H
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = A veces, los sitios web configuran protecciones para sí mismos contra interacciones no deseadas con otros sitios.
 fp-learn-more-about-https-connections = Obtén más información sobre las conexiones HTTPS
+fp-neterror-denied-port-access = Esta dirección está usando un puerto de red normalmente usado para propositos diferentes a la navegación web. { -brand-short-name } canceló la solicitud para tu protección.
