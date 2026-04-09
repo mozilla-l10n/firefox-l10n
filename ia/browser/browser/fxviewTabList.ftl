@@ -78,3 +78,10 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Silentiar scheda
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Non plus silentiar scheda
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync =
+    .label = Activar synchronisation pro inviar al cheda
+fxviewtabrow-send-to-mobile-connect-phone =
+    .label = Connecte tu telephono
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = Non vide tu tu apparato?

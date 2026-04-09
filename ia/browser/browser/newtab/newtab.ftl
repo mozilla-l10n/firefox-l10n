@@ -146,6 +146,9 @@ newtab-menu-report = Reportar
 newtab-menu-section-block = Blocar
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Non plus sequer
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Non plus sequer le argumento
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -597,6 +600,7 @@ newtab-section-confirm-block-topic-p2 = Le topicos blocate non apparera plus in 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blocar { $topic }
+newtab-section-block-cancel-button = Cancellar
 
 ## Strings for custom wallpaper highlight
 
@@ -660,6 +664,14 @@ newtab-toast-thanks-for-reporting =
     .message = Gratias pro iste reporto.
 newtab-toast-widgets-hidden =
     .message = Selige le icone de stilo pro quandocunque re-adder widgets
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Tu ora seque { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Tu cessava de sequer { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
