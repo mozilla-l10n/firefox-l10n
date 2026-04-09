@@ -210,7 +210,7 @@ certerror-mitm-title = تمنع البرمجية { -brand-short-name } من ال
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = تحذير: خطر أمني
-fp-certerror-body-title = كن حذرا، هناك شيء لا يبدو على ما يرام.
+fp-certerror-body-title = كن حذرًا، هناك شيء لا يبدو على ما يرام.
 fp-certerror-illustration-alt =
     .alt = رسم توضيحي لثعلب ينظر إلى لافتة تحذير برتقالية اللون.
 fp-certerror-why-site-dangerous = ما الذي يجعل الموقع يبدو خطيرًا؟

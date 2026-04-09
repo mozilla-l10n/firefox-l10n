@@ -58,6 +58,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = اختر ملف ال
 
 settings-data-backup-scheduled-backups-on-restore-description = استورد بيانات { -brand-product-name } الخاصة بك من آخر مرة نسختها احتياطيًا.
 settings-data-backup-scheduled-backups-on-restore-choose = استعِدة…
+settings-sensitive-data =
+    .label = بيانات حساسة
 settings-data-toggle-encryption-label = اعمل نسخة احتياطية بياناتك الحساسة
 settings-data-toggle-encryption-support-link = اطّلع على المزيد
 settings-data-change-password2 =
@@ -115,6 +117,8 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = كلمة السر
 restore-from-backup-password-description = يؤدي هذا لفك النسخة الاحتياطية المُعمّاة لديك.
 restore-from-backup-cancel-button = ألغِ
+restore-from-backup-confirm-button = استعِد وأعد التشغيل
+restore-from-backup-restoring-button = يستعد…
 restore-from-backup-type-group-label =
     .label = استبدال الملف الشخصي الحالي؟
 restore-from-backup-type-replace =
@@ -173,6 +177,7 @@ disable-backup-encryption-confirm-button = أزِل كلمة السر
 ## These strings are used to tell users when errors occur when using
 ## the backup system
 
+backup-error-password-requirements = كلمة سرك لا تفي بالمتطلبات. يُرجى تجربة كلمة سر أخرى.
 # This error message will be shown to the user when something went wrong with
 # the backup system but we do not have any more specific idea of what went
 # wrong. This message invites the user to try an action again because there
