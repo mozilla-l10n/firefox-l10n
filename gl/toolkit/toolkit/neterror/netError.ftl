@@ -168,9 +168,13 @@ certerror-coep-learn-more = Máis información sobre as políticas de integraci�
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Código de erro: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> enviou un erro.
+fp-neterror-denied-port-access = Este enderezo usa un porto de rede que normalmente se usa con fins diferentes á navegación web. Para a súa protección, { -brand-short-name } cancelou a solicitude.
