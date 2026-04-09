@@ -1585,7 +1585,7 @@ trustpanel-blocked-header = { -brand-product-name } თქვენთვის 
 trustpanel-tracking-header = { -brand-product-name } საიტების გაუმართაობის ასარიდებლად არ ზღუდავს შემდეგს:
 trustpanel-tracking-description = მეთვალყურეების შეზღუდვით ზოგიერთმა ღილაკმა, კითხვარის შესავსებმა და ანგარიშზე შესვლის ველებმა შეიძლება ვერ იმუშაოს.
 trustpanel-insecure-section-header = თქვენი კავშირი დაუცველია
-trustpanel-insecure-description = ამ საიტზე შეყვანილი მონაცემები დაუშიფრავია. შეიძლება ვინმე სხვამ იხილოს, მიიტაცოს ან გადააკეთოს.
+trustpanel-insecure-description = ამ საიტზე შეყვანილი მონაცემები დაუშიფრავია. შეიძლება ვინმე უცხომ იხილოს, მიიტაცოს ან გადააკეთოს.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } საიტთაშორისი მეთვალყურე ფუნთუშა
