@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Na mobilny grat pósłać
     .accesskey = m
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Zwjazajće swój telefon
+main-context-menu-send-to-mobile-device-missing =
+    .label = Njewidźiće swój grat?
 main-context-menu-save-to-pocket =
     .label = Stronu pola { -pocket-brand-name } składować
     .accesskey = k

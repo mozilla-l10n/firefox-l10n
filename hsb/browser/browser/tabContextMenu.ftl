@@ -158,6 +158,13 @@ tab-context-send-to-mobile =
            *[other] { $tabCount } rajtarkow na mobilny grat pósłać
         }
     .accesskey = b
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
+tab-context-send-to-mobile-connect-phone =
+    .label = Zwjazajće swój telefon
+tab-context-send-to-mobile-device-missing =
+    .label = Njewidźiće swój grat?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
