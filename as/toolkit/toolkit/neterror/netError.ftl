@@ -12,12 +12,26 @@ neterror-page-title = পৃষ্ঠা ল'ড কৰোঁতে সমস্
 neterror-learn-more-link = অধিক জানক…
 neterror-try-again-button = পুনৰ চেষ্টা কৰক
 
+##
+
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } কিবা কাৰণৰ বাবে এই পৃষ্ঠা ল'ড কৰিব নোৱাৰি।
 neterror-load-error-try-again = এই ছাইটতো অস্থায়ীভাবে পোৱা নাযাব বা অতি ব্যস্ত। কিছু সময়ৰ পিছত আকৌ চেষ্টা কৰিব।
 neterror-load-error-connection = যদি কোনো পৃষ্ঠা তুলিব পৰা নাই, আপোনাৰ কমপিউটাৰৰ নেটৱাৰ্ক সংযোগ পৰীক্ষা কৰক।
 neterror-load-error-firewall = যদি আপোনাৰ কমপিউটাৰ বা নেটৱাৰ্ক ফায়াৰ্ৱাল বা প্ৰক্সিৰে সংৰক্ষিত, { -brand-short-name } এ ৱেব অভিগম কৰিব পৰাৰ আজ্ঞা থকাটো নিশ্চিত কৰক।
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 
@@ -42,3 +56,11 @@ neterror-nss-failure-not-verified = প্ৰাপ্ত কৰা তথ্য
 neterror-nss-failure-contact-website = এই সমস্যাৰ কথা জনাবলৈ ৱেব ছাইটৰ গৰাকীসকলৰ সৈতে যোগাযোগ কৰক।
 neterror-corrupted-content-intro = আপুনি দৰ্শন কৰিব বিচৰা পৃষ্ঠা দেখাব নোৱাৰি কাৰণ তথ্য পৰিৱহনত এটা ত্ৰুটি দেখা গৈছিল।
 neterror-corrupted-content-contact-website = এই সমস্যাৰ বিষয়ে জনাবলে অনুগ্ৰহ কৰি ৱেবছাইট গৰাকীসমূহৰ সৈতে যোগাযোগ কৰক।
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = এই ঠিকনাই এটা নেটৱাৰ্কৰ প'ৰ্ট ব্যৱহাৰ কৰে যি সাধাৰণতে ৱেব ব্ৰাউছৰ বাদে অন্য কামৰ বাবে ব্যৱহাৰ হয়। আপোনাৰ সুৰক্ষাৰ বাবে { -brand-short-name } এ অনুৰোধটো বাতিল কৰিছে।
