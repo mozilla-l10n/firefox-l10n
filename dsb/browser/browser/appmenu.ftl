@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Symbolowu rědku pśiměriś…
+appmenu-abouttranslations =
+    .label = Pśełožyś…
 appmenu-developer-tools-subheader = Rědy wobglědowaka
 appmenu-developer-tools-extensions =
     .label = Rozšyrjenja za wuwijarje

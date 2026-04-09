@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Настройка панели инструментов…
+appmenu-abouttranslations =
+    .label = Перевести…
 appmenu-developer-tools-subheader = Инструменты браузера
 appmenu-developer-tools-extensions =
     .label = Расширения для разработчиков

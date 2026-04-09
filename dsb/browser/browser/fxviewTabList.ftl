@@ -78,3 +78,6 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Rejtarik nimy cyniś
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Rejtarik głosny cyniś
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync =
+    .label = Zmóžniśo synchronizaciju, aby rejtarik pósłał

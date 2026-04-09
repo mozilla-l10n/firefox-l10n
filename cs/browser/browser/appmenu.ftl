@@ -316,6 +316,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Nastavení tlačítek a lišt…
+appmenu-abouttranslations =
+    .label = Přeložit…
 appmenu-developer-tools-subheader = Nástroje prohlížeče
 appmenu-developer-tools-extensions =
     .label = Rozšíření pro vývojáře
