@@ -206,3 +206,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Ndonjëherë, sajtet ujdisin mb
 fp-learn-more-about-https-connections = Mësoni rreth lidhjesh HTTPS
 fp-neterror-vpn-error-title = S’u lidh dot me VPN-në
 fp-neterror-vpn-error-description = Riprovoni pas pak minutash.
+fp-neterror-denied-port-access = Kjo adresë përdor një portë rrjeti e cila, zakonisht, përdoret për qëllime të ndryshme nga shfletimi Web. Për mbrojtjen tuaj, { -brand-short-name }-i e ka hedhur tej kërkesën.
