@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Skicka till mobil
     .accesskey = S
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Aktivera synkronisering för att skicka en flik
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Anslut din telefon
+main-context-menu-send-to-mobile-device-missing =
+    .label = Hittar du inte din enhet?
 main-context-menu-save-to-pocket =
     .label = Spara sida till { -pocket-brand-name }
     .accesskey = k
