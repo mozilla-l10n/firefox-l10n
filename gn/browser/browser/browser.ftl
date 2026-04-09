@@ -946,6 +946,14 @@ urlbar-searchmode-default =
     .tooltiptext = Hekaha mongu’eha ypygua
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-one-off-description-menucaption =
+    .label = Ko’ág̃a eheka hendive:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header-menucaption =
+    .label = Eheka Kóvandi:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Ko’ág̃a eheka hendive:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
