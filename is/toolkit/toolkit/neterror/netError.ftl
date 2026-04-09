@@ -163,9 +163,13 @@ certerror-coep-learn-more = Frekari upplýsingar um Cross Origin Embedder Polici
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Villukóði: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> sendi villu til baka.
+fp-neterror-denied-port-access = Þetta veffang notar netgátt sem er venjulega ekki notuð til þess að vafra. { -brand-short-name } hefur lokað á beiðnina þér til verndar.
