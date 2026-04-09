@@ -67,4 +67,4 @@ neterror-inadequate-security-code = ದೋಷದ ಸಂಕೇತ: NS_ERROR_NET_I
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-denied-port-access = ಈ ವಿಳಾಸವು  ಸಾಮಾನ್ಯವಾಗಿ ಜಾಲ ವೀಕ್ಷಣೆಯನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಕಾರ್ಯಗಳಿಗೆ  ಬಳಸಲಾಗುವ ಒಂದು ಜಾಲಬಂಧ ಪೋರ್ಟನ್ನು ಬಳಸುತ್ತದೆ.ಫೈರ್ಫಾಕ್ಸ್ ನಿಮ್ಮ ಸುರಕ್ಷತೆಯ ದೃಷ್ಟಿಯಿಂದ ಮನವಿಯನ್ನು ರದ್ದು ಮಾಡಿದೆ.
+fp-neterror-denied-port-access = ಈ ವಿಳಾಸವು  ಸಾಮಾನ್ಯವಾಗಿ ಜಾಲ ವೀಕ್ಷಣೆಯನ್ನು ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಕಾರ್ಯಗಳಿಗೆ  ಬಳಸಲಾಗುವ ಒಂದು ಜಾಲಬಂಧ ಪೋರ್ಟನ್ನು ಬಳಸುತ್ತದೆ. { -brand-short-name } ನಿಮ್ಮ ಸುರಕ್ಷತೆಯ ದೃಷ್ಟಿಯಿಂದ ಮನವಿಯನ್ನು ರದ್ದು ಮಾಡಿದೆ.

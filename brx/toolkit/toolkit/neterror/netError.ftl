@@ -55,4 +55,4 @@ neterror-sslv3-used = जौगाहोनाय मोनथिहोनाय
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-denied-port-access = बे थंआ मोनसे नेटवार्क पर्टखौ बाहायो जायखौ वेब ब्राउजिंनि सोलायै सरासनस्रायै गुबुन थांखिनि थाखाय बाहायनाय जायो। फायारफक्सआ नोंथांनि रैखाथिनि थाखाय खावलायनायखौ नेवसिगारबाय।
+fp-neterror-denied-port-access = बे थंआ मोनसे नेटवार्क पर्टखौ बाहायो जायखौ वेब ब्राउजिंनि सोलायै सरासनस्रायै गुबुन थांखिनि थाखाय बाहायनाय जायो। { -brand-short-name } आ नोंथांनि रैखाथिनि थाखाय खावलायनायखौ नेवसिगारबाय।
