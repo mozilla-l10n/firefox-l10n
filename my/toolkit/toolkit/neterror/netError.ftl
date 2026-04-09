@@ -66,8 +66,3 @@ neterror-sslv3-used = Advanced info: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Error code: NS_ERROR_NET_INADEQUATE_SECURITY
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-
-fp-neterror-denied-port-access = လုံခြုံရေး ကိစ္စများကြောင့် ဒီထုတ်တိုင် ဂဏန်းဆီ ၀င်ရောက်မှုကို ပိတ်ထားတယ်။

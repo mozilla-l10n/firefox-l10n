@@ -143,6 +143,13 @@ tab-context-send-to-mobile =
            *[other] { $tabCount } ჩანართის გაგზავნა მობილურზე
         }
     .accesskey = ზ
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = ჩართეთ დასინქ. ჩანართის გასაგზავნად
+tab-context-send-to-mobile-connect-phone =
+    .label = დააკავშირეთ თქვენი ტელეფონი
+tab-context-send-to-mobile-device-missing =
+    .label = არ ჩანს თქვენი მოწყობილობა?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

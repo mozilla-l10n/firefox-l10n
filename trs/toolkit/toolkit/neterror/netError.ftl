@@ -115,4 +115,4 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> hua '
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-denied-port-access = Se puerto da'ui sitiô na garasunj nga aché nu' huin araj sunj. Ni firefox duyichin' ma da' dugumij sò'
+fp-neterror-denied-port-access = Se puerto da'ui sitiô na garasunj nga aché nu' huin araj sunj. Ni { -brand-short-name } duyichin' ma da' dugumij sò'

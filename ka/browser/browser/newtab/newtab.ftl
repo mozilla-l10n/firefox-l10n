@@ -146,6 +146,9 @@ newtab-menu-report = მოხსენება
 newtab-menu-section-block = აკრძალვა
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = გამოწერის შეწყვეტა
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = თემის მიდევნების შეწყვეტა
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -600,6 +603,7 @@ newtab-section-confirm-block-topic-p2 = შეზღუდული თემე
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = შეიზღუდოს { $topic }
+newtab-section-block-cancel-button = გაუქმება
 
 ## Strings for custom wallpaper highlight
 
@@ -663,6 +667,18 @@ newtab-toast-thanks-for-reporting =
     .message = გმადლობთ, რომ მოგვახსენეთ.
 newtab-toast-widgets-hidden =
     .message = აირჩიეთ ფანქრის ხატულა ჩანამატის ნებისმიერ დროს დასაბრუნებლად.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = გამოწერილი გაქვთ { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = აღარ გაქვთ გამოწერილი { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = აღარ იხილავთ ამბებს, რომელთაც შეეხება { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -704,6 +720,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = ახალი სია
 newtab-widget-section-title = ჩანამატები
 newtab-widget-menu-hide = ჩანამატის დამალვა
+newtab-widget-menu-change-size = ზომის შეცვლა
+newtab-widget-size-small = მომცრო
+newtab-widget-size-medium = საშუალო
+newtab-widget-size-large = მოზრდილი
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = ჩანამატების დამალვა

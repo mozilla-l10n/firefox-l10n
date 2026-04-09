@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ხელსაწყოთა ზოლის მორგება...
+appmenu-abouttranslations =
+    .label = თარგმნა…
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
 appmenu-developer-tools-extensions =
     .label = გაფართოებები შემმუშავებელთათვის

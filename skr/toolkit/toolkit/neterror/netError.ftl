@@ -151,4 +151,4 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> دے 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-denied-port-access = ایہ پتہ ہک نیٹ ورک پورٹ استعمال کریندا ہے جیڑھا عام طور تے ویب براؤزنگ دے علاوہ ٻئے مقاصد کیتے استعمال تھیندا ہے۔ فائر فاکس  تہاݙے تحفظ دی درخواست کوں منسوخ کر ݙتا ہے۔
+fp-neterror-denied-port-access = ایہ پتہ ہک نیٹ ورک پورٹ استعمال کریندا ہے جیڑھا عام طور تے ویب براؤزنگ دے علاوہ ٻئے مقاصد کیتے استعمال تھیندا ہے۔ { -brand-short-name }  تہاݙے تحفظ دی درخواست کوں منسوخ کر ݙتا ہے۔

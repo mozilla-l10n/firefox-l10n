@@ -67,4 +67,4 @@ neterror-inadequate-security-code = பிழைக் குறியீடு:
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-denied-port-access = இந்த முகவரி பொதுவாக வலை உலாவல் தவிர வேறு தேவைகளுக்காக பயன்படுத்தப்படும் ஒரு பிணைய முனையத்தைப் பயன்படுத்துகிறது. பயர்பாக்ஸ் உங்கள் பாதுகாப்புக்காக கோரிக்கையை ரத்து செய்தது.
+fp-neterror-denied-port-access = இந்த முகவரி பொதுவாக வலை உலாவல் தவிர வேறு தேவைகளுக்காக பயன்படுத்தப்படும் ஒரு பிணைய முனையத்தைப் பயன்படுத்துகிறது. { -brand-short-name } உங்கள் பாதுகாப்புக்காக கோரிக்கையை ரத்து செய்தது.

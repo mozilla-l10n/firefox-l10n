@@ -40,4 +40,4 @@ neterror-unsafe-content-type = Jéemal wax ak boroom dalub web bi ngir biral ko 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-denied-port-access = Màkkaan bi mi ngiy jëfandikoo benn jokkoo lëkkale bu ñu miinul. Loolu tax Fires fox bayyi wut gi.
+fp-neterror-denied-port-access = Màkkaan bi mi ngiy jëfandikoo benn jokkoo lëkkale bu ñu miinul. Loolu tax { -brand-short-name } bayyi wut gi.

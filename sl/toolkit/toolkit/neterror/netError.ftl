@@ -201,4 +201,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Spletna mesta včasih nastavijo
 fp-learn-more-about-https-connections = Več o povezavah HTTPS
 fp-neterror-vpn-error-title = Povezava z VPN ni bila mogoča
 fp-neterror-vpn-error-description = Poskusite znova čez nekaj minut.
-fp-neterror-denied-port-access = Dostop do teh vrat je onemogočen zaradi varnostnih razlogov.
+fp-neterror-denied-port-access = Ta naslov uporablja omrežna vrata, ki se ponavadi ne uporabljajo za brskanje po spletu. { -brand-short-name } je zahtevo preklical iz varnostnih razlogov.
