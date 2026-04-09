@@ -15,7 +15,7 @@ unexpected-script-load-message-button-block =
     .label = احجب
     .accesskey = ا
 unexpected-script-load-title = تحميل غير متوقع للبرنامج النصي
-unexpected-script-load-detail-1-allow = سيسمح { -brand-short-name } بتحميل نصوص برمجية ذات صلاحيات غير متوقعة، بما في ذلك النص المذكور أدناه. سيؤدي هذا إلى جعل تثبيت { -brand-short-name } الخاص بك أقل أمانًا.
+unexpected-script-load-detail-1-allow = <strong>سيسمح</strong> { -brand-short-name } بتحميل نصوص برمجية ذات صلاحيات غير متوقعة، بما في ذلك النص المذكور أدناه. سيؤدي هذا إلى جعل تثبيت { -brand-short-name } الخاص بك <strong>أقل</strong> أمانًا.
 unexpected-script-load-detail-1-block = سيؤدي استخدام { -brand-short-name } إلى <strong>حجب</strong> تحميل نصوص برمية ذات صلاحيات غير متوقعة، بما في ذلك البرنامج النصي المذكور أدناه. سيجعل هذا تثبيت { -brand-short-name } الخاص بك <strong>أكثر</strong> أمانًا.
 # In this text "the functionality" refers to whatever the unexpected script is doing.
 # Sorry that is vague - but we don't know what these scripts are, so we don't know what they're doing

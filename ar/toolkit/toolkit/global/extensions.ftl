@@ -175,5 +175,5 @@ webext-site-perms-midi-sysex = الوصول إلى أجهزة MIDI التي تد
 
 ## Colorway theme migration
 
-webext-colorway-theme-migration-notification-message = أُزيلت سمة التلاوين الخاصة بك. قامت شركة { -brand-shorter-name } بتحديث مجموعة ألوانها. يمكنك العثور على أحدث الإصدارات على موقع الإضافات.
+webext-colorway-theme-migration-notification-message = <b>أُزيلت سمة التلاوين الخاصة بك.</b> قامت شركة { -brand-shorter-name } بتحديث مجموعة ألوانها. يمكنك العثور على أحدث الإصدارات على موقع الإضافات.
 webext-colorway-theme-migration-notification-button = احصل على التلاوين المحدثة
