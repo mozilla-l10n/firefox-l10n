@@ -310,6 +310,7 @@ tail-fox-spotlight-secondary-button = Ahora no
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-subtitle = Bienvenido de nuevo al único navegador importante respaldado por una organización sin fines de lucro. Tomamos medidas adicionales para proteger tus datos donde quiera que vaya.
+welcome-back-embedded-import-title = Importe sus datos y haga que { -brand-short-name } se sienta más suyo
 
 ## Root Certificate Succession Infobar
 
