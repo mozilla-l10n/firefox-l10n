@@ -54,6 +54,11 @@ neterror-dns-not-found-trr-offline = No esteu connectat a Internet.
 neterror-dns-not-found-bad-trr-url = L’URL no és vàlid.
 neterror-dns-not-found-trr-unknown-problem = Problema inesperat.
 
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'hagi produït en teclejar.
@@ -126,3 +131,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Si no coneixeu <b>{ $mitm }
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> té una política de seguretat anomenada «HTTP Strict Transport Security» (Seguretat estricta de transport HTTP, o HSTS), que vol dir que el { -brand-short-name } només pot connectar-s'hi de forma segura. No podeu afegir cap excepció per visitar aquest lloc.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Aquesta adreça utilitza un port de xarxa que normalment es fa servir per a altres propòsits que no són la navegació web. El { -brand-short-name } ha cancel·lat la sol·licitud per a la vostra protecció.
