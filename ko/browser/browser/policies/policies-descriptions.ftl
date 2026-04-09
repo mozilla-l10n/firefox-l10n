@@ -154,3 +154,5 @@ policy-WebsiteFilter = 특정 웹 사이트 방문을 차단합니다. 자세한
 policy-Windows10SSO = Microsoft, 회사 및 학교 계정에 Windows 단일 로그인 (SSO)을 허용합니다.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Microsoft Entra 계정에 단일 로그인 (SSO)을 허용합니다.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = XSLTProcessor JavaScript API 및 XSLT 처리 명령어에 대한 지원을 사용하거나 사용하지 않게 합니다.

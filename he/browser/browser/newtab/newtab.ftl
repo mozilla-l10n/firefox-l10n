@@ -670,6 +670,10 @@ newtab-section-toast-follow =
 #   $topic (string) - Topic that the user has unfollowed
 newtab-section-toast-unfollow =
     .message = הפסקת לעקוב אחרי { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = לא יוצגו יותר סיפורים בנושא { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -711,6 +715,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = רשימה חדשה
 newtab-widget-section-title = ווידג’טים
 newtab-widget-menu-hide = הסתרת הווידג׳ט
+newtab-widget-menu-change-size = שינוי גודל
+newtab-widget-size-small = קטן
+newtab-widget-size-medium = בינוני
+newtab-widget-size-large = גדול
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = הסתרת ווידג׳טים

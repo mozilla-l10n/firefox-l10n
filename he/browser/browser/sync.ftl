@@ -37,6 +37,13 @@ fxa-menu-send-to-mobile =
             [1] שליחה לנייד
            *[other] שליחת { $tabCount } לשוניות לנייד
         }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = יש להפעיל סנכרון כדי לשלוח לשונית
+fxa-menu-send-to-mobile-connect-phone =
+    .label = חיבור לטלפון שלך
+fxa-menu-send-to-mobile-device-missing =
+    .label = לא רואה את המכשיר שלך?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

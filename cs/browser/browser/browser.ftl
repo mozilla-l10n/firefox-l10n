@@ -1783,7 +1783,7 @@ trustpanel-tracking-header =
     }
 trustpanel-tracking-description = Bez sledovacích prvků nemusí některá tlačítka, formuláře a přihlašovací údaje správně fungovat.
 trustpanel-insecure-section-header = Vaše spojení není zabezpečené
-trustpanel-insecure-description = Údaje odesílané na tento server nejsou šifrovány. Mohou být viděny, ukradeny nebo pozměněny ostatními.
+trustpanel-insecure-description = Údaje odesílané na tento server nejsou šifrovány. Mohou být prohlíženy, ukradeny nebo pozměněny.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } sledovací cookie třetí stran
