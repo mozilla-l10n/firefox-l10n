@@ -100,9 +100,13 @@ certerror-what-can-you-do-about-it-title = അതിനെപ്പറ്റി 
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = പിശകുസങ്കേതം: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ഒരു പിഴവു് തിരിച്ചയച്ചു.
+fp-neterror-denied-port-access = വെബ് ബ്രൌസിങ് ഒഴികെ മറ്റ് സാധാരണ ആവശ്യങ്ങള്‍ക്കുന്നതിനുള്ള ഒരു നെറ്റ്‌വര്‍ക്ക് പോര്‍ട്ട്  ആണ് ഈ വിലാസം ഉപയോഗിക്കുന്നത്. നിങ്ങളുടെ സുരക്ഷയ്ക്കായി ഫയര്‍ഫോക്സ് ഈ ആവശ്യം റദ്ദാക്കിയിരിക്കുന്നു.

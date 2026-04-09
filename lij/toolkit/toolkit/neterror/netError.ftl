@@ -39,6 +39,17 @@ neterror-load-error-connection = Se no ti riesci a caregâ nisciunn-a pagina, pr
 neterror-load-error-firewall = Se o teu computer ò a teu conescion en protezui da 'n firewall ò proxy, açertite che { -brand-short-name } o l'agge o permisso de acede a-a Ræ.
 neterror-captive-portal = Ti devi intrâ in sta ræ prima che ti pòsse acede a l'internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-access-denied = O peu ese stæto scancelou,mesciou, ò i permissi de acesso a-i file peuan proibine l'acesso.
@@ -68,3 +79,11 @@ certerror-what-can-you-do-about-it-title = E aloa cöse ti peu fâ?
 certerror-unknown-issuer-what-can-you-do-about-it-website = O problema o l'é corpa do scito e no ti ghe peu fâ ninte.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Se t'ê inte na ræ aziendale ò ti deuvi 'n software anti-viros, ti peu vedde se l'ascistensa peu agiutate. Ti peu anche informâ i aministratoî do scito che gh'é sto problema chi.
 certerror-bad-cert-domain-what-can-you-do-about-it = Me sa che sto problema o l'é do scito e ti no ti ghe peu fâninte. Diggou a l'aministratô do scito che ti gh'æ sto problema.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Questo indirisso o l'uza 'na pòrta ch'a no l'é uzâ pe-a navegaçion. { -brand-short-name } o l'à scancelou a domanda pe-a teu proteçion.

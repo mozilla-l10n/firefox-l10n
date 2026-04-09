@@ -938,6 +938,14 @@ urlbar-searchmode-default =
     .tooltiptext = Motor parazgjedhje kërkimesh
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-one-off-description-menucaption =
+    .label = Këtë herë kërko me:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header-menucaption =
+    .label = Kërko me:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Këtë herë kërko me:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically

@@ -46,6 +46,17 @@ neterror-dns-not-found-hint-try-again = Sprōbuj zaś niyskorzij
 neterror-dns-not-found-hint-check-network = Badnij na swoje połōnczynie z necym
 neterror-dns-not-found-hint-firewall = Badnij jeźli aplikacyjo { -brand-short-name } mo zgoda na połōnczynie z necym (może być szperowano ôd firewalla)
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Badnij na miano zbioru, jeźli niy mo felerōw abo złyj srogości liter.
@@ -116,3 +127,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Jak niy poznowosz <b>{ $mit
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Serwer <b>{ $hostname }</b> mo polityka bezpieczyństwa HTTP Strict Transport Security (HSTS), bez co aplikacyjo { -brand-short-name } poradzi sie ś nim połōnczyć ino bezpiecznie. Niy idzie przidać wyjōntku, coby nawiydzić ta strōna.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Ta adresa używo necowego portu, co normalnie niy ma używany do przeglōndanio neca. Do twojich ôchrōny { -brand-short-name } skasowoł ta prośba.

@@ -167,6 +167,9 @@ certerror-coep-learn-more = Saber mais sobre as Cross Origin Embedder Policies (
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Código de erro: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
@@ -175,3 +178,4 @@ neterror-response-status-code = Código de erro: { $responsestatus } { $response
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> devolveu um erro.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Por vezes os sites configuram proteções para si próprios contra interações indesejadas com outros sites.
+fp-neterror-denied-port-access = Este endereço utiliza uma porta de rede que é normalmente utilizada para outros propósitos para além de navegação Web. O { -brand-short-name } cancelou a solicitação para sua proteção.

@@ -130,3 +130,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Եթե դուք ծանոթ 
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ունի անվտանգության քաղաքականություն, որը կոչվում է HTTP Strict Transport Security (HSTS), ինչը նշանակում է, որ { -brand-short-name } կարող է միայն ապահով կերպով միանալու դրան։ Դուք չեք կարող բացառություն ավելացնել այս կայք այցելելու համար։
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Այս հասցեն օգտագործում է ցանցային պորտ, որը սովորաբար նախատեսված է զննարկման համար։ { -brand-short-name }-ը չեղարկեց հարցումը՝ Ձեր պաշտպանության նկատառումից ելնելով։

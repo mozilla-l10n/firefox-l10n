@@ -47,6 +47,11 @@ neterror-captive-portal = K'o chi natikirsaj molojri'ïl pa re k'amab'ey re' chu
 
 neterror-dns-not-found-trr-unknown-host2 = Man nilitäj ta ri ruxaq ruma ri { $trrDomain }.
 
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Tanik'oj chi majun sachoj pa rub'i' ri yakb'äl achi'el rutz'ib'axik, achi'el chuqa' rokisaxik nimatz'ib'.
@@ -119,3 +124,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = We man ruk'ulun ta chawe ri
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b>k'o jun runa'ojil jikomal b'ina'am HTTP Jikïl Ruk'waxik Jikomal (HSTS), ri nuq'ajuj chi ri { -brand-short-name } xa xe nitikïr nok pa ütz jikomal. Man yatikïr ta natz'aqatisaj jun man relik ta richin natz'ët re ruxaq re'.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Re ochochib'äl re' nrokisaj jun k'amab'ey, ri nokisäx pa jun chik rub'eyal chuwäch ri okem pa k'amaya'l. Richin achajixik, jumul xuq'ät ri ataqoj tzij ri { -brand-short-name }.

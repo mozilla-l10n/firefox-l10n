@@ -733,6 +733,10 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
 ## These strings are used for suggestions of important dates in the urlbar.
 
 # The name of an event and a note that it is happening today separated by a
@@ -767,6 +771,10 @@ urlbar-searchmode-actions =
     .label = کنش‌ها
 urlbar-searchmode-exit-button =
     .tooltiptext = بستن
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-description-menucaption =
+    .label = این بار جستجو با:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
@@ -1082,6 +1090,9 @@ tabs-toolbar-list-all-tabs =
     .label = فهرست کردن همهٔ زبانه‌ها
     .tooltiptext = فهرست کردن همهٔ زبانه‌ها
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1201,6 +1212,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = نمایش «‪{ $popupURI }‬»
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = پایان نصب
@@ -1209,3 +1230,10 @@ onboarding-checklist-button-label = پایان نصب
 
 trustpanel-clear-cookies-subview-button-cancel = انصراف
 trustpanel-blocker-see-all = نمايش همه
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

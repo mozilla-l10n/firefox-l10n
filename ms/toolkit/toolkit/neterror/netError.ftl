@@ -38,6 +38,17 @@ neterror-load-error-connection = Jika anda tidak dapat memuatkan sebarang halama
 neterror-load-error-firewall = Jika komputer atau rangkaian anda dilindungi firewall atau proksi, sila pastikan bahawa { -brand-short-name } diberi izin mengakses Web.
 neterror-captive-portal = Anda perlu log masuk ke rangkaian ini sebelum anda boleh mengakses Internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Semak ralat huruf besar nama fail atau ralat menaip lain.
@@ -98,3 +109,11 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Isu ini mungkin berkaitan l
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ada polisi keselamatan yang dipanggil HTTP Keselamatan Pengangkutan Ketat (HSTS), iaitu { -brand-short-name } boleh menyambung secara selamat sahaja. Anda tidak boleh menambah pengecualian untuk melawat laman ini.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Alamat ini menggunakan port rangkaian yang kebiasaannya digunakan untuk kegunaan selain pelayaran Web. { -brand-short-name } telah membatalkan permohonan ini untuk menjaga keselamatan anda.

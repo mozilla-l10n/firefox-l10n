@@ -30,6 +30,17 @@ neterror-load-error-connection = Indien u geen bladsye kan laai nie, kontroleer 
 neterror-load-error-firewall = Indien u rekenaar of netwerk deur 'n brandmuur of instaanbediener beskerm word, maak seker dat { -brand-short-name } toegelaat word om toegang tot die web te verkry.
 neterror-captive-portal = Dis nodig om eers by dié netwerk aan te meld vir internettoegang.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Kontroleer die lêernaam vir bokas of onderkas of ander tikfoute.
@@ -61,3 +72,11 @@ neterror-sslv3-used = Gevorderde inligting: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> gebruik verouderde sekuriteittegnologie en is kwesbaar vir aanvalle. 'n Aanvaller kan maklik inligting bekom wat mens sou dink veilig was. Die webwerfadministrateur sal die bediener eers moet regmaak voordat die werf besoek kan word.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Foutkode: NS_ERROR_NET_INADEQUATE_SECURITY
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Hierdie adres gebruik 'n netwerkpoort wat gewoonlik gebruik word vir ander doeleindes as webblaaiery. { -brand-short-name } het die versoek ter wille van u beskerming gekanselleer.

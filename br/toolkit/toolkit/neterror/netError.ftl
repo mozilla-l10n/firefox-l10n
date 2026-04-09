@@ -140,3 +140,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Ma n'anavezit ket <b>{ $mit
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> a zo gantañ ur politikerezh surentez anvet HTTP Strict Transport Security (HSTS), ar pezh a dalvez { -brand-short-name } a c'hall kennaskañ outañ en un doare sur. N'hallit ket ouzhpennañ un nemedenn ebet evit gweladenniñ al lec'hienn-mañ.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Emañ ar chomlec'h oc'h arverañ ur porzh hag a zo arveret dre voaz evit palioù all eget ar merdeiñ war internet. Dilezet eo bet ar goulenn gant { -brand-short-name } evit ho kwarez.

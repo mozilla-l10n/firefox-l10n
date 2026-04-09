@@ -11,12 +11,26 @@ neterror-page-title = Obuzibu mukutikka omuko
 
 neterror-try-again-button = Gezako Nate
 
+##
+
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } terisobola kutikka muko guno olw'ensonga ezimu.
 neterror-load-error-try-again = Omutimbo guyinza okumala akaseera nga teguliiko oba gwandiba nga gukozesebwa nnyo. Gezaako nate  mu kaseera akomumaaso.
 neterror-load-error-connection = Bw'obeera olemeddwa okuttikka entimbe, kebera kenkwasaganya  yo'mukutu ku Kompyuta yo.
 neterror-load-error-firewall = Bw'eba nga kompyuta yo oba empuliziganya ekumiddwa fgguluggulu oba kompyuta enkozi poxi, gezaako okulaba  nti { -brand-short-name } ekkirizibwa okweyambisa omutimbagano.
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 
@@ -39,3 +53,11 @@ neterror-content-encoding-error = Osabidwa okwebuuza ku bannanyini b'ekibanja ob
 neterror-unsafe-content-type = Osabidwa okwebuuza ku bannanyini b'ekibanja obabuulire ku buzibu bwo.
 neterror-corrupted-content-intro = Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.
 neterror-corrupted-content-contact-website = Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Endagiriro eno ekozesa ekituli ky'empuliziganya ekitera okukozesebwa okuleka okunoonya olutimbe. N'ensonga eno { -brand-short-name } esazizaamu okusaba kwo olw'obukuumi.

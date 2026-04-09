@@ -206,3 +206,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Kelkefoje retejoj agordas prote
 fp-learn-more-about-https-connections = Pli da informo pri konektoj HTTPS
 fp-neterror-vpn-error-title = Ne eblis konektiĝi al la VPN
 fp-neterror-vpn-error-description = Provu denove post kelkaj minutoj.
+fp-neterror-denied-port-access = Tiu ĉi adreso uzas retan pordon kiu normale estas uzata por aliaj celoj kaj ne por retumo. { -brand-short-name } nuligis la peton por protekti vin.

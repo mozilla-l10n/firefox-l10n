@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Иногда веб-сайты 
 fp-learn-more-about-https-connections = Узнайте о HTTPS-соединениях
 fp-neterror-vpn-error-title = Не удалось подключиться к VPN
 fp-neterror-vpn-error-description = Попробуйте снова через несколько минут.
+fp-neterror-denied-port-access = Данный адрес использует порт, который, как правило, не используется для работы с сайтами. В целях вашей безопасности { -brand-short-name } отменил данный запрос.

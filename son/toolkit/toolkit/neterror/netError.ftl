@@ -30,6 +30,17 @@ neterror-load-error-connection = Nda war mana hin ka moɲey zumandi, guna wala w
 neterror-load-error-firewall = Nda nuneceta wala tokore ga war ordinateroo wala sankaa jejebu, w'alhakiika kaŋ goo { -brand-short-name } nda fondo ka huru tataaroo ra.
 neterror-captive-portal = War mma hima ka huru sankaa woo ra jina hala war ma hin ka duu interneti.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Tuku maɲoo guna harfu beerandiyan wala hantum firkayaŋ še.
@@ -61,3 +72,11 @@ neterror-sslv3-used = Alhabar koyjinante: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> ga goy nda dabaribayray kaŋ žen nd'a ga yalaafu zanbakey se. A ga faala zanbakaw se a ma hin ka alhabar kaŋ war ga tammahãa a ga saajaw fukkar. Interneti nungu juwalkaa mma hima ka feršikaa hanse jina hala war ma ma nungoo guna.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Firka tammaasa: NS_ERROR_NET_INADEQUATE_SECURITY
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Aderesoo woo ga goy nda kotay-mee kaŋ ga doona ka goyyaŋ kaŋ ga waani nda tataaru ceeciyan. { -brand-short-name } na hãaroo naŋ war saajaa sabboo se.

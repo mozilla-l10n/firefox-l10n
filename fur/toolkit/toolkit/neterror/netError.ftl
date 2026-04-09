@@ -194,3 +194,4 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Prove a cambiâ l’URL do
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Cualchi volte i sîts web si protezin da lis interazions malvoludis, cun altris sîts.
 fp-learn-more-about-https-connections = Altris informazions su lis conessions HTTPS
+fp-neterror-denied-port-access = Cheste direzion e dopre une puarte di rêt che di solit no ven doprade par navigâ te rêt. Par proteziti { -brand-short-name } al à anulât la richieste.

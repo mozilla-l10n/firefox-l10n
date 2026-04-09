@@ -39,6 +39,17 @@ neterror-load-error-connection = Sisi na'ue nayi'nïn ngà' si 'ngo pâjina, ni'
 neterror-load-error-firewall = Sisi hua rán rayi'î si aga't 'iaj proxi, ni'iaj sisi nan { -brand-short-name } ga'nïn gatut riña Web.
 neterror-captive-portal = Da'uit gayi'ìt sesiôn asij gachrin gatut riña internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Natsij ni ni'iajt si nu gachrun a'na't si yugui archivo.
@@ -111,3 +122,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Sisī nitāj si râj sun y�
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> hua 'ngo sa dugumin ma gu'naj ma HTTP Strict Transport Security (HSTS), sa gata ruaj huin si { -brand-short-name } man 'nga na gi'iaj sunj. Si ga'ue ahuin si gataj gà gatut riña sitio na.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Se puerto da'ui sitiô na garasunj nga aché nu' huin araj sunj. Ni firefox duyichin' ma da' dugumij sò'

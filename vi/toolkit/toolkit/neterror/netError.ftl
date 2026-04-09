@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Đôi khi các trang web thiế
 fp-learn-more-about-https-connections = Tìm hiểu về kết nối HTTPS
 fp-neterror-vpn-error-title = Không thể kết nối tới VPN
 fp-neterror-vpn-error-description = Hãy thử lại sau vài phút.
+fp-neterror-denied-port-access = Địa chỉ này dùng một cổng mạng vốn thường được dùng cho mục đích khác chứ không phải duyệt Web. { -brand-short-name } đã hủy bỏ yêu cầu này để bảo vệ bạn.

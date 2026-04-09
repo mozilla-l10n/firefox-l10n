@@ -11,12 +11,26 @@ neterror-page-title = Tatizo katika kupakia ukurasa
 
 neterror-try-again-button = Jaribu Tena
 
+##
+
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } haiwezi kupakia ukurasa huu kwa sababu fulani.
 neterror-load-error-try-again = Tovuti yaweza kuwa haipatikani kwa muda ama inashuguli sana. Jaribu tena katika dakika chache.
 neterror-load-error-connection = Kama umeshindwa kupakia kurasa zozote, kagua muungano mtandao wa tarakilish yako.
 neterror-load-error-firewall = Kama tarakilishi au mtandao wako umelindwa na ngome au mbadala, hakikisha kuwa { -brand-short-name } imeruhusiwa kufikia Wavuti.
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
 
 ##
 
@@ -39,3 +53,11 @@ neterror-content-encoding-error = Tafadhali wasiliana na wamiliki wa tovuti kuwa
 neterror-unsafe-content-type = Tafadhali wasililiana na wamiliki wa tovuti kuwajulisha kuhusu shida hii.
 neterror-corrupted-content-intro = Ukurasa unaojaribu kuangalia hauwezi kuonyeswha kwa sababu unatumia mfanyizo batili au usioauniwa.
 neterror-corrupted-content-contact-website = Tafadhali wasiliana na wamiliki wa wavuti kuwajulisha kuhusu shida hii.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Anwani hii hutumia kituo cha mtandao ambacho kwa kawaida hutumiwa kwa sababu zingine kando na kuvijari Wavuti. { -brand-short-name } imekatiza ombo la ulinzi wako.

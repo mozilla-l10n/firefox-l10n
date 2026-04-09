@@ -30,6 +30,17 @@ neterror-load-error-connection = Agar birorta ham sahifa yuklanmasa, kompyuterin
 neterror-load-error-firewall = Agar kompyuter yoki tarmogʻingiz fayervol yoki proksi bilan himoyalangan boʻlsa, { -brand-short-name }ning internetga kirishi cheklanmaganligini tekshirib koʻring.
 neterror-captive-portal = Internetdan foydalanish uchun tarmoqda ro‘yxatdan o‘tishingiz lozim.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Fayl nomlarining katta-kichik harfdaligi yoki matndagi boshqa xatolarini tekshiring.
@@ -61,3 +72,11 @@ neterror-sslv3-used = Qo‘shimcha ma’lumot: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b> hujumlarga chidamsiz va eskirgan xavfsizlik texnonolgiyasidan foydalanadi. Xakker siz xavfsiz deb o‘ylaydigan ma’lumotlarni osongina ochib ko‘rishi mumkin. Siz saytga kira olishingiz uchun avvalo sayt administratori serverni to‘g‘rilashi kerak.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Xatolik kodi: NS_ERROR_NET_INADEQUATE_SECURITY
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Manzil boshqa maqsadlarda ishlatiladigan tarmoq portidan foydalanadi, shu sababli { -brand-short-name } sizni himoyalash maqsadida soʻrovni bekor qildi.

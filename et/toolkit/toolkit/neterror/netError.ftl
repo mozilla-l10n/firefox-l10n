@@ -39,6 +39,17 @@ neterror-load-error-connection = Kui sa ei saa avada ühtegi lehte, siis kontrol
 neterror-load-error-firewall = Kui sinu arvuti või võrk on kaitstud tulemüüri või puhverserveri poolt, siis tee kindlaks, et { -brand-short-name }il on lubatud internetti pääseda.
 neterror-captive-portal = Internetti pääsemiseks pead sellesse võrku sisse logima.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-file-not-found-filename = Kontrolli faili nimes olevaid suurtähti või muid sisestusvigu.
@@ -111,3 +122,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Kui <b>{ $mitm }</b> on sul
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Sait <b>{ $hostname }</b> kasutab HTTP Strict Transport Security (HSTS) tehnoloogiat, et sundida { -brand-short-name } ühenduma ainult turvalise protokolli kaudu. Seetõttu pole selle serdi jaoks erandi lisamine võimalik.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = See aadress kasutab porti, mida tavaliselt kasutatakse muul eesmärgil kui veebi lehitsemine. Sinu kaitsmiseks katkestas { -brand-short-name } päringu.

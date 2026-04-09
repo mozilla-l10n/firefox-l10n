@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = في بعض الأحيان، ت
 fp-learn-more-about-https-connections = تعرّف على اتصالات HTTPS
 fp-neterror-vpn-error-title = تعذّر الاتصال بشبكة VPN
 fp-neterror-vpn-error-description = حاول مرة أخرى بعد بضع دقائق.
+fp-neterror-denied-port-access = يستخدم هذا العنوان منفذ شبكة مستخدم عادة لأغراض غير تصفّح الوِب. ألغى { -brand-short-name } الطلب لحمايتك.

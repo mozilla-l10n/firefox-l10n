@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = A webhelyek néha védelmet ál
 fp-learn-more-about-https-connections = Tudjon meg többet a HTTPS kapcsolatokról
 fp-neterror-vpn-error-title = Nem sikerült kapcsolódni a VPN-hez
 fp-neterror-vpn-error-description = Próbálja újra néhány perc múlva.
+fp-neterror-denied-port-access = Ez a cím olyan hálózati portot használ, amelyet általában a webböngészéstől eltérő célra szoktak használni. A { -brand-short-name } megszakította ezt a lekérést az Ön védelme érdekében.

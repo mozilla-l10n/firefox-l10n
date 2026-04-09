@@ -212,3 +212,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Sapy’ánte, umi ñanduti rogu
 fp-learn-more-about-https-connections = Eikuaave HTTPS-pe jeike rehegua
 fp-neterror-vpn-error-title = Ndaikatúi eike VPN-pe
 fp-neterror-vpn-error-description = Eha’ã jey ndahetái aravo’i rire.
+fp-neterror-denied-port-access = Ko kundaharape oguereko ñanduti mbojuajuhaite ojeporu tapiáva ambue mba’erã ñanduti kundahágui. Oñemo’ã hag̃ua, { -brand-short-name } ohejarei pe mba’ejerure.
