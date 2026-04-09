@@ -146,3 +146,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Se coneissètz pas <b>{ $mi
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> utiliza una estrategia de seguretat HTTP Strict Transport Security (HSTS), valent a dire que { -brand-short-name } per i accedir sonque amb una connexion securizada. Podètz pas apondre d’excepcion per consultar aqueste site.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Aquesta adreça utiliza un pòrt ret pas costumièr per la navegacion Web. Per mesura de seguretat, { -brand-short-name } a abandonat la requèsta.
