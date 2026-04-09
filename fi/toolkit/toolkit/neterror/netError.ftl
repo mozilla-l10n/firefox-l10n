@@ -206,3 +206,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Joskus verkkosivustot asettavat
 fp-learn-more-about-https-connections = Lisätietoja HTTPS-yhteyksistä
 fp-neterror-vpn-error-title = VPN-yhteyden muodostaminen epäonnistui
 fp-neterror-vpn-error-description = Yritä uudelleen muutaman minuutin kuluttua.
+fp-neterror-denied-port-access = Osoitteessa käytettyä porttia ei yleensä käytetä WWW-sivujen selaamiseen. { -brand-short-name } on keskeyttänyt yhteyden muodostamisen turvallisuussyistä.
