@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Wótergi se websedła pśed nje
 fp-learn-more-about-https-connections = Zgóńśo wěcej wó zwiskach HTTPS
 fp-neterror-vpn-error-title = Zwisk z VPN njejo móžny
 fp-neterror-vpn-error-description = Wopytajśo za mało minutow hyšći raz.
+fp-neterror-denied-port-access = Toś ta adresa wužywa seśowy port, kótaryž wužywa se normalnje za druge zaměry nježli webpśeglědowanje. { -brand-short-name } jo napšašowanje za waš šćit pśetergnuł.
