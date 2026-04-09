@@ -146,6 +146,9 @@ newtab-menu-report = Segnala
 newtab-menu-section-block = Blocca
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Smetti di seguire
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Smetti di seguire l’argomento
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -603,6 +606,7 @@ newtab-section-confirm-block-topic-p2 = Gli argomenti bloccati non verranno più
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blocca { $topic }
+newtab-section-block-cancel-button = Annulla
 
 ## Strings for custom wallpaper highlight
 
@@ -666,6 +670,18 @@ newtab-toast-thanks-for-reporting =
     .message = Grazie per la segnalazione.
 newtab-toast-widgets-hidden =
     .message = Seleziona l’icona a forma di matita per ripristinare i widget in qualsiasi momento.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Ora stai seguendo { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Non segui più { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Non verranno più visualizzate storie relative a { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
