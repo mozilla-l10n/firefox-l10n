@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = ზოგჯერ საიტ
 fp-learn-more-about-https-connections = ვრცლად გაეცანით HTTPS-კავშირებს
 fp-neterror-vpn-error-title = ვერ მიუერთდა VPN
 fp-neterror-vpn-error-description = კვლავ სცადეთ რამდენიმე წუთში.
+fp-neterror-denied-port-access = მისამართი იყენებს ქსელის პორტს, რომელიც ჩვეულებრივ სხვა მიზნით გამოიყენება ხოლმე და არა ვებგვერდების მოსანახულებლად. თქვენი უსაფრთხოებისთვის { -brand-short-name }-მა გააუქმა მიმდინარე მოთხოვნა.
