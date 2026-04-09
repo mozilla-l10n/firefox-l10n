@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Noen ganger setter nettsteder o
 fp-learn-more-about-https-connections = Les om HTTPS-tilkoblinger
 fp-neterror-vpn-error-title = Kunne ikke koble til VPN
 fp-neterror-vpn-error-description = Prøv igjen om noen minutter.
+fp-neterror-denied-port-access = Denne adressen bruker en nettverksport som vanligvis brukes til andre formål enn webben. { -brand-short-name } har avbrutt forespørselen for å beskytte personvernet ditt.
