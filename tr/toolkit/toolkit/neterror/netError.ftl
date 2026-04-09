@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Bazen web siteleri, kendilerini
 fp-learn-more-about-https-connections = HTTPS bağlantıları hakkında bilgi alın
 fp-neterror-vpn-error-title = VPN’e bağlanılamadı
 fp-neterror-vpn-error-description = Birkaç dakika sonra yeniden deneyin.
+fp-neterror-denied-port-access = Bu adres, normalde web gezintisinden başka amaçlar için kullanılan bir ağ portunu kullanıyor. { -brand-short-name } güvenliğiniz için bu isteği iptal etti.
