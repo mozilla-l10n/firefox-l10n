@@ -30,17 +30,6 @@ neterror-load-error-connection = Ukuba akukwazi ukulayisha nawaphi na amakhasi, 
 neterror-load-error-firewall = Ukuba ikhompyutha yakho okanye inethiwekhi ayikhuselwanga yi-firewall okanye iproksi, qiniseka ukuba i-{ -brand-short-name } ivunyelwe ukufikelela kwiWebhu.
 neterror-captive-portal = Umele ungene kule nethwekhi ngaphambi kokuba ufikelele kwi-Intanethi.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Khangela igama lefayile yoonobumba okanye ezinye iimpazamo zokutayipha.
@@ -72,9 +61,6 @@ neterror-sslv3-used = Inkcazelo ehambele phambili: SSL_ERROR_UNSUPPORTED_VERSION
 neterror-inadequate-security-intro = <b>{ $hostname }</b>isebenzisa iteknoloji yokhuseleko ephelelwe lixesha nesesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula atyhile inkcazelo obucinga ukuba ikhuselekile. Umlawuli wewebhsayithi kuya kufuneka aqale alungise iseva kuqala ngaphambi kokuba  utyelele isayithi.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = ERROR CODE: NS_ERROR_NET_INADEQUATE_SECURITY
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

@@ -148,9 +148,6 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = جے تساں <b>{ $mitm }<
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> دے کول ہک سیکورٹی پالیسی ہے جینکوں HTTP Strict Transport Security (HSTS) آہدے ہن، جیندا مطلب ہے جو { -brand-short-name } صرف ایں کنوں محفوظ طریقے نال جڑ سڳدا ہے۔ تساں ایں سائٹ کوں ݙیکھݨ کیتے کوئی رعایت شامل نہیں کر سڳدے۔
 
-## Felt Privacy V1 Strings
-
-
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 

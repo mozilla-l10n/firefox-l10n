@@ -151,9 +151,6 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = اگر با <b>{ $mitm }</b
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> یک خط‌مشی امنیتی به نام HTTP Strict Transport Security (HSTS) دارد، به این معنی که { -brand-short-name } فقط می‌تواند به طور ایمن به آن متصل شود. شما نمی توانید استثنایی برای بازدید از این سایت اضافه کنید.
 cert-error-trust-certificate-transparency-what-can-you-do-about-it = احتمالا هیچ چیزی نیست، زیرا احتمال دارد که مشکل از خود وبگاه باشد.
 
-## Felt Privacy V1 Strings
-
-
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 

@@ -35,17 +35,6 @@ neterror-captive-portal = អ្នក​ត្រូវ​តែ​ចូល​
 neterror-dns-not-found-hint-try-again = ព្យាយាមម្ដងទៀតនៅពេលក្រោយ
 neterror-dns-not-found-hint-check-network = ពិនិត្យមើលការតភ្ជាប់បណ្ដាញរបស់អ្នក
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = ពិនិត្យ​ឈ្មោះ​ឯកសារ​រក​មើល​អក្សរពុម្ព​ ឬ​កំហុស​ក្នុង​ការ​វាយ​ផ្សេងទៀត​ ។
@@ -77,9 +66,6 @@ neterror-sslv3-used = ព័ត៌មាន​កម្រិត​ខ្ពស�
 neterror-inadequate-security-intro = <b>{ $hostname }</b> ប្រើ​បច្ចេកវិទ្យា​សុវត្ថិភាព​ដែល​ហួស​សម័យ និង​​ងាយរង​ការ​វាយប្រហារ។ អ្នក​វាយប្រហារ​អាច​​​បញ្ចេញ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​​មាន​សុវត្ថិភាព​ឲ្យ​គេ​ដឹង​បាន​យ៉ាង​ងាយស្រួល។ អ្នក​គ្រប់គ្រង​វេបសាយ​នឹង​ត្រូវ​​ជួសជុល​ម៉ាស៊ីន​មេ​ជា​មុន​ មុន​ពេល​អ្នក​អាច​ចូល​មើ​លវេបសាយ​បាន។
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = កូដ​កំហុស៖ NS_ERROR_NET_INADEQUATE_SECURITY
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

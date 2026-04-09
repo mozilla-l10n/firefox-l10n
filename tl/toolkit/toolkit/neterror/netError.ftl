@@ -40,17 +40,6 @@ neterror-load-error-firewall = Kung ang iyong computer o network ay pinoprotekta
 neterror-captive-portal = Kailangan mo munang mag-log in sa network na ito bago mo maaccess ang Internet.
 neterror-dns-not-found-hint-header = <strong>Kung tama ang address na iyong inilagay, maaari kang:</strong>
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Suriin ang file name kung may capitalization o anumang mali sa pagkasulat.
@@ -123,9 +112,6 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = Kung hindi ka pamilyar sa <
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = Ang <b>{ $hostname }</b> ay may security policy na tinatawag na HTTP Strict Transport Security (HSTS), na ang ibig sabihin ay magko-connect lang ang { -brand-short-name } dito sa isang ligtas na paraan. Hindi ka maaaring magdagdag ng exception para mabisita ang site na ito.
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

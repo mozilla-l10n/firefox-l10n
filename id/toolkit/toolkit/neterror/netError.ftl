@@ -168,9 +168,6 @@ certerror-coep-learn-more = Pelajari lebih lanjut tentang Cross Origin Embedder 
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kode kesalahan: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
-
-
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 

@@ -12,9 +12,6 @@ neterror-dns-not-found-title = Серверот не е пронајден
 
 neterror-try-again-button = Обиди се повторно
 
-##
-
-
 ## Specific error messages
 
 neterror-generic-error = Поради некоја причина { -brand-short-name } не може да ја вчита оваа страница.
@@ -23,17 +20,6 @@ neterror-load-error-connection = Ако не можете да вчитате н
 neterror-load-error-firewall = Ако вашиот компјутер или мрежа се заштитени со огнен ѕид или посредник, проверете дали { -brand-short-name } има дозвола да пристапи на Интернет.
 neterror-dns-not-found-hint-try-again = Обидете се повторно подоцна
 neterror-dns-not-found-hint-check-network = Проверете ја вашата мрежна врска
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
 
 ##
 
@@ -53,9 +39,6 @@ neterror-proxy-connect-failure-settings = Проверете дали поста
 neterror-proxy-connect-failure-contact-admin = Контактирајте со вашиот мрежен администратор за да проверите дали серверот посредник работи.
 neterror-content-encoding-error = Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.
 neterror-unsafe-content-type = Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

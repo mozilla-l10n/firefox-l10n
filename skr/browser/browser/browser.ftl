@@ -698,9 +698,6 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 urlbar-result-realtime-opt-in-dismiss = فارغ کرو
 
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -1050,9 +1047,6 @@ tabs-toolbar-list-all-tabs =
     .label = تمام ٹیبز دی تندیر بݨاؤ
     .tooltiptext = تمام ٹیبز دی تندیر بݨاؤ
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1104,10 +1098,6 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
 
 ## Private browsing reset button
 
@@ -1200,17 +1190,7 @@ file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
 
-## Onboarding Finish Setup checklist
-
-
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-clear = صاف کرو
 trustpanel-clear-cookies-subview-button-cancel = منسوخ
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

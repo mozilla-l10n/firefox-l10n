@@ -39,17 +39,6 @@ neterror-load-error-connection = Heç bir səhifə açılmırsa, kompüterinizin
 neterror-load-error-firewall = Əgər kompüteriniz ya da şəbəkəniz Firewall və ya proxy ilə qorunursa, { -brand-short-name } proqramının internetə bağlanma icazəsinin olduğuna əmin olun.
 neterror-captive-portal = İnternetə çıxmaq üçün bu şəbəkəyə daxil olmalısınız.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Faylın adını böyük hərf və ya digər yazı xətaları üçün yoxlayın.
@@ -110,9 +99,6 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Böyük ehtimalla bu saytı
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> saytının HTTP Strict Transport Security (HSTS) adlı təhlükəsizlik siyasəti var, bu deməkdir ki, { -brand-short-name } bununla ancaq təhlükəsiz əlaqə qura bilər. Bu sayta istisna verə bilməzsiz.
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

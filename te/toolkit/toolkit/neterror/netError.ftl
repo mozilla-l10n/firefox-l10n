@@ -37,17 +37,6 @@ neterror-load-error-connection = మీరు వేరే పేజీలేమ
 neterror-load-error-firewall = మీ కంప్యూటరు లేదా నెట్‌వర్కు ఫైర్‌వాల్ లేక ప్రాక్సీ సంరక్షణలో ఉంటే, { -brand-short-name }కి జాలాన్ని వాడుకునే అనుమతి ఉండేలా చూడండి.
 neterror-dns-not-found-hint-try-again = తరువాత మళ్ళీ ప్రయత్నించండి
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = కేపిటలైజేషన్ లేదా ఇతర టైపింగు పొరపాట్లు ఫైలు పేరులో ఉన్నాయేమో చూడండి.
@@ -80,9 +69,6 @@ neterror-inadequate-security-intro = <b>{ $hostname }</b> కాలం చెల
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = దోష సంకేతం: NS_ERROR_NET_INADEQUATE_SECURITY
 certerror-what-can-you-do-about-it-title = దీని గురించి మీరు ఏం చేయవచ్చు?
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

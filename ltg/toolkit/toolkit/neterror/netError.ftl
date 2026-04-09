@@ -36,17 +36,6 @@ neterror-load-error-connection = Nui navarot attaiseit nivīnu lopu, puorbaudit 
 neterror-load-error-firewall = Nui jiusu datu aizsardzeibai tīk izmontuots guņsmyurs, puorsalīcinojit, ka { -brand-short-name } ir atļauts pīkliut šķārsteiklam.
 neterror-captive-portal = You must log in to this network before you can access the Internet.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Puorbaudit, voi faila vuords ir uzraksteits pareizi i ar pareizuo leluma burtym.
@@ -97,9 +86,6 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Dreižōk vysa tei ir lopys
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> izmontoj drūšeibys politiku, kū sauc HTTP Strict Transport Security (HSTS), kas nozeimoj, ka { -brand-short-name } var lopai pīzaslēgt viņ drūšajā režimā. Tu navari pīvīnōt izjāmumu, kab apsavērt itū lopu.
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

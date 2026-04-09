@@ -159,9 +159,6 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ɣur-
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Tangalt n tuccḍa: { $responsestatus } { $responsestatustext }
 
-## Felt Privacy V1 Strings
-
-
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 

@@ -125,9 +125,6 @@ certerror-mitm-what-can-you-do-about-it-attack = <b>{ $mitm }</b> පිළි�
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = <b>{ $mitm }</b> පිළිබඳව ඔබට හුරුපුරුදු නැතිනම්, මෙය ප්‍රහාරයක් විය හැකිය. මෙම අඩවියට යාම සඳහා ඔබට කළ හැකි දෙයක් නැත.
 
-## Felt Privacy V1 Strings
-
-
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 

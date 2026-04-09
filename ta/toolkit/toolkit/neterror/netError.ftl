@@ -32,17 +32,6 @@ neterror-load-error-connection = பக்கத்தை ஏற்ற இயல
 neterror-load-error-firewall = உங்களின் கணினி (அ) பிணைய தீச்சுவர் (அ) பதிலாளால் தடுக்கப்பட்டிருப்பின் அதைச் சரிப்படுத்தி { -brand-short-name } உலாவிக்கு இணையத்தை கிடைக்கச் செய்யவும்.
 neterror-captive-portal = இணையத்தை அணுகுவதற்கு முன் இந்தப் பிணைத்தில் நீங்கள் கட்டாயமாக உள்நுழைய வேண்டும்.
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = தவறாக (அ) பெரிய எழுத்ததுடன் உள்ளிட்டிருந்தால் அதைச் சரிச் செய்யவும்.
@@ -74,9 +63,6 @@ neterror-sslv3-used = கூடுதல் தகவல்: SSL_ERROR_UNSUPPORT
 neterror-inadequate-security-intro = <b>{ $hostname }</b> பழமையான பாதுகாப்பு தொழில்நுட்பத்தைக் கொண்டிருப்பதால் பாதிப்பு ஏற்படும். இணைய திருடர்கள் பாதுகாப்பற்ற தரவுகளை வெளியாக்கலாம். நீங்கள் தளத்தைப் பார்வையிடும் முன் இந்தச் சேவகனை நிர்வகிப்பவர் தளத்தைச் சரி செய்தல் வேண்டும்.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = பிழைக் குறியீடு: NS_ERROR_NET_INADEQUATE_SECURITY
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

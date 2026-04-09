@@ -36,17 +36,6 @@ neterror-load-error-connection = Ka pe iromo cano pot buk mo keken, ngi kakube m
 neterror-load-error-firewall = Ka ce komputa onyo kakube ni kigengo ki lagwok komputa onyo latic pi lawote, nen ni meno { -brand-short-name } tye ki rukuca me donyo i Kakube.
 neterror-captive-portal = Myero kong i dony iyie netwak man me nongo intanet
 
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
 ##
 
 neterror-file-not-found-filename = Ngi nying pwail pi nukta madongo onyo coc mogo ma pe kicoyo maber.
@@ -82,9 +71,6 @@ neterror-network-protocol-error-intro = Pot buk ma i tye katemo neno ne pe romo 
 neterror-network-protocol-error-contact-website = Tim ber i kube ki wegi di bar me Web me minigi ngec pi peko man.
 certerror-what-can-you-do-about-it-title = Ngo ma i twero timo pire?
 certerror-bad-cert-domain-what-can-you-do-about-it = Peko ne tutwale twero bedo ki kakube, ki gin mo pe ma itwero timo yubo ne. Itwero miyo ngec me peko man bot luloc me kakube.
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
