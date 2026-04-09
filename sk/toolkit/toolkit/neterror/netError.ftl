@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Webové stránky si niekedy nas
 fp-learn-more-about-https-connections = Ďalšie informácie o pripojeniach HTTPS
 fp-neterror-vpn-error-title = Nepodarilo sa pripojiť k VPN
 fp-neterror-vpn-error-description = Skúste to znova o pár minút.
+fp-neterror-denied-port-access = Táto adresa používa sieťový port, ktorý je normálne používaný na iné účely ako prehliadanie webu. { -brand-short-name } zrušil z dôvodu ochrany túto požiadavku.
