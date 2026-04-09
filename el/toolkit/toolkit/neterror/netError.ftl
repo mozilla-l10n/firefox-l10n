@@ -211,3 +211,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Μερικές φορές, οι
 fp-learn-more-about-https-connections = Μάθετε για τις συνδέσεις HTTPS
 fp-neterror-vpn-error-title = Δεν ήταν δυνατή η σύνδεση στο VPN
 fp-neterror-vpn-error-description = Δοκιμάστε ξανά σε λίγα λεπτά.
+fp-neterror-denied-port-access = Αυτή η διεύθυνση χρησιμοποιεί μια θύρα δικτύου που δεν χρησιμοποιείται συνήθως για την περιήγηση στο διαδίκτυο. Το { -brand-short-name } έχει ακυρώσει το αίτημα για την ασφάλειά σας.
