@@ -158,3 +158,11 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ɣur-
 #   $responsestatus (string) - HTTP response status code (e.g., 500).
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Tangalt n tuccḍa: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Tansa-a ur tennum ara tseqdac tawwurt-a n uzeṭṭa deg tunigin web. Ihi ɣef aya, { -brand-short-name } iǧǧa tuttra.
