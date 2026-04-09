@@ -146,6 +146,9 @@ newtab-menu-report = Report
 newtab-menu-section-block = Block
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Unfollow
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Unfollow topic
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -601,6 +604,7 @@ newtab-section-confirm-block-topic-p2 = Blocked topics will no longer appear in 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Block { $topic }
+newtab-section-block-cancel-button = Cancel
 
 ## Strings for custom wallpaper highlight
 
@@ -664,6 +668,18 @@ newtab-toast-thanks-for-reporting =
     .message = Thank you for reporting this.
 newtab-toast-widgets-hidden =
     .message = Select the pencil icon to add widgets back at any time.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = You’re now following { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = You’re no longer following { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = You won’t see stories about { $topic } anymore.
 
 ## Strings for task / to-do list productivity widget
 
@@ -705,6 +721,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = New list
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Hide widget
+newtab-widget-menu-change-size = Change size
+newtab-widget-size-small = Small
+newtab-widget-size-medium = Medium
+newtab-widget-size-large = Large
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Hide widgets

@@ -154,3 +154,5 @@ policy-WebsiteFilter = Block web sites from being visited. See documentation for
 policy-Windows10SSO = Allow Windows single sign-on for Microsoft, work, and school accounts.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Allow single sign-on for Microsoft Entra accounts.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Enable or disable support for the XSLTProcessor JavaScript API and the XSLT processing instruction.
