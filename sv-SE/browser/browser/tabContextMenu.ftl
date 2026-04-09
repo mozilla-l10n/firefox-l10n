@@ -145,6 +145,13 @@ tab-context-send-to-mobile =
            *[other] Skicka { $tabCount } flikar till mobilen
         }
     .accesskey = S
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Aktivera synkronisering för att skicka en flik
+tab-context-send-to-mobile-connect-phone =
+    .label = Anslut din telefon
+tab-context-send-to-mobile-device-missing =
+    .label = Hittar du inte din enhet?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

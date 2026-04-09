@@ -154,3 +154,5 @@ policy-WebsiteFilter = Bloquer l’accès à des sites web. Voir la documentatio
 policy-Windows10SSO = Autoriser l’authentification unique de Windows pour les comptes Microsoft, professionnels et scolaires.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Autoriser l’authentification unique pour les comptes Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Activer ou désactiver la prise en charge de l’API JavaScript XSLTProcessor et de l’instruction de traitement XSLT.

@@ -1507,9 +1507,6 @@ trustpanel-blocker-see-all = Вижте всички
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
 
-## The urlbar trust icon & panel
-
-
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
