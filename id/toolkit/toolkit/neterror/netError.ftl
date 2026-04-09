@@ -168,6 +168,9 @@ certerror-coep-learn-more = Pelajari lebih lanjut tentang Cross Origin Embedder 
 #   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
 neterror-response-status-code = Kode kesalahan: { $responsestatus } { $responsestatustext }
 
+## Felt Privacy V1 Strings
+
+
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
@@ -179,3 +182,4 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> mengirim kemb
 fp-neterror-cypher-overlap-why-dangerous-body = Sepertinya situs ini menggunakan perangkat lunak lama dengan masalah keamanan yang diketahui.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Pastikan Anda menggunakan { -brand-short-name } versi terbaru. Buka Bantuan > Tentang { -brand-short-name } di menu. Jika Anda menggunakan { -brand-short-name } terbaru, kemungkinan besar masalahnya ada pada situs itu sendiri.
+fp-neterror-denied-port-access = Alamat ini menggunakan port jaringan yang umumnya digunakan untuk keperluan selain penjelajahan Web. { -brand-short-name } telah menganulir hal ini untuk keamanan Anda.
