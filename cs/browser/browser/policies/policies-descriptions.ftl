@@ -190,3 +190,5 @@ policy-WebsiteFilter = Blokování návštěvy webových stránek. Více informa
 policy-Windows10SSO = Povolení jednotného přihlašování Windows pro pracovní a školní účty a účty Microsoft.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Povolit jednotné přihlašování pro účty Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Zapněte nebo vypněte podporu pro rozhraní JavaScript API XSLTProcessor a instrukci zpracování XSLT.

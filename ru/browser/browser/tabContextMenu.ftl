@@ -153,6 +153,13 @@ tab-context-send-to-mobile =
            *[many] Отправить { $tabCount } вкладок на мобильный
         }
     .accesskey = n
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Включить синхронизацию для отправки вкладки
+tab-context-send-to-mobile-connect-phone =
+    .label = Подключите ваш телефон
+tab-context-send-to-mobile-device-missing =
+    .label = Не видите ваше устройство?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

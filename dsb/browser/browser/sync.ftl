@@ -42,6 +42,13 @@ fxa-menu-send-to-mobile =
             [few] { $tabCount } rejtariki na mobilny rěd pósłaś
            *[other] { $tabCount } rejtarikow na mobilny rěd pósłaś
         }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = Zmóžniśo synchronizaciju, aby rejtarik pósłał
+fxa-menu-send-to-mobile-connect-phone =
+    .label = Zwěžćo swój telefon
+fxa-menu-send-to-mobile-device-missing =
+    .label = Njewiźiśo swój rěd?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

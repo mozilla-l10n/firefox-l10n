@@ -146,6 +146,9 @@ newtab-menu-report = Сообщить
 newtab-menu-section-block = Блокировать
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Отписаться
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Отписаться от темы
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -599,6 +602,7 @@ newtab-section-confirm-block-topic-p2 = Заблокированные темы 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Заблокировать { $topic }
+newtab-section-block-cancel-button = Отмена
 
 ## Strings for custom wallpaper highlight
 
@@ -662,6 +666,18 @@ newtab-toast-thanks-for-reporting =
     .message = Благодарим за сообщение.
 newtab-toast-widgets-hidden =
     .message = Щёлкните по значку карандаша, чтобы добавить виджеты обратно в любое время.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Теперь вы читаете { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Вы больше не читаете { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Вы больше не увидите статьи на тему { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -703,6 +719,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Новый список
 newtab-widget-section-title = Виджеты
 newtab-widget-menu-hide = Скрыть виджет
+newtab-widget-menu-change-size = Изменить размер
+newtab-widget-size-small = Маленький
+newtab-widget-size-medium = Средний
+newtab-widget-size-large = Большой
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Скрыть виджеты

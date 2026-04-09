@@ -154,3 +154,5 @@ policy-WebsiteFilter = Woglědowanju k websydłam zajźowaś. Glejśo dokumentac
 policy-Windows10SSO = Jadnotne pśizjawjenje za konta Microsoft, źěłowe konta a šulske konta zmóžniś.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Jadnotliwe pśizjawjenje za konta Microsoft Entra dowóliś.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Zmóžniśo abo znjemóžniśo za API JavaScript XSLTProcessor a instrukciju pśeźěłanja XSLT.

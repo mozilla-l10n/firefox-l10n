@@ -146,6 +146,9 @@ newtab-menu-report = K wěsći daś
 newtab-menu-section-block = Blokěrowaś
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Wěcej njeslědowaś
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Temje wěcej njeslědowaś
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -605,6 +608,7 @@ newtab-section-confirm-block-topic-p2 = Blokěrowane temy se wěcej we wašom ka
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } blokěrowaś
+newtab-section-block-cancel-button = Pśetergnuś
 
 ## Strings for custom wallpaper highlight
 
@@ -668,6 +672,18 @@ newtab-toast-thanks-for-reporting =
     .message = Wjeliki źěk, až sćo dał to k wěsći.
 newtab-toast-widgets-hidden =
     .message = Wubjeŕśo symbol pisaka, aby kuždy cas zasej asistenty pśidał.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Slědujośo něnto { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Njeslědujośo wěcej { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Njewiźiśo wěcej tšojeńki wó { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -709,6 +725,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nowa lisćina
 newtab-widget-section-title = Asistenty
 newtab-widget-menu-hide = Asistent schowaś
+newtab-widget-menu-change-size = Wjelikosć změniś
+newtab-widget-size-small = Mały
+newtab-widget-size-medium = Srjejźny
+newtab-widget-size-large = Wjeliki
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Asistenty schowaś

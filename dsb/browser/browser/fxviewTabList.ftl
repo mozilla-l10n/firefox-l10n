@@ -81,3 +81,7 @@ fxviewtabrow-unmute-tab-button-no-context =
 # The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
 fxviewtabrow-send-to-mobile-enable-sync =
     .label = Zmóžniśo synchronizaciju, aby rejtarik pósłał
+fxviewtabrow-send-to-mobile-connect-phone =
+    .label = Zwěžćo swój telefon
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = Njewiźiśo swój rěd?
