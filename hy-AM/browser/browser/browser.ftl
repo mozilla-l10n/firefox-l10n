@@ -1442,6 +1442,7 @@ trustpanel-etp-toggle-off =
 trustpanel-connection-label-secure = Կապակցումն ապահով է
 trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
 trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
+trustpanel-description-enabled2 = Դուք պաշտպանված եք: Եթե ինչ-որ բան նկատենք, ձեզ կտեղեկացնենք։
 trustpanel-header-enabled-insecure = Զգույշ եղեք այս կայքում
 trustpanel-header-disabled = Դուք անջատեցիք պաշտպանությունը
 trustpanel-clear-cookies-button = Մաքրել թխուկները և կայքի տվյալները
