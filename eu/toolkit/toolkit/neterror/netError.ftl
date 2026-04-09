@@ -217,3 +217,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Batzuetan beraientzat babesak e
 fp-learn-more-about-https-connections = HTTPS konexioei buruzko argibide gehiago
 fp-neterror-vpn-error-title = Ezin da VPNra konektatu
 fp-neterror-vpn-error-description = Saiatu berriro minutu batzuk barru.
+fp-neterror-denied-port-access = Helbide honek weba nabigatzeko ez den ataka bat erabiltzen du. { -brand-short-name }ek bertan behera utzi du eskaera zure babeserako.
