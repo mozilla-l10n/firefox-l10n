@@ -723,7 +723,7 @@ newtab-widget-section-title = Widgetar
 newtab-widget-menu-hide = Dölj widget
 newtab-widget-menu-change-size = Ändra storlek
 newtab-widget-size-small = Liten
-newtab-widget-size-medium = medelstor
+newtab-widget-size-medium = Medium
 newtab-widget-size-large = Stor
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
