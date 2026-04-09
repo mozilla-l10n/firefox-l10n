@@ -156,3 +156,4 @@ policy-Windows10SSO = Permetti l’utilizzo di Windows single sign-on per accoun
 policy-MicrosoftEntraSSO = Permetti l’utilizzo di Windows single sign-on per account Microsoft Entra.
 # Do not translate "XSLTProcessor" as it is the name of an API interface.
 policy-XSLTEnabled = Attiva o disattiva il supporto per l’API JavaScript XSLTProcessor e per l’istruzione di elaborazione XSLT.
+

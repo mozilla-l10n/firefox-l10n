@@ -85,3 +85,4 @@ fxviewtabrow-send-to-mobile-connect-phone =
     .label = Connetti il tuo telefono
 fxviewtabrow-send-to-mobile-device-missing =
     .label = Non vedi il tuo dispositivo?
+

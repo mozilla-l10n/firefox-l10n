@@ -426,3 +426,4 @@ main-context-menu-pdfjs-delete-page =
     .label = Elimina pagina
 main-context-menu-pdfjs-save-page =
     .label = Salva selezione come…
+

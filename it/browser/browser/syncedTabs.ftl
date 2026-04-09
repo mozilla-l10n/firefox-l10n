@@ -70,3 +70,4 @@ synced-tabs-turn-on-sync = Attiva sincronizzazione
 # Variables
 # $deviceName - the name of the device the user is closing a tab for
 synced-tabs-context-close-tab = Chiudi scheda in { $deviceName }
+
