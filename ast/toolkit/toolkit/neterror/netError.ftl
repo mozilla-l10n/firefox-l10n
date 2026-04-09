@@ -34,6 +34,17 @@ neterror-error-reporting-automatic = Informar de fallos como esti p'ayudar a { -
 neterror-generic-error = { -brand-short-name } nun pue cargar esta páxina por dalgún motivu.
 neterror-captive-portal = Has aniciar sesión nesta rede enantes de poder acceder a internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+
 ##
 
 neterror-unknown-protocol = Quiciabes tengas d'instalar otru software p'abrir esta direición.
@@ -68,3 +79,11 @@ certerror-mitm-what-can-you-do-about-it-corporate = Si tas nuna rede corporativa
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> tien una política de seguranza llamada HSTS (HTTP Strict Transport Security), lo que significa que { -brand-short-name } namás pue conectase al agospiador de mou seguru. Nun pues amestar nenguna esceición pa visitar esti sitiu.
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = Esta direición usa un puertu de rede que davezu s'usa pa otres coses distintes al restolar web. { -brand-short-name } encaboxó la solicitú pa la to proteición.
