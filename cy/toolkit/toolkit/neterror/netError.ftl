@@ -215,3 +215,4 @@ fp-neterror-coop-coep-why-did-this-happen-body = Weithiau mae gwefannau yn gosod
 fp-learn-more-about-https-connections = Dysgu am gysylltiadau HTTPS
 fp-neterror-vpn-error-title = Methu cysylltu â'r VPN
 fp-neterror-vpn-error-description = Ceisiwch eto mewn ychydig funudau.
+fp-neterror-denied-port-access = Mae'r cyfeiriad yn defnyddio porth rhwydwaith sy'n cael ei ddefnyddio fel arfer i ddibenion heblaw pori'r We. Mae { -brand-short-name } wedi gwrthod y cais er eich lles.
