@@ -63,15 +63,15 @@ experimental-features-fx-web-apps-description = Ouvrez les sites que vous visite
 
 # Lists Widget
 experimental-features-newtab-widget-lists =
-    .label = Listes dans { -firefox-home-brand-name }
+    .label = Listes sur la { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-description = Gardez votre liste de tâches en tête lorsque vous ouvrez un nouvel onglet. Qu’il s’agisse de listes pour faire vos valises ou faire les courses, concrétisez vos projets dans { -brand-product-name }. <a data-l10n-name="connect">Donnez votre avis</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
-    .label = Minuteur dans { -firefox-home-brand-name }
+    .label = Minuteur sur la { -firefox-home-brand-name }
 experimental-features-newtab-widget-timer-description = Réglez un minuteur pour maintenir votre concentration, vous encourager à ne pas vous égarer, ou vous rappeler de faire une pause. <a data-l10n-name="connect">Donnez votre avis</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
-    .label = Listes et minuteur dans { -firefox-home-brand-name }
+    .label = Listes et minuteur sur la { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Gardez votre liste de tâches en tête lorsque vous ouvrez un nouvel onglet. Qu’il s’agisse de listes pour faire vos valises ou faire les courses, concrétisez vos projets dans { -brand-product-name }. Réglez un minuteur pour maintenir votre concentration, vous encourager à ne pas vous égarer, ou vous rappeler de faire une pause. <a data-l10n-name="connect">Donnez votre avis</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
@@ -80,3 +80,4 @@ experimental-features-semantic-history-search-description = Utiliser un modèle 
 # Tab Notes
 experimental-features-tab-notes =
     .label = Notes d’onglets
+experimental-features-tab-notes-description = Les notes d’onglets sont une fonctionnalité expérimentale qui permet l’ajout de notes autocollantes sur les onglets du navigateur. Inscrivez-y le contexte, un mémo ou ce qu’il reste à faire afin que, quand vous reviendrez à l’onglet, vous puissiez vous rappeler pourquoi vous l’aviez ouvert. Nous aimerions beaucoup connaître votre avis comme nous améliorons encore cette fonctionnalité. <a data-l10n-name="connect">Donnez votre avis</a>
