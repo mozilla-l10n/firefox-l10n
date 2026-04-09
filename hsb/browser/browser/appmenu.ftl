@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Symbolowu lajstu přiměrić…
+appmenu-abouttranslations =
+    .label = Přełožić…
 appmenu-developer-tools-subheader = Graty wobhladowaka
 appmenu-developer-tools-extensions =
     .label = Rozšěrjenja za wuwiwarjow
