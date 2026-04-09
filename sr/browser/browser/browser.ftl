@@ -965,6 +965,14 @@ urlbar-searchmode-default =
     .tooltiptext = Подразумевани претраживач
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-one-off-description-menucaption =
+    .label = Овај пут претражи користећи:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header-menucaption =
+    .label = Претражи помоћу:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Овај пут претражи користећи:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
