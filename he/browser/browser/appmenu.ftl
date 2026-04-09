@@ -279,6 +279,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = התאמה אישית של סרגל הכלים…
+appmenu-abouttranslations =
+    .label = תרגום…
 appmenu-developer-tools-subheader = כלי דפדפן
 appmenu-developer-tools-extensions =
     .label = הרחבות עבור מפתחים

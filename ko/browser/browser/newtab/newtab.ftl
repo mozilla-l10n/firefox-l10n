@@ -146,6 +146,9 @@ newtab-menu-report = 신고
 newtab-menu-section-block = 차단
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = 팔로우 취소
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = 주제 팔로우 취소
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -599,6 +602,7 @@ newtab-section-confirm-block-topic-p2 = 차단된 주제는 더 이상 피드에
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } 차단
+newtab-section-block-cancel-button = 취소
 
 ## Strings for custom wallpaper highlight
 
@@ -662,6 +666,18 @@ newtab-toast-thanks-for-reporting =
     .message = 신고해 주셔서 감사합니다.
 newtab-toast-widgets-hidden =
     .message = 언제든지 위젯을 다시 추가하려면 연필 아이콘을 선택하세요.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = { $topic } 주제를 팔로우했습니다.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = { $topic } 주제를 더 이상 팔로우하지 않습니다.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = { $topic }에 대한 이야기가 더 이상 표시되지 않습니다.
 
 ## Strings for task / to-do list productivity widget
 
@@ -703,6 +719,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = 새 목록
 newtab-widget-section-title = 위젯
 newtab-widget-menu-hide = 위젯 숨기기
+newtab-widget-menu-change-size = 크기 변경
+newtab-widget-size-small = 작게
+newtab-widget-size-medium = 중간
+newtab-widget-size-large = 크게
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = 위젯 숨기기

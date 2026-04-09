@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = 도구 모음 사용자 지정…
+appmenu-abouttranslations =
+    .label = 번역…
 appmenu-developer-tools-subheader = 브라우저 도구
 appmenu-developer-tools-extensions =
     .label = 개발자용 확장 기능

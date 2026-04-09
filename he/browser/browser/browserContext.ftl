@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = שליחה לנייד
     .accesskey = ש
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = יש להפעיל סנכרון כדי לשלוח לשונית
+main-context-menu-send-to-mobile-connect-phone =
+    .label = חיבור לטלפון שלך
+main-context-menu-send-to-mobile-device-missing =
+    .label = לא רואה את המכשיר שלך?
 main-context-menu-save-to-pocket =
     .label = שמירת דף אל { -pocket-brand-name }
     .accesskey = ש

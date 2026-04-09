@@ -38,7 +38,7 @@ firefoxview-tabpickup-adddevice-description = 모바일용 { -brand-product-name
 firefoxview-tabpickup-adddevice-learn-how = 방법 알아보기
 firefoxview-tabpickup-adddevice-primarybutton = 모바일용 { -brand-product-name } 받기
 firefoxview-syncedtabs-adddevice-header-2 = 어디서나 탭 가져오기
-firefoxview-syncedtabs-adddevice-description-2 = 여기에서 탭을 보려면 휴대전화나 다른 컴퓨터에서 { -brand-product-name }에 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
+firefoxview-syncedtabs-adddevice-description-2 = 여기에서 탭을 보려면 휴대폰이나 다른 컴퓨터에서 { -brand-product-name }에 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
 firefoxview-syncedtabs-adddevice-primarybutton = 모바일용 { -brand-product-name } 사용해보기
 firefoxview-tabpickup-synctabs-header = 탭 동기화 켜기
 firefoxview-tabpickup-synctabs-description = { -brand-short-name }가 기기 간에 탭을 공유하도록 허용합니다.
@@ -113,6 +113,8 @@ firefoxview-history-nav = 기록
 firefoxview-history-header = 기록
 firefoxview-history-context-delete = 기록에서 삭제
     .accesskey = D
+firefoxview-history-context-forget-site = 이 사이트 기록 삭제…
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = 모바일로 보내기
     .accesskey = n
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = 탭을 보내려면 동기화를 활성화하세요
+main-context-menu-send-to-mobile-connect-phone =
+    .label = 휴대폰 연결
+main-context-menu-send-to-mobile-device-missing =
+    .label = 사용자의 기기가 없나요?
 main-context-menu-save-to-pocket =
     .label = 페이지를 { -pocket-brand-name }에 저장
     .accesskey = k

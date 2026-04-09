@@ -145,6 +145,9 @@ newtab-menu-report = דיווח
 newtab-menu-section-block = חסימה
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = ביטול המעקב
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = ביטול המעקב אחרי הנושא
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -595,6 +598,7 @@ newtab-section-confirm-block-topic-p2 = נושאים חסומים לא יופי�
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = חסימת { $topic }
+newtab-section-block-cancel-button = ביטול
 
 ## Strings for custom wallpaper highlight
 
@@ -658,6 +662,14 @@ newtab-toast-thanks-for-reporting =
     .message = תודה שדיווחת על זה.
 newtab-toast-widgets-hidden =
     .message = ניתן ללחוץ על סמל העיפרון כדי להוסיף ווידג’טים בחזרה בכל עת.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = התחלת לעקוב אחרי { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = הפסקת לעקוב אחרי { $topic }.
 
 ## Strings for task / to-do list productivity widget
 

@@ -107,6 +107,8 @@ firefoxview-history-nav = היסטוריה
 firefoxview-history-header = היסטוריה
 firefoxview-history-context-delete = מחיקה מההיסטוריה
     .accesskey = מ
+firefoxview-history-context-forget-site = לשכוח מאתר זה…
+    .accesskey = ש
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

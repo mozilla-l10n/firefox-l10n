@@ -36,6 +36,13 @@ fxa-menu-send-to-mobile =
             [1] 모바일로 보내기
            *[other] 탭 { $tabCount }개를 모바일로 보내기
         }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = 탭을 보내려면 동기화를 활성화하세요
+fxa-menu-send-to-mobile-connect-phone =
+    .label = 휴대폰 연결
+fxa-menu-send-to-mobile-device-missing =
+    .label = 사용자의 기기가 없나요?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
