@@ -149,3 +149,11 @@ certerror-mitm-what-can-you-do-about-it-attack-sts =
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> ᱴᱷᱮᱱ ᱫᱚ ᱢᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱱᱤᱛᱤ ᱱᱤᱭᱚᱢ ᱢᱮᱱᱟᱜᱼᱟ ᱡᱟᱦᱟᱸ ᱫᱚ HTTP ᱥᱴᱨᱤᱠᱴ ᱴᱨᱟᱱᱥᱯᱚᱴ ᱥᱮᱠᱭᱚᱨᱤᱴᱤ (HSTS) ᱢᱮᱱᱛᱮ ᱠᱚ ᱢᱮᱱᱟ, ᱡᱟᱦᱟᱸ ᱢᱮᱱ ᱫᱚ { -brand-short-name } ᱜᱟᱱ ᱜᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱹᱦᱤᱡ ᱠᱚ ᱡᱩᱲᱟᱹᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱪᱟᱞᱟᱣ ᱞᱟᱹᱛᱤᱫ ᱪᱷᱟᱰ ᱵᱟᱝ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+
+## Felt Privacy V1 Strings
+
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-neterror-denied-port-access = ᱱᱚᱣᱟ ᱴᱷᱤᱠᱟᱹᱱᱟ ᱱᱮᱴᱣᱟᱨᱚᱠ ᱯᱚᱨᱚᱴ ᱮ ᱵᱮᱵᱷᱟᱨᱟ  ᱚᱠᱟ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱣᱮᱵ ᱯᱟᱱᱛᱮ ᱠᱷᱚᱱ ᱮᱴᱟᱜᱟᱜ ᱩᱫᱮᱥ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱟ ᱾ { -brand-short-name } ᱟᱢᱟᱜ ᱟᱹᱰ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱱᱮᱦᱚᱨ ᱮ ᱵᱟᱹᱰᱨᱟᱹ ᱟᱠᱟᱫ ᱟ ᱾
