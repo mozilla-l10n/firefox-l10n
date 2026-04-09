@@ -146,6 +146,9 @@ newtab-menu-report = Rapporter
 newtab-menu-section-block = Blokker
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Slutt å følgje
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Slutt å følgje emnet
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -600,6 +603,7 @@ newtab-section-confirm-block-topic-p2 = Blokkerte emne vil ikkje lenger visast i
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokker { $topic }
+newtab-section-block-cancel-button = Avbryt
 
 ## Strings for custom wallpaper highlight
 
@@ -704,6 +708,9 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny liste
 newtab-widget-section-title = Widgetar
 newtab-widget-menu-hide = Skjul widget
+newtab-widget-size-small = liten
+newtab-widget-size-medium = middels
+newtab-widget-size-large = Stor
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Skjul widgetar

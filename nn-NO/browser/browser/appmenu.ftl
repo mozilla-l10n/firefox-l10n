@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tilpass verktøylinje…
+appmenu-abouttranslations =
+    .label = Omset…
 appmenu-developer-tools-subheader = Nettlesarverktøy
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers

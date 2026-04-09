@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Lyd av i fane
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Lyd på i fane
+fxviewtabrow-send-to-mobile-connect-phone =
+    .label = Kople til telefonen din
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = Ser du ikkje eininga di?
