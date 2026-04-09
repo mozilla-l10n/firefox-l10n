@@ -885,6 +885,10 @@ urlbar-searchmode-default =
     .tooltiptext = Glavni pretraživač
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
+urlbar-searchmode-popup-one-off-description-menucaption =
+    .label = Ovaj put traži sa:
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Ovaj put traži sa:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -1440,6 +1444,9 @@ trustpanel-blocker-see-all = Vidi sve
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
