@@ -177,6 +177,13 @@ migration-safari-password-import-select-button = اختر ملفًا
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } من { $quantity } امتدادة
 migration-wizard-progress-extensions-support-link = تعرّف على كيفية تطابق { -brand-product-name } مع الامتدادات
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
