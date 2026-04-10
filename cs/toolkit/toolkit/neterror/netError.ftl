@@ -238,7 +238,7 @@ fp-neterror-illustration-alt =
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
-fp-neterror-connection-intro = { -brand-short-name } nemůže vytvořit zabezpečené připojení k serveru { $hostname }.
+fp-neterror-connection-intro = { -brand-short-name } nemůže navázat zabezpečené spojení se serverem { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se nemůže připojit k serveru na adrese <strong>{ $hostname }</strong>
 fp-neterror-net-timeout-intro = Server na adrese <strong>{ $hostname }</strong> reaguje příliš pomalu.
 # Variables:
