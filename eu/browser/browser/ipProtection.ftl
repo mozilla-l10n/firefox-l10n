@@ -24,6 +24,10 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzailean integratuta
+ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
+ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
+ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
 ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
 ipprotection-feature-introduction-button-secondary-no-thanks = Ez, eskerrik asko
@@ -37,6 +41,8 @@ ipprotection-site-settings-callout-button = Ulertuta
 ## Panel
 
 unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako VPNa
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ezkutatu zure kokapena</a> { -brand-product-name }(r)ekin nabigatu ahala.
+unauthenticated-hide-location-message-2 = Ezkutatu zure kokapena { -brand-product-name }(r)ekin nabigatu ahala.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Lortu VPN datuen doako { $maxUsage } GB hilabetero.
@@ -85,8 +91,11 @@ upgrade-vpn-button = Probatu { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Ezin da VPNra konektatu
 ipprotection-connection-status-generic-error-description = Saiatu berriro minutu batzuk barru.
+ipprotection-connection-status-generic-error-try-again = Saiatu berriro geroago.
 ipprotection-connection-status-network-error-title = Egiaztatu zure Interneterako konexioa
 ipprotection-connection-status-network-error-description = Konektatu Internetera, gero saiatu VPNa aktibatzen.
+ipprotection-connection-status-blocked-error-title = VPNa ez dago erabilgarri
+ipprotection-connection-status-blocked-error-description = Tokiko legeek eragotzi egiten digute eskualde honetan VPN zerbitzua eskaintzea. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -101,13 +110,22 @@ ipprotection-message-bandwidth-warning-mb =
     .message = { $usageLeft } MB falta dituzu oraindik hilabeteko { $maxUsage } GBtik.
 ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena ezkutatu eta zifratze estra gehitzeko zure nabigazioari.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }(e)k gogoratu egingo ditu VPN bidez sartzeko ezarri dituzun webguneak. Eguneratu hauek edonoiz <a data-l10n-name="setting-link">ezarpenetan</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Integratutako VPNa zure pribatutasuna areagotzeko { -brand-short-name }(e)kin nabigatu ahala.
 ip-protection-learn-more = Argibide gehiago
 ip-protection-site-exceptions =
     .label = Gunearen araberako ezarpenak
+# Variables:
+#   $maxUsage (number) - The bandwidth limit of free VPN, in GB
+ip-protection-not-opted-in-2 =
+    .heading = Probatu { -brand-short-name }(r)en integratutako VPNa
+    .message = Ezkutatu zure kokapena { -brand-short-name }(e)kin nabigatu ahala. Lortu hilero VPN datuen doako { $maxUsage } GB.
 ip-protection-not-opted-in-button = Hasi erabiltzen
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

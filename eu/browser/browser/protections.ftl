@@ -211,6 +211,34 @@ privacy-metrics-blocked-this-week =
         [one] { $count } blokeatuta aste honetan
        *[other] { $count } blokeatuta aste honetan
     }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] Jarraipen-elementuak: { $count }
+       *[other] Jarraipen-elementuak: { $count }
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] Hatz-marka bidezko jarraipen-elementuak: { $count }
+       *[other] Hatz-marka bidezko jarraipen-elementuak: { $count }
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] Jarraipen-cookieak: { $count }
+       *[other] Jarraipen-cookieak: { $count }
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] Sare sozialetako jarraipen-elementuak: { $count }
+       *[other] Sare sozialetako jarraipen-elementuak: { $count }
+    }
 privacy-metrics-empty = Ez da jarraipen-elementurik blokeatu aste honetan. { -brand-short-name }(e)k ondorengo mehatxuetatik babesten zaitu nabigatu ahala.
 privacy-metrics-loading = Babesen estatistikak kargatzen…
 privacy-metrics-error = Ezin dira babesen estatistikak kargatu.
