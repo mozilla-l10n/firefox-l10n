@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Құралдар панелін баптау…
+appmenu-abouttranslations =
+    .label = Аудару…
 appmenu-developer-tools-subheader = Браузер құралдары
 appmenu-developer-tools-extensions =
     .label = Әзірлеушілерге арналған кеңейтулер

@@ -78,3 +78,10 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Бет дыбысын басу
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Бет дыбысын іске қосу
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync =
+    .label = Бетті жіберу үшін синхрондауды іске қосыңыз
+fxviewtabrow-send-to-mobile-connect-phone =
+    .label = Телефоныңызды байланыстырыңыз
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = Құрылғыңыз көрінбей ме?

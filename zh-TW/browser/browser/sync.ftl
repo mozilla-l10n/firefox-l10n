@@ -36,6 +36,13 @@ fxa-menu-send-to-mobile =
             [1] 傳送到行動裝置
            *[other] 傳送 { $tabCount } 個分頁到行動裝置
         }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = 開啟同步功能即可傳送分頁
+fxa-menu-send-to-mobile-connect-phone =
+    .label = 連結您的手機
+fxa-menu-send-to-mobile-device-missing =
+    .label = 沒看到您的裝置嗎？
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

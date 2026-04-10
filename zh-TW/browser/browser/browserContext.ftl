@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = 傳送到行動裝置
     .accesskey = n
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = 開啟同步功能即可傳送分頁
+main-context-menu-send-to-mobile-connect-phone =
+    .label = 連結您的手機
+main-context-menu-send-to-mobile-device-missing =
+    .label = 沒看到您的裝置嗎？
 main-context-menu-save-to-pocket =
     .label = 將頁面儲存至 { -pocket-brand-name }
     .accesskey = k

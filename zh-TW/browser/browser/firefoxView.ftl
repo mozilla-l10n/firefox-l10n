@@ -113,6 +113,8 @@ firefoxview-history-nav = 瀏覽紀錄
 firefoxview-history-header = 瀏覽紀錄
 firefoxview-history-context-delete = 從瀏覽紀錄刪除
     .accesskey = D
+firefoxview-history-context-forget-site = 忘記此網站…
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

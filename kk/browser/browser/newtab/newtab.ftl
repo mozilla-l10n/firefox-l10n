@@ -146,6 +146,9 @@ newtab-menu-report = Хабарлау
 newtab-menu-section-block = Блоктау
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Жазылудан бас тарту
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Тақырыпқа жазылудан бас тарту
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -599,6 +602,7 @@ newtab-section-confirm-block-topic-p2 = Блокталған тақырыпта�
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } блоктау
+newtab-section-block-cancel-button = Бас тарту
 
 ## Strings for custom wallpaper highlight
 
@@ -662,6 +666,18 @@ newtab-toast-thanks-for-reporting =
     .message = Бұл туралы хабарлағаныңыз үшін рахмет.
 newtab-toast-widgets-hidden =
     .message = Виджеттерді кез келген уақытта қайта қосу үшін қарындаш таңбашасын таңдаңыз.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Сіз енді { $topic } соңынан ерудесіз.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Сіз енді { $topic } соңынан еруде емессіз.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Енді { $topic } туралы әңгімелерді көрмейсіз.
 
 ## Strings for task / to-do list productivity widget
 
@@ -703,6 +719,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Жаңа тізім
 newtab-widget-section-title = Виджеттер
 newtab-widget-menu-hide = Виджетті жасыру
+newtab-widget-menu-change-size = Өлшемін өзгерту
+newtab-widget-size-small = Кішкентай
+newtab-widget-size-medium = Орташа
+newtab-widget-size-large = Үлкен
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Виджеттерді жасыру
