@@ -698,6 +698,17 @@ pdfjs-views-manager-layers-option-label = ‏‏الطبقات
 pdfjs-views-manager-add-file-button =
     .title = أضف ملف
 pdfjs-views-manager-add-file-button-label = أضف ملف
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [zero] { $count } محدّد
+        [one] { $count } محدّد
+        [two] { $count } محدّدان
+        [few] { $count } محدّد
+        [many] { $count } محدّد
+       *[other] { $count } محدّد
+    }
 pdfjs-views-manager-pages-status-none-action-label = حدّد الصفحات
 pdfjs-views-manager-pages-status-action-button-label = أدِر
 pdfjs-views-manager-pages-status-copy-button-label = انسخ
@@ -705,6 +716,39 @@ pdfjs-views-manager-pages-status-cut-button-label = قصّ
 pdfjs-views-manager-pages-status-delete-button-label = احذف
 pdfjs-views-manager-pages-status-export-selected-button-label = حُدِّد التصدير…
 pdfjs-views-manager-pages-status-save-as-button-label = احفظ باسم…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [zero] لا صفحات قُصت
+        [one] صفحة قُصت
+        [two] { $count } صفحتان قُصت
+        [few] { $count } صفحات قُصت
+        [many] { $count } صفحةً قُصت
+       *[other] { $count } صفحة قُصت
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [zero] لا صفحة منسوخة
+        [one] صفحة منسوخة
+        [two] صفحتان منسوختان
+        [few] { $count } صفحات منسوخة
+        [many] { $count } صفحةً منسوخةً
+       *[other] { $count } صفحة منسوخة
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [zero] لا صفحات محذوفة
+        [one] حُذف صفحة
+        [two] حُذف صفحتان
+        [few] حُذف { $count } صفحات
+        [many] حُذف { $count } صفحةً
+       *[other] حُذف { $count } صفحة
+    }
 pdfjs-views-manager-pages-status-waiting-ready-label = يجهز ملفك…
 pdfjs-views-manager-pages-status-waiting-uploading-label = يرفع ملف…
 pdfjs-views-manager-status-warning-cut-label = تعذّر القص. أنعش الصفحة وحاول مجددًا.
