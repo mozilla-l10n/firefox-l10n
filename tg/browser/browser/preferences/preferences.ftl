@@ -2203,8 +2203,22 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = Идоракунии истисноҳо
     .accesskey = И
+preferences-doh-fallback-label =
+    .label = Ҳамеша маро огоҳ кунед, агар «DNS»-и бехатар дастнорас бошад
+preferences-doh-status-item-off =
+    .message = «DNS» тавассути «HTTPS» хомӯш аст
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = «DNS» тавассути «HTTPS» аз таъминкунандаи { $name } истифода мебарад
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = «DNS» тавассути «HTTPS» аз таъминкунандаи маҳаллии { $name } истифода мебарад
 preferences-doh-select-resolver-label =
     .label = Интихоби таъминкунанда:
+preferences-doh-header2 =
+    .heading = «DNS» тавассути «HTTPS»
 
 ## The following strings are used in the Download section of settings
 
@@ -2246,6 +2260,10 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-update-button-label =
+    .label = Навсозӣ кардани «{ -brand-short-name }»
+security-privacy-issue-card =
+    .heading = Огоҳӣ дар бораи амният
 issue-card-reset-button =
     .label = Аз нав танзим кардан
 issue-card-dismiss-button =

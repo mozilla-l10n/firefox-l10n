@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Нусхаи «{ $profilename }»-и шумо барои танзим омода аст
 copied-profile-page-header-description = Мо маълумот ва танзимоти шуморо ба профили нав нусха бардоштем. Акнун, ба он ном диҳед, намуди зоҳирии онро интихоб кунед ва онро ба ихтиёри худ мутобиқ созед.
+restored-profile-page-learn-more = Маълумоти бештар
 profile-window-title-2 = { -brand-short-name } - Профилеро интихоб намоед
 profile-window-logo =
     .alt = Ангораи «{ -brand-short-name }»
@@ -87,6 +88,9 @@ delete-profile-bookmarks = Хатбаракҳо
 delete-profile-history = Таърих (саҳифаҳои кушодашуда, кукиҳо, маълумоти сомона)
 delete-profile-autofill = Маълумоте, ки ба таври худкор пур карда мешавад (нишониҳо, тарзҳои пардохт)
 delete-profile-logins = Ниҳонвожаҳо
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Нест кардани профили «{ $profilename }»
 
 ##
 

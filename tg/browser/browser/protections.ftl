@@ -202,3 +202,19 @@ bar-tooltip-cryptominer =
             [one] { $count } криптомайнер ({ $percentage }%)
            *[other] { $count } криптомайнер ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Муҳофизати махфият
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } воситаи пайгирӣ
+       *[other] { $count } воситаи пайгирӣ
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } хонандаи нақши ангуштон
+       *[other] { $count } хонандаи нақши ангуштон
+    }
