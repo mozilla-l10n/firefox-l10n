@@ -67,6 +67,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> no tiene efecto en es
 
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> no es compatible con pseudoelementos resaltados.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> no es compatible con pseudoelementos ::cue.
+inactive-css-at-position-try-not-supported = <strong>{ $property }</strong> no es compatible con las reglas <strong>@position-try</strong>.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -88,6 +89,10 @@ inactive-css-not-grid-or-flex-or-block-container-fix = Intenta agregar <strong>d
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intenta agregar <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Intenta agregar <strong>column-count</strong> o <strong>column-width</strong>. { learn-more }
 inactive-css-column-span-fix = Intenta agregar <strong>column-count</strong> o <strong>column-width</strong> a uno de sus elementos antecesores. { learn-more }
+inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Intenta agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al elemento primario. { learn-more }
+inactive-css-not-grid-or-absolutely-positioned-item-fix = Intenta agregar <strong>position:absolute</strong> al elemento, o <strong>display:grid</strong> o <strong>display:inline-grid</strong> al elemento primario. { learn-more }
+inactive-css-not-absolutely-positioned-item-fix = Intenta agregar <strong>position:absolute</strong> al elemento. { learn-more }
+inactive-css-no-default-anchor-fix = Intenta agregar <strong>position-anchor</strong> con un nombre de anclaje (anchor name) válido. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Prueba agregar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al elemento padre. { learn-more }
 inactive-css-not-grid-item-fix-2 = Intenta agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del item. { learn-more }
 inactive-css-not-grid-container-fix = Intenta agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
@@ -99,6 +104,8 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Intenta a
 inactive-css-not-display-block-on-floated-fix = Intenta eliminar <strong>float</strong> o agrega <strong>display:block</strong>. { learn-more }
 inactive-css-only-non-grid-or-flex-item-fix = Prueba a cambiar el valor de <strong>display</strong> del contenedor del elemento a algo distinto de <strong>flex</strong>, <strong>grid</strong>, <strong>inline-flex</strong>, o <strong>inline-grid</strong>, o eliminando <strong>float</strong>. { learn-more }
 inactive-css-not-block-fix = Intenta agregar propiedades como <strong>display:block</strong> o <strong>float:left</strong>. { learn-more }
+inactive-css-not-block-container-fix = Intenta agregar <strong>display:block</strong>, <strong>display:inline-block</strong> o <strong>display:flow-root</strong>. { learn-more }
+inactive-css-not-block-flex-grid-container-fix = Intenta agregar <strong>display:block</strong>, <strong>display:inline-block</strong>, <strong>display:flex</strong>, <strong>display:inline-flex</strong>, <strong>display:grid</strong>, <strong>display:inline-grid</strong> o <strong>display:flow-root</strong>. { learn-more }
 inactive-css-not-floated-fix = Prueba a agrear la propiedad <strong>float</strong> con un valor distinto de <strong>none</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Intenta establecer la propiedad <strong>position</strong> en algo diferente a <strong>static</strong>. { learn-more }
 inactive-css-only-replaced-elements-fix = Asegúrate de añadir la propiedad a un elemento reemplazado. { learn-more }
@@ -115,6 +122,7 @@ inactive-css-resize-fix = Intenta establecer <strong>overflow</strong> a un valo
 inactive-css-ruby-element-fix = Intenta cambiar el <strong>tamaño de fuente</strong> del texto rubí. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Intenta reducir el número de líneas. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Evita dividir el contenido del elemento, ej: eliminando las columnas o usando <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Intenta agregar un valor de <strong>display</strong> que genere una caja principal, como <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> o <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -138,3 +146,5 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Conocer más<
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Este selector utiliza <strong>:has()</strong> sin restricciones, lo que puede ser lento.
+# :scope should not be translated
+css-selector-warning-sibling-combinator-after-scope = Los selectores de hermanos después de <strong>:scope</strong> nunca coincidirán con nada.
