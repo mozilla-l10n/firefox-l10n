@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Emboava tembiporu renda…
+appmenu-abouttranslations =
+    .label = Moñe’ẽasa…
 appmenu-developer-tools-subheader = Kundahára Rembiporu
 appmenu-developer-tools-extensions =
     .label = Jepysokue mboguatahárape g̃uarã
