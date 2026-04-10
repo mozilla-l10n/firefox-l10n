@@ -154,3 +154,5 @@ policy-WebsiteFilter = Blocar le accesso a sitos web. Vider documentation pro pl
 policy-Windows10SSO = Permitter le autorisation unic de Windows pro le contos de labor e schola de Microsoft.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permitter authentication singule pro le conto Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Activar o disactivar le supporto pro le API JavaScript XSLTProcessor e pro le instruction de elaboration XSLT.
