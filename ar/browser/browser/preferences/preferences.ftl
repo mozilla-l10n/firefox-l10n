@@ -2242,6 +2242,7 @@ preferences-ai-controls-block-confirmation-pdfjs = نص بديل للصورة ف
 preferences-ai-controls-block-confirmation-tab-group-suggestions = اقتراحات مجموعات اللسان
 preferences-ai-controls-block-confirmation-key-points = أهم النقاط في معاينات الروابط
 preferences-ai-controls-block-confirmation-sidebar-chatbot = مزودي برامج الدردشة الآلية في الشريط الجانبي
+preferences-ai-controls-block-confirmation-features-after = يؤثر الحظر أيضًا على الإمتدادات التي تستخدم الذكاء الاصطناعي المقدم من { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
 preferences-ai-controls-block-confirmation-confirm =

@@ -454,4 +454,9 @@ restored-from-backup-success-no-checklist-primary-button = واصِل
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-subtitle = أجب عن بعض الأسئلة وسنوصي بميزات وإضافات لتحسين استخدامك لـ { -brand-short-name }.
 onboarding-personalization-use-case-personal-option = شخصي
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-onboarding-addons-subtitle = الإمتدادات عبارة عن تطبيقات صغيرة تتيح لك تخصيص { -brand-short-name }. يمكنها تعزيز خصوصيتك، وتحسين الإنتاجية، وتغيير مظهر { -brand-short-name }، وغير ذلك الكثير.

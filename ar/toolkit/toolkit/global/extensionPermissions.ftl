@@ -47,3 +47,18 @@ webext-perms-extra-warning-userScripts-short = قد تشكل السكربتات 
 ## This is used when the data collection permissions are required.
 
 webext-perms-description-data-short-technicalAndInteraction = البيانات التقنية والتفاعلية
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-authenticationInfo = شارك بيانات المصادقة مع مطوِّر الامتداد
+webext-perms-description-data-long-bookmarksInfo = شارك معلومات العلامات مع مطوِّر الامتداد
+webext-perms-description-data-long-browsingActivity = شارك نشاط التصفح مع مطوِّر الامتداد
+webext-perms-description-data-long-financialAndPaymentInfo = شارك المعلومات المالية ومعلومات الدفع مع مطوِّر الامتداد
+webext-perms-description-data-long-healthInfo = شارك معلوماتك الصحية مع مطوِّر الامتداد
+webext-perms-description-data-long-locationInfo = شارك معلومات الموقع الجغرافي مع مطوِّر الامتداد
+webext-perms-description-data-long-personalCommunications = شارك الاتصالات الشخصية مع مطوِّر الامتداد
+webext-perms-description-data-long-personallyIdentifyingInfo = شارك معلومات التعريف الشخصية مع مطوِّر الامتداد
+webext-perms-description-data-long-searchTerms = شارك مصطلحات البحث مع مطوِّر الامتداد
+webext-perms-description-data-long-technicalAndInteraction = شارك البيانات التقنية والتفاعلية مع مطوِّر الامتدادة
+webext-perms-description-data-long-websiteActivity = شارك نشاط التصفح مع مطوِّر الامتداد
+webext-perms-description-data-long-websiteContent = شارك محتوى الموقع الإلكتروني مع مطوِّر الامتداد

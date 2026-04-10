@@ -143,6 +143,10 @@ media-device-channels = القنوات
 media-device-rate = المعدل
 media-device-latency = الكمون
 
+## Codec support table
+
+media-codec-support-lack-of-extension = ثبِّت الامتدادة
+
 ##
 
 intl-title = التدويل و التوطين
