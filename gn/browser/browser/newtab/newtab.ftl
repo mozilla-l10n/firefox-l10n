@@ -667,6 +667,14 @@ newtab-toast-thanks-for-reporting =
     .message = Aguyje emomarandu haguére.
 newtab-toast-widgets-hidden =
     .message = Eiporavo ta’ãnga’i haiháva embojuaju jey hag̃ua widgets eipota vove.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Ko’ág̃a ehapykueho: { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Nderehapykuehovéima: { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
