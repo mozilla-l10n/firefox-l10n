@@ -51,6 +51,8 @@ tabbrowser-close-tabs-tooltip =
             [many] أغلِق { $tabCount } لسانا
            *[other] أغلِق { $tabCount } لسان
         }
+tab-splitview-splitter =
+    .aria-label = غيّر حجم ألسنة العرض المنقسم
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -408,6 +410,20 @@ tab-note-editor-button-save =
 tab-note-preview-expand = اطّلع على المزيد
 tab-note-panel-add-note-new-badge =
     .label = جديد
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [zero] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } حرف
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } حرف
+        [two] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } حرفان
+        [few] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } أحرف
+        [many] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } حرفًا
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } حرف
+    }
 
 ## Split View
 
@@ -428,6 +444,18 @@ tab-context-reverse-split-view =
     .label = اعكس الألسنة
     .accesskey = ك
 tab-context-badge-new = جديد
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, عرض منقسم إلى اليسار
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, عرض منقسم إلى اليمين
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 
