@@ -115,6 +115,8 @@ firefoxview-history-nav = Историја
 firefoxview-history-header = Историја
 firefoxview-history-context-delete = Избриши из историје
     .accesskey = И
+firefoxview-history-context-forget-site = Заборави на овај сајт…
+    .accesskey = З
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

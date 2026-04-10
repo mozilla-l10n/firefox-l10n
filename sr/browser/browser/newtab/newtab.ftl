@@ -146,6 +146,9 @@ newtab-menu-report = Пријави
 newtab-menu-section-block = Блокирај
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Прекини праћење
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Престани да пратиш тему
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -599,6 +602,7 @@ newtab-section-confirm-block-topic-p2 = Блокиране теме се виш�
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Блокирај { $topic }
+newtab-section-block-cancel-button = Откажи
 
 ## Strings for custom wallpaper highlight
 
@@ -662,6 +666,18 @@ newtab-toast-thanks-for-reporting =
     .message = Хвала вам што сте ово пријавили.
 newtab-toast-widgets-hidden =
     .message = Изаберите иконицу оловке да бисте поново додали виџете било када.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Сада пратите { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Више не пратите { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Више нећете видети приче о теми { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -708,6 +724,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Нови списак
 newtab-widget-section-title = Елементи
 newtab-widget-menu-hide = Сакриј елемент
+newtab-widget-menu-change-size = Промени величину
+newtab-widget-size-small = Мала
+newtab-widget-size-medium = Средња
+newtab-widget-size-large = Велика
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Сакриј елементе

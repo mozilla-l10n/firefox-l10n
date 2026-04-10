@@ -294,6 +294,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Прилагоди траку са алаткама…
+appmenu-abouttranslations =
+    .label = Преведи…
 appmenu-developer-tools-subheader = Алатке прегледача
 appmenu-developer-tools-extensions =
     .label = Додаци за програмере
