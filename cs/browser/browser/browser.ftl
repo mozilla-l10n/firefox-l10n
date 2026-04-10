@@ -1746,7 +1746,7 @@ trustpanel-privacy-link = Nastavení soukromí
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
     .title = Vymazat cookies a data stránek pro { $host }
-trustpanel-clear-cookies-description = Smazání cookies a dat stránek vás může odhlásit z některých stránek a vymazat nákupní košíky.
+trustpanel-clear-cookies-description = Smazání cookies a dat stránek vás může odhlásit z webů a vyprázdnit vám nákupní košíky.
 trustpanel-clear-cookies-subview-button-clear = Vymazat
 trustpanel-clear-cookies-subview-button-cancel = Zrušit
 # Variables
