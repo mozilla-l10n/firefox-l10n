@@ -129,6 +129,7 @@ policy-Preferences = Ορισμός και κλείδωμα τιμής ενός 
 policy-PrivateBrowsingModeAvailability = Καθορισμός της διαθεσιμότητας της λειτουργίας ιδιωτικής περιήγησης.
 policy-PromptForDownloadLocation = Ερώτηση για την τοποθεσία αποθήκευσης αρχείων κατά τη λήψη.
 policy-Proxy = Προσαρμογή ρυθμίσεων μεσολάβησης.
+policy-RelaunchRequired = Απαίτηση επανεκκίνησης του { -brand-short-name } εντός δεδομένης περιόδου και ειδοποίηση του χρήστη για την επερχόμενη επανεκκίνηση.
 policy-RequestedLocales = Ορισμός λίστας απαιτούμενων γλωσσών για την εφαρμογή σε σειρά προτίμησης.
 policy-SanitizeOnShutdown2 = Εκκαθάριση δεδομένων πλοήγησης κατά τον τερματισμό λειτουργίας.
 policy-SearchBar = Ορισμός της προεπιλεγμένης τοποθεσίας της γραμμής αναζήτησης. Ο χρήστης θα μπορεί να την προσαρμόσει.
@@ -153,3 +154,5 @@ policy-WebsiteFilter = Φραγή ιστοτόπων προς επίσκεψη. 
 policy-Windows10SSO = Να επιτρέπεται η καθολική σύνδεση των Windows για λογαριασμούς Microsoft, εργασίας και σχολείου.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Να επιτρέπεται η καθολική σύνδεση για λογαριασμούς Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Ενεργοποίηση ή απενεργοποίηση υποστήριξης για το XSLTProcessor JavaScript API και την οδηγία επεξεργασίας XSLT.

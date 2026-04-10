@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Γνωρίστε το VPN, τώρα στο πρόγραμμα περιήγησής σας
 ipprotection-feature-introduction-link-text-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας, ακόμα και σε ιδιωτικά παράθυρα.
+ipprotection-feature-introduction-description-private-browsing = Περιηγηθείτε με επιπλέον προστασία κρύβοντας την τοποθεσία σας, ακόμα κι όταν βρίσκεστε σε ιδιωτικό παράθυρο.
+ipprotection-feature-introduction-description-captive-portal = Περιηγηθείτε με επιπλέον προστασία κρύβοντας την τοποθεσία σας, ακόμα και σε δημόσια Wi-Fi.
 ipprotection-feature-introduction-button-primary = Επόμενο
 ipprotection-feature-introduction-button-secondary-not-now = Όχι τώρα
 ipprotection-feature-introduction-button-secondary-no-thanks = Όχι, ευχαριστώ
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Το κατάλαβα
 ## Panel
 
 unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Αποκρύψτε την τοποθεσία σας</a> κατά την περιήγηση στο { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Αποκρύψτε την τοποθεσία σας κατά την περιήγηση με το { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

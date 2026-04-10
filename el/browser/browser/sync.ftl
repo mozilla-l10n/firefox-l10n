@@ -36,6 +36,11 @@ fxa-menu-send-to-mobile =
             [1] Αποστολή σε κινητή συσκευή
            *[other] Αποστολή { $tabCount } καρτελών σε κινητή συσκευή
         }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = Ενεργοποιήστε τον συγχρονισμό για να στείλετε μια καρτέλα
+fxa-menu-send-to-mobile-connect-phone =
+    .label = Συνδέστε το τηλέφωνό σας
 fxa-menu-send-to-mobile-device-missing =
     .label = Δεν βλέπετε τη συσκευή σας;
 # Variables:
