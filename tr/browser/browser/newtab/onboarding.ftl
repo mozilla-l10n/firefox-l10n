@@ -463,7 +463,7 @@ tab-groups-onboarding-dismiss = Tamam
 multi-profile-spotlight-title = { -brand-product-name } profilleriyle tanışın
 multi-profile-spotlight-body = İş ve eğlence amaçlı gezinti arasında kolayca geçiş yapın. Profiller, düzeninizi koruyabilmeniz için gezinti bilgilerinizi (arama geçmişi ve parolalar da dahil) tamamen ayrı tutar.
 multi-profile-spotlight-cta = Profil oluşturun
-multi-profile-callout-title = İş ve eğlence için farklı profiller oluşturun
+multi-profile-callout-title = İş ve eğlence için farklı profiller oluşturabilirsiniz
 multi-profile-callout-subtitle = Profiller, arama geçmişi ve parolalar gibi gezinti bilgilerinizi tamamen ayrı tutmanızı sağlar.
 multi-profile-callout-cta = Profil oluştur
 

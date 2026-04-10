@@ -36,6 +36,19 @@ perftools-pick-local-build-directory = Интихоб кардани феҳри�
 perftools-range-interval-label = Фосилаи намунагирӣ:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } мс
 
+## Generic memory units that can be used in various places, eg for the buffer size.
+
+# Byte
+perftools-memory-unit-b = { NUMBER($num, maxFractionalUnits: 2) } Б
+# Kibibyte
+perftools-memory-unit-kib = { NUMBER($num, maxFractionalUnits: 2) } КиБ
+# Mebibyte
+perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } МиБ
+# Gibibyte
+perftools-memory-unit-gib = { NUMBER($num, maxFractionalUnits: 2) } ГиБ
+# Tebibyte
+perftools-memory-unit-tib = { NUMBER($num, maxFractionalUnits: 2) } ТиБ
+
 ##
 
 # The size of the memory buffer used to store things in the profiler.
