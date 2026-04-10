@@ -1739,7 +1739,7 @@ trustpanel-description-enabled2 = Jste chráněni. Pokud něco zpozorujeme, dám
 trustpanel-header-enabled-insecure = Buďte na této stránce opatrní
 trustpanel-description-enabled-insecure = { -brand-product-name } si všiml něčeho podezřelého.
 trustpanel-header-disabled = Vypnuli jste ochranu
-trustpanel-description-disabled = { -brand-product-name } není ve střehu. Doporučujeme vám opět zapnout ochranu.
+trustpanel-description-disabled = { -brand-product-name } není ve střehu. Doporučujeme vám ochranu opět zapnout.
 trustpanel-clear-cookies-button = Vymazat cookies a uložená data
 trustpanel-privacy-link = Nastavení soukromí
 # Variables
