@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Tab stummschalten
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Stummschaltung für Tab aufheben
+fxviewtabrow-send-to-mobile-connect-phone =
+    .label = Verbinden Sie Ihr Telefon
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = Sie sehen Ihr Gerät nicht?

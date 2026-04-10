@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Symbolleiste anpassen…
+appmenu-abouttranslations =
+    .label = Übersetzen…
 appmenu-developer-tools-subheader = Browser-Werkzeuge
 appmenu-developer-tools-extensions =
     .label = Erweiterungen für Entwickler

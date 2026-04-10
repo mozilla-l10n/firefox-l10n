@@ -146,6 +146,9 @@ newtab-menu-report = Melden
 newtab-menu-section-block = Blockieren
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Nicht mehr folgen
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Thema nicht mehr folgen
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -601,6 +604,7 @@ newtab-section-confirm-block-topic-p2 = Blockierte Themen erscheinen nicht mehr 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } blockieren
+newtab-section-block-cancel-button = Abbrechen
 
 ## Strings for custom wallpaper highlight
 
@@ -705,6 +709,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Neue Liste
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Widget ausblenden
+newtab-widget-menu-change-size = Größe ändern
+newtab-widget-size-small = Klein
+newtab-widget-size-medium = Mittel
+newtab-widget-size-large = Groß
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Widgets ausblenden

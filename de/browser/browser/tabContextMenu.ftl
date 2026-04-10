@@ -147,6 +147,10 @@ tab-context-send-to-mobile =
            *[other] { $tabCount } Tabs an Mobilgerät senden
         }
     .accesskey = n
+tab-context-send-to-mobile-connect-phone =
+    .label = Verbinden Sie Ihr Telefon
+tab-context-send-to-mobile-device-missing =
+    .label = Sie sehen Ihr Gerät nicht?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
