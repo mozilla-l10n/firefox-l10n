@@ -91,6 +91,7 @@ policy-Homepage = Hasiera-orria ezarri eta ezarpen bidez aldatzea.
 policy-HttpAllowlist = HTTPSra bihurtuko ez diren jatorriak.
 policy-HttpsOnlyMode = Baimendu HTTPS-Only modua gaitzea.
 policy-InstallAddonsPermission = Baimendu zenbait webgunek gehigarriak instalatzea.
+policy-IPProtectionAvailable = Eragotzi integratutako VPNa erabiltzaileentzat erabilgarri egotea.
 policy-LegacyProfiles = Desgaitu instalazio bakoitzerako profil bereiziak behartzen dituen eginbidea
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -128,6 +129,7 @@ policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
 policy-PrivateBrowsingModeAvailability = Ezarri nabigatze pribatuko moduaren erabilgarritasuna.
 policy-PromptForDownloadLocation = Galdetu non gorde deskargatutako fitxategiak.
 policy-Proxy = Konfiguratu proxy-ezarpenak.
+policy-RelaunchRequired = Behartu { -brand-short-name } berrabiaraztea denbora-tarte baten barruan eta jakinarazi erabiltzaileari gertatzear den berrabiaraztea.
 policy-RequestedLocales = Ezarri aplikazioari eskatuko zaizkion hizkuntza-kodeen zerrenda, hobetsitakoen arabera ordenatuta.
 policy-SanitizeOnShutdown2 = Ixtean, garbitu nabigazio-datuak.
 policy-SearchBar = Ezarri bilaketa-barraren kokaleku lehenetsia. Erabiltzaileek oraindik ere pertsonalizatu ahal izango dute.
@@ -152,3 +154,5 @@ policy-WebsiteFilter = Blokeatu zenbait webgune bisitatzea. Irakurri dokumentazi
 policy-Windows10SSO = Baimendu Windows saio-hasiera bakarra (SSO) Microsoft-, laneko eta eskolako kontuentzat.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Baimendu saio-hasiera bakarra Microsoft Entra kontuetarako.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Gaitu edo desgaitu XSLTProcessor JavaScript APIaren eta XSLT prozesatze-instrukzioaren euskarria.

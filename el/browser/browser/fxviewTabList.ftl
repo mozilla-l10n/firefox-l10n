@@ -78,3 +78,5 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Σίγαση καρτέλας
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Άρση σίγασης καρτέλας
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = Δεν βλέπετε τη συσκευή σας;

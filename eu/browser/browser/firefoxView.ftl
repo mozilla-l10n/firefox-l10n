@@ -113,6 +113,8 @@ firefoxview-history-nav = Historia
 firefoxview-history-header = Historia
 firefoxview-history-context-delete = Ezabatu historiatik
     .accesskey = z
+firefoxview-history-context-forget-site = Ahaztu gune honetaz…
+    .accesskey = A
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

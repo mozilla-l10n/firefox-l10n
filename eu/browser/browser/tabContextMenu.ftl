@@ -145,6 +145,13 @@ tab-context-send-to-mobile =
            *[other] Bidali { $tabCount } fitxa mugikorrera
         }
     .accesskey = d
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Gaitu sinkronizazioa fitxa bidaltzeko
+tab-context-send-to-mobile-connect-phone =
+    .label = Konektatu zure telefonoa
+tab-context-send-to-mobile-device-missing =
+    .label = Ez duzu zure gailua ikusten?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

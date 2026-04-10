@@ -146,6 +146,9 @@ newtab-menu-report = Αναφορά
 newtab-menu-section-block = Φραγή
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Άρση παρακολούθησης
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Άρση παρακολούθησης θέματος
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -601,6 +604,7 @@ newtab-section-confirm-block-topic-p2 = Τα αποκλεισμένα θέματ
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Αποκλεισμός του «{ $topic }»
+newtab-section-block-cancel-button = Ακύρωση
 
 ## Strings for custom wallpaper highlight
 
@@ -705,6 +709,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Νέα λίστα
 newtab-widget-section-title = Γραφικά στοιχεία
 newtab-widget-menu-hide = Απόκρυψη γραφικού στοιχείου
+newtab-widget-menu-change-size = Αλλαγή μεγέθους
+newtab-widget-size-small = Μικρό
+newtab-widget-size-medium = Μεσαίο
+newtab-widget-size-large = Μεγάλο
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Απόκρυψη widgets

@@ -410,6 +410,9 @@ quickactions-cmd-help = laguntza, euskarria
 # Opens the devtools web inspector
 quickactions-inspector2 = Ireki garatzaile-tresnak
 quickactions-cmd-inspector2 = ikuskatzailea, garatzaile-tresnak
+# Opens Firefox Library
+quickactions-cmd-library = biltegia
+quickactions-library = Ireki biltegia
 quickactions-cmd-inspector = ikuskatzailea, garatzaile-tresnak
 # Opens about:logins
 quickactions-logins2 = Kudeatu pasahitzak

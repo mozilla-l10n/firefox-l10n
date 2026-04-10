@@ -143,6 +143,8 @@ tab-context-send-to-mobile =
            *[other] Αποστολή { $tabCount } καρτελών σε κινητή συσκευή
         }
     .accesskey = π
+tab-context-send-to-mobile-device-missing =
+    .label = Δεν βλέπετε τη συσκευή σας;
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

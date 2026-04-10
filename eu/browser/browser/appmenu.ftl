@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Pertsonalizatu tresna-barra…
+appmenu-abouttranslations =
+    .label = Itzuli…
 appmenu-developer-tools-subheader = Nabigatzailearen tresnak
 appmenu-developer-tools-extensions =
     .label = Garatzaileentzako hedapenak

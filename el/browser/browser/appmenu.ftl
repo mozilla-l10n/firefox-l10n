@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Προσαρμογή γραμμής εργαλείων…
+appmenu-abouttranslations =
+    .label = Μετάφραση…
 appmenu-developer-tools-subheader = Εργαλεία προγράμματος περιήγησης
 appmenu-developer-tools-extensions =
     .label = Επεκτάσεις για προγραμματιστές

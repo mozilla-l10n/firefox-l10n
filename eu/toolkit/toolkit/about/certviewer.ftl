@@ -43,6 +43,10 @@ certificate-viewer-logid = Log IDa
 certificate-viewer-method = Metodoa
 certificate-viewer-modulus = Modulua
 certificate-viewer-name = Izena
+certificate-viewer-surname = Abizena
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Emandako izena
 certificate-viewer-not-after = Ez ondoren
 certificate-viewer-not-before = Ez lehenago
 certificate-viewer-organization = Erakundea

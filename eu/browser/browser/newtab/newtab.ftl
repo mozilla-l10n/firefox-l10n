@@ -146,6 +146,9 @@ newtab-menu-report = Jakinarazi
 newtab-menu-section-block = Blokeatu
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Utzi jarraitzeari
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ez jarraitu gaia
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -600,6 +603,7 @@ newtab-section-confirm-block-topic-p2 = Blokeatutako gaiak ez dira gehiago azald
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokeatu { $topic }
+newtab-section-block-cancel-button = Utzi
 
 ## Strings for custom wallpaper highlight
 
@@ -663,6 +667,18 @@ newtab-toast-thanks-for-reporting =
     .message = Eskerrik asko hau jakinarazteagatik.
 newtab-toast-widgets-hidden =
     .message = Hautatu arkatzaren ikonoa edonoiz widgetak berriz gehitzeko.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = { $topic } jarraitzen ari zara orain.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Ez zara { $topic } jarraitzen ari gehiago.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Ez duzu { $topic } gaiaren inguruko istorio gehiagorik ikusiko.
 
 ## Strings for task / to-do list productivity widget
 
@@ -704,6 +720,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Zerrenda berria
 newtab-widget-section-title = Widgetak
 newtab-widget-menu-hide = Ezkutatu widgeta
+newtab-widget-menu-change-size = Aldatu tamaina
+newtab-widget-size-small = Txikia
+newtab-widget-size-medium = Ertaina
+newtab-widget-size-large = Handia
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ezkutatu widgetak

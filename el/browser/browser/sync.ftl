@@ -36,6 +36,8 @@ fxa-menu-send-to-mobile =
             [1] Αποστολή σε κινητή συσκευή
            *[other] Αποστολή { $tabCount } καρτελών σε κινητή συσκευή
         }
+fxa-menu-send-to-mobile-device-missing =
+    .label = Δεν βλέπετε τη συσκευή σας;
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

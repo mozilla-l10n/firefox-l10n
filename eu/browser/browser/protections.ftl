@@ -202,3 +202,16 @@ bar-tooltip-cryptominer =
             [one] Kriptomeatzari bat (%{ $percentage })
            *[other] { $count } kriptomeatzari (%{ $percentage })
         }
+# Privacy Metrics Card
+privacy-metrics-title = Pribatutasun-babesak
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blokeatuta aste honetan
+       *[other] { $count } blokeatuta aste honetan
+    }
+privacy-metrics-empty = Ez da jarraipen-elementurik blokeatu aste honetan. { -brand-short-name }(e)k ondorengo mehatxuetatik babesten zaitu nabigatu ahala.
+privacy-metrics-loading = Babesen estatistikak kargatzen…
+privacy-metrics-error = Ezin dira babesen estatistikak kargatu.
+privacy-metrics-private-window = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen jarraitzen du leiho pribatuetan baina ez du blokeatu denaren erregistrorik gordetzen.
