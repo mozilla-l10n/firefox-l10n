@@ -37,7 +37,7 @@ tabbrowser-close-tabs-button =
             [one] أغلِق اللسان
             [two] أغلِق اللسانين
             [few] أغلِق { $tabCount } ألسنة
-            [many] أغلِق { $tabCount } لسانا
+            [many] أغلِق { $tabCount } لسانًا
            *[other] أغلِق { $tabCount } لسان
         }
 # Variables:
@@ -48,7 +48,7 @@ tabbrowser-close-tabs-tooltip =
             [one] أغلِق اللسان
             [two] أغلِق اللسانين
             [few] أغلِق { $tabCount } ألسنة
-            [many] أغلِق { $tabCount } لسانا
+            [many] أغلِق { $tabCount } لسانًا
            *[other] أغلِق { $tabCount } لسان
         }
 tab-splitview-splitter =
@@ -66,7 +66,7 @@ tabbrowser-mute-tab-audio-tooltip =
             [one] اكتم اللسان ({ $shortcut })
             [two] اكتم اللسانين ({ $shortcut })
             [few] اكتم { $tabCount } ألسنة ({ $shortcut })
-            [many] اكتم { $tabCount } لسانا ({ $shortcut })
+            [many] اكتم { $tabCount } لسانًا ({ $shortcut })
            *[other] اكتم { $tabCount } لسان ({ $shortcut })
         }
 # Variables:
@@ -77,7 +77,7 @@ tabbrowser-unmute-tab-audio-tooltip =
             [one] أطلِق صوت اللسان ({ $shortcut })
             [two] أطلِق صوت اللسانين ({ $shortcut })
             [few] أطلِق صوت { $tabCount } ألسنة ({ $shortcut })
-            [many] أطلِق صوت { $tabCount } لسانا ({ $shortcut })
+            [many] أطلِق صوت { $tabCount } لسانًا ({ $shortcut })
            *[other] أطلِق صوت { $tabCount } لسان ({ $shortcut })
         }
 tabbrowser-mute-tab-audio-background-tooltip =
@@ -86,7 +86,7 @@ tabbrowser-mute-tab-audio-background-tooltip =
             [one] اكتم اللسان
             [two] اكتم اللسانين
             [few] اكتم { $tabCount } ألسنة
-            [many] اكتم { $tabCount } لسانا
+            [many] اكتم { $tabCount } لسانًا
            *[other] اكتم { $tabCount } لسان
         }
 tabbrowser-unmute-tab-audio-background-tooltip =
@@ -95,7 +95,7 @@ tabbrowser-unmute-tab-audio-background-tooltip =
             [one] أطلِق صوت اللسان
             [two] أطلِق صوت اللسانين
             [few] أطلِق صوت { $tabCount } ألسنة
-            [many] أطلِق صوت { $tabCount } لسانا
+            [many] أطلِق صوت { $tabCount } لسانًا
            *[other] أطلِق صوت { $tabCount } لسان
         }
 tabbrowser-unblock-tab-audio-tooltip =
@@ -104,7 +104,7 @@ tabbrowser-unblock-tab-audio-tooltip =
             [one] شغِّل اللسان
             [two] شغِّل اللسانين
             [few] شغِّل { $tabCount } ألسنة
-            [many] شغِّل { $tabCount } لسانا
+            [many] شغِّل { $tabCount } لسانًا
            *[other] شغِّل { $tabCount } لسان
         }
 
@@ -334,6 +334,30 @@ tab-context-move-tab-to-group =
            *[other] أضف ألسنة إلى مجموعة
         }
     .accesskey = ض
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] أضف العرض المنقسم لمجموعة جديدة
+            [zero] لا عرض منفسم لإضافة
+            [one] أضف العرض المنقسمة لمجموعة جديدة
+            [two] أضف العروض المنقسمة لمجموعة جديدة
+            [few] أضف العروض المنقسمة لمجموعة جديدة
+            [many] أضف العروض المنقسمة لمجموعة جديدة
+           *[other] أضف العروض المنقسمة لمجموعة جديدة
+        }
+    .accesskey = ض
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] أضف العرض المنقسم لمجموعة
+            [zero] لا عرض منقسم لإضافة
+            [one] أضف العرض المنقسم لمجموعة
+            [two] أضف العروض المنقسمة لمجموعة
+            [few] أضف العروض المنقسمة لمجموعة
+            [many] أضف العروض المنقسمة لمجموعة
+           *[other] أضف العروض المنقسمة لمجموعة
+        }
+    .accesskey = ض
 tab-context-move-tab-to-group-saved-groups =
     .label = الألسنة المغلقة
 tab-group-editor-action-new-tab =
@@ -370,6 +394,15 @@ tab-context-ungroup-tab =
 # number of remaining tabs that are hidden by the collapsed group,
 # e.g. "+2" for a group with 3 total tabs.
 tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [zero] لا لسان إضافي
+        [one] { $tabCount } لسان إضافي
+        [two] { $tabCount } لسانان أخريان
+        [few] { $tabCount } ألسنة إضافية
+        [many] { $tabCount } لسانًا إضافيًا
+       *[other] { $tabCount } لسان إضافي
+    }
 
 ## Open/saved tab group context menu
 

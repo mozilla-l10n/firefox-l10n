@@ -180,6 +180,8 @@ lightbulb-avatar = مصباح كهربائي
 message-avatar = رسالة
 shopping-avatar = عربة تسوق
 star-avatar = النجمة
+custom-avatar-drag-handle =
+    .aria-label = غيّر حجم منطقة القص
 profiles-appmenu-callout-tour-title = ملفك الشخصي الجديد جاهز للاستخدام
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = في قائمة ☰، انقر على اسم ملفك الشخصي لإنشاء ملف آخر أو حرّر هذا الملف أو التنقل بين حياتك الرقمية.
