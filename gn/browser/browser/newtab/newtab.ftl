@@ -146,6 +146,9 @@ newtab-menu-report = Momarandu
 newtab-menu-section-block = Joko
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Ndahapykuehovéima
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Anive ehapykueho téma
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -600,6 +603,7 @@ newtab-section-confirm-block-topic-p2 = Umi téma jokopyre nosẽmo’ãvéima c
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Ejoko { $topic }
+newtab-section-block-cancel-button = Eheja
 
 ## Strings for custom wallpaper highlight
 
@@ -704,6 +708,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Tysýi pyahu
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Eñomi widget
+newtab-widget-menu-change-size = Emoambue tuichakue
+newtab-widget-size-small = Michĩva
+newtab-widget-size-medium = Mbyteguáva
+newtab-widget-size-large = Tuicháva
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Eñomi widgets

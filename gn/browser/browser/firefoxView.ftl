@@ -113,6 +113,8 @@ firefoxview-history-nav = Tembiasakue
 firefoxview-history-header = Tembiasakue
 firefoxview-history-context-delete = Emboguete tembiasakuégui
     .accesskey = D
+firefoxview-history-context-forget-site = Ehejarei ko Tenda…
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

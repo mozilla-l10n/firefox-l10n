@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Emondo pumbyrýpe
     .accesskey = n
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Embojuruja ñembojuehe emondo hag̃ua tendayke
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Embojuaju ne pumbyry
+main-context-menu-send-to-mobile-device-missing =
+    .label = ¿Nderehechái ne mba’e’oka?
 main-context-menu-save-to-pocket =
     .label = Eñongatu kuatiarogue { -pocket-brand-name }-pe
     .accesskey = k
