@@ -48,6 +48,14 @@ perftools-memory-unit-mib = { NUMBER($num, maxFractionalUnits: 2) } МиБ
 perftools-memory-unit-gib = { NUMBER($num, maxFractionalUnits: 2) } ГиБ
 # Tebibyte
 perftools-memory-unit-tib = { NUMBER($num, maxFractionalUnits: 2) } ТиБ
+# Pebibyte
+perftools-memory-unit-pib = { NUMBER($num, maxFractionalUnits: 2) } ПиБ
+# Exbibyte
+perftools-memory-unit-eib = { NUMBER($num, maxFractionalUnits: 2) } ЭиБ
+# Zebibyte
+perftools-memory-unit-zib = { NUMBER($num, maxFractionalUnits: 2) } ЗиБ
+# Yobibyte
+perftools-memory-unit-yib = { NUMBER($num, maxFractionalUnits: 2) } ЙиБ
 
 ##
 

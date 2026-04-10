@@ -15,6 +15,7 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Тарҷума дар ин дастгоҳ дастнорас аст.
     .message = Кӯшиш кунед, ки ба дастгоҳи дигар гузаред.
+about-translations-feature-blocked-unblock-button = Кушодан
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Низом забонҳоро бор карда натавонист

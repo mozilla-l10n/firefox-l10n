@@ -43,6 +43,10 @@ certificate-viewer-logid = Рақами мушаххаси сабт
 certificate-viewer-method = Усул
 certificate-viewer-modulus = Модул
 certificate-viewer-name = Ном
+certificate-viewer-surname = Насаб
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Ном
 certificate-viewer-not-after = Боэътибор то
 certificate-viewer-not-before = Боэътибор аз
 certificate-viewer-organization = Ташкилот

@@ -77,3 +77,6 @@ experimental-features-newtab-widget-lists-and-timer-description = Ҳангоми
 experimental-features-semantic-history-search =
     .label = Ҷустуҷӯ аз рӯйи таърихи маъноӣ
 experimental-features-semantic-history-search-description = Барои пешниҳод кардани сабтҳои таърихие, ки ба ҷустуҷӯҳои шумо дар асоси фаҳмиши забони табиӣ марбутанд, лутфан, аз модели маҳаллии омӯзиши мошинӣ дар навори нишонии «{ -brand-product-name }» истифода баред. <a data-l10n-name="connect">Назари худро изҳор намоед</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Қайдҳои варақа

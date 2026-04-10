@@ -201,6 +201,19 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Тасвирчаи саҳифаи { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Интихоби саҳифаи { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Интихоби саҳифаи { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Саҳифаи { $page } аз { $total }
 
 ## Find panel button title and messages
 
@@ -649,6 +662,8 @@ pdfjs-toggle-views-manager-button1-label = Идоракунии саҳифаҳо
 pdfjs-toggle-views-manager-button-label = Фаъол кардани навори ҷонибӣ
 pdfjs-views-manager-sidebar =
     .aria-label = Навори ҷонибӣ
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Тағйири андозаи навори ҷонибӣ
 pdfjs-views-manager-view-selector-button =
     .title = Намудҳо
 pdfjs-views-manager-view-selector-button-label = Намудҳо
@@ -704,10 +719,20 @@ pdfjs-views-manager-status-warning-copy-label = Нусха бардошта на
 pdfjs-views-manager-status-warning-delete-label = Нест карда нашуд. Саҳифаро навсозӣ кунед ва аз нав кӯшиш намоед.
 pdfjs-views-manager-status-warning-save-label = Нигоҳ дошта нашуд. Саҳифаро навсозӣ кунед ва аз нав кӯшиш намоед.
 pdfjs-views-manager-status-undo-button-label = Бекор кардан
+pdfjs-views-manager-status-done-button-label = Тайёр
 pdfjs-views-manager-status-close-button =
     .title = Пӯшидан
 pdfjs-views-manager-status-close-button-label = Пӯшидан
 pdfjs-views-manager-paste-button-label = Гузоштан
+pdfjs-views-manager-paste-button-before =
+    .title = Гузоштан пеш аз саҳифаи аввалин
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Гузоштан пас аз саҳифаи { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = НАВ
 pdfjs-toggle-views-manager-button1 =
     .title = Идоракунии саҳифаҳо
 

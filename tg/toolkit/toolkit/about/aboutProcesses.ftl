@@ -60,6 +60,12 @@ about-processes-inference-process = Ҷамъбаст ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Дигар: { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = хусусӣ
+about-processes-web-isolated-property-serviceworker = коргузори хизматрасонӣ
+about-processes-web-isolated-property-jit-disabled = «JIT» ғайрифаъол аст
+
 ## Isolated process names
 ## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
