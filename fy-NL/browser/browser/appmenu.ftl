@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Arkbalke oanpasse…
+appmenu-abouttranslations =
+    .label = Oersette…
 appmenu-developer-tools-subheader = Browserhelpmidelen
 appmenu-developer-tools-extensions =
     .label = Utwreidingen foar ûntwikkelers

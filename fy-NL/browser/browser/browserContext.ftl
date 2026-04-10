@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Nei Mobyl ferstjoere
     .accesskey = s
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Jo telefoan ferbine
+main-context-menu-send-to-mobile-device-missing =
+    .label = Sjogge jo jo apparaat net?
 main-context-menu-save-to-pocket =
     .label = Side bewarje nei { -pocket-brand-name }
     .accesskey = k

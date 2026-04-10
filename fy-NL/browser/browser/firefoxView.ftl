@@ -113,6 +113,8 @@ firefoxview-history-nav = Skiednis
 firefoxview-history-header = Skiednis
 firefoxview-history-context-delete = Fuortsmite út skiednis
     .accesskey = F
+firefoxview-history-context-forget-site = Dizze website ferjitte…
+    .accesskey = f
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

@@ -146,6 +146,9 @@ newtab-menu-report = Rapportearje
 newtab-menu-section-block = Blokkearje
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Untfolgje
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Underwerp net mear folgje
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -601,6 +604,7 @@ newtab-section-confirm-block-topic-p2 = Blokkearre ûnderwerpen ferskine net mea
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } blokkearje
+newtab-section-block-cancel-button = Annulearje
 
 ## Strings for custom wallpaper highlight
 
@@ -664,6 +668,18 @@ newtab-toast-thanks-for-reporting =
     .message = Tank foar it melden.
 newtab-toast-widgets-hidden =
     .message = Selektearje it potleadpiktogram om op elk momint widgets wer ta te foegjen.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Jo folgje no { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Jo folgje { $topic } net mear.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Jo sjogge gjin ferhalen oer { $topic } mear.
 
 ## Strings for task / to-do list productivity widget
 
@@ -705,6 +721,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nije list
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Widget ferstopje
+newtab-widget-menu-change-size = Grutte wizigje
+newtab-widget-size-small = Lyts
+newtab-widget-size-medium = Normaal
+newtab-widget-size-large = Grut
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Widgets ferstopje
