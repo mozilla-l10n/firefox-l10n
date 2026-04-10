@@ -113,6 +113,8 @@ firefoxview-history-nav = Ιστορικό
 firefoxview-history-header = Ιστορικό
 firefoxview-history-context-delete = Διαγραφή από ιστορικό
     .accesskey = Δ
+firefoxview-history-context-forget-site = Διαγραφή δεδομένων ιστοτόπου…
+    .accesskey = φ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

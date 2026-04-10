@@ -668,6 +668,18 @@ newtab-toast-thanks-for-reporting =
     .message = Ευχαριστούμε για την αναφορά σας.
 newtab-toast-widgets-hidden =
     .message = Επιλέξτε το εικονίδιο μολυβιού για να προσθέσετε γραφικά στοιχεία ανά πάσα στιγμή.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Ακολουθείτε πλέον το θέμα «{ $topic }».
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Δεν ακολουθείτε πλέον το θέμα «{ $topic }».
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Δεν θα βλέπετε πλέον άρθρα σχετικά με το θέμα «{ $topic }».
 
 ## Strings for task / to-do list productivity widget
 
