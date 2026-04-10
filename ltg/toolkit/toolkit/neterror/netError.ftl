@@ -86,8 +86,3 @@ certerror-bad-cert-domain-what-can-you-do-about-it = Dreižōk vysa tei ir lopys
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> izmontoj drūšeibys politiku, kū sauc HTTP Strict Transport Security (HSTS), kas nozeimoj, ka { -brand-short-name } var lopai pīzaslēgt viņ drūšajā režimā. Tu navari pīvīnōt izjāmumu, kab apsavērt itū lopu.
-
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-
-fp-neterror-denied-port-access = Drūseibys apsvārumu dieļ pīeja itam porta numuram nav atļauta.
