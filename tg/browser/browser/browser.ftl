@@ -410,6 +410,9 @@ quickactions-cmd-help = кумак, дастгирӣ
 # Opens the devtools web inspector
 quickactions-inspector2 = Кушодани абзорҳои барномарезӣ
 quickactions-cmd-inspector2 = тафтишкунанда, абзорҳои барномарезӣ, inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = китобхона
+quickactions-library = Кушодани китобхона
 quickactions-cmd-inspector = тафтишкунанда, абзорҳои барномарезӣ
 # Opens about:logins
 quickactions-logins2 = Идоракунии ниҳонвожаҳо

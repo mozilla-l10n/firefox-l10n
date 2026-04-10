@@ -1101,11 +1101,15 @@ containers-remove-button =
 
 sync-group-label =
     .label = Ҳамоҳангсозӣ
+account-group-label2 =
+    .label = Ҳисоб
 account-group-label =
     .label = Ҳисоби «{ -vendor-short-name }»
 account-placeholder =
     .label = Шумо ворид нашудаед
     .description = Барои нигоҳ доштани маълумоти худ ба таври махфӣ, рамзгузоришуда ва ҳамоҳангшуда байни дастгоҳҳо, ворид шавед.
+account-sync-section =
+    .heading = Ҳисоб ва ҳамоҳангсозӣ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1247,6 +1251,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Идоракунии маълумоти ҳамоҳангшуда
     .accesskey = И
+settings-sync-disconnect-button =
+    .label = Қатъ кардани пайваст
 sync-change-options =
     .label = Тағйир додан…
     .accesskey = Т
@@ -2108,6 +2114,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = К
 space-alert-over-5gb-message2 = <strong>Фазои диски «{ -brand-short-name }» қариб комилан пур шуд.</strong> Муҳтавои сомонаҳо метавонад нодуруст намоиш дода шавад. Шумо метавонед маълумоти нигоҳдошташударо дар Танзимот > Махфият ва амният > Кукиҳо ва маълумоти сомона пок кунед.
 space-alert-under-5gb-message2 = <strong>Фазои диски «{ -brand-short-name }» қариб комилан пур шуд.</strong> Муҳтавои сомонаҳо метавонад нодуруст намоиш дода шавад. Барои ба таври беҳтар истифода бурдани диски худ ва барои таҷрибаи тамошобинии беҳин, ба «Маълумоти бештар» нигаред.
+certs-view2 =
+    .label = Идоракунии гувоҳиномаҳо
+    .accesskey = И
 
 ## Privacy Section - HTTPS-Only
 
@@ -2191,6 +2200,9 @@ preferences-doh-manage-exceptions =
     .accesskey = И
 preferences-doh-advanced-button =
     .label = Танзимоти иловагӣ
+preferences-doh-manage-exceptions2 =
+    .label = Идоракунии истисноҳо
+    .accesskey = И
 preferences-doh-select-resolver-label =
     .label = Интихоби таъминкунанда:
 

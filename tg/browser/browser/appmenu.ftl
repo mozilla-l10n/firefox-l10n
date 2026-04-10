@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Танзимоти навори абзорҳо…
+appmenu-abouttranslations =
+    .label = Тарҷума кунед…
 appmenu-developer-tools-subheader = Абзорҳои браузер
 appmenu-developer-tools-extensions =
     .label = Васеъшавиҳо барои барномасозон
@@ -295,6 +297,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Почтаи электронӣ ва рақами телефони воқеии худро бо ниқоб пинҳон намоед
 appmenuitem-services-relay-description = Оғоз кардани лавҳаи вазъияти ниқобҳои почтаи электронӣ
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = Муҳофизати пурраи дастгоҳро татбиқ кунед
 appmenuitem-vpn-description = Фаъолияти худро дар Интернет муҳофизат намоед
 appmenu-services-header = Хизматҳои ман
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

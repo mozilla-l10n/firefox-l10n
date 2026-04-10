@@ -19,6 +19,9 @@ backup-folder-name = Барқарорсозии «{ -brand-product-name }»
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Нусхаи эҳтиётии { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Нусхаи эҳтиётӣ
+    .description = Хатбаракҳо, таърих ва маълумоти дигари худро ба таври худкор ҳифз намоед.
 settings-data-backup-header = Нусхаи эҳтиётӣ
 settings-data-backup-toggle = Идоракунии нусхаи эҳтиётӣ
 settings-data-backup-toggle-on2 =
