@@ -147,6 +147,13 @@ tab-context-send-to-mobile =
            *[other] Emondo { $tabCount } tendaykeita pumbyrýpe
         }
     .accesskey = n
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Embojuruja ñembojuehe emondo hag̃ua tendayke
+tab-context-send-to-mobile-connect-phone =
+    .label = Embojuaju ne pumbyry
+tab-context-send-to-mobile-device-missing =
+    .label = ¿Nderehechái ne mba’e’oka?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
