@@ -38,7 +38,7 @@ fxa-menu-send-to-mobile =
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
-    .label = Activer la synchronisation pour envoyer un onglet
+    .label = Activez la synchronisation pour envoyer un onglet
 fxa-menu-send-to-mobile-connect-phone =
     .label = Connectez votre téléphone
 fxa-menu-send-to-mobile-device-missing =

@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Werkbalk aanpassen…
+appmenu-abouttranslations =
+    .label = Vertalen…
 appmenu-developer-tools-subheader = Browserhulpmiddelen
 appmenu-developer-tools-extensions =
     .label = Extensies voor ontwikkelaars
