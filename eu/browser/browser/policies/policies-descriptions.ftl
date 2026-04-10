@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ezarri politikak WebExtension gehigarriek chrome.storage.managed bidez sarbidea izan dezaten.
+policy-AIControls = Konfiguratu AA kontrolak.
 policy-AllowedDomainsForApps = Definitu Google Workspace-rako sarbidea izango duten domeinuak.
 policy-AllowFileSelectionDialogs = Baimendu fitxategi-hautapenerako elkarrizketa-koadroak.
 policy-AppAutoUpdate = Gaitu edo desgaitu aplikazioaren eguneraketa automatikoa.
