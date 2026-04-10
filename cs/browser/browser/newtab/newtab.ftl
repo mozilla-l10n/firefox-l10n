@@ -712,7 +712,7 @@ newtab-section-toast-block =
 ## Strings for task / to-do list productivity widget
 
 # "Add one" means adding a new task to the list (e.g., "Walk the dog")
-newtab-widget-lists-empty-cta = Možnosti jsou nekonečné. Přidejte si svůj.
+newtab-widget-lists-empty-cta = Přidejte si nějaký. Možností je neomezeně.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
     .label = Nový

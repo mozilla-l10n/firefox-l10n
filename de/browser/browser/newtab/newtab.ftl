@@ -668,6 +668,18 @@ newtab-toast-thanks-for-reporting =
     .message = Danke für die Meldung.
 newtab-toast-widgets-hidden =
     .message = Wählen Sie das Stiftsymbol, um jederzeit wieder Widgets hinzuzufügen.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Sie folgen jetzt { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Sie folgen { $topic } nicht mehr.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Sie sehen keine Artikel mehr über { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
