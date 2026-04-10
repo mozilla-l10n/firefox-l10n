@@ -113,6 +113,23 @@ ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="settin
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }(e)k gogoratu egingo ditu VPN bidez sartzeko ezarri dituzun webguneak. Eguneratu hauek edonoiz <a data-l10n-name="setting-link">ezarpenetan</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
 
+## IP Protection bandwidth callouts
+
+ipprotection-bandwidth-upgrade-title = Integratutako VPNa gustuko duzu? Eskuratu { -brand-product-name }(e)tik kanpora babes gehiago { -mozilla-vpn-brand-name } erabiliz.
+ipprotection-bandwidth-upgrade-text = Aukeratu VPNaren kokapena eta gehitu 5 gailura arteko babesa zure aplikazio guztiei, berdin etxean edo Wi-Fi publiko batean zaudela.
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>VPNaren mugara heltzen ari zara</strong>. { $usageLeft } GB dituzu faltan. Datuak datorren hilabetearen hasieran berrezarriko dira.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPNaren datuak ia-ia agortu dituzu</strong>. { $usageLeft } GB dituzu faltan. Datu guztiak erabiltzean, VPNa pausatu egingo da datorren hilabetearen hasieran datuak berrezarri arte.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPNaren datuak ia-ia agortu dituzu</strong>. { $usageLeft } MB dituzu faltan. Datu guztiak erabiltzean, VPNa pausatu egingo da datorren hilabetearen hasieran datuak berrezarri arte.
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -142,14 +159,19 @@ ip-protection-autostart-checkbox =
     .label = { -brand-short-name } irekitzen dudanean
 ip-protection-autostart-private-checkbox =
     .label = Leiho pribatuetan
+ip-protection-vpn-upgrade-link =
+    .label = Eskuratu { -brand-short-name }(e)tik kanpora babes gehiago { -mozilla-vpn-brand-name } erabiliz
+    .description = Aukeratu VPNaren kokapen pertsonalizatuak eta gehitu bost gailura arteko babesa zure aplikazio guztiei, berdin etxean edo Wi-Fi publiko batean zaudela.
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Kudeatu webgunearen ezarpenak
+ip-protection-exclusions-desc = Erabili VPNa webgune guztientzat zerrenda honetan daudenak kenduta. Gehitu webgune bat hemen edo VPNa zabalduz.
 
 ## IP Protection Bandwidth
 
+ip-protection-bandwidth-header = Hileroko VPN datuak
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -172,10 +194,20 @@ ip-protection-bandwidth-hit-for-the-month = Zure VPN datuen { $maxUsage } GB guz
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = { $maxUsage } GBra berrezartzen da hilabete bakoitzeko lehen egunean.
+ip-protection-bandwidth-header-1 = Hileroko datuen muga
 
 ## IP Protection bandwidth reset callout
 
+# Variables
+#  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-bandwidth-reset-title = VPNaren { $maxUsage } GB, berrituta eta erabiltzeko prest
+ipprotection-bandwidth-reset-text = Gaitu VPNa pribatutasunari bultzada emateko, doan hilabetero.
 ipprotection-bandwidth-reset-button = Ulertuta
+
+## IP Protection add-on breakage warnings
+
+ipp-activator-breakage-sign-in-warning = <strong>Baliteke webgune hau VPNarekin ondo ez ibiltzea</strong>. Saiatu saioa hasten edo VPNa desaktibatzen webgune hau erabili bitartean.
+ipp-activator-breakage-turn-off-warning = <strong>Baliteke webgune hau VPNarekin ondo ez ibiltzea</strong>. Saiatu VPNa desaktibatzen webgune hau erabili bitartean.
 
 ## IP Protection alerts
 
