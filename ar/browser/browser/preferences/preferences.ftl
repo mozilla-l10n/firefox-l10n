@@ -442,6 +442,10 @@ translate-attribution = ترجمات <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = الاستثناءات…
     .accesskey = ث
+settings-translations-header =
+    .label = الترجمات
+    .aria-label = الترجمات
+    .description = ترجم صفحات أو نصوصًا محدّدة. لحماية خصوصيتك، تظل الترجمات على جهازك.
 settings-translations-subpage-header =
     .heading = المزيد من إعدادات الترجمة
 settings-translations-subpage-automatic-translation-header =

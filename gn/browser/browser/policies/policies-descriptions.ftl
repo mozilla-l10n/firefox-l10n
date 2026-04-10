@@ -154,3 +154,5 @@ policy-WebsiteFilter = Ejoko ñanduti rendápe jeike. Emoñe’ẽ kuatiaita ehe
 policy-Windows10SSO = Emoneĩ tembiapo ñepyrũ Windows rupi Microsoft-pe, mba’apo ha mbo’ehaogua mba’ete.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Emoneĩ tembiapo ñepyrũ Microsoft Entra mba’etépe.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Embojuruja térã eipe’a ñepytyvõ API JavaScript XSLTProcessor mba’éva ha XSLT mbokatupyry rehegua.
