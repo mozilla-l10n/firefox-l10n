@@ -351,6 +351,20 @@ tab-group-editor-done =
     .accessKey = م
 tab-context-reopen-tab-group =
     .label = إعادة فتح مجموعة لسان
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] أزل من مجموعة
+            [zero] لا مجموعات لإزالة
+            [one] أزل من مجموعة
+            [two] أزل من المجموعات
+            [few] أزل من المجموعات
+            [many] أزل من المجموعات
+           *[other] أزل من المجموعات
+        }
+    .accesskey = ل
 # When a tab group containing the active tab is collapsed, the active tab
 # remains visible. An indicator appears at the end of the group showing the
 # number of remaining tabs that are hidden by the collapsed group,
