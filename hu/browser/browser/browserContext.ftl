@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Küldés mobilra
     .accesskey = m
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Lap küldéséhez engedélyezze a szinkronizálást
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Csatlakoztassa a telefonját
+main-context-menu-send-to-mobile-device-missing =
+    .label = Nem látja az eszközét?
 main-context-menu-save-to-pocket =
     .label = Oldal mentése a { -pocket-brand-name }be
     .accesskey = k

@@ -148,6 +148,13 @@ tab-context-send-to-mobile =
            *[other] { $tabCount } lap küldése mobilra
         }
     .accesskey = m
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Lap küldéséhez engedélyezze a szinkronizálást
+tab-context-send-to-mobile-connect-phone =
+    .label = Csatlakoztassa a telefonját
+tab-context-send-to-mobile-device-missing =
+    .label = Nem látja az eszközét?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

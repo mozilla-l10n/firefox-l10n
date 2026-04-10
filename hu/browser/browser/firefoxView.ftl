@@ -113,6 +113,8 @@ firefoxview-history-nav = Előzmények
 firefoxview-history-header = Előzmények
 firefoxview-history-context-delete = Törlés az előzményekből
     .accesskey = T
+firefoxview-history-context-forget-site = Webhely elfelejtése…
+    .accesskey = f
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

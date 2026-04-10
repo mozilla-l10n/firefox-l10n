@@ -146,6 +146,9 @@ newtab-menu-report = Jelentés
 newtab-menu-section-block = Tiltás
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Követés megszüntetése
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Téma követésének megszüntetése
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -601,6 +604,7 @@ newtab-section-confirm-block-topic-p2 = A blokkolt témák többé nem fognak me
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } blokkolása
+newtab-section-block-cancel-button = Mégse
 
 ## Strings for custom wallpaper highlight
 
@@ -664,6 +668,18 @@ newtab-toast-thanks-for-reporting =
     .message = Köszönjük, hogy bejelentette.
 newtab-toast-widgets-hidden =
     .message = Válassza a ceruza ikont, hogy bármikor újra kisalkalmazásokat adjon hozzá.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Mostantól követi a következőt: { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Már nem követi a következőt: { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Többé nem fog történeteket látni erről: { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -705,6 +721,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Új lista
 newtab-widget-section-title = Kisalkalmazások
 newtab-widget-menu-hide = Kisalkalmazás elrejtése
+newtab-widget-menu-change-size = Méret módosítása
+newtab-widget-size-small = Kicsi
+newtab-widget-size-medium = Közepes
+newtab-widget-size-large = Nagy
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Kisalkalmazások elrejtése

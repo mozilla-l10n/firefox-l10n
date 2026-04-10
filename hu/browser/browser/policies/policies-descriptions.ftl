@@ -154,3 +154,5 @@ policy-WebsiteFilter = Weboldalak felkeresésének blokkolása. Lásd a dokument
 policy-Windows10SSO = Lehetővé teszi a Windows egyszeri bejelentkezésének használatát a microsoftos, munkahelyi és iskolai fiókok számára.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Egyszeri bejelentkezés engedélyezése a Microsoft Entra-fiókokhoz.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Az XSLTProcessor JavaScript API és az XSLT feldolgozó utasítás támogatásának engedélyezése vagy letiltása.

@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Eszköztár testreszabása…
+appmenu-abouttranslations =
+    .label = Fordítás…
 appmenu-developer-tools-subheader = Böngészőeszközök
 appmenu-developer-tools-extensions =
     .label = Kiegészítők fejlesztőknek
