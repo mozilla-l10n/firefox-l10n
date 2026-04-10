@@ -22,6 +22,9 @@ inactive-css-not-multicol-container = <strong>{ $property }</strong> no tiene ef
 inactive-css-column-span = <strong>{ $property }</strong> no tiene efecto extensor en este elemento ya que no está dentro de un contenedor multicolumna.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un un ítem grid ni flex.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un elemento de cuadrícula o flexible, ni un elemento posicionado de forma absoluta.
+inactive-css-not-grid-or-absolutely-positioned-item = <strong>{ $property }</strong> no tiene efecto en este elemento, ya que no es un objeto de cuadrícula (grid item) ni un elemento posicionado de forma absoluta.
+inactive-css-not-absolutely-positioned-item = <strong>{ $property }</strong> no tiene efecto en este elemento, ya que no es un elemento posicionado de forma absoluta.
+inactive-css-no-default-anchor = <strong>{ $property }</strong> no tiene efecto en este elemento, ya que no tiene un elemento de anclaje (anchor) predeterminado.
 inactive-css-not-grid-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un ítem grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un contenedor grid.
 inactive-css-not-flex-item = <strong>{ $property }</strong> no tiene ningún efecto en este elemento ya que no es un ítem flex.
@@ -35,6 +38,8 @@ inactive-css-not-display-block-on-floated = El motor cambió el valor de <strong
 inactive-css-not-display-block-on-floated-2 = El valor de <strong>display</strong> ha sido cambiado por el motor a <strong>{ $display }</strong> porque el elemento es <strong>floated</strong>.
 inactive-css-only-non-grid-or-flex-item = <strong>{ $property }</strong> no tiene efecto porque no puede ser usado en elementos de cuadrícula o elementos flexibles.
 inactive-css-not-block = <strong>{ $property } </strong> no tiene efecto en este elemento porque solo se aplica a elementos a nivel de bloque.
+inactive-css-not-block-container = <strong>{ $property }</strong> no tiene efecto en este elemento porque solo se aplica a elementos contenedores de bloque.
+inactive-css-not-block-flex-grid-container = <strong>{ $property }</strong> no tiene efecto en este elemento porque solo se aplica a elementos contenedores de bloque, flex y grid.
 inactive-css-not-floated = <strong>{ $property }</strong> no tiene efecto porque solo se aplica a elementos flotantes.
 inactive-css-property-is-impossible-to-override-in-visited = No es posible anular <strong>{ $property }</strong> debido a la restricción <strong>:visited</strong>.
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento posicionado.
@@ -71,6 +76,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
     }
 inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> no tiene efecto en este elemento porque está fragmentado, ej: su contenido está dividido en múltiples columnas o páginas.
 inactive-css-no-width-height = <strong>{ $property }</strong> no tiene efecto en este elemento ya que su ancho y alto no pueden ser ajustados.
+inactive-css-no-principal-box = <strong>{ $property }</strong> no tiene efecto en este elemento, ya que no genera una caja principal (principal box).
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

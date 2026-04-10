@@ -113,6 +113,8 @@ firefoxview-history-nav = Historial
 firefoxview-history-header = Historial
 firefoxview-history-context-delete = Eliminar del historial
     .accesskey = E
+firefoxview-history-context-forget-site = Olvídate de este sitio…
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

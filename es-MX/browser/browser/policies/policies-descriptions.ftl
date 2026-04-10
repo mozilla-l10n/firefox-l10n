@@ -154,3 +154,5 @@ policy-WebsiteFilter = Bloquear sitios web de ser visitado. Consulta la document
 policy-Windows10SSO = Permitir inicio de sesión único de Windows para cuentas de Microsoft, el trabajo y la escuela.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permitir el inicio de sesión único para cuentas de Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Habilita o deshabilita el soporte para la API de JavaScript XSLTProcessor y la instrucción de procesamiento XSLT.
