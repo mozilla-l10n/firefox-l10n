@@ -410,6 +410,7 @@ tab-groups-onboarding-saved-groups-title-3 = عند إغلاق مجموعة أل
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ابحث عن مجموعاتك المغلقة عن طريق البحث عنها في شريط العناوين.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = يمكنك إعادة فتح مجموعات ألسنتك من قائمة "اسرد كل الألسنة" في أي وقت.
+tab-groups-onboarding-session-restore-title = يمكنك إعادة فتح مجموعات علاماتك هنا في أي وقت.
 tab-groups-onboarding-dismiss = حسنًا
 
 ## Multi Profiles feature onboarding messages
@@ -433,6 +434,7 @@ desktop-to-mobile-qr-code-alt =
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-flair = يُنصح به
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">اطّلع على المزيد</a>
 create-backup-screen-1-sync-label = زامن مع { -brand-product-name }
 create-backup-screen-1-backup-label = انسخ احتياطيًا على الحاسوب
@@ -487,6 +489,7 @@ fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } سيبحث 
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = استعد من النسخة الاحتياطية
+restore-from-backup-title = لنعد { -brand-short-name } كما تريد
 restore-from-backup-secondary-button = لا تستعيد
 multiple-backups-info-tile = <strong>عُثر على عدة ملفات نسخ احتياطي</strong>. حُدِّد أحدث ملف. لاستعادة الملفات الشخصية الأخرى، انتقل إلى <a data-l10n-name="settings-label">الإعدادات</a>.
 
