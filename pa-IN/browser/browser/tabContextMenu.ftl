@@ -136,6 +136,21 @@ tab-context-send-to-device =
            *[other] Send { $tabCount } Tabs to Device
         }
     .accesskey = { $tabCount } ਟੈਬਾਂ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] ਮੋਬਾਈਲ ਉੱਤੇ ਭੇਜੋ
+           *[other] { $tabCount } ਟੈਬਾਂ ਨੂੰ ਮੋਬਾਈਲ ਉੱਤੇ ਭੇਜੋ
+        }
+    .accesskey = n
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = ਟੈਬ ਭੇਜਣ ਲਈ ਸਿੰਕ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
+tab-context-send-to-mobile-connect-phone =
+    .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
+tab-context-send-to-mobile-device-missing =
+    .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਨਹੀਂ ਵੇਖ ਰਹੇ ਹੋ?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

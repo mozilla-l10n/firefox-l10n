@@ -1794,10 +1794,10 @@ trustpanel-list-label-tracking-cookies =
 trustpanel-list-label-tracking-content = Sledující obsah
 trustpanel-list-label-fingerprinter =
     { $count ->
-        [one] { $count } vytvoření otisku prohlížeče
-        [few] { $count } vytvoření otisků prohlížeče
-        [many] { $count } vytvoření otisků prohlížeče
-       *[other] { $count } vytvoření otisků prohlížeče
+        [one] { $count } vytváření otisku prohlížeče
+        [few] { $count } vytváření otisků prohlížeče
+        [many] { $count } vytváření otisků prohlížeče
+       *[other] { $count } vytváření otisků prohlížeče
     }
 trustpanel-list-label-social-tracking =
     { $count ->
