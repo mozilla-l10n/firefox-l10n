@@ -1855,7 +1855,7 @@ trustpanel-tracking-content-not-blocking-tab-header =
         [many] { -brand-product-name } povolil { $count } sledovacích prvků
        *[other] { -brand-product-name } povolil { $count } sledovacích prvků
     }
-trustpanel-tracking-content-tab-list-header = Tyto stránky se vás snaží sledovat:
+trustpanel-tracking-content-tab-list-header = Tyto weby se vás snaží sledovat:
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } zablokoval { $count } vytváření otisku prohlížeče

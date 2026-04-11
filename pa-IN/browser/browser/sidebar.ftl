@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = ਅਤੀਤ ਵਿੱਚੋਂ ਸਫ਼ਿਆਂ ਨੂੰ ਹਟਾਓ
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = …ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਓ
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = ਹਟਾਓ
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ
 sidebar-menu-cpm-header =
     .heading = ਪਾਸਵਰਡ
+sidebar-menu-bookmarks-header =
+    .heading = ਬੁੱਕਮਾਰਕ
 sidebar-panel-header-close-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = ਬੁੱਕਮਾਰਕ ਮੇਨੂ
+sidebar-bookmarks-folder-toolbar = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ
+sidebar-bookmarks-folder-other = ਹੋਰ ਬੁੱਕਮਾਰਕ
+sidebar-bookmarks-folder-mobile = ਮੋਬਾਈਲ ਬੁੱਕਮਾਰਕ
 
 ## Titles for sidebar menu panels.
 
