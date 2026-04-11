@@ -1873,7 +1873,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
 trustpanel-fingerprinter-list-header = Tyto weby se snaží vytvořit otisk vašeho prohlížeče:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
-        [one] { -brand-product-name } zablokoval { $count } těžku kryptoměn
+        [one] { -brand-product-name } zablokoval { $count } těžbu kryptoměn
         [few] { -brand-product-name } zablokoval { $count } těžby kryptoměn
         [many] { -brand-product-name } zablokoval { $count } těžeb kryptoměn
        *[other] { -brand-product-name } zablokoval { $count } těžeb kryptoměn
