@@ -241,3 +241,6 @@ privacy-metrics-social =
        *[other] { $count } ਸ਼ੋਸ਼ਲ ਟਰੈਕਰ
     }
 privacy-metrics-empty = ਇਸ ਹਫ਼ਤੇ ਕਿਸੇ ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਗਈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਨੇ ਤੁਹਾਨੂੰ ਅਗੇ ਦਿੱਤੇ ਖ਼ਤਰਿਆਂ ਤੋਂ ਬਚਾਇਆ ਹੈ।
+privacy-metrics-loading = …ਸੁਰੱਖਿਆ ਅੰਕੜੇ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
+privacy-metrics-error = ਸੁਰੱਖਿਆ ਅੰਕੜੇ ਲੋਡ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।
+privacy-metrics-private-window = { -brand-short-name } ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਵੀ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣਾ ਜਾਰੀ ਰੱਖਦਾ ਹੈ, ਪਰ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ, ਉਸ ਦਾ ਟਰੈਕ ਨਹੀਂ ਰੱਖਦਾ ਹੈ।
