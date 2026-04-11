@@ -124,10 +124,36 @@ ip-protection-learn-more = اطّلع على المزيد
 ip-protection-site-exceptions =
     .label = إعدادات خاصة بالموقع
 ip-protection-not-opted-in-button = ابدأ
+ip-protection-autostart =
+    .label = شغِّل VPN تلقائيًا
+ip-protection-autostart-checkbox =
+    .label = عندما أفتح { -brand-short-name }
+ip-protection-autostart-private-checkbox =
+    .label = في النوافذ الخاصة
+
+## IP Protection dialogs
+
+ip-protection-exceptions-dialog-window =
+    .title = أدِر إعدادات الموقع الإلكتروني
+ip-protection-exclusions-desc = استخدم VPN لجميع المواقع الإلكترونية باستثناء تلك الموجودة في هذه القائمة. أضف موقعًا إلكترونيًا من هنا أو عن طريق تشغيل VPN.
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header = بيانات VPN الشهرية
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } ج.بايت من أصل { $maxUsage } ج.بايت متبقية
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-this-month-mb = { $usageLeft } ج.بايت من أصل { $maxUsage } ج.بايت متبقية في هذا الشهر
+ip-protection-bandwidth-header-1 = حد البيانات الشهري
 
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-text = شغّل VPN لتعزيز خصوصيتك بشكل إضافي، مجانًا كل شهر.
+ipprotection-bandwidth-reset-button = فهمت
 
 ## IP Protection add-on breakage warnings
 
@@ -136,6 +162,11 @@ ipp-activator-breakage-turn-off-warning = <strong>قد لا يعمل هذا ال
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = توقف خدمة VPN مؤقتًا
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-paused-alert-body = لقد استهلكت كامل بيانات VPN الخاصة بك، والتي تبلغ { $maxUsage } ج.بايت. سيتم تصفير الوصول إلى VPN الشهر المقبل.
+vpn-paused-alert-close-tabs-button = أغلق كل الألسنة
 vpn-paused-alert-continue-wo-vpn-button = واصِل بدون VPN
 vpn-error-alert-title = خدمة VPN لا تعمل حاليًا.
 vpn-error-alert-body = حاول مجددًا لاحقًا.

@@ -392,6 +392,7 @@ onboarding-genai-sidebar-secondary-button = ابدأ التصفح
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = أكمل إعداد { -brand-short-name }
 onboarding-checklist-subtitle = أكمل هذه الخطوات للحصول على أقصى استفادة من تجربة تصفحك.
 onboarding-checklist-set-default = اضبط { -brand-short-name } ليكون متصفّحي المبدئي
 onboarding-checklist-pin = ثبّت { -brand-short-name } في شريط المهام
@@ -434,6 +435,7 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">اطّلع على المزيد</a>
 create-backup-screen-1-sync-label = زامن مع { -brand-product-name }
+create-backup-screen-1-backup-label = انسخ احتياطيًا على الحاسوب
 create-backup-screen-1-backup-body = يُحفظ على جهازك أو على OneDrive
 create-backup-select-tile-button-label = حدّد
 create-backup-back-button-label = السابق
@@ -490,6 +492,9 @@ multiple-backups-info-tile = <strong>عُثر على عدة ملفات نسخ ا
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-title = لقد عدنا! اُستعيدت بيانات { -brand-short-name } الخاصة بك.
+restored-from-backup-success-with-checklist-subtitle = أتريد أن يبقى متصفحك المفضل الذي يركز على الخصوصية على بُعد نقرة واحدة؟
+restored-from-backup-success-no-checklist-subtitle = يمكنك تشغيل النسخ الاحتياطي لهذا الجهاز في <a data-l10n-name="settings">الإعدادات</a>.
 restored-from-backup-success-with-checklist-primary-button = احفظ و واصِل
 restored-from-backup-success-with-checklist-secondary-button = تجاوز هذه الخُطوة
 restored-from-backup-success-no-checklist-primary-button = واصِل
