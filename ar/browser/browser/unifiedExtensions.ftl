@@ -17,7 +17,7 @@ unified-extensions-empty-reason-private-browsing-not-allowed = لديك امتد
 unified-extensions-empty-reason-extension-not-enabled = لديك امتدادات مثبتة، ولكنها غير مفعّلة
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = ارتقِ بتجربة تصفحك باستخدام الإمتدادت.
-unified-extensions-empty-content-explain-enable2 = حدد “{ unified-extensions-manage-extensions.label }” لتفعيلها في الإعدادات.
+unified-extensions-empty-content-explain-enable2 = حدّد “{ unified-extensions-manage-extensions.label }” لتفعيلها في الإعدادات.
 unified-extensions-empty-content-explain-manage2 = حدّد “{ unified-extensions-manage-extensions.label }” لإدارتها في الإعدادات.
 unified-extensions-empty-content-explain-extensions-onboarding = خصّص { -brand-short-name } عن طريق تغيير مظهره وأدائه أو تعزيز الخصوصية والأمان.
 
@@ -65,10 +65,22 @@ unified-extensions-mb-quarantined-domain-learn-more = اطّلع على المز
 unified-extensions-mb-about-addons-link = انتقل إلى إعدادات الامتدادة
 # Variables:
 #   $extensionName (String) - Name of the extension disabled through a soft-block.
+unified-extensions-mb-blocklist-warning-single2 =
+    .heading = { $extensionName } معطّل
+    .message =
+        هذه الامتداداة مقيدة ومعطّلة.
+        يمكنك تفعيلها من الإعدادات، ولكن قد ينطوي ذلك على مخاطرة.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a soft-block.
 unified-extensions-mb-blocklist-warning-single =
     .heading = { $extensionName } معطّل
     .message =
         هذه الامتدادة تنتهك سياسات Mozilla وعُطّلت.
         يمكنك تفعيلها من الإعدادات، ولكن قد ينطوي ذلك على مخاطرة.
+# Variables:
+#   $extensionName (String) - Name of the extension disabled through a hard-block.
+unified-extensions-mb-blocklist-error-single =
+    .heading = { $extensionName } معطّل
+    .message = هذه الامتدادة تنتهك سياسات Mozilla وعُطّلت.
 unified-extensions-notice-safe-mode =
     .message = عُطِّل جميع الإمتدادت بواسطة وضع استكشاف الأخطاء وإصلاحها.

@@ -454,14 +454,18 @@ fx-backup-confirmation-screen-close-button = أغلق
 fx-backup-confirmation-screen-all-data-item-text-1 = جميع بيانات التصفح مضمّنة
 fx-backup-confirmation-screen-all-data-item-text-2 = حُفظ إلى جهازك
 fx-backup-confirmation-screen-all-data-item-text-3 = مُعمّى ومحمي بكلمة سر
+fx-backup-confirmation-screen-easy-setup-item-text-1 = العلامات والتأريخ والإعدادات وغيرها من البيانات المضمّنة
 fx-backup-confirmation-screen-easy-setup-item-text-2 = حُفظ إلى جهازك
 fx-backup-confirmation-screen-easy-setup-item-text-3 = لا يشمل ذلك كلمات السر والمدفوعات
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = انتقل إلى <a data-l10n-name="settings">الإعدادات</a> لتضمين البيانات الحساسة.
+fx-backup-confirmation-screen-item-subtext-1 = ستبدأ عملية النسخ الاحتياطي خلال دقائق قليلة، وستُجرى مرة واحدة يوميًا. يمكنك متابعة التقدم في <a data-l10n-name="settings">الإعدادات</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } سيبحث عن نسختك الاحتياطية إذا كنت بحاجة إلى إعادة التثبيت.
 
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = استعد من النسخة الاحتياطية
 restore-from-backup-secondary-button = لا تستعيد
+multiple-backups-info-tile = <strong>عُثر على عدة ملفات نسخ احتياطي</strong>. حُدِّد أحدث ملف. لاستعادة الملفات الشخصية الأخرى، انتقل إلى <a data-l10n-name="settings-label">الإعدادات</a>.
 
 ## Restored from Backup spotlight
 
@@ -473,7 +477,9 @@ restored-from-backup-error-primary-button = أغلق
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = خصّص تجربتك في { -brand-short-name }
 onboarding-personalization-subtitle = أجب عن بعض الأسئلة وسنوصي بميزات وإضافات لتحسين استخدامك لـ { -brand-short-name }.
+onboarding-personalization-use-case-title = ما غرضك مِن استخدام { -brand-short-name }؟
 onboarding-personalization-use-case-personal-option = شخصي
 onboarding-personalization-use-case-school-option = مدرسة
 onboarding-personalization-use-case-work-option = عمل
@@ -484,6 +490,17 @@ onboarding-personalization-motivation-other-option = أخرى
 
 ## Onboarding 2026 brand refresh
 
-onboarding-refresh-onboarding-addons-subtitle = الإمتدادات عبارة عن تطبيقات صغيرة تتيح لك تخصيص { -brand-short-name }. يمكنها تعزيز خصوصيتك، وتحسين الإنتاجية، وتغيير مظهر { -brand-short-name }، وغير ذلك الكثير.
+onboarding-refresh-pin-set-default-subtitle = نحن نحمي بياناتك ونمنع الشركات من التجسس على نقراتك - تلقائيًا.
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = أنت في أيدٍ أمينة
+onboarding-refresh-import-subtitle = انقل كلمات سرك وعلاماتك وتأريخك وغيرها.
+onboarding-refresh-import-title = اجعل { -brand-short-name } يشعرك وكأنك في بيتك
+onboarding-refresh-onboarding-addons-subtitle = الامتدادات عبارة عن تطبيقات صغيرة تتيح لك تخصيص { -brand-short-name }. يمكنها تعزيز خصوصيتك، وتحسين الإنتاجية، وتغيير مظهر { -brand-short-name }، وغير ذلك الكثير.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = امنح متصفحك دفعة قوية
+onboarding-refresh-sync-subtitle = احفظ العلامات وكلمات السر وغيرها في أي مكان ولِجت فيه إلى { -brand-short-name }. بالإضافة إلى ذلك، بياناتك مُعمّاة بحيث لا يمكن لأحد سواك رؤيتها.
+onboarding-refresh-sync-title = اذهب إلى أي مكان. زامن كل شيء.
+onboarding-refresh-gratitude-subtitle = نشكرك على استخدامك { -brand-short-name }، المتصفح الرئيسي الوحيد المدعوم من مؤسسة غير ربحية. بدعمك، نعمل على جعل الإنترنت أكثر أمانًا وسهولة في الوصول إليه للجميع.
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } يدعمك
