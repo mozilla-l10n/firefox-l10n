@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Araç çubuğunu özelleştir…
+appmenu-abouttranslations =
+    .label = Çevir…
 appmenu-developer-tools-subheader = Tarayıcı araçları
 appmenu-developer-tools-extensions =
     .label = Geliştiricilere özel uzantılar

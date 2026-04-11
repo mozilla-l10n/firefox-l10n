@@ -154,3 +154,5 @@ policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgi
 policy-Windows10SSO = Microsoft, iş ve okul hesapları için Windows çoklu oturum açmaya izin ver.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Microsoft Entra hesapları için çoklu oturum açmaya (SSO) izin ver.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = XSLTProcessor JavaScript API’si ve XSLT işleme yönergesi desteğini etkinleştir veya devre dışı bırak.

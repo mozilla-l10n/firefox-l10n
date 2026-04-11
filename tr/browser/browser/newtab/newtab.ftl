@@ -146,6 +146,9 @@ newtab-menu-report = Raporla
 newtab-menu-section-block = Engelle
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Takibi bırak
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Konuyu takip etmeyi bırak
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -597,6 +600,7 @@ newtab-section-confirm-block-topic-p2 = Engellenen konular artık akışınızda
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } konusunu engelle
+newtab-section-block-cancel-button = Vazgeç
 
 ## Strings for custom wallpaper highlight
 
@@ -660,6 +664,18 @@ newtab-toast-thanks-for-reporting =
     .message = Raporunuz için teşekkür ederiz.
 newtab-toast-widgets-hidden =
     .message = Araçları istediğiniz zaman geri eklemek için kalem simgesine tıklayın.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = { $topic } konusunu takip etmeye başladınız.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = { $topic } konusunu artık takip etmiyorsunuz.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Artık { $topic } konusuyla ilgili haberleri görmeyeceksiniz.
 
 ## Strings for task / to-do list productivity widget
 
@@ -701,6 +717,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Yeni liste
 newtab-widget-section-title = Araçlar
 newtab-widget-menu-hide = Aracı gizle
+newtab-widget-menu-change-size = Boyutu değiştir
+newtab-widget-size-small = Küçük
+newtab-widget-size-medium = Orta
+newtab-widget-size-large = Büyük
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Araçları gizle
