@@ -8,6 +8,7 @@
 preonboarding-title = مرحبا بك في { -brand-product-name }
 preonboarding-subtitle = بمواصلتك، فإنك توافق على شروط استخدام { -brand-product-name } وتنويه الخصوصية الخاص بنا. لتحسين المتصفح، يرسل { -brand-product-name } بيانات التشخيص والتفاعل إلى { -vendor-short-name }.
 preonboarding-primary-cta = تأكيد ومتابعة
+preonboarding-primary-cta-v2 = واصِل
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = إدارة إعدادات جمع البيانات وقراءة شروط الاستخدام وتنويه الخصوصية الخاص بنا
 preonboarding-manage-and-read-header-v2 = اقرأ شروط الاستخدام وتنويه الخصوصية. أدِر الإعدادات الإضافية.
@@ -19,6 +20,7 @@ preonboarding-privacy-notice-header-button-title = اطلع على تنويه ا
 preonboarding-manage-data-header-button-title = إدارة بيانات التشخيص والتفاعل
 # Labels for header style button that toggles showing the Terms of Use (Variant B)
 preonboarding-terms-of-use-header-button-title-b = شروط استخدام { -brand-product-name }
+preonboarding-terms-of-use-header-button-title-b-v2 = شروط الاستخدام
 # Labels for header style button that toggles showing the Privacy Notice (Variant B)
 preonboarding-privacy-notice-header-button-title-b = تنويه خصوصية { -brand-product-name }
 preonboarding-privacy-notice-header-button-title-b-v2 = تنويه الخصوصية

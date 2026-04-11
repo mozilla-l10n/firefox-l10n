@@ -8,6 +8,8 @@ profiles-create = أنشئ لاحة جديدة
 profiles-restart-title = أعِد التشغيل
 profiles-restart-in-safe-mode = أعِد التشغيل مع تعطيل الإضافات…
 profiles-restart-normal = أعد التشغيل في الوضع العادي…
+profiles-flush-fail-title = لم تُحفظ التغييرات
+profiles-flush-failed = حدث خطأ غير متوقع حال دون حفظ التغييرات التي أجريتها.
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = ملف شخصي: { $name }

@@ -23,6 +23,15 @@ about-logging-new-log-modules = وحدات سجل جديدة:
 
 about-logging-preset-custom-label = مخصّص
 
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+
+about-logging-upload-question = جُمّع بيانات الملف الشخصي. أتريد حفظها أم رفعها؟
+about-logging-save-button = احفظ
+# Variables:
+#   $path (string) - The path where the profile can be found.
+about-logging-saved = حُفظ في { $path }
+
 ## Uploaded Profiles section
 
 about-logging-delete-uploaded-profile = احذف

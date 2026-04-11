@@ -113,6 +113,8 @@ firefoxview-history-nav = Geçmiş
 firefoxview-history-header = Geçmiş
 firefoxview-history-context-delete = Geçmişten sil
     .accesskey = G
+firefoxview-history-context-forget-site = Bu siteyi unut…
+    .accesskey = u
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -241,7 +243,7 @@ firefoxview-recentlyclosed-empty-description-two = Daha önceden kapattığını
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Bu cihazda açık sekme yok
-firefoxview-syncedtabs-connect-another-device = Başka bir cihaz bağlayın
+firefoxview-syncedtabs-connect-another-device = Başka bir cihaz bağla
 firefoxview-pinned-tabs =
     .title = Sabitlenmiş sekmeler
 firefoxview-tabs =

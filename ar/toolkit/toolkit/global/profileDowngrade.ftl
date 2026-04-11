@@ -8,6 +8,7 @@ profiledowngrade-window2 =
 profiledowngrade-window-create =
     .label = أنشِئ ملفًا شخصيًا
 profiledowngrade-sync = يمكن باستعمال النسخة الأقدم من { -brand-product-name } أن تعطب العلامات وتأريخ التصفّح المحفوظان في ملف { -brand-product-name } الموجود الآن. إن أردت حماية معلوماتك هذه فأنشِئ ملف شخصي جديد لهذه النسخة من { -brand-short-name }. يمكنك متى أردت الولوج عبر { -fxaccount-brand-name } لمزامنة العلامات وتأريخ التصفّح بين الملفات الشخصية.
+profiledowngrade-sync2 = قد يؤدي استخدام إصدار قديم من { -brand-product-name } إلى تلف العلامات وتأريخ التصفح المحفوظين مسبقًا في الملف الشخصي { -brand-product-name }. لحماية معلوماتك، أنشئ ملف شخصي جديدًا لهذا الإصدار من { -brand-short-name }. يمكنك دائمًا الولوج باستخدام حسابك لمزامنة علاماتك وتأريخ التصفح بين الملفات الشخصية.
 profiledowngrade-nosync = يمكن باستعمال النسخة الأقدم من { -brand-product-name } أن تعطب العلامات وتأريخ التصفّح المحفوظان في ملف { -brand-product-name } الموجود الآن. إن أردت حماية معلوماتك هذه فأنشِئ ملف شخصي جديد لهذه النسخة من { -brand-short-name }.
 profiledowngrade-quit =
     .label =
