@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = …ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
+appmenu-abouttranslations =
+    .label = …ਅਨੁੁਵਾਦ ਕਰੋ
 appmenu-developer-tools-subheader = ਬਰਾਊਜ਼ਰ ਟੂਲ
 appmenu-developer-tools-extensions =
     .label = ਡਿਵੈਲਪਰਾਂ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ
