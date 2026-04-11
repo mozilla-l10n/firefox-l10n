@@ -667,6 +667,14 @@ newtab-toast-thanks-for-reporting =
     .message = Takk for at du rapporterte dette.
 newtab-toast-widgets-hidden =
     .message = Vel blyantikonet for å leggje til widgetar igjen, når som helst.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Du følgjer no { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Du følgjer ikkje lenger { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -708,6 +716,7 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny liste
 newtab-widget-section-title = Widgetar
 newtab-widget-menu-hide = Skjul widget
+newtab-widget-menu-change-size = Endre storleik
 newtab-widget-size-small = liten
 newtab-widget-size-medium = middels
 newtab-widget-size-large = Stor
