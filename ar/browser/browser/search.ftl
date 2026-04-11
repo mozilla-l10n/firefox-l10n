@@ -39,7 +39,7 @@ remove-search-engine-button = حسنًا
 ## $newEngine (String) - the name of the new default search engine.
 
 reset-search-settings-message = بسبب مشكلة تقنية، غُيِّر محرك البحث المبدئي لديك إلى { $newEngine }. لتغيير محرك البحث المبدئي، انتقل إلى الإعدادات.
-reset-search-settings-button = حسنا
+reset-search-settings-button = حسنًا
 
 ## Infobar shown when user is prompted to install search engine.
 ## Variables

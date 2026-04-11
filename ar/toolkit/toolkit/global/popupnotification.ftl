@@ -5,6 +5,9 @@
 popup-notification-learn-more = اطّلع على المزيد
 popup-notification-more-actions-button =
     .aria-label = إجراءات أكثر
+popup-notification-default-button2 =
+    .label = حسنًا
+    .accesskey = ن
 popup-notification-default-button =
-    .label = موافق
-    .accesskey = م
+    .label = حسنًا!
+    .accesskey = ن

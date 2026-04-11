@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = استخدم الملف الشخصي المحدد دون سؤال عند بدء التشغيل
     .accesskey = س
 profile-has-selectable-profiles-title = لا يمكن حذف ملف شخصي مرتبط بملفات شخصية أخرى
+profile-has-selectable-profiles-message = لحذف هذا الملف الشخصي، افتحه واختر "أدِر الملفات الشخصية" من قسم الملفات الشخصية في قائمة { -brand-short-name }. بعد حذف أي ملفات شخصية إضافية أنشأتها هنا، يمكنك العودة إلى صفحة about:profiles وحذف هذا الملف الشخصي.

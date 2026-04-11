@@ -303,6 +303,7 @@ effective-content-sandbox-level = مستوى عزل سيرورة المحتوى 
 sandbox-proc-type-content = محتوى
 sandbox-proc-type-file = محتوى الملف
 sandbox-proc-type-media-plugin = ملحقة وسائط
+startup-cache-ignore-disk-cache = تجاهل ذاكرة التخزين المؤقت للقرص
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -338,3 +339,7 @@ policies-error = خطأ
 ## Printing section
 
 support-printing-modified-settings = إعدادات الطباعة المعدّلة
+
+## Remote Settings sections
+
+support-remote-settings-status-ok = حسنًا
