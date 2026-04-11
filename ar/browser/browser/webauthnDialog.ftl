@@ -50,3 +50,7 @@ webauthn-uv-blocked-prompt = فشل التحقق من المستخدم على { 
 webauthn-already-registered-prompt = هذا الجهاز مُسجَّل مُسبقًا. جرِّب جهازًا آخر.
 webauthn-cancel = ألغِ
     .accesskey = غ
+webauthn-allow = اسمح
+    .accesskey = م
+webauthn-block = احجب
+    .accesskey = ح

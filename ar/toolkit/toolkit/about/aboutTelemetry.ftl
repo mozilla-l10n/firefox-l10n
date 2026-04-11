@@ -17,6 +17,7 @@ about-telemetry-next-ping = <<
 about-telemetry-page-title = البيانات المُؤقتة
 about-telemetry-more-information = هل تبحث عن معلومات إضافية؟
 about-telemetry-firefox-data-doc = تجد في <a data-l10n-name="data-doc-link">توثيق بيانات Firefox</a> أدلّة تُخبرك بكيف تعمل مع أدوات البيانات التي نقدّمها.
+about-telemetry-telemetry-dashboard = تتيح لك لوحات معلومات القياس عن بُعد <a data-l10n-name="dashboard-link">Telemetry</a> تصور البيانات التي تتلقاها Mozilla عبر القياس عن بُعد.
 about-telemetry-show-in-Firefox-json-viewer = افتح في عارض JSON
 about-telemetry-home-section = البداية
 about-telemetry-general-data-section = بيانات عامة

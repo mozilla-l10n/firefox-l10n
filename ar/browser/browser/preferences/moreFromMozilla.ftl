@@ -11,6 +11,7 @@ more-from-moz-category =
 more-from-moz-subtitle = اطلع على منتجات { -vendor-short-name } الأخرى التي تعمل لدعم إنترنت صحي.
 more-from-moz-firefox-mobile-title = متصفّح { -brand-product-name } للمحمول
 more-from-moz-firefox-mobile-description = متصفّح المحمول الذي يضع خصوصيتك أولاً وقبل كل شيء.
+more-from-moz-firefox-mobile-title-1 = { -brand-product-name } للجوّال
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = اكتشف طبقة إضافية من التصفح المجهول والحماية.
 more-from-moz-qr-code-box-firefox-mobile-title = نزّله بجهازك المحمول. ثم صوّر رمز QR بالكمرة وانقر على الرابط الذي سيظهر.
@@ -38,6 +39,7 @@ more-from-moz-mozilla-monitor-button = احصل على { -monitor-brand-short-na
 more-from-moz-solo-title = { -solo-ai-brand-name } الذكاء الاصطناعي
 more-from-moz-solo-description = أنشئ موقع الوِب الخاص بك على الفور ووصّل نطاقك المخصص مجانًا.
 more-from-moz-solo-button = جرّب { -solo-ai-brand-name }
+more-from-moz-solo-title-2 = { -solo-ai-brand-name } صانع موقع وِب يعمل بالذكاء الاصطناعي
 
 ## These strings are for the MDN card in about:preferences moreFromMozilla page
 

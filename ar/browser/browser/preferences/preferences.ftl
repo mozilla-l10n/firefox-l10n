@@ -1165,6 +1165,8 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = المزامنة: مفعلة
+prefs-syncing-on-2 =
+    .label = المزامنة مفعّلة
 prefs-syncing-off = المزامنة: معطلة
 prefs-sync-turn-on-syncing =
     .label = فعّل المزامنة…
@@ -1192,6 +1194,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = أنت تُزامن هذه العناصر عبر جميع أجهزتك المتصلة:
+sync-syncing-across-devices-heading-2 = البيانات المزامنة عبر الأجهزة
 sync-currently-syncing-bookmarks = العلامات
 sync-currently-syncing-history = التأريخ
 sync-currently-syncing-tabs = الألسنة المفتوحة
