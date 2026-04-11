@@ -113,6 +113,8 @@ firefoxview-history-nav = História
 firefoxview-history-header = História
 firefoxview-history-context-delete = Odstrániť z histórie
     .accesskey = d
+firefoxview-history-context-forget-site = Zabudnúť na túto stránku…
+    .accesskey = Z
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

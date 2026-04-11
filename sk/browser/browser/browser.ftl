@@ -410,6 +410,9 @@ quickactions-cmd-help = pomocník, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvoriť Nástroje pre vývojárov
 quickactions-cmd-inspector2 = inšpektor, inspector, devtools, vývojárske nástroje
+# Opens Firefox Library
+quickactions-cmd-library = knižnica
+quickactions-library = Otvoriť knižnicu
 quickactions-cmd-inspector = prieskumník, vývojárske nástroje
 # Opens about:logins
 quickactions-logins2 = Spravovať heslá

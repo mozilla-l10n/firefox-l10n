@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Odoslať do mobilu
     .accesskey = m
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Povoliť synchronizáciu a odoslanie karty
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Pripojiť telefón
+main-context-menu-send-to-mobile-device-missing =
+    .label = Nevidíte svoje zariadenie?
 main-context-menu-save-to-pocket =
     .label = Uložiť stránku do { -pocket-brand-name(case: "gen") }
     .accesskey = k

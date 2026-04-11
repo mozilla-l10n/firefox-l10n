@@ -42,6 +42,13 @@ fxa-menu-send-to-mobile =
             [many] Odoslať { $tabCount } kariet do mobilu
            *[other] Odoslať { $tabCount } kariet do mobilu
         }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = Povoliť synchronizáciu a odoslanie karty
+fxa-menu-send-to-mobile-connect-phone =
+    .label = Pripojiť telefón
+fxa-menu-send-to-mobile-device-missing =
+    .label = Nevidíte svoje zariadenie?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

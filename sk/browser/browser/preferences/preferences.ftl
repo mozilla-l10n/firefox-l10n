@@ -1138,11 +1138,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizácia
+account-group-label2 =
+    .label = Účet
+account-placeholder2 =
+    .label = Nie ste prihlásený
+    .description = Prihláste sa a udržujte svoje údaje súkromné, šifrované a okamžite dostupné všade, kde používate { -brand-short-name(case: "acc") }.
 account-group-label =
     .label = Účet { -vendor-short-name }
 account-placeholder =
     .label = Nie ste prihlásený
     .description = Prihláste sa, aby vaše údaje zostali súkromné, šifrované a synchronizované medzi zariadeniami.
+account-sync-section =
+    .heading = Účet a synchronizácia
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1265,6 +1272,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synchronizujete tieto položky vo všetkých pripojených zariadeniach:
 sync-syncing-across-devices-heading-2 = Údaje synchronizované medzi zariadeniami
+sync-syncing-across-devices-empty-state2 =
+    .label = Spravovať synchronizované údaje
+    .description = Zatiaľ nič nesynchronizujete… Spustite synchronizáciu, aby ste mali všetky svoje údaje na všetkých svojich zariadeniach.
 sync-syncing-across-devices-empty-state =
     .label = Zatiaľ nič nesynchronizujete…
     .description = Spustite synchronizáciu, aby ste mali všetky svoje údaje na všetkých svojich zariadeniach.
@@ -1284,6 +1294,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Spravovať synchronizované údaje
     .accesskey = r
+settings-sync-disconnect-button =
+    .label = Odpojiť
 sync-change-options =
     .label = Zmeniť…
     .accesskey = Z

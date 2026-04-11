@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Upraviť panel nástrojov…
+appmenu-abouttranslations =
+    .label = Preložiť…
 appmenu-developer-tools-subheader = Nástroje prehliadača
 appmenu-developer-tools-extensions =
     .label = Rozšírenia pre vývojárov

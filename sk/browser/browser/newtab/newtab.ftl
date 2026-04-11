@@ -146,6 +146,9 @@ newtab-menu-report = Nahlásiť
 newtab-menu-section-block = Blokovať
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Prestať sledovať
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Prestať sledovať tému
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -599,6 +602,7 @@ newtab-section-confirm-block-topic-p2 = Zablokované témy sa už nebudú zobraz
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokovať { $topic }
+newtab-section-block-cancel-button = Zrušiť
 
 ## Strings for custom wallpaper highlight
 
@@ -662,6 +666,18 @@ newtab-toast-thanks-for-reporting =
     .message = Ďakujeme za nahlásenie.
 newtab-toast-widgets-hidden =
     .message = Vyberte ikonu ceruzky a kedykoľvek znova pridajte miniaplikácie.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Teraz sledujete tému { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Už viac nesledujete tému { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Už sa vám nebudú zobrazovať články z témy { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -703,6 +719,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nový zoznam
 newtab-widget-section-title = Miniaplikácie
 newtab-widget-menu-hide = Skryť miniaplikáciu
+newtab-widget-menu-change-size = Zmeniť veľkosť
+newtab-widget-size-small = Malá
+newtab-widget-size-medium = Stredná
+newtab-widget-size-large = Veľká
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Skryť miniaplikácie
