@@ -66,18 +66,28 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = خيارات أكثر
 
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = لقد سجلت خروجك. انقر على أيقونة للولوج.
+
 ## Bookmarks toolbar callout strings
 
 bookmarks-toolbar-callout-1-title = أتريد إضافة هذا الموقع إلى شريط العلامات؟
+bookmarks-toolbar-callout-1-subtitle = ستُحفظ علامتك أسفل شريط العنوان مباشرةً للوصول السريع.
 bookmarks-toolbar-callout-1-primary-button-label = أضِف علامة
 bookmarks-toolbar-callout-1-secondary-button-label = لا، شكرًا
 # Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2a-title = أضف المزيد من العلامات بسهولة
+bookmarks-toolbar-callout-2a-subtitle = يمكنك سحب وإفلات الألسنة هنا لإبقاء المزيد من مواقعك المفضلة في متناول يدك.
 bookmarks-toolbar-callout-2a-primary-button-label = فهمت
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = أخفِ شريط الأدوات
 # Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
 bookmarks-toolbar-callout-2b-title = أبقِ شريط أدوات العلامات مفتوحًا؟
+bookmarks-toolbar-callout-2b-subtitle = يمكنك إضافة مواقع أخرى تزورها بشكل متكرر. ما عليك سوى سحب وإفلات الألسنة هنا لإبقاء مواقعك المفضلة في متناول يدك.
 bookmarks-toolbar-callout-2b-primary-button-label = أبقِ مفتوحًا
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = لا، شكرًا
@@ -85,6 +95,9 @@ bookmarks-toolbar-callout-2b-secondary-button-label = لا، شكرًا
 ## Perplexity callout strings
 
 perplexity-callout-theme-1-title = تحتاج إلى الإجابة الصحيحة على الفور؟
+perplexity-callout-theme-2-title = جرّب Perplexity: طريقة جديدة للبحث
+perplexity-callout-theme-1-subtitle-1 = جرّب موقع Perplexity. اختره من زر البحث عندما تريد إجابات كاملة، بما في ذلك المصادر.
+perplexity-callout-theme-1-subtitle-2 = اطرح أسئلة. احصل على إجابات كاملة وموثقة. لتجربة Perplexity، اخترها من زر البحث.
 perplexity-callout-theme-2-subtitle-1 = اسأل Perplexity. ستحصل على إجابات شاملة، مع مصادر مُضمّنة.
 perplexity-callout-theme-2-subtitle-2 = اطرح أسئلة. احصل على إجابات كاملة وموثقة.
 perplexity-callout-primary-label = اسأل Perplexity
@@ -109,6 +122,7 @@ fxa-adoption-passwords-primary-button-label = سجّل حسابًا
 
 ## Taskbar Tabs callout strings
 
+taskbar-tabs-social-callout-title = احتفظ بموجزاتك المفضلة في شريط المهام
 taskbar-tabs-chat-callout-title = دردشة من شريط المهام
 taskbar-tabs-chat-callout-subtitle = شغِّل مواقع الدردشة الخاصة بك كتطبيق في نافذة مبسطة محمية بواسطة { -brand-short-name }.
 taskbar-tabs-email-callout-title = احتفظ ببريدك الإلكتروني في شريط المهام
@@ -116,6 +130,7 @@ taskbar-tabs-value-prop-callout-title = أضف هذا الموقع إلى شري
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-subtitle-1 = مزامن الآن للحفاظ على علاماتك وكلمات سرك والإعدادات الخاصة بعلامتك التجارية { -brand-short-name } آمنة وسهلة الاستعادة.
 windows-10-eos-sync-urgency-subtitle-2 = حتى لو لم تستخدم { -brand-short-name } يوميًا، زامِن للحفاظ على علاماتك وكلمات السر آمنة ويمكن الوصول إليها.
 windows-10-eos-sync-new-device-title-1 = لا تخاطر بالبدء من جديد على جهازك التالي.
 windows-10-eos-sync-new-device-title-2 = هل تنتقل إلى جهاز جديد؟ لا تفقد ما يهمك.
@@ -139,10 +154,12 @@ sidebar-deprecation-cta-button = جرّبه الآن
 
 ## Sidebar Vertical Tabs Strings
 
+vertical-tabs-callout-1-title = هل تشعر بالإرهاق من كثرة الألسنة؟
 vertical-tabs-callout-1-subtitle = جرّب تصميم الألسنة العمودية الجديدة لتصفح قائمة الألسنة بسرعة. أفاد المستخدمون الأوائل أن هذا التصميم يساعدهم على الشعور بمزيد من التنظيم. يمكنك التبديل في أي وقت.
 vertical-tabs-callout-1-cta-button = جرّب الألسنة العمودية
 vertical-tabs-callout-2-cta-button = جرّب الآن
 vertical-tabs-callout-2-title = هل تُبقي الكثير من الألسنة مفتوحة؟ جرّب الألسنة العمودية.
+vertical-tabs-callout-2-subtitle = يُسهّل هذا التصميم استعراض قائمة ألسنتك بسرعة. كما يمكنك تعديل العرض لعرض المزيد أو الأقل من عناوين ألسنتك.
 
 ## Sidebar Vertical Tabs Pinning Strings
 
@@ -157,6 +174,7 @@ pin-tabs-callout-cta-2-button = ثبّت هذا اللسان
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = الشريط الجانبي: مكانك للأدوات والألسنة
+sidebar-customization-callout-1-subtitle = يمنحك الشريط الجانبي { -brand-product-name } وصولاً سريعًا إلى تأريخ تصفحك وألسنتك من الأجهزة الأخرى، وروبوت الدردشة المدعوم بالذكاء الاصطناعي - كل ذلك دون مغادرة العرض الرئيسي.
 sidebar-customization-callout-callout-button = خصّص الشريط الجانبي
 sidebar-customization-callout-dismiss-button = أخفِ الشريط الجانبي
 sidebar-customization-callout-2-title = اجعل الشريط الجانبي { -brand-product-name } خاصًا بك
@@ -165,6 +183,7 @@ sidebar-customization-callout-2-subtitle = أضف أدوات وأزلها. ضع 
 ## Sidebar Callout Survey Strings
 
 sidebar-callout-survey-title = ساعد في تحسين { -brand-short-name }
+sidebar-callout-survey-satisfaction-question = ما مدى رضاك عن تجربة الشريط الجانبي في { -brand-short-name }؟
 sidebar-callout-survey-privacy-notice-link = تنويه الخصوصية
 sidebar-callout-survey-very-satisfied = راضٍ جدًا
 sidebar-callout-survey-satisfied = راضٍ
@@ -180,8 +199,10 @@ sidebar-callout-survey-strongly-agree = أوافق بشدة
 sidebar-callout-survey-agree = أوافق
 sidebar-callout-survey-disagree = لا أوافق
 sidebar-callout-survey-strongly-disagree = لا أوافق أبدًا
+sidebar-callout-survey-features-question = فيما يلي بعض الميزات المحتملة للشريط الجانبي. أيها سيُحسّن إنتاجيتك في { -brand-short-name } أكثر من غيره؟
 sidebar-callout-survey-split-view = اعرض أي موقعين على الوِب في منظور منقسم جنبًا إلى جنب في نفس الوقت
 sidebar-callout-survey-keep-website-open = أبقِ موقعًا إلكترونيًا، مثل البريد الإلكتروني أو التقويم، مفتوحًا في الشريط الجانبي أثناء التصفح.
+sidebar-callout-survey-saved-websites-2 = وصول السريع إلى علاماتك
 sidebar-callout-survey-none-of-above = لا شيء مما سبق
 sidebar-callout-survey-submit = أرسِل
 sidebar-callout-survey-thank-you = شكرًا على تعليقك!
