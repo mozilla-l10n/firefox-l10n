@@ -308,6 +308,7 @@ tail-fox-spotlight-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-title = ਬਿਲਟ-ਇਨ ਪਰਦੇਦਾਰੀ ਦਾ ਆਨੰਦ ਮਾਣੋ
 welcome-back-spotlight-subtitle = ਸਿਰਫ਼ ਇੱਕੋ-ਇੱਕ ਪ੍ਰਮੁੱਖ ਬਰਾਊਜ਼ਰ ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ, ਜੋ ਕਿ ਗ਼ੈਰ-ਮੁਨਾਫਾ ਸੰਸਥਾ ਵਲੋਂ ਤਿਆਰ ਕੀਤਾ ਹੈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਆਪਣੇ ਖੇਤਰ ਤੋਂ ਬਾਹਰ ਹੁੰਦੇ ਹੋ ਤਾਂ ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂਂ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਵਾਧੂ ਯਤਨ ਕਰਦੇ ਹਾਂ।
 welcome-back-embedded-import-title = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ ਅਤੇ { -brand-short-name } ਨੂੰ ਆਪਣੀ ਸਹੂਲਤ ਮੁਤਾਬਕ ਬਣਾਓ
 

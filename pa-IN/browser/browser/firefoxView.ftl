@@ -113,6 +113,8 @@ firefoxview-history-nav = ਅਤੀਤ
 firefoxview-history-header = ਅਤੀਤ
 firefoxview-history-context-delete = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
     .accesskey = D
+firefoxview-history-context-forget-site = …ਇਸ ਸਾਈਟ ਬਾਰੇ ਭੁੱਲ ਜਾਓ
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

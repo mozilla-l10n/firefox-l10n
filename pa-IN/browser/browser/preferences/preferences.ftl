@@ -1134,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = ਸਿੰਕ ਕਰੋ
+account-group-label2 =
+    .label = ਖਾਤਾ
+account-placeholder2 =
+    .label = ਤੁਸੀਂ ਸਾਈਨ ਇਨ ਨਹੀਂ ਕੀਤਾ
+    .description = ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ, ਇੰਕ੍ਰਿਪਟ ਅਤੇ ਫੌਰਨ ਪਹੁੰਚ ਵਿੱਚ ਰੱਖੋ, ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਵਰਤੋ।
 account-group-label =
     .label = { -vendor-short-name } ਖਾਤਾ
 account-placeholder =
     .label = ਤੁਸੀਂ ਹਾਲੇ ਸਾਈਨ ਇਨ ਨਹੀਂ ਕੀਤਾ ਹੈ
     .description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਪ੍ਰਾਈਵੇਟ, ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਅਤੇ ਸਿੰਕ ਕੀਤਾ ਰੱਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।
+account-sync-section =
+    .heading = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1261,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = ਤੁਸੀਂ ਇਹ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ ਕਨੈਕਟ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰ ਰਹੇ ਹੋ:
 sync-syncing-across-devices-heading-2 = ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕੀਤਾ
+sync-syncing-across-devices-empty-state2 =
+    .label = ਸਿੰਕ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .description = ਤੁਸੀਂ ਹਾਲੇ ਕੁਝ ਵੀ ਵੀ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ…ਆਪਣੇ ਸਾਰੇ ਡਾਟੇ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ।
 sync-syncing-across-devices-empty-state =
     .label = ਤੁਸੀਂ ਕੁਝ ਵੀ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ… ਹਾਲੇ ਤੱਕ।
     .description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
@@ -1280,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = ਸਿੰਕ ਕੀਤੇ ਡਾਟਾ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = ਡਿਸ-ਕਨੈਕਟ ਕਰੋ
 sync-change-options =
     .label = …ਬਦਲੋ
     .accesskey = C
