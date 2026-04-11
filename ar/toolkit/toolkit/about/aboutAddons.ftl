@@ -276,6 +276,13 @@ discopane-notice-recommendations = بعض هذه المُقترحات مخصّص
 discopane-notice-recommendations2 =
     .message = بعض هذه المُقترحات مخصّصة لك، إذ تعتمد على الامتدادات التي ثبّتها وتفضيلات الملف الشخصي وإحصاءات الاستخدام.
 discopane-notice-learn-more = اطّلع على المزيد
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = أُزيلت سمة/ات تلاوينك.
+    .message =
+        قام { -brand-product-name } بتحديث مجموعة أنظمة التلاوين. لقد أزلنا
+        الإصدار/ات القديمة من قائمة "السمات المحفوظة" الخاصة بك. احصل على الإصدارات الجديدة من
+        موقع الإضافات.
 colorway-removal-notice-learn-more = اطّلع على المزيد
 colorway-removal-notice-button = احصل على أحدث سمات تلاوين
 # Notice to make user aware that themes are not applied in forced colors mode.

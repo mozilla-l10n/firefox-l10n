@@ -125,6 +125,10 @@ ip-protection-site-exceptions =
     .label = إعدادات خاصة بالموقع
 ip-protection-not-opted-in-button = ابدأ
 
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-text = شغّل VPN لتعزيز خصوصيتك بشكل إضافي، مجانًا كل شهر.
+
 ## IP Protection add-on breakage warnings
 
 ipp-activator-breakage-sign-in-warning = <strong>قد لا يعمل هذا الموقع الإلكتروني مع شبكة VPN.</strong> حاول ولوج أو إيقاف تشغيل VPN أثناء استخدام هذا الموقع.

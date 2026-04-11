@@ -232,6 +232,11 @@ mr2022-onboarding-colorway-tooltip-default2 =
     .title = ألوان { -brand-short-name } الحالية
 mr2022-onboarding-colorway-description-default = <b>أستخدم ألوان { -brand-short-name } الحالية.</b>
 mr2022-onboarding-colorway-label-expressionist = تعبيري
+mr2022-onboarding-colorway-tooltip-expressionist2 =
+    .title = تعبيرية (أصفر)
+mr2022-onboarding-colorway-label-visionary = صاحب رؤية
+mr2022-onboarding-colorway-tooltip-visionary2 =
+    .title = صاحب رؤية (أخضر)
 mr2022-onboarding-colorway-label-activist = ناشط
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = ناشط (أزرق)
@@ -411,8 +416,11 @@ desktop-to-mobile-qr-code-alt =
 
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">اطّلع على المزيد</a>
 create-backup-screen-1-sync-label = زامن مع { -brand-product-name }
+create-backup-screen-1-backup-body = يُحفظ على جهازك أو على OneDrive
 create-backup-select-tile-button-label = حدّد
 create-backup-back-button-label = السابق
+create-backup-screen-2-title = اختر بيانات { -brand-product-name } المراد نسخها احتياطيًا
+create-backup-screen-2-subtitle = لا يستغرق الأمر سوى دقيقة واحدة. تُنسخ بياناتك احتياطيًا مرة واحدة يوميًا.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = إعداد سهل
 # Preceded by a green check mark indicating that these are included in "Easy setup" backup
@@ -441,6 +449,15 @@ fx-backup-opt-in-cancel-btn-label = السابق
 
 fx-backup-confirmation-screen-close-button = أغلق
 
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-1 = جميع بيانات التصفح مضمّنة
+fx-backup-confirmation-screen-all-data-item-text-2 = حُفظ إلى جهازك
+fx-backup-confirmation-screen-all-data-item-text-3 = مُعمّى ومحمي بكلمة سر
+fx-backup-confirmation-screen-easy-setup-item-text-2 = حُفظ إلى جهازك
+fx-backup-confirmation-screen-easy-setup-item-text-3 = لا يشمل ذلك كلمات السر والمدفوعات
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = انتقل إلى <a data-l10n-name="settings">الإعدادات</a> لتضمين البيانات الحساسة.
+
 ## Restore from Backup Flow about:welcome screens
 
 restore-from-backup-secondary-top-button = استعد من النسخة الاحتياطية
@@ -448,15 +465,25 @@ restore-from-backup-secondary-button = لا تستعيد
 
 ## Restored from Backup spotlight
 
+restored-from-backup-success-with-checklist-primary-button = احفظ و واصِل
 restored-from-backup-success-with-checklist-secondary-button = تجاوز هذه الخُطوة
 restored-from-backup-success-no-checklist-primary-button = واصِل
+restored-from-backup-error-primary-button = أغلق
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-subtitle = أجب عن بعض الأسئلة وسنوصي بميزات وإضافات لتحسين استخدامك لـ { -brand-short-name }.
 onboarding-personalization-use-case-personal-option = شخصي
+onboarding-personalization-use-case-school-option = مدرسة
+onboarding-personalization-use-case-work-option = عمل
+onboarding-personalization-motivation-title = ما هي أهم ميزات { -brand-short-name } بالنسبة لك؟
+onboarding-personalization-motivation-privacy-option = الخصوصية والأمان
+onboarding-personalization-motivation-productivity-option = الإنتاجية
+onboarding-personalization-motivation-other-option = أخرى
 
 ## Onboarding 2026 brand refresh
 
 onboarding-refresh-onboarding-addons-subtitle = الإمتدادات عبارة عن تطبيقات صغيرة تتيح لك تخصيص { -brand-short-name }. يمكنها تعزيز خصوصيتك، وتحسين الإنتاجية، وتغيير مظهر { -brand-short-name }، وغير ذلك الكثير.
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = امنح متصفحك دفعة قوية
