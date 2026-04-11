@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = ਸੋਧ ਕਰਨੀ ਪੂਰੀ ਹੋਈ
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = ਤੁਹਾਡੀ “{ $profilename }” ਦੀ ਕਾਪੀ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = { $profilename } ਦੀ ਤੁਹਾਡੀ ਕਾਪੀ ਕਸਟਮਾਈਜ਼ ਕਰਨ ਲਈ ਤਿਆਰ ਹੈ
 copied-profile-page-header-description = ਅਸੀਂ ਤੁਹਾਡੇ ਡਾਟੇ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਨਵੇਂ ਪਰੋਫ਼ਾਈਲ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ ਹੈ। ਹੁਣ ਇਸ ਨੂੰ ਨਾਂ ਦਿਓ, ਦਿੱਖ ਚੁਣੋ ਅਤੇ ਇਸ ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
 restored-profile-page-header = ਆਪਣੇ ਬਹਾਲ ਕੀਤੇ ਪਰੋਫ਼ਾਇਲ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ

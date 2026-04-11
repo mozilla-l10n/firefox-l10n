@@ -203,3 +203,41 @@ bar-tooltip-cryptominer =
             [one] { $count } ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ ({ $percentage }%)
            *[other] { $count } ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆਵਾਂ
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] ਇਸ ਹਫ਼ਤੇ { $count } ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] ਇਸ ਹਫ਼ਤੇ { $count } ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈਆਂ
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } ਟਰੈਕਰ
+       *[other] { $count } ਟਰੈਕਰ
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } ਫਿੰਗਰਪਰਿੰਟ
+       *[other] { $count } ਫਿੰਗਰਪਰਿੰਟ
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } ਟਰੈਕ ਕਰਨ ਵਾਲਾ ਕੂਕੀਜ਼
+       *[other] { $count } ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } ਸ਼ੋਸ਼ਲ ਟਰੈਕਰ
+       *[other] { $count } ਸ਼ੋਸ਼ਲ ਟਰੈਕਰ
+    }
+privacy-metrics-empty = ਇਸ ਹਫ਼ਤੇ ਕਿਸੇ ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਨਹੀਂ ਲਾਈ ਗਈ। ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ { -brand-short-name } ਨੇ ਤੁਹਾਨੂੰ ਅਗੇ ਦਿੱਤੇ ਖ਼ਤਰਿਆਂ ਤੋਂ ਬਚਾਇਆ ਹੈ।
