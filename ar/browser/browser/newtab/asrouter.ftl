@@ -77,6 +77,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = زر الإغلاق
     .title = أغلِق
 fxa-adoption-addresses-backup-title = دعنا نحتفظ بنسخة احتياطية من عناوينك المحفوظة
+fxa-adoption-addresses-backup-subtitle = احمِ عناوينك المحفوظة عبر مزامنتها مع أجهزتك باستخدام التعمية.
 
 ## Protections panel
 
@@ -362,6 +363,7 @@ windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }
+windows-10-eos-callout-addons-title = جرّب الإضافات: ترقيات بسيطة، تأثيرات كبيرة
 windows-10-eos-callout-addons-subtitle = اُخترت هذه الإضافات لمساعدتك على البقاء منتجًا ومحميًا وخاليًا من المشتتات.
 windows-10-eos-callout-addons-primary-button = شاهد اختياراتنا
 windows-10-eos-sync-callout-next-button = التالي

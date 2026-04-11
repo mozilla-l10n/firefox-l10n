@@ -102,6 +102,7 @@ genai-onboarding-lechat-tooltip =
 genai-onboarding-lechat-learn = اعرف المزيد عن Le Chat
 genai-onboarding-select-header = حدّد النص لرؤية الاقتراحات
 genai-onboarding-select-primary = ابدأ الدردشة
+genai-chatbot-summarize-footer-generic-subtitle = أضف روبوت محادثة يعمل بالذكاء الاصطناعي إلى الشريط الجانبي { -brand-short-name } لتلخيص الصفحات بسرعة.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
