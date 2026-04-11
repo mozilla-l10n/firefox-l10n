@@ -1870,7 +1870,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [many] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
        *[other] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
     }
-trustpanel-fingerprinter-list-header = Tyto stránky se snaží vytvářet otisky prohlížeče:
+trustpanel-fingerprinter-list-header = Tyto weby se snaží vytvořit otisk vašeho prohlížeče:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } zablokoval { $count } těžku kryptoměn
@@ -1885,7 +1885,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
         [many] { -brand-product-name } povolil { $count } těžeb kryptoměn
        *[other] { -brand-product-name } povolil { $count } těžeb kryptoměn
     }
-trustpanel-cryptominer-tab-list-header = Tyto stránky se pokouší o těžbu kryptoměn:
+trustpanel-cryptominer-tab-list-header = Tyto weby se pokouší o těžbu kryptoměn:
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Na této stránce je zablokovaný <span data-l10n-name="count">{ $count }</span> sledovací prvek
