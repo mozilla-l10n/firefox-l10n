@@ -43,6 +43,10 @@ certificate-viewer-logid = ਲਾਗ ਪਛਾਣ
 certificate-viewer-method = ਢੰਗ
 certificate-viewer-modulus = ਮੋਡੀਊਲ
 certificate-viewer-name = ਨਾਂ
+certificate-viewer-surname = ਮੁੱਢਲਾ ਨਾਂ
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = ਦਿੱਤਾ ਨਾਂ
 certificate-viewer-not-after = ਇਸ ਦੇ ਬਾਅਦ ਨਹੀਂ
 certificate-viewer-not-before = ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਨਹੀਂ
 certificate-viewer-organization = ਸੰਗਠਨ
