@@ -426,6 +426,12 @@ newtab-topic-selection-privacy-link = Descobrissètz cossí protegissèm e geris
 newtab-topic-selection-button-update-interests = Metre a jorn vòstres interèsses
 newtab-topic-selection-button-pick-interests = Causir vòstres interèsses
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+newtab-section-unblock-button = Desblocar
+
 ## Confirmation modal for blocking a section
 
 newtab-section-cancel-button = Pas ara

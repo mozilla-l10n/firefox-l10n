@@ -184,6 +184,7 @@ contextual-manager-passwords-edit-label =
 contextual-manager-passwords-remove-label =
     .title = أزِل كلمة السر
 contextual-manager-passwords-password-tooltip-2 = أدخل كلمة السر للولوج إلى هذا الحساب.
+contextual-manager-passwords-password-tooltip = أدخل كلمة السر للولوج إلى هذا الحساب.
 
 ## Password Card
 

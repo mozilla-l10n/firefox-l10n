@@ -148,6 +148,19 @@ backup-service-error-incorrect-password = كلمة السر غير صحيحة. <
 backup-service-error-corrupt-file =
     .heading = هذا الملف لا يعمل
     .message = هناك مشكلة في ملف النسخة الاحتياطية، اختر ملف أخر وحاول مجددًا
+# The backup file cannot be restored. The currently running application may
+# be too old and may not support features in the backed up profile.
+# Alternatively, the backup file may be too old and some of the feature in
+# the backed up profile may no longer be supported.
+backup-service-error-unsupported-version =
+    .heading = هذا الملف لا يعمل
+    .message = الملف الذي أخترته لا يتوافق مع نسخة { -brand-short-name }. اختر ملف أخر وحاول مجددًا.
+# The backup file cannot be restored. The currently running application is not
+# the same application that created the backup file (e.g. Firefox cannot
+# restore a Thunderbird profile backup).
+backup-service-error-unsupported-application =
+    .heading = هذا الملف لا يعمل
+    .message = الملف الذي أخترته لم يُنشئ بواسطة { -brand-short-name }. اختر ملف أخر وحاول مجددًا
 # Recovery from backup did not succeed. Potential causes could be file system
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
@@ -175,6 +188,7 @@ change-backup-encryption-header = غيِّر كلمة السر النسخ الا
 password-rules-header = متطلبات كلمة السر
 password-rules-length-description = 8 أحرف على الأقل
 password-rules-email-description = ليس عنوان بريدك الإلكتروني
+password-rules-disclaimer = حافظ على أمانك - لا تُعِد استخدام كلمات السر. اطّلع على <a data-l10n-name="password-support-link"> للحصول على المزيد من النصائح لإنشاء كلمات سر قوية</a>.
 password-validity-has-email = لا يمكن أن يكون عنوان بريد إلكتروني
 password-validity-do-not-match = كلمات السر غير متطابقة
 
@@ -220,9 +234,17 @@ backup-file-creation-date-label = أُنشئ:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 backup-file-how-to-restore-header = كيفية الاستعادة:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = افتح قائمة التطبيق ☰ وانتقل إلى الإعدادات > المزامنة
+backup-file-moz-browser-restore-step-2 = انقر فوق "اختر ملف النسخة الاحتياطية" وحدّد هذا الملف
 backup-file-moz-browser-restore-step-3 = أعد تشغيل { -brand-short-name } عند الطلب
 backup-file-other-browser-restore-step-1 = نزّل وثبِّت { -brand-short-name }
 backup-file-download-moz-browser-button = نزّل
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = شغِّل { -brand-short-name }، وافتح قائمة التطبيق ☰ وانتقل إلى الإعدادات > المزامنة
+backup-file-other-browser-restore-step-3 = انقر فوق "اختر ملف النسخة الاحتياطية" وحدّد هذا الملف
 backup-file-other-browser-restore-step-4 = أعد تشغيل { -brand-short-name } عند الطلب
 
 ## These strings are used in the about:restore and about:welcome pages

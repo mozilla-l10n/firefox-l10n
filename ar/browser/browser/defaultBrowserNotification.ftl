@@ -40,3 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     الخطوة 2: حدد "تعيين الافتراضي" لـ { -brand-short-name }
 default-browser-guidance-notification-info-page = اعرض
 default-browser-guidance-notification-dismiss = تمّ
+default-browser-guidance-notification-v2-title = أكمل عملية جعل { -brand-short-name } متصفحك المبدئي
+default-browser-guidance-notification-v2-body = في الإعدادات، حدّد "اجعله المبدئي" لـ { -brand-short-name }.
+default-browser-guidance-notification-v2-title-only = أكمل عملية جعل { -brand-short-name } متصفحك المبدئي في الإعدادات
