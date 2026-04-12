@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Muokkaa työkalupalkkia…
+appmenu-abouttranslations =
+    .label = Käännä…
 appmenu-developer-tools-subheader = Browser Tools
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers

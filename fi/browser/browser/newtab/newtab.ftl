@@ -150,6 +150,9 @@ newtab-menu-report = Ilmoita
 newtab-menu-section-block = Estä
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Lopeta seuraaminen
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Lopeta aiheen seuraaminen
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -605,6 +608,7 @@ newtab-section-confirm-block-topic-p2 = Estetyt aiheet eivät enää näy syött
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Estä { $topic }
+newtab-section-block-cancel-button = Peruuta
 
 ## Strings for custom wallpaper highlight
 
@@ -668,6 +672,18 @@ newtab-toast-thanks-for-reporting =
     .message = Kiitos, että ilmoitit tästä.
 newtab-toast-widgets-hidden =
     .message = Voit lisätä pienoisohjelmia takaisin milloin tahansa valitsemalla kynäkuvakkeen.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Seuraat nyt aihetta { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Et enää seuraa aihetta { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Et enää näe aihetta { $topic } käsitteleviä tarinoita.
 
 ## Strings for task / to-do list productivity widget
 
@@ -709,6 +725,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Uusi lista
 newtab-widget-section-title = Pienoisohjelmat
 newtab-widget-menu-hide = Piilota pienoisohjelma
+newtab-widget-menu-change-size = Muuta kokoa
+newtab-widget-size-small = Pieni
+newtab-widget-size-medium = Keskikokoinen
+newtab-widget-size-large = Suuri
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Piilota pienoisohjelmat

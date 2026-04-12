@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ei
 
 neterror-file-not-found-filename = Tarkista, että tiedostonimi on kirjoitettu virheettömästi ja oikealla kirjainkoolla.
 neterror-file-not-found-moved = Tarkista, ettei tiedostoa ole poistettu, siirretty tai nimetty uudelleen.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } ei löydä tiedostoa polusta <strong>{ $path }</strong>. Tiedostoa ei joko ole olemassa tai polku on virheellinen.
+neterror-file-not-found-what-can-you-do = Jos kirjoitit osoitteen manuaalisesti, tarkista isojen kirjainten oikeellisuus ja mahdolliset kirjoitusvirheet tiedostonimessä tai polussa. Jos seurasit tallennettua kirjanmerkkiä tai linkkiä, tiedosto on saatettu siirtää, nimetä uudelleen tai poistaa tallennuksen jälkeen. Yritä löytää se tiedostonhallinnan tai viimeisimpien haun avulla.
 neterror-access-denied = Tiedosto on voitu poistaa tai siirtää, tai ehkä siihen ei ole käyttöoikeutta.
 neterror-unknown-protocol = Osoitteen avaaminen voi vaatia uuden ohjelman asentamista.
 neterror-redirect-loop = Tämä virhe johtuu joskus siitä, että evästeiden asettamista ei ole sallittu tai että se on erityisesti estetty tältä sivustolta.
@@ -190,6 +194,11 @@ fp-neterror-net-timeout-intro = Palvelin osoitteessa <strong>{ $hostname }</stro
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> lähetti takaisin virheilmoituksen.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Palvelin osoitteessa <strong>{ $hostname }</strong> lähetti virheen: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } ei ladannut tätä sivua, koska vaikuttaa siltä, että tietoturva-asetukset eivät vastaa edellistä sivua.
 fp-neterror-http-auth-disabled-intro = Sivustona esiintyvä taho voi yrittää varastaa esimerkiksi käyttäjätunnuksesi, salasanasi tai sähköpostiosoitteesi.
 fp-neterror-http-auth-disabled-secure-connection = Tämä sivusto vaatii suojatun yhteyden, etkä voi lisätä poikkeusta käydäksesi sivustolla.
