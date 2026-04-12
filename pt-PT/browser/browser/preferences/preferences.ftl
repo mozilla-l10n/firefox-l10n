@@ -538,6 +538,9 @@ check-user-spelling =
     .accesskey = t
 spellcheck-download-dictionaries =
     .label = Transferir dicionários
+spellcheck-promo =
+    .heading = Como utilizar a verificação ortográfica
+    .message = Clique com o botão direito do rato num campo de texto para ativar ou desativar a verificação ortográfica ou para alterar o idioma. Nem todos os campos suportam a verificação ortográfica.
 
 ## General Section - Files and Applications
 

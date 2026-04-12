@@ -146,6 +146,9 @@ newtab-menu-report = Reportar
 newtab-menu-section-block = Bloquear
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Deixar de seguir
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Deixar de seguir tópico
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -601,6 +604,7 @@ newtab-section-confirm-block-topic-p2 = Os tópicos bloqueados deixarão de apar
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloquear { $topic }
+newtab-section-block-cancel-button = Cancelar
 
 ## Strings for custom wallpaper highlight
 
@@ -664,6 +668,18 @@ newtab-toast-thanks-for-reporting =
     .message = Obrigado por reportar isto.
 newtab-toast-widgets-hidden =
     .message = Selecione o ícone do lápis para voltar a adicionar widgets a qualquer momento.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Está agora a seguir { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Já não está a seguir { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Não irá ver mais histórias sobre { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -705,6 +721,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova lista
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Ocultar widget
+newtab-widget-menu-change-size = Alterar tamanho
+newtab-widget-size-small = Pequena
+newtab-widget-size-medium = Média
+newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ocultar widgets
@@ -745,6 +765,13 @@ newtab-daily-briefing-card-menu-dismiss = Dispensar
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Atualizadas há { $minutes }m
 newtab-widget-message-title = Mantenha-se focado com as listas e um temporizador integrado
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Desde lembretes rápidos a tarefas diárias, sessões de concentração a pausas para descontrair — mantenha-se produtivo e pontual.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Torne o { -brand-product-name } seu
+newtab-promo-card-body-addons = Escolha um fundo da nossa coleção, ou crie o seu próprio fundo.
 newtab-promo-card-cta-addons = Experimentar agora
 newtab-promo-card-title = Apoiar o { -brand-product-name }
 newtab-promo-card-body = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
@@ -765,6 +792,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Torne este espaço seu
+newtab-activation-window-message-customization-focus-message = Escolha um novo fundo, adicione atalhos para os seus sites favoritos e mantenha-se atualizado sobre as histórias que lhe interessam.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Começar a personalizar
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -772,3 +800,4 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Este espaço segue as suas regras
+newtab-activation-window-message-values-focus-message = O { -brand-product-name } permite que navegue como gosta, com uma forma mais pessoal de começar o seu dia na Internet. Torne o { -brand-product-name } seu.

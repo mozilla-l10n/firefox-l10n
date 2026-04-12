@@ -442,10 +442,16 @@ onboarding-checklist-sign-up = Registar ou iniciar sessão na sua conta
 
 tab-groups-onboarding-feature-callout-title = Grupos de separadores: menos confusão, mais concentração
 tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando um separador sobre o outro para criar o seu primeiro grupo.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = Encontre os seus grupos de separadores no menu Listar todos os separadores, sempre que quiser.
 tab-groups-onboarding-create-group-title-2 = Encontre os seus grupos de separadores a qualquer momento aqui.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encontre os seus grupos ao procurar pelos mesmos na barra de endereço.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = Quando fechar um grupo de separadores, reabra o mesmo a partir do menu Listar todos os separadores, sempre que quiser.
 tab-groups-onboarding-saved-groups-title-2 = Quando fecha um grupo de separadores, pode reabri-lo aqui a qualquer momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encontre os seus grupos fechados ao procurar pelos mesmos na barra de endereço.
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = Volte a abrir os seus grupos de separadores a partir do menu Listar Todos os Separadores, sempre que quiser.
 tab-groups-onboarding-session-restore-title = Reabra os seus grupos de separadores a qualquer momento aqui.
 tab-groups-onboarding-dismiss = Ok
 
@@ -474,6 +480,7 @@ desktop-to-mobile-qr-code-alt =
 create-backup-screen-1-title =
     A atualizar para o Windows 11?
     Vamos efetuar uma cópia dos seus dados do { -brand-product-name }.
+create-backup-screen-1-subtitle = Proteja automaticamente as suas palavras-passe, marcadores e muito mais, em 1–2 minutos.
 create-backup-screen-1-flair = Recomendado
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Saber mais</a>
 create-backup-screen-1-sync-label = Sincronizar com o { -brand-product-name }
