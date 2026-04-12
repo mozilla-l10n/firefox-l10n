@@ -1131,11 +1131,15 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronización
+account-group-label2 =
+    .label = Cuenta
 account-group-label =
     .label = Cuenta de { -vendor-short-name }
 account-placeholder =
     .label = No ha iniciado sesión
     .description = Inicie sesión para mantener sus datos privados, cifrados y sincronizados en todos los dispositivos.
+account-sync-section =
+    .heading = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1277,6 +1281,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Administrar datos sincronizados
     .accesskey = m
+settings-sync-disconnect-button =
+    .label = Desconectar
 sync-change-options =
     .label = Cambiar…
     .accesskey = C
@@ -2292,9 +2298,44 @@ preferences-doh-overview-off =
     .description = Utilice su solucionador de DNS predeterminado.
 preferences-doh-advanced-button =
     .label = Ajustes avanzados
+preferences-doh-manage-exceptions2 =
+    .label = Administrar excepciones
+    .accesskey = x
 preferences-doh-radio-default =
     .label = Predeterminado
     .description = Utilizar DNS seguro en regiones donde esté disponible
+preferences-doh-fallback-label =
+    .label = Avisarme siempre si el DNS seguro no está disponible
+preferences-doh-status-item-off =
+    .message = DNS sobre HTTPS está desactivado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS sobre HTTPS no está funcionando porque encontramos un error ({ $reason }) al intentar usar el proveedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS sobre HTTPS no está funcionando porque recibimos una URL inválida ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS sobre HTTPS está utilizando el proveedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS sobre HTTPS no está funcionando porque encontramos un error ({ $reason }) al intentar usar el proveedor local { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS sobre HTTPS está utilizando el proveedor local { $name }
+preferences-doh-select-resolver-label =
+    .label = Seleccionar proveedor:
+preferences-doh-custom-provider-label =
+    .aria-label = Introduzca una URL de proveedor personalizada
+preferences-doh-header2 =
+    .heading = DNS sobre HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2363,6 +2404,9 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } está en guardia
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } recomienda algunas mejoras de seguridad
 security-privacy-status-ok-label = Protección mejorada contra rastreo activada
 security-privacy-status-problem-label = Hemos encontrado configuraciones que afectan a la protección
 security-privacy-status-problem-helper-label = Ver problemas

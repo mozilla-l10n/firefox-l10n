@@ -129,6 +129,7 @@ policy-Preferences = Establezca y bloquee el valor para un subconjunto de prefer
 policy-PrivateBrowsingModeAvailability = Establecer la disponibilidad del modo privado de navegación.
 policy-PromptForDownloadLocation = Preguntar dónde guardar los archivos que se descargan.
 policy-Proxy = Configurar los ajustes del proxy.
+policy-RelaunchRequired = Requerir que { -brand-short-name } se reinicie dentro de un período determinado y notificar al usuario del próximo reinicio.
 policy-RequestedLocales = Establecer la lista de localizaciones solicitadas para la aplicación, ordenadas por preferencia.
 policy-SanitizeOnShutdown2 = Borrar datos de navegación al salir.
 policy-SearchBar = Establecer la ubicación predeterminada de la barra de búsqueda. El usuario todavía puede personalizarla.
@@ -153,3 +154,5 @@ policy-WebsiteFilter = Bloquear sitios web para que no sean visitados. Consulte 
 policy-Windows10SSO = Permitir inicio de sesión único de Windows para cuentas Microsoft, profesionales y educativas.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permitir el inicio de sesión único para cuentas de Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Activar o desactivar el soporte para la API de JavaScript XSLTProcessor y la instrucción de procesamiento XSLT.

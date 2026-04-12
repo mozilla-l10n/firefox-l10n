@@ -283,6 +283,9 @@ briefcase-avatar-tooltip =
     .tooltiptext = Aplicar avatar de mala
 picture-avatar-tooltip =
     .tooltiptext = Aplicar avatar de imagem
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = Aplicar avatar de artesanato
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar-tooltip =
     .tooltiptext = Aplicar avatar de globo
