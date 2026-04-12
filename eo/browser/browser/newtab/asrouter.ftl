@@ -306,6 +306,10 @@ tail-fox-spotlight-subtitle = Adiaŭu nedeziratajn reklamajn spurilojn kaj ĝuu 
 tail-fox-spotlight-primary-button = Malfermi miajn ligilojn per { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ne nun
 
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = Spertu denove integritan privatecon
+
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Malnovaj versioj de { -brand-short-name } povus ekhavi problemojn ekde la 14a de januaro 2025.</strong>

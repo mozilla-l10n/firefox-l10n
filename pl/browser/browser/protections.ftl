@@ -21,7 +21,7 @@ graph-total-tracker-summary =
        *[many] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowano <b>{ $count }</b> elementów śledzących
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } blokuje elementy śledzące w oknach prywatnych, ale nie zachowuje informacji o tym, co zostało zablokowane.
+graph-private-window = { -brand-short-name } nadal blokuje elementy śledzące w trybie prywatnym, ale nie zachowuje informacji o tym, co zostało zablokowane.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Elementy śledzące zablokowane przez przeglądarkę { -brand-short-name } w tym tygodniu
 protection-report-webpage-title = Panel ochrony
@@ -218,3 +218,49 @@ bar-tooltip-cryptominer =
             [few] { $count } elementy używające komputera użytkownika do generowania kryptowalut ({ $percentage }%)
            *[many] { $count } elementów używających komputera użytkownika do generowania kryptowalut ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Ochrona prywatności
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] Zablokowano { $count } w tym tygodniu
+        [few] Zablokowano { $count } w tym tygodniu
+       *[many] Zablokowano { $count } w tym tygodniu
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } element śledzący
+        [few] { $count } elementy śledzące
+       *[many] { $count } elementów śledzących
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } element śledzący przez zbieranie informacji o konfiguracji
+        [few] { $count } elementy śledzące przez zbieranie informacji o konfiguracji
+       *[many] { $count } elementów śledzących przez zbieranie informacji o konfiguracji
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } ciasteczko śledzące
+        [few] { $count } ciasteczka śledzące
+       *[many] { $count } ciasteczek śledzących
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } element śledzący serwisu społecznościowego
+        [few] { $count } elementy śledzące serwisów społecznościowych
+       *[many] { $count } elementów śledzących serwisów społecznościowych
+    }
+privacy-metrics-empty = W tym tygodniu nie zablokowano żadnych elementów śledzących. { -brand-short-name } chroni Cię przed poniższymi zagrożeniami podczas przeglądania Internetu.
+privacy-metrics-loading = Wczytywanie statystyk ochrony…
+privacy-metrics-error = Nie można wczytać statystyk ochrony.
+privacy-metrics-private-window = { -brand-short-name } nadal blokuje elementy śledzące w trybie prywatnym, ale nie zachowuje informacji o tym, co zostało zablokowane.

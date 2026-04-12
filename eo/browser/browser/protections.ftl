@@ -243,3 +243,4 @@ privacy-metrics-social =
 privacy-metrics-empty = Neniu spurilo blokita ĉi semajne. Dum retumo { -brand-short-name } protektas vin kontraŭ minacoj.
 privacy-metrics-loading = Protektaj statistikoj ŝargataj…
 privacy-metrics-error = Ne eblis ŝargi protektajn statistikojn.
+privacy-metrics-private-window = { -brand-short-name } plu blokas spurilojn en privataj fenestroj, sed ĝi ne registras tion, kion ĝi blokas.
