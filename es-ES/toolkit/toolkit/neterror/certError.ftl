@@ -222,3 +222,5 @@ fp-certerror-override-exception-button = Continuar a { $hostname } (arriesgado)
 fp-certerror-intro = { -brand-short-name } detectó un problema de seguridad potencialmente grave con <strong>{ $hostname }</strong>. Alguien que se haga pasar por el sitio podría intentar robar información de tarjetas de crédito, contraseñas o correos electrónicos.
 fp-certerror-expired-into = { -brand-short-name } detectó un problema de seguridad con <strong>{ $hostname }</strong>. O el sitio no está configurado correctamente o el reloj de su dispositivo está configurado en una fecha/hora incorrecta.
 fp-certerror-transparency-intro = Alguien que se haga pasar por <strong>{ $hostname }</strong> podría intentar robar cosas como información de tarjetas de crédito, contraseñas o correos electrónicos.
+fp-certerror-override-exception-button-2 = Continuar a { $hostname } (arriesgado)
+    .accesskey = C

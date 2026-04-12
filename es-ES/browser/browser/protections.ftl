@@ -205,3 +205,44 @@ bar-tooltip-cryptominer =
             [one] { $count } criptominero ({ $percentage }%)
            *[other] { $count } criptomineros ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Protecciones de privacidad
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } bloqueado esta semana
+       *[other] { $count } bloqueados esta semana
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } rastreador
+       *[other] { $count } rastreadores
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } creador de huellas digitales
+       *[other] { $count } creadores de huellas digitales
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } cookie de rastreo
+       *[other] { $count } cookies de rastreo
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } rastreador social
+       *[other] { $count } rastreadores sociales
+    }
+privacy-metrics-empty = No hay rastreadores bloqueados esta semana. { -brand-short-name } protege de las siguientes amenazas mientras se  navega.
+privacy-metrics-loading = Cargando estadísticas de protección…
+privacy-metrics-error = No se han podido cargar las estadísticas de protección.
+privacy-metrics-private-window = { -brand-short-name } sigue bloqueando rastreadores en ventanas privadas, pero no guarda el registro de lo que se bloqueó.

@@ -600,6 +600,7 @@ newtab-section-confirm-block-topic-p2 = Los temas bloqueados ya no aparecerán e
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloquear { $topic }
+newtab-section-block-cancel-button = Cancelar
 
 ## Strings for custom wallpaper highlight
 
@@ -663,6 +664,18 @@ newtab-toast-thanks-for-reporting =
     .message = Gracias por informar sobre esto.
 newtab-toast-widgets-hidden =
     .message = Seleccione el icono del lápiz para volver a añadir widgets en cualquier momento.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Ahora está siguiendo a: { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Ya no está siguiendo a: { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Ya no verá historias sobre { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -704,6 +717,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nueva lista
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Ocultar widget
+newtab-widget-menu-change-size = Cambiar tamaño
+newtab-widget-size-small = Pequeño
+newtab-widget-size-medium = Medio
+newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ocultar widgets

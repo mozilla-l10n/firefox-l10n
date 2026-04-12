@@ -1134,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizar
+account-group-label2 =
+    .label = Conta
+account-placeholder2 =
+    .label = Não iniciou sessão
+    .description = Inicie sessão e mantenha os seus dados privados, encriptados e acessíveis, de forma instantânea, onde quer que utilize o { -brand-short-name }.
 account-group-label =
     .label = Conta { -vendor-short-name }
 account-placeholder =
     .label = Não iniciou sessão
     .description = Inicie sessão para manter os seus dados privados, encriptados e sincronizados, entre dispositivos.
+account-sync-section =
+    .heading = Conta e sincronização
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1450,6 +1457,10 @@ forms-saved-passwords =
 forms-saved-passwords-2 =
     .label = Gerir palavras-passe guardadas
     .accesskey = d
+forms-saved-passwords-searchkeywords = Estão armazenadas no seu computador as credenciais para os seguintes sites
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = Proteções adicionais
 forms-primary-pw-use =
     .label = Utilizar uma palavra-passe principal
     .accesskey = U
@@ -1457,6 +1468,15 @@ forms-primary-pw-use-2 =
     .label = Utilizar uma palavra-passe principal
     .description = Adiciona uma camada adicional de segurança para proteger as suas palavras-passe guardadas.
     .accesskey = U
+forms-primary-pw-set =
+    .label = Definir palavra-passe principal
+forms-primary-pw-on =
+    .label = A palavra-passe principal está ATIVADA
+forms-primary-pw-change-2 =
+    .label = Alterar palavra-passe principal
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = Desligar
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = Requerer início de sessão no dispositivo para preencher e gerir palavras-passe
@@ -1523,6 +1543,8 @@ autofill-payment-methods-header =
 autofill-payment-methods-checkbox-message-2 =
     .label = Guardar e preencher automaticamente as informações de pagamento
     .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = Gerir métodos de pagamento
 autofill-payment-methods-manage-payments-button =
     .label = Gerir os métodos de pagamento
     .accesskey = m
@@ -1530,6 +1552,7 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Exigir início de sessão do dispositivo para o preenchimento automaticamente e gerir métodos de pagamento
     .accesskey = E
+autofill-payment-methods-add-button = Adicionar novo método de pagamento
 payments-list-header =
     .label = Métodos de pagamento
 payments-delete-payment-prompt-title = Eliminar este método de pagamento?
@@ -2337,6 +2360,26 @@ preferences-doh-status-item-not-active-bad-url =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = O DNS sobre HTTPS está a utilizar o fornecedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = O DNS sobre HTTPS não está a funcionar porque encontrámos um erro ({ $reason }) ao tentar utilizar o fornecedor local { $name }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = O DNS sobre HTTPS está a utilizar o fornecedor local { $name }
+preferences-doh-select-resolver-label =
+    .label = Escolha o fornecedor:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Utilizar este fornecedor para resolver DNS sobre HTTPS
+preferences-doh-custom-provider-label =
+    .aria-label = Introduza o URL de um fornecedor personalizado
+preferences-doh-header2 =
+    .heading = DNS sobre HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2405,8 +2448,28 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = O { -brand-short-name } está de guarda
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = O { -brand-short-name } recomenda algumas melhorias de segurança
+security-privacy-status-ok-label = A proteção melhorada contra a monitorização está ativada
 security-privacy-status-problem-label = Encontrámos definições que afetam a sua proteção
+security-privacy-status-problem-helper-label = Ver problemas
+security-privacy-status-pending-trackers-label = A verificar quantos rastreadores o { -brand-short-name } bloqueou no último mês
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } rastreador bloqueado no último mês
+       *[other] { $trackerCount } rastreadores bloqueados no último mês
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Tem <a data-l10n-name="strict-tracking-protection">proteção rigorosa</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Tem <a data-l10n-name="custom-tracking-protection">proteção personalizada</a>
+security-privacy-status-up-to-date-label = Tem a versão mais recente e mais segura do { -brand-short-name }
 security-privacy-status-update-needed-label = Está disponível uma nova versão do { -brand-short-name }.
+security-privacy-status-update-error-label = O { -brand-short-name } está com dificuldades em atualizar-se
 
 ## Enhanced Tracking Protection (ETP) status section
 

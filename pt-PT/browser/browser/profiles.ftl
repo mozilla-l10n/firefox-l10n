@@ -227,6 +227,8 @@ bike-avatar-alt =
 book-avatar = Livro
 briefcase-avatar = Pasta
 clock-avatar = Relógio
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = Artesanato
 custom-avatar = Avatar personalizado
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar = Diamante
@@ -234,6 +236,7 @@ flower-avatar = Flor
 folder-avatar = Pasta
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
 globe-avatar = Globo
+hammer-avatar = Martelo
 heart-avatar = Coração
 heart-rate-avatar = Pulsação
 leaf-avatar = Folha
