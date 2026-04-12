@@ -798,11 +798,20 @@ network-proxy-connection-learn-more = Saber mais
 network-proxy-connection-settings =
     .label = Definições…
     .accesskey = e
+network-proxy-group2 =
+    .label = Definições de proxy
+    .description = Configure como o { -brand-short-name } se liga à Internet.
+network-proxy-connection-settings2 =
+    .label = Configurar proxy
+    .description = Alterar estas definições pode causar problemas nas ligações
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = Novas janelas e separadores
 home-new-windows-tabs-description2 = Escolha o que vê quando abre a sua página inicial, novas janelas, e novos separadores.
+home-section =
+    .heading = Início e arranque
 
 ## Home Section - Default Browser
 
@@ -856,6 +865,11 @@ choose-bookmark =
     .label = Utilizar marcador…
     .accesskey = m
 
+## Home Section - Home Page Customization
+
+home-homepage-title =
+    .label = Página inicial
+
 ## Custom Homepage subpage
 
 home-custom-homepage-header = Página inicial personalizada
@@ -871,6 +885,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Ainda não foram adicionados sites.
+home-custom-homepage-delete-address-button =
+    .aria-label = Eliminar endereço
+    .title = Eliminar endereço
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -958,7 +975,11 @@ home-prefs-mission-message-learn-more-link = Descubra como
 home-prefs-mission-message2 =
     .message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor.
 home-prefs-manage-topics-link = Gerir tópicos
+home-prefs-manage-topics-link2 =
+    .label = Gerir tópicos
 home-prefs-choose-wallpaper-link = Escolha um fundo
+home-prefs-choose-wallpaper-link2 =
+    .label = Escolha um fundo
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1120,6 +1141,9 @@ sync-signedout-description2 = Sincronize os marcadores, histórico, separadores,
 sync-signedout-account-signin3 =
     .label = Iniciar sessão para sincronizar…
     .accesskey = I
+sync-signedout-account-signin-4 =
+    .label = Inicie sessão na sua conta para iniciar a sincronização
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -1178,7 +1202,12 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Sincronização: ATIVADA
+prefs-syncing-on-2 =
+    .label = A sincronização está ATIVADA
 prefs-syncing-off = Sincronização: DESATIVADA
+prefs-syncing-off-2 =
+    .label = A sincronização está DESATIVADA
+    .description = Ative a sincronização para ter os seus marcadores, palavras-passe, histórico e muito mais, em qualquer dispositivo.
 prefs-sync-turn-on-syncing =
     .label = Ativar sincronização...
     .accesskey = s
@@ -1205,9 +1234,13 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Está a sincronizar estes itens em todos os seus dispositivos associados:
+sync-syncing-across-devices-heading-2 = Dados sincronizados entre dispositivos
 sync-syncing-across-devices-empty-state2 =
     .label = Gerir dados sincronizados
     .description = Ainda não está a sincronizar nada. Comece a sincronizar para ter todos os seus dados em todos os seus dispositivos.
+sync-syncing-across-devices-empty-state =
+    .label = Não está a sincronizar nada… ainda.
+    .description = Comece a sincronizar para ter todos os seus dados em todos os seus dispositivos.
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Histórico
 sync-currently-syncing-tabs = Separadores abertos

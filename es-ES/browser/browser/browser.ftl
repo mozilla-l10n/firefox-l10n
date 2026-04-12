@@ -410,6 +410,9 @@ quickactions-cmd-help = ayuda, soporte
 # Opens the devtools web inspector
 quickactions-inspector2 = Abrir herramientas para desarrollo
 quickactions-cmd-inspector2 = inspector, devtools, herramientas para desarrolladores
+# Opens Firefox Library
+quickactions-cmd-library = biblioteca
+quickactions-library = Abrir biblioteca
 quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins2 = Administrar contraseñas
@@ -1243,6 +1246,15 @@ panel-save-update-password = Contraseña
 # "More" item in macOS share menu
 menu-share-more =
     .label = Más…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Copiar enlace
+           *[other] Copiar { $count } enlaces
+        }
+    .accesskey = l
 menu-share-copy-link =
     .label = Copiar enlace
     .accesskey = l
