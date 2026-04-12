@@ -143,6 +143,17 @@ tab-context-send-to-device =
            *[other] Poslat { $tabCount } panelů do zařízení
         }
     .accesskey = n
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Odeslat do mobilu
+            [one] Odeslat do mobilu
+            [few] Odeslat { $tabCount } panely do mobilu
+            [many] Odeslat { $tabCount } panelů do mobilu
+           *[other] Odeslat { $tabCount } panelů do mobilu
+        }
+    .accesskey = O
 # The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
 tab-context-send-to-mobile-enable-sync =
     .label = Povolit synchronizaci pro odeslání panelu

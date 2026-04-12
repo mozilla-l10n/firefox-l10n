@@ -2204,6 +2204,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokovat vyskakovací okna a přesměrování třetích stran
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Spravovat výjimky
+    .description = Přidejte webové stránky, které mohou otevírat vyskakovací okna a využívat přesměrování třetích stran.
+    .accesskey = v
+    .searchkeywords = vyskakovací okna
 permissions-addon-install-warning3 =
     .label = Zobrazit varování, když se webové stránky pokouší o instalaci rozšíření
     .accesskey = r
@@ -2291,6 +2298,9 @@ collection-health-report-telemetry-disabled =
 collection-health-report-telemetry-disabled-link = Zjistit více
 backup-multi-profile-warning-message =
     .message = Abyste se ujistili, že tato změna bude zahrnuta do vašich záloh, otevřete každý profil a v nastavení vyberte „Zálohovat nyní“.
+nimbus-rollouts =
+    .label = Povolit aplikaci { -brand-short-name } vylepšovat funkce, výkon a stabilitu mezi aktualizacemi
+    .description = Změny budou prováděny na dálku.
 addon-recommendations3 =
     .label = Povolit personalizovaná doporučení rozšíření
     .description = Nechte si doporučovat rozšíření pro zlepšení vašeho prohlížení.
@@ -2418,12 +2428,23 @@ data-collection-health-report =
             [with-cases] To nám pomáhá vylepšovat funkce, výkon a stabilitu { -brand-product-name(case: "gen") }.
            *[no-cases] To nám pomáhá vylepšovat funkce, výkon a stabilitu aplikace { -brand-product-name }.
         }
+data-collection-health-report-disabled =
+    .label = Odesílat technická data a data o interakcích organizaci { -vendor-short-name }
+    .accesskey = O
+    .description = Pro tuto konfiguraci sestavení je hlášení dat deaktivováno.
+data-collection-run-studies =
+    .label = Povolit aplikaci { -brand-short-name } spouštět studie funkcí
+    .description = { -brand-short-name } náhodně vybírá uživatele k testování funkcí, což pomáhá zlepšovat kvalitu pro všechny.
 data-collection-studies-link =
     .label =
         { -brand-short-name.case-status ->
             [with-cases] Zobrazit studie { -brand-short-name(case: "gen") }
            *[no-cases] Zobrazit studie aplikace { -brand-short-name }
         }
+data-collection-backlogged-crash-reports =
+    .label = Automaticky odesílat hlášení o pádu
+    .description = To pomáhá společnosti { -vendor-short-name } diagnostikovat a řešit problémy s prohlížečem. Zprávy mohou obsahovat osobní nebo citlivé údaje.
+    .accesskey = A
 data-collection-usage-ping =
     .label =
         { -vendor-short-name.case-status ->

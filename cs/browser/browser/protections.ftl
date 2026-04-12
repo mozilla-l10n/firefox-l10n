@@ -298,5 +298,7 @@ privacy-metrics-social =
         [many] { $count } sledovacích prvků sociálních sítí
        *[other] { $count } sledovacích prvků sociálních sítí
     }
+privacy-metrics-empty = Tento týden nebyly zablokovány žádné sledovací prvky. { -brand-short-name } vás při prohlížení chrání před následujícími hrozbami.
 privacy-metrics-loading = Načítání statistik ochrany…
 privacy-metrics-error = Nepodařilo se načíst statistiky ochrany.
+privacy-metrics-private-window = { -brand-short-name } pokračuje v blokování sledovacích prvků v oknech anonymního prohlížení, ale neuchovává záznamy o tom, co bylo zablokováno.

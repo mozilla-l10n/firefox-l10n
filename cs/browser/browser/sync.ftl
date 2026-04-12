@@ -30,6 +30,18 @@ fxa-menu-send-to-device =
             [many] Poslat { $tabCount } panelů do zařízení
            *[other] Poslat { $tabCount } panelů do zařízení
         }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Odeslat do mobilu
+            [one] Odeslat do mobilu
+            [few] Odeslat { $tabCount } panely do mobilu
+            [many] Odeslat { $tabCount } panelů do mobilu
+           *[other] Odeslat { $tabCount } panelů do mobilu
+        }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Povolit synchronizaci pro odeslání panelu
