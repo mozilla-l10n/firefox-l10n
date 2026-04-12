@@ -143,6 +143,10 @@ tab-context-send-to-device =
            *[other] Pošalji { $tabCount } kartica na uređaj
         }
     .accesskey = n
+tab-context-send-to-mobile-connect-phone =
+    .label = Poveži svoj mobitel
+tab-context-send-to-mobile-device-missing =
+    .label = Ne vidiš svoj uređaj?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -2315,3 +2315,35 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Odustani
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokiraj
+
+## Privacy and security status card
+
+security-privacy-status-problem-helper-label = Prikaži probleme
+security-privacy-issue-card =
+    .heading = Sigurnosna upozorenja
+issue-card-reset-button =
+    .label = Resetiraj
+issue-card-dismiss-button =
+    .tooltiptext = Odbaci
+    .aria-label = Odbaci
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = Kolačići
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Kolačići
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Dozvoli sve kolačiće
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Sadržaj za praćenje
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Sadržaj za praćenje
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kripto-rudari
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Poznati prikupljači digitalnih otisaka
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Sumnjivi prikupljači digitalnih otisaka
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Sumnjivi prikupljači digitalnih otisaka
