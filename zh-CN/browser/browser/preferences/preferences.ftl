@@ -1133,6 +1133,8 @@ account-group-label =
 account-placeholder =
     .label = 您尚未登录
     .description = 登录以跨设备同步。数据将保持私密，并受加密保护。
+account-sync-section =
+    .heading = 账户与同步
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1255,6 +1257,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = 您目前与已连接的设备同步以下项目：
 sync-syncing-across-devices-heading-2 = 跨设备同步的数据
+sync-syncing-across-devices-empty-state2 =
+    .label = 管理同步的数据
+    .description = 尚未同步任何数据。开始同步，让所有数据在您的各设备上触手可得。
 sync-syncing-across-devices-empty-state =
     .label = 尚未同步任何数据。
     .description = 开始同步即可跨设备使用所有数据。
@@ -1274,6 +1279,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = 管理同步的数据
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = 断开连接
 sync-change-options =
     .label = 更改…
     .accesskey = C
@@ -2208,6 +2215,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = 基于 HTTPS 的 DNS
+dns-over-https-group2 =
+    .label = 基于 HTTPS 的 DNS
+    .description = 基于 HTTPS 的域名系统（DoH）会对网站查询进行加密，使您的互联网服务提供商及其他人更难获知您要访问的网站。
 preferences-doh-description = 基于 HTTPS 的 DNS 会通过加密的连接发送您对域名的请求，从而建立安全 DNS 连接，使他人更难得知您要访问的网站。
 preferences-doh-description2 = 基于 HTTPS 的 DNS 会通过加密的连接发送您对域名的请求，从而提供安全 DNS，使他人更难得知您要访问的网站。
 # Variables:
@@ -2268,6 +2278,9 @@ preferences-doh-overview-custom =
     .description = 始终使用安全 DNS，并自主选择提供商及回退行为。
 preferences-doh-advanced-button =
     .label = 高级设置
+preferences-doh-advanced-section =
+    .label = 高级设置
+    .description = 基于 HTTPS 的域名系统（DoH）会对网站查询进行加密，使您的互联网服务提供商及其他人更难获知您要访问的网站。
 preferences-doh-manage-exceptions2 =
     .label = 管理例外
     .accesskey = x
