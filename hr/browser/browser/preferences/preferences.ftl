@@ -836,7 +836,7 @@ home-mode-choice-custom =
 home-mode-choice-blank =
     .label = Prazna stranica
 home-homepage-custom-url =
-    .placeholder = Zalijepite URL…
+    .placeholder = Zalijepi URL …
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Upravljaj proširenjem
