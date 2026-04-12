@@ -433,3 +433,107 @@ pdfjs-editor-resizer-top-middle =
     .aria-label = Горе на средина — промени големина
 pdfjs-editor-resizer-top-right =
     .aria-label = Горен десен ќош — промени големина
+pdfjs-editor-resizer-middle-right =
+    .aria-label = Средина десно — промени големина
+pdfjs-editor-resizer-bottom-right =
+    .aria-label = Долен десен ќош — промени големина
+pdfjs-editor-resizer-bottom-middle =
+    .aria-label = Долу на средина — промени големина
+pdfjs-editor-resizer-bottom-left =
+    .aria-label = Долен лев ќош — промени големина
+pdfjs-editor-resizer-middle-left =
+    .aria-label = Средина лево — промени големина
+
+## Color picker
+
+# This means "Color used to highlight text"
+pdfjs-editor-highlight-colorpicker-label = Боја за нагласување
+pdfjs-editor-colorpicker-button =
+    .title = Менување на боја
+pdfjs-editor-colorpicker-dropdown =
+    .aria-label = Избор на бои
+pdfjs-editor-colorpicker-yellow =
+    .title = Жолта
+pdfjs-editor-colorpicker-green =
+    .title = Зелена
+pdfjs-editor-colorpicker-blue =
+    .title = Сина
+pdfjs-editor-colorpicker-pink =
+    .title = Розова
+pdfjs-editor-colorpicker-red =
+    .title = Црвена
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+pdfjs-editor-highlight-show-all-button-label = Прикажи сѐ
+pdfjs-editor-highlight-show-all-button =
+    .title = Прикажи сѐ
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+# Modal header positioned above a text box where users can edit the alt text.
+pdfjs-editor-new-alt-text-dialog-edit-label = Уреди го алтернативниот текст (опис на слика)
+# Modal header positioned above a text box where users can add the alt text.
+pdfjs-editor-new-alt-text-dialog-add-label = Додај алтернативен текст (опис на слика)
+pdfjs-editor-new-alt-text-textarea =
+    .placeholder = Напиши опис…
+# This text refers to the alt text box above this description. It offers a definition of alt text.
+pdfjs-editor-new-alt-text-description = Краток опис за луѓе кои не можат да ја видат сликата или кога сликата не се вчитува.
+# This is a required legal disclaimer that refers to the automatically created text inside the alt text box above this text. It disappears if the text is edited by a human.
+pdfjs-editor-new-alt-text-disclaimer1 = Овој алтернативен текст е креиран автоматски и може да биде неточен.
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Дознајте повеќе
+pdfjs-editor-new-alt-text-create-automatically-button-label = Креирај го алтернативниот текст автоматски
+pdfjs-editor-new-alt-text-not-now-button = Не сега
+pdfjs-editor-new-alt-text-error-title = Алтернатиовниот текст не може да се креира автоматски
+pdfjs-editor-new-alt-text-error-description = Напишете Ваш алтернативен текст или обидете се повторно подоцна.
+pdfjs-editor-new-alt-text-error-close-button = Затвори
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+#   $downloadedSize (Number) - the downloaded size (in MB) of the AI model.
+pdfjs-editor-new-alt-text-ai-model-downloading-progress = Преземање на алтернативен текст модел на ВИ ({ $downloadedSize } од { $totalSize } MB)
+    .aria-valuetext = Преземање на алтернативен текст модел на ВИ ({ $downloadedSize } од { $totalSize } MB)
+# This is a button that users can click to edit the alt text they have already added.
+pdfjs-editor-new-alt-text-added-button =
+    .aria-label = Алтернативниот текст е додаден
+pdfjs-editor-new-alt-text-added-button-label = Алтернативниот текст е додаден
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Недостасува алтернативен текст
+pdfjs-editor-new-alt-text-missing-button-label = Недостасува алтернативен текст
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Прегледај го алтернативниот текст
+pdfjs-editor-new-alt-text-to-review-button-label = Прегледај го алтернативниот текст
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = Креирано автоматски: { $generatedAltText }
+
+## Image alt-text settings
+
+pdfjs-image-alt-text-settings-button =
+    .title = Поставки за алтернативен текст на слика
+pdfjs-image-alt-text-settings-button-label = Поставки за алтернативен текст на слика
+pdfjs-editor-alt-text-settings-dialog-label = Поставки за алтернативен текст на слика
+pdfjs-editor-alt-text-settings-automatic-title = Автоматски алтернативен текст
+pdfjs-editor-alt-text-settings-create-model-button-label = Креирај го алтернативниот текст автоматски
+pdfjs-editor-alt-text-settings-create-model-description = Предлага описи за да им помогне на луѓето кои не можат да ја видат сликата или кога сликата не се вчитува.
+# Variables:
+#   $totalSize (Number) - the total size (in MB) of the AI model.
+pdfjs-editor-alt-text-settings-download-model-label = Модел на вештачка интелигенција со алтернативен текст ({ $totalSize } MB)
+pdfjs-editor-alt-text-settings-ai-model-description = Работи локално на вашиот уред, така што вашите податоци остануваат приватни. Задолжително за автоматски алтернативен текст.
+pdfjs-editor-alt-text-settings-delete-model-button = Избриши
+pdfjs-editor-alt-text-settings-download-model-button = Преземи
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = НОВО
