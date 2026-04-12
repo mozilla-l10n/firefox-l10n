@@ -85,8 +85,8 @@ pdfjs-scroll-horizontal-button =
     .title = 가로 스크롤 사용
 pdfjs-scroll-horizontal-button-label = 가로 스크롤
 pdfjs-scroll-wrapped-button =
-    .title = 자동 줄 바꿈 스크롤 사용
-pdfjs-scroll-wrapped-button-label = 자동 줄 바꿈 스크롤
+    .title = 자동 줄바꿈 스크롤 사용
+pdfjs-scroll-wrapped-button-label = 자동 줄바꿈 스크롤
 pdfjs-spread-none-button =
     .title = 한 페이지 보기
 pdfjs-spread-none-button-label = 펼침 없음
@@ -674,7 +674,7 @@ pdfjs-views-manager-pages-status-action-button-label = 관리
 pdfjs-views-manager-pages-status-copy-button-label = 복사
 pdfjs-views-manager-pages-status-cut-button-label = 잘라내기
 pdfjs-views-manager-pages-status-delete-button-label = 삭제
-pdfjs-views-manager-pages-status-export-selected-button-label = 선택한 항목 내보내기…
+pdfjs-views-manager-pages-status-export-selected-button-label = 선택 항목 내보내기…
 pdfjs-views-manager-pages-status-save-as-button-label = 다른 이름으로 저장…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.

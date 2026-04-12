@@ -22,7 +22,7 @@ site-data-column-last-used =
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (로컬 파일)
 site-data-remove-selected =
-    .label = 선택항목 삭제
+    .label = 선택 항목 삭제
     .accesskey = r
 site-data-settings-dialog =
     .buttonlabelaccept = 변경 내용 저장
