@@ -2157,6 +2157,10 @@ data-collection-run-studies =
     .description = { -brand-short-name } nasumično bira korisnike za testiranje funkcija, što pomaže poboljšati kvalitetu za sve.
 data-collection-studies-link =
     .label = Pregledaj { -brand-short-name } istraživanja
+data-collection-backlogged-crash-reports =
+    .label = Automatski šalji izvještaje o prekidu rada programa
+    .description = Ovo pomaže da { -vendor-short-name } dijagnosticira i riješi probleme s preglednikom. Izvještaji mogu sadržavati osobne ili osjetljive podatke.
+    .accesskey = A
 data-collection-usage-ping =
     .label = Šalji ping dnevnog korištenja proizvođaču { -vendor-short-name }
     .description = Ovo pomaže da { -vendor-short-name } procijeni broj aktivnih korisnika.
@@ -2184,6 +2188,8 @@ security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
     .accesskey = B
 security-enable-safe-browsing-link = Saznaj više
+security-safe-browsing-warning =
+    .message = Isključivanjem ove opcije smanjuje se zaštita od prijevara, zlonamjernih web-stranica i opasnih preuzimanja.
 security-block-downloads =
     .label = Blokiraj opasna preuzimanja
     .accesskey = o
@@ -2247,6 +2253,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS preko HTTPS
+dns-over-https-group2 =
+    .label = DNS preko HTTPS-a
+    .description = Sustav domenskih imena (DNS) preko HTTPS-a (DoH) šifrira pretrage web-stranica što otežava pružatelju internetskih usluga ili drugima vidjeti koje web-stranice namjeravaš posjetiti.
 preferences-doh-description = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
 preferences-doh-description2 = Domain Name System (DNS) preko HTTPS šalje tvoje zahtjeve s imenom domene putem šifrirane veze, stvarajući siguran DNS i otežava drugima da vide koje web stranice namjeravaš posjetiti.
 # Variables:
@@ -2302,6 +2311,28 @@ preferences-doh-exceptions-description = { -brand-short-name } neće koristiti s
 preferences-doh-manage-exceptions =
     .label = Upravljanje iznimkama …
     .accesskey = r
+preferences-doh-overview-default =
+    .label = Standardna zaštita
+    .description = Koristi sigurni DNS u regijama gdje je dostupan.
+preferences-doh-overview-custom =
+    .label = Prilagođeno
+    .description = Uvijek koristi sigurni DNS s kontrolom nad svojim pružateljem usluga i rezervnim ponašanjem.
+preferences-doh-advanced-button =
+    .label = Napredne postavke
+preferences-doh-manage-exceptions2 =
+    .label = Upravljaj iznimkama
+    .accesskey = i
+preferences-doh-radio-custom =
+    .label = Prilagođeno
+    .description = Uvijek koristi sigurni DNS s kontrolom nad svojim pružateljem usluga i rezervnim ponašanjem
+preferences-doh-status-item-off =
+    .message = DNS preko HTTPS-a je isključen
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS preko HTTPS-a koristi pružatelja usluge { $name }
+preferences-doh-header2 =
+    .heading = DNS preko HTTPS-a
 
 ## The following strings are used in the Download section of settings
 

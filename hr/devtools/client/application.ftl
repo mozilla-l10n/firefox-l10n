@@ -106,6 +106,9 @@ sidebar-item-manifest = Manifest
 sidebar-item-service-workers = Service workeri
     .alt = Ikona service workera
     .title = Service workeri
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = Prikaži podatke povijesti sesije
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona za upozorenje

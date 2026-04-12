@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Tvoja kopija profila { $profilename } je spremna za prilagođavanje
 copied-profile-page-header-description = Kopirali smo tvoje podatke i postavke u novi profil. Sada mu možeš zadati ime, odabrati izgled i prilagoditi ga.
+restored-profile-page-learn-more = Saznaj više
 profile-window-title-2 = { -brand-short-name } – Odaberi profil
 profile-window-logo =
     .alt = { -brand-short-name } logotip
@@ -87,6 +88,9 @@ delete-profile-bookmarks = Zabilješke
 delete-profile-history = Povijest (posjećene stranice, kolačići, podaci web stranice)
 delete-profile-autofill = Podaci automatskog ispunjavanja (adrese, načini plaćanja)
 delete-profile-logins = Lozinke
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Izbriši profil „{ $profilename }”
 
 ##
 

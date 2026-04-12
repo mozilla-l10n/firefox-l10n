@@ -218,3 +218,5 @@ bar-tooltip-cryptominer =
             [few] { $count } kripto-rudara ({ $percentage }%)
            *[other] { $count } kripto-rudara ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Zaštite privatnosti
