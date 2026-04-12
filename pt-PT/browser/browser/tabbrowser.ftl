@@ -45,6 +45,8 @@ tabbrowser-close-tabs-tooltip =
             [one] Fechar separador
            *[other] Fechar { $tabCount } separadores
         }
+tab-splitview-splitter =
+    .aria-label = Ajustar o tamanho dos separadores da vista dividida
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -281,6 +283,13 @@ tab-context-move-tab-to-group =
         { $tabCount ->
             [1] Adicionar separador ao grupo
            *[other] Adicionar separadores ao grupo
+        }
+    .accesskey = g
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adicionar vista dividida a novo grupo
+           *[other] Adicionar vistas divididas a novo grupo
         }
     .accesskey = g
 tab-context-move-tab-to-group-saved-groups =

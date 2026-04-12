@@ -20,6 +20,31 @@ fxa-menu-connect-another-device =
     .label = Ligar outro dispositivo…
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] Enviar para dispositivo
+           *[other] Enviar { $tabCount } separadores para dispositivo
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Enviar para dispositivo móvel
+           *[other] Enviar { $tabCount } separadores para dispositivo móvel
+        }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = Ative a sincronização para enviar um separador
+fxa-menu-send-to-mobile-connect-phone =
+    .label = Ligar o seu telemóvel
+fxa-menu-send-to-mobile-device-missing =
+    .label = Não vê o seu dispositivo?
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->

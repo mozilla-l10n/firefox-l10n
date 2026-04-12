@@ -128,3 +128,6 @@ sanitize-everything-warning = Todo o histórico será limpo.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Serão limpos todos os itens selecionados.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = A calcular…
