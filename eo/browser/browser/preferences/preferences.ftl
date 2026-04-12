@@ -1134,6 +1134,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Spegulado
+account-group-label2 =
+    .label = Konto
 account-group-label =
     .label = Konto de { -vendor-short-name }
 account-placeholder =

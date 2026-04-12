@@ -410,6 +410,9 @@ quickactions-cmd-help = helpo, subteno
 # Opens the devtools web inspector
 quickactions-inspector2 = Malfermi la ilojn por programistoj
 quickactions-cmd-inspector2 = inspektilo, iloj por programistoj
+# Opens Firefox Library
+quickactions-cmd-library = biblioteko
+quickactions-library = Malfermi bibliotekon
 quickactions-cmd-inspector = inspektilo, iloj por programistoj
 # Opens about:logins
 quickactions-logins2 = Administri pasvortojn

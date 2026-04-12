@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personecigi ilaron…
+appmenu-abouttranslations =
+    .label = Traduki…
 appmenu-developer-tools-subheader = Iloj de retumilo
 appmenu-developer-tools-extensions =
     .label = Etendaĵoj por programistoj
