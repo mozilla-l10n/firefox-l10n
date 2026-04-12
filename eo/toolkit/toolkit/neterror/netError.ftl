@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ne
 
 neterror-file-not-found-filename = Kontrolu ĉu la dosiernomo estas ĝuste literumita (majuskloj kaj minuskloj) kaj ĉu estas tajperaroj.
 neterror-file-not-found-moved = Kontrolu ĉu la dosiero estis movita, renomita aŭ forigita.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } ne povas trovi la dosieron ĉe <strong>{ $path }</strong>. Aŭ ĝi ne ekzistas aŭ la vojo estas malĝusta.
+neterror-file-not-found-what-can-you-do = Se vi mane tajpis la adreson, kontrolu ĉu ĝi estas ĝuste literumita kaj ke majusklaj kaj minusklaj literoj konguras. Se vi sekvis konservitan legosignon aŭ ligilon, la cela dosiero povus esti movita, renomita aŭ forigita ekde tiam. Provu serĉi ĝin per via dosieresplorilo aŭ ĵusa serĉo.
 neterror-access-denied = Eble ĝi estis forigita, aŭ movita, aŭ la permesoj dosieraj evitas aliron al ĝi.
 neterror-unknown-protocol = Vi eble bezonos instali alian programon por malfermi ĉi tiun adreson.
 neterror-redirect-loop = Tiu ĉi problemo povas okazi pro malaktivigo aŭ rifuzo de kuketoj.
@@ -190,6 +194,11 @@ fp-neterror-net-timeout-intro = La servilo ĉe <strong>{ $hostname }</strong> pr
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> respondis per eraro.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = La servilo ĉe <strong>{ $hostname }</strong> respondis per eraro: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } ne ŝargis tiun ĉi paĝon ĉar ŝajne la sekurecaj agordoj ne kongruas kun tiuj de la antaŭa paĝo.
 fp-neterror-http-auth-disabled-intro = Iu, kiu pretendas esti la retejo, povus klopodi ŝteli aferojn, kiel vian nomon de uzanto, pasvorton aŭ retpoŝtan adreson.
 fp-neterror-http-auth-disabled-secure-connection = Tiu ĉi retejo postulas sekuran konekton kaj pro tio vi ne povas aldoni escepton por viziti ĝin.

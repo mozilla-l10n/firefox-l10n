@@ -113,6 +113,8 @@ firefoxview-history-nav = Historio
 firefoxview-history-header = Historio
 firefoxview-history-context-delete = Forigi el historio
     .accesskey = F
+firefoxview-history-context-forget-site = Forgesi tiun ĉi retejon…
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -155,6 +157,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Serĉi en historio
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Serĉi en legosignoj
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Serĉi en ĵuse fermitaj langetoj

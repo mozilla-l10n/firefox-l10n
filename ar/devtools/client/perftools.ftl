@@ -73,6 +73,8 @@ perftools-thread-renderer =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>جديد</b>: دُمج { -profiler-brand-name } الآن في أدوات المطورين. <a>اطّلع على المزيد</a> حول هذه الأداة الجديدة القوية.
+perftools-onboarding-close-button =
+    .aria-label = أغلق رسالة الترحيب
 
 ## Profiler presets
 

@@ -43,6 +43,10 @@ certificate-viewer-logid = Identigilo de registro
 certificate-viewer-method = Metodo
 certificate-viewer-modulus = Modulo
 certificate-viewer-name = Nomo
+certificate-viewer-surname = Familia nomo
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Nomo
 certificate-viewer-not-after = Ne post
 certificate-viewer-not-before = Ne antaŭ
 certificate-viewer-organization = Organizo

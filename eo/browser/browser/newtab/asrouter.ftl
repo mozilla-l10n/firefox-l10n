@@ -309,6 +309,8 @@ tail-fox-spotlight-secondary-button = Ne nun
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = Spertu denove integritan privatecon
+welcome-back-spotlight-subtitle = Bonvenon denove al la ununura ĉefa retumilo subtenata de neprofitcela organizo. Ni vere strebas protekti viajn datumojn, kie ajn vi estas.
+welcome-back-embedded-import-title = Importu viajn datumojn kaj personecigu { -brand-short-name } por senti vin hejme
 
 ## Root Certificate Succession Infobar
 

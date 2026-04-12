@@ -118,6 +118,12 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = ال VPN معطّل 
 ipprotection-bandwidth-upgrade-title = أتحب استخدام VPN المدمج؟ احصل على حماية أكبر خارج { -brand-product-name } مع { -mozilla-vpn-brand-name }.
 ipprotection-bandwidth-upgrade-text = اختر موقع VPN وأضف الحماية لجميع تطبيقاتك على ما يصل إلى 5 أجهزة، سواء كنت في المنزل أو على شبكة Wi-Fi عامة.
 
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>اقتربت من الحد الأقصى لاستخدام VPN الخاص بك.</strong> لديك { $usageLeft } جي.بايت متبقية. ستُصفّر بياناتك في بداية الشهر القادم.
+
 ## IP Protection Settings
 
 ip-protection-learn-more = اطّلع على المزيد
