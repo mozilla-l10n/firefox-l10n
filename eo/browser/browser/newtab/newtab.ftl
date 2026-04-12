@@ -146,6 +146,9 @@ newtab-menu-report = Raporti
 newtab-menu-section-block = Bloki
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Ne plu sekvi
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Ne plu sekvi temon
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -313,6 +316,8 @@ newtab-custom-shortcuts-toggle =
     .description = Retejoj konservitaj aŭ vizititaj de vi
 newtab-custom-shortcuts-nova =
     .label = Ŝparvojoj
+newtab-custom-row-description =
+    .description = Nombro de vicoj
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -516,6 +521,12 @@ newtab-weather-opt-in-yes =
     .label = Jes
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Novjorko
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Maksimuma
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Minimuma
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -589,6 +600,7 @@ newtab-section-confirm-block-topic-p2 = Blokitaj temoj ne plu aperos en via info
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloki { $topic }
+newtab-section-block-cancel-button = Nuligi
 
 ## Strings for custom wallpaper highlight
 
@@ -652,6 +664,18 @@ newtab-toast-thanks-for-reporting =
     .message = Dankon pro via raporto.
 newtab-toast-widgets-hidden =
     .message = Elektu la krajonan emblemon por realdoni komponantojn, iam ajn.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Vi nun sekvas { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Vi ne plu sekvas { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Vi ne plu vidos artikolojn pri { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -693,6 +717,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova listo
 newtab-widget-section-title = Komponantoj
 newtab-widget-menu-hide = Kaŝi komponanton
+newtab-widget-menu-change-size = Ŝanĝi grandon
+newtab-widget-size-small = Eta
+newtab-widget-size-medium = Mezgranda
+newtab-widget-size-large = Granda
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Kaŝi komponantojn
@@ -739,6 +767,12 @@ newtab-daily-briefing-card-timestamp =
 newtab-widget-message-title = Resti koncentrita danke al listoj kaj integrita tempumilo
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Rapidaj memorigaĵoj, ĉiutagaj farendaĵoj, koncentriĝaj seancoj kaj ripozaj paŭzoj — akurate plenumu taskojn.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Personecigu { -brand-product-name } laŭ via gusto
+newtab-promo-card-body-addons = Elektu ekranfonon en nia kolekto aŭ kreu propran.
+newtab-promo-card-cta-addons = Provu nun
 newtab-promo-card-title = Subtenu { -brand-product-name }
 newtab-promo-card-body = Niaj patronoj subtenas nian mision: krei pli bonan interreton.
 newtab-promo-card-cta = Pli da informo
