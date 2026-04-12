@@ -1583,6 +1583,9 @@ history-remember-label = { -brand-short-name } će
     .accesskey = e
 history-remember-option-all =
     .label = Zapamti povijest
+history-remember-option-never2 =
+    .label = Nikada ne pamti povijest
+    .description = Svaki prozor funkcionira kao privatni prozor. Kada je uključeno, proširenja se moraju dozvoliti.
 history-remember-option-custom2 =
     .label = Prilagodi povijest
 history-remember-option-never =
@@ -1985,6 +1988,9 @@ permissions-speaker2 =
     .label = Zvučnik
 permissions-notification2 =
     .label = Obavijesti
+permissions-header3 =
+    .label = Dozvole
+    .description = Upravljaj web-stranicama koje mogu pristupiti, kontrolirati ili pokrenuti određene stvari.
 
 ## Privacy Section - Data Collection
 
@@ -2083,7 +2089,7 @@ website-advertising-private-attribution-description = Ovo pomaže web stranicama
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
-security-browsing-protection = Zaštita od zavaravajućeg sadržaja i zlonamjernih aplikacija
+security-browsing-protection = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
     .accesskey = B

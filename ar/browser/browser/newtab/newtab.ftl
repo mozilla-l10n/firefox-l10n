@@ -576,6 +576,10 @@ newtab-toast-thanks-for-reporting =
     .message = شكرا لك على الإبلاغ عن هذا.
 newtab-toast-widgets-hidden =
     .message = حدّد رمز القلم لإضافة الأدوات مرة أخرى في أي وقت.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = لم تعد تتابع { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -601,22 +605,34 @@ newtab-widget-lists-input-add-an-item =
     .placeholder = أضف عنصر
 newtab-widget-lists-input-error = يُرجى إدخال نص لإضافة عنصر.
 newtab-widget-lists-input-menu-open-link = افتح الرابط
+newtab-widget-lists-input-menu-move-up = انقل لأعلى
+newtab-widget-lists-input-menu-move-down = انقل لأسفل
 newtab-widget-lists-input-menu-delete = احذف
 newtab-widget-lists-input-menu-edit = حرّر
+newtab-widget-lists-name-label-default =
+    .label = قائمة المهام
 newtab-widget-lists-name-placeholder-default =
     .placeholder = قائمة المهام
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = قائمة جديدة
+newtab-widget-section-feedback = أخبرنا برأيك
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
 
 newtab-widget-timer-notification-title = المؤقت
+newtab-widget-timer-notification-break = انتهت استراحتك. هل أنت مستعد للتركيز؟
+newtab-widget-timer-mode-focus =
+    .label = ركّز
+newtab-widget-timer-mode-break =
+    .label = استراحة
 newtab-widget-timer-label-play =
     .label = شغّل
 newtab-widget-timer-label-pause =
     .label = ألبِث
+newtab-widget-timer-reset =
+    .title = صفّر
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
