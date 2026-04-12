@@ -2226,11 +2226,43 @@ preferences-doh-overview-default =
 preferences-doh-overview-custom =
     .label = Personalizado
     .description = Utilize sempre o DNS seguro com controlo sobre o seu fornecedor e comportamentos de recurso.
+preferences-doh-overview-off =
+    .label = Desligado
+    .description = Utilizar o seu tradutor de DNS padrão.
 preferences-doh-advanced-button =
     .label = Definições avançadas
 preferences-doh-advanced-section =
     .label = Definições avançadas
     .description = O Domain Name System over HTTPS (DoH) encripta as consultas de sites, tornando mais difícil para o seu fornecedor da Internet ou outros verem que sites está prestes a visitar.
+preferences-doh-manage-exceptions2 =
+    .label = Gerir exceções
+    .accesskey = x
+preferences-doh-radio-default =
+    .label = Predefinido
+    .description = Utilizar o DNS seguro em regiões onde está disponível
+preferences-doh-radio-custom =
+    .label = Personalizado
+    .description = Utilizar sempre o DNS seguro com controlo sobre o seu fornecedor e comportamento de recurso
+preferences-doh-radio-off =
+    .label = Desligado
+    .description = Utilizar o seu tradutor de DNS padrão
+preferences-doh-fallback-label =
+    .label = Avisar-me sempre se o DNS seguro não estiver disponível
+preferences-doh-status-item-off =
+    .message = O DNS sobre HTTPS está desligado
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = O DNS sobre HTTPS não está a funcionar porque encontrámos um erro ({ $reason }) ao tentar utilizar o fornecedor { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = O DNS sobre HTTPS não está a funcionar porque recebemos um URL inválido ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = O DNS sobre HTTPS está a utilizar o fornecedor { $name }
 
 ## The following strings are used in the Download section of settings
 
@@ -2246,6 +2278,7 @@ preferences-ai-controls-description = Você tem sempre uma escolha no { -brand-s
 preferences-ai-controls-block-ai-label = Bloquear melhorias de IA
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = Bloquear significa que não verá melhorias de IA novas ou existentes no { -brand-short-name }, nem janelas flutuantes sobre essas melhorias. <a data-l10n-name="link">Saiba mais</a> sobre o que está incluído e como gerir funcionalidades tradicionais de aprendizagem automática, como sugestões de pesquisa e recomendações.
 preferences-ai-controls-blocked-message =
     .message = As melhorias de IA, novas e atuais, são bloqueadas por predefinição. Para desbloquear uma funcionalidade específica, utilize os controlos em baixo.
 preferences-ai-controls-on-device-group =
@@ -2255,6 +2288,12 @@ preferences-ai-controls-translations-control =
     .label = Traduções
     .description = Navegue facilmente na web no seu idioma preferido.
 preferences-ai-controls-translations-more-link = Mais definições das traduções
+preferences-ai-controls-pdfjs-control =
+    .label = Texto alternativo de imagens no visualizador de PDF do { -brand-short-name }
+    .description = Quando adiciona imagens a PDF, isto adiciona descrições para as tornar acessíveis.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = Sugestões de grupos de separadores
+    .description = Obtenha sugestões para nomear e organizar os seus separadores.
 preferences-ai-controls-key-points-control =
     .label = Pontos chave nas pré-visualizações das ligações
     .description = Veja um resumo rápido antes de abrir uma ligação.
@@ -2266,16 +2305,29 @@ preferences-ai-controls-sidebar-chatbot-control =
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponível
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = Ativada
 # This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
 preferences-ai-controls-state-blocked =
     .label = Bloqueada
 preferences-ai-controls-state-description-before = O que significam as opções:
 preferences-ai-controls-state-description-available = <strong>Disponível:</strong> Irá ver a funcionalidade e poderá utilizá-la.
+preferences-ai-controls-state-description-enabled = <strong>Ativada:</strong> Optou por utilizar a funcionalidade.
 preferences-ai-controls-state-description-blocked = <strong>Bloqueada:</strong> Não poderá ver e não poderá utilizar a funcionalidade. Para IA no dispositivo, são removidos quaisquer modelos já transferidos.
 preferences-ai-controls-block-confirmation-heading = Bloquear melhorias de IA?
+preferences-ai-controls-block-confirmation-description = Deixará de ver novas ou atuais melhorias de IA no { -brand-short-name }, assim como janelas flutuantes relacionadas. Mais tarde, pode desbloquear o que quiser continuar a utilizar.
 preferences-ai-controls-block-confirmation-features-start = O que será bloqueado:
 preferences-ai-controls-block-confirmation-translations = Traduções
+preferences-ai-controls-block-confirmation-pdfjs = Texto alternativo de imagens no visualizador de PDF do { -brand-short-name }
+preferences-ai-controls-block-confirmation-tab-group-suggestions = Sugestões de grupos de separadores
+preferences-ai-controls-block-confirmation-key-points = Pontos chave nas pré-visualizações das ligações
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Fornecedores de Chatbots na barra lateral
+preferences-ai-controls-block-confirmation-features-after = O bloqueio também afeta as extensões que utilizam a IA fornecida pelo { -brand-short-name }.
+preferences-ai-controls-block-confirmation-cancel =
+    .label = Cancelar
+preferences-ai-controls-block-confirmation-confirm =
+    .label = Bloquear
 
 ## Privacy and security status card
 
