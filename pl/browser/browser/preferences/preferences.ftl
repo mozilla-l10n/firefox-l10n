@@ -1138,11 +1138,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synchronizacja
+account-group-label2 =
+    .label = Konto
+account-placeholder2 =
+    .label = Nie zalogowano
+    .description = Zaloguj się, a Twoje dane będą prywatne, zaszyfrowane i błyskawicznie dostępne wszędzie tam, gdzie używasz { -brand-short-name(case: "gen") }.
 account-group-label =
     .label = Konto { -vendor-short-name(case: "gen") }
 account-placeholder =
     .label = Nie zalogowano
     .description = Zaloguj się, aby Twoje dane były prywatne, zaszyfrowane i synchronizowane między urządzeniami.
+account-sync-section =
+    .heading = Konto i synchronizacja
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1265,6 +1272,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Obecnie synchronizowane na wszystkich połączonych urządzeniach:
 sync-syncing-across-devices-heading-2 = Dane synchronizowane między urządzeniami
+sync-syncing-across-devices-empty-state2 =
+    .label = Zarządzaj synchronizowanymi danymi
+    .description = Nic nie jest synchronizowane… jeszcze. Zacznij synchronizację, aby wszystkie Twoje dane były na wszystkich Twoich urządzeniach.
 sync-syncing-across-devices-empty-state =
     .label = Nic nie jest synchronizowane… jeszcze.
     .description = Zacznij synchronizację, aby wszystkie Twoje dane były na wszystkich Twoich urządzeniach.
@@ -1284,6 +1294,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Zarządzaj synchronizowanymi danymi
     .accesskey = d
+settings-sync-disconnect-button =
+    .label = Rozłącz
 sync-change-options =
     .label = Zmień…
     .accesskey = m
