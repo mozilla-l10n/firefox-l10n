@@ -294,6 +294,8 @@ containers-remove-cancel-button = Ez kendu edukiontzia
 settings-tabs-show-image-in-preview =
     .label = Erakutsi aurrebista-irudia sagua fitxaren gainetik pasatzean
     .accessKey = b
+settings-tabs-drag-to-create-tab-groups =
+    .label = Arrastatu fitxak elkarren ondora fitxa-taldeak sortzeko
 browser-layout-header2 =
     .label = Nabigatzailearen diseinua
 browser-layout-horizontal-tabs2 =
@@ -1132,11 +1134,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinkronizazioa
+account-group-label2 =
+    .label = Kontua
+account-placeholder2 =
+    .label = Ez duzu saiorik hasi
+    .description = Hasi saioa eta mantendu zure datuak pribatu, zifratuta eta berehala erabilgarri { -brand-short-name } darabilzun edozein lekutan.
 account-group-label =
     .label = { -vendor-short-name } kontua
 account-placeholder =
     .label = Ez duzu saiorik hasi
     .description = Hasi saioa zure datuak pribatu, zifratuta eta gailu guztien artean sinkronizatuta mantentzeko.
+account-sync-section =
+    .heading = Kontua eta sinkronizazioa
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1259,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Elementu hauek konektatutako zure gailu guztien artean ari zara sinkronizatzen:
 sync-syncing-across-devices-heading-2 = Gailuen artean sinkronizatutako datuak
+sync-syncing-across-devices-empty-state2 =
+    .label = Kudeatu sinkronizatutako datuak
+    .description = Ez zara ezer sinkronizatzen ari… oraindik. Hasi sinkronizatzen zure datu guztiak gailu guztietan izateko.
 sync-syncing-across-devices-empty-state =
     .label = Ez zara ezer sinkronizatzen ari… oraindik.
     .description = Hasi sinkronizatzen datu guztiak zure gailu guztietan izan ditzazun.
@@ -1278,6 +1290,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Kudeatu sinkronizatutako datuak
     .accesskey = K
+settings-sync-disconnect-button =
+    .label = Deskonektatu
 sync-change-options =
     .label = Aldatu…
     .accesskey = A
@@ -1720,6 +1734,13 @@ sitedata-cookies-exceptions2 =
     .label = Kudeatu salbuespenak
     .accesskey = s
     .description = Zehaztu dezakezu zein webgunek duten beti edo inoiz baimena cookieak eta guneetako datuak erabiltzeko.
+sitedata-settings3 =
+    .label = Garbitu datuak gune jakinetarako
+    .accesskey = n
+sitedata-cookies-exceptions3 =
+    .label = Kudeatu salbuespenak
+    .accesskey = s
+    .description = Aukeratu nola kudeatzen dituzten gune jakinek cookieak eta gunearen datuak.
 cookies-site-data-group =
     .label = Cookieak eta guneetako datuak
 
@@ -1986,6 +2007,16 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Kudeatu salbuespenak
+    .description = Gehitu laster-leihoak ireki eta hirugarrenek eragindako birbideratzeak erabil ditzaketen webguneak.
+    .accesskey = s
+    .searchkeywords = popups,laster-leiho
+permissions-addon-install-warning3 =
+    .label = Erakutsi abisua webguneak hedapenak instalatzen saiatzen badira
+    .accesskey = b
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Kudeatu laster-leihoen eta hirugarrenek eragindako birbideratzeen salbuespenak
     .accesskey = e
@@ -2025,6 +2056,9 @@ permissions-speaker2 =
     .label = Bozgorailua
 permissions-notification2 =
     .label = Jakinarazpenak
+permissions-header3 =
+    .label = Baimenak
+    .description = Kudeatu webguneek zer atzitu, kontrolatu edo abiaraz dezaketen.
 
 ## Privacy Section - Data Collection
 
@@ -2039,6 +2073,9 @@ collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } 
 collection-privacy-notice = Pribatutasun-oharra
 collection-health-report-telemetry-disabled = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
 collection-health-report-telemetry-disabled-link = Argibide gehiago
+nimbus-rollouts =
+    .label = Baimendu eguneraketen artean { -brand-short-name }(e)k eginbideak, errendimendua eta egonkortasuna hobetzea
+    .description = Aldaketak urrunetik emango dira ezagutzera.
 addon-recommendations3 =
     .label = Baimendu hedapenen pertsonalizatutako gomendioak
     .description = Jaso hedapenen gomendioak zure nabigatze-esperientzia hobetzeko.

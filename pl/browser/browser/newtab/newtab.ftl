@@ -477,7 +477,7 @@ newtab-wallpaper-celestial-lunar-eclipse = Zaćmienie Księżyca
 newtab-wallpaper-celestial-earth-night = Zdjęcie nocne z niskiej orbity okołoziemskiej
 newtab-wallpaper-celestial-starry-sky = Gwiaździste niebo
 newtab-wallpaper-celestial-eclipse-time-lapse = Poklatkowe zaćmienie Księżyca
-newtab-wallpaper-celestial-black-hole = Ilustracja galaktyki z czarną dziurą
+newtab-wallpaper-celestial-black-hole = Ilustracja przedstawiająca galaktykę z czarną dziurą
 newtab-wallpaper-celestial-river = Zdjęcie satelitarne rzeki
 
 ## New Tab Weather
