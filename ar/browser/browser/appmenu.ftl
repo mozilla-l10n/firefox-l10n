@@ -208,6 +208,7 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = إعداد مسبق للتنقيح في { -brand-shorter-name }. تكلفة إضافية عالية، لا تستخدمه لأعمال الأداء ولكن استخدمه للتركيز على فهم سلوك المتصفح.
 profiler-popup-presets-debug-label =
     .label = نقّح
+profiler-popup-presets-web-compat-description = الإعداد المسبق الموصى به لتصحيح أخطاء توافق الوِب في مواقع الوِب، بدلاً من تتبع الأداء.
 profiler-popup-presets-web-compat-label =
     .label = توافق الوِب
 profiler-popup-presets-custom-label =

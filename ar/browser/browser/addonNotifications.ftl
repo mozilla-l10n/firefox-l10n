@@ -140,15 +140,18 @@ addon-install-error-corrupt-file = تعذر تثبيت الإضافة المنز
 addon-install-error-file-access = تعذر تثبيت الإضافة { $addonName } لأن { -brand-short-name } عجز عن تعديل الملف المطلوب.
 addon-install-error-not-signed = منع { -brand-short-name } هذا الموقع من تثبيت إضافة لم يتحقق منها.
 addon-install-error-invalid-domain = تعذر تثبيت إضافة { $addonName } من هذا المكان.
+addon-install-error-no-addon-name-file-access = فشل تثبيت الإضافة لأن { -brand-short-name } لا يستطيع تعديل الملف المطلوب.
 addon-local-install-error-network-failure = تعذر تثبيت هذه الإضافة بسبب عطل في نظام الملفات.
 addon-local-install-error-incorrect-hash = تعذر تثبيت هذه الإضافة لأنها لم تتوافق مع توقعات { -brand-short-name }.
 addon-local-install-error-corrupt-file = تعذر تثبيت هذه الإضافة لأنها تبدو تالفة.
 addon-local-install-error-file-access = تعذر تثبيت الإضافة { $addonName } لأن { -brand-short-name } عجز عن تعديل الملف المطلوب.
 addon-local-install-error-not-signed = تعذر تثبيت هذه الإضافة إذ لم يُتحقق منها.
+addon-local-install-no-addon-name-error-file-access = فشل تثبيت الإضافة لأن { -brand-short-name } لا يستطيع تعديل الملف المطلوب.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = تعذر تثبيت الإضافة { $addonName } لأنها غير متوافقة مع { -brand-short-name }‏ { $appVersion }.
 addon-install-error-hard-blocked = ينتهك { $addonName } سياسات Mozilla ولا يمكن تثبيته على { -brand-short-name }.
+addon-install-error-soft-blocked2 = { $addonName } مقيد ولا يمكن تثبيته على { -brand-short-name }.
 addon-install-error-blocklisted = تعذر تثبيت الإضافة { $addonName } بسبب احتمال كبير في تسببها لمشاكل في الأمن أو الثبات.
 addon-install-error-soft-blocked = ينتهك { $addonName } سياسات Mozilla ولا يمكن تثبيته على { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.

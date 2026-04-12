@@ -355,6 +355,10 @@ newtab-custom-widget-lists-toggle =
     .label = قوائم
 newtab-custom-widget-timer-toggle =
     .label = المؤقت
+# Tooltip for close button
+newtab-custom-close-menu-button =
+    .title = أغلق
+    .aria-label = أغلق القائمة
 newtab-custom-close-button = أغلِق
 newtab-custom-settings = أدِر المزيد من الإعدادات
 
@@ -417,11 +421,27 @@ newtab-wallpaper-abstract-blue-purple = الأشكال الزرقاء والأر
 ## Firefox
 
 newtab-wallpaper-white-mountains = جبال بيضاء
+newtab-wallpaper-hot-air-balloons = مجموعة متنوعة من ألوان البالونات الهوائية الساخنة خلال النهار
+newtab-wallpaper-starry-canyon = ليلة زرقاء مليئة بالنجوم
+newtab-wallpaper-suspension-bridge = تصوير جسر رمادي معلق بالكامل خلال النهار
+newtab-wallpaper-sand-dunes = كثبان رملية بيضاء
 newtab-wallpaper-feature-highlight-header = جرب دفقة من الألوان
 newtab-wallpaper-feature-highlight-button = فهمت
+# Tooltip for dismiss button
+feature-highlight-dismiss-button =
+    .title = أهمِل
+    .aria-label = أغلق النافذة المنبثقة
 feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
+
+## Celestial
+
+# “Celestial” referring to astronomy; positioned in or relating to the sky,
+# or outer space as observed in astronomy.
+# Not to be confused with religious definition of the word.
+newtab-wallpaper-category-title-celestial = سماوي
+newtab-wallpaper-celestial-lunar-eclipse = خسوف القمر
 
 ## New Tab Weather
 
@@ -429,6 +449,9 @@ feature-highlight-wallpaper =
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast =
     .title = أظهِر التوقعات في { $provider }
+# Variables:
+#   $provider (string) - Service provider for weather data
+newtab-weather-sponsored = { $provider } ∙ مموّل
 newtab-weather-menu-change-location = غيّر المكان
 newtab-weather-menu-weather-display = عرض الطقس
 # Display options are:
@@ -438,9 +461,14 @@ newtab-weather-menu-weather-display-option-simple = بسيط
 newtab-weather-menu-weather-display-option-detailed = مفصل
 newtab-weather-menu-change-weather-display-detailed = بدّل إلى العرض التفصيلي
 newtab-weather-menu-temperature-units = وحدات قياس درجة الحرارة
+newtab-weather-menu-temperature-option-fahrenheit = فهرنهايت
 newtab-weather-menu-temperature-option-celsius = درجة مئوية
+newtab-weather-menu-change-temperature-units-fahrenheit = بدّل إلى فهرنهايت
+newtab-weather-menu-change-temperature-units-celsius = بدّل إلى درجة مئوية
 newtab-weather-menu-hide-weather = أخفِ الطقس في اللسان الجديد
 newtab-weather-menu-learn-more = اطّلع على المزيد
+# This message is shown if user is working offline
+newtab-weather-error-not-available = البيانات الجوية غير متوفرة حاليًا.
 newtab-weather-opt-in-yes =
     .label = نعم
 # "Highest" here refers to the highest temperature of the day
@@ -494,6 +522,10 @@ newtab-section-block-cancel-button = ألغِ
 
 newtab-section-mangage-topics-title = المواضيع
 newtab-custom-wallpaper-cta = جربه
+
+## Strings for new user activation custom wallpaper highlight
+
+newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 
 ## Strings for download mobile highlight
 

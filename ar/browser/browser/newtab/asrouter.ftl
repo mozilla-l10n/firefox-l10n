@@ -248,6 +248,8 @@ set-default-pdf-handler-primary = فهمت
 
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = ارسم أو اكتب أو ارفع توقيعك، ثم ضعه في المكان الذي تريده بالضبط. احفظ توقيعاتك المفضلة لاستخدامها في المرة القادمة.
+annotations-make-default-pdf-handler-title = اجعل { -brand-short-name } محرِّر ملفات PDF المبدئي لديك؟
+annotations-make-default-pdf-handler-subtitle = ستتمكن من الوصول إلى أدواتنا في كل مرة تفتح فيها ملف PDF.
 annotations-make-default-pdf-primary-cta-label = اجعله المبدئي
 annotations-make-default-pdf-next-label = التالي
 
@@ -314,6 +316,8 @@ tail-fox-spotlight-secondary-button = ليس الآن
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = استعد للخصوصية المدمجة
+welcome-back-spotlight-subtitle = مرحبًا بك مجددًا في المتصفح الرئيسي الوحيد المدعوم من مؤسسة غير ربحية. نتخذ إجراءات إضافية لحماية بياناتكم أينما كنتم.
+welcome-back-embedded-import-title = استورد بياناتك واجعل { -brand-short-name } يشعرك وكأنك في بيتك
 
 ## Root Certificate Succession Infobar
 
@@ -344,6 +348,7 @@ fxa-menu-message-sign-in-button = لِج
 fxa-menu-message-sync-button = ابدأ المزامنة
 fxa-menu-message-sync-devices-primary-text = زامِن كل أجهزتك
 fxa-menu-message-sync-devices-secondary-text = احصل على معلوماتك على الفور — مثل العلامات وكلمات السر — في أي مكان تستخدم فيه { -brand-short-name }.
+fxa-menu-message-sync-devices-secondary-text2 = احصل على علاماتك وكلمات السر والمزيد على الفور - أينما كنت ولِجت إلى { -brand-short-name }.
 fxa-menu-message-sync-devices-collapsed-text = زامِن كل أجهزتك
 fxa-menu-message-backup-data-primary-text = انسخ بيانات متصفحك احتياطيًا
 fxa-menu-message-backup-data-secondary-text = حماية العلامات وكلمات السر والمعلومات الأخرى على جميع أجهزتك تلقائيًا.
@@ -373,10 +378,12 @@ windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-info-button = طالِع ما المحجوب
 windows-10-eos-callout-addons-title = جرّب الإضافات: ترقيات بسيطة، تأثيرات كبيرة
 windows-10-eos-callout-addons-subtitle = اُخترت هذه الإضافات لمساعدتك على البقاء منتجًا ومحميًا وخاليًا من المشتتات.
 windows-10-eos-callout-addons-primary-button = شاهد اختياراتنا
 windows-10-eos-sync-callout-next-button = التالي
+windows-10-eos-sync-callout-get-started-button = ابدأ
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
