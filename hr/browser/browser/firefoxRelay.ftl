@@ -25,6 +25,13 @@ firefox-relay-reuse-masks-header =
         [few] Iskoristio/la si sve { $count } besplatne maske e-mail adrese
        *[other] Iskoristio/la si svih { $count } besplatnih maski e-mail adrese
     }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Možeš ponovo koristiti jednu masku ili vidjeti sve maske za biranje jedne druge.
+firefox-relay-reuse-masks-select-label = Odaberi nedavnu masku
+firefox-relay-see-all-masks =
+    .label = Pogledaj sve maske
+    .accesskey = P
 firefox-relay-dismiss =
     .label = Odbaci
     .accesskey = d

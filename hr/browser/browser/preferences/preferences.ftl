@@ -1656,8 +1656,18 @@ history-clear-button =
     .accesskey = s
 history-header2 =
     .heading = Povijest
+history-section-header =
+    .label = Povijest
+    .description = Odaberi što želiš da { -brand-short-name } zapamti kada zatvoriš preglednik.
+history-custom-section-header =
+    .label = Napredne postavke
+    .description = Prilagodi što želiš da { -brand-short-name } zapamti kada zatvoriš preglednik.
+history-custom-button =
+    .label = Odaberi što želiš da { -brand-short-name } zapamti
 history-group =
     .label = Povijest
+history-remember-option-all2 =
+    .label = Zapamti povijest
 
 ## Privacy Section - Site Data
 
@@ -1666,13 +1676,23 @@ sitedata-total-size-calculating = Izračunavanje količine podataka web-stranice
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Web-stranice trenutačno koriste <strong>{ $value } { $unit }</strong> memorije na disku.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Tvoji spremljeni kolačići, podaci web-stranica i predmemorija trenutačno zauzimaju { $value } { $unit } memorije na disku.
 sitedata-learn-more = Saznaj više
+sitedata-delete-on-close2 =
+    .label = Izbriši kolačiće i podatke web-stranica svaki put kada zatvoriš { -brand-short-name }
+    .accesskey = I
 sitedata-delete-on-close =
     .label = Izbriši kolačiće i podatke stranica kad se { -brand-short-name } zatvori
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Na temelju tvojih postavki povijesti, { -brand-short-name } briše kolačiće i podatke web-stranica kada zatvoriš preglednik.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Povijest se neće spremiti.
+    .message = { -brand-short-name } briše kolačiće i podatke web-stranice iz tvoje sesije kada zatvoriš preglednik.
 sitedata-delete-on-close-private-browsing = U modusu trajnog privatnog pregledavanja će se kolačići i podaci web-stranica uvijek izbrisati kada se { -brand-short-name } zatvori.
 sitedata-delete-on-close-private-browsing2 = Na temelju tvojih postavki povijesti, { -brand-short-name } briše kolačiće i podatke web-stranica kada zatvoriš preglednik.
 sitedata-allow-cookies-option =
@@ -1718,6 +1738,16 @@ sitedata-cookies-exceptions2 =
     .label = Upravljaj iznimkama
     .accesskey = v
     .description = Možeš odrediti koje web-stranice uvijek smiju ili nikada ne smiju koristiti kolačiće i podatke web-stranice.
+sitedata-heading =
+    .label = Podaci pregledavanja
+    .description = Upravljaj kolačićima, poviješću, predmemorijom, podacima web-stranica i još mnogo toga.
+sitedata-settings3 =
+    .label = Izbriši podatke za određene web-stranice
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Upravljaj proširenjima
+    .accesskey = v
+    .description = Odaberi kako određene web-stranice barataju s kolačićima i podacima web-stranice.
 cookies-site-data-group =
     .label = Kolačići i podaci web-stranice
 
