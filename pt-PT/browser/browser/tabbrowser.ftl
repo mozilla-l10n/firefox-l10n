@@ -292,6 +292,13 @@ tab-context-move-split-view-to-new-group =
            *[other] Adicionar vistas divididas a novo grupo
         }
     .accesskey = g
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Adicionar vista dividida a grupo
+           *[other] Adicionar vistas divididas a grupo
+        }
+    .accesskey = g
 tab-context-move-tab-to-group-saved-groups =
     .label = Grupos fechados
 tab-group-editor-action-new-tab =
@@ -370,6 +377,8 @@ tab-context-delete-note =
     .accesskey = l
 tab-note-editor-title-create = Adicionar nota
 tab-note-editor-title-edit = Editar nota
+tab-note-editor-text-field =
+    .placeholder = O que deseja recordar sobre este separador?
 tab-note-editor-button-save =
     .label = Guardar
     .accesskey = G
@@ -378,4 +387,27 @@ tab-note-panel-add-note-new-badge =
 
 ## Split View
 
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Adicionar vista dividida
+    .accesskey = v
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Abrir na vista dividida
+    .accesskey = v
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separar vista dividida
+    .accesskey = v
 tab-context-badge-new = Nova
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
+
+# "Separate" is a verb, as in "separate the split view tabs and display them normally".
+split-view-menuitem-separate-tabs =
+    .label = Separar separadores
+# "Reverse" is a verb, as in "reverse the order of split view tabs".
+split-view-menuitem-reverse-tabs =
+    .label = Reverter separadores
+split-view-menuitem-close-both-tabs =
+    .label = Fechar ambos os separadores
