@@ -78,6 +78,9 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .title = أغلِق
 fxa-adoption-addresses-backup-title = دعنا نحتفظ بنسخة احتياطية من عناوينك المحفوظة
 fxa-adoption-addresses-backup-subtitle = احمِ عناوينك المحفوظة عبر مزامنتها مع أجهزتك باستخدام التعمية.
+fxa-adoption-credit-cards-backup-title = دعنا ننسخ احتياطيًا طرق الدفع الخاصة بك
+fxa-adoption-bookmarks-treatment-backup-title = دعنا ننسخ احتياطيًا علاماتك
+fxa-adoption-bookmarks-treatment-backup-subtitle = احمِ علاماتك عن طريق مزامنتها مع أجهزتك باستخدام التعمية.
 fxa-adoption-primary-button-label = سجّل حسابًا
 
 ## Protections panel
@@ -243,6 +246,8 @@ set-default-pdf-handler-primary = فهمت
 
 ## PDF Annotations strings
 
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = ارسم أو اكتب أو ارفع توقيعك، ثم ضعه في المكان الذي تريده بالضبط. احفظ توقيعاتك المفضلة لاستخدامها في المرة القادمة.
 annotations-make-default-pdf-primary-cta-label = اجعله المبدئي
 annotations-make-default-pdf-next-label = التالي
 

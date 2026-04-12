@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = اكتم اللسان
 fxviewtabrow-unmute-tab-button-no-context =
     .title = أطلِق صوت اللسان
+fxviewtabrow-send-to-mobile-connect-phone =
+    .label = صل جوّالك
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = ألا ترى جهازك؟
