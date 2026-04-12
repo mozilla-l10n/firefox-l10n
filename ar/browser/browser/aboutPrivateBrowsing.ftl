@@ -56,7 +56,7 @@ about-private-browsing-promo-close-button =
 about-private-browsing-pin-promo-header = حرية التصفح الخاص بنقرة واحدة
 about-private-browsing-pin-promo-link-text =
     { PLATFORM() ->
-        [macos] أبق في الDock
+        [macos] أبق في الرصف
        *[other] ثبّت في شريط المهام
     }
 about-private-browsing-pin-promo-title = لن تحفظ ملفات تعريف الارتباط ولا التاريخ، مباشرة من سطح مكتبك. تصفح وكأن لا أحد يراقبك.

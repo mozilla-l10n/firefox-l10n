@@ -77,3 +77,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Imajte svoj po
 experimental-features-semantic-history-search =
     .label = Semantičko pretraživanje povijesti
 experimental-features-semantic-history-search-description = Koristi lokalni model strojnog učenja za prijedloge unosa iz povijesti koje su povezane s tvojim pretragama na osnovi razumijevanja prirodnog jezika u { -brand-product-name } adresnoj traci. <a data-l10n-name="connect">Dijeli povratne informacije</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Bilješke kartica
+experimental-features-tab-notes-description = Bilješke na karticama je eksperimentalna funkcija koja omogućuje dodavanje ljepljivih bilješki karticama preglednika. Zabilježi kontekst, podsjetnike ili sljedeće korake kako bi se mogao/la vratiti i sjetiti se zašto si ih otvorio/la. Pošalji nam povratne informacije dok nastavljamo poboljšavati ovu funkciju. <a data-l10n-name="connect">Dijeli povratne informacije</a>

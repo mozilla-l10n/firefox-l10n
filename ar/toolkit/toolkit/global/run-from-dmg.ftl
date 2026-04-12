@@ -9,7 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = إنهاء تحميل { -brand-short-name }؟
-prompt-to-install-message = أكمل عملية التثبيت هذه بخطوة واحدة للمساعدة في إبقاء { -brand-short-name } محدثًا ومنع فقد البيانات. سيتم إضافة { -brand-short-name } إلى مجلد تطبيقاتك وللـDock.
+prompt-to-install-message = أكمل عملية التثبيت هذه بخطوة واحدة للمساعدة في إبقاء { -brand-short-name } محدثًا ومنع فقد البيانات. سيتم إضافة { -brand-short-name } إلى مجلد تطبيقاتك وللرصف.
 prompt-to-install-yes-button = نصّب
 prompt-to-install-no-button = لا تقم بالتثبيت
 

@@ -785,6 +785,13 @@ network-proxy-connection-learn-more = Saznaj više
 network-proxy-connection-settings =
     .label = Postavke …
     .accesskey = e
+network-proxy-group2 =
+    .label = Proxy postavke
+    .description = Konfiguriraj kako se { -brand-short-name } povezuje s internetom.
+network-proxy-connection-settings2 =
+    .label = Konfiguriraj proxy
+    .description = Mijenjanje ovih postavki može prouzročiti probleme s povezivanjem
+    .accesskey = p
 
 ## Home Section
 
@@ -1575,9 +1582,11 @@ history-header = Povijest
 history-remember-label = { -brand-short-name } će
     .accesskey = e
 history-remember-option-all =
-    .label = zapamtiti povijest
+    .label = Zapamti povijest
+history-remember-option-custom2 =
+    .label = Prilagodi povijest
 history-remember-option-never =
-    .label = zaboraviti povijest
+    .label = Nikada ne pamti povijest
 history-remember-option-custom =
     .label = koristiti prilagođene postavke za povijest
 history-remember-description4 =

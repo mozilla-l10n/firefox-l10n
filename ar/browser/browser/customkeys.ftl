@@ -9,9 +9,16 @@ customkeys-reset = إعادة تعيين
 customkeys-clear = مسح
 customkeys-new-key = اضغط على مفتاح جديد:
 customkeys-reset-all = صفّر جميع الاختصارات إلى الإعدادات المبدئية
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = هذا المفتاح مُعيِّن بالفعل لـ { $conflict }. أتريد استبداله؟
+customkeys-reset-all-confirm = أمتأكد من رغبتك في تصفير جميع اختصارات لوحة المفاتيح إلى إعداداتها المبدئية؟
+customkeys-history-reopen-tab = أعِد فتح آخر لسان مغلق
+customkeys-history-reopen-window = أعِد فتح آخر نافذة مغلقة
 customkeys-sidebar-toggle = بدّل ظهور الشريط الجانبي
 customkeys-view-picture-in-picture = فديو معترِض
 customkeys-dev-tools = أدوات مطوّري الوِب
+customkeys-dev-inspector = فاحص DOM والأنماط (%S)
 customkeys-dev-webconsole = معراض الوِب
 customkeys-dev-debugger = مصحح أخطاء جافاسكربت
 customkeys-dev-network = مراقب الشبكة
@@ -26,5 +33,6 @@ customkeys-nav-forward = التالي
 customkeys-nav-home = المنزل
 customkeys-nav-reload = أعِد التحميل
 customkeys-nav-stop = أوقف
+customkeys-caution-message = هذه الميزة تجريبية وقد لا تعمل كما هو متوقع.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = غير صالحة

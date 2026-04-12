@@ -276,6 +276,10 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> أُنشئ في { DATET
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = اُستعيد من { $deviceName } في { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } عند { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+# Variables:
+#   $date (Datetime) - The date the backup was created
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-date-and-device = أُنشئ في { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } على { $machineName }
 backup-file-restore-file-validation-error = هذا الملف لا يعمل. جرّب اختيار ملف آخر. <a data-l10n-name="restore-problems">أما زلت تواجه مشاكل؟</a>
 restore-from-backup-filepicker-input =
     .placeholder = لم يحدّد أي ملف
