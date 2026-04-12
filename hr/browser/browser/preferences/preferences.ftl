@@ -2089,6 +2089,9 @@ website-advertising-private-attribution-description = Ovo pomaže web stranicama
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Sigurnost
+browsing-protection-group2 =
+    .label = Zaštita od obmanjujućeg sadržaja i opasnog softvera
+    .description = Opasne stranice i preuzimanja mogu ugroziti tvoje podatke i uređaj. { -brand-short-name } ih automatski blokira i upozorava te o rizičnom ili neželjenon softveru.
 security-browsing-protection = Zaštita od obmanjujućeg sadržaja i opasnog softvera
 security-enable-safe-browsing =
     .label = Blokiraj opasni i zavaravajući sadržaj
@@ -2122,6 +2125,15 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } ponestaje memorije na disku.</strong> Sadržaj web-stranica se možda neće ispravno prikazati. Spremljene podatke možeš izbrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci web-stranice.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name(case: "dat") } ponestaje memorije na disku.</strong> Sadržaj web-stranica se možda neće ispravno prikazati. Posjeti „Saznaj više” za optimiranje korištenja memorije za bolje iskustvo tijekom pregledavanja.
+certs-description3 =
+    .label = Certifikati
+    .description = Konfiguriraj certifikate koje { -brand-short-name } koristi za provjeru sigurnih veza.
+certs-view2 =
+    .label = Upravljanje certifikatima
+    .accesskey = U
+certs-devices2 =
+    .label = Upravljaj sigurnosnim uređajima
+    .accesskey = s
 
 ## Privacy Section - HTTPS-Only
 
