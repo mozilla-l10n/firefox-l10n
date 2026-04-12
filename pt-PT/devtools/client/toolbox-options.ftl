@@ -30,6 +30,8 @@ options-context-inspector = Inspetor
 options-show-user-agent-styles-label = Mostrar estilos do navegador
 options-show-user-agent-styles-tooltip =
     .title = Ative para que sejam mostrados os estilos predefinidos que são carregados pelo navegador.
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = Mostrar Shadow DOM do navegador
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Truncar atributos DOM
 options-collapse-attrs-tooltip =
