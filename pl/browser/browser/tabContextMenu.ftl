@@ -149,8 +149,8 @@ tab-context-send-tabs-to-device =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [one] Zwolnij kartę
-            [few] Zwolnij { $tabCount } karty
-           *[many] Zwolnij { $tabCount } kart
+            [one] Uśpij kartę
+            [few] Uśpij { $tabCount } karty
+           *[many] Uśpij { $tabCount } kart
         }
-    .accesskey = Z
+    .accesskey = i

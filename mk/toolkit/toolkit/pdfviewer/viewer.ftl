@@ -364,3 +364,72 @@ pdfjs-editor-remove-signature-button =
 pdfjs-editor-free-text-color-input = Боја
 pdfjs-editor-free-text-size-input = Големина
 pdfjs-editor-ink-color-input = Боја
+pdfjs-editor-ink-thickness-input = Дебелина
+pdfjs-editor-ink-opacity-input = Прозрачност
+pdfjs-editor-stamp-add-image-button =
+    .title = Додавање на слика
+pdfjs-editor-stamp-add-image-button-label = Додај слика
+# This refers to the thickness of the line used for free highlighting (not bound to text)
+pdfjs-editor-free-highlight-thickness-input = Дебелина
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Промени ја дебелината при нагласување на елементи што не се текст
+pdfjs-editor-add-signature-container =
+    .aria-label = Контрола на потписи и снимени потписи
+pdfjs-editor-signature-add-signature-button =
+    .title = Додавање на нов потпис
+pdfjs-editor-signature-add-signature-button-label = Додај нов потпис
+# Used on the button to use an already saved signature.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-add-saved-signature-button =
+    .title = Снимен потпис: { $description }
+# .default-content is used as a placeholder in an empty text editor.
+pdfjs-free-text2 =
+    .aria-label = Уредувач на текст
+    .default-content = Почнуи со пишување…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Коментар
+       *[other] Коментари
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = Затвори ја страничната лента
+    .aria-label = Затвори ја страничната лента
+pdfjs-editor-comments-sidebar-close-button-label = Затвори ја страничната лента
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Гледате нешто вредно за внимание? Истакнете го и напишете коментар.
+pdfjs-editor-comments-sidebar-no-comments-link = Дознајте повеќе
+
+## Alt-text dialog
+
+pdfjs-editor-alt-text-button-label = Дополнителен текст
+pdfjs-editor-alt-text-edit-button =
+    .aria-label = Уреди го дополнителниот текст
+pdfjs-editor-alt-text-dialog-label = Изберете опција
+pdfjs-editor-alt-text-dialog-description = Алтернативниот текст помага кога луѓе не можат да видат сликата или кога сликата не се вчитува
+pdfjs-editor-alt-text-add-description-label = Додај опис
+pdfjs-editor-alt-text-add-description-description = Додајте 1-2 реченици што го објаснуваат предметот, околината, или дејствата.
+pdfjs-editor-alt-text-mark-decorative-label = Означи како декоративно
+pdfjs-editor-alt-text-mark-decorative-description = Ова се користи за орнаментални слики, како граници или водени жигови.
+pdfjs-editor-alt-text-cancel-button = Откажи
+pdfjs-editor-alt-text-save-button = Сними
+pdfjs-editor-alt-text-decorative-tooltip = Означено како декоративно
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = На пример: „Момче седнува на маса за да јаде“.
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button =
+    .aria-label = Дополнителен текст
+
+## Editor resizers
+## This is used in an aria label to help to understand the role of the resizer.
+
+pdfjs-editor-resizer-top-left =
+    .aria-label = Горен лев ќош — промени големина
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Горе на средина — промени големина
+pdfjs-editor-resizer-top-right =
+    .aria-label = Горен десен ќош — промени големина

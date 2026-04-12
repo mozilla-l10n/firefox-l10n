@@ -6,24 +6,24 @@
 ### Strings used in about:unloads, allowing users to manage the "tab unloading"
 ### feature.
 
-about-unloads-page-title = Zwalnianie kart
+about-unloads-page-title = Usypianie kart
 about-unloads-intro =
-    { -brand-short-name } ma funkcję automatycznie zwalniającą karty,
+    { -brand-short-name } ma funkcję automatycznie usypiającą karty,
     aby zapobiec awariom programu z powodu niewystarczającej pamięci,
     kiedy na komputerze jest mało dostępnej pamięci. Następna karta
-    do zwolnienia jest wybierana na podstawie kilku cech. Ta strona
+    do uśpienia jest wybierana na podstawie kilku cech. Ta strona
     pokazuje, jak { -brand-short-name } ustala priorytety kart i która karta
-    zostanie zwolniona po spełnieniu warunków. Można ręcznie wywołać
-    zwolnienie karty klikając przycisk <em>Zwolnij</em> poniżej.
+    zostanie uśpiona po spełnieniu warunków. Można ręcznie wywołać
+    uśpienie karty klikając przycisk <em>Uśpij</em> poniżej.
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     <a data-l10n-name="doc-link">Dokumentacja</a> zawiera więcej informacji
     o tej funkcji i tej stronie.
 about-unloads-last-updated = Ostatnia aktualizacja: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
-about-unloads-button-unload = Zwolnij
-    .title = Zwolnij kartę o najwyższym priorytecie
-about-unloads-no-unloadable-tab = Nie ma kart do zwolnienia.
+about-unloads-button-unload = Uśpij
+    .title = Uśpij kartę o najwyższym priorytecie
+about-unloads-no-unloadable-tab = Nie ma kart do uśpienia.
 about-unloads-column-priority = Priorytet
 about-unloads-column-host = Host
 about-unloads-column-last-accessed = Ostatni dostęp
