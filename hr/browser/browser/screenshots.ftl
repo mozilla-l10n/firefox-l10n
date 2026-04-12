@@ -29,9 +29,9 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Poveznica je kopirana
-screenshots-notification-link-copied-details = Poveznica do tvoje snimke kopirana je u međuspremnik. Zalijepi je pomoću { screenshots-meta-key }-V.
+screenshots-notification-link-copied-details = Poveznica do tvoje snimke je kopirana u međuspremnik. Umetni je pomoću { screenshots-meta-key }-V.
 screenshots-notification-image-copied-title = Snimka kopirana
-screenshots-notification-image-copied-details = Tvoja je snimka kopirana u međuspremnik. Zalijepi je pomoću { screenshots-meta-key }-V.
+screenshots-notification-image-copied-details = Tvoja je snimka kopirana u međuspremnik. Umetni je pomoću { screenshots-meta-key }-V.
 screenshots-request-error-title = Ne radi.
 screenshots-request-error-details = Oprosti! Nismo uspjeli spremiti tvoju snimku. Pokušaj kasnije ponovo.
 screenshots-connection-error-title = Ne možemo se spojiti s tvojim snimkama.

@@ -836,7 +836,7 @@ home-mode-choice-custom =
 home-mode-choice-blank =
     .label = Prazna stranica
 home-homepage-custom-url =
-    .placeholder = Zalijepi URL …
+    .placeholder = Umetni URL …
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Upravljaj proširenjem
@@ -1130,11 +1130,16 @@ sync-group-label =
     .label = Sinkronizacija
 account-group-label2 =
     .label = Račun
+account-placeholder2 =
+    .label = Nisi prijavljen/a
+    .description = Prijavi se da bi tvoji podaci ostali privatni, šifrirani i odmah dostupni svejedno gdje koristiš { -brand-short-name }.
 account-group-label =
     .label = { -vendor-short-name } račun
 account-placeholder =
     .label = Nisi prijavljen/a.
     .description = Prijavi se da bi tvoji podaci bili privatni, šifrirani i sinkronizirani na svim uređajima.
+account-sync-section =
+    .heading = Račun i sinkronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1257,6 +1262,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ove stavke sinkroniziraš na svim svojim povezanim uređajima:
 sync-syncing-across-devices-heading-2 = Podaci su sinkronizirani na svim uređajima
+sync-syncing-across-devices-empty-state2 =
+    .label = Upravljaj sinkroniziranim podacima
+    .description = Još ne sinkroniziraš ništa. Počni sinkronizirati svoje podatke kako bi bili dostupni na svim tvojim uređajima.
 sync-syncing-across-devices-empty-state =
     .label = Još ništa ne sinkroniziraš …
     .description = Počni sinkronizirati da možeš pristupiti svim svojim podacima na svim svojim uređajima.
@@ -1276,6 +1284,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Upravljaj sinkroniziranim podacima
     .accesskey = m
+settings-sync-disconnect-button =
+    .label = Prekini vezu
 sync-change-options =
     .label = Promijeni …
     .accesskey = P
@@ -1644,6 +1654,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Izbriši povijest
     .accesskey = s
+history-header2 =
+    .heading = Povijest
 history-group =
     .label = Povijest
 
