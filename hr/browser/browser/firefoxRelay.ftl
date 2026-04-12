@@ -18,6 +18,9 @@ firefox-relay-must-login-to-account = Prijavi se na svoj račun da bi koristio/l
 firefox-relay-get-unlimited-masks =
     .label = Upravljaj maskama
     .accesskey = U
+firefox-relay-dismiss =
+    .label = Odbaci
+    .accesskey = d
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Zaštiti svoju e-mail adresu:
 firefox-relay-opt-in-title-2 = Nabavi besplatnu masku e-mail adrese

@@ -402,3 +402,11 @@ main-context-menu-reveal-password =
     .accesskey = k
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Novo
+main-context-menu-pdfjs-copy-page =
+    .label = Kopiraj stranicu
+main-context-menu-pdfjs-cut-page =
+    .label = Izreži stranicu
+main-context-menu-pdfjs-delete-page =
+    .label = Izbriši stranicu
+main-context-menu-pdfjs-save-page =
+    .label = Spremi odabir kao …

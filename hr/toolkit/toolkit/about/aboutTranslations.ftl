@@ -25,6 +25,12 @@ about-translations-language-load-error-message =
     .heading = Nije bilo moguće učitati jezike.
     .message = Provjeri svoju mrežnu vezu i pokušaj ponovo.
 about-translations-language-load-error-button = Pokušaj ponovo
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Nažalost još ne podržavamo prevođenje s jezika { $language }
+about-translations-detected-language-unsupported-heading-unknown-2 = Nažalost još ne podržavamo prevođenje s ovog jezika
+about-translations-detected-language-unsupported-subtext = Odaberi jedan drugi jezik.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Dodaj tekst za prevođenje

@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Prilagodi alatnu traku…
+appmenu-abouttranslations =
+    .label = Prevedi …
 appmenu-developer-tools-subheader = Alati preglednika
 appmenu-developer-tools-extensions =
     .label = Proširenja za programere

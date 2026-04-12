@@ -201,6 +201,19 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Minijatura stranice { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Odaberi stranicu { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox =
+    .aria-label = Odaberi stranicu { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Stranica { $page } od { $total }
 
 ## Find panel button title and messages
 
@@ -537,6 +550,7 @@ pdfjs-editor-undo-bar-message-freetext = Tekst uklonjen
 pdfjs-editor-undo-bar-message-ink = Crtež uklonjen
 pdfjs-editor-undo-bar-message-stamp = Slika uklonjena
 pdfjs-editor-undo-bar-message-signature = Potpis uklonjen
+pdfjs-editor-undo-bar-message-comment = Komentar je uklonjen
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -636,6 +650,16 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Odustani
 
 pdfjs-editor-add-comment-button =
     .title = Dodaj komentar
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-toggle-views-manager-button =
+    .title = Uključi/Isključi bočnu traku
 
 ## Main menu for adding/removing signatures
 

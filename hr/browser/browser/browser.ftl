@@ -410,6 +410,7 @@ quickactions-cmd-help = pomoć, podrška
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector2 = inspektor, programerski alati
+quickactions-library = Otvori biblioteku
 quickactions-cmd-inspector = inspektor, programerski alati
 # Opens about:logins
 quickactions-logins2 = Upravljaj lozinkama
@@ -1187,6 +1188,18 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Lozinke
     .tooltiptext = Pogledaj i upravljaj tvojim lozinkama
+qrcode-copy-success =
+    .message = QR kod je kopiran u međuspremnik.
+qrcode-save-button =
+    .label = Spremi
+qrcode-save-filter-png = PNG slika
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR kod
+qrcode-dialog-title = QR kod
+qrcode-image =
+    .aria-label = QR kod
+qrcode-close-button =
+    .aria-label = Zatvori
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1227,6 +1240,16 @@ panel-save-update-password = Lozinka
 # "More" item in macOS share menu
 menu-share-more =
     .label = Više…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Kopiraj { $count } poveznicu
+            [few] Kopiraj { $count } poveznice
+           *[other] Kopiraj { $count } poveznica
+        }
+    .accesskey = K
 menu-share-copy-link =
     .label = Kopiraj poveznicu
     .accesskey = K

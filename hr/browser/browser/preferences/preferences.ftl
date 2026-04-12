@@ -14,6 +14,8 @@ global-privacy-control-description =
     .accesskey = s
 non-technical-privacy-group =
     .label = Postavke privatnosti web-stranica
+non-technical-privacy-heading =
+    .label = Dodatne zaštite
 non-technical-privacy-header = Postavke privatnosti web-stranica
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -525,9 +527,13 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Koristi postavke operacijskog sustava za „{ $localeName }” za formatiranje datuma, vremena, brojeva i mjerenja.
+settings-spellcheck-header =
+    .label = Provjera pravopisa
 check-user-spelling =
     .label = Provjeri pravopis tijekom tipkanja
     .accesskey = v
+spellcheck-download-dictionaries =
+    .label = Preuzmi rječnike
 
 ## General Section - Files and Applications
 
@@ -797,6 +803,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Novi prozori i kartice
 home-new-windows-tabs-description2 = Odaberi što želiš vidjeti kad otvoriš početnu stranicu, nove prozore i nove kartice.
+home-section =
+    .heading = Početna stranica i pokretanje
 
 ## Home Section - Default Browser
 
@@ -870,6 +878,9 @@ home-custom-homepage-address-button =
 # Shown when no custom websites/URLs to use as a homepage have been added yet
 home-custom-homepage-no-results =
     .label = Nema dodanih web-stranica.
+home-custom-homepage-delete-address-button =
+    .aria-label = Izbriši adresu
+    .title = Izbriši adresu
 # Further options to use when setting the home page. Two action buttons are placed in line with this prompt
 # to replace the current home page with a currently open page or bookmark.
 home-custom-homepage-replace-with-prompt =
@@ -1046,6 +1057,16 @@ search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti is
 search-one-click-header-3 =
     .label = Dodatne tražilice
     .description = Odaberi tražilice i prečace koji će se prikazati u tvojoj adresnoj traci.
+update-search-engine-success =
+    .message = Tražilica je uspješno aktualizirana
+search-edit-engine-2 =
+    .title = Uredi tražilicu
+search-delete-engine =
+    .title = Izbriši tražilicu
+search-enable-engine =
+    .title = Aktiviraj tražilicu
+search-outlink-to-extensions-page =
+    .title = Upravljaj u proširenjima i temama
 search-choose-engine-column =
     .label = Tražilica
 search-choose-keyword-column =
@@ -1107,6 +1128,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinkronizacija
+account-group-label2 =
+    .label = Račun
 account-group-label =
     .label = { -vendor-short-name } račun
 account-placeholder =

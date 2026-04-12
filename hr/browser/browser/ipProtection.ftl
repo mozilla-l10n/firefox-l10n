@@ -59,9 +59,33 @@ ipprotection-settings-link =
 
 ipprotection-connection-status-connected = VPN je uključen
 ipprotection-connection-status-disconnected = VPN je isključen
+ipprotection-connection-status-excluded = VPN je isključen za ovu web-stranicu
+ipprotection-connection-status-connecting = VPN se spaja …
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off = Isključi VPN
+# Button to turn off the VPN when the VPN panel is open while viewing
+# a page from an excluded site.
+ipprotection-button-turn-vpn-off-excluded-site = Isključi VPN svugdje
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on = Uključi VPN
+# Button while VPN is connecting
+ipprotection-button-connecting = Uključivanje …
+
+## VPN paused state
+
+ipprotection-connection-status-paused-title = VPN je pauziran
+upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-blocked-error-title = VPN nije dostupan
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
 
 ## IP Protection Settings
 
+ip-protection-description =
+    .label = VPN
+    .description = Ugrađeni VPN za poboljšanu privatnost tijekom pregledavanja u { -brand-short-name(case: "loc") }
 ip-protection-learn-more = Saznaj više
 ip-protection-site-exceptions =
     .label = Postavke web-stranice
@@ -117,6 +141,7 @@ ip-protection-bandwidth-hit-for-the-month = Iskoristio/la si svih { $maxUsage } 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Resetira se na { $maxUsage } GB svakog prvog dana u mjesecu.
+ip-protection-bandwidth-header-1 = Mjesečno ograničenje podataka
 
 ## IP Protection bandwidth reset callout
 
