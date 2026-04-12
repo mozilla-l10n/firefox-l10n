@@ -669,6 +669,18 @@ newtab-toast-thanks-for-reporting =
     .message = Dziękujemy za zgłoszenie.
 newtab-toast-widgets-hidden =
     .message = Aby z powrotem dodać widżety, kliknij ikonę ołówka.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Od teraz obserwujesz temat „{ $topic }”.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Już nie obserwujesz tematu „{ $topic }”.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Nie będziemy już wyświetlać artykułów na temat „{ $topic }”.
 
 ## Strings for task / to-do list productivity widget
 
@@ -710,6 +722,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nowa lista
 newtab-widget-section-title = Widżety
 newtab-widget-menu-hide = Ukryj widżet
+newtab-widget-menu-change-size = Zmień rozmiar
+newtab-widget-size-small = Mały
+newtab-widget-size-medium = Średni
+newtab-widget-size-large = Duży
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ukryj widżety
@@ -752,6 +768,12 @@ newtab-daily-briefing-card-timestamp = Zaktualizowano { $minutes } min temu
 newtab-widget-message-title = Nie trać koncentracji dzięki listom i wbudowanemu minutnikowi
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od szybkich przypomnień po codzienne listy zadań, od sesji skupienia po przerwy na rozciągnięcie — nie trać koncentracji ani czasu.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Ustaw { -brand-product-name(case: "acc") } po swojemu
+newtab-promo-card-body-addons = Wybierz tapetę z naszej kolekcji lub utwórz własną.
+newtab-promo-card-cta-addons = Wypróbuj teraz
 newtab-promo-card-title = Wspieraj { -brand-product-name(case: "acc") }
 newtab-promo-card-body = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 newtab-promo-card-cta = Więcej informacji

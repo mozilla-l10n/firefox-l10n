@@ -25,6 +25,8 @@ neterror-override-exception-button = Akceptuję ryzyko, kontynuuj
 neterror-pref-reset-button = Przywróć
 neterror-return-to-previous-page-button = Wróć do poprzedniej strony
 neterror-return-to-previous-page-recommended-button = Wróć do poprzedniej strony (zalecane)
+neterror-try-again-button-2 = Spróbuj ponownie
+    .accesskey = S
 neterror-try-again-button = Spróbuj ponownie
 neterror-add-exception-button = Zawsze kontynuuj na tej witrynie
 neterror-settings-button = Zmień ustawienia DNS
@@ -92,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ni
 
 neterror-file-not-found-filename = Sprawdź wielkość liter oraz upewnij się, że nazwa pliku nie zawiera literówek lub innych błędów w pisowni.
 neterror-file-not-found-moved = Sprawdź, czy plik nie został przeniesiony, usunięty lub jego nazwa nie została zmieniona.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } nie może odnaleźć tego pliku w <strong>{ $path }</strong>. Plik nie istnieje lub ścieżka jest niepoprawna.
 neterror-access-denied = Plik mógł zostać usunięty, przeniesiony lub jego uprawnienia uniemożliwiają dostęp.
 neterror-unknown-protocol = Aby otworzyć ten adres, może być konieczna instalacja innego programu.
 neterror-redirect-loop = Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.
