@@ -1625,6 +1625,24 @@ trustpanel-list-label-social-tracking =
         [many] { $count } متتبعًا وسائل التواصل الاجتماعي
        *[other] { $count } متتبع وسائل التواصل الاجتماعي
     }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } حظر { $count } متعقِّب وسائط
+        [one] { -brand-product-name } حظر { $count } متعقِّب وسائط
+        [two] { -brand-product-name } حظر { $count } متعقِّب وسائط
+        [few] { -brand-product-name } حظر { $count } متعقِّب وسائط
+        [many] { -brand-product-name } حظر { $count } متعقِّب وسائط
+       *[other] { -brand-product-name } حظر { $count } متعقِّب وسائط
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } سمح ب{ $count } متعقِّب وسائط
+        [one] { -brand-product-name } سمح ب{ $count } متعقِّب وسائط
+        [two] { -brand-product-name } سمح ب{ $count } متعقِّب وسائط
+        [few] { -brand-product-name } سمح ب{ $count } متعقِّب وسائط
+        [many] { -brand-product-name } سمح ب{ $count } متعقِّب وسائط
+       *[other] { -brand-product-name } سمح ب{ $count } متعقِّب وسائط
+    }
 trustpanel-tracking-content-not-blocking-tab-header =
     { $count ->
         [zero] { -brand-product-name } سمح { $count } متعقِّب
@@ -1636,6 +1654,24 @@ trustpanel-tracking-content-not-blocking-tab-header =
     }
 trustpanel-tracking-content-tab-list-header = تحاول هذه المواقع تتبعك:
 trustpanel-fingerprinter-list-header = تحاول هذه المواقع تبصيمك:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } حظر { $count } مُعدِّن عملة رقمية
+        [one] { -brand-product-name } حظر { $count } مُعدِّن عملة رقمية
+        [two] { -brand-product-name } حظر { $count } مُعدِّن عملة رقمية
+        [few] { -brand-product-name } حظر { $count } مُعدِّن عملة رقمية
+        [many] { -brand-product-name } منع { $count } مُعدِّن عملة رقمية
+       *[other] { -brand-product-name } حظر { $count } مُعدِّن عملة رقمية
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [zero] { -brand-product-name } سمح ب{ $count } مُعدِّن عملة رقمية
+        [one] { -brand-product-name } سمح ب{ $count } مُعدِّن عملة رقمية
+        [two] { -brand-product-name } سمح ب{ $count } مُعدِّن عملة رقمية
+        [few] { -brand-product-name } سمح ب{ $count } مُعدِّن عملة رقمية
+        [many] { -brand-product-name } سمح ب{ $count } مُعدِّن عملة رقمية
+       *[other] { -brand-product-name } سمح ب{ $count } مُعدِّن عملة رقمية
+    }
 trustpanel-cryptominer-tab-list-header = تحاول هذه المواقع تعدين العُملات الرقمية:
 trustpanel-blocker-section-header2 =
     { $count ->
