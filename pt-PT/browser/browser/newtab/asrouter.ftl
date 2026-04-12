@@ -390,8 +390,13 @@ windows-10-eos-sync-toast-secondary-label = Lembrar mais tarde
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-callout-title = O { -brand-product-name } não vem atochado de origem como os outros navegadores das grandes tecnológicas. E é precisamente essa a ideia.
+windows-10-eos-challenger-sync-callout-subtitle = Quando faz uma cópia de segurança dos seus marcadores e palavras-passe do { -brand-product-name }, é mais fácil levar o navegador que escolheu para o seu próximo dispositivo.
+windows-10-eos-challenger-pin-callout-subtitle = Fixe o { -brand-shorter-name } na sua barra de tarefas para que o navegador que escolheu esteja sempre lá, quando precisar.
 windows-10-eos-challenger-sync-primary-button = Efetuar cópia de segurança do { -brand-shorter-name }
 windows-10-eos-challenger-pin-primary-button = Fixar { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = O { -brand-product-name } bloqueia cripto-mineradores, rastreadores de redes sociais e identificadores digitais.
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = Os rastreadores não podem identificar o seu dispositivo ou seguir o que faz na Internet — porque nós não os deixamos.
+windows-10-eos-sync-callout-privacy-screen-2-title = Proteja as suas palavras-passe e marcadores para o seu próximo dispositivo.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Efetuar cópia de segurança do { -brand-shorter-name } torna mais fácil trazer os seus dados e definições de privacidade consigo.
 windows-10-eos-sync-callout-privacy-info-button = Veja o que está bloqueado
 windows-10-eos-callout-addons-title = Experimente os extras: atualizações simples, grande impacto
@@ -426,5 +431,10 @@ etp-strict-exceptions-infobar-not-now = Agora não
 
 ## 'Set to default' messaging displayed within the App menu
 
+set-default-menu-message-simple-layout-title = O { -brand-short-name } não é o seu navegador predefinido
+set-default-menu-message-simple-layout-title-variant = O { -brand-short-name } não é o seu navegador principal
+set-default-menu-message-row-layout-title = Definir o { -brand-short-name } como o seu navegador principal
+set-default-menu-message-row-layout-title-variant = Tornar o { -brand-short-name } no seu navegador predefinido?
+set-default-menu-message-row-layout-subtitle = Obtenha velocidade, segurança e privacidade sempre que navega.
 set-default-menu-message-primary-button = Definir como predefinição
 set-default-menu-message-primary-button-variant = Definir como navegador principal
