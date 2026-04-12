@@ -97,6 +97,7 @@ neterror-file-not-found-moved = Sprawdź, czy plik nie został przeniesiony, usu
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } nie może odnaleźć tego pliku w <strong>{ $path }</strong>. Plik nie istnieje lub ścieżka jest niepoprawna.
+neterror-file-not-found-what-can-you-do = Jeśli ręcznie wpisano adres, sprawdź, czy w nazwie pliku lub ścieżce nie ma literówek ani błędów w wielkości liter. Jeśli kliknięto zachowaną zakładkę lub odnośnik, plik mógł zostać przeniesiony, usunięty lub jego nazwa mogła zostać zmieniona od czasu jego zapisania. Spróbuj znaleźć go za pomocą menedżera plików lub funkcji wyszukiwania.
 neterror-access-denied = Plik mógł zostać usunięty, przeniesiony lub jego uprawnienia uniemożliwiają dostęp.
 neterror-unknown-protocol = Aby otworzyć ten adres, może być konieczna instalacja innego programu.
 neterror-redirect-loop = Problem ten może się pojawić w wyniku zablokowania lub odrzucenia ciasteczek.
@@ -181,15 +182,23 @@ neterror-response-status-code = Kod błędu: { $responsestatus } { $responsestat
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Wystąpił problem z połączeniem z Internetem
+fp-neterror-illustration-alt =
+    .alt = Ilustracja przedstawiająca lisa patrzącego na odłączone kable sieciowe.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } nie może utworzyć zabezpieczonego połączenia z serwerem pod adresem { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } nie może połączyć się z serwerem pod adresem <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Serwer <strong>{ $hostname }</strong> zbyt długo nie odpowiada.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = Witryna <strong>{ $hostname }</strong> zwróciła błąd.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Serwer <strong>{ $hostname }</strong> zwrócił błąd: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } nie wczytał tej strony, ponieważ konfiguracja zabezpieczeń nie zgadza się z poprzednią stroną.
 fp-neterror-http-auth-disabled-intro = Ktoś podszywający się pod witrynę może próbować ukraść nazwę użytkownika, hasło, adres e-mail lub coś innego.
 fp-neterror-http-auth-disabled-secure-connection = Ta witryna wymaga zabezpieczonego połączenia i nie można dodać wyjątku, aby ją otworzyć.

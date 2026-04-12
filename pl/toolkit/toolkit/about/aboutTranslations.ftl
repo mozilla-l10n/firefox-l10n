@@ -38,6 +38,10 @@ about-translations-language-load-error-button = Spróbuj ponownie
 about-translations-translation-error-heading = Wystąpił problem podczas tłumaczenia
 about-translations-translation-error-subtext = Proszę spróbować ponownie.
 about-translations-translation-error-button = Spróbuj ponownie
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Nie obsługujemy jeszcze tłumaczeń z tego języka ({ $language })
 about-translations-detected-language-unsupported-subtext = Wybierz inny język.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
