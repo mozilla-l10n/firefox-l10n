@@ -198,7 +198,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ਨੇ ਗ਼
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
-fp-neterror-http-error-intro = <strong><strong>{ $hostname }</strong> ਤੋਂ ਸਰਵਰ ਨੇ ਗਲਤੀ ਵਾਪਸ ਭੇਜੀ ਹੈ: { $responsestatus } { $responsestatustext }
+fp-neterror-http-error-intro = <strong>{ $hostname }</strong> ਤੋਂ ਸਰਵਰ ਨੇ ਗਲਤੀ ਵਾਪਸ ਭੇਜੀ ਹੈ: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ, ਕਿਉਂਕਿ ਜਾਪਦਾ ਹੈ ਕਿ ਸੁਰੱਖਿਆ ਸੰਰਚਨਾ ਪਿਛਲੇ ਸਫ਼ੇ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ ਸੀ।
 fp-neterror-http-auth-disabled-intro = ਕੋਈ ਸਾਈਟ ਦਾ ਝਾਂਸਾ ਦੇ ਕੇ ਤੁਹਾਡੇ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਪਾਸਵਰਡ ਜਾਂ ਈਮੇਲ ਵਰਗੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਚੋਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।
 fp-neterror-http-auth-disabled-secure-connection = ਇਸ ਸਾਈਟ ਲਈ ਇੱਕ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਤੁਸੀਂ ਛੋਟ ਜੋੜ ਨਹੀਂ ਸਕਦੇ ਹੋ।
