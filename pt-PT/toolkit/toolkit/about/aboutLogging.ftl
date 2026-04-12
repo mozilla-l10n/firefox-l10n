@@ -52,6 +52,10 @@ about-logging-preset-webcodecs-label = WebCodecs
 about-logging-preset-webcodecs-description = Módulos de registo para diagnosticar problemas com WebCodecs de descodificação de áudio/vídeo e descodificação de imagens
 about-logging-preset-ml-label = Aprendizagem automática
 about-logging-preset-ml-description = Módulos de registo para diagnosticar problemas da aprendizagem automática
+about-logging-preset-web-compat-label = Compatibilidade Web
+about-logging-preset-web-compat-description = Módulos de registo para diagnosticar problemas de compatibilidade web
+about-logging-preset-navigation = Navegação
+about-logging-preset-navigation-description = Módulos de registo para diagnosticar problemas de navegação e de histórico de sessões
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de registo para diagnosticar problemas no WebGPU
 about-logging-preset-gfx-label = Gráficos
@@ -98,11 +102,27 @@ about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Partilhar
 about-logging-upload-error = Ocorreu um erro ao enviar o perfil: { $errorText }
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
+about-logging-profile-storage-error = Ocorreu um erro ao guardar o perfil enviado: { $errorText }
+# Variables:
+#   $errorText (string) - The received error message, inserted as is.
 about-logging-save-error = Ocorreu um erro ao guardar o ficheiro: { $errorText }
 
 ## Uploaded Profiles section
 
+# This string is used as the default name for performance profiles when they are
+# uploaded from about:logging and saved to the local database. The generated
+# name will appear in the "Uploaded Profiles" section list, allowing users to
+# identify when each profile was captured.
+# Variables:
+#   $date (date) - The date and time when the profile was uploaded
+about-logging-uploaded-profile-name = Perfil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Perfis enviados
+about-logging-no-uploaded-profiles = Ainda não foram enviados perfis.
 about-logging-delete-uploaded-profile = Eliminar
 about-logging-view-uploaded-profile = Ver perfil
 about-logging-delete-profile-confirm-title = Eliminar perfil
+# Confirmation message shown when deleting an uploaded profile.
+# Variables:
+#   $profileName (string) - The name of the profile being deleted.
+about-logging-delete-profile-confirm = Tem a certeza que pretende eliminar o perfil “{ $profileName }”? Isto não pode ser desfeito.
 about-logging-deleting-profile = A eliminar…

@@ -14,6 +14,68 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = A tradução não está disponível neste dispositivo.
     .message = Tente mudar para um dispositivo diferente.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = As traduções não estão disponíveis para a sua organização
+    .message = Esta é uma política definida pelo seu administrador.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Para traduzir texto, desbloqueie esta funcionalidade
+    .message = Parece que atualizou os controlos de IA para bloquear esta funcionalidade. Desbloqueie a qualquer altura para começar a utilizar.
+about-translations-feature-blocked-unblock-button = Desbloquear
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = Não foi possível carregar os idiomas
+    .message = Verifique a sua ligação à Internet e tente novamente.
+about-translations-unsupported-info-button = Saber mais
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message =
+    .heading = Não foi possível carregar os idiomas.
+    .message = Verifique a sua ligação à Internet e tente novamente.
+about-translations-language-load-error-button = Tentar novamente
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Ocorreu um problema ao traduzir
+about-translations-translation-error-subtext = Tente novamente.
+about-translations-translation-error-button = Tentar novamente
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Lamentamos, mas ainda não disponibilizamos traduções a partir de { $language }
+about-translations-detected-language-unsupported-heading-unknown-2 = Lamentamos, mas ainda não disponibilizamos traduções deste idioma
+about-translations-detected-language-unsupported-subtext = Escolha outro idioma.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Adicionar texto a traduzir
+# Text displayed on the source-language selector when no explicit option is selected
+# and no language has been identified from the content of the source-language text area.
+about-translations-detect-default-label =
+    .label = Detetar idioma
+# Text displayed on the source-language selector when no explicit option is selected
+# and a valid language has been identified from the content of the source-language text area.
+# Variables:
+#   $language (string) - The localized display name of the detected language
+about-translations-detect-language-label =
+    .label = { $language } (detetado)
+# Placeholder text shown in the target-language output area when no translation has occurred.
+about-translations-output-placeholder =
+    .placeholder = Tradução
+# Button label for copying the translated output to the clipboard.
+about-translations-copy-button-default =
+    .label = Copiar
+    .title = Copiar tradução
+# Button label shown after the translated output has been copied to the clipboard.
+about-translations-copy-button-copied =
+    .label = Copiado
+    .title = Copiar tradução
+# Text displayed on target-language selector when no language option is selected.
+about-translations-select-label =
+    .label = Selecionar idioma
+# A message displayed in the target-language output area while waiting for the translation to complete.
+about-translations-translating-message = A traduzir…
+# The title attribute for the swap languages button, which swaps the selected
+# source and target languages, reversing the direction of translation.
+about-translations-swap-languages =
+    .title = Trocar idiomas
+# The title attribute for the button that clears the source text area.
+about-translations-clear-button =
+    .title = Limpar texto fonte

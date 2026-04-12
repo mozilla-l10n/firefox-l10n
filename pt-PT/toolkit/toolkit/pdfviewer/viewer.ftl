@@ -300,6 +300,14 @@ pdfjs-highlight-floating-button1 =
     .title = Realçar
     .aria-label = Realçar
 pdfjs-highlight-floating-button-label = Realçar
+pdfjs-comment-floating-button =
+    .title = Comentário
+    .aria-label = Comentário
+pdfjs-comment-floating-button-label = Comentário
+pdfjs-editor-comment-button =
+    .title = Comentário
+    .aria-label = Comentário
+pdfjs-editor-comment-button-label = Comentário
 pdfjs-editor-signature-button =
     .title = Adicionar assinatura
 pdfjs-editor-signature-button-label = Adicionar assinatura
@@ -362,6 +370,21 @@ pdfjs-editor-add-saved-signature-button =
 pdfjs-free-text2 =
     .aria-label = Editor de texto
     .default-content = Comece a escrever…
+# Used to show how many comments are present in the pdf file.
+# Variables:
+#   $count (Number) - the number of comments.
+pdfjs-editor-comments-sidebar-title =
+    { $count ->
+        [one] Comentário
+       *[other] Comentários
+    }
+pdfjs-editor-comments-sidebar-close-button =
+    .title = Fechar barra lateral
+    .aria-label = Fechar barra lateral
+pdfjs-editor-comments-sidebar-close-button-label = Fechar barra lateral
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Viu algo interessante? Realce e adicione um comentário.
+pdfjs-editor-comments-sidebar-no-comments-link = Saber mais
 
 ## Alt-text dialog
 
@@ -494,6 +517,9 @@ pdfjs-editor-alt-text-settings-close-button = Fechar
 
 ## Accessibility labels (announced by screen readers) for objects added to the editor.
 
+pdfjs-editor-highlight-added-alert = Destaque adicionado
+pdfjs-editor-freetext-added-alert = Texto adicionado
+pdfjs-editor-ink-added-alert = Desenho adicionado
 pdfjs-editor-stamp-added-alert = Imagem adicionada
 pdfjs-editor-signature-added-alert = Assinatura adicionada
 
@@ -504,6 +530,7 @@ pdfjs-editor-undo-bar-message-freetext = Texto removido
 pdfjs-editor-undo-bar-message-ink = Desenho removido
 pdfjs-editor-undo-bar-message-stamp = Imagem removida
 pdfjs-editor-undo-bar-message-signature = Assinatura removida
+pdfjs-editor-undo-bar-message-comment = Comentário removido
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -602,6 +629,16 @@ pdfjs-editor-edit-comment-dialog-cancel-button = Cancelar
 
 pdfjs-editor-add-comment-button =
     .title = Adicionar comentário
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+pdfjs-toggle-views-manager-button =
+    .title = Alternar barra lateral
 
 ## Main menu for adding/removing signatures
 

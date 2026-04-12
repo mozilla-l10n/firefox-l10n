@@ -28,3 +28,4 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Utilizar o perfil selecionado na inicialização, sem questionar
     .accesskey = s
+profile-has-selectable-profiles-title = Não é possível eliminar um perfil que está associado a outros perfis
