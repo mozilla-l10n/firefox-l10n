@@ -26,6 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via retumilo.
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn, eĉ en privataj fenestroj.
+ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en privata fenestro.
+ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en publika Wi-Fi.
 ipprotection-feature-introduction-button-primary = Antaŭen
 ipprotection-feature-introduction-button-secondary-not-now = Ne nun
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, dankon
@@ -39,6 +41,7 @@ ipprotection-site-settings-callout-button = Mi komprenis
 ## Panel
 
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian lokon</a> dum retumo per { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Kaŝu vian lokon dum vi retumas per { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -88,8 +91,11 @@ upgrade-vpn-button = Provu { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Ne eblis konektiĝi al la VPN
 ipprotection-connection-status-generic-error-description = Provu denove post kelkaj minutoj.
+ipprotection-connection-status-generic-error-try-again = Bonvolu klopodi denove poste.
 ipprotection-connection-status-network-error-title = Kontrolu vian retaliron
 ipprotection-connection-status-network-error-description = Konektiĝu al la reto kaj poste provu ŝalti la VPN.
+ipprotection-connection-status-blocked-error-title = La VPN ne disponeblas
+ipprotection-connection-status-blocked-error-description = Lokaj reguloj malpermesas al ni provizi VPN servon en tiu ĉi regiono. <a data-l10n-name="learn-more-link">Pli da informo</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

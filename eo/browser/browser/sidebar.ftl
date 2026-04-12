@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Forigi paĝojn el la historio
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Modifi legosignon…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Forigi legosignon
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Forigi
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Langetoj el aliaj aparatoj
 sidebar-menu-cpm-header =
     .heading = Pasvortoj
+sidebar-menu-bookmarks-header =
+    .heading = Legosignoj
 sidebar-panel-header-close-button =
     .tooltiptext = Fermi
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Menuo de legosignoj
+sidebar-bookmarks-folder-toolbar = Ilaro de legosignoj
+sidebar-bookmarks-folder-other = Aliaj legosignoj
+sidebar-bookmarks-folder-mobile = Poŝaparataj legosignoj
 
 ## Titles for sidebar menu panels.
 

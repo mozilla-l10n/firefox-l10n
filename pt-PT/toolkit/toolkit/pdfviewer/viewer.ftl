@@ -639,6 +639,66 @@ pdfjs-editor-add-comment-button =
 
 pdfjs-toggle-views-manager-button =
     .title = Alternar barra lateral
+pdfjs-toggle-views-manager-notification-button =
+    .title = Alternar barra lateral (o documento inclui miniaturas/esquema/anexos/camadas)
+pdfjs-toggle-views-manager-button1-label = Gerir páginas
+pdfjs-toggle-views-manager-button-label = Alternar barra lateral
+pdfjs-views-manager-sidebar =
+    .aria-label = Barra lateral
+pdfjs-views-manager-sidebar-resizer =
+    .aria-label = Redimensionador da barra lateral
+pdfjs-views-manager-view-selector-button =
+    .title = Vistas
+pdfjs-views-manager-view-selector-button-label = Vistas
+pdfjs-views-manager-pages-title = Páginas
+pdfjs-views-manager-outlines-title1 = Esquema do documento
+    .title = Esquema do documento (duplo clique para expandir/colapsar todos os itens)
+pdfjs-views-manager-outlines-title = Esquema do documento
+pdfjs-views-manager-attachments-title = Anexos
+pdfjs-views-manager-layers-title1 = Camadas
+    .title = Camadas (duplo clique para repor todas as camadas para o estado predefinido)
+pdfjs-views-manager-layers-title = Camadas
+pdfjs-views-manager-pages-option-label = Páginas
+pdfjs-views-manager-outlines-option-label = Esquema do documento
+pdfjs-views-manager-attachments-option-label = Anexos
+pdfjs-views-manager-layers-option-label = Camadas
+pdfjs-views-manager-add-file-button =
+    .title = Adicionar ficheiro
+pdfjs-views-manager-add-file-button-label = Adicionar ficheiro
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } selecionada
+       *[other] { $count } selecionadas
+    }
+pdfjs-views-manager-pages-status-none-action-label = Selecionar páginas
+pdfjs-views-manager-pages-status-action-button-label = Gerir
+pdfjs-views-manager-pages-status-copy-button-label = Copiar
+pdfjs-views-manager-pages-status-cut-button-label = Cortar
+pdfjs-views-manager-pages-status-delete-button-label = Eliminar
+pdfjs-views-manager-pages-status-save-as-button-label = Guardar como…
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 página cortada
+       *[other] { $count } páginas cortadas
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 página copiada
+       *[other] { $count } páginas copiadas
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 página eliminada
+       *[other] { $count } páginas eliminadas
+    }
 
 ## Main menu for adding/removing signatures
 

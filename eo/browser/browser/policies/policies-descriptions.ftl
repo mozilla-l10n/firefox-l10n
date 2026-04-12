@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Difini politikojn, kiujn Webextensions povas aliri per chrome.storage.managed.
+policy-AIControls = Agordi regilojn de AI.
 policy-AllowedDomainsForApps = Difini la nomregnojn kiuj rajtas aliri Google Workspace.
 policy-AllowFileSelectionDialogs = Permesi dialogojn por elekti dosierojn.
 policy-AppAutoUpdate = Aktivigi aŭ malaktivigi aŭtomatan ĝisdatigon de programoj.
@@ -90,6 +91,7 @@ policy-Homepage = Difini kaj havi la eblon ŝlosi la ekan paĝon.
 policy-HttpAllowlist = Originoj, kiuj ne estos ŝanĝitaj al HTTPS.
 policy-HttpsOnlyMode = Permesi aktivigon de HTTPS-nuran reĝimon.
 policy-InstallAddonsPermission = Permesi al kelkaj retejoj la instalon de aldonaĵoj.
+policy-IPProtectionAvailable = Eviti ke la integrita VPN estu disponebla por uzantoj.
 policy-LegacyProfiles = Malaktivigi la trajton, kiu postulas malsamajn profilojn por ĉiu instalaĵo.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Difini kaj bloki la valoron por aro de preferoj.
 policy-PrivateBrowsingModeAvailability = Agordi la disponeblon de la reĝimo de privata retumo.
 policy-PromptForDownloadLocation = Demandi kie konservi elŝutitajn dosierojn.
 policy-Proxy = Agordi retperantojn.
+policy-RelaunchRequired = Postuli restartigon de { -brand-short-name } post difinita tempo kaj sciigi uzantojn pri la baldaŭa restarto.
 policy-RequestedLocales = Agordi la liston de lingvoj petataj de la programo, ordigitaj laŭ prefero.
 policy-SanitizeOnShutdown2 = Forigi retumajn datumojn je malŝalto.
 policy-SearchBar = Elekti la normal lokon de la serĉa strio. La uzanto povas tamen personecigi ĝin.

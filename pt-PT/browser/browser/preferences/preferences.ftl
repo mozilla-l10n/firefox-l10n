@@ -2470,12 +2470,33 @@ security-privacy-status-custom-enabled-label = Tem <a data-l10n-name="custom-tra
 security-privacy-status-up-to-date-label = Tem a versão mais recente e mais segura do { -brand-short-name }
 security-privacy-status-update-needed-label = Está disponível uma nova versão do { -brand-short-name }.
 security-privacy-status-update-error-label = O { -brand-short-name } está com dificuldades em atualizar-se
+security-privacy-status-update-checking-label = O { -brand-short-name } está a procurar por atualizações
+security-privacy-status-update-needed-description = Atualize para obter as atualizações de velocidade, estabilidade e segurança mais recentes.
+security-privacy-status-update-button-label =
+    .label = Atualizar o { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Um escudo com um ponto de exclamação, a indicar preocupação relativamente aos seus avisos de segurança
+security-privacy-image-ok =
+    .alt = Um escudo com uma marca de verificação, a indicar que não tem problemas de segurança pendentes
+security-privacy-issue-card =
+    .heading = Avisos de segurança
+issue-card-reset-button =
+    .label = Redefinir
+issue-card-dismiss-button =
+    .tooltiptext = Dispensar
+    .aria-label = Dispensar
 
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-status-header =
     .label = Proteção melhorada contra a monitorização
     .description = Os sites utilizam rastreadores que seguem o que você faz online e para mostrar anúncios intrusivos. O { -brand-short-name } garante a sua proteção enquanto navega, bloqueando automaticamente os rastreadores para que mantenha o controlo do seu rasto digital.
+preferences-etp-level-standard =
+    .label = Padrão (predefinição)
+    .description = Proteções robustas e fiáveis que funcionam bem com a maioria dos sites.
+preferences-etp-level-strict =
+    .label = Rigorosa
+    .description = Proteções mais fortes que bloqueiam mais rastreadores, mas podem causar problemas em alguns sites.
 preferences-etp-level-custom =
     .label = Personalizado
     .description = Escolha quais as proteções a ativar ou a desativar.
