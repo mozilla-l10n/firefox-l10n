@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Отвори
 pdfjs-print-button =
     .title = Печатење
 pdfjs-print-button-label = Печати
+pdfjs-save-button =
+    .title = Снимање
+pdfjs-save-button-label = Сними
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Преземање
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Преземи
+pdfjs-bookmark-button =
+    .title = Тековна страница (Преглед на URL од тековна страница)
+pdfjs-bookmark-button-label = Тековна страница
 
 ##  Secondary toolbar and context menu
 
@@ -60,6 +72,18 @@ pdfjs-page-rotate-ccw-button-label = Ротирај спротивно од ст
 pdfjs-cursor-text-select-tool-button =
     .title = Овозможи алатка за избор на текст
 pdfjs-cursor-text-select-tool-button-label = Алатка за избор на текст
+pdfjs-cursor-hand-tool-button =
+    .title = Овозможување на рачна алатка
+pdfjs-cursor-hand-tool-button-label = Рачна алатка
+pdfjs-scroll-page-button =
+    .title = Употреба на поместување на страница
+pdfjs-scroll-page-button-label = Поместување на страница
+pdfjs-scroll-vertical-button =
+    .title = Употреба на вертикално поместување
+pdfjs-scroll-vertical-button-label = Вертикално поместување
+pdfjs-scroll-horizontal-button =
+    .title = Употреба на хоризонтално поместување
+pdfjs-scroll-horizontal-button-label = Хоризонтално поместување
 
 ## Document properties dialog
 
