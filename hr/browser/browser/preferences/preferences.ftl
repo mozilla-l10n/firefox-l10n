@@ -2014,6 +2014,16 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Upravljaj iznimkama
+    .description = Dodaj web-stranice koje mogu otvarati skočne prozore i koristiti preusmjeravanja trećih strana.
+    .accesskey = i
+    .searchkeywords = skočni prozori
+permissions-addon-install-warning3 =
+    .label = Prikaži upozorenje kada web-stranice pokušaju instalirati proširenja
+    .accesskey = u
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = Upravljaj iznimkama za skočne prozore i preusmjeravanja trećih strana
     .accesskey = e
@@ -2070,6 +2080,11 @@ collection-description = Želimo ti omogućiti izbor i prikupljati samo ono što
 collection-privacy-notice = Napomene o privatnosti
 collection-health-report-telemetry-disabled = Više ne dopuštaš proizvođaču { -vendor-short-name } snimanje tehničkih podataka i podataka o interakciji. Svi stari podaci će se izbrisati u roku od 30 dana.
 collection-health-report-telemetry-disabled-link = Saznaj više
+backup-multi-profile-warning-message =
+    .message = Kako bi se ova promjena uključila u tvoje sigurnosne kopije, otvori svaki profil i u postavkama odaberi „Izradi sigurnosnu kopiju sada”.
+nimbus-rollouts =
+    .label = Dopusti { -brand-short-name(case: "dat") } da poboljša funkcije, performanse i stabilnost između aktualiziranja
+    .description = Promjene će se uvoditi na daljinu.
 addon-recommendations3 =
     .label = Dozvoli personalizirane preporuke za proširenja
     .description = Dobij preporuke za proširenja i poboljšaj svoj način pregledavanja interneta.
@@ -2133,6 +2148,13 @@ data-collection-health-report =
     .label = Šalji tehničke podatke i podatke o interakciji proizvođaču { -vendor-short-name }
     .accesskey = r
     .description = To nam pomaže poboljšati { -brand-product-name } funkcije, performanse i stabilnost.
+data-collection-health-report-disabled =
+    .label = Pošalji tehničke podatke i podatke o interakciji prizvođaču { -vendor-short-name }
+    .accesskey = r
+    .description = Izvještavanje o podacima je deaktivirano za ovu konfiguraciju izgradnje.
+data-collection-run-studies =
+    .label = Dozvoli da { -brand-short-name } pokreće studije o funkcijama
+    .description = { -brand-short-name } nasumično bira korisnike za testiranje funkcija, što pomaže poboljšati kvalitetu za sve.
 data-collection-studies-link =
     .label = Pregledaj { -brand-short-name } istraživanja
 data-collection-usage-ping =
