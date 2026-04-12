@@ -11,6 +11,8 @@ contentanalysis-operationtype-clipboard = الحافظة
 contentanalysis-operationtype-dropped-text = النص المُسقط
 contentanalysis-operationtype-print = اطبع
 #   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = رفع ”{ $filename }“
+#   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-download-description = تنزيل “{ $filename }”
 contentanalysis-warndialogtitle = قد يكون هذا المحتوى غير آمن
 contentanalysis-warndialog-response-allow = استخدم المحتوى

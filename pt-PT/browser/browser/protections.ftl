@@ -245,3 +245,7 @@ privacy-metrics-social =
         [one] { $count } rastreador social
        *[other] { $count } rastreadores sociais
     }
+privacy-metrics-empty = Nenhum rastreador foi bloqueado esta semana. O { -brand-short-name } protege-o das seguintes ameaças enquanto navega.
+privacy-metrics-loading = A carregar as estatísticas de proteção…
+privacy-metrics-error = Não foi possível carregar as estatísticas de proteção.
+privacy-metrics-private-window = O { -brand-short-name } continua a bloquear os rastreadores em janelas privadas, mas não mantém um registo do que foi bloqueado.

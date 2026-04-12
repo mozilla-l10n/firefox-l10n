@@ -373,6 +373,7 @@ newtab-wallpaper-toggle-title =
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = تجاوزت الصورة الحد الأقصى لحجم الملف وهو { $file_size } ميجابايت. يُرجى محاولة رفع ملف أصغر حجمًا.
+newtab-wallpaper-error-upload-file-type = لم نتمكن من رفع ملفك. يُرجى المحاولة مرة أخرى باستخدام ملف صورة.
 newtab-wallpaper-error-file-type = لم نتمكن من رفع ملفك. يُرجى المحاولة مرة أخرى باستخدام نوع ملف مختلف.
 newtab-wallpaper-light-red-panda = باندا أحمر
 newtab-wallpaper-light-mountain = جبل ابيض
@@ -531,6 +532,8 @@ newtab-section-mangage-topics-title = المواضيع
 newtab-section-manage-topics-button-v2 =
     .label = أدِر المواضيع
 newtab-section-mangage-topics-followed-topics-empty-state = لم تتابع أي مواضيع بعد.
+# 'Make firefox yours" means to customize or personalize
+newtab-custom-wallpaper-subtitle = ارفع خلفية شاشتك أو اختر لونًا مخصصًا لجعل { -brand-product-name } خاصًا بك.
 newtab-custom-wallpaper-cta = جربه
 
 ## Strings for new user activation custom wallpaper highlight

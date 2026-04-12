@@ -32,6 +32,7 @@ customkeys-nav-back = السابق
 customkeys-nav-forward = التالي
 customkeys-nav-home = المنزل
 customkeys-nav-reload = أعِد التحميل
+customkeys-nav-reload-skip-cache = أعد التحميل (تجاوز ذاكرة التخزين المؤقت)
 customkeys-nav-stop = أوقف
 customkeys-caution-message = هذه الميزة تجريبية وقد لا تعمل كما هو متوقع.
 # Displayed in the new key field when the key that was pressed isn't valid.
