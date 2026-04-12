@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } no
 
 neterror-file-not-found-filename = Compruebe que el nombre de archivo no tiene errores de escritura, incluyendo el uso de mayúsculas.
 neterror-file-not-found-moved = Compruebe si el archivo ha sido movido, renombrado o eliminado.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } no puede encontrar el archivo en <strong>{ $path }</strong>. O no existe o la ruta es incorrecta.
+neterror-file-not-found-what-can-you-do = Si se escribió la dirección manualmente, verifique si hay errores de mayúsculas o tipográficos en el nombre o la ruta del archivo. Si se siguió un marcador o enlace guardado, es posible que el archivo se haya movido, renombrado o eliminado desde que se guardó. Intente localizarlo usando el administrador de archivos o una búsqueda reciente.
 neterror-access-denied = Puede haber sido eliminado, movido o sus permisos de archivo pueden estar impidiendo el acceso al mismo.
 neterror-unknown-protocol = Podría necesitar instalar otro software para abrir esta dirección.
 neterror-redirect-loop = Este problema a veces está causado por desactivar o rechazar la recepción de cookies.
@@ -178,15 +182,23 @@ neterror-response-status-code = Código de error: { $responsestatus } { $respons
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Parece que hay un problema con su conexión a Internet
+fp-neterror-illustration-alt =
+    .alt = Ilustración de un zorro mirando cables de red desconectados.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } no puede crear una conexión segura al servidor en { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } no puede conectarse al servidor <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = El servidor en <strong>{ $hostname }</strong> está tardando demasiado en responder.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ha devuelto un error.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = El servidor en <strong>{ $hostname }</strong> devolvió un error: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } no ha cargado esta página porque parece que la configuración de seguridad no coincide con la de la página anterior.
 fp-neterror-http-auth-disabled-intro = Alguien que se haga pasar por el sitio podría intentar robar cosas como el nombre de usuario, contraseña o correo electrónico.
 fp-neterror-http-auth-disabled-secure-connection = Este sitio requiere una conexión segura y no se puede añadir una excepción para visitarlo.

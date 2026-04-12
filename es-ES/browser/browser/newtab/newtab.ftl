@@ -763,6 +763,7 @@ newtab-daily-briefing-card-timestamp = Actualizado hace { $minutes } minutos
 newtab-widget-message-title = Manténgase concentrado con listas y un temporizador incorporado
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde recordatorios rápidos hasta tareas diarias, sesiones de concentración y descansos prolongados: manténgase concentrado en la tarea y a tiempo.
+newtab-promo-card-cta-addons = Pruébelo ahora
 newtab-promo-card-title = Apoyar a { -brand-product-name }
 newtab-promo-card-body = Nuestros patrocinadores apoyan nuestra misión de construir una web mejor
 newtab-promo-card-cta = Saber más

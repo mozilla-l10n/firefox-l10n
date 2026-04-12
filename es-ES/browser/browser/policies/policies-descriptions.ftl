@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Establezca las políticas a las que puede acceder WebExtensions mediante chrome.storage.managed.
+policy-AIControls = Configurar los controles de IA.
 policy-AllowedDomainsForApps = Definir dominios autorizados para acceder a Google Workspace.
 policy-AllowFileSelectionDialogs = Permitir cuadros de diálogo de selección de archivos.
 policy-AppAutoUpdate = Activar o desactivar la actualización automática de la aplicación.
@@ -90,6 +91,7 @@ policy-Homepage = Establecer y opcionalmente bloquear la página de inicio.
 policy-HttpAllowlist = Orígenes que no se actualizarán a HTTPS.
 policy-HttpsOnlyMode = Permitir que se active el modo solo HTTPS.
 policy-InstallAddonsPermission = Permitir que ciertos sitios web instalen complementos.
+policy-IPProtectionAvailable = Impedir que la VPN integrada esté disponible para los usuarios.
 policy-LegacyProfiles = Desactivar la función que obliga a tener un perfil separado para cada instalación
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

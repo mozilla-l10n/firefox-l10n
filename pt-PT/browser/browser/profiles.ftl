@@ -258,6 +258,12 @@ star-avatar = Estrela
 video-game-controller-avatar = Controlador de jogos de vídeo
 custom-avatar-crop-back-button =
     .aria-label = Voltar
+custom-avatar-crop-view =
+    .aria-label = Cortar vista de imagem
+custom-avatar-crop-area =
+    .aria-label = Ajustar área de corte
+custom-avatar-drag-handle =
+    .aria-label = Redimensionar área de corte
 profiles-appmenu-callout-tour-title = O seu novo perfil está pronto
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = No menu ☰ toque no seu nome de perfil para criar outro, editar este, ou alternar entre as suas vidas digitais.
