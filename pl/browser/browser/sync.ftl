@@ -30,6 +30,23 @@ fxa-menu-send-to-device =
         }
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [one] Wyślij na telefon
+            [few] Wyślij { $tabCount } karty na telefon
+           *[many] Wyślij { $tabCount } kart na telefon
+        }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = Włącz synchronizację, aby wysłać kartę
+fxa-menu-send-to-mobile-connect-phone =
+    .label = Połącz swój telefon
+fxa-menu-send-to-mobile-device-missing =
+    .label = Nie ma tutaj Twojego urządzenia?
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
     .label =
         { $tabCount ->
