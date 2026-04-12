@@ -154,3 +154,5 @@ policy-WebsiteFilter = Bloki viziton al kelkaj retejoj. Vidu la dokumentaron por
 policy-Windows10SSO = Permesi nurfojan komencon de seancon de Windows por kontoj laboraj, lernejaj aŭ de Microsoft.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permesi nurfojan komencon de seanco por konton de Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Aktivigi aŭ malaktivigi subtenon por la API de Javascript XSLTProcessor kaj por la proceza ordono XSLT.
