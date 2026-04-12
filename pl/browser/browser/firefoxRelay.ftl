@@ -21,9 +21,9 @@ firefox-relay-get-unlimited-masks =
 # $count (Number) - The number of free email masks the user has used
 firefox-relay-reuse-masks-header =
     { $count ->
-        [one] Wykorzystano już bezpłatną maskę dla adresu e-mail
-        [few] Wykorzystano już wszystkie { $count } bezpłatne maski dla adresu e-mail
-       *[many] Wykorzystano już wszystkie { $count } bezpłatnych masek dla adresu e-mail
+        [one] Bezpłatna maska dla adresu e-mail została już wykorzystana
+        [few] Wszystkie { $count } bezpłatne maski dla adresu e-mail zostały już wykorzystane
+       *[many] Wszystkie { $count } bezpłatnych masek dla adresu e-mail zostało już wykorzystanych
     }
 # Description following warning that the user has used all their free email masks.
 # The user is presented a list of recently used masks to select, or they can click a button to see all masks.

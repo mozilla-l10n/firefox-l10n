@@ -20,7 +20,7 @@ findbar-highlight-all2 =
         }
     .tooltiptext = Elstarigi ĉiujn aperojn de la frazo
 findbar-case-sensitive =
-    .label = Distingi inter majuskloj kaj minuskloj
+    .label = Distingi usklecon
     .accesskey = D
     .tooltiptext = Serĉi distingante inter majuskloj kaj minuskloj
 findbar-match-diacritics =
@@ -41,7 +41,7 @@ findbar-fast-find =
 findbar-fast-find-links =
     .placeholder = Rapida serĉo (nur ligiloj)
 findbar-case-sensitive-status =
-    .value = (distingi inter minuskloj kaj majuskloj)
+    .value = (Konsideri usklecon)
 findbar-match-diacritics-status =
     .value = (Respekti supersignojn)
 findbar-entire-word-status =
