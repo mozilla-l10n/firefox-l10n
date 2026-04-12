@@ -708,6 +708,16 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+support-application-heading =
+    .label = Apoio do { -brand-short-name }
+    .description = Faça o diagnóstico de problemas ou partilhe ideias com a comunidade.
+support-get-help =
+    .label = Obter ajuda
+support-share-ideas =
+    .label = Partilhar ideias e comentários
+
 ## General Section - Performance
 
 performance-title = Desempenho
@@ -796,6 +806,12 @@ home-new-windows-tabs-description2 = Escolha o que vê quando abre a sua página
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = Navegador predefinido
+is-default-browser-2 =
+    .message = O { -brand-short-name } é o seu navegador predefinido. Excelente escolha.
+is-not-default-browser-2 =
+    .message = Psst, o { -brand-short-name } não é o seu navegador predefinido.
 set-as-my-default-browser-2 =
     .label = Predefinir
     .accesskey = d
@@ -803,6 +819,8 @@ set-as-my-default-browser-2 =
 ## Custom Homepage subpage
 
 home-homepage-mode-label = Página inicial e novas janelas
+home-homepage-new-windows =
+    .label = Novas janelas
 home-newtabs-mode-label = Novos separadores
 home-homepage-new-tabs =
     .label = Novos separadores
@@ -820,6 +838,9 @@ home-homepage-custom-url =
 # This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
 home-homepage-manage-extension-button =
     .label = Gerir extensão
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = Escolha um site específico
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -888,6 +909,9 @@ home-prefs-recommended-by-description-generic = Conteúdo excecional com curador
 home-prefs-stories-header =
     .label = Histórias
 home-prefs-stories-description = Histórias personalizadas baseadas na sua atividade
+home-prefs-stories-header2 =
+    .label = Histórias
+    .description = Conteúdo excecional selecionado pela família { -brand-product-name }
 
 ##
 
@@ -918,6 +942,8 @@ home-prefs-weather-header =
     .label = Meteorologia
 home-prefs-weather-description = Um relance da previsão para hoje
 home-prefs-weather-learn-more-link = Saber mais
+home-prefs-widgets-header =
+    .label = Widgets
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = Listas
@@ -929,6 +955,8 @@ home-prefs-support-firefox-header =
     .label = Apoiar o { -brand-product-name }
 home-prefs-mission-message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor
 home-prefs-mission-message-learn-more-link = Descubra como
+home-prefs-mission-message2 =
+    .message = Os nossos patrocinadores apoiam a nossa missão para construir uma Internet melhor.
 home-prefs-manage-topics-link = Gerir tópicos
 home-prefs-choose-wallpaper-link = Escolha um fundo
 # Variables:
@@ -1428,6 +1456,8 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Exigir início de sessão do dispositivo para o preenchimento automaticamente e gerir métodos de pagamento
     .accesskey = E
+payments-list-header =
+    .label = Métodos de pagamento
 payments-delete-payment-prompt-title = Eliminar este método de pagamento?
 payments-delete-payment-prompt-confirm-button = Eliminar
 payments-delete-payment-prompt-cancel-button = Cancelar
@@ -1466,6 +1496,14 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .label = { $cardNumber }
+    .description = { $expDate }
 addresses-group =
     .label = Endereços e mais
 payments-group =
@@ -1883,6 +1921,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear pop-ups e redirecionamentos de terceiros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Gerir exceções
+    .description = Adicione sites que possam abrir janelas pop-up e utilizar redirecionamentos de terceiros.
+    .accesskey = e
+    .searchkeywords = popups
 permissions-addon-install-warning3 =
     .label = Mostrar um aviso quando os sites tentam instalar extensões
     .accesskey = M
@@ -1927,6 +1972,9 @@ permissions-speaker2 =
     .label = Altifalante
 permissions-notification2 =
     .label = Notificações
+permissions-header3 =
+    .label = Permissões
+    .description = Faça a gestão dos sites que podem aceder, controlar ou acionar.
 
 ## Privacy Section - Data Collection
 
@@ -1941,6 +1989,11 @@ collection-description = Nós esforçamos-nos para lhe fornecer escolhas e recol
 collection-privacy-notice = Aviso de privacidade
 collection-health-report-telemetry-disabled = Já não está a permitir que o { -vendor-short-name } recolha dados técnicos e de interação. Todos os dados antigos serão eliminados dentro de 30 dias.
 collection-health-report-telemetry-disabled-link = Saber mais
+backup-multi-profile-warning-message =
+    .message = Para ter a certeza que esta alteração está incluída nas suas cópias de segurança, abra cada perfil e escolha “Fazer cópia agora” nas Definições.
+nimbus-rollouts =
+    .label = Permitir que o { -brand-short-name } melhore as funcionalidades, desempenho e estabilidade entre as atualizações
+    .description = As alterações serão distribuídas remotamente.
 addon-recommendations3 =
     .label = Permitir recomendações personalizadas de extensões
     .description = Obtenha recomendações de extensões para melhorar a sua experiência de navegação.
@@ -2004,8 +2057,19 @@ data-collection-health-report =
     .label = Enviar dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r
     .description = Isto ajuda-nos a melhorar as funcionalidades, desempenho e a estabilidade do { -brand-product-name }.
+data-collection-health-report-disabled =
+    .label = Enviar dados técnicos e de interação para a { -vendor-short-name }
+    .accesskey = r
+    .description = A partilha de dados está desativada para a configuração desta compilação.
+data-collection-run-studies =
+    .label = Permitir ao { -brand-short-name } executar estudos de funcionalidades
+    .description = O { -brand-short-name } seleciona aleatoriamente utilizadores para testar funcionalidades, o que ajuda a melhorar a qualidade para todos.
 data-collection-studies-link =
     .label = Ver estudos do { -brand-short-name }
+data-collection-backlogged-crash-reports =
+    .label = Enviar relatórios de falha automaticamente
+    .description = Isto ajuda a { -vendor-short-name } a diagnosticar e corrigir problemas com o navegador. Os relatórios podem incluir dados pessoais ou sensíveis.
+    .accesskey = f
 data-collection-usage-ping =
     .label = Enviar ping de utilização diário para a { -vendor-short-name }
     .description = Isto ajuda a { -vendor-short-name } a calcular os utilizadores ativos.
@@ -2025,11 +2089,16 @@ website-advertising-private-attribution-description = Isto ajuda os sites a comp
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurança
+browsing-protection-group2 =
+    .label = Proteção contra conteúdo decetivo e software perigoso
+    .description = Sites e transferências perigosas podem colocar os seus dados e o dispositivo em risco. O { -brand-short-name } bloqueia-os automaticamente e notifica-o sobre software perigoso ou não-solicitado.
 security-browsing-protection = Conteúdo decetivo e proteção contra software perigoso
 security-enable-safe-browsing =
     .label = Bloquear conteúdo perigoso e decetivo
     .accesskey = B
 security-enable-safe-browsing-link = Saber mais
+security-safe-browsing-warning =
+    .message = Desativar esta opção diminui a proteção contra burlas, sites maliciosos e transferências perigosas.
 security-block-downloads =
     .label = Bloquear transferências perigosas
     .accesskey = t
@@ -2058,6 +2127,15 @@ space-alert-over-5gb-settings-button =
     .accesskey = A
 space-alert-over-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos dos sites podem não ser apresentados corretamente. Pode limpar os dados armazenados em Definições > Privacidade e segurança > Cookies e Dados de sites.
 space-alert-under-5gb-message2 = <strong>O { -brand-short-name } está a ficar sem espaço em disco</strong>. Os conteúdos de sites podem não ser apresentados corretamente. Visite “Saber mais” para otimizar a utilização do seu disco e melhorar a experiência de navegação.
+certs-description3 =
+    .label = Certificados
+    .description = Configurar os certificados que o { -brand-short-name } utiliza para verificar ligações seguras.
+certs-view2 =
+    .label = Gerir certificados
+    .accesskey = c
+certs-devices2 =
+    .label = Gerir dispositivos de segurança
+    .accesskey = d
 
 ## Privacy Section - HTTPS-Only
 
@@ -2078,6 +2156,8 @@ httpsonly-radio-disabled =
 httpsonly-group =
     .label = Modo apenas HTTPS
     .description = Apenas permite ligações seguras a sites. O { -brand-short-name } irá perguntar antes de ligar sem segurança.
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
