@@ -210,3 +210,38 @@ bar-tooltip-cryptominer =
         }
 # Privacy Metrics Card
 privacy-metrics-title = Proteções de privacidade
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } bloqueado esta semana
+       *[other] { $count } bloqueados esta semana
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } rastreador
+       *[other] { $count } rastreadores
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } identificador digital
+       *[other] { $count } identificadores digitais
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } cookie de monitorização
+       *[other] { $count } cookies de monitorização
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } rastreador social
+       *[other] { $count } rastreadores sociais
+    }

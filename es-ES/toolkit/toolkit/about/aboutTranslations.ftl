@@ -38,6 +38,7 @@ about-translations-language-load-error-button = Volver a intentarlo
 about-translations-translation-error-heading = Ha habido un problema al traducir
 about-translations-translation-error-subtext = Vuelva a intentarlo.
 about-translations-translation-error-button = Reintentar
+about-translations-detected-language-unsupported-heading-unknown-2 = Lo sentimos, todavía no admitimos traducciones de este idioma
 about-translations-detected-language-unsupported-subtext = Seleccione otro idioma.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
