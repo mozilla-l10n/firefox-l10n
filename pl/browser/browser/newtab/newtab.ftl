@@ -146,6 +146,9 @@ newtab-menu-report = Zgłoś
 newtab-menu-section-block = Blokuj
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Przestań obserwować
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Przestań obserwować temat
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -316,6 +319,8 @@ newtab-custom-shortcuts-toggle =
     .description = Zachowane i odwiedzane strony.
 newtab-custom-shortcuts-nova =
     .label = Skróty
+newtab-custom-row-description =
+    .description = Liczba wierszy
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -521,6 +526,12 @@ newtab-weather-opt-in-yes =
     .label = Tak
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Nowy Jork
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Najwyższa
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Najniższa
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -594,6 +605,7 @@ newtab-section-confirm-block-topic-p2 = Zablokowane tematy nie będą już wyśw
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Zablokuj temat „{ $topic }”
+newtab-section-block-cancel-button = Anuluj
 
 ## Strings for custom wallpaper highlight
 

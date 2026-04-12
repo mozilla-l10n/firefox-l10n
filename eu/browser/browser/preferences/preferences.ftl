@@ -2139,8 +2139,19 @@ data-collection-health-report =
     .label = Bidali datu tekniko eta interakziozkoak { -vendor-short-name }(r)a
     .accesskey = r
     .description = Honek { -brand-product-name }(r)en eginbideak, errendimendua eta egonkortasuna hobetzen laguntzen digu.
+data-collection-health-report-disabled =
+    .label = Bidali datu tekniko eta interakziozkoak { -vendor-short-name }(r)a
+    .accesskey = r
+    .description = Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako.
+data-collection-run-studies =
+    .label = Baimendu { -brand-short-name }(r)i esperimentuak exekutatzea
+    .description = { -brand-short-name }(e)k ausaz aukeratzen ditu erabiltzaileak eginbideak proba ditzaten, horrela mundu guztiarentzat kalitatea hobetzen laguntzeko.
 data-collection-studies-link =
     .label = Ikusi { -brand-short-name } esperimentuak
+data-collection-backlogged-crash-reports =
+    .label = Bidali automatikoki hutsegite-txostenak
+    .description = Nabigatzailearen arazoak diagnostikatzen eta konpontzen laguntzen dio { -vendor-short-name }(r)i honek. Txostenek datu pertsonal edo kontuzkoak izan ditzakete.
+    .accesskey = h
 data-collection-usage-ping =
     .label = Bidali eguneroko erabilpenaren ping-a { -vendor-short-name }(r)a
     .description = Honek erabiltzaile aktiboen kopurua kalkulatzen laguntzen dio { -vendor-short-name }(r)i.
@@ -2279,6 +2290,15 @@ preferences-doh-advanced-button =
 preferences-doh-manage-exceptions2 =
     .label = Kudeatu salbuespenak
     .accesskey = s
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Erabili hornitzaile hau HTTPS gaineko DNSa ebazteko
+preferences-doh-custom-provider-label =
+    .aria-label = Idatzi hornitzailearen URL pertsonalizatua
+preferences-doh-header2 =
+    .heading = HTTPS gaineko DNSa
 
 ## The following strings are used in the Download section of settings
 
@@ -2347,12 +2367,24 @@ preferences-ai-controls-block-confirmation-confirm =
 
 ## Privacy and security status card
 
+security-privacy-status-ok-header = { -brand-short-name } guardian dago
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name }(e)k zenbait segurtasun-hobekuntza gomendatzen ditu
+security-privacy-status-ok-label = Jarraipenaren babes hobetua aktibatuta dago
+security-privacy-status-problem-label = Zure babesean eragina duten ezarpenak aurkitu ditugu
+security-privacy-status-problem-helper-label = Ikusi arazoak
 issue-card-dismiss-button =
     .tooltiptext = Baztertu
     .aria-label = Baztertu
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-strict =
+    .label = Zorrotza
+    .description = Jarraipen-elementu gehiago blokeatzen dituen babes zorrotzagoa, baina hainbat gune apurtzea eragin lezake.
+preferences-etp-level-custom =
+    .label = Pertsonalizatua
+    .description = Aukeratu zein babes aktibatu edo desaktibatu.
 preferences-etp-status-advanced-button =
     .label = Ezarpen aurreratuak
 preferences-etp-header =

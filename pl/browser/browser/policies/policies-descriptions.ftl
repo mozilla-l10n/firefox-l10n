@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Ustawienie zasad, do których rozszerzenia WebExtension mają dostęp przez „chrome.storage.managed”.
+policy-AIControls = Konfiguracja sterowania sztuczną inteligencją.
 policy-AllowedDomainsForApps = Określenie domen, które mają dostęp do Google Workspace.
 policy-AllowFileSelectionDialogs = Zezwalanie na okna wyboru plików.
 policy-AppAutoUpdate = Włączenie lub wyłączenie automatycznego aktualizowania aplikacji.
@@ -90,6 +91,7 @@ policy-Homepage = Ustawienie i opcjonalna blokada strony startowej.
 policy-HttpAllowlist = Źródła, które nie będą przełączane na protokół HTTPS.
 policy-HttpsOnlyMode = Zezwalanie na włączenie trybu używania wyłącznie protokołu HTTPS.
 policy-InstallAddonsPermission = Zezwalanie pewnym witrynom na instalowanie dodatków.
+policy-IPProtectionAvailable = Uniemożliwienie użytkownikom dostępu do wbudowanej sieci VPN.
 policy-LegacyProfiles = Wyłączenie funkcji wymuszającej oddzielny profil dla każdej instalacji.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Ustawienie i zablokowanie wartości dla podzbioru preferen
 policy-PrivateBrowsingModeAvailability = Ustawienie dostępności trybu prywatnego.
 policy-PromptForDownloadLocation = Pytanie, gdzie zapisywać pliki podczas pobierania.
 policy-Proxy = Konfiguracja ustawień proxy.
+policy-RelaunchRequired = Wymaganie ponownego uruchomienia { -brand-short-name(case: "gen") } w określonym przedziale czasowym i powiadamianie użytkownika o zbliżającym się ponownym uruchomieniu.
 policy-RequestedLocales = Ustawienie listy żądanych języków dla programu w preferowanej kolejności.
 policy-SanitizeOnShutdown2 = Usuwanie danych nawigacji podczas wyłączania.
 policy-SearchBar = Ustawienie domyślnego położenia paska wyszukiwania. Użytkownik nadal może go konfigurować.
@@ -151,3 +154,5 @@ policy-WebsiteFilter = Blokowanie odwiedzania witryn. Dokumentacja zawiera więc
 policy-Windows10SSO = Zezwalanie na pojedyncze logowanie Windows do kont Microsoft, służbowych i szkolnych.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Zezwalanie na pojedyncze logowanie do kont Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Włączenie lub wyłączenie obsługi API „XSLTProcessor” języka JavaScript i instrukcji przetwarzania XSLT.
