@@ -526,6 +526,117 @@ pdfjs-editor-alt-text-settings-download-model-label = Модел на вешта
 pdfjs-editor-alt-text-settings-ai-model-description = Работи локално на вашиот уред, така што вашите податоци остануваат приватни. Задолжително за автоматски алтернативен текст.
 pdfjs-editor-alt-text-settings-delete-model-button = Избриши
 pdfjs-editor-alt-text-settings-download-model-button = Преземи
+pdfjs-editor-alt-text-settings-downloading-model-button = Се презема…
+pdfjs-editor-alt-text-settings-editor-title = Уредувач на алтернативен текст
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Прикажи го уредувачот на алтернативен текст веднаш при додавање на слика
+pdfjs-editor-alt-text-settings-show-dialog-description = Ви помага да се осигурате дека сите ваши слики имаат алтернативен текст.
+pdfjs-editor-alt-text-settings-close-button = Затвори
+
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = Нагласувањето е додадено
+pdfjs-editor-freetext-added-alert = Текстот е додаден
+pdfjs-editor-ink-added-alert = Цртежот е додаден
+pdfjs-editor-stamp-added-alert = Сликата е додадена
+pdfjs-editor-signature-added-alert = Потписот е додаден
+
+## "Annotations removed" bar
+
+pdfjs-editor-undo-bar-message-highlight = Нагласувањето е отстрането
+pdfjs-editor-undo-bar-message-freetext = Текстот е отстранет
+pdfjs-editor-undo-bar-message-ink = Цртежот е отстранет
+pdfjs-editor-undo-bar-message-stamp = Сликата е отстранета
+pdfjs-editor-undo-bar-message-signature = Потписот е отстранет
+pdfjs-editor-undo-bar-message-comment = Коментарот е отстранет
+# Variables:
+#   $count (Number) - the number of removed annotations.
+pdfjs-editor-undo-bar-message-multiple =
+    { $count ->
+        [one] { $count } напомена е отстранета
+       *[other] { $count } напомени е отстранета
+    }
+pdfjs-editor-undo-bar-undo-button =
+    .title = Врати
+pdfjs-editor-undo-bar-undo-button-label = Врати
+pdfjs-editor-undo-bar-close-button =
+    .title = Затвори
+pdfjs-editor-undo-bar-close-button-label = Затвори
+
+## Add a signature dialog
+
+pdfjs-editor-add-signature-dialog-label = Овој прозорец му овозможува на корисникот да креира потпис за да го додаде во PDF документ. Корисникот може да го уреди името (кое исто така служи како алтернативен текст) и опционално да го зачува потписот за повторна употреба.
+pdfjs-editor-add-signature-dialog-title = Додавање на потпис
+
+## Tab names
+
+# Type is a verb (you can type your name as signature)
+pdfjs-editor-add-signature-type-button = Типкај
+    .title = Типкај
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Цртај
+    .title = Цртај
+pdfjs-editor-add-signature-image-button = Слика
+    .title = Слика
+
+## Tab panels
+
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Типкајте го Вашиот потпис
+    .placeholder = Типкајте го Вашиот потпис
+pdfjs-editor-add-signature-draw-placeholder = Нацртајте го Вашиот потпис
+pdfjs-editor-add-signature-draw-thickness-range-label = Дебелина
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Дебелина на цртежот: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Повлечете датотека тука за да ја прикачите
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] Или прелистајте датотеки со слики
+       *[other] Или прелистајте датотеки со слики
+    }
+
+## Controls
+
+pdfjs-editor-add-signature-description-label = Опис (алтернативен текст)
+pdfjs-editor-add-signature-description-input =
+    .title = Опис (алтернативен текст)
+pdfjs-editor-add-signature-description-default-when-drawing = Потпис
+pdfjs-editor-add-signature-clear-button-label = Избриши го потписот
+pdfjs-editor-add-signature-clear-button =
+    .title = Бришење на потписот
+pdfjs-editor-add-signature-save-checkbox = Сними го потписот
+pdfjs-editor-add-signature-save-warning-message = Можете да снимите најмногу 5 потписи. Отстранете еден за да снимите нов.
+pdfjs-editor-add-signature-image-upload-error-title = Сликата не може да се прикачи
+pdfjs-editor-add-signature-image-upload-error-description = Проверете ја мрежната врска или обидете се со друга слика.
+pdfjs-editor-add-signature-image-no-data-error-title = Оваа слика не може да се конвертира во потпис
+pdfjs-editor-add-signature-image-no-data-error-description = Обидете се да прикачите друга слика.
+pdfjs-editor-add-signature-error-close-button = Затвори
+
+## Dialog buttons
+
+pdfjs-editor-add-signature-cancel-button = Откажи
+pdfjs-editor-add-signature-add-button = Додај
+pdfjs-editor-edit-signature-update-button = Ажурирај
+
+## Comment popup
+
+pdfjs-editor-edit-comment-popup-button-label = Уреди коментар
+pdfjs-editor-edit-comment-popup-button =
+    .title = Уреди коментар
+pdfjs-editor-delete-comment-popup-button-label = Отстрани го коментарот
+pdfjs-editor-delete-comment-popup-button =
+    .title = Отстрани го коментарот
+pdfjs-show-comment-button =
+    .title = Прикажи го коментарот
+
+##  Edit a comment dialog
+
+# An existing comment is edited
+pdfjs-editor-edit-comment-dialog-title-when-editing = Уреди коментар
+pdfjs-editor-edit-comment-dialog-save-button-when-editing = Ажурирај
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Додај коментар
 
 ## The view manager is a sidebar displaying different views:
 ##  - thumbnails;
@@ -534,6 +645,27 @@ pdfjs-editor-alt-text-settings-download-model-button = Преземи
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
+pdfjs-toggle-views-manager-button =
+    .title = Вклучи странична лента
+pdfjs-toggle-views-manager-notification-button =
+    .title = Вклучи странична лента (документот содржи преглед, прилози, или слоеви)
+pdfjs-toggle-views-manager-button-label = Вклучи странична лента
+pdfjs-views-manager-sidebar =
+    .aria-label = Странична лента
 # Badge used to promote a new feature in the UI, keep it as short as possible.
 # It's spelled uppercase for English, but it can be translated as usual.
 pdfjs-new-badge-content = НОВО
+
+## Main menu for adding/removing signatures
+
+pdfjs-editor-delete-signature-button1 =
+    .title = Отстрани го зачуваниот потпис
+pdfjs-editor-delete-signature-button-label1 = Отстрани го зачуваниот потпис
+
+## Editor toolbar
+
+pdfjs-editor-add-signature-edit-button-label = Уреди опис
+
+## Edit signature description dialog
+
+pdfjs-editor-edit-signature-dialog-title = Уреди опис
