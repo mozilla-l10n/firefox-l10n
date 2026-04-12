@@ -142,6 +142,13 @@ restore-from-backup-password-description = Ovo će otključati tvoju šifriranu 
 restore-from-backup-cancel-button = Odustani
 restore-from-backup-confirm-button = Obnovi i ponovo pokreni
 restore-from-backup-restoring-button = Obnavljanje …
+restore-from-backup-type-group-label =
+    .label = Zamijeniti trenutačni profil?
+restore-from-backup-type-replace =
+    .label = Zamijeni sve podatke s ovom sigurnosnom kopijom
+restore-from-backup-type-add =
+    .label = Zadrži podatke i stvori novi profil
+restore-from-backup-profiles-disabled-message = Ovo će zamijenit sve tvoje trenutačne { -brand-short-name } podatke sigurnosnom kopijom.
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -268,6 +275,15 @@ other-backup-files-founds =
         [few] <b>Napomena:</b> pronađene su { $numberOfOtherBackupsFound } druge datoteke sigurnosne kopije
        *[other] <b>Napomena:</b> pronađeno je { $numberOfOtherBackupsFound } drugih datoteka sigurnosne kopije
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> stvoreno { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Obnovljeno s uređaja { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } u { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.

@@ -410,6 +410,8 @@ quickactions-cmd-help = pomoć, podrška
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector2 = inspektor, programerski alati
+# Opens Firefox Library
+quickactions-cmd-library = biblioteka
 quickactions-library = Otvori biblioteku
 quickactions-cmd-inspector = inspektor, programerski alati
 # Opens about:logins
@@ -1188,10 +1190,21 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Lozinke
     .tooltiptext = Pogledaj i upravljaj tvojim lozinkama
+qrcode-panel-error =
+    .message = Neuspjelo generiranje QR koda. Pokušaj ponovo.
+qrcode-copy-button =
+    .label = Kopiraj
 qrcode-copy-success =
     .message = QR kod je kopiran u međuspremnik.
+qrcode-copy-error =
+    .message = Neuspjelo kopiranje QR koda.
 qrcode-save-button =
     .label = Spremi
+qrcode-save-success =
+    .message = QR kod je spremljen.
+qrcode-save-error =
+    .message = Neuspjelo spremanje QR koda.
+qrcode-save-title = Spremi QR kod
 qrcode-save-filter-png = PNG slika
 qrcode-save-filename = qrcode.png
 qrcode-window-title = QR kod

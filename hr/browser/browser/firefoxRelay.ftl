@@ -18,6 +18,13 @@ firefox-relay-must-login-to-account = Prijavi se na svoj račun da bi koristio/l
 firefox-relay-get-unlimited-masks =
     .label = Upravljaj maskama
     .accesskey = U
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Iskoristio/la si { $count } besplatnu masku e-mail adrese
+        [few] Iskoristio/la si sve { $count } besplatne maske e-mail adrese
+       *[other] Iskoristio/la si svih { $count } besplatnih maski e-mail adrese
+    }
 firefox-relay-dismiss =
     .label = Odbaci
     .accesskey = d
