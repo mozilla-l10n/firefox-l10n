@@ -228,9 +228,25 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Следно
 pdfjs-find-highlight-checkbox = Означи сѐ
 pdfjs-find-match-case-checkbox-label = Токму така
+pdfjs-find-match-diacritics-checkbox-label = Вклучи дијакритички знаци
 pdfjs-find-entire-word-checkbox-label = Цели зборови
 pdfjs-find-reached-top = Барањето стигна до почетокот на документот и почнува од крајот
 pdfjs-find-reached-bottom = Барањето стигна до крајот на документот и почнува од почеток
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } од { $total } совпаѓање
+       *[other] { $current } од { $total } совпаѓања
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Повеќе од { $limit } совпаѓање
+       *[other] Повеќе од { $limit } совпаѓања
+    }
 pdfjs-find-not-found = Фразата не е пронајдена
 
 ## Predefined zoom values
@@ -243,6 +259,13 @@ pdfjs-page-scale-actual = Вистинска големина
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
 
+## PDF page
+
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Страница { $page }
+
 ## Loading indicator messages
 
 pdfjs-loading-error = Настана грешка при вчитувањето на PDF-от.
@@ -251,10 +274,93 @@ pdfjs-missing-file-error = Недостасува PDF документ.
 pdfjs-unexpected-response-error = Неочекуван одговор од серверот.
 pdfjs-rendering-error = Настана грешка при прикажувањето на страницата.
 
+## Annotations
+
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } напомена]
+# Variables:
+#   $dateObj (Date) - the modification date and time of the annotation
+pdfjs-annotation-date-time-string = { DATETIME($dateObj, dateStyle: "short", timeStyle: "medium") }
+
 ## Password
 
-pdfjs-password-label = Внесете ја лозинката за да ја отворите оваа датотека.
+pdfjs-password-label = Внесете ја лозинката за да ја отворите оваа PDF датотека.
 pdfjs-password-invalid = Невалидна лозинка. Обидете се повторно.
 pdfjs-password-ok-button = Во ред
 pdfjs-password-cancel-button = Откажи
 pdfjs-web-fonts-disabled = Интернет фонтовите се оневозможени: не може да се користат вградените PDF фонтови.
+
+## Editing
+
+pdfjs-editor-free-text-button =
+    .title = Текст
+pdfjs-editor-color-picker-free-text-input =
+    .title = Промена на боја на текст
+pdfjs-editor-free-text-button-label = Текст
+pdfjs-editor-ink-button =
+    .title = Цртање
+pdfjs-editor-color-picker-ink-input =
+    .title = Промена на боја за цртање
+pdfjs-editor-ink-button-label = Цртај
+pdfjs-editor-stamp-button =
+    .title = Додавање или уредување на слики
+pdfjs-editor-stamp-button-label = Додај или уреди слики
+pdfjs-editor-highlight-button =
+    .title = Нагласување
+pdfjs-editor-highlight-button-label = Нагласи
+pdfjs-highlight-floating-button1 =
+    .title = Нагласување
+    .aria-label = Нагласување
+pdfjs-highlight-floating-button-label = Нагласи
+pdfjs-comment-floating-button =
+    .title = Коментар
+    .aria-label = Коментар
+pdfjs-comment-floating-button-label = Коментар
+pdfjs-editor-comment-button =
+    .title = Коментар
+    .aria-label = Коментар
+pdfjs-editor-comment-button-label = Коментар
+pdfjs-editor-signature-button =
+    .title = Додавање на потпис
+pdfjs-editor-signature-button-label = Додај потпис
+
+## Default editor aria labels
+
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Уредувач на нагласувања
+# “Drawing” is a noun, the string is used on the editor for drawings.
+pdfjs-editor-ink-editor =
+    .aria-label = Уредувач за цртање
+# Used when a signature editor is selected/hovered.
+# Variables:
+#   $description (String) - a string describing/labeling the signature.
+pdfjs-editor-signature-editor1 =
+    .aria-description = Уредувач на потпис: { $description }
+pdfjs-editor-stamp-editor =
+    .aria-label = Уредувач на слика
+
+## Remove button for the various kind of editor.
+
+pdfjs-editor-remove-ink-button =
+    .title = Отстранување на цртеж
+pdfjs-editor-remove-freetext-button =
+    .title = Отстранување на текст
+pdfjs-editor-remove-stamp-button =
+    .title = Отстранување на слика
+pdfjs-editor-remove-highlight-button =
+    .title = Отстранување на нагласувања
+pdfjs-editor-remove-signature-button =
+    .title = Отстранување на потпис
+
+##
+
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Боја
+pdfjs-editor-free-text-size-input = Големина
+pdfjs-editor-ink-color-input = Боја
