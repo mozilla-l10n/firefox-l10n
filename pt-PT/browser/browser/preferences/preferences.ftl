@@ -1071,6 +1071,8 @@ search-delete-engine =
     .title = Eliminar motor de pesquisa
 search-enable-engine =
     .title = Ativar motor de pesquisa
+search-outlink-to-extensions-page =
+    .title = Gerir nas extensões e temas
 search-choose-engine-column =
     .label = Motor de pesquisa
 search-choose-keyword-column =
@@ -1132,6 +1134,11 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sincronizar
+account-group-label =
+    .label = Conta { -vendor-short-name }
+account-placeholder =
+    .label = Não iniciou sessão
+    .description = Inicie sessão para manter os seus dados privados, encriptados e sincronizados, entre dispositivos.
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1143,6 +1150,9 @@ sync-signedout-account-signin3 =
     .accesskey = I
 sync-signedout-account-signin-4 =
     .label = Inicie sessão na sua conta para iniciar a sincronização
+    .accesskey = I
+sync-signedout-account-short =
+    .label = Iniciar sessão
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1182,7 +1192,23 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } não está verificado.
+sync-signedin-unverified2 =
+    .label = { $email } ainda não está confirmado
+    .description = Consulte a sua caixa de correio para confirmar a sua conta e torná-la oficial.
 sync-signedin-login-failure = Por favor, inicie a sessão para reassociar { $email }
+sync-signedin-login-failure2 =
+    .label = A sua sessão foi terminada em { $email }
+    .description = Inicie sessão novamente para se ligar e começar a sincronizar os seus dados.
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .label = { $name }
+    .description = { $email }
 
 ##
 
@@ -1253,6 +1279,9 @@ sync-currently-syncing-addons = Extras
 sync-currently-syncing-settings = Definições
 sync-manage-options =
     .label = Gerir a sincronização…
+    .accesskey = G
+sync-manage-options-2 =
+    .label = Gerir dados sincronizados
     .accesskey = G
 settings-sync-disconnect-button =
     .label = Desligar
@@ -1372,10 +1401,16 @@ forms-ask-to-save-logins =
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = Palavras-passe
     .searchkeywords = credenciais
+forms-passwords-header =
+    .label = Palavras-passe
+    .aria-label = Palavras-passe
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = Pedir para guardar as palavras-passe
     .accesskey = P
+forms-manage-password-exceptions =
+    .label = Gerir exceções de palavras-passe
+    .accesskey = G
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
@@ -1406,9 +1441,15 @@ forms-saved-logins =
 forms-fill-usernames-and-passwords =
     .label = Preencher automaticamente os nomes de utilizador e as palavras-passe
     .accesskey = a
+forms-fill-usernames-and-passwords-2 =
+    .label = Guardar e preencher automaticamente nomes de utilizador e palavras-passe
+    .accesskey = p
 forms-saved-passwords =
     .label = Palavras-passe guardadas
     .accesskey = g
+forms-saved-passwords-2 =
+    .label = Gerir palavras-passe guardadas
+    .accesskey = d
 forms-primary-pw-use =
     .label = Utilizar uma palavra-passe principal
     .accesskey = U

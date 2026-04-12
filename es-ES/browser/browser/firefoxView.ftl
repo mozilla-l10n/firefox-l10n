@@ -113,6 +113,8 @@ firefoxview-history-nav = Historia
 firefoxview-history-header = Historial
 firefoxview-history-context-delete = Eliminar del historial
     .accesskey = d
+firefoxview-history-context-forget-site = Olvidar este sitio…
+    .accesskey = O
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -155,6 +157,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Buscar en el historial
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Buscar marcadores
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Buscar pestañas cerradas recientemente
