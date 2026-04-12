@@ -208,6 +208,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = إعداد مسبق للتنقيح في { -brand-shorter-name }. تكلفة إضافية عالية، لا تستخدمه لأعمال الأداء ولكن استخدمه للتركيز على فهم سلوك المتصفح.
 profiler-popup-presets-debug-label =
     .label = نقّح
+profiler-popup-presets-web-compat-label =
+    .label = توافق الوِب
 profiler-popup-presets-custom-label =
     .label = مخصّص
 
@@ -273,6 +275,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = خصّص شريط الأدوات…
+appmenu-abouttranslations =
+    .label = ترجم…
 appmenu-developer-tools-subheader = أدوات المتصفّح
 appmenu-developer-tools-extensions =
     .label = الامتدادات التي تخصّ المطوّرين
@@ -288,6 +292,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = أخفِ بريدك الإلكتروني ورقم هاتفك الحقيقي
 appmenuitem-services-relay-description = إطلاق لوحة معلومات أقنعة البريد الإلكتروني
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = احصل على حماية كاملة للجهاز
 appmenuitem-vpn-description = احمِ نشاطك على الإنترنت
 appmenu-services-header = خدماتي
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
