@@ -141,6 +141,9 @@ newtab-menu-report = Prijavi
 newtab-menu-section-block = Blokiraj
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Prestani pratiti
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Prestani pratiti temu
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -312,6 +315,8 @@ newtab-custom-shortcuts-toggle =
     .description = Stranice koje spremiš ili posjetiš
 newtab-custom-shortcuts-nova =
     .label = Prečaci
+newtab-custom-row-description =
+    .description = Broj redaka
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -517,6 +522,12 @@ newtab-weather-opt-in-yes =
     .label = Da
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Najviša
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Najniža
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -590,6 +601,7 @@ newtab-section-confirm-block-topic-p2 = Blokirane teme se više neće pojavljiva
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokiraj temu „{ $topic }”
+newtab-section-block-cancel-button = Odustani
 
 ## Strings for custom wallpaper highlight
 
@@ -651,6 +663,20 @@ newtab-report-cancel = Odustani
 newtab-report-submit = Pošalji
 newtab-toast-thanks-for-reporting =
     .message = Hvala na prijavi!
+newtab-toast-widgets-hidden =
+    .message = Odaberi ikonu olovke za ponovno dodavanje widgeta.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Sada pratiš { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Više ne pratiš { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Priče o { $topic } više nećeš vidjeti.
 
 ## Strings for task / to-do list productivity widget
 
@@ -691,6 +717,11 @@ newtab-widget-lists-name-placeholder-default =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Novi popis
 newtab-widget-section-title = Widgeti
+newtab-widget-menu-hide = Sakrij widget
+newtab-widget-menu-change-size = Promijeni veličinu
+newtab-widget-size-small = Mali
+newtab-widget-size-medium = Srednji
+newtab-widget-size-large = Veliki
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Sakrij widgete
@@ -701,6 +732,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Smanji widgete
     .aria-label = Smanji sve widgete na kompaktnu veličinu
+newtab-widget-section-feedback = Reci nam svoje mišljenje
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
@@ -732,6 +764,12 @@ newtab-daily-briefing-card-timestamp = Aktualizirano prije { $minutes } min
 newtab-widget-message-title = Ostanite fokusirani uz popise i ugrađeno odbrojavanje
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od brzih podsjetnika do dnevnih obaveza, sesija za fokusiranje do pauza za istezanje — ostanite usredotočeni na zadatak i na vrijeme.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Prilagodi { -brand-product-name } svojim potrebama
+newtab-promo-card-body-addons = Odaberi pozadinu iz naše zbirke ili stvori vlastitu.
+newtab-promo-card-cta-addons = Isprobaj sada
 newtab-promo-card-title = Podrži { -brand-product-name }
 newtab-promo-card-body = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba
 newtab-promo-card-cta = Saznajte više
