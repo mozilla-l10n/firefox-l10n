@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> je zmylk wró
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Serwer na <strong>{ $hostname }</strong> je zmylk wroćo pósłał: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } njeje tutu stronu začitał, dokelž so zda, jako njeby wěstotna konfiguracija z předchadnej stronu wotpowědował.
+fp-neterror-blocked-by-policy-intro = Waša organizacija je přistup na tutu stronu abo websydło zablokowała.
 fp-neterror-http-auth-disabled-intro = Něchtó, kotryž wudawa, zo je sydło, móhł wěcy kaž waše wužiwarske mjeno, hesło abo e-mejlowu adresu kradnyć.
 fp-neterror-http-auth-disabled-secure-connection = Tute sydło sej wěsty zwisk wužaduje, a njemóžeće wuwzaće přidać, zo byšće jo wopytał.
 fp-neterror-why-did-this-happen = Čehodla je so to stało?

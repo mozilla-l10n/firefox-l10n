@@ -6,11 +6,33 @@
 ## Error page titles
 
 neterror-page-title = Проблем со вчитувањето на страницата
+certerror-page-title = Предупредување: Претстои потенцијален безбедосен ризик
+certerror-sts-page-title = Не се поврзав: Потенцијален безбедносен проблем
+neterror-blocked-by-policy-page-title = Блокирана страница
+neterror-captive-portal-page-title = Најавете се во мрежата
 neterror-dns-not-found-title = Серверот не е пронајден
+neterror-malformed-uri-page-title = Неисправно URL
+general-body-title = Внимателно. Нешто не изгледа како што треба.
+problem-with-this-site-title = Изгледа како да има проблем со ова место
 
 ## Error page actions
 
+neterror-advanced-button = Напредно…
+neterror-copy-to-clipboard-button = Копирај го текстот во бележникот
+neterror-learn-more-link = Дознајте повеќе…
+neterror-open-portal-login-page-button = Отвори ја страницата за пријавување на мрежата
+neterror-override-exception-button = Прифати го ризикот и продолжи
+neterror-pref-reset-button = Врати ги основните поставки
+neterror-return-to-previous-page-button = Оди назад
+neterror-return-to-previous-page-recommended-button = Оди назад (препорачливо)
+neterror-try-again-button-2 = Обиди се повторно
+    .accesskey = п
 neterror-try-again-button = Обиди се повторно
+neterror-add-exception-button = Секогаш продолжи за ова место
+neterror-settings-button = Промени ги поставките за DNS
+neterror-view-certificate-link = Прикажи сертификат
+neterror-trr-continue-this-time = Продолжи овој пат
+neterror-disable-native-feedback-warning = Секогаш продолжувај
 
 ## Specific error messages
 

@@ -434,6 +434,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Składować
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Noticu zhašeć
+    .aria-label = Noticu zhašeć
+    .accesskey = N
+tab-note-preview-edit-icon =
+    .alt = Noticu wobdźěłać
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Wjace čitać
 tab-note-panel-add-note-new-badge =

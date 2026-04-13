@@ -144,6 +144,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } wo přidat
 
 webext-site-perms-header-with-gated-perms-midi = Tutón přidatk { $hostname } přistup k wašim MIDI-gratam dawa.
 webext-site-perms-header-with-gated-perms-midi-sysex = Tutón přidatk { $hostname } přistup k wašim MIDI-gratam dawa (z podpěru SysEx).
+webext-site-perms-header-with-gated-perms-serial = Tutón přidatk { $hostname } přistup k wašim serijowym gratam dawa.
 
 ##
 
@@ -168,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = { $extension } přidać? Tute roz
 
 webext-site-perms-midi = Přistup k MIDI-gratam
 webext-site-perms-midi-sysex = Přistup k MIDI-gratam z podpěru za SysEx
+webext-site-perms-serial = Přistup k serijowym gratam
 
 ## Colorway theme migration
 

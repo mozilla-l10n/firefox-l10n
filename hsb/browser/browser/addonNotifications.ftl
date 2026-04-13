@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Tute sydła sej přistup k wašim gratam MIDi (Musical Instrument Digital Interface) žada. Gratowy přistup da so zmóžnić, hdyž přidatk instalujeće.
 site-permission-install-first-prompt-midi-message = Wěsty přistup so njegarantuje. Postupujće jenož, jeli tutomu sydłu dowěrjeće.
+site-permission-install-first-prompt-serial-header = Tute sydło wo přistup k wašim serijowym gratam prosy. Instalujće přidatk, zo byšće přistup ke gratam zmóžnił.
+site-permission-install-first-prompt-serial-message = Wěsty přistup so njegarantuje. Postupujće jenož, jeli tutomu sydłu dowěrjeće.
 
 ##
 
