@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashed-title = مُبلّغ انهيار الألسنة
+crashed-title = مُبلِّغ انهيار الألسنة
 crashed-close-tab-button = أغلق اللسان
 crashed-restore-tab-button = استعِد هذا اللسان
 crashed-restore-all-button = استعِد كل الألسنة التي تحطمت

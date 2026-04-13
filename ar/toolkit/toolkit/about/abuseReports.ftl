@@ -60,10 +60,19 @@ abuse-report-messagebar-action-cancel = ألغِ
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason-v2 = أتلفَ حاسوبي أو كشف عن بياناتي
+abuse-report-damage-example = مثال: برمجيات خبيثة محقونة أو معلومات مسروقة
+abuse-report-spam-reason-v2 = تحتوي على مواد مزعجة أو تدرج إعلانات غير مرغوب بها
+abuse-report-spam-example = مثال: تدرج إعلانات في صفحات الوِب
 abuse-report-settings-reason-v2 = غيّر محرّك البحث أو الصفحة الرئيسة أو صفحة اللسان الجديد دون إعلامي أو طلب ذلك
 abuse-report-settings-suggestions = قبل الإبلاغ عن الامتداد، جرّب تعديل إعداداتك:
 abuse-report-settings-suggestions-search = غيّر إعدادات البحث المبدئية
 abuse-report-settings-suggestions-homepage = غيّر الصفحة الرئيسة وصفحة اللسان الجديد
+abuse-report-deceptive-reason-v2 = يدعي بأنه شيء ليس كذلك
+abuse-report-deceptive-example = مثال: وصف أو صور مضللة
+abuse-report-broken-reason-extension-v2 = لا يعمل أو يُعطب المواقع أو يُبطئ { -brand-product-name }
+abuse-report-broken-reason-sitepermission-v2 = لا يعمل أو يُعطب المواقع أو يُبطئ { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = لا يعمل أو يُعطب عرض المتصفح
+abuse-report-broken-example = مثال: الميزات بطيئة، أو صعبة الاستخدام، أو لا تعمل؛ أجزاء من مواقع الوِب لا تُحمّل أو تبدو غير مألوفة
 abuse-report-broken-suggestions-extension =
     يبدو أنك حددت علة. بالإضافة إلى تقديم تقرير هنا، أفضل طريقة
     لحل مشكلة وظيفية هو التواصل مع مطور الامتداد.

@@ -81,6 +81,11 @@ app-basics-key-mozilla = مفتاح خدمة التموضع من Mozilla
 app-basics-safe-mode = الوضع الآمن
 app-basics-memory-size = حجم الذاكرة (RAM)
 app-basics-disk-available = مساحة القرص المتاحة
+app-basics-pointing-devices = أجهزة التأشير
+# Variables:
+#   $value (number) - Amount of data being stored
+#   $unit (string) - The unit of data being stored (e.g. MB)
+app-basics-data-size = ‏{ $value } ‏{ $unit }
 show-dir-label =
     { PLATFORM() ->
         [macos] أظهِر في فايندر
@@ -115,7 +120,12 @@ graphics-window-protocol = ميفاق النوافذ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = بيئة سطح المكتب
 place-database-title = قاعدة بيانات الأماكن
+place-database-stats-show = أظهر الإحصائيات
 place-database-stats-hide = أخفِ الإحصائيات
+place-database-stats-entity = كيان
+place-database-stats-count = العدد
+place-database-stats-size-perc = الحجم (%)
+place-database-stats-efficiency-perc = الكفاءة (%)
 place-database-integrity = التكامل
 place-database-verify-integrity = تحقّق من التكامل
 a11y-title = الإتاحة
@@ -160,6 +170,9 @@ media-device-latency = الكمون
 
 ## Codec support table
 
+media-codec-support-sw-encoding = ترميز البرمجيات
+media-codec-support-hw-encoding = ترميز العتاد
+media-codec-support-unsupported = غير مدعومة
 media-codec-support-lack-of-extension = ثبِّت الامتدادة
 
 ##
@@ -355,7 +368,18 @@ policies-error = خطأ
 
 support-printing-clear-settings-button = امسح إعدادات الطباعة المحفوظة
 support-printing-modified-settings = إعدادات الطباعة المعدّلة
+support-printing-prefs-name = الاسم
+support-printing-prefs-value = القيمة
 
 ## Remote Settings sections
 
+support-remote-settings-title = الإعدادات عن بُعد
+support-remote-settings-status = الحالة
 support-remote-settings-status-ok = حسنًا
+# Status when synchronization is not working.
+support-remote-settings-status-broken = لا يعمل
+support-remote-settings-last-check = آخر تحقق
+
+## Normandy sections
+
+support-remote-experiments-name = الاسم
