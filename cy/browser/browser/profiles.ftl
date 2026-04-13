@@ -8,7 +8,7 @@ profile-window-body = Cadwch eich pori gwaith a phersonol, gan gynnwys pethau fe
 profile-window-checkbox-label-2 =
     .label = Dewis proffil pan fydd { -brand-short-name } yn agor
 # This subcopy appears below the checkbox when it is unchecked
-profile-window-checkbox-subcopy = Bydd { -brand-short-name } yn agor i'ch proffil a ddefnyddiwyd yn fwyaf diweddar.
+profile-window-checkbox-subcopy = Bydd { -brand-short-name } yn agor i'ch proffil ddefnyddiwyd yn fwyaf diweddar.
 profile-window-create-profile = Creu proffil
 profile-card-edit-button =
     .title = Golygu proffil
