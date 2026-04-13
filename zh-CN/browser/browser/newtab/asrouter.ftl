@@ -307,6 +307,7 @@ tail-fox-spotlight-secondary-button = 暂时不要
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = 舒享内置隐私保护
+welcome-back-spotlight-subtitle = 欢迎回来，这是唯一由非营利组织支持的主流浏览器。无论您漫游至网络上何处，我们都会采取多重措施保护您的数据。
 welcome-back-embedded-import-title = 导入数据，让 { -brand-short-name } 亲切如家
 
 ## Root Certificate Succession Infobar
