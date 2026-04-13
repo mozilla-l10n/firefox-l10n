@@ -157,3 +157,9 @@ about-webrtc-jitter-label = التقلقل { $jitter }
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
 about-webrtc-trickle-caption-msg = سيظهر المرشحون المتقاطرون (الواصلين بعد الإجابة) باللون الأزرق
+
+## These are displayed on the button that shows or hides the Media Context information disclosure.
+## The Media Context is the set of preferences and detected capabilities that informs
+## the negotiated CODEC settings.
+
+about-webrtc-media-context-hide-msg = أخفِ سياق الوسائط

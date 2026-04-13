@@ -32,6 +32,7 @@
 -relay-brand-short-name = Relay
 -fakespot-brand-name = بقعة وهمية
 -solo-ai-brand-name = Solo
+-mdn-brand-name = توثيق MDN للوِب
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com

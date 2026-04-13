@@ -466,6 +466,7 @@ newtab-weather-menu-temperature-option-fahrenheit = فهرنهايت
 newtab-weather-menu-temperature-option-celsius = درجة مئوية
 newtab-weather-menu-change-temperature-units-fahrenheit = بدّل إلى فهرنهايت
 newtab-weather-menu-change-temperature-units-celsius = بدّل إلى درجة مئوية
+newtab-weather-menu-hide-weather-v2 = أخفِ الطقس
 newtab-weather-menu-hide-weather = أخفِ الطقس في اللسان الجديد
 newtab-weather-menu-learn-more = اطّلع على المزيد
 # This message is shown if user is working offline
@@ -636,6 +637,7 @@ newtab-widget-timer-label-pause =
     .label = ألبِث
 newtab-widget-timer-reset =
     .title = صفّر
+newtab-widget-timer-menu-hide = أخفِ المؤقت
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed

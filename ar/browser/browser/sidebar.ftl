@@ -215,5 +215,5 @@ sidebar-widget-show-sidebar2 =
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-widget-hide-sidebar2 =
-    .tooltiptext = إخفاء الشريط الجانبي ({ $shortcut })
+    .tooltiptext = أخفِ الشريط الجانبي ({ $shortcut })
     .label = الأشرطة الجانبية

@@ -15,6 +15,14 @@ support-addons-type = النوع
 support-addons-enabled = مفعّلة
 support-addons-version = النسخة
 support-addons-id = المعرّف
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = المكان
+legacy-user-stylesheets-title = أنماط المستخدم القديمة
+legacy-user-stylesheets-enabled = نشط
+legacy-user-stylesheets-stylesheet-types = أوراق الأنماط
+legacy-user-stylesheets-no-stylesheets-found = لم يُعثر على أي أوراق الأنماط
 security-software-title = برمجيات الحماية
 security-software-type = النوع
 security-software-name = الاسم
@@ -54,9 +62,14 @@ app-basics-enabled-plugins = الملحقات المفعّلة
 app-basics-build-config = إعدادات البناء
 app-basics-user-agent = عميل المستخدم
 app-basics-os = نظام التشغيل
+app-basics-os-theme = سمة نظام التشغيل
+# Rosetta is Apple's translation process to run apps containing x86_64
+# instructions on Apple Silicon. This should remain in English.
+app-basics-rosetta = Rosetta Translated
 app-basics-memory-use = استخدام الذاكرة
 app-basics-performance = الأداء
 app-basics-service-workers = عمّال الخدمة المسجلين
+app-basics-third-party = وحدات الطرف الثالث
 app-basics-profiles = ملفات الإعدادات
 app-basics-multi-process-support = نوافذ متعددة السيرورات
 app-basics-fission-support = النوافذ المنشطرة
@@ -66,6 +79,7 @@ app-basics-location-service-key-google = مفتاح خدمة التموضع من
 app-basics-safebrowsing-key-google = مفتاح التصفّح الآمن من جوجل
 app-basics-key-mozilla = مفتاح خدمة التموضع من Mozilla
 app-basics-safe-mode = الوضع الآمن
+app-basics-memory-size = حجم الذاكرة (RAM)
 app-basics-disk-available = مساحة القرص المتاحة
 show-dir-label =
     { PLATFORM() ->
@@ -101,6 +115,7 @@ graphics-window-protocol = ميفاق النوافذ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = بيئة سطح المكتب
 place-database-title = قاعدة بيانات الأماكن
+place-database-stats-hide = أخفِ الإحصائيات
 place-database-integrity = التكامل
 place-database-verify-integrity = تحقّق من التكامل
 a11y-title = الإتاحة
