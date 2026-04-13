@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Cyfaddasu'r Bar Offer…
+appmenu-abouttranslations =
+    .label = Cyfieithu…
 appmenu-developer-tools-subheader = Offer y Porwr
 appmenu-developer-tools-extensions =
     .label = Estyniadau ar gyfer Datblygwyr

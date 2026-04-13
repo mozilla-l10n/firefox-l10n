@@ -146,6 +146,9 @@ newtab-menu-report = Adrodd
 newtab-menu-section-block = Rhwystro
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Dad-ddilyn
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Dad-ddilyn Pwnc
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -610,6 +613,7 @@ newtab-section-confirm-block-topic-p2 = Ni fydd pynciau sydd wedi'u rhwystro yn 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Rhwystro { $topic }
+newtab-section-block-cancel-button = Diddymu
 
 ## Strings for custom wallpaper highlight
 
@@ -673,6 +677,18 @@ newtab-toast-thanks-for-reporting =
     .message = Diolch am adrodd am hyn.
 newtab-toast-widgets-hidden =
     .message = Dewiswch yr eicon pensil i adfer teclynnau unrhyw bryd.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Rydych nawr yn dilyn { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Dydych chi nawr ddim yn dilyn { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Fyddwch chi ddim yn gweld straeon am { $topic } bellach.
 
 ## Strings for task / to-do list productivity widget
 
@@ -714,6 +730,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Rhestr newydd
 newtab-widget-section-title = Teclynnau
 newtab-widget-menu-hide = Cuddio'r teclyn
+newtab-widget-menu-change-size = Newid maint
+newtab-widget-size-small = Bach
+newtab-widget-size-medium = Canolig
+newtab-widget-size-large = Mawr
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Cuddio teclynnau

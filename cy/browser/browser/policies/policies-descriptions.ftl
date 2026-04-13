@@ -154,3 +154,5 @@ policy-WebsiteFilter = Rhwystro gwefannau rhag derbyn ymweliadau. Gw. dogfennaet
 policy-Windows10SSO = Caniatáu mewngofnodiad unigol ar gyfer cyfrifon Microsoft, gwaith ac ysgol.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Caniatáu mewngofnodi sengl ar gyfer cyfrifon Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Galluogi neu analluogi cefnogaeth ar gyfer yr API JavaScript XSLTProcessor a'r cyfarwyddyd prosesu XSLT.
