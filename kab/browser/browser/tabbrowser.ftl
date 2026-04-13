@@ -248,10 +248,6 @@ tab-context-unnamed-group =
     .label = Agraw s war isem
 tab-group-name-default = Agraw s war isem
 
-## When collapsed, the tab group label's aria-description will indicate
-## whether the hover menu is open or closed.
-
-
 ##
 
 tab-group-editor-action-new-tab =
@@ -319,9 +315,3 @@ tab-group-context-open-saved-group-in-new-window =
 
 tab-note-panel-add-note-new-badge =
     .label = Amaynut
-
-## Split View
-
-
-## Manage Split View (icon in the address bar & three-dot menu in the footer)
-

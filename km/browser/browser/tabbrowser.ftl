@@ -14,40 +14,15 @@ tabbrowser-menuitem-close =
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
 
-## Tooltips for tab audio control
-## Variables:
-##   $tabCount (Number): The number of tabs that will be affected.
-
-
-## Tooltips for tab audio control
-
-
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
 tabbrowser-confirm-close-tabs-button = បិទ​ផ្ទាំង
 
-## Confirmation dialog when quitting using the menu and multiple windows are open.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## Windows does not show a prompt on quit when using the keyboard shortcut by default.
-
-
-## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
-## and browser.warnOnQuitShortcut is true.
-
-
 ## Confirmation dialog when opening multiple tabs simultaneously
 
 tabbrowser-confirm-open-multiple-tabs-title = អះអាង​ការ​បើក
 tabbrowser-confirm-open-multiple-tabs-button = បើក​ផ្ទាំង
-
-## Confirmation dialog for enabling caret browsing
-
-
-## Confirmation dialog for closing all duplicate tabs
-
 
 ##
 
@@ -69,21 +44,11 @@ tabbrowser-context-unmute-tab =
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = រាយបញ្ជី​ផ្ទាំង { $tabCount } ទាំងអស់
 
-## Tab manager menu buttons
-## Variables:
-##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
-##                          used when the group's name is empty.
-
-
 ##
 
 tab-group-editor-cancel =
     .label = បោះបង់
     .accesskey = C
-
-## When collapsed, the tab group label's aria-description will indicate
-## whether the hover menu is open or closed.
-
 
 ##
 
@@ -111,9 +76,3 @@ tab-note-editor-button-cancel =
     .accesskey = C
 tab-note-panel-add-note-new-badge =
     .label = ថ្មី
-
-## Split View
-
-
-## Manage Split View (icon in the address bar & three-dot menu in the footer)
-
