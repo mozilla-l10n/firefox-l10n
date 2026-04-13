@@ -2230,6 +2230,9 @@ certs-description3 =
 certs-view2 =
     .label = Kudeatu ziurtagiriak
     .accesskey = z
+certs-devices2 =
+    .label = Kudeatu segurtasun-gailuak
+    .accesskey = n
 
 ## Privacy Section - HTTPS-Only
 
@@ -2256,6 +2259,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = HTTPS gaineko DNSa
+dns-over-https-group2 =
+    .label = HTTPS gaineko DNSa
+    .description = HTTPS gaineko DNSak (DoH) domeinu-izenerako zure eskaerak zifratzen ditu, zailagoa eginez zure Internet-hornitzaileak edo beste inork jakitea zein diren bisitatzear zauden webguneak.
 preferences-doh-description = HTTPS gaineko DNSak domeinu-izenerako zure eskaera zifratutako konexio bidez bidaltzen du, DNSa seguru bilakatuz eta zailagoa eginez beste inork jakitea zein den bisitatu behar duzun webgunea.
 preferences-doh-description2 = HTTPS gaineko DNSak domeinu-izenerako zure eskaera zifratutako konexio bidez bidaltzen du, DNS segurua hornituz eta zailagoa eginez beste inork jakitea zein den bisitatu behar duzun webgunea.
 # Variables:
@@ -2311,11 +2317,60 @@ preferences-doh-exceptions-description = { -brand-short-name }(e)k ez du DNS seg
 preferences-doh-manage-exceptions =
     .label = Kudeatu salbuespenak…
     .accesskey = d
+preferences-doh-overview-default =
+    .label = Babes lehenetsia
+    .description = Erabili DNS segurua erabilgarri dagoen eskualdeetan.
+preferences-doh-overview-custom =
+    .label = Pertsonalizatua
+    .description = Erabili beti DNS segurua zure hornitzailearen gaineko kontrolarekin eta portaera alternatiboarekin.
+preferences-doh-overview-off =
+    .label = Desaktibatuta
+    .description = Erabili zure DNS ebazle lehenetsia.
 preferences-doh-advanced-button =
     .label = Ezarpen aurreratuak
+preferences-doh-advanced-section =
+    .label = Ezarpen aurreratuak
+    .description = HTTPS gaineko DNSak (DoH) domeinu-izenerako zure eskaerak zifratzen ditu, zailagoa eginez zure Internet-hornitzaileak edo beste inork jakitea zein diren bisitatzear zauden webguneak.
 preferences-doh-manage-exceptions2 =
     .label = Kudeatu salbuespenak
     .accesskey = s
+preferences-doh-radio-default =
+    .label = Lehenetsia
+    .description = Erabili DNS segurua erabilgarri dagoen eskualdeetan
+preferences-doh-radio-custom =
+    .label = Pertsonalizatua
+    .description = Erabili beti DNS segurua zure hornitzailearen gaineko kontrolarekin eta portaera alternatiboarekin
+preferences-doh-radio-off =
+    .label = Desaktibatuta
+    .description = Erabili zure DNS ebazle lehenetsia
+preferences-doh-fallback-label =
+    .label = Abisatu beti DNS segurua ez badago erabilgarri
+preferences-doh-status-item-off =
+    .message = HTTPS gaineko DNSa desaktibatuta dago
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = HTTPS gaineko DNSa ez dabil errore bat aurkitu dugulako ({ $reason }) { $name } hornitzailea erabiltzen saiatzean
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = HTTPS gaineko DNSa ez dabil URL baliogabea jaso dugulako ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = HTTPS gaineko DNSa { $name } hornitzailea ari da erabiltzen
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = HTTPS gaineko DNSa ez dabil errore bat aurkitu dugulako ({ $reason }) { $name } hornitzaile lokala erabiltzen saiatzean
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = HTTPS gaineko DNSa { $name } hornitzaile lokala ari da erabiltzen
+preferences-doh-select-resolver-label =
+    .label = Aukeratu hornitzailea:
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
@@ -2399,6 +2454,12 @@ security-privacy-status-problem-header = { -brand-short-name }(e)k zenbait segur
 security-privacy-status-ok-label = Jarraipenaren babes hobetua aktibatuta dago
 security-privacy-status-problem-label = Zure babesean eragina duten ezarpenak aurkitu ditugu
 security-privacy-status-problem-helper-label = Ikusi arazoak
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">Babes zorrotza</a> duzu
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = <a data-l10n-name="custom-tracking-protection">Babes pertsonalizatua</a> duzu
+security-privacy-status-up-to-date-label = { -brand-short-name }(r)en azken bertsio seguruena duzu
+security-privacy-status-update-needed-label = { -brand-short-name }(r)en bertsio berri bat erabilgarri dago.
 issue-card-dismiss-button =
     .tooltiptext = Baztertu
     .aria-label = Baztertu
