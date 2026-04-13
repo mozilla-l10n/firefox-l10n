@@ -578,7 +578,7 @@ onboarding-refresh-pin-set-default-subtitle = Rydym yn diogelu eich data ac yn r
 # "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = Rydych mewn pawennau diogel
-onboarding-refresh-import-subtitle = Dewch â'ch cyfrineiriau, nodau tudalen, hanes a mwy drosodd.
+onboarding-refresh-import-subtitle = Dod â'ch cyfrineiriau, nodau tudalen, hanes a mwy drosodd.
 onboarding-refresh-import-title = Gwnewch i { -brand-short-name } deimlo'n debycach i gartref
 onboarding-refresh-onboarding-addons-subtitle = Mae estyniadau yn apiau bach sy'n gadael i chi gyfaddasu { -brand-short-name }. Maen nhw'n gallu grymuso eich preifatrwydd, gwella'ch gwaith, newid golwg { -brand-short-name }, a llawer mwy.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
