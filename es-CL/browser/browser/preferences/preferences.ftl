@@ -1136,6 +1136,9 @@ sync-group-label =
     .label = Sincronización
 account-group-label2 =
     .label = Cuenta
+account-placeholder2 =
+    .label = No te has conectado
+    .description = Conéctate y mantén tus datos privados, cifrados e instantáneamente accesibles desde todas partes en que uses { -brand-short-name }.
 account-group-label =
     .label = Cuenta de { -vendor-short-name }
 account-placeholder =
@@ -1265,6 +1268,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Estás sincronizando estos elementos entre todos tus dispositivos conectados:
 sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state2 =
+    .label = Administrar datos sincronizados
+    .description = No están sincronizando nada… de momento. Empieza a sincronizar para tener todos tus datos en todos tus dispositivos.
 sync-syncing-across-devices-empty-state =
     .label = No estás sincronizando nada… todavía.
     .description = Empieza a sincronizar para tener todos tus datos en todos tus dispositivos.
@@ -1496,7 +1502,7 @@ forms-windows-sso =
     .label = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares
 forms-windows-sso-learn-more-link = Aprender más
 forms-windows-sso-desc = Gestiona las cuentas en la configuración de tu dispositivo
-windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
+windows-passkey-settings-label = Administrar llaves de acceso en la configuración del sistema
 
 ## OS Authentication dialog
 

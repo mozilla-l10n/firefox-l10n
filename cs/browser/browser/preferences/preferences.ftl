@@ -2906,8 +2906,8 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 ## Warnings section
 
 security-privacy-issue-warning-fingerprinters =
-    .label = Známé vytvářené otisky prohlížeče nejsou blokovány
-    .description = To může umožnit některým sledovačům, aby vás sledovali bez cookies.
+    .label = Známé vytváření otisku prohlížeče není blokováno
+    .description = To může umožnit některým sledujícím serverům, aby vás sledovali bez použití cookies.
 security-privacy-issue-warning-third-party-cookies =
     .label = Cookies třetích stran jsou povoleny
     .description = Cookies třetích stran se používají k tomu, aby vás sledovali na různých webových stránkách.
