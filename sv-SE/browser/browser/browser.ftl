@@ -141,7 +141,7 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = Öppna MIDI-panelen
 urlbar-serial-notification-anchor =
-    .tooltiptext = Öppna Seriell panel
+    .tooltiptext = Öppna seriepanelen
 urlbar-eme-notification-anchor =
     .tooltiptext = Hantera användningen av DRM-programvara
 urlbar-web-authn-anchor =
@@ -652,8 +652,8 @@ sharing-warning-disable-for-session =
 
 ## WebSerial "select a port" popup
 
-webserial-select-port-label = Välj en seriell port:
-webserial-no-ports-available = Inga seriella portar tillgängliga
+webserial-select-port-label = Välj en serieport:
+webserial-no-ports-available = Inga serieportar tillgängliga
 
 ## DevTools F12 popup
 
