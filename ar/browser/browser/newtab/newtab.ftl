@@ -436,6 +436,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+newtab-wallpaper-category-title-firefox = { -brand-product-name }
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -539,6 +543,7 @@ newtab-custom-wallpaper-cta = جربه
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل { -brand-product-name } خاصًا بك
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 
@@ -547,6 +552,7 @@ newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = افحص الرمز للتصفح بشكل آمن أثناء التنقل.
+newtab-download-mobile-highlight-body-variant-c = أتعلم أنه يمكنك اصطحاب { -brand-product-name } معك أينما ذهبت؟ نفس المتصفح. في جيبك.
 newtab-download-mobile-highlight-image =
     .aria-label = رمز QR لتنزيل { -brand-product-name } للجوال
 
@@ -642,6 +648,10 @@ newtab-widget-timer-menu-learn-more = اطّلع على المزيد
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = حُدِّث منذ { $minutes }د
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = اجعل { -brand-product-name } ملكك
 newtab-promo-card-cta-addons = جرّبه الآن
 newtab-promo-card-title = ادعم { -brand-product-name }
 newtab-promo-card-body = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل

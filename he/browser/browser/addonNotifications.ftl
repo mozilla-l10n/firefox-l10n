@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = אתר זה מבקש גישה למכשירי ה־MIDI (ממשק כלי נגינה דיגיטלי) שלך. ניתן להפעיל גישה למכשירים על־ידי התקנת תוספת.
 site-permission-install-first-prompt-midi-message = אין הבטחה שגישה זו תהיה בטוחה. יש להמשיך רק אם יש לך אמון באתר זה.
+site-permission-install-first-prompt-serial-header = אתר זה מבקש גישה להתקנים הטוריים שלך. ניתן להפעיל גישה למכשירים על־ידי התקנת תוספת.
+site-permission-install-first-prompt-serial-message = אין הבטחה שגישה זו תהיה בטוחה. יש להמשיך רק אם יש לך אמון באתר זה.
 
 ##
 

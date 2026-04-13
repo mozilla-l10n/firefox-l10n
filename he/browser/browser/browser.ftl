@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = החלפת מצב קבלת התרעות מהאתר
 urlbar-midi-notification-anchor =
     .tooltiptext = פתיחת חלונית MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = פתיחת חלונית התקשורת הטורית
 urlbar-eme-notification-anchor =
     .tooltiptext = ניהול השימוש בתכניות DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = חסמת חילוץ נתוני משטחי ציור עבור אתר זה.
 urlbar-midi-blocked =
     .tooltiptext = חסמת גישת MIDI עבור אתר זה.
+urlbar-serial-blocked =
+    .tooltiptext = חסמת גישת יציאה טורית לאתר זה.
 urlbar-install-blocked =
     .tooltiptext = חסמת התקנת תוספות עבור אתר זה.
 # Variables
@@ -645,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = המשך ללשונית
 sharing-warning-disable-for-session =
     .label = השבתת הגנת השיתוף עבור הפעלה זו
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = בחירת יציאה טורית:
+webserial-no-ports-available = אין יציאות טוריות זמינות
 
 ## DevTools F12 popup
 

@@ -383,6 +383,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = שמירה
     .accesskey = ש
+tab-note-editor-button-delete =
+    .title = מחיקת הערה
+    .aria-label = מחיקת הערה
+    .accesskey = מ
+tab-note-preview-edit-icon =
+    .alt = עריכה הערה
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = לקרוא עוד
 tab-note-panel-add-note-new-badge =

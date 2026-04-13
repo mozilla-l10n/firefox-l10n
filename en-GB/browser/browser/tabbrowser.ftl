@@ -385,6 +385,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Save
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Delete note
+    .aria-label = Delete note
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = Edit note
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Read more
 tab-note-panel-add-note-new-badge =
