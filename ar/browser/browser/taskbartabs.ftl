@@ -11,6 +11,22 @@ taskbar-tab-urlbar-button-open =
     .tooltiptext = أضِف اللسان إلى شريط المهام
 taskbar-tab-urlbar-button-close =
     .tooltiptext = أزِل اللسان من شريط المهام
+taskbar-tab-urlbar-button-show = أظهر إجراء صفحة تطبيق الوِب
+taskbar-tab-urlbar-button-hide = أخفِ إجراء صفحة تطبيق الوِب
+# This string is used in the description of a Windows Start Menu
+# shortcut for a Taskbar Tab.
+# Variables:
+#   $name (string) - A name associated to the website. This might be
+#                    pulled from a Web Application Manifest, generated
+#                    via a heuristic, or simply be the hostname of the
+#                    site.
+taskbar-tab-shortcut-description = تطبيق الوِب { $name }
+# This string is used as the name of the folder that contains Taskbar
+# Tabs. Don't use any characters that can't go in a folder name, or
+# they will be replaced by underscores. (This generally means to not
+# use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
+# should be fine.)
+taskbar-tab-shortcut-folder = تطبيقات وِب { -brand-short-name }
 
 ## These strings are used as the tooltip for the mute/unmute button.
 
