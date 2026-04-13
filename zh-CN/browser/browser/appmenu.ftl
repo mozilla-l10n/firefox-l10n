@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = 定制工具栏…
+appmenu-abouttranslations =
+    .label = 翻译…
 appmenu-developer-tools-subheader = 浏览器工具
 appmenu-developer-tools-extensions =
     .label = 面向开发者的扩展

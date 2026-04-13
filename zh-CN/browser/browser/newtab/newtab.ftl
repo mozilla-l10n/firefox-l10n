@@ -146,6 +146,9 @@ newtab-menu-report = 反馈
 newtab-menu-section-block = 屏蔽
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = 取消关注
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = 取消关注主题
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -595,6 +598,7 @@ newtab-section-confirm-block-topic-p2 = 将不再向您推送被屏蔽的主题�
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = 屏蔽“{ $topic }”
+newtab-section-block-cancel-button = 取消
 
 ## Strings for custom wallpaper highlight
 
@@ -658,6 +662,18 @@ newtab-toast-thanks-for-reporting =
     .message = 感谢反馈。
 newtab-toast-widgets-hidden =
     .message = 选择铅笔图标，随时重新添加小组件。
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = 您现已关注{ $topic }。
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = 您已不再关注{ $topic }。
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = 将不再显示{ $topic }文章。
 
 ## Strings for task / to-do list productivity widget
 
@@ -699,6 +715,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = 新清单
 newtab-widget-section-title = 小组件
 newtab-widget-menu-hide = 隐藏小组件
+newtab-widget-menu-change-size = 更改大小
+newtab-widget-size-small = 小
+newtab-widget-size-medium = 中
+newtab-widget-size-large = 大
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = 隐藏小组件

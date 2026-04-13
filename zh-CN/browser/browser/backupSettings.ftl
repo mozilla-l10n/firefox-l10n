@@ -60,6 +60,9 @@ settings-data-backup-last-backup-filename = 文件名：{ $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = 恢复数据
     .description = 从最近一次备份恢复您的 { -brand-product-name } 数据。
+settings-data-backup-restore-scheduled-off =
+    .label = 恢复数据
+    .description = 使用另一台设备上的 { -brand-product-name } 备份来恢复您的数据。
 settings-data-backup-restore-header = 恢复数据
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -272,6 +275,10 @@ other-backup-files-founds = <b>注意：</b>另找到其他 { $numberOfOtherBack
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
 backup-file-creation-metadata2 = <b>{ $profileName }</b>（{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 创建于 { $machineName }）
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 恢复自 { $deviceName }
 # Variables:
 #   $date (Datetime) - The date the backup was created
 #   $machineName (String) - Name of the machine that the backup was created on.
