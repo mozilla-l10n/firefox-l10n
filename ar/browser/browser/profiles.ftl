@@ -120,7 +120,14 @@ profiles-gray-theme-title =
     .title = طبّق المظهر الرمادي
 profiles-yellow-theme = أصفر
 profiles-orange-theme = برتقالي
+profiles-orange-theme-title =
+    .title = طبّق السمة البرتقالية
 profiles-red-theme = أحمر
+profiles-red-theme-title =
+    .title = طبّق السمة الحمراء
+profiles-purple-theme = أرجواني
+profiles-violet-theme = بنفسجي
+profiles-blue-theme = أزرق
 
 ## Data collection settings changed (multi-profile)
 
@@ -142,8 +149,12 @@ craft-avatar-alt =
     .alt = حرفة
 flower-avatar-alt =
     .alt = ورد
+hammer-avatar-alt =
+    .alt = مطرقة
 heart-avatar-alt =
     .alt = قلب
+heart-rate-avatar-alt =
+    .alt = معدّل ضربات القلب
 clock-avatar-alt =
     .alt = ساعة
 shopping-avatar-alt =
