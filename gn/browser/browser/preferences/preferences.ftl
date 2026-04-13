@@ -2478,6 +2478,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Tapykueho mo’ãha tuichavéva
+    .description = Umi sitio oiporu umi tapykuehoha rosegui hag̃ua ñandutípe ha tohechauka marandu ndoikóiva. { -brand-short-name } nemo’ã eikundaha aja, ojokóvo ijeheguiete tapykuehohaita ereko hag̃ua nde pópe nde rapykuere.
 preferences-etp-level-standard =
     .label = Ypyguaite (ijypygua)
     .description = Ñemo’ã mbarete ha jeroviaha omba’apóva hekopete ñanduti rogueita ndive.
