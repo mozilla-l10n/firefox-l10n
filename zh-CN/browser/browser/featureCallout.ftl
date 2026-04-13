@@ -108,6 +108,7 @@ perplexity-callout-secondary-label-2 = 明白了
 ## brand name and should not be translated or transliterated.
 
 start-page-callout-title = 想试试隐私为先的新搜索引擎吗？
+start-page-callout-subtitle = 试试 Startpage。自设计之初，其就以“让搜索更私密”为念。
 start-page-callout-primary-label = 试用 Startpage
 start-page-callout-secondary-label = 知道了
 
