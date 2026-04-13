@@ -1611,6 +1611,9 @@ history-remember-label = { -brand-short-name } 将
     .accesskey = w
 history-remember-option-all =
     .label = 记录历史
+history-remember-option-never2 =
+    .label = 不记录历史
+    .description = 所以窗口都会像隐私窗口一样运作。启用后，扩展需经允许后才能运行。
 history-remember-option-custom2 =
     .label = 自定义历史记录
 history-remember-option-never =
@@ -2006,6 +2009,13 @@ permissions-block-popups2 =
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = 管理例外
+    .description = 添加可以弹出窗口和使用第三方重定向的网站。
+    .accesskey = E
+    .searchkeywords = 弹窗, 弹出式窗口, popups
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
     .label = 管理弹出式窗口和第三方重定向例外
     .accesskey = E
@@ -2061,6 +2071,9 @@ collection-health-report-telemetry-disabled = 您不再允许 { -vendor-short-na
 collection-health-report-telemetry-disabled-link = 详细了解
 backup-multi-profile-warning-message =
     .message = 为确保此项更改包含在您的备份中，请打开每个配置文件并在设置中选择“立即备份”。
+nimbus-rollouts =
+    .label = 允许 { -brand-short-name } 在更新间隔期间改进功能、性能、稳定性。
+    .description = 更改会远程推送。
 addon-recommendations3 =
     .label = 允许进行个性化扩展推荐
     .description = 获取扩展推荐，改进浏览体验。
