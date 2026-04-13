@@ -49,7 +49,7 @@ pdfjs-download-button =
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = 다운로드
 pdfjs-bookmark-button =
-    .title = 현재 페이지 (현재 페이지에서 URL 보기)
+    .title = 현재 페이지 (URL 보기)
 pdfjs-bookmark-button-label = 현재 페이지
 
 ##  Secondary toolbar and context menu
