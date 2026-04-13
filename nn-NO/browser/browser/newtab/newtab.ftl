@@ -675,6 +675,10 @@ newtab-section-toast-follow =
 #   $topic (string) - Topic that the user has unfollowed
 newtab-section-toast-unfollow =
     .message = Du følgjer ikkje lenger { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Du vil ikkje lenger sjå artiklar om { $topic }.
 
 ## Strings for task / to-do list productivity widget
 

@@ -134,6 +134,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } demande un
 
 webext-site-perms-header-with-gated-perms-midi = Ce module complémentaire donne accès aux périphériques MIDI à { $hostname }.
 webext-site-perms-header-with-gated-perms-midi-sysex = Ce module complémentaire donne accès aux périphériques MIDI (avec la prise en charge de SysEx) à { $hostname }.
+webext-site-perms-header-with-gated-perms-serial = Ce module complémentaire donne accès à { $hostname } vos périphériques série.
 
 ##
 
@@ -144,6 +145,7 @@ webext-site-perms-description-gated-perms-midi =
     Ces périphériques sont habituellement branchés à votre ordinateur, comme par exemple un synthétiseur audio, mais ils peuvent aussi être intégrés à votre ordinateur.
     
     Les sites web ne sont normalement pas autorisés à accéder aux périphériques MIDI. Une utilisation incorrecte pourrait provoquer des dommages ou compromettre la sécurité.
+webext-site-perms-description-gated-perms-serial = Il s’agit d’appareils tels que les microcontrôleurs, les imprimantes 3D et d’autres appareils qui se connectent via un port USB ou série.  Vous pourrez choisir les appareils auxquels le site web peut accéder.  Les sites web ne sont normalement pas autorisés à accéder aux appareils série. Une utilisation incorrecte pourrait endommager ou compromettre la sécurité.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -158,6 +160,7 @@ webext-site-perms-header-unsigned-with-perms = Ajouter { $extension } ? Cette e
 
 webext-site-perms-midi = Accéder aux appareils MIDI
 webext-site-perms-midi-sysex = Accéder aux appareils MIDI prenant en charge SysEx
+webext-site-perms-serial = Accéder aux appareils série
 
 ## Colorway theme migration
 

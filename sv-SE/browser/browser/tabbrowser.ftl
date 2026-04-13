@@ -383,6 +383,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Spara
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Ta bort anteckning
+    .aria-label = Ta bort anteckning
+    .accesskey = T
+tab-note-preview-edit-icon =
+    .alt = Redigera anteckning
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Läs mer
 tab-note-panel-add-note-new-badge =
