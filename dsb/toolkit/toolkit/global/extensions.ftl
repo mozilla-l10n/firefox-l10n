@@ -144,6 +144,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } wó pśida
 
 webext-site-perms-header-with-gated-perms-midi = Toś ten dodank { $hostname } pśistup k wašym MIDI-rědam dawa.
 webext-site-perms-header-with-gated-perms-midi-sysex = Toś ten dodank { $hostname } pśistup k wašym MIDI-rědam dawa (z pódpěru SysEx).
+webext-site-perms-header-with-gated-perms-serial = Toś ten dodank { $hostname } pśistup k wašym serijowym rědam dawa.
 
 ##
 
@@ -168,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = { $extension } pśidaś? Toś to 
 
 webext-site-perms-midi = Pśistup k MIDI-rědam
 webext-site-perms-midi-sysex = Pśistup k MIDI-rědam z pódpěru za SysEx
+webext-site-perms-serial = Pśistup k serijowym rědam
 
 ## Colorway theme migration
 

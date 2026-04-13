@@ -142,6 +142,7 @@ webext-perms-optional-text-with-data-collection-only = Rozšíření { $extensio
 
 webext-site-perms-header-with-gated-perms-midi = Tento doplněk poskytuje serveru { $hostname } přístup k vašim MIDI zařízením.
 webext-site-perms-header-with-gated-perms-midi-sysex = Tento doplněk poskytuje serveru { $hostname } přístup k vašim MIDI zařízením (s podporou SysEx).
+webext-site-perms-header-with-gated-perms-serial = Tento doplněk umožňuje serveru { $hostname } přístup k vašim sériovým zařízením.
 
 ##
 
@@ -152,6 +153,12 @@ webext-site-perms-description-gated-perms-midi =
     Obvykle jde o zásuvná zařízení jako zvukové syntezátory, ale může jít i o zařízení zabudované přímo ve vašem počítači.
     
     Webové stránky obvykle k MIDI zařízením nemají přístup povolený. Nesprávné použití může vést k poškození nebo ohrozit zabezpečení.
+webext-site-perms-description-gated-perms-serial =
+    Jedná se o zařízení, jako jsou mikrokontroléry, 3D tiskárny a další zařízení připojená přes USB nebo sériové porty.
+    
+    Budete si moci vybrat, ke kterým zařízením bude mít webová stránka přístup.
+    
+    Webovým stránkám není obvykle povolen přístup k sériovým zařízením. Nesprávné použití by mohlo způsobit poškození nebo ohrozit bezpečnost.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -166,6 +173,7 @@ webext-site-perms-header-unsigned-with-perms = Chcete nainstalovat { $extension 
 
 webext-site-perms-midi = Přistupovat k MIDI zařízením
 webext-site-perms-midi-sysex = Přistupovat k MIDI zařízením s podporou SysEx
+webext-site-perms-serial = Přístup k sériovým zařízením
 
 ## Colorway theme migration
 

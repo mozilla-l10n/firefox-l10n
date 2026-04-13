@@ -739,6 +739,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Zakázat ochranu sdílení pro tuto relaci
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Výběr seriového portu:
+webserial-no-ports-available = Sériové porty nejsou dostupné
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pokud chcete používat zkratku F12, otevřete nejprve DevTools z nabídky Nástroje prohlížeče.

@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> jo pósłał 
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Serwer na <strong>{ $hostname }</strong> jo zmólku slědk pósłał: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } njejo zacytał toś ten bok, dokulaž se zda, ako njeby wěstotna konfiguracija z pjerwjejšnym bokom wótpowědował.
+fp-neterror-blocked-by-policy-intro = Waša organizacija jo pśistup k toś tomu bokoju abo websedło blokěrowała.
 fp-neterror-http-auth-disabled-intro = Něchten, kótaryž wudawa, až jo sedło, mógał wěcy ako wašo wužywaŕske mě, gronidło abo e-mailowu adresu kšadnuś.
 fp-neterror-http-auth-disabled-secure-connection = Toś to sedło se wěsty zwisk pomina, a njamóžośo wuwześe pśidaś, aby se k njomu  woglědał.
 fp-neterror-why-did-this-happen = Cogodla jo se to stało?

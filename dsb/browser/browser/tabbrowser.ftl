@@ -434,6 +434,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Składowaś
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Noticu lašowaś
+    .aria-label = Noticu lašowaś
+    .accesskey = N
+tab-note-preview-edit-icon =
+    .alt = Noticu wobźěłaś
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Dalšne informacije
 tab-note-panel-add-note-new-badge =

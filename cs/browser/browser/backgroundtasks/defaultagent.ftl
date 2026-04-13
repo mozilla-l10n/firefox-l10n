@@ -18,4 +18,5 @@ default-browser-notification-body-text =
        *[no-cases] Váš výchozí prohlížeč byl nedávno změněn. Klepnutím obnovíte nastavení aplikace { -brand-short-name } jako výchozí.
     }
 default-browser-notification-yes-button-text = Ano
+default-browser-notification-privacy-no-button-text = Ne, děkuji
 default-browser-notification-no-button-text = Ne

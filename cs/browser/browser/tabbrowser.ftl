@@ -451,6 +451,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Uložit
     .accesskey = U
+tab-note-editor-button-delete =
+    .title = Smazat poznámku
+    .aria-label = Smazat poznámku
+    .accesskey = S
+tab-note-preview-edit-icon =
+    .alt = Úprava poznámky
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Přečíst si více
 tab-note-panel-add-note-new-badge =

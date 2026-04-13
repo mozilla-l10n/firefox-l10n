@@ -250,6 +250,7 @@ fp-neterror-http-error-page-intro = Server <strong>{ $hostname }</strong> vráti
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Server <strong>{ $hostname }</strong> vrátil chybu: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } nenačetl tuto stránku, protože nastavení zabezpečení zřejmě neodpovídá předchozí stránce.
+fp-neterror-blocked-by-policy-intro = Přístup k této stránce nebo webovému serveru byl zablokován vaší organizací.
 fp-neterror-http-auth-disabled-intro = Někdo, kdo se vydává za web, by se mohl pokusit ukrást například vaše uživatelské jméno, heslo nebo e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Tato stránka vyžaduje zabezpečené připojení a pro její návštěvu nelze udělit výjimku.
 fp-neterror-why-did-this-happen = Proč se to stalo?
