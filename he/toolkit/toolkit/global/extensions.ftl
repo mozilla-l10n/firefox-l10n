@@ -134,6 +134,7 @@ webext-perms-optional-text-with-data-collection-only = ההרחבה { $extension
 
 webext-site-perms-header-with-gated-perms-midi = תוספת זו מעניקה ל־{ $hostname } גישה להתקני ה־MIDI שלך.
 webext-site-perms-header-with-gated-perms-midi-sysex = תוספת זו מעניקה ל־{ $hostname } גישה להתקני ה־MIDI שלך (עם תמיכה ב־SysEx).
+webext-site-perms-header-with-gated-perms-serial = תוספת זו מעניקה ל־{ $hostname } גישה להתקנים הטוריים שלך.
 
 ##
 
@@ -144,6 +145,12 @@ webext-site-perms-description-gated-perms-midi =
     מכשירים אלה הם בדרך כלל התקני פלאג־אין כמו סינתיסייזר שמע, אך ייתכן שהם מובנים במחשב שלך.
     
     אתרים בדרך כלל אינם מורשים לגשת למכשירי MIDI. שימוש לא נכון עלול לגרום לנזק או לסכן את האבטחה שלך.
+webext-site-perms-description-gated-perms-serial =
+    אלו הם מכשירים כמו מיקרו־בקרים, מדפסות תלת־ממד ומכשירים אחרים שמתחברים דרך יציאות USB או יציאות טוריות.
+    
+    באפשרותך לבחור לאילו מכשירים האתר יכול לגשת.
+    
+    אתרים בדרך כלל אינם מורשים לגשת להתקנים טוריים. שימוש לא נכון עלול לגרום נזק או לפגוע באבטחה.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -158,6 +165,7 @@ webext-site-perms-header-unsigned-with-perms = להוסיף את { $extension }?
 
 webext-site-perms-midi = גישה להתקני MIDI
 webext-site-perms-midi-sysex = גישה להתקני MIDI עם תמיכה ב־SysEx
+webext-site-perms-serial = גישה להתקנים טוריים
 
 ## Colorway theme migration
 

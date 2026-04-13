@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = غيّر ما إذا ما كنت تسمح باستلام تنبيهات من الموقع
 urlbar-midi-notification-anchor =
     .tooltiptext = افتح لوحة MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = افتح لوحة التسلسل
 urlbar-eme-notification-anchor =
     .tooltiptext = أدِر استخدام برمجيات إدارة الحقوق الرقمية
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = لقد منعت استخراج بيانات رقعة الرسم في هذا الموقع.
 urlbar-midi-blocked =
     .tooltiptext = لقد حجبنا عن هذا الموقع الوصول إلى MIDI.
+urlbar-serial-blocked =
+    .tooltiptext = لقد حجبت الوصول إلى منفذ التسلسل لهذا الموقع.
 urlbar-install-blocked =
     .tooltiptext = حجبت تثبيت الإضافات في هذا الموقع.
 # Variables
@@ -664,6 +668,10 @@ sharing-warning-proceed-to-tab =
     .label = واصِل إلى اللسان
 sharing-warning-disable-for-session =
     .label = أوقِف حماية المشاركة لهذه الجلسة
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = حدّد منفذًا تسلسليًا:
 
 ## DevTools F12 popup
 

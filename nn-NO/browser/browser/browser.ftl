@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Vel om du kan ta imot varsel frå nettstaden
 urlbar-midi-notification-anchor =
     .tooltiptext = Opne MIDI-panel
+urlbar-serial-notification-anchor =
+    .tooltiptext = Opne serielt panel
 urlbar-eme-notification-anchor =
     .tooltiptext = Handsam bruken av DRM-programvare
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Du har blokkert canvas-datauthenting for denne nettstaden.
 urlbar-midi-blocked =
     .tooltiptext = Du har blokkert MIDI-tilgang for denne nettsida.
+urlbar-serial-blocked =
+    .tooltiptext = Du har blokkert tilgang til seriell port for denne nettstaden.
 urlbar-install-blocked =
     .tooltiptext = Du har blokkert installasjon av utvidingar for denne nettstaden.
 # Variables
@@ -645,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = Fortset til fana
 sharing-warning-disable-for-session =
     .label = Slå av delingsvern for denne økta
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Vel ein seriell port:
+webserial-no-ports-available = Ingen serielle portar tilgjengelege
 
 ## DevTools F12 popup
 

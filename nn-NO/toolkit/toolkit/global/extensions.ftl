@@ -137,6 +137,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } ber om inn
 
 webext-site-perms-header-with-gated-perms-midi = Dette tillegget gir { $hostname } tilgang til MIDI-einingane dine.
 webext-site-perms-header-with-gated-perms-midi-sysex = Dette tillegget gir { $hostname } tilgang til MIDI-einingane dine (med SysEx-støtte).
+webext-site-perms-header-with-gated-perms-serial = Denne utvidinga gjev { $hostname } tilgang til serielle einingar.
 
 ##
 
@@ -161,6 +162,7 @@ webext-site-perms-header-unsigned-with-perms = Leggje til { $extension }? Denne 
 
 webext-site-perms-midi = Tilgang til MIDI-einingar
 webext-site-perms-midi-sysex = Tilgang til MIDI-einingar med SysEx-sttte
+webext-site-perms-serial = Tilgang til serielle einingar
 
 ## Colorway theme migration
 

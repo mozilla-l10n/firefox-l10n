@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> أرسل خط
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = أعاد الخادم الموجود على <strong>{ $hostname }</strong> خطأً: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = لم تُحمّل هذه الصفحة بواسطة { -brand-short-name } لأن إعدادات الأمان لا تتطابق مع الصفحة السابقة.
+fp-neterror-blocked-by-policy-intro = حجبت مؤسستك الوصول إلى هذه الصفحة أو إلى هذا الموقع.
 fp-neterror-http-auth-disabled-intro = قد يحاول شخص يتظاهر بأنه مسؤول عن الموقع سرقة أشياء مثل اسم المستخدم أو كلمة السر أو البريد الإلكتروني.
 fp-neterror-http-auth-disabled-secure-connection = يتطلب هذا الموقع اتصالاً آمناً، ولا يمكنك إضافة استثناء لزيارته.
 fp-neterror-why-did-this-happen = لمَ حدث هذا؟
