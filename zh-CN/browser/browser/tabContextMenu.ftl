@@ -143,6 +143,13 @@ tab-context-send-to-mobile =
            *[other] 发送 { $tabCount } 个标签页到移动设备
         }
     .accesskey = n
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = 启用同步以发送标签页
+tab-context-send-to-mobile-connect-phone =
+    .label = 连接您的手机
+tab-context-send-to-mobile-device-missing =
+    .label = 看不到您的设备？
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
