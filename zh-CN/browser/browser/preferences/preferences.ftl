@@ -1128,6 +1128,9 @@ sync-group-label =
     .label = 同步
 account-group-label2 =
     .label = 账户
+account-placeholder2 =
+    .label = 您尚未登录
+    .description = 登录以加密保护数据、确保数据私密，并可在使用 { -brand-short-name } 的各设备上触手可得。
 account-group-label =
     .label = { -vendor-short-name } 账户
 account-placeholder =
@@ -2014,6 +2017,9 @@ permissions-block-popups-exceptions-button4 =
     .description = 添加可以弹出窗口和使用第三方重定向的网站。
     .accesskey = E
     .searchkeywords = 弹窗, 弹出式窗口, popups
+permissions-addon-install-warning3 =
+    .label = 网站尝试安装扩展时显示警告
+    .accesskey = W
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button2 =
@@ -2055,6 +2061,9 @@ permissions-speaker2 =
     .label = 扬声器
 permissions-notification2 =
     .label = 通知
+permissions-header3 =
+    .label = 权限
+    .description = 管理网站可以访问、控制或触发的项目。
 
 ## Privacy Section - Data Collection
 
@@ -2137,6 +2146,10 @@ data-collection-health-report =
     .label = 向 { -vendor-short-name } 发送技术与交互数据
     .accesskey = r
     .description = 此数据可帮助我们改进 { -brand-product-name } 的功能、性能和稳定性。
+data-collection-health-report-disabled =
+    .label = 向 { -vendor-short-name } 发送技术与交互数据
+    .accesskey = r
+    .description = 当前构建配置已禁用数据报告功能。
 data-collection-studies-link =
     .label = 查看 { -brand-short-name } 研究
 data-collection-usage-ping =
