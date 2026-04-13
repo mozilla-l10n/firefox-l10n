@@ -1795,9 +1795,9 @@ trustpanel-list-label-tracking-content = Sledující obsah
 trustpanel-list-label-fingerprinter =
     { $count ->
         [one] { $count } vytváření otisku prohlížeče
-        [few] { $count } vytváření otisků prohlížeče
-        [many] { $count } vytváření otisků prohlížeče
-       *[other] { $count } vytváření otisků prohlížeče
+        [few] { $count } vytváření otisku prohlížeče
+        [many] { $count } vytváření otisku prohlížeče
+       *[other] { $count } vytváření otisku prohlížeče
     }
 trustpanel-list-label-social-tracking =
     { $count ->
@@ -1859,16 +1859,16 @@ trustpanel-tracking-content-tab-list-header = Tyto weby se vás snaží sledovat
 trustpanel-fingerprinter-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } zablokoval { $count } vytváření otisku prohlížeče
-        [few] { -brand-product-name } zablokoval { $count } vytváření otisků prohlížeče
-        [many] { -brand-product-name } zablokoval { $count } vytváření otisků prohlížeče
-       *[other] { -brand-product-name } zablokoval { $count } vytváření otisků prohlížeče
+        [few] { -brand-product-name } zablokoval { $count } vytváření otisku prohlížeče
+        [many] { -brand-product-name } zablokoval { $count } vytváření otisku prohlížeče
+       *[other] { -brand-product-name } zablokoval { $count } vytváření otisku prohlížeče
     }
 trustpanel-fingerprinter-not-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } povolil { $count } vytváření otisku prohlížeče
-        [few] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
-        [many] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
-       *[other] { -brand-product-name } povolil { $count } vytváření otisků prohlížeče
+        [few] { -brand-product-name } povolil { $count } vytváření otisku prohlížeče
+        [many] { -brand-product-name } povolil { $count } vytváření otisku prohlížeče
+       *[other] { -brand-product-name } povolil { $count } vytváření otisku prohlížeče
     }
 trustpanel-fingerprinter-list-header = Tyto weby se snaží vytvořit otisk vašeho prohlížeče:
 trustpanel-cryptominer-blocking-tab-header =

@@ -275,10 +275,10 @@ privacy-metrics-trackers =
 #   $count (Number) - Number of fingerprinters blocked
 privacy-metrics-fingerprinters =
     { $count ->
-        [one] { $count } otisk prohlížeče
-        [few] { $count } otisky prohlížeče
-        [many] { $count } otisků prohlížeče
-       *[other] { $count } otisků prohlížeče
+        [one] { $count } vytváření otisku prohlížeče
+        [few] { $count } vytváření otisku prohlížeče
+        [many] { $count } vytváření otisku prohlížeče
+       *[other] { $count } vytváření otisku prohlížeče
     }
 # Variables:
 #   $count (Number) - Number of tracking cookies blocked
