@@ -167,6 +167,7 @@ migration-safari-password-import-step2 = حدد زر <img data-l10n-name="safari
 migration-safari-password-import-step3 = احفظ ملف كلمات السر
 migration-safari-password-import-step4 = استخدم "تحديد الملف" أدناه لاختيار ملف كلمات المرور التي حفظتها
 migration-chrome-windows-password-import-steps-header = في Chrome:
+migration-chrome-windows-password-import-step1 = افتح القائمة الرئيسية <img data-l10n-name="chrome-icon-3dots"/> وانتقل إلى كلمات السر والتعبئة التلقائية > مدير كلمات مرور جوجل.
 migration-chrome-windows-password-import-step2 = حدّد "الإعدادات" من القائمة.
 migration-chrome-windows-password-import-step3 = اختر "نزّل الملف" واحفظه على جهازك.
 migration-manual-password-import-skip-button = تخطَّ

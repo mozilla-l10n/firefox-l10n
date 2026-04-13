@@ -48,6 +48,7 @@ avatar-selector-cancel-button =
 avatar-selector-save-button =
     .label = احفظ
 avatar-selector-upload-file = ارفع ملفًا
+avatar-selector-drag-file = أو اسحب ملفًا إلى هنا
 avatar-selector-add-image = أضِف صورة
 avatar-selector-crop = قصّ
 edit-profile-page-no-name = تسمية هذا الملف الشخصي ليسهل عليك العثور عليه لاحقاً. يمكنك إعادة تسميته في أي وقت.
@@ -77,6 +78,7 @@ delete-profile-windows = النوافذ المفتوحة
 # Open is an adjective, as in "browser tabs currently open".
 delete-profile-tabs = الألسنة المفتوحة
 delete-profile-bookmarks = العلامات
+delete-profile-autofill = املء آليًا البيانات (العناوين، طُرق الدفع)
 delete-profile-logins = كلمات السر
 # Variables
 #   $profilename (String) - The name of the profile.

@@ -1450,6 +1450,10 @@ autofill-payment-methods-manage-payments-title =
 autofill-payment-methods-manage-payments-button =
     .label = أدر طرق الدفع
     .accesskey = د
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = يتطلب الأمر الولوج إلى الجهاز للملء الآلي وإدارة طُرق الدفع
+    .accesskey = ط
 autofill-payment-methods-add-button = أضف طريقة دفع جديدة
 payments-list-header =
     .label = طرق الدفع
@@ -1463,6 +1467,9 @@ payments-edit-payment-button-label =
 # This message is displayed when no payment methods such as credit card are stored in Firefox
 payments-no-payments-stored-message =
     .label = لم تُضاف أي طُرق دفع
+autofill-addresses-checkbox-message =
+    .label = احفظ واملء آليًا العناوين
+    .accesskey = ح
 autofill-addresses-manage-addresses-button =
     .label = أدر العناوين والمزيد
     .accesskey = د
