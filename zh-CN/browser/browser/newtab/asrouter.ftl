@@ -306,6 +306,7 @@ tail-fox-spotlight-secondary-button = 暂时不要
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-title = 舒享内置隐私保护
 welcome-back-embedded-import-title = 导入数据，让 { -brand-short-name } 亲切如家
 
 ## Root Certificate Succession Infobar
