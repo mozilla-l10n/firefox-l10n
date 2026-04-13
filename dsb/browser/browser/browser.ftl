@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Změńśo, lěc móžośo powěźeńki wót sedła dostaś
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI-wobceŕk wócyniś
+urlbar-serial-notification-anchor =
+    .tooltiptext = Serijowy wobceŕk wócyniś
 urlbar-eme-notification-anchor =
     .tooltiptext = Wužywanje softwary DRM zastojaś
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.
 urlbar-midi-blocked =
     .tooltiptext = Sćo blokěrował pśistup k MIDI za toś to websedło.
+urlbar-serial-blocked =
+    .tooltiptext = Sćo blokěrował pśistup k serijowemu portoju za toś to websedło.
 urlbar-install-blocked =
     .tooltiptext = Sćo blokěrował instalěrowanje dodankow za toś to websedło.
 # Variables
@@ -656,6 +660,10 @@ sharing-warning-proceed-to-tab =
     .label = K rejtarikoju póstupowaś
 sharing-warning-disable-for-session =
     .label = Źěleński šćit za toś to pósejźenje znjemóžniś
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Wubjeŕśo serijowy port:
 
 ## DevTools F12 popup
 

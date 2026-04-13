@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Toś te sedła sebje pśistup k wašym rědam MIDi (Musical Instrument Digital Interface) pomina. Rědowy pśistup dajo se zmóžniś, gaž dodank instalěrujośo.
 site-permission-install-first-prompt-midi-message = Wěsty pśistup se njegarantěrujo. Póstupujśo jano, jolic toś tomu sedłoju dowěriśo.
+site-permission-install-first-prompt-serial-header = Toś to sedło wó pśistup k wašym serijowym rědam pšosy. Instalěrujśo dodank, aby pśistup k rědam zmóžnił.
+site-permission-install-first-prompt-serial-message = Wěsty pśistup se njegarantěrujo. Póstupujśo jano, jolic toś tomu sedłoju dowěriśo.
 
 ##
 

@@ -42,11 +42,26 @@ neterror-load-error-connection = Ако не можете да вчитате н
 neterror-load-error-firewall = Ако вашиот компјутер или мрежа се заштитени со огнен ѕид или посредник, проверете дали { -brand-short-name } има дозвола да пристапи на Интернет.
 neterror-dns-not-found-hint-try-again = Обидете се повторно подоцна
 neterror-dns-not-found-hint-check-network = Проверете ја вашата мрежна врска
+neterror-dns-not-found-offline-hint-modem = Проверете го вашиот модем или рутер.
+neterror-dns-not-found-offline-hint-reconnect = Исклучете се и повторно поврзете се на Wi-Fi.
+
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+neterror-dns-not-found-trr-offline = Не сте поврзани на интернет.
+neterror-dns-not-found-bad-trr-url = Неисправно URL.
+neterror-dns-not-found-system-sleep = Системот е во режим на спиење.
+neterror-dns-not-found-trr-unknown-problem = Неочекуван проблем.
 
 ##
 
 neterror-file-not-found-filename = Проверете дали во името има големи букви или други печатни грешки.
 neterror-file-not-found-moved = Проверете дали датотеката е преместена, преименувана или избришана.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } не може да ја најде датотеката на <strong>{ $path }</strong>. Или не постои или патеката не е точна.
 neterror-redirect-loop = Овој проблем некогаш може да биде предизвикан од оневозможување или одбивање на колачиња.
 neterror-unknown-socket-type-psm-installed = Проверете дали на вашиот систем е инсталиран Менаџерот за лична безбедност.
 neterror-unknown-socket-type-server-config = Ова може да се случува поради нестандардна конфигурација на серверот.

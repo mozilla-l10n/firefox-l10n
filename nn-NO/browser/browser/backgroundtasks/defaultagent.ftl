@@ -6,4 +6,5 @@ default-browser-agent-task-description = Standard nettlesaragentoppgåve sjekkar
 default-browser-notification-header-text = Halde fram med å bruke { -brand-short-name }?
 default-browser-notification-body-text = Standardnettlesar vart nettopp endra. Trykk for å tilbakestille { -brand-short-name } til standard.
 default-browser-notification-yes-button-text = Ja
+default-browser-notification-privacy-no-button-text = Nei takk
 default-browser-notification-no-button-text = Nei

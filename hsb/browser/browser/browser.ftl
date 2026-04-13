@@ -285,7 +285,7 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = Sće přistup k MIDI za tute websydło zablokował.
 urlbar-serial-blocked =
-    .tooltiptext = Sće přistup na serijowy port za tute websydło zablokował.
+    .tooltiptext = Sće přistup k serijowemu portej za tute websydło zablokował.
 urlbar-install-blocked =
     .tooltiptext = Sće instalowanje přidatkow za tute websydło zablokował.
 # Variables
