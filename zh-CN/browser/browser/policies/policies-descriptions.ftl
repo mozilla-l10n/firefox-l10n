@@ -154,3 +154,5 @@ policy-WebsiteFilter = 阻止访问某些网站。参阅文档了解该格式的
 policy-Windows10SSO = 允许面向 Microsoft 账户（个人/工作/学校）的 Windows 单点登录。
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = 允许面向 Microsoft Entra 账户的单点登录。
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = 启用或禁用对 JavaScript XSLTProcessor API 和 XSLT 处理指令的支持。

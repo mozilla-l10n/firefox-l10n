@@ -2454,18 +2454,43 @@ security-privacy-status-problem-header = { -brand-short-name }(e)k zenbait segur
 security-privacy-status-ok-label = Jarraipenaren babes hobetua aktibatuta dago
 security-privacy-status-problem-label = Zure babesean eragina duten ezarpenak aurkitu ditugu
 security-privacy-status-problem-helper-label = Ikusi arazoak
+security-privacy-status-pending-trackers-label = { -brand-short-name }(e)k azken hilabetean blokeatu dituen jarraipen-elementuak bilatzen
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] Jarraipen-elementu { $trackerCount } blokeatuta azken hilabetean
+       *[other] { $trackerCount }  jarraipen-elementu blokeatuta azken hilabetean
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = <a data-l10n-name="strict-tracking-protection">Babes zorrotza</a> duzu
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
 security-privacy-status-custom-enabled-label = <a data-l10n-name="custom-tracking-protection">Babes pertsonalizatua</a> duzu
 security-privacy-status-up-to-date-label = { -brand-short-name }(r)en azken bertsio seguruena duzu
 security-privacy-status-update-needed-label = { -brand-short-name }(r)en bertsio berri bat erabilgarri dago.
+security-privacy-status-update-error-label = { -brand-short-name } bere burua eguneratzeko arazoak izaten ari da
+security-privacy-status-update-checking-label = { -brand-short-name } eguneraketen bila ari da
+security-privacy-status-update-needed-description = Eguneratu azken abiadura, egonkortasun eta segurtasun-eguneraketetarako.
+security-privacy-status-update-button-label =
+    .label = Eguneratu { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Harridura marka duen armarria, zure segurtasun-abisuen gaineko ardura adieraziz
+security-privacy-image-ok =
+    .alt = Kontrol-marka duen armarria, segurtasun-arazorik ez duzula erakutsiz
+security-privacy-issue-card =
+    .heading = Segurtasun-abisuak
+issue-card-reset-button =
+    .label = Berrezarri
 issue-card-dismiss-button =
     .tooltiptext = Baztertu
     .aria-label = Baztertu
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Jarraipenaren babes hobetua
+    .description = Guneek jarraipen-elementuak erabiltzen dituzte zure lineako jarraipena egin eta iragarki beldurgarriak erakusteko. { -brand-short-name }(e)k nabigatu ahala babesten zaitu, jarraipen-elementuak automatikoki blokeatuz zure aztarna digitalaren kontrolpean zu zeu izan zaitezen.
 preferences-etp-level-strict =
     .label = Zorrotza
     .description = Jarraipen-elementu gehiago blokeatzen dituen babes zorrotzagoa, baina hainbat gune apurtzea eragin lezake.
@@ -2509,3 +2534,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Susmopeko hatz-marka bidezko jarraipena
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Susmopeko hatz-marka bidezko jarraipena
+
+## Warnings section
+
+security-privacy-issue-warning-doh =
+    .label = HTTPS gaineko DNSa desaktibatuta dago
+    .description = HTTPS gaineko DNSak bisitatzen dituzun guneak ezkutatzen ditu sareko zure hornitzailetik.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Proxyaren konfigurazio automatikoa gaituta dago
+    .description = Proxyaren konfigurazio automatikoak sare ez fidagarriei zure jarduera monitorizatzen utz liezaioke.
