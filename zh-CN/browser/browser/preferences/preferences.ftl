@@ -2476,6 +2476,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = 增强型跟踪保护
+    .description = 网站会使用跟踪器在网络上跟踪您，从而显示恼人的广告。{ -brand-short-name } 可在浏览期间保护您，自动拦截跟踪器，让您能控制自己的数字痕迹。
 preferences-etp-level-standard =
     .label = 标准（默认）
     .description = 强大又可靠的保护，与大多数网站顺畅兼容。
@@ -2492,6 +2495,9 @@ preferences-etp-status-protections-dashboard-link =
     .description = 查看 { -brand-short-name } 为您拦截的跟踪器数量，包括社交媒体跟踪器、数字指纹跟踪程序和加密货币挖矿程序。
 preferences-etp-header =
     .heading = 增强型跟踪保护
+preferences-etp-advanced-settings-group =
+    .label = 高级设置
+    .description = 网站会使用跟踪器在网络上跟踪您，从而显示恼人的广告。{ -brand-short-name } 可在浏览期间保护您，自动拦截大多数跟踪器，让您能控制自己的数字痕迹。
 preferences-etp-customize-button =
     .label = 自定义跟踪保护
 preferences-etp-reload-tabs-hint =

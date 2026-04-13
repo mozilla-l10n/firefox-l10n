@@ -1682,13 +1682,23 @@ sitedata-total-size-calculating = Gunearen datuen eta cachearen tamaina kalkulat
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = Webguneek une honetan datuen <strong>{ $value } { $unit }</strong> erabiltzen dituzte diskoan.
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Gordetako cookiek, gunearen datuek eta cacheak une honetan { $value } { $unit } hartzen dute diskoan.
 sitedata-learn-more = Argibide gehiago
+sitedata-delete-on-close2 =
+    .label = Garbitu cookieak eta guneen datuak { -brand-short-name } ixten duzun aldiro
+    .accesskey = G
 sitedata-delete-on-close =
     .label = Ezabatu cookieak eta guneetako datuak { -brand-short-name } ixtean
     .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = Zure historia-ezarpenetan oinarrituta, { -brand-short-name }(e)k zure saioko cookieak eta guneko datuak ezabatzen ditu nabigatzailea ixtean.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Historia ez da gordeko.
+    .message = { -brand-short-name }(e)k cookieak eta guneetako datuak garbitzen ditu zure saiotik nabigatzailea ixten duzunean.
 sitedata-delete-on-close-private-browsing = Nabigatze pribatu modu iraunkorrean cookieak eta guneetako datuak beti garbituko dira { -brand-short-name } ixtean.
 sitedata-delete-on-close-private-browsing2 = Zure historia-ezarpenetan oinarrituta, { -brand-short-name }(e)k zure saioko cookieak eta guneko datuak ezabatzen ditu nabigatzailea ixtean.
 sitedata-allow-cookies-option =
@@ -1734,6 +1744,9 @@ sitedata-cookies-exceptions2 =
     .label = Kudeatu salbuespenak
     .accesskey = s
     .description = Zehaztu dezakezu zein webgunek duten beti edo inoiz baimena cookieak eta guneetako datuak erabiltzeko.
+sitedata-heading =
+    .label = Nabigatze-datuak
+    .description = Kudeatu zure cookieak, historia, cachea, webguneetako datuak eta gehiago.
 sitedata-settings3 =
     .label = Garbitu datuak gune jakinetarako
     .accesskey = n
@@ -2073,6 +2086,8 @@ collection-description = Aukerak ematen ahalegintzen gara { -brand-short-name } 
 collection-privacy-notice = Pribatutasun-oharra
 collection-health-report-telemetry-disabled = Jada ez duzu baimentzen { -vendor-short-name }(e)k datu tekniko eta interakziozkoak kapturatzea. Iraganeko datu guztiak 30 egunen buruan ezabatuko dira.
 collection-health-report-telemetry-disabled-link = Argibide gehiago
+backup-multi-profile-warning-message =
+    .message = Aldaketa hau zure babeskopietan integratzen dela ziurtatzeko, ireki profil bakoitza eta aukeratu "Egin babeskopia orain" ezarpenetan.
 nimbus-rollouts =
     .label = Baimendu eguneraketen artean { -brand-short-name }(e)k eginbideak, errendimendua eta egonkortasuna hobetzea
     .description = Aldaketak urrunetik emango dira ezagutzera.
@@ -2171,11 +2186,16 @@ website-advertising-private-attribution-description = Honek laguntzen die webgun
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Segurtasuna
+browsing-protection-group2 =
+    .label = Eduki iruzurgilearen eta software arriskutsuaren babesa
+    .description = Gune eta deskarga arriskutsuek zure datuak eta gailua arriskuan jar litzakete. { -brand-short-name }(e)k automatikoki blokeatzen ditu eta arriskutsua den edo nahi ez den softwarearen inguruan abisatzen zaitu.
 security-browsing-protection = Eduki iruzurgilearen eta software arriskutsuaren babesa
 security-enable-safe-browsing =
     .label = Blokeatu eduki arriskutsu eta iruzurtia
     .accesskey = B
 security-enable-safe-browsing-link = Argibide gehiago
+security-safe-browsing-warning =
+    .message = Hau desaktibatuz gero, iruzurren, gune maltzurren eta deskarga arriskutsuen aurkako babesa murriztuko da.
 security-block-downloads =
     .label = Blokeatu deskarga arriskutsuak
     .accesskey = s
@@ -2204,6 +2224,12 @@ space-alert-over-5gb-settings-button =
     .accesskey = k
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Biltegiratutako datuak Ezarpenak > Pribatutasuna eta segurtasuna > Cookieak eta guneetako datuak atalean garbi ditzakezu.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } leku erabilgarririk gabe gelditzen ari da diskoan.</strong> Webgunearen edukiak agian ez dira ondo bistaratuko. Bisitatu "Argibide gehiago" diskoaren erabilpena optimizatu eta nabigatze-esperientzia hobetzeko.
+certs-description3 =
+    .label = Ziurtagiriak
+    .description = Konfiguratu { -brand-short-name }(e)k konexio seguruak egiaztatzeko erabiltzen dituen ziurtagiriak.
+certs-view2 =
+    .label = Kudeatu ziurtagiriak
+    .accesskey = z
 
 ## Privacy Section - HTTPS-Only
 

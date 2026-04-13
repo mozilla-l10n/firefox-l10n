@@ -129,6 +129,7 @@ policy-Preferences = 设置并锁定若干首选项的值。
 policy-PrivateBrowsingModeAvailability = 设置隐私浏览模式的可用性。
 policy-PromptForDownloadLocation = 下载前询问文件保存位置。
 policy-Proxy = 配置代理设置
+policy-RelaunchRequired = 要求 { -brand-short-name } 在指定时间段内重启，并通知用户即将进行的重启。
 policy-RequestedLocales = 设置应用程序表明语言区域偏好的语言区域请求列表。
 policy-SanitizeOnShutdown2 = 关机时，清除上网数据。
 policy-SearchBar = 设置搜索栏的默认位置，用户仍可自定义。

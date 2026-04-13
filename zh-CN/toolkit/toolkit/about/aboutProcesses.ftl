@@ -59,6 +59,10 @@ about-processes-inference-process = 推理进程{ $pid }
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = 其他：{ $type }（{ $pid }）
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-jit-disabled = JIT 已禁用
+
 ## Isolated process names
 ## Variables:
 ##    $origin (String) The domain name for this process.
