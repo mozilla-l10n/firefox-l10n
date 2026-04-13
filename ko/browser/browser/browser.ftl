@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = 사이트의 알림을 받을지 여부 변경
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI 패널 열기
+urlbar-serial-notification-anchor =
+    .tooltiptext = 시리얼 패널 열기
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM 소프트웨어 사용 관리
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = 이 사이트의 캔버스 데이터 추출을 차단했습니다.
 urlbar-midi-blocked =
     .tooltiptext = 이 사이트의 MIDI 접근을 차단했습니다.
+urlbar-serial-blocked =
+    .tooltiptext = 이 사이트의 시리얼 포트 접근을 차단했습니다.
 urlbar-install-blocked =
     .tooltiptext = 이 사이트의 부가 기능 설치를 차단했습니다.
 # Variables
@@ -641,6 +645,11 @@ sharing-warning-proceed-to-tab =
     .label = 탭으로 진행
 sharing-warning-disable-for-session =
     .label = 이 세션의 공유 보호 사용 안 함
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = 시리얼 포트를 선택하세요:
+webserial-no-ports-available = 시리얼 포트 없음
 
 ## DevTools F12 popup
 
