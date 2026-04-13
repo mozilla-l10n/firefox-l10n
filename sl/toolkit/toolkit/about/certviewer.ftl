@@ -43,6 +43,10 @@ certificate-viewer-logid = ID dnevnika
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modulo
 certificate-viewer-name = Ime
+certificate-viewer-surname = Priimek
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Ime
 certificate-viewer-not-after = Ne po
 certificate-viewer-not-before = Ne pred
 certificate-viewer-organization = Organizacija

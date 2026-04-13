@@ -6,4 +6,5 @@ default-browser-agent-task-description = Opravilo Privzet uporabniški agent pre
 default-browser-notification-header-text = Želite še naprej uporabljati { -brand-short-name }?
 default-browser-notification-body-text = Privzeti brskalnik je bil pred kratkim zamenjan. Kliknite za povrnitev { -brand-short-name }a kot privzetega programa.
 default-browser-notification-yes-button-text = Da
+default-browser-notification-privacy-no-button-text = Ne, hvala
 default-browser-notification-no-button-text = Ne

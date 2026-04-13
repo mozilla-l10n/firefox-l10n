@@ -146,6 +146,9 @@ newtab-menu-report = Prijavi
 newtab-menu-section-block = Prepovej
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Nehaj slediti
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Nehaj slediti temi
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -316,6 +319,8 @@ newtab-custom-shortcuts-toggle =
     .description = Strani, ki jih shranite ali obiščete
 newtab-custom-shortcuts-nova =
     .label = Bližnjice
+newtab-custom-row-description =
+    .description = Število vrstic
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -595,6 +600,7 @@ newtab-section-confirm-block-topic-p2 = Blokirane teme se ne bodo več prikazova
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokiraj { $topic }
+newtab-section-block-cancel-button = Prekliči
 
 ## Strings for custom wallpaper highlight
 

@@ -148,6 +148,12 @@ webext-site-perms-description-gated-perms-midi =
     Dette er vanlegvis eksterne synthesizerar, men dei kan også vere innebyggde i datamaskina di.
     
     Nettstadar har normalt ikkje tillgang til MIDI-einingar. Feil bruk kan føre til skade eller kompromittere sikkerheita.
+webext-site-perms-description-gated-perms-serial =
+    Dette er einingar som mikrokontrollerarar, 3D-skrivarar og andre einingar som koplar til via USB eller serielle portar.
+    
+    Du vil kunne velje kva einingar nettstaden kan få tilgang til.
+    
+    Nettstadar har vanlegvis ikkje lov til å få tilgang til serielle einingar. Feil bruk kan føre til skade eller kompromiss i sikkerheita.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

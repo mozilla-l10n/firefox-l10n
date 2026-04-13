@@ -24,7 +24,7 @@ permission-dialog-description-system-noapp = أأفتح الرابط { $scheme }
 wallet-custom-scheme-warning-heading =
     .heading = أتسمح لهذا الموقع بفتح محفظتك الرقمية؟
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-host-app = يُتيح فتح رابط <strong>{ $scheme }</strong> لـ <strong>{ $host }</strong> طلب هويتك الحقيقية باستخدام <strong>{ $appName }</strong>. تابع فقط إذا كنت تثق بهذا الموقع.
+wallet-custom-scheme-warning-host-app = يُتيح فتح رابط <strong>{ $scheme }</strong> لـ <strong>{ $host }</strong> طلب هويتك الحقيقية باستخدام <strong>{ $appName }</strong>. واصِل فقط إذا كنت تثق بهذا الموقع.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-app = يُتيح فتح رابط <strong>{ $scheme }</strong> لهذا الموقع طلب هويتك الحقيقية باستخدام <strong>{ $appName }</strong>. واصِل فقط إذا كنت تثق بهذا الموقع.
 # Warning given to the user that the current page is trying to open their digital wallet app

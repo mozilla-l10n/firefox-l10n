@@ -672,6 +672,7 @@ sharing-warning-disable-for-session =
 ## WebSerial "select a port" popup
 
 webserial-select-port-label = حدّد منفذًا تسلسليًا:
+webserial-no-ports-available = لا توجد منافذ تسلسلية متاحة
 
 ## DevTools F12 popup
 

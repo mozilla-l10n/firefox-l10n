@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Prilagodi orodno vrstico …
+appmenu-abouttranslations =
+    .label = Prevedi …
 appmenu-developer-tools-subheader = Orodja brskalnika
 appmenu-developer-tools-extensions =
     .label = Razširitve za razvijalce
