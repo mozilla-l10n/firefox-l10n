@@ -1752,7 +1752,7 @@ trustpanel-clear-cookies-subview-button-cancel = Zrušit
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-site-information-header =
-    .title = Ochrana připojení pro { $host }
+    .title = Ochrana spojení pro { $host }
 trustpanel-siteinformation-morelink = Více informací o webu
 trustpanel-blocker-see-all = Zobrazit vše
 # Variables
