@@ -418,6 +418,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Сохранить
     .accesskey = Ы
+tab-note-editor-button-delete =
+    .title = Удалить примечание
+    .aria-label = Удалить примечание
+    .accesskey = В
+tab-note-preview-edit-icon =
+    .alt = Изменить примечание
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Подробнее
 tab-note-panel-add-note-new-badge =
