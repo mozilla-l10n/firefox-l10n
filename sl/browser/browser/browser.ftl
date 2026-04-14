@@ -410,6 +410,7 @@ quickactions-cmd-help = pomoč, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Odpri razvojna orodja
 quickactions-cmd-inspector2 = pregledovalnik, razvojna orodja, orodja za razvijalce, devtools
+quickactions-library = Odpri knjižnico
 quickactions-cmd-inspector = pregledovalnik, razvojna orodja
 # Opens about:logins
 quickactions-logins2 = Upravljaj gesla

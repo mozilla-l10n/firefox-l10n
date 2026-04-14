@@ -57,6 +57,9 @@ settings-data-toggle-encryption-label2 =
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ime datoteke: { $fileName }
+settings-data-backup-restore-scheduled-on =
+    .label = Obnovite podatke
+    .description = Obnovite podatke { -brand-product-name(sklon: "rodilnik") } iz zadnje varnostne kopije.
 settings-data-backup-restore-header = Obnovitev podatkov
 
 ## These strings are shown under the header if scheduled backups are disabled.
@@ -68,6 +71,8 @@ settings-data-backup-scheduled-backups-off-restore-choose = Izberi datoteko varn
 
 settings-data-backup-scheduled-backups-on-restore-description = Obnovite svoje { -brand-product-name }ove podatke od zadnjega varnostnega kopiranja.
 settings-data-backup-scheduled-backups-on-restore-choose = Obnovi …
+settings-sensitive-data =
+    .label = Občutljivi podatki
 settings-data-toggle-encryption-label = Varnostno kopiraj občutljive podatke
 settings-data-toggle-encryption-support-link = Več o tem
 settings-data-change-password2 =
@@ -268,6 +273,11 @@ other-backup-files-founds =
         [few] <b>Opomba:</b> Najdene so bile tudi { $numberOfOtherBackupsFound } druge datoteke z varnostnimi kopijami
        *[other] <b>Opomba:</b> Najdenih je bilo tudi { $numberOfOtherBackupsFound } drugih datotek z varnostnimi kopijami
     }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> ustvarjen { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na napravi { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.

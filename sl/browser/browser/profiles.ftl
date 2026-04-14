@@ -64,6 +64,9 @@ new-profile-page-done-button =
     .label = Urejeno
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = Vaš izvod profila "{ $profilename }" je pripravljen, da ga prilagodite
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Vaš izvod profila { $profilename } je pripravljen, da ga prilagodite
 copied-profile-page-header-description = Vaše podatke in nastavitve smo kopirali v nov profil. Sedaj ga poimenujte, mu izberite videz in ga naredite svojega.
 restored-profile-page-header = Prilagodite obnovljeni profil

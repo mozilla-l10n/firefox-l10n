@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Odpri stran v novem oknu
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Da bi zaščitil vašo varnost, { $hostname } { -brand-short-name(sklon: "dajalnik") } ne bo dovolil prikaza strani, ki je vdelana v drugo spletno mesto. Če si želite ogledati to stran, jo odprite v novem oknu.
 fp-certerror-view-certificate-link = Prikaži potrdilo spletnega mesta
+fp-certerror-return-to-previous-page-recommended-button-2 = Pojdi nazaj (priporočeno)
+    .accesskey = P
 fp-certerror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -209,6 +211,8 @@ certerror-mitm-title = Programska oprema { -brand-short-name }u preprečuje varn
 
 fp-certerror-page-title = Opozorilo: Varnostno tveganje
 fp-certerror-body-title = Previdno. Nekaj ni videti v redu.
+fp-certerror-illustration-alt =
+    .alt = Ilustracija lisice, ki si ogleduje oranžen opozorilni znak.
 fp-certerror-why-site-dangerous = Zaradi česa je spletno mesto videti nevarno?
 fp-certerror-what-can-you-do = Kaj lahko storite?
 fp-certerror-advanced-title = Napredno
@@ -222,3 +226,5 @@ fp-certerror-override-exception-button = Nadaljuj na { $hostname } (tvegano)
 fp-certerror-intro = { -brand-short-name } je zaznal morebitno resno varnostno težavo s <strong>{ $hostname }</strong>. Obstaja možnost, da se nekdo izdaja za to spletno mesto in poskuša ukrasti vaše podatke.
 fp-certerror-expired-into = { -brand-short-name } je zaznal varnostno težavo s <strong>{ $hostname }</strong>. Bodisi spletno mesto ni pravilno nastavljeno, bodisi je ura na vašem računalniku nastavljena na napačen datum/čas.
 fp-certerror-transparency-intro = Nekdo, ki bi se izdajal za <strong>{ $hostname }</strong>, bi lahko poskušal ukrasti vaše podatke bančne kartice, gesla, e-poštne naslove ali druge vnesene podatke.
+fp-certerror-override-exception-button-2 = Nadaljuj na { $hostname } (tvegano)
+    .accesskey = d

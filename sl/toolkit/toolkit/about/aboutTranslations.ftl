@@ -15,6 +15,10 @@ about-translations-unsupported-info-message-2 =
 about-translations-unsupported-info-message =
     .heading = Prevajanje na tej napravi ni na voljo.
     .message = Poskusite na drugi napravi.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Prevajanje ni na voljo za vašo organizacijo
+    .message = Takšen pravilnik je nastavil vaš skrbnik.
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
     .heading = Za prevajanje besedila odblokirajte to možnost
@@ -34,6 +38,11 @@ about-translations-language-load-error-button = Poskusi znova
 about-translations-translation-error-heading = Pri prevajanju je prišlo do težave
 about-translations-translation-error-subtext = Poskusite znova.
 about-translations-translation-error-button = Poskusi znova
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Prevajanja iz jezika { $language } žal še ne podpiramo
+about-translations-detected-language-unsupported-heading-unknown-2 = Prevajanja iz tega jezika žal še ne podpiramo
 about-translations-detected-language-unsupported-subtext = Izberite drug jezik.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

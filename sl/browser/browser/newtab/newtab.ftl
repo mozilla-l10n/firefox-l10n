@@ -703,6 +703,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nov seznam
 newtab-widget-section-title = Pripomočki
 newtab-widget-menu-hide = Skrij pripomoček
+newtab-widget-menu-change-size = Spremeni velikost
+newtab-widget-size-small = Majhna
+newtab-widget-size-medium = Srednja
+newtab-widget-size-large = Velika
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Skrij pripomočke
@@ -743,6 +747,7 @@ newtab-daily-briefing-card-menu-dismiss = Skrij
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Posodobljeno pred { $minutes } min
 newtab-widget-message-title = Ostanite osredotočeni s seznami in vgrajenim časovnikom
+newtab-promo-card-cta-addons = Preizkusite zdaj
 newtab-promo-card-title = Podprite { -brand-product-name(sklon: "tozilnik") }
 newtab-promo-card-body = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta
 newtab-promo-card-cta = Več o tem

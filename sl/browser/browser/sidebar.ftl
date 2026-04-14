@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Izbriši strani iz zgodovine
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Uredi zaznamek …
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Izbriši zaznamek
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Izbriši
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Zavihki z drugih naprav
 sidebar-menu-cpm-header =
     .heading = Gesla
+sidebar-menu-bookmarks-header =
+    .heading = Zaznamki
 sidebar-panel-header-close-button =
     .tooltiptext = Zapri
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Meni zaznamkov
+sidebar-bookmarks-folder-toolbar = Vrstica zaznamkov
+sidebar-bookmarks-folder-other = Drugi zaznamki
+sidebar-bookmarks-folder-mobile = Mobilni zaznamki
 
 ## Titles for sidebar menu panels.
 

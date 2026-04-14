@@ -25,6 +25,8 @@ neterror-override-exception-button = Sprejmi tveganje in nadaljuj
 neterror-pref-reset-button = Obnovi privzete nastavitve
 neterror-return-to-previous-page-button = Nazaj
 neterror-return-to-previous-page-recommended-button = Pojdi nazaj (priporočeno)
+neterror-try-again-button-2 = Poskusi znova
+    .accesskey = z
 neterror-try-again-button = Poskusi znova
 neterror-add-exception-button = Vedno nadaljuj za to spletno mesto
 neterror-settings-button = Spremeni nastavitve DNS
@@ -176,6 +178,8 @@ neterror-response-status-code = Koda napake: { $responsestatus } { $responsestat
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Videti je, da obstaja težava z vašo internetno povezavo
+fp-neterror-illustration-alt =
+    .alt = Ilustracija lisice, ki si ogleduje odklopljene omrežne kable.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -186,6 +190,7 @@ fp-neterror-offline-intro = { -brand-short-name } se ne more povezati s strežni
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> je vrnil napako.
 fp-neterror-coop-coep-intro = { -brand-short-name } ni naložil te strani, ker se zdi, da se njena varnostna nastavitev ne ujema s prejšnjo stranjo.
+fp-neterror-blocked-by-policy-intro = Vaša organizacija je onemogočila dostop do tega spletnega mesta ali strani.
 fp-neterror-http-auth-disabled-intro = Nekdo, ki bi se izdajal za to spletno mesto, bi lahko poskušal ukrasti vaše uporabniško ime, geslo ali druge vnesene podatke.
 fp-neterror-http-auth-disabled-secure-connection = To spletno mesto zahteva varno povezavo, za obisk pa ne morete dodati izjeme.
 fp-neterror-why-did-this-happen = Zakaj se je to zgodilo?
