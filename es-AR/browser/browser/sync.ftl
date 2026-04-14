@@ -38,6 +38,13 @@ fxa-menu-send-to-mobile =
             [one] Enviar { $tabCount } pestaña a móvil
            *[other] Enviar { $tabCount } pestañas al móvil
         }
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync =
+    .label = Habilitar sincronización para enviar una pestaña
+fxa-menu-send-to-mobile-connect-phone =
+    .label = Conecte el teléfono
+fxa-menu-send-to-mobile-device-missing =
+    .label = ¿No se puede ver el dispositivo?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

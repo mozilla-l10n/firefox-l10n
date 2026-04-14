@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } solicita r
 
 webext-site-perms-header-with-gated-perms-midi = Este complemento le da a { $hostname } acceso a sus dispositivos MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Este complemento le da a { $hostname } acceso a sus dispositivos MIDI (con compatibilidad SysEx).
+webext-site-perms-header-with-gated-perms-serial = Este complemento le da a { $hostname } acceso a los dispositivos serie.
 
 ##
 
