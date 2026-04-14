@@ -34,6 +34,11 @@ neterror-view-certificate-link = Прикажи сертификат
 neterror-trr-continue-this-time = Продолжи овој пат
 neterror-disable-native-feedback-warning = Секогаш продолжувај
 
+##
+
+neterror-pref-reset = Се чини дека Вашите поставки за мрежна безбедност се причина за ова. Дали сакате да се вратат стандардните поставки?
+neterror-error-reporting-automatic = Пријавувај вакви грешки за да му помогнете на { -vendor-short-name } да идентификува и блокира злонамерни страници.
+
 ## Specific error messages
 
 neterror-generic-error = Поради некоја причина { -brand-short-name } не може да ја вчита оваа страница.
