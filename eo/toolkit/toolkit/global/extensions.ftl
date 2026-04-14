@@ -149,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Tiuj ĉi estas kutime konektitaj aparatoj, ekzemple aŭdaj sinteziloj, sed ili povus ankaŭ esti inkluzivitaj en via komputilo.
     
     Kutime retejoj ne havas la permeson aliri aparatojn MIDI. Malĝusta uzo povus difekti ion aŭ minaci sekurecon.
+webext-site-perms-description-gated-perms-serial =
+    Tiuj ĉi estas aparatoj, kiel mikrokomputiloj, presiloj 3D kaj aliaj, kiuj konektiĝas per USB aŭ per seria konekto.
+    
+    Vi povos elekti kiujn aparatojn la retejo povas aliri.
+    
+    Retejoj normale ne povas aliri seriajn aparatojn. Malĝusta uzo povus difekti ion aŭ minaci sekurecon.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -163,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = Ĉu aldoni { $extension }? Tiu ĉ
 
 webext-site-perms-midi = Aliri aparatojn MIDI
 webext-site-perms-midi-sysex = Aliri aparatojn MIDI kun subteno por SysEx
+webext-site-perms-serial = Aliri seriajn aparatojn
 
 ## Colorway theme migration
 
