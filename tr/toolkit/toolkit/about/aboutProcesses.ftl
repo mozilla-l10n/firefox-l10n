@@ -62,7 +62,7 @@ about-processes-unknown-process = Diğer: { $type } ({ $pid })
 
 ## Properties of isolated web processes
 
-about-processes-web-isolated-property-private = özel
+about-processes-web-isolated-property-private = gizli
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT devre dışı
 about-processes-web-isolated-property-with-coop-coep = çapraz köken izole
