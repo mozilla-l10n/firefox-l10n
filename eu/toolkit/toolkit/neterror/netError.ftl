@@ -202,6 +202,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ostalariak er
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> ostalariko zerbitzariak errore bat itzuli du: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name }(e)k ez du orri hau kargatu bere segurtasun-konfigurazioa aurreko orriarenarekin bat ez datorrela baitirudi.
+fp-neterror-blocked-by-policy-intro = Zure erakundeak blokeatu egin du orri edo gune honetarako sarbidea.
 fp-neterror-http-auth-disabled-intro = Gunearen itxurak egiten dituen norbait saia liteke lapurtzen zure erabiltzaile-izena, pasahitza edo posta elektronikoko mezuak.
 fp-neterror-http-auth-disabled-secure-connection = Gune honek konexio segurua eskatzen du eta ezin duzu bisitatzeko salbuespenik gehitu.
 fp-neterror-why-did-this-happen = Zergatik gertatu da hau?
