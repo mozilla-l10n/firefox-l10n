@@ -852,6 +852,9 @@ home-homepage-title =
 home-custom-homepage-header = صفحة بداية مخصّصة
 home-custom-homepage-subpage =
     .heading = صفحة بداية مخصّصة
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = عنوان(عناوين) الموقع الإلكتروني
 home-custom-homepage-address =
     .placeholder = أدخل العنوان
 home-custom-homepage-address-button =
@@ -1004,6 +1007,9 @@ addressbar-header-1 =
 # address bar will be replaced with the search term used to generate that SERP.
 search-show-search-term-option-2 =
     .label = أظهِر مصطلحات البحث في شريط العناوين على صفحات النتائج
+search-separate-default-engine-2 =
+    .label = استخدم محرك بحث مبدئي مختلف في النوافذ الخاصة
+    .accesskey = د
 search-separate-default-engine-dropdown =
     .aria-label = محرك البحث المبدئي في النوافذ الخاصة
 search-suggestions-header-2 =
