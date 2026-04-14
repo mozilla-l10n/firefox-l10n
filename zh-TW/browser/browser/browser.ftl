@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = 變更您是否要收到來自此網站的通知
 urlbar-midi-notification-anchor =
     .tooltiptext = 開啟 MIDI 面板
+urlbar-serial-notification-anchor =
+    .tooltiptext = 開啟序列埠面板
 urlbar-eme-notification-anchor =
     .tooltiptext = 管理 DRM 軟體使用
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = 您已封鎖此網站讀取 canvas 資料的權限。
 urlbar-midi-blocked =
     .tooltiptext = 您已封鎖此網站的 MIDI 存取權限。
+urlbar-serial-blocked =
+    .tooltiptext = 您已封鎖此網站的序列埠存取權限。
 urlbar-install-blocked =
     .tooltiptext = 您已封鎖此網站安裝附加元件。
 # Variables
@@ -645,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = 繼續前往分頁
 sharing-warning-disable-for-session =
     .label = 在此階段停用分享保護
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = 選擇序列埠：
+webserial-no-ports-available = 無序列埠可以使用
 
 ## DevTools F12 popup
 
