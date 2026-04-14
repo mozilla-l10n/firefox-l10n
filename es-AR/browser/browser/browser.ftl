@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Cambiar si se reciben notificaciones del sitio
 urlbar-midi-notification-anchor =
     .tooltiptext = Abrir panel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Abrir panel serial
 urlbar-eme-notification-anchor =
     .tooltiptext = Administrar uso de software DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Se ha bloqueado la extracción de datos de canvas para este sitio web.
 urlbar-midi-blocked =
     .tooltiptext = Se ha bloqueado el acceso a MIDI para este sitio web.
+urlbar-serial-blocked =
+    .tooltiptext = Ha bloqueado el acceso al puerto serie para este sitio web.
 urlbar-install-blocked =
     .tooltiptext = Se ha bloqueado la instalación de complementos para este sitio web.
 # Variables
@@ -648,6 +652,11 @@ sharing-warning-proceed-to-tab =
     .label = Ir a la pestaña
 sharing-warning-disable-for-session =
     .label = Deshabilitar la protección compartida para esta sesión
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Seleccione un puerto serie:
+webserial-no-ports-available = No hay puertos serie disponibles
 
 ## DevTools F12 popup
 
