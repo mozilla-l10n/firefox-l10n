@@ -387,6 +387,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Speichern
     .accesskey = S
+tab-note-preview-edit-icon =
+    .alt = Notiz bearbeiten
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Weitere Informationen
 tab-note-panel-add-note-new-badge =

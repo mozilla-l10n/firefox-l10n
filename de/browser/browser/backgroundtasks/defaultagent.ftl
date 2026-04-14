@@ -6,4 +6,5 @@ default-browser-agent-task-description = Die "Standard-Browser-Agent"-Aufgabe pr
 default-browser-notification-header-text = { -brand-short-name } weiter verwenden?
 default-browser-notification-body-text = Ihr Standardbrowser wurde kürzlich geändert. Antippen, um { -brand-short-name } wieder als Standard zu setzen.
 default-browser-notification-yes-button-text = Ja
+default-browser-notification-privacy-no-button-text = Nein, danke
 default-browser-notification-no-button-text = Nein
