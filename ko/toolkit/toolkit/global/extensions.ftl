@@ -137,6 +137,12 @@ webext-site-perms-description-gated-perms-midi =
     이들은 일반적으로 오디오 신디사이저와 같은 플러그인 기기이지만, 컴퓨터에 내장되어 있을 수도 있습니다.
     
     일반적으로 웹 사이트는 MIDI 기기에 접근할 수 없습니다. 부적절한 사용으로 인해 손상이 발생하거나 보안이 손상될 수 있습니다.
+webext-site-perms-description-gated-perms-serial =
+    마이크로 컨트롤러, 3D 프린터 및 기타 USB 또는 직렬 포트를 통해 연결하는 기기가 여기에 해당됩니다.
+    
+    웹 사이트가 접근할 수 있는 기기를 선택할 수 있습니다.
+    
+    일반적으로 웹 사이트는 직렬 기기에 접근할 수 없습니다. 부적절한 사용은 기기를 손상시키거나 보안을 위협할 수 있습니다.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

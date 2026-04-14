@@ -646,6 +646,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Ғайрифаъол кардани муҳофизати дастрасии умумӣ барои ин ҷаласа
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Интихоби порти силсилавӣ:
+webserial-no-ports-available = Ягон порти силсилавӣ дастрас нест
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Барои истифода кардани миёнбури «F12», аввал «Абзорҳои барномарезӣ (DevTools)»-ро тавассути менюи «Абзорҳои браузер» кушоед.
