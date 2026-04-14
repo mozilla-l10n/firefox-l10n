@@ -353,6 +353,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = 저장
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = 메모 삭제
+    .aria-label = 메모 삭제
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = 메모 편집
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = 더 읽기
 tab-note-panel-add-note-new-badge =
