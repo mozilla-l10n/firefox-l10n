@@ -211,6 +211,8 @@ certerror-mitm-title = Праграмнае забеспячэнне не даз
 
 fp-certerror-page-title = Папярэджанне: рызыка бяспекі
 fp-certerror-body-title = Будзьце асцярожныя. Нешта выглядае не так.
+fp-certerror-illustration-alt =
+    .alt = Ілюстрацыя лісы, якая глядзіць на аранжавы папераджальны знак.
 fp-certerror-why-site-dangerous = Чаму сайт здаецца небяспечным?
 fp-certerror-what-can-you-do = Як вы можаце гэта паправіць?
 fp-certerror-advanced-title = Дадаткова
@@ -224,3 +226,5 @@ fp-certerror-override-exception-button = Перайсці на { $hostname } (р
 fp-certerror-intro = { -brand-short-name } выявіў патэнцыйна сур'ёзную праблему з бяспекай <strong>{ $hostname }</strong>. Нехта, хто выдае сябе за гэты сайт, можа паспрабаваць скрасці такія рэчы, як дадзеныя крэдытнай карты, паролі або электронную пошту.
 fp-certerror-expired-into = { -brand-short-name } выявіў праблему бяспекі на <strong>{ $hostname }</strong>. Або сайт настроены няправільна, або на гадзінніку вашай прылады ўстаноўлена няправільна дата/час.
 fp-certerror-transparency-intro = Нехта, выдаючы сябе за <strong>{ $hostname }</strong>, можа паспрабаваць скрасці такія рэчы, як інфармацыю крэдытных карт, паролі або электронную пошту.
+fp-certerror-override-exception-button-2 = Перайсці на { $hostname } (рызыкоўна)
+    .accesskey = з

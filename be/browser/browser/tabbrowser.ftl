@@ -418,6 +418,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Захаваць
     .accesskey = З
+tab-note-editor-button-delete =
+    .title = Выдаліць нататку
+    .aria-label = Выдаліць нататку
+    .accesskey = В
+tab-note-preview-edit-icon =
+    .alt = Змяніць нататку
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Падрабязней
 tab-note-panel-add-note-new-badge =
