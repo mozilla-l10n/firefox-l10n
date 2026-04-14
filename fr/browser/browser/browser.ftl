@@ -141,7 +141,7 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = Ouvrir le panneau MIDI
 urlbar-serial-notification-anchor =
-    .tooltiptext = Ouvrir le panneau Séries
+    .tooltiptext = Ouvrir le panneau Série
 urlbar-eme-notification-anchor =
     .tooltiptext = Gérer l’utilisation des logiciels DRM
 urlbar-web-authn-anchor =
@@ -655,6 +655,7 @@ sharing-warning-disable-for-session =
 
 ## WebSerial "select a port" popup
 
+webserial-select-port-label = Sélectionnez un port série :
 webserial-no-ports-available = Aucun port série disponible
 
 ## DevTools F12 popup
