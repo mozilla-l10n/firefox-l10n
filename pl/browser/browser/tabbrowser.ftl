@@ -408,6 +408,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Zachowaj
     .accesskey = Z
+tab-note-editor-button-delete =
+    .title = Usuń notatkę
+    .aria-label = Usuń notatkę
+    .accesskey = U
+tab-note-preview-edit-icon =
+    .alt = Edytuj notatkę
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Więcej informacji
 tab-note-panel-add-note-new-badge =

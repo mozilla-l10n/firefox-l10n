@@ -141,6 +141,7 @@ webext-perms-optional-text-with-data-collection-only = Rozszerzenie „{ $exten
 
 webext-site-perms-header-with-gated-perms-midi = Ten dodatek daje witrynie { $hostname } dostęp do urządzeń MIDI użytkownika.
 webext-site-perms-header-with-gated-perms-midi-sysex = Ten dodatek daje witrynie { $hostname } dostęp do urządzeń MIDI użytkownika (z obsługą SysEx).
+webext-site-perms-header-with-gated-perms-serial = Ten dodatek daje witrynie { $hostname } dostęp do urządzeń użytkownika podłączonych przez port szeregowy.
 
 ##
 
@@ -165,6 +166,7 @@ webext-site-perms-header-unsigned-with-perms = Czy dodać „{ $extension }”? 
 
 webext-site-perms-midi = Dostęp do urządzeń MIDI
 webext-site-perms-midi-sysex = Dostęp do urządzeń MIDI z obsługą SysEx
+webext-site-perms-serial = Dostęp do urządzeń podłączonych przez port szeregowy
 
 ## Colorway theme migration
 

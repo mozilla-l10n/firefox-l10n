@@ -141,7 +141,7 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = Otwórz panel MIDI
 urlbar-serial-notification-anchor =
-    .tooltiptext = Wyświetl urządzenia szeregowe
+    .tooltiptext = Wyświetl urządzenia podłączone przez port szeregowy
 urlbar-eme-notification-anchor =
     .tooltiptext = Zarządzaj ustawieniami DRM
 urlbar-web-authn-anchor =
@@ -656,6 +656,11 @@ sharing-warning-proceed-to-tab =
     .label = Przejdź do karty
 sharing-warning-disable-for-session =
     .label = Wyłącz ochronę udostępniania na czas tej sesji
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Wybierz port szeregowy:
+webserial-no-ports-available = Brak dostępnych portów szeregowych
 
 ## DevTools F12 popup
 
