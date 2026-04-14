@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Змяніць магчымасць атрымліваць абвесткі з гэтага сайта
 urlbar-midi-notification-anchor =
     .tooltiptext = Адкрыць панэль MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Адкрыць паслядоўную панэль
 urlbar-eme-notification-anchor =
     .tooltiptext = Кіраваць ужываннем DRM-праграм
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Вы заблакавалі выманне дадзеных canvas для гэтага сайта.
 urlbar-midi-blocked =
     .tooltiptext = Вы заблакавалі доступ да MIDI для гэтага сайта.
+urlbar-serial-blocked =
+    .tooltiptext = Вы заблакавалі доступ да паслядоўнага порта для гэтага сайта.
 urlbar-install-blocked =
     .tooltiptext = Вы заблакавалі ўсталяванне дадаткаў з гэтага сайта.
 # Variables
@@ -652,6 +656,11 @@ sharing-warning-proceed-to-tab =
     .label = Перайсці на картку
 sharing-warning-disable-for-session =
     .label = Адключыць ахову агульнага доступу на гэты сеанс
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Выберыце паслядоўны порт:
+webserial-no-ports-available = Няма даступных паслядоўных партоў
 
 ## DevTools F12 popup
 
