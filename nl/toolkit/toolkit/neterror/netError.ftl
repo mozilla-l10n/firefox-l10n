@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> heeft een fou
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = De server op <strong>{ $hostname }</strong> heeft een fout teruggestuurd: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } heeft deze pagina niet geladen, omdat het lijkt alsof de beveiligingsconfiguratie niet overeenkomt met die van de vorige pagina.
+fp-neterror-blocked-by-policy-intro = Uw organisatie heeft toegang tot deze pagina of website geblokkeerd.
 fp-neterror-http-auth-disabled-intro = Iemand die zich voordoet als de website kan dingen zoals uw gebruikersnaam, wachtwoord of e-mailadres proberen te stelen.
 fp-neterror-http-auth-disabled-secure-connection = Deze website vereist een beveiligde verbinding, en u kunt geen uitzondering toevoegen om deze te bezoeken.
 fp-neterror-why-did-this-happen = Waarom is dit gebeurd?

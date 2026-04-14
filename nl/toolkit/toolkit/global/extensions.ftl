@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } vraagt om 
 
 webext-site-perms-header-with-gated-perms-midi = Deze add-on geeft { $hostname } toegang tot MIDI-apparaten.
 webext-site-perms-header-with-gated-perms-midi-sysex = Deze add-on geeft { $hostname } toegang tot MIDI-apparaten (met SysEx-ondersteuning).
+webext-site-perms-header-with-gated-perms-serial = Deze add-on geeft { $hostname } toegang tot uw seriële apparaten.
 
 ##
 
@@ -148,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Dit zijn meestal plug-inapparaten zoals audiosynthesizers, maar ze kunnen ook in uw computer zijn ingebouwd.
     
     Websites hebben normaal gesproken geen toegang tot MIDI-apparaten. Onjuist gebruik kan schade veroorzaken of de beveiliging in gevaar brengen.
+webext-site-perms-description-gated-perms-serial =
+    Dit zijn apparaten zoals microcontrollers, 3D-printers en andere apparaten die verbinding maken via USB of seriële poorten.
+    
+    U kunt kiezen tot welke apparaten de website toegang heeft.
+    
+    Websites hebben normaal gesproken geen toegang tot seriële apparaten. Onjuist gebruik kan schade veroorzaken of de beveiliging in gevaar brengen.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -162,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = { $extension } toevoegen? Deze ex
 
 webext-site-perms-midi = MIDI-apparaten benaderen
 webext-site-perms-midi-sysex = MIDI-apparaten met SysEx-ondersteuning benaderen
+webext-site-perms-serial = Seriële apparaten benaderen
 
 ## Colorway theme migration
 
