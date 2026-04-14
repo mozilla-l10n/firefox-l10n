@@ -282,6 +282,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Canvas-eko datuen erauzketa blokeatuta daukazu webgune honetarako.
 urlbar-midi-blocked =
     .tooltiptext = MIDI sarbidea blokeatuta daukazu webgune honetarako.
+urlbar-serial-blocked =
+    .tooltiptext = Serieko atakaren sarbidea blokeatuta daukazu webgune honetarako.
 urlbar-install-blocked =
     .tooltiptext = Gehigarrien instalazioa blokeatuta daukazu webgune honetarako.
 # Variables
@@ -645,6 +647,11 @@ sharing-warning-proceed-to-tab =
     .label = Jarraitu fitxara
 sharing-warning-disable-for-session =
     .label = Desgaitu partekatze-babesa saio honetarako
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Hautatu serieko ataka:
+webserial-no-ports-available = Ez dago serieko atakarik erabilgarri
 
 ## DevTools F12 popup
 

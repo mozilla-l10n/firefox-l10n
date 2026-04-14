@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Gune hau zure MIDI (Musical Instrument Digital Interface) gailuetarako sarbidea eskatzen ari da. Gehigarri bat instalatuz gai daiteke gailuetarako sarbidea.
 site-permission-install-first-prompt-midi-message = Ezin da ziurtatu sarbidea segurua denik. Jarraitu soilik gunea konfiantzazkoa bada.
+site-permission-install-first-prompt-serial-header = Gune hau zure serieko gailuetarako sarbidea eskatzen ari da. Gailuetarako sarbidea gehigarri bat instalatuz gai daiteke.
+site-permission-install-first-prompt-serial-message = Ezin da ziurtatu sarbidea segurua denik. Jarraitu soilik gunea konfiantzazkoa bada.
 
 ##
 

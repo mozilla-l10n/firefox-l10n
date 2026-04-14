@@ -385,6 +385,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Gorde
     .accesskey = G
+tab-note-editor-button-delete =
+    .title = Ezabatu oharra
+    .aria-label = Ezabatu oharra
+    .accesskey = E
+tab-note-preview-edit-icon =
+    .alt = Editatu oharra
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Irakurri gehiago
 tab-note-panel-add-note-new-badge =
