@@ -645,6 +645,7 @@ newtab-widget-timer-reset =
     .title = صفّر
 newtab-widget-timer-menu-hide = أخفِ المؤقت
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
+newtab-daily-briefing-card-menu-dismiss = أهمِل
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = حُدِّث منذ { $minutes }د
@@ -665,4 +666,7 @@ newtab-promo-card-dismiss-button =
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
 
+newtab-activation-window-message-dismiss-button =
+    .title = أهمِل
+    .aria-label = أهمِل
 newtab-activation-window-message-customization-focus-message = اختر خلفية جديدة، وأضف اختصارات لمواقعك المفضلة، وابقَ على اطلاع دائم بالقصص التي تهمك.
