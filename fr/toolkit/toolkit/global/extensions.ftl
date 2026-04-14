@@ -134,7 +134,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } demande un
 
 webext-site-perms-header-with-gated-perms-midi = Ce module complémentaire donne accès aux périphériques MIDI à { $hostname }.
 webext-site-perms-header-with-gated-perms-midi-sysex = Ce module complémentaire donne accès aux périphériques MIDI (avec la prise en charge de SysEx) à { $hostname }.
-webext-site-perms-header-with-gated-perms-serial = Ce module complémentaire donne accès à { $hostname } vos périphériques série.
+webext-site-perms-header-with-gated-perms-serial = Ce module complémentaire donne accès à vos périphériques série à { $hostname }.
 
 ##
 
@@ -160,7 +160,7 @@ webext-site-perms-header-unsigned-with-perms = Ajouter { $extension } ? Cette e
 
 webext-site-perms-midi = Accéder aux appareils MIDI
 webext-site-perms-midi-sysex = Accéder aux appareils MIDI prenant en charge SysEx
-webext-site-perms-serial = Accéder aux appareils série
+webext-site-perms-serial = Accéder aux périphériques série
 
 ## Colorway theme migration
 

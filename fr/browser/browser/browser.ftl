@@ -655,7 +655,6 @@ sharing-warning-disable-for-session =
 
 ## WebSerial "select a port" popup
 
-webserial-select-port-label = Sélectionner un port série :
 webserial-no-ports-available = Aucun port série disponible
 
 ## DevTools F12 popup
