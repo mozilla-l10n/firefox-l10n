@@ -120,6 +120,10 @@ sidebar-history-context-menu-delete-pages =
 
 ## Labels for sidebar bookmarks context menu items
 
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Рэдагаваць закладку…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Выдаліць закладку
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Выдаліць
 

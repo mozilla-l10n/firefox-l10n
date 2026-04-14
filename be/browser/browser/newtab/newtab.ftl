@@ -146,6 +146,9 @@ newtab-menu-report = Паведаміць
 newtab-menu-section-block = Блакаваць
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Адпісацца
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Адпісацца ад тэмы
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -317,6 +320,8 @@ newtab-custom-shortcuts-toggle =
     .description = Сайты, якія вы захоўваеце або наведваеце
 newtab-custom-shortcuts-nova =
     .label = Цэтлікі
+newtab-custom-row-description =
+    .description = Колькасць радкоў
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -522,6 +527,9 @@ newtab-weather-opt-in-yes =
     .label = Так
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Нью-Ёрк
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Найвышэйшая
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =

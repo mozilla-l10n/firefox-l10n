@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Гэты сайт запытвае доступ да вашых прылад MIDI (лічбавы інтэрфейс музычных інструментаў). Доступ да прылад можна ўключыць, усталяваўшы дадатак.
 site-permission-install-first-prompt-midi-message = Бяспека гэтага доступу не гарантуецца. Працягвайце, толькі калі давяраеце гэтаму сайту.
+site-permission-install-first-prompt-serial-header = Гэты сайт запытвае доступ да вашых паслядоўных прылад. Доступ да прылад можна ўключыць, усталяваўшы дадатак.
+site-permission-install-first-prompt-serial-message = Бяспека гэтага доступу не гарантуецца. Працягвайце, толькі калі давяраеце гэтаму сайту.
 
 ##
 
