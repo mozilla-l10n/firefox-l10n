@@ -118,6 +118,11 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Нест кардани саҳифаҳо аз таърих
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Нест кардан
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +179,16 @@ sidebar-menu-syncedtabs-header =
     .heading = Варақаҳо аз дастгоҳҳои дигар
 sidebar-menu-cpm-header =
     .heading = Ниҳонвожаҳо
+sidebar-menu-bookmarks-header =
+    .heading = Хатбаракҳо
 sidebar-panel-header-close-button =
     .tooltiptext = Пӯшидан
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Менюи хатбаракҳо
+sidebar-bookmarks-folder-other = Хатбаракҳои дигар
+sidebar-bookmarks-folder-mobile = Хатбаракҳои мобилӣ
 
 ## Titles for sidebar menu panels.
 

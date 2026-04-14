@@ -1625,7 +1625,7 @@ history-header2 =
 history-group =
     .label = Таърих
 history-remember-option-all2 =
-    .label = Таърих дар хотир дошта шавад
+    .label = Дар хотир доштани таърих
 
 ## Privacy Section - Site Data
 
