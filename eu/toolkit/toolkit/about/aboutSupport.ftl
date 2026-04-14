@@ -383,7 +383,7 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 # Variables
 # $fissionWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
-fission-windows = { $totalWindows }/{ $fissionWindows }
+fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-experiment-control = Esperimentuak desgaituta
 fission-status-experiment-treatment = Esperimentuak gaituta
 fission-status-disabled-by-e10s-env = Inguruneak desgaituta

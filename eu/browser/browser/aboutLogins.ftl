@@ -54,8 +54,8 @@ login-list-count =
 #   $total (number) - Total number of logins
 login-list-filtered-count =
     { $total ->
-        [one] { $total } / { $count } saio-hasiera
-       *[other] { $total } / { $count } saio-hasiera
+        [one] { $count } / { $total } saio-hasiera
+       *[other] { $count } / { $total } saio-hasiera
     }
 # Variables
 #   $count (number) - Number of logins
@@ -69,8 +69,8 @@ login-list-count2 =
 #   $total (number) - Total number of logins
 login-list-filtered-count2 =
     { $total ->
-        [one] { $total } / { $count } pasahitz
-       *[other] { $total } / { $count } pasahitz
+        [one] { $count } / { $total } pasahitz
+       *[other] { $count } / { $total } pasahitz
     }
 login-list-sort-label-text = Ordenatze-irizpidea:
 login-list-name-option = Izena (A-Z)

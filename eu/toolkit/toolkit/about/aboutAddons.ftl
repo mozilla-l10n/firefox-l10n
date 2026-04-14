@@ -362,7 +362,7 @@ install-postponed-button = Eguneratu orain
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
-    .title = Puntuazioa: 5/{ NUMBER($rating, maximumFractionDigits: 1) }
+    .title = Puntuazioa: { NUMBER($rating, maximumFractionDigits: 1) }/5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on

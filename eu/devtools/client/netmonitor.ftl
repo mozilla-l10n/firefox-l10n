@@ -29,7 +29,7 @@ network-menu-summary-tooltip-requests-count =
 # Variables:
 #   $formattedContentSize (String): The formatted content size.
 #   $formattedTransferredSize (String): The formatted transferred size.
-network-menu-summary-transferred = { $formattedTransferredSize } / { $formattedContentSize } transferituta
+network-menu-summary-transferred = { $formattedContentSize } / { $formattedTransferredSize } transferituta
 network-menu-summary-tooltip-transferred =
     .title = Eskaera guztien tamaina/transferitutako tamaina
 # This label is displayed in the network table footer providing the

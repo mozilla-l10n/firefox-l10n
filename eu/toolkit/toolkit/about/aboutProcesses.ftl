@@ -99,8 +99,8 @@ about-processes-with-coop-coep-process-private = { $origin } — Pribatua ({ $pi
 #                   Can be an empty string if the process is idle.
 about-processes-active-threads =
     { $active ->
-        [one] { $number }/{ $active } hari aktibo: { $list }
-       *[other] { $number }/{ $active } hari aktibo: { $list }
+        [one] { $active }/{ $number } hari aktibo: { $list }
+       *[other] { $active }/{ $number } hari aktibo: { $list }
     }
 # Single-line summary of threads (idle process)
 # Variables:

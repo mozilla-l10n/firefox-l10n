@@ -52,8 +52,8 @@ findbar-entire-word-status =
 findbar-found-matches =
     .value =
         { $total ->
-            [one] { $total }/{ $current }. bat-etortzea
-           *[other] { $total }/{ $current }. bat-etortzea
+            [one] { $current }/{ $total } bat-etortzea
+           *[other] { $current }/{ $total } bat-etortzea
         }
 # Variables:
 #   $limit (Number): Total count of matches allowed before counting stops

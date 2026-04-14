@@ -21,7 +21,7 @@ pdfjs-of-pages = / { $pagesCount }
 # Variables:
 #   $pageNumber (Number) - the currently visible page
 #   $pagesCount (Number) - the total number of pages in the document
-pdfjs-page-of-pages = { $pagesCount }/{ $pageNumber }
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Urrundu zooma
 pdfjs-zoom-out-button-label = Urrundu zooma
@@ -213,7 +213,7 @@ pdfjs-thumb-page-checkbox =
 #   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
-    .title = { $total } / { $page }. orria
+    .title = { $page } / { $total } orria
 
 ## Find panel button title and messages
 
@@ -232,14 +232,6 @@ pdfjs-find-match-diacritics-checkbox-label = Bereizi diakritikoak
 pdfjs-find-entire-word-checkbox-label = Hitz osoak
 pdfjs-find-reached-top = Dokumentuaren hasierara heldu da, bukaeratik jarraitzen
 pdfjs-find-reached-bottom = Dokumentuaren bukaerara heldu da, hasieratik jarraitzen
-# Variables:
-#   $current (Number) - the index of the currently active find result
-#   $total (Number) - the total number of matches in the document
-pdfjs-find-match-count =
-    { $total ->
-        [one] { $total }/{ $current }. bat-etortzea
-       *[other] { $total }/{ $current }. bat-etortzea
-    }
 # Variables:
 #   $limit (Number) - the maximum number of matches
 pdfjs-find-match-count-limit =

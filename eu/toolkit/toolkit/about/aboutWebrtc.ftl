@@ -129,7 +129,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (itxita)
 ## Variables:
 ##  $codecs - a list of media codecs
 
-about-webrtc-short-send-receive-direction = Bidali / Jaso:{ $codecs }
+about-webrtc-short-send-receive-direction = Bidali / Jaso: { $codecs }
 about-webrtc-short-send-direction = Bidali: { $codecs }
 about-webrtc-short-receive-direction = Jaso: { $codecs }
 

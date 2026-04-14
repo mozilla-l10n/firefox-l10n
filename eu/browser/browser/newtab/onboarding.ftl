@@ -43,7 +43,7 @@ mr1-return-to-amo-add-extension-label = Gehitu { $addon-name }
 #   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
-    .aria-label = Aurrerapena: { $total } / { $current }
+    .aria-label = Aurrerapena: { $current } / { $total }
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Desgaitu animazioak
 # String for the Firefox Accounts button

@@ -148,7 +148,7 @@ monitor-breaches-resolved-description = Zure helbide elektronikoa datu-urratze b
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-       *[other] { $numBreaches } / { $numBreachesResolved } datu-urratze ebatzitako gisa markatu dira
+       *[other] { $numBreachesResolved } / { $numBreaches } datu-urratze ebatzitako gisa markatu dira
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
