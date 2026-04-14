@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпе
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
+ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
 ipprotection-feature-introduction-button-primary = Далей
 ipprotection-feature-introduction-button-secondary-not-now = Не цяпер
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, дзякуй
@@ -40,6 +41,7 @@ ipprotection-site-settings-callout-button = Зразумела
 ## Panel
 
 unauthenticated-vpn-title = Паспрабуйце ўбудаваны VPN ад { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Схавайце сваё месцазнаходжанне</a> ў часе аглядання ў { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Хавайце сваё месцазнаходжанне ў часе аглядання ў { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -93,6 +95,7 @@ ipprotection-connection-status-generic-error-try-again = Калі ласка, п
 ipprotection-connection-status-network-error-title = Праверце падлучэнне да Інтэрнэту
 ipprotection-connection-status-network-error-description = Падключыцеся да Інтэрнэту, а затым паспрабуйце ўключыць VPN.
 ipprotection-connection-status-blocked-error-title = VPN недаступны
+ipprotection-connection-status-blocked-error-description = Мясцовыя законы забараняюць нам прадстаўляць паслугі VPN у гэтым рэгіёне. <a data-l10n-name="learn-more-link">Даведацца больш</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
