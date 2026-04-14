@@ -10,3 +10,4 @@ default-browser-notification-body-text = Il tuo browser predefinito è stato cam
 default-browser-notification-yes-button-text = Sì
 default-browser-notification-privacy-no-button-text = No grazie
 default-browser-notification-no-button-text = No
+
