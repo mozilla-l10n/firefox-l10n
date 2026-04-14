@@ -68,6 +68,13 @@ about-processes-web-isolated-property-jit-disabled = «JIT» ғайрифаъо�
 
 ## Isolated process names
 ## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
+
+## Isolated process names
+## Variables:
 ##    $pid (String) The process id of this process, assigned by the OS.
 ##    $origin (String) The domain name for this process.
 

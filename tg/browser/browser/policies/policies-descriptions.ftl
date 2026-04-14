@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Сиёсатҳоеро, ки «WebExtensions» метавонад тавассути «chrome.storage.managed» дастрасӣ пайдо кунад, танзим мекунад.
+policy-AIControls = Танзимоти унсурҳои идоракунии зеҳни сунъӣ (AI).
 policy-AllowedDomainsForApps = Доменҳоеро муайян мекунад, ки барои пайдо кардани дастрасӣ ба «Google Workspace» иҷозат доранд.
 policy-AllowFileSelectionDialogs = Иҷозат додани равзанаҳои гуфтугӯ барои интихоби файлҳо.
 policy-AppAutoUpdate = Навсозии худкори барномаро фаъол ё ғайрифаъол мекунад.

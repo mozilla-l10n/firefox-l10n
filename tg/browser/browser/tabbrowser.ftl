@@ -385,6 +385,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Нигоҳ доштан
     .accesskey = г
+tab-note-editor-button-delete =
+    .title = Нест кардани тавзеҳ
+    .aria-label = Нест кардани тавзеҳ
+    .accesskey = Н
+tab-note-preview-edit-icon =
+    .alt = Таҳрир кардани тавзеҳ
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Бештар хондан
 tab-note-panel-add-note-new-badge =
@@ -413,6 +419,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Ҷудо кардани намоиши тақсимшуда
     .accesskey = Ҷ
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Баръакс кардани варақаҳо
+    .accesskey = Б
 tab-context-badge-new = Нав
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view

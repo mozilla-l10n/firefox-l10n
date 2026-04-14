@@ -21,8 +21,8 @@ about-translations-policy-disabled-info-message =
     .message = 이는 관리자가 설정한 정책입니다.
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
-    .heading = 텍스트를 번역하려면 이 기능 차단을 해제하세요
-    .message = 이 기능을 차단하기 위해 AI 제어를 업데이트한 것 같습니다. 언제든지 차단을 해제하고 사용해 보세요.
+    .heading = 텍스트를 번역하려면, 이 기능의 차단을 해제하세요
+    .message = AI 제어 설정을 변경하여 이 기능을 차단 한 것 같습니다. 언제든지 차단을 해제하면, 이 기능을 사용할 수 있습니다.
 about-translations-feature-blocked-unblock-button = 차단 해제
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =

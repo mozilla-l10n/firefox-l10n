@@ -137,6 +137,10 @@ tab-context-send-to-device =
            *[other] Фиристодани { $tabCount } варақа ба дастгоҳ
         }
     .accesskey = Ф
+tab-context-send-to-mobile-connect-phone =
+    .label = Телефони худро пайваст кунед
+tab-context-send-to-mobile-device-missing =
+    .label = Дастгоҳи худро намебинед?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

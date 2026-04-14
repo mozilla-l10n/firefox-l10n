@@ -705,6 +705,7 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Рӯйхати нав
 newtab-widget-section-title = Виҷетҳо
 newtab-widget-menu-hide = Пинҳон кардани виҷет
+newtab-widget-menu-change-size = Иваз кардани андоза
 newtab-widget-size-small = Хурд
 newtab-widget-size-medium = Миёна
 newtab-widget-size-large = Калон
