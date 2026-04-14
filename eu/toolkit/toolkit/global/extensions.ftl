@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } gehigarria
 
 webext-site-perms-header-with-gated-perms-midi = Gehigarri honek { $hostname } guneari zure MIDI gailuetarako sarbidea ematen dio.
 webext-site-perms-header-with-gated-perms-midi-sysex = Gehigarri honek { $hostname } guneari zure MIDI gailuetarako sarbidea ematen dio (SysEx euskarriarekin).
+webext-site-perms-header-with-gated-perms-serial = Gehigarri honek { $hostname } guneari serieko zure gailuetarako sarbidea ematen dio.
 
 ##
 
@@ -148,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Hauek oro har entxufatzen diren gailuak dira, adib. audio sintetizadoreak, baina zure ordenagailuaren parte ere izan litezke.
     
     Webguneak orokorrean ez dute MIDI gailuetara sarbidea izateko baimenik. Erabilpen okerrak kalteak eragin litzake edo segurtasuna arriskuan jarri.
+webext-site-perms-description-gated-perms-serial =
+    Hauek USB edo serieko ataka bidez konektatzen diren mikrokontrolagailu, 3D inprimagailu edo bestelako gailuak dira.
+    
+    Webguneak atzitu ahal izango dituen gailuak aukeratu ahal izango dituzu.
+    
+    Webguneak oro har ez dute serieko gailurik atzitzeko baimenik. Erabilpen okerrak kalteak eragin edo segurtasuna arriskuan jar lezake.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -162,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = { $extension } gehitu? Hedapen ha
 
 webext-site-perms-midi = MIDI gailuak atzitzea
 webext-site-perms-midi-sysex = SysEx euskarria duten MIDI gailuak atzitzea
+webext-site-perms-serial = Serieko gailuak atzitzea
 
 ## Colorway theme migration
 
