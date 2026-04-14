@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Уладкаваць паліцу прылад…
+appmenu-abouttranslations =
+    .label = Перакласці…
 appmenu-developer-tools-subheader = Інструменты браўзера
 appmenu-developer-tools-extensions =
     .label = Пашырэнні для распрацоўшчыкаў
