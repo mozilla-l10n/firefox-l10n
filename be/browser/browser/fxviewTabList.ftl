@@ -78,3 +78,10 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Сцішыць картку
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Раз-цішыць картку
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync =
+    .label = Уключыць сінхранізацыю для адпраўкі картак
+fxviewtabrow-send-to-mobile-connect-phone =
+    .label = Падключыце свой тэлефон
+fxviewtabrow-send-to-mobile-device-missing =
+    .label = Не бачыце вашай прылады?

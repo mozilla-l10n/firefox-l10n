@@ -143,6 +143,23 @@ tab-context-send-to-device =
            *[many] Даслаць { $tabCount } картак на прыладу
         }
     .accesskey = р
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Адправіць на мабільны
+            [one] Даслаць { $tabCount } картку на мабільны
+            [few] Даслаць { $tabCount } карткі на мабільны
+           *[many] Даслаць { $tabCount } картак на мабільны
+        }
+    .accesskey = ь
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Уключыць сінхранізацыю для адпраўкі картак
+tab-context-send-to-mobile-connect-phone =
+    .label = Падключыце свой тэлефон
+tab-context-send-to-mobile-device-missing =
+    .label = Не бачыце вашай прылады?
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

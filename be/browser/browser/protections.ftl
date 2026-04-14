@@ -218,6 +218,16 @@ bar-tooltip-cryptominer =
             [few] { $count } майнеры крыптавалют ({ $percentage }%)
            *[many] { $count } майнераў крыптавалют ({ $percentage }%)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Меры аховы прыватнасці
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } заблакаваны на гэтым тыдні
+        [few] { $count } заблакавана на гэтым тыдні
+       *[many] { $count } заблакавана на гэтым тыдні
+    }
 # Variables:
 #   $count (Number) - Number of trackers blocked
 privacy-metrics-trackers =
@@ -234,3 +244,23 @@ privacy-metrics-fingerprinters =
         [few] { $count } збіральнікі лічбавых адбіткаў
        *[many] { $count } збіральнікаў лічбавых адбіткаў
     }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } кукі сачэння
+        [few] { $count } кукі сачэння
+       *[many] { $count } кукі сачэння
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } трэкер сацыяльных сетак
+        [few] { $count } трэкеры сацыяльных сетак
+       *[many] { $count } трэкераў сацыяльных сетак
+    }
+privacy-metrics-empty = На гэтым тыдні трэкеры не заблакаваныя. { -brand-short-name } ахоўвае вас у часе аглядання ад наступных пагроз.
+privacy-metrics-loading = Загрузка статыстыкі аховы…
+privacy-metrics-error = Не ўдалося загрузіць статыстыку аховы.
+privacy-metrics-private-window = { -brand-short-name } працягвае блакаваць трэкеры ў прыватных вокнах, але не вядзе ўлік таго, што было заблакавана.
