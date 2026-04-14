@@ -68,6 +68,9 @@ open-in-new-window-for-csp-or-xfo-error = Отворете ја страница
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = За да ја заштитите вашата безбедност, { $hostname } нема да дозволи { -brand-short-name } да ја прикажува страницата ако ја вгради друга страница. За да ја видите оваа страница, треба да ја отворите во нов прозорец.
+# Variables:
+#   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+fp-cert-error-code = Код на грешка: { $error }
 
 ## Messages used for certificate error titles
 

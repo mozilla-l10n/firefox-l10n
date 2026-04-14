@@ -190,16 +190,30 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } не може да креира безбедна врска со серверот на { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } не може да се поврзе со серверот на <strong>{ $hostname } </strong>
+fp-neterror-net-timeout-intro = Серверот на <strong>{ $hostname }</strong> одговара предолго.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> врати грешка.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Серверот на <strong>{ $hostname } </strong> врати грешка: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } не ја вчита оваа страница бидејќи се чини дека безбедносната конфигурација не се совпаѓа со претходната страница.
+fp-neterror-blocked-by-policy-intro = Вашата организација го блокираше пристапот до оваа страница или мрежно место.
 fp-neterror-http-auth-disabled-intro = Некој што се преправа дека е ова мрежно место би можел да се обиде да украде работи како што се вашето корисничко име, лозинка или е-пошта.
 fp-neterror-http-auth-disabled-secure-connection = Оваа страница бара безбедна врска и не можете да направите исклучок за да ја посетите.
 fp-neterror-why-did-this-happen = Зошто се случи ова?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Изгледа дека оваа страница користи стар софтвер со познати безбедносни проблеми.
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } не му верува на { $hostname } бидејќи врската не е безбедна.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Осигурајте се дека ја користите најновата верзија на { -brand-short-name }. Одете во Помош > За { -brand-short-name } во менито. Ако ја користите најновата верзија на { -brand-short-name }, проблемот најверојатно е во самото место.
 fp-neterror-offline-what-can-you-do-body = Обидете се да се поврзете на друг уред. Проверете го вашиот модем или рутер. Исклучете се и повторно поврзете се на Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Пробајте да го смените URL-то во HTTPS, но веројатно има проблем со самото место.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Понекогаш мрежните места поставуваат заштита за себе од несакани интеракции со други страници.
+fp-learn-more-about-https-connections = Дознајте повеќе за HTTPS врските
+fp-neterror-vpn-error-title = Не може да се направи врска со VPN
 fp-neterror-vpn-error-description = Обидете се повторно за неколку минути.
 fp-neterror-denied-port-access = Оваа адреса користи мрежна порта која нормално се користи за цели различни од прелистување. { -brand-short-name } го откажа барањето заради ваша безбедност.
