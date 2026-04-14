@@ -45,8 +45,21 @@ neterror-generic-error = Поради некоја причина { -brand-short
 neterror-load-error-try-again = Можеби местото е привремено недостапно или зафатено. Обидете се повторно по неколку секунди.
 neterror-load-error-connection = Ако не можете да вчитате никакви страници, проверете ја мрежната врска на вашиот компјутер.
 neterror-load-error-firewall = Ако вашиот компјутер или мрежа се заштитени со огнен ѕид или посредник, проверете дали { -brand-short-name } има дозвола да пристапи на Интернет.
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = Ако се обидувате да вчитате страница од локална мрежа, проверете дали на { -brand-short-name } му се доделени дозволи за локална мрежа во поставките за приватност и безбедност на macOS.
+neterror-http-error-page = Проверете дали правилно сте ја внеле адресата на мрежното место.
+neterror-http-empty-response = Проверете дали правилно сте ја внеле адресата на мрежното место и обидете се повторно за неколку моменти.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } врати празна страница.
+neterror-captive-portal = Мора да се најавите на оваа мрежа пред да можете да пристапите на интернет.
+# Variables:
+# $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
+neterror-dns-not-found-with-suggestion = Дали сакавте да го посетите <a data-l10n-name="website">{ $hostAndPath }</a>?
+neterror-dns-not-found-hint-header = <strong>Ако ја внесовте точната адреса, можете:</strong>
 neterror-dns-not-found-hint-try-again = Обидете се повторно подоцна
-neterror-dns-not-found-hint-check-network = Проверете ја вашата мрежна врска
+neterror-dns-not-found-hint-check-network = Проверете ја Вашата мрежна врска
+neterror-dns-not-found-hint-firewall = Проверете дали { -brand-short-name } има дозвола за пристап до мрежата (можеби сте поврзани, но зад заштитен ѕид)
 neterror-dns-not-found-offline-hint-modem = Проверете го вашиот модем или рутер.
 neterror-dns-not-found-offline-hint-reconnect = Исклучете се и повторно поврзете се на Wi-Fi.
 
