@@ -2397,7 +2397,7 @@ preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Tiu blokado signifas ke vi ne vidos novajn aŭ nunajn plibonigojn pri AI en { -brand-short-name } kaj ankaŭ ne ŝprucaĵojn pri ili. <a data-l10n-name="link">Pli da informo</a> pri kio estas inkluzivita kaj pri kiel administri tradiciajn maŝinlernajn trajtojn, kiel serĉajn sugestoj kaj rekomendojn.
 preferences-ai-controls-blocked-message =
-    .message = Nova kaj nunaj plibonigoj de AI estas norme blokitaj. Por malbloki specifan trajton uzu la regilojn malsupre.
+    .message = Novaj kaj nunaj plibonigoj de AI estas norme blokitaj. Por malbloki specifan trajton uzu la regilojn malsupre.
 preferences-ai-controls-on-device-group =
     .label = AI en la aparato mem
     .description = Tio ĉi uzas etajn modelojn de AI, kiuj estos elŝutitaj al via aparato se vi uzas tiun ĉi trajton. Tio helpas protekti vian privatecon.
