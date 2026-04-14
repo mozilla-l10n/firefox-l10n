@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = L’orologio del disposit
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Il proprietario di { $hostname } non ha configurato il sito correttamente e non è possibile creare una connessione sicura.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = L’ora riportata dall’orologio del computer è { DATETIME($now, dateStyle: "medium") }, questo impedisce a { -brand-short-name } di connettersi in modo sicuro. Per visitare <strong>{ $hostname }</strong> aggiornare l’orologio del computer nelle impostazioni del sistema, impostando data, ora e fuso orario correnti, poi riprovare a caricare la pagina.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Aggiorna l’orologio del computer nelle impostazioni di sistema alla data, all’ora e al fuso orario correnti. Il computer ritiene che sia { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

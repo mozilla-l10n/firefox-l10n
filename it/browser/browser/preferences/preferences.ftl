@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Motore di ricerca predefinito
 search-default-engine =
     .aria-label = Motore di ricerca predefinito
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Ricerca
 
 ## Containers Section
 
