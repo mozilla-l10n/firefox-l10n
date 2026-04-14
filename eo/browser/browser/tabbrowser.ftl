@@ -383,6 +383,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Konservi
     .accesskey = K
+tab-note-editor-button-delete =
+    .title = Forigi noton
+    .aria-label = Forigi noton
+    .accesskey = n
+tab-note-preview-edit-icon =
+    .alt = Modifi noton
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Pli da informo
 tab-note-panel-add-note-new-badge =

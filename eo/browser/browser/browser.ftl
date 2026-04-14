@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Decidi ĉu vi povas ricevi sciigojn el la retejo
 urlbar-midi-notification-anchor =
     .tooltiptext = Malfermi panelon MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Malfermi panelon de seria konekto
 urlbar-eme-notification-anchor =
     .tooltiptext = Administri uzon de DRM programaro
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Vi blokis la eltiron de datumoj el kanvaso por tiu ĉi retejo.
 urlbar-midi-blocked =
     .tooltiptext = Vi blokis la aliron MIDI por tiu ĉi retejo.
+urlbar-serial-blocked =
+    .tooltiptext = Vi blokis la aliron al la seria konekto por tiu ĉi retejo
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
 # Variables
@@ -645,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = Daŭrigi al langeto
 sharing-warning-disable-for-session =
     .label = Malaktivigi la protekton de divido por tiu ĉi seanco
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Elekti serian konekton:
+webserial-no-ports-available = Neniu seria konekto disponeblas
 
 ## DevTools F12 popup
 

@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Tiu ĉi retejo petas aliron al viaj aparatoj MIDI (Musical Instrument Digital Interface). Vi povas aktivigi tiun aliron per instalo de aldonaĵo.
 site-permission-install-first-prompt-midi-message = Tiu ĉi aliro ne estas nepre sekura. Daŭrigu nur se vi fidas tiun ĉi retejon.
+site-permission-install-first-prompt-serial-header = Tiu ĉi retejo petas aliron al viaj seriaj aparatoj. Aliro al la aparato povas esti aktivigita per instalo de aldonaĵo.
+site-permission-install-first-prompt-serial-message = Tiu ĉi aliro ne estas nepre sekura. Daŭrigu nur se vi fidas tiun ĉi retejon.
 
 ##
 

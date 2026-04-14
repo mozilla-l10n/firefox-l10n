@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } petas aldo
 
 webext-site-perms-header-with-gated-perms-midi = Tiu ĉi aldonaĵo rajtigas { $hostname } aliri viajn aparatojn MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Tiu ĉi aldonaĵo rajtigas { $hostname } aliri viajn aparatojn MIDI (kun subteno de SysEx).
+webext-site-perms-header-with-gated-perms-serial = Tiu ĉi aldonaĵo rajtigas { $hostname } aliri viajn seriajn aparatojn.
 
 ##
 
