@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Określ, czy witryna ma prawo wyświetlać powiadomienia
 urlbar-midi-notification-anchor =
     .tooltiptext = Otwórz panel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Wyświetl urządzenia szeregowe
 urlbar-eme-notification-anchor =
     .tooltiptext = Zarządzaj ustawieniami DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Odczytywanie danych canvas przez tę witrynę zostało zablokowane
 urlbar-midi-blocked =
     .tooltiptext = Dostęp do urządzeń MIDI dla tej witryny został zablokowany
+urlbar-serial-blocked =
+    .tooltiptext = Dostęp do portu szeregowego dla tej witryny został zablokowany
 urlbar-install-blocked =
     .tooltiptext = Instalacja dodatków przez tę witrynę została zablokowana
 # Variables
