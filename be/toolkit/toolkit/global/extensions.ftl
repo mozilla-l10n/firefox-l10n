@@ -141,6 +141,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } запыт
 
 webext-site-perms-header-with-gated-perms-midi = Гэты дадатак дае { $hostname } доступ да вашых MIDI-прылад.
 webext-site-perms-header-with-gated-perms-midi-sysex = Гэты дадатак дае { $hostname } доступ да вашых MIDI-прылад (з падтрымкай SysEx).
+webext-site-perms-header-with-gated-perms-serial = Гэты дадатак дае { $hostname } доступ да вашых паслядоўных прылад.
 
 ##
 
@@ -151,6 +152,12 @@ webext-site-perms-description-gated-perms-midi =
     Звычайна гэта ўстаўныя прылады, такія як аўдыясінтэзатары, але яны таксама могуць быць убудаваны ў ваш камп'ютар.
     
     Вэб-сайтам звычайна не дазволены доступ да MIDI-прылад. Няправільнае выкарыстанне можа прывесці да пашкоджання або парушыць бяспеку.
+webext-site-perms-description-gated-perms-serial =
+    Гэта такія прылады, як мікракантролеры, 3D-прынтары і іншыя прылады, якія падключаюцца праз USB або паслядоўныя парты.
+    
+    Вы зможаце выбраць, да якіх прылад вэб-сайт можа атрымаць доступ.
+    
+    Вэб-сайтам звычайна не дазваляецца атрымліваць доступ да паслядоўных прылад. Няправільнае выкарыстанне можа прывесці да пашкоджання або парушэння бяспекі.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -165,6 +172,7 @@ webext-site-perms-header-unsigned-with-perms = Дадаць { $extension }? Гэ
 
 webext-site-perms-midi = Доступ да прылад MIDI
 webext-site-perms-midi-sysex = Доступ да прылад MIDI з падтрымкаю SysEx
+webext-site-perms-serial = Доступ да паслядоўных партоў
 
 ## Colorway theme migration
 
