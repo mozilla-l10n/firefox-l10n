@@ -94,6 +94,9 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } н
 
 neterror-file-not-found-filename = Упэўніцеся, што няма ніякай памылкі ў назве файла, такой, як прапушчаная/лішняя літара або вялікая літара замест малой, або інакшай.
 neterror-file-not-found-moved = Упэўніцеся, што файл не быў перайменаваны, выдалены або перамешчаны.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } не можа знайсці файл па адрасе <strong>{ $path }</strong>. Ён альбо не існуе, альбо шлях няправільны.
 neterror-access-denied = Магчыма, што ён быў выдалены або перамешчаны, або дазволы на файл не даюць атрымаць да яго доступ.
 neterror-unknown-protocol = Магчыма, вам спатрэбіцца ўсталяваць іншую праграму, каб адкрыць гэты адрас.
 neterror-redirect-loop = Гэтая праблема часам вынікае з адключэння або адмовы прыняць кукі.
