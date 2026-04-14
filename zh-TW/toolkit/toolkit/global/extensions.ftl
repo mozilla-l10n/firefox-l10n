@@ -137,6 +137,12 @@ webext-site-perms-description-gated-perms-midi =
     通常是連結音效合成器等外接裝置，但也可能是電腦中內建的裝置。
     
     一般來說不該允許網站存取 MIDI 裝置，使用不當的話可能會造成裝置損壞，或有安全性風險。
+webext-site-perms-description-gated-perms-serial =
+    這是指諸如微控制器、3D 印表機，或其他透過 USB 或序列埠連接的裝置。
+    
+    您將可以選擇網站可以存取哪些裝置。
+    
+    一般來說，不應允許網站存取序列埠裝置。不正確使用可能會造成損畫，或影響安全性。
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

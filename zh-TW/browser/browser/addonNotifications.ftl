@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = 此網站要求存取您的 MIDI（樂器數位介面）裝置，安裝附加元件後即可存取裝置。
 site-permission-install-first-prompt-midi-message = 這個存取請求不一定是安全的，請只在您信任此網站時才繼續。
+site-permission-install-first-prompt-serial-header = 此網站請求存取您的序列埠裝置。安裝附加元件後即可授權網站進行存取。
+site-permission-install-first-prompt-serial-message = 這個存取請求不一定是安全的，請只在您信任此網站時才繼續。
 
 ##
 

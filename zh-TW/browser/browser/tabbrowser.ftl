@@ -351,6 +351,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = 儲存
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = 刪除註記
+    .aria-label = 刪除註記
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = 編輯註記
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = 閱讀更多
 tab-note-panel-add-note-new-badge =

@@ -155,16 +155,16 @@ about-processes-utility-actor-pkcs11-module = 安全性模組輔助器
 
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
-    .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+    .title = 總 CPU 時間：{ NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = （測量中）
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
-    .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+    .title = 總 CPU 時間：{ NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = 閒置
-    .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+    .title = 總 CPU 時間：{ NUMBER($total, maximumFractionDigits: 0) } { $unit }
 
 ## Displaying Memory (total and delta)
 ## Variables:

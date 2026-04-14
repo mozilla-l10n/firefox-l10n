@@ -62,7 +62,7 @@ about-processes-unknown-process = Otro: { $type } ({ $pid })
 
 ## Properties of isolated web processes
 
-about-processes-web-isolated-property-private = privado
+about-processes-web-isolated-property-private = privada
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT deshabilitado
 about-processes-web-isolated-property-with-coop-coep = cross-origin aislado
