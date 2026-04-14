@@ -97,7 +97,11 @@ neterror-file-not-found-moved = Проверете дали датотеката
 # Variables:
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } не може да ја најде датотеката на <strong>{ $path }</strong>. Или не постои или патеката не е точна.
+neterror-file-not-found-what-can-you-do = Ако ја напишавте оваа адреса рачно, проверете дали има грешки во пишувањето големи букви или грешки во името или патеката на датотеката. Ако следевте зачуван обележувач или врска, тогаш датотеката можеби е преместена, преименувана или избришана откако била снимена. Обидете се да ја лоцирате користејќи го вашиот менаџер на датотеки или неодамнешно пребарување.
+neterror-access-denied = Можеби е отстрането, преместено или дозволите го спречуваат пристапот.
+neterror-unknown-protocol = Можеби ќе треба да инсталирате друг софтвер за да ја отворите оваа адреса.
 neterror-redirect-loop = Овој проблем некогаш може да биде предизвикан од оневозможување или одбивање на колачиња.
+neterror-unknown-socket-type-client-config = Ова може да се должи на грешка во конфигурацијата на Вашиот клиент.
 neterror-unknown-socket-type-psm-installed = Проверете дали на вашиот систем е инсталиран Менаџерот за лична безбедност.
 neterror-unknown-socket-type-server-config = Ова може да се случува поради нестандардна конфигурација на серверот.
 neterror-not-cached-intro = Бараниот документ не е достапен во кешот на { -brand-short-name }.
@@ -111,8 +115,11 @@ neterror-proxy-connect-failure-settings = Проверете дали поста
 neterror-proxy-connect-failure-contact-admin = Контактирајте со вашиот мрежен администратор за да проверите дали серверот посредник работи.
 neterror-content-encoding-error = Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.
 neterror-unsafe-content-type = Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.
+neterror-nss-failure-not-verified = Страницата што се обидувате да ја видите не може да се прикаже бидејќи автентичноста на примените податоци не може да се потврди.
+neterror-nss-failure-contact-website = Контактирајте со сопствениците на мрежното место за да ги информирате за овој проблем.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-vpn-error-description = Обидете се повторно за неколку минути.
 fp-neterror-denied-port-access = Оваа адреса користи мрежна порта која нормално се користи за цели различни од прелистување. { -brand-short-name } го откажа барањето заради ваша безбедност.
