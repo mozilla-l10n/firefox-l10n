@@ -115,8 +115,52 @@ neterror-proxy-connect-failure-settings = Проверете дали поста
 neterror-proxy-connect-failure-contact-admin = Контактирајте со вашиот мрежен администратор за да проверите дали серверот посредник работи.
 neterror-content-encoding-error = Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.
 neterror-unsafe-content-type = Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } не му верува на { $hostname } бидејќи врската не е безбедна. Обидете се да го промените URL-то во HTTPS.
 neterror-nss-failure-not-verified = Страницата што се обидувате да ја видите не може да се прикаже бидејќи автентичноста на примените податоци не може да се потврди.
 neterror-nss-failure-contact-website = Контактирајте со сопствениците на мрежното место за да ги информирате за овој проблем.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-intro = { -brand-short-name } откри потенцијална безбедносна закана и не продолжи кон <b>{ $hostname } </b>. Ако го посетите оваа место, напаѓачите би можеле да се обидат да украдат информации како што се вашите лозинки, е-пошта или детали од кредитна картичка.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-sts-intro = { -brand-short-name } откри потенцијална безбедносна закана и не продолжи да <b>{ $hostname } </b> бидејќи ова мрежно место бара безбедна врска.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+certerror-expired-cert-intro = { -brand-short-name } откри проблем и не продолжи да <b>{ $hostname } </b>. Мрежното место е или погрешно конфигурирано или часовникот на Вашиот компјутер е поставен на погрешно време.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
+certerror-mitm = <b>{ $hostname }</b> најверојатно е безбедно место, но со него не може да се воспостави безбедна врска. Овој проблем е предизвикан од <b>{ $mitm }</b>, што е или софтвер на Вашиот компјутер или Вашата мрежа.
+neterror-corrupted-content-intro = Страницата што се обидувате да ја видите не може да се прикаже бидејќи е откриена грешка во преносот на податоци.
+neterror-corrupted-content-contact-website = Контактирајте со сопствениците на мрежното место за да ги информирате за овој проблем.
+# Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
+neterror-sslv3-used = Напредни информации: SSL_ERROR_UNSUPPORTED_VERSION
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> користи безбедносна технологија која е застарена и ранлива на напади. Напаѓачот лесно може да открие информации за кои сте мислеле дека се безбедни. Администраторот на мрежното место треба  да го поправи серверот пред да можете да ја посетите страницата.
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = Код за грешка: NS_ERROR_NET_INADEQUATE_SECURITY
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+neterror-clock-skew-error = Вашиот компјутер мисли дека е { DATETIME($now, dateStyle: "medium") }, што го спречува { -brand-short-name } безбедно да се поврзе. За да ја посетите <b>{ $hostname } </b>, ажурирајте го часовникот на компјутерот во системските поставки на тековниот датум, време и временска зона, а потоа освежете го <b>{ $hostname } </b>.
+neterror-network-protocol-error-intro = Страницата што се обидувате да ја видите не може да се прикаже бидејќи е откриена грешка во мрежниот протокол.
+neterror-network-protocol-error-contact-website = Контактирајте со сопствениците на мрежното место за да ги информирате за овој проблем.
+certerror-expired-cert-second-para = Веројатно сертификатот на мрежното место е истечен, што го спречува { -brand-short-name } безбедно да се поврзе. Ако ја посетите ова место, напаѓачите би можеле да се обидат да украдат информации како што се вашите лозинки, е-пошта или детали од кредитна картичка.
+certerror-expired-cert-sts-second-para = Веројатно сертификатот на мрежното место е истечен, што го спречува { -brand-short-name } безбедно да се поврзе.
+certerror-what-can-you-do-about-it-title = Што можете да направите во врска со тоа?
+certerror-unknown-issuer-what-can-you-do-about-it-website = Проблемот најверојатно е до мрежното место и нема ништо што можете да направите за да го решите.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Доколку сте на корпоративна мрежа или користите антивирусен софтвер, можете да се обратите до тимовите за поддршка за помош. Исто така, можете да го известите администраторот на мрежното место за проблемот.
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+# $now (Date) - The current datetime, to be formatted as a date
+certerror-expired-cert-what-can-you-do-about-it-clock = Часовникот на вашиот компјутер е поставен на { DATETIME($now, dateStyle: "medium") }. Проверете дали Вашиот компјутер е поставен на точниот датум, време и временска зона во системските поставки, а потоа освежете го <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-contact-website = Ако Вашиот часовник е веќе поставен на точното време, тогаш мрежното место веројатно е погрешно конфигурирано и нема ништо што можете да направите за да го решите проблемот. Можете да го известите администраторот на мрежното место за овој проблем.
+certerror-bad-cert-domain-what-can-you-do-about-it = Проблемот најверојатно е до мрежното место и нема ништо што можете да направите за да го решите. Можете да го известите администраторот на мрежното место за овој проблем.
+certerror-mitm-what-can-you-do-about-it-antivirus = Ако вашиот антивирусен софтвер вклучува функција што скенира шифрирани врски (често наречена „веб скенирање“ или „https скенирање“), можете да ја оневозможите таа функција. Ако тоа не функционира, можете да го отстраните и повторно да го инсталирате антивирусниот софтвер.
+certerror-mitm-what-can-you-do-about-it-corporate = Ако сте на корпоративна мрежа, можете да контактирате со вашиот ИТ оддел.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
