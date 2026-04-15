@@ -581,7 +581,7 @@ pdfjs-editor-undo-bar-close-button-label = أغلق
 ## Add a signature dialog
 
 pdfjs-editor-add-signature-dialog-label = يتيح هذا النموذج للمستخدم إنشاء توقيع لإضافته إلى مستند PDF. ويمكن للمستخدم تحرير الاسم (الذي يعمل أيضًا كنص بديل)، وحفظ التوقيع بشكل اختياري للاستخدام المتكرر.
-pdfjs-editor-add-signature-dialog-title = أضِف توقيعا
+pdfjs-editor-add-signature-dialog-title = أضِف توقيعًا
 
 ## Tab names
 

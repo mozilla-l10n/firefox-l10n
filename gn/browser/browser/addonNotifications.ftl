@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Ko tenda oikese ne MIDI (Interfaz Digital de Instrumentos Musicales) mba’e’okápe. Pe mba’e’okápe jeike eguerekokuaa emohendávo pe tembiporu’i.
 site-permission-install-first-prompt-midi-message = Ndoje’ekuaái ndéve ko jeike hekorosãtaha. Eku’ejey ejeroviáramo ko tendáre.
+site-permission-install-first-prompt-serial-header = Ko tenda oikese ne mba’e’oka hysýivape. Pe ijeike ne mba’e’okaperã emyandykuaa emohenda rire peteĩ moĩmbaha.
+site-permission-install-first-prompt-serial-message = Ndoje’ekuaái ndéve ko jeike hekorosãtaha. Eku’ejey ejeroviáramo ko tenda rehe.
 
 ##
 
