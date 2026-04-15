@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Indicar si tu pote reciper notificationes del sito
 urlbar-midi-notification-anchor =
     .tooltiptext = Aperir le quadro MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Aperir pannello serial
 urlbar-eme-notification-anchor =
     .tooltiptext = Gerer le utilisation de software DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Tu ha blocate le extraction de datos de canevas pro iste sito web.
 urlbar-midi-blocked =
     .tooltiptext = Tu ha blocate le accesso MIDI pro iste sito web.
+urlbar-serial-blocked =
+    .tooltiptext = Tu ha blocate le accesso al porta serial pro iste sito web.
 urlbar-install-blocked =
     .tooltiptext = Tu ha blocate le accesso al installation de additivos pro iste sito web.
 # Variables
@@ -645,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = Procede al scheda
 sharing-warning-disable-for-session =
     .label = Disactivar le protection del compartimento pro iste session
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Selige un porta serial:
+webserial-no-ports-available = Necun porta serial disponibile
 
 ## DevTools F12 popup
 

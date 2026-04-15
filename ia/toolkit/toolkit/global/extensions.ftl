@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } requesta c
 
 webext-site-perms-header-with-gated-perms-midi = Iste additivo da a { $hostname } le accesso a tu apparatos MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Iste additivo da a { $hostname } le accesso a tu apparatos MIDI (con supporto SysEx).
+webext-site-perms-header-with-gated-perms-serial = Iste additivo da a { $hostname } accesso a tu dispositivos serial.
 
 ##
 
@@ -148,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Istos es usualmente dispositivos connexe como synthetisatores audio, ma poterea alsi esser integrate in tu computator.
     
     Al sitos web non es normalmente permittite acceder al dispositivos MIDI. Le uso improprie poterea causar damno o compromitter securitate.
+webext-site-perms-description-gated-perms-serial =
+    Illos es dispositivos como microcontrollores, impressores 3D, e altere dispositivos que se connecte via USB o portas serial.
+    
+    Tu potera a eliger a que dispositivos le sito web pote acceder.
+    
+    Al sitos web non es normalmente permittite acceder a dispositivos serial. Le uso improprie poterea causar damno o compromitter securitate.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -162,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = Adder { $extension }? Iste extens
 
 webext-site-perms-midi = Acceder al apparatos MIDI
 webext-site-perms-midi-sysex = Acceder al apparatos MIDI que supporta SysEx
+webext-site-perms-serial = Acceder a dispositivos serial
 
 ## Colorway theme migration
 

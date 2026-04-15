@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> қате қа
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> адресіндегі сервер қате туралы хабарлама жіберді: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } бұл бетті жүктемеді, себебі қауіпсіздік баптамасы алдыңғы бетке сәйкес келмейтін сияқты.
+fp-neterror-blocked-by-policy-intro = Сіздің ұйымыңыз бұл бет немесе веб-сайтқа қол жеткізуді бұғаттаған.
 fp-neterror-http-auth-disabled-intro = Сайттың атын жамылған біреулер сіздің пайдаланушы атыңызды, пароліңізді немесе электрондық поштаңызды ұрлауға әрекеттенуі мүмкін.
 fp-neterror-http-auth-disabled-secure-connection = Бұл сайт қауіпсіз қосылымды талап етеді, және оған кіру үшін сіз ерекше жағдай қоса алмайсыз.
 fp-neterror-why-did-this-happen = Бұл неліктен орын алды?
