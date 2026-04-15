@@ -122,7 +122,7 @@ about-processes-thread-name-and-id = { $name }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
-about-processes-tab-name = Tabo: { $name }
+about-processes-tab-name = Langeto: { $name }
 about-processes-preloaded-tab = Antaŭŝargita nova langeto
 # Single subframe
 # Variables:
