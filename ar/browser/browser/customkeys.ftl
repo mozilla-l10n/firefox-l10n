@@ -27,6 +27,7 @@ customkeys-dev-performance = الأداء
 customkeys-dev-storage = فاحص مساحة التخزين
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = الإتاحة
+customkeys-dev-profiler-toggle = ابدء/أوقف محلّل الأداء
 customkeys-category-navigation = تصفّح
 customkeys-nav-back = السابق
 customkeys-nav-forward = التالي

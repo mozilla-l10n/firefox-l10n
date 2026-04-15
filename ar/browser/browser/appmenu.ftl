@@ -170,6 +170,9 @@ profiler-popup-capture-shortcut =
         [macos] ⌃⇧2
        *[other] Ctrl+Shift+2
     }
+profiler-button-dropmarker =
+    .label = افتح لوحة محلّل الأداء
+    .tooltiptext = افتح لوحة محلّل الأداء
 
 ## Profiler presets
 ## They are shown in the popup's select box.
@@ -196,6 +199,7 @@ profiler-popup-presets-graphics-label =
 profiler-popup-presets-media-description2 = إعداد مسبق للتحرّي عن مشاكل الصوت والفيديو في { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = الوسائط
+profiler-popup-presets-ml-description = الإعداد المسبق لتشخيص أخطاء التعلُّم الآلي في { -brand-shorter-name }
 profiler-popup-presets-ml-label =
     .label = التعلم الآلي
 profiler-popup-presets-networking-description = إعداد مسبق للتحرّي عن مشاكل الشبكة في { -brand-shorter-name }.
