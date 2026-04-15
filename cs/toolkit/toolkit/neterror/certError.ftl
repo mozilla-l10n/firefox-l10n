@@ -88,7 +88,7 @@ fp-certerror-return-to-previous-page-recommended-button = Zpátky (doporučeno)
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } vás upozorňuje na tuto stránku, protože poskytnutý certifikát byl pro server { $hostname } zneplatněn a již není nadále důvěryhodný.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-revoked-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že je problém se samotným webem. Kontaktujte vlastníka webové stránky, zda na problému nepracuje.
+fp-certerror-revoked-what-can-you-do-body = Pravděpodobně nic, protože problém je zřejmě na straně samotného webu. Můžete se zeptat vlastníka webu, zda nepracuje na řešení tohoto problému.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
