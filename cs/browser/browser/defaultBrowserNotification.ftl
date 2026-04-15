@@ -67,30 +67,30 @@ default-browser-guidance-notification-title =
 default-browser-guidance-notification-body-instruction-win10 =
     { -brand-short-name.case-status ->
         [with-cases]
-            Krok 1: Přejděte do Nastavení > Výchozí aplikace
-            Krok 2: Přejděte dolů na „Webový prohlížeč“
+            Krok 1: Jděte do Nastavení > Výchozí aplikace
+            Krok 2: Sjeďte dolů k položce „Webový prohlížeč“
             Krok 3: Vyberte { -brand-short-name(case: "acc") }
        *[no-cases]
-            Krok 1: Přejděte do Nastavení > Výchozí aplikace
-            Krok 2: Přejděte dolů na „Webový prohlížeč“
+            Krok 1: Jděte do Nastavení > Výchozí aplikace
+            Krok 2: Sjeďte dolů k položce „Webový prohlížeč“
             Krok 3: Vyberte aplikaci { -brand-short-name }
     }
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win11 =
     { -brand-short-name.case-status ->
         [with-cases]
-            Krok 1: Přejděte do Nastavení > Výchozí aplikace
+            Krok 1: Jděte do Nastavení > Výchozí aplikace
             Krok 2: Vyberte { -brand-short-name(case: "acc") } a klepněte na „Nastavit jako výchozí“
        *[no-cases]
-            Krok 1: Přejděte do Nastavení > Výchozí aplikace
+            Krok 1: Jděte do Nastavení > Výchozí aplikace
             Krok 2: Vyberte aplikaci { -brand-short-name } a klepněte na „Nastavit jako výchozí“
     }
 default-browser-guidance-notification-info-page = Zobrazit
 default-browser-guidance-notification-dismiss = Hotovo
 default-browser-guidance-notification-v2-title =
     { -brand-short-name.case-status ->
-        [with-cases] Dokončete nastavení { -brand-short-name(case: "gen") } jako svého výchozího prohlížeče
-       *[no-cases] Dokončete nastavení aplikace { -brand-short-name } jako svého výchozího prohlížeče
+        [with-cases] Dokončete nastavování { -brand-short-name(case: "gen") } jako svého výchozího prohlížeče
+       *[no-cases] Dokončete nastavování aplikace { -brand-short-name } jako svého výchozího prohlížeče
     }
 default-browser-guidance-notification-v2-body =
     { -brand-short-name.case-status ->
@@ -99,6 +99,6 @@ default-browser-guidance-notification-v2-body =
     }
 default-browser-guidance-notification-v2-title-only =
     { -brand-short-name.case-status ->
-        [with-cases] V Nastavení dokončete nastavení { -brand-short-name(case: "gen") } jako výchozího prohlížeče
-       *[no-cases] V Nastavení dokončete nastavení aplikace { -brand-short-name } jako výchozího prohlížeče
+        [with-cases] V Nastavení dokončete nastavování { -brand-short-name(case: "gen") } jako výchozího prohlížeče
+       *[no-cases] V Nastavení dokončete nastavování aplikace { -brand-short-name } jako výchozího prohlížeče
     }
