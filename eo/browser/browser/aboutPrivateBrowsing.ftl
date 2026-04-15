@@ -4,7 +4,7 @@
 
 privatebrowsingpage-open-private-window-label = Malfermi privatan fenestron
     .accesskey = p
-about-private-browsing-search-placeholder = Serĉi en la teksaĵo
+about-private-browsing-search-placeholder = Serĉi en la reto
 about-private-browsing-info-title = Vi estas en privata fenestro
 about-private-browsing-search-btn =
     .title = Serĉi en la reto

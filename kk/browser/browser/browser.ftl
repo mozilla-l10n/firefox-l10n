@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Сайттан хабарламаларды ала аласыз ба, соны өзгертіңіз
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI панелін ашу
+urlbar-serial-notification-anchor =
+    .tooltiptext = Тізбекті панельді ашу
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM БҚ қолдануын басқару
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.
 urlbar-midi-blocked =
     .tooltiptext = Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.
+urlbar-serial-blocked =
+    .tooltiptext = Сіз тізбекті портты қолдануды бұл вебсайтқа блоктадыңыз.
 urlbar-install-blocked =
     .tooltiptext = Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.
 # Variables
@@ -645,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = Бетке өту
 sharing-warning-disable-for-session =
     .label = Бұл сессияда бөлісу қорғанысын сөндіру
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Тізбекті портты таңдаңыз:
+webserial-no-ports-available = Бірде-бір тізбекті порт қолжетімді емес
 
 ## DevTools F12 popup
 

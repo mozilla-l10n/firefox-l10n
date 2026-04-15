@@ -678,7 +678,7 @@ urlbar-placeholder-keyword-disabled =
 #  $name (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
 urlbar-placeholder-search-mode-web-2 =
-    .placeholder = Serĉi en la teksaĵo
+    .placeholder = Serĉi en la reto
     .aria-label = Serĉi per { $name }
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).

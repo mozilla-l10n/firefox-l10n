@@ -388,6 +388,10 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Сақтау
     .accesskey = С
+tab-note-editor-button-delete =
+    .title = Түсіндірмені өшіру
+    .aria-label = Түсіндірмені өшіру
+    .accesskey = ш
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Көбірек білу
 tab-note-panel-add-note-new-badge =
