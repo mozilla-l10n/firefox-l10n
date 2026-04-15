@@ -128,6 +128,10 @@ contextual-manager-passwords-radiogroup-label =
 contextual-manager-passwords-add-password-success-heading =
     .heading = أُضيفت كلمة سر لـ { $url }
 contextual-manager-passwords-add-password-success-button = اعرض
+# Variables
+#   $url (string) - The url associated with the existing login
+contextual-manager-passwords-password-already-exists-error-heading =
+    .heading = يوجد بالفعل اسم مستخدم وكلمة سر لـ { $url }
 contextual-manager-passwords-password-already-exists-error-button = انتقل إلى كلمة السر
 contextual-manager-passwords-update-password-success-heading =
     .heading = حُفظت كلمة السر
@@ -183,6 +187,8 @@ contextual-manager-passwords-edit-label =
     .label = حرّر كلمة السر
 contextual-manager-passwords-remove-label =
     .title = أزِل كلمة السر
+contextual-manager-passwords-origin-tooltip = أدخل بدقة العنوان الذي ستولِج من خلاله إلى هذا الموقع.
+contextual-manager-passwords-username-tooltip = أدخل اسم المستخدم أو عنوان البريد الإلكتروني أو رقم الحساب الذي تستخدمه للولوج.
 contextual-manager-passwords-password-tooltip-2 = أدخل كلمة السر للولوج إلى هذا الحساب.
 contextual-manager-passwords-password-tooltip = أدخل كلمة السر للولوج إلى هذا الحساب.
 

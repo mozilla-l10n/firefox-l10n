@@ -69,6 +69,9 @@ firefox-relay-and-fxa-popup-notification-second-sentence-control = أولا، ق
 
 firefox-relay-and-fxa-popup-notification-header-basic-info = منع البريد العشوائي باستخدام قناع البريد الإلكتروني المجاني
 firefox-relay-and-fxa-popup-notification-second-sentence-basic-info = أولا، قم بالتسجيل أو الولوج لحسابك لاستخدام قناع البريد الإلكتروني
+firefox-relay-and-fxa-opt-in-confirmation-enable-button-basic-info =
+    .label = سجّل
+    .accesskey = ج
 
 ## The "with-domain" variation of the Relay offer popup
 

@@ -19,7 +19,23 @@ backup-folder-name = Endurheimta { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Öryggisafrit { -brand-product-name }
+settings-data-backup-header2 =
+    .label = Öryggisafrita
+    .description = Verndaðu sjálfkrafa bókamerkin þin, vafurferil og fleiri gögn.
 settings-data-backup-header = Öryggisafrit
+settings-data-backup-toggle = Sýsla með öryggisafrit
+settings-data-backup-toggle-on2 =
+    .label = Kveikja á öryggisafritun
+settings-data-backup-toggle-off2 =
+    .label = Slökkva á öryggisafritun
+settings-data-backup-toggle-on = Kveikja á öryggisafritun
+settings-data-backup-toggle-off = Slökkva á öryggisafritun
+settings-data-backup-trigger-button = Taka öryggisafrit núna
+settings-data-backup-in-progress-button = Öryggisafritun í gangi…
+settings-data-backup-in-progress-message =
+    .message = Öryggisafritun í gangi…
+settings-data-backup-scheduled-backups-on = Öryggisafritun: KVEIKT
+settings-data-backup-scheduled-backups-off = Öryggisafritun: SLÖKKT
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location = Staðsetning
 settings-data-backup-last-backup-location-show-in-folder = Sýna í möppu
