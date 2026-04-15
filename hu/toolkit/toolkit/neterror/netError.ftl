@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = A(z) <strong>{ $hostname }</strong> hibát k
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = A(z) <strong>{ $hostname }</strong> helyen lévő kiszolgáló hibát küldött: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = A { -brand-short-name } nem töltötte be az oldalt, mert a biztonsági beállítások nem felelnek meg az előző oldalnak.
+fp-neterror-blocked-by-policy-intro = A szervezete blokkolta az oldal vagy webhely elérését.
 fp-neterror-http-auth-disabled-intro = Valaki, aki a webhelynek adja ki magát, megpróbálhatja ellopni a felhasználónevét, jelszavát vagy e-mail-címét.
 fp-neterror-http-auth-disabled-secure-connection = Ez a webhely biztonságos kapcsolatot igényel, és nem adhat hozzá kivételt, hogy felkeresse.
 fp-neterror-why-did-this-happen = Miért történt ez?

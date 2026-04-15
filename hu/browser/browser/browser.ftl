@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Módosítsa, hogy kaphat-e értesítéseket ettől az oldaltól
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI panel megnyitása
+urlbar-serial-notification-anchor =
+    .tooltiptext = Soros portos eszközök paneljének megnyitása
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM-es szoftver használatának kezelése
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Blokkolta a vászonadatok kinyerését ezen az oldalon.
 urlbar-midi-blocked =
     .tooltiptext = Blokkolta a MIDI elérést ezen az oldalon.
+urlbar-serial-blocked =
+    .tooltiptext = Blokkolta a soros port elérését ezen az oldalon.
 urlbar-install-blocked =
     .tooltiptext = Blokkolta a kiegészítők telepítését erről az oldalról.
 # Variables
@@ -648,6 +652,11 @@ sharing-warning-proceed-to-tab =
     .label = Tovább a laphoz
 sharing-warning-disable-for-session =
     .label = Megosztásvédelem kikapcsolása ebben a munkamenetben
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Válasszon soros portot:
+webserial-no-ports-available = Nem érhető el soros port
 
 ## DevTools F12 popup
 

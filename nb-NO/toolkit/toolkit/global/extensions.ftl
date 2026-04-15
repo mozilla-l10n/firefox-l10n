@@ -137,6 +137,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } ber om ytt
 
 webext-site-perms-header-with-gated-perms-midi = Dette tillegget gir { $hostname } tilgang til dine MIDI-enheter.
 webext-site-perms-header-with-gated-perms-midi-sysex = Dette tillegget gir { $hostname } tilgang til dine MIDI-enheter (med SysEx-støtte).
+webext-site-perms-header-with-gated-perms-serial = Dette tillegget gir { $hostname } tilgang til dine serielle enheter.
 
 ##
 
@@ -147,6 +148,12 @@ webext-site-perms-description-gated-perms-midi =
     Disse er vanligvis eksterne enheter som synthesizere, men kan også være innebygd i datamaskinen din.
     
     Nettsteder har normalt ikke tilgang til MIDI-enheter. Feil bruk kan forårsake skade eller kompromittere sikkerheten.
+webext-site-perms-description-gated-perms-serial =
+    Dette er enheter som mikrokontrollere, 3D-printere og andre enheter som kobles til via USB eller serieporter.
+    
+    Du vil kunne velge hvilke enheter nettstedet kan få tilgang til.
+    
+    Nettsteder har normalt ikke tillatelse til å få tilgang til serielle enheter. Feil bruk kan føre til skade eller sette sikkerheten i fare.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -161,6 +168,7 @@ webext-site-perms-header-unsigned-with-perms = Legge til { $extension }? Denne u
 
 webext-site-perms-midi = Tilgang til MIDI-enheter
 webext-site-perms-midi-sysex = Tilgang til MIDI-enheter med SysEx-støtte
+webext-site-perms-serial = Tilgang til serielle enheter
 
 ## Colorway theme migration
 

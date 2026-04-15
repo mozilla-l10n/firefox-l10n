@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = A(z) { $extension } tová
 
 webext-site-perms-header-with-gated-perms-midi = Ez a kiegészítő hozzáférést biztosít a(z) { $hostname } számára a MIDI-eszközeihez.
 webext-site-perms-header-with-gated-perms-midi-sysex = Ez a kiegészítő hozzáférést biztosít a(z) { $hostname } számára a MIDI-eszközeihez (SysEx támogatással).
+webext-site-perms-header-with-gated-perms-serial = Ez a kiegészítő hozzáférést biztosít a(z) { $hostname } számára a soros portos eszközeihez.
 
 ##
 
@@ -162,6 +163,7 @@ webext-site-perms-header-unsigned-with-perms = Hozzáadja a(z) { $extension } ki
 
 webext-site-perms-midi = MIDI eszközök elérése
 webext-site-perms-midi-sysex = MIDI eszközök elérése SysEx támogatással
+webext-site-perms-serial = Soros portos eszközök elérése
 
 ## Colorway theme migration
 

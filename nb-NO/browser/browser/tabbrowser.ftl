@@ -385,6 +385,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Lagre
     .accesskey = L
+tab-note-editor-button-delete =
+    .title = Slett notat
+    .aria-label = Slett notat
+    .accesskey = S
+tab-note-preview-edit-icon =
+    .alt = Rediger notat
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Les mer
 tab-note-panel-add-note-new-badge =
