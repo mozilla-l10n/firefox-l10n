@@ -93,9 +93,9 @@ fp-certerror-revoked-what-can-you-do-body = Pravděpodobně nic, protože je pra
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
-fp-certerror-bad-domain-why-dangerous-body = Web je nastaven tak, aby umožňoval pouze zabezpečená připojení, ale s certifikátem webu je problém. Je možné, že se za web pokouší vydávat někdo jiný. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože jeho certifikát není pro server { $hostname } platný. Certifikát je platný pouze pro: { $validHosts }.
+fp-certerror-bad-domain-why-dangerous-body = Web je nastaven tak, aby umožňoval pouze zabezpečená spojení, ale s certifikátem webu je problém. Je možné, že se za web někdo pokouší vydávat. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } tomuto webu nedůvěřuje, protože jeho certifikát není pro server { $hostname } platný. Certifikát je platný pouze pro: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-bad-domain-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že problém je v samotném webu. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. Pokud jste ale ve firemní síti, může mít tým podpory více informací. Pokud používáte antivirový software, zkuste vyhledat možné konflikty nebo známé problémy.
+fp-certerror-bad-domain-what-can-you-do-body = Pravděpodobně nic, protože problém je zřejmě na straně samotného webu. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. Pokud se však nacházíte v podnikové síti, může mít váš tým technické podpory více informací. Pokud používáte antivirový software, zkuste vyhledat možné konflikty nebo známé problémy.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
