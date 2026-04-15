@@ -390,6 +390,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Bewarje
     .accesskey = r
+tab-note-editor-button-delete =
+    .title = Notysje fuortsmite
+    .aria-label = Notysje fuortsmite
+    .accesskey = f
+tab-note-preview-edit-icon =
+    .alt = Notysje bewurkje
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Mear ynfo
 tab-note-panel-add-note-new-badge =

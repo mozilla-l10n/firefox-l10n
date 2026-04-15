@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.
 urlbar-midi-notification-anchor =
     .tooltiptext = Eike ta’ãngarupa MIDI pe
+urlbar-serial-notification-anchor =
+    .tooltiptext = Embojuruja mba’erupa hysýiva
 urlbar-eme-notification-anchor =
     .tooltiptext = Eñangareko DRM software jeporu rehe
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.
 urlbar-midi-blocked =
     .tooltiptext = Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.
+urlbar-serial-blocked =
+    .tooltiptext = Ejokóma mbojuajuhaitépe jeike ko ñanduti roguépe g̃uarã.
 urlbar-install-blocked =
     .tooltiptext = Ejokóma tembiporu’i ñemohenda ko ñandutípe g̃uarã.
 # Variables
@@ -648,6 +652,10 @@ sharing-warning-proceed-to-tab =
     .label = Eho tendayképe
 sharing-warning-disable-for-session =
     .label = Eipe’a ñemo’ã ko tendápe g̃uarã
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Eiporavo mbojuajuhaite hysýiva:
 
 ## DevTools F12 popup
 

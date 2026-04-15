@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Dizze website freget tagong ta jo MIDI-apparaten (Musical Instrument Digital Interface). Tagong ta apparaten kin ynskeakele wurde troch in add-on te ynstallearjen.
 site-permission-install-first-prompt-midi-message = Dizze tagong is net garandearre feilich. Gean allinnich fierder as jo dizze website fertrouwe.
+site-permission-install-first-prompt-serial-header = Dizze website freget om tagong ta jo seriële apparaten. Apparaattagong kin ynskeakele wurde troch in add-on te ynstallearjen.
+site-permission-install-first-prompt-serial-message = Dizze tagong is net garandearre feilich. Gean allinnich fierder as jo dizze website fertrouwe.
 
 ##
 

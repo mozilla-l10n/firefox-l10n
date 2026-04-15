@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Wizigje oft jo notifikaasjes fan de website ûntfange kinne
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI-paniel iepenje
+urlbar-serial-notification-anchor =
+    .tooltiptext = Paniel Serieel iepenje
 urlbar-eme-notification-anchor =
     .tooltiptext = Gebrûk fan DRM-software beheare
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Jo hawwe canvas-gegevensekstraksje foar dizze website blokkearre.
 urlbar-midi-blocked =
     .tooltiptext = Jo hawwe MIDI foar dizze website blokkearre.
+urlbar-serial-blocked =
+    .tooltiptext = Jo hawwe tagong ta seriële poarten foar dizze website blokkearre.
 urlbar-install-blocked =
     .tooltiptext = Jo hawwe ynstallaasje fan add-ons foar dizze website blokkearre.
 # Variables
@@ -648,6 +652,11 @@ sharing-warning-proceed-to-tab =
     .label = Trochgean nei ljepblêd
 sharing-warning-disable-for-session =
     .label = Dielbeskerming foar dizze sesje útskeakelje
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Selektearje in seriële poarte:
+webserial-no-ports-available = Gjin seriële poarten beskikber
 
 ## DevTools F12 popup
 
