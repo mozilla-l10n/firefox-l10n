@@ -2547,6 +2547,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Kuãhũita moheñoiha ojekuaáva ojejokóma
+    .description = Kóva omoneĩkuaa tapykuehohaita ndesegívo kookie’ỹre.
 security-privacy-issue-warning-third-party-cookies =
     .label = Kookie mbohapyháva ijurujááma
     .description = Kookieita mbohapyháva ojeporu ojehapykueho hag̃ua heta ñanduti roguépe.
@@ -2562,3 +2565,9 @@ security-privacy-issue-warning-extension-install =
 security-privacy-issue-warning-safe-browsing =
     .label = Tetepy imarã ha nembotavykuaáva ndojejokói
     .description = Eimeve ñembotavyrãme ha software ivaíva oúva ñanduti roguégui.
+security-privacy-issue-warning-doh =
+    .label = DNS HTTPS rehegua ojepe’a
+    .description = DNS HTTPS rehegua oñomi ne ñanduti me’ẽhágui ñanduti rogue reikeha.
+security-privacy-issue-warning-ech =
+    .label = Encrypted Client Hello ojejokóma
+    .description = Encrypted Client Hello oñomi ne ñanduti me’ẽhágui ñanduti rogue reikeha.
