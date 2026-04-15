@@ -17,3 +17,18 @@ ipprotection-button-error =
 # The word "Beta" is intended to be uppercase in the experiment label.
 ipprotection-experiment-badge =
     .label = BETA-prófun
+ipprotection-title = VPN
+
+## Feature introduction callout
+
+ipprotection-feature-introduction-button-primary = Næsta
+ipprotection-feature-introduction-button-secondary-not-now = Ekki núna
+ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
+
+## Site settings callout
+
+ipprotection-site-settings-callout-button = Náði því
+
+## IP Protection alerts
+
+vpn-error-alert-body = Reyndu aftur síðar.
