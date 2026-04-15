@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Denne siden ber om tilgang til MIDI-enhetene (Musical Instrument Digital Interface). Enhetstilgang kan aktiveres ved å installere et tillegg.
 site-permission-install-first-prompt-midi-message = Denne tilgangen er ikke garantert trygg. Fortsett bare hvis du stoler på dette nettstedet.
+site-permission-install-first-prompt-serial-header = Dette nettstedet ber om tilgang til de serielle enhetene dine. Enhetstilgang kan aktiveres ved å installere et tillegg.
+site-permission-install-first-prompt-serial-message = Denne tilgangen er ikke garantert trygg. Fortsett bare hvis du stoler på dette nettstedet.
 
 ##
 
