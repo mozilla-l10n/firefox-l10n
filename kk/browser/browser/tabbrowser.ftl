@@ -392,6 +392,8 @@ tab-note-editor-button-delete =
     .title = Түсіндірмені өшіру
     .aria-label = Түсіндірмені өшіру
     .accesskey = ш
+tab-note-preview-edit-icon =
+    .alt = Түсіндірмені түзету
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Көбірек білу
 tab-note-panel-add-note-new-badge =
