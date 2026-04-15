@@ -1579,7 +1579,7 @@ trustpanel-description-enabled2 = Zaščiteni ste. Če kaj opazimo, vas obvestim
 trustpanel-header-enabled-insecure = Previdno na tem spletnem mestu
 trustpanel-description-enabled-insecure = { -brand-product-name } je zaznal nekaj sumljivega.
 trustpanel-header-disabled = Zaščito ste izključili
-trustpanel-description-disabled = { -brand-product-name } je izklopljen. Predlagamo, da zaščite ponovno vklopite.
+trustpanel-description-disabled = { -brand-product-name } vas ne varuje. Priporočamo, da zaščito znova vklopite.
 trustpanel-clear-cookies-button = Počisti piškotke in podatke strani
 trustpanel-privacy-link = Nastavitve zasebnosti
 # Variables

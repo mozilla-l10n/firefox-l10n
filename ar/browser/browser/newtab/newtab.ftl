@@ -418,14 +418,25 @@ newtab-wallpaper-abstract-purple = أشكال أرجوانية
 newtab-wallpaper-abstract-orange = أشكال برتقالية
 newtab-wallpaper-gradient-orange = تدرج اللون البرتقالي والوردي
 newtab-wallpaper-abstract-blue-purple = الأشكال الزرقاء والأرجوانية
+newtab-wallpaper-abstract-white-curves = أبيض مع منحنيات مظللة
+newtab-wallpaper-abstract-purple-green = تدرج الضوء الأرجواني والأخضر
+newtab-wallpaper-abstract-blue-purple-waves = أشكال متموجة باللون الأزرق والأرجواني
+newtab-wallpaper-abstract-black-waves = أشكال متموجة سوداء
 
 ## Firefox
 
+newtab-wallpaper-storm-sky = سماء العاصفة
+newtab-wallpaper-sky-with-pink-clouds = سماء مع غيوم وردية
+newtab-wallpaper-red-panda-yawns-in-a-tree = الباندا الحمراء تتثاءب في شجرة
 newtab-wallpaper-white-mountains = جبال بيضاء
 newtab-wallpaper-hot-air-balloons = مجموعة متنوعة من ألوان البالونات الهوائية الساخنة خلال النهار
 newtab-wallpaper-starry-canyon = ليلة زرقاء مليئة بالنجوم
 newtab-wallpaper-suspension-bridge = تصوير جسر رمادي معلق بالكامل خلال النهار
 newtab-wallpaper-sand-dunes = كثبان رملية بيضاء
+# Variables
+#   $author_string (String) - The name of the creator of the photo.
+#   $webpage_string (String) - The name of the webpage where the photo is located.
+newtab-wallpaper-attribution = صورة من <a data-l10n-name="name-link">{ $author_string }</a> على <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = جرب دفقة من الألوان
 newtab-wallpaper-feature-highlight-button = فهمت
 # Tooltip for dismiss button
@@ -473,8 +484,10 @@ newtab-weather-menu-change-temperature-units-celsius = بدّل إلى درجة 
 newtab-weather-menu-hide-weather-v2 = أخفِ الطقس
 newtab-weather-menu-hide-weather = أخفِ الطقس في اللسان الجديد
 newtab-weather-menu-learn-more = اطّلع على المزيد
+newtab-weather-menu-detect-my-location = حدِّد موقعي
 # This message is shown if user is working offline
 newtab-weather-error-not-available = البيانات الجوية غير متوفرة حاليًا.
+newtab-weather-opt-in-see-weather = أترغب في معرفة حالة الطقس في موقعك؟
 newtab-weather-opt-in-not-now =
     .label = ليس الآن
 newtab-weather-opt-in-yes =

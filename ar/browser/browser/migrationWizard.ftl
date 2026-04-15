@@ -166,6 +166,7 @@ migration-safari-password-import-step1 = في Safari، افتح قائمة "Safa
 migration-safari-password-import-step2 = حدد زر <img data-l10n-name="safari-icon-3dots"/> واختر "تصدير جميع كلمات المرور"
 migration-safari-password-import-step3 = احفظ ملف كلمات السر
 migration-safari-password-import-step4 = استخدم "تحديد الملف" أدناه لاختيار ملف كلمات المرور التي حفظتها
+migration-chrome-windows-password-import-header = كيفية استيراد كلمات السر من متصفح Chrome
 migration-chrome-windows-password-import-steps-header = في Chrome:
 migration-chrome-windows-password-import-step1 = افتح القائمة الرئيسية <img data-l10n-name="chrome-icon-3dots"/> وانتقل إلى كلمات السر والتعبئة التلقائية > مدير كلمات مرور جوجل.
 migration-chrome-windows-password-import-step2 = حدّد "الإعدادات" من القائمة.
@@ -197,3 +198,4 @@ migration-wizard-progress-extensions-addons-link = تصفح الامتدادات
 migration-wizard-progress-success-formdata = تأريخ الاستمارات
 migration-wizard-safari-permissions-sub-header = لاستيراد علامات Safari وتأريخ التصفح:
 migration-wizard-safari-instructions-continue = اختر "واصِل"
+migration-wizard-safari-instructions-folder = حدّد مجلد Safari في القائمة واختر "افتح"
