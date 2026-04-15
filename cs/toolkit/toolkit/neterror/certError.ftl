@@ -139,7 +139,7 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 fp-certerror-transparency-why-dangerous-body = { -brand-short-name } nedůvěřuje serveru { $hostname }, protože nemohl prokázat, že splňuje požadavky na transparentnost veřejného certifikátu.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-transparency-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že problém je se samotným webem.
-fp-learn-more-about-secure-connection-failures = Zjistěte více o chybách zabezpečeného připojení
+fp-learn-more-about-secure-connection-failures = Zjistěte více o chybách zabezpečeného spojení
 fp-learn-more-about-cert-issues = Zjistěte více o těchto typech problémů s certifikáty
 fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvisejících s časem
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
@@ -305,7 +305,7 @@ fp-certerror-page-title = Upozornění: bezpečnostní riziko
 fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
 fp-certerror-illustration-alt =
     .alt = Ilustrace lišky, která se dívá na oranžovou výstražnou značku.
-fp-certerror-why-site-dangerous = Co způsobuje, že stránka vypadá nebezpečně?
+fp-certerror-why-site-dangerous = Proč tento web působí nebezpečně?
 fp-certerror-what-can-you-do = Co s tím můžete dělat?
 fp-certerror-advanced-title = Rozšířené
 fp-certerror-advanced-button = Rozšířené
@@ -322,7 +322,7 @@ fp-certerror-intro =
         [neuter] { -brand-short-name } zjistilo potenciálně závažný bezpečnostní problém s webem <strong>{ $hostname }</strong>. Někdo, kdo se vydává za tento web, by se mohl pokusit ukrást například údaje o platební kartě, hesla nebo e-maily.
        *[other] Aplikace { -brand-short-name } zjistila potenciálně závažný bezpečnostní problém s webem <strong>{ $hostname }</strong>. Někdo, kdo se vydává za tento web, by se mohl pokusit ukrást například údaje o platební kartě, hesla nebo e-maily.
     }
-fp-certerror-expired-into = { -brand-short-name } zjistil bezpečnostní problém se stránkou <strong>{ $hostname }</strong>. Buď není web správně nastaven, nebo jsou hodiny vašeho zařízení nastaveny na špatný datum/čas.
+fp-certerror-expired-into = { -brand-short-name } zjistil bezpečnostní problém s webem <strong>{ $hostname }</strong>. Buď není web správně nastaven, nebo jsou hodiny vašeho zařízení nastaveny na špatný datum/čas.
 fp-certerror-transparency-intro = Osoba vydávající se za server <strong>{ $hostname }</strong> se může pokusit ukrást informace o platební kartě, hesla nebo e-mailové adresy.
 fp-certerror-override-exception-button-2 = Pokračovat na { $hostname } (riskantní)
     .accesskey = P
