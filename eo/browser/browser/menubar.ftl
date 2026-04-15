@@ -46,7 +46,7 @@ menu-about =
 
 menu-file =
     .label = Dosiero
-    .accesskey = o
+    .accesskey = D
 menu-file-new-tab =
     .label = Nova langeto
     .accesskey = v
