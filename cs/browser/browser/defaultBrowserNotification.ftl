@@ -60,8 +60,8 @@ default-browser-prompt-button-secondary = Teď ne
 
 default-browser-guidance-notification-title =
     { -brand-short-name.case-status ->
-        [with-cases] Dokončete nastavení { -brand-short-name(case: "gen") } jako výchozího prohlížeče
-       *[no-cases] Dokončete nastavení aplikace { -brand-short-name } jako výchozího prohlížeče
+        [with-cases] Dokončete nastavování { -brand-short-name(case: "gen") } jako výchozího prohlížeče
+       *[no-cases] Dokončete nastavování aplikace { -brand-short-name } jako výchozího prohlížeče
     }
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
