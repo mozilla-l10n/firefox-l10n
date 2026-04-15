@@ -1150,7 +1150,7 @@ account-sync-section =
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Kunporti vian Teksaĵon kun vi
+sync-signedout-caption = Kunporti la reton kun vi
 sync-signedout-description2 = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj agordojn en ĉiuj viaj aparatoj.
 sync-signedout-account-signin3 =
     .label = Komenci seancon por speguli…
