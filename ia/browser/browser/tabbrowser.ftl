@@ -386,6 +386,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Salvar
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Deler nota
+    .aria-label = Deler nota
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = Rediger nota
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Leger plus
 tab-note-panel-add-note-new-badge =

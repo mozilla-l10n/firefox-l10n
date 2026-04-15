@@ -6,4 +6,5 @@ default-browser-agent-task-description = Le function “default browser agent”
 default-browser-notification-header-text = Continuar a usar { -brand-short-name }?
 default-browser-notification-body-text = Tu navigator predefinite era recentemente cambiate. Tocca pro restaurar a predefinite { -brand-short-name }.
 default-browser-notification-yes-button-text = Si
+default-browser-notification-privacy-no-button-text = No, gratias
 default-browser-notification-no-button-text = No
