@@ -146,6 +146,9 @@ newtab-menu-report = Rapporter
 newtab-menu-section-block = Blokker
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Slutt å følge
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Slutt å følge emnet
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -600,6 +603,7 @@ newtab-section-confirm-block-topic-p2 = Blokkerte emner vil ikke lenger vises i 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blokker { $topic }
+newtab-section-block-cancel-button = Avbryt
 
 ## Strings for custom wallpaper highlight
 
@@ -663,6 +667,18 @@ newtab-toast-thanks-for-reporting =
     .message = Takk for at du rapporterte dette.
 newtab-toast-widgets-hidden =
     .message = Velg blyantikonet for å legge til widgeter igjen når som helst.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Du følger nå { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Du følger ikke lenger { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Du vil ikke lenger se saker om { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
@@ -704,6 +720,9 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny liste
 newtab-widget-section-title = Widgeter
 newtab-widget-menu-hide = Skjul widget
+newtab-widget-menu-change-size = Endre størrelse
+newtab-widget-size-small = Liten
+newtab-widget-size-medium = Mellomstor
 newtab-widget-size-large = Stor
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =

@@ -154,3 +154,5 @@ policy-WebsiteFilter = Blokker besøk på nettsteder. Les dokumentasjonen for de
 policy-Windows10SSO = Tillat Windows enkel pålogging for Microsoft, arbeids- og skolekontoer.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Tillat enkel pålogging for Microsoft Entra-kontoer.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Aktiver eller deaktiver støtte for XSLTProcessor JavaScript-API-et og XSLT-behandlingsinstruksjonen.
