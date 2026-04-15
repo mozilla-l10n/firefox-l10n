@@ -388,6 +388,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Ñongatu
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Emboguete haipy’i
+    .aria-label = Emboguete haipy’i
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = Embosako’i haipy’i
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Emoñe’ẽve
 tab-note-panel-add-note-new-badge =
