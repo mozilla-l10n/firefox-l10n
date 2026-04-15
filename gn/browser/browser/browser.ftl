@@ -656,6 +656,7 @@ sharing-warning-disable-for-session =
 ## WebSerial "select a port" popup
 
 webserial-select-port-label = Eiporavo mbojuajuhaite hysýiva:
+webserial-no-ports-available = Ndaipóri mbojuajuhaite eiporukuaáva
 
 ## DevTools F12 popup
 

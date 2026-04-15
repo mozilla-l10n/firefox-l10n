@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } freget om 
 
 webext-site-perms-header-with-gated-perms-midi = Dizze add-on jout { $hostname } tagong ta MIDI-apparaten.
 webext-site-perms-header-with-gated-perms-midi-sysex = Dizze tafoeging jout { $hostname } tagong ta MIDI-apparaten (mei SysEx-stipe).
+webext-site-perms-header-with-gated-perms-serial = Dizze add-on jout { $hostname } tagong ta jo seriële apparaten.
 
 ##
 
@@ -148,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Dit binne meastentiids ynstekkerapparaten lykas audiosyntesizers, mar se kinne ek yn jo kompjûter ynboud wêze.
     
     Websites hawwe normaal sprutsen gjin tagong ta MIDI-apparaten. Net krekt gebrûk kin skea feroarsaakje of de befeiliging yn gefaar bringe.
+webext-site-perms-description-gated-perms-serial =
+    Dit binne apparaten lykas microcontrollers, 3D-printers en oare apparaten dy’t ferbine fia USB- of seriële poarten.
+    
+    Jo kinne kieze ta hokker apparaten de website tagong jout.
+    
+    Websites meie normaal sprutsen gjin tagong krije ta seriële apparaten. Ferkeard gebrûk kin skea feroarsaakje of de befeiliging yn gefaar bringe.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -162,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = { $extension } tafoegje? Dizze ú
 
 webext-site-perms-midi = MIDI-apparaten benaderje
 webext-site-perms-midi-sysex = MIDI-apparaten mei SysEx-stipe benaderje
+webext-site-perms-serial = Seriële apparaten benaderje
 
 ## Colorway theme migration
 
