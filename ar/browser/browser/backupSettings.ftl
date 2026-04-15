@@ -268,6 +268,17 @@ backup-file-other-browser-restore-step-4 = أعد تشغيل { -brand-short-name
 ## if they have one on their file system.
 
 # Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [zero] <b>ملاحظة:</b>  لم يُعثر إلى أي ملف احتياطي أخر
+        [one] <b>ملاحظة:</b>  عُثر على ملف نسخ احتياطي أخر
+        [two] <b>ملاحظة:</b>  عُثر على ملفين نسخ احتياطيين أخرين
+        [few] <b>ملاحظة:</b>  عُثر على { $numberOfOtherBackupsFound } ملفات نسخ احتياطي أخرى
+        [many] <b>ملاحظة:</b>  عُثر على { $numberOfOtherBackupsFound } ملفًا احتياطيًا أخرى
+       *[other] <b>ملاحظة:</b>  عُثر على { $numberOfOtherBackupsFound } ملف نُسخ احتياطية أخرى
+    }
+# Variables:
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.

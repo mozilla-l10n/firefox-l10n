@@ -68,6 +68,9 @@ contextual-manager-passwords-import-success-heading =
 contextual-manager-passwords-import-success-message = جديد: { $added }، حُدِّث: { $modified }
 contextual-manager-passwords-import-detailed-report = اعرض التقرير المفصل
 contextual-manager-passwords-import-success-button = تمّ
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = تعذّر استيراد كلمات السر
+    .message = تأكّد من أن ملفك يتضمّن أعمدة للمواقع وأسماء المستخدمين وكلمات السر.
 contextual-manager-passwords-import-error-button-try-again = حاول مجددًا
 contextual-manager-passwords-import-error-button-cancel = ألغِ
 contextual-manager-passwords-import-learn-more = تعرف على كيفية استيراد كلمات السر
@@ -76,6 +79,8 @@ contextual-manager-passwords-export-success-heading =
 contextual-manager-passwords-export-success-button = تمّ
 # Export passwords to file dialog
 contextual-manager-export-passwords-dialog-title = تصدير كلمات السر إلى الملف؟
+# This string recommends to the user that they delete the exported password file that is saved on their local machine.
+contextual-manager-export-passwords-dialog-message = بعد التصدير، نوصي بحذف الملف حتى لا يتمكن مستخدمي هذا الجهاز الآخرون من رؤية كلمات السر خاصتك
 contextual-manager-export-passwords-dialog-confirm-button = متابعة التصدير
 # Title of the file picker dialog
 contextual-manager-passwords-export-file-picker-title = صدّر كلمات السر من { -brand-short-name }
