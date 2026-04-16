@@ -830,6 +830,10 @@ urlbar-searchmode-exit-button2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = “{ $engineName }” ചേർക്കുക
     .title = “{ $engineName }” തിരച്ചിൽയന്ത്രം ചേർക്കുക
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ഈ വട്ടം, ഇതുപയോഗിച്ച് തിരയുക:
+urlbar-searchmode-popup-search-settings-panelitem = തിരച്ചിൽ ക്രമീകരണങ്ങൾ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
