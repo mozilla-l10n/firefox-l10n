@@ -305,6 +305,9 @@ urlbar-searchmode-tabs =
     .label = တပ်ဗ်များ
 urlbar-searchmode-history =
     .label = မှတ်တမ်း
+urlbar-searchmode-bookmarks2 = စာမှတ်များ
+urlbar-searchmode-tabs2 = တပ်ဗ်များ
+urlbar-searchmode-history2 = မှတ်တမ်း
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
