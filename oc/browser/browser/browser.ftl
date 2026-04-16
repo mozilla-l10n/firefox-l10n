@@ -737,6 +737,11 @@ urlbar-searchmode-new = Nòu
 urlbar-searchmode-button2 =
     .label = { $engine }, seleccionar un motor de recèrca
     .tooltiptext = { $engine }, seleccionar un motor de recèrca
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, seleccionar un motor de recèrca
 urlbar-searchmode-dropmarker2 =
     .title = Causir un motor de recèrca
 urlbar-searchmode-bookmarks2 = Marcapaginas
