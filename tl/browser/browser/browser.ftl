@@ -581,6 +581,9 @@ urlbar-searchmode-tabs =
     .label = Mga Tab
 urlbar-searchmode-history =
     .label = Kasaysayan
+urlbar-searchmode-bookmarks2 = Mga Bookmark
+urlbar-searchmode-tabs2 = Mga Tab
+urlbar-searchmode-history2 = Kasaysayan
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
