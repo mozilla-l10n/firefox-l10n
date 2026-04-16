@@ -987,6 +987,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, vel ein søkjemotor
 urlbar-searchmode-button-no-engine2 =
     .title = Ingen snarveg valt, vel ein snarveg
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Nøkkelordssøk er deaktivert
 urlbar-searchmode-dropmarker2 =
     .title = Vel ein søkjemotor
 urlbar-searchmode-bookmarks2 = Bokmerke
