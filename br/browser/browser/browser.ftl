@@ -839,6 +839,10 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Ouzhpennañ “{ $engineName }”
     .title = Ouzhpennañ al lusker enklask { $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Ar wech-mañ, klask gant:
+urlbar-searchmode-popup-search-settings-panelitem = Arventennoù enklask
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
