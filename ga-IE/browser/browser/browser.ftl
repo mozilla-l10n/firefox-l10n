@@ -536,6 +536,12 @@ urlbar-searchmode-button-no-engine =
     .tooltiptext = Níor roghnaíodh aicearra. Roghnaigh aicearra.
 urlbar-searchmode-dropmarker2 =
     .title = Roghnaigh inneall cuardaigh
+urlbar-searchmode-bookmarks2 = Leabharmharcanna
+urlbar-searchmode-tabs2 = Cluaisíní
+urlbar-searchmode-history2 = Oireas
+urlbar-searchmode-actions2 = Gníomhartha
+urlbar-searchmode-exit-button2 =
+    .title = Dún
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
