@@ -648,6 +648,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Bu oturumda paylaşım korumasını devre dışı bırak
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 kısayolunu kullanmak için önce tarayıcı araçları menüsünden geliştirici araçlarını açın.
@@ -713,6 +716,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
+urlbar-go-button2 =
+    .title = Konum çubuğundaki adrese git
 urlbar-go-button =
     .tooltiptext = Konum çubuğundaki adrese git
 urlbar-page-action-button =
@@ -945,14 +950,6 @@ urlbar-searchmode-default =
     .tooltiptext = Varsayılan arama motoru
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Burada ara:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Bununla ara:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Burada ara:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -979,6 +976,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Anahtar kelimeyle arama devre dışı
     .tooltiptext = Anahtar kelimeyle arama devre dışı
+urlbar-searchmode-dropmarker2 =
+    .title = Bir arama motoru seçin
+urlbar-searchmode-bookmarks2 = Yer imleri
+urlbar-searchmode-tabs2 = Sekmeler
+urlbar-searchmode-history2 = Geçmiş
+urlbar-searchmode-actions2 = Eylemler
+urlbar-searchmode-exit-button2 =
+    .title = Kapat
+urlbar-searchmode-default2 =
+    .title = Varsayılan arama motoru
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
