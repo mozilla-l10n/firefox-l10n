@@ -985,6 +985,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, вибрати пошукову систему
 urlbar-searchmode-button-no-engine2 =
     .title = Ярлик не вибрано, виберіть ярлик
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Пошук за ключовими словами вимкнено
 urlbar-searchmode-dropmarker2 =
     .title = Вибрати пошукову систему
 urlbar-searchmode-bookmarks2 = Закладки
