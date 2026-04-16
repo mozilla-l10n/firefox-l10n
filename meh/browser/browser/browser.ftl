@@ -525,6 +525,10 @@ urlbar-searchmode-history =
     .label = Historial
 urlbar-searchmode-actions =
     .label = Acciones
+urlbar-searchmode-bookmarks2 = A ta´a ini noo´o
+urlbar-searchmode-tabs2 = Da sukua
+urlbar-searchmode-history2 = Historial
+urlbar-searchmode-actions2 = Acciones
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
