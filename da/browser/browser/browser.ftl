@@ -972,6 +972,8 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Søgning med genveje er deaktiveret
     .tooltiptext = Søgning med genveje er deaktiveret
+urlbar-searchmode-dropmarker2 =
+    .title = Vælg en søgetjeneste
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
