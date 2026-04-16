@@ -987,6 +987,13 @@ urlbar-searchmode-no-keyword2 =
 urlbar-searchmode-dropmarker2 =
     .title = Escolha um mecanismo de pesquisa
 urlbar-searchmode-bookmarks2 = Favoritos
+urlbar-searchmode-tabs2 = Abas
+urlbar-searchmode-history2 = Histórico
+urlbar-searchmode-actions2 = Ações
+urlbar-searchmode-exit-button2 =
+    .title = Fechar
+urlbar-searchmode-default2 =
+    .title = Mecanismo de pesquisa padrão
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
