@@ -856,6 +856,14 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .tooltiptext = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+urlbar-searchmode-dropmarker2 =
+    .title = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+urlbar-searchmode-bookmarks2 = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+urlbar-searchmode-tabs2 = ᱴᱮᱵᱽ ᱠᱚ
+urlbar-searchmode-history2 = ᱱᱟᱜᱟᱢ
+urlbar-searchmode-actions2 = ᱠᱟᱹᱢᱤ ᱠᱚ
+urlbar-searchmode-exit-button2 =
+    .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
