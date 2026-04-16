@@ -398,6 +398,9 @@ urlbar-searchmode-tabs =
     .label = टैब
 urlbar-searchmode-history =
     .label = इतिहास
+urlbar-searchmode-bookmarks2 = बुकमार्क
+urlbar-searchmode-tabs2 = टैब
+urlbar-searchmode-history2 = इतिहास
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
