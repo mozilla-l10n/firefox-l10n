@@ -817,6 +817,21 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Berradenn ebet diuzet, dibabit ur varradenn
     .tooltiptext = Berradenn ebet diuzet, dibabit ur varradenn
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, dibab ul lusker enklask
+urlbar-searchmode-button-no-engine2 =
+    .title = Berradenn ebet diuzet, dibabit ur varradenn
+urlbar-searchmode-dropmarker2 =
+    .title = Dibab ul lusker enklask
+urlbar-searchmode-bookmarks2 = Sinedoù
+urlbar-searchmode-tabs2 = Ivinelloù
+urlbar-searchmode-history2 = Roll istor
+urlbar-searchmode-actions2 = Oberoù
+urlbar-searchmode-exit-button2 =
+    .title = Serriñ
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
