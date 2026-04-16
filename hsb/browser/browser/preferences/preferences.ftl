@@ -1119,6 +1119,9 @@ search-engine-group =
     .label = Standardna pytawa
 search-default-engine =
     .aria-label = Standardna pytawa
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Pytać
 
 ## Containers Section
 

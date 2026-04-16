@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Enhetens klocka är inst�
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Ägaren av { $hostname } har inte konfigurerat den korrekt och en säker anslutning kan inte skapas.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Din dator tycker att den är { DATETIME($now, dateStyle: "medium") }, vilket hindrar { -brand-short-name } från att ansluta säkert. För att besöka <strong>{ $hostname }</strong>, uppdatera datorklocka i dina systeminställningar till aktuellt datum, tid och tidszon och uppdatera sedan sidan.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Uppdatera datorklocka i dina systeminställningar till aktuellt datum, tid och tidszon. Din dator tycker att det är { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

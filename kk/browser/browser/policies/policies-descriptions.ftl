@@ -37,6 +37,7 @@ policy-Containers = Контейнерлерге қатысты саясатта
 policy-DisableAccounts = Тіркелгі негізіндегі қызметтерді, синхрондауды қоса, сөндіру.
 policy-DisabledCiphers = Шифрлерді сөндіру.
 policy-DefaultDownloadDirectory = Негізгі жүктеп алулар бумасын орнату.
+policy-DefaultSerialGuardSetting = Тізбекті API қолдануын басқару.
 policy-DisableAppUpdate = Браузерге жаңартылуға тыйым салу.
 policy-DisableBuiltinPDFViewer = PDF.js, { -brand-short-name } құрамындағы PDF шолушысын сөндіру.
 policy-DisableDefaultBrowserAgent = Браузер үнсіз келісім бойынша агентіне ешбір әрекетті таңдауға жол бермейді. Тек Windows үшін қолданылады; басқа платформаларда агент жоқ.

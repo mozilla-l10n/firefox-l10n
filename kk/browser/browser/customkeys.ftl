@@ -13,6 +13,7 @@ customkeys-reset-all = Барлық жарлықтарды бастапқы мә
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Бұл кілт { $conflict } үшін тағайындалған болып тұр. Оны алмастырғыңыз келе ме?
 customkeys-reset-all-confirm = Барлық пернетақта жарлықтарын әдепкі мәндеріне қайтаруға сенімдісіз бе?
+customkeys-file-duplicate-tab = Бетті қосарлау
 customkeys-history-reopen-tab = Соңғы жабылған бетті қайта ашу
 customkeys-history-reopen-window = Соңғы жабылған терезені қайта ашу
 customkeys-sidebar-toggle = Бүйір панелін көрсету/жасыру

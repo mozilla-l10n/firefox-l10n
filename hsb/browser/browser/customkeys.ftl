@@ -13,6 +13,7 @@ customkeys-reset-all = Wšě tastowe skrótšenki na standard wróćo stajić
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Tuta tasta je hižo { $conflict } připokazana. Chceće ju wuměnić?
 customkeys-reset-all-confirm = Sće sej wěsty, zo chceće wšě tastowe skrótšenki na jich standard wróćo stajić?
+customkeys-file-duplicate-tab = Rajtark podwojić
 customkeys-history-reopen-tab = Posledni začinjeny rajtark zaso wočinić
 customkeys-history-reopen-window = Posledni začinjene wokno zaso wočinić
 customkeys-sidebar-toggle = Bóčnicu přepinać

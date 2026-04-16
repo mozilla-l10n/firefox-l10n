@@ -37,6 +37,7 @@ policy-Containers = Ange policyer relaterade till behållare.
 policy-DisableAccounts = Inaktivera kontobaserade tjänster, inklusive synkronisering.
 policy-DisabledCiphers = Inaktivera chiffer.
 policy-DefaultDownloadDirectory = Ange standard för nedladdningskatalog.
+policy-DefaultSerialGuardSetting = Kontrollera användningen av det seriella API:t.
 policy-DisableAppUpdate = Förhindra att webbläsaren uppdateras.
 policy-DisableBuiltinPDFViewer = Inaktivera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Förhindra att standardwebbläsaren agerar. Gäller endast Windows; andra plattformar har inte agenten.

@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Негізгі іздеу жүйесі
 search-default-engine =
     .aria-label = Негізгі іздеу жүйесі
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Іздеу
 
 ## Containers Section
 

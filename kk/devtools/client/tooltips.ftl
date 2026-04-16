@@ -148,3 +148,11 @@ css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> тур
 css-selector-warning-unconstrained-has = Бұл селектор шектелмеген <strong>:has()</strong> пайдаланады, ол баяу болуы мүмкін
 # :scope should not be translated
 css-selector-warning-sibling-combinator-after-scope = <strong>:scope</strong> псевдокласынан кейінгі туыс селекторлары ешбір элементке сай келмейді.
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
+css-selector-container-query-condition-no-container = ‘{ $name }’ контейнері табылмады

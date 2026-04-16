@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Standardsökmotor
 search-default-engine =
     .aria-label = Standardsökmotor
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Sök
 
 ## Containers Section
 

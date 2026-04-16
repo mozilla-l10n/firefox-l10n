@@ -13,6 +13,7 @@ customkeys-reset-all = Återställ alla genvägar till standardvärden
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Den här tangenten är redan tilldelad { $conflict }. Vill du ersätta den?
 customkeys-reset-all-confirm = Är du säker på att du vill återställa alla tangentbordsgenvägar till standardvärdena?
+customkeys-file-duplicate-tab = Duplicera flik
 customkeys-history-reopen-tab = Återställ senast stängda flik
 customkeys-history-reopen-window = Återställ senast stängda fönster
 customkeys-sidebar-toggle = Visa/dölj sidofält

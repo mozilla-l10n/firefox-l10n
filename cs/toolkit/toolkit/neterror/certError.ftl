@@ -146,10 +146,14 @@ fp-learn-more-about-time-related-errors = Zjistit více o řešení chyb souvise
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
 fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že poskytnutý certifikát bude platný až po  { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Pokud je to správně, problém se zabezpečením je pravděpodobně na straně samotného webu. Pokud je to špatně, můžete to změnit v systémovém nastavení zařízení.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-certerror-invalid-cert-why-dangerous = Vlastník serveru { $hostname } jej nenastavil správně a zabezpečené připojení nelze vytvořit.
+fp-certerror-invalid-cert-why-dangerous = Vlastník serveru { $hostname } ho nenastavil správně a zabezpečené spojení tak nelze navázat.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -299,8 +303,6 @@ certerror-mitm-title =
 
 fp-certerror-page-title = Upozornění: bezpečnostní riziko
 fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
-fp-certerror-illustration-alt =
-    .alt = Ilustrace lišky, která se dívá na oranžovou výstražnou značku.
 fp-certerror-why-site-dangerous = Proč tento web působí nebezpečně?
 fp-certerror-what-can-you-do = Co s tím můžete dělat?
 fp-certerror-advanced-title = Rozšířené

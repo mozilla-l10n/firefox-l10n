@@ -1029,6 +1029,7 @@ urlbar-searchmode-popup-one-off-header = Tónkróć pytać z:
 # reset after submitting.
 urlbar-searchmode-popup-header = Pytać z:
 urlbar-searchmode-popup-search-settings-panelitem = Pytanske nastajenja
+urlbar-searchmode-popup-settings-panelitem = Nastajenja
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

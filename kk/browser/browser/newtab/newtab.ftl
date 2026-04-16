@@ -380,6 +380,7 @@ newtab-wallpaper-title = Түсқағаздар
 newtab-wallpaper-reset = Бастапқы түріне тастау
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Суретті жүктеп жіберу
+newtab-wallpaper-add-an-image = Суретті қосу
 newtab-wallpaper-custom-color = Түсті таңдау
 newtab-wallpaper-toggle-title =
     .label = Түсқағаздар
@@ -407,6 +408,7 @@ newtab-wallpaper-light-fox-anniversary = Тұманды тау пейзажы б
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Тұтас түстер
+newtab-wallpaper-colors = Түстер
 newtab-wallpaper-blue = Көк
 newtab-wallpaper-light-blue = Ашық көк
 newtab-wallpaper-light-purple = Ашық күлгін
@@ -522,6 +524,10 @@ newtab-weather-opt-in-not-now =
     .label = Қазір емес
 newtab-weather-opt-in-yes =
     .label = Иә
+newtab-weather-opt-in-headline = Жергілікті ауа райы болжамын алыңыз
+newtab-weather-opt-in-use-location =
+    .label = Орналасқан жерді пайдалану
+newtab-weather-opt-in-choose-location = Орналасқан жерді таңдау
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Нью-Йорк
 # "Highest" here refers to the highest temperature of the day
