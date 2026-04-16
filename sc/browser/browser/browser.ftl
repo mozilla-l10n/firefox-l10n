@@ -968,6 +968,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Sa chirca pro faeddu-crae est istudada
     .tooltiptext = Sa chirca pro faeddu-crae est istudada
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, sèbera unu motore de chirca
+urlbar-searchmode-button-no-engine2 =
+    .title = Nissunu curtzadòrgiu seletzionadu, sèbera·nde unu
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Sa chirca pro faeddu-crae est istudada
 urlbar-searchmode-dropmarker2 =
     .title = Sèbera unu motore de chirca
 urlbar-searchmode-bookmarks2 = Sinnalibros
@@ -983,6 +993,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Agiunghe “{ $engineName }”
     .title = Agiunghe su motore de chirca “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Custa borta chirca cun:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Chirca cun:
+urlbar-searchmode-popup-search-settings-panelitem = Cunfiguratzione de chirca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
