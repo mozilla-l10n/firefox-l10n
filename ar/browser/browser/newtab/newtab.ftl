@@ -652,6 +652,10 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = قائمة جديدة
+newtab-widget-menu-change-size = غيّر الحجم
+newtab-widget-size-small = صغير
+newtab-widget-size-medium = متوسط
+newtab-widget-size-large = كبير
 newtab-widget-section-feedback = أخبرنا برأيك
 
 ## Strings for timer productivity widget
@@ -671,16 +675,21 @@ newtab-widget-timer-label-pause =
 newtab-widget-timer-reset =
     .title = صفّر
 newtab-widget-timer-menu-notifications = عطّل الإشعارات
+newtab-widget-timer-menu-notifications-on = فعّل الإشعارات
 newtab-widget-timer-menu-hide = أخفِ المؤقت
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = أهم العناوين
 newtab-daily-briefing-card-menu-dismiss = أهمِل
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = حُدِّث منذ { $minutes }د
+newtab-widget-message-title = حافظ على تركيزك باستخدام القوائم والمؤقت المدمج
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
 newtab-promo-card-title-addons = اجعل { -brand-product-name } ملكك
+newtab-promo-card-body-addons = اختر خلفية من مجموعتنا، أو صمّم خلفيتك.
 newtab-promo-card-cta-addons = جرّبه الآن
 newtab-promo-card-title = ادعم { -brand-product-name }
 newtab-promo-card-body = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل
@@ -697,4 +706,16 @@ newtab-promo-card-dismiss-button =
 newtab-activation-window-message-dismiss-button =
     .title = أهمِل
     .aria-label = أهمِل
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = اجعل هذه المساحة خاصة بك
 newtab-activation-window-message-customization-focus-message = اختر خلفية جديدة، وأضف اختصارات لمواقعك المفضلة، وابقَ على اطلاع دائم بالقصص التي تهمك.
+newtab-activation-window-message-customization-focus-primary-button =
+    .label = ابدأ بالتخصيص
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = هذه المساحة تلتزم بقواعدك
+newtab-activation-window-message-values-focus-message = يتيح لك { -brand-product-name } التصفح بالطريقة التي تُفضّلها، مع تجربة شخصية أكثر لبدء يومك على الإنترنت. اجعل { -brand-product-name } خاصًا بك.

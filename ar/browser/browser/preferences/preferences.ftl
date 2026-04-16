@@ -690,6 +690,9 @@ update-in-progress-cancel-button = وا&صِل
 
 ## Firefox support
 
+support-application-heading =
+    .label = دعم { -brand-short-name }
+    .description = حل المشكلات أو شارك الأفكار مع المجتمع.
 support-get-help =
     .label = احصل على مُساعدة
 support-share-ideas =
@@ -1658,6 +1661,9 @@ sitedata-cookies-exceptions2 =
 sitedata-heading =
     .label = بيانات التصفح
     .description = أدِر ملفات تعريف الارتباط، والسجل وذاكرة التخزين المؤقت وبيانات موقع الوِب، والمزيد.
+sitedata-settings3 =
+    .label = امحُ بيانات مواقع معينة
+    .accesskey = م
 sitedata-cookies-exceptions3 =
     .label = أدر الاستثناءات
     .accesskey = د
@@ -1755,6 +1761,8 @@ addressbar-firefox-suggest-online =
 addressbar-dismissed-suggestions-label-2 =
     .label = الاقتراحات المهملة
     .description = استعِد الاقتراحات المرفوضة من الرعاة و{ -brand-short-name }.
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = استعِد الاقتراحات
 addressbar-quickactions-learn-more = اطّلع على المزيد
 addressbar-dismissed-suggestions-label = الاقتراحات المهملة
 addressbar-restore-dismissed-suggestions-description = استعِد الاقتراحات المرفوضة من الرعاة و{ -brand-short-name }.
@@ -1973,6 +1981,9 @@ permissions-speaker2 =
     .label = السماعة
 permissions-notification2 =
     .label = التنبيهات
+permissions-header3 =
+    .label = الأذونات
+    .description = أدِر ما يمكن للمواقع الإلكترونية الوصول إليه أو التحكم فيه أو تفعيله.
 
 ## Privacy Section - Data Collection
 
@@ -1987,6 +1998,8 @@ collection-description = نسعى جاهدين لتزويدكم بالخيارا
 collection-privacy-notice = تنويه الخصوصية
 collection-health-report-telemetry-disabled = لم تعد تسمح بأن يلتقط { -vendor-short-name } البيانات التقنية والتفاعلية. ستُحذف البيانات القديمة كلها خلال 30 يومًا.
 collection-health-report-telemetry-disabled-link = اطّلع على المزيد
+backup-multi-profile-warning-message =
+    .message = للتأكد من تضمين هذا التغيير في النسخ الاحتياطية، افتح كل ملف تعريف واختر "انسخ احتياطيًا الآن" في الإعدادات.
 nimbus-rollouts =
     .label = اسمح لـ { -brand-short-name } بتحسين الميزات والأداء والاستقرار بين التحديثات
     .description = ستطُرح التغييرات عن بُعد.
@@ -2013,6 +2026,7 @@ collection-studies =
 collection-studies-link = اعرض دراسات { -brand-short-name }
 nimbus-rollouts-enabled =
     .label = اسمح لـ { -brand-short-name } بتحسين الميزات والأداء والاستقرار بين التحديثات
+nimbus-rollouts-enabled-description = ستُطبّق التغييرات عن بُعد.
 addon-recommendations2 =
     .label = اسمح بتقديم توصيات مخصّصة لامتداد
 addon-recommendations-description = احصل على توصيات لامتدادات تحسّن من تجربة التصفح لديك.
