@@ -722,6 +722,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Leudachan:
+urlbar-go-button2 =
+    .title = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-go-button =
     .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-page-action-button =
