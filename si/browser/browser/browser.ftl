@@ -611,6 +611,11 @@ urlbar-searchmode-history =
     .label = ඉතිහාසය
 urlbar-searchmode-actions =
     .label = ක්‍රියාමාර්ග
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = "{ $engineName }" එක් කරන්න
+    .title = “{ $engineName }” සෙවුම් යන්ත්‍රය එක් කරන්න
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
