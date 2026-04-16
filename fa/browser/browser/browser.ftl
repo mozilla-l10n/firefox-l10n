@@ -790,6 +790,11 @@ urlbar-searchmode-new = جدید
 urlbar-searchmode-button-no-engine =
     .label = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
     .tooltiptext = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
+urlbar-searchmode-dropmarker2 =
+    .title = انتخاب یک موتور جستجو
+urlbar-searchmode-bookmarks2 = نشانک‌ها
+urlbar-searchmode-tabs2 = زبانه‌ها
+urlbar-searchmode-history2 = تاریخچه
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
