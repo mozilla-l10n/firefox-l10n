@@ -980,6 +980,23 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Nøkkelordssøk er deaktivert
     .tooltiptext = Nøkkelordssøk er deaktivert
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, vel ein søkjemotor
+urlbar-searchmode-button-no-engine2 =
+    .title = Ingen snarveg valt, vel ein snarveg
+urlbar-searchmode-dropmarker2 =
+    .title = Vel ein søkjemotor
+urlbar-searchmode-bookmarks2 = Bokmerke
+urlbar-searchmode-tabs2 = Faner
+urlbar-searchmode-history2 = Historikk
+urlbar-searchmode-actions2 = Handlingar
+urlbar-searchmode-exit-button2 =
+    .title = Lat att
+urlbar-searchmode-default2 =
+    .title = Standard søkjemotor
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
