@@ -222,6 +222,9 @@ popup-all-windows-shared = আপনার স্ক্রিনের সব �
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -241,6 +244,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
+urlbar-go-button2 =
+    .title = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-go-button =
     .tooltiptext = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-page-action-button =
