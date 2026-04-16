@@ -368,6 +368,9 @@ urlbar-searchmode-tabs =
     .label = بازدەرەکان
 urlbar-searchmode-history =
     .label = مێژوو
+urlbar-searchmode-bookmarks2 = دڵخوازەکان
+urlbar-searchmode-tabs2 = بازدەرەکان
+urlbar-searchmode-history2 = مێژوو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
