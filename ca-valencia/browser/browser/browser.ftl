@@ -124,6 +124,9 @@ clear-search-history =
     .label = Neteja l'historial de cerques
     .accesskey = c
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -181,6 +184,11 @@ search-one-offs-tabs =
     .tooltiptext = Pestanyes ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historial ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 
 ## Bookmark Panel
 
@@ -350,6 +358,12 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactiva la protecció de compartició durant esta sessió
 
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -403,6 +417,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensió:
+urlbar-go-button2 =
+    .title = Vés a l'adreça de la barra d'ubicació
 urlbar-go-button =
     .tooltiptext = Vés a l'adreça de la barra d'ubicació
 urlbar-page-action-button =
@@ -455,6 +471,13 @@ urlbar-result-action-copy-to-clipboard = Copia
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -463,6 +486,11 @@ urlbar-searchmode-tabs =
     .label = Pestanyes
 urlbar-searchmode-history =
     .label = Historial
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Afig «{ $engineName }»
+    .title = Afig el motor de cerca «{ $engineName }»
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -493,6 +521,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Tanca la vista de lectura
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -721,11 +754,17 @@ tabs-toolbar-list-all-tabs =
     .label = Llista totes les pestanyes
     .tooltiptext = Llista totes les pestanyes
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Voleu obrir les pestanyes anteriors?</strong> Podeu restaurar la sessió anterior des del menú de l'aplicació del { -brand-short-name } <img data-l10n-name="icon"/>, dins l'«Historial».
 restore-session-startup-suggestion-button = Mostra com fer-ho
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -734,6 +773,24 @@ data-reporting-notification-button =
     .label = Deixa'm triar què vull compartir
     .accesskey = c
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = El { -brand-short-name } ha evitat que la pàgina s'actualitze automàticament.
@@ -741,6 +798,9 @@ refresh-blocked-redirect-label = El { -brand-short-name } ha evitat que la pàgi
 refresh-blocked-allow =
     .label = Permet
     .accesskey = P
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -776,3 +836,26 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mostra «{ $popupURI }»
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
