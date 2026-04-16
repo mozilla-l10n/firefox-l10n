@@ -377,6 +377,9 @@ urlbar-searchmode-tabs =
     .label = Pestanyas
 urlbar-searchmode-history =
     .label = Historial
+urlbar-searchmode-bookmarks2 = Marcapachinas
+urlbar-searchmode-tabs2 = Pestanyas
+urlbar-searchmode-history2 = Historial
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
