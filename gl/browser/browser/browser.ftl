@@ -894,6 +894,13 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Non seleccionaches ningún atallo, escolle un atallo
     .tooltiptext = Non seleccionaches ningún atallo, escolle un atallo
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, selecciona un buscador
+urlbar-searchmode-button-no-engine2 =
+    .title = Non seleccionaches ningún atallo, escolle un atallo
 urlbar-searchmode-dropmarker2 =
     .title = Escolle un buscador
 urlbar-searchmode-bookmarks2 = Marcadores
@@ -909,6 +916,10 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Engadir «{ $engineName }»
     .title = Engadir o motor de busca «{ $engineName }»
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Esta vez busca con:
+urlbar-searchmode-popup-search-settings-panelitem = Axustes da busca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
