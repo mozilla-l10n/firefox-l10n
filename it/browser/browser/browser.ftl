@@ -1005,7 +1005,14 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Aggiungi “{ $engineName }”
     .title = Aggiungi motore di ricerca “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Adesso cerca con:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Cerca con:
 urlbar-searchmode-popup-search-settings-panelitem = Impostazioni ricerca
+urlbar-searchmode-popup-settings-panelitem = Impostazioni
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1094,6 +1101,9 @@ fullscreen-warning-no-domain = Questo documento è ora visualizzato a schermo in
 fullscreen-exit-button = Esci da schermo intero (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Esci da schermo intero (esc)
+fullscreen-keyboardlock-exit-button = Esci da schermo intero (tieni premuto Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Esci da schermo intero (tieni premuto esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
