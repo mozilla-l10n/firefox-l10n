@@ -303,6 +303,8 @@ certerror-mitm-title =
 
 fp-certerror-page-title = Upozornění: bezpečnostní riziko
 fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
+fp-certerror-illustration-alt =
+    .alt = Obrázek lišky, která se dívá na oranžovou výstražnou značku.
 fp-certerror-why-site-dangerous = Proč tento web působí nebezpečně?
 fp-certerror-what-can-you-do = Co s tím můžete dělat?
 fp-certerror-advanced-title = Rozšířené

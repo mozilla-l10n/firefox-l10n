@@ -1101,7 +1101,7 @@ fullscreen-warning-no-domain = Detta dokument är nu i helskärm
 fullscreen-exit-button = Avsluta helskärm (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Avsluta helskärm (esc)
-fullscreen-keyboardlock-exit-button = Avsluta helskärm (tryck och håll Esc)
+fullscreen-keyboardlock-exit-button = Avsluta helskärm (tryck och håll ner Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-keyboardlock-exit-mac-button = Avsluta helskärm (tryck och håll ner esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
