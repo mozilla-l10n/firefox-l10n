@@ -981,6 +981,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, επιλογή μηχανής αναζήτησης
 urlbar-searchmode-button-no-engine2 =
     .title = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Η αναζήτηση λέξεων-κλειδιών είναι ανενεργή
 urlbar-searchmode-dropmarker2 =
     .title = Επιλογή μηχανής αναζήτησης
 urlbar-searchmode-bookmarks2 = Σελιδοδείκτες
