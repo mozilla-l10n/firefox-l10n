@@ -637,6 +637,12 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Անջ. պաշտպանությունը ա/շրջանի համար
 
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -698,6 +704,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ընդլայնում՝
+urlbar-go-button2 =
+    .title = Գնալ Հասցեի Տողում նշված հասցեով
 urlbar-go-button =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
 urlbar-page-action-button =
@@ -913,14 +921,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Փակել
 urlbar-searchmode-default =
     .tooltiptext = Սկզբնադիր որոնիչ
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Այս անգամ որոնել հետևյալով՝
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Որոնել՝
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
