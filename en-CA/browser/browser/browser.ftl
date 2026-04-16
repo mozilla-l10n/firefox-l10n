@@ -643,6 +643,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disable sharing protection for this session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = To use the F12 shortcut, first open DevTools via the Browser Tools menu.
@@ -708,6 +711,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
+urlbar-go-button2 =
+    .title = Go to the address in the Location Bar
 urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
 urlbar-page-action-button =
@@ -938,14 +943,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Close
 urlbar-searchmode-default =
     .tooltiptext = Default search engine
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = This time search with:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Search with:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
