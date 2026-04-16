@@ -974,6 +974,13 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = საკვანძო სიტყვებით ძიება გამორთულია
     .tooltiptext = საკვანძო სიტყვებით ძიება გამორთულია
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, საძიებოს არჩევა
+urlbar-searchmode-button-no-engine2 =
+    .title = მალსახმობი არაა მითითებული, მალსახმობის არჩევა
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = საკვანძო სიტყვებით ძიება გამორთულია
@@ -992,6 +999,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = დაამატეთ „{ $engineName }“
     .title = დაემატება საძიებოდ „{ $engineName }“
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ძიებისთვის ამჯერად გამოიყენეთ:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = ძიება სისტემით:
+urlbar-searchmode-popup-search-settings-panelitem = ძიების პარამეტრები
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
