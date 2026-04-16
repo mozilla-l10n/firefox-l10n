@@ -387,6 +387,9 @@ urlbar-searchmode-tabs =
     .label = ٹیبز
 urlbar-searchmode-history =
     .label = سابقات
+urlbar-searchmode-bookmarks2 = بک مارک
+urlbar-searchmode-tabs2 = ٹیبز
+urlbar-searchmode-history2 = سابقات
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
