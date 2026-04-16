@@ -716,6 +716,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tiện ích mở rộng:
+urlbar-go-button2 =
+    .title = Mở trang trong thanh địa chỉ
 urlbar-go-button =
     .tooltiptext = Mở trang trong thanh địa chỉ
 urlbar-page-action-button =
