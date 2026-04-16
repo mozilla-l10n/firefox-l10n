@@ -969,6 +969,11 @@ urlbar-searchmode-exit-button2 =
     .title = ปิด
 urlbar-searchmode-default2 =
     .title = เครื่องมือค้นหาเริ่มต้น
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = เพิ่ม “{ $engineName }”
+    .title = เพิ่มเครื่องมือค้นหา “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
