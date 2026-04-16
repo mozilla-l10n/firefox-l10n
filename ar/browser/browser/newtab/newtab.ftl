@@ -316,6 +316,8 @@ newtab-custom-shortcuts-toggle =
     .description = المواقع التي حفظتها أو زرتها
 newtab-custom-shortcuts-nova =
     .label = الاختصارات
+newtab-custom-row-description =
+    .description = عدد الصفوف
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -345,6 +347,9 @@ newtab-custom-pocket-title = مُقترح من { -pocket-brand-name }
 newtab-custom-pocket-subtitle = محتوى مميّز جمعه لك { -pocket-brand-name }، وهو جزء من عائلة { -brand-product-name }
 newtab-recommended-stories-toggle =
     .label = القصص المُقترحة
+newtab-custom-stories-personalized-toggle =
+    .label = القصص
+newtab-custom-stories-personalized-checkbox-label = قصص مخصّصة بناءً على نشاطك
 newtab-custom-pocket-sponsored = قصص مموّلة
 newtab-custom-pocket-show-recent-saves = أظهِر عمليات الحفظ الأخيرة
 newtab-custom-recent-title = أحدث الأنشطة
@@ -469,11 +474,15 @@ newtab-weather-see-forecast =
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ مموّل
 newtab-weather-menu-change-location = غيّر المكان
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = ابحث عن الموقع
+    .aria-label = ابحث عن الموقع
 newtab-weather-menu-weather-display = عرض الطقس
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
 newtab-weather-menu-weather-display-option-simple = بسيط
+newtab-weather-menu-change-weather-display-simple = بدّل إلى العرض البسيط
 newtab-weather-menu-weather-display-option-detailed = مفصل
 newtab-weather-menu-change-weather-display-detailed = بدّل إلى العرض التفصيلي
 newtab-weather-menu-temperature-units = وحدات قياس درجة الحرارة
@@ -603,6 +612,10 @@ newtab-toast-widgets-hidden =
 #   $topic (string) - Topic that the user has unfollowed
 newtab-section-toast-unfollow =
     .message = لم تعد تتابع { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = لن ترى قصصًا عن { $topic } بعد الآن.
 
 ## Strings for task / to-do list productivity widget
 
@@ -646,6 +659,7 @@ newtab-widget-section-feedback = أخبرنا برأيك
 
 newtab-widget-timer-notification-title = المؤقت
 newtab-widget-timer-notification-break = انتهت استراحتك. هل أنت مستعد للتركيز؟
+newtab-widget-timer-notification-warning = الإشعارات معطّلة
 newtab-widget-timer-mode-focus =
     .label = ركّز
 newtab-widget-timer-mode-break =
@@ -656,6 +670,7 @@ newtab-widget-timer-label-pause =
     .label = ألبِث
 newtab-widget-timer-reset =
     .title = صفّر
+newtab-widget-timer-menu-notifications = عطّل الإشعارات
 newtab-widget-timer-menu-hide = أخفِ المؤقت
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
 newtab-daily-briefing-card-menu-dismiss = أهمِل
