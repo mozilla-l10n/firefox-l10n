@@ -985,6 +985,11 @@ urlbar-searchmode-no-keyword =
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button3 =
     .title = { $engine }, seliger un motor de recerca
+urlbar-searchmode-button-no-engine2 =
+    .title = Necun accesso directe seligite, selige un accesso directe
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Le recerca per parolas clave es disactivate
 urlbar-searchmode-dropmarker2 =
     .title = Seliger un Motor de recerca
 urlbar-searchmode-bookmarks2 = Marcapaginas
@@ -993,6 +998,8 @@ urlbar-searchmode-history2 = Chronologia
 urlbar-searchmode-actions2 = Actiones
 urlbar-searchmode-exit-button2 =
     .title = Clauder
+urlbar-searchmode-default2 =
+    .title = Motor de recerca predefinite
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
