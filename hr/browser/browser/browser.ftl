@@ -984,6 +984,9 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Pretraživanje ključnih riječi je isključeno
     .tooltiptext = Pretraživanje ključnih riječi je isključeno
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Pretraživanje ključnih riječi je isključeno
 urlbar-searchmode-dropmarker2 =
     .title = Odaberi tražilicu
 urlbar-searchmode-bookmarks2 = Zabilješke
