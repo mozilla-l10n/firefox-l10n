@@ -983,6 +983,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, низоми ҷустуҷӯиеро интихоб намоед
 urlbar-searchmode-button-no-engine2 =
     .title = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
 urlbar-searchmode-dropmarker2 =
     .title = Низоми ҷустуҷӯиро интихоб намоед
 urlbar-searchmode-bookmarks2 = Хатбаракҳо
@@ -991,6 +994,8 @@ urlbar-searchmode-history2 = Таърих
 urlbar-searchmode-actions2 = Амалҳо
 urlbar-searchmode-exit-button2 =
     .title = Пӯшидан
+urlbar-searchmode-default2 =
+    .title = Низоми ҷустуҷӯии пешфарз
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
