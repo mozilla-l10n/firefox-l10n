@@ -96,6 +96,9 @@ browser-window-minimize-button =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -105,6 +108,8 @@ urlbar-placeholder =
     .placeholder = Көрдөт эбэтэр аадырыһы ук
 urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
+urlbar-go-button2 =
+    .title = Аадырыс устуруокатын аадырыһыгар киир
 urlbar-go-button =
     .tooltiptext = Аадырыс устуруокатын аадырыһыгар киир
 
