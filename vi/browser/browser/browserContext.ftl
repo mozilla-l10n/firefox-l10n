@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Gửi tới điện thoại
     .accesskey = n
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Bật đồng bộ hoá để gửi một thẻ
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Kết nối điện thoại của bạn
+main-context-menu-send-to-mobile-device-missing =
+    .label = Không thấy thiết bị của bạn?
 main-context-menu-save-to-pocket =
     .label = Lưu trang vào { -pocket-brand-name }
     .accesskey = k

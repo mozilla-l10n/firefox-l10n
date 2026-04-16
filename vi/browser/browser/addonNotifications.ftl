@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Trang web này đang yêu cầu quyền truy cập vào các thiết bị MIDI (Giao diện kỹ thuật số dành cho nhạc cụ) của bạn. Có thể bật quyền truy cập thiết bị bằng cách cài đặt tiện ích mở rộng.
 site-permission-install-first-prompt-midi-message = Lần truy cập này không được đảm bảo an toàn. Chỉ tiếp tục nếu bạn tin tưởng trang web này.
+site-permission-install-first-prompt-serial-header = Trang web này đang yêu cầu quyền truy cập vào thiết bị sử dụng cổng nối tiếp của bạn. Có thể kích hoạt quyền truy cập thiết bị bằng cách cài đặt tiện ích mở rộng.
+site-permission-install-first-prompt-serial-message = Lần truy cập này không được đảm bảo an toàn. Chỉ tiếp tục nếu bạn tin tưởng trang web này.
 
 ##
 
