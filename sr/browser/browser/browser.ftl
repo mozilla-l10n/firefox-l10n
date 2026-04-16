@@ -733,6 +733,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Додатак:
+urlbar-go-button2 =
+    .title = Приказ адресе уписане у траку за адресе
 urlbar-go-button =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =
