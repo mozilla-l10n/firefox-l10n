@@ -856,6 +856,13 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
     .tooltiptext = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, ᱢᱤᱫ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+urlbar-searchmode-button-no-engine2 =
+    .title = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 urlbar-searchmode-dropmarker2 =
     .title = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 urlbar-searchmode-bookmarks2 = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
@@ -869,6 +876,10 @@ urlbar-searchmode-exit-button2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = “{ $engineName }” ᱥᱮᱞᱮᱫᱽ ᱢᱮ
     .title = “{ $engineName }” ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱞᱮᱫᱽ ᱢᱮ
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱱᱚᱶᱟ ᱛᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮᱺ
+urlbar-searchmode-popup-search-settings-panelitem = ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣ ᱠᱚ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
