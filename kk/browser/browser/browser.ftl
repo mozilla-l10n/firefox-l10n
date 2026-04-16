@@ -998,6 +998,8 @@ urlbar-searchmode-history2 = Тарих
 urlbar-searchmode-actions2 = Әрекеттер
 urlbar-searchmode-exit-button2 =
     .title = Жабу
+urlbar-searchmode-default2 =
+    .title = Негізгі іздеу жүйесі
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
