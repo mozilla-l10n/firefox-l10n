@@ -977,6 +977,9 @@ urlbar-searchmode-no-keyword =
     .tooltiptext = Avainsanahaku on poistettu käytöstä
 urlbar-searchmode-button-no-engine2 =
     .title = Oikotietä ei ole valittu, valitse oikotie
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Avainsanahaku on poistettu käytöstä
 urlbar-searchmode-dropmarker2 =
     .title = Valitse hakukone
 urlbar-searchmode-bookmarks2 = Kirjanmerkit
