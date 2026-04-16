@@ -161,6 +161,7 @@ webext-site-perms-header-unsigned-with-perms = Προσθήκη του { $extens
 
 webext-site-perms-midi = Πρόσβαση σε συσκευές MIDI
 webext-site-perms-midi-sysex = Πρόσβαση σε συσκευές MIDI με υποστήριξη SysEx
+webext-site-perms-serial = Πρόσβαση σε σειριακές συσκευές
 
 ## Colorway theme migration
 

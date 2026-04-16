@@ -68,6 +68,19 @@ open-in-new-window-for-csp-or-xfo-error = Отворете ја страница
 # Variables:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = За да ја заштитите вашата безбедност, { $hostname } нема да дозволи { -brand-short-name } да ја прикажува страницата ако ја вгради друга страница. За да ја видите оваа страница, треба да ја отворите во нов прозорец.
+fp-certerror-view-certificate-link = Погледнете го сертификатот на местото
+fp-certerror-return-to-previous-page-recommended-button-2 = Врати се назад (препорачливо)
+    .accesskey = В
+fp-certerror-return-to-previous-page-recommended-button = Врати се назад (препорачливо)
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = { -brand-short-name } Ве предупредува за ова место бидејќи сертификатот доставен за { $hostname } е поништен и повеќе не е доверлив.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $validHosts (String) - Valid hostnames.
+fp-certerror-bad-domain-why-dangerous-body = Местото е поставено да дозволува само безбедни врски, но има проблем со неговиот сертификат. Можно е некој злонамерен актер да се обидува да се претстави како него. Мрежните места користат сертификати издадени од авторитет за сертификати за да докажат дека се навистина тоа што се претставуваат. { -brand-short-name } не му верува на ова место бидејќи неговиот сертификат не е валиден за { $hostname }. Сертификатот е валиден само за: { $validHosts }.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код на грешка: { $error }

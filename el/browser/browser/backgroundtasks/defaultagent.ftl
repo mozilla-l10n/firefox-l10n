@@ -6,4 +6,5 @@ default-browser-agent-task-description = Η διεργασία «Default Browser
 default-browser-notification-header-text = Συνέχεια χρήσης του { -brand-short-name };
 default-browser-notification-body-text = Το προεπιλεγμένο σας πρόγραμμα περιήγησης άλλαξε πρόσφατα. Πατήστε για επαναφορά του { -brand-short-name } στην προεπιλογή.
 default-browser-notification-yes-button-text = Ναι
+default-browser-notification-privacy-no-button-text = Όχι, ευχαριστώ
 default-browser-notification-no-button-text = Όχι
