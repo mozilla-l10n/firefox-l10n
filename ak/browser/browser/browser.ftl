@@ -90,6 +90,9 @@ browser-window-close-button =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -102,6 +105,8 @@ urlbar-placeholder =
     .placeholder = Hwehwɛ anaaso kyerɛw adrɛs
 urlbar-switch-to-tab =
     .value = Swekye kɔ tab:
+urlbar-go-button2 =
+    .title = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
 urlbar-go-button =
     .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
 
