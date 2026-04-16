@@ -370,6 +370,9 @@ urlbar-searchmode-history =
     .label = जारिमिन
 urlbar-searchmode-actions =
     .label = एक्सनफोर
+urlbar-searchmode-tabs2 = टेबफोर
+urlbar-searchmode-history2 = जारिमिन
+urlbar-searchmode-actions2 = एक्सनफोर
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
