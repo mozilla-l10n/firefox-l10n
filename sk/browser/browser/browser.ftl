@@ -987,6 +987,23 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Vyhľadávanie kľúčových slov je vypnuté
     .tooltiptext = Vyhľadávanie kľúčových slov je vypnuté
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, vyberte vyhľadávací modul
+urlbar-searchmode-button-no-engine2 =
+    .title = Nie je vybratá žiadna skratka, vyberte skratku
+urlbar-searchmode-dropmarker2 =
+    .title = Vyberte vyhľadávací modul
+urlbar-searchmode-bookmarks2 = Záložky
+urlbar-searchmode-tabs2 = Karty
+urlbar-searchmode-history2 = História
+urlbar-searchmode-actions2 = Akcie
+urlbar-searchmode-exit-button2 =
+    .title = Zavrieť
+urlbar-searchmode-default2 =
+    .title = Predvolený vyhľadávač
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
