@@ -980,6 +980,14 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La ricerca tramite parole chiave è disattivata
     .tooltiptext = La ricerca tramite parole chiave è disattivata
+urlbar-searchmode-dropmarker2 =
+    .title = Scegli un motore di ricerca
+urlbar-searchmode-bookmarks2 = Segnalibri
+urlbar-searchmode-tabs2 = Schede
+urlbar-searchmode-history2 = Cronologia
+urlbar-searchmode-actions2 = Azioni
+urlbar-searchmode-exit-button2 =
+    .title = Chiudi
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
