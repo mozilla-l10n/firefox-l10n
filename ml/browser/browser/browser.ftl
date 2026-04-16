@@ -629,6 +629,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ‌‌എക്സ്ടെൻഷൻ:
+urlbar-go-button2 =
+    .title = വിലാസപ്പട്ടയിലുള്ള വിലാസത്തിലേക്കു ചെല്ലുക
 urlbar-go-button =
     .tooltiptext = വിലാസപ്പട്ടയിലുള്ള വിലാസത്തിലേക്കു ചെല്ലുക
 urlbar-page-action-button =
@@ -815,6 +817,14 @@ urlbar-searchmode-button3 =
     .title = { $engine }, തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
 urlbar-searchmode-button-no-engine2 =
     .title = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
+urlbar-searchmode-dropmarker2 =
+    .title = തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
+urlbar-searchmode-bookmarks2 = അടയാളക്കുറിപ്പുകള്‍
+urlbar-searchmode-tabs2 = ടാബുകള്‍
+urlbar-searchmode-history2 = നാള്‍വഴി
+urlbar-searchmode-actions2 = നടപടികൾ
+urlbar-searchmode-exit-button2 =
+    .title = അടയ്ക്കുക
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
