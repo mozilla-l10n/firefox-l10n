@@ -971,6 +971,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, 검색 엔진 선택
 urlbar-searchmode-button-no-engine2 =
     .title = 선택된 바로 가기 없음, 바로 가기를 선택하세요
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = 키워드 검색이 비활성화됨
 urlbar-searchmode-dropmarker2 =
     .title = 검색 엔진 선택
 urlbar-searchmode-bookmarks2 = 북마크
