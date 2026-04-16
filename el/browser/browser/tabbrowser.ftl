@@ -385,6 +385,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Αποθήκευση
     .accesskey = θ
+tab-note-editor-button-delete =
+    .title = Διαγραφή σημείωσης
+    .aria-label = Διαγραφή σημείωσης
+    .accesskey = Δ
+tab-note-preview-edit-icon =
+    .alt = Επεξεργασία σημείωσης
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Διαβάστε περισσότερα
 tab-note-panel-add-note-new-badge =
