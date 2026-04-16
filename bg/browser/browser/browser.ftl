@@ -950,6 +950,18 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Няма избрана клавишна комбинация, изберете една
     .tooltiptext = Няма избрана клавишна комбинация, изберете една
+urlbar-searchmode-button-no-engine2 =
+    .title = Няма избрана клавишна комбинация, изберете една
+urlbar-searchmode-dropmarker2 =
+    .title = Изберете търсеща машина
+urlbar-searchmode-bookmarks2 = Отметки
+urlbar-searchmode-tabs2 = Раздели
+urlbar-searchmode-history2 = История
+urlbar-searchmode-actions2 = Действия
+urlbar-searchmode-exit-button2 =
+    .title = Затваряне
+urlbar-searchmode-default2 =
+    .title = Търсеща машина по подразбиране
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
