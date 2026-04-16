@@ -716,6 +716,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Васеъшавӣ:
+urlbar-go-button2 =
+    .title = Аз навори ҷойгиршавӣ ба нишонии воридшуда гузаред
 urlbar-go-button =
     .tooltiptext = Аз навори ҷойгиршавӣ ба нишонии воридшуда гузаред
 urlbar-page-action-button =
@@ -948,14 +950,6 @@ urlbar-searchmode-default =
     .tooltiptext = Низоми ҷустуҷӯии пешфарз
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Ин дафъа бо зерин ҷустуҷӯ кунед:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Ҷустуҷӯ тавассути:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Ин дафъа бо зерин ҷустуҷӯ кунед:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -982,6 +976,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
     .tooltiptext = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, низоми ҷустуҷӯиеро интихоб намоед
+urlbar-searchmode-button-no-engine2 =
+    .title = Ягон миёнбур интихоб нашудааст, миёнбуреро интихоб кунед
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
+urlbar-searchmode-dropmarker2 =
+    .title = Низоми ҷустуҷӯиро интихоб намоед
+urlbar-searchmode-bookmarks2 = Хатбаракҳо
+urlbar-searchmode-tabs2 = Варақаҳо
+urlbar-searchmode-history2 = Таърих
+urlbar-searchmode-actions2 = Амалҳо
+urlbar-searchmode-exit-button2 =
+    .title = Пӯшидан
+urlbar-searchmode-default2 =
+    .title = Низоми ҷустуҷӯии пешфарз
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Илова кардани “{ $engineName }”
+    .title = Илова кардани низоми ҷустуҷӯии “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Ин дафъа бо зерин ҷустуҷӯ кунед:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Ҷустуҷӯ тавассути:
+urlbar-searchmode-popup-search-settings-panelitem = Танзимоти ҷустуҷӯ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -79,9 +79,6 @@ fxviewtabrow-mute-tab-button-no-context =
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ljud på för flik
 # The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Aktivera synkronisering för att skicka en flik
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Anslut din telefon
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Hittar du inte din enhet?
+fxviewtabrow-send-to-mobile-enable-sync2 = Aktivera synkronisering för att skicka en flik
+fxviewtabrow-send-to-mobile-connect-phone2 = Anslut din telefon
+fxviewtabrow-send-to-mobile-device-missing2 = Hittar du inte din enhet?

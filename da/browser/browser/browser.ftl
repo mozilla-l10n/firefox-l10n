@@ -644,6 +644,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deaktiver delings-beskyttelse for denne session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = For at bruge F12 som genvej skal du først åbne udviklerværktøj fra menuen Browser-værktøj.
@@ -709,6 +712,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Udvidelse:
+urlbar-go-button2 =
+    .title = Gå til adressen i adressefeltet
 urlbar-go-button =
     .tooltiptext = Gå til adressen i adressefeltet
 urlbar-page-action-button =
@@ -941,14 +946,6 @@ urlbar-searchmode-default =
     .tooltiptext = Standard-søgetjeneste
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Søg denne gang med:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Søg med:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Søg denne gang med:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -975,6 +972,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Søgning med genveje er deaktiveret
     .tooltiptext = Søgning med genveje er deaktiveret
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, vælg en søgetjeneste
+urlbar-searchmode-button-no-engine2 =
+    .title = Ingen genvej valgt, vælg en genvej
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Søgning med genveje er deaktiveret
+urlbar-searchmode-dropmarker2 =
+    .title = Vælg en søgetjeneste
+urlbar-searchmode-bookmarks2 = Bogmærker
+urlbar-searchmode-tabs2 = Faneblade
+urlbar-searchmode-history2 = Historik
+urlbar-searchmode-actions2 = Handlinger
+urlbar-searchmode-exit-button2 =
+    .title = Luk
+urlbar-searchmode-default2 =
+    .title = Standard-søgetjeneste
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Tilføj "{ $engineName }"
+    .title = Tilføj søgetjenesten "{ $engineName }"
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Søg denne gang med:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Søg med:
+urlbar-searchmode-popup-search-settings-panelitem = Søgeindstillinger
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

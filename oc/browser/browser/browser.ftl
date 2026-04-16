@@ -556,6 +556,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar lo partiment per aquesta session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilizar l’acorchi F12, dobrissètz d’en primièr lo panèl d’aisinas de desvolopament via lo menú Aisinas del navegador.
@@ -617,6 +620,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension :
+urlbar-go-button2 =
+    .title = Anar a la pagina indicada dins la barra d'adreça
 urlbar-go-button =
     .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
 urlbar-page-action-button =
@@ -686,6 +691,9 @@ urlbar-result-action-calculator-result = = { $result }
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Pas ara
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -714,10 +722,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Tampar
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Aqueste còp, recercar amb :
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Aqueste còp, recercar amb :
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -733,6 +737,28 @@ urlbar-searchmode-new = Nòu
 urlbar-searchmode-button2 =
     .label = { $engine }, seleccionar un motor de recèrca
     .tooltiptext = { $engine }, seleccionar un motor de recèrca
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, seleccionar un motor de recèrca
+urlbar-searchmode-dropmarker2 =
+    .title = Causir un motor de recèrca
+urlbar-searchmode-bookmarks2 = Marcapaginas
+urlbar-searchmode-tabs2 = Onglets
+urlbar-searchmode-history2 = Istoric
+urlbar-searchmode-actions2 = Accions
+urlbar-searchmode-exit-button2 =
+    .title = Tampar
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Apondre « { $engineName } »
+    .title = Apondre lo motor de recèrca « { $engineName } »
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Aqueste còp, recercar amb :
+urlbar-searchmode-popup-search-settings-panelitem = Paramètres de recèrca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1040,11 +1066,17 @@ tabs-toolbar-list-all-tabs =
     .label = Far la lista de totes los onglets
     .tooltiptext = Far la lista de totes los onglets
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Tornar dobrir los onglets precedents ?</strong> Podètz restablir vòstra session precedenta del menú d’aplicacion de { -brand-short-name } <img data-l10n-name="icon"/> estant jos Istoric.
 restore-session-startup-suggestion-button = Cossí far
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1178,3 +1210,16 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Mostrar dins lo dossièr
     .accessKey = M
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

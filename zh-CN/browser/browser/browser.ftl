@@ -642,6 +642,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = 在本次会话期间禁用共享保护
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = 要使用 F12 快捷键，请先由“浏览器工具”菜单打开开发者工具。
@@ -707,6 +710,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 扩展：
+urlbar-go-button2 =
+    .title = 转到地址栏中指向的网址
 urlbar-go-button =
     .tooltiptext = 转到地址栏中指向的网址
 urlbar-page-action-button =
@@ -927,14 +932,6 @@ urlbar-searchmode-default =
     .tooltiptext = 默认搜索引擎
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = 本次搜索使用：
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = 搜索引擎：
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = 本次搜索使用：
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -961,6 +958,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = 关键词搜索已禁用
     .tooltiptext = 关键词搜索已禁用
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }，选取搜索引擎
+urlbar-searchmode-button-no-engine2 =
+    .title = 未选择快捷方式，请选择
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = 关键词搜索已禁用
+urlbar-searchmode-dropmarker2 =
+    .title = 选取搜索引擎
+urlbar-searchmode-bookmarks2 = 书签
+urlbar-searchmode-tabs2 = 标签页
+urlbar-searchmode-history2 = 历史记录
+urlbar-searchmode-actions2 = 操作
+urlbar-searchmode-exit-button2 =
+    .title = 关闭
+urlbar-searchmode-default2 =
+    .title = 默认搜索引擎
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = 添加“{ $engineName }”
+    .title = 添加搜索引擎“{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = 本次搜索使用：
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = 搜索引擎：
+urlbar-searchmode-popup-search-settings-panelitem = 搜索设置
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -665,6 +665,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Онемогучите заштиту дељења за ову сесију
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Да бисте користили пречицу F12, из менија „За веб-програмере” отворите алатке за програмере.
@@ -730,6 +733,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Додатак:
+urlbar-go-button2 =
+    .title = Приказ адресе уписане у траку за адресе
 urlbar-go-button =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =
@@ -965,14 +970,6 @@ urlbar-searchmode-default =
     .tooltiptext = Подразумевани претраживач
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Овај пут претражи користећи:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Претражи помоћу:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Овај пут претражи користећи:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -999,6 +996,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Претрага кључним речима је онемогућена
     .tooltiptext = Претрага кључним речима је онемогућена
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, изабери претраживач
+urlbar-searchmode-button-no-engine2 =
+    .title = Није изабрана пречица, изабери пречицу
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Претрага кључним речима је онемогућена
+urlbar-searchmode-dropmarker2 =
+    .title = Изаберите претраживач
+urlbar-searchmode-bookmarks2 = Обележивачи
+urlbar-searchmode-tabs2 = Језичци
+urlbar-searchmode-history2 = Историја
+urlbar-searchmode-actions2 = Радње
+urlbar-searchmode-exit-button2 =
+    .title = Затвори
+urlbar-searchmode-default2 =
+    .title = Подразумевани претраживач
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Додај „{ $engineName }”
+    .title = Додајте претраживач „{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Овај пут претражи користећи:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Претражи помоћу:
+urlbar-searchmode-popup-search-settings-panelitem = Подешавање претраге
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

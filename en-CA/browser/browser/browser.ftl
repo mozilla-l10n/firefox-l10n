@@ -643,6 +643,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disable sharing protection for this session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = To use the F12 shortcut, first open DevTools via the Browser Tools menu.
@@ -708,6 +711,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
+urlbar-go-button2 =
+    .title = Go to the address in the Location Bar
 urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
 urlbar-page-action-button =
@@ -940,14 +945,6 @@ urlbar-searchmode-default =
     .tooltiptext = Default search engine
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = This time search with:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Search with:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = This time search with:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -974,6 +971,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Keyword search is disabled
     .tooltiptext = Keyword search is disabled
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, pick a search engine
+urlbar-searchmode-button-no-engine2 =
+    .title = No shortcut selected, pick a shortcut
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Keyword search is disabled
+urlbar-searchmode-dropmarker2 =
+    .title = Pick a Search Engine
+urlbar-searchmode-bookmarks2 = Bookmarks
+urlbar-searchmode-tabs2 = Tabs
+urlbar-searchmode-history2 = History
+urlbar-searchmode-actions2 = Actions
+urlbar-searchmode-exit-button2 =
+    .title = Close
+urlbar-searchmode-default2 =
+    .title = Default search engine
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Add “{ $engineName }”
+    .title = Add search engine “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = This time search with:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Search with:
+urlbar-searchmode-popup-search-settings-panelitem = Search Settings
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

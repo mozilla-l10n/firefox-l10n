@@ -79,9 +79,6 @@ fxviewtabrow-mute-tab-button-no-context =
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Restaurar sonido en pestaña
 # The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Active la sincronización para enviar una pestaña
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Conecte su teléfono
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = ¿No puede ver su dispositivo?
+fxviewtabrow-send-to-mobile-enable-sync2 = Active la sincronización para enviar una pestaña
+fxviewtabrow-send-to-mobile-connect-phone2 = Conecte su teléfono
+fxviewtabrow-send-to-mobile-device-missing2 = ¿No puede ver su dispositivo?

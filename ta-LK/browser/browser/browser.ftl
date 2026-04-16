@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The main browser window's title
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -27,6 +24,9 @@ browser-main-window-title = { -brand-full-name }
 
 
 ##
+
+
+## Searchbar context menu
 
 
 ## Page Action Context Menu
@@ -85,6 +85,9 @@ browser-window-minimize-button =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -92,15 +95,25 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = முகவரியைத் தேடவும் அல்லது உள்ளிடவும்
-
 urlbar-switch-to-tab =
     .value = தத்தலுக்கு மாற்றுக:
-
+urlbar-go-button2 =
+    .title = இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்
 urlbar-go-button =
     .tooltiptext = இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
 
 
 ## Action text shown in urlbar results, usually appended after the search
@@ -120,9 +133,6 @@ urlbar-go-button =
 
 
 ## Full Screen and Pointer Lock UI
-
-
-## Subframe crash notification
 
 
 ## Bookmarks panels, menus and toolbar
@@ -164,9 +174,6 @@ bookmarks-toolbar-placeholder-button =
 ## Password save/update panel
 
 
-## Add-on removal warning
-
-
 ##
 
 
@@ -176,7 +183,6 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களை அனுமதிக்க
     .accesskey = p
-
 popups-infobar-block =
     .label = { $uriHost } இற்கான முன்னெழும் சாளரங்களைத் தடைசெய்க
     .accesskey = p
@@ -201,15 +207,19 @@ popups-infobar-dont-show-message =
 # in the string
 tabs-toolbar =
     .aria-label = உலாவித் தத்தல்கள்
-
 tabs-toolbar-new-tab =
     .label = புதிய தத்தல்
-
 tabs-toolbar-list-all-tabs =
     .label = அனைத்து தத்தல்களையும் பட்டியலிடுக
     .tooltiptext = அனைத்து தத்தல்களையும் பட்டியலிடுக
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -225,6 +235,14 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ஆனது இந்தப் பக்கம் தன்னிச்சையாக மேலேற்றப்படுவதனைத் தடுக்கிறது.
@@ -233,13 +251,8 @@ refresh-blocked-redirect-label = { -brand-short-name } ஆனது இந்த
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -250,8 +263,30 @@ popup-warning-message =
         [one] { -brand-short-name } ஆனது முன்னெழும் சாளரம் திறப்பதினைத் தடைசெய்கிறது.
        *[other] { $popupCount } ஆனது முன்னெழும் சாளரங்கள் திறப்பதினைத் தடைசெய்கின்றன.
     }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' இனைக் காட்டு
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

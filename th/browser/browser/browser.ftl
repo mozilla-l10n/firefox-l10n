@@ -639,6 +639,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ปิดใช้งานการป้องกันการแบ่งปันในวาระนี้
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = ถ้าต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์
@@ -704,6 +707,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ส่วนขยาย:
+urlbar-go-button2 =
+    .title = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-go-button =
     .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-page-action-button =
@@ -928,14 +933,6 @@ urlbar-searchmode-default =
     .tooltiptext = เครื่องมือค้นหาเริ่มต้น
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = ครั้งนี้ค้นหาด้วย:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = ค้นหาด้วย:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = ครั้งนี้ค้นหาด้วย:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -962,6 +959,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
     .tooltiptext = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = ขณะนี้คือ { $engine } โปรดเลือกเครื่องมือค้นหา
+urlbar-searchmode-button-no-engine2 =
+    .title = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
+urlbar-searchmode-dropmarker2 =
+    .title = เลือกเครื่องมือค้นหา
+urlbar-searchmode-bookmarks2 = ที่คั่นหน้า
+urlbar-searchmode-tabs2 = แท็บ
+urlbar-searchmode-history2 = ประวัติ
+urlbar-searchmode-actions2 = การกระทำ
+urlbar-searchmode-exit-button2 =
+    .title = ปิด
+urlbar-searchmode-default2 =
+    .title = เครื่องมือค้นหาเริ่มต้น
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = เพิ่ม “{ $engineName }”
+    .title = เพิ่มเครื่องมือค้นหา “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ครั้งนี้ค้นหาด้วย:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = ค้นหาด้วย:
+urlbar-searchmode-popup-search-settings-panelitem = การตั้งค่าการค้นหา
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

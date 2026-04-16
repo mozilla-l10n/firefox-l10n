@@ -643,6 +643,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disativa sa protetzione de cumpartzidura pro custa sessione
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pro impreare su curtzadòrgiu F12, pro primu aberi DevTools in su menù de ainas de su navigadore.
@@ -708,6 +711,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Agiunta:
+urlbar-go-button2 =
+    .title = Bae a s'indiritzu in sa barra de positzione
 urlbar-go-button =
     .tooltiptext = Bae a s'indiritzu in sa barra de positzione
 urlbar-page-action-button =
@@ -937,14 +942,6 @@ urlbar-searchmode-default =
     .tooltiptext = Motore de chirca predefinidu
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Custa borta chirca cun:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Chirca cun:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Custa borta chirca cun:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -971,6 +968,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Sa chirca pro faeddu-crae est istudada
     .tooltiptext = Sa chirca pro faeddu-crae est istudada
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, sèbera unu motore de chirca
+urlbar-searchmode-button-no-engine2 =
+    .title = Nissunu curtzadòrgiu seletzionadu, sèbera·nde unu
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Sa chirca pro faeddu-crae est istudada
+urlbar-searchmode-dropmarker2 =
+    .title = Sèbera unu motore de chirca
+urlbar-searchmode-bookmarks2 = Sinnalibros
+urlbar-searchmode-tabs2 = Ischedas
+urlbar-searchmode-history2 = Cronologia
+urlbar-searchmode-actions2 = Atziones
+urlbar-searchmode-exit-button2 =
+    .title = Serra
+urlbar-searchmode-default2 =
+    .title = Motore de chirca predefinidu
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Agiunghe “{ $engineName }”
+    .title = Agiunghe su motore de chirca “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Custa borta chirca cun:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Chirca cun:
+urlbar-searchmode-popup-search-settings-panelitem = Cunfiguratzione de chirca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

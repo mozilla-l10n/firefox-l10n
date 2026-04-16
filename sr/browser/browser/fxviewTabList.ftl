@@ -79,9 +79,6 @@ fxviewtabrow-mute-tab-button-no-context =
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Појачај језичак
 # The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Омогућите усклађивање за слање језичака
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Повежите свој телефон
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Не видите свој уређај?
+fxviewtabrow-send-to-mobile-enable-sync2 = Омогућите усклађивање за слање језичака
+fxviewtabrow-send-to-mobile-connect-phone2 = Повежите свој телефон
+fxviewtabrow-send-to-mobile-device-missing2 = Не видите свој уређај?

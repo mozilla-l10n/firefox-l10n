@@ -653,6 +653,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Dezactivează protecția partajării pentru această sesiune
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pentru a folosi comanda rapidă F12, deschide mai întâi instrumentele pentru dezvoltatori din meniul de instrumente al browserului.
@@ -718,6 +721,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
+urlbar-go-button2 =
+    .title = Mergi la adresa din bara de adrese
 urlbar-go-button =
     .tooltiptext = Mergi la adresa din bara de adrese
 urlbar-page-action-button =
@@ -953,14 +958,6 @@ urlbar-searchmode-default =
     .tooltiptext = Motor de căutare implicit
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = De data asta caută cu:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Căutare cu:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = De data asta caută cu:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -987,6 +984,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Căutarea de cuvinte-cheie este dezactivată
     .tooltiptext = Căutarea de cuvinte-cheie este dezactivată
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, alege un motor de căutare
+urlbar-searchmode-button-no-engine2 =
+    .title = Nicio comandă rapidă selectată, alege o comandă rapidă
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Căutarea de cuvinte-cheie este dezactivată
+urlbar-searchmode-dropmarker2 =
+    .title = Alege un motor de căutare
+urlbar-searchmode-bookmarks2 = Marcaje
+urlbar-searchmode-tabs2 = File
+urlbar-searchmode-history2 = Istoric
+urlbar-searchmode-actions2 = Acțiuni
+urlbar-searchmode-exit-button2 =
+    .title = Închide
+urlbar-searchmode-default2 =
+    .title = Motor de căutare implicit
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Adaugă „{ $engineName }”
+    .title = Adaugă motorul de căutare „{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = De data asta caută cu:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Căutare cu:
+urlbar-searchmode-popup-search-settings-panelitem = Setări de căutare
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

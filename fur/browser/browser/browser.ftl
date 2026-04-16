@@ -641,6 +641,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disabilite la protezion di condivision par cheste session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Par doprâ la scurte F12, prime vierç DevTools midiant il menù Struments dal navigadôr.
@@ -706,6 +709,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estension:
+urlbar-go-button2 =
+    .title = Va ae direzion specificade te sbare de direzion
 urlbar-go-button =
     .tooltiptext = Va ae direzion specificade te sbare de direzion
 urlbar-page-action-button =
@@ -927,10 +932,6 @@ urlbar-searchmode-default =
     .tooltiptext = Motôr di ricercje predefinît
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Cheste volte cîr cun:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Cheste volte cîr cun:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -953,6 +954,35 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La ricercje vie peraule clâf e je disativade
     .tooltiptext = La ricercje vie peraule clâf e je disativade
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, sielç un motôr di ricercje
+urlbar-searchmode-button-no-engine2 =
+    .title = Nissune scurte selezionade, sielç une scurte
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La ricercje vie peraule clâf e je disativade
+urlbar-searchmode-dropmarker2 =
+    .title = Sielç un motôr di ricercje
+urlbar-searchmode-bookmarks2 = Segnelibris
+urlbar-searchmode-tabs2 = Schedis
+urlbar-searchmode-history2 = Cronologjie
+urlbar-searchmode-actions2 = Azions
+urlbar-searchmode-exit-button2 =
+    .title = Siere
+urlbar-searchmode-default2 =
+    .title = Motôr di ricercje predefinît
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Zonte “{ $engineName }”
+    .title = Zonte motôr di ricercje “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Cheste volte cîr cun:
+urlbar-searchmode-popup-search-settings-panelitem = Impostazions ricercje
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

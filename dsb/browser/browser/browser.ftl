@@ -731,6 +731,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšyrjenje:
+urlbar-go-button2 =
+    .title = K adresy w adresowem pólu
 urlbar-go-button =
     .tooltiptext = K adresy w adresowem pólu
 urlbar-page-action-button =
@@ -969,14 +971,6 @@ urlbar-searchmode-default =
     .tooltiptext = Standardna pytnica
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Tenraz pytaś z:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Pytaś z:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Tenraz pytaś z:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -1003,6 +997,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Pytanje z klucowymi słowami jo znjemóžnjone
     .tooltiptext = Pytanje z klucowymi słowami jo znjemóžnjone
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, wubjeŕśo pytnicu
+urlbar-searchmode-button-no-engine2 =
+    .title = Žedna skrotconka wubrana, wubjeŕśo skrotconku
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Pytanje z klucowymi słowami jo znjemóžnjone
+urlbar-searchmode-dropmarker2 =
+    .title = Wubjeŕśo pytnicu
+urlbar-searchmode-bookmarks2 = Cytańske znamjenja
+urlbar-searchmode-tabs2 = Rejtariki
+urlbar-searchmode-history2 = Historija
+urlbar-searchmode-actions2 = Akcije
+urlbar-searchmode-exit-button2 =
+    .title = Zacyniś
+urlbar-searchmode-default2 =
+    .title = Standardna pytnica
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = „{ $engineName }“ pśidaś
+    .title = Pytnicu „{ $engineName }“ pśidaś
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Tenraz pytaś z:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Pytaś z:
+urlbar-searchmode-popup-search-settings-panelitem = Pytańske nastajenja
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -723,6 +723,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Utwreiding:
+urlbar-go-button2 =
+    .title = It adres yn de lokaasjebalke iepenje
 urlbar-go-button =
     .tooltiptext = It adres yn de lokaasjebalke iepenje
 urlbar-page-action-button =
@@ -955,14 +957,6 @@ urlbar-searchmode-default =
     .tooltiptext = Standertsykmasine
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Diskear sykje mei:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Sykje mei:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Diskear sykje mei:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -989,6 +983,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Sykje nei trefwurden is útskeakele
     .tooltiptext = Sykje nei trefwurden is útskeakele
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, kies in sykmasine
+urlbar-searchmode-button-no-engine2 =
+    .title = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Sykje nei trefwurden is útskeakele
+urlbar-searchmode-dropmarker2 =
+    .title = Kies in sykmasine
+urlbar-searchmode-bookmarks2 = Blêdwizers
+urlbar-searchmode-tabs2 = Ljepblêden
+urlbar-searchmode-history2 = Skiednis
+urlbar-searchmode-actions2 = Aksjes
+urlbar-searchmode-exit-button2 =
+    .title = Slute
+urlbar-searchmode-default2 =
+    .title = Standertsykmasine
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }” tafoegje
+    .title = Sykmasine “{ $engineName }” tafoegje
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Diskear sykje mei:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Sykje mei:
+urlbar-searchmode-popup-search-settings-panelitem = Sykynstellingen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -592,6 +592,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = از کار انداختن محافظت هم‌رسانی برای این نشست
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = برای استفاده از میانبر F12، ابتدا ابزارهای توسعه‌دهندگان را از طریق منوی ابزار مرورگر باز کنید.
@@ -653,6 +656,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = افزونه:
+urlbar-go-button2 =
+    .title = رفتن به نشانی موجود در نوار مکان
 urlbar-go-button =
     .tooltiptext = رفتن به نشانی موجود در نوار مکان
 urlbar-page-action-button =
@@ -733,6 +738,10 @@ urlbar-result-action-calculator-result-3 = = { NUMBER($result, useGrouping: "fal
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result-decimal = = { NUMBER($result, maximumSignificantDigits: 9) }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
 ## These strings are used for suggestions of important dates in the urlbar.
 
 # The name of an event and a note that it is happening today separated by a
@@ -769,10 +778,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = بستن
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = این بار جستجو با:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = این بار جستجو با:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -785,6 +790,25 @@ urlbar-searchmode-new = جدید
 urlbar-searchmode-button-no-engine =
     .label = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
     .tooltiptext = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
+urlbar-searchmode-button-no-engine2 =
+    .title = میانبری انتخاب نشده است، یک میانبر انتخاب کنید
+urlbar-searchmode-dropmarker2 =
+    .title = انتخاب یک موتور جستجو
+urlbar-searchmode-bookmarks2 = نشانک‌ها
+urlbar-searchmode-tabs2 = زبانه‌ها
+urlbar-searchmode-history2 = تاریخچه
+urlbar-searchmode-actions2 = کنش‌ها
+urlbar-searchmode-exit-button2 =
+    .title = بستن
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = افزودن «{ $engineName }»
+    .title = افزودن موتور جست‌وجوی «{ $engineName }»
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = این بار جستجو با:
+urlbar-searchmode-popup-search-settings-panelitem = تنظیمات جستجو
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1086,6 +1110,9 @@ tabs-toolbar-list-all-tabs =
     .label = فهرست کردن همهٔ زبانه‌ها
     .tooltiptext = فهرست کردن همهٔ زبانه‌ها
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1205,6 +1232,16 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = نمایش «‪{ $popupURI }‬»
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
 ## Onboarding Finish Setup checklist
 
 onboarding-checklist-button-label = پایان نصب
@@ -1213,3 +1250,10 @@ onboarding-checklist-button-label = پایان نصب
 
 trustpanel-clear-cookies-subview-button-cancel = انصراف
 trustpanel-blocker-see-all = نمايش همه
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

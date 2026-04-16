@@ -149,6 +149,9 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -161,6 +164,8 @@ urlbar-placeholder =
     .placeholder = Search or enter address
 urlbar-switch-to-tab =
     .value = Switch to tab:
+urlbar-go-button2 =
+    .title = Go to the address in the Location Bar
 urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
 

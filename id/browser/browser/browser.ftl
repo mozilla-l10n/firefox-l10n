@@ -634,6 +634,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Nonaktifkan perlindungan berbagi untuk sesi ini.
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Untuk menggunakan pintasan F12, pertama-tama, buka DevTools melalui menu Alat Peramban.
@@ -699,6 +702,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
+urlbar-go-button2 =
+    .title = Pindah ke alamat di Bilah Lokasi
 urlbar-go-button =
     .tooltiptext = Pindah ke alamat di Bilah Lokasi
 urlbar-page-action-button =
@@ -908,10 +913,6 @@ urlbar-searchmode-default =
     .tooltiptext = Mesin pencari baku
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Kali ini, cari dengan:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Kali ini, cari dengan:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -934,6 +935,35 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Pencarian kata kunci dinonaktifkan
     .tooltiptext = Pencarian kata kunci dinonaktifkan
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, pilih mesin pencari
+urlbar-searchmode-button-no-engine2 =
+    .title = Tidak ada pintasan yang dipilih, pilih pintasan
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Pencarian kata kunci dinonaktifkan
+urlbar-searchmode-dropmarker2 =
+    .title = Pilih Mesin Pencari
+urlbar-searchmode-bookmarks2 = Markah
+urlbar-searchmode-tabs2 = Tab
+urlbar-searchmode-history2 = Riwayat
+urlbar-searchmode-actions2 = Aksi
+urlbar-searchmode-exit-button2 =
+    .title = Tutup
+urlbar-searchmode-default2 =
+    .title = Mesin pencari baku
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Tambahkan "{ $engineName }"
+    .title = Tambahkan mesin pencari "{ $engineName }"
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Kali ini, cari dengan:
+urlbar-searchmode-popup-search-settings-panelitem = Setelan Pencarian
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

@@ -474,6 +474,12 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = මෙම වාරය සඳහා බෙදාගැනීමේ ආරක්‍ෂාව අබල කරන්න
 
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -531,6 +537,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
+urlbar-go-button2 =
+    .title = ස්ථාන තීරුවේ ලිපිනය වෙත යන්න
 urlbar-go-button =
     .tooltiptext = ස්ථාන තීරුවේ ලිපිනය වෙත යන්න
 urlbar-page-action-button =
@@ -583,6 +591,13 @@ urlbar-result-action-copy-to-clipboard = පිටපතක්
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -596,6 +611,15 @@ urlbar-searchmode-history =
     .label = ඉතිහාසය
 urlbar-searchmode-actions =
     .label = ක්‍රියාමාර්ග
+urlbar-searchmode-bookmarks2 = පොත්යොමු
+urlbar-searchmode-tabs2 = පටිති
+urlbar-searchmode-history2 = ඉතිහාසය
+urlbar-searchmode-actions2 = ක්‍රියාමාර්ග
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = "{ $engineName }" එක් කරන්න
+    .title = “{ $engineName }” සෙවුම් යන්ත්‍රය එක් කරන්න
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -825,6 +849,10 @@ edit-popup-settings =
     .label = උත්පතන සැකසුම් කළමනාකරණය…
     .accesskey = M
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
 
 
@@ -862,6 +890,9 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = සියළු පටිති ලේඛනය
     .tooltiptext = සියළු පටිති ලේඛනය
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -905,6 +936,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         දිගු
         ඇතැම් දිගු සඳහා ඉඩ නොදේ
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -973,3 +1008,16 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = බහාලුමෙහි පෙන්වන්න
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

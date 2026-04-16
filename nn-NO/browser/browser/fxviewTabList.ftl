@@ -79,9 +79,6 @@ fxviewtabrow-mute-tab-button-no-context =
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Lyd på i fane
 # The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Slå på synkronisering for å sende ei fane
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Kople til telefonen din
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Ser du ikkje eininga di?
+fxviewtabrow-send-to-mobile-enable-sync2 = Slå på synkronisering for å sende ei fane
+fxviewtabrow-send-to-mobile-connect-phone2 = Kople til telefonen din
+fxviewtabrow-send-to-mobile-device-missing2 = Ser du ikkje eininga di?

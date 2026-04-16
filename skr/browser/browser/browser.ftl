@@ -561,6 +561,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ایں سیشن کیتے شیئرنگ تحفظ کوں غیر فعال کرو
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 شاٹ کٹ استعمال کرݨ کیتے، پہلے DevTools بذریعہ براؤزر ٹول مینیو کھولو۔
@@ -622,6 +625,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ایکسٹینشن:
+urlbar-go-button2 =
+    .title = لوکیشن بار وِچ ݙتے ڳئے پتے تے ونڄو
 urlbar-go-button =
     .tooltiptext = لوکیشن بار وِچ ݙتے ڳئے پتے تے ونڄو
 urlbar-page-action-button =
@@ -698,6 +703,9 @@ urlbar-result-action-calculator-result-scientific-notation = = { $result }
 
 urlbar-result-realtime-opt-in-dismiss = فارغ کرو
 
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -726,10 +734,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = بند کرو
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = ایں واری، دے نال ڳولو:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = ایں واری، دے نال ڳولو:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -739,6 +743,23 @@ urlbar-searchmode-popup-search-settings-menuitem =
     .label = ڳولݨ ترتیباں
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = نواں
+urlbar-searchmode-dropmarker2 =
+    .title = ڳولݨ انجݨ چݨو
+urlbar-searchmode-bookmarks2 = نشانیاں
+urlbar-searchmode-tabs2 = ٹیباں
+urlbar-searchmode-history2 = تاریخ
+urlbar-searchmode-actions2 = عمل
+urlbar-searchmode-exit-button2 =
+    .title = بند کرو
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = رلاؤ { $engineName }
+    .title = ڳولݨ انجݨ رلاؤ { $engineName }
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ایں واری، دے نال ڳولو:
+urlbar-searchmode-popup-search-settings-panelitem = ڳولݨ ترتیباں
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1047,6 +1068,9 @@ tabs-toolbar-list-all-tabs =
     .label = تمام ٹیبز دی تندیر بݨاؤ
     .tooltiptext = تمام ٹیبز دی تندیر بݨاؤ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1098,6 +1122,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -1190,7 +1218,17 @@ file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
 
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-clear = صاف کرو
 trustpanel-clear-cookies-subview-button-cancel = منسوخ
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

@@ -716,6 +716,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 확장 기능:
+urlbar-go-button2 =
+    .title = 주소 표시줄의 주소로 이동
 urlbar-go-button =
     .tooltiptext = 주소 표시줄의 주소로 이동
 urlbar-page-action-button =
@@ -936,14 +938,6 @@ urlbar-searchmode-default =
     .tooltiptext = 기본 검색 엔진
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = 이번만 검색:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = 검색:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = 이번만 검색:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -970,6 +964,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = 키워드 검색이 비활성화됨
     .tooltiptext = 키워드 검색이 비활성화됨
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, 검색 엔진 선택
+urlbar-searchmode-button-no-engine2 =
+    .title = 선택된 바로 가기 없음, 바로 가기를 선택하세요
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = 키워드 검색이 비활성화됨
+urlbar-searchmode-dropmarker2 =
+    .title = 검색 엔진 선택
+urlbar-searchmode-bookmarks2 = 북마크
+urlbar-searchmode-tabs2 = 탭
+urlbar-searchmode-history2 = 기록
+urlbar-searchmode-actions2 = 작업
+urlbar-searchmode-exit-button2 =
+    .title = 닫기
+urlbar-searchmode-default2 =
+    .title = 기본 검색 엔진
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }” 추가
+    .title = “{ $engineName }” 검색 엔진 추가
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = 이번만 검색:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = 검색:
+urlbar-searchmode-popup-search-settings-panelitem = 검색 설정
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

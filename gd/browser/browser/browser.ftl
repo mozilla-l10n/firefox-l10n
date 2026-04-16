@@ -654,6 +654,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice innealan a’ bhrabhsair.
@@ -719,6 +722,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Leudachan:
+urlbar-go-button2 =
+    .title = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-go-button =
     .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-page-action-button =
@@ -957,14 +962,6 @@ urlbar-searchmode-default =
     .tooltiptext = An t-einnsean-luirg bunaiteach
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Dèan lorg leis na leanas an turas seo:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Lorg le:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Dèan lorg leis na leanas an turas seo:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -991,6 +988,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Tha lorg le briathran-luirg à comas
     .tooltiptext = Tha lorg le briathran-luirg à comas
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, tagh einnsean-luirg
+urlbar-searchmode-button-no-engine2 =
+    .title = Cha deach ath-ghoirid a thaghadh; tagh ath-ghoirid
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Tha lorg le briathran-luirg à comas
+urlbar-searchmode-dropmarker2 =
+    .title = Tagh einnsean-luirg
+urlbar-searchmode-bookmarks2 = Comharran-lìn
+urlbar-searchmode-tabs2 = Tabaichean
+urlbar-searchmode-history2 = An eachdraidh
+urlbar-searchmode-actions2 = Gnìomhan
+urlbar-searchmode-exit-button2 =
+    .title = Dùin
+urlbar-searchmode-default2 =
+    .title = An t-einnsean-luirg bunaiteach
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Cuir “{ $engineName }” ris
+    .title = Cuir einnsean-luirg “{ $engineName }” ris
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Dèan lorg leis na leanas an turas seo:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Lorg le:
+urlbar-searchmode-popup-search-settings-panelitem = Roghainnean luirg
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

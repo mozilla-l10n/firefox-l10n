@@ -647,6 +647,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Poista jakamisen suojaus tästä istunnosta
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Käyttääksesi F12-pikanäppäintä, avaa ensin DevTools selaimen työkaluvalikosta.
@@ -712,6 +715,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laajennus:
+urlbar-go-button2 =
+    .title = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-go-button =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
@@ -944,14 +949,6 @@ urlbar-searchmode-default =
     .tooltiptext = Oletushakukone
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Tällä kertaa käytä hakuun:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Hae palvelulla:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Tällä kertaa käytä hakuun:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -978,6 +975,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Avainsanahaku on poistettu käytöstä
     .tooltiptext = Avainsanahaku on poistettu käytöstä
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, valitse hakukone
+urlbar-searchmode-button-no-engine2 =
+    .title = Oikotietä ei ole valittu, valitse oikotie
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Avainsanahaku on poistettu käytöstä
+urlbar-searchmode-dropmarker2 =
+    .title = Valitse hakukone
+urlbar-searchmode-bookmarks2 = Kirjanmerkit
+urlbar-searchmode-tabs2 = Välilehdet
+urlbar-searchmode-history2 = Sivuhistoria
+urlbar-searchmode-actions2 = Toiminnot
+urlbar-searchmode-exit-button2 =
+    .title = Sulje
+urlbar-searchmode-default2 =
+    .title = Oletushakukone
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Lisää ”{ $engineName }”
+    .title = Lisää hakukone ”{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Tällä kertaa käytä hakuun:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Hae palvelulla:
+urlbar-searchmode-popup-search-settings-panelitem = Hakuasetukset
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

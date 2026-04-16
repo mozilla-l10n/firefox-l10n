@@ -723,6 +723,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Jepysokue:
+urlbar-go-button2 =
+    .title = Kundaharape renda URL-pe jeho
 urlbar-go-button =
     .tooltiptext = Kundaharape renda URL-pe jeho
 urlbar-page-action-button =
@@ -955,14 +957,6 @@ urlbar-searchmode-default =
     .tooltiptext = Hekaha mongu’eha ypygua
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Ko’ág̃a eheka hendive:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Eheka Kóvandi:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Ko’ág̃a eheka hendive:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -989,6 +983,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Ñe’ẽñemi jehekaha oñemboguéma
     .tooltiptext = Ñe’ẽñemi jehekaha oñemboguéma
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, eiporavo jehekaha
+urlbar-searchmode-button-no-engine2 =
+    .title = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Ñe’ẽñemi jehekaha oñemboguéma
+urlbar-searchmode-dropmarker2 =
+    .title = Eiporavo jehekaha
+urlbar-searchmode-bookmarks2 = Techaukaha
+urlbar-searchmode-tabs2 = Tendaykekuéra
+urlbar-searchmode-history2 = Tembiasakue
+urlbar-searchmode-actions2 = Ñemongu’e
+urlbar-searchmode-exit-button2 =
+    .title = Mboty
+urlbar-searchmode-default2 =
+    .title = Hekaha mongu’eha ypygua
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Embojuaju “{ $engineName }”
+    .title = Embojuaju jehekaha mongu’eha “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Ko’ág̃a eheka hendive:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Eheka Kóvandi:
+urlbar-searchmode-popup-search-settings-panelitem = Jehekaha ñemboheko
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

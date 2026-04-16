@@ -646,6 +646,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ამ სეანსზე გაზიარების დაცვის გამორთვა
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 მალსახმობის გამოსაყენებლად ჯერ გახსენით DevTools ბრაუზერის ხელსაწყობის მენიუდან.
@@ -711,6 +714,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = გაფართოება:
+urlbar-go-button2 =
+    .title = მისამართზე გადასვლა
 urlbar-go-button =
     .tooltiptext = მისამართზე გადასვლა
 urlbar-page-action-button =
@@ -943,14 +948,6 @@ urlbar-searchmode-default =
     .tooltiptext = ნაგულისხმევი საძიებო
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = ძიებისთვის ამჯერად გამოიყენეთ:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = ძიება სისტემით:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = ძიებისთვის ამჯერად გამოიყენეთ:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -977,6 +974,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = საკვანძო სიტყვებით ძიება გამორთულია
     .tooltiptext = საკვანძო სიტყვებით ძიება გამორთულია
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, საძიებოს არჩევა
+urlbar-searchmode-button-no-engine2 =
+    .title = მალსახმობი არაა მითითებული, მალსახმობის არჩევა
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = საკვანძო სიტყვებით ძიება გამორთულია
+urlbar-searchmode-dropmarker2 =
+    .title = საძიებოს არჩევა
+urlbar-searchmode-bookmarks2 = სანიშნები
+urlbar-searchmode-tabs2 = ჩანართები
+urlbar-searchmode-history2 = ისტორია
+urlbar-searchmode-actions2 = მოქმედებები
+urlbar-searchmode-exit-button2 =
+    .title = დახურვა
+urlbar-searchmode-default2 =
+    .title = ნაგულისხმევი საძიებო
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = დაამატეთ „{ $engineName }“
+    .title = დაემატება საძიებოდ „{ $engineName }“
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ძიებისთვის ამჯერად გამოიყენეთ:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = ძიება სისტემით:
+urlbar-searchmode-popup-search-settings-panelitem = ძიების პარამეტრები
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

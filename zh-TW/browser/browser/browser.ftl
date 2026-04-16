@@ -720,6 +720,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 擴充套件:
+urlbar-go-button2 =
+    .title = 按此前往網址列中的網址
 urlbar-go-button =
     .tooltiptext = 按此前往網址列中的網址
 urlbar-page-action-button =
@@ -952,14 +954,6 @@ urlbar-searchmode-default =
     .tooltiptext = 預設搜尋引擎
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = 這次使用下列搜尋引擎搜尋：
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = 使用下列引擎搜尋：
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = 這次使用下列搜尋引擎搜尋：
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -986,6 +980,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = 已停用關鍵字搜尋
     .tooltiptext = 已停用關鍵字搜尋
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }，挑選一套搜尋引擎
+urlbar-searchmode-button-no-engine2 =
+    .title = 未選擇捷徑，請挑選一個捷徑
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = 已停用關鍵字搜尋
+urlbar-searchmode-dropmarker2 =
+    .title = 挑選一套搜尋引擎
+urlbar-searchmode-bookmarks2 = 書籤
+urlbar-searchmode-tabs2 = 分頁
+urlbar-searchmode-history2 = 瀏覽紀錄
+urlbar-searchmode-actions2 = 動作
+urlbar-searchmode-exit-button2 =
+    .title = 關閉
+urlbar-searchmode-default2 =
+    .title = 預設搜尋引擎
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = 新增「{ $engineName }」
+    .title = 新增「{ $engineName }」搜尋引擎
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = 這次使用下列搜尋引擎搜尋：
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = 使用下列引擎搜尋：
+urlbar-searchmode-popup-search-settings-panelitem = 搜尋設定
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

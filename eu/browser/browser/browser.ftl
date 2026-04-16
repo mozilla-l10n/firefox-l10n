@@ -720,6 +720,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Hedapena:
+urlbar-go-button2 =
+    .title = Joan kokapen-barrako helbidera
 urlbar-go-button =
     .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
@@ -952,14 +954,6 @@ urlbar-searchmode-default =
     .tooltiptext = Bilaketa-motor lehenetsia
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Oraingoan, bilatu honekin:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Bilatu honekin:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Oraingoan, bilatu honekin:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -986,6 +980,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Gako-hitz bidezko bilaketa desgaituta dago
     .tooltiptext = Gako-hitz bidezko bilaketa desgaituta dago
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, hautatu bilaketa-motorra
+urlbar-searchmode-button-no-engine2 =
+    .title = Ez da lasterbiderik hautatu, hautatu lasterbidea
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Gako-hitz bidezko bilaketa desgaituta dago
+urlbar-searchmode-dropmarker2 =
+    .title = Hautatu bilaketa-motorra
+urlbar-searchmode-bookmarks2 = Laster-markak
+urlbar-searchmode-tabs2 = Fitxak
+urlbar-searchmode-history2 = Historia
+urlbar-searchmode-actions2 = Ekintzak
+urlbar-searchmode-exit-button2 =
+    .title = Itxi
+urlbar-searchmode-default2 =
+    .title = Bilaketa-motor lehenetsia
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Gehitu "{ $engineName }"
+    .title = Gehitu "{ $engineName }" bilaketa-motorra
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Oraingoan, bilatu honekin:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Bilatu honekin:
+urlbar-searchmode-popup-search-settings-panelitem = Bilaketa-ezarpenak
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

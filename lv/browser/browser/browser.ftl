@@ -639,6 +639,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Izslēgt koplietošanas aizsardzību šai sesijai
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Lai izmantotu īsinājumtaustiņu F12, izvēlnē Pārlūka Rīki atveriet sadaļu Izstrādātāju Rīki.
@@ -704,6 +707,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplašinājums:
+urlbar-go-button2 =
+    .title = Iet uz adresi, kas ir atrašanās vietas joslā
 urlbar-go-button =
     .tooltiptext = Iet uz adresi, kas ir atrašanās vietas joslā
 urlbar-page-action-button =
@@ -925,10 +930,6 @@ urlbar-searchmode-default =
     .tooltiptext = Noklusējuma meklēšanas dzinis
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Šajā reizē meklēt ar:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Šajā reizē meklēt ar:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -947,6 +948,32 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nav atlasīta neviena saīsne, jāizvēlas saīsne
     .tooltiptext = Nav atlasīta neviena saīsne, jāizvēlas saīsne
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, izvēlēties meklētājprogrammu
+urlbar-searchmode-button-no-engine2 =
+    .title = Nav atlasīta neviena saīsne, jāizvēlas saīsne
+urlbar-searchmode-dropmarker2 =
+    .title = Izvēlieties meklēšanas dzini
+urlbar-searchmode-bookmarks2 = Grāmatzīmes
+urlbar-searchmode-tabs2 = Cilnes
+urlbar-searchmode-history2 = Vēsture
+urlbar-searchmode-actions2 = Darbības
+urlbar-searchmode-exit-button2 =
+    .title = Aizvērt
+urlbar-searchmode-default2 =
+    .title = Noklusējuma meklēšanas dzinis
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Pievienot “{ $engineName }”
+    .title = Pievienot meklētājprogrammu “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Šajā reizē meklēt ar:
+urlbar-searchmode-popup-search-settings-panelitem = Meklēšanās iestatījumi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1513,6 +1540,9 @@ trustpanel-blocker-see-all = Redzēt visu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Aizsardzība pret izsekošanu { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

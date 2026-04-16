@@ -725,6 +725,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Расширение:
+urlbar-go-button2 =
+    .title = Перейти по введённому адресу
 urlbar-go-button =
     .tooltiptext = Перейти по введённому адресу
 urlbar-page-action-button =
@@ -960,14 +962,6 @@ urlbar-searchmode-default =
     .tooltiptext = Поисковая система по умолчанию
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = В этот раз искать в:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Искать в:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = В этот раз искать в:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -994,6 +988,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Поиск по ключевым словам отключён
     .tooltiptext = Поиск по ключевым словам отключён
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, выберите поисковую систему
+urlbar-searchmode-button-no-engine2 =
+    .title = Ярлык не выбран, выберите ярлык
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Поиск по ключевым словам отключён
+urlbar-searchmode-dropmarker2 =
+    .title = Выберите поисковую систему
+urlbar-searchmode-bookmarks2 = Закладки
+urlbar-searchmode-tabs2 = Вкладки
+urlbar-searchmode-history2 = Журнал
+urlbar-searchmode-actions2 = Действия
+urlbar-searchmode-exit-button2 =
+    .title = Закрыть
+urlbar-searchmode-default2 =
+    .title = Поисковая система по умолчанию
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Добавить «{ $engineName }»
+    .title = Добавить поисковую систему «{ $engineName }»
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = В этот раз искать в:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Искать в:
+urlbar-searchmode-popup-search-settings-panelitem = Параметры поиска
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

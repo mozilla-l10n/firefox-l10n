@@ -720,6 +720,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = הרחבה:
+urlbar-go-button2 =
+    .title = מעבר לכתובת שבסרגל המיקום
 urlbar-go-button =
     .tooltiptext = מעבר לכתובת שבסרגל המיקום
 urlbar-page-action-button =
@@ -953,14 +955,6 @@ urlbar-searchmode-default =
     .tooltiptext = מנוע חיפוש ברירת מחדל
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = הפעם לחפש באמצעות:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = חיפוש באמצעות:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = הפעם לחפש באמצעות:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -987,6 +981,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = חיפוש באמצעות מילות מפתח מושבת
     .tooltiptext = חיפוש באמצעות מילות מפתח מושבת
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = ‏{ $engine }, בחירת מנוע חיפוש
+urlbar-searchmode-button-no-engine2 =
+    .title = לא נבחר קיצור דרך, בחירת קיצור דרך
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = חיפוש באמצעות מילות מפתח מושבת
+urlbar-searchmode-dropmarker2 =
+    .title = בחירת מנוע חיפוש
+urlbar-searchmode-bookmarks2 = סימניות
+urlbar-searchmode-tabs2 = לשוניות
+urlbar-searchmode-history2 = היסטוריה
+urlbar-searchmode-actions2 = פעולות
+urlbar-searchmode-exit-button2 =
+    .title = סגירה
+urlbar-searchmode-default2 =
+    .title = מנוע חיפוש ברירת מחדל
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = הוספת “{ $engineName }”
+    .title = הוספת מנוע החיפוש “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = הפעם לחפש באמצעות:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = חיפוש באמצעות:
+urlbar-searchmode-popup-search-settings-panelitem = הגדרות חיפוש
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

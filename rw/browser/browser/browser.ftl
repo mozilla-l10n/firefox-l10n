@@ -82,11 +82,16 @@ browser-window-minimize-button =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
 ## URL Bar
 
+urlbar-go-button2 =
+    .title = Kujya kuri aderesi mu Mwanya w'Indangahantu
 urlbar-go-button =
     .tooltiptext = Kujya kuri aderesi mu Mwanya w'Indangahantu
 

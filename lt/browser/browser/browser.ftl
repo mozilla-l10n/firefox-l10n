@@ -483,6 +483,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Išjungti dalinimosi apsaugą šiam seansui
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
@@ -544,6 +547,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Priedas:
+urlbar-go-button2 =
+    .title = Eiti į adreso lauke surinktą adresą
 urlbar-go-button =
     .tooltiptext = Eiti į adreso lauke surinktą adresą
 urlbar-page-action-button =
@@ -596,6 +601,13 @@ urlbar-result-action-copy-to-clipboard = Kopijuoti
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -606,6 +618,15 @@ urlbar-searchmode-history =
     .label = Žurnalas
 urlbar-searchmode-actions =
     .label = Veiksmai
+urlbar-searchmode-bookmarks2 = Adresynas
+urlbar-searchmode-tabs2 = Kortelės
+urlbar-searchmode-history2 = Žurnalas
+urlbar-searchmode-actions2 = Veiksmai
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Pridėti „{ $engineName }“
+    .title = Pridėti ieškyklę „{ $engineName }“
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -886,11 +907,17 @@ tabs-toolbar-list-all-tabs =
     .label = Pateikti visas korteles
     .tooltiptext = Pateikti visas korteles
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Atverti ankstesnes korteles?</strong> Galite atkurti savo ankstesnį seansą iš „{ -brand-short-name }“ programos meniu <img data-l10n-name="icon"/>, iš žurnalo.
 restore-session-startup-suggestion-button = Parodyti instrukciją
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -916,6 +943,14 @@ unified-extensions-button-permissions-needed =
         Priedai
         Reikia leidimų
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
@@ -937,6 +972,9 @@ refresh-blocked-redirect-label = „{ -brand-short-name }“ neleido šiam tinkl
 refresh-blocked-allow =
     .label = Leisti
     .accesskey = L
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -978,3 +1016,26 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Rodyti „{ $popupURI }“
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

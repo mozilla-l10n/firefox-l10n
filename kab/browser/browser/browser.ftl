@@ -622,6 +622,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = I useqdec n unezgum F12, ldi qbel DevTools seg wumuɣ n yifecka n yiminig.
@@ -687,6 +690,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Asiɣzef:
+urlbar-go-button2 =
+    .title = Ddu ɣer usebter n ufeggag n tansa
 urlbar-go-button =
     .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
 urlbar-page-action-button =
@@ -891,10 +896,6 @@ urlbar-searchmode-default =
     .tooltiptext = Amsedday n unadi amezwer
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Tikkelt-a, nadi s:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Tikkelt-a, nadi s:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -913,6 +914,32 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ulac anegzum n unasiw i yettwafernen, ren anegzum
     .tooltiptext = Ulac anegzum n unasiw i yettwafernen, ren anegzum
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, fren amsedday n unadi
+urlbar-searchmode-button-no-engine2 =
+    .title = Ulac anegzum n unasiw i yettwafernen, ren anegzum
+urlbar-searchmode-dropmarker2 =
+    .title = Fren amsedday n unadi
+urlbar-searchmode-bookmarks2 = Ticraḍ n isebtar
+urlbar-searchmode-tabs2 = Tibzimin
+urlbar-searchmode-history2 = Azray
+urlbar-searchmode-actions2 = Tigawin
+urlbar-searchmode-exit-button2 =
+    .title = Mdel
+urlbar-searchmode-default2 =
+    .title = Amsedday n unadi amezwer
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Rnu “{ $engineName }”
+    .title = Rnu amsedday n unadi “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Tikkelt-a, nadi s:
+urlbar-searchmode-popup-search-settings-panelitem = Iɣewwaren n unadi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1230,6 +1257,9 @@ tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1313,6 +1343,9 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 

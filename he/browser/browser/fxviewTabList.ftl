@@ -79,9 +79,6 @@ fxviewtabrow-mute-tab-button-no-context =
 fxviewtabrow-unmute-tab-button-no-context =
     .title = ביטול השתקת לשונית
 # The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = יש להפעיל סנכרון כדי לשלוח לשונית
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = חיבור לטלפון שלך
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = לא רואה את המכשיר שלך?
+fxviewtabrow-send-to-mobile-enable-sync2 = יש להפעיל סנכרון כדי לשלוח לשונית
+fxviewtabrow-send-to-mobile-connect-phone2 = חיבור לטלפון שלך
+fxviewtabrow-send-to-mobile-device-missing2 = לא רואה את המכשיר שלך?

@@ -79,9 +79,6 @@ fxviewtabrow-mute-tab-button-no-context =
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Malsilentigi langeton
 # The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Permesi al spegulado sendi langeton
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Konektu vian telefonon
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Ĉu vi ne vidas vian aparaton?
+fxviewtabrow-send-to-mobile-enable-sync2 = Permesi al spegulado sendi langeton
+fxviewtabrow-send-to-mobile-connect-phone2 = Konektu vian telefonon
+fxviewtabrow-send-to-mobile-device-missing2 = Ĉu vi ne vidas vian aparaton?

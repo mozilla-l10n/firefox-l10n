@@ -723,6 +723,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension :
+urlbar-go-button2 =
+    .title = Se rendre à la page indiquée dans la barre d’adresse
 urlbar-go-button =
     .tooltiptext = Se rendre à la page indiquée dans la barre d’adresse
 urlbar-page-action-button =
@@ -955,14 +957,6 @@ urlbar-searchmode-default =
     .tooltiptext = Moteur de recherche par défaut
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Pour cette fois-ci, rechercher avec :
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Rechercher avec :
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Pour cette fois-ci, rechercher avec :
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -989,6 +983,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La recherche par mot-clé est désactivée
     .tooltiptext = La recherche par mot-clé est désactivée
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, sélectionner un moteur de recherche
+urlbar-searchmode-button-no-engine2 =
+    .title = Aucun raccourci sélectionné, choisissez un raccourci
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La recherche par mot-clé est désactivée
+urlbar-searchmode-dropmarker2 =
+    .title = Choisir un moteur de recherche
+urlbar-searchmode-bookmarks2 = Marque-pages
+urlbar-searchmode-tabs2 = Onglets
+urlbar-searchmode-history2 = Historique
+urlbar-searchmode-actions2 = Actions
+urlbar-searchmode-exit-button2 =
+    .title = Fermer
+urlbar-searchmode-default2 =
+    .title = Moteur de recherche par défaut
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Ajouter « { $engineName } »
+    .title = Ajouter le moteur de recherche « { $engineName } »
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Pour cette fois-ci, rechercher avec :
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Rechercher avec :
+urlbar-searchmode-popup-search-settings-panelitem = Paramètres de recherche
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

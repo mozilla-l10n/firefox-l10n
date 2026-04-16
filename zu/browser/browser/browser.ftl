@@ -88,6 +88,9 @@ browser-window-minimize-button =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -97,6 +100,8 @@ urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
+urlbar-go-button2 =
+    .title = Yiya ku kheli kubha yendawo
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
 

@@ -640,6 +640,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = За да използвате клавишна комбинация F12, първо отворете DevTools от менюто с инструменти на четеца.
@@ -705,6 +708,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Разширение:
+urlbar-go-button2 =
+    .title = Зареждане на адреса в полето
 urlbar-go-button =
     .tooltiptext = Зареждане на адреса в полето
 urlbar-page-action-button =
@@ -927,10 +932,6 @@ urlbar-searchmode-default =
     .tooltiptext = Търсеща машина по подразбиране
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Този път търсете с:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Този път търсете с:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -949,6 +950,32 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Няма избрана клавишна комбинация, изберете една
     .tooltiptext = Няма избрана клавишна комбинация, изберете една
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, изберете търсеща машина
+urlbar-searchmode-button-no-engine2 =
+    .title = Няма избрана клавишна комбинация, изберете една
+urlbar-searchmode-dropmarker2 =
+    .title = Изберете търсеща машина
+urlbar-searchmode-bookmarks2 = Отметки
+urlbar-searchmode-tabs2 = Раздели
+urlbar-searchmode-history2 = История
+urlbar-searchmode-actions2 = Действия
+urlbar-searchmode-exit-button2 =
+    .title = Затваряне
+urlbar-searchmode-default2 =
+    .title = Търсеща машина по подразбиране
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Добавяне на „{ $engineName }“
+    .title = Добавя търсещата машина „{ $engineName }“
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Този път търсете с:
+urlbar-searchmode-popup-search-settings-panelitem = Настройки за търсене
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1506,6 +1533,9 @@ trustpanel-blocker-see-all = Вижте всички
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

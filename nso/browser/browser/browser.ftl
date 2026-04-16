@@ -88,6 +88,9 @@ browser-window-minimize-button =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -97,6 +100,8 @@ urlbar-placeholder =
     .placeholder = Nyaka goba o tsenye aterese
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
+urlbar-go-button2 =
+    .title = Eya atereseng go para ya lefelo
 urlbar-go-button =
     .tooltiptext = Eya atereseng go para ya lefelo
 

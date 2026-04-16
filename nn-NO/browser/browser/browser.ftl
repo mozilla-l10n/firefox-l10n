@@ -720,6 +720,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Utviding:
+urlbar-go-button2 =
+    .title = Gå til adressa i adresselinja
 urlbar-go-button =
     .tooltiptext = Gå til adressa i adresselinja
 urlbar-page-action-button =
@@ -952,14 +954,6 @@ urlbar-searchmode-default =
     .tooltiptext = Standard søkjemotor
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Søk denne gong med:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Søk med:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Søk denne gong med:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -986,6 +980,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Nøkkelordssøk er deaktivert
     .tooltiptext = Nøkkelordssøk er deaktivert
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, vel ein søkjemotor
+urlbar-searchmode-button-no-engine2 =
+    .title = Ingen snarveg valt, vel ein snarveg
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Nøkkelordssøk er deaktivert
+urlbar-searchmode-dropmarker2 =
+    .title = Vel ein søkjemotor
+urlbar-searchmode-bookmarks2 = Bokmerke
+urlbar-searchmode-tabs2 = Faner
+urlbar-searchmode-history2 = Historikk
+urlbar-searchmode-actions2 = Handlingar
+urlbar-searchmode-exit-button2 =
+    .title = Lat att
+urlbar-searchmode-default2 =
+    .title = Standard søkjemotor
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Legg til «{ $engineName }»
+    .title = Legg til søkjemotor «{ $engineName }»
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Søk denne gong med:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Søk med:
+urlbar-searchmode-popup-search-settings-panelitem = Søkjeinnstillingar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

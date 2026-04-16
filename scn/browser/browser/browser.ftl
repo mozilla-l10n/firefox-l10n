@@ -218,6 +218,14 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Chiuji
 
+## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -227,6 +235,15 @@ browser-import-button2 =
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni.
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
 
 ## URL Bar
 
@@ -260,6 +277,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Stinneriu:
+urlbar-go-button2 =
+    .title = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-go-button =
     .tooltiptext = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-page-action-button =
@@ -291,6 +310,13 @@ urlbar-result-action-before-tabtosearch-web = Ammacca Tab pi riscèdiri cu { $en
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Riscedi cu { $engine } direttu dâ barra dû nnirizzu
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -304,10 +330,6 @@ urlbar-searchmode-bookmarks =
     .label = Nzingalibbra
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Sta vota riscedi cu:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Sta vota riscedi cu:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -315,12 +337,20 @@ urlbar-searchmode-popup-description-menucaption =
 urlbar-searchmode-popup-description = Sta vota riscedi cu:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Mpustazzioni di risciduta
+urlbar-searchmode-bookmarks2 = Nzingalibbra
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Sta vota riscedi cu:
+urlbar-searchmode-popup-search-settings-panelitem = Mpustazzioni di risciduta
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
 
 urlbar-result-action-search-bookmarks = Riscedi nnê nzingalibbra
+
+## Labels shown above groups of urlbar results
+
 
 ## Reader View toolbar buttons
 
@@ -330,6 +360,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Chiuji mudalità littura
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -423,6 +458,9 @@ save-to-pocket-button =
     .label = Sarba nne { -pocket-brand-name }
     .tooltiptext = Sarba nne { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -437,16 +475,30 @@ toolbar-button-open-file =
     .label = Grapi pricu
     .tooltiptext = Grapi un pricu ({ $shortcut })
 
+## EME notification panel
+
+
+## Password save/update panel
+
+
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Chiuji
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
 picture-in-picture-hide-toggle =
     .label = Ammuccia buttuni dâ mmàggini-nnâ-mmàggini
     .accesskey = A
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
 
 ##
 
@@ -486,6 +538,18 @@ tabs-toolbar-list-all-tabs =
     .label = Lista di tutti i schedi
     .tooltiptext = Lista di tutti i schedi
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+
 ## Unified extensions (toolbar) button
 
 unified-extensions-button =
@@ -519,12 +583,18 @@ unified-extensions-button-blocklisted =
         Stinneri
         Certi stinneri sunnu sdisabbilitati
 
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-redirect-label = { -brand-short-name } bluccau sta pàggina di purtàriti ’n autumàticu a n’autra pàggina.
 refresh-blocked-allow =
     .label = Pirmetti
     .accesskey = P
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -549,3 +619,26 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Mustra “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+

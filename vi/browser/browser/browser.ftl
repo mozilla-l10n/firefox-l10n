@@ -716,6 +716,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tiện ích mở rộng:
+urlbar-go-button2 =
+    .title = Mở trang trong thanh địa chỉ
 urlbar-go-button =
     .tooltiptext = Mở trang trong thanh địa chỉ
 urlbar-page-action-button =
@@ -936,14 +938,6 @@ urlbar-searchmode-default =
     .tooltiptext = Công cụ tìm kiếm mặc định
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Lần này, tìm kiếm với:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Tìm kiếm với:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Lần này, tìm kiếm với:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -970,6 +964,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Từ khoá tìm kiếm bị vô hiệu hoá
     .tooltiptext = Từ khoá tìm kiếm bị vô hiệu hoá
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, chọn một công cụ tìm kiếm
+urlbar-searchmode-button-no-engine2 =
+    .title = Không có lối tắt được chọn, hãy chọn một lối tắt
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Từ khoá tìm kiếm bị vô hiệu hoá
+urlbar-searchmode-dropmarker2 =
+    .title = Chọn công cụ tìm kiếm
+urlbar-searchmode-bookmarks2 = Dấu trang
+urlbar-searchmode-tabs2 = Thẻ
+urlbar-searchmode-history2 = Lịch sử
+urlbar-searchmode-actions2 = Hành động
+urlbar-searchmode-exit-button2 =
+    .title = Đóng
+urlbar-searchmode-default2 =
+    .title = Công cụ tìm kiếm mặc định
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Thêm “{ $engineName }”
+    .title = Thêm công cụ tìm kiếm “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Lần này, tìm kiếm với:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Tìm kiếm với:
+urlbar-searchmode-popup-search-settings-panelitem = Cài đặt tìm kiếm
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

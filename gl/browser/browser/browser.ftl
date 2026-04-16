@@ -627,6 +627,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar a protección compartida para esta sesión
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para usar o atallo F12 abra primeiro as ferramentas de desenvolvemento mediante o menú de ferramentas do navegador.
@@ -692,6 +695,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensión:
+urlbar-go-button2 =
+    .title = Ir ao enderezo da barra de localización
 urlbar-go-button =
     .tooltiptext = Ir ao enderezo da barra de localización
 urlbar-page-action-button =
@@ -871,10 +876,6 @@ urlbar-searchmode-default =
     .tooltiptext = Motor de busca predeterminado
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Esta vez busca con:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Esta vez busca con:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -893,6 +894,32 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Non seleccionaches ningún atallo, escolle un atallo
     .tooltiptext = Non seleccionaches ningún atallo, escolle un atallo
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, selecciona un buscador
+urlbar-searchmode-button-no-engine2 =
+    .title = Non seleccionaches ningún atallo, escolle un atallo
+urlbar-searchmode-dropmarker2 =
+    .title = Escolle un buscador
+urlbar-searchmode-bookmarks2 = Marcadores
+urlbar-searchmode-tabs2 = Lapelas
+urlbar-searchmode-history2 = Historial
+urlbar-searchmode-actions2 = Accións
+urlbar-searchmode-exit-button2 =
+    .title = Pechar
+urlbar-searchmode-default2 =
+    .title = Motor de busca predeterminado
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Engadir «{ $engineName }»
+    .title = Engadir o motor de busca «{ $engineName }»
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Esta vez busca con:
+urlbar-searchmode-popup-search-settings-panelitem = Axustes da busca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1424,6 +1451,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

@@ -646,6 +646,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desativar a proteção de compartilhamento nesta sessão
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para usar o atalho F12, primeiro abra as ferramentas de desenvolvimento através do menu 'Ferramentas do navegador'.
@@ -711,6 +714,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensão:
+urlbar-go-button2 =
+    .title = Abrir a página
 urlbar-go-button =
     .tooltiptext = Abrir a página
 urlbar-page-action-button =
@@ -943,14 +948,6 @@ urlbar-searchmode-default =
     .tooltiptext = Mecanismo de pesquisa padrão
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Desta vez, pesquisar com:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Pesquisar com:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Desta vez, pesquisar com:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -977,6 +974,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = A pesquisa por palavra-chave está desativada
     .tooltiptext = A pesquisa por palavra-chave está desativada
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, escolha um mecanismo de pesquisa
+urlbar-searchmode-button-no-engine2 =
+    .title = Nenhum atalho selecionado, escolha um atalho
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = A pesquisa por palavra-chave está desativada
+urlbar-searchmode-dropmarker2 =
+    .title = Escolha um mecanismo de pesquisa
+urlbar-searchmode-bookmarks2 = Favoritos
+urlbar-searchmode-tabs2 = Abas
+urlbar-searchmode-history2 = Histórico
+urlbar-searchmode-actions2 = Ações
+urlbar-searchmode-exit-button2 =
+    .title = Fechar
+urlbar-searchmode-default2 =
+    .title = Mecanismo de pesquisa padrão
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Adicionar “{ $engineName }”
+    .title = Adicionar mecanismo de pesquisa “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Desta vez, pesquisar com:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Pesquisar com:
+urlbar-searchmode-popup-search-settings-panelitem = Configurações de pesquisa
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

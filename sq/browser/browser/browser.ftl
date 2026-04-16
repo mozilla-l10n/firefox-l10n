@@ -641,6 +641,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Mjete Shfletuesi.
@@ -706,6 +709,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Zgjerim:
+urlbar-go-button2 =
+    .title = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-go-button =
     .tooltiptext = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-page-action-button =
@@ -938,14 +943,6 @@ urlbar-searchmode-default =
     .tooltiptext = Motor parazgjedhje kërkimesh
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Këtë herë kërko me:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Kërko me:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Këtë herë kërko me:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -972,6 +969,38 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Kërkimi me fjalëkyçe është i çaktivizuar
     .tooltiptext = Kërkimi me fjalëkyçe është i çaktivizuar
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, zgjidhni një motor kërkimesh
+urlbar-searchmode-button-no-engine2 =
+    .title = S’u përzgjodh shkurtore, zgjidhni një shkurtore
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Kërkimi me fjalëkyçe është i çaktivizuar
+urlbar-searchmode-dropmarker2 =
+    .title = Zgjidhni një Motor Kërkimesh
+urlbar-searchmode-bookmarks2 = Faqerojtës
+urlbar-searchmode-tabs2 = Skeda
+urlbar-searchmode-history2 = Historik
+urlbar-searchmode-actions2 = Veprime
+urlbar-searchmode-exit-button2 =
+    .title = Mbylle
+urlbar-searchmode-default2 =
+    .title = Motor parazgjedhje kërkimesh
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Shtoni “{ $engineName }”
+    .title = Shtoni motorin e kërkimeve “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Këtë herë kërko me:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Kërko me:
+urlbar-searchmode-popup-search-settings-panelitem = Parametra Kërkimi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

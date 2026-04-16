@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The main browser window's title
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -27,6 +24,9 @@ browser-main-window-title = { -brand-full-name }
 
 
 ##
+
+
+## Searchbar context menu
 
 
 ## Page Action Context Menu
@@ -83,16 +83,31 @@ full-screen-exit =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
 ## URL Bar
 
+urlbar-go-button2 =
+    .title = Хаягийн самбарын хаяг бичих газар очно
 urlbar-go-button =
     .tooltiptext = Хаягийн самбарын хаяг бичих газар очно
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
 
 
 ## Action text shown in urlbar results, usually appended after the search
@@ -114,9 +129,6 @@ urlbar-go-button =
 ## Full Screen and Pointer Lock UI
 
 
-## Subframe crash notification
-
-
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-toolbar-chevron =
@@ -131,7 +143,6 @@ bookmarks-toolbar-chevron =
 
 bookmarks-search =
     .label = Хадгалсан хаяганд хайх
-
 bookmarks-toolbar-menu =
     .label = Хаягийн Багажит самбар
 bookmarks-toolbar-placeholder =
@@ -155,9 +166,6 @@ bookmarks-toolbar-placeholder-button =
 
 
 ## Password save/update panel
-
-
-## Add-on removal warning
 
 
 ##
@@ -184,15 +192,19 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Татаж авсан файлууд
-
 tabs-toolbar-new-tab =
     .label = Хөтлөгч самбар
-
 tabs-toolbar-list-all-tabs =
     .label = Бүх самбарын жагсаалтыг харуул
     .tooltiptext = Бүх самбарын жагсаалтыг харуул
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -208,11 +220,18 @@ tabs-toolbar-list-all-tabs =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } нь энэ хуудсыг автоматаар дахин дуудагдахаас сэргийлсэн
 refresh-blocked-redirect-label = { -brand-short-name } нь энэ хуудсыг өөр хуудас уруу автоматаар дамжуулагдахаас сэргийлсэн
-
 refresh-blocked-allow =
     .label = Зөвшөөр
     .accesskey = ш
@@ -220,13 +239,8 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 
-## Popup Notification
-
-
-## Pop-up Notification
-
-
 ## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -234,3 +248,26 @@ refresh-blocked-allow =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }'-г харуул
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
