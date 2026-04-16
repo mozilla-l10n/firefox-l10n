@@ -983,6 +983,28 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Ñe’ẽñemi jehekaha oñemboguéma
     .tooltiptext = Ñe’ẽñemi jehekaha oñemboguéma
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, eiporavo jehekaha
+urlbar-searchmode-button-no-engine2 =
+    .title = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
+urlbar-searchmode-dropmarker2 =
+    .title = Eiporavo jehekaha
+urlbar-searchmode-bookmarks2 = Techaukaha
+urlbar-searchmode-tabs2 = Tendaykekuéra
+urlbar-searchmode-history2 = Tembiasakue
+urlbar-searchmode-actions2 = Ñemongu’e
+urlbar-searchmode-exit-button2 =
+    .title = Mboty
+urlbar-searchmode-default2 =
+    .title = Hekaha mongu’eha ypygua
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Embojuaju “{ $engineName }”
+    .title = Embojuaju jehekaha mongu’eha “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
