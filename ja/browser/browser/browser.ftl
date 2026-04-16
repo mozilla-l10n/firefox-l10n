@@ -962,6 +962,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = キーワード検索が無効
     .tooltiptext = キーワード検索が無効です
+urlbar-searchmode-dropmarker2 =
+    .title = 検索エンジンを選択します
+urlbar-searchmode-bookmarks2 = ブックマーク
+urlbar-searchmode-tabs2 = タブ
+urlbar-searchmode-history2 = 履歴
+urlbar-searchmode-actions2 = アクション
+urlbar-searchmode-exit-button2 =
+    .title = 閉じる
+urlbar-searchmode-default2 =
+    .title = 既定の検索エンジン
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
