@@ -94,6 +94,9 @@ browser-window-close-button =
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -106,6 +109,8 @@ urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
+urlbar-go-button2 =
+    .title = Here navnîşana di Darikê Cihî de
 urlbar-go-button =
     .tooltiptext = Here navnîşana di Darikê Cihî de
 
