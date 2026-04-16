@@ -78,10 +78,3 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Vaimenna välilehti
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Palauta ääni
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Ota synkronointi käyttöön lähettääksesi välilehden
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Yhdistä puhelimesi
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Etkö näe laitettasi?
