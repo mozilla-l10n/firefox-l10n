@@ -987,6 +987,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }，挑選一套搜尋引擎
 urlbar-searchmode-button-no-engine2 =
     .title = 未選擇捷徑，請挑選一個捷徑
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = 已停用關鍵字搜尋
 urlbar-searchmode-dropmarker2 =
     .title = 挑選一套搜尋引擎
 urlbar-searchmode-bookmarks2 = 書籤
