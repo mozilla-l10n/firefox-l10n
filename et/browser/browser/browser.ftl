@@ -663,6 +663,10 @@ urlbar-searchmode-history =
     .label = Ajalugu
 urlbar-searchmode-actions =
     .label = Tegevused
+urlbar-searchmode-bookmarks2 = Järjehoidjad
+urlbar-searchmode-tabs2 = Kaardid
+urlbar-searchmode-history2 = Ajalugu
+urlbar-searchmode-actions2 = Tegevused
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
