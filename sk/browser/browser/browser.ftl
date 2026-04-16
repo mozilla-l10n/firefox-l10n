@@ -653,6 +653,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Vypnúť ochranu zdieľania pre túto reláciu
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Ak chcete použiť skratku F12, najprv otvorte Nástroje pre vývojárov webu cez ponuku Nástroje prehliadača.
@@ -956,14 +959,6 @@ urlbar-searchmode-default =
     .tooltiptext = Predvolený vyhľadávač
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Tentoraz vyhľadať pomocou:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Vyhľadávať pomocou:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Tentoraz vyhľadať pomocou:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -990,6 +985,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Vyhľadávanie kľúčových slov je vypnuté
     .tooltiptext = Vyhľadávanie kľúčových slov je vypnuté
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Pridať “{ $engineName }”
+    .title = Pridať vyhľadávací modul “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
