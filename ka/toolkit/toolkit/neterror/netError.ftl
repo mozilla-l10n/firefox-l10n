@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> უკან 
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = სერვერი <strong>{ $hostname }</strong> პასუხად აბრუნებს შეცდომას: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } არ ჩატვირთავს ამ გვერდს, ვინაიდან ჩანს, უსაფრთხოება გამართვა არ ემთხვევა წინა გვერდისას.
+fp-neterror-blocked-by-policy-intro = თქვენს დაწესებულებას შეზღუდული აქვს ამ გვერდთან ან ვებსაიტთან წვდომა.
 fp-neterror-http-auth-disabled-intro = ვიღაც მოჩვენებითი საიტით შეიძლება ცდილობდეს თქვენი მონაცემების მოპარვას, როგორიცაა მომხმარებლის სახელი, პაროლი ან ელფოსტა.
 fp-neterror-http-auth-disabled-secure-connection = ეს საიტი დაცულ კავშირს საჭიროებს და გამონაკლისად ვერ მიუთითებთ, რომ მოინახულოთ.
 fp-neterror-why-did-this-happen = რატომ მოხდა ეს?

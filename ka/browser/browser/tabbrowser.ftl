@@ -385,6 +385,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = შენახვა
     .accesskey = ხ
+tab-note-editor-button-delete =
+    .title = შენიშვნის წაშლა
+    .aria-label = შენიშვნის წაშლა
+    .accesskey = წ
+tab-note-preview-edit-icon =
+    .alt = შენიშვნის ჩასწორება
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = ვრცლად
 tab-note-panel-add-note-new-badge =
@@ -396,7 +402,7 @@ tab-note-panel-add-note-new-badge =
 #   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
 tab-note-editor-character-limit =
     { $maxAllowedCharacters ->
-       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } ნიშანი
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } ასონიშანი
     }
 
 ## Split View
