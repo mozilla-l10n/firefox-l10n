@@ -950,6 +950,11 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Няма избрана клавишна комбинация, изберете една
     .tooltiptext = Няма избрана клавишна комбинация, изберете една
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, изберете търсеща машина
 urlbar-searchmode-button-no-engine2 =
     .title = Няма избрана клавишна комбинация, изберете една
 urlbar-searchmode-dropmarker2 =
@@ -967,6 +972,10 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Добавяне на „{ $engineName }“
     .title = Добавя търсещата машина „{ $engineName }“
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Този път търсете с:
+urlbar-searchmode-popup-search-settings-panelitem = Настройки за търсене
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
