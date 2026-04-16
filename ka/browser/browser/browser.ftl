@@ -646,6 +646,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ამ სეანსზე გაზიარების დაცვის გამორთვა
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 მალსახმობის გამოსაყენებლად ჯერ გახსენით DevTools ბრაუზერის ხელსაწყობის მენიუდან.
@@ -941,14 +944,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = დახურვა
 urlbar-searchmode-default =
     .tooltiptext = ნაგულისხმევი საძიებო
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = ძიებისთვის ამჯერად გამოიყენეთ:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = ძიება სისტემით:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
