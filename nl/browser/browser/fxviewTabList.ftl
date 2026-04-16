@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Tabblad dempen
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Tabblad dempen opheffen
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Schakel synchronisatie in om een tabblad te verzenden
+fxviewtabrow-send-to-mobile-connect-phone2 = Uw telefoon verbinden
+fxviewtabrow-send-to-mobile-device-missing2 = Ziet u uw apparaat niet?
