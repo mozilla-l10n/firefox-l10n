@@ -935,6 +935,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Pencarian kata kunci dinonaktifkan
     .tooltiptext = Pencarian kata kunci dinonaktifkan
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, pilih mesin pencari
 urlbar-searchmode-button-no-engine2 =
     .title = Tidak ada pintasan yang dipilih, pilih pintasan
 # Refers to the ability to search using keywords in the address bar
@@ -955,6 +960,10 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Tambahkan "{ $engineName }"
     .title = Tambahkan mesin pencari "{ $engineName }"
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Kali ini, cari dengan:
+urlbar-searchmode-popup-search-settings-panelitem = Setelan Pencarian
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
