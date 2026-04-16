@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Stlmiť zvuk na tejto karte
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Zapnúť zvuk na tejto karte
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Povoliť synchronizáciu a odoslanie karty
+fxviewtabrow-send-to-mobile-connect-phone2 = Pripojiť telefón
+fxviewtabrow-send-to-mobile-device-missing2 = Nevidíte svoje zariadenie?
