@@ -979,6 +979,28 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = חיפוש באמצעות מילות מפתח מושבת
     .tooltiptext = חיפוש באמצעות מילות מפתח מושבת
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = ‏{ $engine }, בחירת מנוע חיפוש
+urlbar-searchmode-button-no-engine2 =
+    .title = לא נבחר קיצור דרך, בחירת קיצור דרך
+urlbar-searchmode-dropmarker2 =
+    .title = בחירת מנוע חיפוש
+urlbar-searchmode-bookmarks2 = סימניות
+urlbar-searchmode-tabs2 = לשוניות
+urlbar-searchmode-history2 = היסטוריה
+urlbar-searchmode-actions2 = פעולות
+urlbar-searchmode-exit-button2 =
+    .title = סגירה
+urlbar-searchmode-default2 =
+    .title = מנוע חיפוש ברירת מחדל
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = הוספת “{ $engineName }”
+    .title = הוספת מנוע החיפוש “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
