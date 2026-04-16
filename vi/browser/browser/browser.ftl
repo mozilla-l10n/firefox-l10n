@@ -971,8 +971,19 @@ urlbar-searchmode-button3 =
     .title = { $engine }, chọn một công cụ tìm kiếm
 urlbar-searchmode-button-no-engine2 =
     .title = Không có lối tắt được chọn, hãy chọn một lối tắt
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Từ khoá tìm kiếm bị vô hiệu hoá
 urlbar-searchmode-dropmarker2 =
     .title = Chọn công cụ tìm kiếm
+urlbar-searchmode-bookmarks2 = Dấu trang
+urlbar-searchmode-tabs2 = Thẻ
+urlbar-searchmode-history2 = Lịch sử
+urlbar-searchmode-actions2 = Hành động
+urlbar-searchmode-exit-button2 =
+    .title = Đóng
+urlbar-searchmode-default2 =
+    .title = Công cụ tìm kiếm mặc định
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
