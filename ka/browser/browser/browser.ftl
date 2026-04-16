@@ -974,6 +974,19 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = საკვანძო სიტყვებით ძიება გამორთულია
     .tooltiptext = საკვანძო სიტყვებით ძიება გამორთულია
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = საკვანძო სიტყვებით ძიება გამორთულია
+urlbar-searchmode-dropmarker2 =
+    .title = საძიებოს არჩევა
+urlbar-searchmode-bookmarks2 = სანიშნები
+urlbar-searchmode-tabs2 = ჩანართები
+urlbar-searchmode-history2 = ისტორია
+urlbar-searchmode-actions2 = მოქმედებები
+urlbar-searchmode-exit-button2 =
+    .title = დახურვა
+urlbar-searchmode-default2 =
+    .title = ნაგულისხმევი საძიებო
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
