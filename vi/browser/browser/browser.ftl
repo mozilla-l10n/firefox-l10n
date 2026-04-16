@@ -971,6 +971,8 @@ urlbar-searchmode-button3 =
     .title = { $engine }, chọn một công cụ tìm kiếm
 urlbar-searchmode-button-no-engine2 =
     .title = Không có lối tắt được chọn, hãy chọn một lối tắt
+urlbar-searchmode-dropmarker2 =
+    .title = Chọn công cụ tìm kiếm
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
