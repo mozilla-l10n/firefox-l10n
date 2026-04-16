@@ -980,6 +980,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La ricerca tramite parole chiave è disattivata
     .tooltiptext = La ricerca tramite parole chiave è disattivata
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, scegli un motore di ricerca
+urlbar-searchmode-button-no-engine2 =
+    .title = Nessuna scorciatoia selezionata, scegline una
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La ricerca tramite parole chiave è disattivata
 urlbar-searchmode-dropmarker2 =
     .title = Scegli un motore di ricerca
 urlbar-searchmode-bookmarks2 = Segnalibri
@@ -988,11 +998,14 @@ urlbar-searchmode-history2 = Cronologia
 urlbar-searchmode-actions2 = Azioni
 urlbar-searchmode-exit-button2 =
     .title = Chiudi
+urlbar-searchmode-default2 =
+    .title = Motore di ricerca predefinito
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Aggiungi “{ $engineName }”
     .title = Aggiungi motore di ricerca “{ $engineName }”
+urlbar-searchmode-popup-search-settings-panelitem = Impostazioni ricerca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
