@@ -988,6 +988,9 @@ urlbar-searchmode-button3 =
     .title = ‏{ $engine }, בחירת מנוע חיפוש
 urlbar-searchmode-button-no-engine2 =
     .title = לא נבחר קיצור דרך, בחירת קיצור דרך
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = חיפוש באמצעות מילות מפתח מושבת
 urlbar-searchmode-dropmarker2 =
     .title = בחירת מנוע חיפוש
 urlbar-searchmode-bookmarks2 = סימניות
