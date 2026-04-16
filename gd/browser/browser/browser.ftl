@@ -998,6 +998,16 @@ urlbar-searchmode-button-no-engine2 =
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = Tha lorg le briathran-luirg à comas
+urlbar-searchmode-dropmarker2 =
+    .title = Tagh einnsean-luirg
+urlbar-searchmode-bookmarks2 = Comharran-lìn
+urlbar-searchmode-tabs2 = Tabaichean
+urlbar-searchmode-history2 = An eachdraidh
+urlbar-searchmode-actions2 = Gnìomhan
+urlbar-searchmode-exit-button2 =
+    .title = Dùin
+urlbar-searchmode-default2 =
+    .title = An t-einnsean-luirg bunaiteach
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
