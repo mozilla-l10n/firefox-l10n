@@ -980,6 +980,23 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Gako-hitz bidezko bilaketa desgaituta dago
     .tooltiptext = Gako-hitz bidezko bilaketa desgaituta dago
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, hautatu bilaketa-motorra
+urlbar-searchmode-button-no-engine2 =
+    .title = Ez da lasterbiderik hautatu, hautatu lasterbidea
+urlbar-searchmode-dropmarker2 =
+    .title = Hautatu bilaketa-motorra
+urlbar-searchmode-bookmarks2 = Laster-markak
+urlbar-searchmode-tabs2 = Fitxak
+urlbar-searchmode-history2 = Historia
+urlbar-searchmode-actions2 = Ekintzak
+urlbar-searchmode-exit-button2 =
+    .title = Itxi
+urlbar-searchmode-default2 =
+    .title = Bilaketa-motor lehenetsia
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
