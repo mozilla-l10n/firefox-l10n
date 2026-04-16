@@ -914,6 +914,8 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ulac anegzum n unasiw i yettwafernen, ren anegzum
     .tooltiptext = Ulac anegzum n unasiw i yettwafernen, ren anegzum
+urlbar-searchmode-dropmarker2 =
+    .title = Fren amsedday n unadi
 urlbar-searchmode-bookmarks2 = Ticraḍ n isebtar
 urlbar-searchmode-tabs2 = Tibzimin
 urlbar-searchmode-history2 = Azray
@@ -922,6 +924,11 @@ urlbar-searchmode-exit-button2 =
     .title = Mdel
 urlbar-searchmode-default2 =
     .title = Amsedday n unadi amezwer
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Rnu “{ $engineName }”
+    .title = Rnu amsedday n unadi “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
