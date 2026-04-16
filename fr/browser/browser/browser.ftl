@@ -988,6 +988,8 @@ urlbar-searchmode-no-keyword =
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button3 =
     .title = { $engine }, sélectionner un moteur de recherche
+urlbar-searchmode-button-no-engine2 =
+    .title = Aucun raccourci sélectionné, choisissez un raccourci
 urlbar-searchmode-dropmarker2 =
     .title = Choisir un moteur de recherche
 urlbar-searchmode-bookmarks2 = Marque-pages
