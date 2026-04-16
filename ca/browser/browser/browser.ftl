@@ -971,6 +971,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La cerca de paraules clau està desactivada
     .tooltiptext = La cerca de paraules clau està desactivada
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, trieu un motor de cerca
+urlbar-searchmode-button-no-engine2 =
+    .title = No s'ha seleccionat cap drecera, trieu una drecera
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La cerca de paraules clau està desactivada
 urlbar-searchmode-dropmarker2 =
     .title = Trieu un motor de cerca
 urlbar-searchmode-bookmarks2 = Adreces d'interès
@@ -986,6 +996,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Afegeix «{ $engineName }»
     .title = Afegeix el motor de cerca «{ $engineName }»
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Aquesta vegada, cerca amb:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Cerca amb:
+urlbar-searchmode-popup-search-settings-panelitem = Paràmetres de cerca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
