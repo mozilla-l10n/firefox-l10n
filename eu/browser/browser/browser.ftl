@@ -987,6 +987,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, hautatu bilaketa-motorra
 urlbar-searchmode-button-no-engine2 =
     .title = Ez da lasterbiderik hautatu, hautatu lasterbidea
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Gako-hitz bidezko bilaketa desgaituta dago
 urlbar-searchmode-dropmarker2 =
     .title = Hautatu bilaketa-motorra
 urlbar-searchmode-bookmarks2 = Laster-markak
