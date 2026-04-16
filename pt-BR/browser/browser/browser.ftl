@@ -981,6 +981,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, escolha um mecanismo de pesquisa
 urlbar-searchmode-button-no-engine2 =
     .title = Nenhum atalho selecionado, escolha um atalho
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = A pesquisa por palavra-chave está desativada
 urlbar-searchmode-dropmarker2 =
     .title = Escolha um mecanismo de pesquisa
 urlbar-searchmode-bookmarks2 = Favoritos
