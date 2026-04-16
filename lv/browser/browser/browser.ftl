@@ -950,6 +950,14 @@ urlbar-searchmode-button-no-engine =
     .tooltiptext = Nav atlasīta neviena saīsne, jāizvēlas saīsne
 urlbar-searchmode-dropmarker2 =
     .title = Izvēlieties meklēšanas dzini
+urlbar-searchmode-bookmarks2 = Grāmatzīmes
+urlbar-searchmode-tabs2 = Cilnes
+urlbar-searchmode-history2 = Vēsture
+urlbar-searchmode-actions2 = Darbības
+urlbar-searchmode-exit-button2 =
+    .title = Aizvērt
+urlbar-searchmode-default2 =
+    .title = Noklusējuma meklēšanas dzinis
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
