@@ -646,6 +646,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilisar la cumbinaziun da tastas F12, l'emprim avrir ils utensils per sviluppaders via il menu «Utensils dal navigatur».
@@ -943,14 +946,6 @@ urlbar-searchmode-default =
     .tooltiptext = Maschina da tschertgar predefinida
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Per questa giada, tschertgar cun:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Tschertgar cun:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Per questa giada, tschertgar cun:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -977,6 +972,31 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La retschertga da chavazzins-clav è deactivada
     .tooltiptext = La retschertga da chavazzins-clav è deactivada
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, tscherner ina maschina da tschertgar
+urlbar-searchmode-button-no-engine2 =
+    .title = Na selecziunà nagina scursanida, tscherner ina scursanida
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La retschertga da chavazzins-clav è deactivada
+urlbar-searchmode-dropmarker2 =
+    .title = Tscherner ina maschina da tschertgar
+urlbar-searchmode-bookmarks2 = Segnapaginas
+urlbar-searchmode-tabs2 = Tabs
+urlbar-searchmode-history2 = Cronologia
+urlbar-searchmode-actions2 = Acziuns
+urlbar-searchmode-exit-button2 =
+    .title = Serrar
+urlbar-searchmode-default2 =
+    .title = Maschina da tschertgar predefinida
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Agiuntar «{ $engineName }»
+    .title = Agiuntar la maschina da tschertgar «{ $engineName }»
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
