@@ -720,6 +720,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Кеңейту:
+urlbar-go-button2 =
+    .title = Енгізілген адреске өту
 urlbar-go-button =
     .tooltiptext = Енгізілген адреске өту
 urlbar-page-action-button =
