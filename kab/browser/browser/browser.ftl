@@ -914,6 +914,13 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Ulac anegzum n unasiw i yettwafernen, ren anegzum
     .tooltiptext = Ulac anegzum n unasiw i yettwafernen, ren anegzum
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, fren amsedday n unadi
+urlbar-searchmode-button-no-engine2 =
+    .title = Ulac anegzum n unasiw i yettwafernen, ren anegzum
 urlbar-searchmode-dropmarker2 =
     .title = Fren amsedday n unadi
 urlbar-searchmode-bookmarks2 = Ticraḍ n isebtar
@@ -929,6 +936,10 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Rnu “{ $engineName }”
     .title = Rnu amsedday n unadi “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Tikkelt-a, nadi s:
+urlbar-searchmode-popup-search-settings-panelitem = Iɣewwaren n unadi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
