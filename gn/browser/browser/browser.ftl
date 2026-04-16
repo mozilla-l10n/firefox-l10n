@@ -990,6 +990,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, eiporavo jehekaha
 urlbar-searchmode-button-no-engine2 =
     .title = Ndereiporavói mbopya’eha, eiporu peteĩ mbopya’eha
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Ñe’ẽñemi jehekaha oñemboguéma
 urlbar-searchmode-dropmarker2 =
     .title = Eiporavo jehekaha
 urlbar-searchmode-bookmarks2 = Techaukaha
