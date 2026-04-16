@@ -756,6 +756,10 @@ urlbar-searchmode-exit-button2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = رلاؤ { $engineName }
     .title = ڳولݨ انجݨ رلاؤ { $engineName }
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ایں واری، دے نال ڳولو:
+urlbar-searchmode-popup-search-settings-panelitem = ڳولݨ ترتیباں
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
