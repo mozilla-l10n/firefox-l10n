@@ -983,6 +983,21 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La recherche par mot-clé est désactivée
     .tooltiptext = La recherche par mot-clé est désactivée
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, sélectionner un moteur de recherche
+urlbar-searchmode-dropmarker2 =
+    .title = Choisir un moteur de recherche
+urlbar-searchmode-bookmarks2 = Marque-pages
+urlbar-searchmode-tabs2 = Onglets
+urlbar-searchmode-history2 = Historique
+urlbar-searchmode-actions2 = Actions
+urlbar-searchmode-exit-button2 =
+    .title = Fermer
+urlbar-searchmode-default2 =
+    .title = Moteur de recherche par défaut
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
