@@ -410,10 +410,10 @@ quickactions-cmd-help = help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = 開発ツールを開く
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
-quickactions-cmd-inspector = inspector, devtools
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
+quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
@@ -645,6 +645,9 @@ sharing-warning-proceed-to-tab =
     .label = タブに移動
 sharing-warning-disable-for-session =
     .label = このセッションでは共有保護を無効にする。
+
+## WebSerial "select a port" popup
+
 
 ## DevTools F12 popup
 
@@ -931,14 +934,6 @@ urlbar-searchmode-default =
     .tooltiptext = デフォルト検索エンジン
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = 今回だけ使う検索エンジン:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = 検索エンジン:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = 今回だけ使う検索エンジン:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -965,6 +960,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = キーワード検索が無効
     .tooltiptext = キーワード検索が無効です
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }” を追加
+    .title = 検索エンジン “{ $engineName }” を追加します
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
