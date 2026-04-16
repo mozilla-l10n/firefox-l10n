@@ -622,6 +622,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = I useqdec n unezgum F12, ldi qbel DevTools seg wumuɣ n yifecka n yiminig.
@@ -687,6 +690,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Asiɣzef:
+urlbar-go-button2 =
+    .title = Ddu ɣer usebter n ufeggag n tansa
 urlbar-go-button =
     .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
 urlbar-page-action-button =
@@ -889,10 +894,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Mdel
 urlbar-searchmode-default =
     .tooltiptext = Amsedday n unadi amezwer
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Tikkelt-a, nadi s:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
@@ -1230,6 +1231,9 @@ tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1313,6 +1317,9 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
