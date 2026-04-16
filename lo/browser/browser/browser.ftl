@@ -757,6 +757,13 @@ urlbar-searchmode-popup-search-settings-menuitem =
     .label = ການຕັ້ງຄ່າການຄົ້ນຫາ
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = ໃຫມ່
+urlbar-searchmode-tabs2 = ແທັບ
+urlbar-searchmode-history2 = ປະຫວັດການໃຊ້ງານ
+urlbar-searchmode-actions2 = ການກະທຳ
+urlbar-searchmode-exit-button2 =
+    .title = ປິດ
+urlbar-searchmode-default2 =
+    .title = ເຄື່ອງມືການຄົ້ນຫາພື້ນຖານ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
