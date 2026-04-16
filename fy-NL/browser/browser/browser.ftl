@@ -990,6 +990,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, kies in sykmasine
 urlbar-searchmode-button-no-engine2 =
     .title = Gjin fluchkeppeling selektearre, kies in fluchkeppeling
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Sykje nei trefwurden is útskeakele
 urlbar-searchmode-dropmarker2 =
     .title = Kies in sykmasine
 urlbar-searchmode-bookmarks2 = Blêdwizers
