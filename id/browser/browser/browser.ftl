@@ -935,6 +935,21 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Pencarian kata kunci dinonaktifkan
     .tooltiptext = Pencarian kata kunci dinonaktifkan
+urlbar-searchmode-button-no-engine2 =
+    .title = Tidak ada pintasan yang dipilih, pilih pintasan
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Pencarian kata kunci dinonaktifkan
+urlbar-searchmode-dropmarker2 =
+    .title = Pilih Mesin Pencari
+urlbar-searchmode-bookmarks2 = Markah
+urlbar-searchmode-tabs2 = Tab
+urlbar-searchmode-history2 = Riwayat
+urlbar-searchmode-actions2 = Aksi
+urlbar-searchmode-exit-button2 =
+    .title = Tutup
+urlbar-searchmode-default2 =
+    .title = Mesin pencari baku
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
