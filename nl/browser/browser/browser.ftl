@@ -990,6 +990,16 @@ urlbar-searchmode-button3 =
     .title = { $engine }, kies een zoekmachine
 urlbar-searchmode-button-no-engine2 =
     .title = Geen snelkoppeling geselecteerd, kies een snelkoppeling
+urlbar-searchmode-dropmarker2 =
+    .title = Kies een zoekmachine
+urlbar-searchmode-bookmarks2 = Bladwijzers
+urlbar-searchmode-tabs2 = Tabbladen
+urlbar-searchmode-history2 = Geschiedenis
+urlbar-searchmode-actions2 = Acties
+urlbar-searchmode-exit-button2 =
+    .title = Sluiten
+urlbar-searchmode-default2 =
+    .title = Standaardzoekmachine
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
