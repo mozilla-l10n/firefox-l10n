@@ -487,6 +487,9 @@ urlbar-searchmode-tabs =
     .label = Јазичиња
 urlbar-searchmode-history =
     .label = Историја
+urlbar-searchmode-bookmarks2 = Обележувачи
+urlbar-searchmode-tabs2 = Јазичиња
+urlbar-searchmode-history2 = Историја
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
