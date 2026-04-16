@@ -337,6 +337,10 @@ urlbar-searchmode-history =
     .label = Sa gini’hiājt
 urlbar-searchmode-actions =
     .label = Sa gi'hiát
+urlbar-searchmode-bookmarks2 = Nej sa râj sun nichrà\'t doj
+urlbar-searchmode-tabs2 = Nej rakïj ñanj
+urlbar-searchmode-history2 = Sa gini’hiājt
+urlbar-searchmode-actions2 = Sa gi'hiát
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
