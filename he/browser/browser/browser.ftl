@@ -1006,6 +1006,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = הוספת “{ $engineName }”
     .title = הוספת מנוע החיפוש “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = הפעם לחפש באמצעות:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = חיפוש באמצעות:
+urlbar-searchmode-popup-search-settings-panelitem = הגדרות חיפוש
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
