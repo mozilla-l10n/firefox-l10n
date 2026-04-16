@@ -832,6 +832,8 @@ urlbar-searchmode-history2 = Roll istor
 urlbar-searchmode-actions2 = Oberoù
 urlbar-searchmode-exit-button2 =
     .title = Serriñ
+urlbar-searchmode-default2 =
+    .title = Lusker enklask dre ziouer
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
