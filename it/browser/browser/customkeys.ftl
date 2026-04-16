@@ -13,6 +13,7 @@ customkeys-reset-all = Ripristina tutte le scorciatoie predefinite
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Questo tasto è già assegnato a { $conflict }. Sostituirlo?
 customkeys-reset-all-confirm = Ripristinare le impostazioni predefinite di tutte le scorciatoie da tastiera?
+customkeys-file-duplicate-tab = Duplica scheda
 customkeys-history-reopen-tab = Riapri l’ultima scheda chiusa
 customkeys-history-reopen-window = Riapri l’ultima finestra chiusa
 customkeys-sidebar-toggle = Attiva/disattiva barra laterale
