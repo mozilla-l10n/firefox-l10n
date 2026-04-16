@@ -894,6 +894,11 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Non seleccionaches ningún atallo, escolle un atallo
     .tooltiptext = Non seleccionaches ningún atallo, escolle un atallo
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Engadir «{ $engineName }»
+    .title = Engadir o motor de busca «{ $engineName }»
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
