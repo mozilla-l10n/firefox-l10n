@@ -959,6 +959,13 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
     .tooltiptext = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = ขณะนี้คือ { $engine } โปรดเลือกเครื่องมือค้นหา
+urlbar-searchmode-button-no-engine2 =
+    .title = ไม่ได้เลือกทางลัด โปรดเลือกทางลัดด้วย
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
@@ -977,6 +984,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = เพิ่ม “{ $engineName }”
     .title = เพิ่มเครื่องมือค้นหา “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ครั้งนี้ค้นหาด้วย:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = ค้นหาด้วย:
+urlbar-searchmode-popup-search-settings-panelitem = การตั้งค่าการค้นหา
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
