@@ -78,10 +78,3 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Отключить звук вкладки
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Включить звук вкладки
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Включить синхронизацию для отправки вкладки
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Подключите ваш телефон
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Не видите ваше устройство?
