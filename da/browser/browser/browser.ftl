@@ -644,6 +644,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deaktiver delings-beskyttelse for denne session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = For at bruge F12 som genvej skal du først åbne udviklerværktøj fra menuen Browser-værktøj.
@@ -941,14 +944,6 @@ urlbar-searchmode-default =
     .tooltiptext = Standard-søgetjeneste
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Søg denne gang med:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Søg med:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Søg denne gang med:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -975,6 +970,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Søgning med genveje er deaktiveret
     .tooltiptext = Søgning med genveje er deaktiveret
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Tilføj "{ $engineName }"
+    .title = Tilføj søgetjenesten "{ $engineName }"
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
