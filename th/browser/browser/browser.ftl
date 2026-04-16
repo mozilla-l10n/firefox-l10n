@@ -959,6 +959,9 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
     .tooltiptext = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
 urlbar-searchmode-dropmarker2 =
     .title = เลือกเครื่องมือค้นหา
 urlbar-searchmode-bookmarks2 = ที่คั่นหน้า
