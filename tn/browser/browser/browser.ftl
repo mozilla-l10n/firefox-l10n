@@ -138,6 +138,9 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -150,6 +153,8 @@ urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
+urlbar-go-button2 =
+    .title = Ya ko atereseng e mo Bara ya lefelo
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
 
