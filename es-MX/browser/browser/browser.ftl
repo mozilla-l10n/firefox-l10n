@@ -993,6 +993,16 @@ urlbar-searchmode-button-no-engine2 =
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = La búsqueda de palabras clave está deshabilitada
+urlbar-searchmode-dropmarker2 =
+    .title = Elige un Motor de Búsqueda
+urlbar-searchmode-bookmarks2 = Marcadores
+urlbar-searchmode-tabs2 = Pestañas
+urlbar-searchmode-history2 = Historial
+urlbar-searchmode-actions2 = Acciones
+urlbar-searchmode-exit-button2 =
+    .title = Cerrar
+urlbar-searchmode-default2 =
+    .title = Motor de búsqueda predeterminado
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
