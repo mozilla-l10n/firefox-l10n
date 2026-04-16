@@ -948,6 +948,13 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Nav atlasīta neviena saīsne, jāizvēlas saīsne
     .tooltiptext = Nav atlasīta neviena saīsne, jāizvēlas saīsne
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, izvēlēties meklētājprogrammu
+urlbar-searchmode-button-no-engine2 =
+    .title = Nav atlasīta neviena saīsne, jāizvēlas saīsne
 urlbar-searchmode-dropmarker2 =
     .title = Izvēlieties meklēšanas dzini
 urlbar-searchmode-bookmarks2 = Grāmatzīmes
@@ -963,6 +970,10 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Pievienot “{ $engineName }”
     .title = Pievienot meklētājprogrammu “{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Šajā reizē meklēt ar:
+urlbar-searchmode-popup-search-settings-panelitem = Meklēšanās iestatījumi
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
