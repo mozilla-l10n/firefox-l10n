@@ -653,6 +653,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Dezactivează protecția partajării pentru această sesiune
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pentru a folosi comanda rapidă F12, deschide mai întâi instrumentele pentru dezvoltatori din meniul de instrumente al browserului.
@@ -951,14 +954,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Închide
 urlbar-searchmode-default =
     .tooltiptext = Motor de căutare implicit
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = De data asta caută cu:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Căutare cu:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
