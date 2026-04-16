@@ -975,6 +975,18 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Avainsanahaku on poistettu käytöstä
     .tooltiptext = Avainsanahaku on poistettu käytöstä
+urlbar-searchmode-button-no-engine2 =
+    .title = Oikotietä ei ole valittu, valitse oikotie
+urlbar-searchmode-dropmarker2 =
+    .title = Valitse hakukone
+urlbar-searchmode-bookmarks2 = Kirjanmerkit
+urlbar-searchmode-tabs2 = Välilehdet
+urlbar-searchmode-history2 = Sivuhistoria
+urlbar-searchmode-actions2 = Toiminnot
+urlbar-searchmode-exit-button2 =
+    .title = Sulje
+urlbar-searchmode-default2 =
+    .title = Oletushakukone
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
