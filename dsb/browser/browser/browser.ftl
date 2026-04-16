@@ -995,6 +995,28 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Pytanje z klucowymi słowami jo znjemóžnjone
     .tooltiptext = Pytanje z klucowymi słowami jo znjemóžnjone
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, wubjeŕśo pytnicu
+urlbar-searchmode-button-no-engine2 =
+    .title = Žedna skrotconka wubrana, wubjeŕśo skrotconku
+urlbar-searchmode-dropmarker2 =
+    .title = Wubjeŕśo pytnicu
+urlbar-searchmode-bookmarks2 = Cytańske znamjenja
+urlbar-searchmode-tabs2 = Rejtariki
+urlbar-searchmode-history2 = Historija
+urlbar-searchmode-actions2 = Akcije
+urlbar-searchmode-exit-button2 =
+    .title = Zacyniś
+urlbar-searchmode-default2 =
+    .title = Standardna pytnica
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = „{ $engineName }“ pśidaś
+    .title = Pytnicu „{ $engineName }“ pśidaś
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
