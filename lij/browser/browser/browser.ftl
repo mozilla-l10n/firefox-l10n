@@ -436,6 +436,8 @@ urlbar-searchmode-history =
     .label = Stöia
 urlbar-searchmode-actions =
     .label = Açioin
+urlbar-searchmode-history2 = Stöia
+urlbar-searchmode-actions2 = Açioin
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
