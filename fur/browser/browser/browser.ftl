@@ -641,6 +641,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disabilite la protezion di condivision par cheste session
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Par doprâ la scurte F12, prime vierç DevTools midiant il menù Struments dal navigadôr.
@@ -706,6 +709,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Estension:
+urlbar-go-button2 =
+    .title = Va ae direzion specificade te sbare de direzion
 urlbar-go-button =
     .tooltiptext = Va ae direzion specificade te sbare de direzion
 urlbar-page-action-button =
@@ -925,10 +930,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Siere
 urlbar-searchmode-default =
     .tooltiptext = Motôr di ricercje predefinît
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Cheste volte cîr cun:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
