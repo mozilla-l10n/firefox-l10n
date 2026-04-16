@@ -945,6 +945,13 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
     .tooltiptext = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, ընտրեք որոնիչ
+urlbar-searchmode-button-no-engine2 =
+    .title = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
 urlbar-searchmode-dropmarker2 =
     .title = Ավելացնել որոնիչ
 urlbar-searchmode-bookmarks2 = Էջանիշեր
@@ -960,6 +967,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Ավելացնել «{ $engineName }»-ը
     .title = Ավելացնել «{ $engineName }» որոնիչը
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Այս անգամ որոնել հետևյալով՝
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Որոնել՝
+urlbar-searchmode-popup-search-settings-panelitem = Որոնման կարգավորումներ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
