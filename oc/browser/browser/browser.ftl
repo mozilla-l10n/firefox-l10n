@@ -755,6 +755,10 @@ urlbar-searchmode-exit-button2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Apondre « { $engineName } »
     .title = Apondre lo motor de recèrca « { $engineName } »
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Aqueste còp, recercar amb :
+urlbar-searchmode-popup-search-settings-panelitem = Paramètres de recèrca
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
