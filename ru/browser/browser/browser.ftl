@@ -988,6 +988,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Поиск по ключевым словам отключён
     .tooltiptext = Поиск по ключевым словам отключён
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Добавить «{ $engineName }»
+    .title = Добавить поисковую систему «{ $engineName }»
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
