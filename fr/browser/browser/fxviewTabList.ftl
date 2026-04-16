@@ -78,10 +78,3 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Couper le son de l’onglet
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Réactiver le son de l’onglet
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Activez la synchronisation pour envoyer un onglet
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Connectez votre téléphone
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Vous ne voyez pas votre appareil ?
