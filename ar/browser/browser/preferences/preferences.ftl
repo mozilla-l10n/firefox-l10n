@@ -1082,6 +1082,9 @@ search-engine-group =
     .label = محرك البحث المبدئي
 search-default-engine =
     .aria-label = محرك البحث المبدئي
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = ابحث
 
 ## Containers Section
 
@@ -1415,6 +1418,8 @@ forms-primary-pw-change-2 =
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = عطّله
+forms-os-reauth-2 =
+    .label = تطلب الولوج إلى الجهاز لإدارة كلمات السر
 forms-primary-pw-learn-more-link = اطّلع على المزيد
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -2399,6 +2404,8 @@ preferences-etp-status-advanced-button =
     .label = إعدادات متقدّمة
 preferences-etp-header =
     .heading = الحماية الموسّعة من التعقب
+preferences-etp-customize-button =
+    .label = خصّص حماية التعقب
 preferences-etp-reload-tabs-hint =
     .message = أعد تحميل ألسنتك لتطبيق هذه التغييرات.
 preferences-etp-reload-tabs-hint-button =

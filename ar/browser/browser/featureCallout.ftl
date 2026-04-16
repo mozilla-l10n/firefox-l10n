@@ -150,6 +150,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = التالي
 ## Link Preview Onboarding message callout strings
 
 link-preview-onboarding-callout-title = جديد: انقر مع الاستمرار لمعاينة الروابط
+link-preview-onboarding-callout-description = اطّلع على وصف مختصر ووقت القراءة والمزيد لتحديد ما إذا كان الرابط يستحق النقر عليه. متوفر أيضًا بالنقر بزر الفأرة الأيمن.
 
 ## Sidebar Strings
 
@@ -172,6 +173,7 @@ vertical-tabs-callout-2-subtitle = يُسهّل هذا التصميم استعر
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = هل فقدت مسار الألسنة المهمة لديك؟
+sidebar-pins-callout-subtitle = جرّب تثبيتها، ما يُبقيها في أعلى قائمة الألسنة. انقر بزر الفأرة الأيمن على اللسان الذي تريد تثبيته، ثم اختر "ثبّت اللسان".
 sidebar-pins-callout-cta-button = ثبّت اللسان
 
 ## Pinning Tabs Strings
@@ -179,6 +181,8 @@ sidebar-pins-callout-cta-button = ثبّت اللسان
 pin-tabs-callout-1-title = احتفظ بالألسنة المهمة في متناول يدك
 pin-tabs-callout-cta-1-button = ثبّت هذا اللسان
 pin-tabs-callout-cta-2-button = ثبّت هذا اللسان
+pin-tabs-callout-3-title = أبقِ المواقع المهمة في متناول يدك
+pin-tabs-callout-4-title = ثبّت المواقع التي تزورها بكثرة
 
 ## Sidebar Onboarding Strings
 

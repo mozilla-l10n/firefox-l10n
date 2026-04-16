@@ -652,10 +652,15 @@ newtab-widget-lists-name-placeholder-default =
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = قائمة جديدة
+newtab-widget-menu-hide = أخفِ الويدجت
 newtab-widget-menu-change-size = غيّر الحجم
 newtab-widget-size-small = صغير
 newtab-widget-size-medium = متوسط
 newtab-widget-size-large = كبير
+# Tooltip for hide all widgets button
+newtab-widget-section-hide-all-button =
+    .title = أخف الويدجات
+    .aria-label = أخف الويدجات
 newtab-widget-section-feedback = أخبرنا برأيك
 
 ## Strings for timer productivity widget
