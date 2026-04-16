@@ -990,6 +990,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Пошук па ключавых словах адключаны
     .tooltiptext = Пошук па ключавых словах адключаны
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, выберыце пошукавую сістэму
+urlbar-searchmode-button-no-engine2 =
+    .title = Ярлык не выбраны, выберыце ярлык
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Пошук па ключавых словах адключаны
 urlbar-searchmode-dropmarker2 =
     .title = Выбраць пошукавую сістэму
 urlbar-searchmode-bookmarks2 = Закладкі
