@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Este site está solicitando acesso a seus dispositivos MIDI (Musical Instrument Digital Interface). O acesso a dispositivos pode ser ativado instalando uma extensão.
 site-permission-install-first-prompt-midi-message = Não há garantia deste acesso ser seguro. Só continue se confiar neste site.
+site-permission-install-first-prompt-serial-header = Este site está solicitando acesso a seus dispositivos seriais. Este tipo de acesso pode ser disponibilizado pela instalação de uma extensão.
+site-permission-install-first-prompt-serial-message = Não há garantia deste acesso ser seguro. Só continue se confiar neste site.
 
 ##
 
