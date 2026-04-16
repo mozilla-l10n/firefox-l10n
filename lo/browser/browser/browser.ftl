@@ -767,6 +767,10 @@ urlbar-searchmode-exit-button2 =
     .title = ປິດ
 urlbar-searchmode-default2 =
     .title = ເຄື່ອງມືການຄົ້ນຫາພື້ນຖານ
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ຄັ້ງນີ້ ຄົ້ນຫາດ້ວຍ:
+urlbar-searchmode-popup-search-settings-panelitem = ການຕັ້ງຄ່າການຄົ້ນຫາ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
