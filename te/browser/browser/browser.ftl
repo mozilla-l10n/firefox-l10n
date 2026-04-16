@@ -675,6 +675,10 @@ urlbar-searchmode-exit-button2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = “{ $engineName }”ని చేర్చు
     .title = “{ $engineName }” సెర్చింజనును చేర్చు
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = ఈసారి దీనితో వెతుకు:
+urlbar-searchmode-popup-search-settings-panelitem = వెతుకుడు అమరికలు
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
