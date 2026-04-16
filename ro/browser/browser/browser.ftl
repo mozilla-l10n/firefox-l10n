@@ -984,6 +984,13 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Căutarea de cuvinte-cheie este dezactivată
     .tooltiptext = Căutarea de cuvinte-cheie este dezactivată
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, alege un motor de căutare
+urlbar-searchmode-button-no-engine2 =
+    .title = Nicio comandă rapidă selectată, alege o comandă rapidă
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = Căutarea de cuvinte-cheie este dezactivată
@@ -1002,6 +1009,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Adaugă „{ $engineName }”
     .title = Adaugă motorul de căutare „{ $engineName }”
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = De data asta caută cu:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Căutare cu:
+urlbar-searchmode-popup-search-settings-panelitem = Setări de căutare
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
