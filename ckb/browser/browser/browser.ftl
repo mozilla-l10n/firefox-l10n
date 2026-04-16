@@ -57,6 +57,12 @@ urlbar-result-menu-tip-get-help =
     .label = یارمەتی بەدەستبهێنە
     .accesskey = ی
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
 ## Local search mode indicator labels in the urlbar
 
 urlbar-search-mode-bookmarks = دڵخوازەکان
@@ -97,6 +103,9 @@ urlbar-star-add-bookmark =
 clear-search-history =
     .label = گەڕانی مێژووی کار پاکبکەرەوە
     .accesskey = H
+
+## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -147,6 +156,11 @@ search-one-offs-tabs =
     .tooltiptext = بازدەرکانی ({ $restrict })
 search-one-offs-history =
     .tooltiptext = مێژوو ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action.
+
 
 ## Bookmark Panel
 
@@ -212,6 +226,17 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = داخستن
 
+## Tab actions
+
+
+## These labels should be written in all capital letters if your locale supports them.
+## Variables:
+##  $count (number): number of affected tabs
+
+
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-icon =
@@ -229,6 +254,12 @@ popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکان�
 
 sharing-warning-proceed-to-tab =
     .label = بڕۆ بۆ بازدەر
+
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
 
 ## URL Bar
 
@@ -276,6 +307,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = پێوەکراوەکان:
+urlbar-go-button2 =
+    .title = بڕۆ بۆ ناونیشان لە توڵی شوێن
 urlbar-go-button =
     .tooltiptext = بڕۆ بۆ ناونیشان لە توڵی شوێن
 urlbar-page-action-button =
@@ -320,6 +353,13 @@ urlbar-result-action-copy-to-clipboard = لەبەرگرتنەوە
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -337,6 +377,9 @@ urlbar-result-action-search-bookmarks = گەڕان لە دڵخوازەکان
 urlbar-result-action-search-history = گەڕان لە ناو مێژووی کاردا
 urlbar-result-action-search-tabs = گەڕان لە بازدەرەکان
 
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -345,6 +388,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = پیشاندەری خوێندنەوە دابخە
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -429,6 +477,9 @@ save-to-pocket-button =
     .label = پاشەکەوتی بکە لە { -pocket-brand-name }
     .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
 toolbar-overflow-customize-button =
@@ -456,6 +507,9 @@ toolbar-button-new-private-window =
     .label = پەنجەرەی تایبەتی نوێ
     .tooltiptext = پەنجەرەیەکی نوێی گەڕانی تایبەت بکەرەوە ({ $shortcut })
 
+## EME notification panel
+
+
 ## Password save/update panel
 
 panel-save-update-password = وشەی تێپەڕبوون
@@ -468,11 +522,19 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = داخستن
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
     .label = هێمادانانی وێنە-لەناو-وێنە بشارەوە
     .accesskey = H
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
 
 ##
 
@@ -512,11 +574,44 @@ tabs-toolbar-list-all-tabs =
     .label = هەموو بازدەرەکان لیست بکە
     .tooltiptext = هەموو بازدەرەکان لیست بکە
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
+
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-allow =
     .label = ڕێگەبدە
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -540,3 +635,26 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = “{ $popupURI }” پیشان بدە
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
