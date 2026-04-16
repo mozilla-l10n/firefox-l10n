@@ -1022,6 +1022,13 @@ urlbar-searchmode-default2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = „{ $engineName }“ přidać
     .title = Pytawu „{ $engineName }“ přidać
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Tónkróć pytać z:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Pytać z:
+urlbar-searchmode-popup-search-settings-panelitem = Pytanske nastajenja
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
