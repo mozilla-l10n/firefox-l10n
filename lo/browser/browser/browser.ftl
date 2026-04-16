@@ -757,6 +757,9 @@ urlbar-searchmode-popup-search-settings-menuitem =
     .label = ການຕັ້ງຄ່າການຄົ້ນຫາ
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = ໃຫມ່
+urlbar-searchmode-dropmarker2 =
+    .title = ເລືອກເຄື່ອງມືການຄົ້ນຫາ
+urlbar-searchmode-bookmarks2 = ບຸກມາກ
 urlbar-searchmode-tabs2 = ແທັບ
 urlbar-searchmode-history2 = ປະຫວັດການໃຊ້ງານ
 urlbar-searchmode-actions2 = ການກະທຳ
