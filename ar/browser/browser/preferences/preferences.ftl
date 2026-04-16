@@ -2249,6 +2249,12 @@ preferences-doh-manage-exceptions2 =
 preferences-doh-radio-default =
     .label = المبدئي
     .description = استخدم DNS الآمن في المناطق التي يتوفر فيها.
+preferences-doh-radio-custom =
+    .label = مخصّص
+    .description = استخدم DNS الآمن في المناطق التي يتوفر فيها.
+preferences-doh-radio-off =
+    .label = معطّل
+    .description = استخدم مُحلّل DNS المبدئي الخاص بك
 preferences-doh-fallback-label =
     .label = أبلغني دائمًا إذا لم يكن DNS الآمن متاحًا
 preferences-doh-status-item-off =
@@ -2259,9 +2265,18 @@ preferences-doh-status-item-off =
 preferences-doh-status-item-not-active =
     .message = لا يعمل DNS عبر HTTPS بسبب حدوث خطأ ({ $reason }) أثناء محاولة استخدام المزود { $name }
 # Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = لا يعمل DNS عبر HTTPS لأننا تلقينا عنوان URL غير صالح ({ $reason })
+# Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = يستخدم DNS عبر HTTPS المزود { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = لا يعمل DNS عبر HTTPS بسبب حدوث خطأ ({ $reason }) أثناء محاولة استخدام المزود المحلي { $name }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
@@ -2351,6 +2366,7 @@ security-privacy-status-problem-header = { -brand-short-name } يوصي ببعض
 security-privacy-status-ok-label = الحماية الموسّعة من التعقب مفعّلة
 security-privacy-status-problem-label = لقد وجدنا إعدادات تؤثر على حمايتك
 security-privacy-status-problem-helper-label = اعرض المشكلات
+security-privacy-status-pending-trackers-label = البحث عن عدد المتعقبات التي حظرتها { -brand-short-name } خلال الشهر الماضي
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = لديك <a data-l10n-name="strict-tracking-protection">حماية صارمة</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
@@ -2362,6 +2378,8 @@ security-privacy-status-update-checking-label = { -brand-short-name } يتحقق
 security-privacy-status-update-needed-description = حدِّث للحصول على أحدث التحديثات المتعلقة بالسرعة والاستقرار والأمان.
 security-privacy-status-update-button-label =
     .label = حدِّث { -brand-short-name }
+security-privacy-image-warning =
+    .alt = درع عليه علامة تعجب، يعبر عن القلق بشأن تحذيراتك الأمنية
 security-privacy-image-ok =
     .alt = درع عليه علامة صح، مما يدل على عدم وجود أي مشكلات أمنية عالقة.
 security-privacy-issue-card =
@@ -2374,6 +2392,9 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = الحماية الموسّعة من التعقب
+    .description = تستخدم المواقع الإلكترونية متعقبات لملاحقتك عبر الإنترنت وعرض إعلانات مزعجة. يحميك { -brand-short-name } أثناء التصفح، حيث يحظر المتعقبات تلقائيًا لتظل أنت المتحكم في أثرك الرقمي.
 preferences-etp-level-strict =
     .label = صارم
     .description = حماية أقوى تحظر المزيد من أدوات التتبع، ولكنها قد تؤدي إلى تعطّل بعض المواقع.
