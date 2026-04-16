@@ -990,6 +990,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, válasszon keresőszolgáltatást
 urlbar-searchmode-button-no-engine2 =
     .title = Nincs gyorsparancs kiválasztva, válasszon egyet
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = A kulcsszavas keresés le van tiltva
 urlbar-searchmode-dropmarker2 =
     .title = Válasszon keresőszolgáltatást
 urlbar-searchmode-bookmarks2 = Könyvjelzők
