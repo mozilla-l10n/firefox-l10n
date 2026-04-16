@@ -990,6 +990,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, elegir un buscador
 urlbar-searchmode-button-no-engine2 =
     .title = No se seleccionó un acceso directo, elegir uno
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La búsqueda por palabra clave está deshabilitada
 urlbar-searchmode-dropmarker2 =
     .title = Elegir un buscador
 urlbar-searchmode-bookmarks2 = Marcadores
