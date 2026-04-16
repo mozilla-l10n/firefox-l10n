@@ -351,6 +351,9 @@ urlbar-searchmode-tabs =
     .label = Llingüetes
 urlbar-searchmode-history =
     .label = Historial
+urlbar-searchmode-bookmarks2 = Marcadores
+urlbar-searchmode-tabs2 = Llingüetes
+urlbar-searchmode-history2 = Historial
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
