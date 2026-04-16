@@ -993,6 +993,11 @@ urlbar-searchmode-button-no-engine2 =
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = La búsqueda de palabras clave está deshabilitada
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Añadir “{ $engineName }”
+    .title = Añadir buscador “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
