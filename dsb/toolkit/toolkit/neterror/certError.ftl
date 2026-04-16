@@ -142,6 +142,10 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Zeger wašogo rěda jo na
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Swójstwownik { $hostname } njejo jo korektnje konfigurěrował a wěsty zwisk njedajo se napóraś.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Wašo licadło měni, až cas jo { DATETIME($now, dateStyle: "medium") }, což wěstemu zwězowanjeju { -brand-short-name } zajźujo. Aby se k <strong>{ $hostname }</strong> woglědał, aktualizěrujśo zeger swójogo licadła w systemowych nastajenjach na aktualny datum, aktualny cas a aktualnu casowu conu a aktualizěrujśo pótom bok.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

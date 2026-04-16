@@ -386,6 +386,7 @@ newtab-wallpaper-title = Slězynowe wobraze
 newtab-wallpaper-reset = Na standard slědk stajiś
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Wobraz nagraś
+newtab-wallpaper-add-an-image = Wobraz pśidaś
 newtab-wallpaper-custom-color = Barwu wubraś
 newtab-wallpaper-toggle-title =
     .label = Slězynowe wobraze
@@ -413,6 +414,7 @@ newtab-wallpaper-light-fox-anniversary = Liška w tšawowem pólu z kurjawkateju
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jadnotne barwy
+newtab-wallpaper-colors = Barwy
 newtab-wallpaper-blue = Módry
 newtab-wallpaper-light-blue = Swětłomódry
 newtab-wallpaper-light-purple = Swětłowioletny
@@ -528,6 +530,10 @@ newtab-weather-opt-in-not-now =
     .label = Nic něnto
 newtab-weather-opt-in-yes =
     .label = Jo
+newtab-weather-opt-in-headline = Dostańśo swóju lokalnu wjedrowu pśedpowěsć
+newtab-weather-opt-in-use-location =
+    .label = Stojnišćo wužywaś
+newtab-weather-opt-in-choose-location = Stojnišćo wubraś
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day

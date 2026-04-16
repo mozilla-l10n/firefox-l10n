@@ -1118,6 +1118,9 @@ fullscreen-warning-no-domain = Tutón dokument je nětko połna wobrazowka
 fullscreen-exit-button = Połnu wobrazowku skónčić (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Połnu wobrazowku (esc) skónčić
+fullscreen-keyboardlock-exit-button = Połnu wobrazowku wopušćić (tłóčće a dźeržće Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Połnu wobrazowku wopušćić (tłóčće a dźeržće esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
