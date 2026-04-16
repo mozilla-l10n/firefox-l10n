@@ -990,6 +990,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, kies een zoekmachine
 urlbar-searchmode-button-no-engine2 =
     .title = Geen snelkoppeling geselecteerd, kies een snelkoppeling
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Zoeken op trefwoorden is uitgeschakeld
 urlbar-searchmode-dropmarker2 =
     .title = Kies een zoekmachine
 urlbar-searchmode-bookmarks2 = Bladwijzers
