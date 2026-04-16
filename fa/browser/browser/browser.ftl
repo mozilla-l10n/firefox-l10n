@@ -795,6 +795,9 @@ urlbar-searchmode-dropmarker2 =
 urlbar-searchmode-bookmarks2 = نشانک‌ها
 urlbar-searchmode-tabs2 = زبانه‌ها
 urlbar-searchmode-history2 = تاریخچه
+urlbar-searchmode-actions2 = کنش‌ها
+urlbar-searchmode-exit-button2 =
+    .title = بستن
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
