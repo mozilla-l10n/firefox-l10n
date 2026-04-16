@@ -1051,14 +1051,6 @@ urlbar-searchmode-default =
     .tooltiptext = Výchozí vyhledávač
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Vyhledat pomocí:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Vyhledat pomocí:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Vyhledat pomocí:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -1085,6 +1077,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Vyhledávání pomocí klíčových slov je zakázáno
     .tooltiptext = Vyhledávání pomocí klíčových slov je zakázáno
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Přidat „{ $engineName }“
+    .title = Přidá vyhledávač „{ $engineName }“
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
