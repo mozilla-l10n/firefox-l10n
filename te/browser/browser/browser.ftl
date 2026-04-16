@@ -515,6 +515,12 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ఈ సెషనుకి పంచుకోలు రక్షణను అచేతనంచేయి
 
+## WebSerial "select a port" popup
+
+
+## DevTools F12 popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -647,10 +653,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = మూసివేయి
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = ఈసారి దీనితో వెతుకు:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = ఈసారి దీనితో వెతుకు:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -660,6 +662,17 @@ urlbar-searchmode-popup-search-settings-menuitem =
     .label = వెతుకుడు అమరికలు
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = కొత్తది
+urlbar-searchmode-bookmarks2 = ఇష్టాంశాలు
+urlbar-searchmode-tabs2 = ట్యాబులు
+urlbar-searchmode-history2 = చరిత్ర
+urlbar-searchmode-actions2 = చర్యలు
+urlbar-searchmode-exit-button2 =
+    .title = మూసివేయి
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }”ని చేర్చు
+    .title = “{ $engineName }” సెర్చింజనును చేర్చు
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -806,6 +819,9 @@ save-to-pocket-button =
     .label = { -pocket-brand-name }‌కి భద్రపరుచు
     .tooltiptext = { -pocket-brand-name }‌కి భద్రపరుచు
 
+## Repair text encoding toolbar button
+
+
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -886,6 +902,10 @@ popups-infobar-dont-show-message =
     .label = పాప్-అప్‌లు నిరోధించబడినప్పుడు ఈ సందేశాన్ని చూపించవద్దు
     .accesskey = D
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
 
 
@@ -926,9 +946,15 @@ tabs-toolbar-list-all-tabs =
     .label = అన్ని ట్యాబుల జాబితా చూపించు
     .tooltiptext = అన్ని ట్యాబుల జాబితా చూపించు
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = ఎలానో నాకు చూపించు
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -993,6 +1019,9 @@ refresh-blocked-allow =
     .label = అనుమతించు
     .accesskey = A
 
+## Firefox Relay integration
+
+
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -1038,6 +1067,9 @@ file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు
     .accessKey = F
 
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust icon & panel
 
 trustpanel-header-enabled-insecure = ఈ సైటులో జాగ్రత్తగా ఉండండి
@@ -1045,6 +1077,9 @@ trustpanel-privacy-link = అంతరంగిత అమరికలు
 trustpanel-clear-cookies-subview-button-cancel = రద్దుచేయి
 trustpanel-siteinformation-morelink = మరింత సైటు సమాచారం
 trustpanel-blocker-see-all = అన్నింటినీ చూడండి
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
