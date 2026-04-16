@@ -981,6 +981,16 @@ urlbar-searchmode-button3 =
     .title = { $engine }, επιλογή μηχανής αναζήτησης
 urlbar-searchmode-button-no-engine2 =
     .title = Δεν έχει επιλεγεί συντόμευση, επιλέξτε συντόμευση
+urlbar-searchmode-dropmarker2 =
+    .title = Επιλογή μηχανής αναζήτησης
+urlbar-searchmode-bookmarks2 = Σελιδοδείκτες
+urlbar-searchmode-tabs2 = Καρτέλες
+urlbar-searchmode-history2 = Ιστορικό
+urlbar-searchmode-actions2 = Ενέργειες
+urlbar-searchmode-exit-button2 =
+    .title = Κλείσιμο
+urlbar-searchmode-default2 =
+    .title = Προεπιλεγμένη μηχανή αναζήτησης
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
