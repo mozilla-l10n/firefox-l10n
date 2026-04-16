@@ -649,6 +649,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deshabilitar la protección de compartición para esta sesión
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para usar el atajo F12, primero abra las Herramientas para desarrolladores a través del menú de herramientas del navegador.
@@ -946,14 +949,6 @@ urlbar-searchmode-default =
     .tooltiptext = Buscador predeterminado
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Esta vez buscar con:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Buscar con:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Esta vez buscar con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -980,6 +975,31 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La búsqueda de palabras clave está desactivada
     .tooltiptext = La búsqueda de palabras clave está desactivada
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, elegir un buscador
+urlbar-searchmode-button-no-engine2 =
+    .title = No se ha seleccionado ningún acceso directo, elija un acceso directo
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La búsqueda de palabras clave está desactivada
+urlbar-searchmode-dropmarker2 =
+    .title = Elegir un buscador
+urlbar-searchmode-bookmarks2 = Marcadores
+urlbar-searchmode-tabs2 = Pestañas
+urlbar-searchmode-history2 = Historial
+urlbar-searchmode-actions2 = Acciones
+urlbar-searchmode-exit-button2 =
+    .title = Cerrar
+urlbar-searchmode-default2 =
+    .title = Buscador predeterminado
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Añadir “{ $engineName }”
+    .title = Añadir buscador “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
