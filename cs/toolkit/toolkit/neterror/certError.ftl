@@ -112,11 +112,9 @@ fp-certerror-unknown-issuer-what-can-you-do-body =
     }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = Protože je problém s certifikátem webu. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. Certifikát tohoto webu je podepsán sám sebou. Nebyl vydán uznávanou certifikační autoritou – proto mu ve výchozím nastavení nedůvěřujeme.
-fp-certerror-self-signed-important-note = DŮLEŽITÉ UPOZORNĚNÍ: Pokud se pokoušíte navštívit tento web v podnikovém intranetu, mohou pracovníci IT oddělení používat certifikáty s vlastním podpisem. Mohou vám pomoci zkontrolovat jejich pravost.
-# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
-# Variables:
-#   $date (Date) - Certificate expiration date.
-fp-certerror-expired-why-dangerous-body = Stránky používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože to vypadá, že platnost certifikátu vypršela dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-self-signed-what-can-you-do-body = Nic moc. Problém je zřejmě na straně samotného webu.
+fp-certerror-self-signed-important-note = DŮLEŽITÁ POZNÁMKA: Pokud se pokoušíte navštívit tento web v rámci firemní intranetové sítě, je možné, že pracovníci IT oddělení používají certifikáty podepsané sebou samými. Mohou vám pomoci ověřit jejich pravost.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $date (Date) - Certificate start date.
