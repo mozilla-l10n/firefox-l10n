@@ -642,6 +642,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = 在本次会话期间禁用共享保护
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = 要使用 F12 快捷键，请先由“浏览器工具”菜单打开开发者工具。
@@ -925,14 +928,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = 关闭
 urlbar-searchmode-default =
     .tooltiptext = 默认搜索引擎
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = 本次搜索使用：
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = 搜索引擎：
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
