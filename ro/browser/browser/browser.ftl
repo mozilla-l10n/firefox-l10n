@@ -984,6 +984,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Căutarea de cuvinte-cheie este dezactivată
     .tooltiptext = Căutarea de cuvinte-cheie este dezactivată
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Căutarea de cuvinte-cheie este dezactivată
+urlbar-searchmode-dropmarker2 =
+    .title = Alege un motor de căutare
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
