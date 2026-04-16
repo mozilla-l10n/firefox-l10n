@@ -655,6 +655,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Onemogoči deljenje zaščite za to sejo
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Za uporabo bližnjice F12 prvič odprite razvojna orodja iz menija Orodja brskalnika.
@@ -958,14 +961,6 @@ urlbar-searchmode-default =
     .tooltiptext = Privzeti iskalnik
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Tokrat išči z iskalnikom:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Išči z iskalnikom:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Tokrat išči z iskalnikom:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
@@ -992,6 +987,28 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Iskanje po ključnih besedah je onemogočeno
     .tooltiptext = Iskanje po ključnih besedah je onemogočeno
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }; izberite iskalnik
+urlbar-searchmode-button-no-engine2 =
+    .title = Ni izbrane bližnjice – izberite bližnjico
+urlbar-searchmode-dropmarker2 =
+    .title = Izberite iskalnik
+urlbar-searchmode-bookmarks2 = Zaznamki
+urlbar-searchmode-tabs2 = Zavihki
+urlbar-searchmode-history2 = Zgodovina
+urlbar-searchmode-actions2 = Dejanja
+urlbar-searchmode-exit-button2 =
+    .title = Zapri
+urlbar-searchmode-default2 =
+    .title = Privzeti iskalnik
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Dodaj »{ $engineName }«
+    .title = Dodaj iskalnik »{ $engineName }«
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
