@@ -988,6 +988,9 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Поиск по ключевым словам отключён
     .tooltiptext = Поиск по ключевым словам отключён
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Поиск по ключевым словам отключён
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
