@@ -954,6 +954,31 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La ricercje vie peraule clâf e je disativade
     .tooltiptext = La ricercje vie peraule clâf e je disativade
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, sielç un motôr di ricercje
+urlbar-searchmode-button-no-engine2 =
+    .title = Nissune scurte selezionade, sielç une scurte
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La ricercje vie peraule clâf e je disativade
+urlbar-searchmode-dropmarker2 =
+    .title = Sielç un motôr di ricercje
+urlbar-searchmode-bookmarks2 = Segnelibris
+urlbar-searchmode-tabs2 = Schedis
+urlbar-searchmode-history2 = Cronologjie
+urlbar-searchmode-actions2 = Azions
+urlbar-searchmode-exit-button2 =
+    .title = Siere
+urlbar-searchmode-default2 =
+    .title = Motôr di ricercje predefinît
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Zonte “{ $engineName }”
+    .title = Zonte motôr di ricercje “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
