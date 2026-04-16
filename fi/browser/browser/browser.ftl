@@ -647,6 +647,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Poista jakamisen suojaus tästä istunnosta
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Käyttääksesi F12-pikanäppäintä, avaa ensin DevTools selaimen työkaluvalikosta.
@@ -712,6 +715,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laajennus:
+urlbar-go-button2 =
+    .title = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-go-button =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
@@ -942,14 +947,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Sulje
 urlbar-searchmode-default =
     .tooltiptext = Oletushakukone
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Tällä kertaa käytä hakuun:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Hae palvelulla:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
