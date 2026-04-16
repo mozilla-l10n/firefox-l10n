@@ -915,6 +915,16 @@ urlbar-searchmode-button3 =
     .title = { $engine }, odaberi pretraživač
 urlbar-searchmode-button-no-engine2 =
     .title = Nije odabrana prečica, odaberi prečicu
+urlbar-searchmode-dropmarker2 =
+    .title = Odaberite pretraživač
+urlbar-searchmode-bookmarks2 = Oznake
+urlbar-searchmode-tabs2 = Tabovi
+urlbar-searchmode-history2 = Historija
+urlbar-searchmode-actions2 = Radnje
+urlbar-searchmode-exit-button2 =
+    .title = Zatvori
+urlbar-searchmode-default2 =
+    .title = Glavni pretraživač
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
