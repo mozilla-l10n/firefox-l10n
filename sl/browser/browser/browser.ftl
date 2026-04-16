@@ -996,6 +996,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }; izberite iskalnik
 urlbar-searchmode-button-no-engine2 =
     .title = Ni izbrane bližnjice – izberite bližnjico
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Iskanje po ključnih besedah je onemogočeno
 urlbar-searchmode-dropmarker2 =
     .title = Izberite iskalnik
 urlbar-searchmode-bookmarks2 = Zaznamki
