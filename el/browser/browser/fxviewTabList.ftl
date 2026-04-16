@@ -78,10 +78,3 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Σίγαση καρτέλας
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Άρση σίγασης καρτέλας
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Ενεργοποιήστε τον συγχρονισμό για να στείλετε μια καρτέλα
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Συνδέστε το τηλέφωνό σας
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Δεν βλέπετε τη συσκευή σας;
