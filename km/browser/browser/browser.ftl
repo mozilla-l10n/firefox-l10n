@@ -305,6 +305,8 @@ urlbar-searchmode-history =
     .label = ប្រវត្តិ
 # Label shown next to a new search engine in the Searchmode Switcher popup to promote it.
 urlbar-searchmode-new = ថ្មី
+urlbar-searchmode-bookmarks2 = ចំណាំ
+urlbar-searchmode-history2 = ប្រវត្តិ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
