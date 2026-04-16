@@ -102,6 +102,9 @@ popup-all-windows-shared = तुमच्या पड्ड्यावयल�
 ## WebRTC window or screen share tab switch warning
 
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 
@@ -114,6 +117,8 @@ urlbar-placeholder =
     .placeholder = सोदात वो नामो दियात
 urlbar-switch-to-tab =
     .value = टॅबाचेर स्विच करचें:
+urlbar-go-button2 =
+    .title = थळ पट्टेन नाम्यान वचात
 urlbar-go-button =
     .tooltiptext = थळ पट्टेन नाम्यान वचात
 
