@@ -721,6 +721,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Dodatak:
+urlbar-go-button2 =
+    .title = Otvori adresu u adresnoj traci
 urlbar-go-button =
     .tooltiptext = Otvori adresu u adresnoj traci
 urlbar-page-action-button =
@@ -982,6 +984,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Pretraživanje ključnih riječi je isključeno
     .tooltiptext = Pretraživanje ključnih riječi je isključeno
+urlbar-searchmode-dropmarker2 =
+    .title = Odaberi tražilicu
+urlbar-searchmode-bookmarks2 = Zabilješke
+urlbar-searchmode-tabs2 = Kartice
+urlbar-searchmode-history2 = Povijest
+urlbar-searchmode-actions2 = Radnje
+urlbar-searchmode-exit-button2 =
+    .title = Zatvori
+urlbar-searchmode-default2 =
+    .title = Standardna tražilica
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
