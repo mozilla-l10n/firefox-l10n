@@ -983,6 +983,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La búsqueda de palabras clave está deshabilitada
     .tooltiptext = La búsqueda de palabras clave está deshabilitada
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, elegir un buscador
+urlbar-searchmode-button-no-engine2 =
+    .title = No hay acceso directo seleccionado, elige uno.
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La búsqueda de palabras clave está deshabilitada
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
