@@ -987,6 +987,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, pick a search engine
 urlbar-searchmode-button-no-engine2 =
     .title = No shortcut selected, pick a shortcut
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Keyword search is disabled
 urlbar-searchmode-dropmarker2 =
     .title = Pick a Search Engine
 urlbar-searchmode-bookmarks2 = Bookmarks
