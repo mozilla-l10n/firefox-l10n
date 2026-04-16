@@ -530,6 +530,7 @@ newtab-weather-opt-in-not-now =
     .label = Nic nětko
 newtab-weather-opt-in-yes =
     .label = Haj
+newtab-weather-opt-in-headline = Dóstańće swoju lokalnu wjedrowu předpowědź
 newtab-weather-opt-in-use-location =
     .label = Stejnišćo wužiwać
 newtab-weather-opt-in-choose-location = Stejnišćo wubrać

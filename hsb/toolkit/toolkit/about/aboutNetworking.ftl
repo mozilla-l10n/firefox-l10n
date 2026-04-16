@@ -14,6 +14,7 @@ about-networking-dns-suffix = DNS-sufiks
 about-networking-websockets = Websokety
 about-networking-alt-svc = Alt-Svc
 about-networking-alt-svc-origin = Pochad
+about-networking-alt-svc-alternate = Alternatiwny
 about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Přepruwowany
 about-networking-alt-svc-ttl = TTL

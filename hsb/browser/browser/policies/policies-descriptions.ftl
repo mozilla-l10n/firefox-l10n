@@ -37,6 +37,7 @@ policy-Containers = Prawidła nastupajo kontejnery postajić
 policy-DisableAccounts = Słužby znjemóžnić, kotrež na konće bazuja, mjez nimi synchronizaciju.
 policy-DisabledCiphers = Šifry znjemóžnić.
 policy-DefaultDownloadDirectory = Nastajće standardny sćehnjenski zapis.
+policy-DefaultSerialGuardSetting = Wužiwanje serijoweho API kontrolować.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžnić, zatwarjeny PDF-wobhladowak w { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Haćće standardny agent wobhladowaka při wuwjedźenju akcijow. To je jenoz za Windows k dispoziciji; druhe platformy agent nimaja.

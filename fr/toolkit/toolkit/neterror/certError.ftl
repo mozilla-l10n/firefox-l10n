@@ -145,11 +145,11 @@ fp-certerror-invalid-cert-why-dangerous = Le propriétaire de { $hostname } ne l
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $now (Date) - The current datetime, to be formatted as a date
-fp-certerror-clock-skew-intro = Votre ordinateur s’identifie à { DATETIME($now, dateStyle: "medium") }, ce qui empêche { -brand-short-name } d’établir une connexion sécurisée. Pour visiter <strong>{ $hostname }</strong>, mettez à jour l’horloge de votre ordinateur dans les paramètres système avec la date, l’heure et le fuseau horaire, puis actualisez la page.
+fp-certerror-clock-skew-intro = Votre ordinateur pense que nous sommes le { DATETIME($now, dateStyle: "medium") }, ce qui empêche { -brand-short-name } de se connecter de façon sécurisée. Pour visiter <strong>{ $hostname }</strong>, mettez à jour l’horloge de votre ordinateur dans vos paramètres système afin qu’elle soit réglée sur la date, l’heure et le fuseau horaire qui conviennent, puis actualisez la page.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $now (Date) - The current datetime, to be formatted as a date
-fp-certerror-clock-skew-what-can-you-do-body = Mettez à jour l’horloge de votre ordinateur dans les paramètres système en utilisant la date, l’heure et le fuseau horaire actuels. Votre ordinateur pense qu’il s’agit de { DATETIME($now, dateStyle: "medium") }.
+fp-certerror-clock-skew-what-can-you-do-body = Mettez à jour l’horloge de votre ordinateur dans vos paramètres système afin qu’elle soit réglée sur la date, l’heure et le fuseau horaire qui conviennent. Votre ordinateur pense que nous sommes le { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

@@ -1106,7 +1106,7 @@ fullscreen-exit-button = Quitter le mode plein écran (Échap)
 fullscreen-exit-mac-button = Quitter le mode plein écran (« esc »)
 fullscreen-keyboardlock-exit-button = Quitter le mode plein écran (maintenez Échap)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
-fullscreen-keyboardlock-exit-mac-button = Quitter le mode plein écran (maintenez la touche Échap)
+fullscreen-keyboardlock-exit-mac-button = Quitter le mode plein écran (maintenez Échap)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

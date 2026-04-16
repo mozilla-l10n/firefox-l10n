@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Časnik wašeho grata je 
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Swójstwownik { $hostname } njeje jo korektnje konfigurował a wěsty zwisk njeda so wutworić.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Waš ličak měni, zo čas je { DATETIME($now, dateStyle: "medium") }, štož wěstemu zwjazowanju { -brand-short-name } zadźěwa. Zo byšće <strong>{ $hostname }</strong> wopytał, aktualizujće časnik swojeho ličaka w systemowych nastajenjach na aktualny datum, aktualny čas a aktualne časowe pasmo a aktualizujće potom stronu.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Aktualizujće časnik swojeho ličaka w swojich systemowych nastajenjach na aktualny datum, čas a časowe pasmo. Waš ličak mysli, zo je { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
