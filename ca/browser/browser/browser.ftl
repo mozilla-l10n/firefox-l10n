@@ -711,6 +711,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensió:
+urlbar-go-button2 =
+    .title = Vés a l'adreça de la barra d'ubicació
 urlbar-go-button =
     .tooltiptext = Vés a l'adreça de la barra d'ubicació
 urlbar-page-action-button =
