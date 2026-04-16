@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Lap némítása
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Lap visszahangosítása
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Lap küldéséhez engedélyezze a szinkronizálást
+fxviewtabrow-send-to-mobile-connect-phone2 = Csatlakoztassa a telefonját
+fxviewtabrow-send-to-mobile-device-missing2 = Nem látja az eszközét?
