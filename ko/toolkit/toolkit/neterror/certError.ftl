@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = 기기의 시계가 { DAT
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = { $hostname }의 소유자가 올바르게 설정하지 않아서 보안 연결을 할 수 없습니다.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = 이 컴퓨터는 현재 시각이 { DATETIME($now, dateStyle: "medium") }로 설정되어 있어 { -brand-short-name }가 안전하게 연결할 수 없습니다. <strong>{ $hostname }</strong> 사이트를 방문하려면 시스템 설정에서 컴퓨터 시계를 현재 날짜, 시간 및 시간대로 설정한 후 페이지를 새로 고침하세요.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = 시스템 설정에서 컴퓨터 시계를 현재 날짜, 시간 및 시간대로 설정하세요. 이 컴퓨터는 현재 시각이 { DATETIME($now, dateStyle: "medium") }로 설정되어 있습니다.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
