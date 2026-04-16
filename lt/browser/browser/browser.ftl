@@ -618,6 +618,10 @@ urlbar-searchmode-history =
     .label = Žurnalas
 urlbar-searchmode-actions =
     .label = Veiksmai
+urlbar-searchmode-bookmarks2 = Adresynas
+urlbar-searchmode-tabs2 = Kortelės
+urlbar-searchmode-history2 = Žurnalas
+urlbar-searchmode-actions2 = Veiksmai
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
