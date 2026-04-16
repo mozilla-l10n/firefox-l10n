@@ -958,9 +958,26 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = 关键词搜索已禁用
     .tooltiptext = 关键词搜索已禁用
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }，选取搜索引擎
+urlbar-searchmode-button-no-engine2 =
+    .title = 未选择快捷方式，请选择
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = 关键词搜索已禁用
+urlbar-searchmode-dropmarker2 =
+    .title = 选取搜索引擎
+urlbar-searchmode-bookmarks2 = 书签
+urlbar-searchmode-tabs2 = 标签页
+urlbar-searchmode-history2 = 历史记录
+urlbar-searchmode-actions2 = 操作
+urlbar-searchmode-exit-button2 =
+    .title = 关闭
+urlbar-searchmode-default2 =
+    .title = 默认搜索引擎
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
