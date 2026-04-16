@@ -486,6 +486,9 @@ urlbar-searchmode-tabs =
     .label = Tabs
 urlbar-searchmode-history =
     .label = Historie
+urlbar-searchmode-bookmarks2 = Buikmerks
+urlbar-searchmode-tabs2 = Tabs
+urlbar-searchmode-history2 = Historie
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
