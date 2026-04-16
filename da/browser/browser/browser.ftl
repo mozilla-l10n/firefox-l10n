@@ -974,6 +974,14 @@ urlbar-searchmode-no-keyword =
     .tooltiptext = Søgning med genveje er deaktiveret
 urlbar-searchmode-dropmarker2 =
     .title = Vælg en søgetjeneste
+urlbar-searchmode-bookmarks2 = Bogmærker
+urlbar-searchmode-tabs2 = Faneblade
+urlbar-searchmode-history2 = Historik
+urlbar-searchmode-actions2 = Handlinger
+urlbar-searchmode-exit-button2 =
+    .title = Luk
+urlbar-searchmode-default2 =
+    .title = Standard-søgetjeneste
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
