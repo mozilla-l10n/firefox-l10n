@@ -1011,6 +1011,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = عُطّل البحث بالكلمات المفتاحية
     .tooltiptext = عُطّل البحث بالكلمات المفتاحية
+urlbar-searchmode-dropmarker2 =
+    .title = اختر محرك بحث
+urlbar-searchmode-bookmarks2 = العلامات
+urlbar-searchmode-tabs2 = الألسنة
+urlbar-searchmode-history2 = التأريخ
+urlbar-searchmode-actions2 = الإجراءات
+urlbar-searchmode-exit-button2 =
+    .title = أغلق
+urlbar-searchmode-default2 =
+    .title = محرّك البحث المبدئي
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
