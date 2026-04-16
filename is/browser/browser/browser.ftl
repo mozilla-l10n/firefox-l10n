@@ -954,6 +954,11 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Engin flýtileið valin, veldu flýtileið
     .tooltiptext = Engin flýtileið valin, veldu flýtileið
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Bæta við “{ $engineName }”
+    .title = Bæta við leitarvélinni “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
