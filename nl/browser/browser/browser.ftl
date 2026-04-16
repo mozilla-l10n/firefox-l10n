@@ -983,6 +983,18 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Zoeken op trefwoorden is uitgeschakeld
     .tooltiptext = Zoeken op trefwoorden is uitgeschakeld
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, kies een zoekmachine
+urlbar-searchmode-button-no-engine2 =
+    .title = Geen snelkoppeling geselecteerd, kies een snelkoppeling
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }” toevoegen
+    .title = Zoekmachine “{ $engineName }” toevoegen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
