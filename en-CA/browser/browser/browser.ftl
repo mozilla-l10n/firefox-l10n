@@ -991,6 +991,11 @@ urlbar-searchmode-exit-button2 =
     .title = Close
 urlbar-searchmode-default2 =
     .title = Default search engine
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Add “{ $engineName }”
+    .title = Add search engine “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
