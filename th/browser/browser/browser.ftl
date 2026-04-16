@@ -959,6 +959,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
     .tooltiptext = การค้นหาด้วยคำสำคัญถูกปิดใช้งาน
+urlbar-searchmode-dropmarker2 =
+    .title = เลือกเครื่องมือค้นหา
+urlbar-searchmode-bookmarks2 = ที่คั่นหน้า
+urlbar-searchmode-tabs2 = แท็บ
+urlbar-searchmode-history2 = ประวัติ
+urlbar-searchmode-actions2 = การกระทำ
+urlbar-searchmode-exit-button2 =
+    .title = ปิด
+urlbar-searchmode-default2 =
+    .title = เครื่องมือค้นหาเริ่มต้น
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
