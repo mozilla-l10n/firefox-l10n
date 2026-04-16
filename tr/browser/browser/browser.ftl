@@ -976,6 +976,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Anahtar kelimeyle arama devre dışı
     .tooltiptext = Anahtar kelimeyle arama devre dışı
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, arama motorunu değiştir
+urlbar-searchmode-button-no-engine2 =
+    .title = Kısayol seçilmemiş, kısayol seçin
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Anahtar kelimeyle arama devre dışı
 urlbar-searchmode-dropmarker2 =
     .title = Bir arama motoru seçin
 urlbar-searchmode-bookmarks2 = Yer imleri
@@ -986,6 +996,11 @@ urlbar-searchmode-exit-button2 =
     .title = Kapat
 urlbar-searchmode-default2 =
     .title = Varsayılan arama motoru
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }” arama motorunu ekle
+    .title = “{ $engineName }” arama motorunu ekle
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
