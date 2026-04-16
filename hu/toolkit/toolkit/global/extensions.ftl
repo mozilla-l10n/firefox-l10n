@@ -149,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Ezek általában bővíthető eszközök, például hangszintetizátorok, de előfordulhatnak a számítógépbe építve is.
     
     A weboldalak általában nem érhetnek el MIDI-eszközöket. A nem megfelelő használatuk kárt okozhat, vagy veszélyeztetheti a biztonságot.
+webext-site-perms-description-gated-perms-serial =
+    Ezek olyan USB-n vagy soros porton csatlakozó eszközök, mint a mikrokontrollerek, 3D nyomtatók és egyebek.
+    
+    Kiválaszthatja, hogy mely eszközöket érheti el a webhely.
+    
+    A webhelyek általában nem érhetnek el soros portos eszközöket. A nem megfelelő használat kárt okozhat, vagy veszélyezteti a biztonságot.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
