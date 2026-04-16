@@ -966,6 +966,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Sa chirca pro faeddu-crae est istudada
     .tooltiptext = Sa chirca pro faeddu-crae est istudada
+urlbar-searchmode-dropmarker2 =
+    .title = Sèbera unu motore de chirca
+urlbar-searchmode-bookmarks2 = Sinnalibros
+urlbar-searchmode-tabs2 = Ischedas
+urlbar-searchmode-history2 = Cronologia
+urlbar-searchmode-actions2 = Atziones
+urlbar-searchmode-exit-button2 =
+    .title = Serra
+urlbar-searchmode-default2 =
+    .title = Motore de chirca predefinidu
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
