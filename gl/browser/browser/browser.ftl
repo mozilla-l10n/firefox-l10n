@@ -894,6 +894,16 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Non seleccionaches ningún atallo, escolle un atallo
     .tooltiptext = Non seleccionaches ningún atallo, escolle un atallo
+urlbar-searchmode-dropmarker2 =
+    .title = Escolle un buscador
+urlbar-searchmode-bookmarks2 = Marcadores
+urlbar-searchmode-tabs2 = Lapelas
+urlbar-searchmode-history2 = Historial
+urlbar-searchmode-actions2 = Accións
+urlbar-searchmode-exit-button2 =
+    .title = Pechar
+urlbar-searchmode-default2 =
+    .title = Motor de busca predeterminado
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
