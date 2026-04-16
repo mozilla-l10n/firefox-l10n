@@ -709,6 +709,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Zgjerim:
+urlbar-go-button2 =
+    .title = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-go-button =
     .tooltiptext = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-page-action-button =
@@ -967,6 +969,31 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Kërkimi me fjalëkyçe është i çaktivizuar
     .tooltiptext = Kërkimi me fjalëkyçe është i çaktivizuar
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, zgjidhni një motor kërkimesh
+urlbar-searchmode-button-no-engine2 =
+    .title = S’u përzgjodh shkurtore, zgjidhni një shkurtore
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Kërkimi me fjalëkyçe është i çaktivizuar
+urlbar-searchmode-dropmarker2 =
+    .title = Zgjidhni një Motor Kërkimesh
+urlbar-searchmode-bookmarks2 = Faqerojtës
+urlbar-searchmode-tabs2 = Skeda
+urlbar-searchmode-history2 = Historik
+urlbar-searchmode-actions2 = Veprime
+urlbar-searchmode-exit-button2 =
+    .title = Mbylle
+urlbar-searchmode-default2 =
+    .title = Motor parazgjedhje kërkimesh
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Shtoni “{ $engineName }”
+    .title = Shtoni motorin e kërkimeve “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
