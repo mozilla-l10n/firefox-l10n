@@ -534,6 +534,13 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Níor roghnaíodh aicearra. Roghnaigh aicearra.
     .tooltiptext = Níor roghnaíodh aicearra. Roghnaigh aicearra.
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, roghnaigh inneall cuardaigh
+urlbar-searchmode-button-no-engine2 =
+    .title = Níor roghnaíodh aicearra. Roghnaigh aicearra.
 urlbar-searchmode-dropmarker2 =
     .title = Roghnaigh inneall cuardaigh
 urlbar-searchmode-bookmarks2 = Leabharmharcanna
@@ -547,6 +554,10 @@ urlbar-searchmode-exit-button2 =
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Cuir “{ $engineName }” leis
     .title = Cuir an t-inneall cuardaigh “{ $engineName }” leis
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = An uair seo, cuardaigh le:
+urlbar-searchmode-popup-search-settings-panelitem = Socruithe Cuardaigh
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
