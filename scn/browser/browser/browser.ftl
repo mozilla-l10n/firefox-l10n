@@ -338,6 +338,10 @@ urlbar-searchmode-popup-description = Sta vota riscedi cu:
 urlbar-searchmode-popup-search-settings-menuitem =
     .label = Mpustazzioni di risciduta
 urlbar-searchmode-bookmarks2 = Nzingalibbra
+# Label shown on the top of Searchmode Switcher popup. After this label, the
+# available search engines will be listed.
+urlbar-searchmode-popup-one-off-header = Sta vota riscedi cu:
+urlbar-searchmode-popup-search-settings-panelitem = Mpustazzioni di risciduta
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
