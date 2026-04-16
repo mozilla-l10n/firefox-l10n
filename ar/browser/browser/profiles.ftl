@@ -231,6 +231,7 @@ leaf-avatar = ورقة شجر
 lightbulb-avatar = مصباح كهربائي
 # Message refers to a text message, not a traditional letter/envelope message
 message-avatar = رسالة
+picture-avatar = صورة
 shopping-avatar = عربة تسوق
 star-avatar = النجمة
 custom-avatar-drag-handle =

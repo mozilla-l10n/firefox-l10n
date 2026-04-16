@@ -453,6 +453,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = احفظ
     .accesskey = ف
+tab-note-editor-button-delete =
+    .title = احذف الملاحظة
+    .aria-label = احذف الملاحظة
+    .accesskey = ذ
+tab-note-preview-edit-icon =
+    .alt = حرِّر الملاحظة
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = اطّلع على المزيد
 tab-note-panel-add-note-new-badge =

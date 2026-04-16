@@ -79,6 +79,10 @@ move-to-end =
 move-to-new-window =
     .label = انقل إلى نافذة جديدة
     .accesskey = ذ
+# Variables
+#  $profileName (string): The name of the profile to move tab to
+move-to-new-profile =
+    .label = انتقل إلى { $profileName }
 tab-context-close-multiple-tabs =
     .label = أغلِق أكثر من لسان
     .accesskey = ك
@@ -138,6 +142,13 @@ tab-context-move-tabs =
            *[other] انقل الألسنة
         }
     .accesskey = ن
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = فعِّل المزامنة لإرسال لسان
+tab-context-send-to-mobile-connect-phone =
+    .label = صل جوّالك
+tab-context-send-to-mobile-device-missing =
+    .label = ألا ترى جهازك؟
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

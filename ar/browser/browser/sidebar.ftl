@@ -66,6 +66,10 @@ sidebar-show-on-the-right =
     .label = انقل الشريط الجانبي إلى اليمين
 sidebar-show-on-the-left =
     .label = انقل الشريط الجانبي إلى اليسار
+# Option to automatically expand the collapsed sidebar when the mouse pointer
+# hovers over it.
+expand-sidebar-on-hover =
+    .label = توسيع الشريط عن مرور مؤشر الفأرة
 sidebar-manage-extensions = أدِر الامتدادات
 
 ## Labels for sidebar context menu items
@@ -84,6 +88,8 @@ sidebar-context-menu-open-in-window =
     .label = افتح في نافذة جديدة
 sidebar-context-menu-open-in-private-window =
     .label = افتح في نافذة خاصة جديدة
+sidebar-context-menu-forget-site =
+    .label = امحُ كل البيانات الخاصة بالموقع…
 sidebar-context-menu-bookmark-tab =
     .label = علّم اللسان…
 sidebar-context-menu-copy-link =
@@ -114,6 +120,8 @@ sidebar-history-context-menu-delete-pages =
 
 ## Labels for sidebar bookmarks context menu items
 
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = حرّر العلامة…
 sidebar-bookmarks-context-menu-delete-bookmark =
     .label = احذف العلامة
 sidebar-bookmarks-context-menu-delete-separator =
@@ -174,8 +182,17 @@ sidebar-menu-syncedtabs-header =
     .heading = ألسنة من أجهزة أخرى
 sidebar-menu-cpm-header =
     .heading = كلمات السر
+sidebar-menu-bookmarks-header =
+    .heading = العلامات
 sidebar-panel-header-close-button =
     .tooltiptext = أغلق
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = قائمة العلامات
+sidebar-bookmarks-folder-toolbar = شريط العلامات
+sidebar-bookmarks-folder-other = العلامات الأخرى
+sidebar-bookmarks-folder-mobile = علامات الجوّال
 
 ## Titles for sidebar menu panels.
 
