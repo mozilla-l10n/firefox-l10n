@@ -2070,8 +2070,15 @@ data-collection-health-report-disabled =
     .label = أرسل البيانات التقنية والتفاعلية إلى { -vendor-short-name }
     .accesskey = س
     .description = عُطِّل إرسال تقارير البيانات لتضبيط هذا الإصدار.
+data-collection-run-studies =
+    .label = اسمح لـ { -brand-short-name } بتشغيل دراسات الميزات
+    .description = يختار { -brand-short-name } مستخدمين بشكل عشوائي لاختبار الميزات، مما يساعد في تحسين الجودة للجميع.
 data-collection-studies-link =
     .label = اعرض دراسات { -brand-short-name }
+data-collection-backlogged-crash-reports =
+    .label = إرسال تقارير الإنهيار تلقائيًا
+    .description = يساعد هذا { -vendor-short-name } في تشخيص وإصلاح المشكلات في المتصفح. قد تتضمن التقارير بيانات شخصية أو حساسة.
+    .accesskey = إ
 data-collection-usage-ping =
     .label = أرسل إشعار الاستخدام اليومي إلى { -vendor-short-name }
     .description = يساعد هذا { -vendor-short-name } في تقدير عدد المستخدمين النشطين.
@@ -2129,6 +2136,9 @@ space-alert-over-5gb-settings-button =
     .accesskey = ف
 space-alert-over-5gb-message2 = <strong>مساحة القرص قاربت على النفاذ من { -brand-short-name }</strong>. قد لا يُعرض محتوى المواقع كما ينبغي. يمكنك مسح البيانات المحفوظة من ”الإعدادات ← الخصوصية والأمان ← الكعكات وبيانات المواقع“.
 space-alert-under-5gb-message2 = <strong>مساحة القرص قاربت على النفاذ من { -brand-short-name }</strong>. قد لا يُعرض محتوى المواقع كما ينبغي. انتقل إلى ”اطّلع على المزيد“ لتحسين استخدام القرص لتصفح أحسن.
+certs-description3 =
+    .label = الشهادات
+    .description = اضبط الشهادات التي يستخدمها { -brand-short-name } للتحقق من الاتصالات الآمنة.
 certs-view2 =
     .label = أدر الشهادات
     .accesskey = د
@@ -2161,6 +2171,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS عبر HTTPS
+dns-over-https-group2 =
+    .label = DNS عبر HTTPS
+    .description = يقوم نظام أسماء النطاقات عبر بروتوكول HTTPS (DoH) بتعمية عمليات البحث عن المواقع، مما يجعل من الصعب على مزود خدمة الإنترنت الخاص بك أو غيره معرفة المواقع التي تنوي زيارتها.
 preferences-doh-description = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم المجال من خلال اتصال مُعمّى، مما يؤدي إلى إنشاء DNS آمن ويجعل من الصعب على الآخرين معرفة موقع الوب الذي أنت على وشك الوصول إليه.
 preferences-doh-description2 = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم مجال من خلال اتصال مُعمّى، مما يوفر DNS آمنًا ويجعل من الصعب على الآخرين رؤية موقع الوب الذي أنت على وشك الوصول إليه.
 # Variables:
@@ -2216,13 +2229,35 @@ preferences-doh-exceptions-description = لن يستخدم { -brand-short-name }
 preferences-doh-manage-exceptions =
     .label = أدر الاستثناءات…
     .accesskey = د
+preferences-doh-overview-default =
+    .label = الحماية المبدئية
+    .description = استخدم DNS الآمن في المناطق التي يتوفر فيها.
+preferences-doh-overview-custom =
+    .label = مخصّص
+    .description = استخدم دائمًا DNS آمنًا مع التحكم في مزود الخدمة وسلوك التراجع.
+preferences-doh-overview-off =
+    .label = معطّل
+    .description = استخدم مُحلّل DNS المبدئي الخاص بك.
+preferences-doh-advanced-button =
+    .label = إعدادات متقدّمة
+preferences-doh-advanced-section =
+    .label = إعدادات متقدّمة
+    .description = يقوم نظام أسماء النطاقات عبر بروتوكول HTTPS (DoH) بتعمية عمليات البحث عن المواقع، مما يجعل من الصعب على مزود خدمة الإنترنت الخاص بك أو غيره معرفة المواقع التي تنوي زيارتها.
 preferences-doh-manage-exceptions2 =
     .label = أدر الاستثناءات
     .accesskey = د
+preferences-doh-radio-default =
+    .label = المبدئي
+    .description = استخدم DNS الآمن في المناطق التي يتوفر فيها.
 preferences-doh-fallback-label =
     .label = أبلغني دائمًا إذا لم يكن DNS الآمن متاحًا
 preferences-doh-status-item-off =
     .message = DNS عبر HTTPS مُعطّل
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = لا يعمل DNS عبر HTTPS بسبب حدوث خطأ ({ $reason }) أثناء محاولة استخدام المزود { $name }
 # Variables:
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
@@ -2267,12 +2302,20 @@ preferences-ai-controls-translations-control =
     .label = الترجمات
     .description = تصفح الوِب بسهولة في لغتك المفضلة.
 preferences-ai-controls-translations-more-link = المزيد من إعدادات الترجمة
+preferences-ai-controls-pdfjs-control =
+    .label = نص بديل للصورة في عارض PDF { -brand-short-name }
+    .description = عند إضافة صور إلى PDF، يضيف هذا أوصافًا لجعلها ميسرة للوصول.
+preferences-ai-controls-tab-group-suggestions-control =
+    .label = اقتراحات مجموعة اللسان
+    .description = احصل على اقتراحات لتسمية ألسنتك وتنظيمها.
 preferences-ai-controls-key-points-control =
     .label = أهم النقاط في معاينات الروابط
     .description = اطّلع على ملخص سريع قبل فتح أي رابط.
 preferences-ai-controls-sidebar-chatbot-group =
     .label = مزودي برامج الدردشة الآلية المدعومة بالذكاء الاصطناعي في الشريط الجانبي
     .description = أبقِ روبوت الدردشة أمامك أثناء التصفح. اختر من بين Anthropic Claude وChatGPT وCopilot وGoogle Gemini وLe Chat Mistral.
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = آلي الدردشة في الشريط الجانبي
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = متاح
