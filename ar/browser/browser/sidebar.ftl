@@ -168,6 +168,7 @@ sidebar-menu-close-bookmarks-tooltip = أغلق العلامات ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
+sidebar-menu-open-ai-chatbot-tooltip-generic = افتح محادثة الذكاء الاصطناعي ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = افتح { $provider } ({ $shortcut })
 sidebar-menu-close-ai-chatbot-tooltip-generic = أغلق روبوت المحادثة AI ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = أغلق { $provider } ({ $shortcut })
@@ -234,3 +235,7 @@ sidebar-widget-show-sidebar2 =
 sidebar-widget-hide-sidebar2 =
     .tooltiptext = أخفِ الشريط الجانبي ({ $shortcut })
     .label = الأشرطة الجانبية
+# Promotional message displayed in the expanded sidebar state for Vertical Tabs
+# users who do not have any pinned tabs. Indicates that they can drop tabs in
+# this area to pin them.
+sidebar-pins-promo-text = اسحب الألسنة المهمة هنا للوصول السريع
