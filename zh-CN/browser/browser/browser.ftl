@@ -958,6 +958,9 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = 关键词搜索已禁用
     .tooltiptext = 关键词搜索已禁用
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = 关键词搜索已禁用
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
