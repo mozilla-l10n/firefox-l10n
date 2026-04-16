@@ -619,6 +619,10 @@ urlbar-searchmode-history =
     .label = Natab'äl
 urlbar-searchmode-actions =
     .label = Taq b'anoj
+urlbar-searchmode-bookmarks2 = Taq yaketal
+urlbar-searchmode-tabs2 = Taq ruwi'
+urlbar-searchmode-history2 = Natab'äl
+urlbar-searchmode-actions2 = Taq b'anoj
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
