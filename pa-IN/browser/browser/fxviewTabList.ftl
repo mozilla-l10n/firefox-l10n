@@ -78,10 +78,3 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = ਟੈਬ ਨੂੰ ਮੌਨ ਕਰੋ
 fxviewtabrow-unmute-tab-button-no-context =
     .title = ਟੈਬ ਨੂੰ ਸੁਣਾਓ
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = ਟੈਬ ਭੇਜਣ ਲਈ ਸਿੰਕ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਨਹੀਂ ਵੇਖ ਰਹੇ ਹੋ?
