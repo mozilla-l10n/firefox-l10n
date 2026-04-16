@@ -484,6 +484,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Tichup ri komon ruwäch chajinïk pa re molojri'ïl re'
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj rusamajib'al okik'amaya'l.
@@ -597,6 +600,13 @@ urlbar-result-action-copy-to-clipboard = Tiwachib'ëx
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -607,6 +617,11 @@ urlbar-searchmode-history =
     .label = Natab'äl
 urlbar-searchmode-actions =
     .label = Taq b'anoj
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Titz'aqatisäx “{ $engineName }”
+    .title = Titz'aqatisäx kanob'äl “{ $engineName }”
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -895,11 +910,17 @@ tabs-toolbar-list-all-tabs =
     .label = Kecholajïx ronojel taq ruwi'
     .tooltiptext = Kecholajïx ronojel taq ruwi'
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> ¿La yejaq taq ruwi' xe'ik'o yan?</strong> Yatikïr natzolij ri amolojri'ïl pa ri rucha'ob'äl choköy{ -brand-short-name } <img data-l10n-name="icon"/>, pa Natab'äl.
 restore-session-startup-suggestion-button = Tik'ut achi'el
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -934,6 +955,10 @@ unified-extensions-button-quarantined =
         Taq k'amal
         Jujun taq k'amal man ya'on ta q'ij chi ke
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -954,6 +979,9 @@ refresh-blocked-redirect-label = { -brand-short-name } man xuya' ta q'ij chi re 
 refresh-blocked-allow =
     .label = Tiya' q'ij
     .accesskey = y
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -989,3 +1017,26 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Tik'ut pe ri “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
