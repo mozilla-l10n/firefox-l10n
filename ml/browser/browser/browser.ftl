@@ -808,6 +808,18 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
     .tooltiptext = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
+urlbar-searchmode-button-no-engine2 =
+    .title = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }” ചേർക്കുക
+    .title = “{ $engineName }” തിരച്ചിൽയന്ത്രം ചേർക്കുക
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
