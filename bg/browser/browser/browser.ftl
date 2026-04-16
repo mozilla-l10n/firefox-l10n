@@ -640,6 +640,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = За да използвате клавишна комбинация F12, първо отворете DevTools от менюто с инструменти на четеца.
@@ -927,10 +930,6 @@ urlbar-searchmode-default =
     .tooltiptext = Търсеща машина по подразбиране
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Този път търсете с:
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Този път търсете с:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
@@ -949,6 +948,11 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Няма избрана клавишна комбинация, изберете една
     .tooltiptext = Няма избрана клавишна комбинация, изберете една
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Добавяне на „{ $engineName }“
+    .title = Добавя търсещата машина „{ $engineName }“
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1506,6 +1510,9 @@ trustpanel-blocker-see-all = Вижте всички
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
