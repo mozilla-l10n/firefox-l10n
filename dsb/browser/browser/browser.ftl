@@ -1004,6 +1004,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, wubjeŕśo pytnicu
 urlbar-searchmode-button-no-engine2 =
     .title = Žedna skrotconka wubrana, wubjeŕśo skrotconku
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Pytanje z klucowymi słowami jo znjemóžnjone
 urlbar-searchmode-dropmarker2 =
     .title = Wubjeŕśo pytnicu
 urlbar-searchmode-bookmarks2 = Cytańske znamjenja
