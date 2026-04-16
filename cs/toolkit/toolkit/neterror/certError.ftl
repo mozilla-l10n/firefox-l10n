@@ -101,7 +101,7 @@ fp-certerror-bad-domain-what-can-you-do-body = Pravděpodobně nic, protože pro
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } vás upozorňuje na tento server, protože použitý certifikát pro server { $hostname } byl vydán nedůvěryhodnou certifikační autoritou.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-untrusted-issuer-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že je problém se samotným webem. Kontaktujte vlastníka webové stránky, zda na problému nepracuje.
+fp-certerror-untrusted-issuer-what-can-you-do-body = Pravděpodobně nic, protože problém je zřejmě na straně samotného webu. Můžete se zeptat vlastníka webu, zda nepracuje na řešení tohoto problému.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Vyskytl se problém s certifikátem tohoto webu. Je možné, že se za web někdo pokouší vydávat. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } tomuto webu nedůvěřuje, protože nemůžeme určit, kdo certifikát vydal, je podepsán sám sebou, nebo web neposílá mezilehlé certifikáty, kterým důvěřujeme.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -112,8 +112,6 @@ fp-certerror-unknown-issuer-what-can-you-do-body =
     }
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = Protože je problém s certifikátem webu. Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. Certifikát tohoto webu je podepsán sám sebou. Nebyl vydán uznávanou certifikační autoritou – proto mu ve výchozím nastavení nedůvěřujeme.
-# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-self-signed-what-can-you-do-body = Nic moc. Je pravděpodobné, že problém je v samotném webu.
 fp-certerror-self-signed-important-note = DŮLEŽITÉ UPOZORNĚNÍ: Pokud se pokoušíte navštívit tento web v podnikovém intranetu, mohou pracovníci IT oddělení používat certifikáty s vlastním podpisem. Mohou vám pomoci zkontrolovat jejich pravost.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
