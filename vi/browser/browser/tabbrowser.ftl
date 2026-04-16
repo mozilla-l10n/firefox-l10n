@@ -353,6 +353,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Lưu
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Xoá ghi chú
+    .aria-label = Xoá ghi chú
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = Chỉnh sửa ghi chú
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Xem thêm
 tab-note-panel-add-note-new-badge =

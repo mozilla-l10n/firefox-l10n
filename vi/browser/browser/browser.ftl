@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Thay đổi liệu bạn có thể nhận thông báo từ trang web hay không
 urlbar-midi-notification-anchor =
     .tooltiptext = Mở bảng MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Mở bảng Cổng nối tiếp
 urlbar-eme-notification-anchor =
     .tooltiptext = Quản lý sử dụng phần mềm DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.
 urlbar-midi-blocked =
     .tooltiptext = Bạn đã chặn quyền truy cập MIDI của trang web này.
+urlbar-serial-blocked =
+    .tooltiptext = Bạn đã chặn quyền truy cập cổng nối tiếp cho trang web này.
 urlbar-install-blocked =
     .tooltiptext = Bạn đã chặn cài đặt tiện ích cho trang web này.
 # Variables
@@ -641,6 +645,11 @@ sharing-warning-proceed-to-tab =
     .label = Tiếp tục với thẻ
 sharing-warning-disable-for-session =
     .label = Vô hiệu hóa bảo vệ chia sẻ cho phiên này
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Chọn một cổng nối tiếp:
+webserial-no-ports-available = Không có cổng nối tiếp có sẵn
 
 ## DevTools F12 popup
 

@@ -280,6 +280,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tùy biến thanh công cụ…
+appmenu-abouttranslations =
+    .label = Dịch…
 appmenu-developer-tools-subheader = Công cụ của trình duyệt
 appmenu-developer-tools-extensions =
     .label = Tiện ích mở rộng dành cho nhà phát triển
