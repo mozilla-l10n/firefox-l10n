@@ -720,6 +720,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Hedapena:
+urlbar-go-button2 =
+    .title = Joan kokapen-barrako helbidera
 urlbar-go-button =
     .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
