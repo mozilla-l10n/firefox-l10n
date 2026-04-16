@@ -706,6 +706,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Forritsauki:
+urlbar-go-button2 =
+    .title = Hoppa á tengilinn sem er í veffangastikunni
 urlbar-go-button =
     .tooltiptext = Hoppa á tengilinn sem er í veffangastikunni
 urlbar-page-action-button =
@@ -954,6 +956,23 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Engin flýtileið valin, veldu flýtileið
     .tooltiptext = Engin flýtileið valin, veldu flýtileið
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, veldu leitarvél
+urlbar-searchmode-button-no-engine2 =
+    .title = Engin flýtileið valin, veldu flýtileið
+urlbar-searchmode-dropmarker2 =
+    .title = Veldu leitarvél
+urlbar-searchmode-bookmarks2 = Bókamerki
+urlbar-searchmode-tabs2 = Flipar
+urlbar-searchmode-history2 = Ferill
+urlbar-searchmode-actions2 = Aðgerðir
+urlbar-searchmode-exit-button2 =
+    .title = Loka
+urlbar-searchmode-default2 =
+    .title = Sjálfgefin leitarvél
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
