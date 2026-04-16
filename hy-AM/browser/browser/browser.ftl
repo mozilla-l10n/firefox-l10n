@@ -945,6 +945,11 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
     .tooltiptext = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Ավելացնել «{ $engineName }»-ը
+    .title = Ավելացնել «{ $engineName }» որոնիչը
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
