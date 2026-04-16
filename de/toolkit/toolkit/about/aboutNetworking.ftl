@@ -12,6 +12,7 @@ about-networking-dns-trr-url = DoH-Adresse
 about-networking-dns-trr-mode = DoH-Modus
 about-networking-dns-suffix = DNS-Suffixe
 about-networking-websockets = WebSockets
+about-networking-alt-svc-origin = Quelle
 about-networking-refresh = Aktualisieren
 about-networking-auto-refresh = Automatisch alle 3 Sekunden aktualisieren
 about-networking-hostname = Hostname

@@ -1003,6 +1003,7 @@ urlbar-searchmode-popup-one-off-header = Einmalig suchen mit:
 # reset after submitting.
 urlbar-searchmode-popup-header = Suchen mit:
 urlbar-searchmode-popup-search-settings-panelitem = Sucheinstellungen
+urlbar-searchmode-popup-settings-panelitem = Einstellungen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1091,6 +1092,9 @@ fullscreen-warning-no-domain = Dieses Dokument befindet sich jetzt im Vollbildmo
 fullscreen-exit-button = Vollbild beenden (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Vollbild beenden (esc)
+fullscreen-keyboardlock-exit-button = Vollbild beenden (Esc drücken und halten)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Vollbild beenden (Esc drücken und halten)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

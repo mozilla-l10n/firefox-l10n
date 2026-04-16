@@ -13,6 +13,7 @@ customkeys-reset-all = Alle Tastenkombinationen auf die Standardeinstellungen zu
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Diese Taste ist bereits { $conflict } zugeordnet. Möchten Sie diese ersetzen?
 customkeys-reset-all-confirm = Sollen wirklich alle Tastenkombinationen auf die Standardeinstellungen zurückgesetzt werden?
+customkeys-file-duplicate-tab = Tab duplizieren
 customkeys-history-reopen-tab = Zuletzt geschlossenen Tab wiederherstellen
 customkeys-history-reopen-window = Zuletzt geschlossenes Fenster wieder öffnen
 customkeys-sidebar-toggle = Sidebar umschalten
