@@ -78,10 +78,3 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Tewi tab
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Dad-dewi tab
-# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
-fxviewtabrow-send-to-mobile-enable-sync =
-    .label = Galluogi cydweddu i anfon tab
-fxviewtabrow-send-to-mobile-connect-phone =
-    .label = Cysylltu eich ffôn
-fxviewtabrow-send-to-mobile-device-missing =
-    .label = Ddim yn gweld eich dyfais?
