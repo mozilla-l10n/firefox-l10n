@@ -998,6 +998,11 @@ urlbar-searchmode-button-no-engine2 =
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = Tha lorg le briathran-luirg à comas
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Cuir “{ $engineName }” ris
+    .title = Cuir einnsean-luirg “{ $engineName }” ris
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
