@@ -978,6 +978,16 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Nyckelordssökning är inaktiverad
     .tooltiptext = Nyckelordssökning är inaktiverad
+urlbar-searchmode-dropmarker2 =
+    .title = Välj en sökmotor
+urlbar-searchmode-bookmarks2 = Bokmärken
+urlbar-searchmode-tabs2 = Flikar
+urlbar-searchmode-history2 = Historik
+urlbar-searchmode-actions2 = Åtgärder
+urlbar-searchmode-exit-button2 =
+    .title = Stäng
+urlbar-searchmode-default2 =
+    .title = Standardsökmotor
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
