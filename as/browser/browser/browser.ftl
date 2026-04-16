@@ -487,6 +487,9 @@ urlbar-searchmode-tabs =
     .label = টেবসমূহ
 urlbar-searchmode-history =
     .label = ইতিহাস
+urlbar-searchmode-bookmarks2 = বুকমাৰ্কসমূহ
+urlbar-searchmode-tabs2 = টেবসমূহ
+urlbar-searchmode-history2 = ইতিহাস
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
