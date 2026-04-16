@@ -945,6 +945,16 @@ urlbar-searchmode-button2 =
 urlbar-searchmode-button-no-engine =
     .label = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
     .tooltiptext = Դյուրանցում ընտրված չէ, ընտրեք դյուրանցում
+urlbar-searchmode-dropmarker2 =
+    .title = Ավելացնել որոնիչ
+urlbar-searchmode-bookmarks2 = Էջանիշեր
+urlbar-searchmode-tabs2 = Ներդիրներ
+urlbar-searchmode-history2 = Պատմություն
+urlbar-searchmode-actions2 = Գործողություններ
+urlbar-searchmode-exit-button2 =
+    .title = Փակել
+urlbar-searchmode-default2 =
+    .title = Սկզբնադիր որոնիչ
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
