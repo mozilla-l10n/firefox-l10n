@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Ljepblêd dôvje
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ljepblêd dôvje opheffe
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
+fxviewtabrow-send-to-mobile-connect-phone2 = Jo telefoan ferbine
+fxviewtabrow-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
