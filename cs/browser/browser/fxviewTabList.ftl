@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Vypnout zvuk panelu
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Zapnout zvuk panelu
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Povolit synchronizaci pro odeslání panelu
+fxviewtabrow-send-to-mobile-connect-phone2 = Připojit svůj telefon
+fxviewtabrow-send-to-mobile-device-missing2 = Nevidíte své zařízení?
