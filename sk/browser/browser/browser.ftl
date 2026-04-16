@@ -994,6 +994,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, vyberte vyhľadávací modul
 urlbar-searchmode-button-no-engine2 =
     .title = Nie je vybratá žiadna skratka, vyberte skratku
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Vyhľadávanie kľúčových slov je vypnuté
 urlbar-searchmode-dropmarker2 =
     .title = Vyberte vyhľadávací modul
 urlbar-searchmode-bookmarks2 = Záložky
