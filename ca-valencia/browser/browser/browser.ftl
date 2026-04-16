@@ -486,6 +486,9 @@ urlbar-searchmode-tabs =
     .label = Pestanyes
 urlbar-searchmode-history =
     .label = Historial
+urlbar-searchmode-bookmarks2 = Adreces d'interés
+urlbar-searchmode-tabs2 = Pestanyes
+urlbar-searchmode-history2 = Historial
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
