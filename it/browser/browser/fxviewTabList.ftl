@@ -82,3 +82,4 @@ fxviewtabrow-unmute-tab-button-no-context =
 fxviewtabrow-send-to-mobile-enable-sync2 = Attiva la sincronizzazione per inviare una scheda
 fxviewtabrow-send-to-mobile-connect-phone2 = Connetti il tuo telefono
 fxviewtabrow-send-to-mobile-device-missing2 = Non vedi il tuo dispositivo?
+
