@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> gửi lại m
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Máy chủ tại <strong>{ $hostname }</strong> đã trả về lỗi: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } không tải trang này vì có vẻ như cấu hình bảo mật không khớp với trang trước.
+fp-neterror-blocked-by-policy-intro = Tổ chức của bạn đã chặn quyền truy cập vào trang web này.
 fp-neterror-http-auth-disabled-intro = Ai đó giả vờ là trang web có thể cố gắng đánh cắp những thứ như tên người dùng, mật khẩu hoặc email của bạn.
 fp-neterror-http-auth-disabled-secure-connection = Trang web này yêu cầu kết nối bảo mật và bạn không thể thêm ngoại lệ để truy cập.
 fp-neterror-why-did-this-happen = Tại sao điều này xảy ra?

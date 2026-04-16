@@ -146,6 +146,9 @@ newtab-menu-report = Báo cáo
 newtab-menu-section-block = Chặn
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Huỷ theo dõi
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Bỏ theo dõi chủ đề
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -599,6 +602,7 @@ newtab-section-confirm-block-topic-p2 = Chủ đề bị chặn sẽ không còn
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Chặn { $topic }
+newtab-section-block-cancel-button = Hủy bỏ
 
 ## Strings for custom wallpaper highlight
 
@@ -662,6 +666,18 @@ newtab-toast-thanks-for-reporting =
     .message = Cảm ơn bạn đã báo cáo điều này.
 newtab-toast-widgets-hidden =
     .message = Chọn biểu tượng bút chì để thêm lại widget bất cứ lúc nào.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Bạn hiện đang theo dõi { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Bạn không còn theo dõi { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Bạn sẽ không còn thấy các bài viết về { $topic } nữa.
 
 ## Strings for task / to-do list productivity widget
 
@@ -703,6 +719,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Danh sách mới
 newtab-widget-section-title = Widget
 newtab-widget-menu-hide = Ẩn widget
+newtab-widget-menu-change-size = Thay đổi kích thước
+newtab-widget-size-small = Nhỏ
+newtab-widget-size-medium = Trung bình
+newtab-widget-size-large = Lớn
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ẩn widget
