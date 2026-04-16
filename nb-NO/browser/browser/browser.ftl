@@ -987,6 +987,9 @@ urlbar-searchmode-button3 =
     .title = { $engine }, velg en søkemotor
 urlbar-searchmode-button-no-engine2 =
     .title = Ingen snarvei valgt, velg en snarvei
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = Nøkkelordssøk er deaktivert
 urlbar-searchmode-dropmarker2 =
     .title = Velg en søkemotor
 urlbar-searchmode-bookmarks2 = Bokmerker
@@ -995,6 +998,8 @@ urlbar-searchmode-history2 = Historikk
 urlbar-searchmode-actions2 = Handlinger
 urlbar-searchmode-exit-button2 =
     .title = Lukk
+urlbar-searchmode-default2 =
+    .title = Standard søkemotor
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
