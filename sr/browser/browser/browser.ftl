@@ -665,6 +665,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Онемогучите заштиту дељења за ову сесију
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Да бисте користили пречицу F12, из менија „За веб-програмере” отворите алатке за програмере.
@@ -963,14 +966,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Затвори
 urlbar-searchmode-default =
     .tooltiptext = Подразумевани претраживач
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Овај пут претражи користећи:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Претражи помоћу:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
