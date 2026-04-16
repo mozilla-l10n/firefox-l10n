@@ -989,6 +989,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Căutarea de cuvinte-cheie este dezactivată
 urlbar-searchmode-dropmarker2 =
     .title = Alege un motor de căutare
+urlbar-searchmode-bookmarks2 = Marcaje
+urlbar-searchmode-tabs2 = File
+urlbar-searchmode-history2 = Istoric
+urlbar-searchmode-actions2 = Acțiuni
+urlbar-searchmode-exit-button2 =
+    .title = Închide
+urlbar-searchmode-default2 =
+    .title = Motor de căutare implicit
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
