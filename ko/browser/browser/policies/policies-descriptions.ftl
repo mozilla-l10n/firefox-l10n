@@ -37,6 +37,7 @@ policy-Containers = 컨테이너와 관련된 정책을 설정합니다.
 policy-DisableAccounts = 동기화를 포함한 계정 기반 서비스를 사용 안 합니다.
 policy-DisabledCiphers = 암호화를 사용 안 합니다.
 policy-DefaultDownloadDirectory = 기본 다운로드 디렉터리를 설정합니다.
+policy-DefaultSerialGuardSetting = 직렬 API 사용을 제어합니다.
 policy-DisableAppUpdate = 브라우저가 업데이트 되지 않도록 합니다.
 policy-DisableBuiltinPDFViewer = { -brand-short-name }에 내장된 PDF 뷰어인 PDF.js를 사용 안 합니다.
 policy-DisableDefaultBrowserAgent = 기본 브라우저 에이전트가 작업을 수행하지 못하도록 합니다. Windows에만 적용되며 다른 플랫폼에는 에이전트가 없습니다.

@@ -524,6 +524,10 @@ newtab-weather-opt-in-not-now =
     .label = 나중에
 newtab-weather-opt-in-yes =
     .label = 예
+newtab-weather-opt-in-headline = 지역 일기예보 받기
+newtab-weather-opt-in-use-location =
+    .label = 위치 사용
+newtab-weather-opt-in-choose-location = 위치 선택
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 뉴욕
 # "Highest" here refers to the highest temperature of the day
