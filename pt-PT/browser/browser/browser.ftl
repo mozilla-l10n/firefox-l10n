@@ -649,6 +649,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desativar a proteção da partilha para esta sessão
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para utilizar o atalho F12, comece por abrir as ferramentas de desenvolvimento através do menu de Ferramentas do navegador.
@@ -944,14 +947,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = Fechar
 urlbar-searchmode-default =
     .tooltiptext = Motor de pesquisa predefinido
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = Desta vez, pesquisar com:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = Pesquisar com:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
