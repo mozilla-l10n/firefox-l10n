@@ -783,6 +783,11 @@ urlbar-searchmode-new = নতুন
 urlbar-searchmode-button-no-engine =
     .label = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
     .tooltiptext = কোনো শর্টকাট নির্বাচন করা হয়নি, একটি শর্টকাট বাছুন
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = “{ $engineName }” যোগ করুন
+    .title = “{ $engineName }” সার্চ ইঞ্জিন যোগ করুন
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
