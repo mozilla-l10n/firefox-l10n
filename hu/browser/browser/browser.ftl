@@ -983,6 +983,28 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = A kulcsszavas keresés le van tiltva
     .tooltiptext = A kulcsszavas keresés le van tiltva
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, válasszon keresőszolgáltatást
+urlbar-searchmode-button-no-engine2 =
+    .title = Nincs gyorsparancs kiválasztva, válasszon egyet
+urlbar-searchmode-dropmarker2 =
+    .title = Válasszon keresőszolgáltatást
+urlbar-searchmode-bookmarks2 = Könyvjelzők
+urlbar-searchmode-tabs2 = Lapok
+urlbar-searchmode-history2 = Előzmények
+urlbar-searchmode-actions2 = Műveletek
+urlbar-searchmode-exit-button2 =
+    .title = Bezárás
+urlbar-searchmode-default2 =
+    .title = Alapértelmezett keresőszolgáltatás
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = „{ $engineName }” hozzáadása
+    .title = „{ $engineName }” keresőszolgáltatás hozzáadása
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
