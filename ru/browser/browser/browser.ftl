@@ -988,9 +988,26 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = Поиск по ключевым словам отключён
     .tooltiptext = Поиск по ключевым словам отключён
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, выберите поисковую систему
+urlbar-searchmode-button-no-engine2 =
+    .title = Ярлык не выбран, выберите ярлык
 # Refers to the ability to search using keywords in the address bar
 urlbar-searchmode-no-keyword2 =
     .title = Поиск по ключевым словам отключён
+urlbar-searchmode-dropmarker2 =
+    .title = Выберите поисковую систему
+urlbar-searchmode-bookmarks2 = Закладки
+urlbar-searchmode-tabs2 = Вкладки
+urlbar-searchmode-history2 = Журнал
+urlbar-searchmode-actions2 = Действия
+urlbar-searchmode-exit-button2 =
+    .title = Закрыть
+urlbar-searchmode-default2 =
+    .title = Поисковая система по умолчанию
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
