@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = ჩანართის დადუმება
 fxviewtabrow-unmute-tab-button-no-context =
     .title = ჩანართის ახმოვანება
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = ჩართეთ დასინქ. ჩანართის გასაგზავნად
+fxviewtabrow-send-to-mobile-connect-phone2 = დააკავშირეთ თქვენი ტელეფონი
+fxviewtabrow-send-to-mobile-device-missing2 = არ ჩანს თქვენი მოწყობილობა?
