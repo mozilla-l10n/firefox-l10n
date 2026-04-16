@@ -739,6 +739,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = الامتداد:
+urlbar-go-button2 =
+    .title = انتقل للعنوان في شريط الموقع
 urlbar-go-button =
     .tooltiptext = انتقل للعنوان في شريط الموقع
 urlbar-page-action-button =
@@ -1009,6 +1011,11 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = عُطّل البحث بالكلمات المفتاحية
     .tooltiptext = عُطّل البحث بالكلمات المفتاحية
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = أضِف ”{ $engineName }“
+    .title = أضِف محرك البحث ”{ $engineName }“
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
