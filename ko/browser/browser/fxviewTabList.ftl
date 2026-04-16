@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = 탭 음소거
 fxviewtabrow-unmute-tab-button-no-context =
     .title = 탭 음소거 해제
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = 탭을 보내려면 동기화를 활성화하세요
+fxviewtabrow-send-to-mobile-connect-phone2 = 휴대폰 연결
+fxviewtabrow-send-to-mobile-device-missing2 = 사용자의 기기가 없나요?
