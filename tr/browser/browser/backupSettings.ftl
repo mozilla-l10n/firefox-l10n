@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Yedek
 settings-data-backup-header2 =
     .label = Yedekleme
     .description = Yer imlerinizi, geçmişinizi ve diğer verilerinizi otomatik olarak koruyun.
-settings-data-backup-header = Yedekleme
 settings-data-backup-toggle = Yedeklemeyi yönet
 settings-data-backup-toggle-on2 =
     .label = Yedeklemeyi etkinleştir
 settings-data-backup-toggle-off2 =
     .label = Yedeklemeyi kapat
-settings-data-backup-toggle-on = Yedeklemeyi etkinleştir
-settings-data-backup-toggle-off = Yedeklemeyi kapat
 settings-data-backup-trigger-button = Şimdi yedekle
 settings-data-backup-in-progress-button = Yedekleme devam ediyor…
 settings-data-backup-in-progress-message =
     .message = Yedekleme devam ediyor…
-settings-data-backup-scheduled-backups-on = Yedekleme: AÇIK
-settings-data-backup-scheduled-backups-off = Yedekleme: KAPALI
-settings-data-backup-scheduled-backups-description = Yer imlerinizi, geçmişinizi ve diğer verilerinizi otomatik olarak koruyun. <a data-l10n-name="support-link">Daha fazla bilgi alın</a>
 settings-data-backup-last-backup-date = Son yedekleme: { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Yedekleme AÇIK
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Yedekleme konumu
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Konum
 settings-data-backup-last-backup-location-show-in-folder = Klasörde göster
 settings-data-backup-last-backup-location-edit = Düzenle…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") } tarihinde yedeğiniz oluşturulurken bir hata oluştu
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Verilerimi geri yükle
     .description = Başka bir cihazdaki { -brand-product-name } yedeğinizi kullanarak verilerinizi geri getirin.
-settings-data-backup-restore-header = Verilerinizi geri yükleyin
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Başka bir cihazdaki { -brand-product-name } yedeğini kullanarak verilerinizi geri yükleyin.
-settings-data-backup-scheduled-backups-off-restore-choose = Yedek dosyasını seç…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = { -brand-product-name } verilerinizi en son yedeklendiği zamandan geri getirin.
-settings-data-backup-scheduled-backups-on-restore-choose = Geri yükle…
 settings-sensitive-data =
     .label = Hassas veriler
-settings-data-toggle-encryption-label = Hassas verilerimi yedekle
 settings-data-toggle-encryption-support-link = Daha fazla bilgi al
 settings-data-change-password2 =
     .label = Parolayı değiştir
-settings-data-change-password = Parolayı değiştir…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Verilerinizi geri yükleyin
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Neler geri yüklenecek?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Bu işlem, mevcut { -brand-short-name } verilerinizin hepsini { DATETIME($date, timeStyle: "short", dateStyle: "short") } tarihli yedeğinizle değiştirecektir.
-restore-from-backup-support-link =
-    .message = Neler geri yüklenecek?
-restore-from-backup-no-backup-file-link = Yedeğinizi bulamıyor musunuz?
 restore-from-backup-filepicker-label = Yedek dosyası
 restore-from-backup-filepicker-title = Yedek dosyasını seçin:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> { DATETIME($date, year:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } tarihinde { $deviceName } adlı cihazdan geri yüklendi
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } tarihinde { $machineName } adlı cihazda oluşturuldu
 backup-file-restore-file-validation-error = Bu dosya çalışmıyor. Başka bir dosya seçmeyi deneyin. <a data-l10n-name="restore-problems">Hâlâ sorun mu yaşıyorsunuz?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Dosya seçilmedi

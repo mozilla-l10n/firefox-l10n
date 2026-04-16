@@ -1855,12 +1855,6 @@ permissions-block-popups-exceptions-button4 =
     .description = Ավելացրեք կայքեր, որոնք կարող են բացել թռուցիկներ և օգտագործել երրորդ կողմի վերահասցեավորումներ:
     .accesskey = E
     .searchkeywords = թռուցիկներ
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Կառավարել թռուցիկների և երրորդ կողմի վերահասցեավորման բացառությունները
-    .accesskey = E
-    .searchkeywords = թռուցիկներ
 permissions-addon-exceptions2 =
     .label = Ընտրեք, թե որ կայքերը կարող են տեղադրել ընդլայնումներ
     .accesskey = E

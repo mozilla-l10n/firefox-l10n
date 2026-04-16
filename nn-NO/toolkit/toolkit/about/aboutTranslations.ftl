@@ -11,10 +11,6 @@ about-translations-learn-more-link = Les meir
 about-translations-unsupported-info-message-2 =
     .heading = Omsetting er ikkje tilgjengeleg på denne eininga
     .message = Prøv å byte til ei anna eining.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Omsetting er ikkje tilgjengeleg på denne eininga.
-    .message = Prøv å byte til ei anna eining.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Omsettingar er ikkje tilgjengelege for organisasjonen din
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Opphev blokkeringa
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Klarte ikkje å laste inn språk
-    .message = Kontroller internettsambandet ditt og prøv igjen
-about-translations-unsupported-info-button = Les meir
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Klarte ikkje å laste inn språk.
     .message = Kontroller internettsambandet ditt og prøv igjen
 about-translations-language-load-error-button = Prøv igjen
 # An error message displayed when a translation request fails.

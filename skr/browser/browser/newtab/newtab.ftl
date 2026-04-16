@@ -335,6 +335,7 @@ newtab-wallpaper-dark-city = ڄَمُّوں رنگ دے شہر د امنظر
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = ٹھوس رنگ
 newtab-wallpaper-blue = نیلا
 newtab-wallpaper-light-blue = پھکا نیلا

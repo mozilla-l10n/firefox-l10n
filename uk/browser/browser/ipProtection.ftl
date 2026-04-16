@@ -47,11 +47,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Використовувати VPN для цього сайту
     .aria-label = VPN вимкнено для цього сайту
-site-exclusion-toggle-label = Використовувати VPN для цього сайту
-site-exclusion-toggle-enabled =
-    .aria-label = VPN увімкнено для цього сайту
-site-exclusion-toggle-disabled =
-    .aria-label = VPN вимкнено для цього сайту
 ipprotection-settings-link =
     .label = Налаштування
 
@@ -118,8 +113,6 @@ ip-protection-description =
     .label = VPN
     .description = Вбудована VPN для вдосконаленої приватності під час користування { -brand-short-name }.
 ip-protection-learn-more = Докладніше
-ip-protection-site-exceptions =
-    .label = Налаштування певних сайтів
 ip-protection-not-opted-in-button = Розпочати
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -149,7 +142,6 @@ ip-protection-exclusions-desc = Використовуйте VPN для всіх
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Щомісячні дані VPN
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

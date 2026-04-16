@@ -1961,12 +1961,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokiraj pojavna okna in preusmeritve tretjih strani
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Upravljanje izjem za pojavna okna in preusmeritve tretjih strani
-    .accesskey = U
-    .searchkeywords = popup
 permissions-addon-exceptions2 =
     .label = Izberite, katera spletna mesta smejo nameščati razširitve
     .accesskey = e

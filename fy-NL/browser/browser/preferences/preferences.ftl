@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Warskôging toane as websites probearje útwreidingen te ynstallearjen
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Utsûnderingen foar pop-ups en omliedingen fan tredden beheare
-    .accesskey = o
-    .searchkeywords = pop-ups
 permissions-addon-exceptions2 =
     .label = Kies hokker websiden útwreidingen ynstallearje meie
     .accesskey = K

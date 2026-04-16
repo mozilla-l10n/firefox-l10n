@@ -648,9 +648,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Bu oturumda paylaşım korumasını devre dışı bırak
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 kısayolunu kullanmak için önce tarayıcı araçları menüsünden geliştirici araçlarını açın.

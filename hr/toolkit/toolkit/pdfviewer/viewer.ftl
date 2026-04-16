@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = Odaberi stranicu { $page }
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = Odaberi stranicu { $page }
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = Stranica { $page } od { $total }
@@ -658,10 +654,7 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = Uključi/Isključi bočnu traku
 pdfjs-toggle-views-manager-button1-label = Upravljaj stranicama
-pdfjs-toggle-views-manager-button-label = Uključi/Isključi bočnu traku
 pdfjs-views-manager-sidebar =
     .aria-label = Bočna traka
 pdfjs-views-manager-view-selector-button =
@@ -670,11 +663,9 @@ pdfjs-views-manager-view-selector-button-label = Prikazi
 pdfjs-views-manager-pages-title = Stranice
 pdfjs-views-manager-outlines-title1 = Struktura dokumenta
     .title = Struktura dokumenta (sažmi/proširi sve stavke dvostrukim klikom)
-pdfjs-views-manager-outlines-title = Struktura dokumenta
 pdfjs-views-manager-attachments-title = Privici
 pdfjs-views-manager-layers-title1 = Slojevi
     .title = Slojevi (ponovo postavi sve slojeve na zadano stanje dvostrukim klikom)
-pdfjs-views-manager-layers-title = Slojevi
 pdfjs-views-manager-pages-option-label = Stranice
 pdfjs-views-manager-outlines-option-label = Struktura dokumenta
 pdfjs-views-manager-attachments-option-label = Privici
@@ -695,7 +686,6 @@ pdfjs-views-manager-pages-status-action-button-label = Upravljaj
 pdfjs-views-manager-pages-status-copy-button-label = Kopiraj
 pdfjs-views-manager-pages-status-cut-button-label = Izreži
 pdfjs-views-manager-pages-status-delete-button-label = Izbriši
-pdfjs-views-manager-pages-status-save-as-button-label = Spremi kao …
 pdfjs-views-manager-status-undo-button-label = Poništi
 pdfjs-views-manager-status-done-button-label = Gotovo
 pdfjs-views-manager-status-close-button =

@@ -10,10 +10,6 @@ about-translations-description = Traduções instantâneas que respeitam a sua p
 about-translations-unsupported-info-message-2 =
     .heading = A tradução não está disponível neste dispositivo
     .message = Tente mudar para um dispositivo diferente.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = A tradução não está disponível neste dispositivo.
-    .message = Tente mudar para um dispositivo diferente.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = As traduções não estão disponíveis para a sua organização
@@ -26,11 +22,6 @@ about-translations-feature-blocked-unblock-button = Desbloquear
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Não foi possível carregar os idiomas
-    .message = Verifique a sua ligação à Internet e tente novamente.
-about-translations-unsupported-info-button = Saber mais
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Não foi possível carregar os idiomas.
     .message = Verifique a sua ligação à Internet e tente novamente.
 about-translations-language-load-error-button = Tentar novamente
 # An error message displayed when a translation request fails.

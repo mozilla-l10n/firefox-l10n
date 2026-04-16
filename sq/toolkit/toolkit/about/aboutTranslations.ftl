@@ -11,10 +11,6 @@ about-translations-learn-more-link = Mësoni më tepër
 about-translations-unsupported-info-message-2 =
     .heading = Përkthimi s’është i mundshëm në këtë pajisje
     .message = Provoni të kaloni në një pajisje tjetër.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Përkthimi s’është i mundshëm në këtë pajisje.
-    .message = Provoni të kaloni në një pajisje tjetër.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Përkthimet s’janë të përdorshme për entin tuaj
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Zhbllokoje
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = S’u ngarkuan dot gjuhë
-    .message = Kontrolloni lidhjen tuaj internet dhe riprovoni.
-about-translations-unsupported-info-button = Mësoni më tepër
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = S’u ngarkuan dot gjuhë.
     .message = Kontrolloni lidhjen tuaj internet dhe riprovoni.
 about-translations-language-load-error-button = Riprovoni
 # An error message displayed when a translation request fails.

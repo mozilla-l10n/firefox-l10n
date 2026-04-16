@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name } biztonsági mentés
 settings-data-backup-header2 =
     .label = Biztonsági mentés
     .description = Automatikusan védje meg a könyvjelzőit, előzményeit és egyéb adatait.
-settings-data-backup-header = Biztonsági mentés
 settings-data-backup-toggle = Biztonsági mentés kezelése
 settings-data-backup-toggle-on2 =
     .label = Biztonsági mentés bekapcsolása
 settings-data-backup-toggle-off2 =
     .label = Biztonsági mentés kikapcsolása
-settings-data-backup-toggle-on = Biztonsági mentés bekapcsolása
-settings-data-backup-toggle-off = Biztonsági mentés kikapcsolása
 settings-data-backup-trigger-button = Biztonsági mentés most
 settings-data-backup-in-progress-button = Biztonsági mentés folyamatban…
 settings-data-backup-in-progress-message =
     .message = Biztonsági mentés folyamatban…
-settings-data-backup-scheduled-backups-on = Biztonsági mentés: BE
-settings-data-backup-scheduled-backups-off = Biztonsági mentés: KI
-settings-data-backup-scheduled-backups-description = Automatikusan védje könyvjelzőit, előzményeit és egyéb adatait. <a data-l10n-name="support-link">További tudnivalók</a>
 settings-data-backup-last-backup-date = Legutóbbi biztonsági mentés: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Biztonsági mentés: BE
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Biztonsági mentés helye
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Hely
 settings-data-backup-last-backup-location-show-in-folder = Megjelenítés mappában
 settings-data-backup-last-backup-location-edit = Szerkesztés…
 settings-data-create-backup-error = Hiba történt biztonsági mentés létrehozása során, ekkor: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Adatok helyreállítása
     .description = Használja egy másik eszközön lévő { -brand-product-name } biztonsági mentését, hogy helyreállítsa az adatait.
-settings-data-backup-restore-header = Adatok helyreállítása
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Használjon egy másik eszközről készült { -brand-product-name } biztonsági mentést az adatok helyreállításához.
-settings-data-backup-scheduled-backups-off-restore-choose = Biztonsági mentési fájl kiválasztása…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Állítsa helyre az adatait a { -brand-product-name } a legutóbbi biztonsági mentéséből.
-settings-data-backup-scheduled-backups-on-restore-choose = Helyreállítás…
 settings-sensitive-data =
     .label = Érzékeny adatok
-settings-data-toggle-encryption-label = Készítsen biztonsági mentést a bizalmas adatairól
 settings-data-toggle-encryption-support-link = További tudnivalók
 settings-data-change-password2 =
     .label = Jelszó megváltoztatása
-settings-data-change-password = Jelszó megváltoztatása…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Adatok helyreállítása
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Mi lesz helyreállítva?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Ez lecseréli az összes jelenlegi { -brand-short-name }-adatát az ekkori biztonsági mentéséből: { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Mi lesz helyreállítva?
-restore-from-backup-no-backup-file-link = Problémái vannak a biztonsági mentés megtalálásával?
 restore-from-backup-filepicker-label = Biztonsági mentési fájl
 restore-from-backup-filepicker-title = Biztonsági mentési fájl kiválasztása…
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> létrehozva: { DATETIME
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Helyreállítva erről: { $deviceName }, ekkor: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Létrehozva: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a következőn: { $machineName }
 backup-file-restore-file-validation-error = Ez a fájl nem működik. Próbáljon meg egy másik fájlt kiválasztani. <a data-l10n-name="restore-problems">Továbbra is fennáll a problémája?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nincs kijelölve fájl

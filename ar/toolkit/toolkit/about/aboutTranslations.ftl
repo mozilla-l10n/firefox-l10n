@@ -11,10 +11,6 @@ about-translations-learn-more-link = اطّلع على المزيد
 about-translations-unsupported-info-message-2 =
     .heading = الترجمة غير متوفرة على هذا الجهاز
     .message = جرّب التبديل إلى جهاز آخر.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = خدمة الترجمة غير متوفرة على هذا الجهاز.
-    .message = جرّب التبديل إلى جهاز آخر.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = لا تتوفر خدمات الترجمة لمنظمتك
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = ألغِ الحظر
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = تعذّر تحميل اللغات
-    .message = تحقق من اتصالك بالإنترنت وحاول مجددًا.
-about-translations-unsupported-info-button = اطّلع على المزيد
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = تعذّر تحميل اللغات.
     .message = تحقق من اتصالك بالإنترنت وحاول مجددًا.
 about-translations-language-load-error-button = حاول مجددًا
 # An error message displayed when a translation request fails.

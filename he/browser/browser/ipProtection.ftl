@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = שימוש ב־VPN עבור אתר זה
     .aria-label = ה־VPN כבוי עבור אתר זה
-site-exclusion-toggle-label = שימוש ב־VPN עבור אתר זה
-site-exclusion-toggle-enabled =
-    .aria-label = ה־VPN פעיל עבור אתר זה
-site-exclusion-toggle-disabled =
-    .aria-label = ה־VPN כבוי עבור אתר זה
 ipprotection-settings-link =
     .label = הגדרות
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = ‏VPN מובנה כדי לשפר את הפרטיות שלך בזמן הגלישה ב־{ -brand-short-name }.
 ip-protection-learn-more = מידע נוסף
-ip-protection-site-exceptions =
-    .label = הגדרות אתרים ספציפיים
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = יש להשתמש ב־VPN עבור כל האתר
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = נתוני VPN חודשיים
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

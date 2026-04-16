@@ -639,9 +639,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Izslēgt koplietošanas aizsardzību šai sesijai
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Lai izmantotu īsinājumtaustiņu F12, izvēlnē Pārlūka Rīki atveriet sadaļu Izstrādātāju Rīki.
@@ -1540,9 +1537,6 @@ trustpanel-blocker-see-all = Redzēt visu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Aizsardzība pret izsekošanu { $host }
-
-## The urlbar trust icon & panel
-
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

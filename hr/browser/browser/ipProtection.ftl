@@ -47,11 +47,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Koristi VPN za ovu web-stranicu
     .aria-label = VPN je isključen za ovu web-stranicu
-site-exclusion-toggle-label = Koristi VPN za ovu web-stranicu
-site-exclusion-toggle-enabled =
-    .aria-label = VPN je uključen za ovu web-stranicu
-site-exclusion-toggle-disabled =
-    .aria-label = VPN je isključen za ovu web-stranicu
 ipprotection-settings-link =
     .label = Postavke
 
@@ -87,8 +82,6 @@ ip-protection-description =
     .label = VPN
     .description = Ugrađeni VPN za poboljšanu privatnost tijekom pregledavanja u { -brand-short-name(case: "loc") }
 ip-protection-learn-more = Saznaj više
-ip-protection-site-exceptions =
-    .label = Postavke web-stranice
 ip-protection-not-opted-in-button = Započni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -118,7 +111,6 @@ ip-protection-exclusions-desc = Koristi VPN za sve web-stranice osim onih na ovo
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Mjesečni VPN podaci
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

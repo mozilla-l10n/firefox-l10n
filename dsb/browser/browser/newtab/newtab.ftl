@@ -384,6 +384,7 @@ newtab-custom-settings = Dalšne nastajenja zastojaś
 
 newtab-wallpaper-title = Slězynowe wobraze
 newtab-wallpaper-reset = Na standard slědk stajiś
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Wobraz nagraś
 newtab-wallpaper-custom-color = Barwu wubraś
 newtab-wallpaper-toggle-title =
@@ -410,6 +411,7 @@ newtab-wallpaper-light-fox-anniversary = Liška w tšawowem pólu z kurjawkateju
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jadnotne barwy
 newtab-wallpaper-blue = Módry
 newtab-wallpaper-light-blue = Swětłomódry
@@ -516,7 +518,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenheit wužywaś
 newtab-weather-menu-change-temperature-units-celsius = Celsius wužywaś
-newtab-weather-menu-hide-weather-v2 = Wjedro schowaś
 newtab-weather-menu-hide-weather = Wjedro na nowem rejtariku schowaś
 newtab-weather-menu-learn-more = Dalšne informacije
 newtab-weather-menu-detect-my-location = Mójo stojnišćo namakaś
@@ -703,7 +704,6 @@ newtab-widget-lists-menu-edit = Mě lisćiny wobźěłaś
 newtab-widget-lists-menu-create = Nowu lisćinu napóraś
 newtab-widget-lists-menu-delete = Toś tu lisćinu lašowaś
 newtab-widget-lists-menu-copy = Lisćinu do mjazywótkłada kopěrowaś
-newtab-widget-lists-menu-hide = Wšykne lisćiny schowaś
 newtab-widget-lists-menu-learn-more = Dalšne informacije
 newtab-widget-lists-input-add-an-item =
     .placeholder = Zapisk pśidaś
@@ -760,7 +760,6 @@ newtab-widget-timer-reset =
     .title = Slědk stajiś
 newtab-widget-timer-menu-notifications = Zdźělenja znjemóžniś
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžniś
-newtab-widget-timer-menu-hide = Měritko casa schowaś
 newtab-widget-timer-menu-learn-more = Dalšne informacije
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Wažne głowne nadpisma

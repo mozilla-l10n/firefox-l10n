@@ -1876,12 +1876,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloche barcons a comparse e indreçaments di tiercis bandis
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Gjestìs ecezions par barcons a comparse e indreçaments di tierçs
-    .accesskey = e
-    .searchkeywords = barcons a comparse
 permissions-addon-exceptions2 =
     .label = Sielç i sîts web che a puedin instalâ estensions
     .accesskey = e

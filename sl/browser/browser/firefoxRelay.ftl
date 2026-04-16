@@ -20,12 +20,10 @@ firefox-relay-get-unlimited-masks =
     .accesskey = U
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Zaščitite svoj e-poštni naslov:
-firefox-relay-opt-in-title-2 = Pridobite brezplačno e-poštno masko
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = uporabite e-poštno masko { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Uporabite e-poštno masko
-firefox-relay-opt-in-subtitle-2 = Zaščitite svoj nabiralnik pred neželeno pošto
 firefox-relay-use-mask-title = Uporabi e-poštno masko { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Zaščitite se pred neželeno pošto z brezplačno e-poštno masko

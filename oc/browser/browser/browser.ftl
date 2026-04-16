@@ -556,9 +556,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar lo partiment per aquesta session
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilizar l’acorchi F12, dobrissètz d’en primièr lo panèl d’aisinas de desvolopament via lo menú Aisinas del navegador.
@@ -690,9 +687,6 @@ urlbar-result-action-calculator-result = = { $result }
 
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Pas ara
-
-## These strings are used for suggestions of important dates in the urlbar.
-
 
 ## Strings used for buttons in the urlbar
 
@@ -1066,17 +1060,11 @@ tabs-toolbar-list-all-tabs =
     .label = Far la lista de totes los onglets
     .tooltiptext = Far la lista de totes los onglets
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Tornar dobrir los onglets precedents ?</strong> Podètz restablir vòstra session precedenta del menú d’aplicacion de { -brand-short-name } <img data-l10n-name="icon"/> estant jos Istoric.
 restore-session-startup-suggestion-button = Cossí far
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1210,16 +1198,3 @@ popup-show-popup-menuitem =
 file-picker-crashed-show-in-folder =
     .label = Mostrar dins lo dossièr
     .accessKey = M
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

@@ -379,6 +379,7 @@ newtab-custom-settings = Handsam fleire innstillingar
 
 newtab-wallpaper-title = Bakgrunnsbilde
 newtab-wallpaper-reset = Still tilbake til standard
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Last opp eit bilde
 newtab-wallpaper-custom-color = Vel ein farge
 newtab-wallpaper-toggle-title =
@@ -405,6 +406,7 @@ newtab-wallpaper-light-fox-anniversary = Ein rev i ei graskledd mark med eit tå
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Einsfarga
 newtab-wallpaper-blue = Blå
 newtab-wallpaper-light-blue = Lyseblå
@@ -511,7 +513,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Byt til Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Byt til Celsius
-newtab-weather-menu-hide-weather-v2 = Skjul vêr
 newtab-weather-menu-hide-weather = Skjul vêret på ny fane
 newtab-weather-menu-learn-more = Les meir
 newtab-weather-menu-detect-my-location = Oppdag posisjonen min
@@ -698,7 +699,6 @@ newtab-widget-lists-menu-edit = Rediger listenamn
 newtab-widget-lists-menu-create = Opprett ei ny liste
 newtab-widget-lists-menu-delete = Slett denne lista
 newtab-widget-lists-menu-copy = Kopier liste til utklippstavla
-newtab-widget-lists-menu-hide = Skjul alle lister
 newtab-widget-lists-menu-learn-more = Les meir
 newtab-widget-lists-input-add-an-item =
     .placeholder = Legg til eit element
@@ -755,7 +755,6 @@ newtab-widget-timer-reset =
     .title = Tilbakestill
 newtab-widget-timer-menu-notifications = Slå av varsel
 newtab-widget-timer-menu-notifications-on = Slå på varsel
-newtab-widget-timer-menu-hide = Skjul nedteljar
 newtab-widget-timer-menu-learn-more = Les meir
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Toppoverskrifter

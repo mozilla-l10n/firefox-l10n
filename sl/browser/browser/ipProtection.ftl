@@ -43,11 +43,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Uporabi VPN na tem spletnem mestu
     .aria-label = VPN je na tem spletnem mestu izklopljen
-site-exclusion-toggle-label = Uporabi VPN na tem spletnem mestu
-site-exclusion-toggle-enabled =
-    .aria-label = VPN je na tem spletnem mestu vklopljen
-site-exclusion-toggle-disabled =
-    .aria-label = VPN je na tem spletnem mestu izklopljen
 ipprotection-settings-link =
     .label = Nastavitve
 
@@ -88,8 +83,6 @@ ip-protection-description =
     .label = VPN
     .description = Vgrajen VPN za večjo zasebnost pri brskanju s { -brand-short-name(sklon: "orodnik") }
 ip-protection-learn-more = Več o tem
-ip-protection-site-exceptions =
-    .label = Nastavitve za posamezna spletna mesta
 ip-protection-not-opted-in-button = Začni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

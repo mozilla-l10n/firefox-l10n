@@ -11,10 +11,6 @@ about-translations-learn-more-link = Tìm hiểu thêm
 about-translations-unsupported-info-message-2 =
     .heading = Tính năng dịch thuật không khả dụng trên thiết bị này
     .message = Hãy thử chuyển sang thiết bị khác.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Tính năng dịch thuật không khả dụng trên thiết bị này.
-    .message = Hãy thử chuyển sang thiết bị khác.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Bản dịch không có sẵn cho tổ chức của bạn
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Bỏ chặn
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Không thể tải ngôn ngữ
-    .message = Hãy kiểm tra kết nối internet của bạn và thử lại.
-about-translations-unsupported-info-button = Tìm hiểu thêm
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Không thể tải ngôn ngữ.
     .message = Hãy kiểm tra kết nối internet của bạn và thử lại.
 about-translations-language-load-error-button = Thử lại
 # An error message displayed when a translation request fails.

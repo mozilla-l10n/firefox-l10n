@@ -2016,12 +2016,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Shfaq sinjalizim, kur sajte rreken të instalojnë zgjerime
     .accesskey = i
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Administroni përjashtime për flluska dhe ridrejtime nga palë të treta
-    .accesskey = A
-    .searchkeywords = flluska
 permissions-addon-exceptions2 =
     .label = Zgjidhni cilët sajte mund të instalojnë zgjerime
     .accesskey = Z

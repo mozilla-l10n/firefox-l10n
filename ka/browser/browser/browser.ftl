@@ -646,9 +646,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ამ სეანსზე გაზიარების დაცვის გამორთვა
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 მალსახმობის გამოსაყენებლად ჯერ გახსენით DevTools ბრაუზერის ხელსაწყობის მენიუდან.

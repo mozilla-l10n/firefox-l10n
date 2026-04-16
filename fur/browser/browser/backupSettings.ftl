@@ -19,24 +19,16 @@ backup-folder-name = Ripristine { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backup{ -brand-product-name }
-settings-data-backup-header = Backup
 settings-data-backup-toggle = Gjestìs backup
 settings-data-backup-toggle-on2 =
     .label = Ative backup
 settings-data-backup-toggle-off2 =
     .label = Disative backup
-settings-data-backup-toggle-on = Ative backup
-settings-data-backup-toggle-off = Disative backup
 settings-data-backup-trigger-button = Fâs backup cumò
 settings-data-backup-in-progress-button = Backup in cors…
 settings-data-backup-in-progress-message =
     .message = Backup in cors…
-settings-data-backup-scheduled-backups-on = Backup: ATÎF
-settings-data-backup-scheduled-backups-off = Backup: DISATIVÂT
-settings-data-backup-scheduled-backups-description = Protêç in automatic segnelibris, cronologjie e altris dâts. <a data-l10n-name="support-link">Plui informazions</a>
 settings-data-backup-last-backup-date = Ultin backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Posizion
 settings-data-backup-last-backup-location-show-in-folder = Mostre te cartele
 settings-data-backup-last-backup-location-edit = Modifiche…
 settings-data-create-backup-error = Al è vignût fûr un erôr dilunc la creazion dal backup des { DATETIME($date, timeStyle: "short") } dal/dai { DATETIME($date, dateStyle: "short") }
@@ -44,20 +36,10 @@ settings-sensitive-data-encryption-description = Salve passwords e metodis di pa
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Non file: { $fileName }
-settings-data-backup-restore-header = Ripristine i tiei dâts
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Dopre un backup di { -brand-product-name } che al rive di un altri dispositîf par ripristinâ i dâts.
-settings-data-backup-scheduled-backups-off-restore-choose = Sielç file di backup…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recupere i dâts di { -brand-product-name } dal ultin backup fat.
-settings-data-backup-scheduled-backups-on-restore-choose = Ripristine…
-settings-data-toggle-encryption-label = Salve i tiei dâts sensibii
 settings-data-toggle-encryption-support-link = Plui informazions
-settings-data-change-password = Cambie password…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -97,13 +79,6 @@ turn-off-scheduled-backups-confirm-button = Disative e elimine i backups
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Ripristine i tiei dâts
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Chest al sostituirà ducj i dâts corints di { -brand-short-name } cul backup dal/dai { DATETIME($date, timeStyle: "short", dateStyle: "short") }
-restore-from-backup-support-link =
-    .message = Ce vignaraial ripristinât?
-restore-from-backup-no-backup-file-link = No rivistu a cjatâ il to backup?
 restore-from-backup-filepicker-label = File di backup
 restore-from-backup-filepicker-title = Sielç il file di backup:
 restore-from-backup-file-choose-button =
@@ -241,10 +216,6 @@ other-backup-files-founds =
         [one] <b>Note:</b> al è stât cjatât { $numberOfOtherBackupsFound } altri file di backup
        *[other] <b>Note:</b> a son stâts cjatâts altris { $numberOfOtherBackupsFound } files di backup
     }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Creât ai { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
 backup-file-restore-file-validation-error = Chest file nol funzione. Prove a sielzi un altri file. <a data-l10n-name="restore-problems">Âstu ancjemò problemis?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nissun file selezionât

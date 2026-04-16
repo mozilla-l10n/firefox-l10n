@@ -124,9 +124,6 @@ clear-search-history =
     .label = Исчисти ја историјата од пребарувањата
     .accesskey = И
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -184,11 +181,6 @@ search-one-offs-tabs =
     .tooltiptext = Јазичиња ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Историја ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
 
 ## Bookmark Panel
 
@@ -359,12 +351,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Оневозможи заштита за споделување за оваа сесија
 
-## WebSerial "select a port" popup
-
-
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -472,13 +458,6 @@ urlbar-result-action-copy-to-clipboard = Копирај
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -516,14 +495,6 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Предлози за { $engine }
-
-## Reader View toolbar buttons
-
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -752,17 +723,11 @@ tabs-toolbar-list-all-tabs =
     .label = Прикажи ги сите јазичиња
     .tooltiptext = Прикажи ги сите јазичиња
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Отворете ги претходните јазичиња?</strong> Можете да ја вратите претходната сесија од менито на апликацијата { -brand-short-name } <img data-l10n-name="icon"/>, под Историја.
 restore-session-startup-suggestion-button = Покажи ми како.
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -771,24 +736,6 @@ data-reporting-notification-button =
     .label = Што споделувам?
     .accesskey = с
 
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } спречи оваа страница автоматски да се превчита.
@@ -796,9 +743,6 @@ refresh-blocked-redirect-label = { -brand-short-name } спречи оваа с�
 refresh-blocked-allow =
     .label = Дозволи
     .accesskey = Д
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -829,26 +773,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Покажи го „{ $popupURI }“
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

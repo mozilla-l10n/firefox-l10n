@@ -272,12 +272,3 @@ pdfjs-editor-alt-text-cancel-button = Cancel·la
 ## Dialog buttons
 
 pdfjs-editor-add-signature-cancel-button = Cancel·la
-
-## The view manager is a sidebar displaying different views:
-##  - thumbnails;
-##  - outline;
-##  - attachments;
-##  - layers.
-## The thumbnails view is used to edit the pdf: remove/insert pages, ...
-
-pdfjs-views-manager-pages-status-save-as-button-label = Anomena i desa…

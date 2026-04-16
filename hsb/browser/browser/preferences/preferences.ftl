@@ -2036,12 +2036,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Warnowanje pokazać, hdyž websydła pospytuja rozšěrjenja instalować
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Wuskakowace wokna a wuwzaća dalesposrědkowanjow třećich poskićowarjow rjadować
-    .accesskey = u
-    .searchkeywords = wuskakowace wokna
 permissions-addon-exceptions2 =
     .label = Wubjerće, kotre websydła móža rozšěrjenja instalować
     .accesskey = k

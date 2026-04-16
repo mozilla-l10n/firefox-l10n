@@ -1530,12 +1530,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Loka á sprettglugga og endurbeiningar frá utanaðkomandi aðilum
     .accesskey = b
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Sýsla með stillingar sprettglugga og undanþágur vegna utanaðkomandi endurbeininga
-    .accesskey = e
-    .searchkeywords = sprettgluggar
 permissions-block-popups =
     .label = Loka á sprettiglugga
     .accesskey = g

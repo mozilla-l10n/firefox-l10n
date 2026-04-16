@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = VPN használata ezen a webhelyen
     .aria-label = A VPN ki van kapcsolva ezen a webhelyen
-site-exclusion-toggle-label = VPN használata ezen a webhelyen
-site-exclusion-toggle-enabled =
-    .aria-label = A VPN be van kapcsolva ezen a webhelyen
-site-exclusion-toggle-disabled =
-    .aria-label = A VPN ki van kapcsolva ezen a webhelyen
 ipprotection-settings-link =
     .label = Beállítások
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Beépített VPN a nagyobb adatvédelem érdekében, amikor a { -brand-short-name } használatával böngészik.
 ip-protection-learn-more = További tudnivalók
-ip-protection-site-exceptions =
-    .label = Webhelyfüggő beállítások
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = VPN használata az összes webhelyhez, kivéve a
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Havi VPN adatkeret
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

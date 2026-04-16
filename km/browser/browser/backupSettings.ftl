@@ -5,38 +5,24 @@
 settings-data-backup-header2 =
     .label = បម្រុងទុក
     .description = ការពារចំណាំ ប្រវត្តិ និងទិន្នន័យផ្សេងទៀតរបស់អ្នកដោយស្វ័យប្រវត្តិ។
-settings-data-backup-header = បម្រុងទុក
 settings-data-backup-toggle = គ្រប់គ្រងការបម្រុងទុក
 settings-data-backup-toggle-on2 =
     .label = បើកការបម្រុងទុក
 settings-data-backup-toggle-off2 =
     .label = បិទការបម្រុងទុក
-settings-data-backup-toggle-on = បើកការបម្រុងទុក
-settings-data-backup-toggle-off = បិទការបម្រុងទុក
 settings-data-backup-trigger-button = បម្រុងទុកឥឡូវនេះ
 settings-data-backup-in-progress-button = ការបម្រុងទុកកំពុងដំណើរការ…
 settings-data-backup-in-progress-message =
     .message = ការបម្រុងទុកកំពុងដំណើរការ…
-settings-data-backup-scheduled-backups-on = ការបម្រុងទុក៖ បើក
-settings-data-backup-scheduled-backups-off = ការបម្រុងទុក៖ បិទ
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = ទីតាំង
 settings-data-backup-last-backup-location-show-in-folder = បង្ហាញក្នុងថតឯកសារ
 settings-data-backup-last-backup-location-edit = កែសម្រួល…
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ឈ្មោះឯកសារ៖ { $fileName }
-settings-data-backup-restore-header = ស្ដារទិន្នន័យរបស់អ្នកឡើងវិញ
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-choose = ជ្រើសរើសឯកសារបម្រុងទុក...
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-choose = ស្ដារ…
 settings-data-toggle-encryption-support-link = ស្វែងយល់​បន្ថែម
-settings-data-change-password = ប្តូរពាក្យសម្ងាត់…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -59,8 +45,6 @@ turn-off-scheduled-backups-confirm-button = បិទ និងលុបកា�
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = ស្ដារទិន្នន័យរបស់អ្នកឡើងវិញ
-restore-from-backup-support-link =
-    .message = តើ​អ្វី​នឹង​ត្រូវ​បាន​ស្ដារ​ឡើង​វិញ?
 restore-from-backup-filepicker-label = ឯកសារបម្រុងទុក
 restore-from-backup-filepicker-title = ជ្រើសរើសឯកសារបម្រុងទុក៖
 restore-from-backup-password-label = ពាក្យ​សម្ងាត់

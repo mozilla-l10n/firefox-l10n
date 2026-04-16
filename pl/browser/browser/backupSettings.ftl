@@ -22,21 +22,15 @@ backup-file-name = Kopia zapasowa { -brand-product-name(case: "gen") }
 settings-data-backup-header2 =
     .label = Kopia zapasowa
     .description = Automatycznie chroń zakładki, historię i pozostałe dane.
-settings-data-backup-header = Kopia zapasowa
 settings-data-backup-toggle = Zarządzaj kopią zapasową
 settings-data-backup-toggle-on2 =
     .label = Włącz kopię zapasową
 settings-data-backup-toggle-off2 =
     .label = Wyłącz kopię zapasową
-settings-data-backup-toggle-on = Włącz kopię zapasową
-settings-data-backup-toggle-off = Wyłącz kopię zapasową
 settings-data-backup-trigger-button = Utwórz kopię zapasową
 settings-data-backup-in-progress-button = Trwa tworzenie kopii zapasowej…
 settings-data-backup-in-progress-message =
     .message = Trwa tworzenie kopii zapasowej…
-settings-data-backup-scheduled-backups-on = Kopia zapasowa: włączona
-settings-data-backup-scheduled-backups-off = Kopia zapasowa: wyłączona
-settings-data-backup-scheduled-backups-description = Automatycznie chroń zakładki, historię i pozostałe dane. <a data-l10n-name="support-link">Więcej informacji</a>
 settings-data-backup-last-backup-date = Ostatnia kopia zapasowa: { DATETIME($date, dateStyle: "short") } o { DATETIME($date, timeStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Kopia zapasowa jest włączona
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Położenie kopii zapasowych
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Położenie
 settings-data-backup-last-backup-location-show-in-folder = Pokaż w folderze
 settings-data-backup-last-backup-location-edit = Edytuj…
 settings-data-create-backup-error = Wystąpił błąd podczas tworzenia kopii zapasowej w dniu { DATETIME($date, dateStyle: "short") } o { DATETIME($date, timeStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Przywróć dane
     .description = Użyj kopii zapasowej { -brand-product-name(case: "gen") } z innego urządzenia, aby przywrócić swoje dane.
-settings-data-backup-restore-header = Przywróć dane
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Użyj kopii zapasowej { -brand-product-name(case: "gen") } z innego urządzenia, aby przywrócić swoje dane.
-settings-data-backup-scheduled-backups-off-restore-choose = Wybierz plik kopii zapasowej…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Odzyskaj dane { -brand-product-name(case: "gen") } z ostatniej kopii zapasowej.
-settings-data-backup-scheduled-backups-on-restore-choose = Przywróć…
 settings-sensitive-data =
     .label = Prywatne dane
-settings-data-toggle-encryption-label = Utwórz kopię zapasową prywatnych danych
 settings-data-toggle-encryption-support-link = Więcej informacji
 settings-data-change-password2 =
     .label = Zmień hasło
-settings-data-change-password = Zmień hasło…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Przywróć dane
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Co zostanie przywrócone?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Spowoduje to zastąpienie wszystkich obecnych danych { -brand-short-name(case: "gen") } kopią zapasową z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Co zostanie przywrócone?
-restore-from-backup-no-backup-file-link = Masz problem ze znalezieniem kopii zapasowej?
 restore-from-backup-filepicker-label = Plik kopii zapasowej
 restore-from-backup-filepicker-title = Wybierz plik kopii zapasowej:
 restore-from-backup-file-choose-button =
@@ -284,10 +259,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b>, utworzona w dniu { DA
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Przywrócona z urządzenia { $deviceName } w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } o { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Utworzona w dniu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na urządzeniu { $machineName }
 backup-file-restore-file-validation-error = Ten plik nie działa. Spróbuj wybrać inny. <a data-l10n-name="restore-problems">Nadal masz problemy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nie wybrano pliku

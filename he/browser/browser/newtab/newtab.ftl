@@ -374,6 +374,7 @@ newtab-custom-settings = ניהול הגדרות נוספות
 
 newtab-wallpaper-title = תמונות רקע
 newtab-wallpaper-reset = איפוס לברירת מחדל
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = העלאת תמונה
 newtab-wallpaper-custom-color = בחירת צבע
 newtab-wallpaper-toggle-title =
@@ -400,6 +401,7 @@ newtab-wallpaper-light-fox-anniversary = שועל בשדה עשב עם נוף ה
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = צבעים אחידים
 newtab-wallpaper-blue = כחול
 newtab-wallpaper-light-blue = כחול בהיר
@@ -506,7 +508,6 @@ newtab-weather-menu-temperature-option-fahrenheit = פרנהייט
 newtab-weather-menu-temperature-option-celsius = צלזיוס
 newtab-weather-menu-change-temperature-units-fahrenheit = מעבר לפרנהייט
 newtab-weather-menu-change-temperature-units-celsius = מעבר לצלזיוס
-newtab-weather-menu-hide-weather-v2 = הסתרת מזג האוויר
 newtab-weather-menu-hide-weather = הסתרת מזג האוויר בלשונית החדשה
 newtab-weather-menu-learn-more = מידע נוסף
 newtab-weather-menu-detect-my-location = זיהוי המיקום שלי
@@ -693,7 +694,6 @@ newtab-widget-lists-menu-edit = עריכת שם הרשימה
 newtab-widget-lists-menu-create = יצירת רשימה חדשה
 newtab-widget-lists-menu-delete = מחיקת רשימה זו
 newtab-widget-lists-menu-copy = העתקת הרשימה ללוח העריכה
-newtab-widget-lists-menu-hide = הסתרת כל הרשימות
 newtab-widget-lists-menu-learn-more = מידע נוסף
 newtab-widget-lists-input-add-an-item =
     .placeholder = הוספת פריט
@@ -750,7 +750,6 @@ newtab-widget-timer-reset =
     .title = איפוס
 newtab-widget-timer-menu-notifications = כיבוי התרעות
 newtab-widget-timer-menu-notifications-on = הפעלת התרעות
-newtab-widget-timer-menu-hide = הסתרת שעון עצר
 newtab-widget-timer-menu-learn-more = מידע נוסף
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = כותרות מובילות

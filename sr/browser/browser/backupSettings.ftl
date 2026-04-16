@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Резерва
 settings-data-backup-header2 =
     .label = Резервна копија
     .description = Самостално заштитите своје обележиваче, историјат и друге податке.
-settings-data-backup-header = Резервна копија
 settings-data-backup-toggle = Управљај резервном копијом
 settings-data-backup-toggle-on2 =
     .label = Укључи резервну копију
 settings-data-backup-toggle-off2 =
     .label = Искључи резервну копију
-settings-data-backup-toggle-on = Укључи резервну копију
-settings-data-backup-toggle-off = Искључи резервну копију
 settings-data-backup-trigger-button = Направи резервну копију сада
 settings-data-backup-in-progress-button = Прављење резервне копије је у току…
 settings-data-backup-in-progress-message =
     .message = Прављење резервне копије је у току…
-settings-data-backup-scheduled-backups-on = Резервна копија: УКЉУЧЕНА
-settings-data-backup-scheduled-backups-off = Резервна копија: ИСКЉУЧЕНА
-settings-data-backup-scheduled-backups-description = Самостално заштитите своје обележиваче, историјат и друге податке. <a data-l10n-name="support-link">Сазнајте више</a>
 settings-data-backup-last-backup-date = Последња резервна копија: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Резервна копија је УКЉУЧЕНА
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Локација резервне копије
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Локација
 settings-data-backup-last-backup-location-show-in-folder = Прикажи у фасцикли
 settings-data-backup-last-backup-location-edit = Уреди…
 settings-data-create-backup-error = Дошло је до грешке приликом прављења резервне копије { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Поврати своје податке
     .description = Користите { -brand-product-name } резервну копију са другог уређаја да повратите своје податке.
-settings-data-backup-restore-header = Повратите своје податке
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Користите { -brand-product-name } резервну копију са другог уређаја да бисте повратили своје податке.
-settings-data-backup-scheduled-backups-off-restore-choose = Изаберите датотеку резервне копије…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Повратите своје { -brand-product-name } податке од тренутка када је последњи пут направљена резервна копија.
-settings-data-backup-scheduled-backups-on-restore-choose = Поврати…
 settings-sensitive-data =
     .label = Осетљиви подаци
-settings-data-toggle-encryption-label = Направите резервну копију својих осетљивих података
 settings-data-toggle-encryption-support-link = Сазнајте више
 settings-data-change-password2 =
     .label = Промени лозинку
-settings-data-change-password = Промените лозинку…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Вратите своје податке
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Шта ће бити враћено?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Ово ће заменити све ваше тренутне { -brand-short-name } податке вашом резервном копијом од { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Шта ће бити враћено?
-restore-from-backup-no-backup-file-link = Имате проблема са проналажењем резервне копије?
 restore-from-backup-filepicker-label = Датотека резервне копије
 restore-from-backup-filepicker-title = Изаберите датотеку резервне копије:
 restore-from-backup-file-choose-button =
@@ -284,10 +259,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> је направљен
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Обновљено са уређаја { $deviceName } дана { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } у { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Направљено { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } на { $machineName }
 backup-file-restore-file-validation-error = Ова датотека не ради. Покушајте да изаберете другу датотеку. <a data-l10n-name="restore-problems">И даље имате проблема?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Није изабрана ниједна датотека

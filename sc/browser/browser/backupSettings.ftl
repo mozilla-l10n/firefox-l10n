@@ -22,21 +22,15 @@ backup-file-name = Còpia_de_seguresa_de_{ -brand-product-name }
 settings-data-backup-header2 =
     .label = Còpia de seguresa
     .description = Ampara in automàticu is sinnalibros, sa cronologia e àteros datos.
-settings-data-backup-header = Còpia de seguresa
 settings-data-backup-toggle = Gesti is còpias de seguresa
 settings-data-backup-toggle-on2 =
     .label = Ativa sa còpia de seguresa
 settings-data-backup-toggle-off2 =
     .label = Disativa sa còpia de seguresa
-settings-data-backup-toggle-on = Ativa sa còpia de seguresa
-settings-data-backup-toggle-off = Disativa sa còpia de seguresa
 settings-data-backup-trigger-button = Faghe una còpia de seguresa immoe
 settings-data-backup-in-progress-button = Còpia de seguresa in cursu…
 settings-data-backup-in-progress-message =
     .message = Còpia de seguresa in cursu…
-settings-data-backup-scheduled-backups-on = Còpia de seguresa: ATIVADA
-settings-data-backup-scheduled-backups-off = Còpia de seguresa: DISATIVADA
-settings-data-backup-scheduled-backups-description = Ampara in automàticu is sinnalibros, sa cronologia e is àteros datos tuos. <a data-l10n-name="support-link">Àteras informatziones</a>
 settings-data-backup-last-backup-date = Ùrtima còpia de seguresa: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Sa còpia de seguresa est ativada
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Positzione de sa còpia de seguresa
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Positzione
 settings-data-backup-last-backup-location-show-in-folder = Ammustra in sa cartella
 settings-data-backup-last-backup-location-edit = Modifica...
 settings-data-create-backup-error = Faddina durante sa creatzione de sa còpia de seguresa tua: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Recùpera is datos tuos
     .description = Imprea una còpia de seguresa de { -brand-product-name } dae un’àteru dispositivu pro recuperare is datos tuos.
-settings-data-backup-restore-header = Recùpera is datos tuos
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Imprea una còpia de seguresa de { -brand-product-name } de un’àteru dispositivu pro recuperare is datos tuos.
-settings-data-backup-scheduled-backups-off-restore-choose = Sèbera s’archìviu de còpia de seguresa...
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recùpera is datos tuos de { -brand-product-name } de s’ùrtima còpia de seguresa.
-settings-data-backup-scheduled-backups-on-restore-choose = Recùpera…
 settings-sensitive-data =
     .label = Datos sensìbiles
-settings-data-toggle-encryption-label = Faghe una còpia de seguresa de is datos riservados tuos
 settings-data-toggle-encryption-support-link = Àteras informatziones
 settings-data-change-password2 =
     .label = Modifica sa crae
-settings-data-change-password = Modifica sa crae…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Recùpera is datos tuos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Ite at a èssere recuperadu?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Custu at a sostituire totu is datos atuales de { -brand-short-name } cun sa còpia de seguresa chi as fatu in custa data: { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Ite at a èssere recuperadu?
-restore-from-backup-no-backup-file-link = Tenes problemas pro agatare sa còpia de seguresa?
 restore-from-backup-filepicker-label = Archìviu de còpia de seguresa
 restore-from-backup-filepicker-title = Sèbera sa còpia de seguresa:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> creadu in { $machineNam
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Recuperadu dae { $deviceName } in sa data e s’ora imbeniente: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Creadu in { $machineName } in custa data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
 backup-file-restore-file-validation-error = Custu archìviu non funtzionat. Proa a seletzionare un’àteru archìviu. <a data-l10n-name="restore-problems">Tenes ancora problemas?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nissunu archìviu seletzionadu

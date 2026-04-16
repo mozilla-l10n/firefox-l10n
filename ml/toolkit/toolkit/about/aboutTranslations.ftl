@@ -11,11 +11,6 @@ about-translations-learn-more-link = കൂടുതല്‍ അറിയുക
 about-translations-unsupported-info-message-2 =
     .heading = ഈ ഉപകരണത്തിൽ മൊഴിമാറ്റൽവ്യവസ്ഥ ലഭ്യമല്ല
     .message = മറ്റൊരു ഉപകരണത്തിൽ നിന്നു വീണ്ടും ശ്രമിക്കുക
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = ഈ ഉപകരണത്തിൽ മൊഴിമാറ്റൽവ്യവസ്ഥ ലഭ്യമല്ല
-    .message = മറ്റൊരു ഉപകരണത്തിൽ നിന്നു വീണ്ടും ശ്രമിക്കുക
-about-translations-unsupported-info-button = കൂടുതല്‍ അറിയുക
 about-translations-language-load-error-button = വീണ്ടും ശ്രമിക്കുക
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

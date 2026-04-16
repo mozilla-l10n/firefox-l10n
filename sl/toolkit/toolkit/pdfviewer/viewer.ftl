@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = Izberi stran { $page }
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = Izberi stran { $page }
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = Stran { $page } od { $total }
@@ -662,12 +658,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = Preklopi stransko vrstico
 pdfjs-toggle-views-manager-notification-button =
     .title = Preklopi stransko vrstico (dokument vsebuje sličice/oris/priponke/plasti)
 pdfjs-toggle-views-manager-button1-label = Upravljanje strani
-pdfjs-toggle-views-manager-button-label = Preklopi stransko vrstico
 pdfjs-views-manager-sidebar =
     .aria-label = Stranska vrstica
 pdfjs-views-manager-sidebar-resizer =
@@ -678,11 +671,9 @@ pdfjs-views-manager-view-selector-button-label = Pogledi
 pdfjs-views-manager-pages-title = Strani
 pdfjs-views-manager-outlines-title1 = Oris dokumenta
     .title = Oris dokumenta (dvokliknite za razširitev ali strnitev vseh elementov)
-pdfjs-views-manager-outlines-title = Oris dokumenta
 pdfjs-views-manager-attachments-title = Priponke
 pdfjs-views-manager-layers-title1 = Plasti
     .title = Plasti (dvokliknite za ponastavitev vseh plasti na privzeto stanje)
-pdfjs-views-manager-layers-title = Plasti
 pdfjs-views-manager-pages-option-label = Strani
 pdfjs-views-manager-outlines-option-label = Oris dokumenta
 pdfjs-views-manager-attachments-option-label = Priponke
@@ -705,7 +696,6 @@ pdfjs-views-manager-pages-status-copy-button-label = Kopiraj
 pdfjs-views-manager-pages-status-cut-button-label = Izreži
 pdfjs-views-manager-pages-status-delete-button-label = Izbriši
 pdfjs-views-manager-pages-status-export-selected-button-label = Izvozi izbor …
-pdfjs-views-manager-pages-status-save-as-button-label = Shrani kot …
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =

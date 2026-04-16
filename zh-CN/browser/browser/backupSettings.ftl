@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
     .label = 备份
     .description = 自动保护您的书签、历史记录等数据。
-settings-data-backup-header = 备份
 settings-data-backup-toggle = 管理备份
 settings-data-backup-toggle-on2 =
     .label = 开启备份
 settings-data-backup-toggle-off2 =
     .label = 关闭备份
-settings-data-backup-toggle-on = 开启备份
-settings-data-backup-toggle-off = 关闭备份
 settings-data-backup-trigger-button = 立即备份
 settings-data-backup-in-progress-button = 正在备份…
 settings-data-backup-in-progress-message =
     .message = 正在备份…
-settings-data-backup-scheduled-backups-on = 备份：已开启
-settings-data-backup-scheduled-backups-off = 备份：已关闭
-settings-data-backup-scheduled-backups-description = 自动保护您的书签、历史记录等数据。<a data-l10n-name="support-link">详细了解</a>
 settings-data-backup-last-backup-date = 上次备份：{ DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = 备份：已开启
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = 备份位置
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = 位置
 settings-data-backup-last-backup-location-show-in-folder = 在文件夹中显示
 settings-data-backup-last-backup-location-edit = 编辑…
 settings-data-create-backup-error = 于 { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") } 创建备份时出错
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = 恢复数据
     .description = 使用另一台设备上的 { -brand-product-name } 备份来恢复您的数据。
-settings-data-backup-restore-header = 恢复数据
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = 使用其他设备上的 { -brand-product-name } 备份来恢复您的数据。
-settings-data-backup-scheduled-backups-off-restore-choose = 选择备份文件…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = 从上次备份恢复您的 { -brand-product-name } 数据。
-settings-data-backup-scheduled-backups-on-restore-choose = 恢复…
 settings-sensitive-data =
     .label = 敏感数据
-settings-data-toggle-encryption-label = 备份敏感数据
 settings-data-toggle-encryption-support-link = 详细了解
 settings-data-change-password2 =
     .label = 更改密码
-settings-data-change-password = 更改密码…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = 恢复数据
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = 了解恢复的内容
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = 此操作将使用 { DATETIME($date, timeStyle: "short", dateStyle: "short") } 的备份替换 { -brand-short-name } 当前所有数据。
-restore-from-backup-support-link =
-    .message = 了解恢复的内容
-restore-from-backup-no-backup-file-link = 找不到备份？
 restore-from-backup-filepicker-label = 备份文件
 restore-from-backup-filepicker-title = 选择备份文件：
 restore-from-backup-file-choose-button =
@@ -279,10 +254,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b>（{ DATETIME($date, yea
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 恢复自 { $deviceName }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 创建于 { $machineName }
 backup-file-restore-file-validation-error = 文件无效，请尝试选取其他文件。<a data-l10n-name="restore-problems">仍有问题？</a>
 restore-from-backup-filepicker-input =
     .placeholder = 未选择文件

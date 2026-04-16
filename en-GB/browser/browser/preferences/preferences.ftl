@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Show warning when web sites try to install extensions
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Manage pop-up and third-party redirect exceptions
-    .accesskey = E
-    .searchkeywords = popups
 permissions-addon-exceptions2 =
     .label = Choose which web sites can install extensions
     .accesskey = e

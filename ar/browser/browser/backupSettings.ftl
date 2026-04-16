@@ -22,21 +22,15 @@ backup-file-name = اعمل نسخة احتياطية إلى { -brand-product-na
 settings-data-backup-header2 =
     .label = نسخ احتياطي
     .description = احمِ علاماتك وتأريخك وبياناتك الأخرى تلقائيًا.
-settings-data-backup-header = نسخ احتياطي
 settings-data-backup-toggle = أدر النسخ الاحتياطي
 settings-data-backup-toggle-on2 =
     .label = فعّل النسخ الاحتياطي
 settings-data-backup-toggle-off2 =
     .label = أوقِف النسخ الاحتياطي
-settings-data-backup-toggle-on = فعّل النسخ الاحتياطي
-settings-data-backup-toggle-off = أوقِف النسخ الاحتياطي
 settings-data-backup-trigger-button = انسخ احتياطيًا الآن
 settings-data-backup-in-progress-button = جارِ النسخ الاحتياطي…
 settings-data-backup-in-progress-message =
     .message = جارِ النسخ الاحتياطي…
-settings-data-backup-scheduled-backups-on = النسخ الاحتياطي: مفعّل
-settings-data-backup-scheduled-backups-off = النسخ الاحتياطي: متوقف
-settings-data-backup-scheduled-backups-description = احمِ علاماتك و تأريخك والبيانات الأخرى تلقائيًا . <a data-l10n-name="support-link">اطّلع على المزيد</a>
 settings-data-backup-last-backup-date = آخر نسخ احتياطي: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = النسخ الاحتياطي مفعّل
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = مكان النسخ الاحتياطي
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = المكان
 settings-data-backup-last-backup-location-show-in-folder = اعرض في المجلد
 settings-data-backup-last-backup-location-edit = حرّر…
 settings-data-create-backup-error = حدث خطأ أثناء إنشاء النسخة الاحتياطية في { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = استعِد بياناتك
     .description = استخدم نسخة احتياطية من { -brand-product-name } من جهاز آخر لاستعادة بياناتك.
-settings-data-backup-restore-header = استعادة بياناتك
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = استخدم النسخة الاحتياطية { -brand-product-name } من جهاز آخر لاستعادة بياناتك.
-settings-data-backup-scheduled-backups-off-restore-choose = اختر ملف النسخة الاحتياطية…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = استورد بيانات { -brand-product-name } الخاصة بك من آخر مرة نسختها احتياطيًا.
-settings-data-backup-scheduled-backups-on-restore-choose = استعِدة…
 settings-sensitive-data =
     .label = بيانات حساسة
-settings-data-toggle-encryption-label = انسخ احتياطيًا بياناتك الحساسة
 settings-data-toggle-encryption-support-link = اطّلع على المزيد
 settings-data-change-password2 =
     .label = غيّر كلمة السر
-settings-data-change-password = غيّر كلمة السر…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = استعِدة بياناتك
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = ماذا سيتم استعادته؟
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = سيستبدل جميع بيانات { -brand-short-name } الحالية لديك بالنسخة الاحتياطية من { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = ماذا سيتم استعادته؟
-restore-from-backup-no-backup-file-link = هل تواجه مشاكل في العثور على نُسختك الاحتياطية؟
 restore-from-backup-filepicker-label = ملف النسخة الاحتياطية
 restore-from-backup-filepicker-title = اختر ملف النسخة الاحتياطية:
 restore-from-backup-file-choose-button =
@@ -287,10 +262,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> أُنشئ في { DATET
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = اُستعيد من { $deviceName } في { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } عند { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = أُنشئ في { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } على { $machineName }
 backup-file-restore-file-validation-error = هذا الملف لا يعمل. جرّب اختيار ملف آخر. <a data-l10n-name="restore-problems">أما زلت تواجه مشاكل؟</a>
 restore-from-backup-filepicker-input =
     .placeholder = لم يحدّد أي ملف

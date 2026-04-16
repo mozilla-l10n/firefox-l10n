@@ -371,6 +371,7 @@ newtab-custom-settings = Administroni më tepër rregullime
 
 newtab-wallpaper-title = Sfonde
 newtab-wallpaper-reset = Riktheje te parazgjedhjet
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Ngarkoni një figurë
 newtab-wallpaper-custom-color = Zgjidhni një ngjyrë
 newtab-wallpaper-toggle-title =
@@ -397,6 +398,7 @@ newtab-wallpaper-light-fox-anniversary = Një dhelpër në një lëndinë, në n
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Ngjyra të plota
 newtab-wallpaper-blue = Blu
 newtab-wallpaper-light-blue = Blu e çelët
@@ -503,7 +505,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Farenajt
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Kalo në Farenajt
 newtab-weather-menu-change-temperature-units-celsius = Kalo në Celsius
-newtab-weather-menu-hide-weather-v2 = Fshihe motin
 newtab-weather-menu-hide-weather = Fshihe motin në Skedë të Re
 newtab-weather-menu-learn-more = Mësoni më tepër
 newtab-weather-menu-detect-my-location = Pikas vendndodhjen time
@@ -670,7 +671,6 @@ newtab-widget-lists-menu-edit = Përpunoni emër liste
 newtab-widget-lists-menu-create = Krijoni një listë të re
 newtab-widget-lists-menu-delete = Fshije këtë listë
 newtab-widget-lists-menu-copy = Kopjoje listën në të papastër
-newtab-widget-lists-menu-hide = Fshihi krejt listat
 newtab-widget-lists-menu-learn-more = Mësoni më tepër
 newtab-widget-lists-input-add-an-item =
     .placeholder = Shtoni një objekt
@@ -723,7 +723,6 @@ newtab-widget-timer-reset =
     .title = Riktheje te parazgjedhjet
 newtab-widget-timer-menu-notifications = Çaktivizoni njoftimet
 newtab-widget-timer-menu-notifications-on = Aktivizoni njoftimet
-newtab-widget-timer-menu-hide = Fshihe kohëmatësin
 newtab-widget-timer-menu-learn-more = Mësoni më tepër
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Tituj Kryesues

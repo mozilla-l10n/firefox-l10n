@@ -2012,12 +2012,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = 웹 사이트가 확장 기능을 설치하려고 할 때 경고 표시
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = 팝업 및 제3자 리디렉션 예외 관리
-    .accesskey = E
-    .searchkeywords = 팝업
 permissions-addon-exceptions2 =
     .label = 확장 기능을 설치할 수 있는 웹 사이트 선택
     .accesskey = E

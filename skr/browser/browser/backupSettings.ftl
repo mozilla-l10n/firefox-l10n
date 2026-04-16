@@ -13,9 +13,6 @@
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } بیک اپ
-settings-data-backup-header = بیک اپ
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = مقام
 settings-data-backup-last-backup-location-show-in-folder = فولڈر وِچ ݙکھاؤ
 settings-data-backup-last-backup-location-edit = تدوین کرو …
 

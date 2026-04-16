@@ -30,12 +30,10 @@ firefox-relay-dismiss =
     .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Proteger dirección de correo electrónico:
-firefox-relay-opt-in-title-2 = Consiga una máscara de correo electrónico gratuita
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Usar alias de correo de { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Usar una máscara de correo electrónico
-firefox-relay-opt-in-subtitle-2 = Proteja su bandeja de entrada del spam
 firefox-relay-use-mask-title = Usar alias de correo de { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Evite el spam con una máscara de correo electrónico gratuita

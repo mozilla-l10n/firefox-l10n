@@ -627,9 +627,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar a protección compartida para esta sesión
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para usar o atallo F12 abra primeiro as ferramentas de desenvolvemento mediante o menú de ferramentas do navegador.
@@ -1451,9 +1448,6 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
-
-## The urlbar trust icon & panel
-
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

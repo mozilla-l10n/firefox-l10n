@@ -340,6 +340,7 @@ newtab-wallpaper-light-fox-anniversary = ᱢᱤᱫ ᱛᱩᱭᱩ ᱢᱤᱫ ᱜᱷ
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = ᱠᱮᱴᱮᱡ ᱨᱚᱝ
 newtab-wallpaper-blue = ᱞᱤᱞ
 newtab-wallpaper-light-blue = ᱦᱟᱞᱠᱟ ᱞᱤᱞ

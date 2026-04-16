@@ -11,10 +11,6 @@ about-translations-learn-more-link = Mear ynfo
 about-translations-unsupported-info-message-2 =
     .heading = Oersetting is net beskikber op dit apparaat
     .message = Probearje nei in oar apparaat oer te stappen.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Oersetting is net beskikber op dit apparaat.
-    .message = Probearje nei in oar apparaat oer te stappen.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Oersettingen binne foar jo organisaasje net beskikber
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Blokkearring opheffe
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Kin talen net lade
-    .message = Kontrolearje jo ynternetferbining en probearje it opnij.
-about-translations-unsupported-info-button = Mear ynfo
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Kin talen net lade.
     .message = Kontrolearje jo ynternetferbining en probearje it opnij.
 about-translations-language-load-error-button = Opnij probearje
 # An error message displayed when a translation request fails.

@@ -653,9 +653,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Vypnúť ochranu zdieľania pre túto reláciu
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Ak chcete použiť skratku F12, najprv otvorte Nástroje pre vývojárov webu cez ponuku Nástroje prehliadača.

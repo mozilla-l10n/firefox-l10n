@@ -2020,12 +2020,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = 网站尝试安装扩展时显示警告
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = 管理弹出式窗口和第三方重定向例外
-    .accesskey = E
-    .searchkeywords = 弹出式窗口 弹窗 popups
 permissions-addon-exceptions2 =
     .label = 选择可以安装扩展的网站
     .accesskey = E

@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = 为此网站使用 VPN
     .aria-label = 已为此网站关闭 VPN
-site-exclusion-toggle-label = 为此网站使用 VPN
-site-exclusion-toggle-enabled =
-    .aria-label = 已为此网站开启 VPN
-site-exclusion-toggle-disabled =
-    .aria-label = 已为此网站关闭 VPN
 ipprotection-settings-link =
     .label = 设置
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = 内置的 VPN，可在使用 { -brand-short-name } 浏览时增强隐私保护。
 ip-protection-learn-more = 详细了解
-ip-protection-site-exceptions =
-    .label = 特定网站设置
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -167,7 +160,6 @@ ip-protection-exclusions-desc = 将为不在此列表中的所有网站使用 VP
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = 每月 VPN 流量
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

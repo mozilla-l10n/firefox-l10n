@@ -388,6 +388,7 @@ newtab-custom-settings = Další nastavení
 
 newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnovit výchozí nastavení
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Nahrát obrázek
 newtab-wallpaper-custom-color = Vybrat barvu
 newtab-wallpaper-toggle-title =
@@ -414,6 +415,7 @@ newtab-wallpaper-light-fox-anniversary = Liška na louce se zamlženou horskou k
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jednobarevné
 newtab-wallpaper-blue = Modrá
 newtab-wallpaper-light-blue = Světle modrá
@@ -520,7 +522,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Přepnout na stupně Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Přepnout na stupně Celsia
-newtab-weather-menu-hide-weather-v2 = Skrýt počasí
 newtab-weather-menu-hide-weather = Skrýt počasí na novém panelu
 newtab-weather-menu-learn-more = Zjistit více
 newtab-weather-menu-detect-my-location = Zjistit mou polohu
@@ -727,7 +728,6 @@ newtab-widget-lists-menu-edit = Upravit název seznamu
 newtab-widget-lists-menu-create = Vytvoření nového seznamu
 newtab-widget-lists-menu-delete = Smazat tento seznam
 newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
-newtab-widget-lists-menu-hide = Skrýt všechny seznamy
 newtab-widget-lists-menu-learn-more = Zjistit více
 newtab-widget-lists-input-add-an-item =
     .placeholder = Přidat položku
@@ -784,7 +784,6 @@ newtab-widget-timer-reset =
     .title = Obnovit
 newtab-widget-timer-menu-notifications = Vypnout oznámení
 newtab-widget-timer-menu-notifications-on = Zapnout oznámení
-newtab-widget-timer-menu-hide = Skrýt časovač
 newtab-widget-timer-menu-learn-more = Zjistit více
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Hlavní titulky

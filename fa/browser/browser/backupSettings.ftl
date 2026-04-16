@@ -2,12 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-settings-data-backup-header = پشتیبان‌گیری
 settings-data-backup-toggle = مدیریت پشتیبان‌گیری
-settings-data-backup-scheduled-backups-on = پشتیبان‌گیری: روشن
-settings-data-backup-scheduled-backups-off = پشتیبان‌گیری: خاموش
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = مکان
 settings-data-backup-last-backup-location-show-in-folder = نمایش در پوشه
 settings-data-backup-last-backup-location-edit = ویرایش…
 # Variables:
@@ -17,7 +12,6 @@ settings-data-backup-last-backup-filename = نام پرونده: { $fileName }
 ##
 
 settings-data-toggle-encryption-support-link = بیشتر بدانید
-settings-data-change-password = تغییر گذرواژه…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 

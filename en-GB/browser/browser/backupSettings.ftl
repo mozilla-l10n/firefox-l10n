@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
     .label = Backup
     .description = Automatically protect your bookmarks, history and other data.
-settings-data-backup-header = Backup
 settings-data-backup-toggle = Manage backup
 settings-data-backup-toggle-on2 =
     .label = Turn on backup
 settings-data-backup-toggle-off2 =
     .label = Turn off backup
-settings-data-backup-toggle-on = Turn on backup
-settings-data-backup-toggle-off = Turn off backup
 settings-data-backup-trigger-button = Backup now
 settings-data-backup-in-progress-button = Backup in progress…
 settings-data-backup-in-progress-message =
     .message = Backup in progress…
-settings-data-backup-scheduled-backups-on = Backup: ON
-settings-data-backup-scheduled-backups-off = Backup: OFF
-settings-data-backup-scheduled-backups-description = Automatically protect your bookmarks, history and other data. <a data-l10n-name="support-link">Learn more</a>
 settings-data-backup-last-backup-date = Last backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Backup is ON
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Backup location
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Location
 settings-data-backup-last-backup-location-show-in-folder = Show in folder
 settings-data-backup-last-backup-location-edit = Edit…
 settings-data-create-backup-error = There was an error creating your backup on { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Restore your data
     .description = Use a { -brand-product-name } backup from another device to restore your data.
-settings-data-backup-restore-header = Restore your data
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Use a { -brand-product-name } backup from another device to restore your data.
-settings-data-backup-scheduled-backups-off-restore-choose = Choose backup file…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recover your { -brand-product-name } data back from the last time it was backed up.
-settings-data-backup-scheduled-backups-on-restore-choose = Restore…
 settings-sensitive-data =
     .label = Sensitive data
-settings-data-toggle-encryption-label = Back up your sensitive data
 settings-data-toggle-encryption-support-link = Learn more
 settings-data-change-password2 =
     .label = Change password
-settings-data-change-password = Change password…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Restore your data
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = What will be restored?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = This will replace all your current { -brand-short-name } data with your backup from { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = What will be restored?
-restore-from-backup-no-backup-file-link = Having problems finding your backup?
 restore-from-backup-filepicker-label = Backup file
 restore-from-backup-filepicker-title = Choose Backup File:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> created on { DATETIME($
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Restored from { $deviceName } on { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } at { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Created on { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } on { $machineName }
 backup-file-restore-file-validation-error = This file isn’t working. Try picking a different file. <a data-l10n-name="restore-problems">Still having problems?</a>
 restore-from-backup-filepicker-input =
     .placeholder = No file selected

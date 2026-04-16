@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Utilisar il VPN per questa website
     .aria-label = Il VPN è deactivà per questa website
-site-exclusion-toggle-label = Utilisar il VPN per questa website
-site-exclusion-toggle-enabled =
-    .aria-label = Il VPN è activà per questa website
-site-exclusion-toggle-disabled =
-    .aria-label = Il VPN è deactivà per questa website
 ipprotection-settings-link =
     .label = Parameters
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Il VPN integrà per meglierar la protecziun da tias datas durant che ti navigheschas cun { -brand-short-name }.
 ip-protection-learn-more = Ulteriuras infurmaziuns
-ip-protection-site-exceptions =
-    .label = Parameters specifics per las websites
 ip-protection-not-opted-in-button = Cumenzar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

@@ -653,9 +653,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Dezactivează protecția partajării pentru această sesiune
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Pentru a folosi comanda rapidă F12, deschide mai întâi instrumentele pentru dezvoltatori din meniul de instrumente al browserului.

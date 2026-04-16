@@ -165,9 +165,6 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Tee página ya´a nuu a ta´an ini noo´o ({ $shortcut })
 
-## Searchbar context menu
-
-
 ## Page Action Context Menu
 
 page-action-manage-extension2 =
@@ -363,11 +360,6 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-pip = PICTURE-IN-PICTURE
 
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
 ## Bookmarks toolbar items
 
 browser-import-button2 =
@@ -399,12 +391,6 @@ sharing-warning-proceed-to-tab =
     .label = Kaka nuu sukua
 sharing-warning-disable-for-session =
     .label = Xita protección de ni'i sa kua'a nu sesión ya'a
-
-## WebSerial "select a port" popup
-
-
-## DevTools F12 popup
-
 
 ## URL Bar
 
@@ -508,13 +494,6 @@ urlbar-result-action-copy-to-clipboard = Tɨɨn
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -549,14 +528,6 @@ urlbar-result-action-search-tabs = Nánuku sukua
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
-## Reader View toolbar buttons
-
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -643,9 +614,6 @@ save-to-pocket-button =
     .label = Chuva´a nuu { -pocket-brand-name }
     .tooltiptext = Chuva´a nuu { -pocket-brand-name }
 
-## Repair text encoding toolbar button
-
-
 ## Customize Toolbar Buttons
 
 # Variables:
@@ -712,13 +680,6 @@ popups-infobar-block =
 ##
 
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
-
-
 # Navigator Toolbox
 
 # This string is a spoken label that should not include
@@ -754,15 +715,9 @@ tabs-toolbar-list-all-tabs =
     .label = Kutuvi kuaiyo pestañas
     .tooltiptext = Kutuvi kuaiyo pestañas
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Xituvi kua
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -770,32 +725,11 @@ data-reporting-notification-button =
     .label = Kaji naku kuvi kua´a
     .accesskey = C
 
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
 ## Autorefresh blocker
 
 refresh-blocked-allow =
     .label = Kuvi
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -823,26 +757,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Xituvi '{ $popupURI }'
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

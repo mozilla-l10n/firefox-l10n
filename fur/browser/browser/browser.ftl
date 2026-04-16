@@ -641,9 +641,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disabilite la protezion di condivision par cheste session
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Par doprâ la scurte F12, prime vierç DevTools midiant il menù Struments dal navigadôr.

@@ -22,21 +22,15 @@ backup-file-name = Резервная копия { -brand-product-name }
 settings-data-backup-header2 =
     .label = Резервное копирование
     .description = Автоматически защищает ваши закладки, историю и другие данные.
-settings-data-backup-header = Резервное копирование
 settings-data-backup-toggle = Управлять резервным копированием
 settings-data-backup-toggle-on2 =
     .label = Включить резервное копирование
 settings-data-backup-toggle-off2 =
     .label = Отключить резервное копирование
-settings-data-backup-toggle-on = Включить резервное копирование
-settings-data-backup-toggle-off = Отключить резервное копирование
 settings-data-backup-trigger-button = Создать резервную копию
 settings-data-backup-in-progress-button = Выполняется резервное копирование...
 settings-data-backup-in-progress-message =
     .message = Выполняется резервное копирование…
-settings-data-backup-scheduled-backups-on = Резервное копирование: ВКЛЮЧЕНО
-settings-data-backup-scheduled-backups-off = Резервное копирование: ОТКЛЮЧЕНО
-settings-data-backup-scheduled-backups-description = Автоматически защищайте свои закладки, историю просмотра и другие данные. <a data-l10n-name="support-link">Подробнее</a>
 settings-data-backup-last-backup-date = Последняя резервная копия: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Резервное копирование ВКЛЮЧЕНО
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Расположение резервной копии
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Расположение
 settings-data-backup-last-backup-location-show-in-folder = Показать в папке
 settings-data-backup-last-backup-location-edit = Изменить…
 settings-data-create-backup-error = При создании вашей резервной копии произошла ошибка { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Восстановление данных
     .description = Используйте резервную копию { -brand-product-name } с другого устройства для восстановления своих данных.
-settings-data-backup-restore-header = Восстановление данных
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Используйте резервную копию { -brand-product-name } с другого устройства, чтобы восстановить свои данные.
-settings-data-backup-scheduled-backups-off-restore-choose = Выберите файл с резервной копией…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Восстановите данные { -brand-product-name } из последней резервной копии.
-settings-data-backup-scheduled-backups-on-restore-choose = Восстановить…
 settings-sensitive-data =
     .label = Конфиденциальные данные
-settings-data-toggle-encryption-label = Создавать резервные копии конфиденциальных данных
 settings-data-toggle-encryption-support-link = Подробнее
 settings-data-change-password2 =
     .label = Сменить пароль
-settings-data-change-password = Сменить пароль…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Восстановите свои данные
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Что будет восстановлено?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Это приведёт к замене всех ваших текущих данных { -brand-short-name } на резервную копию, созданную в { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Что будет восстановлено?
-restore-from-backup-no-backup-file-link = Проблемы с поиском резервной копии?
 restore-from-backup-filepicker-label = Файл с резервной копией
 restore-from-backup-filepicker-title = Выберите файл с резервной копией:
 restore-from-backup-file-choose-button =
@@ -284,10 +259,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> создан { DATETIME
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Восстановлено с { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } в { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Создан { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } на { $machineName }
 backup-file-restore-file-validation-error = С этим файлом что-то не так. Попробуйте выбрать другой файл. <a data-l10n-name="restore-problems">Все ещё остались проблемы?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Файл не выбран

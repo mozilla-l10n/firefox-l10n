@@ -11,18 +11,9 @@ about-translations-learn-more-link = Plui informazions
 about-translations-unsupported-info-message-2 =
     .heading = La funzion di traduzion no je disponibile su chest dispositîf
     .message = Prove a passâ suntun altri dispositîf.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = La funzion di traduzion no je disponibile su chest dispositîf.
-    .message = Prove a passâ suntun altri dispositîf.
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Impussibil cjariâ lis lenghis
-    .message = Verifiche la conession a internet e torne prove.
-about-translations-unsupported-info-button = Plui informazions
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Impussibil cjariâ lis lenghis.
     .message = Verifiche la conession a internet e torne prove.
 about-translations-language-load-error-button = Torne prove
 # Placeholder text shown in the source-language text area when the user has not typed any text.

@@ -1944,12 +1944,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloker pop op-vinduer og tredjeparts-omdirigeringer
     .accesskey = B
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Håndter undtagelser for pop op-vinduer og tredjeparts-omdirigeringer
-    .accesskey = u
-    .searchkeywords = popop
 permissions-addon-exceptions2 =
     .label = Vælg hvilke websteder, som kan installere udvidelser
     .accesskey = u

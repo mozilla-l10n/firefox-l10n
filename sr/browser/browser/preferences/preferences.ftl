@@ -2103,12 +2103,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Прикажи упозорење када веб странице покушају да инсталирају додатке
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Управљај изузецима за искачуће прозоре и преусмеравања трећих страна
-    .accesskey = и
-    .searchkeywords = искачући прозори
 permissions-addon-exceptions2 =
     .label = Изаберите веб-сајтове који могу инсталирати додатке
     .accesskey = и

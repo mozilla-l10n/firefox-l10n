@@ -384,6 +384,7 @@ newtab-custom-settings = Dalše nastajenja rjadować
 
 newtab-wallpaper-title = Pozadkowe wobrazy
 newtab-wallpaper-reset = Na standard wróćo stajić
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Wobraz nahrać
 newtab-wallpaper-custom-color = Barbu wubrać
 newtab-wallpaper-toggle-title =
@@ -410,6 +411,7 @@ newtab-wallpaper-light-fox-anniversary = Liška w trawnym polu z młowej horinsk
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jednotne barby
 newtab-wallpaper-blue = Módry
 newtab-wallpaper-light-blue = Swětłomódry
@@ -516,7 +518,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenheit wužiwać
 newtab-weather-menu-change-temperature-units-celsius = Celsius wužiwać
-newtab-weather-menu-hide-weather-v2 = Wjedro schować
 newtab-weather-menu-hide-weather = Wjedro na nowym rajtarku schować
 newtab-weather-menu-learn-more = Dalše informacije
 newtab-weather-menu-detect-my-location = Moje stejnišćo namakać
@@ -703,7 +704,6 @@ newtab-widget-lists-menu-edit = Mjeno lisćiny wobdźěłać
 newtab-widget-lists-menu-create = Nowu lisćinu wutworić
 newtab-widget-lists-menu-delete = Tutu lisćinu zhašeć
 newtab-widget-lists-menu-copy = Lisćinu do mjezyskłada kopěrować
-newtab-widget-lists-menu-hide = Wšě lisćiny schować
 newtab-widget-lists-menu-learn-more = Dalše informacije
 newtab-widget-lists-input-add-an-item =
     .placeholder = Zapisk přidać
@@ -760,7 +760,6 @@ newtab-widget-timer-reset =
     .title = Wróćo stajić
 newtab-widget-timer-menu-notifications = Zdźělenja znjemóžnić
 newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžnić
-newtab-widget-timer-menu-hide = Časoměr schować
 newtab-widget-timer-menu-learn-more = Dalše informacije
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Wažne hłowne nadpisma

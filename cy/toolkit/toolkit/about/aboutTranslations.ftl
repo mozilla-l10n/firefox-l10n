@@ -11,10 +11,6 @@ about-translations-learn-more-link = Darllen rhagor
 about-translations-unsupported-info-message-2 =
     .heading = Dyw cyfieithiad ddim ar gael ar y ddyfais hon
     .message = Ceisiwch newid i ddyfais arall.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Dyw cyfieithiad ddim ar gael ar y ddyfais hon.
-    .message = Ceisiwch newid i ddyfais arall.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Dyw cyfieithiadau ddim ar gael ar gyfer eich sefydliad
@@ -26,11 +22,6 @@ about-translations-feature-blocked-info-message =
 about-translations-feature-blocked-unblock-button = Dad-rwystro
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
-    .heading = Methu llwytho'r ieithoedd
-    .message = Gwiriwch eich cysylltiad â'r we a cheisio eto.
-about-translations-unsupported-info-button = Darllen rhagor
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
     .heading = Methu llwytho'r ieithoedd
     .message = Gwiriwch eich cysylltiad â'r we a cheisio eto.
 about-translations-language-load-error-button = Ceisiwch eto

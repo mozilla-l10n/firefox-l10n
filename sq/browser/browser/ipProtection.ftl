@@ -50,11 +50,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Përdore VPN-në për këtë sajt
     .aria-label = VPN-ja është e mbyllur për këtë sajt
-site-exclusion-toggle-label = Përdore VPN-në për këtë sajt
-site-exclusion-toggle-enabled =
-    .aria-label = VPN-ja është e hapur për këtë sajt
-site-exclusion-toggle-disabled =
-    .aria-label = VPN-ja është e mbyllur për këtë sajt
 ipprotection-settings-link =
     .label = Rregullime
 
@@ -133,8 +128,6 @@ ip-protection-description =
     .label = VPN
     .description = VPN e brendshme për të zgjeruar privatësinë tuaj teksa shfletoni në { -brand-short-name }.
 ip-protection-learn-more = Mësoni më tepër
-ip-protection-site-exceptions =
-    .label = Rregullime specifike për sajt
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -168,7 +161,6 @@ ip-protection-exclusions-desc = Përdor VPN për krejt sajtet, hiq ata në kët�
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Të dhëna VPN mujore
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

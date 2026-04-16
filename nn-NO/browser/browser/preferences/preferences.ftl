@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Vis åtvaring når nettstadar prøver å installere utvidingar
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Handsam unntak for sprettoppvindauge og tredjepartsvidaresendingar
-    .accesskey = a
-    .searchkeywords = sprettopp
 permissions-addon-exceptions2 =
     .label = Vel kva for nokre nettstadar som kan installere utvidingar
     .accesskey = V

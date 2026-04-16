@@ -39,11 +39,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = و کار گرؽڌن VPN سی ای وبگه
     .aria-label = VPN سی ای وبگه کۊر هڌ
-site-exclusion-toggle-label = و کار گرؽڌن VPN سی ای وبگه
-site-exclusion-toggle-enabled =
-    .aria-label = VPN سی ای وبگه رۊشن هڌ
-site-exclusion-toggle-disabled =
-    .aria-label = VPN سی ای وبگه کۊر هڌ
 ipprotection-settings-link =
     .label = سامووا
 
@@ -76,8 +71,6 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگ
 ## IP Protection Settings
 
 ip-protection-learn-more = قلوه دووسته بۊین
-ip-protection-site-exceptions =
-    .label = سامووا خاس وبگه
 ip-protection-not-opted-in-button = ناهاڌن پا کار
 ip-protection-autostart =
     .label = رۊشن کردن خوتکار VPN
@@ -90,10 +83,6 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = دؽوۉداری سامووا وبگه
-
-## IP Protection Bandwidth
-
-ip-protection-bandwidth-header = داده یل VPN ماهانه
 
 ## IP Protection bandwidth reset callout
 

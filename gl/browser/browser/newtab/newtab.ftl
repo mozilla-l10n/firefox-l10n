@@ -360,6 +360,7 @@ newtab-custom-settings = Xestionar máis axustes
 
 newtab-wallpaper-title = Fondos de pantalla
 newtab-wallpaper-reset = Restablecer os valores predeterminados
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Subir unha imaxe
 newtab-wallpaper-custom-color = Escolle unha cor
 newtab-wallpaper-toggle-title =
@@ -385,6 +386,7 @@ newtab-wallpaper-light-fox-anniversary = Un raposo nun campo herboso cunha paisa
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Cores sólidas
 newtab-wallpaper-blue = Azul
 newtab-wallpaper-light-blue = Azul claro
@@ -633,7 +635,6 @@ newtab-widget-lists-menu-edit = Editar o nome da lista
 newtab-widget-lists-menu-create = Crea unha nova lista
 newtab-widget-lists-menu-delete = Eliminar esta lista
 newtab-widget-lists-menu-copy = Copiar a lista no portapapeis
-newtab-widget-lists-menu-hide = Ocultar todas as listas
 newtab-widget-lists-menu-learn-more = Máis información
 newtab-widget-lists-input-add-an-item =
     .placeholder = Engadir un elemento
@@ -646,7 +647,6 @@ newtab-widget-timer-label-play =
 newtab-widget-timer-label-pause =
     .label = Pausar
 newtab-widget-timer-menu-notifications-on = Activar as notificacións
-newtab-widget-timer-menu-hide = Ocultar o temporizador
 newtab-widget-timer-menu-learn-more = Máis información
 newtab-widget-message-title = Mantente concentrado con listas e un temporizador incorporado
 newtab-promo-card-title = Apoiar a { -brand-product-name }

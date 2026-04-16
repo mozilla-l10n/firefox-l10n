@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Erabili VPNa gune honetarako
     .aria-label = VPNa inaktibo dago gune honetarako
-site-exclusion-toggle-label = Erabili VPNa gune honetarako
-site-exclusion-toggle-enabled =
-    .aria-label = VPNa aktibo dago gune honetarako
-site-exclusion-toggle-disabled =
-    .aria-label = VPNa inaktibo dago gune honetarako
 ipprotection-settings-link =
     .label = Ezarpenak
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Integratutako VPNa zure pribatutasuna areagotzeko { -brand-short-name }(e)kin nabigatu ahala.
 ip-protection-learn-more = Argibide gehiago
-ip-protection-site-exceptions =
-    .label = Gunearen araberako ezarpenak
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = Erabili VPNa webgune guztientzat zerrenda honeta
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Hileroko VPN datuak
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

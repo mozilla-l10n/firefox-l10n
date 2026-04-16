@@ -22,21 +22,15 @@ backup-file-name = BanSaoLuu{ -brand-product-name }
 settings-data-backup-header2 =
     .label = Sao lưu
     .description = Tự động bảo vệ dấu trang, lịch sử và dữ liệu khác của bạn.
-settings-data-backup-header = Sao lưu
 settings-data-backup-toggle = Quản lý sao lưu
 settings-data-backup-toggle-on2 =
     .label = Bật sao lưu
 settings-data-backup-toggle-off2 =
     .label = Tắt sao lưu
-settings-data-backup-toggle-on = Bật sao lưu
-settings-data-backup-toggle-off = Tắt sao lưu
 settings-data-backup-trigger-button = Sao lưu ngay
 settings-data-backup-in-progress-button = Đang sao lưu…
 settings-data-backup-in-progress-message =
     .message = Đang sao lưu…
-settings-data-backup-scheduled-backups-on = Sao lưu: BẬT
-settings-data-backup-scheduled-backups-off = Sao lưu: TẮT
-settings-data-backup-scheduled-backups-description = Tự động tạo bản sao dấu trang, lịch sử và dữ liệu khác của bạn. <a data-l10n-name="support-link">Tìm hiểu thêm</a>
 settings-data-backup-last-backup-date = Sao lưu lần cuối: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Sao lưu đang BẬT
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Vị trí sao lưu
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Vị trí
 settings-data-backup-last-backup-location-show-in-folder = Mở trong thư mục
 settings-data-backup-last-backup-location-edit = Chỉnh sửa…
 settings-data-create-backup-error = Đã xảy ra lỗi khi tạo bản sao lưu của bạn trên { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Khôi phục dữ liệu của bạn
     .description = Sử dụng bản sao lưu { -brand-product-name } từ thiết bị khác để khôi phục dữ liệu của bạn.
-settings-data-backup-restore-header = Khôi phục dữ liệu của bạn
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Sử dụng bản sao lưu { -brand-product-name } từ một thiết bị khác để khôi phục dữ liệu của bạn.
-settings-data-backup-scheduled-backups-off-restore-choose = Chọn tập tin sao lưu…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Khôi phục dữ liệu { -brand-product-name } của bạn từ lần sao lưu gần đây nhất.
-settings-data-backup-scheduled-backups-on-restore-choose = Khôi phục…
 settings-sensitive-data =
     .label = Dữ liệu nhạy cảm
-settings-data-toggle-encryption-label = Sao lưu dữ liệu nhạy cảm của bạn
 settings-data-toggle-encryption-support-link = Tìm hiểu thêm
 settings-data-change-password2 =
     .label = Thay đổi mật khẩu
-settings-data-change-password = Thay đổi mật khẩu…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Khôi phục dữ liệu của bạn
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Những gì sẽ được khôi phục?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Điều này sẽ thay thế tất cả dữ liệu { -brand-short-name } hiện tại của bạn bằng bản sao lưu của bạn từ { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Những gì sẽ được khôi phục?
-restore-from-backup-no-backup-file-link = Gặp sự cố khi tìm bản sao lưu của bạn?
 restore-from-backup-filepicker-label = Tập tin sao lưu
 restore-from-backup-filepicker-title = Chọn tập tin sao lưu:
 restore-from-backup-file-choose-button =
@@ -279,10 +254,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> được tạo vào { D
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Đã khôi phục từ { $deviceName } vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } lúc { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Được tạo vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } trên { $machineName }
 backup-file-restore-file-validation-error = Tập tin này không hoạt động. Hãy thử chọn một tập tin khác. <a data-l10n-name="restore-problems">Vẫn gặp sự cố?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Không có tập tin nào được chọn

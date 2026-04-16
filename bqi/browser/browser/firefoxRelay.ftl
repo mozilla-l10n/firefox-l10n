@@ -7,7 +7,6 @@ firefox-relay-get-unlimited-masks =
     .accesskey = M
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = زفت وابیڌن نشۊوی ایمیل ایسا:
-firefox-relay-opt-in-title-2 = ی ماسک ایمیل مۊفتی بگیرین
 firefox-relay-use-mask-title-1 = و کار گرؽڌن ماسک ایمیل
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = ی ماسک ایمیل مۊفتی بگیرین

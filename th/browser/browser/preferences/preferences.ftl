@@ -2000,12 +2000,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = แสดงคำเตือนเมื่อเว็บไซต์พยายามจะติดตั้งส่วนขยาย
     .accesskey = ค
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = จัดการข้อยกเว้นป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สาม
-    .accesskey = ข
-    .searchkeywords = ป๊อปอัป
 permissions-addon-exceptions2 =
     .label = เลือกเว็บไซต์ที่สามารถติดตั้งส่วนขยายได้
     .accesskey = น

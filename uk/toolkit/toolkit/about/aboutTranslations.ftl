@@ -11,10 +11,6 @@ about-translations-learn-more-link = Докладніше
 about-translations-unsupported-info-message-2 =
     .heading = Переклад недоступний на цьому пристрої
     .message = Спробуйте на іншому пристрої.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Переклад недоступний на цьому пристрої.
-    .message = Спробуйте на іншому пристрої.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Переклади недоступні для вашої організації
@@ -26,11 +22,6 @@ about-translations-feature-blocked-info-message =
 about-translations-feature-blocked-unblock-button = Розблокувати
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
-    .heading = Не вдається завантажити мови
-    .message = Перевірте своє інтернет-з'єднання і повторіть спробу
-about-translations-unsupported-info-button = Докладніше
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
     .heading = Не вдається завантажити мови
     .message = Перевірте своє інтернет-з'єднання і повторіть спробу
 about-translations-language-load-error-button = Повторити спробу

@@ -1950,12 +1950,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Манъ кардани равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
     .accesskey = М
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Идоракунии истисноҳои равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм
-    .accesskey = И
-    .searchkeywords = равзанаҳои зоҳиршаванда
 permissions-addon-exceptions2 =
     .label = Интихоб кунед, ки кадом сомонаҳо метавонанд васеъшавиҳоро насб кунанд
     .accesskey = И

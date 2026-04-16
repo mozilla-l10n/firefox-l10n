@@ -19,24 +19,16 @@ backup-folder-name = Pulihkan { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Cadangan
-settings-data-backup-header = Cadangan
 settings-data-backup-toggle = Kelola cadangan
 settings-data-backup-toggle-on2 =
     .label = Aktifkan pencadangan
 settings-data-backup-toggle-off2 =
     .label = Matikan pencadangan
-settings-data-backup-toggle-on = Aktifkan pencadangan
-settings-data-backup-toggle-off = Matikan pencadangan
 settings-data-backup-trigger-button = Cadangkan sekarang
 settings-data-backup-in-progress-button = Pencadangan sedang berlangsung…
 settings-data-backup-in-progress-message =
     .message = Pencadangan sedang berlangsung…
-settings-data-backup-scheduled-backups-on = Cadangan: AKTIF
-settings-data-backup-scheduled-backups-off = Cadangan: NONAKTIF
-settings-data-backup-scheduled-backups-description = Secara otomatis melindungi markah, riwayat, dan data lainnya. <a data-l10n-name="support-link">Pelajari lebih lanjut</a>
 settings-data-backup-last-backup-date = Cadangan terakhir: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Lokasi
 settings-data-backup-last-backup-location-show-in-folder = Tampilkan di folder
 settings-data-backup-last-backup-location-edit = Sunting…
 settings-data-create-backup-error = Terjadi kesalahan saat membuat cadangan Anda pada { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -44,20 +36,10 @@ settings-sensitive-data-encryption-description = Cadangkan kata sandi dan metode
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nama berkas: { $fileName }
-settings-data-backup-restore-header = Pulihkan data Anda
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Gunakan cadangan { -brand-product-name } dari perangkat lain untuk memulihkan data Anda.
-settings-data-backup-scheduled-backups-off-restore-choose = Pilih berkas cadangan…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Pulihkan data { -brand-product-name } Anda dari terakhir kali dicadangkan.
-settings-data-backup-scheduled-backups-on-restore-choose = Pulihkan…
-settings-data-toggle-encryption-label = Cadangkan data sensitif Anda
 settings-data-toggle-encryption-support-link = Pelajari lebih lanjut
-settings-data-change-password = Ubah sandi…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -97,13 +79,6 @@ turn-off-scheduled-backups-confirm-button = Matikan dan hapus cadangan
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Pulihkan data Anda
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Ini akan mengganti semua data { -brand-short-name } Anda saat ini dengan cadangan Anda dari { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Apa yang akan dipulihkan?
-restore-from-backup-no-backup-file-link = Mengalami masalah dalam menemukan cadangan Anda?
 restore-from-backup-filepicker-label = Berkas cadangan
 restore-from-backup-filepicker-title = Pilih Berkas Cadangan:
 restore-from-backup-file-choose-button =

@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }-sikkerhetskopi
 settings-data-backup-header2 =
     .label = Sikkerhetskopi
     .description = Beskytt bokmerkene, historikken og andre data automatisk.
-settings-data-backup-header = Sikkerhetskopiering
 settings-data-backup-toggle = Behandle sikkerhetskopiering
 settings-data-backup-toggle-on2 =
     .label = Slå på sikkerhetskopiering
 settings-data-backup-toggle-off2 =
     .label = Slå av sikkerhetskopiering
-settings-data-backup-toggle-on = Slå på sikkerhetskopiering
-settings-data-backup-toggle-off = Slå av sikkerhetskopiering
 settings-data-backup-trigger-button = Sikkerhetskopier nå
 settings-data-backup-in-progress-button = Sikkerhetskopiering pågår…
 settings-data-backup-in-progress-message =
     .message = Sikkerhetskopiering pågår…
-settings-data-backup-scheduled-backups-on = Sikkerhetskopiering: PÅ
-settings-data-backup-scheduled-backups-off = Sikkerhetskopiering: AV
-settings-data-backup-scheduled-backups-description = Beskytt bokmerkene, historikken og andre data automatisk. <a data-l10n-name="support-link">Les mer</a>
 settings-data-backup-last-backup-date = Siste sikkerhetskopi: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Sikkerhetskopiering er PÅ
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Plassering for sikkerhetskopi
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Plassering
 settings-data-backup-last-backup-location-show-in-folder = Vis i mappe
 settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-create-backup-error = Det oppstod en feil under oppretting av sikkerhetskopien din den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Gjenopprett dine data
     .description = Bruk en { -brand-product-name }-sikkerhetskopi fra en annen enhet for å gjenopprette dine data.
-settings-data-backup-restore-header = Gjenopprett dine data
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Bruk en { -brand-product-name }-sikkerhetskopi fra en annen enhet for å gjenopprette dine data.
-settings-data-backup-scheduled-backups-off-restore-choose = Velg sikkerhetskopifil…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Gjenopprett dine { -brand-product-name }-data fra forrige gang de ble sikkerhetskopiert.
-settings-data-backup-scheduled-backups-on-restore-choose = Gjenopprett…
 settings-sensitive-data =
     .label = Sensitive data
-settings-data-toggle-encryption-label = Sikkerhetskopier sensitive data
 settings-data-toggle-encryption-support-link = Les mer
 settings-data-change-password2 =
     .label = Endre passord
-settings-data-change-password = Endre passord…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Gjenopprett dine data
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Hva vil bli gjenopprettet?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Dette vil erstatte alle dine nåværende { -brand-short-name }-data med sikkerhetskopien din fra { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Hva vil bli gjenopprettet?
-restore-from-backup-no-backup-file-link = Har du problemer med å finne sikkerhetskopien din?
 restore-from-backup-filepicker-label = Sikkerhetskopieringsfil
 restore-from-backup-filepicker-title = Velg sikkerhetskopifil:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> opprettet { DATETIME($d
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Gjenopprettet fra { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Opprettet den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
 backup-file-restore-file-validation-error = Denne filen fungerer ikke. Prøv å velge en annen fil. <a data-l10n-name="restore-problems">Har du fortsatt problemer?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ingen fil valgt

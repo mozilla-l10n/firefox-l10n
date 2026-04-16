@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Montri averton kiam retejoj volas instali etendaĵojn
     .accesskey = M
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Administri esceptojn pri ŝprucaĵoj kaj redirektoj de aliaj retejoj
-    .accesskey = e
-    .searchkeywords = ŝprucaĵoj
 permissions-addon-exceptions2 =
     .label = Elekti, kiuj retejoj povas instali etendaĵojn
     .accesskey = E

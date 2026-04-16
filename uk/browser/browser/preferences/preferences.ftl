@@ -1731,12 +1731,6 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Блокувати спливні вікна та сторонні переспрямування
     .accesskey = Б
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Керувати винятками спливних вікон і стороннім переспрямуванням…
-    .accesskey = К
-    .searchkeywords = винятки спливні вікна
 permissions-addon-exceptions2 =
     .label = Виберіть вебсайти, які можуть встановлювати розширення
     .accesskey = ь

@@ -42,12 +42,10 @@ firefox-relay-dismiss =
     .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Diogelwch eich cyfeiriad e-bost:
-firefox-relay-opt-in-title-2 = Cael e-bost enwarall am ddim
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Defnyddiwch arallenw e-bost { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Defnyddiwch e-bost enwarall
-firefox-relay-opt-in-subtitle-2 = Diogelwch eich blwch derbyn rhag sbam
 firefox-relay-use-mask-title = Defnyddiwch arallenw e-bost { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Atal sbam gydag e-bost enwarall am ddim

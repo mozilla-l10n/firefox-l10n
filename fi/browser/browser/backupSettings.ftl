@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }in_varmuuskopio
 settings-data-backup-header2 =
     .label = Varmuuskopiointi
     .description = Suojaa automaattisesti kirjanmerkit, selaushistoria ja muut tiedot.
-settings-data-backup-header = Varmuuskopiointi
 settings-data-backup-toggle = Hallitse varmuuskopiointia
 settings-data-backup-toggle-on2 =
     .label = Ota varmuuskopiointi käyttöön
 settings-data-backup-toggle-off2 =
     .label = Poista varmuuskopiointi käytöstä
-settings-data-backup-toggle-on = Ota varmuuskopiointi käyttöön
-settings-data-backup-toggle-off = Poista varmuuskopiointi käytöstä
 settings-data-backup-trigger-button = Varmuuskopioi nyt
 settings-data-backup-in-progress-button = Varmuuskopiointi käynnissä…
 settings-data-backup-in-progress-message =
     .message = Varmuuskopiointi käynnissä…
-settings-data-backup-scheduled-backups-on = Varmuuskopiointi: PÄÄLLÄ
-settings-data-backup-scheduled-backups-off = Varmuuskopiointi: POIS
-settings-data-backup-scheduled-backups-description = Suojaa kirjanmerkit, historia ja muut tiedot automaattisesti. <a data-l10n-name="support-link">Lue lisää</a>
 settings-data-backup-last-backup-date = Viimeisin varmuuskopio: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Varmuuskopiointi on PÄÄLLÄ
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Varmuuskopioinnin sijainti
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Sijainti
 settings-data-backup-last-backup-location-show-in-folder = Näytä kansiossa
 settings-data-backup-last-backup-location-edit = Muokkaa…
 settings-data-create-backup-error = Varmuuskopion luomisessa { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } tapahtui virhe
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Palauta tietosi
     .description = Käytä { -brand-product-name }-varmuuskopiota toiselta laitteelta palauttaaksesi tietosi.
-settings-data-backup-restore-header = Palauta tietosi
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Palauta tiedot käyttämällä { -brand-product-name }-varmuuskopiota toiselta laitteelta.
-settings-data-backup-scheduled-backups-off-restore-choose = Valitse varmuuskopiotiedosto…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Palauta { -brand-product-name }-tiedot viimeisimmästä varmuuskopiosta.
-settings-data-backup-scheduled-backups-on-restore-choose = Palauta…
 settings-sensitive-data =
     .label = Arkaluontoiset tiedot
-settings-data-toggle-encryption-label = Varmuuskopioi arkaluontoiset tietosi
 settings-data-toggle-encryption-support-link = Lue lisää
 settings-data-change-password2 =
     .label = Vaihda salasana
-settings-data-change-password = Vaihda salasana…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Palauta tietosi
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Mitä palautetaan?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Tämä korvaa kaikki nykyiset { -brand-short-name }-tiedot varmuuskopiosi sisällöllä ajasta { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Mitä palautetaan?
-restore-from-backup-no-backup-file-link = Ongelmia varmuuskopion löytämisessä?
 restore-from-backup-filepicker-label = Varmuuskopiotiedosto
 restore-from-backup-filepicker-title = Valitse varmuuskopiotiedosto:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> luotu { DATETIME($date,
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Palautettu laitteen { $deviceName } varmuuskopiosta { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kello { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Luotu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } laitteella { $machineName }
 backup-file-restore-file-validation-error = Tämä tiedosto ei toimi. Kokeile valita toinen tiedosto. <a data-l10n-name="restore-problems">Onko ongelmia edelleen?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Tiedostoa ei ole valittu

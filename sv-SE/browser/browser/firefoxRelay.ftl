@@ -36,12 +36,10 @@ firefox-relay-dismiss =
     .accesskey = g
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Skydda din e-postadress:
-firefox-relay-opt-in-title-2 = Få ett gratis e-postalias
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Använd { -relay-brand-name } e-postalias
 firefox-relay-use-mask-title-1 = Använd ett e-postalias
-firefox-relay-opt-in-subtitle-2 = Skydda din inkorg från skräppost
 firefox-relay-use-mask-title = Använd { -relay-brand-name } e-postalias
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Förhindra skräppost med ett gratis e-postalias

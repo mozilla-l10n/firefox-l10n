@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = 选择第 { $page } 页
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = 选择第 { $page } 页
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = 第 { $page } / { $total } 页
@@ -638,12 +634,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = 打开/关闭侧栏
 pdfjs-toggle-views-manager-notification-button =
     .title = 打开/关闭侧栏（文档所含的缩略图/大纲/附件/图层）
 pdfjs-toggle-views-manager-button1-label = 管理页面
-pdfjs-toggle-views-manager-button-label = 打开/关闭侧栏
 pdfjs-views-manager-sidebar =
     .aria-label = 侧栏
 pdfjs-views-manager-sidebar-resizer =
@@ -654,11 +647,9 @@ pdfjs-views-manager-view-selector-button-label = 视图
 pdfjs-views-manager-pages-title = 页面
 pdfjs-views-manager-outlines-title1 = 文档大纲
     .title = 文档大纲（双击可展开/折叠所有项目）
-pdfjs-views-manager-outlines-title = 文档大纲
 pdfjs-views-manager-attachments-title = 附件
 pdfjs-views-manager-layers-title1 = 图层
     .title = 图层（双击可将所有图层重置为默认状态）
-pdfjs-views-manager-layers-title = 图层
 pdfjs-views-manager-pages-option-label = 页面
 pdfjs-views-manager-outlines-option-label = 文档大纲
 pdfjs-views-manager-attachments-option-label = 附件
@@ -675,7 +666,6 @@ pdfjs-views-manager-pages-status-copy-button-label = 复制
 pdfjs-views-manager-pages-status-cut-button-label = 剪切
 pdfjs-views-manager-pages-status-delete-button-label = 删除
 pdfjs-views-manager-pages-status-export-selected-button-label = 导出选中的页面…
-pdfjs-views-manager-pages-status-save-as-button-label = 另存为…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label = 已剪切 { $count } 页

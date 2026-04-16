@@ -342,6 +342,7 @@ newtab-custom-settings = Sefrek ugar n yiɣewwaṛen
 
 newtab-wallpaper-title = Tugniwin n ugilal
 newtab-wallpaper-reset = Wennez ɣer umezwer
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Sali n tugna
 newtab-wallpaper-custom-color = Fren ini
 newtab-wallpaper-toggle-title =
@@ -352,6 +353,7 @@ newtab-wallpaper-dark-mountain = Tugna n yidurar
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Initen imsariyen
 newtab-wallpaper-blue = Amidadi
 newtab-wallpaper-light-blue = Amidadi ifaw
@@ -523,7 +525,6 @@ newtab-widget-lists-menu-edit = Ẓreg isem tabdart
 newtab-widget-lists-menu-create = Rnu tabdart tamaynut
 newtab-widget-lists-menu-delete = Kkes tabdart-a
 newtab-widget-lists-menu-copy = Nɣel tabdart ɣer tecfawt
-newtab-widget-lists-menu-hide = Ffer akk tibdarin
 newtab-widget-lists-menu-learn-more = Issin ugar
 newtab-widget-lists-input-add-an-item =
     .placeholder = Rnu aferdis
@@ -546,7 +547,6 @@ newtab-widget-timer-reset =
     .title = Wennez
 newtab-widget-timer-menu-notifications = Sens ilɣa
 newtab-widget-timer-menu-notifications-on = Rmed ilɣa
-newtab-widget-timer-menu-hide = Ffer amakud
 newtab-widget-timer-menu-learn-more = Issin ugar
 newtab-promo-card-title = Allel { -brand-product-name }
 newtab-promo-card-cta = Issin ugar

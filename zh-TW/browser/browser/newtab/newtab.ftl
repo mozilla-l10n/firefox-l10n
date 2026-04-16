@@ -376,6 +376,7 @@ newtab-custom-settings = 管理更多設定
 
 newtab-wallpaper-title = 背景圖
 newtab-wallpaper-reset = 還原為預設值
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = 上傳圖片
 newtab-wallpaper-custom-color = 選擇色彩
 newtab-wallpaper-toggle-title =
@@ -402,6 +403,7 @@ newtab-wallpaper-light-fox-anniversary = 一隻在迷霧山景中的草原上的
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = 純色
 newtab-wallpaper-blue = 藍色
 newtab-wallpaper-light-blue = 淺藍色
@@ -508,7 +510,6 @@ newtab-weather-menu-temperature-option-fahrenheit = 華氏
 newtab-weather-menu-temperature-option-celsius = 攝氏
 newtab-weather-menu-change-temperature-units-fahrenheit = 切換為華氏溫度
 newtab-weather-menu-change-temperature-units-celsius = 切換為攝氏溫度
-newtab-weather-menu-hide-weather-v2 = 隱藏天氣資訊
 newtab-weather-menu-hide-weather = 隱藏新分頁的天氣資訊
 newtab-weather-menu-learn-more = 更多資訊
 newtab-weather-menu-detect-my-location = 偵測我的所在位置
@@ -695,7 +696,6 @@ newtab-widget-lists-menu-edit = 編輯清單名稱
 newtab-widget-lists-menu-create = 新增清單
 newtab-widget-lists-menu-delete = 刪除此清單
 newtab-widget-lists-menu-copy = 複製清單到剪貼簿
-newtab-widget-lists-menu-hide = 隱藏所有清單
 newtab-widget-lists-menu-learn-more = 更多資訊
 newtab-widget-lists-input-add-an-item =
     .placeholder = 新增項目
@@ -752,7 +752,6 @@ newtab-widget-timer-reset =
     .title = 重設
 newtab-widget-timer-menu-notifications = 關閉通知
 newtab-widget-timer-menu-notifications-on = 開啟通知
-newtab-widget-timer-menu-hide = 隱藏計時器
 newtab-widget-timer-menu-learn-more = 更多資訊
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = 頭條新聞

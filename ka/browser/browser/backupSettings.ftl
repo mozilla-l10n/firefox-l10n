@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }-მარქაფი
 settings-data-backup-header2 =
     .label = მარქაფი
     .description = თავისთავადი დაცვა სანიშნების, ისტორიისა და სხვა მონაცემების.
-settings-data-backup-header = მარქაფი
 settings-data-backup-toggle = მარქაფის მართვა
 settings-data-backup-toggle-on2 =
     .label = მარქაფის ჩართვა
 settings-data-backup-toggle-off2 =
     .label = მარქაფის გამორთვა
-settings-data-backup-toggle-on = მარქაფის ჩართვა
-settings-data-backup-toggle-off = მარქაფის გამორთვა
 settings-data-backup-trigger-button = დამარქაფება ახლავე
 settings-data-backup-in-progress-button = დამარქაფების მიმდინარეობა…
 settings-data-backup-in-progress-message =
     .message = დამარქაფება მიმდინარეობს…
-settings-data-backup-scheduled-backups-on = დამარქაფება: ᲩᲐᲠᲗ.
-settings-data-backup-scheduled-backups-off = დამარქაფება: ᲒᲐᲛᲝᲠᲗ.
-settings-data-backup-scheduled-backups-description = თავისთავად დაიცავით თქვენი სანიშნები, ისტორია და სხვა მონაცემები. <a data-l10n-name="support-link">ვრცლად</a>
 settings-data-backup-last-backup-date = ბოლო მარქაფი: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = დამარქაფება ᲩᲐᲠᲗ.
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = მარქაფის მდებარეობა
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = მდებარეობა
 settings-data-backup-last-backup-location-show-in-folder = ჩვენება საქაღალდეში
 settings-data-backup-last-backup-location-edit = ჩასწორება…
 settings-data-create-backup-error = შეცდომა წარმოიშვა მარქაფისას – { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = აღადგინეთ თქვენი მონაცემები
     .description = გამოიყენეთ { -brand-product-name } სხვა მოწყობილობაზე დამარქაფებისთვის და აქ შეძლებთ აღდგენას
-settings-data-backup-restore-header = თქვენი მონაცემების აღდგენა
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = გამოიყენეთ სხვა მოწყობილობის { -brand-product-name } მარქაფით მონაცემების აღსადგენად.
-settings-data-backup-scheduled-backups-off-restore-choose = სამარქაფო ფაილის არჩევა…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = აღადგინეთ წინათ დამარქაფებული მონაცემები, რომელსაც შეიცავდა { -brand-product-name }.
-settings-data-backup-scheduled-backups-on-restore-choose = აღდგენა…
 settings-sensitive-data =
     .label = საფრთხილო მონაცემები
-settings-data-toggle-encryption-label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
 settings-data-toggle-encryption-support-link = ვრცლად
 settings-data-change-password2 =
     .label = პაროლის შეცვლა
-settings-data-change-password = პაროლის შეცვლა…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = თქვენი მონაცემები�
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = რა აღდგება?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = შედეგად, ყველა თქვენი მიმდინარე მონაცემი, რომელსაც { -brand-short-name } შეიცავს, ჩანაცვლდება მონაცემებით თარიღიდან { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = რა აღდგება?
-restore-from-backup-no-backup-file-link = დაბრკოლება შეგექმნათ მარქაფის მოძიებისას?
 restore-from-backup-filepicker-label = სამარქაფო ფაილი
 restore-from-backup-filepicker-title = სამარქაფო ფაილის არჩევა:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> შექმნის �
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = აღდგენილია წყაროა { $deviceName } თარიღით { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } თარიღზე { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = შექმნის თარიღია { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, მოწყობილობა { $machineName }
 backup-file-restore-file-validation-error = ეს ფაილი გამოუსადეგარია. სცადეთ სხვა ფაილის არჩევა. <a data-l10n-name="restore-problems">კვლავ რამე დაბრკოლებაა?</a>
 restore-from-backup-filepicker-input =
     .placeholder = ფაილი არჩეული არაა

@@ -376,6 +376,7 @@ newtab-custom-settings = Gerer altere parametros
 
 newtab-wallpaper-title = Fundos
 newtab-wallpaper-reset = Restaurar le predefinition
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Incargar un imagine
 newtab-wallpaper-custom-color = Eliger un color
 newtab-wallpaper-toggle-title =
@@ -402,6 +403,7 @@ newtab-wallpaper-light-fox-anniversary = Un vulpe in un prato con un brumose pai
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colores unite
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Blau clar
@@ -508,7 +510,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Passar a Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Passar a Celsius
-newtab-weather-menu-hide-weather-v2 = Celar meteo
 newtab-weather-menu-hide-weather = Celar meteo sur Nove scheda
 newtab-weather-menu-learn-more = Pro saper plus
 newtab-weather-menu-detect-my-location = Deteger mi position
@@ -695,7 +696,6 @@ newtab-widget-lists-menu-edit = Modificar le nomine del lista
 newtab-widget-lists-menu-create = Crear un nove lista
 newtab-widget-lists-menu-delete = Deler iste lista
 newtab-widget-lists-menu-copy = Copiar lista al area de transferentia
-newtab-widget-lists-menu-hide = Celar tote le listas
 newtab-widget-lists-menu-learn-more = Pro saper plus
 newtab-widget-lists-input-add-an-item =
     .placeholder = Adder un elemento
@@ -752,7 +752,6 @@ newtab-widget-timer-reset =
     .title = Reinitialisar
 newtab-widget-timer-menu-notifications = Disactivar notificationes
 newtab-widget-timer-menu-notifications-on = Activar notificationes
-newtab-widget-timer-menu-hide = Celar temporisator
 newtab-widget-timer-menu-learn-more = Pro saper plus
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Titulos principal

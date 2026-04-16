@@ -2,13 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = స్థానం
 settings-data-backup-last-backup-location-show-in-folder = సంచయంలో చూపించు
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-choose = పునరుద్ధరించు…
 settings-data-toggle-encryption-support-link = ఇంకా తెలుసుకోండి
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.

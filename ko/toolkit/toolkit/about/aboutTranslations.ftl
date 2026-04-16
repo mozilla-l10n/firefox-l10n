@@ -11,10 +11,6 @@ about-translations-learn-more-link = 더 알아보기
 about-translations-unsupported-info-message-2 =
     .heading = 이 기기에서는 번역을 사용할 수 없습니다
     .message = 다른 기기로 전환해 보세요.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = 이 기기에서는 번역을 사용할 수 없습니다.
-    .message = 다른 기기로 전환해 보세요.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = 이 조직에서는 번역을 사용할 수 없습니다.
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = 차단 해제
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = 언어를 로드할 수 없음
-    .message = 인터넷 연결을 확인하고 다시 시도하세요.
-about-translations-unsupported-info-button = 더 알아보기
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = 언어를 로드할 수 없음.
     .message = 인터넷 연결을 확인하고 다시 시도하세요.
 about-translations-language-load-error-button = 다시 시도
 # An error message displayed when a translation request fails.

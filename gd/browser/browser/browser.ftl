@@ -654,9 +654,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Mus cleachd thu ath-ghoirid F12, feumaidh tu DevTools fhosgladh le clàr-taice innealan a’ bhrabhsair.

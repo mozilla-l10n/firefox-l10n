@@ -301,6 +301,7 @@ newtab-custom-settings = Gerir mai de paramètres
 
 newtab-wallpaper-title = Fonzes
 newtab-wallpaper-reset = Reïnicializar
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Enviar un imatge
 newtab-wallpaper-toggle-title =
     .label = Fonzes
@@ -310,6 +311,7 @@ newtab-wallpaper-light-color = Fòrmas blavas, ròsas e jaunas
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colors unidas
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Blau clar

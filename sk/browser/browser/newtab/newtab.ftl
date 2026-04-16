@@ -378,6 +378,7 @@ newtab-custom-settings = Ďalšie nastavenia
 
 newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnoviť predvolenú tapetu
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Nahrať obrázok
 newtab-wallpaper-custom-color = Zvoľte farbu
 newtab-wallpaper-toggle-title =
@@ -404,6 +405,7 @@ newtab-wallpaper-light-fox-anniversary = Líška na trávnatom poli so zahmlenou
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Plné farby
 newtab-wallpaper-blue = Modrá
 newtab-wallpaper-light-blue = Svetlomodrá
@@ -510,7 +512,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzius
 newtab-weather-menu-change-temperature-units-fahrenheit = Prepnúť na stupne Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Prepnite na stupne Celzia
-newtab-weather-menu-hide-weather-v2 = Skryť počasie
 newtab-weather-menu-hide-weather = Skryť počasie na novej karte
 newtab-weather-menu-learn-more = Ďalšie informácie
 newtab-weather-menu-detect-my-location = Zistiť moju polohu
@@ -697,7 +698,6 @@ newtab-widget-lists-menu-edit = Upraviť názov zoznamu
 newtab-widget-lists-menu-create = Vytvoriť nový zoznam
 newtab-widget-lists-menu-delete = Odstrániť tento zoznam
 newtab-widget-lists-menu-copy = Kopírovať zoznam do schránky
-newtab-widget-lists-menu-hide = Skryť všetky zoznamy
 newtab-widget-lists-menu-learn-more = Ďalšie informácie
 newtab-widget-lists-input-add-an-item =
     .placeholder = Pridať položku
@@ -754,7 +754,6 @@ newtab-widget-timer-reset =
     .title = Vynulovať
 newtab-widget-timer-menu-notifications = Vypnúť upozornenia
 newtab-widget-timer-menu-notifications-on = Zapnúť upozornenia
-newtab-widget-timer-menu-hide = Skryť časovač
 newtab-widget-timer-menu-learn-more = Ďalšie informácie
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Najlepšie titulky

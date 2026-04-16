@@ -376,6 +376,7 @@ newtab-custom-settings = Administri aliajn agordojn
 
 newtab-wallpaper-title = Ekranfonoj
 newtab-wallpaper-reset = Reŝargi normajn valorojn
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Alŝuti bildon
 newtab-wallpaper-custom-color = Elekti koloron
 newtab-wallpaper-toggle-title =
@@ -402,6 +403,7 @@ newtab-wallpaper-light-fox-anniversary = Vulpo sur herbejo kun nebula pejzaĝo m
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Solidaj koloroj
 newtab-wallpaper-blue = Blua
 newtab-wallpaper-light-blue = Helblua
@@ -508,7 +510,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Ŝanĝi al Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Ŝanĝi al Celsius
-newtab-weather-menu-hide-weather-v2 = Kaŝi veterprognozon
 newtab-weather-menu-hide-weather = Kaŝi veteron en nova langeto
 newtab-weather-menu-learn-more = Pli da informo
 newtab-weather-menu-detect-my-location = Trovi mian pozicion
@@ -695,7 +696,6 @@ newtab-widget-lists-menu-edit = Modifi nomon de listo
 newtab-widget-lists-menu-create = Krei novan liston
 newtab-widget-lists-menu-delete = Forigi tiun ĉi liston
 newtab-widget-lists-menu-copy = Kopii liston al tondujo
-newtab-widget-lists-menu-hide = Kaŝi ĉiujn listojn
 newtab-widget-lists-menu-learn-more = Pli da informo
 newtab-widget-lists-input-add-an-item =
     .placeholder = Aldoni elementon
@@ -752,7 +752,6 @@ newtab-widget-timer-reset =
     .title = Rekomenci
 newtab-widget-timer-menu-notifications = Malŝalti sciigojn
 newtab-widget-timer-menu-notifications-on = Ŝalti sciigojn
-newtab-widget-timer-menu-hide = Kaŝi tempumilon
 newtab-widget-timer-menu-learn-more = Pli da informo
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Ĉefaj titoloj

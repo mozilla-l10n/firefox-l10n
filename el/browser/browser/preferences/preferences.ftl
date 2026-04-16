@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Εμφάνιση προειδοποίησης όταν οι ιστότοποι προσπαθούν να εγκαταστήσουν επεκτάσεις
     .accesskey = φ
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Διαχείριση εξαιρέσεων αναδυόμενων παραθύρων και ανακατευθύνσεων τρίτων
-    .accesskey = ε
-    .searchkeywords = αναδυόμενα
 permissions-addon-exceptions2 =
     .label = Επιλέξτε ποιοι ιστότοποι μπορούν να εγκαθιστούν επεκτάσεις
     .accesskey = Ε

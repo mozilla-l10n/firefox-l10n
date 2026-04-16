@@ -22,21 +22,15 @@ backup-file-name = Sigurnosna kopija za { -brand-product-name }
 settings-data-backup-header2 =
     .label = Sigurnosna kopija
     .description = Automatski zaštiti svoje oznake, povijest i ostale podatke.
-settings-data-backup-header = Sigurnosno kopiranje
 settings-data-backup-toggle = Upravljaj sigurnosnim kopijama
 settings-data-backup-toggle-on2 =
     .label = Uključi sigurnosno kopiranje
 settings-data-backup-toggle-off2 =
     .label = Isključi sigurnosno kopiranje
-settings-data-backup-toggle-on = Uključi sigurnosno kopiranje
-settings-data-backup-toggle-off = Isključi sigurnosno kopiranje
 settings-data-backup-trigger-button = Izradi sigurnosnu kopiju sada
 settings-data-backup-in-progress-button = Sigurnosno kopiranje je u tijeku …
 settings-data-backup-in-progress-message =
     .message = Sigurnosno kopiranje je u tijeku …
-settings-data-backup-scheduled-backups-on = Sigurnosno kopiranje: UKLJUČENO
-settings-data-backup-scheduled-backups-off = Sigurnosno kopiranje: ISKLJUČENO
-settings-data-backup-scheduled-backups-description = Automatski zaštiti svoje zabilješke, povijest i druge podatke. <a data-l10n-name="support-link">Saznaj više</a>
 settings-data-backup-last-backup-date = Zadnja sigurnosna kopija: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Sigurnosno kopiranje je UKLJUČENO
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Mjesto sigurnosnih kopija
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Mjesto
 settings-data-backup-last-backup-location-show-in-folder = Prikaži u mapi
 settings-data-backup-last-backup-location-edit = Uredi …
 settings-data-create-backup-error = Greška tijekom sigurnosnog kopiranja: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Obnovi svoje podatke
     .description = Za obnavljanje podataka koristi { -brand-product-name } sigurnosnu kopiju s jednog drugog uređaja.
-settings-data-backup-restore-header = Obnovi svoje podatke
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Koristi sigurnosnu kopiju { -brand-product-name(case: "gen") } s drugog uređaja za obnavljanje tvojih podataka.
-settings-data-backup-scheduled-backups-off-restore-choose = Odaberi datoteku sigurnosne kopije …
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Obnovi podatke { -brand-product-name(case: "gen") } pomoću zadnje sigurnosne kopije.
-settings-data-backup-scheduled-backups-on-restore-choose = Obnovi …
 settings-sensitive-data =
     .label = Osjetljivi podaci
-settings-data-toggle-encryption-label = Sigurnosno kopiraj svoje osjetljive podatke
 settings-data-toggle-encryption-support-link = Saznaj više
 settings-data-change-password2 =
     .label = Promijeni lozinku
-settings-data-change-password = Promijeni lozinku …
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Obnovi svoje podatke
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Što će se obnoviti?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Ovo će zamijeniti sve tvoje trenutačne podatke { -brand-short-name(case: "gen") } sa sigurnosnom kopijom od { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Što će se obnoviti?
-restore-from-backup-no-backup-file-link = Ne možeš pronaći svoju sigurnosnu kopiju?
 restore-from-backup-filepicker-label = Datoteka sigurnosne kopije
 restore-from-backup-filepicker-title = Odaberi datoteku sigurnosne kopije:
 restore-from-backup-file-choose-button =
@@ -284,10 +259,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> stvoreno { DATETIME($da
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Obnovljeno s uređaja { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } u { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Stvoreno { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } na { $machineName }
 backup-file-restore-file-validation-error = Ova datoteka ne radi. Pokušaj s drugom datotekom. <a data-l10n-name="restore-problems">I dalje imaš probleme?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nijedna datoteka nije odabrana

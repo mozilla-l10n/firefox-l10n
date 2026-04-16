@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Sử dụng VPN cho trang web này
     .aria-label = Đã tắt VPN cho trang web này
-site-exclusion-toggle-label = Sử dụng VPN cho trang web này
-site-exclusion-toggle-enabled =
-    .aria-label = Đã bật VPN cho trang web này
-site-exclusion-toggle-disabled =
-    .aria-label = Đã tắt VPN cho trang web này
 ipprotection-settings-link =
     .label = Cài đặt
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = VPN được tích hợp sẵn giúp tăng cường quyền riêng tư khi duyệt web trên { -brand-short-name }.
 ip-protection-learn-more = Tìm hiểu thêm
-ip-protection-site-exceptions =
-    .label = Cài đặt trang web cụ thể
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -167,7 +160,6 @@ ip-protection-exclusions-desc = Sử dụng VPN cho tất cả các trang web ng
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Dữ liệu VPN hàng tháng
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

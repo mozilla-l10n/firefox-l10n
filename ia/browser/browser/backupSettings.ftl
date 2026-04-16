@@ -22,21 +22,15 @@ backup-file-name = Salveguarda de { -brand-product-name }
 settings-data-backup-header2 =
     .label = Copia de securitate
     .description = Automaticamente protege tu marcapaginas, chronologia, e altere datos.
-settings-data-backup-header = Copia de securitate
 settings-data-backup-toggle = Gerer copia de securitate
 settings-data-backup-toggle-on2 =
     .label = Activar copia de securitate
 settings-data-backup-toggle-off2 =
     .label = Disactivar copia de securitate
-settings-data-backup-toggle-on = Activar copia de securitate
-settings-data-backup-toggle-off = Disactivar copia de securitate
 settings-data-backup-trigger-button = Salveguardar ora
 settings-data-backup-in-progress-button = Copia de securitate in progresso…
 settings-data-backup-in-progress-message =
     .message = Copia de securitate in progresso…
-settings-data-backup-scheduled-backups-on = Copia de securitate: ACTIVATE
-settings-data-backup-scheduled-backups-off = Copia de securitate: DISACTIVATE
-settings-data-backup-scheduled-backups-description = Automaticamente protege tu marcapaginas, chronologia, e altere datos. <a data-l10n-name="support-link">Pro saper plus</a>
 settings-data-backup-last-backup-date = Ultime copia de securitate: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Le function Copia de securitate es ACTIVE
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Posto del copia de reserva
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Position
 settings-data-backup-last-backup-location-show-in-folder = Monstrar in plica
 settings-data-backup-last-backup-location-edit = Modificar…
 settings-data-create-backup-error = Il habeva un error creante tu salveguarda le { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Restaura tu datos
     .description = Usa un copia de securitate de { -brand-product-name } ab un altere apparato pro restaurar tu datos.
-settings-data-backup-restore-header = Restaurar tu datos
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Usa un copia de securitate de { -brand-product-name } ab un altere apparato pro restaurar tu datos.
-settings-data-backup-scheduled-backups-off-restore-choose = Elige un copia de securitate…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recupera tu datos de { -brand-product-name } ab le ultime vice que illos era salveguardate.
-settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-sensitive-data =
     .label = Datos sensibile
-settings-data-toggle-encryption-label = Salveguarda tu datos sensibile
 settings-data-toggle-encryption-support-link = Pro saper plus
 settings-data-change-password2 =
     .label = Cambiar contrasigno
-settings-data-change-password = Cambiar contrasigno…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Restaurar tu datos
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Que sera restaurate?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Isto substituera tote tu datos actual de { -brand-short-name } con tu salveguarda del { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Que sera restaurate?
-restore-from-backup-no-backup-file-link = Ha tu problemas a trovar tu copia de securitate?
 restore-from-backup-filepicker-label = File de copia de securitate
 restore-from-backup-filepicker-title = Eliger file de copia de securitate:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> create le { DATETIME($d
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Restaurate ab { $deviceName } le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } al { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Create le { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sur { $machineName }
 backup-file-restore-file-validation-error = Iste file non functiona. Tenta eliger un altere file. <a data-l10n-name="restore-problems">Ancora problemas?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Necun file seligite

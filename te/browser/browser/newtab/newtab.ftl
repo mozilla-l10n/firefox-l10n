@@ -267,6 +267,7 @@ newtab-custom-close-button = మూసివేయి
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = నిండు రంగులు
 newtab-wallpaper-blue = నీలం
 newtab-wallpaper-light-blue = లేత నీలం

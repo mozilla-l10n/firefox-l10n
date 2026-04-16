@@ -647,9 +647,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Poista jakamisen suojaus tästä istunnosta
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Käyttääksesi F12-pikanäppäintä, avaa ensin DevTools selaimen työkaluvalikosta.

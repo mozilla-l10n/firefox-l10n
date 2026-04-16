@@ -2044,12 +2044,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Dangos rhybudd pan fydd gwefannau'n ceisio gosod estyniadau
     .accesskey = r
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Rheoli eithriadau ailgyfeirio llamlenni a thrydydd parti
-    .accesskey = R
-    .searchkeywords = llamlenni
 permissions-addon-exceptions2 =
     .label = Dewis pa wefannau all osod estyniadau
     .accesskey = D

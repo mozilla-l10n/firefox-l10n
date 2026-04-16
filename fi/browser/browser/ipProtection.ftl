@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Käytä VPN:ää tällä sivustolla
     .aria-label = VPN ei ole käytössä tällä sivustolla
-site-exclusion-toggle-label = Käytä VPN:ää tällä sivustolla
-site-exclusion-toggle-enabled =
-    .aria-label = VPN on käytössä tällä sivustolla
-site-exclusion-toggle-disabled =
-    .aria-label = VPN ei ole käytössä tällä sivustolla
 ipprotection-settings-link =
     .label = Asetukset
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Sisäänrakennettu VPN yksityisyyden lisäämiseksi { -brand-short-name }illa selatessa.
 ip-protection-learn-more = Lue lisää
-ip-protection-site-exceptions =
-    .label = Sivustokohtaiset asetukset
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = Käytä VPN:ää kaikille muille paitsi tällä 
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Kuukausittainen VPN-data
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

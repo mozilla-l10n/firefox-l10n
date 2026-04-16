@@ -642,9 +642,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = 在本次会话期间禁用共享保护
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = 要使用 F12 快捷键，请先由“浏览器工具”菜单打开开发者工具。

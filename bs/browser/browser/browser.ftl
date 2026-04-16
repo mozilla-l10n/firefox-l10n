@@ -632,9 +632,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Onemogućite zaštitu dijeljenja za ovu sesiju
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Da biste koristili prečicu F12, prvo otvorite Alate za programere preko menija Alati pretraživača.
@@ -1471,9 +1468,6 @@ trustpanel-blocker-see-all = Vidi sve
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaštita od praćenja za { $host }
-
-## The urlbar trust icon & panel
-
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

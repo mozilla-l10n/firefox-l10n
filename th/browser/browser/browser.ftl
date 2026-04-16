@@ -639,9 +639,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ปิดใช้งานการป้องกันการแบ่งปันในวาระนี้
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = ถ้าต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์

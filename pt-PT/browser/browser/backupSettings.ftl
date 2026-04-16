@@ -22,21 +22,15 @@ backup-file-name = Copia_de_seguranca_{ -brand-product-name }
 settings-data-backup-header2 =
     .label = Cópia de segurança
     .description = Proteja automaticamente seus marcadores, histórico e outros dados.
-settings-data-backup-header = Cópia de segurança
 settings-data-backup-toggle = Gerir cópia de segurança
 settings-data-backup-toggle-on2 =
     .label = Ativar a cópia de segurança
 settings-data-backup-toggle-off2 =
     .label = Desativar a cópia de segurança
-settings-data-backup-toggle-on = Ativar a cópia de segurança
-settings-data-backup-toggle-off = Desativar a cópia de segurança
 settings-data-backup-trigger-button = Fazer cópia agora
 settings-data-backup-in-progress-button = Cópia de segurança em progresso…
 settings-data-backup-in-progress-message =
     .message = Cópia de segurança em progresso…
-settings-data-backup-scheduled-backups-on = Cópia de segurança: ATIVADA
-settings-data-backup-scheduled-backups-off = Cópia de segurança: DESATIVADA
-settings-data-backup-scheduled-backups-description = Proteja automaticamente os seus marcadores, histórico e outros dados. <a data-l10n-name="support-link">Saber mais</a>
 settings-data-backup-last-backup-date = Última cópia de segurança: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = A cópia de segurança está ATIVADA
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Localização da cópia de segurança
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Localização
 settings-data-backup-last-backup-location-show-in-folder = Mostrar na pasta
 settings-data-backup-last-backup-location-edit = Editar…
 settings-data-create-backup-error = Ocorreu um erro ao criar a sua cópia de segurança em { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Restaurar os seus dados
     .description = Utilize uma cópia de segurança do { -brand-product-name } de outro dispositivo para restaurar seus dados.
-settings-data-backup-restore-header = Restaurar os seus dados
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Utilize uma cópia de segurança do { -brand-product-name } de outro dispositivo para restaurar os seus dados.
-settings-data-backup-scheduled-backups-off-restore-choose = Escolher o ficheiro da cópia de segurança…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recupere os seus dados de { -brand-product-name } da última vez que fez uma cópia de segurança.
-settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-sensitive-data =
     .label = Dados sensíveis
-settings-data-toggle-encryption-label = Efetue uma cópia de segurança dos seus dados sensíveis
 settings-data-toggle-encryption-support-link = Saber mais
 settings-data-change-password2 =
     .label = Alterar palavra-passe
-settings-data-change-password = Alterar a palavra-passe…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Restaurar os seus dados
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = O que será restaurado?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Isto irá substituir todos os seus dados atuais do { -brand-short-name } com os seus dados da cópia de segurança de { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = O que será restaurado?
-restore-from-backup-no-backup-file-link = Está a ter problemas em encontrar a sua cópia de segurança?
 restore-from-backup-filepicker-label = Ficheiro da cópia de segurança
 restore-from-backup-filepicker-title = Escolher ficheiro da cópia de segurança:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> criado em { DATETIME($d
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Restaurada de { $deviceName } a { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } às { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Criada a { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } em { $machineName }
 backup-file-restore-file-validation-error = Este ficheiro não está a funcionar. Tente escolher um ficheiro diferente. <a data-l10n-name="restore-problems">Ainda tem problemas?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nenhum ficheiro selecionado

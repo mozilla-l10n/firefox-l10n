@@ -11,10 +11,6 @@ about-translations-learn-more-link = További tudnivalók
 about-translations-unsupported-info-message-2 =
     .heading = A fordítás nem érhető el ezen az eszközön
     .message = Próbáljon meg egy másik eszközre váltani.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = A fordítás nem érhető el ezen az eszközön.
-    .message = Próbáljon meg egy másik eszközre váltani.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = A fordítások nem érhetők el az Ön szervezeténél
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Feloldás
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = A nyelvek betöltése sikertelen
-    .message = Ellenőrizze az internetkapcsolatát, és próbálja meg újra.
-about-translations-unsupported-info-button = További tudnivalók
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = A nyelvek betöltése sikertelen.
     .message = Ellenőrizze az internetkapcsolatát, és próbálja meg újra.
 about-translations-language-load-error-button = Próbálja újra
 # An error message displayed when a translation request fails.

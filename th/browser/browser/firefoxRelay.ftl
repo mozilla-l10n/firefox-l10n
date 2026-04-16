@@ -32,12 +32,10 @@ firefox-relay-dismiss =
     .accesskey = ล
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = ปกป้องที่อยู่อีเมลของคุณ:
-firefox-relay-opt-in-title-2 = รับตัวปกปิดอีเมลฟรี
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
 firefox-relay-use-mask-title-1 = ใช้ตัวปกปิดอีเมล
-firefox-relay-opt-in-subtitle-2 = ป้องกันกล่องจดหมายของคุณจากสแปม
 firefox-relay-use-mask-title = ใช้ตัวปกปิดอีเมลของ { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = ป้องกันสแปมด้วยตัวปกปิดอีเมลฟรี

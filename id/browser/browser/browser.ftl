@@ -634,9 +634,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Nonaktifkan perlindungan berbagi untuk sesi ini.
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Untuk menggunakan pintasan F12, pertama-tama, buka DevTools melalui menu Alat Peramban.

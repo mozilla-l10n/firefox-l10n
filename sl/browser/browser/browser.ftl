@@ -655,9 +655,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Onemogoči deljenje zaščite za to sejo
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Za uporabo bližnjice F12 prvič odprite razvojna orodja iz menija Orodja brskalnika.

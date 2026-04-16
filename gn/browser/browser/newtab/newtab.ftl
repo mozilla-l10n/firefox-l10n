@@ -379,6 +379,7 @@ newtab-custom-settings = Eñangareko hetave ñembohekóre
 
 newtab-wallpaper-title = Mba’erechaha rugua
 newtab-wallpaper-reset = Emoñerũjey ypyguáramo
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Ehupi peteĩ ta’ãnga
 newtab-wallpaper-custom-color = Eiporavo peteĩ sa’y
 newtab-wallpaper-toggle-title =
@@ -405,6 +406,7 @@ newtab-wallpaper-light-fox-anniversary = Aguara ñu mbyte ikapi’ipéva ojehech
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Sa’y ipeteĩva
 newtab-wallpaper-blue = Hovy
 newtab-wallpaper-light-blue = Hovy kamgy
@@ -511,7 +513,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Eva Fahrenheit ndive
 newtab-weather-menu-change-temperature-units-celsius = Eva Celsius ndive
-newtab-weather-menu-hide-weather-v2 = Eñomi arapytu
 newtab-weather-menu-hide-weather = Eñomi arareko Tendayke Pyahúpe
 newtab-weather-menu-learn-more = Eikuaave
 newtab-weather-menu-detect-my-location = Ehecha che rendaite
@@ -698,7 +699,6 @@ newtab-widget-lists-menu-edit = Embosako’i tysýi réra
 newtab-widget-lists-menu-create = Emoheñói tysýi pyahu
 newtab-widget-lists-menu-delete = Embogue ko tysýi
 newtab-widget-lists-menu-copy = Embohasa tysýi kuatiajokohápe
-newtab-widget-lists-menu-hide = Eñomimba umi tysýi
 newtab-widget-lists-menu-learn-more = Eikuaave
 newtab-widget-lists-input-add-an-item =
     .placeholder = Embojuaju jehaipy
@@ -755,7 +755,6 @@ newtab-widget-timer-reset =
     .title = Mbojevyjey
 newtab-widget-timer-menu-notifications = Eipe’a ñemomarandu
 newtab-widget-timer-menu-notifications-on = Emyandy marandu’i
-newtab-widget-timer-menu-hide = Eñomi aravopapaha
 newtab-widget-timer-menu-learn-more = Kuaave
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Marandu mba’eguasuvéva

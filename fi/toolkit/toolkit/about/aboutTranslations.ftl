@@ -11,10 +11,6 @@ about-translations-learn-more-link = Lue lisää
 about-translations-unsupported-info-message-2 =
     .heading = Käännöstoiminnallisuus ei ole saatavilla tällä laitteella
     .message = Kokeile vaihtaa toiseen laitteeseen.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Käännöstoiminnallisuus ei ole saatavilla tällä laitteella.
-    .message = Kokeile vaihtaa toiseen laitteeseen.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Käännökset eivät ole käytettävissä organisaatiossasi
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Poista esto
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Kielten lataus epäonnistui
-    .message = Tarkista internetyhteys ja yritä uudelleen.
-about-translations-unsupported-info-button = Lue lisää
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Kielten lataus epäonnistui.
     .message = Tarkista internetyhteys ja yritä uudelleen.
 about-translations-language-load-error-button = Yritä uudelleen
 # An error message displayed when a translation request fails.

@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = გამოიყენოს VPN ამ საიტზე
     .aria-label = VPN გამორთულია ამ საიტზე
-site-exclusion-toggle-label = გამოიყენოს VPN ამ საიტზე
-site-exclusion-toggle-enabled =
-    .aria-label = VPN ჩართულია ამ საიტზე
-site-exclusion-toggle-disabled =
-    .aria-label = VPN გამორთულია ამ საიტზე
 ipprotection-settings-link =
     .label = პარამეტრები
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = ჩაშენებული VPN, რომლითაც { -brand-short-name } კიდევ უფრო მეტად იცავს თქვენს პირადულობას გვერდების მონახულებისას.
 ip-protection-learn-more = ვრცლად
-ip-protection-site-exceptions =
-    .label = ცალკეული საიტის პარამეტრები
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = გამოიყენეთ VPN ყველ�
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = ყოველთვიური VPN-მოცულობა
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

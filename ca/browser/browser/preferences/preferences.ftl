@@ -2012,12 +2012,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Mostra un avís quan els llocs web intentin instal·lar extensions
     .accesskey = w
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Gestiona les excepcions de finestres emergents i redirecció de tercers
-    .accesskey = e
-    .searchkeywords = popup,pop-up
 permissions-addon-exceptions2 =
     .label = Tria quins llocs web poden instal·lar extensions
     .accesskey = e

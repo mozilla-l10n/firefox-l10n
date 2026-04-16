@@ -646,9 +646,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Per utilisar la cumbinaziun da tastas F12, l'emprim avrir ils utensils per sviluppaders via il menu «Utensils dal navigatur».

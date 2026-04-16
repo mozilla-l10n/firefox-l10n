@@ -11,10 +11,6 @@ about-translations-learn-more-link = Dalšne informacije
 about-translations-unsupported-info-message-2 =
     .heading = Pśełožk njejo k dispoziciji na toś tom rěźe
     .message = Wopytajśo drugi rěd wužywaś.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Pśełožk njejo k dispoziciji na toś tom rěźe.
-    .message = Wopytajśo drugi rěd wužywaś.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Pśełožki njejsu k dispoziciji za wašu organizaciju
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Wěcej njeblokěrowaś
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Rěcy njedaju se zacytaś
-    .message = Pśeglědajśo swój internetny zwisk a wopytajśo hyšći raz.
-about-translations-unsupported-info-button = Dalšne informacije
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Rěcy njedaju se zacytaś.
     .message = Pśeglědajśo swój internetny zwisk a wopytajśo hyšći raz.
 about-translations-language-load-error-button = Hyšći raz wopytaś
 # An error message displayed when a translation request fails.

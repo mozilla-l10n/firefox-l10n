@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = 이 사이트에 VPN 사용
     .aria-label = 이 사이트에서 VPN이 꺼짐
-site-exclusion-toggle-label = 이 사이트에 VPN 사용
-site-exclusion-toggle-enabled =
-    .aria-label = 이 사이트에서 VPN이 켜짐
-site-exclusion-toggle-disabled =
-    .aria-label = 이 사이트에서 VPN이 꺼짐
 ipprotection-settings-link =
     .label = 설정
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = { -brand-short-name }에서 검색하는 동안 개인정보 보호를 강화하는 VPN이 내장되어 있습니다.
 ip-protection-learn-more = 더 알아보기
-ip-protection-site-exceptions =
-    .label = 사이트별 설정
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -167,7 +160,6 @@ ip-protection-exclusions-desc = 이 목록에 있는 웹 사이트를 제외한 
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = 월간 VPN 데이터
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

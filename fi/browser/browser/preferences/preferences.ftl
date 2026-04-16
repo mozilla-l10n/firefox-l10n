@@ -2032,12 +2032,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Näytä varoitus, kun verkkosivustot yrittävät asentaa laajennuksia
     .accesskey = v
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Hallitse ponnahdusikkunoiden ja kolmannen osapuolen uudelleenohjausten poikkeuksia
-    .accesskey = e
-    .searchkeywords = ponnahdusikkunat
 permissions-addon-exceptions2 =
     .label = Valitse, mitkä verkkosivustot voivat asentaa laajennuksia
     .accesskey = a

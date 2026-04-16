@@ -11,10 +11,6 @@ about-translations-learn-more-link = Подробнее
 about-translations-unsupported-info-message-2 =
     .heading = Перевод недоступен на этом устройстве
     .message = Попробуйте перейти на другое устройство.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Перевод недоступен на этом устройстве.
-    .message = Попробуйте перейти на другое устройство.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Переводы для вашей организации недоступны
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Разблокировать
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Не удалось загрузить языки
-    .message = Проверьте ваше интернет-соединение и попробуйте снова.
-about-translations-unsupported-info-button = Подробнее
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Не удалось загрузить языки.
     .message = Проверьте ваше интернет-соединение и попробуйте снова.
 about-translations-language-load-error-button = Попробовать снова
 # An error message displayed when a translation request fails.

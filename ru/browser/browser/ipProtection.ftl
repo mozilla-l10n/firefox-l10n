@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Использовать VPN для этого сайта
     .aria-label = VPN для этого сайта отключён
-site-exclusion-toggle-label = Использовать VPN для этого сайта
-site-exclusion-toggle-enabled =
-    .aria-label = VPN для этого сайта включён
-site-exclusion-toggle-disabled =
-    .aria-label = VPN для этого сайта отключён
 ipprotection-settings-link =
     .label = Настройки
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Встроенный VPN для повышения приватности при веб-сёрфинге на { -brand-short-name }
 ip-protection-learn-more = Подробнее
-ip-protection-site-exceptions =
-    .label = Настройки для конкретных сайтов
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -172,7 +165,6 @@ ip-protection-exclusions-desc = Использовать VPN для всех в�
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Ежемесячные данные VPN
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

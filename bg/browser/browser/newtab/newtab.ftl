@@ -362,6 +362,7 @@ newtab-custom-settings = Настройки
 
 newtab-wallpaper-title = Тапети
 newtab-wallpaper-reset = Връщане на стандартни настройки
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Качване на изображение
 newtab-wallpaper-custom-color = Изберете цвят
 newtab-wallpaper-toggle-title =
@@ -385,6 +386,7 @@ newtab-wallpaper-dark-city = Лилав градски пейзаж
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Едноцветни
 newtab-wallpaper-blue = Синьо
 newtab-wallpaper-light-blue = Светлосиньо

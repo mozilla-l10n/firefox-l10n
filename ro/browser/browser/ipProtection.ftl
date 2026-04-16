@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Activează VPN-ul pentru acest site
     .aria-label = VPN-ul este dezactivat pentru acest site
-site-exclusion-toggle-label = Activează VPN-ul pentru acest site
-site-exclusion-toggle-enabled =
-    .aria-label = VPN-ul este activat pentru acest site
-site-exclusion-toggle-disabled =
-    .aria-label = VPN-ul este dezactivat pentru acest site
 ipprotection-settings-link =
     .label = Setări
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = VPN încorporat, care îți sporește intimitatea în timp ce navighezi pe { -brand-short-name }
 ip-protection-learn-more = Află mai multe
-ip-protection-site-exceptions =
-    .label = Setări specifice site-ului
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -172,7 +165,6 @@ ip-protection-exclusions-desc = Folosește VPN pe toate site-urile web, cu excep
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Date VPN lunare
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

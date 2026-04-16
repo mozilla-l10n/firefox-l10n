@@ -342,6 +342,7 @@ newtab-custom-settings = Upravljajte više postavki
 
 newtab-wallpaper-title = Pozadine
 newtab-wallpaper-reset = Vrati na izvorno
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Učitaj sliku
 newtab-wallpaper-custom-color = Izaberite boju
 newtab-wallpaper-toggle-title =
@@ -367,6 +368,7 @@ newtab-wallpaper-light-fox-anniversary = Lisica u travnatom polju sa maglovitim 
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Čvrste boje
 newtab-wallpaper-blue = Plava
 newtab-wallpaper-light-blue = Svijetlo plava

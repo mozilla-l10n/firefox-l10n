@@ -375,6 +375,7 @@ newtab-custom-settings = Gestionează mai multe setări
 
 newtab-wallpaper-title = Imagini de fundal
 newtab-wallpaper-reset = Resetează la valorile implicite
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Încarcă o imagine
 newtab-wallpaper-custom-color = Alege o culoare
 newtab-wallpaper-toggle-title =
@@ -401,6 +402,7 @@ newtab-wallpaper-light-fox-anniversary = O vulpe într-un câmp ierbos cu un pei
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Culori uni
 newtab-wallpaper-blue = Albastru
 newtab-wallpaper-light-blue = Albastru deschis
@@ -507,7 +509,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Treci pe Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Treci pe Celsius
-newtab-weather-menu-hide-weather-v2 = Ascunde vremea
 newtab-weather-menu-hide-weather = Ascunde vremea în fila nouă
 newtab-weather-menu-learn-more = Află mai multe
 newtab-weather-menu-detect-my-location = Detectează-mi locația
@@ -681,7 +682,6 @@ newtab-widget-lists-menu-edit = Editează denumirea listei
 newtab-widget-lists-menu-create = Creează o listă nouă
 newtab-widget-lists-menu-delete = Șterge lista
 newtab-widget-lists-menu-copy = Copiază lista în clipboard
-newtab-widget-lists-menu-hide = Ascunde toate listele
 newtab-widget-lists-menu-learn-more = Află mai multe
 newtab-widget-lists-input-add-an-item =
     .placeholder = Adaugă un element
@@ -734,7 +734,6 @@ newtab-widget-timer-reset =
     .title = Resetează
 newtab-widget-timer-menu-notifications = Oprește notificările
 newtab-widget-timer-menu-notifications-on = Activează notificările
-newtab-widget-timer-menu-hide = Ascunde cronometrul
 newtab-widget-timer-menu-learn-more = Află mai multe
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Titluri principale

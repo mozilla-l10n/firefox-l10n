@@ -646,9 +646,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Freigabeschutz für diese Sitzung deaktivieren
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Um die F12-Tastenkombination einzusetzen, müssen die Entwicklerwerkzeuge einmalig über das Menü "Browser-Werkzeuge" geöffnet werden.

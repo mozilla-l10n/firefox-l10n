@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Visa varning när webbplatser försöker installera tillägg
     .accesskey = V
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Hantera popup- och omdirigeringsundantag från tredje part
-    .accesskey = H
-    .searchkeywords = popup-fönster
 permissions-addon-exceptions2 =
     .label = Välj vilka webbplatser som kan installera tillägg
     .accesskey = V

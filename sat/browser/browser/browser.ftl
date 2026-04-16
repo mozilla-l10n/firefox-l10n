@@ -613,9 +613,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱞᱟᱹᱜᱤᱫ ᱦᱟᱹᱴᱤᱧ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 ᱥᱚᱴᱠᱚᱴ ᱵᱮᱵᱷᱟᱨ ᱞᱟᱹᱜᱤᱫ, ᱯᱩᱭᱞᱩ ᱨᱮ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮᱫ DevTools ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
@@ -804,13 +801,6 @@ urlbar-result-weather-title-city-only = { $city } ᱨᱮ <strong>{ $temperature 
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · ᱥᱯᱚᱱᱥᱚᱨ ᱟᱠᱟᱱ
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
 
 ## Strings used for buttons in the urlbar
 
@@ -1198,9 +1188,6 @@ tabs-toolbar-list-all-tabs =
     .label = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱥᱩᱪᱤ ᱢᱮ
     .tooltiptext = ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱠᱚ ᱥᱩᱪᱤ ᱢᱮ
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1376,13 +1363,3 @@ onboarding-checklist-button-label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
 onboarding-aw-finish-setup-button =
     .label = ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
     .tooltiptext = { -brand-short-name } ᱥᱮᱴᱟᱯ ᱪᱟᱵᱟᱭ ᱢᱮ
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

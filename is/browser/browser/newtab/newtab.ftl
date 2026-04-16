@@ -365,6 +365,7 @@ newtab-custom-settings = Sýsla með fleiri stillingar
 
 newtab-wallpaper-title = Bakgrunnar
 newtab-wallpaper-reset = Endurstilla á sjálfgefið
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Senda inn mynd
 newtab-wallpaper-custom-color = Veldu lit
 newtab-wallpaper-toggle-title =
@@ -391,6 +392,7 @@ newtab-wallpaper-light-fox-anniversary = Refur í grasi með þokufullu fjallala
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Heillitir
 newtab-wallpaper-blue = Blátt
 newtab-wallpaper-light-blue = Ljósblátt
@@ -657,7 +659,6 @@ newtab-widget-lists-menu-edit = Breyta heiti á lista
 newtab-widget-lists-menu-create = Búa til nýjan lista
 newtab-widget-lists-menu-delete = Eyða þessum lista
 newtab-widget-lists-menu-copy = Afrita lista á klippispjald
-newtab-widget-lists-menu-hide = Fela alla lista
 newtab-widget-lists-menu-learn-more = Frekari upplýsingar
 newtab-widget-lists-input-add-an-item =
     .placeholder = Bæta við atriði
@@ -697,7 +698,6 @@ newtab-widget-timer-reset =
     .title = Endurstilla
 newtab-widget-timer-menu-notifications = Slökkva á tilkynningum
 newtab-widget-timer-menu-notifications-on = Kveikja á tilkynningum
-newtab-widget-timer-menu-hide = Fela tímamæli
 newtab-widget-timer-menu-learn-more = Fræðast meira
 newtab-widget-message-title = Vertu einbeittur með listum og innbyggðum tímamæli
 # to-dos stands for "things to do".

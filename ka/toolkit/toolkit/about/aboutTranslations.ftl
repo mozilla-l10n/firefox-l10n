@@ -11,10 +11,6 @@ about-translations-learn-more-link = ვრცლად
 about-translations-unsupported-info-message-2 =
     .heading = თარგმანი მიუწვდომელია ამ მოწყობილობაზე
     .message = სცადეთ სხვა მოწყობილობაზე.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = თარგმანი მიუწვდომელია ამ მოწყობილობაზე.
-    .message = სცადეთ სხვა მოწყობილობაზე.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = თარგმანები მიუწვდომელია თქვენი დაწესებულებისთვის
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = შეზღუდვის 
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = ვერ ჩაიტვირთა ენები
-    .message = შეამოწმეთ ქსელთან კავშირი და კვლავ სცადეთ.
-about-translations-unsupported-info-button = ვრცლად
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = ვერ ჩაიტვირთა ენები.
     .message = შეამოწმეთ ქსელთან კავშირი და კვლავ სცადეთ.
 about-translations-language-load-error-button = ხელახლა ცდა
 # An error message displayed when a translation request fails.

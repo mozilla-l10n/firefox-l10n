@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = VPN für diese Website verwenden
     .aria-label = VPN ist für diese Website deaktiviert
-site-exclusion-toggle-label = VPN für diese Website verwenden
-site-exclusion-toggle-enabled =
-    .aria-label = VPN ist für diese Website aktiviert
-site-exclusion-toggle-disabled =
-    .aria-label = VPN ist für diese Website deaktiviert
 ipprotection-settings-link =
     .label = Einstellungen
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Integriertes VPN zur Verbesserung Ihrer Privatsphäre beim Surfen auf { -brand-short-name }.
 ip-protection-learn-more = Weitere Informationen
-ip-protection-site-exceptions =
-    .label = Seitenspezifische Einstellungen
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = VPN für alle Websites verwenden, außer denen a
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Monatliche VPN-Daten
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

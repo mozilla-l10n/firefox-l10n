@@ -2032,12 +2032,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Zobraziť upozornenie, keď sa webové stránky pokúšajú nainštalovať rozšírenia
     .accesskey = w
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Spravovať výnimky pre vyskakovacie okná a presmerovania tretích strán…
-    .accesskey = m
-    .searchkeywords = vyskakovacie okná
 permissions-addon-exceptions2 =
     .label = Vyberte, ktoré webové stránky môžu inštalovať rozšírenia
     .accesskey = e

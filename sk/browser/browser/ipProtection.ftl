@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Použiť VPN pre túto stránku
     .aria-label = VPN je pre túto stránku vypnutá
-site-exclusion-toggle-label = Použiť VPN pre túto stránku
-site-exclusion-toggle-enabled =
-    .aria-label = VPN je pre túto stránku zapnutá
-site-exclusion-toggle-disabled =
-    .aria-label = VPN je pre túto stránku vypnutá
 ipprotection-settings-link =
     .label = Nastavenia
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Vstavaná VPN na zvýšenie vášho súkromia počas prehliadania webu vo { -brand-short-name(case: "loc") }.
 ip-protection-learn-more = Ďalšie informácie
-ip-protection-site-exceptions =
-    .label = Nastavenia špecifické pre stránku
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -173,7 +166,6 @@ ip-protection-exclusions-desc = Použite VPN pre všetky webové stránky okrem 
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Mesačné údaje VPN
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

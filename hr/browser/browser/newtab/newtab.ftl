@@ -382,6 +382,7 @@ newtab-custom-settings = Upravljaj dodatnim postavkama
 
 newtab-wallpaper-title = Pozadine
 newtab-wallpaper-reset = Obnovi na standardnu pozadinu
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Prenesi sliku
 newtab-wallpaper-custom-color = Odaberi boju
 newtab-wallpaper-toggle-title =
@@ -408,6 +409,7 @@ newtab-wallpaper-light-fox-anniversary = Lisica u travnatom polju s maglovitim p
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jednobojne
 newtab-wallpaper-blue = Plava
 newtab-wallpaper-light-blue = Svijetloplava
@@ -514,7 +516,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzija
 newtab-weather-menu-change-temperature-units-fahrenheit = Prebaci na Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Prebaci na Celzijeve stupnjeve
-newtab-weather-menu-hide-weather-v2 = Sakrij vrijeme
 newtab-weather-menu-hide-weather = Sakrij vremensku prognozu na novoj kartici
 newtab-weather-menu-learn-more = Saznaj više
 newtab-weather-menu-detect-my-location = Otkrij moju lokaciju
@@ -701,7 +702,6 @@ newtab-widget-lists-menu-edit = Uredi naziv popisa
 newtab-widget-lists-menu-create = Stvori novi popis
 newtab-widget-lists-menu-delete = Obriši ovaj popis
 newtab-widget-lists-menu-copy = Kopiraj popis u međuspremnik
-newtab-widget-lists-menu-hide = Sakrij sve popise
 newtab-widget-lists-menu-learn-more = Saznaj više
 newtab-widget-lists-input-add-an-item =
     .placeholder = Dodaj stavku
@@ -758,7 +758,6 @@ newtab-widget-timer-reset =
     .title = Poništi
 newtab-widget-timer-menu-notifications = Isključi obavijesti
 newtab-widget-timer-menu-notifications-on = Uključi obavijesti
-newtab-widget-timer-menu-hide = Sakrij odbrojavanje
 newtab-widget-timer-menu-learn-more = Saznaj više
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Najnovije vijesti

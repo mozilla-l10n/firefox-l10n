@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = Интихоби саҳифаи { $page }
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = Интихоби саҳифаи { $page }
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = Саҳифаи { $page } аз { $total }
@@ -654,12 +650,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = Фаъол кардани навори ҷонибӣ
 pdfjs-toggle-views-manager-notification-button =
     .title = Фаъол кардани навори ҷонибӣ (ҳуҷҷат дорои тасвирчаҳо/сохтор/замимаҳо/қабатҳо мебошад)
 pdfjs-toggle-views-manager-button1-label = Идоракунии саҳифаҳо
-pdfjs-toggle-views-manager-button-label = Фаъол кардани навори ҷонибӣ
 pdfjs-views-manager-sidebar =
     .aria-label = Навори ҷонибӣ
 pdfjs-views-manager-sidebar-resizer =
@@ -668,9 +661,7 @@ pdfjs-views-manager-view-selector-button =
     .title = Намудҳо
 pdfjs-views-manager-view-selector-button-label = Намудҳо
 pdfjs-views-manager-pages-title = Саҳифаҳо
-pdfjs-views-manager-outlines-title = Сохтори ҳуҷҷат
 pdfjs-views-manager-attachments-title = Замимаҳо
-pdfjs-views-manager-layers-title = Қабатҳо
 pdfjs-views-manager-pages-option-label = Саҳифаҳо
 pdfjs-views-manager-outlines-option-label = Сохтори ҳуҷҷат
 pdfjs-views-manager-attachments-option-label = Замимаҳо
@@ -690,7 +681,6 @@ pdfjs-views-manager-pages-status-action-button-label = Идора кардан
 pdfjs-views-manager-pages-status-copy-button-label = Нусха бардоштан
 pdfjs-views-manager-pages-status-cut-button-label = Буридан
 pdfjs-views-manager-pages-status-delete-button-label = Нест кардан
-pdfjs-views-manager-pages-status-save-as-button-label = Нигоҳ доштан ҳамчун…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =

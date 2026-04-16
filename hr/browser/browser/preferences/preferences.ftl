@@ -2022,12 +2022,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Prikaži upozorenje kada web-stranice pokušaju instalirati proširenja
     .accesskey = u
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Upravljaj iznimkama za skočne prozore i preusmjeravanja trećih strana
-    .accesskey = e
-    .searchkeywords = skočni prozori
 permissions-addon-exceptions2 =
     .label = Odaberi web-stranice koje mogu instalirati proširenja
     .accesskey = e

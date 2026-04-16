@@ -2032,12 +2032,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Паказваць папярэджанне пры спробе вэб-сайтаў усталяваць пашырэнні
     .accesskey = ц
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Кіраваць выключэннямі выплыўных акон і перанакіравання на староннія сайты
-    .accesskey = К
-    .searchkeywords = выплыўныя вокны
 permissions-addon-exceptions2 =
     .label = Выбраць, якія сайты могуць усталёўваць пашырэнні
     .accesskey = у

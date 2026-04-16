@@ -2016,12 +2016,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = 網站嘗試安裝擴充套件時，顯示警告
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = 管理彈出型視窗與第三方重新導向例外
-    .accesskey = E
-    .searchkeywords = popups 彈出 視窗
 permissions-addon-exceptions2 =
     .label = 選擇可以安裝擴充套件的網站
     .accesskey = E

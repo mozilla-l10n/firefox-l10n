@@ -365,6 +365,7 @@ newtab-custom-settings = Gestiona més paràmetres
 
 newtab-wallpaper-title = Fons de pantalla
 newtab-wallpaper-reset = Reinicia als valors per defecte
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Puja una imatge
 newtab-wallpaper-custom-color = Trieu un color
 newtab-wallpaper-toggle-title =
@@ -391,6 +392,7 @@ newtab-wallpaper-light-fox-anniversary = Una guineu en un camp d'herba amb un pa
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colors sòlids
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Blau clar
@@ -660,7 +662,6 @@ newtab-widget-lists-menu-edit = Edita el nom de la llista
 newtab-widget-lists-menu-create = Crea una llista nova
 newtab-widget-lists-menu-delete = Suprimeix aquesta llista
 newtab-widget-lists-menu-copy = Copia la llista al porta-retalls
-newtab-widget-lists-menu-hide = Amaga totes les llistes
 newtab-widget-lists-menu-learn-more = Més informació
 newtab-widget-lists-input-add-an-item =
     .placeholder = Afegeix un element
@@ -709,7 +710,6 @@ newtab-widget-timer-reset =
     .title = Reinicia
 newtab-widget-timer-menu-notifications = Desactiva les notificacions
 newtab-widget-timer-menu-notifications-on = Activa les notificacions
-newtab-widget-timer-menu-hide = Amaga el temporitzador
 newtab-widget-timer-menu-learn-more = Més informació
 newtab-widget-message-title = Mantingueu la concentració amb les llistes i amb un temporitzador integrat
 # to-dos stands for "things to do".

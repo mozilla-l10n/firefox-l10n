@@ -22,21 +22,15 @@ backup-file-name = Backups da { -brand-product-name }
 settings-data-backup-header2 =
     .label = Copia da segirezza
     .description = Protegia automaticamain tes segnapaginas, tia cronologia ed autras datas.
-settings-data-backup-header = Backup
 settings-data-backup-toggle = Administrar backups
 settings-data-backup-toggle-on2 =
     .label = Activar backups
 settings-data-backup-toggle-off2 =
     .label = Deactivar backups
-settings-data-backup-toggle-on = Activar backups
-settings-data-backup-toggle-off = Deactivar backups
 settings-data-backup-trigger-button = Ussa exequir in backup
 settings-data-backup-in-progress-button = Backup en elavuraziun…
 settings-data-backup-in-progress-message =
     .message = Backup en elavuraziun…
-settings-data-backup-scheduled-backups-on = Backup: ACTIVÀ
-settings-data-backup-scheduled-backups-off = Backup: DEACTIVÀ
-settings-data-backup-scheduled-backups-description = Protegia automaticamain tes segnapaginas, la cronologia ed autras datas. <a data-l10n-name="support-link">Ulteriuras infurmaziuns</a>
 settings-data-backup-last-backup-date = Ultim backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Backup è ACTIVÀ
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Posiziun da la copia da segirezza
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Lieu
 settings-data-backup-last-backup-location-show-in-folder = Mussar en l’ordinatur
 settings-data-backup-last-backup-location-edit = Modifitgar…
 settings-data-create-backup-error = Igl ha dà in’errur cun crear tes backup ils { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Restaurar tias datas
     .description = Utilisescha ina copia da segirezza da { -brand-product-name } d’in auter apparat per restaurar tias datas.
-settings-data-backup-restore-header = Restaurar tias datas
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Utilisescha in backup da { -brand-product-name } dad in auter apparat per restaurar tias datas.
-settings-data-backup-scheduled-backups-off-restore-choose = Tscherner ina datoteca da backup…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Restaurescha tias datas da { -brand-product-name } da l’ultima copia da segirezza.
-settings-data-backup-scheduled-backups-on-restore-choose = Restaurar…
 settings-sensitive-data =
     .label = Datas sensiblas
-settings-data-toggle-encryption-label = Fa copias da segirezza da tias datas sensiblas
 settings-data-toggle-encryption-support-link = Ulteriuras infurmaziuns
 settings-data-change-password2 =
     .label = Midar il pled-clav
-settings-data-change-password = Midar il pled-clav…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Restaurar tias datas
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Tge vegn a vegnir restaurà?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Quai remplazza tut tias datas actualas da { -brand-short-name } cun tes backup dals { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Tge vegn a vegnir restaurà?
-restore-from-backup-no-backup-file-link = Has ti problems cun chattar tes backup?
 restore-from-backup-filepicker-label = Datoteca da backup
 restore-from-backup-filepicker-title = Tscherner ina datoteca da backup:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> creà ils { DATETIME($d
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Restaurà da { $deviceName } ils { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a las { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Creà ils { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sin { $machineName }
 backup-file-restore-file-validation-error = Questa datoteca na funcziuna betg. Emprova da tscherner in’autra datoteca. <a data-l10n-name="restore-problems">Has anc adina problems?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Tschernì nagina datoteca

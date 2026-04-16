@@ -36,12 +36,10 @@ firefox-relay-dismiss =
     .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Emo’ã ñanduti veve kundaharape:
-firefox-relay-opt-in-title-2 = Ereko ñanduti veve rovamo’ãha reigua
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Eiporu ñanduti veve rovamo’ãha { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Eiporu ñanduti veve rovamo’ãha
-firefox-relay-opt-in-subtitle-2 = Emo’ã ñanduti veve g̃uahẽha spam-gui
 firefox-relay-use-mask-title = Eiporu ñanduti veve rovamo’ãha { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Emboyke spam ñanduti veve rovamo’ãha reigua ndive

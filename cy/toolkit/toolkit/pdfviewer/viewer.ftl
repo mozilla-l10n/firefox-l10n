@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = Dewis tudalen { $page }
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = Dewis tudalen { $page }
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = Tudalen { $page } o { $total }
@@ -670,12 +666,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = Togl y Bar Ochr
 pdfjs-toggle-views-manager-notification-button =
     .title = Togl y Bar Ochr (dogfen yn cynnwys lluniau bach/amlinelliad/atodiadau/haenau)
 pdfjs-toggle-views-manager-button1-label = Rheoli tudalennau
-pdfjs-toggle-views-manager-button-label = Togl y Bar Ochr
 pdfjs-views-manager-sidebar =
     .aria-label = Bar Ochr
 pdfjs-views-manager-sidebar-resizer =
@@ -686,11 +679,9 @@ pdfjs-views-manager-view-selector-button-label = Golygon
 pdfjs-views-manager-pages-title = Tudalennau
 pdfjs-views-manager-outlines-title1 = Amlinelliad Dogfen
     .title = Amlinelliad dogfen (clic dwbl i ehangu/leihau pob eitem)
-pdfjs-views-manager-outlines-title = Amlinelliad dogfen
 pdfjs-views-manager-attachments-title = Atodiadau
 pdfjs-views-manager-layers-title1 = Haenau
     .title = Haenau clic dwbl i ailosod pob haen i'r cyflwr ragosodedig)
-pdfjs-views-manager-layers-title = Haenau
 pdfjs-views-manager-pages-option-label = Tudalennau
 pdfjs-views-manager-outlines-option-label = Amlinelliad dogfen
 pdfjs-views-manager-attachments-option-label = Atodiadau
@@ -715,7 +706,6 @@ pdfjs-views-manager-pages-status-copy-button-label = Copïo
 pdfjs-views-manager-pages-status-cut-button-label = Torri
 pdfjs-views-manager-pages-status-delete-button-label = Dileu
 pdfjs-views-manager-pages-status-export-selected-button-label = Wedi dewis allforio…
-pdfjs-views-manager-pages-status-save-as-button-label = Cadw fel…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =

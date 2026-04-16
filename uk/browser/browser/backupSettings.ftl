@@ -19,24 +19,16 @@ backup-folder-name = Відновити { -brand-product-name }
 #
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Резервна копія { -brand-product-name }
-settings-data-backup-header = Резервне копіювання
 settings-data-backup-toggle = Керувати резервним копіюванням
 settings-data-backup-toggle-on2 =
     .label = Увімкнути резервне копіювання
 settings-data-backup-toggle-off2 =
     .label = Вимкнути резервне копіювання
-settings-data-backup-toggle-on = Увімкнути резервне копіювання
-settings-data-backup-toggle-off = Вимкнути резервне копіювання
 settings-data-backup-trigger-button = Створити резервну копію
 settings-data-backup-in-progress-button = Триває резервне копіювання…
 settings-data-backup-in-progress-message =
     .message = Триває резервне копіювання…
-settings-data-backup-scheduled-backups-on = Резервне копіювання: УВІМКНЕНО
-settings-data-backup-scheduled-backups-off = Резервне копіювання: ВИМКНЕНО
-settings-data-backup-scheduled-backups-description = Автоматично захищайте свої закладки, історію та інші дані. <a data-l10n-name="support-link">Докладніше</a>
 settings-data-backup-last-backup-date = Остання резервна копія: { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Розташування
 settings-data-backup-last-backup-location-show-in-folder = Показати у теці
 settings-data-backup-last-backup-location-edit = Змінити…
 settings-data-create-backup-error = Під час створення резервної копії { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } сталася помилка
@@ -44,20 +36,10 @@ settings-sensitive-data-encryption-description = Створюйте резерв
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Назва файлу: { $fileName }
-settings-data-backup-restore-header = Відновлення даних
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Скористайтеся резервною копією { -brand-product-name } з іншого пристрою, щоб відновити свої дані.
-settings-data-backup-scheduled-backups-off-restore-choose = Виберіть файл із резервною копією…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Відновіть свої дані { -brand-product-name } на момент останнього резервного копіювання.
-settings-data-backup-scheduled-backups-on-restore-choose = Відновити…
-settings-data-toggle-encryption-label = Створювати резервні копії конфіденційних даних
 settings-data-toggle-encryption-support-link = Докладніше
-settings-data-change-password = Змінити пароль…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -97,13 +79,6 @@ turn-off-scheduled-backups-confirm-button = Вимкнути і видалити
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Відновіть свої дані
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Усі ваші поточні дані { -brand-short-name } буде замінено резервною копією від { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Що буде відновлено?
-restore-from-backup-no-backup-file-link = Проблеми з пошуком резервної копії?
 restore-from-backup-filepicker-label = Файл із резервною копією
 restore-from-backup-filepicker-title = Виберіть файл із резервною копією:
 restore-from-backup-file-choose-button =
@@ -242,10 +217,6 @@ other-backup-files-founds =
         [few] <b>Примітка:</b> знайдено { $numberOfOtherBackupsFound } інші файли з резервними копіями
        *[many] <b>Примітка:</b> знайдено { $numberOfOtherBackupsFound } інших файлів із резервними копіями
     }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Створено { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } на { $machineName }
 backup-file-restore-file-validation-error = Із цим файлом щось не так. Повторіть спробу з іншим файлом. <a data-l10n-name="restore-problems">Не вдається усунути проблему?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Файл не вибрано

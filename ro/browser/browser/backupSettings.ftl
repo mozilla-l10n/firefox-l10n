@@ -22,21 +22,15 @@ backup-file-name = Backup_{ -brand-product-name }
 settings-data-backup-header2 =
     .label = Copie de siguranță
     .description = Îți protejezi automat marcajele, istoricul și alte date.
-settings-data-backup-header = Backup
 settings-data-backup-toggle = Gestionează backupurile
 settings-data-backup-toggle-on2 =
     .label = Activează backupurile
 settings-data-backup-toggle-off2 =
     .label = Dezactivează backupurile
-settings-data-backup-toggle-on = Activează backupurile
-settings-data-backup-toggle-off = Dezactivează backupurile
 settings-data-backup-trigger-button = Fă backup acum
 settings-data-backup-in-progress-button = Backup în curs…
 settings-data-backup-in-progress-message =
     .message = Backup în curs…
-settings-data-backup-scheduled-backups-on = Backup: Activat
-settings-data-backup-scheduled-backups-off = Backup: Dezactivat
-settings-data-backup-scheduled-backups-description = Protejează-ți automat marcajele, istoricul și alte date. <a data-l10n-name="support-link">Află mai multe</a>
 settings-data-backup-last-backup-date = Ultimul backup: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Copiile de siguranță sunt ACTIVATE
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Cale de salvare a copiilor de siguranță
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Locație
 settings-data-backup-last-backup-location-show-in-folder = Afișează în dosar
 settings-data-backup-last-backup-location-edit = Editează…
 settings-data-create-backup-error = A apărut o eroare la crearea backupului pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Restaurează-ți datele
     .description = Folosește o copie de rezervă { -brand-product-name } de pe alt dispozitiv ca să îți restaurezi datele.
-settings-data-backup-restore-header = Restabilește datele
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Folosește un backup de { -brand-product-name } de pe un alt dispozitiv pentru a restaura datele.
-settings-data-backup-scheduled-backups-off-restore-choose = Alege un fișier de backup…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recuperează-ți datele { -brand-product-name } din ultima copie de rezervă.
-settings-data-backup-scheduled-backups-on-restore-choose = Restabilește…
 settings-sensitive-data =
     .label = Date sensibile
-settings-data-toggle-encryption-label = Fă o copie de rezervă cu datele tale sensibile
 settings-data-toggle-encryption-support-link = Află mai multe
 settings-data-change-password2 =
     .label = Schimbă parola
-settings-data-change-password = Schimbă parola…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Restabilește datele
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Ce va fi restabilit?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Această acțiune va înlocui datele { -brand-short-name } curente cu datele din copia de rezervă din { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Ce va fi restabilit?
-restore-from-backup-no-backup-file-link = Nu găsești backupul?
 restore-from-backup-filepicker-label = Fișier de backup
 restore-from-backup-filepicker-title = Alege un fișier de backup:
 restore-from-backup-file-choose-button =
@@ -284,10 +259,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> creat la data de { DATE
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Restaurare din { $deviceName } la data de { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } la { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Creat la data de { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } pe { $machineName }
 backup-file-restore-file-validation-error = Fișierul nu funcționează. Încearcă să alegi unul diferit. <a data-l10n-name="restore-problems">Tot mai ai probleme?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Niciun fișier selectat

@@ -640,9 +640,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = За да използвате клавишна комбинация F12, първо отворете DevTools от менюто с инструменти на четеца.
@@ -1533,9 +1530,6 @@ trustpanel-blocker-see-all = Вижте всички
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
-
-## The urlbar trust icon & panel
-
 
 ## Variables
 ##  $count (String): the number of trackers blocked.

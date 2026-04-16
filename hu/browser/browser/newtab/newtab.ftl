@@ -380,6 +380,7 @@ newtab-custom-settings = További beállítások kezelése
 
 newtab-wallpaper-title = Háttérképek
 newtab-wallpaper-reset = Visszaállítás az alapértelmezésre
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Kép feltöltése
 newtab-wallpaper-custom-color = Válasszon színt
 newtab-wallpaper-toggle-title =
@@ -406,6 +407,7 @@ newtab-wallpaper-light-fox-anniversary = Egy róka egy füves mezőben, ködös 
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Egyszínű színek
 newtab-wallpaper-blue = Kék
 newtab-wallpaper-light-blue = Világoskék
@@ -512,7 +514,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Váltás Fahrenheitre
 newtab-weather-menu-change-temperature-units-celsius = Váltás Celsiusra
-newtab-weather-menu-hide-weather-v2 = Időjárás elrejtése
 newtab-weather-menu-hide-weather = Időjárás elrejtése az Új lapon
 newtab-weather-menu-learn-more = További tudnivalók
 newtab-weather-menu-detect-my-location = Saját hely észlelése
@@ -699,7 +700,6 @@ newtab-widget-lists-menu-edit = Listanév szerkesztése
 newtab-widget-lists-menu-create = Új lista létrehozása
 newtab-widget-lists-menu-delete = Lista törlése
 newtab-widget-lists-menu-copy = Lista vágólapra másolása
-newtab-widget-lists-menu-hide = Összes lista elrejtése
 newtab-widget-lists-menu-learn-more = További tudnivalók
 newtab-widget-lists-input-add-an-item =
     .placeholder = Elem hozzáadása
@@ -756,7 +756,6 @@ newtab-widget-timer-reset =
     .title = Visszaállítás
 newtab-widget-timer-menu-notifications = Értesítések kikapcsolása
 newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
-newtab-widget-timer-menu-hide = Időzítő elrejtése
 newtab-widget-timer-menu-learn-more = További tudnivalók
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Legfontosabb szalagcímek

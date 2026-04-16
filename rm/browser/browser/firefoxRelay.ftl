@@ -36,12 +36,10 @@ firefox-relay-dismiss =
     .accesskey = S
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protegia tia adressa dad e-mail:
-firefox-relay-opt-in-title-2 = Va per in alias dad e-mail gratuit
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Utilisescha in alias dad e-mail da { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Utilisar in alias dad e-mail
-firefox-relay-opt-in-subtitle-2 = Protegia tia chascha da posta entrada da messadis nungiavischads
 firefox-relay-use-mask-title = Utilisescha in alias dad e-mail da { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Evitescha messadis nungiavischads cun agid d’in alias dad e-mail gratuit

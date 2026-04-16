@@ -36,12 +36,10 @@ firefox-relay-dismiss =
     .accesskey = B
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Babestu zure helbide elektronikoa:
-firefox-relay-opt-in-title-2 = Eskuratu doako posta-maskara
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Erabili { -relay-brand-name } posta-maskara
 firefox-relay-use-mask-title-1 = Erabili posta-maskara
-firefox-relay-opt-in-subtitle-2 = Babestu spametik zure sarrera-ontzia
 firefox-relay-use-mask-title = Erabili { -relay-brand-name } posta-maskara
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Eragotzi spama doako posta-maskara batekin

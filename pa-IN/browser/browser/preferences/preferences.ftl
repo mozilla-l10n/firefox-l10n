@@ -2033,12 +2033,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = ਜਦੋਂ ਵੈੱਬਸਾਈਟਾਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ਾਂ ਕਰਨ ਤਾਂ ਚੇਤਾਵਨੀ ਵੇਖਾਓ
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = ਪੌਪ-ਅੱਪ ਅਤੇ ਤੀਜੀ ਧਿਰ ਰੀ-ਡਾਇਰੈਕਟ ਛੋਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ।
-    .accesskey = E
-    .searchkeywords = ਪੌਪ-ਅੱਪ
 permissions-addon-exceptions2 =
     .label = ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਇਕਸਟੈਸ਼ਨਾਂ ਇੰਸਟਾਲ ਕਰ ਸਕਦੀਆਂ ਹਨ
     .accesskey = E

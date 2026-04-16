@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
     .label = Αντίγραφο ασφαλείας
     .description = Ενεργοποιήστε την αυτόματη προστασία των σελιδοδεικτών, του ιστορικού και των υπόλοιπων δεδομένων σας.
-settings-data-backup-header = Αντίγραφο ασφαλείας
 settings-data-backup-toggle = Διαχείριση αντιγράφου ασφαλείας
 settings-data-backup-toggle-on2 =
     .label = Ενεργοποίηση αντιγράφου ασφαλείας
 settings-data-backup-toggle-off2 =
     .label = Απενεργοποίηση αντιγράφου ασφαλείας
-settings-data-backup-toggle-on = Ενεργοποίηση αντιγράφου ασφαλείας
-settings-data-backup-toggle-off = Απενεργοποίηση αντιγράφου ασφαλείας
 settings-data-backup-trigger-button = Δημιουργία τώρα
 settings-data-backup-in-progress-button = Δημιουργία αντιγράφου ασφαλείας σε εξέλιξη…
 settings-data-backup-in-progress-message =
     .message = Δημιουργία αντιγράφου ασφαλείας σε εξέλιξη…
-settings-data-backup-scheduled-backups-on = Αντίγραφο ασφαλείας: ΕΝΕΡΓΟ
-settings-data-backup-scheduled-backups-off = Αντίγραφο ασφαλείας: ΑΝΕΝΕΡΓΟ
-settings-data-backup-scheduled-backups-description = Αυτόματη προστασία σελιδοδεικτών, ιστορικού και άλλων δεδομένων. <a data-l10n-name="support-link">Μάθετε περισσότερα</a>
 settings-data-backup-last-backup-date = Τελευταίο αντίγραφο ασφαλείας: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Η δημιουργία αντιγράφου ασφαλείας είναι ΕΝΕΡΓΗ
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Τοποθεσία αντιγράφου ασφαλείας
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Τοποθεσία
 settings-data-backup-last-backup-location-show-in-folder = Εμφάνιση στον φάκελο
 settings-data-backup-last-backup-location-edit = Επεξεργασία…
 settings-data-create-backup-error = Προέκυψε σφάλμα κατά τη δημιουργία του αντιγράφου ασφαλείας στις { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Ανάκτηση δεδομένων
     .description = Χρησιμοποιήστε ένα αντίγραφο ασφαλείας του { -brand-product-name } από κάποια άλλη συσκευή για να ανακτήσετε τα δεδομένα σας.
-settings-data-backup-restore-header = Επαναφορά δεδομένων
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Χρησιμοποιήστε ένα αντίγραφο ασφαλείας του { -brand-product-name } από κάποια άλλη συσκευή για να επαναφέρετε τα δεδομένα σας.
-settings-data-backup-scheduled-backups-off-restore-choose = Επιλογή αντιγράφου ασφαλείας…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Ανακτήστε τα δεδομένα του { -brand-product-name } από την τελευταία φορά που δημιουργήθηκε αντίγραφο ασφαλείας.
-settings-data-backup-scheduled-backups-on-restore-choose = Επαναφορά…
 settings-sensitive-data =
     .label = Ευαίσθητα δεδομένα
-settings-data-toggle-encryption-label = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
 settings-data-toggle-encryption-support-link = Μάθετε περισσότερα
 settings-data-change-password2 =
     .label = Αλλαγή κωδικού πρόσβασης
-settings-data-change-password = Αλλαγή κωδικού πρόσβασης…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Επαναφορά δεδομένων
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Τι θα ανακτηθεί;
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Αυτή η ενέργεια θα αντικαταστήσει όλα τα τρέχοντα δεδομένα σας στο { -brand-short-name } με το αντίγραφο ασφαλείας από τις { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Τι θα ανακτηθεί;
-restore-from-backup-no-backup-file-link = Αντιμετωπίζετε πρόβλημα με την εύρεση του αντιγράφου ασφαλείας σας;
 restore-from-backup-filepicker-label = Αρχείο αντιγράφου ασφαλείας
 restore-from-backup-filepicker-title = Επιλογή αντιγράφου ασφαλείας:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> (δημιουργήθη
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Ανακτήθηκε από το { $deviceName } στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στις { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Δημιουργήθηκε στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στο { $machineName }
 backup-file-restore-file-validation-error = Αυτό το αρχείο δεν λειτουργεί. Δοκιμάστε να επιλέξετε ένα άλλο αρχείο. <a data-l10n-name="restore-problems">Αντιμετωπίζετε ακόμα προβλήματα;</a>
 restore-from-backup-filepicker-input =
     .placeholder = Κανένα επιλεγμένο αρχείο

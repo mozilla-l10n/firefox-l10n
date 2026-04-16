@@ -124,9 +124,6 @@ clear-search-history =
     .label = সন্ধানৰ ইতিহাস পৰিষ্কাৰ কৰক
     .accesskey = H
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -184,11 +181,6 @@ search-one-offs-tabs =
     .tooltiptext = টেববোৰ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = ইতিহাস ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action.
-
 
 ## Bookmark Panel
 
@@ -359,12 +351,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = এই ছেশ্যনৰ বাবে ভাগ-বতৰা সুৰক্ষা নিষ্ক্ৰিয় কৰক
 
-## WebSerial "select a port" popup
-
-
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -472,13 +458,6 @@ urlbar-result-action-copy-to-clipboard = কপি কৰক
 #  $result (String): the string representation for a formula result
 urlbar-result-action-calculator-result = = { $result }
 
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks =
@@ -525,11 +504,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = ৰিডাৰ ভিউ বন্ধ কৰক
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -710,10 +684,6 @@ picture-in-picture-hide-toggle =
     .label = "ছবিৰ-ওপৰত-ছবি"ৰ ট'গল লুকুৱাওক
     .accesskey = H
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
 
 
@@ -752,15 +722,6 @@ tabs-toolbar-list-all-tabs =
     .label = সকলো টেব দেখুৱাওক
     .tooltiptext = সকলো টেব দেখুৱাওক
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } এ স্বচালিতভাৱে কিছুমান তথ্য { -vendor-short-name } লে পঠায় যাতে আমি আপোনাৰ অনুভৱ উন্নত কৰিব পাৰো।
@@ -768,31 +729,10 @@ data-reporting-notification-button =
     .label = মই কি অংশীদাৰী কৰো বাছক
     .accesskey = C
 
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } এ এই পৃষ্টাক স্বচালিতভাৱে পুনৰ ল'ড হোৱাৰ পৰা প্ৰতিৰোধ কৰিছে।
 refresh-blocked-redirect-label = { -brand-short-name } এ এই পৃষ্টাক স্বচালিতভাৱে অন্য পৃষ্টালে যোৱাৰ পৰা প্ৰতিৰোধ কৰিছে।
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -811,26 +751,3 @@ popup-warning-message =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' দেখুৱাওক
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-

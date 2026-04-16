@@ -22,21 +22,15 @@ backup-file-name = Lethbhreac-glèidhidh dhe { -brand-product-name }
 settings-data-backup-header2 =
     .label = Lethbhreac-glèidhidh
     .description = Dìon na comharran-lìn, an eachdraidh ’s an còrr dhen dàta agad gu fèin-obrachail.
-settings-data-backup-header = Lethbhreac-glèidhidh
 settings-data-backup-toggle = Stiùirich na lethbreacan-glèidhidh
 settings-data-backup-toggle-on2 =
     .label = Cuir na lethbhreacan-glèidhidh air
 settings-data-backup-toggle-off2 =
     .label = Cuir na lethbhreacan-glèidhidh dheth
-settings-data-backup-toggle-on = Cuir na lethbhreacan-glèidhidh air
-settings-data-backup-toggle-off = Cuir na lethbhreacan-glèidhidh dheth
 settings-data-backup-trigger-button = Dèan lethbhreac-glèidhidh an-dràsta
 settings-data-backup-in-progress-button = A’ dèanamh lethbreac-glèidhidh…
 settings-data-backup-in-progress-message =
     .message = A’ dèanamh lethbreac-glèidhidh…
-settings-data-backup-scheduled-backups-on = Tha na lethbhreacan-glèidhidh AIR
-settings-data-backup-scheduled-backups-off = Tha na lethbhreacan-glèidhidh DHETH
-settings-data-backup-scheduled-backups-description = Dìon na comharran-lìn, an eachdraidh is dàta eile agad gu fèin-obrachail. <a data-l10n-name="support-link">Barrachd fiosrachaidh</a>
 settings-data-backup-last-backup-date = An lethbhreac-glèidhidh mu dheireadh: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Tha na lethbhreacan-glèidhidh AIR
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Ionad nan lethbhreacan-glèidhidh
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Ionad
 settings-data-backup-last-backup-location-show-in-folder = Seall sa phasgan
 settings-data-backup-last-backup-location-edit = Deasaich…
 settings-data-create-backup-error = Cha b’ urrainn dhuinn an lethbhreac-glèidhidh agad a chruthachadh { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Aisig an dàta agad
     .description = Cleachd lethbhreac-glèidhidh { -brand-product-name } o uidheam eile airson an dàta agad aiseag.
-settings-data-backup-restore-header = Aisig an dàta agad
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Cleachd lethbhreac-glèidhidh { -brand-product-name } o uidheam eile airson an dàta agad aiseag.
-settings-data-backup-scheduled-backups-off-restore-choose = Tagh faidhle lethbhric-ghlèidhidh…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Aisig an dàta { -brand-product-name } agad on lethbhreac-ghlèidhidh mu dheireadh a rinn thu.
-settings-data-backup-scheduled-backups-on-restore-choose = Aisig…
 settings-sensitive-data =
     .label = Dàta dìomhair
-settings-data-toggle-encryption-label = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
 settings-data-toggle-encryption-support-link = Barrachd fiosrachaidh
 settings-data-change-password2 =
     .label = Atharraich am facal-faire
-settings-data-change-password = Atharraich am facal-faire…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Aisig an dàta agad
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Dè thèid aiseag?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Thèid an lethbhreac-glèidhidh agad on { DATETIME($date, timeStyle: "short", dateStyle: "short") } a chur an àite an dàta { -brand-short-name } làithrich agad.
-restore-from-backup-support-link =
-    .message = Dè thèid aiseag?
-restore-from-backup-no-backup-file-link = Nach fhaigh thu lorg air an lethbhreac-ghlèidhidh agad?
 restore-from-backup-filepicker-label = Faidhle lethbhric-ghlèidhidh
 restore-from-backup-filepicker-title = Tagh faidhle lethbhric-ghlèidhidh:
 restore-from-backup-file-choose-button =
@@ -285,10 +260,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> air a chruthachadh { DA
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Chaidh aiseag o { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } aig { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Chaidh a chruthachadh { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } air { $machineName }
 backup-file-restore-file-validation-error = Chan eil am faidhle seo ag obair. Feuch is tagh faidhle eile. <a data-l10n-name="restore-problems">A bheil duilgheadasan agad fhathast?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Cha deach faidhle a thaghadh

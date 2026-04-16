@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }-reservekopie
 settings-data-backup-header2 =
     .label = Reservekopie
     .description = Automatisch uw bladwijzers, geschiedenis en overige gegevens beschermen.
-settings-data-backup-header = Reservekopie
 settings-data-backup-toggle = Reservekopie beheren
 settings-data-backup-toggle-on2 =
     .label = Reservekopieën inschakelen
 settings-data-backup-toggle-off2 =
     .label = Reservekopieën uitschakelen
-settings-data-backup-toggle-on = Reservekopieën inschakelen
-settings-data-backup-toggle-off = Reservekopieën uitschakelen
 settings-data-backup-trigger-button = Reservekopie nu maken
 settings-data-backup-in-progress-button = Reservekopie maken…
 settings-data-backup-in-progress-message =
     .message = Reservekopie maken…
-settings-data-backup-scheduled-backups-on = Reservekopie: AAN
-settings-data-backup-scheduled-backups-off = Reservekopie: UIT
-settings-data-backup-scheduled-backups-description = Bescherm automatisch uw bladwijzers, geschiedenis en andere gegevens. <a data-l10n-name="support-link">Meer info</a>
 settings-data-backup-last-backup-date = Laatste reservekopie: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Reservekopie is AAN
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Reservekopielocatie
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Locatie
 settings-data-backup-last-backup-location-show-in-folder = In map tonen
 settings-data-backup-last-backup-location-edit = Bewerken…
 settings-data-create-backup-error = Er is op { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } een fout opgetreden bij het maken van uw reservekopie
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Uw gegevens herstellen
     .description = Een reservekopie van { -brand-product-name } van een ander apparaat gebruiken om uw gegevens te herstellen.
-settings-data-backup-restore-header = Uw gegevens herstellen
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Een { -brand-product-name }-reservekopie van een ander apparaat gebruiken om uw gegevens te herstellen.
-settings-data-backup-scheduled-backups-off-restore-choose = Reservekopiebestand kiezen…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Uw { -brand-product-name }-gegevens herstellen vanuit de laatste reservekopie.
-settings-data-backup-scheduled-backups-on-restore-choose = Herstellen…
 settings-sensitive-data =
     .label = Gevoelige gegevens
-settings-data-toggle-encryption-label = Reservekopie van uw gevoelige gegevens maken
 settings-data-toggle-encryption-support-link = Meer info
 settings-data-change-password2 =
     .label = Wachtwoord wijzigen
-settings-data-change-password = Wachtwoord wijzigen…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Uw gegevens herstellen
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Wat wordt er hersteld?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Dit vervangt al uw huidige { -brand-short-name }-gegevens door uw reservekopie van { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Wat wordt er hersteld?
-restore-from-backup-no-backup-file-link = Hebt u problemen met het vinden van uw reservekopie?
 restore-from-backup-filepicker-label = Reservekopiebestand
 restore-from-backup-filepicker-title = Kies reservekopiebestand:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> gemaakt op { DATETIME($
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Hersteld vanaf { $deviceName } op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } om { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Gemaakt op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } op { $machineName }
 backup-file-restore-file-validation-error = Dit bestand werkt niet. Probeer een ander bestand te kiezen. <a data-l10n-name="restore-problems">Ondervindt u nog steeds problemen?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Geen bestand geselecteerd

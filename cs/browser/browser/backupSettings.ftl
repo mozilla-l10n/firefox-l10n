@@ -26,21 +26,15 @@ backup-file-name =
 settings-data-backup-header2 =
     .label = Zálohování
     .description = Automaticky chraňte své záložky, historii a další data.
-settings-data-backup-header = Zálohování
 settings-data-backup-toggle = Správa zálohování
 settings-data-backup-toggle-on2 =
     .label = Zapnout zálohování
 settings-data-backup-toggle-off2 =
     .label = Vypnout zálohování
-settings-data-backup-toggle-on = Zapnout zálohování
-settings-data-backup-toggle-off = Vypnout zálohování
 settings-data-backup-trigger-button = Zálohovat nyní
 settings-data-backup-in-progress-button = Probíhá zálohování…
 settings-data-backup-in-progress-message =
     .message = Probíhá zálohování…
-settings-data-backup-scheduled-backups-on = Zálohování: zapnuto
-settings-data-backup-scheduled-backups-off = Zálohování: vypnuto
-settings-data-backup-scheduled-backups-description = Automaticky chraňte své záložky, historii a další data. <a data-l10n-name="support-link">Zjistit více</a>
 settings-data-backup-last-backup-date = Poslední záloha: { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Zálohování je zapnuto
@@ -49,8 +43,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Umístění zálohy
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Umístění
 settings-data-backup-last-backup-location-show-in-folder = Zobrazit ve složce
 settings-data-backup-last-backup-location-edit = Upravit…
 settings-data-create-backup-error = Při vytváření zálohy dne { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } došlo k chybě
@@ -75,32 +67,14 @@ settings-data-backup-restore-scheduled-off =
             [with-cases] K obnově dat použijte zálohu { -brand-product-name(case: "gen") } z jiného zařízení.
            *[no-cases] K obnově dat použijte zálohu aplikace { -brand-product-name } z jiného zařízení.
         }
-settings-data-backup-restore-header = Obnovení vašich dat
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Pro obnovu dat použijte zálohu { -brand-product-name(case: "gen") } z jiného zařízení.
-       *[no-cases] Pro obnovu dat použijte zálohu aplikace { -brand-product-name } z jiného zařízení.
-    }
-settings-data-backup-scheduled-backups-off-restore-choose = Vybrat soubor se zálohou…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description =
-    { -brand-product-name.case-status ->
-        [with-cases] Obnovte si data { -brand-product-name(case: "gen") } z poslední zálohy.
-       *[no-cases] Obnovte si data aplikace { -brand-product-name } z poslední zálohy.
-    }
-settings-data-backup-scheduled-backups-on-restore-choose = Obnovit…
 settings-sensitive-data =
     .label = Citlivá data
-settings-data-toggle-encryption-label = Zálohovat i citlivá data
 settings-data-toggle-encryption-support-link = Zjistit více
 settings-data-change-password2 =
     .label = Změna hesla
-settings-data-change-password = Změnit heslo…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -147,17 +121,6 @@ restore-from-backup-header = Obnovení vašich dat
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Co bude obnoveno?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message =
-        { -brand-short-name.case-status ->
-            [with-cases] Tímto nahradíte všechna vaše současná data { -brand-short-name(case: "gen") } zálohou z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-           *[no-cases] Tímto nahradíte všechna vaše současná data aplikace { -brand-short-name } zálohou z { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-        }
-restore-from-backup-support-link =
-    .message = Co bude obnoveno?
-restore-from-backup-no-backup-file-link = Máte problémy s nalezením své zálohy?
 restore-from-backup-filepicker-label = Soubor zálohy
 restore-from-backup-filepicker-title = Vybrat soubor se zálohou:
 restore-from-backup-file-choose-button =
@@ -321,10 +284,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> vytvořen { DATETIME($d
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Obnoveno z { $deviceName } dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } v { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Vytvořeno dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na zařízení { $machineName }
 backup-file-restore-file-validation-error = Tento soubor nefunguje. Zkuste vybrat jiný soubor. <a data-l10n-name="restore-problems">Přetrvávající problémy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nevybrán žádný soubor

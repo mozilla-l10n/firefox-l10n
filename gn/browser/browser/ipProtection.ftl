@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Eiporu VPN ko tendápe g̃uarã
     .aria-label = VPN ogue ko tendápe g̃uarã
-site-exclusion-toggle-label = Eiporu VPN ko tendápe g̃uarã
-site-exclusion-toggle-enabled =
-    .aria-label = VPN hendy ko tendápe g̃uarã
-site-exclusion-toggle-disabled =
-    .aria-label = VPN ogue ko tendápe g̃uarã
 ipprotection-settings-link =
     .label = Ñemboheko
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = VPN jehe’apyre oiko porãve hag̃ua nde rekoñemi eikundaha aja { -brand-short-name } ndive.
 ip-protection-learn-more = Eikuaave
-ip-protection-site-exceptions =
-    .label = Ñembohekoite tendagua
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = Eiporu VPN opaite ñanduti rogue ha’eỹva ko 
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = VPN mba’ekuaarã jesygua
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

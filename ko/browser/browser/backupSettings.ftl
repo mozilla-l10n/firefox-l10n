@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }백업
 settings-data-backup-header2 =
     .label = 백업
     .description = 북마크, 기록, 기타 데이터를 자동으로 보호하세요.
-settings-data-backup-header = 백업
 settings-data-backup-toggle = 백업 관리
 settings-data-backup-toggle-on2 =
     .label = 백업 켜기
 settings-data-backup-toggle-off2 =
     .label = 백업 끄기
-settings-data-backup-toggle-on = 백업 켜기
-settings-data-backup-toggle-off = 백업 끄기
 settings-data-backup-trigger-button = 지금 백업
 settings-data-backup-in-progress-button = 백업 진행 중…
 settings-data-backup-in-progress-message =
     .message = 백업 진행 중…
-settings-data-backup-scheduled-backups-on = 백업: 켜짐
-settings-data-backup-scheduled-backups-off = 백업: 꺼짐
-settings-data-backup-scheduled-backups-description = 북마크, 기록 및 기타 데이터를 자동으로 보호합니다. <a data-l10n-name="support-link">더 알아보기</a>
 settings-data-backup-last-backup-date = 마지막 백업: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = 백업 켜짐
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = 백업 위치
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = 위치
 settings-data-backup-last-backup-location-show-in-folder = 폴더에서 보기
 settings-data-backup-last-backup-location-edit = 편집…
 settings-data-create-backup-error = 백업을 만드는 중에 오류가 발생했습니다.  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = 데이터 복원
     .description = 다른 기기의 { -brand-product-name } 백업을 사용하여 데이터를 복원하세요.
-settings-data-backup-restore-header = 데이터 복원
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = 다른 기기의 { -brand-product-name } 백업을 사용하여 데이터를 복원하세요.
-settings-data-backup-scheduled-backups-off-restore-choose = 백업 파일 선택…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = 마지막 백업 당시의 { -brand-product-name } 데이터를 복구하세요.
-settings-data-backup-scheduled-backups-on-restore-choose = 복원…
 settings-sensitive-data =
     .label = 민감한 데이터
-settings-data-toggle-encryption-label = 민감한 정보 백업
 settings-data-toggle-encryption-support-link = 더 알아보기
 settings-data-change-password2 =
     .label = 비밀번호 변경
-settings-data-change-password = 비밀번호 변경…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = 데이터 복원
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = 어떤 것이 복원되나요?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = 이는 현재 { -brand-short-name }의 모든 데이터를 { DATETIME($date, timeStyle: "short", dateStyle: "short") }에 백업한 것으로 대체합니다.
-restore-from-backup-support-link =
-    .message = 어떤 것이 복원되나요?
-restore-from-backup-no-backup-file-link = 백업을 찾는데 문제가 있으신가요?
 restore-from-backup-filepicker-label = 백업 파일
 restore-from-backup-filepicker-title = 백업 파일 선택:
 restore-from-backup-file-choose-button =
@@ -279,10 +254,6 @@ backup-file-creation-metadata2 = { $machineName }에서 { DATETIME($date, year: 
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }에 { $deviceName }에서 복원됨
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성됨
 backup-file-restore-file-validation-error = 이 파일은 작동하지 않습니다. 다른 파일을 선택해 보세요. <a data-l10n-name="restore-problems">여전히 문제가 해결되지 않았나요?</a>
 restore-from-backup-filepicker-input =
     .placeholder = 선택된 파일 없음

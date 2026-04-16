@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = გაფრთხილება საიტების მიერ გაფართოების ჩადგმის მცდელობისას
     .accesskey = ხ
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = მართეთ ამომხტომებისა და გარე გადამისამართების გამონაკლისები…
-    .accesskey = კ
-    .searchkeywords = ამომხტომები
 permissions-addon-exceptions2 =
     .label = აირჩიეთ საიტები, რომელთაც შეეძლება გაფართოებების დაყენება
     .accesskey = გ

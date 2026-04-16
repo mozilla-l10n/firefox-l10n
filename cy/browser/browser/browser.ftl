@@ -665,9 +665,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Analluogi diogelwch rhannu ar gyfer y sesiwn hon
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = I ddefnyddio'r llwybr byr F12, agorwch DevTools yn gyntaf trwy'r ddewislen Offer Porwr.

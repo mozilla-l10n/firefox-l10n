@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
     .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
-site-exclusion-toggle-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
-site-exclusion-toggle-enabled =
-    .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਚਾਲੂ ਹੈ
-site-exclusion-toggle-disabled =
-    .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
 ipprotection-settings-link =
     .label = ਸੈਟਿੰਗਾਂ
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ ਲਈ ਨਾਲ ਮੌਜੂਦ VPN ਹੈ।
 ip-protection-learn-more = ਹੋਰ ਜਾਣੋ
-ip-protection-site-exceptions =
-    .label = ਖਾਸ ਸਾਈਟ ਸੈਟਿੰਗਾਂ
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = ਇਸ ਸੂਚੀ ਵਿੱਚ ਦਿੱਤੀ
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = ਮਹੀਨੇਵਾਰ VPN ਡਾਟਾ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

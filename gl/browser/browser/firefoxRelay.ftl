@@ -20,7 +20,6 @@ firefox-relay-get-unlimited-masks =
     .accesskey = m
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protexa o seu enderezo de correo electrónico:
-firefox-relay-opt-in-title-2 = Obtén unha máscara de correo electrónico gratuíta
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Usar a máscara de correo electrónico { -relay-brand-name }

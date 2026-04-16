@@ -11,10 +11,6 @@ about-translations-learn-more-link = Läs mer
 about-translations-unsupported-info-message-2 =
     .heading = Översättning är inte tillgänglig på den här enheten
     .message = Försök att byta till en annan enhet.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Översättning är inte tillgänglig på den här enheten.
-    .message = Försök att byta till en annan enhet.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Översättningar är inte tillgängliga för din organisation
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Blockera inte
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Kunde inte ladda språken
-    .message = Kontrollera din internetanslutning och försök igen.
-about-translations-unsupported-info-button = Läs mer
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Kunde inte ladda språken.
     .message = Kontrollera din internetanslutning och försök igen.
 about-translations-language-load-error-button = Försök igen
 # An error message displayed when a translation request fails.

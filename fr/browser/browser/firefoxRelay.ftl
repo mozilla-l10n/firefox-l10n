@@ -36,12 +36,10 @@ firefox-relay-dismiss =
     .accesskey = I
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protégez votre adresse e-mail :
-firefox-relay-opt-in-title-2 = Obtenez un alias de messagerie gratuit
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = utilisez les alias de messagerie de { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Utilisez un alias de messagerie
-firefox-relay-opt-in-subtitle-2 = Protégez votre boîte de réception du courrier indésirable
 firefox-relay-use-mask-title = Utilisez les alias de messagerie de { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Évitez les e-mails indésirables grâce à un alias de messagerie gratuit

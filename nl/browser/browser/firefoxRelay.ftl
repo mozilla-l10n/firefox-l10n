@@ -36,12 +36,10 @@ firefox-relay-dismiss =
     .accesskey = S
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Bescherm uw e-mailadres:
-firefox-relay-opt-in-title-2 = Ontvang een gratis e-mailmasker
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = { -relay-brand-name }-e-mailmasker gebruiken
 firefox-relay-use-mask-title-1 = Een e-mailmasker gebruiken
-firefox-relay-opt-in-subtitle-2 = Bescherm uw Postvak IN tegen spam
 firefox-relay-use-mask-title = { -relay-brand-name }-e-mailmasker gebruiken
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Voorkom spam met een gratis e-mailmasker

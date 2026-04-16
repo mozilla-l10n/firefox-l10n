@@ -11,10 +11,6 @@ about-translations-learn-more-link = Ďalšie informácie
 about-translations-unsupported-info-message-2 =
     .heading = Preklad nie je na tomto zariadení k dispozícii
     .message = Skúste prejsť na iné zariadenie.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Preklad nie je na tomto zariadení k dispozícii.
-    .message = Skúste prejsť na iné zariadenie.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Preklady nie sú pre vašu organizáciu k dispozícii
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Odblokovať
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Nepodarilo sa načítať jazyky
-    .message = Skontrolujte svoje internetové pripojenie a skúste to znova.
-about-translations-unsupported-info-button = Ďalšie informácie
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Nepodarilo sa načítať jazyky.
     .message = Skontrolujte svoje internetové pripojenie a skúste to znova.
 about-translations-language-load-error-button = Skúsiť znova
 # An error message displayed when a translation request fails.

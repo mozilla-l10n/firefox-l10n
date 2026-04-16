@@ -641,9 +641,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Mjete Shfletuesi.

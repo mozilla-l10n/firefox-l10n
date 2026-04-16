@@ -383,6 +383,7 @@ newtab-custom-settings = Več nastavitev
 
 newtab-wallpaper-title = Ozadja
 newtab-wallpaper-reset = Ponastavi privzeto
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Naloži sliko
 newtab-wallpaper-custom-color = Izberite barvo
 newtab-wallpaper-toggle-title =
@@ -409,6 +410,7 @@ newtab-wallpaper-light-fox-anniversary = Lisica na travnatem polju v megleni gor
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Enobarvna
 newtab-wallpaper-blue = Modro
 newtab-wallpaper-light-blue = Svetlo modro
@@ -515,7 +517,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celzij
 newtab-weather-menu-change-temperature-units-fahrenheit = Preklopi na stopinje Fahrenheita
 newtab-weather-menu-change-temperature-units-celsius = Preklopi na stopinje Celzija
-newtab-weather-menu-hide-weather-v2 = Skrij vreme
 newtab-weather-menu-hide-weather = Skrij vreme na novem zavihku
 newtab-weather-menu-learn-more = Več o tem
 newtab-weather-menu-detect-my-location = Zaznaj mojo lokacijo
@@ -681,7 +682,6 @@ newtab-widget-lists-menu-edit = Uredi ime seznama
 newtab-widget-lists-menu-create = Ustvari nov seznam
 newtab-widget-lists-menu-delete = Izbriši ta seznam
 newtab-widget-lists-menu-copy = Kopiraj seznam v odložišče
-newtab-widget-lists-menu-hide = Skrij vse sezname
 newtab-widget-lists-menu-learn-more = Več o tem
 newtab-widget-lists-input-add-an-item =
     .placeholder = Dodaj element
@@ -738,7 +738,6 @@ newtab-widget-timer-reset =
     .title = Ponastavi
 newtab-widget-timer-menu-notifications = Izklopi obvestila
 newtab-widget-timer-menu-notifications-on = Vklopi obvestila
-newtab-widget-timer-menu-hide = Skrij odštevalnik
 newtab-widget-timer-menu-learn-more = Več o tem
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Glavne novice

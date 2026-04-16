@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
     .label = גיבוי
     .description = הגנה אוטומטית על הסימניות, ההיסטוריה ושאר הנתונים שלך.
-settings-data-backup-header = גיבוי
 settings-data-backup-toggle = ניהול גיבוי
 settings-data-backup-toggle-on2 =
     .label = הפעלת הגיבוי
 settings-data-backup-toggle-off2 =
     .label = כיבוי הגיבוי
-settings-data-backup-toggle-on = הפעלת הגיבוי
-settings-data-backup-toggle-off = כיבוי הגיבוי
 settings-data-backup-trigger-button = גיבוי כעת
 settings-data-backup-in-progress-button = הגיבוי בתהליך…
 settings-data-backup-in-progress-message =
     .message = הגיבוי בתהליך…
-settings-data-backup-scheduled-backups-on = גיבוי: פעיל
-settings-data-backup-scheduled-backups-off = גיבוי: כבוי
-settings-data-backup-scheduled-backups-description = הגנה אוטומטית על הסימניות, ההיסטוריה ושאר הנתונים שלך. <a data-l10n-name="support-link">מידע נוסף</a>
 settings-data-backup-last-backup-date = גיבוי אחרון: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = הגיבוי פעיל
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = מיקום הגיבוי
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = מיקום
 settings-data-backup-last-backup-location-show-in-folder = הצגה בתיקייה
 settings-data-backup-last-backup-location-edit = עריכה…
 settings-data-create-backup-error = אירעה שגיאה ביצירת הגיבוי שלך ב־{ DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = שחזור הנתונים שלך
     .description = ניתן להשתמש בגיבוי של { -brand-product-name } ממכשיר אחר כדי לשחזר את הנתונים שלך.
-settings-data-backup-restore-header = שחזור הנתונים שלך
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = ניתן להשתמש בגיבוי של { -brand-product-name } ממכשיר אחר כדי לשחזר את הנתונים שלך.
-settings-data-backup-scheduled-backups-off-restore-choose = בחירת קובץ גיבוי…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = ניתן לשחזר את הנתונים של ה־{ -brand-product-name } שלך מהפעם האחרונה שהם גובו.
-settings-data-backup-scheduled-backups-on-restore-choose = שחזור…
 settings-sensitive-data =
     .label = נתונים רגישים
-settings-data-toggle-encryption-label = גיבוי הנתונים הרגישים שלך
 settings-data-toggle-encryption-support-link = מידע נוסף
 settings-data-change-password2 =
     .label = שינוי ססמה
-settings-data-change-password = שינוי ססמה…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = שחזור הנתונים שלך
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = מה ישוחזר?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = פעולה זו תחליף את הנתונים של ה־{ -brand-short-name } שלך עם הגיבוי שלך מ־{ DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = מה ישוחזר?
-restore-from-backup-no-backup-file-link = יש לך בעיות במציאת הגיבוי שלך?
 restore-from-backup-filepicker-label = קובץ גיבוי
 restore-from-backup-filepicker-title = בחירת קובץ גיבוי:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> נוצר בתאריך {
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = שוחזר מ־{ $deviceName } בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } בשעה { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = נוצר בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ב־{ $machineName }
 backup-file-restore-file-validation-error = הקובץ הזה לא עובד. נא לנסות לבחור בקובץ אחר. <a data-l10n-name="restore-problems">עדיין יש לך בעיות?</a>
 restore-from-backup-filepicker-input =
     .placeholder = לא נבחר קובץ

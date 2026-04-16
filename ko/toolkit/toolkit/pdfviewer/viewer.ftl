@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = { $page } 페이지 선택
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = { $page } 페이지 선택
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = { $page } / { $total } 페이지
@@ -638,12 +634,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = 사이드바 표시/숨기기
 pdfjs-toggle-views-manager-notification-button =
     .title = 사이드바 표시/숨기기 (문서에 미리보기/아웃라인/첨부파일/레이어 포함됨)
 pdfjs-toggle-views-manager-button1-label = 페이지 관리
-pdfjs-toggle-views-manager-button-label = 사이드바 표시/숨기기
 pdfjs-views-manager-sidebar =
     .aria-label = 사이드바
 pdfjs-views-manager-sidebar-resizer =
@@ -654,11 +647,9 @@ pdfjs-views-manager-view-selector-button-label = 보기
 pdfjs-views-manager-pages-title = 페이지
 pdfjs-views-manager-outlines-title1 = 문서 아웃라인
     .title = 문서 아웃라인 (더블 클릭해서 모든 항목 펼치기/접기)
-pdfjs-views-manager-outlines-title = 문서 아웃라인
 pdfjs-views-manager-attachments-title = 첨부파일
 pdfjs-views-manager-layers-title1 = 레이어
     .title = 레이어 (더블 클릭해서 모든 레이어를 기본 상태로 재설정)
-pdfjs-views-manager-layers-title = 레이어
 pdfjs-views-manager-pages-option-label = 페이지
 pdfjs-views-manager-outlines-option-label = 문서 아웃라인
 pdfjs-views-manager-attachments-option-label = 첨부파일
@@ -675,7 +666,6 @@ pdfjs-views-manager-pages-status-copy-button-label = 복사
 pdfjs-views-manager-pages-status-cut-button-label = 잘라내기
 pdfjs-views-manager-pages-status-delete-button-label = 삭제
 pdfjs-views-manager-pages-status-export-selected-button-label = 선택 페이지 내보내기…
-pdfjs-views-manager-pages-status-save-as-button-label = 다른 이름으로 저장…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label = { $count }개 페이지 잘림

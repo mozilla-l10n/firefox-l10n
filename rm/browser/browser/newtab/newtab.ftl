@@ -365,6 +365,7 @@ newtab-custom-settings = Administrar ulteriurs parameters
 
 newtab-wallpaper-title = Maletgs dal fund davos
 newtab-wallpaper-reset = Restaurar il standard
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Transferir in maletg
 newtab-wallpaper-custom-color = Tscherner ina colur
 newtab-wallpaper-toggle-title =
@@ -391,6 +392,7 @@ newtab-wallpaper-light-fox-anniversary = Ina vulp sin in prà en ina cuntrada mu
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colurs uni
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Blau cler
@@ -657,7 +659,6 @@ newtab-widget-lists-menu-edit = Modifitgar il num da la glista
 newtab-widget-lists-menu-create = Crear ina nova glista
 newtab-widget-lists-menu-delete = Stizzar questa glista
 newtab-widget-lists-menu-copy = Copiar la glista en l’archiv provisoric
-newtab-widget-lists-menu-hide = Zuppentar tut las glistas
 newtab-widget-lists-menu-learn-more = Ulteriuras infurmaziuns
 newtab-widget-lists-input-add-an-item =
     .placeholder = Agiuntar in element
@@ -708,7 +709,6 @@ newtab-widget-timer-reset =
     .title = Reinizialisar
 newtab-widget-timer-menu-notifications = Deactivar las notificaziuns
 newtab-widget-timer-menu-notifications-on = Activar las notificaziuns
-newtab-widget-timer-menu-hide = Zuppentar il svegliarin
 newtab-widget-timer-menu-learn-more = Ulteriuras infurmaziuns
 newtab-widget-message-title = Mantegna la concentraziun cun agid da glistas ed in svegliarin integrà
 # to-dos stands for "things to do".

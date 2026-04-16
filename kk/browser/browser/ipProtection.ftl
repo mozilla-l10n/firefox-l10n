@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Бұл сайт үшін VPN пайдалану
     .aria-label = Бұл сайт үшін VPN сөндірулі тұр
-site-exclusion-toggle-label = Бұл сайт үшін VPN пайдалану
-site-exclusion-toggle-enabled =
-    .aria-label = Бұл сайт үшін VPN іске қосулы тұр
-site-exclusion-toggle-disabled =
-    .aria-label = Бұл сайт үшін VPN сөндірулі тұр
 ipprotection-settings-link =
     .label = Баптаулар
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = { -brand-short-name } браузерінде жұмыс істеу кезінде жекелігіңізді арттыруға арналған кірістірілген VPN.
 ip-protection-learn-more = Көбірек білу
-ip-protection-site-exceptions =
-    .label = Сайтқа тән баптаулар
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = Осы тізімдегілерден басқа
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Ай сайынғы VPN деректері
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

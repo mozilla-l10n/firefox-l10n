@@ -11,10 +11,6 @@ about-translations-learn-more-link = Več o tem
 about-translations-unsupported-info-message-2 =
     .heading = Prevajanje na tej napravi ni na voljo
     .message = Poskusite na drugi napravi.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Prevajanje na tej napravi ni na voljo.
-    .message = Poskusite na drugi napravi.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Prevajanje ni na voljo za vašo organizacijo
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Odblokiraj
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Jezikov ni bilo mogoče naložiti
-    .message = Preverite svojo povezavo z internetom in poskusite znova.
-about-translations-unsupported-info-button = Več o tem
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Jezikov ni bilo mogoče naložiti.
     .message = Preverite svojo povezavo z internetom in poskusite znova.
 about-translations-language-load-error-button = Poskusi znova
 # An error message displayed when a translation request fails.

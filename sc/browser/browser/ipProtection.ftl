@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Imprea sa VPN pro custu situ
     .aria-label = Sa VPN est disativada pro custu situ
-site-exclusion-toggle-label = Imprea sa VPN pro custu situ
-site-exclusion-toggle-enabled =
-    .aria-label = Sa VPN est ativa pro custu situ
-site-exclusion-toggle-disabled =
-    .aria-label = Sa VPN est disativada pro custu situ
 ipprotection-settings-link =
     .label = Cunfiguratzione
 

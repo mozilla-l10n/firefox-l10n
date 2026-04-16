@@ -37,12 +37,10 @@ firefox-relay-dismiss =
     .accesskey = d
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Zaštiti svoju e-mail adresu:
-firefox-relay-opt-in-title-2 = Nabavi besplatnu masku e-mail adrese
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Koristi { -relay-brand-name } masku za e-mail adresu
 firefox-relay-use-mask-title-1 = Koristi masku e-mail adrese
-firefox-relay-opt-in-subtitle-2 = Zaštiti sandučić dolazne pošte od neželjene pošte
 firefox-relay-use-mask-title = Koristi { -relay-brand-name } masku za e-mail adresu
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Spriječi neželjenu poštu besplatnom maskom za e-mail adresu

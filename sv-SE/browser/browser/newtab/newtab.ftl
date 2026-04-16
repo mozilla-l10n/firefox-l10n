@@ -380,6 +380,7 @@ newtab-custom-settings = Hantera fler inställningar
 
 newtab-wallpaper-title = Bakgrundsbilder
 newtab-wallpaper-reset = Återställ till standardvärden
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Ladda upp en bild
 newtab-wallpaper-custom-color = Välj en färg
 newtab-wallpaper-toggle-title =
@@ -406,6 +407,7 @@ newtab-wallpaper-light-fox-anniversary = En räv i ett gräsbevuxet fält med et
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Enfärgade färger
 newtab-wallpaper-blue = Blå
 newtab-wallpaper-light-blue = Ljusblå
@@ -512,7 +514,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Byt till Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Byt till Celsius
-newtab-weather-menu-hide-weather-v2 = Dölj väder
 newtab-weather-menu-hide-weather = Dölj väder på ny flik
 newtab-weather-menu-learn-more = Läs mer
 newtab-weather-menu-detect-my-location = Identifiera min plats
@@ -699,7 +700,6 @@ newtab-widget-lists-menu-edit = Redigera listnamn
 newtab-widget-lists-menu-create = Skapa en ny lista
 newtab-widget-lists-menu-delete = Ta bort denna lista
 newtab-widget-lists-menu-copy = Kopiera lista till urklipp
-newtab-widget-lists-menu-hide = Dölj alla listor
 newtab-widget-lists-menu-learn-more = Läs mer
 newtab-widget-lists-input-add-an-item =
     .placeholder = Lägg till ett objekt
@@ -756,7 +756,6 @@ newtab-widget-timer-reset =
     .title = Återställ
 newtab-widget-timer-menu-notifications = Stäng av aviseringar
 newtab-widget-timer-menu-notifications-on = Slå på aviseringar
-newtab-widget-timer-menu-hide = Dölj timer
 newtab-widget-timer-menu-learn-more = Läs mer
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Topprubriker

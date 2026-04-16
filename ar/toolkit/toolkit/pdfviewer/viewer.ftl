@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = حدّد الصفحة { $page }
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = حدّد الصفحة { $page }
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = الصفحة { $page } من { $total }
@@ -670,12 +666,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = بدّل ظهور الشريط الجانبي
 pdfjs-toggle-views-manager-notification-button =
     .title = تبديل الشريط الجانبي (يحتوي المستند على صور مصغرة/مخطط تفصيلي/مرفقات/طبقات)
 pdfjs-toggle-views-manager-button1-label = أدِر الصفحات
-pdfjs-toggle-views-manager-button-label = بدّل ظهور الشريط الجانبي
 pdfjs-views-manager-sidebar =
     .aria-label = الشريط الجانبي
 pdfjs-views-manager-sidebar-resizer =
@@ -686,11 +679,9 @@ pdfjs-views-manager-view-selector-button-label = المناظير
 pdfjs-views-manager-pages-title = الصفحات
 pdfjs-views-manager-outlines-title1 = مخطط المستند
     .title = مخطط المستند (انقر نقرًا مزدوجًا لتوسيع/طي كافة العناصر)
-pdfjs-views-manager-outlines-title = مخطط المستند
 pdfjs-views-manager-attachments-title = المرفقات
 pdfjs-views-manager-layers-title1 = ‏‏طبقات
     .title = الطبقات (انقر نقرًا مزدوجًا لإعادة تعيين كافة الطبقات إلى الحالة المبدئية)
-pdfjs-views-manager-layers-title = ‏‏الطبقات
 pdfjs-views-manager-pages-option-label = الصفحات
 pdfjs-views-manager-outlines-option-label = مخطط المستند
 pdfjs-views-manager-attachments-option-label = المرفقات
@@ -715,7 +706,6 @@ pdfjs-views-manager-pages-status-copy-button-label = انسخ
 pdfjs-views-manager-pages-status-cut-button-label = قصّ
 pdfjs-views-manager-pages-status-delete-button-label = احذف
 pdfjs-views-manager-pages-status-export-selected-button-label = حُدِّد التصدير…
-pdfjs-views-manager-pages-status-save-as-button-label = احفظ باسم…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =

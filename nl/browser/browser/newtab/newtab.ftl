@@ -380,6 +380,7 @@ newtab-custom-settings = Meer instellingen beheren
 
 newtab-wallpaper-title = Achtergronden
 newtab-wallpaper-reset = Standaardwaarden
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Een afbeelding uploaden
 newtab-wallpaper-custom-color = Kies een kleur
 newtab-wallpaper-toggle-title =
@@ -406,6 +407,7 @@ newtab-wallpaper-light-fox-anniversary = Een vos in een grasveld met een mistig 
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Effen kleuren
 newtab-wallpaper-blue = Blauw
 newtab-wallpaper-light-blue = Lichtblauw
@@ -512,7 +514,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Wisselen naar Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Wisselen naar Celsius
-newtab-weather-menu-hide-weather-v2 = Weer verbergen
 newtab-weather-menu-hide-weather = Weer op nieuw tabblad verbergen
 newtab-weather-menu-learn-more = Meer info
 newtab-weather-menu-detect-my-location = Mijn locatie detecteren
@@ -699,7 +700,6 @@ newtab-widget-lists-menu-edit = Lijstnaam bewerken
 newtab-widget-lists-menu-create = Een nieuwe lijst aanmaken
 newtab-widget-lists-menu-delete = Deze lijst verwijderen
 newtab-widget-lists-menu-copy = Lijst naar klembord kopiëren
-newtab-widget-lists-menu-hide = Alle lijsten verbergen
 newtab-widget-lists-menu-learn-more = Meer info
 newtab-widget-lists-input-add-an-item =
     .placeholder = Een item toevoegen
@@ -756,7 +756,6 @@ newtab-widget-timer-reset =
     .title = Herinitialiseren
 newtab-widget-timer-menu-notifications = Notificaties uitschakelen
 newtab-widget-timer-menu-notifications-on = Notificaties inschakelen
-newtab-widget-timer-menu-hide = Timer verbergen
 newtab-widget-timer-menu-learn-more = Meer info
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Topberichten

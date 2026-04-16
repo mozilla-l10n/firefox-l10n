@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Ñongatujey
 settings-data-backup-header2 =
     .label = Ñongatujey
     .description = Emo’ã ijehegui nde rechaukaha, tembiasakue ha ambue mba’e’oka.
-settings-data-backup-header = Ñongatujey
 settings-data-backup-toggle = Ñongatujey ñangareko
 settings-data-backup-toggle-on2 =
     .label = Emyandy ñongatujey
 settings-data-backup-toggle-off2 =
     .label = Embogue ñongatujey
-settings-data-backup-toggle-on = Emyandy ñongatujey
-settings-data-backup-toggle-off = Embogue ñongatujey
 settings-data-backup-trigger-button = Eñongatujey ko’ág̃a
 settings-data-backup-in-progress-button = Ñeñongatujey oikóva…
 settings-data-backup-in-progress-message =
     .message = Ñeñongatujey oikóva…
-settings-data-backup-scheduled-backups-on = Ñongatujey: HENDÝVA
-settings-data-backup-scheduled-backups-off = Ñongatujey: OGUÉVA
-settings-data-backup-scheduled-backups-description = Emo’ã ijehegui nde rechaukaha, tembiasakue ha ambue mba’ekuaarã. <a data-l10n-name="support-link">Eikuaave</a>
 settings-data-backup-last-backup-date = Ñongatu jey ramovéva: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Ñongatujey HENDÝVA
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Ñongatujey rendaite
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Tendaite
 settings-data-backup-last-backup-location-show-in-folder = Ehechauka marandurendápe
 settings-data-backup-last-backup-location-edit = Mbosako’i…
 settings-data-create-backup-error = Oiko jejavy eñongatu jey pyahúvo pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Eru jey mba’ekuaarãita
     .description = Eiporu ñongatu jey { -brand-product-name } mba’e ambue mba’e’oka eru jey hag̃ua ne mba’ekuaarãita.
-settings-data-backup-restore-header = Erujey mba’ekuaarãita
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Eiporu ñongatu jey { -brand-product-name } ambue mba’e’okagua erujey hag̃ua ne mba’ekuaarã.
-settings-data-backup-scheduled-backups-off-restore-choose = Eiporavo marandurenda ykekoha…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Eguerujey ne mba’ekuaarã { -brand-product-name }-gui ejaporamovévagui ñongatu jey.
-settings-data-backup-scheduled-backups-on-restore-choose = Mbojevyjey…
 settings-sensitive-data =
     .label = Mba’ekuaarã oñandúva
-settings-data-toggle-encryption-label = Eñongatu jey ne mba’ekuaarã ñemigua
 settings-data-toggle-encryption-support-link = Kuaave
 settings-data-change-password2 =
     .label = Emoambue ñe’ẽñemi
-settings-data-change-password = Emoambue ñe’ẽñemi…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Erujey mba’ekuaarãita
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = ¿Mba’e pe oñemoĩporãtava?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Kóva omyengoviáta opaite mba’ekuaarã ag̃agua { -brand-short-name } rehegua ñongatu jey tekorosãrã ndive { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = ¿Mba’e pe ojeykekótava?
-restore-from-backup-no-backup-file-link = ¿Ne apañuái ejuhu hag̃ua ñongatu jey?
 restore-from-backup-filepicker-label = Marandurenda ykekoha
 restore-from-backup-filepicker-title = Eiporavo marandurenda ykekoha:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> heñói { DATETIME($dat
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Oñemoĩporã { $deviceName } guive { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } og̃uahẽvo { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Oñemoheñói { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { $machineName }-pe
 backup-file-restore-file-validation-error = Ko marandurenda ndoikói. Eñeha’ã eiporavo ambue marandurenda. <a data-l10n-name="restore-problems"> ¿Oĩ gueteri apañuái?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ndaipóri marandurenda poravopyre

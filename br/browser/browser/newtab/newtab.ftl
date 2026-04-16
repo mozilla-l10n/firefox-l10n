@@ -312,6 +312,7 @@ newtab-custom-settings = Merañ muioc'h a arventennoù
 ## New Tab Wallpapers
 
 newtab-wallpaper-title = Drekleurioù
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Kas ur skeudenn
 newtab-wallpaper-custom-color = Dibab ul liv
 newtab-wallpaper-toggle-title =

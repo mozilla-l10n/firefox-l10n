@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Defnyddio VPN ar gyfer y wefan hon
     .aria-label = Mae VPN i ffwrdd ar y wefan hon
-site-exclusion-toggle-label = Defnyddio VPN ar gyfer y wefan hon
-site-exclusion-toggle-enabled =
-    .aria-label = Mae VPN ymlaen ar y wefan hon
-site-exclusion-toggle-disabled =
-    .aria-label = Mae VPN i ffwrdd ar y wefan hon
 ipprotection-settings-link =
     .label = Gosodiadau
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = VPN mewnol i wella eich preifatrwydd wrth bori ar { -brand-short-name }.
 ip-protection-learn-more = Dysgu rhagor
-ip-protection-site-exceptions =
-    .label = Gosodiadau penodol gwefan
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -175,7 +168,6 @@ ip-protection-exclusions-desc = Defnyddiwch y VPN ar gyfer pob gwefan ac eithrio
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Data VPN misol
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

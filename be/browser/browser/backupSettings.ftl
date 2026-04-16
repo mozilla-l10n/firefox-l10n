@@ -22,21 +22,15 @@ backup-file-name = Рэзервовае капіяванне { -brand-product-na
 settings-data-backup-header2 =
     .label = Рэзервовае капіяванне
     .description = Аўтаматычна абараняйце свае закладкі, гісторыю і іншыя звесткі
-settings-data-backup-header = Рэзервовая капіяванне
 settings-data-backup-toggle = Кіраванне рэзервовым капіяваннем
 settings-data-backup-toggle-on2 =
     .label = Уключыць рэзервовае капіяванне
 settings-data-backup-toggle-off2 =
     .label = Выключыць рэзервовае капіяванне
-settings-data-backup-toggle-on = Уключыць рэзервовае капіяванне
-settings-data-backup-toggle-off = Выключыць рэзервовае капіяванне
 settings-data-backup-trigger-button = Зрабіць рэзервовую копію зараз
 settings-data-backup-in-progress-button = Ідзе рэзервовае капіяванне…
 settings-data-backup-in-progress-message =
     .message = Ідзе рэзервовае капіяванне…
-settings-data-backup-scheduled-backups-on = Рэзервовае капіяванне: УКЛ.
-settings-data-backup-scheduled-backups-off = Рэзервовае капіяванне: ВЫКЛ.
-settings-data-backup-scheduled-backups-description = Аўтаматычна абараніце свае закладкі, гісторыю і іншыя дадзеныя. <a data-l10n-name="support-link">Падрабязней</a>
 settings-data-backup-last-backup-date = Апошняя рэзервовая копія: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Рэзервовае капіяванне ўключана
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Месцазнаходжанне рэзервовай копіі
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Месцазнаходжанне
 settings-data-backup-last-backup-location-show-in-folder = Паказаць у папцы
 settings-data-backup-last-backup-location-edit = Рэдагаваць…
 settings-data-create-backup-error = Здарылася памылка пры стварэнні рэзервовай копіі ў { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Аднаўленне дадзеных
     .description = Выкарыстайце рэзервовую копію { -brand-product-name } з іншай прылады, каб аднавіць свае дадзеныя.
-settings-data-backup-restore-header = Аднаўленне дадзеных
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Выкарыстайце рэзервовую копію { -brand-product-name } з іншай прылады, каб аднавіць свае дадзеныя.
-settings-data-backup-scheduled-backups-off-restore-choose = Выбраць файл рэзервовай копіі…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Аднавіце свае дадзеныя { -brand-product-name } з моманту іх апошняга рэзервовага капіявання.
-settings-data-backup-scheduled-backups-on-restore-choose = Аднавіць…
 settings-sensitive-data =
     .label = Канфідэнцыяльныя дадзеныя
-settings-data-toggle-encryption-label = Зрабіць рэзервовую копію канфідэнцыяльных дадзеных
 settings-data-toggle-encryption-support-link = Падрабязней
 settings-data-change-password2 =
     .label = Змяніць пароль
-settings-data-change-password = Змяніць пароль…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Аднаўленне дадзеных
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Што будзе адноўлена?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Гэта заменіць усе вашы цяперашнія дадзеныя { -brand-short-name } рэзервовай копіяй з { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Што будзе адноўлена?
-restore-from-backup-no-backup-file-link = Праблемы з пошукам рэзервовай копіі?
 restore-from-backup-filepicker-label = Файл рэзервовай копіі
 restore-from-backup-filepicker-title = Выберыце файл рэзервовай копіі:
 restore-from-backup-file-choose-button =
@@ -284,10 +259,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> створаны { DATE
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Адноўлена з { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } у { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Створана { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } на { $machineName }
 backup-file-restore-file-validation-error = З гэтым файлам нешта не так. Паспрабуйце выбраць іншы файл. <a data-l10n-name="restore-problems">Усё яшчэ ёсць праблемы?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Файл не выбраны

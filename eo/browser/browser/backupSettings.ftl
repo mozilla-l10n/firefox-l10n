@@ -22,21 +22,15 @@ backup-file-name = Sekurkopio de { -brand-product-name }
 settings-data-backup-header2 =
     .label = Sekurkopio
     .description = Aŭtomate protektu viajn legosignojn, historion kaj aliajn datumojn.
-settings-data-backup-header = Sekurkopio
 settings-data-backup-toggle = Administri sekurkopion
 settings-data-backup-toggle-on2 =
     .label = Ŝalti sekurkopion
 settings-data-backup-toggle-off2 =
     .label = Malŝalti sekurkopion
-settings-data-backup-toggle-on = Ŝalti sekurkopion
-settings-data-backup-toggle-off = Malŝalti sekurkopion
 settings-data-backup-trigger-button = Fari sekurkopion nun
 settings-data-backup-in-progress-button = Sekurkopio farata…
 settings-data-backup-in-progress-message =
     .message = Sekurkopio farata…
-settings-data-backup-scheduled-backups-on = Sekurkopio: aktiva
-settings-data-backup-scheduled-backups-off = Sekurkopio: malaktiva
-settings-data-backup-scheduled-backups-description = Aŭtomate protektu viajn legosignojn, historion, kaj aliajn datumojn. <a data-l10n-name="support-link">Pli da informo</a>
 settings-data-backup-last-backup-date = Lasta sekurkopio: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Sekurkopioj aktivaj
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Dosierujo por sekurkopioj
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Loko
 settings-data-backup-last-backup-location-show-in-folder = Montri en dosierujo
 settings-data-backup-last-backup-location-edit = Modifi…
 settings-data-create-backup-error = Okazis eraro dum la kreado de via sekurkopio je { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Restarigi viajn datumojn
     .description = Uzu sekurkopion de { -brand-product-name } en alia aparato por rehavi viajn datumojn.
-settings-data-backup-restore-header = Restarigi viajn datumojn
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Uzu sekurkopion de { -brand-product-name } en alia aparato por restarigi viajn datumojn.
-settings-data-backup-scheduled-backups-off-restore-choose = Elekti sekurkopian dosieron…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Restarigi viajn datumojn de { -brand-product-name } el la lasta sekurkopio.
-settings-data-backup-scheduled-backups-on-restore-choose = Restarigi…
 settings-sensitive-data =
     .label = Delikataj datumoj
-settings-data-toggle-encryption-label = Faru sekurkopion de viaj delikataj datumoj
 settings-data-toggle-encryption-support-link = Pli da informo
 settings-data-change-password2 =
     .label = Ŝanĝi pasvorton
-settings-data-change-password = Ŝanĝi pasvorton…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Restarigi viajn datumojn
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Kio estos restarigita?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Tio ĉi anstataŭigos ĉiujn nunajn datumon de { -brand-short-name } per la datumoj de via sekurkopio el { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Kio estos restarigita?
-restore-from-backup-no-backup-file-link = Ĉu vi ne sukcesas retrovi vian sekurkopion?
 restore-from-backup-filepicker-label = Sekurkopia dosiero
 restore-from-backup-filepicker-title = Elekti sekurkopian dosieron:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> kreita je { DATETIME($d
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Restarigita el { $deviceName } je { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") },  { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Kreita je { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
 backup-file-restore-file-validation-error = Tiu ĉi dosiero ne funkcias. Provu elekti alian. <a data-l10n-name="restore-problems">Ĉu vi ankoraŭ havas problemojn?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Neniu dosiero elektita

@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Вебсайттар кеңейтулерді орнатқысы келсе, ескертуді көрсету
     .accesskey = е
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Қалқымалы терезе мен үшінші тарапқа қайта бағыттаудың ережеден тыс жағдайларын басқару
-    .accesskey = е
-    .searchkeywords = қалқымалы
 permissions-addon-exceptions2 =
     .label = Кеңейтулерді орната алатын веб-сайттарды таңдау
     .accesskey = е

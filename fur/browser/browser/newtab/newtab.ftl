@@ -366,6 +366,7 @@ newtab-custom-settings = Gjestìs plui impostazions
 
 newtab-wallpaper-title = Fonts
 newtab-wallpaper-reset = Ripristine predefinît
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Cjame une imagjin
 newtab-wallpaper-custom-color = Sielç un colôr
 newtab-wallpaper-toggle-title =
@@ -392,6 +393,7 @@ newtab-wallpaper-light-fox-anniversary = Une bolp intun cjamp jerbôs cuntun pae
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colôr solit
 newtab-wallpaper-blue = Blu
 newtab-wallpaper-light-blue = Blu clâr
@@ -661,7 +663,6 @@ newtab-widget-lists-menu-edit = Modifiche non liste
 newtab-widget-lists-menu-create = Cree gnove liste
 newtab-widget-lists-menu-delete = Elimine cheste liste
 newtab-widget-lists-menu-copy = Copie liste intes notis
-newtab-widget-lists-menu-hide = Plate dutis lis listis
 newtab-widget-lists-menu-learn-more = Plui informazions
 newtab-widget-lists-input-add-an-item =
     .placeholder = Zonte un element
@@ -712,7 +713,6 @@ newtab-widget-timer-reset =
     .title = Ripristine
 newtab-widget-timer-menu-notifications = Disative lis notifichis
 newtab-widget-timer-menu-notifications-on = Ative lis notifichis
-newtab-widget-timer-menu-hide = Plate temporizadôr
 newtab-widget-timer-menu-learn-more = Plui informazions
 newtab-widget-message-title = Reste concentrât doprant lis listis e il temporizadôr integrât
 # to-dos stands for "things to do".

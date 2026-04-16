@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Bu sitede VPN kullan
     .aria-label = Bu sitede VPN kapalı
-site-exclusion-toggle-label = Bu sitede VPN kullan
-site-exclusion-toggle-enabled =
-    .aria-label = Bu sitede VPN açık
-site-exclusion-toggle-disabled =
-    .aria-label = Bu sitede VPN kapalı
 ipprotection-settings-link =
     .label = Ayarlar
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = { -brand-short-name } ile gezinirken gizliliğinizi artıracak yerleşik VPN.
 ip-protection-learn-more = Daha fazla bilgi al
-ip-protection-site-exceptions =
-    .label = Siteye özel ayarlar
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = Bu listedeki siteler hariç tüm web siteleri i�
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Aylık VPN kotası
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

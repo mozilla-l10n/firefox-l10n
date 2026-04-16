@@ -22,21 +22,15 @@ backup-file-name = Copïo wrth Gefn { -brand-product-name }
 settings-data-backup-header2 =
     .label = Copïo wrth Gefn
     .description = Diogelu eich nodau tudalen, hanes a data arall.
-settings-data-backup-header = Copïo wrth Gefn
 settings-data-backup-toggle = Rheoli copïo wrth gefn
 settings-data-backup-toggle-on2 =
     .label = Troi copïo wrth gefn ymlaen
 settings-data-backup-toggle-off2 =
     .label = Diffodd copïo wrth gefn
-settings-data-backup-toggle-on = Troi copïo wrth gefn ymlaen
-settings-data-backup-toggle-off = Diffodd copïo wrth gefn
 settings-data-backup-trigger-button = Gwneud copi wrth gefn nawr
 settings-data-backup-in-progress-button = Wrthi'n copïo wrth gefn…
 settings-data-backup-in-progress-message =
     .message = Wrthi'n gwneud copi wrth gefn…
-settings-data-backup-scheduled-backups-on = Copïo wrth gefn: YMLAEN
-settings-data-backup-scheduled-backups-off = Copïo wrth gefn: I FFWRDD
-settings-data-backup-scheduled-backups-description = Diogelwch eich nodau tudalen, hanes, a data arall yn awtomatig. <a data-l10n-name="support-link">Dysgu rhagor</a>
 settings-data-backup-last-backup-date = Copïo wrth gefn diwethaf: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Mae copi wrth gefn YMLAEN
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Lleoliad copïo wrth gefn
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Lleoliad
 settings-data-backup-last-backup-location-show-in-folder = Dangos mewn ffolder
 settings-data-backup-last-backup-location-edit = Golygu…
 settings-data-create-backup-error = Bu gwall wrth greu eich copi wrth gefn ar { DATETIME($date, timeStyle: "short") } , { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Adfer eich data
     .description = Defnyddio copi wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data.
-settings-data-backup-restore-header = Adfer eich data
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Defnyddio copïo wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data.
-settings-data-backup-scheduled-backups-off-restore-choose = Dewiswch ffeil wrth gefn…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Adferwch eich data { -brand-product-name } o'r tro diwethaf iddo gael ei wneud wrth gefn.
-settings-data-backup-scheduled-backups-on-restore-choose = Wthi'n adfer…
 settings-sensitive-data =
     .label = Data sensitif
-settings-data-toggle-encryption-label = Gwnewch gopi wrth gefn o'ch data sensitif
 settings-data-toggle-encryption-support-link = Dysgu rhagor
 settings-data-change-password2 =
     .label = Newid cyfrinair
-settings-data-change-password = Newid cyfrinair…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Adfer eich data
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Beth fydd yn cael ei adfer?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Bydd hyn yn amnewid eich holl ddata { -brand-short-name } cyfredol gyda'ch copi wrth gefn o { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Beth fydd yn cael ei adfer?
-restore-from-backup-no-backup-file-link = Cael trafferth dod o hyd i'ch copi wrth gefn?
 restore-from-backup-filepicker-label = Ffeil wrth copi wrth gefn
 restore-from-backup-filepicker-title = Dewiswch Ffeil Wrth Gefn:
 restore-from-backup-file-choose-button =
@@ -287,10 +262,6 @@ backup-file-creation-metadata2 = Cafodd <b>{ $profileName }</b> ei greu ar { DAT
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Wedi'i adfer o { $deviceName } ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } am { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Wedi'i greu ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ar { $machineName }
 backup-file-restore-file-validation-error = Nid yw'r ffeil hon yn gweithio. Ceisiwch ddewis ffeil wahanol. <a data-l10n-name="restore-problems">Dal yn cael problemau?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Heb ddewis ffeil

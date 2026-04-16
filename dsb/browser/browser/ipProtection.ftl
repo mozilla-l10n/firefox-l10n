@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = VPN za toś to sedło wužywaś
     .aria-label = VPN jo za toś to sedło znjemóžnjony
-site-exclusion-toggle-label = VPN za toś to sedło wužywaś
-site-exclusion-toggle-enabled =
-    .aria-label = VPN jo za toś to sedło zmóžnjony
-site-exclusion-toggle-disabled =
-    .aria-label = VPN jo za toś to sedło znjemóžnjony
 ipprotection-settings-link =
     .label = Nastajenja
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Zatwarjony VPN, aby wašu priwatnosć pólěpšył, mjaztym až z { -brand-short-name } pśeglědujośo.
 ip-protection-learn-more = Dalšne informacije
-ip-protection-site-exceptions =
-    .label = Specifiske nastajenja sedła
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -173,7 +166,6 @@ ip-protection-exclusions-desc = Wužywajśo VPN za wšykne websedła mimo za te,
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Mjasecne daty VPN
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

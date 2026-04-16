@@ -379,6 +379,7 @@ newtab-custom-settings = Kudeatu ezarpen gehiago
 
 newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Igo irudia
 newtab-wallpaper-custom-color = Aukeratu kolorea
 newtab-wallpaper-toggle-title =
@@ -405,6 +406,7 @@ newtab-wallpaper-light-fox-anniversary = Azeria belardi batean mendiko paisaia l
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Kolore solidoak
 newtab-wallpaper-blue = Urdina
 newtab-wallpaper-light-blue = Urdin argia
@@ -511,7 +513,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Aldatu Fahrenheit-era
 newtab-weather-menu-change-temperature-units-celsius = Aldatu Celsius-era
-newtab-weather-menu-hide-weather-v2 = Ezkutatu eguraldia
 newtab-weather-menu-hide-weather = Ezkutatu eguraldia fitxa berrian
 newtab-weather-menu-learn-more = Argibide gehiago
 newtab-weather-menu-detect-my-location = Hauteman nire kokalekua
@@ -698,7 +699,6 @@ newtab-widget-lists-menu-edit = Editatu zerrendaren izena
 newtab-widget-lists-menu-create = Sortu zerrenda berria
 newtab-widget-lists-menu-delete = Ezabatu zerrenda hau
 newtab-widget-lists-menu-copy = Kopiatu zerrenda arbelean
-newtab-widget-lists-menu-hide = Ezkutatu zerrenda guztiak
 newtab-widget-lists-menu-learn-more = Argibide gehiago
 newtab-widget-lists-input-add-an-item =
     .placeholder = Gehitu elementua
@@ -755,7 +755,6 @@ newtab-widget-timer-reset =
     .title = Berrezarri
 newtab-widget-timer-menu-notifications = Desaktibatu jakinarazpenak
 newtab-widget-timer-menu-notifications-on = Aktibatu jakinarazpenak
-newtab-widget-timer-menu-hide = Ezkutatu tenporizadorea
 newtab-widget-timer-menu-learn-more = Argibide gehiago
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Lerroburu garrantzitsuenak

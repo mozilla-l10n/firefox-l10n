@@ -1940,12 +1940,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = أظهر تحذير عند محاولة المواقع الإلكترونية تثبيت امتدادات
     .accesskey = ه
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = أدر استثناءات النوافذ المنبثقة وإعادة التوجيه من جهات خارجية
-    .accesskey = د
-    .searchkeywords = نوافذ منبثقة
 permissions-addon-exceptions2 =
     .label = اختر المواقع الإلكترونية التي يمكنها تثبيت الامتدادات.
     .accesskey = ت

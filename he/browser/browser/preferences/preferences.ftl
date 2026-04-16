@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = הצגת אזהרה כשאתרים מנסים להתקין הרחבות
     .accesskey = א
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = ניהול חריגות עבור חלונות קופצים והפניות צד שלישי
-    .accesskey = נ
-    .searchkeywords = חלונות קופצים
 permissions-addon-exceptions2 =
     .label = בחירה באתרים המורשים להתקין הרחבות
     .accesskey = ב

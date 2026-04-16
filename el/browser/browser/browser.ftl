@@ -646,9 +646,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Απενεργοποίηση προστασίας κοινής χρήσης για αυτήν τη συνεδρία
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Για να χρησιμοποιήσετε τη συντόμευση F12, ανοίξτε πρώτα τα DevTools μέσω του μενού εργαλείων του προγράμματος περιήγησης.

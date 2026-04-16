@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Ŝalti VPN por tiu ĉi retejo
     .aria-label = VPN malŝaltita por tiu ĉi retejo
-site-exclusion-toggle-label = Ŝalti VPN por tiu ĉi retejo
-site-exclusion-toggle-enabled =
-    .aria-label = VPN ŝaltita por tiu ĉi retejo
-site-exclusion-toggle-disabled =
-    .aria-label = VPN malŝaltita por tiu ĉi retejo
 ipprotection-settings-link =
     .label = Agordoj
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Integrita VPN por plibonigi vian privatecon dum vi retumas per { -brand-short-name }.
 ip-protection-learn-more = Pli da informo
-ip-protection-site-exceptions =
-    .label = Specifaj agordoj por retejoj
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = Uzi VPN por ĉiuj retejoj, krom por tiuj en tiu 
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Ĉiumonataj datumoj de VPN
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

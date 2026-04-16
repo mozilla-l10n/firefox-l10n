@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Користи ВПН за овај сајт
     .aria-label = ВПН је искључен за овај сајт
-site-exclusion-toggle-label = Користи ВПН за овај сајт
-site-exclusion-toggle-enabled =
-    .aria-label = ВПН је укључен за овај сајт
-site-exclusion-toggle-disabled =
-    .aria-label = ВПН је искључен за овај сајт
 ipprotection-settings-link =
     .label = Подешавања
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = ВПН
     .description = Уграђени ВПН за побољшање ваше приватности док прегледате на { -brand-short-name }.
 ip-protection-learn-more = Сазнајте више
-ip-protection-site-exceptions =
-    .label = Поставке за одређена веб-места
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -172,7 +165,6 @@ ip-protection-exclusions-desc = Користите ВПН за сва веб-м�
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Месечни ВПН подаци
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

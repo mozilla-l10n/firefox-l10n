@@ -36,12 +36,10 @@ firefox-relay-dismiss =
     .accesskey = ც
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = დაიცავით საკუთარი ელფოსტის მისამართი:
-firefox-relay-opt-in-title-2 = მიიღეთ უფასო ნიღაბი
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
 firefox-relay-use-mask-title-1 = გამოიყენეთ ელფოსტის ნიღაბი
-firefox-relay-opt-in-subtitle-2 = დაიცავით საფოსტო ყუთი ჯართისგან
 firefox-relay-use-mask-title = გამოიყენეთ { -relay-brand-name } ელფოსტის შესანიღბად
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = აირიდეთ ჯართი ელფოსტის უფასო შენიღბვით.

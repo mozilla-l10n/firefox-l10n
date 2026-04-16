@@ -321,6 +321,7 @@ newtab-custom-close-button = അടയ്ക്കുക
 
 newtab-wallpaper-title = ചുവർകടലാസുകൾ
 newtab-wallpaper-reset = തനിമട്ടിലാക്കുക
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = ചിത്രം കയറ്റുവയ്ക്കുക
 newtab-wallpaper-custom-color = ഒരു നിറം തെരഞ്ഞെടുക്കുക
 newtab-wallpaper-toggle-title =
@@ -331,6 +332,7 @@ newtab-wallpaper-light-sky = പാടലന്നിറത്തിന്റെ
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = കടും നിറങ്ങൾ
 newtab-wallpaper-blue = നീല
 newtab-wallpaper-light-blue = ഇളം നീല
@@ -499,7 +501,6 @@ newtab-widget-lists-label-new =
 newtab-widget-lists-label-beta =
     .label = ബീറ്റ
 newtab-widget-task-list-menu-copy = പകൎത്തുക
-newtab-widget-lists-menu-hide = പട്ടികകളെല്ലാം മറയ്ക്കുക
 newtab-widget-lists-menu-learn-more = കൂടുതല്‍ അറിയുക
 newtab-widget-lists-input-add-an-item =
     .placeholder = ഇനം ചേർക്കുക

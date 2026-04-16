@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Siteler uzantı yüklemeye çalıştığında uyarı göster
     .accesskey = S
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Açılır pencere ve üçüncü taraf yönlendirmesi istisnalarını yönet
-    .accesskey = A
-    .searchkeywords = popups
 permissions-addon-exceptions2 =
     .label = Uzantı yükleyebilecek siteleri seç
     .accesskey = U

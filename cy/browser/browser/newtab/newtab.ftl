@@ -389,6 +389,7 @@ newtab-custom-settings = Rheoli rhagor o osodiadau
 
 newtab-wallpaper-title = Papurau wal
 newtab-wallpaper-reset = Ailosod i'r rhagosodiad
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Llwytho delwedd
 newtab-wallpaper-custom-color = Dewis lliw
 newtab-wallpaper-toggle-title =
@@ -415,6 +416,7 @@ newtab-wallpaper-light-fox-anniversary = Llwynog mewn cae glaswelltog gyda thirl
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Lliwiau solet
 newtab-wallpaper-blue = Glas
 newtab-wallpaper-light-blue = Glas golau
@@ -521,7 +523,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Newid i Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Newid i Celsius
-newtab-weather-menu-hide-weather-v2 = Cuddio'r tywydd
 newtab-weather-menu-hide-weather = Cuddio'r tywydd ar Dab Newydd
 newtab-weather-menu-learn-more = Rhagor
 newtab-weather-menu-detect-my-location = Canfod fy lleoliad
@@ -708,7 +709,6 @@ newtab-widget-lists-menu-edit = Golygu enw'r rhestr
 newtab-widget-lists-menu-create = Creu rhestr newydd
 newtab-widget-lists-menu-delete = Dileu'r rhestr hon
 newtab-widget-lists-menu-copy = Copïo'r rhestr i'r clipfwrdd
-newtab-widget-lists-menu-hide = Cuddio pob rhestr
 newtab-widget-lists-menu-learn-more = Dysgu rhagor
 newtab-widget-lists-input-add-an-item =
     .placeholder = Ychwanegu eitem
@@ -765,7 +765,6 @@ newtab-widget-timer-reset =
     .title = Ailosod
 newtab-widget-timer-menu-notifications = Diffodd hysbysiadau
 newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
-newtab-widget-timer-menu-hide = Cuddio'r amserydd
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Prif Benawdau

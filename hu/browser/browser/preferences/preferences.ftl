@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Figyelmeztetés megjelenítése, ha a webhely kiegészítőket próbál meg telepíteni
     .accesskey = F
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Felugró ablakok és harmadik féltől származó átirányítási kivételek kezelése…
-    .accesskey = e
-    .searchkeywords = felugró ablakok
 permissions-addon-exceptions2 =
     .label = Válassza ki, hogy mely webhelyek telepíthetnek kiegészítőket
     .accesskey = e

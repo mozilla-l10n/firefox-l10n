@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = Selectează pagina { $page }
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = Selectează pagina { $page }
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = Pagina { $page } din { $total }
@@ -657,12 +653,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = Comută bara laterală
 pdfjs-toggle-views-manager-notification-button =
     .title = Comută bara laterală (documentul conține miniaturi/schițe/atașamente/straturi)
 pdfjs-toggle-views-manager-button1-label = Gestionează paginile
-pdfjs-toggle-views-manager-button-label = Comută bara laterală
 pdfjs-views-manager-sidebar =
     .aria-label = Bară laterală
 pdfjs-views-manager-sidebar-resizer =
@@ -673,11 +666,9 @@ pdfjs-views-manager-view-selector-button-label = Vizualizări
 pdfjs-views-manager-pages-title = Pagini
 pdfjs-views-manager-outlines-title1 = Structura documentului
     .title = Structura documentului (dă dublu clic pentru extinderea/restrângerea elementelor)
-pdfjs-views-manager-outlines-title = Schiță document
 pdfjs-views-manager-attachments-title = Atașamente
 pdfjs-views-manager-layers-title1 = Straturi
     .title = Straturi (dă dublu clic ca să resetezi toate straturile la starea implicită)
-pdfjs-views-manager-layers-title = Straturi
 pdfjs-views-manager-pages-option-label = Pagini
 pdfjs-views-manager-outlines-option-label = Schiță document
 pdfjs-views-manager-attachments-option-label = Atașamente
@@ -699,7 +690,6 @@ pdfjs-views-manager-pages-status-copy-button-label = Copiază
 pdfjs-views-manager-pages-status-cut-button-label = Taie
 pdfjs-views-manager-pages-status-delete-button-label = Șterge
 pdfjs-views-manager-pages-status-export-selected-button-label = Exportă selecția…
-pdfjs-views-manager-pages-status-save-as-button-label = Salvează ca…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =

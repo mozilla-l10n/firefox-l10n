@@ -41,11 +41,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Истифодаи «VPN» барои ин сомона
     .aria-label = «VPN» барои ин сомона ғайрифаъол аст
-site-exclusion-toggle-label = Истифодаи «VPN» барои ин сомона
-site-exclusion-toggle-enabled =
-    .aria-label = «VPN» барои ин сомона фаъол аст
-site-exclusion-toggle-disabled =
-    .aria-label = «VPN» барои ин сомона ғайрифаъол аст
 ipprotection-settings-link =
     .label = Танзимот
 

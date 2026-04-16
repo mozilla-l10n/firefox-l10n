@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = Selecciona la página { $page }
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = Selecciona la página { $page }
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = Página { $page } de { $total }
@@ -654,12 +650,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = Barra lateral
 pdfjs-toggle-views-manager-notification-button =
     .title = Cambiar barra lateral (índice de contenidos del documento/miniaturas/adjuntos/capas)
 pdfjs-toggle-views-manager-button1-label = Gestionar páginas
-pdfjs-toggle-views-manager-button-label = Barra lateral
 pdfjs-views-manager-sidebar =
     .aria-label = Barra lateral
 pdfjs-views-manager-sidebar-resizer =
@@ -670,11 +663,9 @@ pdfjs-views-manager-view-selector-button-label = Vistas
 pdfjs-views-manager-pages-title = Páginas
 pdfjs-views-manager-outlines-title1 = Esquema del documento
     .title = Esquema del documento (doble clic para expandir/contraer todos los elementos)
-pdfjs-views-manager-outlines-title = Esquema del documento
 pdfjs-views-manager-attachments-title = Adjuntos
 pdfjs-views-manager-layers-title1 = Capas
     .title = Capas (doble clic para restablecer todas las capas a su estado predeterminado)
-pdfjs-views-manager-layers-title = Capas
 pdfjs-views-manager-pages-option-label = Páginas
 pdfjs-views-manager-outlines-option-label = Esquema del documento
 pdfjs-views-manager-attachments-option-label = Adjuntos
@@ -695,7 +686,6 @@ pdfjs-views-manager-pages-status-copy-button-label = Copiar
 pdfjs-views-manager-pages-status-cut-button-label = Cortar
 pdfjs-views-manager-pages-status-delete-button-label = Eliminar
 pdfjs-views-manager-pages-status-export-selected-button-label = Exportar selección…
-pdfjs-views-manager-pages-status-save-as-button-label = Guardar como…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =

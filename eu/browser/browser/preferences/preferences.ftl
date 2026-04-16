@@ -2028,12 +2028,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Erakutsi abisua webguneak hedapenak instalatzen saiatzen badira
     .accesskey = b
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Kudeatu laster-leihoen eta hirugarrenek eragindako birbideratzeen salbuespenak
-    .accesskey = e
-    .searchkeywords = laster-leihoak laster-leiho popup
 permissions-addon-exceptions2 =
     .label = Aukeratu zein webgunek instala ditzaketen hedapenak
     .accesskey = A

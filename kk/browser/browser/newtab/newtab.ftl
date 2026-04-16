@@ -378,6 +378,7 @@ newtab-custom-settings = Көбірек баптауларды басқару
 
 newtab-wallpaper-title = Түсқағаздар
 newtab-wallpaper-reset = Бастапқы түріне тастау
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Суретті жүктеп жіберу
 newtab-wallpaper-custom-color = Түсті таңдау
 newtab-wallpaper-toggle-title =
@@ -404,6 +405,7 @@ newtab-wallpaper-light-fox-anniversary = Тұманды тау пейзажы б
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Тұтас түстер
 newtab-wallpaper-blue = Көк
 newtab-wallpaper-light-blue = Ашық көк
@@ -510,7 +512,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Фаренгейт
 newtab-weather-menu-temperature-option-celsius = Цельсий
 newtab-weather-menu-change-temperature-units-fahrenheit = Фаренгейтке ауысу
 newtab-weather-menu-change-temperature-units-celsius = Цельсийге ауысу
-newtab-weather-menu-hide-weather-v2 = Ауа райын жасыру
 newtab-weather-menu-hide-weather = Жаңа бетте ауа райын жасыру
 newtab-weather-menu-learn-more = Көбірек білу
 newtab-weather-menu-detect-my-location = Менің орналасуымды анықтау
@@ -697,7 +698,6 @@ newtab-widget-lists-menu-edit = Тізім атауын түзету
 newtab-widget-lists-menu-create = Жаңа тізімді жасау
 newtab-widget-lists-menu-delete = Бұл тізімді өшіру
 newtab-widget-lists-menu-copy = Тізімді алмасу буферіне көшіру
-newtab-widget-lists-menu-hide = Барлық тізімдерді жасыру
 newtab-widget-lists-menu-learn-more = Көбірек білу
 newtab-widget-lists-input-add-an-item =
     .placeholder = Элементті қосу
@@ -754,7 +754,6 @@ newtab-widget-timer-reset =
     .title = Тастау
 newtab-widget-timer-menu-notifications = Хабарламаларды сөндіру
 newtab-widget-timer-menu-notifications-on = Хабарламаларды іске қосу
-newtab-widget-timer-menu-hide = Таймерді жасыру
 newtab-widget-timer-menu-learn-more = Көбірек білу
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Басты жаңалықтар

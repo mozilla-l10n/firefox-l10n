@@ -384,6 +384,7 @@ newtab-custom-settings = Muokkaa lisää asetuksia
 
 newtab-wallpaper-title = Taustakuvat
 newtab-wallpaper-reset = Palauta oletusarvo
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Lähetä kuva
 newtab-wallpaper-custom-color = Valitse väri
 newtab-wallpaper-toggle-title =
@@ -410,6 +411,7 @@ newtab-wallpaper-light-fox-anniversary = Kettu ruohopellolla ja sumuinen vuorist
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Yhtenäiset värit
 newtab-wallpaper-blue = Sininen
 newtab-wallpaper-light-blue = Vaaleansininen
@@ -516,7 +518,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Vaihda Fahrenheitiin
 newtab-weather-menu-change-temperature-units-celsius = Vaihda Celsiukseen
-newtab-weather-menu-hide-weather-v2 = Piilota sää
 newtab-weather-menu-hide-weather = Piilota sää uudessa välilehdessä
 newtab-weather-menu-learn-more = Lue lisää
 newtab-weather-menu-detect-my-location = Havaitse sijaintini
@@ -703,7 +704,6 @@ newtab-widget-lists-menu-edit = Muokkaa listan nimeä
 newtab-widget-lists-menu-create = Luo uusi lista
 newtab-widget-lists-menu-delete = Poista tämä lista
 newtab-widget-lists-menu-copy = Kopioi lista leikepöydälle
-newtab-widget-lists-menu-hide = Piilota kaikki listat
 newtab-widget-lists-menu-learn-more = Lue lisää
 newtab-widget-lists-input-add-an-item =
     .placeholder = Lisää kohde
@@ -760,7 +760,6 @@ newtab-widget-timer-reset =
     .title = Nollaa
 newtab-widget-timer-menu-notifications = Poista ilmoitukset käytöstä
 newtab-widget-timer-menu-notifications-on = Ota ilmoitukset käyttöön
-newtab-widget-timer-menu-hide = Piilota ajastin
 newtab-widget-timer-menu-learn-more = Lue lisää
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Pääotsikot

@@ -376,6 +376,7 @@ newtab-custom-settings = Diğer ayarları yönet
 
 newtab-wallpaper-title = Duvar kâğıtları
 newtab-wallpaper-reset = Varsayılana sıfırla
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Resim yükle
 newtab-wallpaper-custom-color = Renk seç
 newtab-wallpaper-toggle-title =
@@ -402,6 +403,7 @@ newtab-wallpaper-light-fox-anniversary = Sisli bir dağ manzarasıyla çimenli b
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Düz renkler
 newtab-wallpaper-blue = Mavi
 newtab-wallpaper-light-blue = Açık mavi
@@ -508,7 +510,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenhayt
 newtab-weather-menu-temperature-option-celsius = Celcius
 newtab-weather-menu-change-temperature-units-fahrenheit = Fahrenhayta geç
 newtab-weather-menu-change-temperature-units-celsius = Celsius’a geç
-newtab-weather-menu-hide-weather-v2 = Hava durumunu gizle
 newtab-weather-menu-hide-weather = Yeni sekmede hava durumunu gizle
 newtab-weather-menu-learn-more = Daha fazla bilgi al
 newtab-weather-menu-detect-my-location = Konumumu tespit et
@@ -695,7 +696,6 @@ newtab-widget-lists-menu-edit = Liste adını düzenle
 newtab-widget-lists-menu-create = Yeni liste oluştur
 newtab-widget-lists-menu-delete = Bu listeyi sil
 newtab-widget-lists-menu-copy = Listeyi panoya kopyala
-newtab-widget-lists-menu-hide = Tüm listeleri gizle
 newtab-widget-lists-menu-learn-more = Daha fazla bilgi al
 newtab-widget-lists-input-add-an-item =
     .placeholder = Görev ekle
@@ -752,7 +752,6 @@ newtab-widget-timer-reset =
     .title = Sıfırla
 newtab-widget-timer-menu-notifications = Bildirimleri kapat
 newtab-widget-timer-menu-notifications-on = Bildirimleri aç
-newtab-widget-timer-menu-hide = Sayacı gizle
 newtab-widget-timer-menu-learn-more = Daha fazla bilgi al
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Öne çıkan başlıklar

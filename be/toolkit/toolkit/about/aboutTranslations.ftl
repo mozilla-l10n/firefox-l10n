@@ -11,10 +11,6 @@ about-translations-learn-more-link = Падрабязней
 about-translations-unsupported-info-message-2 =
     .heading = На гэтай прыладзе пераклад недаступны
     .message = Паспрабуйце перайсці на іншую прыладу.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = На гэтай прыладзе пераклад недаступны.
-    .message = Паспрабуйце перайсці на іншую прыладу.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Пераклады недаступныя для вашай арганізацыі
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Разблакаваць
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Не ўдалося загрузіць мовы
-    .message = Праверце злучэнне з інтэрнэтам і паспрабуйце зноў.
-about-translations-unsupported-info-button = Падрабязней
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Не ўдалося загрузіць мовы.
     .message = Праверце злучэнне з інтэрнэтам і паспрабуйце зноў.
 about-translations-language-load-error-button = Паспрабаваць зноў
 # An error message displayed when a translation request fails.

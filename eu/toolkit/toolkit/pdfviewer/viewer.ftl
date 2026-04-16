@@ -207,10 +207,6 @@ pdfjs-thumb-page-checkbox1 =
     .title = Hautatu { $page } orria
 # Variables:
 #   $page (Number) - the page number
-pdfjs-thumb-page-checkbox =
-    .aria-label = Hautatu { $page } orria
-# Variables:
-#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = { $page } / { $total } orria
@@ -658,12 +654,9 @@ pdfjs-editor-add-comment-button =
 ##  - layers.
 ## The thumbnails view is used to edit the pdf: remove/insert pages, ...
 
-pdfjs-toggle-views-manager-button =
-    .title = Txandakatu alboko barra
 pdfjs-toggle-views-manager-notification-button =
     .title = Txandakatu alboko barra (dokumentuak koadro txikiak/eskema/eranskinak/geruzak ditu)
 pdfjs-toggle-views-manager-button1-label = Kudeatu orriak
-pdfjs-toggle-views-manager-button-label = Txandakatu alboko barra
 pdfjs-views-manager-sidebar =
     .aria-label = Alboko barra
 pdfjs-views-manager-sidebar-resizer =
@@ -674,11 +667,9 @@ pdfjs-views-manager-view-selector-button-label = Ikuspegiak
 pdfjs-views-manager-pages-title = Orriak
 pdfjs-views-manager-outlines-title1 = Dokumentuaren eskema
     .title = Dokumentuaren eskema (klik bikoitza elementu guztiak zabaltzeko/tolesteko)
-pdfjs-views-manager-outlines-title = Dokumentuaren eskema
 pdfjs-views-manager-attachments-title = Eranskinak
 pdfjs-views-manager-layers-title1 = Geruzak
     .title = Geruzak (klik bikoitza geruza guztiak egoera lehenetsira berrezartzeko)
-pdfjs-views-manager-layers-title = Geruzak
 pdfjs-views-manager-pages-option-label = Orriak
 pdfjs-views-manager-outlines-option-label = Dokumentuaren eskema
 pdfjs-views-manager-attachments-option-label = Eranskinak
@@ -699,7 +690,6 @@ pdfjs-views-manager-pages-status-copy-button-label = Kopiatu
 pdfjs-views-manager-pages-status-cut-button-label = Ebaki
 pdfjs-views-manager-pages-status-delete-button-label = Ezabatu
 pdfjs-views-manager-pages-status-export-selected-button-label = Esportatu hautatutakoa…
-pdfjs-views-manager-pages-status-save-as-button-label = Gorde honela…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =

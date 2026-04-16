@@ -11,10 +11,6 @@ about-translations-learn-more-link = Pli da informo
 about-translations-unsupported-info-message-2 =
     .heading = Tradukado ne haveblas en tiu ĉi aparato
     .message = Provu en alia aparato.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Tradukado ne haveblas en tiu ĉi aparato.
-    .message = Provu en alia aparato.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Tradukoj ne estas disponeblaj por via organizo
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Malbloki
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Ne eblis ŝargi lingvojn
-    .message = Kontrolu vian retaliron kaj provu denove.
-about-translations-unsupported-info-button = Pli da informo
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Ne eblis ŝargi lingvojn.
     .message = Kontrolu vian retaliron kaj provu denove.
 about-translations-language-load-error-button = Klopodi denove
 # An error message displayed when a translation request fails.

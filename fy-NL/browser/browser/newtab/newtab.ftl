@@ -380,6 +380,7 @@ newtab-custom-settings = Mear ynstellingen beheare
 
 newtab-wallpaper-title = Eftergrûnen
 newtab-wallpaper-reset = Standertwearden
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = In ôfbylding oplade
 newtab-wallpaper-custom-color = Kies in kleur
 newtab-wallpaper-toggle-title =
@@ -406,6 +407,7 @@ newtab-wallpaper-light-fox-anniversary = In foks yn in gersfjild mei in mistich 
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Effen kleuren
 newtab-wallpaper-blue = Blau
 newtab-wallpaper-light-blue = Ljochtblau
@@ -512,7 +514,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Fahrenheit
 newtab-weather-menu-temperature-option-celsius = Celsius
 newtab-weather-menu-change-temperature-units-fahrenheit = Wikselje nei Fahrenheit
 newtab-weather-menu-change-temperature-units-celsius = Wikselje nei Celsius
-newtab-weather-menu-hide-weather-v2 = Waar ferstopje
 newtab-weather-menu-hide-weather = It waar op nij ljepblêd ferstopje
 newtab-weather-menu-learn-more = Mear ynfo
 newtab-weather-menu-detect-my-location = Myn lokaasje detektearje
@@ -699,7 +700,6 @@ newtab-widget-lists-menu-edit = Listnamme bewurkje
 newtab-widget-lists-menu-create = Nije list oanmeitsje
 newtab-widget-lists-menu-delete = Dizze list fuortsmite?
 newtab-widget-lists-menu-copy = List nei klamboerd kopiearje
-newtab-widget-lists-menu-hide = Alle listen ferstopje
 newtab-widget-lists-menu-learn-more = Mear ynfo
 newtab-widget-lists-input-add-an-item =
     .placeholder = In item tafoegje
@@ -756,7 +756,6 @@ newtab-widget-timer-reset =
     .title = Opnij inisjalisearje
 newtab-widget-timer-menu-notifications = Notifikaasjes útskeakelje
 newtab-widget-timer-menu-notifications-on = Notifikaasjes ynskeakelje
-newtab-widget-timer-menu-hide = Timer ferstopje
 newtab-widget-timer-menu-learn-more = Mear ynfo
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Topberjochten

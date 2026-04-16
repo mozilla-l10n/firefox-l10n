@@ -11,10 +11,6 @@ about-translations-learn-more-link = ਹੋਰ ਜਾਣੋ
 about-translations-unsupported-info-message-2 =
     .heading = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਅਨੁਵਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
     .message = ਵੱਖਰੇ ਡਿਵਾਈਸ ਨਾਲ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ।
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਅਨੁਵਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।
-    .message = ਵੱਖਰੇ ਡਿਵਾਈਸ ਨਾਲ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ।
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = ਤੁਹਾਡੇ ਸੰਗਠਨ ਲਈ ਅਨੁਵਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹਨ
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = ਪਾਬੰਦੀ ਹਟਾ
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ
-    .message = ਆਪਣੇ ਇੰਟਰਨੈੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-about-translations-unsupported-info-button = ਹੋਰ ਜਾਣੋ
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = ਭਾਸ਼ਾਵਾਂ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।
     .message = ਆਪਣੇ ਇੰਟਰਨੈੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰਕੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 about-translations-language-load-error-button = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
 # An error message displayed when a translation request fails.

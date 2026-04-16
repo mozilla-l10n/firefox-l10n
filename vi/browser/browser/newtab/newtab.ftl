@@ -378,6 +378,7 @@ newtab-custom-settings = Quản lý các cài đặt khác
 
 newtab-wallpaper-title = Hình nền
 newtab-wallpaper-reset = Đặt lại về mặc định
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Tải lên một ảnh
 newtab-wallpaper-custom-color = Chọn màu
 newtab-wallpaper-toggle-title =
@@ -404,6 +405,7 @@ newtab-wallpaper-light-fox-anniversary = Một chú cáo trong cánh đồng xan
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Màu
 newtab-wallpaper-blue = Xanh dương
 newtab-wallpaper-light-blue = Xanh dương nhạt
@@ -510,7 +512,6 @@ newtab-weather-menu-temperature-option-fahrenheit = Độ F
 newtab-weather-menu-temperature-option-celsius = Độ C
 newtab-weather-menu-change-temperature-units-fahrenheit = Chuyển sang độ F
 newtab-weather-menu-change-temperature-units-celsius = Chuyển sang độ C
-newtab-weather-menu-hide-weather-v2 = Ẩn thời tiết
 newtab-weather-menu-hide-weather = Ẩn thời tiết trên thẻ mới
 newtab-weather-menu-learn-more = Tìm hiểu thêm
 newtab-weather-menu-detect-my-location = Phát hiện vị trí của tôi
@@ -697,7 +698,6 @@ newtab-widget-lists-menu-edit = Chỉnh sửa tên danh sách
 newtab-widget-lists-menu-create = Tạo một danh sách mới
 newtab-widget-lists-menu-delete = Xóa danh sách này
 newtab-widget-lists-menu-copy = Sao chép danh sách vào bộ nhớ tạm
-newtab-widget-lists-menu-hide = Ẩn tất cả danh sách
 newtab-widget-lists-menu-learn-more = Tìm hiểu thêm
 newtab-widget-lists-input-add-an-item =
     .placeholder = Thêm một mục
@@ -754,7 +754,6 @@ newtab-widget-timer-reset =
     .title = Đặt lại
 newtab-widget-timer-menu-notifications = Tắt thông báo
 newtab-widget-timer-menu-notifications-on = Bật thông báo
-newtab-widget-timer-menu-hide = Ẩn bộ hẹn giờ
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Tin tức nổi bật

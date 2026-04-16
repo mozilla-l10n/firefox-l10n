@@ -22,21 +22,15 @@ backup-file-name = { -brand-product-name }Babeskopia
 settings-data-backup-header2 =
     .label = Babeskopia
     .description = Automatikoki babestu zure laster-markak, historia eta bestelako datuak.
-settings-data-backup-header = Babeskopia
 settings-data-backup-toggle = Kudeatu babeskopia
 settings-data-backup-toggle-on2 =
     .label = Aktibatu babeskopia
 settings-data-backup-toggle-off2 =
     .label = Desaktibatu babeskopia
-settings-data-backup-toggle-on = Aktibatu babeskopia
-settings-data-backup-toggle-off = Desaktibatu babeskopia
 settings-data-backup-trigger-button = Egin babeskopia orain
 settings-data-backup-in-progress-button = Babeskopia egiten ari da…
 settings-data-backup-in-progress-message =
     .message = Babeskopia egiten ari da…
-settings-data-backup-scheduled-backups-on = Babeskopia: aktibatuta
-settings-data-backup-scheduled-backups-off = Babeskopia: desaktibatuta
-settings-data-backup-scheduled-backups-description = Babestu automatikoki zure laster-markak, historia eta bestelako datuak. <a data-l10n-name="support-link">Argibide gehiago</a>
 settings-data-backup-last-backup-date = Azken babeskopia: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Babeskopia aktibatuta dago
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Babeskopiaren kokapena
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Kokalekua
 settings-data-backup-last-backup-location-show-in-folder = Erakutsi karpetan
 settings-data-backup-last-backup-location-edit = Editatu…
 settings-data-create-backup-error = Errorea gertatu da babeskopia sortzean ondorengo datan: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Berreskuratu zure datuak
     .description = Erabili beste gailu bateko { -brand-product-name } babeskopia zure datuak berreskuratzeko.
-settings-data-backup-restore-header = Berreskuratu zure datuak
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Erabili beste gailu bateko { -brand-product-name } babeskopia zure datuak berreskuratzeko.
-settings-data-backup-scheduled-backups-off-restore-choose = Aukeratu babeskopia-fitxategia…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Berreskuratu zure { -brand-product-name } datuak azkeneko aldiz egin zen babeskopiatik.
-settings-data-backup-scheduled-backups-on-restore-choose = Berreskuratu…
 settings-sensitive-data =
     .label = Kontuzko datuak
-settings-data-toggle-encryption-label = Egin kontuzko zure datuen babeskopia
 settings-data-toggle-encryption-support-link = Argibide gehiago
 settings-data-change-password2 =
     .label = Aldatu pasahitza
-settings-data-change-password = Aldatu pasahitza…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Berreskuratu zure datuak
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Zer berreskuratuko da?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Honek uneko zure { -brand-short-name } datu guztiak ordezkatuko ditu { DATETIME($date, timeStyle: "short", dateStyle: "short") } datako babeskopiarekin.
-restore-from-backup-support-link =
-    .message = Zer berreskuratuko da?
-restore-from-backup-no-backup-file-link = Arazoak dituzu babeskopia-fitxategia aurkitzen?
 restore-from-backup-filepicker-label = Babeskopia-fitxategia
 restore-from-backup-filepicker-title = Aukeratu babeskopia-fitxategia:
 restore-from-backup-file-choose-button =
@@ -283,10 +258,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> profilaren sortze-data:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = { $deviceName } makinatik berreskuratuta; berreskuratze-data:{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Sortze-data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { $machineName } makinan
 backup-file-restore-file-validation-error = Fitxategia ez dabil. Saiatu beste fitxategi batekin. <a data-l10n-name="restore-problems">Arazoak dituzu oraindik?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ez da fitxategirik hautatu

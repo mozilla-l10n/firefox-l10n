@@ -643,9 +643,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disable sharing protection for this session
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = To use the F12 shortcut, first open DevTools via the Browser Tools menu.

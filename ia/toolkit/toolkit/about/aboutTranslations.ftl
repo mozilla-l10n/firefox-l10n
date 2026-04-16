@@ -11,10 +11,6 @@ about-translations-learn-more-link = Pro saper plus
 about-translations-unsupported-info-message-2 =
     .heading = Le traduction non es disponibile sur iste apparato
     .message = Tenta passar a un apparato differente.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Le traduction non es disponibile sur iste apparato.
-    .message = Tenta passar a un apparato differente.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Le traductiones non es disponibile pro tu organisation
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Disblocar
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Impossibile cargar linguas
-    .message = Verifica tu connexion a internet e retenta.
-about-translations-unsupported-info-button = Pro saper plus
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Impossibile cargar linguas.
     .message = Verifica tu connexion a internet e retenta.
 about-translations-language-load-error-button = Retentar
 # An error message displayed when a translation request fails.

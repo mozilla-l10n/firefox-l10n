@@ -3,4 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-translations-learn-more-link = قلوه دووسته بۊین
-about-translations-unsupported-info-button = قلوه دووسته بۊین

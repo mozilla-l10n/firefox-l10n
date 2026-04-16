@@ -647,9 +647,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Вимкнути захист спільного доступу для цього сеансу
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Для використання клавіші швидкого доступу F12 спершу відкрийте інструменти веброзробника через меню браузера.

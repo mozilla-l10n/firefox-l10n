@@ -117,8 +117,12 @@ fp-certerror-self-signed-what-can-you-do-body = Nic moc. Problém je zřejmě na
 fp-certerror-self-signed-important-note = DŮLEŽITÁ POZNÁMKA: Pokud se pokoušíte navštívit tento web v rámci firemní intranetové sítě, je možné, že pracovníci IT oddělení používají certifikáty podepsané sebou samými. Mohou vám pomoci ověřit jejich pravost.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
+#   $date (Date) - Certificate expiration date.
+fp-certerror-expired-why-dangerous-body = Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že platnost jeho certifikátu vypršela dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
 #   $date (Date) - Certificate start date.
-fp-certerror-not-yet-valid-why-dangerous-body = Stránky používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, za koho se vydávají. { -brand-short-name } nedůvěřuje tomuto webu, protože to vypadá, že certifikát bude platný až po { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-not-yet-valid-why-dangerous-body = Weby používají certifikáty vydané certifikační autoritou, aby prokázaly, že jsou skutečně tím, kým tvrdí, že jsou. { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že jeho certifikát bude platný až po { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
@@ -134,18 +138,14 @@ fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numer
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-transparency-why-dangerous-body = { -brand-short-name } nedůvěřuje serveru { $hostname }, protože nemohl prokázat, že splňuje požadavky na transparentnost veřejného certifikátu.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-fp-certerror-transparency-what-can-you-do-body = Pravděpodobně nic, protože je pravděpodobné, že problém je se samotným webem.
-fp-learn-more-about-secure-connection-failures = Zjistěte více o chybách zabezpečeného spojení
-fp-learn-more-about-cert-issues = Zjistěte více o těchto typech problémů s certifikáty
-fp-learn-more-about-time-related-errors = Zjistěte více o řešení chyb souvisejících s časem
+fp-certerror-transparency-what-can-you-do-body = Pravděpodobně nic, protože problém je zřejmě na straně samotného webu.
+fp-learn-more-about-secure-connection-failures = Zjistit více o chybách zabezpečeného spojení
+fp-learn-more-about-cert-issues = Zjistit více o těchto typech problémů s certifikáty
+fp-learn-more-about-time-related-errors = Zjistit více o řešení chyb souvisejících s časem
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje této stránce, protože to vypadá, že poskytnutý certifikát bude platný až po  { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
-# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
-# Variables:
-#   $date (Date) - Device's clock date.
-fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Hodiny vašeho zařízení jsou nastaveny na { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Pokud je vše v pořádku, je problém se zabezpečením pravděpodobně na straně samotné stránky. Pokud je hodnota nesprávná, můžete ji změnit v systémovém nastavení zařízení.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že poskytnutý certifikát bude platný až po  { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -198,8 +198,8 @@ cert-error-inadequate-cert-type =
     }
 cert-error-path-len-constraint-invalid =
     { -brand-short-name.case-status ->
-        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má v cestě ke kořenovému certifikátu příliš mnoho zprostředkujících certifikátů.
-       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má v cestě ke kořenovému certifikátu příliš mnoho zprostředkujících certifikátů.
+        [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má v cestě ke kořenovému certifikátu příliš mnoho mezilehlých certifikátů.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } má v cestě ke kořenovému certifikátu příliš mnoho mezilehlých certifikátů.
     }
 cert-error-invalid-key =
     { -brand-short-name.case-status ->

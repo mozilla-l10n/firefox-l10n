@@ -371,6 +371,7 @@ newtab-custom-settings = أدِر المزيد من الإعدادات
 
 newtab-wallpaper-title = الخلفيات
 newtab-wallpaper-reset = صفّر إلى المبدئي
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = ارفع صورة
 newtab-wallpaper-custom-color = اختر لونًا
 newtab-wallpaper-toggle-title =
@@ -397,6 +398,7 @@ newtab-wallpaper-light-fox-anniversary = ثعلب في حقل عشبي مع من
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = الألوان الصلبة
 newtab-wallpaper-blue = أزرق
 newtab-wallpaper-light-blue = أزرق فاتح
@@ -490,7 +492,6 @@ newtab-weather-menu-temperature-option-fahrenheit = فهرنهايت
 newtab-weather-menu-temperature-option-celsius = درجة مئوية
 newtab-weather-menu-change-temperature-units-fahrenheit = بدّل إلى فهرنهايت
 newtab-weather-menu-change-temperature-units-celsius = بدّل إلى درجة مئوية
-newtab-weather-menu-hide-weather-v2 = أخفِ الطقس
 newtab-weather-menu-hide-weather = أخفِ الطقس في اللسان الجديد
 newtab-weather-menu-learn-more = اطّلع على المزيد
 newtab-weather-menu-detect-my-location = حدِّد موقعي
@@ -635,7 +636,6 @@ newtab-widget-lists-menu-edit = حرّر اسم القائمة
 newtab-widget-lists-menu-create = أنشئ قائمة جديدة
 newtab-widget-lists-menu-delete = احذف هذه القائمة
 newtab-widget-lists-menu-copy = انسخ القائمة إلى الحافظة
-newtab-widget-lists-menu-hide = أخفِ جميع القوائم
 newtab-widget-lists-menu-learn-more = اطّلع على المزيد
 newtab-widget-lists-input-add-an-item =
     .placeholder = أضف عنصر
@@ -676,7 +676,6 @@ newtab-widget-timer-reset =
     .title = صفّر
 newtab-widget-timer-menu-notifications = عطّل الإشعارات
 newtab-widget-timer-menu-notifications-on = فعّل الإشعارات
-newtab-widget-timer-menu-hide = أخفِ المؤقت
 newtab-widget-timer-menu-learn-more = اطّلع على المزيد
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = أهم العناوين

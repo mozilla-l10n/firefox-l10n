@@ -43,11 +43,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Օգտագործեք VPN այս կայքի համար
     .aria-label = VPN-ը անջատված է այս կայքի համար
-site-exclusion-toggle-label = Օգտագործեք VPN այս կայքի համար
-site-exclusion-toggle-enabled =
-    .aria-label = VPN-ը միացված է այս կայքի համար
-site-exclusion-toggle-disabled =
-    .aria-label = VPN-ը անջատված է այս կայքի համար
 ipprotection-settings-link =
     .label = Կարգավորումներ
 

@@ -37,12 +37,10 @@ firefox-relay-dismiss =
     .accesskey = В
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Защитите свой адрес электронной почты:
-firefox-relay-opt-in-title-2 = Получите бесплатный псевдоним электронной почты
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Используйте псевдонимы эл. почты { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Используйте псевдонимы электронной почты
-firefox-relay-opt-in-subtitle-2 = Защитите свой почтовый ящик от спама
 firefox-relay-use-mask-title = Используйте псевдонимы эл. почты { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Избавьтесь от спама с помощью бесплатного псевдонима электронной почты

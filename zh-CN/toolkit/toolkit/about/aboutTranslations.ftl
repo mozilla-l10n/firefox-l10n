@@ -11,10 +11,6 @@ about-translations-learn-more-link = 详细了解
 about-translations-unsupported-info-message-2 =
     .heading = 此设备无法使用翻译
     .message = 请尝试使用其他设备。
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = 此设备无法使用翻译。
-    .message = 请尝试使用其他设备。
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = 翻译功能在您的组织不可用
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = 取消屏蔽
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = 无法加载语言
-    .message = 请检查互联网连接，然后重试。
-about-translations-unsupported-info-button = 详细了解
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = 无法加载语言。
     .message = 请检查互联网连接，然后重试。
 about-translations-language-load-error-button = 重试
 # An error message displayed when a translation request fails.

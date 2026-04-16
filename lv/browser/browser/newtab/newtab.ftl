@@ -347,6 +347,7 @@ newtab-wallpaper-light-fox-anniversary = Lapsa pļavā ar dūmakainu kalnu ainav
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Vienkrāsains
 newtab-wallpaper-blue = Zils
 newtab-wallpaper-light-blue = Gaiši zils

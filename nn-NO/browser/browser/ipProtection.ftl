@@ -53,11 +53,6 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Bruk VPN for denne nettstaden
     .aria-label = VPN er av for denne nettstaden
-site-exclusion-toggle-label = Bruk VPN for denne nettstaden
-site-exclusion-toggle-enabled =
-    .aria-label = VPN er på for denne nettstaden
-site-exclusion-toggle-disabled =
-    .aria-label = VPN er av for denne nettstaden
 ipprotection-settings-link =
     .label = Innstillingar
 
@@ -136,8 +131,6 @@ ip-protection-description =
     .label = VPN
     .description = Innebygd VPN for å forbetre personvernet ditt medan du surfar med { -brand-short-name }.
 ip-protection-learn-more = Les meir
-ip-protection-site-exceptions =
-    .label = Nettstadspesifikke innstillingar
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
@@ -171,7 +164,6 @@ ip-protection-exclusions-desc = Bruk VPN for alle nettstadar unnateke dei på de
 
 ## IP Protection Bandwidth
 
-ip-protection-bandwidth-header = Månadleg VPN-data
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

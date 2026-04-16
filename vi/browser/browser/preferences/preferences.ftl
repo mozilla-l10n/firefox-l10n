@@ -2012,12 +2012,6 @@ permissions-block-popups-exceptions-button4 =
 permissions-addon-install-warning3 =
     .label = Hiển thị cảnh báo khi các trang web cố gắng cài đặt tiện ích mở rộng
     .accesskey = W
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button2 =
-    .label = Quản lý ngoại lệ cửa sổ bật lên và chuyển hướng của bên thứ ba
-    .accesskey = E
-    .searchkeywords = cửa sổ bật lên
 permissions-addon-exceptions2 =
     .label = Chọn trang web nào có thể cài đặt tiện ích mở rộng
     .accesskey = E

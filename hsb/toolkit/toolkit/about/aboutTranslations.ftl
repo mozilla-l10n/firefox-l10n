@@ -11,10 +11,6 @@ about-translations-learn-more-link = Dalše informacije
 about-translations-unsupported-info-message-2 =
     .heading = Přełožk na tutym graće k dispoziciji njeje
     .message = Spytajće druhi grat wužiwać.
-# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
-about-translations-unsupported-info-message =
-    .heading = Přełožk na tutym graće k dispoziciji njeje.
-    .message = Spytajće druhi grat wužiwać.
 # An info message displayed when translations are disabled and locked by enterprise policy.
 about-translations-policy-disabled-info-message =
     .heading = Přełožki za wašu organizaciju k dispoziciji njejsu
@@ -27,11 +23,6 @@ about-translations-feature-blocked-unblock-button = Hižo njeblokować
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Rěče njedadźa so začitać
-    .message = Přepruwujće swój internetny zwisk a spytajće hišće raz.
-about-translations-unsupported-info-button = Dalše informacije
-# An error message displayed when the language list fails to load.
-about-translations-language-load-error-message =
-    .heading = Rěče njedadźa so začitać.
     .message = Přepruwujće swój internetny zwisk a spytajće hišće raz.
 about-translations-language-load-error-button = Hišće raz spytać
 # An error message displayed when a translation request fails.

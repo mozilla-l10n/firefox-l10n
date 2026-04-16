@@ -22,21 +22,15 @@ backup-file-name = Zawěsćenje { -brand-product-name }
 settings-data-backup-header2 =
     .label = Zawěsćenje
     .description = Šćitajśo awtomatiski swóje cytańske znamjenja, historiju a druge daty.
-settings-data-backup-header = Zawěsćenje
 settings-data-backup-toggle = Zawěsćenje zastojaś
 settings-data-backup-toggle-on2 =
     .label = Zawěsćenje zmóžniś
 settings-data-backup-toggle-off2 =
     .label = Zawěsćenje znjemóžniś
-settings-data-backup-toggle-on = Zawěsćenje zmóžniś
-settings-data-backup-toggle-off = Zawěsćenje znjemóžniś
 settings-data-backup-trigger-button = Něnto zawěsćiś
 settings-data-backup-in-progress-button = Zawěsćenje běžy…
 settings-data-backup-in-progress-message =
     .message = Zawěsćenje běžy…
-settings-data-backup-scheduled-backups-on = Zawěsćenje: ZAŠALTOWANE
-settings-data-backup-scheduled-backups-off = Zawěsćenje: WUŠALTOWANE
-settings-data-backup-scheduled-backups-description = Šćitajśo awtomatiski swóje cytańske znamjenja, historiju a druge daty. <a data-l10n-name="support-link">Dalšne informacije</a>
 settings-data-backup-last-backup-date = Slědne zawěsćenje: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-on2 =
     .label = Zawěsćenje jo ZAŠALTOWANE
@@ -45,8 +39,6 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Městno zawěsćenja
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Městno
 settings-data-backup-last-backup-location-show-in-folder = W zarědniku pokazaś
 settings-data-backup-last-backup-location-edit = Wobźěłaś…
 settings-data-create-backup-error = Pśi wašom zawěsćenju  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } jo zmólka nastała
@@ -63,24 +55,14 @@ settings-data-backup-restore-scheduled-on =
 settings-data-backup-restore-scheduled-off =
     .label = Waše daty wótnowiś
     .description = Wužywajśo zawěsćenje { -brand-product-name } z drugego rěda, aby swóje daty wótnowił.
-settings-data-backup-restore-header = Waše daty wótnowiś
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Wužywajśo zawěsćenje { -brand-product-name } z drugego rěda, aby swóje daty wótnowił.
-settings-data-backup-scheduled-backups-off-restore-choose = Zawěsćeńsku dataju wubraś…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Wótnowśo daty { -brand-product-name } wót slědnego raza, gaž su se zawěsćili.
-settings-data-backup-scheduled-backups-on-restore-choose = Wótnowiś…
 settings-sensitive-data =
     .label = Sensibelne daty
-settings-data-toggle-encryption-label = Zawěsććo swóje sensibelne daty
 settings-data-toggle-encryption-support-link = Dalšne informacije
 settings-data-change-password2 =
     .label = Gronidło změniś
-settings-data-change-password = Gronidło změniś…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -123,13 +105,6 @@ restore-from-backup-header = Waše daty wótnowiś
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Co se wótnowijo?
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = To waše aktualne daty { -brand-short-name } z wašym zawěsćenim wót { DATETIME($date, timeStyle: "short", dateStyle: "short") } wuměnijo.
-restore-from-backup-support-link =
-    .message = Co se wótnowijo?
-restore-from-backup-no-backup-file-link = Maśo problemy swóje zawěsćenje namakaś?
 restore-from-backup-filepicker-label = Zawěsćeńska dataja
 restore-from-backup-filepicker-title = Zawěsćeńsku dataju wubraś:
 restore-from-backup-file-choose-button =
@@ -285,10 +260,6 @@ backup-file-creation-metadata2 = <b>{ $profileName }</b> napórany dnja { DATETI
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
 backup-restored-profile-name = Wótnowjony z { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = Napórany dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
 backup-file-restore-file-validation-error = Toś ta dataja njefunkcioněrujo. Wubjeŕśo drugu dataju. <a data-l10n-name="restore-problems">Maśo hyšći problemy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Žedna dataja wubrana

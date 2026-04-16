@@ -35,12 +35,10 @@ firefox-relay-dismiss =
     .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Bảo vệ địa chỉ email của bạn:
-firefox-relay-opt-in-title-2 = Nhận một địa chỉ email ẩn danh miễn phí
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Sử dụng email ẩn danh { -relay-brand-name }
 firefox-relay-use-mask-title-1 = Sử dụng email ẩn danh
-firefox-relay-opt-in-subtitle-2 = Bảo vệ hộp thư đến của bạn khỏi thư rác
 firefox-relay-use-mask-title = Sử dụng email ẩn danh { -relay-brand-name }
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-a
 firefox-relay-opt-in-title-a = Ngăn chặn thư rác với email ẩn danh miễn phí

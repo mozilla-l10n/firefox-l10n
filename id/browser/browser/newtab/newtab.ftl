@@ -357,6 +357,7 @@ newtab-custom-settings = Kelola pengaturan lainnya
 
 newtab-wallpaper-title = Gambar latar
 newtab-wallpaper-reset = Setel ulang ke bawaan
+#  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Unggah gambar
 newtab-wallpaper-custom-color = Pilih warna
 newtab-wallpaper-toggle-title =
@@ -383,6 +384,7 @@ newtab-wallpaper-light-fox-anniversary = Seekor rubah di padang berumput dengan 
 
 ## Solid Colors
 
+#  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Warna-warni rata
 newtab-wallpaper-blue = Biru
 newtab-wallpaper-light-blue = Biru muda
@@ -617,7 +619,6 @@ newtab-widget-lists-menu-edit = Sunting nama daftar
 newtab-widget-lists-menu-create = Buat daftar baru
 newtab-widget-lists-menu-delete = Hapus daftar ini
 newtab-widget-lists-menu-copy = Salin daftar ke papan klip
-newtab-widget-lists-menu-hide = Sembunyikan semua daftar
 newtab-widget-lists-menu-learn-more = Pelajari lebih lanjut
 newtab-widget-lists-input-menu-open-link = Buka tautan
 newtab-widget-lists-input-menu-move-up = Pindah ke atas

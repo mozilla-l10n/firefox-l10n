@@ -8,24 +8,16 @@
 # can be used for folders. Invalid characters will be automatically stripped out
 # or replaced with underscores.
 backup-folder-name = Restaura { -brand-product-name }
-settings-data-backup-header = Còpia de seguretat
 settings-data-backup-toggle = Gestiona la còpia de seguretat
 settings-data-backup-toggle-on2 =
     .label = Activa la còpia de seguretat
 settings-data-backup-toggle-off2 =
     .label = Desactiva la còpia de seguretat
-settings-data-backup-toggle-on = Activa la còpia de seguretat
-settings-data-backup-toggle-off = Desactiva la còpia de seguretat
 settings-data-backup-trigger-button = Fes una còpia de seguretat ara
 settings-data-backup-in-progress-button = Còpia de seguretat en curs…
 settings-data-backup-in-progress-message =
     .message = Còpia de seguretat en curs…
-settings-data-backup-scheduled-backups-on = Còpia de seguretat: ACTIVADA
-settings-data-backup-scheduled-backups-off = Còpia de seguretat: DESACTIVADA
-settings-data-backup-scheduled-backups-description = Protegiu automàticament les vostres adreces d'interès, l'historial i altres dades. <a data-l10n-name="support-link">Més informació</a>
 settings-data-backup-last-backup-date = Darrera còpia de seguretat: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-# "Location" refers to the folder where backups are being written to.
-settings-data-backup-last-backup-location = Ubicació
 settings-data-backup-last-backup-location-show-in-folder = Mostra a la carpeta
 settings-data-backup-last-backup-location-edit = Edita…
 settings-data-create-backup-error = S'ha produït un error en crear la còpia de seguretat el dia { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
@@ -33,20 +25,10 @@ settings-sensitive-data-encryption-description = Feu una còpia de seguretat de 
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nom del fitxer: { $fileName }
-settings-data-backup-restore-header = Restaureu les vostres dades
-
-## These strings are shown under the header if scheduled backups are disabled.
-
-settings-data-backup-scheduled-backups-off-restore-description = Feu servir una còpia de seguretat del { -brand-product-name } des d'un altre dispositiu per restaurar les vostres dades.
-settings-data-backup-scheduled-backups-off-restore-choose = Trieu el fitxer de còpia de seguretat…
 
 ##
 
-settings-data-backup-scheduled-backups-on-restore-description = Recupereu les dades del { -brand-product-name } de l'última vegada que es va fer una còpia de seguretat.
-settings-data-backup-scheduled-backups-on-restore-choose = Restaura…
-settings-data-toggle-encryption-label = Feu una còpia de seguretat de les vostres dades sensibles
 settings-data-toggle-encryption-support-link = Més informació
-settings-data-change-password = Canvia la contrasenya…
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
@@ -86,13 +68,6 @@ turn-off-scheduled-backups-confirm-button = Desactiva i suprimeix la còpia de s
 ## These strings are displayed in a modal when users want restore from a backup.
 
 restore-from-backup-header = Restaureu les vostres dades
-# Variables:
-#   $date (string) - Date to be formatted based on locale
-restore-from-backup-description-with-metadata =
-    .message = Això substituirà totes les dades actuals del { -brand-short-name } amb la còpia de seguretat del dia { DATETIME($date, timeStyle: "short", dateStyle: "short") }.
-restore-from-backup-support-link =
-    .message = Què es restaurarà?
-restore-from-backup-no-backup-file-link = Teniu problemes per trobar la còpia de seguretat?
 restore-from-backup-filepicker-label = Fitxer de la còpia de seguretat
 restore-from-backup-filepicker-title = Trieu el fitxer de la còpia de seguretat:
 restore-from-backup-file-choose-button =
@@ -230,10 +205,6 @@ other-backup-files-founds =
         [one] <b>Nota:</b> S'ha trobat { $numberOfOtherBackupsFound } altre fitxer de còpia de seguretat
        *[other] <b>Nota:</b> S'han trobat { $numberOfOtherBackupsFound } fitxers més de còpia de seguretat
     }
-# Variables:
-#   $date (Datetime) - The date the backup was created
-#   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-date-and-device = S'ha creat el { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a { $machineName }
 backup-file-restore-file-validation-error = Aquest fitxer no funciona. Proveu de triar-ne un altre. <a data-l10n-name="restore-problems">Encara teniu problemes?</a>
 restore-from-backup-filepicker-input =
     .placeholder = No s'ha seleccionat cap fitxer
