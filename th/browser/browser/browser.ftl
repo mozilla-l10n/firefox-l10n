@@ -639,6 +639,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ปิดใช้งานการป้องกันการแบ่งปันในวาระนี้
 
+## WebSerial "select a port" popup
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = ถ้าต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์
@@ -704,6 +707,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ส่วนขยาย:
+urlbar-go-button2 =
+    .title = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-go-button =
     .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-page-action-button =
@@ -926,14 +931,6 @@ urlbar-searchmode-exit-button =
     .tooltiptext = ปิด
 urlbar-searchmode-default =
     .tooltiptext = เครื่องมือค้นหาเริ่มต้น
-# Label shown on the top of Searchmode Switcher popup. After this label, the
-# available search engines will be listed.
-urlbar-searchmode-popup-one-off-description-menucaption =
-    .label = ครั้งนี้ค้นหาด้วย:
-# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
-# reset after submitting.
-urlbar-searchmode-popup-header-menucaption =
-    .label = ค้นหาด้วย:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
