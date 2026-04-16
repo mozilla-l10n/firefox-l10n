@@ -980,6 +980,31 @@ urlbar-searchmode-button-no-engine =
 urlbar-searchmode-no-keyword =
     .label = La serĉo laŭ ŝlosilvorto estas malaktiva
     .tooltiptext = La serĉo laŭ ŝlosilvorto estas malaktiva
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }, elektu serĉilon
+urlbar-searchmode-button-no-engine2 =
+    .title = Neniu ŝparvojo elektita, elektu ŝparvojon
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = La serĉo laŭ ŝlosilvorto estas malaktiva
+urlbar-searchmode-dropmarker2 =
+    .title = Elekti serĉion
+urlbar-searchmode-bookmarks2 = Legosignoj
+urlbar-searchmode-tabs2 = Langetoj
+urlbar-searchmode-history2 = Historio
+urlbar-searchmode-actions2 = Agoj
+urlbar-searchmode-exit-button2 =
+    .title = Fermi
+urlbar-searchmode-default2 =
+    .title = Norma serĉilo
+# Shown when adding new search engines from the search mode switcher.
+# Variables:
+#  $engineName (String): The name of the search engine.
+urlbar-searchmode-popup-add-engine = Aldoni { $engineName }
+    .title = Aldoni serĉilon { $engineName }
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
