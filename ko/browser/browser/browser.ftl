@@ -996,6 +996,7 @@ urlbar-searchmode-popup-one-off-header = 이번만 검색:
 # reset after submitting.
 urlbar-searchmode-popup-header = 검색:
 urlbar-searchmode-popup-search-settings-panelitem = 검색 설정
+urlbar-searchmode-popup-settings-panelitem = 설정
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1084,6 +1085,9 @@ fullscreen-warning-no-domain = 이 문서는 전체 화면 모드입니다
 fullscreen-exit-button = 전체 화면 종료 (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = 전체 화면 종료 (esc)
+fullscreen-keyboardlock-exit-button = 전체 화면 종료 (Esc 키 길게 누르기)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = 전체 화면 종료 (esc 키 길게 누르기)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
