@@ -410,6 +410,7 @@ newtab-wallpaper-light-fox-anniversary = Een vos in een grasveld met een mistig 
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Effen kleuren
+newtab-wallpaper-colors = Kleuren
 newtab-wallpaper-blue = Blauw
 newtab-wallpaper-light-blue = Lichtblauw
 newtab-wallpaper-light-purple = Lichtpaars
@@ -525,6 +526,9 @@ newtab-weather-opt-in-not-now =
     .label = Niet nu
 newtab-weather-opt-in-yes =
     .label = Ja
+newtab-weather-opt-in-use-location =
+    .label = Locatie gebruiken
+newtab-weather-opt-in-choose-location = Locatie kiezen
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
 # "Highest" here refers to the highest temperature of the day
