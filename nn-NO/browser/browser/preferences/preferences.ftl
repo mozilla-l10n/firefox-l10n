@@ -62,7 +62,7 @@ category-privacy =
 pane-sync-title3 = Synkronisering
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
-pane-ai-controls-title = AI-kontrollar
+pane-ai-controls-title = KI-kontrollar
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-experimental-title = { -brand-short-name }-eksperiment
@@ -2385,13 +2385,13 @@ choose-download-folder-title = Vel nedlastingsmappe:
 
 preferences-ai-controls-header =
     .heading = { pane-ai-controls-title }
-preferences-ai-controls-description = Du har alltid eit val i { -brand-short-name }, også om du vil bruke funksjonar som er forbetra med AI. Fleire kontrollar kjem snart.
+preferences-ai-controls-description = Du har alltid eit val i { -brand-short-name }, også om du vil bruke funksjonar som er forbetra med KI. Fleire kontrollar kjem snart.
 preferences-ai-controls-block-ai-label = Blokker AI-forbetringar
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Blokkering betyr at du ikkje vil sjå nye eller eksisterande AI-forbetringar i { -brand-short-name }, eller varsel om dei. <a data-l10n-name="link">Få fleire detaljar</a> om kva som er inkludert og korleis du kan styre tradisjonelle maskinlæringsfunksjonar, som søkjeforslag og tilrådingar.
 preferences-ai-controls-blocked-message =
-    .message = Nye og eksisterande AI-forbetringar er blokkerte som standard. For å oppheve blokkeringa av ein viss funksjon, bruk kontrollane nedanfor.
+    .message = Nye og eksisterande KI-forbetringar er blokkerte som standard. For å oppheve blokkeringa av ein viss funksjon, bruk kontrollane nedanfor.
 preferences-ai-controls-on-device-group =
     .label = AI på eininga
     .description = Desse brukar små AI-modellar som blir lasta ned til eininga di om du brukar funksjonen. Denne tilnærminga bidreg til å verne personvernet ditt.
