@@ -1732,7 +1732,7 @@ sitedata-settings =
     .label = Upravljaj podacima …
     .accesskey = m
 sitedata-cookies-exceptions =
-    .label = Upravljanje iznimkama …
+    .label = Upravljaj iznimkama …
     .accesskey = z
 sitedata-cookies-exceptions2 =
     .label = Upravljaj iznimkama
@@ -1968,7 +1968,7 @@ content-blocking-suspected-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Upravljanje iznimkama …
+    .label = Upravljaj iznimkama …
     .accesskey = v
 
 ## Privacy Section - Permissions
@@ -2216,7 +2216,7 @@ certs-description3 =
     .label = Certifikati
     .description = Konfiguriraj certifikate koje { -brand-short-name } koristi za provjeru sigurnih veza.
 certs-view2 =
-    .label = Upravljanje certifikatima
+    .label = Upravljaj certifikatima
     .accesskey = U
 certs-devices2 =
     .label = Upravljaj sigurnosnim uređajima
@@ -2303,7 +2303,7 @@ preferences-doh-checkbox-warn =
 preferences-doh-select-resolver = Odaberi pružatelja usluge:
 preferences-doh-exceptions-description = { -brand-short-name } neće koristiti sigurni DNS na ovim stranicama
 preferences-doh-manage-exceptions =
-    .label = Upravljanje iznimkama …
+    .label = Upravljaj iznimkama …
     .accesskey = r
 preferences-doh-overview-default =
     .label = Standardna zaštita

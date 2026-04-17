@@ -15,7 +15,7 @@ about-webauthn-info-section-title = Informacije o uređaju
 about-webauthn-info-subsection-title = Informacije o autentifikatoru
 about-webauthn-options-subsection-title = Mogućnosti autentifikatora
 about-webauthn-pin-section-title = Upravljanje PIN-ovima
-about-webauthn-credential-management-section-title = Upravljanje podacima prijave
+about-webauthn-credential-management-section-title = Upravljaj podacima prijave
 about-webauthn-pin-required-section-title = Potreban je PIN
 about-webauthn-confirm-deletion-section-title = Potvrdi brisanje
 
@@ -59,7 +59,7 @@ about-webauthn-auth-option-nomcgapermissionswithclientpin = Nema „MakeCredenti
 about-webauthn-auth-option-uvbioenroll = Dozvola za biometrijski upis
 about-webauthn-auth-option-uvacfg = Dozvola za konfiguraciju autentifikatora
 about-webauthn-auth-option-credmgmt = Upravljanje podacima za prijavu
-about-webauthn-auth-option-credentialmgmtpreview = Prototip za upravljanje podacima za prijavu
+about-webauthn-auth-option-credentialmgmtpreview = Prototip za upravljanje podacima prijave
 about-webauthn-auth-option-setminpinlength = Postavi minimalnu duljinu PIN-a
 about-webauthn-auth-option-alwaysuv = Uvijek zatraži potvrdu korisnika
 # Shows when boolean value for an option is True. True should not be translated.

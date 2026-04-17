@@ -145,7 +145,7 @@ urlbar-eme-notification-anchor =
 urlbar-web-authn-anchor =
     .tooltiptext = Otvori ploču web autentifikacije
 urlbar-canvas-notification-anchor =
-    .tooltiptext = Upravljanje dozvolama za izdvajanje platna
+    .tooltiptext = Upravljaj dozvolama za izdvajanje platna
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Upravljaj dijeljenjem tvog mikrofona sa stranicom
 urlbar-default-notification-anchor =
@@ -167,7 +167,7 @@ urlbar-indexed-db-notification-anchor =
 urlbar-password-notification-anchor =
     .tooltiptext = Otvori ploču s informacijama o spremljenim lozinkama
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Upravljanje korištenjem priključaka
+    .tooltiptext = Upravljaj korištenjem priključaka
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Upravljaj dijeljenjem tvoje kamere i/ili mikrofona sa stranicom
 # "Speakers" is used in a general sense that might include headphones or
@@ -1110,7 +1110,7 @@ pointerlock-warning-no-domain = Ovaj dokument ima kontrolu nad pokazivačem. Pri
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
-    .label = Upravljanje zabilješkama
+    .label = Upravljaj zabilješkama
 bookmarks-recent-bookmarks-panel-subheader = Nedavne zabilješke
 bookmarks-toolbar-chevron =
     .tooltiptext = Prikaži više zabilješki

@@ -221,7 +221,7 @@ profiler-popup-presets-custom-label =
 ## History panel
 
 appmenu-manage-history =
-    .label = Upravljanje poviješću
+    .label = Upravljaj poviješću
 appmenu-restore-session =
     .label = Obnovi prethodnu sesiju
 appmenu-clear-history =
