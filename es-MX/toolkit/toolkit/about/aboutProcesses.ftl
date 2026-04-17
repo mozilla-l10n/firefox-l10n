@@ -60,6 +60,13 @@ about-processes-inference-process = Inferencia ({ $pid })
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = Otro: { $type } ({ $pid })
 
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = privado
+about-processes-web-isolated-property-serviceworker = serviceworker
+about-processes-web-isolated-property-jit-disabled = JIT deshabilitado
+about-processes-web-isolated-property-with-coop-coep = cross-origin aislado
+
 ## Isolated process names
 ## Variables:
 ##    $origin (String) The domain name for this process.

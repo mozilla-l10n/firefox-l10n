@@ -91,6 +91,12 @@ about-logging-upload-button = Subir
 # Variables:
 #   $path (string) - The path where the profile can be found.
 about-logging-saved = Guardado en { $path }
+# Variables:
+#   $percent (number) - The upload completion progress, to be displayed as a percentage. This is a value between 0 and 1.
+about-logging-uploading-progress = Cargando tus datos de perfil: { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Variables:
+#   $url (string) - The URL where the profile can be found
+about-logging-uploaded = Se cargaron en <a data-l10n-name="uploaded-message-url">{ $url }</a>
 about-logging-share-uploaded-url = <img data-l10n-name="share-image"/> Compartir URL
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
@@ -111,6 +117,8 @@ about-logging-save-error = Se produjo un error al guardar el archivo: { $errorTe
 # Variables:
 #   $date (date) - The date and time when the profile was uploaded
 about-logging-uploaded-profile-name = Perfil { DATETIME($date, dateStyle: "short", timeStyle: "medium") }
+about-logging-uploaded-profiles-title = Perfiles cargados
+about-logging-no-uploaded-profiles = Aún no has cargado ningún perfil.
 about-logging-delete-uploaded-profile = Eliminar
 about-logging-view-uploaded-profile = Ver perfil
 about-logging-delete-profile-confirm-title = Eliminar perfil
