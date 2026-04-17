@@ -1015,6 +1015,7 @@ urlbar-searchmode-popup-one-off-header = Esta vez busca con:
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
 urlbar-searchmode-popup-search-settings-panelitem = Configuración de Búsqueda
+urlbar-searchmode-popup-settings-panelitem = Ajustes
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1103,6 +1104,9 @@ fullscreen-warning-no-domain = Este documento está ahora en pantalla completa
 fullscreen-exit-button = Salir de Pantalla Completa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Salir de Pantalla Completa (esc)
+fullscreen-keyboardlock-exit-button = Salir de pantalla completa (mantén presionada la tecla Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Salir de pantalla completa (mantén presionada la tecla Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
