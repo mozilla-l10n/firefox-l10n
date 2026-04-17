@@ -156,3 +156,4 @@ css-selector-warning-sibling-combinator-after-scope = I selettori di pari livell
 ##   $name (string) - The condition name.
 
 css-selector-container-query-condition-no-container = Nessun contenitore “{ $name }” trovato
+
