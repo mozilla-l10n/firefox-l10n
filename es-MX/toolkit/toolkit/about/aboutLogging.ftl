@@ -15,6 +15,8 @@ about-logging-set-log-file = Establecer archivo de registro
 about-logging-set-log-modules = Establecer módulos de registro
 about-logging-start-logging = Iniciar registro
 about-logging-stop-logging = Detener registro
+about-logging-copy-as-url = Copiar configuración actual como URL
+about-logging-url-copied = Se copió la configuración de registro al portapapeles como URL de ajuste predefinido
 about-logging-buttons-disabled = Registro configurado a través de variables de entorno, configuración dinámica no disponible.
 about-logging-some-elements-disabled = Registro configurado a través de URL, algunas opciones de configuración no están disponibles
 about-logging-info = Información:
@@ -27,6 +29,7 @@ about-logging-no-log-modules = Ninguno
 about-logging-no-log-file = Ninguno
 about-logging-logging-preset-selector-text = Registro preestablecido:
 about-logging-with-profiler-stacks-checkbox = Habilitar seguimientos de pila para mensajes de registro
+about-logging-with-javascript-tracing-checkbox = Habilitar rastreo de JavaScript
 about-logging-menu =
     .title = Opciones avanzadas
 
@@ -49,7 +52,9 @@ about-logging-preset-webrtc-description = Módulos de registro para diagnosticar
 about-logging-preset-webcodecs-label = Códecs web
 about-logging-preset-webcodecs-description = Módulos de registro para diagnosticar problemas con los descodificadores y codificadores de audio/vídeo y los descodificadores de imágenes de WebCodecs.
 about-logging-preset-ml-label = Machine Learning
+about-logging-preset-ml-description = Módulos de registro para diagnosticar problemas de aprendizaje automático
 about-logging-preset-web-compat-label = Compatibilidad web
+about-logging-preset-web-compat-description = Módulos de registro para diagnosticar problemas de compatibilidad web
 about-logging-preset-navigation = Navegación
 about-logging-preset-navigation-description = Módulos de registro para diagnosticar problemas de navegación e historial de sesiones
 about-logging-preset-webgpu-label = WebGPU
@@ -80,6 +85,7 @@ about-logging-configured-via-url = Opción configurada vía URL
 ## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
 ## set to true. It is false by default, except on Android.
 
+about-logging-upload-question = Se han capturado los datos del perfil. ¿Quieres guardarlos o cargarlos?
 about-logging-save-button = Guardar
 about-logging-upload-button = Subir
 # Variables:

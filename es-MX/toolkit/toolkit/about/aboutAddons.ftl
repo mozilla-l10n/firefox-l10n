@@ -601,6 +601,7 @@ addon-category-mlmodel = IA en el dispositivo
 addon-category-mlmodel-title =
     .title = IA en el dispositivo
 mlmodel-heading = Administrar modelos de IA en el dispositivo
+mlmodel-description = Algunas funciones y extensiones en { -brand-short-name } trabajan con modelos de IA que funcionan localmente en tu dispositivo. Este enfoque protege la privacidad y, en muchos casos, acelera el rendimiento. <a data-l10n-name="learn-more">Saber más</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Eliminar
@@ -611,3 +612,5 @@ mlmodel-addon-detail-last-used-label = Último uso
 mlmodel-addon-detail-used-by-label = Utilizado por
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Tarjeta modelo
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Ver en Hugging Face

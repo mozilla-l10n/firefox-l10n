@@ -164,12 +164,17 @@ about-glean-metrics-table-settings-histograms-chart-max = Altura máxima del gr�
 about-glean-metrics-table-settings-histograms-scaled-max = Altura máxima escalada
 about-glean-metrics-table-settings-histograms-box-padding = Relleno de las barras
 about-glean-metrics-table-settings-histograms-chart-padding = Relleno de gráficos
+about-glean-metrics-table-settings-histograms-left-padding = Espaciado izquierdo adicional
 about-glean-metrics-table-settings-category-visualizations-timeline = Línea de tiempo
 about-glean-metrics-table-settings-timelines-height = Altura
 about-glean-metrics-table-settings-timelines-width = Ancho
 about-glean-metrics-table-settings-timelines-chart-padding = Relleno de gráficos
 # The radius of each circle denoting individual events recorded for an event metric
 about-glean-metrics-table-settings-timelines-circle-radius = Radio del círculo
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Desplazamiento en X del eje Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Desplazamiento en Y del eje Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
@@ -189,8 +194,14 @@ about-glean-button-watch = Observar
 # Meaning "to stop watching"
 about-glean-button-unwatch = Dejar de ver
 about-glean-no-data-to-display = No hay datos para mostrar.
+# Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = Las métricas <code>DualLabeledCounter</code> aún no son compatibles con la vista <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconocido.
+about-glean-enable-new-features-promo =
+    .message = ¡Se está trabajando en la incorporación de nuevas funciones! Aún se encuentran en fase de desarrollo, pero es posible activarlas con el botón de acción si se desea probarlas.
+    .heading = ¡Próximamente habrá nuevas funciones!
 about-glean-enable-new-features-button = Habilitar nuevas funciones
+about-glean-disable-new-features-button = Desactivar nuevas funciones
 about-glean-about-data-explanation =
     Para navegar por la lista de datos recopilados, por favor, consulta el
     <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Diccionario</a>.
