@@ -18,6 +18,7 @@ about-networking-alt-svc-alternate = Alternativa
 about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validado
 about-networking-alt-svc-ttl = TTL
+about-networking-alt-svc-origin-attributes-suffix = Clave de aislamiento
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Refrescar cada 3 segundos
 about-networking-hostname = Servidor
