@@ -1101,6 +1101,9 @@ fullscreen-warning-no-domain = Le documento es ora in plen schermo
 fullscreen-exit-button = Exir del plen schermo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Exir del plen schermo (esc)
+fullscreen-keyboardlock-exit-button = Exir del modalitate plen schermo (pulsa e retene Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Exir del modalitate plen schermo (pulsa e retene Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

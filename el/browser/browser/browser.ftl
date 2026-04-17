@@ -1003,6 +1003,7 @@ urlbar-searchmode-popup-one-off-header = Αυτήν τη φορά αναζήτη
 # reset after submitting.
 urlbar-searchmode-popup-header = Αναζήτηση με:
 urlbar-searchmode-popup-search-settings-panelitem = Ρυθμίσεις αναζήτησης
+urlbar-searchmode-popup-settings-panelitem = Ρυθμίσεις
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1091,6 +1092,9 @@ fullscreen-warning-no-domain = Αυτό το έγγραφο εμφανίζετα
 fullscreen-exit-button = Έξοδος από πλήρη οθόνη (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Έξοδος από πλήρη οθόνη (esc)
+fullscreen-keyboardlock-exit-button = Έξοδος από την πλήρη οθόνη (Πατήστε παρατεταμένα το Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Έξοδος από την πλήρη οθόνη (Πατήστε παρατεταμένα το esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
