@@ -13,6 +13,7 @@ customkeys-reset-all = Alle sneltoetsen naar de standaardwaarden terugzetten
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Deze toets is al toegewezen aan { $conflict }. Wilt u deze vervangen?
 customkeys-reset-all-confirm = Weet u zeker dat u alle sneltoetsen wilt terugzetten naar de standaardwaarden?
+customkeys-file-duplicate-tab = Tabblad dupliceren
 customkeys-history-reopen-tab = Laatst gesloten tabblad opnieuw openen
 customkeys-history-reopen-window = Laatst gesloten venster opnieuw openen
 customkeys-sidebar-toggle = Zijbalk in-/uitschakelen
