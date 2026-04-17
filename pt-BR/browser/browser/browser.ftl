@@ -1003,6 +1003,7 @@ urlbar-searchmode-popup-one-off-header = Desta vez, pesquisar com:
 # reset after submitting.
 urlbar-searchmode-popup-header = Pesquisar com:
 urlbar-searchmode-popup-search-settings-panelitem = Configurações de pesquisa
+urlbar-searchmode-popup-settings-panelitem = Configurações
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
