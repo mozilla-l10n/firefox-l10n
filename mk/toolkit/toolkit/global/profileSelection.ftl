@@ -17,6 +17,7 @@ profile-selection-rename-button =
 profile-selection-delete-button =
     .label = Избриши го профилот…
     .accesskey = з
+profile-selection-conflict-message = Друга копија од { -brand-product-name } направи промени во профилите. Мора да го рестартирате { -brand-short-name } пред да направите повеќе промени.
 
 ## Messages used in the profile manager
 
@@ -27,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = Користи го избраниот профил при стартувањето без прашување
     .accesskey = с
+profile-has-selectable-profiles-title = Не може да се избрише профил што е поврзан со други профили
+profile-has-selectable-profiles-message = За да го избришете овој профил, отворете го и изберете „Управувај со профили“ од делот за профили во менито { -brand-short-name }. Откако ќе ги избришете сите дополнителни профили што сте ги креирале овде, можете да се вратите на about:profiles и да го избришете овој профил.
