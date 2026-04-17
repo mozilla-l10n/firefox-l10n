@@ -37,6 +37,7 @@ policy-Containers = Ezarri edukiontziei lotutako politikak.
 policy-DisableAccounts = Desgaitu kontuetan oinarritutako zerbitzuak, sinkronizazioa barne.
 policy-DisabledCiphers = Desgaitu zifratzeak.
 policy-DefaultDownloadDirectory = Ezarri deskarga-direktorio lehenetsia.
+policy-DefaultSerialGuardSetting = Kontrolatu Serieko APIaren erabilpena.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.
 policy-DisableBuiltinPDFViewer = Desgaitu PDF.js, { -brand-short-name }(r)en integratutako PDF ikustailea.
 policy-DisableDefaultBrowserAgent = Eragotzi lehenetsitako nabigatzaile agenteak ekintzarik egitea. Windowsen bakarrik; beste plataformek ez dute agentea.

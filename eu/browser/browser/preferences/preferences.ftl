@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Bilaketa-motor lehenetsia
 search-default-engine =
     .aria-label = Bilaketa-motor lehenetsia
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Bilaketa
 
 ## Containers Section
 

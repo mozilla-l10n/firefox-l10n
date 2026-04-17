@@ -2,10 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+refresh-profile-dialog-title = Освежи го { -brand-short-name } на неговите основни поставки?
 refresh-profile-dialog-button =
     .label = Освежи го { -brand-short-name }
+refresh-profile-dialog-description = Започнето одново за да ги поправите проблемите со перфромансите. Ова ќе ги отстрани Вашите екстензии и прилагодување. Нема да ги загубите важните информации како обележувачи и лозинки.
 refresh-profile = Наштелувајте го { -brand-short-name }
 refresh-profile-button = Освежи { -brand-short-name }…
+refresh-profile-learn-more = Дознајте повеќе
 refresh-profile-progress =
     .title = Освежи { -brand-short-name }
 refresh-profile-progress-description = Скоро готово…

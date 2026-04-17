@@ -13,6 +13,7 @@ customkeys-reset-all = Berrezarri lasterbide guztiak lehenespenetara
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Tekla hau lehendik ere { $conflict }-era esleitua dago. Ordezkatu egin nahi duzu?
 customkeys-reset-all-confirm = Ziur zaude teklatuaren lasterbide guztiak lehenespenetara berrezarri nahi dituzula?
+customkeys-file-duplicate-tab = Bikoiztu fitxa
 customkeys-history-reopen-tab = Ireki berriro itxitako azken fitxa
 customkeys-history-reopen-window = Ireki berriro itxitako azken leihoa
 customkeys-sidebar-toggle = Txandakatu alboko barra

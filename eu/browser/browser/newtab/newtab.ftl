@@ -381,6 +381,7 @@ newtab-wallpaper-title = Horma-paperak
 newtab-wallpaper-reset = Berrezarri lehenespenera
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Igo irudia
+newtab-wallpaper-add-an-image = Gehitu irudia
 newtab-wallpaper-custom-color = Aukeratu kolorea
 newtab-wallpaper-toggle-title =
     .label = Horma-paperak
@@ -408,6 +409,7 @@ newtab-wallpaper-light-fox-anniversary = Azeria belardi batean mendiko paisaia l
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Kolore solidoak
+newtab-wallpaper-colors = Koloreak
 newtab-wallpaper-blue = Urdina
 newtab-wallpaper-light-blue = Urdin argia
 newtab-wallpaper-light-purple = More argia
@@ -523,6 +525,10 @@ newtab-weather-opt-in-not-now =
     .label = Une honetan ez
 newtab-weather-opt-in-yes =
     .label = Bai
+newtab-weather-opt-in-headline = Lortu tokiko eguraldiaren iragarpena
+newtab-weather-opt-in-use-location =
+    .label = Erabili kokapena
+newtab-weather-opt-in-choose-location = Aukeratu kokapena
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
 # "Highest" here refers to the highest temperature of the day

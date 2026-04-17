@@ -1012,6 +1012,7 @@ urlbar-searchmode-popup-one-off-header = Oraingoan, bilatu honekin:
 # reset after submitting.
 urlbar-searchmode-popup-header = Bilatu honekin:
 urlbar-searchmode-popup-search-settings-panelitem = Bilaketa-ezarpenak
+urlbar-searchmode-popup-settings-panelitem = Ezarpenak
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1100,6 +1101,9 @@ fullscreen-warning-no-domain = Dokumentua pantaila osoan dago orain
 fullscreen-exit-button = Irten pantaila osotik (Esk)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Irten pantaila osotik (esk)
+fullscreen-keyboardlock-exit-button = Irten pantaila osotik (sakatu eta mantendu Esc tekla)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Irten pantaila osotik (sakatu eta mantendu esc tekla)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
