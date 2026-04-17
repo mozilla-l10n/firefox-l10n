@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Προεπιλεγμένη μηχανή αναζήτησης
 search-default-engine =
     .aria-label = Προεπιλεγμένη μηχανή αναζήτησης
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Αναζήτηση
 
 ## Containers Section
 
