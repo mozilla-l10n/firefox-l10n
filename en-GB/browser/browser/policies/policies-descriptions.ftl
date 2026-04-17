@@ -37,6 +37,7 @@ policy-Containers = Set policies related to containers.
 policy-DisableAccounts = Disable account-based services, including sync.
 policy-DisabledCiphers = Disable ciphers.
 policy-DefaultDownloadDirectory = Set the default download directory.
+policy-DefaultSerialGuardSetting = Control use of the Serial API.
 policy-DisableAppUpdate = Prevent the browser from updating.
 policy-DisableBuiltinPDFViewer = Disable PDF.js, the built-in PDF viewer in { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Prevent the default browser agent from taking any actions. Only applicable to Windows; other platforms don’t have the agent.
