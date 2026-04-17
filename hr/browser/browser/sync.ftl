@@ -29,6 +29,17 @@ fxa-menu-send-to-device =
             [few] Pošalji { $tabCount } kartice na uređaj
            *[other] Pošalji { $tabCount } kartica na uređaj
         }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Pošalji na mobitel
+            [one] Pošalji { $tabCount } karticu na mobitel
+            [few] Pošalji { $tabCount } kartice na mobitel
+           *[other] Pošalji { $tabCount } kartica na mobitel
+        }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Aktiviraj sinkronizaciju za slanje kartice

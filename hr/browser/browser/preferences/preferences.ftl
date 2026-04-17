@@ -2444,6 +2444,25 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = Napredne postavke
+preferences-etp-header =
+    .heading = Poboljšana zaštita od praćenja
+preferences-etp-customize-button =
+    .label = Prilagodi zaštitu od praćenja
+preferences-etp-reload-tabs-hint =
+    .message = Ponovo učitaj kartice kako bi se promjene primijenile.
+preferences-etp-reload-tabs-hint-button =
+    .label = Ponovo učitaj sve kartice
+preferences-etp-rfp-warning-message =
+    .message = Koristi Resist Fingerprinting (RFP) koji zamjenjuje neke { -brand-short-name } postavke zaštite otiska prsta. To može prouzročiti kvar kod nekih web-stranica.
+preferences-etp-reset-standard-button =
+    .label = Resetiraj na standardno
+preferences-etp-reset-strict-button =
+    .label = Resetiraj na strogo
+preferences-etp-custom-control-group =
+    .label = Zaštita od praćenja
+    .description = Odaberi zaštite koje želiš uključiti ili isključiti.
 preferences-etp-custom-cookies-enabled =
     .label = Kolačići
 preferences-etp-custom-cookie-behavior =

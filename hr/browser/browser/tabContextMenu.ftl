@@ -143,6 +143,19 @@ tab-context-send-to-device =
            *[other] Pošalji { $tabCount } kartica na uređaj
         }
     .accesskey = n
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Pošalji na mobitel
+            [one] Pošalji { $tabCount } karticu na mobitel
+            [few] Pošalji { $tabCount } kartice na mobitel
+           *[other] Pošalji { $tabCount } kartica na mobitel
+        }
+    .accesskey = n
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Aktiviraj sinkronizaciju za slanje kartice
 tab-context-send-to-mobile-connect-phone =
     .label = Poveži svoj mobitel
 tab-context-send-to-mobile-device-missing =

@@ -47,6 +47,8 @@ tabbrowser-close-tabs-tooltip =
             [few] Zatvori { $tabCount } kartice
            *[other] Zatvori { $tabCount } kartica
         }
+tab-splitview-splitter =
+    .aria-label = Promijeni veličinu kartica u podijeljenom prikazu
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -274,6 +276,9 @@ tab-group-editor-color-selector2-gray = Siva
     .title = Siva
 tab-group-editor-color-selector2-red = Crvena
     .title = Crvena
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } – Zatvorena
 tab-group-description = { $tabGroupName } – Grupa kartica
 tab-group-label-tooltip-collapsed = { $tabGroupName } – sklopljeno
 tab-group-label-tooltip-expanded = { $tabGroupName } – Prošireno
@@ -416,6 +421,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Spremi
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Izbriši bilješku
+    .aria-label = Izbriši bilješku
+    .accesskey = I
+tab-note-preview-edit-icon =
+    .alt = Uredi bilješku
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Saznaj više
 tab-note-panel-add-note-new-badge =
@@ -446,6 +457,10 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Razdvoji podijeljeni prikaz
     .accesskey = d
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Preokreni redoslijed kartica
+    .accesskey = P
 tab-context-badge-new = Novi
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
