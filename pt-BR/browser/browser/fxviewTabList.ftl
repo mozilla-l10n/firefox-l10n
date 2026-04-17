@@ -78,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Silenciar aba
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ativar som da aba
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Ative a sincronização para enviar uma aba
+fxviewtabrow-send-to-mobile-connect-phone2 = Conecte seu celular
+fxviewtabrow-send-to-mobile-device-missing2 = Seu dispositivo não aparece?

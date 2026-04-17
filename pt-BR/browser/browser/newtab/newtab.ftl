@@ -146,6 +146,9 @@ newtab-menu-report = Relatar
 newtab-menu-section-block = Bloquear
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Deixar de seguir
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Deixar de seguir o tópico
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -375,6 +378,7 @@ newtab-wallpaper-title = Fundo de tela
 newtab-wallpaper-reset = Restaurar padrão
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Enviar uma imagem
+newtab-wallpaper-add-an-image = Adicionar uma imagem
 newtab-wallpaper-custom-color = Escolher uma cor
 newtab-wallpaper-toggle-title =
     .label = Fundo de tela
@@ -402,6 +406,7 @@ newtab-wallpaper-light-fox-anniversary = Uma raposa em um campo gramado com uma 
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Cores sólidas
+newtab-wallpaper-colors = Cores
 newtab-wallpaper-blue = Azul
 newtab-wallpaper-light-blue = Azul claro
 newtab-wallpaper-light-purple = Roxo claro
@@ -517,6 +522,10 @@ newtab-weather-opt-in-not-now =
     .label = Agora não
 newtab-weather-opt-in-yes =
     .label = Sim
+newtab-weather-opt-in-headline = Veja a previsão do tempo local
+newtab-weather-opt-in-use-location =
+    .label = Usar localização
+newtab-weather-opt-in-choose-location = Escolher local
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Cidade de Nova York
 # "Highest" here refers to the highest temperature of the day
@@ -598,6 +607,7 @@ newtab-section-confirm-block-topic-p2 = Tópicos bloqueados não aparecerão mai
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloquear { $topic }
+newtab-section-block-cancel-button = Cancelar
 
 ## Strings for custom wallpaper highlight
 
@@ -661,6 +671,18 @@ newtab-toast-thanks-for-reporting =
     .message = Obrigado por informar isto.
 newtab-toast-widgets-hidden =
     .message = Selecione o ícone de lápis para voltar a adicionar widgets quando quiser.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Agora você está seguindo { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Você não está mais seguindo { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Não aparecerá mais histórias sobre { $topic }.
 
 ## Strings for task / to-do list productivity widget
 
