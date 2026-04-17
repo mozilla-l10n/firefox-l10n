@@ -1672,3 +1672,10 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> elemento tracciante bloccato in questo sito
        *[other] <span data-l10n-name="count">{ $count }</span> elementi traccianti bloccati in questo sito
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Il sito non funziona?</strong> Ricarica la pagina per ridurre temporaneamente la protezione antitracciamento.
+reduced-protection-infobar-reload-button = Ricarica
+    .accesskey = R

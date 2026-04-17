@@ -2122,6 +2122,12 @@ collection-backlogged-crash-reports2 =
     .label = Invia automaticamente rapporti sugli arresti anomali
     .accesskey = u
 collection-backlogged-crash-reports-description = Questo aiuta { -vendor-short-name } a diagnosticare e risolvere problemi con il browser. Le segnalazioni possono includere dati personali o sensibili.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Stesse impostazioni, nuovo look.
+    .message = Abbiamo riorganizzato questa pagina per renderla più semplice da consultare e navigare. Le tue impostazioni personali sono rimaste invariate e non è stato rimosso nulla. Un consiglio: utilizza la funzione di ricerca per trovare subito ciò di cui hai bisogno.
+settings-redesign-promo-dismiss-button =
+    .label = OK
 addon-recommendations =
     .label = Consenti a { -brand-short-name } di visualizzare suggerimenti personalizzati relativi alle estensioni
 addon-recommendations-link = Ulteriori informazioni
