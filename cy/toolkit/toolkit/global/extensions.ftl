@@ -150,6 +150,7 @@ webext-perms-optional-text-with-data-collection-only = Mae { $extension } yn gof
 
 webext-site-perms-header-with-gated-perms-midi = Mae'r ychwanegyn hwn yn rhoi mynediad i { $hostname } i'ch dyfeisiau MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Mae'r ychwanegyn hwn yn rhoi mynediad i { $hostname } i'ch dyfeisiau MIDI (gyda chefnogaeth SysEx).
+webext-site-perms-header-with-gated-perms-serial = Mae'r ychwanegyn hwn yn rhoi mynediad i { $hostname } i'ch dyfeisiau cyfresol.
 
 ##
 
@@ -160,6 +161,12 @@ webext-site-perms-description-gated-perms-midi =
     Mae'r rhain fel arfer yn ddyfeisiadau plygio i mewn fel syntheseisyddion sain, ond efallai eu bod hefyd wedi'u cynnwys yn eich cyfrifiadur.
     
     Nid yw gwefannau yn cael mynediad i ddyfeisiau MIDI fel arfer. Gall ddefnydd amhriodol achosi difrod neu beryglu diogelwch.
+webext-site-perms-description-gated-perms-serial =
+    Mae'r rhain yn ddyfeisiau fel microreolyddion, argraffwyr 3D, a dyfeisiau eraill sy'n cysylltu trwy USB neu byrth cyfresol.
+    
+    Byddwch yn gallu dewis pa ddyfeisiau y gall y wefan gael mynediad iddyn nhw.
+    
+    Fel arfer does dim caniatâd i wefannau gael mynediad i ddyfeisiau cyfresol. Gallai defnydd amhriodol achosi difrod neu beryglu diogelwch.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -174,6 +181,7 @@ webext-site-perms-header-unsigned-with-perms = Ychwanegu { $extension }? Nid yw'
 
 webext-site-perms-midi = Mynediad at ddyfeisiau MIDI
 webext-site-perms-midi-sysex = Mynediad at ddyfeisiau MIDI sydd â Chefnogaeth SysEx
+webext-site-perms-serial = Mynediad i ddyfeisiau cyfresol
 
 ## Colorway theme migration
 

@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Predstavljanje VPN-a, sada izravno u tvom pregledniku
+ipprotection-feature-introduction-description-captive-portal = Pretraži s dodatnom zaštitom, skrivanjem svoje lokacije čak i na javnoj Wi-Fi mreži.
 ipprotection-feature-introduction-button-primary = Dalje
 ipprotection-feature-introduction-button-secondary-not-now = Ne sada
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne hvala

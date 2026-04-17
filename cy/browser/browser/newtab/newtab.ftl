@@ -538,6 +538,7 @@ newtab-weather-opt-in-yes =
 newtab-weather-opt-in-headline = Cael eich rhagolygon tywydd lleol
 newtab-weather-opt-in-use-location =
     .label = Defnyddio'r lleoliad
+newtab-weather-opt-in-choose-location = Dewis lleoliad
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Dinas Efrog Newydd
 # "Highest" here refers to the highest temperature of the day

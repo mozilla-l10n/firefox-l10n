@@ -1127,6 +1127,9 @@ search-engine-group =
     .label = Peiriant Chwilio Rhagosodedig
 search-default-engine =
     .aria-label = Peiriant Chwilio Rhagosodedig
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Chwilio
 
 ## Containers Section
 

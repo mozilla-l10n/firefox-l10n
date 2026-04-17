@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Mae cloc eich dyfais wedi
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Dyw perchennog { $hostname } heb ei osod yn iawn a does dim modd creu cysylltiad diogel.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Mae eich cyfrifiadur yn meddwl taw <span id='wrongSystemTime_systemDate1'/>, sy'n rhwystro { -brand-short-name } rhag cysylltu'n ddiogel. I fynd i <span class='hostname'></span>, diweddarwch gloc eich cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a chylch amser cyfredol ac yna adnewyddu <span class='hostname'></span>.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Diweddarwch eich cloc cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a pharth amser cyfredol. Mae eich cyfrifiadur yn meddwl ei fod yn { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

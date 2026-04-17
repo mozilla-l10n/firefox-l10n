@@ -1013,6 +1013,7 @@ urlbar-searchmode-popup-one-off-header = Ovaj put traži pomoću:
 # reset after submitting.
 urlbar-searchmode-popup-header = Traži pomoću:
 urlbar-searchmode-popup-search-settings-panelitem = Postavke pretrage
+urlbar-searchmode-popup-settings-panelitem = Postavke
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1101,6 +1102,9 @@ fullscreen-warning-no-domain = Ovaj dokument se sada prikazuje preko cijelog ekr
 fullscreen-exit-button = Izađi iz cjeloekranskog prikaza (esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Izađi iz cjeloekranskog prikaza (esc)
+fullscreen-keyboardlock-exit-button = Zatvori cjeloekranski prikaz (pritisni i drži tipku Esc pritisnutom)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Zatvori cjeloekranski prikaz (pritisni i drži tipku Esc pritisnutom)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

@@ -2418,6 +2418,8 @@ preferences-etp-manage-exceptions-button =
 preferences-etp-custom-control-group =
     .label = حماية التعقب
     .description = اختر الحمايات التي تريد تفعيلها أو إيقافها.
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = اسمح بجميع ملفات تعريف الارتباط
 
 ## Warnings section
 

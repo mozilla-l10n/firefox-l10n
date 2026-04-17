@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = Anfonodd <strong>{ $hostname }</strong> wall
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Anfonodd y gweinydd yn <strong>{ $hostname }</strong> wall yn ôl: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = Nid yw { -brand-short-name } wedi llwytho'r dudalen hon oherwydd mae'n edrych yn debyg nad yw'r ffurfweddiad diogelwch yn cyfateb i'r dudalen flaenorol.
+fp-neterror-blocked-by-policy-intro = Mae eich sefydliad wedi rhwystro mynediad i'r dudalen neu'r wefan hon.
 fp-neterror-http-auth-disabled-intro = Gallai rhywun sy'n cymryd arno fod ar y wefan geisio dwyn pethau fel eich enw defnyddiwr, cyfrinair neu e-bost.
 fp-neterror-http-auth-disabled-secure-connection = Mae angen cysylltiad diogel ar y wefan hon, a does dim modd i chi ychwanegu eithriad i ymweld â hi.
 fp-neterror-why-did-this-happen = Pam digwyddodd hyn?

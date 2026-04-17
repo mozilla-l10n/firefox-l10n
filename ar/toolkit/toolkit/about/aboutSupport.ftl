@@ -324,6 +324,9 @@ has-seccomp-bpf = ‏Seccomp-BPF (ترشيح استدعاءات النظام)
 has-seccomp-tsync = مزامنة Seccomp للخيوط
 has-user-namespaces = نطاقات أسماء المستخدمين
 has-privileged-user-namespaces = نطاقات أسماء المستخدمين للسيرورات ذات الامتياز
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — هذه الميزة غير مسموح بها في نظامك. قد يؤدي ذلك إلى تقييد ميزات الأمان الخاصة بـ { -brand-short-name }.
 can-sandbox-content = عزل سيرورة المحتوى
 can-sandbox-media = عزل ملحقات الوسائط
 content-sandbox-level = مستوى عزل سيرورة المحتوى

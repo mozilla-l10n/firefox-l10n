@@ -13,6 +13,7 @@ customkeys-reset-all = Resetiraj sve prečace na zadane postavke
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Ova je tipka već dodijeljena za { $conflict }. Želiš li ju zamijeniti?
 customkeys-reset-all-confirm = Stvarno želiš resetirati sve tipkovne prečace na zadane postavke?
+customkeys-file-duplicate-tab = Dupliciraj karticu
 customkeys-history-reopen-tab = Ponovo otvori zadnju zatvorenu karticu
 customkeys-history-reopen-window = Ponovno otvori zadnji zatvoreni prozor
 customkeys-sidebar-toggle = Prikaži/sakrij bočnu traku

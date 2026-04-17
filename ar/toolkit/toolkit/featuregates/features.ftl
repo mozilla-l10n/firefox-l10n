@@ -16,6 +16,7 @@ experimental-features-media-jxl =
     .label = Media: JPEG XL
 experimental-features-devtools-compatibility-panel =
     .label = أدوات المطوّرين: لوحة التوافقية
+experimental-features-webrtc-global-mute-toggles-description = أضف تحكُم إلى مؤشر المشاركة العالمية لـ WebRTC تسمح للمستخدمين بكتم صوت الميكروفون وكاميراتهم بشكل عام.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
