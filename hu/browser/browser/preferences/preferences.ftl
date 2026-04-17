@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Alapértelmezett keresőszolgáltatás
 search-default-engine =
     .aria-label = Alapértelmezett keresőszolgáltatás
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Keresés
 
 ## Containers Section
 

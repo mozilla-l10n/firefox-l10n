@@ -148,3 +148,11 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">További tudn
 css-selector-warning-unconstrained-has = Ez a választó nem korlátozott <strong>:has()</strong> paramétert használ, amely lassú lehet
 # :scope should not be translated
 css-selector-warning-sibling-combinator-after-scope = A <strong>:scope</strong> választó utáni testvérválasztók sosem egyeznek semmivel
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
+css-selector-container-query-condition-no-container = Nem található „{ $name }” konténer
