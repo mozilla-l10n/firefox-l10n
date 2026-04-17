@@ -1115,6 +1115,9 @@ search-engine-group =
     .label = Поисковая система по умолчанию
 search-default-engine =
     .aria-label = Поисковая система по умолчанию
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Поиск
 
 ## Containers Section
 

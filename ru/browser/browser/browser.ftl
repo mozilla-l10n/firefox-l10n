@@ -1020,6 +1020,7 @@ urlbar-searchmode-popup-one-off-header = В этот раз искать в:
 # reset after submitting.
 urlbar-searchmode-popup-header = Искать в:
 urlbar-searchmode-popup-search-settings-panelitem = Параметры поиска
+urlbar-searchmode-popup-settings-panelitem = Настройки
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1108,6 +1109,9 @@ fullscreen-warning-no-domain = Этот документ теперь наход
 fullscreen-exit-button = Выйти из полноэкранного режима (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Выйти из полноэкранного режима (esc)
+fullscreen-keyboardlock-exit-button = Выйти из полноэкранного режима (Нажмите и удерживайте Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Выйти из полноэкранного режима (Нажмите и удерживайте esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
