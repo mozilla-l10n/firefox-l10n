@@ -18,6 +18,7 @@ about-networking-alt-svc-alternate = Εναλλακτικό
 about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Επικυρώθηκε
 about-networking-alt-svc-ttl = TTL
+about-networking-alt-svc-origin-attributes-suffix = Κλειδί απομόνωσης
 about-networking-refresh = Ανανέωση
 about-networking-auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
 about-networking-hostname = Όνομα κεντρικού υπολογιστή
