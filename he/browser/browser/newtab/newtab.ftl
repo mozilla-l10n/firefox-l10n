@@ -520,6 +520,10 @@ newtab-weather-opt-in-not-now =
     .label = לא כעת
 newtab-weather-opt-in-yes =
     .label = כן
+newtab-weather-opt-in-headline = קבלת תחזית מזג האוויר המקומית שלך
+newtab-weather-opt-in-use-location =
+    .label = שימוש במיקום
+newtab-weather-opt-in-choose-location = בחירת מיקום
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day
