@@ -376,6 +376,7 @@ newtab-wallpaper-title = תמונות רקע
 newtab-wallpaper-reset = איפוס לברירת מחדל
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = העלאת תמונה
+newtab-wallpaper-add-an-image = הוספת תמונה
 newtab-wallpaper-custom-color = בחירת צבע
 newtab-wallpaper-toggle-title =
     .label = תמונות רקע
@@ -403,6 +404,7 @@ newtab-wallpaper-light-fox-anniversary = שועל בשדה עשב עם נוף ה
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = צבעים אחידים
+newtab-wallpaper-colors = צבעים
 newtab-wallpaper-blue = כחול
 newtab-wallpaper-light-blue = כחול בהיר
 newtab-wallpaper-light-purple = סגול בהיר
