@@ -100,6 +100,7 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Približavaš se ograničenju VPN-a
     .message = Preostalo ti je { $usageLeft } GB od { $maxUsage } GB u ovom mjesecu.
+ipprotection-message-continuous-onboarding-intro = Uključi VPN za skrivanje tvoje lokacije i dodavanje dodatnog šifriranja za pregledavanje.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
 
 ## IP Protection Settings

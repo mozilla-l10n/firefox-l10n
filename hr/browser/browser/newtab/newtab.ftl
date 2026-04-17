@@ -384,6 +384,7 @@ newtab-wallpaper-title = Pozadine
 newtab-wallpaper-reset = Obnovi na standardnu pozadinu
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Prenesi sliku
+newtab-wallpaper-add-an-image = Dodaj sliku
 newtab-wallpaper-custom-color = Odaberi boju
 newtab-wallpaper-toggle-title =
     .label = Pozadine
@@ -411,6 +412,7 @@ newtab-wallpaper-light-fox-anniversary = Lisica u travnatom polju s maglovitim p
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jednobojne
+newtab-wallpaper-colors = Boje
 newtab-wallpaper-blue = Plava
 newtab-wallpaper-light-blue = Svijetloplava
 newtab-wallpaper-light-purple = Svijetloljubičasta
@@ -526,6 +528,10 @@ newtab-weather-opt-in-not-now =
     .label = Ne sada
 newtab-weather-opt-in-yes =
     .label = Da
+newtab-weather-opt-in-headline = Dobij svoju lokalnu vremensku prognozu
+newtab-weather-opt-in-use-location =
+    .label = Koristi lokaciju
+newtab-weather-opt-in-choose-location = Odaberi lokaciju
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day
