@@ -1012,6 +1012,7 @@ urlbar-searchmode-popup-one-off-header = Iste vice cerca con:
 # reset after submitting.
 urlbar-searchmode-popup-header = Cercar con:
 urlbar-searchmode-popup-search-settings-panelitem = Parametros de recerca
+urlbar-searchmode-popup-settings-panelitem = Parametros
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
