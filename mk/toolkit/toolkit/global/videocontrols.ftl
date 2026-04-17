@@ -8,6 +8,8 @@
 videocontrols-buffer-bar-label = Вчитано:
 videocontrols-volume-control =
     .aria-label = Глас
+videocontrols-closed-caption-button =
+    .aria-label = Автоматски титлови
 videocontrols-play-button =
     .aria-label = Пушти
 videocontrols-pause-button =
@@ -26,12 +28,23 @@ videocontrols-casting-button-label =
 # as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = Исклученo
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = Слика во слика
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = Извадете го ова видео во посебен прозорец
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = Повеќе екрани се позабавни. Пуштете го ова видео додека правите други работи.
 videocontrols-error-aborted = Video loading stopped.
 videocontrols-error-network = Video playback aborted due to a network error.
 videocontrols-error-decode = Video can't be played because the file is corrupt.
 videocontrols-error-src-not-supported = Video format or MIME type is not supported.
 videocontrols-error-no-source = No video with supported format and MIME type found.
 videocontrols-error-generic = Video playback aborted due to an unknown error.
+videocontrols-status-picture-in-picture = Ова видео се репродуцира во режим „Слика во слика“.
 # This message shows the current position and total video duration
 #
 # Variables:

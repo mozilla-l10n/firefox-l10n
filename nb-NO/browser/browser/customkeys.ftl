@@ -13,6 +13,7 @@ customkeys-reset-all = Tilbakestill alle hurtigtaster til standard
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Denne hurtigtasten er allerede tilordnet { $conflict }. Vil du erstatte den?
 customkeys-reset-all-confirm = Er du sikker på at du vil tilbakestille alle hurtigtaster til standardinnstillingene?
+customkeys-file-duplicate-tab = Dupliser fane
 customkeys-history-reopen-tab = Gjenåpne sist lukkede fane
 customkeys-history-reopen-window = Gjenåpne sist lukkede vindu
 customkeys-sidebar-toggle = Slå av/på sidestolpe

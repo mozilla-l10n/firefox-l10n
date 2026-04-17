@@ -130,6 +130,10 @@ fp-certerror-transparency-what-can-you-do-body = Веројатно ништо, 
 fp-learn-more-about-secure-connection-failures = Дознајте повеќе за неуспесите во безбедната врска
 fp-learn-more-about-cert-issues = Дознајте повеќе за овие видови проблеми со сертификати
 fp-learn-more-about-time-related-errors = Дознајте повеќе за решавање проблеми со грешки поврзани со времето
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не му верува на ова место бидејќи се чини дека доставениот сертификат ќе стане валиден на{ DATETIME($date, timeStyle: "short") } а сега е { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
