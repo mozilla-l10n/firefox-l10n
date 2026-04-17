@@ -76,11 +76,17 @@ fp-certerror-return-to-previous-page-recommended-button = Врати се наз
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } Ве предупредува за ова место бидејќи сертификатот доставен за { $hostname } е поништен и повеќе не е доверлив.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Веројатно ништо, бидејќи веројатно има проблем со самото место. Можете да проверите кај сопственикот на мрежното место дали работат на проблемот.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = Местото е поставено да дозволува само безбедни врски, но има проблем со неговиот сертификат. Можно е некој злонамерен актер да се обидува да се претстави како него. Мрежните места користат сертификати издадени од авторитет за сертификати за да докажат дека се навистина тоа што се претставуваат. { -brand-short-name } не му верува на ова место бидејќи неговиот сертификат не е валиден за { $hostname }. Сертификатот е валиден само за: { $validHosts }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = Веројатно ништо, бидејќи веројатно има проблем со самото место. Мрежните места користат сертификати издадени од овластена организација за сертификати за да докажат дека се навистина тоа што се претставуваат. Но, ако сте на корпоративна мрежа, Вашиот тим за поддршка може да има повеќе информации. Ако користите антивирусен софтвер, обидете се да пребарате потенцијални конфликти или познати проблеми.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = Има проблем со сертификатот за местото. Можно е некој злонамерен актер да се обидува да се претстави како него. Мрежните места користат сертификати издадени од авторитет за сертификати за да докажат дека се навистина тоа што се претставуваат. { -brand-short-name } не му верува на овој сертификат бидејќи не може да утврди кој го издал сертификатот. Сертификатот е само-потпишан, или не праќа посредни сертификати на кои им веруваме.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код на грешка: { $error }
