@@ -522,6 +522,7 @@ newtab-weather-opt-in-not-now =
     .label = Non ora
 newtab-weather-opt-in-yes =
     .label = Si
+newtab-weather-opt-in-headline = Obtene tu prevision del conditiones meteorologic local
 newtab-weather-opt-in-use-location =
     .label = Usar position
 newtab-weather-opt-in-choose-location = Eliger position

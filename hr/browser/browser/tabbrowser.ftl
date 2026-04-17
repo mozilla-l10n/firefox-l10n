@@ -247,7 +247,7 @@ tabbrowser-manager-current-window-tab-group =
 ##
 
 tab-group-editor-title-create = Stvori grupu kartica
-tab-group-editor-title-edit = Upravljanj grupom kartica
+tab-group-editor-title-edit = Upravljaj grupom kartica
 tab-group-editor-name-label = Ime
 tab-group-editor-name-field =
     .placeholder = Primjer: Šoping
