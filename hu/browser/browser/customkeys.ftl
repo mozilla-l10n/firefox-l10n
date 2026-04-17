@@ -13,6 +13,7 @@ customkeys-reset-all = Összes gyorsbillentyű visszaállítása az alapértelme
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Ez a kulcs már hozzá van rendelve ehhez: { $conflict }. Lecseréli?
 customkeys-reset-all-confirm = Biztos, hogy visszaállítja az összes gyorsbillentyűt az alapértelmezettre?
+customkeys-file-duplicate-tab = Lap duplikálása
 customkeys-history-reopen-tab = Legutóbb bezárt lap újranyitása
 customkeys-history-reopen-window = Legutóbb bezárt ablak újranyitása
 customkeys-sidebar-toggle = Oldalsáv be/ki

@@ -1015,6 +1015,7 @@ urlbar-searchmode-popup-one-off-header = Ezúttal keressen a következővel:
 # reset after submitting.
 urlbar-searchmode-popup-header = Keresés ezzel:
 urlbar-searchmode-popup-search-settings-panelitem = Keresési beállítások
+urlbar-searchmode-popup-settings-panelitem = Beállítások
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1103,6 +1104,9 @@ fullscreen-warning-no-domain = A dokumentum mostantól teljes képernyős
 fullscreen-exit-button = Kilépés a teljes képernyőből (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kilépés a teljes képernyőből (esc)
+fullscreen-keyboardlock-exit-button = Kilépés a teljes képernyős módból (Nyomja meg és tartsa lenyomva az Esc billentyűt)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Kilépés a teljes képernyős módból (Nyomja meg és tartsa lenyomva az Esc billentyűt)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

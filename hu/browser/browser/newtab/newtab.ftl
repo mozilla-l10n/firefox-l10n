@@ -382,6 +382,7 @@ newtab-wallpaper-title = Háttérképek
 newtab-wallpaper-reset = Visszaállítás az alapértelmezésre
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Kép feltöltése
+newtab-wallpaper-add-an-image = Kép hozzáadása
 newtab-wallpaper-custom-color = Válasszon színt
 newtab-wallpaper-toggle-title =
     .label = Háttérképek
@@ -409,6 +410,7 @@ newtab-wallpaper-light-fox-anniversary = Egy róka egy füves mezőben, ködös 
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Egyszínű színek
+newtab-wallpaper-colors = Színek
 newtab-wallpaper-blue = Kék
 newtab-wallpaper-light-blue = Világoskék
 newtab-wallpaper-light-purple = Világoslila
