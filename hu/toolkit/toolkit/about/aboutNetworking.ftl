@@ -14,6 +14,7 @@ about-networking-dns-suffix = DNS utótag
 about-networking-websockets = WebSocketek
 about-networking-alt-svc-origin = Eredet
 about-networking-alt-svc-alternate = Alternatív
+about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Izolációs kulcs
 about-networking-refresh = Frissítés
 about-networking-auto-refresh = Autofrissítés 3 másodpercenként
