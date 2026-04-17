@@ -4,7 +4,7 @@
 
 default-browser-agent-task-description = La tâche Agent de navigateur par défaut effectue une vérification lorsque le navigateur par défaut passe de { -brand-short-name } à un autre navigateur. Si le changement se produit dans des circonstances suspectes, elle invite les utilisateurs à revenir sur { -brand-short-name } deux fois au maximum. Cette tâche est installée automatiquement par { -brand-short-name } et est réinstallée lorsque { -brand-short-name } est mis à jour. Pour désactiver cette tâche, changez la valeur de la préférence « default-browser-agent.enabled » depuis la page about:config ou modifiez la stratégie d’entreprise { -brand-short-name } « DisableDefaultBrowserAgent ».
 default-browser-notification-privacy-header-text = Rester avec { -brand-short-name } ?
-default-browser-notification-privacy-body-text = Valeur par défaut changée. Profitez de { -brand-short-name } pour bénéficier de plus de confidentialité et de protection.
+default-browser-notification-privacy-body-text = Votre navigateur par défaut a été modifié. Revenez sur { -brand-short-name } pour profiter d’une confidentialité et d’une protection intégrées.
 default-browser-notification-header-text = Continuer d’utiliser { -brand-short-name } ?
 default-browser-notification-body-text = Votre navigateur par défaut a été récemment changé. Appuyez pour restaurer { -brand-short-name } par défaut.
 default-browser-notification-yes-button-text = Oui
