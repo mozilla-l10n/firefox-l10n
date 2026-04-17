@@ -378,6 +378,7 @@ newtab-wallpaper-title = Fondos de pantalla
 newtab-wallpaper-reset = Restablecer a predeterminados
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Subir una imagen
+newtab-wallpaper-add-an-image = Añadir una imagen
 newtab-wallpaper-custom-color = Elegir un color
 newtab-wallpaper-toggle-title =
     .label = Fondos de pantalla
@@ -405,6 +406,7 @@ newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de pasto con un pa
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Colores sólidos
+newtab-wallpaper-colors = Colores
 newtab-wallpaper-blue = Azul
 newtab-wallpaper-light-blue = Azul claro
 newtab-wallpaper-light-purple = Morado claro
@@ -520,6 +522,10 @@ newtab-weather-opt-in-not-now =
     .label = Ahora no
 newtab-weather-opt-in-yes =
     .label = Sí
+newtab-weather-opt-in-headline = Consulta el pronóstico del tiempo local.
+newtab-weather-opt-in-use-location =
+    .label = Usar ubicación
+newtab-weather-opt-in-choose-location = Elegir ubicación
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Nueva York
 # "Highest" here refers to the highest temperature of the day

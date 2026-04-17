@@ -37,6 +37,7 @@ policy-Containers = Establecer políticas relacionadas con los contenedores.
 policy-DisableAccounts = Deshabilita los servicios basados en cuentas, incluida la sincronización.
 policy-DisabledCiphers = Desactivar encriptadores.
 policy-DefaultDownloadDirectory = Establecer la carpeta de descargas predeterminada
+policy-DefaultSerialGuardSetting = Controlar el uso de la API serial.
 policy-DisableAppUpdate = Evitar que el navegador se actualice.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Previene que el agente de navegación predeterminado tome acciones. Solo aplicable a Windows; otras plataformas no tienen el agente.

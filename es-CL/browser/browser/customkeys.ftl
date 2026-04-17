@@ -13,6 +13,7 @@ customkeys-reset-all = Restablecer todos los accesos directos a sus valores pred
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Esta tecla ya está asignada a { $conflict }. ¿Deseas reemplazarla?
 customkeys-reset-all-confirm = ¿Seguro que deseas restablecer todos los atajos de teclado a sus valores predeterminados?
+customkeys-file-duplicate-tab = Duplicar pestaña
 customkeys-history-reopen-tab = Reabrir última pestaña cerrada
 customkeys-history-reopen-window = Reabrir última ventana cerrada
 customkeys-sidebar-toggle = Barra lateral
