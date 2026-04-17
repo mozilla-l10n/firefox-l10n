@@ -138,16 +138,34 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Часовникот на
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Сопственикот на { $hostname } не го поставил правилно и не може да се создаде безбедна врска.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Вашиот компјутер мисли дека е { DATETIME($now, dateStyle: "medium") }, што го спречува { -brand-short-name } безбедно да се поврзе. За да го посетите <strong>{ $hostname } </strong>, ажурирајте го часовникот на компјутерот во системските поставки на тековниот датум, време и временска зона, а потоа освежете ја страницата.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Ажурирајте го часовникот на компјутерот во системските поставки на тековниот датум, време и временска зона. Вашиот компјутер мисли дека е { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
 
 cert-error-revoked-certificate = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот доставен за { $hostname } е повлечен и повеќе не е доверлив.
-cert-error-bad-signature = { -brand-short-name } ја блокираше посетата на оваа страница бидејќи потписот на сертификатот даден за { $hostname } не е валиден.
+cert-error-bad-signature = { -brand-short-name } ја блокираше посетата на ова место бидејќи потписот на сертификатот даден за { $hostname } не е валиден.
 cert-error-key-pinning-failure = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот доставен за { $hostname } коирсти неочекуван јавен клуч
-cert-error-bad-der = { -brand-short-name } ја блокираше посетата на оваа страница бидејќи сертификатот даден за { $hostname } не е правилно енкодиран.
+cert-error-bad-der = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } не е правилно енкодиран.
+cert-error-cert-not-in-name-space = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } не ги следи ограничувањата за името на сертификатот кој што го издал.
+cert-error-inadequate-cert-type = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } не смее да се користи за мрежен сервер.
 cert-error-path-len-constraint-invalid = { -brand-short-name } ја блокираше Вашата посета на ова место бидејќи сертификатот даден за { $hostname } има премногу посредни сертификати на патот до основниот сертификат.
-cert-error-unknown-critical-extension = { -brand-short-name } ја блокираше посетата на оваа страница бидејќи сертификатот даден за { $hostname } содржи неподджана екстензија.
+cert-error-invalid-key = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } има невалиден клуч. Најверојатно клучот е премногу мал за да биде безбеден.
+cert-error-unknown-critical-extension = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } содржи неподджана екстензија.
+cert-error-extension-value-invalid = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } содржи невалиден додаток.
+cert-error-untrusted-issuer = { -brand-short-name } Ве предупредува за ова место бидејќи сертификатот доставен за { $hostname } е издаден од организација не која повеќе не ѝ се верува.
+cert-error-untrusted-cert = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } е означен дека не може да му се верува.
+cert-error-invalid-integer-encoding = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } содржи невалидно енкодиран интеџер. Вообичаени причини за ова се негативни сериски броеви, негативни RSA модули, и енкодинзи кои повеќе не се нужни.
+cert-error-unsupported-keyalg = { -brand-short-name } ја блокираше посетата на ова место бидејќи сертификатот даден за { $hostname } има непподржан тип на клуч.
+cert-error-issuer-no-longer-trusted = { -brand-short-name } ја блокираше посетата на ова место бидејќи на огранизацијата која што го издала сертификатот даден за { $hostname } повеќе не ѝ се верува.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } ја блокираше посетата на ова место бидејќи алгоритамот на потписот на сертификатот даден за { $hostname } не се совпаѓа со неговото поле.
 
 ## Messages used for certificate error titles
 
@@ -209,6 +227,8 @@ fp-certerror-hide-advanced-button = Сокриј напредно
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-certerror-override-exception-button = Продолжи кон { $hostname } (Ризично)
+fp-certerror-intro = { -brand-short-name } забележа потенцијално сериозен безбедносен проблем со <strong>{ $hostname } </strong>. Некој што се преправа дека е местото би можел да се обиде да украде работи како информации за кредитна картичка, лозинки или е-пошта.
+fp-certerror-expired-into = { -brand-short-name } забележа безбедносен проблем со <strong>{ $hostname } </strong>. Или местото не е правилно поставена или часовникот на Вашиот уред е поставен на погрешен датум/време.
 fp-certerror-transparency-intro = Некој што се преправа дека е <strong>{ $hostname }</strong> би можел да се обиде да украде работи како што се вашето корисничко име, лозинка или е-пошта.
 fp-certerror-override-exception-button-2 = Продолжи кон { $hostname } (Ризично)
     .accesskey = П
