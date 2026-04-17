@@ -384,6 +384,7 @@ newtab-wallpaper-title = Шпалеры
 newtab-wallpaper-reset = Скінуць да прадвызначаных
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Зацягнуць выяву
+newtab-wallpaper-add-an-image = Дадаць выяву
 newtab-wallpaper-custom-color = Выберыце колер
 newtab-wallpaper-toggle-title =
     .label = Шпалеры
@@ -411,6 +412,7 @@ newtab-wallpaper-light-fox-anniversary = Ліса ў травяністым по
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Аднатонныя колеры
+newtab-wallpaper-colors = Колеры
 newtab-wallpaper-blue = Сіні
 newtab-wallpaper-light-blue = Блакітны
 newtab-wallpaper-light-purple = Светла-фіялетавы

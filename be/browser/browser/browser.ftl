@@ -1022,6 +1022,7 @@ urlbar-searchmode-popup-one-off-header = Гэтым разам шукаць у:
 # reset after submitting.
 urlbar-searchmode-popup-header = Шукаць на:
 urlbar-searchmode-popup-search-settings-panelitem = Налады пошуку
+urlbar-searchmode-popup-settings-panelitem = Налады
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

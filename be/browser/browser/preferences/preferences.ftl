@@ -1115,6 +1115,9 @@ search-engine-group =
     .label = Прадвызначаны пашукавік
 search-default-engine =
     .aria-label = Прадвызначаны пашукавік
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Пошук
 
 ## Containers Section
 
