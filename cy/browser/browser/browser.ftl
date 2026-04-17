@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan
 urlbar-midi-notification-anchor =
     .tooltiptext = Agor panel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Agor y panel Cyfresol
 urlbar-eme-notification-anchor =
     .tooltiptext = Rheoli'r defnydd o feddalwedd DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Rydych wedi rhwystro tynnu data canvas o'r wefan hon.
 urlbar-midi-blocked =
     .tooltiptext = Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.
+urlbar-serial-blocked =
+    .tooltiptext = Rydych wedi rhwystro llamlenni ar y wefan hon.
 urlbar-install-blocked =
     .tooltiptext = Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.
 # Variables
@@ -665,6 +669,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Analluogi diogelwch rhannu ar gyfer y sesiwn hon
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Dewiswch borth cyfresol:
+webserial-no-ports-available = Dim pyrth cyfresol ar gael
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = I ddefnyddio'r llwybr byr F12, agorwch DevTools yn gyntaf trwy'r ddewislen Offer Porwr.
@@ -1034,6 +1043,7 @@ urlbar-searchmode-popup-one-off-header = Y tro hwn, chwilio gyda:
 # reset after submitting.
 urlbar-searchmode-popup-header = Chwilio gyda:
 urlbar-searchmode-popup-search-settings-panelitem = Gosodiadau chwilio
+urlbar-searchmode-popup-settings-panelitem = Gosodiadau
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1122,6 +1132,9 @@ fullscreen-warning-no-domain = Mae'r ddogfen nawr yn sgrin lawn
 fullscreen-exit-button = Gadael y Sgrin Lawn (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Gadael y Sgrin Lawn (esc)
+fullscreen-keyboardlock-exit-button = Gadael Sgrin Lawn (Pwyso a dal Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Gadael Sgrin Lawn (Pwyso a dal esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

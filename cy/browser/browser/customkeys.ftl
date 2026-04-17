@@ -13,6 +13,7 @@ customkeys-reset-all = Ailosod pob llwybr byr i'r rhagosodiadau
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Mae'r fysell hon eisoes wedi'i haseinio i { $conflict }. Ydych chi am ei disodli?
 customkeys-reset-all-confirm = Ydych chi'n siŵr eich bod am ailosod pob llwybr byr bysellfwrdd i'w rhagosodiadau?
+customkeys-file-duplicate-tab = Dyblygu Tab
 customkeys-history-reopen-tab = Ail agor Tabiau Caewyd Diwethaf
 customkeys-history-reopen-window = Ail agor ffenestr Caewyd Diwethaf
 customkeys-sidebar-toggle = Toglo'r Bar Ochr

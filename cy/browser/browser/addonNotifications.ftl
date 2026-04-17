@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Mae'r wefan hon yn gofyn am fynediad i'ch dyfeisiau MIDI (Rhyngwyneb Digidol Offeryn Cerdd). Mae modd galluogi mynediad i ddyfais trwy osod ychwanegyn.
 site-permission-install-first-prompt-midi-message = Nid oes gwarant fod y mynediad hwn yn ddiogel. Parhewch dim ond os ydych yn ymddiried yn y wefan hon.
+site-permission-install-first-prompt-serial-header = Mae'r wefan hon yn gofyn am fynediad i'ch dyfeisiau. Mae modd galluogi mynediad dyfais trwy osod ychwanegyn.
+site-permission-install-first-prompt-serial-message = Does dim gwarant fod y mynediad hwn yn ddiogel. Parhewch dim ond os ydych yn ymddiried yn y wefan hon.
 
 ##
 

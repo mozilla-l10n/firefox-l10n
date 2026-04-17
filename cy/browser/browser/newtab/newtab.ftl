@@ -391,6 +391,7 @@ newtab-wallpaper-title = Papurau wal
 newtab-wallpaper-reset = Ailosod i'r rhagosodiad
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Llwytho delwedd
+newtab-wallpaper-add-an-image = Ychwanegu delwedd
 newtab-wallpaper-custom-color = Dewis lliw
 newtab-wallpaper-toggle-title =
     .label = Papurau wal
@@ -418,6 +419,7 @@ newtab-wallpaper-light-fox-anniversary = Llwynog mewn cae glaswelltog gyda thirl
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Lliwiau solet
+newtab-wallpaper-colors = Lliwiau
 newtab-wallpaper-blue = Glas
 newtab-wallpaper-light-blue = Glas golau
 newtab-wallpaper-light-purple = Porffor golau
@@ -533,6 +535,9 @@ newtab-weather-opt-in-not-now =
     .label = Nid nawr
 newtab-weather-opt-in-yes =
     .label = Iawn
+newtab-weather-opt-in-headline = Cael eich rhagolygon tywydd lleol
+newtab-weather-opt-in-use-location =
+    .label = Defnyddio'r lleoliad
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Dinas Efrog Newydd
 # "Highest" here refers to the highest temperature of the day
