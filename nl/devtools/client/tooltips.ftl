@@ -148,3 +148,11 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Meer info</sp
 css-selector-warning-unconstrained-has = Deze selector gebruikt onbeperkt <strong>:has()</strong>, dat langzaam kan zijn
 # :scope should not be translated
 css-selector-warning-sibling-combinator-after-scope = Verwante selectors na <strong>:scope</strong> zullen nooit ergens mee overeenkomen
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
+css-selector-container-query-condition-no-container = Container ‘{ $name }’ niet gevonden
