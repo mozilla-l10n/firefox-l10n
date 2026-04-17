@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Habilitar
 extensions-warning-imported-addons2 =
     .message = Por favor, finalice la instalación de las extensiones que se importaron a { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensiones
+extensions-warning-safe-mode3 =
+    .message = El modo de resolución de problemas ha desactivado todos los complementos.
 
 ## Strings connected to add-on updates
 
@@ -205,6 +207,10 @@ addon-updates-manual-updates-found = Ver actualizaciones disponibles
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file = Instalar complemento desde archivo…
+    .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instalar o actualizar complemento desde un archivo…
     .accesskey = I
 addon-install-from-file-dialog-title = Seleccionar este complemento para instalar
 addon-install-from-file-filter-name = Complementos
@@ -274,6 +280,19 @@ discopane-notice-recommendations = Algunas de estas recomendaciones son personal
 discopane-notice-recommendations2 =
     .message = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
 discopane-notice-learn-more = Saber más
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = Se eliminaron tus esquemas de colores.
+    .message =
+        { -brand-product-name } actualizó su colección de esquemas de colores. Se eliminaron
+        las versiones anteriores de tu lista de “Temas guardados”. Consigue las nuevas versiones
+        en el sitio de complementos.
+colorway-removal-notice-learn-more = Saber más
+colorway-removal-notice-button = Obtén los esquemas de colores actualizados
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = La configuración de contraste de Windows tiene prioridad sobre los temas de { -brand-short-name }. Desactiva esta configuración para usar temas en { -brand-short-name }.
 privacy-policy = Política de privacidad
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -294,6 +313,16 @@ find-more-themes = Encontrar más temas
 # used for screen readers.
 addon-options-button =
     .aria-label = Más opciones
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Las extensiones y los temas permiten personalizar { -brand-product-name }. Pueden mejorar la privacidad,
+    aumentar la productividad, mejorar contenido multimedia, cambiar la apariencia de { -brand-product-name } y
+    mucho más. Estos pequeños programas de software a menudo son desarrollados por terceros. Aquí tienes
+    una selección que Firefox <a data-l10n-name="learn-more-trigger">recomienda</a> para
+    una seguridad, rendimiento y funcionalidad excepcionales.
 
 ## Add-on actions
 

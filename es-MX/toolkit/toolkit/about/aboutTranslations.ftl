@@ -7,6 +7,10 @@ about-translations-title = Traducciones de { -brand-short-name }
 # The brief description of the Translations functionality on the page.
 about-translations-description = Traducciones instantáneas que respetan tu privacidad.
 about-translations-learn-more-link = Saber más
+# An info message displayed if the device's hardware is not compatible with the Translations feature requirements.
+about-translations-unsupported-info-message-2 =
+    .heading = La traducción no está disponible en este dispositivo
+    .message = Intenta usar un dispositivo diferente.
 about-translations-language-load-error-button = Intentar de nuevo
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

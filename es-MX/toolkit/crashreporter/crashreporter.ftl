@@ -46,3 +46,4 @@ crashreporter-error-no-home-dir = Falta el directorio de inicio
 # $to (String) - the destination path
 crashreporter-error-moving-path = No se pudo mover { $from } a { $to }
 crashreporter-error-version-eol = Fin de vida útil de la versión: los informes de fallos ya no son aceptados.
+crashreporter-error-failed-to-generate-minidump = No se pudo generar la información del fallo de la aplicación.
