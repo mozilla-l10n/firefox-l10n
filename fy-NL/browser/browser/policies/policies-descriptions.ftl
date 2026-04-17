@@ -37,6 +37,7 @@ policy-Containers = Belied oangeande konteners ynstelle.
 policy-DisableAccounts = Accountbasearre tsjinsten útskeakelje, wêrûnder syngronisaasje.
 policy-DisabledCiphers = Kodearringssuites útskeakelje.
 policy-DefaultDownloadDirectory = Standert downloadmap ynstellen
+policy-DefaultSerialGuardSetting = Gebrûk fan de seriële API beheare.
 policy-DisableAppUpdate = Foarkomme dat de browser fernijd wurdt.
 policy-DisableBuiltinPDFViewer = PDF.js útskeakelje, de ynboude PDF-viewer yn { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Foarkomme dat de standert browseragent iennige aksje ûndernimt. Allinnich fan tapassing op Windows; oare platfoarms beskikke net oer de agent.

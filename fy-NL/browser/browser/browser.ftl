@@ -1104,6 +1104,9 @@ fullscreen-warning-no-domain = Dit dokumint brûkt no it folsleine skerm
 fullscreen-exit-button = Folslein skerm ferlitte (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Folslein skerm ferlitte (esc)
+fullscreen-keyboardlock-exit-button = Folslein skerm ferlitte (Esc yndrukt hâlde)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Folslein skerm ferlitte (esc yndrukt hâlde)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
