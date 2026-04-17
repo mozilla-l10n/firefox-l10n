@@ -24,6 +24,9 @@ ipprotection-title = VPN
 ## Feature introduction callout
 
 ipprotection-feature-introduction-title = Predstavljanje VPN-a, sada izravno u tvom pregledniku
+ipprotection-feature-introduction-link-text-2 = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka.
+ipprotection-feature-introduction-link-text-private-browsing-2 = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka, čak i kada se nalaziš u privatnom prozoru.
+ipprotection-feature-introduction-description-private-browsing = Pretraži s dodatnom zaštitom, skrivanjem svoje lokacije čak i kada si u privatnom prozoru.
 ipprotection-feature-introduction-description-captive-portal = Pretraži s dodatnom zaštitom, skrivanjem svoje lokacije čak i na javnoj Wi-Fi mreži.
 ipprotection-feature-introduction-button-primary = Dalje
 ipprotection-feature-introduction-button-secondary-not-now = Ne sada
@@ -38,6 +41,8 @@ ipprotection-site-settings-callout-button = Razumijem
 ## Panel
 
 unauthenticated-vpn-title = Isprobaj ugrađeni VPN { -brand-product-name(case: "gen") }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Sakrij svoju lokaciju</a> tijekom pregledavanja u { -brand-product-name(case: "dat") }.
+unauthenticated-hide-location-message-2 = Sakrij svoju lokaciju tijekom pregledavanja u { -brand-product-name(case: "dat") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dobij { $maxUsage } GB besplatnih VPN podataka svaki mjesec.
@@ -70,11 +75,31 @@ ipprotection-button-connecting = Uključivanje …
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN je pauziran
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description = Iskoristio/la si svih { $maxUsage } GB tvojih VPN podataka. Pristup će se resetirati sljedeći mjesec.
 upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-title = Neuspjelo povezivanje VPN-om
+ipprotection-connection-status-generic-error-description = Pokušaj ponovo za par minuta.
+ipprotection-connection-status-generic-error-try-again = Pokušaj ponovo kasnije.
+ipprotection-connection-status-network-error-title = Provjeri internetsku vezu
+ipprotection-connection-status-network-error-description = Poveži se na internet, a zatim pokušaj uključiti VPN.
 ipprotection-connection-status-blocked-error-title = VPN nije dostupan
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Približavaš se ograničenju VPN-a
+    .message = Preostalo ti je { $usageLeft } GB od { $maxUsage } GB u ovom mjesecu.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Približavaš se ograničenju VPN-a
+    .message = Preostalo ti je { $usageLeft } GB od { $maxUsage } GB u ovom mjesecu.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
 
 ## IP Protection Settings
