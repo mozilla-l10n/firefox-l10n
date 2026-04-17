@@ -145,7 +145,7 @@ fp-certerror-invalid-cert-why-dangerous = Eieren av { $hostname } har ikke konfi
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $now (Date) - The current datetime, to be formatted as a date
-fp-certerror-clock-skew-intro = Datamaskinen din tror det er { DATETIME($now, dateStyle: "medium") }, som hindrer { -brand-short-name } fra å koble til sikkert. For å besøke <span>{ $hostname }</span>, oppdater datamaskinens klokke i systeminnstillingene til gjeldende dato, klokkeslett og tidssone, og oppdater deretter siden.
+fp-certerror-clock-skew-intro = Datamaskinen din tror det er { DATETIME($now, dateStyle: "medium") }, som hindrer { -brand-short-name } fra å koble til sikkert. For å besøke <strong>{ $hostname }</strong>, oppdater datamaskinens klokke i systeminnstillingene til gjeldende dato, klokkeslett og tidssone, og oppdater deretter siden.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $now (Date) - The current datetime, to be formatted as a date

@@ -145,7 +145,7 @@ fp-certerror-invalid-cert-why-dangerous = Dyw perchennog { $hostname } heb ei os
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $now (Date) - The current datetime, to be formatted as a date
-fp-certerror-clock-skew-intro = Mae eich cyfrifiadur yn meddwl taw <span id='wrongSystemTime_systemDate1'/>, sy'n rhwystro { -brand-short-name } rhag cysylltu'n ddiogel. I fynd i <span class='hostname'></span>, diweddarwch gloc eich cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a chylch amser cyfredol ac yna adnewyddu <span class='hostname'></span>.
+fp-certerror-clock-skew-intro = Mae eich cyfrifiadur yn meddwl taw { DATETIME($now, dateStyle: "medium") }, sy'n rhwystro { -brand-short-name } rhag cysylltu'n ddiogel. I fynd i <strong>{ $hostname }</strong>, diweddarwch gloc eich cyfrifiadur yng ngosodiadau eich system i'r dyddiad, amser a chylch amser cyfredol ac yna adnewyddu.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $now (Date) - The current datetime, to be formatted as a date

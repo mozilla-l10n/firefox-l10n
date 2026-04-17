@@ -114,7 +114,7 @@ fp-certerror-not-yet-valid-why-dangerous-body = Мрежните места ко
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Clock date.
-fp-certerror-expired-what-can-you-do-body = Часовникот на вашиот уред е поставен на { DATETIME($date, timeStyle: "short") } { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ако ова е точно, безбедносниот проблем веројатно е во самото место. Ако е погрешно, можете да го промените во системските поставки на Вашиот уред.
+fp-certerror-expired-what-can-you-do-body = Часовникот на вашиот уред е поставен на { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }. Ако ова е точно, безбедносниот проблем веројатно е во самото место. Ако е погрешно, можете да го промените во системските поставки на Вашиот уред.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код на грешка: { $error }
