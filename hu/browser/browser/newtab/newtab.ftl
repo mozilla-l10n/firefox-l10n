@@ -526,6 +526,10 @@ newtab-weather-opt-in-not-now =
     .label = Most nem
 newtab-weather-opt-in-yes =
     .label = Igen
+newtab-weather-opt-in-headline = Kapjon helyi időjárás-előrejelzést
+newtab-weather-opt-in-use-location =
+    .label = Hely használata
+newtab-weather-opt-in-choose-location = Válasszon helyet
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day
