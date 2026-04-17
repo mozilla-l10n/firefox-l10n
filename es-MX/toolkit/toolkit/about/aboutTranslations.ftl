@@ -11,6 +11,15 @@ about-translations-learn-more-link = Saber más
 about-translations-unsupported-info-message-2 =
     .heading = La traducción no está disponible en este dispositivo
     .message = Intenta usar un dispositivo diferente.
+# An info message displayed when translations are disabled and locked by enterprise policy.
+about-translations-policy-disabled-info-message =
+    .heading = Las traducciones no están disponibles para tu organización
+    .message = Esta es una política establecida por el personal de administración.
+# An info message displayed when translations are disabled but can still be unblocked.
+about-translations-feature-blocked-info-message =
+    .heading = Para traducir texto, se debe desbloquear esta función
+    .message = Al parecer, se actualizaron los controles de IA para bloquear esta función. Es posible desbloquearla en cualquier momento para comenzar a usarla.
+about-translations-feature-blocked-unblock-button = Desbloquear
 about-translations-language-load-error-button = Intentar de nuevo
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

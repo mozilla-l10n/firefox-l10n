@@ -456,6 +456,20 @@ addon-badge-verified2 =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Extensión oficial hecha por Mozilla. Cumple con los estándares de seguridad y rendimiento
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Esta extensión se revisó para cumplir con los estándares de seguridad y rendimiento
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox solo recomienda extensiones que cumplen con los estándares de seguridad y rendimiento
 
 ##
 
@@ -526,6 +540,14 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Más información
 details-notification-blocked = { $name } ha sido deshabilitado debido a problemas de seguridad o estabilidad.
 details-notification-blocked-link2 = Ver Detalles
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Esta extensión está restringida y ha sido deshabilitada. Puedes habilitarla, pero puede ser riesgoso.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Esta extensión está restringida. Su uso puede ser riesgoso.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Este complemento tiene restricciones y se ha desactivado. Es posible activarlo, pero esto puede implicar riesgos.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Este complemento tiene restricciones. Su uso puede representar un riesgo.
 details-notification-soft-blocked-extension-disabled =
     .message = Esta extensión está restringida por violar las políticas de Mozilla y ha sido desactivada. Se puede activar, pero podría ser arriesgado.
 details-notification-soft-blocked-extension-enabled =
@@ -554,11 +576,26 @@ plugins-widevine-description = Este plugin habilita la reproducción multimedia 
 ## Headings for the Permissions tab in `about:addons` when the data collection
 ## feature is enabled.
 
+addon-permissions-required-data-collection = Recopilación de datos requerida:
+addon-permissions-optional-data-collection = Recolección de datos opcional:
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permisos y datos
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = En uso por la extensión { $extensionName }
 addon-permissions-data-collection-heading = Recopilación de datos
+addon-permissions-data-collection-empty = El desarrollador dice que esta extensión no requiere recopilación de datos.
+addon-data-collection-provided = Información proporcionada por el equipo de desarrollo de la extensión
 addon-data-collection-learnmore = Obtén más información sobre la recopilación de datos
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = { -brand-short-name } utiliza esto en about:inference
+mlmodel-link-preview = { -brand-short-name } utiliza esto para generar puntos clave al obtener una vista previa de los enlaces
+mlmodel-pdfjs = { -brand-short-name } utiliza esto para crear texto alternativo en las imágenes al agregarlas a archivos PDF
+mlmodel-smart-tab-topic-engine = { -brand-short-name } utiliza esto para sugerir nombres para los grupos de pestañas
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } utiliza esto para sugerir pestañas para los grupos de pestañas
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA en el dispositivo
 addon-category-mlmodel-title =
