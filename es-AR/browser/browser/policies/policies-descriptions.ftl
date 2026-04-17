@@ -37,6 +37,7 @@ policy-Containers = Establecer políticas relacionadas con los contenedores.
 policy-DisableAccounts = Deshabilitar los servicios basados en cuenta, incluida la sincronización.
 policy-DisabledCiphers = Deshabilitar cifrados.
 policy-DefaultDownloadDirectory = Establecer la carpeta de descargas predeterminada.
+policy-DefaultSerialGuardSetting = Controlar el uso de la API Serie.
 policy-DisableAppUpdate = Impedir la actualización del navegador.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Evite que el agente de navegador predeterminado realice cualquier acción. Solo aplicable a Windows; otras plataformas no tienen el agente.
@@ -154,3 +155,5 @@ policy-WebsiteFilter = Bloquear la visita a sitios web. Consulte la documentaci�
 policy-Windows10SSO = Permitir un solo inicio de sesión de Windows para Microsoft, cuentas de trabajo y cuentas escolares.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permitir el inicio de sesión único para cuentas de Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Habilitar o deshabilitar el soporte para la API JavaScript XSLTProcessor y la instrucción de procesamiento XSLT.

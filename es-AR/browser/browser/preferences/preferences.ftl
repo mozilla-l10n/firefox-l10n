@@ -1109,6 +1109,9 @@ search-engine-group =
     .label = Buscador predeterminado
 search-default-engine =
     .aria-label = Buscador predeterminado
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Búsqueda
 
 ## Containers Section
 
