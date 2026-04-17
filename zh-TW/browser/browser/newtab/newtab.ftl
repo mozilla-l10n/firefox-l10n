@@ -378,6 +378,7 @@ newtab-wallpaper-title = 背景圖
 newtab-wallpaper-reset = 還原為預設值
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = 上傳圖片
+newtab-wallpaper-add-an-image = 新增圖片
 newtab-wallpaper-custom-color = 選擇色彩
 newtab-wallpaper-toggle-title =
     .label = 背景圖
@@ -405,6 +406,7 @@ newtab-wallpaper-light-fox-anniversary = 一隻在迷霧山景中的草原上的
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = 純色
+newtab-wallpaper-colors = 色彩
 newtab-wallpaper-blue = 藍色
 newtab-wallpaper-light-blue = 淺藍色
 newtab-wallpaper-light-purple = 淺紫色
@@ -520,6 +522,10 @@ newtab-weather-opt-in-not-now =
     .label = 現在不要
 newtab-weather-opt-in-yes =
     .label = 好的
+newtab-weather-opt-in-headline = 取得您所在地區的天氣預報
+newtab-weather-opt-in-use-location =
+    .label = 使用位置資訊
+newtab-weather-opt-in-choose-location = 選擇位置
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 紐約市
 # "Highest" here refers to the highest temperature of the day

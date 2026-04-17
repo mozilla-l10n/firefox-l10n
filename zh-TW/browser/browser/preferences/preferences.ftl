@@ -1099,6 +1099,9 @@ search-engine-group =
     .label = 預設搜尋引擎
 search-default-engine =
     .aria-label = 預設搜尋引擎
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = 搜尋
 
 ## Containers Section
 

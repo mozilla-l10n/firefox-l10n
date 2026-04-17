@@ -13,6 +13,7 @@ customkeys-reset-all = 將所有快速鍵重設回預設值
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = 此快速鍵已分配給「{ $conflict }」功能，您確定要取代嗎？
 customkeys-reset-all-confirm = 您確定要將所有快速鍵重設回預設值嗎？
+customkeys-file-duplicate-tab = 複製分頁
 customkeys-history-reopen-tab = 回復關閉的分頁
 customkeys-history-reopen-window = 回復關閉的視窗
 customkeys-sidebar-toggle = 切換側邊欄
