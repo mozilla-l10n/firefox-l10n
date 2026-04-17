@@ -13,6 +13,7 @@ customkeys-reset-all = Alle fluchtoetsen nei standertynstellingen weromsette
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Dizze toets is al tawiisd oan { $conflict }. Wolle jo dizze ferfange?
 customkeys-reset-all-confirm = Binne jo wis dat jo alle fluchtoetsen weromsette wolle nei de standertynstellingen?
+customkeys-file-duplicate-tab = Ljepblêd duplisearje
 customkeys-history-reopen-tab = Lêst sletten ljepblêd opnij iepenje
 customkeys-history-reopen-window = Lêst sletten finster opnij iepenje
 customkeys-sidebar-toggle = Sidebalke yn-/útskeakelje

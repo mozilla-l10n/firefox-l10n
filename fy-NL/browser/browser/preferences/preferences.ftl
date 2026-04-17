@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Standertsykmasine
 search-default-engine =
     .aria-label = Standertsykmasine
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Sykje
 
 ## Containers Section
 

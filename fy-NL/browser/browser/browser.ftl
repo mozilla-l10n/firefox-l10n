@@ -1015,6 +1015,7 @@ urlbar-searchmode-popup-one-off-header = Diskear sykje mei:
 # reset after submitting.
 urlbar-searchmode-popup-header = Sykje mei:
 urlbar-searchmode-popup-search-settings-panelitem = Sykynstellingen
+urlbar-searchmode-popup-settings-panelitem = Ynstellingen
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
