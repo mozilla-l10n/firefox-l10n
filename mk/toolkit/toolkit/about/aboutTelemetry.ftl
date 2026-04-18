@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
 about-telemetry-page-title = Податоци на Telemetry
 about-telemetry-histograms-section = Хистограми
 about-telemetry-simple-measurements-section = Едноставни мерки
@@ -11,13 +13,19 @@ about-telemetry-full-sql-warning = ЗАБЕЛЕШКА: Овозможено е �
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Оваа страница прикажува информации за перфомансите, хардверот, употребата и прилагодувањаата собрани од Telemetry. Овие информации се испраќаат до { $telemetryServerOwner } за да се подобри { -brand-full-name }.
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = сите
+# button label to copy the histogram
+about-telemetry-histogram-copy = Копирај
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Бавни SQL изјави на главната нишка
 about-telemetry-slow-sql-other = Бавни SQL изјави на помошните нишки
 about-telemetry-slow-sql-hits = Посети
 about-telemetry-slow-sql-average = Просечно време (мс)
 about-telemetry-slow-sql-statement = Изјава
+about-telemetry-addon-table-details = Детали
 about-telemetry-keys-header = Својство
+about-telemetry-names-header = Име
 about-telemetry-values-header = Вредност
 # Variables:
 #   $lateWriteCount (number) - The number of the late writes
