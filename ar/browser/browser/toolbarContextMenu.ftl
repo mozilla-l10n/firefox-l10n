@@ -35,9 +35,9 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = ع
 toolbar-context-turn-on-vertical-tabs =
-    .label = فعِّل الألسنة العمودية
+    .label = فعِّل الألسنة الرأسية
 toolbar-context-turn-off-vertical-tabs =
-    .label = عطّل الألسنة العمودية
+    .label = عطّل الألسنة الرأسية
 toolbar-context-customize-sidebar =
     .label = تخصيص الشريط الجانبي
 toolbar-context-menu-manage-extension =

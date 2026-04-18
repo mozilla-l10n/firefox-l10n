@@ -392,7 +392,7 @@ windows-10-eos-sync-callout-get-started-button = ابدأ
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
-windows-10-eos-feature-toast-title = الألسنة العمودية ومجموعات الألسنة متوفرة الآن!
+windows-10-eos-feature-toast-title = الألسنة الرأسية ومجموعات الألسنة متوفرة الآن!
 # In English, "dropped" is a colloquial form for released.
 windows-10-eos-feature-toast-subtitle = بناءً على طلب الجمهور، قامت { -brand-product-name } للتو بإضافة ميزات جديدة للحفاظ على تصفحك سلسًا ومركزًا.
 windows-10-eos-feature-toast-whats-new-button = اعرف ما الجديد

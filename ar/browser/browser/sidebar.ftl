@@ -57,7 +57,7 @@ sidebar-customize-firefox-tools-header =
     .label = أدوات { -brand-product-name }
 sidebar-customize-firefox-settings = إدارة إعدادات { -brand-short-name }
 sidebar-vertical-tabs =
-    .label = ألسنة العمودية
+    .label = ألسنة رأسية
 sidebar-settings =
     .label = إعدادات الشريط الجانبي
 sidebar-hide-tabs-and-sidebar =
@@ -97,7 +97,7 @@ sidebar-context-menu-copy-link =
 sidebar-context-menu-hide-sidebar =
     .label = أخفِ الشريط الجانبي
 sidebar-context-menu-enable-vertical-tabs =
-    .label = فعِّل الألسنة العمودية
+    .label = فعِّل الألسنة الرأسية
 sidebar-context-menu-customize-sidebar =
     .label = تخصيص الشريط الجانبي
 # Variables:

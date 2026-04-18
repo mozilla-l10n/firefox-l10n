@@ -399,13 +399,13 @@ onboarding-new-vertical-tabs-label = الألسنة على الجانب
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-new-horizontal-tabs-label = الألسنة في الأعلى
 # Setup screen for vertical tabs for existing users
-onboarding-existing-tabs-title = الألسنة العمودية موجودة هنا
+onboarding-existing-tabs-title = الألسنة الرأسية موجودة هنا
 # Setup screen for vertical tabs for existing users
-onboarding-existing-tabs-title2 = مقدمة عن الألسنة العمودية
+onboarding-existing-tabs-title2 = مقدمة عن الألسنة الرأسية
 # Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
 onboarding-existing-tabs-subtitle = جرّب الألسنة الجانبية. غيّرها متى شئت من إعدادات الشريط الجانبي.
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
-onboarding-existing-vertical-tabs-label = جرّب الألسنة العمودية
+onboarding-existing-vertical-tabs-label = جرّب الألسنة الرأسية
 onboarding-flair-text = جديد!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = حافظ على الألسنة الأفقية
