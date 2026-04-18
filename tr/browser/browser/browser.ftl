@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Sitenin bildirim gönderip gönderemeyeceğini ayarlayın
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI panelini aç
+urlbar-serial-notification-anchor =
+    .tooltiptext = Seri panelini aç
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM yazılımı kullanımını yönet
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sitenin canvas’tan veri ayıklamasını engellediniz.
 urlbar-midi-blocked =
     .tooltiptext = Bu sitenin MIDI erişimini engellediniz.
+urlbar-serial-blocked =
+    .tooltiptext = Bu sitenin seri bağlantı noktası erişimini engellediniz.
 urlbar-install-blocked =
     .tooltiptext = Bu sitenin eklenti yüklemesini engellediniz.
 # Variables
@@ -648,6 +652,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Bu oturumda paylaşım korumasını devre dışı bırak
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Bir seri bağlantı noktası seçin:
+webserial-no-ports-available = Kullanılabilir seri bağlantı noktası yok
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 kısayolunu kullanmak için önce tarayıcı araçları menüsünden geliştirici araçlarını açın.
@@ -1005,6 +1014,7 @@ urlbar-searchmode-popup-one-off-header = Burada ara:
 # reset after submitting.
 urlbar-searchmode-popup-header = Bununla ara:
 urlbar-searchmode-popup-search-settings-panelitem = Arama ayarları
+urlbar-searchmode-popup-settings-panelitem = Ayarlar
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1093,6 +1103,9 @@ fullscreen-warning-no-domain = Bu belge artık tam ekran
 fullscreen-exit-button = Tam ekrandan çık (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tam ekrandan çık (esc)
+fullscreen-keyboardlock-exit-button = Tam ekrandan çık (Esc tuşunu basılı tutun)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Tam ekrandan çık (esc tuşunu basılı tutun)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

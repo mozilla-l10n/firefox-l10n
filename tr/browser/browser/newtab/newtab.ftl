@@ -378,6 +378,7 @@ newtab-wallpaper-title = Duvar kâğıtları
 newtab-wallpaper-reset = Varsayılana sıfırla
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Resim yükle
+newtab-wallpaper-add-an-image = Resim ekle
 newtab-wallpaper-custom-color = Renk seç
 newtab-wallpaper-toggle-title =
     .label = Duvar kâğıtları
@@ -405,6 +406,7 @@ newtab-wallpaper-light-fox-anniversary = Sisli bir dağ manzarasıyla çimenli b
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Düz renkler
+newtab-wallpaper-colors = Renkler
 newtab-wallpaper-blue = Mavi
 newtab-wallpaper-light-blue = Açık mavi
 newtab-wallpaper-light-purple = Açık mor
@@ -520,6 +522,10 @@ newtab-weather-opt-in-not-now =
     .label = Şimdi değil
 newtab-weather-opt-in-yes =
     .label = Evet
+newtab-weather-opt-in-headline = Hava durumu tahmininizi görün
+newtab-weather-opt-in-use-location =
+    .label = Konumu kullan
+newtab-weather-opt-in-choose-location = Konum seç
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day

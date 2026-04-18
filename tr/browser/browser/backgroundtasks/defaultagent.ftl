@@ -6,4 +6,5 @@ default-browser-agent-task-description = Default Browser Agent görevi, varsayı
 default-browser-notification-header-text = { -brand-short-name } kullanmaya devam ediyor musunuz?
 default-browser-notification-body-text = Varsayılan tarayıcınız yakın zamanda değiştirildi. { -brand-short-name } tarayıcısını yeniden varsayılan yapmak için tıklayın.
 default-browser-notification-yes-button-text = Evet
+default-browser-notification-privacy-no-button-text = Hayır
 default-browser-notification-no-button-text = Hayır

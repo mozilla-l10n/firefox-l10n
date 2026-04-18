@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = Varsayılan arama motoru
 search-default-engine =
     .aria-label = Varsayılan arama motoru
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Arama
 
 ## Containers Section
 

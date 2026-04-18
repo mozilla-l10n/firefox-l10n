@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } ek veriler
 
 webext-site-perms-header-with-gated-perms-midi = Bu eklenti, { $hostname } sitesinin MIDI cihazlarınıza erişmesini sağlar.
 webext-site-perms-header-with-gated-perms-midi-sysex = Bu eklenti, { $hostname } sitesinin MIDI cihazlarınıza erişmesini sağlar (SysEx desteği ile).
+webext-site-perms-header-with-gated-perms-serial = Bu eklenti, { $hostname } sitesinin seri cihazlarınıza erişmesini sağlar.
 
 ##
 

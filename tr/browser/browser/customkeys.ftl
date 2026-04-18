@@ -13,6 +13,7 @@ customkeys-reset-all = Tüm kısayolları varsayılana sıfırla
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Bu tuş zaten { $conflict } kısayoluna atanmış. Değiştirmek istiyor musunuz?
 customkeys-reset-all-confirm = Tüm klavye kısayollarını varsayılanlarına sıfırlamak istediğinizden emin misiniz?
+customkeys-file-duplicate-tab = Sekmeyi çoğalt
 customkeys-history-reopen-tab = Son kapatılan sekmeyi yeniden aç
 customkeys-history-reopen-window = Son kapatılan pencereyi yeniden aç
 customkeys-sidebar-toggle = Kenar çubuğunu aç/kapat

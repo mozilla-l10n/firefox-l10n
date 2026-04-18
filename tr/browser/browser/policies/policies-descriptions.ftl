@@ -37,6 +37,7 @@ policy-Containers = Kapsayıcılarla ilgili ilkeleri ayarla.
 policy-DisableAccounts = Hesap tabanlı hizmetleri devre dışı bırak (eşitleme dahil).
 policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
+policy-DefaultSerialGuardSetting = Serial API kullanımını denetle.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
 policy-DisableBuiltinPDFViewer = Dahili { -brand-short-name } PDF görüntüleyicisi olan PDF.js’i devre dışı bırak.
 policy-DisableDefaultBrowserAgent = Varsayılan tarayıcı agent’ının herhangi bir işlem yapmasını önle. Yalnızca Windows için geçerlidir. Diğer platformlarda agent yoktur.
