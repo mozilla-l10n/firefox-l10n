@@ -25,3 +25,11 @@ about-telemetry-late-writes-title = Задоцнето запишување #{ $
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Мемориска мапа:
 about-telemetry-error-fetching-symbols = Настана грешка при собирањето на симболи. Проверете дали сте поврзани на интернет и обидете се пак.
+about-telemetry-time-stamp-header = временска ознака
+about-telemetry-category-header = категорија
+about-telemetry-method-header = метод
+about-telemetry-object-header = објект
+about-telemetry-extra-header = екстра
+# Variables:
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } процес
