@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Менаџер за додатоци
+search-header =
+    .placeholder = Пребарај на addons.mozilla.org
+    .searchbuttonlabel = Пребарај
 
 ##
 
@@ -16,6 +19,7 @@ list-empty-find-updates =
     .label = Провери за надградби
 list-empty-button =
     .label = Научи повеќе за додатоците
+help-button = Поддршка за додатоци
 show-unsigned-extensions-button =
     .label = Некои додатоци не може да се верификуваат
 show-all-extensions-button =
@@ -25,6 +29,9 @@ detail-version =
 detail-last-updated =
     .label = Последно ажурирање
 detail-contributions-description = Развивачот на овој додаток Ве моли да го поддржите неговиот постојан развој со мала донација.
+detail-contributions-button = Придонеси
+    .title = Придонеси во развојот на овој додаток
+    .accesskey = р
 detail-update-type =
     .value = Автоматска надградба
 detail-update-default =
@@ -36,6 +43,15 @@ detail-update-automatic =
 detail-update-manual =
     .label = исклучена
     .tooltiptext = Не инсталирај автоматски надградби
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Не е дозволено во приватни прозорчиња
+detail-private-browsing-on =
+    .label = Дозволи
+    .tooltiptext = Дозволи во приватно прелистување
+detail-private-browsing-off =
+    .label = Не дозволувај
+    .tooltiptext = Не дозволувај во приватно прелистување
 detail-home =
     .label = Домашна страница
 detail-home-value =
@@ -155,6 +171,18 @@ addon-install-from-file-dialog-title = Изберете додаток за ин
 addon-install-from-file-filter-name = Додатоци
 addon-open-about-debugging = Дебагирање на додатоци
     .accesskey = B
+
+## Extension shortcut management
+
+shortcuts-input =
+    .placeholder = Напишете кратенка
+shortcuts-modifier-mac = Вклучи Ctrl, Alt или ⌘
+shortcuts-modifier-other = Вклучи Ctrl или Alt
+shortcuts-letter = Внеси буква
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Веќе е во употреба од { $addon }
 
 ## Add-on actions
 

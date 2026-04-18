@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Извештаи за уривање
+delete-button-label = Исчисти сѐ
 delete-confirm-title = Дали сте сигурни?
 crashes-unsubmitted-label = Неиспратени извештаи за уривање
 id-heading = ID на извештајот
 date-crashed-heading = Датум на уривање
+submit-crash-button-label = Поднеси
+# This text is used to replace the label of the crash submit button
+# if the crash submission fails.
+submit-crash-button-failure-label = Неуспешно
 crashes-submitted-label = Испратени извештаи за уривање
 date-submitted-heading = Датум на испраќање
+view-crash-button-label = Преглед
 no-reports-label = Нема испратени извештаи за уривање.
 no-config-label = Оваа програма не е конфигурирана за прикажување на извештаи од уривање. Преференцата <code>breakpad.reportURL</code> мора да биде поставена.
