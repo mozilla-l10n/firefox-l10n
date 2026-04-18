@@ -148,6 +148,12 @@ webext-site-perms-description-gated-perms-midi =
     Dies sind normalerweise Plug-in-Geräte wie Audio-Synthesizer, können aber auch in Ihrem Computer integriert sein.
     
     Websites dürfen normalerweise nicht auf MIDI-Geräte zugreifen. Eine unsachgemäße Nutzung könnte Schäden verursachen oder die Sicherheit beeinträchtigen.
+webext-site-perms-description-gated-perms-serial =
+    Dies sind Geräte wie Mikrocontroller, 3D-Drucker und andere Geräte, die über USB oder serielle Ports verbunden werden.
+    
+    Sie können auswählen, auf welche Geräte die Website zugreifen darf.
+    
+    Websites dürfen normalerweise nicht auf serielle Geräte zugreifen. Eine unsachgemäße Verwendung kann zu Schäden führen oder die Sicherheit beeinträchtigen.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -162,6 +168,7 @@ webext-site-perms-header-unsigned-with-perms = { $extension } hinzufügen? Diese
 
 webext-site-perms-midi = Auf MIDI-Geräte zugreifen
 webext-site-perms-midi-sysex = Auf MIDI-Geräte mit SysEx-Unterstützung zugreifen
+webext-site-perms-serial = Auf serielle Geräte zugreifen
 
 ## Colorway theme migration
 

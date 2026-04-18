@@ -282,6 +282,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Sie haben das Abfragen von Canvas-Daten durch diese Website blockiert.
 urlbar-midi-blocked =
     .tooltiptext = Sie haben den Zugriff auf MIDI durch diese Website blockiert.
+urlbar-serial-blocked =
+    .tooltiptext = Sie haben den Zugriff auf die seriellen Ports durch diese Website blockiert.
 urlbar-install-blocked =
     .tooltiptext = Sie haben die Installation von Erweiterungen von dieser Website blockiert.
 # Variables
@@ -645,6 +647,11 @@ sharing-warning-proceed-to-tab =
     .label = Weiter zum Tab
 sharing-warning-disable-for-session =
     .label = Freigabeschutz für diese Sitzung deaktivieren
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Wählen Sie einen seriellen Port aus:
+webserial-no-ports-available = Kein serieller Port verfügbar
 
 ## DevTools F12 popup
 
