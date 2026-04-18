@@ -5,6 +5,7 @@
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Податоци на Telemetry
+about-telemetry-more-information = Ви требаат повеќе информации?
 about-telemetry-histograms-section = Хистограми
 about-telemetry-simple-measurements-section = Едноставни мерки
 about-telemetry-slow-sql-section = Бавни SQL изјави
