@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Ricerca
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privacy e sicurezza
+pane-privacy-section =
+    .heading = Privacy e sicurezza
 pane-privacy-title = Privacy e sicurezza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -2383,6 +2386,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Inserire un indirizzo personalizzato per il fornitore
 preferences-doh-header2 =
     .heading = DNS su HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
