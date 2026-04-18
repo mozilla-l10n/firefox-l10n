@@ -183,9 +183,47 @@ shortcuts-letter = Внеси буква
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Веќе е во употреба од { $addon }
+shortcuts-card-collapse-button = Прикажи помалку
+
+## Recommended add-ons page
+
+discopane-notice-learn-more = Дознајте повеќе
+privacy-policy = Политика за приватност
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Корисници: { $dailyUsers }
+install-extension-button = Додај во { -brand-product-name }
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Управувај
+find-more-addons = Најдете повеќе додатоци
 
 ## Add-on actions
 
+report-addon-button = Пријави
+remove-addon-button = Отстрани
+disable-addon-button = Оневозможи
+enable-addon-button = Овозможи
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Опции
+       *[other] Преференции
+    }
+details-addon-button = Детали
+release-notes-addon-button = Белешки за изданието
+permissions-addon-button = Дозволи
+extension-enabled-heading = Овозможено
+extension-disabled-heading = Оневозможено
+theme-enabled-heading = Овозможено
+plugin-enabled-heading = Овозможено
+plugin-disabled-heading = Оневозможено
+dictionary-enabled-heading = Овозможено
+dictionary-disabled-heading = Оневозможено
+locale-enabled-heading = Овозможено
+locale-disabled-heading = Оневозможено
+always-activate-button = Секогаш активирај
+never-activate-button = Никогаш не активирај
 addon-detail-author-label = Автор
 addon-detail-version-label = Верзија
 addon-detail-last-updated-label = Последно ажурирање
