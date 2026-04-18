@@ -4,4 +4,8 @@
 
 label-disable = Оневозможи
 label-enable = Овозможи
+label-interventions = Интервенции
+# Variables:
+#   $bug (string) - Bug number
+label-more-information = Повеќе информации: Бубачка { $bug }
 text-title = about:compat

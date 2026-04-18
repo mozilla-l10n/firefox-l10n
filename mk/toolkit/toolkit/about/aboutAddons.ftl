@@ -259,6 +259,9 @@ available-updates-heading = Достапни ажурирања
 recent-updates-heading = Скорешни ажурирања
 release-notes-loading = Се вчитува…
 release-notes-error = Извинете, но имаше грешка при вчитувањето на белешките за изданието.
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Се чувствувате креативно? <a data-l10n-name="link"> Создате сопствена тема со Firefox Color. </a>
 
 ## Page headings
 
