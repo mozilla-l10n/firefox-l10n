@@ -156,8 +156,25 @@ addon-install-from-file-filter-name = Додатоци
 addon-open-about-debugging = Дебагирање на додатоци
     .accesskey = B
 
+## Add-on actions
+
+addon-detail-author-label = Автор
+addon-detail-version-label = Верзија
+addon-detail-last-updated-label = Последно ажурирање
+addon-detail-homepage-label = Домашна страница
+addon-detail-rating-label = Оценка
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (оневозможено)
+
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = Врати
+addon-detail-updates-label = Дозволи автоматско ажурирање
+addon-detail-updates-radio-on = Вклучено
+addon-detail-updates-radio-off = Исклучено
+addon-detail-update-check-label = Провери за ажурирања
 install-update-button = Ажурирај
 addon-detail-private-browsing-allow = Дозволи
 addon-detail-private-browsing-disallow = Не дозволувај
