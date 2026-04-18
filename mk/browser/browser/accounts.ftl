@@ -5,6 +5,9 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Завршете го поставувањето сметка
+# Used as the FxA toolbar menu item title when the user
+# needs to reconnect their account.
+account-disconnected2 = Сметката е одјавена
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Испрати на сите уреди
 # Menu item that links to the Firefox Accounts settings for connected devices.
@@ -19,6 +22,7 @@ account-verify = Потврди { $email }
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
 account-send-to-all-devices-titlecase = Испрати на сите уреди
+account-manage-devices-titlecase = Управувај уреди…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
@@ -35,6 +39,24 @@ account-send-tab-to-device-connectdevice = Поврзи друг уред…
 
 account-send-tab-to-device-verify-status = Сметката не е потврдена
 account-send-tab-to-device-verify = Потврдете ја вашата сметка…
+
+## These strings are used in a notification shown when a new device joins the Firefox account.
+
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title-2 = Сметка
+# Variables:
+#   $deviceName (String): the name of the new device
+account-connection-connected-with = Овој компјутер сега е поврзан со { $deviceName }.
+# Used when the name of the new device is not known.
+account-connection-connected-with-noname = Овој компјутер сега е поврзан со нов уред.
+# Used in a notification shown after a Firefox account is connected to the current device.
+account-connection-connected = Успешно се пријавивте
+# Used in a notification shown after the Firefox account was disconnected remotely.
+account-connection-disconnected = Овој компјутер е одјавен.
 
 ## These strings are used in a notification shown when we're opening
 ## a single tab another device sent us to display.
@@ -73,4 +95,16 @@ account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
         [one] { $tabCount } јазиче пристигна
        *[other] { $tabCount } јазичиња пристигнаа
+    }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+
+account-view-recently-closed-tabs = Прикажи ги скоро затворените јазичиња
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount }{ -brand-short-name } затворено јазиче
+       *[other] { $closedCount }{ -brand-short-name } затворени јазичиња
     }
