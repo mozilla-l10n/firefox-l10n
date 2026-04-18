@@ -118,6 +118,8 @@ fp-learn-more-about-time-related-errors = Saber más sobre cómo solucionar erro
 
 cert-error-revoked-certificate = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } ha sido revocado y ya no es de confianza.
 cert-error-bad-signature = { -brand-short-name } bloqueó tu visita a este sitio porque la firma en el certificado proporcionado para { $hostname } no es válida.
+cert-error-key-pinning-failure = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } utiliza una clave pública diferente a la esperada.
+cert-error-bad-der = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } no está codificado correctamente.
 
 ## Messages used for certificate error titles
 
