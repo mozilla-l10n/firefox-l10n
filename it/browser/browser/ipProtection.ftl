@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Apri la pagina di supporto per VPN
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Scopri la VPN, ora disponibile direttamente nel tuo browser.
 ipprotection-feature-introduction-link-text-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati.

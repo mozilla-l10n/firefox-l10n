@@ -2387,9 +2387,6 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS su HTTPS
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
