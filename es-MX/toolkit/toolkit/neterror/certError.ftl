@@ -107,9 +107,17 @@ fp-cert-error-code = Código de error: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-transparency-what-can-you-do-body = Probablemente no sea nada, ya que es posible que haya un problema con el sitio.
 fp-learn-more-about-secure-connection-failures = Saber más sobre los fallos de conexión segura
 fp-learn-more-about-cert-issues = Saber más sobre este tipo de problemas con los certificados
 fp-learn-more-about-time-related-errors = Saber más sobre cómo solucionar errores relacionados con la fecha
+
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
+cert-error-revoked-certificate = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } ha sido revocado y ya no es de confianza.
+cert-error-bad-signature = { -brand-short-name } bloqueó tu visita a este sitio porque la firma en el certificado proporcionado para { $hostname } no es válida.
 
 ## Messages used for certificate error titles
 
