@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } bittet um 
 
 webext-site-perms-header-with-gated-perms-midi = Dieses Add-on gewährt { $hostname } Zugriff auf Ihre MIDI-Geräte.
 webext-site-perms-header-with-gated-perms-midi-sysex = Dieses Add-on gewährt { $hostname } Zugriff auf Ihre MIDI-Geräte (mit SysEx-Unterstützung).
+webext-site-perms-header-with-gated-perms-serial = Dieses Add-on gewährt { $hostname } Zugriff auf Ihre seriellen Geräte.
 
 ##
 
