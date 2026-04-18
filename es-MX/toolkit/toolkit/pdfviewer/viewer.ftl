@@ -664,6 +664,8 @@ pdfjs-views-manager-pages-title = Páginas
 pdfjs-views-manager-outlines-title1 = Esquema del documento
     .title = Esquema del documento (haz doble clic para expandir/contraer todos los elementos)
 pdfjs-views-manager-attachments-title = Adjuntos
+pdfjs-views-manager-layers-title1 = Capas
+    .title = Capas (haz doble clic para restablecer todas las capas a su estado predeterminado)
 pdfjs-views-manager-pages-option-label = Páginas
 pdfjs-views-manager-outlines-option-label = Esquema del documento
 pdfjs-views-manager-attachments-option-label = Adjuntos
@@ -683,6 +685,7 @@ pdfjs-views-manager-pages-status-action-button-label = Administrar
 pdfjs-views-manager-pages-status-copy-button-label = Copiar
 pdfjs-views-manager-pages-status-cut-button-label = Cortar
 pdfjs-views-manager-pages-status-delete-button-label = Eliminar
+pdfjs-views-manager-pages-status-export-selected-button-label = Exportar seleccionado…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =
@@ -711,10 +714,21 @@ pdfjs-views-manager-status-warning-copy-label = No se pudo pegar. Actualiza la p
 pdfjs-views-manager-status-warning-delete-label = No se pudo eliminar. Actualiza la página y vuelve a intentarlo.
 pdfjs-views-manager-status-warning-save-label = No se pudo guardar. Actualiza la página y vuelve a intentarlo.
 pdfjs-views-manager-status-undo-button-label = Deshacer
+pdfjs-views-manager-status-done-button-label = Hecho
 pdfjs-views-manager-status-close-button =
     .title = Cerrar
 pdfjs-views-manager-status-close-button-label = Cerrar
 pdfjs-views-manager-paste-button-label = Pegar
+pdfjs-views-manager-paste-button-before =
+    .title = Pegar antes de la primera página
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Pegar después de la página { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = NUEVO
+pdfjs-views-manager-waiting-for-file = Subiendo archivo…
 pdfjs-toggle-views-manager-button1 =
     .title = Administrar páginas
 

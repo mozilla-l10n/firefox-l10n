@@ -20,7 +20,21 @@ about-translations-feature-blocked-info-message =
     .heading = Para traducir texto, se debe desbloquear esta función
     .message = Al parecer, se actualizaron los controles de IA para bloquear esta función. Es posible desbloquearla en cualquier momento para comenzar a usarla.
 about-translations-feature-blocked-unblock-button = Desbloquear
+# An error message displayed when the language list fails to load.
+about-translations-language-load-error-message-2 =
+    .heading = No se pudieron cargar los idiomas
+    .message = Comprueba tu conexión a internet e inténtalo de nuevo.
 about-translations-language-load-error-button = Intentar de nuevo
+# An error message displayed when a translation request fails.
+about-translations-translation-error-heading = Hubo un problema con la traducción
+about-translations-translation-error-subtext = Por favor, intenta de nuevo.
+about-translations-translation-error-button = Intentar de nuevo
+# An informational message displayed when the detected language is not supported.
+# Variables:
+#   $language (String) - The display name of the detected language.
+about-translations-detected-language-unsupported-heading-2 = Lo sentimos, aún no ofrecemos traducciones desde el { $language }
+about-translations-detected-language-unsupported-heading-unknown-2 = Lo sentimos, aún no ofrecemos traducciones desde este idioma
+about-translations-detected-language-unsupported-subtext = Por favor, elige otro idioma.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Agregar texto para traducir
