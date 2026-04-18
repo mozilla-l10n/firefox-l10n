@@ -28,7 +28,7 @@ default-browser-prompt-button-secondary = 나중에
 ## use Windows Settings to set the default browser. Instructions differ for
 ## Windows 10 and 11.
 
-default-browser-guidance-notification-title = { -brand-short-name }를 기본 브라우저로 설정 완료
+default-browser-guidance-notification-title = { -brand-short-name }를 기본 브라우저로 설정 완료하기
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     1단계: 설정 > 기본 앱으로 이동
@@ -40,6 +40,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     2단계: { -brand-short-name }에 대해 "기본값 설정"을 선택
 default-browser-guidance-notification-info-page = 더보기
 default-browser-guidance-notification-dismiss = 완료
-default-browser-guidance-notification-v2-title = { -brand-short-name }를 기본 브라우저로 설정 완료
+default-browser-guidance-notification-v2-title = { -brand-short-name }를 기본 브라우저로 설정 완료하기
 default-browser-guidance-notification-v2-body = 설정에서 { -brand-short-name }에 대해 "기본 브라우저로 설정"을 선택하세요.
-default-browser-guidance-notification-v2-title-only = 설정에서 { -brand-short-name }를 기본 브라우저로 설정을 완료하세요
+default-browser-guidance-notification-v2-title-only = { -brand-short-name }를 설정에서 기본 브라우저로 설정 완료하세요
