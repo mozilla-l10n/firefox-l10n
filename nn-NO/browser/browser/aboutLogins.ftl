@@ -309,7 +309,7 @@ confirm-discard-changes-dialog-confirm-button = Ignorer
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Nettstads-datalekkasje
+about-logins-breach-alert-title = Nettstad-datalekkasje
 breach-alert-text = Passord vart lekne eller stolne frå denne nettstaden sidan du sist oppdaterte innloggingsdetaljane dine. Endre passordet ditt for å beskytte kontoen din.
 about-logins-breach-alert-date = Denne datalekkasjen skjedde den { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
