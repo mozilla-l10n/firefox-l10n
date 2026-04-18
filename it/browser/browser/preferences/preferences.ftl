@@ -2387,6 +2387,16 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS su HTTPS
 
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Sicurezza connessione e software
+preferences-connection-link-section =
+    .label = Sicurezza connessione e software
+    .description = Scopri in che modo le connessioni rimangono protette, i software dannosi vengono bloccati e i siti web verificati.
+preferences-connection-link-button =
+    .label = Impostazioni avanzate
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop

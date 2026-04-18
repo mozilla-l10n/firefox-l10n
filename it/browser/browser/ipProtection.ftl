@@ -25,12 +25,19 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Scopri la VPN, ora disponibile direttamente nel tuo browser.
 ipprotection-feature-introduction-link-text-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati.
+# Used for callout in private browsing as well as users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Aggiungi un ulteriore livello di privacy
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrata di { -brand-product-name }</a> contribuisce a proteggere la tua navigazione. Scegli tra 5 posizioni per rendere più riservata la tua attività online.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati, anche quando ti trovi in una finestra anonima
 ipprotection-feature-introduction-description-private-browsing = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi una finestra anonima.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Sei su una rete Wi-Fi pubblica? Prova la VPN integrata di { -brand-product-name }.
+ipprotection-feature-introduction-link-text-captive-portal = Ottieni <a data-l10n-name="learn-more-vpn">maggiore privacy</a> scegliendo tra 5 posizioni per nascondere da dove ti connetti.
 ipprotection-feature-introduction-description-captive-portal = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi reti Wi-Fi pubbliche.
 ipprotection-feature-introduction-button-primary = Successivo
 ipprotection-feature-introduction-button-secondary-not-now = Non adesso
 ipprotection-feature-introduction-button-secondary-no-thanks = No grazie
+ipprotection-feature-introduction-button-secondary-remove = Rimuovi VPN dalla barra degli strumenti
 
 ## Site settings callout
 
@@ -38,21 +45,32 @@ ipprotection-site-settings-callout-title = Scegli dove utilizzare la VPN
 ipprotection-site-settings-callout-subtitle = Disattiva la VPN per un sito specifico e ricorderemo la tua scelta la prossima volta che lo visiti.
 ipprotection-site-settings-callout-button = OK
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Novità: cambia posizione
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrata in { -brand-product-name }</a> ti consente di scegliere tra 5 posizioni di navigazione, oppure lascia che scegliamo quella più veloce per te.
+ipprotection-location-selection-callout-primary-button = Provala
+ipprotection-location-selection-callout-secondary-button = Ignora
+
 ## Panel
 
 unauthenticated-vpn-title = Prova la VPN integrata in { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Nascondi la tua posizione</a> mentre navighi in { -brand-product-name }.
+unauthenticated-private-location-message = Aiuta a <a data-l10n-name="learn-more-vpn">mantenere la tua posizione privata</a> in { -brand-product-name }.
+unauthenticated-choose-location-message = Scegli tra 5 posizioni o lascia che { -brand-product-name } scelga quella più veloce.
 unauthenticated-hide-location-message-2 = Nascondi la tua posizione durante la navigazione in { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ottieni { $maxUsage } GB di dati gratuiti per la VPN ogni mese.
 unauthenticated-get-started = Inizia
+unauthenticated-terms-of-service-privacy-notice = Procedendo, accetti le <a data-l10n-name="vpn-terms-of-service">condizioni di utilizzo del servizio</a> e l'<a data-l10n-name="vpn-privacy-notice">informativa sulla privacy</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Utilizza la VPN per questo sito
     .aria-label = La VPN è attiva per questo sito
 site-exclusion-toggle-disabled-1 =
     .label = Utilizza la VPN per questo sito
     .aria-label = La VPN è disattivata per questo sito
+site-exclusion-toggle-description = Il sito non funziona? Prova a disattivare la VPN.
 ipprotection-settings-link =
     .label = Impostazioni
 
@@ -72,6 +90,26 @@ ipprotection-button-turn-vpn-on = Attiva VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Attivazione…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Posizione: consigliata
+ipprotection-recommended-location-description = { -brand-product-name } trova la posizione più veloce
+ipprotection-recommended-location-badge = NOVITÀ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Posizione: { $country }
+ipprotection-locations-subview =
+    .title = Scegli posizione
+ipprotection-locations-subview-description = Scegli una posizione diversa da cui navigare.
+ipprotecion-locations-subview-recommended-label = Consigliata
+ipprotection-locations-subview-recommended-description = Trova la posizione più veloce
+ipprotection-locations-subview-promo =
+    .heading = Aumenta la tua protezione con { -mozilla-vpn-brand-name }
+    .message = Scegli tra oltre 300 posizioni e proteggi tutte le tue app su un massimo di 5 dispositivi.
+ipprotection-locations-subview-promo-button = Ottieni { -mozilla-vpn-brand-name }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN sospesa
@@ -81,6 +119,10 @@ ipprotection-connection-status-paused-description = Hai utilizzato tutti i { $ma
 upgrade-vpn-title = Più protezione, anche al di fuori del browser
 upgrade-vpn-description = Scegli la posizione della VPN, proteggi tutte le tue app e fino a 5 dispositivi. Rimani al sicuro su qualsiasi rete, a casa o su reti Wi-Fi pubbliche.
 upgrade-vpn-button = Prova { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = La VPN è in pausa
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il prossimo mese.
 
 ## Messages and errors
 
@@ -130,12 +172,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Hai quasi esauri
 ip-protection-description =
     .label = VPN
     .description = VPN integrata per migliorare la tua privacy durante la navigazione in { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN integrata
+    .description = Aumenta la tua privacy nascondendo la posizione mentre navighi.
 ip-protection-learn-more = Ulteriori informazioni
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Prova la VPN integrata in { -brand-short-name }
     .message = Nascondi la tua posizione durante la navigazione in { -brand-short-name }. Ottieni { $maxUsage } GB di dati VPN gratuiti ogni mese.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Prova la VPN integrata in { -brand-short-name }
+    .message = Naviga in modo ancora più sicuro nascondendo la tua posizione. Ricevi { $maxUsage } GB di traffico VPN gratuito ogni mese.
 ip-protection-not-opted-in-button = Inizia
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -155,6 +205,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Ottieni una protezione ancora maggiore al di fuori di { -brand-short-name } con { -mozilla-vpn-brand-name }
     .description = Scegli posizioni VPN personalizzate e aggiungi protezione a tutte le tue app su un massimo di cinque dispositivi, a casa o su reti Wi-Fi pubbliche.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Aumenta la tua protezione con { -mozilla-vpn-brand-name }
+    .description = Scegli tra oltre 300 posizioni e proteggi tutte le tue app su un massimo di 5 dispositivi.
 
 ## IP Protection dialogs
 
@@ -207,6 +260,12 @@ vpn-paused-alert-title = VPN sospesa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso alla VPN verrà reimpostato il prossimo mese.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il prossimo mese.
+vpn-error-page-continue-description = Scegli come continuare senza VPN
+vpn-error-page-keep-browsing = Continua a navigare in questa sessione
+vpn-error-page-new-session = Avvia una nuova sessione
 vpn-paused-alert-close-tabs-button = Chiudi tutte le schede
 vpn-paused-alert-continue-wo-vpn-button = Continua senza VPN
 vpn-error-alert-title = La VPN non è in funzione al momento.

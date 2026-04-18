@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ha restituito
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Il server <strong>{ $hostname }</strong> ha restituito un errore: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> ha restituito un header con caratteri vuoti. Questo non è consentito in base agli standard di sicurezza web.
+fp-neterror-content-encoding-intro = La pagina che si sta cercando di visualizzare non può essere mostrata poiché fa uso di una forma di compressione non valida o non supportata.
 fp-neterror-coop-coep-intro = { -brand-short-name } non ha caricato questa pagina in quanto sembra che la configurazione di sicurezza non corrisponda alla pagina precedente.
 fp-neterror-blocked-by-policy-intro = Questa pagina è stata bloccata dalla propria organizzazione.
 fp-neterror-http-auth-disabled-intro = Un soggetto che finge di essere il sito potrebbe cercare di rubare dettagli come nome utente, password o indirizzo email.

@@ -635,6 +635,12 @@ newtab-new-user-custom-wallpaper-title = Scegli uno sfondo per rendere { -brand-
 newtab-new-user-custom-wallpaper-subtitle = Fai sentire ogni nuova scheda come se fosse casa tua con sfondi e colori personalizzati.
 newtab-new-user-custom-wallpaper-cta = Provalo ora
 
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Sono disponibili nuovi sfondi
+newtab-wallpaper-feature-highlight-subtitle = Scegli lo sfondo che preferisci e trasforma ogni nuova scheda in un ambiente familiare.
+newtab-wallpaper-feature-highlight-cta = Scegli sfondo
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Scarica { -brand-product-name } per dispositivi mobili
@@ -722,8 +728,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Crea nuova lista
 newtab-widget-lists-name-label-default =
     .label = Lista di attività
+newtab-widget-lists-name-label-checklist =
+    .label = Lista di controllo
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista di attività
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Lista di controllo
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nuova lista
@@ -743,7 +753,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizza widget
     .aria-label = Comprimi tutti i widget alle dimensione più compatta
+newtab-widget-section-menu-button =
+    .title = Menu widget
+    .aria-label = Apri il menu widget
+newtab-widget-section-menu-hide-all = Nascondi widget
+newtab-widget-section-menu-learn-more = Ulteriori informazioni
 newtab-widget-section-feedback = Dicci cosa ne pensi
+newtab-widget-lists-name-default = Lista di controllo
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

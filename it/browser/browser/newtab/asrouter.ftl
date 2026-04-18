@@ -439,3 +439,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Imposta come predefinito
 set-default-menu-message-primary-button-variant = Imposta come browser principale
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 alias di posta elettronica, in regalo
+relay-50-masks-announcement-subtitle = Ora hai a disposizione 50 alias gratuiti (invece di 5). Usane uno per ogni account per proteggere il tuo indirizzo email reale.
+relay-50-masks-announcement-primary-button = Vai a { -relay-brand-name }
+    .accesskey = V
+relay-50-masks-announcement-secondary-button = Chiudi
+    .accesskey = C
