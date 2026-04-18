@@ -380,6 +380,7 @@ newtab-wallpaper-title = รูปพื้นหลัง
 newtab-wallpaper-reset = กลับเป็นค่าเริ่มต้น
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = อัปโหลดภาพ
+newtab-wallpaper-add-an-image = เพิ่มภาพ
 newtab-wallpaper-custom-color = เลือกสี
 newtab-wallpaper-toggle-title =
     .label = รูปพื้นหลัง
@@ -523,6 +524,8 @@ newtab-weather-opt-in-not-now =
     .label = ยังไม่ทำตอนนี้
 newtab-weather-opt-in-yes =
     .label = ใช่
+newtab-weather-opt-in-use-location =
+    .label = ใช้ตำแหน่งที่ตั้ง
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = นครนิวยอร์ก
 # "Highest" here refers to the highest temperature of the day

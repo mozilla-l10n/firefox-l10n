@@ -412,6 +412,9 @@ quickactions-cmd-help = ความช่วยเหลือ, สนับส
 # Opens the devtools web inspector
 quickactions-inspector2 = เปิดเครื่องมือนักพัฒนา
 quickactions-cmd-inspector2 = ตัวตรวจสอบ, devtools, เครื่องมือนักพัฒนา
+# Opens Firefox Library
+quickactions-cmd-library = ห้องสมุด
+quickactions-library = เปิดห้องสมุด
 quickactions-cmd-inspector = ตัวตรวจสอบ, devtools
 # Opens about:logins
 quickactions-logins2 = จัดการรหัสผ่าน

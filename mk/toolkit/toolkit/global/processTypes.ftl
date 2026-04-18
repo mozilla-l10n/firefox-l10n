@@ -6,6 +6,13 @@
 ##
 ## Localization for remote types defined in RemoteType.h
 
+process-type-web = Мрежна содржина
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = Привилегирано за
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = Привилегирана содржина на Mozilla
 process-type-extension = Проширување
 # process used to open file:// URLs
 process-type-file = Локална датотека

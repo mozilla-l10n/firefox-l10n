@@ -19,6 +19,12 @@ safeb-palm-see-details-label = Види детали
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше пријавено како <a data-l10n-name='error_desc_link'>измамничко место</a>. Вие можете <a data-l10n-name='report_detection'> да направите исправка на оваа пријава</a> или <a data-l10n-name='ignore_warning_link'>да го игнорирате ризикот </a> и одите на ова небезбедно место.
+safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше пријавено како <a data-l10n-name='error_desc_link'>измамничко место</a>. Вие можете <a data-l10n-name='report_detection'> да направите исправка на оваа пријава</a> .
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-palm-notdeceptive =
     .label = Ова не е измамничко место...
     .accesskey = д
