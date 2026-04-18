@@ -156,6 +156,19 @@ addon-install-from-file-filter-name = Додатоци
 addon-open-about-debugging = Дебагирање на додатоци
     .accesskey = B
 
+## Pending uninstall message bar
+
+install-update-button = Ажурирај
+addon-detail-private-browsing-allow = Дозволи
+addon-detail-private-browsing-disallow = Не дозволувај
+
+##
+
+available-updates-heading = Достапни ажурирања
+recent-updates-heading = Скорешни ажурирања
+release-notes-loading = Се вчитува…
+release-notes-error = Извинете, но имаше грешка при вчитувањето на белешките за изданието.
+
 ## Page headings
 
 addon-page-options-button =

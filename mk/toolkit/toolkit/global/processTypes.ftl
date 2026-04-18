@@ -4,6 +4,16 @@
 
 
 ##
+## Localization for remote types defined in RemoteType.h
+
+process-type-extension = Проширување
+# process used to open file:// URLs
+process-type-file = Локална датотека
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Изолирана мрежна содржина
+
+##
 ## Localization for Gecko process types defined in GeckoProcessTypes.h
 
 # process used to communicate with the GPU for
