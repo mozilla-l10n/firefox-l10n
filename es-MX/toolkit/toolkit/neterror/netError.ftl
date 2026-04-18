@@ -25,6 +25,8 @@ neterror-override-exception-button = Aceptar el riesgo y continuar
 neterror-pref-reset-button = Restaurar ajustes predeterminados
 neterror-return-to-previous-page-button = Regresar
 neterror-return-to-previous-page-recommended-button = Volver (recomendado)
+neterror-try-again-button-2 = Intentar de nuevo
+    .accesskey = T
 neterror-try-again-button = Intentar de nuevo
 neterror-add-exception-button = Continuar siempre para este sitio
 neterror-settings-button = Cambiar los ajustes de DNS
@@ -46,6 +48,10 @@ neterror-load-error-firewall = Si la red o tu computadora están protegidas por 
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
 neterror-load-osx-permission = Si se está intentando cargar una página en la red local, verifica que se hayan otorgado permisos de red local a { -brand-short-name } en la configuración de Privacidad y seguridad de macOS.
 neterror-http-error-page = Verifique que haya escrito correctamente la dirección del sitio web.
+neterror-http-empty-response = Comprueba que has escrito correctamente la dirección web e inténtalo de nuevo en unos instantes.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } devolvió una página vacía.
 neterror-captive-portal = Hay que iniciar sesión en esta red antes de poder acceder a Internet.
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
