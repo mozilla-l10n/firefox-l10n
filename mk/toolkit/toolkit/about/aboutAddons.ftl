@@ -163,6 +163,11 @@ addon-detail-version-label = Верзија
 addon-detail-last-updated-label = Последно ажурирање
 addon-detail-homepage-label = Домашна страница
 addon-detail-rating-label = Оценка
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Оценето { NUMBER($rating, maximumFractionDigits: 1) } од 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
