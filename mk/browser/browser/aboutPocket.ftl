@@ -15,10 +15,13 @@ pocket-panel-saved-error-generic = Се појави грешка кога се 
 pocket-panel-saved-error-tag-length = Етикетите се ограничени на 25 знаци
 pocket-panel-saved-error-only-links = Може да се зачувуваат само врски до мрежни места
 pocket-panel-saved-error-not-saved = Страницата не е зачувана
+pocket-panel-saved-error-no-internet = Мора да бидете поврзани на интернет за да снимате во { -pocket-brand-name }. Ве молиме поврзете се на интернет и обидете се повторно.
+pocket-panel-saved-error-remove = Се појави грешка при обидот за отстранување на оваа страница.
 pocket-panel-saved-page-removed = Страницата е отстранета
 pocket-panel-saved-page-saved = Зачувано во { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Зачувано во { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Страницата се отстранува…
+pocket-panel-saved-removed-updated = Страницата е отстранета од снимените
 pocket-panel-saved-processing-tags = Додавам етикети …
 pocket-panel-saved-remove-page = Отстрани страница
 pocket-panel-saved-save-tags = Сними
@@ -39,18 +42,30 @@ pocket-panel-signup-signup-firefox = Регистрирајте се со { -bra
 pocket-panel-signup-tagline = Зачувајте написи и видеа од { -brand-product-name } за преглед во { -pocket-brand-name } на било кој уред, во било кое време.
 pocket-panel-signup-tagline-story-one = Кликнете на копчето { -pocket-brand-name } за да зачувате напис, видео или страница од { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Прегледајте во { -pocket-brand-name } на било кој уред, во било кое време.
+pocket-panel-signup-cta-a-fix = Вашето копче за снимање од интернет
+pocket-panel-signup-cta-b-updated = Кликнете на копчето { -pocket-brand-name } за да снимате статии, видеа и врски. Гледајте ги вашите снимени содржини на кој било уред, во кое било време.
+pocket-panel-signup-cta-b-short = Кликнете на копчето { -pocket-brand-name } за да снимите статии, видеа и линкови.
+pocket-panel-signup-cta-c-updated = Погледнете ги Вашите снимени ресурси на кој било уред, во кое било време.
 
 ## about:pocket-home panel
 
 pocket-panel-home-welcome-back = Добредојдовте назад
+pocket-panel-home-paragraph = Можете да го користите { -pocket-brand-name } за да истражувате и зачувувате мрежни страници, статии, видеа, подкасти или да се вратите на она што сте го читале.
+pocket-panel-home-explore-popular-topics = Истражете популарни теми
 pocket-panel-home-discover-more = Откријте повеќе
 pocket-panel-home-explore-more = Истражи
+pocket-panel-home-most-recent-saves = Еве ги Вашите најнови снимени содржини:
+pocket-panel-home-most-recent-saves-loading = Скоро снимените податоци се вчитуваат…
+pocket-panel-home-new-user-cta = Кликнете на копчето { -pocket-brand-name } за да снимите статии, видеа и линкови.
+pocket-panel-home-new-user-message = Виде ти ги Вашите најнови снимени содржини:
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = Прикажи ги моите снимени содржини
 pocket-panel-header-sign-in = Најавете се
 
 ## Pocket panel buttons
 
 pocket-panel-button-show-all = Прикажи сè
+pocket-panel-button-activate = Активирај { -pocket-brand-name } во { -brand-product-name }
 pocket-panel-button-remove = Отстрани
