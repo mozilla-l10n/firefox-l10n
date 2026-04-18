@@ -78,3 +78,5 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = ปิดเสียงแท็บ
 fxviewtabrow-unmute-tab-button-no-context =
     .title = เปิดเสียงแท็บ
+fxviewtabrow-send-to-mobile-connect-phone2 = เชื่อมต่อโทรศัพท์ของคุณ
+fxviewtabrow-send-to-mobile-device-missing2 = ไม่เห็นอุปกรณ์ของคุณ?

@@ -1095,6 +1095,9 @@ search-engine-group =
     .label = เครื่องมือค้นหาเริ่มต้น
 search-default-engine =
     .aria-label = เครื่องมือค้นหาเริ่มต้น
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = ค้นหา
 
 ## Containers Section
 
@@ -1118,6 +1121,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = การซิงค์
+account-group-label2 =
+    .label = บัญชี
 account-group-label =
     .label = บัญชี { -vendor-short-name }
 account-placeholder =

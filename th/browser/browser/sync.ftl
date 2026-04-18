@@ -36,6 +36,8 @@ fxa-menu-send-to-mobile =
             [1] ส่งไปยังมือถือ
            *[other] ส่ง { $tabCount } แท็บไปยังมือถือ
         }
+fxa-menu-send-to-mobile-connect-phone =
+    .label = เชื่อมต่อโทรศัพท์ของคุณ
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

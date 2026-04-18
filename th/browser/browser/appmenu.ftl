@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = หน้าต่างส่วนตัวใหม่
 appmenuitem-history =
     .label = ประวัติ
+appmenuitem-tab-groups =
+    .label = กลุ่มแท็บ
 appmenuitem-downloads =
     .label = การดาวน์โหลด
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ปรับแต่งแถบเครื่องมือ…
+appmenu-abouttranslations =
+    .label = แปล…
 appmenu-developer-tools-subheader = เครื่องมือสำหรับเบราว์เซอร์
 appmenu-developer-tools-extensions =
     .label = ส่วนขยายสำหรับนักพัฒนา

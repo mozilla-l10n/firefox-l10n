@@ -282,6 +282,8 @@ urlbar-canvas-blocked =
     .tooltiptext = คุณได้ปิดกั้นการส่งออกข้อมูลผืนผ้าใบสำหรับเว็บไซต์นี้
 urlbar-midi-blocked =
     .tooltiptext = คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้
+urlbar-serial-blocked =
+    .tooltiptext = คุณได้ปิดกั้นการเข้าถึงพอร์ตซีเรียลสำหรับเว็บไซต์นี้
 urlbar-install-blocked =
     .tooltiptext = คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้
 # Variables
@@ -639,6 +641,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ปิดใช้งานการป้องกันการแบ่งปันในวาระนี้
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = เลือกพอร์ตซีเรียล:
+webserial-no-ports-available = ไม่มีพอร์ตซีเรียลที่พร้อมใช้งาน
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = ถ้าต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู เครื่องมือสำหรับเบราว์เซอร์
@@ -988,6 +995,7 @@ urlbar-searchmode-popup-one-off-header = ครั้งนี้ค้นหา
 # reset after submitting.
 urlbar-searchmode-popup-header = ค้นหาด้วย:
 urlbar-searchmode-popup-search-settings-panelitem = การตั้งค่าการค้นหา
+urlbar-searchmode-popup-settings-panelitem = การตั้งค่า
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
