@@ -37,6 +37,7 @@ policy-Containers = Angi policyar relatert til behaldarar.
 policy-DisableAccounts = Slå av kontobaserte tenester, inkludert synkronisering.
 policy-DisabledCiphers = Deaktiver krypteringsmetodar.
 policy-DefaultDownloadDirectory = Vel standardmappe for nedlastingar.
+policy-DefaultSerialGuardSetting = Kontroller bruken av serieport-API-en.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }
 policy-DisableDefaultBrowserAgent = Hindre at standardnettlesaren gjer noko. Dette gjeld berre Windows; andre plattformer har ikkje agenten.
