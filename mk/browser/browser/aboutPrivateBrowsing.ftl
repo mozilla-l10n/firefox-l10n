@@ -71,3 +71,10 @@ about-private-browsing-cookie-banners-promo-message = Дозволете { -bran
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ќе ги одговора пораките за колачиња
+about-private-browsing-cookie-banners-promo-body = Сега автоматски одбиваме многу пораки за колачиња за да може да бидете помалку следени и да се вратите на прелистување без одвлекување на вниманието.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Не оставај траги на овој уред
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } ги брише вашите колачиња, историја и податоци од страницата кога ќе ги затворите сите Ваши приватни прозорци.
+about-private-browsing-felt-privacy-v1-info-link = Кој би можел да ја види мојата активност?
