@@ -112,6 +112,18 @@ fp-certerror-transparency-what-can-you-do-body = Probablemente no sea nada, ya q
 fp-learn-more-about-secure-connection-failures = Saber más sobre los fallos de conexión segura
 fp-learn-more-about-cert-issues = Saber más sobre este tipo de problemas con los certificados
 fp-learn-more-about-time-related-errors = Saber más sobre cómo solucionar errores relacionados con la fecha
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } no confía en este sitio porque parece que el certificado proporcionado no es válido hasta { DATETIME($date, timeStyle: "short") } en { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $date (Date) - Device's clock date.
+fp-certerror-pkix-not-yet-valid-what-can-you-do-body = El reloj de tu dispositivo está configurado con { DATETIME($date, timeStyle: "short") }. Si esto es correcto, el problema de seguridad probablemente se encuentre en el sitio web. Si es incorrecto, puedes cambiarlo en la configuración del sistema de tu dispositivo.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-invalid-cert-why-dangerous = La persona propietaria de { $hostname } no lo ha configurado correctamente y no se puede crear una conexión segura.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -120,6 +132,11 @@ cert-error-revoked-certificate = { -brand-short-name } bloqueó tu visita a este
 cert-error-bad-signature = { -brand-short-name } bloqueó tu visita a este sitio porque la firma en el certificado proporcionado para { $hostname } no es válida.
 cert-error-key-pinning-failure = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } utiliza una clave pública diferente a la esperada.
 cert-error-bad-der = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } no está codificado correctamente.
+cert-error-cert-not-in-name-space = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } no cumple con las restricciones de nombre de un certificado que lo emitió.
+cert-error-inadequate-cert-type = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } no tiene permiso para ser utilizado por un servidor web.
+cert-error-path-len-constraint-invalid = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } tiene demasiados certificados intermedios en la ruta al certificado raíz.
+cert-error-invalid-key = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } tiene una clave no válida. Lo más probable es que sea demasiado corta para ser segura.
+cert-error-unknown-critical-extension = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } contiene una extensión crítica no compatible.
 
 ## Messages used for certificate error titles
 
@@ -128,6 +145,7 @@ deniedPortAccess-title = Esta dirección está restringida
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Estamos teniendo problemas para encontrar ese sitio.
+internet-connection-offline-title = Parece que hay un problema con tu conexión a Internet.
 dns-not-found-trr-only-title2 = Posible riesgo de seguridad buscando este dominio
 dns-not-found-native-fallback-title2 = Posible riesgo de seguridad buscando este dominio
 fileNotFound-title = Archivo no encontrado
