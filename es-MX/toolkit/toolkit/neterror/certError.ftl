@@ -137,6 +137,7 @@ cert-error-inadequate-cert-type = { -brand-short-name } bloqueó tu visita a est
 cert-error-path-len-constraint-invalid = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } tiene demasiados certificados intermedios en la ruta al certificado raíz.
 cert-error-invalid-key = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } tiene una clave no válida. Lo más probable es que sea demasiado corta para ser segura.
 cert-error-unknown-critical-extension = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } contiene una extensión crítica no compatible.
+cert-error-extension-value-invalid = { -brand-short-name } bloqueó tu visita a este sitio porque el certificado proporcionado para { $hostname } contiene una extensión no válida.
 
 ## Messages used for certificate error titles
 
