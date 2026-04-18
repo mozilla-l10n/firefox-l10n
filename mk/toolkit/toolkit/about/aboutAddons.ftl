@@ -241,6 +241,9 @@ addon-name-disabled = { $name } (оневозможено)
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> е отстранет.
 pending-uninstall-undo-button = Врати
 addon-detail-updates-label = Дозволи автоматско ажурирање
 addon-detail-updates-radio-on = Вклучено
