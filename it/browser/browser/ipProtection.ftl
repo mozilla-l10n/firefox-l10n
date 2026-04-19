@@ -63,7 +63,7 @@ unauthenticated-hide-location-message-2 = Nascondi la tua posizione durante la n
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ottieni { $maxUsage } GB di dati gratuiti per la VPN ogni mese.
 unauthenticated-get-started = Inizia
-unauthenticated-terms-of-service-privacy-notice = Procedendo, accetti le <a data-l10n-name="vpn-terms-of-service">condizioni di utilizzo del servizio</a> e l'<a data-l10n-name="vpn-privacy-notice">informativa sulla privacy</a>.
+unauthenticated-terms-of-service-privacy-notice = Procedendo, accetti le <a data-l10n-name="vpn-terms-of-service">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="vpn-privacy-notice">informativa sulla privacy</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Utilizza la VPN per questo sito
     .aria-label = La VPN è attiva per questo sito
