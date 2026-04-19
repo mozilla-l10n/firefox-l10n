@@ -12,6 +12,7 @@ about-networking-dns-trr-url = DoH URL
 about-networking-dns-trr-mode = DoH Ayvu
 about-networking-dns-suffix = Ñe’ẽpehẽ upeigua DNS
 about-networking-websockets = WebSockets
+about-networking-alt-svc = Alt-Svc
 about-networking-refresh = Mbopiro’y
 about-networking-auto-refresh = Embopiro’y ijehegui 3 aravo’ive og̃uahẽvo
 about-networking-hostname = Mohendahavusu réra

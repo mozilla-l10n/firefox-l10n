@@ -1110,6 +1110,9 @@ search-engine-group =
     .label = Hekaha ypykuéva
 search-default-engine =
     .aria-label = Hekaha ypykuéva
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Eheka
 
 ## Containers Section
 

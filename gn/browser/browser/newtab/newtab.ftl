@@ -528,6 +528,7 @@ newtab-weather-opt-in-yes =
 newtab-weather-opt-in-headline = Eporandu ára reko oútava rehegua
 newtab-weather-opt-in-use-location =
     .label = Eiporu tendaite
+newtab-weather-opt-in-choose-location = Eiporavo tendaite
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Táva Nueva York
 # "Highest" here refers to the highest temperature of the day
