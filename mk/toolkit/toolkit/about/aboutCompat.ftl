@@ -8,4 +8,6 @@ label-interventions = Интервенции
 # Variables:
 #   $bug (string) - Bug number
 label-more-information = Повеќе информации: Бубачка { $bug }
+text-disabled-in-about-config = Оваа особеност е оневозможена во about:config
+text-no-interventions = Не се користат интервенции
 text-title = about:compat
