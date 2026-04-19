@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 abuse-report-subtitle = Што е проблемот?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = од <a data-l10n-name="author-name ">{ $author-name }</a>
+abuse-report-submit-description = Опишете го проблемот (опционално)
 
 ## Panel buttons.
 
@@ -22,4 +26,6 @@ abuse-report-messagebar-action-cancel = Откажи
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-spam-example = Пример: Вметнува реклами на мрежни страници
+abuse-report-unwanted-example = Пример: Некоја апликација го инсталираше без моја дозвола
 abuse-report-other-reason = Нешто друго
