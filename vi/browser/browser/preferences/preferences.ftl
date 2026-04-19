@@ -1095,6 +1095,9 @@ search-engine-group =
     .label = Dịch vụ tìm kiếm mặc định
 search-default-engine =
     .aria-label = Dịch vụ tìm kiếm mặc định
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Tìm kiếm
 
 ## Containers Section
 

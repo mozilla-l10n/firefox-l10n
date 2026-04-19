@@ -380,6 +380,7 @@ newtab-wallpaper-title = Hình nền
 newtab-wallpaper-reset = Đặt lại về mặc định
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Tải lên một ảnh
+newtab-wallpaper-add-an-image = Thêm một ảnh
 newtab-wallpaper-custom-color = Chọn màu
 newtab-wallpaper-toggle-title =
     .label = Hình nền
@@ -407,6 +408,7 @@ newtab-wallpaper-light-fox-anniversary = Một chú cáo trong cánh đồng xan
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Màu
+newtab-wallpaper-colors = Màu
 newtab-wallpaper-blue = Xanh dương
 newtab-wallpaper-light-blue = Xanh dương nhạt
 newtab-wallpaper-light-purple = Tím nhạt
@@ -522,6 +524,10 @@ newtab-weather-opt-in-not-now =
     .label = Không phải bây giờ
 newtab-weather-opt-in-yes =
     .label = Đồng ý
+newtab-weather-opt-in-headline = Xem dự báo thời tiết nơi ở hiện tại của bạn
+newtab-weather-opt-in-use-location =
+    .label = Sử dụng vị trí
+newtab-weather-opt-in-choose-location = Chọn khu vực
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Thành phố New York
 # "Highest" here refers to the highest temperature of the day

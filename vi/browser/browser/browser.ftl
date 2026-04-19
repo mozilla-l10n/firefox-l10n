@@ -996,6 +996,7 @@ urlbar-searchmode-popup-one-off-header = Lần này, tìm kiếm với:
 # reset after submitting.
 urlbar-searchmode-popup-header = Tìm kiếm với:
 urlbar-searchmode-popup-search-settings-panelitem = Cài đặt tìm kiếm
+urlbar-searchmode-popup-settings-panelitem = Cài đặt
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1084,6 +1085,9 @@ fullscreen-warning-no-domain = Trang này giờ đã hiển thị toàn màn hì
 fullscreen-exit-button = Thoát toàn màn hình (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Thoát toàn màn hình (esc)
+fullscreen-keyboardlock-exit-button = Thoát toàn màn hình (nhấn và giữ Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Thoát toàn màn hình (nhấn và giữ esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

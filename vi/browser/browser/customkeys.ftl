@@ -13,6 +13,7 @@ customkeys-reset-all = Đặt lại tất cả các phím tắt về mặc đị
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Phím này đã được gán cho { $conflict }. Bạn có muốn thay thế nó không?
 customkeys-reset-all-confirm = Bạn có chắc chắn muốn đặt lại tất cả phím tắt về mặc định không?
+customkeys-file-duplicate-tab = Nhân đôi thẻ
 customkeys-history-reopen-tab = Mở lại thẻ đã đóng gần đây nhất
 customkeys-history-reopen-window = Mở lại cửa sổ đã đóng gần đây nhất
 customkeys-sidebar-toggle = Bật/tắt thanh lề
