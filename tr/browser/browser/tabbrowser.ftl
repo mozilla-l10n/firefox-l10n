@@ -401,6 +401,10 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Kaydet
     .accesskey = K
+tab-note-editor-button-delete =
+    .title = Notu sil
+    .aria-label = Notu sil
+    .accesskey = N
 tab-note-preview-edit-icon =
     .alt = Notu düzenle
 # Link to show the full tab note in case it was truncated.

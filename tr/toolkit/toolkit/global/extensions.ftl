@@ -163,6 +163,7 @@ webext-site-perms-header-unsigned-with-perms = { $extension } eklensin mi? Bu uz
 
 webext-site-perms-midi = MIDI cihazlarına erişebilir
 webext-site-perms-midi-sysex = SysEx destekli MIDI cihazlarına erişebilir
+webext-site-perms-serial = Seri cihazlara erişebilir
 
 ## Colorway theme migration
 
