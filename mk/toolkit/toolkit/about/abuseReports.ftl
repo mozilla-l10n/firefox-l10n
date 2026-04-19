@@ -5,7 +5,7 @@
 abuse-report-subtitle = Што е проблемот?
 # Variables:
 #   $author-name (string) - Name of the add-on author
-abuse-report-addon-authored-by = од <a data-l10n-name="author-name ">{ $author-name }</a>
+abuse-report-addon-authored-by = од <a data-l10n-name="author-name">{ $author-name }</a>
 abuse-report-submit-description = Опишете го проблемот (опционално)
 
 ## Panel buttons.
