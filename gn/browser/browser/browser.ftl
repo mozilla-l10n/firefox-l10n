@@ -1015,6 +1015,7 @@ urlbar-searchmode-popup-one-off-header = Ko’ág̃a eheka hendive:
 # reset after submitting.
 urlbar-searchmode-popup-header = Eheka Kóvandi:
 urlbar-searchmode-popup-search-settings-panelitem = Jehekaha ñemboheko
+urlbar-searchmode-popup-settings-panelitem = Ñemboheko
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1103,6 +1104,9 @@ fullscreen-warning-no-domain = Ko kuatia oĩ hína ko’ág̃a mba’erechaha tu
 fullscreen-exit-button = Esẽ mba’erechaha tuichavévagui (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Esẽ mba’erechaha tuichavévagui (esc)
+fullscreen-keyboardlock-exit-button = Esẽ mba’erechaha tuichávagui (Eikutu ha ejopy Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Esẽ mba’erechaha tuichávagui (Eikutu ha ejopy esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

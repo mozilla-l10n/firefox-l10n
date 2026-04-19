@@ -13,6 +13,7 @@ customkeys-reset-all = Emoĩjey opaite jeikeha õihaguaéichavoi
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Ko jehaiha oñeme’ẽma { $conflict }-pe g̃uarã. ¿Añetehápe emyengoviase?
 customkeys-reset-all-confirm = ¿Eguerusejeýpa añetehápe opaite tairenda mbopya’eha oĩ haguéichavoi?
+customkeys-file-duplicate-tab = Emomokõi Tendayke
 customkeys-history-reopen-tab = Eipe’a jey tendayke oñembotyramóva
 customkeys-history-reopen-window = Eipe’a jey tendayke oñembotyramóva
 customkeys-sidebar-toggle = Emyandy térã embogue tenda yke

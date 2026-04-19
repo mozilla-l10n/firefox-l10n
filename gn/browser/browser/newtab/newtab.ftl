@@ -381,6 +381,7 @@ newtab-wallpaper-title = Mba’erechaha rugua
 newtab-wallpaper-reset = Emoñerũjey ypyguáramo
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Ehupi peteĩ ta’ãnga
+newtab-wallpaper-add-an-image = Embojuaju ta’ãnga
 newtab-wallpaper-custom-color = Eiporavo peteĩ sa’y
 newtab-wallpaper-toggle-title =
     .label = Mba’erechaha rugua
@@ -408,6 +409,7 @@ newtab-wallpaper-light-fox-anniversary = Aguara ñu mbyte ikapi’ipéva ojehech
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Sa’y ipeteĩva
+newtab-wallpaper-colors = Sa’yita
 newtab-wallpaper-blue = Hovy
 newtab-wallpaper-light-blue = Hovy kamgy
 newtab-wallpaper-light-purple = Pytãũ kangy
@@ -523,6 +525,9 @@ newtab-weather-opt-in-not-now =
     .label = Ani ko’ág̃a
 newtab-weather-opt-in-yes =
     .label = Héẽ
+newtab-weather-opt-in-headline = Eporandu ára reko oútava rehegua
+newtab-weather-opt-in-use-location =
+    .label = Eiporu tendaite
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Táva Nueva York
 # "Highest" here refers to the highest temperature of the day
