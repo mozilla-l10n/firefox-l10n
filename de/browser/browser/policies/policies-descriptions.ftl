@@ -37,6 +37,7 @@ policy-Containers = Richtlinien für Umgebungen festlegen
 policy-DisableAccounts = Kontobasierte Dienste, einschließlich Synchronisation, deaktivieren
 policy-DisabledCiphers = Chiffren deaktivieren
 policy-DefaultDownloadDirectory = Standardordner für Downloads festlegen
+policy-DefaultSerialGuardSetting = Nutzung der seriellen Schnittstelle kontrollieren
 policy-DisableAppUpdate = Browser-Updates deaktivieren
 policy-DisableBuiltinPDFViewer = Eingebauten PDF-Betrachter von { -brand-short-name } (PDF.js) deaktivieren
 policy-DisableDefaultBrowserAgent = Aktionen des Programms zur Erkennung des Standardbrowsers deaktivieren. Findet nur unter Windows Anwendung, da andere Betriebssysteme nicht über dieses Programm verfügen.
