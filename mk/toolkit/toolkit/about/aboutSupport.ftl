@@ -7,9 +7,15 @@ page-subtitle =
     Оваа страна содржи технички информации кои може да Ви послужат кога се
     обидувате да решите некој проблем. Ако барате одговори на често поставувани прашања
     за { -brand-short-name }, појдете на нашиот <a data-l10n-name="support-link">веб сајт за поддршка</a>.
+crashes-title = Извештаи за уривање
+crashes-id = ID на извештајот
+crashes-send-date = Поднесено
+crashes-all-reports = Сите извештаи за уривање
+crashes-no-config = Оваа апликација не е конфигурирана за да прикажува извештаи за уривање.
 support-addons-name = Име
 support-addons-version = Верзија
 support-addons-id = ID
+security-software-title = Безбедносен софтвер
 security-software-type = Тип
 security-software-name = Име
 security-software-antivirus = Антивирус
@@ -128,6 +134,7 @@ try-newer-driver =
 clear-type-parameters = Параметри за ClearType
 yes = Да
 no = Не
+unknown = Непознато
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -135,8 +142,19 @@ no = Не
 
 min-lib-versions = Очекувана минимална верзија
 loaded-lib-versions = Верзија во употреба
+launcher-process-status-2 = Присилно оневозможено
+launcher-process-status-unknown = Непознат статус
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+apz-none = Ништо
+touch-enabled = овозможен е тактилен внес
 drag-enabled = влечење на лизгач овозможено
+keyboard-enabled = овозможена е тастатура
+
+## Strings representing the status of the Enterprise Policies engine.
+
+policies-inactive = Неактивно
+policies-active = Активно
+policies-error = Грешка
