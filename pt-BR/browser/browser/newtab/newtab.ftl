@@ -723,6 +723,10 @@ newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova lista
 newtab-widget-section-title = Widgets
 newtab-widget-menu-hide = Ocultar widget
+newtab-widget-menu-change-size = Mudar tamanho
+newtab-widget-size-small = Pequeno
+newtab-widget-size-medium = Médio
+newtab-widget-size-large = Grande
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
     .title = Ocultar widgets

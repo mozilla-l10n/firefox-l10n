@@ -37,6 +37,7 @@ policy-Containers = Definir diretivas relacionadas a contêineres.
 policy-DisableAccounts = Desativar serviços baseados em conta, inclusive sincronização.
 policy-DisabledCiphers = Desativar criptografia.
 policy-DefaultDownloadDirectory = Definir o diretório de download padrão.
+policy-DefaultSerialGuardSetting = Controlar uso da API de portas seriais.
 policy-DisableAppUpdate = Impedir a atualização do navegador.
 policy-DisableBuiltinPDFViewer = Desativar PDF.js, o visor de PDF integrado no { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Impedir que o agente padrão do navegador execute qualquer ação. Aplicável apenas a Windows; outras plataformas não têm o agente.
@@ -154,3 +155,5 @@ policy-WebsiteFilter = Bloquear o acesso a determinados sites. Confira a documen
 policy-Windows10SSO = Permitir autenticação única (single sign-on) do Windows em contas da Microsoft no trabalho e na escola.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permitir autenticação única em contas Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Ativar ou desativar o suporte para a API JavaScript XSLTProcessor e a instrução de processamento XSLT.
