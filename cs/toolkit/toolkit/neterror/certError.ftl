@@ -301,7 +301,7 @@ certerror-mitm-title =
 
 ## Felt Privacy V1 Strings
 
-fp-certerror-page-title = Upozornění: bezpečnostní riziko
+fp-certerror-page-title = Varování: bezpečnostní riziko
 fp-certerror-body-title = Buďte opatrní. Něco není v pořádku.
 fp-certerror-illustration-alt =
     .alt = Obrázek lišky, která se dívá na oranžovou výstražnou značku.
