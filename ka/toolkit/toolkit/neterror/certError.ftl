@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = თქვენი მო
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = { $hostname } არ აქვს მფლობელს სათანადოდ გამართული და ვერ მყარდება დაცული კავშირი.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = თქვენი კომპიუტერი მიიჩნევს, რომ ახლა არის { DATETIME($now, dateStyle: "medium") }, რის გამოც { -brand-short-name } ვერ ახერხებს უსაფრთხოდ დაუკავშირდეს საიტს. იმისთვის რომ ინახულოთ <strong>{ $hostname }</strong>, გაასწორეთ თქვენი კომპიუტერის სისტემის პარამეტრებიდან დრო, თარიღი და სასაათე სარტყელი, შემდეგ კი ხელახლა გახსენით გვერდი.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = კომპიუტერის საათის გასასწორებლად სისტემის პარამეტრებიდან მიუთითეთ დრო, თარიღი და სასაათე სარტყელი. თქვენი კომპიუტერი მიიჩნევს, რომ ახლა არის { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

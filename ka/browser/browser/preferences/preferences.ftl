@@ -1111,6 +1111,9 @@ search-engine-group =
     .label = ნაგულისხმევი საძიებო სისტემა
 search-default-engine =
     .aria-label = ნაგულისხმევი საძიებო სისტემა
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = ძიება
 
 ## Containers Section
 
