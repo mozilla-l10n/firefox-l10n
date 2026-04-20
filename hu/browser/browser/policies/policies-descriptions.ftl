@@ -37,6 +37,7 @@ policy-Containers = A konténerekhez kapcsolódó házirendek beállítása.
 policy-DisableAccounts = Fiókalapú szolgáltatások, köztük a szinkronizálás letiltása.
 policy-DisabledCiphers = Titkosítási módok letiltása.
 policy-DefaultDownloadDirectory = Az alapértelmezett letöltési könyvtár beállítása.
+policy-DefaultSerialGuardSetting = A Serial API használatának irányítása.
 policy-DisableAppUpdate = A böngésző frissítésének megakadályozása.
 policy-DisableBuiltinPDFViewer = A PDF.js-nek, a { -brand-short-name } beépített PDF-megjelenítőjének letiltása.
 policy-DisableDefaultBrowserAgent = Akadályozza meg, hogy az alapértelmezett böngésző-ügynök bármilyen műveletet végezzen. Csak Windowsra vonatkozik, más platformokon nincs meg ez az ügynök.

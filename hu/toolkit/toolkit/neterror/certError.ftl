@@ -146,6 +146,10 @@ fp-certerror-invalid-cert-why-dangerous = A(z) { $hostname } tulajdonosa nem ál
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $now (Date) - The current datetime, to be formatted as a date
 fp-certerror-clock-skew-intro = A számítógépe szerint a pontos idő { DATETIME($now, dateStyle: "medium") }, és ez megakadályozza, hogy a { -brand-short-name } biztonságosan kapcsolódjon. A(z) <strong>{ $hostname }</strong> felkereséséhez frissítse a rendszerbeállításokban a számítógép óráját a jelenlegi dátumra, időre és időzónára, és frissítse az oldalt.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = A rendszerbeállításokban frissítse a számítógép óráját a jelenlegi dátumra, időre és időzónára. A számítógépe szerint most { DATETIME($now, dateStyle: "medium") } van.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
