@@ -200,6 +200,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> bir hata gön
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> sunucusu bir hata mesajı gönderdi: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = Bu sayfanın güvenlik yapılandırması bir önceki sayfayla eşleşmediği için { -brand-short-name } bu sayfayı yüklemedi.
+fp-neterror-blocked-by-policy-intro = Kurumunuz bu sayfaya veya web sitesine erişimi engellemiş.
 fp-neterror-http-auth-disabled-intro = Birisi bu siteyi taklit ederek kullanıcı adınız, parolanız veya e-postanız gibi bilgileri çalmaya çalışabilir.
 fp-neterror-http-auth-disabled-secure-connection = Bu site güvenli bir bağlantı gerektiriyor ve siteyi ziyaret etmek için istisna ekleyemezsiniz.
 fp-neterror-why-did-this-happen = Neden böyle bir şey oldu?
