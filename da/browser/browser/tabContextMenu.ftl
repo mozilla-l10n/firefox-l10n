@@ -135,7 +135,7 @@ tab-context-send-to-device =
     .label =
         { $tabCount ->
             [1] Send til enhed
-           *[other] Send { $tabCount } Tabs to Device
+           *[other] Send { $tabCount } faneblade til enhed
         }
     .accesskey = d
 tab-context-send-tabs-to-device =
