@@ -373,6 +373,7 @@ newtab-wallpaper-title = الخلفيات
 newtab-wallpaper-reset = صفّر إلى المبدئي
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = ارفع صورة
+newtab-wallpaper-add-an-image = أضِف صورة
 newtab-wallpaper-custom-color = اختر لونًا
 newtab-wallpaper-toggle-title =
     .label = الخلفيات
@@ -527,7 +528,9 @@ newtab-topic-label-education-science = علوم
 newtab-topic-selection-save-button = احفظ
 newtab-topic-selection-cancel-button = ألغِ
 newtab-topic-selection-button-maybe-later = ربما لاحقا
+newtab-topic-selection-privacy-link = تعرّف على كيف نحمي بياناتك وإدارة البيانات
 newtab-topic-selection-button-update-interests = حدِّث اهتماماتك
+newtab-topic-selection-button-pick-interests = اختر اهتماماتك
 
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
