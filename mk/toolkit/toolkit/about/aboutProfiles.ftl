@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+profiles-title = За профилите
+profiles-create = Направи нов профил
+profiles-restart-title = Рестартирај
+profiles-restart-in-safe-mode = Рестартирај со исклучени додатоци…
+profiles-restart-normal = Рестартирај нормално…
+profiles-conflict = Друга копија на { -brand-product-name } направи промени во профилите. Мора да го рестартирате { -brand-short-name } пред да направите повеќе промени.
 profiles-flush-fail-title = Промените не се снимени
 # Variables:
 #   $name (String) - Name of the profile

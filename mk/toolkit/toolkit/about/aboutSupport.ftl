@@ -135,13 +135,28 @@ clear-type-parameters = Параметри за ClearType
 yes = Да
 no = Не
 unknown = Непознато
+virtual-monitor-disp = Приказ на виртуелен монитор
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+found = Најдено
+missing = Недостасува
+gpu-description = Опис
+gpu-vendor-id = ID на добавувач
+gpu-device-id = ID на уред
+gpu-ram = RAM
+gpu-active = Активен
+glcontext-crash-guard = OpenGL
+reset-on-next-restart = Ресетирај при следното рестартирање
+gpu-device-reset = Ресетирање на уредот
 min-lib-versions = Очекувана минимална верзија
 loaded-lib-versions = Верзија во употреба
+sandbox-proc-type-content = содржина
+sandbox-proc-type-file = содржина на датотека
+launcher-process-status-0 = Вклучено
+launcher-process-status-1 = Оневозможено поради неуспех
 launcher-process-status-2 = Присилно оневозможено
 launcher-process-status-unknown = Непознат статус
 # Variables

@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = За приклучоците
+installed-plugins-label = Инсталирани приклучоци
+no-plugins-are-installed-label = Не се пронајдени инсталирани приклучоци
+deprecation-description = Недостасуваш нешто? Некои приклучоци веќе не се поддржани. <a data-l10n-name="deprecation-link"> Дознајте повеќе. </a>
 
 ## The information of plugins
 ##
