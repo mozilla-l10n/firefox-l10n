@@ -13,6 +13,7 @@ customkeys-reset-all = Obnovit všechny zkratky na výchozí hodnoty
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Tato klávesa je již přiřazena k { $conflict }. Provést nahrazení?
 customkeys-reset-all-confirm = Opravdu chcete obnovit všechny klávesové zkratky na výchozí hodnoty?
+customkeys-file-duplicate-tab = Duplikovat panel
 customkeys-history-reopen-tab = Obnovit naposledy zavřený panel
 customkeys-history-reopen-window = Obnovit naposledy zavřené okno
 customkeys-sidebar-toggle = Přepnout postranní lištu

@@ -390,6 +390,7 @@ newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnovit výchozí nastavení
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Nahrát obrázek
+newtab-wallpaper-add-an-image = Přidat obrázek
 newtab-wallpaper-custom-color = Vybrat barvu
 newtab-wallpaper-toggle-title =
     .label = Tapety
@@ -417,6 +418,7 @@ newtab-wallpaper-light-fox-anniversary = Liška na louce se zamlženou horskou k
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jednobarevné
+newtab-wallpaper-colors = Barvy
 newtab-wallpaper-blue = Modrá
 newtab-wallpaper-light-blue = Světle modrá
 newtab-wallpaper-light-purple = Světle fialová
@@ -532,6 +534,8 @@ newtab-weather-opt-in-not-now =
     .label = Teď ne
 newtab-weather-opt-in-yes =
     .label = Ano
+newtab-weather-opt-in-use-location =
+    .label = Použít polohu
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
 # "Highest" here refers to the highest temperature of the day
