@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Επιλέξτε εάν θέλετε να λαμβάνετε ειδοποιήσεις από τον ιστότοπο
 urlbar-midi-notification-anchor =
     .tooltiptext = Άνοιγμα πίνακα MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Άνοιγμα πίνακα σειριακών συσκευών
 urlbar-eme-notification-anchor =
     .tooltiptext = Διαχείριση χρήσης λογισμικού DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά σε αυτόν τον ιστότοπο.
 urlbar-midi-blocked =
     .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI σε αυτόν τον ιστότοπο.
+urlbar-serial-blocked =
+    .tooltiptext = Έχετε αποκλείσει την πρόσβαση σειριακών θυρών για αυτόν τον ιστότοπο.
 urlbar-install-blocked =
     .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων σε αυτόν τον ιστότοπο.
 # Variables
@@ -645,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = Συνέχεια στην καρτέλα
 sharing-warning-disable-for-session =
     .label = Απενεργοποίηση προστασίας κοινής χρήσης για αυτήν τη συνεδρία
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Επιλογή σειριακής θύρας:
+webserial-no-ports-available = Καμία διαθέσιμη σειριακή θύρα
 
 ## DevTools F12 popup
 
