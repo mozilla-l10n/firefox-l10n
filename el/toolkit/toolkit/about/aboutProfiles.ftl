@@ -25,7 +25,7 @@ profiles-rootdir = Κατάλογος ρίζας
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Τοπικός κατάλογος
-profiles-current-profile = Αυτό το προφίλ είναι σε λειτουργία και δεν μπορεί να διαγραφεί.
+profiles-current-profile = Αυτό το προφίλ χρησιμοποιείται και δεν μπορεί να διαγραφεί.
 profiles-in-use-profile = Αυτό το προφίλ χρησιμοποιείται σε άλλη εφαρμογή και δεν μπορεί να διαγραφεί.
 profiles-cannot-delete-profile = Δεν είναι δυνατή η διαγραφή ενός προφίλ που είναι συνδεδεμένο με άλλα προφίλ.
 profiles-rename = Μετονομασία
