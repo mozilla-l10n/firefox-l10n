@@ -32,7 +32,7 @@ default-browser-guidance-notification-title = Voltooi het instellen van { -brand
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win10 =
     Stap 1: ga naar Instellingen > Standaardapps
-    Stap 2: scroll omlaag naar ‘Webbrowser’
+    Stap 2: scrol omlaag naar ‘Webbrowser’
     Stap 3: selecteer en kies { -brand-short-name }
 # Quoted text are keywords to look for in the Windows Settings app.
 default-browser-guidance-notification-body-instruction-win11 =
