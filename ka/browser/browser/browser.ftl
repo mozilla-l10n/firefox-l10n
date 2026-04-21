@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = აირჩიეთ, მიიღოთ თუ არა შეტყობინებები ამ საიტისგან
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI-არეს გახსნა
+urlbar-serial-notification-anchor =
+    .tooltiptext = გახსენით მიმდევრობითი შეერთების არე
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM-პროგრამით სარგებლობის გამართვა
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = ამ საიტისთვის, გრაფიკის გამოსახვის მონაცემებთან წვდომის უფლება შეზღუდული გაქვთ.
 urlbar-midi-blocked =
     .tooltiptext = ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.
+urlbar-serial-blocked =
+    .tooltiptext = ამ საიტისთვის მიმდევრობით საერთებელთან წვდომის უფლება შეზღუდული გაქვთ.
 urlbar-install-blocked =
     .tooltiptext = ამ საიტისთვის დამატების ჩადგმის უფლება შეზღუდული გაქვთ.
 # Variables
@@ -646,6 +650,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ამ სეანსზე გაზიარების დაცვის გამორთვა
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = მიმდევრობითი საერთებლის არჩევა:
+webserial-no-ports-available = მიმდევრობითი საერთებლები მიუწვდომელია
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = F12 მალსახმობის გამოსაყენებლად ჯერ გახსენით DevTools ბრაუზერის ხელსაწყობის მენიუდან.
@@ -1003,6 +1012,7 @@ urlbar-searchmode-popup-one-off-header = ძიებისთვის ამ�
 # reset after submitting.
 urlbar-searchmode-popup-header = ძიება სისტემით:
 urlbar-searchmode-popup-search-settings-panelitem = ძიების პარამეტრები
+urlbar-searchmode-popup-settings-panelitem = პარამეტრები
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1091,6 +1101,9 @@ fullscreen-warning-no-domain = დოკუმენტი სრულ ეკ�
 fullscreen-exit-button = სრული ეკრანიდან გამოსვლა (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = სრული ეკრანიდან გამოსვლა (esc)
+fullscreen-keyboardlock-exit-button = სრული ეკრანიდან გამოსვლა (დააჭირეთ და დააყოვნეთ Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = სრული ეკრანიდან გამოსვლა (დააჭირეთ და დააყოვნეთ esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
