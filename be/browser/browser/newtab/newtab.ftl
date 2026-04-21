@@ -528,6 +528,7 @@ newtab-weather-opt-in-not-now =
     .label = Не зараз
 newtab-weather-opt-in-yes =
     .label = Так
+newtab-weather-opt-in-headline = Атрымайце мясцовы прагноз надвор'я
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Нью-Ёрк
 # "Highest" here refers to the highest temperature of the day
