@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Controlli IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Accessibilità
+    .title = { pane-accessibility-title }
 pane-experimental-title = Esperimenti di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperimenti di { -brand-short-name }
@@ -750,6 +752,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Utilizza lo scorrimento automatico
     .accesskey = s
+keyboard-and-scrolling-group =
+    .label = Navigazione e scorrimento da tastiera
+motion-and-link-group =
+    .label = Animazioni e stile dei link
 browsing-use-smooth-scrolling =
     .label = Utilizza lo scorrimento fluido
     .accesskey = a
@@ -791,6 +797,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Ulteriori informazioni
 browsing-group =
     .label = Navigazione
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accessibilità
+preferences-default-zoom-select =
+    .aria-label = Ingrandimento predefinito
+preferences-fonts-family =
+    .label = Famiglia di caratteri
+    .accesskey = m
+preferences-fonts-size =
+    .label = Dimensione carattere
+    .accesskey = c
+preferences-fonts-advanced-settings =
+    .label = Impostazioni avanzate
+    .accesskey = z
 
 ## General Section - Proxy
 

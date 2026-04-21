@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Condividi
     .tooltiptext = Condividi questa pagina
+toolbar-button-tab-groups =
+    .label = Gruppi di schede
+    .tooltiptext = Visualizza i gruppi di schede
 
 ## EME notification panel
 
@@ -1672,6 +1675,11 @@ trustpanel-fingerprinter-list-header = Questi siti stanno cercando di acquisire 
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ha bloccato { $count } cryptominer
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ha consentito { $count } cryptominer
 trustpanel-cryptominer-tab-list-header = Questi siti stanno tentando di effettuare cryptomining:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Hai un account su questo sito?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } ha rilevato una violazione di dati in questo sito negli ultimi 12 mesi. Verifica se sei stato coinvolto.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Chiudi
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Avvia scansione gratuita
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> elemento tracciante bloccato in questo sito
