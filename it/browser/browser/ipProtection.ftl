@@ -25,13 +25,14 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Scopri la VPN, ora disponibile direttamente nel tuo browser.
 ipprotection-feature-introduction-link-text-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati.
-# Used for callout in private browsing as well as users who expressed interest in privacy in onboarding
+# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aggiungi un ulteriore livello di privacy
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrata di { -brand-product-name }</a> contribuisce a proteggere la tua navigazione. Scegli tra 5 posizioni per rendere più riservata la tua attività online.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati, anche quando ti trovi in una finestra anonima
 ipprotection-feature-introduction-description-private-browsing = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi una finestra anonima.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Sei su una rete Wi-Fi pubblica? Prova la VPN integrata di { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Ottieni <a data-l10n-name="learn-more-vpn">maggiore privacy</a> scegliendo tra 5 posizioni per nascondere da dove ti connetti.
 ipprotection-feature-introduction-description-captive-portal = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi reti Wi-Fi pubbliche.
 ipprotection-feature-introduction-button-primary = Successivo
@@ -54,6 +55,7 @@ ipprotection-location-selection-callout-secondary-button = Ignora
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Prova la VPN integrata in { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Nascondi la tua posizione</a> mentre navighi in { -brand-product-name }.
 unauthenticated-private-location-message = Aiuta a <a data-l10n-name="learn-more-vpn">mantenere la tua posizione privata</a> in { -brand-product-name }.

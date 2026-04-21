@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Zoom
 preferences-default-zoom-label =
     .label = Ingrandimento predefinito
-    .accesskey = n
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Ingrandimento predefinito
@@ -743,7 +742,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Prestazioni
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navigazione
 browsing-group-label =
