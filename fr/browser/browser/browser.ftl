@@ -1239,10 +1239,10 @@ qrcode-save-error =
 qrcode-save-title = Enregistrer le code QR
 qrcode-save-filter-png = Image PNG
 qrcode-save-filename = codeqr.png
-qrcode-window-title = QR code
-qrcode-dialog-title = QR code
+qrcode-window-title = Code QR
+qrcode-dialog-title = Code QR
 qrcode-image =
-    .aria-label = QR code
+    .aria-label = Code QR
 qrcode-close-button =
     .aria-label = Fermer
 # Variables:
