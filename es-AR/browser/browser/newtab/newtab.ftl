@@ -525,6 +525,7 @@ newtab-weather-opt-in-not-now =
     .label = No ahora
 newtab-weather-opt-in-yes =
     .label = Sí
+newtab-weather-opt-in-headline = Reciba el pronóstico del tiempo local
 newtab-weather-opt-in-use-location =
     .label = Usar ubicación
 newtab-weather-opt-in-choose-location = Elegir ubicación
