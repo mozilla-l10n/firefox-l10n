@@ -443,5 +443,10 @@ set-default-menu-message-primary-button-variant = 기본 브라우저로 설정
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 이메일 가리기 50개 무료
+relay-50-masks-announcement-subtitle = 이제 50개의 무료 이메일 가리기가 제공됩니다 (기존 5개). 계정마다 하나씩 사용하여 실제 이메일 주소를 안전하게 보호하세요.
+relay-50-masks-announcement-primary-button = { -relay-brand-name }로 이동
+    .accesskey = G
 relay-50-masks-announcement-secondary-button = 닫기
     .accesskey = D
