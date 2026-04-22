@@ -56,6 +56,9 @@ category-home =
 pane-search-title = חיפוש
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = פרטיות ואבטחה
+pane-privacy-section =
+    .heading = פרטיות ואבטחה
 pane-privacy-title = פרטיות ואבטחה
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = ביצועים
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = דפדוף
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = מידע נוסף
 browsing-group =
     .label = דפדוף
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2373,6 +2379,9 @@ preferences-doh-custom-provider-label =
     .aria-label = נא להכניס כתובת ספק מותאם אישית
 preferences-doh-header2 =
     .heading = ‏DNS על גבי HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
