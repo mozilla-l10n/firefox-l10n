@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Dela
     .tooltiptext = Dela den här sidan
+toolbar-button-tab-groups =
+    .label = Flikgrupper
+    .tooltiptext = Visa dina flikgrupper
 
 ## EME notification panel
 
@@ -1445,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Avsluta privat session
     .tooltiptext = Avsluta privat session
+reset-pbm-panel-heading2 = Rensa data och starta en ny privat session?
+reset-pbm-panel-description2 = Detta raderar historik, kakor och all annan webbplatsdata utan att stänga ditt privata fönster.
 reset-pbm-panel-heading = Vill du avsluta din privata session?
 reset-pbm-panel-description = Stäng alla privata flikar och ta bort historik, kakor och all annan webbplatsdata.
 reset-pbm-panel-always-ask-checkbox =
@@ -1453,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Avbryt
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Rensa privat session
+    .accesskey = R
 reset-pbm-panel-confirm-button =
     .label = Ta bort sessionsdata
     .accesskey = T
@@ -1698,8 +1706,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } tillät { $count } kryptogrävare
     }
 trustpanel-cryptominer-tab-list-header = Dessa webbplatser försöker kryptominera:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Har du ett konto på denna sida?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } upptäckte att den här webbplatsen hade ett dataintrång under de senaste 12 månaderna. Ta reda på om du drabbades.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorera
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Starta gratis skanning
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> spårare blockerad på den här webbplatsen
        *[other] <span data-l10n-name="count">{ $count }</span> spårare blockerade på den här webbplatsen
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Webbplatsen ser trasig ut?</strong> Ladda om sidan för att tillfälligt sänka ditt spårningsskydd.
+reduced-protection-infobar-reload-button = Uppdatera
+    .accesskey = U

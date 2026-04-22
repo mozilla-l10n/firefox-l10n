@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Personnalisez votre navigation
 experimental-features-group-productivity =
     .label = Productivité
+experimental-features-group-newtab-widgets =
+    .label = Widgets sur { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Mots de passe dans le panneau latéral
@@ -64,15 +66,31 @@ experimental-features-fx-web-apps-description = Ouvrez les sites que vous visite
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listes sur la { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listes
 experimental-features-newtab-widget-lists-description = Gardez votre liste de tâches en tête lorsque vous ouvrez un nouvel onglet. Qu’il s’agisse de listes pour faire vos valises ou faire les courses, concrétisez vos projets dans { -brand-product-name }. <a data-l10n-name="connect">Donnez votre avis</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Minuteur sur la { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Minuteur
 experimental-features-newtab-widget-timer-description = Réglez un minuteur pour maintenir votre concentration, vous encourager à ne pas vous égarer, ou vous rappeler de faire une pause. <a data-l10n-name="connect">Donnez votre avis</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listes et minuteur sur la { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Gardez votre liste de tâches en tête lorsque vous ouvrez un nouvel onglet. Qu’il s’agisse de listes pour faire vos valises ou faire les courses, concrétisez vos projets dans { -brand-product-name }. Réglez un minuteur pour maintenir votre concentration, vous encourager à ne pas vous égarer, ou vous rappeler de faire une pause. <a data-l10n-name="connect">Donnez votre avis</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = prévisions météo
+experimental-features-newtab-widget-weather-description = Visionnez la météo du jour avec les prévisions horaires. <a data-l10n-name="connect">Partagez vos commentaires</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = La photo du jour
+experimental-features-newtab-widget-picture-of-the-day-description = Ajoutez une petite merveille du quotidien à votre journée. Prenez une nouvelle photo, apprenez des choses intéressantes et créez un nouveau fond d’écran en un clin d’œil. <a data-l10n-name="connect">Partagez vos commentaires</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Horloges
+experimental-features-newtab-widget-clocks-description = Ajoutez jusqu’à quatre horloges avec des pseudonymes personnalisés pour conserver l’heure des endroits qui comptent pour vous. <a data-l10n-name="connect">Partagez vos commentaires</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Recherche sémantique dans l’historique

@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Anpassa din surfning
 experimental-features-group-productivity =
     .label = Produktivitet
+experimental-features-group-newtab-widgets =
+    .label = Widgetar för { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Lösenord i sidofältet
@@ -64,15 +66,31 @@ experimental-features-fx-web-apps-description = Öppna webbplatser du ofta besö
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listor på { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listor
 experimental-features-newtab-widget-lists-description = Ha din att-göra-lista i åtanke när du öppnar en ny flik. Från packlistor till shoppinglistor, gör dina planer i { -brand-product-name }. <a data-l10n-name="connect">Dela feedback</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Timer på { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Timer
 experimental-features-newtab-widget-timer-description = Ställ in en timer för att hålla dig fokuserad, peppa dig att hålla dig på rätt spår eller påminna dig om att ladda batterierna. <a data-l10n-name="connect">Dela feedback</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listor och timer på { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Ha din att-göra-lista i åtanke när du öppnar en ny flik. Från packlistor till shoppinglistor, gör dina planer i { -brand-product-name }. Ställ in en timer för att hålla dig fokuserad, peppa dig att hålla dig på rätt spår eller påminna dig om att ladda batterierna. <a data-l10n-name="connect">Dela feedback</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Väderprognoser
+experimental-features-newtab-widget-weather-description = Få en klar bild över dagens väder med prognoser per timme. <a data-l10n-name="connect">Dela feedback</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Dagens bild
+experimental-features-newtab-widget-picture-of-the-day-description = Lägg till lite dagligt under till din dag. Få en ny bild, lär dig något intressant och sätt en ny bakgrundsbild på ett kick. <a data-l10n-name="connect">Dela feedback</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Klockor
+experimental-features-newtab-widget-clocks-description = Lägg till upp till fyra klockor med egna smeknamn för att hålla tiden på platser som är viktiga för dig. <a data-l10n-name="connect">Dela feedback</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historiksökning

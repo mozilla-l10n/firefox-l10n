@@ -152,6 +152,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Anslut din telefon
 tab-context-send-to-mobile-device-missing =
     .label = Hittar du inte din enhet?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Skapa delbar länk
+    .accesskey = S
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

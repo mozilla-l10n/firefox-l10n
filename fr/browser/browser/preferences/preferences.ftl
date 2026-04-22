@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Contrôles de l’IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Accessibilité
+    .title = { pane-accessibility-title }
 pane-experimental-title = Expériences de { -brand-short-name }
 category-experimental =
     .tooltiptext = Expériences de { -brand-short-name }
@@ -750,6 +752,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Utiliser le défilement automatique
     .accesskey = U
+keyboard-and-scrolling-group =
+    .label = Navigation et défilement au clavier
+motion-and-link-group =
+    .label = Styles pour les liens et les animations
 browsing-use-smooth-scrolling =
     .label = Utiliser le défilement doux
     .accesskey = s
@@ -791,6 +797,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = En savoir plus
 browsing-group =
     .label = Navigation
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accessibilité
+preferences-default-zoom-select =
+    .aria-label = Zoom par défaut
+preferences-fonts-family =
+    .label = Famille de police
+    .accesskey = F
+preferences-fonts-size =
+    .label = Taille de police
+    .accesskey = T
+preferences-fonts-advanced-settings =
+    .label = Paramètres avancés
+    .accesskey = P
 
 ## General Section - Proxy
 
@@ -1095,6 +1117,7 @@ search-edit-engine =
     .label = Modifier
     .accesskey = M
 search-find-more-link = Découvrir d’autres moteurs de recherche
+search-filtering-for-add-engine = Ajouter un moteur
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Doublon de mot-clé
@@ -2124,6 +2147,12 @@ collection-backlogged-crash-reports2 =
     .label = Envoyer automatiquement les rapports de plantage
     .accesskey = E
 collection-backlogged-crash-reports-description = Les rapports de plantage permettent à { -vendor-short-name } de diagnostiquer et de corriger des problèmes avec le navigateur. Les rapports peuvent contenir des données personnelles ou sensibles.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Mêmes paramètres, nouveau look !
+    .message = Nous avons réorganisé cette page pour qu’elle soit plus facile à scanner et à explorer. Vos paramètres personnels n’ont pas changé et tout est toujours là. Astuce : utilisez la recherche pour trouver directement ce dont vous avez besoin.
+settings-redesign-promo-dismiss-button =
+    .label = J’ai compris
 addon-recommendations =
     .label = Autoriser { -brand-short-name } à effectuer des recommandations personnalisées d’extensions
 addon-recommendations-link = En savoir plus
@@ -2379,6 +2408,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Saisissez l’URL d’un fournisseur personnalisé
 preferences-doh-header2 =
     .heading = DNS via HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Sécurité logicielle et des connexions
+preferences-connection-link-section =
+    .label = Sécurité logicielle et des connexions
+    .description = Découvrez comment les connexions restent sécurisées, les logiciels dangereux sont bloqués et les sites web sont vérifiés.
+preferences-connection-link-button =
+    .label = Paramètres avancés
 
 ## The following strings are used in the Download section of settings
 

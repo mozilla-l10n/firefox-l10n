@@ -268,3 +268,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Systemet med bokmärken och historik kommer inte att fungera eftersom en av { -brand-short-name } filer används av ett annat program. Vissa säkerhetsprogram kan orsaka detta problem.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Dela mapp

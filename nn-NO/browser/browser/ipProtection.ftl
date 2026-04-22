@@ -38,6 +38,11 @@ ipprotection-site-settings-callout-title = Vel kvar du brukar VPN
 ipprotection-site-settings-callout-subtitle = Slå av VPN for ein viss nettstad, så hugsar vi det neste gong du besøkjer det.
 ipprotection-site-settings-callout-button = Eg forstår
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Prøv det
+ipprotection-location-selection-callout-secondary-button = Ignorer
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -72,6 +77,18 @@ ipprotection-button-turn-vpn-off-excluded-site = Slå av VPN overalt
 ipprotection-button-turn-vpn-on = Slå på VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Slår på…
+
+## Location controls
+
+ipprotection-recommended-location-badge = NY
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Plassering: { $country }
+ipprotection-locations-subview =
+    .title = Vel plassering
+ipprotection-locations-subview-description = Vel ei anna plassering å surfe frå.
+ipprotecion-locations-subview-recommended-label = Tilrådd
+ipprotection-locations-subview-recommended-description = Finn den raskaste plasseringa
 
 ## VPN paused state
 

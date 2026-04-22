@@ -1266,6 +1266,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Partager
     .tooltiptext = Partager cette page
+toolbar-button-tab-groups =
+    .label = Groupes d’onglets
+    .tooltiptext = Afficher les groupes d’onglets
 
 ## EME notification panel
 
@@ -1448,6 +1451,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Mettre fin à la session privée
     .tooltiptext = Mettre fin à la session privée
+reset-pbm-panel-heading2 = Effacer les données et redémarrer une nouvelle session privée ?
+reset-pbm-panel-description2 = Cette action supprime l’historique, les cookies et toutes les autres données de site sans fermer votre fenêtre de navigation privée.
 reset-pbm-panel-heading = Mettre fin à votre session privée ?
 reset-pbm-panel-description = Fermer tous les onglets privés et supprimer l’historique, les cookies et toutes les autres données des sites.
 reset-pbm-panel-always-ask-checkbox =
@@ -1456,6 +1461,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Annuler
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Effacer la session privée
+    .accesskey = E
 reset-pbm-panel-confirm-button =
     .label = Supprimer les données de la session
     .accesskey = S
@@ -1698,8 +1706,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } a autorisé { $count } mineurs de cryptomonnaies
     }
 trustpanel-cryptominer-tab-list-header = Ces sites tentent de miner des cryptomonnaies :
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Disposez-vous d’un compte sur ce site ?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } a découvert qu’il y avait une fuite de données sur ce site au cours des 12 derniers mois. Découvrez si vous avez été affecté.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorer
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Lancer le scan gratuit
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> traqueur bloqué sur ce site
        *[other] <span data-l10n-name="count">{ $count }</span> traqueurs bloqués sur ce site
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Le site ne semble pas fonctionner correctement ?</strong> Actualisez la page pour abaisser temporairement votre protection contre le pistage.
+reduced-protection-infobar-reload-button = Actualiser
+    .accesskey = A

@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI-kontroller
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Tillgänglighet
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } Experiment
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiment
@@ -750,6 +752,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Använd autorullning
     .accesskey = n
+keyboard-and-scrolling-group =
+    .label = Tangentbordsnavigering och rullning
+motion-and-link-group =
+    .label = Rörelse- och länkstyling
 browsing-use-smooth-scrolling =
     .label = Använd mjuk rullning
     .accesskey = m
@@ -791,6 +797,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Läs mer
 browsing-group =
     .label = Webbläsning
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Tillgänglighet
+preferences-default-zoom-select =
+    .aria-label = Standardzoom
+preferences-fonts-family =
+    .label = Teckensnittsfamilj
+    .accesskey = T
+preferences-fonts-size =
+    .label = Textstorlek
+    .accesskey = T
+preferences-fonts-advanced-settings =
+    .label = Avancerade inställningar
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1095,6 +1117,7 @@ search-edit-engine =
     .label = Redigera
     .accesskey = R
 search-find-more-link = Hitta fler sökmotorer
+search-filtering-for-add-engine = Lägg till sökmotor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicera nyckelord
@@ -2124,6 +2147,12 @@ collection-backlogged-crash-reports2 =
     .label = Skicka automatiskt kraschrapporter
     .accesskey = k
 collection-backlogged-crash-reports-description = Det här hjälper { -vendor-short-name } att diagnostisera och lösa problem med webbläsaren. Rapporter kan innehålla personliga eller känsliga uppgifter.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Samma inställningar, nytt utseende!
+    .message = Vi omorganiserade den här sidan så att den är enklare att skanna och utforska. Dina personliga inställningar har inte ändrats och allt är fortfarande här. Tips: använd sökfunktionen för att hoppa direkt till det du behöver.
+settings-redesign-promo-dismiss-button =
+    .label = Jag förstår
 addon-recommendations =
     .label = Tillåt { -brand-short-name } att göra personliga tilläggsrekommendationer
 addon-recommendations-link = Läs mer
@@ -2379,6 +2408,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Ange en anpassad leverantörsadress
 preferences-doh-header2 =
     .heading = DNS över HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Anslutningar och programsäkerhet
+preferences-connection-link-section =
+    .label = Anslutningar och programsäkerhet
+    .description = Se hur anslutningar förblir säkra, skadlig programvara blockeras och webbplatser verifieras.
+preferences-connection-link-button =
+    .label = Avancerade inställningar
 
 ## The following strings are used in the Download section of settings
 

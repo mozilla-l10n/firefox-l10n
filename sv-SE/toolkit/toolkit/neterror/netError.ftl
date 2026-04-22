@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> skickade till
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Servern på <strong>{ $hostname }</strong> skickade tillbaka ett fel: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> skickade tillbaka ett huvud med tomma tecken som inte tillåts av webbsäkerhetsstandarder.
+fp-neterror-content-encoding-intro = Sidan kan inte visas eftersom den använder en typ av komprimering som är ogiltig eller som inte stöds.
 fp-neterror-coop-coep-intro = { -brand-short-name } laddade inte den här sidan eftersom det ser ut som att säkerhetskonfigurationen inte matchar föregående sida.
 fp-neterror-blocked-by-policy-intro = Din organisation har blockerat åtkomst till den här sidan eller webbplatsen.
 fp-neterror-http-auth-disabled-intro = Någon som utger sig för att vara webbplatsen kan försöka stjäla saker som ditt användarnamn, lösenord eller e-postadress.

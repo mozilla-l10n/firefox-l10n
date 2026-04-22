@@ -792,6 +792,13 @@ browsing-cfr-recommendations-learn-more = Les meir
 browsing-group =
     .label = Nettlesing
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Tilgjenge
+preferences-default-zoom-select =
+    .aria-label = Standardskalering
+
 ## General Section - Proxy
 
 network-settings-title = Nettverksinnstillingar
@@ -1095,6 +1102,7 @@ search-edit-engine =
     .label = Rediger
     .accesskey = R
 search-find-more-link = Finn fleire søkjemotorar
+search-filtering-for-add-engine = Legg til søkjemotor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Kopiere stikkord
@@ -2124,6 +2132,8 @@ collection-backlogged-crash-reports2 =
     .label = Send inn krasjrapportar automatisk
     .accesskey = k
 collection-backlogged-crash-reports-description = Dette hjelper { -vendor-short-name } med å diagnostisere og løyse problem med nettlesaren. Rapportar kan innehalde personlege eller sensitive data.
+settings-redesign-promo-dismiss-button =
+    .label = Eg forstår
 addon-recommendations =
     .label = Tillat { -brand-short-name } å kome med tilpassa utvidingstilrådingar
 addon-recommendations-link = Les meir
@@ -2379,6 +2389,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Skriv inn ein eigendefinert leverandør-URL
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Avanserte innstillingar
 
 ## The following strings are used in the Download section of settings
 

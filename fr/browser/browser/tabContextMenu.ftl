@@ -152,6 +152,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Connectez votre téléphone
 tab-context-send-to-mobile-device-missing =
     .label = Vous ne voyez pas votre appareil ?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Créer un lien partageable
+    .accesskey = C
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

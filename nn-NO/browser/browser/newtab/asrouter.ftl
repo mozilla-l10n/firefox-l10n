@@ -442,3 +442,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Vel som standard
 set-default-menu-message-primary-button-variant = Vel som primærnettlesar
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-primary-button = Gå til { -relay-brand-name }
+    .accesskey = G

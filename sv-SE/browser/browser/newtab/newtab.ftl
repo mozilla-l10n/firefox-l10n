@@ -589,8 +589,16 @@ newtab-topic-selection-button-pick-interests = Välj dina intressen
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Följ
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Följ { $topic }
 newtab-section-following-button = Följer
 newtab-section-unfollow-button = Sluta följa
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Följer: Sluta följa { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Finjustera ditt flöde
 newtab-section-follow-highlight-subtitle = Följ dina intressen för att se mer av vad du gillar.
@@ -632,6 +640,12 @@ newtab-custom-wallpaper-cta = Prova den
 newtab-new-user-custom-wallpaper-title = Välj en bakgrundsbild för att göra { -brand-product-name } till din
 newtab-new-user-custom-wallpaper-subtitle = Få varje ny flik att kännas som hemma med anpassade bakgrunder och färger.
 newtab-new-user-custom-wallpaper-cta = Prova det nu
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Färska nya bakgrundsbilder precis landat
+newtab-wallpaper-feature-highlight-subtitle = Välj din favorit och gör att varje ny flik känns som hemma.
+newtab-wallpaper-feature-highlight-cta = Välj bakgrundsbild
 
 ## Strings for download mobile highlight
 
@@ -720,8 +734,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Skapa en ny lista
 newtab-widget-lists-name-label-default =
     .label = Uppgiftslista
+newtab-widget-lists-name-label-checklist =
+    .label = Checklista
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Uppgiftslista
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Checklista
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny lista
@@ -741,7 +759,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimera widgets
     .aria-label = Komprimera alla widgetar till kompakt storlek
+newtab-widget-section-menu-button =
+    .title = Menyn för widgets
+    .aria-label = Öppna widgetmenyn
+newtab-widget-section-menu-hide-all = Dölj widgetar
+newtab-widget-section-menu-learn-more = Läs mer
 newtab-widget-section-feedback = Berätta vad du tycker
+newtab-widget-lists-name-default = Checklista
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
