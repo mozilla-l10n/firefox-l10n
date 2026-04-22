@@ -411,8 +411,6 @@ advanced-fonts =
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header2 =
     .label = Zoom
-preferences-default-zoom-label =
-    .label = Ingrandimento predefinito
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Ingrandimento predefinito
