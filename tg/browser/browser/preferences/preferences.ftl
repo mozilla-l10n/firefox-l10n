@@ -404,6 +404,7 @@ preferences-zoom-header2 =
     .label = Танзими андоза
 preferences-default-zoom-label =
     .label = Андозаи пешфарз
+    .accesskey = А
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Танзими андоза
 preferences-default-zoom = Андозаи пешфарз

@@ -372,6 +372,7 @@ preferences-zoom-header2 =
     .label = Դիտափոխել
 preferences-default-zoom-label =
     .label = Սկզբնադիր դիտափոխում
+    .accesskey = դ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Դիտափոխել
 preferences-default-zoom = Սկզբնադիր դիտափոխում

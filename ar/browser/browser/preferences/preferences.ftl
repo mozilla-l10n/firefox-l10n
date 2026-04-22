@@ -401,6 +401,7 @@ preferences-zoom-header2 =
     .label = التقريب
 preferences-default-zoom-label =
     .label = التقريب المبدئي
+    .accesskey = ق
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = التقريب
 preferences-default-zoom = التقريب المبدئي

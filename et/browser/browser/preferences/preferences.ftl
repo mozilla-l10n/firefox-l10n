@@ -262,6 +262,7 @@ preferences-zoom-header2 =
     .label = Suurendamine
 preferences-default-zoom-label =
     .label = Vaikimisi suurendamine
+    .accesskey = u
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Suurendamine
 preferences-default-zoom = Vaikimisi suurendamine

@@ -274,6 +274,7 @@ preferences-zoom-header2 =
     .label = ᱡᱩᱢ
 preferences-default-zoom-label =
     .label = ᱢᱩᱞ ᱡᱩᱢ
+    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ᱡᱩᱢ
 preferences-default-zoom = ᱢᱩᱞ ᱡᱩᱢ

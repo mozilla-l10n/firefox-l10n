@@ -411,6 +411,7 @@ preferences-zoom-header2 =
     .label = Skalering
 preferences-default-zoom-label =
     .label = Standardskalering
+    .accesskey = s
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Skalering
 preferences-default-zoom = Standardskalering

@@ -350,6 +350,7 @@ preferences-zoom-header2 =
     .label = Мащабиране
 preferences-default-zoom-label =
     .label = Мащабиране по подразбиране
+    .accesskey = м
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Мащабиране
 preferences-default-zoom = Мащабиране по подразбиране

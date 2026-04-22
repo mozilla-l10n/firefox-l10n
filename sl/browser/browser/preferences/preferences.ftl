@@ -413,6 +413,7 @@ preferences-zoom-header2 =
     .label = Povečava
 preferences-default-zoom-label =
     .label = Privzeta povečava
+    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Povečava
 preferences-default-zoom = Privzeta povečava

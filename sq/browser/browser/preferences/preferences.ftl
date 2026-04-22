@@ -411,6 +411,7 @@ preferences-zoom-header2 =
     .label = Zmadhim/Zvogëlim
 preferences-default-zoom-label =
     .label = Zoom parazgjedhje
+    .accesskey = Z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zmadhim/Zvogëlim
 preferences-default-zoom = Zoom parazgjedhje

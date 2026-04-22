@@ -258,6 +258,7 @@ preferences-zoom-header2 =
     .label = Խոշորացում
 preferences-default-zoom-label =
     .label = Սկզբնադիր խոշորացում
+    .accesskey = խ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Խոշորացում
 preferences-default-zoom = Սկզբնադիր խոշորացում

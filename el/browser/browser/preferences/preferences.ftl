@@ -413,6 +413,7 @@ preferences-zoom-header2 =
     .label = Ζουμ
 preferences-default-zoom-label =
     .label = Προεπιλεγμένο ζουμ
+    .accesskey = ζ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Ζουμ
 preferences-default-zoom = Προεπιλεγμένο ζουμ

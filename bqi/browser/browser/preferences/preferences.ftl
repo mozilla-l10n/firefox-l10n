@@ -252,6 +252,7 @@ preferences-zoom-header2 =
     .label = گپ نمایی
 preferences-default-zoom-label =
     .label = گپ نمایی پؽش فرز
+    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = گپ نمایی
 preferences-default-zoom = گپ نمایی پؽش فرز

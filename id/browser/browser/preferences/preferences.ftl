@@ -338,6 +338,7 @@ preferences-zoom-header2 =
     .label = Perbesaran
 preferences-default-zoom-label =
     .label = Perbesaran baku
+    .accesskey = P
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Perbesaran
 preferences-default-zoom = Perbesaran baku

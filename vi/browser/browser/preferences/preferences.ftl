@@ -399,6 +399,7 @@ preferences-zoom-header2 =
     .label = Thu phóng
 preferences-default-zoom-label =
     .label = Thu phóng mặc định
+    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Thu phóng
 preferences-default-zoom = Thu phóng mặc định

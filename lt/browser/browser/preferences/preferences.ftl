@@ -269,6 +269,7 @@ preferences-zoom-header2 =
     .label = Dydis
 preferences-default-zoom-label =
     .label = Numatytasis dydis
+    .accesskey = d
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Dydis
 preferences-default-zoom = Numatytasis dydis

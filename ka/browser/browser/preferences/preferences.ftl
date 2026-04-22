@@ -411,6 +411,7 @@ preferences-zoom-header2 =
     .label = ზომა
 preferences-default-zoom-label =
     .label = ნაგულისხმევი ზომა
+    .accesskey = ზ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ზომა
 preferences-default-zoom = ნაგულისხმევი ზომა

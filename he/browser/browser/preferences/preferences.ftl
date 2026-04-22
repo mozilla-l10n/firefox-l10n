@@ -411,6 +411,7 @@ preferences-zoom-header2 =
     .label = מרחק מתצוגה
 preferences-default-zoom-label =
     .label = מרחק מתצוגה ברירת מחדל
+    .accesskey = ת
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = מרחק מתצוגה
 preferences-default-zoom = מרחק מתצוגה ברירת מחדל

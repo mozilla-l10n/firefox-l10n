@@ -414,6 +414,7 @@ preferences-zoom-header2 =
     .label = Veľkosť stránky
 preferences-default-zoom-label =
     .label = Predvolená veľkosť
+    .accesskey = d
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Veľkosť stránky
 preferences-default-zoom = Predvolená veľkosť

@@ -414,6 +414,7 @@ preferences-zoom-header2 =
     .label = Масштаб
 preferences-default-zoom-label =
     .label = Масштаб по умолчанию
+    .accesskey = ш
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Масштаб
 preferences-default-zoom = Масштаб по умолчанию

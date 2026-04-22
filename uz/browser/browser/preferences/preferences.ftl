@@ -153,6 +153,7 @@ preferences-zoom-header2 =
     .label = Masshtab
 preferences-default-zoom-label =
     .label = Standart masshtab
+    .accesskey = S
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Masshtab
 preferences-default-zoom = Standart masshtab

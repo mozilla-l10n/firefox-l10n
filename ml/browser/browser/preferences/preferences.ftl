@@ -224,6 +224,7 @@ preferences-zoom-header2 =
     .label = വലുതാക്കുക
 preferences-default-zoom-label =
     .label = തനതായ വലുപ്പളവു്
+    .accesskey = വ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = വലുതാക്കുക
 preferences-default-zoom = തനതായ വലുപ്പളവു്
