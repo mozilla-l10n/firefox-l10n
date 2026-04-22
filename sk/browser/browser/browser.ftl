@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Zmení, či môžete zo stránky prijímať upozornenia
 urlbar-midi-notification-anchor =
     .tooltiptext = Otvoriť MIDI panel
+urlbar-serial-notification-anchor =
+    .tooltiptext = Otvoriť panel Sériové
 urlbar-eme-notification-anchor =
     .tooltiptext = Spravovať používanie softvéru DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Tejto stránke ste zakázali prístup k údajom canvasu.
 urlbar-midi-blocked =
     .tooltiptext = Tejto stránke ste zakázali prístup k MIDI.
+urlbar-serial-blocked =
+    .tooltiptext = Tejto stránke ste zablokovali prístup k sériovému portu.
 urlbar-install-blocked =
     .tooltiptext = Tejto stránke ste zakázali inštaláciu doplnkov.
 # Variables
@@ -653,6 +657,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Vypnúť ochranu zdieľania pre túto reláciu
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Vyberte sériový port:
+webserial-no-ports-available = Nie sú k dispozícii žiadne sériové porty
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Ak chcete použiť skratku F12, najprv otvorte Nástroje pre vývojárov webu cez ponuku Nástroje prehliadača.
@@ -1016,6 +1025,7 @@ urlbar-searchmode-popup-one-off-header = Tentoraz vyhľadať pomocou:
 # reset after submitting.
 urlbar-searchmode-popup-header = Vyhľadávať pomocou:
 urlbar-searchmode-popup-search-settings-panelitem = Nastavenia vyhľadávania
+urlbar-searchmode-popup-settings-panelitem = Nastavenia
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1104,6 +1114,9 @@ fullscreen-warning-no-domain = Tento dokument je teraz v režime celej obrazovky
 fullscreen-exit-button = Ukončiť režim celej obrazovky (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ukončiť režim celej obrazovky (esc)
+fullscreen-keyboardlock-exit-button = Ukončiť režim celej obrazovky (stlačte a podržte Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Ukončiť režim celej obrazovky (stlačte a podržte Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1263,6 +1276,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Zdieľať
     .tooltiptext = Zdieľať túto stránku
+toolbar-button-tab-groups =
+    .label = Skupiny kariet
+    .tooltiptext = Zobraziť skupiny kariet
 
 ## EME notification panel
 
@@ -1447,6 +1463,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Ukončiť súkromnú reláciu
     .tooltiptext = Ukončiť súkromnú reláciu
+reset-pbm-panel-heading2 = Vymazať údaje a začať novú súkromnú reláciu?
+reset-pbm-panel-description2 = Týmto sa vymaže história, súbory cookie a všetky ostatné údaje stránok bez zatvorenia súkromného okna.
 reset-pbm-panel-heading = Ukončiť súkromnú reláciu?
 reset-pbm-panel-description = Týmto sa zatvoria všetky súkromné karty a odstráni sa história, súbory cookie a všetky ostatné údaje stránok.
 reset-pbm-panel-always-ask-checkbox =
@@ -1455,6 +1473,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Zrušiť
     .accesskey = Z
+reset-pbm-panel-confirm-button2 =
+    .label = Vymazať súkromnú reláciu
+    .accesskey = V
 reset-pbm-panel-confirm-button =
     .label = Odstrániť údaje relácie
     .accesskey = O
@@ -1740,6 +1761,11 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } povolil { $count } ťažiarov kryptomien
     }
 trustpanel-cryptominer-tab-list-header = Tieto stránky sa snažia ťažiť kryptomeny:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Máte účet na tejto stránke?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } zistil, že na tejto stránke došlo v posledných 12 mesiacoch k úniku údajov. Zistite, či ste tým boli nejako dotknutí.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Zavrieť
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Spustiť bezplatné skenovanie
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Na tejto stránke je zablokovaný <span data-l10n-name="count">{ $count }</span> sledovací prvok
@@ -1747,3 +1773,10 @@ trustpanel-blocker-section-header2 =
         [many] Na tejto stránke je zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
        *[other] Na tejto stránke je zablokovaných <span data-l10n-name="count">{ $count }</span> sledovacích prvkov
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Stránka vyzerá nefunkčne?</strong> Znova načítajte stránku, aby ste dočasne znížili ochranu pred sledovaním.
+reduced-protection-infobar-reload-button = Znova načítať
+    .accesskey = Z

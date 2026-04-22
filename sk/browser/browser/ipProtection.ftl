@@ -25,18 +25,33 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo vašom prehliadači
 ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Pridajte ďalšiu vrstvu súkromia
+ipprotection-feature-introduction-link-text-privacy = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z 5 umiestnení, aby ste si zachovali súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi‑Fi sieť? Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z 5 umiestnení, kde sa chcete skryť pri prehliadaní webu.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
 ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, ďakujem
+ipprotection-feature-introduction-button-secondary-remove = Odstrániť VPN z panela nástrojov
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vyberte, kde používate VPN
 ipprotection-site-settings-callout-subtitle = Vypnite VPN pre konkrétnu stránku a my si to zapamätáme pre vaše ďalšie návštevy.
 ipprotection-site-settings-callout-button = Rozumiem
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nové: Zmeňte si umiestnenie
+ipprotection-location-selection-callout-description = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z 5 rôznych umiestnení pre prehliadanie, alebo vám vyberie to najrýchlejšie umiestnenie.
+ipprotection-location-selection-callout-primary-button = Vyskúšajte to
+ipprotection-location-selection-callout-secondary-button = Zavrieť
 
 ## Panel
 

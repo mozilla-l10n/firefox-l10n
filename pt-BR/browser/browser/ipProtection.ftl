@@ -83,6 +83,13 @@ ipprotection-button-connecting = Ativando…
 ## Location controls
 
 ipprotection-recommended-location-badge = NOVIDADE
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Local: { $country }
+ipprotection-locations-subview =
+    .title = Escolher local
+ipprotecion-locations-subview-recommended-label = Recomendado
+ipprotection-locations-subview-recommended-description = Encontra o local mais rápido
 
 ## VPN paused state
 

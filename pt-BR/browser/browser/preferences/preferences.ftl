@@ -2125,6 +2125,8 @@ collection-backlogged-crash-reports2 =
     .label = Enviar relatórios de falhas automaticamente
     .accesskey = f
 collection-backlogged-crash-reports-description = Isso ajuda a { -vendor-short-name } a diagnosticar e resolver problemas relacionados ao navegador. Os relatórios podem conter dados pessoais ou sensíveis.
+settings-redesign-promo-dismiss-button =
+    .label = Entendi
 addon-recommendations =
     .label = Permitir que o { -brand-short-name } faça recomendações personalizadas de extensões
 addon-recommendations-link = Saiba mais
@@ -2380,6 +2382,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Insira uma URL de provedor personalizado
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Configurações avançadas
 
 ## The following strings are used in the Download section of settings
 
