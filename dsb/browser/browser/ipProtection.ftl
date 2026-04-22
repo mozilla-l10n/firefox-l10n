@@ -59,17 +59,20 @@ ipprotection-location-selection-callout-secondary-button = Zachyśiś
 unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajśo swójo stojnišćo</a>, mjaztym až w { -brand-product-name } pśeglědujośo.
 unauthenticated-private-location-message = Pomaga w { -brand-product-name } <a data-l10n-name="learn-more-vpn">wašo stojnišćo priwatne źaržaś</a>.
+unauthenticated-choose-location-message = Wubjeŕśo z 5 stojnišćow abo dajśo { -brand-product-name } nejmalsnjejše wubraś.
 unauthenticated-hide-location-message-2 = Schowajśo swójo stojnišćo, mjaztym až z { -brand-product-name } pśeglědujośo.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
 unauthenticated-get-started = Prědne kšace
+unauthenticated-terms-of-service-privacy-notice = Gaž pókšacujośo, zwólijośo do <a data-l10n-name="vpn-terms-of-service">wužywańskich wuměnjenjow</a> a <a data-l10n-name="vpn-privacy-notice">powěźeńki priwatnosći</a>.
 site-exclusion-toggle-enabled-1 =
     .label = VPN za toś to sedło wužywaś
     .aria-label = VPN jo za toś to sedło zmóžnjony
 site-exclusion-toggle-disabled-1 =
     .label = VPN za toś to sedło wužywaś
     .aria-label = VPN jo za toś to sedło znjemóžnjony
+site-exclusion-toggle-description = Sedło njefunkcioněrujo? Wopytajśo VPN znjemóžniś.
 ipprotection-settings-link =
     .label = Nastajenja
 
@@ -89,6 +92,26 @@ ipprotection-button-turn-vpn-on = VPN zmóžniś
 # Button while VPN is connecting
 ipprotection-button-connecting = Zmóžnja se…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Stojnišćo: Dopórucony
+ipprotection-recommended-location-description = { -brand-product-name } nejmalsnjejše stojnišćo namakajo
+ipprotection-recommended-location-badge = NOWY
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Stojnišćo: { $country }
+ipprotection-locations-subview =
+    .title = Stojnišćo wubraś
+ipprotection-locations-subview-description = Wubjeŕśo druge stojnišćo, z kótaregož pśeglědujośo.
+ipprotecion-locations-subview-recommended-label = Dopórucony
+ipprotection-locations-subview-recommended-description = Namakajo nejmalsnjejše stojnišćo
+ipprotection-locations-subview-promo =
+    .heading = Pówušćo šćit z { -mozilla-vpn-brand-name }
+    .message = Wubjeŕśo z wěcej ako 300 stojnišćow a šćitajśo wšykne swóje nałoženja na do 5 rědach.
+ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobstaraś
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN jo zastajony
@@ -98,6 +121,10 @@ ipprotection-connection-status-paused-description = Sćo wšykne { $maxUsage } G
 upgrade-vpn-title = Wobstarajśo se pśidatny šćit zwenka wobglědowaka
 upgrade-vpn-description = Wubjeŕśo swójo stojnišćo VPN, wužywajśo VPN za wšykne swóje nałoženja a na až do 5 rědach a wóstańśo wěsty w kuždej seśi – doma abo w zjawnem WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wopytaś
+ipprotection-connection-status-paused-title-1 = VPN jo zastajony
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
 
 ## Messages and errors
 
@@ -147,12 +174,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Sćo swóje daty
 ip-protection-description =
     .label = VPN
     .description = Zatwarjony VPN, aby wašu priwatnosć pólěpšył, mjaztym až z { -brand-short-name } pśeglědujośo.
+ip-protection-description-1 =
+    .label = Zatwarjony VPN
+    .description = Schowajśo swójo stojnišćo pśi pśeglědowanju, aby pśidatnu priwatnosć dostał.
 ip-protection-learn-more = Dalšne informacije
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
     .message = Schowajśo swójo stojnišćo, mjaztym až z { -brand-short-name } pśeglědujośo. Wobstarajśo se { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
+    .message = Schowajśo swójo stojnišćo, aby z pśidatnym šćitom pśeglědował. Dostańśo { $maxUsage } GB dermotnych datow VPN kuždy mjasec.
 ip-protection-not-opted-in-button = Prědne kšace
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -174,6 +209,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Wobstarajśo se samo wěcej šćita zwenka { -brand-short-name } z { -mozilla-vpn-brand-name }.
     .description = Wubjeŕśo swójske stojnišća VPN a pśidajśo wšym swójim nałoženjam na až do pěś rědach šćit, lěc sćo doma abo w zjawnem WLAN.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Pówušćo šćit z { -mozilla-vpn-brand-name }
+    .description = Wubjeŕśo z 300 stojnišćow a šćitajśo wšykne swóje nałoženja na do 5 rědach.
 
 ## IP Protection dialogs
 
@@ -226,6 +264,9 @@ vpn-paused-alert-title = VPN jo zastajony
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Sćo pśetrjebał wšykne { $maxUsage } GB swójich datow VPN. Pśistup VPN se pśiducy mjasec slědk stajijo.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
 vpn-paused-alert-close-tabs-button = Wšykne rejtariki zacyniś
 vpn-paused-alert-continue-wo-vpn-button = Bźez VPN pókšacowaś
 vpn-error-alert-title = VPN rowno njefunkcioněrujo.
