@@ -52,6 +52,9 @@ settings-data-backup-last-backup-filename = Ime datoteke: { $fileName }
 settings-data-backup-restore-scheduled-on =
     .label = Obnovite podatke
     .description = Obnovite podatke { -brand-product-name(sklon: "rodilnik") } iz zadnje varnostne kopije.
+settings-data-backup-restore-scheduled-off =
+    .label = Obnovi podatke
+    .description = Obnovite podatke iz varnostne kopije { -brand-product-name(sklon: "rodilnik") } z druge naprave.
 
 ##
 

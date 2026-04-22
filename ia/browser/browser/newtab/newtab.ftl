@@ -591,6 +591,10 @@ newtab-section-follow-button-label =
     .aria-label = Sequer{ $topic }
 newtab-section-following-button = Sequente
 newtab-section-unfollow-button = Non plus sequer
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Tu seque: cessar de sequer { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Perfectiona tu fluxo
 newtab-section-follow-highlight-subtitle = Seque tu interesses pro vider plus de lo que te place.

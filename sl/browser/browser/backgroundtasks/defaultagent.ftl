@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-agent-task-description = Opravilo Privzet uporabniški agent preverja, ali se privzeta vrednost spremeni iz { -brand-short-name } v drug brskalnik. Če se sprememba zgodi v sumljivih okoliščinah, uporabnika največ dvakrat pozove, naj nastavitev vrne na { -brand-short-name }. Opravilo se samodejno namesti skupaj z brskalnikom { -brand-short-name } in znova, ko se { -brand-short-name } posodobi. Če želite onemogočiti opravilo, spremenite nastavitev “default-browser-agent.enabled” na strani about:config ali nastavitev pravilnika { -brand-short-name } za podjetja “DisableDefaultBrowserAgent”.
+default-browser-notification-privacy-header-text = Bi radi obdržali { -brand-short-name(sklon: "tozilnik") }?
+default-browser-notification-privacy-body-text = Vaš privzeti brskalnik je bil zamenjan. Vrnite se v { -brand-short-name(sklon: "tozilnik") } in uživajte vgrajeno zasebnost in zaščito.
 default-browser-notification-header-text = Želite še naprej uporabljati { -brand-short-name }?
 default-browser-notification-body-text = Privzeti brskalnik je bil pred kratkim zamenjan. Kliknite za povrnitev { -brand-short-name }a kot privzetega programa.
 default-browser-notification-yes-button-text = Da

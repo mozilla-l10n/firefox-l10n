@@ -184,6 +184,11 @@ ip-protection-learn-more = Pro saper plus
 ip-protection-not-opted-in-2 =
     .heading = Essaya le VPN integrate de { -brand-short-name }
     .message = Cela tu position dum tu naviga in { -brand-short-name }. Recipe { $maxUsage } GB de datos VPN gratuite cata mense.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Essaya le VPN integrate de { -brand-short-name }
+    .message = Naviga con protection ulterior celante tu position. Obtene { $maxUsage } GB de datos de VPN gratuite cata mense.
 ip-protection-not-opted-in-button = Comenciar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -203,6 +208,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Obtene ancora plus protection foras de { -brand-short-name } con { -mozilla-vpn-brand-name }
     .description = Elige positiones del VPN personal e adde protection a tote tu applicationes sur maximo cinque apparatos, si tu es a casa o sur wi-fi public.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Sume ulterior protection con { -mozilla-vpn-brand-name }
+    .description = Elige de plus que 300 positiones e protege tote tu applicationes sur maximo 5 apparatos.
 
 ## IP Protection dialogs
 
@@ -255,6 +263,11 @@ vpn-paused-alert-title = VPN pausate
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso del VPN se reinitialisara le mense proxime.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso remonta le mense proxime.
+vpn-error-page-continue-description = Elige como continuar sin VPN
+vpn-error-page-keep-browsing = Continuar a navigar in iste session
 vpn-error-page-new-session = Comenciar un nove session
 vpn-paused-alert-close-tabs-button = Clauder tote le schedas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
