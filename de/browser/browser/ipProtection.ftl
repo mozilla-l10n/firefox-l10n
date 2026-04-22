@@ -49,6 +49,7 @@ ipprotection-site-settings-callout-button = Verstanden
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Neu: Ändern Sie Ihren Standort
+ipprotection-location-selection-callout-description = Mit dem <a data-l10n-name="learn-more-vpn">integrierten VPN von { -brand-product-name }</a> können Sie aus 5 Standorten wählen oder wir wählen den schnellsten Standort für Sie aus.
 ipprotection-location-selection-callout-primary-button = Ausprobieren
 ipprotection-location-selection-callout-secondary-button = Schließen
 
@@ -57,6 +58,7 @@ ipprotection-location-selection-callout-secondary-button = Schließen
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Probieren Sie das integrierte VPN von { -brand-product-name } aus
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Verstecken Sie Ihren Standort</a> beim Surfen in { -brand-product-name }.
+unauthenticated-private-location-message = <a data-l10n-name="learn-more-vpn">Hilft Ihren Standort in { -brand-product-name } privat zu halten</a>.
 unauthenticated-choose-location-message = Wählen Sie aus 5 Standorten oder lassen Sie { -brand-product-name } den schnellsten auswählen.
 unauthenticated-hide-location-message-2 = Verbergen Sie Ihren Standort beim Surfen in { -brand-product-name }.
 # Variables

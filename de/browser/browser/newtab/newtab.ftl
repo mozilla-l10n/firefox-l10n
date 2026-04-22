@@ -644,6 +644,7 @@ newtab-new-user-custom-wallpaper-cta = Jetzt ausprobieren
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Neue Hintergrundbilder sind da
+newtab-wallpaper-feature-highlight-subtitle = Wählen Sie Ihren Favoriten und gestalten Sie jeden neuen Tab wie Sie möchten.
 newtab-wallpaper-feature-highlight-cta = Hintergrundbild auswählen
 
 ## Strings for download mobile highlight

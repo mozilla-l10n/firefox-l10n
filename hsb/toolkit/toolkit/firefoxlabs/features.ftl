@@ -90,6 +90,7 @@ experimental-features-newtab-widget-picture-of-the-day-description = Přidajće 
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Časniki
+experimental-features-newtab-widget-clocks-description = Přidajće do štyri časnikow ze swójskimi přimjenami, zo by čas na městnach pokazał, kotrež su wam wažne. <a data-l10n-name="connect">Měnjenje dźělić</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantiske pytanje historije

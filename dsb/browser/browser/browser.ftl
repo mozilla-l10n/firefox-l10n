@@ -1280,6 +1280,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Źěliś
     .tooltiptext = Toś ten bok źěliś
+toolbar-button-tab-groups =
+    .label = Kupki rejtarikow
+    .tooltiptext = Waše kupki rejtarikow pokazaś
 
 ## EME notification panel
 
@@ -1464,6 +1467,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Priwatne pósejźenje skóńcyś
     .tooltiptext = Priwatne pósejźenje skóńcyś
+reset-pbm-panel-heading2 = Daty lašowaś a nowe priwatne pósejźenje zachopiś?
 reset-pbm-panel-heading = Priwatne pósejźenje skóńcyś?
 reset-pbm-panel-description = Zacyńśo wšykne priwatne rejtariki a lašujśo historiju, cookieje a wšykne druge sedłowe daty.
 reset-pbm-panel-always-ask-checkbox =
