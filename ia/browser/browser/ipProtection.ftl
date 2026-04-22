@@ -87,6 +87,8 @@ ipprotection-recommended-location-badge = NOVA
 ipprotection-location-country-button = Position: { $country }
 ipprotection-locations-subview =
     .title = Elige un position
+ipprotecion-locations-subview-recommended-label = Recommendate
+ipprotection-locations-subview-promo-button = Obtene { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -97,6 +99,7 @@ ipprotection-connection-status-paused-description = Tu ha usate tote le { $maxUs
 upgrade-vpn-title = Obtene protection ulterior ultra le navigator
 upgrade-vpn-description = Elige tu position del VPN, usa VPN pro tote tu applicationes e usque 5 apparatos, e sta secur sur qualcunque rete, a casa o sur wi-fi public.
 upgrade-vpn-button = Essaya { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN pausate
 
 ## Messages and errors
 
@@ -223,6 +226,7 @@ vpn-paused-alert-title = VPN pausate
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso del VPN se reinitialisara le mense proxime.
+vpn-error-page-new-session = Comenciar un nove session
 vpn-paused-alert-close-tabs-button = Clauder tote le schedas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
 vpn-error-alert-title = Le VPN non functiona a iste momento.

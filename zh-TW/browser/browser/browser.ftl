@@ -1647,6 +1647,7 @@ trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } 已放�
 trustpanel-cryptominer-tab-list-header = 下列網站嘗試挖礦：
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = 有在這個網站註冊過帳號嗎？
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } 發現此網站在過去 12 個月內曾發生資料外洩事件，看看您是否受到影響。
 trustpanel-breachalerts-anonymous-breached-button-dismiss = 知道了！
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = 進行免費掃描
 trustpanel-blocker-section-header2 = 已封鎖此網站上的 <span data-l10n-name="count">{ $count }</span> 組追蹤器

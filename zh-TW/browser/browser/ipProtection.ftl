@@ -25,12 +25,17 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = 向您介紹直接內建於瀏覽器的 VPN 功能
 ipprotection-feature-introduction-link-text-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料。
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = 加上一層隱私保護
 ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
 ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = 透過公共 Wi-Fi 上網嗎？請試用 { -brand-product-name } 的內建 VPN。
 ipprotection-feature-introduction-description-captive-portal = 隱藏您的實際所在位置，就算是使用公共 Wi-Fi 也能獲得額外保護。
 ipprotection-feature-introduction-button-primary = 下一個
 ipprotection-feature-introduction-button-secondary-not-now = 現在不要
 ipprotection-feature-introduction-button-secondary-no-thanks = 不要，謝謝
+ipprotection-feature-introduction-button-secondary-remove = 自工具列移除 VPN
 
 ## Site settings callout
 
@@ -40,6 +45,7 @@ ipprotection-site-settings-callout-button = 知道了！
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = 新功能：切換您的所在位置
 ipprotection-location-selection-callout-primary-button = 試試看
 ipprotection-location-selection-callout-secondary-button = 知道了！
 
@@ -48,6 +54,7 @@ ipprotection-location-selection-callout-secondary-button = 知道了！
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
 unauthenticated-hide-location-message-3 = 使用 { -brand-product-name } 上網時<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
+unauthenticated-private-location-message = 使用 { -brand-product-name } 上網時可幫助<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-hide-location-message-2 = 使用 { -brand-product-name } 上網時，隱藏您的所在位置。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -59,6 +66,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = 使用 VPN 開啟此網站
     .aria-label = 已對此網站關閉 VPN 連線
+site-exclusion-toggle-description = 網站無法正常運作？可關閉 VPN 試試。
 ipprotection-settings-link =
     .label = 設定
 
@@ -80,7 +88,19 @@ ipprotection-button-connecting = 正在開啟…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = 位置：建議地點
+ipprotection-recommended-location-description = 由 { -brand-product-name } 自動尋找最快位置
 ipprotection-recommended-location-badge = 新功能
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = 位置：{ $country }
+ipprotection-locations-subview =
+    .title = 選擇位置
+ipprotecion-locations-subview-recommended-label = 推薦
+ipprotection-locations-subview-recommended-description = 尋找最快位置
+ipprotection-locations-subview-promo-button = 獲得 { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 

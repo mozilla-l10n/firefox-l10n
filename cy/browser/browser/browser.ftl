@@ -1294,6 +1294,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Rhannu
     .tooltiptext = Rhannu'r dudalen hon
+toolbar-button-tab-groups =
+    .label = Grwpiau tabiau
+    .tooltiptext = Dangos eich grwpiau tabiau
 
 ## EME notification panel
 
@@ -1480,6 +1483,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Gorffen y Sesiwn Breifat
     .tooltiptext = Gorffen y Sesiwn Breifat
+reset-pbm-panel-heading2 = Clirio'r data a dechrau sesiwn breifat newydd?
+reset-pbm-panel-description2 = Mae hyn yn dileu hanes, cwcis, a holl ddata'r wefan ond heb gau eich Ffenest Breifat.
 reset-pbm-panel-heading = Gorffen eich sesiwn breifat?
 reset-pbm-panel-description = Caewch bob tab preifat a dileu hanes, cwcis, a'r holl ddata gwefan arall.
 reset-pbm-panel-always-ask-checkbox =
@@ -1488,6 +1493,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Diddymu
     .accesskey = D
+reset-pbm-panel-confirm-button2 =
+    .label = Clirio'r sesiwn breifat
+    .accesskey = s
 reset-pbm-panel-confirm-button =
     .label = Dileu data sesiwn
     .accesskey = s
@@ -1811,6 +1819,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] Mae { -brand-product-name } wedi caniatáu { $count } cryptogloddwr
     }
 trustpanel-cryptominer-tab-list-header = Mae'r gwefannau hyn yn ceisio cryptogloddio:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Oes gennych chi gyfrif ar y wefan hon?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Cau
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Dechrau sgan am ddim
 trustpanel-blocker-section-header2 =
     { $count ->
         [zero] <span data-l10n-name="count">{ $count }</span> Tracwyr wedi'u rhwystro ar y wefan hon
@@ -1820,3 +1832,10 @@ trustpanel-blocker-section-header2 =
         [many] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
        *[other] <span data-l10n-name="count">{ $count }</span> Traciwr wedi'u rhwystro ar y wefan hon
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Mae'r wefan yn edrych fel ei bod wedi torri?</strong> Ail-lwythwch y dudalen i leihau eich diogelwch tracio dros dro.
+reduced-protection-infobar-reload-button = Ail-lwytho
+    .accesskey = A
