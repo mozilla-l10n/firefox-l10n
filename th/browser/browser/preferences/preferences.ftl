@@ -56,6 +56,9 @@ category-home =
 pane-search-title = ค้นหา
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = ความเป็นส่วนตัวและความปลอดภัย
+pane-privacy-section =
+    .heading = ความเป็นส่วนตัวและความปลอดภัย
 pane-privacy-title = ความเป็นส่วนตัวและความปลอดภัย
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -728,7 +731,7 @@ performance-default-content-process-count =
 performance-group =
     .label = ประสิทธิภาพ
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = การเรียกดู
 browsing-group-label =
@@ -777,6 +780,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 browsing-group =
     .label = การเรียกดู
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2351,6 +2357,9 @@ preferences-doh-custom-provider-label =
     .aria-label = ป้อน URL ของผู้ให้บริการที่กำหนดเอง
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
