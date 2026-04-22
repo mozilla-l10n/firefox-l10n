@@ -51,6 +51,9 @@ category-home =
 pane-search-title = Որոնում
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Գաղտնիություն և անվտանգություն
+pane-privacy-section =
+    .heading = Գաղտնիություն և անվտանգություն
 pane-privacy-title = Գաղտնիություն և անվտանգություն
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -694,7 +697,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Արտադրողականություն
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Դիտարկում
 browsing-group-label =
@@ -743,6 +746,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 browsing-group =
     .label = Դիտարկում
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2097,6 +2103,9 @@ preferences-doh-manage-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
@@ -2136,6 +2145,9 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Արգելափակել
 
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookies-enabled =
@@ -2144,3 +2156,6 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Թխուկներ
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
+
+## Warnings section
+
