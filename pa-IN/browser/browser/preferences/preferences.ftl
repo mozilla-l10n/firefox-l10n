@@ -56,6 +56,9 @@ category-home =
 pane-search-title = ਖੋਜ
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
+pane-privacy-section =
+    .heading = ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
 pane-privacy-title = ਪਰਦੇਦਾਰੀ ਤੇ ਸੁਰੱਖਿਆ
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = ਕਾਰਗੁਜ਼ਾਰੀ
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = ਬਰਾਊਜ਼ਿੰਗ
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-group =
     .label = ਬਰਾਊਜ਼ਿੰਗ
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2379,6 +2385,9 @@ preferences-doh-custom-provider-label =
     .aria-label = ਇੱਕ ਚੁਣਿੰਦਾ ਪੂਰਕ URL ਦਿਓ
 preferences-doh-header2 =
     .heading = HTTPS ਉੱਤੇ DNS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
