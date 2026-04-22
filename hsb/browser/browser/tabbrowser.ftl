@@ -298,6 +298,14 @@ tab-context-unnamed-group =
     .label = Skupina bjez mjena
 tab-group-name-default = Skupina bjez mjena
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Skupiny rajtarkow
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -352,6 +360,17 @@ tab-group-editor-action-new-tab =
     .label = Nowy rajtark w skupinje
 tab-group-editor-action-new-window =
     .label = Skupinu do noweho wokna přesunyć
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Wotkaz w skupinje kopěrować
+            [one] { $linkCount } wotkaz w skupinje kopěrować
+            [two] { $linkCount } wotkazaj w skupinje kopěrować
+            [few] { $linkCount } wotkazy w skupinje kopěrować
+           *[other] { $linkCount } wotkazow w skupinje kopěrować
+        }
 tab-group-editor-action-save =
     .label = Skupinu składować a začinić
 tab-group-editor-action-ungroup =
@@ -361,6 +380,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Dokónčeny
     .accessKey = D
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Skupinu rajtarkow dźělić
 tab-context-reopen-tab-group =
     .label = Skupinu rajtarkow zaso wočinić
 # Variables:

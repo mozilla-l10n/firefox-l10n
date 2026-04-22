@@ -448,3 +448,5 @@ set-default-menu-message-primary-button-variant = Ορισμός ως κύριο
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 δωρεάν μάσκες email
 relay-50-masks-announcement-subtitle = Έχετε πλέον 50 δωρεάν μάσκες (αντί για 5). Χρησιμοποιήστε μία για κάθε λογαριασμό, ώστε να διατηρείτε το πραγματικό σας email απόρρητο.
+relay-50-masks-announcement-secondary-button = Απόρριψη
+    .accesskey = ψ

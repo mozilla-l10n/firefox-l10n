@@ -165,6 +165,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Zwjazajće swój telefon
 tab-context-send-to-mobile-device-missing =
     .label = Njewidźiće swój grat?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Dźělomny wotkaz wutworić
+    .accesskey = l
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

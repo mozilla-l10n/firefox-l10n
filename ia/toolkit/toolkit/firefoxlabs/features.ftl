@@ -86,6 +86,7 @@ experimental-features-newtab-widget-picture-of-the-day-description = Adde un par
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Horologios
+experimental-features-newtab-widget-clocks-description = Adde usque quatro horologios con pseudonymos personalisate pro visualisar le tempore tra le locos que te interessa. <a data-l10n-name="connect">Condivide tu commentario</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Recerca chronologic semantic

@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Teilen
     .tooltiptext = Diese Seite teilen
+toolbar-button-tab-groups =
+    .label = Tab-Gruppen
+    .tooltiptext = Tab-Gruppen anzeigen
 
 ## EME notification panel
 
@@ -1445,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Private Sitzung beenden
     .tooltiptext = Private Sitzung beenden
+reset-pbm-panel-heading2 = Daten löschen und eine neue private Sitzung starten?
+reset-pbm-panel-description2 = Dadurch werden Chronik, Cookies und alle anderen Website-Daten gelöscht, ohne Ihr privates Fenster zu schließen.
 reset-pbm-panel-heading = Ihre private Sitzung beenden?
 reset-pbm-panel-description = Schließen Sie alle privaten Tabs und löschen Sie Chronik, Cookies und alle anderen Website-Daten.
 reset-pbm-panel-always-ask-checkbox =
@@ -1453,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Abbrechen
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Private Sitzung löschen
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = Sitzungsdaten löschen
     .accesskey = S
@@ -1700,8 +1708,19 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } hat { $count } heimliche Digitalwährungsberechner (Krypto-Miner) erlaubt
     }
 trustpanel-cryptominer-tab-list-header = Diese Websites versuchen Krypto-Mining zu betreiben:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Haben Sie ein Konto auf dieser Website?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } hat herausgefunden, dass diese Website in den letzten 12 Monaten von einem Datenleck betroffen war. Finden Sie heraus, ob Sie betroffen sind.
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Kostenlose Überprüfung starten
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
        *[other] <span data-l10n-name="count">{ $count }</span> Tracker auf dieser Website blockiert
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Sieht die Website beschädigt aus?</strong> Laden Sie die Seite neu, um den Schutz vor Aktivitätenverfolgung vorübergehend zu verringern.
+reduced-protection-infobar-reload-button = Neu laden
+    .accesskey = N

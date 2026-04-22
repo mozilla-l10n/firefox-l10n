@@ -645,6 +645,10 @@ newtab-new-user-custom-wallpaper-title = Wubjerće pozadkowy wobraz, zo byšće 
 newtab-new-user-custom-wallpaper-subtitle = Čujće so na kóždym nowym rajtarku kaž doma ze swójskimi pozadkowymi wobrazami a barbami.
 newtab-new-user-custom-wallpaper-cta = Spytajće nětko
 
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-cta = Pozadkowy wobraz wubrać
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } za mobilny grat sćahnyć
@@ -732,8 +736,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu wutworić
 newtab-widget-lists-name-label-default =
     .label = Lisćiny nadawkow
+newtab-widget-lists-name-label-checklist =
+    .label = Kontrolna lisćina
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lisćiny nadawkow
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Kontrolna lisćina
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nowa lisćina
@@ -753,7 +761,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Asistenty miniměrować
     .aria-label = Wšě asistenty z kompaktnej wulkosću schować
+newtab-widget-section-menu-button =
+    .title = Meni asistentow
+    .aria-label = Meni asistentow wočinić
+newtab-widget-section-menu-hide-all = Asistenty schować
+newtab-widget-section-menu-learn-more = Dalše informacije
 newtab-widget-section-feedback = Prajće nam swoje měnjenje
+newtab-widget-lists-name-default = Kontrolna lisćina
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -753,6 +753,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Χρήση αυτόματης κύλισης
     .accesskey = α
+keyboard-and-scrolling-group =
+    .label = Πλοήγηση και κύλιση με πληκτρολόγιο
 browsing-use-smooth-scrolling =
     .label = Χρήση ομαλής κύλισης
     .accesskey = μ
@@ -2404,6 +2406,8 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Ασφάλεια σύνδεσης και λογισμικού
 preferences-connection-link-button =
     .label = Σύνθετες ρυθμίσεις
 

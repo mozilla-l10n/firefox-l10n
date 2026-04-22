@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Přiměrće swoje přehladowanje
 experimental-features-group-productivity =
     .label = Produktiwita
+experimental-features-group-newtab-widgets =
+    .label = Asistenty w { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Hesła w bóčnicy
@@ -64,6 +66,8 @@ experimental-features-fx-web-apps-description = Wočińće sydła, kotrež husto
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Lisćiny w { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Lisćiny
 experimental-features-newtab-widget-lists-description = Wobchowajće lisćinu swojich nadawkow we wóčku, hdyž nowy rajtark wočinjeće. Wot zapakowanskich lisćinow do nakupowanskich lisćinow, čińće swoje plany w { -brand-product-name }. <a data-l10n-name="connect">Měnjenje zdźělić</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =

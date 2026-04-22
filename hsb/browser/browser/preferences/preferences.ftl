@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Wodźenske elementy KI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Bjezbarjernosć
+    .title = { pane-accessibility-title }
 pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
@@ -799,6 +801,22 @@ browsing-cfr-recommendations-learn-more = Dalše informacije
 browsing-group =
     .label = Přehladowanje
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Bjezbarjernosć
+preferences-default-zoom-select =
+    .aria-label = Standardne skalowanje
+preferences-fonts-family =
+    .label = Pismowa swójba
+    .accesskey = P
+preferences-fonts-size =
+    .label = Pismowa wulkosć
+    .accesskey = u
+preferences-fonts-advanced-settings =
+    .label = Rozšěrjene nastajenja
+    .accesskey = R
+
 ## General Section - Proxy
 
 network-settings-title = Syćowe nastajenja
@@ -1104,6 +1122,7 @@ search-edit-engine =
     .label = Wobdźěłać
     .accesskey = d
 search-find-more-link = Dalše pytawy pytać
+search-filtering-for-add-engine = Mašinu přidać
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Klučowe słowo podwojić
@@ -2133,6 +2152,8 @@ collection-backlogged-crash-reports2 =
     .label = Spadowe rozprawy awtomatisce pósłać
     .accesskey = d
 collection-backlogged-crash-reports-description = To { -vendor-short-name } pomha, problemy z wobhladowakom diagnosticěrować a rozrisać. Rozprawy móža wosobinske abo sensibelne daty wobsahować.
+settings-redesign-promo-dismiss-button =
+    .label = Sym zrozumił
 addon-recommendations =
     .label = { -brand-short-name } dowolić, personalizowane poručenja za rozšěrjenja dać
 addon-recommendations-link = Dalše informacije
@@ -2388,6 +2409,13 @@ preferences-doh-custom-provider-label =
     .aria-label = Zapodajće swójski URL poskićowarja
 preferences-doh-header2 =
     .heading = DNS přez HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Zwjazk a wěstota softwary
+preferences-connection-link-button =
+    .label = Rozšěrjene nastajenja
 
 ## The following strings are used in the Download section of settings
 

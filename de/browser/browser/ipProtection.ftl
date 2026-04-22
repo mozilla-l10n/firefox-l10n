@@ -25,18 +25,25 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Hier kommt VPN, jetzt direkt in Ihrem Browser
 ipprotection-feature-introduction-link-text-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Fügen Sie eine weitere Ebene für den Datenschutz hinzu
 ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen, auch wenn Sie sich in einem privaten Fenster befinden.
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
 ipprotection-feature-introduction-button-primary = Weiter
 ipprotection-feature-introduction-button-secondary-not-now = Nicht jetzt
 ipprotection-feature-introduction-button-secondary-no-thanks = Nein, danke
+ipprotection-feature-introduction-button-secondary-remove = VPN aus Symbolleiste entfernen
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wählen Sie, wo Sie VPN verwenden
 ipprotection-site-settings-callout-subtitle = Deaktivieren Sie VPN für eine bestimmte Website, und wir merken uns dies für Ihren nächsten Besuch.
 ipprotection-site-settings-callout-button = Verstanden
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Neu: Ändern Sie Ihren Standort
 
 ## Panel
 
