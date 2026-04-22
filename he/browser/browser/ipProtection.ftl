@@ -25,12 +25,18 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בדפדפן שלך
 ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = הוספת שכבה נוספת של פרטיות
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין 5 מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = התחברת ל־Wi-Fi ציבורי? ניתן לנסות את ה־VPN המובנה של { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
 ipprotection-feature-introduction-button-primary = הבא
 ipprotection-feature-introduction-button-secondary-not-now = לא כעת
 ipprotection-feature-introduction-button-secondary-no-thanks = לא תודה
+ipprotection-feature-introduction-button-secondary-remove = הסרת VPN מסרגל הכלים
 
 ## Site settings callout
 
@@ -38,22 +44,33 @@ ipprotection-site-settings-callout-title = בחירה באתרים שבהם יש
 ipprotection-site-settings-callout-subtitle = ניתן לכבות את ה־VPN עבור אתר ספציפי, ונזכור זאת בביקור הבא.
 ipprotection-site-settings-callout-button = הבנתי
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = חדש: שינוי המיקום שלך
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מאפשר לך לבחור מבין 5 מיקומי גלישה, או מאפשר לנו לבחור את המהיר ביותר עבורך.
+ipprotection-location-selection-callout-primary-button = בואו ננסה
+ipprotection-location-selection-callout-secondary-button = סגירה
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">הסתרת המיקום שלך</a> בזמן גלישה ב־{ -brand-product-name }.
+unauthenticated-private-location-message = מסייע <a data-l10n-name="learn-more-vpn">לשמור על פרטיות המיקום שלך</a> ב־{ -brand-product-name }.
+unauthenticated-choose-location-message = ניתן לבחור מבין 5 מיקומים או לתת ל־{ -brand-product-name } לבחור את המהיר ביותר.
 unauthenticated-hide-location-message-2 = ניתן להסתיר את המיקום שלך בזמן הגלישה ב־{ -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = קבלת { $maxUsage } ג״ב של נתוני VPN בחינם בכל חודש.
 unauthenticated-get-started = תחילת עבודה
+unauthenticated-terms-of-service-privacy-notice = בחירה בהמשך התהליך מהווה הסכמה ל<a data-l10n-name="vpn-terms-of-service">תנאי השירות</a> ול<a data-l10n-name="vpn-privacy-notice">הצהרת הפרטיות</a>.
 site-exclusion-toggle-enabled-1 =
     .label = שימוש ב־VPN עבור אתר זה
     .aria-label = ה־VPN פעיל עבור אתר זה
 site-exclusion-toggle-disabled-1 =
     .label = שימוש ב־VPN עבור אתר זה
     .aria-label = ה־VPN כבוי עבור אתר זה
+site-exclusion-toggle-description = האתר לא עובד? ניתן לנסות לכבות את ה־VPN.
 ipprotection-settings-link =
     .label = הגדרות
 
@@ -72,6 +89,14 @@ ipprotection-button-turn-vpn-off-excluded-site = כיבוי VPN בכל מקום
 ipprotection-button-turn-vpn-on = הפעלת VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = בתהליך הפעלה…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = מיקום: מומלץ
+ipprotection-recommended-location-description = ‏{ -brand-product-name } מוצא את המיקום המהיר ביותר
+ipprotection-recommended-location-badge = חדש
 
 ## VPN paused state
 
