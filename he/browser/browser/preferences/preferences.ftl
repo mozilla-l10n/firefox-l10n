@@ -799,6 +799,22 @@ browsing-cfr-recommendations-learn-more = מידע נוסף
 browsing-group =
     .label = דפדוף
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = נגישות
+preferences-default-zoom-select =
+    .aria-label = מרחק מתצוגה ברירת מחדל
+preferences-fonts-family =
+    .label = משפחת גופנים
+    .accesskey = מ
+preferences-fonts-size =
+    .label = גודל גופן
+    .accesskey = ג
+preferences-fonts-advanced-settings =
+    .label = הגדרות מתקדמות
+    .accesskey = ה
+
 ## General Section - Proxy
 
 network-settings-title = הגדרות רשת
@@ -1102,6 +1118,7 @@ search-edit-engine =
     .label = עריכה
     .accesskey = ע
 search-find-more-link = מנועי חיפוש נוספים
+search-filtering-for-add-engine = הוספת מנוע
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = מילת מפתח כפולה
@@ -1120,6 +1137,9 @@ search-engine-group =
     .label = מנוע חיפוש ברירת מחדל
 search-default-engine =
     .aria-label = מנוע חיפוש ברירת מחדל
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = חיפוש
 
 ## Containers Section
 
@@ -1687,7 +1707,7 @@ history-remember-option-all2 =
 ## Privacy Section - Site Data
 
 sitedata-header = עוגיות ונתוני אתרים
-sitedata-total-size-calculating = חישוב גודל נתוני אתרים ומטמון…
+sitedata-total-size-calculating = בתהליך חישוב גודל נתוני אתרים ומטמון…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
