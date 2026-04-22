@@ -1264,6 +1264,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = שיתוף
     .tooltiptext = שיתוף דף זה
+toolbar-button-tab-groups =
+    .label = קבוצות לשוניות
+    .tooltiptext = הצגת קבוצות הלשוניות שלך
 
 ## EME notification panel
 
@@ -1446,6 +1449,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = סיום הפעלה פרטית
     .tooltiptext = סיום הפעלה פרטית
+reset-pbm-panel-heading2 = לנקות נתונים ולהתחיל הפעלה פרטית חדשה?
+reset-pbm-panel-description2 = פעולה זו מוחקת את ההיסטוריה, העוגיות וכל שאר נתוני האתרים מבלי לסגור את החלון הפרטי שלך.
 reset-pbm-panel-heading = לסיים את ההפעלה הפרטית שלך?
 reset-pbm-panel-description = סגירת כל הלשוניות הפרטיות ומחיקת היסטוריה, עוגיות וכל שאר נתוני האתרים.
 reset-pbm-panel-always-ask-checkbox =
@@ -1454,6 +1459,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = ביטול
     .accesskey = ב
+reset-pbm-panel-confirm-button2 =
+    .label = ניקוי הפעלה פרטית
+    .accesskey = נ
 reset-pbm-panel-confirm-button =
     .label = מחיקת נתוני הפעלה
     .accesskey = מ
@@ -1704,8 +1712,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] ‏{ -brand-product-name } איפשר { $count } כורי מטבעות דיגיטליים
     }
 trustpanel-cryptominer-tab-list-header = האתרים האלה מנסים לכרות מטבעות דיגיטליים:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = יש לך חשבון באתר זה?
+trustpanel-breachalerts-anonymous-breached-description = ‏{ -brand-product-name } גילה כי באתר זה הייתה דליפת נתונים ב־12 החודשים האחרונים. ניתן לבדוק האם נפגעת מדליפה זו.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = סגירה
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = התחלת סריקה חינמית
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] רכיב מעקב <span data-l10n-name="count">אחד</span> נחסם באתר זה
        *[other] <span data-l10n-name="count">{ $count }</span> רכיבי מעקב נחסמו באתר זה
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>האתר נראה שבור?</strong> ניתן לטעון מחדש את הדף כדי להפחית זמנית את הגנת המעקב שלך.
+reduced-protection-infobar-reload-button = טעינה מחדש
+    .accesskey = ט
