@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Pytaś
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Priwatnosć a wěstota
+pane-privacy-section =
+    .heading = Priwatnosć a wěstota
 pane-privacy-title = Priwatnosć a wěstota
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -746,7 +749,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Wugbaśe
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Pśeglědowanje
 browsing-group-label =
@@ -795,6 +798,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Dalšne informacije
 browsing-group =
     .label = Pśeglědowanje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2385,6 +2391,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Zapódajśo swójski URL póbitowarja
 preferences-doh-header2 =
     .heading = DNS pśez HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
