@@ -48,6 +48,9 @@ category-home =
 pane-search-title = සෙවුම
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = පෞද්ගලිකත්‍වය හා ආරක්‍ෂාව
+pane-privacy-section =
+    .heading = පෞද්ගලිකත්‍වය හා ආරක්‍ෂාව
 pane-privacy-title = පෞද්ගලිකත්‍වය හා ආරක්‍ෂාව
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -513,6 +516,9 @@ update-in-progress-ok-button = &ඉවතලන්න
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = කාර්ය සාධනය
@@ -533,7 +539,7 @@ performance-default-content-process-count =
 performance-group =
     .label = කාර්ය සාධනය
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = පිරික්සීම
 browsing-use-autoscroll =
@@ -577,6 +583,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = තව දැනගන්න
 browsing-group =
     .label = පිරික්සීම
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -629,6 +638,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -832,6 +847,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1612,8 +1632,23 @@ preferences-doh-manage-exceptions =
     .label = හැරදැමීම් කළමනාකරණය…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
 choose-download-folder-title = බාගත වන බහාලුම තේරීම:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
