@@ -2142,6 +2142,8 @@ collection-backlogged-crash-reports2 =
     .label = Automaticamente inviar reportos de crash
     .accesskey = c
 collection-backlogged-crash-reports-description = Isto adjuta { -vendor-short-name } a diagnosticar e reparar problemas con le navigator.
+settings-redesign-promo-dismiss-button =
+    .label = Comprendite
 addon-recommendations =
     .label = Permitte { -brand-short-name } de facer recommendationes personalisate pro le extensiones
 addon-recommendations-link = Saper plus
@@ -2397,6 +2399,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Insere un URL de fornitor personalisate
 preferences-doh-header2 =
     .heading = DNS super HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Configurationes avantiate
 
 ## The following strings are used in the Download section of settings
 
