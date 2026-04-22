@@ -1266,6 +1266,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Moherakuã
     .tooltiptext = Emoherakuã ko kuatiarogue
+toolbar-button-tab-groups =
+    .label = Tendaykeita aty
+    .tooltiptext = Ehechauka tendaykeita aty
 
 ## EME notification panel
 
@@ -1446,6 +1449,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Emohu’ã tembiapo ñemigua
     .tooltiptext = Emohu’ã tembiapo ñemigua
+reset-pbm-panel-heading2 = ¿Embogue mba’ekuaarã ha eike tekoñemihápe?
 reset-pbm-panel-heading = Emohu’ãta tembiapo ñemigua
 reset-pbm-panel-description = Embotypaite tendayke ñemiguáva ha embogue tembiasakue, kookie ha opaite tenda mba’ekuaarã.
 reset-pbm-panel-always-ask-checkbox =
@@ -1454,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Heja
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Eike tekoñemihápe
+    .accesskey = { "" }
 reset-pbm-panel-confirm-button =
     .label = Embogue mba’ekuaarã tembiapógui
     .accesskey = D
@@ -1700,8 +1707,17 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } omoneĩ { $count } criptominería
     }
 trustpanel-cryptominer-tab-list-header = Ko’ã tenda ha’ete omonyhẽséva criptomoneda-gui:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ¿Ereko peteĩ mba’ete ko tendápe?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Emboyke
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Emoha’ãnga reiete
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Tapykuehoha ojejoko ko tendápe
        *[other] <span data-l10n-name="count">{ $count }</span> Tapykuehohaita ojejoko ko tendápe
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Myanyhẽjey
+    .accesskey = R
