@@ -793,6 +793,22 @@ browsing-cfr-recommendations-learn-more = Saper plus
 browsing-group =
     .label = Navigation
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accessibilitate
+preferences-default-zoom-select =
+    .aria-label = Zoom predefinite
+preferences-fonts-family =
+    .label = Familia de characteres
+    .accesskey = F
+preferences-fonts-size =
+    .label = Dimension de characteres
+    .accesskey = D
+preferences-fonts-advanced-settings =
+    .label = Configurationes avantiate
+    .accesskey = a
+
 ## General Section - Proxy
 
 network-settings-title = Parametros de rete
@@ -1096,6 +1112,7 @@ search-edit-engine =
     .label = Modificar
     .accesskey = M
 search-find-more-link = Adder plus motores de recerca
+search-filtering-for-add-engine = Adder motor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Parola clave duplicate
