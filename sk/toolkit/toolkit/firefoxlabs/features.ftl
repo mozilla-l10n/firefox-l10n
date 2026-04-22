@@ -64,15 +64,28 @@ experimental-features-fx-web-apps-description = Otvárajte často navštevované
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Zoznamy na { -firefox-home-brand-name(case: "loc") }
+experimental-features-newtab-widget-lists-new =
+    .label = Zoznamy
 experimental-features-newtab-widget-lists-description = Majte svoj zoznam úloh na pamäti, keď otvoríte novú kartu. Od zoznamov na balenie až po nákupné zoznamy, vytvárajte si plány v { -brand-product-name }. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Časovač na { -firefox-home-brand-name(case: "loc") }
+experimental-features-newtab-widget-timer-new =
+    .label = Časovač
 experimental-features-newtab-widget-timer-description = Nastavte si časovač, ktorý vám pomôže udržať si sústredenosť, nabáda vás, aby ste zostali na správnej ceste, alebo vám pripomenie, že si potrebujete dobiť batérie. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Zoznamy a časovač na { -firefox-home-brand-name(case: "loc") }
 experimental-features-newtab-widget-lists-and-timer-description = Majte svoj zoznam úloh na pamäti, keď otvoríte novú kartu. Od zoznamov na balenie až po nákupné zoznamy, robte si plány priamo vo { -brand-product-name(case: "loc") }. Nastavte si časovač, aby ste sa sústredili, aby vás povzbudil, aby ste zostali na správnej ceste, alebo aby ste si pripomenul dobitie batérií. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Predpoveď počasia
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Obrázok dňa
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Hodiny
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Sémantické vyhľadávanie v histórii

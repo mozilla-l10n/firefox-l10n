@@ -276,6 +276,9 @@ tab-group-editor-color-selector2-gray = Sivá
     .title = Sivá
 tab-group-editor-color-selector2-red = Červená
     .title = Červená
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Zavreté
 tab-group-description = { $tabGroupName } — Skupina kariet
 tab-group-label-tooltip-collapsed = { $tabGroupName } — zbalené
 tab-group-label-tooltip-expanded = { $tabGroupName } — rozbalené
@@ -284,6 +287,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Nepomenovaná skupina
 tab-group-name-default = Nepomenovaná skupina
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Skupiny kariet
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -424,6 +435,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Uložiť
     .accesskey = U
+tab-note-editor-button-delete =
+    .title = Odstrániť poznámku
+    .aria-label = Odstrániť poznámku
+    .accesskey = d
+tab-note-preview-edit-icon =
+    .alt = Upraviť poznámku
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Ďalšie informácie
 tab-note-panel-add-note-new-badge =

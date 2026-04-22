@@ -796,6 +796,18 @@ browsing-cfr-recommendations-learn-more = Ďalšie informácie
 browsing-group =
     .label = Prehliadanie
 
+## Accessibility page
+
+preferences-fonts-family =
+    .label = Typ písma
+    .accesskey = T
+preferences-fonts-size =
+    .label = Veľkosť písma
+    .accesskey = V
+preferences-fonts-advanced-settings =
+    .label = Rozšírené nastavenia
+    .accesskey = R
+
 ## General Section - Proxy
 
 network-settings-title = Nastavenia siete
@@ -1100,6 +1112,7 @@ search-edit-engine =
     .label = Upraviť
     .accesskey = U
 search-find-more-link = Nájsť ďalšie vyhľadávacie moduly
+search-filtering-for-add-engine = Pridať vyhľadávač
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicitné kľúčové slovo
@@ -1118,6 +1131,9 @@ search-engine-group =
     .label = Predvolený vyhľadávací modul
 search-default-engine =
     .aria-label = Predvolený vyhľadávací modul
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Hľadať
 
 ## Containers Section
 
@@ -2126,6 +2142,12 @@ collection-backlogged-crash-reports2 =
     .label = Automaticky odosielať správy o zlyhaní
     .accesskey = A
 collection-backlogged-crash-reports-description = Toto umožňuje { -vendor-short-name(case: "dat") } diagnostikovať a opraviť problémy s prehliadačom. Hlásenia môžu obsahovať osobné alebo citlivé údaje.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Rovnaké nastavenia, nový vzhľad!
+    .message = Túto stránku sme preorganizovali, aby sa dala ľahšie prehľadávať a objavovať. Vaše osobné nastavenia sa nezmenili a všetko je stále tu. Tip: pomocou vyhľadávania sa dostanete priamo k tomu, čo potrebujete.
+settings-redesign-promo-dismiss-button =
+    .label = Rozumiem
 addon-recommendations =
     .label = Povoliť { -brand-short-name(case: "dat") } odporúčať rozšírenia vybrané priamo pre mňa
 addon-recommendations-link = Ďalšie informácie

@@ -97,6 +97,7 @@ ipprotection-connection-status-paused-description = Vyčerpali ste celý objem {
 upgrade-vpn-title = Získajte dodatočnú ochranu nad rámec prehliadača
 upgrade-vpn-description = Vyberte si miesto, kde sa pripájate k VPN, používajte VPN pre všetky svoje aplikácie a až 5 zariadení a zostaňte v bezpečí v akejkoľvek sieti – doma alebo na verejnej Wi‑Fi sieti.
 upgrade-vpn-button = Vyskúšajte { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN je pozastavená
 
 ## Messages and errors
 
