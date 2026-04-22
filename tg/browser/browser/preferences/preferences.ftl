@@ -51,6 +51,9 @@ category-home =
 pane-search-title = Ҷустуҷӯ
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Махфият ва амният
+pane-privacy-section =
+    .heading = Махфият ва амният
 pane-privacy-title = Махфият ва амният
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -729,7 +732,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Самаранокӣ
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Тамошобинӣ
 browsing-group-label =
@@ -778,6 +781,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Маълумоти бештар
 browsing-group =
     .label = Тамошобинӣ
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2220,6 +2226,9 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = «DNS» тавассути «HTTPS»
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Мизи корӣ
@@ -2290,3 +2299,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
+
+## Warnings section
+
