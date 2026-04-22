@@ -33,6 +33,7 @@ ipprotection-feature-introduction-description-captive-portal = Ñeikundaha ñemo
 ipprotection-feature-introduction-button-primary = Tenondegua
 ipprotection-feature-introduction-button-secondary-not-now = Ani ko’ág̃a
 ipprotection-feature-introduction-button-secondary-no-thanks = Nahániri, aguyje
+ipprotection-feature-introduction-button-secondary-remove = Embogue VPN tembiporu rupágui
 
 ## Site settings callout
 
@@ -40,11 +41,18 @@ ipprotection-site-settings-callout-title = Eiporavo moõpa eiporúta VPN
 ipprotection-site-settings-callout-subtitle = Embogue pe VPN peteĩ tendaitepegua ha romomandu’áta katuete eike jey vove.
 ipprotection-site-settings-callout-button = Aikũmby
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Eha’ã jey
+ipprotection-location-selection-callout-secondary-button = Emboyke
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Eñomi tendaite</a> oñeikundaha aja { -brand-product-name } ndive.
+unauthenticated-private-location-message = Eipytyvõ <a data-l10n-name="learn-more-vpn">ereko ne rendaite ñemíme</a> { -brand-product-name } ndive.
+unauthenticated-choose-location-message = Eiporavo 5 tendaite apytépe térã eheja { -brand-product-name } toiporavo pya’eve.
 unauthenticated-hide-location-message-2 = Eñomi pe tendaite eikundaha aja { -brand-product-name } ndive.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -56,6 +64,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Eiporu VPN ko tendápe g̃uarã
     .aria-label = VPN ogue ko tendápe g̃uarã
+site-exclusion-toggle-description = ¿Ñanduti rogue ndoikói? Eñeha’ã embogue VPN.
 ipprotection-settings-link =
     .label = Ñemboheko
 
@@ -74,6 +83,12 @@ ipprotection-button-turn-vpn-off-excluded-site = Embogue VPN opa hendápe
 ipprotection-button-turn-vpn-on = Emyandy VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Emyandyhína…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Tendaite: Ñe’ẽporãpyre
 
 ## VPN paused state
 
