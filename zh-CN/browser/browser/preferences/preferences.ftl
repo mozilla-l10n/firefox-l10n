@@ -56,6 +56,9 @@ category-home =
 pane-search-title = 搜索
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = 隐私与安全
+pane-privacy-section =
+    .heading = 隐私与安全
 pane-privacy-title = 隐私与安全
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -736,7 +739,7 @@ performance-default-content-process-count =
 performance-group =
     .label = 性能
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = 浏览
 browsing-group-label =
@@ -785,6 +788,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 详细了解
 browsing-group =
     .label = 浏览
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2366,6 +2372,9 @@ preferences-doh-custom-provider-label =
     .aria-label = 输入自定义提供方的网址
 preferences-doh-header2 =
     .heading = 基于 HTTPS 的 DNS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
