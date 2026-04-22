@@ -380,6 +380,7 @@ newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Obnoviť predvolenú tapetu
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Nahrať obrázok
+newtab-wallpaper-add-an-image = Pridať obrázok
 newtab-wallpaper-custom-color = Zvoľte farbu
 newtab-wallpaper-toggle-title =
     .label = Tapety
@@ -407,6 +408,7 @@ newtab-wallpaper-light-fox-anniversary = Líška na trávnatom poli so zahmlenou
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Plné farby
+newtab-wallpaper-colors = Farby
 newtab-wallpaper-blue = Modrá
 newtab-wallpaper-light-blue = Svetlomodrá
 newtab-wallpaper-light-purple = Svetlofialová
@@ -493,6 +495,10 @@ newtab-weather-see-forecast =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorované
+newtab-weather-menu-change-location = Zmeniť lokalitu
+newtab-weather-change-location-search-input-placeholder =
+    .placeholder = Hľadať lokalitu
+    .aria-label = Hľadať lokalitu
 newtab-weather-menu-weather-display = Zobrazenie počasia
 newtab-weather-todays-forecast = Dnešná predpoveď
 newtab-weather-see-full-forecast = Zobraziť celú predpoveď
@@ -518,8 +524,9 @@ newtab-weather-opt-in-not-now =
     .label = Teraz nie
 newtab-weather-opt-in-yes =
     .label = Áno
+newtab-weather-opt-in-headline = Získajte lokálnu predpoveď počasia
 newtab-weather-opt-in-use-location =
-    .label = Použiť polohu
+    .label = Použiť lokalitu
 newtab-weather-opt-in-choose-location = Vybrať lokalitu
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
@@ -580,8 +587,16 @@ newtab-topic-selection-button-pick-interests = Vyberte si svoje záujmy
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Sledovať
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Sledovať { $topic }
 newtab-section-following-button = Sledované
 newtab-section-unfollow-button = Prestať sledovať
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Sledovanie: Prestať sledovať { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Dolaďte si svoj feed
 newtab-section-follow-highlight-subtitle = Sledujte svoje záujmy a uvidíte viac toho, čo sa vám páči.
@@ -623,6 +638,12 @@ newtab-custom-wallpaper-cta = Vyskúšajte to
 newtab-new-user-custom-wallpaper-title = Vyberte si tapetu a prispôsobte si { -brand-product-name }
 newtab-new-user-custom-wallpaper-subtitle = Vďaka vlastným tapetám a farbám sa budete cítiť ako doma na každej novej karte.
 newtab-new-user-custom-wallpaper-cta = Vyskúšajte si to hneď teraz
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Práve dorazili nové tapety
+newtab-wallpaper-feature-highlight-subtitle = Vyberte si svojho favorita a na každej novej karte sa budete cítiť ako doma.
+newtab-wallpaper-feature-highlight-cta = Vyberte si tapetu
 
 ## Strings for download mobile highlight
 
@@ -711,8 +732,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Vytvoriť nový zoznam
 newtab-widget-lists-name-label-default =
     .label = Zoznam úloh
+newtab-widget-lists-name-label-checklist =
+    .label = Kontrolný zoznam
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Zoznam úloh
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Kontrolný zoznam
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nový zoznam
@@ -732,7 +757,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimalizovať miniaplikácie
     .aria-label = Zbaliť všetky miniaplikácie do kompaktnej veľkosti
+newtab-widget-section-menu-button =
+    .title = Ponuka Miniaplikácie
+    .aria-label = Otvorí ponuku Miniaplikácie
+newtab-widget-section-menu-hide-all = Skryť miniaplikácie
+newtab-widget-section-menu-learn-more = Ďalšie informácie
 newtab-widget-section-feedback = Povedzte nám váš názor
+newtab-widget-lists-name-default = Kontrolný zoznam
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

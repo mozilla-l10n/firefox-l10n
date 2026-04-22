@@ -1722,3 +1722,10 @@ trustpanel-blocker-section-header2 =
         [one] Bu sitede <span data-l10n-name="count">{ $count }</span> takip kodu engellendi
        *[other] Bu sitede <span data-l10n-name="count">{ $count }</span> takip kodu engellendi
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Site bozuk mu görünüyor?</strong> İzlenme korumanızı geçici olarak azaltmak için sayfayı tazeleyin.
+reduced-protection-infobar-reload-button = Tazele
+    .accesskey = z

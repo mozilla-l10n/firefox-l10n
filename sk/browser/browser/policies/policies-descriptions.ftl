@@ -37,6 +37,7 @@ policy-Containers = Nastaví pravidlá súvisiace s kontajnermi.
 policy-DisableAccounts = Zakáže služby vyžadujúce účty, vrátane synchronizácie.
 policy-DisabledCiphers = Zakáže šifry.
 policy-DefaultDownloadDirectory = Nastaví predvolené umiestnenie pre sťahovanie súborov.
+policy-DefaultSerialGuardSetting = Ovláda používanie sériového API.
 policy-DisableAppUpdate = Zabráni aktualizáciám prehliadača.
 policy-DisableBuiltinPDFViewer = Zakáže PDF prehliadač PDF.js zabudovaný v prehliadači { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Zabráni agentovi Default browser vykonávať akékoľvek činnosti. Platí len pre Windows; iné platformy nemajú agenta Default browser.

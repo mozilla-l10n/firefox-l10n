@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Gezintinizi özelleştirin
 experimental-features-group-productivity =
     .label = Verimlilik
+experimental-features-group-newtab-widgets =
+    .label = { -firefox-home-brand-name } araçları
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Kenar çubuğunda parolalar
@@ -64,15 +66,25 @@ experimental-features-fx-web-apps-description = Sık ziyaret ettiğiniz siteleri
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name } listeleri
+experimental-features-newtab-widget-lists-new =
+    .label = Listeler
 experimental-features-newtab-widget-lists-description = Yapılacaklar listeniz her yeni sekmede gözünüzün önünde olsun. İster alışveriş listenizi, ister valizinize koyacaklarınızın listesini, isterseniz de her türlü planı { -brand-product-name } ile yapın. <a data-l10n-name="connect">Görüş bildirin</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name } sayacı
+experimental-features-newtab-widget-timer-new =
+    .label = Sayaç
 experimental-features-newtab-widget-timer-description = Odaklanmak, işinizi vaktinde tamamlamak ve mola vermeyi de unutmamak için sayaç ayarlayın. <a data-l10n-name="connect">Görüş bildirin</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name } listeleri ve sayacı
 experimental-features-newtab-widget-lists-and-timer-description = Yapılacaklar listeniz her yeni sekmede gözünüzün önünde olsun. İster alışveriş listenizi, ister valizinize koyacaklarınızın listesini, isterseniz de her türlü planı { -brand-product-name } ile yapın. Odaklanmak, işinizi vaktinde tamamlamak ve mola vermeyi de unutmamak için sayaç ayarlayın. <a data-l10n-name="connect">Görüş bildirin</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Hava durumu
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Saatler
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantik geçmiş araması

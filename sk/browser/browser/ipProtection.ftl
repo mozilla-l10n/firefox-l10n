@@ -65,12 +65,14 @@ unauthenticated-hide-location-message-2 = Skryte svoju polohu počas prehliadani
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
 unauthenticated-get-started = Začíname
+unauthenticated-terms-of-service-privacy-notice = Pokračovaním súhlasíte so <a data-l10n-name="vpn-terms-of-service">Podmienkami používania</a> a <a data-l10n-name="vpn-privacy-notice">Vyhlásením o ochrane osobných údajov</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Použiť VPN pre túto stránku
     .aria-label = VPN je pre túto stránku zapnutá
 site-exclusion-toggle-disabled-1 =
     .label = Použiť VPN pre túto stránku
     .aria-label = VPN je pre túto stránku vypnutá
+site-exclusion-toggle-description = Stránka nefunguje? Skúste vypnúť VPN.
 ipprotection-settings-link =
     .label = Nastavenia
 
@@ -96,16 +98,19 @@ ipprotection-button-connecting = Zapína sa…
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Lokalita: odporúčaná
 ipprotection-recommended-location-description = { -brand-product-name } nájde najrýchlejšiu lokalitu
+ipprotection-recommended-location-badge = NOVÉ
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Lokalita: { $country }
 ipprotection-locations-subview =
     .title = Vybrať lokalitu
 ipprotection-locations-subview-description = Vyberte iné miesto na prehliadanie.
+ipprotecion-locations-subview-recommended-label = Odporúčané
 ipprotection-locations-subview-recommended-description = Nájde najrýchlejšiu lokalitu
 ipprotection-locations-subview-promo =
     .heading = Posuňte ochranu na vyššiu úroveň pomocou { -mozilla-vpn-brand-name }
     .message = Vyberte si z viac ako 300 lokalít a chráňte všetky svoje aplikácie až na 5 zariadeniach.
+ipprotection-locations-subview-promo-button = Získajte { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -117,6 +122,9 @@ upgrade-vpn-title = Získajte dodatočnú ochranu nad rámec prehliadača
 upgrade-vpn-description = Vyberte si miesto, kde sa pripájate k VPN, používajte VPN pre všetky svoje aplikácie a až 5 zariadení a zostaňte v bezpečí v akejkoľvek sieti – doma alebo na verejnej Wi‑Fi sieti.
 upgrade-vpn-button = Vyskúšajte { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = VPN je pozastavená
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa obnoví budúci mesiac.
 
 ## Messages and errors
 
@@ -256,6 +264,12 @@ vpn-paused-alert-title = VPN pozastavená
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Využili ste celý objem { $maxUsage } GB dát pre VPN. Prístup k VPN sa obnoví budúci mesiac.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Vyčerpali ste celý objem { $maxUsage } GB dát VPN. Prístup sa obnoví budúci mesiac.
+vpn-error-page-continue-description = Vyberte, ako pokračovať bez VPN
+vpn-error-page-keep-browsing = Pokračovať v prehliadaní v tejto relácii
+vpn-error-page-new-session = Začať novú reláciu
 vpn-paused-alert-close-tabs-button = Zavrieť všetky karty
 vpn-paused-alert-continue-wo-vpn-button = Pokračovať bez VPN
 vpn-error-alert-title = VPN momentálne nefunguje.

@@ -443,3 +443,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Varsayılan olarak ayarla
 set-default-menu-message-primary-button-variant = Ana tarayıcı olarak ayarla
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 e-posta maskesi bizden
+relay-50-masks-announcement-subtitle = Artık 50 maske ücretsiz. (Eskiden 5’ti.) Gerçek e-posta adresinizi gizli tutmak adına her hesap için ayrı bir maske kullanabilirsiniz.
+relay-50-masks-announcement-primary-button = { -relay-brand-name }’e git
+    .accesskey = e
+relay-50-masks-announcement-secondary-button = Kapat
+    .accesskey = K

@@ -585,8 +585,16 @@ newtab-topic-selection-button-pick-interests = İlgi alanlarınızı seçin
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Takip et
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = { $topic } konusunu takip et
 newtab-section-following-button = Takip ediliyor
 newtab-section-unfollow-button = Takibi bırak
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Takip ediliyor: { $title } konusunu takibi bırak
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Akışınıza ince ayar yapın
 newtab-section-follow-highlight-subtitle = Beğendiğiniz diğer içerikleri görmek için ilgi alanlarınızı takip edin.
@@ -628,6 +636,12 @@ newtab-custom-wallpaper-cta = Deneyin
 newtab-new-user-custom-wallpaper-title = { -brand-product-name } tarayıcınızı kişiselleştirmek için bir duvar kâğıdı seçin
 newtab-new-user-custom-wallpaper-subtitle = Özel duvar kağıtları ve renklerle her yeni sekmede evinizdeymiş gibi hissedin.
 newtab-new-user-custom-wallpaper-cta = Hemen deneyin
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Yepyeni duvar kâğıtları hazır
+newtab-wallpaper-feature-highlight-subtitle = En sevdiğiniz duvar kâğıdını seçin, her sekmede kendinizi evinizde hissedin.
+newtab-wallpaper-feature-highlight-cta = Duvar kâğıdı seç
 
 ## Strings for download mobile highlight
 
@@ -716,7 +730,11 @@ newtab-widget-lists-dropdown-create =
     .label = + Yeni liste oluştur
 newtab-widget-lists-name-label-default =
     .label = Görev listesi
+newtab-widget-lists-name-label-checklist =
+    .label = Görev listesi
 newtab-widget-lists-name-placeholder-default =
+    .placeholder = Görev listesi
+newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Görev listesi
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
@@ -737,7 +755,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Araçları küçült
     .aria-label = Tüm araçları kompakt boyuta küçült
+newtab-widget-section-menu-button =
+    .title = Araçlar menüsü
+    .aria-label = Araçlar menüsünü aç
+newtab-widget-section-menu-hide-all = Araçları gizle
+newtab-widget-section-menu-learn-more = Daha fazla bilgi al
 newtab-widget-section-feedback = Ne düşündüğünüzü bize anlatın
+newtab-widget-lists-name-default = Görev listesi
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

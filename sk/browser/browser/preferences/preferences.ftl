@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Nastavenia AI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Zjednodušenie ovládania
+    .title = { pane-accessibility-title }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty prehliadača { -brand-short-name }
@@ -754,6 +756,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Použiť automatický posun
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navigácia a rolovanie pomocou klávesnice
+motion-and-link-group =
+    .label = Pohyb a štýlovanie odkazov
 browsing-use-smooth-scrolling =
     .label = Použiť plynulý posun
     .accesskey = o
@@ -798,6 +804,10 @@ browsing-group =
 
 ## Accessibility page
 
+preferences-accessibility-header =
+    .heading = Zjednodušenie ovládania
+preferences-default-zoom-select =
+    .aria-label = Predvolená veľkosť
 preferences-fonts-family =
     .label = Typ písma
     .accesskey = T
