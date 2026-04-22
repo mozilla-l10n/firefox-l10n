@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Arama
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Gizlilik ve Güvenlik
+pane-privacy-section =
+    .heading = Gizlilik ve Güvenlik
 pane-privacy-title = Gizlilik ve Güvenlik
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Performans
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Gezinti
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
 browsing-group =
     .label = Gezinti
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Özel sağlayıcının adresini girin
 preferences-doh-header2 =
     .heading = HTTPS üzerinden DNS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
