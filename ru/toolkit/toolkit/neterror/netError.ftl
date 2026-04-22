@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> вернул 
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Сервер на <strong>{ $hostname }</strong> отправил обратно ошибку: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> отправил в ответ заголовок с пустыми символами, что не разрешено стандартами веб-безопасности.
+fp-neterror-content-encoding-intro = Страница, которую вы пытаетесь просмотреть, не может быть показана, так как она использует недействительный или неподдерживаемый алгоритм сжатия данных.
 fp-neterror-coop-coep-intro = { -brand-short-name } не загрузил эту страницу, так как похоже, что конфигурация безопасности не соответствует предыдущей странице.
 fp-neterror-blocked-by-policy-intro = Ваша организация заблокировала доступ к этой странице или сайту.
 fp-neterror-http-auth-disabled-intro = Кто-то, выдающий себя за сайт, может попытаться украсть ваше имя пользователя, пароль или адрес электронной почты.

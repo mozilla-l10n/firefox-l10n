@@ -49,6 +49,7 @@ ipprotection-site-settings-callout-button = Sym zrozumił
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nowy: Změńće swoje stejnišćo
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> wam zmóžnja, z 5 stejnišćow přehladowanja wubrać abo so najspěšniše za was wubrać.
 ipprotection-location-selection-callout-primary-button = Wupruwujće jón
 ipprotection-location-selection-callout-secondary-button = Zaćisnyć
 
@@ -58,6 +59,7 @@ ipprotection-location-selection-callout-secondary-button = Zaćisnyć
 unauthenticated-vpn-title = Wupruwujće zatwarjeny VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajće swoje stejnišćo</a>, mjeztym zo w { -brand-product-name } přehladujeće.
 unauthenticated-private-location-message = Pomha w { -brand-product-name } <a data-l10n-name="learn-more-vpn">waše stejnišćo priwatne dźeržeć</a>.
+unauthenticated-choose-location-message = Wubjerće z 5 stejnišćow abo dajće { -brand-product-name } najspěšniše wubrać.
 unauthenticated-hide-location-message-2 = Schowajće swoje stejnišćo, mjeztym zo z { -brand-product-name } přehladujeće.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

@@ -82,6 +82,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Wobchowajće s
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Wjedrowe předpowědźe
+experimental-features-newtab-widget-weather-description = Dóstańće jasny pohlad na dźensniše wjedro z hodźinskimi předpowědźemi. <a data-l10n-name="connect">Měnjenje dźělić</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Wobraz dnja
