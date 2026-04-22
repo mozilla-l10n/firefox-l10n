@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Chwilio
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Preifatrwydd a Diogelwch
+pane-privacy-section =
+    .heading = Preifatrwydd a Diogelwch
 pane-privacy-title = Preifatrwydd a Diogelwch
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -752,7 +755,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Perfformiad
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Pori
 browsing-group-label =
@@ -801,6 +804,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Darllen rhagor
 browsing-group =
     .label = Pori
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2393,6 +2399,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Rhowch URL darparwr cyfaddas
 preferences-doh-header2 =
     .heading = DNS Dros HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
