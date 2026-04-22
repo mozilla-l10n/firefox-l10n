@@ -44,6 +44,7 @@ ipprotection-site-settings-callout-button = Verstanden
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Neu: Ändern Sie Ihren Standort
+ipprotection-location-selection-callout-primary-button = Ausprobieren
 
 ## Panel
 
@@ -79,6 +80,22 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN überall deaktivieren
 ipprotection-button-turn-vpn-on = VPN aktivieren
 # Button while VPN is connecting
 ipprotection-button-connecting = Wird aktiviert…
+
+## Location controls
+
+ipprotection-recommended-location-badge = NEU
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Standort: { $country }
+ipprotection-locations-subview =
+    .title = Standort auswählen
+ipprotection-locations-subview-description = Wählen Sie einen anderen Standort zum Surfen.
+ipprotecion-locations-subview-recommended-label = Empfohlen
+ipprotection-locations-subview-recommended-description = Findet den schnellsten Standort
+ipprotection-locations-subview-promo =
+    .heading = Verbessern Sie Ihren Schutz mit { -mozilla-vpn-brand-name }
+    .message = Wählen Sie aus überm 300 Standorten und schützen Sie alle Ihre Apps auf bis zu 5 Geräten.
+ipprotection-locations-subview-promo-button = Holen Sie sich { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 

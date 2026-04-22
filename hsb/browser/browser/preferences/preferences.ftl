@@ -2413,7 +2413,10 @@ preferences-doh-header2 =
 ## Connection and software security section
 
 preferences-connection-header =
-    .heading = Zwjazk a wěstota softwary
+    .heading = Zwisk a wěstota softwary
+preferences-connection-link-section =
+    .label = Zwisk a wěstota softwary
+    .description = Hladajće, kak zwiski wěste wostawaja, so software blokuje a so websydła přepruwuja.
 preferences-connection-link-button =
     .label = Rozšěrjene nastajenja
 

@@ -1467,6 +1467,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Priwatne posedźenje skónčić
     .tooltiptext = Priwatne posedźenje skónčić
+reset-pbm-panel-heading2 = Daty zhašeć a nowe priwatne posedźenje započeć?
+reset-pbm-panel-description2 = To historiju, placki a wšě waše druhe sydłowe daty, bjeztoho zo by so priwatne wokno začiniło.
 reset-pbm-panel-heading = Waše priwatne posedźenje skónčić?
 reset-pbm-panel-description = Začińće wšě priwatne rajtarki a zhašejće historiju, placki a wšě druhe sydłowe daty.
 reset-pbm-panel-always-ask-checkbox =
@@ -1767,7 +1769,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Tute sydła kryptokopanje pospytuja:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Maće konto na tutym sydle?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } wotkry, zo tute sydło měješe datowu dźěru za poslednje 12 měsacow. Wuslědźće, hač sće potrjecheny.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Zaćisnyć
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Darmotny sken započeć
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> přesćěhowak je so na tutym sydle zablokował

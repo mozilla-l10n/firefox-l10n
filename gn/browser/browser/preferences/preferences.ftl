@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = IA mongu’eha
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Jeikekuaa
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } Mba’epyahu
 category-experimental =
     .tooltiptext = { -brand-short-name } Mba’epyahu
@@ -792,6 +794,22 @@ browsing-cfr-recommendations-learn-more = Kuaave
 browsing-group =
     .label = Kundaha
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Jeikekuaa
+preferences-default-zoom-select =
+    .aria-label = Zoom ypyguáva
+preferences-fonts-family =
+    .label = Tai’aty renda
+    .accesskey = D
+preferences-fonts-size =
+    .label = Tai tuichakue
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Ñemboheko opapotáva
+    .accesskey = A
+
 ## General Section - Proxy
 
 network-settings-title = Jeike ñemboheko
@@ -1095,6 +1113,7 @@ search-edit-engine =
     .label = Mbosako’i
     .accesskey = E
 search-find-more-link = Ejuhu hetave hekaha mongu’eha
+search-filtering-for-add-engine = Embojuaju Jehekaha
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Jehero jo’apyre
@@ -2122,6 +2141,8 @@ collection-backlogged-crash-reports2 =
     .label = Toho ijehegui marandu jejavy rehegua
     .accesskey = c
 collection-backlogged-crash-reports-description = Kóva oipytyvõ { -vendor-short-name }-pe roikuaa ha romyatyrõvo apañuái kundahára ndive. Umi marandu’ípe oĩkuaa mba’ekuaarã nemba’ete ha ñemiguáva.
+settings-redesign-promo-dismiss-button =
+    .label = Aikũmby
 addon-recommendations =
     .label = Emoneĩ { -brand-short-name } ojapóvo ñe’ẽporã jepysokue momba’epyrépe
 addon-recommendations-link = Kuaave
@@ -2377,6 +2398,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Emoinge URL me’ẽhára mboavapyréva
 preferences-doh-header2 =
     .heading = DNS HTTPS rehegua
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Ñemoĩporã opapotáva
 
 ## The following strings are used in the Download section of settings
 
