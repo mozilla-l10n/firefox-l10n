@@ -598,8 +598,16 @@ newtab-topic-selection-button-pick-interests = Dewiswch eich diddordebau
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Dilyn
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Dilynwch { $topic }
 newtab-section-following-button = Yn dilyn
 newtab-section-unfollow-button = Dad-ddilyn
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Yn dilyn: Dad-ddilyn { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Mireinio'ch ffrwd
 newtab-section-follow-highlight-subtitle = Dilynwch eich diddordebau i weld mwy o'r hyn rydych yn ei hoffi.
@@ -641,6 +649,11 @@ newtab-custom-wallpaper-cta = Rhowch gynnig arni
 newtab-new-user-custom-wallpaper-title = Dewiswch bapur wal i wneud { -brand-product-name } eich un chi
 newtab-new-user-custom-wallpaper-subtitle = Gwnewch i bob tab newydd deimlo fel adref gyda phapurau wal a lliwiau cyfaddas.
 newtab-new-user-custom-wallpaper-cta = Rhowch gynnig arno
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Mae papurau wal newydd ffres wedi cyrraedd
+newtab-wallpaper-feature-highlight-subtitle = Dewiswch eich ffefryn a gwnewch i bob tab newydd deimlo fel cartref.
 
 ## Strings for download mobile highlight
 

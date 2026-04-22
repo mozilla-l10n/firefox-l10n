@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Condividi
     .tooltiptext = Condivider iste pagina
+toolbar-button-tab-groups =
+    .label = Gruppos de schedas
+    .tooltiptext = Monstrar tu gruppos de schedas
 
 ## EME notification panel
 

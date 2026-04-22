@@ -1821,6 +1821,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Mae'r gwefannau hyn yn ceisio cryptogloddio:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Oes gennych chi gyfrif ar y wefan hon?
+trustpanel-breachalerts-anonymous-breached-description = Mae { -brand-product-name } wedi darganfod fod y wefan hon wedi profi tor-data yn ystod y 12 mis diwethaf. Ewch i weld os gawsoch eich effeithio.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Cau
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Dechrau sgan am ddim
 trustpanel-blocker-section-header2 =

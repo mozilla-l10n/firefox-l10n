@@ -104,9 +104,12 @@ ipprotection-recommended-location-badge = NEWYDD
 ipprotection-location-country-button = Lleoliad: { $country }
 ipprotection-locations-subview =
     .title = Dewis lleoliad
-ipprotection-locations-subview-description = Dewiswch leoliad gwahanol i bori oddi yno.
 ipprotecion-locations-subview-recommended-label = Cymeradwy
 ipprotection-locations-subview-recommended-description = Yn dod o hyd i'r lleoliad cyflymaf
+ipprotection-locations-subview-promo =
+    .heading = Ewch â'r diogelu ymhellach gyda { -mozilla-vpn-brand-name }
+    .message = Dewiswch o 300+ o leoliadau a diogelu eich apiau ar hyd at 5 dyfais.
+ipprotection-locations-subview-promo-button = Cael { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -117,6 +120,10 @@ ipprotection-connection-status-paused-description = Rydych chi wedi defnyddio { 
 upgrade-vpn-title = Cael diogelwch ychwanegol y tu hwnt i'r porwr
 upgrade-vpn-description = Dewiswch eich lleoliad VPN, defnyddiwch VPN ar gyfer eich holl apiau a hyd at 5 dyfais, a chadw'n ddiogel ar unrhyw rwydwaith - gartref neu ar Wi-Fi cyhoeddus.
 upgrade-vpn-button = Rhowch gynnig ar { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = Mae VPN wedi'i oedi
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Rydych chi wedi defnyddio'r cyfan o'r { $maxUsage } GB o'ch data VPN. Bydd mynediad yn ailgychwyn y mis nesaf.
 
 ## Messages and errors
 
@@ -166,12 +173,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Rydych bron alla
 ip-protection-description =
     .label = VPN
     .description = VPN mewnol i wella eich preifatrwydd wrth bori ar { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN mewnol
+    .description = Cael preifatrwydd ychwanegol drwy guddio'ch lleoliad wrth bori
 ip-protection-learn-more = Dysgu rhagor
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
     .message = Cuddiwch eich lleoliad wrth bori gyda { -brand-short-name }. Cewch { $maxUsage } GB o ddata bob mis am ddim.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Rhowch gynnig ar VPN mewnol { -brand-short-name }
+    .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad. Cewch { $maxUsage } GB o ddata VPN am ddim bob mis.
 ip-protection-not-opted-in-button = Cychwyn arni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -195,6 +210,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Cael hyd yn oed mwy o ddiogelwch tu allan i { -brand-short-name } gyda { -mozilla-vpn-brand-name }
     .description = Dewiswch leoliadau VPN cyfaddas ac ychwanegu diogelwch i'ch holl apiau ar hyd at bum dyfais, p'un ai rydych adref neu ar Wi-Fi cyhoeddus
+ip-protection-vpn-upgrade-link-1 =
+    .label = Ewch â'r diogelwch ymhellach gyda { -mozilla-vpn-brand-name }
+    .description = Dewis o 300+ lleoliad a diogelu eich apiau ar hyd at 5 dyfais.
 
 ## IP Protection dialogs
 
@@ -247,6 +265,12 @@ vpn-paused-alert-title = Oedi'r VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Rydych chi wedi defnyddio { $maxUsage } GB, sef y cyfan o'ch data VPN. Bydd eich mynediad i'r VPN yn ailgychwyn mis nesaf.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Rydych chi wedi defnyddio { $maxUsage } GB, sef y cyfan o'ch data VPN. Bydd eich mynediad i'r VPN yn ailgychwyn mis nesaf.
+vpn-error-page-continue-description = Dewiswch sut i barhau heb VPN
+vpn-error-page-keep-browsing = Cadwch i bori yn y sesiwn hon
+vpn-error-page-new-session = Dechrau sesiwn newydd
 vpn-paused-alert-close-tabs-button = Cau pob tab
 vpn-paused-alert-continue-wo-vpn-button = Parhau heb y VPN
 vpn-error-alert-title = Dyw'r VPN ddim yn gweithio ar hyn o bryd.

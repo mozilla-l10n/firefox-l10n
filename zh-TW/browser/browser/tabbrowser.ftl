@@ -286,6 +286,14 @@ tab-group-editor-action-new-tab =
     .label = 在群組中開啟新分頁
 tab-group-editor-action-new-window =
     .label = 將群組移動至新視窗
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] 複製群組中的鏈結
+           *[other] 複製群組中的 { $linkCount } 的鏈結
+        }
 tab-group-editor-action-save =
     .label = 儲存並關閉群組
 tab-group-editor-action-ungroup =

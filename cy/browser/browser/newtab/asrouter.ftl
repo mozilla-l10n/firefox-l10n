@@ -455,3 +455,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Gosod fel y rhagosodiad
 set-default-menu-message-primary-button-variant = Gosod fel eich prif borwr
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 arallenw e-bost, gennym ni
+relay-50-masks-announcement-subtitle = Nawr rydych chi'n cael 50 o arallenwau am ddim (hyd at 5). Defnyddiwch un ar gyfer pob cyfrif i gadw'ch e-bost go iawn yn breifat.
+relay-50-masks-announcement-primary-button = Ewch i { -relay-brand-name }
+    .accesskey = E
+relay-50-masks-announcement-secondary-button = Cau
+    .accesskey = C

@@ -82,6 +82,9 @@ experimental-features-newtab-widget-lists-and-timer-description = 開啟新分�
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = 天氣預報
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = 每日一圖
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = 時鐘

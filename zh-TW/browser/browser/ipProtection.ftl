@@ -55,11 +55,13 @@ ipprotection-location-selection-callout-secondary-button = 知道了！
 unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
 unauthenticated-hide-location-message-3 = 使用 { -brand-product-name } 上網時<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-private-location-message = 使用 { -brand-product-name } 上網時可幫助<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
+unauthenticated-choose-location-message = 從 5 個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
 unauthenticated-hide-location-message-2 = 使用 { -brand-product-name } 上網時，隱藏您的所在位置。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月獲得 { $maxUsage } GB 免費 VPN 流量。
 unauthenticated-get-started = 開始使用
+unauthenticated-terms-of-service-privacy-notice = 繼續使用，代表您同意我們的<a data-l10n-name="vpn-terms-of-service">服務條款</a>及<a data-l10n-name="vpn-privacy-notice">隱私權公告</a>。
 site-exclusion-toggle-enabled-1 =
     .label = 使用 VPN 開啟此網站
     .aria-label = 已對此網站開啟 VPN 連線
@@ -98,8 +100,12 @@ ipprotection-recommended-location-badge = 新功能
 ipprotection-location-country-button = 位置：{ $country }
 ipprotection-locations-subview =
     .title = 選擇位置
+ipprotection-locations-subview-description = 請選擇另一個要連線的位置。
 ipprotecion-locations-subview-recommended-label = 推薦
 ipprotection-locations-subview-recommended-description = 尋找最快位置
+ipprotection-locations-subview-promo =
+    .heading = 用 { -mozilla-vpn-brand-name } 獲得更佳保護
+    .message = 用最多 5 台裝置，從超過 300 個位置連線並保護您的所有應用程式。
 ipprotection-locations-subview-promo-button = 獲得 { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -173,6 +179,11 @@ ip-protection-learn-more = 更多資訊
 ip-protection-not-opted-in-2 =
     .heading = 試用 { -brand-short-name } 的內建 VPN
     .message = 使用 { -brand-short-name } 上網時，隱藏您的所在位置。每月都有 { $maxUsage } GB 免費流量。
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = 試用 { -brand-short-name } 的內建 VPN
+    .message = 隱藏您的實際所在位置以獲得額外保護。每月都有 { $maxUsage } GB 免費 VPN 流量。
 ip-protection-not-opted-in-button = 開始使用
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -188,6 +199,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = 請使用 { -mozilla-vpn-brand-name } 幫 { -brand-short-name } 以外的程式獲得更多保護。
     .description = 自行選擇 VPN 連線位置，幫最多 5 台裝置中的所有應用程式都加上保護。不論是在家或透過公共 Wi-Fi 上網都能使用。
+ip-protection-vpn-upgrade-link-1 =
+    .label = 用 { -mozilla-vpn-brand-name } 獲得更佳保護
+    .description = 用最多 5 台裝置，從超過 300 個位置連線並保護您的所有應用程式。
 
 ## IP Protection dialogs
 
