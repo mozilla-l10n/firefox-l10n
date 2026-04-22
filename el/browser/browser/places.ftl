@@ -266,3 +266,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Το σύστημα σελιδοδεικτών και ιστορικού δεν θα λειτουργεί επειδή ένα από τα αρχεία του { -brand-short-name } χρησιμοποιείται από μια άλλη εφαρμογή. Αυτό το πρόβλημα μπορεί να οφείλεται σε κάποιο λογισμικό ασφάλειας.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Κοινή χρήση φακέλου

@@ -64,10 +64,14 @@ experimental-features-fx-web-apps-description = Ανοίξτε τους ιστο
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Λίστες στην { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Λίστες
 experimental-features-newtab-widget-lists-description = Δείτε τις λίστες με τις υποχρεώσεις σας στη σελίδα νέας καρτέλας. Από λίστες αγορών μέχρι λίστες αποσκευών, οργανώστε τα σχέδιά σας στο { -brand-product-name }. <a data-l10n-name="connect">Αποστολή σχολίων</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Αντίστροφη μέτρηση στην { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Αντίστροφη μέτρηση
 experimental-features-newtab-widget-timer-description = Ξεκινήστε μια αντίστροφη μέτρηση χρόνου για να παραμείνετε προσηλωμένοι στον στόχο σας ή να θυμηθείτε να κάνετε ένα διάλειμμα. <a data-l10n-name="connect">Αποστολή σχολίων</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =

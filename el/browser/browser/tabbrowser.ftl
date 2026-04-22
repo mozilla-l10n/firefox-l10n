@@ -266,6 +266,14 @@ tab-context-unnamed-group =
     .label = Ανώνυμη ομάδα
 tab-group-name-default = Ανώνυμη ομάδα
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Ομάδες καρτελών
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -317,6 +325,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Τέλος
     .accessKey = Τ
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Κοινή χρήση ομάδας καρτελών
 tab-context-reopen-tab-group =
     .label = Επαναφορά ομάδας καρτελών
 # Variables:

@@ -25,6 +25,9 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Introducer VPN, ora justo interne a tu navigator
 ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Adder un altere nivello de confidentialitate
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige ab 5 positiones pro mantener plus private ubi tu naviga.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-captive-portal = Navigar con protection ulterior celante tu position, mesmo sur wi-fi public.

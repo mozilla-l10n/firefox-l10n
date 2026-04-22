@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Κοινοποίηση
     .tooltiptext = Κοινοποίηση σελίδας
+toolbar-button-tab-groups =
+    .label = Ομάδες καρτελών
+    .tooltiptext = Εμφάνιση των ομάδων καρτελών σας
 
 ## EME notification panel
 
@@ -1445,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Τερματισμός ιδιωτικής συνεδρίας
     .tooltiptext = Τερματισμός ιδιωτικής συνεδρίας
+reset-pbm-panel-heading2 = Εκκαθάριση δεδομένων και έναρξη νέας ιδιωτικής συνεδρίας;
+reset-pbm-panel-description2 = Αυτό διαγράφει το ιστορικό, τα cookie και όλα τα άλλα δεδομένα ιστοτόπων χωρίς να κλείσει το ιδιωτικό σας παράθυρο.
 reset-pbm-panel-heading = Τερματισμός ιδιωτικής συνεδρίας;
 reset-pbm-panel-description = Κλείστε όλες τις ιδιωτικές καρτέλες και διαγράψτε το ιστορικό, τα cookie και όλα τα άλλα δεδομένα ιστοτόπων.
 reset-pbm-panel-always-ask-checkbox =
@@ -1700,8 +1705,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] Το { -brand-product-name } επέτρεψε { $count } cryptominer
     }
 trustpanel-cryptominer-tab-list-header = Αυτοί οι ιστότοποι προσπαθούν να εξορύξουν κρυπτονομίσματα:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Έχετε λογαριασμό σε αυτή τη σελίδα;
+trustpanel-breachalerts-anonymous-breached-description = Το { -brand-product-name } διαπίστωσε ότι αυτός ο ιστότοπος παρουσίασε παραβίαση δεδομένων τους τελευταίους 12 μήνες. Μάθετε αν επηρεαστήκατε.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Απόρριψη
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Έναρξη δωρεάν σάρωσης
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> αποκλεισμένος ιχνηλάτης σε αυτόν τον ιστότοπο
        *[other] <span data-l10n-name="count">{ $count }</span> αποκλεισμένοι ιχνηλάτες σε αυτόν τον ιστότοπο
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Ανανέωση
+    .accesskey = R

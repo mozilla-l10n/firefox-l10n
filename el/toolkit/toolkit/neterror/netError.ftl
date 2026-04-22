@@ -199,6 +199,7 @@ fp-neterror-http-error-page-intro = Το <strong>{ $hostname }</strong> επέσ
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Ο διακομιστής στο <strong>{ $hostname }</strong> επέστρεψε σφάλμα: { $responsestatus } { $responsestatustext }
+fp-neterror-content-encoding-intro = Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή χρησιμοποιεί μια  μη έγκυρη ή μη υποστηριζόμενη μορφή συμπίεσης. Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.
 fp-neterror-coop-coep-intro = Το { -brand-short-name } δεν φόρτωσε αυτήν τη σελίδα, επειδή φαίνεται ότι οι ρυθμίσεις ασφαλείας δεν συμφωνούν με την προηγούμενη σελίδα.
 fp-neterror-blocked-by-policy-intro = Η εταιρεία σας έχει αποκλείσει την πρόσβαση σε αυτήν τη σελίδα ή τον ιστότοπο.
 fp-neterror-http-auth-disabled-intro = Κάποιος που προσποιείται ότι είναι ο ιστότοπος θα μπορούσε να υποκλέψει στοιχεία, όπως το όνομα χρήστη, τον κωδικό πρόσβασης ή το email σας.

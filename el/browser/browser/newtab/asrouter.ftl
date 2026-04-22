@@ -442,3 +442,9 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Ορισμός ως προεπιλογή
 set-default-menu-message-primary-button-variant = Ορισμός ως κύριο πρόγραμμα περιήγησης
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 δωρεάν μάσκες email
+relay-50-masks-announcement-subtitle = Έχετε πλέον 50 δωρεάν μάσκες (αντί για 5). Χρησιμοποιήστε μία για κάθε λογαριασμό, ώστε να διατηρείτε το πραγματικό σας email απόρρητο.

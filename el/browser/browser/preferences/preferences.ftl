@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Επιλογές ελέγχου ΤΝ
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Προσβασιμότητα
+    .title = { pane-accessibility-title }
 pane-experimental-title = Πειράματα { -brand-short-name }
 category-experimental =
     .tooltiptext = Πειράματα { -brand-short-name }
@@ -792,6 +794,22 @@ browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
 browsing-group =
     .label = Περιήγηση
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Προσβασιμότητα
+preferences-default-zoom-select =
+    .aria-label = Προεπιλεγμένο ζουμ
+preferences-fonts-family =
+    .label = Οικογένεια γραμματοσειράς
+    .accesskey = D
+preferences-fonts-size =
+    .label = Μέγεθος γραμματοσειράς
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Σύνθετες ρυθμίσεις
+    .accesskey = A
+
 ## General Section - Proxy
 
 network-settings-title = Ρυθμίσεις δικτύου
@@ -1095,6 +1113,7 @@ search-edit-engine =
     .label = Επεξεργασία
     .accesskey = Ε
 search-find-more-link = Εύρεση περισσότερων μηχανών αναζήτησης
+search-filtering-for-add-engine = Προσθήκη μηχανής
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Διπλή λέξη-κλειδί
@@ -2124,6 +2143,8 @@ collection-backlogged-crash-reports2 =
     .label = Αυτόματη αποστολή αναφορών κατάρρευσης
     .accesskey = τ
 collection-backlogged-crash-reports-description = Αυτό βοηθά τη { -vendor-short-name } να διαγνώσει και να επιλύσει προβλήματα του προγράμματος περιήγησης. Οι αναφορές ενδέχεται να περιέχουν προσωπικά ή ευαίσθητα δεδομένα.
+settings-redesign-promo-dismiss-button =
+    .label = Το κατάλαβα
 addon-recommendations =
     .label = Αποδοχή εξατομικευμένων προτάσεων για επεκτάσεις από το { -brand-short-name }
 addon-recommendations-link = Μάθετε περισσότερα
@@ -2379,6 +2400,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Εισαγάγετε ένα προσαρμοσμένο URL παρόχου
 preferences-doh-header2 =
     .heading = DNS μέσω HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Σύνθετες ρυθμίσεις
 
 ## The following strings are used in the Download section of settings
 
