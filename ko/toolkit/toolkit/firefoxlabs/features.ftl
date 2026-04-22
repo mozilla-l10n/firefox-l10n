@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = 탐색 사용자 지정
 experimental-features-group-productivity =
     .label = 생산성
+experimental-features-group-newtab-widgets =
+    .label = { -firefox-home-brand-name } 위젯
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = 사이드바의 비밀번호
@@ -64,6 +66,8 @@ experimental-features-fx-web-apps-description = 자주 방문하는 사이트를
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name } 목록
+experimental-features-newtab-widget-lists-new =
+    .label = 목록
 experimental-features-newtab-widget-lists-description = 새 탭을 열 때 할 일 목록을 가장 먼저 염두에 두세요. 포장 목록부터 쇼핑 목록에 이르기까지 { -brand-product-name }에서 계획을 세우세요. <a data-l10n-name="connect">의견 공유</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =

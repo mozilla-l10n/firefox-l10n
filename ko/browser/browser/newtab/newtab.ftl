@@ -642,6 +642,8 @@ newtab-new-user-custom-wallpaper-cta = 지금 사용해보기
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = 새로운 배경 화면이 방금 공개되었습니다
+newtab-wallpaper-feature-highlight-subtitle = 취향에 맞는 걸 골라 모든 새 탭을 나만의 공간으로 꾸며보세요.
+newtab-wallpaper-feature-highlight-cta = 배경 화면 선택
 
 ## Strings for download mobile highlight
 
@@ -730,8 +732,12 @@ newtab-widget-lists-dropdown-create =
     .label = + 새 목록 만들기
 newtab-widget-lists-name-label-default =
     .label = 작업 목록
+newtab-widget-lists-name-label-checklist =
+    .label = 체크리스트
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 작업 목록
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = 체크리스트
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = 새 목록
@@ -751,7 +757,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = 위젯 최소화
     .aria-label = 모든 위젯을 작은 크기로 접기
+newtab-widget-section-menu-button =
+    .title = 위젯 메뉴
+    .aria-label = 위젯 메뉴 열기
+newtab-widget-section-menu-hide-all = 위젯 숨기기
+newtab-widget-section-menu-learn-more = 더 알아보기
 newtab-widget-section-feedback = 의견을 알려주세요
+newtab-widget-lists-name-default = 체크리스트
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -150,6 +150,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = 휴대폰 연결
 tab-context-send-to-mobile-device-missing =
     .label = 사용자의 기기가 없나요?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = 공유 가능한 링크 만들기
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label = 탭 { $tabCount }개를 기기로 보내기
     .accesskey = n
