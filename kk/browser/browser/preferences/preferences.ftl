@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Іздеу
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Жекелік және қауіпсіздік
+pane-privacy-section =
+    .heading = Жекелік және қауіпсіздік
 pane-privacy-title = Жекелік және қауіпсіздік
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Өнімділік
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Сайттарды қарау
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Көбірек білу
 browsing-group =
     .label = Сайттарды қарау
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Таңдауыңызша провайдердің URL сілтемесін енгізу
 preferences-doh-header2 =
     .heading = HTTPS арқылы DNS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
