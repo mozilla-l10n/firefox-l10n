@@ -25,6 +25,8 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Descubra a VPN, agora integrada diretamente no seu navegador
 ipprotection-feature-introduction-link-text-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Adicione outra camada de privacidade
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção extra, ocultando sua localização, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-description-captive-portal = Navegue com proteção extra, ocultando sua localização, mesmo em redes públicas de WiFi.
@@ -37,6 +39,11 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Não, obrigado
 ipprotection-site-settings-callout-title = Escolha onde usar VPN
 ipprotection-site-settings-callout-subtitle = Desative a VPN em um site específico, isso será lembrado na próxima vez que você visitar.
 ipprotection-site-settings-callout-button = Entendi
+
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Experimentar
+ipprotection-location-selection-callout-secondary-button = Descartar
 
 ## Panel
 
@@ -72,6 +79,10 @@ ipprotection-button-turn-vpn-off-excluded-site = Desativar VPN em todo lugar
 ipprotection-button-turn-vpn-on = Ativar VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Ativando…
+
+## Location controls
+
+ipprotection-recommended-location-badge = NOVIDADE
 
 ## VPN paused state
 

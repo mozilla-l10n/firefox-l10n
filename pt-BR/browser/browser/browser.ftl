@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Compartilhar
     .tooltiptext = Compartilhar esta página
+toolbar-button-tab-groups =
+    .label = Grupos de abas
+    .tooltiptext = Mostrar seus grupos de abas
 
 ## EME notification panel
 
@@ -1445,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Encerrar sessão privativa
     .tooltiptext = Encerrar sessão privativa
+reset-pbm-panel-heading2 = Limpar os dados e iniciar uma nova sessão privativa?
+reset-pbm-panel-description2 = São excluídos histórico, cookies e todos os outros dados de sites, sem fechar sua janela privativa.
 reset-pbm-panel-heading = Encerrar a sessão privativa?
 reset-pbm-panel-description = Fecha todas as abas privativas e apaga histórico, cookies e todos os outros dados de sites.
 reset-pbm-panel-always-ask-checkbox =
@@ -1453,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Limpar sessão privativa
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = Excluir dados da sessão
     .accesskey = x
@@ -1698,8 +1706,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] O { -brand-product-name } permitiu { $count } criptomineradores
     }
 trustpanel-cryptominer-tab-list-header = Estes sites estão tentando criptominerar:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Tem uma conta neste site?
+trustpanel-breachalerts-anonymous-breached-description = O { -brand-product-name } descobriu que este site teve um vazamento de dados nos últimos 12 meses. Descubra se você foi afetado.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Descartar
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Iniciar verificação gratuita
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado neste site
        *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados neste site
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Recarregar
+    .accesskey = R
