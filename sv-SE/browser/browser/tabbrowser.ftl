@@ -319,9 +319,8 @@ tab-group-editor-action-new-window =
 tab-group-editor-action-copy-links =
     .label =
         { $linkCount ->
-            [1] Kopiera länk i grupp
-            [one] Kopiera { $linkCount } länkar i grupp
-           *[other] Kopiera { $linkCount } länkar i grupp
+            [1] Kopiera länk i gruppen
+           *[other] Copy { $linkCount } links in group
         }
 tab-group-editor-action-save =
     .label = Spara och stäng grupp

@@ -82,15 +82,14 @@ experimental-features-newtab-widget-lists-and-timer-description = Ha din att-gö
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Väderprognoser
-experimental-features-newtab-widget-weather-description = Få en klar bild över dagens väder med prognoser per timme. <a data-l10n-name="connect">Dela feedback</a>
+experimental-features-newtab-widget-weather-description = Få en tydlig bild av dagens väder med timprognoser. <a data-l10n-name="connect">Dela feedback</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Dagens bild
-experimental-features-newtab-widget-picture-of-the-day-description = Lägg till lite dagligt under till din dag. Få en ny bild, lär dig något intressant och sätt en ny bakgrundsbild på ett kick. <a data-l10n-name="connect">Dela feedback</a>
+experimental-features-newtab-widget-picture-of-the-day-description = Lägg till lite vardagliga underverk i din dag. Ta en ny bild, lär dig något intressant och sätt en ny bakgrundsbild på ett ögonblick. <a data-l10n-name="connect">Dela feedback</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Klockor
-experimental-features-newtab-widget-clocks-description = Lägg till upp till fyra klockor med egna smeknamn för att hålla tiden på platser som är viktiga för dig. <a data-l10n-name="connect">Dela feedback</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historiksökning

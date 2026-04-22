@@ -27,13 +27,13 @@ ipprotection-feature-introduction-title = Introducerar VPN, nu direkt i din webb
 ipprotection-feature-introduction-link-text-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lägg till ytterligare ett lager av sekretess
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj bland 5 platser för att hålla där du surfar mer privat.
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan 5 platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.
 ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = På offentligt Wi-Fi? Testa { -brand-product-name }:s inbyggda VPN.
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">extra sekretess</a> genom att välja mellan 5 platser för att dölja där du surfar.
+ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">extra integritet</a> genom att välja mellan 5 platser för att dölja var du surfar.
 ipprotection-feature-introduction-description-captive-portal = Surfa med extra skydd genom att dölja din plats, även på offentligt Wi-Fi.
 ipprotection-feature-introduction-button-primary = Nästa
 ipprotection-feature-introduction-button-secondary-not-now = Inte nu
@@ -50,7 +50,7 @@ ipprotection-site-settings-callout-button = Jag förstår
 
 ipprotection-location-selection-callout-title = Nytt: Byt din plats
 ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> låter dig välja mellan 5 surfplatser, eller låt oss välja den snabbaste för dig.
-ipprotection-location-selection-callout-primary-button = Prova den
+ipprotection-location-selection-callout-primary-button = Testa
 ipprotection-location-selection-callout-secondary-button = Ignorera
 
 ## Panel
@@ -58,14 +58,14 @@ ipprotection-location-selection-callout-secondary-button = Ignorera
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Testa { -brand-product-name }:s inbyggda VPN
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Dölj din plats</a> när du surfar med { -brand-product-name }.
-unauthenticated-private-location-message = Hjälper <a data-l10n-name="learn-more-vpn">att hålla din plats privat</a> i { -brand-product-name }.
+unauthenticated-private-location-message = Hjälper till att <a data-l10n-name="learn-more-vpn">hålla din plats privat</a> i { -brand-product-name }.
 unauthenticated-choose-location-message = Välj bland 5 platser eller låt { -brand-product-name } välja den snabbaste.
 unauthenticated-hide-location-message-2 = Dölj din plats medan du surfar i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB gratis VPN-data varje månad.
 unauthenticated-get-started = Kom igång
-unauthenticated-terms-of-service-privacy-notice = Genom att fortsätta godkänner du <a data-l10n-name="vpn-terms-of-service">användarvillkoren</a> och <a data-l10n-name="vpn-privacy-notice">sekretess Meddelande</a>.
+unauthenticated-terms-of-service-privacy-notice = Genom att fortsätta godkänner du <a data-l10n-name="vpn-terms-of-service">användarvillkoren</a> och <a data-l10n-name="vpn-privacy-notice">sekretessmeddelandet</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Använd VPN för den här webbplatsen
     .aria-label = VPN är på för den här webbplatsen
@@ -96,7 +96,7 @@ ipprotection-button-connecting = Slår på…
 
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
-ipprotection-recommended-location-button = Plats: Rekommenderas
+ipprotection-recommended-location-button = Plats: Rekommenderad
 ipprotection-recommended-location-description = { -brand-product-name } hittar den snabbaste platsen
 ipprotection-recommended-location-badge = NYTT
 # Variables
@@ -108,8 +108,8 @@ ipprotection-locations-subview-description = Välj en annan plats att surfa frå
 ipprotecion-locations-subview-recommended-label = Rekommenderad
 ipprotection-locations-subview-recommended-description = Hittar den snabbaste platsen
 ipprotection-locations-subview-promo =
-    .heading = Ta skyddet ytterligare med { -mozilla-vpn-brand-name }
-    .message = Välj bland över 300 platser och skydda alla dina appar på upp till 5 enheter.
+    .heading = Ta skyddet ännu längre med { -mozilla-vpn-brand-name }
+    .message = Välj bland fler än 300 platser och skydda alla dina appar på upp till 5 enheter.
 ipprotection-locations-subview-promo-button = Hämta { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -265,7 +265,7 @@ vpn-paused-alert-body = Du har använt alla { $maxUsage } GB av din VPN-data. VP
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Du har använt alla { $maxUsage } GB av din VPN-data. Åtkomsten återställs nästa månad.
-vpn-error-page-continue-description = Välj hur du fortsätter utan VPN
+vpn-error-page-continue-description = Välj hur du vill fortsätta utan VPN
 vpn-error-page-keep-browsing = Fortsätt surfa i den här sessionen
 vpn-error-page-new-session = Starta en ny session
 vpn-paused-alert-close-tabs-button = Stäng alla flikar

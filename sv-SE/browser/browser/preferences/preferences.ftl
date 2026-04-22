@@ -2151,7 +2151,7 @@ collection-backlogged-crash-reports-description = Det här hjälper { -vendor-sh
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = Samma inställningar, nytt utseende!
-    .message = Vi omorganiserade den här sidan så att den är enklare att skanna och utforska. Dina personliga inställningar har inte ändrats och allt är fortfarande här. Tips: använd sökfunktionen för att hoppa direkt till det du behöver.
+    .message = Vi har omorganiserat den här sidan så att den är enklare att söka igenom och utforska. Dina personliga inställningar har inte ändrats och allt finns fortfarande kvar. Tips: använd sökfunktionen för att gå direkt till det du behöver.
 settings-redesign-promo-dismiss-button =
     .label = Jag förstår
 addon-recommendations =
@@ -2416,7 +2416,7 @@ preferences-connection-header =
     .heading = Anslutningar och programsäkerhet
 preferences-connection-link-section =
     .label = Anslutningar och programsäkerhet
-    .description = Se hur anslutningar förblir säkra, skadlig programvara blockeras och webbplatser verifieras.
+    .description = Se hur anslutningar hålls säkra, skadlig programvara blockeras och webbplatser verifieras.
 preferences-connection-link-button =
     .label = Avancerade inställningar
 

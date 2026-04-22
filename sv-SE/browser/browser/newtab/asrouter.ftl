@@ -448,7 +448,7 @@ set-default-menu-message-primary-button-variant = Ange som primär webbläsare
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 e-postalias gratis
-relay-50-masks-announcement-subtitle = Nu får du 50 alias gratis (från tidigare 5). Använd en för varje konto för att hålla din riktiga e-post privat.
+relay-50-masks-announcement-subtitle = Nu får du 50 alias gratis (från tidigare 5). Använd ett för varje konto för att hålla din riktiga e-post privat.
 relay-50-masks-announcement-primary-button = Gå till { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Ignorera

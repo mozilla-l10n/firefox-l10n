@@ -155,7 +155,7 @@ tab-context-send-to-mobile-device-missing =
 # Verb: share a collection of selected tabs as a link
 tab-context-share-selected-tabs =
     .label = Skapa delbar länk
-    .accesskey = S
+    .accesskey = d
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
