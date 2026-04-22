@@ -61,6 +61,10 @@ webext-perms-description-data-short-websiteContent = contenido del sitio web
 
 ## Long form to be used in `about:addons` when these data collection permissions are optional.
 
+webext-perms-description-data-long-authenticationInfo = Compartir información de autenticación con el desarrollador de la extensión
+webext-perms-description-data-long-bookmarksInfo = Compartir información de marcadores con el desarrollador de la extensión
+webext-perms-description-data-long-browsingActivity = Compartir la actividad de navegación con el equipo de desarrollo de la extensión
+webext-perms-description-data-long-financialAndPaymentInfo = Compartir información financiera y de pagos con el equipo de desarrollo de la extensión
 webext-perms-description-data-long-healthInfo = Compartir información de salud con el desarrollador de la extensión
 webext-perms-description-data-long-locationInfo = Compartir información de ubicación con el desarrollador de la extensión
 webext-perms-description-data-long-personalCommunications = Compartir comunicaciones personales con el desarrollador de la extensión

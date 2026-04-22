@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Escaneo en progreso
 contentanalysis-slow-agent-dialog-body-file = { $agent } está revisando "{ $filename }" según las políticas de datos de su organización. Esto puede tardar un momento.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } está revisando “{ $filename }” y { $count } elemento adicional según las políticas de datos de tu organización. Esto puede tardar un momento.
+       *[other] { $agent } está revisando “{ $filename }” y { $count } elementos adicionales según las políticas de datos de tu organización. Esto puede tardar un momento.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está revisando lo que pegaste según las políticas de datos de tu organización. Esto puede tardar un momento.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
@@ -69,6 +78,9 @@ contentanalysis-block-dialog-title-upload-file = No tienes permiso para subir es
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Según las políticas de protección de datos de tu organización, no se te permite cargar el archivo “{ $filename }”. Contacta con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-download-file = No tienes permiso para descargar este archivo
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Según las políticas de protección de datos de tu organización, no tienes permiso para descargar el archivo “{ $filename }”. Contacta con tu administración para obtener más información.
 contentanalysis-block-dialog-title-clipboard = No tienes permiso para pegar este contenido
 contentanalysis-block-dialog-body-clipboard = Según las políticas de protección de datos de tu organización, no puedes pegar este contenido. Contacta con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-dropped-text = No tienes permitido soltar este contenido.
