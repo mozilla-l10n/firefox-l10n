@@ -1448,6 +1448,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Clauder session private
     .tooltiptext = Clauder session private
+reset-pbm-panel-heading2 = Vacuar datos e initiar un nove session private?
 reset-pbm-panel-description2 = Isto dele chronologia, cookies, e tote le altere datos de sito sin clauder tu Fenestra private.
 reset-pbm-panel-heading = Clauder tu session private?
 reset-pbm-panel-description = Clauder tote le schedas private e eliminar le chronologia, le cookies e tote le altere datos del sito.

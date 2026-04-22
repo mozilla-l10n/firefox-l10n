@@ -67,12 +67,14 @@ unauthenticated-bandwidth-limit-message =
     Obtene { $maxUsage } GB de datos de VPN
      gratuite cata mense.
 unauthenticated-get-started = Comenciar
+unauthenticated-terms-of-service-privacy-notice = Si tu procede, tu accepta le <a data-l10n-name="vpn-terms-of-service">Conditiones de uso del servicio</a> e le <a data-l10n-name="vpn-privacy-notice">Aviso de confidentialitate</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Usar VPN pro iste sito
     .aria-label = VPN es active pro iste sito
 site-exclusion-toggle-disabled-1 =
     .label = Usar VPN pro iste sito
     .aria-label = VPN es disactivate pro iste sito
+site-exclusion-toggle-description = Sito non functionante? Tenta disactivar le VPN.
 ipprotection-settings-link =
     .label = Parametros
 
@@ -94,6 +96,9 @@ ipprotection-button-connecting = Activar…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Position: recommendate
 ipprotection-recommended-location-description = { -brand-product-name } trova le position plus veloce
 ipprotection-recommended-location-badge = NOVA
 # Variables
@@ -102,6 +107,10 @@ ipprotection-location-country-button = Position: { $country }
 ipprotection-locations-subview =
     .title = Elige un position
 ipprotecion-locations-subview-recommended-label = Recommendate
+ipprotection-locations-subview-recommended-description = Trova le position plus veloce
+ipprotection-locations-subview-promo =
+    .heading = Sume ulterior protection con { -mozilla-vpn-brand-name }
+    .message = Elige de plus que 300 positiones e protege tote tu applicationes sur maximo 5 apparatos.
 ipprotection-locations-subview-promo-button = Obtene { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -114,6 +123,9 @@ upgrade-vpn-title = Obtene protection ulterior ultra le navigator
 upgrade-vpn-description = Elige tu position del VPN, usa VPN pro tote tu applicationes e usque 5 apparatos, e sta secur sur qualcunque rete, a casa o sur wi-fi public.
 upgrade-vpn-button = Essaya { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = VPN pausate
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Tu ha usate tote le { $maxUsage } GB de tu datos de VPN. Le accesso remonta le mense proxime.
 
 ## Messages and errors
 
@@ -163,6 +175,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Tu ha quasi exha
 ip-protection-description =
     .label = VPN
     .description = VPN integrate pro meliorar tu confidentialitate durante que tu naviga sur { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN integrate
+    .description = Obtene ulterior confidentialitate celante tu position durante que tu naviga.
 ip-protection-learn-more = Pro saper plus
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
