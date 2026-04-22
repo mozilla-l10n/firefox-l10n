@@ -45,6 +45,7 @@ ipprotection-site-settings-callout-button = Aikũmby
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Ipyahu: Emoambue ne rendaite
 ipprotection-location-selection-callout-primary-button = Eha’ã jey
 ipprotection-location-selection-callout-secondary-button = Emboyke
 
