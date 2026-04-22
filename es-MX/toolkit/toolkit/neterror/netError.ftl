@@ -94,9 +94,14 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } no
 
 neterror-file-not-found-filename = Comprueba que el nombre del archivo no contenga errores.
 neterror-file-not-found-moved = Verifica si el archivo se borró, movió o renombró.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } no puede encontrar el archivo en <strong>{ $path }</strong>. Es posible que no exista o que la ruta sea incorrecta.
+neterror-file-not-found-what-can-you-do = Si escribiste la dirección manualmente, revisa si hay errores de escritura o de uso de mayúsculas en el nombre del archivo o en la ruta. Si seguiste un marcador guardado o un enlace, es posible que el archivo se haya movido, renombrado o eliminado desde que se guardó. Intenta localizarlo usando tu administrador de archivos o una búsqueda reciente.
 neterror-access-denied = Puede haber sido eliminado, movido o los permisos del archivo pueden evitar el acceso.
 neterror-unknown-protocol = Necesitas instalar otro programa para abrir esta dirección.
 neterror-redirect-loop = Este problema puede estar pasando por haber deshabilitado las cookies.
+neterror-unknown-socket-type-client-config = Esto podría deberse a un error de configuración en tu cliente.
 neterror-unknown-socket-type-psm-installed = Verifica que tu sistema tiene instalado el administrador de seguridad personal.
 neterror-unknown-socket-type-server-config = Esto podría ser ocasionado por una configuración no estándar en el servidor.
 neterror-not-cached-intro = El documento solicitado no está disponible en la caché de { -brand-short-name }.
@@ -177,16 +182,25 @@ neterror-response-status-code = Código de error: { $responsestatus } { $respons
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Parece que hay un problema con la conexión a Internet
+fp-neterror-illustration-alt =
+    .alt = Ilustración de un zorro mirando cables de red desconectados.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = { -brand-short-name } no puede crear una conexión segura con el servidor en { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } no puede conectarse al servidor en <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = El servidor en <strong>{ $hostname }</strong> está tardando demasiado en responder.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> devolvió un error.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = El servidor en <strong>{ $hostname }</strong> devolvió un error: { $responsestatus } { $responsestatustext }
 fp-neterror-coop-coep-intro = { -brand-short-name } no cargó esta página porque parece que la configuración de seguridad no coincide con la página anterior.
+fp-neterror-blocked-by-policy-intro = Tu organización ha bloqueado el acceso a esta página o sitio web.
 fp-neterror-http-auth-disabled-intro = Alguien que se haga pasar por el sitio podría intentar robar cosas como tu nombre de usuario, contraseña o correo electrónico.
 fp-neterror-http-auth-disabled-secure-connection = Este sitio requiere una conexión segura y no puedes agregar una excepción para visitarlo.
 fp-neterror-why-did-this-happen = ¿Por qué pasó esto?
@@ -200,4 +214,6 @@ fp-neterror-http-auth-disabled-what-can-you-do-body = Intenta cambiar la URL a H
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = A veces, los sitios web configuran protecciones para sí mismos contra interacciones no deseadas con otros sitios.
 fp-learn-more-about-https-connections = Obtén más información sobre las conexiones HTTPS
+fp-neterror-vpn-error-title = No se pudo conectar a la VPN
+fp-neterror-vpn-error-description = Inténtalo de nuevo en unos minutos.
 fp-neterror-denied-port-access = Esta dirección está usando un puerto de red normalmente usado para propositos diferentes a la navegación web. { -brand-short-name } canceló la solicitud para tu protección.
