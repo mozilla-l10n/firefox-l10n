@@ -641,6 +641,7 @@ newtab-new-user-custom-wallpaper-cta = Proba lo subito
 
 newtab-wallpaper-feature-highlight-title = Nove fundos justo atterrate
 newtab-wallpaper-feature-highlight-subtitle = Elige tu favorite e rende cata nove scheda como le pagina principal.
+newtab-wallpaper-feature-highlight-cta = Eliger fundo
 
 ## Strings for download mobile highlight
 
