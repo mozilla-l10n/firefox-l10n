@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Passen Sie Ihr Surfen an
 experimental-features-group-productivity =
     .label = Produktivität
+experimental-features-group-newtab-widgets =
+    .label = Widgets auf { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passwörter in der Sidebar
