@@ -98,6 +98,10 @@ ipprotection-recommended-location-badge = NOWY
 ipprotection-location-country-button = Stejnišćo: { $country }
 ipprotection-locations-subview =
     .title = Stejnišćo wubrać
+ipprotection-locations-subview-description = Wubjerće druhe stejnišćo, z kotrehož přehladujeće.
+ipprotecion-locations-subview-recommended-label = Doporučeny
+ipprotection-locations-subview-recommended-description = Namaka najspěšniše stejnišćo
+ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobstarać
 
 ## VPN paused state
 
@@ -108,6 +112,10 @@ ipprotection-connection-status-paused-description = Sće wšě { $maxUsage } GB 
 upgrade-vpn-title = Wobstarajće sej přidatny škit zwonka wobhladowaka
 upgrade-vpn-description = Wubjerće swoje stejnišćo VPN, wužiwajće VPN za wšě swoje nałoženja a na hač do 5 gratach a wostańće wěsty w kóždej syći – doma abo w zjawnym WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } wupruwować
+ipprotection-connection-status-paused-title-1 = VPN je zastajeny
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup so přichodny měsac wróćo staji.
 
 ## Messages and errors
 
@@ -157,6 +165,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Sće swoje daty 
 ip-protection-description =
     .label = VPN
     .description = Zatwarjeny VPN, zo byšće swoju priwatnosć polěpšił, mjeztym zo z { -brand-short-name } přehladujeće.
+ip-protection-description-1 =
+    .label = Zatwarjeny VPN
+    .description = Schowajće swoje stejnišćo při přehladowanju, zo byšće přidatnu priwatnosć dóstał.
 ip-protection-learn-more = Dalše informacije
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
@@ -236,6 +247,12 @@ vpn-paused-alert-title = VPN je zastajeny
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup VPN so přichodny měsac wróćo staji.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Sće wšě { $maxUsage } GB swojich datow VPN přetrjebał. Přistup so přichodny měsac wróćo staji.
+vpn-error-page-continue-description = Wubjerće, kak móžeće bjez VPN pokročować
+vpn-error-page-keep-browsing = W tutym posedźenju dale přehladować
+vpn-error-page-new-session = Nowe posedźenje započeć
 vpn-paused-alert-close-tabs-button = Wšě rajtarki začinić
 vpn-paused-alert-continue-wo-vpn-button = Bjez VPN pokročować
 vpn-error-alert-title = VPN runje njefunguje.

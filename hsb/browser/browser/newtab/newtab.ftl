@@ -593,8 +593,16 @@ newtab-topic-selection-button-pick-interests = Wubjerće swoje zajimy
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Slědować
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = { $topic } slědować
 newtab-section-following-button = Slědowacy
 newtab-section-unfollow-button = Hižo njeslědować
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Slědowanje: { $topic } hižo njeslědować
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Wothłosujće swój kanal na drobne
 newtab-section-follow-highlight-subtitle = Slědujće swojim zajimam, zo byšće wjace wo tym widźał, štož so wam spodoba.

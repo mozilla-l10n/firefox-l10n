@@ -449,3 +449,12 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Jako standard wužiwać
 set-default-menu-message-primary-button-variant = Jako hłowny wobhladowak nastajić
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 e-mejlowe maski, darmo
+relay-50-masks-announcement-primary-button = K { -relay-brand-name }
+    .accesskey = K
+relay-50-masks-announcement-secondary-button = Zaćisnyć
+    .accesskey = Z
