@@ -17,6 +17,9 @@ category-home =
 pane-search-title = অনুসন্ধান
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = গোপনীয়তা & নিরাপত্তা
+pane-privacy-section =
+    .heading = গোপনীয়তা & নিরাপত্তা
 pane-privacy-title = গোপনীয়তা & নিরাপত্তা
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -310,7 +313,7 @@ performance-default-content-process-count =
 performance-group =
     .label = কার্যকারিতা
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = ব্রাউজ করা
 browsing-use-autoscroll =
@@ -334,6 +337,9 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = আরো জানুন
 browsing-group =
     .label = ব্রাউজ করা
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -857,6 +863,9 @@ certs-devices-enable-fips = FIPS সক্রিয় করা হবে
 
 
 ## DoH Section
+
+
+## Connection and software security section
 
 
 ## The following strings are used in the Download section of settings
