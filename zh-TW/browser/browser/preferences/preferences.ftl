@@ -2135,6 +2135,10 @@ collection-backlogged-crash-reports2 =
     .label = 自動傳送錯誤報告
     .accesskey = c
 collection-backlogged-crash-reports-description = 此資料可幫助 { -vendor-short-name } 找出瀏覽器的問題並進行修正。報告內容可能會包含私人或敏感資料。
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = 設定不變，全新外觀！
+    .message = 我們重新調整了此頁面，讓您更簡單就能掃描與探索。您的個人設定均未更動，也都在原處。小秘訣：可使用搜尋功能直達您要的設定項目。
 settings-redesign-promo-dismiss-button =
     .label = 知道了！
 addon-recommendations =

@@ -280,3 +280,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Ni fydd y system nodau tudalen a hanes yn weithredol gan fod un o ffeiliau { -brand-short-name } yn cael ei defnyddio gan raglen arall. Mae rhai meddalwedd diogelwch yn gallu achosi'r broblem yma.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Rhannu Ffolder

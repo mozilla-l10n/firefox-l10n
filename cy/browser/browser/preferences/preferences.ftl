@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Rheoli AI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Hygyrchedd
+    .title = { pane-accessibility-title }
 pane-experimental-title = Arbrofion { -brand-short-name }
 category-experimental =
     .tooltiptext = Arbrofion { -brand-short-name }
@@ -762,6 +764,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Defnyddio awto sgrolio
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Llywio a sgrolio bysellfwrdd
+motion-and-link-group =
+    .label = Arddull dolenni a symudedd
 browsing-use-smooth-scrolling =
     .label = Defnyddio sgrolio llyfn
     .accesskey = s
@@ -803,6 +809,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Darllen rhagor
 browsing-group =
     .label = Pori
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Hygyrchedd
+preferences-default-zoom-select =
+    .aria-label = Chwyddo rhagosodedig
+preferences-fonts-family =
+    .label = Teulu ffontiau
+    .accesskey = T
+preferences-fonts-size =
+    .label = Maint ffont
+    .accesskey = M
+preferences-fonts-advanced-settings =
+    .label = Gosodiadau uwch
+    .accesskey = G
 
 ## General Section - Proxy
 
@@ -1111,6 +1133,7 @@ search-edit-engine =
     .label = Golygu
     .accesskey = G
 search-find-more-link = Ychwanegu peiriannau chwilio eraill
+search-filtering-for-add-engine = Ychwanegu Peiriant
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Allweddair Dyblyg
@@ -2140,6 +2163,12 @@ collection-backlogged-crash-reports2 =
     .label = Anfon adroddiadau chwalu'n awtomatig
     .accesskey = c
 collection-backlogged-crash-reports-description = Mae hyn yn helpu { -vendor-short-name } i wneud diagnosis a thrwsio problemau gyda'r porwr. Gall adroddiadau gynnwys data personol neu sensitif.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Yr un gosodiadau, golwg newydd!
+    .message = Rydym wedi ad-drefnu'r dudalen hon fel ei bod yn haws ei ddarllen a'i harchwilio. Dyw eich gosodiadau personol heb newid ac mae popeth dal yma. Awgrym: defnyddiwch chwilio i fynd i le'n union rydych eisiau mynd iddo.
+settings-redesign-promo-dismiss-button =
+    .label = Iawn
 addon-recommendations =
     .label = Caniatáu i { -brand-short-name } wneud argymhellion personol am estyniadau
 addon-recommendations-link = Darllen rhagor
@@ -2395,6 +2424,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Rhowch URL darparwr cyfaddas
 preferences-doh-header2 =
     .heading = DNS Dros HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Diogelwch cysylltiad a meddalwedd
+preferences-connection-link-section =
+    .label = Diogelwch cysylltiad a meddalwedd
+    .description = Gweld sut mae cysylltiadau'n parhau'n ddiogel, mae meddalwedd bygythiol yn cael eu rhwystro a gwefannau'n cael eu gwirio.
+preferences-connection-link-button =
+    .label = Gosodiadau uwch
 
 ## The following strings are used in the Download section of settings
 

@@ -175,6 +175,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Cysylltu eich ffôn
 tab-context-send-to-mobile-device-missing =
     .label = Ddim yn gweld eich dyfais?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Creu Dolen i'w Rhannu
+    .accesskey = R
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

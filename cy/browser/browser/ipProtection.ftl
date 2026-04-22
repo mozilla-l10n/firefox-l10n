@@ -104,6 +104,7 @@ ipprotection-recommended-location-badge = NEWYDD
 ipprotection-location-country-button = Lleoliad: { $country }
 ipprotection-locations-subview =
     .title = Dewis lleoliad
+ipprotection-locations-subview-description = Dewis lleoliad gwahanol i bori oddi yno.
 ipprotecion-locations-subview-recommended-label = Cymeradwy
 ipprotection-locations-subview-recommended-description = Yn dod o hyd i'r lleoliad cyflymaf
 ipprotection-locations-subview-promo =
@@ -268,8 +269,8 @@ vpn-paused-alert-body = Rydych chi wedi defnyddio { $maxUsage } GB, sef y cyfan 
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Rydych chi wedi defnyddio { $maxUsage } GB, sef y cyfan o'ch data VPN. Bydd eich mynediad i'r VPN yn ailgychwyn mis nesaf.
-vpn-error-page-continue-description = Dewiswch sut i barhau heb VPN
-vpn-error-page-keep-browsing = Cadwch i bori yn y sesiwn hon
+vpn-error-page-continue-description = Dewis sut i barhau heb VPN
+vpn-error-page-keep-browsing = Cadw i bori yn y sesiwn hon
 vpn-error-page-new-session = Dechrau sesiwn newydd
 vpn-paused-alert-close-tabs-button = Cau pob tab
 vpn-paused-alert-continue-wo-vpn-button = Parhau heb y VPN

@@ -601,7 +601,7 @@ newtab-section-follow-button = Dilyn
 # Variables:
 #   $topic (string) - Topic that the user can follow
 newtab-section-follow-button-label =
-    .aria-label = Dilynwch { $topic }
+    .aria-label = Dilyn { $topic }
 newtab-section-following-button = Yn dilyn
 newtab-section-unfollow-button = Dad-ddilyn
 # Variables:
@@ -653,7 +653,8 @@ newtab-new-user-custom-wallpaper-cta = Rhowch gynnig arno
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Mae papurau wal newydd ffres wedi cyrraedd
-newtab-wallpaper-feature-highlight-subtitle = Dewiswch eich ffefryn a gwnewch i bob tab newydd deimlo fel cartref.
+newtab-wallpaper-feature-highlight-subtitle = Dewis eich ffefryn a gwneud i bob tab newydd deimlo fel cartref.
+newtab-wallpaper-feature-highlight-cta = Dewis papur wal
 
 ## Strings for download mobile highlight
 
@@ -742,8 +743,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Creu rhestr newydd
 newtab-widget-lists-name-label-default =
     .label = Rhestr tasgau
+newtab-widget-lists-name-label-checklist =
+    .label = Rhestr wirio
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Rhestr tasgau
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Rhestr wirio
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Rhestr newydd
@@ -763,7 +768,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Lleihau teclynnau
     .aria-label = Lleihau pob teclyn i faint llai
+newtab-widget-section-menu-button =
+    .title = Dewislen teclynnau
+    .aria-label = Agor dewislen teclynnau
+newtab-widget-section-menu-hide-all = Cuddio teclynnau
+newtab-widget-section-menu-learn-more = Dysgu rhagor
 newtab-widget-section-feedback = Dywedwch wrthym beth yw eich barn
+newtab-widget-lists-name-default = Rhestr wirio
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

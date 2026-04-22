@@ -1654,5 +1654,7 @@ trustpanel-blocker-section-header2 = 已封鎖此網站上的 <span data-l10n-na
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>網站看來怪怪的？</strong>請重新載入頁面以暫時降低追蹤保護等級。
 reduced-protection-infobar-reload-button = 重新載入
     .accesskey = R
