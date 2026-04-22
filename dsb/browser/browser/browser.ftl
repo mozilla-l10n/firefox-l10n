@@ -1468,6 +1468,7 @@ reset-pbm-toolbar-button =
     .label = Priwatne pósejźenje skóńcyś
     .tooltiptext = Priwatne pósejźenje skóńcyś
 reset-pbm-panel-heading2 = Daty lašowaś a nowe priwatne pósejźenje zachopiś?
+reset-pbm-panel-description2 = To historiju, cookieje a wšykne waše druge sedłowe daty lašujo, bźez togo aby se priwatne wokno zacyniło.
 reset-pbm-panel-heading = Priwatne pósejźenje skóńcyś?
 reset-pbm-panel-description = Zacyńśo wšykne priwatne rejtariki a lašujśo historiju, cookieje a wšykne druge sedłowe daty.
 reset-pbm-panel-always-ask-checkbox =
@@ -1476,6 +1477,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Pśetergnuś
     .accesskey = t
+reset-pbm-panel-confirm-button2 =
+    .label = Priwatne pósejźenje wulašowaś
+    .accesskey = P
 reset-pbm-panel-confirm-button =
     .label = Pósejźeńske daty lašowaś
     .accesskey = l
@@ -1763,6 +1767,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } jo dowólił { $count } kryptokoparjow
     }
 trustpanel-cryptominer-tab-list-header = Toś te sedła kryptokopanje wopytuju:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Maśo konto na toś tom sedle?
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> pśeslědowak jo se blokěrował na toś tom sedle

@@ -79,6 +79,10 @@ experimental-features-newtab-widget-timer-description = Regula un temporisator p
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas e temporisator sur { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Mantene tu agenda a tu maxime attention quando tu aperi un scheda nove. Ab le lista del pacchettos al lista del compras, face tu planos in { -brand-product-name }. Regula un temporisator pro mantener te concentrate, stimular te a remaner in pista, o rememorar te de recargar. <a data-l10n-name="connect">Comparti tu commentario</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Previsiones meteorologic
+experimental-features-newtab-widget-weather-description = Obtene un vision clar del situation meteorologic hodierne con previsiones horari. <a data-l10n-name="connect">Condivide tu commentario</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Imagine del die
