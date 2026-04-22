@@ -31,12 +31,19 @@ ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizley
 ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
 ipprotection-feature-introduction-button-secondary-no-thanks = Hayır
+ipprotection-feature-introduction-button-secondary-remove = VPN’i araç çubuğundan kaldır
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = VPN’i nerede kullanacağınızı seçin
 ipprotection-site-settings-callout-subtitle = Belirli bir sitede VPN’i kapatırsanız o siteye tekrar girdiğinizde bu kararınızı hatırlarız.
 ipprotection-site-settings-callout-button = Anladım
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Yeni: Konumunuzu değiştirin
+ipprotection-location-selection-callout-primary-button = Deneyin
+ipprotection-location-selection-callout-secondary-button = Kapat
 
 ## Panel
 
@@ -54,6 +61,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Bu sitede VPN kullan
     .aria-label = Bu sitede VPN kapalı
+site-exclusion-toggle-description = Site çalışmıyor mu? VPN’i kapatmayı deneyin.
 ipprotection-settings-link =
     .label = Ayarlar
 
@@ -73,6 +81,22 @@ ipprotection-button-turn-vpn-on = VPN’i aç
 # Button while VPN is connecting
 ipprotection-button-connecting = Açılıyor…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Konum: Önerilen
+ipprotection-recommended-location-description = { -brand-product-name } en hızlı konumu bulur
+ipprotection-recommended-location-badge = YENİ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Konum: { $country }
+ipprotection-locations-subview =
+    .title = Konum seç
+ipprotection-locations-subview-description = Gezinmek için farklı bir konum seçin.
+ipprotecion-locations-subview-recommended-label = Önerilen
+ipprotection-locations-subview-recommended-description = En hızlı konumu bulur
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN duraklatıldı
@@ -82,6 +106,10 @@ ipprotection-connection-status-paused-description = { $maxUsage } GB VPN kotanı
 upgrade-vpn-title = Tarayıcının ötesinde ekstra korumaya kavuşun
 upgrade-vpn-description = VPN konumunuzu seçin, tüm uygulamalarınızda ve 5 cihazınızda VPN kullanın. İster evde ister halka açık Wi-Fi ağlarında, her yerde güvende kalın.
 upgrade-vpn-button = { -mozilla-vpn-brand-name }’i deneyin
+ipprotection-connection-status-paused-title-1 = VPN duraklatıldı
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = { $maxUsage } GB VPN kotanızın hepsini kullandınız. Hakkınız gelecek ay sıfırlanacaktır.
 
 ## Messages and errors
 
@@ -208,6 +236,9 @@ vpn-paused-alert-title = VPN duraklatıldı
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = { $maxUsage } GB VPN kotanızın hepsini kullandınız. VPN kullanım hakkınız gelecek ay sıfırlanacaktır.
+vpn-error-page-continue-description = VPN olmadan nasıl devam edeceğinizi seçin
+vpn-error-page-keep-browsing = Bu oturumda gezinmeye devam et
+vpn-error-page-new-session = Yeni oturum başlat
 vpn-paused-alert-close-tabs-button = Tüm sekmeleri kapat
 vpn-paused-alert-continue-wo-vpn-button = VPN olmadan devam et
 vpn-error-alert-title = VPN şu anda çalışmıyor.

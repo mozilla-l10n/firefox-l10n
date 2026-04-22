@@ -82,6 +82,9 @@ experimental-features-newtab-widget-lists-and-timer-description = Yapılacaklar 
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Hava durumu
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Günün resmi
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Saatler
