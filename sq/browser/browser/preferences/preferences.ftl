@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Kërkim
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privatësi & Siguri
+pane-privacy-section =
+    .heading = Privatësi & Siguri
 pane-privacy-title = Privatësi & Siguri
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Punim
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Shfletim
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2348,6 +2354,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Jepni një URL shërbimi të përshtatur
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
