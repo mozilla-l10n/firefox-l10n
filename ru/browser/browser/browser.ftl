@@ -1741,9 +1741,19 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Следующие сайты пытаются заниматься криптомайнингом:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = У вас есть аккаунт на этом сайте?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } обнаружил, что на этом сайте произошла утечка данных в последние 12 месяцев. Узнайте, были ли вы затронуты.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Скрыть
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Начать бесплатное сканирование
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] На этом сайте заблокирован <span data-l10n-name="count">{ $count }</span> трекер
         [few] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекера
        *[many] На этом сайте заблокировано <span data-l10n-name="count">{ $count }</span> трекеров
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Сайт выглядит сломанным?</strong> Перезагрузите страницу, чтобы временно ослабить защиту от отслеживания.
+reduced-protection-infobar-reload-button = Обновить
+    .accesskey = К

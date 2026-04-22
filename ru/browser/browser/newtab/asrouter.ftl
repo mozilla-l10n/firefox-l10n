@@ -446,3 +446,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Установить по умолчанию
 set-default-menu-message-primary-button-variant = Установить основным браузером
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 псевдонимов электронной почты на нас
+relay-50-masks-announcement-subtitle = Теперь вы получаете 50 бесплатных псевдонимов (было 5). Используйте по одному для каждого аккаунта, чтобы сохранить приватность вашей настоящей электронной почты.
+relay-50-masks-announcement-primary-button = Перейти к { -relay-brand-name }
+    .accesskey = П
+relay-50-masks-announcement-secondary-button = Убрать
+    .accesskey = В

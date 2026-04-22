@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = KI-Einstellungen
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Barrierefreiheit
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name }-Experimente
 category-experimental =
     .tooltiptext = { -brand-short-name }-Experimente
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Automatischen Bildlauf aktivieren
     .accesskey = A
+keyboard-and-scrolling-group =
+    .label = Navigation und Bildlauf mit der Tastatur
+motion-and-link-group =
+    .label = Motion- und Link-Styling
 browsing-use-smooth-scrolling =
     .label = Sanften Bildlauf aktivieren
     .accesskey = S
@@ -792,6 +798,13 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Weitere Informationen
 browsing-group =
     .label = Surfen
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Barrierefreiheit
+preferences-default-zoom-select =
+    .aria-label = Standard-Zoom
 
 ## General Section - Proxy
 
@@ -1096,6 +1109,7 @@ search-edit-engine =
     .label = Bearbeiten
     .accesskey = B
 search-find-more-link = Weitere Suchmaschinen hinzufügen
+search-filtering-for-add-engine = Suchmaschine hinzufügen
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Schlüsselwort duplizieren
@@ -2125,6 +2139,12 @@ collection-backlogged-crash-reports2 =
     .label = Absturzberichte automatisch senden
     .accesskey = A
 collection-backlogged-crash-reports-description = Dies hilft { -vendor-short-name } bei der Diagnose und Behebung von Problemen mit dem Browser. Die Berichte können persönliche oder sensible Daten enthalten.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Gleiche Einstellungen, neues Erscheinungsbild!
+    .message = Wir haben diese Seite neu gestaltet, damit Sie sie leichter überfliegen und erkunden können. Ihre persönlichen Einstellungen haben sich nicht geändert, und alles ist weiterhin vorhanden. Tipp: Nutzen Sie die Suchfunktion, um direkt zu dem zu gelangen, was Sie suchen.
+settings-redesign-promo-dismiss-button =
+    .label = Verstanden
 addon-recommendations =
     .label = Personalisierte Erweiterungsempfehlungen durch { -brand-short-name } erlauben
 addon-recommendations-link = Weitere Informationen
@@ -2380,6 +2400,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Geben Sie eine benutzerdefinierte Anbieter-URL ein
 preferences-doh-header2 =
     .heading = DNS über HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Erweiterte Einstellungen
 
 ## The following strings are used in the Download section of settings
 
