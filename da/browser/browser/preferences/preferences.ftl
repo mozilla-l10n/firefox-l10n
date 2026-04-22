@@ -53,6 +53,9 @@ category-home =
 pane-search-title = Søgning
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privatliv & sikkerhed
+pane-privacy-section =
+    .heading = Privatliv & sikkerhed
 pane-privacy-title = Privatliv & sikkerhed
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -732,7 +735,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Ydelse
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Browsing
 browsing-group-label =
@@ -781,6 +784,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Læs mere
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2225,6 +2231,9 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = DNS via HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
@@ -2314,3 +2323,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
