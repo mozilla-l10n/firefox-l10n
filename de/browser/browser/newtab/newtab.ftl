@@ -589,8 +589,16 @@ newtab-topic-selection-button-pick-interests = Wählen Sie Ihre Interessen aus
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Folgen
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = { $topic } folgen
 newtab-section-following-button = Folgen
 newtab-section-unfollow-button = Nicht mehr folgen
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Folgen: { $topic } nicht mehr folgen
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Passen Sie Ihren Feed an
 newtab-section-follow-highlight-subtitle = Folgen Sie Ihren Interessen, um mehr von dem zu sehen, was Ihnen gefällt.
@@ -635,6 +643,7 @@ newtab-new-user-custom-wallpaper-cta = Jetzt ausprobieren
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = Neue Hintergrundbilder sind da
 newtab-wallpaper-feature-highlight-cta = Hintergrundbild auswählen
 
 ## Strings for download mobile highlight

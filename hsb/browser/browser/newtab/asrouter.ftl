@@ -454,6 +454,7 @@ set-default-menu-message-primary-button-variant = Jako hłowny wobhladowak nasta
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 e-mejlowe maski, darmo
+relay-50-masks-announcement-subtitle = Nětko dóstawaće 50 darmotnych maskow (dotal 5). Wužiwajće jednu za kóžde konto, zo byšće swoju woprawdźitu e-mejl priwatnu dźeržał.
 relay-50-masks-announcement-primary-button = K { -relay-brand-name }
     .accesskey = K
 relay-50-masks-announcement-secondary-button = Zaćisnyć

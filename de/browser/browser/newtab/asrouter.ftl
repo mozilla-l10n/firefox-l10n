@@ -451,3 +451,5 @@ relay-50-masks-announcement-title = 50 E-Mail-Masken gehen aufs Haus
 relay-50-masks-announcement-subtitle = Jetzt erhalten Sie 50 kostenlose Masken (bislang 5). Verwenden Sie eine für jedes Konto, um Ihre echten E-Mail-Adressen privat zu halten.
 relay-50-masks-announcement-primary-button = Zu { -relay-brand-name }
     .accesskey = Z
+relay-50-masks-announcement-secondary-button = Schließen
+    .accesskey = S

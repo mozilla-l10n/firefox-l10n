@@ -2156,6 +2156,10 @@ collection-backlogged-crash-reports2 =
     .label = Spadowe rozprawy awtomatisce pósłać
     .accesskey = d
 collection-backlogged-crash-reports-description = To { -vendor-short-name } pomha, problemy z wobhladowakom diagnosticěrować a rozrisać. Rozprawy móža wosobinske abo sensibelne daty wobsahować.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Samsne nastajenja, nowe zwonkowne!
+    .message = Smy tutu stronu znowa organizowali, zo by je lóšo, ju skenować a wuslědźić. Waš wosobinske nastajenja njejsu so změnili, a wšitko je hišće tu. Pokiw: Wužiwajće pytanje, zo byšće direktnje k tomu skočił, štož trjebaće.
 settings-redesign-promo-dismiss-button =
     .label = Sym zrozumił
 addon-recommendations =

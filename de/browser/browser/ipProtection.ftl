@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Hier kommt VPN, jetzt direkt in Ihrem 
 ipprotection-feature-introduction-link-text-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Fügen Sie eine weitere Ebene für den Datenschutz hinzu
+ipprotection-feature-introduction-link-text-privacy = Das <a data-l10n-name="learn-more-vpn"> integrierte VPN von { -brand-product-name }</a> trägt zum Schutz Ihrer Online-Aktivitäten bei. Wählen Sie aus 5 Standorten aus, um Ihre Privatsphäre beim Surfen zu schützen.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen, auch wenn Sie sich in einem privaten Fenster befinden.
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -49,17 +50,20 @@ ipprotection-site-settings-callout-button = Verstanden
 
 ipprotection-location-selection-callout-title = Neu: Ändern Sie Ihren Standort
 ipprotection-location-selection-callout-primary-button = Ausprobieren
+ipprotection-location-selection-callout-secondary-button = Schließen
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Probieren Sie das integrierte VPN von { -brand-product-name } aus
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Verstecken Sie Ihren Standort</a> beim Surfen in { -brand-product-name }.
+unauthenticated-choose-location-message = Wählen Sie aus 5 Standorten oder lassen Sie { -brand-product-name } den schnellsten auswählen.
 unauthenticated-hide-location-message-2 = Verbergen Sie Ihren Standort beim Surfen in { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Holen Sie sich jeden Monat { $maxUsage } GB kostenlose VPN-Daten.
 unauthenticated-get-started = Erste Schritte
+unauthenticated-terms-of-service-privacy-notice = Indem Sie fortfahren, stimmen Sie den <a data-l10n-name="vpn-terms-of-service">Nutzungsbedingungen</a> und der <a data-l10n-name="vpn-privacy-notice">Datenschutzerklärung</a> zu.
 site-exclusion-toggle-enabled-1 =
     .label = VPN für diese Website verwenden
     .aria-label = VPN ist für diese Website aktiviert

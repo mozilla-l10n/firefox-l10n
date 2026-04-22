@@ -1711,6 +1711,7 @@ trustpanel-cryptominer-tab-list-header = Diese Websites versuchen Krypto-Mining 
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Haben Sie ein Konto auf dieser Website?
 trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } hat herausgefunden, dass diese Website in den letzten 12 Monaten von einem Datenleck betroffen war. Finden Sie heraus, ob Sie betroffen sind.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Schließen
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Kostenlose Überprüfung starten
 trustpanel-blocker-section-header2 =
     { $count ->
