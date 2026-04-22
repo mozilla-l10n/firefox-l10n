@@ -269,3 +269,4 @@ places-locked-prompt = I segnalibri e la cronologia non potranno funzionare corr
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 places-share-folder =
     .label = Condividi cartella
+

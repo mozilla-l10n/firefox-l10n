@@ -1692,3 +1692,4 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Il sito non funziona?</strong> Ricarica la pagina per ridurre temporaneamente la protezione antitracciamento.
 reduced-protection-infobar-reload-button = Ricarica
     .accesskey = R
+
