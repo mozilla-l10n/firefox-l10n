@@ -36,6 +36,9 @@ category-home =
 pane-search-title = Paieška
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privatumas ir saugumas
+pane-privacy-section =
+    .heading = Privatumas ir saugumas
 pane-privacy-title = Privatumas ir saugumas
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -470,6 +473,9 @@ update-in-progress-ok-button = &Atmesti
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tęsti
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Našumas
@@ -492,7 +498,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Našumas
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Naršymas
 browsing-use-autoscroll =
@@ -530,6 +536,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Sužinoti daugiau
 browsing-group =
     .label = Naršymas
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -582,6 +591,12 @@ use-current-pages =
 choose-bookmark =
     .label = Tinklalapis iš adresyno…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -769,6 +784,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
 sync-signedin-login-failure = Prie { $email } reikia prisijungti iš naujo
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -968,6 +988,9 @@ primary-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slap
 primary-password-os-auth-dialog-message-macosx = sukurti pagrindinį slaptažodį
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Žurnalas
@@ -1061,6 +1084,12 @@ sitedata-cookies-exceptions =
     .accesskey = m
 cookies-site-data-group =
     .label = Slapukai ir svetainių duomenys
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1266,6 +1295,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Peržiūrėti „{ -brand-short-name }“ tyrimus
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1315,8 +1347,26 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Neįjungti tik HTTPS veiksenos
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Darbalaukis
 downloads-folder-name = Atsiuntimų aplankas
 choose-download-folder-title = Atsiuntimų aplanko parinkimas
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
