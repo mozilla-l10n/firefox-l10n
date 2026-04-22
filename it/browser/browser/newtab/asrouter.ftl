@@ -449,4 +449,3 @@ relay-50-masks-announcement-primary-button = Vai a { -relay-brand-name }
     .accesskey = V
 relay-50-masks-announcement-secondary-button = Chiudi
     .accesskey = C
-
