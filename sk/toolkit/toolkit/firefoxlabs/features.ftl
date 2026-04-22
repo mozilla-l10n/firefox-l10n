@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Prispôsobte si prehliadanie
 experimental-features-group-productivity =
     .label = Produktivita
+experimental-features-group-newtab-widgets =
+    .label = Miniaplikácie na { -firefox-home-brand-name(case: "loc") }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Heslá na bočnom paneli
@@ -80,12 +82,15 @@ experimental-features-newtab-widget-lists-and-timer-description = Majte svoj zoz
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Predpoveď počasia
+experimental-features-newtab-widget-weather-description = Získajte jasný prehľad o dnešnom počasí s hodinovými predpoveďami. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Obrázok dňa
+experimental-features-newtab-widget-picture-of-the-day-description = Pridajte si do dňa trochu potešenia. Získajte nový obrázok, naučte sa niečo zaujímavé a nastavte si novú tapetu raz-dva. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Hodiny
+experimental-features-newtab-widget-clocks-description = Pridajte si až štyri hodiny s vlastnými prezývkami, aby ste sledovali čas na miestach, na ktorých vám záleží. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Sémantické vyhľadávanie v histórii

@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Yapay Zekâ Kontrolleri
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Erişilebilirlik
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } Deneyleri
 category-experimental =
     .tooltiptext = { -brand-short-name } Deneyleri
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Otomatik kaydırmayı kullan
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Klavye ile gezinti ve kaydırma
+motion-and-link-group =
+    .label = Hareket ve bağlantı stili
 browsing-use-smooth-scrolling =
     .label = Akıcı kaydırmayı kullan
     .accesskey = c
@@ -792,6 +798,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
 browsing-group =
     .label = Gezinti
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Erişilebilirlik
+preferences-default-zoom-select =
+    .aria-label = Varsayılan yakınlaştırma
+preferences-fonts-family =
+    .label = Yazı tipi ailesi
+    .accesskey = Y
+preferences-fonts-size =
+    .label = Yazı tipi boyutu
+    .accesskey = b
+preferences-fonts-advanced-settings =
+    .label = Gelişmiş ayarlar
+    .accesskey = G
 
 ## General Section - Proxy
 
@@ -1096,6 +1118,7 @@ search-edit-engine =
     .label = Düzenle
     .accesskey = D
 search-find-more-link = Daha fazla arama motoru bul
+search-filtering-for-add-engine = Motor ekle
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Tekrarlanan Anahtar Kelime
@@ -2125,6 +2148,8 @@ collection-backlogged-crash-reports2 =
     .label = Çökme raporlarını otomatik olarak gönder
     .accesskey = m
 collection-backlogged-crash-reports-description = Bu sayede { -vendor-short-name }, tarayıcıyla ilgili sorunları tanılayıp düzeltebilir. Raporlar kişisel veya hassas veriler içerebilir.
+settings-redesign-promo-dismiss-button =
+    .label = Anladım
 addon-recommendations =
     .label = { -brand-short-name }, bana özel uzantı tavsiyelerinde bulunabilir
 addon-recommendations-link = Daha fazla bilgi al

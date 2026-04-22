@@ -350,6 +350,17 @@ tab-group-editor-action-new-tab =
     .label = Nová karta v skupine
 tab-group-editor-action-new-window =
     .label = Presunúť skupinu do nového okna
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Kopírovať odkaz v skupine
+            [one] Kopírovať odkaz v skupine
+            [few] Kopírovať { $linkCount } odkazy v skupine
+            [many] Kopírovať { $linkCount } odkazov v skupine
+           *[other] Kopírovať { $linkCount } odkazov v skupine
+        }
 tab-group-editor-action-save =
     .label = Uložiť a zatvoriť skupinu
 tab-group-editor-action-ungroup =
@@ -359,6 +370,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Hotovo
     .accessKey = H
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Zdieľať skupinu kariet
 tab-context-reopen-tab-group =
     .label = Znova otvoriť skupinu kariet
 # Variables:

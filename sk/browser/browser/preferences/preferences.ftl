@@ -2404,6 +2404,11 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS cez HTTPS
 
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Rozšírené nastavenia
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Pracovná plocha
