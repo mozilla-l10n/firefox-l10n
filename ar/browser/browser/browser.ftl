@@ -1294,6 +1294,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = شارِك
     .tooltiptext = شارك هذه الصفحة
+toolbar-button-tab-groups =
+    .label = مجموعات الألسنة
+    .tooltiptext = أظهر مجموعات ألسنتك
 
 ## EME notification panel
 
@@ -1480,6 +1483,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = إنهِ الجلسة الخاصة
     .tooltiptext = إنهِ الجلسة الخاصة
+reset-pbm-panel-heading2 = امحُ البيانات وبدء جلسة خاصة جديدة؟
+reset-pbm-panel-description2 = يؤدي هذا إلى حذف التأريخ وملفات تعريف الارتباط وجميع بيانات الموقع الأخرى دون إغلاق نافذتك الخاصة.
 reset-pbm-panel-heading = إنهِ جلستك الخاصة؟
 reset-pbm-panel-description = أغلق كل الألسنة الخاصة واحذف التأريخ والكعكات وكل بيانات المواقع الأخرى.
 reset-pbm-panel-always-ask-checkbox =
@@ -1488,6 +1493,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = ألغِ
     .accesskey = غ
+reset-pbm-panel-confirm-button2 =
+    .label = امحُ الجلسة الخاصة
+    .accesskey = م
 reset-pbm-panel-confirm-button =
     .label = احذف بيانات الجلسة
     .accesskey = ت
@@ -1712,6 +1720,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } سمح ب{ $count } مُعدِّن عملة رقمية
     }
 trustpanel-cryptominer-tab-list-header = تحاول هذه المواقع تعدين العُملات الرقمية:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ألديك حساب على هذا الموقع؟
 trustpanel-blocker-section-header2 =
     { $count ->
         [zero] حُظر <span data-l10n-name="count">{ $count }</span> متعقِّبات على هذا الموقع
