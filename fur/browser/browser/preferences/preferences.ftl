@@ -49,6 +49,9 @@ category-home =
 pane-search-title = Ricercje
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Riservatece e sigurece
+pane-privacy-section =
+    .heading = Riservatece e sigurece
 pane-privacy-title = Riservatece e sigurece
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -691,7 +694,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Prestazions
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navigazion
 browsing-group-label =
@@ -740,6 +743,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2119,8 +2125,23 @@ preferences-doh-manage-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
