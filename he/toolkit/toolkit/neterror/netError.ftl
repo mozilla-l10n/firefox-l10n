@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = ‏<strong>{ $hostname }</strong> שלח ח�
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = השרת ב־<strong>{ $hostname }</strong> שלח בחזרה שגיאה: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = ‏<strong>{ $hostname }</strong> שלח בחזרה כותרת עם תווים ריקים שאינם מותרים לפי תקני אבטחת האינטרנט.
+fp-neterror-content-encoding-intro = לא ניתן להציג את הדף המבוקש מכיוון שהוא משתמש בסוג דחיסה שאינו חוקי או שאינו נתמך.
 fp-neterror-coop-coep-intro = ‏{ -brand-short-name } לא טען את הדף הזה מכיוון שנראה שתצורת האבטחה לא תואמת את הדף הקודם.
 fp-neterror-blocked-by-policy-intro = הארגון שלך חסם גישה לעמוד או אתר זה.
 fp-neterror-http-auth-disabled-intro = מישהו שמתחזה לאתר יכול לנסות לגנוב דברים כמו שם המשתמש, הססמה או הדוא״ל שלך.
