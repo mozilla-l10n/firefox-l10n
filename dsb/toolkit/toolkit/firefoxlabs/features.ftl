@@ -86,6 +86,11 @@ experimental-features-newtab-widget-weather-description = Dostańśo jasny pógl
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Wobraz dnja
+experimental-features-newtab-widget-picture-of-the-day-description = Pśidajśo swójomu dnju mały wšedny źiw. Dostańśo nowy wobraz, wukniśo něco zajmne, a nastajśo nowy slězynowy wobraz w zaskoku. <a data-l10n-name="connect">Měnjenje źěliś</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Zegery
+experimental-features-newtab-widget-clocks-description = Pśidajśo až do styrich zegerow ze swójskimi pśimjenjami, aby cas na městnach pokazał, kótarež su wam wažne. <a data-l10n-name="connect">Měnjenje źěliś</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantiske pytanje historije
