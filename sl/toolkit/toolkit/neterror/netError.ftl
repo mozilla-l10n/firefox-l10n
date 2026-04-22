@@ -189,6 +189,10 @@ fp-neterror-offline-intro = { -brand-short-name } se ne more povezati s strežni
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> je vrnil napako.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> je vrnila glavo s praznimi znaki, česar standardi spletne varnosti ne dovoljujejo.
+fp-neterror-content-encoding-intro = Strani, ki si jo želite ogledati, ni mogoče prikazati, ker uporablja neveljavno ali nepodprto obliko stiskanja.
 fp-neterror-coop-coep-intro = { -brand-short-name } ni naložil te strani, ker se zdi, da se njena varnostna nastavitev ne ujema s prejšnjo stranjo.
 fp-neterror-blocked-by-policy-intro = Vaša organizacija je onemogočila dostop do tega spletnega mesta ali strani.
 fp-neterror-http-auth-disabled-intro = Nekdo, ki bi se izdajal za to spletno mesto, bi lahko poskušal ukrasti vaše uporabniško ime, geslo ali druge vnesene podatke.

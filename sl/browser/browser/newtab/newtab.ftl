@@ -385,6 +385,7 @@ newtab-wallpaper-title = Ozadja
 newtab-wallpaper-reset = Ponastavi privzeto
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Naloži sliko
+newtab-wallpaper-add-an-image = Dodaj sliko
 newtab-wallpaper-custom-color = Izberite barvo
 newtab-wallpaper-toggle-title =
     .label = Ozadja
@@ -412,6 +413,7 @@ newtab-wallpaper-light-fox-anniversary = Lisica na travnatem polju v megleni gor
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Enobarvna
+newtab-wallpaper-colors = Barve
 newtab-wallpaper-blue = Modro
 newtab-wallpaper-light-blue = Svetlo modro
 newtab-wallpaper-light-purple = Svetlo vijolično
@@ -717,6 +719,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Pomanjšaj pripomočke
     .aria-label = Skrči vse pripomočke
+newtab-widget-section-menu-learn-more = Več o tem
 newtab-widget-section-feedback = Povejte nam svoje mnenje
 
 ## Strings for timer productivity widget

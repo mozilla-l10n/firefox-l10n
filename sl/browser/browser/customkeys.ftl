@@ -13,6 +13,7 @@ customkeys-reset-all = Ponastavi vse bližnjice na privzete
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Ta tipka je že dodeljena naslednjemu dejanju: { $conflict }. Ga želite zamenjati?
 customkeys-reset-all-confirm = Ali ste prepričani, da želite ponastaviti vse bližnjice na privzete vrednosti?
+customkeys-file-duplicate-tab = Podvoji zavihek
 customkeys-history-reopen-tab = Obnovi zadnji zaprti zavihek
 customkeys-history-reopen-window = Obnovi zadnje zaprto okno
 customkeys-sidebar-toggle = Prikaži/skrij stransko vrstico

@@ -1018,6 +1018,7 @@ urlbar-searchmode-popup-one-off-header = Tokrat išči z iskalnikom:
 # reset after submitting.
 urlbar-searchmode-popup-header = Išči z iskalnikom:
 urlbar-searchmode-popup-search-settings-panelitem = Nastavitve iskanja
+urlbar-searchmode-popup-settings-panelitem = Nastavitve
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

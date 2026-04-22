@@ -142,6 +142,10 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ura vaše naprave je nast
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Spletnega mesta { $hostname } lastnik ni pravilno nastavil, zato ni mogoče vzpostaviti varne povezave.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Vaš računalnik misli, da smo { DATETIME($now, dateStyle: "medium") }, kar { -brand-short-name(sklon: "dajalnik") } preprečuje varno povezavo. Da boste lahko obiskali <strong>{ $hostname }</strong>, v nastavitvah sistema nastavite uro računalnika na trenutni datum in čas ter časovni pas, nato osvežite stran.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
