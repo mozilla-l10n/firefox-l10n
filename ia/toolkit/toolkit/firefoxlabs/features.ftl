@@ -86,7 +86,6 @@ experimental-features-newtab-widget-weather-description = Obtene un vision clar 
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Imagine del die
-experimental-features-newtab-widget-picture-of-the-day-description = Adde un parve meravilia quotidian a tu die. Recipe un nove imagine, apprende alco de interessante, e predefini un nove fundo in un snap.
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Horologios

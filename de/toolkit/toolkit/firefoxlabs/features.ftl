@@ -86,6 +86,7 @@ experimental-features-newtab-widget-weather-description = Verschaffen Sie sich m
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Bild des Tages
+experimental-features-newtab-widget-picture-of-the-day-description = Fügen Sie Ihrem Tag ein kleines tägliches Wunder hinzu. Sehen Sie ein neues Bild, erfahren Sie etwas Interessantes und legen Sie im Handumdrehen ein neues Hintergrundbild fest. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Uhren
