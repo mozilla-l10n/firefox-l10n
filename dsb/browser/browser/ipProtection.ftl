@@ -267,6 +267,9 @@ vpn-paused-alert-body = Sćo pśetrjebał wšykne { $maxUsage } GB swójich dato
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Sćo wšykne { $maxUsage } GB swójich datow VPN pśetrjebał. Pśistup se pśiducy mjasec slědk stajijo.
+vpn-error-page-continue-description = Wubjeŕśo, kak móžośo bźez VPN pókšacowaś
+vpn-error-page-keep-browsing = W toś tom pósejźenju dalej pśeglědowaś
+vpn-error-page-new-session = Nowe pósejźenje zachopiś
 vpn-paused-alert-close-tabs-button = Wšykne rejtariki zacyniś
 vpn-paused-alert-continue-wo-vpn-button = Bźez VPN pókšacowaś
 vpn-error-alert-title = VPN rowno njefunkcioněrujo.

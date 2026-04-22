@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Wóźeńske elementy KI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Bźezbariernosć
+    .title = { pane-accessibility-title }
 pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
@@ -757,6 +759,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Awtomatiske pśesuwanje wužywaś
     .accesskey = A
+keyboard-and-scrolling-group =
+    .label = Tastaturowa nawigacija a kulnjenje
+motion-and-link-group =
+    .label = Animacije a stile wótkazow
 browsing-use-smooth-scrolling =
     .label = Pólažke pśesuwanje wužywaś
     .accesskey = l
@@ -798,6 +804,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Dalšne informacije
 browsing-group =
     .label = Pśeglědowanje
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Bźezbariernosć
+preferences-default-zoom-select =
+    .aria-label = Standardne skalěrowanje
+preferences-fonts-family =
+    .label = Pismowa swójźba
+    .accesskey = P
+preferences-fonts-size =
+    .label = Pismowa wjelikosć
+    .accesskey = l
+preferences-fonts-advanced-settings =
+    .label = Rozšyrjone nastajenja
+    .accesskey = R
 
 ## General Section - Proxy
 
@@ -1104,6 +1126,7 @@ search-edit-engine =
     .label = Wobźěłaś
     .accesskey = b
 search-find-more-link = Dalšne pytnice pytaś
+search-filtering-for-add-engine = Mašinu pśidaś
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Klucowe słowo duplicěrowaś

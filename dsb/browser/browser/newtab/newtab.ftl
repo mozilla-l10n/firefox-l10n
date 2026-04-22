@@ -593,8 +593,16 @@ newtab-topic-selection-button-pick-interests = Wubjeŕśo swóje zajmy
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Slědowaś
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = { $topic } slědowaś
 newtab-section-following-button = Slědujucy
 newtab-section-unfollow-button = Wěcej njeslědowaś
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Slědowanje: { $topic } wěcej njeslědowaś
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Zgłosujśo swój kanal nadrobno
 newtab-section-follow-highlight-subtitle = Slědujśo swójim zajmam, aby wěcej wó tom wiźeł, což se wam spódoba.
@@ -636,6 +644,12 @@ newtab-custom-wallpaper-cta = Wopytajśo jen
 newtab-new-user-custom-wallpaper-title = Wubjeŕśo slězynowy wobraz, aby se { -brand-product-name } pśiswójł
 newtab-new-user-custom-wallpaper-subtitle = Cujśo se na kuždem nowem rejtariku ako doma ze swójskimi slězynowymi wobrazami a barwami.
 newtab-new-user-custom-wallpaper-cta = Wopytajśo něnto
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Nowe slězynowe wobraze su rowno dojšli
+newtab-wallpaper-feature-highlight-subtitle = Wubjeŕśo swój faworit a dajśo kuždemu nowemu rejtarikoju zacuśe, se ako doma cuś.
+newtab-wallpaper-feature-highlight-cta = Slězynowy wobraz wubraś
 
 ## Strings for download mobile highlight
 
@@ -724,8 +738,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu napóraś
 newtab-widget-lists-name-label-default =
     .label = Lisćiny nadawkow
+newtab-widget-lists-name-label-checklist =
+    .label = Kontrolna lisćina
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lisćiny nadawkow
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Kontrolna lisćina
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nowa lisćina
@@ -745,7 +763,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Asistenty miniměrowaś
     .aria-label = Wšykne asistenty do kompaktneje wjelikosći złožyś
+newtab-widget-section-menu-button =
+    .title = Meni asistentow
+    .aria-label = Meni asistentow wócyniś
+newtab-widget-section-menu-hide-all = Asistenty schowaś
+newtab-widget-section-menu-learn-more = Dalšne informacije
 newtab-widget-section-feedback = Grońśo nam swójo měnjenje
+newtab-widget-lists-name-default = Kontrolna lisćina
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
