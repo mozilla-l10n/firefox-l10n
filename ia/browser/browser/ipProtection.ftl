@@ -30,10 +30,15 @@ ipprotection-feature-introduction-title-privacy = Adder un altere nivello de con
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige ab 5 positiones pro mantener plus private ubi tu naviga.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Es tu sur un wi-fi public? Essaya le VPN integrate de { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Obtene <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> seligente ab 5 positiones pro celar ubi tu naviga.
 ipprotection-feature-introduction-description-captive-portal = Navigar con protection ulterior celante tu position, mesmo sur wi-fi public.
 ipprotection-feature-introduction-button-primary = Sequente
 ipprotection-feature-introduction-button-secondary-not-now = Non ora
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gratias
+ipprotection-feature-introduction-button-secondary-remove = Remover le VPN ab le barra del instrumentos
 
 ## Site settings callout
 
@@ -43,13 +48,18 @@ ipprotection-site-settings-callout-button = OK
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Nova: cambia tu position
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> te permitte de eliger ex 5 positiones de navigation, o que nos selige le plus veloce un pro te.
 ipprotection-location-selection-callout-primary-button = Prova lo
+ipprotection-location-selection-callout-secondary-button = Ignorar
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cela tu position</a> navigante in { -brand-product-name }.
+unauthenticated-private-location-message = Adjuta <a data-l10n-name="learn-more-vpn">a mantener tu position private</a> in { -brand-product-name }.
+unauthenticated-choose-location-message = Elige ex 5 positiones o lassa que { -brand-product-name } selige le plus veloce.
 unauthenticated-hide-location-message-2 = Cela tu position dum tu naviga in { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -84,6 +94,7 @@ ipprotection-button-connecting = Activar…
 
 ## Location controls
 
+ipprotection-recommended-location-description = { -brand-product-name } trova le position plus veloce
 ipprotection-recommended-location-badge = NOVA
 # Variables
 #   $country (string) - The country selected for the VPN server location
