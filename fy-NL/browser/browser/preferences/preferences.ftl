@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Sykje
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privacy & Befeiliging
+pane-privacy-section =
+    .heading = Privacy & Befeiliging
 pane-privacy-title = Privacy & Befeiliging
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Prestaasjes
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navigearje
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mear ynfo
 browsing-group =
     .label = Navigearje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Fier in oanpaste provider-URL yn
 preferences-doh-header2 =
     .heading = DNS oer HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
