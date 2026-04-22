@@ -401,6 +401,7 @@ newtab-wallpaper-light-fox-anniversary = ثعلب في حقل عشبي مع من
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = الألوان الصلبة
+newtab-wallpaper-colors = الألوان
 newtab-wallpaper-blue = أزرق
 newtab-wallpaper-light-blue = أزرق فاتح
 newtab-wallpaper-light-purple = ارجواني فاتح
@@ -446,6 +447,7 @@ newtab-wallpaper-sand-dunes = كثبان رملية بيضاء
 #   $webpage_string (String) - The name of the webpage where the photo is located.
 newtab-wallpaper-attribution = صورة من <a data-l10n-name="name-link">{ $author_string }</a> على <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = جرب دفقة من الألوان
+newtab-wallpaper-feature-highlight-content = امنح صفحة لسانك الجديدة مظهرًا جديدًا باستخدام الخلفيات.
 newtab-wallpaper-feature-highlight-button = فهمت
 # Tooltip for dismiss button
 feature-highlight-dismiss-button =
