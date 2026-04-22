@@ -183,7 +183,7 @@ genai-chatbot-summarize-sidebar-provider-subtitle = Kenar çubuğundan yapay zek
 genai-chatbot-summarize-sidebar-generic-subtitle = Kenar çubuğundaki yıldız düğmesine sağ tıklayıp “Sayfayı özetle”yi seçin. İlk seferinizde yapay zekâ sohbet botunuzu da seçeceksiniz.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Kenar çubuğundan yapay zekâ sohbet botunuzu açıp en alttaki “Sayfayı özetle”yi seçin.
-genai-chatbot-summarize-footer-generic-subtitle = Sayfaları hızlıca özetlemek için { -brand-short-name } kenar çubuğuna bir yapay zekâ sohbet botu ekleyin.
+genai-chatbot-summarize-footer-generic-subtitle = Sayfaları hızlıca özetlemek için { -brand-short-name } kenar çubuğuna bir yapay zekâ sohbet botu ekleyebilirsiniz.
 
 ## Chatbot onboarding choices
 ## These describe features/capabilities of chatbot providers. These are not buttons/actions.
