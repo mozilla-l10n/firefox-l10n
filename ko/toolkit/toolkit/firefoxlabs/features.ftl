@@ -86,9 +86,11 @@ experimental-features-newtab-widget-weather-description = 시간별 일기예보
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = 오늘의 사진
+experimental-features-newtab-widget-picture-of-the-day-description = 일상에 매일 즐거움을 더하세요. 새로운 사진과 흥미로운 이야기를 만나고, 배경화면까지 한 번에 바꿀 수 있습니다. <a data-l10n-name="connect">의견 공유</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = 시계
+experimental-features-newtab-widget-clocks-description = 중요한 장소의 시간을 확인할 수 있도록 맞춤형 별칭이 담긴 시계를 최대 4개까지 추가해 보세요. <a data-l10n-name="connect">의견 공유</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = 의미 기록 검색
