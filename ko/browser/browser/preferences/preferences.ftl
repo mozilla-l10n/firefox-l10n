@@ -2132,6 +2132,10 @@ collection-backlogged-crash-reports2 =
     .label = 자동으로 충돌 보고서 보내기
     .accesskey = c
 collection-backlogged-crash-reports-description = { -vendor-short-name }가 브라우저의 문제를 진단하고 해결하는 데 도움이 됩니다. 보고서에는 개인 정보나 민감한 정보가 포함되어 있을 수 있습니다.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = 동일한 설정, 새로운 모습!
+    .message = 더 쉽게 스캔하고 탐색할 수 있도록 이 페이지를 재구성했습니다. 개인 설정은 변경되지 않았으며 모든 것이 그대로 유지됩니다. 팁: 검색을 사용하여 필요한 항목으로 바로 이동하세요.
 settings-redesign-promo-dismiss-button =
     .label = 확인
 addon-recommendations =
@@ -2394,6 +2398,11 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = 연결 및 소프트웨어 보안
+preferences-connection-link-section =
+    .label = 연결 및 소프트웨어 보안
+    .description = 연결이 어떻게 안전하게 유지되고, 유해한 소프트웨어가 차단되며, 웹사이트가 어떻게 검증되는지 확인해 보세요.
+preferences-connection-link-button =
+    .label = 고급 설정
 
 ## The following strings are used in the Download section of settings
 

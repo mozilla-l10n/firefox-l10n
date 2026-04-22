@@ -587,8 +587,16 @@ newtab-topic-selection-button-pick-interests = 관심 분야를 선택하세요
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = 팔로우
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = { $topic } 팔로우
 newtab-section-following-button = 팔로잉
 newtab-section-unfollow-button = 팔로우 취소
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = 팔로잉: { $topic } 팔로우 해제
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = 피드를 미세 조정하세요
 newtab-section-follow-highlight-subtitle = 관심 분야를 팔로우하면 좋아하는 것을 더 많이 볼 수 있습니다.
@@ -630,6 +638,10 @@ newtab-custom-wallpaper-cta = 사용해 보기
 newtab-new-user-custom-wallpaper-title = 나만의 { -brand-product-name }를 만들 배경 화면을 선택하세요
 newtab-new-user-custom-wallpaper-subtitle = 사용자 지정 배경화면과 색상으로 모든 새 탭을 내 집처럼 꾸며보세요.
 newtab-new-user-custom-wallpaper-cta = 지금 사용해보기
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = 새로운 배경 화면이 방금 공개되었습니다
 
 ## Strings for download mobile highlight
 
