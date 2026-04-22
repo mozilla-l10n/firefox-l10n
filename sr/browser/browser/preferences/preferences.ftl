@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Претрага
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Приватност и безбедност
+pane-privacy-section =
+    .heading = Приватност и безбедност
 pane-privacy-title = Приватност и безбедност
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -790,7 +793,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Перформансе
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Прегледање
 browsing-group-label =
@@ -839,6 +842,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Сазнајте више
 browsing-group =
     .label = Прегледање
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2467,6 +2473,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Унесите произвољну адресу достављача
 preferences-doh-header2 =
     .heading = DNS преко HTTPS-а
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
