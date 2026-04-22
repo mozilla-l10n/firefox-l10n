@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = Anfonodd <strong>{ $hostname }</strong> wall
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Anfonodd y gweinydd yn <strong>{ $hostname }</strong> wall yn ôl: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = Anfonodd %S bennyn yn ôl gyda nodau gwag sy ddim yn cael eu caniatáu gan safonau diogelwch gwe.
+fp-neterror-content-encoding-intro = Methu dangos y dudalen rydych yn ceisio ei darllen am ei bod yn defnyddio math annilys o gywasgu sydd ddim yn cael ei gynnal.
 fp-neterror-coop-coep-intro = Nid yw { -brand-short-name } wedi llwytho'r dudalen hon oherwydd mae'n edrych yn debyg nad yw'r ffurfweddiad diogelwch yn cyfateb i'r dudalen flaenorol.
 fp-neterror-blocked-by-policy-intro = Mae eich sefydliad wedi rhwystro mynediad i'r dudalen neu'r wefan hon.
 fp-neterror-http-auth-disabled-intro = Gallai rhywun sy'n cymryd arno fod ar y wefan geisio dwyn pethau fel eich enw defnyddiwr, cyfrinair neu e-bost.

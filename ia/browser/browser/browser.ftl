@@ -1448,6 +1448,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Clauder session private
     .tooltiptext = Clauder session private
+reset-pbm-panel-description2 = Isto dele chronologia, cookies, e tote le altere datos de sito sin clauder tu Fenestra private.
 reset-pbm-panel-heading = Clauder tu session private?
 reset-pbm-panel-description = Clauder tote le schedas private e eliminar le chronologia, le cookies e tote le altere datos del sito.
 reset-pbm-panel-always-ask-checkbox =
@@ -1705,6 +1706,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Iste sitos tenta cryptominar:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Ha tu un conto pro iste sito?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } trovava que iste sito habeva un violation de datos in le ultime 12 menses. Discoperi si tu era afficite.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorar
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Lancear scansion gratuite
 trustpanel-blocker-section-header2 =
     { $count ->
@@ -1714,5 +1717,7 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Appare le sito corrupte?</strong> Recarga le pagina pro temporarimente abassar tu protection antitraciamento.
 reduced-protection-infobar-reload-button = Recargar
     .accesskey = R

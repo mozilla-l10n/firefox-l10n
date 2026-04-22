@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Cyfaddasu eich pori
 experimental-features-group-productivity =
     .label = Cynhyrchedd
+experimental-features-group-newtab-widgets =
+    .label = Teclynnau ar { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Cyfrineiriau yn y bar ochr
@@ -64,15 +66,31 @@ experimental-features-fx-web-apps-description = Agorwch wefannau rydych chi'n ym
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Rhestrau { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Rhestrau
 experimental-features-newtab-widget-lists-description = Cadwch eich rhestr o bethau i'w gwneud o'ch blaen pan fyddwch chi'n agor tab newydd. O restrau pacio i restrau siopa, crëwch eich cynlluniau yn { -brand-product-name }. <a data-l10n-name="connect">Rhannu adborth</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Amserydd { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Amserydd
 experimental-features-newtab-widget-timer-description = Gosodwch yr amserydd i gadw'ch canolbwyntio, eich cadw i aros ar y trywydd iawn, neu eich atgoffa i orffwys. <a data-l10n-name="connect">Rhannu adborth</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Rhestrau ac amseryddion ar { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Cadwch eich rhestr tasgau ar flaen eich meddwl pan fyddwch chi'n agor tab newydd. O restrau pacio i restrau siopa, gwnewch eich cynlluniau yn { -brand-product-name }. Gosodwch amserydd er mwyn canolbwyntio, eich cadw ar y trywydd iawn, neu eich atgoffa i orffwys. <a data-l10n-name="connect">Rhannu adborth</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Rhagolygon tywydd
+experimental-features-newtab-widget-weather-description = Cael golwg glir o dywydd heddiw gyda rhagolygon yn ôl yr awr. <a data-l10n-name="connect">Rhannu adborth</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Darlun y dydd
+experimental-features-newtab-widget-picture-of-the-day-description = Ychwanegwch ychydig o ryfeddod dyddiol i'ch diwrnod. Cael darlun newydd, dysgu rhywbeth diddorol, a gosod papur wal ffres yn hawdd. <a data-l10n-name="connect">Rhannu adborth</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Clociau
+experimental-features-newtab-widget-clocks-description = Ychwanegwch hyd at bedwar cloc gyda llysenwau cyfaddas i gadw amser ar draws lleoedd sy'n bwysig i chi. <a data-l10n-name="connect">Rhannu adborth</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Chwiliad Hanes Semantig
