@@ -316,6 +316,15 @@ tab-group-editor-action-new-tab =
     .label = Nove scheda in gruppo
 tab-group-editor-action-new-window =
     .label = Mover gruppo a nove fenestra
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Copiar ligamine in gruppo
+            [one] Copiar { $linkCount } ligamine in gruppo
+           *[other] Copiar { $linkCount } ligamines in gruppo
+        }
 tab-group-editor-action-save =
     .label = Salvar e clauder gruppo
 tab-group-editor-action-ungroup =
@@ -325,6 +334,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Facite
     .accessKey = F
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Condivider gruppo de schedas
 tab-context-reopen-tab-group =
     .label = Reaperir le gruppo de schedas
 # Variables:

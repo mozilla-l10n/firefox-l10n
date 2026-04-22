@@ -751,6 +751,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Usar le rolamento automatic
     .accesskey = a
+motion-and-link-group =
+    .label = Stilos de animationes e ligamines
 browsing-use-smooth-scrolling =
     .label = Usar le rolamento suave
     .accesskey = s
@@ -2142,6 +2144,10 @@ collection-backlogged-crash-reports2 =
     .label = Automaticamente inviar reportos de crash
     .accesskey = c
 collection-backlogged-crash-reports-description = Isto adjuta { -vendor-short-name } a diagnosticar e reparar problemas con le navigator.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Mesme parametros, nove apparentia!
+    .message = Nos reorganisava iste pagina assi illo es plus facile a scander e explorar. Tu configurationes personalisate non ha cambiate, e omne cosa es ancora ci. Consilio: usa le recerca pro saltar directemente a lo que te besonia.
 settings-redesign-promo-dismiss-button =
     .label = Comprendite
 addon-recommendations =
@@ -2402,6 +2408,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Securitate de connexion e de software
+preferences-connection-link-section =
+    .label = Securitate de connexion e de software
+    .description = Vide como le connexiones remane secur, le software malefic es blocate, e le sitos web es verificate.
 preferences-connection-link-button =
     .label = Configurationes avantiate
 

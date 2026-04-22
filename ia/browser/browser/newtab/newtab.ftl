@@ -637,6 +637,11 @@ newtab-new-user-custom-wallpaper-title = Selige un fundo pro render tue { -brand
 newtab-new-user-custom-wallpaper-subtitle = Rende cata nove scheda como tu casa con fundos e colores personal.
 newtab-new-user-custom-wallpaper-cta = Proba lo subito
 
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Nove fundos justo atterrate
+newtab-wallpaper-feature-highlight-subtitle = Elige tu favorite e rende cata nove scheda como le pagina principal.
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Discarga { -brand-product-name } pro apparatos mobile

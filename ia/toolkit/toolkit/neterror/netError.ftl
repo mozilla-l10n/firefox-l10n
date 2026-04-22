@@ -199,6 +199,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> restitueva un
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Le servitor a <strong>{ $hostname }</strong> restitueva un error: { $responsestatus } { $responsestatustext }
+fp-neterror-content-encoding-intro = Le pagina que tu tenta vider non pote esser monstrate perque illo usa un forma de compression invalide o non admittite.
 fp-neterror-coop-coep-intro = { -brand-short-name } non carga iste pagina perque il pare que le configuration de securitate non concorda con le pagina previe.
 fp-neterror-blocked-by-policy-intro = Tu organisation ha blocate le accesso a iste pagina o sito web.
 fp-neterror-http-auth-disabled-intro = Alcuno que finge de esser le sito poterea tentar de robar cosas como tu nomine de usator, contrasigno, o email.

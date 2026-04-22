@@ -106,6 +106,7 @@ ipprotection-recommended-location-badge = NOVA
 ipprotection-location-country-button = Position: { $country }
 ipprotection-locations-subview =
     .title = Elige un position
+ipprotection-locations-subview-description = Elige un position differente ab que navigar.
 ipprotecion-locations-subview-recommended-label = Recommendate
 ipprotection-locations-subview-recommended-description = Trova le position plus veloce
 ipprotection-locations-subview-promo =
