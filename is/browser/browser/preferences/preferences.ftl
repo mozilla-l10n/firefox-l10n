@@ -352,7 +352,6 @@ preferences-zoom-header2 =
     .label = Aðdráttur
 preferences-default-zoom-label =
     .label = Sjálfgefinn aðdráttur
-    .accesskey = d
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Aðdráttur
 preferences-default-zoom = Sjálfgefinn aðdráttur
@@ -561,9 +560,6 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Afköst
@@ -633,9 +629,6 @@ browsing-cfr-recommendations-learn-more = Kanna nánar
 browsing-group =
     .label = Leit
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Stillingar netkerfis
@@ -687,12 +680,6 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -908,11 +895,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1783,23 +1765,8 @@ preferences-doh-manage-exceptions =
     .label = Sýsla með undantekningar
     .accesskey = k
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

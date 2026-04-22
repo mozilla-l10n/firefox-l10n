@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Embojuruja VPN kuatiarogue ptyvõha
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Rohechauka VPN, ko’ág̃a ne kundahára ryepýpe
 ipprotection-feature-introduction-link-text-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Aikũmby
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Eñomi tendaite</a> oñeikundaha aja { -brand-product-name } ndive.
 unauthenticated-hide-location-message-2 = Eñomi pe tendaite eikundaha aja { -brand-product-name } ndive.

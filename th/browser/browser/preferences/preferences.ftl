@@ -399,7 +399,6 @@ preferences-zoom-header2 =
     .label = ซูม
 preferences-default-zoom-label =
     .label = ซูมเริ่มต้น
-    .accesskey = ร
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ซูม
 preferences-default-zoom = ซูมเริ่มต้น
@@ -780,9 +779,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 browsing-group =
     .label = การเรียกดู
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2357,9 +2353,6 @@ preferences-doh-custom-provider-label =
     .aria-label = ป้อน URL ของผู้ให้บริการที่กำหนดเอง
 preferences-doh-header2 =
     .heading = DNS over HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

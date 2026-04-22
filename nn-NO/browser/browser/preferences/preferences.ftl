@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Skalering
 preferences-default-zoom-label =
     .label = Standardskalering
-    .accesskey = s
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Skalering
 preferences-default-zoom = Standardskalering
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Les meir
 browsing-group =
     .label = Nettlesing
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2383,9 +2379,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Skriv inn ein eigendefinert leverandør-URL
 preferences-doh-header2 =
     .heading = DNS over HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

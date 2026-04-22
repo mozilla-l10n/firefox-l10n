@@ -99,7 +99,7 @@ performance-allow-hw-accel =
     .label = Aramaten ti Pannakapapardas iti hardware no maal-ala
     .accesskey = A
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Panagsursur
 browsing-group =

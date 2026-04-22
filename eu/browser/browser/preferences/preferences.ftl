@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Zooma
 preferences-default-zoom-label =
     .label = Zoom lehenetsia
-    .accesskey = Z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zooma
 preferences-default-zoom = Zoom lehenetsia
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Argibide gehiago
 browsing-group =
     .label = Nabigatzea
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2383,9 +2379,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Idatzi hornitzailearen URL pertsonalizatua
 preferences-doh-header2 =
     .heading = HTTPS gaineko DNSa
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

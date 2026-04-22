@@ -102,7 +102,7 @@ performance-settings-learn-more = Ootzi ka'te
 performance-default-content-process-count =
     .label = { $num } (a' chite' at kan)
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-picture-in-picture-learn-more = Ootzi ka'te
 browsing-cfr-recommendations-learn-more = Ootzi ka'te

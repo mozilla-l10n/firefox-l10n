@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = 打开 VPN 支持页面
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = 欢迎连接 VPN，现已内置于浏览器
 ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 隐藏真实位置、保护个人数据。
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = 知道了
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = 试用 { -brand-product-name } 的内置 VPN
 unauthenticated-hide-location-message-3 = 在用 { -brand-product-name } 浏览时<a data-l10n-name="learn-more-vpn">隐藏真实位置</a>。
 unauthenticated-hide-location-message-2 = 在用 { -brand-product-name } 浏览时隐藏真实位置。

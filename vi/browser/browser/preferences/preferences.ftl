@@ -399,7 +399,6 @@ preferences-zoom-header2 =
     .label = Thu phóng
 preferences-default-zoom-label =
     .label = Thu phóng mặc định
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Thu phóng
 preferences-default-zoom = Thu phóng mặc định
@@ -780,9 +779,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Tìm hiểu thêm
 browsing-group =
     .label = Duyệt
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2367,9 +2363,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Nhập URL nhà cung cấp tùy chỉnh
 preferences-doh-header2 =
     .heading = DNS qua HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Suurennus
 preferences-default-zoom-label =
     .label = Oletuskoko
-    .accesskey = O
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Suurennus
 preferences-default-zoom = Oletuskoko
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2384,9 +2380,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Anna mukautetun tarjoajan URL-osoite
 preferences-doh-header2 =
     .heading = DNS HTTPS:n kautta
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

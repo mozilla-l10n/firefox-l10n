@@ -135,7 +135,7 @@ performance-allow-hw-accel =
     .label = Kozesa okwanguya kwe ebyuma wekubanga wekuli
     .accesskey = u
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Kunoonya
 browsing-use-autoscroll =

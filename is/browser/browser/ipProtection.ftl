@@ -19,7 +19,7 @@ ipprotection-experiment-badge =
     .label = BETA-prófun
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-button-primary = Næsta
 ipprotection-feature-introduction-button-secondary-not-now = Ekki núna

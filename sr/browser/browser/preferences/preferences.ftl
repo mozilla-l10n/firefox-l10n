@@ -438,7 +438,6 @@ preferences-zoom-header2 =
     .label = Зумирање
 preferences-default-zoom-label =
     .label = Ниво зумирања:
-    .accesskey = з
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Зумирање
 preferences-default-zoom = Ниво зумирања:
@@ -842,9 +841,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Сазнајте више
 browsing-group =
     .label = Прегледање
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2473,9 +2469,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Унесите произвољну адресу достављача
 preferences-doh-header2 =
     .heading = DNS преко HTTPS-а
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

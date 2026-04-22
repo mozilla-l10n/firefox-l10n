@@ -423,7 +423,6 @@ preferences-zoom-header2 =
     .label = Chwyddo
 preferences-default-zoom-label =
     .label = Chwyddo rhagosodedig
-    .accesskey = C
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Chwyddo
 preferences-default-zoom = Chwyddo rhagosodedig
@@ -804,9 +803,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Darllen rhagor
 browsing-group =
     .label = Pori
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2399,9 +2395,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Rhowch URL darparwr cyfaddas
 preferences-doh-header2 =
     .heading = DNS Dros HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

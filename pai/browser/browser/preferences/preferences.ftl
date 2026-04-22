@@ -23,7 +23,7 @@ play-drm-content-learn-more = Terabum ŕpo
 
 performance-settings-learn-more = Terabum ŕpo
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-picture-in-picture-learn-more = Terabum ŕpo
 browsing-cfr-recommendations-learn-more = Terabum ŕpo

@@ -127,7 +127,7 @@ performance-allow-hw-accel =
     .label = Jëfandikoo xiiralu masin bi su feexee
     .accesskey = n
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Joow mi
 browsing-use-autoscroll =

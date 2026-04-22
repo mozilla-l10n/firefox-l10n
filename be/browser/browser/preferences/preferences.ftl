@@ -414,7 +414,6 @@ preferences-zoom-header2 =
     .label = Маштаб
 preferences-default-zoom-label =
     .label = Прадвызначаны маштаб
-    .accesskey = ч
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Маштаб
 preferences-default-zoom = Прадвызначаны маштаб
@@ -795,9 +794,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Падрабязней
 browsing-group =
     .label = Агляданне
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2387,9 +2383,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Увядзіце URL-адрас уласнага правайдара
 preferences-doh-header2 =
     .heading = DNS праз HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

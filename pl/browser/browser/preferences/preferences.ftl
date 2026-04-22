@@ -414,7 +414,6 @@ preferences-zoom-header2 =
     .label = Powiększenie
 preferences-default-zoom-label =
     .label = Domyślne powiększenie:
-    .accesskey = D
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Powiększenie
 preferences-default-zoom = Domyślne powiększenie:
@@ -795,9 +794,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Więcej informacji
 browsing-group =
     .label = Przeglądanie
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2384,9 +2380,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Wpisz adres URL własnego dostawcy
 preferences-doh-header2 =
     .heading = DNS poprzez HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

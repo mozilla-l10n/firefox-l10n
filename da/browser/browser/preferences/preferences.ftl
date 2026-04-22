@@ -406,7 +406,6 @@ preferences-zoom-header2 =
     .label = Zoom
 preferences-default-zoom-label =
     .label = Standard-zoom
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Standard-zoom
@@ -784,9 +783,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Læs mere
 browsing-group =
     .label = Browsing
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2231,9 +2227,6 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = DNS via HTTPS
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
@@ -2323,6 +2316,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
-
-## Warnings section
-

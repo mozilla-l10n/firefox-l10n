@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = VPN қолдау бетін ашу
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Енді браузеріңіздің ішінде қолжетімді болатын VPN ұсынамыз
 ipprotection-feature-introduction-link-text-2 = Орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Түсіндім
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = { -brand-product-name } құрамындағы VPN қолданып көріңіз
 unauthenticated-hide-location-message-3 = { -brand-product-name } ішінде шолу кезінде <a data-l10n-name="learn-more-vpn">Орналасқан жеріңізді жасырыңыз</a>.
 unauthenticated-hide-location-message-2 = { -brand-product-name } ішінде шолу кезінде орналасқан жеріңізді жасырыңыз.

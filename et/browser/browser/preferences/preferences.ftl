@@ -262,7 +262,6 @@ preferences-zoom-header2 =
     .label = Suurendamine
 preferences-default-zoom-label =
     .label = Vaikimisi suurendamine
-    .accesskey = u
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Suurendamine
 preferences-default-zoom = Vaikimisi suurendamine
@@ -466,9 +465,6 @@ update-in-progress-ok-button = &Loobu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = %Jätka
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Jõudlus
@@ -530,9 +526,6 @@ browsing-cfr-recommendations-learn-more = Rohkem teavet
 browsing-group =
     .label = Lehitsemine
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Võrgusätted
@@ -582,12 +575,6 @@ use-current-pages =
 choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -767,11 +754,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } pole kinnitatud.
 sync-signedin-login-failure = Konto { $email } taasühendamiseks logi sisse
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -970,9 +952,6 @@ primary-password-os-auth-dialog-message-win = Ülemparooli loomiseks sisesta Win
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = Ajalugu
@@ -1066,12 +1045,6 @@ sitedata-cookies-exceptions =
     .accesskey = H
 cookies-site-data-group =
     .label = Küpsised ja saidi andmed
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1267,9 +1240,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Vaata { -brand-short-name }i uuringuid
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1319,26 +1289,8 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Töölaud
 downloads-folder-name = Allalaadimised
 choose-download-folder-title = Vali allalaadimiste kaust:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

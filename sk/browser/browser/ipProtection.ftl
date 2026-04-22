@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Otvoriť stránku podpory VPN
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo vašom prehliadači
 ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Rozumiem
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skrytie polohy</a> počas prehliadania vo { -brand-product-name(case: "loc") }.
 unauthenticated-hide-location-message-2 = Skryte svoju polohu počas prehliadania v { -brand-product-name(case: "loc") }.

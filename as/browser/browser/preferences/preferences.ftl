@@ -148,7 +148,7 @@ performance-allow-hw-accel =
     .label = যেতিয়া উপলব্ধ তেতিয়া হাৰ্ডৱেৰ ত্বৰণ ব্যৱহাৰ কৰক
     .accesskey = r
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = ব্ৰাউছিং
 browsing-use-autoscroll =

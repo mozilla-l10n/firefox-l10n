@@ -193,10 +193,6 @@ browser-containers-settings =
 startup-group =
     .label = ره وندن
 
-## Variables:
-##   $tabCount (number) - Number of tabs
-
-
 ##
 
 containers-disable-alert-cancel-button = فعال بمهنه
@@ -256,7 +252,6 @@ preferences-zoom-header2 =
     .label = گپ نمایی
 preferences-default-zoom-label =
     .label = گپ نمایی پؽش فرز
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = گپ نمایی
 preferences-default-zoom = گپ نمایی پؽش فرز
@@ -502,9 +497,6 @@ browsing-media-control-learn-more = قلوه دووسته بۊین
 browsing-cfr-recommendations-learn-more = قلوه دووسته بۊین
 browsing-group =
     .label = گشتن
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -813,13 +805,6 @@ sync-connect-another-device = منپیز ی دسگا دیر
 sync-connect-another-device-2 =
     .label = منپیز ی دسگا دیر
 
-## These strings are shown in a desktop notification after the
-## user requests we resend a verification email.
-
-
-## Privacy Section
-
-
 ## Privacy Section - Logins and Passwords
 
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
@@ -958,9 +943,6 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = کۊکیا وو داده یل وبگه
-
-## Privacy Section - Cookie Banner Handling
-
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1145,9 +1127,6 @@ collection-studies-description = ویژیی یل وو ایده یل ن پؽش ز
 addon-recommendations-link = قلوه دووسته بۊین
 data-collection-profiles-link = نیشتن پوی پوروفایلا
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1205,9 +1184,6 @@ preferences-doh-select-resolver = پسند جۊر کوݩ:
 preferences-doh-manage-exceptions =
     .label = دؽوۉداری استسنایل…
     .accesskey = x
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 
@@ -1275,6 +1251,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = جا کلکا مشکۊک
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = جا کلکا مشکۊک
-
-## Warnings section
-

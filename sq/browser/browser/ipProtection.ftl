@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Hapni faqe asistence VPN-je
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Ju paraqesim VPN-në, tanimë drejt e nga brenda shfletuesit tuaj
 ipprotection-feature-introduction-link-text-2 = Përdorni <a data-l10n-name="learn-more-vpn">VPN-në tonë të brendshme</a> që të fshihni vendndodhjen tuaj dhe të mbroni të dhënat tuaja.
@@ -38,6 +38,7 @@ ipprotection-site-settings-callout-button = E mora vesh
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
 unauthenticated-hide-location-message-2 = Fshiheni vendndodhjen tuaj teksa shfletoni në { -brand-product-name }.
 # Variables

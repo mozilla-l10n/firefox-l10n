@@ -112,7 +112,7 @@ applications-use-other-label =
 
 play-drm-content-learn-more = Lab Kue
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Te tak kuan lu koo lash luu
 browsing-group =

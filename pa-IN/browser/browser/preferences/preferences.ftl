@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = ਜ਼ੂਮ
 preferences-default-zoom-label =
     .label = ਮੂਲ ਜ਼ੂਮ
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ਜ਼ੂਮ
 preferences-default-zoom = ਮੂਲ ਜ਼ੂਮ
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-group =
     .label = ਬਰਾਊਜ਼ਿੰਗ
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2385,9 +2381,6 @@ preferences-doh-custom-provider-label =
     .aria-label = ਇੱਕ ਚੁਣਿੰਦਾ ਪੂਰਕ URL ਦਿਓ
 preferences-doh-header2 =
     .heading = HTTPS ਉੱਤੇ DNS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

@@ -142,7 +142,7 @@ performance-allow-hw-accel =
     .label = ہارڈ ویر اكسیلریشن كریو استیمال یل۪ی دستیاب آس۪ی
     .accesskey = r
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = براوزِنگ
 browsing-use-autoscroll =

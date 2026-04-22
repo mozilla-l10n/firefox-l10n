@@ -136,7 +136,7 @@ performance-allow-hw-accel =
     .label = Tumia viharakishi maunzi wakati zinapatikana
     .accesskey = v
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Kuvinjari
 browsing-use-autoscroll =

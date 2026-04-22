@@ -404,7 +404,6 @@ preferences-zoom-header2 =
     .label = Танзими андоза
 preferences-default-zoom-label =
     .label = Андозаи пешфарз
-    .accesskey = А
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Танзими андоза
 preferences-default-zoom = Андозаи пешфарз
@@ -781,9 +780,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Маълумоти бештар
 browsing-group =
     .label = Тамошобинӣ
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2226,9 +2222,6 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = «DNS» тавассути «HTTPS»
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Мизи корӣ
@@ -2299,6 +2292,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
-
-## Warnings section
-

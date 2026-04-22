@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Ireki VPNaren laguntza-orria
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzailean integratuta
 ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Ulertuta
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako VPNa
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ezkutatu zure kokapena</a> { -brand-product-name }(r)ekin nabigatu ahala.
 unauthenticated-hide-location-message-2 = Ezkutatu zure kokapena { -brand-product-name }(r)ekin nabigatu ahala.

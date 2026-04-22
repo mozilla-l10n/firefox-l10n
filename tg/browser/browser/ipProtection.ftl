@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Кушодани саҳифаи дастгирии «VPN»
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-button-primary = Навбатӣ
 ipprotection-feature-introduction-button-secondary-not-now = Ҳоло не

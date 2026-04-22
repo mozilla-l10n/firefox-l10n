@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = VPN destek sayfasını aç
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Anladım
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
 unauthenticated-hide-location-message-3 = { -brand-product-name } ile gezinirken <a data-l10n-name="learn-more-vpn">konumunuzu gizleyin</a>.
 unauthenticated-hide-location-message-2 = { -brand-product-name } ile gezinirken konumunuzu gizleyin.

@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = VPN támogatási oldalának megnyitása
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetlenül a böngészőben
 ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Megértettem
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Próbálja ki a { -brand-product-name } beépített VPN-jét
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Rejtse el a tartózkodási helyét</a> böngészés közben a { -brand-product-name }ban.
 unauthenticated-hide-location-message-2 = Tartózkodási hely elrejtése böngészés közben a { -brand-product-name }ban.

@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Avaa VPN-tukisivu
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimessasi
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Selvä
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Piilota sijaintisi</a> selatessasi { -brand-product-name }illa.
 unauthenticated-hide-location-message-2 = Piilota sijaintisi selatessasi { -brand-product-name }illa.

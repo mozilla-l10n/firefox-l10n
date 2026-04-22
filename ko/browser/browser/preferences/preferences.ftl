@@ -399,7 +399,6 @@ preferences-zoom-header2 =
     .label = 확대/축소
 preferences-default-zoom-label =
     .label = 기본 확대/축소
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = 확대/축소
 preferences-default-zoom = 기본 확대/축소
@@ -780,9 +779,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 더 알아보기
 browsing-group =
     .label = 탐색
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2367,9 +2363,6 @@ preferences-doh-custom-provider-label =
     .aria-label = 사용자 지정 공급자 URL 입력
 preferences-doh-header2 =
     .heading = DNS over HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

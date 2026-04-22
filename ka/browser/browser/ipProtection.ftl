@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = გაიხსნას VPN-მხარდაჭერის გვერდი
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = შემოთავაზებულია VPN, ახლა უკვე პირდაპირ თქვენს ბრაუზერში
 ipprotection-feature-introduction-link-text-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = გასაგებია
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">დამალეთ თქვენი მდებარეობა</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
 unauthenticated-hide-location-message-2 = მდებარეობის გაუმჟღავნებლად გამოიყენეთ { -brand-product-name } გვერდების მონახულებისთვის.

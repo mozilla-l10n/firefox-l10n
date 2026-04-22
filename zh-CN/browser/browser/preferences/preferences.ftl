@@ -407,7 +407,6 @@ preferences-zoom-header2 =
     .label = 全局缩放
 preferences-default-zoom-label =
     .label = 默认缩放
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = 全局缩放
 preferences-default-zoom = 默认缩放
@@ -788,9 +787,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 详细了解
 browsing-group =
     .label = 浏览
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2372,9 +2368,6 @@ preferences-doh-custom-provider-label =
     .aria-label = 输入自定义提供方的网址
 preferences-doh-header2 =
     .heading = 基于 HTTPS 的 DNS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

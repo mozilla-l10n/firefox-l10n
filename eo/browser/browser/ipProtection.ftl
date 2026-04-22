@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Malfermi la helpan paĝon pri VPN
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via retumilo.
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Mi komprenis
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian lokon</a> dum retumo per { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Kaŝu vian lokon dum vi retumas per { -brand-product-name }.

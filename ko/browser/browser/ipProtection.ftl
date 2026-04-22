@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = VPN 지원 페이지 열기
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = 브라우저 안에서 바로 VPN을 만나보세요
 ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 데이터를 보호하세요.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = 확인
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = { -brand-product-name }에 내장된 VPN을 사용해 보세요
 unauthenticated-hide-location-message-3 = { -brand-product-name }에서 탐색하는 동안 <a data-l10n-name="learn-more-vpn">위치를 숨기세요</a>.
 unauthenticated-hide-location-message-2 = { -brand-product-name }에서 탐색하는 동안 위치를 숨기세요.

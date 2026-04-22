@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Zoom
 preferences-default-zoom-label =
     .label = Zoom predefinido
-    .accesskey = Z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom predefinido
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saber mais
 browsing-group =
     .label = Navegação
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2381,9 +2377,6 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ambiente de trabalho
@@ -2526,6 +2519,3 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Identificadores digitais suspeitos
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Identificadores digitais suspeitos
-
-## Warnings section
-

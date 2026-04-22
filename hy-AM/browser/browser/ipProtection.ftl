@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Բացել VPN աջակցության էջը
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Ներկայացնում ենք VPN-ը, այժմ՝ անմիջապես ձեր զննարկիչում
 ipprotection-feature-introduction-button-primary = Հաջորդը

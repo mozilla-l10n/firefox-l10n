@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Pligrandigilo
 preferences-default-zoom-label =
     .label = Norma pligrandigo
-    .accesskey = N
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Pligrandigilo
 preferences-default-zoom = Norma pligrandigo
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Pli da informo
 browsing-group =
     .label = Retumo
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2380,9 +2376,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Tajpu personecigitan URL de provizanto
 preferences-doh-header2 =
     .heading = DNS per HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

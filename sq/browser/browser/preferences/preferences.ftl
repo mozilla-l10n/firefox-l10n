@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Zmadhim/Zvogëlim
 preferences-default-zoom-label =
     .label = Zoom parazgjedhje
-    .accesskey = Z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zmadhim/Zvogëlim
 preferences-default-zoom = Zoom parazgjedhje
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2354,9 +2350,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Jepni një URL shërbimi të përshtatur
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

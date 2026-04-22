@@ -219,7 +219,6 @@ preferences-zoom-header2 =
     .label = بزرگنمایی
 preferences-default-zoom-label =
     .label = بزرگنمایی پیش‌فرض
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = بزرگنمایی
 preferences-default-zoom = بزرگنمایی پیش‌فرض
@@ -417,9 +416,6 @@ update-in-progress-ok-button = &نادیده گرفتن
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ادامه
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = کارایی
@@ -478,9 +474,6 @@ browsing-cfr-recommendations-learn-more = بیشتر بدانید
 browsing-group =
     .label = مرور
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = تنظیمات شبکه
@@ -530,12 +523,6 @@ use-current-pages =
 choose-bookmark =
     .label = استفاده از نشانک…
     .accesskey = ن
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -715,11 +702,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } تایید نشده است.
 sync-signedin-login-failure = لطفا جهت ارتباط مجدد وارد شوید. { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -919,9 +901,6 @@ primary-password-os-auth-dialog-message-win = برای ایجاد گذرواژه
 primary-password-os-auth-dialog-message-macosx = ساخت یک گذرواژهٔ اصلی
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
-## Privacy section - Autofill
-
-
 ## Privacy Section - History
 
 history-header = تاریخچه
@@ -1015,12 +994,6 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = کلوچک‌ها و داده‌های پایگاه
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1215,9 +1188,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = نمایش studyهای { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1275,23 +1245,8 @@ preferences-doh-description = سامانهٔ نام دامنه (ساناد) رو
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-resolver = فراهم‌کننده: { $name }
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = رومیزی
 downloads-folder-name = بارگیری‌ها
 choose-download-folder-title = انتخاب پوشهٔ بارگیری:‏
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

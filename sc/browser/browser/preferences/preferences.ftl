@@ -388,7 +388,6 @@ preferences-zoom-header2 =
     .label = Ingrandimentu
 preferences-default-zoom-label =
     .label = Predefinidu
-    .accesskey = P
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Ingrandimentu
 preferences-default-zoom = Predefinidu
@@ -685,9 +684,6 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -760,9 +756,6 @@ browsing-cfr-recommendations-learn-more = Àteras informatziones
 browsing-group =
     .label = Navigatzione
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Cunfiguratzione de rete
@@ -821,9 +814,6 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
-
-## Home Section - Home Page Customization
-
 
 ## Custom Homepage subpage
 
@@ -2049,9 +2039,6 @@ preferences-doh-manage-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = z
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Iscrivania
@@ -2087,9 +2074,3 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

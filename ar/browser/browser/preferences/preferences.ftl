@@ -401,7 +401,6 @@ preferences-zoom-header2 =
     .label = التقريب
 preferences-default-zoom-label =
     .label = التقريب المبدئي
-    .accesskey = ق
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = التقريب
 preferences-default-zoom = التقريب المبدئي
@@ -772,9 +771,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = اطّلع على المزيد
 browsing-group =
     .label = التّصفّح
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2301,9 +2297,6 @@ preferences-doh-custom-provider-label =
     .aria-label = أدخل عنوان URL مخصصًا لمزود الخدمة
 preferences-doh-header2 =
     .heading = DNS عبر HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

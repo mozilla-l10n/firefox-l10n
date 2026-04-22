@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Agorwch dudalen gymorth VPN
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
 ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN mewnol</a> i guddio'ch lleoliad a diogelu eich data.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Iawn
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Rhowch gynnig ar VPN mewnol { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cuddiwch eich lleoliad</a> wrth bori yn { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Cuddiwch eich lleoliad wrth bori gyda { -brand-product-name }.

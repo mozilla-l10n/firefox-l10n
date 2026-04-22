@@ -350,7 +350,6 @@ preferences-zoom-header2 =
     .label = Мащабиране
 preferences-default-zoom-label =
     .label = Мащабиране по подразбиране
-    .accesskey = м
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Мащабиране
 preferences-default-zoom = Мащабиране по подразбиране
@@ -559,9 +558,6 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Производителност
@@ -629,9 +625,6 @@ browsing-cfr-recommendations-learn-more = Научете повече
 browsing-group =
     .label = Разглеждане
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Настройки на мрежата
@@ -683,12 +676,6 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -896,11 +883,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1724,9 +1706,6 @@ preferences-doh-manage-exceptions =
     .label = Управление на изключенията…
     .accesskey = и
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Плот
@@ -1778,12 +1757,3 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отказ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

@@ -18,7 +18,7 @@ ipprotection-button-error =
 ipprotection-experiment-badge =
     .label = آزمایشی
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-button-primary = بئڌی
 ipprotection-feature-introduction-button-secondary-not-now = سکو ن
@@ -31,6 +31,7 @@ ipprotection-site-settings-callout-button = فئمیم
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = VPN منی { -brand-product-name } ن امتهووݩ کۊنین
 unauthenticated-get-started = ناهاڌن پا کار
 site-exclusion-toggle-enabled-1 =

@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Zoom
 preferences-default-zoom-label =
     .label = Zoom per defecte
-    .accesskey = Z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
 preferences-default-zoom = Zoom per defecte
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2285,9 +2281,6 @@ preferences-doh-manage-exceptions =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
@@ -2326,9 +2319,3 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Descarta
     .aria-label = Descarta
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

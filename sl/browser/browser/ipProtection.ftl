@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Odpri stran s podporo za VPN
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-button-primary = Naprej
 ipprotection-feature-introduction-button-secondary-not-now = Ne zdaj
@@ -35,6 +35,7 @@ ipprotection-site-settings-callout-button = Razumem
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Preizkusite { -brand-product-name }ov vgrajeni VPN
 unauthenticated-get-started = Začni
 site-exclusion-toggle-enabled-1 =

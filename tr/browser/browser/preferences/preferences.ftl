@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Yakınlaştırma
 preferences-default-zoom-label =
     .label = Varsayılan yakınlaştırma
-    .accesskey = m
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Yakınlaştırma
 preferences-default-zoom = Varsayılan yakınlaştırma
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Daha fazla bilgi al
 browsing-group =
     .label = Gezinti
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2383,9 +2379,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Özel sağlayıcının adresini girin
 preferences-doh-header2 =
     .heading = HTTPS üzerinden DNS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

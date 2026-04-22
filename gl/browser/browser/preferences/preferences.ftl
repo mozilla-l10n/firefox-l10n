@@ -350,7 +350,6 @@ preferences-zoom-header2 =
     .label = Ampliación
 preferences-default-zoom-label =
     .label = Ampliación predeterminada
-    .accesskey = p
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Ampliación
 preferences-default-zoom = Ampliación predeterminada
@@ -559,9 +558,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -631,9 +627,6 @@ browsing-cfr-recommendations-learn-more = Máis información
 browsing-group =
     .label = Navegación
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Configuración de rede
@@ -685,12 +678,6 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -910,11 +897,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1746,23 +1728,8 @@ preferences-doh-manage-exceptions =
     .label = Xestionar as excepcións…
     .accesskey = X
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

@@ -417,7 +417,6 @@ preferences-zoom-header2 =
     .label = Skalěrowanje
 preferences-default-zoom-label =
     .label = Standardne skalěrowanje
-    .accesskey = S
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Skalěrowanje
 preferences-default-zoom = Standardne skalěrowanje
@@ -798,9 +797,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Dalšne informacije
 browsing-group =
     .label = Pśeglědowanje
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2391,9 +2387,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Zapódajśo swójski URL póbitowarja
 preferences-doh-header2 =
     .heading = DNS pśez HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

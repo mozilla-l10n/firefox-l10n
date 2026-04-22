@@ -62,7 +62,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navìgacion
 browsing-group =

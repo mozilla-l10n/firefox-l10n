@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Відкрити сторінку підтримки VPN
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Представляємо VPN, тепер прямо у вашому браузері
 ipprotection-feature-introduction-button-primary = Далі
@@ -36,6 +36,7 @@ ipprotection-site-settings-callout-button = Зрозуміло
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Спробуйте вбудовану VPN від { -brand-product-name }
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = Nagyítás
 preferences-default-zoom-label =
     .label = Alapértelmezett nagyítás
-    .accesskey = n
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Nagyítás
 preferences-default-zoom = Alapértelmezett nagyítás
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = További tudnivalók
 browsing-group =
     .label = Böngészés
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2383,9 +2379,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Adjon meg egy egyéni szolgáltatói webcímet
 preferences-doh-header2 =
     .heading = HTTPS feletti DNS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

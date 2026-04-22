@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = VPN-stipeside iepenje
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Nij: VPN, no streekrjocht yn jo browser
 ipprotection-feature-introduction-link-text-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Begrepen
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = De ynboude VPN fan { -brand-product-name } probearje
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ferstopje jo lokaasje</a> by it navigearjen yn { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Ferstopje jo lokaasje by it navigearjen yn { -brand-product-name }.

@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Aperir pagina de supporto del VPN
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Introducer VPN, ora justo interne a tu navigator
 ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = OK
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cela tu position</a> navigante in { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Cela tu position dum tu naviga in { -brand-product-name }.

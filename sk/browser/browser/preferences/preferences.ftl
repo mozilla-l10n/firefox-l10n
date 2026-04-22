@@ -414,7 +414,6 @@ preferences-zoom-header2 =
     .label = Veľkosť stránky
 preferences-default-zoom-label =
     .label = Predvolená veľkosť
-    .accesskey = d
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Veľkosť stránky
 preferences-default-zoom = Predvolená veľkosť
@@ -795,9 +794,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Ďalšie informácie
 browsing-group =
     .label = Prehliadanie
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2384,9 +2380,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Zadajte URL adresu vlastného poskytovateľa
 preferences-doh-header2 =
     .heading = DNS cez HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

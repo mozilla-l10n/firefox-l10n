@@ -391,7 +391,6 @@ preferences-zoom-header2 =
     .label = Ingrandiment
 preferences-default-zoom-label =
     .label = Ingrandiment predefinît
-    .accesskey = f
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Ingrandiment
 preferences-default-zoom = Ingrandiment predefinît
@@ -743,9 +742,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2125,23 +2121,8 @@ preferences-doh-manage-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = x
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

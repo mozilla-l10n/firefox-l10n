@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = Отвори страницу подршке за ВПН
 ipprotection-title = ВПН
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Представљамо ВПН, сада директно у вашем прегледачу
 ipprotection-feature-introduction-link-text-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке.
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = Разумем
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Испробајте { -brand-product-name } уграђени ВПН
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Сакријте своју локацију</a> током прегледања у { -brand-product-name }-у.
 unauthenticated-hide-location-message-2 = Сакријте своју локацију док прегледате у { -brand-product-name }.

@@ -413,7 +413,6 @@ preferences-zoom-header2 =
     .label = Povečava
 preferences-default-zoom-label =
     .label = Privzeta povečava
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Povečava
 preferences-default-zoom = Privzeta povečava
@@ -791,9 +790,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Več o tem
 browsing-group =
     .label = Brskanje
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2224,9 +2220,6 @@ preferences-doh-manage-exceptions =
 preferences-doh-advanced-button =
     .label = Napredne nastavitve
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Namizje
@@ -2322,6 +2315,3 @@ preferences-etp-custom-cookies-enabled =
     .label = Piškotki
 preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
-
-## Warnings section
-

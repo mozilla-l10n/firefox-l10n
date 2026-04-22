@@ -21,7 +21,7 @@ ipprotection-help-button =
     .tooltiptext = VPN ਸਹਿਯੋਗ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-title = VPN
 
-## Feature introduction callout
+## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = VPN ਪੇਸ਼ ਹੈ, ਹੁਣ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੇ ਵਿੱਚ ਹੀ
 ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
@@ -40,6 +40,7 @@ ipprotection-site-settings-callout-button = ਸਮਝੇ
 
 ## Panel
 
+# Also used for the callout shown in private browsing
 unauthenticated-vpn-title = { -brand-product-name } ਦੇ ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
 unauthenticated-hide-location-message-3 = { -brand-product-name } ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ <a data-l10n-name="learn-more-vpn">ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ</a>।
 unauthenticated-hide-location-message-2 = { -brand-product-name } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ।

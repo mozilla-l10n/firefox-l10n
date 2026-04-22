@@ -410,7 +410,6 @@ preferences-zoom-header2 =
     .label = Moañete
 preferences-default-zoom-label =
     .label = Moañete ypyguáva
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Moañete
 preferences-default-zoom = Moañete ypyguáva
@@ -791,9 +790,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Kuaave
 browsing-group =
     .label = Kundaha
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2380,9 +2376,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Emoinge URL me’ẽhára mboavapyréva
 preferences-doh-header2 =
     .heading = DNS HTTPS rehegua
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

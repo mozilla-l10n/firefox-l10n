@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = מרחק מתצוגה
 preferences-default-zoom-label =
     .label = מרחק מתצוגה ברירת מחדל
-    .accesskey = ת
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = מרחק מתצוגה
 preferences-default-zoom = מרחק מתצוגה ברירת מחדל
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = מידע נוסף
 browsing-group =
     .label = דפדוף
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2379,9 +2375,6 @@ preferences-doh-custom-provider-label =
     .aria-label = נא להכניס כתובת ספק מותאם אישית
 preferences-doh-header2 =
     .heading = ‏DNS על גבי HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

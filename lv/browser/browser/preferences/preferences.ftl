@@ -293,7 +293,6 @@ preferences-zoom-header2 =
     .label = Mērogs
 preferences-default-zoom-label =
     .label = Noklusējuma mērogs
-    .accesskey = m
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Mērogs
 preferences-default-zoom = Noklusējuma mērogs
@@ -499,9 +498,6 @@ update-in-progress-ok-button = &Atmest
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Turpināt
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Veiktspēja
@@ -569,9 +565,6 @@ browsing-cfr-recommendations-learn-more = Uzzināt vairāk
 browsing-group =
     .label = Pārlūkošana
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Tīkla iestatījumi
@@ -623,12 +616,6 @@ use-current-pages =
 choose-bookmark =
     .label = Lietot grāmatzīmi…
     .accesskey = g
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -833,11 +820,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nav apstiprināts.
 sync-signedin-login-failure = Lūdzu pieslēdzieties, lai atjaunotu savienojumu { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1445,9 +1427,6 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Aplūkot { -brand-short-name } pētījumus
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1559,23 +1538,8 @@ preferences-doh-manage-exceptions =
     .label = Pārvaldīt izņēmumus…
     .accesskey = z
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Darbvirsma
 downloads-folder-name = Lejupielādes
 choose-download-folder-title = Izvēlieties lejupielāžu mapi:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

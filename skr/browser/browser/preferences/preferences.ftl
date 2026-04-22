@@ -290,7 +290,6 @@ preferences-zoom-header2 =
     .label = زوم
 preferences-default-zoom-label =
     .label = طے شدہ زوم
-    .accesskey = z
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = زوم
 preferences-default-zoom = طے شدہ زوم
@@ -496,9 +495,6 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
 
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -566,9 +562,6 @@ browsing-cfr-recommendations-learn-more = ٻیا سِکھو
 browsing-group =
     .label = براؤزنگ
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = نیٹ ورک دیاں ترتیباں
@@ -620,12 +613,6 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -826,11 +813,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1569,23 +1551,8 @@ preferences-doh-manage-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
 choose-download-folder-title = ڈاؤن لوڈ فولڈر دا انتخاب کرو:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

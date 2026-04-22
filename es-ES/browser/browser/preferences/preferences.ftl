@@ -408,7 +408,6 @@ preferences-zoom-header2 =
     .label = Ampliación
 preferences-default-zoom-label =
     .label = Ampliación predeterminada
-    .accesskey = A
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Ampliación
 preferences-default-zoom = Ampliación predeterminada
@@ -789,9 +788,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saber más
 browsing-group =
     .label = Navegación
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2336,9 +2332,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Introduzca una URL de proveedor personalizada
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

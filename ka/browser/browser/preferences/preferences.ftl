@@ -411,7 +411,6 @@ preferences-zoom-header2 =
     .label = ზომა
 preferences-default-zoom-label =
     .label = ნაგულისხმევი ზომა
-    .accesskey = ზ
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = ზომა
 preferences-default-zoom = ნაგულისხმევი ზომა
@@ -792,9 +791,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ვრცლად
 browsing-group =
     .label = გვერდების მონახულება
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -2383,9 +2379,6 @@ preferences-doh-custom-provider-label =
     .aria-label = შეიყვანეთ სასურველი მომწოდებლის ბმული
 preferences-doh-header2 =
     .heading = DNS-მოთხოვნა HTTPS-ით
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 
