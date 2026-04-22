@@ -452,4 +452,4 @@ relay-50-masks-announcement-subtitle = Nu får du 50 alias gratis (från tidigar
 relay-50-masks-announcement-primary-button = Gå till { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Ignorera
-    .accesskey = I
+    .accesskey = g

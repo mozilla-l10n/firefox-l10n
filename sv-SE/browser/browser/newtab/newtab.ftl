@@ -643,8 +643,8 @@ newtab-new-user-custom-wallpaper-cta = Prova det nu
 
 ## Strings for Nova wallpaper feature highlight
 
-newtab-wallpaper-feature-highlight-title = Färska nya bakgrundsbilder precis landat
-newtab-wallpaper-feature-highlight-subtitle = Välj din favorit och gör att varje ny flik känns som hemma.
+newtab-wallpaper-feature-highlight-title = Nya färska bakgrundsbilder har precis kommit
+newtab-wallpaper-feature-highlight-subtitle = Välj din favorit och få varje ny flik att kännas som hemma.
 newtab-wallpaper-feature-highlight-cta = Välj bakgrundsbild
 
 ## Strings for download mobile highlight

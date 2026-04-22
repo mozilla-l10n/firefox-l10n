@@ -1449,6 +1449,7 @@ reset-pbm-toolbar-button =
     .label = Avsluta privat session
     .tooltiptext = Avsluta privat session
 reset-pbm-panel-heading2 = Rensa data och starta en ny privat session?
+reset-pbm-panel-description2 = Detta tar bort historik, kakor och all annan webbplatsdata utan att stänga ditt privata fönster.
 reset-pbm-panel-heading = Vill du avsluta din privata session?
 reset-pbm-panel-description = Stäng alla privata flikar och ta bort historik, kakor och all annan webbplatsdata.
 reset-pbm-panel-always-ask-checkbox =
@@ -1457,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Avbryt
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Rensa privat session
+    .accesskey = R
 reset-pbm-panel-confirm-button =
     .label = Ta bort sessionsdata
     .accesskey = T
@@ -1703,7 +1707,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
     }
 trustpanel-cryptominer-tab-list-header = Dessa webbplatser försöker kryptominera:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
-trustpanel-breachalerts-anonymous-breached-header = Har du ett konto på denna sida?
+trustpanel-breachalerts-anonymous-breached-header = Har du ett konto på denna webbplats?
 trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } upptäckte att den här webbplatsen hade ett dataintrång under de senaste 12 månaderna. Ta reda på om du drabbades.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorera
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Starta gratis skanning
@@ -1717,5 +1721,5 @@ trustpanel-blocker-section-header2 =
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
 reduced-protection-infobar-message = <strong>Webbplatsen ser trasig ut?</strong> Ladda om sidan för att tillfälligt sänka ditt spårningsskydd.
-reduced-protection-infobar-reload-button = Uppdatera
-    .accesskey = U
+reduced-protection-infobar-reload-button = Ladda om
+    .accesskey = L
