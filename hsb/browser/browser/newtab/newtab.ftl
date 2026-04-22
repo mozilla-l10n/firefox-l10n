@@ -647,6 +647,7 @@ newtab-new-user-custom-wallpaper-cta = Spytajće nětko
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = Nowe pozadkowe wobrazy su runje dóšli
 newtab-wallpaper-feature-highlight-cta = Pozadkowy wobraz wubrać
 
 ## Strings for download mobile highlight

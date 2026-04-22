@@ -29,6 +29,10 @@ ipprotection-feature-introduction-link-text-2 = Verwenden Sie unser neues <a dat
 ipprotection-feature-introduction-title-privacy = Fügen Sie eine weitere Ebene für den Datenschutz hinzu
 ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen, auch wenn Sie sich in einem privaten Fenster befinden.
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? Probieren Sie das integrierte VPN von { -brand-product-name } aus.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus 5 Standorten wählen.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
 ipprotection-feature-introduction-button-primary = Weiter
 ipprotection-feature-introduction-button-secondary-not-now = Nicht jetzt
@@ -62,6 +66,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = VPN für diese Website verwenden
     .aria-label = VPN ist für diese Website deaktiviert
+site-exclusion-toggle-description = Funktioniert die Website nicht richtig? Versuchen Sie, VPN zu deaktivieren.
 ipprotection-settings-link =
     .label = Einstellungen
 
@@ -83,6 +88,10 @@ ipprotection-button-connecting = Wird aktiviert…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Standort: Empfohlen
+ipprotection-recommended-location-description = { -brand-product-name } findet den schnellsten Standort
 ipprotection-recommended-location-badge = NEU
 # Variables
 #   $country (string) - The country selected for the VPN server location
@@ -106,6 +115,9 @@ ipprotection-connection-status-paused-description = Sie haben die gesamten { $ma
 upgrade-vpn-title = Erhalten Sie zusätzlichen Schutz über den Browser hinaus
 upgrade-vpn-description = Wählen Sie Ihren VPN-Standort, verwenden Sie VPN für alle Ihre Apps und bis zu 5 Geräte und bleiben Sie sicher in jedem Netzwerk – zu Hause oder über öffentliches WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } ausprobieren
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Sie haben die gesamten { $maxUsage } GB Ihres VPN-Datenvolumens aufgebraucht. Das VPN-Datenvolumen wird nächsten Monat zurückgesetzt.
 
 ## Messages and errors
 
@@ -155,12 +167,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Sie haben fast k
 ip-protection-description =
     .label = VPN
     .description = Integriertes VPN zur Verbesserung Ihrer Privatsphäre beim Surfen auf { -brand-short-name }.
+ip-protection-description-1 =
+    .label = Integriertes VPN
+    .description = Sorgt für mehr Privatsphäre, indem Sie ihren Standort beim Surfen verbergen.
 ip-protection-learn-more = Weitere Informationen
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
     .message = Verbergen Sie Ihren Standort beim Surfen in { -brand-short-name }. Erhalten Sie jeden Monat { $maxUsage } GB kostenlose VPN-Daten.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
+    .message = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen. Erhalten Sie jeden Monat { $maxUsage } GB kostenloses VPN-Datenvolumen.
 ip-protection-not-opted-in-button = Erste Schritte
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -180,6 +200,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Holen Sie sich noch mehr Schutz außerhalb von { -brand-short-name } mit { -mozilla-vpn-brand-name }
     .description = Wählen Sie benutzerdefinierte VPN-Standorte und schützen Sie alle Ihre Apps auf bis zu fünf Geräten, egal ob Sie zu Hause oder in einem öffentlichen WLAN sind.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Verbessern Sie Ihren Schutz mit { -mozilla-vpn-brand-name }
+    .description = Wählen Sie aus über 300 Standorten und schützen Sie alle Ihre Apps auf bis zu 5 Geräten.
 
 ## IP Protection dialogs
 
@@ -232,6 +255,7 @@ vpn-paused-alert-title = VPN pausiert
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Sie haben die gesamten { $maxUsage } GB Ihres VPN-Datenvolumens aufgebraucht. Der VPN-Zugriff wird nächsten Monat zurückgesetzt.
+vpn-error-page-new-session = Starten Sie eine neue Sitzung
 vpn-paused-alert-close-tabs-button = Alle Tabs schließen
 vpn-paused-alert-continue-wo-vpn-button = Ohne VPN fortfahren
 vpn-error-alert-title = VPN funktioniert derzeit nicht.

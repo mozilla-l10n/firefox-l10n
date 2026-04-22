@@ -633,6 +633,10 @@ newtab-new-user-custom-wallpaper-title = Wählen Sie ein Hintergrundbild, um { -
 newtab-new-user-custom-wallpaper-subtitle = Fühlen Sie sich in jedem Tab wie zu Hause — mit benutzerdefinierten Hintergrundbildern und Farben.
 newtab-new-user-custom-wallpaper-cta = Jetzt ausprobieren
 
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-cta = Hintergrundbild auswählen
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = { -brand-product-name } für Mobilgeräte herunterladen
@@ -720,8 +724,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Eine neue Liste erstellen
 newtab-widget-lists-name-label-default =
     .label = Aufgabenliste
+newtab-widget-lists-name-label-checklist =
+    .label = Checkliste
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Aufgabenliste
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Checkliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Neue Liste
@@ -741,7 +749,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Widgets minimieren
     .aria-label = Alle Widgets auf kompakte Größe reduzieren
+newtab-widget-section-menu-button =
+    .title = Widgets-Menü
+    .aria-label = Widgets-Menü öffnen
+newtab-widget-section-menu-hide-all = Widgets ausblenden
+newtab-widget-section-menu-learn-more = Weitere Informationen
 newtab-widget-section-feedback = Sagen Sie uns Ihre Meinung
+newtab-widget-lists-name-default = Checkliste
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

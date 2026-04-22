@@ -101,6 +101,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Wubjerće druhe stejnišćo, z kotrehož přehladujeće.
 ipprotecion-locations-subview-recommended-label = Doporučeny
 ipprotection-locations-subview-recommended-description = Namaka najspěšniše stejnišćo
+ipprotection-locations-subview-promo =
+    .heading = Powyšće škit z { -mozilla-vpn-brand-name }
+    .message = Wubjerće z wjace hač 300 stejnišćow a škitajće wšě swoje nałoženja na do 5 gratach.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } wobstarać
 
 ## VPN paused state

@@ -1271,6 +1271,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Поделиться
     .tooltiptext = Поделиться этой страницей
+toolbar-button-tab-groups =
+    .label = Группы вкладок
+    .tooltiptext = Показать ваши группы вкладок
 
 ## EME notification panel
 
@@ -1454,6 +1457,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Завершить приватную сессию
     .tooltiptext = Завершить приватную сессию
+reset-pbm-panel-heading2 = Удалить данные и начать новый приватный сеанс?
+reset-pbm-panel-description2 = Это действие удалит историю, куки и все другие данные сайтов, не закрывая ваше приватное окно.
 reset-pbm-panel-heading = Завершить приватную сессию?
 reset-pbm-panel-description = Закрыть все приватные вкладки и удалить историю, куки и все другие данные сайтов.
 reset-pbm-panel-always-ask-checkbox =
@@ -1462,6 +1467,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Отменить
     .accesskey = м
+reset-pbm-panel-confirm-button2 =
+    .label = Удалить приватную сессию
+    .accesskey = Ш
 reset-pbm-panel-confirm-button =
     .label = Удалить данные сессии
     .accesskey = л
@@ -1731,6 +1739,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } разрешил { $count } криптомайнеров
     }
 trustpanel-cryptominer-tab-list-header = Следующие сайты пытаются заниматься криптомайнингом:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = У вас есть аккаунт на этом сайте?
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] На этом сайте заблокирован <span data-l10n-name="count">{ $count }</span> трекер
