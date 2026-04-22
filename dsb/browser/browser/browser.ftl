@@ -1769,6 +1769,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Toś te sedła kryptokopanje wopytuju:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Maśo konto na toś tom sedle?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } jo wótekšył, až toś to sedło jo měło datowu źěru za slědne 12 mjasecow. Wuslěźćo, lěc sćo pótrjefjony.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Zachyśiś
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Dermotny scan zachopiś
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> pśeslědowak jo se blokěrował na toś tom sedle
@@ -1776,3 +1779,10 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> pśeslědowaki su se blokěrowali na toś tom sedle
        *[other] <span data-l10n-name="count">{ $count }</span> pśeslědowakow jo se blokěrowało na toś tom sedle
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Wuglěda sedło wobškóźone?</strong> Zacytajśo bok znowego, aby swój šćit pśeśiwo pśeslědowanjeju nachylu reducěrował.
+reduced-protection-infobar-reload-button = Znowego zacytaś
+    .accesskey = Z

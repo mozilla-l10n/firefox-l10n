@@ -25,12 +25,20 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Pśedstajamy VPN, něnto direktnje we wašom wobglědowaku
 ipprotection-feature-introduction-link-text-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Dalšnu rowninu priwatnosći pśidaś
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga wašo pśeglědowanje šćitaś. Wubjeŕśo z 5 stojnišćow, źož cośo priwatnjej pśeglědowaś.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał, samo gaby wy w priwatnym woknje był.
 ipprotection-feature-introduction-description-private-browsing = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo gaby wy był w priwatnem woknje.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = W zjawnem WLAN? Wopytajśo zatwarjony VPN { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Wubjeŕśo z 5 stojnišćow, aby schował, źož pśeglědujośo, aby <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> dostał.
 ipprotection-feature-introduction-description-captive-portal = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo w zjawnem WLAN.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nic něnto
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, źěkujom se
+ipprotection-feature-introduction-button-secondary-remove = VPN ze symboloweje rědki wótwónoźeś
 
 ## Site settings callout
 
@@ -38,11 +46,19 @@ ipprotection-site-settings-callout-title = Wubjeŕśo, źož cośo VPN wužywaś
 ipprotection-site-settings-callout-subtitle = Znjemóžniśo VPN za wěste sedło a dopominamy se na to kuždy raz, gaž se woglědujośo.
 ipprotection-site-settings-callout-button = Som zrozměł
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nowy: Změńśo swójo stojnišćo
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> wam zmóžnja, z 5 stojnišćow pśeglědowanja wubraś abo se nejmalsnjej za was wubraś.
+ipprotection-location-selection-callout-primary-button = Wopytajśo jen
+ipprotection-location-selection-callout-secondary-button = Zachyśiś
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajśo swójo stojnišćo</a>, mjaztym až w { -brand-product-name } pśeglědujośo.
+unauthenticated-private-location-message = Pomaga w { -brand-product-name } <a data-l10n-name="learn-more-vpn">wašo stojnišćo priwatne źaržaś</a>.
 unauthenticated-hide-location-message-2 = Schowajśo swójo stojnišćo, mjaztym až z { -brand-product-name } pśeglědujośo.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
