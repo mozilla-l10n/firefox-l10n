@@ -55,6 +55,8 @@ fxviewtabrow-move-tab-window = Premakni v novo okno
     .accesskey = o
 fxviewtabrow-send-to-device = Pošlji na napravo
     .accesskey = n
+fxviewtabrow-send-to-mobile = Pošlji na mobilno napravo
+    .accesskey = n
 fxviewtabrow-send-tab = Pošlji zavihek na napravo
     .accesskey = P
 fxviewtabrow-pin-tab = Pripni zavihek
@@ -76,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Utišaj zavihek
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Povrni glasnost zavihka
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Za pošiljanje zavihka omogočite sinhronizacijo
+fxviewtabrow-send-to-mobile-connect-phone2 = Poveži telefon
+fxviewtabrow-send-to-mobile-device-missing2 = Ne vidite svoje naprave?
