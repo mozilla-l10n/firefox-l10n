@@ -2159,7 +2159,7 @@ collection-backlogged-crash-reports-description = To { -vendor-short-name } pomh
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = Samsne nastajenja, nowe zwonkowne!
-    .message = Smy tutu stronu znowa organizowali, zo by je lóšo, ju skenować a wuslědźić. Waš wosobinske nastajenja njejsu so změnili, a wšitko je hišće tu. Pokiw: Wužiwajće pytanje, zo byšće direktnje k tomu skočił, štož trjebaće.
+    .message = Smy tutu stronu znowa organizowali, zo by je lóšo, ju skenować a wuslědźić. Waše wosobinske nastajenja njejsu so změnili, a wšitko je hišće tu. Pokiw: Wužiwajće pytanje, zo byšće direktnje k tomu skočił, štož trjebaće.
 settings-redesign-promo-dismiss-button =
     .label = Sym zrozumił
 addon-recommendations =

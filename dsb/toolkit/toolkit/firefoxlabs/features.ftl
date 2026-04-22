@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Pśiměŕśo swój pśeglědowanje
 experimental-features-group-productivity =
     .label = Produktiwita
+experimental-features-group-newtab-widgets =
+    .label = Asistenty w { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Gronidła w bocnicy
@@ -64,15 +66,26 @@ experimental-features-fx-web-apps-description = Wócyńśo sedła, ku kótarymž
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Lisćiny w { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Lisćiny
 experimental-features-newtab-widget-lists-description = Wobchowajśo lisćinu swójich nadawkow we wócyma, gaž nowy rejtarik wócynjaśo. Wót zapakowańskich lisćinow do nakupowańskich lisćinow, cyńśo swóje plany w { -brand-product-name }. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Casowe měritko w { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Měritko casa
 experimental-features-newtab-widget-timer-description = Stajśo casowe měritko, aby koncentrěrowany wóstał, aby was tłusnuł, aby na droze wóstał abo zasej napołnił. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Lisćiny a casowe měritko w { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Wobchowajśo lisćinu swójich nadawkow we wócyma, gaž nowy rejtarik wócynjaśo. Wót zapakowańskich lisćinow do nakupowańskich lisćinow, cyńśo swóje plany w { -brand-product-name }. Nastajśo casowe měritko, aby koncentrěrowany wóstał, tłusniśo se, aby na droze wóstał abo dopomnjejśo se, aby swóje mócy zasej natankował. <a data-l10n-name="connect">Měnjenje k wěsći daś</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Wjedrowe pśedpowěźe
+experimental-features-newtab-widget-weather-description = Dostańśo jasny póglěd na źinsajšne wjedro z pśedpowěźami kuždu góźinu. <a data-l10n-name="connect">Měnjenje źěliś</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Wobraz dnja
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantiske pytanje historije

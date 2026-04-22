@@ -805,6 +805,15 @@ preferences-accessibility-header =
     .heading = Barrierefreiheit
 preferences-default-zoom-select =
     .aria-label = Standard-Zoom
+preferences-fonts-family =
+    .label = Standard-Schriftart
+    .accesskey = S
+preferences-fonts-size =
+    .label = Größe
+    .accesskey = G
+preferences-fonts-advanced-settings =
+    .label = Erweiterte Einstellungen
+    .accesskey = E
 
 ## General Section - Proxy
 

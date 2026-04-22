@@ -2156,6 +2156,12 @@ collection-backlogged-crash-reports2 =
     .label = Rozpšawy wowalenjow awtomatiski pósłaś
     .accesskey = z
 collection-backlogged-crash-reports-description = To { -vendor-short-name } pomaga problemy z wobglědowakom diagnosticěrowaś a rozwězaś. Rozpšawy mógu wósobinske abo sensibelne daty wopśimowaś.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Samske nastajenja, nowe wuglědanje!
+    .message = Smy toś ten bok znowego organizěrowali, aby jo lažčej, jen scannowaś a wuslěźiś. Waše wósobinske nastajenja njejsu se změnili, a wšykno jo hyšći how. Tip: Wužywajśo pytanje, aby direktnje k tomu skócył, což trjebaśo.
+settings-redesign-promo-dismiss-button =
+    .label = Som zrozměł
 addon-recommendations =
     .label = { -brand-short-name } dowóliś, personalizěrowane pśiraźenja za rozšyrjenja daś
 addon-recommendations-link = Dalšne informacije
@@ -2411,6 +2417,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Zapódajśo swójski URL póbitowarja
 preferences-doh-header2 =
     .heading = DNS pśez HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Zwisk a wěstota software
+preferences-connection-link-section =
+    .label = Zwisk a wěstota software
+    .description = Glědajśo, kak zwiski wěste wóstawaju, se software blokěrujo a se websedła pśeglěduju.
+preferences-connection-link-button =
+    .label = Rozšyrjone nastajenja
 
 ## The following strings are used in the Download section of settings
 

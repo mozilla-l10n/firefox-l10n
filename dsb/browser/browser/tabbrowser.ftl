@@ -298,6 +298,14 @@ tab-context-unnamed-group =
     .label = Kupka bźez mjenja
 tab-group-name-default = Kupka bźez mjenja
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Kupki rejtarikow
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -352,6 +360,17 @@ tab-group-editor-action-new-tab =
     .label = Nowy rejtarik w kupce
 tab-group-editor-action-new-window =
     .label = Kupku do nowego wokna pśesunuś
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Wótkaz w kupce kopěrowaś
+            [one] { $linkCount } wótkaz w kupce kopěrowaś
+            [two] { $linkCount } wótkaza w kupce kopěrowaś
+            [few] { $linkCount } wótkaze w kupce kopěrowaś
+           *[other] { $linkCount } wótkazow w kupce kopěrowaś
+        }
 tab-group-editor-action-save =
     .label = Kupku składowaś a zacyniś
 tab-group-editor-action-ungroup =
@@ -361,6 +380,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Dokóńcony
     .accessKey = D
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Kupku rejtarikow źěliś
 tab-context-reopen-tab-group =
     .label = Rejtarikowu kupku zasej wócyniś
 # Variables:
