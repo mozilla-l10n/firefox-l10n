@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI 제어
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = 접근성
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } 실험
 category-experimental =
     .tooltiptext = { -brand-short-name } 실험
@@ -739,6 +741,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = 자동 스크롤 사용
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = 키보드 탐색 및 스크롤
+motion-and-link-group =
+    .label = 동작 및 링크 스타일
 browsing-use-smooth-scrolling =
     .label = 부드러운 스크롤 사용
     .accesskey = m
@@ -780,6 +786,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 더 알아보기
 browsing-group =
     .label = 탐색
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = 접근성
+preferences-default-zoom-select =
+    .aria-label = 기본 확대/축소
+preferences-fonts-family =
+    .label = 글꼴 집합
+    .accesskey = D
+preferences-fonts-size =
+    .label = 글꼴 크기
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = 고급 설정
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1080,6 +1102,7 @@ search-edit-engine =
     .label = 편집
     .accesskey = E
 search-find-more-link = 검색 엔진 더 찾기
+search-filtering-for-add-engine = 엔진 추가
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 키워드 복사
@@ -2109,6 +2132,8 @@ collection-backlogged-crash-reports2 =
     .label = 자동으로 충돌 보고서 보내기
     .accesskey = c
 collection-backlogged-crash-reports-description = { -vendor-short-name }가 브라우저의 문제를 진단하고 해결하는 데 도움이 됩니다. 보고서에는 개인 정보나 민감한 정보가 포함되어 있을 수 있습니다.
+settings-redesign-promo-dismiss-button =
+    .label = 확인
 addon-recommendations =
     .label = { -brand-short-name }가 개인화된 확장 기능 추천을 할 수 있도록 허용
 addon-recommendations-link = 더 알아보기
@@ -2364,6 +2389,11 @@ preferences-doh-custom-provider-label =
     .aria-label = 사용자 지정 공급자 URL 입력
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = 연결 및 소프트웨어 보안
 
 ## The following strings are used in the Download section of settings
 

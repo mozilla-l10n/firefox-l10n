@@ -1587,7 +1587,7 @@ trustpanel-blocker-see-all = 모두 보기
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
-    .title = { $host }에 대한 추적 보호
+    .title = { $host }에 대한 추적 방지
 
 ## The urlbar trust icon & panel
 
@@ -1632,5 +1632,7 @@ trustpanel-blocker-section-header2 = 이 사이트에서 추적기 <span data-l1
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>사이트가 손상된 것 같나요?</strong> 추적 방지 기능을 일시적으로 낮추려면 페이지를 새로 고침하세요.
 reduced-protection-infobar-reload-button = 새로 고침
     .accesskey = R

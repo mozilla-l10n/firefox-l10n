@@ -161,7 +161,7 @@ spotlight-pin-secondary-button = 나중에
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = 새로운 { -brand-short-name }. 사생활을 더 보호합니다. 추적기가 더 적습니다. 타협이 없습니다.
-mr2022-background-update-toast-text = 가장 강력한 추적 방지 보호 기능으로 업그레이드된 최신 { -brand-short-name }를 지금 사용해 보세요.
+mr2022-background-update-toast-text = 가장 강력한 추적 방지 기능으로 업그레이드된 최신 { -brand-short-name }를 지금 사용해 보세요.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
