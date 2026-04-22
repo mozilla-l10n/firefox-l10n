@@ -38,6 +38,10 @@ ipprotection-site-settings-callout-title = Elige ubi tu usa le VPN
 ipprotection-site-settings-callout-subtitle = Disactiva le VPN pro un sito specific e nos lo memorara le proxime vice que tu lo visitara.
 ipprotection-site-settings-callout-button = OK
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Prova lo
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -74,6 +78,15 @@ ipprotection-button-turn-vpn-off-excluded-site = Disactivar VPN ubique
 ipprotection-button-turn-vpn-on = Activar le VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Activar…
+
+## Location controls
+
+ipprotection-recommended-location-badge = NOVA
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Position: { $country }
+ipprotection-locations-subview =
+    .title = Elige un position
 
 ## VPN paused state
 

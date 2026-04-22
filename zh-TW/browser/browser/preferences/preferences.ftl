@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI 控制
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = 輔助功能
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } 實驗
 category-experimental =
     .tooltiptext = { -brand-short-name } 實驗
@@ -780,6 +782,22 @@ browsing-cfr-recommendations-learn-more = 了解更多
 browsing-group =
     .label = 瀏覽
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = 輔助功能
+preferences-default-zoom-select =
+    .aria-label = 預設縮放比例
+preferences-fonts-family =
+    .label = 字體樣式
+    .accesskey = D
+preferences-fonts-size =
+    .label = 字體大小
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = 進階設定
+    .accesskey = A
+
 ## General Section - Proxy
 
 network-settings-title = 網路設定
@@ -1083,6 +1101,7 @@ search-edit-engine =
     .label = 編輯
     .accesskey = E
 search-find-more-link = 尋找更多搜尋引擎
+search-filtering-for-add-engine = 新增搜尋引擎
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 關鍵字重複
@@ -2112,6 +2131,8 @@ collection-backlogged-crash-reports2 =
     .label = 自動傳送錯誤報告
     .accesskey = c
 collection-backlogged-crash-reports-description = 此資料可幫助 { -vendor-short-name } 找出瀏覽器的問題並進行修正。報告內容可能會包含私人或敏感資料。
+settings-redesign-promo-dismiss-button =
+    .label = 知道了！
 addon-recommendations =
     .label = 允許 { -brand-short-name } 提供個人化的擴充套件推薦項目
 addon-recommendations-link = 了解更多
@@ -2367,6 +2388,16 @@ preferences-doh-custom-provider-label =
     .aria-label = 輸入自訂提供者網址
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = 連線與軟體安全性
+preferences-connection-link-section =
+    .label = 連線與軟體安全性
+    .description = 看看如何保持連線安全、封鎖有害軟體，以及如何驗證網站身分。
+preferences-connection-link-button =
+    .label = 進階設定
 
 ## The following strings are used in the Download section of settings
 

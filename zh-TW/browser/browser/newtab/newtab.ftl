@@ -585,8 +585,16 @@ newtab-topic-selection-button-pick-interests = 挑選您有興趣的項目
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = 追蹤
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = 關注 { $topic }
 newtab-section-following-button = 追蹤中
 newtab-section-unfollow-button = 取消追蹤
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = 關注中：取消關注 { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = 微調您的資訊來源
 newtab-section-follow-highlight-subtitle = 追蹤您有興趣的項目，看更多想看的內容。
@@ -628,6 +636,12 @@ newtab-custom-wallpaper-cta = 試試看
 newtab-new-user-custom-wallpaper-title = 挑選一套背景圖，讓 { -brand-product-name } 有您的風格
 newtab-new-user-custom-wallpaper-subtitle = 使用自訂背景圖與色彩，讓每個新分頁感覺都像在家一樣習慣。
 newtab-new-user-custom-wallpaper-cta = 立刻試試
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = 全新背景圖正式推出
+newtab-wallpaper-feature-highlight-subtitle = 選擇您的最愛項目，讓每個分頁都有像家一樣的感覺。
+newtab-wallpaper-feature-highlight-cta = 挑選背景圖
 
 ## Strings for download mobile highlight
 
@@ -716,8 +730,12 @@ newtab-widget-lists-dropdown-create =
     .label = + 新增清單
 newtab-widget-lists-name-label-default =
     .label = 任務清單
+newtab-widget-lists-name-label-checklist =
+    .label = 檢查清單
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 任務清單
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = 檢查清單
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = 新增清單
@@ -737,7 +755,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = 最小化小工具
     .aria-label = 將所有小工具摺疊成精簡大小
+newtab-widget-section-menu-button =
+    .title = 小工具選單
+    .aria-label = 開啟小工具選單
+newtab-widget-section-menu-hide-all = 隱藏小工具
+newtab-widget-section-menu-learn-more = 更多資訊
 newtab-widget-section-feedback = 告訴我們您的想法
+newtab-widget-lists-name-default = 檢查清單
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

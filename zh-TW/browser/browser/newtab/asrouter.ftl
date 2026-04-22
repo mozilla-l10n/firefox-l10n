@@ -440,3 +440,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = 設為預設瀏覽器
 set-default-menu-message-primary-button-variant = 設為主要瀏覽器
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 組轉寄信箱，我們招待
+relay-50-masks-announcement-subtitle = 現在起，您會獲得 50 組免費轉寄信箱（原本是 5 組）。為每個帳號使用獨立的轉寄信箱，保護您實際電子郵件地址的隱私。
+relay-50-masks-announcement-primary-button = 前往 { -relay-brand-name }
+    .accesskey = G
+relay-50-masks-announcement-secondary-button = 知道了！
+    .accesskey = D

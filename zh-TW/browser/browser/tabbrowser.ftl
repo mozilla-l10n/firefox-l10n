@@ -236,6 +236,14 @@ tab-context-unnamed-group =
     .label = 未命名群組
 tab-group-name-default = 未命名群組
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = 分頁群組
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -287,6 +295,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = 完成
     .accessKey = D
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = 分享分頁群組
 tab-context-reopen-tab-group =
     .label = 重新開啟分頁群組
 # Variables:

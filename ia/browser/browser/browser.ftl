@@ -1700,8 +1700,16 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitteva { $count } cryptominatores
     }
 trustpanel-cryptominer-tab-list-header = Iste sitos tenta cryptominar:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Ha tu un conto pro iste sito?
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Lancear scansion gratuite
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Traciator blocate in iste sito
        *[other] <span data-l10n-name="count">{ $count }</span> Traciatores blocate in iste sito
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Recargar
+    .accesskey = R
