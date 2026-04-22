@@ -2406,6 +2406,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Bezpečnosť pripojenia a aplikácie
+preferences-connection-link-section =
+    .label = Bezpečnosť pripojenia a aplikácie
+    .description = Pozrite sa, ako zostávajú pripojenia bezpečné, škodlivý softvér blokovaný a webové stránky overované.
 preferences-connection-link-button =
     .label = Rozšírené nastavenia
 

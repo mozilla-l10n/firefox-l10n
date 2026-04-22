@@ -493,10 +493,6 @@ newtab-weather-see-forecast =
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorované
-newtab-weather-menu-change-location = Zmeniť oblasť
-newtab-weather-change-location-search-input-placeholder =
-    .placeholder = Hľadať oblasť
-    .aria-label = Hľadať oblasť
 newtab-weather-menu-weather-display = Zobrazenie počasia
 newtab-weather-todays-forecast = Dnešná predpoveď
 newtab-weather-see-full-forecast = Zobraziť celú predpoveď
@@ -522,6 +518,9 @@ newtab-weather-opt-in-not-now =
     .label = Teraz nie
 newtab-weather-opt-in-yes =
     .label = Áno
+newtab-weather-opt-in-use-location =
+    .label = Použiť polohu
+newtab-weather-opt-in-choose-location = Vybrať lokalitu
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day

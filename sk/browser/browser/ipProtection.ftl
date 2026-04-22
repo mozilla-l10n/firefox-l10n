@@ -27,13 +27,13 @@ ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo va�
 ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Pridajte ďalšiu vrstvu súkromia
-ipprotection-feature-introduction-link-text-privacy = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z 5 umiestnení, aby ste si zachovali súkromie pri prehliadaní.
+ipprotection-feature-introduction-link-text-privacy = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z 5 lokalít, aby ste si zachovali súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi‑Fi sieť? Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }.
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z 5 umiestnení, kde sa chcete skryť pri prehliadaní webu.
+ipprotection-feature-introduction-link-text-captive-portal = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z 5 lokalít, kde sa chcete skryť pri prehliadaní webu.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
 ipprotection-feature-introduction-button-primary = Ďalej
 ipprotection-feature-introduction-button-secondary-not-now = Teraz nie
@@ -48,8 +48,8 @@ ipprotection-site-settings-callout-button = Rozumiem
 
 ## Location selection callout
 
-ipprotection-location-selection-callout-title = Nové: Zmeňte si umiestnenie
-ipprotection-location-selection-callout-description = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z 5 rôznych umiestnení pre prehliadanie, alebo vám vyberie to najrýchlejšie umiestnenie.
+ipprotection-location-selection-callout-title = Nové: Zmeňte svoju polohu
+ipprotection-location-selection-callout-description = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z 5 rôznych lokalít pre vaše prehliadanie. Alebo vám vyberieme pre vás tú najrýchlejšiu.
 ipprotection-location-selection-callout-primary-button = Vyskúšajte to
 ipprotection-location-selection-callout-secondary-button = Zavrieť
 
@@ -58,6 +58,8 @@ ipprotection-location-selection-callout-secondary-button = Zavrieť
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skrytie polohy</a> počas prehliadania vo { -brand-product-name(case: "loc") }.
+unauthenticated-private-location-message = Pri prehliadaní vo { -brand-product-name(case: "loc") } pomáha <a data-l10n-name="learn-more-vpn">udržiavať vašu polohu v súkromí</a>.
+unauthenticated-choose-location-message = Vyberte si z 5 lokalít alebo nechajte { -brand-product-name(case: "acc") } vybrať tú najrýchlejšiu.
 unauthenticated-hide-location-message-2 = Skryte svoju polohu počas prehliadania v { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -87,6 +89,23 @@ ipprotection-button-turn-vpn-off-excluded-site = Vypnúť VPN všade
 ipprotection-button-turn-vpn-on = Zapnúť VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Zapína sa…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Lokalita: odporúčaná
+ipprotection-recommended-location-description = { -brand-product-name } nájde najrýchlejšiu lokalitu
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Lokalita: { $country }
+ipprotection-locations-subview =
+    .title = Vybrať lokalitu
+ipprotection-locations-subview-description = Vyberte iné miesto na prehliadanie.
+ipprotection-locations-subview-recommended-description = Nájde najrýchlejšiu lokalitu
+ipprotection-locations-subview-promo =
+    .heading = Posuňte ochranu na vyššiu úroveň pomocou { -mozilla-vpn-brand-name }
+    .message = Vyberte si z viac ako 300 lokalít a chráňte všetky svoje aplikácie až na 5 zariadeniach.
 
 ## VPN paused state
 
@@ -128,7 +147,7 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pre túto str
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = Páči sa vám vstavaná VPN? Získajte ešte väčšiu ochranu aj mimo { -brand-product-name(case: "gen") } s { -mozilla-vpn-brand-name }.
-ipprotection-bandwidth-upgrade-text = Vyberte si umiestnenie VPN a pridajte ochranu pre všetky svoje aplikácie až na 5 zariadeniach, či už ste doma alebo na verejnej Wi‑Fi sieti.
+ipprotection-bandwidth-upgrade-text = Vyberte si lokalitu VPN a pridajte ochranu pre všetky svoje aplikácie až na 5 zariadeniach, či už ste doma alebo na verejnej Wi‑Fi sieti.
 
 ## IP Protection bandwidth warning infobar
 
@@ -147,12 +166,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Blížite sa k v
 ip-protection-description =
     .label = VPN
     .description = Vstavaná VPN na zvýšenie vášho súkromia počas prehliadania webu vo { -brand-short-name(case: "loc") }.
+ip-protection-description-1 =
+    .label = Vstavaná VPN
+    .description = Získajte viac súkromia skrytím svojej polohy počas prehliadania.
 ip-protection-learn-more = Ďalšie informácie
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
     .message = Skryte svoju polohu počas prehliadania vo { -brand-short-name(case: "loc") }. Získajte { $maxUsage } GB bezplatných VPN dát každý mesiac.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
+    .message = Prehliadajte web s extra ochranou skrytím svojej polohy. Získajte { $maxUsage } GB bezplatných VPN dát na každý mesiac.
 ip-protection-not-opted-in-button = Začíname
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -174,6 +201,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Získajte ešte väčšiu ochranu mimo { -brand-short-name(case: "gen") } s { -mozilla-vpn-brand-name }
     .description = Vyberte si vlastné umiestnenia VPN a pridajte ochranu všetkým svojim aplikáciám až na piatich zariadeniach, či už ste doma alebo na verejnej Wi‑Fi sieti.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Posuňte ochranu na vyššiu úroveň pomocou { -mozilla-vpn-brand-name }
+    .description = Vyberte si z viac ako 300 lokalít a chráňte všetky svoje aplikácie až na 5 zariadeniach.
 
 ## IP Protection dialogs
 

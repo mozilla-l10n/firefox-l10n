@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> bir hata gön
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> sunucusu bir hata mesajı gönderdi: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> web güvenlik standartlarının izin vermediği boş karakterler içeren bir üst bilgi gönderdi.
+fp-neterror-content-encoding-intro = Bakmaya çalıştığınız sayfada geçersiz veya desteklenmeyen bir sıkıştırma biçimi kullanıldığı için sayfa gösterilemiyor.
 fp-neterror-coop-coep-intro = Bu sayfanın güvenlik yapılandırması bir önceki sayfayla eşleşmediği için { -brand-short-name } bu sayfayı yüklemedi.
 fp-neterror-blocked-by-policy-intro = Kurumunuz bu sayfaya veya web sitesine erişimi engellemiş.
 fp-neterror-http-auth-disabled-intro = Birisi bu siteyi taklit ederek kullanıcı adınız, parolanız veya e-postanız gibi bilgileri çalmaya çalışabilir.

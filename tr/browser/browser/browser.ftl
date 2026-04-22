@@ -1265,6 +1265,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Paylaş
     .tooltiptext = Bu sayfayı paylaş
+toolbar-button-tab-groups =
+    .label = Sekme grupları
+    .tooltiptext = Sekme gruplarımı göster
 
 ## EME notification panel
 
@@ -1445,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Gizli oturumu sonlandır
     .tooltiptext = Gizli oturumu sonlandır
+reset-pbm-panel-heading2 = Veriler temizlenip yeni bir gizli oturum başlatılsın mı?
+reset-pbm-panel-description2 = Bu işlem, gizli pencerenizi kapatmadan geçmişi, çerezleri ve tüm site verilerini siler.
 reset-pbm-panel-heading = Gizli oturum sonlandırılsın mı?
 reset-pbm-panel-description = Tüm özel sekmeleri kapat ve geçmişi, çerezleri ve tüm site verilerini sil.
 reset-pbm-panel-always-ask-checkbox =
@@ -1453,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Vazgeç
     .accesskey = V
+reset-pbm-panel-confirm-button2 =
+    .label = Gizli oturumu temizle
+    .accesskey = z
 reset-pbm-panel-confirm-button =
     .label = Oturum verilerini sil
     .accesskey = O
@@ -1704,6 +1712,11 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } kripto madenciye izin verdi
     }
 trustpanel-cryptominer-tab-list-header = Bu siteler kripto madenciliği yapmaya çalışıyor:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Bu sitede hesabınız var mı?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } bu sitenin son 12 içinde veri ihlali yaşadığını tespit etti. Etkilenip etkilenmediğinizi öğrenin.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Kapat
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Ücretsiz taramayı başlat
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Bu sitede <span data-l10n-name="count">{ $count }</span> takip kodu engellendi

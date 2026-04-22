@@ -2148,6 +2148,10 @@ collection-backlogged-crash-reports2 =
     .label = Çökme raporlarını otomatik olarak gönder
     .accesskey = m
 collection-backlogged-crash-reports-description = Bu sayede { -vendor-short-name }, tarayıcıyla ilgili sorunları tanılayıp düzeltebilir. Raporlar kişisel veya hassas veriler içerebilir.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Aynı ayarlar, yeni görünüm!
+    .message = Bu sayfada gezinmeyi ve keşfetmeyi kolaylaştırmak için sayfayı yeniden düzenledik. Kişisel ayarlarınız değişmedi ve her şey hâlâ burada. İpucu: Aradığınız şeyi anında  bulmak için arama çubuğunu kullanabilirsiniz.
 settings-redesign-promo-dismiss-button =
     .label = Anladım
 addon-recommendations =
@@ -2405,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Özel sağlayıcının adresini girin
 preferences-doh-header2 =
     .heading = HTTPS üzerinden DNS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Bağlantı ve yazılım güvenliği
+preferences-connection-link-section =
+    .label = Bağlantı ve yazılım güvenliği
+    .description = Bağlantıların nasıl güvende kaldığını, zararlı yazılımların nasıl engellendiğini ve sitelerin nasıl doğrulandığını görün.
+preferences-connection-link-button =
+    .label = Gelişmiş ayarlar
 
 ## The following strings are used in the Download section of settings
 

@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Hodiny vášho zariadenia
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Vlastník servera { $hostname } ho nenastavil správne a nie je možné vytvoriť zabezpečené pripojenie.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Váš počítač si myslí, že je { DATETIME($now, dateStyle: "medium") }, čo bráni aplikácii { -brand-short-name } v bezpečnom pripojení. Ak chcete navštíviť stránku <strong>{ $hostname }</strong>, aktualizujte hodiny počítača v systémových nastaveniach na aktuálny dátum, čas a časové pásmo a potom obnovte stránku.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Aktualizujte hodiny počítača v systémových nastaveniach na aktuálny dátum, čas a časové pásmo. Váš počítač si myslí, že je { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

@@ -149,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Bunlar genellikle ses sentezleyici gibi bilgisayara takılan cihazlardır ama bilgisayarınıza yerleşik de olabilirler.
     
     Normalde web siteleri MIDI cihazlarınıza erişemez. Bu özelliğin yanlış kullanılması hasara neden olabilir veya güvenliğinizi tehlikeye atabilir.
+webext-site-perms-description-gated-perms-serial =
+    Bunlar mikrodenetleyici, 3B yazıcı gibi USB veya seri bağlantı noktası üzerinden bağlanan diğer cihazlardır.
+    
+    Sitenin hangi cihazlara erişebileceğini seçebilirsiniz.
+    
+    Normalde sitelerin seri cihazlara erişmesine izin verilmez. Yanlış kullanım hasara neden olabilir veya güvenliğinizi tehlikeye atabilir.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
