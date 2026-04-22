@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Personalisa tu navigation
 experimental-features-group-productivity =
     .label = Productivitate
+experimental-features-group-newtab-widgets =
+    .label = Widgets sur { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Contrasignos in le barra lateral
@@ -77,6 +79,10 @@ experimental-features-newtab-widget-timer-description = Regula un temporisator p
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas e temporisator sur { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Mantene tu agenda a tu maxime attention quando tu aperi un scheda nove. Ab le lista del pacchettos al lista del compras, face tu planos in { -brand-product-name }. Regula un temporisator pro mantener te concentrate, stimular te a remaner in pista, o rememorar te de recargar. <a data-l10n-name="connect">Comparti tu commentario</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Imagine del die
+experimental-features-newtab-widget-picture-of-the-day-description = Adde un parve meravilia quotidian a tu die. Recipe un nove imagine, apprende alco de interessante, e predefini un nove fundo in un snap.
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Horologios

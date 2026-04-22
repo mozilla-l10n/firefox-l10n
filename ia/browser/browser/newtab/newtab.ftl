@@ -730,8 +730,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Crear un nove lista
 newtab-widget-lists-name-label-default =
     .label = Agenda
+newtab-widget-lists-name-label-checklist =
+    .label = Lista de verification
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Agenda
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Lista de verification
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nove lista
@@ -751,7 +755,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimisar widgets
     .aria-label = Collaber tote le widgets a dimension compacte
+newtab-widget-section-menu-button =
+    .title = Menu de widgets
+    .aria-label = Aperir menu de widgets
+newtab-widget-section-menu-hide-all = Celar widgets
+newtab-widget-section-menu-learn-more = Pro saper plus
 newtab-widget-section-feedback = Conta nos lo que que tu pensa
+newtab-widget-lists-name-default = Lista de verification
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
