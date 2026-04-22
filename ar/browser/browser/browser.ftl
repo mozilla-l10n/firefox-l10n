@@ -1722,6 +1722,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = تحاول هذه المواقع تعدين العُملات الرقمية:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = ألديك حساب على هذا الموقع؟
+trustpanel-breachalerts-anonymous-breached-description = لقد وجد { -brand-product-name } أن هذا الموقع تعرض لاختراق بيانات خلال الـ 12 شهرًا الماضية. اكتشف ما إذا كنت قد تأثرت بذلك.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = أهمِل
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = ابدأ الفحص المجاني
 trustpanel-blocker-section-header2 =
     { $count ->
         [zero] حُظر <span data-l10n-name="count">{ $count }</span> متعقِّبات على هذا الموقع
@@ -1731,3 +1734,10 @@ trustpanel-blocker-section-header2 =
         [many] حُظر <span data-l10n-name="count">{ $count }</span> متعقِّبات على هذا الموقع
        *[other] حُظر <span data-l10n-name="count">{ $count }</span> متعقِّبات على هذا الموقع
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>يبدو الموقع معطوبًا؟</strong> أعِد تحميل الصفحة لتقليل مستوى حماية التتبع مؤقتًا.
+reduced-protection-infobar-reload-button = أعد التحميل
+    .accesskey = ع

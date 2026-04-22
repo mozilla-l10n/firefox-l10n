@@ -383,6 +383,8 @@ windows-10-eos-sync-toast-secondary-label = ذكّرني لاحقًا
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-challenger-pin-primary-button = ثبّت { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-2-title = احفظ كلمات السر والعلامات الخاصة بك بأمان لجهازك القادم.
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = يُسهّل النسخ الاحتياطي لـ { -brand-shorter-name } نقل بياناتك وإعدادات الخصوصية معك.
 windows-10-eos-sync-callout-privacy-info-button = طالِع ما المحجوب
 windows-10-eos-callout-addons-title = جرّب الإضافات: ترقيات بسيطة، تأثيرات كبيرة
 windows-10-eos-callout-addons-subtitle = اُخترت هذه الإضافات لمساعدتك على البقاء منتجًا ومحميًا وخاليًا من المشتتات.
@@ -421,3 +423,10 @@ set-default-menu-message-row-layout-title-variant = اجعل { -brand-short-name
 set-default-menu-message-row-layout-subtitle = تحصّل على السرعة والأمان والخصوصية في كل مرة تتصفح فيها.
 set-default-menu-message-primary-button = اجعله المبدئي
 set-default-menu-message-primary-button-variant = اضبطه ليكون المتصفّح الأساسي
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-primary-button = اذهب إلى { -relay-brand-name }
+    .accesskey = ه
+relay-50-masks-announcement-secondary-button = أهمل
+    .accesskey = م
