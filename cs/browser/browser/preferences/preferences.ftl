@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Vyhledávání
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Soukromí a zabezpečení
+pane-privacy-section =
+    .heading = Soukromí a zabezpečení
 pane-privacy-title = Soukromí a zabezpečení
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -869,7 +872,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Výkon
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Prohlížení
 browsing-group-label =
@@ -918,6 +921,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Zjistit více
 browsing-group =
     .label = Prohlížení
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2680,6 +2686,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Zadejte URL vlastního poskytovatele
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
