@@ -89,6 +89,17 @@ ipprotection-button-connecting = Emyandyhína…
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Tendaite: Ñe’ẽporãpyre
+ipprotection-recommended-location-description = { -brand-product-name } ojuhu ne rendaite pya’eve
+ipprotection-recommended-location-badge = PYAHU
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Tendaite: { $country }
+ipprotection-locations-subview =
+    .title = Eiporavo tendaite
+ipprotection-locations-subview-description = Eiporavo ambue tendaite eikundaha hag̃ua.
+ipprotecion-locations-subview-recommended-label = Jeroviaha
+ipprotection-locations-subview-recommended-description = Ejuhúta tendaite pya’eve
+ipprotection-locations-subview-promo-button = Ereko { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -99,6 +110,7 @@ ipprotection-connection-status-paused-description = Ojeporupaite { $maxUsage } G
 upgrade-vpn-title = Erekóta ñemo’ãve kundahára riregua
 upgrade-vpn-description = Eiporavo VPN rendaite, eiporu VPN opaite tembiporu’ípe ha 5 mba’e’oka peve, ha eime tekorosãme oimeraẽva ñandutípe — nde rógape térã Wi-Fi-pe.
 upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN opytáva
 
 ## Messages and errors
 

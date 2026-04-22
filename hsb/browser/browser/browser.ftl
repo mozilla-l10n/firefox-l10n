@@ -1280,6 +1280,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Dźělić
     .tooltiptext = Tutu stronu dźělić
+toolbar-button-tab-groups =
+    .label = Skupiny rajtarkow
+    .tooltiptext = Waše skupiny rajtarki pokazać
 
 ## EME notification panel
 
@@ -1472,6 +1475,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Přetorhnyć
     .accesskey = t
+reset-pbm-panel-confirm-button2 =
+    .label = Priwatne posedźenje zhašeć
+    .accesskey = h
 reset-pbm-panel-confirm-button =
     .label = Posedźenske daty zhašeć
     .accesskey = d
@@ -1759,6 +1765,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je { $count } kryptokoparjow dowolił
     }
 trustpanel-cryptominer-tab-list-header = Tute sydła kryptokopanje pospytuja:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Maće konto na tutym sydle?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Zaćisnyć
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> přesćěhowak je so na tutym sydle zablokował
@@ -1766,3 +1775,8 @@ trustpanel-blocker-section-header2 =
         [few] <span data-l10n-name="count">{ $count }</span> přesćěhowaki su so na tutym sydle zablokowali
        *[other] <span data-l10n-name="count">{ $count }</span> přesćěhowakow je so na tutym sydle zablokowało
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Znowa začitać
+    .accesskey = Z

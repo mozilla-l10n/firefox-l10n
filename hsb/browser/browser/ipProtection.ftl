@@ -25,12 +25,17 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Předstajamy VPN, nětko direktnje we wašim wobhladowaku
 ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Dalšu runinu priwatnosće přidać
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = W zjawnym WLAN? Wupruwujće zatwarjeny VPN { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo w zjawnym WLAN.
 ipprotection-feature-introduction-button-primary = Dale
 ipprotection-feature-introduction-button-secondary-not-now = Nic nětko
 ipprotection-feature-introduction-button-secondary-no-thanks = Ně, dźakuju so
+ipprotection-feature-introduction-button-secondary-remove = VPN ze symboloweje lajsty wotstronić
 
 ## Site settings callout
 
@@ -38,22 +43,30 @@ ipprotection-site-settings-callout-title = Wubjerće, hdźež chceće VPN wužiw
 ipprotection-site-settings-callout-subtitle = Znjemóžńće VPN za wěste sydło a dopominamy so na to kóždy raz, hdyž wopytujeće.
 ipprotection-site-settings-callout-button = Sym zrozumił
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Wupruwujće jón
+ipprotection-location-selection-callout-secondary-button = Zaćisnyć
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Wupruwujće zatwarjeny VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajće swoje stejnišćo</a>, mjeztym zo w { -brand-product-name } přehladujeće.
+unauthenticated-private-location-message = Pomha w { -brand-product-name } <a data-l10n-name="learn-more-vpn">waše stejnišćo priwatne dźeržeć</a>.
 unauthenticated-hide-location-message-2 = Schowajće swoje stejnišćo, mjeztym zo z { -brand-product-name } přehladujeće.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Dóstańće { $maxUsage } GB darmotnych datow VPN kóždy měsac.
 unauthenticated-get-started = Prěnje kroki
+unauthenticated-terms-of-service-privacy-notice = Hdyž pokročujeće, zwoliće do <a data-l10n-name="vpn-terms-of-service">wužiwanskich wuměnjenjow</a> a <a data-l10n-name="vpn-privacy-notice">zdźělenki priwatnosće</a>.
 site-exclusion-toggle-enabled-1 =
     .label = VPN za tute sydło wužiwać
     .aria-label = VPN je za tute sydło zmóžnjeny
 site-exclusion-toggle-disabled-1 =
     .label = VPN za tute sydło wužiwać
     .aria-label = VPN je za tute sydło znjemóžnjeny
+site-exclusion-toggle-description = Sydło njefunguje? Spytajće VPN znjemóžnić.
 ipprotection-settings-link =
     .label = Nastajenja
 
@@ -72,6 +85,19 @@ ipprotection-button-turn-vpn-off-excluded-site = VPN wšudźe znjemóžnić
 ipprotection-button-turn-vpn-on = VPN zmóžnić
 # Button while VPN is connecting
 ipprotection-button-connecting = Zmóžnja so…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Stejnišćo: Doporučeny
+ipprotection-recommended-location-description = { -brand-product-name } najspěšniše stejnišćo namaka
+ipprotection-recommended-location-badge = NOWY
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Stejnišćo: { $country }
+ipprotection-locations-subview =
+    .title = Stejnišćo wubrać
 
 ## VPN paused state
 
