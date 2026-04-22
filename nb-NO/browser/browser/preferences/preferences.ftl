@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Søk
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Personvern og sikkerhet
+pane-privacy-section =
+    .heading = Personvern og sikkerhet
 pane-privacy-title = Personvern og sikkerhet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Ytelse
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Nettlesing
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Les mer
 browsing-group =
     .label = Nettlesing
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Skriv inn en egendefinert leverandør-URL
 preferences-doh-header2 =
     .heading = DNS-over-HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
