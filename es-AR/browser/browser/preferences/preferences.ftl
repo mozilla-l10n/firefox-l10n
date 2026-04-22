@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Búsquedas
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privacidad y seguridad
+pane-privacy-section =
+    .heading = Privacidad y seguridad
 pane-privacy-title = Privacidad y seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Rendimiento
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navegar
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Conocer más
 browsing-group =
     .label = Navegar
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2371,6 +2377,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Ingresar una URL de proveedor personalizada
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
