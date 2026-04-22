@@ -37,6 +37,7 @@ policy-Containers = הגדרת מדיניות הקשורה למגירות לשו
 policy-DisableAccounts = השבתת שירותים מבוססי חשבון, כולל סנכרון.
 policy-DisabledCiphers = השבתת צפנים.
 policy-DefaultDownloadDirectory = הגדרת תיקיית ההורדות ברירת המחדל.
+policy-DefaultSerialGuardSetting = שליטה בשימוש של Serial API.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.
 policy-DisableBuiltinPDFViewer = השבתת PDF.js, מציג ה־PDF המובנה ב־{ -brand-short-name }.
 policy-DisableDefaultBrowserAgent = למנוע מסוכן הדפדפן ברירת המחדל מלבצע פעולות כלשהן. תקף ל־Windows בלבד; בסביבות אחרות אין את הסוכן הזה.
@@ -148,3 +149,5 @@ policy-VisualSearchEnabled = הפעלה או השבתה של חיפוש חזות
 policy-WebsiteFilter = חסימת ביקור באתרים. יש לעיין בתיעוד לקבלת פרטים נוספים על התבנית.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = לאפשר SSO עבור חשבונות Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = הפעלה או השבתה של התמיכה עבור XSLTProcessor JavaScript API ו־XSLT processing instruction.

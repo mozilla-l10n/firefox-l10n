@@ -268,3 +268,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = מערכת הסימניות וההיסטוריה לא מתפקדת מאחר שאחד הקבצים של { -brand-short-name } נמצא בשימוש על־ידי יישום אחר. בעיה זו נגרמת לעתים על־ידי תכניות אבטחה.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = שיתוף תיקייה
