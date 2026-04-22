@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Serĉi
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privateco kaj sekureco
+pane-privacy-section =
+    .heading = Privateco kaj sekureco
 pane-privacy-title = Privateco kaj sekureco
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Efikeco
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Retumo
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Pli da informo
 browsing-group =
     .label = Retumo
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2374,6 +2380,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Tajpu personecigitan URL de provizanto
 preferences-doh-header2 =
     .heading = DNS per HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
