@@ -53,6 +53,9 @@ webext-perms-sideload-cancel =
     .accesskey = C
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } se actualizó. Debes aprobar los nuevos permisos antes de que se instale la versión actualizada. Si eliges “Cancelar”, se mantendrá la versión actual de tu extensión.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Se actualizo { $extension }. Tienes que aprobar nuevos permisos antes de que la versión actualizada se instale. Seleccionar “Cancelar” mantendrá la versión actual. Este complemento tendrá permisos para:
 webext-perms-update-accept =
     .label = Actualizar
@@ -135,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } solicita l
 
 webext-site-perms-header-with-gated-perms-midi = Este complemento le da a { $hostname } acceso a tus dispositivos MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Este complemento le da a { $hostname } acceso a tus dispositivos MIDI (con soporte SysEx).
+webext-site-perms-header-with-gated-perms-serial = Este complemento le da a { $hostname } acceso a tus dispositivos serie.
 
 ##
 
@@ -145,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Por lo general, se trata de dispositivos como sintetizadores de audio, pero también pueden estar integrados en tu computadora.
     
     Normalmente, los sitios web no pueden acceder a dispositivos MIDI. El uso inadecuado podría causar daños o comprometer la seguridad.
+webext-site-perms-description-gated-perms-serial =
+    Se trata de dispositivos como microcontroladores, impresoras 3D y otros equipos que se conectan mediante puertos USB o serie.
+    
+    Podrás elegir a qué dispositivos puede acceder el sitio web.
+    
+    Normalmente, los sitios web no tienen permiso para acceder a dispositivos serie. Un uso inadecuado podría causar daños o comprometer la seguridad.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -159,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = ¿Agregar { $extension }? Esta ex
 
 webext-site-perms-midi = Acceder a dispositivos MIDI
 webext-site-perms-midi-sysex = Acceder a dispositivos MIDI con soporte para SysEx
+webext-site-perms-serial = Acceder a dispositivos serie
 
 ## Colorway theme migration
 
