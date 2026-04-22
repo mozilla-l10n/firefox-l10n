@@ -49,6 +49,9 @@ category-home =
 pane-search-title = Chirca
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Riservadesa e seguresa
+pane-privacy-section =
+    .heading = Riservadesa e seguresa
 pane-privacy-title = Riservadesa e seguresa
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -682,6 +685,9 @@ update-in-progress-ok-button = &Iscarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendimentu
@@ -704,7 +710,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Rendimentu
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navigatzione
 browsing-group-label =
@@ -753,6 +759,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Àteras informatziones
 browsing-group =
     .label = Navigatzione
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -812,6 +821,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -2037,6 +2049,9 @@ preferences-doh-manage-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = z
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Iscrivania
@@ -2072,3 +2087,9 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

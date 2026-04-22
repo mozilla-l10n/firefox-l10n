@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Bilaketa
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Pribatutasuna eta segurtasuna
+pane-privacy-section =
+    .heading = Pribatutasuna eta segurtasuna
 pane-privacy-title = Pribatutasuna eta segurtasuna
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Errendimendua
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Nabigatzea
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Argibide gehiago
 browsing-group =
     .label = Nabigatzea
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Idatzi hornitzailearen URL pertsonalizatua
 preferences-doh-header2 =
     .heading = HTTPS gaineko DNSa
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

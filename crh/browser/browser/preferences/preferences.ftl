@@ -17,6 +17,9 @@ category-home =
 pane-search-title = Qıdırma
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Hususiyat ve Emniyet
+pane-privacy-section =
+    .heading = Hususiyat ve Emniyet
 pane-privacy-title = Hususiyat ve Emniyet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -288,6 +291,9 @@ update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
     .accesskey = a
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = İcraat
@@ -310,7 +316,7 @@ performance-default-content-process-count =
 performance-group =
     .label = İcraat
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Kezinti
 browsing-use-autoscroll =
@@ -337,6 +343,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Daha Çoq Ögren
 browsing-group =
     .label = Kezinti
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -387,6 +396,12 @@ use-current-pages =
 choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -484,6 +499,9 @@ containers-add-button =
 containers-remove-button =
     .label = Çetleştir
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -518,6 +536,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } doğrulanmamış.
 sync-signedin-login-failure = Yañıdan { $email } esabına bağlanmaq içün lütfen içeri imzalanıñız
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -529,6 +552,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Giriş yap
     .accesskey = G
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -621,6 +650,12 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Keçmiş
@@ -705,6 +740,12 @@ sitedata-settings =
     .accesskey = V
 cookies-site-data-group =
     .label = Çörekler ve Sayt Verileri
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -833,6 +874,9 @@ collection-health-report-disabled = Bu yapılandırma için veri raporlama devre
 data-collection-studies-link =
     .label = { -brand-short-name } tetqiqlerini kör
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -865,8 +909,29 @@ certs-devices =
     .accesskey = C
 certs-devices-enable-fips = FIPS etkinleştir
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Masaüstü
 downloads-folder-name = Endirmeler
 choose-download-folder-title = Endirme Cilbentini Saylañız:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

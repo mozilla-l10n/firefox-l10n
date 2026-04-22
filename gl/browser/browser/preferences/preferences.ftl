@@ -49,6 +49,9 @@ category-home =
 pane-search-title = Buscar
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privacidade e seguranza
+pane-privacy-section =
+    .heading = Privacidade e seguranza
 pane-privacy-title = Privacidade e seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -556,6 +559,9 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rendemento
@@ -578,7 +584,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Rendemento
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navegación
 browsing-group-label =
@@ -624,6 +630,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Máis información
 browsing-group =
     .label = Navegación
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -676,6 +685,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -895,6 +910,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1726,8 +1746,23 @@ preferences-doh-manage-exceptions =
     .label = Xestionar as excepcións…
     .accesskey = X
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

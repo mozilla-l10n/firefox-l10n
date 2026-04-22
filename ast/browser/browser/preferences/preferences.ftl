@@ -36,6 +36,9 @@ category-home =
 pane-search-title = Busca
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privacidá y seguranza
+pane-privacy-section =
+    .heading = Privacidá y seguranza
 pane-privacy-title = Privacidá y seguranza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -371,6 +374,9 @@ update-in-progress-ok-button = &Escartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Siguir
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Rindimientu
@@ -393,7 +399,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Rindimientu
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Restolar
 browsing-use-autoscroll =
@@ -428,6 +434,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lleer más
 browsing-group =
     .label = Restolar
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -479,6 +488,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar un marcador…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -650,6 +665,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } ta ensin verificar.
 sync-signedin-login-failure = Anicia sesión pa volver conectate a { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -823,6 +843,9 @@ primary-password-os-auth-dialog-message-win = Pa crear una contraseña primaria,
 primary-password-os-auth-dialog-message-macosx = crear una contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Historial
@@ -912,6 +935,12 @@ sitedata-cookies-exceptions =
     .accesskey = X
 cookies-site-data-group =
     .label = Cookies y datos de los sitios
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1102,6 +1131,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Amosar los estudios de { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1145,8 +1177,26 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Nun activar el mou de namás HTTPS
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritoriu
 downloads-folder-name = Descargues
 choose-download-folder-title = Escoyeta d'una carpeta de descarga
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

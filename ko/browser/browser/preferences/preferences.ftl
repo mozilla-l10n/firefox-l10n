@@ -56,6 +56,9 @@ category-home =
 pane-search-title = 검색
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = 개인 정보 및 보안
+pane-privacy-section =
+    .heading = 개인 정보 및 보안
 pane-privacy-title = 개인 정보 및 보안
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -728,7 +731,7 @@ performance-default-content-process-count =
 performance-group =
     .label = 성능
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = 탐색
 browsing-group-label =
@@ -777,6 +780,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 더 알아보기
 browsing-group =
     .label = 탐색
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2361,6 +2367,9 @@ preferences-doh-custom-provider-label =
     .aria-label = 사용자 지정 공급자 URL 입력
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

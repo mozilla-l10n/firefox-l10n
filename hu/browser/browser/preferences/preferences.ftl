@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Keresés
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Adatvédelem és biztonság
+pane-privacy-section =
+    .heading = Adatvédelem és biztonság
 pane-privacy-title = Adatvédelem és biztonság
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Teljesítmény
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Böngészés
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = További tudnivalók
 browsing-group =
     .label = Böngészés
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Adjon meg egy egyéni szolgáltatói webcímet
 preferences-doh-header2 =
     .heading = HTTPS feletti DNS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

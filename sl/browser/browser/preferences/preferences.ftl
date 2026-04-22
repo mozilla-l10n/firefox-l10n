@@ -53,6 +53,9 @@ category-home =
 pane-search-title = Iskanje
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Zasebnost in varnost
+pane-privacy-section =
+    .heading = Zasebnost in varnost
 pane-privacy-title = Zasebnost in varnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -739,7 +742,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Učinkovitost
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Brskanje
 browsing-group-label =
@@ -788,6 +791,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Več o tem
 browsing-group =
     .label = Brskanje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2218,6 +2224,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-advanced-button =
     .label = Napredne nastavitve
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Namizje
@@ -2313,3 +2322,6 @@ preferences-etp-custom-cookies-enabled =
     .label = Piškotki
 preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
+
+## Warnings section
+

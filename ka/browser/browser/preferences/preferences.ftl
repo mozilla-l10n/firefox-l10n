@@ -56,6 +56,9 @@ category-home =
 pane-search-title = ძიება
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = პირადულობა და უსაფრთხოება
+pane-privacy-section =
+    .heading = პირადულობა და უსაფრთხოება
 pane-privacy-title = პირადულობა და უსაფრთხოება
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = წარმადობა
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = გვერდების მონახულება
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ვრცლად
 browsing-group =
     .label = გვერდების მონახულება
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = შეიყვანეთ სასურველი მომწოდებლის ბმული
 preferences-doh-header2 =
     .heading = DNS-მოთხოვნა HTTPS-ით
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

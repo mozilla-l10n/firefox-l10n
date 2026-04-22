@@ -29,6 +29,9 @@ category-home =
 pane-search-title = Cuardaigh
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Príobháideachas agus Slándáil
+pane-privacy-section =
+    .heading = Príobháideachas agus Slándáil
 pane-privacy-title = Príobháideachas agus Slándáil
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -51,6 +54,17 @@ should-restart-title = Atosaigh { -brand-short-name }
 should-restart-ok = Atosaigh { -brand-short-name } anois
 cancel-no-restart-button = Cealaigh
 restart-later = Atosaigh Ar Ball
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -279,6 +293,9 @@ update-application-use-service =
     .label = Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil
     .accesskey = b
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Feidhmíocht
@@ -301,7 +318,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Feidhmíocht
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Brabhsáil
 browsing-use-autoscroll =
@@ -323,6 +340,9 @@ browsing-cfr-recommendations-learn-more = Tuilleadh eolais
 browsing-group =
     .label = Brabhsáil
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Socruithe Líonra
@@ -330,6 +350,9 @@ network-proxy-connection-learn-more = Tuilleadh eolais
 network-proxy-connection-settings =
     .label = Socruithe…
     .accesskey = e
+
+## Home Section
+
 
 ## Home Section - Default Browser
 
@@ -360,6 +383,15 @@ use-current-pages =
 choose-bookmark =
     .label = Úsáid Leabharmharc…
     .accesskey = L
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
+
+## Home Section - Firefox Home Content Customization
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -432,6 +464,9 @@ containers-settings-button =
 containers-remove-button =
     .label = Bain
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -466,11 +501,19 @@ sync-manage-account2 =
 sync-signedin-unverified = Níl { $email } deimhnithe.
 sync-signedin-login-failure = Logáil isteach chun athcheangal { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-sign-in =
     .label = Logáil isteach
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -530,6 +573,9 @@ sync-verification-not-sent-body = Ní rabhthas ábalta an ríomhphost deimhnithe
 
 privacy-header = Príobháideachas
 
+## Privacy Section - Logins and Passwords
+
+
 ## Privacy Section - Passwords
 
 forms-exceptions =
@@ -545,6 +591,12 @@ forms-master-pw-change =
     .label = Athraigh an Príomhfhocal Faire…
     .accesskey = P
 forms-master-pw-fips-desc = Theip ar athrú an fhocail faire.
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -591,6 +643,12 @@ sitedata-header = Fianáin agus Sonraí Suímh
 sitedata-learn-more = Tuilleadh eolais
 cookies-site-data-group =
     .label = Fianáin agus Sonraí Suímh
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -641,6 +699,9 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Méarlorgairí
     .accesskey = M
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -697,6 +758,9 @@ addon-recommendations-link = Tuilleadh eolais
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -728,8 +792,29 @@ certs-devices =
     .accesskey = d
 certs-devices-enable-fips = Cumasaigh FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Deasc
 downloads-folder-name = Downloads
 choose-download-folder-title = Roghnaigh Fillteán Íoslódála:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

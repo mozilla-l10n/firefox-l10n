@@ -49,6 +49,9 @@ category-home =
 pane-search-title = Traži
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privatnost & sigurnost
+pane-privacy-section =
+    .heading = Privatnost & sigurnost
 pane-privacy-title = Privatnost & sigurnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -559,6 +562,9 @@ update-in-progress-ok-button = &Odbaci
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performanse
@@ -581,7 +587,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Performanse
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Surfanje
 browsing-group-label =
@@ -627,6 +633,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saznajte više
 browsing-group =
     .label = Surfanje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -679,6 +688,12 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -899,6 +914,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1729,8 +1749,23 @@ preferences-doh-manage-exceptions =
     .label = Upravljaj izuzecima…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite direktorij za preuzimanja:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

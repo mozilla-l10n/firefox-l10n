@@ -51,6 +51,9 @@ category-home =
 pane-search-title = Pretraga
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privatnost i sigurnost
+pane-privacy-section =
+    .heading = Privatnost i sigurnost
 pane-privacy-title = Privatnost i sigurnost
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -733,7 +736,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Performanca
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Pregledavanje
 browsing-group-label =
@@ -782,6 +785,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saznaj više
 browsing-group =
     .label = Pregledavanje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2366,6 +2372,9 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS preko HTTPS-a
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Radna površina
@@ -2481,3 +2490,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Sumnjivi prikupljači digitalnih otisaka
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Sumnjivi prikupljači digitalnih otisaka
+
+## Warnings section
+

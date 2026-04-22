@@ -15,6 +15,9 @@ category-home =
 pane-search-title = Mita
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Jaga Rahsia & Keuamanan
+pane-privacy-section =
+    .heading = Jaga Rahsia & Keuamanan
 pane-privacy-title = Jaga Rahsia & Keuamanan
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -260,6 +263,9 @@ update-application-use-service =
     .label = Ngui servis dilikôt keu pasang ata seubarô
     .accesskey = N
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Performen
@@ -282,7 +288,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Performen
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Peuhah Situs
 browsing-use-autoscroll =
@@ -302,6 +308,9 @@ browsing-search-on-start-typing =
     .accesskey = S
 browsing-group =
     .label = Peuhah Situs
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -351,6 +360,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ngui bookmark...
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -444,6 +459,9 @@ containers-add-button =
 containers-remove-button =
     .label = Sampoh
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -478,6 +496,11 @@ sync-manage-account2 =
 sync-signedin-unverified = Hana lom itanyöng
 sync-signedin-login-failure = Neu tulông tamöng bah meukonék lom { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -489,6 +512,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Tamong
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -574,6 +603,12 @@ forms-master-pw-change =
     .label = Tuka lageuëm rayeuk
     .accesskey = M
 
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Riwayat
@@ -647,6 +682,12 @@ sitedata-settings =
 cookies-site-data-group =
     .label = Cookies ngön  Data Situs
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Bar Alamat
@@ -665,6 +706,19 @@ addressbar-suggestions-settings = Gantoe geunalak keu saran meusén mita
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Meurunoe lôm
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -725,6 +779,9 @@ collection-health-report-disabled = Lapuran data meupeulèn keu build konfiguras
 data-collection-studies-link =
     .label = Kalön kajian { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -755,3 +812,27 @@ certs-view =
 certs-devices =
     .label = Peukakah Peuji'oh Mara Bahya
     .accesskey = P
+
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
+## The following strings are used in the Download section of settings
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

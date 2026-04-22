@@ -49,6 +49,9 @@ category-home =
 pane-search-title = Leita
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Friðhelgi og öryggi
+pane-privacy-section =
+    .heading = Friðhelgi og öryggi
 pane-privacy-title = Friðhelgi og öryggi
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -558,6 +561,9 @@ update-in-progress-ok-button = &Henda
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Afköst
@@ -580,7 +586,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Afköst
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Leit
 browsing-group-label =
@@ -626,6 +632,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Kanna nánar
 browsing-group =
     .label = Leit
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -678,6 +687,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -893,6 +908,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1763,8 +1783,23 @@ preferences-doh-manage-exceptions =
     .label = Sýsla með undantekningar
     .accesskey = k
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

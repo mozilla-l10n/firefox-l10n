@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Vyhľadávanie
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Súkromie a bezpečnosť
+pane-privacy-section =
+    .heading = Súkromie a bezpečnosť
 pane-privacy-title = Súkromie a bezpečnosť
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -743,7 +746,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Výkon
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Prehliadanie
 browsing-group-label =
@@ -792,6 +795,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Ďalšie informácie
 browsing-group =
     .label = Prehliadanie
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2378,6 +2384,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Zadajte URL adresu vlastného poskytovateľa
 preferences-doh-header2 =
     .heading = DNS cez HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

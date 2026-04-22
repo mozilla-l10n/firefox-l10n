@@ -49,6 +49,9 @@ category-home =
 pane-search-title = Пошук
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Приватність і безпека
+pane-privacy-section =
+    .heading = Приватність і безпека
 pane-privacy-title = Приватність і безпека
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -627,7 +630,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Продуктивність
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Перегляд сайтів
 browsing-group-label =
@@ -676,6 +679,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Докладніше
 browsing-group =
     .label = Перегляд сайтів
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1025,6 +1031,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1974,8 +1985,23 @@ preferences-doh-manage-exceptions =
     .label = Керувати винятками…
     .accesskey = н
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

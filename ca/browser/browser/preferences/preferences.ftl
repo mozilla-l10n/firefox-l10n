@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Cerca
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privadesa i seguretat
+pane-privacy-section =
+    .heading = Privadesa i seguretat
 pane-privacy-title = Privadesa i seguretat
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Rendiment
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navegació
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2279,6 +2285,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
@@ -2317,3 +2326,9 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Descarta
     .aria-label = Descarta
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

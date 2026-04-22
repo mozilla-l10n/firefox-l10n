@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Αναζήτηση
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Απόρρητο και ασφάλεια
+pane-privacy-section =
+    .heading = Απόρρητο και ασφάλεια
 pane-privacy-title = Απόρρητο και ασφάλεια
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Επιδόσεις
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Περιήγηση
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Μάθετε περισσότερα
 browsing-group =
     .label = Περιήγηση
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Εισαγάγετε ένα προσαρμοσμένο URL παρόχου
 preferences-doh-header2 =
     .heading = DNS μέσω HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

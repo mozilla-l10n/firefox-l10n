@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Pytać
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Priwatnosć a wěstota
+pane-privacy-section =
+    .heading = Priwatnosć a wěstota
 pane-privacy-title = Priwatnosć a wěstota
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -746,7 +749,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Wukon
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Přehladowanje
 browsing-group-label =
@@ -795,6 +798,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Dalše informacije
 browsing-group =
     .label = Přehladowanje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2385,6 +2391,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Zapodajće swójski URL poskićowarja
 preferences-doh-header2 =
     .heading = DNS přez HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

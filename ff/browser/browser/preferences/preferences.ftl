@@ -15,6 +15,9 @@ category-home =
 pane-search-title = Yiylo
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Suturo & Kisal
+pane-privacy-section =
+    .heading = Suturo & Kisal
 pane-privacy-title = Suturo & Kisal
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -305,6 +308,9 @@ update-in-progress-ok-button = &Woppu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jokku
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Jaawgol golle
@@ -327,7 +333,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Jaawgol golle
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Peeragol
 browsing-use-autoscroll =
@@ -355,6 +361,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Jokku taro
 browsing-group =
     .label = Peeragol
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -405,6 +414,12 @@ use-current-pages =
 choose-bookmark =
     .label = Huutoro Maantorol…
     .accesskey = M
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -507,6 +522,9 @@ containers-new-tab-check =
 containers-remove-button =
     .label = Momtu
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -547,6 +565,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ƴeewtaaka.
 sync-signedin-login-failure = Tiiɗno seŋo ngam naattude { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -558,6 +581,9 @@ sync-remove-account =
 sync-sign-in =
     .label = Seŋao
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
 
 ## The list of things currently syncing.
 
@@ -672,6 +698,9 @@ forms-master-pw-fips-desc = Baylugol Finnde Woorii
 
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Aslol
@@ -754,6 +783,12 @@ sitedata-settings =
 cookies-site-data-group =
     .label = Kuukiije kam e Keɓe Lowre
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Palal Ñiiɓirɗe
@@ -773,12 +808,19 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
 content-blocking-learn-more = Ɓeydu humpito
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
 ##
 
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-tracking-protection-change-block-list = Waylo doggol padde
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -839,6 +881,9 @@ collection-health-report-disabled = Ciimti keɓe ko daaƴaaɗi wonande kaa ngonk
 data-collection-studies-link =
     .label = Yiy jaŋdeeji { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -871,8 +916,29 @@ certs-devices =
     .accesskey = k
 certs-devices-enable-fips = Daaƴtu FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Biro
 downloads-folder-name = Gaawte
 choose-download-folder-title = Suɓo Runngere Gaawte:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

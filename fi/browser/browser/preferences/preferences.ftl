@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Haku
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Tietosuoja ja turvallisuus
+pane-privacy-section =
+    .heading = Tietosuoja ja turvallisuus
 pane-privacy-title = Tietosuoja ja turvallisuus
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Suorituskyky
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Selaus
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2378,6 +2384,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Anna mukautetun tarjoajan URL-osoite
 preferences-doh-header2 =
     .heading = DNS HTTPS:n kautta
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

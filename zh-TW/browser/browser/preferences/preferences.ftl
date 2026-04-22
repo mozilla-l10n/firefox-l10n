@@ -56,6 +56,9 @@ category-home =
 pane-search-title = 搜尋
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = 隱私權與安全性
+pane-privacy-section =
+    .heading = 隱私權與安全性
 pane-privacy-title = 隱私權與安全性
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -728,7 +731,7 @@ performance-default-content-process-count =
 performance-group =
     .label = 效能
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = 瀏覽
 browsing-group-label =
@@ -777,6 +780,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 了解更多
 browsing-group =
     .label = 瀏覽
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2365,6 +2371,9 @@ preferences-doh-custom-provider-label =
     .aria-label = 輸入自訂提供者網址
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

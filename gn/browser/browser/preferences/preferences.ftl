@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Heka
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Ñemigua ha Tekorosã
+pane-privacy-section =
+    .heading = Ñemigua ha Tekorosã
 pane-privacy-title = Ñemigua ha Tekorosã
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -739,7 +742,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Mba’eaporã
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Kundaha
 browsing-group-label =
@@ -788,6 +791,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Kuaave
 browsing-group =
     .label = Kundaha
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2374,6 +2380,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Emoinge URL me’ẽhára mboavapyréva
 preferences-doh-header2 =
     .heading = DNS HTTPS rehegua
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

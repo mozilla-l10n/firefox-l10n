@@ -23,6 +23,9 @@ category-home =
 pane-search-title = تلاش کریں
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = رازداری اور سلامتی
+pane-privacy-section =
+    .heading = رازداری اور سلامتی
 pane-privacy-title = رازداری اور سلامتی
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -51,6 +54,17 @@ should-restart-title = { -brand-short-name } دوبارہ شروع کریں
 should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع کریں
 cancel-no-restart-button = منسوخ کریں
 restart-later = بعد میں دوباره شروع کریں
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -311,6 +325,9 @@ update-in-progress-ok-button = &رد کريں
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &جاری رکھیں
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = کارکردگی
@@ -331,7 +348,7 @@ performance-default-content-process-count =
 performance-group =
     .label = کارکردگی
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = براؤزنگ
 browsing-use-autoscroll =
@@ -363,6 +380,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = مزید سیکھیں
 browsing-group =
     .label = براؤزنگ
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -412,6 +432,12 @@ use-current-pages =
 choose-bookmark =
     .label = بک مارک استعمال کریں…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -571,6 +597,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } توثیق شدہ نہیں ہے۔
 sync-signedin-login-failure = پھر جڑنے کے لیے سائن ان کریں { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -750,6 +781,9 @@ forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 primary-password-os-auth-dialog-message-macosx = ایک بنیادی پاس ورڈ بنائیں
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = سابقات
@@ -834,6 +868,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = کوکیز اور سائٹ کے کواِئف
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -988,6 +1028,9 @@ addon-recommendations-link = مزید سیکھیں
 data-collection-studies-link =
     .label = { -brand-short-name } کی مطالعات دیکھیں
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1026,8 +1069,26 @@ space-alert-over-5gb-settings-button =
 
 httpsonly-learn-more = اورجانیے
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
 choose-download-folder-title = ڈاؤن لوڈ پوشہ انتخاب کریں:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

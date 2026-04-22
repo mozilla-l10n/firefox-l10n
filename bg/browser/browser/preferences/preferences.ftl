@@ -49,6 +49,9 @@ category-home =
 pane-search-title = Търсене
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Поверителност и защита
+pane-privacy-section =
+    .heading = Поверителност и защита
 pane-privacy-title = Поверителност и защита
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -556,6 +559,9 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Производителност
@@ -578,7 +584,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Производителност
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Разглеждане
 browsing-use-autoscroll =
@@ -622,6 +628,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Научете повече
 browsing-group =
     .label = Разглеждане
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -674,6 +683,12 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -881,6 +896,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1704,6 +1724,9 @@ preferences-doh-manage-exceptions =
     .label = Управление на изключенията…
     .accesskey = и
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Плот
@@ -1755,3 +1778,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отказ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

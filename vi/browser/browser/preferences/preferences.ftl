@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Tìm kiếm
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Riêng tư & bảo mật
+pane-privacy-section =
+    .heading = Riêng tư & bảo mật
 pane-privacy-title = Riêng tư & bảo mật
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -728,7 +731,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Hiệu suất
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Duyệt
 browsing-group-label =
@@ -777,6 +780,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Tìm hiểu thêm
 browsing-group =
     .label = Duyệt
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2361,6 +2367,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Nhập URL nhà cung cấp tùy chỉnh
 preferences-doh-header2 =
     .heading = DNS qua HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

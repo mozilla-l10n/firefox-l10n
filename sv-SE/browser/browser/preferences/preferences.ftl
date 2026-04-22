@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Sök
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Sekretess & säkerhet
+pane-privacy-section =
+    .heading = Sekretess & säkerhet
 pane-privacy-title = Sekretess & säkerhet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Prestanda
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Webbläsning
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Läs mer
 browsing-group =
     .label = Webbläsning
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2377,6 +2383,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Ange en anpassad leverantörsadress
 preferences-doh-header2 =
     .heading = DNS över HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
