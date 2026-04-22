@@ -152,6 +152,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = חיבור לטלפון שלך
 tab-context-send-to-mobile-device-missing =
     .label = לא רואה את המכשיר שלך?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = יצירת קישור הניתן לשיתוף
+    .accesskey = י
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

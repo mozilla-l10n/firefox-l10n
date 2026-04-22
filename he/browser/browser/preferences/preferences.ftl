@@ -2147,6 +2147,12 @@ collection-backlogged-crash-reports2 =
     .label = שליחת דיווחי קריסה באופן אוטומטי
     .accesskey = ש
 collection-backlogged-crash-reports-description = זה מסייע ל־{ -vendor-short-name } לאבחן ולתקן בעיות בדפדפן. דיווחים עשויים לכלול נתונים אישיים או רגישים.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = אותן ההגדרות, מראה חדש!
+    .message = אירגנו מחדש את הדף הזה כדי שיהיה קל יותר לסרוק ולעיין בו. ההגדרות האישיות שלך לא השתנו, והכל עדיין כאן. טיפ: אפשר להשתמש בחיפוש כדי לקפוץ ישר למה שצריך.
+settings-redesign-promo-dismiss-button =
+    .label = הבנתי
 addon-recommendations =
     .label = לאפשר ל־{ -brand-short-name } להציע הרחבות מותאמות אישית
 addon-recommendations-link = מידע נוסף
@@ -2402,6 +2408,11 @@ preferences-doh-custom-provider-label =
     .aria-label = נא להכניס כתובת ספק מותאם אישית
 preferences-doh-header2 =
     .heading = ‏DNS על גבי HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = הגדרות מתקדמות
 
 ## The following strings are used in the Download section of settings
 

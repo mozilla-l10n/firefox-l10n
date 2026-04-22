@@ -23,6 +23,8 @@ experimental-features-group-customize-browsing =
     .label = התאמה אישית של הגלישה שלך
 experimental-features-group-productivity =
     .label = פרודקטיביות
+experimental-features-group-newtab-widgets =
+    .label = ווידג’טים ב־{ -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = ססמאות בסרגל הצד
@@ -60,15 +62,22 @@ experimental-features-fx-web-apps-description = פתיחת אתרים שבהם �
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = רשימות ב־{ -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = רשימות
 experimental-features-newtab-widget-lists-description = לזכור את רשימת המשימות שלך בעת פתיחת כל לשונית חדשה. מרשימת אריזה ועד רשימת קניות, ניתן לערוך את התוכניות שלך ב־{ -brand-product-name }. <a data-l10n-name="connect">שיתוף משוב</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = שעון עצר ב־{ -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = שעון עצר
 experimental-features-newtab-widget-timer-description = ניתן להגדיר שעון עצר שיעזור לך להישאר בריכוז, לדחוף אותך להישאר במסלול הנכון, או להזכיר לך להיטען מחדש. <a data-l10n-name="connect">שיתוף משוב</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = רשימות ושעון עצר ב־{ -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = לזכור את רשימת המשימות שלך בעת פתיחת כל לשונית חדשה. מרשימת אריזה ועד רשימת קניות, ניתן לערוך את התוכניות שלך ב־{ -brand-product-name }. ניתן להגדיר שעון עצר כדי להשאיר אותך במיקוד, לעודד אותך להישאר במסלול, או להזכיר לך להתרענן. <a data-l10n-name="connect">שיתוף משוב</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = תחזיות מזג אוויר
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = חיפוש היסטוריה סמנטי
