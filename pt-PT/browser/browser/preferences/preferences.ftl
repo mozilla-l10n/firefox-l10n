@@ -56,6 +56,9 @@ category-home =
 pane-search-title = Pesquisa
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title2 = Privacidade e Segurança
+pane-privacy-section =
+    .heading = Privacidade e Segurança
 pane-privacy-title = Privacidade e Segurança
 category-privacy =
     .tooltiptext = { pane-privacy-title }
@@ -740,7 +743,7 @@ performance-default-content-process-count =
 performance-group =
     .label = Desempenho
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Navegação
 browsing-group-label =
@@ -789,6 +792,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saber mais
 browsing-group =
     .label = Navegação
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -2375,6 +2381,9 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ambiente de trabalho
@@ -2517,3 +2526,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Identificadores digitais suspeitos
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Identificadores digitais suspeitos
+
+## Warnings section
+
