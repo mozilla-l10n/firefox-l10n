@@ -160,6 +160,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Подключите ваш телефон
 tab-context-send-to-mobile-device-missing =
     .label = Не видите ваше устройство?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Создать общую ссылку
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

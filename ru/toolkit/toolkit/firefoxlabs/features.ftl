@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Настройте свой просмотр
 experimental-features-group-productivity =
     .label = Продуктивность
+experimental-features-group-newtab-widgets =
+    .label = Виджеты на { -firefox-home-brand-name(case: "prepositional") }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Пароли на боковой панели
@@ -64,15 +66,26 @@ experimental-features-fx-web-apps-description = Открывайте сайты,
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Списки на { -firefox-home-brand-name(case: "prepositional") }
+experimental-features-newtab-widget-lists-new =
+    .label = Списки
 experimental-features-newtab-widget-lists-description = Всегда помните о своём списке дел, когда будете открывать новую вкладку. От упаковочных листов до списков покупок, составляйте свои планы в { -brand-product-name }. <a data-l10n-name="connect">Поделитесь отзывом</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Таймер на { -firefox-home-brand-name(case: "prepositional") }
+experimental-features-newtab-widget-timer-new =
+    .label = Таймер
 experimental-features-newtab-widget-timer-description = Установите таймер, чтобы не отвлекаться, подталкивайте себя, чтобы не сходит с пути, или напоминайте о необходимости подзарядиться. <a data-l10n-name="connect">Поделитесь отзывом</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Списки и таймер на { -firefox-home-brand-name(case: "prepositional") }
 experimental-features-newtab-widget-lists-and-timer-description = Держите список дел в фокусе внимания, когда открываете новую вкладку. От списков упаковки до списков покупок, составляйте свои планы в { -brand-product-name }. Установите таймер, чтобы не отвлекаться, подталкивайте себя, чтобы не сходить с пути, или напоминайте о необходимости подзарядиться. <a data-l10n-name="connect">Поделитесь отзывом</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Прогноз погоды
+experimental-features-newtab-widget-weather-description = Получите четкое представление о сегодняшней погоде с почасовым прогнозом. <a data-l10n-name="connect">Поделитесь отзывом</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Изображение дня
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Поиск по истории семантики

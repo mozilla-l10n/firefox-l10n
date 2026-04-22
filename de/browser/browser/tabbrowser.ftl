@@ -318,6 +318,15 @@ tab-group-editor-action-new-tab =
     .label = Neuer Tab in Gruppe
 tab-group-editor-action-new-window =
     .label = Gruppe in neues Fenster verschieben
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Link in Gruppe kopieren
+            [one] { $linkCount } Link in Gruppe kopieren
+           *[other] { $linkCount } Links in Gruppe kopieren
+        }
 tab-group-editor-action-save =
     .label = Gruppe speichern und schließen
 tab-group-editor-action-ungroup =
@@ -327,6 +336,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Fertig
     .accessKey = F
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Tab-Gruppe teilen
 tab-context-reopen-tab-group =
     .label = Tab-Gruppe wieder öffnen
 # Variables:

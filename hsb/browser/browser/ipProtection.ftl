@@ -27,10 +27,13 @@ ipprotection-feature-introduction-title = Předstajamy VPN, nětko direktnje we 
 ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dalšu runinu priwatnosće přidać
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z 5 stejnišćow, hdźež chceće priwatnišo přehladować.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = W zjawnym WLAN? Wupruwujće zatwarjeny VPN { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Wubjerće z 5 stejnišćow, zo byšće schował, hdźež přehladujeće, zo byšće <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> dóstał.
 ipprotection-feature-introduction-description-captive-portal = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo w zjawnym WLAN.
 ipprotection-feature-introduction-button-primary = Dale
 ipprotection-feature-introduction-button-secondary-not-now = Nic nětko
@@ -45,6 +48,7 @@ ipprotection-site-settings-callout-button = Sym zrozumił
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Nowy: Změńće swoje stejnišćo
 ipprotection-location-selection-callout-primary-button = Wupruwujće jón
 ipprotection-location-selection-callout-secondary-button = Zaćisnyć
 
@@ -177,6 +181,11 @@ ip-protection-learn-more = Dalše informacije
 ip-protection-not-opted-in-2 =
     .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
     .message = Schowajće swoje stejnišćo, mjeztym zo z { -brand-short-name } přehladujeće. Wobstarajće sej { $maxUsage } GB darmotnych datow VPN kóždy měsac.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
+    .message = Schowajće swoje stejnišćo, zo byšće z přidatnym škitom přehladował. Dóstańće { $maxUsage } GB darmotnych datow VPN kóždy měsac.
 ip-protection-not-opted-in-button = Prěnje kroki
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -198,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Wobstarajće sej samo wjace škita zwonka { -brand-short-name } z { -mozilla-vpn-brand-name }
     .description = wubjerće swójske stejnišća VPN a přidajće wšěm swojim nałoženjam na hač do pjeć gratow škit, wšojedne, hač sće doma abo w zjawnym WLAN.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Powyšće škit z { -mozilla-vpn-brand-name }
+    .description = Wubjerće z 300 stejnišćow a škitajće wšě swoje nałoženja na do 5 gratach.
 
 ## IP Protection dialogs
 

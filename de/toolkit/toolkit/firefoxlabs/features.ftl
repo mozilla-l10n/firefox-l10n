@@ -64,15 +64,30 @@ experimental-features-fx-web-apps-description = Öffnen Sie Websites, die Sie h�
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listen auf { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listen
 experimental-features-newtab-widget-lists-description = Behalten Sie Ihre Aufgabenliste im Auge, wenn Sie neue Tabs öffnen. Von Packlisten bis hin zu Einkaufslisten: Machen Sie ihre Pläne in { -brand-product-name }. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Timer bei { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Timer
 experimental-features-newtab-widget-timer-description = Stellen Sie einen Timer ein, damit Sie konzentriert bleiben, auf Kurs bleiben oder daran erinnert werden, neue Energie zu tanken.<a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listen und Timer auf { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Behalten Sie Ihre Aufgabenliste im Blick, wenn Sie einen neuen Tab öffnen. Von Packlisten bis hin zu Einkaufslisten, planen Sie alles in { -brand-product-name }. Stellen Sie einen Timer ein, um konzentriert zu bleiben, sich selbst anzuspornen oder sich daran zu erinnern, neue Energie zu tanken. <a data-l10n-name="connect">Feedback teilen</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Wettervorhersagen
+experimental-features-newtab-widget-weather-description = Verschaffen Sie sich mit stündlichen Vorhersagen einen Überblick über das heutige Wetter. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Bild des Tages
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Uhren
+experimental-features-newtab-widget-clocks-description = Fügen Sie bis zu vier Uhren mit benutzerdefinierten Namen hinzu, um die Zeit an Orten anzuzeigen, die für Sie wichtig sind. <a data-l10n-name="connect">Sagen Sie uns Ihre Meinung</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantische Chroniksuche

@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Управление ИИ
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Поддержка доступности
+    .title = { pane-accessibility-title }
 pane-experimental-title = Эксперименты { -brand-short-name }
 category-experimental =
     .tooltiptext = Эксперименты { -brand-short-name }
@@ -754,6 +756,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Использовать автоматическую прокрутку
     .accesskey = а
+keyboard-and-scrolling-group =
+    .label = Навигация и прокрутка с помощью клавиатуры
+motion-and-link-group =
+    .label = Стили движений и ссылок
 browsing-use-smooth-scrolling =
     .label = Использовать плавную прокрутку
     .accesskey = п
@@ -795,6 +801,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Подробнее
 browsing-group =
     .label = Просмотр сети
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Поддержка доступности
+preferences-default-zoom-select =
+    .aria-label = Масштаб по умолчанию
+preferences-fonts-family =
+    .label = Тип шрифта
+    .accesskey = В
+preferences-fonts-size =
+    .label = Размер шрифта
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Дополнительные настройки
+    .accesskey = Ф
 
 ## General Section - Proxy
 
@@ -1100,6 +1122,7 @@ search-edit-engine =
     .label = Изменить
     .accesskey = У
 search-find-more-link = Найти другие поисковые системы
+search-filtering-for-add-engine = Добавить поисковик
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Ключевое слово уже используется
@@ -2129,6 +2152,12 @@ collection-backlogged-crash-reports2 =
     .label = Автоматически отправлять сообщения о падениях
     .accesskey = с
 collection-backlogged-crash-reports-description = Это помогает { -vendor-short-name } диагностировать и устранять проблемы с браузером. Отчёты могут содержать личные или важные данные.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Те же настройки, новый вид!
+    .message = Мы перестроили эту страницу, чтобы её было проще сканировать и изучать. Ваши личные настройки не изменились, и всё по-прежнему здесь. Совет: используйте поиск, чтобы сразу перейти к тому, что вам нужно.
+settings-redesign-promo-dismiss-button =
+    .label = Понятно
 addon-recommendations =
     .label = Разрешить { -brand-short-name } давать персональные рекомендации расширений
 addon-recommendations-link = Подробнее
@@ -2384,6 +2413,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Введите URL своего провайдера
 preferences-doh-header2 =
     .heading = DNS через HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Безопасность подключения и ПО
+preferences-connection-link-section =
+    .label = Безопасность подключения и ПО
+    .description = Посмотрите, как обеспечивается безопасность подключений, блокируется вредоносное программное обеспечение и проверяются веб-сайты.
+preferences-connection-link-button =
+    .label = Дополнительные настройки
 
 ## The following strings are used in the Download section of settings
 

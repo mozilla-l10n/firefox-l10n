@@ -288,6 +288,14 @@ tab-context-unnamed-group =
     .label = Безымянная группа
 tab-group-name-default = Безымянная группа
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Группы вкладок
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -338,6 +346,16 @@ tab-group-editor-action-new-tab =
     .label = Новая вкладка в группе
 tab-group-editor-action-new-window =
     .label = Переместить группу в новое окно
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Копировать ссылку в группе
+            [one] Копировать { $linkCount } ссылку в группе
+            [few] Копировать { $linkCount } ссылки в группе
+           *[many] Копировать { $linkCount } ссылок в группе
+        }
 tab-group-editor-action-save =
     .label = Сохранить и закрыть группу
 tab-group-editor-action-ungroup =
@@ -347,6 +365,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Готово
     .accessKey = в
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Поделиться группой вкладок
 tab-context-reopen-tab-group =
     .label = Восстановить группу вкладок
 # Variables:
