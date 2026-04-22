@@ -86,6 +86,7 @@ experimental-features-newtab-widget-weather-description = Dóstańće jasny pohl
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Wobraz dnja
+experimental-features-newtab-widget-picture-of-the-day-description = Přidajće swojemu dnju mały wšědny dźiw. Dóstańće nowy wobraz, wukńće něšto zajimawe, a nastajće nowy pozadkowy wobraz za wokomik. <a data-l10n-name="connect">Měnjenje dźělić</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Časniki

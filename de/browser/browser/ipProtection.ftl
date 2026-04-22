@@ -119,6 +119,7 @@ ipprotection-connection-status-paused-description = Sie haben die gesamten { $ma
 upgrade-vpn-title = Erhalten Sie zusätzlichen Schutz über den Browser hinaus
 upgrade-vpn-description = Wählen Sie Ihren VPN-Standort, verwenden Sie VPN für alle Ihre Apps und bis zu 5 Geräte und bleiben Sie sicher in jedem Netzwerk – zu Hause oder über öffentliches WLAN.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } ausprobieren
+ipprotection-connection-status-paused-title-1 = VPN wurde gestoppt
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description-1 = Sie haben die gesamten { $maxUsage } GB Ihres VPN-Datenvolumens aufgebraucht. Das VPN-Datenvolumen wird nächsten Monat zurückgesetzt.
