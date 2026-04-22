@@ -90,6 +90,7 @@ experimental-features-newtab-widget-picture-of-the-day-description = Lägg till 
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Klockor
+experimental-features-newtab-widget-clocks-description = Lägg till upp till fyra klockor med anpassade smeknamn för att hålla koll på tiden på platser som är viktiga för dig. <a data-l10n-name="connect">Dela feedback</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historiksökning
