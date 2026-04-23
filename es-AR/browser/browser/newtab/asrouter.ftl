@@ -450,3 +450,5 @@ relay-50-masks-announcement-title = 50 máscaras de correo electrónico, gratis
 relay-50-masks-announcement-subtitle = Ahora hay 50 máscaras gratis (antes 5). Use una para cada cuenta para mantener privado el correo electrónico real.
 relay-50-masks-announcement-primary-button = Ir a { -relay-brand-name }
     .accesskey = I
+relay-50-masks-announcement-secondary-button = Descartar
+    .accesskey = D

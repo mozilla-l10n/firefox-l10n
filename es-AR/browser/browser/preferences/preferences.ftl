@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Controles de IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Accesibilidad
+    .title = { pane-accessibility-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Usar desplazamiento automático
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navegación y desplazamiento por teclado
+motion-and-link-group =
+    .label = Estilo de movimiento y enlaces
 browsing-use-smooth-scrolling =
     .label = Usar desplazamiento suave
     .accesskey = s
@@ -792,6 +798,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Conocer más
 browsing-group =
     .label = Navegar
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accesibilidad
+preferences-default-zoom-select =
+    .aria-label = Zoom predeterminado
+preferences-fonts-family =
+    .label = Familia tipográfica
+    .accesskey = F
+preferences-fonts-size =
+    .label = Tamaño de letra
+    .accesskey = m
+preferences-fonts-advanced-settings =
+    .label = Opciones avanzadas
+    .accesskey = a
 
 ## General Section - Proxy
 
@@ -1094,6 +1116,7 @@ search-edit-engine =
     .label = Editar
     .accesskey = E
 search-find-more-link = Agregar más buscadores
+search-filtering-for-add-engine = Agregar buscador
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palabra clave duplicada
@@ -2123,6 +2146,8 @@ collection-backlogged-crash-reports2 =
     .label = Enviar informes de fallos automáticamente
     .accesskey = c
 collection-backlogged-crash-reports-description = Esto ayuda a { -vendor-short-name } a diagnosticar y solucionar problemas con el navegador. Los informes pueden incluir datos personales o confidenciales.
+settings-redesign-promo-dismiss-button =
+    .label = Entendido
 addon-recommendations =
     .label = Permitir que { -brand-short-name } haga recomendaciones personalizadas de extensiones
 addon-recommendations-link = Conocer más
@@ -2374,6 +2399,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Ingresar una URL de proveedor personalizada
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Opciones avanzadas
 
 ## The following strings are used in the Download section of settings
 

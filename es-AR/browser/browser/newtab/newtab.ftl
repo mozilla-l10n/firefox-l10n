@@ -588,8 +588,16 @@ newtab-topic-selection-button-pick-interests = Elegí tus intereses
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Seguir
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Seguir { $topic }
 newtab-section-following-button = Siguiendo
 newtab-section-unfollow-button = Dejar de seguir
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Siguiendo: Dejar de seguir { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Ajuste su canal
 newtab-section-follow-highlight-subtitle = Siga sus intereses para ver más de lo que le guste.
@@ -631,6 +639,11 @@ newtab-custom-wallpaper-cta = Pruébelo
 newtab-new-user-custom-wallpaper-title = Elegí un fondo de pantalla para hacer { -brand-product-name } tuyo.
 newtab-new-user-custom-wallpaper-subtitle = Haga que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Probar ahora
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Nuevos fondos de pantalla recién llegados
+newtab-wallpaper-feature-highlight-cta = Elegir un fondo de pantalla
 
 ## Strings for download mobile highlight
 
@@ -740,6 +753,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizar widgets
     .aria-label = Colapsar todos los widget al tamaño compacto
+newtab-widget-section-menu-button =
+    .title = Menú de widgets
+    .aria-label = Abrir menú de widgets
+newtab-widget-section-menu-hide-all = Ocultar widgets
+newtab-widget-section-menu-learn-more = Conocer más
 newtab-widget-section-feedback = Díganos que piensa
 
 ## Strings for timer productivity widget
