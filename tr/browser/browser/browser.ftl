@@ -1714,7 +1714,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Bu siteler kripto madenciliği yapmaya çalışıyor:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Bu sitede hesabınız var mı?
-trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } bu sitenin son 12 içinde veri ihlali yaşadığını tespit etti. Etkilenip etkilenmediğinizi öğrenin.
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } bu sitenin son 12 ay içinde veri ihlali yaşadığını tespit etti. Etkilenip etkilenmediğinizi öğrenin.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Kapat
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Ücretsiz taramayı başlat
 trustpanel-blocker-section-header2 =
