@@ -1704,11 +1704,17 @@ sitedata-total-size3 = Spletne strani trenutno zasedajo <strong>{ $value } { $un
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Shranjeni piškotki, podatki strani in predpomnilnik trenutno zavzemajo { $value } { $unit } prostora na disku.
 sitedata-learn-more = Več o tem
+sitedata-delete-on-close2 =
+    .label = Izbriši piškotke in podatke strani vsakič, ko zaprete { -brand-short-name(sklon: "tozilnik") }
+    .accesskey = š
 sitedata-delete-on-close =
     .label = Izbriši piškotke in podatke strani, ko se { -brand-short-name } zapre
     .accesskey = z
 sitedata-delete-on-close-private-browsing3 =
     .message = V skladu z nastavitvami zgodovine { -brand-short-name } izbriše piškotke in podatke spletnih mest, ko zaprete brskalnik.
+sitedata-delete-on-close-private-browsing4 =
+    .heading = Zgodovina se ne bo shranjevala.
+    .message = Ko zaprete { -brand-short-name(sklon: "tozilnik") }, se piškotki in podatki seje izbrišejo.
 sitedata-delete-on-close-private-browsing = V načinu stalnega zasebnega brskanja bodo piškotki in podatki strani izbrisani ob vsakem zaprtju { -brand-short-name(sklon: "rodilnik") }.
 sitedata-delete-on-close-private-browsing2 = V skladu z nastavitvami zgodovine { -brand-short-name } izbriše piškotke in podatke spletnih mest, ko zaprete brskalnik.
 sitedata-allow-cookies-option =
@@ -1754,6 +1760,16 @@ sitedata-cookies-exceptions2 =
     .label = Upravljanje izjem
     .accesskey = z
     .description = Določite lahko, katera spletna mesta lahko vedno ali ne smejo nikoli shranjevati piškotkov in podatkov strani.
+sitedata-heading =
+    .label = Podatki brskanja
+    .description = Upravljajte s piškotki, zgodovino, predpomnilnikom, podatki strani in ostalimi podatki.
+sitedata-settings3 =
+    .label = Počisti podatke določenih spletnih mest
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .label = Upravljanje izjem
+    .accesskey = i
+    .description = Določite, kako naj se obravnavajo piškotki in podatki določenih spletnih mest.
 cookies-site-data-group =
     .label = Piškotki in podatki strani
 
@@ -2009,6 +2025,16 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Blokiraj pojavna okna in preusmeritve tretjih strani
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Upravljanje izjem
+    .description = Določite, katerim spletnim mestom je dovoljeno odpirati pojavna okna in preusmeritve tretjih strani.
+    .accesskey = e
+    .searchkeywords = popup
+permissions-addon-install-warning3 =
+    .label = Prikaži opozorilo, ko spletno mesto poskuša namestiti razširitev
+    .accesskey = ž
 permissions-addon-exceptions2 =
     .label = Izberite, katera spletna mesta smejo nameščati razširitve
     .accesskey = e
@@ -2044,6 +2070,9 @@ permissions-speaker2 =
     .label = Zvočnik
 permissions-notification2 =
     .label = Obvestila
+permissions-header3 =
+    .label = Dovoljenja
+    .description = Določite, do česa imajo spletna mesta dostop, kaj lahko nadzirajo ali sprožijo.
 
 ## Privacy Section - Data Collection
 
@@ -2058,6 +2087,8 @@ collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo t
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report-telemetry-disabled = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.
 collection-health-report-telemetry-disabled-link = Več o tem
+backup-multi-profile-warning-message =
+    .message = Da zagotovite, da bo ta sprememba vključena v varnostne kopije, odprite vsak profil in v nastavitvah izberite "Varnostno kopiraj zdaj".
 addon-recommendations3 =
     .label = Dovoli osebno prilagojena priporočila razširitev
     .description = Prejemajte priporočila za razširitve, ki bi vam izboljšale izkušnjo brskanja.
@@ -2090,6 +2121,8 @@ collection-backlogged-crash-reports2 =
     .label = Samodejno pošiljaj poročila o sesutjih
     .accesskey = č
 collection-backlogged-crash-reports-description = To { -vendor-short-name(sklon: "dajalnik") } omogoča ugotoviti vzroke težav z brskalnikom in jih odpraviti. Poročila lahko vključujejo osebne ali občutljive podatke.
+settings-redesign-promo-dismiss-button =
+    .label = Razumem
 addon-recommendations =
     .label = { -brand-short-name(sklon: "dajalnik") } dovoli prilagojena priporočila o razširitvah
 addon-recommendations-link = Več o tem
@@ -2119,8 +2152,19 @@ data-collection-health-report =
     .label = Pošiljaj { -vendor-short-name(sklon: "dajalnik") } tehnične in interakcijske podatke
     .accesskey = r
     .description = To nam pomaga izboljšati lastnosti, zmogljivost in zanesljivost { -brand-product-name(sklon: "rodilnik") }.
+data-collection-health-report-disabled =
+    .label = Pošiljaj { -vendor-short-name(sklon: "dajalnik") } tehnične in interakcijske podatke
+    .accesskey = r
+    .description = Pošiljanje podatkov je za to nastavitev graditve onemogočeno.
+data-collection-run-studies =
+    .label = { -brand-short-name(sklon: "dajalnik") } dovoli izvajanje raziskav novih možnosti
+    .description = { -brand-short-name } naključno izbira uporabnike za preizkušanje novosti, kar pomaga izboljšati kakovost za vse.
 data-collection-studies-link =
     .label = Prikaži raziskave { -brand-short-name(sklon: "rodilnik") }
+data-collection-backlogged-crash-reports =
+    .label = Samodejno pošiljaj poročila o sesutjih
+    .description = Poročila { -vendor-short-name(sklon: "dajalnik") } pomagajo ugotoviti vzroke težav z brskalnikom in jih odpraviti. Poročila lahko vključujejo osebne ali občutljive podatke
+    .accesskey = č
 data-collection-usage-ping =
     .label = Pošlji { -vendor-short-name(sklon: "dajalnik") } ping za dnevno uporabo
     .description = To { -vendor-short-name(sklon: "dajalnik") } pomaga oceniti število aktivnih uporabnikov.
@@ -2263,8 +2307,50 @@ preferences-doh-exceptions-description = Na naslednjih spletnih mestih { -brand-
 preferences-doh-manage-exceptions =
     .label = Upravljanje izjem ...
     .accesskey = z
+preferences-doh-overview-default =
+    .label = Privzeta zaščita
+    .description = Uporabljaj zavarovan DNS v regijah, kjer je na voljo.
+preferences-doh-overview-custom =
+    .label = Po meri
+    .description = Vedno uporabljaj zavarovan DNS, nastavi ponudnika in delovanje ob njegovi nedostopnosti.
+preferences-doh-overview-off =
+    .label = Izklop
+    .description = Uporabljaj privzeti razreševalnik DNS.
 preferences-doh-advanced-button =
     .label = Napredne nastavitve
+preferences-doh-manage-exceptions2 =
+    .label = Upravljanje izjem
+    .accesskey = z
+preferences-doh-radio-default =
+    .label = Privzeta
+    .description = Uporabljaj zavarovan DNS v regijah, kjer je na voljo
+preferences-doh-radio-custom =
+    .label = Po meri
+    .description = Vedno uporabljaj zavarovan DNS, nastavi ponudnika in delovanje ob njegovi nedostopnosti
+preferences-doh-radio-off =
+    .label = Izklop
+    .description = Uporabljaj privzeti razreševalnik DNS
+preferences-doh-status-item-off =
+    .message = DNS prek HTTPS je izklopljen
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS prek HTTPS ne deluje, ker smo prejeli neveljaven URL ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = DNS prek HTTPS uporablja ponudnika { $name }
+preferences-doh-select-resolver-label =
+    .label = Izberite ponudnika:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Za razreševanje DNS prek HTTPS uporabi tega ponudnika
+preferences-doh-custom-provider-label =
+    .aria-label = Vnesite URL ponudnika po meri
+preferences-doh-header2 =
+    .heading = DNS prek HTTPS
 
 ## The following strings are used in the Download section of settings
 
@@ -2337,12 +2423,19 @@ security-privacy-status-ok-header = { -brand-short-name } je na straži
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = { -brand-short-name } priporoča nekaj varnostnih izboljšav
 security-privacy-status-ok-label = Izboljšana zaščita pred sledenjem je vključena
+security-privacy-status-problem-label = Našli smo nastavitve, ki vplivajo na vašo zaščito
+security-privacy-status-problem-helper-label = Prikaži težave
 security-privacy-status-up-to-date-label = Imate najnovejšo in najvarnejšo različico { -brand-short-name(sklon: "rodilnik") }.
 security-privacy-status-update-needed-label = Na voljo je nova različica { -brand-short-name(sklon: "rodilnik") }.
 security-privacy-status-update-error-label = { -brand-short-name } ima težave pri posodabljanju
 security-privacy-status-update-checking-label = { -brand-short-name } preverja, ali so na voljo posodobitve
+security-privacy-status-update-needed-description = Posodobite na najnovejšo različico in prejmite izboljšave hitrosti, zanesljivosti in varnosti.
 security-privacy-status-update-button-label =
     .label = Posodobi { -brand-short-name(sklon: "tozilnik") }
+security-privacy-image-warning =
+    .alt = Ščit s klicajem, ki opozarja na varnostne težave
+security-privacy-image-ok =
+    .alt = Ščit s kljukico, ki sporoča, da ni nerešenih varnostnih težav
 security-privacy-issue-card =
     .heading = Varnostna opozorila
 issue-card-reset-button =
@@ -2357,7 +2450,27 @@ preferences-etp-reload-tabs-hint =
     .message = Za uveljavitev sprememb ponovno naložite zavihke.
 preferences-etp-reload-tabs-hint-button =
     .label = Znova naloži vse zavihke
+preferences-etp-manage-exceptions-button =
+    .label = Upravljanje izjem
+    .description = Določite, na katerih spletnih mestih naj bo izboljšana zaščita pred sledenjem izključena.
+preferences-etp-customize-header =
+    .heading = Prilagodi zaščito pred sledenjem
+preferences-etp-reset =
+    .label = Ponastavi prilagoditve
+    .description = Obnovi prednastavljeno raven zaščite.
+preferences-etp-reset-standard-button =
+    .label = Ponastavi na standardno
+preferences-etp-reset-strict-button =
+    .label = Ponastavi na strogo
 preferences-etp-custom-cookies-enabled =
     .label = Piškotki
 preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Dovoli vse piškotke
+
+## Warnings section
+
+security-privacy-issue-warning-extension-install =
+    .label = Spletna mesta lahko nameščajo razširitve
+    .description = Spletna mesta lahko brez vprašanja namestijo razširitve v { -brand-short-name(sklon: "tozilnik") }.

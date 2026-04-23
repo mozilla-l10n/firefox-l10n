@@ -146,6 +146,10 @@ fp-certerror-invalid-cert-why-dangerous = Spletnega mesta { $hostname } lastnik 
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $now (Date) - The current datetime, to be formatted as a date
 fp-certerror-clock-skew-intro = Vaš računalnik misli, da smo { DATETIME($now, dateStyle: "medium") }, kar { -brand-short-name(sklon: "dajalnik") } preprečuje varno povezavo. Da boste lahko obiskali <strong>{ $hostname }</strong>, v nastavitvah sistema nastavite uro računalnika na trenutni datum in čas ter časovni pas, nato osvežite stran.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Popravite uro računalnika v nastavitvah sistema na trenutni datum, uro in časovni pas. Računalnik misli, da smo { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } se
 
 neterror-file-not-found-filename = Preverite, ali so bile velike in male črke v imenu datoteke pravilno uporabljene in da ni drugih tipkarskih napak.
 neterror-file-not-found-moved = Preverite, ali je bila datoteka premaknjena, preimenovana ali izbrisana.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } ne najde datoteke na <strong>{ $path }</strong>. Datoteka ne obstaja ali pa je pot nepravilna.
+neterror-file-not-found-what-can-you-do = Če ste naslov vnesli ročno, preverite, ali ste se zatipkali pri imenu ali poti datoteke in ali so pravilno rabljene velike in male črke. Če ste sledili shranjenemu zaznamku ali povezavi, je bila datoteka morda vmes premaknjena, preimenovana ali izbrisana. Poskusite jo najti z upraviteljem datotek ali z nedavnim iskanjem.
 neterror-access-denied = Morda je bila odstranjena, premaknjena ali pa dovoljenja datoteke preprečujejo dostop.
 neterror-unknown-protocol = Za odpiranje tega naslova boste morda morali namestiti dodaten program.
 neterror-redirect-loop = Težavo lahko povzroča onemogočanje ali zavračanje piškotkov.
@@ -186,9 +190,15 @@ fp-neterror-illustration-alt =
 
 fp-neterror-connection-intro = { -brand-short-name } ne more vzpostaviti varne povezave s strežnikom na { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se ne more povezati s strežnikom na <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Časovna omejitev za vzpostavitev povezave s strežnikom <strong>{ $hostname }</strong> je potekla.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> je vrnil napako.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Strežnik na <strong>{ $hostname }</strong> je vrnil napako: { $responsestatus } { $responsestatustext }
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> je vrnila glavo s praznimi znaki, česar standardi spletne varnosti ne dovoljujejo.

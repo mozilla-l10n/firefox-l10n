@@ -233,3 +233,53 @@ bar-tooltip-cryptominer =
             [few] { $count } kriptorudarji ({ $percentage } %)
            *[other] { $count } kriptorudarjev ({ $percentage } %)
         }
+# Privacy Metrics Card
+privacy-metrics-title = Zaščite zasebnosti
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blokiran ta teden
+        [two] { $count } blokirana ta teden
+        [few] { $count } blokirani ta teden
+       *[other] { $count } blokiranih ta teden
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } sledilec
+        [two] { $count } sledilca
+        [few] { $count } sledilci
+       *[other] { $count } sledilcev
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } sledilec prstnih odtisov
+        [two] { $count } sledilca prstnih odtisov
+        [few] { $count } sledilci prstnih odtisov
+       *[other] { $count } sledilcev prstnih odtisov
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } sledilni piškotek
+        [two] { $count } sledilna piškotka
+        [few] { $count } sledilni piškotki
+       *[other] { $count } sledilnih piškotov
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } sledilec družbenega omrežja
+        [two] { $count } sledilca družbenih omrežij
+        [few] { $count } sledilci družbenih omrežij
+       *[other] { $count } sledilcev družbenih omrežij
+    }
+privacy-metrics-empty = Ta teden ni bil blokiran noben sledilec. { -brand-short-name } vas med brskanjem ščiti pred naslednjimi grožnjami.
+privacy-metrics-loading = Nalaganje statistike zaščite …
+privacy-metrics-error = Statistike zaščite ni mogoče naložiti.

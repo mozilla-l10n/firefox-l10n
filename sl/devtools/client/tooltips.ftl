@@ -88,6 +88,8 @@ inactive-css-not-multicol-container-fix = Poskusite dodati bodisi <strong>column
 inactive-css-column-span-fix = Poskusite enemu od nadrejenih elementov dodati <strong>column-count</strong> ali <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix = Poskusite elementu dodati <strong>position:absolute</strong> ali starševskemu elementu dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ali <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-or-absolutely-positioned-item-fix = Poskusite elementu dodati <strong>position:absolute</strong> ali starševskemu elementu dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-absolutely-positioned-item-fix = Poskusite elementu dodati <strong>position:absolute</strong>. { learn-more }
+inactive-css-no-default-anchor-fix = Poskusite dodati <strong>position-anchor</strong> z veljavnim imenom sidra. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Poskusite starševskemu elementu dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ali <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Nadrejenemu elementu poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-container-fix = Poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
@@ -117,6 +119,7 @@ inactive-css-resize-fix = Poskusite nastaviti <strong>overflow</strong> na kaj d
 inactive-css-ruby-element-fix = Poskusite spremeniti lastnost <strong>font-size</strong> besedila ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Poskusite zmanjšati število vrstic. { learn-more }
 inactive-css-text-wrap-balance-fragmented-fix = Preprečite delitev vsebine elementa, tako da na primer odstranite stolpce ali uporabite <strong>page-break-inside:avoid</strong>. { learn-more }
+inactive-css-no-principal-box-fix = Poskusite dodati vrednost <strong>display</strong>, ki ustvari glavno polje, na primer <strong>block</strong>, <strong>inline-block</strong>, <strong>flex</strong> ali <strong>grid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -140,3 +143,11 @@ css-compatibility-learn-more-message = <span data-l10n-name="link">Več</span> o
 
 # :has() should not be translated
 css-selector-warning-unconstrained-has = Ta izbirnik uporablja neomejen <strong>:has()</strong>, ki je lahko počasen
+
+## In the Rule View we display a tooltip when a @container condition is hovered.
+## We want to show a specific message if the condition doesn't match a container for the
+## currently selected element
+## Variables:
+##   $name (string) - The condition name.
+
+css-selector-container-query-condition-no-container = Vsebnika '{ $name }' ni mogoče najti
