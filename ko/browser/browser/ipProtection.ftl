@@ -25,8 +25,14 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = 브라우저 안에서 바로 VPN을 만나보세요
 ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 데이터를 보호하세요.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = 또 다른 개인 정보 보호 계층 추가
 ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 데이터를 보호하세요.
 ipprotection-feature-introduction-description-private-browsing = 사생활 보호 창에 있을 때도 위치를 숨겨 탐색을 추가 보호합니다.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = 공용 Wi-Fi를 사용하고 계십니까? { -brand-product-name }에 내장된 VPN을 사용해 보세요.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = 5개 위치 중 원하는 곳을 선택하여 탐색 위치를 숨기는 <a data-l10n-name="learn-more-vpn">추가적인 개인정보 보호</a>를 받으세요.
 ipprotection-feature-introduction-description-captive-portal = 공용 Wi-Fi에서도 위치를 숨겨 탐색을 추가 보호합니다.
 ipprotection-feature-introduction-button-primary = 다음
 ipprotection-feature-introduction-button-secondary-not-now = 나중에
