@@ -23,7 +23,7 @@ list-empty-available-updates =
 list-empty-recent-updates =
     .value = لم تحدّث أي إضافات مؤخرًا
 list-empty-find-updates =
-    .label = التمس التحديثات
+    .label = تحقق مِن التحديثات
 list-empty-button =
     .label = اعرف المزيد عن الإضافات
 help-button = دعم الإضافات
@@ -81,9 +81,9 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = التمس التحديثات
-    .accesskey = س
-    .tooltiptext = التمس التحديثات لهذه الإضافة
+    .label = تحقق مِن التحديثات
+    .accesskey = ت
+    .tooltiptext = تحقق مِن التحديثات لهذه الإضافة
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -170,7 +170,7 @@ extensions-warning-safe-mode3 =
 
 ## Strings connected to add-on updates
 
-addon-updates-check-for-updates = التمس التحديثات
+addon-updates-check-for-updates = تحقق مِن التحديثات
     .accesskey = ت
 addon-updates-view-updates = اعرض التحديثات الأخيرة
     .accesskey = ض
@@ -401,7 +401,7 @@ addon-detail-updates-label = اسمح بالتحديثات التلقائية
 addon-detail-updates-radio-default = المبدئي
 addon-detail-updates-radio-on = مفعّل
 addon-detail-updates-radio-off = معطّل
-addon-detail-update-check-label = التمس التحديثات
+addon-detail-update-check-label = تحقق مِن التحديثات
 install-update-button = حدّث
 # aria-label associated to the updates row to help screen readers to announce the group
 # of input controls being entered.

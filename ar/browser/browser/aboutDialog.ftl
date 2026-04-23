@@ -6,12 +6,12 @@ aboutDialog-title =
     .title = عن { -brand-full-name }
 releaseNotes-link = ما الجديد
 update-checkForUpdatesButton =
-    .label = التمس التحديثات
+    .label = تحقق مِن التحديثات
     .accesskey = ت
 update-updateButton =
     .label = أعد التشغيل لتحديث { -brand-shorter-name }
     .accesskey = د
-update-checkingForUpdates = جاري مراجعة التحديثات…
+update-checkingForUpdates = يتحقق مِن التحديثات…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
