@@ -268,3 +268,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Het bladwijzer- en geschiedenissysteem zal niet werken, omdat een van de bestanden van { -brand-short-name } in gebruik is door een andere toepassing. Sommige beveiligingssoftware kan dit probleem veroorzaken.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Map delen

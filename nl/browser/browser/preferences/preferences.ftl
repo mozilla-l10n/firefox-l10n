@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI-bedieningselementen
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Toegankelijkheid
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name }-experimenten
 category-experimental =
     .tooltiptext = { -brand-short-name }-experimenten
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Automatisch scrollen gebruiken
     .accesskey = m
+keyboard-and-scrolling-group =
+    .label = Toetsenbordnavigatie en scrollen
+motion-and-link-group =
+    .label = Bewegings- en koppelingsstijl
 browsing-use-smooth-scrolling =
     .label = Vloeiend scrollen gebruiken
     .accesskey = e
@@ -792,6 +798,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Meer info
 browsing-group =
     .label = Navigeren
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Toegankelijkheid
+preferences-default-zoom-select =
+    .aria-label = Standaard zoom
+preferences-fonts-family =
+    .label = Lettertypefamilie
+    .accesskey = f
+preferences-fonts-size =
+    .label = Lettergrootte
+    .accesskey = g
+preferences-fonts-advanced-settings =
+    .label = Geavanceerde instellingen
+    .accesskey = a
 
 ## General Section - Proxy
 
@@ -1096,6 +1118,7 @@ search-edit-engine =
     .label = Bewerken
     .accesskey = w
 search-find-more-link = Meer zoekmachines zoeken
+search-filtering-for-add-engine = Zoekmachine toevoegen
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dubbel sleutelwoord
@@ -2125,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = Automatisch crashrapporten verzenden
     .accesskey = r
 collection-backlogged-crash-reports-description = Dit helpt { -vendor-short-name } problemen met de browser te analyseren en op te lossen. Rapporten kunnen persoonlijke of gevoelige gegevens bevatten.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Dezelfde instellingen, nieuwe vormgeving!
+    .message = We hebben deze pagina opnieuw geordend, waardoor deze makkelijker te scannen en verkennen is. Uw persoonlijke instellingen zijn niet gewijzigd, en alles is er nog. Tip: gebruik de zoekfunctie om direct naar wat u nodig hebt te springen.
+settings-redesign-promo-dismiss-button =
+    .label = Begrepen
 addon-recommendations =
     .label = { -brand-short-name } toestaan om gepersonaliseerde extensieaanbevelingen te doen
 addon-recommendations-link = Meer info
@@ -2380,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Voer een aangepaste provider-URL in
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Verbindings- en softwarebeveiliging
+preferences-connection-link-section =
+    .label = Verbindings- en softwarebeveiliging
+    .description = Zie hoe verbindingen veilig blijven, schadelijke software wordt geblokkeerd en websites worden geverifieerd.
+preferences-connection-link-button =
+    .label = Geavanceerde instellingen
 
 ## The following strings are used in the Download section of settings
 

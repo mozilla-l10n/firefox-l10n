@@ -589,8 +589,16 @@ newtab-topic-selection-button-pick-interests = Kies uw interesses
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Volgen
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = { $topic } volgen
 newtab-section-following-button = Volgend
 newtab-section-unfollow-button = Ontvolgen
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Volgend: { $topic } niet meer volgen
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Uw feed verfijnen
 newtab-section-follow-highlight-subtitle = Volg uw interesses om meer te zien van wat u leuk vindt.
@@ -632,6 +640,12 @@ newtab-custom-wallpaper-cta = Uitproberen
 newtab-new-user-custom-wallpaper-title = Kies een achtergrond om { -brand-product-name } van u te maken
 newtab-new-user-custom-wallpaper-subtitle = Laat elk nieuw tabblad als thuis voelen met aangepaste achtergronden en kleuren.
 newtab-new-user-custom-wallpaper-cta = Nu proberen
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Er zijn frisse nieuwe achtergronden binnen
+newtab-wallpaper-feature-highlight-subtitle = Kies uw favoriet en laat elk nieuw tabblad als thuis voelen.
+newtab-wallpaper-feature-highlight-cta = Achtergrond kiezen
 
 ## Strings for download mobile highlight
 
@@ -720,8 +734,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Een nieuwe lijst aanmaken
 newtab-widget-lists-name-label-default =
     .label = Takenlijst
+newtab-widget-lists-name-label-checklist =
+    .label = Checklist
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Takenlijst
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Checklist
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nieuwe lijst
@@ -741,7 +759,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Widgets minimaliseren
     .aria-label = Alle widgets samenvouwen tot compacte afmeting
+newtab-widget-section-menu-button =
+    .title = Menu Widgets
+    .aria-label = Menu Widgets openen
+newtab-widget-section-menu-hide-all = Widgets verbergen
+newtab-widget-section-menu-learn-more = Meer info
 newtab-widget-section-feedback = Vertel ons wat u ervan vindt
+newtab-widget-lists-name-default = Checklist
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

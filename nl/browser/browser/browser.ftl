@@ -1713,8 +1713,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Deze websites proberen te cryptominen:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Hebt u een account op deze website?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } heeft vastgesteld dat deze website in de afgelopen 12 maanden door een datalek is getroffen. Ontdek of u getroffen bent.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Sluiten
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Gratis scan starten
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> tracker geblokkeerd op deze website
        *[other] <span data-l10n-name="count">{ $count }</span> trackers geblokkeerd op deze website
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Ziet de website er niet goed uit?</strong> Vernieuw de pagina om tijdelijk uw bescherming tegen volgen te verlagen.
+reduced-protection-infobar-reload-button = Vernieuwen
+    .accesskey = V
