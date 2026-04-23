@@ -91,6 +91,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = 다른 위치를 선택하여 탐색해 보세요.
 ipprotecion-locations-subview-recommended-label = 추천
 ipprotection-locations-subview-recommended-description = 가장 빠른 위치 찾기
+ipprotection-locations-subview-promo =
+    .heading = { -mozilla-vpn-brand-name }으로 보호 수준 높이기
+    .message = 300개 이상의 위치 중에서 선택하고, 최대 5개 기기에서 모든 앱을 보호하세요.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } 받기
 
 ## VPN paused state
@@ -103,6 +106,9 @@ upgrade-vpn-title = 브라우저를 넘어선 추가 보호를 받으세요
 upgrade-vpn-description = VPN 위치를 선택하고, 모든 앱과 최대 5개의 기기에 VPN을 사용하고, 집이든 공용 Wi-Fi든 모든 네트워크에서 보안을 유지하세요.
 upgrade-vpn-button = { -mozilla-vpn-brand-name } 사용해보기
 ipprotection-connection-status-paused-title-1 = VPN이 일시 중지됨
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = { $maxUsage } GB의 VPN 데이터를 모두 사용했습니다. 접근 권한이 다음 달에 재설정됩니다.
 
 ## Messages and errors
 
@@ -161,6 +167,11 @@ ip-protection-learn-more = 더 알아보기
 ip-protection-not-opted-in-2 =
     .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
     .message = { -brand-short-name }에서 탐색하는 동안 위치를 숨기세요. 매달 { $maxUsage } GB의 무료 VPN 데이터를 받으세요.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
+    .message = 위치를 숨겨 추가 보호 기능을 통해 탐색하세요. 매달 { $maxUsage }GB의 무료 VPN 데이터를 받으세요.
 ip-protection-not-opted-in-button = 시작하기
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
