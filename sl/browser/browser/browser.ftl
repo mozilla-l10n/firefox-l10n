@@ -1767,6 +1767,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Ta spletna mesta poskušajo rudariti kriptovalute:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Imate račun na tej strani?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } je ugotovil, da je to spletno mesto v zadnjih 12 mesecih utrpelo krajo podatkov. Preverite, ali ste bili v njej prizadeti.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Zapri
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Začni brezplačen pregled
 trustpanel-blocker-section-header2 =
