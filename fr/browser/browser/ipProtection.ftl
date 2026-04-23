@@ -27,7 +27,7 @@ ipprotection-feature-introduction-title = Découvrez le VPN, désormais intégr�
 ipprotection-feature-introduction-link-text-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ajoutez une couche supplémentaire de confidentialité
-ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Le VPN intégré de { -brand-product-name }</a> vous aide à protéger votre navigation. Choisissez parmi 5 emplacements pour garder une navigation plus privée.
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> protège votre navigation. Sélectionnez l’un des 5 emplacements pour renforcer la confidentialité de vos activités en ligne.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données, même lorsque vous êtes dans une fenêtre privée.
 ipprotection-feature-introduction-description-private-browsing = Naviguez avec une protection supplémentaire en masquant votre localisation, même dans une fenêtre de navigation privée.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -176,7 +176,7 @@ ip-protection-description =
     .description = VPN intégré pour renforcer votre confidentialité lorsque vous naviguez avec { -brand-short-name }.
 ip-protection-description-1 =
     .label = VPN intégré
-    .description = Obtenez plus de confidentialité en masquant votre emplacement pendant la navigation.
+    .description = Obtenez plus de confidentialité en masquant votre emplacement lorsque vous naviguez.
 ip-protection-learn-more = En savoir plus
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
