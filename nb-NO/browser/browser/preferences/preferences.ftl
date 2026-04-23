@@ -793,6 +793,22 @@ browsing-cfr-recommendations-learn-more = Les mer
 browsing-group =
     .label = Nettlesing
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Tilgjengelighet
+preferences-default-zoom-select =
+    .aria-label = Standardskalering
+preferences-fonts-family =
+    .label = Skrifttype
+    .accesskey = k
+preferences-fonts-size =
+    .label = Skriftstørrelse
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Avanserte innstillinger
+    .accesskey = A
+
 ## General Section - Proxy
 
 network-settings-title = Nettverksinnstillinger
@@ -1096,6 +1112,7 @@ search-edit-engine =
     .label = Rediger
     .accesskey = R
 search-find-more-link = Finn flere søkemotorer
+search-filtering-for-add-engine = Legg til søkemotor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplikat nøkkelord
@@ -2125,6 +2142,12 @@ collection-backlogged-crash-reports2 =
     .label = Send inn krasjrapporter automatisk
     .accesskey = k
 collection-backlogged-crash-reports-description = Dette hjelper { -vendor-short-name } med å diagnostisere og fikse problemer med nettleseren. Rapporter kan inneholde personlige eller sensitive data.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Samme innstillinger, nytt utseende!
+    .message = Vi har omorganisert denne siden slik at den er enklere å få oversikt over og utforske. De personlige innstillingene dine er ikke endret, og alt er fortsatt her. Tips: bruk søk for å gå rett til det du trenger.
+settings-redesign-promo-dismiss-button =
+    .label = Jeg forstår
 addon-recommendations =
     .label = Tillat { -brand-short-name } å komme med tilpassede utvidelsesanbefalinger
 addon-recommendations-link = Les mer
@@ -2380,6 +2403,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Skriv inn en egendefinert leverandør-URL
 preferences-doh-header2 =
     .heading = DNS-over-HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Tilkoblings- og programvaresikkerhet
 
 ## The following strings are used in the Download section of settings
 

@@ -102,6 +102,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Eiporavo ambue tendaite eikundaha hag̃ua.
 ipprotecion-locations-subview-recommended-label = Jeroviaha
 ipprotection-locations-subview-recommended-description = Ejuhúta tendaite pya’eve
+ipprotection-locations-subview-promo =
+    .heading = Eraha ne ñemo’ã yvateve { -mozilla-vpn-brand-name } ndive.
+    .message = Eiporavo 300 tendaite pa’ũgui ha emo’ã opaite ne rembiporu’i 5 mba’e’oka peve.
 ipprotection-locations-subview-promo-button = Ereko { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -163,6 +166,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Haimetéma opa p
 ip-protection-description =
     .label = VPN
     .description = VPN jehe’apyre oiko porãve hag̃ua nde rekoñemi eikundaha aja { -brand-short-name } ndive.
+ip-protection-description-1 =
+    .label = VPN juajupyre
+    .description = Ehupyty tekoñemive emokañývo ne rendaite eikundaha aja.
 ip-protection-learn-more = Eikuaave
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
@@ -240,6 +246,10 @@ vpn-paused-alert-title = VPN opytáva
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Eiporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jasýpe.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Ojeporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jasýpe.
+vpn-error-page-continue-description = Eiporavo mba’éicha eĩkuaa VPN-ỹre
 vpn-paused-alert-close-tabs-button = Embotypaite tendayke
 vpn-paused-alert-continue-wo-vpn-button = Eku’ejey VPN-ỹ rehe
 vpn-error-alert-title = VPN ndoikoporãi ko’ag̃aite.
