@@ -2421,9 +2421,9 @@ preferences-doh-header2 =
 ## Connection and software security section
 
 preferences-connection-header =
-    .heading = Zwisk a wěstota software
+    .heading = Zwiskowa a softwarowa wěstota
 preferences-connection-link-section =
-    .label = Zwisk a wěstota software
+    .label = Zwiskowa a softwarowa wěstota
     .description = Glědajśo, kak zwiski wěste wóstawaju, se software blokěrujo a se websedła pśeglěduju.
 preferences-connection-link-button =
     .label = Rozšyrjone nastajenja

@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Кіраванне штучным інтэлектам
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Даступнасць
+    .title = { pane-accessibility-title }
 pane-experimental-title = Эксперыменты { -brand-short-name }
 category-experimental =
     .tooltiptext = Эксперыменты { -brand-short-name }
@@ -754,6 +756,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Выкарыстоўваць аўтаматычную пракрутку
     .accesskey = с
+keyboard-and-scrolling-group =
+    .label = Навігацыя і пракрутка з дапамогай клавіятуры
+motion-and-link-group =
+    .label = Стылізацыя руху і спасылак
 browsing-use-smooth-scrolling =
     .label = Выкарыстоўваць плаўную пракрутку
     .accesskey = ь
@@ -795,6 +801,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Падрабязней
 browsing-group =
     .label = Агляданне
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Даступнасць
+preferences-default-zoom-select =
+    .aria-label = Прадвызначаны маштаб
+preferences-fonts-family =
+    .label = Сямейства шрыфтоў
+    .accesskey = в
+preferences-fonts-size =
+    .label = Памер шрыфту
+    .accesskey = ы
+preferences-fonts-advanced-settings =
+    .label = Дадатковыя налады
+    .accesskey = Д
 
 ## General Section - Proxy
 
@@ -1100,6 +1122,7 @@ search-edit-engine =
     .label = Змяніць
     .accesskey = З
 search-find-more-link = Знайсці іншыя пашукавікі
+search-filtering-for-add-engine = Дадаць пашукавік
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Паўторнае ключавое слова
@@ -2129,6 +2152,8 @@ collection-backlogged-crash-reports2 =
     .label = Аўтаматычна адпраўляць справаздачы аб збоях
     .accesskey = с
 collection-backlogged-crash-reports-description = Гэта дапамагае { -vendor-short-name } дыягнаставаць і выпраўляць праблемы з браўзерам. Справаздачы могуць уключаць асабістыя або канфідэнцыяльныя звесткі.
+settings-redesign-promo-dismiss-button =
+    .label = Зразумела
 addon-recommendations =
     .label = Дазволіць { -brand-short-name } рабіць персаналізаваныя рэкамендацыі пашырэнняў
 addon-recommendations-link = Падрабязней
@@ -2384,6 +2409,13 @@ preferences-doh-custom-provider-label =
     .aria-label = Увядзіце URL-адрас уласнага правайдара
 preferences-doh-header2 =
     .heading = DNS праз HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Бяспека падключэння і праграмнага забеспячэння
+preferences-connection-link-button =
+    .label = Дадатковыя налады
 
 ## The following strings are used in the Download section of settings
 

@@ -52,11 +52,11 @@ pictureinpicture-toggle-fullscreen-shortcut =
 ## DOM node that then shows the tooltip.
 
 pictureinpicture-seekbackward-btn =
-    .aria-label = انتقال للخلف
-    .tooltip = انتقال للخلف (→)
+    .aria-label = انتقل للخلف
+    .tooltip = انتقل للخلف (→)
 pictureinpicture-seekforward-btn =
-    .aria-label = انتقال للأمام
-    .tooltip = انتقال للأمام (←)
+    .aria-label = انتقل للأمام
+    .tooltip = انتقل للأمام (←)
 
 ##
 
