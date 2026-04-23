@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Del
     .tooltiptext = Del denne siden
+toolbar-button-tab-groups =
+    .label = Fanegrupper
+    .tooltiptext = Vis fanegruppene dine
 
 ## EME notification panel
 
