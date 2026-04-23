@@ -2411,6 +2411,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = אבטחת חיבור ותוכנה
+preferences-connection-link-section =
+    .label = אבטחת חיבור ותוכנה
+    .description = כאן ניתן לראות כיצד החיבורים נשארים מאובטחים, תוכנות מזיקות נחסמות, ואתרים מאומתים.
 preferences-connection-link-button =
     .label = הגדרות מתקדמות
 
