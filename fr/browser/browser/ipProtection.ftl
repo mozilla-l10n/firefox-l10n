@@ -26,12 +26,12 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Découvrez le VPN, désormais intégré directement à votre navigateur
 ipprotection-feature-introduction-link-text-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données.
 # Used for callout for users who expressed interest in privacy in onboarding
-ipprotection-feature-introduction-title-privacy = Ajoutez un autre niveau de confidentialité
+ipprotection-feature-introduction-title-privacy = Ajoutez une couche supplémentaire de confidentialité
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Le VPN intégré de { -brand-product-name }</a> vous aide à protéger votre navigation. Choisissez parmi 5 emplacements pour garder une navigation plus privée.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données, même lorsque vous êtes dans une fenêtre privée.
 ipprotection-feature-introduction-description-private-browsing = Naviguez avec une protection supplémentaire en masquant votre localisation, même dans une fenêtre de navigation privée.
 # Used for callout shown on login to public wi-fi through a captive portal
-ipprotection-feature-introduction-title-captive-portal = D’un Wi-Fi public ? Essayez le VPN intégré de { -brand-product-name }.
+ipprotection-feature-introduction-title-captive-portal = Vous utilisez un Wi-Fi public ? Essayez le VPN intégré à { -brand-product-name }.
 # Used for discovery callouts for both captive portal login and private browsing
 ipprotection-feature-introduction-link-text-captive-portal = Bénéficiez de <a data-l10n-name="learn-more-vpn">davantage de confidentialité</a> en choisissant parmi 5 emplacements pour masquer vos pages web.
 ipprotection-feature-introduction-description-captive-portal = Naviguez avec une protection supplémentaire en masquant votre localisation, même sur un Wi-Fi public.
@@ -49,7 +49,7 @@ ipprotection-site-settings-callout-button = J’ai compris
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nouveau : changez d’emplacement
-ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Le VPN intégré de { -brand-product-name }</a> vous permet de choisir parmi 5 emplacements de navigation ou de choisir celui le plus rapide pour vous.
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> vous permet de choisir parmi 5 emplacements de navigation ou de nous laisser déterminer lequel est le plus rapide pour vous.
 ipprotection-location-selection-callout-primary-button = Essayer
 ipprotection-location-selection-callout-secondary-button = Ignorer
 
@@ -65,7 +65,7 @@ unauthenticated-hide-location-message-2 = Masquez votre localisation lorsque vou
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Bénéficiez de { $maxUsage } Go de données VPN gratuits chaque mois.
 unauthenticated-get-started = Démarrer
-unauthenticated-terms-of-service-privacy-notice = En continuant, vous acceptez les <a data-l10n-name="vpn-terms-of-service">Conditions d’utilisation</a> et la <a data-l10n-name="vpn-privacy-notice">confidentialité Avis</a>.
+unauthenticated-terms-of-service-privacy-notice = En continuant, vous acceptez nos <a data-l10n-name="vpn-terms-of-service">Conditions d’utilisation</a> et notre <a data-l10n-name="vpn-privacy-notice">Politique de confidentialité</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Activer le VPN pour ce site
     .aria-label = Le VPN est activé pour ce site
@@ -97,16 +97,16 @@ ipprotection-button-connecting = Activation…
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Emplacement : Recommandé
-ipprotection-recommended-location-description = { -brand-product-name } trouve l’emplacement le plus rapide
+ipprotection-recommended-location-description = { -brand-product-name } détermine l’emplacement le plus rapide
 ipprotection-recommended-location-badge = NOUVEAU
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Emplacement : { $country }
 ipprotection-locations-subview =
     .title = Choisir l’emplacement
-ipprotection-locations-subview-description = Choisir un emplacement différent pour naviguer.
+ipprotection-locations-subview-description = Choisissez un autre emplacement depuis lequel naviguer.
 ipprotecion-locations-subview-recommended-label = Recommandé
-ipprotection-locations-subview-recommended-description = Trouve l’emplacement le plus rapide
+ipprotection-locations-subview-recommended-description = Sélectionne l’emplacement le plus rapide
 ipprotection-locations-subview-promo =
     .heading = Allez plus loin en matière de protection avec { -mozilla-vpn-brand-name }
     .message = Faites votre choix parmi plus de 300 emplacements et protégez vos applications sur jusqu’à 5 appareils.
@@ -283,7 +283,7 @@ vpn-paused-alert-body = Vous avez consommé la totalité de vos { $maxUsage } G
 vpn-error-page-paused-description = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès sera rétabli le mois prochain.
 vpn-error-page-continue-description = Choisissez comment continuer sans VPN
 vpn-error-page-keep-browsing = Poursuivre la navigation pendant cette session
-vpn-error-page-new-session = Commencer une nouvelle session
+vpn-error-page-new-session = Démarrer une nouvelle session
 vpn-paused-alert-close-tabs-button = Fermer tous les onglets
 vpn-paused-alert-continue-wo-vpn-button = Continuer sans le VPN
 vpn-error-alert-title = Le VPN ne fonctionne pas pour le moment.
