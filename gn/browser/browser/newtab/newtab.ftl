@@ -588,6 +588,10 @@ newtab-topic-selection-button-pick-interests = Eiporavo eipotáva
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Tapykueho
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Ehapykueho { $topic }
 newtab-section-following-button = Ahapykueho
 newtab-section-unfollow-button = Ndahapykuehovéima
 # A modal may appear next to the Follow button, directing users to try out the feature
@@ -719,8 +723,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Emoheñói tysýi pyahu
 newtab-widget-lists-name-label-default =
     .label = Tembiaporã rysýi
+newtab-widget-lists-name-label-checklist =
+    .label = Tysýi hechajeyha
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Tembiaporã rysýi
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Tysýi hechajeyha
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Tysýi pyahu
@@ -740,7 +748,10 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Emomichĩ widgets
     .aria-label = Emomichĩmbaite widgets tuichaháicha
+newtab-widget-section-menu-hide-all = Eñomi widgets
+newtab-widget-section-menu-learn-more = Eikuaave
 newtab-widget-section-feedback = Ja’e mba’épa opensa
+newtab-widget-lists-name-default = Tysýi hechajeyha
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

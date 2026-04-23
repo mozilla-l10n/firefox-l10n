@@ -442,3 +442,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Eiporu ijypykuévarõ
 set-default-menu-message-primary-button-variant = Ereko kundahára eiporuvévarõ
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-secondary-button = Emboyke
+    .accesskey = D
