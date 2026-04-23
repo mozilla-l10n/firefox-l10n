@@ -809,6 +809,9 @@ preferences-fonts-family =
 preferences-fonts-size =
     .label = Velikost pisave
     .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Napredne nastavitve
+    .accesskey = a
 
 ## General Section - Proxy
 

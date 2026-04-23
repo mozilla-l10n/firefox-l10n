@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Tilpass nettlesinga di
 experimental-features-group-productivity =
     .label = Produktivitet
+experimental-features-group-newtab-widgets =
+    .label = Widgetar for { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Passord i sidestolpen
