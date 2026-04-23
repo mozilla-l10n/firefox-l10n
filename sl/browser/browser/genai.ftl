@@ -229,6 +229,8 @@ link-preview-reading-time =
 link-preview-generation-error-unexpected = Prišlo je do napake.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Poskusi znova
+# Onboarding card See a preview button
+link-preview-onboarding-button = Oglejte si predogled
 # Onboarding card Close button
 link-preview-onboarding-close = Zapri
 # Title for the first-time setup modal
