@@ -56,7 +56,7 @@ connection-proxy-noproxy-desc = Барои мисол: .mozilla.org, .net.nz, 19
 # Do not translate "localhost", "127.0.0.1/8" and "::1". (You can translate "and".)
 connection-proxy-noproxy-localhost-desc-2 = Пайвастҳо ба шабакаи localhost, 127.0.0.1/8, ва ::1 ҳеҷ гоҳ бояд аз прокси истифода бурда нашаванд.
 connection-proxy-autotype =
-    .label = Ба таври худкор танзим кардани прокси мувофиқи нишонии URL
+    .label = Ба таври худкор танзим кардани прокси мувофиқи нишонии «URL»
     .accesskey = Б
 connection-proxy-reload =
     .label = Аз нав бор кардан
@@ -79,7 +79,7 @@ connection-proxy-socks-remote-dns =
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Пешфарз)
-    .tooltiptext = Истифодаи нишонии URL-и пешфарз барои танзими DNS тавассути HTTPS
+    .tooltiptext = Истифодаи нишонии «URL»-и пешфарз барои танзими «DNS» тавассути «HTTPS»
 connection-dns-over-https-url-custom =
     .label = Фармоишӣ
     .accesskey = Ф

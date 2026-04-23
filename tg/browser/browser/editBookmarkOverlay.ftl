@@ -6,7 +6,7 @@ bookmark-overlay-name-2 =
     .value = Ном
     .accesskey = Н
 bookmark-overlay-url =
-    .value = Нишонии URL
+    .value = Нишонии «URL»
     .accesskey = Н
 # Location refers to the position of the bookmark within the browser's
 # bookmarks, not to its URL or address.

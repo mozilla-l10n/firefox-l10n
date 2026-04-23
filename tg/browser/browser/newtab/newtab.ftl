@@ -65,13 +65,13 @@ newtab-topsites-add-shortcut-title =
 newtab-topsites-title-label = Сарлавҳа
 newtab-topsites-title-input =
     .placeholder = Сарлавҳаро ворид намоед
-newtab-topsites-url-label = Нишонии URL
+newtab-topsites-url-label = Нишонии «URL»
 newtab-topsites-url-input =
-    .placeholder = Нишонии URL-ро ворид кунед ё гузоред
-newtab-topsites-url-validation = Нишонии URL-и эътибор лозим аст
-newtab-topsites-image-url-label = Нишонии URL-и тасвири шахсӣ
+    .placeholder = Нишонии «URL»-ро ворид кунед ё гузоред
+newtab-topsites-url-validation = Нишонии «URL»-и эътибор лозим аст
+newtab-topsites-image-url-label = Нишонии «URL»-и тасвири шахсӣ
 newtab-topsites-use-image-link = Истифодаи тасвири шахсӣ…
-newtab-topsites-image-validation = Тасвир бор карда нашуд. Нишонии URL-и дигареро кӯшиш кунед.
+newtab-topsites-image-validation = Тасвир бор карда нашуд. Нишонии «URL»-и дигареро кӯшиш кунед.
 
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 

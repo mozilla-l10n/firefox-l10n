@@ -240,7 +240,7 @@ urlbar-dismissal-acknowledgment-weather = Ташаккур барои изҳор
 urlbar-search-tips-onboard = Камтар чоп кунед, бештар ёбед: Рост аз навори нишонӣ тавассути { $engineName } ҷустуҷӯ кунед.
 urlbar-search-tips-redirect-2 = Барои дидани пешниҳодҳои ҷустуҷӯ аз { $engineName } ва таърихи тамошобинӣ, ҷустуҷӯи худро аз навори нишонӣ оғоз намоед.
 # Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Ҷустуҷӯ осон шуд. Кӯшиш кунед, ки ҷустуҷӯи худро дар ин ҷо тавассути навори нишонӣ ба таври мушаххас иҷро кунед. Барои ба ивазаш намоиш додани нишонии URL, ба Ҷустуҷӯ дар танзимот гузаред.
+urlbar-search-tips-persist = Ҷустуҷӯ осон шуд. Кӯшиш кунед, ки ҷустуҷӯи худро дар ин ҷо тавассути навори нишонӣ ба таври мушаххас иҷро кунед. Барои ба ивазаш намоиш додани нишонии «URL», ба Ҷустуҷӯ дар танзимот гузаред.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Барои зудтар пайдо кардани чизи лозимӣ ин миёнбурро интихоб кунед.
