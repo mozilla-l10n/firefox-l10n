@@ -78,6 +78,12 @@ ipprotection-button-turn-vpn-on = Slå på VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Slår på …
 
+## Location controls
+
+ipprotection-recommended-location-badge = NY
+ipprotection-locations-subview =
+    .title = Velg plassering
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN satt på pause
