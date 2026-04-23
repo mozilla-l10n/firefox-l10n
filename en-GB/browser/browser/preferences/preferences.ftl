@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI Controls
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Accessibility
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Keyboard navigation and scrolling
+motion-and-link-group =
+    .label = Motion and link styling
 browsing-use-smooth-scrolling =
     .label = Use smooth scrolling
     .accesskey = m
@@ -792,6 +798,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Learn more
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accessibility
+preferences-default-zoom-select =
+    .aria-label = Default zoom
+preferences-fonts-family =
+    .label = Font family
+    .accesskey = D
+preferences-fonts-size =
+    .label = Font size
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Advanced settings
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1096,6 +1118,7 @@ search-edit-engine =
     .label = Edit
     .accesskey = E
 search-find-more-link = Find more search engines
+search-filtering-for-add-engine = Add Engine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicate Keyword
@@ -2125,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = Automatically send crash reports
     .accesskey = c
 collection-backlogged-crash-reports-description = This helps { -vendor-short-name } diagnose and fix issues with the browser. Reports may include personal or sensitive data.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Same settings, new look!
+    .message = We reorganised this page so it’s easier to scan and explore. Your personal settings haven’t changed and everything’s still here. Tip: use search to jump straight to what you need.
+settings-redesign-promo-dismiss-button =
+    .label = Got it
 addon-recommendations =
     .label = Allow { -brand-short-name } to make personalised extension recommendations
 addon-recommendations-link = Learn more
@@ -2380,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Enter a custom provider URL
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Connection and software security
+preferences-connection-link-section =
+    .label = Connection and software security
+    .description = See how connections stay secure, harmful software is blocked and web sites are verified.
+preferences-connection-link-button =
+    .label = Advanced settings
 
 ## The following strings are used in the Download section of settings
 
