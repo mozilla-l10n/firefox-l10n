@@ -283,3 +283,4 @@ privacy-metrics-social =
 privacy-metrics-empty = Ta teden ni bil blokiran noben sledilec. { -brand-short-name } vas med brskanjem ščiti pred naslednjimi grožnjami.
 privacy-metrics-loading = Nalaganje statistike zaščite …
 privacy-metrics-error = Statistike zaščite ni mogoče naložiti.
+privacy-metrics-private-window = { -brand-short-name } še naprej blokira sledilce v zasebnih oknih, vendar ne beleži statistike blokiranih vsebin.

@@ -157,6 +157,17 @@ tab-context-send-to-mobile =
            *[other] Pošlji { $tabCount } zavihkov na mobilno napravo
         }
     .accesskey = n
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Za pošiljanje zavihka omogočite sinhronizacijo
+tab-context-send-to-mobile-connect-phone =
+    .label = Poveži telefon
+tab-context-send-to-mobile-device-missing =
+    .label = Ne vidite svoje naprave?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Ustvari povezavo za deljenje
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

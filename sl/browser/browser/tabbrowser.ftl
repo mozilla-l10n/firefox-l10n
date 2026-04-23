@@ -286,6 +286,9 @@ tab-group-editor-color-selector2-gray = Siva
     .title = Siva
 tab-group-editor-color-selector2-red = Rdeča
     .title = Rdeča
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } – zaprta
 tab-group-description = { $tabGroupName } – Skupina zavihkov
 tab-group-label-tooltip-collapsed = { $tabGroupName } – strnjena
 tab-group-label-tooltip-expanded = { $tabGroupName } – razširjena
@@ -294,6 +297,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Neimenovana skupina
 tab-group-name-default = Neimenovana skupina
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Skupine zavihkov
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -345,6 +356,17 @@ tab-group-editor-action-new-tab =
     .label = Nov zavihek v skupini
 tab-group-editor-action-new-window =
     .label = Premakni skupino v novo okno
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Zapri povezavo v skupini
+            [one] Zapri { $linkCount } povezavo v skupini
+            [two] Zapri { $linkCount } povezavi v skupini
+            [few] Zapri { $linkCount } povezave v skupini
+           *[other] Zapri { $linkCount } povezav v skupini
+        }
 tab-group-editor-action-save =
     .label = Shrani in zapri skupino
 tab-group-editor-action-ungroup =
@@ -354,6 +376,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Končano
     .accessKey = K
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Deli skupino zavihkov
 tab-context-reopen-tab-group =
     .label = Znova odpri skupino zavihkov
 # Variables:
@@ -429,6 +454,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Shrani
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Izbriši opombo
+    .aria-label = Izbriši opombo
+    .accesskey = z
+tab-note-preview-edit-icon =
+    .alt = Uredi opombo
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Preberi več
 tab-note-panel-add-note-new-badge =
