@@ -25,12 +25,20 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Nij: VPN, no streekrjocht yn jo browser
 ipprotection-feature-introduction-link-text-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Foegje noch in laach privacy ta
+ipprotection-feature-introduction-link-text-privacy = De ynboude VPN fan <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> helpt jo navigaasje te beskermjen. Kies út fiif lokaasjes om jo navigaasje mear privee te hâlden.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen, sels as jo yn in priveefinster binne.
 ipprotection-feature-introduction-description-private-browsing = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels as jo in priveefinster brûke.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Brûke jo iepenbiere wifi? Probearje de ynboude VPN fan { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Untfang <a data-l10n-name="learn-more-vpn">ekstra privacy</a> troch te kiezen út fiif lokaasjes  om te ferbergjen wêr’t jo sneupe.
 ipprotection-feature-introduction-description-captive-portal = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels op iepenbiere wifi.
 ipprotection-feature-introduction-button-primary = Folgjende
 ipprotection-feature-introduction-button-secondary-not-now = No net
 ipprotection-feature-introduction-button-secondary-no-thanks = Nee, tankewol
+ipprotection-feature-introduction-button-secondary-remove = VPN fan arkbalke fuortsmite
 
 ## Site settings callout
 
