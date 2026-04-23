@@ -27,12 +27,18 @@ ipprotection-feature-introduction-title = Presentamos la VPN, ahora dentro del n
 ipprotection-feature-introduction-link-text-2 = Use nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar su ubicación y proteger sus datos.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Agregar otra capa de privacidad
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger su navegación. Elija entre 5 ubicaciones para mantener más privado desde donde navega.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar su ubicación y proteger sus datos, aunque esté en ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navegación con protección adicional ocultando la ubicación, incluso en ventana privada.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = ¿En un Wi-Fi público? Pruebe la VPN integrada de { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Obtenga <a data-l10n-name="learn-more-vpn">privacidad adicional</a> eligiendo entre 5 ubicaciones para ocultar desde dónde navega.
 ipprotection-feature-introduction-description-captive-portal = Navegación con protección adicional ocultando la ubicación, incluso en Wi-Fi público.
 ipprotection-feature-introduction-button-primary = Siguiente
 ipprotection-feature-introduction-button-secondary-not-now = No ahora
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
+ipprotection-feature-introduction-button-secondary-remove = Eliminar VPN de la barra de herramientas
 
 ## Site settings callout
 
@@ -40,22 +46,33 @@ ipprotection-site-settings-callout-title = Seleccionar donde usar la VPN
 ipprotection-site-settings-callout-subtitle = Desactive VPN para un sitio específico y lo recordaremos la próxima vez que se visite.
 ipprotection-site-settings-callout-button = Entendido
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nuevo: Cambiar la ubicación
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> permite elegir entre 5 ubicaciones de navegación o podemos elegir automáticamente la más rápida para usted.
+ipprotection-location-selection-callout-primary-button = Pruébelo
+ipprotection-location-selection-callout-secondary-button = Descartar
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Probar la VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ocultar ubicación</a> mientras se navega en { -brand-product-name }.
+unauthenticated-private-location-message = Ayuda a <a data-l10n-name="learn-more-vpn">a mantener privada la ubicación</a> en { -brand-product-name }.
+unauthenticated-choose-location-message = Elija entre 5 ubicaciones o deje que { -brand-product-name } elija la más rápida.
 unauthenticated-hide-location-message-2 = Ocultar la ubicación mientras se navega en { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obtener { $maxUsage } GB de datos de VPN gratis cada mes.
 unauthenticated-get-started = Comenzar
+unauthenticated-terms-of-service-privacy-notice = Al continuar, se aceptan los <a data-l10n-name="vpn-terms-of-service">términos de servicio</a> y <a data-l10n-name="vpn-privacy-notice">nota de privacidad</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Usar VPN para este sitio
     .aria-label = VPN activada para este sitio
 site-exclusion-toggle-disabled-1 =
     .label = Usar VPN para este sitio
     .aria-label = VPN desactivada para este sitio
+site-exclusion-toggle-description = ¿El sitio no funciona? Intente desactivar la VPN.
 ipprotection-settings-link =
     .label = Configuración
 
@@ -74,6 +91,12 @@ ipprotection-button-turn-vpn-off-excluded-site = Desactivar VPN en todas partes
 ipprotection-button-turn-vpn-on = Activar VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Activando…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Ubicación: Recomendada
 
 ## VPN paused state
 
