@@ -201,7 +201,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> a renvoyé un
 fp-neterror-http-error-intro = Le serveur à l’adresse <strong>{ $hostname }</strong> a renvoyé une erreur : { $responsestatus } { $responsestatustext }
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
-fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> a renvoyé un en-tête avec des caractères vides, ce qui n’est pas autorisé par les normes de sécurité web.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> a renvoyé un en-tête avec des caractères vides non autorisés par les normes de sécurité du Web.
 fp-neterror-content-encoding-intro = La page que vous essayez de voir ne peut être affichée car elle utilise un type de compression invalide ou non pris en charge.
 fp-neterror-coop-coep-intro = { -brand-short-name } n’a pas chargé cette page, car il semble que la configuration de sécurité ne corresponde pas à la page précédente.
 fp-neterror-blocked-by-policy-intro = Votre organisation a bloqué l’accès à cette page ou à ce site web.

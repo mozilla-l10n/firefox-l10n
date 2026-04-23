@@ -101,7 +101,7 @@ ipprotection-recommended-location-description = { -brand-product-name } trouve l
 ipprotection-recommended-location-badge = NOUVEAU
 # Variables
 #   $country (string) - The country selected for the VPN server location
-ipprotection-location-country-button = Adresse : { $country }
+ipprotection-location-country-button = Emplacement : { $country }
 ipprotection-locations-subview =
     .title = Choisir l’emplacement
 ipprotection-locations-subview-description = Choisir un emplacement différent pour naviguer.
@@ -280,7 +280,7 @@ vpn-paused-alert-title = VPN mis en pause
 vpn-paused-alert-body = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès VPN sera rétabli le mois prochain.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-vpn-error-page-paused-description = Vous avez utilisé les { $maxUsage } Go de vos données VPN. Access est réinitialisé le mois prochain.
+vpn-error-page-paused-description = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès sera rétabli le mois prochain.
 vpn-error-page-continue-description = Choisissez comment continuer sans VPN
 vpn-error-page-keep-browsing = Poursuivre la navigation pendant cette session
 vpn-error-page-new-session = Commencer une nouvelle session
