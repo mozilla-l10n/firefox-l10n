@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> hat in flater
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = De server op <strong>{ $hostname }</strong> hat in flater weromstjoerd: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> hat in header weromstjoerd mei lege tekens dy’t net tastien binne troch webbefeiligingsstanderts.
+fp-neterror-content-encoding-intro = De side dy't jo besjen wolle kin net toand wurde, omdat it gebrûk makket fan in ûnjildige of net stipe foarm fan kompresje. Nim kontakt op mei de website-eigeners om se te ynformearjen oer dit probleem.
 fp-neterror-coop-coep-intro = { -brand-short-name } hat dizze side net laden omdat it liket dat de befeiligingskonfiguraasje net oerienkomt mei dy fan de foarige side.
 fp-neterror-blocked-by-policy-intro = Jo organisaasje hat tagong ta dizze side of website blokkearre.
 fp-neterror-http-auth-disabled-intro = Immen dy’t him foardocht as de website kin probearje dingen lykas jo brûkersnamme, wachtwurd of e-mailadres te stellen.

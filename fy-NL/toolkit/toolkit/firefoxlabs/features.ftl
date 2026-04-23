@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Pas jo browser oan
 experimental-features-group-productivity =
     .label = Produktiviteit
+experimental-features-group-newtab-widgets =
+    .label = Widgets op { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Wachtwurden yn de sydbalke
@@ -64,15 +66,31 @@ experimental-features-fx-web-apps-description = Iepenje websites dy’t jo regel
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listen op { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listen
 experimental-features-newtab-widget-lists-description = Hâld jo takelist boppe-oan yn gedachten as jo in nij ljepblêd iepenje. Fan paklisten oant boadskippelisten, meitsje jo plannen yn { -brand-product-name }. <a data-l10n-name="connect">Kommentaar diele</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Timer op { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Timer
 experimental-features-newtab-widget-timer-description = Stel in timer yn om jo te fokusjen, jo oan te moedigjen om op koers te bliuwen, of jo te werinnerjen om op te laden. <a data-l10n-name="connect">Kommentaar diele</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listen en timer op { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Hâld jo to-dolist in gedachten wannear’t jo in nij ljepblêd iepenje. Fan paklisten oant boodskippelistkes, meitsje jo plannen yn { -brand-product-name }. Stel in timer yn om jo fokust te hâlden, in triuwke yn de rêch te jaan om op it goede spoar te bliuwen of jo yn it sin te bringen dat jo oplade moatte. <a data-l10n-name="connect">Kommentaar diele</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Waarfoarsizzingen
+experimental-features-newtab-widget-weather-description = Krij in dúdlik oersjoch fan it waar fan hjoed mei oere-foarsizzingen. <a data-l10n-name="connect">Diel kommentaar</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Foto fan de dei
+experimental-features-newtab-widget-picture-of-the-day-description = Foegje in lyts deistich wûnder ta oan jo dei. Krij in nije foto, lear wat nijsgjirrichs, en stel yn in momint in nije eftergrûn yn. <a data-l10n-name="connect">Diel kommentaar</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Klokken
+experimental-features-newtab-widget-clocks-description = Foegje maksimaal fjouwer klokken ta mei oanpaste bynammen om de tiid by te hâlden op plakken dy’t foar jo wichtich binne. <a data-l10n-name="connect">Diel kommentaar</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Skiednis semantysk trochsykje

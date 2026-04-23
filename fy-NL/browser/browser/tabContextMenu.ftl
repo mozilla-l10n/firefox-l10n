@@ -155,6 +155,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Jo telefoan ferbine
 tab-context-send-to-mobile-device-missing =
     .label = Sjogge jo jo apparaat net?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Dielbere keppeling oanmeitsje
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
