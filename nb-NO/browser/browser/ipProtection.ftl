@@ -151,6 +151,11 @@ ip-protection-learn-more = Les mer
 ip-protection-not-opted-in-2 =
     .heading = Prøv den innebygde VPN-en i { -brand-short-name }
     .message = Skjul plasseringen din mens du surfer i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data hver måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
+    .message = Surf med ekstra beskyttelse ved å skjule plasseringen din. Få { $maxUsage } GB gratis VPN-data hver måned.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -222,6 +227,9 @@ vpn-paused-alert-title = VPN satt på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. VPN-tilgangen nullstilles neste måned.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
 vpn-paused-alert-close-tabs-button = Lukk alle faner
 vpn-paused-alert-continue-wo-vpn-button = Fortsett uten VPN
 vpn-error-alert-title = VPN fungerer ikke akkurat nå.
