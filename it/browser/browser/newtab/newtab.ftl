@@ -13,6 +13,8 @@ newtab-customize-panel-icon-button =
     .title = Personalizza questa pagina
 #  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Personalizza
+newtab-customize-panel-label =
+    .label = Personalizza
 newtab-personalize-settings-icon-label =
     .title = Personalizza Nuova scheda
     .aria-label = Impostazioni
