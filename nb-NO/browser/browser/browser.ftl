@@ -1448,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Avslutt privat økt
     .tooltiptext = Avslutt privat økt
+reset-pbm-panel-heading2 = Slette data og starte en ny privat økt?
+reset-pbm-panel-description2 = Dette sletter historikk, infokapsler og alle andre nettstedsdata uten å lukke det private vinduet.
 reset-pbm-panel-heading = Avslutte privat økt?
 reset-pbm-panel-description = Lukk alle private faner og slett historikk, infokapsler og all annen nettstedsdata.
 reset-pbm-panel-always-ask-checkbox =
@@ -1456,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Avbryt
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Tøm privat økt
+    .accesskey = T
 reset-pbm-panel-confirm-button =
     .label = Slett øktdata
     .accesskey = S
@@ -1701,8 +1706,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } tillot { $count } kryptoutvinnere
     }
 trustpanel-cryptominer-tab-list-header = Disse nettstedene prøver å drive kryptomining:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Har du en konto på dette nettstedet?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } har oppdaget at dette nettstedet hadde en datalekkasje de siste 12 månedene. Finn ut om du ble berørt.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorer
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Start gratis skanning
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> sporer blokkert på dette nettstedet
        *[other] <span data-l10n-name="count">{ $count }</span> sporere blokkert på dette nettstedet
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Ser nettstedet ødelagt ut?</strong> Last siden på nytt for midlertidig å redusere sporingsbeskyttelsen.
+reduced-protection-infobar-reload-button = Last på nytt
+    .accesskey = L
