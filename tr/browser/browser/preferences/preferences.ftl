@@ -2151,7 +2151,7 @@ collection-backlogged-crash-reports-description = Bu sayede { -vendor-short-name
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = Aynı ayarlar, yeni görünüm!
-    .message = Bu sayfada gezinmeyi ve keşfetmeyi kolaylaştırmak için sayfayı yeniden düzenledik. Kişisel ayarlarınız değişmedi ve her şey hâlâ burada. İpucu: Aradığınız şeyi anında  bulmak için arama çubuğunu kullanabilirsiniz.
+    .message = Bu sayfada gezinmeyi ve keşfetmeyi kolaylaştırmak için sayfayı yeniden düzenledik. Kişisel ayarlarınız değişmedi ve her şey hâlâ burada. İpucu: Aradığınız şeyi anında bulmak için arama çubuğunu kullanabilirsiniz.
 settings-redesign-promo-dismiss-button =
     .label = Anladım
 addon-recommendations =
