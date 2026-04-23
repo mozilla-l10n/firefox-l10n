@@ -142,6 +142,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du har nesten br
 ip-protection-description =
     .label = VPN
     .description = Innebygd VPN for å forbedre personvernet ditt mens du surfer med { -brand-short-name }.
+ip-protection-description-1 =
+    .label = Innebygd VPN
+    .description = Få ekstra personvern ved å skjule plasseringen din mens du surfer.
 ip-protection-learn-more = Les mer
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
