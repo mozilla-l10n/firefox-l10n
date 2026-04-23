@@ -175,6 +175,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Få enda mer beskyttelse utenfor { -brand-short-name } med { -mozilla-vpn-brand-name }
     .description = Velg egendefinerte VPN-plasseringer og legg til beskyttelse for alle appene dine på opptil fem enheter, enten du er hjemme eller på offentlig Wi-Fi.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Ta beskyttelsen videre med { -mozilla-vpn-brand-name }
+    .description = Velg mellom over 300 steder og beskytt alle appene dine på opptil 5 enheter.
 
 ## IP Protection dialogs
 
@@ -230,6 +233,7 @@ vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av dine VPN-data.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
+vpn-error-page-continue-description = Velg hvordan du vil fortsette uten VPN
 vpn-paused-alert-close-tabs-button = Lukk alle faner
 vpn-paused-alert-continue-wo-vpn-button = Fortsett uten VPN
 vpn-error-alert-title = VPN fungerer ikke akkurat nå.

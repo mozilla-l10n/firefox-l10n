@@ -588,8 +588,16 @@ newtab-topic-selection-button-pick-interests = Velg dine interesser
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Følge
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Følg { $topic }
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Slutt å følge
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Følger: Slutt å følge { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Finjuster kilden din
 newtab-section-follow-highlight-subtitle = Følg interessene dine for å se mer av det du liker.
@@ -631,6 +639,10 @@ newtab-custom-wallpaper-cta = Prøv det
 newtab-new-user-custom-wallpaper-title = Velg et bakgrunnsbilde for å gjøre { -brand-product-name } til din egen
 newtab-new-user-custom-wallpaper-subtitle = Få hver nye fane til å føles som hjemme med tilpassede bakgrunner og farger.
 newtab-new-user-custom-wallpaper-cta = Prøv det nå
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Nye bakgrunnsbilder er nå tilgjengelige
 
 ## Strings for download mobile highlight
 
