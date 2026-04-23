@@ -32,6 +32,8 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להש
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = התחברת ל־Wi-Fi ציבורי? ניתן לנסות את ה־VPN המובנה של { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = ניתן לקבל <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> על־ידי בחירה מבין 5 מיקומים להסתרת המקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
 ipprotection-feature-introduction-button-primary = הבא
 ipprotection-feature-introduction-button-secondary-not-now = לא כעת
