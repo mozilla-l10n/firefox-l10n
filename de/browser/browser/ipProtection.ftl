@@ -109,7 +109,7 @@ ipprotecion-locations-subview-recommended-label = Empfohlen
 ipprotection-locations-subview-recommended-description = Findet den schnellsten Standort
 ipprotection-locations-subview-promo =
     .heading = Verbessern Sie Ihren Schutz mit { -mozilla-vpn-brand-name }
-    .message = Wählen Sie aus überm 300 Standorten und schützen Sie alle Ihre Apps auf bis zu 5 Geräten.
+    .message = Wählen Sie aus mehr als 300 Standorten und schützen Sie alle Ihre Apps auf bis zu 5 Geräten.
 ipprotection-locations-subview-promo-button = Holen Sie sich { -mozilla-vpn-brand-name }
 
 ## VPN paused state

@@ -46,22 +46,33 @@ ipprotection-site-settings-callout-title = Kies wêr’t jo VPN brûke
 ipprotection-site-settings-callout-subtitle = Skeakelje VPN út foar in spesifike website en wy sille dit ûnthâlde foar de folgjende kear  dat jo dizze besykje.
 ipprotection-site-settings-callout-button = Begrepen
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nij: wizigje jo lokaasje
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Mei de ynboude VPN fan { -brand-product-name }</a> kinne jo kieze út fiif navigaasjelokaasjes, of lit ús de rapste foar jo kieze.
+ipprotection-location-selection-callout-primary-button = Probearje
+ipprotection-location-selection-callout-secondary-button = Slute
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = De ynboude VPN fan { -brand-product-name } probearje
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ferstopje jo lokaasje</a> by it navigearjen yn { -brand-product-name }.
+unauthenticated-private-location-message = Helpt <a data-l10n-name="learn-more-vpn">jo lokaasje privee te hâlden</a> yn { -brand-product-name }.
+unauthenticated-choose-location-message = Kies út fiif lokaasjes of lit { -brand-product-name } de rapste kieze.
 unauthenticated-hide-location-message-2 = Ferstopje jo lokaasje by it navigearjen yn { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Untfang elke moanne { $maxUsage } GB fergees VPN-gegevens.
 unauthenticated-get-started = Begjinne
+unauthenticated-terms-of-service-privacy-notice = Troch fierder te gean, geane jo akkoard mei de <a data-l10n-name="vpn-terms-of-service">Tsjinstbetingsten</a> en <a data-l10n-name="vpn-privacy-notice">Privacyferklearring</a>.
 site-exclusion-toggle-enabled-1 =
     .label = VPN foar dizze website brûke
     .aria-label = VPN is oan foar dizze website
 site-exclusion-toggle-disabled-1 =
     .label = VPN foar dizze website brûke
     .aria-label = VPN is út foar dizze website
+site-exclusion-toggle-description = Wurket de website net? Probearje VPN út te skeakeljen.
 ipprotection-settings-link =
     .label = Ynstellingen
 
@@ -81,6 +92,26 @@ ipprotection-button-turn-vpn-on = VPN ynskeakelje
 # Button while VPN is connecting
 ipprotection-button-connecting = Ynskeakelje…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Lokaasje: oanrekommandearre
+ipprotection-recommended-location-description = { -brand-product-name } fynt de rapste lokaasje
+ipprotection-recommended-location-badge = NIJ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Lokaasje: { $country }
+ipprotection-locations-subview =
+    .title = Lokaasje kieze
+ipprotection-locations-subview-description = Kies in oare lokaasje om fan te navigearjen.
+ipprotecion-locations-subview-recommended-label = Oanrekommandearre
+ipprotection-locations-subview-recommended-description = Fyn de rapste lokaasje
+ipprotection-locations-subview-promo =
+    .heading = Bring beskerming fierder mei { -mozilla-vpn-brand-name }
+    .message = Kies út mear as300 lokaasjes en beskermje al jo apps op maksimaal fiif apparaten
+ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } downloade
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN pauzearre
@@ -90,6 +121,10 @@ ipprotection-connection-status-paused-description = Jo hawwe alle { $maxUsage } 
 upgrade-vpn-title = Untfang ekstra beskerming bûten de browser
 upgrade-vpn-description = Kies jo VPN-lokaasje, brûk VPN foar al jo apps en maksimaal 5 apparaten, en bliuw feilich op elk netwurk – thús of op iepenbiere wifi.
 upgrade-vpn-button = Probearje { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN is pauzearre
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Jo hawwe alle { $maxUsage } GB fan jo VPN-gegevens brûkt. De tagong wurdt folgjende moanne opnij ynsteld.
 
 ## Messages and errors
 
@@ -139,12 +174,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Jo hawwe hast gj
 ip-protection-description =
     .label = VPN
     .description = Ynboude VPN om jo privacy te ferbetterjen wylst jo mei { -brand-short-name } sneupe.
+ip-protection-description-1 =
+    .label = Ynboude VPN
+    .description = Untfang ekstra privacy troch jo lokaasje te ferstopjen wylst jo navigearje
 ip-protection-learn-more = Mear ynfo
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Probearje de ynboude VPN fan { -brand-short-name }
     .message = Ferstopje jo lokaasje wylst it navigearjen yn { -brand-short-name }. Untfang  elke moanne { $maxUsage } GB fergees VPN-gegevens.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Probearje de ynboude VPN fan { -brand-short-name }
+    .message = Sneup mei ekstra beskerming troch jo lokaasje te ferstopjen. Untfang moanliks fergees { $maxUsage } GB gegevens.
 ip-protection-not-opted-in-button = Begjinne
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -164,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Untfang noch mear beskerming bûten { -brand-short-name } mei { -mozilla-vpn-brand-name }
     .description = Kies oanpaste VPN-lokaasjes en foegje beskerming ta oan al jo apps op maksimaal fiif apparaten, oft jo no thús binne of iepenbiere wifi brûke.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Bring beskerming fierder mei { -mozilla-vpn-brand-name }
+    .description = Kies út mear as 300 lokaasjes en beskermje al jo apps op maksimaal fiif apparaten.
 
 ## IP Protection dialogs
 
