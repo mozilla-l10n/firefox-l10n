@@ -1451,7 +1451,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Mettre fin à la session privée
     .tooltiptext = Mettre fin à la session privée
-reset-pbm-panel-heading2 = Effacer les données et redémarrer une nouvelle session privée ?
+reset-pbm-panel-heading2 = Effacer les données et démarrer une nouvelle session privée ?
 reset-pbm-panel-description2 = Cette action supprime l’historique, les cookies et toutes les autres données de site sans fermer votre fenêtre de navigation privée.
 reset-pbm-panel-heading = Mettre fin à votre session privée ?
 reset-pbm-panel-description = Fermer tous les onglets privés et supprimer l’historique, les cookies et toutes les autres données des sites.
@@ -1708,9 +1708,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Ces sites tentent de miner des cryptomonnaies :
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Disposez-vous d’un compte sur ce site ?
-trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } a découvert qu’il y avait une fuite de données sur ce site au cours des 12 derniers mois. Découvrez si vous avez été affecté.
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } a découvert que ce site a subi une fuite de données au cours des 12 derniers mois. Vérifiez si elle vous concerne.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorer
-trustpanel-breachalerts-anonymous-breached-button-check-monitor = Lancer le scan gratuit
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Lancer une analyse gratuite
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> traqueur bloqué sur ce site

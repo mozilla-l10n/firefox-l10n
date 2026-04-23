@@ -82,12 +82,15 @@ experimental-features-newtab-widget-lists-and-timer-description = Hold huskelist
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Værmeldinger
+experimental-features-newtab-widget-weather-description = Få en oversikt over dagens vær med timevarsler. <a data-l10n-name="connect">Del tilbakemelding</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Dagens bilde
+experimental-features-newtab-widget-picture-of-the-day-description = Legg til litt hverdagslig underverk i dagen din. Få et nytt bilde, lær noe interessant, og sett et nytt bakgrunnsbilde på et øyeblikk. <a data-l10n-name="connect">Del tilbakemelding</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Klokker
+experimental-features-newtab-widget-clocks-description = Legg til opptil fire klokker med tilpassede kallenavn for å holde oversikt over tiden på steder som er viktige for deg. <a data-l10n-name="connect">Del tilbakemeldinger</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historikksøk
