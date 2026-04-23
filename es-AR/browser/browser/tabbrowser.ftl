@@ -264,6 +264,14 @@ tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Grupos de pestañas
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -310,6 +318,15 @@ tab-group-editor-action-new-tab =
     .label = Nueva pestaña en el grupo
 tab-group-editor-action-new-window =
     .label = Mover grupo a nueva ventana
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Copiar enlace en el grupo
+            [one] Copiar enlace en el grupo
+           *[other] Copiar { $linkCount } enlaces en el grupo
+        }
 tab-group-editor-action-save =
     .label = Guardar y cerrar grupo
 tab-group-editor-action-ungroup =
@@ -319,6 +336,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Listo
     .accessKey = L
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Compartir grupo de pestañas
 tab-context-reopen-tab-group =
     .label = Reabrir grupo de pestañas
 # Variables:

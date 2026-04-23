@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Personalizar la navegación
 experimental-features-group-productivity =
     .label = Productividad
+experimental-features-group-newtab-widgets =
+    .label = Widgets en { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Contraseñas en la barra lateral
@@ -64,15 +66,30 @@ experimental-features-fx-web-apps-description = Abra los sitios que visita con f
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listas en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listas
 experimental-features-newtab-widget-lists-description = Mantenga la lista de tareas pendientes al abrir una nueva pestaña. Desde listas de empaque hasta listas de compras, haga sus planes en { -brand-product-name }. <a data-l10n-name="connect">Compartir opinión</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporizador en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Temporizador
 experimental-features-newtab-widget-timer-description = Configure un temporizador para poder concentrarse, evitar distracciones o recordarle tomarse un descanso. <a data-l10n-name="connect">Enviar sus comentarios.</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas y temporizadores en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Mantenga su lista de tareas pendientes al abrir una nueva pestaña. Desde listas de empaque hasta listas de compras, haga sus planes en { -brand-product-name }. Configure un temporizador para mantenerse enfocado, dar un empujoncito para mantenerse en el camino correcto o recordarle que recargue energías. <a data-l10n-name="connect">Compartir opinión</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Pronósticos del tiempo
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Foto del día
+experimental-features-newtab-widget-picture-of-the-day-description = Agregue una pequeña maravilla diaria a su día. Obtenga una nueva imagen, aprenda algo interesante y tenga un nuevo fondo de pantalla en un instante. <a data-l10n-name="connect">Compartir opinión</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Relojes
+experimental-features-newtab-widget-clocks-description = Agregue hasta cuatro relojes con nombres personalizados para tener a mano la hora de los lugares que le importan. <a data-l10n-name="connect">Compartir opinión</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Búsqueda semántica en el historial
