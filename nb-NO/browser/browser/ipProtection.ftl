@@ -27,8 +27,11 @@ ipprotection-feature-introduction-title = Vi introduserer VPN, nå rett i nettle
 ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med personvern
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> bidrar til å beskytte surfingen din. Velg mellom 5 steder for å holde hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = På offentlig Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra beskyttelse ved å skjule plasseringen din, også på offentlig Wi-Fi.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nå
