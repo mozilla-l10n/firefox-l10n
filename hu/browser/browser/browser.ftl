@@ -1713,8 +1713,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Ezek a webhelyek próbálnak meg kriptovalutát bányászni:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Van fiókja ezen az oldalon?
+trustpanel-breachalerts-anonymous-breached-description = A { -brand-product-name } azt találta, hogy ez a webhely az elmúlt 12 hónapban adatvédelmi incidensben volt érintett. Tudja meg, hogy érintette-e Önt.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Eltüntetés
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Ingyenes vizsgálat indítása
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
        *[other] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>A webhely még mindig hibásnak tűnik?</strong> Töltse újra az oldalt a követés elleni védelem ideiglenes csökkentésével.
+reduced-protection-infobar-reload-button = Újratöltés
+    .accesskey = r

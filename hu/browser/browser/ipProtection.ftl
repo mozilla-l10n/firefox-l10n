@@ -25,12 +25,20 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetlenül a böngészőben
 ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Adjon hozzá még egy adatvédelmi réteget
+ipprotection-feature-introduction-link-text-privacy = A <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon 5 hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
 ipprotection-feature-introduction-description-private-browsing = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még privát ablakban is.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Nyilvános Wi-Fi-n van? Próbálja ki a { -brand-product-name } beépített VPN-jét.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Kapjon <a data-l10n-name="learn-more-vpn">további adatvédelmet</a> azáltal, hogy választ 5 hely közül, hogy elrejtse a böngészési helyét.
 ipprotection-feature-introduction-description-captive-portal = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még nyilvános Wi-Fi-n is.
 ipprotection-feature-introduction-button-primary = Tovább
 ipprotection-feature-introduction-button-secondary-not-now = Most nem
 ipprotection-feature-introduction-button-secondary-no-thanks = Köszönöm, nem
+ipprotection-feature-introduction-button-secondary-remove = VPN eltávolítása az eszköztárról
 
 ## Site settings callout
 
