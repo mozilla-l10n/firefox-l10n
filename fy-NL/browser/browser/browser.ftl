@@ -1266,6 +1266,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Diele
     .tooltiptext = Dizze side diele
+toolbar-button-tab-groups =
+    .label = Ljepblêdgroepen
+    .tooltiptext = Jo ljepblêdgroepen toane
 
 ## EME notification panel
 
@@ -1448,6 +1451,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Priveesesje beëinigje
     .tooltiptext = Priveesesje beëinigje
+reset-pbm-panel-heading2 = Gegevens wiskje en in nije priveesesje starte?
+reset-pbm-panel-description2 = Dit wisket skiednis, cookies en alle oare websitegegevens sûnder jo priveefinster te sluten.
 reset-pbm-panel-heading = Jo priveesesje beëinigje?
 reset-pbm-panel-description = Alle priveeljepblêden slute en skiednis, cookies en alle oare websitegegevens fuortsmite.
 reset-pbm-panel-always-ask-checkbox =
@@ -1456,6 +1461,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Annulearje
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Priveesesje wiskje
+    .accesskey = w
 reset-pbm-panel-confirm-button =
     .label = Sesjegegevens fuortsmite
     .accesskey = g
@@ -1703,6 +1711,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } hat { $count } cryptominers tastien
     }
 trustpanel-cryptominer-tab-list-header = Dizze websites probearje te cryptominen:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Hawwe jo in account op dizze website?
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> tracker blokkearre op dizze website
