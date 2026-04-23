@@ -824,6 +824,10 @@ network-proxy-connection-settings =
 network-proxy-group2 =
     .label = Nastavitve posrednika
     .description = Nastavite, kako se { -brand-short-name } povezuje z internetom.
+network-proxy-connection-settings2 =
+    .label = Nastavitve posrednika
+    .description = Spreminjanje teh nastavitev lahko povzroči težave s povezovanjem
+    .accesskey = p
 
 ## Home Section
 
@@ -1114,6 +1118,7 @@ search-edit-engine =
     .label = Uredi
     .accesskey = U
 search-find-more-link = Najdi več iskalnikov
+search-filtering-for-add-engine = Dodaj iskalnik
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Podvojena ključna beseda
@@ -1132,6 +1137,9 @@ search-engine-group =
     .label = Privzet iskalnik
 search-default-engine =
     .aria-label = Privzet iskalnik
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Iskanje
 
 ## Containers Section
 
@@ -1155,11 +1163,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sinhronizacija
+account-group-label2 =
+    .label = Račun
+account-placeholder2 =
+    .label = Niste prijavljeni
+    .description = Prijavite se in si uredite zaseben, zavarovan in enostaven dostop do svojih podatkov povsod, kjer uporabljate { -brand-short-name(sklon: "tozilnik") }
 account-group-label =
     .label = Račun { -vendor-short-name }
 account-placeholder =
     .label = Niste prijavljeni
     .description = Prijavite se za zasebno in šifrirano sinhronizacijo podatkov med napravami.
+account-sync-section =
+    .heading = Račun in sinhronizacija
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1298,6 +1313,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Upravljanje sinhroniziranih podatkov
     .accesskey = U
+settings-sync-disconnect-button =
+    .label = Prekini povezavo
 sync-change-options =
     .label = Spremeni …
     .accesskey = S
@@ -1621,6 +1638,11 @@ history-remember-label = { -brand-short-name } naj
     .accesskey = n
 history-remember-option-all =
     .label = shranjuje zgodovino
+history-remember-option-never2 =
+    .label = Nikoli ne shranjuj zgodovine
+    .description = Vsako okno deluje kot zasebno okno. Ko je izbrana ta možnost, je treba razširitve posebej omogočiti.
+history-remember-option-custom2 =
+    .label = Prilagodi nastavitve zgodovine
 history-remember-option-never =
     .label = ne shranjuje zgodovine
 history-remember-option-custom =
@@ -1666,6 +1688,8 @@ history-custom-button =
     .label = Kaj naj si { -brand-short-name } zapomni
 history-group =
     .label = Zgodovina
+history-remember-option-all2 =
+    .label = Shranjuj zgodovino
 
 ## Privacy Section - Site Data
 

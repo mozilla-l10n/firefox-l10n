@@ -23,9 +23,12 @@ ipprotection-title = VPN
 
 ## Buttons used for all feature introduction callouts
 
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Povezani na javni Wi-Fi? Preizkusite { -brand-product-name }ov vgrajeni VPN.
 ipprotection-feature-introduction-button-primary = Naprej
 ipprotection-feature-introduction-button-secondary-not-now = Ne zdaj
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, hvala
+ipprotection-feature-introduction-button-secondary-remove = Odstrani VPN iz orodne vrstice
 
 ## Site settings callout
 
@@ -33,17 +36,25 @@ ipprotection-site-settings-callout-title = Izberite, kje želite uporabljati VPN
 ipprotection-site-settings-callout-subtitle = Izklopite VPN za določeno spletno mesto in vašo izbiro si bomo zapomnili za naslednji obisk.
 ipprotection-site-settings-callout-button = Razumem
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Novo: Zamenjajte lokacijo
+ipprotection-location-selection-callout-primary-button = Preizkusi
+ipprotection-location-selection-callout-secondary-button = Zapri
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Preizkusite { -brand-product-name }ov vgrajeni VPN
 unauthenticated-get-started = Začni
+unauthenticated-terms-of-service-privacy-notice = Z nadaljevanjem se strinjate s <a data-l10n-name="vpn-terms-of-service">pogoji uporabe</a> in z <a data-l10n-name="vpn-privacy-notice">obvestilom o zasebnosti</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Uporabi VPN na tem spletnem mestu
     .aria-label = VPN je na tem spletnem mestu vklopljen
 site-exclusion-toggle-disabled-1 =
     .label = Uporabi VPN na tem spletnem mestu
     .aria-label = VPN je na tem spletnem mestu izklopljen
+site-exclusion-toggle-description = Stran ne deluje? Poskusite izklopiti VPN.
 ipprotection-settings-link =
     .label = Nastavitve
 
@@ -62,6 +73,20 @@ ipprotection-button-turn-vpn-off-excluded-site = Povsod izklopi VPN
 ipprotection-button-turn-vpn-on = Vklopi VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Vklapljanje …
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Lokacija: priporočena
+ipprotection-recommended-location-badge = NOVO
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Lokacija: { $country }
+ipprotection-locations-subview =
+    .title = Izberite lokacijo
+ipprotecion-locations-subview-recommended-label = Priporočena
+ipprotection-locations-subview-promo-button = Prenesi { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -116,6 +141,9 @@ ipprotection-bandwidth-reset-button = Razumem
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN ustavljen
+vpn-error-page-continue-description = Izberite, kako nadaljevati brez VPN
+vpn-error-page-keep-browsing = Nadaljuj z brskanjem v tej seji
+vpn-error-page-new-session = Začni novo sejo
 vpn-paused-alert-close-tabs-button = Zapri vse zavihke
 vpn-paused-alert-continue-wo-vpn-button = Nadaljuj brez VPN
 vpn-error-alert-title = VPN trenutno ne deluje.

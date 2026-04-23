@@ -18,6 +18,17 @@ firefox-relay-must-login-to-account = Za uporabo e-poštnih mask { -relay-brand-
 firefox-relay-get-unlimited-masks =
     .label = Upravljanje mask
     .accesskey = U
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] Uporabili ste vse brezplačne e-poštne maske ({ $count })
+        [two] Uporabili ste vse brezplačne e-poštne maske ({ $count })
+        [few] Uporabili ste vse { $count } brezplačne e-poštne maske
+       *[other] Uporabili ste vseh { $count } brezplačnih e-poštnih mask
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = Lahko ponovno uporabite eno od njih ali pa izmed vseh izberete drugo.
 firefox-relay-reuse-masks-select-label = Izberite nedavno masko
 firefox-relay-see-all-masks =
     .label = Prikaži vse maske
