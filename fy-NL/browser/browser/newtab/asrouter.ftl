@@ -443,3 +443,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Ynstelle as standert
 set-default-menu-message-primary-button-variant = Ynstelle as primêre browser
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 e-mailmaskers, op ús kosten
+relay-50-masks-announcement-subtitle = Jo ûntfange no 50 fergeze maskers (dat wiene der 5). Brûk der ien foar elke account om jo echte e-mailadres privee te hâlden.
+relay-50-masks-announcement-primary-button = Nei { -relay-brand-name }
+    .accesskey = N
+relay-50-masks-announcement-secondary-button = Slute
+    .accesskey = S

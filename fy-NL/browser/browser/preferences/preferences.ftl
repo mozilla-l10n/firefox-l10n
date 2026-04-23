@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI-bestjoeringen
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Tagonklikheid
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name }-eksperiminten
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiminten
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Automatysk skowe brûke
     .accesskey = m
+keyboard-and-scrolling-group =
+    .label = Toetseboerdnavigaasje en scrolle
+motion-and-link-group =
+    .label = Bewegings- en keppelingsstyl
 browsing-use-smooth-scrolling =
     .label = Floeiend skowe brûke
     .accesskey = l
@@ -792,6 +798,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mear ynfo
 browsing-group =
     .label = Navigearje
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Tagonklikheid
+preferences-default-zoom-select =
+    .aria-label = Standert zoom
+preferences-fonts-family =
+    .label = Lettertypefamylje
+    .accesskey = f
+preferences-fonts-size =
+    .label = Lettergrutte
+    .accesskey = g
+preferences-fonts-advanced-settings =
+    .label = Avansearre ynstellingen
+    .accesskey = a
 
 ## General Section - Proxy
 
@@ -1096,6 +1118,7 @@ search-edit-engine =
     .label = Bewurkje
     .accesskey = w
 search-find-more-link = Mear sykmasinen fine
+search-filtering-for-add-engine = Sykmasine tafoegje
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Dûbel kaaiwurd
@@ -2125,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = Automatysk ûngelokrapporten ferstjoere
     .accesskey = r
 collection-backlogged-crash-reports-description = Dit helpt { -vendor-short-name } problemen mei de browser te analysearjen en op te lossen. Rapporten kinne persoanlike of gefoelige gegevens befetsje.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Deselde ynstellingen, nije foarmjouwing!
+    .message = Wy hawwe dizze side opnij oardere, wêrtroch dizze makliker te scannen en ferkennen is. Jo persoanlike ynstellingen binne net wizige, en alles is der noch. Tip: brûk de sykfunksje om daliks nei wat jo nedich hawwe te springen.
+settings-redesign-promo-dismiss-button =
+    .label = Begrepen
 addon-recommendations =
     .label = { -brand-short-name } tastean om personalisearre útrweidingsrekommandaasjes te dwaan
 addon-recommendations-link = Mear ynfo
@@ -2380,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Fier in oanpaste provider-URL yn
 preferences-doh-header2 =
     .heading = DNS oer HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Ferbinings- en softwarebefeiliging
+preferences-connection-link-section =
+    .label = Ferbinings- en softwarebefeiliging
+    .description = Sjoch hoe’t ferbiningen feilich bliuwe, skeadlike software blokkearre wurdt en websites ferifiearre wurde.
+preferences-connection-link-button =
+    .label = Avansearre ynstellingen
 
 ## The following strings are used in the Download section of settings
 
