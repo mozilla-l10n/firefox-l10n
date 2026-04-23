@@ -1266,6 +1266,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Compartir
     .tooltiptext = Compartir está página
+toolbar-button-tab-groups =
+    .label = Grupos de pestañas
+    .tooltiptext = Mostrar los grupos de pestañas
 
 ## EME notification panel
 
@@ -1446,6 +1449,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Finalizar sesión privada
     .tooltiptext = Finalizar sesión privada
+reset-pbm-panel-heading2 = ¿Borrar datos e iniciar una nueva sesión privada?
+reset-pbm-panel-description2 = Esto borra el historial, las cookies y todos los demás datos del sitio sin cerrar la ventana privada.
 reset-pbm-panel-heading = ¿Finalizar la sesión privada?
 reset-pbm-panel-description = Cerrar todas las pestañas privadas y eliminar el historial, las cookies y todos los otros datos del sitio.
 reset-pbm-panel-always-ask-checkbox =
@@ -1454,6 +1459,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Borrar sesión privada
+    .accesskey = v
 reset-pbm-panel-confirm-button =
     .label = Borrar datos de la sesión
     .accesskey = d
@@ -1701,8 +1709,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitió { $count } criptomineros
     }
 trustpanel-cryptominer-tab-list-header = Estos sitios están tratando de minar criptomonedas:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ¿Tiene una cuenta en este sitio?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } encontró que este sitio tuvo una filtración de datos en los últimos 12 meses. Averigüe si estuvo afectado.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Descartar
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Iniciar un escaneo gratuito
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado en este sitio
        *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados en este sitio
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>¿El sitio se ve roto?</strong> Recargue la página para reducir temporalmente la protección contra rastreo.
+reduced-protection-infobar-reload-button = Recargar
+    .accesskey = R
