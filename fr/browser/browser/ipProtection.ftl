@@ -208,7 +208,7 @@ ip-protection-vpn-upgrade-link =
     .label = Profitez d’une protection renforcée en dehors de { -brand-short-name } grâce à { -mozilla-vpn-brand-name }.
     .description = Choisissez des emplacements VPN personnalisés et protégez toutes vos applications sur un maximum de cinq appareils, que vous soyez chez vous ou sur un Wi-Fi public.
 ip-protection-vpn-upgrade-link-1 =
-    .label = Allez plus loin en matière de protection avec { -mozilla-vpn-brand-name }
+    .label = Renforcez votre protection avec { -mozilla-vpn-brand-name }
     .description = Faites votre choix parmi plus de 300 emplacements et protégez vos applications sur jusqu’à 5 appareils.
 
 ## IP Protection dialogs
