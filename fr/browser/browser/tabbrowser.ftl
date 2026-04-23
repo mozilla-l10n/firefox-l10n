@@ -318,8 +318,7 @@ tab-group-editor-action-copy-links =
     .label =
         { $linkCount ->
             [1] Copier le lien dans le groupe
-            [one] Copier { $linkCount } des liens dans le groupe
-           *[other] Copier { $linkCount } des liens dans le groupe
+           *[other] Copier les { $linkCount } liens dans le groupe
         }
 tab-group-editor-action-save =
     .label = Enregistrer et fermer le groupe
@@ -332,7 +331,7 @@ tab-group-editor-done =
     .accessKey = T
 # Share is a verb here. Meaning to "Share" the "tab group"
 tab-group-editor-action-share-tab-group =
-    .label = Partager un groupe d’onglets
+    .label = Partager le groupe d’onglets
 tab-context-reopen-tab-group =
     .label = Rouvrir le groupe d’onglets
 # Variables:
