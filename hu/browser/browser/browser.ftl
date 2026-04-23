@@ -1266,6 +1266,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Megosztás
     .tooltiptext = Oldal megosztása
+toolbar-button-tab-groups =
+    .label = Lapcsoportok
+    .tooltiptext = Lapcsoportok megjelenítése
 
 ## EME notification panel
 
@@ -1448,6 +1451,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Privát munkamenet lezárása
     .tooltiptext = Privát munkamenet lezárása
+reset-pbm-panel-heading2 = Törli az adatokat, és új privát munkamenetet indít?
+reset-pbm-panel-description2 = Ez a privát ablak bezárása nélkül törli az előzményeket, a sütiket és az összes oldaladatot.
 reset-pbm-panel-heading = Befejezi a privát munkamenetet?
 reset-pbm-panel-description = Az összes privát lap bezárása, valamint az előzmények, sütik és az összes oldaladat törlése.
 reset-pbm-panel-always-ask-checkbox =
@@ -1456,6 +1461,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Mégse
     .accesskey = M
+reset-pbm-panel-confirm-button2 =
+    .label = Privát munkamenet törlése
+    .accesskey = m
 reset-pbm-panel-confirm-button =
     .label = Munkamenet-adatok törlése
     .accesskey = t
@@ -1703,6 +1711,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] A { -brand-product-name } engedélyezett { $count } kriptobányászt
     }
 trustpanel-cryptominer-tab-list-header = Ezek a webhelyek próbálnak meg kriptovalutát bányászni:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Van fiókja ezen az oldalon?
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> nyomkövető blokkolva ezen az oldalon
