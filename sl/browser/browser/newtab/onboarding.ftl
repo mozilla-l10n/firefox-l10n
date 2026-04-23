@@ -497,10 +497,14 @@ create-backup-screen-2-title = Izberite podatke { -brand-product-name(sklon: "ro
 create-backup-screen-2-subtitle = Traja le minuto. Podatki se varnostno kopirajo enkrat dnevno.
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = Preprosta nastavitev
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = Zaznamki, zgodovina, nastavitve in drugi podatki
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
 create-backup-screen-2-easy-list-2 = Ne vključuje gesel in plačilnih sredstev
 # Preceded by a red X indicating that "Easy setup" backups are not encrypted
 create-backup-screen-2-easy-list-3 = Ni šifrirano
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = Vsi podatki
 # Preceded by a green check mark indicating that these are included in the "All data" backup
 create-backup-screen-2-all-list-2 = Vključuje gesla in plačilna sredstva
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
@@ -517,12 +521,15 @@ fx-backup-opt-in-cancel-btn-label = Nazaj
 
 ## Fx Backup confirmation screen strings
 
+fx-backup-confirmation-screen-title = Varnostno kopiranje je načrtovano
 fx-backup-confirmation-screen-close-button = Zapri
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = Vključeni so vsi podatki brskanja
 fx-backup-confirmation-screen-all-data-item-text-2 = Shranjeno na vašo napravo
 fx-backup-confirmation-screen-all-data-item-text-3 = Šifrirano in zaščiteno z geslom
+fx-backup-confirmation-screen-easy-setup-item-text-1 = Vključeni so zaznamki, zgodovina, nastavitve in drugi podatki
 fx-backup-confirmation-screen-easy-setup-item-text-2 = Shranjeno na napravo
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Gesla in plačilna sredstva niso vključena
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Za vključitev občutljivih podatkov obiščite <a data-l10n-name="settings">nastavitve</a>.
@@ -534,6 +541,7 @@ restore-from-backup-secondary-top-button = Obnovitev iz varnostne kopije
 restore-from-backup-title = Povrnite si { -brand-short-name(sklon: "tozilnik") }, kakršen vam je všeč
 restore-from-backup-subtitle = Obnovite zaznamke, zgodovino in druge podatke ter nadaljujte z brskanjem.
 restore-from-backup-secondary-button = Ne obnovi
+multiple-backups-info-tile = <strong>Najdenih je bilo več datotek z varnostnimi kopijami.</strong> Izbrana je najnovejša med njimi. Druge profile lahko obnovite v <a data-l10n-name="settings-label">nastavitvah</a>.
 
 ## Restored from Backup spotlight
 

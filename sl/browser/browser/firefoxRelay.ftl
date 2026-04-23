@@ -18,6 +18,13 @@ firefox-relay-must-login-to-account = Za uporabo e-poštnih mask { -relay-brand-
 firefox-relay-get-unlimited-masks =
     .label = Upravljanje mask
     .accesskey = U
+firefox-relay-reuse-masks-select-label = Izberite nedavno masko
+firefox-relay-see-all-masks =
+    .label = Prikaži vse maske
+    .accesskey = s
+firefox-relay-dismiss =
+    .label = Zapri
+    .accesskey = Z
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Zaščitite svoj e-poštni naslov:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

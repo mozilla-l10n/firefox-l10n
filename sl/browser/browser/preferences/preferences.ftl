@@ -65,6 +65,8 @@ category-sync3 =
 pane-ai-controls-title = Nadzor UI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Dostopnost
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name }ovi poskusi
 category-experimental =
     .tooltiptext = { -brand-short-name }ovi poskusi
@@ -543,6 +545,9 @@ check-user-spelling =
     .accesskey = v
 spellcheck-download-dictionaries =
     .label = Prenesi slovarje
+spellcheck-promo =
+    .heading = Kako uporabljati preverjanje črkovanja
+    .message = Z desno miškino tipko kliknite na polje z besedilom, da vklopite ali izklopite preverjanje črkovanja ali da zamenjate jezik. Vsa besedilna polja ne podpirajo preverjanja črkovanja.
 
 ## General Section - Files and Applications
 
@@ -791,6 +796,19 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Več o tem
 browsing-group =
     .label = Brskanje
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Dostopnost
+preferences-default-zoom-select =
+    .aria-label = Privzeta povečava
+preferences-fonts-family =
+    .label = Družina pisav
+    .accesskey = D
+preferences-fonts-size =
+    .label = Velikost pisave
+    .accesskey = s
 
 ## General Section - Proxy
 

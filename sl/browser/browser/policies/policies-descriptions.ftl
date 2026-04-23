@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Nastavi, do katerih pravilnikov lahko dostopajo razširitve WebExtensions preko chrome.storage.managed.
+policy-AIControls = Nastavi dovoljenja za UI.
 policy-AllowedDomainsForApps = Določi domene, ki jim je dovoljen dostop do Google Workspace.
 policy-AllowFileSelectionDialogs = Dovoli pogovorna okna za izbiro datotek.
 policy-AppAutoUpdate = Omogoči ali onemogoči samodejne posodobitve programa.
@@ -90,6 +91,7 @@ policy-Homepage = Nastavi in po potrebi zakleni domačo stran.
 policy-HttpAllowlist = Izvori, ki ne bodo nadgrajeni na HTTPS.
 policy-HttpsOnlyMode = Dovoli omogočitev načina samo HTTPS.
 policy-InstallAddonsPermission = Določenim spletnim mestom dovoli nameščanje dodatkov.
+policy-IPProtectionAvailable = Uporabnikom prepreči dostop do vgrajenega VPN.
 policy-LegacyProfiles = Onemogoči možnost ustvarjanja ločenega profila za vsako namestitev.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +129,7 @@ policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
 policy-PrivateBrowsingModeAvailability = Nastavi razpoložljivost zasebnega brskanja.
 policy-PromptForDownloadLocation = Pri prenosu vprašaj, kam shraniti datoteko.
 policy-Proxy = Nastavi posrednika.
+policy-RelaunchRequired = Zahtevaj občasen ponovni zagon { -brand-short-name(sklon: "rodilnik") } v določenih intervalih in obvesti uporabnika o skorajšnjem ponovnem zagonu.
 policy-RequestedLocales = Nastavi vrstni red zahtevanih jezikov za program.
 policy-SanitizeOnShutdown2 = Ob izhodu počisti podatke brskanja.
 policy-SearchBar = Nastavi privzet položaj vrstice za iskanje. Uporabnik ga lahko še vedno prilagodi.

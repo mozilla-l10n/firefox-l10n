@@ -530,6 +530,12 @@ newtab-weather-opt-in-yes =
     .label = Da
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Najvišja
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Najnižja
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -581,6 +587,10 @@ newtab-topic-selection-button-pick-interests = Izberite svoja zanimanja
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Sledi
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Sledi temi { $topic }
 newtab-section-following-button = Sledite
 newtab-section-unfollow-button = Nehaj slediti
 # A modal may appear next to the Follow button, directing users to try out the feature
@@ -665,6 +675,18 @@ newtab-report-cancel = Prekliči
 newtab-report-submit = Pošlji
 newtab-toast-thanks-for-reporting =
     .message = Hvala za prijavo.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Zdaj sledite temi { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Ne sledite več temi { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Zgodbe o temi { $topic } se vam ne bodo več prikazovale.
 
 ## Strings for task / to-do list productivity widget
 

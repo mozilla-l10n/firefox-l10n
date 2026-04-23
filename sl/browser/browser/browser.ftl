@@ -282,6 +282,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali izločanje podatkov platna.
 urlbar-midi-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali dostop do MIDI.
+urlbar-serial-blocked =
+    .tooltiptext = Temu spletnemu mestu ste prepovedali dostop do zaporednih vrat.
 urlbar-install-blocked =
     .tooltiptext = Temu spletnemu mestu ste prepovedali nameščanje dodatkov.
 # Variables
@@ -410,6 +412,8 @@ quickactions-cmd-help = pomoč, podpora
 # Opens the devtools web inspector
 quickactions-inspector2 = Odpri razvojna orodja
 quickactions-cmd-inspector2 = pregledovalnik, razvojna orodja, orodja za razvijalce, devtools
+# Opens Firefox Library
+quickactions-cmd-library = knjižnica
 quickactions-library = Odpri knjižnico
 quickactions-cmd-inspector = pregledovalnik, razvojna orodja
 # Opens about:logins
@@ -654,6 +658,11 @@ sharing-warning-proceed-to-tab =
     .label = Nadaljuj na zavihek
 sharing-warning-disable-for-session =
     .label = Onemogoči deljenje zaščite za to sejo
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Izberite zaporedna vrata:
+webserial-no-ports-available = Ni razpoložljivih zaporednih vrat
 
 ## DevTools F12 popup
 
@@ -1107,6 +1116,9 @@ fullscreen-warning-no-domain = Ta dokument je zdaj prikazan čez celoten zaslon
 fullscreen-exit-button = Izhod iz celozaslonskega načina (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Izhod iz celozaslonskega načina (Esc)
+fullscreen-keyboardlock-exit-button = Izhod iz celozaslonskega načina (pritisnite in pridržite Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Izhod iz celozaslonskega načina (pritisnite in pridržite esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1266,6 +1278,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Deli
     .tooltiptext = Deli to stran
+toolbar-button-tab-groups =
+    .label = Skupine zavihkov
+    .tooltiptext = Prikaži skupine zavihkov
 
 ## EME notification panel
 
@@ -1450,6 +1465,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Končaj zasebno sejo
     .tooltiptext = Končaj zasebno sejo
+reset-pbm-panel-heading2 = Želite počistiti podatke in začeti novo zasebno sejo?
+reset-pbm-panel-description2 = S tem boste izbrisali zgodovino, piškotke in vse druge podatke spletnih mest, ne da bi zaprli zasebno okno.
 reset-pbm-panel-heading = Želite končati zasebno sejo?
 reset-pbm-panel-description = Zaprite vse zasebne zavihke ter izbrišite zgodovino, piškotke in druge podatke strani.
 reset-pbm-panel-always-ask-checkbox =
@@ -1458,6 +1475,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Prekliči
     .accesskey = k
+reset-pbm-panel-confirm-button2 =
+    .label = Počisti zasebno sejo
+    .accesskey = č
 reset-pbm-panel-confirm-button =
     .label = Izbriši podatke seje
     .accesskey = I
@@ -1745,6 +1765,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } je dovolil { $count } kriptorudarjev
     }
 trustpanel-cryptominer-tab-list-header = Ta spletna mesta poskušajo rudariti kriptovalute:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Imate račun na tej strani?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Zapri
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Začni brezplačen pregled
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Na tej strani je bil blokiran <span data-l10n-name="count">{ $count }</span> sledilec
@@ -1752,3 +1776,8 @@ trustpanel-blocker-section-header2 =
         [few] Na tej strani so bili blokirani <span data-l10n-name="count">{ $count }</span> sledilci
        *[other] Na tej strani je bilo blokiranih <span data-l10n-name="count">{ $count }</span> sledilcev
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Ponovno naloži
+    .accesskey = P
