@@ -97,6 +97,17 @@ ipprotection-button-connecting = Activando…
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Ubicación: Recomendada
+ipprotection-recommended-location-description = { -brand-product-name } busca la ubicación más rápida
+ipprotection-recommended-location-badge = NUEVO
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Ubicación: { $country }
+ipprotection-locations-subview =
+    .title = Elegir ubicación
+ipprotection-locations-subview-description = Seleccionar una ubicación diferente desde la que navegar.
+ipprotecion-locations-subview-recommended-label = Recomendado
+ipprotection-locations-subview-recommended-description = Buscar la ubicación más rápida
+ipprotection-locations-subview-promo-button = Obtener { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -107,6 +118,10 @@ ipprotection-connection-status-paused-description = Se usaron todos los { $maxUs
 upgrade-vpn-title = Obtener protección adicional más allá del navegador
 upgrade-vpn-description = Seleccione ubicación de la VPN, use la VPN para todas las aplicaciones y hasta en 5 dispositivos, y manténgase seguro en cualquier red — en casa o en una red Wi-Fi pública.
 upgrade-vpn-button = Probar { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN en pausa
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Se usaron todos los { $maxUsage } GB de datos de su VPN. El acceso se restablecerá el próximo mes.
 
 ## Messages and errors
 
@@ -156,12 +171,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Se están por te
 ip-protection-description =
     .label = VPN
     .description = VPN integrada para mejorar la privacidad mientras se navega en { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN integrada
+    .description = Privacidad extra ocultando la ubicación al navegar.
 ip-protection-learn-more = Conocer más
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Probar la VPN integrada de { -brand-short-name }
     .message = Oculte la ubicación mientras navegue en { -brand-short-name }. Hay { $maxUsage } GB de datos de VPN gratis cada mes.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Probar la VPN integrada de { -brand-short-name }
+    .message = Navegación con protección extra ocultando la ubicación. Incluye { $maxUsage } GB gratis de datos de VPN cada mes.
 ip-protection-not-opted-in-button = Comenzar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -233,6 +256,12 @@ vpn-paused-alert-title = VPN en pausa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Se usaron todos los { $maxUsage } GB de datos de su VPN. El acceso a la VPN se restablecerá el próximo mes.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Se usaron todos los { $maxUsage } GB de datos de su VPN. El acceso se restablecerá el próximo mes.
+vpn-error-page-continue-description = Elegir cómo continuar sin VPN
+vpn-error-page-keep-browsing = Seguir navegando en esta sesión
+vpn-error-page-new-session = Empezar una sesión nueva
 vpn-paused-alert-close-tabs-button = Cerrar todas las pestañas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
 vpn-error-alert-title = La VPN no está funcionando en este momento.
