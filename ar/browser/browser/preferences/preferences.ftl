@@ -1122,6 +1122,7 @@ search-edit-engine =
     .label = حرّر
     .accesskey = ر
 search-find-more-link = اعثر على المزيد من محركات البحث
+search-filtering-for-add-engine = أضِف محركًا
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = كرر الكلمة المفتاحية
@@ -1168,8 +1169,14 @@ sync-group-label =
     .label = المزامنة
 account-group-label2 =
     .label = الحساب
+account-placeholder2 =
+    .label = لست والجًا
+    .description = لِج وحافظ على خصوصية بياناتك وتعميتها، مع إمكانية الوصول إليها فورًا في كل مكان تستخدم فيه { -brand-short-name }.
 account-group-label =
     .label = حساب { -vendor-short-name }
+account-placeholder =
+    .label = لست والجًا
+    .description = لِج للحفاظ على خصوصية بياناتك وتعميتها ومزامنتها عبر جميع أجهزتك.
 account-sync-section =
     .heading = الحساب والمزامنة
 
@@ -1180,6 +1187,9 @@ sync-signedout-caption = خُذ الوِب معك
 sync-signedout-description2 = زامن علاماتك وتأريخك وألسنتك وكلمات سرك وإضافاتك و الإعدادات بين كل أجهزتك.
 sync-signedout-account-signin3 =
     .label = لِج كي تبدأ المزامنة…
+    .accesskey = ل
+sync-signedout-account-short =
+    .label = لج
     .accesskey = ل
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -1219,7 +1229,13 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } ليس مؤكّدًا.
+sync-signedin-unverified2 =
+    .label = لم يُأكّد { $email } بعد
+    .description = تحقق من بريدك الوارد لتأكيد حسابك وجعله رسميًا.
 sync-signedin-login-failure = من فضلك لج لإعادة التوصيل { $email }
+sync-signedin-login-failure2 =
+    .label = لقد سُجّل خروجك من { $email }
+    .description = لِج مرة أخرى لإعادة الاتصال وبدء مزامنة بياناتك.
 
 ## Variables
 ## $email (string) - Email used for Firefox account
@@ -1282,8 +1298,11 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = أنت تُزامن هذه العناصر عبر جميع أجهزتك المتصلة:
 sync-syncing-across-devices-heading-2 = البيانات المزامنة عبر الأجهزة
+sync-syncing-across-devices-empty-state2 =
+    .label = أدر البيانات المتزامنة
+    .description = أنت لا تُزامن أي شيء... حتى الآن. ابدأ المزامنة للحصول على جميع بياناتك على جميع أجهزتك.
 sync-syncing-across-devices-empty-state =
-    .label = أنت لا تزامن أي شيء... حتى الآن.
+    .label = أنت لا تُزامن أي شيء... حتى الآن.
     .description = ابدأ المزامنة للحصول على جميع بياناتك على جميع أجهزتك.
 sync-currently-syncing-bookmarks = العلامات
 sync-currently-syncing-history = التأريخ
@@ -1475,8 +1494,14 @@ forms-additional-protections-header =
 forms-primary-pw-use =
     .label = استعمل كلمة سر رئيسيّة
     .accesskey = س
+forms-primary-pw-use-2 =
+    .label = استعمل كلمة سر رئيسية
+    .description = يضيف طبقة حماية إضافية لتأمين كلمات سرك المحفوظة.
+    .accesskey = م
 forms-primary-pw-set =
     .label = عيِّن كلمة سر رئيسية
+forms-primary-pw-on =
+    .label = كلمة السر الأساسية مُفعّلة
 forms-primary-pw-change-2 =
     .label = غيّر كلمة السر الرئيسية
 # Label for button to disable primary password.
@@ -1656,6 +1681,14 @@ history-clear-button =
     .accesskey = ت
 history-header2 =
     .heading = التأريخ
+history-section-header =
+    .label = التأريخ
+    .description = اختر ما تريد أن يتذكره { -brand-short-name } عند إغلاق المتصفح.
+history-custom-section-header =
+    .label = إعدادات متقدّمة
+    .description = خصّص ما تريد أن يتذكره { -brand-short-name } عند إغلاق المتصفح.
+history-custom-button =
+    .label = اختر ما تريد أن يتذكره { -brand-short-name }
 history-group =
     .label = التأريخ
 history-remember-option-all2 =
@@ -1746,10 +1779,12 @@ cookies-site-data-group =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = تقليل لافتات ملفات تعريف الارتباط
+cookie-banner-handling-description = { -brand-short-name } يحاول تلقائيًا رفض طلبات ملفات تعريف الارتباط على لافتات ملفات تعريف الارتباط في المواقع المدعومة.
 
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = مانع لافتة ملفات تعريف الارتباط
+cookie-banner-blocker-description = عندما يطلب منك موقع ما الإذن باستخدام ملفات تعريف الارتباط في وضع التصفح الخاص، فإن { -brand-short-name } يرفض ذلك تلقائيًا. هذا متاح فقط على المواقع المدعومة.
 cookie-banner-learn-more = اطّلع على المزيد
 forms-handle-cookie-banners =
     .label = قلّل لافتات ملفات تعريف الارتباط
@@ -2103,6 +2138,12 @@ collection-backlogged-crash-reports2 =
     .label = أرسل تقارير الإنهيار تلقائيًا
     .accesskey = س
 collection-backlogged-crash-reports-description = يساعد هذا { -vendor-short-name } في تشخيص المشكلات وإصلاحها بالمتصفح. قد تتضمن التقارير بيانات شخصية أو حساسة.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = نفس الإعدادات، مظهر جديد!
+    .message = لقد أعدنا تنظيم هذه الصفحة لتسهيل تصفحها واستكشافها. لم تتغير إعداداتك الشخصية، وكل شيء لا يزال موجودًا هنا. نصيحة: استخدم البحث للانتقال مباشرة إلى ما تحتاجه.
+settings-redesign-promo-dismiss-button =
+    .label = فهمت
 addon-recommendations =
     .label = اسمح بأن يقترح { -brand-short-name } الامتدادات المخصّصة لك
 addon-recommendations-link = اطّلع على المزيد
@@ -2359,6 +2400,16 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS عبر HTTPS
 
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = أمان الاتصال والبرمجيات
+preferences-connection-link-section =
+    .label = أمان الاتصال والبرمجيات
+    .description = تعرّف على كيفية الحفاظ على أمان الاتصالات وحظر البرامج الضارة والتحقق من صحة المواقع الإلكترونية.
+preferences-connection-link-button =
+    .label = إعدادات متقدّمة
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = سطح المكتب
@@ -2461,6 +2512,9 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .label = الحماية الموسّعة من التعقب
     .description = تستخدم المواقع الإلكترونية متعقبات لملاحقتك عبر الإنترنت وعرض إعلانات مزعجة. يحميك { -brand-short-name } أثناء التصفح، حيث يحظر المتعقبات تلقائيًا لتظل أنت المتحكم في أثرك الرقمي.
+preferences-etp-level-standard =
+    .label = القياسي (المبدئي)
+    .description = حماية قوية وموثوقة تعمل بسلاسة مع معظم المواقع الإلكترونية.
 preferences-etp-level-strict =
     .label = صارم
     .description = حماية أقوى تحظر المزيد من أدوات التتبع، ولكنها قد تؤدي إلى تعطّل بعض المواقع.
@@ -2469,8 +2523,14 @@ preferences-etp-level-custom =
     .description = اختر الحمايات التي تريد تفعيلها أو إيقافها.
 preferences-etp-status-advanced-button =
     .label = إعدادات متقدّمة
+preferences-etp-status-protections-dashboard-link =
+    .label = اطّلع على لوحة معلومات الحماية الشخصية الخاصة بك
+    .description = اكتشف عدد أدوات التتبع الخفية التي حظرها { -brand-short-name } من أجلك، بما في ذلك أدوات تتبع وسائل التواصل الاجتماعي وأدوات البصمة الرقمية وبرمجيات تعدين العملات الرقمية.
 preferences-etp-header =
     .heading = الحماية الموسّعة من التعقب
+preferences-etp-advanced-settings-group =
+    .label = إعدادات متقدّمة
+    .description = تستخدم المواقع الإلكترونية أدوات تتبع لملاحقتك عبر الإنترنت وعرض إعلانات مزعجة. يحميك { -brand-short-name } أثناء التصفح، حيث يحجب معظم أدوات التتبع تلقائيًا لتظل أنت المتحكم في أثرك الرقمي.
 preferences-etp-customize-button =
     .label = خصّص حماية التعقب
 preferences-etp-reload-tabs-hint =
@@ -2479,9 +2539,14 @@ preferences-etp-reload-tabs-hint-button =
     .label = أعِد تحميل كل الألسنة
 preferences-etp-rfp-warning-message =
     .message = أنت تستخدم ميزة Resist Fingerprinting (RFP)، والتي تحل محل بعض إعدادات حماية التبصيم في { -brand-short-name }. قد يتسبب هذا في تعطل بعض المواقع.
+preferences-etp-level-warning-message =
+    .heading = تنبيه! قد لا تعمل بعض المواقع كما هو متوقع.
+    .message = تدمج بعض المواقع أدوات تتبع في ميزاتها أو محتواها. وعندما يحظرها { -brand-short-name }، قد يبدو الموقع معطوبًا. جرّب استخدام "أصلح مشاكل الموقع" أو أوقِف تشغيل الحماية من التتبع في ذلك الموقع.
 preferences-etp-manage-exceptions-button =
     .label = أدر الاستثناءات
     .description = إدارة المواقع الإلكترونية التي تم تعطيل "الحماية الموسّعة من التعقب" فيها.
+preferences-etp-customize-header =
+    .heading = خصّص حماية التعقب
 preferences-etp-custom-control-group =
     .label = حماية التعقب
     .description = اختر الحمايات التي تريد تفعيلها أو إيقافها.
