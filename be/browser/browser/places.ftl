@@ -271,3 +271,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Сістэма гісторыі і закладак не дзейнічае, бо адзін з файлаў { -brand-short-name } скарыстоўваецца іншай праграмай. Гэтую праблему могуць выклікаць асобныя праграмы бяспекі.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Падзяліцца папкай

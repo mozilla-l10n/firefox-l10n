@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> вярнуў 
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Сервер па адрасе <strong>{ $hostname }</strong> вярнуў памылку: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> адправіў назад загаловак з пустымі сімваламі, недапушчальнымі па стандартах вэб-бяспекі.
+fp-neterror-content-encoding-intro = Старонку, якую вы спрабуеце пабачыць, немагчыма паказаць, бо яна выкарыстоўвае недапушчальную або непадтрыманую форму сціскання.
 fp-neterror-coop-coep-intro = { -brand-short-name } не загрузіў гэтую старонку, таму што канфігурацыя бяспекі, здаецца, не адпавядае папярэдняй старонцы.
 fp-neterror-blocked-by-policy-intro = Ваша ўстанова заблакавала доступ да гэтай старонкі ці сайта.
 fp-neterror-http-auth-disabled-intro = Нехта, выдаючы сябе за сайт, можа паспрабаваць скрасці такія рэчы, як ваша імя карыстальніка, пароль або адрас электроннай пошты.

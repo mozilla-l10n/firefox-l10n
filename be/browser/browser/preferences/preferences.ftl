@@ -2152,6 +2152,10 @@ collection-backlogged-crash-reports2 =
     .label = Аўтаматычна адпраўляць справаздачы аб збоях
     .accesskey = с
 collection-backlogged-crash-reports-description = Гэта дапамагае { -vendor-short-name } дыягнаставаць і выпраўляць праблемы з браўзерам. Справаздачы могуць уключаць асабістыя або канфідэнцыяльныя звесткі.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Тыя ж налады, новы выгляд!
+    .message = Мы рэарганізавалі гэту старонку, каб яе было лягчэй праглядаць і даследаваць. Вашы асабістыя налады не змяніліся, і ўсё па-ранейшаму тут. Парада: выкарыстоўвайце пошук, каб адразу перайсці да патрэбнага.
 settings-redesign-promo-dismiss-button =
     .label = Зразумела
 addon-recommendations =
@@ -2414,6 +2418,9 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Бяспека падключэння і праграмнага забеспячэння
+preferences-connection-link-section =
+    .label = Бяспека падключэння і праграмнага забеспячэння
+    .description = Паглядзіце, як абаронены злучэнні, блакуецца шкоднае праграмнае забеспячэнне і правяраюцца вэб-сайты.
 preferences-connection-link-button =
     .label = Дадатковыя налады
 
