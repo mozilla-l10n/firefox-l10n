@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = خصّص هذه الصفحة
 newtab-customize-panel-icon-button-label = خصّص
+newtab-customize-panel-label =
+    .label = خصّص
 newtab-personalize-settings-icon-label =
     .title = خصّص صفحة اللسان الجديد
     .aria-label = إعدادات
@@ -583,6 +585,9 @@ newtab-custom-wallpaper-cta = جربه
 newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل { -brand-product-name } خاصًا بك
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
