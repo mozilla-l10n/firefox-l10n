@@ -60,6 +60,7 @@ about-webauthn-auth-option-null = غير مدعوم
 
 about-webauthn-auth-info-certifications = الشهادات
 about-webauthn-auth-info-min-pin-length = الحد الأدنى لطول رقم التعريف الشخصي
+about-webauthn-auth-info-force-pin-change = أجبر تغيير رمز PIN
 about-webauthn-auth-info-algorithms = الخوارزميات
 about-webauthn-auth-info-pin-protocols = بروتوكولات رقم التعريف الشخصي
 about-webauthn-auth-info-max-msg-size = الحد الأقصى لحجم الرسالة

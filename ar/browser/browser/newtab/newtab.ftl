@@ -485,6 +485,8 @@ newtab-weather-change-location-search-input-placeholder =
     .placeholder = ابحث عن الموقع
     .aria-label = ابحث عن الموقع
 newtab-weather-menu-weather-display = عرض الطقس
+newtab-weather-todays-forecast = توقعات الطقس اليوم
+newtab-weather-see-full-forecast = اطّلع على التوقعات كاملة
 # Display options are:
 # - Simple: Displays a current weather condition icon and the current temperature
 # - Detailed: Include simple information plus a short text summary: e.g. "Mostly cloudy"
@@ -543,6 +545,7 @@ newtab-topic-selection-button-pick-interests = اختر اهتماماتك
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = تابع
+newtab-section-following-button = يتابع
 newtab-section-unfollow-button = ألغِ المتابعة
 
 ## Button to block/unblock listed topics
@@ -570,6 +573,7 @@ newtab-section-manage-topics-button-v2 =
     .label = أدِر المواضيع
 newtab-section-mangage-topics-followed-topics-empty-state = لم تتابع أي مواضيع بعد.
 newtab-section-mangage-topics-blocked-topics = محظور
+newtab-section-mangage-topics-blocked-topics-empty-state = لم تحظر أي موضوع بعد.
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ارفع خلفية شاشتك أو اختر لونًا مخصصًا لجعل { -brand-product-name } خاصًا بك.
 newtab-custom-wallpaper-cta = جربه
@@ -585,6 +589,7 @@ newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = افحص الرمز للتصفح بشكل آمن أثناء التنقل.
+newtab-download-mobile-highlight-body-variant-b = استكمل من حيث توقفت عند مزامنة ألسنتك وكلمات سرك والمزيد.
 newtab-download-mobile-highlight-body-variant-c = أتعلم أنه يمكنك اصطحاب { -brand-product-name } معك أينما ذهبت؟ نفس المتصفح. في جيبك.
 newtab-download-mobile-highlight-image =
     .aria-label = رمز QR لتنزيل { -brand-product-name } للجوال

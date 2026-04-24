@@ -75,6 +75,7 @@ policy-ExtensionSettings = إدارة كل ما يتعلّق بتثبيت الا
 policy-ExtensionUpdate = تفعيل/تعطيل تحديث الامتدادات تلقائيًا.
 policy-FirefoxHome2 = اضبط { -firefox-home-brand-name }.
 policy-FirefoxSuggest = اضبط { -firefox-suggest-brand-name }.
+policy-GoToIntranetSiteForSingleWordEntryInAddressBar = أجبر التنقل المباشر إلى موقع الإنترانت بدلاً من البحث عند كتابة كلمات مفردة في شريط العناوين.
 policy-Handlers = ضبط طرائق التعامل مع التطبيقات المبدئية.
 policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسريع العتادي.
 # “lock” means that the user won’t be able to change this setting
@@ -134,7 +135,7 @@ policy-SitePolicies = سياسات خاصة بموقع.
 policy-SkipTermsOfUse2 = لا تعرض شروط الاستخدام وتنويه الخصوصية عند بدء التشغيل. أنت تقرّ بأنك تقبل شروط الاستخدام وتملك الصلاحية لقبولها نيابةً عن جميع الأفراد الذين تمنحهم حق الوصول إلى هذا المتصفح.
 policy-SSLVersionMax = ضبط إصدارة SSL العليا.
 policy-SSLVersionMin = ضبط إصدارة SSL الدنيا.
-policy-StartDownloadsInTempDirectory = فرض بدء التنزيلات في موقع محلي مؤقت بدلاً من مجلد التنزيل المبدئي.
+policy-StartDownloadsInTempDirectory = أجبر بدء التنزيلات في موقع محلي مؤقت بدلاً من مجلد التنزيل المبدئي.
 policy-SupportMenu = إضافة عنصر ”الدعم“ (يمكن تخصيصه) في قائمة المساعدة.
 policy-TranslateEnabled = فعّل أو عطّل ترجمة صفحة الوِب.
 policy-UserMessaging = عدم عرض بعض الرسائل بعينها للمستخدم.

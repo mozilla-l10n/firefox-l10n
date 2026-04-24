@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = لم نعد ندعم ميزة "لا تتعقبني".
 non-technical-privacy-heading =
     .label = حمايات إضافية
+preferences-privacy-relay-available =
+    .label = اقتراح أقنعة البريد الإلكتروني { -relay-brand-name }
+    .description = يخفي عنوان بريدك الإلكتروني الحقيقي لحماية صندوق الوارد الخاص بك من السخام.
 non-technical-privacy-header = تفضيلات خصوصية الموقع
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -65,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = أنظمة التحكم بالذكاء الاصطناعي
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = الإتاحة
+    .title = { pane-accessibility-title }
 pane-experimental-title = تجارب { -brand-short-name }
 category-experimental =
     .tooltiptext = تجارب { -brand-short-name }
@@ -131,6 +136,9 @@ extension-controlling-proxy-config = يتحكم <img data-l10n-name ="icon"/> <s
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = لتفعيل الامتداد انتقل إلى <img data-l10n-name="addons-icon"/> الإضافات في <img data-l10n-name="menu-icon"/> القائمة.
 extension-controlled-enable-2 = لإعادة تفعيل هذه الامتدادة، تفضل بزيارة <a data-l10n-name="addons-link">الامتدادات والسمات</a>.
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = يتحكم { $name } في بعض إعدادات صفحتك الرئيسية.
 
 ## Preferences UI Search Results
 
@@ -289,6 +297,8 @@ containers-remove-cancel-button = لا تزِل هذه الحاوية
 settings-tabs-show-image-in-preview =
     .label = أظهِر معاينة الصورة عند التحويم فوق اللسان
     .accessKey = ع
+settings-tabs-drag-to-create-tab-groups =
+    .label = اسحب الألسنة معًا لإنشاء مجموعات الألسنة
 browser-layout-header2 =
     .label = تخطيط المتصفح
 browser-layout-horizontal-tabs2 =
@@ -415,6 +425,9 @@ preferences-zoom-text-only =
     .accesskey = ن
 language-header = اللّغات
 choose-language-description = اختر لغتك المفضلة لعرض الصفحات
+website-language-heading =
+    .label = لغة الموقع الإلكتروني
+    .description = تُعرض بعض صفحات الوِب بلغات متعدّدة. اختر اللغات حسب ترتيبك المفضل.
 website-preferred-language =
     .label = اللغات المفضلة
 website-add-language =
@@ -459,6 +472,9 @@ settings-translations-header =
     .description = ترجم صفحات أو نصوصًا محدّدة. لحماية خصوصيتك، تظل الترجمات على جهازك.
 settings-translations-offer-to-translate-label =
     .label = قدّم ترجمة الصفحة الكاملة
+settings-translations-more-settings-button =
+    .label = المزيد من إعدادات الترجمة
+    .description = عيّن التفضيلات للغات والمواقع الإلكترونية والترجمة دون اتصال بالإنترنت.
 settings-translations-subpage-header =
     .heading = المزيد من إعدادات الترجمة
 settings-translations-subpage-speed-up-translation-header =

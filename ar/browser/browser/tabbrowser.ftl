@@ -305,6 +305,14 @@ tab-context-unnamed-group =
     .label = مجموعة غير مسمّاة
 tab-group-name-default = مجموعة غير مسمّاة
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = مجموعات الألسنة
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -367,6 +375,19 @@ tab-group-editor-action-new-tab =
     .label = لسان جديد في المجموعة
 tab-group-editor-action-new-window =
     .label = انقل المجموعة إلى نافذة جديدة
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] انسخ الرابط في المجموعة
+            [zero] لا راوابط للنسخ في المجموعة
+            [one] انسخ رابط في المجموعة
+            [two] انسخ رابطين في المجموعة
+            [few] انسخ { $linkCount } روابط في المجموعة
+            [many] انسخ { $linkCount } رابطًا في المجموعة
+           *[other] انسخ { $linkCount } رابط في المجموعة
+        }
 tab-group-editor-action-save =
     .label = احفظ وأغلق المجموعة
 tab-group-editor-action-ungroup =
@@ -376,6 +397,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = تمّ
     .accessKey = م
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = شارك مجموعة الألسنة
 tab-context-reopen-tab-group =
     .label = إعادة فتح مجموعة لسان
 # Variables:
