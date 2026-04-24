@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Nyt privat vindue
 appmenuitem-history =
     .label = Historik
+appmenuitem-tab-groups =
+    .label = Fanebladsgrupper
 appmenuitem-downloads =
     .label = Filhentning
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tilpas værktøjslinje…
+appmenu-abouttranslations =
+    .label = Oversæt…
 appmenu-developer-tools-subheader = Browser-værktøj
 appmenu-developer-tools-extensions =
     .label = Udvidelser til udviklere

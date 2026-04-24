@@ -410,6 +410,9 @@ quickactions-cmd-help = hjælp, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Åbn udviklerværktøj
 quickactions-cmd-inspector2 = inspektør, udviklerværktøj, værktøj til udviklere
+# Opens Firefox Library
+quickactions-cmd-library = arkiv
+quickactions-library = Åbn arkiv
 quickactions-cmd-inspector = inspektør, udviklerværktøj
 # Opens about:logins
 quickactions-logins2 = Håndter adgangskoder
@@ -538,6 +541,8 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Din forbindelse til webstedet er ikke sikker.
 identity-connection-verified = Din forbindelse til dette websted er sikker.
 identity-ev-owner-label = Certifikatet er udstedt til:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Kvalificeret som angivet i forordning (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.
 identity-remove-cert-exception =
     .label = Fjern undtagelser
@@ -1001,6 +1006,7 @@ urlbar-searchmode-popup-one-off-header = Søg denne gang med:
 # reset after submitting.
 urlbar-searchmode-popup-header = Søg med:
 urlbar-searchmode-popup-search-settings-panelitem = Søgeindstillinger
+urlbar-searchmode-popup-settings-panelitem = Indstillinger
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

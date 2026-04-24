@@ -6,4 +6,5 @@ default-browser-agent-task-description = Opgaven standard-browser-agent undersø
 default-browser-notification-header-text = Bliv ved med at bruge { -brand-short-name }?
 default-browser-notification-body-text = Din standardbrowser blev ændret fornylig. Klik for at gendanne { -brand-short-name } som standard.
 default-browser-notification-yes-button-text = Ja
+default-browser-notification-privacy-no-button-text = Nej tak
 default-browser-notification-no-button-text = Nej
