@@ -8,8 +8,10 @@
 newtab-page-title = Fitxa berria
 newtab-settings-button =
     .title = Pertsonalizatu fitxa berriaren orria
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Pertsonalizatu orri hau
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Pertsonalizatu
 newtab-customize-panel-label =
     .label = Pertsonalizatu
@@ -633,9 +635,6 @@ newtab-custom-wallpaper-cta = Probatu
 newtab-new-user-custom-wallpaper-title = Aukeratu horma-paper bat { -brand-product-name } zure egiteko
 newtab-new-user-custom-wallpaper-subtitle = Molda ezazu fitxa berri bakoitza zure modura horma-paper eta kolore pertsonalizatuekin.
 newtab-new-user-custom-wallpaper-cta = Probatu orain
-
-## Strings for Nova wallpaper feature highlight
-
 
 ## Strings for download mobile highlight
 

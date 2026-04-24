@@ -8,8 +8,10 @@
 newtab-page-title = Thẻ mới
 newtab-settings-button =
     .title = Tùy biến trang thẻ mới
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Tuỳ chỉnh trang này
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Tùy chỉnh
 newtab-customize-panel-label =
     .label = Tùy chỉnh
@@ -632,9 +634,6 @@ newtab-custom-wallpaper-cta = Thử ngay
 newtab-new-user-custom-wallpaper-title = Chọn một hình nền để tạo { -brand-product-name } thành của riêng bạn
 newtab-new-user-custom-wallpaper-subtitle = Khiến mọi thẻ mới trở nên thân thiện với hình nền và màu sắc tùy chỉnh.
 newtab-new-user-custom-wallpaper-cta = Thử ngay bây giờ
-
-## Strings for Nova wallpaper feature highlight
-
 
 ## Strings for download mobile highlight
 

@@ -8,8 +8,10 @@
 newtab-page-title = לשונית חדשה
 newtab-settings-button =
     .title = התאמה אישית של דף הלשונית החדשה שלך
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = התאמה אישית של דף זה
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = התאמה אישית
 newtab-customize-panel-label =
     .label = התאמה אישית
@@ -628,9 +630,6 @@ newtab-custom-wallpaper-cta = בואו ננסה
 newtab-new-user-custom-wallpaper-title = ניתן לבחור בטפט כדי להפוך את { -brand-product-name } לשלך
 newtab-new-user-custom-wallpaper-subtitle = כל לשונית חדשה יכולה לקבל תחושה של בית עם טפטים וצבעים מותאמים אישית.
 newtab-new-user-custom-wallpaper-cta = לנסות עכשיו
-
-## Strings for Nova wallpaper feature highlight
-
 
 ## Strings for download mobile highlight
 

@@ -8,8 +8,10 @@
 newtab-page-title = 新标签页
 newtab-settings-button =
     .title = 定制您的新标签页
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = 定制此页面
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = 定制
 newtab-customize-panel-label =
     .label = 定制
@@ -622,9 +624,6 @@ newtab-custom-wallpaper-cta = 试试看
 newtab-new-user-custom-wallpaper-title = 选张壁纸，让 { -brand-product-name } 独具个性
 newtab-new-user-custom-wallpaper-subtitle = 自定义壁纸和颜色，让新标签页亲切如家。
 newtab-new-user-custom-wallpaper-cta = 现在就试试
-
-## Strings for Nova wallpaper feature highlight
-
 
 ## Strings for download mobile highlight
 

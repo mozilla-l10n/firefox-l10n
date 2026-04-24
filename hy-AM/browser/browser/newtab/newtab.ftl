@@ -8,8 +8,10 @@
 newtab-page-title = Նոր ներդիր
 newtab-settings-button =
     .title = Հարմարեցրեք ձեր Նոր Ներդիր էջը
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Հարմարեցնել այս էջը
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Հարմարեցնել
 newtab-customize-panel-label =
     .label = Հարմարեցնել
@@ -74,9 +76,6 @@ newtab-topsites-url-validation = Անհրաժեշտ է վավեր URL
 newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -577,9 +576,6 @@ newtab-custom-wallpaper-cta = Փորձել
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-cta = Փորձել հիմա
-
-## Strings for Nova wallpaper feature highlight
-
 
 ## Strings for download mobile highlight
 

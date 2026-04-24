@@ -8,8 +8,10 @@
 newtab-page-title = Нова вкладка
 newtab-settings-button =
     .title = Налаштуйте свою сторінку нової вкладки
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Налаштувати цю сторінку
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Налаштувати
 newtab-customize-panel-label =
     .label = Налаштувати
@@ -618,9 +620,6 @@ newtab-custom-wallpaper-cta = Спробувати
 newtab-new-user-custom-wallpaper-title = Оберіть шпалери, щоб персоналізувати { -brand-product-name }
 newtab-new-user-custom-wallpaper-subtitle = Персоналізуйте кожну нову вкладку завдяки власним шпалерам і кольорам.
 newtab-new-user-custom-wallpaper-cta = Спробувати зараз
-
-## Strings for Nova wallpaper feature highlight
-
 
 ## Strings for download mobile highlight
 

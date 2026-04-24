@@ -8,8 +8,10 @@
 newtab-page-title = Uusi välilehti
 newtab-settings-button =
     .title = Muokkaa Uusi välilehti -sivua
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Mukauta tätä sivua
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Mukauta
 newtab-customize-panel-label =
     .label = Mukauta
@@ -632,9 +634,6 @@ newtab-custom-wallpaper-cta = Kokeile
 newtab-new-user-custom-wallpaper-title = Valitse taustakuva ja tee { -brand-product-name }ista omasi
 newtab-new-user-custom-wallpaper-subtitle = Tee jokaisesta uudesta välilehdestä tutunomainen mukautetuilla taustakuvilla ja väreillä.
 newtab-new-user-custom-wallpaper-cta = Kokeile nyt
-
-## Strings for Nova wallpaper feature highlight
-
 
 ## Strings for download mobile highlight
 

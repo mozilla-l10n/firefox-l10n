@@ -8,8 +8,10 @@
 newtab-page-title = Neuer Tab
 newtab-settings-button =
     .title = Neuer-Tab-Seite anpassen
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Diese Seite anpassen
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Anpassen
 newtab-customize-panel-label =
     .label = Anpassen

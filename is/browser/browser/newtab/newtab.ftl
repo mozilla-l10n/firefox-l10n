@@ -8,8 +8,10 @@
 newtab-page-title = Nýr flipi
 newtab-settings-button =
     .title = Sérsníða nýju flipasíðuna
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button =
     .title = Sérsníða þessa síðu
+#  (developer note): @nova-cleanup(remove-string): Remove newtab-customize-panel-icon-button-label once Nova lands, will be using newtab-customize-panel-label instead
 newtab-customize-panel-icon-button-label = Sérsníða
 newtab-customize-panel-label =
     .label = Sérsníða
@@ -71,9 +73,6 @@ newtab-topsites-url-validation = Gildrar vefslóðar krafist
 newtab-topsites-image-url-label = Sérsniðin myndslóð
 newtab-topsites-use-image-link = Nota sérsniðna mynd…
 newtab-topsites-image-validation = Ekki tókst að hlaða mynd. Prófið aðra vefslóð.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -608,9 +607,6 @@ newtab-new-user-custom-wallpaper-title = Veldu bakgrunn til að gera { -brand-pr
 newtab-new-user-custom-wallpaper-subtitle = Láttu nýja flipa verða heimilislegri með sérsniðnum bakgrunnum og litum.
 newtab-new-user-custom-wallpaper-cta = Prófa það núna
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sækja { -brand-product-name } fyrir farsíma
@@ -716,9 +712,3 @@ newtab-promo-card-cta = Fræðast meira
 newtab-promo-card-dismiss-button =
     .title = Afgreiða
     .aria-label = Afgreiða
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
