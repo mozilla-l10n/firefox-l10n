@@ -113,6 +113,8 @@ firefoxview-history-nav = ประวัติ
 firefoxview-history-header = ประวัติ
 firefoxview-history-context-delete = ลบออกจากประวัติ
     .accesskey = D
+firefoxview-history-context-forget-site = ลืมเกี่ยวกับไซต์นี้…
+    .accesskey = ม
 
 ## Open Tabs in this context refers to all open tabs in the browser
 

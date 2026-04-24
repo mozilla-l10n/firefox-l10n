@@ -37,6 +37,7 @@ policy-Containers = ตั้งค่านโยบายที่เกี่
 policy-DisableAccounts = ปิดใช้บริการที่ใช้บัญชี รวมถึงการซิงค์
 policy-DisabledCiphers = ปิดการใช้งานรหัสลับ
 policy-DefaultDownloadDirectory = ตั้งไดเรกทอรีการดาวน์โหลดเริ่มต้น
+policy-DefaultSerialGuardSetting = ควบคุมการใช้ API ซีเรียล
 policy-DisableAppUpdate = ป้องกันไม่ให้เบราว์เซอร์อัปเดต
 policy-DisableBuiltinPDFViewer = ปิดใช้งาน PDF.js ตัวดู PDF ในตัวใน { -brand-short-name }
 policy-DisableDefaultBrowserAgent = ป้องกันไม่ให้ตัวแทนเบราว์เซอร์เริ่มต้นทำงานใด ๆ ใช้ได้กับ Windows เท่านั้น เนื่องจากแพลตฟอร์มอื่น ๆ ไม่มีตัวแทน
@@ -154,3 +155,5 @@ policy-WebsiteFilter = ปิดกั้นไม่ให้เยี่ยม
 policy-Windows10SSO = อนุญาต Windows single sign-on สำหรับบัญชีที่ทำงานและโรงเรียนของ Microsoft
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = อนุญาต Single Sign-On สำหรับบัญชี Microsoft Entra
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = เปิดหรือปิดการใช้งานการสนับสนุนสำหรับ XSLTProcessor JavaScript API และคำสั่งประมวลผล XSLT

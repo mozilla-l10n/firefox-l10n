@@ -13,6 +13,7 @@ customkeys-reset-all = กลับค่าแป้นลัดทั้งห
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = แป้นนี้ถูกกำหนดให้กับ { $conflict } แล้ว คุณต้องการแทนที่หรือไม่?
 customkeys-reset-all-confirm = คุณแน่ใจหรือไม่ว่าจะกลับค่าแป้นพิมพ์ลัดทั้งหมดเป็นค่าเริ่มต้น?
+customkeys-file-duplicate-tab = ทำสำเนาแท็บ
 customkeys-history-reopen-tab = เปิดแท็บที่ปิดล่าสุดใหม่
 customkeys-history-reopen-window = เปิดหน้าต่างที่ปิดล่าสุดใหม่
 customkeys-sidebar-toggle = เปิด/ปิดแถบข้าง

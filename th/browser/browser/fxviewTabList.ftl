@@ -78,5 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = ปิดเสียงแท็บ
 fxviewtabrow-unmute-tab-button-no-context =
     .title = เปิดเสียงแท็บ
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = เปิดใช้งานซิงค์เพื่อส่งแท็บ
 fxviewtabrow-send-to-mobile-connect-phone2 = เชื่อมต่อโทรศัพท์ของคุณ
 fxviewtabrow-send-to-mobile-device-missing2 = ไม่เห็นอุปกรณ์ของคุณ?
