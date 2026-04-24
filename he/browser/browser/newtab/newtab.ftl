@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = התאמה אישית של דף זה
 newtab-customize-panel-icon-button-label = התאמה אישית
+newtab-customize-panel-label =
+    .label = התאמה אישית
 newtab-personalize-settings-icon-label =
     .title = התאמה אישית של דף הלשונית החדשה
     .aria-label = הגדרות
@@ -626,6 +628,9 @@ newtab-custom-wallpaper-cta = בואו ננסה
 newtab-new-user-custom-wallpaper-title = ניתן לבחור בטפט כדי להפוך את { -brand-product-name } לשלך
 newtab-new-user-custom-wallpaper-subtitle = כל לשונית חדשה יכולה לקבל תחושה של בית עם טפטים וצבעים מותאמים אישית.
 newtab-new-user-custom-wallpaper-cta = לנסות עכשיו
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
