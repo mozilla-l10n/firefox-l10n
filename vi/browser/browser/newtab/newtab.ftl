@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Tuỳ chỉnh trang này
 newtab-customize-panel-icon-button-label = Tùy chỉnh
+newtab-customize-panel-label =
+    .label = Tùy chỉnh
 newtab-personalize-settings-icon-label =
     .title = Cá nhân hóa thẻ mới
     .aria-label = Cài đặt
@@ -630,6 +632,9 @@ newtab-custom-wallpaper-cta = Thử ngay
 newtab-new-user-custom-wallpaper-title = Chọn một hình nền để tạo { -brand-product-name } thành của riêng bạn
 newtab-new-user-custom-wallpaper-subtitle = Khiến mọi thẻ mới trở nên thân thiện với hình nền và màu sắc tùy chỉnh.
 newtab-new-user-custom-wallpaper-cta = Thử ngay bây giờ
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
