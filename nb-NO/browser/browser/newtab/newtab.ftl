@@ -752,6 +752,7 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimer widgeter
     .aria-label = Slå sammen alle widgeter til kompakt størrelse
+newtab-widget-section-menu-learn-more = Les mer
 newtab-widget-section-feedback = Fortell oss hva du synes
 
 ## Strings for timer productivity widget
