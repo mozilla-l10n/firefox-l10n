@@ -748,6 +748,7 @@ newtab-widget-section-menu-button =
     .title = Widget-meny
     .aria-label = Opne widget-meny
 newtab-widget-section-menu-hide-all = Skjul widgetar
+newtab-widget-section-menu-learn-more = Les meir
 newtab-widget-section-feedback = Fortel oss kva du synest
 
 ## Strings for timer productivity widget
