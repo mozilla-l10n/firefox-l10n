@@ -33,7 +33,7 @@ ipprotection-feature-introduction-description-private-browsing = Naviguez avec u
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Vous utilisez un Wi-Fi public ? Essayez le VPN intégré à { -brand-product-name }.
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = Bénéficiez de <a data-l10n-name="learn-more-vpn">davantage de confidentialité</a> en choisissant parmi 5 emplacements pour masquer vos pages web.
+ipprotection-feature-introduction-link-text-captive-portal = Bénéficiez de <a data-l10n-name="learn-more-vpn">davantage de confidentialité</a> en choisissant parmi 5 emplacements pour dissimuler votre localisation.
 ipprotection-feature-introduction-description-captive-portal = Naviguez avec une protection supplémentaire en masquant votre localisation, même sur un Wi-Fi public.
 ipprotection-feature-introduction-button-primary = Suivant
 ipprotection-feature-introduction-button-secondary-not-now = Plus tard
@@ -108,7 +108,7 @@ ipprotection-locations-subview-description = Choisissez un autre emplacement dep
 ipprotecion-locations-subview-recommended-label = Recommandé
 ipprotection-locations-subview-recommended-description = Sélectionne l’emplacement le plus rapide
 ipprotection-locations-subview-promo =
-    .heading = Allez plus loin en matière de protection avec { -mozilla-vpn-brand-name }
+    .heading = Renforcez votre protection avec { -mozilla-vpn-brand-name }
     .message = Faites votre choix parmi plus de 300 emplacements et protégez vos applications sur jusqu’à 5 appareils.
 ipprotection-locations-subview-promo-button = Obtenir { -mozilla-vpn-brand-name }
 
@@ -124,7 +124,7 @@ upgrade-vpn-button = Essayer { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = Le VPN est mis en pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description-1 = Vous avez utilisé les { $maxUsage } Go de vos données VPN. Access est réinitialisé le mois prochain.
+ipprotection-connection-status-paused-description-1 = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès sera rétabli le mois prochain.
 
 ## Messages and errors
 
@@ -187,7 +187,7 @@ ip-protection-not-opted-in-2 =
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-3 =
     .heading = Essayez le VPN intégré à { -brand-short-name }
-    .message = Naviguez avec une protection supplémentaire en masquant votre localisation. Obtenez { $maxUsage } Go de données gratuits chaque mois.
+    .message = Naviguez avec une protection supplémentaire en masquant votre localisation. Obtenez { $maxUsage } Go de données gratuits chaque mois.
 ip-protection-not-opted-in-button = Lancez-vous
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
