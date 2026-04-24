@@ -1032,6 +1032,21 @@ urlbar-result-action-switch-to-tabgroup = Passer à { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Ouvrir { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Ouvrir dans un nouvel onglet
+    .accesskey = O
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Ouvrir dans un nouvel onglet conteneur
+    .accesskey = O
+urlbar-view-context-menu-open-in-window =
+    .label = Ouvrir dans une nouvelle fenêtre
+    .accesskey = O
+urlbar-view-context-menu-open-in-private-window =
+    .label = Ouvrir dans une nouvelle fenêtre privée
+    .accesskey = O
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the

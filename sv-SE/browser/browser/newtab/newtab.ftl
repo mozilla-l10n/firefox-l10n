@@ -505,6 +505,9 @@ newtab-weather-menu-change-location = Ändra plats
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Sök plats
     .aria-label = Sök plats
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Använd aktuell plats
 newtab-weather-menu-weather-display = Vädervisning
 newtab-weather-todays-forecast = Dagens prognos
 newtab-weather-see-full-forecast = Se fullständig prognos
@@ -614,6 +617,22 @@ newtab-section-follow-highlight-subtitle = Följ dina intressen för att se mer 
 newtab-section-block-button = Blockera
 newtab-section-blocked-button = Blockerad
 newtab-section-unblock-button = Blockera inte
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Följ { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Sluta följa { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blockera { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Avblockera { $topic }
 
 ## Confirmation modal for blocking a section
 
