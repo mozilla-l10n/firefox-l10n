@@ -1263,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Del
     .tooltiptext = Del denne sida
+toolbar-button-tab-groups =
+    .label = Fanegrupper
+    .tooltiptext = Vis fanegruppene dine
 
 ## EME notification panel
 
@@ -1445,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Avslutt privat økt
     .tooltiptext = Avslutt privat økt
+reset-pbm-panel-heading2 = Slette data og starte ei ny privat økt?
+reset-pbm-panel-description2 = Dette slettar historikk, infokapslar og alle andre nettstaddata utan å late att det private vindauget.
 reset-pbm-panel-heading = Avslutte privat økt?
 reset-pbm-panel-description = Lat att alle private faner og slett historikk, infokapslar, og alle andre nettstad-data.
 reset-pbm-panel-always-ask-checkbox =
@@ -1453,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Avbryt
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Tøm privat økt
+    .accesskey = T
 reset-pbm-panel-confirm-button =
     .label = Slett øktdata
     .accesskey = S
@@ -1698,9 +1706,17 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } tillét { $count } kryptoutvinnarar
     }
 trustpanel-cryptominer-tab-list-header = Desse nettstadane prøvar å drive kryptomining:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Har du ein konto på denne nettstaden?
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorer
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Start gratis skanning
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> sporar blokkert på denne nettstaden
        *[other] <span data-l10n-name="count">{ $count }</span> sporarar blokkerte på denne nettstaden
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Last på nytt
+    .accesskey = L
