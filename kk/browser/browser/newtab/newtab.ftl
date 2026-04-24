@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Бұл бетті баптау
 newtab-customize-panel-icon-button-label = Баптау
+newtab-customize-panel-label =
+    .label = Баптау
 newtab-personalize-settings-icon-label =
     .title = Жаңа бетті жекелендіру
     .aria-label = Баптаулар
@@ -630,6 +632,9 @@ newtab-custom-wallpaper-cta = Қолданып көру
 newtab-new-user-custom-wallpaper-title = { -brand-product-name } өз қалауыңызша баптау үшін тұсқағаз таңдаңыз
 newtab-new-user-custom-wallpaper-subtitle = Арнайы тұсқағаздар мен түстердің көмегімен әрбір жаңа бетті өз үйіңіздей жайлы етіңіз.
 newtab-new-user-custom-wallpaper-cta = Қазір қолданып көру
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
