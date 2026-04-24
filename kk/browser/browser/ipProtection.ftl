@@ -73,6 +73,18 @@ ipprotection-button-turn-vpn-on = VPN іске қосу
 # Button while VPN is connecting
 ipprotection-button-connecting = Іске қосу…
 
+## Location controls
+
+ipprotection-recommended-location-badge = ЖАҢА
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Орналасқан жері: { $country }
+ipprotection-locations-subview =
+    .title = Орналасқан жерді таңдау
+ipprotection-locations-subview-description = Шолу үшін басқа орынды таңдаңыз.
+ipprotecion-locations-subview-recommended-label = Ұсынылатын
+ipprotection-locations-subview-recommended-description = Ең жылдам орналасқан жерді табады
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN аялдатылды
@@ -208,6 +220,7 @@ vpn-paused-alert-title = VPN аялдатылды
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Сіз VPN деректеріңіздің барлық { $maxUsage } ГБ көлемін пайдаландыңыз. VPN-ге қол жеткізу мүмкіндігі келесі айда қалпына келтіріледі.
+vpn-error-page-new-session = Жаңа сессияны бастау
 vpn-paused-alert-close-tabs-button = Барлық беттерді жабу
 vpn-paused-alert-continue-wo-vpn-button = VPN-сіз жалғастыру
 vpn-error-alert-title = VPN қазір жұмыс істеп тұрған жоқ.

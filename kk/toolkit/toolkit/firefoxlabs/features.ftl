@@ -64,15 +64,25 @@ experimental-features-fx-web-apps-description = Жиі кіретін сайтт
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name } ішіндегі тізімдер
+experimental-features-newtab-widget-lists-new =
+    .label = Тізімдер
 experimental-features-newtab-widget-lists-description = Жаңа бетті ашқанда істер тізімін назарда ұстаңыз. Жолға жиналу тізімдерінен бастап сауда тізімдеріне дейін барлық жоспарларыңызды { -brand-product-name } ішінде жасаңыз. <a data-l10n-name="connect">Пікір қалдыру</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name } ішіндегі таймер
+experimental-features-newtab-widget-timer-new =
+    .label = Таймер
 experimental-features-newtab-widget-timer-description = Назарыңызды жинақтау, жұмыс барысынан ауытқымау немесе тынығып алуды ескерту үшін таймер орнатыңыз. <a data-l10n-name="connect">Пікір қалдыру</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name } ішіндегі тізімдер мен таймер
 experimental-features-newtab-widget-lists-and-timer-description = Жаңа бетті ашқанда істер тізімін назарда ұстаңыз. Жолға жиналу тізімдерінен бастап сауда тізімдеріне дейін барлық жоспарларыңызды { -brand-product-name } ішінде жасаңыз. Назарыңызды жинақтау, жұмыс барысынан ауытқымау немесе тынығып алуды ескерту үшін таймер орнатыңыз. <a data-l10n-name="connect">Пікір қалдыру</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Ауа райы болжамдары
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Сағаттар
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Семантикалық тарих іздеуі
