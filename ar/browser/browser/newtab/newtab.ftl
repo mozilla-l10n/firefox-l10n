@@ -360,6 +360,8 @@ newtab-custom-widget-lists-toggle =
     .label = قوائم
 newtab-custom-widget-timer-toggle =
     .label = المؤقت
+newtab-widget-manage-widget-button =
+    .label = أدر الويدجات
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .title = أغلق
@@ -505,6 +507,8 @@ newtab-weather-opt-in-not-now =
     .label = ليس الآن
 newtab-weather-opt-in-yes =
     .label = نعم
+newtab-weather-opt-in-use-location =
+    .label = استخدم الموقع
 # "Highest" here refers to the highest temperature of the day
 newtab-weather-high =
     .aria-label = مرتفعة
@@ -565,6 +569,7 @@ newtab-section-mangage-topics-title = المواضيع
 newtab-section-manage-topics-button-v2 =
     .label = أدِر المواضيع
 newtab-section-mangage-topics-followed-topics-empty-state = لم تتابع أي مواضيع بعد.
+newtab-section-mangage-topics-blocked-topics = محظور
 # 'Make firefox yours" means to customize or personalize
 newtab-custom-wallpaper-subtitle = ارفع خلفية شاشتك أو اختر لونًا مخصصًا لجعل { -brand-product-name } خاصًا بك.
 newtab-custom-wallpaper-cta = جربه
@@ -597,6 +602,8 @@ newtab-report-ads-reason-not-interested =
     .label = أنا لست مهتم
 newtab-report-ads-reason-inappropriate =
     .label = غير مناسب
+newtab-report-ads-reason-seen-it-too-many-times =
+    .label = لقد رأيت ذلك مرات كثيرة جدًا
 newtab-report-content-wrong-category =
     .label = فئة خاطئة
 newtab-report-content-outdated =
@@ -666,6 +673,11 @@ newtab-widget-size-large = كبير
 newtab-widget-section-hide-all-button =
     .title = أخف الويدجات
     .aria-label = أخف الويدجات
+newtab-widget-section-menu-button =
+    .title = قائمة الويدجات
+    .aria-label = افتح قائمة الويدجات
+newtab-widget-section-menu-hide-all = أخفِ الويدجات
+newtab-widget-section-menu-learn-more = اطّلع على المزيد
 newtab-widget-section-feedback = أخبرنا برأيك
 
 ## Strings for timer productivity widget

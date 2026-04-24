@@ -226,6 +226,7 @@ vpn-paused-alert-title = توقف خدمة VPN مؤقتًا
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = لقد استهلكت كامل بيانات VPN الخاصة بك، والتي تبلغ { $maxUsage } ج.بايت. سيتم تصفير الوصول إلى VPN الشهر المقبل.
+vpn-error-page-continue-description = اختر كيفية المتابعة بدون استخدام VPN
 vpn-error-page-keep-browsing = استمر في التصفح في هذه الجلسة
 vpn-error-page-new-session = ابدأ جلسة جديدة
 vpn-paused-alert-close-tabs-button = أغلق كل الألسنة
