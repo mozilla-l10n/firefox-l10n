@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Фармоишдиҳии ин саҳифа
 newtab-customize-panel-icon-button-label = Фармоишдиҳӣ
+newtab-customize-panel-label =
+    .label = Фармоишдиҳӣ
 newtab-personalize-settings-icon-label =
     .title = Шахсисозии варақаи нав
     .aria-label = Танзимот
@@ -624,6 +626,9 @@ newtab-custom-wallpaper-cta = Озмоед
 newtab-new-user-custom-wallpaper-title = Тасвири заминаеро интихоб карда, соҳиби браузери «{ -brand-product-name }» шавед
 newtab-new-user-custom-wallpaper-subtitle = Ҳар як варақаи навро ба як саҳифаи шахсии зебо табдил диҳед — бо тасвирҳои замина ва рангҳое, ки услуби шуморо инъикос мекунанд.
 newtab-new-user-custom-wallpaper-cta = Ҳозир онро кӯшиш кунед
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
