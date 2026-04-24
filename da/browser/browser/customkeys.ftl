@@ -13,6 +13,7 @@ customkeys-reset-all = Nulstil alle tastaturgenveje til deres standardindstillin
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Tasten er allerede tildelt { $conflict }. Vil du erstatte den?
 customkeys-reset-all-confirm = Er du sikker på, at du vil nulstille alle tastaturgenveje til deres standardindstillinger?
+customkeys-file-duplicate-tab = Kopier faneblad
 customkeys-history-reopen-tab = Åbn senest lukkede faneblad igen
 customkeys-history-reopen-window = Åbn senest lukkede vindue igen
 customkeys-sidebar-toggle = Slå sidepanel til eller fra
