@@ -2412,6 +2412,8 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Anslutnings- och programvarusäkerhet
 preferences-connection-link-button =
     .label = Avancerade inställningar
 
