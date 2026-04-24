@@ -253,3 +253,7 @@ tab-context-ungroup-tab =
            *[other] Tirar del grop
         }
     .accesskey = T
+
+## Split View
+
+tab-context-badge-new = Nòu
