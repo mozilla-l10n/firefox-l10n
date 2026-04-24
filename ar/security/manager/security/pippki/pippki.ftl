@@ -19,8 +19,14 @@ pippki-pw-erased-ok = حذفت كلمة سرك. { pippki-pw-empty-warning }
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window2 =
+    .title = صفّر كلمة السر الرئيسية
+    .style = min-width: 40em
 reset-password-button-label =
     .label = صفّر
+reset-primary-password-text = إذا صفّرت كلمة السر الرئيسية، ستُنسى كلّ كلمات سر البريد الإلكتروني والوِب، والشهادات الشخصية، والمفاتيح السرية المخزّنة. أمتأكّد بأنك تريد تصفير كلمة سرك الرئيسية؟
+pippki-reset-password-confirmation-title = صفّر كلمة السر الرئيسية
+pippki-reset-password-confirmation-message = صُفّر كلمة سرك الرئيسية.
 
 ## Downloading cert dialog
 
