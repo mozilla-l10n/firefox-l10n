@@ -36,12 +36,17 @@ ipprotection-feature-introduction-description-captive-portal = Surf med ekstra b
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nå
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
+ipprotection-feature-introduction-button-secondary-remove = Fjern VPN fra verktøylinjen
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Velg hvor du bruker VPN
 ipprotection-site-settings-callout-subtitle = Slå av VPN for et bestemt nettsted, så husker vi det neste gang du besøker det.
 ipprotection-site-settings-callout-button = Jeg forstår
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nyhet: Bytt plassering
 
 ## Panel
 
