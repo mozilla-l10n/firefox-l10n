@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Pertsonalizatu orri hau
 newtab-customize-panel-icon-button-label = Pertsonalizatu
+newtab-customize-panel-label =
+    .label = Pertsonalizatu
 newtab-personalize-settings-icon-label =
     .title = Pertsonalizatu fitxa berria
     .aria-label = Ezarpenak
@@ -631,6 +633,9 @@ newtab-custom-wallpaper-cta = Probatu
 newtab-new-user-custom-wallpaper-title = Aukeratu horma-paper bat { -brand-product-name } zure egiteko
 newtab-new-user-custom-wallpaper-subtitle = Molda ezazu fitxa berri bakoitza zure modura horma-paper eta kolore pertsonalizatuekin.
 newtab-new-user-custom-wallpaper-cta = Probatu orain
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
