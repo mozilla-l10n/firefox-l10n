@@ -94,6 +94,10 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } wa
 
 neterror-file-not-found-filename = Check the file name for capitalization or other typing errors.
 neterror-file-not-found-moved = Check to see if the file was moved, renamed or deleted.
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } can’t find the file at <strong>{ $path }</strong>. It either doesn’t exist or the path is incorrect.
+neterror-file-not-found-what-can-you-do = If you typed the address manually, check for capitalization mistakes or typos in the file name or path. If you followed a saved bookmark or link, the file may have been moved, renamed, or deleted since it was saved. Try locating it using your file manager or a recent search.
 neterror-access-denied = It may have been removed, moved, or file permissions may be preventing access.
 neterror-unknown-protocol = You might need to install other software to open this address.
 neterror-redirect-loop = This problem can sometimes be caused by disabling or refusing to accept cookies.
@@ -190,7 +194,17 @@ fp-neterror-net-timeout-intro = The server at <strong>{ $hostname }</strong> is 
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> sent back an error.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = The server at <strong>{ $hostname }</strong> sent back an error: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> sent back a header with empty characters not allowed by web security standards.
+fp-neterror-content-encoding-intro = The page you are trying to view cannot be shown because it uses an invalid or unsupported form of compression.
 fp-neterror-coop-coep-intro = { -brand-short-name } didn’t load this page because it looks like the security configuration doesn’t match the previous page.
+fp-neterror-blocked-by-policy-intro = Your organization has blocked access to this page or website.
 fp-neterror-http-auth-disabled-intro = Someone pretending to be the site could try to steal things like your username, password, or email.
 fp-neterror-http-auth-disabled-secure-connection = This site requires a secure connection, and you can’t add an exception to visit it.
 fp-neterror-why-did-this-happen = Why did this happen?

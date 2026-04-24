@@ -299,6 +299,13 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Send to Mobile
     .accesskey = n
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Enable sync to send a tab
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Connect your phone
+main-context-menu-send-to-mobile-device-missing =
+    .label = Don’t see your device?
 main-context-menu-save-to-pocket =
     .label = Save Page to { -pocket-brand-name }
     .accesskey = k

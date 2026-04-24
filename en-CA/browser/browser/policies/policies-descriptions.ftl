@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Set policies that WebExtensions can access via chrome.storage.managed.
+policy-AIControls = Configure AI controls.
 policy-AllowedDomainsForApps = Define domains allowed to access Google Workspace.
 policy-AllowFileSelectionDialogs = Allow file selection dialogs.
 policy-AppAutoUpdate = Enable or disable automatic application update.
@@ -36,6 +37,7 @@ policy-Containers = Set policies related to containers.
 policy-DisableAccounts = Disable account-based services, including sync.
 policy-DisabledCiphers = Disable ciphers.
 policy-DefaultDownloadDirectory = Set the default download directory.
+policy-DefaultSerialGuardSetting = Control use of the Serial API.
 policy-DisableAppUpdate = Prevent the browser from updating.
 policy-DisableBuiltinPDFViewer = Disable PDF.js, the built-in PDF viewer in { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Prevent the default browser agent from taking any actions. Only applicable to Windows; other platforms don’t have the agent.
@@ -90,6 +92,7 @@ policy-Homepage = Set and optionally lock the homepage.
 policy-HttpAllowlist = Origins that will not be upgraded to HTTPS.
 policy-HttpsOnlyMode = Allow HTTPS-Only Mode to be enabled.
 policy-InstallAddonsPermission = Allow certain websites to install add-ons.
+policy-IPProtectionAvailable = Prevent the built-in VPN from being available to users.
 policy-LegacyProfiles = Disable the feature enforcing a separate profile for each installation.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -127,6 +130,7 @@ policy-Preferences = Set and lock the value for a subset of preferences.
 policy-PrivateBrowsingModeAvailability = Set availability of private browsing mode.
 policy-PromptForDownloadLocation = Ask where to save files when downloading.
 policy-Proxy = Configure proxy settings.
+policy-RelaunchRequired = Require { -brand-short-name } to be relaunched within a given period and notify the user of the upcoming relaunch.
 policy-RequestedLocales = Set the list of requested locales for the application in order of preference.
 policy-SanitizeOnShutdown2 = Clear navigation data on shutdown.
 policy-SearchBar = Set the default location of the search bar. The user is still allowed to customize it.
@@ -151,3 +155,5 @@ policy-WebsiteFilter = Block websites from being visited. See documentation for 
 policy-Windows10SSO = Allow Windows single sign-on for Microsoft, work, and school accounts.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Allow single sign-on for Microsoft Entra accounts.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Enable or disable support for the XSLTProcessor JavaScript API and the XSLT processing instruction.

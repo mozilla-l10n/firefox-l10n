@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Change whether you can receive notifications from the site
 urlbar-midi-notification-anchor =
     .tooltiptext = Open MIDI panel
+urlbar-serial-notification-anchor =
+    .tooltiptext = Open Serial panel
 urlbar-eme-notification-anchor =
     .tooltiptext = Manage use of DRM software
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = You have blocked canvas data extraction for this website.
 urlbar-midi-blocked =
     .tooltiptext = You have blocked MIDI access for this website.
+urlbar-serial-blocked =
+    .tooltiptext = You have blocked serial port access for this website.
 urlbar-install-blocked =
     .tooltiptext = You have blocked add-on installation for this website.
 # Variables
@@ -410,6 +414,9 @@ quickactions-cmd-help = help, support
 # Opens the devtools web inspector
 quickactions-inspector2 = Open Developer Tools
 quickactions-cmd-inspector2 = inspector, devtools, dev tools
+# Opens Firefox Library
+quickactions-cmd-library = library
+quickactions-library = Open Library
 quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Manage passwords
@@ -642,6 +649,11 @@ sharing-warning-proceed-to-tab =
     .label = Proceed to Tab
 sharing-warning-disable-for-session =
     .label = Disable sharing protection for this session
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Select a serial port:
+webserial-no-ports-available = No serial ports available
 
 ## DevTools F12 popup
 
@@ -1000,6 +1012,7 @@ urlbar-searchmode-popup-one-off-header = This time search with:
 # reset after submitting.
 urlbar-searchmode-popup-header = Search with:
 urlbar-searchmode-popup-search-settings-panelitem = Search Settings
+urlbar-searchmode-popup-settings-panelitem = Settings
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1088,6 +1101,9 @@ fullscreen-warning-no-domain = This document is now full screen
 fullscreen-exit-button = Exit Full Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Exit Full Screen (esc)
+fullscreen-keyboardlock-exit-button = Exit Full Screen (Press and hold Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Exit Full Screen (Press and hold esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1247,6 +1263,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Share
     .tooltiptext = Share this page
+toolbar-button-tab-groups =
+    .label = Tab groups
+    .tooltiptext = Show your tab groups
 
 ## EME notification panel
 
@@ -1429,6 +1448,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = End Private Session
     .tooltiptext = End Private Session
+reset-pbm-panel-heading2 = Clear data and start a fresh private session?
+reset-pbm-panel-description2 = This deletes history, cookies, and all other site data without closing your Private Window.
 reset-pbm-panel-heading = End your private session?
 reset-pbm-panel-description = Close all private tabs and delete history, cookies, and all other site data.
 reset-pbm-panel-always-ask-checkbox =
@@ -1437,6 +1458,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancel
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Clear private session
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = Delete session data
     .accesskey = D
@@ -1682,8 +1706,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } allowed { $count } cryptominers
     }
 trustpanel-cryptominer-tab-list-header = These sites are trying to cryptomine:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Have an account on this site?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } found that this site had a data breach in the last 12 months. Find out if you were affected.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Dismiss
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Start free scan
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Tracker blocked on this site
        *[other] <span data-l10n-name="count">{ $count }</span> Trackers blocked on this site
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Site looks broken?</strong> Reload the page to temporarily lower your tracking protection.
+reduced-protection-infobar-reload-button = Reload
+    .accesskey = R

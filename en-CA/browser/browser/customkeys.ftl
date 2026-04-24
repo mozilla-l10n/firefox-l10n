@@ -13,6 +13,7 @@ customkeys-reset-all = Reset all shortcuts to defaults
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = This key is already assigned to { $conflict }. Do you want to replace it?
 customkeys-reset-all-confirm = Are you sure you wish to reset all keyboard shortcuts to their defaults?
+customkeys-file-duplicate-tab = Duplicate Tab
 customkeys-history-reopen-tab = Reopen Last Closed Tab
 customkeys-history-reopen-window = Reopen Last Closed window
 customkeys-sidebar-toggle = Toggle Sidebar

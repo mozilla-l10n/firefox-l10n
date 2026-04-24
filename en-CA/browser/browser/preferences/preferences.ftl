@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI Controls
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Accessibility
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Keyboard navigation and scrolling
+motion-and-link-group =
+    .label = Motion and link styling
 browsing-use-smooth-scrolling =
     .label = Use smooth scrolling
     .accesskey = m
@@ -792,6 +798,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Learn more
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accessibility
+preferences-default-zoom-select =
+    .aria-label = Default zoom
+preferences-fonts-family =
+    .label = Font family
+    .accesskey = D
+preferences-fonts-size =
+    .label = Font size
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Advanced settings
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1096,6 +1118,7 @@ search-edit-engine =
     .label = Edit
     .accesskey = E
 search-find-more-link = Find more search engines
+search-filtering-for-add-engine = Add Engine
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplicate Keyword
@@ -1114,6 +1137,9 @@ search-engine-group =
     .label = Default search engine
 search-default-engine =
     .aria-label = Default search engine
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Search
 
 ## Containers Section
 
@@ -1137,11 +1163,18 @@ containers-remove-button =
 
 sync-group-label =
     .label = Sync
+account-group-label2 =
+    .label = Account
+account-placeholder2 =
+    .label = You’re not signed in
+    .description = Sign in and keep your data private, encrypted, and instantly accessible everywhere you use { -brand-short-name }.
 account-group-label =
     .label = { -vendor-short-name } account
 account-placeholder =
     .label = You’re not signed in
     .description = Sign in to keep your data private, encrypted, and synced across devices.
+account-sync-section =
+    .heading = Account and sync
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1264,6 +1297,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = You are syncing these items across all your connected devices:
 sync-syncing-across-devices-heading-2 = Data synced across devices
+sync-syncing-across-devices-empty-state2 =
+    .label = Manage synced data
+    .description = You aren’t syncing anything… yet. Start syncing to get all of your data on all your devices.
 sync-syncing-across-devices-empty-state =
     .label = You aren’t syncing anything… yet.
     .description = Start syncing to get all of your data on all your devices.
@@ -1283,6 +1319,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = Manage synced data
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = Disconnect
 sync-change-options =
     .label = Change…
     .accesskey = C
@@ -2073,6 +2111,9 @@ collection-health-report-telemetry-disabled = You’re no longer allowing { -ven
 collection-health-report-telemetry-disabled-link = Learn more
 backup-multi-profile-warning-message =
     .message = To make sure this change is included in your backups, open each profile and choose “Backup now” in Settings.
+nimbus-rollouts =
+    .label = Allow { -brand-short-name } to improve features, performance, and stability between updates
+    .description = Changes will be rolled out remotely.
 addon-recommendations3 =
     .label = Allow personalized extension recommendations
     .description = Get extension recommendations to improve your browsing experience.
@@ -2107,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = Automatically send crash reports
     .accesskey = c
 collection-backlogged-crash-reports-description = This helps { -vendor-short-name } diagnose and fix issues with the browser. Reports may include personal or sensitive data.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Same settings, new look!
+    .message = We reorganized this page so it’s easier to scan and explore. Your personal settings haven’t changed, and everything’s still here. Tip: use search to jump straight to what you need.
+settings-redesign-promo-dismiss-button =
+    .label = Got it
 addon-recommendations =
     .label = Allow { -brand-short-name } to make personalized extension recommendations
 addon-recommendations-link = Learn more
@@ -2136,8 +2183,19 @@ data-collection-health-report =
     .label = Send technical and interaction data to { -vendor-short-name }
     .accesskey = r
     .description = This helps us improve { -brand-product-name } features, performance, and stability.
+data-collection-health-report-disabled =
+    .label = Send technical and interaction data to { -vendor-short-name }
+    .accesskey = r
+    .description = Data reporting is disabled for this build configuration.
+data-collection-run-studies =
+    .label = Allow { -brand-short-name } to run feature studies
+    .description = { -brand-short-name } randomly selects users to test features, which helps improve quality for everyone.
 data-collection-studies-link =
     .label = View { -brand-short-name } studies
+data-collection-backlogged-crash-reports =
+    .label = Automatically send crash reports
+    .description = This helps { -vendor-short-name } diagnose and fix issues with the browser. Reports may include personal or sensitive data.
+    .accesskey = c
 data-collection-usage-ping =
     .label = Send daily usage ping to { -vendor-short-name }
     .description = This helps { -vendor-short-name } to estimate active users.
@@ -2351,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Enter a custom provider URL
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Connection and software security
+preferences-connection-link-section =
+    .label = Connection and software security
+    .description = See how connections stay secure, harmful software is blocked, and websites are verified.
+preferences-connection-link-button =
+    .label = Advanced settings
 
 ## The following strings are used in the Download section of settings
 
