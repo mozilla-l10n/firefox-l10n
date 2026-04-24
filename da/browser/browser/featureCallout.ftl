@@ -107,6 +107,7 @@ perplexity-callout-secondary-label-2 = Forstået
 ## Startpage callout strings. Startpage (https://www.startpage.com/) is a
 ## brand name and should not be translated or transliterated.
 
+start-page-callout-title = Vil du prøve en ny privatlivs-fokuseret søgning?
 start-page-callout-subtitle = Prøv Startpage. Det er som standard designet til at beskytte dit privatliv, når du søger.
 start-page-callout-primary-label = Prøv Startpage
 
