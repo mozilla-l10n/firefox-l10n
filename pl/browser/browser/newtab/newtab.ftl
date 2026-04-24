@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Dostosuj tę stronę
 newtab-customize-panel-icon-button-label = Dostosuj
+newtab-customize-panel-label =
+    .label = Dostosuj
 newtab-personalize-settings-icon-label =
     .title = Personalizuj nową kartę
     .aria-label = Ustawienia
@@ -627,6 +629,9 @@ newtab-custom-wallpaper-cta = Wypróbuj
 newtab-new-user-custom-wallpaper-title = Wybierz tapetę, aby { -brand-product-name } stał się Twój
 newtab-new-user-custom-wallpaper-subtitle = Czuj się na każdej nowej karcie jak w domu dzięki własnej tapecie lub kolorowi.
 newtab-new-user-custom-wallpaper-cta = Wypróbuj teraz
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
