@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Прилагоди ову страницу
 newtab-customize-panel-icon-button-label = Прилагоди
+newtab-customize-panel-label =
+    .label = Прилагоди
 newtab-personalize-settings-icon-label =
     .title = Промените изглед новог језичка
     .aria-label = Подешавања
@@ -624,6 +626,9 @@ newtab-custom-wallpaper-cta = Испробајте
 newtab-new-user-custom-wallpaper-title = Изаберите позадину да бисте { -brand-product-name } учинили својим
 newtab-new-user-custom-wallpaper-subtitle = Учините да се сваки нови језичак осећа као код куће уз прилагођене позадине и боје.
 newtab-new-user-custom-wallpaper-cta = Испробајте одмах
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
