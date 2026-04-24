@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Personalizar esta página
 newtab-customize-panel-icon-button-label = Personalizar
+newtab-customize-panel-label =
+    .label = Personalizar
 newtab-personalize-settings-icon-label =
     .title = Personalizar o novo separador
     .aria-label = Definições
@@ -626,6 +628,9 @@ newtab-custom-wallpaper-cta = Experimentar
 newtab-new-user-custom-wallpaper-title = Escolha um fundo para tornar o { -brand-product-name } seu
 newtab-new-user-custom-wallpaper-subtitle = Dê um toque pessoal a cada novo separador com fundos e cores à sua escolha.
 newtab-new-user-custom-wallpaper-cta = Experimentar agora
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
