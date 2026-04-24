@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Vælg om du vil modtage beskeder fra webstedet
 urlbar-midi-notification-anchor =
     .tooltiptext = Åbn MIDI-panel
+urlbar-serial-notification-anchor =
+    .tooltiptext = Åbn seriel-panelet
 urlbar-eme-notification-anchor =
     .tooltiptext = Administrer brug af DRM-software
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Du har blokeret kanvas-ekstraktion for dette websted.
 urlbar-midi-blocked =
     .tooltiptext = Du har blokeret MIDI-adgang for dette websted.
+urlbar-serial-blocked =
+    .tooltiptext = Du har blokeret adgang til serieporte for dette websted.
 urlbar-install-blocked =
     .tooltiptext = Du har blokeret installering af tilføjelser for dette websted.
 # Variables
@@ -1095,6 +1099,9 @@ fullscreen-warning-no-domain = Dokumentet vises nu i fuld skærm
 fullscreen-exit-button = Afslut fuld skærm (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Afslut fuld skærm (esc)
+fullscreen-keyboardlock-exit-button = Afslut fuld skærm (tryk og hold Esc nede)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Afslut fuld skærm (tryk og hold Esc nede)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1254,6 +1261,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Del
     .tooltiptext = Del denne side
+toolbar-button-tab-groups =
+    .label = Fanebladsgrupper
+    .tooltiptext = Vis dine fanebladsgrupper
 
 ## EME notification panel
 
@@ -1427,6 +1437,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Afslut privat session
     .tooltiptext = Afslut privat session
+reset-pbm-panel-heading2 = Ryd data og start en ny, privat session?
+reset-pbm-panel-description2 = Dette sletter historik, cookies og alle andre data uden at lukke dit private vindue.
 reset-pbm-panel-heading = Vil du afslutte den private session?
 reset-pbm-panel-description = Luk alle private faneblade og slet historik, cookies og alle andre webstedsdata.
 reset-pbm-panel-always-ask-checkbox =
@@ -1435,6 +1447,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Annuller
     .accesskey = n
+reset-pbm-panel-confirm-button2 =
+    .label = Ryd privat session
+    .accesskey = y
 reset-pbm-panel-confirm-button =
     .label = Slet sessions-data
     .accesskey = S
@@ -1681,6 +1696,11 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } tillod { $count } cryptominers
     }
 trustpanel-cryptominer-tab-list-header = Disse websteder forsøger at lave cryptomining:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Har du en konto på dette websted?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } har opdaget, at dette websted har haft et datalæk inden for de sidste 12 måneder. Find ud af, om du er berørt.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Afvis
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Start gratis skanning
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> sporings-mekanisme blokeret på dette websted
@@ -1691,3 +1711,5 @@ trustpanel-blocker-section-header2 =
 
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
 reduced-protection-infobar-message = <strong>Virker webstedet ikke som det skal?</strong> Indlæs siden igen for midlertidigt at reducere din sporingsbeskyttelse.
+reduced-protection-infobar-reload-button = Genindlæs
+    .accesskey = G

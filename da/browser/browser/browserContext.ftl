@@ -296,6 +296,13 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Send til enhed
     .accesskey = d
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-enable-sync =
+    .label = Aktiver synkronisering for at sende et faneblad
+main-context-menu-send-to-mobile-connect-phone =
+    .label = Opret forbindelse til din telefon
+main-context-menu-send-to-mobile-device-missing =
+    .label = Kan du ikke se din enhed?
 main-context-menu-save-to-pocket =
     .label = Gem side til { -pocket-brand-name }
     .accesskey = o
