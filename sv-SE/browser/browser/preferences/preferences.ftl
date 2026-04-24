@@ -2414,6 +2414,9 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Anslutnings- och programvarusäkerhet
+preferences-connection-link-section =
+    .label = Anslutnings- och programvarusäkerhet
+    .description = Se hur anslutningar hålls säkra, skadlig programvara blockeras och webbplatser verifieras.
 preferences-connection-link-button =
     .label = Avancerade inställningar
 
