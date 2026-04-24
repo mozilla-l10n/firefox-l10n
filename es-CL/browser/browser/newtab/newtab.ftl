@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Personalizar esta página
 newtab-customize-panel-icon-button-label = Personalizar
+newtab-customize-panel-label =
+    .label = Personalizar
 newtab-personalize-settings-icon-label =
     .title = Personalizar nueva pestaña
     .aria-label = Ajustes
@@ -628,6 +630,9 @@ newtab-custom-wallpaper-cta = Inténtalo
 newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para que { -brand-product-name } sea tuyo
 newtab-new-user-custom-wallpaper-subtitle = Haz que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
