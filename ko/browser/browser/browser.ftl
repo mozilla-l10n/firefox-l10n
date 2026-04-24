@@ -1013,6 +1013,21 @@ urlbar-result-action-switch-to-tabgroup = { $group } 그룹으로 전환
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } 열기
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = 새 탭에서 열기
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = 새 컨테이너 탭에서 열기
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = 새 창에서 열기
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = 새 사생활 보호 창에서 열기
+    .accesskey = P
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
