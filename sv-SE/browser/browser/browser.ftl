@@ -1033,16 +1033,16 @@ urlbar-result-action-open-saved-tabgroup = Öppna { $group }
 
 urlbar-view-context-menu-open-in-tab =
     .label = Öppna i ny flik
-    .accesskey = Ö
+    .accesskey = p
 urlbar-view-context-menu-open-in-container-tab =
     .label = Öppna i ny innehållsflik
-    .accesskey = Ö
+    .accesskey = n
 urlbar-view-context-menu-open-in-window =
     .label = Öppna i nytt fönster
-    .accesskey = Ö
+    .accesskey = f
 urlbar-view-context-menu-open-in-private-window =
     .label = Öppna i nytt privat fönster
-    .accesskey = Ö
+    .accesskey = v
 
 ## Labels shown above groups of urlbar results
 
