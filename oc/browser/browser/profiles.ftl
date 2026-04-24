@@ -30,6 +30,7 @@ edit-profile-page-avatar-header-2 =
     .label = Avatar
 edit-profile-page-delete-button =
     .label = Suprimir
+new-profile-page-title = Perfil nòu
 new-profile-page-header = Personalizar vòstre perfil novèl
 new-profile-page-learn-more = Ne saber mai
 

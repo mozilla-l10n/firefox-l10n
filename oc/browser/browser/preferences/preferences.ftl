@@ -1089,8 +1089,10 @@ autofill-saved-payment-methods-button = Metòdes de pagament enregistrats
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox = Exigir la connexion a l’aparelh per entresenhar e gerir los metòdes de pagament
     .accesskey = o
+autofill-payment-methods-add-button = Metòdes de pagament novèls
 addresses-list-header =
     .label = Adreças
+autofill-addresses-add-button = Apondre una adreça novèla
 
 ## Privacy Section - History
 
