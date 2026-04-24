@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = ამ გვერდის მორგება
 newtab-customize-panel-icon-button-label = მორგება
+newtab-customize-panel-label =
+    .label = მორგება
 newtab-personalize-settings-icon-label =
     .title = ახალი ჩანართის მორგება
     .aria-label = პარამეტრები
@@ -631,6 +633,9 @@ newtab-custom-wallpaper-cta = მოსინჯვა
 newtab-new-user-custom-wallpaper-title = აირჩიეთ ფონი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური
 newtab-new-user-custom-wallpaper-subtitle = ახალი ჩანართის გახსნისას იგრძენით თავი შინ სასურველი ფონისა და ფერების შერჩევით.
 newtab-new-user-custom-wallpaper-cta = მოსინჯეთ ახლავე
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
