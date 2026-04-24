@@ -41,7 +41,7 @@ profiles-rootdir = Kořenový adresář
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Místní adresář
-profiles-current-profile = Tento profil je používán a nelze ho smazat.
+profiles-current-profile = Tento profil je používán a nemůže být smazán.
 profiles-in-use-profile = Tento profil je používán jinou aplikací a nemůže být smazán.
 profiles-cannot-delete-profile = Nelze smazat profil, který je propojený s jinými profily.
 profiles-rename = Přejmenovat

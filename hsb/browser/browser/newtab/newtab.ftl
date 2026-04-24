@@ -509,6 +509,9 @@ newtab-weather-menu-change-location = Městno změnić
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Městno pytać
     .aria-label = Městno pytać
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Aktualne stejnišćo wužiwać
 newtab-weather-menu-weather-display = Wjedrowe pokazanje
 newtab-weather-todays-forecast = Dźensniša předpowědź
 newtab-weather-see-full-forecast = Dospołnu předpowědź wobhladać
@@ -618,6 +621,22 @@ newtab-section-follow-highlight-subtitle = Slědujće swojim zajimam, zo byšće
 newtab-section-block-button = Blokować
 newtab-section-blocked-button = Zablokowany
 newtab-section-unblock-button = Hižo njeblokować
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = { $topic } slědować
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = { $topic } hižo njeslědować
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = { $topic } blokować
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = { $topic } hižo njeblokować
 
 ## Confirmation modal for blocking a section
 

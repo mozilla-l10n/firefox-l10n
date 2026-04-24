@@ -1046,6 +1046,21 @@ urlbar-result-action-switch-to-tabgroup = K { $group } přeńć
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } wočinić
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = W nowym rajtarku wočinić
+    .accesskey = n
+urlbar-view-context-menu-open-in-container-tab =
+    .label = W nowym kontejnerowym rajtarku wočinić
+    .accesskey = k
+urlbar-view-context-menu-open-in-window =
+    .label = W nowym woknje wočinić
+    .accesskey = W
+urlbar-view-context-menu-open-in-private-window =
+    .label = W nowym priwatnym woknje wočinić
+    .accesskey = p
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
