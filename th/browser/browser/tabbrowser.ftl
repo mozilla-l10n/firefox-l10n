@@ -226,6 +226,9 @@ tab-group-editor-color-selector2-gray = สีเทา
     .title = สีเทา
 tab-group-editor-color-selector2-red = สีแดง
     .title = สีแดง
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — ถูกปิด
 tab-group-description = { $tabGroupName } — กลุ่มแท็บ
 tab-group-label-tooltip-collapsed = { $tabGroupName } — ยุบอยู่
 tab-group-label-tooltip-expanded = { $tabGroupName } — ขยายอยู่
@@ -234,6 +237,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = กลุ่มที่ไม่มีชื่อ
 tab-group-name-default = กลุ่มที่ไม่มีชื่อ
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = กลุ่มแท็บ
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -277,6 +288,14 @@ tab-group-editor-action-new-tab =
     .label = แท็บใหม่ในกลุ่ม
 tab-group-editor-action-new-window =
     .label = ย้ายกลุ่มไปยังหน้าต่างใหม่
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] คัดลองลิงก์ในกลุ่ม
+           *[other] คัดลอง { $linkCount } ลิงก์ในกลุ่ม
+        }
 tab-group-editor-action-save =
     .label = บันทึกและปิดกลุ่ม
 tab-group-editor-action-ungroup =
@@ -286,6 +305,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = เสร็จสิ้น
     .accessKey = ส
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = แบ่งปันกลุ่มแท็บ
 tab-context-reopen-tab-group =
     .label = เปิดกลุ่มแท็บอีกครั้ง
 # Variables:
@@ -357,6 +379,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = บันทึก
     .accesskey = บ
+tab-note-editor-button-delete =
+    .title = ลบบันทึกย่อ
+    .aria-label = ลบบันทึกย่อ
+    .accesskey = ล
+tab-note-preview-edit-icon =
+    .alt = แก้ไขบันทึกย่อ
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = อ่านเพิ่มเติม
 tab-note-panel-add-note-new-badge =

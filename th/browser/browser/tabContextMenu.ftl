@@ -143,6 +143,17 @@ tab-context-send-to-mobile =
            *[other] ส่ง { $tabCount } แท็บไปยังมือถือ
         }
     .accesskey = ม
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = เปิดใช้งานซิงค์เพื่อส่งแท็บ
+tab-context-send-to-mobile-connect-phone =
+    .label = เชื่อมต่อโทรศัพท์ของคุณ
+tab-context-send-to-mobile-device-missing =
+    .label = ไม่เห็นอุปกรณ์ของคุณ?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = สร้างลิงก์ที่แบ่งปันได้
+    .accesskey = บ
 tab-context-send-tabs-to-device =
     .label = ส่ง { $tabCount } แท็บไปยังอุปกรณ์
     .accesskey = ส

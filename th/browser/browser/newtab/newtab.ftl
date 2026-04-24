@@ -524,8 +524,10 @@ newtab-weather-opt-in-not-now =
     .label = ยังไม่ทำตอนนี้
 newtab-weather-opt-in-yes =
     .label = ใช่
+newtab-weather-opt-in-headline = ตรวจสอบพยากรณ์อากาศในพื้นที่ของคุณ
 newtab-weather-opt-in-use-location =
     .label = ใช้ตำแหน่งที่ตั้ง
+newtab-weather-opt-in-choose-location = เลือกตำแหน่งที่ตั้ง
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = นครนิวยอร์ก
 # "Highest" here refers to the highest temperature of the day
@@ -585,8 +587,16 @@ newtab-topic-selection-button-pick-interests = เลือกความสน
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = ติดตาม
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = ติดตาม { $topic }
 newtab-section-following-button = ติดตามอยู่
 newtab-section-unfollow-button = เลิกติดตาม
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = กำลังติดตาม: เลิกติดตาม { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = ปรับแต่งฟีดของคุณ
 newtab-section-follow-highlight-subtitle = ติดตามในสิ่งที่คุณสนใจ เพื่อดูสิ่งที่คุณชอบได้มากขึ้น
@@ -628,6 +638,12 @@ newtab-custom-wallpaper-cta = ลองเลย
 newtab-new-user-custom-wallpaper-title = เลือกวอลล์เปเปอร์เพื่อทำให้ { -brand-product-name } เป็นสไตล์ของคุณ
 newtab-new-user-custom-wallpaper-subtitle = ตกแต่งแท็บใหม่ให้เป็นแบบของคุณด้วยวอลล์เปเปอร์และสีสันที่เลือกเอง
 newtab-new-user-custom-wallpaper-cta = ลองเลย
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = รูปพื้นหลังใหม่ล่าสุดเพิ่งมาถึง
+newtab-wallpaper-feature-highlight-subtitle = เลือกอันที่คุณชอบและทำให้ทุก ๆ แท็บใหม่เป็นตัวคุณ
+newtab-wallpaper-feature-highlight-cta = เลือกรูปพื้นหลัง
 
 ## Strings for download mobile highlight
 
@@ -671,6 +687,18 @@ newtab-toast-thanks-for-reporting =
     .message = ขอบคุณที่รายงานสิ่งนี้
 newtab-toast-widgets-hidden =
     .message = เลือกไอคอนรูปดินสอเพื่อเพิ่มวิดเจ็ตกลับเข้าไปได้ตลอดเวลา
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = คุณกำลังติดตาม { $topic }
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = คุณไม่ได้กำลังติดตาม { $topic } อีกต่อไป
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = คุณจะไม่เห็นเรื่องราวเกี่ยวกับ { $topic } อีกต่อไป
 
 ## Strings for task / to-do list productivity widget
 
@@ -704,8 +732,12 @@ newtab-widget-lists-dropdown-create =
     .label = + สร้างรายการใหม่
 newtab-widget-lists-name-label-default =
     .label = รายการงาน
+newtab-widget-lists-name-label-checklist =
+    .label = รายการตรวจสอบ
 newtab-widget-lists-name-placeholder-default =
     .placeholder = รายการงาน
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = รายการตรวจสอบ
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = รายการใหม่
@@ -725,7 +757,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = ย่อขนาดวิดเจ็ด
     .aria-label = ยุบวิดเจ็ตทั้งหมดให้เป็นขนาดกะทัดรัด
+newtab-widget-section-menu-button =
+    .title = เมนูวิดเจ็ต
+    .aria-label = เปิดเมนูวิดเจ็ต
+newtab-widget-section-menu-hide-all = ซ่อนวิดเจ็ต
+newtab-widget-section-menu-learn-more = เรียนรู้เพิ่มเติม
 newtab-widget-section-feedback = บอกเราว่าคุณคิดอย่างไร
+newtab-widget-lists-name-default = รายการตรวจสอบ
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

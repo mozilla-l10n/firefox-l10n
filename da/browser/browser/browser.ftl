@@ -1686,3 +1686,8 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> sporings-mekanisme blokeret på dette websted
        *[other] <span data-l10n-name="count">{ $count }</span> sporings-mekanismer blokeret på dette websted
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Virker webstedet ikke som det skal?</strong> Indlæs siden igen for midlertidigt at reducere din sporingsbeskyttelse.

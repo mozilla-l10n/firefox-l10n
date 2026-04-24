@@ -440,3 +440,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = ตั้งเป็นค่าเริ่มต้น
 set-default-menu-message-primary-button-variant = ตั้งเป็นเบราว์เซอร์หลัก
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = รับ 50 ตัวปกปิดอีเมลฟรี
+relay-50-masks-announcement-subtitle = ตอนนี้คุณได้รับ 50 ตัวปกปิดอีเมลฟรี (จาก 5 ตัว) ใช้มันสำหรับแต่ละบัญชีเพื่อรักษาอีเมลจริงของคุณให้เป็นส่วนตัว
+relay-50-masks-announcement-primary-button = ไปยัง { -relay-brand-name }
+    .accesskey = ป
+relay-50-masks-announcement-secondary-button = ยกเลิก
+    .accesskey = ย

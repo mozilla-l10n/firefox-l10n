@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = ส่วนควบคุม AI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = การช่วยเข้าถึง
+    .title = { pane-accessibility-title }
 pane-experimental-title = คุณลักษณะทดลองของ { -brand-short-name }
 category-experimental =
     .tooltiptext = คุณลักษณะทดลองของ { -brand-short-name }
@@ -739,6 +741,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = ใช้การเลื่อนอัตโนมัติ
     .accesskey = ช
+keyboard-and-scrolling-group =
+    .label = การนำทางด้วยแป้นพิมพ์และการเลื่อน
+motion-and-link-group =
+    .label = การเคลื่อนไหวและการจัดสไตล์ลิงก์
 browsing-use-smooth-scrolling =
     .label = ใช้การเลื่อนแบบลื่นไหล
     .accesskey = ก
@@ -780,6 +786,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = เรียนรู้เพิ่มเติม
 browsing-group =
     .label = การเรียกดู
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = การช่วยเข้าถึง
+preferences-default-zoom-select =
+    .aria-label = ซูมเริ่มต้น
+preferences-fonts-family =
+    .label = ตระกูลแบบอักษร
+    .accesskey = ต
+preferences-fonts-size =
+    .label = ขนาดแบบอักษร
+    .accesskey = ข
+preferences-fonts-advanced-settings =
+    .label = การตั้งค่าขั้นสูง
+    .accesskey = ส
 
 ## General Section - Proxy
 
@@ -1080,6 +1102,7 @@ search-edit-engine =
     .label = แก้ไข
     .accesskey = ก
 search-find-more-link = ค้นหาเครื่องมือค้นหาเพิ่มเติม
+search-filtering-for-add-engine = เพิ่มเครื่องมือ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = คำสำคัญซ้ำกัน
@@ -1126,11 +1149,16 @@ sync-group-label =
     .label = การซิงค์
 account-group-label2 =
     .label = บัญชี
+account-placeholder2 =
+    .label = คุณไม่ได้ลงชื่อเข้า
+    .description = ลงชื่อเข้าและเก็บรักษาข้อมูลของคุณให้เป็นส่วนตัว ถูกเข้ารหัสลับ และสามารถเข้าถึงได้ทันทีในทุกที่ที่คุณใช้ { -brand-short-name }
 account-group-label =
     .label = บัญชี { -vendor-short-name }
 account-placeholder =
     .label = คุณไม่ได้ลงชื่อเข้า
     .description = ลงชื่อเข้าเพื่อให้ข้อมูลของคุณเป็นส่วนตัว เข้ารหัสลับ และซิงค์ผ่านอุปกรณ์ต่าง ๆ อยู่เสมอ
+account-sync-section =
+    .heading = บัญชีและการซิงค์
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1253,6 +1281,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = คุณกำลังซิงค์รายการเหล่านี้กับอุปกรณ์ที่เชื่อมต่อทั้งหมดของคุณ:
 sync-syncing-across-devices-heading-2 = ข้อมูลที่ซิงค์ผ่านอุปกรณ์ต่าง ๆ
+sync-syncing-across-devices-empty-state2 =
+    .label = จัดการข้อมูลที่ซิงค์
+    .description = ยังไม่มีการซิงค์ข้อมูลในขณะนี้... เริ่มซิงค์เลยเพื่อรับข้อมูลของคุณได้จากทุกอุปกรณ์
 sync-syncing-across-devices-empty-state =
     .label = คุณยังไม่ได้ซิงค์ข้อมูลอะไร… เลย
     .description = เริ่มการซิงค์เพื่อนำข้อมูลทั้งหมดของคุณมาไว้บนอุปกรณ์ทั้งหมดของคุณ
@@ -1272,6 +1303,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = จัดการข้อมูลที่ซิงค์
     .accesskey = จ
+settings-sync-disconnect-button =
+    .label = ตัดการเชื่อมต่อ
 sync-change-options =
     .label = เปลี่ยน…
     .accesskey = ป
@@ -2099,6 +2132,12 @@ collection-backlogged-crash-reports2 =
     .label = ส่งรายงานข้อขัดข้องโดยอัตโนมัติ
     .accesskey = ข
 collection-backlogged-crash-reports-description = ข้อมูลนี้จะช่วยให้ { -vendor-short-name } สามารถวินิจฉัยและแก้ไขปัญหาเกี่ยวกับเบราว์เซอร์ได้ รายงานอาจรวมถึงข้อมูลส่วนตัวหรือข้อมูลละเอียดอ่อน
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = การตั้งค่าเดิม แต่รูปลักษณ์ใหม่
+    .message = เราได้จัดระเบียบหน้าเว็บใหม่เพื่อให้กวาดตาและสำรวจได้ง่ายขึ้น การตั้งค่าส่วนตัวของคุณไม่ได้ถูกเปลี่ยน และทุกอย่างยังคงเดิม เคล็ดลับ: ใช้ระบบค้นหาเพื่อตรงไปหาสิ่งที่ต้องการ
+settings-redesign-promo-dismiss-button =
+    .label = เข้าใจแล้ว
 addon-recommendations =
     .label = อนุญาตให้ { -brand-short-name } สร้างคำแนะนำส่วนขยายส่วนบุคคล
 addon-recommendations-link = เรียนรู้เพิ่มเติม
@@ -2354,6 +2393,16 @@ preferences-doh-custom-provider-label =
     .aria-label = ป้อน URL ของผู้ให้บริการที่กำหนดเอง
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = ความปลอดภัยการเชื่อมต่อและซอฟต์แวร์
+preferences-connection-link-section =
+    .label = ความปลอดภัยการเชื่อมต่อและซอฟต์แวร์
+    .description = ดูวิธีรักษาความปลอดภัยการเชื่อมต่อ ปิดกั้นซอฟต์แวร์ที่อันตราย และยืนยันเว็บไซต์
+preferences-connection-link-button =
+    .label = การตั้งค่าขั้นสูง
 
 ## The following strings are used in the Download section of settings
 
