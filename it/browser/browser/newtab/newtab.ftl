@@ -507,6 +507,9 @@ newtab-weather-menu-change-location = Modifica località
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Cerca località
     .aria-label = Cerca località
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Utilizza la posizione corrente
 newtab-weather-menu-weather-display = Visualizzazione meteo
 newtab-weather-todays-forecast = Previsioni per oggi
 newtab-weather-see-full-forecast = Mostra previsioni complete
