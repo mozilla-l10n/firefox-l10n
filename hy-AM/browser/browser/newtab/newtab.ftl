@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Հարմարեցնել այս էջը
 newtab-customize-panel-icon-button-label = Հարմարեցնել
+newtab-customize-panel-label =
+    .label = Հարմարեցնել
 newtab-personalize-settings-icon-label =
     .title = Անհատականացնել նոր ներդիրը
     .aria-label = Կարգավորումներ
@@ -72,6 +74,9 @@ newtab-topsites-url-validation = Անհրաժեշտ է վավեր URL
 newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -572,6 +577,9 @@ newtab-custom-wallpaper-cta = Փորձել
 ## Strings for new user activation custom wallpaper highlight
 
 newtab-new-user-custom-wallpaper-cta = Փորձել հիմա
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
