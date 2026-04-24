@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Tilpass denne sida
 newtab-customize-panel-icon-button-label = Tilpass
+newtab-customize-panel-label =
+    .label = Tilpass
 newtab-personalize-settings-icon-label =
     .title = Tilpass ny fane
     .aria-label = Innstillingar
@@ -635,6 +637,9 @@ newtab-custom-wallpaper-cta = Prøv det
 newtab-new-user-custom-wallpaper-title = Vel eit bakgrunnsbilde for å gjere { -brand-product-name } til din eigen
 newtab-new-user-custom-wallpaper-subtitle = Få kvar nye fane til å kjennast som heime med tilpassa bakgrunnar og fargar.
 newtab-new-user-custom-wallpaper-cta = Prøv det no
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

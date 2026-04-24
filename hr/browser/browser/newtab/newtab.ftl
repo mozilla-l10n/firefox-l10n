@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Prilagodi ovu stranicu
 newtab-customize-panel-icon-button-label = Prilagodi
+newtab-customize-panel-label =
+    .label = Prilagodi
 newtab-personalize-settings-icon-label =
     .title = Personaliziraj novu karticu
     .aria-label = Postavke
@@ -634,6 +636,9 @@ newtab-custom-wallpaper-cta = Isprobaj
 newtab-new-user-custom-wallpaper-title = Odaberi pozadinu te prilagodi { -brand-product-name } sebi
 newtab-new-user-custom-wallpaper-subtitle = Neka svaka nova kartice pruža osjećaj doma uz prilagođene pozadine i boje.
 newtab-new-user-custom-wallpaper-cta = Isprobajte sada
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

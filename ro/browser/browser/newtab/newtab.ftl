@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Personalizează această pagină
 newtab-customize-panel-icon-button-label = Personalizează
+newtab-customize-panel-label =
+    .label = Personalizează
 newtab-personalize-settings-icon-label =
     .title = Personalizează pagina de filă nouă
     .aria-label = Setări
@@ -620,6 +622,9 @@ newtab-custom-wallpaper-cta = Încearcă-l
 newtab-new-user-custom-wallpaper-title = Alege o imagine de fundal ca să personalizezi { -brand-product-name }
 newtab-new-user-custom-wallpaper-subtitle = Fă să simți fiecare filă nouă ca a ta, cu imagini de fundal și culori personalizate.
 newtab-new-user-custom-wallpaper-cta = Încearcă acum
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

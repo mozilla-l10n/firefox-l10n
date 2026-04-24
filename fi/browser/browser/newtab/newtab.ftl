@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Mukauta tätä sivua
 newtab-customize-panel-icon-button-label = Mukauta
+newtab-customize-panel-label =
+    .label = Mukauta
 newtab-personalize-settings-icon-label =
     .title = Mukauta uutta välilehteä
     .aria-label = Asetukset
@@ -630,6 +632,9 @@ newtab-custom-wallpaper-cta = Kokeile
 newtab-new-user-custom-wallpaper-title = Valitse taustakuva ja tee { -brand-product-name }ista omasi
 newtab-new-user-custom-wallpaper-subtitle = Tee jokaisesta uudesta välilehdestä tutunomainen mukautetuilla taustakuvilla ja väreillä.
 newtab-new-user-custom-wallpaper-cta = Kokeile nyt
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

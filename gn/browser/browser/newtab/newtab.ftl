@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Emboava ko kuatiarogue
 newtab-customize-panel-icon-button-label = Ñemomba’ete
+newtab-customize-panel-label =
+    .label = Ñemomba’ete
 newtab-personalize-settings-icon-label =
     .title = Eñemomba’e tendayke pyahúre
     .aria-label = Ñemboheko
@@ -635,6 +637,9 @@ newtab-custom-wallpaper-cta = Eha’ã jey
 newtab-new-user-custom-wallpaper-title = Eiporavo mba’erechaha rugua ejapo hag̃ua { -brand-product-name } nemba’erã.
 newtab-new-user-custom-wallpaper-subtitle = Pe tendayke pyahu toñeñandu porã mba’erechaha rugua ha sa’y eipotáva ndive.
 newtab-new-user-custom-wallpaper-cta = Eiporu ko’ág̃a
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

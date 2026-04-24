@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Prilagodi to stran
 newtab-customize-panel-icon-button-label = Prilagodi
+newtab-customize-panel-label =
+    .label = Prilagodi
 newtab-personalize-settings-icon-label =
     .title = Prilagodite stran novega zavihka
     .aria-label = Nastavitve
@@ -634,6 +636,9 @@ newtab-custom-wallpaper-cta = Preizkusite
 newtab-new-user-custom-wallpaper-title = Izberite ozadje, da bo { -brand-product-name } samo vaš
 newtab-new-user-custom-wallpaper-subtitle = Počutite se kot doma na vsakem novem zavihku s poljubnim ozadjem in barvami.
 newtab-new-user-custom-wallpaper-cta = Preizkusite zdaj
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

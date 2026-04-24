@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Përshtateni këtë faqe
 newtab-customize-panel-icon-button-label = Përshtateni
+newtab-customize-panel-label =
+    .label = Përshtateni
 newtab-personalize-settings-icon-label =
     .title = Personalizoni Skedën e Re
     .aria-label = Rregullime
@@ -609,6 +611,9 @@ newtab-custom-wallpaper-cta = Provojeni
 newtab-new-user-custom-wallpaper-title = Zgjidhni një sfond, për ta bërë { -brand-product-name }-in si e doni
 newtab-new-user-custom-wallpaper-subtitle = Bëjeni çdo skedë të re t’ju duket si shtëpia juaj, me sfonde dhe ngjyra tuajat.
 newtab-new-user-custom-wallpaper-cta = Provojeni tani
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

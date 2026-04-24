@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = 定制此页面
 newtab-customize-panel-icon-button-label = 定制
+newtab-customize-panel-label =
+    .label = 定制
 newtab-personalize-settings-icon-label =
     .title = 个性化新标签页
     .aria-label = 设置
@@ -620,6 +622,9 @@ newtab-custom-wallpaper-cta = 试试看
 newtab-new-user-custom-wallpaper-title = 选张壁纸，让 { -brand-product-name } 独具个性
 newtab-new-user-custom-wallpaper-subtitle = 自定义壁纸和颜色，让新标签页亲切如家。
 newtab-new-user-custom-wallpaper-cta = 现在就试试
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Personalize cheste pagjine
 newtab-customize-panel-icon-button-label = Personalize
+newtab-customize-panel-label =
+    .label = Personalize
 newtab-personalize-settings-icon-label =
     .title = Personalize Gnove schede
     .aria-label = Impostazions
@@ -69,6 +71,9 @@ newtab-topsites-url-validation = URL valit necessari
 newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
 newtab-topsites-image-validation = No si à rivât a cjariâ la imagjin. Prove cuntun URL diferent.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -604,6 +609,9 @@ newtab-new-user-custom-wallpaper-title = Sielç un fonts par personalizâ il to 
 newtab-new-user-custom-wallpaper-subtitle = Rint ogni gnove schede come se e fos cjase tô, cun fonts e colôrs personalizâts.
 newtab-new-user-custom-wallpaper-cta = Provilu daurman
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Discjame { -brand-product-name } par dispositîfs mobii
@@ -723,3 +731,9 @@ newtab-promo-card-cta = Plui informazions
 newtab-promo-card-dismiss-button =
     .title = Siere
     .aria-label = Scarte e siere
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

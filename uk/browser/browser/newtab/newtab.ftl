@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Налаштувати цю сторінку
 newtab-customize-panel-icon-button-label = Налаштувати
+newtab-customize-panel-label =
+    .label = Налаштувати
 newtab-personalize-settings-icon-label =
     .title = Персоналізувати нову вкладку
     .aria-label = Налаштування
@@ -616,6 +618,9 @@ newtab-custom-wallpaper-cta = Спробувати
 newtab-new-user-custom-wallpaper-title = Оберіть шпалери, щоб персоналізувати { -brand-product-name }
 newtab-new-user-custom-wallpaper-subtitle = Персоналізуйте кожну нову вкладку завдяки власним шпалерам і кольорам.
 newtab-new-user-custom-wallpaper-cta = Спробувати зараз
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

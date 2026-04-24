@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Personaliza custa pàgina
 newtab-customize-panel-icon-button-label = Personaliza
+newtab-customize-panel-label =
+    .label = Personaliza
 newtab-personalize-settings-icon-label =
     .title = Personaliza s’ischeda noa
     .aria-label = Cunfiguratziones
@@ -613,6 +615,9 @@ newtab-custom-wallpaper-cta = Proa immoe
 newtab-new-user-custom-wallpaper-title = Sèbera un’isfundu pro ti fàghere unu { -brand-product-name } totu tuo
 newtab-new-user-custom-wallpaper-subtitle = Intende·ti a domo cun is isfundos e is colores personalizados pro is ischedas noas.
 newtab-new-user-custom-wallpaper-cta = Proa·ddu immoe
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

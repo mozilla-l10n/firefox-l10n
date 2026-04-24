@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Oldal testreszabása
 newtab-customize-panel-icon-button-label = Testreszabás
+newtab-customize-panel-label =
+    .label = Testreszabás
 newtab-personalize-settings-icon-label =
     .title = Új lap testreszabása
     .aria-label = Beállítások
@@ -632,6 +634,9 @@ newtab-custom-wallpaper-cta = Próbálja ki
 newtab-new-user-custom-wallpaper-title = Válasszon háttérképet, hogy a { -brand-product-name }ot a sajátjává tegye
 newtab-new-user-custom-wallpaper-subtitle = Tegyen minden új lapot otthonossá az egyéni háttérképekkel és színekkel.
 newtab-new-user-custom-wallpaper-cta = Próbálja ki most
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 

@@ -11,6 +11,8 @@ newtab-settings-button =
 newtab-customize-panel-icon-button =
     .title = Přizpůsobte si tuto stránku
 newtab-customize-panel-icon-button-label = Přizpůsobit
+newtab-customize-panel-label =
+    .label = Přizpůsobit
 newtab-personalize-settings-icon-label =
     .title = Přizpůsobení nového panelu
     .aria-label = Nastavení
@@ -646,6 +648,9 @@ newtab-new-user-custom-wallpaper-title =
     }
 newtab-new-user-custom-wallpaper-subtitle = Zajistěte, aby se každý nový panel cítil jako doma pomocí vlastních tapet a barev.
 newtab-new-user-custom-wallpaper-cta = Vyzkoušejte nyní
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
