@@ -20,7 +20,7 @@ non-technical-privacy-heading =
     .label = حمايات إضافية
 preferences-privacy-relay-available =
     .label = اقتراح أقنعة البريد الإلكتروني { -relay-brand-name }
-    .description = يخفي عنوان بريدك الإلكتروني الحقيقي لحماية صندوق الوارد الخاص بك من السخام.
+    .description = يخفي عنوان بريدك الإلكتروني الحقيقي لحماية صندوق الوارد الخاص بك من الرسائل المزعجة.
 non-technical-privacy-header = تفضيلات خصوصية الموقع
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
@@ -180,6 +180,9 @@ preferences-profiles-group-header =
     .heading = ملفات الإعدادات
 preferences-profiles-subpane-description =
     .description = يحتوي كل ملف شخصي على بيانات وإعدادات تصفح منفصلة، بما في ذلك السجل وكلمات السر والمزيد.
+preferences-profiles-section-header =
+    .label = ملفات شخصية
+    .description = لكل ملف شخصي بيانات تصفح وإعدادات منفصلة، بما في ذلك التأريخ وكلمات السر وغيرها.
 preferences-profiles-header = ملفات الإعدادات
 preferences-manage-profiles-description = يحتوي كل ملف شخصي على بيانات وإعدادات تصفح منفصلة، بما في ذلك السجل وكلمات السر والمزيد.
 preferences-manage-profiles-learn-more = اطّلع على المزيد
@@ -187,6 +190,10 @@ preferences-manage-profiles-button =
     .label = أدِر ملفات الإعدادات
 preferences-profiles-settings-button =
     .label = الإعدادات
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .label = انسخ ملف شخصي موجود بالفعل
+    .description = سيقوم الملف الشخصي الجديد بنسخ إعداداتك وإضافاتك وتأريخك وبياناتك المحفوظة مثل العلامات وكلمات السر - ولكن ليس حسابك أو معلومات المزامنة.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -423,6 +430,8 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = قرّب النص فقط
     .accesskey = ن
+preferences-text-zoom-override-warning =
+    .message = تحذير: حدّدت "قرّب النص فقط" ولم تضبط التقريب المبدئي على 100٪، فقد يتسبب ذلك في تعطّل بعض المواقع أو المحتوى.
 language-header = اللّغات
 choose-language-description = اختر لغتك المفضلة لعرض الصفحات
 website-language-heading =
@@ -488,6 +497,8 @@ settings-translations-subpage-never-translate-header =
     .label = لا تترجم هذه اللغات أبدًا
 settings-translations-subpage-never-translate-sites-header =
     .label = لا تترجم هذه المواقع أبدًا
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = لإضافة موقع، افتح لوحة الترجمة <img data-l10n-name="translations-icon"/>، وحدّد إعدادات الترجمة <img data-l10n-name="settings-icon"/>، ثم اختر "لا تترجم هذا الموقع أبدًا".
 settings-translations-subpage-language-select-option =
     .label = أضِف لغة
 settings-translations-subpage-language-add-button =
@@ -747,6 +758,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = استخدم اللّف الآلي
     .accesskey = ف
+keyboard-and-scrolling-group =
+    .label = التنقل والتمرير باستخدام لوحة المفاتيح
+motion-and-link-group =
+    .label = تصميم الحركة والربط
 browsing-use-smooth-scrolling =
     .label = استخدم اللّف السلس
     .accesskey = خ
@@ -788,6 +803,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = اطّلع على المزيد
 browsing-group =
     .label = التّصفّح
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = الإتاحة
+preferences-default-zoom-select =
+    .aria-label = التقريب المبدئي
+preferences-fonts-family =
+    .label = عائلة الخط
+    .accesskey = ئ
+preferences-fonts-size =
+    .label = حجم الخط
+    .accesskey = م
+preferences-fonts-advanced-settings =
+    .label = إعدادات متقدّمة
+    .accesskey = ع
 
 ## General Section - Proxy
 
@@ -1098,6 +1129,10 @@ search-keyword-warning-title = كرر الكلمة المفتاحية
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = لقد اخترت كلمة مفتاحية يستخدمها ”{ $name }“ حاليا. من فضلك اختر واحدة أخرى.
 search-keyword-warning-bookmark = لقد اخترت كلمة مفتاحية تستخدمها علامة حاليا. من فضلك اختر واحدة أخرى.
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = يوجد بالفعل محرك بحث يحمل الاسم "{ $name }". يُرجى اختيار اسم آخر.
 remove-engine-confirmation = أمتأكد من رغبتك في إزالة محرك البحث هذا؟
 remove-engine-remove = أزِل
 remove-addon-engine-alert = لإزالة محرك البحث هذا،أزِل الإضافة المرتبطة به.
@@ -1217,6 +1252,9 @@ prefs-syncing-on = المزامنة: مفعلة
 prefs-syncing-on-2 =
     .label = المزامنة مفعّلة
 prefs-syncing-off = المزامنة: معطلة
+prefs-syncing-off-2 =
+    .label = المزامنة معطّلة
+    .description = فعّل المزامنة للحصول على علاماتك وكلمات مرورك وتأريخك والمزيد على أي جهاز.
 prefs-sync-turn-on-syncing =
     .label = فعّل المزامنة…
     .accesskey = ف
@@ -1244,6 +1282,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = أنت تُزامن هذه العناصر عبر جميع أجهزتك المتصلة:
 sync-syncing-across-devices-heading-2 = البيانات المزامنة عبر الأجهزة
+sync-syncing-across-devices-empty-state =
+    .label = أنت لا تزامن أي شيء... حتى الآن.
+    .description = ابدأ المزامنة للحصول على جميع بياناتك على جميع أجهزتك.
 sync-currently-syncing-bookmarks = العلامات
 sync-currently-syncing-history = التأريخ
 sync-currently-syncing-tabs = الألسنة المفتوحة
@@ -1441,6 +1482,9 @@ forms-primary-pw-change-2 =
 # Label for button to disable primary password.
 forms-primary-pw-turn-off =
     .label = عطّله
+# This operation requires the user to authenticate with the operating system (device sign-in)
+forms-os-reauth =
+    .label = يتطلب الولوج إلى الجهاز لملء كلمات السر وإدارتها
 forms-os-reauth-2 =
     .label = تطلب الولوج إلى الجهاز لإدارة كلمات السر
 forms-primary-pw-learn-more-link = اطّلع على المزيد
