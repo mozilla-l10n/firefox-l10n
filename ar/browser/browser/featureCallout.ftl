@@ -179,7 +179,10 @@ sidebar-pins-callout-cta-button = ثبّت اللسان
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = احتفظ بالألسنة المهمة في متناول يدك
+pin-tabs-callout-1-subtitle = اسحب لسان إلى بداية شريط اللسان لتثبيته. أو انقر بزر الفأرة الأيمن واختر ثبّت اللسان.
 pin-tabs-callout-cta-1-button = ثبّت هذا اللسان
+pin-tabs-callout-2-title = ثبّت الألسنة التي تزورها بكثرة
+pin-tabs-callout-2-subtitle = لتثبيت أي لسان، اسحبه إلى بداية شريط الألسنة. أو انقر بزر الفأرة الأيمن واختر ثبّت اللسان.
 pin-tabs-callout-cta-2-button = ثبّت هذا اللسان
 pin-tabs-callout-3-title = أبقِ المواقع المهمة في متناول يدك
 pin-tabs-callout-4-title = ثبّت المواقع التي تزورها بكثرة
@@ -238,3 +241,11 @@ unified-search-engines-callout-title = ابحث باستخدام اختصار
 unified-search-engines-callout-subtitle = اكتب "@" متبوعًا بكلمة مفتاحية للبحث في تأريخك أو علاماتك أو ألسنتك أو باستخدام محرك بحث آخر.
 unified-search-engines-callout-primary-label = فهمت
 actions-callout-title = أكمل المهام الشائعة أو الوصول إلى الإعدادات الأساسية
+# The user can type "print" and "clear" and a button will appear in the
+# search bar (e.g. Print page) the user can click to initiate the action.
+# These example text inputs correlate to the the following strings
+# (either matching the whole string, or the first word of the string).
+# "print" - quickactions-cmd-print
+# "clear" - quickactions-cmd-clearrecenthistory
+# When localizing, ensure the translations match to ensure the action button appears as expected.
+actions-callout-subtitle = جرّب كتابة إجراء مثل "اطبع" لطباعة صفحة، أو "امسح" لمسح تأريخ التصفح.
