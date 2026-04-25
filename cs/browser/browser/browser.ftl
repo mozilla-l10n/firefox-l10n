@@ -1128,6 +1128,21 @@ urlbar-result-action-switch-to-tabgroup = Přepnout na { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Otevřít { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Otevřít v novém panelu
+    .accesskey = p
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Otevřít v novém kontejnerovém panelu
+    .accesskey = k
+urlbar-view-context-menu-open-in-window =
+    .label = Otevřít v novém okně
+    .accesskey = o
+urlbar-view-context-menu-open-in-private-window =
+    .label = Otevřít v novém anonymním okně
+    .accesskey = a
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1559,6 +1574,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Ukončit anonymní relaci
     .tooltiptext = Ukončí anonymní relaci
+reset-pbm-panel-heading2 = Vymazat data a zahájit novou anonymní relaci?
+reset-pbm-panel-description2 = Tato akce smaže historii, cookies a všechna další data stránky bez zavření anonymního okna.
 reset-pbm-panel-heading = Ukončit anonymní relaci?
 reset-pbm-panel-description = Zavře všechny anonymní panely a vymažte historii, cookies a všechna další data stránek.
 reset-pbm-panel-always-ask-checkbox =
@@ -1567,6 +1584,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Zrušit
     .accesskey = Z
+reset-pbm-panel-confirm-button2 =
+    .label = Vymazat anonymní relaci
+    .accesskey = V
 reset-pbm-panel-confirm-button =
     .label = Smazat data relace
     .accesskey = S
@@ -1918,6 +1938,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } povolil { $count } těžeb kryptoměn
     }
 trustpanel-cryptominer-tab-list-header = Tyto weby se pokouší o těžbu kryptoměn:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Máte účet na této stránce?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Zavřít
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Na této stránce je zablokovaný <span data-l10n-name="count">{ $count }</span> sledovací prvek
@@ -1925,3 +1948,10 @@ trustpanel-blocker-section-header2 =
         [many] Na této stránce je zablokováno <span data-l10n-name="count">{ $count }</span> sledovacích prvků
        *[other] Na této stránce je zablokováno <span data-l10n-name="count">{ $count }</span> sledovacích prvků
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Vypadá stránka nefunkčně?</strong> Obnovte stránku, abyste dočasně snížili úroveň ochrany proti sledování.
+reduced-protection-infobar-reload-button = Obnovit
+    .accesskey = O
