@@ -1029,6 +1029,21 @@ urlbar-result-action-switch-to-tabgroup = { $group } тобына ауысу
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } тобын ашу
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Жаңа бетте ашу
+    .accesskey = а
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Жаңа контейнерлік бетте ашу
+    .accesskey = й
+urlbar-view-context-menu-open-in-window =
+    .label = Жаңа терезеде ашу
+    .accesskey = Ж
+urlbar-view-context-menu-open-in-private-window =
+    .label = Жаңа жекелік терезесінде ашу
+    .accesskey = е
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1263,6 +1278,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Бөлісу
     .tooltiptext = Бұл бетті бөлісу
+toolbar-button-tab-groups =
+    .label = Беттер топтары
+    .tooltiptext = Беттер топтарыңызды көрсету
 
 ## EME notification panel
 

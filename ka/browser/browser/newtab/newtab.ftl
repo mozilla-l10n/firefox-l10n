@@ -628,6 +628,10 @@ newtab-section-unfollow-topic =
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
     .aria-label = შეიზღუდოს { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = მოიხსნას შეზღუდვისგან { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -658,6 +662,12 @@ newtab-custom-wallpaper-cta = მოსინჯვა
 newtab-new-user-custom-wallpaper-title = აირჩიეთ ფონი, რომ გახადოთ { -brand-product-name } მეტად თქვენებური
 newtab-new-user-custom-wallpaper-subtitle = ახალი ჩანართის გახსნისას იგრძენით თავი შინ სასურველი ფონისა და ფერების შერჩევით.
 newtab-new-user-custom-wallpaper-cta = მოსინჯეთ ახლავე
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = ცინცხალი ფონები, ახლახან დამატებული
+newtab-wallpaper-feature-highlight-subtitle = აირჩიეთ თქვენთვის სასურველი და მოაწყვეთ ახალი ჩანართის გვერდი საკუთარი სახლივით.
+newtab-wallpaper-feature-highlight-cta = ფონის არჩევა
 
 ## Strings for download mobile highlight
 
@@ -746,8 +756,12 @@ newtab-widget-lists-dropdown-create =
     .label = + ახალი სიის შექმნა
 newtab-widget-lists-name-label-default =
     .label = დავალებების სია
+newtab-widget-lists-name-label-checklist =
+    .label = ჩამონათვალი
 newtab-widget-lists-name-placeholder-default =
     .placeholder = დავალებების სია
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = ჩამონათვალი
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = ახალი სია
@@ -767,7 +781,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = ჩანამატების ჩაკეცვა
     .aria-label = ყველა ჩანამატი შემცირებული ზომით
+newtab-widget-section-menu-button =
+    .title = ჩანამატების მენიუ
+    .aria-label = ჩანამატების მენიუს გახსნა
+newtab-widget-section-menu-hide-all = ჩანამატების დამალვა
+newtab-widget-section-menu-learn-more = ვრცლად
 newtab-widget-section-feedback = მოგვახსენეთ თქვენი აზრი
+newtab-widget-lists-name-default = ჩამონათვალი
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -1029,6 +1029,21 @@ urlbar-result-action-switch-to-tabgroup = გადაირთოს { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = გაიხსნას { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = გახსნა ახალ ჩანართში
+    .accesskey = ლ
+urlbar-view-context-menu-open-in-container-tab =
+    .label = გახსნა ახალ სათავს ჩანართში
+    .accesskey = ვ
+urlbar-view-context-menu-open-in-window =
+    .label = გახსნა ახალ ფანჯარაში
+    .accesskey = ფ
+urlbar-view-context-menu-open-in-private-window =
+    .label = გახსნა ახალ პირად ფანჯარაში
+    .accesskey = პ
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1263,6 +1278,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = გაზიარება
     .tooltiptext = ამ გვერდის გაზიარება
+toolbar-button-tab-groups =
+    .label = ჩანართის ჯგუფები
+    .tooltiptext = ჩანართის ჯგუფების ჩვენება
 
 ## EME notification panel
 
@@ -1445,6 +1463,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = პირადი სეანსის დასრულება
     .tooltiptext = პირადი სეანსის დასრულება
+reset-pbm-panel-heading2 = წაიშალოს მონაცემები და გაეშვას ახალი პირადი სეანსი?
+reset-pbm-panel-description2 = შედეგად წაიშლება ისტორია, ფუნთუშები და საიტის ყველა სხვა მონაცემი პირადი ფანჯრის დაუხურავად.
 reset-pbm-panel-heading = დასრულდეს პირადი სეანსი?
 reset-pbm-panel-description = დაიხუროს ყველა პირადი ჩანართი და წაიშალოს ისტორია, ფუნთუშები და საიტის სხვა მონაცემები.
 reset-pbm-panel-always-ask-checkbox =
@@ -1453,6 +1473,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = გაუქმება
     .accesskey = ქ
+reset-pbm-panel-confirm-button2 =
+    .label = პირადი სეანსის გასუფთავება
+    .accesskey = უ
 reset-pbm-panel-confirm-button =
     .label = სეანსის მონაცემების წაშლა
     .accesskey = წ
@@ -1699,6 +1722,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } ნებას რთავს { $count } კრიპტოგამომმუშავებელს
     }
 trustpanel-cryptominer-tab-list-header = მოცემული საიტები ცდილობს კრიპტოგამომუშავებას:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = გაქვთ ანგარიში ამ საიტზე?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = აცილება
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = უფასო შემოწმების დაწყება
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე

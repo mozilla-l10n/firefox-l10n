@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> უკან 
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = სერვერი <strong>{ $hostname }</strong> პასუხად აბრუნებს შეცდომას: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> აბრუნებს თავსართს ცარიელი ასონიშნებით, რაც არაა ნებადართული უსაფრთხოების ვებსტანდარტებით.
+fp-neterror-content-encoding-intro = გვერდი, რომლის ნახვაც გსურთ, ვერ გამოჩნდება, რადგან გაუმართავი ან მხარდაუჭერელი სახის შეკუმშვითაა.
 fp-neterror-coop-coep-intro = { -brand-short-name } არ ჩატვირთავს ამ გვერდს, ვინაიდან ჩანს, უსაფრთხოება გამართვა არ ემთხვევა წინა გვერდისას.
 fp-neterror-blocked-by-policy-intro = თქვენს დაწესებულებას შეზღუდული აქვს ამ გვერდთან ან ვებსაიტთან წვდომა.
 fp-neterror-http-auth-disabled-intro = ვიღაც მოჩვენებითი საიტით შეიძლება ცდილობდეს თქვენი მონაცემების მოპარვას, როგორიცაა მომხმარებლის სახელი, პაროლი ან ელფოსტა.
