@@ -601,7 +601,7 @@ newtab-section-unfollow-button = Takibi bırak
 # Variables:
 #   $topic (string) - Topic that the user is following and can unfollow
 newtab-section-unfollow-button-label =
-    .aria-label = Takip ediliyor: { $topic } konusunu takibi bırak
+    .aria-label = Takip ediliyor: { $topic } konusunu takip etmeyi bırak
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Akışınıza ince ayar yapın
 newtab-section-follow-highlight-subtitle = Beğendiğiniz diğer içerikleri görmek için ilgi alanlarınızı takip edin.

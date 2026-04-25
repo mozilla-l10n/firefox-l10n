@@ -52,6 +52,7 @@ ipprotection-location-selection-callout-secondary-button = Kapat
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
 unauthenticated-hide-location-message-3 = { -brand-product-name } ile gezinirken <a data-l10n-name="learn-more-vpn">konumunuzu gizleyin</a>.
+unauthenticated-choose-location-message = 5 konum arasından seçim yapın veya en hızlısını { -brand-product-name } seçsin.
 unauthenticated-hide-location-message-2 = { -brand-product-name } ile gezinirken konumunuzu gizleyin.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
