@@ -12,8 +12,8 @@ about-webauthn-page-title = حول WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = معلومات الجهاز
-about-webauthn-info-subsection-title = معلومات المصادقة
-about-webauthn-options-subsection-title = خيارات المصادقة
+about-webauthn-info-subsection-title = معلومات الاستيثاق
+about-webauthn-options-subsection-title = خيارات الاستيثاق
 about-webauthn-pin-section-title = إدارة رقم التعريف الشخصي
 about-webauthn-credential-management-section-title = إدارة بيانات الاعتماد
 about-webauthn-pin-required-section-title = رقم التعريف الشخصي مطلوب

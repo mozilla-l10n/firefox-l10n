@@ -5,6 +5,14 @@
 
 ## OS Prompt Dialog
 
+# The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-use-payment-method-os-prompt-macos = استخدام معلومات طريقة الدفع المخزنة
+autofill-use-payment-method-os-prompt-windows = يحاول { -brand-short-name } استخدام معلومات طريقة الدفع المخزنة. يُرجى تأكيد الوصول إلى حساب Windows هذا أدناه.
+autofill-use-payment-method-os-prompt-other = { -brand-short-name } يحاول استخدام معلومات طريقة الدفع المخزنة.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-edit-payment-method-os-prompt-macos = أظهر معلومات طريقة الدفع المخزنة
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = خيارات الملء الآلي للاستمارات
 autofill-options-link-osx = تفضيلات الملء الآلي للاستمارات

@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> أرسل خط
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = أعاد الخادم الموجود على <strong>{ $hostname }</strong> خطأً: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> أرسل ترويسة تحتوي على أحرف فارغة غير مسموح بها وفقًا لمعايير أمان الوِب.
+fp-neterror-content-encoding-intro = تعذّر عرض الصفحة التي تحاول فتحها لأن نوع الضغط فيها غير سليم أو غير مدعوم.
 fp-neterror-coop-coep-intro = لم تُحمّل هذه الصفحة بواسطة { -brand-short-name } لأن إعدادات الأمان لا تتطابق مع الصفحة السابقة.
 fp-neterror-blocked-by-policy-intro = حجبت مؤسستك الوصول إلى هذه الصفحة أو إلى هذا الموقع.
 fp-neterror-http-auth-disabled-intro = قد يحاول شخص يتظاهر بأنه مسؤول عن الموقع سرقة أشياء مثل اسم المستخدم أو كلمة السر أو البريد الإلكتروني.

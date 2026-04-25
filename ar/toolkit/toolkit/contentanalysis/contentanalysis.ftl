@@ -7,6 +7,10 @@ contentanalysis-alert-title = تحليل المحتوى
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
 contentanalysis-slow-agent-notification = تستغرق أداة تحليل المحتوى وقتًا طويلاً للاستجابة للمورد “{ $content }”
 contentanalysis-slow-agent-dialog-header = جارِ المسح
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = يقوم { $agent } بمراجعة "{ $filename }" وفقًا لسياسات بيانات مؤسستك. قد يستغرق هذا بعض الوقت.
 contentanalysis-operationtype-clipboard = الحافظة
 contentanalysis-operationtype-dropped-text = النص المُسقط
 contentanalysis-operationtype-print = اطبع
@@ -36,5 +40,7 @@ contentanalysis-block-dialog-body-download-file = وفقًا لسياسات حم
 contentanalysis-block-dialog-title-clipboard = لا يسمح لك بلصق هذا المحتوى
 contentanalysis-block-dialog-title-dropped-text = لا يسمح لك بإسقاط هذا المحتوى
 contentanalysis-block-dialog-title-print = لا يسمح لك بطباعة هذا المستند
+contentanalysis-block-dialog-body-print = وفقًا لسياسات حماية البيانات الخاصة بمؤسستك، لا يُسمح لك بطباعة هذا المستد. تواصل مع مسؤول النظام لمزيد من المعلومات.
 contentanalysis-inprogress-quit-title = إغلاق { -brand-shorter-name }؟
+contentanalysis-inprogress-quit-message = هناك عِدة إجراءات جارية. أنهيت { -brand-shorter-name }، فلن تكتمل هذه الإجراءات.
 contentanalysis-inprogress-quit-yesbutton = نعم، أغلق
