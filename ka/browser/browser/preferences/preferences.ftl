@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI-სამართავი
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = ხელმისაწვდომობა
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } ცდები
 category-experimental =
     .tooltiptext = { -brand-short-name } ცდები
@@ -751,6 +753,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = თვითგადაადგილების გამოყენება
     .accesskey = თ
+keyboard-and-scrolling-group =
+    .label = კლავიატურით მოძრაობა და გადაადგილება
+motion-and-link-group =
+    .label = მოძრაობა და ბმულების გაფორმება
 browsing-use-smooth-scrolling =
     .label = გლუვი გადაადგილების გამოყენება
     .accesskey = გ
@@ -792,6 +798,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ვრცლად
 browsing-group =
     .label = გვერდების მონახულება
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = ხელმისაწვდომობა
+preferences-default-zoom-select =
+    .aria-label = ნაგულისხმევი მოახლოება
+preferences-fonts-family =
+    .label = შრიფტის ოჯახი
+    .accesskey = ფ
+preferences-fonts-size =
+    .label = შრიფტის ზომა
+    .accesskey = ზ
+preferences-fonts-advanced-settings =
+    .label = გაფართოებული პარამეტრები
+    .accesskey = ო
 
 ## General Section - Proxy
 
@@ -1096,6 +1118,7 @@ search-edit-engine =
     .label = ჩასწორება
     .accesskey = წ
 search-find-more-link = სხვა საძიებო სისტემების მონახვა
+search-filtering-for-add-engine = საძიებოს დამატება
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = საკვანძო სიტყვა უკვე გამოყენებულია

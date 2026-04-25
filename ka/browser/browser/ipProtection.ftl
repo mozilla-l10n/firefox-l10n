@@ -107,6 +107,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = აირჩიეთ განსხვავებული მდებარეობა გვერდების მონახულებისას.
 ipprotecion-locations-subview-recommended-label = სასურველი
 ipprotection-locations-subview-recommended-description = მოიძიებს უსწრაფეს მდებარეობას
+ipprotection-locations-subview-promo =
+    .heading = უსაფრთხოების მეტად ასამაღლებლად დაიხმარეთ { -mozilla-vpn-brand-name }
+    .message = აირჩიეთ 300+ ადგილმდებარეობიდან რომელიმე და დაიცავით ყველა პროგრამა 5 მოწყობილობის ჩათვლით.
 ipprotection-locations-subview-promo-button = გამოიყენეთ { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -180,6 +183,11 @@ ip-protection-learn-more = ვრცლად
 ip-protection-not-opted-in-2 =
     .heading = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-short-name }
     .message = მდებარეობის გაუმჟღავნებლად გამოიყენეთ { -brand-short-name } გვერდების მონახულებისთვის. მიიღეთ { $maxUsage } ᲒᲑ მოცულობის უფასო VPN ყოველთვიურად.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-short-name }
+    .message = მოინახულეთ გვერდები დამატებითი დაცვით, ადგილსამყოფლის დაფარვით. მიიღეთ { $maxUsage } ᲒᲑ უფასო VPN-მოცულობა ყოველთვე.
 ip-protection-not-opted-in-button = დაიწყეთ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -199,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = კიდევ უფრო მეტი დაცვისთვის, რომლითაც არამხოლოდ { -brand-short-name } შეძლებს სარგებლობას, გამოცადეთ { -mozilla-vpn-brand-name }
     .description = თავადვე შეარჩიეთ სასურველი VPN-მდებარეობა და ყველა პროგრამა აღჭურვეთ დამატებითი დაცვით ხუთ მოწყობილობამდე, როგორც სახლის, ასევე საჯარო WiFi-ქსელით სარგებლობისას.
+ip-protection-vpn-upgrade-link-1 =
+    .label = უსაფრთხოების მეტად ასამაღლებლად დაიხმარეთ { -mozilla-vpn-brand-name }
+    .description = აირჩიეთ 300+ ადგილმდებარეობიდან რომელიმე და დაიცავით ყველა პროგრამა 5 მოწყობილობის ჩათვლით.
 
 ## IP Protection dialogs
 
@@ -251,6 +262,12 @@ vpn-paused-alert-title = VPN შეჩერებულია
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მოცულობიდან. VPN-წვდომა აღდგება შემდეგი თვიდან.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მოცულობიდან. წვდომა აღდგება შემდეგი თვიდან.
+vpn-error-page-continue-description = აირჩიეთ, როგორ განაგრძოს VPN-ის გარეშე
+vpn-error-page-keep-browsing = გაგრძელდეს გვერდების მონახულება ამავე სეანსზე
+vpn-error-page-new-session = გაეშვას ახალი სეანსი
 vpn-paused-alert-close-tabs-button = ყველა ჩანართის დახურვა
 vpn-paused-alert-continue-wo-vpn-button = განაგრძეთ გამორთული VPN-ით
 vpn-error-alert-title = VPN ამჟამად არ მუშაობს.
