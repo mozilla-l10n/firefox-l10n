@@ -505,6 +505,9 @@ newtab-weather-menu-change-location = Standort ändern
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Standort suchen
     .aria-label = Standort suchen
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Aktuellen Standort verwenden
 newtab-weather-menu-weather-display = Wetteranzeige
 newtab-weather-todays-forecast = Die heutige Wettervorhersage
 newtab-weather-see-full-forecast = Vollständige Prognose ansehen
@@ -614,6 +617,22 @@ newtab-section-follow-highlight-subtitle = Folgen Sie Ihren Interessen, um mehr 
 newtab-section-block-button = Blockieren
 newtab-section-blocked-button = Blockiert
 newtab-section-unblock-button = Nicht mehr blockieren
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = { $topic } folgen
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = { $topic } nicht mehr folgen
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = { $topic } blockieren
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = { $topic } nicht mehr blockieren
 
 ## Confirmation modal for blocking a section
 
