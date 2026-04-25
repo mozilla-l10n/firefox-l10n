@@ -1042,6 +1042,15 @@ urlbar-result-action-open-saved-tabgroup = Открыть { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Открыть в новой вкладке
     .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Открыть в новой вкладке в контейнере
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Открыть в новом окне
+    .accesskey = Т
+urlbar-view-context-menu-open-in-private-window =
+    .label = Открыть в новом приватном окне
+    .accesskey = З
 
 ## Labels shown above groups of urlbar results
 
