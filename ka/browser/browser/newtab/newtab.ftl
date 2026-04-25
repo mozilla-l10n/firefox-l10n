@@ -592,8 +592,16 @@ newtab-topic-selection-button-pick-interests = აირციეთ მის�
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = თვალის მიდევნება
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = გამოიწერეთ { $topic }
 newtab-section-following-button = გამოწერილი
 newtab-section-unfollow-button = თვალის მიდევნების შეწყვეტა
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = გამოწერილი: გაუქმდეს { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = გააუმჯობესეთ თქვენი არხი
 newtab-section-follow-highlight-subtitle = მიჰყევით თქვენს მისწრაფებებს, რომ იხილოთ კიდევ უფრო მეტი, რაც მოგწონთ.
@@ -605,6 +613,14 @@ newtab-section-follow-highlight-subtitle = მიჰყევით თქვე
 newtab-section-block-button = შეზღუდვა
 newtab-section-blocked-button = შეზღუდულია
 newtab-section-unblock-button = შეზღუდვის მოხსნა
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = გამოიწერეთ { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = გააუქმეთ { $topic }
 
 ## Confirmation modal for blocking a section
 
