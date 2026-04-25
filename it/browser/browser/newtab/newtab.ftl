@@ -619,6 +619,22 @@ newtab-section-follow-highlight-subtitle = Segui gli argomenti che ti interessan
 newtab-section-block-button = Blocca
 newtab-section-blocked-button = Bloccato
 newtab-section-unblock-button = Sblocca
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Segui { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Smetti di seguire { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blocca { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Sblocca { $topic }
 
 ## Confirmation modal for blocking a section
 
