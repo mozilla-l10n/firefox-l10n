@@ -718,9 +718,6 @@ update-in-progress-ok-button = I&nterrompi
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
