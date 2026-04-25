@@ -98,6 +98,7 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Gezinmek için farklı bir konum seçin.
 ipprotecion-locations-subview-recommended-label = Önerilen
 ipprotection-locations-subview-recommended-description = En hızlı konumu bulur
+ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name }’i edinin
 
 ## VPN paused state
 

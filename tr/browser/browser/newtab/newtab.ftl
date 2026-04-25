@@ -501,6 +501,9 @@ newtab-weather-menu-change-location = Konumu değiştir
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Konum ara
     .aria-label = Konum ara
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Şu anki konumu kullan
 newtab-weather-menu-weather-display = Hava durumu göstergesi
 newtab-weather-todays-forecast = Bugünkü hava durumu
 newtab-weather-see-full-forecast = Tüm hava durumunu göster
@@ -610,6 +613,22 @@ newtab-section-follow-highlight-subtitle = Beğendiğiniz diğer içerikleri gö
 newtab-section-block-button = Engelle
 newtab-section-blocked-button = Engellendi
 newtab-section-unblock-button = Engeli kaldırın
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = { $topic } konusunu takip et
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = { $topic } konusunu takip etmeyi bırak
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = { $topic } konusunu engelle
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = { $topic } konusunun engelini kaldır
 
 ## Confirmation modal for blocking a section
 
