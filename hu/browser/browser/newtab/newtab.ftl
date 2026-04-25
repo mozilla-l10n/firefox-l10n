@@ -667,6 +667,8 @@ newtab-new-user-custom-wallpaper-cta = Próbálja ki most
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Friss háttérképek érkeztek
+newtab-wallpaper-feature-highlight-subtitle = Válassza ki a kedvencét, és legyen otthonos az összes új lapja.
+newtab-wallpaper-feature-highlight-cta = Háttérkép választása
 
 ## Strings for download mobile highlight
 
@@ -755,8 +757,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Új lista létrehozása
 newtab-widget-lists-name-label-default =
     .label = Feladatlista
+newtab-widget-lists-name-label-checklist =
+    .label = Ellenőrzőlista
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Feladatlista
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Ellenőrzőlista
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Új lista
@@ -776,6 +782,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Kisalkalmazások minimalizálása
     .aria-label = Összes kisalkalmazás összecsukása kompakt méretre
+newtab-widget-section-menu-button =
+    .title = Kisalkalmazások menü
+    .aria-label = Kisalkalmazások menü megnyitása
+newtab-widget-section-menu-hide-all = Kisalkalmazások elrejtése
+newtab-widget-section-menu-learn-more = További tudnivalók
 newtab-widget-section-feedback = Mondja el nekünk mit gondol
 
 ## Strings for timer productivity widget
