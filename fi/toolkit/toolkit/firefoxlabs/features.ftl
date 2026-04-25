@@ -64,15 +64,31 @@ experimental-features-fx-web-apps-description = Avaa usein vierailemiasi sivusto
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listat { -firefox-home-brand-name }issa
+experimental-features-newtab-widget-lists-new =
+    .label = Listat
 experimental-features-newtab-widget-lists-description = Pidä tehtävälistasi mielessäsi, kun avaat uuden välilehden. Pakkauslistoista ostoslistoihin, tee suunnitelmasi { -brand-product-name }issa. <a data-l10n-name="connect">Jaa palautetta</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Ajastin { -firefox-home-brand-name }issa
+experimental-features-newtab-widget-timer-new =
+    .label = Ajastin
 experimental-features-newtab-widget-timer-description = Aseta ajastin pitämään sinut keskittyneenä, kannustamaan sinua pysymään aikataulussa tai muistuttamaan sinua lataamaan akkujasi. <a data-l10n-name="connect">Jaa palautetta</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listat ja ajastin { -firefox-home-brand-name }issa
 experimental-features-newtab-widget-lists-and-timer-description = Pidä tehtävälistasi mielessäsi, kun avaat uuden välilehden. Pakkauslistoista ostoslistoihin, tee suunnitelmasi { -brand-product-name }issa. Aseta ajastin pitämään sinut keskittyneenä, kannustamaan sinua pysymään aikataulussa tai muistuttamaan sinua lataamaan akkujasi. <a data-l10n-name="connect">Jaa palautetta</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Sääennusteet
+experimental-features-newtab-widget-weather-description = Saat selkeän kuvan päivän säästä tuntikohtaisten ennusteiden avulla. <a data-l10n-name="connect">Jaa palautetta</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Päivän kuva
+experimental-features-newtab-widget-picture-of-the-day-description = Lisää päivääsi ripaus ihmettä. Vastaanota uusi kuva, opi jotain mielenkiintoista ja aseta uusi taustakuva hetkessä. <a data-l10n-name="connect">Jaa palautetta</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Kellot
+experimental-features-newtab-widget-clocks-description = Lisää jopa neljä kelloa mukautetuilla kutsumanimillä, jotta voit seurata aikaa sinulle tärkeissä paikoissa. <a data-l10n-name="connect">Jaa palautetta</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semanttisen historian haku

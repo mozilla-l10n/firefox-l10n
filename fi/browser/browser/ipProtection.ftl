@@ -38,6 +38,11 @@ ipprotection-site-settings-callout-title = Valitse missä käytät VPN:ää
 ipprotection-site-settings-callout-subtitle = Poista VPN käytöstä tietyltä sivustolta, niin muistamme sen seuraavan käyntisi yhteydessä.
 ipprotection-site-settings-callout-button = Selvä
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Kokeile
+ipprotection-location-selection-callout-secondary-button = Hylkää
+
 ## Panel
 
 # Also used for the callout shown in private browsing
@@ -54,6 +59,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Käytä VPN:ää tällä sivustolla
     .aria-label = VPN ei ole käytössä tällä sivustolla
+site-exclusion-toggle-description = Eikö sivusto toimi? Kokeile poistaa VPN käytöstä.
 ipprotection-settings-link =
     .label = Asetukset
 
@@ -73,6 +79,22 @@ ipprotection-button-turn-vpn-on = Ota VPN käyttöön
 # Button while VPN is connecting
 ipprotection-button-connecting = Käynnistetään…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Sijainti: Suositeltu
+ipprotection-recommended-location-description = { -brand-product-name } löytää nopeimman sijainnin
+ipprotection-recommended-location-badge = UUSI
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Sijainti: { $country }
+ipprotection-locations-subview =
+    .title = Valitse sijainti
+ipprotecion-locations-subview-recommended-label = Suositeltu
+ipprotection-locations-subview-recommended-description = Löytää nopeimman sijainnin
+ipprotection-locations-subview-promo-button = Hanki { -mozilla-vpn-brand-name }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN keskeytetty
@@ -82,6 +104,7 @@ ipprotection-connection-status-paused-description = Olet käyttänyt kaiken VPN-
 upgrade-vpn-title = Hanki lisäsuojaa selaimen ulkopuolelle
 upgrade-vpn-description = Valitse VPN-sijaintisi, käytä VPN:ää kaikissa sovelluksissasi, jopa viidellä laitteellasi, ja pysy turvassa missä tahansa verkossa – kotona tai julkisessa Wi-Fi-verkossa.
 upgrade-vpn-button = Kokeile { -mozilla-vpn-brand-name }:ää
+ipprotection-connection-status-paused-title-1 = VPN on keskeytetty
 
 ## Messages and errors
 
@@ -208,6 +231,7 @@ vpn-paused-alert-title = VPN keskeytetty
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Olet käyttänyt kaiken VPN-datasi, { $maxUsage } Gt. VPN-käyttöoikeus nollautuu ensi kuussa.
+vpn-error-page-new-session = Aloita uusi istunto
 vpn-paused-alert-close-tabs-button = Sulje kaikki välilehdet
 vpn-paused-alert-continue-wo-vpn-button = Jatka ilman VPN:ää
 vpn-error-alert-title = VPN ei toimi juuri nyt.
