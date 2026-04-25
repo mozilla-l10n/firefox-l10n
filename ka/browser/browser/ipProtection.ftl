@@ -49,23 +49,30 @@ ipprotection-site-settings-callout-button = გასაგებია
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = სიახლე: შეცვალეთ თქვენი ადგილმდებარეობა
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ჩაშენებული VPN-ით</a> საშუალებას გაძლევთ აირჩიოთ სასურველი 5 მდებარეობიდან რომელიმე ან თავად შეგირჩევთ უსწრაფესს.
+ipprotection-location-selection-callout-primary-button = მოსინჯვა
+ipprotection-location-selection-callout-secondary-button = აცილება
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">დამალეთ თქვენი მდებარეობა</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
+unauthenticated-private-location-message = გეხმარებათ <a data-l10n-name="learn-more-vpn">დატოვოთ თქვენი ადგილსამყოფელი პირადი</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
+unauthenticated-choose-location-message = აირჩიეთ 5 მდებარეობიდან ან { -brand-product-name } თავად შეგირჩევთ უსწრაფესს.
 unauthenticated-hide-location-message-2 = მდებარეობის გაუმჟღავნებლად გამოიყენეთ { -brand-product-name } გვერდების მონახულებისთვის.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = გამოიყენეთ { $maxUsage } ᲒᲑ მოცულობით უფასო VPN ყოველთვიურად.
 unauthenticated-get-started = დაიწყეთ
+unauthenticated-terms-of-service-privacy-notice = თუ განაგრძობთ, თქვენ ეთანხმებით <a data-l10n-name="vpn-terms-of-service">მომსახურების პირობებსა</a> და <a data-l10n-name="vpn-privacy-notice">პირადი მონაცემების დაცვის განაცხადს</a>.
 site-exclusion-toggle-enabled-1 =
     .label = გამოიყენოს VPN ამ საიტზე
     .aria-label = VPN ჩართულია ამ საიტზე
 site-exclusion-toggle-disabled-1 =
     .label = გამოიყენოს VPN ამ საიტზე
     .aria-label = VPN გამორთულია ამ საიტზე
+site-exclusion-toggle-description = საიტი არ მუშაობს? დროებით გამორთეთ VPN.
 ipprotection-settings-link =
     .label = პარამეტრები
 
@@ -85,6 +92,23 @@ ipprotection-button-turn-vpn-on = ჩაირთოს VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = ირთვება…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = ადგილმდებარეობა: სასურველი
+ipprotection-recommended-location-description = { -brand-product-name } მონახავს უსწრაფეს მდებარეობას
+ipprotection-recommended-location-badge = ᲡᲘᲐᲮᲚᲔ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = მდებარეობა: { $country }
+ipprotection-locations-subview =
+    .title = მდებარეობის არჩევა
+ipprotection-locations-subview-description = აირჩიეთ განსხვავებული მდებარეობა გვერდების მონახულებისას.
+ipprotecion-locations-subview-recommended-label = სასურველი
+ipprotection-locations-subview-recommended-description = მოიძიებს უსწრაფეს მდებარეობას
+ipprotection-locations-subview-promo-button = გამოიყენეთ { -mozilla-vpn-brand-name }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN შეჩერებულია
@@ -94,6 +118,10 @@ ipprotection-connection-status-paused-description = თქვენ სრულ
 upgrade-vpn-title = მიიღეთ დამატებითი დაცვა ბრაუზერს მიღმაც
 upgrade-vpn-description = თავადვე შეარჩიეთ სასურველი VPN-მდებარეობა, გამოიყენეთ VPN ყველა პროგრამისთვის ხუთ მოწყობილობამდე და იყავით დაცული ყველგან — სახლისა თუ საჯარო WiFi-ქსელში.
 upgrade-vpn-button = გამოცადეთ { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN შეჩერებულია
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = თქვენ სრულად გახარჯეთ { $maxUsage } ᲒᲑ თქვენი VPN-მოცულობიდან. წვდომა აღდგება შემდეგი თვიდან.
 
 ## Messages and errors
 
@@ -143,6 +171,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN-მოცუ
 ip-protection-description =
     .label = VPN
     .description = ჩაშენებული VPN, რომლითაც { -brand-short-name } კიდევ უფრო მეტად იცავს თქვენს პირადულობას გვერდების მონახულებისას.
+ip-protection-description-1 =
+    .label = ჩაშენებული VPN
+    .description = დამატებითი პირადულობა ადგილსამყოფლის დამალვით გვერდების მონახულებისას.
 ip-protection-learn-more = ვრცლად
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
