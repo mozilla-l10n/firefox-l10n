@@ -85,10 +85,6 @@ abuse-report-broken-suggestions-theme =
     يبدو أنك قد اكتشفت علة. بالإضافة إلى إرسال تقرير هنا، فإن أفضل طريقة لحل مشكلة في وظائف القالب هي التواصل مع مطوّر السمة.
     
     <a data-l10n-name="support-link">تفضل بزيارة موقع السمة</a> للحصول على معلومات المطوّر.
-abuse-report-policy-suggestions =
-    ملاحظة: يجب الإبلاغ عن مشاكل حقوق النشر والعلامات التجارية بشكل منفصل.
-    
-    استخدم هذه التعليمات للإبلاغ عن المشكلة.
 abuse-report-unwanted-reason-v2 = لم أرده من الأساس ولا أعلم كيف أحذفه
 abuse-report-unwanted-example = أمثلة: أحد التطبيقات ثبّته دون طلب ذلك مني
 abuse-report-other-reason = شيء آخر
