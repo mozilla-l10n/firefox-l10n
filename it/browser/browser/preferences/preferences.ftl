@@ -677,6 +677,8 @@ update-application-version = Versione { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = Mostra cronologia aggiornamenti
     .accesskey = o
+update-application-installation =
+    .label = Installazione
 update-history =
     .label = Mostra cronologia aggiornamenti…
     .accesskey = o
@@ -717,6 +719,16 @@ update-in-progress-ok-button = I&nterrompi
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
+
+## Firefox updates
+
+update-application-heading =
+    .label = Aggiornamenti di { -brand-short-name }
+    .description = Gli aggiornamenti rendono { -brand-short-name } più veloce, stabile e sicuro.
+update-application-suppress-prompts-heading =
+    .label = Notifiche
+update-application-updates-managed-by-os =
+    .message = Gli aggiornamenti vengono gestiti dal tuo sistema operativo
 
 ## Firefox support
 
