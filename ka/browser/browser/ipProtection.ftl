@@ -32,16 +32,23 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = გამოი
 ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში დამატებითი დაცვით, მდებარეობის დაფარვით, მათ შორის პირად ფანჯრებში.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = ისარგებლეთ <a data-l10n-name="learn-more-vpn">დამატებითი პირადულობით</a> 5 მდებარეობის შერჩევით საკუთარი ადგილსამყოფლის დასაფარად.
 ipprotection-feature-introduction-description-captive-portal = იმოგზაურეთ ინტერნეტში დამატებითი დაცვით, მდებარეობის დაფარვით, მათ შორის საჯარო WiFi-ქსელებში.
 ipprotection-feature-introduction-button-primary = შემდეგი
 ipprotection-feature-introduction-button-secondary-not-now = ახლა არა
 ipprotection-feature-introduction-button-secondary-no-thanks = არა, გმადლობთ
+ipprotection-feature-introduction-button-secondary-remove = მოცილდეს VPN ხელსაწყოთა ზოლიდან
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = აირჩიეთ, სად გამოიყენებოდეს VPN
 ipprotection-site-settings-callout-subtitle = გამორთეთ VPN ცალკეულ საიტზე და დაიმახსოვრებს მომდევნო მონახულებისას.
 ipprotection-site-settings-callout-button = გასაგებია
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = სიახლე: შეცვალეთ თქვენი ადგილმდებარეობა
 
 ## Panel
 
