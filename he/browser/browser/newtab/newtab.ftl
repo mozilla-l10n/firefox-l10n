@@ -499,6 +499,9 @@ newtab-weather-menu-change-location = שינוי מקום
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = חיפוש מקום
     .aria-label = חיפוש מקום
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = שימוש במיקום הנוכחי
 newtab-weather-menu-weather-display = תצוגת מזג אוויר
 newtab-weather-todays-forecast = תחזית היום
 newtab-weather-see-full-forecast = הצגת תחזית מלאה
@@ -587,8 +590,16 @@ newtab-topic-selection-button-pick-interests = בחירת תחומי העניי�
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = לעקוב
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = מעקב אחרי { $topic }
 newtab-section-following-button = במעקב
 newtab-section-unfollow-button = ביטול המעקב
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = במעקב: ביטול מעקב אחרי { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = כיוונון הפיד שלך
 newtab-section-follow-highlight-subtitle = ניתן לעקוב אחר תחומי העניין שלך כדי לראות עוד ממה שאהוב עליך.
@@ -600,6 +611,22 @@ newtab-section-follow-highlight-subtitle = ניתן לעקוב אחר תחומי
 newtab-section-block-button = חסימה
 newtab-section-blocked-button = חסום
 newtab-section-unblock-button = הסרת חסימה
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = מעקב אחרי { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = ביטול מעקב אחרי { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = חסימת { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = ביטול חסימת { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -630,6 +657,12 @@ newtab-custom-wallpaper-cta = בואו ננסה
 newtab-new-user-custom-wallpaper-title = ניתן לבחור בטפט כדי להפוך את { -brand-product-name } לשלך
 newtab-new-user-custom-wallpaper-subtitle = כל לשונית חדשה יכולה לקבל תחושה של בית עם טפטים וצבעים מותאמים אישית.
 newtab-new-user-custom-wallpaper-cta = לנסות עכשיו
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = תמונות רקע חדשות ורעננות זה עתה הגיעו
+newtab-wallpaper-feature-highlight-subtitle = ניתן לבחור במועדף עליך ולגרום לכל לשונית חדשה להרגיש כמו בית.
+newtab-wallpaper-feature-highlight-cta = בחירת תמונת רקע
 
 ## Strings for download mobile highlight
 
@@ -718,8 +751,12 @@ newtab-widget-lists-dropdown-create =
     .label = + יצירת רשימה חדשה
 newtab-widget-lists-name-label-default =
     .label = רשימת משימות
+newtab-widget-lists-name-label-checklist =
+    .label = רשימת תיוג
 newtab-widget-lists-name-placeholder-default =
     .placeholder = רשימת משימות
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = רשימת תיוג
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = רשימה חדשה
@@ -739,7 +776,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = מזעור ווידג׳טים
     .aria-label = צמצום כל הווידג׳טים לגודל קומפקטי
+newtab-widget-section-menu-button =
+    .title = תפריט ווידג’טים
+    .aria-label = פתיחת תפריט ווידג’טים
+newtab-widget-section-menu-hide-all = הסתרת ווידג׳טים
+newtab-widget-section-menu-learn-more = מידע נוסף
 newtab-widget-section-feedback = ספרו לנו מה דעתכם
+newtab-widget-lists-name-default = רשימת תיוג
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

@@ -441,3 +441,8 @@ set-default-menu-message-primary-button-variant = הגדרה כדפדפן הרא
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 מסכות דוא״ל, בחינם!
+relay-50-masks-announcement-subtitle = כעת זמינות לך 50 מסכות בחינם (במקום 5). ניתן להשתמש באחת עבור כל חשבון כדי לשמור על פרטיות כתובת דוא״ל האמיתית שלך.
+relay-50-masks-announcement-primary-button = מעבר אל { -relay-brand-name }
+    .accesskey = מ
+relay-50-masks-announcement-secondary-button = סגירה
+    .accesskey = ס
