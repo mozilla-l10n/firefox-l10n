@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Descubra a VPN, agora integrada direta
 ipprotection-feature-introduction-link-text-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adicione outra camada de privacidade
+ipprotection-feature-introduction-link-text-privacy = A <a data-l10n-name="learn-more-vpn">VPN integrada no { -brand-product-name }</a> ajuda a proteger sua navegação. Escolha entre 5 locais para manter mais privacidade sobre onde você navega.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção extra, ocultando sua localização, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-description-captive-portal = Navegue com proteção extra, ocultando sua localização, mesmo em redes públicas de WiFi.

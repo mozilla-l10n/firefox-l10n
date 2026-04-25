@@ -1029,6 +1029,21 @@ urlbar-result-action-switch-to-tabgroup = Mudar para { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Abrir em nova aba
+    .accesskey = v
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Abrir em nova aba contêiner
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Abrir em nova janela
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window =
+    .label = Abrir em nova janela privativa
+    .accesskey = p
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1719,5 +1734,7 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>O site parece estar com problemas?</strong> Recarregue a página para reduzir temporariamente a proteção contra rastreamento.
 reduced-protection-infobar-reload-button = Recarregar
     .accesskey = R
