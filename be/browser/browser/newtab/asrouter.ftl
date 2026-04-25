@@ -446,3 +446,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Зрабіць прадвызначаным
 set-default-menu-message-primary-button-variant = Прызначыць асноўным браўзерам
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-primary-button = Перайсці к { -relay-brand-name }
+    .accesskey = П
