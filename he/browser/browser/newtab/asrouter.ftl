@@ -436,3 +436,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = הגדרה כברירת מחדל
 set-default-menu-message-primary-button-variant = הגדרה כדפדפן הראשי
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 מסכות דוא״ל, בחינם!

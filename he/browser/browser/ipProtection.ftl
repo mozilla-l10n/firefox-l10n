@@ -262,6 +262,12 @@ vpn-paused-alert-title = ה־VPN הושהה
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = השתמשת בכל { $maxUsage } ג״ב של נתוני ה־VPN שלך. הגישה ל־VPN תתאפס בחודש הבא.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = השתמשת בכל { $maxUsage } ג״ב של נתוני ה־VPN שלך. הגישה תתאפס בחודש הבא.
+vpn-error-page-continue-description = נא לבחור כיצד להמשיך ללא VPN
+vpn-error-page-keep-browsing = המשך גלישה בהפעלה זו
+vpn-error-page-new-session = התחלת הפעלה חדשה
 vpn-paused-alert-close-tabs-button = סגירת כל הלשוניות
 vpn-paused-alert-continue-wo-vpn-button = המשך ללא VPN
 vpn-error-alert-title = ה־VPN לא עובד כרגע.
