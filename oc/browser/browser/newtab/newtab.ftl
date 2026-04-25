@@ -456,6 +456,13 @@ newtab-widget-lists-menu-create = Crear una lista novèla
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Lista novèla
 
+## Strings for timer productivity widget
+## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = Actualizat fa { $minutes } min.
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
