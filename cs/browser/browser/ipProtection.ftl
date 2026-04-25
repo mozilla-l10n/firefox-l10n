@@ -29,16 +29,29 @@ ipprotection-feature-introduction-link-text-2 = Použijte naši novou <a data-l1
 ipprotection-feature-introduction-title-privacy = Přidejte další vrstvu soukromí
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal =
+    { -brand-product-name.case-status ->
+        [with-cases] Používáte veřejnou Wi-Fi? Vyzkoušejte vestavěnou síť VPN ve { -brand-product-name(case: "gen") }.
+       *[no-cases] Používáte veřejnou Wi-Fi? Vyzkoušejte vestavěnou síť VPN v aplikaci { -brand-product-name }.
+    }
 ipprotection-feature-introduction-description-captive-portal = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i na veřejných Wi-Fi sítích.
 ipprotection-feature-introduction-button-primary = Další
 ipprotection-feature-introduction-button-secondary-not-now = Teď ne
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, děkuji
+ipprotection-feature-introduction-button-secondary-remove = Odebrat VPN z nástrojové lišty
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Vyberte, kde používáte VPN
 ipprotection-site-settings-callout-subtitle = Vypněte VPN pro konkrétní stránku a tuto vaši volbu si zapamatujeme i pro další návštěvy.
 ipprotection-site-settings-callout-button = Rozumím
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Novinka: Nastavte si svou polohu
+ipprotection-location-selection-callout-primary-button = Vyzkoušejte ho
+ipprotection-location-selection-callout-secondary-button = Zavřít
 
 ## Panel
 
@@ -68,6 +81,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Použít VPN pro tuto stránku
     .aria-label = VPN je pro tuto stránku vypnuta
+site-exclusion-toggle-description = Stránka nefunguje? Zkuste vypnout VPN.
 ipprotection-settings-link =
     .label = Nastavení
 
@@ -86,6 +100,20 @@ ipprotection-button-turn-vpn-off-excluded-site = Vypnout VPN všude
 ipprotection-button-turn-vpn-on = Zapnout VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Zapíná se…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Umístění: Doporučené
+ipprotection-recommended-location-badge = NOVÉ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Umístění: { $country }
+ipprotection-locations-subview =
+    .title = Vybrat umístění
+ipprotection-locations-subview-description = Zvolte jiné umístění pro prohlížení.
+ipprotecion-locations-subview-recommended-label = Doporučené
 
 ## VPN paused state
 

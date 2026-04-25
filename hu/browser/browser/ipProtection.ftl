@@ -65,12 +65,14 @@ unauthenticated-hide-location-message-2 = Tartózkodási hely elrejtése böngé
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Kapjon { $maxUsage } GB ingyenes VPN-adatot havonta.
 unauthenticated-get-started = Kezdő lépések
+unauthenticated-terms-of-service-privacy-notice = A folytatással elfogadja a <a data-l10n-name="vpn-terms-of-service">Szolgáltatási feltételeket</a> és az <a data-l10n-name="vpn-privacy-notice">Adatvédelmi nyilatkozatot</a>.
 site-exclusion-toggle-enabled-1 =
     .label = VPN használata ezen a webhelyen
     .aria-label = A VPN be van kapcsolva ezen a webhelyen
 site-exclusion-toggle-disabled-1 =
     .label = VPN használata ezen a webhelyen
     .aria-label = A VPN ki van kapcsolva ezen a webhelyen
+site-exclusion-toggle-description = Nem működik a webhely? Próbálja meg kikapcsolni a VPN-t.
 ipprotection-settings-link =
     .label = Beállítások
 
@@ -90,6 +92,26 @@ ipprotection-button-turn-vpn-on = VPN bekapcsolása
 # Button while VPN is connecting
 ipprotection-button-connecting = Bekapcsolás…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Hely: Ajánlott
+ipprotection-recommended-location-description = A { -brand-product-name } megtalálja a leggyorsabb helyet
+ipprotection-recommended-location-badge = ÚJ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Hely: { $country }
+ipprotection-locations-subview =
+    .title = Válasszon helyet
+ipprotection-locations-subview-description = Válasszon egy másik helyet, ahonnan böngészik.
+ipprotecion-locations-subview-recommended-label = Ajánlott
+ipprotection-locations-subview-recommended-description = Megkeresi a leggyorsabb helyet
+ipprotection-locations-subview-promo =
+    .heading = Növelje a védelmét a { -mozilla-vpn-brand-name }-nel
+    .message = Válasszon több mint 300 hely közül, és védje meg az alkalmazásait akár 5 eszközön.
+ipprotection-locations-subview-promo-button = A { -mozilla-vpn-brand-name } beszerzése
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN szüneteltetve
@@ -99,6 +121,10 @@ ipprotection-connection-status-paused-description = Felhasználta a teljes { $ma
 upgrade-vpn-title = Kapjon további védelmet a böngészőn túl
 upgrade-vpn-description = Válassza ki a VPN helyét, használja az összes alkalmazásához és akár 5 eszközéhez, valamint maradjon biztonságban bármely hálózaton – otthon vagy nyilvános Wi-Fi-n.
 upgrade-vpn-button = Próbálja ki a { -mozilla-vpn-brand-name }-t
+ipprotection-connection-status-paused-title-1 = VPN szüneteltetve
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Felhasználta a teljes { $maxUsage } GB-os VPN adatkeretét. A hozzáférés a következő hónapban áll vissza.
 
 ## Messages and errors
 
@@ -148,6 +174,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Majdnem elfogyot
 ip-protection-description =
     .label = VPN
     .description = Beépített VPN a nagyobb adatvédelem érdekében, amikor a { -brand-short-name } használatával böngészik.
+ip-protection-description-1 =
+    .label = Beépített VPN
+    .description = Kapjon további adatvédelmet a helye elrejtésével böngészés közben.
 ip-protection-learn-more = További tudnivalók
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
