@@ -79,6 +79,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 fxa-adoption-addresses-backup-title = دعنا نحتفظ بنسخة احتياطية من عناوينك المحفوظة
 fxa-adoption-addresses-backup-subtitle = احمِ عناوينك المحفوظة عبر مزامنتها مع أجهزتك باستخدام التعمية.
 fxa-adoption-credit-cards-backup-title = دعنا ننسخ احتياطيًا طرق الدفع الخاصة بك
+fxa-adoption-credit-cards-backup-subtitle = احمِ طرق دفعك عن طريق مزامنتها مع أجهزتك باستخدام التعمية.
 fxa-adoption-bookmarks-treatment-backup-title = دعنا ننسخ احتياطيًا علاماتك
 fxa-adoption-bookmarks-treatment-backup-subtitle = احمِ علاماتك عن طريق مزامنتها مع أجهزتك باستخدام التعمية.
 fxa-adoption-primary-button-label = سجّل حسابًا
