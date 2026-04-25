@@ -149,7 +149,7 @@ fp-certerror-clock-skew-intro = Bilgisayarınız saatin { DATETIME($now, dateSty
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $now (Date) - The current datetime, to be formatted as a date
-fp-certerror-clock-skew-what-can-you-do-body = Sistem ayarlarınızdan bilgisayarınızın saatini tarih, saat ve saat dilimini güncelleyin. Bilgisayarınız şu anda saatin { DATETIME($now, dateStyle: "medium") } olduğunu sanıyor.
+fp-certerror-clock-skew-what-can-you-do-body = Sistem ayarlarınızdan bilgisayarınızın saatini güncel tarih, saat ve saat dilimine göre güncelleyin. Bilgisayarınız şu anda saatin { DATETIME($now, dateStyle: "medium") } olduğunu sanıyor.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
