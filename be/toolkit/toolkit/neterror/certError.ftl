@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Гадзіннік ваш
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Уладальнік { $hostname } не наладзіў яго належным чынам, і з ім немагчыма ўсталяваць бяспечнае злучэнне.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Ваш камп'ютар лічыць, што цяпер { DATETIME($now, dateStyle: "medium") }, таму { -brand-short-name } не можа ўстанавіць абароненае злучэнне. Каб наведаць <strong>{ $hostname }</strong>, выстаўце правільную дату, час і часавы пояс у наладах камп'ютара, а пасля абнавіце старонку.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Абнавіце гадзіннік камп'ютара ў сістэмных наладах на актуальную дату, час і часавы пояс. Ваш камп'ютар лічыць, што зараз { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
