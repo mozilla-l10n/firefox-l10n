@@ -504,6 +504,9 @@ newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Søk plassering
     .aria-label = Søk plassering
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Bruk gjeldande plassering
 newtab-weather-menu-weather-display = Vêrvising
 newtab-weather-todays-forecast = Vêrmeldinga i dag.
 newtab-weather-see-full-forecast = Sjå fullstendig vêrmelding
@@ -609,6 +612,14 @@ newtab-section-follow-highlight-subtitle = Følg interessene dine for å sjå me
 newtab-section-block-button = Blokker
 newtab-section-blocked-button = Blokkert
 newtab-section-unblock-button = Opphev blokkeringa
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Følg { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blokker { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -639,6 +650,10 @@ newtab-custom-wallpaper-cta = Prøv det
 newtab-new-user-custom-wallpaper-title = Vel eit bakgrunnsbilde for å gjere { -brand-product-name } til din eigen
 newtab-new-user-custom-wallpaper-subtitle = Få kvar nye fane til å kjennast som heime med tilpassa bakgrunnar og fargar.
 newtab-new-user-custom-wallpaper-cta = Prøv det no
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-cta = Vel bakgrunnsbilde
 
 ## Strings for download mobile highlight
 
