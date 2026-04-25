@@ -46,6 +46,10 @@ ipprotection-site-settings-callout-title = Válassza ki, hogy hol szeretné hasz
 ipprotection-site-settings-callout-subtitle = Kapcsolja ki a VPN-t egy adott webhelyen, és emlékezni fogunk rá, amikor legközelebb felkeresi.
 ipprotection-site-settings-callout-button = Megértettem
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Új: Tartózkodási hely módosítása
+
 ## Panel
 
 # Also used for the callout shown in private browsing
