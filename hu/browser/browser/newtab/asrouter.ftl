@@ -443,3 +443,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Beállítás alapértelmezettként
 set-default-menu-message-primary-button-variant = Beállítás elsődleges böngészőként
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 e-mail-maszk, amit mi állunk
+relay-50-masks-announcement-subtitle = Most 50 ingyenes maszkot kap (az eddigi 5 helyett). Használjon egyet minden fiókhoz, hogy a valódi e-mail-címe privát maradjon.
+relay-50-masks-announcement-primary-button = Ugrás a { -relay-brand-name }-hez
+    .accesskey = U
+relay-50-masks-announcement-secondary-button = Eltüntetés
+    .accesskey = E

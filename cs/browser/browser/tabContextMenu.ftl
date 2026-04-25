@@ -161,6 +161,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Připojit svůj telefon
 tab-context-send-to-mobile-device-missing =
     .label = Nevidíte své zařízení?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Vytvořit odkaz na sdílení
+    .accesskey = V
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

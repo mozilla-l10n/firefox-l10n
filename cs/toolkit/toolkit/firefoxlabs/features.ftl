@@ -72,6 +72,8 @@ experimental-features-fx-web-apps-description =
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Seznamy na { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Seznamy
 experimental-features-newtab-widget-lists-description =
     { -brand-product-name.case-status ->
         [with-cases] Při otevření nového panelu mějte seznam úkolů vždy na očích. Od balicích seznamů až po nákupní seznamy - své plány si připravte ve { -brand-product-name(case: "gen") }. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
@@ -80,11 +82,22 @@ experimental-features-newtab-widget-lists-description =
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Časovač na { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Časovač
 experimental-features-newtab-widget-timer-description = Nastavte si časovač, který vás nakopne k udržení cíle, nebo vám připomene, abyste se soustředili. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Seznamy a časovač na { -firefox-home-brand-name(case: "loc") }
 experimental-features-newtab-widget-lists-and-timer-description = Mějte svůj seznam úkolů v první řadě při otevření nového panelu. V aplikaci { -brand-product-name } plánujte, ať už balicí seznam či nákupní seznam. Nastavte si časovač, který vás nakopne k udržení cíle, nebo vám připomene, abyste se soustředili. <a data-l10n-name="connect">Sdílet zpětnou vazbu</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Předpověď počasí
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Obrázek dne
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Hodiny
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Sémantické vyhledávání v historii

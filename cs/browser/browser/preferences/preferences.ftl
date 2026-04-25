@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Ovládání AI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Přístupnost
+    .title = { pane-accessibility-title }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty { -brand-short-name(case: "gen") }
@@ -880,6 +882,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Použít automatické posouvání
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navigace a rolování pomocí klávesnice
+motion-and-link-group =
+    .label = Pohyb a stylování odkazů
 browsing-use-smooth-scrolling =
     .label = Použít plynulé posouvání
     .accesskey = l
@@ -921,6 +927,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Zjistit více
 browsing-group =
     .label = Prohlížení
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Přístupnost
+preferences-default-zoom-select =
+    .aria-label = Výchozí velikost
+preferences-fonts-family =
+    .label = Typ písma
+    .accesskey = T
+preferences-fonts-size =
+    .label = Velikost písma
+    .accesskey = V
+preferences-fonts-advanced-settings =
+    .label = Pokročilé nastavení
+    .accesskey = P
 
 ## General Section - Proxy
 
@@ -1250,6 +1272,7 @@ search-edit-engine =
     .label = Upravit
     .accesskey = U
 search-find-more-link = Přidat další vyhledávače
+search-filtering-for-add-engine = Přidat vyhledávač
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Použité klíčové slovo
@@ -1268,6 +1291,9 @@ search-engine-group =
     .label = Výchozí vyhledávač
 search-default-engine =
     .aria-label = Výchozí vyhledávač
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Hledat
 
 ## Containers Section
 
@@ -2364,6 +2390,8 @@ collection-backlogged-crash-reports-description =
         [with-cases] To pomáhá { -vendor-short-name(case: "dat") } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
        *[no-cases] To pomáhá organizaci { -vendor-short-name } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
     }
+settings-redesign-promo-dismiss-button =
+    .label = Rozumím
 addon-recommendations =
     .label =
         { -brand-short-name.case-status ->
@@ -2683,6 +2711,13 @@ preferences-doh-custom-provider-label =
     .aria-label = Zadejte URL vlastního poskytovatele
 preferences-doh-header2 =
     .heading = DNS over HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Bezpečnost připojení a aplikace
+preferences-connection-link-button =
+    .label = Pokročilé nastavení
 
 ## The following strings are used in the Download section of settings
 

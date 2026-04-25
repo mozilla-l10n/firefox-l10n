@@ -505,6 +505,9 @@ newtab-weather-menu-change-location = Hely módosítása
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Keresési hely
     .aria-label = Keresési hely
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Jelenlegi hely használata
 newtab-weather-menu-weather-display = Időjárás-kijelző
 newtab-weather-todays-forecast = Mai előrejelzés
 newtab-weather-see-full-forecast = Teljes előrejelzés megtekintése
@@ -593,8 +596,16 @@ newtab-topic-selection-button-pick-interests = Válassza ki az érdeklődési k�
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Követés
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = { $topic } követése
 newtab-section-following-button = Követés
 newtab-section-unfollow-button = Követés megszüntetése
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Követés: { $topic } követésének megszüntetése
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Finomhangolja a hírfolyamát
 newtab-section-follow-highlight-subtitle = Kövesse az érdeklődési köreit, hogy többet lásson abból, amit kedvel.
@@ -606,6 +617,22 @@ newtab-section-follow-highlight-subtitle = Kövesse az érdeklődési köreit, h
 newtab-section-block-button = Blokkolás
 newtab-section-blocked-button = Blokkolva
 newtab-section-unblock-button = Blokkolás feloldása
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = { $topic } követése
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = { $topic } követésének megszüntetése
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = { $topic } blokkolása
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = { $topic } blokkolásának megszüntetése
 
 ## Confirmation modal for blocking a section
 
@@ -636,6 +663,10 @@ newtab-custom-wallpaper-cta = Próbálja ki
 newtab-new-user-custom-wallpaper-title = Válasszon háttérképet, hogy a { -brand-product-name }ot a sajátjává tegye
 newtab-new-user-custom-wallpaper-subtitle = Tegyen minden új lapot otthonossá az egyéni háttérképekkel és színekkel.
 newtab-new-user-custom-wallpaper-cta = Próbálja ki most
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Friss háttérképek érkeztek
 
 ## Strings for download mobile highlight
 

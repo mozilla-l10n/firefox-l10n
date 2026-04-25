@@ -183,6 +183,11 @@ ip-protection-learn-more = További tudnivalók
 ip-protection-not-opted-in-2 =
     .heading = Próbálja ki a { -brand-short-name } beépített VPN-jét
     .message = Tartózkodási hely elrejtése böngészés közben a { -brand-short-name }ban. Havi { $maxUsage } GB-os ingyenes VPN adatkeretet kap.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Próbálja ki a { -brand-short-name } beépített VPN-jét
+    .message = Böngésszen további védelemmel a helye elrejtésével. Kapjon havi { $maxUsage } GB-os ingyenes VPN adatkeretet.
 ip-protection-not-opted-in-button = Kezdő lépések
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -202,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Szerezzen még nagyobb védelmet a { -brand-short-name } böngészőn kívül a { -mozilla-vpn-brand-name } segítségével
     .description = Válasszon egyéni VPN helyet, és adjon további védelmet az összes alkalmazása számára, akár öt eszközön, függetlenül attól, hogy otthon van vagy nyilvános Wi-Fi-t használ.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Növelje a védelmét a { -mozilla-vpn-brand-name }-nel
+    .description = Válasszon több mint 300 hely közül, és védje meg az alkalmazásait akár 5 eszközön.
 
 ## IP Protection dialogs
 
@@ -254,6 +262,12 @@ vpn-paused-alert-title = VPN szüneteltetve
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Felhasználta a teljes { $maxUsage } GB-os VPN adatkeretét. A VPN-hozzáférés a következő hónapban fog visszaállni.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Felhasználta a teljes { $maxUsage } GB-os VPN adatkeretét. A hozzáférés a következő hónapban áll vissza.
+vpn-error-page-continue-description = Válassza ki, hogyan szeretné folytatni VPN nélkül
+vpn-error-page-keep-browsing = Böngészés folytatása ebben a munkamenetben
+vpn-error-page-new-session = Új munkamenet indítása
 vpn-paused-alert-close-tabs-button = Összes lap bezárása
 vpn-paused-alert-continue-wo-vpn-button = Folytatás VPN nélkül
 vpn-error-alert-title = A VPN most nem működik.
