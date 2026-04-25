@@ -150,6 +150,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = დააკავშირეთ თქვენი ტელეფონი
 tab-context-send-to-mobile-device-missing =
     .label = არ ჩანს თქვენი მოწყობილობა?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = გასაზიარებელი ბმულის შედგენა
+    .accesskey = ზ
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -2148,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = უეცარი გათიშვის მოხსენებების თვითგაგზავნა
     .accesskey = ც
 collection-backlogged-crash-reports-description = მისი მეშვეობით { -vendor-short-name } მოახერხებს ხარვეზების გამოვლენასა და მოგვარებას ბრაუზერში. მოხსენებები შეიძლება შეიცავდეს პირად ან საფრთხილო მონაცემებს.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = იგივე გამართვა, ახალი იერსახე!
+    .message = ეს გვერდი ახლებურად მოვაწყვეთ, იოლად რომ შეიძლებოდეს თვალის გადავლება და გაცნობა. თქვენი პირადი პარამეტრები ხელუხლებელია და ყველაფერი ისევ აქაა. რჩევა: გამოიყენეთ საძიებო პირდაპირ სასურველზე გადასასვლელად.
+settings-redesign-promo-dismiss-button =
+    .label = გასაგებია
 addon-recommendations =
     .label = ნებართვა, რომ { -brand-short-name } შემოგთავაზებთ მორგებულ გაფართოებებს
 addon-recommendations-link = ვრცლად
@@ -2403,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = შეიყვანეთ სასურველი მომწოდებლის ბმული
 preferences-doh-header2 =
     .heading = DNS-მოთხოვნა HTTPS-ით
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = კავშირი და პროგრამის უსაფრთხოება
+preferences-connection-link-section =
+    .label = კავშირი და პროგრამის უსაფრთხოება
+    .description = იხილეთ, როგორ ხდება კავშირების დაცვა, მავნე პროგრამების შეზღუდვა და ვებსაიტების დამოწმება.
+preferences-connection-link-button =
+    .label = გაფართოებული პარამეტრები
 
 ## The following strings are used in the Download section of settings
 

@@ -443,3 +443,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = ნაგულისხმევად დაყენება
 set-default-menu-message-primary-button-variant = ძირითად ბრაუზერად დაყენება
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = ელფოსტის 50 ნიღაბი ჩვენზეა
+relay-50-masks-announcement-subtitle = ახლა უკვე გეძლევათ 50 ნიღაბი უფასოდ (5-იდან). თითოეული გამოიყენეთ სხვადასხვა ანგარიშისთვის თქვენი ნამდვილი ელფოსტის პირადულობისთვის.
+relay-50-masks-announcement-primary-button = იხილეთ { -relay-brand-name }
+    .accesskey = ხ
+relay-50-masks-announcement-secondary-button = აცილება
+    .accesskey = ც

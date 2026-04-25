@@ -504,6 +504,9 @@ newtab-weather-menu-change-location = მდებარეობის შე�
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = მდებარეობის მოძიება
     .aria-label = მდებარეობის მოძიება
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = მიმდინარე მდებარეობის გამოყენება
 newtab-weather-menu-weather-display = ამინდის ჩვენება
 newtab-weather-todays-forecast = დღევანდელი ამინდი
 newtab-weather-see-full-forecast = იხილეთ სრული პროგნოზი
@@ -621,6 +624,10 @@ newtab-section-follow-topic =
 #   $topic (string) - Name of topic that user is unfollowing
 newtab-section-unfollow-topic =
     .aria-label = გააუქმეთ { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = შეიზღუდოს { $topic }
 
 ## Confirmation modal for blocking a section
 
