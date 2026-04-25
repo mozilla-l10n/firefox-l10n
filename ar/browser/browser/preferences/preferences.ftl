@@ -1548,6 +1548,12 @@ primary-password-os-auth-dialog-message-win = أدخِل معلومات ولوج
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = أنشِئ كلمة سر رئيسية
 master-password-os-auth-dialog-caption = { -brand-full-name }
+# The macOS string is preceded by the operating system with "Firefox is trying to ".
+autofill-creditcard-os-dialog-message =
+    { PLATFORM() ->
+        [macos] تغيير إعدادات طرق الدفع
+       *[other] يحاول { -brand-short-name } تغيير إعدادات طرق الدفع. استخدم بيانات الولوج الخاصة بجهازك للسماح بذلك.
+    }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
@@ -2590,12 +2596,27 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 security-privacy-issue-warning-fingerprinters =
     .label = لا يُحظر المسجّلات المعروفة
     .description = قد يسمح هذا لبعض المتقعبات بملاحقتك دون استخدام ملفات تعريف الارتباط.
+security-privacy-issue-warning-third-party-cookies =
+    .label = ملفات تعريف الارتباط الخاصة بالجهات الخارجية مُفعّلة
+    .description = تُستخدم ملفات تعريف الارتباط التابعة لجهات خارجية لتتبعك عبر المواقع الإلكترونية.
+security-privacy-issue-warning-password-manager =
+    .label = مدير كلمات السر مُعطّل
+    .description = تُساعدك برامج إدارة كلمات السر على تخزين كلمات سر قوية لحساباتك.
+security-privacy-issue-warning-popup-blocker =
+    .label = مانع النوافذ المنبثقة مُعطّل
+    .description = النوافذ المنبثقة مزعجة وقد تكون ضارة.
 security-privacy-issue-warning-extension-install =
     .label = يمكن للمواقع الإلكترونية تثبيت امتدادات.
     .description = يمكن للمواقع الإلكترونية تثبيت امتدادات إلى { -brand-short-name } دون سؤال.
 security-privacy-issue-warning-safe-browsing =
     .label = لا يُحظر المحتوى الخطير والمضلل
     .description = تزداد احتمالية تعرضك لعمليات الاحتيال والبرمجيات الخبيثة من المواقع الإلكترونية.
+security-privacy-issue-warning-doh =
+    .label = DNS عبر HTTPS مُعطّل
+    .description = تخفي DNS عبر HTTPS المواقع التي تزورها عن مزود خدمة الشبكة الخاص بك.
+security-privacy-issue-warning-ech =
+    .label = Encrypted Client Hello مُعطّل
+    .description = تعمل ميزة Encrypted Client Hello على إخفاء المواقع التي تزورها عن مزود خدمة الشبكة الخاص بك.
 security-privacy-issue-warning-proxy-autodetection =
     .label = فُعِّل التضيبط التلقائي للوسيط
     .description = قد التضيبط التلقائي للوسيط للشبكات غير الموثوقة بمراقبة نشاطك.
