@@ -1724,6 +1724,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = მოცემული საიტები ცდილობს კრიპტოგამომუშავებას:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = გაქვთ ანგარიში ამ საიტზე?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } გაცნობებთ, რომ ამ საიტზე აღმოჩენილია მონაცემთა მიტაცების შემთხვევა ბოლო 12 თვის განმავლობაში. გაარკვიეთ, მოხვედრილი ხართ თუ არა დაზარალებულთა შორის.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = აცილება
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = უფასო შემოწმების დაწყება
 trustpanel-blocker-section-header2 =
@@ -1731,3 +1732,10 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
        *[other] <span data-l10n-name="count">{ $count }</span> მეთვალყურე შეიზღუდა ამ საიტზე
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>საიტი გაუმართავი ჩანს?</strong> გააახლეთ გვერდი თვალთვალისგან დაცვის დროებით შემცირებით.
+reduced-protection-infobar-reload-button = გაახლება
+    .accesskey = ხ
