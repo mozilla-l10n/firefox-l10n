@@ -1004,6 +1004,7 @@ urlbar-searchmode-popup-one-off-header = Tällä kertaa käytä hakuun:
 # reset after submitting.
 urlbar-searchmode-popup-header = Hae palvelulla:
 urlbar-searchmode-popup-search-settings-panelitem = Hakuasetukset
+urlbar-searchmode-popup-settings-panelitem = Asetukset
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1251,6 +1252,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Jaa
     .tooltiptext = Jaa tämä sivu
+toolbar-button-tab-groups =
+    .label = Välilehtiryhmät
+    .tooltiptext = Näytä välilehtiryhmät
 
 ## EME notification panel
 
@@ -1688,6 +1692,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } salli { $count } kryptolouhijaa
     }
 trustpanel-cryptominer-tab-list-header = Nämä sivustot yrittävät louhia kryptovaluuttoja:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Onko sinulla tili tälle sivustolle?
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> seurain estetty tällä sivustolla

@@ -617,6 +617,22 @@ newtab-section-follow-highlight-subtitle = Seuraa kiinnostuksen kohteitasi nähd
 newtab-section-block-button = Estä
 newtab-section-blocked-button = Estetty
 newtab-section-unblock-button = Poista esto
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Seuraa aihetta { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Lopeta aiheen { $topic } seuraaminen
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Estä { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Poista aiheen { $topic } esto
 
 ## Confirmation modal for blocking a section
 

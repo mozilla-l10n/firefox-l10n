@@ -254,6 +254,9 @@ tab-group-editor-color-selector2-gray = Harmaa
     .title = Harmaa
 tab-group-editor-color-selector2-red = Punainen
     .title = Punainen
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Suljettu
 tab-group-description = { $tabGroupName } — Välilehtiryhmä
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Supistettu
 tab-group-label-tooltip-expanded = { $tabGroupName } — Laajennettu
@@ -262,6 +265,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Nimetön ryhmä
 tab-group-name-default = Nimetön ryhmä
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Välilehtiryhmät
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -316,6 +327,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Valmis
     .accessKey = V
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Jaa välilehtiryhmä
 tab-context-reopen-tab-group =
     .label = Avaa välilehtiryhmä uudelleen
 # Variables:
@@ -388,6 +402,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Tallenna
     .accesskey = T
+tab-note-editor-button-delete =
+    .title = Poista muistiinpano
+    .aria-label = Poista muistiinpano
+    .accesskey = P
+tab-note-preview-edit-icon =
+    .alt = Muokkaa muistiinpanoa
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Lue lisää
 tab-note-panel-add-note-new-badge =

@@ -46,3 +46,4 @@ experimental-features-newtab-widget-timer =
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = القوائم والمؤقت على { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = ابقِ قائمة مهامك دائمًا أمام بصيرتك عند فتحك لسان جديد. من قوائم الطبخ حتى قوائم التسوّق، اجعل مهامك في { -brand-product-name }. عيّن مؤقتًا للتركيز، لإجبار نفسك على الاستمرار في المسار الصحيح، أو تذكيرك لتستريح قليلًا. <a data-l10n-name="connect">شارك انطباعاتك</a>
