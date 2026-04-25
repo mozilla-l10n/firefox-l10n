@@ -788,6 +788,7 @@ newtab-widget-section-menu-button =
 newtab-widget-section-menu-hide-all = Kisalkalmazások elrejtése
 newtab-widget-section-menu-learn-more = További tudnivalók
 newtab-widget-section-feedback = Mondja el nekünk mit gondol
+newtab-widget-lists-name-default = Ellenőrzőlista
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

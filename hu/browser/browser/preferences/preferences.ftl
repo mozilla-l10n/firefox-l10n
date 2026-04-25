@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = MI vezérlők
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Akadálymentesítés
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } kísérletek
 category-experimental =
     .tooltiptext = { -brand-short-name } kísérletek
@@ -751,6 +753,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Automatikus görgetés
     .accesskey = u
+keyboard-and-scrolling-group =
+    .label = Billentyűzetes navigáció és görgetés
 browsing-use-smooth-scrolling =
     .label = Finom görgetés
     .accesskey = F
@@ -792,6 +796,19 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = További tudnivalók
 browsing-group =
     .label = Böngészés
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Akadálymentesítés
+preferences-default-zoom-select =
+    .aria-label = Alapértelmezett nagyítás
+preferences-fonts-size =
+    .label = Betűméret
+    .accesskey = m
+preferences-fonts-advanced-settings =
+    .label = Speciális beállítások
+    .accesskey = S
 
 ## General Section - Proxy
 
@@ -1096,6 +1113,7 @@ search-edit-engine =
     .label = Szerkesztés
     .accesskey = e
 search-find-more-link = További keresőszolgáltatások felvétele
+search-filtering-for-add-engine = Keresőszolgáltatás hozzáadása
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplikált kulcsszó

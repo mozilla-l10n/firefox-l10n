@@ -268,3 +268,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = A könyvjelzők és az előzmények rendszere nem fog működni, mert a { -brand-short-name } egyik fájlját egy másik alkalmazás használja. Egyes biztonsági szoftverek okozhatnak ilyen problémát.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Mappa megosztása
