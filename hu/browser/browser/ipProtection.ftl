@@ -49,12 +49,17 @@ ipprotection-site-settings-callout-button = Megértettem
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Új: Tartózkodási hely módosítása
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-jével</a> 5 böngészési hely közül választhat, vagy hagyhatja, hogy mi válasszuk ki a leggyorsabbat .
+ipprotection-location-selection-callout-primary-button = Kipróbálás
+ipprotection-location-selection-callout-secondary-button = Eltüntetés
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Próbálja ki a { -brand-product-name } beépített VPN-jét
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Rejtse el a tartózkodási helyét</a> böngészés közben a { -brand-product-name }ban.
+unauthenticated-private-location-message = Segít, hogy <a data-l10n-name="learn-more-vpn">bizalmas maradjon a tartózkodási helye</a> a { -brand-product-name }ban.
+unauthenticated-choose-location-message = Válasszon 5 hely közül, vagy hagyja, hogy a { -brand-product-name } válassza ki a leggyorsabbat.
 unauthenticated-hide-location-message-2 = Tartózkodási hely elrejtése böngészés közben a { -brand-product-name }ban.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
