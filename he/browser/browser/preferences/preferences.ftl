@@ -2150,7 +2150,7 @@ collection-backlogged-crash-reports-description = זה מסייע ל־{ -vendor-
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
     .heading = אותן ההגדרות, מראה חדש!
-    .message = אירגנו מחדש את הדף הזה כדי שיהיה קל יותר לסרוק ולעיין בו. ההגדרות האישיות שלך לא השתנו, והכל עדיין כאן. טיפ: אפשר להשתמש בחיפוש כדי לקפוץ ישר למה שצריך.
+    .message = אירגנו מחדש את הדף הזה כדי שיהיה קל יותר לסרוק ולעיין בו. ההגדרות האישיות שלך לא השתנו, והכל עדיין כאן. טיפ: אפשר להשתמש בחיפוש כדי לקפוץ ישר לאן שצריך.
 settings-redesign-promo-dismiss-button =
     .label = הבנתי
 addon-recommendations =
