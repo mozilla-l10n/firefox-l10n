@@ -247,6 +247,11 @@ set-default-pdf-handler-primary = فهمت
 
 ## PDF Annotations strings
 
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = أضف توقيعك في أي مكان!
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = ارسم أو اكتب أو ارفع توقيعك، ثم ضعه في المكان الذي تريده بالضبط. احفظ توقيعاتك المفضلة لاستخدامها في المرة القادمة.
 annotations-make-default-pdf-handler-title = اجعل { -brand-short-name } محرِّر ملفات PDF المبدئي لديك؟
@@ -366,6 +371,11 @@ fxa-menu-message-mobile-collapsed-text = زامِن مع هاتفك
 multi-cta-fox-doodle-title = مرحبا بعودتك
 multi-cta-fox-doodle-set-default-checkbox = اضبط { -brand-short-name } ليكون المبدئي
 multi-cta-fox-doodle-pin-startmenu-checkbox = ثبّت { -brand-short-name } في قائمة البدء
+multi-cta-fox-doodle-pin-checkbox =
+    { PLATFORM() ->
+        [macos] ثبّت { -brand-short-name } في الرصف
+       *[other] ثبّت { -brand-short-name } في شريط المهام
+    }
 multi-cta-fox-doodle-start-browsing-primary-button-label = ابدأ التصفح
 multi-cta-fox-doodle-main-browser-primary-button-label = اضبط { -brand-short-name } ليكون متصفّحي الرئيسي
 multi-cta-fox-doodle-quick-reminder-subtitle = فيما يلي تذكير سريع بأنه يمكنك الاحتفاظ بمتصفحك المفضل الذي يركز على الخصوصية بنقرة واحدة فقط.
@@ -422,11 +432,19 @@ set-default-menu-message-simple-layout-title-variant = ‏{ -brand-short-name } 
 set-default-menu-message-row-layout-title = اجعل { -brand-short-name } متصفّحك الأساسي
 set-default-menu-message-row-layout-title-variant = اجعل { -brand-short-name } متصفّحك المبدئي
 set-default-menu-message-row-layout-subtitle = تحصّل على السرعة والأمان والخصوصية في كل مرة تتصفح فيها.
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] أبقِ { -brand-short-name } في متناول يدك — اجعله خيارك المبدئي واحتفظ به في الرصف.
+       *[other] أبقِ { -brand-short-name } في متناول يدك — اجعله خيارك المبدئي واحتفظ به في شريط المهام.
+    }
 set-default-menu-message-primary-button = اجعله المبدئي
 set-default-menu-message-primary-button-variant = اضبطه ليكون المتصفّح الأساسي
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 قناع بريد إلكتروني، مجانًا منّا
+relay-50-masks-announcement-subtitle = الآن يمكنك الحصول على 50 قناعًا مجانيًا (بدلاً من 5). استخدم قناعًا واحدًا لكل حساب للحفاظ على خصوصية بريدك الإلكتروني الحقيقي.
 relay-50-masks-announcement-primary-button = اذهب إلى { -relay-brand-name }
     .accesskey = ه
 relay-50-masks-announcement-secondary-button = أهمل

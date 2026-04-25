@@ -77,6 +77,10 @@ abuse-report-broken-suggestions-extension =
     يبدو أنك حددت علة. بالإضافة إلى تقديم تقرير هنا، أفضل طريقة
     لحل مشكلة وظيفية هو التواصل مع مطور الامتداد.
     <a data-l10n-name="support-link"> زُر موقع الامتداد على الويب</a> للحصول على معلومات المطور.
+abuse-report-broken-suggestions-sitepermission =
+    يبدو أنك قد اكتشفت علة. بالإضافة إلى إرسال تقرير هنا، فإن أفضل طريقة لحل مشكلة في وظائف الموقع هي التواصل مع مطوّر الموقع.
+    
+    <a data-l10n-name="support-link">تفضل بزيارة الموقع</a> للحصول على معلومات المطوّر.
 abuse-report-unwanted-reason-v2 = لم أرده من الأساس ولا أعلم كيف أحذفه
 abuse-report-unwanted-example = أمثلة: أحد التطبيقات ثبّته دون طلب ذلك مني
 abuse-report-other-reason = شيء آخر
