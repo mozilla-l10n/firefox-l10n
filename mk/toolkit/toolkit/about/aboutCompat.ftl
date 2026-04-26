@@ -10,4 +10,5 @@ label-interventions = Интервенции
 label-more-information = Повеќе информации: Бубачка { $bug }
 text-disabled-in-about-config = Оваа особеност е оневозможена во about:config
 text-no-interventions = Не се користат интервенции
+text-no-overrides = Нема никакви промени на корисничкиот агент
 text-title = about:compat
