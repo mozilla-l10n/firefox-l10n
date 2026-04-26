@@ -43,8 +43,8 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Cancelar
     .accesskey = C
-webext-perms-sideload-text = Outro programa no seu computador instalou um extra que pode afetar o seu navegador. Por favor reveja os pedidos de permissões deste extra e escolha Ativar ou Cancelar (para deixá-lo desativado).
-webext-perms-sideload-text-no-perms = Outro programa no seu computador instalou um extra que pode afetar o seu navegador. Por favor escolha Ativar ou Cancelar (para deixá-lo desativado).
+webext-perms-sideload-text = Outro programa no seu computador instalou um complemento que pode afetar o seu navegador. Por favor, reveja os pedidos de permissões deste complemento e escolha Ativar ou Cancelar (para deixar o mesmo desativado).
+webext-perms-sideload-text-no-perms = Outro programa no seu computador instalou um complemento que pode afetar o seu navegador. Por favor, escolha Ativar ou Cancelar (para deixar o mesmo desativado).
 webext-perms-sideload-enable =
     .label = Ativar
     .accesskey = A
@@ -56,7 +56,7 @@ webext-perms-sideload-cancel =
 webext-perms-update-text2 = A extensão { $extension } foi atualizada. Deve aprovar as novas permissões antes da versão atualizada ser instalada. Escolher "Cancelar" irá manter a sua versão atual da extensão.
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } foi atualizado. Deve aprovar as novas permissões antes da versão atualizada ser instalada. Escolher "Cancelar" irá manter a versão atual do extra. Esta extensão terá permissão para:
+webext-perms-update-text = { $extension } foi atualizado. Deve aprovar as novas permissões antes da versão atualizada ser instalada. Escolher "Cancelar" irá manter a versão atual do complemento. Esta extensão terá permissão para:
 webext-perms-update-accept =
     .label = Atualizar
     .accesskey = u
@@ -135,9 +135,9 @@ webext-perms-optional-text-with-data-collection-only = { $extension } solicita a
 ## Variables:
 ##   $hostname (String): the hostname of the site the add-on is being installed from.
 
-webext-site-perms-header-with-gated-perms-midi = Este extra dá acesso aos seus dispositivos MIDI a { $hostname }.
-webext-site-perms-header-with-gated-perms-midi-sysex = Este extra dá acesso aos seus dispositivos MIDI (com suporte SysEx) a { $hostname }.
-webext-site-perms-header-with-gated-perms-serial = Este extra permite que { $hostname } aceda aos seus dispositivos de série.
+webext-site-perms-header-with-gated-perms-midi = Este complemento permite que { $hostname } aceda aos seus dispositivos MIDI.
+webext-site-perms-header-with-gated-perms-midi-sysex = Este complemento permite que { $hostname } aceda aos seus dispositivos MIDI (com suporte SysEx).
+webext-site-perms-header-with-gated-perms-serial = Este complemento permite que { $hostname } aceda aos seus dispositivos de série.
 
 ##
 
@@ -172,5 +172,5 @@ webext-site-perms-serial = Acesso a dispositivos de série
 
 ## Colorway theme migration
 
-webext-colorway-theme-migration-notification-message = <b>O seu tema de estilos de cor foi removido.</b> O { -brand-shorter-name } atualizou a sua coleção de estilos de cor. Pode encontrar as versões mais recentes no site dos extras.
+webext-colorway-theme-migration-notification-message = <b>O seu tema de estilos de cor foi removido.</b> O { -brand-shorter-name } atualizou a sua coleção de estilos de cor. Pode encontrar as versões mais recentes no site dos complementos.
 webext-colorway-theme-migration-notification-button = Obter os estilos de cor atualizados
