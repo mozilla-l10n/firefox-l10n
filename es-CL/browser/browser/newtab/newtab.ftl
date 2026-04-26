@@ -501,6 +501,9 @@ newtab-weather-menu-change-location = Cambiar ubicación
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Buscar ubicación
     .aria-label = Buscar ubicación
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Utilizar la ubicación actual
 newtab-weather-menu-weather-display = Visualización del clima
 newtab-weather-todays-forecast = Pronóstico del tiempo para hoy
 newtab-weather-see-full-forecast = Ver pronóstico completo
@@ -589,8 +592,16 @@ newtab-topic-selection-button-pick-interests = Elige tus intereses
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Seguir
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Seguir { $topic }
 newtab-section-following-button = Siguiendo
 newtab-section-unfollow-button = Dejar de seguir
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Siguiendo: Dejar de seguir { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Optimiza tu feed
 newtab-section-follow-highlight-subtitle = Sigue tus intereses para ver más de lo que te gusta.

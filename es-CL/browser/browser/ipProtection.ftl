@@ -33,12 +33,19 @@ ipprotection-feature-introduction-description-captive-portal = Navega con mayor 
 ipprotection-feature-introduction-button-primary = Siguiente
 ipprotection-feature-introduction-button-secondary-not-now = Ahora no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
+ipprotection-feature-introduction-button-secondary-remove = Remover VPN de la barra
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Elige dónde usar el VPN
 ipprotection-site-settings-callout-subtitle = Desactive la VPN para un sitio específico y lo recordaremos la próxima vez que lo visites.
 ipprotection-site-settings-callout-button = Entendido
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nuevo: Cambia tu ubicación
+ipprotection-location-selection-callout-primary-button = Pruébalo
+ipprotection-location-selection-callout-secondary-button = Ocultar
 
 ## Panel
 
@@ -56,6 +63,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Utiliza VPN para este sitio
     .aria-label = VPN desactivada para este sitio
+site-exclusion-toggle-description = ¿El sitio web no funciona? Intenta desactivar la VPN.
 ipprotection-settings-link =
     .label = Ajustes
 
@@ -74,6 +82,21 @@ ipprotection-button-turn-vpn-off-excluded-site = Desactivar VPN en todas partes
 ipprotection-button-turn-vpn-on = Activar VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Encendiendo…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Ubicación: Recomendada
+ipprotection-recommended-location-badge = NUEVO
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Ubicación: { $country }
+ipprotection-locations-subview =
+    .title = Elegir ubicación
+ipprotection-locations-subview-description = Elige una ubicación diferente para navegar.
+ipprotecion-locations-subview-recommended-label = Recomendado
+ipprotection-locations-subview-recommended-description = Encuentra la ubicación más rápida
 
 ## VPN paused state
 
@@ -210,6 +233,7 @@ vpn-paused-alert-title = VPN pausada
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Has usado { $maxUsage } GB de datos de tu VPN. El acceso a la VPN se restablecerá el próximo mes.
+vpn-error-page-new-session = Empezar una nueva sesión
 vpn-paused-alert-close-tabs-button = Cerrar todas las pestañas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
 vpn-error-alert-title = La VPN no está funcionando en este momento.

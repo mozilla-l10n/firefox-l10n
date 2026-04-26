@@ -446,5 +446,7 @@ set-default-menu-message-primary-button-variant = Establecer como navegador prim
 
 ## Firefox Relay 50 Masks Announcement
 
+relay-50-masks-announcement-primary-button = Ir a { -relay-brand-name }
+    .accesskey = G
 relay-50-masks-announcement-secondary-button = Ocultar
     .accesskey = D
