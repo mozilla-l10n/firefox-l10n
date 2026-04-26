@@ -127,9 +127,9 @@ permissions-exceptions-saved-passwords-desc = O { -brand-short-name } não irá 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window2 =
-    .title = Sites permitidos - Instalação de Extras
+    .title = Sites permitidos - Instalação de complementos
     .style = { permissions-window2.style }
-permissions-exceptions-addons-desc = Pode especificar quais os sites que têm permissão para instalar extras. Digite o endereço exato do site que pretende permitir e depois clique em Permitir.
+permissions-exceptions-addons-desc = Pode especificar quais os sites que têm permissão para instalar complementos. Digite o endereço exato do site que pretende permitir e depois clique em Permitir.
 
 ## Site Permissions - Autoplay
 

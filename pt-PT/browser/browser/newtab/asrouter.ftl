@@ -399,11 +399,11 @@ windows-10-eos-sync-callout-privacy-screen-1-subtitle = Os rastreadores não pod
 windows-10-eos-sync-callout-privacy-screen-2-title = Proteja as suas palavras-passe e marcadores para o seu próximo dispositivo.
 windows-10-eos-sync-callout-privacy-screen-2-subtitle = Efetuar cópia de segurança do { -brand-shorter-name } torna mais fácil trazer os seus dados e definições de privacidade consigo.
 windows-10-eos-sync-callout-privacy-info-button = Veja o que está bloqueado
-windows-10-eos-callout-addons-title = Experimente os extras: atualizações simples, grande impacto
+windows-10-eos-callout-addons-title = Experimente os complementos: pequenas melhorias, grandes resultados
 windows-10-eos-callout-addons-subtitle = Estas extensões foram selecionadas para ajudar a que possa manter a produtividade, a segurança e a evitar distrações.
 windows-10-eos-callout-addons-primary-button = Veja as nossas escolhas
-windows-10-eos-sync-callout-addons-title = Não perca os seus extras quando atualizar do Windows 10.
-windows-10-eos-sync-callout-addons-subtitle = Sincronize agora para que os seus extras do { -brand-product-name } estejam sempre disponíveis, mesmo depois de mudar de dispositivo.
+windows-10-eos-sync-callout-addons-title = Não perca os seus complementos quando atualizar do Windows 10.
+windows-10-eos-sync-callout-addons-subtitle = Sincronize agora para que os seus complementos do { -brand-product-name } estejam sempre disponíveis, mesmo depois de mudar de dispositivo.
 windows-10-eos-sync-callout-next-button = Seguinte
 windows-10-eos-sync-callout-get-started-button = Começar
 

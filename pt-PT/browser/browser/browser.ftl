@@ -147,7 +147,7 @@ urlbar-eme-notification-anchor =
 urlbar-web-authn-anchor =
     .tooltiptext = Abrir painel de Autenticação Web
 urlbar-canvas-notification-anchor =
-    .tooltiptext = Gerir permissão de extração da tela
+    .tooltiptext = Gerir permissões de extração de conteúdo do canvas
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Gerir a partilha do seu microfone com o site
 urlbar-default-notification-anchor =
@@ -181,7 +181,7 @@ urlbar-autoplay-notification-anchor =
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Armazenar dados em armazenamento persistente
 urlbar-addons-notification-anchor =
-    .tooltiptext = Abrir painel de mensagem de instalação de extra
+    .tooltiptext = Abrir painel de notificações de instalação de complementos
 urlbar-tip-help-icon =
     .title = Obter ajuda
 urlbar-search-tips-confirm = OK, percebi
@@ -287,7 +287,7 @@ urlbar-midi-blocked =
 urlbar-serial-blocked =
     .tooltiptext = Bloqueou o acesso à porta série para este site.
 urlbar-install-blocked =
-    .tooltiptext = Bloqueou a instalação de extras para este site.
+    .tooltiptext = Bloqueou a instalação de complementos para este site.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -380,12 +380,12 @@ search-one-offs-actions =
 ## the action.
 
 # Opens the about:addons page in the home / recommendations section
-quickactions-addons = Ver Extras
+quickactions-addons = Ver complementos
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-addons3 = extensões, temas, extras
-quickactions-cmd-addons2 = extras
+quickactions-cmd-addons3 = extensões, temas, complementos
+quickactions-cmd-addons2 = complementos
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Gerir marcadores
 quickactions-cmd-bookmarks = marcadores
@@ -400,7 +400,7 @@ quickactions-downloads2 = Ver transferências
 quickactions-cmd-downloads = transferências
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gerir extensões
-quickactions-cmd-extensions2 = extensões, extras
+quickactions-cmd-extensions2 = extensões, complementos
 quickactions-cmd-extensions = extensões
 # Opens Firefox View
 quickactions-firefoxview = Abrir o { -firefoxview-brand-name }
@@ -456,7 +456,7 @@ quickactions-themes = Gerir temas
 # In English we provide multiple spellings for "add-ons". If that's not
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
-quickactions-cmd-themes2 = temas, extras
+quickactions-cmd-themes2 = temas, complementos
 quickactions-cmd-themes = temas
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Atualizar o { -brand-short-name }
@@ -1505,7 +1505,7 @@ firefox-relay-offer-legal-notice-1 = Ao registar-se e criar uma máscara de e-ma
 
 popup-notification-addon-install-unsigned =
     .value = (Não verificado)
-popup-notification-xpinstall-prompt-learn-more = Saber mais acerca de instalar extras com segurança
+popup-notification-xpinstall-prompt-learn-more = Saber mais sobre a instalação segura de complementos
 popup-notification-xpinstall-prompt-block-url = Ver detalhes
 # Note: Access key is set to p to match "private" in the corresponding localized label.
 popup-notification-addon-privatebrowsing-checkbox2 =

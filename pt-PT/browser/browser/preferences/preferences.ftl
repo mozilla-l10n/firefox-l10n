@@ -134,7 +134,7 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Para ativar esta extensão vá a <img data-l10n-name="addons-icon"/> Extras no menu <img data-l10n-name="menu-icon"/>.
+extension-controlled-enable = Para ativar a extensão, aceda a <img data-l10n-name="addons-icon"/> Complementos no menu <img data-l10n-name="menu-icon"/>.
 extension-controlled-enable-2 = Para reativar esta extensão visite <a data-l10n-name="addons-link">Extensões e temas</a>.
 # This string is shown to notify the user that their home page or new tab preferences
 # are being controlled by an extension.
@@ -197,7 +197,7 @@ preferences-profiles-settings-button =
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
     .label = Copiar um perfil existente
-    .description = O novo perfil copiará as suas definições, extras, histórico e dados guardados, tais como marcadores e palavras-passe — mas não a sua conta ou informações de sincronização.
+    .description = O novo perfil copiará as suas definições, complementos, histórico e dados guardados, tais como marcadores e palavras-passe — mas não a sua conta ou informações de sincronização.
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
 # need to first pick a profile to copy, and then click the copy button.
@@ -1132,7 +1132,6 @@ search-keyword-warning-bookmark = Escolheu uma palavra-chave que está a ser uti
 edit-engine-name-warning-duplicate = Já existe um motor de pesquisa com o nome "{ $name }". Escolha outro nome.
 remove-engine-confirmation = Tem a certeza de que pretende remover este motor de pesquisa?
 remove-engine-remove = Remover
-remove-addon-engine-alert = Para remover este motor de pesquisa, remova o extra associado.
 search-engine-group =
     .label = Motor de pesquisa predefinido
 search-default-engine =
@@ -1180,7 +1179,6 @@ account-sync-section =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Leve a sua Web consigo
-sync-signedout-description2 = Sincronize os marcadores, histórico, separadores, palavras-passe, extras e definições entre dispositivos.
 sync-signedout-account-signin3 =
     .label = Iniciar sessão para sincronizar…
     .accesskey = I
