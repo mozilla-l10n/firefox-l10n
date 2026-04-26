@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Alterar se pode ou não receber notificações do site
 urlbar-midi-notification-anchor =
     .tooltiptext = Abrir painel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Abrir painel Série
 urlbar-eme-notification-anchor =
     .tooltiptext = Gerir utilização de software DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Bloqueou a extração de dados do canvas para este site.
 urlbar-midi-blocked =
     .tooltiptext = Bloqueou o acesso MIDI para este site.
+urlbar-serial-blocked =
+    .tooltiptext = Bloqueou o acesso à porta série para este site.
 urlbar-install-blocked =
     .tooltiptext = Bloqueou a instalação de extras para este site.
 # Variables
@@ -649,6 +653,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desativar a proteção da partilha para esta sessão
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Selecionar uma porta série:
+webserial-no-ports-available = Nenhuma porta série disponível
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Para utilizar o atalho F12, comece por abrir as ferramentas de desenvolvimento através do menu de Ferramentas do navegador.
@@ -1006,6 +1015,7 @@ urlbar-searchmode-popup-one-off-header = Desta vez, pesquisar com:
 # reset after submitting.
 urlbar-searchmode-popup-header = Pesquisar com:
 urlbar-searchmode-popup-search-settings-panelitem = Definições de pesquisa
+urlbar-searchmode-popup-settings-panelitem = Definições
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1021,6 +1031,21 @@ urlbar-result-action-switch-to-tabgroup = Mudar para { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Abrir num novo separador
+    .accesskey = s
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Abrir num novo separador contentor
+    .accesskey = c
+urlbar-view-context-menu-open-in-window =
+    .label = Abrir numa nova janela
+    .accesskey = j
+urlbar-view-context-menu-open-in-private-window =
+    .label = Abrir numa nova janela privada
+    .accesskey = p
 
 ## Labels shown above groups of urlbar results
 
@@ -1094,6 +1119,9 @@ fullscreen-warning-no-domain = Este documento está no modo de ecrã completo
 fullscreen-exit-button = Sair de ecrã completo (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Sair de ecrã completo (Esc)
+fullscreen-keyboardlock-exit-button = Sair do ecrã completo (Pressione e mantenha pressionado Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Sair do ecrã completo (Pressione e mantenha pressionado esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1253,6 +1281,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Partilhar
     .tooltiptext = Partilhar esta página
+toolbar-button-tab-groups =
+    .label = Grupos de separadores
+    .tooltiptext = Mostrar os seus grupos de separadores
 
 ## EME notification panel
 
@@ -1435,6 +1466,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Terminar sessão privada
     .tooltiptext = Terminar sessão privada
+reset-pbm-panel-heading2 = Limpar dados e iniciar uma nova sessão privada?
+reset-pbm-panel-description2 = Isto remove o histórico, os cookies e todos os restantes dados dos sites, sem fechar a sua janela privada.
 reset-pbm-panel-heading = Terminar a sua sessão privada?
 reset-pbm-panel-description = Feche todos os separadores privados e elimine o histórico, cookies e todos os outros dados de sites.
 reset-pbm-panel-always-ask-checkbox =
@@ -1443,6 +1476,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Limpar sessão privada
+    .accesskey = L
 reset-pbm-panel-confirm-button =
     .label = Eliminar dados de sessão
     .accesskey = d
@@ -1692,6 +1728,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] O { -brand-product-name } permitiu { $count } cripto-mineradores
     }
 trustpanel-cryptominer-tab-list-header = Estes sites estão a tentar criptominerar:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Tem uma conta neste site?
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado neste site
