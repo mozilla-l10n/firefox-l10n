@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Personalize a sua navegação
 experimental-features-group-productivity =
     .label = Produtividade
+experimental-features-group-newtab-widgets =
+    .label = Widgets no { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Palavras-passe na barra lateral
@@ -56,3 +58,17 @@ experimental-features-newtab-sections-follow-block-description = Organize as his
 # Firefox Web Apps
 experimental-features-fx-web-apps =
     .label = Adicionar sites na sua barra de tarefas
+# “Add tab to taskbar” is found in the tooltip text of `-taskbar-tab-urlbar-button-open`.
+experimental-features-fx-web-apps-description = Abra os sites que visita com frequência como aplicações web diretamente a partir da barra de tarefas. Procure o ícone “Adicionar separador à barra de tarefas” à direita da barra de endereços para abrir esse site numa janela simplificada, com todas as proteções do { -brand-product-name }. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+
+## New Tab Productivity Widgets
+
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = Listas no { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listas
+experimental-features-newtab-widget-lists-description = Tenha sempre a sua lista de tarefas presente, ao abrir um novo separador. Desde listas de viagem a listas de compras, organize os seus planos no { -brand-product-name }. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Timer Widget
+experimental-features-newtab-widget-timer =
+    .label = Temporizador no { -firefox-home-brand-name }
