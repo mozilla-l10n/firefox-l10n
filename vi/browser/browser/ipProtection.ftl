@@ -25,12 +25,20 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Giới thiệu VPN, giờ đây đã có ngay trong trình duyệt của bạn.
 ipprotection-feature-introduction-link-text-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Thêm một lớp bảo mật nữa
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ 5 địa điểm để giữ cho nơi bạn duyệt web được riêng tư hơn.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-description-private-browsing = Duyệt web với tính năng bảo mật cao hơn bằng cách ẩn vị trí của bạn, ngay cả khi bạn đang ở chế độ riêng tư.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Dùng Wi-Fi công cộng? Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Nhận <a data-l10n-name="learn-more-vpn">tăng cường quyền riêng tư</a> bằng cách chọn một trong 5 địa điểm để ẩn nơi bạn duyệt web.
 ipprotection-feature-introduction-description-captive-portal = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí, ngay cả khi sử dụng Wi-Fi công cộng.
 ipprotection-feature-introduction-button-primary = Tiếp
 ipprotection-feature-introduction-button-secondary-not-now = Không phải bây giờ
 ipprotection-feature-introduction-button-secondary-no-thanks = Không, cảm ơn
+ipprotection-feature-introduction-button-secondary-remove = Xoá VPN khỏi thanh công cụ
 
 ## Site settings callout
 
@@ -38,22 +46,33 @@ ipprotection-site-settings-callout-title = Chọn nơi bạn sử dụng VPN
 ipprotection-site-settings-callout-subtitle = Tắt VPN cho một trang web cụ thể và chúng tôi sẽ ghi nhớ điều đó cho lần truy cập tiếp theo của bạn.
 ipprotection-site-settings-callout-button = Đã hiểu
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Mới: Thay đổi địa điểm của bạn
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> cho phép bạn chọn từ 5 địa điểm duyệt web, hoặc để chúng tôi chọn địa điểm nhanh nhất cho bạn.
+ipprotection-location-selection-callout-primary-button = Thử ngay
+ipprotection-location-selection-callout-secondary-button = Bỏ qua
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ẩn vị trí của bạn</a> khi duyệt trong { -brand-product-name }.
+unauthenticated-private-location-message = Giúp <a data-l10n-name="learn-more-vpn">giữ vị trí của bạn riêng tư</a> trong { -brand-product-name }.
+unauthenticated-choose-location-message = Chọn từ 5 địa điểm hoặc để { -brand-product-name } chọn địa điểm nhanh nhất.
 unauthenticated-hide-location-message-2 = Ẩn vị trí của bạn khi duyệt web trong { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
 unauthenticated-get-started = Bắt đầu
+unauthenticated-terms-of-service-privacy-notice = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="vpn-terms-of-service">điều khoản dịch vụ</a> và <a data-l10n-name="vpn-privacy-notice">thông báo bảo mật</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Sử dụng VPN cho trang web này
     .aria-label = Đã bật VPN cho trang web này
 site-exclusion-toggle-disabled-1 =
     .label = Sử dụng VPN cho trang web này
     .aria-label = Đã tắt VPN cho trang web này
+site-exclusion-toggle-description = Trang web không hoạt động? Hãy thử tắt VPN.
 ipprotection-settings-link =
     .label = Cài đặt
 
@@ -73,6 +92,26 @@ ipprotection-button-turn-vpn-on = Bật VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Đang bật…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Địa điểm: Được đề xuất
+ipprotection-recommended-location-description = { -brand-product-name } sẽ tìm địa điểm nhanh nhất
+ipprotection-recommended-location-badge = MỚI
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Địa điểm: { $country }
+ipprotection-locations-subview =
+    .title = Chọn địa điểm
+ipprotection-locations-subview-description = Chọn một địa điểm khác để duyệt web.
+ipprotecion-locations-subview-recommended-label = Được đề xuất
+ipprotection-locations-subview-recommended-description = Tìm địa điểm nhanh nhất
+ipprotection-locations-subview-promo =
+    .heading = Tăng cường bảo mật với { -mozilla-vpn-brand-name }
+    .message = Chọn từ hơn 300 địa điểm và bảo vệ tất cả ứng dụng của bạn trên tối đa 5 thiết bị.
+ipprotection-locations-subview-promo-button = Nhận { -mozilla-vpn-brand-name }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = Đã tạm dừng VPN
@@ -82,6 +121,10 @@ ipprotection-connection-status-paused-description = Bạn đã sử dụng hết
 upgrade-vpn-title = Tăng cường khả năng bảo vệ vượt ra ngoài phạm vi trình duyệt.
 upgrade-vpn-description = Chọn địa điểm VPN của bạn, sử dụng VPN cho tất cả các ứng dụng và tối đa 5 thiết bị, và luôn được bảo mật trên mọi mạng — tại nhà hoặc trên mạng Wi-Fi công cộng.
 upgrade-vpn-button = Hãy thử { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN đã tạm dừng
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Bạn đã sử dụng hết { $maxUsage } GB dữ liệu VPN. Quyền truy cập sẽ được thiết lập lại vào tháng tới.
 
 ## Messages and errors
 
@@ -131,12 +174,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Bạn sắp hế
 ip-protection-description =
     .label = VPN
     .description = VPN được tích hợp sẵn giúp tăng cường quyền riêng tư khi duyệt web trên { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN tích hợp sẵn
+    .description = Tăng cường sự riêng tư bằng cách ẩn vị trí hiện tại của bạn khi duyệt web.
 ip-protection-learn-more = Tìm hiểu thêm
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
     .message = Ẩn vị trí của bạn khi duyệt web trong { -brand-short-name }. Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
+    .message = Duyệt web an toàn hơn nhờ ẩn vị trí của bạn. Nhận { $maxUsage } GB dữ liệu VPN miễn phí mỗi tháng.
 ip-protection-not-opted-in-button = Bắt đầu
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -152,6 +203,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Tăng cường khả năng bảo vệ khi ở ngoài { -brand-short-name } với { -mozilla-vpn-brand-name }
     .description = Chọn địa điểm VPN tùy chỉnh và thêm tính năng bảo vệ cho tất cả ứng dụng của bạn trên tối đa năm thiết bị, cho dù bạn đang ở nhà hay sử dụng Wi-Fi công cộng.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Tăng cường bảo mật với { -mozilla-vpn-brand-name }
+    .description = Chọn từ hơn 300 địa điểm và bảo vệ tất cả ứng dụng của bạn trên tối đa 5 thiết bị.
 
 ## IP Protection dialogs
 
@@ -204,6 +258,12 @@ vpn-paused-alert-title = Đã tạm dừng VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Bạn đã sử dụng hết { $maxUsage } GB dữ liệu VPN. Quyền truy cập VPN sẽ được thiết lập lại vào tháng tới.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Bạn đã sử dụng hết { $maxUsage } GB dữ liệu VPN. Quyền truy cập sẽ được thiết lập lại vào tháng tới.
+vpn-error-page-continue-description = Chọn cách tiếp tục mà không cần VPN
+vpn-error-page-keep-browsing = Tiếp tục duyệt web trong phiên này
+vpn-error-page-new-session = Bắt đầu phiên mới
 vpn-paused-alert-close-tabs-button = Đóng tất cả các thẻ
 vpn-paused-alert-continue-wo-vpn-button = Tiếp tục mà không cần VPN
 vpn-error-alert-title = VPN hiện không hoạt động.
