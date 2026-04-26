@@ -805,6 +805,15 @@ preferences-accessibility-header =
     .heading = Acessibilidade
 preferences-default-zoom-select =
     .aria-label = Zoom predefinido
+preferences-fonts-family =
+    .label = Família de tipos de letra
+    .accesskey = t
+preferences-fonts-size =
+    .label = Tamanho do tipo de letra
+    .accesskey = h
+preferences-fonts-advanced-settings =
+    .label = Definições avançadas
+    .accesskey = v
 
 ## General Section - Proxy
 
@@ -1109,6 +1118,7 @@ search-edit-engine =
     .label = Editar
     .accesskey = E
 search-find-more-link = Encontrar mais motores de pesquisa
+search-filtering-for-add-engine = Adicionar motor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palavra-chave duplicada
@@ -1127,6 +1137,9 @@ search-engine-group =
     .label = Motor de pesquisa predefinido
 search-default-engine =
     .aria-label = Motor de pesquisa predefinido
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Pesquisa
 
 ## Containers Section
 
@@ -2135,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = Enviar relatórios de falha automaticamente
     .accesskey = c
 collection-backlogged-crash-reports-description = Isto ajuda o { -vendor-short-name } a diagnosticar e corrigir problemas com o navegador. Os relatórios podem incluir dados pessoais ou sensíveis.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = As mesmas definições, novo visual!
+    .message = Reestruturámos esta página para facilitar a navegação e a exploração. As suas definições pessoais mantêm-se inalteradas e nada foi removido. Sugestão: utilize a pesquisa para aceder rapidamente ao que procura.
+settings-redesign-promo-dismiss-button =
+    .label = Percebido
 addon-recommendations =
     .label = Permitir que { -brand-short-name } faça recomendações personalizadas de extensões
 addon-recommendations-link = Saber mais
@@ -2391,6 +2410,16 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Segurança da ligação e do software
+preferences-connection-link-section =
+    .label = Segurança da ligação e do software
+    .description = Descubra como as ligações permanecem seguras, o software malicioso é bloqueado e os sites são verificados.
+preferences-connection-link-button =
+    .label = Definições avançadas
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ambiente de trabalho
@@ -2512,15 +2541,46 @@ preferences-etp-level-custom =
     .description = Escolha quais as proteções a ativar ou a desativar.
 preferences-etp-status-advanced-button =
     .label = Definições avançadas
+preferences-etp-status-protections-dashboard-link =
+    .label = Ver o seu painel personalizado de proteções
+    .description = Veja quantos rastreadores ocultos o { -brand-short-name } bloqueou por si, incluindo rastreadores de redes sociais, identificadores digitais e mineradores de criptomoedas.
+preferences-etp-header =
+    .heading = Proteção melhorada contra a monitorização
 preferences-etp-advanced-settings-group =
     .label = Definições avançadas
     .description = Os sites utilizam rastreadores que seguem o que você faz online e para mostrar anúncios intrusivos. O { -brand-short-name } garante a sua proteção enquanto navega, bloqueando automaticamente a maioria dos rastreadores para que mantenha o controlo do seu rasto digital.
+preferences-etp-customize-button =
+    .label = Personalizar a proteção contra a monitorização
+preferences-etp-reload-tabs-hint =
+    .message = Recarregue os seus separadores para aplicar estas alterações.
+preferences-etp-reload-tabs-hint-button =
+    .label = Recarregar todos os separadores
+preferences-etp-rfp-warning-message =
+    .message = Está a utilizar a Resistência à Identificação Digital (RFP), que substitui algumas das definições de proteção contra identificação digital do { -brand-short-name }. Isto pode fazer com que alguns sites não funcionem corretamente.
+preferences-etp-level-warning-message =
+    .heading = Atenção! Alguns sites podem não funcionar de acordo com o esperado.
+    .message = Alguns sites integram rastreadores nas suas funcionalidades ou conteúdos. Quando o { -brand-short-name } os bloqueia, o site pode não funcionar corretamente. Experimente utilizar “Corrigir problema no site” ou desativar a proteção contra a monitorização nesse site.
+preferences-etp-manage-exceptions-button =
+    .label = Gerir exceções
+    .description = Gerir os sites em que a Proteção melhorada contra a monitorização está desativada.
+preferences-etp-customize-header =
+    .heading = Personalizar a proteção contra a monitorização
 preferences-etp-reset =
     .label = Redefinir personalizações
     .description = Redefina as definições para um nível de proteção predefinido.
+preferences-etp-reset-standard-button =
+    .label = Repor para predefinida
+preferences-etp-reset-strict-button =
+    .label = Repor para rigorosa
 preferences-etp-custom-control-group =
     .label = Proteção contra a monitorização
     .description = Escolha quais as proteções a ativar ou a desativar.
+preferences-etp-custom-cookies-enabled =
+    .label = Cookies
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Cookies
+preferences-etpc-custom-cookie-behavior-accept-all =
+    .label = Permitir todos os cookies
 preferences-etp-custom-tracking-protection-enabled =
     .label = Conteúdo de monitorização
 preferences-etp-custom-tracking-protection-enabled-context =
@@ -2533,3 +2593,15 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Identificadores digitais suspeitos
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Identificadores digitais suspeitos
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .label = Os identificadores digitais conhecidos não são bloqueados
+    .description = Isto pode permitir que seja monitorizado por determinados rastreadores, sem recurso a cookies.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Os cookies de terceiros estão ativados
+    .description = Os cookies de terceiros são utilizados para o seguir entre diferentes sites.
+security-privacy-issue-warning-password-manager =
+    .label = O gestor de palavras-passe está desativado
+    .description = Os gestores de palavras-passe ajudam a armazenar palavras-passe fortes para as suas contas.
