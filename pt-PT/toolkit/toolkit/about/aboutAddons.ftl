@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-addons-page-title = Gestor de extras
+addons-page-title = Gestor de complementos
 search-header =
     .placeholder = Pesquisar addons.mozilla.org
     .searchbuttonlabel = Pesquisar
@@ -17,18 +17,18 @@ list-empty-get-language-packs-message = Obter pacotes de idioma em <a data-l10n-
 ##
 
 list-empty-installed =
-    .value = Não tem instalado qualquer extra deste tipo
+    .value = Não tem instalado qualquer complemento deste tipo
 list-empty-available-updates =
     .value = Nenhuma atualização encontrada
 list-empty-recent-updates =
-    .value = Não atualizou quaisquer extras recentemente
+    .value = Não atualizou quaisquer complementos recentemente
 list-empty-find-updates =
     .label = Procurar atualizações
 list-empty-button =
-    .label = Saber mais acerca dos extras
-help-button = Apoio dos extras
+    .label = Saber mais sobre os complementos
+help-button = Apoio dos complementos
 sidebar-help-button-title =
-    .title = Apoio dos extras
+    .title = Apoio dos complementos
 addons-settings-button = Definições do { -brand-short-name }
 sidebar-settings-button-title =
     .title = Definições do { -brand-short-name }
@@ -42,9 +42,9 @@ detail-last-updated =
     .label = Última atualização
 addon-detail-description-expand = Mostrar mais
 addon-detail-description-collapse = Mostrar menos
-detail-contributions-description = O programador deste extra pede para o ajudar no desenvolvimento com uma pequena contribuição.
+detail-contributions-description = O programador deste complemento pede para o ajudar no desenvolvimento com uma pequena contribuição.
 detail-contributions-button = Contribuir
-    .title = Contribua para o desenvolvimento deste extra
+    .title = Contribua para o desenvolvimento deste complemento
     .accesskey = C
 detail-update-type =
     .value = Atualizações automáticas
@@ -77,13 +77,13 @@ detail-home =
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
-    .label = Perfil do extra
+    .label = Perfil do complemento
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
     .label = Procurar atualizações
     .accesskey = c
-    .tooltiptext = Procurar atualizações para este extra
+    .tooltiptext = Procurar atualizações para este complemento
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -97,23 +97,25 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Alterar opções deste extra
-           *[other] Mudar as preferências deste extra
+            [windows] Alterar opções deste complemento
+           *[other] Mudar as preferências deste complemento
         }
 detail-rating =
     .value = Avaliação
 addon-restart-now =
     .label = Reiniciar agora
 disabled-unsigned-heading =
-    .value = Alguns extras foram desativados
-disabled-unsigned-description = Os seguintes extras não foram verificados para utilização no { -brand-short-name }. Pode <label data-l10n-name="find-addons">encontrar substitutos</label> ou solicitar que o programador peça a sua verificação.
+    .value = Alguns complementos foram desativados
+disabled-unsigned-description =
+    Os seguintes complementos não foram verificados para utilização no { -brand-short-name }. Pode
+    <label data-l10n-name="find-addons">procurar alternativas</label> ou solicitar ao programador que os submeta para verificação.
 disabled-unsigned-learn-more = Saber mais acerca do nosso esforço para manter os utilizadores seguros.
-disabled-unsigned-devinfo = Os programadores interessados em que o seus extras sejam verificados, devem ler o nosso <label data-l10n-name="learn-more">manual</label>.
+disabled-unsigned-devinfo = Os programadores interessados em que os seus complementos sejam verificados, devem ler o nosso <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Falta alguma coisa? Alguns plugins deixaram de ser suportados pelo { -brand-short-name }. <label data-l10n-name="learn-more">Saber mais.</label>
 legacy-warning-show-legacy = Mostrar extensões de legado
 legacy-extensions =
     .value = Extensões de legado
-legacy-extensions-description = Estas extensões não atendem aos padrões atuais do { -brand-short-name } por isso foram desativadas <label data-l10n-name="legacy-learn-more">Saber acerca das alterações aos extras</label>
+legacy-extensions-description = Estas extensões não atendem aos padrões atuais do { -brand-short-name } por isso foram desativadas <label data-l10n-name="legacy-learn-more">Saber mais sobre as alterações aos complementos</label>
 private-browsing-description2 =
     O { -brand-short-name } está a mudar a maneira como as extensões funcionam na navegação privada. Quaisquer novas extensões que adicione ao
     { -brand-short-name } não serão executadas por predefinição em janelas privadas. A menos que permita isso nas definições, a
@@ -154,24 +156,24 @@ addon-sitepermission-host = Permissões de site para { $host }
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Todos os extras foram desativados pelo modo de segurança.
-extensions-warning-check-compatibility = A verificação de compatibilidade de extras está desativada. Poderá ter extras incompatíveis.
+extensions-warning-safe-mode = Todos os complementos foram desativados pelo modo de segurança.
+extensions-warning-check-compatibility = A verificação de compatibilidade de complementos está desativada. Poderá ter complementos incompatíveis.
 extensions-warning-safe-mode2 =
-    .message = Todos os extras foram desativados pelo modo de segurança.
+    .message = Todos os complementos foram desativados pelo modo de segurança.
 extensions-warning-check-compatibility2 =
-    .message = A verificação de compatibilidade de extras está desativada. Poderá ter extras incompatíveis.
+    .message = A verificação de compatibilidade de complementos está desativada. Poderá ter complementos incompatíveis.
 extensions-warning-check-compatibility-button = Ativar
-    .title = Ativar verificação de compatibilidade de extras
-extensions-warning-update-security = A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.
+    .title = Ativar verificação de compatibilidade de complementos
+extensions-warning-update-security = A verificação de segurança de atualização de complementos está desativada. Poderá ser comprometido pelas atualizações.
 extensions-warning-update-security2 =
-    .message = A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.
+    .message = A verificação de segurança de atualização de complementos está desativada. Poderá ser comprometido pelas atualizações.
 extensions-warning-update-security-button = Ativar
-    .title = Ativar verificação de segurança de atualização do extra
+    .title = Ativar verificação de segurança de atualizações de complementos
 extensions-warning-imported-addons2 =
     .message = Por favor, finalize a instalação das extensões que foram importadas para o { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar Extensões
 extensions-warning-safe-mode3 =
-    .message = Todos os extras foram desativados pelo modo de diagnóstico.
+    .message = Todos os complementos foram desativados pelo modo de resolução de problemas.
 
 ## Strings connected to add-on updates
 
@@ -183,7 +185,7 @@ addon-updates-view-updates = Ver atualizações recentes
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
-addon-updates-update-addons-automatically = Atualizar extras automaticamente
+addon-updates-update-addons-automatically = Atualizar complementos automaticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -192,29 +194,29 @@ addon-updates-update-addons-automatically = Atualizar extras automaticamente
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
-addon-updates-reset-updates-to-automatic = Repor atualização automática para todos os extras
+addon-updates-reset-updates-to-automatic = Repor a atualização automática para todos os complementos
     .accesskey = R
-addon-updates-reset-updates-to-manual = Repor atualização manual para todos os extras
+addon-updates-reset-updates-to-manual = Repor a atualização manual para todos os complementos
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
-addon-updates-updating = A atualizar extras
-addon-updates-installed = Os seus extras foram atualizados.
+addon-updates-updating = A atualizar complementos
+addon-updates-installed = Os seus complementos foram atualizados.
 addon-updates-none-found = Nenhuma atualização encontrada
 addon-updates-manual-updates-found = Ver atualizações disponíveis
 
 ## Add-on install/debug strings for page options menu
 
-addon-install-from-file = Instalar extra a partir de ficheiro…
+addon-install-from-file = Instalar complemento a partir de ficheiro…
     .accesskey = I
 # Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
 # pref is set.
-addon-install-or-update-from-file = Instalar ou atualizar extra a partir de um ficheiro…
+addon-install-or-update-from-file = Instalar ou atualizar complemento a partir de um ficheiro…
     .accesskey = I
-addon-install-from-file-dialog-title = Selecione o extra a instalar
-addon-install-from-file-filter-name = Extras
-addon-open-about-debugging = Depurar extras
+addon-install-from-file-dialog-title = Selecione o complemento a instalar
+addon-install-from-file-filter-name = Complementos
+addon-open-about-debugging = Depurar complementos
     .accesskey = p
 
 ## Extension shortcut management
@@ -288,7 +290,7 @@ colorway-removal-notice-message =
     .heading = O(s) seu(s) tema(s) de estilos de cor foram removidos.
     .message =
         O { -brand-product-name } atualizou a coleção dos estilos de cor. Removemos
-        a(s) versão(ões) antiga(s) da sua lista de “Temas Guardados”. Obtenha as novas versões no site de extras.
+        a(s) versão(ões) antiga(s) da sua lista de “Temas Guardados”. Obtenha as novas versões no site de complementos.
 colorway-removal-notice-learn-more = Saber mais
 colorway-removal-notice-button = Obter os temas de estilos de cor atualizados
 # Notice to make user aware that themes are not applied in forced colors mode.
@@ -309,7 +311,7 @@ install-theme-button = Instalar tema
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gerir
-find-more-addons = Encontrar mais extras
+find-more-addons = Encontrar mais complementos
 find-more-themes = Encontrar mais temas
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
@@ -507,14 +509,14 @@ updates-heading = Gerir as suas atualizações
 sitepermission-heading = Gerir as suas permissões do site
 discover-heading = Personalize o seu { -brand-short-name }
 shortcuts-heading = Gerir atalhos de extensões
-default-heading-search-label = Encontrar mais extras
+default-heading-search-label = Encontrar mais complementos
 addons-heading-search-input =
     .placeholder = Pesquisar addons.mozilla.org
 addons-heading-search-button =
     .title = Pesquisar addons.mozilla.org
     .aria-label = Pesquisar addons.mozilla.org
 addon-page-options-button =
-    .title = Ferramentas para todos os extras
+    .title = Ferramentas para todos os complementos
 
 ## Detail notifications
 ## Variables:
@@ -538,7 +540,7 @@ details-notification-unsigned2 =
 details-notification-hard-blocked-extension =
     .message = Esta extensão está bloqueada por violar as políticas da Mozilla e foi desativada.
 details-notification-hard-blocked-other =
-    .message = Este extra está bloqueado por violar as políticas da Mozilla e foi desativado.
+    .message = Este complemento está bloqueado por violar as políticas da Mozilla e foi desativado.
 details-notification-unsigned-link = Mais informação
 details-notification-blocked = { $name } foi desativado devido a problemas de estabilidade ou de segurança.
 details-notification-blocked-link2 = Ver detalhes
@@ -547,17 +549,17 @@ details-notification-soft-blocked-extension-disabled2 =
 details-notification-soft-blocked-extension-enabled2 =
     .message = Esta extensão está restrita. A sua utilização pode ser perigosa.
 details-notification-soft-blocked-other-disabled2 =
-    .message = Este extra está restrito e foi desativado. Pode ativá-lo, mas isto pode ser perigoso.
+    .message = Este complemento está restrito e foi desativado. Pode ativá-lo, mas isto pode ser perigoso.
 details-notification-soft-blocked-other-enabled2 =
-    .message = Este extra está restrito. A sua utilização pode ser perigosa.
+    .message = Este complemento está restrito. A sua utilização pode ser perigosa.
 details-notification-soft-blocked-extension-disabled =
     .message = Esta extensão está a ser restringida por violar as políticas da Mozilla e foi desativada. Pode ativá-la, mas isto pode ser perigoso.
 details-notification-soft-blocked-extension-enabled =
     .message = Esta extensão viola as políticas da Mozilla. A sua utilização pode ser perigosa.
 details-notification-soft-blocked-other-disabled =
-    .message = Este extra está a ser restringido por violar as políticas da Mozilla e foi desativado. Pode ativá-lo, mas isto pode ser perigoso.
+    .message = Este complemento está a ser restringido por violar as políticas da Mozilla e foi desativado. Pode ativá-lo, mas isto pode ser perigoso.
 details-notification-soft-blocked-other-enabled =
-    .message = Este extra viola as políticas da Mozilla. A sua utilização pode ser perigosa.
+    .message = Este complemento viola as políticas da Mozilla. A sua utilização pode ser perigosa.
 details-notification-softblocked-link2 = Ver detalhes
 details-notification-blocked-link = Mais informação
 details-notification-softblocked = { $name } é conhecido por causar problemas de estabilidade ou de segurança.

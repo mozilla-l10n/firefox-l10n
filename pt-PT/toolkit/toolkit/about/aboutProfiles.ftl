@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-title = Acerca dos perfis
-profiles-subtitle = Esta página ajuda-lhe a gerir os seus perfis. Cada perfil é um mundo separado que contém histórico, marcadores, definições e extras separados.
+profiles-subtitle = Esta página ajuda-o a gerir os seus perfis. Cada perfil é um mundo separado que contém histórico, marcadores, definições e complementos separados.
 profiles-create = Criar um novo perfil
 profiles-restart-title = Reiniciar
-profiles-restart-in-safe-mode = Reiniciar com os extras desativados…
+profiles-restart-in-safe-mode = Reiniciar com os complementos desativados…
 profiles-restart-normal = Reiniciar normalmente…
 profiles-conflict = Outra cópia do { -brand-product-name } fez alterações nos perfis. Deve reiniciar o { -brand-short-name } antes de fazer mais alterações.
 profiles-flush-fail-title = Alterações não guardadas

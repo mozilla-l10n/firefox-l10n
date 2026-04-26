@@ -15,7 +15,7 @@ options-select-default-tools-label = Ferramentas de programador predefinidas
 options-tool-not-supported-label = * Não suportado para o destino atual da caixa de ferramentas
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
-options-select-additional-tools-label = Ferramentas de programador instaladas por extras
+options-select-additional-tools-label = Ferramentas de programador instaladas por complementos
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Botões da caixa de ferramentas disponíveis
@@ -126,9 +126,9 @@ options-disable-javascript-label = Desativar JavaScript
 options-disable-javascript-tooltip =
     .title = Se ativar esta opção desativa o JavaScript no separador atual. Se o separador ou a caixa de ferramentas for fechado, então esta definição será esquecida.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
-options-enable-chrome-label = Ativar caixas de ferramentas de depuração do navegador e dos extras
+options-enable-chrome-label = Ativar caixas de ferramentas de depuração do navegador e dos complementos
 options-enable-chrome-tooltip =
-    .title = Ativar esta opção irá permitir que utilize várias ferramentas de programador no contexto do navegador (via Ferramentas > Ferramentas de programação > Caixa de ferramentas do navegador) e depurar extras a partir do Gestor de extras
+    .title = Ativar esta opção irá permitir que utilize várias ferramentas de programador no contexto do navegador (via Ferramentas > Ferramentas de programação > Caixa de ferramentas do navegador) e depurar complementos a partir do Gestor de complementos
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ativar depuração remota
 options-enable-remote-tooltip2 =

@@ -24,7 +24,7 @@ preloaded-tab = Pré-carregado: { $title }
 type-tab = Separador
 type-subframe = Subframe
 type-tracker = Rastreador
-type-addon = Extra
+type-addon = Complemento
 type-browser = Navegador
 type-worker = Worker
 type-other = Outro
@@ -53,7 +53,7 @@ size-GB = { $value } GB
 close-tab =
     .title = Fechar separador
 show-addon =
-    .title = Mostrar no Gestor de extras
+    .title = Mostrar no Gestor de complementos
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

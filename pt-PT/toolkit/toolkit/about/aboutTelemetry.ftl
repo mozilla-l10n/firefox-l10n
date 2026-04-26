@@ -33,7 +33,7 @@ about-telemetry-keyed-histogram-section = Histogramas legendados
 about-telemetry-events-section = Eventos
 about-telemetry-simple-measurements-section = Medições simples
 about-telemetry-slow-sql-section = Instruções SQL lentas
-about-telemetry-addon-details-section = Detalhes de extras
+about-telemetry-addon-details-section = Detalhes do complemento
 about-telemetry-late-writes-section = Escritas atrasadas
 about-telemetry-raw-payload-section = Payload em bruto
 about-telemetry-raw = JSON em bruto
@@ -112,7 +112,7 @@ about-telemetry-slow-sql-hits = Ocorrências
 about-telemetry-slow-sql-average = Tempo médio (ms)
 about-telemetry-slow-sql-statement = Instrução
 # these strings are used in the “Add-on Details” section
-about-telemetry-addon-table-id = ID do extra
+about-telemetry-addon-table-id = ID do complemento
 about-telemetry-addon-table-details = Detalhes
 # Variables:
 #   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
@@ -130,7 +130,7 @@ about-telemetry-time-stamp-header = marca temporal
 about-telemetry-category-header = categoria
 about-telemetry-method-header = método
 about-telemetry-object-header = objeto
-about-telemetry-extra-header = extra
+about-telemetry-extra-header = complemento
 # Variables:
 #  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } processo
