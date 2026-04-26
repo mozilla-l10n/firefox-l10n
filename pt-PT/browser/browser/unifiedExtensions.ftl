@@ -15,8 +15,11 @@ unified-extensions-discover-extensions =
     .label = Descobrir extensões
 unified-extensions-empty-reason-private-browsing-not-allowed = Tem extensões instaladas, mas não ativadas, nas janelas privadas
 unified-extensions-empty-reason-extension-not-enabled = Tem extensões instaladas, mas não ativadas
+# In this headline, “Level up” means to enhance your browsing experience.
+unified-extensions-empty-reason-zero-extensions-onboarding = Melhore a sua experiência de navegação com extensões
 unified-extensions-empty-content-explain-enable2 = Selecione “{ unified-extensions-manage-extensions.label }” para as ativar nas definições.
 unified-extensions-empty-content-explain-manage2 = Selecione “{ unified-extensions-manage-extensions.label }” para gerir as mesmas nas definições.
+unified-extensions-empty-content-explain-extensions-onboarding = Personalize o { -brand-short-name } ajustando o visual, o desempenho ou reforçando a privacidade e a segurança.
 
 ## An extension in the main list
 
@@ -27,6 +30,9 @@ unified-extensions-empty-content-explain-manage2 = Selecione “{ unified-extens
 unified-extensions-item-open-menu =
     .aria-label = Abrir o menu para { $extensionName }
 unified-extensions-item-message-manage = Gerir extensão
+# Variables:
+#   $extensionName (String) - Name of the user-enabled soft-blocked extension.
+unified-extensions-item-messagebar-softblocked2 = A extensão { $extensionName } está restrita. A sua utilização pode ser perigosa.
 # Variables:
 #   $extensionName (String) - Name of the user-enabled soft-blocked extension.
 unified-extensions-item-messagebar-softblocked = { $extensionName } viola as políticas da Mozilla. A sua utilização pode ser arriscada.
@@ -106,3 +112,5 @@ unified-extensions-mb-blocklist-error-multiple =
            *[other] { $extensionsCount } extensões desativadas
         }
     .message = Algumas das suas extensões foram desativadas por violarem as políticas da Mozilla.
+unified-extensions-notice-safe-mode =
+    .message = O modo de Resolução de problemas desativou todas as extensões.

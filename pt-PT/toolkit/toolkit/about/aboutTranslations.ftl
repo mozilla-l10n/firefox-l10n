@@ -33,7 +33,7 @@ about-translations-translation-error-button = Tentar novamente
 # Variables:
 #   $language (String) - The display name of the detected language.
 about-translations-detected-language-unsupported-heading-2 = Lamentamos, mas ainda não disponibilizamos traduções a partir de { $language }
-about-translations-detected-language-unsupported-heading-unknown-2 = Lamentamos, mas ainda não disponibilizamos traduções deste idioma
+about-translations-detected-language-unsupported-heading-unknown-2 = Lamentamos, mas ainda não suportamos traduções deste idioma
 about-translations-detected-language-unsupported-subtext = Escolha outro idioma.
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =

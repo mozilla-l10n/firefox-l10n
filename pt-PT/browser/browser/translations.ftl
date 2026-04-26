@@ -90,6 +90,7 @@ translations-panel-error-change-button =
 # Variables:
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Lamentamos, mas ainda não suportamos traduções a partir de { $language }.
+translations-panel-error-unsupported-hint-unknown-2 = Lamentamos, mas ainda não suportamos traduções deste idioma.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
@@ -243,6 +244,8 @@ select-translations-panel-translation-failure-message =
 #   $language (string) - The language of the document.
 select-translations-panel-unsupported-language-message-known-2 =
     .message = Lamentamos, mas ainda não suportamos traduções a partir de { $language }.
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = Lamentamos, mas ainda não suportamos traduções deste idioma.
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
