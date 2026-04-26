@@ -672,6 +672,7 @@ pdfjs-views-manager-pages-status-action-button-label = Gerir
 pdfjs-views-manager-pages-status-copy-button-label = Copiar
 pdfjs-views-manager-pages-status-cut-button-label = Cortar
 pdfjs-views-manager-pages-status-delete-button-label = Eliminar
+pdfjs-views-manager-pages-status-export-selected-button-label = Exportar selecionado…
 # Variables:
 #   $count (Number) - the number of selected pages to be cut.
 pdfjs-views-manager-status-undo-cut-label =
@@ -693,6 +694,27 @@ pdfjs-views-manager-pages-status-undo-delete-label =
         [one] 1 página eliminada
        *[other] { $count } páginas eliminadas
     }
+pdfjs-views-manager-status-warning-copy-label = Não foi possível copiar. Atualize a página e tente novamente.
+pdfjs-views-manager-status-warning-delete-label = Não foi possível eliminar. Atualize a página e tente novamente.
+pdfjs-views-manager-status-warning-save-label = Não foi possível guardar. Atualize a página e tente novamente.
+pdfjs-views-manager-status-undo-button-label = Desfazer
+pdfjs-views-manager-status-done-button-label = Feito
+pdfjs-views-manager-status-close-button =
+    .title = Fechar
+pdfjs-views-manager-status-close-button-label = Fechar
+pdfjs-views-manager-paste-button-label = Colar
+pdfjs-views-manager-paste-button-before =
+    .title = Colar antes da primeira página
+# Variables:
+#   $page (Number) - the page number after which the paste button is.
+pdfjs-views-manager-paste-button-after =
+    .title = Colar depois da página { $page }
+# Badge used to promote a new feature in the UI, keep it as short as possible.
+# It's spelled uppercase for English, but it can be translated as usual.
+pdfjs-new-badge-content = NOVO
+pdfjs-views-manager-waiting-for-file = A carregar ficheiro…
+pdfjs-toggle-views-manager-button1 =
+    .title = Gerir páginas
 
 ## Main menu for adding/removing signatures
 

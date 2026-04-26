@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Abrir site numa nova janela
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Para proteger a sua segurança, { $hostname } não permitirá que o { -brand-short-name } apresente a página se a mesma for incorporada noutro site. Para ver esta página, deve abrir a mesma numa nova janela.
 fp-certerror-view-certificate-link = Ver o certificado do site
+fp-certerror-return-to-previous-page-recommended-button-2 = Retroceder (recomendado)
+    .accesskey = R
 fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendado)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
