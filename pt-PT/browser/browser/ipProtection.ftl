@@ -110,6 +110,7 @@ ipprotection-locations-subview-recommended-description = Encontra a localizaçã
 ipprotection-locations-subview-promo =
     .heading = Leve a proteção mais longe com a { -mozilla-vpn-brand-name }
     .message = Escolha entre mais de 300 localizações e proteja todas as suas aplicações, até 5 dispositivos.
+ipprotection-locations-subview-promo-button = Obter a { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -120,6 +121,10 @@ ipprotection-connection-status-paused-description = Utilizou todos os { $maxUsag
 upgrade-vpn-title = Obtenha uma proteção adicional, além do navegador
 upgrade-vpn-description = Escolha a localização da sua VPN, utilize a VPN para todas as suas aplicações e até 5 dispositivos, e mantenha-se em segurança em qualquer rede — em casa ou numa rede Wi-Fi pública.
 upgrade-vpn-button = Experimente a { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = A VPN está em pausa
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Utilizou todos os { $maxUsage } GB de dados da sua VPN. O acesso será reposto no próximo mês.
 
 ## Messages and errors
 
