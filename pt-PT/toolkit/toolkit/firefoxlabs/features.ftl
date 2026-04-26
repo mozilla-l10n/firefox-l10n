@@ -72,3 +72,30 @@ experimental-features-newtab-widget-lists-description = Tenha sempre a sua lista
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporizador no { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Temporizador
+experimental-features-newtab-widget-timer-description = Defina um temporizador para ajudar a manter o foco, como incentivo para não desviar a atenção ou para se lembrar de fazer uma pausa. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Listas e temporizador no { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-and-timer-description = Tenha sempre a sua lista de tarefas presente ao abrir um novo separador. Desde listas de viagem a listas de compras, organize os seus planos no { -brand-product-name }. Defina um temporizador para manter o foco, ajudar a monitorizar o seu progresso ou para se lembrar quando é altura de fazer uma pausa. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Previsões meteorológicas
+experimental-features-newtab-widget-weather-description = Consulte a previsão meteorológica detalhada para hoje, com atualizações horárias. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Imagem do dia
+experimental-features-newtab-widget-picture-of-the-day-description = Dê um toque de inspiração ao seu dia. Obtenha uma nova imagem, descubra algo interessante e altere o seu fundo rapidamente. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Relógios
+experimental-features-newtab-widget-clocks-description = Adicione até quatro relógios com nomes personalizados para acompanhar a hora nos locais que lhe interessam. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = Pesquisa semântica do histórico
+experimental-features-semantic-history-search-description = Utilize um modelo local de aprendizagem automática na barra de endereço do { -brand-product-name }. <a data-l10n-name="connect">Partilhe a sua opinião</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Notas de separadores
+experimental-features-tab-notes-description = As notas de separadores são uma funcionalidade experimental que lhe permite adicionar notas aos seus separadores do navegador. Anote o contexto, lembretes ou os próximos passos para que possa voltar e se lembrar do motivo pelo qual o abriu. Adoraríamos o seu feedback enquanto continuamos a melhorar esta funcionalidade. <a data-l10n-name="connect">Partilhe a sua opinião</a>

@@ -88,3 +88,7 @@ time-spinner-minute-previous =
     .aria-label = Minuto anterior
 time-spinner-minute-next =
     .aria-label = Minuto seguinte
+time-spinner-day-period-previous =
+    .aria-label = Período anterior do dia
+time-spinner-day-period-next =
+    .aria-label = Período seguinte do dia
