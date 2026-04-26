@@ -740,6 +740,7 @@ newtab-widget-section-minimize =
     .title = Minimizar widgets
     .aria-label = Colapsar todos os widgets para tamanho compacto
 newtab-widget-section-feedback = Dê-nos a sua opinião
+newtab-widget-lists-name-default = Lista de verificação
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

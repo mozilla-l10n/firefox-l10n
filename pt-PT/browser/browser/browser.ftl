@@ -1730,8 +1730,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Estes sites estão a tentar criptominerar:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Tem uma conta neste site?
+trustpanel-breachalerts-anonymous-breached-description = O { -brand-product-name } detetou que este site sofreu uma violação de dados nos últimos 12 meses. Descubra se foi afetado.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Dispensar
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Iniciar verificação gratuita
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado neste site
        *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados neste site
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>O site não está a funcionar corretamente?</strong> Recarregue a página para reduzir, temporariamente, a proteção contra monitorização.
+reduced-protection-infobar-reload-button = Recarregar
+    .accesskey = R
