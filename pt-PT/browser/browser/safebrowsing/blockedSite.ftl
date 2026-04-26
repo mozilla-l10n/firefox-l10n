@@ -9,9 +9,9 @@ safeb-blocked-harmful-page-title = O site adiante pode conter malware
 safeb-blocked-addon-page-title = Site bloqueado para a sua segurança
 safeb-blocked-phishing-page-short-desc = O { -brand-short-name } bloqueou esta página porque poderia tentar levar-lhe a fazer algo perigoso como instalar software ou revelar informação pessoal como palavras-passe ou cartões de crédito.
 safeb-blocked-malware-page-short-desc = O { -brand-short-name } bloqueou esta página porque poderia tentar instalar software malicioso que poderia furtar ou apagar informação pessoal do seu computador.
-safeb-blocked-unwanted-page-short-desc = O { -brand-short-name } bloqueou esta página porque poderia tentar levar-lhe a instalar programas que prejudicam a sua experiência de navegação (por exemplo, ao mudar a sua página inicial ou mostrar anúncios extra em sites que visita).
+safeb-blocked-unwanted-page-short-desc = O { -brand-short-name } bloqueou esta página porque poderia tentar fazer com que instalasse programas que prejudicam a sua experiência de navegação (por exemplo, ao mudar a sua página inicial ou mostrar mais anúncios em sites que visita).
 safeb-blocked-harmful-page-short-desc = O { -brand-short-name } bloqueou esta página porque poderia tentar instalar aplicações perigosas que furtam ou apagam a sua informação (por exemplo, fotos, palavras-passe, mensagens e cartões de crédito).
-safeb-blocked-addon-page-short-desc = O { -brand-short-name } bloqueou esta página porque um dos seus extras tentou abrir a mesma. Este site pode ser utilizado para roubar os seus dados, tais como palavras-passe ou números de cartão de crédito.
+safeb-blocked-addon-page-short-desc = O { -brand-short-name } bloqueou esta página porque um dos seus complementos tentou abrir a mesma. Este site pode ser utilizado para roubar os seus dados, tais como palavras-passe ou números de cartão de crédito.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Aconselhamento providenciado por <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>
@@ -73,4 +73,4 @@ safeb-blocked-addon-page-error-desc-override = <strong>Porque é que este site f
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> pode estar ligado a uma atividade decetiva e prejudicial.
 safeb-blocked-addon-page-error-desc3-override = <strong>O que pode fazer em relação a isto?</strong>
 safeb-blocked-addon-page-error-desc4-override = Para evitar que isto volte a acontecer, pode remover ou desativar <strong>{ $addonName }</strong> em about:addons.
-safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Saber mais sobre a proteção de extras nocivos do { -brand-short-name }</a>.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Saber mais sobre a proteção de complementos nocivos do { -brand-short-name }</a>.

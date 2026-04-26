@@ -12,4 +12,4 @@ refresh-profile =
 troubleshoot-mode-description = Utilize este modo especial do { -brand-short-name } para diagnosticar problemas. As suas extensões e personalizações serão temporariamente desativadas.
 skip-troubleshoot-refresh-profile = Como alternativa, pode também saltar o diagnóstico de problemas e tentar renovar o { -brand-short-name }
 # Shown on the safe mode dialog after multiple startup crashes.
-auto-safe-mode-description = O { -brand-short-name } encerrou inesperadamente ao iniciar. Isto poderá ter sido causado por extras ou outros problemas. Pode tentar resolver o seu problema ao diagnosticá-lo no modo de segurança.
+auto-safe-mode-description = O { -brand-short-name } encerrou inesperadamente ao iniciar. Isto poder ter sido causado por complementos ou outros problemas. Pode tentar resolver o seu problema ao diagnosticar o mesmo, no modo de segurança.
