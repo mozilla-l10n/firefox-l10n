@@ -424,7 +424,7 @@ tab-note-panel-add-note-new-badge =
 #   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
 tab-note-editor-character-limit =
     { $maxAllowedCharacters ->
-       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedChaacters, useGrouping: "false") } caracteres
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } caracteres
     }
 
 ## Split View
