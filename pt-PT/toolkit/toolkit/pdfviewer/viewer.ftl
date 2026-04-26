@@ -201,6 +201,15 @@ pdfjs-thumb-page-title =
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
     .aria-label = Miniatura da página { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Selecionar a página { $page }
+# Variables:
+#   $page (Number) - the page number
+#   $total (Number) - the number of pages
+pdfjs-thumb-page-title1 =
+    .title = Página { $page } de { $total }
 
 ## Find panel button title and messages
 
@@ -286,9 +295,13 @@ pdfjs-web-fonts-disabled = Os tipos de letra web estão desativados: não é pos
 
 pdfjs-editor-free-text-button =
     .title = Texto
+pdfjs-editor-color-picker-free-text-input =
+    .title = Alterar cor do texto
 pdfjs-editor-free-text-button-label = Texto
 pdfjs-editor-ink-button =
     .title = Desenhar
+pdfjs-editor-color-picker-ink-input =
+    .title = Alterar a cor de desenho
 pdfjs-editor-ink-button-label = Desenhar
 pdfjs-editor-stamp-button =
     .title = Adicionar ou editar imagens
@@ -694,6 +707,9 @@ pdfjs-views-manager-pages-status-undo-delete-label =
         [one] 1 página eliminada
        *[other] { $count } páginas eliminadas
     }
+pdfjs-views-manager-pages-status-waiting-ready-label = A preparar o seu ficheiro…
+pdfjs-views-manager-pages-status-waiting-uploading-label = A carregar ficheiro…
+pdfjs-views-manager-status-warning-cut-label = Não foi possível cortar. Atualize a página e tente novamente.
 pdfjs-views-manager-status-warning-copy-label = Não foi possível copiar. Atualize a página e tente novamente.
 pdfjs-views-manager-status-warning-delete-label = Não foi possível eliminar. Atualize a página e tente novamente.
 pdfjs-views-manager-status-warning-save-label = Não foi possível guardar. Atualize a página e tente novamente.

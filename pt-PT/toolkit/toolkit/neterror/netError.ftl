@@ -182,22 +182,42 @@ neterror-response-status-code = Código de erro: { $responsestatus } { $response
 ## Felt Privacy V1 Strings
 
 fp-neterror-offline-body-title = Parece que existe um problema com a sua ligação à Internet
+fp-neterror-illustration-alt =
+    .alt = Imagem de uma raposa a olhar para linhas de rede desligadas.
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-connection-intro = O { -brand-short-name } não consegue estabelecer uma ligação segura ao servidor em { $hostname }.
 fp-neterror-offline-intro = O { -brand-short-name } não consegue estabelecer ligação ao servidor em <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = O servidor em <strong>{ $hostname }</strong> está a demorar muito a responder.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> devolveu um erro.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = O servidor em <strong>{ $hostname }</strong> devolveu o seguinte erro: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> devolveu um cabeçalho com caracteres em branco que não são permitidos pelas normas de segurança da Internet.
+fp-neterror-content-encoding-intro = A página que está a tentar ver não pode ser mostrada pois utiliza um tipo de compressão não suportado.
 fp-neterror-coop-coep-intro = O { -brand-short-name } não carregou esta página porque parece que a configuração de segurança não corresponde à da página anterior.
+fp-neterror-blocked-by-policy-intro = A sua organização bloqueou o acesso a esta página ou site.
 fp-neterror-http-auth-disabled-intro = Alguém que se esteja a fazer passar pelo site pode tentar roubar coisas como o seu nome de utilizador, palavra-passe ou e-mail.
+fp-neterror-http-auth-disabled-secure-connection = Este site requer uma ligação segura e não pode adicionar uma exceção para o visitar.
 fp-neterror-why-did-this-happen = Por que motivo isto aconteceu?
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-neterror-cypher-overlap-why-dangerous-body = Parece que este site utiliza software desatualizado com vulnerabilidades de segurança já identificadas.
+fp-neterror-http-auth-disabled-why-dangerous-body = O { -brand-short-name } não confia em { $hostname } porque a ligação não é segura.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Certifique-se de que está a utilizar a versão mais recente do { -brand-short-name }. No menu, aceda a Ajuda > Sobre o { -brand-short-name }. Se já estiver a utilizar o último { -brand-short-name }, o problema deverá estar no próprio site.
+fp-neterror-offline-what-can-you-do-body = Tente ligar-se num dispositivo diferente. Verifique o seu modem ou router. Desligue-se e volte a ligar-se ao Wi-Fi.
+fp-neterror-http-auth-disabled-what-can-you-do-body = Experimente alterar o URL para HTTPS. No entanto, é provável que o problema seja do próprio site.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Por vezes os sites configuram proteções para si próprios contra interações indesejadas com outros sites.
+fp-learn-more-about-https-connections = Saiba mais sobre as ligações HTTPS
+fp-neterror-vpn-error-title = Não foi possível ligar à VPN
+fp-neterror-vpn-error-description = Tente novamente dentro de alguns minutos.
 fp-neterror-denied-port-access = Este endereço utiliza uma porta de rede que é normalmente utilizada para outros propósitos para além de navegação Web. O { -brand-short-name } cancelou a solicitação para sua proteção.
