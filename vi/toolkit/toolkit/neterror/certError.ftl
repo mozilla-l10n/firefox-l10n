@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Đồng hồ trên thiế
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Chủ sở hữu của { $hostname } chưa thiết lập đúng cách và không thể tạo kết nối an toàn.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Đồng hồ máy tính của bạn hiện tại là { DATETIME($now, dateStyle: "medium") }, việc này ngăn chặn { -brand-short-name } từ kết nối an toàn. Để truy cập <strong>{ $hostname }</strong>, hãy cập nhật đồng hồ máy tính trong cài đặt hệ thống của bạn thành ngày, giờ và múi giờ hiện tại, sau đó làm mới trang.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Cập nhật đồng hồ máy tính trong cài đặt hệ thống thành ngày, giờ và múi giờ hiện tại. Máy tính của bạn hiện đang đặt ngày giờ là { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

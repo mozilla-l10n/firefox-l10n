@@ -440,3 +440,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Đặt làm mặc định
 set-default-menu-message-primary-button-variant = Đặt làm trình duyệt mặc định
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 email ẩn danh, miễn phí
+relay-50-masks-announcement-subtitle = Giờ đây bạn nhận được 50 email ẩn danh miễn phí (tăng từ 5). Sử dụng một email ẩn danh cho mỗi tài khoản để giữ bí mật email thật của bạn.
+relay-50-masks-announcement-primary-button = Đi đến { -relay-brand-name }
+    .accesskey = G
+relay-50-masks-announcement-secondary-button = Bỏ qua
+    .accesskey = D

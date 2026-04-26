@@ -150,6 +150,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Kết nối điện thoại của bạn
 tab-context-send-to-mobile-device-missing =
     .label = Không thấy thiết bị của bạn?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Tạo liên kết có thể chia sẻ
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label = Gửi { $tabCount } thẻ đến thiết bị
     .accesskey = n

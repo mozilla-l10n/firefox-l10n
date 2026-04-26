@@ -1013,6 +1013,21 @@ urlbar-result-action-switch-to-tabgroup = Chuyển đến { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Mở { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Mở trong thẻ mới
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Mở trong thẻ ngăn chứa mới
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Mở trong cửa sổ mới
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Mở trong cửa sổ riêng tư mới
+    .accesskey = P
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1247,6 +1262,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Chia sẻ
     .tooltiptext = Chia sẻ trang này
+toolbar-button-tab-groups =
+    .label = Nhóm thẻ
+    .tooltiptext = Xem nhóm thẻ của bạn
 
 ## EME notification panel
 
@@ -1423,6 +1441,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Kết thúc phiên riêng tư
     .tooltiptext = Kết thúc phiên riêng tư
+reset-pbm-panel-heading2 = Xoá dữ liệu và bắt đầu phiên riêng tư mới?
+reset-pbm-panel-description2 = Thao tác này sẽ xoá lịch sử, cookie và tất cả dữ liệu khác của trang web mà không đóng Cửa sổ riêng tư.
 reset-pbm-panel-heading = Kết thúc phiên riêng tư của bạn?
 reset-pbm-panel-description = Đóng tất cả các thẻ riêng tư và xóa lịch sử, cookie cũng như tất cả dữ liệu trang web khác.
 reset-pbm-panel-always-ask-checkbox =
@@ -1431,6 +1451,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Hủy bỏ
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Xoá phiên riêng tư
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = Xoá dữ liệu phiên
     .accesskey = D
@@ -1616,4 +1639,16 @@ trustpanel-fingerprinter-list-header = Những trang web này đang cố gắng 
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } đã chặn { $count } trình đào tiền điện tử
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } đã cho phép { $count } trình đào tiền điện tử
 trustpanel-cryptominer-tab-list-header = Các trang web này đang cố gắng đào tiền điện tử:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Đã có tài khoản trên trang web này?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } phát hiện trang web này đã bị rò rỉ dữ liệu trong vòng 12 tháng qua. Hãy tìm hiểu xem bạn có bị ảnh hưởng hay không.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Bỏ qua
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Bắt đầu quét miễn phí
 trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> trình theo dõi bị chặn trên trang web này
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Trang web bị lỗi?</strong> Tải lại trang để tạm thời giảm mức độ trình chống theo dõi của bạn.
+reduced-protection-infobar-reload-button = Tải lại
+    .accesskey = R

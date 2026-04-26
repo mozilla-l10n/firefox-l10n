@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> gửi lại m
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Máy chủ tại <strong>{ $hostname }</strong> đã trả về lỗi: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> gửi lại header có các ký tự trống không được phép theo tiêu chuẩn bảo mật web.
+fp-neterror-content-encoding-intro = Không thể hiển thị trang bạn muốn xem vì nó dùng một dạng thức nén bất hợp lệ hoặc không được hỗ trợ.
 fp-neterror-coop-coep-intro = { -brand-short-name } không tải trang này vì có vẻ như cấu hình bảo mật không khớp với trang trước.
 fp-neterror-blocked-by-policy-intro = Tổ chức của bạn đã chặn quyền truy cập vào trang web này.
 fp-neterror-http-auth-disabled-intro = Ai đó giả vờ là trang web có thể cố gắng đánh cắp những thứ như tên người dùng, mật khẩu hoặc email của bạn.

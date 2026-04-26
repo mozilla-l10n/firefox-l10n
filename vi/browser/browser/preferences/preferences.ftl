@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Kiểm soát trí tuệ nhân tạo (AI)
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Trợ năng
+    .title = { pane-accessibility-title }
 pane-experimental-title = Thử nghiệm { -brand-short-name }
 category-experimental =
     .tooltiptext = Thử nghiệm { -brand-short-name }
@@ -739,6 +741,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Tự động cuộn
     .accesskey = u
+keyboard-and-scrolling-group =
+    .label = Điều hướng và cuộn bằng bàn phím
+motion-and-link-group =
+    .label = Chuyển động và kiểu liên kết
 browsing-use-smooth-scrolling =
     .label = Cuộn uyển chuyển
     .accesskey = y
@@ -780,6 +786,19 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Tìm hiểu thêm
 browsing-group =
     .label = Duyệt
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Trợ năng
+preferences-default-zoom-select =
+    .aria-label = Thu phóng mặc định
+preferences-fonts-size =
+    .label = Cỡ chữ
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Cài đặt nâng cao
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1080,6 +1099,7 @@ search-edit-engine =
     .label = Chỉnh sửa
     .accesskey = E
 search-find-more-link = Tìm các công cụ tìm kiếm khác
+search-filtering-for-add-engine = Thêm công cụ tìm kiếm
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Nhân bản Từ khóa
@@ -2109,6 +2129,12 @@ collection-backlogged-crash-reports2 =
     .label = Tự động gửi báo cáo sự cố
     .accesskey = c
 collection-backlogged-crash-reports-description = Điều này giúp { -vendor-short-name } chẩn đoán và khắc phục sự cố với trình duyệt. Báo cáo có thể bao gồm dữ liệu cá nhân hoặc nhạy cảm.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Cùng thiết lập, với giao diện mới!
+    .message = Chúng tôi đã sắp xếp lại trang này để bạn dễ dàng xem và tìm kiếm hơn. Cài đặt cá nhân của bạn không thay đổi, và mọi thứ vẫn còn nguyên vẹn. Mẹo: sử dụng chức năng tìm kiếm để truy cập trực tiếp vào nội dung bạn cần.
+settings-redesign-promo-dismiss-button =
+    .label = Đã hiểu
 addon-recommendations =
     .label = Cho phép { -brand-short-name } để thực hiện các đề xuất tiện ích mở rộng được cá nhân hóa
 addon-recommendations-link = Tìm hiểu thêm
@@ -2364,6 +2390,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Nhập URL nhà cung cấp tùy chỉnh
 preferences-doh-header2 =
     .heading = DNS qua HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Bảo mật kết nối và phần mềm
+preferences-connection-link-section =
+    .label = Bảo mật kết nối và phần mềm
+    .description = Hãy xem cách các kết nối được duy trì an toàn, phần mềm độc hại bị chặn và các trang web được xác minh.
+preferences-connection-link-button =
+    .label = Cài đặt nâng cao
 
 ## The following strings are used in the Download section of settings
 
