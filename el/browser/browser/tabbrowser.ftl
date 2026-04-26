@@ -316,6 +316,14 @@ tab-group-editor-action-new-tab =
     .label = Νέα καρτέλα στην ομάδα
 tab-group-editor-action-new-window =
     .label = Μετακίνηση ομάδας σε νέο παράθυρο
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Αντιγραφή συνδέσμου στην ομάδα
+           *[other] Αντιγραφή { $linkCount } συνδέσμων στην ομάδα
+        }
 tab-group-editor-action-save =
     .label = Αποθήκευση και κλείσιμο ομάδας
 tab-group-editor-action-ungroup =

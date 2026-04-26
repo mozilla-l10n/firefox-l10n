@@ -316,6 +316,14 @@ tab-group-editor-action-new-tab =
     .label = Novo separador no grupo
 tab-group-editor-action-new-window =
     .label = Mover grupo para uma nova janela
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Copiar ligação no grupo
+           *[other] Copy { $linkCount } links in group
+        }
 tab-group-editor-action-save =
     .label = Guardar e fechar grupo
 tab-group-editor-action-ungroup =
@@ -325,6 +333,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Concluído
     .accessKey = d
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Partilhar grupo de separadores
 tab-context-reopen-tab-group =
     .label = Reabrir grupo de separadores
 # Variables:
@@ -390,11 +401,31 @@ tab-note-editor-title-create = Adicionar nota
 tab-note-editor-title-edit = Editar nota
 tab-note-editor-text-field =
     .placeholder = O que deseja recordar sobre este separador?
+tab-note-editor-button-cancel =
+    .label = Cancelar
+    .accesskey = C
 tab-note-editor-button-save =
     .label = Guardar
     .accesskey = G
+tab-note-editor-button-delete =
+    .title = Eliminar nota
+    .aria-label = Eliminar nota
+    .accesskey = E
+tab-note-preview-edit-icon =
+    .alt = Editar nota
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = Saber mais
 tab-note-panel-add-note-new-badge =
     .label = Nova
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedChaacters, useGrouping: "false") } caracteres
+    }
 
 ## Split View
 
@@ -410,7 +441,23 @@ tab-context-open-in-split-view =
 tab-context-separate-split-view =
     .label = Separar vista dividida
     .accesskey = v
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = Inverter separadores
+    .accesskey = r
 tab-context-badge-new = Nova
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, vista dividida à esquerda
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, vista dividida à direita
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

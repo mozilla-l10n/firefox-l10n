@@ -56,6 +56,7 @@ ipprotection-location-selection-callout-secondary-button = Απόρριψη
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Αποκρύψτε την τοποθεσία σας</a> κατά την περιήγηση στο { -brand-product-name }.
+unauthenticated-choose-location-message = Επιλέξτε ανάμεσα σε 5 τοποθεσίες ή αφήστε το { -brand-product-name } να επιλέξει την πιο γρήγορη.
 unauthenticated-hide-location-message-2 = Αποκρύψτε την τοποθεσία σας κατά την περιήγηση με το { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -101,6 +102,7 @@ ipprotection-locations-subview =
     .title = Επιλογή τοποθεσίας
 ipprotection-locations-subview-description = Επιλέξτε διαφορετική τοποθεσία για περιήγηση.
 ipprotecion-locations-subview-recommended-label = Προτείνεται
+ipprotection-locations-subview-recommended-description = Βρίσκει την πιο γρήγορη τοποθεσία
 ipprotection-locations-subview-promo-button = Λήψη του { -mozilla-vpn-brand-name }
 
 ## VPN paused state

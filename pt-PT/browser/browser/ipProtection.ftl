@@ -174,12 +174,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Está quase a fi
 ip-protection-description =
     .label = VPN
     .description = VPN incorporada para aumentar a sua privacidade enquanto navega no { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN integrada
+    .description = Aumente a privacidade ao ocultar a sua localização enquanto navega.
 ip-protection-learn-more = Saber mais
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Experimente a VPN integrada do { -brand-short-name }
     .message = Oculte a sua localização enquanto navega no { -brand-short-name }. Obtenha { $maxUsage } GB de dados de VPN gratuitos todos os meses.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Experimente a VPN integrada do { -brand-short-name }
+    .message = Navegue com proteção adicional ao ocultar a sua localização. Receba { $maxUsage } GB de dados VPN gratuitos todos os meses.
 ip-protection-not-opted-in-button = Começar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -199,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Obtenha ainda mais proteção fora do { -brand-short-name } com a { -mozilla-vpn-brand-name }
     .description = Escolha localizações personalizadas de VPN e adicione proteção a todas as suas aplicações em até cinco dispositivos, quer esteja em casa ou numa rede Wi-Fi pública.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Leve a proteção mais longe com a { -mozilla-vpn-brand-name }
+    .description = Escolha de entre mais de 300 localizações e proteja todas as suas aplicações até 5 dispositivos.
 
 ## IP Protection dialogs
 
@@ -251,6 +262,12 @@ vpn-paused-alert-title = VPN pausada
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Utilizou todos os { $maxUsage } GB de dados da sua VPN. O acesso à VPN será reposto no próximo mês.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Utilizou todos os { $maxUsage } GB de dados da sua VPN. O acesso será reposto no próximo mês.
+vpn-error-page-continue-description = Selecione como pretende prosseguir sem a VPN
+vpn-error-page-keep-browsing = Continuar a navegar nesta sessão
+vpn-error-page-new-session = Iniciar uma nova sessão
 vpn-paused-alert-close-tabs-button = Fechar todos os separadores
 vpn-paused-alert-continue-wo-vpn-button = Continuar sem a VPN
 vpn-error-alert-title = A VPN não está a funcionar neste momento.
