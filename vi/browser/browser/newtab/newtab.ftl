@@ -503,6 +503,9 @@ newtab-weather-menu-change-location = Thay đổi khu vực
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Tìm kiếm khu vực
     .aria-label = Tìm kiếm khu vực
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Sử dụng khu vực hiện tại
 newtab-weather-menu-weather-display = Cách hiển thị thời tiết
 newtab-weather-todays-forecast = Dự báo thời tiết hôm nay
 newtab-weather-see-full-forecast = Xem dự báo thời tiết đầy đủ
@@ -591,8 +594,16 @@ newtab-topic-selection-button-pick-interests = Chọn sở thích của bạn
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Theo dõi
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Theo dõi { $topic }
 newtab-section-following-button = Đang theo dõi
 newtab-section-unfollow-button = Huỷ theo dõi
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Đang theo dõi: Bỏ theo dõi { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Tinh chỉnh nguồn cấp dữ liệu của bạn
 newtab-section-follow-highlight-subtitle = Theo dõi sở thích của bạn để xem thêm những gì bạn thích.
@@ -604,6 +615,22 @@ newtab-section-follow-highlight-subtitle = Theo dõi sở thích của bạn đ�
 newtab-section-block-button = Chặn
 newtab-section-blocked-button = Đã chặn
 newtab-section-unblock-button = Bỏ chặn
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Theo dõi { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Bỏ theo dõi { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Chặn { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Bỏ chặn { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -634,6 +661,12 @@ newtab-custom-wallpaper-cta = Thử ngay
 newtab-new-user-custom-wallpaper-title = Chọn một hình nền để tạo { -brand-product-name } thành của riêng bạn
 newtab-new-user-custom-wallpaper-subtitle = Khiến mọi thẻ mới trở nên thân thiện với hình nền và màu sắc tùy chỉnh.
 newtab-new-user-custom-wallpaper-cta = Thử ngay bây giờ
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Những hình nền mới toanh vừa cập nhật
+newtab-wallpaper-feature-highlight-subtitle = Hãy chọn thẻ yêu thích của bạn và biến mỗi thẻ mới thành một trải nghiệm quen thuộc.
+newtab-wallpaper-feature-highlight-cta = Chọn hình nền
 
 ## Strings for download mobile highlight
 
@@ -722,8 +755,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Tạo một danh sách mới
 newtab-widget-lists-name-label-default =
     .label = Danh sách nhiệm vụ
+newtab-widget-lists-name-label-checklist =
+    .label = Danh sách việc cần làm
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Danh sách nhiệm vụ
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Danh sách việc cần làm
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Danh sách mới
@@ -743,7 +780,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Thu nhỏ widget
     .aria-label = Thu nhỏ tất cả widget thành kích thước nhỏ gọn
+newtab-widget-section-menu-button =
+    .title = Menu widget
+    .aria-label = Mở menu widget
+newtab-widget-section-menu-hide-all = Ẩn widget
+newtab-widget-section-menu-learn-more = Tìm hiểu thêm
 newtab-widget-section-feedback = Hãy cho chúng tôi biết suy nghĩ của bạn
+newtab-widget-lists-name-default = Danh sách việc cần làm
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
