@@ -4,6 +4,11 @@
 
 xpinstall-prompt = { -brand-short-name } го спречи ова место да побара да инсталирате софтвер на вашиот компјутер.
 
+## Variables:
+##   $host (String): The hostname of the site the add-on is being installed from.
+
+xpinstall-prompt-header = Дозволи { $host } да инсталира додаток?
+
 ##
 
 xpinstall-prompt-dont-allow =
