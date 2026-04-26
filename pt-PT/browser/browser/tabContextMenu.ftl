@@ -146,6 +146,17 @@ tab-context-send-to-mobile =
            *[other] Send { $tabCount } Tabs to Mobile
         }
     .accesskey = n
+# The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
+tab-context-send-to-mobile-enable-sync =
+    .label = Ative a sincronização para enviar um separador
+tab-context-send-to-mobile-connect-phone =
+    .label = Ligar o seu telemóvel
+tab-context-send-to-mobile-device-missing =
+    .label = Não vê o seu dispositivo?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Criar ligação partilhável
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
