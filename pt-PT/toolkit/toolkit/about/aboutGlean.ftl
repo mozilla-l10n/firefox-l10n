@@ -166,8 +166,18 @@ about-glean-metrics-table-settings-histograms-chart-max = Altura máxima do grá
 # The maximum height after to which the y-values on the chart will be scaled
 about-glean-metrics-table-settings-histograms-scaled-max = Altura máxima redimensionada
 about-glean-metrics-table-settings-histograms-box-padding = Espaçamento da caixa
+about-glean-metrics-table-settings-histograms-chart-padding = Espaçamento do gráfico
+about-glean-metrics-table-settings-histograms-left-padding = Espaço adicional à esquerda
+about-glean-metrics-table-settings-category-visualizations-timeline = Cronologia
 about-glean-metrics-table-settings-timelines-height = Altura
 about-glean-metrics-table-settings-timelines-width = Largura
+about-glean-metrics-table-settings-timelines-chart-padding = Espaçamento do gráfico
+# The radius of each circle denoting individual events recorded for an event metric
+about-glean-metrics-table-settings-timelines-circle-radius = Raio do circulo
+# The offset on the x-axis from the end of the horizontal line for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-x-offset = Deslocamento X do eixo Y
+# The offset on the y-axis from the x-axis for the y-axis line
+about-glean-metrics-table-settings-timelines-vertical-line-y-offset = Deslocamento Y do eixo Y
 # Label displayed near an input field that can be used to filter metrics
 about-glean-label-for-filter-metrics = Filtro
 # This message sits alongside an input field, further describing its purpose.
@@ -178,6 +188,8 @@ about-glean-label-for-filter-metrics = Filtro
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = Isto irá filtrar a tabela em baixo com base na categoria, nome, tipo e valor (se o valor for um tipo simples).
 about-glean-button-load-all = Carregar todos os valores
+# A button that, when pressed, exports the data currently shown in the metrics table
+about-glean-button-export-data = Exportar dados
 about-glean-button-load-value = Carregar
 # "Docs" is shorthand for "documentation"
 about-glean-button-dictionary-link = Documentos
@@ -185,7 +197,21 @@ about-glean-button-watch = Monitorizar
 # Meaning "to stop watching"
 about-glean-button-unwatch = Deixar de monitorizar
 about-glean-no-data-to-display = Não existem dados para apresentar.
+# Do not translate strings between <code> </code> tags.
+about-glean-dual-labeled-metric-warning = As métricas <code>DualLabeledCounter</code> ainda não são suportadas na visualização <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Tipo de métrica desconhecido.
+about-glean-enable-new-features-promo =
+    .message = Estamos a desenvolver novas funcionalidades! Ainda estão em fase de desenvolvimento, mas pode ativá-las clicando no botão de ação aqui.
+    .heading = Novas funcionalidades a caminho!
+about-glean-enable-new-features-button = Ativar novas funcionalidades
+about-glean-disable-new-features-button = Desativar novas funcionalidades
 about-glean-about-data-explanation =
     Para navegar na lista de dados recolhidos, consulte o
     <a data-l10n-name="glean-dictionary-link">Dicionário { -glean-brand-name }</a>.
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = Pings integrados
+about-glean-ping-list-optgroup-custom =
+    .label = Pings personalizados

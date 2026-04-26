@@ -29,6 +29,7 @@ about-logging-no-log-modules = Nenhum
 about-logging-no-log-file = Nenhum
 about-logging-logging-preset-selector-text = Modelo de registo:
 about-logging-with-profiler-stacks-checkbox = Ativar rastreamentos da stack para as mensagens de registo
+about-logging-with-javascript-tracing-checkbox = Ativar rastreamento JavaScript
 about-logging-menu =
     .title = Opções avançadas
 

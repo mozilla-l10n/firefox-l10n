@@ -170,6 +170,8 @@ extensions-warning-update-security-button = Ativar
 extensions-warning-imported-addons2 =
     .message = Por favor, finalize a instalação das extensões que foram importadas para o { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar Extensões
+extensions-warning-safe-mode3 =
+    .message = Todos os extras foram desativados pelo modo de diagnóstico.
 
 ## Strings connected to add-on updates
 
@@ -289,6 +291,10 @@ colorway-removal-notice-message =
         a(s) versão(ões) antiga(s) da sua lista de “Temas Guardados”. Obtenha as novas versões no site de extras.
 colorway-removal-notice-learn-more = Saber mais
 colorway-removal-notice-button = Obter os temas de estilos de cor atualizados
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = As suas definições de contraste do Windows estão a substituir os temas do { -brand-short-name }. Desative estas definições para utilizar temas no { -brand-short-name }.
 privacy-policy = Política de privacidade
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -536,6 +542,12 @@ details-notification-hard-blocked-other =
 details-notification-unsigned-link = Mais informação
 details-notification-blocked = { $name } foi desativado devido a problemas de estabilidade ou de segurança.
 details-notification-blocked-link2 = Ver detalhes
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Esta extensão está restrita e foi desativada. Pode ativá-la, mas isto pode ser perigoso.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Esta extensão está restrita. A sua utilização pode ser perigosa.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Este extra está restrito e foi desativado. Pode ativá-lo, mas isto pode ser perigoso.
 details-notification-soft-blocked-other-enabled2 =
     .message = Este extra está restrito. A sua utilização pode ser perigosa.
 details-notification-soft-blocked-extension-disabled =

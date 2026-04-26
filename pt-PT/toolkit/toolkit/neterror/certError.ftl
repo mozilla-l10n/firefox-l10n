@@ -78,10 +78,22 @@ fp-certerror-return-to-previous-page-recommended-button = Retroceder (recomendad
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-revoked-why-dangerous-body = O { -brand-short-name } está a alertá-lo sobre este site porque o certificado apresentado por { $hostname } foi revogado e já não é considerado seguro.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-revoked-what-can-you-do-body = Provavelmente não poderá fazer nada, pois o problema deve ser do próprio site. Pode tentar contactar o responsável do site para saber se estão a resolver a situação.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $validHosts (String) - Valid hostnames.
 fp-certerror-bad-domain-why-dangerous-body = O site está configurado para permitir apenas ligações seguras, mas há um problema com o certificado do site. É possível que um autor malicioso esteja a tentar fazer-se passar pelo site. Os sites utilizam certificados emitidos por uma autoridade certificadora para mostrar que são realmente quem dizem ser. O { -brand-short-name } não confia neste site porque o seu certificado não é válido para { $hostname }. O certificado só é válido para: { $validHosts }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = Provavelmente nada, já que é provável que exista um problema com o próprio site. Os sites utilizam certificados emitidos por uma autoridade certificadora para mostrar que são realmente quem dizem ser. Mas se estiver numa rede empresarial, a sua equipa de apoio poderá ter mais informações. Se está a utilizar um software antivírus, tente procurar por possíveis conflitos ou problemas conhecidos.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = O { -brand-short-name } está a alertá-lo sobre este site porque o certificado apresentado por { $hostname } foi emitido por uma autoridade de certificação que já não é considerada de confiança.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Provavelmente não poderá fazer nada, pois o problema deve ser do próprio site. Pode tentar contactar o responsável do site para saber se estão a resolver a situação.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Há um problema com o certificado do site. É possível que um autor malicioso esteja a tentar fazer-se passar pelo site. Os sites utilizam certificados emitidos por uma autoridade certificadora para mostrar que são realmente quem dizem ser. O { -brand-short-name } não confia neste site porque não podemos dizer quem emitiu o certificado, ou o mesmo é auto-assinado ou o site não está a enviar certificados intermédios nos quais confiamos.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -109,6 +121,10 @@ fp-cert-error-code = Código de erro: { $error }
 # Variables:
 #   $datetime (Date) - Current datetime.
 fp-datetime = { DATETIME($datetime, month: "short", year: "numeric", day: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-transparency-why-dangerous-body = O { -brand-short-name } não confia em { $hostname } porque este não conseguiu demonstrar que cumpre os requisitos de transparência do certificado público.
 fp-learn-more-about-secure-connection-failures = Saber mais sobre falhas de ligação segura
 fp-learn-more-about-cert-issues = Saber mais sobre este tipo de problemas com certificados
 fp-learn-more-about-time-related-errors = Saber mais sobre a resolução de problemas de erros relacionados com a data e hora
