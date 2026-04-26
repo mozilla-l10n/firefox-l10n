@@ -64,7 +64,13 @@ new-profile-page-done-button =
     .label = Edição terminada
 # Variables
 #   $profilename (String) - The name of the copied profile.
+copied-profile-page-header-2 = A sua cópia de “{ $profilename }” está pronta para ser personalizada
+# Variables
+#   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = A sua cópia de { $profilename } está pronta para ser personalizada
+copied-profile-page-header-description = Transferimos os seus dados e definições para um novo perfil. Agora, escolha um nome, selecione um visual e personalize-o ao seu gosto.
+restored-profile-page-header = Personalizar o seu perfil restaurado
+restored-profile-page-header-description = Cada perfil mantém o seu próprio histórico de navegação único e definições separadas dos seus outros perfis. Além disso, as fortes proteções de privacidade do { -brand-short-name } estão ativadas por predefinição.
 restored-profile-page-learn-more = Saber mais
 profile-window-title-2 = { -brand-short-name } - Escolha um perfil
 profile-window-logo =
@@ -87,6 +93,9 @@ delete-profile-bookmarks = Marcadores
 delete-profile-history = Histórico (páginas visitadas, cookies, dados de sites)
 delete-profile-autofill = Dados de preenchimento automático (endereços, métodos de pagamento)
 delete-profile-logins = Palavras-passe
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Eliminar o perfil “{ $profilename }”
 
 ##
 
@@ -169,10 +178,15 @@ briefcase-avatar-alt =
     .alt = Pasta
 picture-avatar-alt =
     .alt = Imagem
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = Artesanato
 flower-avatar-alt =
     .alt = Flor
 folder-avatar-alt =
     .alt = Pasta
+hammer-avatar-alt =
+    .alt = Martelo
 heart-avatar-alt =
     .alt = Coração
 heart-rate-avatar-alt =

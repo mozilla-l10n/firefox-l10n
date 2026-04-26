@@ -32,6 +32,8 @@ options-show-user-agent-styles-tooltip =
     .title = Ative para que sejam mostrados os estilos predefinidos que são carregados pelo navegador.
 # The label for the checkbox option to show all anonymous content
 options-show-user-agent-shadow-dom-label = Mostrar Shadow DOM do navegador
+options-show-user-agent-shadow-dom-tooltip =
+    .title = Ao ativar esta opção, serão mostrados os elementos do Shadow DOM geridos pelo navegador.
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Truncar atributos DOM
 options-collapse-attrs-tooltip =
