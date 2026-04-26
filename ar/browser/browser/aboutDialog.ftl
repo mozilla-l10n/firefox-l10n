@@ -27,7 +27,7 @@ update-failed-main = فشل التحديث. <a data-l10n-name="failed-link-main"
 update-adminDisabled = عطّلَ مدير النظام التحديثات
 update-policy-disabled = التحديثات مُعطَّلة بواسطة منظّمتك
 update-noUpdatesFound = { -brand-short-name } مُحدَّث
-aboutdialog-update-checking-failed = فشل التماس التحديثات.
+aboutdialog-update-checking-failed = فشل التحقق مِن التحديثات.
 update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } في سيرورة أخرى
 
 ## Variables:
@@ -44,7 +44,7 @@ update-internal-error2 = تعذر التحقق من وجود تحديثات بس
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = تتلقى التحديثات حاليًا من قناة <label data-l10n-name="current-channel">{ $channel }</label>.
-warningDesc-version = { -brand-short-name } تجريبي و قد لا يكون مستقرا.
+warningDesc-version = { -brand-short-name } تجريبي وقد لا يكون مستقرًا.
 aboutdialog-help-user = مساعدة { -brand-product-name }
 aboutdialog-submit-feedback = أرسِل انطباعاتك
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> هي <label data-l10n-name="community-exp-creditsLink">مجتمعٌ عالميّ</label> يعمل للمحافظة على انفتاح الوب و عموميتها و إتاحتها للجميع.
