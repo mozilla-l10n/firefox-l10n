@@ -1032,6 +1032,21 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Abrir en una nueva pestaña
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Abrir en nueva pestaña contenedora
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Abrir en una nueva ventana
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Abrir en una nueva ventana privada
+    .accesskey = P
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1266,6 +1281,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Compartir
     .tooltiptext = Compartir esta página
+toolbar-button-tab-groups =
+    .label = Grupos de pestañas
+    .tooltiptext = Mostrar tus grupos de pestañas
 
 ## EME notification panel
 
@@ -1448,6 +1466,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Finalizar sesión privada
     .tooltiptext = Finalizar sesión privada
+reset-pbm-panel-heading2 = ¿Borrar datos y comenzar una nueva sesión privada?
+reset-pbm-panel-description2 = Esto elimina el historial, las cookies y todos los demás datos del sitio sin cerrar la ventana privada.
 reset-pbm-panel-heading = ¿Finalizar sesión privada?
 reset-pbm-panel-description = Cierra todas las pestañas privadas y elimina el historial, las cookies y todos los demás datos del sitio.
 reset-pbm-panel-always-ask-checkbox =
@@ -1456,6 +1476,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Cerrar sesión privada
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = Eliminar datos de sesión
     .accesskey = D
@@ -1703,8 +1726,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitió { $count } criptomineros
     }
 trustpanel-cryptominer-tab-list-header = Estos sitios están intentando minar criptomonedas:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ¿Tienes una cuenta en este sitio?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } descubrió que este sitio sufrió una filtración de datos en los últimos 12 meses. Averigua si te viste afectado.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Ocultar
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Iniciar escaneo gratuito
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado en este sitio
        *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados en este sitio
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Recargar
+    .accesskey = R

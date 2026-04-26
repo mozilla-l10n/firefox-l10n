@@ -793,6 +793,19 @@ browsing-cfr-recommendations-learn-more = Aprender más
 browsing-group =
     .label = Navegación
 
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accesibilidad
+preferences-default-zoom-select =
+    .aria-label = Zoom predeterminado
+preferences-fonts-family =
+    .label = Familia tipográfica
+    .accesskey = D
+preferences-fonts-size =
+    .label = Tamaño de la fuente
+    .accesskey = s
+
 ## General Section - Proxy
 
 network-settings-title = Ajustes de conexión
@@ -1096,6 +1109,7 @@ search-edit-engine =
     .label = Editar
     .accesskey = E
 search-find-more-link = Buscar más motores de búsqueda
+search-filtering-for-add-engine = Añadir motor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palabra clave duplicada
@@ -2125,6 +2139,8 @@ collection-backlogged-crash-reports2 =
     .label = Enviar automáticamente reportes de fallos
     .accesskey = c
 collection-backlogged-crash-reports-description = Esto ayuda a { -vendor-short-name } a diagnosticar y solucionar problemas con el navegador. Los informes pueden incluir datos personales o confidenciales.
+settings-redesign-promo-dismiss-button =
+    .label = Entendido
 addon-recommendations =
     .label = Permitir a { -brand-short-name } hacer recomendaciones personalizadas de extensiones
 addon-recommendations-link = Aprender más
@@ -2380,6 +2396,13 @@ preferences-doh-custom-provider-label =
     .aria-label = Introduce una URL de proveedor personalizada
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Seguridad de la conexión y del software
+preferences-connection-link-button =
+    .label = Ajustes avanzados
 
 ## The following strings are used in the Download section of settings
 
