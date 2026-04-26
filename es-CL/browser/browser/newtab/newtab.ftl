@@ -602,6 +602,22 @@ newtab-section-follow-highlight-subtitle = Sigue tus intereses para ver más de 
 newtab-section-block-button = Bloquear
 newtab-section-blocked-button = Bloqueado
 newtab-section-unblock-button = Desbloquear
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Seguir { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Dejar de seguir { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Bloquear { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Desbloquear { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -632,6 +648,12 @@ newtab-custom-wallpaper-cta = Inténtalo
 newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para que { -brand-product-name } sea tuyo
 newtab-new-user-custom-wallpaper-subtitle = Haz que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Acaban de llegar nuevos fondos de pantalla.
+newtab-wallpaper-feature-highlight-subtitle = Elige tu favorito y haz que cada pestaña nueva te haga sentir como en casa.
+newtab-wallpaper-feature-highlight-cta = Elegir fondo de pantalla
 
 ## Strings for download mobile highlight
 
@@ -720,8 +742,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Crear una nueva lista
 newtab-widget-lists-name-label-default =
     .label = Lista de tareas
+newtab-widget-lists-name-label-checklist =
+    .label = Lista de verificación
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista de tareas
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Lista de verificación
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nueva lista
@@ -741,7 +767,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizar widgets
     .aria-label = Minimizar todos los widgets al tamaño compacto
+newtab-widget-section-menu-button =
+    .title = Menú de widgets
+    .aria-label = Abrir menú de widgets
+newtab-widget-section-menu-hide-all = Ocultar widgets
+newtab-widget-section-menu-learn-more = Aprender más
 newtab-widget-section-feedback = Cuéntanos lo que piensas
+newtab-widget-lists-name-default = Lista de verificación
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

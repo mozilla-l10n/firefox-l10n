@@ -443,3 +443,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Establecer como predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador primario
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-secondary-button = Ocultar
+    .accesskey = D
