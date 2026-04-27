@@ -35,7 +35,7 @@ safeb-blocked-phishing-page-learn-more =
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи злонамерен софтвер</a>. Вие можете<a data-l10n-name='ignore_warning_link'> да го игнорирате ризикот </a> и да одите на ова небезбедно.
-safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи злонамерен софтвер.
+safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи злонамерен софтвер</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
@@ -46,7 +46,7 @@ safeb-blocked-malware-page-learn-more-sumo = Дознајте повеќе за 
 ##  $sitename (string) - Domain name for the blocked page
 
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи штетен софтвер</a>. Вие можете<a data-l10n-name='ignore_warning_link'> да го игнорирате ризикот </a> и да одите на овој небезбеден сајт.
-safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи штетен софтвер.
+safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> беше <a data-l10n-name='error_desc_link'> пријавен дека содржи штетен софтвер</a>.
 
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
