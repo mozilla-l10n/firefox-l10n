@@ -793,6 +793,18 @@ browsing-cfr-recommendations-learn-more = Көбірек білу
 browsing-group =
     .label = Сайттарды қарау
 
+## Accessibility page
+
+preferences-fonts-family =
+    .label = Қаріптер тобы
+    .accesskey = т
+preferences-fonts-size =
+    .label = Қаріп өлшемі
+    .accesskey = л
+preferences-fonts-advanced-settings =
+    .label = Кеңейтілген баптаулар
+    .accesskey = а
+
 ## General Section - Proxy
 
 network-settings-title = Желі баптаулары
@@ -1096,6 +1108,7 @@ search-edit-engine =
     .label = Түзету
     .accesskey = е
 search-find-more-link = Көбірек іздеу қызметтерін қосу
+search-filtering-for-add-engine = Жүйені қосу
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Қысқаша атау қазір қолдануда
@@ -2380,6 +2393,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Таңдауыңызша провайдердің URL сілтемесін енгізу
 preferences-doh-header2 =
     .heading = HTTPS арқылы DNS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Кеңейтілген баптаулар
 
 ## The following strings are used in the Download section of settings
 
