@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 notification-learnmore-default-label =
-    .value = Дознајте повеќе
+    .value = Дознај повеќе
+# This label is read by screen readers when focusing the close button for an
+# "infobar" (message shown when for example a popup is blocked),
+# and shown when hovering over the button
+notification-close-button =
+    .aria-label = Затвори
+    .title = Затвори
 close-notification-message =
     .tooltiptext = Затвори ја оваа порака

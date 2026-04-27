@@ -94,9 +94,9 @@ applications-setting-new-file-types =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = Za vključitev te možnosti morate ponovno zagnati { -brand-short-name }.
-feature-disable-requires-restart = Za izključitev te možnosti morate ponovno zagnati { -brand-short-name }.
-should-restart-title = Ponovno zaženi { -brand-short-name }
-should-restart-ok = Ponovno zaženi { -brand-short-name } zdaj
+feature-disable-requires-restart = Za izključitev te možnosti morate ponovno zagnati { -brand-short-name(sklon: "tozilnik") }.
+should-restart-title = Ponovno zaženi { -brand-short-name(sklon: "tozilnik") }
+should-restart-ok = Ponovno zaženi { -brand-short-name(sklon: "tozilnik") } zdaj
 cancel-no-restart-button = Prekliči
 restart-later = Ponovno zaženi pozneje
 
