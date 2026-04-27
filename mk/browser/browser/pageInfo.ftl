@@ -60,6 +60,9 @@ media-dimension =
     .value = Димензии:
 media-long-desc =
     .value = Долг опис:
+media-select-all =
+    .label = Избери сè
+    .accesskey = е
 media-save-as =
     .label = Сними како…
     .accesskey = С
@@ -111,6 +114,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Да, колачиња и { $value } { $unit } податоци од местото
+security-site-data-only = Да, { $value } { $unit } податоци од местото
 security-site-data-cookies-only = Да, колачиња
 security-site-data-no = Не
 
@@ -148,6 +153,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Користи основни
 security-no-visits = Не
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Мета (1 лепенка)
+           *[other] Мета ({ $tags } лепенки)
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -158,6 +173,27 @@ security-visits-number =
         [one] Да, еднаш
        *[other] Да, { $visits } пати
     }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } бајт)
+           *[other] { $kb } KB ({ $bytes } бајти)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] Слика { $type } (анимирана, { $frames } слика)
+           *[other] Слика { $type } (анимирана, { $frames } слики)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
