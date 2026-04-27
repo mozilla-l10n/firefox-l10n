@@ -620,7 +620,7 @@ newtab-section-follow-topic =
 # Variables:
 #   $topic (string) - Name of topic that user is unfollowing
 newtab-section-unfollow-topic =
-    .aria-label = Se désabonner de { $topic }
+    .aria-label = Ne plus suivre { $topic }
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =

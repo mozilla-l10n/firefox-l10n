@@ -1039,13 +1039,13 @@ urlbar-view-context-menu-open-in-tab =
     .accesskey = O
 urlbar-view-context-menu-open-in-container-tab =
     .label = Ouvrir dans un nouvel onglet conteneur
-    .accesskey = O
+    .accesskey = d
 urlbar-view-context-menu-open-in-window =
     .label = Ouvrir dans une nouvelle fenêtre
-    .accesskey = O
+    .accesskey = f
 urlbar-view-context-menu-open-in-private-window =
     .label = Ouvrir dans une nouvelle fenêtre privée
-    .accesskey = O
+    .accesskey = p
 
 ## Labels shown above groups of urlbar results
 
