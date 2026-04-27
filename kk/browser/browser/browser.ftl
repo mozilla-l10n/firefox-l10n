@@ -1463,6 +1463,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Жекелік сессияны аяқтау
     .tooltiptext = Жекелік сессияны аяқтау
+reset-pbm-panel-heading2 = Деректерді өшіріп, жаңа жеке сеансты бастау керек пе?
 reset-pbm-panel-heading = Жекелік сессияңызды аяқтау керек пе?
 reset-pbm-panel-description = Барлық жекелік беттерін жауып, тарихты, cookie файлдарын және басқа сайт деректерін өшіру.
 reset-pbm-panel-always-ask-checkbox =
@@ -1716,8 +1717,15 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } криптомайнерді рұқсат етті
     }
 trustpanel-cryptominer-tab-list-header = Бұл сайттар криптомайнингпен айналасуға тырысуда:
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Елемеу
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Тегін сканерлеуді бастау
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Бұл сайтта <span data-l10n-name="count">{ $count }</span> трекер бұғатталған
        *[other] Бұл сайтта <span data-l10n-name="count">{ $count }</span> трекер бұғатталған
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Қайта жүктеу
+    .accesskey = й
