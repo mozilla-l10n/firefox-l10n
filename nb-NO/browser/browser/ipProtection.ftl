@@ -47,6 +47,8 @@ ipprotection-site-settings-callout-button = Jeg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyhet: Bytt plassering
+ipprotection-location-selection-callout-primary-button = Prøv det
+ipprotection-location-selection-callout-secondary-button = Ignorer
 
 ## Panel
 

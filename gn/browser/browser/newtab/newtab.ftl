@@ -504,6 +504,9 @@ newtab-weather-menu-change-location = Emoambue tendatee
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Eheka tendatee
     .aria-label = Eheka tendatee
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Eiporu ne rendaite ag̃agua
 newtab-weather-menu-weather-display = Ára jehechaha
 newtab-weather-todays-forecast = Arareko ko árape g̃uarã
 newtab-weather-see-full-forecast = Ehechapaite arareko

@@ -117,6 +117,9 @@ upgrade-vpn-title = Erekóta ñemo’ãve kundahára riregua
 upgrade-vpn-description = Eiporavo VPN rendaite, eiporu VPN opaite tembiporu’ípe ha 5 mba’e’oka peve, ha eime tekorosãme oimeraẽva ñandutípe — nde rógape térã Wi-Fi-pe.
 upgrade-vpn-button = Eiporu { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = VPN opytáva
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Ojeporupa { $maxUsage } GB mba’ekuaarã nde VPN-gua. Jeike oikojeýta ambue jasýpe.
 
 ## Messages and errors
 
@@ -175,6 +178,11 @@ ip-protection-learn-more = Eikuaave
 ip-protection-not-opted-in-2 =
     .heading = Eiporu VPN jehe’apyre { -brand-short-name }
     .message = Eñomi ne rendaite eikunda aja { -brand-short-name }. Ereko { $maxUsage } GB mba’ekuaarã VPN rei jasy pukukue.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Eiporu VPN jehe’apyre { -brand-short-name }
+    .message = Eikundaha ñemo’ã ndive emokañývo ne rendaite. Ehupyty { $maxUsage } GB VPN mba’ekuaarã reiete opaite jasýpe.
 ip-protection-not-opted-in-button = Eñepyrũ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -250,6 +258,8 @@ vpn-paused-alert-body = Eiporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegu
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Ojeporupaite { $maxUsage } GB mba’ekuaarã nde VPN-pegua. Jeike oikojeýta ambue jasýpe.
 vpn-error-page-continue-description = Eiporavo mba’éicha eĩkuaa VPN-ỹre
+vpn-error-page-keep-browsing = Eikundaha meme ko tendápe
+vpn-error-page-new-session = Eñepyrũ jeike pyahu
 vpn-paused-alert-close-tabs-button = Embotypaite tendayke
 vpn-paused-alert-continue-wo-vpn-button = Eku’ejey VPN-ỹ rehe
 vpn-error-alert-title = VPN ndoikoporãi ko’ag̃aite.

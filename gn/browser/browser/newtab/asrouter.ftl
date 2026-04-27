@@ -445,5 +445,9 @@ set-default-menu-message-primary-button-variant = Ereko kundahára eiporuvévar�
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 ñanduti veve rovamo’ãha, reiete
+relay-50-masks-announcement-primary-button = Eike { -relay-brand-name }-pe
+    .accesskey = G
 relay-50-masks-announcement-secondary-button = Emboyke
     .accesskey = D
