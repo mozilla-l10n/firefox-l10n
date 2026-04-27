@@ -42,3 +42,6 @@ clear-site-data-cache-empty =
     .label = Кеширани мрежни содржини
     .accesskey = е
 clear-site-data-cache-info = Ќе ги натера веб-страните повторно да ги вчитаат сликите и податоците
+clear-site-data-dialog =
+    .buttonlabelaccept = Исчисти
+    .buttonaccesskeyaccept = с
