@@ -44,7 +44,7 @@ settings-data-backup-last-backup-location-edit = Spremeni …
 settings-data-create-backup-error = { DATETIME($date, dateStyle: "short") } ob { DATETIME($date, timeStyle: "short") } je prišlo do napake
 settings-sensitive-data-encryption-description = Varnostno kopirajte gesla in plačilna sredstva ter zavarujte vse podatke s šifriranjem.
 settings-data-toggle-encryption-label2 =
-    .label = Varnostno kopirajte občutljive podatke
+    .label = Varnostno kopiraj občutljive podatke
     .description = Ustvarite si varnostno kopijo gesel in plačilnih sredstev ter zavarujte vse svoje podatke s šifriranjem.
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
