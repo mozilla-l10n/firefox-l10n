@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = A(z) <strong>{ $hostname }</strong> hibát k
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = A(z) <strong>{ $hostname }</strong> helyen lévő kiszolgáló hibát küldött: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = A(z) <strong>{ $hostname }</strong> olyan fejlécet küldött vissza, amely a webes biztonsági szabványok által nem engedélyezett üres karaktereket tartalmaz.
+fp-neterror-content-encoding-intro = A megtekinteni kívánt oldal nem jeleníthető meg, mert érvénytelen vagy nem támogatott tömörítést használ.
 fp-neterror-coop-coep-intro = A { -brand-short-name } nem töltötte be az oldalt, mert a biztonsági beállítások nem felelnek meg az előző oldalnak.
 fp-neterror-blocked-by-policy-intro = A szervezete blokkolta az oldal vagy webhely elérését.
 fp-neterror-http-auth-disabled-intro = Valaki, aki a webhelynek adja ki magát, megpróbálhatja ellopni a felhasználónevét, jelszavát vagy e-mail-címét.

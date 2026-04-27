@@ -755,6 +755,8 @@ browsing-use-autoscroll =
     .accesskey = u
 keyboard-and-scrolling-group =
     .label = Billentyűzetes navigáció és görgetés
+motion-and-link-group =
+    .label = Mozgás és hivatkozások stílusa
 browsing-use-smooth-scrolling =
     .label = Finom görgetés
     .accesskey = F
@@ -2146,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = Összeomlás-jelentések automatikus elküldése
     .accesskey = j
 collection-backlogged-crash-reports-description = Ez segít a { -vendor-short-name(ending: "accented") }nak diagnosztizálni és megoldani a böngésző problémáit. A jelentések személyes vagy bizalmas adatokat tartalmazhatnak.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Ugyanazok a beállítások, új kinézet!
+    .message = Átrendeztük az oldalt, hogy könnyebben áttekinthető és felfedezhető legyen. A személyes beállításai nem változtak, és minden itt van továbbra is. Tipp: használja a keresőt, hogy rögtön odaugorjon, amelyre szüksége van.
+settings-redesign-promo-dismiss-button =
+    .label = Megértettem!
 addon-recommendations =
     .label = Engedélyezés, hogy a { -brand-short-name } személyre szabott kiegészítő ajánlásokat tegyen
 addon-recommendations-link = További tudnivalók
@@ -2401,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Adjon meg egy egyéni szolgáltatói webcímet
 preferences-doh-header2 =
     .heading = HTTPS feletti DNS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Kapcsolat- és szoftverbiztonság
+preferences-connection-link-section =
+    .label = Kapcsolat- és szoftverbiztonság
+    .description = Lássa, hogy a kapcsolatok hogyan maradnak biztonságosak, a kártékony szoftverek hogyan vannak blokkolva, és a webhelyek hogyan vannak ellenőrizve.
+preferences-connection-link-button =
+    .label = Speciális beállítások
 
 ## The following strings are used in the Download section of settings
 

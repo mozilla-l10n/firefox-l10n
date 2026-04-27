@@ -155,6 +155,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Csatlakoztassa a telefonját
 tab-context-send-to-mobile-device-missing =
     .label = Nem látja az eszközét?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Megosztható hivatkozás létrehozása
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

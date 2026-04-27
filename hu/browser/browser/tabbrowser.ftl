@@ -266,6 +266,14 @@ tab-context-unnamed-group =
     .label = Névtelen csoport
 tab-group-name-default = Névtelen csoport
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Lapcsoportok
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -312,6 +320,15 @@ tab-group-editor-action-new-tab =
     .label = Új lap a csoportban
 tab-group-editor-action-new-window =
     .label = Csoport áthelyezése új ablakba
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Hivatkozás másolása a csoportból
+            [one] Hivatkozás másolása a csoportból
+           *[other] { $linkCount } hivatkozás másolása a csoportból
+        }
 tab-group-editor-action-save =
     .label = Mentés és csoport bezárása
 tab-group-editor-action-ungroup =
@@ -321,6 +338,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Kész
     .accessKey = K
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Lapcsoport megosztása
 tab-context-reopen-tab-group =
     .label = Lapcsoport újranyitása
 # Variables:
