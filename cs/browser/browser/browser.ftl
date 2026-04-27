@@ -1215,6 +1215,9 @@ fullscreen-warning-no-domain = Tento dokument je teď v režimu celé obrazovky
 fullscreen-exit-button = Ukončit režim celé obrazovky (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ukončit režim celé obrazovky (esc)
+fullscreen-keyboardlock-exit-button = Ukončit režim celé obrazovky (stiskněte a podržte klávesu Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Ukončit režim celé obrazovky (stiskněte a podržte klávesu Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1374,6 +1377,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Sdílet
     .tooltiptext = Sdílet tuto stránku
+toolbar-button-tab-groups =
+    .label = Skupiny panelů
+    .tooltiptext = Zobrazí vaše skupiny panelů
 
 ## EME notification panel
 
