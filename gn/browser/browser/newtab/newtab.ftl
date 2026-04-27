@@ -601,6 +601,10 @@ newtab-section-follow-button-label =
     .aria-label = Ehapykueho { $topic }
 newtab-section-following-button = Ahapykueho
 newtab-section-unfollow-button = Ndahapykuehovéima
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Esegi: Anivete esegi { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Eiporuporã nde feed
 newtab-section-follow-highlight-subtitle = Ehapykueho ndegustáva ehecha hag̃ua hetave mbaʼe.
@@ -612,6 +616,22 @@ newtab-section-follow-highlight-subtitle = Ehapykueho ndegustáva ehecha hag̃ua
 newtab-section-block-button = Joko
 newtab-section-blocked-button = Jokopyre
 newtab-section-unblock-button = Mbojera
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Esegi { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Anive esegi { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Ejoko { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Ejoko’o { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -642,6 +662,11 @@ newtab-custom-wallpaper-cta = Eha’ã jey
 newtab-new-user-custom-wallpaper-title = Eiporavo mba’erechaha rugua ejapo hag̃ua { -brand-product-name } nemba’erã.
 newtab-new-user-custom-wallpaper-subtitle = Pe tendayke pyahu toñeñandu porã mba’erechaha rugua ha sa’y eipotáva ndive.
 newtab-new-user-custom-wallpaper-cta = Eiporu ko’ág̃a
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Mba’erechaha rugua pyahu og̃uahẽramóva
+newtab-wallpaper-feature-highlight-cta = Eiporavo mba’erechaha rugua
 
 ## Strings for download mobile highlight
 
@@ -755,6 +780,9 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Emomichĩ widgets
     .aria-label = Emomichĩmbaite widgets tuichaháicha
+newtab-widget-section-menu-button =
+    .title = Widgets poravoha
+    .aria-label = Embojuruja widgets poravoha
 newtab-widget-section-menu-hide-all = Eñomi widgets
 newtab-widget-section-menu-learn-more = Eikuaave
 newtab-widget-section-feedback = Ja’e mba’épa opensa

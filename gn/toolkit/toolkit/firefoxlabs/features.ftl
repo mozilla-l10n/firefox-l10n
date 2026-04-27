@@ -62,6 +62,9 @@ experimental-features-newtab-widget-timer-description = Emboheko papaha eime hag
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Tysýi ha aravopapaha { -firefox-home-brand-name }-pe
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Aravopapaha
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Ejeka he’iséva rembiasakue
