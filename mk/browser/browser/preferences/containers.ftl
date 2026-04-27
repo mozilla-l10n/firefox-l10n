@@ -5,6 +5,11 @@
 containers-window-new2 =
     .title = Додај нов контејнер
     .style = min-width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update-settings2 =
+    .title = Поставки на контејнерот { $name }
+    .style = min-width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -44,6 +49,10 @@ containers-color-pink =
     .label = Розова
 containers-color-purple =
     .label = Виолетова
+containers-color-toolbar =
+    .label = Исто како алатникот
+containers-icon-fence =
+    .label = Ограда
 containers-icon-fingerprint =
     .label = Отпечаток
 containers-icon-briefcase =

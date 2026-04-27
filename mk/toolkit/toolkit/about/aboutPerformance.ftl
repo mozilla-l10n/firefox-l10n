@@ -15,6 +15,9 @@ column-memory = Меморија
 ## Special values for the Name column
 
 ghost-windows = Скоро затворени јазичиња
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = Однапред вчитано: { $title }
 
 ## Values for the Type column
 
@@ -49,3 +52,15 @@ size-GB = { $value } GB
 
 close-tab =
     .title = Затвори јазиче
+show-addon =
+    .title = Прикажи во менаџерот на додатоци
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Испраќања од вчитувањето: { $totalDispatches } ({ $totalDuration }ms)
+        Испраќања во последните секунди: { $dispatchesSincePrevious } ({ $durationSincePrevious }ms)
