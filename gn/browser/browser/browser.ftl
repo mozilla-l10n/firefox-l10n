@@ -1032,6 +1032,21 @@ urlbar-result-action-switch-to-tabgroup = Emoambue { $group }-pe
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Embojuruja { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Eike tendayke pyahúpe
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Eike tendayke pyahu mbyatyhápe
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Eike Ovetã Pyahúpe
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Eike Ovetã Ñemigua Pyahúpe
+    .accesskey = P
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1450,6 +1465,7 @@ reset-pbm-toolbar-button =
     .label = Emohu’ã tembiapo ñemigua
     .tooltiptext = Emohu’ã tembiapo ñemigua
 reset-pbm-panel-heading2 = ¿Embogue mba’ekuaarã ha eike tekoñemihápe?
+reset-pbm-panel-description2 = Kóva omboguéta tembiasakue, kookie ha ambue mba’ekuaarã tendágui omboty’ỹre ovetã ñimigua.
 reset-pbm-panel-heading = Emohu’ãta tembiapo ñemigua
 reset-pbm-panel-description = Embotypaite tendayke ñemiguáva ha embogue tembiasakue, kookie ha opaite tenda mba’ekuaarã.
 reset-pbm-panel-always-ask-checkbox =
@@ -1709,6 +1725,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Ko’ã tenda ha’ete omonyhẽséva criptomoneda-gui:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = ¿Ereko peteĩ mba’ete ko tendápe?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } ojuhu ko tenda orekoha mba’ekuaarã ñembogua 12 jasy ohasava’ekuépe. Eikuaáke nembyaípara’e.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Emboyke
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Emoha’ãnga reiete
 trustpanel-blocker-section-header2 =
