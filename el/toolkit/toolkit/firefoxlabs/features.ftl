@@ -82,9 +82,11 @@ experimental-features-newtab-widget-lists-and-timer-description = Κρατήστ
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Προγνώσεις καιρού
+experimental-features-newtab-widget-weather-description = Δείτε σαφείς πληροφορίες για τον σημερινό καιρό με ωριαίες προγνώσεις. <a data-l10n-name="connect">Αποστολή σχολίων</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Εικόνα της ημέρας
+experimental-features-newtab-widget-picture-of-the-day-description = Προσθέστε λίγη «μαγεία» στην κάθε σας ημέρα. Δείτε μια νέα εικόνα, μάθετε κάτι ενδιαφέρον και ορίστε μια νέα ταπετσαρία σε χρόνο μηδέν. <a data-l10n-name="connect">Αποστολή σχολίων</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Ρολόγια
