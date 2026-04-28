@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Обележувачи
+sidebar-menu-bookmarks-2 = Обележувачи
 sidebar-menu-history =
     .label = Историја
 sidebar-menu-synced-tabs =
