@@ -503,6 +503,9 @@ newtab-weather-menu-change-location = Zmeniť lokalitu
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Hľadať lokalitu
     .aria-label = Hľadať lokalitu
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Použiť aktuálnu polohu
 newtab-weather-menu-weather-display = Zobrazenie počasia
 newtab-weather-todays-forecast = Dnešná predpoveď
 newtab-weather-see-full-forecast = Zobraziť celú predpoveď
