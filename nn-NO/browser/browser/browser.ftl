@@ -1034,6 +1034,12 @@ urlbar-result-action-open-saved-tabgroup = Opne { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Opne i ny fane
     .accesskey = n
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Opne i ny behaldarfane
+    .accesskey = p
+urlbar-view-context-menu-open-in-window =
+    .label = Opne i nytt vindauge
+    .accesskey = n
 
 ## Labels shown above groups of urlbar results
 
