@@ -249,6 +249,7 @@ annotations-default-pdf-handler-headline = Podpišite se na pikčasto črto – 
 # “Go-to” is an idiomatic English expression referring to something that is used often.
 annotations-default-pdf-handler-body = Narišite, vtipkajte ali naložite svoj podpis in ga postavite na želeno mesto. Podpise, ki jih redno uporabljate, lahko shranite za naslednjič.
 annotations-make-default-pdf-handler-title = Želite nastaviti { -brand-short-name(sklon: "tozilnik") } kot privzeti urejevalnik datotek PDF?
+annotations-make-default-pdf-handler-subtitle = Do naših orodij boste imeli dostop vsakič, ko boste odprli datoteko PDF.
 annotations-make-default-pdf-primary-cta-label = Nastavi kot privzeto
 annotations-make-default-pdf-next-label = Naprej
 
@@ -314,6 +315,7 @@ tail-fox-spotlight-secondary-button = Ne zdaj
 
 ## Welcome Back Spotlight and Import
 
+welcome-back-spotlight-subtitle = Dobrodošli nazaj v edinem večjem brskalniku, za katerim stoji neprofitna organizacija. Sprejemamo dodatne ukrepe za zaščito vaših podatkov, kamorkoli se odpravite.
 welcome-back-embedded-import-title = Uvozite svoje podatke in se počutite v { -brand-short-name(sklon: "mestnik") } kot doma
 
 ## Root Certificate Succession Infobar
@@ -445,3 +447,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Nastavi kot privzeto
 set-default-menu-message-primary-button-variant = Nastavi kot glavni brskalnik
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 e-poštnih mask, na naš račun
+relay-50-masks-announcement-subtitle = Odslej vam pripada 50 brezplačnih mask (doslej 5). Uporabite eno za vsak račun, svoj pravi e-poštni naslov pa ohranite zase.
+relay-50-masks-announcement-primary-button = Pojdi na { -relay-brand-name }
+    .accesskey = o
+relay-50-masks-announcement-secondary-button = Zapri
+    .accesskey = Z

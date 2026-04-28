@@ -508,6 +508,9 @@ newtab-weather-menu-change-location = Spremeni lokacijo
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Išči lokacijo
     .aria-label = Išči lokacijo
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Uporabi trenutno lokacijo
 newtab-weather-menu-weather-display = Prikazovalnik vremena
 newtab-weather-todays-forecast = Napoved za današnji dan
 newtab-weather-see-full-forecast = Prikaži celotno napoved
@@ -532,6 +535,8 @@ newtab-weather-opt-in-not-now =
     .label = Ne zdaj
 newtab-weather-opt-in-yes =
     .label = Da
+newtab-weather-opt-in-use-location =
+    .label = Uporabi lokacijo
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
 # "Highest" here refers to the highest temperature of the day
@@ -608,6 +613,10 @@ newtab-section-follow-highlight-subtitle = Sledite svojim zanimanjem in dobivajt
 newtab-section-block-button = Prepovej
 newtab-section-blocked-button = Prepovedano
 newtab-section-unblock-button = Dovoli
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Odblokiraj temo { $topic }
 
 ## Confirmation modal for blocking a section
 

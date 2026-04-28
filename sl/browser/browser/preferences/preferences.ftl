@@ -18,6 +18,9 @@ do-not-track-removal3 =
     .message = Možnosti "Brez sledenja" ne podpiramo več.
 non-technical-privacy-heading =
     .label = Dodatne zaščite
+preferences-privacy-relay-available =
+    .label = Predlagaj e-poštne maske { -relay-brand-name }
+    .description = Maske vam omogočajo prikriti pravi e-poštni naslov in se izogniti neželeni pošti.
 non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation

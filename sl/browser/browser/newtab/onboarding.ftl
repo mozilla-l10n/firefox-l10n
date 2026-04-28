@@ -515,6 +515,7 @@ create-backup-screen-3-location = Kam naj se varnostna kopija shrani?
 create-backup-screen-3-title = Nastavi geslo za datoteko z varnostno kopijo
 create-backup-screen-3-subtitle = Zahtevano za šifriranje podatkov. Shranite ga na mesto, ki si ga boste zapomnili.
 fx-backup-opt-in-header = Izberi mesto datoteke
+fx-backup-opt-in-filepath-label = Izberite mesto, ki ga nameravate prenesti na novo napravo, na primer OneDrive.
 fx-backup-opt-in-create-password-label = Vnesite geslo
 fx-backup-opt-in-confirm-btn-label = Nadaljuj
 fx-backup-opt-in-cancel-btn-label = Nazaj
@@ -534,6 +535,7 @@ fx-backup-confirmation-screen-easy-setup-item-text-2 = Shranjeno na napravo
 fx-backup-confirmation-screen-easy-setup-item-text-3 = Gesla in plačilna sredstva niso vključena
 fx-backup-confirmation-screen-easy-setup-item-subtext-3 = Za vključitev občutljivih podatkov obiščite <a data-l10n-name="settings">nastavitve</a>.
 fx-backup-confirmation-screen-item-subtext-1 = Varnostno kopiranje se bo začelo čez nekaj minut in se bo zagnalo enkrat na dan. Napredek lahko preverite v <a data-l10n-name="settings">nastavitvah</a>.
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } bo poiskal varnostno kopijo, če bo potrebna ponovna namestitev.
 
 ## Restore from Backup Flow about:welcome screens
 
@@ -558,6 +560,7 @@ restored-from-backup-error-primary-button = Zapri
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
+onboarding-personalization-title = Doživite { -brand-short-name(sklon: "tozilnik") } po svoje
 onboarding-personalization-subtitle = Če odgovorite na nekaj vprašanj, vam lahko priporočimo nekaj funkcij in razširitev, ki vam bodo pomagale še bolje izkoristiti { -brand-short-name(sklon: "tozilnik") }.
 onboarding-personalization-use-case-title = Za kaj boste uporabljali { -brand-short-name(sklon: "tozilnik") }?
 onboarding-personalization-use-case-personal-option = Osebno
