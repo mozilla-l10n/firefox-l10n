@@ -318,6 +318,14 @@ tab-group-editor-action-new-tab =
     .label = Tendayke pyahu atýpe
 tab-group-editor-action-new-window =
     .label = Eguerova aty ovetã pyahúpe
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Embohasa juajuha atýpe
+           *[other] Copy { $linkCount } links in group
+        }
 tab-group-editor-action-save =
     .label = Eñongatu ha emboty aty
 tab-group-editor-action-ungroup =

@@ -154,6 +154,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Embojuaju ne pumbyry
 tab-context-send-to-mobile-device-missing =
     .label = ¿Nderehechái ne mba’e’oka?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Emoheñói juajuha emoherakuã hag̃ua
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

@@ -2403,6 +2403,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Jeike ha software rekorosã
+preferences-connection-link-section =
+    .label = Jeike ha software rekorosã
+    .description = Ehecha mba’éichapa hekorosã jeikerã, ojejokóvo pe software vai ha ojehecha jey ñanduti rogue.
 preferences-connection-link-button =
     .label = Ñemoĩporã opapotáva
 

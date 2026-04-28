@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AA kontrolak
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Erabilgarritasuna
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } esperimentuak
 category-experimental =
     .tooltiptext = { -brand-short-name } esperimentuak
@@ -751,6 +753,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Erabili korritze automatikoa
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Teklatuaren bidezko nabigazioa eta korritzea
 browsing-use-smooth-scrolling =
     .label = Erabili korritze leuna
     .accesskey = u
@@ -792,6 +796,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Argibide gehiago
 browsing-group =
     .label = Nabigatzea
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Erabilgarritasuna
+preferences-default-zoom-select =
+    .aria-label = Zoom lehenetsia
+preferences-fonts-family =
+    .label = Letra-familia
+    .accesskey = D
+preferences-fonts-size =
+    .label = Letra-tamaina
+    .accesskey = m
+preferences-fonts-advanced-settings =
+    .label = Ezarpen aurreratuak
+    .accesskey = a
 
 ## General Section - Proxy
 
@@ -1096,6 +1116,7 @@ search-edit-engine =
     .label = Editatu
     .accesskey = E
 search-find-more-link = Bilatu bilaketa-motor gehiago
+search-filtering-for-add-engine = Gehitu bilaketa-motorra
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Bikoiztutako gako-hitza
@@ -2125,6 +2146,12 @@ collection-backlogged-crash-reports2 =
     .label = Bidali automatikoki hutsegite-txostenak
     .accesskey = h
 collection-backlogged-crash-reports-description = Honek nabigatzailearen arazoak diagnostikatu eta konpontzen laguntzen du { -vendor-short-name }. Txostenek datu pertsonal edo kontuzkoak izan litzakete.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Ezarpen berdinak, itxura berria!
+    .message = Orri hau berrantolatu dugu eskaneatzeko eta arakatzeko errazagoa izan dadin. Zure ezarpen pertsonalak ez dira aldatu eta dena lehen bezala dago. Aholkua: erabili bilaketa behar duzunera zuzenean iristeko.
+settings-redesign-promo-dismiss-button =
+    .label = Ulertuta
 addon-recommendations =
     .label = Baimendu { -brand-short-name }(r)i hedapenen gomendio pertsonalizatuak egitea
 addon-recommendations-link = Argibide gehiago
@@ -2380,6 +2407,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Idatzi hornitzailearen URL pertsonalizatua
 preferences-doh-header2 =
     .heading = HTTPS gaineko DNSa
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Konexioa eta softwarearen segurtasuna
+preferences-connection-link-section =
+    .label = Konexioa eta softwarearen segurtasuna
+    .description = Ikusi nola mantentzen diren konexioak seguru, nola blokeatzen den software kaltegarria eta nola egiaztatzen diren webguneak.
+preferences-connection-link-button =
+    .label = Ezarpen aurreratuak
 
 ## The following strings are used in the Download section of settings
 

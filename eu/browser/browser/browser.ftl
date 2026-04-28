@@ -1029,6 +1029,21 @@ urlbar-result-action-switch-to-tabgroup = Aldatu { $group } taldera
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Ireki { $group } taldera
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Ireki fitxa berrian
+    .accesskey = b
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Ireki edukiontzi-fitxa berrian
+    .accesskey = d
+urlbar-view-context-menu-open-in-window =
+    .label = Ireki leiho berrian
+    .accesskey = h
+urlbar-view-context-menu-open-in-private-window =
+    .label = Ireki leiho pribatu berrian
+    .accesskey = b
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1263,6 +1278,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Partekatu
     .tooltiptext = Partekatu orri hau
+toolbar-button-tab-groups =
+    .label = Fitxa-taldeak
+    .tooltiptext = Erakutsi zure fitxa-taldeak
 
 ## EME notification panel
 
@@ -1445,6 +1463,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Amaitu saio pribatua
     .tooltiptext = Amaitu saio pribatua
+reset-pbm-panel-heading2 = Garbitu datuak eta hasi saio pribatu berria?
+reset-pbm-panel-description2 = Honek historia, cookieak eta gunearen bestelako datuak ezabatzen ditu zure leiho pribatua itxi gabe.
 reset-pbm-panel-heading = Zure saio pribatua amaitu?
 reset-pbm-panel-description = Itxi fitxa pribatu guztiak eta ezabatu historia, cookieak eta guneetako bestelako datu guztiak.
 reset-pbm-panel-always-ask-checkbox =
@@ -1453,6 +1473,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Utzi
     .accesskey = z
+reset-pbm-panel-confirm-button2 =
+    .label = Garbitu saio pribatua
+    .accesskey = G
 reset-pbm-panel-confirm-button =
     .label = Ezabatu saioko datuak
     .accesskey = s
@@ -1700,8 +1723,20 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name }(e)k { $count } kriptomeatzari baimendu ditu
     }
 trustpanel-cryptominer-tab-list-header = Kriptomeatzen saiatzen ari dira gune hauek:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Gune honetan kontu bat duzu?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name }(e)k gune hau aurkitu du azken 12 hilabetetako datu-urratze batean. Ikusi ea zugan eraginik duen.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Baztertu
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Hasi eskaneatzen doan
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Jarraipen-elementu <span data-l10n-name="count">{ $count }</span> blokeatu da gune honetan
        *[other] <span data-l10n-name="count">{ $count }</span> jarraipen-elementu blokeatu dira gune honetan
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Guneak hautsita dirudi?</strong> Berritu orria jarraipenaren zure babesa behin-behinean gutxitzeko.
+reduced-protection-infobar-reload-button = Berritu
+    .accesskey = B

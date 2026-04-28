@@ -137,6 +137,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } ojerure ñ
 
 webext-site-perms-header-with-gated-perms-midi = Ko moĩmbaha ome’ẽ { $hostname }-pe oikévo ne MIDI mba’e’okápe.
 webext-site-perms-header-with-gated-perms-midi-sysex = Ko moĩmbaha ome’ẽ { $hostname }-pe oikévo ne MIDI mba’e’okápe (SysEx pytyvõha ndive).
+webext-site-perms-header-with-gated-perms-serial = Ko moĩmbaha ome’ẽ { $hostname } jeikerã mba’e’oka hysýivape.
 
 ##
 

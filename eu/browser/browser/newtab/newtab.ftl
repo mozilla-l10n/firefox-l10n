@@ -504,6 +504,9 @@ newtab-weather-menu-change-location = Aldatu kokapena
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Bilatu kokapena
     .aria-label = Bilatu kokapena
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Erabili uneko kokapena
 newtab-weather-menu-weather-display = Eguraldia bistaratzea
 newtab-weather-todays-forecast = Gaurko iragarpena
 newtab-weather-see-full-forecast = Ikusi iragarpen osoa
@@ -592,8 +595,16 @@ newtab-topic-selection-button-pick-interests = Hautatu zure interesak
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Jarraitu
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Jarraitu { $topic }
 newtab-section-following-button = Jarraitzen
 newtab-section-unfollow-button = Utzi jarraitzeari
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Jarraitzen: utzi { $topic } jarraitzeari
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Doitu zure jarioa
 newtab-section-follow-highlight-subtitle = Jarraitu zure interesak gustatzen zaizunetik gehiago ikusteko.
@@ -605,6 +616,22 @@ newtab-section-follow-highlight-subtitle = Jarraitu zure interesak gustatzen zai
 newtab-section-block-button = Blokeatu
 newtab-section-blocked-button = Blokeatuta
 newtab-section-unblock-button = Desblokeatu
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Jarraitu { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Utzi { $topic } jarraitzeari
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blokeatu { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Desblokeatu { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -635,6 +662,12 @@ newtab-custom-wallpaper-cta = Probatu
 newtab-new-user-custom-wallpaper-title = Aukeratu horma-paper bat { -brand-product-name } zure egiteko
 newtab-new-user-custom-wallpaper-subtitle = Molda ezazu fitxa berri bakoitza zure modura horma-paper eta kolore pertsonalizatuekin.
 newtab-new-user-custom-wallpaper-cta = Probatu orain
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Horma-paper berriak heldu berri dira
+newtab-wallpaper-feature-highlight-subtitle = Aukeratu zure gogokoena eta sentitu etxean bezala fitxa berri bakoitzean.
+newtab-wallpaper-feature-highlight-cta = Aukeratu horma-papera
 
 ## Strings for download mobile highlight
 
@@ -723,8 +756,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Sortu zerrenda berria
 newtab-widget-lists-name-label-default =
     .label = Zereginen zerrenda
+newtab-widget-lists-name-label-checklist =
+    .label = Zerrenda
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Zereginen zerrenda
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Zerrenda
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Zerrenda berria
@@ -744,7 +781,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizatu widgetak
     .aria-label = Tolestu widget guztiak tamaina trinkora
+newtab-widget-section-menu-button =
+    .title = Widgeten menua
+    .aria-label = Ireki widgeten menua
+newtab-widget-section-menu-hide-all = Ezkutatu widgetak
+newtab-widget-section-menu-learn-more = Argibide gehiago
 newtab-widget-section-feedback = Emaguzu zure iritzia
+newtab-widget-lists-name-default = Zerrenda
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
