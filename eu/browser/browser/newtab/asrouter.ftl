@@ -442,3 +442,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Ezarri lehenetsi gisa
 set-default-menu-message-primary-button-variant = Ezarri nabigatzaile nagusi gisa
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 posta-maskara gure kontu
+relay-50-masks-announcement-subtitle = Orain doako 50 posta-maskara jasoko dituzu (lehen 5 ziren). Erabil ezazu maskara bat kontu bakoitzeko zure benetako helbide elektronikoa pribatu mantentzeko.
+relay-50-masks-announcement-primary-button = Joan { -relay-brand-name }(e)ra
+    .accesskey = o
+relay-50-masks-announcement-secondary-button = Baztertu
+    .accesskey = B

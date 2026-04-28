@@ -201,6 +201,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ostalariak er
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> ostalariko zerbitzariak errore bat itzuli du: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> ostalariak web segurtasunaren estandarrek onartzen ez dituzten karaktere hutsak bidali ditu goiburu batean.
+fp-neterror-content-encoding-intro = Ikusten saiatzen ari zaren orria ezin da erakutsi baliogabeko edo onartzen ez den konpresio mota bat erabiltzen duelako.
 fp-neterror-coop-coep-intro = { -brand-short-name }(e)k ez du orri hau kargatu bere segurtasun-konfigurazioa aurreko orriarenarekin bat ez datorrela baitirudi.
 fp-neterror-blocked-by-policy-intro = Zure erakundeak blokeatu egin du orri edo gune honetarako sarbidea.
 fp-neterror-http-auth-disabled-intro = Gunearen itxurak egiten dituen norbait saia liteke lapurtzen zure erabiltzaile-izena, pasahitza edo posta elektronikoko mezuak.

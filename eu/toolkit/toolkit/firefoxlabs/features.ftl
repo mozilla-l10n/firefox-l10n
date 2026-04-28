@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Pertsonalizatu zure nabigazioa
 experimental-features-group-productivity =
     .label = Produktibitatea
+experimental-features-group-newtab-widgets =
+    .label = { -firefox-home-brand-name }(e)ko widgetak
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Pasahitzak alboko barran
@@ -64,15 +66,31 @@ experimental-features-fx-web-apps-description = Ireki askotan bisitatzen dituzun
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name }(e)ko zerrendak
+experimental-features-newtab-widget-lists-new =
+    .label = Zerrendak
 experimental-features-newtab-widget-lists-description = Mantendu zure zereginen zerrenda ikusgai fitxa berria irekitzen duzunean. Ekipajea prestatzetik erosketa-zerrendetara, egin zure planak { -brand-product-name }(e)n. <a data-l10n-name="connect">Partekatu iritzia</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name }(e)ko tenporizadorea
+experimental-features-newtab-widget-timer-new =
+    .label = Tenporizadorea
 experimental-features-newtab-widget-timer-description = Ezarri tenporizadorea zure fokua mantentzeko, bide onetik jarraitu eta deskantsua hartzea gogorarazteko. <a data-l10n-name="connect">Partekatu iritzia</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name }(e)ko zerrendak eta tenporizadorea
 experimental-features-newtab-widget-lists-and-timer-description = Mantendu zure zereginen zerrenda ikusgai fitxa berria irekitzen duzunean. Ekipajea prestatzetik erosketa-zerrendetara, egin zure planak { -brand-product-name }(e)n. Ezarri tenporizadorea zure fokua mantentzeko, bide onetik jarraitu eta deskantsua hartzea gogorarazteko. <a data-l10n-name="connect">Partekatu iritzia</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Eguraldiaren iragarpenak
+experimental-features-newtab-widget-weather-description = Izan gaurko eguraldiaren ikuspegia ordukako iragarpenekin. <a data-l10n-name="connect">Eman iritzia</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Eguneko argazkia
+experimental-features-newtab-widget-picture-of-the-day-description = Emaiozu eguneroko plazer txiki bat zure egunari. Eskuratu argazki berri bat, ikasi gauza interesgarriren bat eta ezarri horma-paper berri bat berehala. <a data-l10n-name="connect">Eman iritzia</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Erlojuak
+experimental-features-newtab-widget-clocks-description = Gehitu lau erlojura arte zuretzat garrantzitsuak diren tokien orduak bistan izateko. <a data-l10n-name="connect">Eman iritzia</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Bilaketa semantikoaren historia
