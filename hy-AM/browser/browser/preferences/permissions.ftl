@@ -65,7 +65,7 @@ permissions-capabilities-listitem-block =
 permissions-capabilities-listitem-allow-session =
     .value = Թույլատրել աշխատաշրջանում
 permissions-capabilities-listitem-off =
-    .value = Անջ.
+    .value = Անջատել
 permissions-capabilities-listitem-off-temporarily =
     .value = Ժ.-ապես անջ.-ել
 

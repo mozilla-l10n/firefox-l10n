@@ -169,6 +169,11 @@ link-preview-generation-retry = Կրկին փորձել
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Հղման նախադիտման կարգավորումներ
+link-preview-settings-enable =
+    .label = Միացնել հղումների նախադիտումները
+    .description = Տեսեք էջի վերնագիրը, նկարագրությունը և այլն, երբ օգտագործում եք կարճ հղումը կամ աջ սեղմեք հղման վրա։
+link-preview-settings-long-press =
+    .label = Դյուրանցում. Սեղմեք և պահեք հղումը 1 վայրկյան (երկար սեղմեք)
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Տեսնու՞մ եք ավելին ԱԲ միջոցով։
 # Onboarding card title for long press

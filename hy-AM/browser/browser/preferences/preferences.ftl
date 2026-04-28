@@ -275,6 +275,8 @@ containers-remove-cancel-button = Չհեռացնել այս Պարունակը
 settings-tabs-show-image-in-preview =
     .label = Ցուցադրել նախադիտման նկարը՝ երբ սահում եք ներդիրի վրա
     .accessKey = ս
+settings-tabs-drag-to-create-tab-groups =
+    .label = Ներդիրները միասին քաշեք՝ ներդիրների խմբեր ստեղծելու համար
 browser-layout-header2 =
     .label = Դիտարկիչի դասավորությունը
 browser-layout-horizontal-tabs2 =
@@ -330,6 +332,9 @@ preferences-web-appearance-override-warning3 =
     .message = Ձեր ցայտնության կառավարման կարգավորումները գերակշռում են կայքի տեսքի վրա։
 preferences-web-appearance-link =
     .label = Կառավարեք { -brand-short-name } ձևավորումները Ընդլայնումներ և Ձևավորումներում
+preferences-contrast-control-group =
+    .label = Կայքի հակադրություն
+    .description = Կայքերը օգտագործում են առաջնային և խորքի գույների բազմազանություն։ Հաստատուն հակադրության համար կարող եք օգտագործել նույն գույները տարբեր կայքերում։
 preferences-contrast-control-radio-group =
     .label = Գույների փոխարինում
 # This message contains one link. It can be moved within the sentence as needed
@@ -341,7 +346,7 @@ preferences-contrast-control-use-platform-settings =
     .label = Ինքնաշխատ (օգտագործել համակարգի կարգավորումները)
     .accesskey = A
 preferences-contrast-control-off =
-    .label = Անջ.
+    .label = Անջատել
     .accesskey = O
 preferences-contrast-control-custom =
     .label = Հարմարեցված
@@ -495,9 +500,14 @@ settings-translations-subpage-no-sites-added =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Օգտագործեք ձեր օպերացիոն համակարգի կարգավորումները “{ $localeName }”–ի համար՝ ձևաչափելու ամսաթվերը, ժամերը, համարները և չափումները:
+settings-spellcheck-header =
+    .label = Ուղղագրության ստուգում
 check-user-spelling =
     .label = Տեքստ մուտքագրելիս ստուգել ուղղագրությունը
     .accesskey = մ
+spellcheck-promo =
+    .heading = Ինչպես օգտագործել ուղղագրության ստուգումը
+    .message = Ուղղագրության ստուգումը միացնելու կամ անջատելու, կամ լեզուն փոխելու համար տեքստային դաշտի վրա սեղմեք աջ կոճակը։ Ոչ բոլոր դաշտերն են աջակցում ուղղագրության ստուգումը։
 
 ## General Section - Files and Applications
 
@@ -755,6 +765,13 @@ network-proxy-connection-learn-more = Իմանալ ավելին
 network-proxy-connection-settings =
     .label = Կարգավորումներ…
     .accesskey = ա
+network-proxy-group2 =
+    .label = Պրոքսիի կարգավորումներ
+    .description = Կազմաձևեք, թե ինչպես { -brand-short-name }-ը կապակցվի համացանցին:
+network-proxy-connection-settings2 =
+    .label = Կազմաձևել պրոքսին
+    .description = Այս կարգավորումների փոփոխումը կարող է հանգեցնել կապակցումների խնդիրների:
+    .accesskey = p
 
 ## Home Section
 
@@ -1858,6 +1875,9 @@ permissions-block-popups-exceptions-button4 =
     .description = Ավելացրեք կայքեր, որոնք կարող են բացել թռուցիկներ և օգտագործել երրորդ կողմի վերահասցեավորումներ:
     .accesskey = E
     .searchkeywords = թռուցիկներ
+permissions-addon-install-warning3 =
+    .label = Ցուցադրել նախազգուշացում, երբ կայքերը փորձում են տեղադրել ընդլայնումներ
+    .accesskey = W
 permissions-addon-exceptions2 =
     .label = Ընտրեք, թե որ կայքերը կարող են տեղադրել ընդլայնումներ
     .accesskey = E
@@ -2057,7 +2077,7 @@ preferences-doh-resolver = Մատակարար՝ { $name }
 preferences-doh-bad-url = Անվավեր URL
 preferences-doh-steering-status = Օգտվելով տեղական մատակարարից
 preferences-doh-status-active = Գործող
-preferences-doh-status-disabled = Անջ.
+preferences-doh-status-disabled = Անջատել
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Չի գործում ({ $reason })

@@ -41,7 +41,7 @@ printui-scale-fit-to-page-width = Տեղավորել էջի լայնությամ
 printui-scale-pcent = Սանդղում
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Երկկողմանի տպագրություն
-printui-two-sided-printing-off = Անջ.
+printui-two-sided-printing-off = Անջատել
 # Section title for miscellaneous print options
 printui-options = Ընտրանքներ
 printui-headers-footers-checkbox = Տպել էջագլուխները և էջատակերը
