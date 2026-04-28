@@ -1017,6 +1017,21 @@ urlbar-result-action-switch-to-tabgroup = สลับไปยัง { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = เปิด { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = เปิดในแท็บใหม่
+    .accesskey = ห
+urlbar-view-context-menu-open-in-container-tab =
+    .label = เปิดในแท็บแยกข้อมูลใหม่
+    .accesskey = ข
+urlbar-view-context-menu-open-in-window =
+    .label = เปิดในหน้าต่างใหม่
+    .accesskey = ต
+urlbar-view-context-menu-open-in-private-window =
+    .label = เปิดในหน้าต่างส่วนตัวใหม่
+    .accesskey = ส
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
