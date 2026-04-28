@@ -615,6 +615,22 @@ newtab-section-follow-highlight-subtitle = Sledujte svoje záujmy a uvidíte via
 newtab-section-block-button = Zablokovať
 newtab-section-blocked-button = Zablokované
 newtab-section-unblock-button = Odblokovať
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Sledovať tému { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Prestať sledovať tému { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blokovať tému { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Odblokovať tému { $topic }
 
 ## Confirmation modal for blocking a section
 
