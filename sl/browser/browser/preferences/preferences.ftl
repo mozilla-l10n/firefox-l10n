@@ -79,6 +79,7 @@ pane-experimental-description2 = Spreminjanje naprednih nastavitev lahko vpliva 
 settings-pane-labs-title = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
+pane-experimental-description4 = Spoznajte naše poskusne možnosti! So v fazi razvoja in se še izboljšujejo, kar lahko vpliva na delovanje { -brand-short-name(sklon: "rodilnik") }. Podatke o vaši uporabi teh možnosti prejemamo samo, če imate vklopljeno pošiljanje <a data-l10n-name="data-collection">tehničnih in interakcijskih podatkov</a>.
 pane-experimental-description3 = Preizkusite naše eksperimentalne zmogljivosti! So v razvoju in se spreminjajo, kar lahko vpliva na delovanje { -brand-short-name(sklon: "rodilnik") }.
 pane-experimental-reset =
     .label = Ponastavi privzeto
@@ -758,6 +759,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Uporabljaj samodrsenje
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Krmarjenje s tipkovnico in drsenje
+motion-and-link-group =
+    .label = Gibanje in oblikovanje povezav
 browsing-use-smooth-scrolling =
     .label = Uporabljaj gladko drsenje
     .accesskey = g
@@ -1594,6 +1599,9 @@ payments-no-payments-stored-message =
 autofill-addresses-checkbox-message =
     .label = Shranjuj in samodejno izpolnjuj naslove
     .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = Upravljanje naslovov in drugih podatkov
+    .accesskey = n
 addresses-list-header =
     .label = Naslovi
 addreses-delete-address-button-label =
@@ -1604,6 +1612,8 @@ addresses-delete-address-prompt-title = Ali želite izbrisati ta naslov?
 addresses-delete-address-prompt-confirm-button = Izbriši
 addresses-delete-address-prompt-cancel-button = Prekliči
 autofill-addresses-add-button = Dodaj nov naslov
+autofill-addresses-manage-addresses-title =
+    .heading = Upravljanje naslovov in drugih podatkov
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Ni dodanih naslovov
@@ -1622,6 +1632,8 @@ address-moz-box-item =
 payment-moz-box-item =
     .label = { $cardNumber }
     .description = { $expDate }
+addresses-group =
+    .label = Naslovi in drugi podatki
 payments-group =
     .label = Plačilna sredstva
 
@@ -2092,6 +2104,9 @@ collection-health-report-telemetry-disabled = Organizaciji { -vendor-short-name 
 collection-health-report-telemetry-disabled-link = Več o tem
 backup-multi-profile-warning-message =
     .message = Da zagotovite, da bo ta sprememba vključena v varnostne kopije, odprite vsak profil in v nastavitvah izberite "Varnostno kopiraj zdaj".
+nimbus-rollouts =
+    .label = Dovoli { -brand-short-name(sklon: "dajalnik") } izboljševanje možnosti, učinkovitosti delovanja in zanesljivosti med posodobitvami
+    .description = Popravki se bodo izvajali na daljavo.
 addon-recommendations3 =
     .label = Dovoli osebno prilagojena priporočila razširitev
     .description = Prejemajte priporočila za razširitve, ki bi vam izboljšale izkušnjo brskanja.
@@ -2113,6 +2128,8 @@ collection-studies-description = Preizkusite funkcije in ideje, preden postanejo
 collection-studies =
     .label = { -brand-short-name(sklon: "dajalnik") } dovoli nameščanje in izvajanje raziskav
 collection-studies-link = Prikaži raziskave { -brand-short-name(sklon: "rodilnik") }
+nimbus-rollouts-enabled =
+    .label = Dovoli { -brand-short-name(sklon: "dajalnik") } izboljševanje možnosti, učinkovitosti delovanja in zanesljivosti med posodobitvami
 nimbus-rollouts-enabled-description = Spremembe se bodo uveljavljale na daljavo.
 addon-recommendations2 =
     .label = Dovoli osebno prilagojena priporočila razširitev
@@ -2124,6 +2141,10 @@ collection-backlogged-crash-reports2 =
     .label = Samodejno pošiljaj poročila o sesutjih
     .accesskey = č
 collection-backlogged-crash-reports-description = To { -vendor-short-name(sklon: "dajalnik") } omogoča ugotoviti vzroke težav z brskalnikom in jih odpraviti. Poročila lahko vključujejo osebne ali občutljive podatke.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Iste nastavitve, nov videz!
+    .message = Stran smo reorganizirali za večjo preglednost. Vaše nastavitve se niso spremenile in nobena ni izginila. Namig: če iščete točno določeno nastavitev, uporabite polje za iskanje.
 settings-redesign-promo-dismiss-button =
     .label = Razumem
 addon-recommendations =
@@ -2195,6 +2216,8 @@ security-enable-safe-browsing =
     .label = Zavrni nevarno in zavajajočo vsebino
     .accesskey = v
 security-enable-safe-browsing-link = Več o tem
+security-safe-browsing-warning =
+    .message = Izklop te nastavitve zmanjša vašo zaščito pred goljufijami, zlonamernimi spletnimi mesti in nevarnimi prenosi.
 security-block-downloads =
     .label = Zavrni nevarne prenose
     .accesskey = r
@@ -2229,6 +2252,9 @@ certs-description3 =
 certs-view2 =
     .label = Upravljanje potrdil
     .accesskey = U
+certs-devices2 =
+    .label = Upravljanje varnostnih naprav
+    .accesskey = v
 
 ## Privacy Section - HTTPS-Only
 
@@ -2255,6 +2281,9 @@ httpsonly-label2 =
 ## DoH Section
 
 preferences-doh-header = DNS prek HTTPS
+dns-over-https-group2 =
+    .label = DNS prek HTTPS
+    .description = Sistem domenskih imen prek HTTPS (DNS prek HTTPS, tudi DoH) šifrira poizvedbe po imenih spletnih mest, kar vašemu ponudniku interneta in ostalim oteži vpogled v to, katera spletna mesta obiskujete.
 preferences-doh-description = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 preferences-doh-description2 = DNS (sistem domenskih imen) prek HTTPS pošilja vaše zahtevke za imena domen po šifrirani povezavi, kar ustvari zavarovan DNS in drugim otežuje vpogled v to, katera spletna mesta obiskujete.
 # Variables:
@@ -2321,6 +2350,9 @@ preferences-doh-overview-off =
     .description = Uporabljaj privzeti razreševalnik DNS.
 preferences-doh-advanced-button =
     .label = Napredne nastavitve
+preferences-doh-advanced-section =
+    .label = Napredne nastavitve
+    .description = Sistem domenskih imen prek HTTPS (DNS prek HTTPS, tudi DoH) šifrira poizvedbe po imenih spletnih mest, kar vašemu ponudniku interneta in ostalim oteži vpogled v to, katera spletna mesta obiskujete.
 preferences-doh-manage-exceptions2 =
     .label = Upravljanje izjem
     .accesskey = z
@@ -2333,8 +2365,15 @@ preferences-doh-radio-custom =
 preferences-doh-radio-off =
     .label = Izklop
     .description = Uporabljaj privzeti razreševalnik DNS
+preferences-doh-fallback-label =
+    .label = Vedno opozori, če zavarovani DNS ni na voljo
 preferences-doh-status-item-off =
     .message = DNS prek HTTPS je izklopljen
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = DNS prek HTTPS ne deluje, ker je ob poskusu uporabe ponudnika { $name } prišlo do napake ({ $reason })
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-item-not-active-bad-url =
@@ -2343,6 +2382,15 @@ preferences-doh-status-item-not-active-bad-url =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active =
     .message = DNS prek HTTPS uporablja ponudnika { $name }
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS prek HTTPS ne deluje, ker je ob poskusu uporabe lokalnega ponudnika { $name } prišlo do napake ({ $reason })
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS prek HTTPS uporablja lokalnega ponudnika { $name }
 preferences-doh-select-resolver-label =
     .label = Izberite ponudnika:
 # Variables:
@@ -2354,6 +2402,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Vnesite URL ponudnika po meri
 preferences-doh-header2 =
     .heading = DNS prek HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Varnost povezav in programske opreme
+preferences-connection-link-section =
+    .label = Varnost povezav in programske opreme
+    .description = Oglejte si, kako je poskrbljeno za varnost povezav, preprečevanje okužb z zlonamernimi programi in preverjanje spletnih mest.
+preferences-connection-link-button =
+    .label = Napredne nastavitve
 
 ## The following strings are used in the Download section of settings
 
@@ -2428,6 +2486,21 @@ security-privacy-status-problem-header = { -brand-short-name } priporoča nekaj 
 security-privacy-status-ok-label = Izboljšana zaščita pred sledenjem je vključena
 security-privacy-status-problem-label = Našli smo nastavitve, ki vplivajo na vašo zaščito
 security-privacy-status-problem-helper-label = Prikaži težave
+security-privacy-status-pending-trackers-label = Ugotavljanje, koliko sledilcev je { -brand-short-name } blokiral v zadnjem mesecu
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } blokiran sledilec v zadnjem mesecu
+        [two] { $trackerCount } blokirana sledilca v zadnjem mesecu
+        [few] { $trackerCount } blokirani sledilci v zadnjem mesecu
+       *[other] { $trackerCount } blokiranih sledilcev v zadnjem mesecu
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = Uporabljate <a data-l10n-name="strict-tracking-protection">strogo zaščito</a>
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = Uporabljate <a data-l10n-name="custom-tracking-protection">zaščito po meri</a>
 security-privacy-status-up-to-date-label = Imate najnovejšo in najvarnejšo različico { -brand-short-name(sklon: "rodilnik") }.
 security-privacy-status-update-needed-label = Na voljo je nova različica { -brand-short-name(sklon: "rodilnik") }.
 security-privacy-status-update-error-label = { -brand-short-name } ima težave pri posodabljanju
@@ -2449,10 +2522,39 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Izboljšana zaščita pred sledenjem
+    .description = Z uporabo sledilcev vas spletna mesta zasledujejo po spletu in vas ciljajo z neprijetnimi oglasi. { -brand-short-name } vas med brskanjem ščiti s tem, da sledilce samodejno blokira in vam daje nadzor nad vašo digitalno sledjo.
+preferences-etp-level-standard =
+    .label = Običajna (privzeto)
+    .description = Zmogljiva in zanesljiva zaščita, ki zagotavlja nemoteno delovanje večine spletnih mest.
+preferences-etp-level-strict =
+    .label = Stroga
+    .description = Strožja zaščita, ki blokira več sledilcev, vendar lahko povzroči nedelovanje nekaterih strani.
+preferences-etp-level-custom =
+    .label = Po meri
+    .description = Izberite, pred čim se želite zaščititi in kaj želite dopustiti.
+preferences-etp-status-advanced-button =
+    .label = Napredne nastavitve
+preferences-etp-status-protections-dashboard-link =
+    .label = Ogled osebne nadzorne plošče zaščit
+    .description = Oglejte si, koliko skritih sledilcev je { -brand-short-name } blokiral za vas, vključno s sledilci družbenih omrežij, sledilci prstnih odtisov in kriptorudarji.
+preferences-etp-header =
+    .heading = Izboljšana zaščita pred sledenjem
+preferences-etp-advanced-settings-group =
+    .label = Napredne nastavitve
+    .description = Z uporabo sledilcev vas spletna mesta zasledujejo po spletu in vas ciljajo z neprijetnimi oglasi. { -brand-short-name } vas med brskanjem ščiti s tem, da sledilce samodejno blokira in vam daje nadzor nad vašo digitalno sledjo.
+preferences-etp-customize-button =
+    .label = Prilagodi zaščito pred sledenjem
 preferences-etp-reload-tabs-hint =
     .message = Za uveljavitev sprememb ponovno naložite zavihke.
 preferences-etp-reload-tabs-hint-button =
     .label = Znova naloži vse zavihke
+preferences-etp-rfp-warning-message =
+    .message = Uporabljate Resist Fingerprinting (RFP), ki je nadomestil nekatere { -brand-short-name }ove nastavitve zaščite pred sledilci prstnih odtisov. To lahko povzroči nedelovanje nekaterih spletnih mest.
+preferences-etp-level-warning-message =
+    .heading = Pozor! Nekatera spletna mesta morda ne bodo delovala, kot bi morala.
+    .message = Na nekaterih straneh so sledilci vgrajeni v njihove funkcije ali vsebino. Ko jih { -brand-short-name } blokira, se stran lahko pokvari. V tem primeru uporabite možnost "Popravi težavo s stranjo" ali za to spletno mesto izklopite zaščito pred sledenjem.
 preferences-etp-manage-exceptions-button =
     .label = Upravljanje izjem
     .description = Določite, na katerih spletnih mestih naj bo izboljšana zaščita pred sledenjem izključena.
@@ -2465,15 +2567,54 @@ preferences-etp-reset-standard-button =
     .label = Ponastavi na običajno
 preferences-etp-reset-strict-button =
     .label = Ponastavi na strogo
+preferences-etp-custom-control-group =
+    .label = Zaščita pred sledenjem
+    .description = Izberite, pred čim se želite zaščititi in kaj želite dopustiti.
 preferences-etp-custom-cookies-enabled =
     .label = Piškotki
 preferences-etp-custom-cookie-behavior =
     .aria-label = Piškotki
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Dovoli vse piškotke
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Sledilna vsebina
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Sledilna vsebina
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Kriptorudarji
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Znani sledilci prstnih odtisov
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Morebitni sledilci prstnih odtisov
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Morebitni sledilci prstnih odtisov
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Znani sledilci prstnih odtisov niso blokirani
+    .description = To lahko omogoča nekaterim sledilcem, da vam sledijo brez piškotkov.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Piškotki tretjih strani so omogočeni
+    .description = Piškotki tretjih strani se uporabljajo za sledenje uporabnikom med različnimi spletnimi mesti.
+security-privacy-issue-warning-password-manager =
+    .label = Upravitelj gesel je onemogočen
+    .description = Upravitelji gesel vam omogočajo shraniti močna gesla za prijavo v račune.
+security-privacy-issue-warning-popup-blocker =
+    .label = Blokiranje pojavnih oken je onemogočeno
+    .description = Pojavna okna so moteča in včasih tudi škodljiva.
 security-privacy-issue-warning-extension-install =
     .label = Spletna mesta lahko nameščajo razširitve
     .description = Spletna mesta lahko brez vprašanja namestijo razširitve v { -brand-short-name(sklon: "tozilnik") }.
+security-privacy-issue-warning-safe-browsing =
+    .label = Nevarna in zavajajoča vsebina se ne blokira
+    .description = Izpostavljeni ste spletnim goljufijam in zlonamerni programski opremi.
+security-privacy-issue-warning-doh =
+    .label = DNS prek HTTPS je onemogočen
+    .description = DNS prek HTTPS preprečuje vašemu internetnemu ponudniku, da bi sledil, katere strani obiskujete.
+security-privacy-issue-warning-ech =
+    .label = Encrypted Client Hello je onemogočen
+    .description = Standard "Encrypted Client Hello" preprečuje vašemu internetnemu ponudniku, da bi sledil, katere strani obiskujete.
+security-privacy-issue-warning-proxy-autodetection =
+    .label = Omogočena je samodejna nastavitev posrednika
+    .description = Samodejna nastavitev posrednika lahko omrežjem, ki jim ne zaupate, omogoči spremljanje vaše dejavnosti.

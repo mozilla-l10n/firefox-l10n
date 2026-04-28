@@ -144,6 +144,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } zahteva do
 
 webext-site-perms-header-with-gated-perms-midi = Ta dodatek daje spletnemu mestu { $hostname } dostop do vaših naprav MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Ta dodatek daje spletnemu mestu { $hostname } dostop do vaših naprav MIDI (s podporo za SysEx).
+webext-site-perms-header-with-gated-perms-serial = Ta dodatek daje spletnemu mestu { $hostname } dostop do vaših zaporednih naprav.
 
 ##
 
@@ -154,6 +155,12 @@ webext-site-perms-description-gated-perms-midi =
     To so običajno priključki, kot so zvočni sintetizatorji, lahko pa so tudi vgrajeni v računalnik.
     
     Spletnim mestom dostop do naprav MIDI običajno ni dovoljen. Nepravilna uporaba lahko povzroči škodo ali ogrozi varnost.
+webext-site-perms-description-gated-perms-serial =
+    To so naprave kot mikrokrmilniki, 3D-tiskalniki in druge naprave, ki se povezujejo prek USB ali zaporednih vrat.
+    
+    Izbirali boste lahko, do katerih naprav bo spletno mesto imelo dostop.
+    
+    Spletnim mestom dostop do zaporednih naprav običajno ni dovoljen. Nepravilna uporaba lahko povzroči škodo ali ogrozi varnost.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -168,6 +175,7 @@ webext-site-perms-header-unsigned-with-perms = Želite dodati { $extension }? Ta
 
 webext-site-perms-midi = dostop do naprav MIDI
 webext-site-perms-midi-sysex = dostop do naprav MIDI s podporo SysEx
+webext-site-perms-serial = Dostop do zaporednih naprav
 
 ## Colorway theme migration
 
