@@ -245,6 +245,9 @@ vpn-paused-alert-title = Το VPN είναι σε παύση
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Έχετε χρησιμοποιήσει και τα { $maxUsage } GB των δεδομένων VPN σας. Η πρόσβαση στο VPN θα επιτραπεί ξανά τον επόμενο μήνα.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Έχετε χρησιμοποιήσει και τα { $maxUsage } GB των δεδομένων VPN σας. Η πρόσβαση θα επιτραπεί ξανά τον επόμενο μήνα.
 vpn-error-page-continue-description = Επιλέξτε πώς θα συνεχίσετε χωρίς VPN
 vpn-error-page-keep-browsing = Συνέχεια περιήγησης σε αυτήν τη συνεδρία
 vpn-error-page-new-session = Έναρξη νέας συνεδρίας

@@ -150,6 +150,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Συνδέστε το τηλέφωνό σας
 tab-context-send-to-mobile-device-missing =
     .label = Δεν βλέπετε τη συσκευή σας;
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Δημιουργία κοινόχρηστου συνδέσμου
+    .accesskey = μ
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

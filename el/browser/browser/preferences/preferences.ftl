@@ -2407,7 +2407,10 @@ preferences-doh-header2 =
 ## Connection and software security section
 
 preferences-connection-header =
-    .heading = Ασφάλεια σύνδεσης και λογισμικού
+    .heading = Ασφάλεια συνδέσεων και λογισμικού
+preferences-connection-link-section =
+    .label = Ασφάλεια συνδέσεων και λογισμικού
+    .description = Δείτε πώς παραμένουν ασφαλείς οι συνδέσεις, πώς αποκλείεται το επιβλαβές λογισμικό και πώς επαληθεύονται οι ιστότοποι.
 preferences-connection-link-button =
     .label = Σύνθετες ρυθμίσεις
 
