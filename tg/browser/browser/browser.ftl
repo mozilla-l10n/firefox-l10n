@@ -1679,6 +1679,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] «{ -brand-product-name }» { $count } криптомайнерро иҷозат медиҳад
     }
 trustpanel-cryptominer-tab-list-header = Сомонаҳои зерин фаъолияти криптомайнингро кӯшиш мекунанд:
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Нодида гузарондан
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> воситаи пайгирӣ дар ин сомона манъ шуд

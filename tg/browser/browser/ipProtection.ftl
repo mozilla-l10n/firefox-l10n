@@ -32,6 +32,11 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Не, ташак�
 ipprotection-site-settings-callout-title = Интихоб кунед, ки шумо «VPN»-ро дар куҷо истифода мебаред
 ipprotection-site-settings-callout-button = Фаҳмидам
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Озмоед
+ipprotection-location-selection-callout-secondary-button = Нодида гузарондан
+
 ## Panel
 
 unauthenticated-get-started = Оғози кор
@@ -60,6 +65,16 @@ ipprotection-button-turn-vpn-on = Фаъол кардани «VPN»
 # Button while VPN is connecting
 ipprotection-button-connecting = Фаъол шуда истодааст…
 
+## Location controls
+
+ipprotection-recommended-location-badge = НАВ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Ҷойгиршавӣ: { $country }
+ipprotection-locations-subview =
+    .title = Интихоби ҷойгиршавӣ
+ipprotecion-locations-subview-recommended-label = Тавсияшуда
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = «VPN» таваққуф шуд
@@ -72,6 +87,7 @@ ipprotection-connection-status-generic-error-description = Пас аз чанд 
 ipprotection-connection-status-generic-error-try-again = Лутфан, баъдтар аз нав кӯшиш кунед.
 ipprotection-connection-status-network-error-title = Пайвастшавии Интернети худро тафтиш кунед
 ipprotection-connection-status-blocked-error-title = «VPN» дастнорас аст
+confirmation-hint-ipprotection-navigated-to-excluded-site = «VPN» барои ин сомона ғайрифаъол аст
 
 ## IP Protection Settings
 

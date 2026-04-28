@@ -46,7 +46,7 @@ settings-data-backup-last-backup-location2 =
 settings-data-backup-last-backup-location-show-in-folder = Zobrazit ve složce
 settings-data-backup-last-backup-location-edit = Upravit…
 settings-data-create-backup-error = Při vytváření zálohy dne { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } došlo k chybě
-settings-sensitive-data-encryption-description = Zálohujte svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
+settings-sensitive-data-encryption-description = Zálohujte i svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
 settings-data-toggle-encryption-label2 =
     .label = Zálohovat i citlivá data
     .description = Zazálohujte svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
@@ -79,7 +79,7 @@ settings-data-change-password2 =
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Zapnout zálohování
-turn-on-scheduled-backups-description = { -brand-short-name } vytvoří každých 24 hodin snímek vašich dat. Můžete jej obnovit, pokud se vyskytne problém nebo pokud získáte nové zařízení.
+turn-on-scheduled-backups-description = { -brand-short-name } vytvoří každých 24 hodin snímek vašich dat. Pokud se vyskytne problém nebo si pořídíte nové zařízení, můžete je pak obnovit.
 turn-on-scheduled-backups-support-link = Co se bude zálohovat?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Umístění

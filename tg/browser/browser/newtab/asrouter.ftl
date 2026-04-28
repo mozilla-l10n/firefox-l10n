@@ -436,3 +436,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Ҳамчун пешфарз танзим кардан
 set-default-menu-message-primary-button-variant = Гузоштан ҳамчун браузери асосӣ
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-secondary-button = Нодида гузарондан
+    .accesskey = Н

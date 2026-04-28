@@ -384,6 +384,7 @@ newtab-wallpaper-title = Тасвирҳои замина
 newtab-wallpaper-reset = Ба ҳолати пешфарз барқарор кунед
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Бор кардани тасвир
+newtab-wallpaper-add-an-image = Илова кардани тасвир
 newtab-wallpaper-custom-color = Рангеро интихоб кунед
 newtab-wallpaper-toggle-title =
     .label = Тасвирҳои замина
@@ -411,6 +412,7 @@ newtab-wallpaper-light-fox-anniversary = Рӯбоҳи ҷилодор дар са
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Рангҳои яклухт
+newtab-wallpaper-colors = Рангҳо
 newtab-wallpaper-blue = Кабуд
 newtab-wallpaper-light-blue = Кабуди равшан
 newtab-wallpaper-light-purple = Лоҷуварди равшан

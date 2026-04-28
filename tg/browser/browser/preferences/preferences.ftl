@@ -782,6 +782,15 @@ browsing-cfr-recommendations-learn-more = Маълумоти бештар
 browsing-group =
     .label = Тамошобинӣ
 
+## Accessibility page
+
+preferences-fonts-size =
+    .label = Андозаи ҳуруф
+    .accesskey = А
+preferences-fonts-advanced-settings =
+    .label = Танзимоти иловагӣ
+    .accesskey = Т
+
 ## General Section - Proxy
 
 network-settings-title = Танзимоти шабака
@@ -1067,6 +1076,7 @@ search-edit-engine =
     .label = Таҳрир кардан
     .accesskey = Т
 search-find-more-link = Ёфтани низомҳои ҷустуҷӯии бештар
+search-filtering-for-add-engine = Илова кардани низоми ҷустуҷӯӣ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Калимаи калидии такрорӣ
@@ -1085,6 +1095,9 @@ search-engine-group =
     .label = Низоми ҷустуҷӯии пешфарз
 search-default-engine =
     .aria-label = Низоми ҷустуҷӯии пешфарз
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Ҷустуҷӯ
 
 ## Containers Section
 
