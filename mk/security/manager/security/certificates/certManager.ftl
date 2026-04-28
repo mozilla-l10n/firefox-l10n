@@ -46,6 +46,8 @@ certmgr-email =
     .label = Адреса за е-пошта
 certmgr-serial =
     .label = Сериски број
+certmgr-fingerprint-sha-256 =
+    .label = SHA-256 отпечаток
 certmgr-view =
     .label = Прикажи
     .accesskey = П
@@ -136,6 +138,17 @@ delete-email-cert-impact = Ако избришете нечив сертифик
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = Сертификат со сериски број: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = Не испраќај клиентски сертификат
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (Не е зачувано)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (Недостапнo)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = Траен
+temporary-override = Привремен
 
 ## Add Security Exception dialog
 
