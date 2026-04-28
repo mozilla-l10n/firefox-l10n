@@ -3,8 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crash-reports-title = Извештаи за уривање
+submit-all-button-label = Поднеси сѐ
 delete-button-label = Исчисти сѐ
 delete-confirm-title = Дали сте сигурни?
+delete-unsubmitted-description = Ова ќе ги избрише сите извештаи за уривање што не се поднесени и е неповратна акција.
+delete-submitted-description = Ова ќе го отстрани списокот на поднесените извештаи за уривање, но нема да ги избрише поднесените податоци. Ова е неповратна акција.
 crashes-unsubmitted-label = Неиспратени извештаи за уривање
 id-heading = ID на извештајот
 date-crashed-heading = Датум на уривање
