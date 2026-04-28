@@ -451,7 +451,7 @@ set-default-menu-message-primary-button-variant = Nastaviť ako hlavný prehliad
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 e‑mailových masiek, od nás
-relay-50-masks-announcement-subtitle = Teraz získate 50 masiek zadarmo (pôvodne 5). Použite jednu pre každý účet, aby ste si udržali svoj skutočný e‑mail v súkromí.
+relay-50-masks-announcement-subtitle = Teraz získate 50 masiek zadarmo (pôvodne 5). Použite jednu pre každý účet, aby ste si udržali svoj skutočný e‑mail v súkromí.
 relay-50-masks-announcement-primary-button = Prejsť na { -relay-brand-name }
     .accesskey = P
 relay-50-masks-announcement-secondary-button = Zavrieť

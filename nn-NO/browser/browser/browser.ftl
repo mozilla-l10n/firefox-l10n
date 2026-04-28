@@ -1040,6 +1040,9 @@ urlbar-view-context-menu-open-in-container-tab =
 urlbar-view-context-menu-open-in-window =
     .label = Opne i nytt vindauge
     .accesskey = n
+urlbar-view-context-menu-open-in-private-window =
+    .label = Opne i nytt privat vindauge
+    .accesskey = p
 
 ## Labels shown above groups of urlbar results
 
@@ -1720,6 +1723,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Desse nettstadane prøvar å drive kryptomining:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Har du ein konto på denne nettstaden?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } har oppdaga at denne nettstaden hadde ein datalekkasje dei siste 12 månadane. Finn ut om du vart ramma.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignorer
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Start gratis skanning
 trustpanel-blocker-section-header2 =
@@ -1730,5 +1734,7 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Ser nettstaden øydelagt ut?</strong> Last sida på nytt for mellombels å redusere sporingsvernet.
 reduced-protection-infobar-reload-button = Last på nytt
     .accesskey = L

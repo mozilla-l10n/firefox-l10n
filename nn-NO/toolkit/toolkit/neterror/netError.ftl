@@ -199,6 +199,7 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> sende tilbake
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Serveren på <strong>{ $hostname }</strong> returnerte ein feil: { $responsestatus } { $responsestatustext }
+fp-neterror-content-encoding-intro = Nettsida du prøver å vise kan ikkje visast fordi ho brukar ei ugyldig eller ustøtta form for komprimering.
 fp-neterror-coop-coep-intro = { -brand-short-name } lasta ikkje inn denne sida fordi det ser ut til at tryggingskonfigurasjonen ikkje samsvarer med den førre sida.
 fp-neterror-blocked-by-policy-intro = Organisasjonen din har blokkert tilgang til denne sida eller nettstaden.
 fp-neterror-http-auth-disabled-intro = Nokon som gir seg ut for å vere nettstaden kan prøve å stele ting som brukarnamn, passord eller e-post.
