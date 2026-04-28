@@ -88,6 +88,7 @@ experimental-features-newtab-widget-picture-of-the-day =
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Ρολόγια
+experimental-features-newtab-widget-clocks-description = Προσθέστε έως και τέσσερα ρολόγια με προσαρμοσμένα ψευδώνυμα για να παρακολουθείτε την ώρα σε μέρη που σας ενδιαφέρουν. <a data-l10n-name="connect">Αποστολή σχολίων</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Εννοιολογική αναζήτηση ιστορικού

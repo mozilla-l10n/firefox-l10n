@@ -618,9 +618,17 @@ newtab-section-unblock-button = Άρση φραγής
 newtab-section-follow-topic =
     .aria-label = Παρακολούθηση του «{ $topic }»
 # Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Διακοπή παρακολούθησης του «{ $topic }»
+# Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
     .aria-label = Αποκλεισμός του «{ $topic }»
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Άρση αποκλεισμού του «{ $topic }»
 
 ## Confirmation modal for blocking a section
 

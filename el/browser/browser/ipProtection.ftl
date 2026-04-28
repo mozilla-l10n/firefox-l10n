@@ -62,6 +62,7 @@ unauthenticated-hide-location-message-2 = Αποκρύψτε την τοποθε
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Λάβετε { $maxUsage } GB δωρεάν VPN κάθε μήνα.
 unauthenticated-get-started = Έναρξη
+unauthenticated-terms-of-service-privacy-notice = Συνεχίζοντας, συμφωνείτε με τους <a data-l10n-name="vpn-terms-of-service">Όρους υπηρεσίας</a> και τη <a data-l10n-name="vpn-privacy-notice">Σημείωση απορρήτου</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Χρήση VPN για αυτόν τον ιστότοπο
     .aria-label = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
