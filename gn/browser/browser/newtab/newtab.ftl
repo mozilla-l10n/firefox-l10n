@@ -666,6 +666,7 @@ newtab-new-user-custom-wallpaper-cta = Eiporu ko’ág̃a
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Mba’erechaha rugua pyahu og̃uahẽramóva
+newtab-wallpaper-feature-highlight-subtitle = Eiporavo ehayhuvéva ha ajapo peteĩteĩva tendayke pyahu nemoñandúta nde rogapeguáicha.
 newtab-wallpaper-feature-highlight-cta = Eiporavo mba’erechaha rugua
 
 ## Strings for download mobile highlight
