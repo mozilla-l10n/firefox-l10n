@@ -199,6 +199,9 @@ fp-neterror-http-error-page-intro = Το <strong>{ $hostname }</strong> επέσ
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Ο διακομιστής στο <strong>{ $hostname }</strong> επέστρεψε σφάλμα: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = Το <strong>{ $hostname }</strong> επέστρεψε μια κεφαλίδα με κενούς χαρακτήρες που δεν επιτρέπονται από τα πρότυπα ασφαλείας ιστού.
 fp-neterror-content-encoding-intro = Η σελίδα που προσπαθείτε να δείτε δεν μπορεί να εμφανιστεί επειδή χρησιμοποιεί μια  μη έγκυρη ή μη υποστηριζόμενη μορφή συμπίεσης. Επικοινωνήστε με τους ιδιοκτήτες της ιστοσελίδας για να τους πληροφορήσετε για το πρόβλημα.
 fp-neterror-coop-coep-intro = Το { -brand-short-name } δεν φόρτωσε αυτήν τη σελίδα, επειδή φαίνεται ότι οι ρυθμίσεις ασφαλείας δεν συμφωνούν με την προηγούμενη σελίδα.
 fp-neterror-blocked-by-policy-intro = Η εταιρεία σας έχει αποκλείσει την πρόσβαση σε αυτήν τη σελίδα ή τον ιστότοπο.

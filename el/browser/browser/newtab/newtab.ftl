@@ -654,6 +654,7 @@ newtab-new-user-custom-wallpaper-cta = Δοκιμή τώρα
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = Μόλις κατέφτασαν νέες ταπετσαρίες
 newtab-wallpaper-feature-highlight-cta = Επιλογή ταπετσαρίας
 
 ## Strings for download mobile highlight

@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Προσαρμόστε την περιήγησή σας
 experimental-features-group-productivity =
     .label = Παραγωγικότητα
+experimental-features-group-newtab-widgets =
+    .label = Γραφικά στοιχεία στην { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Κωδικοί πρόσβασης στην πλαϊνή γραμμή
