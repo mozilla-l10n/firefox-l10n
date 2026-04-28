@@ -28,3 +28,15 @@ experimental-features-group-productivity =
 # Link Previews with AI
 experimental-features-link-previews =
     .label = Հղումների նախադիտումներ
+
+## New Tab Productivity Widgets
+
+experimental-features-newtab-widget-lists-description = Նոր ներդիր բացելիս ձեր անելիքների ցանկը պահեք ձեր մտքում։ Փաթեթավորման ցուցակներից մինչև գնումների ցուցակներ, կազմեք ձեր ծրագրերը { -brand-product-name }-ում։ <a data-l10n-name="connect">Կիսվեք ձեր կարծիքով</a>
+# Lists and Timer Widget (Combined)
+experimental-features-newtab-widget-lists-and-timer =
+    .label = Ցուցակներ և ժամանակաչափ { -firefox-home-brand-name }-ում
+experimental-features-newtab-widget-lists-and-timer-description = Նոր ներդիր բացելիս ձեր անելիքների ցանկը պահեք ձեր մտքում։ Փաթեթավորման ցուցակներից մինչև գնումների ցուցակներ, կազմեք ձեր ծրագրերը { -brand-product-name }-ում։ Սահմանեք ժամանակաչափ՝ կենտրոնացած մնալու, ուղղորդելու կամ լիցքավորվելու հիշեցնելու համար։ <a data-l10n-name="connect">Կիսվեք ձեր կարծիքով</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = Ներդիրային նշումներ
+experimental-features-tab-notes-description = Ներդիրների նշումները փորձարարական գործառույթ են, որը թույլ է տալիս կպչուն նշումներ ավելացնել ձեր դիտարկիչի ներդիրներին: Գրեք համատեքստը, հիշեցումները կամ հաջորդ քայլերը, որպեսզի կարողանաք վերադառնալ և հիշել, թե ինչու եք այն բացել: Մենք կցանկանայինք իմանալ ձեր կարծիքը, քանի որ մենք շարունակում ենք կատարելագործել այս գործառույթը: <a data-l10n-name="connect">Կիսվեք ձեր կարծիքով</a>
