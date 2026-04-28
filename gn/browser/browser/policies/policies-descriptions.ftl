@@ -37,6 +37,7 @@ policy-Containers = Eheka porureko ojokupytýva mba’eryru ndive.
 policy-DisableAccounts = Eipe’a umi mba’eporu mba’etegua, oikehápe ñembojuehe.
 policy-DisabledCiphers = Embogue papapy.
 policy-DefaultDownloadDirectory = Emoha’eño marandurenda mboguejerã ijypykuéva.
+policy-DefaultSerialGuardSetting = Ehecha API Hysýiva jeporu.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
 policy-DisableBuiltinPDFViewer = Eipe’aite PDF.js, PDF jehechaha oĩva { -brand-short-name } ndive.
 policy-DisableDefaultBrowserAgent = Omboyke pe kundahára ijypyguáva oñepyrũvo hembiapo. Kóva ojokupyty Windows ndive añoite; ambue plataforma ndorekói hesegua.
