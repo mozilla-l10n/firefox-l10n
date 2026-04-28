@@ -602,6 +602,10 @@ newtab-section-follow-button-label =
     .aria-label = Παρακολούθηση του «{ $topic }»
 newtab-section-following-button = Ακολουθείται
 newtab-section-unfollow-button = Άρση παρακολούθησης
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Ακολουθείτε: Διακοπή παρακολούθησης του «{ $topic }»
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Βελτιστοποιήστε τη ροή σας
 newtab-section-follow-highlight-subtitle = Ακολουθήστε τα ενδιαφέροντά σας για να δείτε περισσότερα από αυτά που σας αρέσουν.
@@ -663,6 +667,7 @@ newtab-new-user-custom-wallpaper-cta = Δοκιμή τώρα
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Μόλις κατέφτασαν νέες ταπετσαρίες
+newtab-wallpaper-feature-highlight-subtitle = Επιλέξτε την αγαπημένη σας και κάντε κάθε νέα καρτέλα σαν το σπίτι σας.
 newtab-wallpaper-feature-highlight-cta = Επιλογή ταπετσαρίας
 
 ## Strings for download mobile highlight
