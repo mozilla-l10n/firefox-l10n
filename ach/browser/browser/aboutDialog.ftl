@@ -38,8 +38,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } tye ka keto ngec man
 aboutdialog-update-manual-with-link = Ngec manyen nonge i <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ngec manyen nonge i <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Pe i twero mede ki keto ngec manyen i nyonyo man. <label data-l10n-name="unsupported-link">Nong ngec mapol</label>
+settings-update-unsupported = Pe i twero mede ki keto ngec manyen i nyonyo man. <a data-l10n-name="unsupported-link">Nong ngec mapol</a>
 update-restarting = Tye ka cake odoco...
+settings-update-restarting =
+    .label = Tye ka cake odoco...
 update-internal-error2 = Roto ngec manyen pe otwere pi bal ma iyie. Ngec manyen nonge i <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Roto ngec manyen pe otwere pi bal ma iyie. Ngec manyen nonge i <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
