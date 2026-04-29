@@ -1082,6 +1082,9 @@ fullscreen-warning-no-domain = 此文档已进入全屏模式
 fullscreen-exit-button = 退出全屏模式 (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = 退出全屏模式 (esc)
+fullscreen-keyboardlock-exit-button = 退出全屏（长按 Esc）
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = 退出全屏（长按 Esc）
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1607,4 +1610,11 @@ trustpanel-fingerprinter-list-header = 这些网站正试图跟踪您的数字�
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } 已拦截 { $count } 个加密货币挖矿程序
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } 已允许 { $count } 个加密货币挖矿程序
 trustpanel-cryptominer-tab-list-header = 这些网站正试图挖掘加密货币：
+trustpanel-breachalerts-anonymous-breached-button-dismiss = 知道了
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = 开始免费扫描
 trustpanel-blocker-section-header2 = 已在此网站上拦截 <span data-l10n-name="count">{ $count }</span> 个跟踪器
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = 重新加载
+    .accesskey = R

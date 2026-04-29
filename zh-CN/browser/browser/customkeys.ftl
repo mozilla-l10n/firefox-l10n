@@ -13,6 +13,7 @@ customkeys-reset-all = 将所有快捷键重置为默认设置
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = 此键已分配给“{ $conflict }”。要替换它吗？
 customkeys-reset-all-confirm = 您确定要将所有键盘快捷键重置为默认设置吗？
+customkeys-file-duplicate-tab = 克隆标签页
 customkeys-history-reopen-tab = 重新打开上次关闭的标签页
 customkeys-history-reopen-window = 重新打开上次关闭的窗口
 customkeys-sidebar-toggle = 打开/关闭侧栏
