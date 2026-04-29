@@ -12,6 +12,8 @@ update-updateButton =
     .label = Start på nytt for å oppdatere { -brand-shorter-name }
     .accesskey = S
 update-checkingForUpdates = Ser etter oppdateringar…
+settings-update-checking-for-updates =
+    .label = Ser etter oppdateringar…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
