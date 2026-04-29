@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = დ
 confirm-browser-language-change-description = გაუშვით { -brand-short-name } ხელახლა ცვლილებების ასახვისთვის
 confirm-browser-language-change-button = მიღება და ხელახლა გაშვება
+browser-language-install-error =
+    .message = { -brand-short-name } ახლა ვერ ახერხებს თქვენი ენების განახლებას. გადაამოწმეთ, ხართ თუ არა ინტერნეტთან დაკავშირებული და სცადეთ ხელახლა.
 translate-web-pages =
     .label = ვებშიგთავსის გადათარგმნა
     .accesskey = გ
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = როგორ მოეპყრას { -brand-short-name } დანარჩენ ფაილებს?
 applications-save-for-new-types =
@@ -712,6 +714,9 @@ update-in-progress-ok-button = &უარყოფა
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1436,7 @@ forms-ask-to-save-logins =
     .label = საიტებზე შესვლის მონაცემების დამახსოვრების მოთხოვნა
     .accesskey = შ
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1537,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ვრცლად
 forms-windows-sso-desc = ანგარიშების მართვა, მოწყობილობის პარამეტრებიდან
 windows-passkey-settings-label = საშვების მართვა სისტემის პარამეტრებში
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
