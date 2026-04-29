@@ -429,6 +429,9 @@ update-application-description = Hoia { -brand-short-name } värske, et saada os
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versioon { $version } <a data-l10n-name="learn-more">Uuendused</a>
+update-history-2 =
+    .label = Näita uuenduste ajalugu
+    .accesskey = N
 update-history =
     .label = Näita uuenduste ajalugu…
     .accesskey = N
@@ -445,6 +448,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Uuendatakse siis, kui { -brand-short-name } ei tööta
     .accesskey = k
+update-application-warning-cross-user-setting-2 =
+    .message = See säte rakendub kõigile Windowsi kontodele ja { -brand-short-name }i profiilidele, mis kasutavad seda { -brand-short-name }i paigaldust.
 update-application-warning-cross-user-setting = See säte rakendub kõigile Windowsi kontodele ja { -brand-short-name }i profiilidele, mis kasutavad seda { -brand-short-name }i paigaldust.
 update-application-use-service =
     .label = Uuenduste paigaldamiseks kasutatakse taustateenust
