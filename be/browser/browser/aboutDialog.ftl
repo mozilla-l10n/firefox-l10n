@@ -18,6 +18,8 @@ update-checkingForUpdates = Праверка існавання абнаўлен
 
 settings-update-downloading = <img data-l10n-name="icon"/>Сцягваецца абнаўленне — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Сцягваецца абнаўленне — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Сцягваецца абнаўленне — { $transfer }
 
 ##
 
@@ -26,9 +28,17 @@ update-failed = Няўдача абнаўлення. <label data-l10n-name="fail
 update-failed-main = Няўдача абнаўлення. <a data-l10n-name="failed-link-main">Сцягнуць апошнюю версію</a>
 update-adminDisabled = Абнаўленні забаронены вашым сістэмным адміністратарам
 update-policy-disabled = Абнаўленні адключаны вашай арганізацыяй
+settings-update-policy-disabled =
+    .label = Абнаўленні адключаны вашай арганізацыяй
 update-noUpdatesFound = { -brand-short-name } абноўлены
+settings-update-no-updates-found =
+    .label = { -brand-short-name } абноўлены
 aboutdialog-update-checking-failed = Не ўдалося праверыць наяўнасць абнаўленняў.
+settings-update-checking-failed =
+    .label = Не ўдалося праверыць наяўнасць абнаўленняў.
 update-otherInstanceHandlingUpdates = { -brand-short-name } абнаўляецца іншым асобнікам
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } абнаўляецца іншым асобнікам
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,6 +46,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } абнаўляецц
 aboutdialog-update-manual-with-link = Абнаўленні даступныя на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Абнаўленні даступныя на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Вы не можаце працягнуць абнаўленне на гэтай сістэме. <label data-l10n-name="unsupported-link">Падрабязней</label>
+settings-update-unsupported = Вы не можаце працягнуць абнаўленне на гэтай сістэме. <a data-l10n-name="unsupported-link">Падрабязней</a>
 update-restarting = Перазапуск…
 update-internal-error2 = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
