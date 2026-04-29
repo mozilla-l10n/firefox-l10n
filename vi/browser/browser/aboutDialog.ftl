@@ -33,6 +33,8 @@ settings-update-no-updates-found =
     .label = { -brand-short-name } đã được cập nhật
 aboutdialog-update-checking-failed = Không thể kiểm tra bản cập nhật.
 update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập nhật bởi tiến trình khác
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } đang được cập nhật bởi tiến trình khác
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
