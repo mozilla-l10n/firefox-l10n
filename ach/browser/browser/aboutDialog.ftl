@@ -24,11 +24,17 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Tye kaketo ngec manyen…
+settings-update-applying =
+    .label = Tye kaketo ngec manyen…
 update-failed = Keto ngec manyen pe olare. <label data-l10n-name="failed-link">Gam kite manyen loyo</label>
 update-failed-main = Keto ngec manyen pe olare. <a data-l10n-name="failed-link-main">Gam kite manyen loyo</a>
 update-adminDisabled = Ngat ma loyo nyonyo ni ojuko ngec manyen woko
 update-policy-disabled = Dul mamegi ojuko woko keto ngec manyen
+settings-update-policy-disabled =
+    .label = Dul mamegi ojuko woko keto ngec manyen
 update-noUpdatesFound = { -brand-short-name } tye kakare
+settings-update-no-updates-found =
+    .label = { -brand-short-name } tye kakare
 aboutdialog-update-checking-failed = Roto ngec manyen pe otwere.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tye ka keto ngec manyen ki ka mukene
 
