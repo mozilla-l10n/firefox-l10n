@@ -20,10 +20,14 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>Đang tải xuống bản cập nhật — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Đang tải xuống bản cập nhật — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Đang tải xuống bản cập nhật — { $transfer }
 
 ##
 
 update-applying = Đang cài đặt bản cập nhật…
+settings-update-applying =
+    .label = Đang cài đặt bản cập nhật…
 update-failed = Cập nhật thất bại. <label data-l10n-name="failed-link">Tải phiên bản mới nhất</label>
 update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-main">Tải phiên bản mới nhất</a>
 update-adminDisabled = Cập nhật bị vô hiệu hóa bởi quản trị hệ thống
