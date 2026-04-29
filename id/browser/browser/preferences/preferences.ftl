@@ -510,6 +510,9 @@ update-application-description = Pastikan { -brand-short-name } selalu mutakhir 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versi { $version } <a data-l10n-name="learn-more">Yang baru</a>
+update-history-2 =
+    .label = Tampilkan Riwayat Pemutakhiran
+    .accesskey = P
 update-history =
     .label = Tampilkan Riwayat Pemutakhiran…
     .accesskey = P
