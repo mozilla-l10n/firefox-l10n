@@ -466,6 +466,9 @@ browser-language-heading =
     .description = בחירת השפות בהן ייעשה שימוש להצגת תפריטים, הודעות והתרעות מ־{ -brand-short-name }.
 browser-language-preferred-label =
     .label = שפה מועדפת
+browser-language-fallback-label =
+    .label = שפה חלופית
+    .description = בשימוש כאשר התרגום לשפה המועדפת לוקה בחסר.
 browser-language-install-error =
     .message = ל־{ -brand-short-name } אין אפשרות לעדכן את השפות שלך כרגע. נא לבדוק שקיים חיבור לאינטרנט ולנסות שוב.
 translate-web-pages =
@@ -685,6 +688,8 @@ update-application-version = גרסה { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = הצגת היסטוריית עדכונים
     .accesskey = ה
+update-application-installation =
+    .label = התקנה
 update-history =
     .label = הצגת היסטוריית עדכונים…
     .accesskey = ה
@@ -725,6 +730,16 @@ update-in-progress-ok-button = &ביטול
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &המשך
+
+## Firefox updates
+
+update-application-heading =
+    .label = עדכוני { -brand-short-name }
+    .description = עדכונים משפרים את המהירות, היציבות והאבטחה של { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = התרעות
+update-application-updates-managed-by-os =
+    .message = העדכונים מנוהלים על־ידי מערכת ההפעלה שלך
 
 ## Firefox support
 
