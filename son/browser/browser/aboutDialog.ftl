@@ -17,14 +17,20 @@ update-checkingForUpdates = Taagandirey ceeci…
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Taagandiri goo ma zumandi — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Taagandiri goo ma zumandi — { $transfer }
 
 ##
 
 update-applying = Taagandiri kanandi…
+settings-update-applying =
+    .label = Taagandiri kanandi…
 update-failed = Taagandiri kay. <label data-l10n-name="failed-link">Dumi kokorantaa zumandi</label>
 update-failed-main = Taagandiri kay. <a data-l10n-name="failed-link-main">Dumi kokorantaa zumandi</a>
 update-adminDisabled = War juwalkaa na taagandirey kayandi
 update-noUpdatesFound = { -brand-short-name } n' ka taagandi
+settings-update-no-updates-found =
+    .label = { -brand-short-name } n' ka taagandi
 update-otherInstanceHandlingUpdates = Jinay tana foo goo ma { -brand-short-name } taagandi
 
 ## Variables:
