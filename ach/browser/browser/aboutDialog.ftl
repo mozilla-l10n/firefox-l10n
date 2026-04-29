@@ -36,7 +36,11 @@ update-noUpdatesFound = { -brand-short-name } tye kakare
 settings-update-no-updates-found =
     .label = { -brand-short-name } tye kakare
 aboutdialog-update-checking-failed = Roto ngec manyen pe otwere.
+settings-update-checking-failed =
+    .label = Roto ngec manyen pe otwere.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tye ka keto ngec manyen ki ka mukene
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } tye ka keto ngec manyen ki ka mukene
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
