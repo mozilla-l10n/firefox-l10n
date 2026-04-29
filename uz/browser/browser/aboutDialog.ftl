@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } yangilanishi uchun qayta ishga tushiring
     .accesskey = R
 update-checkingForUpdates = Yangilanishlar uchun tekshirish...
+settings-update-checking-for-updates =
+    .label = Yangilanishlar uchun tekshirish...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -24,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Yangilanish qoʻllanilmoqda…
+settings-update-applying =
+    .label = Yangilanish qoʻllanilmoqda…
 update-failed = Yangilab bo‘lmadi.<label data-l10n-name="failed-link">So‘nggi versiyani yuklab olish</label>
 update-failed-main = Yangilanmadi.<a data-l10n-name="failed-link-main">Soʻnggi versiyani yuklab olish</a>
 update-adminDisabled = Yangilanishlar tizimingiz administratori tomonidan oʻchirib qoʻyilgan
