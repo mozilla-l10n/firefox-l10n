@@ -28,10 +28,14 @@ update-failed = Cập nhật thất bại. <label data-l10n-name="failed-link">T
 update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-main">Tải phiên bản mới nhất</a>
 update-adminDisabled = Cập nhật bị vô hiệu hóa bởi quản trị hệ thống
 update-policy-disabled = Cập nhật bị vô hiệu hoá bởi tổ chức của bạn
+settings-update-policy-disabled =
+    .label = Cập nhật bị vô hiệu hoá bởi tổ chức của bạn
 update-noUpdatesFound = { -brand-short-name } đã được cập nhật
 settings-update-no-updates-found =
     .label = { -brand-short-name } đã được cập nhật
 aboutdialog-update-checking-failed = Không thể kiểm tra bản cập nhật.
+settings-update-checking-failed =
+    .label = Không thể kiểm tra bản cập nhật.
 update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập nhật bởi tiến trình khác
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } đang được cập nhật bởi tiến trình khác
