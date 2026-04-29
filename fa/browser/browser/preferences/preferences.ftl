@@ -383,6 +383,9 @@ update-application-description = برای تجربهٔ بهترین کارایی
 # Variables:
 # $version (string) - Firefox version
 update-application-version = نسخه{ $version } <a data-l10n-name="learn-more">امکانات جدید</a>
+update-history-2 =
+    .label = نمایش تاریخچهٔ بروزرسانی
+    .accesskey = ت
 update-history =
     .label = نمایش تاریخچهٔ بروزرسانی…
     .accesskey = ت
