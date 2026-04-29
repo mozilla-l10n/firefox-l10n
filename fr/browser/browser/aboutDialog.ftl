@@ -12,16 +12,22 @@ update-updateButton =
     .label = Redémarrer pour mettre à jour { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Recherche de mises à jour…
+settings-update-checking-for-updates =
+    .label = Recherche de mises à jour…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Téléchargement de la mise à jour — { $transfer }
 
 ##
 
 update-applying = Application de la mise à jour…
+settings-update-applying =
+    .label = Application de la mise à jour…
 update-failed = La mise à jour a échoué. <label data-l10n-name="failed-link">Télécharger la dernière version</label>
 update-failed-main = La mise à jour a échoué. <a data-l10n-name="failed-link-main">Télécharger la dernière version</a>
 update-adminDisabled = Les mises à jour sont désactivées par votre administrateur système
