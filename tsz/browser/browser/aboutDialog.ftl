@@ -8,6 +8,8 @@ update-checkForUpdatesButton =
     .label = Jimpanki ampe jirhinhant'ani
     .accesskey = J
 update-checkingForUpdates = Jimpanhe ampe jirhinhantaxati…
+settings-update-checking-for-updates =
+    .label = Jimpanhe ampe jirhinhantaxati…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
