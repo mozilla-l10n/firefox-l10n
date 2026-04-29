@@ -674,6 +674,9 @@ update-application-description = Pidä { -brand-short-name } ajan tasalla parhaa
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Mitä uutta</a>
+update-history-2 =
+    .label = Näytä päivityshistoria
+    .accesskey = N
 update-history =
     .label = Näytä päivityshistoria…
     .accesskey = N
