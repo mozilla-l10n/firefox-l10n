@@ -32,7 +32,11 @@ update-failed = Eguneraketak huts egin du.<label data-l10n-name="failed-link">De
 update-failed-main = Eguneraketak huts egin du.<a data-l10n-name="failed-link-main">Deskargatu azken bertsioa</a>
 update-adminDisabled = Eguneraketak desgaitu ditu sistemaren administratzaileak
 update-policy-disabled = Eguneraketak desgaitu ditu zure erakundeak
+settings-update-policy-disabled =
+    .label = Eguneraketak desgaitu ditu zure erakundeak
 update-noUpdatesFound = { -brand-short-name } eguneratuta dago
+settings-update-no-updates-found =
+    .label = { -brand-short-name } eguneratuta dago
 aboutdialog-update-checking-failed = Huts egin du eguneraketak bilatzean.
 settings-update-checking-failed =
     .label = Huts egin du eguneraketak bilatzean.
