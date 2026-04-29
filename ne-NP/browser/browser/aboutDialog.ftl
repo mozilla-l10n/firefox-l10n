@@ -32,9 +32,17 @@ update-failed = अद्यावधिक असफल भयो। <label dat
 update-failed-main = अद्यावधिक असफल भयो। <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड गर्नुहोस्</a>
 update-adminDisabled = तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू असक्षम पारिएको छ
 update-policy-disabled = तपाईंको संगठनद्वारा अद्यावधिकहरू असक्षम गरिएको छ
+settings-update-policy-disabled =
+    .label = तपाईंको संगठनद्वारा अद्यावधिकहरू असक्षम गरिएको छ
 update-noUpdatesFound = { -brand-short-name } नयाँ संस्करणमा छ
+settings-update-no-updates-found =
+    .label = { -brand-short-name } नयाँ संस्करणमा छ
 aboutdialog-update-checking-failed = अद्यावधिकहरूको लागि जाँच गर्न असफल भयो।
+settings-update-checking-failed =
+    .label = अद्यावधिकहरूको लागि जाँच गर्न असफल भयो।
 update-otherInstanceHandlingUpdates = { -brand-short-name } लाई अर्को सत्रले अद्यावधिक गर्दैछ
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } लाई अर्को सत्रले अद्यावधिक गर्दैछ
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
