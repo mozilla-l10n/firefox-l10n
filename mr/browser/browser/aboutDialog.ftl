@@ -36,7 +36,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } यावेळी �
 aboutdialog-update-manual-with-link = सुधारणा येथे उपलब्ध आहेत <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = सुधारणा येथे उपलब्ध आहेत <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = आपण या सिस्टीमवर आणखी सुधारणा करू शकत नाही. <label data-l10n-name="unsupported-link">अधिक जाणा</label>
+settings-update-unsupported = आपण या सिस्टीमवर आणखी सुधारणा करू शकत नाही. <a data-l10n-name="unsupported-link">अधिक जाणा</a>
 update-restarting = पुनःसुरु होत आहे…
+settings-update-restarting =
+    .label = पुनःसुरु होत आहे…
 
 ##
 
