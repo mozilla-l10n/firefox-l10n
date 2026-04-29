@@ -12,12 +12,16 @@ update-updateButton =
     .label = Herstarten om { -brand-shorter-name } bij te werken
     .accesskey = H
 update-checkingForUpdates = Controleren op updates…
+settings-update-checking-for-updates =
+    .label = Controleren op updates…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Update downloaden – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Update downloaden – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Update downloaden – { $transfer }
 
 ##
 
