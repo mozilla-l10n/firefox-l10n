@@ -459,6 +459,9 @@ update-application-description = بہترین کارکردگی، استحکام 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ورژن { $version } <a data-l10n-name="learn-more"> نواں کیا ہے </a>
+update-history-2 =
+    .label = اپ ڈیٹ تاریخ ݙکھاؤ{ " " }
+    .accesskey = p
 update-history =
     .label = اپ ڈیٹ تاریخ ݙکھاؤ …
     .accesskey = p
@@ -475,6 +478,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = جݙاں { -brand-short-name } نہیں چلدا پیا۔
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = ایہ ترتیب تمام Windows اکاؤنٹس اتے { -brand-short-name } پروفائلز تے لاگو تھیسے جیڑھے { -brand-short-name } دی ایں انسٹالیشن دا استعمال کریندے پئے ہن۔
 update-application-warning-cross-user-setting = ایہ ترتیب تمام Windows اکاؤنٹس اتے { -brand-short-name } پروفائلز تے لاگو تھیسے جیڑھے { -brand-short-name } دی ایں انسٹالیشن دا استعمال کریندے پئے ہن۔
 update-application-use-service =
     .label = اپ ڈیٹس انسٹال کرݨ کیتے بیک گراؤنڈ سروس استعمال کرو۔
