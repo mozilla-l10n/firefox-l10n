@@ -41,6 +41,8 @@ aboutdialog-update-manual-with-link = Actualizaciones disponibles en <label data
 settings-update-manual-with-link = Actualizaciones disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No puedes realizar más actualizaciones en este sistema. <label data-l10n-name="unsupported-link">Más información</label>
 update-restarting = Reiniciando…
+settings-update-restarting =
+    .label = Reiniciando…
 update-internal-error2 = No se pueden buscar actualizaciones debido a un error interno. Actualizaciones disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
