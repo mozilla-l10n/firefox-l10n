@@ -12,21 +12,29 @@ update-updateButton =
     .label = Torra a aviare pro agiornare { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Controllende is atualizatziones…
+settings-update-checking-for-updates =
+    .label = Controllende is atualizatziones…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Iscarrighende atualizatziones — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Carrighende s'atualizatzione — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Iscarrighende atualizatziones — { $transfer }
 
 ##
 
 update-applying = Aplichende s'atualizatzione…
+settings-update-applying =
+    .label = Aplichende s'atualizatzione…
 update-failed = Atualizatzione faddida. <label data-l10n-name="failed-link">Iscàrriga s'ùrtima versione</label>
 update-failed-main = Atualizatzione faddida. <a data-l10n-name="failed-link-main">Iscàrriga s'ùrtima versione</a>
 update-adminDisabled = S'amministradore de su sistema tuo at disativadu is atualizatziones
 update-policy-disabled = Atualizatziones disativadas dae s'organizatzione tua
 update-noUpdatesFound = { -brand-short-name } est atualizadu
+settings-update-no-updates-found =
+    .label = { -brand-short-name } est atualizadu
 aboutdialog-update-checking-failed = Faddina in su controllu de atualizatziones.
 update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -brand-short-name }
 
