@@ -12,6 +12,8 @@ update-updateButton =
     .label = Restartigu por ĝisdatigi { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Kontroli ĉu estas ĝisdatigoj…
+settings-update-checking-for-updates =
+    .label = Kontroli ĉu estas ĝisdatigoj…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
