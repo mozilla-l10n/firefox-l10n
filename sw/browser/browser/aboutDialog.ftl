@@ -38,6 +38,8 @@ settings-update-manual-with-link = Visasisho vinapatikana kwa<a data-l10n-name="
 update-unsupported = Huwezi kutekeleza visasisho zaidi kwenye mfumo huu.<label data-l10n-name="unsupported-link">Jifunze zaidi</label>
 settings-update-unsupported = Huwezi kutekeleza visasisho zaidi kwenye mfumo huu.<a data-l10n-name="unsupported-link">Jifunze zaidi</a>
 update-restarting = Inaanzishwa tena
+settings-update-restarting =
+    .label = Inaanzishwa tena
 
 ##
 
