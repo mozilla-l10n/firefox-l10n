@@ -12,6 +12,8 @@ update-updateButton =
     .label = Genstart for at opdatere { -brand-shorter-name }
     .accesskey = G
 update-checkingForUpdates = Søger efter opdateringer…
+settings-update-checking-for-updates =
+    .label = Søger efter opdateringer…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
