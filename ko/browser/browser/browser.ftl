@@ -421,6 +421,12 @@ quickactions-cmd-inspector = 검사기, 개발자 도구, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 비밀번호 관리
 quickactions-cmd-logins = 로그인, 비밀번호, logins, passwords
+# Mutes all tabs playing audio
+quickactions-mute = 오디오를 재생하는 탭 음소거
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = mute, shush, sssssh, 음소거
 # Opens about:addons page in the plugins section
 quickactions-plugins = 플러그인 관리
 quickactions-cmd-plugins = 플러그인, plugins

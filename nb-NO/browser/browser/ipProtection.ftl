@@ -32,6 +32,8 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = På offentlig Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom 5 steder for å skjule hvor du surfer.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra beskyttelse ved å skjule plasseringen din, også på offentlig Wi-Fi.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nå

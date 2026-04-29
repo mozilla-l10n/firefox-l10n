@@ -22,8 +22,8 @@ crashed-subframe-submit =
 #   $reportCount (Number): the number of pending crash reports
 pending-crash-reports-message =
     { $reportCount ->
-        [one] Gönderilmemiş bir çökme raporunuzu var
-       *[other] Gönderilmemiş { $reportCount } çökme raporunuzu var
+        [one] Gönderilmemiş bir çökme raporunuz var
+       *[other] Gönderilmemiş { $reportCount } çökme raporunuz var
     }
 pending-crash-reports-view-all =
     .label = Göster
@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Bir daha gösterme
     .accesskey = B
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Gönderilmemiş yeni bir çökme raporunuz var
+       *[other] Gönderilmemiş { $reportCount } yeni çökme raporunuz var
+    }

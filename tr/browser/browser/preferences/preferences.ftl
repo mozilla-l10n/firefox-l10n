@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Erişilebilirlik
     .title = { pane-accessibility-title }
+pane-languages-title = Diller
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } Deneyleri
 category-experimental =
     .tooltiptext = { -brand-short-name } Deneyleri
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Dikkatli olun
 pane-experimental-search-results-header = { -brand-short-name } deneyleri: dikkatli olun
 pane-experimental-description2 = Gelişmiş yapılandırma ayarlarını değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Deneysel özelliklerimizi deneyin! Bu özellikler henüz geliştirme aşamasında oldıkları için her an değişebilirler ve { -brand-short-name } uygulamasının çalışma şeklini etkileyebilirler. <a data-l10n-name="data-collection">Teknik verileri ve etkileşim verilerini</a> açtıysanız bu özellikleri kullanımınızla ilgili veri toplayabiliriz.
@@ -679,6 +686,8 @@ update-application-version = Sürüm { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Güncelleme geçmişini göster
     .accesskey = c
+update-application-installation =
+    .label = Kurulum
 update-history =
     .label = Güncelleme geçmişini göster…
     .accesskey = c
@@ -719,6 +728,13 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Bildirimler
+update-application-updates-managed-by-os =
+    .message = Güncellemeler işletim sisteminiz tarafından yönetiliyor
 
 ## Firefox support
 

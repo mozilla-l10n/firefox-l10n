@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = 접근성
     .title = { pane-accessibility-title }
+pane-languages-title = 언어
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } 실험
 category-experimental =
     .tooltiptext = { -brand-short-name } 실험
@@ -77,6 +82,8 @@ pane-experimental-subtitle = 주의해서 사용하세요
 pane-experimental-search-results-header = { -brand-short-name } 실험: 주의해서 사용하세요
 pane-experimental-description2 = 고급 설정을 변경하면 { -brand-short-name }의 성능 또는 보안에 영향을 줄 수 있습니다.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = 실험 기능을 사용해 보세요! 개발 및 진화 중이므로 { -brand-short-name } 작동 방식에 영향을 미칠 수 있습니다. 해당 기능 사용에 관한 데이터는 <a data-l10n-name="data-collection">기술 및 상호 작용 데이터</a>가 켜져 있는 경우에만 수집됩니다.
@@ -448,6 +455,14 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = 변경 내용 적용을 위해 { -brand-short-name } 다시 시작
 confirm-browser-language-change-button = 적용하고 다시 시작
+browser-language-heading =
+    .label = 브라우저 언어
+    .description = { -brand-short-name }에서 메뉴, 메시지 및 알림을 표시하는 데 사용할 언어를 선택하세요.
+browser-language-preferred-label =
+    .label = 선호 언어
+browser-language-fallback-label =
+    .label = 대체 언어
+    .description = 선호하는 언어의 현지화가 완료되지 않은 경우에 사용됩니다.
 browser-language-install-error =
     .message = { -brand-short-name }가 지금 언어를 업데이트할 수 없습니다. 인터넷에 연결되어 있는지 확인하거나 다시 시도하세요.
 translate-web-pages =
@@ -667,6 +682,8 @@ update-application-version = { $version } 버전 <a data-l10n-name="learn-more">
 update-history-2 =
     .label = 업데이트 기록 보기
     .accesskey = p
+update-application-installation =
+    .label = 설치
 update-history =
     .label = 업데이트 기록 보기…
     .accesskey = p
@@ -707,6 +724,16 @@ update-in-progress-ok-button = 버리기(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } 업데이트
+    .description = 업데이트를 통해 { -brand-short-name }의 속도, 안정성 및 보안이 향상됩니다.
+update-application-suppress-prompts-heading =
+    .label = 알림
+update-application-updates-managed-by-os =
+    .message = 운영 체제에서 업데이트를 관리합니다.
 
 ## Firefox support
 

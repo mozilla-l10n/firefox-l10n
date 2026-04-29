@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspektør, utviklerverktøy
 # Opens about:logins
 quickactions-logins2 = Behandle passord
 quickactions-cmd-logins = innlogginger, passord
+# Mutes all tabs playing audio
+quickactions-mute = Demp faner som spiller av lyd
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = demp, stille, tyss, hysj, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Behandle programtillegg
 quickactions-cmd-plugins = programtillegg
@@ -1738,3 +1744,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Ser nettstedet ødelagt ut?</strong> Last siden på nytt for midlertidig å redusere sporingsbeskyttelsen.
 reduced-protection-infobar-reload-button = Last på nytt
     .accesskey = L
+reduced-protection-infobar-never-show-button = Ikke vis igjen
+    .accesskey = v
