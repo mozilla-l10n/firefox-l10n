@@ -525,6 +525,9 @@ update-application-description = Nadograđuj { -brand-short-name } radi najbolji
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Šta je novo</a>
+update-history-2 =
+    .label = Prikaži historijat nadogradnji
+    .accesskey = P
 update-history =
     .label = Prikaži historijat nadogradnji…
     .accesskey = P
@@ -541,6 +544,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Kada { -brand-short-name } ne radi
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = Ova postavka će se primijeniti na sve Windows račune i { -brand-short-name } profile koji koriste ovu instalaciju { -brand-short-name }.
 update-application-warning-cross-user-setting = Ova postavka će se primijeniti na sve Windows račune i { -brand-short-name } profile koji koriste ovu instalaciju { -brand-short-name }.
 update-application-use-service =
     .label = Koristi pozadinski servis za instalaciju nadogradnji
