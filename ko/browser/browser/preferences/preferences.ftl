@@ -448,6 +448,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = 변경 내용 적용을 위해 { -brand-short-name } 다시 시작
 confirm-browser-language-change-button = 적용하고 다시 시작
+browser-language-install-error =
+    .message = { -brand-short-name }가 지금 언어를 업데이트할 수 없습니다. 인터넷에 연결되어 있는지 확인하거나 다시 시도하세요.
 translate-web-pages =
     .label = 웹 콘텐츠 번역하기
     .accesskey = T
@@ -641,7 +643,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name }로 다른 파일 형식은 어떤 작업을 하시겠습니까?
 applications-save-for-new-types =
@@ -700,6 +702,9 @@ update-in-progress-ok-button = 버리기(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1415,7 +1420,7 @@ forms-ask-to-save-logins =
     .label = 웹 사이트의 로그인과 비밀번호를 기억할지 묻기
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1516,6 +1521,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 더 알아보기
 forms-windows-sso-desc = 기기 설정에서 계정 관리를 합니다.
 windows-passkey-settings-label = 시스템 설정에서 패스키 관리
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
