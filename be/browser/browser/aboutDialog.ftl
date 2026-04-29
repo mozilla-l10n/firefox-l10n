@@ -55,6 +55,7 @@ update-restarting = Перазапуск…
 settings-update-restarting =
     .label = Перазапуск…
 update-internal-error2 = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
