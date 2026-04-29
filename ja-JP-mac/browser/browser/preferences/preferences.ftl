@@ -446,6 +446,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = 変更を適用するには、{ -brand-short-name } の再起動が必要です
 confirm-browser-language-change-button = 適用して再起動
+browser-language-install-error =
+    .message = { -brand-short-name } は現在、言語を更新できません。インターネット接続を確認して、もう一回試してください。
 translate-web-pages =
     .label = ウェブページを翻訳
     .accesskey = T
@@ -639,7 +641,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = 他のファイルは { -brand-short-name } でどのように扱いますか？
 applications-save-for-new-types =
@@ -698,6 +700,9 @@ update-in-progress-ok-button = 破棄(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 続行(&C)
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1394,7 +1399,7 @@ forms-ask-to-save-logins =
     .label = ウェブサイトのログイン情報とパスワードを保存するか確認する
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1495,6 +1500,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 詳細情報
 forms-windows-sso-desc = 端末の設定でアカウントを管理します
 windows-passkey-settings-label = システム設定で Passkey を管理します
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
