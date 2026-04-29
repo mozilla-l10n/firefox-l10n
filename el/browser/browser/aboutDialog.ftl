@@ -32,7 +32,11 @@ update-failed = Αποτυχία ενημέρωσης. <label data-l10n-name="fa
 update-failed-main = Αποτυχία ενημέρωσης. <a data-l10n-name="failed-link-main">Λήψη της πιο πρόσφατης έκδοσης</a>
 update-adminDisabled = Οι ενημερώσεις έχουν απενεργοποιηθεί από τον διαχειριστή του συστήματός σας
 update-policy-disabled = Οι ενημερώσεις έχουν απενεργοποιηθεί από τον οργανισμό σας
+settings-update-policy-disabled =
+    .label = Οι ενημερώσεις έχουν απενεργοποιηθεί από τον οργανισμό σας
 update-noUpdatesFound = Το { -brand-short-name } είναι ενημερωμένο
+settings-update-no-updates-found =
+    .label = Το { -brand-short-name } είναι ενημερωμένο
 aboutdialog-update-checking-failed = Ο έλεγχος για ενημερώσεις απέτυχε.
 settings-update-checking-failed =
     .label = Ο έλεγχος για ενημερώσεις απέτυχε.
