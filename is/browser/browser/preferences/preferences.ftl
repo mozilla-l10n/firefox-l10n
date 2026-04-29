@@ -524,6 +524,9 @@ update-application-description = Viðhalda { -brand-short-name } uppfærðum fyr
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Útgáfa { $version } <a data-l10n-name="learn-more">Hvað er nýtt</a>
+update-history-2 =
+    .label = Sýna uppfærslusögu
+    .accesskey = p
 update-history =
     .label = Sýna uppfærslusögu…
     .accesskey = p
