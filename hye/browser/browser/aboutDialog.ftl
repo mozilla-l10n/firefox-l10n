@@ -12,6 +12,8 @@ update-updateButton =
     .label = Վերամեկնարկէք՝ { -brand-shorter-name }-ը թարմացնելու համար
     .accesskey = R
 update-checkingForUpdates = Ստուգուում է թարմացումները
+settings-update-checking-for-updates =
+    .label = Ստուգուում է թարմացումները
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -24,11 +26,17 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Թարմացման կիրառում...
+settings-update-applying =
+    .label = Թարմացման կիրառում...
 update-failed = Թարմացումը չյաջողուեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չյաջողուեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
 update-adminDisabled = Թարմացումներն անջատուած են Ձեր  համակարգավարի կողմից:
 update-noUpdatesFound = { -brand-short-name }-ը թարմացուած է
+settings-update-no-updates-found =
+    .label = { -brand-short-name }-ը թարմացուած է
 update-otherInstanceHandlingUpdates = { -brand-short-name }-ը թարմացուել է այղ աւրինակի կողմից
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name }-ը թարմացուել է այղ աւրինակի կողմից
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
