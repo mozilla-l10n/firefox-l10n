@@ -522,6 +522,9 @@ update-application-description = За най-добра производител
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Издание { $version } <a data-l10n-name="learn-more">Новото в това издание</a>
+update-history-2 =
+    .label = Хронология на обновяванията
+    .accesskey = х
 update-history =
     .label = Хронология на обновяванията…
     .accesskey = х
@@ -538,6 +541,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Когато { -brand-short-name } не е пуснат
     .accesskey = н
+update-application-warning-cross-user-setting-2 =
+    .message = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
 update-application-warning-cross-user-setting = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
 update-application-use-service =
     .label = Използване на услуга във фонов режим за инсталиране на обновявания
