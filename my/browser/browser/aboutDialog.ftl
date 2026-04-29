@@ -18,6 +18,8 @@ update-checkingForUpdates = မွမ်းမံချက် အသစ်ရှ
 
 settings-update-downloading = <img data-l10n-name="icon"/>နောက်ဆုံးပေါ်ပြုပြင်ချက်ကို ရယူနေသည် — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = အပ်ဒိတ်ကို ဒေါင်းလုဒ်လုပ်နေသည် — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = နောက်ဆုံးပေါ်ပြုပြင်ချက်ကို ရယူနေသည် — { $transfer }
 
 ##
 
