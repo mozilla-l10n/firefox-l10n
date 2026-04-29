@@ -5,6 +5,8 @@
 aboutDialog-title =
     .title = Ò programie { -brand-full-name }
 update-checkingForUpdates = Szëkanié za aktualizacjama…
+settings-update-checking-for-updates =
+    .label = Szëkanié za aktualizacjama…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
