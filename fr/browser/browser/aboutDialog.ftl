@@ -34,7 +34,11 @@ update-adminDisabled = Les mises à jour sont désactivées par votre administra
 update-policy-disabled = Mises à jour désactivées par votre organisation
 update-noUpdatesFound = { -brand-short-name } est à jour
 aboutdialog-update-checking-failed = Échec de la vérification des mises à jour.
+settings-update-checking-failed =
+    .label = Échec de la vérification des mises à jour.
 update-otherInstanceHandlingUpdates = { -brand-short-name } est mis à jour par une autre instance
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } est mis à jour par une autre instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
