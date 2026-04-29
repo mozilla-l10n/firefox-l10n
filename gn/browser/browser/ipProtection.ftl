@@ -206,6 +206,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Eguerekovéta ñemo’ã okápee { -brand-short-name }-gui { -mozilla-vpn-brand-name } ndive.
     .description = Eiporavo VPN rendaite mboavapyre ha embojuaju ñemo’ãve tembiporu’ieta po mba’e’oka peve, eimérõ nde rógape térã Wi-Fi ojeporukuaávape.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Eraha ñemo’ã yvateve { -mozilla-vpn-brand-name } ndive
+    .description = Eiporavo 300 tendaite apytégui ha emo’ã opaite ne rembiporu’i 5 mba’e’oka peve.
 
 ## IP Protection dialogs
 
