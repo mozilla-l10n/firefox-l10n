@@ -32,8 +32,14 @@ update-failed = L'actualització ha fallat. <label data-l10n-name="failed-link">
 update-failed-main = L'actualització ha fallat. <a data-l10n-name="failed-link-main">Baixeu la darrera versió</a>
 update-adminDisabled = L'administrador ha inhabilitat les actualitzacions
 update-policy-disabled = L'organització ha inhabilitat les actualitzacions
+settings-update-policy-disabled =
+    .label = L'organització ha inhabilitat les actualitzacions
 update-noUpdatesFound = El { -brand-short-name } està actualitzat
+settings-update-no-updates-found =
+    .label = El { -brand-short-name } està actualitzat
 update-otherInstanceHandlingUpdates = Una altra instància està actualitzant el { -brand-short-name }
+settings-update-other-instance-handling-updates =
+    .label = Una altra instància està actualitzant el { -brand-short-name }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -41,7 +47,10 @@ update-otherInstanceHandlingUpdates = Una altra instància està actualitzant el
 aboutdialog-update-manual-with-link = Hi ha actualitzacions disponibles a <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Hi ha actualitzacions disponibles a <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No podeu actualitzar en este sistema. <label data-l10n-name="unsupported-link">Més informació</label>
+settings-update-unsupported = No podeu actualitzar en este sistema. <a data-l10n-name="unsupported-link">Més informació</a>
 update-restarting = S'està reiniciant…
+settings-update-restarting =
+    .label = S'està reiniciant…
 
 ##
 
