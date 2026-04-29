@@ -12,19 +12,27 @@ update-updateButton =
     .label = Herbegin om { -brand-shorter-name } by te werk
     .accesskey = r
 update-checkingForUpdates = Kontroleer vir bywerkings…
+settings-update-checking-for-updates =
+    .label = Kontroleer vir bywerkings…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Laai tans bywerking af — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Laai tans bywerking af — { $transfer }
 
 ##
 
 update-applying = Pas tans bywerking toe…
+settings-update-applying =
+    .label = Pas tans bywerking toe…
 update-failed = Bywerking het misluk. <label data-l10n-name="failed-link">Laai die jongste weergawe af</label>
 update-failed-main = Bywerking het misluk. <a data-l10n-name="failed-link-main">Laai die jongste weergawe af</a>
 update-adminDisabled = Bywerking deur die stelseladministrateur gedeaktiveer
 update-noUpdatesFound = { -brand-short-name } is op datum
+settings-update-no-updates-found =
+    .label = { -brand-short-name } is op datum
 update-otherInstanceHandlingUpdates = { -brand-short-name } word tans bygewerk deur 'n ander programkopie
 
 ## Variables:
