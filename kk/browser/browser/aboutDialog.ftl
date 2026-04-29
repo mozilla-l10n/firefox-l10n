@@ -18,6 +18,8 @@ update-checkingForUpdates = Жаңартуларды тексеру…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Жаңартуды жүктеп алу — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Жаңартуды жүктеп алу — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Жаңартуды жүктеп алу — { $transfer }
 
 ##
 
