@@ -18,6 +18,8 @@ update-checkingForUpdates = Ստուգուում է թարմացումները
 
 settings-update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Բեռնում է թարմացումը — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Թարմացման ներբեռնում — { $transfer }
 
 ##
 
