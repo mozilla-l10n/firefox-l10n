@@ -28,7 +28,11 @@ update-failed = Обновление не удалось. <label data-l10n-name=
 update-failed-main = Обновление не удалось. <a data-l10n-name="failed-link-main">Скачайте последнюю версию</a>
 update-adminDisabled = Обновления отключены вашим системным администратором
 update-policy-disabled = Обновления отключены вашей организацией
+settings-update-policy-disabled =
+    .label = Обновления отключены вашей организацией
 update-noUpdatesFound = Установлена последняя версия { -brand-short-name }
+settings-update-no-updates-found =
+    .label = Установлена последняя версия { -brand-short-name }
 aboutdialog-update-checking-failed = Не удалось проверить наличие обновлений.
 settings-update-checking-failed =
     .label = Не удалось проверить наличие обновлений.
