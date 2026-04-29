@@ -275,6 +275,9 @@ update-application-description = Eñ yahşı icraat, istiqrar ve emniyet içün 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Sürüm{ $version } <a data-l10n-name="learn-more">Ne bar ne yoq</a>
+update-history-2 =
+    .label = Yañartma keçmişini köster
+    .accesskey = k
 update-history =
     .label = Yañartma keçmişini köster…
     .accesskey = k
@@ -288,6 +291,8 @@ update-application-check-choose =
 update-application-manual =
     .label = İç bir zaman teşkermesin (tevsiye etilmez)
     .accesskey = i
+update-application-warning-cross-user-setting-2 =
+    .message = Bu ayar, { -brand-short-name } tatbiqiniñ bu qurulımını qullanğan Windows esaplarınıñ ve { -brand-short-name } profilleriniñ episine uyğulanacaq.
 update-application-warning-cross-user-setting = Bu ayar, { -brand-short-name } tatbiqiniñ bu qurulımını qullanğan Windows esaplarınıñ ve { -brand-short-name } profilleriniñ episine uyğulanacaq.
 update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
