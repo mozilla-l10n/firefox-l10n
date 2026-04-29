@@ -32,9 +32,17 @@ update-failed = Yangilab bo‘lmadi.<label data-l10n-name="failed-link">So‘ngg
 update-failed-main = Yangilanmadi.<a data-l10n-name="failed-link-main">Soʻnggi versiyani yuklab olish</a>
 update-adminDisabled = Yangilanishlar tizimingiz administratori tomonidan oʻchirib qoʻyilgan
 update-policy-disabled = Yangilanishlar tashkilotingiz tomonidan oʻchirilgan
+settings-update-policy-disabled =
+    .label = Yangilanishlar tashkilotingiz tomonidan oʻchirilgan
 update-noUpdatesFound = { -brand-short-name } yangilangan
+settings-update-no-updates-found =
+    .label = { -brand-short-name } yangilangan
 aboutdialog-update-checking-failed = Yangilanishlarni tekshirib boʻlmadi.
+settings-update-checking-failed =
+    .label = Yangilanishlarni tekshirib boʻlmadi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } boshqa manbadan yangilanadi
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } boshqa manbadan yangilanadi
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -42,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } boshqa manbadan yang
 aboutdialog-update-manual-with-link = Yangilanishlar mavjud:<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Yangilanishlar mavjud:<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Siz keyingi yangilanishlarni ushbu tizimda bajara olmaysiz. <label data-l10n-name="unsupported-link">Batafsil</label>
+settings-update-unsupported = Siz keyingi yangilanishlarni ushbu tizimda bajara olmaysiz. <a data-l10n-name="unsupported-link">Batafsil</a>
 update-restarting = Qayta ishga tushirilmoqda…
+settings-update-restarting =
+    .label = Qayta ishga tushirilmoqda…
 update-internal-error2 = Ichki xatolik tufayli yangilanishlarni tekshirib boʻlmadi. Yangilanishlar <label data-l10n-name="manual-link">{ $displayUrl }</label> manzilida joylashgan
+settings-update-internal-error = Ichki xatolik tufayli yangilanishlarni tekshirib boʻlmadi. Yangilanishlar <a data-l10n-name="manual-link">{ $displayUrl }</a> manzilida joylashgan
 
 ##
 
