@@ -12,12 +12,16 @@ update-updateButton =
     .label = Mag-restart para ma-update ang { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Naghahanap ng mga update...
+settings-update-checking-for-updates =
+    .label = Naghahanap ng mga update...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Dina-download ang update —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Nagda-download ng update — { $transfer }
 
 ##
 
@@ -28,9 +32,17 @@ update-failed = Bigo ang pag-update. <label data-l10n-name="failed-link">I-downl
 update-failed-main = Bigo ang pag-update. <a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
 update-adminDisabled = Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.
 update-policy-disabled = Ang pag-uupdate ay ipinagbabawal ng iyong organisasyon
+settings-update-policy-disabled =
+    .label = Ang pag-uupdate ay ipinagbabawal ng iyong organisasyon
 update-noUpdatesFound = Ang { -brand-short-name } ay up to date
+settings-update-no-updates-found =
+    .label = Ang { -brand-short-name } ay up to date
 aboutdialog-update-checking-failed = Nagkaproblema sa paghahanap ng bagong update.
+settings-update-checking-failed =
+    .label = Nagkaproblema sa paghahanap ng bagong update.
 update-otherInstanceHandlingUpdates = Ang { -brand-short-name } ay kasalukuyang ina-update ng isa pang instance
+settings-update-other-instance-handling-updates =
+    .label = Ang { -brand-short-name } ay kasalukuyang ina-update ng isa pang instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -38,8 +50,12 @@ update-otherInstanceHandlingUpdates = Ang { -brand-short-name } ay kasalukuyang 
 aboutdialog-update-manual-with-link = Ang mga update ay matatagpuan sa <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ang mga update ay matatagpuan sa <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Hindi ka na maaaring makapag-update sa sistemang ito. <label data-l10n-name="unsupported-link">Alamin</label>
+settings-update-unsupported = Hindi ka na maaaring makapag-update sa sistemang ito. <a data-l10n-name="unsupported-link">Alamin</a>
 update-restarting = Nag-rerestart...
+settings-update-restarting =
+    .label = Nag-rerestart...
 update-internal-error2 = Hindi masuri ang mga update dahil sa internal na error. Available ang mga update sa <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Hindi masuri ang mga update dahil sa internal na error. Available ang mga update sa <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
