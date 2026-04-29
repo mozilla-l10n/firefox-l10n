@@ -12,20 +12,30 @@ update-updateButton =
     .label = { -brand-shorter-name } uyğulamasını yañartmaq içün kene başlat
     .accesskey = K
 update-checkingForUpdates = Yañartmalar içün teşkerile…
+settings-update-checking-for-updates =
+    .label = Yañartmalar içün teşkerile…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Yañartma endirile — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Yañartma endirile — { $transfer }
 
 ##
 
 update-applying = Yañartma uyğulana…
+settings-update-applying =
+    .label = Yañartma uyğulana…
 update-failed = Yañartma muvafaqiyetsiz edi.<label data-l10n-name="failed-link">Soñki sürümni endir</label>
 update-failed-main = Yañartma muvafaqiyetsiz edi.<a data-l10n-name="failed-link-main">Soñki sürümni endir</a>
 update-adminDisabled = Yañartmalar sistem memurıñız tarafından ğayrıqabilleştirilgen
 update-noUpdatesFound = { -brand-short-name } künceldir
+settings-update-no-updates-found =
+    .label = { -brand-short-name } künceldir
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa bir süreci tarafından yañartıla
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } başqa bir süreci tarafından yañartıla
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } başqa bir süreci t
 aboutdialog-update-manual-with-link = Yañartmalar şundan faydalanışlı<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Yañartmalar şundan faydalanışlı<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Bu sistem üzerinde artıq yañartmalarnı icra etalmazsıñız.<label data-l10n-name="unsupported-link">Daa çoq ögren</label>
+settings-update-unsupported = Bu sistem üzerinde artıq yañartmalarnı icra etalmazsıñız.<a data-l10n-name="unsupported-link">Daa çoq ögren</a>
 update-restarting = Kene başlatıla…
+settings-update-restarting =
+    .label = Kene başlatıla…
 
 ##
 
