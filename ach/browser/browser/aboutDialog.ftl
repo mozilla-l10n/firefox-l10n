@@ -18,6 +18,8 @@ update-checkingForUpdates = Roto pi ngec manyen…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Tye kagamo ngec — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Gamo ngec manyen — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Tye kagamo ngec — { $transfer }
 
 ##
 
