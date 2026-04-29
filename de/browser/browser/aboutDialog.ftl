@@ -12,12 +12,16 @@ update-updateButton =
     .label = Zum Abschließen des Updates { -brand-shorter-name } neu starten
     .accesskey = Z
 update-checkingForUpdates = Nach Updates suchen…
+settings-update-checking-for-updates =
+    .label = Nach Updates suchen…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Update wird heruntergeladen — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Update wird heruntergeladen – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Update wird heruntergeladen — { $transfer }
 
 ##
 
