@@ -12,20 +12,30 @@ update-updateButton =
     .label = Mula semula untuk mengemaskini { -brand-shorter-name }
     .accesskey = M
 update-checkingForUpdates = Menyemak kemaskini…
+settings-update-checking-for-updates =
+    .label = Menyemak kemaskini…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Memuat turun kemaskini — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Memuat turun kemaskini — { $transfer }
 
 ##
 
 update-applying = Melaksanakan kemaskini…
+settings-update-applying =
+    .label = Melaksanakan kemaskini…
 update-failed = Kemaskini gagal. <label data-l10n-name="failed-link">Muat turun versi terkini</label>
 update-failed-main = Kemaskini gagal. <a data-l10n-name="failed-link-main">Muat turun versi terkini</a>
 update-adminDisabled = Kemaskini dinyahdayakan oleh pentadbir sistem anda
 update-noUpdatesFound = { -brand-short-name } sudah terkini
+settings-update-no-updates-found =
+    .label = { -brand-short-name } sudah terkini
 update-otherInstanceHandlingUpdates = { -brand-short-name } sedang dikemaskini oleh tika lain
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } sedang dikemaskini oleh tika lain
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,6 +43,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } sedang dikemaskini o
 aboutdialog-update-manual-with-link = Kemaskini tersedia di <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Kemaskini tersedia di <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Anda tidak boleh lagi melaksanakan kemaskini dalam sistem ini. <label data-l10n-name="unsupported-link">Ketahui selanjutnya</label>
+settings-update-unsupported = Anda tidak boleh lagi melaksanakan kemaskini dalam sistem ini. <a data-l10n-name="unsupported-link">Ketahui selanjutnya</a>
 update-restarting = Memulakan semula...
 
 ##
