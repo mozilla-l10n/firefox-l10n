@@ -6,6 +6,8 @@ update-checkForUpdatesButton =
     .label = Buka lokusha lokukhona
     .accesskey = B
 update-checkingForUpdates = Kuhlolwa lokusha...
+settings-update-checking-for-updates =
+    .label = Kuhlolwa lokusha...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
