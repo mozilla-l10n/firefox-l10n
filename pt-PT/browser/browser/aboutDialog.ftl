@@ -33,6 +33,8 @@ update-failed-main = A atualização falhou. <a data-l10n-name="failed-link-main
 update-adminDisabled = Atualizações desativadas pelo seu administrador do sistema
 update-policy-disabled = Atualizações desativadas pela sua organização
 update-noUpdatesFound = O { -brand-short-name } está atualizado
+settings-update-no-updates-found =
+    .label = O { -brand-short-name } está atualizado
 aboutdialog-update-checking-failed = Incapaz de verificar a existência de atualizações.
 update-otherInstanceHandlingUpdates = O { -brand-short-name } já está a ser atualizado por outra instância
 
@@ -42,7 +44,10 @@ update-otherInstanceHandlingUpdates = O { -brand-short-name } já está a ser at
 aboutdialog-update-manual-with-link = Atualizações disponíveis em <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atualizações disponíveis em <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Não pode realizar mais atualizações neste sistema. <label data-l10n-name="unsupported-link">Saber mais</label>
+settings-update-unsupported = Não pode realizar mais atualizações neste sistema. <a data-l10n-name="unsupported-link">Saber mais</a>
 update-restarting = A reiniciar…
+settings-update-restarting =
+    .label = A reiniciar…
 update-internal-error2 = Não foi possível procurar por atualizações devido a um erro interno. As atualizações estão disponíveis em <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
