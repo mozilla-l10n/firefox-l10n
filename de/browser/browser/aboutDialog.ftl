@@ -42,6 +42,7 @@ settings-update-manual-with-link = Updates verfügbar unter <a data-l10n-name="m
 update-unsupported = Auf diesem System können keine weiteren Updates installiert werden. <label data-l10n-name="unsupported-link">Weitere Informationen</label>
 update-restarting = Wird neu gestartet…
 update-internal-error2 = Aufgrund eines internen Fehlers konnte nicht nach Updates gesucht werden. Updates verfügbar unter <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Aufgrund eines internen Fehlers konnte nicht nach Updates gesucht werden. Updates verfügbar unter <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
