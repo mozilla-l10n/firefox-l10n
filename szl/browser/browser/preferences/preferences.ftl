@@ -428,6 +428,9 @@ update-application-description = Trzimej aplikacyjo { -brand-short-name } durch 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Wersyjo { $version }  <a data-l10n-name="learn-more">Co je nowego</a>
+update-history-2 =
+    .label = Pokoż historyjo aktualizacyjōw
+    .accesskey = p
 update-history =
     .label = Pokoż historyjo aktualizacyjōw
     .accesskey = p
@@ -444,6 +447,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Jak { -brand-short-name } niy funguje
     .accesskey = J
+update-application-warning-cross-user-setting-2 =
+    .message = Te nasztalowanie bydzie wkludzōne na wszyskich kōntach Windows i profilach aplikacyje { -brand-short-name }, co używajōm tyj aplikacyje.
 update-application-warning-cross-user-setting = Te nasztalowanie bydzie wkludzōne na wszyskich kōntach Windows i profilach aplikacyje { -brand-short-name }, co używajōm tyj aplikacyje.
 update-application-use-service =
     .label = Używej usugi, co funguje na zadku, coby zainsztalować aktualizacyje
