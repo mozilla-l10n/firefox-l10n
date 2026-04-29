@@ -364,6 +364,9 @@ update-application-description = Panatilihing updated ang { -brand-short-name } 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
+update-history-2 =
+    .label = Ipakita ang Kasaysayan ng Pag-update
+    .accesskey = p
 update-history =
     .label = Ipakita ang Kasaysayan ng Pag-update...
     .accesskey = p
