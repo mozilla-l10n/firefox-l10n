@@ -18,10 +18,14 @@ update-checkingForUpdates = Güncellemeler denetleniyor…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Güncelleme indiriliyor — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Güncelleme indiriliyor — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Güncelleme indiriliyor — { $transfer }
 
 ##
 
 update-applying = Güncelleme uygulanıyor…
+settings-update-applying =
+    .label = Güncelleme uygulanıyor…
 update-failed = Güncelleme başarısız. <label data-l10n-name="failed-link">Son sürümü indirin</label>
 update-failed-main = Güncelleme başarısız. <a data-l10n-name="failed-link-main">Son sürümü indirin</a>
 update-adminDisabled = Güncellemeler sistem yöneticiniz tarafından devre dışı bırakılmış
