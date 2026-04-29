@@ -158,6 +158,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = পরিবর্তন প্রয়োগ করতে { -brand-short-name } রিস্টার্ট করুন
 confirm-browser-language-change-button = আবেদন করুন এবং পুনঃশুরু করুন
+browser-language-install-error =
+    .message = { -brand-short-name } এখন আপনার ভাষা হালনাগাদ করতে পারছে না। আপনি ইন্টারনেটে সংযুক্ত আছে কি না যাচাই করুন এবং পুনরায় চেষ্টা করুন।
 translate-web-pages =
     .label = ওয়েব কন্টেন্ট অনুবাদ করুন T
     .accesskey = T
@@ -257,7 +259,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
@@ -285,6 +287,9 @@ update-application-manual =
 update-application-use-service =
     .label = হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b
     .accesskey = b
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -628,7 +633,7 @@ forms-ask-to-save-logins =
     .label = ওয়েবসাইটে লগইন ও পাসওয়ার্ড সংরক্ষণে জিজ্ঞাসা কর
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = ব্যতিক্রম...
@@ -640,6 +645,9 @@ forms-master-pw-change =
     .label = মাস্টার পাসওয়ার্ড পরিবর্তন...
     .accesskey = M
 forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
