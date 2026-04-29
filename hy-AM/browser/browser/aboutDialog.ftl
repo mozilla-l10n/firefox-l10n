@@ -18,10 +18,14 @@ update-checkingForUpdates = Ստուգվում են թարմացումները�
 
 settings-update-downloading = <img data-l10n-name="icon"/>Թարմացման ներբեռնում. <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Թարմացման ներբեռնում. <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Թարմացման ներբեռնում. { $transfer }
 
 ##
 
 update-applying = Թարմացման կիրառում...
+settings-update-applying =
+    .label = Թարմացման կիրառում...
 update-failed = Թարմացումը չհաջողվեց:<label data-l10n-name="failed-link">Ներբեռնել վերջին տարբերակը</label>
 update-failed-main = Թարմացումը չհաջողվեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
 update-adminDisabled = Թարմացումներն անջատված են Ձեր համակարգի ադմինիստրատորի կողմից
