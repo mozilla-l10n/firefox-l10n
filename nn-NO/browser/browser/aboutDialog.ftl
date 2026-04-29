@@ -32,9 +32,17 @@ update-failed = Mislykka oppdatering. <label data-l10n-name="failed-link">Last n
 update-failed-main = Mislykka oppdatering. <a data-l10n-name="failed-link-main">Last ned den nyaste versjonen</a>
 update-adminDisabled = Oppdateringar er avslått av systemansvarleg
 update-policy-disabled = Oppdateringar er deaktiverte av organisasjonen din
+settings-update-policy-disabled =
+    .label = Oppdateringar er deaktiverte av organisasjonen din
 update-noUpdatesFound = { -brand-short-name } er oppdatert
+settings-update-no-updates-found =
+    .label = { -brand-short-name } er oppdatert
 aboutdialog-update-checking-failed = Klarte ikkje å sjå etter oppdateringar
+settings-update-checking-failed =
+    .label = Klarte ikkje å sjå etter oppdateringar
 update-otherInstanceHandlingUpdates = { -brand-short-name } vert oppdatert av ein annan instans
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } vert oppdatert av ein annan instans
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -42,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } vert oppdatert av ei
 aboutdialog-update-manual-with-link = Oppdateringar er tilgjengelege på <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Oppdateringar er tilgjengelege på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Du kan ikkje utføre fleire oppdateringar på dette systemet. <label data-l10n-name="unsupported-link">Les meir</label>
+settings-update-unsupported = Du kan ikkje utføre fleire oppdateringar på dette systemet. <a data-l10n-name="unsupported-link">Les meir</a>
 update-restarting = Startar på nytt...
+settings-update-restarting =
+    .label = Startar på nytt...
 update-internal-error2 = Klarte ikkje å sjå etter oppdateringar på grunn av intern feil. Oppdateringar tilgjengelege på <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Klarte ikkje å sjå etter oppdateringar på grunn av intern feil. Oppdateringar tilgjengelege på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
