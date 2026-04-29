@@ -364,6 +364,9 @@ update-application-description = Keep { -brand-short-name } up tae date for the 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Whit’s new</a>
+update-history-2 =
+    .label = Kythe Update Historie
+    .accesskey = p
 update-history =
     .label = Kythe Update Historie...
     .accesskey = p
