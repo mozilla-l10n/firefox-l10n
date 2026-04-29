@@ -676,6 +676,9 @@ update-application-description = Houd { -brand-short-name } up-to-date voor de b
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versie { $version } <a data-l10n-name="learn-more">Wat is er nieuw</a>
+update-history-2 =
+    .label = Updategeschiedenis tonen
+    .accesskey = d
 update-history =
     .label = Updategeschiedenis tonen…
     .accesskey = d
