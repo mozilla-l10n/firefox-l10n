@@ -390,6 +390,9 @@ update-application-description = ຮັກສາ { -brand-short-name } ໃໝ່
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ລຸ້ນ { $version } <a data-l10n-name="learn-more">ມີຫຍັງໃໝ່</a>
+update-history-2 =
+    .label = ສະແດງປະຫວັດການອັບເດດ
+    .accesskey = ອ
 update-history =
     .label = ສະແດງປະຫວັດການອັບເດດ…
     .accesskey = ອ
@@ -406,6 +409,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = ເມື່ອ { -brand-short-name } ບໍ່ເຮັດວຽກ
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = ການຕັ້ງຄ່ານີ້ຈະນຳໃຊ້ກັບທຸກບັນຊີ Windows ແລະໂປຣໄຟລ໌ { -brand-short-name } ໂດຍໃຊ້ການຕິດຕັ້ງນີ້ຂອງ { -brand-short-name }.
 update-application-warning-cross-user-setting = ການຕັ້ງຄ່ານີ້ຈະນຳໃຊ້ກັບທຸກບັນຊີ Windows ແລະໂປຣໄຟລ໌ { -brand-short-name } ໂດຍໃຊ້ການຕິດຕັ້ງນີ້ຂອງ { -brand-short-name }.
 update-application-use-service =
     .label = ໃຊ້ບໍລິການພື້ນຫລັງໃນການຕິດຕັ້ງການອັບເດດ
