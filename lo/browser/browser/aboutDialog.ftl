@@ -12,6 +12,8 @@ update-updateButton =
     .label = ເລີ່ມເຮັດວຽກໃຫມ່ເພື່ອອັບເດດ { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = ກຳລັງກວດສອບການອັບເດດ...
+settings-update-checking-for-updates =
+    .label = ກຳລັງກວດສອບການອັບເດດ...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
