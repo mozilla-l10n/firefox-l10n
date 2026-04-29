@@ -17,6 +17,8 @@ update-checkingForUpdates = Nduki tu'un tsaá
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Snuì ña tsaá—<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Snuì ña tsaá—{ $transfer }
 
 ##
 
