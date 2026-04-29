@@ -304,6 +304,9 @@ update-application-title = { -brand-short-name } تازہ کاریاں:
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ورژن{ $version } <a data-l10n-name="learn-more">نیا کیا ہے</a>
+update-history-2 =
+    .label = تازہ ترین سابقات دکھائیں
+    .accesskey = p
 update-history =
     .label = تازہ ترین سابقات دکھائیں
     .accesskey = p
