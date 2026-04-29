@@ -12,12 +12,16 @@ update-updateButton =
     .label = Reinicie para actualizar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Comprobando actualizaciones…
+settings-update-checking-for-updates =
+    .label = Comprobando actualizaciones…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Descargando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Descargando actualización — { $transfer }
 
 ##
 
