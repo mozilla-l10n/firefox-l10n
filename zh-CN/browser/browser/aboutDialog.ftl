@@ -51,6 +51,7 @@ update-restarting = 正在重启浏览器…
 settings-update-restarting =
     .label = 正在重启浏览器…
 update-internal-error2 = 发生内部错误，无法检查更新。可访问 <label data-l10n-name="manual-link">{ $displayUrl }</label> 手动下载更新。
+settings-update-internal-error = 发生内部错误，无法检查更新。可访问 <a data-l10n-name="manual-link">{ $displayUrl }</a> 手动下载更新。
 
 ##
 
