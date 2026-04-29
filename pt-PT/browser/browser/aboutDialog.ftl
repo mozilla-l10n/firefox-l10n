@@ -55,6 +55,7 @@ update-restarting = A reiniciar…
 settings-update-restarting =
     .label = A reiniciar…
 update-internal-error2 = Não foi possível procurar por atualizações devido a um erro interno. As atualizações estão disponíveis em <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Não foi possível procurar por atualizações devido a um erro interno. As atualizações estão disponíveis em <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
