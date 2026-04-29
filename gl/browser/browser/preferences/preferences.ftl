@@ -375,6 +375,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reiniciar { -brand-short-name } para aplicar estes cambios
 confirm-browser-language-change-button = Aplicar e reiniciar
+browser-language-install-error =
+    .message = Non é posíbel que { -brand-short-name } actualice os seus idiomas neste momento. Comprobe que está conectado á Internet e tente de novo.
 translate-web-pages =
     .label = Traducir contido web
     .accesskey = T
@@ -499,7 +501,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Que debería facer { -brand-short-name } con outros ficheiros?
 applications-save-for-new-types =
@@ -558,6 +560,12 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -628,6 +636,9 @@ browsing-cfr-recommendations-learn-more = Máis información
 browsing-group =
     .label = Navegación
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Configuración de rede
@@ -679,6 +690,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar marcador…
     .accesskey = U
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -899,6 +916,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } non está comprobado.
 sync-signedin-login-failure = Identifíquese para volver a conectarse { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1067,7 +1089,7 @@ forms-ask-to-save-logins =
     .label = Preguntar se gardar identificacións e contrasinais de acceso nos sitios web
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1137,6 +1159,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Máis información
 forms-windows-sso-desc = Xestionar contas na configuración do dispositivo
 windows-passkey-settings-label = Xestionar as claves de acceso na configuración do sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1729,8 +1754,23 @@ preferences-doh-manage-exceptions =
     .label = Xestionar as excepcións…
     .accesskey = X
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Escolla o cartafol de descarga:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
