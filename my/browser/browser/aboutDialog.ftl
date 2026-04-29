@@ -39,6 +39,8 @@ aboutdialog-update-manual-with-link = နောက်ဆုံးပေါ်ရ
 settings-update-manual-with-link = နောက်ဆုံးပေါ်ရနိုင်သောနေရာသည် <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ဒီကွန်ပျူတာစနစ်တွင် နောင်လာမည့် အဆင့်မြှင့်တင်မှုများကို လုပ်ဆောင်နိုင်တော့မည် မဟုတ်ပါ။ <label data-l10n-name="unsupported-link">ပိုမို လေ့လာပါ</label>
 update-restarting = ပြန်ဖွင့်နေသည်…
+settings-update-restarting =
+    .label = ပြန်ဖွင့်နေသည်…
 
 ##
 
