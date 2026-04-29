@@ -12,6 +12,8 @@ update-updateButton =
     .label = הפעלה מחדש לעדכון { -brand-shorter-name }
     .accesskey = מ
 update-checkingForUpdates = בדיקת עדכונים חדשים…
+settings-update-checking-for-updates =
+    .label = בדיקת עדכונים חדשים…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
