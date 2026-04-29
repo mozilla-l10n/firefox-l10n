@@ -648,6 +648,9 @@ update-application-description = Mantene { -brand-short-name } atualizadu pro un
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versione { $version }<a data-l10n-name="learn-more">Ite noas</a>
+update-history-2 =
+    .label = Ammustra sa cronologia de atualizatziones
+    .accesskey = z
 update-history =
     .label = Ammustra sa cronologia de atualizatziones…
     .accesskey = z
@@ -664,6 +667,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Cando { -brand-short-name } non siat in esecutzione
     .accesskey = C
+update-application-warning-cross-user-setting-2 =
+    .message = Custa cunfiguratzione at a èssere aplicada a totu is contos de Windows e a is profilos de { -brand-short-name } chi imperent custa installatzione de { -brand-short-name }
 update-application-warning-cross-user-setting = Custa cunfiguratzione at a èssere aplicada a totu is contos de Windows e a is profilos de { -brand-short-name } chi imperent custa installatzione de { -brand-short-name }
 update-application-use-service =
     .label = Installa is atualizatziones in segundu pranu
