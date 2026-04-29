@@ -26,12 +26,20 @@ settings-update-downloading-2 =
 ##
 
 update-applying = A' cur an sàs an ùrachaidh…
+settings-update-applying =
+    .label = A' cur an sàs an ùrachaidh…
 update-failed = Dh'fhàillig an t-ùrachadh. <label data-l10n-name="failed-link">Luchdaich a-nuas an tionndadh as ùire</label>
 update-failed-main = Dh'fhàillig an t-ùrachadh. <a data-l10n-name="failed-link-main">Luchdaich a-nuas an tionndadh as ùire</a>
 update-adminDisabled = Chuir rianaire an t-siostaim agad casg air ùrachaidhean
 update-policy-disabled = Cuir am buidheann agad na h-ùrachaidhean à comas
+settings-update-policy-disabled =
+    .label = Cuir am buidheann agad na h-ùrachaidhean à comas
 update-noUpdatesFound = Tha { -brand-short-name } cho ùr 's a ghabhas
+settings-update-no-updates-found =
+    .label = Tha { -brand-short-name } cho ùr 's a ghabhas
 aboutdialog-update-checking-failed = Cha b’ urrainn dhuinn sùil a thoirt airson ùrachaidhean.
+settings-update-checking-failed =
+    .label = Cha b’ urrainn dhuinn sùil a thoirt airson ùrachaidhean.
 update-otherInstanceHandlingUpdates = Tha { -brand-short-name } 'ga ùrachadh ann an ionstans eile
 settings-update-other-instance-handling-updates =
     .label = Tha { -brand-short-name } 'ga ùrachadh ann an ionstans eile
