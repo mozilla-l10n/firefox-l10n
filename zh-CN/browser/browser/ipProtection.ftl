@@ -87,6 +87,16 @@ ipprotection-button-connecting = 正在开启…
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = 位置：推荐
+ipprotection-recommended-location-badge = 新
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = 位置：{ $country }
+ipprotection-locations-subview =
+    .title = 选择位置
+ipprotecion-locations-subview-recommended-label = 推荐
+ipprotection-locations-subview-promo =
+    .heading = { -mozilla-vpn-brand-name } 让保护更进一步
+    .message = 从 300 多个位置中选择，并在最多 5 台设备上保护您的所有应用。
 
 ## VPN paused state
 
@@ -97,6 +107,10 @@ ipprotection-connection-status-paused-description = 您已用完全部 { $maxUsa
 upgrade-vpn-title = 获取额外保护，不限于浏览器。
 upgrade-vpn-description = 选择 VPN 位置，并于最多 5 台设备上为所有应用使用 VPN，在所有网络（包括家庭和公共场所 Wi-Fi）中都能确保安全。
 upgrade-vpn-button = 试用 { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN 已暂停
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
 
 ## Messages and errors
 
