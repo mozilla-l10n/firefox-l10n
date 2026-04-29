@@ -18,6 +18,8 @@ update-checkingForUpdates = 업데이트 확인 중…
 
 settings-update-downloading = <img data-l10n-name="icon"/>업데이트 다운로드 중 — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = 업데이트 다운로드 중 — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = 업데이트 다운로드 중 — { $transfer }
 
 ##
 
