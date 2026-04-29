@@ -22,10 +22,10 @@ crashed-subframe-submit =
 #   $reportCount (Number): the number of pending crash reports
 pending-crash-reports-message =
     { $reportCount ->
-        [one] Maśo njewótpósłanu wowaleńsku rozpšawu
-        [two] Maśo { $reportCount } njewótpósłanej wowaleńskej rozpšawje
-        [few] Maśo { $reportCount } njewótpósłane wowaleńske rozpšawy
-       *[other] Maće { $reportCount } njewótpósłanych wowaleńskich rozpšawow
+        [one] Maśo njewótpósłanu rozpšawu wowalenja
+        [two] Maśo { $reportCount } njewótpósłanej rozpšawje wowalenja
+        [few] Maśo { $reportCount } njewótpósłane rozpšawy wowalenja
+       *[other] Maśo { $reportCount } njewótpósłanych rozpšawow wowalenja
     }
 pending-crash-reports-view-all =
     .label = Pokazaś

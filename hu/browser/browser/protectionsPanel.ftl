@@ -84,6 +84,11 @@ smartblock-placeholder-title = A(z) { $trackername } követői és tartalmai blo
 smartblock-placeholder-desc = A { -brand-short-name } beállításai nem engedték, hogy ez a tartalom nyomon kövesse a webhelyek közt, vagy hirdetésekhez legyen használva.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Engedélyezés itt: { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Letiltott beágyazásból származó tartalom
 
 ##
 

@@ -467,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = A
 confirm-browser-language-change-description = A { -brand-short-name } újraindítása a változtatások alkalmazásához
 confirm-browser-language-change-button = Alkalmaz és újraindítás
+browser-language-heading =
+    .label = Böngésző nyelve
+    .description = Válasszon nyelvet a { -brand-short-name } menüijeinek, üzeneteinek és értesítéseinek megjelenítéséhez.
+browser-language-preferred-label =
+    .label = Előnyben részesített nyelv
+browser-language-fallback-label =
+    .label = Tartalék nyelv
+    .description = Akkor használatos, ha az előnyben részesített honosítás nem teljes.
 browser-language-install-error =
     .message = A { -brand-short-name } most nem tudja frissíteni a nyelveket. Ellenőrizze, hogy kapcsolódik-e az internethez, és próbálja újra.
 translate-web-pages =
@@ -686,6 +694,8 @@ update-application-version = Verzió: { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = Frissítési előzmények megjelenítése
     .accesskey = z
+update-application-installation =
+    .label = Telepítés
 update-history =
     .label = Frissítési előzmények megjelenítése…
     .accesskey = z
@@ -726,6 +736,16 @@ update-in-progress-ok-button = &Elvetés
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } frissítések
+    .description = A frissítések javítják a { -brand-short-name } sebességét, stabilitását és biztonságát.
+update-application-suppress-prompts-heading =
+    .label = Értesítések
+update-application-updates-managed-by-os =
+    .message = A frissítéseket az operációs rendszer kezeli
 
 ## Firefox support
 
@@ -1546,6 +1566,14 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = További tudnivalók
 forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
 windows-passkey-settings-label = A jelkulcsok kezelése a rendszerbeállításokban
+
+## Privacy Panel Settings
+
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Adatvédelmi incidensek üzeneteinek megjelenítése
+    .accesskey = A
 
 ## OS Authentication dialog
 

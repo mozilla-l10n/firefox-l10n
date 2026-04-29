@@ -97,10 +97,10 @@ genai-menu-ask-generic-2 =
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Spør { $provider }
-    .accesskey = p
+    .accesskey = ø
 genai-menu-no-provider-2 =
     .label = Spør ein AI-chatbot
-    .accesskey = p
+    .accesskey = ø
 
 ## Chatbot header
 
