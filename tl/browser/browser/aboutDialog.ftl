@@ -22,6 +22,8 @@ aboutdialog-update-downloading = Dina-download ang update —<label data-l10n-na
 ##
 
 update-applying = Inilalapat ang update...
+settings-update-applying =
+    .label = Inilalapat ang update...
 update-failed = Bigo ang pag-update. <label data-l10n-name="failed-link">I-download ang pinakabagong bersyon</label>
 update-failed-main = Bigo ang pag-update. <a data-l10n-name="failed-link-main">I-download ang pinakabagong bersyon</a>
 update-adminDisabled = Ang pagdadagdag ng mga pagbabago ay pinawalang bisa ng iyong system administrator.
