@@ -32,9 +32,17 @@ update-failed = Opdatering mislykkedes. <label data-l10n-name="failed-link">Hent
 update-failed-main = Opdatering mislykkedes. <a data-l10n-name="failed-link-main">Hent den seneste version</a>
 update-adminDisabled = Opdateringer er deaktiveret af din systemadministrator
 update-policy-disabled = Opdateringer er deaktiveret af din organisation
+settings-update-policy-disabled =
+    .label = Opdateringer er deaktiveret af din organisation
 update-noUpdatesFound = Der er ingen opdateringer til { -brand-short-name } i øjeblikket
+settings-update-no-updates-found =
+    .label = Der er ingen opdateringer til { -brand-short-name } i øjeblikket
 aboutdialog-update-checking-failed = Kunne ikke søge efter opdateringer.
+settings-update-checking-failed =
+    .label = Kunne ikke søge efter opdateringer.
 update-otherInstanceHandlingUpdates = { -brand-short-name } er ved at blive opdateret af en anden instans
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } er ved at blive opdateret af en anden instans
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
