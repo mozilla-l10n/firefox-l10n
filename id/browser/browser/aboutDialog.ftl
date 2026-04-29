@@ -39,7 +39,10 @@ aboutdialog-update-manual-with-link = Pembaruan tersedia di <label data-l10n-nam
 settings-update-manual-with-link = Pembaruan tersedia di <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Anda tidak dapat melakukan pembaruan lebih lanjut pada sistem ini. <label data-l10n-name="unsupported-link">Pelajari lebih lanjut</label>
 update-restarting = Memulai ulang…
+settings-update-restarting =
+    .label = Memulai ulang…
 update-internal-error2 = Tidak dapat memeriksa pembaruan karena kesalahan internal. Pembaruan tersedia di <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Tidak dapat memeriksa pembaruan karena kesalahan internal. Pembaruan tersedia di <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
