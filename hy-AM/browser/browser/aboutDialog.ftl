@@ -51,6 +51,7 @@ update-restarting = Վերամեկնարկում...
 settings-update-restarting =
     .label = Վերամեկնարկում...
 update-internal-error2 = Ներքին սխալի պատճառով հնարավոր չէ ստուգել թարմացումների առկայությունը: Թարմացումները հասանելի են <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Ներքին սխալի պատճառով հնարավոր չէ ստուգել թարմացումների առկայությունը: Թարմացումները հասանելի են <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
