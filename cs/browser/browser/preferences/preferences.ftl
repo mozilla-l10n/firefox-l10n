@@ -766,6 +766,9 @@ update-application-description =
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verze { $version } <a data-l10n-name="learn-more">Co je nového</a>
+update-history-2 =
+    .label = Zobrazit historii aktualizací
+    .accesskey = h
 update-history =
     .label = Zobrazit historii aktualizací…
     .accesskey = h
@@ -792,6 +795,12 @@ update-application-background-enabled =
            *[other] Když je aplikace vypnutá
         }
     .accesskey = v
+update-application-warning-cross-user-setting-2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name(case: "gen") }, pokud používají stejnou instalaci.
+           *[no-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily aplikace { -brand-short-name }, pokud používají stejnou instalaci.
+        }
 update-application-warning-cross-user-setting =
     { -brand-short-name.case-status ->
         [with-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name(case: "gen") }, pokud používají stejnou instalaci.
