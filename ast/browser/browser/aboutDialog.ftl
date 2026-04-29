@@ -12,16 +12,22 @@ update-updateButton =
     .label = Reaniciar p'anovar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Comprobando los anovamientos…
+settings-update-checking-for-updates =
+    .label = Comprobando los anovamientos…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Baxando l'anovamientu — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Baxando l'anovamientu — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Baxando l'anovamientu — { $transfer }
 
 ##
 
 update-applying = Aplicando l'anovamientu…
+settings-update-applying =
+    .label = Aplicando l'anovamientu…
 update-failed = L'anovamientu falló. <label data-l10n-name="failed-link">Baxa la última versión</label>
 update-failed-main = L'anovamientu falló. <a data-l10n-name="failed-link-main">Baxa la última versión</a>
 update-adminDisabled = L'alministrador del sistema desactivó los anovamientos
@@ -38,7 +44,10 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = Hai anovamientos disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Hai anovamientos disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Yá nun pues anovar más nesti sistema.<label data-l10n-name="unsupported-link">Lleer más</label>
+settings-update-unsupported = Yá nun pues anovar más nesti sistema.<a data-l10n-name="unsupported-link">Lleer más</a>
 update-restarting = Reaniciando…
+settings-update-restarting =
+    .label = Reaniciando…
 
 ##
 
