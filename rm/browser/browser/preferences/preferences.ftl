@@ -558,6 +558,9 @@ update-application-description = Actualisescha { -brand-short-name } per prestaz
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Novaziuns</a>
+update-history-2 =
+    .label = Mussar la cronologia da las actualisaziuns
+    .accesskey = c
 update-history =
     .label = Mussar la cronologia da las actualisaziuns…
     .accesskey = c
