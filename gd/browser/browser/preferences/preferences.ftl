@@ -444,6 +444,9 @@ update-application-description = Cum { -brand-short-name } ùraichte airson dèa
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Tionndadh { $version } <a data-l10n-name="learn-more">Na tha ùr</a>
+update-history-2 =
+    .label = Seall eachdraidh nan ùrachaidhean
+    .accesskey = h
 update-history =
     .label = Seall eachdraidh nan ùrachaidhean…
     .accesskey = h
@@ -460,6 +463,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Nuair nach eil { -brand-short-name } a’ ruith
     .accesskey = r
+update-application-warning-cross-user-setting-2 =
+    .message = Bidh buaidh aig an roghainn seo air gach cunntas Windows agus pròifil { -brand-short-name } a chleachdas an stàladh seo de { -brand-short-name }.
 update-application-warning-cross-user-setting = Bidh buaidh aig an roghainn seo air gach cunntas Windows agus pròifil { -brand-short-name } a chleachdas an stàladh seo de { -brand-short-name }.
 update-application-use-service =
     .label = Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh
