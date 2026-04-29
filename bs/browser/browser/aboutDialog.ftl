@@ -26,13 +26,23 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Primjenjujem nadogradnju…
+settings-update-applying =
+    .label = Primjenjujem nadogradnju…
 update-failed = Neuspješna nadogradnja. <label data-l10n-name="failed-link">Preuzmi posljednju verziju</label>
 update-failed-main = Neuspješna nadogradnja. <a data-l10n-name="failed-link-main">Preuzmi posljednju verziju</a>
 update-adminDisabled = Nadogradnje koje je onemogućio vaš sistemski administrator
 update-policy-disabled = Vaša organizacija je onemogućila ažuriranja
+settings-update-policy-disabled =
+    .label = Vaša organizacija je onemogućila ažuriranja
 update-noUpdatesFound = Koristite posljednju verziju { -brand-short-name }a
+settings-update-no-updates-found =
+    .label = Koristite posljednju verziju { -brand-short-name }a
 aboutdialog-update-checking-failed = Provjera ažuriranja nije uspjela.
+settings-update-checking-failed =
+    .label = Provjera ažuriranja nije uspjela.
 update-otherInstanceHandlingUpdates = { -brand-short-name } biva nadograđen od strane druge instance
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } biva nadograđen od strane druge instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -40,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } biva nadograđen od 
 aboutdialog-update-manual-with-link = Nadogradnje dostupne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Nadogradnje dostupne na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ne možete vršiti dodatne nadogradnje na ovom sistemu. <label data-l10n-name="unsupported-link">Saznajte više</label>
+settings-update-unsupported = Ne možete vršiti dodatne nadogradnje na ovom sistemu. <a data-l10n-name="unsupported-link">Saznajte više</a>
 update-restarting = Restartujem…
+settings-update-restarting =
+    .label = Restartujem…
 update-internal-error2 = Nije moguće provjeriti ažuriranja zbog interne greške. Ažuriranja dostupna na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Nije moguće provjeriti ažuriranja zbog interne greške. Ažuriranja dostupna na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
