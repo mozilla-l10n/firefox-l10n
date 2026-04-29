@@ -12,21 +12,31 @@ update-updateButton =
     .label = Restert fur tae Update { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Checkin fur updates...
+settings-update-checking-for-updates =
+    .label = Checkin fur updates...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Doonloadin update — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Doonloadin update — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Doonloadin update — { $transfer }
 
 ##
 
 update-applying = Instawin update...
+settings-update-applying =
+    .label = Instawin update...
 update-failed = Update misgaed. <label data-l10n-name="failed-link">Doonload the latest version</label>
 update-failed-main = Update misgaed. <a data-l10n-name="failed-link-main">Doonload the latest version</a>
 update-adminDisabled = Updates disabled by yer system admeenistrator
 update-noUpdatesFound = { -brand-short-name } is up tae date
+settings-update-no-updates-found =
+    .label = { -brand-short-name } is up tae date
 update-otherInstanceHandlingUpdates = { -brand-short-name } is bein updatit by anither instance
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } is bein updatit by anither instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -34,7 +44,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } is bein updatit by a
 aboutdialog-update-manual-with-link = Updates available at <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Updates available at <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ye cannae mak onie mair updates on this system. <label data-l10n-name="unsupported-link">Lairn mair</label>
+settings-update-unsupported = Ye cannae mak onie mair updates on this system. <a data-l10n-name="unsupported-link">Lairn mair</a>
 update-restarting = Restertin...
+settings-update-restarting =
+    .label = Restertin...
 
 ##
 
