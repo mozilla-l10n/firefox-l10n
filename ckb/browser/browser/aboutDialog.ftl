@@ -12,12 +12,16 @@ update-updateButton =
     .label = پێکردنەوە بۆ نوێکردنەوە { -brand-shorter-name }
     .accesskey = پ
 update-checkingForUpdates = چێکردن بۆ نوێکردنەوە…
+settings-update-checking-for-updates =
+    .label = چێکردن بۆ نوێکردنەوە…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/> داگرتنی نوێکاری —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = داگرتنی  نوێکاری —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = { " " }داگرتنی نوێکاری —{ $transfer }
 
 ##
 
