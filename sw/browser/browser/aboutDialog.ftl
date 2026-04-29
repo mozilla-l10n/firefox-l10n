@@ -5,6 +5,8 @@
 aboutDialog-title =
     .title = Kuhusu { -brand-full-name }
 update-checkingForUpdates = Inakagua visasisho…
+settings-update-checking-for-updates =
+    .label = Inakagua visasisho…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
