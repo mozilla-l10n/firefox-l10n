@@ -676,6 +676,9 @@ update-application-description = Διατηρείτε το { -brand-short-name }
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Έκδοση { $version } <a data-l10n-name="learn-more">Τι νέο υπάρχει</a>
+update-history-2 =
+    .label = Εμφάνιση ιστορικού ενημερώσεων
+    .accesskey = ν
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
     .accesskey = ν
