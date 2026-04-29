@@ -18,6 +18,8 @@ update-checkingForUpdates = Daûr a cirî inzornaments...
 
 settings-update-downloading = <img data-l10n-name="icon"/>Daûr a discjamâ l'inzornament — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Daûr a discjariâ l'inzornament — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Daûr a discjamâ l'inzornament — { $transfer }
 
 ##
 
