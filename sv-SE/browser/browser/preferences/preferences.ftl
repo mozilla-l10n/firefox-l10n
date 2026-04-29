@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Tillgänglighet
     .title = { pane-accessibility-title }
+pane-languages-title = Språk
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } Experiment
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiment
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Fortsätt med försiktighet
 pane-experimental-search-results-header = { -brand-short-name } Experiment: Fortsätt med försiktighet
 pane-experimental-description2 = Att ändra avancerade konfigurationsinställningar kan påverka prestanda eller säkerhet för { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Testa våra experimentella funktioner! De är under utveckling, vilket kan påverka hur { -brand-short-name } fungerar. Vi tar bara emot data om din användning av dessa funktioner om du har aktiverat <a data-l10n-name="data-collection">tekniska data och interaktionsdata</a>.
@@ -460,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = A
 confirm-browser-language-change-description = Starta om { -brand-short-name } för att tillämpa ändringarna
 confirm-browser-language-change-button = Tillämpa och starta om
+browser-language-heading =
+    .label = Webbläsarens språk
+    .description = Välj språk som används för att visa menyer, meddelanden och avisering från { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Önskat språk
+browser-language-fallback-label =
+    .label = Reservspråk
+    .description = Används när översättningen av önskat språk är ofullständig.
 browser-language-install-error =
     .message = { -brand-short-name } kan inte uppdatera dina språk just nu. Kontrollera att du är ansluten till internet eller försök igen.
 translate-web-pages =
@@ -679,6 +694,8 @@ update-application-version = Version { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Visa uppdateringshistorik
     .accesskey = p
+update-application-installation =
+    .label = Installation
 update-history =
     .label = Visa uppdateringshistorik…
     .accesskey = p
@@ -719,6 +736,16 @@ update-in-progress-ok-button = &Ignorera
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsätt
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } uppdateringar
+    .description = Uppdateringar förbättrar { -brand-short-name }:s hastighet, stabilitet och säkerhet.
+update-application-suppress-prompts-heading =
+    .label = Aviseringar
+update-application-updates-managed-by-os =
+    .message = Uppdateringar hanteras av ditt operativsystem
 
 ## Firefox support
 
@@ -1012,6 +1039,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Välj en bakgrundsbild
 home-prefs-choose-wallpaper-link2 =
     .label = Välj en bakgrundsbild
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = För att använda dessa funktioner, ställ in nya flikar eller fönster till { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1539,6 +1571,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Läs mer
 forms-windows-sso-desc = Hantera konton i dina enhetsinställningar
 windows-passkey-settings-label = Hantera lösenordsnycklar i systeminställningar
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Inställningar för sekretesspanelen
+    .description = Få hjälp med att skydda din information online i { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Visa intrångsmeddelanden
+    .accesskey = V
 
 ## OS Authentication dialog
 

@@ -84,6 +84,11 @@ smartblock-placeholder-title = Traqueurs et contenus bloqués pour { $trackernam
 smartblock-placeholder-desc = Vos paramètres { -brand-short-name } ont empêché ce contenu de vous pister sur des sites ou d’être utilisé pour des publicités.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Autoriser sur { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Contenu bloqué pour une intégration
 
 ##
 

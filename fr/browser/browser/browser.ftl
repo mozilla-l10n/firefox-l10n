@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspecteur, outils de développement
 # Opens about:logins
 quickactions-logins2 = Gérer les mots de passe
 quickactions-cmd-logins = identifiants, mots de passe
+# Mutes all tabs playing audio
+quickactions-mute = Couper le son des onglets lors de la lecture audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = muet, chut, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gérer les plugins
 quickactions-cmd-plugins = plugins
@@ -1738,3 +1744,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Le site ne semble pas fonctionner correctement ?</strong> Actualisez la page pour abaisser temporairement votre protection contre le pistage.
 reduced-protection-infobar-reload-button = Actualiser
     .accesskey = A
+reduced-protection-infobar-never-show-button = Ne plus afficher
+    .accesskey = N

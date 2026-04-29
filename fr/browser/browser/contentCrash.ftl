@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Ne plus afficher
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Vous avez un rapport de plantage récent qui n’a pas été envoyé
+       *[other] Vous avez { $reportCount } rapports de plantage non envoyés récemment
+    }

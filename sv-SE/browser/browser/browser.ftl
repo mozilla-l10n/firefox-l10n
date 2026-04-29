@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspektör, utvecklarverktyg
 # Opens about:logins
 quickactions-logins2 = Hantera lösenord
 quickactions-cmd-logins = inloggningar, lösenord
+# Mutes all tabs playing audio
+quickactions-mute = Stäng av ljud för flikar
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = tyst, tyst, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Hantera insticksmoduler
 quickactions-cmd-plugins = insticksmoduler
@@ -1738,3 +1744,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Webbplatsen ser trasig ut?</strong> Ladda om sidan för att tillfälligt sänka ditt spårningsskydd.
 reduced-protection-infobar-reload-button = Ladda om
     .accesskey = L
+reduced-protection-infobar-never-show-button = Visa inte igen
+    .accesskey = V

@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Accessibilité
     .title = { pane-accessibility-title }
+pane-languages-title = Langues
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Expériences de { -brand-short-name }
 category-experimental =
     .tooltiptext = Expériences de { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Agissez avec précaution
 pane-experimental-search-results-header = Expériences de { -brand-short-name } : gardez l’œil ouvert
 pane-experimental-description2 = Modifier les paramètres de configuration avancés peut affecter les performances et la sécurité de { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Essayez nos fonctionnalités expérimentales ! Elles sont en cours de développement et évoluent, ce qui pourrait avoir un impact sur le fonctionnement de { -brand-short-name }. Nous ne recevons des données sur votre utilisation de ces fonctionnalités que si vous avez activé les <a data-l10n-name="data-collection">données techniques et d’interaction</a>.
@@ -460,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Redémarrer { -brand-short-name } pour appliquer ces changements
 confirm-browser-language-change-button = Appliquer et redémarrer
+browser-language-heading =
+    .label = Langue du navigateur
+    .description = Choisissez la langue utilisée pour afficher les menus, messages et notifications de { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Langue préférée
+browser-language-fallback-label =
+    .label = Langue de remplacement
+    .description = Utilisé lorsque la localisation dans la langue préférée est incomplète.
 browser-language-install-error =
     .message = { -brand-short-name } ne peut pas mettre à jour vos langues pour l’instant. Vérifiez votre connexion à Internet ou réessayez.
 translate-web-pages =
@@ -679,6 +694,8 @@ update-application-version = Version { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = Afficher l’historique des mises à jour
     .accesskey = h
+update-application-installation =
+    .label = Installation
 update-history =
     .label = Afficher l’historique des mises à jour…
     .accesskey = h
@@ -719,6 +736,16 @@ update-in-progress-ok-button = &Abandonner
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuer
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } mises à jour
+    .description = Des mises à jour améliorent la vitesse, la stabilité et la sécurité de { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notifications
+update-application-updates-managed-by-os =
+    .message = Les mises à jour sont gérées par votre système d’exploitation
 
 ## Firefox support
 
@@ -1012,6 +1039,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Choisir un fond d’écran
 home-prefs-choose-wallpaper-link2 =
     .label = Choisir un fond d’écran
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Pour utiliser ces fonctionnalités, définissez nouveaux onglets ou nouvelles fenêtres pour { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1539,6 +1571,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = En savoir plus
 forms-windows-sso-desc = Gérez les comptes dans les paramètres de votre appareil
 windows-passkey-settings-label = Gérer les clés d’accès dans les paramètres système
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Paramètres du panneau « Confidentialité »
+    .description = Obtenez de l’aide pour protéger vos informations en ligne avec { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Afficher les messages de fuite de données
+    .accesskey = A
 
 ## OS Authentication dialog
 
