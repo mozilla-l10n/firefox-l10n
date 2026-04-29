@@ -12,6 +12,8 @@ update-updateButton =
     .label = Peuudép Lom keu Pubarô { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Paréksa peuë nyang barô…
+settings-update-checking-for-updates =
+    .label = Paréksa peuë nyang barô…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
