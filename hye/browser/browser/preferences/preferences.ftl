@@ -281,6 +281,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Վերամեկնարկեք { -brand-short-name }-ը՝ փոփոխութիւնները գործադրելու համար
 confirm-browser-language-change-button = Գործադրել եւ վերամեկնարկել
+browser-language-install-error =
+    .message = { -brand-short-name }-ը չի կարող արդիացնել ձեր լեզուները հիմա: Ստուգեք՝ արդեաւք կապակցուած եք համացանցին եւ կրկին փորձեք:
 translate-web-pages =
     .label = Թարգմանել բովանդակութիւնը
     .accesskey = Թ
@@ -402,7 +404,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Ի՞նչ պետք է { -brand-short-name } անի այղ նիշերի հետ
 applications-save-for-new-types =
@@ -461,6 +463,12 @@ update-in-progress-ok-button = &Հրաժարուել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -523,6 +531,9 @@ browsing-cfr-recommendations-learn-more = Իմանալ աւելին
 browsing-group =
     .label = Դիտարկում
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Ցանցի կարգաւորումներ
@@ -573,6 +584,12 @@ use-current-pages =
 choose-bookmark =
     .label = Աւգտագործել էջանիշ...
     .accesskey = է
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -751,6 +768,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } նույնականացրած չէ:
 sync-signedin-login-failure = Նախ մուտք գործեք { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -894,7 +916,7 @@ forms-ask-to-save-logins =
     .label = Հարցնել եւ պահպանել մուտքագրումները եւ գաղտնաբառերը կայքերի համար
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Բացառութիւններ…
@@ -937,6 +959,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Իմանալ աւելին
 forms-windows-sso-desc = Կառավարէք հաշիւները սարքի կարգաւորումներում
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -947,6 +972,9 @@ primary-password-os-auth-dialog-message-win = Գլխաւոր գաղտնաբառ 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Ստեղծել Հիմնական Բագղտնաբառ
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1041,6 +1069,12 @@ sitedata-cookies-exceptions =
     .accesskey = ց
 cookies-site-data-group =
     .label = Cookie-ներ եւ կայքի տուեալներ
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1234,6 +1268,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Դիտել { -brand-short-name }-ի հետազոտութիւնները
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1283,8 +1320,26 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Մի միացրէք «Միայն HTTPS» աշխատակերպը
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
 downloads-folder-name = Ներբեռնումներ
 choose-download-folder-title = Ընտրել ներբեռնումների թղթապանակը.
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
