@@ -271,6 +271,9 @@ update-application-description = Yaxşı məhsuldarlıq, sabitlik və təhlükə
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Buraxılış { $version } <a data-l10n-name="learn-more">Yeniliklər</a>
+update-history-2 =
+    .label = Yeniləmə tarixçəsini göstər
+    .accesskey = e
 update-history =
     .label = Yeniləmə tarixçəsini göstər…
     .accesskey = e
