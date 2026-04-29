@@ -26,11 +26,17 @@ settings-update-downloading-2 =
 ##
 
 update-applying = सुधारणा लागू करत आहे…
+settings-update-applying =
+    .label = सुधारणा लागू करत आहे…
 update-failed = सुधारणा अपयशी. <label data-l10n-name="failed-link">अद्ययावत आवृत्ती डाऊनलोड करा</label>
 update-failed-main = सुधारणा अपयशी. <a data-l10n-name="failed-link-main">अद्ययावत आवृत्ती डाऊनलोड करा</a>
 update-adminDisabled = प्रणाली प्रशासकाद्वारे सुधारणा बंद केल्या आहेत
 update-noUpdatesFound = { -brand-short-name } अद्ययावत आहे
+settings-update-no-updates-found =
+    .label = { -brand-short-name } अद्ययावत आहे
 update-otherInstanceHandlingUpdates = { -brand-short-name } यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } यावेळी वेगळ्या ठिकाणाहून सुधारित होत आहे
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
