@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = 正在应用更新…
+settings-update-applying =
+    .label = 正在应用更新…
 update-failed = 更新失败。 <label data-l10n-name="failed-link">下载最新版本</label>
 update-failed-main = 更新失败。 <a data-l10n-name="failed-link-main">下载最新版本</a>
 update-adminDisabled = 更新已被系统管理员禁用
