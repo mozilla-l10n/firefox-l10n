@@ -55,6 +55,7 @@ update-restarting = Redémarrage…
 settings-update-restarting =
     .label = Redémarrage…
 update-internal-error2 = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
