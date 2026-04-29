@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Applying update…
+settings-update-applying =
+    .label = Applying update…
 update-failed = Update failed. <label data-l10n-name="failed-link">Download the latest version</label>
 update-failed-main = Update failed. <a data-l10n-name="failed-link-main">Download the latest version</a>
 update-adminDisabled = Updates disabled by your system administrator
