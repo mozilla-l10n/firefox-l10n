@@ -12,6 +12,8 @@ update-updateButton =
     .label = Ponovno zaženi za posodobitev { -brand-shorter-name(sklon: "rodilnik") }
     .accesskey = Z
 update-checkingForUpdates = Preverjanje posodobitev …
+settings-update-checking-for-updates =
+    .label = Preverjanje posodobitev …
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -22,13 +24,23 @@ aboutdialog-update-downloading = Prenašanje posodobitve – <label data-l10n-na
 ##
 
 update-applying = Nameščanje posodobitev …
+settings-update-applying =
+    .label = Nameščanje posodobitev …
 update-failed = Posodobitev ni uspela. <label data-l10n-name="failed-link">Prenesite najnovejšo različico</label>
 update-failed-main = Posodobitev ni uspela. <a data-l10n-name="failed-link-main">Prenesite najnovejšo različico</a>
 update-adminDisabled = Vaš sistemski skrbnik je onemogočil posodabljanje
 update-policy-disabled = Posodobitve je onemogočila vaša organizacija
+settings-update-policy-disabled =
+    .label = Posodobitve je onemogočila vaša organizacija
 update-noUpdatesFound = { -brand-short-name } je posodobljen
+settings-update-no-updates-found =
+    .label = { -brand-short-name } je posodobljen
 aboutdialog-update-checking-failed = Iskanje posodobitev ni uspelo.
+settings-update-checking-failed =
+    .label = Iskanje posodobitev ni uspelo.
 update-otherInstanceHandlingUpdates = { -brand-short-name } se posodablja v drugem primerku
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } se posodablja v drugem primerku
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,6 +48,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } se posodablja v drug
 aboutdialog-update-manual-with-link = Posodobitve so na voljo na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Posodobitve so na voljo na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-name="unsupported-link">Več o tem</label>
+settings-update-unsupported = Nadaljnje posodobitve niso več mogoče. <a data-l10n-name="unsupported-link">Več o tem</a>
 update-restarting = Ponovni zagon …
 settings-update-restarting =
     .label = Ponovni zagon …
