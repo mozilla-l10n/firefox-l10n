@@ -45,6 +45,8 @@ settings-update-manual-with-link = Atjaunynuojumi ir pīejami ite<a data-l10n-na
 update-unsupported = Papyldus atjaunynuojumi itymā sistemā nav īspiejami. <label data-l10n-name="unsupported-link">Uzzynojit vairuok</label>
 settings-update-unsupported = Papyldus atjaunynuojumi itymā sistemā nav īspiejami. <a data-l10n-name="unsupported-link">Uzzynojit vairuok</a>
 update-restarting = Nūteik puorstarteišona…
+settings-update-restarting =
+    .label = Nūteik puorstarteišona…
 
 ##
 
