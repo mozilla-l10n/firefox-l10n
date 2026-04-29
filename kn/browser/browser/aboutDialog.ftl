@@ -30,6 +30,8 @@ update-failed-main = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ.
 update-adminDisabled = ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯ ನಿರ್ವಾಹಕರಿಂದ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ
 update-noUpdatesFound = { -brand-short-name } ಅಪ್‌ಟುಡೇಟ್ ಆಗಿದೆ
 update-otherInstanceHandlingUpdates = { -brand-short-name } ಅನ್ನು ಇನ್ನೊಂದು ನಿದರ್ಶನದಿಂದ ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } ಅನ್ನು ಇನ್ನೊಂದು ನಿದರ್ಶನದಿಂದ ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
