@@ -18,6 +18,8 @@ update-checkingForUpdates = Çerco i agiornamenti…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Descarego agiornamenti — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Descarego l’agiornamento — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Descarego agiornamenti — { $transfer }
 
 ##
 
