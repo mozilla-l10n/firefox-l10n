@@ -463,6 +463,8 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Ak chcete použiť tieto zmeny, reštartujte { -brand-short-name(case: "acc") }
 confirm-browser-language-change-button = Použiť a reštartovať
+browser-language-install-error =
+    .message = { -brand-short-name } v tejto chvíli nemôže aktualizovať zoznam jazykov. Skontrolujte svoje internetové pripojenie a skúste to znova.
 translate-web-pages =
     .label = Prekladať webový obsah do iného jazyka
     .accesskey = r
@@ -656,7 +658,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Čo má { -brand-short-name } robiť s inými súbormi?
 applications-save-for-new-types =
@@ -715,6 +717,9 @@ update-in-progress-ok-button = &Zrušiť
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1435,7 +1440,7 @@ forms-ask-to-save-logins =
     .label = Ponúkať uloženie prihlasovacích údajov na webových stránkach
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1536,6 +1541,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ďalšie informácie
 forms-windows-sso-desc = Účty môžete spravovať v nastaveniach vášho zariadenia
 windows-passkey-settings-label = Prístupové kľúče môžete spravovať v nastaveniach systému
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
