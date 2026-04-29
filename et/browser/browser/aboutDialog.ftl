@@ -12,6 +12,8 @@ update-updateButton =
     .label = Uuendamiseks taaskäivita { -brand-shorter-name }
     .accesskey = U
 update-checkingForUpdates = Uuenduste olemasolu kontrollimine…
+settings-update-checking-for-updates =
+    .label = Uuenduste olemasolu kontrollimine…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
