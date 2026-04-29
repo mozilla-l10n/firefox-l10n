@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = হালনাগাদ প্রয়োগ করা হচ্ছে…
+settings-update-applying =
+    .label = হালনাগাদ প্রয়োগ করা হচ্ছে…
 update-failed = হালনাগাদ ব্যর্থ। <label data-l10n-name="failed-link">সর্বশেষ সংস্করণ ডাউনলোড করুন</label>
 update-failed-main = হালনাগাদ ব্যর্থ। <a data-l10n-name="failed-link-main">সর্বশেষ সংস্করণ ডাউনলোড করুন</a>
 update-adminDisabled = সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে
