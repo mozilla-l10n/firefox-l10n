@@ -12,6 +12,8 @@ update-updateButton =
     .label = Dèan ath-thòiseachadh airson { -brand-shorter-name } ùrachadh
     .accesskey = R
 update-checkingForUpdates = A' lorg ùrachaidhean…
+settings-update-checking-for-updates =
+    .label = A' lorg ùrachaidhean…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
