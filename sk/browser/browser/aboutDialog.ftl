@@ -12,6 +12,8 @@ update-updateButton =
     .label = Reštartovať a aktualizovať aplikáciu { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Vyhľadávajú sa aktualizácie…
+settings-update-checking-for-updates =
+    .label = Vyhľadávajú sa aktualizácie…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -24,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Aktualizácia sa inštaluje…
+settings-update-applying =
+    .label = Aktualizácia sa inštaluje…
 update-failed = Aktualizácia zlyhala. <label data-l10n-name="failed-link">Stiahnuť najnovšiu verziu</label>
 update-failed-main = Aktualizácia zlyhala. <a data-l10n-name="failed-link-main">Stiahnuť najnovšiu verziu</a>
 update-adminDisabled = Aktualizácie boli vypnuté správcom systému
