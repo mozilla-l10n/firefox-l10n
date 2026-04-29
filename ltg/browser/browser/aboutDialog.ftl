@@ -17,10 +17,14 @@ update-checkingForUpdates = Meklej atjaunynuojumus…
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Lejupīluodē atjaunynuojumu — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Lejupīluodē atjaunynuojumu — { $transfer }
 
 ##
 
 update-applying = Instalej atjaunynuojumu…
+settings-update-applying =
+    .label = Instalej atjaunynuojumu…
 update-failed = Atjaunynuošona naizadeve. <label data-l10n-name="failed-link">Lejupīlōdej jaunōkū verseju</label>
 update-failed-main = Atjaunynuošona naizadeve. <a data-l10n-name="failed-link-main">Lejupīlōdej jaunōkū verseju</a>
 update-adminDisabled = Jiusu sistemys administrators ir deaktiviejs atjaunynuojumus
