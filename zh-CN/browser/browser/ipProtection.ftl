@@ -233,6 +233,9 @@ vpn-paused-alert-title = VPN 已暂停
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = 您已用完全部 { $maxUsage } GB VPN 流量，使用权限将于下个月重置。
 vpn-paused-alert-close-tabs-button = 关闭所有标签页
 vpn-paused-alert-continue-wo-vpn-button = 不使用 VPN 继续
 vpn-error-alert-title = VPN 目前未运行。
