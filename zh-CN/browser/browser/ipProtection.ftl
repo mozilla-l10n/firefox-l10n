@@ -56,6 +56,7 @@ unauthenticated-hide-location-message-2 = 在用 { -brand-product-name } 浏览�
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = 每月可免费获得 { $maxUsage } GB VPN 流量
 unauthenticated-get-started = 开始使用
+unauthenticated-terms-of-service-privacy-notice = 若继续，即表示您同意我们的<a data-l10n-name="vpn-terms-of-service">服务条款</a>和<a data-l10n-name="vpn-privacy-notice">隐私声明</a>。
 site-exclusion-toggle-enabled-1 =
     .label = 为此网站使用 VPN
     .aria-label = 已为此网站开启 VPN
@@ -80,6 +81,12 @@ ipprotection-button-turn-vpn-off-excluded-site = 完全关闭 VPN
 ipprotection-button-turn-vpn-on = 开启 VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = 正在开启…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = 位置：推荐
 
 ## VPN paused state
 
