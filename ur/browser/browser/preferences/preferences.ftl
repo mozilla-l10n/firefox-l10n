@@ -55,6 +55,17 @@ should-restart-ok = { -brand-short-name } کو ابھی دوباره شروع ک
 cancel-no-restart-button = منسوخ کریں
 restart-later = بعد میں دوباره شروع کریں
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
+
 ## Preferences UI Search Results
 
 search-results-header = تلاش کے نتائج
@@ -173,6 +184,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = { -brand-short-name } دوبارہ شروع کریں ان تبدیلیوں کو لاگو کرنے کے لیے
 confirm-browser-language-change-button = لاگو کرے اور دوبارہ شروع کریں
+browser-language-install-error =
+    .message = { -brand-short-name } آپکے زبانیں اس وقت تازہ نہیں کر سکتا۔ جانچ پڑتال کریں کہ آپ انٹرنیٹ سے جڑے ہوئے ہیں یا دوبارہ کوشش کریں۔
 translate-web-pages =
     .label = ترجمہ کریں ویب کے مواد کا
     .accesskey = T
@@ -278,7 +291,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = عددی حقوق بندرستگی(DRM) مواد
@@ -313,6 +326,12 @@ update-in-progress-ok-button = &رد کريں
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &جاری رکھیں
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -367,6 +386,9 @@ browsing-cfr-recommendations-learn-more = مزید سیکھیں
 browsing-group =
     .label = براؤزنگ
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = نیٹ ورک سیٹنگز
@@ -415,6 +437,12 @@ use-current-pages =
 choose-bookmark =
     .label = بک مارک استعمال کریں…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -575,6 +603,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } توثیق شدہ نہیں ہے۔
 sync-signedin-login-failure = پھر جڑنے کے لیے سائن ان کریں { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -709,7 +742,7 @@ forms-ask-to-save-logins =
     .label = ویب سائٹس کے لئے لاگ ان اور پاس ورڈ کو محفوظ کرنے کے لئے پوچھیں
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = استثنیات…
@@ -744,6 +777,9 @@ forms-primary-pw-change =
 forms-primary-pw-former-name = پہلے ماسٹر پاس ورڈ کے نام سے جانا جاتا تھا
 forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -752,6 +788,9 @@ forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = ایک بنیادی پاس ورڈ بنائیں
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -837,6 +876,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = کوکیز اور سائٹ کے کواِئف
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -991,6 +1036,9 @@ addon-recommendations-link = مزید سیکھیں
 data-collection-studies-link =
     .label = { -brand-short-name } کی مطالعات دیکھیں
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1029,8 +1077,26 @@ space-alert-over-5gb-settings-button =
 
 httpsonly-learn-more = اورجانیے
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
 choose-download-folder-title = ڈاؤن لوڈ پوشہ انتخاب کریں:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
