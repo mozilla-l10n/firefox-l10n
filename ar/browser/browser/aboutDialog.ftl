@@ -22,6 +22,8 @@ aboutdialog-update-downloading = جارِ تنزيل التحديث — <label d
 ##
 
 update-applying = يطبّق التحديث…
+settings-update-applying =
+    .label = يطبّق التحديث…
 update-failed = فشل التحديث. <label data-l10n-name="failed-link">نزّل أحدث نسخة</label>
 update-failed-main = فشل التحديث. <a data-l10n-name="failed-link-main">نزّل أحدث نسخة</a>
 update-adminDisabled = عطّلَ مدير النظام التحديثات
@@ -36,7 +38,10 @@ update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } 
 aboutdialog-update-manual-with-link = التحديثات متاحة في <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = التحديثات متاحة في <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = لا يمكنك إجراء أي تحديثات أخرى على هذا النظام. <label data-l10n-name="unsupported-link">اطّلع على المزيد</label>
+settings-update-unsupported = لا يمكنك إجراء أي تحديثات أخرى على هذا النظام. <a data-l10n-name="unsupported-link">اطّلع على المزيد</a>
 update-restarting = يُعيد التشغيل…
+settings-update-restarting =
+    .label = يُعيد التشغيل…
 update-internal-error2 = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
