@@ -12,23 +12,37 @@ update-updateButton =
     .label = Redémarrer pour mettre à jour { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Recherche de mises à jour…
+settings-update-checking-for-updates =
+    .label = Recherche de mises à jour…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Téléchargement de la mise à jour — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Téléchargement de la mise à jour — { $transfer }
 
 ##
 
 update-applying = Application de la mise à jour…
+settings-update-applying =
+    .label = Application de la mise à jour…
 update-failed = La mise à jour a échoué. <label data-l10n-name="failed-link">Télécharger la dernière version</label>
 update-failed-main = La mise à jour a échoué. <a data-l10n-name="failed-link-main">Télécharger la dernière version</a>
 update-adminDisabled = Les mises à jour sont désactivées par votre administrateur système
 update-policy-disabled = Mises à jour désactivées par votre organisation
+settings-update-policy-disabled =
+    .label = Mises à jour désactivées par votre organisation
 update-noUpdatesFound = { -brand-short-name } est à jour
+settings-update-no-updates-found =
+    .label = { -brand-short-name } est à jour
 aboutdialog-update-checking-failed = Échec de la vérification des mises à jour.
+settings-update-checking-failed =
+    .label = Échec de la vérification des mises à jour.
 update-otherInstanceHandlingUpdates = { -brand-short-name } est mis à jour par une autre instance
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } est mis à jour par une autre instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } est mis à jour par 
 aboutdialog-update-manual-with-link = Mises à jour disponibles à <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Mises à jour disponibles sur <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = La dernière version n’est pas disponible pour votre système. <label data-l10n-name="unsupported-link">En savoir plus</label>
+settings-update-unsupported = La dernière version n’est pas disponible pour votre système. <a data-l10n-name="unsupported-link">En savoir plus</a>
 update-restarting = Redémarrage…
+settings-update-restarting =
+    .label = Redémarrage…
 update-internal-error2 = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

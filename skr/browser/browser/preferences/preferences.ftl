@@ -315,6 +315,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = انہاں تبدیلیاں کوں لاگو کرݨ کیتے { -brand-short-name } کوں دوبارہ شروع کرو۔
 confirm-browser-language-change-button = لاگو کرو تے دوبارہ شروع کرو
+browser-language-install-error =
+    .message = { -brand-short-name } ہݨ تہاݙیاں زباناں کوں اپ ڈیٹ نہیں کر سڳدا۔ چیک کرو جو تساں انٹرنیٹ نال منسلک ہو یا دوبارہ کوشش کرو۔
 translate-web-pages =
     .label = ویب مواد ترجمہ کرو
     .accesskey = T
@@ -436,7 +438,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } کوں ٻیاں فائلاں دے نال کیا کرݨا چاہیدا اے؟
 applications-save-for-new-types =
@@ -457,6 +459,9 @@ update-application-description = بہترین کارکردگی، استحکام 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ورژن { $version } <a data-l10n-name="learn-more"> نواں کیا ہے </a>
+update-history-2 =
+    .label = اپ ڈیٹ تاریخ ݙکھاؤ{ " " }
+    .accesskey = p
 update-history =
     .label = اپ ڈیٹ تاریخ ݙکھاؤ …
     .accesskey = p
@@ -473,6 +478,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = جݙاں { -brand-short-name } نہیں چلدا پیا۔
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = ایہ ترتیب تمام Windows اکاؤنٹس اتے { -brand-short-name } پروفائلز تے لاگو تھیسے جیڑھے { -brand-short-name } دی ایں انسٹالیشن دا استعمال کریندے پئے ہن۔
 update-application-warning-cross-user-setting = ایہ ترتیب تمام Windows اکاؤنٹس اتے { -brand-short-name } پروفائلز تے لاگو تھیسے جیڑھے { -brand-short-name } دی ایں انسٹالیشن دا استعمال کریندے پئے ہن۔
 update-application-use-service =
     .label = اپ ڈیٹس انسٹال کرݨ کیتے بیک گراؤنڈ سروس استعمال کرو۔
@@ -495,6 +502,12 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -563,6 +576,9 @@ browsing-cfr-recommendations-learn-more = ٻیا سِکھو
 browsing-group =
     .label = براؤزنگ
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = نیٹ ورک دیاں ترتیباں
@@ -614,6 +630,12 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -815,6 +837,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -973,7 +1000,7 @@ forms-ask-to-save-logins =
     .label = ویب سائٹاں کیتے لاگ انز تے پاس ورڈز ہتھیکڑا کرݨ کیتے پچھو
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1043,6 +1070,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ٻیا سِکھو
 forms-windows-sso-desc = اپݨے موبائل ڈیوائس وِچ اکاؤنٹس کوں منظم کرو
 windows-passkey-settings-label = سسٹم دیاں ترتیباں وِچ پاس کلیداں کوں منظم کرو
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1552,8 +1582,23 @@ preferences-doh-manage-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
 choose-download-folder-title = ڈاؤن لوڈ فولڈر دا انتخاب کرو:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

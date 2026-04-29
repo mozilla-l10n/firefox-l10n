@@ -12,23 +12,37 @@ update-updateButton =
     .label = Endurræstu til að uppfæra { -brand-shorter-name }
     .accesskey = r
 update-checkingForUpdates = Athuga með uppfærslur…
+settings-update-checking-for-updates =
+    .label = Athuga með uppfærslur…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Sæki uppfærslu - <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Sækir uppfærslu — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Sæki uppfærslu - { $transfer }
 
 ##
 
 update-applying = Virkja uppfærslu…
+settings-update-applying =
+    .label = Virkja uppfærslu…
 update-failed = Uppfærsla mistókst. <label data-l10n-name="failed-link">Sækja nýjustu útgáfuna</label>
 update-failed-main = Uppfærsla mistókst. <a data-l10n-name="failed-link-main">Sækja nýjustu útgáfuna</a>
 update-adminDisabled = Uppfærslur hafa verið gerðar óvirkar af kerfistjóra
 update-policy-disabled = Uppfærslur gerðar óvirkar af kerfisstjóra
+settings-update-policy-disabled =
+    .label = Uppfærslur gerðar óvirkar af kerfisstjóra
 update-noUpdatesFound = { -brand-short-name } er þegar með nýjustu útgáfu
+settings-update-no-updates-found =
+    .label = { -brand-short-name } er þegar með nýjustu útgáfu
 aboutdialog-update-checking-failed = Mistókst að athuga með uppfærslur.
+settings-update-checking-failed =
+    .label = Mistókst að athuga með uppfærslur.
 update-otherInstanceHandlingUpdates = Verið er að uppfæra { -brand-short-name } annarstaðar
+settings-update-other-instance-handling-updates =
+    .label = Verið er að uppfæra { -brand-short-name } annarstaðar
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Verið er að uppfæra { -brand-short-name
 aboutdialog-update-manual-with-link = Uppfærslur eru fáanlegar frá <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Uppfærslur eru fáanlegar frá <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ekki er hægt að setja inn fleiri uppfærslur. <label data-l10n-name="unsupported-link">Frekari upplýsingar</label>
+settings-update-unsupported = Ekki er hægt að setja inn fleiri uppfærslur. <a data-l10n-name="unsupported-link">Frekari upplýsingar</a>
 update-restarting = Endurræsir…
+settings-update-restarting =
+    .label = Endurræsir…
 update-internal-error2 = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Ekki er hægt að leita að uppfærslum vegna innri villu. Uppfærslur eru fáanlegar á <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

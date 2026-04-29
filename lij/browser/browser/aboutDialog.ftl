@@ -12,23 +12,37 @@ update-updateButton =
     .label = Arvi torna { -brand-shorter-name } pe agiornâ
     .accesskey = R
 update-checkingForUpdates = Çerco i agiornamenti…
+settings-update-checking-for-updates =
+    .label = Çerco i agiornamenti…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Descarego agiornamenti — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Descarego l’agiornamento — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Descarego agiornamenti — { $transfer }
 
 ##
 
 update-applying = Instalaçion de l'agiornamento…
+settings-update-applying =
+    .label = Instalaçion de l'agiornamento…
 update-failed = Agiornamento no ariescio. <label data-l10n-name="failed-link">Descarega l'urtima verscion</label>
 update-failed-main = Agiornamento no ariescio. <a data-l10n-name="failed-link-main">Descarega l'urtima verscion</a>
 update-adminDisabled = I agiornamenti en dizabilitæ da-o teu aministratô do scistema
 update-policy-disabled = Agiornamenti dizabilitæ da teu organizaçion
+settings-update-policy-disabled =
+    .label = Agiornamenti dizabilitæ da teu organizaçion
 update-noUpdatesFound = { -brand-short-name } o l'é agiornòu
+settings-update-no-updates-found =
+    .label = { -brand-short-name } o l'é agiornòu
 aboutdialog-update-checking-failed = No riescio a controlâ i agiornamenti
+settings-update-checking-failed =
+    .label = No riescio a controlâ i agiornamenti
 update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte n'atra istansa
+settings-update-other-instance-handling-updates =
+    .label = Agiornamento de { -brand-short-name } inte n'atra istansa
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Agiornamento de { -brand-short-name } inte
 aboutdialog-update-manual-with-link = I agiornamenti en in <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = I agiornamenti en in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No l'é poscibile instalâ atri agiornamenti in sce sto scistema.<label data-l10n-name="unsupported-link">Atre informaçioin</label>
+settings-update-unsupported = No l'é poscibile instalâ atri agiornamenti in sce sto scistema.<a data-l10n-name="unsupported-link">Atre informaçioin</a>
 update-restarting = Arvo torna…
+settings-update-restarting =
+    .label = Arvo torna…
 update-internal-error2 = No emmo posciuo controlâ i agiornamenti pe caxon de un problema interno. I agiornamenti en disponibili a <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = No emmo posciuo controlâ i agiornamenti pe caxon de un problema interno. I agiornamenti en disponibili a <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

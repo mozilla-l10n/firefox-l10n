@@ -12,20 +12,30 @@ update-updateButton =
     .label = { -brand-shorter-name } yeniləmək üçün yenidən başladın
     .accesskey = R
 update-checkingForUpdates = Yeniləmələr yoxlanılır…
+settings-update-checking-for-updates =
+    .label = Yeniləmələr yoxlanılır…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Yeniləmə endirilir — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Yeniləmə endirilir — { $transfer }
 
 ##
 
 update-applying = Yeniləmə tətbiq edilir…
+settings-update-applying =
+    .label = Yeniləmə tətbiq edilir…
 update-failed = Yeniləmə uğursuz oldu. <label data-l10n-name="failed-link">Son versiyanı endirin</label>
 update-failed-main = Yeniləmə uğursuz oldu. <a data-l10n-name="failed-link-main">Son versiyanı endirin</a>
 update-adminDisabled = Yeniləmələr sistem idarəçiniz tərəfindən söndürülmüşdür
 update-noUpdatesFound = { -brand-short-name } aktualdır
+settings-update-no-updates-found =
+    .label = { -brand-short-name } aktualdır
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən yenilənir
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } başqa nümunədən yenilənir
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən 
 aboutdialog-update-manual-with-link = Yeniləmələr buradadır: <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Yeniləmələr buradadır: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Siz bu sistemdə gələcək yeniləmələri qura bilməyəcəksiniz. <label data-l10n-name="unsupported-link">Ətraflı öyrən</label>
+settings-update-unsupported = Siz bu sistemdə gələcək yeniləmələri qura bilməyəcəksiniz. <a data-l10n-name="unsupported-link">Ətraflı öyrən</a>
 update-restarting = Yenidən başladılır…
+settings-update-restarting =
+    .label = Yenidən başladılır…
 
 ##
 

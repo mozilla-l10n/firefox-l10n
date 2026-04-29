@@ -12,23 +12,37 @@ update-updateButton =
     .label = أعد التشغيل لتحديث { -brand-shorter-name }
     .accesskey = د
 update-checkingForUpdates = يتحقق مِن التحديثات…
+settings-update-checking-for-updates =
+    .label = يتحقق مِن التحديثات…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>جارِ تنزيل التحديث — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = جارِ تنزيل التحديث — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = جارِ تنزيل التحديث — { $transfer }
 
 ##
 
 update-applying = يطبّق التحديث…
+settings-update-applying =
+    .label = يطبّق التحديث…
 update-failed = فشل التحديث. <label data-l10n-name="failed-link">نزّل أحدث نسخة</label>
 update-failed-main = فشل التحديث. <a data-l10n-name="failed-link-main">نزّل أحدث نسخة</a>
 update-adminDisabled = عطّلَ مدير النظام التحديثات
 update-policy-disabled = التحديثات مُعطَّلة بواسطة منظّمتك
+settings-update-policy-disabled =
+    .label = التحديثات مُعطَّلة بواسطة منظّمتك
 update-noUpdatesFound = { -brand-short-name } مُحدَّث
+settings-update-no-updates-found =
+    .label = { -brand-short-name } مُحدَّث
 aboutdialog-update-checking-failed = فشل التحقق مِن التحديثات.
+settings-update-checking-failed =
+    .label = فشل التحقق مِن التحديثات.
 update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } في سيرورة أخرى
+settings-update-other-instance-handling-updates =
+    .label = يجري تحديث { -brand-short-name } في سيرورة أخرى
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } 
 aboutdialog-update-manual-with-link = التحديثات متاحة في <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = التحديثات متاحة في <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = لا يمكنك إجراء أي تحديثات أخرى على هذا النظام. <label data-l10n-name="unsupported-link">اطّلع على المزيد</label>
+settings-update-unsupported = لا يمكنك إجراء أي تحديثات أخرى على هذا النظام. <a data-l10n-name="unsupported-link">اطّلع على المزيد</a>
 update-restarting = يُعيد التشغيل…
+settings-update-restarting =
+    .label = يُعيد التشغيل…
 update-internal-error2 = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

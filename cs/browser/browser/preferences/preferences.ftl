@@ -539,6 +539,8 @@ confirm-browser-language-change-description =
        *[no-cases] Aby se změny projevily, restartujte aplikaci { -brand-short-name }
     }
 confirm-browser-language-change-button = Potvrdit a restartovat
+browser-language-install-error =
+    .message = { -brand-short-name } nyní nemůže aktualizovat seznam jazyků. Zkontrolujte internetové připojení a zkuste to znovu.
 translate-web-pages =
     .label = Překládat webové stránky
     .accesskey = T
@@ -735,7 +737,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Co má { -brand-short-name } dělat s ostatními soubory?
 applications-save-for-new-types =
@@ -764,6 +766,9 @@ update-application-description =
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verze { $version } <a data-l10n-name="learn-more">Co je nového</a>
+update-history-2 =
+    .label = Zobrazit historii aktualizací
+    .accesskey = h
 update-history =
     .label = Zobrazit historii aktualizací…
     .accesskey = h
@@ -790,6 +795,12 @@ update-application-background-enabled =
            *[other] Když je aplikace vypnutá
         }
     .accesskey = v
+update-application-warning-cross-user-setting-2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name(case: "gen") }, pokud používají stejnou instalaci.
+           *[no-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily aplikace { -brand-short-name }, pokud používají stejnou instalaci.
+        }
 update-application-warning-cross-user-setting =
     { -brand-short-name.case-status ->
         [with-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name(case: "gen") }, pokud používají stejnou instalaci.
@@ -837,6 +848,9 @@ update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1585,7 +1599,7 @@ forms-ask-to-save-logins =
     .label = Ptát se na ukládání přihlašovacích údajů
     .accesskey = P
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1686,6 +1700,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Zjistit více
 forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízení
 windows-passkey-settings-label = Správa přístupových klíčů v nastavení systému
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

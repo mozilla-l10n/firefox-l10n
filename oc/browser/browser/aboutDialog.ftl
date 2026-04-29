@@ -12,23 +12,37 @@ update-updateButton =
     .label = Reaviar per metre a jorn { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Recèrca de mesas a jorn…
+settings-update-checking-for-updates =
+    .label = Recèrca de mesas a jorn…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Telecargament de mesa a jorn — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Telecargament de la mesa a jorn — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Telecargament de mesa a jorn — { $transfer }
 
 ##
 
 update-applying = Aplicacion de la mesa a jorn…
+settings-update-applying =
+    .label = Aplicacion de la mesa a jorn…
 update-failed = La mesa a jorn a fracassat. <label data-l10n-name="failed-link">Telecargar la darrièra version</label>
 update-failed-main = La mesa a jorn a fracassat. <a data-l10n-name="failed-link-main">Telecargar la darrièra version</a>
 update-adminDisabled = Las mesas a jorn son desactivadas per vòstre administrator del sistèma
 update-policy-disabled = Mesas a jorn desactivadas per vòstra organizacion
+settings-update-policy-disabled =
+    .label = Mesas a jorn desactivadas per vòstra organizacion
 update-noUpdatesFound = { -brand-short-name } es a jorn
+settings-update-no-updates-found =
+    .label = { -brand-short-name } es a jorn
 aboutdialog-update-checking-failed = Verificacion impossibla de la disponibilitat de mesas a jorn.
+settings-update-checking-failed =
+    .label = Verificacion impossibla de la disponibilitat de mesas a jorn.
 update-otherInstanceHandlingUpdates = { -brand-short-name } es mes a jorn per una autra instància
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } es mes a jorn per una autra instància
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } es mes a jorn per un
 aboutdialog-update-manual-with-link = Mesas a jorn disponiblas a <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Mesas a jorn disponiblas a <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = La darrièra version es pas disponibla per vòstre sistèma. <label data-l10n-name="unsupported-link">Ne saber mai</label>
+settings-update-unsupported = La darrièra version es pas disponibla per vòstre sistèma. <a data-l10n-name="unsupported-link">Ne saber mai</a>
 update-restarting = Reaviada…
+settings-update-restarting =
+    .label = Reaviada…
 update-internal-error2 = Verificacion impossibla de las mesas a jorn a causa d’una error intèrna. Las mesas a jorn son disponibla a <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Verificacion impossibla de las mesas a jorn a causa d’una error intèrna. Las mesas a jorn son disponibla a <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

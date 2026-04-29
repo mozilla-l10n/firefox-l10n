@@ -472,6 +472,8 @@ manage-browser-languages-button =
     .accesskey = G
 confirm-browser-language-change-description = Ailgychwyn { -brand-short-name } i osod y newidiadau hyn
 confirm-browser-language-change-button = Gosod ac Ailgychwyn
+browser-language-install-error =
+    .message = Nid yw { -brand-short-name } yn gallu diweddaru eich iaith ar hyn o bryd. Gwiriwch eich bod wedi eich cysylltu i'r rhyngrwyd neu ceisiwch eto.
 translate-web-pages =
     .label = Cyfieithu cynnwys gwe
     .accesskey = C
@@ -665,7 +667,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Beth ddylai { -brand-short-name } wneud gyda ffeiliau eraill?
 applications-save-for-new-types =
@@ -686,6 +688,9 @@ update-application-description = Cadwch { -brand-short-name } yn gyfredol am y p
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more">Beth sy'n newydd</a>
+update-history-2 =
+    .label = Dangos Hanes Diweddaru
+    .accesskey = D
 update-history =
     .label = Dangos Hanes Diweddaru…
     .accesskey = D
@@ -702,6 +707,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Pan nad yw { -brand-short-name } yn rhedeg
     .accesskey = P
+update-application-warning-cross-user-setting-2 =
+    .message = Bydd y gosodiad hwn yn berthnasol i bob cyfrif Windows a proffiliau { -brand-short-name } sy'n ddefnyddio'r gosodiad { -brand-short-name } hwn.
 update-application-warning-cross-user-setting = Bydd y gosodiad hwn yn berthnasol i bob cyfrif Windows a proffiliau { -brand-short-name } sy'n ddefnyddio'r gosodiad { -brand-short-name } hwn.
 update-application-use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
@@ -724,6 +731,9 @@ update-in-progress-ok-button = &Dileu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1447,7 +1457,7 @@ forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
     .accesskey = G
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1548,6 +1558,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Darllen rhagor
 forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
 windows-passkey-settings-label = Rheoli cyfrinallweddi o fewn gosodiadau system
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

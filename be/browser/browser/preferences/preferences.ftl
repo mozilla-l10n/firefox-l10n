@@ -463,6 +463,8 @@ manage-browser-languages-button =
     .accesskey = э
 confirm-browser-language-change-description = Перазапусціць { -brand-short-name } для прымянення змен
 confirm-browser-language-change-button = Прымяніць і перастартаваць
+browser-language-install-error =
+    .message = { -brand-short-name } не можа абнавіць вашы мовы прама зараз. Праверце сваё злучэнне з інтэрнэтам або паспрабуйце ізноў.
 translate-web-pages =
     .label = Перакладаць змесціва
     .accesskey = П
@@ -656,7 +658,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Што { -brand-short-name } мусіць рабіць з іншымі файламі?
 applications-save-for-new-types =
@@ -677,6 +679,9 @@ update-application-description = Трымайце { -brand-short-name } абно
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Версія { $version } <a data-l10n-name="learn-more">Што новага</a>
+update-history-2 =
+    .label = Паказаць гісторыю абнаўленняў
+    .accesskey = с
 update-history =
     .label = Паказаць гісторыю абнаўленняў...
     .accesskey = с
@@ -693,6 +698,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Калі { -brand-short-name } не запушчаны
     .accesskey = К
+update-application-warning-cross-user-setting-2 =
+    .message = Гэта налада дзейнічае на ўсе ўліковыя запісы Windows і профілі { -brand-short-name }, якія выкарыстоўваюць усталёўку { -brand-short-name }.
 update-application-warning-cross-user-setting = Гэта налада дзейнічае на ўсе ўліковыя запісы Windows і профілі { -brand-short-name }, якія выкарыстоўваюць усталёўку { -brand-short-name }.
 update-application-use-service =
     .label = Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў
@@ -715,6 +722,9 @@ update-in-progress-ok-button = &Адкінуць
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1435,7 +1445,7 @@ forms-ask-to-save-logins =
     .label = Прапаноўваць захаваць лагіны і паролі для вэб-сайтаў
     .accesskey = р
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1536,6 +1546,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Падрабязней
 forms-windows-sso-desc = Кіраванне ўліковымі запісамі ў наладах прылады
 windows-passkey-settings-label = Кіраваць ключамі доступу ў наладах сістэмы
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

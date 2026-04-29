@@ -12,23 +12,37 @@ update-updateButton =
     .label = 重启 { -brand-shorter-name } 以更新
     .accesskey = R
 update-checkingForUpdates = 正在检查更新…
+settings-update-checking-for-updates =
+    .label = 正在检查更新…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>正在下载更新 — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = 正在下载更新 — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = 正在下载更新 — { $transfer }
 
 ##
 
 update-applying = 正在应用更新…
+settings-update-applying =
+    .label = 正在应用更新…
 update-failed = 更新失败。 <label data-l10n-name="failed-link">下载最新版本</label>
 update-failed-main = 更新失败。 <a data-l10n-name="failed-link-main">下载最新版本</a>
 update-adminDisabled = 更新已被系统管理员禁用
 update-policy-disabled = 您的组织禁用了更新
+settings-update-policy-disabled =
+    .label = 您的组织禁用了更新
 update-noUpdatesFound = { -brand-short-name } 已是最新
+settings-update-no-updates-found =
+    .label = { -brand-short-name } 已是最新
 aboutdialog-update-checking-failed = 检查更新失败。
+settings-update-checking-failed =
+    .label = 检查更新失败。
 update-otherInstanceHandlingUpdates = { -brand-short-name } 正在由其他实例更新
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } 正在由其他实例更新
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } 正在由其他实�
 aboutdialog-update-manual-with-link = 可访问 <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = 可访问 <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = 您无法在这个系统上进一步更新。<label data-l10n-name="unsupported-link">详细了解</label>
+settings-update-unsupported = 您无法在这个系统上进一步更新。<a data-l10n-name="unsupported-link">详细了解</a>
 update-restarting = 正在重启浏览器…
+settings-update-restarting =
+    .label = 正在重启浏览器…
 update-internal-error2 = 发生内部错误，无法检查更新。可访问 <label data-l10n-name="manual-link">{ $displayUrl }</label> 手动下载更新。
+settings-update-internal-error = 发生内部错误，无法检查更新。可访问 <a data-l10n-name="manual-link">{ $displayUrl }</a> 手动下载更新。
 
 ##
 

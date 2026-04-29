@@ -12,22 +12,34 @@ update-updateButton =
     .label = Nakajie´e kutuvi a jíía { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Nánuku a jíía…
+settings-update-checking-for-updates =
+    .label = Nánuku a jíía…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Xinuun a jíía —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Xinú a jíía — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Xinuun a jíía —{ $transfer }
 
 ##
 
 update-applying = Naxi´ñá...
+settings-update-applying =
+    .label = Naxi´ñá...
 update-failed = Ntu kuvi naxi´ñá. <label data-l10n-name="failed-link">Xinuu iin a jíía da ya´a</label>
 update-failed-main = Ntu kuvi naxi´ñá. <a data-l10n-name="failed-link-main">Xinuu iin a jíía da ya´a</a>
 update-adminDisabled = Naxi´ñao ña´kuiñɨ nu ka̱a̱ tee nɨnuu
 update-noUpdatesFound = { -brand-short-name } naxi´ñao a iyo jíía
+settings-update-no-updates-found =
+    .label = { -brand-short-name } naxi´ñao a iyo jíía
 aboutdialog-update-checking-failed = Error saa nkajie'e nánuku actualizaciones
+settings-update-checking-failed =
+    .label = Error saa nkajie'e nánuku actualizaciones
 update-otherInstanceHandlingUpdates = { -brand-short-name } saa actualizar jíí inka instancia
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } saa actualizar jíí inka instancia
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -35,7 +47,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } saa actualizar jíí
 aboutdialog-update-manual-with-link = Naxi´ñao a jíía iyo nuu<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Naxi´ñao a jíía iyo nuu<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nkuvika naxi´ñá ka̱a̱ ya´a. <label data-l10n-name="unsupported-link">Kutu´va jiee ya´a</label>
+settings-update-unsupported = Nkuvika naxi´ñá ka̱a̱ ya´a. <a data-l10n-name="unsupported-link">Kutu´va jiee ya´a</a>
 update-restarting = Nakajie´e...
+settings-update-restarting =
+    .label = Nakajie´e...
 
 ##
 

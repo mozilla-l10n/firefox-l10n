@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = ח
 confirm-browser-language-change-description = יש להפעיל את { -brand-short-name } מחדש כדי להחיל את השינויים האלה
 confirm-browser-language-change-button = החלה והפעלה מחדש
+browser-language-install-error =
+    .message = ל־{ -brand-short-name } אין אפשרות לעדכן את השפות שלך כרגע. נא לבדוק שקיים חיבור לאינטרנט ולנסות שוב.
 translate-web-pages =
     .label = תרגום תוכן רשת
     .accesskey = ת
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = מה על { -brand-short-name } לעשות עם קבצים מסוג אחר?
 applications-save-for-new-types =
@@ -674,6 +676,9 @@ update-application-description = כדאי להשאיר את { -brand-short-name 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = גרסה { $version } <a data-l10n-name="learn-more">מה חדש</a>
+update-history-2 =
+    .label = הצגת היסטוריית עדכונים
+    .accesskey = ה
 update-history =
     .label = הצגת היסטוריית עדכונים…
     .accesskey = ה
@@ -690,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = כאשר { -brand-short-name } אינו פועל
     .accesskey = כ
+update-application-warning-cross-user-setting-2 =
+    .message = הגדרה זו תחול על כל חשבונות Windows ופרופילי { -brand-short-name } המשתמשים בהתקנה זו של { -brand-short-name }.
 update-application-warning-cross-user-setting = הגדרה זו תחול על כל חשבונות Windows ופרופילי { -brand-short-name } המשתמשים בהתקנה זו של { -brand-short-name }.
 update-application-use-service =
     .label = שימוש בשירות רקע לשם התקנת עדכונים
@@ -712,6 +719,9 @@ update-in-progress-ok-button = &ביטול
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &המשך
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1441,7 @@ forms-ask-to-save-logins =
     .label = הצגת בקשה לשמירת פרטי כניסה וססמאות לאתרים
     .accesskey = צ
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1542,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = מידע נוסף
 forms-windows-sso-desc = ניהול חשבונות בהגדרות במכשיר
 windows-passkey-settings-label = ניהול passkeys בהגדרות המערכת
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

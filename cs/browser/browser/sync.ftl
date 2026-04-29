@@ -43,6 +43,10 @@ fxa-menu-send-to-mobile =
            *[other] Odeslat { $tabCount } panelů do mobilu
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Povolit synchronizaci pro odeslání panelu
+fxa-menu-send-to-mobile-connect-phone2 = Připojit svůj telefon
+fxa-menu-send-to-mobile-device-missing2 = Nevidíte své zařízení?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Povolit synchronizaci pro odeslání panelu
 fxa-menu-send-to-mobile-connect-phone =

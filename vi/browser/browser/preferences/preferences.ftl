@@ -448,6 +448,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = Khởi động lại { -brand-short-name } để áp dụng các thay đổi này
 confirm-browser-language-change-button = Áp dụng và Khởi động lại
+browser-language-install-error =
+    .message = { -brand-short-name } không thể cập nhật ngôn ngữ của bạn ngay bây giờ. Kiểm tra kết nối internet và thử lại.
 translate-web-pages =
     .label = Dịch nội dung web
     .accesskey = D
@@ -641,7 +643,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } nên làm gì với các tập tin khác?
 applications-save-for-new-types =
@@ -662,6 +664,9 @@ update-application-description = Giữ { -brand-short-name } luôn cập nhật 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Phiên bản { $version } <a data-l10n-name="learn-more">Có gì mới</a>
+update-history-2 =
+    .label = Hiển thị lịch sử cập nhật
+    .accesskey = p
 update-history =
     .label = Hiển thị lịch sử cập nhật…
     .accesskey = p
@@ -678,6 +683,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Khi { -brand-short-name } không chạy
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = Cài đặt này sẽ áp dụng cho tất cả các tài khoản Windows và hồ sơ { -brand-short-name } bằng cách sử dụng cài đặt { -brand-short-name } này.
 update-application-warning-cross-user-setting = Cài đặt này sẽ áp dụng cho tất cả các tài khoản Windows và hồ sơ { -brand-short-name } bằng cách sử dụng cài đặt { -brand-short-name } này.
 update-application-use-service =
     .label = Sử dụng dịch vụ chạy nền để cài đặt các cập nhật
@@ -700,6 +707,9 @@ update-in-progress-ok-button = &Hủy bỏ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1415,7 +1425,7 @@ forms-ask-to-save-logins =
     .label = Hỏi để lưu lại thông tin đăng nhập và mật khẩu cho trang web
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1516,6 +1526,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Tìm hiểu thêm
 forms-windows-sso-desc = Quản lý tài khoản trong cài đặt thiết bị của bạn
 windows-passkey-settings-label = Quản lý passkey trong cài đặt hệ thống
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

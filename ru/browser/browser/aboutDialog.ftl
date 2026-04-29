@@ -12,23 +12,37 @@ update-updateButton =
     .label = Перезапустить { -brand-shorter-name } для обновления
     .accesskey = е
 update-checkingForUpdates = Проверка наличия обновлений…
+settings-update-checking-for-updates =
+    .label = Проверка наличия обновлений…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Скачивание обновления — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Скачивание обновления — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Скачивание обновления — { $transfer }
 
 ##
 
 update-applying = Применение обновления…
+settings-update-applying =
+    .label = Применение обновления…
 update-failed = Обновление не удалось. <label data-l10n-name="failed-link">Скачайте последнюю версию</label>
 update-failed-main = Обновление не удалось. <a data-l10n-name="failed-link-main">Скачайте последнюю версию</a>
 update-adminDisabled = Обновления отключены вашим системным администратором
 update-policy-disabled = Обновления отключены вашей организацией
+settings-update-policy-disabled =
+    .label = Обновления отключены вашей организацией
 update-noUpdatesFound = Установлена последняя версия { -brand-short-name }
+settings-update-no-updates-found =
+    .label = Установлена последняя версия { -brand-short-name }
 aboutdialog-update-checking-failed = Не удалось проверить наличие обновлений.
+settings-update-checking-failed =
+    .label = Не удалось проверить наличие обновлений.
 update-otherInstanceHandlingUpdates = { -brand-short-name } обновляется другим процессом
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } обновляется другим процессом
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } обновляетс
 aboutdialog-update-manual-with-link = Обновления доступны на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Обновления доступны на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Вы не можете производить дальнейшие обновления на этой системе. <label data-l10n-name="unsupported-link">Подробнее</label>
+settings-update-unsupported = Вы не можете производить дальнейшие обновления на этой системе. <a data-l10n-name="unsupported-link">Подробнее</a>
 update-restarting = Перезапуск…
+settings-update-restarting =
+    .label = Перезапуск…
 update-internal-error2 = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

@@ -163,6 +163,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = Duno'o' ni nachrun ñun' { -brand-short-name } da' naduna ma
 confirm-browser-language-change-button = Garayinat, ni dunâ'ajt ni nayi'ī ñut
+browser-language-install-error =
+    .message = { -brand-short-name } na'ue nagi'iaj nakàa ma nej nânj a'mi'. Ni'iaj si hua internet ni garahuê ñunt.
 translate-web-pages =
     .label = Nachru' a'ngo nânj gahui riña web
     .accesskey = N
@@ -266,7 +268,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = Sa ma DRM (Digital Rights Management - Sa Dugumin)
@@ -280,6 +282,9 @@ update-application-description = Nagi'iaj { -brand-short-name } nakà da' gi'iaj
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Sa nia' doj </a>
+update-history-2 =
+    .label = Digun' riña ma sa nagui'iaj nako'
+    .accesskey = p
 update-history =
     .label = Digun' riña ma sa nagui'iaj nako'
     .accesskey = p
@@ -293,6 +298,8 @@ update-application-check-choose =
 update-application-manual =
     .label = Si na'na'ui' sa nakà doj (Se sa hue'ê huin)
     .accesskey = S
+update-application-warning-cross-user-setting-2 =
+    .message = Sa nagi'iát nan ni gi'iaj sun riña daran' si kuentâ Windows ni nej perfî { -brand-short-name } sisi garasunt sa ga'nïnt gu'nàj { -brand-short-name }.
 update-application-warning-cross-user-setting = Sa nagi'iát nan ni gi'iaj sun riña daran' si kuentâ Windows ni nej perfî { -brand-short-name } sisi garasunt sa ga'nïnt gu'nàj { -brand-short-name }.
 update-application-use-service =
     .label = Garasun' a'ngo servidor da' dugout' sa nakà doj
@@ -303,6 +310,12 @@ update-in-progress-ok-button = &Discard
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Gun' ne' ñaan
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -358,6 +371,9 @@ browsing-cfr-recommendations-learn-more = Gahuin chrūn doj
 browsing-group =
     .label = Aché nu'
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Dàj ga Red ruhuât
@@ -407,6 +423,12 @@ use-current-pages =
 choose-bookmark =
     .label = garasun' markadır...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -514,6 +536,9 @@ containers-add-button =
 containers-remove-button =
     .label = Dure'
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -553,6 +578,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } se sa ni'in huin ma.
 sync-signedin-login-failure = Gayi'ī sesión da' gatu ñut { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -685,7 +715,7 @@ forms-ask-to-save-logins =
     .label = Da'ui nachi' na'ān si na'ninj sa'aj sa gayi'i nī da'nga' huìi guenda nej sitio na
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Si yakaj guendo'
@@ -711,6 +741,15 @@ forms-master-pw-change =
     .label = Nadunā Da’nga’ Huì A’nïn’ïn
     .accesskey = N
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -798,6 +837,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = Kookies nī si dato sitio
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -955,6 +1000,9 @@ collection-health-report-disabled = Nej sa ataj na'anj nej datos nitaj si 'iaj s
 data-collection-studies-link =
     .label = Ni'io' nej sa digi'ñun { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -987,8 +1035,29 @@ certs-devices =
     .accesskey = N
 certs-devices-enable-fips = Nachrun FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Eskritorio
 downloads-folder-name = Nadunínj
 choose-download-folder-title = Ganahui dane' gima sa' sa naduninjt
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

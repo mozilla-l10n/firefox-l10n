@@ -12,22 +12,34 @@ update-updateButton =
     .label = { -brand-shorter-name } आपडेट खालामनो फिन जागाय
     .accesskey = R
 update-checkingForUpdates = आपडेटफोरनि थाखाय आनजाद खालाम...
+settings-update-checking-for-updates =
+    .label = आपडेटफोरनि थाखाय आनजाद खालाम...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/> आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = { " " }आपडेटखौ डाउनल'ड खालाम गासिनो दं — { $transfer }
 
 ##
 
 update-applying = आपडेटखौ बाहायगासिनो दं...
+settings-update-applying =
+    .label = आपडेटखौ बाहायगासिनो दं...
 update-failed = आपडेट खालामनाया फेलें जाबाय।<label data-l10n-name="failed-link">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</label>
 update-failed-main = आपडेट खालामनाया फेलें जाबाय।<a data-l10n-name="failed-link-main">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</a>
 update-adminDisabled = आपडेटफोरखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय
 update-noUpdatesFound = { -brand-short-name } आ गोदान
+settings-update-no-updates-found =
+    .label = { -brand-short-name } आ गोदान
 aboutdialog-update-checking-failed = आफदेट चेक खालामनाया फेलें जाबाय |
+settings-update-checking-failed =
+    .label = आफदेट चेक खालामनाया फेलें जाबाय |
 update-otherInstanceHandlingUpdates = { -brand-short-name } आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -35,8 +47,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } आ गुबुन 
 aboutdialog-update-manual-with-link = <label data-l10n-name="manual-link">{ $displayUrl }</label>आव आपडेटफोर दं
 settings-update-manual-with-link = <a data-l10n-name="manual-link">{ $displayUrl }</a> आव आपडेटफोर दं
 update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
+settings-update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<a data-l10n-name="unsupported-link">गोबां सोलों</a>
 update-restarting = फिन जागाय गासिनो दङ...
+settings-update-restarting =
+    .label = फिन जागाय गासिनो दङ...
 update-internal-error2 = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <label data-l10n-name="manual-link">{ $displayUrl }</label> अव आफदेटआ दं |
+settings-update-internal-error = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <a data-l10n-name="manual-link">{ $displayUrl }</a> अव आफदेटआ दं |
 
 ##
 

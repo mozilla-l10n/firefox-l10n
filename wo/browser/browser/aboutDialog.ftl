@@ -11,19 +11,27 @@ update-updateButton =
     .label = Tàmbaliwaatal ngir yeesal { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Wut ay yeesal…
+settings-update-checking-for-updates =
+    .label = Wut ay yeesal…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Yebum yeesal bi —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Yebum yeesal bi —{ $transfer }
 
 ##
 
 update-applying = Def yeesal bi…
+settings-update-applying =
+    .label = Def yeesal bi…
 update-failed = Yeesal bi lajj na.<label data-l10n-name="failed-link">Yeb sumb bi mujj</label>
 update-failed-main = Yeesal bi lajj na.<a data-l10n-name="failed-link-main">Yeb sumb bi mujj</a>
 update-adminDisabled = Sa saytukatu sistem suuxal na yeesal yi
 update-noUpdatesFound = { -brand-short-name } yees na
+settings-update-no-updates-found =
+    .label = { -brand-short-name } yees na
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/

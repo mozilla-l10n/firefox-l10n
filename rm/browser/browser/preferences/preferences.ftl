@@ -411,6 +411,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reaviar { -brand-short-name } per applitgar questas midadas
 confirm-browser-language-change-button = Applitgar e reaviar
+browser-language-install-error =
+    .message = { -brand-short-name } na po mumentan betg actualisar tias linguas. Controllescha tia connexiun cun l'internet u emprova pli tard anc ina giada.
 translate-web-pages =
     .label = Translatar cuntegn da web
     .accesskey = T
@@ -535,7 +537,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Tge duai { -brand-short-name } far cun autras datotecas?
 applications-save-for-new-types =
@@ -556,6 +558,9 @@ update-application-description = Actualisescha { -brand-short-name } per prestaz
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Novaziuns</a>
+update-history-2 =
+    .label = Mussar la cronologia da las actualisaziuns
+    .accesskey = c
 update-history =
     .label = Mussar la cronologia da las actualisaziuns…
     .accesskey = c
@@ -572,6 +577,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Cura che { -brand-short-name } n'è betg en funcziun
     .accesskey = C
+update-application-warning-cross-user-setting-2 =
+    .message = Quest parameter pertutga tut ils contos da Windows e profils da { -brand-short-name } che utiliseschan questa installaziun da { -brand-short-name }.
 update-application-warning-cross-user-setting = Quest parameter pertutga tut ils contos da Windows e profils da { -brand-short-name } che utiliseschan questa installaziun da { -brand-short-name }.
 update-application-use-service =
     .label = Utilisar in servetsch per installar actualisaziuns senza interrupziun
@@ -594,6 +601,9 @@ update-in-progress-ok-button = &Annullar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinuar
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -677,6 +687,9 @@ browsing-cfr-recommendations-learn-more = Ulteriuras infurmaziuns
 browsing-group =
     .label = Navigaziun
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Parameters da la rait
@@ -731,6 +744,9 @@ use-current-pages =
 choose-bookmark =
     .label = Utilisar segnapaginas…
     .accesskey = l
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -1004,6 +1020,11 @@ sync-manage-account2 =
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
 sync-signedin-login-failure = T'annunzia per reconnectar cun { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1176,7 +1197,7 @@ forms-ask-to-save-logins =
     .label = Dumandar da memorisar las infurmaziuns d'annunzia ed ils pleds-clav per paginas d'internet
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1271,6 +1292,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ulteriuras infurmaziuns
 forms-windows-sso-desc = Administrar ils contos en ils parameters da tes apparat
 windows-passkey-settings-label = Administrar las clavs d’access (passkeys) en ils parameters dal sistem
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1932,8 +1956,23 @@ preferences-doh-manage-exceptions =
     .label = Administrar las excepziuns…
     .accesskey = A
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Telechargiadas
 choose-download-folder-title = Tscherner l'ordinatur per telechargiar:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

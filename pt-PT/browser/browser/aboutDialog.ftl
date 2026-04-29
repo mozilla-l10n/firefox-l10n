@@ -12,23 +12,37 @@ update-updateButton =
     .label = Reiniciar para atualizar o { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = A procurar atualizações…
+settings-update-checking-for-updates =
+    .label = A procurar atualizações…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>A transferir atualização — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = A transferir a atualização — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = A transferir atualização — { $transfer }
 
 ##
 
 update-applying = A aplicar atualização…
+settings-update-applying =
+    .label = A aplicar atualização…
 update-failed = A atualização falhou. <label data-l10n-name="failed-link">Transferir a versão mais recente</label>
 update-failed-main = A atualização falhou. <a data-l10n-name="failed-link-main">Transferir a versão mais recente</a>
 update-adminDisabled = Atualizações desativadas pelo seu administrador do sistema
 update-policy-disabled = Atualizações desativadas pela sua organização
+settings-update-policy-disabled =
+    .label = Atualizações desativadas pela sua organização
 update-noUpdatesFound = O { -brand-short-name } está atualizado
+settings-update-no-updates-found =
+    .label = O { -brand-short-name } está atualizado
 aboutdialog-update-checking-failed = Incapaz de verificar a existência de atualizações.
+settings-update-checking-failed =
+    .label = Incapaz de verificar a existência de atualizações.
 update-otherInstanceHandlingUpdates = O { -brand-short-name } já está a ser atualizado por outra instância
+settings-update-other-instance-handling-updates =
+    .label = O { -brand-short-name } já está a ser atualizado por outra instância
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = O { -brand-short-name } já está a ser at
 aboutdialog-update-manual-with-link = Atualizações disponíveis em <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atualizações disponíveis em <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Não pode realizar mais atualizações neste sistema. <label data-l10n-name="unsupported-link">Saber mais</label>
+settings-update-unsupported = Não pode realizar mais atualizações neste sistema. <a data-l10n-name="unsupported-link">Saber mais</a>
 update-restarting = A reiniciar…
+settings-update-restarting =
+    .label = A reiniciar…
 update-internal-error2 = Não foi possível procurar por atualizações devido a um erro interno. As atualizações estão disponíveis em <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Não foi possível procurar por atualizações devido a um erro interno. As atualizações estão disponíveis em <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

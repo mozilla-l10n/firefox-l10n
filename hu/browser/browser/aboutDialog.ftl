@@ -12,23 +12,37 @@ update-updateButton =
     .label = Újraindítás a { -brand-shorter-name } frissítéséhez
     .accesskey = R
 update-checkingForUpdates = Frissítések keresése…
+settings-update-checking-for-updates =
+    .label = Frissítések keresése…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Frissítés letöltése – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Frissítés letöltése – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Frissítés letöltése – { $transfer }
 
 ##
 
 update-applying = Frissítés alkalmazása…
+settings-update-applying =
+    .label = Frissítés alkalmazása…
 update-failed = A frissítés sikertelen.<label data-l10n-name="failed-link">Töltse le a legújabb verziót</label>
 update-failed-main = A frissítés sikertelen.<a data-l10n-name="failed-link-main">Töltse le a legújabb verziót</a>
 update-adminDisabled = A frissítéseket a rendszergazda letiltotta
 update-policy-disabled = A frissítéseket a szervezete letiltotta
+settings-update-policy-disabled =
+    .label = A frissítéseket a szervezete letiltotta
 update-noUpdatesFound = A { -brand-short-name } naprakész
+settings-update-no-updates-found =
+    .label = A { -brand-short-name } naprakész
 aboutdialog-update-checking-failed = Nem sikerült a frissítések keresése.
+settings-update-checking-failed =
+    .label = Nem sikerült a frissítések keresése.
 update-otherInstanceHandlingUpdates = A { -brand-short-name } frissítése folyamatban egy másik példány által
+settings-update-other-instance-handling-updates =
+    .label = A { -brand-short-name } frissítése folyamatban egy másik példány által
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = A { -brand-short-name } frissítése folya
 aboutdialog-update-manual-with-link = Frissítés elérhető: <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Frissítés érhető el itt: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nem végezhet további frissítéseket ezen a rendszeren.<label data-l10n-name="unsupported-link">További tudnivalók</label>
+settings-update-unsupported = Nem végezhet további frissítéseket ezen a rendszeren.<a data-l10n-name="unsupported-link">További tudnivalók</a>
 update-restarting = Újraindítás…
+settings-update-restarting =
+    .label = Újraindítás…
 update-internal-error2 = Belső hiba miatt nem lehet frissítéseket keresni. A frissítések itt érhetők el: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Belső hiba miatt nem lehet frissítéseket keresni. A frissítések itt érhetők el: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

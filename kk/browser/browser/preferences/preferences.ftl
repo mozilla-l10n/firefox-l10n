@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = ы
 confirm-browser-language-change-description = Бұл өзгерістерді іске асыру үшін { -brand-short-name } қайта іске қосыңыз
 confirm-browser-language-change-button = Іске асыру және қайта қосу
+browser-language-install-error =
+    .message = { -brand-short-name } тілдеріңізді қазір жаңарта алмайды. Интернетпен байланысыңызды тексеріңіз, немесе қайталап көріңіз.
 translate-web-pages =
     .label = Веб құрамасын аудару
     .accesskey = а
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } басқа файлдармен не істеу керек?
 applications-save-for-new-types =
@@ -674,6 +676,9 @@ update-application-description = { -brand-short-name } жақсырақ өнім
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Нұсқасы { $version } <a data-l10n-name="learn-more">Не жаңалық</a>
+update-history-2 =
+    .label = Жаңартулар тарихын көрсету
+    .accesskey = р
 update-history =
     .label = Жаңартулар тарихын көрсету…
     .accesskey = р
@@ -690,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = { -brand-short-name } орындалмайтын кезінде
     .accesskey = р
+update-application-warning-cross-user-setting-2 =
+    .message = Бұл баптау бұл { -brand-short-name } орнатуын қолдатын барлық Windows тіркелгілері және { -brand-short-name } профильдері үшін іске асады.
 update-application-warning-cross-user-setting = Бұл баптау бұл { -brand-short-name } орнатуын қолдатын барлық Windows тіркелгілері және { -brand-short-name } профильдері үшін іске асады.
 update-application-use-service =
     .label = Жаңартуларды орнату үшін фон қызметін қолдану
@@ -712,6 +719,9 @@ update-in-progress-ok-button = Тай&дыру
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1427,7 +1437,7 @@ forms-ask-to-save-logins =
     .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
     .accesskey = с
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1528,6 +1538,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Көбірек білу
 forms-windows-sso-desc = Тіркелгілерді құрылғыңыздың баптауларында басқарыңыз
 windows-passkey-settings-label = Қол жеткізу кілттерін жүйе баптауларында басқару
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

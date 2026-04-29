@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Bu değişiklikleri uygulamak için { -brand-short-name } tarayıcısını yeniden başlatın
 confirm-browser-language-change-button = Uygula ve yeniden başlat
+browser-language-install-error =
+    .message = { -brand-short-name } şu anda dillerinizi güncelleyemiyor. İnternet bağlantınızı kontrol edip yeniden deneyin.
 translate-web-pages =
     .label = Web içeriğini çevir
     .accesskey = W
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } diğer dosyalarla ne yapsın?
 applications-save-for-new-types =
@@ -674,6 +676,9 @@ update-application-description = En yüksek performans, güvenilirlik ve güvenl
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Sürüm { $version } <a data-l10n-name="learn-more">Yeni neler var?</a>
+update-history-2 =
+    .label = Güncelleme geçmişini göster
+    .accesskey = c
 update-history =
     .label = Güncelleme geçmişini göster…
     .accesskey = c
@@ -690,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = { -brand-short-name } kapalıyken
     .accesskey = k
+update-application-warning-cross-user-setting-2 =
+    .message = Bu ayar, bu { -brand-short-name } kurulumunu kullanan tüm Windows hesaplarına ve { -brand-short-name } profillerine uygulanacaktır.
 update-application-warning-cross-user-setting = Bu ayar, bu { -brand-short-name } kurulumunu kullanan tüm Windows hesaplarına ve { -brand-short-name } profillerine uygulanacaktır.
 update-application-use-service =
     .label = Güncellemeleri yüklemek için arka plan hizmetini kullan
@@ -712,6 +719,9 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1441,7 @@ forms-ask-to-save-logins =
     .label = Sitelerdeki kullanıcı adı ve parolalarımı kaydetmeyi öner
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1542,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Daha fazla bilgi al
 forms-windows-sso-desc = Hesapları cihaz ayarlarınızdan yönetebilirsiniz
 windows-passkey-settings-label = Geçiş anahtarlarını sistem ayarlarından yönetebilirsiniz
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

@@ -261,6 +261,8 @@ manage-browser-languages-button =
     .accesskey = h
 confirm-browser-language-change-description = Titikirisäx chik { -brand-short-name } richin ye'okisäx ri taq k'exoj
 confirm-browser-language-change-button = Tisamajïx chuqa' Titikirisäx chik
+browser-language-install-error =
+    .message = { -brand-short-name } man nitikïr ta yeruk'ëx ri taq ach'ab'äl. Tanik'oj chi atokinäq pa k'amaya'l o tatojtob'ej chik.
 translate-web-pages =
     .label = Titzalq'omïx rupam ajk'amaya'l
     .accesskey = T
@@ -382,7 +384,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = ¿Achike k'o chi nub'än { -brand-short-name } rik'in ch'aqa' chik yakb'äl?
 applications-save-for-new-types =
@@ -403,6 +405,9 @@ update-application-description = Junelïk tik'ex ri { -brand-short-name } richin
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Ruwäch { $version } <a data-l10n-name="learn-more">Achike natzijoj</a>
+update-history-2 =
+    .label = Tik'ut pe ri runatab'al K'exoj ruwäch
+    .accesskey = K
 update-history =
     .label = Tik'ut pe ri runatab'al K'exoj ruwäch…
     .accesskey = K
@@ -419,6 +424,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Toq { -brand-short-name } man nitikirisäx ta
     .accesskey = T
+update-application-warning-cross-user-setting-2 =
+    .message = Re runuk'ulem re' xtisamajïx pa ronojel taq rub'i' kitaqoya'l Windows chuqa' ri taq ruwäch rub'i' { -brand-short-name } rik'in rokisaxik re ruyakoj { -brand-short-name }.
 update-application-warning-cross-user-setting = Re runuk'ulem re' xtisamajïx pa ronojel taq rub'i' kitaqoya'l Windows chuqa' ri taq ruwäch rub'i' { -brand-short-name } rik'in rokisaxik re ruyakoj { -brand-short-name }.
 update-application-use-service =
     .label = Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch
@@ -441,6 +448,12 @@ update-in-progress-ok-button = &Tich'aqïx
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Titikïr chik el
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -503,6 +516,9 @@ browsing-cfr-recommendations-learn-more = Tetamäx Ch'aqa' chik
 browsing-group =
     .label = Okik'amaya'l
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Runuk'ulem Okem
@@ -554,6 +570,12 @@ use-current-pages =
 choose-bookmark =
     .label = Tokisäx yaketal…
     .accesskey = y
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -736,6 +758,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } man jikib'an ta.
 sync-signedin-login-failure = Tatikirisaj molojri'ïl richin yatok chik { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -879,7 +906,7 @@ forms-ask-to-save-logins =
     .label = Tik'utüx chi rij ri kiyakik kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Taq man relik ta…
@@ -923,6 +950,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Tetamäx ch'aqa' chik
 forms-windows-sso-desc = Kenuk'samajïx taq rub'i' taqoya'l pa runuk'ulem okisaxel
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -933,6 +963,9 @@ primary-password-os-auth-dialog-message-win = Richin natz'ük jun Nab'ey Ewan Tz
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Titz'uk jun Nab'ey Ewan Tzij
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1246,6 +1279,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Ketz'et taq rutijonik { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1331,8 +1367,23 @@ preferences-doh-manage-exceptions =
     .label = Kenuk'samajïx taq Man Relik Ta...
     .accesskey = R
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Kematz'ib'ab'äl
 downloads-folder-name = Taq qasanïk
 choose-download-folder-title = Ticha' yakwuj, ri xkeruyäk taq qasanïk:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

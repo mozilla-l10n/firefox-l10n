@@ -43,6 +43,10 @@ fxa-menu-send-to-mobile =
            *[other] Na { $tabCount } mobilnych gratow pósłać
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
+fxa-menu-send-to-mobile-connect-phone2 = Zwjazajće swój telefon
+fxa-menu-send-to-mobile-device-missing2 = Njewidźiće swój grat?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Zmóžńće synchronizaciju, zo byšće rajtark pósłał
 fxa-menu-send-to-mobile-connect-phone =

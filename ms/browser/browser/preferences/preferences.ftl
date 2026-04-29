@@ -144,6 +144,8 @@ manage-browser-languages-button =
     .accesskey = T
 confirm-browser-language-change-description = Mula semula { -brand-short-name } untuk melaksanakan perubahan ini
 confirm-browser-language-change-button = Terap dan Mula semula
+browser-language-install-error =
+    .message = { -brand-short-name } tidak dapat mengemaskini bahasa anda buat masa ini. Semak sambungan internet atau cuba lagi.
 translate-web-pages =
     .label = Terjemah kandungan laman web
     .accesskey = T
@@ -243,7 +245,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = Kandungan Digital Rights Management (DRM)
@@ -257,6 +259,9 @@ update-application-description = Pastikan { -brand-short-name } sentiasa dikemas
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versi { $version } <a data-l10n-name="learn-more">Perkembangan terbaru</a>
+update-history-2 =
+    .label = Papar Sejarah Kemaskini
+    .accesskey = p
 update-history =
     .label = Papar Sejarah Kemaskini…
     .accesskey = p
@@ -273,6 +278,12 @@ update-application-manual =
 update-application-use-service =
     .label = Gunakan servis latar belakang bagi pemasangan versi terkini
     .accesskey = b
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -320,6 +331,9 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = Ketahui Selanjutnya
 browsing-group =
     .label = Menyemak
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -370,6 +384,12 @@ use-current-pages =
 choose-bookmark =
     .label = Guna Tandabuku…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -464,6 +484,9 @@ containers-add-button =
 containers-remove-button =
     .label = Buang
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -498,6 +521,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } tidak disahkan.
 sync-signedin-login-failure = Sila daftar masuk untuk menyambung semula { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -509,6 +537,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Daftar masuk
     .accesskey = d
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -582,7 +616,7 @@ forms-ask-to-save-logins =
     .label = Tanya untuk simpan log masuk dan kata laluan laman web
     .accesskey = l
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Pengecualian…
@@ -597,6 +631,15 @@ forms-master-pw-change =
     .label = Tukar Kata laluan Induk…
     .accesskey = T
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -677,6 +720,12 @@ sitedata-settings =
     .accesskey = U
 cookies-site-data-group =
     .label = Kuki dan Data Laman
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -786,6 +835,9 @@ collection-health-report-disabled = Laporan data dinyahdayakan bagi konfigurasi 
 data-collection-studies-link =
     .label = Papar kajian { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -818,8 +870,29 @@ certs-devices =
     .accesskey = P
 certs-devices-enable-fips = Dayakan FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Muat turun
 choose-download-folder-title = Pilih Folder Muat turun:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

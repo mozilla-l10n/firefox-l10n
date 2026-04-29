@@ -12,20 +12,30 @@ update-updateButton =
     .label = Atosaigh chun { -brand-shorter-name } a nuashonrú
     .accesskey = R
 update-checkingForUpdates = Nuashonruithe á lorg…
+settings-update-checking-for-updates =
+    .label = Nuashonruithe á lorg…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Nuashonrú á íoslódáil — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Nuashonrú á íoslódáil — { $transfer }
 
 ##
 
 update-applying = Nuashonrú á chur i bhfeidhm…
+settings-update-applying =
+    .label = Nuashonrú á chur i bhfeidhm…
 update-failed = Theip ar an nuashonrú. <label data-l10n-name="failed-link">Íoslódáil an leagan is déanaí</label>
 update-failed-main = Theip ar an nuashonrú. <a data-l10n-name="failed-link-main">Íoslódáil an leagan is déanaí</a>
 update-adminDisabled = Tá nuashonruithe bogearra díchumasaithe ag riarthóir do chórais
 update-noUpdatesFound = Tá { -brand-short-name } cothrom le dáta
+settings-update-no-updates-found =
+    .label = Tá { -brand-short-name } cothrom le dáta
 update-otherInstanceHandlingUpdates = Tá { -brand-short-name } á nuashonrú ag ásc eile
+settings-update-other-instance-handling-updates =
+    .label = Tá { -brand-short-name } á nuashonrú ag ásc eile
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = Tá { -brand-short-name } á nuashonrú ag
 aboutdialog-update-manual-with-link = Nuashonruithe ar fáil ó <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Nuashonruithe ar fáil ó <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ní féidir leat tuilleadh nuashonruithe a chur i bhfeidhm ar an gcóras seo. <label data-l10n-name="unsupported-link">Tuilleadh eolais</label>
+settings-update-unsupported = Ní féidir leat tuilleadh nuashonruithe a chur i bhfeidhm ar an gcóras seo. <a data-l10n-name="unsupported-link">Tuilleadh eolais</a>
 update-restarting = Á Atosú…
+settings-update-restarting =
+    .label = Á Atosú…
 
 ##
 

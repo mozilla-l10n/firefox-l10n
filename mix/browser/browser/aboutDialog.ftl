@@ -12,20 +12,30 @@ update-updateButton =
     .label = Ndakitsa tava na ntutsai{ -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Nduki tu'un tsaá
+settings-update-checking-for-updates =
+    .label = Nduki tu'un tsaá
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Snuì ña tsaá—<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Snuì ña tsaá—{ $transfer }
 
 ##
 
 update-applying = Chikai actualización…
+settings-update-applying =
+    .label = Chikai actualización…
 update-failed = Mani kuu ntu tsai<label data-l10n-name="failed-link">Snuù version saa ntii</label>
 update-failed-main = Mani kuu ntu tsai<a data-l10n-name="failed-link-main">Snuù version saa ntii</a>
 update-adminDisabled = Ntasia ña ndutsaa administrador ña sistema
 update-noUpdatesFound = { -brand-short-name } tsa ntu'tsai
+settings-update-no-updates-found =
+    .label = { -brand-short-name } tsa ntu'tsai
 update-otherInstanceHandlingUpdates = { -brand-short-name }ndu tsai inka tsio
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name }ndu tsai inka tsio
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name }ndu tsai inka tsio
 aboutdialog-update-manual-with-link = Ña saa ntii inkai nu <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ña saa ntii inkai nu <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Maku ntu tsaa sistema. <label data-l10n-name="unsupported-link">Kavi</label>
+settings-update-unsupported = Maku ntu tsaa sistema. <a data-l10n-name="unsupported-link">Kavi</a>
 update-restarting = Ntaki tsai…
+settings-update-restarting =
+    .label = Ntaki tsai…
 
 ##
 

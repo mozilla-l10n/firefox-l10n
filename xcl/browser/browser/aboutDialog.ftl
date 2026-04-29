@@ -12,21 +12,31 @@ update-updateButton =
     .label = Վերամեկնարկեա՛, զի արդիացուսցես զ֊ { -brand-shorter-name }
     .accesskey = Ռ
 update-checkingForUpdates = Ստուգումն արդիացմանց
+settings-update-checking-for-updates =
+    .label = Ստուգումն արդիացմանց
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Ներբեռնումն արդիացման — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Ներբեռնումն արդիացման — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Ներբեռնումն արդիացման — { $transfer }
 
 ##
 
 update-applying = Գործադրումն արդիացման…
+settings-update-applying =
+    .label = Գործադրումն արդիացման…
 update-failed = Արդիացումն տապալեցաւ <label data-l10n-name="failed-link">Ներբեռնել զվերջին տարբերակն</label>
 update-failed-main = Արդիացումն տապալեցաւ։ <a data-l10n-name="failed-link-main">Ներբեռնել զվերջին տարբերակն</a>
 update-adminDisabled = Արդիացմունք անջատեալ են ի համակարգավարէ քումմէ
 update-noUpdatesFound = { -brand-short-name } արդիական է։
+settings-update-no-updates-found =
+    .label = { -brand-short-name } արդիական է։
 update-otherInstanceHandlingUpdates = { -brand-short-name } արդիացուցանի այժմ ի ձեռն այղոյ իրիք
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } արդիացուցանի այժմ ի ձեռն այղոյ իրիք
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -34,7 +44,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } արդիացուցա
 aboutdialog-update-manual-with-link = Արդիացմունք հասանելիք ի <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Արդիացմունք հասանելիք ի <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ոչ կարես առնել զյետագայ արդիացմունս համակարգիս այսորիկ։ <label data-l10n-name="unsupported-link">Հանգամանաւրէն</label>
+settings-update-unsupported = Ոչ կարես առնել զյետագայ արդիացմունս համակարգիս այսորիկ։ <a data-l10n-name="unsupported-link">Հանգամանաւրէն</a>
 update-restarting = Վերամեկնարկումն
+settings-update-restarting =
+    .label = Վերամեկնարկումն
 
 ##
 

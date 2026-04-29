@@ -12,23 +12,37 @@ update-updateButton =
     .label = Nwo cako me keto ngec manyen i { -brand-shorter-name }
     .accesskey = N
 update-checkingForUpdates = Roto pi ngec manyen…
+settings-update-checking-for-updates =
+    .label = Roto pi ngec manyen…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Tye kagamo ngec — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Gamo ngec manyen — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Tye kagamo ngec — { $transfer }
 
 ##
 
 update-applying = Tye kaketo ngec manyen…
+settings-update-applying =
+    .label = Tye kaketo ngec manyen…
 update-failed = Keto ngec manyen pe olare. <label data-l10n-name="failed-link">Gam kite manyen loyo</label>
 update-failed-main = Keto ngec manyen pe olare. <a data-l10n-name="failed-link-main">Gam kite manyen loyo</a>
 update-adminDisabled = Ngat ma loyo nyonyo ni ojuko ngec manyen woko
 update-policy-disabled = Dul mamegi ojuko woko keto ngec manyen
+settings-update-policy-disabled =
+    .label = Dul mamegi ojuko woko keto ngec manyen
 update-noUpdatesFound = { -brand-short-name } tye kakare
+settings-update-no-updates-found =
+    .label = { -brand-short-name } tye kakare
 aboutdialog-update-checking-failed = Roto ngec manyen pe otwere.
+settings-update-checking-failed =
+    .label = Roto ngec manyen pe otwere.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tye ka keto ngec manyen ki ka mukene
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } tye ka keto ngec manyen ki ka mukene
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } tye ka keto ngec man
 aboutdialog-update-manual-with-link = Ngec manyen nonge i <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ngec manyen nonge i <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Pe i twero mede ki keto ngec manyen i nyonyo man. <label data-l10n-name="unsupported-link">Nong ngec mapol</label>
+settings-update-unsupported = Pe i twero mede ki keto ngec manyen i nyonyo man. <a data-l10n-name="unsupported-link">Nong ngec mapol</a>
 update-restarting = Tye ka cake odoco...
+settings-update-restarting =
+    .label = Tye ka cake odoco...
 update-internal-error2 = Roto ngec manyen pe otwere pi bal ma iyie. Ngec manyen nonge i <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Roto ngec manyen pe otwere pi bal ma iyie. Ngec manyen nonge i <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

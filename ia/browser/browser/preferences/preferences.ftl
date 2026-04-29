@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Reinitiar { -brand-short-name } pro applicar iste cambiamentos
 confirm-browser-language-change-button = Applicar e reinitiar
+browser-language-install-error =
+    .message = { -brand-short-name } non pote actualisar tu linguas justo ora. Verifica tu connexion a internet o retenta.
 translate-web-pages =
     .label = Traducer le contento web
     .accesskey = T
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Que debe { -brand-short-name } facer con altere files?
 applications-save-for-new-types =
@@ -674,6 +676,9 @@ update-application-description = Mantene { -brand-short-name } actualisate pro l
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Novas</a>
+update-history-2 =
+    .label = Monstrar le chronologia de actualisationes
+    .accesskey = M
 update-history =
     .label = Monstrar le chronologia de actualisationes…
     .accesskey = M
@@ -690,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Quando { -brand-short-name } non es in execution
     .accesskey = Q
+update-application-warning-cross-user-setting-2 =
+    .message = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
 update-application-warning-cross-user-setting = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio in secunde plano pro installar le actualisationes
@@ -712,6 +719,9 @@ update-in-progress-ok-button = &Discartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1441,7 @@ forms-ask-to-save-logins =
     .label = Proponer de salvar contos e contrasignos pro sitos web
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1542,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saper plus
 forms-windows-sso-desc = Gerer contos in le parametros de tu apparato
 windows-passkey-settings-label = Gerer claves-contrasigno in le parametros de systema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

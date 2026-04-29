@@ -12,23 +12,37 @@ update-updateButton =
     .label = Reiniciar para actualizar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Buscando actualizaciones…
+settings-update-checking-for-updates =
+    .label = Buscando actualizaciones…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Descargando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Descargando actualización — { $transfer }
 
 ##
 
 update-applying = Aplicando actualizaciónes…
+settings-update-applying =
+    .label = Aplicando actualizaciónes…
 update-failed = La actualización falló. <label data-l10n-name="failed-link">Descarga la ultima versión</label>
 update-failed-main = La actualización falló. <a data-l10n-name="failed-link-main">Descarga la versión más reciente</a>
 update-adminDisabled = Actualizaciones deshabilitadas por el administrador del sistema
 update-policy-disabled = Actualizaciones deshabilitadas por su organización
+settings-update-policy-disabled =
+    .label = Actualizaciones deshabilitadas por su organización
 update-noUpdatesFound = { -brand-short-name } está actualizado
+settings-update-no-updates-found =
+    .label = { -brand-short-name } está actualizado
 aboutdialog-update-checking-failed = Error al buscar actualizaciones.
+settings-update-checking-failed =
+    .label = Error al buscar actualizaciones.
 update-otherInstanceHandlingUpdates = { -brand-short-name } está siendo actualizado por otra instancia
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } está siendo actualizado por otra instancia
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } está siendo actuali
 aboutdialog-update-manual-with-link = Actualizaciones disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Actualizaciones disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No puedes realizar más actualizaciones en este sistema. <label data-l10n-name="unsupported-link">Más información</label>
+settings-update-unsupported = No puedes realizar más actualizaciones en este sistema. <a data-l10n-name="unsupported-link">Más información</a>
 update-restarting = Reiniciando…
+settings-update-restarting =
+    .label = Reiniciando…
 update-internal-error2 = No se pueden buscar actualizaciones debido a un error interno. Actualizaciones disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = No se pueden buscar actualizaciones debido a un error interno. Actualizaciones disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

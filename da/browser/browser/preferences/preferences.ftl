@@ -453,6 +453,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
 confirm-browser-language-change-button = Genstart
+browser-language-install-error =
+    .message = { -brand-short-name } kan ikke opdatere dine sprog lige nu. Kontrollér din internetforbindelse eller prøv igen.
 translate-web-pages =
     .label = Oversæt webindhold
     .accesskey = O
@@ -643,7 +645,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Hvad skal { -brand-short-name } gøre med andre filer?
 applications-save-for-new-types =
@@ -664,6 +666,9 @@ update-application-description = Hold { -brand-short-name } opdateret for at få
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version }. <a data-l10n-name="learn-more">Nyheder</a>
+update-history-2 =
+    .label = Vis opdateringshistorik
+    .accesskey = V
 update-history =
     .label = Vis opdateringshistorik…
     .accesskey = V
@@ -680,6 +685,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Når { -brand-short-name } ikke kører
     .accesskey = N
+update-application-warning-cross-user-setting-2 =
+    .message = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
 update-application-warning-cross-user-setting = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
 update-application-use-service =
     .label = bruge en baggrundsservice til at installere opdateringer
@@ -702,6 +709,9 @@ update-in-progress-ok-button = &Annuller
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -784,6 +794,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Læs mere
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1366,7 +1379,7 @@ forms-ask-to-save-logins =
     .label = Spørg om at gemme logins og adgangskoder til websteder
     .accesskey = l
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1467,6 +1480,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2228,6 +2244,9 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = DNS via HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
@@ -2317,3 +2336,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+

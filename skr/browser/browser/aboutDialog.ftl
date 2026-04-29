@@ -12,23 +12,37 @@ update-updateButton =
     .label = { -brand-shorter-name } اپڈیٹ دوبارہ شروع کرو
     .accesskey = R
 update-checkingForUpdates = اپڈیٹ کیتے ݙیکھدا پیا ہے…
+settings-update-checking-for-updates =
+    .label = اپڈیٹ کیتے ݙیکھدا پیا ہے…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>تازہ کاری ڈاؤن لوڈ کریندا پیا ہے—<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = اپ ڈیٹ ڈاؤن لوڈ تھیندا پیا ہے—<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = تازہ کاری ڈاؤن لوڈ کریندا پیا ہے—{ $transfer }
 
 ##
 
 update-applying = اپڈیٹ کرین٘دا پئے…
+settings-update-applying =
+    .label = اپڈیٹ کرین٘دا پئے…
 update-failed = اپڈیٹ نئیں تھی سڳدا۔<label data-l10n-name="failed-link">تازہ ترین ورژن ڈاؤن لوڈ کرو</label>
 update-failed-main = اپڈیٹ نئین تھی سڳدا۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کرو</a>
 update-adminDisabled = تہاݙے سسٹم ایڈمن اپڈیٹ کوں بند کیتا ہویا ہے
 update-policy-disabled = اَپ ڈیٹاں کوں تُہاݙی تنظیم نے غیر فعال کر ݙِتّا ہِے
+settings-update-policy-disabled =
+    .label = اَپ ڈیٹاں کوں تُہاݙی تنظیم نے غیر فعال کر ݙِتّا ہِے
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
+settings-update-no-updates-found =
+    .label = { -brand-short-name } اپڈیٹ ہے
 aboutdialog-update-checking-failed = اپ ڈیٹس کوں چیک کرݨ وِچ ناکام۔
+settings-update-checking-failed =
+    .label = اپ ڈیٹس کوں چیک کرݨ وِچ ناکام۔
 update-otherInstanceHandlingUpdates = { -brand-short-name } ݙوجھی جاہ توں اپڈیٹ تھیندا پیا ہے
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } ݙوجھی جاہ توں اپڈیٹ تھیندا پیا ہے
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } ݙوجھی جاہ ت
 aboutdialog-update-manual-with-link = اپڈیٹ اتھاں دستیاب کائنی  <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = اپڈیٹ اتھاں دستیاب کائنی  <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = تساں ایں سسٹم تے ودھیک اپڈیٹ نہیں کر سڳدے۔<label data-l10n-name="unsupported-link">ودھیک سیکھو</label>
+settings-update-unsupported = تساں ایں سسٹم تے ودھیک اپڈیٹ نہیں کر سڳدے۔<a data-l10n-name="unsupported-link">ودھیک سیکھو</a>
 update-restarting = ولدا شروع تھیندا پئے۔۔۔
+settings-update-restarting =
+    .label = ولدا شروع تھیندا پئے۔۔۔
 update-internal-error2 = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <label data-l10n-name="manual-link">{ $displayUrl }</label> تے دستیاب ہن۔
+settings-update-internal-error = اندرلی خرابی دی وجہ توں اپ ڈیٹس چیک کرݨ کنوں قاصر۔ اپ ڈیٹس <a data-l10n-name="manual-link">{ $displayUrl }</a> تے دستیاب ہن۔
 
 ##
 

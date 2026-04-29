@@ -12,23 +12,37 @@ update-updateButton =
     .label = Dèan ath-thòiseachadh airson { -brand-shorter-name } ùrachadh
     .accesskey = R
 update-checkingForUpdates = A' lorg ùrachaidhean…
+settings-update-checking-for-updates =
+    .label = A' lorg ùrachaidhean…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>A' luchdadh a-nuas an ùrachaidh — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = A’ luchdadh a-nuas an ùrachaidh – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = A' luchdadh a-nuas an ùrachaidh — { $transfer }
 
 ##
 
 update-applying = A' cur an sàs an ùrachaidh…
+settings-update-applying =
+    .label = A' cur an sàs an ùrachaidh…
 update-failed = Dh'fhàillig an t-ùrachadh. <label data-l10n-name="failed-link">Luchdaich a-nuas an tionndadh as ùire</label>
 update-failed-main = Dh'fhàillig an t-ùrachadh. <a data-l10n-name="failed-link-main">Luchdaich a-nuas an tionndadh as ùire</a>
 update-adminDisabled = Chuir rianaire an t-siostaim agad casg air ùrachaidhean
 update-policy-disabled = Cuir am buidheann agad na h-ùrachaidhean à comas
+settings-update-policy-disabled =
+    .label = Cuir am buidheann agad na h-ùrachaidhean à comas
 update-noUpdatesFound = Tha { -brand-short-name } cho ùr 's a ghabhas
+settings-update-no-updates-found =
+    .label = Tha { -brand-short-name } cho ùr 's a ghabhas
 aboutdialog-update-checking-failed = Cha b’ urrainn dhuinn sùil a thoirt airson ùrachaidhean.
+settings-update-checking-failed =
+    .label = Cha b’ urrainn dhuinn sùil a thoirt airson ùrachaidhean.
 update-otherInstanceHandlingUpdates = Tha { -brand-short-name } 'ga ùrachadh ann an ionstans eile
+settings-update-other-instance-handling-updates =
+    .label = Tha { -brand-short-name } 'ga ùrachadh ann an ionstans eile
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Tha { -brand-short-name } 'ga ùrachadh an
 aboutdialog-update-manual-with-link = Ùrachaidhean a tha ri am faighinn aig <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ùrachaidhean a tha ri am faighinn aig <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Chan urrainn dhut dad eile ùrachadh air an t-siostam seo. <label data-l10n-name="unsupported-link">Barrachd fiosrachaidh</label>
+settings-update-unsupported = Chan urrainn dhut dad eile ùrachadh air an t-siostam seo. <a data-l10n-name="unsupported-link">Barrachd fiosrachaidh</a>
 update-restarting = Ag ath-thòiseachadh…
+settings-update-restarting =
+    .label = Ag ath-thòiseachadh…
 update-internal-error2 = Chan urrainn dhuinn sùil a thoirt airson ùrachaidhean air sgàth mearachd inntearnail. Gheibhear ùrachaidhean aig <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Chan urrainn dhuinn sùil a thoirt airson ùrachaidhean air sgàth mearachd inntearnail. Gheibhear ùrachaidhean aig <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

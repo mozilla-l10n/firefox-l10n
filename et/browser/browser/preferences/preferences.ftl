@@ -285,6 +285,8 @@ manage-browser-languages-button =
     .accesskey = r
 confirm-browser-language-change-description = Muudatuste rakendamiseks taaskäivita { -brand-short-name }
 confirm-browser-language-change-button = Rakenda ja taaskäivita
+browser-language-install-error =
+    .message = { -brand-short-name }il pole võimalik praegu keeli uuendada. Kontrolli, et on olemas toimiv internetiühendus ja proovi siis uuesti.
 translate-web-pages =
     .label = Lubatakse veebisisu tõlkimine
     .accesskey = t
@@ -406,7 +408,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Mida peaks { -brand-short-name } tegema teiste failidega?
 applications-save-for-new-types =
@@ -427,6 +429,9 @@ update-application-description = Hoia { -brand-short-name } värske, et saada os
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versioon { $version } <a data-l10n-name="learn-more">Uuendused</a>
+update-history-2 =
+    .label = Näita uuenduste ajalugu
+    .accesskey = N
 update-history =
     .label = Näita uuenduste ajalugu…
     .accesskey = N
@@ -443,6 +448,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Uuendatakse siis, kui { -brand-short-name } ei tööta
     .accesskey = k
+update-application-warning-cross-user-setting-2 =
+    .message = See säte rakendub kõigile Windowsi kontodele ja { -brand-short-name }i profiilidele, mis kasutavad seda { -brand-short-name }i paigaldust.
 update-application-warning-cross-user-setting = See säte rakendub kõigile Windowsi kontodele ja { -brand-short-name }i profiilidele, mis kasutavad seda { -brand-short-name }i paigaldust.
 update-application-use-service =
     .label = Uuenduste paigaldamiseks kasutatakse taustateenust
@@ -465,6 +472,12 @@ update-in-progress-ok-button = &Loobu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = %Jätka
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -527,6 +540,9 @@ browsing-cfr-recommendations-learn-more = Rohkem teavet
 browsing-group =
     .label = Lehitsemine
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Võrgusätted
@@ -576,6 +592,12 @@ use-current-pages =
 choose-bookmark =
     .label = Kasuta järjehoidjat…
     .accesskey = j
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -756,6 +778,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } pole kinnitatud.
 sync-signedin-login-failure = Konto { $email } taasühendamiseks logi sisse
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -899,7 +926,7 @@ forms-ask-to-save-logins =
     .label = Küsitakse saitide kasutajatunnuste meelespidamise nõusolekut
     .accesskey = i
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Erandid…
@@ -942,6 +969,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Rohkem teavet
 forms-windows-sso-desc = Halda kontosid oma seadme sätetes
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -952,6 +982,9 @@ primary-password-os-auth-dialog-message-win = Ülemparooli loomiseks sisesta Win
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = create a Primary Password
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1046,6 +1079,12 @@ sitedata-cookies-exceptions =
     .accesskey = H
 cookies-site-data-group =
     .label = Küpsised ja saidi andmed
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1241,6 +1280,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Vaata { -brand-short-name }i uuringuid
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1290,8 +1332,26 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Ainult HTTPS-režiimi ei lubata
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Töölaud
 downloads-folder-name = Allalaadimised
 choose-download-folder-title = Vali allalaadimiste kaust:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

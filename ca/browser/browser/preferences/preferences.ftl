@@ -458,6 +458,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reinicieu el { -brand-short-name } per aplicar aquests canvis
 confirm-browser-language-change-button = Aplica i reinicia
+browser-language-install-error =
+    .message = El { -brand-short-name } no ha pogut actualitzar les llengües. Comproveu que esteu connectat a Internet o torneu-ho a provar.
 translate-web-pages =
     .label = Tradueix el contingut web
     .accesskey = T
@@ -651,7 +653,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Què ha de fer el { -brand-short-name } amb els altres fitxers?
 applications-save-for-new-types =
@@ -672,6 +674,9 @@ update-application-description = Manteniu el { -brand-short-name } actualitzat p
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
+update-history-2 =
+    .label = Mostra l'historial d'actualitzacions
+    .accesskey = h
 update-history =
     .label = Mostra l'historial d'actualitzacions…
     .accesskey = h
@@ -688,6 +693,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Quan el { -brand-short-name } no s'estigui executant
     .accesskey = Q
+update-application-warning-cross-user-setting-2 =
+    .message = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
 update-application-warning-cross-user-setting = Aquest paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzin aquesta instal·lació del { -brand-short-name }.
 update-application-use-service =
     .label = Instal·la les actualitzacions en segon pla
@@ -710,6 +717,9 @@ update-in-progress-ok-button = &Descarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -792,6 +802,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1391,7 +1404,7 @@ forms-ask-to-save-logins =
     .label = Demana si vull desar les dades d'inici de sessió i contrasenyes dels llocs web
     .accesskey = d
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1492,6 +1505,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 windows-passkey-settings-label = Gestiona les claus d'accés en els paràmetres del sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2282,6 +2298,9 @@ preferences-doh-manage-exceptions =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
@@ -2320,3 +2339,9 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Descarta
     .aria-label = Descarta
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

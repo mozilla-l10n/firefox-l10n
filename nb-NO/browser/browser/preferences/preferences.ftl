@@ -458,6 +458,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke disse endringene
 confirm-browser-language-change-button = Bruk og start om
+browser-language-install-error =
+    .message = { -brand-short-name } kan ikke oppdatere språkene dine akkurat nå. Kontroller at du er koblet til Internett, eller prøv på nytt.
 translate-web-pages =
     .label = Oversett webinnhold
     .accesskey = O
@@ -651,7 +653,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Hva skal { -brand-short-name } gjøre med andre filer?
 applications-save-for-new-types =
@@ -672,6 +674,9 @@ update-application-description = Hold { -brand-short-name } oppdatert for beste 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versjon { $version } <a data-l10n-name="learn-more">Hva er nytt</a>
+update-history-2 =
+    .label = Vis oppdateringshistorikk
+    .accesskey = p
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
@@ -688,6 +693,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Når { -brand-short-name } ikke kjører
     .accesskey = N
+update-application-warning-cross-user-setting-2 =
+    .message = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 update-application-warning-cross-user-setting = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 update-application-use-service =
     .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
@@ -710,6 +717,9 @@ update-in-progress-ok-button = &Avvis
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsett
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1425,7 +1435,7 @@ forms-ask-to-save-logins =
     .label = Spør om å lagre brukernavn og passord for nettsteder
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1526,6 +1536,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Les mer
 forms-windows-sso-desc = Behandle kontoer i dine enhetensinnstillinger
 windows-passkey-settings-label = Behandle passnøkkel i systeminnstillingene
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

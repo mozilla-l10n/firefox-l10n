@@ -454,6 +454,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Za primjenjivanje ovih promjena ponovo pokreni { -brand-short-name }
 confirm-browser-language-change-button = Primijeni i ponovo pokreni
+browser-language-install-error =
+    .message = { -brand-short-name } trenutačno ne može aktualizirati tvoje jezike. Provjeri vezu s internetom ili pokušaj ponovo.
 translate-web-pages =
     .label = Prevedi web sadržaj
     .accesskey = P
@@ -644,7 +646,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Što bi { -brand-short-name } trebao učiniti s drugim datotekama?
 applications-save-for-new-types =
@@ -665,6 +667,9 @@ update-application-description = Aktualiziraj { -brand-short-name } za najbolju 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verzija { $version } <a data-l10n-name="learn-more">Što je novo</a>
+update-history-2 =
+    .label = Prikaži povijest aktualiziranja{ " " }
+    .accesskey = P
 update-history =
     .label = Prikaži povijest aktualiziranja …
     .accesskey = P
@@ -681,6 +686,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Kada { -brand-short-name } nije pokrenut
     .accesskey = K
+update-application-warning-cross-user-setting-2 =
+    .message = Ove postavke će se primijeniti na sve račune u Windowsu i profile za { -brand-short-name } koji koriste ovu instalaciju programa { -brand-short-name }.
 update-application-warning-cross-user-setting = Ove postavke će se primijeniti na sve račune u Windowsu i profile za { -brand-short-name } koji koriste ovu instalaciju programa { -brand-short-name }.
 update-application-use-service =
     .label = Koristi pozadinsku uslugu za instaliranje novih verzija
@@ -703,6 +710,9 @@ update-in-progress-ok-button = O&dbaci
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -785,6 +795,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saznaj više
 browsing-group =
     .label = Pregledavanje
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1399,7 +1412,7 @@ forms-ask-to-save-logins =
     .label = Pitaj za spremanje prijava i lozinki za web-stranice
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1500,6 +1513,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saznaj više
 forms-windows-sso-desc = Upravljaj računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u postavkama sustava
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2369,6 +2385,9 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS preko HTTPS-a
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Radna površina
@@ -2484,3 +2503,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Sumnjivi prikupljači digitalnih otisaka
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Sumnjivi prikupljači digitalnih otisaka
+
+## Warnings section
+

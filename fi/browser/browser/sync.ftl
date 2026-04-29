@@ -39,6 +39,10 @@ fxa-menu-send-to-mobile =
            *[other] Lähetä { $tabCount } välilehteä mobiililaitteeseen
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Ota synkronointi käyttöön lähettääksesi välilehden
+fxa-menu-send-to-mobile-connect-phone2 = Yhdistä puhelimesi
+fxa-menu-send-to-mobile-device-missing2 = Etkö näe laitettasi?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Ota synkronointi käyttöön lähettääksesi välilehden
 fxa-menu-send-to-mobile-connect-phone =

@@ -12,23 +12,37 @@ update-updateButton =
     .label = Duna'àj ni nachrun ñûnt da' nahuin nàkaj { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Nana’uij sa naka doj…
+settings-update-checking-for-updates =
+    .label = Nana’uij sa naka doj…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Hìaj naninj sa nakàa<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Hìaj nadunin sa nākà doj — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Hìaj naninj sa nakàa{ $transfer }
 
 ##
 
 update-applying = Hìaj nagi'iaj nakàj sa naduninjt
+settings-update-applying =
+    .label = Hìaj nagi'iaj nakàj sa naduninjt
 update-failed = Guire’ sa nagui’iaj naka. <label data-l10n-name="failed-link">Naduninj sa naka doj</label>
 update-failed-main = Guire’ sa nagui’iaj naka. <a data-l10n-name="failed-link-main">Naduninj sa naka doj</a>
 update-adminDisabled = Su' 'nïnj ra'a aga' sikà' rà na ni duyichin' si daran' sa nahuin nakàa
 update-policy-disabled = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
+settings-update-policy-disabled =
+    .label = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
 update-noUpdatesFound = { -brand-short-name } nga ganahuin naka
+settings-update-no-updates-found =
+    .label = { -brand-short-name } nga ganahuin naka
 aboutdialog-update-checking-failed = Gire’ guendâ nana’huij nej sa nahuin nākàa.
+settings-update-checking-failed =
+    .label = Gire’ guendâ nana’huij nej sa nahuin nākàa.
 update-otherInstanceHandlingUpdates = { -brand-short-name } nahui nakà ma 'iaj a'ngo ña achín nì'iô'
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } nahui nakà ma 'iaj a'ngo ña achín nì'iô'
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } nahui nakà ma 'iaj 
 aboutdialog-update-manual-with-link = Gà' hua sa nakà doj riña <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Gà' hua sa nakà doj riña <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Si ga'ue nagi'iaj nakà rè' doj riña aga' na gà' rû' huaj<label data-l10n-name="unsupported-link">Gahuin chrun doj</label>
+settings-update-unsupported = Si ga'ue nagi'iaj nakà rè' doj riña aga' na gà' rû' huaj<a data-l10n-name="unsupported-link">Gahuin chrun doj</a>
 update-restarting = Nayi'ì ñûn
+settings-update-restarting =
+    .label = Nayi'ì ñûn
 update-internal-error2 = Na’hue gā’nïn nānà’huij sa nāhuin nākàa dadin’ huā ‘ngō sa huā a’nan’. Si ruhuât nārì’t sa nāhuin nākàa nī guīj hiūj nan <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Na’hue gā’nïn nānà’huij sa nāhuin nākàa dadin’ huā ‘ngō sa huā a’nan’. Si ruhuât nārì’t sa nāhuin nākàa nī guīj hiūj nan <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

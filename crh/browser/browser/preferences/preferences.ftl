@@ -160,6 +160,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Bu deñişikliklerni uyğulamaq içün { -brand-short-name } seyrancısını kene başlatıñız
 confirm-browser-language-change-button = Uyğula ve Kene Başlat
+browser-language-install-error =
+    .message = { -brand-short-name } al-azırda tilleriñizni yañartalmay. İnternet'ke bağlanğan olğanıñıznı teşkeriñiz yaki yañıdan deñeñiz.
 translate-web-pages =
     .label = Ağ muhtevasını tercime et
     .accesskey = A
@@ -259,7 +261,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = Raqamsal Aqlar İdaresi (DRM) Muhtevası
@@ -273,6 +275,9 @@ update-application-description = Eñ yahşı icraat, istiqrar ve emniyet içün 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Sürüm{ $version } <a data-l10n-name="learn-more">Ne bar ne yoq</a>
+update-history-2 =
+    .label = Yañartma keçmişini köster
+    .accesskey = k
 update-history =
     .label = Yañartma keçmişini köster…
     .accesskey = k
@@ -286,10 +291,18 @@ update-application-check-choose =
 update-application-manual =
     .label = İç bir zaman teşkermesin (tevsiye etilmez)
     .accesskey = i
+update-application-warning-cross-user-setting-2 =
+    .message = Bu ayar, { -brand-short-name } tatbiqiniñ bu qurulımını qullanğan Windows esaplarınıñ ve { -brand-short-name } profilleriniñ episine uyğulanacaq.
 update-application-warning-cross-user-setting = Bu ayar, { -brand-short-name } tatbiqiniñ bu qurulımını qullanğan Windows esaplarınıñ ve { -brand-short-name } profilleriniñ episine uyğulanacaq.
 update-application-use-service =
     .label = Yañartmalarnı qurmaq içün arqazemin hizmetini qullan
     .accesskey = a
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -341,6 +354,9 @@ browsing-cfr-recommendations-learn-more = Daha Çoq Ögren
 browsing-group =
     .label = Kezinti
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Şebeke Ayarları
@@ -390,6 +406,12 @@ use-current-pages =
 choose-bookmark =
     .label = Saifeimi qullan…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -487,6 +509,9 @@ containers-add-button =
 containers-remove-button =
     .label = Çetleştir
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -521,6 +546,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } doğrulanmamış.
 sync-signedin-login-failure = Yañıdan { $email } esabına bağlanmaq içün lütfen içeri imzalanıñız
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -532,6 +562,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Giriş yap
     .accesskey = G
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -608,7 +644,7 @@ forms-ask-to-save-logins =
     .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni saqlamağa sora
     .accesskey = A
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = İstisnalar…
@@ -623,6 +659,15 @@ forms-master-pw-change =
     .label = Usta Sır-sözni Deñiştir…
     .accesskey = d
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -708,6 +753,12 @@ sitedata-settings =
     .accesskey = V
 cookies-site-data-group =
     .label = Çörekler ve Sayt Verileri
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -836,6 +887,9 @@ collection-health-report-disabled = Bu yapılandırma için veri raporlama devre
 data-collection-studies-link =
     .label = { -brand-short-name } tetqiqlerini kör
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -868,8 +922,29 @@ certs-devices =
     .accesskey = C
 certs-devices-enable-fips = FIPS etkinleştir
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Masaüstü
 downloads-folder-name = Endirmeler
 choose-download-folder-title = Endirme Cilbentini Saylañız:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

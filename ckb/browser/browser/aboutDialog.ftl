@@ -12,21 +12,31 @@ update-updateButton =
     .label = پێکردنەوە بۆ نوێکردنەوە { -brand-shorter-name }
     .accesskey = پ
 update-checkingForUpdates = چێکردن بۆ نوێکردنەوە…
+settings-update-checking-for-updates =
+    .label = چێکردن بۆ نوێکردنەوە…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/> داگرتنی نوێکاری —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = داگرتنی  نوێکاری —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = { " " }داگرتنی نوێکاری —{ $transfer }
 
 ##
 
 update-applying = جێبەجێکردنی نوێکردنەوە…
+settings-update-applying =
+    .label = جێبەجێکردنی نوێکردنەوە…
 update-failed = نوێکردنەوە سەرکەوتوو نەبوو. <label data-l10n-name="failed-link"> دووا وەشان دابگرە </label>
 update-failed-main = نوێکردنەوە سەرکەوتوو نەبوو. <a data-l10n-name="failed-link-main">دووا وەشان دابگرە</a>
 update-adminDisabled = نوێکردنەوە ناچالاک کراوە لە بەڕێوەبەری سیستمەکەتەوە
 update-noUpdatesFound = { -brand-short-name } ئێستا لە دووا وەشانە
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ئێستا لە دووا وەشانە
 update-otherInstanceHandlingUpdates = { -brand-short-name } نوێکرایەوە لەلایەن نمونەیەکی ترەوە
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } نوێکرایەوە لەلایەن نمونەیەکی ترەوە
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -34,7 +44,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } نوێکرایەوە
 aboutdialog-update-manual-with-link = نوێکردنەوە بەردەستە لە <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = نوێکردنەوە بەردەستە لە <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = تۆ ناتوانی نوێکردنەوەی تر ئەنجام بدەی لەسەر ئەم سیستمە. <label data-l10n-name="unsupported-link"> زیاتر بزانە</label>
+settings-update-unsupported = تۆ ناتوانی نوێکردنەوەی تر ئەنجام بدەی لەسەر ئەم سیستمە. <a data-l10n-name="unsupported-link"> زیاتر بزانە</a>
 update-restarting = پێکردنەوە…
+settings-update-restarting =
+    .label = پێکردنەوە…
 
 ##
 

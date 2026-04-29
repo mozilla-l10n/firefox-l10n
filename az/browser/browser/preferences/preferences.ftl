@@ -156,6 +156,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Dəyişiklikləri tətbiq etmək üçün { -brand-short-name } səyyahını yenidən başladın
 confirm-browser-language-change-button = Tətbiq et və Yenidən başlat
+browser-language-install-error =
+    .message = { -brand-short-name } hazırda dillərinizi yeniləyə bilmir. İnternetə qoşulu olduğunuza əmin olun və təkrar yoxlayın.
 translate-web-pages =
     .label = Web məzmunu tərcümə et
     .accesskey = t
@@ -255,7 +257,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = Rəqəmsal Hüquqların İdarəsi (DRM) Məzmunu
@@ -269,6 +271,9 @@ update-application-description = Yaxşı məhsuldarlıq, sabitlik və təhlükə
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Buraxılış { $version } <a data-l10n-name="learn-more">Yeniliklər</a>
+update-history-2 =
+    .label = Yeniləmə tarixçəsini göstər
+    .accesskey = e
 update-history =
     .label = Yeniləmə tarixçəsini göstər…
     .accesskey = e
@@ -285,6 +290,12 @@ update-application-manual =
 update-application-use-service =
     .label = Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et
     .accesskey = a
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -332,6 +343,9 @@ browsing-cfr-recommendations =
 browsing-cfr-recommendations-learn-more = Ətraflı Öyrən
 browsing-group =
     .label = Səyahət
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -382,6 +396,12 @@ use-current-pages =
 choose-bookmark =
     .label = Əlfəcin istifadə et…
     .accesskey = Ə
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -480,6 +500,9 @@ containers-add-button =
 containers-remove-button =
     .label = Sil
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -514,6 +537,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } təsdiqlənməyib.
 sync-signedin-login-failure = Yenidən qoşulmaq üçün daxil olun { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -525,6 +553,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Daxil ol
     .accesskey = x
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -601,7 +635,7 @@ forms-ask-to-save-logins =
     .label = Daxil olma və parolları saxlamaq üçün soruş
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = İstisnalar…
@@ -616,6 +650,15 @@ forms-master-pw-change =
     .label = Ana parolu dəyişdir…
     .accesskey = d
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -697,6 +740,12 @@ sitedata-settings =
     .accesskey = M
 cookies-site-data-group =
     .label = Çərəzlər və Sayt Məlumatları
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -818,6 +867,9 @@ collection-health-report-disabled = Bu quraşdırmanın konfiqurasiyasında məl
 data-collection-studies-link =
     .label = { -brand-short-name } tədqiqatlarını gör
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -850,8 +902,29 @@ certs-devices =
     .accesskey = T
 certs-devices-enable-fips = FIPS aktivləşdir
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = İşçi masası
 downloads-folder-name = Endirmələr
 choose-download-folder-title = Endirmə qovluğunu seçin:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

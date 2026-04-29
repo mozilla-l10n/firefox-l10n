@@ -458,6 +458,8 @@ manage-browser-languages-button =
     .accesskey = E
 confirm-browser-language-change-description = Restartigi { -brand-short-name } por apliki tiun ĉi ŝanĝojn
 confirm-browser-language-change-button = Apliki kaj restartigi
+browser-language-install-error =
+    .message = { -brand-short-name } ne povas ĝisdatigi viajn lingvojn nun. Kontrolu ĉu vi estas konektita al la reto aŭ provu denove.
 translate-web-pages =
     .label = Traduki teksaĵan enhavon
     .accesskey = T
@@ -651,7 +653,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Kion devus fari { -brand-short-name } kun aliaj dosieroj?
 applications-save-for-new-types =
@@ -672,6 +674,9 @@ update-application-description = Tenu { -brand-short-name } ĝisdatigita por hav
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Kio estas nova</a>
+update-history-2 =
+    .label = Montri historion de ĝisdatigoj
+    .accesskey = M
 update-history =
     .label = Montri historion de ĝisdatigoj…
     .accesskey = M
@@ -688,6 +693,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Kiam { -brand-short-name } ne funkcias
     .accesskey = K
+update-application-warning-cross-user-setting-2 =
+    .message = Tiu ĉi agordo estos aplikita al ĉiuj kontoj de Windows kaj profiloj de { -brand-short-name }, kiuj uzas tiun ĉi instalitan version de { -brand-short-name }.
 update-application-warning-cross-user-setting = Tiu ĉi agordo estos aplikita al ĉiuj kontoj de Windows kaj profiloj de { -brand-short-name }, kiuj uzas tiun ĉi instalitan version de { -brand-short-name }.
 update-application-use-service =
     .label = Uzi fonan servon por instali ĝisdatigojn
@@ -710,6 +717,9 @@ update-in-progress-ok-button = &Ignori
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -792,6 +802,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Pli da informo
 browsing-group =
     .label = Retumo
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1405,7 +1418,7 @@ forms-ask-to-save-logins =
     .label = Demandi ĉu konservi akreditilojn kaj pasvortojn por retejoj
     .accesskey = D
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1506,6 +1519,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Pli da informo
 forms-windows-sso-desc = Administri kontojn en la agordoj de via aparato
 windows-passkey-settings-label = Administri alirŝlosiloj en la sistemaj agordoj
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2377,6 +2393,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Tajpu personecigitan URL de provizanto
 preferences-doh-header2 =
     .heading = DNS per HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

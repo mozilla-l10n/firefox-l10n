@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Restart { -brand-short-name } to apply these changes
 confirm-browser-language-change-button = Apply and Restart
+browser-language-install-error =
+    .message = { -brand-short-name } can’t update your languages right now. Check that you are connected to the internet or try again.
 translate-web-pages =
     .label = Translate web content
     .accesskey = T
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = What should { -brand-short-name } do with other files?
 applications-save-for-new-types =
@@ -674,6 +676,9 @@ update-application-description = Keep { -brand-short-name } up to date for the b
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">What’s new</a>
+update-history-2 =
+    .label = Show Update History
+    .accesskey = p
 update-history =
     .label = Show Update History…
     .accesskey = p
@@ -690,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = When { -brand-short-name } is not running
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = This setting will apply to all Windows accounts and { -brand-short-name } profiles using this installation of { -brand-short-name }.
 update-application-warning-cross-user-setting = This setting will apply to all Windows accounts and { -brand-short-name } profiles using this installation of { -brand-short-name }.
 update-application-use-service =
     .label = Use a background service to install updates
@@ -712,6 +719,9 @@ update-in-progress-ok-button = &Discard
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1441,7 @@ forms-ask-to-save-logins =
     .label = Ask to save logins and passwords for websites
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1542,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Learn more
 forms-windows-sso-desc = Manage accounts in your device settings
 windows-passkey-settings-label = Manage passkeys in system settings
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

@@ -20,22 +20,34 @@ update-updateButton =
         }
     .accesskey = R
 update-checkingForUpdates = Kontrola aktualizací…
+settings-update-checking-for-updates =
+    .label = Kontrola aktualizací…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Stahování aktualizace — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Stahování aktualizace — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Stahování aktualizace — { $transfer }
 
 ##
 
 update-applying = Probíhá aktualizace…
+settings-update-applying =
+    .label = Probíhá aktualizace…
 update-failed = Aktualizace selhala. <label data-l10n-name="failed-link">Stáhnout nejnovější verzi</label>
 update-failed-main = Aktualizace selhala. <a data-l10n-name="failed-link-main">Stáhnout nejnovější verzi</a>
 update-adminDisabled = Aktualizace jsou zakázány správcem
 update-policy-disabled = Aktualizace jsou zakázány vaší organizací
+settings-update-policy-disabled =
+    .label = Aktualizace jsou zakázány vaší organizací
 update-noUpdatesFound = { -brand-short-name } je aktuální
+settings-update-no-updates-found =
+    .label = { -brand-short-name } je aktuální
 aboutdialog-update-checking-failed = Kontrola aktualizací se nezdařila
+settings-update-checking-failed =
+    .label = Kontrola aktualizací se nezdařila
 update-otherInstanceHandlingUpdates =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } je aktualizován jinou instancí
@@ -43,6 +55,14 @@ update-otherInstanceHandlingUpdates =
         [neuter] { -brand-short-name } je aktualizováno jinou instancí
        *[other] Aplikace { -brand-short-name } je aktualizována jinou instancí
     }
+settings-update-other-instance-handling-updates =
+    .label =
+        { -brand-short-name.gender ->
+            [masculine] { -brand-short-name } je aktualizován jinou instancí
+            [feminine] { -brand-short-name } je aktualizována jinou instancí
+            [neuter] { -brand-short-name } je aktualizováno jinou instancí
+           *[other] Aplikace { -brand-short-name } je aktualizována jinou instancí
+        }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -50,8 +70,12 @@ update-otherInstanceHandlingUpdates =
 aboutdialog-update-manual-with-link = Aktualizace jsou dostupné na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Aktualizace jsou dostupné na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Na tomto systému nelze provádět další aktualizace. <label data-l10n-name="unsupported-link">Zjistit více</label>
+settings-update-unsupported = Na tomto systému nelze provádět další aktualizace. <a data-l10n-name="unsupported-link">Zjistit více</a>
 update-restarting = Restartování…
+settings-update-restarting =
+    .label = Restartování…
 update-internal-error2 = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

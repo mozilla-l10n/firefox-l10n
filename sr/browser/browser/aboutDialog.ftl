@@ -20,28 +20,47 @@ update-updateButton =
         }
     .accesskey = Р
 update-checkingForUpdates = Тражи се ажурирање…
+settings-update-checking-for-updates =
+    .label = Тражи се ажурирање…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Преузимање ажурирања — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Преузимање ажурирања — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Преузимање ажурирања — { $transfer }
 
 ##
 
 update-applying = Примена ажурирања…
+settings-update-applying =
+    .label = Примена ажурирања…
 update-failed = Ажурирање није успело. <label data-l10n-name="failed-link">Преузмите најновију верзију</label>
 update-failed-main = Ажурирање није успело. <a data-l10n-name="failed-link-main">Преузмите најновију верзију</a>
 update-adminDisabled = Администратор система је онемогућио ажурирања
 update-policy-disabled = Ваша организација је онемогућила ажурирања
+settings-update-policy-disabled =
+    .label = Ваша организација је онемогућила ажурирања
 update-noUpdatesFound =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } је ажуран
         [feminine] { -brand-short-name } је ажурна
        *[other] Програм { -brand-short-name } је ажуран
     }
+settings-update-no-updates-found =
+    .label =
+        { -brand-short-name.gender ->
+            [masculine] { -brand-short-name } је ажуран
+            [feminine] { -brand-short-name } је ажурна
+           *[other] Програм { -brand-short-name } је ажуран
+        }
 aboutdialog-update-checking-failed = Провера ажурирања није успела.
+settings-update-checking-failed =
+    .label = Провера ажурирања није успела.
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира у другој инстанци
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } се ажурира у другој инстанци
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -49,8 +68,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира 
 aboutdialog-update-manual-with-link = Ажурирања су доступна на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ажурирања су доступна на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Не можете да извршите ажурирања на овом систему. <label data-l10n-name="unsupported-link">Сазнајте више</label>
+settings-update-unsupported = Не можете да извршите ажурирања на овом систему. <a data-l10n-name="unsupported-link">Сазнајте више</a>
 update-restarting = Поново покрећем…
+settings-update-restarting =
+    .label = Поново покрећем…
 update-internal-error2 = Интерна грешка спречава проверу ажурирања. Ажурирања су доступна на <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Интерна грешка спречава проверу ажурирања. Ажурирања су доступна на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

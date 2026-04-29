@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = ν
 confirm-browser-language-change-description = Επανεκκίνηση του { -brand-short-name } για εφαρμογή αλλαγών
 confirm-browser-language-change-button = Εφαρμογή και επανεκκίνηση
+browser-language-install-error =
+    .message = Το { -brand-short-name } δεν μπορεί να ενημερώσει τις γλώσσες σας αυτήν τη στιγμή. Ελέγξτε αν έχετε συνδεθεί στο διαδίκτυο ή δοκιμάστε ξανά.
 translate-web-pages =
     .label = Μετάφραση περιεχομένου του ιστού
     .accesskey = τ
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Τι να κάνει το { -brand-short-name } με άλλα αρχεία;
 applications-save-for-new-types =
@@ -674,6 +676,9 @@ update-application-description = Διατηρείτε το { -brand-short-name }
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Έκδοση { $version } <a data-l10n-name="learn-more">Τι νέο υπάρχει</a>
+update-history-2 =
+    .label = Εμφάνιση ιστορικού ενημερώσεων
+    .accesskey = ν
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
     .accesskey = ν
@@ -690,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Όταν δεν εκτελείται το { -brand-short-name }
     .accesskey = Ό
+update-application-warning-cross-user-setting-2 =
+    .message = Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του { -brand-short-name } που χρησιμοποιούν αυτήν την εγκατάσταση του { -brand-short-name }.
 update-application-warning-cross-user-setting = Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του { -brand-short-name } που χρησιμοποιούν αυτήν την εγκατάσταση του { -brand-short-name }.
 update-application-use-service =
     .label = Χρήση υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
@@ -712,6 +719,9 @@ update-in-progress-ok-button = &Απόρριψη
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1441,7 @@ forms-ask-to-save-logins =
     .label = Ερώτηση για αποθήκευση στοιχείων σύνδεσης για ιστοτόπους
     .accesskey = ρ
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1542,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Μάθετε περισσότερα
 forms-windows-sso-desc = Διαχειριστείτε τους λογαριασμούς σας στις ρυθμίσεις συσκευής
 windows-passkey-settings-label = Διαχείριση κλειδιών πρόσβασης στις ρυθμίσεις συστήματος
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

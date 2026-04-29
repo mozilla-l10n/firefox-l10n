@@ -12,20 +12,30 @@ update-updateButton =
     .label = Puorstarteit { -brand-shorter-name }, kab atjaunynuotu
     .accesskey = R
 update-checkingForUpdates = Meklej atjaunynuojumus…
+settings-update-checking-for-updates =
+    .label = Meklej atjaunynuojumus…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Lejupīluodē atjaunynuojumu — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Lejupīluodē atjaunynuojumu — { $transfer }
 
 ##
 
 update-applying = Instalej atjaunynuojumu…
+settings-update-applying =
+    .label = Instalej atjaunynuojumu…
 update-failed = Atjaunynuošona naizadeve. <label data-l10n-name="failed-link">Lejupīlōdej jaunōkū verseju</label>
 update-failed-main = Atjaunynuošona naizadeve. <a data-l10n-name="failed-link-main">Lejupīlōdej jaunōkū verseju</a>
 update-adminDisabled = Jiusu sistemys administrators ir deaktiviejs atjaunynuojumus
 update-noUpdatesFound = { -brand-short-name } nav atjaunynuojumu
+settings-update-no-updates-found =
+    .label = { -brand-short-name } nav atjaunynuojumu
 update-otherInstanceHandlingUpdates = { -brand-short-name } itūbreid atjaunynoj cyta instance
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } itūbreid atjaunynoj cyta instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } itūbreid atjaunynoj
 aboutdialog-update-manual-with-link = Atjaunynuojumi ir pīejami ite<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atjaunynuojumi ir pīejami ite<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Papyldus atjaunynuojumi itymā sistemā nav īspiejami. <label data-l10n-name="unsupported-link">Uzzynojit vairuok</label>
+settings-update-unsupported = Papyldus atjaunynuojumi itymā sistemā nav īspiejami. <a data-l10n-name="unsupported-link">Uzzynojit vairuok</a>
 update-restarting = Nūteik puorstarteišona…
+settings-update-restarting =
+    .label = Nūteik puorstarteišona…
 
 ##
 

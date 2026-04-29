@@ -458,6 +458,8 @@ manage-browser-languages-button =
     .accesskey = k
 confirm-browser-language-change-description = Käytä näitä muutoksia käynnistämällä { -brand-short-name } uudestaan
 confirm-browser-language-change-button = Käytä ja käynnistä uudestaan
+browser-language-install-error =
+    .message = { -brand-short-name } ei voi päivittää kieliä juuri nyt. Varmista, että yhteys internetiin toimii tai yritä uudestaan.
 translate-web-pages =
     .label = Käännä sivustojen sisältö
     .accesskey = n
@@ -651,7 +653,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Mitä { -brand-short-name }in pitäisi tehdä muille tiedostoille?
 applications-save-for-new-types =
@@ -672,6 +674,9 @@ update-application-description = Pidä { -brand-short-name } ajan tasalla parhaa
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Mitä uutta</a>
+update-history-2 =
+    .label = Näytä päivityshistoria
+    .accesskey = N
 update-history =
     .label = Näytä päivityshistoria…
     .accesskey = N
@@ -688,6 +693,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Kun { -brand-short-name } ei ole käynnissä
     .accesskey = K
+update-application-warning-cross-user-setting-2 =
+    .message = Tämä asetus koskee kaikkia Windows-tilejä ja { -brand-short-name }-profiileja, jotka käyttävät tätä { -brand-short-name }-asennusta.
 update-application-warning-cross-user-setting = Tämä asetus koskee kaikkia Windows-tilejä ja { -brand-short-name }-profiileja, jotka käyttävät tätä { -brand-short-name }-asennusta.
 update-application-use-service =
     .label = Asenna päivitykset taustalla toimivalla palvelulla
@@ -710,6 +717,9 @@ update-in-progress-ok-button = &Hylkää
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -792,6 +802,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1409,7 +1422,7 @@ forms-ask-to-save-logins =
     .label = Ehdota sivustojen käyttäjätunnusten ja salasanojen tallentamista
     .accesskey = v
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1510,6 +1523,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lisätietoja
 forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
 windows-passkey-settings-label = Hallitse todentamisavaimia järjestelmän asetuksissa
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2381,6 +2397,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Anna mukautetun tarjoajan URL-osoite
 preferences-doh-header2 =
     .heading = DNS HTTPS:n kautta
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 

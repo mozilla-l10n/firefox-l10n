@@ -363,6 +363,8 @@ manage-browser-languages-button =
     .accesskey = S
 confirm-browser-language-change-description = Mulai ulang { -brand-short-name } untuk menerapkan perubahan
 confirm-browser-language-change-button = Terapkan dan Mulai Ulang
+browser-language-install-error =
+    .message = { -brand-short-name } tidak dapat memperbarui bahasa Anda saat ini. Periksa koneksi internet Anda atau coba lagi.
 translate-web-pages =
     .label = Penerjemahan isi web
     .accesskey = n
@@ -487,7 +489,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Apa yang sebaiknya { -brand-short-name } lakukan dengan berkas lainnya?
 applications-save-for-new-types =
@@ -508,6 +510,9 @@ update-application-description = Pastikan { -brand-short-name } selalu mutakhir 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versi { $version } <a data-l10n-name="learn-more">Yang baru</a>
+update-history-2 =
+    .label = Tampilkan Riwayat Pemutakhiran
+    .accesskey = P
 update-history =
     .label = Tampilkan Riwayat Pemutakhiran…
     .accesskey = P
@@ -524,6 +529,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Ketika { -brand-short-name } sedang tidak berjalan
     .accesskey = t
+update-application-warning-cross-user-setting-2 =
+    .message = Pengaturan ini akan berlaku untuk semua akun Windows dan profil { -brand-short-name } yang menggunakan pemasangan { -brand-short-name } ini.
 update-application-warning-cross-user-setting = Pengaturan ini akan berlaku untuk semua akun Windows dan profil { -brand-short-name } yang menggunakan pemasangan { -brand-short-name } ini.
 update-application-use-service =
     .label = Gunakan layanan latar belakang untuk memasang pemutakhiran
@@ -546,6 +553,12 @@ update-in-progress-ok-button = &Hapus Perubahan
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -616,6 +629,9 @@ browsing-cfr-recommendations-learn-more = Pelajari lebih lanjut
 browsing-group =
     .label = Jelajah Web
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Setelan Jaringan
@@ -667,6 +683,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -877,6 +899,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1045,7 +1072,7 @@ forms-ask-to-save-logins =
     .label = Minta untuk menyimpan info masuk dan kata sandi untuk situs web
     .accesskey = M
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1115,6 +1142,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Pelajari lebih lanjut
 forms-windows-sso-desc = Kelola akun di pengaturan perangkat Anda
 windows-passkey-settings-label = Kelola kunci sandi di pengaturan sistem
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1731,8 +1761,23 @@ preferences-doh-manage-exceptions =
     .label = Kelola Pengecualian…
     .accesskey = K
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Unduhan
 choose-download-folder-title = Pilih Folder Unduhan:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

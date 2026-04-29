@@ -12,23 +12,37 @@ update-updateButton =
     .label = Startujće znowa, zo byšće { -brand-shorter-name } aktualizował
     .accesskey = z
 update-checkingForUpdates = Aktualizacije so pytaja…
+settings-update-checking-for-updates =
+    .label = Aktualizacije so pytaja…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Aktualizacija so sćahuje — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Aktualizacija so sćahuje – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Aktualizacija so sćahuje — { $transfer }
 
 ##
 
 update-applying = Aktualizacija so nałožuje…
+settings-update-applying =
+    .label = Aktualizacija so nałožuje…
 update-failed = Aktualizowanje njeje so poradźiło. <label data-l10n-name="failed-link">Najnowšu wersiju sćahnyć</label>
 update-failed-main = Aktualizowanje njeje so poradźiło. <a data-l10n-name="failed-link-main">Najnowšu wersiju sćahnyć</a>
 update-adminDisabled = Aktualizacije su so wot twojeho administratora znjemóžnili
 update-policy-disabled = Aktualizacije su wot wašeje organizacije znjemóžnjene
+settings-update-policy-disabled =
+    .label = Aktualizacije su wot wašeje organizacije znjemóžnjene
 update-noUpdatesFound = { -brand-short-name } je aktualny
+settings-update-no-updates-found =
+    .label = { -brand-short-name } je aktualny
 aboutdialog-update-checking-failed = Pytanje za aktualizacijemi je so nimokuliło.
+settings-update-checking-failed =
+    .label = Pytanje za aktualizacijemi je so nimokuliło.
 update-otherInstanceHandlingUpdates = { -brand-short-name } so přez druhu instancu aktualizuje
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } so přez druhu instancu aktualizuje
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } so přez druhu insta
 aboutdialog-update-manual-with-link = Aktualizacije k dispoziciji na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Aktualizacije k dispoziciji na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Njemóžeće dalše aktualizacije na tutym systemje přewjesć. <label data-l10n-name="unsupported-link">Dalše informacije</label>
+settings-update-unsupported = Njemóžeće dalše aktualizacije na tutym systemje přewjesć. <a data-l10n-name="unsupported-link">Dalše informacije</a>
 update-restarting = Startuje so…
+settings-update-restarting =
+    .label = Startuje so…
 update-internal-error2 = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <label data-l10n-name="manual-link">{ $displayUrl }</label> k dispoziciji
+settings-update-internal-error = Interneho zmylka dla njeje móžno za aktualizacijemi pytać. Aktualizacije su na <a data-l10n-name="manual-link">{ $displayUrl }</a> k dispoziciji
 
 ##
 

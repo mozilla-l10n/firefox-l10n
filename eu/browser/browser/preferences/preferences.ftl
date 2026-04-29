@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = d
 confirm-browser-language-change-description = Berrabiarazi { -brand-short-name } aldaketa hauek aplikatzeko
 confirm-browser-language-change-button = Aplikatu eta berrabiarazi
+browser-language-install-error =
+    .message = Une honetan { -brand-short-name }(e)k ezin ditu zure hizkuntzak eguneratu. Egiaztatu internetera konektatuta zaudela edo saiatu berriro.
 translate-web-pages =
     .label = Itzuli webeko edukia
     .accesskey = I
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Zer egin behar du { -brand-short-name }(e)k beste fitxategiekin?
 applications-save-for-new-types =
@@ -674,6 +676,9 @@ update-application-description = Mantendu { -brand-short-name } eguneratuta erre
 # Variables:
 # $version (string) - Firefox version
 update-application-version = { $version }bertsioa <a data-l10n-name="learn-more">Nobedadeak</a>
+update-history-2 =
+    .label = Erakutsi eguneraketen historia
+    .accesskey = E
 update-history =
     .label = Erakutsi eguneraketen historia…
     .accesskey = E
@@ -690,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = { -brand-short-name } ez denean exekutatzen ari
     .accesskey = z
+update-application-warning-cross-user-setting-2 =
+    .message = Ezarpen honek Windows kontu guztiei eta { -brand-short-name }(r)en instalazio hau darabilten profilei eragingo die.
 update-application-warning-cross-user-setting = Ezarpen honek Windows kontu guztiei eta { -brand-short-name }(r)en instalazio hau darabilten profilei eragingo die.
 update-application-use-service =
     .label = Erabili atzeko planoko zerbitzua eguneraketak instalatzeko
@@ -712,6 +719,9 @@ update-in-progress-ok-button = &Baztertu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1429,7 +1439,7 @@ forms-ask-to-save-logins =
     .label = Galdetu webguneetako saio-hasierak eta pasahitzak gordetzeko
     .accesskey = G
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1530,6 +1540,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
 windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

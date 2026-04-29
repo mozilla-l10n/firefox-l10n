@@ -12,23 +12,37 @@ update-updateButton =
     .label = Adloc’hit evit hizivaat { -brand-shorter-name }
     .accesskey = A
 update-checkingForUpdates = O klask hizivadennoù…
+settings-update-checking-for-updates =
+    .label = O klask hizivadennoù…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>O pellgargañ an hizivadenn — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = O pellgargañ an hizivadenn —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = O pellgargañ an hizivadenn — { $transfer }
 
 ##
 
 update-applying = Oc’h arloañ an hizivadenn…
+settings-update-applying =
+    .label = Oc’h arloañ an hizivadenn…
 update-failed = C’hwitadenn war an hizivaat. <label data-l10n-name="failed-link">Pellgargañ an handelv diwezhañ</label>
 update-failed-main = C’hwitadenn war an hizivaat. <a data-l10n-name="failed-link-main">Pellgargañ an handelv diwezhañ</a>
 update-adminDisabled = Hizivadennoù diweredekaet gant hoc’h ardead reizhiad
 update-policy-disabled = Diweredekaet eo an hizivadennoù evit hoc’h aozadur
+settings-update-policy-disabled =
+    .label = Diweredekaet eo an hizivadennoù evit hoc’h aozadur
 update-noUpdatesFound = Hizivaet eo bet { -brand-short-name }
+settings-update-no-updates-found =
+    .label = Hizivaet eo bet { -brand-short-name }
 aboutdialog-update-checking-failed = C’hwitet war wiriañ an hizivadennoù.
+settings-update-checking-failed =
+    .label = C’hwitet war wiriañ an hizivadennoù.
 update-otherInstanceHandlingUpdates = Emañ { -brand-short-name } o vezañ hizivaet gant un eriol all
+settings-update-other-instance-handling-updates =
+    .label = Emañ { -brand-short-name } o vezañ hizivaet gant un eriol all
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Emañ { -brand-short-name } o vezañ hiziv
 aboutdialog-update-manual-with-link = Hizivadennoù hegerz e <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Hizivadennoù hegerz e <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ne c’hellit ket arloañ hizivadennoù ouzhpenn war ho reizhiad. <label data-l10n-name="unsupported-link">Gouzout hiroc’h</label>
+settings-update-unsupported = Ne c’hellit ket arloañ hizivadennoù ouzhpenn war ho reizhiad. <a data-l10n-name="unsupported-link">Gouzout hiroc’h</a>
 update-restarting = Oc’h adloc’hañ…
+settings-update-restarting =
+    .label = Oc’h adloc’hañ…
 update-internal-error2 = N’haller ket gwiriañ hizivadennoù abalamour d’ur fazi diabarzh. Kavet e vezont aze: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = N’haller ket gwiriañ hizivadennoù abalamour d’ur fazi diabarzh. Kavet e vezont aze: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

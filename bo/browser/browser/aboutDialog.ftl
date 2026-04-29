@@ -12,20 +12,30 @@ update-updateButton =
     .label = འགོ་བསྐྱར་འཛུགས་བྱས་ནས་{ -brand-shorter-name }་གསར་སྒྱུར་བྱེད་པ།
     .accesskey = R
 update-checkingForUpdates = གསར་སྒྱུར་འཚོལ་བཞིན་པ…
+settings-update-checking-for-updates =
+    .label = གསར་སྒྱུར་འཚོལ་བཞིན་པ…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Downloading update — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Downloading update — { $transfer }
 
 ##
 
 update-applying = གསར་སྒྱུར་གི་ཕན་ནུས་འདོན་བཞིན་པ…
+settings-update-applying =
+    .label = གསར་སྒྱུར་གི་ཕན་ནུས་འདོན་བཞིན་པ…
 update-failed = གསར་སྒྱུར་བྱས་མ་ཐུབ། <label data-l10n-name="failed-link">པར་གཞི་གསར་ཤོས་དེ་མར་འཇུག</label>
 update-failed-main = གསར་སྒྱུར་བྱས་མ་ཐུབ། <a data-l10n-name="failed-link-main">པར་གཞི་གསར་ཤོས་དེ་མར་འཇུག</a>
 update-adminDisabled = ཁྱེད་ཀྱི་མ་ལག་དོ་དམ་པས་གསར་སྒྱུར་ནུས་མེད་བཟོས་ཡོད།
 update-noUpdatesFound = { -brand-short-name }་ནི་གསར་ཤོས་རེད་འདུག
+settings-update-no-updates-found =
+    .label = { -brand-short-name }་ནི་གསར་ཤོས་རེད་འདུག
 update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by another instance
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } is being updated by another instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by 
 aboutdialog-update-manual-with-link = Updates available at <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Updates available at <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = You can not perform further updates on this system. <label data-l10n-name="unsupported-link">Learn more</label>
+settings-update-unsupported = You can not perform further updates on this system. <a data-l10n-name="unsupported-link">Learn more</a>
 update-restarting = འགོ་བསྐྱར་འཛུགས་བྱེད་བཞིན་པ་་་
+settings-update-restarting =
+    .label = འགོ་བསྐྱར་འཛུགས་བྱེད་བཞིན་པ་་་
 
 ##
 

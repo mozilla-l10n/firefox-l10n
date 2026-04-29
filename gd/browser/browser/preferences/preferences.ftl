@@ -300,6 +300,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Ath-thòisich { -brand-short-name } gus na h-atharraichean seo a chur an comas
 confirm-browser-language-change-button = Cuir an sàs is ath-thòisich
+browser-language-install-error =
+    .message = Chan urrainn dha { -brand-short-name } na cànain agad ùrachadh an-dràsta fhèin. Dèan cinnteach gu bheil ceangal agad ris an eadar-lìon no feuch ris a-rithist.
 translate-web-pages =
     .label = Eadar-theangaich susbaint-lìn
     .accesskey = t
@@ -421,7 +423,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Dè nì { -brand-short-name } le faidhlichean eile?
 applications-save-for-new-types =
@@ -442,6 +444,9 @@ update-application-description = Cum { -brand-short-name } ùraichte airson dèa
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Tionndadh { $version } <a data-l10n-name="learn-more">Na tha ùr</a>
+update-history-2 =
+    .label = Seall eachdraidh nan ùrachaidhean
+    .accesskey = h
 update-history =
     .label = Seall eachdraidh nan ùrachaidhean…
     .accesskey = h
@@ -458,6 +463,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Nuair nach eil { -brand-short-name } a’ ruith
     .accesskey = r
+update-application-warning-cross-user-setting-2 =
+    .message = Bidh buaidh aig an roghainn seo air gach cunntas Windows agus pròifil { -brand-short-name } a chleachdas an stàladh seo de { -brand-short-name }.
 update-application-warning-cross-user-setting = Bidh buaidh aig an roghainn seo air gach cunntas Windows agus pròifil { -brand-short-name } a chleachdas an stàladh seo de { -brand-short-name }.
 update-application-use-service =
     .label = Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh
@@ -480,6 +487,12 @@ update-in-progress-ok-button = &Tilg air falbh
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lean air adhart
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -542,6 +555,9 @@ browsing-cfr-recommendations-learn-more = Barrachd fiosrachaidh
 browsing-group =
     .label = A' brabhsadh
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Roghainnean an lìonraidh
@@ -593,6 +609,12 @@ use-current-pages =
 choose-bookmark =
     .label = Cleachd comharra-lìn…
     .accesskey = c
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -782,6 +804,11 @@ sync-manage-account2 =
 sync-signedin-unverified = Cha deach { $email } a dhearbhadh
 sync-signedin-login-failure = Clàraich a-steach airson ceangal ris a-rithist { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -927,7 +954,7 @@ forms-ask-to-save-logins =
     .label = Faighnich an dèid clàraidhean a-steach is faclan-faire làraichean-lìn a shàbhaladh
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Eisgeachdan…
@@ -971,6 +998,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Barrachd fiosrachaidh
 forms-windows-sso-desc = Stiùirich na cunntasan ann an roghainnean an uidheim agad
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -981,6 +1011,9 @@ primary-password-os-auth-dialog-message-win = Airson prìomh fhacal-faire a chru
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = prìomh fhacal-faire a chruthachadh
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1299,6 +1332,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Seall obair-rannsachaidh { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1405,8 +1441,23 @@ preferences-doh-manage-exceptions =
     .label = Stiùirich na h-eisgeachdan…
     .accesskey = S
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Deasg
 downloads-folder-name = Luchdaidhean a-nuas
 choose-download-folder-title = Tagh pasgan nan luchdaidhan a-nuas:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

@@ -12,23 +12,37 @@ update-updateButton =
     .label = Berrabiarazi { -brand-shorter-name } eguneratzeko
     .accesskey = B
 update-checkingForUpdates = Eguneraketak bilatzen…
+settings-update-checking-for-updates =
+    .label = Eguneraketak bilatzen…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Eguneraketa deskargatzen — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Eguneraketa deskargatzen — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Eguneraketa deskargatzen — { $transfer }
 
 ##
 
 update-applying = Eguneraketa aplikatzen…
+settings-update-applying =
+    .label = Eguneraketa aplikatzen…
 update-failed = Eguneraketak huts egin du.<label data-l10n-name="failed-link">Deskargatu azken bertsioa</label>
 update-failed-main = Eguneraketak huts egin du.<a data-l10n-name="failed-link-main">Deskargatu azken bertsioa</a>
 update-adminDisabled = Eguneraketak desgaitu ditu sistemaren administratzaileak
 update-policy-disabled = Eguneraketak desgaitu ditu zure erakundeak
+settings-update-policy-disabled =
+    .label = Eguneraketak desgaitu ditu zure erakundeak
 update-noUpdatesFound = { -brand-short-name } eguneratuta dago
+settings-update-no-updates-found =
+    .label = { -brand-short-name } eguneratuta dago
 aboutdialog-update-checking-failed = Huts egin du eguneraketak bilatzean.
+settings-update-checking-failed =
+    .label = Huts egin du eguneraketak bilatzean.
 update-otherInstanceHandlingUpdates = Beste instantzia bat ari da { -brand-short-name } eguneratzen
+settings-update-other-instance-handling-updates =
+    .label = Beste instantzia bat ari da { -brand-short-name } eguneratzen
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Beste instantzia bat ari da { -brand-short
 aboutdialog-update-manual-with-link = Eskuratu eguneraketak <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Eskuratu eguneraketak <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ezin duzu eguneraketa gehiago burutu sistema honetan.<label data-l10n-name="unsupported-link">Argibide gehiago</label>
+settings-update-unsupported = Ezin duzu eguneraketa gehiago burutu sistema honetan.<a data-l10n-name="unsupported-link">Argibide gehiago</a>
 update-restarting = Berrabiarazten…
+settings-update-restarting =
+    .label = Berrabiarazten…
 update-internal-error2 = Ezin dira eguneraketak bilatu barne-errore bat dela eta. Eguneraketak <label data-l10n-name="manual-link">{ $displayUrl }</label> helbidean daude erabilgarri
+settings-update-internal-error = Ezin dira eguneraketak bilatu barne-errore bat dela eta. Eguneraketak <a data-l10n-name="manual-link">{ $displayUrl }</a> helbidean daude erabilgarri
 
 ##
 

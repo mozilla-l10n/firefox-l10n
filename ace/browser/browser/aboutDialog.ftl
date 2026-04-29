@@ -12,23 +12,37 @@ update-updateButton =
     .label = Peuudép Lom keu Pubarô { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Paréksa peuë nyang barô…
+settings-update-checking-for-updates =
+    .label = Paréksa peuë nyang barô…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Neu-unduh beunarô — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Teungoh geupubarô—<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Neu-unduh beunarô — { $transfer }
 
 ##
 
 update-applying = Neupeuja peubarô…
+settings-update-applying =
+    .label = Neupeuja peubarô…
 update-failed = Peubarô hana wasé. <label data-l10n-name="failed-link">Unduh versi paléng barô</label>
 update-failed-main = Peubarô hana wasé. <a data-l10n-name="failed-link-main">Unduh versi paléng barô</a>
 update-adminDisabled = Peubarô geupeumaté lé ureueng urôih sistem droëneuh
 update-policy-disabled = Pubarô geupumaté lé organisasi droeneuh
+settings-update-policy-disabled =
+    .label = Pubarô geupumaté lé organisasi droeneuh
 update-noUpdatesFound = { -brand-short-name } ka geupubarô
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ka geupubarô
 aboutdialog-update-checking-failed = Hana meuhasé paréksa pubarô
+settings-update-checking-failed =
+    .label = Hana meuhasé paréksa pubarô
 update-otherInstanceHandlingUpdates = { -brand-short-name } teungoh geuseubarô ngon conto nyang la'én
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } teungoh geuseubarô ngon conto nyang la'én
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } teungoh geuseubarô 
 aboutdialog-update-manual-with-link = Beunarô na bak <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Beunarô na bak <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Droëneuh h`an jeuët neupeugöt beunarô leubèh jeu'ôh bak sistem nyoë. <label data-l10n-name="unsupported-link">Meurunoë lom</label>
+settings-update-unsupported = Droëneuh h`an jeuët neupeugöt beunarô leubèh jeu'ôh bak sistem nyoë. <a data-l10n-name="unsupported-link">Meurunoë lom</a>
 update-restarting = Ulang keulayi…
+settings-update-restarting =
+    .label = Ulang keulayi…
 update-internal-error2 = Hana jeuet paréksa pubarô kareuna na salah di dalam. Pubarô na bak <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Hana jeuet paréksa pubarô kareuna na salah di dalam. Pubarô na bak <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

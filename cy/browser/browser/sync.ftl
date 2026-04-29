@@ -47,6 +47,10 @@ fxa-menu-send-to-mobile =
            *[other] Anfon { $tabCount } tab i'r symudol
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Galluogi cydweddu i anfon tab
+fxa-menu-send-to-mobile-connect-phone2 = Cysylltu eich ffôn
+fxa-menu-send-to-mobile-device-missing2 = Ddim yn gweld eich dyfais?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Galluogi cydweddu i anfon tab
 fxa-menu-send-to-mobile-connect-phone =

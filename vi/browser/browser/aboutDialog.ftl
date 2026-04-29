@@ -12,23 +12,37 @@ update-updateButton =
     .label = Khởi động lại để cập nhật { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Đang kiểm tra cập nhật…
+settings-update-checking-for-updates =
+    .label = Đang kiểm tra cập nhật…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Đang tải xuống bản cập nhật — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Đang tải xuống bản cập nhật — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Đang tải xuống bản cập nhật — { $transfer }
 
 ##
 
 update-applying = Đang cài đặt bản cập nhật…
+settings-update-applying =
+    .label = Đang cài đặt bản cập nhật…
 update-failed = Cập nhật thất bại. <label data-l10n-name="failed-link">Tải phiên bản mới nhất</label>
 update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-main">Tải phiên bản mới nhất</a>
 update-adminDisabled = Cập nhật bị vô hiệu hóa bởi quản trị hệ thống
 update-policy-disabled = Cập nhật bị vô hiệu hoá bởi tổ chức của bạn
+settings-update-policy-disabled =
+    .label = Cập nhật bị vô hiệu hoá bởi tổ chức của bạn
 update-noUpdatesFound = { -brand-short-name } đã được cập nhật
+settings-update-no-updates-found =
+    .label = { -brand-short-name } đã được cập nhật
 aboutdialog-update-checking-failed = Không thể kiểm tra bản cập nhật.
+settings-update-checking-failed =
+    .label = Không thể kiểm tra bản cập nhật.
 update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập nhật bởi tiến trình khác
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } đang được cập nhật bởi tiến trình khác
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập
 aboutdialog-update-manual-with-link = Cập nhật có tại <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Cập nhật có tại <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <label data-l10n-name="unsupported-link">Tìm hiểu thêm</label>
+settings-update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <a data-l10n-name="unsupported-link">Tìm hiểu thêm</a>
 update-restarting = Đang khởi động lại…
+settings-update-restarting =
+    .label = Đang khởi động lại…
 update-internal-error2 = Không thể kiểm tra các bản cập nhật do lỗi nội bộ. Các bản cập nhật có sẵn tại <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Không thể kiểm tra các bản cập nhật do lỗi nội bộ. Các bản cập nhật có sẵn tại <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

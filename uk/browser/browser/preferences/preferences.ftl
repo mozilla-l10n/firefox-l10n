@@ -414,6 +414,8 @@ manage-browser-languages-button =
     .accesskey = л
 confirm-browser-language-change-description = Перезапустіть { -brand-short-name } для застосування змін
 confirm-browser-language-change-button = Застосувати й перезапустити
+browser-language-install-error =
+    .message = { -brand-short-name } не може оновити ваші мови зараз. Перевірте своє з'єднання з інтернетом і спробуйте знову.
 translate-web-pages =
     .label = Перекладати веб вміст
     .accesskey = П
@@ -538,7 +540,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Як { -brand-short-name } повинен обробляти такі файли?
 applications-save-for-new-types =
@@ -559,6 +561,9 @@ update-application-description = Використовуйте найновішу
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Версія { $version } <a data-l10n-name="learn-more">Що нового</a>
+update-history-2 =
+    .label = Показати історію оновлень
+    .accesskey = с
 update-history =
     .label = Показати історію оновлень…
     .accesskey = с
@@ -575,6 +580,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Коли { -brand-short-name } не запущений
     .accesskey = К
+update-application-warning-cross-user-setting-2 =
+    .message = Цей параметр застосується для всіх облікових записів Windows та профілів { -brand-short-name }, що використовують це встановлення { -brand-short-name }.
 update-application-warning-cross-user-setting = Цей параметр застосується для всіх облікових записів Windows та профілів { -brand-short-name }, що використовують це встановлення { -brand-short-name }.
 update-application-use-service =
     .label = Використовувати фонову службу для встановлення оновлень
@@ -597,6 +604,9 @@ update-in-progress-ok-button = &Відхилити
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продовжити
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -679,6 +689,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Докладніше
 browsing-group =
     .label = Перегляд сайтів
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1029,6 +1042,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } не підтверджено.
 sync-signedin-login-failure = Увійдіть для повторного з'єднання { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1201,7 +1219,7 @@ forms-ask-to-save-logins =
     .label = Запит збереження паролів для вебсайтів
     .accesskey = п
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1296,6 +1314,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Докладніше
 forms-windows-sso-desc = Керування обліковими записами в налаштуваннях пристрою
 windows-passkey-settings-label = Керувати ключами доступу в налаштуваннях системи
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1977,8 +1998,23 @@ preferences-doh-manage-exceptions =
     .label = Керувати винятками…
     .accesskey = н
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Робочий стіл
 downloads-folder-name = Завантаження
 choose-download-folder-title = Виберіть теку для завантажень:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

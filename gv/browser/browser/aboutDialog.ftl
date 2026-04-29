@@ -12,15 +12,25 @@ update-updateButton =
     .label = Aahoshee dy yannoo { -brand-shorter-name } ass y noa
     .accesskey = A
 update-checkingForUpdates = Jeeaghyn son lhieggan noa...
+settings-update-checking-for-updates =
+    .label = Jeeaghyn son lhieggan noa...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Jeelaadey lhieggan noa — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Jeelaadey lhieggan noa — { $transfer }
 
 ##
 
 update-applying = Cur bree da'n lhieggan noa...
+settings-update-applying =
+    .label = Cur bree da'n lhieggan noa...
+
+## Variables:
+##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
+
 
 ##
 

@@ -12,23 +12,37 @@ update-updateButton =
     .label = Reaviar per actualisar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Tschertgar actualisaziuns disponiblas…
+settings-update-checking-for-updates =
+    .label = Tschertgar actualisaziuns disponiblas…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>L'actualisaziun vegn telechargiada — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Telechargiar in'actualisaziun – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = L'actualisaziun vegn telechargiada — { $transfer }
 
 ##
 
 update-applying = Applitgar l'actualisaziun…
+settings-update-applying =
+    .label = Applitgar l'actualisaziun…
 update-failed = L'actualisaziun n'è betg reussida. <label data-l10n-name="failed-link">Telechargiar la versiun actuala</label>
 update-failed-main = L'actualisaziun n'è betg reussida. <a data-l10n-name="failed-link-main">Telechargiar la versiun actuala</a>
 update-adminDisabled = La funcziun dad actualisaziuns è deactivada da tes administratur da sistem
 update-policy-disabled = Tia organisaziun ha deactivà las actualisaziuns
+settings-update-policy-disabled =
+    .label = Tia organisaziun ha deactivà las actualisaziuns
 update-noUpdatesFound = { -brand-short-name } è actual
+settings-update-no-updates-found =
+    .label = { -brand-short-name } è actual
 aboutdialog-update-checking-failed = Betg reussì da controllar sche actualisaziuns stattan a disposiziun.
+settings-update-checking-failed =
+    .label = Betg reussì da controllar sche actualisaziuns stattan a disposiziun.
 update-otherInstanceHandlingUpdates = { -brand-short-name } vegn actualisà d'ina autra instanza
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } vegn actualisà d'ina autra instanza
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } vegn actualisà d'in
 aboutdialog-update-manual-with-link = Actualisaziuns disponiblas sin <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Actualisaziuns disponiblas sin <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Sin quest sistem na pon naginas actualisaziuns vegnir exequidas pli. <label data-l10n-name="unsupported-link">Dapli infurmaziuns</label>
+settings-update-unsupported = Sin quest sistem na pon naginas actualisaziuns vegnir exequidas pli. <a data-l10n-name="unsupported-link">Dapli infurmaziuns</a>
 update-restarting = Reaviar…
+settings-update-restarting =
+    .label = Reaviar…
 update-internal-error2 = Impussibel da tschertgar actualisaziuns causa ina errur interna. Actualisaziuns stattan a disposiziun sin <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Impussibel da tschertgar actualisaziuns causa ina errur interna. Actualisaziuns stattan a disposiziun sin <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

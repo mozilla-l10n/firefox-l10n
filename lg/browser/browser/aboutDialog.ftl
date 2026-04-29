@@ -9,19 +9,27 @@ update-checkForUpdatesButton =
     .label = Okukebera ku bituusaganya
     .accesskey = O
 update-checkingForUpdates = Okukebera ku bituusaganya…
+settings-update-checking-for-updates =
+    .label = Okukebera ku bituusaganya…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Okuwannula Ekituusaganya— <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Okuwannula Ekituusaganya— { $transfer }
 
 ##
 
 update-applying = Okuteekamu ekituusa…
+settings-update-applying =
+    .label = Okuteekamu ekituusa…
 update-failed = Okutuusa kuganye. <label data-l10n-name="failed-link">Ttikkula ekika ekippya</label>
 update-failed-main = Okutuusa kuganye. <a data-l10n-name="failed-link-main">Ttikkula ekika ekippya</a>
 update-adminDisabled = Okwetuukana kwanafuyizibwa omukulu w'ebyuma byo
 update-noUpdatesFound = { -brand-short-name }etuukanye
+settings-update-no-updates-found =
+    .label = { -brand-short-name }etuukanye
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -29,7 +37,10 @@ update-noUpdatesFound = { -brand-short-name }etuukanye
 aboutdialog-update-manual-with-link = Ebituusa weebili ku <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ebituusa weebili ku <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Tosobola kola bipya ku sisitumu eno<label data-l10n-name="unsupported-link">Manya ebisingawo</label>
+settings-update-unsupported = Tosobola kola bipya ku sisitumu eno<a data-l10n-name="unsupported-link">Manya ebisingawo</a>
 update-restarting = Katandika bupya
+settings-update-restarting =
+    .label = Katandika bupya
 
 ##
 

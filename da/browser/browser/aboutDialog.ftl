@@ -12,23 +12,37 @@ update-updateButton =
     .label = Genstart for at opdatere { -brand-shorter-name }
     .accesskey = G
 update-checkingForUpdates = Søger efter opdateringer…
+settings-update-checking-for-updates =
+    .label = Søger efter opdateringer…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Henter opdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Henter opdatering — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Henter opdatering — { $transfer }
 
 ##
 
 update-applying = Installerer opdatering…
+settings-update-applying =
+    .label = Installerer opdatering…
 update-failed = Opdatering mislykkedes. <label data-l10n-name="failed-link">Hent den seneste version</label>
 update-failed-main = Opdatering mislykkedes. <a data-l10n-name="failed-link-main">Hent den seneste version</a>
 update-adminDisabled = Opdateringer er deaktiveret af din systemadministrator
 update-policy-disabled = Opdateringer er deaktiveret af din organisation
+settings-update-policy-disabled =
+    .label = Opdateringer er deaktiveret af din organisation
 update-noUpdatesFound = Der er ingen opdateringer til { -brand-short-name } i øjeblikket
+settings-update-no-updates-found =
+    .label = Der er ingen opdateringer til { -brand-short-name } i øjeblikket
 aboutdialog-update-checking-failed = Kunne ikke søge efter opdateringer.
+settings-update-checking-failed =
+    .label = Kunne ikke søge efter opdateringer.
 update-otherInstanceHandlingUpdates = { -brand-short-name } er ved at blive opdateret af en anden instans
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } er ved at blive opdateret af en anden instans
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } er ved at blive opda
 aboutdialog-update-manual-with-link = Opdateringer tilgængelige fra <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Opdateringer tilgængelige fra <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Du kan ikke foretage yderligere opdateringer på dette system. <label data-l10n-name="unsupported-link">Læs mere</label>
+settings-update-unsupported = Du kan ikke foretage yderligere opdateringer på dette system. <a data-l10n-name="unsupported-link">Læs mere</a>
 update-restarting = Genstarter…
+settings-update-restarting =
+    .label = Genstarter…
 update-internal-error2 = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

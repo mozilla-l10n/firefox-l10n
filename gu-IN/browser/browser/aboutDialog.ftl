@@ -12,20 +12,30 @@ update-updateButton =
     .label = અપડેટ કરવા માટે પુનઃપ્રારંભ કરો { -brand-shorter-name }
     .accesskey = આર
 update-checkingForUpdates = સુધારાઓને ચકાસી રહ્યા છે…
+settings-update-checking-for-updates =
+    .label = સુધારાઓને ચકાસી રહ્યા છે…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>સુધારાને ડાઉનલોડ કરી રહ્યા છે — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = સુધારાને ડાઉનલોડ કરી રહ્યા છે — { $transfer }
 
 ##
 
 update-applying = સુધારા લાગુ કરી રહ્યા છે…
+settings-update-applying =
+    .label = સુધારા લાગુ કરી રહ્યા છે…
 update-failed = અપડેટ કરવું નિષ્ફળ થયું.<label data-l10n-name="failed-link">તાજેતરની આવૃત્તિને ડાઉનલોડ કરો</label>
 update-failed-main = અપડેટ કરવું નિષ્ફળ થયું.<a data-l10n-name="failed-link-main">તાજેતરની આવૃત્તિને ડાઉનલોડ કરો</a>
 update-adminDisabled = તમારા સિસ્ટમ સંચાલક દ્દારા સુધારો નિષ્ક્રિય
 update-noUpdatesFound = { -brand-short-name } નવીનકૃત છે
+settings-update-no-updates-found =
+    .label = { -brand-short-name } નવીનકૃત છે
 update-otherInstanceHandlingUpdates = { -brand-short-name } એ બીજા નમૂના દ્દારા સુધારી દેવામાં આવ્યુ છે
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } એ બીજા નમૂના દ્દારા સુધારી દેવામાં આવ્યુ છે
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } એ બીજા ન
 aboutdialog-update-manual-with-link = સુધારાઓ આની પર ઉપલબ્ધ છે <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = સુધારાઓ આની પર ઉપલબ્ધ છે <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = તમે આ સિસ્ટમ પર આગળનાં સુધારા ચલાવી શકતા નથી. <label data-l10n-name="unsupported-link">વધુ શીખો</label>
+settings-update-unsupported = તમે આ સિસ્ટમ પર આગળનાં સુધારા ચલાવી શકતા નથી. <a data-l10n-name="unsupported-link">વધુ શીખો</a>
 update-restarting = પુનઃશરૂ
+settings-update-restarting =
+    .label = પુનઃશરૂ
 
 ##
 

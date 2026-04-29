@@ -466,6 +466,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Startujśo { -brand-short-name } znowego, aby toś te změny nałožył
 confirm-browser-language-change-button = Nałožyś a znowego startowaś
+browser-language-install-error =
+    .message = { -brand-short-name } njamóžo waše rěcy ned aktualizěrowaś. Pśekontrolěrujśo, lěc sćo z internetom zwězany abo wopytajśo hyšći raz.
 translate-web-pages =
     .label = Webwopśimjeśe pśełožowaś
     .accesskey = W
@@ -659,7 +661,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Co ma { -brand-short-name } z drugimi datajami cyniś?
 applications-save-for-new-types =
@@ -680,6 +682,9 @@ update-application-description = Źaržćo { -brand-short-name } aktualny, za ne
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Wersija { $version } <a data-l10n-name="learn-more">Nowe funkcije a změny</a>
+update-history-2 =
+    .label = Aktualizacisku historiju pokazaś
+    .accesskey = h
 update-history =
     .label = Aktualizacisku historiju pokazaś…
     .accesskey = h
@@ -696,6 +701,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Gaž { -brand-short-name } njeběžy
     .accesskey = G
+update-application-warning-cross-user-setting-2 =
+    .message = Toś to nastajenje se na wšykne konta Windows a profile { -brand-short-name } nałožujo, kótarež toś tu instalaciju { -brand-short-name } wužywaju.
 update-application-warning-cross-user-setting = Toś to nastajenje se na wšykne konta Windows a profile { -brand-short-name } nałožujo, kótarež toś tu instalaciju { -brand-short-name } wužywaju.
 update-application-use-service =
     .label = Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś
@@ -718,6 +725,9 @@ update-in-progress-ok-button = &Zachyśiś
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dalej
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1439,7 +1449,7 @@ forms-ask-to-save-logins =
     .label = Pšašaś se, lěc se maju pśizjawjenja a gronidła składowaś
     .accesskey = a
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1540,6 +1550,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Dalšne informacije
 forms-windows-sso-desc = Konta we wašych rědowych nastajenjach zastojaś
 windows-passkey-settings-label = Gronidłowe kluce w systemowych nastajenjach zastojaś
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 

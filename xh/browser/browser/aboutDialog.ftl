@@ -12,20 +12,30 @@ update-updateButton =
     .label = Phinda uqale ukuze uqalise i-{ -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Ikhangela izihlaziyi…
+settings-update-checking-for-updates =
+    .label = Ikhangela izihlaziyi…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Ikhuphela isihlaziyi — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Ikhuphela isihlaziyi — { $transfer }
 
 ##
 
 update-applying = Ukwenza uhlaziyo…
+settings-update-applying =
+    .label = Ukwenza uhlaziyo…
 update-failed = Uhlaziyo aluphumelelanga. <label data-l10n-name="failed-link">Khuphela inguqulelo yamva</label>
 update-failed-main = Uhlaziyo aluphumelelanga. <a data-l10n-name="failed-link-main">Khuphela inguqulelo yamva</a>
 update-adminDisabled = Uhlaziyo lurhoxiswe ngumlawuli wekhompyutha yakho
 update-noUpdatesFound = I-{ -brand-short-name } igqibelele
+settings-update-no-updates-found =
+    .label = I-{ -brand-short-name } igqibelele
 update-otherInstanceHandlingUpdates = I-{ -brand-short-name } iyahlaziywa ngelinye ithuba
+settings-update-other-instance-handling-updates =
+    .label = I-{ -brand-short-name } iyahlaziywa ngelinye ithuba
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = I-{ -brand-short-name } iyahlaziywa ngelin
 aboutdialog-update-manual-with-link = Uhlaziyo lufumaneka <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Uhlaziyo lufumaneka <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Akunakukwazi ukuhlaziya ngokubhekele phaya kule nkqubo. <label data-l10n-name="unsupported-link">Funda okungakumbi</label>
+settings-update-unsupported = Akunakukwazi ukuhlaziya ngokubhekele phaya kule nkqubo. <a data-l10n-name="unsupported-link">Funda okungakumbi</a>
 update-restarting = Iyaqala kwakhona…
+settings-update-restarting =
+    .label = Iyaqala kwakhona…
 
 ##
 

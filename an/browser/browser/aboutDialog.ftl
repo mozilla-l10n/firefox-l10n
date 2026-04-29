@@ -12,23 +12,37 @@ update-updateButton =
     .label = Reiniciar pa esviellar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Comprebando as actualizacions…
+settings-update-checking-for-updates =
+    .label = Comprebando as actualizacions…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Descargando actualización — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Se ye baixando l'actualización — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Descargando actualización — { $transfer }
 
 ##
 
 update-applying = Se ye esviellando…
+settings-update-applying =
+    .label = Se ye esviellando…
 update-failed = L'actualización ha fallau. <label data-l10n-name="failed-link">Descargar a zaguera versión</label>
 update-failed-main = L'actualización ha fallau. <a data-l10n-name="failed-link-main">Descargar a zaguera versión</a>
 update-adminDisabled = Actualizacions desactivadas por o suyo administrador
 update-policy-disabled = La tuya organización ha desactivau las actualizacions
+settings-update-policy-disabled =
+    .label = La tuya organización ha desactivau las actualizacions
 update-noUpdatesFound = { -brand-short-name } ye esviellau
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ye esviellau
 aboutdialog-update-checking-failed = No s'ha puesto comprebar si i hai actualizacions.
+settings-update-checking-failed =
+    .label = No s'ha puesto comprebar si i hai actualizacions.
 update-otherInstanceHandlingUpdates = Unatra instancia ye esviellando { -brand-short-name }
+settings-update-other-instance-handling-updates =
+    .label = Unatra instancia ye esviellando { -brand-short-name }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Unatra instancia ye esviellando { -brand-s
 aboutdialog-update-manual-with-link = Actualización disponible en <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Actualización disponible en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Iste sistema ya no se puede esviellar mas. <label data-l10n-name="unsupported-link">Saber-ne mas</label>
+settings-update-unsupported = Iste sistema ya no se puede esviellar mas. <a data-l10n-name="unsupported-link">Saber-ne mas</a>
 update-restarting = Se ye reiniciando…
+settings-update-restarting =
+    .label = Se ye reiniciando…
 update-internal-error2 = No s'han puesto buscar actualizacions per una error intera. Las actualizacions disponibles son en <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = No s'han puesto buscar actualizacions per una error intera. Las actualizacions disponibles son en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

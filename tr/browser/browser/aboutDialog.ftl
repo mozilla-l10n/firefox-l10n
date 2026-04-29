@@ -12,23 +12,37 @@ update-updateButton =
     .label = { -brand-shorter-name } tarayıcısını güncellemek için yeniden başlat
     .accesskey = G
 update-checkingForUpdates = Güncellemeler denetleniyor…
+settings-update-checking-for-updates =
+    .label = Güncellemeler denetleniyor…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Güncelleme indiriliyor — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Güncelleme indiriliyor — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Güncelleme indiriliyor — { $transfer }
 
 ##
 
 update-applying = Güncelleme uygulanıyor…
+settings-update-applying =
+    .label = Güncelleme uygulanıyor…
 update-failed = Güncelleme başarısız. <label data-l10n-name="failed-link">Son sürümü indirin</label>
 update-failed-main = Güncelleme başarısız. <a data-l10n-name="failed-link-main">Son sürümü indirin</a>
 update-adminDisabled = Güncellemeler sistem yöneticiniz tarafından devre dışı bırakılmış
 update-policy-disabled = Güncellemeler kuruluşunuz tarafından devre dışı bırakılmıştır
+settings-update-policy-disabled =
+    .label = Güncellemeler kuruluşunuz tarafından devre dışı bırakılmıştır
 update-noUpdatesFound = { -brand-short-name } güncel
+settings-update-no-updates-found =
+    .label = { -brand-short-name } güncel
 aboutdialog-update-checking-failed = Güncellemeler kontrol edilemedi.
+settings-update-checking-failed =
+    .label = Güncellemeler kontrol edilemedi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } başka bir kopyası tarafından şu an güncelleniyor
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } başka bir kopyası tarafından şu an güncelleniyor
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } başka bir kopyası 
 aboutdialog-update-manual-with-link = Güncelleme adresi: <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Güncelleme adresi: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label data-l10n-name="unsupported-link">Daha fazla bilgi al</label>
+settings-update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<a data-l10n-name="unsupported-link">Daha fazla bilgi al</a>
 update-restarting = Yeniden başlatılıyor…
+settings-update-restarting =
+    .label = Yeniden başlatılıyor…
 update-internal-error2 = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <label data-l10n-name="manual-link">{ $displayUrl }</label> adresinde bulabilirsiniz.
+settings-update-internal-error = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <a data-l10n-name="manual-link">{ $displayUrl }</a> adresinde bulabilirsiniz.
 
 ##
 

@@ -12,23 +12,37 @@ update-updateButton =
     .label = Uuendamiseks taaskäivita { -brand-shorter-name }
     .accesskey = U
 update-checkingForUpdates = Uuenduste olemasolu kontrollimine…
+settings-update-checking-for-updates =
+    .label = Uuenduste olemasolu kontrollimine…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Uuenduse allalaadimine — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Uuenduse allalaadimine — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Uuenduse allalaadimine — { $transfer }
 
 ##
 
 update-applying = Uuenduse rakendamine…
+settings-update-applying =
+    .label = Uuenduse rakendamine…
 update-failed = Uuendamine ebaõnnestus. <label data-l10n-name="failed-link">Laadi alla uusim versioon</label>
 update-failed-main = Uuendamine ebaõnnestus. <a data-l10n-name="failed-link-main">Laadi alla uusim versioon</a>
 update-adminDisabled = Uuendused on süsteemiadministraatori poolt keelatud
 update-policy-disabled = Värskendused on sinu organisatsiooni poolt keelatud
+settings-update-policy-disabled =
+    .label = Värskendused on sinu organisatsiooni poolt keelatud
 update-noUpdatesFound = Kasutusel on { -brand-short-name }i uusim versioon
+settings-update-no-updates-found =
+    .label = Kasutusel on { -brand-short-name }i uusim versioon
 aboutdialog-update-checking-failed = Uuenduste kontrollimine ebaõnnestus.
+settings-update-checking-failed =
+    .label = Uuenduste kontrollimine ebaõnnestus.
 update-otherInstanceHandlingUpdates = { -brand-short-name }i uuendatakse teise protsessi poolt
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name }i uuendatakse teise protsessi poolt
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name }i uuendatakse teise p
 aboutdialog-update-manual-with-link = Uuendused on saadaval aadressil <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Uuendused on saadaval aadressil <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Edasised uuendused selle süsteemi peal pole võimalikud. <label data-l10n-name="unsupported-link">Rohkem teavet</label>
+settings-update-unsupported = Edasised uuendused selle süsteemi peal pole võimalikud. <a data-l10n-name="unsupported-link">Rohkem teavet</a>
 update-restarting = Taaskäivitamine…
+settings-update-restarting =
+    .label = Taaskäivitamine…
 update-internal-error2 = Sisemise vea tõttu pole võimalik uuendusi kontrollida. Uuendused on saadaval aadressil <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Sisemise vea tõttu pole võimalik uuendusi kontrollida. Uuendused on saadaval aadressil <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

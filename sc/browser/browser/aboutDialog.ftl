@@ -12,23 +12,37 @@ update-updateButton =
     .label = Torra a aviare pro agiornare { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Controllende is atualizatziones…
+settings-update-checking-for-updates =
+    .label = Controllende is atualizatziones…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Iscarrighende atualizatziones — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Carrighende s'atualizatzione — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Iscarrighende atualizatziones — { $transfer }
 
 ##
 
 update-applying = Aplichende s'atualizatzione…
+settings-update-applying =
+    .label = Aplichende s'atualizatzione…
 update-failed = Atualizatzione faddida. <label data-l10n-name="failed-link">Iscàrriga s'ùrtima versione</label>
 update-failed-main = Atualizatzione faddida. <a data-l10n-name="failed-link-main">Iscàrriga s'ùrtima versione</a>
 update-adminDisabled = S'amministradore de su sistema tuo at disativadu is atualizatziones
 update-policy-disabled = Atualizatziones disativadas dae s'organizatzione tua
+settings-update-policy-disabled =
+    .label = Atualizatziones disativadas dae s'organizatzione tua
 update-noUpdatesFound = { -brand-short-name } est atualizadu
+settings-update-no-updates-found =
+    .label = { -brand-short-name } est atualizadu
 aboutdialog-update-checking-failed = Faddina in su controllu de atualizatziones.
+settings-update-checking-failed =
+    .label = Faddina in su controllu de atualizatziones.
 update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -brand-short-name }
+settings-update-other-instance-handling-updates =
+    .label = Un'àtera istàntzia est agiornende { -brand-short-name }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -bra
 aboutdialog-update-manual-with-link = Atualizatziones a disponimentu in <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atualizatziones a disponimentu in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="unsupported-link">Leghe àteru</label>
+settings-update-unsupported = No podes agiornare custu sistema. <a data-l10n-name="unsupported-link">Leghe àteru</a>
 update-restarting = Torrende a aviare
+settings-update-restarting =
+    .label = Torrende a aviare
 update-internal-error2 = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 

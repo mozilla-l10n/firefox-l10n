@@ -375,6 +375,8 @@ manage-browser-languages-button =
     .accesskey = з
 confirm-browser-language-change-description = Рестартирайте { -brand-short-name }, за да бъдат приложени промените
 confirm-browser-language-change-button = Прилагане и рестартиране
+browser-language-install-error =
+    .message = { -brand-short-name } в момента не може да обнови езиците. Проверете връзката с интернет или опитайте отново.
 translate-web-pages =
     .label = Превеждане на съдържанието на страниците
     .accesskey = П
@@ -499,7 +501,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Какво да направи { -brand-short-name } с другите файлове?
 applications-save-for-new-types =
@@ -520,6 +522,9 @@ update-application-description = За най-добра производител
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Издание { $version } <a data-l10n-name="learn-more">Новото в това издание</a>
+update-history-2 =
+    .label = Хронология на обновяванията
+    .accesskey = х
 update-history =
     .label = Хронология на обновяванията…
     .accesskey = х
@@ -536,6 +541,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Когато { -brand-short-name } не е пуснат
     .accesskey = н
+update-application-warning-cross-user-setting-2 =
+    .message = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
 update-application-warning-cross-user-setting = Тази настройка ще бъде приложена към всички профили в Windows и всички профили на { -brand-short-name }, използващи тази инсталация на { -brand-short-name }.
 update-application-use-service =
     .label = Използване на услуга във фонов режим за инсталиране на обновявания
@@ -558,6 +565,12 @@ update-in-progress-ok-button = &Отхвърляне
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -626,6 +639,9 @@ browsing-cfr-recommendations-learn-more = Научете повече
 browsing-group =
     .label = Разглеждане
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Настройки на мрежата
@@ -677,6 +693,12 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -885,6 +907,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1053,7 +1080,7 @@ forms-ask-to-save-logins =
     .label = Питане при запазване имена и пароли за вход в страниците
     .accesskey = т
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1123,6 +1150,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Научете повече
 forms-windows-sso-desc = Управление на профили в настройките на устройството
 windows-passkey-settings-label = Управляване на ключ-паролите в системните настройки
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1707,6 +1737,9 @@ preferences-doh-manage-exceptions =
     .label = Управление на изключенията…
     .accesskey = и
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Плот
@@ -1758,3 +1791,12 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отказ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

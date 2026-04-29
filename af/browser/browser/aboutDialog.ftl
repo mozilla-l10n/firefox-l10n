@@ -12,20 +12,30 @@ update-updateButton =
     .label = Herbegin om { -brand-shorter-name } by te werk
     .accesskey = r
 update-checkingForUpdates = Kontroleer vir bywerkings…
+settings-update-checking-for-updates =
+    .label = Kontroleer vir bywerkings…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Laai tans bywerking af — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Laai tans bywerking af — { $transfer }
 
 ##
 
 update-applying = Pas tans bywerking toe…
+settings-update-applying =
+    .label = Pas tans bywerking toe…
 update-failed = Bywerking het misluk. <label data-l10n-name="failed-link">Laai die jongste weergawe af</label>
 update-failed-main = Bywerking het misluk. <a data-l10n-name="failed-link-main">Laai die jongste weergawe af</a>
 update-adminDisabled = Bywerking deur die stelseladministrateur gedeaktiveer
 update-noUpdatesFound = { -brand-short-name } is op datum
+settings-update-no-updates-found =
+    .label = { -brand-short-name } is op datum
 update-otherInstanceHandlingUpdates = { -brand-short-name } word tans bygewerk deur 'n ander programkopie
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } word tans bygewerk deur 'n ander programkopie
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -33,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } word tans bygewerk d
 aboutdialog-update-manual-with-link = Bywerkings beskikbaar by <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Bywerkings beskikbaar by <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = U kan nie verdere bywerkings op dié stelsel doen nie. <label data-l10n-name="unsupported-link">Meer inligting</label>
+settings-update-unsupported = U kan nie verdere bywerkings op dié stelsel doen nie. <a data-l10n-name="unsupported-link">Meer inligting</a>
 update-restarting = Herbegin tans…
+settings-update-restarting =
+    .label = Herbegin tans…
 
 ##
 
