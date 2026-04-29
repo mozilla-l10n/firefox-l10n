@@ -602,6 +602,10 @@ newtab-section-block-button = 屏蔽
 newtab-section-blocked-button = 已屏蔽
 newtab-section-unblock-button = 取消屏蔽
 # Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = 屏蔽“{ $topic }”
+# Variables:
 #   $topic (string) - Name of topic that user is unblocking
 newtab-section-unblock-topic =
     .aria-label = 取消屏蔽“{ $topic }”
@@ -727,8 +731,12 @@ newtab-widget-lists-dropdown-create =
     .label = + 创建新清单
 newtab-widget-lists-name-label-default =
     .label = 任务清单
+newtab-widget-lists-name-label-checklist =
+    .label = 核对清单
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 任务清单
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = 核对清单
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = 新清单
@@ -748,7 +756,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = 最小化小组件
     .aria-label = 将所有小组件收缩为紧凑大小
+newtab-widget-section-menu-button =
+    .title = 小组件菜单
+    .aria-label = 打开小组件菜单
+newtab-widget-section-menu-hide-all = 隐藏小组件
+newtab-widget-section-menu-learn-more = 详细了解
 newtab-widget-section-feedback = 告诉我们您的想法
+newtab-widget-lists-name-default = 核对清单
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

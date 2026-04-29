@@ -262,3 +262,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = 由于某个 { -brand-short-name } 的文件正被其他应用程序使用，书签和历史记录系统无法运行。某些安全软件可能引起这类问题。
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = 共享文件夹
