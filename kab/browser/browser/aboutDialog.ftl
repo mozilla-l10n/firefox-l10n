@@ -36,8 +36,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } tleqqem-it tummant-n
 aboutdialog-update-manual-with-link = Ileqman llan deg  <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ileqman llan deg  <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <label data-l10n-name="unsupported-link">Issin ugar </label>
+settings-update-unsupported = Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. <a data-l10n-name="unsupported-link">Issin ugar </a>
 update-restarting = Aɛiwed n usenker…
+settings-update-restarting =
+    .label = Aɛiwed n usenker…
 update-internal-error2 = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Tella-d tuccḍa tagensant i yesweḥlen asenqed n yileqman. Ad ten-tafeḍ deg <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
