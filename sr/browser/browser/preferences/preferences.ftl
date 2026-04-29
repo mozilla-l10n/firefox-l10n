@@ -712,6 +712,9 @@ update-application-description =
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Верзија { $version } <a data-l10n-name="learn-more">Шта је ново</a>
+update-history-2 =
+    .label = Прикажи историју ажурирања
+    .accesskey = П
 update-history =
     .label = Прикажи историју ажурирања…
     .accesskey = П
