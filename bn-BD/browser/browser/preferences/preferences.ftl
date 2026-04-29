@@ -271,6 +271,9 @@ play-drm-content-learn-more = আরও জানুন
 update-application-title = { -brand-short-name } হালনাগাদ
 update-application-description = সেরা পারফরম্যান্স, স্থায়ীত্ব এবং নিরাপত্তার জন্য { -brand-short-name } হালনাগাদ রাখুন।
 update-application-version = সংস্করণ { $version } <a data-l10n-name="learn-more">নতুন কি আছে</a>
+update-history-2 =
+    .label = হালনাগাদের ইতিহাস দেখাও
+    .accesskey = p
 update-history =
     .label = হালনাগাদের ইতিহাস দেখাও…
     .accesskey = p
