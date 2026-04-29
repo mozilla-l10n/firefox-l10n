@@ -12,6 +12,8 @@ update-updateButton =
     .label = Pārstartējiet, lai atjauninātu { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Meklē atjauninājumus…
+settings-update-checking-for-updates =
+    .label = Meklē atjauninājumus…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
