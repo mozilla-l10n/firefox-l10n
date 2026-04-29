@@ -12,12 +12,16 @@ update-updateButton =
     .label = Perleiskite, norėdami atnaujinti „{ -brand-shorter-name }“
     .accesskey = P
 update-checkingForUpdates = Tikrinama, ar yra naujinimų…
+settings-update-checking-for-updates =
+    .label = Tikrinama, ar yra naujinimų…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Atsiunčiamas naujinimas — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Atsisiunčiamas naujinimas – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Atsiunčiamas naujinimas — { $transfer }
 
 ##
 
