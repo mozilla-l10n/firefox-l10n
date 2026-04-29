@@ -31,6 +31,8 @@ update-policy-disabled = التحديثات مُعطَّلة بواسطة منظ
 update-noUpdatesFound = { -brand-short-name } مُحدَّث
 aboutdialog-update-checking-failed = فشل التحقق مِن التحديثات.
 update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } في سيرورة أخرى
+settings-update-other-instance-handling-updates =
+    .label = يجري تحديث { -brand-short-name } في سيرورة أخرى
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
