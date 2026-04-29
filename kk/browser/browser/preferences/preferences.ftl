@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = ЖИ басқару элементтері
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = Қолжетімділік
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } Тәжірибелері
 category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
@@ -795,6 +797,10 @@ browsing-group =
 
 ## Accessibility page
 
+preferences-accessibility-header =
+    .heading = Қолжетімділік
+preferences-default-zoom-select =
+    .aria-label = Бастапқы масштаб
 preferences-fonts-family =
     .label = Қаріптер тобы
     .accesskey = т

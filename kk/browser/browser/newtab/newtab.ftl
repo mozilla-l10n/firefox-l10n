@@ -503,6 +503,9 @@ newtab-weather-menu-change-location = Орналасуды ауыстыру
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Орналасуды іздеу
     .aria-label = Орналасуды іздеу
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Ағымдағы орналасуды пайдалану
 newtab-weather-menu-weather-display = Ауа райын көрсету
 newtab-weather-todays-forecast = Бүгінгі ауа райы болжамы
 newtab-weather-see-full-forecast = Толық ауа райы болжамын қарау
@@ -637,6 +640,8 @@ newtab-new-user-custom-wallpaper-cta = Қазір қолданып көру
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = Жаңа тұсқағаздар жақында шықты
+newtab-wallpaper-feature-highlight-subtitle = Өзіңізге ұнайтынын таңдаңыз және әрбір жаңа бетті үйдегідей сезініңіз.
 newtab-wallpaper-feature-highlight-cta = Тұсқағазды таңдау
 
 ## Strings for download mobile highlight
@@ -747,6 +752,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Виджеттерді ықшамдау
     .aria-label = Барлық виджеттерді ықшам өлшеміне дейін жинау
+newtab-widget-section-menu-button =
+    .title = Виджеттер мәзірі
+    .aria-label = Виджеттер мәзірін ашу
+newtab-widget-section-menu-hide-all = Виджеттерді жасыру
+newtab-widget-section-menu-learn-more = Көбірек білу
 newtab-widget-section-feedback = Өз ойыңызбен бөлісіңіз
 
 ## Strings for timer productivity widget

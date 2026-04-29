@@ -266,3 +266,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Бетбелгілер мен тарих қазір қолжетімсіз, өйткені { -brand-short-name } кейбір файлдарын басқа бағдарлама қолданып тұр. Кейбір қауіпсіздік бағдарламалар осындай мәселені туғызуы мүмкін.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Буманы бөлісу
