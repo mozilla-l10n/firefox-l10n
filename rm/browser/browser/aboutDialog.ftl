@@ -12,12 +12,16 @@ update-updateButton =
     .label = Reaviar per actualisar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Tschertgar actualisaziuns disponiblas…
+settings-update-checking-for-updates =
+    .label = Tschertgar actualisaziuns disponiblas…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>L'actualisaziun vegn telechargiada — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Telechargiar in'actualisaziun – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = L'actualisaziun vegn telechargiada — { $transfer }
 
 ##
 
