@@ -47,6 +47,7 @@ update-restarting = पुनःसुरु गरिँदै…
 settings-update-restarting =
     .label = पुनःसुरु गरिँदै…
 update-internal-error2 = आन्तरिक त्रुटिको कारण अद्यावधिकहरू जाँच गर्न मिलेन । अपडेटहरू <label data-l10n-name="manual-link">{ $displayUrl }</label> मा उपलब्ध छन्
+settings-update-internal-error = आन्तरिक त्रुटिको कारण अद्यावधिकहरू जाँच गर्न मिलेन । अपडेटहरू <a data-l10n-name="manual-link">{ $displayUrl }</a> मा उपलब्ध छन्
 
 ##
 
