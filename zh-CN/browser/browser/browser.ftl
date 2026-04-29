@@ -987,6 +987,7 @@ urlbar-searchmode-popup-one-off-header = 本次搜索使用：
 # reset after submitting.
 urlbar-searchmode-popup-header = 搜索引擎：
 urlbar-searchmode-popup-search-settings-panelitem = 搜索设置
+urlbar-searchmode-popup-settings-panelitem = 设置
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1002,6 +1003,12 @@ urlbar-result-action-switch-to-tabgroup = 切换到“{ $group }”
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = 打开“{ $group }”
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-container-tab =
+    .label = 新建身份标签页打开
+    .accesskey = i
 
 ## Labels shown above groups of urlbar results
 
