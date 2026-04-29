@@ -676,6 +676,9 @@ update-application-description = Hâld { -brand-short-name } by de tiid foar de 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Ferzje { $version } <a data-l10n-name="learn-more">Wat is der nij</a>
+update-history-2 =
+    .label = Fernijingsskiednis toane
+    .accesskey = s
 update-history =
     .label = Fernijingsskiednis toane…
     .accesskey = s
@@ -692,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = As { -brand-short-name } net útfierd wurdt
     .accesskey = A
+update-application-warning-cross-user-setting-2 =
+    .message = Dizze ynstelling is fan tapassing op alle Windows-accounts en { -brand-short-name }-profilen dy’t dizze ynstallaasje fan { -brand-short-name } brûke.
 update-application-warning-cross-user-setting = Dizze ynstelling is fan tapassing op alle Windows-accounts en { -brand-short-name }-profilen dy’t dizze ynstallaasje fan { -brand-short-name } brûke.
 update-application-use-service =
     .label = Brûk in eftergrûntsjinst om fernijingen te ynstallearjen
