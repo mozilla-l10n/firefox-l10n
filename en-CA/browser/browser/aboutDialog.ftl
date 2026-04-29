@@ -34,7 +34,11 @@ update-adminDisabled = Updates disabled by your system administrator
 update-policy-disabled = Updates disabled by your organization
 update-noUpdatesFound = { -brand-short-name } is up to date
 aboutdialog-update-checking-failed = Failed to check for updates.
+settings-update-checking-failed =
+    .label = Failed to check for updates.
 update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by another instance
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } is being updated by another instance
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -42,8 +46,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } is being updated by 
 aboutdialog-update-manual-with-link = Updates available at <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Updates available at <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = You can not perform further updates on this system. <label data-l10n-name="unsupported-link">Learn more</label>
+settings-update-unsupported = You can not perform further updates on this system. <a data-l10n-name="unsupported-link">Learn more</a>
 update-restarting = Restarting…
+settings-update-restarting =
+    .label = Restarting…
 update-internal-error2 = Unable to check for updates due to internal error. Updates available at <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Unable to check for updates due to internal error. Updates available at <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
