@@ -462,6 +462,9 @@ update-application-description = Vienmēr atjauniniet { -brand-short-name }, lai
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versija { $version } <a data-l10n-name="learn-more">Kas jauns</a>
+update-history-2 =
+    .label = Parādīt atjauninājumu vēsturi
+    .accesskey = v
 update-history =
     .label = Parādīt atjauninājumu vēsturi…
     .accesskey = v
