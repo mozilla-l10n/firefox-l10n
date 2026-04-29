@@ -679,6 +679,9 @@ update-application-description = Трымайце { -brand-short-name } абно
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Версія { $version } <a data-l10n-name="learn-more">Што новага</a>
+update-history-2 =
+    .label = Паказаць гісторыю абнаўленняў
+    .accesskey = с
 update-history =
     .label = Паказаць гісторыю абнаўленняў...
     .accesskey = с
