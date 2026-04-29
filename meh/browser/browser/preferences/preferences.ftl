@@ -290,6 +290,9 @@ update-application-description = Kino { -brand-short-name } actualizado saa kuvi
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
+update-history-2 =
+    .label = Tuvi kuaiyo historial actualizaciones
+    .accesskey = p
 update-history =
     .label = Tuvi kuaiyo historial actualizaciones...
     .accesskey = p
@@ -300,6 +303,8 @@ update-application-check-choose =
 update-application-manual =
     .label = Nnánukunu actualizaciones (no recomendado)
     .accesskey = N
+update-application-warning-cross-user-setting-2 =
+    .message = A nke'i ya'a koo nuu ntaka da cuentas Windows ji perfiles { -brand-short-name } ni'i a nchu'un { -brand-short-name }.
 update-application-warning-cross-user-setting = A nke'i ya'a koo nuu ntaka da cuentas Windows ji perfiles { -brand-short-name } ni'i a nchu'un { -brand-short-name }.
 update-application-use-service =
     .label = Ni'i servicio ji a uvi plano sa chu'un da actualizaciones
