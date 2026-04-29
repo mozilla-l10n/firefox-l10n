@@ -12,21 +12,31 @@ update-updateButton =
     .label = Рестарт за обновяване на { -brand-shorter-name }
     .accesskey = Р
 update-checkingForUpdates = Проверка за обновяване…
+settings-update-checking-for-updates =
+    .label = Проверка за обновяване…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Изтегляне на обновяването – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Изтегляне на обновяване – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Изтегляне на обновяването – { $transfer }
 
 ##
 
 update-applying = Прилагане на обновяването…
+settings-update-applying =
+    .label = Прилагане на обновяването…
 update-failed = Обновяването е неуспешно. <label data-l10n-name="failed-link">Изтегляне на последното издание</label>
 update-failed-main = Обновяването е неуспешно. <a data-l10n-name="failed-link-main">Изтегляне на последното издание</a>
 update-adminDisabled = Обновяванията са изключени от вашия системен администратор
 update-policy-disabled = Вашата организация е забранила промяната
+settings-update-policy-disabled =
+    .label = Вашата организация е забранила промяната
 update-noUpdatesFound = Изданието е последното на { -brand-short-name }
+settings-update-no-updates-found =
+    .label = Изданието е последното на { -brand-short-name }
 aboutdialog-update-checking-failed = Невъзможна проверка за обновявания.
 update-otherInstanceHandlingUpdates = Друг екземпляр на { -brand-short-name } е започнал обновяване
 
