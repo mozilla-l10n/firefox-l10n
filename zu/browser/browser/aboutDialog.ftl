@@ -16,10 +16,14 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Kusetshenziswa ukuvuselelwa...
+settings-update-applying =
+    .label = Kusetshenziswa ukuvuselelwa...
 update-failed = Ukuvuselelwa kuhlulekile. <label data-l10n-name="failed-link">Layisha ubuyekezo lwakamuva</label>
 update-failed-main = Ukuvuselelwa kuhlulekile. <a data-l10n-name="failed-link-main">Layisha ubuyekezo lwakamuva</a>
 update-adminDisabled = Ukuvuselelwa kukhutshazelwe umphathi wohlelo lwakho
 update-noUpdatesFound = { -brand-short-name } isesikhathini
+settings-update-no-updates-found =
+    .label = { -brand-short-name } isesikhathini
 update-otherInstanceHandlingUpdates = I-{ -brand-short-name } ifakwe ukwaziswa kwamuva ngenye indlela
 
 ## Variables:
