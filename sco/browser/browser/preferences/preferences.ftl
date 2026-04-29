@@ -227,6 +227,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = Restert { -brand-short-name } tae apply these chynges
 confirm-browser-language-change-button = Apply and Restert
+browser-language-install-error =
+    .message = { -brand-short-name } cannae update yer leids the noo. Mak siccar ye're connectit tae the internet or gie it anither shottie.
 translate-web-pages =
     .label = Owerset wab content
     .accesskey = t
@@ -348,7 +350,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = Digital Richts Management (DRM) Content
@@ -397,6 +399,12 @@ update-in-progress-ok-button = &Discaird
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Haud Forrit
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -456,6 +464,9 @@ browsing-cfr-recommendations-learn-more = Lairn mair
 browsing-group =
     .label = Stravaigin
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Netwark settins
@@ -505,6 +516,12 @@ use-current-pages =
 choose-bookmark =
     .label = Yaise Buikmerk...
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -683,6 +700,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } isnae trystmakkit
 sync-signedin-login-failure = Gonnae sign in tae reconnect { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -826,7 +848,7 @@ forms-ask-to-save-logins =
     .label = Speir fur tae save logins and passwirds for wabsites
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Exceptions…
@@ -869,6 +891,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lairn mair
 forms-windows-sso-desc = Manage accoonts in yer device settins
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -879,6 +904,9 @@ primary-password-os-auth-dialog-message-win = Tae mak a Primary Passwird, inpit 
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = mak a Primary Passwird
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -973,6 +1001,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies and Site Data
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1164,6 +1198,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = View { -brand-short-name } studies
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1213,8 +1250,26 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Dinnae yaise HTTPS-Anely Mode
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktap
 downloads-folder-name = Doonloads
 choose-download-folder-title = Wale Doonload Folder:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
