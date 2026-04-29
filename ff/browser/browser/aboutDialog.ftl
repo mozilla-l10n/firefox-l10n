@@ -17,10 +17,14 @@ update-checkingForUpdates = Nana yiyloo ɓeyditte…
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Gaawtagol kesɗitinal — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Gaawtagol kesɗitinal — { $transfer }
 
 ##
 
 update-applying = Nana jammina kesɗitinal…
+settings-update-applying =
+    .label = Nana jammina kesɗitinal…
 update-failed = Kesɗitingol jaccii. <label data-l10n-name="failed-link">Aawto yamre sakkitiinde ndee</label>
 update-failed-main = Kesɗitingol jaccii. <a data-l10n-name="failed-link-main">Aawto yamre sakkitiinde ndee</a>
 update-adminDisabled = Kesɗitine ɗe, jiiloowo yuɓɓo maa, ko o daaƴɗo ɗe
