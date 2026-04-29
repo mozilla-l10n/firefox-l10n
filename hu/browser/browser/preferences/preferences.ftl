@@ -676,6 +676,9 @@ update-application-description = Tartsa naprakészen a { -brand-short-name }ot a
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verzió: { $version } <a data-l10n-name="learn-more">Újdonságok</a>
+update-history-2 =
+    .label = Frissítési előzmények megjelenítése
+    .accesskey = z
 update-history =
     .label = Frissítési előzmények megjelenítése…
     .accesskey = z
