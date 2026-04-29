@@ -9,20 +9,30 @@ update-checkForUpdatesButton =
     .label = Dee kuan koo kub
     .accesskey = D
 update-checkingForUpdates = Dee kuan koo kub…
+settings-update-checking-for-updates =
+    .label = Dee kuan koo kub…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>De lal ko kub — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = De lal ko kub — { $transfer }
 
 ##
 
 update-applying = Dee toob koo kub…
+settings-update-applying =
+    .label = Dee toob koo kub…
 update-failed = Naa blii noo gaan toob no ree koo kub. <label data-l10n-name="failed-link">Blaa koo kub</label>
 update-failed-main = Naa blii noo gaan toob no ree koo kub. <a data-l10n-name="failed-link-main">Blaa koo kub</a>
 update-adminDisabled = Ree koo kub gaad toob
 update-noUpdatesFound = { -brand-short-name } gooc laa
+settings-update-no-updates-found =
+    .label = { -brand-short-name } gooc laa
 update-otherInstanceHandlingUpdates = { -brand-short-name } the thus kue noo kue
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } the thus kue noo kue
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -30,7 +40,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } the thus kue noo kue
 aboutdialog-update-manual-with-link = Taak laay koo kub lent lo <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Taak laay koo kub lent lo <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Naa gadt liiy kuub kue.<label data-l10n-name="unsupported-link">Lab Kue</label>
+settings-update-unsupported = Naa gadt liiy kuub kue.<a data-l10n-name="unsupported-link">Lab Kue</a>
 update-restarting = Bí~rè là kíy...
+settings-update-restarting =
+    .label = Bí~rè là kíy...
 
 ##
 
