@@ -8,6 +8,8 @@ update-checkForUpdatesButton =
     .label = Li nûkirinan bigere
     .accesskey = L
 update-checkingForUpdates = Nûkirinan tên kontrolkirin…
+settings-update-checking-for-updates =
+    .label = Nûkirinan tên kontrolkirin…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
