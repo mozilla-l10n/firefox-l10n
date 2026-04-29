@@ -47,7 +47,10 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = <label data-l10n-name="manual-link">{ $displayUrl }</label>आव आपडेटफोर दं
 settings-update-manual-with-link = <a data-l10n-name="manual-link">{ $displayUrl }</a> आव आपडेटफोर दं
 update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
+settings-update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<a data-l10n-name="unsupported-link">गोबां सोलों</a>
 update-restarting = फिन जागाय गासिनो दङ...
+settings-update-restarting =
+    .label = फिन जागाय गासिनो दङ...
 update-internal-error2 = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <label data-l10n-name="manual-link">{ $displayUrl }</label> अव आफदेटआ दं |
 settings-update-internal-error = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <a data-l10n-name="manual-link">{ $displayUrl }</a> अव आफदेटआ दं |
 
