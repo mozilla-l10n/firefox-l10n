@@ -466,6 +466,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Startujće { -brand-short-name } znowa, zo byšće tute změny nałožił
 confirm-browser-language-change-button = Nałožić a znowa startować
+browser-language-install-error =
+    .message = { -brand-short-name } njemóže waše rěče hnydom aktualizować. Přepruwujće, hač sće z internetom zwjazany abo spytajće hišće raz.
 translate-web-pages =
     .label = Webwobsah přełožować
     .accesskey = W
@@ -659,7 +661,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Što ma { -brand-short-name } z druhimi datajemi činić?
 applications-save-for-new-types =
@@ -718,6 +720,9 @@ update-in-progress-ok-button = &Zaćisnyć
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1439,7 +1444,7 @@ forms-ask-to-save-logins =
     .label = Prašeć so, hač so maja přizjewjenja a hesła składować
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1540,6 +1545,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Dalše informacije
 forms-windows-sso-desc = Konta we wašich gratowych nastajenjach rjadować
 windows-passkey-settings-label = Hesłowe kluče w systemowych nastajenjach rjadować
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
