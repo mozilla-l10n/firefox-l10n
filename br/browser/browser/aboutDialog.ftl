@@ -12,6 +12,8 @@ update-updateButton =
     .label = Adloc’hit evit hizivaat { -brand-shorter-name }
     .accesskey = A
 update-checkingForUpdates = O klask hizivadennoù…
+settings-update-checking-for-updates =
+    .label = O klask hizivadennoù…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
