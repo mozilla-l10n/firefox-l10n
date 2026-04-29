@@ -5,6 +5,8 @@
 aboutDialog-title =
     .title = Ka ga { -brand-full-name }
 update-checkingForUpdates = Go lekola dimpshafatšo…
+settings-update-checking-for-updates =
+    .label = Go lekola dimpshafatšo…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
