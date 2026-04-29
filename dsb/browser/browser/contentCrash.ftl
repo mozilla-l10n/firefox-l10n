@@ -54,3 +54,12 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Wěcej se njepokazaś
     .accesskey = W
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Maśo { $reportCount } nowu njewótpósłanu rozpšawu wowalenja
+        [two] Maśo { $reportCount } nowej njewótpósłanej rozpšawje wowalenja
+        [few] Maśo { $reportCount } nowe njewótpósłane rozpšawy wowalenja
+       *[other] Maśo { $reportCount } nowych njewótpósłanych rozpšawow wowalenja
+    }

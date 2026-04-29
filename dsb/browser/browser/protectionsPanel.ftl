@@ -84,6 +84,11 @@ smartblock-placeholder-title = Pśeslědowaki { $trackername } a wopśimjeśe bl
 smartblock-placeholder-desc = Waše nastajenja { -brand-short-name } su toś tomu wopśimjeśeju zawoborali,  wam pśez sedła slědowaś abo za wabjenje wužywaś.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = { $websitehost } dowóliś
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Wopśimjeśe z blokěrowanego zasajźenja
 
 ##
 

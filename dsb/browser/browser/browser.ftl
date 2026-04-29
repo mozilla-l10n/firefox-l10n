@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspektor, wuwijaŕske rědy
 # Opens about:logins
 quickactions-logins2 = Gronidła zastojaś
 quickactions-cmd-logins = pśizjawjenja, gronidła
+# Mutes all tabs playing audio
+quickactions-mute = Rejtariki znimiś, kótarež awdio wótgrawaju
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = pst, š, pšt
 # Opens about:addons page in the plugins section
 quickactions-plugins = Tykace zastojaś
 quickactions-cmd-plugins = tykace
@@ -1801,3 +1807,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Wuglěda sedło wobškóźone?</strong> Zacytajśo bok znowego, aby swój šćit pśeśiwo pśeslědowanjeju nachylu reducěrował.
 reduced-protection-infobar-reload-button = Znowego zacytaś
     .accesskey = Z
+reduced-protection-infobar-never-show-button = Wěcej se njepokazaś
+    .accesskey = c

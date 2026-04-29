@@ -1743,3 +1743,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>A webhely még mindig hibásnak tűnik?</strong> Töltse újra az oldalt a követés elleni védelem ideiglenes csökkentésével.
 reduced-protection-infobar-reload-button = Újratöltés
     .accesskey = r
+reduced-protection-infobar-never-show-button = Ne jelenjen meg újra
+    .accesskey = N

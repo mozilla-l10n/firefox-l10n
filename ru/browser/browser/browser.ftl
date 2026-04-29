@@ -421,6 +421,12 @@ quickactions-cmd-inspector = инспектор, инструменты разр
 # Opens about:logins
 quickactions-logins2 = Управление паролями
 quickactions-cmd-logins = логины, пароли
+# Mutes all tabs playing audio
+quickactions-mute = Убрать звук во вкладках, воспроизводящих звук
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = тише, тихо, шшшш
 # Opens about:addons page in the plugins section
 quickactions-plugins = Управление плагинами
 quickactions-cmd-plugins = плагины
@@ -1772,3 +1778,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Сайт выглядит сломанным?</strong> Перезагрузите страницу, чтобы временно ослабить защиту от отслеживания.
 reduced-protection-infobar-reload-button = Обновить
     .accesskey = К
+reduced-protection-infobar-never-show-button = Больше не показывать
+    .accesskey = В
