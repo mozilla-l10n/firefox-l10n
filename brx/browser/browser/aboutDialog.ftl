@@ -26,10 +26,14 @@ settings-update-downloading-2 =
 ##
 
 update-applying = आपडेटखौ बाहायगासिनो दं...
+settings-update-applying =
+    .label = आपडेटखौ बाहायगासिनो दं...
 update-failed = आपडेट खालामनाया फेलें जाबाय।<label data-l10n-name="failed-link">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</label>
 update-failed-main = आपडेट खालामनाया फेलें जाबाय।<a data-l10n-name="failed-link-main">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</a>
 update-adminDisabled = आपडेटफोरखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय
 update-noUpdatesFound = { -brand-short-name } आ गोदान
+settings-update-no-updates-found =
+    .label = { -brand-short-name } आ गोदान
 aboutdialog-update-checking-failed = आफदेट चेक खालामनाया फेलें जाबाय |
 settings-update-checking-failed =
     .label = आफदेट चेक खालामनाया फेलें जाबाय |
