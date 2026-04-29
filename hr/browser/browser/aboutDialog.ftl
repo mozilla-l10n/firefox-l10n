@@ -12,12 +12,16 @@ update-updateButton =
     .label = Ponovo pokreni za aktualiziranje { -brand-shorter-name(case: "gen") }
     .accesskey = P
 update-checkingForUpdates = Traženje novih verzija …
+settings-update-checking-for-updates =
+    .label = Traženje novih verzija …
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Preuzimanje nove verzije – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Preuzimanje nove verzije –  <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Preuzimanje nove verzije – { $transfer }
 
 ##
 
@@ -28,8 +32,14 @@ update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link"
 update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
 update-adminDisabled = Tvoj administrator sustava je deaktivirao aktualiziranja
 update-policy-disabled = Tvoja organizacija je deaktivirala mogućnost aktuliziranja
+settings-update-policy-disabled =
+    .label = Tvoja organizacija je deaktivirala mogućnost aktuliziranja
 update-noUpdatesFound = Koristiš najnoviji { -brand-short-name }
+settings-update-no-updates-found =
+    .label = Koristiš najnoviji { -brand-short-name }
 aboutdialog-update-checking-failed = Neuspjelo traženje novih verzija.
+settings-update-checking-failed =
+    .label = Neuspjelo traženje novih verzija.
 update-otherInstanceHandlingUpdates = Jedna druga instanca aktualizira { -brand-short-name }
 
 ## Variables:
@@ -38,8 +48,12 @@ update-otherInstanceHandlingUpdates = Jedna druga instanca aktualizira { -brand-
 aboutdialog-update-manual-with-link = Nove verzije su dostupne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Nove verzije su dostupne na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Na ovom sustavu više ne možeš aktualizirati verziju. <label data-l10n-name="unsupported-link">Saznaj više</label>
+settings-update-unsupported = Na ovom sustavu više ne možeš aktualizirati verziju. <a data-l10n-name="unsupported-link">Saznaj više</a>
 update-restarting = Ponovno pokretanje…
+settings-update-restarting =
+    .label = Ponovno pokretanje…
 update-internal-error2 = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Neuspjelo traženje novih verzija zbog interne greške. Nove verzije su dostupne na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
