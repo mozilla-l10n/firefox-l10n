@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } अद्यावधिक गर्न पुनःसुरु गर्नुहोस्
     .accesskey = R
 update-checkingForUpdates = अद्यावधिकहरुकका लागि जाँच गरिँदै छ…
+settings-update-checking-for-updates =
+    .label = अद्यावधिकहरुकका लागि जाँच गरिँदै छ…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -24,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = अद्यावधिक लागू गरिँदै…
+settings-update-applying =
+    .label = अद्यावधिक लागू गरिँदै…
 update-failed = अद्यावधिक असफल भयो। <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड गर्नुहोस्</label>
 update-failed-main = अद्यावधिक असफल भयो। <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड गर्नुहोस्</a>
 update-adminDisabled = तपाईँको प्रणाली प्रशासकद्वारा अद्यावधिकहरू असक्षम पारिएको छ
