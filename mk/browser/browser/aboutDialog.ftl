@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Надградбата се применува...
+settings-update-applying =
+    .label = Надградбата се применува...
 update-failed = Надградбата не успеа. <label data-l10n-name="failed-link">Преземете ја најновата верзија</label>
 update-failed-main = Надградбата не успеа. <a data-l10n-name="failed-link-main">Преземете ја најновата верзија</a>
 update-adminDisabled = Вашиот системски администратор ги има оневозможено надградбите
