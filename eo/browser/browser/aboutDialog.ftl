@@ -26,13 +26,23 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Aplikado de ĝisdatigo…
+settings-update-applying =
+    .label = Aplikado de ĝisdatigo…
 update-failed = Malsukcesa ĝisdatigo. <label data-l10n-name="failed-link">Elŝuti la lastan version</label>
 update-failed-main = Malsukcesa ĝisdatigo. <a data-l10n-name="failed-link-main">Elŝuti la lastan version</a>
 update-adminDisabled = Via sistema administranto malaktivigis la ĝisdatigojn
 update-policy-disabled = Ĝisdatigoj malaktivigitaj de via organizo
+settings-update-policy-disabled =
+    .label = Ĝisdatigoj malaktivigitaj de via organizo
 update-noUpdatesFound = { -brand-short-name } estas aktuala
+settings-update-no-updates-found =
+    .label = { -brand-short-name } estas aktuala
 aboutdialog-update-checking-failed = Malsukcesa kontrolo pri ekzisto de ĝisdatigoj.
+settings-update-checking-failed =
+    .label = Malsukcesa kontrolo pri ekzisto de ĝisdatigoj.
 update-otherInstanceHandlingUpdates = { -brand-short-name } estas ĝisdatigata de alia instanco
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } estas ĝisdatigata de alia instanco
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -40,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } estas ĝisdatigata d
 aboutdialog-update-manual-with-link = Ĝisdatigoj haveblas ĉe <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ĝisdatigoj haveblas ĉe <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Vi ne plu povas ĝisdatigi en tiu ĉi sistemo. <label data-l10n-name="unsupported-link">Pli da informo</label>
+settings-update-unsupported = Vi ne plu povas ĝisdatigi en tiu ĉi sistemo. <a data-l10n-name="unsupported-link">Pli da informo</a>
 update-restarting = Restarto…
+settings-update-restarting =
+    .label = Restarto…
 update-internal-error2 = Pro interna eraro ne eblas kontroli ĉu estas ĝisdatigoj. Ĝisdatigoj haveblas ĉe <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Pro interna eraro ne eblas kontroli ĉu estas ĝisdatigoj. Ĝisdatigoj haveblas ĉe <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
