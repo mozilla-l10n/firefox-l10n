@@ -458,6 +458,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = ਇਹ ਸੈਟਿੰਗਾਂ ਲਾਗੂ ਕਰਨ ਲਈ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 confirm-browser-language-change-button = ਲਾਗੂ ਕਰਕੇ ਮੁੜ ਚਾਲੂ ਕਰੋ
+browser-language-install-error =
+    .message = { -brand-short-name } ਹਾਲੇ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translate-web-pages =
     .label = ਵੈੱਬ ਸਮੱਗਰੀ ਦਾ ਉਲੱਥਾ ਕਰੋ
     .accesskey = T
@@ -651,7 +653,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } ਨੂੰ ਹੋਰ ਫਾਈਲਾਂ ਨਾਲ ਕੀ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
 applications-save-for-new-types =
@@ -710,6 +712,9 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -792,6 +797,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-group =
     .label = ਬਰਾਊਜ਼ਿੰਗ
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1405,7 +1413,7 @@ forms-ask-to-save-logins =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1506,6 +1514,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ਹੋਰ ਸਿੱਖੋ
 forms-windows-sso-desc = ਆਪਣੀਆਂ ਡਿਵਾਈਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਖਾਤਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 windows-passkey-settings-label = ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਪਾਸ-ਕੀ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2382,6 +2393,9 @@ preferences-doh-custom-provider-label =
     .aria-label = ਇੱਕ ਚੁਣਿੰਦਾ ਪੂਰਕ URL ਦਿਓ
 preferences-doh-header2 =
     .heading = HTTPS ਉੱਤੇ DNS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
