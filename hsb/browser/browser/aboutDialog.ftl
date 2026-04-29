@@ -18,6 +18,8 @@ update-checkingForUpdates = Aktualizacije so pytaja…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Aktualizacija so sćahuje — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Aktualizacija so sćahuje – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Aktualizacija so sćahuje — { $transfer }
 
 ##
 
