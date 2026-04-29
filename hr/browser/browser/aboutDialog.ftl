@@ -41,6 +41,8 @@ aboutdialog-update-checking-failed = Neuspjelo traženje novih verzija.
 settings-update-checking-failed =
     .label = Neuspjelo traženje novih verzija.
 update-otherInstanceHandlingUpdates = Jedna druga instanca aktualizira { -brand-short-name }
+settings-update-other-instance-handling-updates =
+    .label = Jedna druga instanca aktualizira { -brand-short-name }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
