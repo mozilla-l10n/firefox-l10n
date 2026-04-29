@@ -22,6 +22,8 @@ aboutdialog-update-downloading = Preuzimanje nove verzije –  <label data-l10n-
 ##
 
 update-applying = Primjena dopune…
+settings-update-applying =
+    .label = Primjena dopune…
 update-failed = Aktualiziranje nije uspjelo. <label data-l10n-name="failed-link">Preuzmi najnoviju verziju</label>
 update-failed-main = Aktualiziranje nije uspjelo. <a data-l10n-name="failed-link-main">Preuzmi najnoviju verziju</a>
 update-adminDisabled = Tvoj administrator sustava je deaktivirao aktualiziranja
