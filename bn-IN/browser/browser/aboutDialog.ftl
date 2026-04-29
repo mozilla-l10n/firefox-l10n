@@ -34,6 +34,8 @@ update-noUpdatesFound = { -brand-short-name } আপডেট করা অব�
 settings-update-no-updates-found =
     .label = { -brand-short-name } আপডেট করা অবস্থায় রয়েছে
 update-otherInstanceHandlingUpdates = { -brand-short-name } আরেকটি প্রতিলিপিতে আপডেট হচ্ছে
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } আরেকটি প্রতিলিপিতে আপডেট হচ্ছে
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -41,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } আরেকটি �
 aboutdialog-update-manual-with-link = আপডেট উপলব্ধ রয়েছে এইখানে <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = আপডেট উপলব্ধ রয়েছে এইখানে <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = আপনি এই সিস্টেমে আর আপডেট করতে পারবেন না।<label data-l10n-name="unsupported-link">আরও জানুন</label>
+settings-update-unsupported = আপনি এই সিস্টেমে আর আপডেট করতে পারবেন না।<a data-l10n-name="unsupported-link">আরও জানুন</a>
 update-restarting = পুনরারম্ভ…
+settings-update-restarting =
+    .label = পুনরারম্ভ…
 
 ##
 
