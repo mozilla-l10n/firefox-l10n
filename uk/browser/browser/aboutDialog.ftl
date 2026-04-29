@@ -20,15 +20,23 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>Оновлення завантажується – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Оновлення завантажується – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Оновлення завантажується – { $transfer }
 
 ##
 
 update-applying = Оновлення застосовується…
+settings-update-applying =
+    .label = Оновлення застосовується…
 update-failed = Не вдалося оновити. <label data-l10n-name="failed-link">Завантажити останню версію</label>
 update-failed-main = Не вдалося оновити. <a data-l10n-name="failed-link-main">Завантажити останню версію</a>
 update-adminDisabled = Оновлення вимкнені системним адміністратором
 update-policy-disabled = Оновлення вимкнено вашою організацією
+settings-update-policy-disabled =
+    .label = Оновлення вимкнено вашою організацією
 update-noUpdatesFound = { -brand-short-name } не потребує оновлення
+settings-update-no-updates-found =
+    .label = { -brand-short-name } не потребує оновлення
 aboutdialog-update-checking-failed = Не вдалося перевірити наявність оновлень.
 settings-update-checking-failed =
     .label = Не вдалося перевірити наявність оновлень.
@@ -47,6 +55,7 @@ update-restarting = Перезапуск…
 settings-update-restarting =
     .label = Перезапуск…
 update-internal-error2 = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Не вдалося перевірити наявність оновлень через внутрішню помилку. Оновлення доступні за посиланням <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
