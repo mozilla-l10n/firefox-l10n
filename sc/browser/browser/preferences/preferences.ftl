@@ -432,6 +432,8 @@ manage-browser-languages-button =
     .accesskey = u
 confirm-browser-language-change-description = Torra a aviare { -brand-short-name } pro aplicare custas modìficas
 confirm-browser-language-change-button = Àplica e torra a aviare
+browser-language-install-error =
+    .message = { -brand-short-name } non podet agiornare is limbas tuas, in custu momentu. Assegura·ti de èssere connessu a internet o torra a proare.
 translate-web-pages =
     .label = Borta su cuntenutu web
     .accesskey = B
@@ -625,7 +627,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Ite depet fàghere { -brand-short-name } cun is àteros archìvios?
 applications-save-for-new-types =
@@ -684,6 +686,12 @@ update-in-progress-ok-button = &Iscarta
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Sighi
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -757,6 +765,9 @@ browsing-cfr-recommendations-learn-more = Àteras informatziones
 browsing-group =
     .label = Navigatzione
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Cunfiguratzione de rete
@@ -815,6 +826,9 @@ use-current-pages =
 choose-bookmark =
     .label = Imprea unu sinnalibru…
     .accesskey = s
+
+## Home Section - Home Page Customization
+
 
 ## Custom Homepage subpage
 
@@ -1288,7 +1302,7 @@ forms-ask-to-save-logins =
     .label = Pregunta si bògio sarvare is credentziales e is craes de is sitos web
     .accesskey = D
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1380,6 +1394,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Àteras informatziones
 forms-windows-sso-desc = Gesti is contos in sa cunfiguratzione de su dispositivu tuo
 windows-passkey-settings-label = Gesti is craes de atzessu in is cunfiguratziones de su sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2040,6 +2057,9 @@ preferences-doh-manage-exceptions2 =
     .label = Gesti is etzetziones
     .accesskey = z
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Iscrivania
@@ -2075,3 +2095,9 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-update-needed-label = Nch’at una versione noa de { -brand-short-name } a disponimentu.
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
