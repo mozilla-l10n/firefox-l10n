@@ -34,6 +34,8 @@ update-noUpdatesFound = { -brand-short-name } aktualdır
 settings-update-no-updates-found =
     .label = { -brand-short-name } aktualdır
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən yenilənir
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } başqa nümunədən yenilənir
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -41,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən 
 aboutdialog-update-manual-with-link = Yeniləmələr buradadır: <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Yeniləmələr buradadır: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Siz bu sistemdə gələcək yeniləmələri qura bilməyəcəksiniz. <label data-l10n-name="unsupported-link">Ətraflı öyrən</label>
+settings-update-unsupported = Siz bu sistemdə gələcək yeniləmələri qura bilməyəcəksiniz. <a data-l10n-name="unsupported-link">Ətraflı öyrən</a>
 update-restarting = Yenidən başladılır…
+settings-update-restarting =
+    .label = Yenidən başladılır…
 
 ##
 
