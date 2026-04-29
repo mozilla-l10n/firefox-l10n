@@ -39,6 +39,10 @@ fxa-menu-send-to-mobile =
            *[other] { $tabCount } ljepblêden nei mobyl ferstjoere
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
+fxa-menu-send-to-mobile-connect-phone2 = Jo telefoan ferbine
+fxa-menu-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
 fxa-menu-send-to-mobile-connect-phone =
