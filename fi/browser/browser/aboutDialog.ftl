@@ -33,6 +33,8 @@ update-failed-main = Päivitys ei onnistunut. <a data-l10n-name="failed-link-mai
 update-adminDisabled = Järjestelmän ylläpitäjä on estänyt päivitykset
 update-policy-disabled = Organisaatiosi on poistanut päivitykset käytöstä
 update-noUpdatesFound = Uusin { -brand-short-name }-versio käytössä
+settings-update-no-updates-found =
+    .label = Uusin { -brand-short-name }-versio käytössä
 aboutdialog-update-checking-failed = Päivitysten tarkistaminen epäonnistui.
 update-otherInstanceHandlingUpdates = { -brand-short-name }-ohjelman päivitys on jo käynnissä
 
