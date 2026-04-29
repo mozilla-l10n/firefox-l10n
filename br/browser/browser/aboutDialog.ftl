@@ -32,7 +32,11 @@ update-failed = C’hwitadenn war an hizivaat. <label data-l10n-name="failed-lin
 update-failed-main = C’hwitadenn war an hizivaat. <a data-l10n-name="failed-link-main">Pellgargañ an handelv diwezhañ</a>
 update-adminDisabled = Hizivadennoù diweredekaet gant hoc’h ardead reizhiad
 update-policy-disabled = Diweredekaet eo an hizivadennoù evit hoc’h aozadur
+settings-update-policy-disabled =
+    .label = Diweredekaet eo an hizivadennoù evit hoc’h aozadur
 update-noUpdatesFound = Hizivaet eo bet { -brand-short-name }
+settings-update-no-updates-found =
+    .label = Hizivaet eo bet { -brand-short-name }
 aboutdialog-update-checking-failed = C’hwitet war wiriañ an hizivadennoù.
 settings-update-checking-failed =
     .label = C’hwitet war wiriañ an hizivadennoù.
@@ -51,6 +55,7 @@ update-restarting = Oc’h adloc’hañ…
 settings-update-restarting =
     .label = Oc’h adloc’hañ…
 update-internal-error2 = N’haller ket gwiriañ hizivadennoù abalamour d’ur fazi diabarzh. Kavet e vezont aze: <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = N’haller ket gwiriañ hizivadennoù abalamour d’ur fazi diabarzh. Kavet e vezont aze: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
