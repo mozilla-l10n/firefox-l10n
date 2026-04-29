@@ -1,0 +1,22 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Buttons used for all feature introduction callouts
+
+ipprotection-feature-introduction-button-primary = ຕໍ່ໄປ
+ipprotection-feature-introduction-button-secondary-not-now = ບໍ່ແມ່ນຕອນນີ້
+ipprotection-feature-introduction-button-secondary-no-thanks = ບໍ່, ຂອບໃຈ
+
+## Site settings callout
+
+ipprotection-site-settings-callout-title = ເລືອກບ່ອນທີ່ທ່ານໃຊ້ VPN
+
+## Location controls
+
+ipprotection-recommended-location-badge = ໃໝ່
+
+## Messages and errors
+
+ipprotection-connection-status-blocked-error-title = VPN ບໍ່ສາມາດໃຊ້ໄດ້
