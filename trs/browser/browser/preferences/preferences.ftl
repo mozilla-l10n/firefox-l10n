@@ -282,6 +282,9 @@ update-application-description = Nagi'iaj { -brand-short-name } nakà da' gi'iaj
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiun { $version } <a data-l10n-name="learn-more">Sa nia' doj </a>
+update-history-2 =
+    .label = Digun' riña ma sa nagui'iaj nako'
+    .accesskey = p
 update-history =
     .label = Digun' riña ma sa nagui'iaj nako'
     .accesskey = p
@@ -295,6 +298,8 @@ update-application-check-choose =
 update-application-manual =
     .label = Si na'na'ui' sa nakà doj (Se sa hue'ê huin)
     .accesskey = S
+update-application-warning-cross-user-setting-2 =
+    .message = Sa nagi'iát nan ni gi'iaj sun riña daran' si kuentâ Windows ni nej perfî { -brand-short-name } sisi garasunt sa ga'nïnt gu'nàj { -brand-short-name }.
 update-application-warning-cross-user-setting = Sa nagi'iát nan ni gi'iaj sun riña daran' si kuentâ Windows ni nej perfî { -brand-short-name } sisi garasunt sa ga'nïnt gu'nàj { -brand-short-name }.
 update-application-use-service =
     .label = Garasun' a'ngo servidor da' dugout' sa nakà doj
