@@ -22,13 +22,19 @@ aboutdialog-update-downloading = ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀ
 ##
 
 update-applying = ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...
+settings-update-applying =
+    .label = ਅੱਪਡੇਟ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ...
 update-failed = ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਇਆ। <label data-l10n-name="failed-link">ਨਵਾਂ ਵਰਜ਼ਨ ਡਾਊਨਲੋਡ ਕਰੋ</label>
 update-failed-main = ਅੱਪਡੇਟ ਨਾਕਾਮਯਾਬ ਹੋਈ। <a data-l10n-name="failed-link-main">ਸੱਜਰੀ ਵੰਨਗੀ ਡਾਊਨਲੋਡ ਕਰੋ</a>
 update-adminDisabled = ਤੁਹਾਡੇ ਢਾਂਚਾ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਅੱਪਡੇਟਾਂ ਤੇ ਪਾਬੰਦੀ ਲੱਗੀ ਹੋਈ ਹੈ।
 update-policy-disabled = ਅੱਪਡੇਟ ਆਪਣੇ ਸੰਗਠਨ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤੇ ਹਨ
+settings-update-policy-disabled =
+    .label = ਅੱਪਡੇਟ ਆਪਣੇ ਸੰਗਠਨ ਵਲੋਂ ਅਸਮਰੱਥ ਕੀਤੇ ਹਨ
 update-noUpdatesFound = { -brand-short-name } ਅੱਪ-ਟੂ-ਡੇਟ ਹੈ
 aboutdialog-update-checking-failed = ਅੱਪਡੇਟਾਂ ਭਾਲਣ ਵਿੱਚ ਨਾਕਾਮਯਾਬੀ ਮਿਲੀ।
 update-otherInstanceHandlingUpdates = { -brand-short-name } ਨੂੰ ਕਿਸੇ ਹੋਰ ਮੌਕੇ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } ਨੂੰ ਕਿਸੇ ਹੋਰ ਮੌਕੇ ਰਾਹੀਂ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -37,7 +43,10 @@ aboutdialog-update-manual-with-link = <label data-l10n-name="manual-link">{ $dis
 settings-update-manual-with-link = <a data-l10n-name="manual-link">{ $displayUrl }</a> ‘ਤੇ ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ
 update-unsupported = ਤੁਸੀਂ ਇਸ ਸਿਸਟਮ ਨੂੰ ਹੋਰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹੋ। <label data-l10n-name="unsupported-link">ਹੋਰ ਜਾਣੋ</label>
 update-restarting = …ਮੁੜ-ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ
+settings-update-restarting =
+    .label = …ਮੁੜ-ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ
 update-internal-error2 = ਅੰਦਰੂਨੀ ਗ਼ਲਤੀ ਕਰਕੇ ਅੱਪਡੇਟਾਂ ਭਾਲਣ ਤੋੰ ਅਸਮਰੱਥ। ਅੱਪਡੇਟਾਂ <label data-l10n-name="manual-link">{ $displayUrl }</label> ਉੱਤੇ ਮੌਜੂਦ ਹਨ।
+settings-update-internal-error = ਅੰਦਰੂਨੀ ਗ਼ਲਤੀ ਕਰਕੇ ਅੱਪਡੇਟਾਂ ਭਾਲਣ ਤੋੰ ਅਸਮਰੱਥ। ਅੱਪਡੇਟਾਂ <a data-l10n-name="manual-link">{ $displayUrl }</a> ਉੱਤੇ ਮੌਜੂਦ ਹਨ।
 
 ##
 
