@@ -70,6 +70,7 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Barrierefreiheit
     .title = { pane-accessibility-title }
+pane-languages-title = Sprachen
 pane-experimental-title = { -brand-short-name }-Experimente
 category-experimental =
     .tooltiptext = { -brand-short-name }-Experimente
