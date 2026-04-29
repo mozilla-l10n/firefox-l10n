@@ -12,6 +12,8 @@ update-updateButton =
     .label = Újraindítás a { -brand-shorter-name } frissítéséhez
     .accesskey = R
 update-checkingForUpdates = Frissítések keresése…
+settings-update-checking-for-updates =
+    .label = Frissítések keresése…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
