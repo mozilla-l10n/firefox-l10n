@@ -18,6 +18,8 @@ update-checkingForUpdates = 正在检查更新…
 
 settings-update-downloading = <img data-l10n-name="icon"/>正在下载更新 — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = 正在下载更新 — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = 正在下载更新 — { $transfer }
 
 ##
 
