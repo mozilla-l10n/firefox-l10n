@@ -12,23 +12,37 @@ update-updateButton =
     .label = Start { -brand-shorter-name } opnij om te fernijen
     .accesskey = S
 update-checkingForUpdates = Kontrolearret op fernijingen…
+settings-update-checking-for-updates =
+    .label = Kontrolearret op fernijingen…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Fernijing downloade — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Update downloade – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Fernijing downloade — { $transfer }
 
 ##
 
 update-applying = Fernijing tapasse…
+settings-update-applying =
+    .label = Fernijing tapasse…
 update-failed = Fernijing mislearre. <label data-l10n-name="failed-link">Laad de lêste ferzje yn</label>
 update-failed-main = Fernijing mislearre. <a data-l10n-name="failed-link-main">Laad de lêste ferzje yn</a>
 update-adminDisabled = Fernijingen útskeakele troch jo systeembehearder
 update-policy-disabled = Fernijingen útskeakele troch jo organisaasje
+settings-update-policy-disabled =
+    .label = Fernijingen útskeakele troch jo organisaasje
 update-noUpdatesFound = { -brand-short-name } is by de tiid
+settings-update-no-updates-found =
+    .label = { -brand-short-name } is by de tiid
 aboutdialog-update-checking-failed = Kontrôle op fernijingen is mislearre.
+settings-update-checking-failed =
+    .label = Kontrôle op fernijingen is mislearre.
 update-otherInstanceHandlingUpdates = { -brand-short-name } wurdt fernijd troch in oare sesje
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } wurdt fernijd troch in oare sesje
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } wurdt fernijd troch 
 aboutdialog-update-manual-with-link = Fernijingen beskikber op <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Fernijingen beskikber op <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <label data-l10n-name="unsupported-link">Mear ynfo</label>
+settings-update-unsupported = Jo kinne gjin fernijngen mear útfiere op dit systeem. <a data-l10n-name="unsupported-link">Mear ynfo</a>
 update-restarting = Opnij starte…
+settings-update-restarting =
+    .label = Opnij starte…
 update-internal-error2 = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Kin net kontrolearje op fernijingen fanwegen in ynterne flater. Fernijingen beskikber op <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
