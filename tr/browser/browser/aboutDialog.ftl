@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } tarayıcısını güncellemek için yeniden başlat
     .accesskey = G
 update-checkingForUpdates = Güncellemeler denetleniyor…
+settings-update-checking-for-updates =
+    .label = Güncellemeler denetleniyor…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
