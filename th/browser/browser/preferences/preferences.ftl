@@ -664,6 +664,9 @@ update-application-description = คง { -brand-short-name } ให้เป็
 # Variables:
 # $version (string) - Firefox version
 update-application-version = รุ่น { $version } <a data-l10n-name="learn-more">มีอะไรใหม่</a>
+update-history-2 =
+    .label = แสดงประวัติการอัปเดต
+    .accesskey = ส
 update-history =
     .label = แสดงประวัติการอัปเดต…
     .accesskey = ส
