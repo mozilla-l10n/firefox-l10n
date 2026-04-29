@@ -8,6 +8,8 @@ update-checkForUpdatesButton =
     .label = सुदारांखातीर Check
     .accesskey = C
 update-checkingForUpdates = अपडेटांखातीर तपासतात...
+settings-update-checking-for-updates =
+    .label = अपडेटांखातीर तपासतात...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
