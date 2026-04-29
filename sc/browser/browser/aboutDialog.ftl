@@ -37,6 +37,8 @@ settings-update-no-updates-found =
     .label = { -brand-short-name } est atualizadu
 aboutdialog-update-checking-failed = Faddina in su controllu de atualizatziones.
 update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -brand-short-name }
+settings-update-other-instance-handling-updates =
+    .label = Un'àtera istàntzia est agiornende { -brand-short-name }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -44,8 +46,12 @@ update-otherInstanceHandlingUpdates = Un'àtera istàntzia est agiornende { -bra
 aboutdialog-update-manual-with-link = Atualizatziones a disponimentu in <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atualizatziones a disponimentu in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No podes agiornare custu sistema. <label data-l10n-name="unsupported-link">Leghe àteru</label>
+settings-update-unsupported = No podes agiornare custu sistema. <a data-l10n-name="unsupported-link">Leghe àteru</a>
 update-restarting = Torrende a aviare
+settings-update-restarting =
+    .label = Torrende a aviare
 update-internal-error2 = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Impossìbile controllare is atualizatziones a càusa de una faddina interna. Atualizatziones a disponimentu in <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
