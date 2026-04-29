@@ -20,10 +20,14 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>Telecargament de mesa a jorn — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Telecargament de la mesa a jorn — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Telecargament de mesa a jorn — { $transfer }
 
 ##
 
 update-applying = Aplicacion de la mesa a jorn…
+settings-update-applying =
+    .label = Aplicacion de la mesa a jorn…
 update-failed = La mesa a jorn a fracassat. <label data-l10n-name="failed-link">Telecargar la darrièra version</label>
 update-failed-main = La mesa a jorn a fracassat. <a data-l10n-name="failed-link-main">Telecargar la darrièra version</a>
 update-adminDisabled = Las mesas a jorn son desactivadas per vòstre administrator del sistèma
