@@ -32,7 +32,11 @@ update-failed = Uuendamine ebaõnnestus. <label data-l10n-name="failed-link">Laa
 update-failed-main = Uuendamine ebaõnnestus. <a data-l10n-name="failed-link-main">Laadi alla uusim versioon</a>
 update-adminDisabled = Uuendused on süsteemiadministraatori poolt keelatud
 update-policy-disabled = Värskendused on sinu organisatsiooni poolt keelatud
+settings-update-policy-disabled =
+    .label = Värskendused on sinu organisatsiooni poolt keelatud
 update-noUpdatesFound = Kasutusel on { -brand-short-name }i uusim versioon
+settings-update-no-updates-found =
+    .label = Kasutusel on { -brand-short-name }i uusim versioon
 aboutdialog-update-checking-failed = Uuenduste kontrollimine ebaõnnestus.
 settings-update-checking-failed =
     .label = Uuenduste kontrollimine ebaõnnestus.
