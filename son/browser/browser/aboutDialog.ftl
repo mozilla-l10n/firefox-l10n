@@ -34,6 +34,8 @@ update-noUpdatesFound = { -brand-short-name } n' ka taagandi
 settings-update-no-updates-found =
     .label = { -brand-short-name } n' ka taagandi
 update-otherInstanceHandlingUpdates = Jinay tana foo goo ma { -brand-short-name } taagandi
+settings-update-other-instance-handling-updates =
+    .label = Jinay tana foo goo ma { -brand-short-name } taagandi
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -41,7 +43,10 @@ update-otherInstanceHandlingUpdates = Jinay tana foo goo ma { -brand-short-name 
 aboutdialog-update-manual-with-link = Taagandiri barantey ne <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Taagandiri barantey ne <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = War ši hin ka taagandiri tee koyne dabariɲaŋoo woo ga. <label data-l10n-name="unsupported-link">Ka bay ka tonton</label>
+settings-update-unsupported = War ši hin ka taagandiri tee koyne dabariɲaŋoo woo ga. <a data-l10n-name="unsupported-link">Ka bay ka tonton</a>
 update-restarting = Goo ma tunandi taaga…
+settings-update-restarting =
+    .label = Goo ma tunandi taaga…
 
 ##
 
