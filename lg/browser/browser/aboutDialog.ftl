@@ -16,6 +16,8 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Okuwannula Ekituusaganya— <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Okuwannula Ekituusaganya— { $transfer }
 
 ##
 
