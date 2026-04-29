@@ -321,6 +321,9 @@ update-application-description = Mantener { -brand-short-name } a lo día pa ten
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedatz</a>
+update-history-2 =
+    .label = Amostrar l'historial d'actualizacions
+    .accesskey = h
 update-history =
     .label = Amostrar l'historial d'actualizacions
     .accesskey = h
@@ -334,6 +337,8 @@ update-application-check-choose =
 update-application-manual =
     .label = No comprebar nunca las actualizacions
     .accesskey = N
+update-application-warning-cross-user-setting-2 =
+    .message = Esta configuración s'aplicará a totas las cuentas de Windows y perfils de { -brand-short-name } que fagan servir esta instalación de { -brand-short-name }.
 update-application-warning-cross-user-setting = Esta configuración s'aplicará a totas las cuentas de Windows y perfils de { -brand-short-name } que fagan servir esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Instalar as actualizacions en un segundo plan
