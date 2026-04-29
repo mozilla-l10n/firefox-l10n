@@ -20,6 +20,8 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/> आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = { " " }आपडेटखौ डाउनल'ड खालाम गासिनो दं — { $transfer }
 
 ##
 
@@ -29,7 +31,11 @@ update-failed-main = आपडेट खालामनाया फेलें
 update-adminDisabled = आपडेटफोरखौ नोंथांनि सिस्टेम खुंगिरिजों लोरबां खालामनाय जाबाय
 update-noUpdatesFound = { -brand-short-name } आ गोदान
 aboutdialog-update-checking-failed = आफदेट चेक खालामनाया फेलें जाबाय |
+settings-update-checking-failed =
+    .label = आफदेट चेक खालामनाया फेलें जाबाय |
 update-otherInstanceHandlingUpdates = { -brand-short-name } आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -39,6 +45,7 @@ settings-update-manual-with-link = <a data-l10n-name="manual-link">{ $displayUrl
 update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
 update-restarting = फिन जागाय गासिनो दङ...
 update-internal-error2 = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <label data-l10n-name="manual-link">{ $displayUrl }</label> अव आफदेटआ दं |
+settings-update-internal-error = इसिङारि गोरोन्थि थाखाय, आफदेट चेक खालामनायाव फेलें जाबाय | <a data-l10n-name="manual-link">{ $displayUrl }</a> अव आफदेटआ दं |
 
 ##
 
