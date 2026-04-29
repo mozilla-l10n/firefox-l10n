@@ -378,6 +378,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Ponovo pokrenite { -brand-short-name } da primijenite ove promjene
 confirm-browser-language-change-button = Primijeni i ponovo pokreni
+browser-language-install-error =
+    .message = { -brand-short-name } trenutno ne može ažurirati vaše jezike. Provjerite jeste li povezani na internet ili pokušajte ponovo.
 translate-web-pages =
     .label = Prevedi web sadržaj
     .accesskey = P
@@ -502,7 +504,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Šta { -brand-short-name } treba da radi sa drugim datotekama?
 applications-save-for-new-types =
@@ -561,6 +563,12 @@ update-in-progress-ok-button = &Odbaci
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nastavi
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -631,6 +639,9 @@ browsing-cfr-recommendations-learn-more = Saznajte više
 browsing-group =
     .label = Surfanje
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Mrežne postavke
@@ -682,6 +693,12 @@ use-current-pages =
 choose-bookmark =
     .label = Koristi zabilješku…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -903,6 +920,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavite se za ponovno povezivanje { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1071,7 +1093,7 @@ forms-ask-to-save-logins =
     .label = Pitaj za pamćenje prijava i lozinki za web stranice
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1141,6 +1163,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saznajte više
 forms-windows-sso-desc = Upravljajte računima u postavkama uređaja
 windows-passkey-settings-label = Upravljajte pristupnim ključevima u sistemskim postavkama
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1732,8 +1757,23 @@ preferences-doh-manage-exceptions =
     .label = Upravljaj izuzecima…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Preuzimanja
 choose-download-folder-title = Izaberite direktorij za preuzimanja:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
