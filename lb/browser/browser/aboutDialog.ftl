@@ -12,6 +12,8 @@ update-updateButton =
     .label = Nei starte fir de { -brand-shorter-name } z'aktualiséieren
     .accesskey = R
 update-checkingForUpdates = No Aktualisatioune sichen…
+settings-update-checking-for-updates =
+    .label = No Aktualisatioune sichen…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
