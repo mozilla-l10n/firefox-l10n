@@ -32,7 +32,11 @@ update-failed = Guire’ sa nagui’iaj naka. <label data-l10n-name="failed-link
 update-failed-main = Guire’ sa nagui’iaj naka. <a data-l10n-name="failed-link-main">Naduninj sa naka doj</a>
 update-adminDisabled = Su' 'nïnj ra'a aga' sikà' rà na ni duyichin' si daran' sa nahuin nakàa
 update-policy-disabled = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
+settings-update-policy-disabled =
+    .label = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
 update-noUpdatesFound = { -brand-short-name } nga ganahuin naka
+settings-update-no-updates-found =
+    .label = { -brand-short-name } nga ganahuin naka
 aboutdialog-update-checking-failed = Gire’ guendâ nana’huij nej sa nahuin nākàa.
 settings-update-checking-failed =
     .label = Gire’ guendâ nana’huij nej sa nahuin nākàa.
