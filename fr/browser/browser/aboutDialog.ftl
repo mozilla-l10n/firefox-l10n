@@ -32,7 +32,11 @@ update-failed = La mise à jour a échoué. <label data-l10n-name="failed-link">
 update-failed-main = La mise à jour a échoué. <a data-l10n-name="failed-link-main">Télécharger la dernière version</a>
 update-adminDisabled = Les mises à jour sont désactivées par votre administrateur système
 update-policy-disabled = Mises à jour désactivées par votre organisation
+settings-update-policy-disabled =
+    .label = Mises à jour désactivées par votre organisation
 update-noUpdatesFound = { -brand-short-name } est à jour
+settings-update-no-updates-found =
+    .label = { -brand-short-name } est à jour
 aboutdialog-update-checking-failed = Échec de la vérification des mises à jour.
 settings-update-checking-failed =
     .label = Échec de la vérification des mises à jour.
@@ -46,7 +50,10 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = Mises à jour disponibles à <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Mises à jour disponibles sur <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = La dernière version n’est pas disponible pour votre système. <label data-l10n-name="unsupported-link">En savoir plus</label>
+settings-update-unsupported = La dernière version n’est pas disponible pour votre système. <a data-l10n-name="unsupported-link">En savoir plus</a>
 update-restarting = Redémarrage…
+settings-update-restarting =
+    .label = Redémarrage…
 update-internal-error2 = Une erreur interne empêche la vérification des mises à jour. Elles sont disponibles sur <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
