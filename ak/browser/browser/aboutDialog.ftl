@@ -8,6 +8,8 @@ update-checkForUpdatesButton =
     .label = Hwehwɛ Ntoso
     .accesskey = H
 update-checkingForUpdates = Rehwehwɛ ntoso…
+settings-update-checking-for-updates =
+    .label = Rehwehwɛ ntoso…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
