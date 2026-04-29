@@ -12,6 +12,8 @@ update-updateButton =
     .label = અપડેટ કરવા માટે પુનઃપ્રારંભ કરો { -brand-shorter-name }
     .accesskey = આર
 update-checkingForUpdates = સુધારાઓને ચકાસી રહ્યા છે…
+settings-update-checking-for-updates =
+    .label = સુધારાઓને ચકાસી રહ્યા છે…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
