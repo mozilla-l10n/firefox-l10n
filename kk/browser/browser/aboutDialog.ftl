@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } жаңарту үшін қайта іске қосу
     .accesskey = р
 update-checkingForUpdates = Жаңартуларды тексеру…
+settings-update-checking-for-updates =
+    .label = Жаңартуларды тексеру…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
