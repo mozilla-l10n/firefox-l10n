@@ -743,6 +743,8 @@ update-application-background-enabled =
            *[other] када програм { -brand-short-name } није покренут
         }
     .accesskey = к
+update-application-warning-cross-user-setting-2 =
+    .message = Ово подешавање се односи на све корисничке налоге у Windows-у и { -brand-short-name } профиле, ако користе исту инсталацију.
 update-application-warning-cross-user-setting = Ово подешавање се односи на све корисничке налоге у Windows-у и { -brand-short-name } профиле, ако користе исту инсталацију.
 update-application-use-service =
     .label = При инсталацији ажурирања користи позадинску услугу
