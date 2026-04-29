@@ -32,7 +32,11 @@ update-failed = به‌روزرسانی شکست خورد. <label data-l10n-name
 update-failed-main = به‌روزرسانی شکست خورد. <a data-l10n-name="failed-link-main">جدیدترین نگارش را بارگیری کنید</a>
 update-adminDisabled = مدیر سامانه‌تان به‌روز رسانی‌ها را از کار انداخته
 update-policy-disabled = به‌روزرسانی‌ها توسط سازمان شما غیرفعال شده است
+settings-update-policy-disabled =
+    .label = به‌روزرسانی‌ها توسط سازمان شما غیرفعال شده است
 update-noUpdatesFound = { -brand-short-name } به‌روز است
+settings-update-no-updates-found =
+    .label = { -brand-short-name } به‌روز است
 aboutdialog-update-checking-failed = بررسی برای به‌روزرسانی‌ها شکست خورد.
 settings-update-checking-failed =
     .label = بررسی برای به‌روزرسانی‌ها شکست خورد.
