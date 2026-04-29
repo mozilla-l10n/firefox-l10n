@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Update wird durchgeführt…
+settings-update-applying =
+    .label = Update wird durchgeführt…
 update-failed = Update fehlgeschlagen. <label data-l10n-name="failed-link">Laden Sie die neueste Version herunter</label>
 update-failed-main = Update fehlgeschlagen. <a data-l10n-name="failed-link-main">Laden Sie die neueste Version herunter</a>
 update-adminDisabled = Updates von Ihrem System-Administrator deaktiviert
