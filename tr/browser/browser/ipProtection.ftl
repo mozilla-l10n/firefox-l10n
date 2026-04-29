@@ -27,8 +27,11 @@ ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha artırın
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. 5 konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Halka açık bir Wi-Fi ağında mısınız? { -brand-product-name } tarayıcısının yerleşik VPN’ini deneyin.
 ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizleyin, halka açık Wi-Fi ağlarında bile ekstra korumayla gezinin.
 ipprotection-feature-introduction-button-primary = İleri
 ipprotection-feature-introduction-button-secondary-not-now = Şimdi değil
