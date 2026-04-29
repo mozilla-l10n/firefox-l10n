@@ -32,6 +32,8 @@ update-failed = Atualizatzione faddida. <label data-l10n-name="failed-link">Isc�
 update-failed-main = Atualizatzione faddida. <a data-l10n-name="failed-link-main">Iscàrriga s'ùrtima versione</a>
 update-adminDisabled = S'amministradore de su sistema tuo at disativadu is atualizatziones
 update-policy-disabled = Atualizatziones disativadas dae s'organizatzione tua
+settings-update-policy-disabled =
+    .label = Atualizatziones disativadas dae s'organizatzione tua
 update-noUpdatesFound = { -brand-short-name } est atualizadu
 settings-update-no-updates-found =
     .label = { -brand-short-name } est atualizadu
