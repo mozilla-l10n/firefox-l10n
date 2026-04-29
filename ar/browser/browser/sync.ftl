@@ -19,6 +19,10 @@ fxa-menu-turn-on-sync-default = فعّل المزامنة
 fxa-menu-connect-another-device =
     .label = صِلْ جهازا آخر…
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = فعِّل المزامنة لإرسال لسان
+fxa-menu-send-to-mobile-connect-phone2 = صل جوّالك
+fxa-menu-send-to-mobile-device-missing2 = ألا ترى جهازك؟
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = فعِّل المزامنة لإرسال لسان
 fxa-menu-send-to-mobile-connect-phone =
