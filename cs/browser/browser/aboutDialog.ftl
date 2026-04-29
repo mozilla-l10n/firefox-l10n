@@ -34,12 +34,20 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Probíhá aktualizace…
+settings-update-applying =
+    .label = Probíhá aktualizace…
 update-failed = Aktualizace selhala. <label data-l10n-name="failed-link">Stáhnout nejnovější verzi</label>
 update-failed-main = Aktualizace selhala. <a data-l10n-name="failed-link-main">Stáhnout nejnovější verzi</a>
 update-adminDisabled = Aktualizace jsou zakázány správcem
 update-policy-disabled = Aktualizace jsou zakázány vaší organizací
+settings-update-policy-disabled =
+    .label = Aktualizace jsou zakázány vaší organizací
 update-noUpdatesFound = { -brand-short-name } je aktuální
+settings-update-no-updates-found =
+    .label = { -brand-short-name } je aktuální
 aboutdialog-update-checking-failed = Kontrola aktualizací se nezdařila
+settings-update-checking-failed =
+    .label = Kontrola aktualizací se nezdařila
 update-otherInstanceHandlingUpdates =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } je aktualizován jinou instancí
