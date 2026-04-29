@@ -284,6 +284,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Zresztartuj  aplikacyjo { -brand-short-name }, coby wkludzić te zmiany
 confirm-browser-language-change-button = Wkludź i resztartuj
+browser-language-install-error =
+    .message = { -brand-short-name } niy poradzi zaktualizować twojich godek. Badnij na połōnczynie z internetym abo zaś sprōbuj.
 translate-web-pages =
     .label = Przekłodanie strōn
     .accesskey = P
@@ -405,7 +407,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Co { -brand-short-name } mo zrobić z inkszymi zbiorami?
 applications-save-for-new-types =
@@ -464,6 +466,12 @@ update-in-progress-ok-button = &Pociep
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Idź dalij
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -526,6 +534,9 @@ browsing-cfr-recommendations-learn-more = Przewiydz sie wiyncyj
 browsing-group =
     .label = Przeglōndanie
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Nasztalowania neca
@@ -577,6 +588,12 @@ use-current-pages =
 choose-bookmark =
     .label = Użyj zokłodki…
     .accesskey = Z
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -756,6 +773,11 @@ sync-manage-account2 =
 sync-signedin-unverified = Kōnto { $email } niy ma zweryfikowane.
 sync-signedin-login-failure = Wloguj sie, coby zaś połōnczyć kōnto { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -899,7 +921,7 @@ forms-ask-to-save-logins =
     .label = Pytej sie ô spamiyntowanie danych logowanio i haseł do strōn
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Wyjōntki…
@@ -942,6 +964,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Przewiydz sie wiyncyj
 forms-windows-sso-desc = Regiyruj kōntami w sztalōnkach masziny
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -952,6 +977,9 @@ primary-password-os-auth-dialog-message-win = Żeby zrychtować głōwne hasło,
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = zrychtuj głōwne hasło
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -1046,6 +1074,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies i dane strōn
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1239,6 +1273,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Pokoż badania aplikacyje { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1288,8 +1325,26 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Niy załōnczej trybu "ino HTTPS"
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Biōrko
 downloads-folder-name = Pobrania
 choose-download-folder-title = Ôbier katalog na pobrane zbiory:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
