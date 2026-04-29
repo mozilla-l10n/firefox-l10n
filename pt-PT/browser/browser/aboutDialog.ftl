@@ -36,7 +36,11 @@ update-noUpdatesFound = O { -brand-short-name } está atualizado
 settings-update-no-updates-found =
     .label = O { -brand-short-name } está atualizado
 aboutdialog-update-checking-failed = Incapaz de verificar a existência de atualizações.
+settings-update-checking-failed =
+    .label = Incapaz de verificar a existência de atualizações.
 update-otherInstanceHandlingUpdates = O { -brand-short-name } já está a ser atualizado por outra instância
+settings-update-other-instance-handling-updates =
+    .label = O { -brand-short-name } já está a ser atualizado por outra instância
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
