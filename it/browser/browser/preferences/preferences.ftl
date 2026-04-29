@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Riavviare { -brand-short-name } per applicare queste modifiche
 confirm-browser-language-change-button = Applica e riavvia
+browser-language-install-error =
+    .message = L’aggiornamento delle lingue non è attualmente disponibile. Verifica la connessione a Internet o riprova.
 translate-web-pages =
     .label = Traduci contenuti web
     .accesskey = T
@@ -1448,7 +1450,7 @@ forms-ask-to-save-logins =
     .label = Chiedi se salvare le credenziali di accesso ai siti web
     .accesskey = C
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1549,6 +1551,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ulteriori informazioni
 forms-windows-sso-desc = Gestisci account nelle impostazioni del dispositivo
 windows-passkey-settings-label = Gestisci passkey nelle impostazioni di sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
