@@ -670,6 +670,9 @@ update-application-description = 让 { -brand-short-name } 保持最新，持续
 # Variables:
 # $version (string) - Firefox version
 update-application-version = 版本: { $version } <a data-l10n-name="learn-more">新版变化</a>
+update-history-2 =
+    .label = 显示更新历史
+    .accesskey = p
 update-history =
     .label = 显示更新历史…
     .accesskey = p
