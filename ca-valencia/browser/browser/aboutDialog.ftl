@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = S'està actualitzant…
+settings-update-applying =
+    .label = S'està actualitzant…
 update-failed = L'actualització ha fallat. <label data-l10n-name="failed-link">Baixeu la darrera versió</label>
 update-failed-main = L'actualització ha fallat. <a data-l10n-name="failed-link-main">Baixeu la darrera versió</a>
 update-adminDisabled = L'administrador ha inhabilitat les actualitzacions
