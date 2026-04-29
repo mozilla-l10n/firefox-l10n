@@ -45,6 +45,7 @@ update-restarting = يُعيد التشغيل…
 settings-update-restarting =
     .label = يُعيد التشغيل…
 update-internal-error2 = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = تعذر التحقق من وجود تحديثات بسبب خطأ داخلي. التحديثات متاحة في <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
