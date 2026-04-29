@@ -12,6 +12,8 @@ update-updateButton =
     .label = Berrabiarazi { -brand-shorter-name } eguneratzeko
     .accesskey = B
 update-checkingForUpdates = Eguneraketak bilatzen…
+settings-update-checking-for-updates =
+    .label = Eguneraketak bilatzen…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
