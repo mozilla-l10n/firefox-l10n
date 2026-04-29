@@ -458,6 +458,8 @@ manage-browser-languages-button =
     .accesskey = k
 confirm-browser-language-change-description = Käytä näitä muutoksia käynnistämällä { -brand-short-name } uudestaan
 confirm-browser-language-change-button = Käytä ja käynnistä uudestaan
+browser-language-install-error =
+    .message = { -brand-short-name } ei voi päivittää kieliä juuri nyt. Varmista, että yhteys internetiin toimii tai yritä uudestaan.
 translate-web-pages =
     .label = Käännä sivustojen sisältö
     .accesskey = n
@@ -651,7 +653,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Mitä { -brand-short-name }in pitäisi tehdä muille tiedostoille?
 applications-save-for-new-types =
@@ -710,6 +712,9 @@ update-in-progress-ok-button = &Hylkää
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -792,6 +797,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1409,7 +1417,7 @@ forms-ask-to-save-logins =
     .label = Ehdota sivustojen käyttäjätunnusten ja salasanojen tallentamista
     .accesskey = v
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1510,6 +1518,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lisätietoja
 forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
 windows-passkey-settings-label = Hallitse todentamisavaimia järjestelmän asetuksissa
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2381,6 +2392,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Anna mukautetun tarjoajan URL-osoite
 preferences-doh-header2 =
     .heading = DNS HTTPS:n kautta
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
