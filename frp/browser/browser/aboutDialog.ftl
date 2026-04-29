@@ -12,6 +12,8 @@ update-updateButton =
     .label = Relanciér por betar a jorn { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Rechèrche de beta-a-jorn…
+settings-update-checking-for-updates =
+    .label = Rechèrche de beta-a-jorn…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
