@@ -18,6 +18,8 @@ update-checkingForUpdates = اپڈیٹ کے لیے دیکھ رہا ہے…
 
 settings-update-downloading = <img data-l10n-name="icon"/>تازہ کاری ڈاؤن لوڈ کر رہا ہے—<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = اپ ڈیٹ ڈاؤن لوڈ ہو رہا ہے—<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = تازہ کاری ڈاؤن لوڈ کر رہا ہے—{ $transfer }
 
 ##
 
