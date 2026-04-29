@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = புதுப்பிப்பைப் செயல்படுத்துகிறது…
+settings-update-applying =
+    .label = புதுப்பிப்பைப் செயல்படுத்துகிறது…
 update-failed = புதுப்பிப்பு செயல் தோல்வியுற்றது. <label data-l10n-name="failed-link">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</label>
 update-failed-main = புதுப்பித்தல் தோல்வியுற்றது. <a data-l10n-name="failed-link-main">சமீபத்திய பதிப்பைப் பதிவிறக்கவும்</a>
 update-adminDisabled = புதுப்பிப்பு செயல் கணினி நிர்வாகியால் முடக்கப்பட்டுள்ளது
