@@ -12,6 +12,8 @@ update-updateButton =
     .label = Arvi torna { -brand-shorter-name } pe agiornâ
     .accesskey = R
 update-checkingForUpdates = Çerco i agiornamenti…
+settings-update-checking-for-updates =
+    .label = Çerco i agiornamenti…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
