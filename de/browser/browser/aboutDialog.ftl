@@ -32,7 +32,11 @@ update-adminDisabled = Updates von Ihrem System-Administrator deaktiviert
 update-policy-disabled = Ihre Organisation hat Updates deaktiviert
 update-noUpdatesFound = { -brand-short-name } ist aktuell
 aboutdialog-update-checking-failed = Suche nach Updates fehlgeschlagen.
+settings-update-checking-failed =
+    .label = Suche nach Updates fehlgeschlagen.
 update-otherInstanceHandlingUpdates = { -brand-short-name } wird durch eine andere Instanz aktualisiert.
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } wird durch eine andere Instanz aktualisiert.
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -40,7 +44,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } wird durch eine ande
 aboutdialog-update-manual-with-link = Updates verfügbar unter <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Updates verfügbar unter <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Auf diesem System können keine weiteren Updates installiert werden. <label data-l10n-name="unsupported-link">Weitere Informationen</label>
+settings-update-unsupported = Auf diesem System können keine weiteren Updates installiert werden. <a data-l10n-name="unsupported-link">Weitere Informationen</a>
 update-restarting = Wird neu gestartet…
+settings-update-restarting =
+    .label = Wird neu gestartet…
 update-internal-error2 = Aufgrund eines internen Fehlers konnte nicht nach Updates gesucht werden. Updates verfügbar unter <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-internal-error = Aufgrund eines internen Fehlers konnte nicht nach Updates gesucht werden. Updates verfügbar unter <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
