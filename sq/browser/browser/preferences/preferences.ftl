@@ -458,6 +458,8 @@ manage-browser-languages-button =
     .accesskey = C
 confirm-browser-language-change-description = Që të hyjnë në fuqi këto ndryshime, rinisni { -brand-short-name }-in
 confirm-browser-language-change-button = Zbatoje dhe Rinisu
+browser-language-install-error =
+    .message = { -brand-short-name } nuk mund të përditësojë gjuhët tuaja tani. Kontrolloni se jeni të lidhur në internet ose riprovoni.
 translate-web-pages =
     .label = Përktheni lëndë web
     .accesskey = P
@@ -651,7 +653,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Ç'duhet të bëjë { -brand-short-name }-i me kartelat e tjera?
 applications-save-for-new-types =
@@ -710,6 +712,9 @@ update-in-progress-ok-button = &Hidhe Tej
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -792,6 +797,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1393,7 +1401,7 @@ forms-ask-to-save-logins =
     .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte
     .accesskey = P
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1494,6 +1502,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
 windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2351,6 +2362,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Jepni një URL shërbimi të përshtatur
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
