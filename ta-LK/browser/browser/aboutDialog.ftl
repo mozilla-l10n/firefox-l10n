@@ -12,10 +12,14 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>இற்றைப்படுத்தல்கள் பதிவிறக்கப்படுகிறது...<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = இற்றைப்படுத்தல்கள் பதிவிறக்கப்படுகிறது...{ $transfer }
 
 ##
 
 update-applying = இற்றைப்படுத்தல்கள் செயல்படுத்துகிறது...
+settings-update-applying =
+    .label = இற்றைப்படுத்தல்கள் செயல்படுத்துகிறது...
 update-failed = இற்றைப்படுத்தல் தோல்வியுற்றது.<label data-l10n-name="failed-link">புதிய பதிப்பினை தரவிறக்கவும்</label>
 update-failed-main = இற்றைப்படுத்தல் தோல்வியுற்றது.<a data-l10n-name="failed-link-main">புதிய பதிப்பினை தரவிறக்கவும்</a>
 update-adminDisabled = இற்றைப்படுத்தல் உங்கள் கணினி  நிர்வாகியினால் முடக்கப்பட்டுள்ளது
