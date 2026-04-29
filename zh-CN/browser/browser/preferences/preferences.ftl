@@ -454,6 +454,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = 重启 { -brand-short-name } 以应用这些更改
 confirm-browser-language-change-button = 应用并重启浏览器
+browser-language-install-error =
+    .message = { -brand-short-name } 目前无法更新您的语言。请检查您是否已连接到互联网，然后重试。
 translate-web-pages =
     .label = 翻译网页内容
     .accesskey = T
@@ -647,7 +649,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } 应如何处理其他文件？
 applications-save-for-new-types =
@@ -706,6 +708,9 @@ update-in-progress-ok-button = 放弃
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -788,6 +793,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 详细了解
 browsing-group =
     .label = 浏览
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1397,7 +1405,7 @@ forms-ask-to-save-logins =
     .label = 向您询问是否保存网站的登录名和密码
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1498,6 +1506,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 详细了解
 forms-windows-sso-desc = 在您的设备设置中管理账户
 windows-passkey-settings-label = 在系统设置中管理通行密钥
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
