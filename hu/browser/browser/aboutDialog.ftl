@@ -32,7 +32,11 @@ update-failed = A frissítés sikertelen.<label data-l10n-name="failed-link">Tö
 update-failed-main = A frissítés sikertelen.<a data-l10n-name="failed-link-main">Töltse le a legújabb verziót</a>
 update-adminDisabled = A frissítéseket a rendszergazda letiltotta
 update-policy-disabled = A frissítéseket a szervezete letiltotta
+settings-update-policy-disabled =
+    .label = A frissítéseket a szervezete letiltotta
 update-noUpdatesFound = A { -brand-short-name } naprakész
+settings-update-no-updates-found =
+    .label = A { -brand-short-name } naprakész
 aboutdialog-update-checking-failed = Nem sikerült a frissítések keresése.
 settings-update-checking-failed =
     .label = Nem sikerült a frissítések keresése.
