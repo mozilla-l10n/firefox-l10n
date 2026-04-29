@@ -9,6 +9,8 @@ update-checkForUpdatesButton =
     .label = Okukebera ku bituusaganya
     .accesskey = O
 update-checkingForUpdates = Okukebera ku bituusaganya…
+settings-update-checking-for-updates =
+    .label = Okukebera ku bituusaganya…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
