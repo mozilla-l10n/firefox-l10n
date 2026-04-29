@@ -55,6 +55,7 @@ update-restarting = Ailgychwyn…
 settings-update-restarting =
     .label = Ailgychwyn…
 update-internal-error2 = Methu gwirio am ddiweddariadau oherwydd gwall mewnol. Mae diweddariadau ar gael yn <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Methu gwirio am ddiweddariadau oherwydd gwall mewnol. Mae diweddariadau ar gael yn <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
