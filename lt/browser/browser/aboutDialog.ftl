@@ -26,10 +26,14 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Diegiamas naujinimas…
+settings-update-applying =
+    .label = Diegiamas naujinimas…
 update-failed = Programos atnaujinti nepavyko. <label data-l10n-name="failed-link">Atsisiųskite paskiausią laidą</label>
 update-failed-main = Programos atnaujinti nepavyko. <a data-l10n-name="failed-link-main">Atsisiųskite paskiausią laidą</a>
 update-adminDisabled = Naujinimus uždraudė sistemos administratorius
 update-noUpdatesFound = Naudojama paskiausia „{ -brand-short-name }“ laida
+settings-update-no-updates-found =
+    .label = Naudojama paskiausia „{ -brand-short-name }“ laida
 aboutdialog-update-checking-failed = Nepavyko patikrinti, ar yra naujinimų.
 update-otherInstanceHandlingUpdates = Programa „{ -brand-short-name }“ šiuo metu naujinama
 
