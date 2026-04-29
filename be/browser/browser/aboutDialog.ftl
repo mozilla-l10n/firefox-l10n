@@ -12,6 +12,8 @@ update-updateButton =
     .label = Перазапуск для абнаўлення { -brand-shorter-name }
     .accesskey = П
 update-checkingForUpdates = Праверка існавання абнаўленняў…
+settings-update-checking-for-updates =
+    .label = Праверка існавання абнаўленняў…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
