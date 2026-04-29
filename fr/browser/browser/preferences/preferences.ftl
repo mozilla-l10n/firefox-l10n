@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Redémarrer { -brand-short-name } pour appliquer ces changements
 confirm-browser-language-change-button = Appliquer et redémarrer
+browser-language-install-error =
+    .message = { -brand-short-name } ne peut pas mettre à jour vos langues pour l’instant. Vérifiez votre connexion à Internet ou réessayez.
 translate-web-pages =
     .label = Traduire le contenu web
     .accesskey = w
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Que doit faire { -brand-short-name } des autres fichiers ?
 applications-save-for-new-types =
@@ -712,6 +714,9 @@ update-in-progress-ok-button = &Abandonner
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuer
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1436,7 @@ forms-ask-to-save-logins =
     .label = Proposer d’enregistrer les identifiants et les mots de passe pour les sites web
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1537,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = En savoir plus
 forms-windows-sso-desc = Gérez les comptes dans les paramètres de votre appareil
 windows-passkey-settings-label = Gérer les clés d’accès dans les paramètres système
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
