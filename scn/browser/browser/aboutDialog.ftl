@@ -12,6 +12,8 @@ update-updateButton =
     .label = Riabbìa p’attualizzari { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Staju cuntrullannu si cci sunnu attualizzi…
+settings-update-checking-for-updates =
+    .label = Staju cuntrullannu si cci sunnu attualizzi…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
