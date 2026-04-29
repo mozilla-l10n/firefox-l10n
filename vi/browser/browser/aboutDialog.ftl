@@ -29,6 +29,8 @@ update-failed-main = Cập nhật thất bại. <a data-l10n-name="failed-link-m
 update-adminDisabled = Cập nhật bị vô hiệu hóa bởi quản trị hệ thống
 update-policy-disabled = Cập nhật bị vô hiệu hoá bởi tổ chức của bạn
 update-noUpdatesFound = { -brand-short-name } đã được cập nhật
+settings-update-no-updates-found =
+    .label = { -brand-short-name } đã được cập nhật
 aboutdialog-update-checking-failed = Không thể kiểm tra bản cập nhật.
 update-otherInstanceHandlingUpdates = { -brand-short-name } đang được cập nhật bởi tiến trình khác
 
