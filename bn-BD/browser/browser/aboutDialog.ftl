@@ -28,6 +28,8 @@ update-failed-main = হালনাগাদ ব্যর্থ। <a data-l10n
 update-adminDisabled = সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে
 update-noUpdatesFound = { -brand-short-name } হালনাগাদ করা হয়েছে
 update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
