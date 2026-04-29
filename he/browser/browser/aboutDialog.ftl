@@ -50,6 +50,7 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = עדכונים זמינים ב־<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = עדכונים זמינים ב־<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = לא ניתן לבצע עדכונים נוספים במערכת זו.<label data-l10n-name="unsupported-link">מידע נוסף</label>
+settings-update-unsupported = לא ניתן לבצע עדכונים נוספים במערכת זו.<a data-l10n-name="unsupported-link">מידע נוסף</a>
 update-restarting = מתבצעת הפעלה מחדש…
 settings-update-restarting =
     .label = מתבצעת הפעלה מחדש…
