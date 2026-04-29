@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } अद्ययावत करण्यासाठी बंद करून पुन्हा चालू करा
     .accesskey = R
 update-checkingForUpdates = सुधारणांकरीता तपासणी करत आहे…
+settings-update-checking-for-updates =
+    .label = सुधारणांकरीता तपासणी करत आहे…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
