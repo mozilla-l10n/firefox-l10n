@@ -12,23 +12,37 @@ update-updateButton =
     .label = Uruchom ponownie, aby uaktualnić przeglądarkę { -brand-shorter-name }
     .accesskey = U
 update-checkingForUpdates = Poszukiwanie aktualizacji…
+settings-update-checking-for-updates =
+    .label = Poszukiwanie aktualizacji…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/> Pobieranie aktualizacji — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Pobieranie aktualizacji — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = { " " }Pobieranie aktualizacji — { $transfer }
 
 ##
 
 update-applying = Instalowanie aktualizacji…
+settings-update-applying =
+    .label = Instalowanie aktualizacji…
 update-failed = Aktualizacja się nie powiodła. <label data-l10n-name="failed-link">Pobierz najnowszą wersję</label>.
 update-failed-main = Aktualizacja się nie powiodła. <a data-l10n-name="failed-link-main">Pobierz najnowszą wersję</a>.
 update-adminDisabled = Aktualizacje zablokowane przez administratora komputera.
 update-policy-disabled = Aktualizacje zablokowane przez Twoją organizację.
+settings-update-policy-disabled =
+    .label = Aktualizacje zablokowane przez Twoją organizację.
 update-noUpdatesFound = { -brand-short-name } jest aktualny.
+settings-update-no-updates-found =
+    .label = { -brand-short-name } jest aktualny.
 aboutdialog-update-checking-failed = Sprawdzenie dostępności aktualizacji się nie powiodło.
+settings-update-checking-failed =
+    .label = Sprawdzenie dostępności aktualizacji się nie powiodło.
 update-otherInstanceHandlingUpdates = Inna instancja właśnie aktualizuje program { -brand-short-name }.
+settings-update-other-instance-handling-updates =
+    .label = Inna instancja właśnie aktualizuje program { -brand-short-name }.
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -36,8 +50,12 @@ update-otherInstanceHandlingUpdates = Inna instancja właśnie aktualizuje progr
 aboutdialog-update-manual-with-link = Aktualizacje są dostępne na <label data-l10n-name="manual-link">{ $displayUrl }</label>.
 settings-update-manual-with-link = Aktualizacje są dostępne na <a data-l10n-name="manual-link">{ $displayUrl }</a>.
 update-unsupported = Dalsze aktualizacje na tym systemie nie są możliwe. <label data-l10n-name="unsupported-link">Więcej informacji</label>.
+settings-update-unsupported = Dalsze aktualizacje na tym systemie nie są możliwe. <a data-l10n-name="unsupported-link">Więcej informacji</a>.
 update-restarting = Ponowne uruchamianie…
+settings-update-restarting =
+    .label = Ponowne uruchamianie…
 update-internal-error2 = Nie można sprawdzić dostępności aktualizacji z powodu błędu wewnętrznego. Aktualizacje są dostępne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Nie można sprawdzić dostępności aktualizacji z powodu błędu wewnętrznego. Aktualizacje są dostępne na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
