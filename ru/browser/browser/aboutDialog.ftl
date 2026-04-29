@@ -30,6 +30,8 @@ update-adminDisabled = Обновления отключены вашим сис
 update-policy-disabled = Обновления отключены вашей организацией
 update-noUpdatesFound = Установлена последняя версия { -brand-short-name }
 aboutdialog-update-checking-failed = Не удалось проверить наличие обновлений.
+settings-update-checking-failed =
+    .label = Не удалось проверить наличие обновлений.
 update-otherInstanceHandlingUpdates = { -brand-short-name } обновляется другим процессом
 
 ## Variables:
@@ -40,6 +42,7 @@ settings-update-manual-with-link = Обновления доступны на <a
 update-unsupported = Вы не можете производить дальнейшие обновления на этой системе. <label data-l10n-name="unsupported-link">Подробнее</label>
 update-restarting = Перезапуск…
 update-internal-error2 = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
