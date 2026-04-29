@@ -679,6 +679,9 @@ update-application-description = Используйте последнюю ве�
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Версия { $version } <a data-l10n-name="learn-more">Что нового</a>
+update-history-2 =
+    .label = Показать журнал обновлений
+    .accesskey = ж
 update-history =
     .label = Показать журнал обновлений…
     .accesskey = ж
