@@ -41,6 +41,10 @@ fxa-menu-send-to-mobile =
            *[many] Даслаць { $tabCount } картак на мабільны
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Уключыць сінхранізацыю для адпраўкі картак
+fxa-menu-send-to-mobile-connect-phone2 = Падключыце свой тэлефон
+fxa-menu-send-to-mobile-device-missing2 = Не бачыце вашай прылады?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Уключыць сінхранізацыю для адпраўкі картак
 fxa-menu-send-to-mobile-connect-phone =
