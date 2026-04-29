@@ -36,6 +36,7 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = 此网站请求访问您的 MIDI（乐器数字接口）设备，安装附加组件后可实现访问。
 site-permission-install-first-prompt-midi-message = 此访问不一定安全，请仅在您信任此网站时才继续。
+site-permission-install-first-prompt-serial-message = 此访问不一定安全，请仅在您信任此网站时才继续。
 
 ##
 

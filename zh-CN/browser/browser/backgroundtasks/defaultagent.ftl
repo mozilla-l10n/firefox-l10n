@@ -6,4 +6,5 @@ default-browser-agent-task-description = “默认浏览器代理”计划任务
 default-browser-notification-header-text = 要继续使用 { -brand-short-name } 吗？
 default-browser-notification-body-text = 您的默认浏览器最近有更改，点击以将 { -brand-short-name } 恢复为默认浏览器。
 default-browser-notification-yes-button-text = 是
+default-browser-notification-privacy-no-button-text = 不了，谢谢
 default-browser-notification-no-button-text = 否
