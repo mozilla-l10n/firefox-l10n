@@ -50,8 +50,12 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = Opdateringer tilgængelige fra <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Opdateringer tilgængelige fra <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Du kan ikke foretage yderligere opdateringer på dette system. <label data-l10n-name="unsupported-link">Læs mere</label>
+settings-update-unsupported = Du kan ikke foretage yderligere opdateringer på dette system. <a data-l10n-name="unsupported-link">Læs mere</a>
 update-restarting = Genstarter…
+settings-update-restarting =
+    .label = Genstarter…
 update-internal-error2 = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Kan ikke søge efter opdateringer på grund af en intern fejl. Opdateringer er tilgængelige på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
