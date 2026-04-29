@@ -82,12 +82,15 @@ experimental-features-newtab-widget-lists-and-timer-description = Yapılacaklar 
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Hava durumu
+experimental-features-newtab-widget-weather-description = Saatlik hava tahminleriyle günün hava durumunu net bir şekilde görün. <a data-l10n-name="connect">Görüş bildirin</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Günün resmi
+experimental-features-newtab-widget-picture-of-the-day-description = Gününüze güzellik katın. Bir çırpıda yeni bir resim görün, ilginç bir şeyler öğrenin ve duvar kâğıdınızı değiştirin. <a data-l10n-name="connect">Görüş bildirin</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Saatler
+experimental-features-newtab-widget-clocks-description = Sizin için önemli konumlardaki saati görmek için dört adede kadar saat ekleyebilir ve hepsine isim verebilirsiniz. <a data-l10n-name="connect">Görüş bildirin</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantik geçmiş araması
