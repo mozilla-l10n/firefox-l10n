@@ -32,6 +32,8 @@ update-failed = తాజాకరణ విఫలమైంది. <label data-l
 update-failed-main = తాజాకరణ విఫలమైంది. <a data-l10n-name="failed-link-main">సరికొత్త వెర్షన్‌ను దింపుకోండి</a>
 update-adminDisabled = మీ సిస్టమ్ నిర్వహణాధికారి తాజాకరణలను అచేతనం చేసారు
 update-policy-disabled = తాజాకరణలను మీ సంస్థ అచేతనం చేసింది
+settings-update-policy-disabled =
+    .label = తాజాకరణలను మీ సంస్థ అచేతనం చేసింది
 update-noUpdatesFound = { -brand-short-name } తాజాగా ఉంది
 settings-update-no-updates-found =
     .label = { -brand-short-name } తాజాగా ఉంది
