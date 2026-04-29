@@ -12,6 +12,8 @@ update-updateButton =
     .label = Рестартирај за да се надгради { -brand-shorter-name }
     .accesskey = Р
 update-checkingForUpdates = Проверувам за надградби…
+settings-update-checking-for-updates =
+    .label = Проверувам за надградби…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
