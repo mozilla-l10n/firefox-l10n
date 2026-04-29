@@ -448,6 +448,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = 重新啟動 { -brand-short-name } 來套用變更
 confirm-browser-language-change-button = 套用並重新啟動
+browser-language-install-error =
+    .message = { -brand-short-name } 目前無法更新您的語言套件。請確認您是否已連線至網際網路，或可再試一次。
 translate-web-pages =
     .label = 翻譯網頁內容
     .accesskey = T
@@ -641,7 +643,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } 應如何處理其他檔案？
 applications-save-for-new-types =
@@ -700,6 +702,9 @@ update-in-progress-ok-button = 捨棄 (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1419,7 +1424,7 @@ forms-ask-to-save-logins =
     .label = 向您詢問是否要記住網站的登入帳號與密碼
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1520,6 +1525,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 了解更多
 forms-windows-sso-desc = 可到您的裝置設定畫面管理帳號
 windows-passkey-settings-label = 到系統設定中管理密碼金鑰
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
