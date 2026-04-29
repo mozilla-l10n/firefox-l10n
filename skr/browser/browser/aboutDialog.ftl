@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } اپڈیٹ دوبارہ شروع کرو
     .accesskey = R
 update-checkingForUpdates = اپڈیٹ کیتے ݙیکھدا پیا ہے…
+settings-update-checking-for-updates =
+    .label = اپڈیٹ کیتے ݙیکھدا پیا ہے…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
