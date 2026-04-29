@@ -20,6 +20,8 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = আপডেট ডাউনল'ড হৈ আছে — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = আপডেট ডাউনল'ড হৈ আছে — { $transfer }
 
 ##
 
@@ -30,8 +32,14 @@ update-failed = আপডেট ব্যৰ্থ। <label data-l10n-name="fai
 update-failed-main = আপডেট ব্যৰ্থ। <a data-l10n-name="failed-link-main">শেহতীয়া সংস্কৰণ ডাউনল'ড কৰক</a>
 update-adminDisabled = আপডেটসমূহ আপোনাৰ চিস্টেম ব্যৱস্থাপকৰ দ্বাৰা অক্ষম কৰি থোৱা হৈছে
 update-noUpdatesFound = { -brand-short-name } আপ টু ডেট আছে
+settings-update-no-updates-found =
+    .label = { -brand-short-name } আপ টু ডেট আছে
 aboutdialog-update-checking-failed = আপডে’ট আছে নে নাই— পৰীক্ষা কৰাত বিফল।
+settings-update-checking-failed =
+    .label = আপডে’ট আছে নে নাই— পৰীক্ষা কৰাত বিফল।
 update-otherInstanceHandlingUpdates = { -brand-short-name } ক অন্য এটা উদাহৰণ দ্বাৰা আপডেইট কৰা হৈ আছে
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } ক অন্য এটা উদাহৰণ দ্বাৰা আপডেইট কৰা হৈ আছে
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -39,8 +47,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } ক অন্য এ
 aboutdialog-update-manual-with-link = আপডেটসমূহ <label data-l10n-name="manual-link">{ $displayUrl }</label>ত উপলব্ধ
 settings-update-manual-with-link = আপডেটসমূহ <a data-l10n-name="manual-link">{ $displayUrl }</a>ত উপলব্ধ
 update-unsupported = আপুনি এই চিস্টেমত ততোধিক আপডেইট পৰিৱেশন কৰিব নোৱাৰিব। <label data-l10n-name="unsupported-link">অধিক জানক</label>
+settings-update-unsupported = আপুনি এই চিস্টেমত ততোধিক আপডেইট পৰিৱেশন কৰিব নোৱাৰিব। <a data-l10n-name="unsupported-link">অধিক জানক</a>
 update-restarting = পুনৰাৰম্ভ হৈ আছে…
+settings-update-restarting =
+    .label = পুনৰাৰম্ভ হৈ আছে…
 update-internal-error2 = ভিতৰুৱা ত্ৰুটিৰ কাৰণে আপডে’ট আছে নে নাই তাৰ পৰীক্ষা কৰিব পৰা নগ’ল। <label data-l10n-name="manual-link">{ $displayUrl }</label>-ত আপডে’টবোৰ উপলব্ধ
+settings-update-internal-error = ভিতৰুৱা ত্ৰুটিৰ কাৰণে আপডে’ট আছে নে নাই তাৰ পৰীক্ষা কৰিব পৰা নগ’ল। <a data-l10n-name="manual-link">{ $displayUrl }</a>-ত আপডে’টবোৰ উপলব্ধ
 
 ##
 
