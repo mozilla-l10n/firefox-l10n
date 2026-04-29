@@ -25,6 +25,8 @@ update-noUpdatesFound = { -brand-short-name } isesikhathini
 settings-update-no-updates-found =
     .label = { -brand-short-name } isesikhathini
 update-otherInstanceHandlingUpdates = I-{ -brand-short-name } ifakwe ukwaziswa kwamuva ngenye indlela
+settings-update-other-instance-handling-updates =
+    .label = I-{ -brand-short-name } ifakwe ukwaziswa kwamuva ngenye indlela
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -32,6 +34,7 @@ update-otherInstanceHandlingUpdates = I-{ -brand-short-name } ifakwe ukwaziswa k
 aboutdialog-update-manual-with-link = Ukuvuselelwa kutholakala ku-<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ukuvuselelwa kutholakala ku-<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Awukwazi ukwenza ukufaka ukwaziswa kwamuva okuthuthukile kulolu hlelo. <label data-l10n-name="unsupported-link">Funda kabanzi</label>
+settings-update-unsupported = Awukwazi ukwenza ukufaka ukwaziswa kwamuva okuthuthukile kulolu hlelo. <a data-l10n-name="unsupported-link">Funda kabanzi</a>
 
 ##
 
