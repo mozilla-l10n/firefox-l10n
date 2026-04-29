@@ -12,6 +12,8 @@ update-updateButton =
     .label = Start på nytt for å oppdatere { -brand-shorter-name }
     .accesskey = S
 update-checkingForUpdates = Ser etter oppdateringer …
+settings-update-checking-for-updates =
+    .label = Ser etter oppdateringer …
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -24,13 +26,23 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Installerer oppdatering …
+settings-update-applying =
+    .label = Installerer oppdatering …
 update-failed = Oppdatering mislykket. <label data-l10n-name="failed-link">Last ned den nyeste versjonen</label>
 update-failed-main = Oppdatering mislykket. <a data-l10n-name="failed-link-main">Last ned den nyeste versjonen</a>
 update-adminDisabled = Oppdateringer er avslått av systemansvarlig
 update-policy-disabled = Oppdateringer er deaktivert av organisasjonen din
+settings-update-policy-disabled =
+    .label = Oppdateringer er deaktivert av organisasjonen din
 update-noUpdatesFound = { -brand-short-name } er oppdatert
+settings-update-no-updates-found =
+    .label = { -brand-short-name } er oppdatert
 aboutdialog-update-checking-failed = Kunne ikke se etter oppdateringer.
+settings-update-checking-failed =
+    .label = Kunne ikke se etter oppdateringer.
 update-otherInstanceHandlingUpdates = { -brand-short-name } blir oppdatert av en annen instans
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } blir oppdatert av en annen instans
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -38,6 +50,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } blir oppdatert av en
 aboutdialog-update-manual-with-link = Oppdateringer er tilgjengelig på <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Oppdateringer er tilgjengelig på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Du kan ikke utføre flere oppdateringer på dette systemet. <label data-l10n-name="unsupported-link">Les mer</label>
+settings-update-unsupported = Du kan ikke utføre flere oppdateringer på dette systemet. <a data-l10n-name="unsupported-link">Les mer</a>
 update-restarting = Starter på nytt…
 update-internal-error2 = Kan ikke se etter oppdateringer på grunn av intern feil. Oppdateringer tilgjengelig på <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
