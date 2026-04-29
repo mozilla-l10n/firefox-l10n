@@ -466,6 +466,8 @@ manage-browser-languages-button =
     .accesskey = m
 confirm-browser-language-change-description = Ponovno zaženite { -brand-short-name } za uveljavitev sprememb
 confirm-browser-language-change-button = Uveljavi in ponovno zaženi
+browser-language-install-error =
+    .message = { -brand-short-name } trenutno ne more posodobiti jezikov. Preverite, ali ste povezani z internetom, in poskusite znova.
 translate-web-pages =
     .label = Prevajanje spletne vsebine
     .accesskey = T
@@ -659,7 +661,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Kaj naj { -brand-short-name } stori z ostalimi datotekami?
 applications-save-for-new-types =
@@ -718,6 +720,9 @@ update-in-progress-ok-button = &Opusti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1433,7 +1438,7 @@ forms-ask-to-save-logins =
     .label = Ponujaj shranjevanje prijav in gesel za spletne strani
     .accesskey = g
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1534,6 +1539,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
