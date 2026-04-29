@@ -15,6 +15,8 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Retwe ntoso — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Retwe ntoso — { $transfer }
 
 ##
 
@@ -25,6 +27,8 @@ update-failed = Ntoso no annkɔ yie. <label data-l10n-name="failed-link">Twe vɛ
 update-failed-main = Ntoso no annkɔ yie. <a data-l10n-name="failed-link-main">Twe vɛɛhyen a adi ekyiri koraa no</a>
 update-adminDisabled = Wo sestɛm sohwɛfo adum ntoso
 update-noUpdatesFound = { -brand-short-name } nnhia ntoso
+settings-update-no-updates-found =
+    .label = { -brand-short-name } nnhia ntoso
 update-otherInstanceHandlingUpdates = Instans foforo re to { -brand-short-name } so
 
 ## Variables:
