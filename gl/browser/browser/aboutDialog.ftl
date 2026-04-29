@@ -34,7 +34,11 @@ update-adminDisabled = O administrador do sistema desactivou as actualizacións
 update-policy-disabled = Actualizacións desactivadas pola súa organización
 update-noUpdatesFound = { -brand-short-name } está actualizado
 aboutdialog-update-checking-failed = Non se puido comprobar se hai actualizacións.
+settings-update-checking-failed =
+    .label = Non se puido comprobar se hai actualizacións.
 update-otherInstanceHandlingUpdates = { -brand-short-name } está sendo actualizado por outra instancia
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } está sendo actualizado por outra instancia
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -42,8 +46,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } está sendo actualiz
 aboutdialog-update-manual-with-link = Actualizacións dispoñíbeis en <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Actualizacións dispoñíbeis en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Non é posíbel efectuar máis actualizacións neste sistema.<label data-l10n-name="unsupported-link">Obter máis información </label>
+settings-update-unsupported = Non é posíbel efectuar máis actualizacións neste sistema.<a data-l10n-name="unsupported-link">Obter máis información </a>
 update-restarting = Reiniciando…
+settings-update-restarting =
+    .label = Reiniciando…
 update-internal-error2 = Non se pode comprobar se hai actualizacións por mor dun erro interno. As actualizacións están dispoñibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>.
+settings-update-internal-error = Non se pode comprobar se hai actualizacións por mor dun erro interno. As actualizacións están dispoñibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>.
 
 ##
 
