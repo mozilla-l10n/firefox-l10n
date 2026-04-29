@@ -12,12 +12,16 @@ update-updateButton =
     .label = അപ്ഡേറ്റ് ചെയ്യാൻ പുനരാരംഭിക്കുക { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കുന്നു…
+settings-update-checking-for-updates =
+    .label = പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കുന്നു…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>പുതുക്കല്‍ ഇറക്കിവയ്ക്കുന്നു — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = പുതുപ്പതിപ്പു് ഇറക്കിവയ്ക്കുന്നു — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = പുതുക്കല്‍ ഇറക്കിവയ്ക്കുന്നു — { $transfer }
 
 ##
 
@@ -28,7 +32,11 @@ update-failed = പുതുക്കാന്‍ കഴിഞ്ഞില്ല
 update-failed-main = പുതുക്കാന്‍ കഴിഞ്ഞില്ല.<a data-l10n-name="failed-link-main">ഏറ്റവും പുതിയ പതിപ്പു് ഇറക്കിവയ്ക്കുക</a>
 update-adminDisabled = വ്യവസ്ഥാധികാരി പുതുക്കല്‍ അനുവദിക്കുന്നില്ല
 update-policy-disabled = താങ്ങളുടെ സ്ഥാപനം പുതുക്കലുകൾ നിരുത്തി തടഞ്ഞിരിക്കുന്നു
+settings-update-policy-disabled =
+    .label = താങ്ങളുടെ സ്ഥാപനം പുതുക്കലുകൾ നിരുത്തി തടഞ്ഞിരിക്കുന്നു
 update-noUpdatesFound = { -brand-short-name } ഏറ്റവും പുതിയതാണു്
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ഏറ്റവും പുതിയതാണു്
 aboutdialog-update-checking-failed = പുതുക്കലുകൾക്കായി പരിശോധിക്കാൻ പറ്റിയില്ല
 settings-update-checking-failed =
     .label = പുതുക്കലുകൾക്കായി പരിശോധിക്കാൻ പറ്റിയില്ല
