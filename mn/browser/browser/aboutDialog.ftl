@@ -5,6 +5,8 @@
 aboutDialog-title =
     .title = { -brand-full-name }-н тухай
 update-checkingForUpdates = Шинэчлэл шалгаж байна...
+settings-update-checking-for-updates =
+    .label = Шинэчлэл шалгаж байна...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
