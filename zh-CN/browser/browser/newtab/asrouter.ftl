@@ -440,3 +440,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = 设为默认浏览器
 set-default-menu-message-primary-button-variant = 设为主浏览器
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 免费享用 50 个马甲邮箱
+relay-50-masks-announcement-subtitle = 您现可使用 50 个免费马甲（原为 5 个）。为每个账户使用不同马甲，可保护您真实邮箱地址的隐私，
+relay-50-masks-announcement-primary-button = 前往 { -relay-brand-name }
+    .accesskey = G
+relay-50-masks-announcement-secondary-button = 知道了
+    .accesskey = D

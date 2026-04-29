@@ -380,6 +380,7 @@ newtab-wallpaper-title = 壁纸
 newtab-wallpaper-reset = 重置为默认设置
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = 上传图像
+newtab-wallpaper-add-an-image = 添加图像
 newtab-wallpaper-custom-color = 选择颜色
 newtab-wallpaper-toggle-title =
     .label = 壁纸
@@ -407,6 +408,7 @@ newtab-wallpaper-light-fox-anniversary = 迷蒙山景中草地上的狐狸
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = 纯色
+newtab-wallpaper-colors = 颜色
 newtab-wallpaper-blue = 蓝色
 newtab-wallpaper-light-blue = 淡蓝色
 newtab-wallpaper-light-purple = 淡紫色
@@ -497,6 +499,9 @@ newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = 搜索位置
     .aria-label = 搜索位置
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = 使用当前位置
 newtab-weather-menu-weather-display = 天气信息显示方式
 newtab-weather-todays-forecast = 今日预报
 newtab-weather-see-full-forecast = 查看完整预报
@@ -522,6 +527,7 @@ newtab-weather-opt-in-not-now =
     .label = 暂时不要
 newtab-weather-opt-in-yes =
     .label = 好的
+newtab-weather-opt-in-headline = 获取您当地的天气预报
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 纽约市
 # "Highest" here refers to the highest temperature of the day
