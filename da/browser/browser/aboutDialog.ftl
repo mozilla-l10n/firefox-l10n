@@ -18,6 +18,8 @@ update-checkingForUpdates = Søger efter opdateringer…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Henter opdatering — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Henter opdatering — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Henter opdatering — { $transfer }
 
 ##
 
