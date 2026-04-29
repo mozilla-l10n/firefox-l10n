@@ -32,9 +32,17 @@ update-failed = Actualizare eșuată. <label data-l10n-name="failed-link">Descar
 update-failed-main = Actualizare eșuată. <a data-l10n-name="failed-link-main">Descarcă cea mai recentă versiune</a>
 update-adminDisabled = Actualizările sunt dezactivate de administratorul de sistem
 update-policy-disabled = Actualizările au fost dezactivate de organizația ta.
+settings-update-policy-disabled =
+    .label = Actualizările au fost dezactivate de organizația ta.
 update-noUpdatesFound = { -brand-short-name } este actualizat
+settings-update-no-updates-found =
+    .label = { -brand-short-name } este actualizat
 aboutdialog-update-checking-failed = Eșec la căutarea de actualizări.
+settings-update-checking-failed =
+    .label = Eșec la căutarea de actualizări.
 update-otherInstanceHandlingUpdates = { -brand-short-name } este actualizat de o altă instanță
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } este actualizat de o altă instanță
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -42,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } este actualizat de o
 aboutdialog-update-manual-with-link = Actualizări disponibile la <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Actualizări disponibile la <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nu poți efectua actualizări suplimentare pe acest sistem. <label data-l10n-name="unsupported-link">Află mai multe</label>
+settings-update-unsupported = Nu poți efectua actualizări suplimentare pe acest sistem. <a data-l10n-name="unsupported-link">Află mai multe</a>
 update-restarting = Se repornește…
+settings-update-restarting =
+    .label = Se repornește…
 update-internal-error2 = Nu a fost posibil să se verifice dacă există actualizări din cauza unei erori interne. Actualizările sunt disponibile la <label data-l10n-name="manual-link">{ $displayUrl }</label>.
+settings-update-internal-error = Nu a fost posibil să se verifice dacă există actualizări din cauza unei erori interne. Actualizările sunt disponibile la <a data-l10n-name="manual-link">{ $displayUrl }</a>.
 
 ##
 
