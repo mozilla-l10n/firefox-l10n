@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name }କୁ ଅପଡେଟ କରିବାକୁ ରିଷ୍ଟାର୍ଟ କରନ୍ତୁ
     .accesskey = ର
 update-checkingForUpdates = ଅପଡେଟସବୁ ପରଖୁଛି…
+settings-update-checking-for-updates =
+    .label = ଅପଡେଟସବୁ ପରଖୁଛି…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
