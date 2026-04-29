@@ -12,6 +12,8 @@ update-updateButton =
     .label = Startujśo znowego, aby { -brand-shorter-name } aktualizěrował
     .accesskey = z
 update-checkingForUpdates = Aktualizacije se pytaju…
+settings-update-checking-for-updates =
+    .label = Aktualizacije se pytaju…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
