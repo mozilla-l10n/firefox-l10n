@@ -2114,6 +2114,8 @@ collection-backlogged-crash-reports2 =
     .label = 自动发送崩溃报告
     .accesskey = c
 collection-backlogged-crash-reports-description = 此信息可帮助 { -vendor-short-name } 诊断和修复浏览器的问题。报告中可能包含个人或敏感数据。
+settings-redesign-promo-dismiss-button =
+    .label = 明白了
 addon-recommendations =
     .label = 允许 { -brand-short-name } 提供个性化扩展推荐
 addon-recommendations-link = 详细了解
@@ -2369,6 +2371,13 @@ preferences-doh-custom-provider-label =
     .aria-label = 输入自定义提供方的网址
 preferences-doh-header2 =
     .heading = 基于 HTTPS 的 DNS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = 连接与软件安全
+preferences-connection-link-button =
+    .label = 高级设置
 
 ## The following strings are used in the Download section of settings
 

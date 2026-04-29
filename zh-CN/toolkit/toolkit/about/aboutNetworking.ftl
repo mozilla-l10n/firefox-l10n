@@ -12,6 +12,7 @@ about-networking-dns-trr-url = DoH 网址
 about-networking-dns-trr-mode = DoH 模式
 about-networking-dns-suffix = DNS 后缀
 about-networking-websockets = WebSocket
+about-networking-alt-svc-ttl = TTL
 about-networking-refresh = 刷新
 about-networking-auto-refresh = 每 3 秒自动刷新
 about-networking-hostname = 主机名

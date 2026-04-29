@@ -351,6 +351,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = 保存
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = 删除备注
+    .aria-label = 删除备注
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = 编辑备注
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = 详细了解
 tab-note-panel-add-note-new-badge =
