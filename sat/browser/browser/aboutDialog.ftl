@@ -12,6 +12,8 @@ update-updateButton =
     .label = ᱟᱹᱯᱰᱮᱴ ᱞᱟᱹᱜᱤᱫ ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵᱽ ᱢᱮ { -brand-shorter-name }
     .accesskey = ᱟ
 update-checkingForUpdates = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱮᱫ ᱟ …
+settings-update-checking-for-updates =
+    .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱮᱫ ᱟ …
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
