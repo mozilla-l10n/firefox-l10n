@@ -25,10 +25,14 @@ settings-update-downloading-2 =
 ##
 
 update-applying = ನವೀಕರಣವನ್ನು ಅನ್ವಯಿಸಲಾಗುತ್ತಿದೆ...
+settings-update-applying =
+    .label = ನವೀಕರಣವನ್ನು ಅನ್ವಯಿಸಲಾಗುತ್ತಿದೆ...
 update-failed = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ. <label data-l10n-name="failed-link">ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‌ಲೋಡ ಮಾಡಿಕೊಳ್ಳಿ</label>
 update-failed-main = ಅಪ್‌ಡೇಟ್ ವಿಫಲಗೊಂಡಿದೆ. <a data-l10n-name="failed-link-main">ಇತ್ತೀಚಿನ ಆವೃತ್ತಿಯನ್ನು ಡೌನ್‌ಲೋಡ ಮಾಡಿಕೊಳ್ಳಿ</a>
 update-adminDisabled = ನಿಮ್ಮ ವ್ಯವಸ್ಥೆಯ ನಿರ್ವಾಹಕರಿಂದ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ
 update-noUpdatesFound = { -brand-short-name } ಅಪ್‌ಟುಡೇಟ್ ಆಗಿದೆ
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ಅಪ್‌ಟುಡೇಟ್ ಆಗಿದೆ
 update-otherInstanceHandlingUpdates = { -brand-short-name } ಅನ್ನು ಇನ್ನೊಂದು ನಿದರ್ಶನದಿಂದ ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } ಅನ್ನು ಇನ್ನೊಂದು ನಿದರ್ಶನದಿಂದ ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ
