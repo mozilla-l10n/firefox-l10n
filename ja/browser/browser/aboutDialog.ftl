@@ -12,6 +12,8 @@ update-updateButton =
     .label = 再起動して { -brand-shorter-name } を更新
     .accesskey = R
 update-checkingForUpdates = ソフトウェアの更新を確認中...
+settings-update-checking-for-updates =
+    .label = ソフトウェアの更新を確認中...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
