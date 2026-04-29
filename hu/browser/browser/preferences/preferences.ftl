@@ -460,6 +460,8 @@ manage-browser-languages-button =
     .accesskey = A
 confirm-browser-language-change-description = A { -brand-short-name } újraindítása a változtatások alkalmazásához
 confirm-browser-language-change-button = Alkalmaz és újraindítás
+browser-language-install-error =
+    .message = A { -brand-short-name } most nem tudja frissíteni a nyelveket. Ellenőrizze, hogy kapcsolódik-e az internethez, és próbálja újra.
 translate-web-pages =
     .label = Webtartalom fordítása
     .accesskey = f
@@ -653,7 +655,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Mit tegyen a { -brand-short-name } más fájlokkal?
 applications-save-for-new-types =
@@ -712,6 +714,9 @@ update-in-progress-ok-button = &Elvetés
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1431,7 +1436,7 @@ forms-ask-to-save-logins =
     .label = Felhasználónevek és jelszavak megjegyzésének megkérdezése az oldalakhoz
     .accesskey = k
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1532,6 +1537,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = További tudnivalók
 forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
 windows-passkey-settings-label = A jelkulcsok kezelése a rendszerbeállításokban
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
