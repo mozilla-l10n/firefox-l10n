@@ -12,6 +12,8 @@ update-updateButton =
     .label = Վերամեկնարկեք՝ { -brand-shorter-name }-ը թարմացնելու համար
     .accesskey = R
 update-checkingForUpdates = Ստուգվում են թարմացումները…
+settings-update-checking-for-updates =
+    .label = Ստուգվում են թարմացումները…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -30,6 +32,8 @@ update-failed = Թարմացումը չհաջողվեց:<label data-l10n-name="f
 update-failed-main = Թարմացումը չհաջողվեց:<a data-l10n-name="failed-link-main">Ներբեռնել վերջին տարբերակը</a>
 update-adminDisabled = Թարմացումներն անջատված են Ձեր համակարգի ադմինիստրատորի կողմից
 update-policy-disabled = Թարմացումներն անջատված են Ձեր կազմակերպության կողմից
+settings-update-policy-disabled =
+    .label = Թարմացումներն անջատված են Ձեր կազմակերպության կողմից
 update-noUpdatesFound = { -brand-short-name }-ն արդիական է
 settings-update-no-updates-found =
     .label = { -brand-short-name }-ն արդիական է
