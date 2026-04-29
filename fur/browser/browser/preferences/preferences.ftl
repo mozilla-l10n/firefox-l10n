@@ -625,6 +625,9 @@ update-application-description = Ten { -brand-short-name } inzornât par vê lis
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Novitâts</a>
+update-history-2 =
+    .label = Mostre cronologjie inzornaments
+    .accesskey = M
 update-history =
     .label = Mostre cronologjie inzornaments…
     .accesskey = M
@@ -641,6 +644,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Cuant che { -brand-short-name } nol è in esecuzion
     .accesskey = C
+update-application-warning-cross-user-setting-2 =
+    .message = Cheste impostazion e vignarà aplicade a ducj i account di Windows e ai profîi di { -brand-short-name } che a doprin cheste instalazion di { -brand-short-name }.
 update-application-warning-cross-user-setting = Cheste impostazion e vignarà aplicade a ducj i account di Windows e ai profîi di { -brand-short-name } che a doprin cheste instalazion di { -brand-short-name }.
 update-application-use-service =
     .label = Dopre un servizi in sotfont par instalâ i inzornaments
