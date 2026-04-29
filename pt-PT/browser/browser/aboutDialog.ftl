@@ -32,6 +32,8 @@ update-failed = A atualização falhou. <label data-l10n-name="failed-link">Tran
 update-failed-main = A atualização falhou. <a data-l10n-name="failed-link-main">Transferir a versão mais recente</a>
 update-adminDisabled = Atualizações desativadas pelo seu administrador do sistema
 update-policy-disabled = Atualizações desativadas pela sua organização
+settings-update-policy-disabled =
+    .label = Atualizações desativadas pela sua organização
 update-noUpdatesFound = O { -brand-short-name } está atualizado
 settings-update-no-updates-found =
     .label = O { -brand-short-name } está atualizado
