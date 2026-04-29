@@ -52,7 +52,10 @@ settings-update-manual-with-link = Oppdateringer er tilgjengelig på <a data-l10
 update-unsupported = Du kan ikke utføre flere oppdateringer på dette systemet. <label data-l10n-name="unsupported-link">Les mer</label>
 settings-update-unsupported = Du kan ikke utføre flere oppdateringer på dette systemet. <a data-l10n-name="unsupported-link">Les mer</a>
 update-restarting = Starter på nytt…
+settings-update-restarting =
+    .label = Starter på nytt…
 update-internal-error2 = Kan ikke se etter oppdateringer på grunn av intern feil. Oppdateringer tilgjengelig på <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Kan ikke se etter oppdateringer på grunn av intern feil. Oppdateringer tilgjengelig på <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
