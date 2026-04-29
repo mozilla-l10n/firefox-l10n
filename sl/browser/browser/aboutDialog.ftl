@@ -20,6 +20,8 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>Prenašanje posodobitve – <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Prenašanje posodobitve – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Prenašanje posodobitve – { $transfer }
 
 ##
 
