@@ -18,6 +18,8 @@ update-checkingForUpdates = Проверувам за надградби…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Преземам надградба — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Се презема ажурирање — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Преземам надградба — { $transfer }
 
 ##
 
