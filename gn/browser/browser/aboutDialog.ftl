@@ -18,6 +18,8 @@ update-checkingForUpdates = Tekopyahu jehechajey…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Oñemboguejyhína tekopyahu —<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Oguejyhína ñemhekopyahu — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Oñemboguejyhína tekopyahu —{ $transfer }
 
 ##
 
