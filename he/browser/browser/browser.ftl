@@ -421,6 +421,12 @@ quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפ
 # Opens about:logins
 quickactions-logins2 = ניהול ססמאות
 quickactions-cmd-logins = כניסות, פרטי התחברות, פרטי גישה, פרטי כניסה, ססמאות, סיסמאות
+# Mutes all tabs playing audio
+quickactions-mute = השתקת לשוניות שמפעילות שמע
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = השתק, השתקה, שקט, ששש
 # Opens about:addons page in the plugins section
 quickactions-plugins = ניהול תוספים חיצוניים
 quickactions-cmd-plugins = תוספים חיצוניים

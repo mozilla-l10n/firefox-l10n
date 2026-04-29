@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Zjednodušenie ovládania
     .title = { pane-accessibility-title }
+pane-languages-title = Jazyky
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty prehliadača { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Buďte obozretní
 pane-experimental-search-results-header = Experimenty prehliadača { -brand-short-name }: postupujte opatrne
 pane-experimental-description2 = Zmeny v pokročilej konfigurácii môžu ovplyvniť výkon a bezpečnosť prehliadača { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Vyskúšajte naše experimentálne funkcie! Keďže sú stále vo vývoji, mohli by ovplyvniť fungovanie { -brand-short-name(case: "gen") }. Údaje o vašom používaní týchto funkcií dostávame iba v prípade, že máte zapnuté odosielanie <a data-l10n-name="data-collection">technických údajov a údajov o interakciách</a>.
@@ -682,6 +689,8 @@ update-application-version = Verzia { $version } <a data-l10n-name="learn-more">
 update-history-2 =
     .label = Zobraziť históriu aktualizácii
     .accesskey = h
+update-application-installation =
+    .label = Inštalácia
 update-history =
     .label = Zobraziť históriu aktualizácii…
     .accesskey = h
@@ -722,6 +731,13 @@ update-in-progress-ok-button = &Zrušiť
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Upozornenia
+update-application-updates-managed-by-os =
+    .message = Aktualizácie spravuje váš operačný systém
 
 ## Firefox support
 

@@ -423,6 +423,10 @@ quickactions-logins2 = Passwörter verwalten
 quickactions-cmd-logins = Zugangsdaten, Logins, Anmeldungen, Passwörter
 # Mutes all tabs playing audio
 quickactions-mute = Tabs mit Audio stummschalten
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = stumm, psst
 # Opens about:addons page in the plugins section
 quickactions-plugins = Plugins verwalten
 quickactions-cmd-plugins = Plugins
@@ -1741,4 +1745,6 @@ trustpanel-blocker-section-header2 =
 # "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
 reduced-protection-infobar-message = <strong>Sieht die Website beschädigt aus?</strong> Laden Sie die Seite neu, um den Schutz vor Aktivitätenverfolgung vorübergehend zu verringern.
 reduced-protection-infobar-reload-button = Neu laden
+    .accesskey = N
+reduced-protection-infobar-never-show-button = Nicht erneut anzeigen
     .accesskey = N

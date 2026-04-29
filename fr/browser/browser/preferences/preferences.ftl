@@ -740,8 +740,8 @@ update-in-progress-cancel-button = &Continuer
 ## Firefox updates
 
 update-application-heading =
-    .label = { -brand-short-name } mises à jour
-    .description = Des mises à jour améliorent la vitesse, la stabilité et la sécurité de { -brand-short-name }.
+    .label = Mises à jour de { -brand-short-name }
+    .description = Les mises à jour améliorent la vitesse, la stabilité et la sécurité de { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Notifications
 update-application-updates-managed-by-os =

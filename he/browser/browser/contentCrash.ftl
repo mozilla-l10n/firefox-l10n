@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = לא להציג שוב
     .accesskey = ל
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] קיים דיווח קריסה אחד מהזמן האחרון שלא נשלח
+       *[other] קיימים { $reportCount } דיווחי קריסה מהזמן האחרון שלא נשלחו
+    }

@@ -422,7 +422,7 @@ quickactions-cmd-inspector = inspecteur, outils de développement
 quickactions-logins2 = Gérer les mots de passe
 quickactions-cmd-logins = identifiants, mots de passe
 # Mutes all tabs playing audio
-quickactions-mute = Couper le son des onglets lors de la lecture audio
+quickactions-mute = Couper le son des onglets diffusant du son
 # List of words that would trigger the "mute tabs" action from the address bar.
 # Replace with idiomatic expressions in your language to silence something or
 # someone.

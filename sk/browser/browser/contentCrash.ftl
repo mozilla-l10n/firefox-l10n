@@ -53,3 +53,12 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Nabudúce nezobrazovať
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Máte jedno nedávne neodoslané hlásenie o zlyhaní
+        [few] Máte { $reportCount } nedávne neodoslané hlásenia o zlyhaní
+        [many] Máte { $reportCount } nedávnych neodoslaných hlásení o zlyhaní
+       *[other] Máte { $reportCount } nedávnych neodoslaných hlásení o zlyhaní
+    }

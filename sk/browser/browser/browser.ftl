@@ -421,6 +421,12 @@ quickactions-cmd-inspector = prieskumník, vývojárske nástroje
 # Opens about:logins
 quickactions-logins2 = Spravovať heslá
 quickactions-cmd-logins = prihlasovacie údaje, heslá
+# Mutes all tabs playing audio
+quickactions-mute = Stlmiť karty prehrávajúce zvuk
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = stlmiť, ticho, pšššt
 # Opens about:addons page in the plugins section
 quickactions-plugins = Spravovať zásuvné moduly
 quickactions-cmd-plugins = zásuvné moduly
@@ -1795,3 +1801,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Stránka vyzerá nefunkčne?</strong> Znova načítajte stránku, aby ste dočasne znížili ochranu pred sledovaním.
 reduced-protection-infobar-reload-button = Znova načítať
     .accesskey = Z
+reduced-protection-infobar-never-show-button = Nabudúce nezobrazovať
+    .accesskey = N
