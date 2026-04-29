@@ -676,6 +676,9 @@ update-application-description = En yüksek performans, güvenilirlik ve güvenl
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Sürüm { $version } <a data-l10n-name="learn-more">Yeni neler var?</a>
+update-history-2 =
+    .label = Güncelleme geçmişini göster
+    .accesskey = c
 update-history =
     .label = Güncelleme geçmişini göster…
     .accesskey = c
