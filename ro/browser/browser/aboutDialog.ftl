@@ -18,6 +18,8 @@ update-checkingForUpdates = Se caută actualizări…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Se descarcă actualizarea — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Se descarcă actualizarea — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Se descarcă actualizarea — { $transfer }
 
 ##
 
