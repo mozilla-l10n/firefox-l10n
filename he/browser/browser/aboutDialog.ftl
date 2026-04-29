@@ -26,13 +26,23 @@ settings-update-downloading-2 =
 ##
 
 update-applying = מחיל עדכון…
+settings-update-applying =
+    .label = מחיל עדכון…
 update-failed = העדכון נכשל. <label data-l10n-name="failed-link">הורדת הגרסה האחרונה</label>
 update-failed-main = העדכון נכשל. <a data-l10n-name="failed-link-main">הורדת הגרסה האחרונה</a>
 update-adminDisabled = עדכונים נוטרלו על־ידי מנהל המערכת שלך
 update-policy-disabled = העדכונים הושבתו על־ידי הארגון שלך
+settings-update-policy-disabled =
+    .label = העדכונים הושבתו על־ידי הארגון שלך
 update-noUpdatesFound = { -brand-short-name } עדכני
+settings-update-no-updates-found =
+    .label = { -brand-short-name } עדכני
 aboutdialog-update-checking-failed = בדיקת העדכונים נכשלה.
+settings-update-checking-failed =
+    .label = בדיקת העדכונים נכשלה.
 update-otherInstanceHandlingUpdates = { -brand-short-name } מתעדכן ברגעים אלו באמצעות תהליך אחר
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } מתעדכן ברגעים אלו באמצעות תהליך אחר
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
