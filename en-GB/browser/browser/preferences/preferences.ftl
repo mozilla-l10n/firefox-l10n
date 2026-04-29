@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Accessibility
     .title = { pane-accessibility-title }
+pane-languages-title = Languages
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } Experiments
 category-experimental =
     .tooltiptext = { -brand-short-name } Experiments
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Proceed with Caution
 pane-experimental-search-results-header = { -brand-short-name } Experiments: Proceed with Caution
 pane-experimental-description2 = Changing advanced configuration settings can impact { -brand-short-name } performance or security.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Give our experimental features a try! They’re in development and evolving, which could impact how { -brand-short-name } works. We only receive data about your use of these features if you have <a data-l10n-name="data-collection">technical and interaction data</a> turned on.
@@ -460,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Restart { -brand-short-name } to apply these changes
 confirm-browser-language-change-button = Apply and Restart
+browser-language-heading =
+    .label = Browser language
+    .description = Choose the language used to display menus, messages and notifications from { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Preferred language
+browser-language-fallback-label =
+    .label = Fallback language
+    .description = Used when preferred language localisation is incomplete.
 browser-language-install-error =
     .message = { -brand-short-name } can’t update your languages right now. Check that you are connected to the internet or try again.
 translate-web-pages =
@@ -679,6 +694,8 @@ update-application-version = Version { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Show Update History
     .accesskey = p
+update-application-installation =
+    .label = Installation
 update-history =
     .label = Show Update History…
     .accesskey = p
@@ -719,6 +736,16 @@ update-in-progress-ok-button = &Discard
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } updates
+    .description = Updates improve { -brand-short-name }’s speed, stability and security.
+update-application-suppress-prompts-heading =
+    .label = Notifications
+update-application-updates-managed-by-os =
+    .message = Updates are managed by your operating system
 
 ## Firefox support
 
@@ -1012,6 +1039,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Choose a wallpaper
 home-prefs-choose-wallpaper-link2 =
     .label = Choose a wallpaper
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = To use these features, set new tabs or new windows to { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1539,6 +1571,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Learn more
 forms-windows-sso-desc = Manage accounts in your device settings
 windows-passkey-settings-label = Manage passkeys in system settings
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Privacy panel settings
+    .description = Get help protecting your info online in { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Show breach messages
+    .accesskey = s
 
 ## OS Authentication dialog
 

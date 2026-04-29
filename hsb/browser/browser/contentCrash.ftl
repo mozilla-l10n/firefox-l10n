@@ -54,3 +54,12 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Hižo so njepokazać
     .accesskey = H
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Maće { $reportCount } nowy njewotpósłanu spadowu rozprawu
+        [two] Maće { $reportCount } nowej njewotpósłanej spadowej rozprawje
+        [few] Maće { $reportCount } nowe njewotpósłane spadowe rozprawy
+       *[other] Maće { $reportCount } nowych njewotpósłanych spadowych rozprawow
+    }

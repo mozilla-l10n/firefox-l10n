@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Bjezbarjernosć
     .title = { pane-accessibility-title }
+pane-languages-title = Rěče
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Eksperimenty { -brand-short-name }
 category-experimental =
     .tooltiptext = Eksperimenty { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Pokročujće z kedźbliwosću
 pane-experimental-search-results-header = Eksperimenty { -brand-short-name }: pokročujće z kedźbliwosću
 pane-experimental-description2 = Hdyž nastajenja rozšěrjeneje konfiguracije změniće, móže to wukon abo wěstotu { -brand-short-name } wobwliwować.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Wupruwujće naše eksperimentelne funkcije! Su we wuwiću, štož móže wobwliwować, kak { -brand-short-name } funguje. Dóstawamy jenož daty wo wašim wužiwanju tutych funkcijow, jeli sće <a data-l10n-name="data-collection">techniske a interakciske daty</a> zmóžnił.
@@ -466,6 +473,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Startujće { -brand-short-name } znowa, zo byšće tute změny nałožił
 confirm-browser-language-change-button = Nałožić a znowa startować
+browser-language-heading =
+    .label = Rěč wobhladowaka
+    .description = Wubjerće rěč, kotraž so wužiwa, zo by menije, powěsće a zdźělenki z { -brand-short-name } pokazała.
+browser-language-preferred-label =
+    .label = Preferowana rěč
+browser-language-fallback-label =
+    .label = Narunanska rěč
+    .description = Wužiwa so, hdyž lokalizacije w preferowanej rěči je njedospołna.
 browser-language-install-error =
     .message = { -brand-short-name } njemóže waše rěče hnydom aktualizować. Přepruwujće, hač sće z internetom zwjazany abo spytajće hišće raz.
 translate-web-pages =
@@ -685,6 +700,8 @@ update-application-version = Wersija { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Aktualizacisku historiju pokazać
     .accesskey = h
+update-application-installation =
+    .label = Instalacija
 update-history =
     .label = Aktualizacisku historiju pokazać…
     .accesskey = h
@@ -725,6 +742,16 @@ update-in-progress-ok-button = &Zaćisnyć
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
+
+## Firefox updates
+
+update-application-heading =
+    .label = Aktualizacije { -brand-short-name }
+    .description = Aktualizacije spěšnosć, stabilnosć a wěstotu { -brand-short-name } polěpšuja.
+update-application-suppress-prompts-heading =
+    .label = Zdźělenki
+update-application-updates-managed-by-os =
+    .message = Aktualizacije so přez waš dźěłowy system rjaduja
 
 ## Firefox support
 
@@ -1018,6 +1045,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Wubjerće pozadkowy wobraz
 home-prefs-choose-wallpaper-link2 =
     .label = Wubjerće pozadkowy wobraz
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Zi byšće tute funkcije wužiwał, stajće nowe rajtarki abo nowe wokna do { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1547,6 +1579,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Dalše informacije
 forms-windows-sso-desc = Konta we wašich gratowych nastajenjach rjadować
 windows-passkey-settings-label = Hesłowe kluče w systemowych nastajenjach rjadować
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Nastajenja wokna priwatnosće
+    .description = Wobstarajće sej pomoc, zo byšće swoje informacije online w { -brand-short-name } škitał.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Powěsće datoweje dźěry pokazać
+    .accesskey = P
 
 ## OS Authentication dialog
 
