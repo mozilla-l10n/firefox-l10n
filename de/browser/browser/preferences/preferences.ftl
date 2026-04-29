@@ -467,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = S
 confirm-browser-language-change-description = { -brand-short-name } muss neu gestartet werden, um die Änderungen zu übernehmen.
 confirm-browser-language-change-button = Anwenden und neu starten
+browser-language-heading =
+    .label = Browser-Sprache
+    .description = Sprache für die Anzeige von Menüs, Mitteilungen und Benachrichtigungen von { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Bevorzugte Sprache
+browser-language-fallback-label =
+    .label = Alternative Sprache
+    .description = Verwendet, wenn die bevorzugte Sprachlokalisierung unvollständig ist.
 browser-language-install-error =
     .message = { -brand-short-name } kann Ihre Sprachen momentan nicht aktualisieren. Überprüfen Sie, ob Sie mit dem Internet verbunden sind, oder versuchen Sie es erneut.
 translate-web-pages =
@@ -728,6 +736,16 @@ update-in-progress-ok-button = &Verwerfen
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortfahren
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name }-Updates
+    .description = Updates verbessern die Geschwindigkeit, Stabilität und Sicherheit von { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Benachrichtigungen
+update-application-updates-managed-by-os =
+    .message = Updates werden durch Ihr Betriebssystem verwaltet
 
 ## Firefox support
 

@@ -1027,6 +1027,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = 배경 화면 선택
 home-prefs-choose-wallpaper-link2 =
     .label = 배경 화면 선택
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = 이러한 기능을 사용하려면, 새 탭이나 새 창을 { -firefox-home-brand-name }으로 설정하세요.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1550,6 +1555,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 더 알아보기
 forms-windows-sso-desc = 기기 설정에서 계정 관리를 합니다.
 windows-passkey-settings-label = 시스템 설정에서 패스키 관리
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = 개인 정보 패널 설정
+    .description = { -brand-short-name }에서 온라인 개인 정보 보호에 대한 도움을 받으세요.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = 유출 메시지 보기
+    .accesskey = s
 
 ## OS Authentication dialog
 

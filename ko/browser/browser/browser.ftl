@@ -1657,3 +1657,5 @@ trustpanel-blocker-section-header2 = 이 사이트에서 추적기 <span data-l1
 reduced-protection-infobar-message = <strong>사이트가 손상된 것 같나요?</strong> 추적 방지 기능을 일시적으로 낮추려면 페이지를 새로 고침하세요.
 reduced-protection-infobar-reload-button = 새로 고침
     .accesskey = R
+reduced-protection-infobar-never-show-button = 다시 표시 안 함
+    .accesskey = D

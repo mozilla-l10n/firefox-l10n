@@ -421,6 +421,8 @@ quickactions-cmd-inspector = Inspektor, Entwicklertools
 # Opens about:logins
 quickactions-logins2 = Passwörter verwalten
 quickactions-cmd-logins = Zugangsdaten, Logins, Anmeldungen, Passwörter
+# Mutes all tabs playing audio
+quickactions-mute = Tabs mit Audio stummschalten
 # Opens about:addons page in the plugins section
 quickactions-plugins = Plugins verwalten
 quickactions-cmd-plugins = Plugins
