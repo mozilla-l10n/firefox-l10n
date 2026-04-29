@@ -19,14 +19,20 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>হালনাগাদ ডাউনলোড করা হচ্ছে — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = হালনাগাদ ডাউনলোড করা হচ্ছে — { $transfer }
 
 ##
 
 update-applying = হালানাগাদ প্রয়োগ করা হচ্ছে…
+settings-update-applying =
+    .label = হালানাগাদ প্রয়োগ করা হচ্ছে…
 update-failed = হালনাগাদ ব্যর্থ। <label data-l10n-name="failed-link">সর্বশেষ সংস্করণ ডাউনলোড করুন</label>
 update-failed-main = হালনাগাদ ব্যর্থ। <a data-l10n-name="failed-link-main">সর্বশেষ সংস্করণ ডাউনলোড করুন</a>
 update-adminDisabled = সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে
 update-noUpdatesFound = { -brand-short-name } হালনাগাদ করা হয়েছে
+settings-update-no-updates-found =
+    .label = { -brand-short-name } হালনাগাদ করা হয়েছে
 update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } অন্য স্থানে হালনাগাদ হয়েছে
