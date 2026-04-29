@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } আপডেট কৰিবলৈ পুনৰাৰম্ভ কৰক
     .accesskey = R
 update-checkingForUpdates = আপডেটৰ বাবে পৰিক্ষা চলি আছে…
+settings-update-checking-for-updates =
+    .label = আপডেটৰ বাবে পৰিক্ষা চলি আছে…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
