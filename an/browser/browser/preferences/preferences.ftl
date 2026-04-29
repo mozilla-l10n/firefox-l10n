@@ -185,6 +185,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reiniciar { -brand-short-name } pa aplicar estes cambios
 confirm-browser-language-change-button = Aplicar y reiniciar
+browser-language-install-error =
+    .message = { -brand-short-name } no puet actualizar agora mesmo los idiomas. Comprebe que ye connectau a internet u torne-lo a prebar.
 translate-web-pages =
     .label = Traducir o conteniu web
     .accesskey = T
@@ -305,7 +307,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = Conteniu DRM (Digital Rights Management, Chestión de dreitos dichitals)
@@ -342,6 +344,12 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continar
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -397,6 +405,9 @@ browsing-cfr-recommendations-learn-more = Saber-ne mas
 browsing-group =
     .label = Navegación
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Configuración de ret
@@ -446,6 +457,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usar o marcapachinas…
     .accesskey = m
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -559,6 +576,9 @@ containers-new-tab-check =
 containers-remove-button =
     .label = Borrar
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -598,6 +618,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } no ye verificau.
 sync-signedin-login-failure = Enciete una sesión ta reconnectar { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -730,7 +755,7 @@ forms-ask-to-save-logins =
     .label = Demandar alzar usuarios y claus d'os puestos web
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Excepcions…
@@ -769,6 +794,9 @@ forms-primary-pw-former-name = Anteriorment clamada «Clau mayestra»
 forms-primary-pw-fips-title = Actualment ye en modo FIPS. FIPS requiere una clau primaria.
 forms-master-pw-fips-desc = O cambio de clau ha fallau
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -779,6 +807,9 @@ primary-password-os-auth-dialog-message-win = Pa crear una clau primaria, escrib
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Crear una clau primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -869,6 +900,12 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies y datos de puestos web
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1040,6 +1077,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Veyer estudios de { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1084,8 +1124,26 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = No activar lo modo Nomás-HTTPS
 
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Trigar a carpeta de descargas:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
