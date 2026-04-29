@@ -18,6 +18,8 @@ update-checkingForUpdates = O klask hizivadennoù…
 
 settings-update-downloading = <img data-l10n-name="icon"/>O pellgargañ an hizivadenn — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = O pellgargañ an hizivadenn —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = O pellgargañ an hizivadenn — { $transfer }
 
 ##
 
