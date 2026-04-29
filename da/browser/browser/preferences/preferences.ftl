@@ -453,6 +453,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Genstart { -brand-short-name } for at anvende ændringerne
 confirm-browser-language-change-button = Genstart
+browser-language-install-error =
+    .message = { -brand-short-name } kan ikke opdatere dine sprog lige nu. Kontrollér din internetforbindelse eller prøv igen.
 translate-web-pages =
     .label = Oversæt webindhold
     .accesskey = O
@@ -643,7 +645,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Hvad skal { -brand-short-name } gøre med andre filer?
 applications-save-for-new-types =
@@ -702,6 +704,9 @@ update-in-progress-ok-button = &Annuller
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsæt
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -784,6 +789,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Læs mere
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1366,7 +1374,7 @@ forms-ask-to-save-logins =
     .label = Spørg om at gemme logins og adgangskoder til websteder
     .accesskey = l
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1467,6 +1475,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Læs mere
 forms-windows-sso-desc = Håndter konti i dine enhedsindstillinger
 windows-passkey-settings-label = Håndter adgangsnøgler i operativsystemets indstillinger
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2228,6 +2239,9 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = DNS via HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skrivebord
@@ -2317,3 +2331,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Formodede fingerprinters
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Formodede fingerprinters
+
+## Warnings section
+
