@@ -461,6 +461,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Repornește { -brand-short-name } pentru a aplica aceste modificări
 confirm-browser-language-change-button = Aplică și repornește
+browser-language-install-error =
+    .message = { -brand-short-name } nu poate actualiza limbile tale acum. Verifică dacă ești conectat la internet și încearcă din nou.
 translate-web-pages =
     .label = Tradu conținutul web
     .accesskey = T
@@ -654,7 +656,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Ce ar trebui să facă { -brand-short-name } cu alte fișiere?
 applications-save-for-new-types =
@@ -713,6 +715,9 @@ update-in-progress-ok-button = Înlătură
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuă
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -795,6 +800,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Află mai multe
 browsing-group =
     .label = Navigare
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1409,7 +1417,7 @@ forms-ask-to-save-logins =
     .label = Solicită salvarea autentificărilor și parolelor pentru site-urile web
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1510,6 +1518,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Află mai multe
 forms-windows-sso-desc = Gestionează conturile în setările dispozitivului
 windows-passkey-settings-label = Gestionează cheile de acces în setările de sistem
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2381,6 +2392,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Introdu o adresă URL personalizată a furnizorului
 preferences-doh-header2 =
     .heading = DNS prin HTTPS
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
