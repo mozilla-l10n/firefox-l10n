@@ -8,6 +8,8 @@ update-checkForUpdatesButton =
     .label = Саҥардыыны көрүү
     .accesskey = к
 update-checkingForUpdates = Саҥардыыны көрүү...
+settings-update-checking-for-updates =
+    .label = Саҥардыыны көрүү...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
