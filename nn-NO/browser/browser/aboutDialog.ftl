@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Installerer oppdatering…
+settings-update-applying =
+    .label = Installerer oppdatering…
 update-failed = Mislykka oppdatering. <label data-l10n-name="failed-link">Last ned den nyaste versjonen</label>
 update-failed-main = Mislykka oppdatering. <a data-l10n-name="failed-link-main">Last ned den nyaste versjonen</a>
 update-adminDisabled = Oppdateringar er avslått av systemansvarleg
