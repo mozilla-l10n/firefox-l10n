@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } اپڈیٹ دوبارہ شروع کریں
     .accesskey = R
 update-checkingForUpdates = اپڈیٹ کے لیے دیکھ رہا ہے…
+settings-update-checking-for-updates =
+    .label = اپڈیٹ کے لیے دیکھ رہا ہے…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -37,7 +39,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } دوسری جگہ س
 aboutdialog-update-manual-with-link = اپڈیٹ یہاں دستیاب ہیں  <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = اپڈیٹ یہاں دستیاب ہیں  <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = آپ اس سسٹم پر مزید اپڈیٹ نہیں کر سکتے۔<label data-l10n-name="unsupported-link">مزید سیکھیں</label>
+settings-update-unsupported = آپ اس سسٹم پر مزید اپڈیٹ نہیں کر سکتے۔<a data-l10n-name="unsupported-link">مزید سیکھیں</a>
 update-restarting = دوباره شروع ہو رہا ہے…
+settings-update-restarting =
+    .label = دوباره شروع ہو رہا ہے…
 
 ##
 
