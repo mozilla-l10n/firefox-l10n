@@ -12,6 +12,8 @@ update-updateButton =
     .label = Titikirisäx chik richin nik'ex { -brand-shorter-name }
     .accesskey = T
 update-checkingForUpdates = Tajin yekanöx taq k'exoj ruwäch…
+settings-update-checking-for-updates =
+    .label = Tajin yekanöx taq k'exoj ruwäch…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -24,12 +26,20 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Nokisäx k'exoj…
+settings-update-applying =
+    .label = Nokisäx k'exoj…
 update-failed = Man xuchäp ta ri k'exoj ruwäch. <label data-l10n-name="failed-link">Taqasaj ri k'ak'a' ruwäch</label>
 update-failed-main = Man xuchäp ta ri k'exoj ruwäch. <a data-l10n-name="failed-link-main">Taqasaj ri k'ak'a' ruwäch</a>
 update-adminDisabled = Xechup ri taq k'exoj ruma ri runuk'samajel q'inoj
 update-noUpdatesFound = { -brand-short-name } jalon chik
+settings-update-no-updates-found =
+    .label = { -brand-short-name } jalon chik
 aboutdialog-update-checking-failed = Xsach toq yekanöx taq k'exoj.
+settings-update-checking-failed =
+    .label = Xsach toq yekanöx taq k'exoj.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tajin nik'ex pa jun chik molaj
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } tajin nik'ex pa jun chik molaj
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -37,8 +47,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } tajin nik'ex pa jun 
 aboutdialog-update-manual-with-link = Wachel taq k'exoj ruwäch pa <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Wachel taq k'exoj ruwäch pa <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <label data-l10n-name="unsupported-link">Tetamäx ch'aqa' chik</label>
+settings-update-unsupported = Man tikirel ta chik nab'an taq k'exoj pa re q'inoj re'. <a data-l10n-name="unsupported-link">Tetamäx ch'aqa' chik</a>
 update-restarting = Nitikirisäx…
+settings-update-restarting =
+    .label = Nitikirisäx…
 update-internal-error2 = Man ye'ilitäj ta taq k'exoj ruma k'o jun sachoj chupam. K'o taq k'exoj pa <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Man ye'ilitäj ta taq k'exoj ruma k'o jun sachoj chupam. K'o taq k'exoj pa <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
