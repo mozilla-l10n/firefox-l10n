@@ -21,7 +21,7 @@ settings-update-checking-for-updates =
 settings-update-downloading = <img data-l10n-name="icon"/> आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
-    .label = { " " }आपडेटखौ डाउनल'ड खालाम गासिनो दं — { $transfer }
+    .label = आपडेटखौ डाउनल'ड खालाम गासिनो दं — { $transfer }
 
 ##
 

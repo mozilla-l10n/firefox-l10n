@@ -52,6 +52,6 @@ requested-crash-reports-dont-show-again =
 #   $reportCount (Number): the number of pending crash reports
 pending-crash-reports-message-new =
     { $reportCount ->
-        [one] Du har en ej skickad kraschrapport nyligen
-       *[other] Du har { $reportCount } senaste ej skickade kraschrapporter
+        [one] Du har en nyligen ej inskickad kraschrapport
+       *[other] Du har { $reportCount } nyligen ej inskickade kraschrapporter
     }

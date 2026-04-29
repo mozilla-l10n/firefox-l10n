@@ -460,7 +460,7 @@ update-application-description = بہترین کارکردگی، استحکام 
 # $version (string) - Firefox version
 update-application-version = ورژن { $version } <a data-l10n-name="learn-more"> نواں کیا ہے </a>
 update-history-2 =
-    .label = اپ ڈیٹ تاریخ ݙکھاؤ{ " " }
+    .label = اپ ڈیٹ تاریخ ݙکھاؤ
     .accesskey = p
 update-history =
     .label = اپ ڈیٹ تاریخ ݙکھاؤ …

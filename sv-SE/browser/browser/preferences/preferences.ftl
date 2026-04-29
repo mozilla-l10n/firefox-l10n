@@ -1581,7 +1581,7 @@ privacy-panel-settings-header =
 # site the user has interacted with has been involved in a known data breach
 privacy-panel-breach-alerts =
     .label = Visa intrångsmeddelanden
-    .accesskey = V
+    .accesskey = n
 
 ## OS Authentication dialog
 

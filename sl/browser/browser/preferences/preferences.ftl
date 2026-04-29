@@ -683,7 +683,7 @@ update-application-description = Ohranite { -brand-short-name } posodobljen za n
 # $version (string) - Firefox version
 update-application-version = Različica { $version } <a data-l10n-name="learn-more">Novosti</a>
 update-history-2 =
-    .label = Prikaži zgodovino posodobitev{ " " }
+    .label = Prikaži zgodovino posodobitev
     .accesskey = z
 update-history =
     .label = Prikaži zgodovino posodobitev …

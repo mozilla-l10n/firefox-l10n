@@ -426,7 +426,7 @@ quickactions-mute = Stäng av ljud för flikar
 # List of words that would trigger the "mute tabs" action from the address bar.
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
-quickactions-cmd-mute = tyst, tyst, sssssh
+quickactions-cmd-mute = tyst, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Hantera insticksmoduler
 quickactions-cmd-plugins = insticksmoduler
