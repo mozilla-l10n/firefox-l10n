@@ -54,6 +54,8 @@ settings-update-no-updates-found =
            *[other] Програм { -brand-short-name } је ажуран
         }
 aboutdialog-update-checking-failed = Провера ажурирања није успела.
+settings-update-checking-failed =
+    .label = Провера ажурирања није успела.
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира у другој инстанци
 
 ## Variables:
