@@ -674,6 +674,9 @@ update-application-description = Për punimin, qëndrueshmërinë dhe sigurinë 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Ç’ka të re</a>
+update-history-2 =
+    .label = Shfaq Historik Përditësimesh
+    .accesskey = P
 update-history =
     .label = Shfaq Historik Përditësimesh…
     .accesskey = P
@@ -690,6 +693,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Kur { -brand-short-name }-i nuk xhiron
     .accesskey = K
+update-application-warning-cross-user-setting-2 =
+    .message = Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profile { -brand-short-name } që përdorin këtë instalim të { -brand-short-name }.
 update-application-warning-cross-user-setting = Ky rregullim do të zbatohet mbi krejt llogaritë Windows dhe profile { -brand-short-name } që përdorin këtë instalim të { -brand-short-name }.
 update-application-use-service =
     .label = Për instalim përditësimesh përdor një shërbim në prapaskenë
