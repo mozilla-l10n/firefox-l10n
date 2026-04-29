@@ -676,6 +676,9 @@ update-application-description = { -brand-short-name } жақсырақ өнім
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Нұсқасы { $version } <a data-l10n-name="learn-more">Не жаңалық</a>
+update-history-2 =
+    .label = Жаңартулар тарихын көрсету
+    .accesskey = р
 update-history =
     .label = Жаңартулар тарихын көрсету…
     .accesskey = р
