@@ -107,6 +107,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Seleccionar una ubicación diferente desde la que navegar.
 ipprotecion-locations-subview-recommended-label = Recomendado
 ipprotection-locations-subview-recommended-description = Buscar la ubicación más rápida
+ipprotection-locations-subview-promo =
+    .heading = Lleve la protección más allá con { -mozilla-vpn-brand-name }
+    .message = Seleccione entre más de 300 ubicaciones y proteja todas sus aplicaciones hasta en 5 dispositivos.
 ipprotection-locations-subview-promo-button = Obtener { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -204,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Consiga aún más protección fuera de { -brand-short-name } con { -mozilla-vpn-brand-name }.
     .description = Seleccione ubicaciones de VPN personalizadas y agregue protección a todas las apps en hasta cinco dispositivos, ya sea en casa o en una red Wi-Fi pública.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Lleve la protección más allá con { -mozilla-vpn-brand-name }
+    .description = Seleccione entre más de 300 ubicaciones y proteja todas sus aplicaciones hasta en 5 dispositivos.
 
 ## IP Protection dialogs
 

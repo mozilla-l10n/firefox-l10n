@@ -82,6 +82,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantenga su li
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Pronósticos del tiempo
+experimental-features-newtab-widget-weather-description = Tenga una visión clara del clima de hoy con los pronósticos por hora. <a data-l10n-name="connect">Compartir opinión</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Foto del día
