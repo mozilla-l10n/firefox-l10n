@@ -29,6 +29,8 @@ update-policy-disabled = Diweddariadau wedi'u hanalluogi gan eich sefydliad
 update-noUpdatesFound = Mae { -brand-short-name } yn gyfredol
 aboutdialog-update-checking-failed = Wedi methu â gwirio am ddiweddariadau.
 update-otherInstanceHandlingUpdates = Mae { -brand-short-name } yn cael ei ddiweddaru gan enghraifft arall
+settings-update-other-instance-handling-updates =
+    .label = Mae { -brand-short-name } yn cael ei ddiweddaru gan enghraifft arall
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
