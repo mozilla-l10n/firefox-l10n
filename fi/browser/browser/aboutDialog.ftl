@@ -24,6 +24,8 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>Ladataan päivitystä — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Ladataan päivitystä — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Ladataan päivitystä — { $transfer }
 
 ##
 
