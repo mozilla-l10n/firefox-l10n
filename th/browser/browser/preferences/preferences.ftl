@@ -448,6 +448,8 @@ manage-browser-languages-button =
     .accesskey = ต
 confirm-browser-language-change-description = เริ่มการทำงาน { -brand-short-name } ใหม่เพื่อใช้การเปลี่ยนแปลงเหล่านี้
 confirm-browser-language-change-button = นำไปใช้แล้วเริ่มการทำงานใหม่
+browser-language-install-error =
+    .message = { -brand-short-name } ไม่สามารถอัปเดตภาษาของคุณได้ในขณะนี้ ตรวจสอบว่าคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือลองอีกครั้ง
 translate-web-pages =
     .label = แปลเนื้อหาเว็บ
     .accesskey = ป
@@ -641,7 +643,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } ควรจะทำอะไรกับไฟล์อื่น?
 applications-save-for-new-types =
@@ -700,6 +702,9 @@ update-in-progress-ok-button = &ละทิ้ง
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1415,7 +1420,7 @@ forms-ask-to-save-logins =
     .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
     .accesskey = ถ
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1516,6 +1521,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = เรียนรู้เพิ่มเติม
 forms-windows-sso-desc = จัดการบัญชีในการตั้งค่าอุปกรณ์ของคุณ
 windows-passkey-settings-label = จัดการพาสคีย์ในการตั้งค่าระบบ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
