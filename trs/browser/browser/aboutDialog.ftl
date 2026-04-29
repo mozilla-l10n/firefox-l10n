@@ -18,6 +18,8 @@ update-checkingForUpdates = Nana’uij sa naka doj…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Hìaj naninj sa nakàa<label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Hìaj nadunin sa nākà doj — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Hìaj naninj sa nakàa{ $transfer }
 
 ##
 
