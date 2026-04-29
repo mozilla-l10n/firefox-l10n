@@ -5,19 +5,23 @@
 update-checkForUpdatesButton =
     .label = Buka lokusha lokukhona
     .accesskey = B
-
 update-checkingForUpdates = Kuhlolwa lokusha...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Kungena lose kulungisiswe<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Kungena lose kulungisiswe{ $transfer }
 
 ##
 
 update-applying = Kuvusetela lokusha
-
+settings-update-applying =
+    .label = Kuvusetela lokusha
 update-noUpdatesFound = { -brand-short-name } usesekahle
+settings-update-no-updates-found =
+    .label = { -brand-short-name } usesekahle
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -28,8 +32,5 @@ settings-update-manual-with-link = Sekukhona lokusha ka<a data-l10n-name="manual
 ##
 
 warningDesc-version = { -brand-short-name } yintfo lesengakapheleli, ayitsembakali.
-
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>lokuyi<label data-l10n-name="community-exp-creditsLink">ngumkhambatsi wemhlaba wonkhe</label>losebenta kanyakanye kwentela kutsi emakhasi e-internet atfolwe ngu wonkhe wonkhe
-
 bottomLinks-license = Lwati ngetivumelwano
-
