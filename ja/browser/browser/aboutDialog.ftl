@@ -18,6 +18,8 @@ update-checkingForUpdates = ソフトウェアの更新を確認中...
 
 settings-update-downloading = <img data-l10n-name="icon"/>更新をダウンロード中 — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = 更新をダウンロード中 — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = 更新をダウンロード中 — { $transfer }
 
 ##
 
