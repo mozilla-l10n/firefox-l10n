@@ -514,6 +514,9 @@ update-application-description = Ḥrez { -brand-short-name } yettwalqem i tmell
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Lqem { $version } <a data-l10n-name="learn-more">D acu i d amaynut</a>
+update-history-2 =
+    .label = Sken-d azray n ulqqem
+    .accesskey = S
 update-history =
     .label = Sken-d azray n ulqqem…
     .accesskey = S
@@ -530,6 +533,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Mi ara yili { -brand-short-name } ur iteddu ara
     .accesskey = M
+update-application-warning-cross-user-setting-2 =
+    .message = Aɣewwaṛ-a ad yeḍḍu ɣef yimiḍanen meṛṛa n Windows akked yimeɣna { -brand-short-name } i yesseqdacen asbeddi n { -brand-short-name }.
 update-application-warning-cross-user-setting = Aɣewwaṛ-a ad yeḍḍu ɣef yimiḍanen meṛṛa n Windows akked yimeɣna { -brand-short-name } i yesseqdacen asbeddi n { -brand-short-name }.
 update-application-use-service =
     .label = Seqdec ameẓlu n ugilal i usebded n ileqman
