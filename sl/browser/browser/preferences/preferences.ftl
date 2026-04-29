@@ -682,6 +682,9 @@ update-application-description = Ohranite { -brand-short-name } posodobljen za n
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Različica { $version } <a data-l10n-name="learn-more">Novosti</a>
+update-history-2 =
+    .label = Prikaži zgodovino posodobitev{ " " }
+    .accesskey = z
 update-history =
     .label = Prikaži zgodovino posodobitev …
     .accesskey = z
@@ -698,6 +701,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Ko se { -brand-short-name } ne izvaja
     .accesskey = n
+update-application-warning-cross-user-setting-2 =
+    .message = Ta nastavitev bo uveljavljena v vseh uporabniških računih sistema Windows in profilih { -brand-short-name(sklon: "rodilnik") }, ki uporabljajo to različico.
 update-application-warning-cross-user-setting = Ta nastavitev bo uveljavljena v vseh uporabniških računih sistema Windows in profilih { -brand-short-name(sklon: "rodilnik") }, ki uporabljajo to različico.
 update-application-use-service =
     .label = Uporabi storitev za nameščanje posodobitev v ozadju
