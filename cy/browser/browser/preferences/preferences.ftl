@@ -688,6 +688,9 @@ update-application-description = Cadwch { -brand-short-name } yn gyfredol am y p
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more">Beth sy'n newydd</a>
+update-history-2 =
+    .label = Dangos Hanes Diweddaru
+    .accesskey = D
 update-history =
     .label = Dangos Hanes Diweddaru…
     .accesskey = D
