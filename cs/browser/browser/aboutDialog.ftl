@@ -20,12 +20,16 @@ update-updateButton =
         }
     .accesskey = R
 update-checkingForUpdates = Kontrola aktualizací…
+settings-update-checking-for-updates =
+    .label = Kontrola aktualizací…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Stahování aktualizace — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Stahování aktualizace — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Stahování aktualizace — { $transfer }
 
 ##
 
@@ -43,6 +47,14 @@ update-otherInstanceHandlingUpdates =
         [neuter] { -brand-short-name } je aktualizováno jinou instancí
        *[other] Aplikace { -brand-short-name } je aktualizována jinou instancí
     }
+settings-update-other-instance-handling-updates =
+    .label =
+        { -brand-short-name.gender ->
+            [masculine] { -brand-short-name } je aktualizován jinou instancí
+            [feminine] { -brand-short-name } je aktualizována jinou instancí
+            [neuter] { -brand-short-name } je aktualizováno jinou instancí
+           *[other] Aplikace { -brand-short-name } je aktualizována jinou instancí
+        }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -50,8 +62,12 @@ update-otherInstanceHandlingUpdates =
 aboutdialog-update-manual-with-link = Aktualizace jsou dostupné na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Aktualizace jsou dostupné na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Na tomto systému nelze provádět další aktualizace. <label data-l10n-name="unsupported-link">Zjistit více</label>
+settings-update-unsupported = Na tomto systému nelze provádět další aktualizace. <a data-l10n-name="unsupported-link">Zjistit více</a>
 update-restarting = Restartování…
+settings-update-restarting =
+    .label = Restartování…
 update-internal-error2 = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
