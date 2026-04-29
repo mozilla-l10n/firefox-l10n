@@ -32,9 +32,17 @@ update-failed = Надградбата не успеа. <label data-l10n-name="f
 update-failed-main = Надградбата не успеа. <a data-l10n-name="failed-link-main">Преземете ја најновата верзија</a>
 update-adminDisabled = Вашиот системски администратор ги има оневозможено надградбите
 update-policy-disabled = Надградбите се оневозможени од Вашата организација
+settings-update-policy-disabled =
+    .label = Надградбите се оневозможени од Вашата организација
 update-noUpdatesFound = Нема надградби за { -brand-short-name }
+settings-update-no-updates-found =
+    .label = Нема надградби за { -brand-short-name }
 aboutdialog-update-checking-failed = Неуспешна проверка за ажурирања.
+settings-update-checking-failed =
+    .label = Неуспешна проверка за ажурирања.
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира од друга инстанца
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } се ажурира од друга инстанца
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -42,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира 
 aboutdialog-update-manual-with-link = Најнови верзии се достапни на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Најнови верзии се достапни на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Не можете да направите дополнителни ажурирања на овој систем. <label data-l10n-name="unsupported-link">Дознајте повеќе</label>
+settings-update-unsupported = Не можете да направите дополнителни ажурирања на овој систем. <a data-l10n-name="unsupported-link">Дознајте повеќе</a>
 update-restarting = Рестартирам…
+settings-update-restarting =
+    .label = Рестартирам…
 update-internal-error2 = Не може да се провери за ажурирања поради внатрешна грешка. Ажурирањата се достапни на <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Не може да се провери за ажурирања поради внатрешна грешка. Ажурирањата се достапни на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
