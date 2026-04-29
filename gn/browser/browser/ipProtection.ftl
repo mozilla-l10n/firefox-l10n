@@ -48,6 +48,7 @@ ipprotection-site-settings-callout-button = Aikũmby
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Ipyahu: Emoambue ne rendaite
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } VPN joajupyre</a> oheja eiporavóvo 5 kundahára rendaite térã ikatu jaiporavo ijehegui ipya’evéva ndéve g̃uarã.
 ipprotection-location-selection-callout-primary-button = Eha’ã jey
 ipprotection-location-selection-callout-secondary-button = Emboyke
 
@@ -63,6 +64,7 @@ unauthenticated-hide-location-message-2 = Eñomi pe tendaite eikundaha aja { -br
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ereko { $maxUsage } GB VPN mba’ekuaarã reiete jasygua.
 unauthenticated-get-started = Eñepyrũ
+unauthenticated-terms-of-service-privacy-notice = Eku’e jeývo, emoneĩ ko’ã <a data-l10n-name="vpn-terms-of-service">ñepytyvõrã mboguata</a> ha pe <a data-l10n-name="vpn-privacy-notice">ñemigua marandu’i</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Eiporu VPN ko tendápe g̃uarã
     .aria-label = VPN hendy ko tendápe g̃uarã
