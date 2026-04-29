@@ -676,6 +676,9 @@ update-application-description = Mantene { -brand-short-name } actualisate pro l
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Novas</a>
+update-history-2 =
+    .label = Monstrar le chronologia de actualisationes
+    .accesskey = M
 update-history =
     .label = Monstrar le chronologia de actualisationes…
     .accesskey = M
@@ -692,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Quando { -brand-short-name } non es in execution
     .accesskey = Q
+update-application-warning-cross-user-setting-2 =
+    .message = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
 update-application-warning-cross-user-setting = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio in secunde plano pro installar le actualisationes
