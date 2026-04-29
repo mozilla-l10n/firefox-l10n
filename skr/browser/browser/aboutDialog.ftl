@@ -32,7 +32,11 @@ update-failed = اپڈیٹ نئیں تھی سڳدا۔<label data-l10n-name="fail
 update-failed-main = اپڈیٹ نئین تھی سڳدا۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کرو</a>
 update-adminDisabled = تہاݙے سسٹم ایڈمن اپڈیٹ کوں بند کیتا ہویا ہے
 update-policy-disabled = اَپ ڈیٹاں کوں تُہاݙی تنظیم نے غیر فعال کر ݙِتّا ہِے
+settings-update-policy-disabled =
+    .label = اَپ ڈیٹاں کوں تُہاݙی تنظیم نے غیر فعال کر ݙِتّا ہِے
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
+settings-update-no-updates-found =
+    .label = { -brand-short-name } اپڈیٹ ہے
 aboutdialog-update-checking-failed = اپ ڈیٹس کوں چیک کرݨ وِچ ناکام۔
 settings-update-checking-failed =
     .label = اپ ڈیٹس کوں چیک کرݨ وِچ ناکام۔
