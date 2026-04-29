@@ -287,6 +287,9 @@ update-application-description = Hesɗitin { -brand-short-name } ngam jaawgol go
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Yamre { $version } <a data-l10n-name="learn-more">Hol ko hesɗi</a>
+update-history-2 =
+    .label = Hollu Daartol Kesɗitine
+    .accesskey = e
 update-history =
     .label = Hollu Daartol Kesɗitine
     .accesskey = e
@@ -300,6 +303,8 @@ update-application-check-choose =
 update-application-manual =
     .label = Hoto yuurnito kesɗitine (wasiyaaka)
     .accesskey = u
+update-application-warning-cross-user-setting-2 =
+    .message = Ngol teeltol maa jammine e konte Windows kala kam e keftinirɗe { -brand-short-name }  kuutortooɗe ndee aadannde { -brand-short-name }.
 update-application-warning-cross-user-setting = Ngol teeltol maa jammine e konte Windows kala kam e keftinirɗe { -brand-short-name }  kuutortooɗe ndee aadannde { -brand-short-name }.
 update-application-use-service =
     .label = Huutoro carwol cakkitol ngam aafde kesɗitine
