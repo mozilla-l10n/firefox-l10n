@@ -12,6 +12,8 @@ update-updateButton =
     .label = Mulai ulang untuk memutakhirkan { -brand-shorter-name }
     .accesskey = U
 update-checkingForUpdates = Memeriksa versi baru…
+settings-update-checking-for-updates =
+    .label = Memeriksa versi baru…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
