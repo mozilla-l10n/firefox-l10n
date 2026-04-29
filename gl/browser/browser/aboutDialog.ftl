@@ -12,6 +12,8 @@ update-updateButton =
     .label = Reiniciar para actualizar { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Comprobando actualizacións…
+settings-update-checking-for-updates =
+    .label = Comprobando actualizacións…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
