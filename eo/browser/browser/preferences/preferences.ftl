@@ -674,6 +674,9 @@ update-application-description = Tenu { -brand-short-name } ĝisdatigita por hav
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Kio estas nova</a>
+update-history-2 =
+    .label = Montri historion de ĝisdatigoj
+    .accesskey = M
 update-history =
     .label = Montri historion de ĝisdatigoj…
     .accesskey = M
