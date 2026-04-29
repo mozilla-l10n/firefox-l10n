@@ -475,6 +475,9 @@ update-application-description = Manténer { -brand-short-name } a jorn per de p
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Version { $version } <a data-l10n-name="learn-more">Novetats</a>
+update-history-2 =
+    .label = Afichar l'istoric de las mesas a jorn
+    .accesskey = M
 update-history =
     .label = Afichar l'istoric de las mesas a jorn…
     .accesskey = M
