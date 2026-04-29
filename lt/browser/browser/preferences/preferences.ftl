@@ -436,6 +436,9 @@ update-application-description = Laiku atnaujinkite „{ -brand-short-name }“ 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Laida { $version } <a data-l10n-name="learn-more">Kas naujo</a>
+update-history-2 =
+    .label = Rodyti naujinimų žurnalą
+    .accesskey = R
 update-history =
     .label = Rodyti naujinimų žurnalą…
     .accesskey = R
