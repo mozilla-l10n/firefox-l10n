@@ -37,7 +37,10 @@ aboutdialog-update-manual-with-link = Posodobitve so na voljo na <label data-l10
 settings-update-manual-with-link = Posodobitve so na voljo na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Nadaljnje posodobitve niso več mogoče. <label data-l10n-name="unsupported-link">Več o tem</label>
 update-restarting = Ponovni zagon …
+settings-update-restarting =
+    .label = Ponovni zagon …
 update-internal-error2 = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Iskanje posodobitev ni uspelo zaradi notranje napake. Posodobitve so na voljo na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
