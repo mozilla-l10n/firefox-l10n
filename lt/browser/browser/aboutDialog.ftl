@@ -35,7 +35,11 @@ update-noUpdatesFound = Naudojama paskiausia „{ -brand-short-name }“ laida
 settings-update-no-updates-found =
     .label = Naudojama paskiausia „{ -brand-short-name }“ laida
 aboutdialog-update-checking-failed = Nepavyko patikrinti, ar yra naujinimų.
+settings-update-checking-failed =
+    .label = Nepavyko patikrinti, ar yra naujinimų.
 update-otherInstanceHandlingUpdates = Programa „{ -brand-short-name }“ šiuo metu naujinama
+settings-update-other-instance-handling-updates =
+    .label = Programa „{ -brand-short-name }“ šiuo metu naujinama
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -43,8 +47,12 @@ update-otherInstanceHandlingUpdates = Programa „{ -brand-short-name }“ šiuo
 aboutdialog-update-manual-with-link = Atsisiųskite naujinimą iš <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atsisiųskite naujinimą iš <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi. <label data-l10n-name="unsupported-link">Sužinoti daugiau</label>
+settings-update-unsupported = Tolesni naujinimai, naudojantis šia sistema, yra negalimi. <a data-l10n-name="unsupported-link">Sužinoti daugiau</a>
 update-restarting = Paleidžiama iš naujo…
+settings-update-restarting =
+    .label = Paleidžiama iš naujo…
 update-internal-error2 = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Dėl vidinės klaidos nepavyko patikrinti, ar yra naujinimų. Naujinimai pasiekiami per <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
