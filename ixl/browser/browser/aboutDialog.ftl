@@ -12,16 +12,22 @@ update-updateButton =
     .label = Oypisa unpajte aq'al uva' la b'anax tuche'{ -brand-shorter-name }
     .accesskey = O
 update-checkingForUpdates = Ile' ni pich'u asoj at chit ka't b'anb'al tuche'…
+settings-update-checking-for-updates =
+    .label = Ile' ni pich'u asoj at chit ka't b'anb'al tuche'…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Ile' ni teq'o ku'tzan ti' ib'anax tuche' — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Il u b'anb'al tetz ile' ni teq'o ku'tzan —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Ile' ni teq'o ku'tzan ti' ib'anax tuche' — { $transfer }
 
 ##
 
 update-applying = Ile' toksa ve't ok u b'anb'al tuche'…
+settings-update-applying =
+    .label = Ile' toksa ve't ok u b'anb'al tuche'…
 update-failed = Kat yan ib'anax tuche'. <label data-l10n-name="failed-link">Eq'o ku'tzan uve' a'n chit atoke</label>
 update-failed-main = Kat yan ib'anax tuche'. <a data-l10n-name="failed-link-main">Eq'o ku'tzan uve' a'nnal kuxh ib'anax tuche'</a>
 update-adminDisabled = Unq'a b'anb'al tuche' ya'samal ve't kat ta'n u ilol tetze'
