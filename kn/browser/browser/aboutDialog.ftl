@@ -43,7 +43,10 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = ಅಪ್‌ಡೇಟ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿವೆ <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = ಅಪ್‌ಡೇಟ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿವೆ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ಈ ವ್ಯವಸ್ಥೆಗೆ ಇನ್ನು ಮುಂದಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. <label data-l10n-name="unsupported-link">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</label>
+settings-update-unsupported = ಈ ವ್ಯವಸ್ಥೆಗೆ ಇನ್ನು ಮುಂದಿನ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. <a data-l10n-name="unsupported-link">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</a>
 update-restarting = ಮರಳಿಆರಂಭಿಸಲಾಗುತ್ತಿದೆ…
+settings-update-restarting =
+    .label = ಮರಳಿಆರಂಭಿಸಲಾಗುತ್ತಿದೆ…
 
 ##
 
