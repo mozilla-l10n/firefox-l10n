@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ
     .accesskey = R
 update-checkingForUpdates = မွမ်းမံချက် အသစ်ရှိမရှိ စစ်နေသည်...
+settings-update-checking-for-updates =
+    .label = မွမ်းမံချက် အသစ်ရှိမရှိ စစ်နေသည်...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
