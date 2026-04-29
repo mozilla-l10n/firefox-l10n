@@ -33,6 +33,8 @@ update-policy-disabled = Actualizaciones deshabilitadas por su organización
 update-noUpdatesFound = { -brand-short-name } está actualizado
 aboutdialog-update-checking-failed = Error al buscar actualizaciones.
 update-otherInstanceHandlingUpdates = { -brand-short-name } está siendo actualizado por otra instancia
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } está siendo actualizado por otra instancia
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -40,10 +42,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } está siendo actuali
 aboutdialog-update-manual-with-link = Actualizaciones disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Actualizaciones disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = No puedes realizar más actualizaciones en este sistema. <label data-l10n-name="unsupported-link">Más información</label>
+settings-update-unsupported = No puedes realizar más actualizaciones en este sistema. <a data-l10n-name="unsupported-link">Más información</a>
 update-restarting = Reiniciando…
 settings-update-restarting =
     .label = Reiniciando…
 update-internal-error2 = No se pueden buscar actualizaciones debido a un error interno. Actualizaciones disponibles en <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = No se pueden buscar actualizaciones debido a un error interno. Actualizaciones disponibles en <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
