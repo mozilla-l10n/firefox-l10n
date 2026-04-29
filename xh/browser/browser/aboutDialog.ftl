@@ -12,6 +12,8 @@ update-updateButton =
     .label = Phinda uqale ukuze uqalise i-{ -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Ikhangela izihlaziyi…
+settings-update-checking-for-updates =
+    .label = Ikhangela izihlaziyi…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
