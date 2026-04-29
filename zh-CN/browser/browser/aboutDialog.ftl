@@ -46,7 +46,10 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = 可访问 <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = 可访问 <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = 您无法在这个系统上进一步更新。<label data-l10n-name="unsupported-link">详细了解</label>
+settings-update-unsupported = 您无法在这个系统上进一步更新。<a data-l10n-name="unsupported-link">详细了解</a>
 update-restarting = 正在重启浏览器…
+settings-update-restarting =
+    .label = 正在重启浏览器…
 update-internal-error2 = 发生内部错误，无法检查更新。可访问 <label data-l10n-name="manual-link">{ $displayUrl }</label> 手动下载更新。
 
 ##
