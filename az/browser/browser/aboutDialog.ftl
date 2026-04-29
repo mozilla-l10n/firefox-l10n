@@ -17,14 +17,20 @@ update-checkingForUpdates = Yeniləmələr yoxlanılır…
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Yeniləmə endirilir — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Yeniləmə endirilir — { $transfer }
 
 ##
 
 update-applying = Yeniləmə tətbiq edilir…
+settings-update-applying =
+    .label = Yeniləmə tətbiq edilir…
 update-failed = Yeniləmə uğursuz oldu. <label data-l10n-name="failed-link">Son versiyanı endirin</label>
 update-failed-main = Yeniləmə uğursuz oldu. <a data-l10n-name="failed-link-main">Son versiyanı endirin</a>
 update-adminDisabled = Yeniləmələr sistem idarəçiniz tərəfindən söndürülmüşdür
 update-noUpdatesFound = { -brand-short-name } aktualdır
+settings-update-no-updates-found =
+    .label = { -brand-short-name } aktualdır
 update-otherInstanceHandlingUpdates = { -brand-short-name } başqa nümunədən yenilənir
 
 ## Variables:
