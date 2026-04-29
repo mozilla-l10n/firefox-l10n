@@ -40,8 +40,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name }i uuendatakse teise p
 aboutdialog-update-manual-with-link = Uuendused on saadaval aadressil <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Uuendused on saadaval aadressil <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Edasised uuendused selle süsteemi peal pole võimalikud. <label data-l10n-name="unsupported-link">Rohkem teavet</label>
+settings-update-unsupported = Edasised uuendused selle süsteemi peal pole võimalikud. <a data-l10n-name="unsupported-link">Rohkem teavet</a>
 update-restarting = Taaskäivitamine…
+settings-update-restarting =
+    .label = Taaskäivitamine…
 update-internal-error2 = Sisemise vea tõttu pole võimalik uuendusi kontrollida. Uuendused on saadaval aadressil <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Sisemise vea tõttu pole võimalik uuendusi kontrollida. Uuendused on saadaval aadressil <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
