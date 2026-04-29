@@ -24,6 +24,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = 업데이트 적용 중…
+settings-update-applying =
+    .label = 업데이트 적용 중…
 update-failed = 업데이트에 실패했습니다. <label data-l10n-name="failed-link">최신 버전 다운로드</label>
 update-failed-main = 업데이트에 실패했습니다. <a data-l10n-name="failed-link-main">최신 버전 다운로드</a>
 update-adminDisabled = 시스템 관리자에 의해 업데이트가 비활성화됨
