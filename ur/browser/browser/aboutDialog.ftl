@@ -26,10 +26,14 @@ settings-update-downloading-2 =
 ##
 
 update-applying = اپڈیٹ کرتے ہوئے ...
+settings-update-applying =
+    .label = اپڈیٹ کرتے ہوئے ...
 update-failed = اپڈیٹ نہیں ہوسکا۔<label data-l10n-name="failed-link">تازہ ترین ورژن ڈاؤن لوڈ کریں</label>
 update-failed-main = اپڈیٹ نہیں ہوسکا۔<a data-l10n-name="failed-link-main">تازہ ترین ورژن ڈاؤن لوڈ کریں</a>
 update-adminDisabled = آپ کے سسٹم ایڈمن نے اپڈیٹ کو بند کیا ہوا ہے
 update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
+settings-update-no-updates-found =
+    .label = { -brand-short-name } اپڈیٹ ہے
 aboutdialog-update-checking-failed = اپڈیٹس چیک نہیں کی جاسکیں۔
 update-otherInstanceHandlingUpdates = { -brand-short-name } دوسری جگہ سے اپڈیٹ ہو رہا ہے
 
