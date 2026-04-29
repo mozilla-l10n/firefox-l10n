@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Accessibilità
     .title = { pane-accessibility-title }
+pane-languages-title = Lingue
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Esperimenti di { -brand-short-name }
 category-experimental =
     .tooltiptext = Esperimenti di { -brand-short-name }
@@ -462,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Riavviare { -brand-short-name } per applicare queste modifiche
 confirm-browser-language-change-button = Applica e riavvia
+browser-language-heading =
+    .label = Lingua del browser
+    .description = Scegli la lingua utilizzata per visualizzare menu, messaggi e notifiche di { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Lingua preferita
+browser-language-fallback-label =
+    .label = Lingua alternativa
+    .description = Utilizzata quando la traduzione nella lingua preferita è incompleta.
 browser-language-install-error =
     .message = L’aggiornamento delle lingue non è attualmente disponibile. Verifica la connessione a Internet o riprova.
 translate-web-pages =
@@ -1553,6 +1566,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ulteriori informazioni
 forms-windows-sso-desc = Gestisci account nelle impostazioni del dispositivo
 windows-passkey-settings-label = Gestisci passkey nelle impostazioni di sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Impostazioni pannello privacy
+    .description = Ottieni assistenza per proteggere le tue informazioni online in { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostra avvisi di violazione
+    .accesskey = v
 
 ## OS Authentication dialog
 

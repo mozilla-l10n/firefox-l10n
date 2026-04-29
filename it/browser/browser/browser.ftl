@@ -421,6 +421,12 @@ quickactions-cmd-inspector = analisi pagina, devtools, sviluppatori
 # Opens about:logins
 quickactions-logins2 = Gestisci password
 quickactions-cmd-logins = credenziali, password
+# Mutes all tabs playing audio
+quickactions-mute = Disattiva audio delle schede che riproducono suoni
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silenzia, zittisci, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gestisci plugin
 quickactions-cmd-plugins = plugin
