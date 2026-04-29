@@ -349,6 +349,9 @@ update-application-description = Caltén { -brand-short-name } anováu pal meyor
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Novedaes</a>
+update-history-2 =
+    .label = Amosar l'historial d'anovamientos
+    .accesskey = t
 update-history =
     .label = Amosar l'historial d'anovamientos…
     .accesskey = t
@@ -365,6 +368,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Cuando { -brand-short-name } nun tea n'execución
     .accesskey = C
+update-application-warning-cross-user-setting-2 =
+    .message = Esti axuste va aplicase a toles cuentes de Windows y perfiles de { -brand-short-name } qu'usen esta instalación de { -brand-short-name }.
 update-application-warning-cross-user-setting = Esti axuste va aplicase a toles cuentes de Windows y perfiles de { -brand-short-name } qu'usen esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un serviciu en segundu planu pa instalar los anovamientos
