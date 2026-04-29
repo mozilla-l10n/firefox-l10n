@@ -1050,6 +1050,9 @@ urlbar-view-context-menu-open-in-container-tab =
 urlbar-view-context-menu-open-in-window =
     .label = Адкрыць у новым акне
     .accesskey = о
+urlbar-view-context-menu-open-in-private-window =
+    .label = Адкрыць у новым прыватным акне
+    .accesskey = п
 
 ## Labels shown above groups of urlbar results
 
@@ -1285,6 +1288,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Падзяліцца
     .tooltiptext = Падзяліцца гэтай старонкай
+toolbar-button-tab-groups =
+    .label = Групы картак
+    .tooltiptext = Паказаць вашы групы картак
 
 ## EME notification panel
 
@@ -1468,6 +1474,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Закончыць прыватны сеанс
     .tooltiptext = Закончыць прыватны сеанс
+reset-pbm-panel-heading2 = Ачысціць звесткі і пачаць новы прыватны сеанс?
+reset-pbm-panel-description2 = Гэта выдаліць гісторыю, кукі і ўсе іншыя звесткі сайтаў, не закрываючы прыватнае акно.
 reset-pbm-panel-heading = Закончыць ваш прыватны сеанс?
 reset-pbm-panel-description = Закрыць усе прыватныя карткі і выдаліць гісторыю, кукі і ўсе астатнія звесткі сайтаў.
 reset-pbm-panel-always-ask-checkbox =
@@ -1476,6 +1484,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Скасаваць
     .accesskey = С
+reset-pbm-panel-confirm-button2 =
+    .label = Ачысціць прыватны сеанс
+    .accesskey = т
 reset-pbm-panel-confirm-button =
     .label = Выдаліць звесткі сеанса
     .accesskey = В
@@ -1745,6 +1756,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } дазволіў { $count } крыптамайнераў
     }
 trustpanel-cryptominer-tab-list-header = Гэтыя сайты спрабуюць здабываць крыптавалюту:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Маеце ўліковы запіс на гэтым сайце?
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> трэкер заблакаваны на гэтым сайце
