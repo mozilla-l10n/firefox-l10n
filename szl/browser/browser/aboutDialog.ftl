@@ -12,12 +12,16 @@ update-updateButton =
     .label = Zresztartuj, żeby zaktualizować program { -brand-shorter-name }
     .accesskey = Z
 update-checkingForUpdates = Szukanie aktualizacyji…
+settings-update-checking-for-updates =
+    .label = Szukanie aktualizacyji…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Pobiyranie aktualizacyje — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Aktualizacyjo je pobiyrano — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Pobiyranie aktualizacyje — { $transfer }
 
 ##
 
@@ -26,7 +30,11 @@ update-failed = Niy szło zaktualizować. <label data-l10n-name="failed-link">Po
 update-failed-main = Niy szło zaktualizować. <a data-l10n-name="failed-link-main">Pobier nojnowszo wersyjo</a>
 update-adminDisabled = Aktualizacyje sōm zakozane ôd administratora systymu
 update-noUpdatesFound = { -brand-short-name } je aktualny
+settings-update-no-updates-found =
+    .label = { -brand-short-name } je aktualny
 update-otherInstanceHandlingUpdates = { -brand-short-name } je aktualizowany ôd inszyj instancyje
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } je aktualizowany ôd inszyj instancyje
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -34,7 +42,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } je aktualizowany ôd
 aboutdialog-update-manual-with-link = Aktualizacyje dostympne na <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Aktualizacyje dostympne na <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Niy idzie robić dalszych aktualizacyji na tym systymie. <label data-l10n-name="unsupported-link">Wiyncyj</label>
+settings-update-unsupported = Niy idzie robić dalszych aktualizacyji na tym systymie. <a data-l10n-name="unsupported-link">Wiyncyj</a>
 update-restarting = Resztartowanie…
+settings-update-restarting =
+    .label = Resztartowanie…
 
 ##
 
