@@ -12,6 +12,8 @@ update-updateButton =
     .label = أعد التشغيل لتحديث { -brand-shorter-name }
     .accesskey = د
 update-checkingForUpdates = يتحقق مِن التحديثات…
+settings-update-checking-for-updates =
+    .label = يتحقق مِن التحديثات…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -36,6 +38,8 @@ update-noUpdatesFound = { -brand-short-name } مُحدَّث
 settings-update-no-updates-found =
     .label = { -brand-short-name } مُحدَّث
 aboutdialog-update-checking-failed = فشل التحقق مِن التحديثات.
+settings-update-checking-failed =
+    .label = فشل التحقق مِن التحديثات.
 update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } في سيرورة أخرى
 settings-update-other-instance-handling-updates =
     .label = يجري تحديث { -brand-short-name } في سيرورة أخرى
