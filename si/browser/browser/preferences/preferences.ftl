@@ -335,6 +335,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = මෙම වෙනස්කම් යෙදීමට { -brand-short-name } යළි අරඹන්න
 confirm-browser-language-change-button = යොදා යළි අරඹන්න
+browser-language-install-error =
+    .message = { -brand-short-name } මගින් දැන් ඔබගේ භාෂා යාවත්කාල කළ නොහැකිය. අන්තර්ජාලයට සම්බන්ධ වී ඇත්දැයි පරීක්‍ෂා කරන්න හෝ නැවත උත්සාහ කරන්න.
 translate-web-pages =
     .label = වියමන අන්තර්ගතය පරිවර්තනය
     .accesskey = T
@@ -456,7 +458,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = { -brand-short-name } අනකුත් ගොනු සමඟ කුමක් කළ යුතුද?
 applications-save-for-new-types =
@@ -515,6 +517,12 @@ update-in-progress-ok-button = &ඉවතලන්න
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ඉදිරියට
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -581,6 +589,9 @@ browsing-cfr-recommendations-learn-more = තව දැනගන්න
 browsing-group =
     .label = පිරික්සීම
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = ජාල සැකසුම්
@@ -632,6 +643,12 @@ use-current-pages =
 choose-bookmark =
     .label = පොත්යොමුවක් යොදන්න…
     .accesskey = B
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -836,6 +853,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } සත්‍යාපනය කර නැත
 sync-signedin-login-failure = නැවත සබැඳීමට පිවිසෙන්න { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -994,7 +1016,7 @@ forms-ask-to-save-logins =
     .label = අඩවි සඳහා පිවිසුම් සහ මුරපද සුරැකීමට අසන්න
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1064,6 +1086,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = තව දැනගන්න
 forms-windows-sso-desc = ඔබගේ උපාංග සැකසුම් තුළ ගිණුම් කළමනාකරණය
 windows-passkey-settings-label = පද්ධතියේ සැකසුම් තුළ මුරයතුරු කළමනාකරණය කරන්න
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1615,8 +1640,23 @@ preferences-doh-manage-exceptions =
     .label = හැරදැමීම් කළමනාකරණය…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = වැඩතලය
 downloads-folder-name = බාගැනීම්
 choose-download-folder-title = බාගත වන බහාලුම තේරීම:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
