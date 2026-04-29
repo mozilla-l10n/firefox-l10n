@@ -32,6 +32,8 @@ update-failed = Agiornamento no ariescio. <label data-l10n-name="failed-link">De
 update-failed-main = Agiornamento no ariescio. <a data-l10n-name="failed-link-main">Descarega l'urtima verscion</a>
 update-adminDisabled = I agiornamenti en dizabilitæ da-o teu aministratô do scistema
 update-policy-disabled = Agiornamenti dizabilitæ da teu organizaçion
+settings-update-policy-disabled =
+    .label = Agiornamenti dizabilitæ da teu organizaçion
 update-noUpdatesFound = { -brand-short-name } o l'é agiornòu
 settings-update-no-updates-found =
     .label = { -brand-short-name } o l'é agiornòu
