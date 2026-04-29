@@ -472,6 +472,8 @@ manage-browser-languages-button =
     .accesskey = G
 confirm-browser-language-change-description = Ailgychwyn { -brand-short-name } i osod y newidiadau hyn
 confirm-browser-language-change-button = Gosod ac Ailgychwyn
+browser-language-install-error =
+    .message = Nid yw { -brand-short-name } yn gallu diweddaru eich iaith ar hyn o bryd. Gwiriwch eich bod wedi eich cysylltu i'r rhyngrwyd neu ceisiwch eto.
 translate-web-pages =
     .label = Cyfieithu cynnwys gwe
     .accesskey = C
@@ -665,7 +667,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Beth ddylai { -brand-short-name } wneud gyda ffeiliau eraill?
 applications-save-for-new-types =
@@ -724,6 +726,9 @@ update-in-progress-ok-button = &Dileu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1447,7 +1452,7 @@ forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
     .accesskey = G
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1548,6 +1553,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Darllen rhagor
 forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
 windows-passkey-settings-label = Rheoli cyfrinallweddi o fewn gosodiadau system
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
