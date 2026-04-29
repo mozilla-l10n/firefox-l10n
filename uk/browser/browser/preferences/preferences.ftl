@@ -561,6 +561,9 @@ update-application-description = Використовуйте найновішу
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Версія { $version } <a data-l10n-name="learn-more">Що нового</a>
+update-history-2 =
+    .label = Показати історію оновлень
+    .accesskey = с
 update-history =
     .label = Показати історію оновлень…
     .accesskey = с
