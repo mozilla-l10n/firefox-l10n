@@ -416,6 +416,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Torne invie { -brand-short-name } par aplicâ chestis modifichis
 confirm-browser-language-change-button = Apliche e torne invie
+browser-language-install-error =
+    .message = In chest moment { -brand-short-name } nol rive a inzornâ la tô lenghe. Controle la conession a internet e torne prove.
 translate-web-pages =
     .label = Volte il contignût web
     .accesskey = t
@@ -602,7 +604,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Ce aial di fâ { -brand-short-name } cun chei altris files?
 applications-save-for-new-types =
@@ -661,6 +663,9 @@ update-in-progress-ok-button = &Interomp
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continue
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -743,6 +748,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Plui informazions
 browsing-group =
     .label = Navigazion
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1310,7 +1318,7 @@ forms-ask-to-save-logins =
     .label = Domande se salvâ credenziâls e passwords pai sîts web
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1405,6 +1413,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Plui informazions
 forms-windows-sso-desc = Gjestìs i accounts tes tôs impostazions dal dispositîf
 windows-passkey-settings-label = Gjestìs passkeys tes impostazions di sisteme
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2122,8 +2133,23 @@ preferences-doh-manage-exceptions =
     .label = Gjestìs ecezions…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamâts
 choose-download-folder-title = Sielç une cartele pai files discjamâts:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
