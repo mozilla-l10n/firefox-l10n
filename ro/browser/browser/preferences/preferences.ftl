@@ -677,6 +677,9 @@ update-application-description = Menține { -brand-short-name } actualizat pentr
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiunea { $version } <a data-l10n-name="learn-more">Ce este nou</a>
+update-history-2 =
+    .label = Afișează istoricul actualizărilor
+    .accesskey = p
 update-history =
     .label = Afișează istoricul actualizărilor…
     .accesskey = p
