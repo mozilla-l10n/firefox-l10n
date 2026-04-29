@@ -18,6 +18,8 @@ update-checkingForUpdates = Uuenduste olemasolu kontrollimine…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Uuenduse allalaadimine — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Uuenduse allalaadimine — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Uuenduse allalaadimine — { $transfer }
 
 ##
 
