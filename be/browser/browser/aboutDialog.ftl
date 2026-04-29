@@ -52,6 +52,8 @@ settings-update-manual-with-link = Абнаўленні даступныя на 
 update-unsupported = Вы не можаце працягнуць абнаўленне на гэтай сістэме. <label data-l10n-name="unsupported-link">Падрабязней</label>
 settings-update-unsupported = Вы не можаце працягнуць абнаўленне на гэтай сістэме. <a data-l10n-name="unsupported-link">Падрабязней</a>
 update-restarting = Перазапуск…
+settings-update-restarting =
+    .label = Перазапуск…
 update-internal-error2 = Немагчыма праверыць наяўнасць абнаўленняў з-за ўнутранай памылкі. Абнаўленні даступныя па адрасе <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
