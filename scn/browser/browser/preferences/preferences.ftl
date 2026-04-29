@@ -197,6 +197,8 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Riabbìa { -brand-short-name } p’applicari sti canciamenti
 confirm-browser-language-change-button = Sarba e riabbìa
+browser-language-install-error =
+    .message = { -brand-short-name } a stu mumentu nun po attualizzari i to lingui. Cuntrolla si sì cullijatu â riti o torna a prova.
 translate-web-pages =
     .label = Traduci cuntinutu ’n riti
     .accesskey = T
@@ -300,7 +302,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 drm-group =
     .label = Cuntinutu di gistiuni diritta diggitali (DRM)
@@ -337,6 +339,12 @@ update-in-progress-ok-button = &Stagghia
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Cuntinua
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -392,6 +400,9 @@ browsing-cfr-recommendations-learn-more = Cchiù nfurmazzioni
 browsing-group =
     .label = Navicazzioni
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Mpustazzioni riti
@@ -442,6 +453,12 @@ use-current-pages =
 choose-bookmark =
     .label = Usa nu nzingalibbru…
     .accesskey = n
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -549,6 +566,9 @@ containers-add-button =
 containers-remove-button =
     .label = Leva
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -588,6 +608,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } nun è virificata.
 sync-signedin-login-failure = Trasi pi ricunnèttiri { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -720,7 +745,7 @@ forms-ask-to-save-logins =
     .label = Spìa di sarbari i cridinziali e i chiavi pî siti
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Eccizzioni…
@@ -746,6 +771,15 @@ forms-master-pw-change =
     .label = Cancia chiavi mastra…
     .accesskey = m
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
+
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
 
 ## Privacy Section - History
 
@@ -835,6 +869,12 @@ sitedata-settings =
     .accesskey = d
 cookies-site-data-group =
     .label = Viscotta e dati dî siti
+
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
 
 ## Search Section
 
@@ -1006,6 +1046,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Talìa studi di { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1037,8 +1080,29 @@ certs-devices =
     .label = Dispusitivi di sicurizza…
     .accesskey = D
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Scrivanìa
 downloads-folder-name = Scarricamenti
 choose-download-folder-title = Scarta a carpetta pî scarricamenti:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
