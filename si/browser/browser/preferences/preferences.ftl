@@ -479,6 +479,9 @@ update-application-description = ඉහළ කාර්ය සාධනය, ස�
 # Variables:
 # $version (string) - Firefox version
 update-application-version = අනුවාදය { $version } <a data-l10n-name="learn-more">අළුත් දෑ</a>
+update-history-2 =
+    .label = යාවත්කාල ඉතිහාසය පෙන්වන්න
+    .accesskey = p
 update-history =
     .label = යාවත්කාල ඉතිහාසය පෙන්වන්න...
     .accesskey = p
@@ -495,6 +498,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = { -brand-short-name } ධාවනය නොවන විට
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = මෙම සැකසුම සියලුම වින්ඩෝස් ගිණුම් සහ { -brand-short-name } ස්ථාපිතය භාවිතා කරන { -brand-short-name } පැතිකඩ සියල්ල සඳහා අදාළ වේ.
 update-application-warning-cross-user-setting = මෙම සැකසුම සියලුම වින්ඩෝස් ගිණුම් සහ { -brand-short-name } ස්ථාපිතය භාවිතා කරන { -brand-short-name } පැතිකඩ සියල්ල සඳහා අදාළ වේ.
 update-application-use-service =
     .label = යාවත්කාල ස්ථාපනයට පසුබිම් සේවාවක්  යොදාගන්න
