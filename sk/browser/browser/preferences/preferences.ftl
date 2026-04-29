@@ -679,6 +679,9 @@ update-application-description = Najvyšší výkon, stabilitu a bezpečnosť do
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verzia { $version } <a data-l10n-name="learn-more">Čo je nové</a>
+update-history-2 =
+    .label = Zobraziť históriu aktualizácii
+    .accesskey = h
 update-history =
     .label = Zobraziť históriu aktualizácii…
     .accesskey = h
@@ -695,6 +698,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Ak { -brand-short-name } nie je spustený
     .accesskey = A
+update-application-warning-cross-user-setting-2 =
+    .message = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
 update-application-warning-cross-user-setting = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
 update-application-use-service =
     .label = Na inštaláciu aktualizácií používať službu na pozadí
