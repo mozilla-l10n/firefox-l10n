@@ -377,6 +377,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Endurræstu { -brand-short-name } til að staðfesta þessar breytingar
 confirm-browser-language-change-button = Staðfesta og endurræsa
+browser-language-install-error =
+    .message = { -brand-short-name } getur ekki keyrt uppfærslu á þínu tungumáli þessa stundina. Athugið nettengingu eða reynið aftur.
 translate-web-pages =
     .label = Þýða innihald vefsíðu
     .accesskey = Þ
@@ -501,7 +503,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Hvernig viltu að { -brand-short-name } meðhöndli aðrar skrár?
 applications-save-for-new-types =
@@ -560,6 +562,12 @@ update-in-progress-ok-button = &Henda
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Halda áfram
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -630,6 +638,9 @@ browsing-cfr-recommendations-learn-more = Kanna nánar
 browsing-group =
     .label = Leit
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Stillingar netkerfis
@@ -681,6 +692,12 @@ use-current-pages =
 choose-bookmark =
     .label = Nota bókamerki…
     .accesskey = b
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -897,6 +914,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } er ekki staðfestur.
 sync-signedin-login-failure = Skráðu þig inn aftur til að tengjast aftur { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1065,7 +1087,7 @@ forms-ask-to-save-logins =
     .label = Biðja um að vista innskráningar og lykilorð fyrir vefsíður
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1135,6 +1157,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Frekari upplýsingar
 forms-windows-sso-desc = Sýslaðu með reikninga í stillingum tækisins
 windows-passkey-settings-label = Sýsla með lykilorð í stillingum kerfisins
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1766,8 +1791,23 @@ preferences-doh-manage-exceptions =
     .label = Sýsla með undantekningar
     .accesskey = k
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Skjáborð
 downloads-folder-name = Niðurhal
 choose-download-folder-title = Veldu niðurhals möppu:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
