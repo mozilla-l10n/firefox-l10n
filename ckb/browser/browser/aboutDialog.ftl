@@ -38,7 +38,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } نوێکرایەوە
 aboutdialog-update-manual-with-link = نوێکردنەوە بەردەستە لە <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = نوێکردنەوە بەردەستە لە <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = تۆ ناتوانی نوێکردنەوەی تر ئەنجام بدەی لەسەر ئەم سیستمە. <label data-l10n-name="unsupported-link"> زیاتر بزانە</label>
+settings-update-unsupported = تۆ ناتوانی نوێکردنەوەی تر ئەنجام بدەی لەسەر ئەم سیستمە. <a data-l10n-name="unsupported-link"> زیاتر بزانە</a>
 update-restarting = پێکردنەوە…
+settings-update-restarting =
+    .label = پێکردنەوە…
 
 ##
 
