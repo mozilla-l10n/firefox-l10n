@@ -17,6 +17,8 @@ update-checkingForUpdates = ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಪ
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>ಅಪ್‌ಡೇಟ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = ಅಪ್‌ಡೇಟ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ — { $transfer }
 
 ##
 
