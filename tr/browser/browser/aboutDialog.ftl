@@ -42,7 +42,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } başka bir kopyası 
 aboutdialog-update-manual-with-link = Güncelleme adresi: <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Güncelleme adresi: <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<label data-l10n-name="unsupported-link">Daha fazla bilgi al</label>
+settings-update-unsupported = Bu sistemde yeni güncellemeleri kullanamazsınız.<a data-l10n-name="unsupported-link">Daha fazla bilgi al</a>
 update-restarting = Yeniden başlatılıyor…
+settings-update-restarting =
+    .label = Yeniden başlatılıyor…
 update-internal-error2 = Dahili bir hata nedeniyle güncellemeler kontrol edilemiyor. Güncellemeleri <label data-l10n-name="manual-link">{ $displayUrl }</label> adresinde bulabilirsiniz.
 
 ##
