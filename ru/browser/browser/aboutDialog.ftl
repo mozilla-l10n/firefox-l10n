@@ -20,10 +20,14 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>Скачивание обновления — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Скачивание обновления — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Скачивание обновления — { $transfer }
 
 ##
 
 update-applying = Применение обновления…
+settings-update-applying =
+    .label = Применение обновления…
 update-failed = Обновление не удалось. <label data-l10n-name="failed-link">Скачайте последнюю версию</label>
 update-failed-main = Обновление не удалось. <a data-l10n-name="failed-link-main">Скачайте последнюю версию</a>
 update-adminDisabled = Обновления отключены вашим системным администратором
