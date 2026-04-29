@@ -32,7 +32,11 @@ update-failed = Update fehlgeschlagen. <label data-l10n-name="failed-link">Laden
 update-failed-main = Update fehlgeschlagen. <a data-l10n-name="failed-link-main">Laden Sie die neueste Version herunter</a>
 update-adminDisabled = Updates von Ihrem System-Administrator deaktiviert
 update-policy-disabled = Ihre Organisation hat Updates deaktiviert
+settings-update-policy-disabled =
+    .label = Ihre Organisation hat Updates deaktiviert
 update-noUpdatesFound = { -brand-short-name } ist aktuell
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ist aktuell
 aboutdialog-update-checking-failed = Suche nach Updates fehlgeschlagen.
 settings-update-checking-failed =
     .label = Suche nach Updates fehlgeschlagen.
