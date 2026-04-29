@@ -12,15 +12,23 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Inapakua kisasisho —<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Inapakua kisasisho —{ $transfer }
 
 ##
 
 update-applying = Inatekeleza kisasisho…
+settings-update-applying =
+    .label = Inatekeleza kisasisho…
 update-failed = Imeshindwa kusasisha. <label data-l10n-name="failed-link">Pakua toleo jipya</label>
 update-failed-main = Imeshindwa kusasisha. <a data-l10n-name="failed-link-main">Pakua toleo jipya</a>
 update-adminDisabled = Visasisho vimelemazwa na msimamizi wa mfumo wako
 update-noUpdatesFound = { -brand-short-name } imesasishwa
+settings-update-no-updates-found =
+    .label = { -brand-short-name } imesasishwa
 update-otherInstanceHandlingUpdates = { -brand-short-name } inasasishwa na tukio lingine
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } inasasishwa na tukio lingine
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -28,6 +36,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } inasasishwa na tukio
 aboutdialog-update-manual-with-link = Visasisho vinapatikana kwa<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Visasisho vinapatikana kwa<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Huwezi kutekeleza visasisho zaidi kwenye mfumo huu.<label data-l10n-name="unsupported-link">Jifunze zaidi</label>
+settings-update-unsupported = Huwezi kutekeleza visasisho zaidi kwenye mfumo huu.<a data-l10n-name="unsupported-link">Jifunze zaidi</a>
 update-restarting = Inaanzishwa tena
 
 ##
