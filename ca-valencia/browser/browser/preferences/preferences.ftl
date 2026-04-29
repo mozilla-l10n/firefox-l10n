@@ -364,6 +364,9 @@ update-application-description = Manteniu el { -brand-short-name } actualitzat p
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
+update-history-2 =
+    .label = Mostra l'historial d'actualitzacions
+    .accesskey = h
 update-history =
     .label = Mostra l'historial d'actualitzacions…
     .accesskey = h
@@ -380,6 +383,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Quan el { -brand-short-name } no s'estiga executant
     .accesskey = Q
+update-application-warning-cross-user-setting-2 =
+    .message = Este paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzen esta instal·lació del { -brand-short-name }.
 update-application-warning-cross-user-setting = Este paràmetre s'aplicarà a tots els comptes del Windows i perfils del { -brand-short-name } que utilitzen esta instal·lació del { -brand-short-name }.
 update-application-use-service =
     .label = Instal·la les actualitzacions en segon pla
