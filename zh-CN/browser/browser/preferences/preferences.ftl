@@ -714,9 +714,6 @@ update-in-progress-ok-button = 放弃
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -798,9 +795,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 详细了解
 browsing-group =
     .label = 浏览
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1511,9 +1505,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 详细了解
 forms-windows-sso-desc = 在您的设备设置中管理账户
 windows-passkey-settings-label = 在系统设置中管理通行密钥
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

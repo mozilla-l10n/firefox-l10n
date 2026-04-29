@@ -718,9 +718,6 @@ update-in-progress-ok-button = &Hylkää
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -802,9 +799,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1523,9 +1517,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lisätietoja
 forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
 windows-passkey-settings-label = Hallitse todentamisavaimia järjestelmän asetuksissa
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2397,9 +2388,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Anna mukautetun tarjoajan URL-osoite
 preferences-doh-header2 =
     .heading = DNS HTTPS:n kautta
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

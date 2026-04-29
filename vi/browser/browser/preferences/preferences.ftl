@@ -708,9 +708,6 @@ update-in-progress-ok-button = &Hủy bỏ
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1526,9 +1523,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Tìm hiểu thêm
 forms-windows-sso-desc = Quản lý tài khoản trong cài đặt thiết bị của bạn
 windows-passkey-settings-label = Quản lý passkey trong cài đặt hệ thống
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

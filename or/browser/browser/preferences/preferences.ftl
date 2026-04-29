@@ -141,7 +141,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = ଅଧିକ ଜାଣନ୍ତୁ
 update-application-use-service =
@@ -238,7 +238,7 @@ sync-engine-history =
 
 sync-verification-sent-title = ଯାଞ୍ଚ ବିବରଣୀ ପଠା ସରିଛି
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…

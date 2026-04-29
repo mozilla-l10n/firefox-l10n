@@ -108,7 +108,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Lab Kue
 
@@ -166,7 +166,7 @@ sync-engine-history =
 
 sync-verification-sent-title = Güi cho bruy
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Koo tak toob luu...

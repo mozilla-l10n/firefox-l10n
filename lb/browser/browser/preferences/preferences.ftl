@@ -190,7 +190,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Fir méi ze wëssen
 update-application-title = { -brand-short-name }-Updates

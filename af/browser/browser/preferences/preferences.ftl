@@ -238,7 +238,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Meer inligting
 update-application-title = { -brand-short-name }-bywerkings
@@ -511,7 +511,7 @@ forms-ask-to-save-logins =
     .label = Vra om aanmeldings en wagwoorde vir webwerwe te stoor
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Uitsonderings…

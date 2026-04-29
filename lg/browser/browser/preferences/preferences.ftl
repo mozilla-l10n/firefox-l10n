@@ -123,7 +123,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Kozesa empereza ekolera emabega okutekamu ebituusa
@@ -194,7 +194,7 @@ sync-engine-history =
     .label = Ebyafaayo
     .accesskey = f
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Okujjako…

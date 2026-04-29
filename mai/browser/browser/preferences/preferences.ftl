@@ -143,7 +143,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = आओर जानू
 update-application-use-service =
@@ -300,7 +300,7 @@ sync-device-name-input =
 
 sync-verification-sent-title = सत्यापन भेजल गेल
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = अपवाद…

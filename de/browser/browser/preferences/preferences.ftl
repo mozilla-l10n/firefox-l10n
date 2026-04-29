@@ -720,9 +720,6 @@ update-in-progress-ok-button = &Verwerfen
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortfahren
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1542,9 +1539,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Weitere Informationen
 forms-windows-sso-desc = Verwalten Sie Konten in Ihren Geräteeinstellungen.
 windows-passkey-settings-label = Passkeys in den Systemeinstellungen verwalten
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

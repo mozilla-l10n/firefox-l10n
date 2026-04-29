@@ -849,9 +849,6 @@ update-in-progress-ok-button = &Nepokračovat
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1700,9 +1697,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Zjistit více
 forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízení
 windows-passkey-settings-label = Správa přístupových klíčů v nastavení systému
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

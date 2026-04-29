@@ -58,17 +58,6 @@ should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
 restart-later = Nakajie'e inka ichi
 
-## Extension Control Notifications
-##
-## These strings are used to inform the user
-## about changes made by extensions to browser settings.
-##
-## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
-##
-## Variables:
-##   $name (string) - Name of the extension
-
-
 ## Preferences UI Search Results
 
 search-results-header = Nánuku resultados
@@ -316,12 +305,6 @@ update-in-progress-ok-button = &Xita
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
 
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Naja satiñu
@@ -372,9 +355,6 @@ browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 browsing-group =
     .label = Navegación
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Ke´i conexión
@@ -424,12 +404,6 @@ use-current-pages =
 choose-bookmark =
     .label = Ni´i marcador...
     .accesskey = m
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -587,11 +561,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = Kuni kune'ya de ya'a kuvi... { $email } noo'o
 sync-signedin-login-failure = Kuamani ini noo´o je kajie´e sesión tuku { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -764,9 +733,6 @@ forms-primary-pw-former-name = Ichi yata jinidama kua contraseña maestra
 forms-primary-pw-fips-title = Ntañu'u yɨ'ɨnu ji FIPS. FIPS jiniñu'u iin contraseña xinañu'u ntu íyo vacia.
 forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -775,9 +741,6 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 # notes are only valid for English. Please test in your locale.
 primary-password-os-auth-dialog-message-macosx = Sá´á iin contraseña primaria
 master-password-os-auth-dialog-caption = { -brand-full-name }
-
-## Privacy section - Autofill
-
 
 ## Privacy Section - History
 
@@ -859,12 +822,6 @@ sitedata-cookies-exceptions =
     .accesskey = x
 cookies-site-data-group =
     .label = Cookies ji datos nuu ya´a
-
-## Privacy Section - Cookie Banner Handling
-
-
-## Privacy Section - Cookie Banner Blocking
-
 
 ## Search Section
 
@@ -1007,9 +964,6 @@ addon-recommendations-link = Ka´vi kue´eka
 data-collection-studies-link =
     .label = Kune'ya da estudio { -brand-short-name }
 
-## Privacy Section - Website Advertising Preferences
-
-
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1048,26 +1002,8 @@ httpsonly-radio-enabled-pbm =
 httpsonly-radio-disabled =
     .label = Nte kutuvi HTTPS
 
-## DoH Section
-
-
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Nxinuu
 choose-download-folder-title = Kaji carpeta chuva´a da nxinuun:
-
-## AI controls page
-
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

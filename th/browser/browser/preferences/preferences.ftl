@@ -708,9 +708,6 @@ update-in-progress-ok-button = &ละทิ้ง
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1526,9 +1523,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = เรียนรู้เพิ่มเติม
 forms-windows-sso-desc = จัดการบัญชีในการตั้งค่าอุปกรณ์ของคุณ
 windows-passkey-settings-label = จัดการพาสคีย์ในการตั้งค่าระบบ
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

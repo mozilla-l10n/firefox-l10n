@@ -720,9 +720,6 @@ update-in-progress-ok-button = &Baztertu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1540,9 +1537,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
 windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

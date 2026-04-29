@@ -130,7 +130,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = پس۪ی منظر خدمت كریو استیمال اپڈیٹس اِنسٹال كرنئ خٲطرئ
@@ -230,7 +230,7 @@ sync-engine-history =
 sync-verification-sent-title = تصدیق آیہ سوزنْہ
 sync-verification-not-sent-title = ہیوک نْہ سوزِتھ تصدیق
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = غٲر مومول

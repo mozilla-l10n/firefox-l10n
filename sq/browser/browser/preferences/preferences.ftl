@@ -718,9 +718,6 @@ update-in-progress-ok-button = &Hidhe Tej
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Vazhdo
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -802,9 +799,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Mësoni më tepër
 browsing-group =
     .label = Shfletim
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1507,9 +1501,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mësoni më tepër
 forms-windows-sso-desc = Administroni llogari që nga rregullimet e pajisjes tuaj
 windows-passkey-settings-label = Administroni kyçkalime te rregullime sistemi
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2367,9 +2358,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Jepni një URL shërbimi të përshtatur
 preferences-doh-header2 =
     .heading = DNS përmes HTTPS-je
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

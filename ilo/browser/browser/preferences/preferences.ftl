@@ -87,7 +87,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Akinlikod a serbisio ti manginstala iti pagtarimaan
@@ -128,7 +128,7 @@ sync-engine-history =
     .label = Pakasaritaan
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Laksid...

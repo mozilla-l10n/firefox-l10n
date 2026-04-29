@@ -720,9 +720,6 @@ update-in-progress-ok-button = &Elvetés
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1542,9 +1539,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = További tudnivalók
 forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
 windows-passkey-settings-label = A jelkulcsok kezelése a rendszerbeállításokban
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

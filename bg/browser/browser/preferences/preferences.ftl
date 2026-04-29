@@ -566,12 +566,6 @@ update-in-progress-ok-button = &Отхвърляне
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продължаване
 
-## Firefox updates
-
-
-## Firefox support
-
-
 ## General Section - Performance
 
 performance-title = Производителност
@@ -639,9 +633,6 @@ browsing-cfr-recommendations-learn-more = Научете повече
 browsing-group =
     .label = Разглеждане
 
-## Accessibility page
-
-
 ## General Section - Proxy
 
 network-settings-title = Настройки на мрежата
@@ -693,12 +684,6 @@ use-current-pages =
 choose-bookmark =
     .label = Отметка…
     .accesskey = О
-
-## Home Section - Home Page Customization
-
-
-## Custom Homepage subpage
-
 
 ## Home Section - Firefox Home Content Customization
 
@@ -906,11 +891,6 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } не е проверен.
 sync-signedin-login-failure = Моля, впишете се, за да се свържете наново { $email }
-
-## Variables
-## $email (string) - Email used for Firefox account
-## $name (string) - Name used for Firefox account
-
 
 ##
 
@@ -1150,9 +1130,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Научете повече
 forms-windows-sso-desc = Управление на профили в настройките на устройството
 windows-passkey-settings-label = Управляване на ключ-паролите в системните настройки
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -1737,9 +1714,6 @@ preferences-doh-manage-exceptions =
     .label = Управление на изключенията…
     .accesskey = и
 
-## Connection and software security section
-
-
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Плот
@@ -1791,12 +1765,3 @@ preferences-ai-controls-block-confirmation-cancel =
     .label = Отказ
 preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
-
-## Privacy and security status card
-
-
-## Enhanced Tracking Protection (ETP) status section
-
-
-## Warnings section
-

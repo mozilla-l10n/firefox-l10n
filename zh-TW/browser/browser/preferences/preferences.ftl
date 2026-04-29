@@ -708,9 +708,6 @@ update-in-progress-ok-button = 捨棄 (&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1530,9 +1527,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 了解更多
 forms-windows-sso-desc = 可到您的裝置設定畫面管理帳號
 windows-passkey-settings-label = 到系統設定中管理密碼金鑰
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

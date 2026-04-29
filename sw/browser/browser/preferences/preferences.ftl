@@ -124,7 +124,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Tumia huduma ya usuli ili kusakinisha visasisho
@@ -196,7 +196,7 @@ sync-engine-history =
     .label = Historia
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Mambo ya pekee…

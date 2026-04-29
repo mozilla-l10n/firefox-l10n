@@ -155,6 +155,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Você está quas
 ip-protection-description =
     .label = VPN
     .description = VPN integrada para aumentar sua privacidade ao navegar no { -brand-short-name }.
+ip-protection-description-1 =
+    .label = VPN integrada
+    .description = Tenha privacidade extra ao ocultar sua localização enquanto navega.
 ip-protection-learn-more = Saiba mais
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
@@ -232,6 +235,7 @@ vpn-paused-alert-title = VPN pausada
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso à VPN será renovado no próximo mês.
+vpn-error-page-new-session = Iniciar uma nova sessão
 vpn-paused-alert-close-tabs-button = Fechar todas as abas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sem VPN
 vpn-error-alert-title = A VPN não está funcionando no momento.

@@ -719,9 +719,6 @@ update-in-progress-ok-button = &Hejarei
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Ku’ejey
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1541,9 +1538,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Kuaave
 forms-windows-sso-desc = Eñangareko mba’ete mba’e’oka ñembohekópe
 windows-passkey-settings-label = Eñangareko jeikeha mba’eñemíre apopyvusu ñembohekópe
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

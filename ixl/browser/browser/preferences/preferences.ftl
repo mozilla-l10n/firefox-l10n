@@ -85,7 +85,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Ootzi ka'te
 update-in-progress-message = Na sa' { -brand-short-name }la yakep u actualisasione'
@@ -164,7 +164,7 @@ sync-device-name-save =
     .label = Kola
     .accesskey = v
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-breach-alerts-learn-more-link = Ootzi ka'te
 

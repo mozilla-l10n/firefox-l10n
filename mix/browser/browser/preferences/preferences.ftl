@@ -94,7 +94,7 @@ download-choose-folder =
         }
 applications-header = Aplicaciones
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Skua'a kuakaa
 update-application-title = { -brand-short-name } ña tsaá

@@ -720,9 +720,6 @@ update-in-progress-ok-button = Тай&дыру
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1538,9 +1535,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Көбірек білу
 forms-windows-sso-desc = Тіркелгілерді құрылғыңыздың баптауларында басқарыңыз
 windows-passkey-settings-label = Қол жеткізу кілттерін жүйе баптауларында басқару
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

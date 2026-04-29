@@ -8,17 +8,6 @@ update-checkingForUpdates = Palutputen ti pannanarimaan...
 settings-update-checking-for-updates =
     .label = Palutputen ti pannanarimaan...
 
-## Variables:
-##   $transfer (string) - Transfer progress.
-
-
-##
-
-
-## Variables:
-##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
-
-
 ##
 
 bottomLinks-privacy = Polisa ti Kapaknian

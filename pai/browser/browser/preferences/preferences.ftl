@@ -15,7 +15,7 @@ close-button =
 
 browser-containers-learn-more = Terabum ŕpo
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Terabum ŕpo
 
@@ -32,7 +32,7 @@ browsing-cfr-recommendations-learn-more = Terabum ŕpo
 
 network-proxy-connection-learn-more = Terabum ŕpo
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-breach-alerts-learn-more-link = Terabum ŕpo
 

@@ -768,9 +768,6 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -852,9 +849,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Сазнајте више
 browsing-group =
     .label = Прегледање
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1576,9 +1570,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Сазнајте више
 forms-windows-sso-desc = Управљајте налозима у подешавањима вашег уређаја
 windows-passkey-settings-label = Управљајте приступним кључевима у системским подешавањима
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2486,9 +2477,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Унесите произвољну адресу достављача
 preferences-doh-header2 =
     .heading = DNS преко HTTPS-а
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

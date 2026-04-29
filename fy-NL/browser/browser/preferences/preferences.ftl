@@ -720,9 +720,6 @@ update-in-progress-ok-button = &Ferwerpe
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Trochgean
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1542,9 +1539,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Mear ynfo
 forms-windows-sso-desc = Accounts beheare yn jo apparaatynstellingen
 windows-passkey-settings-label = Wachtwurden beheare yn systeemynstellingen
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

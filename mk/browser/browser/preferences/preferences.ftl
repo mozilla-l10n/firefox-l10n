@@ -217,7 +217,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Дознајте повеќе
 update-application-title = Надградби на { -brand-short-name }
@@ -480,7 +480,7 @@ sync-verification-not-sent-body = Не сме во можност да испр�
 
 privacy-header = Приватност на прелистувачот
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Исклучоци…

@@ -718,9 +718,6 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -802,9 +799,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-group =
     .label = ਬਰਾਊਜ਼ਿੰਗ
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1519,9 +1513,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ਹੋਰ ਸਿੱਖੋ
 forms-windows-sso-desc = ਆਪਣੀਆਂ ਡਿਵਾਈਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਖਾਤਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 windows-passkey-settings-label = ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਪਾਸ-ਕੀ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2398,9 +2389,6 @@ preferences-doh-custom-provider-label =
     .aria-label = ਇੱਕ ਚੁਣਿੰਦਾ ਪੂਰਕ URL ਦਿਓ
 preferences-doh-header2 =
     .heading = HTTPS ਉੱਤੇ DNS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

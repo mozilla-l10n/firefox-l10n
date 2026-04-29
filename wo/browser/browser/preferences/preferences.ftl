@@ -115,7 +115,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Jëfandikool ab sarwiisu laltu ngir samp yeesal yi
@@ -186,7 +186,7 @@ sync-engine-history =
     .label = Jaar jaar
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Seppi yi…

@@ -715,9 +715,6 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -799,9 +796,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saber más
 browsing-group =
     .label = Navegación
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1510,9 +1504,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administrar cuentas en la configuración de su dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2349,9 +2340,6 @@ preferences-doh-custom-provider-label =
     .aria-label = Introduzca una URL de proveedor personalizada
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
-
-## Connection and software security section
-
 
 ## The following strings are used in the Download section of settings
 

@@ -732,9 +732,6 @@ update-in-progress-ok-button = &Dileu
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1558,9 +1555,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Darllen rhagor
 forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
 windows-passkey-settings-label = Rheoli cyfrinallweddi o fewn gosodiadau system
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

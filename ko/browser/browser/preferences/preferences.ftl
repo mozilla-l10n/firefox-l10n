@@ -708,9 +708,6 @@ update-in-progress-ok-button = 버리기(&D)
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1526,9 +1523,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 더 알아보기
 forms-windows-sso-desc = 기기 설정에서 계정 관리를 합니다.
 windows-passkey-settings-label = 시스템 설정에서 패스키 관리
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 

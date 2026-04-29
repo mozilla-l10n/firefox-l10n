@@ -28,10 +28,6 @@ update-applying = Cur bree da'n lhieggan noa...
 settings-update-applying =
     .label = Cur bree da'n lhieggan noa...
 
-## Variables:
-##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
-
-
 ##
 
 # Example of resulting string: 66.0.1 (64-bit)

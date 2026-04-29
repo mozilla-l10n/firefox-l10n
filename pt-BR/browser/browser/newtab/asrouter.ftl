@@ -446,5 +446,7 @@ set-default-menu-message-primary-button-variant = Definir como navegador princip
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 máscaras de email, por nossa conta
 relay-50-masks-announcement-secondary-button = Descartar
     .accesskey = D

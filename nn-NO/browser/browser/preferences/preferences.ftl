@@ -718,9 +718,6 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortset
 
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1527,9 +1524,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Les meir
 forms-windows-sso-desc = Handsam konton i einingsinnstillingane dine
 windows-passkey-settings-label = Handsam passnøkkel i systeminnstillingane
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
