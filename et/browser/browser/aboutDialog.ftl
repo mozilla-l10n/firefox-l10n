@@ -34,7 +34,11 @@ update-adminDisabled = Uuendused on süsteemiadministraatori poolt keelatud
 update-policy-disabled = Värskendused on sinu organisatsiooni poolt keelatud
 update-noUpdatesFound = Kasutusel on { -brand-short-name }i uusim versioon
 aboutdialog-update-checking-failed = Uuenduste kontrollimine ebaõnnestus.
+settings-update-checking-failed =
+    .label = Uuenduste kontrollimine ebaõnnestus.
 update-otherInstanceHandlingUpdates = { -brand-short-name }i uuendatakse teise protsessi poolt
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name }i uuendatakse teise protsessi poolt
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
