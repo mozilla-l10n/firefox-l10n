@@ -28,9 +28,15 @@ update-failed = হালনাগাদ ব্যর্থ। <label data-l10n-
 update-failed-main = হালনাগাদ ব্যর্থ। <a data-l10n-name="failed-link-main">সর্বশেষ সংস্করণ ডাউনলোড করুন</a>
 update-adminDisabled = সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে
 update-policy-disabled = আপনার প্রতিষ্ঠান আপডেট ডিজেবল করে রেখেছে
+settings-update-policy-disabled =
+    .label = আপনার প্রতিষ্ঠান আপডেট ডিজেবল করে রেখেছে
 update-noUpdatesFound = { -brand-short-name } হালনাগাদকৃত
+settings-update-no-updates-found =
+    .label = { -brand-short-name } হালনাগাদকৃত
 aboutdialog-update-checking-failed = হালনাগাদের জন্য পরীক্ষা করা সম্ভব হয়নি।
 update-otherInstanceHandlingUpdates = { -brand-short-name } অন্য স্থানে হালনাগাদ হচ্ছে
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } অন্য স্থানে হালনাগাদ হচ্ছে
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
