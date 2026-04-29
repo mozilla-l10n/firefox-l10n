@@ -425,6 +425,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Վերամեկնարկեք { -brand-short-name }-ը՝ փոփոխությունները գործադրելու համար
 confirm-browser-language-change-button = Գործադրել և վերամեկնարկել
+browser-language-install-error =
+    .message = { -brand-short-name }-ը չի կարող արդիացնել ձեր լեզուները հիմա: Ստուգեք՝ արդյոք կապակցված եք համացանցին և կրկին փորձեք:
 translate-web-pages =
     .label = Թարգմանել բովանդակությունը
     .accesskey = Թ
@@ -616,7 +618,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Ի՞նչ պետք է անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
 applications-save-for-new-types =
@@ -675,6 +677,9 @@ update-in-progress-ok-button = &Հրաժարվել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -757,6 +762,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 browsing-group =
     .label = Դիտարկում
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1330,7 +1338,7 @@ forms-ask-to-save-logins =
     .label = Հարցնել և պահել մուտքագրումները և գաղտնաբառերը կայքերի համար
     .accesskey = r
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1430,6 +1438,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Իմանալ ավելին
 forms-windows-sso-desc = Կառավարել հաշիվը ձեր սարքի կարգավորումներում
 windows-passkey-settings-label = Կառավարել անցանիշերը համակարգի կարգավորումներում
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2139,6 +2150,9 @@ preferences-doh-manage-exceptions =
     .label = Կառավարել բացառությունները...
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Աշխատասեղան
@@ -2180,6 +2194,9 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Արգելափակել
 
+## Privacy and security status card
+
+
 ## Enhanced Tracking Protection (ETP) status section
 
 preferences-etp-custom-cookies-enabled =
@@ -2188,3 +2205,6 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Թխուկներ
 preferences-etpc-custom-cookie-behavior-accept-all =
     .label = Թույլատրել բոլոր թխուկները
+
+## Warnings section
+
