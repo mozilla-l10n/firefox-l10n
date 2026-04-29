@@ -20,17 +20,29 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>Asader n lqem—  <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Asader n lqem — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Asader n lqem—  { $transfer }
 
 ##
 
 update-applying = Asnas n uleqqem.
+settings-update-applying =
+    .label = Asnas n uleqqem.
 update-failed = Aleqqem ur yemmid ara. <label data-l10n-name="failed-link">Sader lqem aneggaru </label>
 update-failed-main = Aleqqem ur yemmid ara. <a data-l10n-name="failed-link-main">Sader lqem aneggaru </a>
 update-adminDisabled = Aleqqem issewḥel-it unedbal n unagraw-ik
 update-policy-disabled = Ileqman ttwasensen sɣur tkebbanit
+settings-update-policy-disabled =
+    .label = Ileqman ttwasensen sɣur tkebbanit
 update-noUpdatesFound = { -brand-short-name } yettwaleqqem
+settings-update-no-updates-found =
+    .label = { -brand-short-name } yettwaleqqem
 aboutdialog-update-checking-failed = Aɣelluy deg usenqed n yileqman.
+settings-update-checking-failed =
+    .label = Aɣelluy deg usenqed n yileqman.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tleqqem-it tummant-nniḍen
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } tleqqem-it tummant-nniḍen
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
