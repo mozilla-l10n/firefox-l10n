@@ -35,7 +35,11 @@ update-noUpdatesFound = { -brand-short-name } اپڈیٹ ہے
 settings-update-no-updates-found =
     .label = { -brand-short-name } اپڈیٹ ہے
 aboutdialog-update-checking-failed = اپڈیٹس چیک نہیں کی جاسکیں۔
+settings-update-checking-failed =
+    .label = اپڈیٹس چیک نہیں کی جاسکیں۔
 update-otherInstanceHandlingUpdates = { -brand-short-name } دوسری جگہ سے اپڈیٹ ہو رہا ہے
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } دوسری جگہ سے اپڈیٹ ہو رہا ہے
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
