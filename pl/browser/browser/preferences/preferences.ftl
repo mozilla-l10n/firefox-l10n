@@ -677,6 +677,9 @@ update-application-description = Utrzymuj { -brand-short-name(case: "acc") } akt
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Wersja: { $version }. <a data-l10n-name="learn-more">Informacje o wydaniu</a>.
+update-history-2 =
+    .label = Wyświetl historię aktualizacji
+    .accesskey = W
 update-history =
     .label = Wyświetl historię aktualizacji…
     .accesskey = W
@@ -693,6 +696,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = kiedy { -brand-short-name } nie jest włączony
     .accesskey = k
+update-application-warning-cross-user-setting-2 =
+    .message = To ustawienie będzie obowiązywać dla wszystkich kont systemu Windows i profilów { -brand-short-name(case: "gen") } używających tej instalacji.
 update-application-warning-cross-user-setting = To ustawienie będzie obowiązywać dla wszystkich kont systemu Windows i profilów { -brand-short-name(case: "gen") } używających tej instalacji.
 update-application-use-service =
     .label = Używaj usługi instalowania aktualizacji działającej w tle
