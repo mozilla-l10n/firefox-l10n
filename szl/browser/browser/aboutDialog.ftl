@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Przidowanie aktualizacyje…
+settings-update-applying =
+    .label = Przidowanie aktualizacyje…
 update-failed = Niy szło zaktualizować. <label data-l10n-name="failed-link">Pobier nojnowszo wersyjo</label>
 update-failed-main = Niy szło zaktualizować. <a data-l10n-name="failed-link-main">Pobier nojnowszo wersyjo</a>
 update-adminDisabled = Aktualizacyje sōm zakozane ôd administratora systymu
