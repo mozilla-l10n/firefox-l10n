@@ -674,6 +674,9 @@ update-application-description = Hald { -brand-short-name } oppdatert for beste 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versjon { $version } <a data-l10n-name="learn-more">Kva er nytt</a>
+update-history-2 =
+    .label = Vis oppdateringshistorikk
+    .accesskey = p
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
