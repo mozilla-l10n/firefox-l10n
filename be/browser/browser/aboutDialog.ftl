@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Прымяняецца абнаўленне…
+settings-update-applying =
+    .label = Прымяняецца абнаўленне…
 update-failed = Няўдача абнаўлення. <label data-l10n-name="failed-link">Сцягнуць апошнюю версію</label>
 update-failed-main = Няўдача абнаўлення. <a data-l10n-name="failed-link-main">Сцягнуць апошнюю версію</a>
 update-adminDisabled = Абнаўленні забаронены вашым сістэмным адміністратарам
