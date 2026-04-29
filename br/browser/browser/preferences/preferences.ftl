@@ -438,6 +438,9 @@ update-application-description = Derc'hel { -brand-short-name } hizivaet evit an
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Handelv { $version } <a data-l10n-name="learn-more">Petra nevez</a>
+update-history-2 =
+    .label = Diskouez roll istor an hizivadurioù
+    .accesskey = D
 update-history =
     .label = Diskouez roll istor an hizivadurioù…
     .accesskey = D
