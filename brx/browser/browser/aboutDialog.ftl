@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } आपडेट खालामनो फिन जागाय
     .accesskey = R
 update-checkingForUpdates = आपडेटफोरनि थाखाय आनजाद खालाम...
+settings-update-checking-for-updates =
+    .label = आपडेटफोरनि थाखाय आनजाद खालाम...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
