@@ -11,6 +11,8 @@ update-updateButton =
     .label = Tàmbaliwaatal ngir yeesal { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Wut ay yeesal…
+settings-update-checking-for-updates =
+    .label = Wut ay yeesal…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
