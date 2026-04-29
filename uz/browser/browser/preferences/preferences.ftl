@@ -300,6 +300,9 @@ update-application-description = { -brand-short-name } tez, barqaror va xavfsiz 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versiyasi{ $version } <a data-l10n-name="learn-more">Yangi xususiyatlar</a>
+update-history-2 =
+    .label = Yangilash tarixini koʻrsatish
+    .accesskey = n
 update-history =
     .label = Yangilash tarixini koʻrsatish…
     .accesskey = n
