@@ -370,6 +370,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Ales asenker i tikkelt-nniḍen { -brand-short-name } i isnifal-agi
 confirm-browser-language-change-button = Seddu sakin alles tanekra
+browser-language-install-error =
+    .message = { -brand-short-name } ur izmir ara ad isnifel tutlayin-ik/im tura. Wali ma teqqneḍ ɣer internet neɣ ɛreḍ tikkelt-nniḍen.
 translate-web-pages =
     .label = Suqel agbur web
     .accesskey = S
@@ -491,7 +493,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = D acu ara imahel { -brand-short-name } s yifuyla-nniḍen?
 applications-save-for-new-types =
@@ -550,6 +552,12 @@ update-in-progress-ok-button = &Kkes
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kemmel
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -620,6 +628,9 @@ browsing-cfr-recommendations-learn-more = Issin ugar
 browsing-group =
     .label = Tunigin
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Iɣewwaṛen n uẓeṭṭa
@@ -671,6 +682,12 @@ use-current-pages =
 choose-bookmark =
     .label = Ticraḍ n isebtar…
     .accesskey = T
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -878,6 +895,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } ur ittusenqed ara.
 sync-signedin-login-failure = Ma ulac aɣilif sesteb akken ad tkecmeḍ { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -1039,7 +1061,7 @@ forms-ask-to-save-logins =
     .label = Suter akken ad teskelseḍ inekcam d wawalen uffiren i yismal web
     .accesskey = s
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1109,6 +1131,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Issin ugar
 forms-windows-sso-desc = Sefrek imiḍanen deg yiɣewwaren n yibenk-ik·im
 windows-passkey-settings-label = Sefrek tisura n unekcum deg yiɣewwaren n unagraw
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1646,8 +1671,23 @@ preferences-doh-manage-exceptions =
     .label = Sefrek tisuraf
     .accesskey = f
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tanarit
 downloads-folder-name = Isadaren
 choose-download-folder-title = Fren akaram i usnifel:
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
