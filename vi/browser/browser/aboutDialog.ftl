@@ -46,8 +46,12 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = Cập nhật có tại <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Cập nhật có tại <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <label data-l10n-name="unsupported-link">Tìm hiểu thêm</label>
+settings-update-unsupported = Bạn không thể cập nhật thêm trên hệ thống này nữa. <a data-l10n-name="unsupported-link">Tìm hiểu thêm</a>
 update-restarting = Đang khởi động lại…
+settings-update-restarting =
+    .label = Đang khởi động lại…
 update-internal-error2 = Không thể kiểm tra các bản cập nhật do lỗi nội bộ. Các bản cập nhật có sẵn tại <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Không thể kiểm tra các bản cập nhật do lỗi nội bộ. Các bản cập nhật có sẵn tại <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
