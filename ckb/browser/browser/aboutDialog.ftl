@@ -26,11 +26,17 @@ settings-update-downloading-2 =
 ##
 
 update-applying = جێبەجێکردنی نوێکردنەوە…
+settings-update-applying =
+    .label = جێبەجێکردنی نوێکردنەوە…
 update-failed = نوێکردنەوە سەرکەوتوو نەبوو. <label data-l10n-name="failed-link"> دووا وەشان دابگرە </label>
 update-failed-main = نوێکردنەوە سەرکەوتوو نەبوو. <a data-l10n-name="failed-link-main">دووا وەشان دابگرە</a>
 update-adminDisabled = نوێکردنەوە ناچالاک کراوە لە بەڕێوەبەری سیستمەکەتەوە
 update-noUpdatesFound = { -brand-short-name } ئێستا لە دووا وەشانە
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ئێستا لە دووا وەشانە
 update-otherInstanceHandlingUpdates = { -brand-short-name } نوێکرایەوە لەلایەن نمونەیەکی ترەوە
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } نوێکرایەوە لەلایەن نمونەیەکی ترەوە
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
