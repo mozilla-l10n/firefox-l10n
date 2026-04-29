@@ -45,6 +45,8 @@ settings-update-manual-with-link = Kemaskini tersedia di <a data-l10n-name="manu
 update-unsupported = Anda tidak boleh lagi melaksanakan kemaskini dalam sistem ini. <label data-l10n-name="unsupported-link">Ketahui selanjutnya</label>
 settings-update-unsupported = Anda tidak boleh lagi melaksanakan kemaskini dalam sistem ini. <a data-l10n-name="unsupported-link">Ketahui selanjutnya</a>
 update-restarting = Memulakan semula...
+settings-update-restarting =
+    .label = Memulakan semula...
 
 ##
 
