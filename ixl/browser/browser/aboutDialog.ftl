@@ -32,7 +32,11 @@ update-failed = Kat yan ib'anax tuche'. <label data-l10n-name="failed-link">Eq'o
 update-failed-main = Kat yan ib'anax tuche'. <a data-l10n-name="failed-link-main">Eq'o ku'tzan uve' a'nnal kuxh ib'anax tuche'</a>
 update-adminDisabled = Unq'a b'anb'al tuche' ya'samal ve't kat ta'n u ilol tetze'
 update-noUpdatesFound = { -brand-short-name } ile' b'a'n ve't tatine'
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ile' b'a'n ve't tatine'
 update-otherInstanceHandlingUpdates = { -brand-short-name } ile' ni b'anpu tuche' ta'n uma't lochb'al
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } ile' ni b'anpu tuche' ta'n uma't lochb'al
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -40,7 +44,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } ile' ni b'anpu tuche
 aboutdialog-update-manual-with-link = La uch ib'anax b'a'n stej tzitza' <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = La uch ib'anax b'a'n stej tzitza' <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ye' la uch ayakeb' ve't ti' ib'anat b'a'n stej tzitza'. <label data-l10n-name="unsupported-link">Ootzi ka'te</label>
+settings-update-unsupported = Ye' la uch ayakeb' ve't ti' ib'anat b'a'n stej tzitza'. <a data-l10n-name="unsupported-link">Ootzi ka'te</a>
 update-restarting = Ile' ni xe'tisa unpajte…
+settings-update-restarting =
+    .label = Ile' ni xe'tisa unpajte…
 
 ##
 
