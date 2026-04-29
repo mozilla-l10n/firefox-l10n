@@ -38,7 +38,11 @@ update-noUpdatesFound = Изданието е последното на { -brand
 settings-update-no-updates-found =
     .label = Изданието е последното на { -brand-short-name }
 aboutdialog-update-checking-failed = Невъзможна проверка за обновявания.
+settings-update-checking-failed =
+    .label = Невъзможна проверка за обновявания.
 update-otherInstanceHandlingUpdates = Друг екземпляр на { -brand-short-name } е започнал обновяване
+settings-update-other-instance-handling-updates =
+    .label = Друг екземпляр на { -brand-short-name } е започнал обновяване
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -46,10 +50,12 @@ update-otherInstanceHandlingUpdates = Друг екземпляр на { -brand-
 aboutdialog-update-manual-with-link = Обновяванията са налични на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Обновяванията са налични на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Не може повече да обновявате тази система. <label data-l10n-name="unsupported-link">Научете повече</label>
+settings-update-unsupported = Не може повече да обновявате тази система. <a data-l10n-name="unsupported-link">Научете повече</a>
 update-restarting = Рестартиране…
 settings-update-restarting =
     .label = Рестартиране…
 update-internal-error2 = Проверката за обновяване не е извършена поради вътрешна грешка. Новите издания са достъпно на <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Проверката за обновяване не е извършена поради вътрешна грешка. Новите издания са достъпно на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
