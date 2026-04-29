@@ -18,6 +18,8 @@ update-checkingForUpdates = Verificando se há atualizações…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Baixando atualização — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Baixando atualização — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Baixando atualização — { $transfer }
 
 ##
 
@@ -27,6 +29,8 @@ update-failed-main = Falha na atualização. <a data-l10n-name="failed-link-main
 update-adminDisabled = Atualizações desativadas pelo administrador do sistema
 update-policy-disabled = Atualizações desativadas pela sua organização
 update-noUpdatesFound = O { -brand-short-name } está atualizado
+settings-update-no-updates-found =
+    .label = O { -brand-short-name } está atualizado
 aboutdialog-update-checking-failed = Falha ao verificar se há atualizações.
 update-otherInstanceHandlingUpdates = O { -brand-short-name } está sendo atualizado por outra instância
 
