@@ -16,15 +16,23 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Méidote ána Jóneye…<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Méidote ána Jóneye…{ $transfer }
 
 ##
 
 update-applying = Méidote jójonede...
+settings-update-applying =
+    .label = Méidote jójonede...
 update-failed = Ñúe  fɨnófɨnoga fɨgoñede.<label data-l10n-name="failed-link">Kómue version béno jóne.</label>
 update-failed-main = Ñúe  fɨnófɨnoga fɨgoñede.<a data-l10n-name="failed-link-main">Kómue version béno jóne.</a>
 update-adminDisabled = Naama já ɨbaika fɨnóka
 update-noUpdatesFound = { -brand-short-name } jáa méidoga
+settings-update-no-updates-found =
+    .label = { -brand-short-name } jáa méidoga
 update-otherInstanceHandlingUpdates = { -brand-short-name } jɨaɨmona bíe ñúe fɨnofɨnoga
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } jɨaɨmona bíe ñúe fɨnofɨnoga
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
