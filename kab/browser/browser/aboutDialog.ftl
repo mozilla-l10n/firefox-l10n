@@ -12,6 +12,8 @@ update-updateButton =
     .label = Sker i tikkelt-nniḍen akken ad tleqqmeḍ{ -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Muqel ma yella lqem amaynut...
+settings-update-checking-for-updates =
+    .label = Muqel ma yella lqem amaynut...
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
