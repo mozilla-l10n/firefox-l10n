@@ -20,6 +20,8 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>सुधारणा डाउनलोड करत आहे — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = अपडेट डाउनलोड करत आहे — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = सुधारणा डाउनलोड करत आहे — { $transfer }
 
 ##
 
