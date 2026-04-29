@@ -12,6 +12,8 @@ update-updateButton =
     .label = Repornește pentru a actualiza { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Se caută actualizări…
+settings-update-checking-for-updates =
+    .label = Se caută actualizări…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
