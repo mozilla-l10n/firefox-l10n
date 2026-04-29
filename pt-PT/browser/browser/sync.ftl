@@ -37,6 +37,10 @@ fxa-menu-send-to-mobile =
            *[other] Enviar { $tabCount } separadores para dispositivo móvel
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Ative a sincronização para enviar um separador
+fxa-menu-send-to-mobile-connect-phone2 = Ligar o seu telemóvel
+fxa-menu-send-to-mobile-device-missing2 = Não vê o seu dispositivo?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Ative a sincronização para enviar um separador
 fxa-menu-send-to-mobile-connect-phone =
