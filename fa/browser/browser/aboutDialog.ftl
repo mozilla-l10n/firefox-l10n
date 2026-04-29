@@ -12,16 +12,22 @@ update-updateButton =
     .label = برای به‌روز رسانی { -brand-shorter-name }، دوباره اجرایش کنید
     .accesskey = ج
 update-checkingForUpdates = بررسی برای به‌روز رسانی‌ها…
+settings-update-checking-for-updates =
+    .label = بررسی برای به‌روز رسانی‌ها…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = بار گرفتن به‌روز رسانی — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = بار گرفتن به‌روز رسانی — { $transfer }
 
 ##
 
 update-applying = اعمال کردن به‌‌روز رسانی…
+settings-update-applying =
+    .label = اعمال کردن به‌‌روز رسانی…
 update-failed = به‌روزرسانی شکست خورد. <label data-l10n-name="failed-link">جدیدترین نگارش را بارگیری کنید</label>
 update-failed-main = به‌روزرسانی شکست خورد. <a data-l10n-name="failed-link-main">جدیدترین نگارش را بارگیری کنید</a>
 update-adminDisabled = مدیر سامانه‌تان به‌روز رسانی‌ها را از کار انداخته
@@ -40,8 +46,12 @@ settings-update-other-instance-handling-updates =
 aboutdialog-update-manual-with-link = به‌روز رسانی‌ها در <label data-l10n-name="manual-link">{ $displayUrl }</label> موجودند
 settings-update-manual-with-link = به‌روز رسانی‌ها در <a data-l10n-name="manual-link">{ $displayUrl }</a> موجودند
 update-unsupported = روی این سامانه نمی‌توانید بیش از این به‌روز کنید. <label data-l10n-name="unsupported-link">بیشتر بدانید</label>
+settings-update-unsupported = روی این سامانه نمی‌توانید بیش از این به‌روز کنید. <a data-l10n-name="unsupported-link">بیشتر بدانید</a>
 update-restarting = اجرا کردن دوباره…
+settings-update-restarting =
+    .label = اجرا کردن دوباره…
 update-internal-error2 = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <label data-l10n-name="manual-link">{ $displayUrl }</label> موجودند
+settings-update-internal-error = به خاطر خطایی درونی، بررسی برای به‌روز رسانی‌ها انجام نشد. به‌روز رسانی‌ها در <a data-l10n-name="manual-link">{ $displayUrl }</a> موجودند
 
 ##
 
