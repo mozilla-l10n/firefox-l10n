@@ -32,7 +32,11 @@ update-failed = 更新失败。 <label data-l10n-name="failed-link">下载最新
 update-failed-main = 更新失败。 <a data-l10n-name="failed-link-main">下载最新版本</a>
 update-adminDisabled = 更新已被系统管理员禁用
 update-policy-disabled = 您的组织禁用了更新
+settings-update-policy-disabled =
+    .label = 您的组织禁用了更新
 update-noUpdatesFound = { -brand-short-name } 已是最新
+settings-update-no-updates-found =
+    .label = { -brand-short-name } 已是最新
 aboutdialog-update-checking-failed = 检查更新失败。
 settings-update-checking-failed =
     .label = 检查更新失败。
