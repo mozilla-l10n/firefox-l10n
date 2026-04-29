@@ -275,6 +275,9 @@ update-application-description = Mantegni { -brand-short-name } agiornou pe de m
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verscion { $version } <a data-l10n-name="learn-more">Novitæ</a>
+update-history-2 =
+    .label = Fanni vedde a stöia di agiornamenti
+    .accesskey = g
 update-history =
     .label = Fanni vedde a stöia di agiornamenti…
     .accesskey = g
