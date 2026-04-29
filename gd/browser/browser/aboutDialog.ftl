@@ -18,6 +18,8 @@ update-checkingForUpdates = A' lorg ùrachaidhean…
 
 settings-update-downloading = <img data-l10n-name="icon"/>A' luchdadh a-nuas an ùrachaidh — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = A’ luchdadh a-nuas an ùrachaidh – <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = A' luchdadh a-nuas an ùrachaidh — { $transfer }
 
 ##
 
