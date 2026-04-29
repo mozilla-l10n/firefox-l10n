@@ -1736,5 +1736,7 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>¿Tenda ojehacha ojekaha?</strong> Emyanyhẽ jey emomichĩ hag̃ua ñemo’ã tapykuehoha rovake.
 reduced-protection-infobar-reload-button = Myanyhẽjey
     .accesskey = R

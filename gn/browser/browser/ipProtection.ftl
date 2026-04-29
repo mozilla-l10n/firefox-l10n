@@ -31,6 +31,8 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Eiporu ore <a d
 ipprotection-feature-introduction-description-private-browsing = Ñeikundaha ñemo’ãve ndive oñomívo péicha pe hendaite, taha’e jepe ovetã ñemíme.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = ¿Eike Wi-Fi rupive? Eiporu VPN jehe’apyre { -brand-product-name }
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Ehupyty <a data-l10n-name="learn-more-vpn">tekoñemive</a> eiporavóvo 5 tendaite apytégui eñomi hag̃ua eikundahaha.
 ipprotection-feature-introduction-description-captive-portal = Ñeikundaha ñemo’ãve ndive oñomívo hendaite, taha’e Wi-Fi ojeporukuaávape.
 ipprotection-feature-introduction-button-primary = Tenondegua
 ipprotection-feature-introduction-button-secondary-not-now = Ani ko’ág̃a
