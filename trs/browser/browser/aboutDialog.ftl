@@ -12,6 +12,8 @@ update-updateButton =
     .label = Duna'àj ni nachrun ñûnt da' nahuin nàkaj { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Nana’uij sa naka doj…
+settings-update-checking-for-updates =
+    .label = Nana’uij sa naka doj…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
