@@ -18,6 +18,8 @@ update-checkingForUpdates = Paréksa peuë nyang barô…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Neu-unduh beunarô — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Teungoh geupubarô—<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Neu-unduh beunarô — { $transfer }
 
 ##
 
