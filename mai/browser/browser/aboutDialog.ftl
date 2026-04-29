@@ -20,14 +20,20 @@ settings-update-checking-for-updates =
 
 settings-update-downloading = <img data-l10n-name="icon"/>अद्यतन डाउनलोड कए रहल अछि — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = अपडेट डाउनलोड क रहल अछि — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = अद्यतन डाउनलोड कए रहल अछि — { $transfer }
 
 ##
 
 update-applying = अद्यतन लागू कए रहल अछि…
+settings-update-applying =
+    .label = अद्यतन लागू कए रहल अछि…
 update-failed = अद्यतन विफल. <label data-l10n-name="failed-link">नवीनतम संस्करण डाउनलोड करू </label>
 update-failed-main = अद्यतन विफल. <a data-l10n-name="failed-link-main">नवीनतम संस्करण डाउनलोड करू </a>
 update-adminDisabled = अद्यतन केँ अहाँक सिस्टम प्रशासक क द्वारा निष्क्रिय कएल गेल अछि
 update-noUpdatesFound = { -brand-short-name } अद्यतन अछि
+settings-update-no-updates-found =
+    .label = { -brand-short-name } अद्यतन अछि
 aboutdialog-update-checking-failed = अपडेट जाँचए में बिफल.
 settings-update-checking-failed =
     .label = अपडेट जाँचए में बिफल.
