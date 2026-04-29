@@ -12,6 +12,8 @@ update-updateButton =
     .label = Endurræstu til að uppfæra { -brand-shorter-name }
     .accesskey = r
 update-checkingForUpdates = Athuga með uppfærslur…
+settings-update-checking-for-updates =
+    .label = Athuga með uppfærslur…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
