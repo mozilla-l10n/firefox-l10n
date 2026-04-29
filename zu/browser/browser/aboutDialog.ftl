@@ -5,6 +5,8 @@
 aboutDialog-title =
     .title = Ngokuphathelene ne-{ -brand-full-name }
 update-checkingForUpdates = Kuhlolwa ukuvuselelwa…
+settings-update-checking-for-updates =
+    .label = Kuhlolwa ukuvuselelwa…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
