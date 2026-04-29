@@ -30,6 +30,8 @@ update-noUpdatesFound = { -brand-short-name } nnhia ntoso
 settings-update-no-updates-found =
     .label = { -brand-short-name } nnhia ntoso
 update-otherInstanceHandlingUpdates = Instans foforo re to { -brand-short-name } so
+settings-update-other-instance-handling-updates =
+    .label = Instans foforo re to { -brand-short-name } so
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -37,6 +39,7 @@ update-otherInstanceHandlingUpdates = Instans foforo re to { -brand-short-name }
 aboutdialog-update-manual-with-link = Wo benya ntoso no wɔ <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Wo benya ntoso no wɔ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Wo renntumi nnyɛ ntoso biara bio wɔ sestɛm yi so. <label data-l10n-name="unsupported-link">Sua bi ka ho</label>
+settings-update-unsupported = Wo renntumi nnyɛ ntoso biara bio wɔ sestɛm yi so. <a data-l10n-name="unsupported-link">Sua bi ka ho</a>
 
 ##
 
