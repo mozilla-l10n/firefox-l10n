@@ -18,6 +18,8 @@ update-checkingForUpdates = Vyhľadávajú sa aktualizácie…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Sťahuje sa aktualizácia — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Sťahuje sa aktualizácia — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Sťahuje sa aktualizácia — { $transfer }
 
 ##
 
