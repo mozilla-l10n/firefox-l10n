@@ -26,13 +26,23 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Update toepassen…
+settings-update-applying =
+    .label = Update toepassen…
 update-failed = Update mislukt. <label data-l10n-name="failed-link">Download de nieuwste versie</label>
 update-failed-main = Update mislukt. <a data-l10n-name="failed-link-main">Download de nieuwste versie</a>
 update-adminDisabled = Updates zijn uitgeschakeld door uw systeembeheerder
 update-policy-disabled = Updates uitgeschakeld door uw organisatie
+settings-update-policy-disabled =
+    .label = Updates uitgeschakeld door uw organisatie
 update-noUpdatesFound = { -brand-short-name } is up-to-date
+settings-update-no-updates-found =
+    .label = { -brand-short-name } is up-to-date
 aboutdialog-update-checking-failed = Kan niet controleren op updates.
+settings-update-checking-failed =
+    .label = Kan niet controleren op updates.
 update-otherInstanceHandlingUpdates = { -brand-short-name } wordt door een ander exemplaar bijgewerkt
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } wordt door een ander exemplaar bijgewerkt
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -40,8 +50,12 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } wordt door een ander
 aboutdialog-update-manual-with-link = Updates beschikbaar op <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Updates beschikbaar op <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = U kunt op dit systeem geen updates meer installeren. <label data-l10n-name="unsupported-link">Meer info</label>
+settings-update-unsupported = U kunt op dit systeem geen updates meer installeren. <a data-l10n-name="unsupported-link">Meer info</a>
 update-restarting = Herstarten…
+settings-update-restarting =
+    .label = Herstarten…
 update-internal-error2 = Kan niet controleren op updates vanwege een interne fout. Updates beschikbaar op <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Kan niet controleren op updates vanwege een interne fout. Updates beschikbaar op <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
