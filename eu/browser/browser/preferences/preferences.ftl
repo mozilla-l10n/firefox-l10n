@@ -676,6 +676,9 @@ update-application-description = Mantendu { -brand-short-name } eguneratuta erre
 # Variables:
 # $version (string) - Firefox version
 update-application-version = { $version }bertsioa <a data-l10n-name="learn-more">Nobedadeak</a>
+update-history-2 =
+    .label = Erakutsi eguneraketen historia
+    .accesskey = E
 update-history =
     .label = Erakutsi eguneraketen historia…
     .accesskey = E
