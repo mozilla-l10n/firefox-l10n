@@ -30,6 +30,8 @@ update-noUpdatesFound = { -brand-short-name } тиһэх барыла турар
 settings-update-no-updates-found =
     .label = { -brand-short-name } тиһэх барыла турар эбит
 update-otherInstanceHandlingUpdates = { -brand-short-name }: атын саҥардыы буола турар
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name }: атын саҥардыы буола турар
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -37,6 +39,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name }: атын саҥар
 aboutdialog-update-manual-with-link = Саҥардыы манна сытар <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Саҥардыы манна сытар <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Бу тиһиликкэ (систиэмэҕэ) салгыы саҥардыыны оҥорор кыаҕыҥ суох.<label data-l10n-name="unsupported-link">Сиһилии</label>
+settings-update-unsupported = Бу тиһиликкэ (систиэмэҕэ) салгыы саҥардыыны оҥорор кыаҕыҥ суох.<a data-l10n-name="unsupported-link">Сиһилии</a>
 
 ##
 
