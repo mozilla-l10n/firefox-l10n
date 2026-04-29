@@ -316,6 +316,9 @@ update-application-description = Teni { -brand-short-name } attualizzatu p’avi
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Virsiuni { $version } <a data-l10n-name="learn-more">Quali su’ i nuvità</a>
+update-history-2 =
+    .label = Mustra crunuluggìa di l’attualizzi
+    .accesskey = M
 update-history =
     .label = Mustra crunuluggìa di l’attualizzi…
     .accesskey = M
