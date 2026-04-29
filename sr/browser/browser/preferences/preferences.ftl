@@ -485,6 +485,8 @@ manage-browser-languages-button =
     .accesskey = П
 confirm-browser-language-change-description = Поново покрени { -brand-short-name } како би измене ступиле на снагу
 confirm-browser-language-change-button = Примени и поново покрени
+browser-language-install-error =
+    .message = { -brand-short-name } тренутно не може да ажурира списак језика. Проверите да ли сте повезани на интернет или покушајте поново.
 translate-web-pages =
     .label = Преведи садржај
     .accesskey = с
@@ -677,7 +679,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Шта { -brand-short-name } треба да ради са другим датотекама?
 applications-save-for-new-types =
@@ -761,6 +763,9 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -842,6 +847,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Сазнајте више
 browsing-group =
     .label = Прегледање
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1462,7 +1470,7 @@ forms-ask-to-save-logins =
     .label = Понуди чување лозинки за веб-сајтове
     .accesskey = ч
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1563,6 +1571,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Сазнајте више
 forms-windows-sso-desc = Управљајте налозима у подешавањима вашег уређаја
 windows-passkey-settings-label = Управљајте приступним кључевима у системским подешавањима
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2470,6 +2481,9 @@ preferences-doh-custom-provider-label =
     .aria-label = Унесите произвољну адресу достављача
 preferences-doh-header2 =
     .heading = DNS преко HTTPS-а
+
+## Connection and software security section
+
 
 ## The following strings are used in the Download section of settings
 
