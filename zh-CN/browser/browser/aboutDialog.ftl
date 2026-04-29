@@ -34,7 +34,11 @@ update-adminDisabled = 更新已被系统管理员禁用
 update-policy-disabled = 您的组织禁用了更新
 update-noUpdatesFound = { -brand-short-name } 已是最新
 aboutdialog-update-checking-failed = 检查更新失败。
+settings-update-checking-failed =
+    .label = 检查更新失败。
 update-otherInstanceHandlingUpdates = { -brand-short-name } 正在由其他实例更新
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } 正在由其他实例更新
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
