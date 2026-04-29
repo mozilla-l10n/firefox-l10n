@@ -12,6 +12,8 @@ update-updateButton =
     .label = Tunandi taaga ka { -brand-shorter-name } taagandi
     .accesskey = R
 update-checkingForUpdates = Taagandirey ceeci…
+settings-update-checking-for-updates =
+    .label = Taagandirey ceeci…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
