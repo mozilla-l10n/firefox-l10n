@@ -26,6 +26,8 @@ update-failed = Atjaunināšana neizdevās. <label data-l10n-name="failed-link">
 update-failed-main = Atjaunināšana neizdevās. <a data-l10n-name="failed-link-main">Lejupielādējiet jaunāko versiju</a>
 update-adminDisabled = Sistēmas administrators ir izslēdzis atjaunināšanu
 update-policy-disabled = Jūsu organizācija ir izslēgusi atjaunināšanu
+settings-update-policy-disabled =
+    .label = Jūsu organizācija ir izslēgusi atjaunināšanu
 update-noUpdatesFound = { -brand-short-name } ir atjaunināts uz jaunāko versiju
 aboutdialog-update-checking-failed = Neizdevās pārbaudīt, vai ir atjauninājumi.
 update-otherInstanceHandlingUpdates = { -brand-short-name } tiek atjaunināts citā instancē
