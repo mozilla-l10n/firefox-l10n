@@ -37,6 +37,8 @@ aboutdialog-update-checking-failed = Не удалось проверить на
 settings-update-checking-failed =
     .label = Не удалось проверить наличие обновлений.
 update-otherInstanceHandlingUpdates = { -brand-short-name } обновляется другим процессом
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } обновляется другим процессом
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -44,7 +46,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } обновляетс
 aboutdialog-update-manual-with-link = Обновления доступны на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Обновления доступны на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Вы не можете производить дальнейшие обновления на этой системе. <label data-l10n-name="unsupported-link">Подробнее</label>
+settings-update-unsupported = Вы не можете производить дальнейшие обновления на этой системе. <a data-l10n-name="unsupported-link">Подробнее</a>
 update-restarting = Перезапуск…
+settings-update-restarting =
+    .label = Перезапуск…
 update-internal-error2 = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-internal-error = Не удалось проверить наличие обновлений из-за внутренней ошибки. Обновления доступны по адресу <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
