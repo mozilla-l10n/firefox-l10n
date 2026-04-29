@@ -18,6 +18,8 @@ update-checkingForUpdates = Tajin yekanöx taq k'exoj ruwäch…
 
 settings-update-downloading = <img data-l10n-name="icon"/>Tajin niqasäx k'exoj ruwäch — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Niqasäx k'exoj — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Tajin niqasäx k'exoj ruwäch — { $transfer }
 
 ##
 
