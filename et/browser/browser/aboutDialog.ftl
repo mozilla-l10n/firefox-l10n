@@ -26,6 +26,8 @@ settings-update-downloading-2 =
 ##
 
 update-applying = Uuenduse rakendamine…
+settings-update-applying =
+    .label = Uuenduse rakendamine…
 update-failed = Uuendamine ebaõnnestus. <label data-l10n-name="failed-link">Laadi alla uusim versioon</label>
 update-failed-main = Uuendamine ebaõnnestus. <a data-l10n-name="failed-link-main">Laadi alla uusim versioon</a>
 update-adminDisabled = Uuendused on süsteemiadministraatori poolt keelatud
