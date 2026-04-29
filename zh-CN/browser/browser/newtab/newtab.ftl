@@ -528,6 +528,7 @@ newtab-weather-opt-in-not-now =
 newtab-weather-opt-in-yes =
     .label = 好的
 newtab-weather-opt-in-headline = 获取您当地的天气预报
+newtab-weather-opt-in-choose-location = 选择位置
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 纽约市
 # "Highest" here refers to the highest temperature of the day
@@ -600,6 +601,10 @@ newtab-section-follow-highlight-subtitle = 随心所好，悦见更多。
 newtab-section-block-button = 屏蔽
 newtab-section-blocked-button = 已屏蔽
 newtab-section-unblock-button = 取消屏蔽
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = 取消屏蔽“{ $topic }”
 
 ## Confirmation modal for blocking a section
 
@@ -630,6 +635,10 @@ newtab-custom-wallpaper-cta = 试试看
 newtab-new-user-custom-wallpaper-title = 选张壁纸，让 { -brand-product-name } 独具个性
 newtab-new-user-custom-wallpaper-subtitle = 自定义壁纸和颜色，让新标签页亲切如家。
 newtab-new-user-custom-wallpaper-cta = 现在就试试
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-cta = 选择壁纸
 
 ## Strings for download mobile highlight
 
