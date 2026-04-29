@@ -674,6 +674,9 @@ update-application-description = Hold { -brand-short-name } oppdatert for beste 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Versjon { $version } <a data-l10n-name="learn-more">Hva er nytt</a>
+update-history-2 =
+    .label = Vis oppdateringshistorikk
+    .accesskey = p
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
@@ -690,6 +693,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Når { -brand-short-name } ikke kjører
     .accesskey = N
+update-application-warning-cross-user-setting-2 =
+    .message = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 update-application-warning-cross-user-setting = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 update-application-use-service =
     .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
