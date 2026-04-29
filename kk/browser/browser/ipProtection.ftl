@@ -231,6 +231,8 @@ vpn-paused-alert-title = VPN аялдатылды
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Сіз VPN деректеріңіздің барлық { $maxUsage } ГБ көлемін пайдаландыңыз. VPN-ге қол жеткізу мүмкіндігі келесі айда қалпына келтіріледі.
+vpn-error-page-continue-description = VPN-сіз қалай жалғастыру керектігін таңдаңыз
+vpn-error-page-keep-browsing = Осы сессияда шолуды жалғастыру
 vpn-error-page-new-session = Жаңа сессияны бастау
 vpn-paused-alert-close-tabs-button = Барлық беттерді жабу
 vpn-paused-alert-continue-wo-vpn-button = VPN-сіз жалғастыру
