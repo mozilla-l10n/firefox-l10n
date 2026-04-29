@@ -12,6 +12,8 @@ update-updateButton =
     .label = Nwo cako me keto ngec manyen i { -brand-shorter-name }
     .accesskey = N
 update-checkingForUpdates = Roto pi ngec manyen…
+settings-update-checking-for-updates =
+    .label = Roto pi ngec manyen…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
