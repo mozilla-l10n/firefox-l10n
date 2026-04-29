@@ -405,6 +405,9 @@ update-application-description = Junelïk tik'ex ri { -brand-short-name } richin
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Ruwäch { $version } <a data-l10n-name="learn-more">Achike natzijoj</a>
+update-history-2 =
+    .label = Tik'ut pe ri runatab'al K'exoj ruwäch
+    .accesskey = K
 update-history =
     .label = Tik'ut pe ri runatab'al K'exoj ruwäch…
     .accesskey = K
