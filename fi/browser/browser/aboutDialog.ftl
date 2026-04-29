@@ -16,6 +16,8 @@ update-updateButton =
     .label = Päivitä käynnistämällä { -brand-shorter-name } uudestaan
     .accesskey = P
 update-checkingForUpdates = Haetaan päivityksiä…
+settings-update-checking-for-updates =
+    .label = Haetaan päivityksiä…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
