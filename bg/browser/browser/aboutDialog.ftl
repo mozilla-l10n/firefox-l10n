@@ -47,6 +47,8 @@ aboutdialog-update-manual-with-link = Обновяванията са налич
 settings-update-manual-with-link = Обновяванията са налични на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Не може повече да обновявате тази система. <label data-l10n-name="unsupported-link">Научете повече</label>
 update-restarting = Рестартиране…
+settings-update-restarting =
+    .label = Рестартиране…
 update-internal-error2 = Проверката за обновяване не е извършена поради вътрешна грешка. Новите издания са достъпно на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
