@@ -676,6 +676,9 @@ update-application-description = כדאי להשאיר את { -brand-short-name 
 # Variables:
 # $version (string) - Firefox version
 update-application-version = גרסה { $version } <a data-l10n-name="learn-more">מה חדש</a>
+update-history-2 =
+    .label = הצגת היסטוריית עדכונים
+    .accesskey = ה
 update-history =
     .label = הצגת היסטוריית עדכונים…
     .accesskey = ה
@@ -692,6 +695,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = כאשר { -brand-short-name } אינו פועל
     .accesskey = כ
+update-application-warning-cross-user-setting-2 =
+    .message = הגדרה זו תחול על כל חשבונות Windows ופרופילי { -brand-short-name } המשתמשים בהתקנה זו של { -brand-short-name }.
 update-application-warning-cross-user-setting = הגדרה זו תחול על כל חשבונות Windows ופרופילי { -brand-short-name } המשתמשים בהתקנה זו של { -brand-short-name }.
 update-application-use-service =
     .label = שימוש בשירות רקע לשם התקנת עדכונים
