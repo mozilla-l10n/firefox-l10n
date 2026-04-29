@@ -12,6 +12,8 @@ update-updateButton =
     .label = Puorstarteit { -brand-shorter-name }, kab atjaunynuotu
     .accesskey = R
 update-checkingForUpdates = Meklej atjaunynuojumus…
+settings-update-checking-for-updates =
+    .label = Meklej atjaunynuojumus…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
