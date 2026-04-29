@@ -26,7 +26,11 @@ update-failed = L'anovamientu falló. <label data-l10n-name="failed-link">Baxa l
 update-failed-main = L'anovamientu falló. <a data-l10n-name="failed-link-main">Baxa la última versión</a>
 update-adminDisabled = L'alministrador del sistema desactivó los anovamientos
 update-noUpdatesFound = { -brand-short-name } ta anováu
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ta anováu
 update-otherInstanceHandlingUpdates = Otra instancia ta anovando { -brand-short-name }
+settings-update-other-instance-handling-updates =
+    .label = Otra instancia ta anovando { -brand-short-name }
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
