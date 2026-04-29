@@ -18,6 +18,8 @@ settings-update-checking-for-updates =
 ##
 
 update-noUpdatesFound = igezweho
+settings-update-no-updates-found =
+    .label = igezweho
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
