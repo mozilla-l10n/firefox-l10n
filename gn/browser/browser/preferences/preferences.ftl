@@ -675,6 +675,9 @@ update-application-description = Eguereko { -brand-short-name } tekopyahúreve h
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Peteĩchagua{ $version } <a data-l10n-name="learn-more">Oĩpa mba’e pyahu</a>
+update-history-2 =
+    .label = Tembiasakue rekopyahu jehechauka
+    .accesskey = p
 update-history =
     .label = Tembiasakue rekopyahu jehechauka…
     .accesskey = p
@@ -691,6 +694,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = { -brand-short-name } nomba’apói jave
     .accesskey = W
+update-application-warning-cross-user-setting-2 =
+    .message = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oiporúvo ko { -brand-short-name } ñemohenda.
 update-application-warning-cross-user-setting = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oiporúvo ko { -brand-short-name } ñemohenda.
 update-application-use-service =
     .label = Eiporu peteĩ mba’epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
