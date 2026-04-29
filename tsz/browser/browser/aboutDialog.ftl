@@ -13,14 +13,20 @@ update-checkingForUpdates = Jimpanhe ampe jirhinhantaxati…
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Jatsirantaxati jimpanhe ma — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Jatsirantaxati jimpanhe ma — { $transfer }
 
 ##
 
 update-applying = Iasi anapu ampe úrani jarhani…
+settings-update-applying =
+    .label = Iasi anapu ampe úrani jarhani…
 update-failed = No jatanhentasti. <label data-l10n-name="failed-link">Sánteru jimpanhe ma jirinhantsï</label>
 update-failed-main = No jatanhentasti. <a data-l10n-name="failed-link-main">Sánteru jimpanhe ma jirinhantsï</a>
 update-adminDisabled = Iasi anapu ampe enka no tsinharhitini jaka xanhatatirini jimpo
 update-otherInstanceHandlingUpdates = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } iasi anapu 'ukuatsati materu jasî anapu jimpo
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -28,6 +34,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } iasi anapu 'ukuatsat
 aboutdialog-update-manual-with-link = Ixuri exeantauaka sánteru jimpanhechani <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ixuri exeantauaka sánteru jimpanhechani <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Noteru úatiksi úkauni santeru iasi anapu ampeecha arini miiunharhitakuani jimpo. <label data-l10n-name="unsupported-link">Sánteru mítini</label>
+settings-update-unsupported = Noteru úatiksi úkauni santeru iasi anapu ampeecha arini miiunharhitakuani jimpo. <a data-l10n-name="unsupported-link">Sánteru mítini</a>
 
 ##
 
