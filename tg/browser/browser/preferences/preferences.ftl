@@ -451,6 +451,8 @@ manage-browser-languages-button =
     .accesskey = Т
 confirm-browser-language-change-description = Барои татбиқ кардани ин тағйирот, «{ -brand-short-name }»-ро аз нав оғоз намоед
 confirm-browser-language-change-button = Татбиқ ва аз нав оғоз кардан
+browser-language-install-error =
+    .message = «{ -brand-short-name }» ҳоло забонҳои шуморо нав карда наметавонад. Пайваст будани интернетро санҷед ё аз нав кӯшиш кунед.
 translate-web-pages =
     .label = Тарҷума кардани муҳтавои сомона
     .accesskey = Т
@@ -641,7 +643,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-handle-new-file-types-description = Аз тарафи «{ -brand-short-name }» бо файлҳои дигар чӣ бояд кард?
 applications-save-for-new-types =
@@ -699,6 +701,9 @@ update-in-progress-ok-button = &Рад кардан
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1383,7 +1388,7 @@ forms-ask-to-save-logins =
     .label = Пурсидани имкони нигоҳ доштани воридшавиҳо ва ниҳонвожаҳо барои сомонаҳо
     .accesskey = П
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -1484,6 +1489,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Маълумоти бештар
 forms-windows-sso-desc = Ҳисобҳоро дар танзимоти дастгоҳи худ идора кунед
 windows-passkey-settings-label = Идоракунии шоҳкалидҳо дар танзимоти низомӣ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2236,6 +2244,9 @@ preferences-doh-select-resolver-label =
 preferences-doh-header2 =
     .heading = «DNS» тавассути «HTTPS»
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Мизи корӣ
@@ -2306,3 +2317,6 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled =
     .label = Хонандаи нақши ангуштони номаълум
 preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
     .aria-label = Хонандаи нақши ангуштони номаълум
+
+## Warnings section
+
