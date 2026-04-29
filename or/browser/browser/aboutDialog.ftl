@@ -19,15 +19,23 @@ settings-update-checking-for-updates =
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/> ଅପଡେଟ ଡାଉନଲୋଡ଼ ହେଉଛି --<label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = { " " }ଅପଡେଟ ଡାଉନଲୋଡ଼ ହେଉଛି --{ $transfer }
 
 ##
 
 update-applying = ଅପଡେଟଟି ପ୍ରୟୋଗ କରୁଛି…
+settings-update-applying =
+    .label = ଅପଡେଟଟି ପ୍ରୟୋଗ କରୁଛି…
 update-failed = ଅପଡେଟ ବିଫଳ ।<label data-l10n-name="failed-link">ନୂତନତମ ସଂସ୍କରଣକୁ ଆହରଣ କରନ୍ତୁ</label>
 update-failed-main = ଅପଡେଟ ବିଫଳ ।<a data-l10n-name="failed-link-main">ନୂତନତମ ସଂସ୍କରଣକୁ ଆହରଣ କରନ୍ତୁ</a>
 update-adminDisabled = ଆପଣଙ୍କ ସିଷ୍ଟମ ପରିଚାଳକଙ୍କ ଦ୍ୱାରା ନିଷ୍କ୍ରିୟ କରାଯାଇଥିବା ଅପଡେଟସବୁ
 update-noUpdatesFound = { -brand-short-name } ଟି ଅଦ୍ୟତିତ ଅଛି
+settings-update-no-updates-found =
+    .label = { -brand-short-name } ଟି ଅଦ୍ୟତିତ ଅଛି
 update-otherInstanceHandlingUpdates = { -brand-short-name } ଅନ୍ୟ ଏକ ସ୍ଥିତିରେ ଅଦ୍ୟତିତ ହୋଇଛି
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } ଅନ୍ୟ ଏକ ସ୍ଥିତିରେ ଅଦ୍ୟତିତ ହୋଇଛି
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -35,7 +43,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } ଅନ୍ୟ ଏକ 
 aboutdialog-update-manual-with-link = ଅପଡେଟସବୁ ଏଠାରେ ପାଇବେ:<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = ଅପଡେଟସବୁ ଏଠାରେ ପାଇବେ:<a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = ଏହି ସିଷ୍ଟମରେ ଆଉ ଅପଡେଟ କରିପାରିବେ ନାହିଁ ।<label data-l10n-name="unsupported-link">ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ</label>
+settings-update-unsupported = ଏହି ସିଷ୍ଟମରେ ଆଉ ଅପଡେଟ କରିପାରିବେ ନାହିଁ ।<a data-l10n-name="unsupported-link">ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ</a>
 update-restarting = ବନ୍ଦହେଲାପରେ ପୁଣିଥରେ ଆରମ୍ଭ କରୁଅଛି…
+settings-update-restarting =
+    .label = ବନ୍ଦହେଲାପରେ ପୁଣିଥରେ ଆରମ୍ଭ କରୁଅଛି…
 
 ##
 
