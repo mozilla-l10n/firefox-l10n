@@ -682,6 +682,9 @@ update-application-description = Źaržćo { -brand-short-name } aktualny, za ne
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Wersija { $version } <a data-l10n-name="learn-more">Nowe funkcije a změny</a>
+update-history-2 =
+    .label = Aktualizacisku historiju pokazaś
+    .accesskey = h
 update-history =
     .label = Aktualizacisku historiju pokazaś…
     .accesskey = h
@@ -698,6 +701,8 @@ update-application-manual =
 update-application-background-enabled =
     .label = Gaž { -brand-short-name } njeběžy
     .accesskey = G
+update-application-warning-cross-user-setting-2 =
+    .message = Toś to nastajenje se na wšykne konta Windows a profile { -brand-short-name } nałožujo, kótarež toś tu instalaciju { -brand-short-name } wužywaju.
 update-application-warning-cross-user-setting = Toś to nastajenje se na wšykne konta Windows a profile { -brand-short-name } nałožujo, kótarež toś tu instalaciju { -brand-short-name } wužywaju.
 update-application-use-service =
     .label = Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś
