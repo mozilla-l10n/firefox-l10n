@@ -12,12 +12,16 @@ update-updateButton =
     .label = Restartujte za nadogradnju { -brand-shorter-name }a
     .accesskey = R
 update-checkingForUpdates = Provjeravam za nadogradnju…
+settings-update-checking-for-updates =
+    .label = Provjeravam za nadogradnju…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
 settings-update-downloading = <img data-l10n-name="icon"/>Preuzimam nadogradnju — <label data-l10n-name="download-status">{ $transfer }</label>
 aboutdialog-update-downloading = Preuzimanje nadogradnje — <label data-l10n-name="download-status">{ $transfer }</label>
+settings-update-downloading-2 =
+    .label = Preuzimam nadogradnju — { $transfer }
 
 ##
 
