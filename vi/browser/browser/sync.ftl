@@ -37,6 +37,10 @@ fxa-menu-send-to-mobile =
            *[other] Gửi { $tabCount } thẻ tới điện thoại
         }
 # The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
+fxa-menu-send-to-mobile-enable-sync2 = Bật đồng bộ hoá để gửi một thẻ
+fxa-menu-send-to-mobile-connect-phone2 = Kết nối điện thoại của bạn
+fxa-menu-send-to-mobile-device-missing2 = Không thấy thiết bị của bạn?
+# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
 fxa-menu-send-to-mobile-enable-sync =
     .label = Bật đồng bộ hoá để gửi một thẻ
 fxa-menu-send-to-mobile-connect-phone =
