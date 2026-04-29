@@ -12,6 +12,8 @@ update-updateButton =
     .label = { -brand-shorter-name } புதுப்பிக்க மீள் துவக்கு
     .accesskey = R
 update-checkingForUpdates = புதிய பதிப்பு உள்ளதா எனப் பார்க்கிறது…
+settings-update-checking-for-updates =
+    .label = புதிய பதிப்பு உள்ளதா எனப் பார்க்கிறது…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
