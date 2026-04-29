@@ -20,6 +20,8 @@ update-updateButton =
         }
     .accesskey = Р
 update-checkingForUpdates = Тражи се ажурирање…
+settings-update-checking-for-updates =
+    .label = Тражи се ажурирање…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -57,6 +59,8 @@ aboutdialog-update-checking-failed = Провера ажурирања није 
 settings-update-checking-failed =
     .label = Провера ажурирања није успела.
 update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира у другој инстанци
+settings-update-other-instance-handling-updates =
+    .label = { -brand-short-name } се ажурира у другој инстанци
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
@@ -64,6 +68,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } се ажурира 
 aboutdialog-update-manual-with-link = Ажурирања су доступна на <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Ажурирања су доступна на <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Не можете да извршите ажурирања на овом систему. <label data-l10n-name="unsupported-link">Сазнајте више</label>
+settings-update-unsupported = Не можете да извршите ажурирања на овом систему. <a data-l10n-name="unsupported-link">Сазнајте више</a>
 update-restarting = Поново покрећем…
 settings-update-restarting =
     .label = Поново покрећем…
