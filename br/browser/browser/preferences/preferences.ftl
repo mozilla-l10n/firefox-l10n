@@ -295,6 +295,8 @@ manage-browser-languages-button =
     .accesskey = Y
 confirm-browser-language-change-description = Adloc'hañ { -brand-short-name } evit arloañ ar c'hemmoù
 confirm-browser-language-change-button = Arloañ hag adloc'hañ
+browser-language-install-error =
+    .message = { -brand-short-name } a c'hall hizivaat ho yezhoù bremañ. Gwiriekait emaoc'h kennasket d'an internet pe klaskit en-dro.
 translate-web-pages =
     .label = Treiñ an endalc'had web
     .accesskey = T
@@ -416,7 +418,7 @@ applications-use-other-label =
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
-##
+## Firefox updates
 
 applications-save-for-new-types =
     .label = Enrollañ ar restroù
@@ -471,6 +473,12 @@ update-in-progress-ok-button = &Argas
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kenderc'hel
+
+## Firefox updates
+
+
+## Firefox support
+
 
 ## General Section - Performance
 
@@ -533,6 +541,9 @@ browsing-cfr-recommendations-learn-more = Gouzout hiroc’h
 browsing-group =
     .label = Furchal
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Arventennoù ar rouedad
@@ -584,6 +595,12 @@ use-current-pages =
 choose-bookmark =
     .label = Arverañ ur sined…
     .accesskey = r
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -780,6 +797,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
 sync-signedin-login-failure = En em zilesait evit adkennaskañ { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -936,7 +958,7 @@ forms-ask-to-save-logins =
     .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù
     .accesskey = G
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 # "Logins" is the former term for "Passwords". Users should find password settings
 # by searching for the former term "logins". It's not displayed in the UI.
@@ -997,6 +1019,9 @@ forms-windows-sso =
     .label = Aotren dilesa eeun Windows evit ar c’hontoù Microsoft, labour ha skol
 forms-windows-sso-learn-more-link = Gouzout hiroc’h
 forms-windows-sso-desc = Merañ ar c'hontoù e arventennoù ho trevnad
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1115,6 +1140,9 @@ sitedata-cookies-exceptions =
     .accesskey = M
 cookies-site-data-group =
     .label = Toupinoù ha roadennoù lec'hienn
+
+## Privacy Section - Cookie Banner Handling
+
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -1338,6 +1366,9 @@ data-collection-health-report-telemetry-disabled =
 data-collection-studies-link =
     .label = Gwelout studiadennoù { -brand-short-name }
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -1420,8 +1451,23 @@ preferences-doh-manage-exceptions =
     .label = Merañ an nemedennoù…
     .accesskey = x
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Burev
 downloads-folder-name = Pellgargadurioù
 choose-download-folder-title = Dibab un teuliad pellgargañ
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
