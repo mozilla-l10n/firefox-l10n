@@ -369,6 +369,8 @@ newtab-custom-widget-lists-toggle =
     .label = Liste
 newtab-custom-widget-timer-toggle =
     .label = Timer
+newtab-custom-widget-sports-toggle =
+    .label = Coppa del mondo
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
@@ -740,6 +742,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Completate ({ $number })
+newtab-widget-lists-celebration-headline = Ottimo lavoro
+newtab-widget-lists-celebration-subhead = Tutto fatto
 newtab-widget-task-list-menu-copy = Copia
 newtab-widget-lists-menu-edit = Modifica nome lista
 newtab-widget-lists-menu-edit2 =
@@ -760,6 +764,8 @@ newtab-widget-lists-input-menu-move-up = Sposta in alto
 newtab-widget-lists-input-menu-move-down = Sposta in basso
 newtab-widget-lists-input-menu-delete = Elimina
 newtab-widget-lists-input-menu-edit = Modifica
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Modifica elemento
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crea nuova lista
@@ -845,6 +851,46 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Segui squadre
+newtab-sports-widget-menu-view-upcoming = Visualizza in arrivo
+newtab-sports-widget-menu-view-results = Visualizza risultati
+newtab-sports-widget-menu-learn-more = Ulteriori informazioni
+newtab-sports-widget-countdown-title = Conto alla rovescia per i Mondiali
+newtab-sports-widget-get-updates = Ricevi aggiornamenti in tempo reale sulle partite e altro ancora.
+newtab-sports-widget-follow-teams =
+    .label = Segui squadre
+newtab-sports-widget-choose-wallpaper =
+    .label = Scegli uno sfondo
+newtab-sports-widget-skip = Salta
+newtab-sports-widget-search-teams =
+    .placeholder = Cerca nei team
+    .aria-label = Cerca nei team
+newtab-sports-widget-done-button =
+    .label = Fatto
+newtab-sports-widget-group-stage = Fase a gironi
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Aggiorna risultati
+    .aria-label = Aggiorna risultati
+newtab-sports-widget-upcoming = In arrivo
+newtab-sports-widget-results = Risultati
+newtab-sports-widget-semi-finals = Semifinali
+newtab-sports-widget-bronze-finals = Finale per il terzo posto
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = In ritardo
+newtab-sports-widget-postponed = Rinviato
+newtab-sports-widget-suspended = Sospeso
+newtab-sports-widget-cancelled = Annullato
+newtab-sports-widget-information = Informazioni sulla partita
+newtab-sports-widget-no-live-data = Al momento i dati delle partite in diretta non si stanno aggiornando
+newtab-sports-widget-view-results-link = Visualizza risultati
+newtab-sports-widget-third-place = Terzo posto
+newtab-sports-widget-champions = Campioni
+newtab-sports-widget-world-cup-champions = Campioni della Coppa del Mondo 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
