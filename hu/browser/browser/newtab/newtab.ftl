@@ -767,6 +767,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Ellenőrzőlista
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Feladatlista
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Ellenőrzőlista
+    .aria-label = Listanév szerkesztése
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Új lista
+    .aria-label = Listanév szerkesztése
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Ellenőrzőlista
 # The placeholder value of the name field for a newly created list
