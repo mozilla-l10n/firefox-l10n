@@ -760,6 +760,8 @@ newtab-widget-lists-input-menu-move-up = Вверх
 newtab-widget-lists-input-menu-move-down = Вниз
 newtab-widget-lists-input-menu-delete = Удалить
 newtab-widget-lists-input-menu-edit = Изменить
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Изменить элемент
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Создать новый список
