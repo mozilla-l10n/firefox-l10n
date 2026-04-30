@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = الإتاحة
     .title = { pane-accessibility-title }
+pane-languages-title = اللغات
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = تجارب { -brand-short-name }
 category-experimental =
     .tooltiptext = تجارب { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = واصِل وأنت حذر
 pane-experimental-search-results-header = تجارب { -brand-short-name }: واصِل وأنت حذر
 pane-experimental-description2 = يمكن أن يؤثّر التغيير على إعدادات الضبط المتقدمة أداء { -brand-short-name } وأمنه.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = جرّب ميزاتنا التجريبية! إنها قيد التطوير والتحديث، مما قد يؤثر على طريقة عمل { -brand-short-name } . لا نتلقى بيانات حول استخدامك لهذه الميزات إلا إذا كنت قد فعّلت <a data-l10n-name="data-collection">البيانات التقنية والتفاعلية</a>.
@@ -466,6 +473,14 @@ manage-browser-languages-button =
     .accesskey = د
 confirm-browser-language-change-description = أعِد تشغيل { -brand-short-name } لتطبيق التغييرات
 confirm-browser-language-change-button = طبِّق وأعِد التشغيل
+browser-language-heading =
+    .label = لغة المتصفّح
+    .description = اختر اللغة المستخدمة لعرض القوائم والرسائل والإشعارات من { -brand-short-name }.
+browser-language-preferred-label =
+    .label = اللغة المفضلة
+browser-language-fallback-label =
+    .label = اللغة الاحتياطية
+    .description = يُستخدم عندما تكون ترجمة اللغة المفضلة غير مكتملة.
 browser-language-install-error =
     .message = تعذّر على { -brand-short-name } تحديث لغاتك حاليا. تحقق من اتصالك بالإنترنت أو أعِد المحاولة.
 translate-web-pages =
@@ -685,6 +700,8 @@ update-application-version = الإصدارة { $version } <a data-l10n-name="le
 update-history-2 =
     .label = أظهر تأريخ التحديث
     .accesskey = ظ
+update-application-installation =
+    .label = التنصيب
 update-history =
     .label = أظهر تأريخ التحديث…
     .accesskey = ظ
@@ -964,6 +981,9 @@ home-prefs-recommended-by-description-generic = محتوى استثنائي من
 home-prefs-stories-header =
     .label = قصص
 home-prefs-stories-description = قصص مخصّصة بناءً على نشاطك
+home-prefs-stories-header2 =
+    .label = القصص
+    .description = محتوى استثنائي برعاية عائلة { -brand-product-name }
 
 ##
 
