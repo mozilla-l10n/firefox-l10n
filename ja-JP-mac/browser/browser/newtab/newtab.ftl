@@ -690,10 +690,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = 完了 ({ $number })
 newtab-widget-task-list-menu-copy = コピー
 newtab-widget-lists-menu-edit = リスト名を編集
+newtab-widget-lists-menu-edit2 =
+    .aria-label = リスト名を編集
 newtab-widget-lists-menu-create = 新規リストを作成
 newtab-widget-lists-menu-delete = このリストを削除
 newtab-widget-lists-menu-copy = リストをクリップボードにコピー
 newtab-widget-lists-menu-learn-more = 詳細情報
+newtab-widget-lists-button-add-item = アイテムを追加します
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = アイテムを追加します
+    .aria-label = アイテムを追加します
 newtab-widget-lists-input-add-an-item =
     .placeholder = アイテムを追加します
 newtab-widget-lists-input-error = 追加するアイテムにテキストを含めてください
@@ -730,8 +736,7 @@ newtab-widget-section-minimize =
     .aria-label = すべてのウィジェットをコンパクトサイズに折りたたみます
 newtab-widget-section-feedback = ご感想をお寄せください
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = タイマー
 newtab-widget-timer-notification-focus = 時間内に良い仕事をしましょう。休憩はいかが？
@@ -771,6 +776,9 @@ newtab-promo-card-cta = 詳細情報
 newtab-promo-card-dismiss-button =
     .title = 閉じる
     .aria-label = 閉じる
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
