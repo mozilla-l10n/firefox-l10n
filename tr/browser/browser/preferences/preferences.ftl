@@ -1575,6 +1575,17 @@ forms-windows-sso-learn-more-link = Daha fazla bilgi al
 forms-windows-sso-desc = Hesapları cihaz ayarlarınızdan yönetebilirsiniz
 windows-passkey-settings-label = Geçiş anahtarlarını sistem ayarlarından yönetebilirsiniz
 
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Gizlilik paneli ayarları
+    .description = İnternette bilgilerinizi koruma konusunda { -brand-short-name } size destek olabilir.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = İhlal mesajlarını göster
+    .accesskey = h
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.

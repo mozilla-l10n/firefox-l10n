@@ -2163,6 +2163,10 @@ collection-backlogged-crash-reports2 =
     .label = Toho ijehegui marandu jejavy rehegua
     .accesskey = c
 collection-backlogged-crash-reports-description = Kóva oipytyvõ { -vendor-short-name }-pe roikuaa ha romyatyrõvo apañuái kundahára ndive. Umi marandu’ípe oĩkuaa mba’ekuaarã nemba’ete ha ñemiguáva.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = ¡Heko orekovavoi, ijehecha iñambue!
+    .message = Romohenda jey ko kuatiarogue hasy’ỹve hag̃ua ñeporandu ha jeikekuaa. Ne ñemboheko tee naiñambuéi ha oĩ hendáicha. Ñemoñe’ẽ: eiporu hekaha ejuhu hag̃ua eikotevẽva guive.
 settings-redesign-promo-dismiss-button =
     .label = Aikũmby
 addon-recommendations =
