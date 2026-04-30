@@ -767,6 +767,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Λίστα ελέγχου
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Λίστα εργασιών
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Λίστα ελέγχου
+    .aria-label = Επεξεργασία ονόματος λίστας
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Νέα λίστα
+    .aria-label = Επεξεργασία ονόματος λίστας
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Λίστα ελέγχου
 # The placeholder value of the name field for a newly created list
