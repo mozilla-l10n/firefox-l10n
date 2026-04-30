@@ -738,10 +738,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Đã hoàn thành ({ $number })
 newtab-widget-task-list-menu-copy = Sao chép
 newtab-widget-lists-menu-edit = Chỉnh sửa tên danh sách
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Chỉnh sửa tên danh sách
 newtab-widget-lists-menu-create = Tạo một danh sách mới
 newtab-widget-lists-menu-delete = Xóa danh sách này
 newtab-widget-lists-menu-copy = Sao chép danh sách vào bộ nhớ tạm
 newtab-widget-lists-menu-learn-more = Tìm hiểu thêm
+newtab-widget-lists-button-add-item = Thêm một mục
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Thêm một mục
+    .aria-label = Thêm một mục
 newtab-widget-lists-input-add-an-item =
     .placeholder = Thêm một mục
 newtab-widget-lists-input-error = Vui lòng thêm văn bản để thêm mục.
@@ -788,8 +794,7 @@ newtab-widget-section-menu-learn-more = Tìm hiểu thêm
 newtab-widget-section-feedback = Hãy cho chúng tôi biết suy nghĩ của bạn
 newtab-widget-lists-name-default = Danh sách việc cần làm
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Bộ hẹn giờ
 newtab-widget-timer-notification-focus = Đã hết thời gian tập trung. Làm tốt lắm. Bạn cần nghỉ ngơi không?
@@ -829,6 +834,9 @@ newtab-promo-card-cta = Tìm hiểu thêm
 newtab-promo-card-dismiss-button =
     .title = Bỏ qua
     .aria-label = Bỏ qua
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
