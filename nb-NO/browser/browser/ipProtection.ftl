@@ -104,6 +104,13 @@ ipprotection-recommended-location-badge = NY
 ipprotection-location-country-button = Plassering: { $country }
 ipprotection-locations-subview =
     .title = Velg plassering
+ipprotection-locations-subview-description = Velg en annen plassering å surfe fra.
+ipprotecion-locations-subview-recommended-label = Anbefalt
+ipprotection-locations-subview-recommended-description = Finner den raskeste plasseringen
+ipprotection-locations-subview-promo =
+    .heading = Ta beskyttelsen videre med { -mozilla-vpn-brand-name }
+    .message = Velg mellom over 300 steder og beskytt alle appene dine på opptil 5 enheter.
+ipprotection-locations-subview-promo-button = Få { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -114,6 +121,10 @@ ipprotection-connection-status-paused-description = Du har brukt opp alle { $max
 upgrade-vpn-title = Få ekstra beskyttelse utover nettleseren
 upgrade-vpn-description = Velg VPN-plasseringen din, bruk VPN for alle appene dine og på opptil 5 enheter, og vær trygg på alle nettverk — hjemme eller på offentlig Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN er satt på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
 
 ## Messages and errors
 
@@ -255,6 +266,8 @@ vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av dine VPN-data.
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Du har brukt opp alle { $maxUsage } GB av dine VPN-data. Tilgangen nullstilles neste måned.
 vpn-error-page-continue-description = Velg hvordan du vil fortsette uten VPN
+vpn-error-page-keep-browsing = Fortsett å surfe i denne økten
+vpn-error-page-new-session = Start en ny programøkt
 vpn-paused-alert-close-tabs-button = Lukk alle faner
 vpn-paused-alert-continue-wo-vpn-button = Fortsett uten VPN
 vpn-error-alert-title = VPN fungerer ikke akkurat nå.

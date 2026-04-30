@@ -112,7 +112,7 @@ ipprotection-connection-status-paused-description = Du har brukt opp alle { $max
 upgrade-vpn-title = Få ekstra vern utover nettleseren
 upgrade-vpn-description = Vel VPN-plasseringa di, bruk VPN for alle appane dine, og på opptil 5 einingar, og ver trygg på alle nettverk — heime eller på offentleg Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
-ipprotection-connection-status-paused-title-1 = VPN sett på pause
+ipprotection-connection-status-paused-title-1 = VPN er sett på pause
 
 ## Messages and errors
 
