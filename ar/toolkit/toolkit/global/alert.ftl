@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 alert-close =
-    .tooltiptext = أغلق هذا التنبيه
+    .tooltiptext = أغلق هذا الإشعار
 alert-settings-title =
     .tooltiptext = الإعدادات
 

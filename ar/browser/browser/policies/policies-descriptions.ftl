@@ -113,7 +113,7 @@ policy-PasswordManagerExceptions = منع { -brand-short-name } من حفظ كل
 policy-PostQuantumKeyAgreementEnabled = فعِّل اتفاقية المفتاح ما بعد الكم لـ TLS.
 # PDF.js and PDF should not be translated
 policy-PDFjs = تعطيل أو ضبط PDF.js، عارِض ملفات PDF المضمّن في { -brand-short-name }.
-policy-Permissions2 = ضبط تصاريح الكمرة والمِكرفون والمكان والتنبيهات والتشغيل التلقائي.
+policy-Permissions2 = ضبط تصاريح الكمرة والمِكرفون والمكان والإشعارات والتشغيل التلقائي.
 policy-PictureInPicture = فعِّل أو عطِّل الفديو المعترِض.
 policy-PopupBlocking2 = اسمح لمواقع معينة بعرض النوافذ المنبثقة وإعادة التوجيه عبر نوافذ طرف ثالث.
 policy-PopupBlocking = اسمح لبعض المواقع بعرض المنبثقات مبدئيا.
