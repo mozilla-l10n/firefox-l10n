@@ -1046,7 +1046,7 @@ home-prefs-choose-wallpaper-link2 =
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
-    .message = Pour utiliser ces fonctionnalités, définissez nouveaux onglets ou nouvelles fenêtres pour { -firefox-home-brand-name }.
+    .message = Pour utiliser ces fonctionnalités, choisissez la { -firefox-home-brand-name } pour les nouveaux onglets ou les nouvelles fenêtres.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

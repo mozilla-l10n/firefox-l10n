@@ -88,7 +88,7 @@ smartblock-placeholder-button-text = Autoriser sur { $websitehost }
 # third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
 # replaced with a placeholder. The caption sits above a bordered content box
 # containing the extracted text.
-smartblock-placeholder-content-header = Contenu bloqué pour une intégration
+smartblock-placeholder-content-header = Contenu d’une intégration bloquée
 
 ##
 
