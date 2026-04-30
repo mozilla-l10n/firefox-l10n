@@ -852,20 +852,19 @@ newtab-promo-card-dismiss-button =
 
 ## Sports widget
 
-newtab-sports-widget-menu-follow-teams = Följ grupper
 newtab-sports-widget-menu-view-upcoming = Visa kommande
 newtab-sports-widget-menu-view-results = Visa resultat
 newtab-sports-widget-menu-learn-more = Läs mer
 newtab-sports-widget-countdown-title = Nedräkning till VM
 newtab-sports-widget-get-updates = Få liveuppdateringar om matcher och mycket mer.
 newtab-sports-widget-follow-teams =
-    .label = Följ grupper
+    .label = Följ lag
 newtab-sports-widget-choose-wallpaper =
     .label = Välj en bakgrundsbild
 newtab-sports-widget-skip = Hoppa över
 newtab-sports-widget-search-teams =
-    .placeholder = Sök efter grupper
-    .aria-label = Sök efter grupper
+    .placeholder = Sök efter lag
+    .aria-label = Sök efter lag
 newtab-sports-widget-done-button =
     .label = Klar
 newtab-sports-widget-group-stage = Gruppspel
@@ -884,7 +883,6 @@ newtab-sports-widget-postponed = Uppskjuten
 newtab-sports-widget-suspended = Avstängd
 newtab-sports-widget-cancelled = Avbruten
 newtab-sports-widget-information = Information om matchen
-newtab-sports-widget-no-live-data = Live-matchningsdata uppdateras inte just nu
 newtab-sports-widget-view-results-link = Visa resultat
 newtab-sports-widget-third-place = Tredje plats
 newtab-sports-widget-champions = Mästare

@@ -68,7 +68,7 @@ more-from-moz-new-products-button = Se nya produkter
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
 more-from-moz-firefox-mobile-qr-promo =
-    .message = Skanna med kameran på telefonen eller surfplattan för att hämta appen. Tryck på länken när den visas.
+    .message = Skanna med din telefons eller surfplattas kamera för att ladda ner appen. Tryck på länken när den visas.
 more-from-moz-firefox-mobile-email-link = Mejla nedladdningslänken till din telefon
 
 ## Product card strings for the config-based path. Each entry provides both
@@ -76,10 +76,10 @@ more-from-moz-firefox-mobile-email-link = Mejla nedladdningslänken till din tel
 
 more-from-moz-mozilla-monitor-card =
     .label = { -mozmonitor-brand-name }
-    .description = Ta reda på var din personliga information har exponerats online med en gratis skanning.
+    .description = Ta reda på var dina personuppgifter har exponerats online med en gratis skanning.
 more-from-moz-mozilla-vpn-card =
     .label = { -mozilla-vpn-brand-name }
-    .description = Få extra skydd för alla appar — inte bara din webbläsare. Håll din data säker på offentligt Wi-Fi och osäkra nätverk.
+    .description = Få extra skydd för alla appar — inte bara din webbläsare. Skydda dina data på offentliga Wi-Fi-nätverk och osäkra nätverk.
 more-from-moz-firefox-relay-card =
     .label = { -relay-brand-name }
     .description = Skydda din inkorg från skräppost med gratis e-postalias.
