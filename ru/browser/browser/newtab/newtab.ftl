@@ -765,6 +765,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Контрольный список
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Список задач
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Контрольный список
+    .aria-label = Изменить имя списка
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Новый список
+    .aria-label = Изменить имя списка
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Контрольный список
 # The placeholder value of the name field for a newly created list
