@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Περισσότερα από τη { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Περισσότερα από τη { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Περισσότερα από τη { -vendor-short-name }
 more-from-moz-subtitle = Δείτε τα άλλα προϊόντα της { -vendor-short-name } που υποστηρίζουν ένα υγιές διαδίκτυο.

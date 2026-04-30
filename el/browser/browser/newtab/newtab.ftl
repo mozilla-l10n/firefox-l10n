@@ -367,6 +367,8 @@ newtab-custom-widget-lists-toggle =
     .label = Λίστες
 newtab-custom-widget-timer-toggle =
     .label = Αντίστροφη μέτρηση
+newtab-custom-widget-sports-toggle =
+    .label = Παγκόσμιο Κύπελλο
 newtab-custom-widget-section-title = Γραφικά στοιχεία
 newtab-custom-widget-section-toggle =
     .label = Γραφικά στοιχεία
@@ -738,6 +740,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Ολοκληρωμένες ({ $number })
+newtab-widget-lists-celebration-headline = Καλή δουλειά
 newtab-widget-task-list-menu-copy = Αντιγραφή
 newtab-widget-lists-menu-edit = Επεξεργασία ονόματος λίστας
 newtab-widget-lists-menu-edit2 =
@@ -758,6 +761,8 @@ newtab-widget-lists-input-menu-move-up = Μετακίνηση πάνω
 newtab-widget-lists-input-menu-move-down = Μετακίνηση κάτω
 newtab-widget-lists-input-menu-delete = Διαγραφή
 newtab-widget-lists-input-menu-edit = Επεξεργασία
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Επεξεργασία στοιχείου
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Δημιουργία νέας λίστας
@@ -843,6 +848,45 @@ newtab-promo-card-cta = Μάθετε περισσότερα
 newtab-promo-card-dismiss-button =
     .title = Απόρριψη
     .aria-label = Απόρριψη
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Παρακολούθηση ομάδων
+newtab-sports-widget-menu-view-upcoming = Προβολή επερχόμενων
+newtab-sports-widget-menu-view-results = Προβολή αποτελεσμάτων
+newtab-sports-widget-menu-learn-more = Μάθετε περισσότερα
+newtab-sports-widget-countdown-title = Αντίστροφη μέτρηση για το Παγκόσμιο Κύπελλο
+newtab-sports-widget-get-updates = Λάβετε ενημερώσεις αγώνων σε πραγματικό χρόνο και πολλά άλλα.
+newtab-sports-widget-follow-teams =
+    .label = Παρακολούθηση ομάδων
+newtab-sports-widget-choose-wallpaper =
+    .label = Επιλογή ταπετσαρίας
+newtab-sports-widget-skip = Παράλειψη
+newtab-sports-widget-search-teams =
+    .placeholder = Αναζήτηση ομάδων
+    .aria-label = Αναζήτηση ομάδων
+newtab-sports-widget-done-button =
+    .label = Τέλος
+newtab-sports-widget-group-stage = Φάση ομίλου
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ΖΩΝΤΑΝΑ
+newtab-custom-widget-live-refresh =
+    .title = Ανανέωση βαθμολογιών
+    .aria-label = Ανανέωση βαθμολογιών
+newtab-sports-widget-upcoming = Επερχόμενοι
+newtab-sports-widget-results = Αποτελέσματα
+newtab-sports-widget-semi-finals = Ημιτελικοί
+newtab-sports-widget-bronze-finals = Αγώνας τρίτης θέσης
+newtab-sports-widget-final = Τελικός
+newtab-sports-widget-delayed = Καθυστέρησε
+newtab-sports-widget-postponed = Αναβλήθηκε
+newtab-sports-widget-suspended = Διακόπηκε
+newtab-sports-widget-cancelled = Ακυρώθηκε
+newtab-sports-widget-information = Πληροφορίες για τον αγώνα
+newtab-sports-widget-view-results-link = Προβολή αποτελεσμάτων
+newtab-sports-widget-third-place = Τρίτη θέση
+newtab-sports-widget-champions = Πρωταθλητές
+newtab-sports-widget-world-cup-champions = Πρωταθλητές Παγκοσμίου Κυπέλλου 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Προσβασιμότητα
     .title = { pane-accessibility-title }
+pane-languages-title = Γλώσσες
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Πειράματα { -brand-short-name }
 category-experimental =
     .tooltiptext = Πειράματα { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Συνεχίστε με προσοχή
 pane-experimental-search-results-header = Πειράματα { -brand-short-name }: Συνεχίστε με προσοχή
 pane-experimental-description2 = Η αλλαγή παραμέτρων των σύνθετων ρυθμίσεων μπορεί να επηρεάσει την απόδοση ή την ασφάλεια του { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Δοκιμάστε τις πειραματικές μας λειτουργίες! Βρίσκονται υπό ανάπτυξη και εξέλιξη, γεγονός που μπορεί να επηρεάσει τον τρόπο λειτουργίας του { -brand-short-name }. Λαμβάνουμε δεδομένα σχετικά με τη χρήση αυτών των λειτουργιών μόνο εφόσον έχετε ενεργοποιήσει τα <a data-l10n-name="data-collection">τεχνικά δεδομένα και τα δεδομένα αλληλεπίδρασης</a>.
@@ -460,6 +467,8 @@ manage-browser-languages-button =
     .accesskey = ν
 confirm-browser-language-change-description = Επανεκκίνηση του { -brand-short-name } για εφαρμογή αλλαγών
 confirm-browser-language-change-button = Εφαρμογή και επανεκκίνηση
+browser-language-preferred-label =
+    .label = Προτιμώμενη γλώσσα
 browser-language-install-error =
     .message = Το { -brand-short-name } δεν μπορεί να ενημερώσει τις γλώσσες σας αυτήν τη στιγμή. Ελέγξτε αν έχετε συνδεθεί στο διαδίκτυο ή δοκιμάστε ξανά.
 translate-web-pages =
@@ -679,6 +688,8 @@ update-application-version = Έκδοση { $version } <a data-l10n-name="learn-
 update-history-2 =
     .label = Εμφάνιση ιστορικού ενημερώσεων
     .accesskey = ν
+update-application-installation =
+    .label = Εγκατάσταση
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
     .accesskey = ν
@@ -719,6 +730,11 @@ update-in-progress-ok-button = &Απόρριψη
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Ειδοποιήσεις
 
 ## Firefox support
 
@@ -999,6 +1015,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Αντίστροφη μέτρηση
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Αθλήματα
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Υποστηρίξτε το { -brand-product-name }

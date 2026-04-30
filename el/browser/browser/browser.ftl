@@ -421,6 +421,12 @@ quickactions-cmd-inspector = επιθεώρηση, εργαλεία προγρα
 # Opens about:logins
 quickactions-logins2 = Διαχείριση κωδικών πρόσβασης
 quickactions-cmd-logins = συνδέσεις, στοιχεία σύνδεσης, διαπιστευτήρια, κωδικοί πρόσβασης, κωδικοί
+# Mutes all tabs playing audio
+quickactions-mute = Σίγαση καρτελών που αναπαράγουν ήχο
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = σίγαση, σιωπή, σουτ, σσσσς
 # Opens about:addons page in the plugins section
 quickactions-plugins = Διαχείριση αρθρωμάτων
 quickactions-cmd-plugins = αρθρώματα, plugins
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Η σύνδεσή σας με αυτόν τον ιστότοπο δεν είναι ασφαλής.
 identity-connection-verified = Η σύνδεσή σας με αυτόν τον ιστότοπο είναι ασφαλής.
 identity-ev-owner-label = Το πιστοποιητικό εκδόθηκε για:
+identity-verifier-label = Επαληθεύτηκε από:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Πιστοποιημένο όπως ορίζει ο Κανονισμός (ΕΕ) 2024/1183.
 identity-description-custom-root2 = Η Mozilla δεν αναγνωρίζει αυτόν τον εκδότη πιστοποιητικών. Ενδέχεται να έχει προστεθεί από το λειτουργικό σας σύστημα ή κάποιο διαχειριστή.
+identity-cert-exception-overridden = Έχετε προσθέσει μια εξαίρεση ασφαλείας για αυτόν τον ιστότοπο.
 identity-remove-cert-exception =
     .label = Αφαίρεση εξαίρεσης
     .accesskey = ρ
@@ -1740,3 +1748,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Φαίνεται προβληματικός ο ιστότοπος;</strong> Ανανεώστε τη σελίδα για να μειώσετε προσωρινά την προστασία από καταγραφή.
 reduced-protection-infobar-reload-button = Ανανέωση
     .accesskey = R
+reduced-protection-infobar-never-show-button = Να μην εμφανιστεί ξανά
+    .accesskey = Ν
