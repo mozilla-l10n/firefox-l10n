@@ -741,6 +741,13 @@ newtab-widget-lists-name-label-checklist =
     .label = 核对清单
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 任务清单
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = 核对清单
+    .aria-label = 编辑清单名称
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = 新清单
+    .aria-label = 编辑清单名称
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = 核对清单
 # The placeholder value of the name field for a newly created list
