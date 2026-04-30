@@ -68,6 +68,11 @@ category-sync3 =
 pane-ai-controls-title = KI-kontrollar
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-languages-title = Språk
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name }-eksperiment
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiment
@@ -75,6 +80,8 @@ pane-experimental-subtitle = Gå varsamt til verks
 pane-experimental-search-results-header = { -brand-short-name }-eksperiment: Fortset med varsemd
 pane-experimental-description2 = Endrar du avanserte konfigurasjonsinnstillingar kan det påverke yting eller sikkerheit i { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Prøv dei eksperimentelle funksjonane våre! Dei er under utvikling og i endring, noko som kan påverke korleis { -brand-short-name } fungerer. Vi får berre data om bruken din av desse funksjonane om du har <a data-l10n-name="data-collection">tekniske data og interaksjonsdata</a> slått på.
@@ -458,6 +465,11 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke desse endringane
 confirm-browser-language-change-button = Bruk og start på nytt
+browser-language-preferred-label =
+    .label = Føretrekt språk
+browser-language-fallback-label =
+    .label = Reservespråk
+    .description = Blir brukt når lokaliseringa av føretrekt språk er ufullstendig.
 browser-language-install-error =
     .message = { -brand-short-name } kan ikkje oppdatere språka dine akkurat no. Kontroller at du er kopla til Internett, eller prøv på nytt.
 translate-web-pages =
@@ -717,6 +729,13 @@ update-in-progress-ok-button = &Avvis
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortset
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Varsel
+update-application-updates-managed-by-os =
+    .message = Oppdateringar blir administrerte av operativsystemet ditt
 
 ## Firefox support
 

@@ -46,3 +46,23 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Website Creator
 more-from-moz-mdn-description = 使用免費又完整的教學與參考資料學習網頁開發。
 more-from-moz-mdn-button = 學習網頁開發
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-box-link =
+    .label = 下載 { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = 下載 { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = 下載 { -relay-brand-short-name }
+more-from-moz-thunderbird-box-link =
+    .label = 下載 { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = 試用 { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = 看看新產品

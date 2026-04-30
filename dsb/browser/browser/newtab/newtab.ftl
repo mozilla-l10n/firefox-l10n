@@ -371,6 +371,8 @@ newtab-custom-widget-lists-toggle =
     .label = Lisćiny
 newtab-custom-widget-timer-toggle =
     .label = Měritko casa
+newtab-custom-widget-sports-toggle =
+    .label = Swětowe mejstaŕstwo
 newtab-custom-widget-section-title = Asistenty
 newtab-custom-widget-section-toggle =
     .label = Asistenty
@@ -742,6 +744,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Dokóńcony ({ $number })
+newtab-widget-lists-celebration-headline = Dobre źěło
+newtab-widget-lists-celebration-subhead = Wšykno jasne
 newtab-widget-task-list-menu-copy = Kopěrowaś
 newtab-widget-lists-menu-edit = Mě lisćiny wobźěłaś
 newtab-widget-lists-menu-edit2 =
@@ -762,6 +766,8 @@ newtab-widget-lists-input-menu-move-up = Górjej
 newtab-widget-lists-input-menu-move-down = Dołoj
 newtab-widget-lists-input-menu-delete = Lašowaś
 newtab-widget-lists-input-menu-edit = Wobźěłaś
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Zapisk wobźěłaś
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu napóraś
@@ -847,6 +853,25 @@ newtab-promo-card-cta = Dalšne informacije
 newtab-promo-card-dismiss-button =
     .title = Zachyśiś
     .aria-label = Zachyśiś
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Teamam slědowaś
+newtab-sports-widget-menu-view-upcoming = Pśichodny pokazaś
+newtab-sports-widget-menu-view-results = Wuslědki pokazaś
+newtab-sports-widget-menu-learn-more = Dalšne informacije
+newtab-sports-widget-countdown-title = Countdown k swětowemu mejstaŕstwoju
+newtab-sports-widget-get-updates = Dostańśo aktualizacije live a wěcej.
+newtab-sports-widget-follow-teams =
+    .label = Teamam slědowaś
+newtab-sports-widget-choose-wallpaper =
+    .label = Wubjeŕśo slězynowy wobraz
+newtab-sports-widget-skip = Pśeskócyś
+newtab-sports-widget-search-teams =
+    .placeholder = Teamy pytaś
+    .aria-label = Teamy pytaś
+newtab-sports-widget-done-button =
+    .label = Dokóńcony
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
