@@ -627,6 +627,9 @@ newtab-new-user-custom-wallpaper-title = Elekti ekranfonon por personecigi vian 
 newtab-new-user-custom-wallpaper-subtitle = Igu ĉiun novan langeton propra per personecigitaj ekranfonoj kaj koloroj.
 newtab-new-user-custom-wallpaper-cta = Provu nun
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Elŝutu { -brand-product-name } por poŝaparatoj
@@ -697,10 +700,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Plenumitaj ({ $number })
 newtab-widget-task-list-menu-copy = Kopii
 newtab-widget-lists-menu-edit = Modifi nomon de listo
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Modifi nomon de listo
 newtab-widget-lists-menu-create = Krei novan liston
 newtab-widget-lists-menu-delete = Forigi tiun ĉi liston
 newtab-widget-lists-menu-copy = Kopii liston al tondujo
 newtab-widget-lists-menu-learn-more = Pli da informo
+newtab-widget-lists-button-add-item = Aldoni elementon
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Aldoni elementon
+    .aria-label = Aldoni elementon
 newtab-widget-lists-input-add-an-item =
     .placeholder = Aldoni elementon
 newtab-widget-lists-input-error = Bonvolu enigi tekston por aldoni elementon.
@@ -716,6 +725,10 @@ newtab-widget-lists-name-label-default =
     .label = Listo de taskoj
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Listo de taskoj
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nova listo
+    .aria-label = Modifi nomon de listo
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova listo
@@ -737,8 +750,7 @@ newtab-widget-section-minimize =
     .aria-label = Faldi ĉiujn komponantojn en kompakta grando
 newtab-widget-section-feedback = Rakontu al ni vian opinion
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Tempumilo
 newtab-widget-timer-notification-focus = La koncentriĝa periodo finiĝis. Bone farita. Ĉu fari paŭzon?
@@ -782,6 +794,9 @@ newtab-promo-card-cta = Pli da informo
 newtab-promo-card-dismiss-button =
     .title = Ignori
     .aria-label = Ignori
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
