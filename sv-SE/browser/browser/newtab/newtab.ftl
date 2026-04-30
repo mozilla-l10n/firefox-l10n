@@ -767,6 +767,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Checklista
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Uppgiftslista
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Checklista
+    .aria-label = Redigera listnamn
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Ny lista
+    .aria-label = Redigera listnamn
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Checklista
 # The placeholder value of the name field for a newly created list
