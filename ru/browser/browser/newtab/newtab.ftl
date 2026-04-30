@@ -848,6 +848,46 @@ newtab-promo-card-dismiss-button =
     .title = Убрать
     .aria-label = Убрать
 
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Подписаться на команды
+newtab-sports-widget-menu-view-upcoming = Просмотреть предстоящие
+newtab-sports-widget-menu-view-results = Просмотреть результаты
+newtab-sports-widget-menu-learn-more = Подробнее
+newtab-sports-widget-countdown-title = Обратный отсчёт до ЧМ
+newtab-sports-widget-get-updates = Получайте обновления по матчам и другую информацию в прямом эфире.
+newtab-sports-widget-follow-teams =
+    .label = Подписаться на команды
+newtab-sports-widget-choose-wallpaper =
+    .label = Выберите обои
+newtab-sports-widget-skip = Пропустить
+newtab-sports-widget-search-teams =
+    .placeholder = Поиск команд
+    .aria-label = Поиск команд
+newtab-sports-widget-done-button =
+    .label = Готово
+newtab-sports-widget-group-stage = Групповой этап
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ЭФИР
+newtab-custom-widget-live-refresh =
+    .title = Обновить результаты
+    .aria-label = Обновить результаты
+newtab-sports-widget-upcoming = Предстоящие
+newtab-sports-widget-results = Результаты
+newtab-sports-widget-semi-finals = Полуфиналы
+newtab-sports-widget-bronze-finals = Игра за третье место
+newtab-sports-widget-final = Финал
+newtab-sports-widget-delayed = Задерживается
+newtab-sports-widget-postponed = Отложено
+newtab-sports-widget-suspended = Приостановлено
+newtab-sports-widget-cancelled = Отменено
+newtab-sports-widget-information = Информация о матче
+newtab-sports-widget-no-live-data = Данные о матчах в данный момент не обновляются
+newtab-sports-widget-view-results-link = Просмотреть результаты
+newtab-sports-widget-third-place = Третье место
+newtab-sports-widget-champions = Чемпионы
+newtab-sports-widget-world-cup-champions = Чемпионы ЧМ 2026
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with

@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Больше от { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Больше от { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Больше от { -vendor-short-name }
 more-from-moz-subtitle = Ознакомьтесь с другими продуктами { -vendor-short-name }, поддерживающими здоровый Интернет.
 more-from-moz-firefox-mobile-title = { -brand-product-name } для мобильных устройств
 more-from-moz-firefox-mobile-description = Мобильный браузер, который ставит вашу приватность на первое место.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } для мобильных устройств
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } для мобильных устройств
+    .description = Мобильный браузер, ставящий вашу приватность на первое место.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Откройте для себя дополнительный уровень анонимного веб-сёрфинга и защиты.
 more-from-moz-qr-code-box-firefox-mobile-title = Скачайте с помощью мобильного устройства. Наведите камеру на QR-код. Когда появится ссылка, нажмите на неё.
@@ -46,3 +51,9 @@ more-from-moz-solo-title-2 = Создатель ИИ-веб-сайта { -solo-a
 more-from-moz-mdn-description = Изучите веб-разработку с помощью бесплатных подробных руководств и ссылок.
 more-from-moz-mdn-button = Изучение веб-разработки
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Бесплатная электронная почта, календарь и контакты — организованные по вашему вкусу.
+more-from-moz-thunderbird-button = Загрузить { -thunderbird-brand-short-name }
