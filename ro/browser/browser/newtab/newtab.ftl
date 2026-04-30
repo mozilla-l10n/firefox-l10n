@@ -712,6 +712,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Listă de sarcini
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Listă nouă
+    .aria-label = Editează denumirea listei
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Listă nouă
 newtab-widget-section-title = Widgeturi
