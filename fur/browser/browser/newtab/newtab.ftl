@@ -74,6 +74,9 @@ newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
 newtab-topsites-image-validation = No si à rivât a cjariâ la imagjin. Prove cuntun URL diferent.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Anule
@@ -608,6 +611,9 @@ newtab-new-user-custom-wallpaper-title = Sielç un fonts par personalizâ il to 
 newtab-new-user-custom-wallpaper-subtitle = Rint ogni gnove schede come se e fos cjase tô, cun fonts e colôrs personalizâts.
 newtab-new-user-custom-wallpaper-cta = Provilu daurman
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Discjame { -brand-product-name } par dispositîfs mobii
@@ -664,10 +670,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Completadis ({ $number })
 newtab-widget-task-list-menu-copy = Copie
 newtab-widget-lists-menu-edit = Modifiche non liste
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Modifiche non liste
 newtab-widget-lists-menu-create = Cree gnove liste
 newtab-widget-lists-menu-delete = Elimine cheste liste
 newtab-widget-lists-menu-copy = Copie liste intes notis
 newtab-widget-lists-menu-learn-more = Plui informazions
+newtab-widget-lists-button-add-item = Zonte un element
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Zonte un element
+    .aria-label = Zonte un element
 newtab-widget-lists-input-add-an-item =
     .placeholder = Zonte un element
 newtab-widget-lists-input-error = Inclût test par zontâ un element.
@@ -684,6 +696,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Liste di ativitâts
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Gnove liste
+    .aria-label = Modifiche non liste
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Gnove liste
 newtab-widget-section-title = Widgets
@@ -698,8 +714,7 @@ newtab-widget-section-minimize =
     .title = Minimize widgets
     .aria-label = Strenç ducj i widgets ae dimension compate
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Temporizadôr
 newtab-widget-timer-notification-focus = Il timp par concentrâti al è finît. Ben fate. Ti coventie une pause?
@@ -727,3 +742,12 @@ newtab-promo-card-cta = Plui informazions
 newtab-promo-card-dismiss-button =
     .title = Siere
     .aria-label = Scarte e siere
+
+## Sports widget
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
