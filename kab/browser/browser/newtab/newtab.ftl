@@ -74,6 +74,9 @@ newtab-topsites-image-url-label = Tugna tudmawant URL
 newtab-topsites-use-image-link = Seqdec tugna tudmawant…
 newtab-topsites-image-validation = Tugna ur d-uli ara. Ɛreḍ tansa-nniḍen URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Sefsex
@@ -91,6 +94,9 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = S lmendad
+
+## Label used by screen readers for pinned top sites
+
 
 ## Context Menu - Action Tooltips.
 
@@ -397,6 +403,12 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
+## Celestial
+
+
 ## New Tab Weather
 
 # Variables:
@@ -492,11 +504,17 @@ newtab-custom-wallpaper-cta = Ɛreḍ-it
 
 newtab-new-user-custom-wallpaper-cta = Ɛreḍ-it tura
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sader { -brand-product-name } i uziraz
 newtab-download-mobile-highlight-image =
     .aria-label = Tangalt QR i usader n { -brand-product-name } i uziraz
+
+## Strings for shortcuts highlight
+
 
 ## Strings for reporting issues with ads and content
 
@@ -526,18 +544,23 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Yemmed ({ $number })
 newtab-widget-task-list-menu-copy = Nɣel
 newtab-widget-lists-menu-edit = Ẓreg isem tabdart
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Ẓreg isem tabdart
 newtab-widget-lists-menu-create = Rnu tabdart tamaynut
 newtab-widget-lists-menu-delete = Kkes tabdart-a
 newtab-widget-lists-menu-copy = Nɣel tabdart ɣer tecfawt
 newtab-widget-lists-menu-learn-more = Issin ugar
+newtab-widget-lists-button-add-item = Rnu aferdis
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Rnu aferdis
+    .aria-label = Rnu aferdis
 newtab-widget-lists-input-add-an-item =
     .placeholder = Rnu aferdis
 newtab-widget-lists-input-menu-open-link = Ldi aseɣwen
 newtab-widget-lists-input-menu-move-up = Ali
 newtab-widget-lists-input-menu-move-down = Ader
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-mode-focus =
     .label = Focus
@@ -557,3 +580,12 @@ newtab-promo-card-cta = Issin ugar
 newtab-promo-card-dismiss-button =
     .title = Zgel
     .aria-label = Zgel
+
+## Sports widget
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

@@ -738,10 +738,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Dokončené ({ $number })
 newtab-widget-task-list-menu-copy = Kopírovať
 newtab-widget-lists-menu-edit = Upraviť názov zoznamu
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Upraviť názov zoznamu
 newtab-widget-lists-menu-create = Vytvoriť nový zoznam
 newtab-widget-lists-menu-delete = Odstrániť tento zoznam
 newtab-widget-lists-menu-copy = Kopírovať zoznam do schránky
 newtab-widget-lists-menu-learn-more = Ďalšie informácie
+newtab-widget-lists-button-add-item = Pridať položku
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Pridať položku
+    .aria-label = Pridať položku
 newtab-widget-lists-input-add-an-item =
     .placeholder = Pridať položku
 newtab-widget-lists-input-error = Položku pridáte zadaním textu
@@ -759,6 +765,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Kontrolný zoznam
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Zoznam úloh
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Kontrolný zoznam
+    .aria-label = Upraviť názov zoznamu
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nový zoznam
+    .aria-label = Upraviť názov zoznamu
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Kontrolný zoznam
 # The placeholder value of the name field for a newly created list
@@ -788,8 +801,7 @@ newtab-widget-section-menu-learn-more = Ďalšie informácie
 newtab-widget-section-feedback = Povedzte nám váš názor
 newtab-widget-lists-name-default = Kontrolný zoznam
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Časovač
 newtab-widget-timer-notification-focus = Čas na sústredenie vypršal. Dobrá práca. Potrebujete si oddýchnuť?
@@ -829,6 +841,9 @@ newtab-promo-card-cta = Ďalšie informácie
 newtab-promo-card-dismiss-button =
     .title = Zavrieť
     .aria-label = Zavrieť
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

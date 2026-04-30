@@ -736,10 +736,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Completado ({ $number })
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Editar el nombre de la lista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Editar el nombre de la lista
 newtab-widget-lists-menu-create = Crear una nueva lista
 newtab-widget-lists-menu-delete = Eliminar esta lista
 newtab-widget-lists-menu-copy = Copiar lista al portapapeles
 newtab-widget-lists-menu-learn-more = Aprender más
+newtab-widget-lists-button-add-item = Añadir un elemento
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Añadir un elemento
+    .aria-label = Añadir un elemento
 newtab-widget-lists-input-add-an-item =
     .placeholder = Añadir un elemento
 newtab-widget-lists-input-error = Por favor, incluye texto para añadir un elemento.
@@ -757,6 +763,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Lista de verificación
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista de tareas
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Lista de verificación
+    .aria-label = Editar el nombre de la lista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nueva lista
+    .aria-label = Editar el nombre de la lista
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Lista de verificación
 # The placeholder value of the name field for a newly created list
@@ -786,8 +799,7 @@ newtab-widget-section-menu-learn-more = Aprender más
 newtab-widget-section-feedback = Cuéntanos lo que piensas
 newtab-widget-lists-name-default = Lista de verificación
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = Se acabó el tiempo de concentración. Buen trabajo. ¿Necesitas un descanso?
@@ -827,6 +839,9 @@ newtab-promo-card-cta = Más información
 newtab-promo-card-dismiss-button =
     .title = Ocultar
     .aria-label = Ocultar
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

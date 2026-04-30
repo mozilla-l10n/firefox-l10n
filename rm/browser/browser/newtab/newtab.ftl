@@ -74,6 +74,9 @@ newtab-topsites-image-url-label = URL dal maletg persunalisà
 newtab-topsites-use-image-link = Utilisar in maletg persunalisà…
 newtab-topsites-image-validation = Impussibel da chargiar il maletg. Emprova in auter URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Interrumper
@@ -607,6 +610,9 @@ newtab-new-user-custom-wallpaper-title = Tscherna in maletg dal fund davos per p
 newtab-new-user-custom-wallpaper-subtitle = Persunalisescha novs tabs cun tscherner tes agen maletg dal fund davos ed atgnas colurs.
 newtab-new-user-custom-wallpaper-cta = Ussa empruvar
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Telechargia { -brand-product-name } per apparats mobils
@@ -660,10 +666,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Cumplettadas ({ $number })
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Modifitgar il num da la glista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Modifitgar il num da la glista
 newtab-widget-lists-menu-create = Crear ina nova glista
 newtab-widget-lists-menu-delete = Stizzar questa glista
 newtab-widget-lists-menu-copy = Copiar la glista en l’archiv provisoric
 newtab-widget-lists-menu-learn-more = Ulteriuras infurmaziuns
+newtab-widget-lists-button-add-item = Agiuntar in element
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Agiuntar in element
+    .aria-label = Agiuntar in element
 newtab-widget-lists-input-add-an-item =
     .placeholder = Agiuntar in element
 newtab-widget-lists-input-error = Endatescha per plaschair text per agiuntar in element.
@@ -680,6 +692,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Glista d’incumbensas
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nova glista
+    .aria-label = Modifitgar il num da la glista
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova glista
 newtab-widget-section-title = Widgets
@@ -694,8 +710,7 @@ newtab-widget-section-minimize =
     .title = Reducir ils widgets
     .aria-label = Reducir tut ils widgets a la grondezza cumpacta
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Svegliarin
 newtab-widget-timer-notification-focus = L’interval da concentraziun è a fin. Buna lavur. Dovras ina pausa?
@@ -723,3 +738,12 @@ newtab-promo-card-cta = Ulteriuras infurmaziuns
 newtab-promo-card-dismiss-button =
     .title = Serrar
     .aria-label = Serrar
+
+## Sports widget
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

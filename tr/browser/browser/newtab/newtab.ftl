@@ -736,10 +736,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Tamamlandı ({ $number })
 newtab-widget-task-list-menu-copy = Kopyala
 newtab-widget-lists-menu-edit = Liste adını düzenle
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Liste adını düzenle
 newtab-widget-lists-menu-create = Yeni liste oluştur
 newtab-widget-lists-menu-delete = Bu listeyi sil
 newtab-widget-lists-menu-copy = Listeyi panoya kopyala
 newtab-widget-lists-menu-learn-more = Daha fazla bilgi al
+newtab-widget-lists-button-add-item = Görev ekle
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Görev ekle
+    .aria-label = Görev ekle
 newtab-widget-lists-input-add-an-item =
     .placeholder = Görev ekle
 newtab-widget-lists-input-error = Görev eklemek için lütfen metin yazın.
@@ -757,6 +763,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Görev listesi
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Görev listesi
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Görev listesi
+    .aria-label = Liste adını düzenle
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Yeni liste
+    .aria-label = Liste adını düzenle
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Görev listesi
 # The placeholder value of the name field for a newly created list
@@ -786,8 +799,7 @@ newtab-widget-section-menu-learn-more = Daha fazla bilgi al
 newtab-widget-section-feedback = Ne düşündüğünüzü bize anlatın
 newtab-widget-lists-name-default = Görev listesi
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Sayaç
 newtab-widget-timer-notification-focus = Odaklanma süresi bitti. İyi iş çıkardınız. Ara vermek ister misiniz?
@@ -827,6 +839,9 @@ newtab-promo-card-cta = Daha fazla bilgi alın
 newtab-promo-card-dismiss-button =
     .title = Kapat
     .aria-label = Kapat
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

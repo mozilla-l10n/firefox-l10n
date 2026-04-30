@@ -588,6 +588,9 @@ newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
@@ -654,10 +657,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = اكتمل ({ $number })
 newtab-widget-task-list-menu-copy = انسخ
 newtab-widget-lists-menu-edit = حرّر اسم القائمة
+newtab-widget-lists-menu-edit2 =
+    .aria-label = حرّر اسم القائمة
 newtab-widget-lists-menu-create = أنشئ قائمة جديدة
 newtab-widget-lists-menu-delete = احذف هذه القائمة
 newtab-widget-lists-menu-copy = انسخ القائمة إلى الحافظة
 newtab-widget-lists-menu-learn-more = اطّلع على المزيد
+newtab-widget-lists-button-add-item = أضف عنصر
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = أضف عنصر
+    .aria-label = أضف عنصر
 newtab-widget-lists-input-add-an-item =
     .placeholder = أضف عنصر
 newtab-widget-lists-input-error = يُرجى إدخال نص لإضافة عنصر.
@@ -670,6 +679,10 @@ newtab-widget-lists-name-label-default =
     .label = قائمة المهام
 newtab-widget-lists-name-placeholder-default =
     .placeholder = قائمة المهام
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = قائمة جديدة
+    .aria-label = حرّر اسم القائمة
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = قائمة جديدة
@@ -689,8 +702,7 @@ newtab-widget-section-menu-hide-all = أخفِ الويدجات
 newtab-widget-section-menu-learn-more = اطّلع على المزيد
 newtab-widget-section-feedback = أخبرنا برأيك
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = المؤقت
 newtab-widget-timer-notification-break = انتهت استراحتك. هل أنت مستعد للتركيز؟
@@ -727,6 +739,9 @@ newtab-promo-card-cta = اطّلع على المزيد
 newtab-promo-card-dismiss-button =
     .title = أهمِل
     .aria-label = أهمِل
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

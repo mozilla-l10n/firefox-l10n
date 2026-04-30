@@ -736,10 +736,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = 已完成（{ $number }）
 newtab-widget-task-list-menu-copy = 複製
 newtab-widget-lists-menu-edit = 編輯清單名稱
+newtab-widget-lists-menu-edit2 =
+    .aria-label = 編輯清單名稱
 newtab-widget-lists-menu-create = 新增清單
 newtab-widget-lists-menu-delete = 刪除此清單
 newtab-widget-lists-menu-copy = 複製清單到剪貼簿
 newtab-widget-lists-menu-learn-more = 更多資訊
+newtab-widget-lists-button-add-item = 新增項目
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = 新增項目
+    .aria-label = 新增項目
 newtab-widget-lists-input-add-an-item =
     .placeholder = 新增項目
 newtab-widget-lists-input-error = 請加入文字來新增項目。
@@ -757,6 +763,13 @@ newtab-widget-lists-name-label-checklist =
     .label = 檢查清單
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 任務清單
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = 檢查清單
+    .aria-label = 編輯清單名稱
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = 新增清單
+    .aria-label = 編輯清單名稱
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = 檢查清單
 # The placeholder value of the name field for a newly created list
@@ -786,8 +799,7 @@ newtab-widget-section-menu-learn-more = 更多資訊
 newtab-widget-section-feedback = 告訴我們您的想法
 newtab-widget-lists-name-default = 檢查清單
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = 計時器
 newtab-widget-timer-notification-focus = 專注時間已結束，做得好！要休息一下嗎？
@@ -827,6 +839,9 @@ newtab-promo-card-cta = 更多資訊
 newtab-promo-card-dismiss-button =
     .title = 知道了！
     .aria-label = 知道了！
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

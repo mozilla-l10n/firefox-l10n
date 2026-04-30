@@ -74,6 +74,9 @@ newtab-topsites-image-url-label = URL da imaxe personalizada
 newtab-topsites-use-image-link = Usar unha imaxe personalizada…
 newtab-topsites-image-validation = Produciuse un fallo ao cargar a imaxe. Probe un URL diferente.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancelar
@@ -452,6 +455,9 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
+## Firefox
+
+
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -589,6 +595,9 @@ newtab-new-user-custom-wallpaper-title = Escolle un fondo de pantalla para facer
 newtab-new-user-custom-wallpaper-subtitle = Fai que cada nova pestana se sinta como na casa con fondos de pantalla e cores personalizados.
 newtab-new-user-custom-wallpaper-cta = Probar agora
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móbil
@@ -636,15 +645,20 @@ newtab-widget-lists-label-beta =
     .label = Beta
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Editar o nome da lista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Editar o nome da lista
 newtab-widget-lists-menu-create = Crea unha nova lista
 newtab-widget-lists-menu-delete = Eliminar esta lista
 newtab-widget-lists-menu-copy = Copiar a lista no portapapeis
 newtab-widget-lists-menu-learn-more = Máis información
+newtab-widget-lists-button-add-item = Engadir un elemento
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Engadir un elemento
+    .aria-label = Engadir un elemento
 newtab-widget-lists-input-add-an-item =
     .placeholder = Engadir un elemento
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-label-play =
     .label = Reproducir
@@ -659,3 +673,12 @@ newtab-promo-card-cta = Máis información
 newtab-promo-card-dismiss-button =
     .title = Rexeitar
     .aria-label = Rexeitar
+
+## Sports widget
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+

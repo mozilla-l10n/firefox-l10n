@@ -739,10 +739,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = შესრულებული ({ $number })
 newtab-widget-task-list-menu-copy = ასლი
 newtab-widget-lists-menu-edit = სიის გადარქმევა
+newtab-widget-lists-menu-edit2 =
+    .aria-label = სიის გადარქმევა
 newtab-widget-lists-menu-create = ახალი სიის შექმნა
 newtab-widget-lists-menu-delete = ამ სიის წაშლა
 newtab-widget-lists-menu-copy = სიის ასლის აღება
 newtab-widget-lists-menu-learn-more = ვრცლად
+newtab-widget-lists-button-add-item = ჩანაწერის დამატება
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = ჩანაწერის დამატება
+    .aria-label = ჩანაწერის დამატება
 newtab-widget-lists-input-add-an-item =
     .placeholder = ჩანაწერის დამატება
 newtab-widget-lists-input-error = დასამატებლად დაურთეთ წარწერა.
@@ -760,6 +766,13 @@ newtab-widget-lists-name-label-checklist =
     .label = ჩამონათვალი
 newtab-widget-lists-name-placeholder-default =
     .placeholder = დავალებების სია
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = ჩამონათვალი
+    .aria-label = სიის გადარქმევა
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = ახალი სია
+    .aria-label = სიის გადარქმევა
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = ჩამონათვალი
 # The placeholder value of the name field for a newly created list
@@ -789,8 +802,7 @@ newtab-widget-section-menu-learn-more = ვრცლად
 newtab-widget-section-feedback = მოგვახსენეთ თქვენი აზრი
 newtab-widget-lists-name-default = ჩამონათვალი
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = წამმზომი
 newtab-widget-timer-notification-focus = საქმიანობის დრო ამოიწურა. კარგად იმუშავეთ. გსურთ შესვენება?
@@ -830,6 +842,9 @@ newtab-promo-card-cta = ვრცლად
 newtab-promo-card-dismiss-button =
     .title = აცილება
     .aria-label = აცილება
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -736,10 +736,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Completate ({ $number })
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Modificar le nomine del lista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Modificar le nomine del lista
 newtab-widget-lists-menu-create = Crear un nove lista
 newtab-widget-lists-menu-delete = Deler iste lista
 newtab-widget-lists-menu-copy = Copiar lista al area de transferentia
 newtab-widget-lists-menu-learn-more = Pro saper plus
+newtab-widget-lists-button-add-item = Adder un elemento
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Adder un elemento
+    .aria-label = Adder un elemento
 newtab-widget-lists-input-add-an-item =
     .placeholder = Adder un elemento
 newtab-widget-lists-input-error = Include texto pro adder un elemento.
@@ -757,6 +763,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Lista de verification
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Agenda
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Lista de verification
+    .aria-label = Modificar le nomine del lista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nove lista
+    .aria-label = Modificar le nomine del lista
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Lista de verification
 # The placeholder value of the name field for a newly created list
@@ -786,8 +799,7 @@ newtab-widget-section-menu-learn-more = Pro saper plus
 newtab-widget-section-feedback = Conta nos lo que que tu pensa
 newtab-widget-lists-name-default = Lista de verification
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Temporisator
 newtab-widget-timer-notification-focus = Le periodo de concentration ha terminate. Belle labor. Besonio de un pausa?
@@ -827,6 +839,9 @@ newtab-promo-card-cta = Pro saper plus
 newtab-promo-card-dismiss-button =
     .title = Clauder
     .aria-label = Clauder
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

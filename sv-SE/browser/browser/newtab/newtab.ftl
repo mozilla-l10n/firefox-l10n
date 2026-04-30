@@ -740,10 +740,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Slutförd ({ $number })
 newtab-widget-task-list-menu-copy = Kopiera
 newtab-widget-lists-menu-edit = Redigera listnamn
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Redigera listnamn
 newtab-widget-lists-menu-create = Skapa en ny lista
 newtab-widget-lists-menu-delete = Ta bort denna lista
 newtab-widget-lists-menu-copy = Kopiera lista till urklipp
 newtab-widget-lists-menu-learn-more = Läs mer
+newtab-widget-lists-button-add-item = Lägg till ett objekt
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Lägg till ett objekt
+    .aria-label = Lägg till ett objekt
 newtab-widget-lists-input-add-an-item =
     .placeholder = Lägg till ett objekt
 newtab-widget-lists-input-error = Inkludera text för att lägga till ett objekt.
@@ -761,6 +767,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Checklista
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Uppgiftslista
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Checklista
+    .aria-label = Redigera listnamn
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Ny lista
+    .aria-label = Redigera listnamn
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Checklista
 # The placeholder value of the name field for a newly created list
@@ -790,8 +803,7 @@ newtab-widget-section-menu-learn-more = Läs mer
 newtab-widget-section-feedback = Berätta vad du tycker
 newtab-widget-lists-name-default = Checklista
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Fokustiden är ute. Bra jobbat. Behöver du en paus?
@@ -831,6 +843,9 @@ newtab-promo-card-cta = Läs mer
 newtab-promo-card-dismiss-button =
     .title = Ignorera
     .aria-label = Ignorera
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

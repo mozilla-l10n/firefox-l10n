@@ -639,6 +639,9 @@ newtab-new-user-custom-wallpaper-title = Odaberi pozadinu te prilagodi { -brand-
 newtab-new-user-custom-wallpaper-subtitle = Neka svaka nova kartice pruža osjećaj doma uz prilagođene pozadine i boje.
 newtab-new-user-custom-wallpaper-cta = Isprobajte sada
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmi { -brand-product-name } za mobilne uređaje
@@ -709,10 +712,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Završeno ({ $number })
 newtab-widget-task-list-menu-copy = Kopiraj
 newtab-widget-lists-menu-edit = Uredi naziv popisa
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Uredi naziv popisa
 newtab-widget-lists-menu-create = Stvori novi popis
 newtab-widget-lists-menu-delete = Obriši ovaj popis
 newtab-widget-lists-menu-copy = Kopiraj popis u međuspremnik
 newtab-widget-lists-menu-learn-more = Saznaj više
+newtab-widget-lists-button-add-item = Dodaj stavku
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Dodaj stavku
+    .aria-label = Dodaj stavku
 newtab-widget-lists-input-add-an-item =
     .placeholder = Dodaj stavku
 newtab-widget-lists-input-error = Molimo uključite tekst za dodavanje stavke.
@@ -728,6 +737,10 @@ newtab-widget-lists-name-label-default =
     .label = Popis zadataka
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Popis zadataka
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Novi popis
+    .aria-label = Uredi naziv popisa
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Novi popis
@@ -749,8 +762,7 @@ newtab-widget-section-minimize =
     .aria-label = Smanji sve widgete na kompaktnu veličinu
 newtab-widget-section-feedback = Reci nam svoje mišljenje
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Odbrojavanje
 newtab-widget-timer-notification-focus = Vrijeme za koncentraciju je isteklo. Dobar posao. Trebaš pauzu?
@@ -790,6 +802,9 @@ newtab-promo-card-cta = Saznajte više
 newtab-promo-card-dismiss-button =
     .title = Odbaci
     .aria-label = Odbaci
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

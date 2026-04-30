@@ -632,6 +632,9 @@ newtab-new-user-custom-wallpaper-title = Wybierz tapetę, aby { -brand-product-n
 newtab-new-user-custom-wallpaper-subtitle = Czuj się na każdej nowej karcie jak w domu dzięki własnej tapecie lub kolorowi.
 newtab-new-user-custom-wallpaper-cta = Wypróbuj teraz
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Pobierz { -brand-product-name(case: "acc") } na telefon
@@ -702,10 +705,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Ukończone ({ $number })
 newtab-widget-task-list-menu-copy = Kopiuj
 newtab-widget-lists-menu-edit = Edytuj nazwę listy
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Edytuj nazwę listy
 newtab-widget-lists-menu-create = Utwórz nową listę
 newtab-widget-lists-menu-delete = Usuń tę listę
 newtab-widget-lists-menu-copy = Kopiuj listę do schowka
 newtab-widget-lists-menu-learn-more = Więcej informacji
+newtab-widget-lists-button-add-item = Dodaj pozycję
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Dodaj pozycję
+    .aria-label = Dodaj pozycję
 newtab-widget-lists-input-add-an-item =
     .placeholder = Dodaj pozycję
 newtab-widget-lists-input-error = Wpisz tekst, aby dodać pozycję.
@@ -721,6 +730,10 @@ newtab-widget-lists-name-label-default =
     .label = Lista zadań
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista zadań
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nowa lista
+    .aria-label = Edytuj nazwę listy
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nowa lista
@@ -742,8 +755,7 @@ newtab-widget-section-minimize =
     .aria-label = Zwiń wszystkie widżety do małego rozmiaru
 newtab-widget-section-feedback = Powiedz nam, co sądzisz
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Minutnik
 newtab-widget-timer-notification-focus = Czas na skupienie minął. Dobra robota. Potrzebujesz przerwy?
@@ -783,6 +795,9 @@ newtab-promo-card-cta = Więcej informacji
 newtab-promo-card-dismiss-button =
     .title = Zamknij
     .aria-label = Zamknij
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -133,6 +133,9 @@ newtab-menu-report = گوزارش
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = مسدۊد کردن
 
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
+
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = ٱنجوم وابی
@@ -198,6 +201,9 @@ newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-pocket = پؽشنهاڌ وابیڌه و دست { $provider }
 newtab-section-header-stories = داستانا فرگ کردنی
 
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = قپ ریت دووارته
@@ -215,6 +221,13 @@ newtab-pocket-saved = زفت وابی
 newtab-toast-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
+
+## Error Fallback Content.
+## This message and suggested action link are shown in each section of UI that fails to render.
+
 
 ## Customization Menu
 
@@ -272,6 +285,9 @@ newtab-wallpaper-red = سوئر
 newtab-wallpaper-dark-blue = کوۊ تاریک
 newtab-wallpaper-dark-purple = بناوش تاریک
 newtab-wallpaper-dark-green = ساوز تاریک
+
+## Abstract
+
 
 ## Firefox
 
@@ -387,6 +403,9 @@ newtab-custom-wallpaper-cta = امتهووس کوݩ
 
 newtab-new-user-custom-wallpaper-cta = هیم سکو امتهووݩ کوݩ
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = دانلود { -brand-product-name } سی موبایل
@@ -432,10 +451,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = تموم وابیڌه ({ $number })
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-edit = آلشت نومگه نوم
+newtab-widget-lists-menu-edit2 =
+    .aria-label = آلشت نومگه نوم
 newtab-widget-lists-menu-create = وورکل ی نومگه نۊ
 newtab-widget-lists-menu-delete = پاک کردن ای نومگه
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
+newtab-widget-lists-button-add-item = ٱووردن ی موورد
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = ٱووردن ی موورد
+    .aria-label = ٱووردن ی موورد
 newtab-widget-lists-input-add-an-item =
     .placeholder = ٱووردن ی موورد
 newtab-widget-lists-input-menu-open-link = گۊشیڌن لینگ
@@ -451,6 +476,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = نومگه کارا
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = نومگه نۊ
+    .aria-label = آلشت نومگه نوم
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = نومگه نۊ
 newtab-widget-section-title = ویجتا
@@ -459,8 +488,7 @@ newtab-widget-section-hide-all-button =
     .title = بؽڌار کردن ویجتا
     .aria-label = بؽڌار کردن پوی ویجتا
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = زمووݩ سنج
 newtab-widget-timer-notification-warning = وارسۊویا کۊر هڌن
@@ -483,6 +511,9 @@ newtab-promo-card-cta = قلوه دووسته بۊین
 newtab-promo-card-dismiss-button =
     .title = رڌ کردن
     .aria-label = رڌ کردن
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

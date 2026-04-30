@@ -744,10 +744,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Dokónčeny ({ $number })
 newtab-widget-task-list-menu-copy = Kopěrować
 newtab-widget-lists-menu-edit = Mjeno lisćiny wobdźěłać
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Mjeno lisćiny wobdźěłać
 newtab-widget-lists-menu-create = Nowu lisćinu wutworić
 newtab-widget-lists-menu-delete = Tutu lisćinu zhašeć
 newtab-widget-lists-menu-copy = Lisćinu do mjezyskłada kopěrować
 newtab-widget-lists-menu-learn-more = Dalše informacije
+newtab-widget-lists-button-add-item = Zapisk přidać
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Zapisk přidać
+    .aria-label = Zapisk přidać
 newtab-widget-lists-input-add-an-item =
     .placeholder = Zapisk přidać
 newtab-widget-lists-input-error = Prošu zapřijimujće tekst, zo byšće zapisk přidał.
@@ -765,6 +771,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Kontrolna lisćina
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lisćiny nadawkow
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Kontrolna lisćina
+    .aria-label = Mjeno lisćiny wobdźěłać
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nowa lisćina
+    .aria-label = Mjeno lisćiny wobdźěłać
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Kontrolna lisćina
 # The placeholder value of the name field for a newly created list
@@ -794,8 +807,7 @@ newtab-widget-section-menu-learn-more = Dalše informacije
 newtab-widget-section-feedback = Prajće nam swoje měnjenje
 newtab-widget-lists-name-default = Kontrolna lisćina
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Časoměr
 newtab-widget-timer-notification-focus = Fokusowy čas je nimo. Wulkotne dźěło. Trjebaće přestawku?
@@ -835,6 +847,9 @@ newtab-promo-card-cta = Dalše informacije
 newtab-promo-card-dismiss-button =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
