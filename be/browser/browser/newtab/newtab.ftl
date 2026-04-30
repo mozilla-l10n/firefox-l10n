@@ -636,6 +636,9 @@ newtab-new-user-custom-wallpaper-title = Выберыце шпалеры, каб
 newtab-new-user-custom-wallpaper-subtitle = Зрабіце кожную новую картку як дома з дапамогай карыстальніцкіх шпалер і колераў.
 newtab-new-user-custom-wallpaper-cta = Паспрабаваць зараз
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Сцягнуць { -brand-product-name } для мабільных прылад
@@ -706,10 +709,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Завершана ({ $number })
 newtab-widget-task-list-menu-copy = Капіяваць
 newtab-widget-lists-menu-edit = Змяніць назву спісу
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Змяніць назву спісу
 newtab-widget-lists-menu-create = Стварыць новы спіс
 newtab-widget-lists-menu-delete = Выдаліць гэты спіс
 newtab-widget-lists-menu-copy = Скапіяваць спіс у буфер абмену
 newtab-widget-lists-menu-learn-more = Падрабязней
+newtab-widget-lists-button-add-item = Дадаць элемент
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Дадаць элемент
+    .aria-label = Дадаць элемент
 newtab-widget-lists-input-add-an-item =
     .placeholder = Дадаць элемент
 newtab-widget-lists-input-error = Калі ласка, улучыце тэкст, каб дадаць элемент.
@@ -746,8 +755,7 @@ newtab-widget-section-minimize =
     .aria-label = Згарнуць усе віджэты ў кампактны памер
 newtab-widget-section-feedback = Раскажыце нам, што вы думаеце
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Таймер
 newtab-widget-timer-notification-focus = Час для канцэнтрацыі скончыўся. Выдатная праца. Патрэбен перапынак?
@@ -787,6 +795,9 @@ newtab-promo-card-cta = Падрабязней
 newtab-promo-card-dismiss-button =
     .title = Адхіліць
     .aria-label = Адхіліць
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
