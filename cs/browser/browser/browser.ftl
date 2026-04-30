@@ -449,6 +449,8 @@ quickactions-cmd-inspector = průzkumník, nástroje pro vývojáře, devtools
 # Opens about:logins
 quickactions-logins2 = Správa hesel
 quickactions-cmd-logins = přihlašovací údaje, hesla
+# Mutes all tabs playing audio
+quickactions-mute = Ztlumit přehrávání zvuku panelů
 # Opens about:addons page in the plugins section
 quickactions-plugins = Správa zásuvných modulů
 quickactions-cmd-plugins = zásuvné moduly

@@ -61,3 +61,10 @@ more-from-moz-thunderbird-button = Erekóke { -thunderbird-brand-short-name }
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
 more-from-moz-new-products-title = { -vendor-short-name } Apopyre Pyahu
+more-from-moz-new-products-description = Eikuaa umi mba’e ipyahuvéva { -vendor-short-name } rehegua.
+more-from-moz-new-products-button = Ehecha apopyre pyahu
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-email-link = Emondo juajuha mboguejyrã ñanduti veve rupi ne pumbyrýpe

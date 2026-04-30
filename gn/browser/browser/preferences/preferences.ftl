@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Jeikekuaa
     .title = { pane-accessibility-title }
+pane-languages-title = Ñe’ẽnguéra
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } Mba’epyahu
 category-experimental =
     .tooltiptext = { -brand-short-name } Mba’epyahu
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Ejapóke mbeguekatu
 pane-experimental-search-results-header = { -brand-short-name } Mba’epyahu: Ejapo mbeguekatu
 pane-experimental-description2 = Emoambue umi moĩporã ñemboheko ombyaikuaáava { -brand-short-name } rembiapokue ýrõ hekorosã.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description3 = ¡Eiporu ore rembiapokue ipyahuvéva! Oñemboguata ha okakuaahína, ikatúva ojehecha { -brand-short-name } jeporukuévo.
@@ -459,6 +466,8 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Emoñepyrũjey { -brand-short-name } oñemboheko hag̃ua ko’ã moambuepyre
 confirm-browser-language-change-button = Mohembiapo ha ñepyrũjey
+browser-language-preferred-label =
+    .label = Ñe’ẽ ojeporuvéva
 browser-language-install-error =
     .message = { -brand-short-name } ndaikatúi ombohekopyahu ne ñe’ẽnguéra ko’ág̃a. Ehechajey eikekuaápa ñandutípe térã eha’ã jey.
 translate-web-pages =
@@ -678,6 +687,8 @@ update-application-version = Peteĩchagua{ $version } <a data-l10n-name="learn-m
 update-history-2 =
     .label = Tembiasakue rekopyahu jehechauka
     .accesskey = p
+update-application-installation =
+    .label = Ñemohenda
 update-history =
     .label = Tembiasakue rekopyahu jehechauka…
     .accesskey = p
@@ -718,6 +729,11 @@ update-in-progress-ok-button = &Hejarei
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Ku’ejey
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Ñemomarandu
 
 ## Firefox support
 
@@ -998,6 +1014,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Aravojere
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Jehugarã
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Eipytyvõ { -brand-product-name }
