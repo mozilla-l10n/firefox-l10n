@@ -716,6 +716,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = ToDo リスト
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = 新規リスト
+    .aria-label = リスト名を編集
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = 新規リスト
 newtab-widget-section-title = ウィジェット
