@@ -738,10 +738,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = 완료 ({ $number }개)
 newtab-widget-task-list-menu-copy = 복사
 newtab-widget-lists-menu-edit = 목록 이름 편집
+newtab-widget-lists-menu-edit2 =
+    .aria-label = 목록 이름 편집
 newtab-widget-lists-menu-create = 새 목록 만들기
 newtab-widget-lists-menu-delete = 이 목록 삭제
 newtab-widget-lists-menu-copy = 클립보드에 목록 복사
 newtab-widget-lists-menu-learn-more = 더 알아보기
+newtab-widget-lists-button-add-item = 항목 추가
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = 항목 추가
+    .aria-label = 항목 추가
 newtab-widget-lists-input-add-an-item =
     .placeholder = 항목 추가
 newtab-widget-lists-input-error = 항목을 추가하려면 텍스트를 포함하세요.
@@ -788,8 +794,7 @@ newtab-widget-section-menu-learn-more = 더 알아보기
 newtab-widget-section-feedback = 의견을 알려주세요
 newtab-widget-lists-name-default = 체크리스트
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = 타이머
 newtab-widget-timer-notification-focus = 집중 시간이 다 되었습니다. 잘 하셨습니다. 휴식이 필요하신가요?
@@ -829,6 +834,9 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .title = 닫기
     .aria-label = 닫기
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
