@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins2 = Gestionar contraseñas
 quickactions-cmd-logins = Credenciales, contraseñas
+# Mutes all tabs playing audio
+quickactions-mute = Silenciar las pestañas que reproducen audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = mute, silencio, shhhh, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gestionar complementos…
 quickactions-cmd-plugins = complementos
@@ -1739,5 +1745,9 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>¿El sitio web parece estar roto?</strong> Recarga la página para reducir temporalmente tu protección de seguimiento.
 reduced-protection-infobar-reload-button = Recargar
     .accesskey = R
+reduced-protection-infobar-never-show-button = No volver a mostrar
+    .accesskey = D
