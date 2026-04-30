@@ -750,6 +750,8 @@ newtab-widget-lists-input-menu-move-up = 上移
 newtab-widget-lists-input-menu-move-down = 下移
 newtab-widget-lists-input-menu-delete = 删除
 newtab-widget-lists-input-menu-edit = 编辑
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = 编辑项目
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 创建新清单
@@ -835,6 +837,35 @@ newtab-promo-card-cta = 详细了解
 newtab-promo-card-dismiss-button =
     .title = 知道了
     .aria-label = 知道了
+
+## Sports widget
+
+newtab-sports-widget-search-teams =
+    .placeholder = 搜索球队
+    .aria-label = 搜索球队
+newtab-sports-widget-done-button =
+    .label = 完成
+newtab-sports-widget-group-stage = 小组赛阶段
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = 进行中
+newtab-custom-widget-live-refresh =
+    .title = 刷新比分
+    .aria-label = 刷新比分
+newtab-sports-widget-upcoming = 即将进行
+newtab-sports-widget-results = 比赛结果
+newtab-sports-widget-semi-finals = 半决赛
+newtab-sports-widget-bronze-finals = 三四名决赛
+newtab-sports-widget-final = 决赛
+newtab-sports-widget-delayed = 推迟
+newtab-sports-widget-postponed = 改期
+newtab-sports-widget-suspended = 中断
+newtab-sports-widget-cancelled = 取消
+newtab-sports-widget-information = 本场比赛信息
+newtab-sports-widget-no-live-data = 目前未在更新实时比赛数据
+newtab-sports-widget-view-results-link = 查看比赛结果
+newtab-sports-widget-third-place = 第三名
+newtab-sports-widget-champions = 冠军
+newtab-sports-widget-world-cup-champions = 2026 年世界杯冠军
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

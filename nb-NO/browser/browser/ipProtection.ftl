@@ -49,6 +49,7 @@ ipprotection-site-settings-callout-button = Jeg forstår
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nyhet: Bytt plassering
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Den innebygde VPN-en i { -brand-product-name }</a> lar deg velge mellom 5 steder å surfe fra, eller la oss velge det raskeste for deg.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
 
@@ -57,17 +58,21 @@ ipprotection-location-selection-callout-secondary-button = Ignorer
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringen din</a> mens du surfer i { -brand-product-name }.
+unauthenticated-private-location-message = Bidrar til å <a data-l10n-name="learn-more-vpn">holde plasseringen din privat</a> i { -brand-product-name }.
+unauthenticated-choose-location-message = Velg mellom 5 steder å surfe fra, eller la { -brand-product-name } velge det raskeste for deg.
 unauthenticated-hide-location-message-2 = Skjul posisjonen din mens du surfer i { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Få { $maxUsage } GB med gratis VPN-data hver måned.
 unauthenticated-get-started = Kom i gang
+unauthenticated-terms-of-service-privacy-notice = Ved å fortsette aksepterer du våre <a data-l10n-name="vpn-terms-of-service">tjenestevilkår</a> og <a data-l10n-name="vpn-privacy-notice">personvernbestemmelser</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Bruk VPN for dette nettstedet
     .aria-label = VPN er på for dette nettstedet
 site-exclusion-toggle-disabled-1 =
     .label = Bruk VPN for dette nettstedet
     .aria-label = VPN er av for dette nettstedet
+site-exclusion-toggle-description = Fungerer ikke nettstedet? Prøv å slå av VPN.
 ipprotection-settings-link =
     .label = Innstillinger
 
@@ -89,6 +94,9 @@ ipprotection-button-connecting = Slår på …
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Sted: Anbefalt
 ipprotection-recommended-location-badge = NY
 ipprotection-locations-subview =
     .title = Velg plassering

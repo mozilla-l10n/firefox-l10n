@@ -740,6 +740,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Opapyre ({ $number })
 newtab-widget-lists-celebration-headline = Mba’apo porã
+newtab-widget-lists-celebration-subhead = Ára potĩ
 newtab-widget-task-list-menu-copy = Monguatia
 newtab-widget-lists-menu-edit = Embosako’i tysýi réra
 newtab-widget-lists-menu-edit2 =
@@ -760,6 +761,8 @@ newtab-widget-lists-input-menu-move-up = Jehupi
 newtab-widget-lists-input-menu-move-down = Emongu’e yvy gotyo
 newtab-widget-lists-input-menu-delete = Mboguete
 newtab-widget-lists-input-menu-edit = Mbosako’i
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Embosako’i mba’epuru
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Emoheñói tysýi pyahu
@@ -845,6 +848,10 @@ newtab-promo-card-cta = Eikuaave
 newtab-promo-card-dismiss-button =
     .title = Mboyke
     .aria-label = Mboyke
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Esegi atyetápe
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Wachtwoorden beheren
 quickactions-cmd-logins = aanmeldingen, wachtwoorden
+# Mutes all tabs playing audio
+quickactions-mute = Tabbladen die audio afspelen dempen
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = dempen, stil, ssssht
 # Opens about:addons page in the plugins section
 quickactions-plugins = Plug-ins beheren
 quickactions-cmd-plugins = plug-ins
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = U hebt een onbeveiligde verbinding met deze website.
 identity-connection-verified = U hebt een beveiligde verbinding met deze website.
 identity-ev-owner-label = Certificaat uitgegeven aan:
+identity-verifier-label = Geverifieerd door:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Gekwalificeerd zoals bedoeld in Verordening (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla herkent deze certificaatuitgever niet. Hij is mogelijk vanuit uw besturingssysteem of door een beheerder toegevoegd.
+identity-cert-exception-overridden = U hebt een beveiligingsuitzondering toegevoegd voor deze website.
 identity-remove-cert-exception =
     .label = Uitzondering verwijderen
     .accesskey = w
@@ -1743,3 +1751,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Ziet de website er niet goed uit?</strong> Vernieuw de pagina om tijdelijk uw bescherming tegen volgen te verlagen.
 reduced-protection-infobar-reload-button = Vernieuwen
     .accesskey = V
+reduced-protection-infobar-never-show-button = Niet meer tonen
+    .accesskey = N

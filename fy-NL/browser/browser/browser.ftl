@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Wachtwurden beheare
 quickactions-cmd-logins = oanmeldingen, wachtwurden
+# Mutes all tabs playing audio
+quickactions-mute = Ljepblêden dy’t audio ôfspylje dôvje
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = dôvje, stil, ssssht
 # Opens about:addons page in the plugins section
 quickactions-plugins = Ynstekkers beheare…
 quickactions-cmd-plugins = ynstekkers
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Jo hawwe in ûnbefeilige ferbining mei dizze website.
 identity-connection-verified = Jo hawwe in befeilige ferbining mei dizze website.
 identity-ev-owner-label = Sertifikaat útjûn oan:
+identity-verifier-label = Ferifiearre troch:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kwalifisearre lykas oantsjutte yn Feroardening (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla werkent dizze sertifikaatútjouwer net. Hy is mooglik fan jo bestjoeringssysteem út of troch in behearder tafoege.
+identity-cert-exception-overridden = Jo hawwe in befeiligingsútsûndering tafoege foar dizze website.
 identity-remove-cert-exception =
     .label = Utsûndering fuortsmite
     .accesskey = f
@@ -1743,3 +1751,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Sjocht de website der min út?</strong> Laad de side opnij om jo trackingbeskerming tydlik te ferleegjen.
 reduced-protection-infobar-reload-button = Fernije
     .accesskey = F
+reduced-protection-infobar-never-show-button = Net mear toane
+    .accesskey = N

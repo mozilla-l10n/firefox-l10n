@@ -61,6 +61,7 @@ about-processes-unknown-process = 其他：{ $type }（{ $pid }）
 
 ## Properties of isolated web processes
 
+about-processes-web-isolated-property-private = 隐私窗口
 about-processes-web-isolated-property-serviceworker = serviceworker
 about-processes-web-isolated-property-jit-disabled = JIT 已禁用
 about-processes-web-isolated-property-with-coop-coep = 跨源隔离

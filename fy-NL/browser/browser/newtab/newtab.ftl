@@ -367,6 +367,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listen
 newtab-custom-widget-timer-toggle =
     .label = Timer
+newtab-custom-widget-sports-toggle =
+    .label = Wrâldkampioenskip
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -738,6 +740,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Foltôge ({ $number })
+newtab-widget-lists-celebration-headline = Goed wurk
+newtab-widget-lists-celebration-subhead = Alles dien
 newtab-widget-task-list-menu-copy = Kopiearje
 newtab-widget-lists-menu-edit = Listnamme bewurkje
 newtab-widget-lists-menu-edit2 =
@@ -758,6 +762,8 @@ newtab-widget-lists-input-menu-move-up = Omheech ferpleatse
 newtab-widget-lists-input-menu-move-down = Omleech ferpleatse
 newtab-widget-lists-input-menu-delete = Fuortsmite
 newtab-widget-lists-input-menu-edit = Bewurkje
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Item bewurkje
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + In nije list oanmeitsje
@@ -843,6 +849,37 @@ newtab-promo-card-cta = Mear ynfo
 newtab-promo-card-dismiss-button =
     .title = Slute
     .aria-label = Slute
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Teams folgje
+newtab-sports-widget-menu-view-upcoming = Folgjende toane
+newtab-sports-widget-menu-view-results = Resultaten besjen
+newtab-sports-widget-menu-learn-more = Mear ynfo
+newtab-sports-widget-countdown-title = Oftelle nei it WK
+newtab-sports-widget-get-updates = Untfang live wedstriidupdates en mear.
+newtab-sports-widget-follow-teams =
+    .label = Teams folgje
+newtab-sports-widget-choose-wallpaper =
+    .label = Kies in eftergrûn
+newtab-sports-widget-skip = Oerslaan
+newtab-sports-widget-search-teams =
+    .placeholder = Teams sykje
+    .aria-label = Teams sykje
+newtab-sports-widget-done-button =
+    .label = Dien
+newtab-sports-widget-group-stage = Groepsfase
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Skoares ferfarskje
+    .aria-label = Skoares ferfarskje
+newtab-sports-widget-upcoming = Ynkoarten
+newtab-sports-widget-results = Resultaten
+newtab-sports-widget-semi-finals = Heale finalen
+newtab-sports-widget-bronze-finals = Treastfinale
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Fertrage
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

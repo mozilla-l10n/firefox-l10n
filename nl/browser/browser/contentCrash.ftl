@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Niet meer tonen
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] U hebt een recent niet-verzonden crashrapport
+       *[other] U hebt { $reportCount } recente niet-verzonden crashrapporten
+    }

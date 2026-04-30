@@ -204,6 +204,7 @@ fp-neterror-http-error-intro = <strong>{ $hostname }</strong> 的服务器发回
 fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> 发回了一个消息头，其中包含 Web 安全标准所不允许的空字符。
 fp-neterror-content-encoding-intro = 您尝试查看的页面无法显示，因为它使用了无效的或者不支持的压缩格式。
 fp-neterror-coop-coep-intro = { -brand-short-name } 未加载此页面，因为其安全配置与上个页面似乎不一致。
+fp-neterror-blocked-by-policy-intro = 您的组织已屏蔽此页面或网站。
 fp-neterror-http-auth-disabled-intro = 若有人冒充此网站，其可试图窃取您的用户名、密码、邮箱地址等信息。
 fp-neterror-http-auth-disabled-secure-connection = 此网站需要安全连接，且无法添加例外以访问。
 fp-neterror-why-did-this-happen = 为什么会出现此情况？

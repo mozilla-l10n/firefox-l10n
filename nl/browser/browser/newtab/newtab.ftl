@@ -367,6 +367,8 @@ newtab-custom-widget-lists-toggle =
     .label = Lijsten
 newtab-custom-widget-timer-toggle =
     .label = Timer
+newtab-custom-widget-sports-toggle =
+    .label = Wereldkampioenschap
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -738,6 +740,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Voltooid ({ $number })
+newtab-widget-lists-celebration-headline = Goed werk
+newtab-widget-lists-celebration-subhead = Alles gereed
 newtab-widget-task-list-menu-copy = Kopiëren
 newtab-widget-lists-menu-edit = Lijstnaam bewerken
 newtab-widget-lists-menu-edit2 =
@@ -758,6 +762,8 @@ newtab-widget-lists-input-menu-move-up = Omhoog verplaatsen
 newtab-widget-lists-input-menu-move-down = Omlaag verplaatsen
 newtab-widget-lists-input-menu-delete = Verwijderen
 newtab-widget-lists-input-menu-edit = Bewerken
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Item bewerken
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Een nieuwe lijst aanmaken
@@ -843,6 +849,46 @@ newtab-promo-card-cta = Meer info
 newtab-promo-card-dismiss-button =
     .title = Sluiten
     .aria-label = Sluiten
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Teams volgen
+newtab-sports-widget-menu-view-upcoming = Volgende tonen
+newtab-sports-widget-menu-view-results = Resultaten bekijken
+newtab-sports-widget-menu-learn-more = Meer info
+newtab-sports-widget-countdown-title = Aftellen naar het WK
+newtab-sports-widget-get-updates = Ontvang live wedstrijdupdates en meer.
+newtab-sports-widget-follow-teams =
+    .label = Teams volgen
+newtab-sports-widget-choose-wallpaper =
+    .label = Kies een achtergrond
+newtab-sports-widget-skip = Overslaan
+newtab-sports-widget-search-teams =
+    .placeholder = Teams zoeken
+    .aria-label = Teams zoeken
+newtab-sports-widget-done-button =
+    .label = Gereed
+newtab-sports-widget-group-stage = Groepsfase
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Scores vernieuwen
+    .aria-label = Scores vernieuwen
+newtab-sports-widget-upcoming = Binnenkort
+newtab-sports-widget-results = Resultaten
+newtab-sports-widget-semi-finals = Halve finales
+newtab-sports-widget-bronze-finals = Troostfinale
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Vertraagd
+newtab-sports-widget-postponed = Uitgesteld
+newtab-sports-widget-suspended = Onderbroken
+newtab-sports-widget-cancelled = Geannuleerd
+newtab-sports-widget-information = Informatie over de wedstrijd
+newtab-sports-widget-no-live-data = Livewedstrijdgegevens worden momenteel niet bijgewerkt
+newtab-sports-widget-view-results-link = Resultaten bekijken
+newtab-sports-widget-third-place = Derde plaats
+newtab-sports-widget-champions = Kampioen
+newtab-sports-widget-world-cup-champions = Wereldkampioen 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

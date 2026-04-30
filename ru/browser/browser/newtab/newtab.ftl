@@ -365,6 +365,8 @@ newtab-custom-widget-lists-toggle =
     .label = Списки
 newtab-custom-widget-timer-toggle =
     .label = Таймер
+newtab-custom-widget-sports-toggle =
+    .label = Чемпионат мира
 newtab-custom-widget-section-title = Виджеты
 newtab-custom-widget-section-toggle =
     .label = Виджеты
@@ -736,6 +738,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Завершено ({ $number })
+newtab-widget-lists-celebration-headline = Хорошая работа
+newtab-widget-lists-celebration-subhead = Все чисто
 newtab-widget-task-list-menu-copy = Копировать
 newtab-widget-lists-menu-edit = Изменить имя списка
 newtab-widget-lists-menu-edit2 =

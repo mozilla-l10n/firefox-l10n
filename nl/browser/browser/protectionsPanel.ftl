@@ -84,6 +84,11 @@ smartblock-placeholder-title = { $trackername }-trackers en -inhoud geblokkeerd
 smartblock-placeholder-desc = Uw { -brand-short-name }-instellingen hebben voorkomen dat deze inhoud u op websites volgt of voor advertenties wordt gebruikt.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Toestaan op { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Inhoud van geblokkeerde insluiting
 
 ##
 

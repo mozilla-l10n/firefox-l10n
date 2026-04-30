@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Toegankelijkheid
     .title = { pane-accessibility-title }
+pane-languages-title = Talen
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name }-experimenten
 category-experimental =
     .tooltiptext = { -brand-short-name }-experimenten
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Ga voorzichtig verder
 pane-experimental-search-results-header = { -brand-short-name }-experimenten: voorzichtigheid geadviseerd
 pane-experimental-description2 = Het wijzigen van geavanceerde configuratie-instellingen kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Probeer onze experimentele functies! Ze zijn in ontwikkeling en in de groei, wat van invloed kan zijn op de manier waarop { -brand-short-name } werkt. We ontvangen alleen gegevens over uw gebruik van deze functies als u <a data-l10n-name="data-collection">technische en interactiegegevens</a> hebt ingeschakeld.
@@ -460,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Herstart { -brand-short-name } om deze wijzigingen toe te passen.
 confirm-browser-language-change-button = Toepassen en herstarten
+browser-language-heading =
+    .label = Browsertaal
+    .description = Kies de taal die wordt gebruikt om menu’s, berichten en notificaties van { -brand-short-name } te tonen.
+browser-language-preferred-label =
+    .label = Voorkeurstaal
+browser-language-fallback-label =
+    .label = Reservetaal
+    .description = Gebruikt wanneer de vertaling naar de voorkeurstaal onvolledig is.
 browser-language-install-error =
     .message = { -brand-short-name } kan uw talen momenteel niet bijwerken. Controleer of u met het internet bent verbonden of probeer het opnieuw.
 translate-web-pages =
@@ -679,6 +694,8 @@ update-application-version = Versie { $version } <a data-l10n-name="learn-more">
 update-history-2 =
     .label = Updategeschiedenis tonen
     .accesskey = d
+update-application-installation =
+    .label = Installatie
 update-history =
     .label = Updategeschiedenis tonen…
     .accesskey = d
@@ -719,6 +736,16 @@ update-in-progress-ok-button = &Verwerpen
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Doorgaan
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name }-updates
+    .description = Updates verbeteren de snelheid, stabiliteit en beveiliging van { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notificaties
+update-application-updates-managed-by-os =
+    .message = Updates worden door uw besturingssysteem beheerd
 
 ## Firefox support
 
@@ -999,6 +1026,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Timer
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } ondersteunen
@@ -1012,6 +1042,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Kies een achtergrond
 home-prefs-choose-wallpaper-link2 =
     .label = Kies een achtergrond
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Stel nieuwe tabbladen of nieuwe vensters in op { -firefox-home-brand-name } om deze functies te gebruiken.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1539,6 +1574,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Meer info
 forms-windows-sso-desc = Accounts beheren in uw apparaatinstellingen
 windows-passkey-settings-label = Wachtwoordsleutels beheren in systeeminstellingen
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Instellingen privacypaneel
+    .description = Ontvang hulp om uw online gegevens te beschermen in { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Berichten over datalekken tonen
+    .accesskey = d
 
 ## OS Authentication dialog
 

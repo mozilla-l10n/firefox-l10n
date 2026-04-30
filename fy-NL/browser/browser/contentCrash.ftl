@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Net mear toane
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Jo hawwe in resint net-ferstjoerd ûngelokrapport
+       *[other] Jo hawwe { $reportCount } resinte net-ferstjoerde ûngelokrapporten
+    }

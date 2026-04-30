@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = { -vendor-short-name } 产品
+more-from-moz-page-header =
+    .heading = { -vendor-short-name } 产品
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } 产品
 more-from-moz-subtitle = 更多致力于促进互联网健康发展的 { -vendor-short-name } 产品。
 more-from-moz-firefox-mobile-title = { -brand-product-name } 移动版
 more-from-moz-firefox-mobile-description = 隐私为先的移动浏览器。
 more-from-moz-firefox-mobile-title-1 = 移动版 { -brand-product-name }
+more-from-moz-firefox-mobile =
+    .label = 移动版 { -brand-product-name }
+    .description = 隐私为先的移动浏览器
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = 探索更进一步的匿名浏览和保护机制。
 more-from-moz-qr-code-box-firefox-mobile-title = 扫码后点按链接开始下载。
@@ -46,3 +51,54 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI 网站创建工具
 more-from-moz-mdn-description = 详尽且免费的指南和参考，助力学习 Web 开发。
 more-from-moz-mdn-button = 学习 Web 开发
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name } 新产品
+more-from-moz-new-products-description = 探索 { -vendor-short-name } 的最新产品
+more-from-moz-new-products-button = 查看新产品
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = 用手机或平板电脑相机扫码，即可下载应用。请在显示链接时点按。
+more-from-moz-firefox-mobile-email-link = 通过邮件发送下载链接到手机
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = 免费扫描个人信息在何处遭到泄露。
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = 使用免费马甲邮箱，保护收件箱免受垃圾邮件侵扰。
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = 免费的指南和参考资料，助力学习 Web 开发。
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = 用这款疾如惊雷的应用，一站式查看邮件、日历、联系人。
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = 探索我们最新的创意和实验性技术。
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name } 新产品
+    .description = 探索 { -vendor-short-name } 的最新产品。
+more-from-moz-mozilla-monitor-box-link =
+    .label = 使用 { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = 获取 { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = 获取 { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = 访问 MDN
+more-from-moz-solo-box-link =
+    .label = 试用 { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = 查看新产品
