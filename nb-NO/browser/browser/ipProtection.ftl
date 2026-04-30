@@ -99,6 +99,9 @@ ipprotection-button-connecting = Slår på …
 ipprotection-recommended-location-button = Sted: Anbefalt
 ipprotection-recommended-location-description = { -brand-product-name } finner den raskeste plasseringen
 ipprotection-recommended-location-badge = NY
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Plassering: { $country }
 ipprotection-locations-subview =
     .title = Velg plassering
 
