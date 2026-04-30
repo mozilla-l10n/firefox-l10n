@@ -74,6 +74,9 @@ newtab-topsites-image-url-label = Sérsniðin myndslóð
 newtab-topsites-use-image-link = Nota sérsniðna mynd…
 newtab-topsites-image-validation = Ekki tókst að hlaða mynd. Prófið aðra vefslóð.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Hætta við
@@ -607,6 +610,9 @@ newtab-new-user-custom-wallpaper-title = Veldu bakgrunn til að gera { -brand-pr
 newtab-new-user-custom-wallpaper-subtitle = Láttu nýja flipa verða heimilislegri með sérsniðnum bakgrunnum og litum.
 newtab-new-user-custom-wallpaper-cta = Prófa það núna
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Sækja { -brand-product-name } fyrir farsíma
@@ -660,10 +666,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Lokið ({ $number })
 newtab-widget-task-list-menu-copy = Afrita
 newtab-widget-lists-menu-edit = Breyta heiti á lista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Breyta heiti á lista
 newtab-widget-lists-menu-create = Búa til nýjan lista
 newtab-widget-lists-menu-delete = Eyða þessum lista
 newtab-widget-lists-menu-copy = Afrita lista á klippispjald
 newtab-widget-lists-menu-learn-more = Frekari upplýsingar
+newtab-widget-lists-button-add-item = Bæta við atriði
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Bæta við atriði
+    .aria-label = Bæta við atriði
 newtab-widget-lists-input-add-an-item =
     .placeholder = Bæta við atriði
 newtab-widget-lists-input-error = Settu inn texta til að bæta við atriði.
@@ -680,11 +692,14 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Verkefnalisti
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nýr listi
+    .aria-label = Breyta heiti á lista
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nýr listi
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Tímamælir
 newtab-widget-timer-notification-focus = Einbeitingartíminn er liðinn. Vel gert. Þarftu pásu?
@@ -712,3 +727,12 @@ newtab-promo-card-cta = Fræðast meira
 newtab-promo-card-dismiss-button =
     .title = Afgreiða
     .aria-label = Afgreiða
+
+## Sports widget
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
