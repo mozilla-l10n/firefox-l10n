@@ -763,6 +763,13 @@ newtab-widget-lists-name-label-checklist =
     .label = 檢查清單
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 任務清單
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = 檢查清單
+    .aria-label = 編輯清單名稱
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = 新增清單
+    .aria-label = 編輯清單名稱
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = 檢查清單
 # The placeholder value of the name field for a newly created list
