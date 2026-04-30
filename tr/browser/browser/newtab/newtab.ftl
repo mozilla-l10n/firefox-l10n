@@ -763,6 +763,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Görev listesi
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Görev listesi
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Görev listesi
+    .aria-label = Liste adını düzenle
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Yeni liste
+    .aria-label = Liste adını düzenle
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Görev listesi
 # The placeholder value of the name field for a newly created list
