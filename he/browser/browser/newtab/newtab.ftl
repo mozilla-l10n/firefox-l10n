@@ -735,6 +735,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = הושלמו ({ $number })
 newtab-widget-lists-celebration-headline = עבודה יפה
+newtab-widget-lists-celebration-subhead = אין משימות פתוחות
 newtab-widget-task-list-menu-copy = העתקה
 newtab-widget-lists-menu-edit = עריכת שם הרשימה
 newtab-widget-lists-menu-edit2 =
@@ -755,6 +756,8 @@ newtab-widget-lists-input-menu-move-up = להזיז מעלה
 newtab-widget-lists-input-menu-move-down = להזיז מטה
 newtab-widget-lists-input-menu-delete = מחיקה
 newtab-widget-lists-input-menu-edit = עריכה
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = עריכת פריט
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + יצירת רשימה חדשה
@@ -844,6 +847,40 @@ newtab-promo-card-cta = מידע נוסף
 newtab-promo-card-dismiss-button =
     .title = סגירה
     .aria-label = סגירה
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = מעקב אחרי נבחרות
+newtab-sports-widget-menu-view-upcoming = הצגת המשחקים הבאים
+newtab-sports-widget-menu-view-results = הצגת תוצאות
+newtab-sports-widget-menu-learn-more = מידע נוסף
+newtab-sports-widget-countdown-title = ספירה לאחור לקראת המונדיאל
+newtab-sports-widget-get-updates = קבלת עדכונים חיים על משחקים ועוד.
+newtab-sports-widget-follow-teams =
+    .label = מעקב אחרי נבחרות
+newtab-sports-widget-choose-wallpaper =
+    .label = בחירת תמונת רקע
+newtab-sports-widget-skip = דילוג
+newtab-sports-widget-search-teams =
+    .placeholder = חיפוש נבחרות
+    .aria-label = חיפוש נבחרות
+newtab-sports-widget-done-button =
+    .label = סיום
+newtab-sports-widget-group-stage = שלב הבתים
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = חי
+newtab-custom-widget-live-refresh =
+    .title = ריענון תוצאות
+    .aria-label = ריענון תוצאות
+newtab-sports-widget-upcoming = המשחקים הבאים
+newtab-sports-widget-results = תוצאות
+newtab-sports-widget-semi-finals = חצי גמר
+newtab-sports-widget-bronze-finals = משחק על מדליית הארד
+newtab-sports-widget-final = גמר
+newtab-sports-widget-delayed = נדחה
+newtab-sports-widget-postponed = הושהה
+newtab-sports-widget-cancelled = בוטל
+newtab-sports-widget-information = מידע על המשחק
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
