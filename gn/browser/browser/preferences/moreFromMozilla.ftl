@@ -14,6 +14,9 @@ more-from-moz-subtitle = Ehecha ambue { -vendor-short-name } ojapopyre oikóva o
 more-from-moz-firefox-mobile-title = { -brand-product-name } pumbyrýpe g̃uarã
 more-from-moz-firefox-mobile-description = Pumbyry kundahára omotendéva nde rekoñemi.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pumbyrýpe g̃uarã
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } pumbyrýpe g̃uarã
+    .description = Kundahára pumbyrygua omotenondéva nde rekoñemi.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ejuhu peteĩ ñepytyvõ kundahára ha ñemo’ã ojekuaa’ỹvagui.
 more-from-moz-qr-code-box-firefox-mobile-title = Emboguejy ne pumbyrýpe. Emoma’ẽ ne ra’ãnganohẽha pe QR ayvu rehe. Osẽvove pe juajuha, eiporavóke.
@@ -48,3 +51,13 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } IA ñanduti rogue moheñoih
 more-from-moz-mdn-description = Eikuaa ñanduti ñemboguata kuaukaha ndive ha opamba’e reigua ha tuichaháicha.
 more-from-moz-mdn-button = Eñembokatupyry ñanduti mboguatarãme
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Ñanduti veve, arapapaha ha ñehenoirã reigua, hendáva ipotaháicha.
+more-from-moz-thunderbird-button = Erekóke { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name } Apopyre Pyahu

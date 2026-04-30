@@ -741,6 +741,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Ολοκληρωμένες ({ $number })
 newtab-widget-lists-celebration-headline = Καλή δουλειά
+newtab-widget-lists-celebration-subhead = Όλα ολοκληρωμένα
 newtab-widget-task-list-menu-copy = Αντιγραφή
 newtab-widget-lists-menu-edit = Επεξεργασία ονόματος λίστας
 newtab-widget-lists-menu-edit2 =
@@ -883,6 +884,7 @@ newtab-sports-widget-postponed = Αναβλήθηκε
 newtab-sports-widget-suspended = Διακόπηκε
 newtab-sports-widget-cancelled = Ακυρώθηκε
 newtab-sports-widget-information = Πληροφορίες για τον αγώνα
+newtab-sports-widget-no-live-data = Τα δεδομένα ζωντανού αγώνα δεν ενημερώνονται αυτήν τη στιγμή
 newtab-sports-widget-view-results-link = Προβολή αποτελεσμάτων
 newtab-sports-widget-third-place = Τρίτη θέση
 newtab-sports-widget-champions = Πρωταθλητές

@@ -14,6 +14,9 @@ more-from-moz-subtitle = Δείτε τα άλλα προϊόντα της { -ven
 more-from-moz-firefox-mobile-title = { -brand-product-name } για κινητές συσκευές
 more-from-moz-firefox-mobile-description = Το πρόγραμμα περιήγησης για κινητές συσκευές με προτεραιότητα στο απόρρητό σας.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } για κινητές συσκευές
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } για κινητές συσκευές
+    .description = Το πρόγραμμα περιήγησης για κινητές συσκευές που θέτει σε προτεραιότητα το απόρρητό σας.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Ανακαλύψτε ένα επιπλέον επίπεδο ανώνυμης περιήγησης και προστασίας.
 more-from-moz-qr-code-box-firefox-mobile-title = Κάντε λήψη στην κινητή σας συσκευή. Στρέψτε την κάμερά σας προς τον κωδικό QR. Όταν εμφανιστεί ένας σύνδεσμος, πατήστε τον.
@@ -52,12 +55,21 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Δωρεάν εφαρμογή ηλεκτρονικού ταχυδρομείου, ημερολόγιων και επαφών, οργανωμένη με τον δικό σας τρόπο.
 more-from-moz-thunderbird-button = Λήψη του { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
 more-from-moz-new-products-title = Νέα προϊόντα της { -vendor-short-name }
+more-from-moz-new-products-description = Ανακαλύψτε τα τελευταία προϊόντα από τη { -vendor-short-name }.
 more-from-moz-new-products-button = Προβολή νέων προϊόντων
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Κάντε σάρωση με την κάμερα του τηλεφώνου ή του tablet σας για να αποκτήσετε την εφαρμογή. Πατήστε τον σύνδεσμο όταν εμφανιστεί.
+more-from-moz-firefox-mobile-email-link = Αποστολή συνδέσμου λήψης μέσω email στο τηλέφωνό σας
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
@@ -68,6 +80,21 @@ more-from-moz-mozilla-monitor-card =
 more-from-moz-mozilla-vpn-card =
     .label = { -mozilla-vpn-brand-name }
     .description = Λάβετε επιπλέον προστασία για όλες τις εφαρμογές, όχι μόνο για το πρόγραμμα περιήγησής σας. Διατηρήστε τα δεδομένα σας ασφαλή σε δημόσια Wi-Fi και επισφαλή δίκτυα.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Προστατέψτε τα εισερχόμενά σας από ανεπιθύμητα μηνύματα με δωρεάν μάσκες email.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Μάθετε προγραμματισμό ιστού με δωρεάν οδηγούς και πόρους.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Αποκτήστε πρόσβαση στο ηλεκτρονικό ταχυδρομείο, τα ημερολόγια και τις επαφές σας με μια γρήγορη εφαρμογή.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Εξερευνήστε τις τελευταίες μας ιδέες και πειραματικές τεχνολογίες.
+more-from-moz-new-products-card =
+    .label = Νέα προϊόντα της { -vendor-short-name }
+    .description = Ανακαλύψτε τα τελευταία προϊόντα από τη { -vendor-short-name }.
 more-from-moz-mozilla-monitor-box-link =
     .label = Λήψη του { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

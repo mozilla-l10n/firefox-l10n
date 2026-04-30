@@ -467,8 +467,14 @@ manage-browser-languages-button =
     .accesskey = ν
 confirm-browser-language-change-description = Επανεκκίνηση του { -brand-short-name } για εφαρμογή αλλαγών
 confirm-browser-language-change-button = Εφαρμογή και επανεκκίνηση
+browser-language-heading =
+    .label = Γλώσσα προγράμματος περιήγησης
+    .description = Επιλέξτε τη γλώσσα που χρησιμοποιείται για την εμφάνιση των μενού, μηνυμάτων και ειδοποιήσεων από το { -brand-short-name }.
 browser-language-preferred-label =
     .label = Προτιμώμενη γλώσσα
+browser-language-fallback-label =
+    .label = Εφεδρική γλώσσα
+    .description = Χρησιμοποιείται όταν η μετάφραση στην προτιμώμενη γλώσσα δεν είναι ολοκληρωμένη.
 browser-language-install-error =
     .message = Το { -brand-short-name } δεν μπορεί να ενημερώσει τις γλώσσες σας αυτήν τη στιγμή. Ελέγξτε αν έχετε συνδεθεί στο διαδίκτυο ή δοκιμάστε ξανά.
 translate-web-pages =
@@ -733,8 +739,13 @@ update-in-progress-cancel-button = &Συνέχεια
 
 ## Firefox updates
 
+update-application-heading =
+    .label = Ενημερώσεις του { -brand-short-name }
+    .description = Οι ενημερώσεις βελτιώνουν την ταχύτητα, τη σταθερότητα και την ασφάλεια του { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Ειδοποιήσεις
+update-application-updates-managed-by-os =
+    .message = Η διαχείριση των ενημερώσεων γίνεται από το λειτουργικό σας σύστημα
 
 ## Firefox support
 
@@ -1031,6 +1042,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Επιλογή ταπετσαρίας
 home-prefs-choose-wallpaper-link2 =
     .label = Επιλογή ταπετσαρίας
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Για να χρησιμοποιήσετε αυτές τις λειτουργίες, ρυθμίστε τις νέες καρτέλες ή τα νέα παράθυρα στην { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1558,6 +1574,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Μάθετε περισσότερα
 forms-windows-sso-desc = Διαχειριστείτε τους λογαριασμούς σας στις ρυθμίσεις συσκευής
 windows-passkey-settings-label = Διαχείριση κλειδιών πρόσβασης στις ρυθμίσεις συστήματος
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Ρυθμίσεις πίνακα απορρήτου
+    .description = Λάβετε βοήθεια με την προστασία των πληροφοριών σας στο { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Εμφάνιση μηνυμάτων παραβίασης
+    .accesskey = υ
 
 ## OS Authentication dialog
 

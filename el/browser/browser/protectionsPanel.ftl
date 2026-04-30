@@ -86,6 +86,11 @@ smartblock-placeholder-title = Αποκλείστηκαν ιχνηλάτες { $
 smartblock-placeholder-desc = Οι ρυθμίσεις του { -brand-short-name } απέτρεψαν την καταγραφή σας από αυτό το περιεχόμενο στους ιστοτόπους ή τη χρήση του για διαφημίσεις.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Να επιτρέπεται στο { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Περιεχόμενο από αποκλεισμένη ενσωμάτωση
 
 ##
 
