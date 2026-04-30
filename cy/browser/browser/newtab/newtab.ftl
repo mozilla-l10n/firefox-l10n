@@ -757,6 +757,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Rhestr wirio
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Rhestr tasgau
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Rhestr wirio
+    .aria-label = Golygu enw'r rhestr
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Rhestr newydd
+    .aria-label = Golygu enw'r rhestr
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Rhestr wirio
 # The placeholder value of the name field for a newly created list
