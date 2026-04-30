@@ -69,7 +69,7 @@ more-from-moz-new-products-button = Voir les nouveaux produits
 
 more-from-moz-firefox-mobile-qr-promo =
     .message = Scannez avec l’appareil photo de votre téléphone ou de votre tablette pour installer l’application. Appuyez sur le lien lorsqu’il apparaît.
-more-from-moz-firefox-mobile-email-link = Envoyer par courriel le lien de téléchargement sur votre téléphone
+more-from-moz-firefox-mobile-email-link = Envoyez le lien de téléchargement sur votre téléphone par e-mail
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
@@ -79,7 +79,7 @@ more-from-moz-mozilla-monitor-card =
     .description = Découvrez où vos informations personnelles ont été exposées en ligne grâce à une analyse gratuite.
 more-from-moz-mozilla-vpn-card =
     .label = { -mozilla-vpn-brand-name }
-    .description = Bénéficiez d’une protection supplémentaire pour toutes les applications, pas uniquement votre navigateur. Protégez vos données sur le Wi-Fi public et les réseaux non sécurisés.
+    .description = Bénéficiez d’une protection supplémentaire pour toutes les applications, pas uniquement votre navigateur. Protégez vos données sur les réseaux Wi-Fi publics et les réseaux non sécurisés.
 more-from-moz-firefox-relay-card =
     .label = { -relay-brand-name }
     .description = Protégez votre boîte de réception du spam grâce à des alias de messagerie gratuits.
@@ -93,7 +93,7 @@ more-from-moz-solo-card =
     .label = { -solo-ai-brand-name }
     .description = Découvrez nos dernières idées et technologies expérimentales.
 more-from-moz-new-products-card =
-    .label = { -vendor-short-name } nouveaux produits
+    .label = Nouveaux produits de { -vendor-short-name }
     .description = Découvrez les derniers produits de { -vendor-short-name }.
 more-from-moz-mozilla-monitor-box-link =
     .label = Obtenir { -monitor-brand-short-name }

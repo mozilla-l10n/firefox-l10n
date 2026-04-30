@@ -885,6 +885,7 @@ newtab-sports-widget-information = מידע על המשחק
 newtab-sports-widget-no-live-data = נתוני המשחק החי אינם מתעדכנים כרגע
 newtab-sports-widget-view-results-link = הצגת תוצאות
 newtab-sports-widget-third-place = מקום שלישי
+newtab-sports-widget-champions = אלופים
 newtab-sports-widget-world-cup-champions = אלופי המונדיאל 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
