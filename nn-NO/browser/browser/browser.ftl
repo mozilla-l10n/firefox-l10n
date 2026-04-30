@@ -421,6 +421,8 @@ quickactions-cmd-inspector = inspektør, utviklarverktøy
 # Opens about:logins
 quickactions-logins2 = Handsam passord
 quickactions-cmd-logins = Innloggingar, passord
+# Mutes all tabs playing audio
+quickactions-mute = Demp faner som spelar av lyd
 # Opens about:addons page in the plugins section
 quickactions-plugins = Handsam programtillegg
 quickactions-cmd-plugins = programtillegg
