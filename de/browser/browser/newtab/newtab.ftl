@@ -856,6 +856,7 @@ newtab-promo-card-dismiss-button =
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teams folgen
+newtab-sports-widget-menu-view-upcoming = Kommende anzeigen
 newtab-sports-widget-menu-view-results = Ergebnisse anzeigen
 newtab-sports-widget-menu-learn-more = Weitere Informationen
 newtab-sports-widget-countdown-title = Countdown bis zur Weltmeisterschaft

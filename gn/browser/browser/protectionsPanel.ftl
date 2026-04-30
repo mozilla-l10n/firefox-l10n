@@ -84,6 +84,11 @@ smartblock-placeholder-title = Tapykuehoha ha tetepy { $trackername } ombotypyre
 smartblock-placeholder-desc = Ne ñemoĩporã { -brand-short-name } rehegua omboyke ko tetepy nde rapykuehóvo heta tendápe térã ojeporúvo mba’eñemurã.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Emoneĩ { $websitehost }-pe
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Y oikéva pype ojejokóma
 
 ##
 

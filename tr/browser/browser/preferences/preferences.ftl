@@ -307,7 +307,7 @@ settings-tabs-show-image-in-preview =
     .label = Bir sekmenin üzerine geldiğimde sekme ön izlemesini göster
     .accessKey = ö
 settings-tabs-drag-to-create-tab-groups =
-    .label = Sekme grubu oluşturmak için sekmeleri bir araya sürükleyin
+    .label = Sekmeleri bir araya sürükleyince sekme grubu oluştur
 browser-layout-header2 =
     .label = Tarayıcı düzeni
 browser-layout-horizontal-tabs2 =
@@ -619,8 +619,6 @@ applications-use-os-default =
             [windows] Varsayılan Windows uygulamasını kullan
            *[other] Varsayılan sistem uygulamasını kullan
         }
-applications-use-other =
-    .label = Başkasını kullan…
 applications-select-helper = Yardımcı uygulamayı seçin
 applications-manage-app =
     .label = Uygulama ayrıntıları…
