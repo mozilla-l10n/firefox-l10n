@@ -46,3 +46,30 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } صانع موقع وِب ي
 more-from-moz-mdn-description = تعلّم تطوير الوِب مع أدلة ومراجع شاملة ومجانية.
 more-from-moz-mdn-button = تعلّم تطوير الوب
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-button = احصل على { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = منتجات { -vendor-short-name } الجديدة
+more-from-moz-new-products-description = اكتشف أحدث المنتجات من { -vendor-short-name }.
+more-from-moz-new-products-button = اطّلع على المنتجات الجديدة
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = امسح ضوئيًا باستخدام كاميرا هاتفك أو جهازك اللوحي للحصول على التطبيق. انقر على الرابط عندما يظهر.
+more-from-moz-firefox-mobile-email-link = أرسل رابط التنزيل إلى هاتفك عبر البريد الإلكتروني
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = اكتشف أين سُربت معلوماتك الشخصية عبر الإنترنت من خلال فحص مجاني.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = احصل على حماية إضافية لجميع التطبيقات — وليس فقط لمتصفحك. حافظ على أمان بياناتك عند استخدام شبكات Wi-Fi العامة والشبكات غير الآمنة.

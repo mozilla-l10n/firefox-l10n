@@ -1764,3 +1764,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>يبدو الموقع معطوبًا؟</strong> أعِد تحميل الصفحة لتقليل مستوى حماية التتبع مؤقتًا.
 reduced-protection-infobar-reload-button = أعد التحميل
     .accesskey = ع
+reduced-protection-infobar-never-show-button = لا تُظهر مجددًا
+    .accesskey = ظ
