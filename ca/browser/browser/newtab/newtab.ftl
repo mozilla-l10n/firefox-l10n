@@ -74,6 +74,9 @@ newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancel·la
@@ -607,6 +610,9 @@ newtab-new-user-custom-wallpaper-title = Trieu un fons de pantalla per a persona
 newtab-new-user-custom-wallpaper-subtitle = Decoreu cada pestanya nova al vostre gust amb fons de pantalla i colors personalitzats.
 newtab-new-user-custom-wallpaper-cta = Proveu-ho ara
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Baixeu el { -brand-product-name } per a mòbils
@@ -663,10 +669,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Completats ({ $number })
 newtab-widget-task-list-menu-copy = Copia
 newtab-widget-lists-menu-edit = Edita el nom de la llista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Edita el nom de la llista
 newtab-widget-lists-menu-create = Crea una llista nova
 newtab-widget-lists-menu-delete = Suprimeix aquesta llista
 newtab-widget-lists-menu-copy = Copia la llista al porta-retalls
 newtab-widget-lists-menu-learn-more = Més informació
+newtab-widget-lists-button-add-item = Afegeix un element
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Afegeix un element
+    .aria-label = Afegeix un element
 newtab-widget-lists-input-add-an-item =
     .placeholder = Afegeix un element
 newtab-widget-lists-input-error = Incloeu text per a afegir un element.
@@ -683,6 +695,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Llista de tasques
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Llista nova
+    .aria-label = Edita el nom de la llista
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Llista nova
 newtab-widget-section-title = Ginys
@@ -697,8 +713,7 @@ newtab-widget-section-minimize =
     .title = Minimitza els widgets
     .aria-label = Minimitza tots els widgets a mida compacta
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Temporitzador
 newtab-widget-timer-notification-focus = S'ha acabat el temps de concentració. Et felicito. Vols fer una pausa?
@@ -723,3 +738,12 @@ newtab-promo-card-cta = Més informació
 newtab-promo-card-dismiss-button =
     .title = Ignora
     .aria-label = Ignora
+
+## Sports widget
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
