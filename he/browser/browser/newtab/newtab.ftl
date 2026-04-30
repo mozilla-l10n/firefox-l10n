@@ -877,10 +877,13 @@ newtab-sports-widget-results = תוצאות
 newtab-sports-widget-semi-finals = חצי גמר
 newtab-sports-widget-bronze-finals = משחק על מדליית הארד
 newtab-sports-widget-final = גמר
-newtab-sports-widget-delayed = נדחה
-newtab-sports-widget-postponed = הושהה
+newtab-sports-widget-delayed = מתעכב
+newtab-sports-widget-postponed = נדחה
+newtab-sports-widget-suspended = מושהה
 newtab-sports-widget-cancelled = בוטל
 newtab-sports-widget-information = מידע על המשחק
+newtab-sports-widget-no-live-data = נתוני המשחק החי אינם מתעדכנים כרגע
+newtab-sports-widget-view-results-link = הצגת תוצאות
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

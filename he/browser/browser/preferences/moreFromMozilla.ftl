@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = עוד מ־{ -vendor-short-name }
+more-from-moz-page-header =
+    .heading = עוד מ־{ -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = עוד מ־{ -vendor-short-name }
 more-from-moz-subtitle = עיינו במוצרים אחרים של { -vendor-short-name } שפועלים לתמיכה באינטרנט בריא.
 more-from-moz-firefox-mobile-title = ‏{ -brand-product-name } לניידים
 more-from-moz-firefox-mobile-description = הדפדפן לטלפונים ניידים ששם את הפרטיות שלך בחזית.
 more-from-moz-firefox-mobile-title-1 = ‏{ -brand-product-name } לניידים
+more-from-moz-firefox-mobile =
+    .label = ‏{ -brand-product-name } לניידים
+    .description = הדפדפן לטלפונים ניידים ששם את הפרטיות שלך בחזית.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = לגלות שכבה נוספת של גלישה אנונימית והגנה.
 more-from-moz-qr-code-box-firefox-mobile-title = ניתן להוריד באמצעות המכשיר הנייד שלך. פשוט מכוונים את המצלמה לקוד ה־QR, וכשיופיע קישור יש ללחוץ עליו.
@@ -46,3 +51,22 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Website Creator
 more-from-moz-mdn-description = למידה של פיתוח אתרים בעזרת מדריכים מקיפים חינמיים.
 more-from-moz-mdn-button = למידה של פיתוח אתרים
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = דוא״ל, לוח שנה ואנשי קשר בחינם - מאורגנים בדרך שלך.
+more-from-moz-thunderbird-button = קבלת { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = מוצרים חדשים של { -vendor-short-name }
+more-from-moz-new-products-description = גלו את המוצרים החדשים ביותר מאת { -vendor-short-name }.
+more-from-moz-new-products-button = הצגת מוצרים חדשים
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = יש לסרוק עם מצלמת הטלפון או מחשב הלוח שלך כדי לקבל את היישומון. יש להקיש על הקישור כשהוא יופיע.
+more-from-moz-firefox-mobile-email-link = שליחת קישור הורדה לטלפון שלך בדוא״ל
