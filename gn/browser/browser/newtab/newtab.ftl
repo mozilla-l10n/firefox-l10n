@@ -739,10 +739,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Opapyre ({ $number })
 newtab-widget-task-list-menu-copy = Monguatia
 newtab-widget-lists-menu-edit = Embosako’i tysýi réra
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Embosako’i tysýi réra
 newtab-widget-lists-menu-create = Emoheñói tysýi pyahu
 newtab-widget-lists-menu-delete = Embogue ko tysýi
 newtab-widget-lists-menu-copy = Embohasa tysýi kuatiajokohápe
 newtab-widget-lists-menu-learn-more = Eikuaave
+newtab-widget-lists-button-add-item = Embojuaju jehaipy
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Embojuaju jehaipy
+    .aria-label = Embojuaju jehaipy
 newtab-widget-lists-input-add-an-item =
     .placeholder = Embojuaju jehaipy
 newtab-widget-lists-input-error = Emoinge moñe’ẽrã embojuaju hag̃ua mba’eporurã.
@@ -789,8 +795,7 @@ newtab-widget-section-menu-learn-more = Eikuaave
 newtab-widget-section-feedback = Ja’e mba’épa opensa
 newtab-widget-lists-name-default = Tysýi hechajeyha
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Aravojere
 newtab-widget-timer-notification-focus = Opáma nde aravo. Ejapo porã. ¿Epytu’usépa?
@@ -830,6 +835,9 @@ newtab-promo-card-cta = Eikuaave
 newtab-promo-card-dismiss-button =
     .title = Mboyke
     .aria-label = Mboyke
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
