@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Mer från { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Mer från { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mer från { -vendor-short-name }
 more-from-moz-subtitle = Kolla in andra { -vendor-short-name }-produkter som fungerar för att stödja ett hälsosamt internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } för mobil
 more-from-moz-firefox-mobile-description = Den mobila webbläsaren som sätter din integritet främst.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } för mobil
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } för mobil
+    .description = Den mobila webbläsaren som sätter din integritet främst.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Upptäck ett extra lager av anonym surfning och skydd.
 more-from-moz-qr-code-box-firefox-mobile-title = Ladda ner med din mobila enhet. Rikta kameran mot QR-koden. När en länk visas trycker du på den.
@@ -46,3 +51,61 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI Webbplatsskapare
 more-from-moz-mdn-description = Lär dig webbutveckling med kostnadsfria, omfattande guider och referenser.
 more-from-moz-mdn-button = Lär dig webbutveckling
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Gratis e-post, kalender och kontakter — organiserat på ditt sätt.
+more-from-moz-thunderbird-button = Hämta { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name } nya produkter
+more-from-moz-new-products-description = Upptäck de senaste produkterna från { -vendor-short-name }.
+more-from-moz-new-products-button = Se nya produkter
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Skanna med kameran på telefonen eller surfplattan för att hämta appen. Tryck på länken när den visas.
+more-from-moz-firefox-mobile-email-link = Mejla nedladdningslänken till din telefon
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Ta reda på var din personliga information har exponerats online med en gratis skanning.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Få extra skydd för alla appar — inte bara din webbläsare. Håll din data säker på offentligt Wi-Fi och osäkra nätverk.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Skydda din inkorg från skräppost med gratis e-postalias.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Lär dig webbutveckling med gratis guider och referenser.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Kom åt din e-post, kalendrar och kontakter i en snabb app.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Utforska våra senaste idéer och experimentella tekniker.
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name } nya produkter
+    .description = Upptäck de senaste produkterna från { -vendor-short-name }.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Skaffa { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Hämta { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Skaffa { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Åtkomst till MDN
+more-from-moz-thunderbird-box-link =
+    .label = Hämta { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Prova { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Se nya produkter

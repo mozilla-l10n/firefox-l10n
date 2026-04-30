@@ -367,6 +367,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listor
 newtab-custom-widget-timer-toggle =
     .label = Timer
+newtab-custom-widget-sports-toggle =
+    .label = VM
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
@@ -738,6 +740,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Slutförd ({ $number })
+newtab-widget-lists-celebration-headline = Bra jobbat
+newtab-widget-lists-celebration-subhead = Allt klart
 newtab-widget-task-list-menu-copy = Kopiera
 newtab-widget-lists-menu-edit = Redigera listnamn
 newtab-widget-lists-menu-edit2 =
@@ -758,6 +762,8 @@ newtab-widget-lists-input-menu-move-up = Flytta upp
 newtab-widget-lists-input-menu-move-down = Flytta ned
 newtab-widget-lists-input-menu-delete = Ta bort
 newtab-widget-lists-input-menu-edit = Redigera
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Redigera objekt
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Skapa en ny lista
@@ -843,6 +849,46 @@ newtab-promo-card-cta = Läs mer
 newtab-promo-card-dismiss-button =
     .title = Ignorera
     .aria-label = Ignorera
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Följ grupper
+newtab-sports-widget-menu-view-upcoming = Visa kommande
+newtab-sports-widget-menu-view-results = Visa resultat
+newtab-sports-widget-menu-learn-more = Läs mer
+newtab-sports-widget-countdown-title = Nedräkning till VM
+newtab-sports-widget-get-updates = Få liveuppdateringar om matcher och mycket mer.
+newtab-sports-widget-follow-teams =
+    .label = Följ grupper
+newtab-sports-widget-choose-wallpaper =
+    .label = Välj en bakgrundsbild
+newtab-sports-widget-skip = Hoppa över
+newtab-sports-widget-search-teams =
+    .placeholder = Sök efter grupper
+    .aria-label = Sök efter grupper
+newtab-sports-widget-done-button =
+    .label = Klar
+newtab-sports-widget-group-stage = Gruppspel
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Uppdatera poäng
+    .aria-label = Uppdatera poäng
+newtab-sports-widget-upcoming = Kommande
+newtab-sports-widget-results = Resultat
+newtab-sports-widget-semi-finals = Semifinaler
+newtab-sports-widget-bronze-finals = Bronsfinal
+newtab-sports-widget-final = Final
+newtab-sports-widget-delayed = Försenad
+newtab-sports-widget-postponed = Uppskjuten
+newtab-sports-widget-suspended = Avstängd
+newtab-sports-widget-cancelled = Avbruten
+newtab-sports-widget-information = Information om matchen
+newtab-sports-widget-no-live-data = Live-matchningsdata uppdateras inte just nu
+newtab-sports-widget-view-results-link = Visa resultat
+newtab-sports-widget-third-place = Tredje plats
+newtab-sports-widget-champions = Mästare
+newtab-sports-widget-world-cup-champions = Världsmästare 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

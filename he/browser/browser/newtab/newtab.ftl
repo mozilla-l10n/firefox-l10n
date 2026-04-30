@@ -361,6 +361,8 @@ newtab-custom-widget-lists-toggle =
     .label = רשימות
 newtab-custom-widget-timer-toggle =
     .label = שעון עצר
+newtab-custom-widget-sports-toggle =
+    .label = מונדיאל
 newtab-custom-widget-section-title = ווידג’טים
 newtab-custom-widget-section-toggle =
     .label = ווידג’טים
@@ -732,6 +734,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = הושלמו ({ $number })
+newtab-widget-lists-celebration-headline = עבודה יפה
 newtab-widget-task-list-menu-copy = העתקה
 newtab-widget-lists-menu-edit = עריכת שם הרשימה
 newtab-widget-lists-menu-edit2 =

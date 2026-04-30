@@ -551,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = החיבור שלך לאתר זה אינו מאובטח.
 identity-connection-verified = החיבור שלך לאתר זה מאובטח.
 identity-ev-owner-label = האישור הונפק עבור:
+identity-verifier-label = גורם מאמת:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = מוסמך כפי שצוין בתקנה (EU) 2024/1183.
 identity-description-custom-root2 = ‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת.
+identity-cert-exception-overridden = הוספת חריגת אבטחה לאתר זה.
 identity-remove-cert-exception =
     .label = הסרת חריגה
     .accesskey = ס
@@ -1750,3 +1752,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>האתר נראה שבור?</strong> ניתן לטעון מחדש את הדף כדי להפחית זמנית את הגנת המעקב שלך.
 reduced-protection-infobar-reload-button = טעינה מחדש
     .accesskey = ט
+reduced-protection-infobar-never-show-button = לא להציג שוב
+    .accesskey = ל
