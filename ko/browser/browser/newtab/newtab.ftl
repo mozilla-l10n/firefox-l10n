@@ -765,6 +765,13 @@ newtab-widget-lists-name-label-checklist =
     .label = 체크리스트
 newtab-widget-lists-name-placeholder-default =
     .placeholder = 작업 목록
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = 체크리스트
+    .aria-label = 목록 이름 편집
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = 새 목록
+    .aria-label = 목록 이름 편집
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = 체크리스트
 # The placeholder value of the name field for a newly created list
