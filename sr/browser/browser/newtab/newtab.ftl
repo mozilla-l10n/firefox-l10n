@@ -365,6 +365,8 @@ newtab-custom-widget-lists-toggle =
     .label = Спискови
 newtab-custom-widget-timer-toggle =
     .label = Одбројавач
+newtab-custom-widget-sports-toggle =
+    .label = Светско првенство
 newtab-custom-widget-section-title = Елементи
 newtab-custom-widget-section-toggle =
     .label = Елементи
@@ -384,6 +386,7 @@ newtab-wallpaper-title = Позадине
 newtab-wallpaper-reset = Врати на подразумевано
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Отпреми слику
+newtab-wallpaper-add-an-image = Додај слику
 newtab-wallpaper-custom-color = Изабери боју
 newtab-wallpaper-toggle-title =
     .label = Позадине
@@ -411,6 +414,7 @@ newtab-wallpaper-light-fox-anniversary = Лисица на ливади са п�
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Једнобојне
+newtab-wallpaper-colors = Боје
 newtab-wallpaper-blue = Плава
 newtab-wallpaper-light-blue = Светло плава
 newtab-wallpaper-light-purple = Светло љубичаста
@@ -501,6 +505,9 @@ newtab-weather-menu-change-location = Промени место
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Потражи место
     .aria-label = Потражи место
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Употреби тренутну локацију
 newtab-weather-menu-weather-display = Приказ времена
 newtab-weather-todays-forecast = Данашња прогноза
 newtab-weather-see-full-forecast = Погледајте целу прогнозу
@@ -526,6 +533,10 @@ newtab-weather-opt-in-not-now =
     .label = Не сада
 newtab-weather-opt-in-yes =
     .label = Да
+newtab-weather-opt-in-headline = Добијте локалну временску прогнозу
+newtab-weather-opt-in-use-location =
+    .label = Користи локацију
+newtab-weather-opt-in-choose-location = Изаберите место
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Њујорк
 # "Highest" here refers to the highest temperature of the day
@@ -585,8 +596,16 @@ newtab-topic-selection-button-pick-interests = Одаберите ваша ин�
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Прати
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Прати { $topic }
 newtab-section-following-button = Пратите
 newtab-section-unfollow-button = Прекини праћење
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Пратите: прекини праћење { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Фино подесите свој довод
 newtab-section-follow-highlight-subtitle = Пратите своја интересовања да бисте видели више онога што волите.
@@ -598,6 +617,22 @@ newtab-section-follow-highlight-subtitle = Пратите своја интер�
 newtab-section-block-button = Блокирај
 newtab-section-blocked-button = Блокирано
 newtab-section-unblock-button = Одблокирај
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Прати { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Прекини праћење { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Блокирај { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Одблокирај { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -628,6 +663,12 @@ newtab-custom-wallpaper-cta = Испробајте
 newtab-new-user-custom-wallpaper-title = Изаберите позадину да бисте { -brand-product-name } учинили својим
 newtab-new-user-custom-wallpaper-subtitle = Учините да се сваки нови језичак осећа као код куће уз прилагођене позадине и боје.
 newtab-new-user-custom-wallpaper-cta = Испробајте одмах
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Свеже нове позадине су управо стигле
+newtab-wallpaper-feature-highlight-subtitle = Изаберите своју омиљену и учините да се сваки нови језичак осећа као код куће.
+newtab-wallpaper-feature-highlight-cta = Изаберите позадину
 
 ## Strings for download mobile highlight
 
@@ -702,6 +743,8 @@ newtab-widget-lists-completed-list =
         [few] Завршено ({ $number })
        *[other] Завршених ({ $number })
     }
+newtab-widget-lists-celebration-headline = Добар посао
+newtab-widget-lists-celebration-subhead = Све је завршено
 newtab-widget-task-list-menu-copy = Умножи
 newtab-widget-lists-menu-edit = Уреди назив списка
 newtab-widget-lists-menu-edit2 =
@@ -722,17 +765,26 @@ newtab-widget-lists-input-menu-move-up = Премести горе
 newtab-widget-lists-input-menu-move-down = Премести доле
 newtab-widget-lists-input-menu-delete = Обриши
 newtab-widget-lists-input-menu-edit = Уреди
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Уреди ставку
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Направи нови списак
 newtab-widget-lists-name-label-default =
     .label = Списак задатака
+newtab-widget-lists-name-label-checklist =
+    .label = Списак задатака
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Списак задатака
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Списак задатака
+    .aria-label = Уреди назив списка
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Нови списак
     .aria-label = Уреди назив списка
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Списак задатака
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Нови списак
@@ -752,7 +804,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Умањи елементе
     .aria-label = Скупи све елементе на компактну величину
+newtab-widget-section-menu-button =
+    .title = Мени елемената
+    .aria-label = Отвори мени елемената
+newtab-widget-section-menu-hide-all = Сакриј елементе
+newtab-widget-section-menu-learn-more = Сазнајте више
 newtab-widget-section-feedback = Реците нам шта мислите
+newtab-widget-lists-name-default = Списак задатака
 
 ## Sports widget
 
@@ -799,6 +857,46 @@ newtab-promo-card-cta = Сазнајте више
 newtab-promo-card-dismiss-button =
     .title = Одбаци
     .aria-label = Одбаци
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Прати екипе
+newtab-sports-widget-menu-view-upcoming = Прикажи предстојеће
+newtab-sports-widget-menu-view-results = Прикажи резултате
+newtab-sports-widget-menu-learn-more = Сазнајте више
+newtab-sports-widget-countdown-title = Одбројавање до Светског првенства
+newtab-sports-widget-get-updates = Пратите вести утакмица уживо и још много тога.
+newtab-sports-widget-follow-teams =
+    .label = Прати екипе
+newtab-sports-widget-choose-wallpaper =
+    .label = Изаберите позадину
+newtab-sports-widget-skip = Прескочи
+newtab-sports-widget-search-teams =
+    .placeholder = Претрага екипа
+    .aria-label = Претрага екипа
+newtab-sports-widget-done-button =
+    .label = Готово
+newtab-sports-widget-group-stage = Групна фаза
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = УЖИВО
+newtab-custom-widget-live-refresh =
+    .title = Освежи резултате
+    .aria-label = Освежи резултате
+newtab-sports-widget-upcoming = Предстојећи
+newtab-sports-widget-results = Резултати
+newtab-sports-widget-semi-finals = Полуфинале
+newtab-sports-widget-bronze-finals = Меч за треће место
+newtab-sports-widget-final = Финале
+newtab-sports-widget-delayed = Одложено
+newtab-sports-widget-postponed = Померено
+newtab-sports-widget-suspended = Обустављено
+newtab-sports-widget-cancelled = Отказано
+newtab-sports-widget-information = Подаци о утакмици
+newtab-sports-widget-no-live-data = Подаци о утакмици у живо се тренутно не ажурирају
+newtab-sports-widget-view-results-link = Прикажи резултате
+newtab-sports-widget-third-place = Треће место
+newtab-sports-widget-champions = Шампиони
+newtab-sports-widget-world-cup-champions = Шампиони Светског првенства 2026.
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
