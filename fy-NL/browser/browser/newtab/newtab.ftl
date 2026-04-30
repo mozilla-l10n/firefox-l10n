@@ -767,6 +767,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Kontrôlelist
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Takelist
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Kontrôlelist
+    .aria-label = Listnamme bewurkje
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nije list
+    .aria-label = Listnamme bewurkje
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Kontrôlelist
 # The placeholder value of the name field for a newly created list
