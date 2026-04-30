@@ -421,6 +421,12 @@ quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembiporu
 # Opens about:logins
 quickactions-logins2 = Eñangareko ñe’ẽñemíre
 quickactions-cmd-logins = tembiapo ñepyrũ, ñe’ẽñemi
+# Mutes all tabs playing audio
+quickactions-mute = Emokirirĩ tendayke mba’epugua
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = ekirirĩ, shhhh, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Eñangareko mba’ejoajurãre
 quickactions-cmd-plugins = Mba’ejoajurã
