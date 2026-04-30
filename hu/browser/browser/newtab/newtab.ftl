@@ -740,10 +740,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Kész ({ $number })
 newtab-widget-task-list-menu-copy = Másolás
 newtab-widget-lists-menu-edit = Listanév szerkesztése
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Listanév szerkesztése
 newtab-widget-lists-menu-create = Új lista létrehozása
 newtab-widget-lists-menu-delete = Lista törlése
 newtab-widget-lists-menu-copy = Lista vágólapra másolása
 newtab-widget-lists-menu-learn-more = További tudnivalók
+newtab-widget-lists-button-add-item = Elem hozzáadása
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Elem hozzáadása
+    .aria-label = Elem hozzáadása
 newtab-widget-lists-input-add-an-item =
     .placeholder = Elem hozzáadása
 newtab-widget-lists-input-error = Elem hozzáadásához adjon meg szöveget.
@@ -790,8 +796,7 @@ newtab-widget-section-menu-learn-more = További tudnivalók
 newtab-widget-section-feedback = Mondja el nekünk mit gondol
 newtab-widget-lists-name-default = Ellenőrzőlista
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Időzítő
 newtab-widget-timer-notification-focus = Lejárt a fókuszidő. Szép munka. Szüksége van egy kis szünetre?
@@ -831,6 +836,9 @@ newtab-promo-card-cta = További tudnivalók
 newtab-promo-card-dismiss-button =
     .title = Eltüntetés
     .aria-label = Eltüntetés
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
