@@ -771,6 +771,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Kontrolna lisćina
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lisćiny nadawkow
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Kontrolna lisćina
+    .aria-label = Mjeno lisćiny wobdźěłać
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nowa lisćina
+    .aria-label = Mjeno lisćiny wobdźěłać
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Kontrolna lisćina
 # The placeholder value of the name field for a newly created list
