@@ -820,6 +820,8 @@ newtab-sports-widget-live = ТІКЕЛЕЙ ЭФИР
 newtab-custom-widget-live-refresh =
     .title = Ұпайларды жаңарту
     .aria-label = Ұпайларды жаңарту
+newtab-sports-widget-upcoming = Алдағы уақытта
+newtab-sports-widget-results = Нәтижелер
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -761,6 +761,8 @@ newtab-widget-lists-input-menu-move-up = Flytt opp
 newtab-widget-lists-input-menu-move-down = Flytt ned
 newtab-widget-lists-input-menu-delete = Slett
 newtab-widget-lists-input-menu-edit = Rediger
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Rediger element
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Lag en ny liste

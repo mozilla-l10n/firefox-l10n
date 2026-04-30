@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Accessibilitate
     .title = { pane-accessibility-title }
+pane-languages-title = Linguas
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Proceder con cautela
 pane-experimental-search-results-header = Experimentos { -brand-short-name }: continuar con attention
 pane-experimental-description2 = Cambiar parametros de configuration avantiate pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Essaya nostre functiones experimental! Illos es in disveloppamento e in evolution, lo que pote haber impacto sur como functiona { -brand-short-name }. Nos solo recipe datos re tu uso de iste functiones si tu ha activate le <a data-l10n-name="data-collection">datos technic e de interaction</a>.
@@ -460,6 +467,8 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Reinitiar { -brand-short-name } pro applicar iste cambiamentos
 confirm-browser-language-change-button = Applicar e reinitiar
+browser-language-preferred-label =
+    .label = Lingua preferite
 browser-language-install-error =
     .message = { -brand-short-name } non pote actualisar tu linguas justo ora. Verifica tu connexion a internet o retenta.
 translate-web-pages =
@@ -679,6 +688,8 @@ update-application-version = Version { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Monstrar le chronologia de actualisationes
     .accesskey = M
+update-application-installation =
+    .label = Installation
 update-history =
     .label = Monstrar le chronologia de actualisationes…
     .accesskey = M
@@ -719,6 +730,11 @@ update-in-progress-ok-button = &Discartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Notificationes
 
 ## Firefox support
 
@@ -999,6 +1015,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Temporisator
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sports
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Supporta { -brand-product-name }

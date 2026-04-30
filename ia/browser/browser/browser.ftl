@@ -421,6 +421,8 @@ quickactions-cmd-inspector = analyse pagina, utensiles de disveloppatores
 # Opens about:logins
 quickactions-logins2 = Gerer contrasignos
 quickactions-cmd-logins = contos, contrasignos
+# Mutes all tabs playing audio
+quickactions-mute = Impedir a schedas de reproducer audio
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerer le plugins
 quickactions-cmd-plugins = plugins
