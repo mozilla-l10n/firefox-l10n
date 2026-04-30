@@ -765,6 +765,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Danh sách việc cần làm
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Danh sách nhiệm vụ
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Danh sách việc cần làm
+    .aria-label = Chỉnh sửa tên danh sách
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Danh sách mới
+    .aria-label = Chỉnh sửa tên danh sách
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Danh sách việc cần làm
 # The placeholder value of the name field for a newly created list
