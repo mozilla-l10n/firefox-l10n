@@ -737,10 +737,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Fullført ({ $number })
 newtab-widget-task-list-menu-copy = Kopier
 newtab-widget-lists-menu-edit = Rediger listenavn
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Rediger listenavn
 newtab-widget-lists-menu-create = Opprett en ny liste
 newtab-widget-lists-menu-delete = Slett denne listen
 newtab-widget-lists-menu-copy = Kopier liste til utklippstavlen
 newtab-widget-lists-menu-learn-more = Les mer
+newtab-widget-lists-button-add-item = Legg til et element
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Legg til et element
+    .aria-label = Legg til et element
 newtab-widget-lists-input-add-an-item =
     .placeholder = Legg til et element
 newtab-widget-lists-input-error = Legg til tekst for å legge til et element.
@@ -778,8 +784,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-learn-more = Les mer
 newtab-widget-section-feedback = Fortell oss hva du synes
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Nedtelling
 newtab-widget-timer-notification-focus = Fokustiden er over. Bra jobbet. Trenger du en pause?
@@ -819,6 +824,9 @@ newtab-promo-card-cta = Les mer
 newtab-promo-card-dismiss-button =
     .title = Avvis
     .aria-label = Avvis
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
