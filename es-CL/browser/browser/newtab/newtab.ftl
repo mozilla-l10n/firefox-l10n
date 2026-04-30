@@ -763,6 +763,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Lista de verificación
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista de tareas
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Lista de verificación
+    .aria-label = Editar el nombre de la lista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nueva lista
+    .aria-label = Editar el nombre de la lista
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Lista de verificación
 # The placeholder value of the name field for a newly created list
