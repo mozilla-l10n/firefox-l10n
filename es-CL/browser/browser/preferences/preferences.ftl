@@ -2464,6 +2464,9 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Seguridad de la conexión y del software
+preferences-connection-link-section =
+    .label = Seguridad de la conexión y del software
+    .description = Revisa cómo las conexiones permanecen seguras, el software dañino es bloqueado y los sitios web son verificados.
 preferences-connection-link-button =
     .label = Ajustes avanzados
 
