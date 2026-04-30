@@ -365,6 +365,8 @@ newtab-custom-widget-lists-toggle =
     .label = 목록
 newtab-custom-widget-timer-toggle =
     .label = 타이머
+newtab-custom-widget-sports-toggle =
+    .label = 월드컵
 newtab-custom-widget-section-title = 위젯
 newtab-custom-widget-section-toggle =
     .label = 위젯
@@ -736,6 +738,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = 완료 ({ $number }개)
+newtab-widget-lists-celebration-headline = 잘하셨습니다
+newtab-widget-lists-celebration-subhead = 모두 확인됨
 newtab-widget-task-list-menu-copy = 복사
 newtab-widget-lists-menu-edit = 목록 이름 편집
 newtab-widget-lists-menu-edit2 =
@@ -756,6 +760,8 @@ newtab-widget-lists-input-menu-move-up = 위로 이동
 newtab-widget-lists-input-menu-move-down = 아래로 이동
 newtab-widget-lists-input-menu-delete = 삭제
 newtab-widget-lists-input-menu-edit = 편집
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = 항목 편집
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 새 목록 만들기
@@ -841,6 +847,13 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .title = 닫기
     .aria-label = 닫기
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = 팀 팔로우
+newtab-sports-widget-menu-view-upcoming = 예정된 경기 보기
+newtab-sports-widget-menu-view-results = 결과 보기
+newtab-sports-widget-menu-learn-more = 더 알아보기
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

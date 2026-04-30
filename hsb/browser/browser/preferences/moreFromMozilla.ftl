@@ -61,3 +61,25 @@ more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } wobstarać
 
 more-from-moz-new-products-title = Nowe produkty { -vendor-short-name }
 more-from-moz-new-products-description = Wuslědźće najnowše produkty { -vendor-short-name }.
+more-from-moz-new-products-button = Wobhladajće sej nowe produkty
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-email-link = Sćelće swojemu telefonej wotkaz sćehnjenja přez e-mejl
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Wuslědźće, hdźež waše wosobinske informacije su so online z darmotnym skenom wustajili.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Wobstarajće sej přidatny škit za wšě nałoženja – nic jenož za swój wobhladowak. Dźeržće swoje daty wěste w zjawnym WLAN a njewěstych syćach.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Škitajće swoju e-mejl před spamom z darmotnymi e-mejlowymi maskami.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Wukńće webwuwiće z darmotnymi nawodami a žórłami.
