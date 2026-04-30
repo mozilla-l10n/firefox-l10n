@@ -879,6 +879,9 @@ newtab-sports-widget-semi-finals = Irundy opytáva
 newtab-sports-widget-bronze-finals = Mbohapyhápe osẽva
 newtab-sports-widget-final = Paha
 newtab-sports-widget-delayed = Jokopyre
+newtab-sports-widget-postponed = Mbohasapyre
+newtab-sports-widget-suspended = Jejokopyre
+newtab-sports-widget-cancelled = Hejapyre
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

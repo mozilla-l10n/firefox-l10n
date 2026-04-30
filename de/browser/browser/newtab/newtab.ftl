@@ -761,6 +761,8 @@ newtab-widget-lists-input-menu-move-up = Nach oben
 newtab-widget-lists-input-menu-move-down = Nach unten
 newtab-widget-lists-input-menu-delete = Löschen
 newtab-widget-lists-input-menu-edit = Bearbeiten
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Eintrag bearbeiten
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Eine neue Liste erstellen
@@ -857,6 +859,7 @@ newtab-sports-widget-menu-follow-teams = Teams folgen
 newtab-sports-widget-menu-view-results = Ergebnisse anzeigen
 newtab-sports-widget-menu-learn-more = Weitere Informationen
 newtab-sports-widget-countdown-title = Countdown bis zur Weltmeisterschaft
+newtab-sports-widget-get-updates = Erhalten Sie Live-Updates zu Spielen und mehr.
 newtab-sports-widget-follow-teams =
     .label = Teams folgen
 newtab-sports-widget-choose-wallpaper =
@@ -873,7 +876,21 @@ newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
     .title = Spielstände aktualisieren
     .aria-label = Spielstände aktualisieren
+newtab-sports-widget-upcoming = In Kürze
 newtab-sports-widget-results = Ergebnisse
+newtab-sports-widget-semi-finals = Halbfinale
+newtab-sports-widget-bronze-finals = Spiel um Platz 3
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Verzögert
+newtab-sports-widget-postponed = Verschoben
+newtab-sports-widget-suspended = Gesperrt
+newtab-sports-widget-cancelled = Abgebrochen
+newtab-sports-widget-information = Informationen über das Spiel
+newtab-sports-widget-no-live-data = Live-Daten zum Spiel werden derzeit nicht aktualisiert
+newtab-sports-widget-view-results-link = Ergebnisse anzeigen
+newtab-sports-widget-third-place = Dritter Platz
+newtab-sports-widget-champions = Meister
+newtab-sports-widget-world-cup-champions = Weltmeister 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
