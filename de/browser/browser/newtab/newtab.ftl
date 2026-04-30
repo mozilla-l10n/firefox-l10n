@@ -367,6 +367,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listen
 newtab-custom-widget-timer-toggle =
     .label = Timer
+newtab-custom-widget-sports-toggle =
+    .label = Weltmeisterschaft
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -738,6 +740,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Abgeschlossen ({ $number })
+newtab-widget-lists-celebration-headline = Gute Arbeit
 newtab-widget-task-list-menu-copy = Kopieren
 newtab-widget-lists-menu-edit = Listenname bearbeiten
 newtab-widget-lists-menu-edit2 =
@@ -847,6 +850,30 @@ newtab-promo-card-cta = Weitere Informationen
 newtab-promo-card-dismiss-button =
     .title = Verwerfen
     .aria-label = Verwerfen
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Teams folgen
+newtab-sports-widget-menu-view-results = Ergebnisse anzeigen
+newtab-sports-widget-menu-learn-more = Weitere Informationen
+newtab-sports-widget-countdown-title = Countdown bis zur Weltmeisterschaft
+newtab-sports-widget-follow-teams =
+    .label = Teams folgen
+newtab-sports-widget-choose-wallpaper =
+    .label = Wählen Sie ein Hintergrundbild
+newtab-sports-widget-skip = Überspringen
+newtab-sports-widget-search-teams =
+    .placeholder = Teams suchen
+    .aria-label = Teams suchen
+newtab-sports-widget-done-button =
+    .label = Fertig
+newtab-sports-widget-group-stage = Gruppenphase
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Spielstände aktualisieren
+    .aria-label = Spielstände aktualisieren
+newtab-sports-widget-results = Ergebnisse
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
