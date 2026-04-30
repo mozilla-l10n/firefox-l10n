@@ -421,6 +421,12 @@ quickactions-cmd-inspector = 檢測器, 開發工具, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = 管理密碼
 quickactions-cmd-logins = 登入資訊, 密碼, 帳號, logins, passwords
+# Mutes all tabs playing audio
+quickactions-mute = 將正在播放音訊的分頁靜音
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = 靜音,噓
 # Opens about:addons page in the plugins section
 quickactions-plugins = 管理外掛程式
 quickactions-cmd-plugins = 外掛程式, plugins
@@ -1673,3 +1679,5 @@ trustpanel-blocker-section-header2 = 已封鎖此網站上的 <span data-l10n-na
 reduced-protection-infobar-message = <strong>網站看來怪怪的？</strong>請重新載入頁面以暫時降低追蹤保護等級。
 reduced-protection-infobar-reload-button = 重新載入
     .accesskey = R
+reduced-protection-infobar-never-show-button = 不要再顯示
+    .accesskey = D
