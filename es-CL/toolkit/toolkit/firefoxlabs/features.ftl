@@ -82,12 +82,15 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantén tu lis
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Pronóstico del tiempo
+experimental-features-newtab-widget-weather-description = Obtén una visión clara del tiempo de hoy con pronósticos por hora. <a data-l10n-name="connect">Compartir comentarios</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Foto del día
+experimental-features-newtab-widget-picture-of-the-day-description = Añade un toque de asombro a tu día. Consigue una foto nueva, aprende algo interesante y cambia el fondo de pantalla en un instante. <a data-l10n-name="connect">Compartir comentarios</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Relojes
+experimental-features-newtab-widget-clocks-description = Agrega hasta cuatro relojes con apodos personalizados para controlar la hora en los lugares que te importan. <a data-l10n-name="connect">Compartir comentarios</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Búsqueda semántica de historial

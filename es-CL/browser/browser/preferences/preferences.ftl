@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Accesibilidad
     .title = { pane-accessibility-title }
+pane-languages-title = Idiomas
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Proceder con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
 pane-experimental-description2 = Cambiar los ajustes de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = ¡Prueba nuestras funcionalidades experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }. Solo recibimos datos sobre tu uso de estas funciones si tienes activada la funcionalidad de <a data-l10n-name="data-collection">datos técnicos y de interacción</a>.
@@ -460,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reinicia { -brand-short-name } para aplicar estos cambios
 confirm-browser-language-change-button = Aplicar y reiniciar
+browser-language-heading =
+    .label = Idioma del navegador
+    .description = Elige el idioma usado para mostrar menús, mensajes y notificaciones de { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Idioma preferido
+browser-language-fallback-label =
+    .label = Idioma alternativo
+    .description = Usado cuando la localización al idioma preferido está incompleta.
 browser-language-install-error =
     .message = { -brand-short-name } no puede actualizar tus idiomas en este momento. Comprueba que estés conectado a internet o vuelve a intentarlo.
 translate-web-pages =
@@ -679,6 +694,8 @@ update-application-version = Versión { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = Mostrar historial de actualización
     .accesskey = p
+update-application-installation =
+    .label = Instalación
 update-history =
     .label = Mostrar historial de actualización…
     .accesskey = p
@@ -719,6 +736,16 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox updates
+
+update-application-heading =
+    .label = Actualizaciones de { -brand-short-name }
+    .description = Las actualizaciones mejoran la velocidad, estabilidad y seguridad de { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notificaciones
+update-application-updates-managed-by-os =
+    .message = Las actualizaciones las gestiona tu sistema operativo.
 
 ## Firefox support
 
@@ -1012,6 +1039,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Elige un fondo de pantalla
 home-prefs-choose-wallpaper-link2 =
     .label = Elige un fondo de pantalla
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para usar estas funcionalidades, configura las nuevas pestañas o ventanas nuevas con { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1539,6 +1571,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Aprender más
 forms-windows-sso-desc = Gestiona las cuentas en la configuración de tu dispositivo
 windows-passkey-settings-label = Administrar llaves de acceso en la configuración del sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Ajustes del panel de privacidad
+    .description = Recibe ayuda para proteger tu info en línea en { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostrar mensajes de filtraciones
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2155,6 +2198,10 @@ collection-backlogged-crash-reports2 =
     .label = Enviar automáticamente reportes de fallos
     .accesskey = c
 collection-backlogged-crash-reports-description = Esto ayuda a { -vendor-short-name } a diagnosticar y solucionar problemas con el navegador. Los informes pueden incluir datos personales o confidenciales.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = ¡La misma configuración, nueva apariencia!
+    .message = Hemos reorganizado esta página para que sea más fácil de escanear y explorar. Tus ajustes personales no han cambiado, y todo sigue allí. Consejo: usa la búsqueda para ir directo a lo que necesitas.
 settings-redesign-promo-dismiss-button =
     .label = Entendido
 addon-recommendations =
