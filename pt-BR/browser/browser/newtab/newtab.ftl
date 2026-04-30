@@ -501,6 +501,9 @@ newtab-weather-menu-change-location = Mudar local
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Pesquisar local
     .aria-label = Pesquisar local
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Usar localização atual
 newtab-weather-menu-weather-display = Exibição do tempo
 newtab-weather-todays-forecast = Previsão de hoje
 newtab-weather-see-full-forecast = Ver previsão completa
@@ -589,8 +592,16 @@ newtab-topic-selection-button-pick-interests = Escolha seus interesses
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Seguir
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Seguir { $topic }
 newtab-section-following-button = Seguindo
 newtab-section-unfollow-button = Parar de seguir
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Seguindo: Deixar de seguir { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Personalize seu canal de notícias
 newtab-section-follow-highlight-subtitle = Siga o que você se interessa para aparecer mais do que você gosta.
@@ -602,6 +613,18 @@ newtab-section-follow-highlight-subtitle = Siga o que você se interessa para ap
 newtab-section-block-button = Bloquear
 newtab-section-blocked-button = Bloqueado
 newtab-section-unblock-button = Desbloquear
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Seguir { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Deixar de seguir { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Bloquear { $topic }
 
 ## Confirmation modal for blocking a section
 
