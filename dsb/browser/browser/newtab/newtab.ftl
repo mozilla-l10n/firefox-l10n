@@ -744,10 +744,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Dokóńcony ({ $number })
 newtab-widget-task-list-menu-copy = Kopěrowaś
 newtab-widget-lists-menu-edit = Mě lisćiny wobźěłaś
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Mě lisćiny wobźěłaś
 newtab-widget-lists-menu-create = Nowu lisćinu napóraś
 newtab-widget-lists-menu-delete = Toś tu lisćinu lašowaś
 newtab-widget-lists-menu-copy = Lisćinu do mjazywótkłada kopěrowaś
 newtab-widget-lists-menu-learn-more = Dalšne informacije
+newtab-widget-lists-button-add-item = Zapisk pśidaś
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Zapisk pśidaś
+    .aria-label = Zapisk pśidaś
 newtab-widget-lists-input-add-an-item =
     .placeholder = Zapisk pśidaś
 newtab-widget-lists-input-error = Pšosym zapśimujśo tekst, aby zapisk pśidał.
@@ -794,8 +800,7 @@ newtab-widget-section-menu-learn-more = Dalšne informacije
 newtab-widget-section-feedback = Grońśo nam swójo měnjenje
 newtab-widget-lists-name-default = Kontrolna lisćina
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Měritko casa
 newtab-widget-timer-notification-focus = Fokusowy cas jo mimo. Wjelicne źěło. Trjebaśo pśestank?
@@ -835,6 +840,9 @@ newtab-promo-card-cta = Dalšne informacije
 newtab-promo-card-dismiss-button =
     .title = Zachyśiś
     .aria-label = Zachyśiś
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
