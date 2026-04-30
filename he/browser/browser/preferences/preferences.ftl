@@ -1033,6 +1033,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = בחירת תמונת רקע
 home-prefs-choose-wallpaper-link2 =
     .label = בחירת תמונת רקע
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = כדי להשתמש באפשרויות אלה, יש להגדיר את הלשונית החדשה או חלונות חדשים כ{ -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1560,6 +1565,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = מידע נוסף
 forms-windows-sso-desc = ניהול חשבונות בהגדרות במכשיר
 windows-passkey-settings-label = ניהול passkeys בהגדרות המערכת
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = הגדרות חלונית הפרטיות
+    .description = קבלת סיוע בהגנה על המידע שלך ברשת ב־{ -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = הצגת הודעות על דליפות נתונים
+    .accesskey = ה
 
 ## OS Authentication dialog
 
