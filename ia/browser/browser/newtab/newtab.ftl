@@ -737,6 +737,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Completate ({ $number })
 newtab-widget-lists-celebration-headline = Optime labor
+newtab-widget-lists-celebration-subhead = Toto ben
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Modificar le nomine del lista
 newtab-widget-lists-menu-edit2 =
@@ -848,6 +849,7 @@ newtab-promo-card-dismiss-button =
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Sequer equipas
+newtab-sports-widget-menu-view-upcoming = Vider incontros imminente
 newtab-sports-widget-menu-view-results = Visualisar resultatos
 newtab-sports-widget-menu-learn-more = Pro saper plus
 newtab-sports-widget-countdown-title = Computo a retro al Cuppa del mundo

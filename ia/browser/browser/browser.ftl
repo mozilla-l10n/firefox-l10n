@@ -423,6 +423,10 @@ quickactions-logins2 = Gerer contrasignos
 quickactions-cmd-logins = contos, contrasignos
 # Mutes all tabs playing audio
 quickactions-mute = Impedir a schedas de reproducer audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silentiar, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerer le plugins
 quickactions-cmd-plugins = plugins
