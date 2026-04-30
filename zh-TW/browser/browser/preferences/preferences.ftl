@@ -455,6 +455,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = 重新啟動 { -brand-short-name } 來套用變更
 confirm-browser-language-change-button = 套用並重新啟動
+browser-language-heading =
+    .label = 瀏覽器語言
+    .description = 請選擇 { -brand-short-name } 要用來顯示選單、訊息、通知的語言。
+browser-language-preferred-label =
+    .label = 偏好語言
+browser-language-fallback-label =
+    .label = 備用語言
+    .description = 當偏好使用的語言在地化不完整時，所使用的備用語言
 browser-language-install-error =
     .message = { -brand-short-name } 目前無法更新您的語言套件。請確認您是否已連線至網際網路，或可再試一次。
 translate-web-pages =
@@ -719,8 +727,13 @@ update-in-progress-cancel-button = 繼續 (&C)
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name } 更新
+    .description = 軟體更新可改善 { -brand-short-name } 的速度、穩定性、安全性。
 update-application-suppress-prompts-heading =
     .label = 通知
+update-application-updates-managed-by-os =
+    .message = 軟體更新由您的作業系統管理
 
 ## Firefox support
 
@@ -1014,6 +1027,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = 挑選一張背景圖
 home-prefs-choose-wallpaper-link2 =
     .label = 挑選一張背景圖
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = 若要使用這些功能，請將新分頁或新視窗設定為 { -firefox-home-brand-name }。
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1541,6 +1559,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 了解更多
 forms-windows-sso-desc = 可到您的裝置設定畫面管理帳號
 windows-passkey-settings-label = 到系統設定中管理密碼金鑰
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = 隱私權面板設定
+    .description = 使用 { -brand-short-name } 時，獲得保護您線上個人資訊的協助。
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = 顯示偵測到資料外洩的訊息
+    .accesskey = s
 
 ## OS Authentication dialog
 

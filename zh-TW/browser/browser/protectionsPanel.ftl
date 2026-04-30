@@ -84,6 +84,11 @@ smartblock-placeholder-title = 已封鎖 { $trackername } 的追蹤器與內容
 smartblock-placeholder-desc = 您的 { -brand-short-name } 設定封鎖此內容，不讓其在網站間追蹤您，或用來對您投放廣告。
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = 對 { $websitehost } 允許
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = 來自被封鎖的嵌入式內容
 
 ##
 
