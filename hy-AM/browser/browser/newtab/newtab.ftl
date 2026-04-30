@@ -659,6 +659,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Առաջադրանքների ցանկ
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Նոր ցանկ
+    .aria-label = Խմբագրել ցանկի անունը
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Նոր ցանկ
 newtab-widget-section-title = Վիջեթներ
