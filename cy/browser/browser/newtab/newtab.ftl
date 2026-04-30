@@ -730,10 +730,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Wedi cwblhau ( { $number })
 newtab-widget-task-list-menu-copy = Copïo
 newtab-widget-lists-menu-edit = Golygu enw'r rhestr
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Golygu enw'r rhestr
 newtab-widget-lists-menu-create = Creu rhestr newydd
 newtab-widget-lists-menu-delete = Dileu'r rhestr hon
 newtab-widget-lists-menu-copy = Copïo'r rhestr i'r clipfwrdd
 newtab-widget-lists-menu-learn-more = Dysgu rhagor
+newtab-widget-lists-button-add-item = Ychwanegu eitem
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Ychwanegu eitem
+    .aria-label = Ychwanegu eitem
 newtab-widget-lists-input-add-an-item =
     .placeholder = Ychwanegu eitem
 newtab-widget-lists-input-error = Cynhwyswch destun i ychwanegu eitem.
@@ -780,8 +786,7 @@ newtab-widget-section-menu-learn-more = Dysgu rhagor
 newtab-widget-section-feedback = Dywedwch wrthym beth yw eich barn
 newtab-widget-lists-name-default = Rhestr wirio
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Amserydd
 newtab-widget-timer-notification-focus = Mae'r amser canolbwyntio ar ben. Gwaith da. Angen seibiant?
@@ -821,6 +826,9 @@ newtab-promo-card-cta = Dysgu rhagor
 newtab-promo-card-dismiss-button =
     .title = Cau
     .aria-label = Cau
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
