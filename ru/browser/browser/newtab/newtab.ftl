@@ -738,10 +738,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Завершено ({ $number })
 newtab-widget-task-list-menu-copy = Копировать
 newtab-widget-lists-menu-edit = Изменить имя списка
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Изменить имя списка
 newtab-widget-lists-menu-create = Создать новый список
 newtab-widget-lists-menu-delete = Удалить этот список
 newtab-widget-lists-menu-copy = Копировать список в буфер обмена
 newtab-widget-lists-menu-learn-more = Подробнее
+newtab-widget-lists-button-add-item = Добавить элемент
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Добавить элемент
+    .aria-label = Добавить элемент
 newtab-widget-lists-input-add-an-item =
     .placeholder = Добавить элемент
 newtab-widget-lists-input-error = Пожалуйста, укажите текст, чтобы добавить элемент.
@@ -788,8 +794,7 @@ newtab-widget-section-menu-learn-more = Подробнее
 newtab-widget-section-feedback = Скажите нам, что вы думаете
 newtab-widget-lists-name-default = Контрольный список
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Таймер
 newtab-widget-timer-notification-focus = Время фокусировки вышло. Отличная работа. Нужен перерыв?
@@ -829,6 +834,9 @@ newtab-promo-card-cta = Подробнее
 newtab-promo-card-dismiss-button =
     .title = Убрать
     .aria-label = Убрать
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
