@@ -57,3 +57,15 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-description = Бесплатная электронная почта, календарь и контакты — организованные по вашему вкусу.
 more-from-moz-thunderbird-button = Загрузить { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Новые продукты { -vendor-short-name }
+more-from-moz-new-products-description = Откройте для себя новые продукты от { -vendor-short-name }.
+more-from-moz-new-products-button = Посмотреть новые продукты
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Отсканируйте с помощью камеры телефона или планшета, чтобы скачать приложение. Нажмите на ссылку, когда она появится.

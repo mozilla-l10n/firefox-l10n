@@ -54,6 +54,10 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-button = Obtene { -thunderbird-brand-short-name }
 
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Nove productos de { -vendor-short-name }
+
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
