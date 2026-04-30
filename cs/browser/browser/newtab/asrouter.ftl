@@ -637,3 +637,11 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Nastavit jako výchozí
 set-default-menu-message-primary-button-variant = Nastavit jako hlavní prohlížeč
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 e-mailových masek, od nás
+relay-50-masks-announcement-subtitle = Nyní získáte 50 masek zdarma (namísto původních 5). Použijte jednu pro každý účet, abyste uchovali svou skutečnou e-mailovou adresu v tajnosti.
+relay-50-masks-announcement-secondary-button = Zavřít
+    .accesskey = Z

@@ -127,6 +127,9 @@ upgrade-vpn-title = Získejte dodatečnou ochranu nad rámec prohlížeče
 upgrade-vpn-description = Vyberte umístění VPN, používejte VPN pro všechny své aplikace, až pro 5 zařízení a zůstaňte v bezpečí v jakékoliv síti — doma i na veřejných Wi-Fi sítích.
 upgrade-vpn-button = Vyzkoušejte { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = VPN je pozastavena
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Využili jste všech { $maxUsage } GB vašich dat VPN. Přístup bude příští měsíc obnoven.
 
 ## Messages and errors
 
@@ -188,6 +191,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb =
 ip-protection-description =
     .label = VPN
     .description = Vestavěná VPN pro zvýšení vašeho soukromí při procházení webu aplikací { -brand-short-name }.
+ip-protection-description-1 =
+    .label = Vestavěná VPN
+    .description = Zajistěte si větší soukromí tím, že při procházení webu skryjete svou polohu.
 ip-protection-learn-more = Zjistit více
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
@@ -275,6 +281,8 @@ vpn-paused-alert-body = Využili jste všech { $maxUsage } GB vašich dat VPN. P
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Využili jste všech { $maxUsage } GB vašich dat VPN. Přístup bude příští měsíc obnoven.
 vpn-error-page-continue-description = Vyberte, jak chcete pokračovat bez VPN
+vpn-error-page-keep-browsing = Pokračovat v procházení v této relaci
+vpn-error-page-new-session = Zahájit novou relaci
 vpn-paused-alert-close-tabs-button = Zavřít všechny panely
 vpn-paused-alert-continue-wo-vpn-button = Pokračovat bez VPN
 vpn-error-alert-title = VPN právě nefunguje.

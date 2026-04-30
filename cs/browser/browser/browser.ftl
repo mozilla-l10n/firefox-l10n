@@ -451,6 +451,10 @@ quickactions-logins2 = Správa hesel
 quickactions-cmd-logins = přihlašovací údaje, hesla
 # Mutes all tabs playing audio
 quickactions-mute = Ztlumit přehrávání zvuku panelů
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = ztlumit, ticho, pšššt
 # Opens about:addons page in the plugins section
 quickactions-plugins = Správa zásuvných modulů
 quickactions-cmd-plugins = zásuvné moduly
@@ -610,9 +614,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Spojení s tímto serverem není zabezpečené.
 identity-connection-verified = Spojení s tímto serverem je zabezpečené.
 identity-ev-owner-label = Certifikát vydán pro:
+identity-verifier-label = Ověřil:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Klasifikovaný podle nařízení (EÚ) 2024/1183.
 identity-description-custom-root2 = Mozilla tohoto vydavatele certifikátů nezná. Mohl být přidán operačním systémem nebo správcem vašeho počítače.
+identity-cert-exception-overridden = Tomuto serveru jste udělili bezpečnostní výjimku
 identity-remove-cert-exception =
     .label = Odstranit výjimku
     .accesskey = O
@@ -1949,6 +1955,7 @@ trustpanel-cryptominer-tab-list-header = Tyto weby se pokouší o těžbu krypto
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Máte účet na této stránce?
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Zavřít
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Spustit bezplatné skenování
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] Na této stránce je zablokovaný <span data-l10n-name="count">{ $count }</span> sledovací prvek
@@ -1963,3 +1970,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Vypadá stránka nefunkčně?</strong> Obnovte stránku, abyste dočasně snížili úroveň ochrany proti sledování.
 reduced-protection-infobar-reload-button = Obnovit
     .accesskey = O
+reduced-protection-infobar-never-show-button = Příště už nezobrazovat
+    .accesskey = n

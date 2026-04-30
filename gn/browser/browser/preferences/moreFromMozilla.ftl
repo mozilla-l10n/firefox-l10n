@@ -68,3 +68,10 @@ more-from-moz-new-products-button = Ehecha apopyre pyahu
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
 more-from-moz-firefox-mobile-email-link = Emondo juajuha mboguejyrã ñanduti veve rupi ne pumbyrýpe
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Eikuaa moõpa ojekuaa ne maranduete ñandutípe ñemoha’ãnga reigua rupi.

@@ -375,6 +375,8 @@ newtab-custom-widget-lists-toggle =
     .label = Seznamy
 newtab-custom-widget-timer-toggle =
     .label = Časovač
+newtab-custom-widget-sports-toggle =
+    .label = Světový šampionát
 newtab-custom-widget-section-title = Widgety
 newtab-custom-widget-section-toggle =
     .label = Widgety
@@ -513,6 +515,9 @@ newtab-weather-menu-change-location = Změnit místo
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Hledat umístění
     .aria-label = Hledat umístění
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Použít aktuální polohu
 newtab-weather-menu-weather-display = Zobrazení počasí
 newtab-weather-todays-forecast = Dnešní předpověď
 newtab-weather-see-full-forecast = Zobrazit úplnou předpověď
@@ -538,8 +543,10 @@ newtab-weather-opt-in-not-now =
     .label = Teď ne
 newtab-weather-opt-in-yes =
     .label = Ano
+newtab-weather-opt-in-headline = Získejte místní předpověď počasí
 newtab-weather-opt-in-use-location =
     .label = Použít polohu
+newtab-weather-opt-in-choose-location = Vyberte umístění
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York
 # "Highest" here refers to the highest temperature of the day
@@ -599,8 +606,16 @@ newtab-topic-selection-button-pick-interests = Vyberte, co vás zajímá
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Sledovat
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Sledovat téma { $topic }
 newtab-section-following-button = Sledované
 newtab-section-unfollow-button = Přestat sledovat
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Sledování: přestat sledovat téma { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Dolaďte si svůj kanál
 newtab-section-follow-highlight-subtitle = Sledujte své zájmy a uvidíte víc toho, co se vám líbí.
@@ -612,6 +627,22 @@ newtab-section-follow-highlight-subtitle = Sledujte své zájmy a uvidíte víc 
 newtab-section-block-button = Blokovat
 newtab-section-blocked-button = Blokováno
 newtab-section-unblock-button = Odblokovat
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Sledovat téma { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Přestat sledovat téma { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blokovat téma { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Odblokovat téma { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -650,6 +681,12 @@ newtab-new-user-custom-wallpaper-title =
     }
 newtab-new-user-custom-wallpaper-subtitle = Zajistěte, aby se každý nový panel cítil jako doma pomocí vlastních tapet a barev.
 newtab-new-user-custom-wallpaper-cta = Vyzkoušejte nyní
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Právě přišly nové čerstvé tapety
+newtab-wallpaper-feature-highlight-subtitle = Vyberte si svůj oblíbený a v každém novém panelu se budete cítit jako doma.
+newtab-wallpaper-feature-highlight-cta = Zvolte si tapetu
 
 ## Strings for download mobile highlight
 
@@ -731,6 +768,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Splněno ({ $number })
+newtab-widget-lists-celebration-headline = Dobrá práce
 newtab-widget-task-list-menu-copy = Kopírovat
 newtab-widget-lists-menu-edit = Upravit název seznamu
 newtab-widget-lists-menu-edit2 =
