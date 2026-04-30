@@ -97,6 +97,7 @@ ipprotection-button-connecting = Slår på …
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Sted: Anbefalt
+ipprotection-recommended-location-description = { -brand-product-name } finner den raskeste plasseringen
 ipprotection-recommended-location-badge = NY
 ipprotection-locations-subview =
     .title = Velg plassering

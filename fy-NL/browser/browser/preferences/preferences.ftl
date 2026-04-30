@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Tagonklikheid
     .title = { pane-accessibility-title }
+pane-languages-title = Talen
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name }-eksperiminten
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperiminten
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Gean foarsichtich troch
 pane-experimental-search-results-header = { -brand-short-name }-eksperiminten: foarsichtichheid advisearre
 pane-experimental-description2 = It wizigjen fan avansearre konfiguraasjeynstellingen kin de prestaasjes of feilichheid fan { -brand-short-name } beynfloedzje.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Probearje ús eksperimintele funksjes! Se binne yn ûntwikkeling en evoluearje, wat ynfloed hawwe kin op hoe’t { -brand-short-name } wurket. Wy ûntfange allinnich gegevens oer jo gebrûk fan dizze funksjes as jo <a data-l10n-name="data-collection">technyske en ynteraksjegegevens</a> ynskeakele hawwe.
@@ -460,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = A
 confirm-browser-language-change-description = Start { -brand-short-name } opnij om dizze wizigingen ta te passen.
 confirm-browser-language-change-button = Tapasse en opnij starte
+browser-language-heading =
+    .label = Browsertaal
+    .description = Kies de taal dy’t brûkt wurdt om menu’s, berjochten en notifikaasjes fan { -brand-short-name } te toanen.
+browser-language-preferred-label =
+    .label = Foarkartaal
+browser-language-fallback-label =
+    .label = Reservetaal
+    .description = Brûkt wannear’t de oersetting nei de foarkartaal net folslein is.
 browser-language-install-error =
     .message = { -brand-short-name } kin jo talen op dit stuit net bywurkje. Kontrolearje oft jo mei it ynternet ferbûn binne of probearje it opnij.
 translate-web-pages =
@@ -679,6 +694,8 @@ update-application-version = Ferzje { $version } <a data-l10n-name="learn-more">
 update-history-2 =
     .label = Fernijingsskiednis toane
     .accesskey = s
+update-application-installation =
+    .label = Ynstallaasje
 update-history =
     .label = Fernijingsskiednis toane…
     .accesskey = s
@@ -719,6 +736,14 @@ update-in-progress-ok-button = &Ferwerpe
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Trochgean
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name }-fernijingen
+    .description = Fernijingen ferbetterje de snelheid, stabiliteit en befeiliging fan { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notifikaasjes
 
 ## Firefox support
 

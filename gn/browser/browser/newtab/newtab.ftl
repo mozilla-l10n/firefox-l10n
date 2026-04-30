@@ -876,6 +876,9 @@ newtab-custom-widget-live-refresh =
 newtab-sports-widget-upcoming = Oupotáva
 newtab-sports-widget-results = Apopyre
 newtab-sports-widget-semi-finals = Irundy opytáva
+newtab-sports-widget-bronze-finals = Mbohapyhápe osẽva
+newtab-sports-widget-final = Paha
+newtab-sports-widget-delayed = Jokopyre
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
