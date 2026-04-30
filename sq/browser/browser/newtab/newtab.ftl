@@ -614,6 +614,9 @@ newtab-new-user-custom-wallpaper-title = Zgjidhni një sfond, për ta bërë { -
 newtab-new-user-custom-wallpaper-subtitle = Bëjeni çdo skedë të re t’ju duket si shtëpia juaj, me sfonde dhe ngjyra tuajat.
 newtab-new-user-custom-wallpaper-cta = Provojeni tani
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Shkarkoni { -brand-product-name } për celular
@@ -672,10 +675,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Të plotësuara ({ $number })
 newtab-widget-task-list-menu-copy = Kopjoje
 newtab-widget-lists-menu-edit = Përpunoni emër liste
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Përpunoni emër liste
 newtab-widget-lists-menu-create = Krijoni një listë të re
 newtab-widget-lists-menu-delete = Fshije këtë listë
 newtab-widget-lists-menu-copy = Kopjoje listën në të papastër
 newtab-widget-lists-menu-learn-more = Mësoni më tepër
+newtab-widget-lists-button-add-item = Shtoni një objekt
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Shtoni një objekt
+    .aria-label = Shtoni një objekt
 newtab-widget-lists-input-add-an-item =
     .placeholder = Shtoni një objekt
 newtab-widget-lists-input-error = Ju lutemi, që të shtohet një objekt, përfshini tekst.
@@ -691,6 +700,10 @@ newtab-widget-lists-name-label-default =
     .label = Listë punësh
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Listë punësh
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Listë e re
+    .aria-label = Përpunoni emër liste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Listë e re
@@ -708,8 +721,7 @@ newtab-widget-section-minimize =
     .aria-label = Tkurri krejt widget-et sa madhësia kompakte
 newtab-widget-section-feedback = Tregonani si ju duket
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Kohëmatës
 newtab-widget-timer-notification-focus = Koha për i përqendruar mbaroi. Punë e paqme. Ju duhet një pushim?
@@ -743,6 +755,9 @@ newtab-promo-card-cta = Mësoni më tepër
 newtab-promo-card-dismiss-button =
     .title = Hidhe tej
     .aria-label = Hidheni tej
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
