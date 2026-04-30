@@ -738,10 +738,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Completa ({ $number })
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Editar nombre de lista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Editar nombre de lista
 newtab-widget-lists-menu-create = Crear nueva lista
 newtab-widget-lists-menu-delete = Borrar esta lista
 newtab-widget-lists-menu-copy = Copiar lista al portapapeles
 newtab-widget-lists-menu-learn-more = Conocer más
+newtab-widget-lists-button-add-item = Agregar un ítem
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Agregar un ítem
+    .aria-label = Agregar un ítem
 newtab-widget-lists-input-add-an-item =
     .placeholder = Agregar un ítem
 newtab-widget-lists-input-error = Incluir texto para agregar un ítem.
@@ -783,8 +789,7 @@ newtab-widget-section-menu-hide-all = Ocultar widgets
 newtab-widget-section-menu-learn-more = Conocer más
 newtab-widget-section-feedback = Díganos que piensa
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = Se terminó el tiempo de enfocarse. Buen trabajo. ¿Necesita un descanso?
@@ -828,6 +833,9 @@ newtab-promo-card-cta = Conocer más
 newtab-promo-card-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
