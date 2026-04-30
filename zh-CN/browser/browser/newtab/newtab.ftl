@@ -714,10 +714,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = 已完成（{ $number }）
 newtab-widget-task-list-menu-copy = 复制
 newtab-widget-lists-menu-edit = 编辑清单名称
+newtab-widget-lists-menu-edit2 =
+    .aria-label = 编辑清单名称
 newtab-widget-lists-menu-create = 创建新清单
 newtab-widget-lists-menu-delete = 删除此清单
 newtab-widget-lists-menu-copy = 复制清单到剪贴板
 newtab-widget-lists-menu-learn-more = 详细了解
+newtab-widget-lists-button-add-item = 添加项目
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = 添加项目
+    .aria-label = 添加项目
 newtab-widget-lists-input-add-an-item =
     .placeholder = 添加项目
 newtab-widget-lists-input-error = 请输入项目名称
@@ -764,8 +770,7 @@ newtab-widget-section-menu-learn-more = 详细了解
 newtab-widget-section-feedback = 告诉我们您的想法
 newtab-widget-lists-name-default = 核对清单
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = 计时器
 newtab-widget-timer-notification-focus = 专注时间结束，真棒！要休息一下吗？
@@ -805,6 +810,9 @@ newtab-promo-card-cta = 详细了解
 newtab-promo-card-dismiss-button =
     .title = 知道了
     .aria-label = 知道了
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
