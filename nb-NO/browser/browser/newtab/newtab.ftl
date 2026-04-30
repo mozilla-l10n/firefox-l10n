@@ -668,6 +668,8 @@ newtab-new-user-custom-wallpaper-cta = Prøv det nå
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Nye bakgrunnsbilder er nå tilgjengelige
+newtab-wallpaper-feature-highlight-subtitle = Velg favoritten din og få hver ny fane til å føles som hjemme
+newtab-wallpaper-feature-highlight-cta = Velg bakgrunnsbilde
 
 ## Strings for download mobile highlight
 
@@ -737,6 +739,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Fullført ({ $number })
+newtab-widget-lists-celebration-headline = Bra jobbet
 newtab-widget-task-list-menu-copy = Kopier
 newtab-widget-lists-menu-edit = Rediger listenavn
 newtab-widget-lists-menu-edit2 =
