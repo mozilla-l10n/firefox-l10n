@@ -14,6 +14,9 @@ more-from-moz-subtitle = Discoperi altere productos de { -vendor-short-name } qu
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobile
 more-from-moz-firefox-mobile-description = Le navigator mobile que antepone tu vita private.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pro apparato mobile
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } pro apparatos mobile
+    .description = Le navigator mobile que pone tu confidentialitate prime.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Discoperi un strato additional de navigation anonyme e protection.
 more-from-moz-qr-code-box-firefox-mobile-title = Discarga con tu apparato mobile. Puncta tu camera al codice QR. Quando un ligamine appare, tocca lo.
@@ -52,22 +55,57 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = E-mails, agendas, e contactos gratuite, organisate a tu maniera.
 more-from-moz-thunderbird-button = Obtene { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
 more-from-moz-new-products-title = Nove productos de { -vendor-short-name }
+more-from-moz-new-products-description = Discoperi le ultime productos de { -vendor-short-name }.
+more-from-moz-new-products-button = Vider nove productos
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Scande con le camera de tu telephono o tabletta pro obtener le application.
+more-from-moz-firefox-mobile-email-link = Invia per e-mail le ligamine de discargamento a tu telephono
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Discoperi ubi tu informationes personal ha essite exponite online con un scansion gratuite.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Obtene protection ulterior pro tote le apps, non solo pro tu navigator.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Protege tu cassa de entrata contra le spam con mascas de e-mail gratuite.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Apprende le disveloppamento del web con guidas e referentias gratuite.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Accede tu e-mail, agendas, e contactos in un sol app veloce.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Explora nostre ultime ideas e technologias experimental.
+more-from-moz-new-products-card =
+    .label = Nove productos de { -vendor-short-name }
+    .description = Discoperi le ultime productos de { -vendor-short-name }.
 more-from-moz-mozilla-monitor-box-link =
     .label = Obtene { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
     .label = Obtene { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = Obtene { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Acceder a MDN
 more-from-moz-thunderbird-box-link =
     .label = Obtene { -thunderbird-brand-short-name }
 more-from-moz-solo-box-link =
     .label = Essaya { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Vider nove productos

@@ -84,6 +84,11 @@ smartblock-placeholder-title = Traciatores e contento blocate pro { $trackername
 smartblock-placeholder-desc = Tu parametros de { -brand-short-name } ha impedite a iste contento de traciar te inter sitos o de esser usate pro avisos publicitari.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Permitter sur { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Contento de integration blocate
 
 ##
 

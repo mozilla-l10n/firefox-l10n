@@ -467,8 +467,14 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Reinitiar { -brand-short-name } pro applicar iste cambiamentos
 confirm-browser-language-change-button = Applicar e reinitiar
+browser-language-heading =
+    .label = Lingua del navigator
+    .description = Elige le lingua usate pro monstrar menus, messages, e avisos de { -brand-short-name }.
 browser-language-preferred-label =
     .label = Lingua preferite
+browser-language-fallback-label =
+    .label = Lingua de reserva
+    .description = Usate quando le localisation del lingua preferite es incomplete.
 browser-language-install-error =
     .message = { -brand-short-name } non pote actualisar tu linguas justo ora. Verifica tu connexion a internet o retenta.
 translate-web-pages =
@@ -733,8 +739,13 @@ update-in-progress-cancel-button = &Continuar
 
 ## Firefox updates
 
+update-application-heading =
+    .label = Actualisationes de { -brand-short-name }
+    .description = Le actualisationes meliora le velocitate, stabilitate, e securitate de { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Notificationes
+update-application-updates-managed-by-os =
+    .message = Le actualisationes es gerite per tu systema operative
 
 ## Firefox support
 
@@ -1031,6 +1042,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Eliger un fundo de schermo
 home-prefs-choose-wallpaper-link2 =
     .label = Eliger un fundo de schermo
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Pro usar iste functionalitates, predefini nove schedas o nove fenestras pro { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1558,6 +1574,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saper plus
 forms-windows-sso-desc = Gerer contos in le parametros de tu apparato
 windows-passkey-settings-label = Gerer claves-contrasigno in le parametros de systema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Configurationes del pannello del confidentialitate
+    .description = Obtene auxilio protegente tu informationes online in { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Monstrar avisos de violation
+    .accesskey = s
 
 ## OS Authentication dialog
 
