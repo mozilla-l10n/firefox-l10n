@@ -447,3 +447,5 @@ set-default-menu-message-primary-button-variant = Vel som primærnettlesar
 
 relay-50-masks-announcement-primary-button = Gå til { -relay-brand-name }
     .accesskey = G
+relay-50-masks-announcement-secondary-button = Ignorer
+    .accesskey = g

@@ -423,6 +423,10 @@ quickactions-logins2 = Handsam passord
 quickactions-cmd-logins = Innloggingar, passord
 # Mutes all tabs playing audio
 quickactions-mute = Demp faner som spelar av lyd
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = demp, stille, tyss, hysj, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Handsam programtillegg
 quickactions-cmd-plugins = programtillegg
@@ -547,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Du er ikkje trygt kopla til denne nettstaden.
 identity-connection-verified = Du er trygt kopla til denne nettstaden.
 identity-ev-owner-label = Sertifikat skrive ut til:
+identity-verifier-label = Stadfesta av:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalifisert som spesifisert i forordning (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla kjenner ikkje att utskrivaren av dette sertifikatet. Det kan ha blitt lagt til av operativsystemet ditt, eller av ein administrator.
+identity-cert-exception-overridden = Du har lagt til eit tryggingsunntak for denne nettstaden.
 identity-remove-cert-exception =
     .label = Fjern unntak
     .accesskey = F
@@ -1740,3 +1746,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Ser nettstaden øydelagt ut?</strong> Last sida på nytt for mellombels å redusere sporingsvernet.
 reduced-protection-infobar-reload-button = Last på nytt
     .accesskey = L
+reduced-protection-infobar-never-show-button = Ikkje vis igjen
+    .accesskey = v

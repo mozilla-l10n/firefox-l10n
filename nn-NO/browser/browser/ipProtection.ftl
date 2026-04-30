@@ -30,10 +30,15 @@ ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med pers
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Det innebygde VPN-et i { -brand-product-name }</a> bidreg til å verne surfinga di. Vel mellom 5 stadar for å halde kvar du surfar meir privat.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra vern ved å skjule plasseringa di, sjølv når du er i eit privat vindauge.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = På offentleg Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom 5 stadar for å skjule kvar du surfar.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra vern ved å skjule plasseringa di, også på offentleg Wi-Fi.
 ipprotection-feature-introduction-button-primary = Neste
 ipprotection-feature-introduction-button-secondary-not-now = Ikkje no
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
+ipprotection-feature-introduction-button-secondary-remove = Fjern VPN frå verktøylinja
 
 ## Site settings callout
 
@@ -43,6 +48,7 @@ ipprotection-site-settings-callout-button = Eg forstår
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Nyheit: Byt plassering
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Ignorer
 
@@ -83,6 +89,9 @@ ipprotection-button-connecting = Slår på…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Plassering: Tilrådd
 ipprotection-recommended-location-badge = NY
 # Variables
 #   $country (string) - The country selected for the VPN server location
@@ -92,6 +101,7 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Vel ei anna plassering å surfe frå.
 ipprotecion-locations-subview-recommended-label = Tilrådd
 ipprotection-locations-subview-recommended-description = Finn den raskaste plasseringa
+ipprotection-locations-subview-promo-button = Få { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -152,6 +162,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du har nesten br
 ip-protection-description =
     .label = VPN
     .description = Innebygd VPN for å forbetre personvernet ditt medan du surfar med { -brand-short-name }.
+ip-protection-description-1 =
+    .label = Innebygd VPN
+    .description = Få ekstra personvern ved å skjule plasseringa di medan du surfar.
 ip-protection-learn-more = Les meir
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
@@ -229,6 +242,7 @@ vpn-paused-alert-title = VPN sett på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. VPN-tilgangen blir nullstilt neste månad.
+vpn-error-page-continue-description = Vel korleis du vil halde fram utan VPN
 vpn-error-page-new-session = Start ei ny programøkt
 vpn-paused-alert-close-tabs-button = Lat att alle faner
 vpn-paused-alert-continue-wo-vpn-button = Hald fram utan VPN

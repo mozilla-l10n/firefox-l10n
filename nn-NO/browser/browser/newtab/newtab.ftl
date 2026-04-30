@@ -366,6 +366,8 @@ newtab-custom-widget-lists-toggle =
     .label = Lister
 newtab-custom-widget-timer-toggle =
     .label = Nedteljing
+newtab-custom-widget-sports-toggle =
+    .label = VM
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
@@ -601,6 +603,10 @@ newtab-section-follow-button-label =
     .aria-label = Følg { $topic }
 newtab-section-following-button = Følgjer
 newtab-section-unfollow-button = Slutt å følgje
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Følgjer: Slutt å følgje { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Finjuster kjelda di
 newtab-section-follow-highlight-subtitle = Følg interessene dine for å sjå meir av det du likar.
@@ -617,9 +623,17 @@ newtab-section-unblock-button = Opphev blokkeringa
 newtab-section-follow-topic =
     .aria-label = Følg { $topic }
 # Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Slutt å følgje { $topic }
+# Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
     .aria-label = Blokker { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Opphev blokkering av { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -653,6 +667,7 @@ newtab-new-user-custom-wallpaper-cta = Prøv det no
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = Nye bakgrunnsbilde er no tilgjengelege
 newtab-wallpaper-feature-highlight-cta = Vel bakgrunnsbilde
 
 ## Strings for download mobile highlight
@@ -743,6 +758,8 @@ newtab-widget-lists-input-menu-move-up = Flytt opp
 newtab-widget-lists-input-menu-move-down = Flytt ned
 newtab-widget-lists-input-menu-delete = Slett
 newtab-widget-lists-input-menu-edit = Rediger
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Rediger element
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Lag ei ny liste
@@ -820,6 +837,16 @@ newtab-promo-card-cta = Les meir
 newtab-promo-card-dismiss-button =
     .title = Avvis
     .aria-label = Avvis
+
+## Sports widget
+
+newtab-sports-widget-menu-view-upcoming = Vis komande
+newtab-sports-widget-menu-view-results = Vis resultat
+newtab-sports-widget-menu-learn-more = Les meir
+newtab-sports-widget-countdown-title = Nedteljing til VM
+newtab-sports-widget-get-updates = Få direkte kampoppdateringar og meir.
+newtab-sports-widget-choose-wallpaper =
+    .label = Vel eit bakgrunnsbilde
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
