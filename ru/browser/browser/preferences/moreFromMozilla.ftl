@@ -69,3 +69,35 @@ more-from-moz-new-products-button = Посмотреть новые продук
 
 more-from-moz-firefox-mobile-qr-promo =
     .message = Отсканируйте с помощью камеры телефона или планшета, чтобы скачать приложение. Нажмите на ссылку, когда она появится.
+more-from-moz-firefox-mobile-email-link = Отправить ссылку для скачивания на мой телефон
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Узнайте, где ваши персональные данные утекли онлайн, с помощью бесплатного сканирования.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Получите дополнительную защиту для всех приложений — не только для браузера. Держите данные в безопасности на публичном Wi-Fi и небезопасных сетях.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Защитите свой ящик от спама с помощью бесплатного маскирования электронной почты.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Изучайте веб-разработку с помощью бесплатных руководств и отсылок.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Получайте доступ к своей почте, календарям и контактам в одном быстром приложении.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Исследуйте наши последние идеи и экспериментальные технологии.
+more-from-moz-new-products-card =
+    .label = Новые продукты { -vendor-short-name }
+    .description = Откройте для себя последние продукты от { -vendor-short-name }.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Скачать { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Скачать { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Скачать { -relay-brand-short-name }
