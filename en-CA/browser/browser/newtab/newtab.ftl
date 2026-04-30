@@ -721,10 +721,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Completed ({ $number })
 newtab-widget-task-list-menu-copy = Copy
 newtab-widget-lists-menu-edit = Edit list name
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Edit list name
 newtab-widget-lists-menu-create = Create a new list
 newtab-widget-lists-menu-delete = Delete this list
 newtab-widget-lists-menu-copy = Copy list to clipboard
 newtab-widget-lists-menu-learn-more = Learn more
+newtab-widget-lists-button-add-item = Add an item
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Add an item
+    .aria-label = Add an item
 newtab-widget-lists-input-add-an-item =
     .placeholder = Add an item
 newtab-widget-lists-input-error = Please include text to add an item.
@@ -742,6 +748,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Checklist
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Task list
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Checklist
+    .aria-label = Edit list name
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = New list
+    .aria-label = Edit list name
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Checklist
 # The placeholder value of the name field for a newly created list
@@ -771,8 +784,7 @@ newtab-widget-section-menu-learn-more = Learn more
 newtab-widget-section-feedback = Tell us what you think
 newtab-widget-lists-name-default = Checklist
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Focus time is up. Nice work. Need a break?
@@ -812,6 +824,9 @@ newtab-promo-card-cta = Learn more
 newtab-promo-card-dismiss-button =
     .title = Dismiss
     .aria-label = Dismiss
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
