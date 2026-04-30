@@ -421,6 +421,8 @@ quickactions-cmd-inspector = інспектар, прылады распрацо
 # Opens about:logins
 quickactions-logins2 = Кіраванне паролямі
 quickactions-cmd-logins = лагіны, паролі
+# Mutes all tabs playing audio
+quickactions-mute = Адключыць гук укладак, якія прайграваюць аўдыё
 # Opens about:addons page in the plugins section
 quickactions-plugins = Кіраваць плагінамі
 quickactions-cmd-plugins = плагіны
@@ -546,6 +548,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Вы не злучаны бяспечна з гэтым сайтам.
 identity-connection-verified = Вы бяспечна злучаны з гэтым сайтам.
 identity-ev-owner-label = Сертыфікат выдадзены:
+identity-verifier-label = Пацверджана:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Кваліфікаваны, як пазначана ў Рэгламенце (ЕС) 2024/1183.
 identity-description-custom-root2 = Mozilla не прызнае гэтага выдаўца сертыфікатаў. Магчыма, ён дададзены з вашай аперацыйнай сістэмы ці адміністратарам.
@@ -1758,6 +1761,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Гэтыя сайты спрабуюць здабываць крыптавалюту:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Маеце ўліковы запіс на гэтым сайце?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Адхіліць
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> трэкер заблакаваны на гэтым сайце
