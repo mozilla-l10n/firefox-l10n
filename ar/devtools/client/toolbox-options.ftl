@@ -82,7 +82,7 @@ options-sourceeditor-keybinding-default-label = المبدئي
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = إعدادات متقدّمة
 # The label for the checkbox that toggles the HTTP cache on or off
-options-disable-http-cache-label = عطّل خبيئة HTTP (عندما يكون صندوق الأدوات مفتوحا)
+options-disable-http-cache-label = عطّل خبيئة HTTP (عندما يكون صندوق الأدوات مفتوحًا)
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = عطّل جافاسكربت *
 options-disable-javascript-tooltip =

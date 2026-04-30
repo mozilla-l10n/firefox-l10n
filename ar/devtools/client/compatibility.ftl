@@ -28,3 +28,11 @@ compatibility-settings-button-title =
 compatibility-no-issues-found = لم توجد أي مشاكل في التوافقية.
 compatibility-close-settings-button =
     .title = إعدادات الإغلاق
+# Text used in the element containing the browser icons for a given compatibility issue.
+# Line breaks are significant.
+# Variables:
+#   $browsers (String) - A line-separated list of browser information (e.g. Firefox 98\nChrome 99).
+compatibility-issue-browsers-list =
+    .title =
+        مشاكل التوافق في:
+        { $browsers }

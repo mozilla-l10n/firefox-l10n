@@ -84,6 +84,11 @@ smartblock-placeholder-title = حُظر متتبعات ومحتوى { $trackerna
 smartblock-placeholder-desc = لقد منع إعدادات { -brand-short-name } هذا المحتوى من تتبعك عبر المواقع أو استخدامه للإعلانات.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = اسمح على { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = محتوى من تضمين محظور
 
 ##
 

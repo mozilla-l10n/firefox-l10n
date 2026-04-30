@@ -67,6 +67,11 @@ manifest-loaded-error = حدث خطأ أثناء تحميل البيان:
 manifest-loaded-devtools-error = خطأ في أدوات Firefox للمطوّرين
 # Text displayed when the page has no manifest available
 manifest-non-existing = لم نجد بيانًا نفحصه.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+# Variables:
+#   $purpose (string) - Manifest purpose
+manifest-icon-purpose = الغرض: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =

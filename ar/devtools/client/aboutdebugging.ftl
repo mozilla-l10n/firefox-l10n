@@ -266,7 +266,7 @@ about-debugging-zombie-tab-inspect-action-disabled =
     .title = لم يُحمّل اللسان تمامًا ولا يمكن فحصه
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-multiprocess-toolbox-name = شريط أدوات السيرورات المتعددة
+about-debugging-multiprocess-toolbox-name = صندوق أدوات السيرورات المتعددة
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = أغلِق الرسالة

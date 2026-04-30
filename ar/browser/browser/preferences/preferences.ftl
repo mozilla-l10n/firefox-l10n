@@ -743,6 +743,16 @@ update-in-progress-ok-button = أ&همِل
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = وا&صِل
 
+## Firefox updates
+
+update-application-heading =
+    .label = تحديثات { -brand-short-name }
+    .description = تعمل التحديثات على تحسين سرعة { -brand-short-name } واستقراره وأمانه.
+update-application-suppress-prompts-heading =
+    .label = الإشعارات
+update-application-updates-managed-by-os =
+    .message = تُدار التحديثات بواسطة نظام تشغيلك
+
 ## Firefox support
 
 support-application-heading =
@@ -1020,6 +1030,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = المؤقت
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = الرياضة
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = ادعم { -brand-product-name }
@@ -1033,6 +1046,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = اختر خلفية
 home-prefs-choose-wallpaper-link2 =
     .label = اختر خلفية
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = لاستخدام هذه الميزات، عيّن ألسنة جديدة أو نوافذ جديدة إلى { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1564,6 +1582,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = اطّلع على المزيد
 forms-windows-sso-desc = أدِر الحسابات في إعدادات الجهاز
 windows-passkey-settings-label = أدر مفاتيح السر (passkeys) في إعدادات النظام
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = إعدادات لوحة الخصوصية
+    .description = احصل على المساعدة لحماية معلوماتك عبر الإنترنت في { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = اعرض رسائل الاختراق
+    .accesskey = ع
 
 ## OS Authentication dialog
 
