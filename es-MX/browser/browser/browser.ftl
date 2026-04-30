@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins2 = Administrar contraseñas
 quickactions-cmd-logins = inicios de sesión, contraseñas
+# Mutes all tabs playing audio
+quickactions-mute = Silenciar las pestañas que reproducen audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silencio, shhhh, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administrar plugins
 quickactions-cmd-plugins = plugins
@@ -1701,8 +1707,17 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitió { $count } criptomineros
     }
 trustpanel-cryptominer-tab-list-header = Estos sitios están intentando minar criptomonedas:
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Descartar
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Iniciar escaneo gratuito
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> Rastreador bloqueado en este sitio
        *[other] <span data-l10n-name="count">{ $count }</span> Rastreadores bloqueados en este sitio
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Recargar
+    .accesskey = R
+reduced-protection-infobar-never-show-button = No mostrar de nuevo
+    .accesskey = D

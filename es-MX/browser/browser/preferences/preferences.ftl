@@ -68,6 +68,11 @@ category-sync3 =
 pane-ai-controls-title = Controles de IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-languages-title = Idiomas
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -75,6 +80,8 @@ pane-experimental-subtitle = Continuar con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
 pane-experimental-description2 = Modificar los parámetros de la configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = ¡Prueba nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }. Solo recibimos datos sobre tu uso de estas funciones si tienes activada la función <a data-l10n-name="data-collection">datos técnicos y de interacción</a>.
@@ -677,6 +684,8 @@ update-application-version = Versión { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = Mostrar historial de actualizaciones
     .accesskey = p
+update-application-installation =
+    .label = Instalación
 update-history =
     .label = Mostrar historial de actualizaciones…
     .accesskey = p
@@ -717,6 +726,11 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Notificaciones
 
 ## Firefox support
 
@@ -799,6 +813,19 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Aprender más
 browsing-group =
     .label = Navegación
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accesibilidad
+preferences-default-zoom-select =
+    .aria-label = Zoom predeterminado
+preferences-fonts-family =
+    .label = Familia tipográfica
+    .accesskey = D
+preferences-fonts-size =
+    .label = Tamaño de fuente
+    .accesskey = s
 
 ## General Section - Proxy
 
