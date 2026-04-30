@@ -328,6 +328,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Pronto
     .accessKey = P
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Compartilhar grupo de abas
 tab-context-reopen-tab-group =
     .label = Reabrir grupo de abas
 # Variables:

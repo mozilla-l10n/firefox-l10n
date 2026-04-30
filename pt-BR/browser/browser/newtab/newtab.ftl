@@ -625,6 +625,10 @@ newtab-section-unfollow-topic =
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
     .aria-label = Bloquear { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Desbloquear { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -655,6 +659,10 @@ newtab-custom-wallpaper-cta = Experimentar
 newtab-new-user-custom-wallpaper-title = Escolha um fundo de tela para deixar o { -brand-product-name } do seu jeito
 newtab-new-user-custom-wallpaper-subtitle = Sinta-se em casa em cada nova aba, com fundos de tela e cores personalizados.
 newtab-new-user-custom-wallpaper-cta = Experimentar agora
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-subtitle = Escolha seu favorito e deixe cada nova aba do seu jeito.
 
 ## Strings for download mobile highlight
 
@@ -743,8 +751,12 @@ newtab-widget-lists-dropdown-create =
     .label = + Criar nova lista
 newtab-widget-lists-name-label-default =
     .label = Lista de tarefas
+newtab-widget-lists-name-label-checklist =
+    .label = Lista de verificação
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista de tarefas
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Lista de verificação
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova lista
@@ -764,7 +776,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizar widgets
     .aria-label = Reduzir todos os widgets para tamanho compacto
+newtab-widget-section-menu-button =
+    .title = Menu de widgets
+    .aria-label = Abrir menu de widgets
+newtab-widget-section-menu-hide-all = Ocultar widgets
+newtab-widget-section-menu-learn-more = Saiba mais
 newtab-widget-section-feedback = Diga-nos o que você acha
+newtab-widget-lists-name-default = Lista de verificação
 
 ## Strings for timer productivity widget
 ## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown

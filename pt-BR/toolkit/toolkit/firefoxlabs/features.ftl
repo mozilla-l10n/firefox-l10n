@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Personalize sua navegação
 experimental-features-group-productivity =
     .label = Produtividade
+experimental-features-group-newtab-widgets =
+    .label = Widgets no { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Senhas no painel lateral
@@ -64,15 +66,22 @@ experimental-features-fx-web-apps-description = Abra sites que você visita com 
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listas no { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listas
 experimental-features-newtab-widget-lists-description = Mantenha sua lista de tarefas sempre à vista ao abrir uma nova aba. Listas de compras, itens de viagem, faça seus planos no { -brand-product-name }. <a data-l10n-name="connect">Compartilhe sua opinião</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporizador no { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Temporizador
 experimental-features-newtab-widget-timer-description = Configure um temporizador para te ajudar a se manter concentrado, encorajar a não se distrair, ou lembrar de fazer um intervalo para recarregar as energias. <a data-l10n-name="connect">Compartilhe sua opinião</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas e temporizador no { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Mantenha sua lista de tarefas em destaque ao abrir uma nova aba. Itens de viagem, listas de compras, faça seus planos no { -brand-product-name }. Configure um temporizador para te ajudar a se manter concentrado, encorajar a não se distrair, ou lembrar de fazer um intervalo para recarregar as energias. <a data-l10n-name="connect">Compartilhe sua opinião</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Previsões meteorológicas
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Relógios
