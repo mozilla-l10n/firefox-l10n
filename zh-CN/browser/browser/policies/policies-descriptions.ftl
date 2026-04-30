@@ -37,6 +37,7 @@ policy-Containers = 设置身份标签页相关策略。
 policy-DisableAccounts = 禁用基于账户的服务，包括同步。
 policy-DisabledCiphers = 禁用加密算法。
 policy-DefaultDownloadDirectory = 设置默认下载目录。
+policy-DefaultSerialGuardSetting = 控制 Serial API 的使用。
 policy-DisableAppUpdate = 阻止浏览器更新。
 policy-DisableBuiltinPDFViewer = 禁用 { -brand-short-name } 内置的 PDF 阅读器 PDF.js。
 policy-DisableDefaultBrowserAgent = 阻止默认浏览器用户代理执行任何操作。仅适用于 Windows，其他平台没有用户代理可用。

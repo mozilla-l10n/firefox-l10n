@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI 控制
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-accessibility-title = 无障碍
+    .title = { pane-accessibility-title }
 pane-experimental-title = { -brand-short-name } 实验
 category-experimental =
     .tooltiptext = { -brand-short-name } 实验
@@ -754,6 +756,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = 使用自动滚屏
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = 键盘导航和滚动
 browsing-use-smooth-scrolling =
     .label = 使用平滑滚动
     .accesskey = m
@@ -795,6 +799,20 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = 详细了解
 browsing-group =
     .label = 浏览
+
+## Accessibility page
+
+preferences-default-zoom-select =
+    .aria-label = 默认缩放
+preferences-fonts-family =
+    .label = 字体系列
+    .accesskey = D
+preferences-fonts-size =
+    .label = 字体大小
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = 高级设置
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1095,6 +1113,7 @@ search-edit-engine =
     .label = 编辑
     .accesskey = E
 search-find-more-link = 寻找更多搜索引擎
+search-filtering-for-add-engine = 添加搜索引擎
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = 关键词重复
@@ -1113,6 +1132,9 @@ search-engine-group =
     .label = 默认搜索引擎
 search-default-engine =
     .aria-label = 默认搜索引擎
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = 搜索
 
 ## Containers Section
 
