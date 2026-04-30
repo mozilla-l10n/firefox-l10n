@@ -742,10 +742,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Completate ({ $number })
 newtab-widget-task-list-menu-copy = Copia
 newtab-widget-lists-menu-edit = Modifica nome lista
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Modifica nome lista
 newtab-widget-lists-menu-create = Crea nuova lista
 newtab-widget-lists-menu-delete = Elimina questa lista
 newtab-widget-lists-menu-copy = Copia lista negli appunti
 newtab-widget-lists-menu-learn-more = Ulteriori informazioni
+newtab-widget-lists-button-add-item = Aggiungi un elemento
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Aggiungi un elemento
+    .aria-label = Aggiungi un elemento
 newtab-widget-lists-input-add-an-item =
     .placeholder = Aggiungi un elemento
 newtab-widget-lists-input-error = Includere del testo per aggiungere un elemento.
@@ -763,6 +769,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Lista di controllo
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista di attività
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Lista di controllo
+    .aria-label = Modifica nome lista
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Nuova lista
+    .aria-label = Modifica nome lista
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Lista di controllo
 # The placeholder value of the name field for a newly created list
@@ -792,8 +805,7 @@ newtab-widget-section-menu-learn-more = Ulteriori informazioni
 newtab-widget-section-feedback = Dicci cosa ne pensi
 newtab-widget-lists-name-default = Lista di controllo
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Il tempo per concentrarti è terminato. Ottimo lavoro. Ti serve una pausa?
@@ -834,6 +846,9 @@ newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
 
+## Sports widget
+
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -855,4 +870,3 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Questo spazio segue le tue regole
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ti consente di navigare come preferisci, offrendoti un modo più personale per iniziare la tua giornata online. Rendi { -brand-product-name } davvero tuo.
-
