@@ -551,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = 您並未安全地連線至此網站。
 identity-connection-verified = 您正安全地連線至此網站。
 identity-ev-owner-label = 憑證簽發給：
+identity-verifier-label = 驗證機構：
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = 符合歐盟（EU）2024/1183 法規規範。
 identity-description-custom-root2 = Mozilla 不認識此憑證簽發者，可能是由您的作業系統或網路管理員所加入的。
+identity-cert-exception-overridden = 您已將此網站加入例外清單。
 identity-remove-cert-exception =
     .label = 移除例外
     .accesskey = R

@@ -86,9 +86,11 @@ experimental-features-newtab-widget-weather-description = Få ei oversikt over d
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Dagens bilde
+experimental-features-newtab-widget-picture-of-the-day-description = Legg til litt kvardagsleg underverk i dagen din. Få eit nytt bilde, lær noko interessant, og set eit nytt bakgrunnsbilde på ein blunk. <a data-l10n-name="connect">Del tilbakemelding</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Klokker
+experimental-features-newtab-widget-clocks-description = Legg til opptil fire klokker med tilpassa kallenamn for å halde oversikt over tida på stadar som er viktige for deg. <a data-l10n-name="connect">Del tilbakemeldingar</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantisk historikksøk

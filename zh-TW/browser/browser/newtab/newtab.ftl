@@ -363,6 +363,8 @@ newtab-custom-widget-lists-toggle =
     .label = 清單
 newtab-custom-widget-timer-toggle =
     .label = 計時器
+newtab-custom-widget-sports-toggle =
+    .label = 世界盃足球賽
 newtab-custom-widget-section-title = 小工具
 newtab-custom-widget-section-toggle =
     .label = 小工具
@@ -873,9 +875,14 @@ newtab-sports-widget-results = 結果
 newtab-sports-widget-semi-finals = 準決賽
 newtab-sports-widget-bronze-finals = 銅牌戰
 newtab-sports-widget-final = 決賽
-newtab-sports-widget-delayed = 延後
 newtab-sports-widget-suspended = 比賽暫停
 newtab-sports-widget-cancelled = 已取消
+newtab-sports-widget-information = 競賽資訊
+newtab-sports-widget-no-live-data = 目前無法更新即時比賽資料
+newtab-sports-widget-view-results-link = 看比賽結果
+newtab-sports-widget-third-place = 季軍
+newtab-sports-widget-champions = 冠軍
+newtab-sports-widget-world-cup-champions = 2026 年世界盃足球賽冠軍
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

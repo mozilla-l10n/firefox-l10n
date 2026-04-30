@@ -65,6 +65,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = 为此网站使用 VPN
     .aria-label = 已为此网站关闭 VPN
+site-exclusion-toggle-description = 网站不正常？请尝试关闭 VPN。
 ipprotection-settings-link =
     .label = 设置
 

@@ -859,6 +859,7 @@ newtab-sports-widget-bronze-finals = Bronsefinale
 newtab-sports-widget-final = Finale
 newtab-sports-widget-delayed = Forseinka
 newtab-sports-widget-postponed = Utsett
+newtab-sports-widget-cancelled = Annulert
 newtab-sports-widget-information = Informasjon om kampen
 newtab-sports-widget-view-results-link = Vis resultat
 newtab-sports-widget-third-place = Tredjeplass

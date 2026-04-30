@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = { -vendor-short-name } 的更多產品
+more-from-moz-page-header =
+    .heading = { -vendor-short-name } 的更多產品
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } 的更多產品
 more-from-moz-subtitle = 看看致力於讓網際網路環境變得更健康的其他 { -vendor-short-name } 產品。
@@ -50,6 +52,18 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-button = 下載 { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name } 的新產品
+more-from-moz-new-products-description = 探索 { -vendor-short-name } 的最新產品。
+more-from-moz-new-products-button = 看看新產品
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-email-link = 將下載鏈結寄到您的手機
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
@@ -60,6 +74,8 @@ more-from-moz-mozilla-vpn-box-link =
     .label = 下載 { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = 下載 { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = 存取 MDN
 more-from-moz-thunderbird-box-link =
     .label = 下載 { -thunderbird-brand-short-name }
 more-from-moz-solo-box-link =
