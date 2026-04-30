@@ -848,6 +848,7 @@ newtab-promo-card-dismiss-button =
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Sequer equipas
+newtab-sports-widget-menu-view-results = Visualisar resultatos
 newtab-sports-widget-menu-learn-more = Pro saper plus
 newtab-sports-widget-countdown-title = Computo a retro al Cuppa del mundo
 newtab-sports-widget-get-updates = Obtene actualisationes al vivo del incontros e plus.
@@ -856,8 +857,12 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Eliger un fundo de schermo
 newtab-sports-widget-skip = Saltar
+newtab-sports-widget-search-teams =
+    .placeholder = Recercar equipas
+    .aria-label = Recercar equipas
 newtab-sports-widget-done-button =
     .label = Facite
+newtab-sports-widget-group-stage = Phase de grouppos
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = AL VIVO
 newtab-sports-widget-upcoming = Proximemente
