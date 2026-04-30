@@ -737,7 +737,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = 已完成（{ $number }）
 newtab-widget-lists-celebration-headline = 做得好
-newtab-widget-lists-celebration-subhead = 全部清除
+newtab-widget-lists-celebration-subhead = 沒有任務了！
 newtab-widget-task-list-menu-copy = 複製
 newtab-widget-lists-menu-edit = 編輯清單名稱
 newtab-widget-lists-menu-edit2 =
@@ -875,6 +875,8 @@ newtab-sports-widget-results = 結果
 newtab-sports-widget-semi-finals = 準決賽
 newtab-sports-widget-bronze-finals = 銅牌戰
 newtab-sports-widget-final = 決賽
+newtab-sports-widget-delayed = 延後開賽
+newtab-sports-widget-postponed = 延期
 newtab-sports-widget-suspended = 比賽暫停
 newtab-sports-widget-cancelled = 已取消
 newtab-sports-widget-information = 競賽資訊

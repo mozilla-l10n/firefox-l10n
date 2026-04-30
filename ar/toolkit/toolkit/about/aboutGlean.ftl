@@ -25,4 +25,13 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>:{ $moz-official-define-
 about-glean-about-testing-header = حول الاختبار
 about-glean-about-data-header = حول البيانات
 about-glean-metrics-table-settings-hide-empty-value-rows = أخفِ صفوف القيم الفارغة
+# Label displayed near an input field that can be used to filter metrics
+about-glean-label-for-filter-metrics = صَفِّ
+# This message sits alongside an input field, further describing its purpose.
+# Category refers to the category in which a given metric is recorded.
+# Name refers to the name of a given metric.
+# Type refers to a given metric's metric type.
+# Value refers to the underlying value of a given metric.
+# "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
+about-glean-description-for-filter-metrics = سيؤدي هذا إلى تصفية الجدول أدناه بناءً على الفئة والاسم والنوع والقيمة (إذا كانت القيمة من نوع بسيط).
 about-glean-button-watch = راقب
