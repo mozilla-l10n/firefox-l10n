@@ -740,10 +740,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Ολοκληρωμένες ({ $number })
 newtab-widget-task-list-menu-copy = Αντιγραφή
 newtab-widget-lists-menu-edit = Επεξεργασία ονόματος λίστας
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Επεξεργασία ονόματος λίστας
 newtab-widget-lists-menu-create = Δημιουργία νέας λίστας
 newtab-widget-lists-menu-delete = Διαγραφή λίστας
 newtab-widget-lists-menu-copy = Αντιγραφή λίστας στο πρόχειρο
 newtab-widget-lists-menu-learn-more = Μάθετε περισσότερα
+newtab-widget-lists-button-add-item = Προσθήκη στοιχείου
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Προσθήκη στοιχείου
+    .aria-label = Προσθήκη στοιχείου
 newtab-widget-lists-input-add-an-item =
     .placeholder = Προσθήκη στοιχείου
 newtab-widget-lists-input-error = Συμπεριλάβετε κείμενο για να προσθέσετε ένα στοιχείο.
@@ -790,8 +796,7 @@ newtab-widget-section-menu-learn-more = Μάθετε περισσότερα
 newtab-widget-section-feedback = Πείτε μας τη γνώμη σας
 newtab-widget-lists-name-default = Λίστα ελέγχου
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Αντίστροφη μέτρηση
 newtab-widget-timer-notification-focus = Ο χρόνος συγκέντρωσης τελείωσε. Πολύ καλή δουλειά! Χρειάζεστε ένα διάλειμμα;
@@ -831,6 +836,9 @@ newtab-promo-card-cta = Μάθετε περισσότερα
 newtab-promo-card-dismiss-button =
     .title = Απόρριψη
     .aria-label = Απόρριψη
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
