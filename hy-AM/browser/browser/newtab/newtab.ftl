@@ -77,6 +77,9 @@ newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-image-link = Օգտագործել հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Չեղարկել
@@ -577,6 +580,9 @@ newtab-custom-wallpaper-cta = Փորձել
 
 newtab-new-user-custom-wallpaper-cta = Փորձել հիմա
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Ներբեռնեք { -brand-product-name }-ը բջջայինի համար
@@ -627,10 +633,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Ավարտված է ({ $number })
 newtab-widget-task-list-menu-copy = Պատճենել
 newtab-widget-lists-menu-edit = Խմբագրել ցանկի անունը
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Խմբագրել ցանկի անունը
 newtab-widget-lists-menu-create = Ստեղծել նոր ցանկ
 newtab-widget-lists-menu-delete = Ջնջել այս ցանկը
 newtab-widget-lists-menu-copy = Պատճենել ցանկը սեղմատախտակին
 newtab-widget-lists-menu-learn-more = Իմանալ ավելին
+newtab-widget-lists-button-add-item = Ավելացնել միույթ
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Ավելացնել միույթ
+    .aria-label = Ավելացնել միույթ
 newtab-widget-lists-input-add-an-item =
     .placeholder = Ավելացնել միույթ
 newtab-widget-lists-input-error = Խնդրում ենք ներառել տեքստ՝ տարր ավելացնելու համար։
@@ -661,8 +673,7 @@ newtab-widget-section-minimize =
     .title = Փոքրացնել վիջեթները
     .aria-label = Կոծկել բոլոր վիջեթները սեղմ չափի
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = ժամաչափ
 newtab-widget-timer-notification-focus = Կենտրոնանալու ժամանակը սպառվեց։ Լավ աշխատանք։ Հանգստի կարիք ունե՞ք։
@@ -688,6 +699,9 @@ newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
