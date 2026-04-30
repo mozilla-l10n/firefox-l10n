@@ -761,6 +761,13 @@ newtab-widget-lists-name-label-checklist =
     .label = רשימת תיוג
 newtab-widget-lists-name-placeholder-default =
     .placeholder = רשימת משימות
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = רשימת תיוג
+    .aria-label = עריכת שם הרשימה
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = רשימה חדשה
+    .aria-label = עריכת שם הרשימה
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = רשימת תיוג
 # The placeholder value of the name field for a newly created list
