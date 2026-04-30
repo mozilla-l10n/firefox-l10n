@@ -740,10 +740,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Valmis ({ $number })
 newtab-widget-task-list-menu-copy = Kopioi
 newtab-widget-lists-menu-edit = Muokkaa listan nimeä
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Muokkaa listan nimeä
 newtab-widget-lists-menu-create = Luo uusi lista
 newtab-widget-lists-menu-delete = Poista tämä lista
 newtab-widget-lists-menu-copy = Kopioi lista leikepöydälle
 newtab-widget-lists-menu-learn-more = Lue lisää
+newtab-widget-lists-button-add-item = Lisää kohde
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Lisää kohde
+    .aria-label = Lisää kohde
 newtab-widget-lists-input-add-an-item =
     .placeholder = Lisää kohde
 newtab-widget-lists-input-error = Sisällytä tekstiä lisätäksesi kohteen.
@@ -761,6 +767,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Tarkistuslista
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Tehtävälista
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Tarkistuslista
+    .aria-label = Muokkaa listan nimeä
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Uusi lista
+    .aria-label = Muokkaa listan nimeä
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Tarkistuslista
 # The placeholder value of the name field for a newly created list
@@ -786,8 +799,7 @@ newtab-widget-section-menu-learn-more = Lue lisää
 newtab-widget-section-feedback = Kerro meille mielipiteesi
 newtab-widget-lists-name-default = Tarkistuslista
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Ajastin
 newtab-widget-timer-notification-focus = Keskittymisaika on ohi. Hyvää työtä. Tarvitsetko tauon?
@@ -827,6 +839,9 @@ newtab-promo-card-cta = Lue lisää
 newtab-promo-card-dismiss-button =
     .title = Hylkää
     .aria-label = Hylkää
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
