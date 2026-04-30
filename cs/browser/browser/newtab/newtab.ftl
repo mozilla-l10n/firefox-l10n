@@ -651,6 +651,9 @@ newtab-new-user-custom-wallpaper-title =
 newtab-new-user-custom-wallpaper-subtitle = Zajistěte, aby se každý nový panel cítil jako doma pomocí vlastních tapet a barev.
 newtab-new-user-custom-wallpaper-cta = Vyzkoušejte nyní
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title =
@@ -733,10 +736,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Splněno ({ $number })
 newtab-widget-task-list-menu-copy = Kopírovat
 newtab-widget-lists-menu-edit = Upravit název seznamu
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Upravit název seznamu
 newtab-widget-lists-menu-create = Vytvoření nového seznamu
 newtab-widget-lists-menu-delete = Smazat tento seznam
 newtab-widget-lists-menu-copy = Zkopírovat seznam do schránky
 newtab-widget-lists-menu-learn-more = Zjistit více
+newtab-widget-lists-button-add-item = Přidat položku
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Přidat položku
+    .aria-label = Přidat položku
 newtab-widget-lists-input-add-an-item =
     .placeholder = Přidat položku
 newtab-widget-lists-input-error = Položku přidáte zadáním textu.
@@ -773,8 +782,7 @@ newtab-widget-section-minimize =
     .aria-label = Sbalení všech widgetů na kompaktní velikost
 newtab-widget-section-feedback = Sdělte nám svůj názor
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Časovač
 newtab-widget-timer-notification-focus = Čas soustředění vypršel. Pěkná práce. Potřebujete přestávku?
@@ -818,6 +826,9 @@ newtab-promo-card-cta = Zjistit více
 newtab-promo-card-dismiss-button =
     .title = Zavřít
     .aria-label = Zavřít
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
