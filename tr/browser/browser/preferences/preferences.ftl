@@ -467,6 +467,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Bu değişiklikleri uygulamak için { -brand-short-name } tarayıcısını yeniden başlatın
 confirm-browser-language-change-button = Uygula ve yeniden başlat
+browser-language-heading =
+    .label = Tarayıcı dili
+    .description = { -brand-short-name } menülerinde, iletilerinde ve bildirimlerinde kullanılacak dili seçin.
+browser-language-preferred-label =
+    .label = Tercih edilen dil
+browser-language-fallback-label =
+    .label = Yedek dil
+    .description = Tercih edilen dilin çevirileri eksikse kullanılır.
 browser-language-install-error =
     .message = { -brand-short-name } şu anda dillerinizi güncelleyemiyor. İnternet bağlantınızı kontrol edip yeniden deneyin.
 translate-web-pages =
@@ -619,6 +627,8 @@ applications-use-os-default =
             [windows] Varsayılan Windows uygulamasını kullan
            *[other] Varsayılan sistem uygulamasını kullan
         }
+applications-use-other =
+    .label = Başka uygulama kullan…
 applications-select-helper = Yardımcı uygulamayı seçin
 applications-manage-app =
     .label = Uygulama ayrıntıları…
@@ -729,6 +739,9 @@ update-in-progress-cancel-button = &Devam et
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name } güncellemeleri
+    .description = Güncellemeler { -brand-short-name } tarayıcınızın hızını, kararlılığını ve güvenliğini artırır.
 update-application-suppress-prompts-heading =
     .label = Bildirimler
 update-application-updates-managed-by-os =
@@ -740,7 +753,7 @@ support-application-heading =
     .label = { -brand-short-name } desteği
     .description = Sorunları giderin ve fikirlerinizi topluluğumuzla paylaşın.
 support-get-help =
-    .label = Yardım al
+    .label = Yardım alın
 support-share-ideas =
     .label = Fikirlerinizi ve görüşlerinizi paylaşın
 
@@ -1013,6 +1026,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Sayaç
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Spor
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } tarayıcısını destekleyin
@@ -1026,6 +1042,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Duvar kâğıdı seç
 home-prefs-choose-wallpaper-link2 =
     .label = Duvar kâğıdı seç
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Bu özellikleri kullanmak için yeni sekme veya yeni pencere ayarınızı { -firefox-home-brand-name } olarak değiştirmelisiniz.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

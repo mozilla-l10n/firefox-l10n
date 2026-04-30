@@ -84,6 +84,11 @@ smartblock-placeholder-title = { $trackername } takip kodu ve içeriği engellen
 smartblock-placeholder-desc = { -brand-short-name } ayarlarınız, bu içeriğin sizi siteler arasında izlemesini veya reklam amacıyla kullanılmasını engelledi.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = { $websitehost } sitesinde izin ver
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Engellenen gömülü içerik
 
 ##
 

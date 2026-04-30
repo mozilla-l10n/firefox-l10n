@@ -1539,6 +1539,17 @@ forms-windows-sso-learn-more-link = Kuaave
 forms-windows-sso-desc = Eñangareko mba’ete mba’e’oka ñembohekópe
 windows-passkey-settings-label = Eñangareko jeikeha mba’eñemíre apopyvusu ñembohekópe
 
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Tekoñemi rupa ñemoĩporã
+    .description = Ehupyty pytyvõ eñangareko hag̃ua ne marandu ñandutipegua { -brand-short-name }-pe.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Ehechauka ñe’ẽmondo ñembogua rehegua
+    .accesskey = s
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
