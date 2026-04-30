@@ -620,6 +620,9 @@ newtab-new-user-custom-wallpaper-title = Vælg en baggrund for at gøre { -brand
 newtab-new-user-custom-wallpaper-subtitle = Føl dig hjemme på alle nye faneblade med tilpassede baggrunde og farver.
 newtab-new-user-custom-wallpaper-cta = Prøv det nu
 
+## Strings for Nova wallpaper feature highlight
+
+
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Hent { -brand-product-name } til mobil
@@ -678,10 +681,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Afsluttede ({ $number })
 newtab-widget-task-list-menu-copy = Kopier
 newtab-widget-lists-menu-edit = Rediger listens navn
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Rediger listens navn
 newtab-widget-lists-menu-create = Opret en ny liste
 newtab-widget-lists-menu-delete = Slet denne liste
 newtab-widget-lists-menu-copy = Kopier liste til udklipsholderen
 newtab-widget-lists-menu-learn-more = Læs mere
+newtab-widget-lists-button-add-item = Tilføj et element
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Tilføj et element
+    .aria-label = Tilføj et element
 newtab-widget-lists-input-add-an-item =
     .placeholder = Tilføj et element
 newtab-widget-lists-input-error = Inkluder tekst for at tilføje et element.
@@ -714,8 +723,7 @@ newtab-widget-section-minimize =
     .aria-label = Sammenfold alle widgets til kompakt størrelse
 newtab-widget-section-feedback = Fortæl os, hvad du synes
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Fokus-tiden er slut. Godt gået. Har du brug for en pause?
@@ -749,6 +757,9 @@ newtab-promo-card-cta = Lær mere
 newtab-promo-card-dismiss-button =
     .title = Afvis
     .aria-label = Afvis
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
