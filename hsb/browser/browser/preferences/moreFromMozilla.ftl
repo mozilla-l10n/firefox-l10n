@@ -66,6 +66,8 @@ more-from-moz-new-products-button = Wobhladajće sej nowe produkty
 ## These strings are for the config-based (SRD) moreFromMozilla page using
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Skenujće ze kameru swojeho telefona abo tableta, zo byšće nałoženje dóstał. Podótkńće so wotkaza, hdyž so zjewi.
 more-from-moz-firefox-mobile-email-link = Sćelće swojemu telefonej wotkaz sćehnjenja přez e-mejl
 
 ## Product card strings for the config-based path. Each entry provides both
@@ -83,3 +85,26 @@ more-from-moz-firefox-relay-card =
 more-from-moz-mdn-card =
     .label = { -mdn-brand-name }
     .description = Wukńće webwuwiće z darmotnymi nawodami a žórłami.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Mějće přistup k swojej e-mejlej, protykam a kontakty w jednym spěšnym nałoženju.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Wuslědźće naše najnowše ideje a eksperimentelne technologije.
+more-from-moz-new-products-card =
+    .label = Nowe produkty { -vendor-short-name }
+    .description = Wuslědźće najnowše produkty wot { -vendor-short-name }.
+more-from-moz-mozilla-monitor-box-link =
+    .label = { -monitor-brand-short-name } wobstarać
+more-from-moz-mozilla-vpn-box-link =
+    .label = { -mozilla-vpn-brand-name } wobstarać
+more-from-moz-firefox-relay-box-link =
+    .label = { -relay-brand-short-name } wobstarać
+more-from-moz-mdn-box-link =
+    .label = Přistup MDN
+more-from-moz-thunderbird-box-link =
+    .label = { -thunderbird-brand-short-name } wobstarać
+more-from-moz-solo-box-link =
+    .label = Spytajće { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Wobhladajće sej nowe produkty

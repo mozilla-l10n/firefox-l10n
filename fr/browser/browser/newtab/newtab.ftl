@@ -737,7 +737,6 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Achevées ({ $number })
 newtab-widget-lists-celebration-headline = Bien joué
-newtab-widget-lists-celebration-subhead = Tout effacer
 newtab-widget-task-list-menu-copy = Copier
 newtab-widget-lists-menu-edit = Modifier le nom de la liste
 newtab-widget-lists-menu-edit2 =
@@ -848,14 +847,14 @@ newtab-promo-card-dismiss-button =
 
 ## Sports widget
 
-newtab-sports-widget-menu-follow-teams = Abonner des équipes
-newtab-sports-widget-menu-view-upcoming = Voir les résultats à venir
-newtab-sports-widget-menu-view-results = Afficher les résultats
+newtab-sports-widget-menu-follow-teams = Suivre des équipes
+newtab-sports-widget-menu-view-upcoming = Voir les matchs à venir
+newtab-sports-widget-menu-view-results = Voir les résultats
 newtab-sports-widget-menu-learn-more = En savoir plus
 newtab-sports-widget-countdown-title = Compte à rebours avant la Coupe du monde
 newtab-sports-widget-get-updates = Recevez les dernières infos en direct sur les matchs et bien plus encore.
 newtab-sports-widget-follow-teams =
-    .label = Abonner des équipes
+    .label = Suivre des équipes
 newtab-sports-widget-choose-wallpaper =
     .label = Choisir un fond d’écran
 newtab-sports-widget-skip = Ignorer
@@ -874,11 +873,6 @@ newtab-sports-widget-upcoming = À venir
 newtab-sports-widget-results = Résultats
 newtab-sports-widget-semi-finals = Demi-finale
 newtab-sports-widget-bronze-finals = Petite finale
-newtab-sports-widget-final = Finale
-newtab-sports-widget-delayed = Retardé
-newtab-sports-widget-postponed = Reporté
-newtab-sports-widget-suspended = Suspendu
-newtab-sports-widget-cancelled = Annulé
 newtab-sports-widget-information = Informations à propos de la partie
 newtab-sports-widget-no-live-data = Les données des matchs en direct ne sont pas mises à jour pour le moment
 newtab-sports-widget-view-results-link = Afficher les résultats

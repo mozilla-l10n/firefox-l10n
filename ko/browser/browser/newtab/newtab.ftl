@@ -854,6 +854,39 @@ newtab-sports-widget-menu-follow-teams = 팀 팔로우
 newtab-sports-widget-menu-view-upcoming = 예정된 경기 보기
 newtab-sports-widget-menu-view-results = 결과 보기
 newtab-sports-widget-menu-learn-more = 더 알아보기
+newtab-sports-widget-countdown-title = 월드컵 카운트다운
+newtab-sports-widget-get-updates = 라이브 경기 업데이트 등을 받으세요.
+newtab-sports-widget-follow-teams =
+    .label = 팀 팔로우
+newtab-sports-widget-choose-wallpaper =
+    .label = 배경 화면 선택
+newtab-sports-widget-skip = 건너뛰기
+newtab-sports-widget-search-teams =
+    .placeholder = 팀 검색
+    .aria-label = 팀 검색
+newtab-sports-widget-done-button =
+    .label = 완료
+newtab-sports-widget-group-stage = 조별 예선
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = 라이브
+newtab-custom-widget-live-refresh =
+    .title = 점수 새로 고침
+    .aria-label = 점수 새로 고침
+newtab-sports-widget-upcoming = 예정된 경기
+newtab-sports-widget-results = 결과
+newtab-sports-widget-semi-finals = 준결승
+newtab-sports-widget-bronze-finals = 동메달 결정전
+newtab-sports-widget-final = 결승
+newtab-sports-widget-delayed = 지연됨
+newtab-sports-widget-postponed = 연기됨
+newtab-sports-widget-suspended = 중단됨
+newtab-sports-widget-cancelled = 취소됨
+newtab-sports-widget-information = 경기 정보
+newtab-sports-widget-no-live-data = 현재 라이브 경기 데이터가 업데이트되지 않고 있습니다
+newtab-sports-widget-view-results-link = 결과 보기
+newtab-sports-widget-third-place = 3위
+newtab-sports-widget-champions = 우승팀
+newtab-sports-widget-world-cup-champions = 2026년 월드컵 우승팀
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

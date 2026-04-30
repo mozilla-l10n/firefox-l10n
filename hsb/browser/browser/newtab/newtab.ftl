@@ -745,6 +745,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Dokónčeny ({ $number })
 newtab-widget-lists-celebration-headline = Dobre dźěło
+newtab-widget-lists-celebration-subhead = Wšo jasne
 newtab-widget-task-list-menu-copy = Kopěrować
 newtab-widget-lists-menu-edit = Mjeno lisćiny wobdźěłać
 newtab-widget-lists-menu-edit2 =
@@ -871,6 +872,7 @@ newtab-sports-widget-search-teams =
     .aria-label = Teamy pytać
 newtab-sports-widget-done-button =
     .label = Dokónčeny
+newtab-sports-widget-group-stage = Skupinska faza
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
@@ -886,6 +888,7 @@ newtab-sports-widget-postponed = Wotstorčeny
 newtab-sports-widget-suspended = Wotprajeny
 newtab-sports-widget-cancelled = Anulowany
 newtab-sports-widget-information = Informacije wo hrě
+newtab-sports-widget-no-live-data = Daty hry live so hnydom njeaktualizuja
 newtab-sports-widget-view-results-link = Wuslědki pokazać
 newtab-sports-widget-third-place = Třeće městno
 newtab-sports-widget-champions = Mištrojo

@@ -69,6 +69,7 @@ more-from-moz-new-products-button = 새 제품 보기
 
 more-from-moz-firefox-mobile-qr-promo =
     .message = 휴대폰이나 태블릿의 카메라로 스캔하여 앱을 받으세요. 링크가 나타나면 탭하세요.
+more-from-moz-firefox-mobile-email-link = 휴대전화로 다운로드 링크 이메일 보내기
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
