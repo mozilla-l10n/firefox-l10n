@@ -361,6 +361,8 @@ newtab-custom-widget-lists-toggle =
     .label = 清单
 newtab-custom-widget-timer-toggle =
     .label = 计时器
+newtab-custom-widget-sports-toggle =
+    .label = 世界杯
 newtab-custom-widget-section-title = 小组件
 newtab-custom-widget-section-toggle =
     .label = 小组件
@@ -588,8 +590,16 @@ newtab-topic-selection-button-pick-interests = 选择您感兴趣的主题
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = 关注
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = 关注“{ $topic }”
 newtab-section-following-button = 正在关注
 newtab-section-unfollow-button = 取消关注
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = 正在关注：取消关注“{ $topic }”
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = 优化推荐内容
 newtab-section-follow-highlight-subtitle = 随心所好，悦见更多。
@@ -601,6 +611,14 @@ newtab-section-follow-highlight-subtitle = 随心所好，悦见更多。
 newtab-section-block-button = 屏蔽
 newtab-section-blocked-button = 已屏蔽
 newtab-section-unblock-button = 取消屏蔽
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = 关注“{ $topic }”
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = 取消关注“{ $topic }”
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =

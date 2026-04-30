@@ -36,3 +36,10 @@ requested-crash-reports-message = 您有 { $reportCount } 份未发送的崩溃�
 requested-crash-reports-dont-show-again =
     .label = 不再显示
     .accesskey = D
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] 您最近有一份未发送的崩溃报告
+       *[other] 您最近有 { $reportCount } 份未发送的崩溃报告
+    }

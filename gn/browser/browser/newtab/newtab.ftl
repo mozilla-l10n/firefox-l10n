@@ -366,6 +366,8 @@ newtab-custom-widget-lists-toggle =
     .label = Tysýi
 newtab-custom-widget-timer-toggle =
     .label = Aravojere
+newtab-custom-widget-sports-toggle =
+    .label = Copa del Mundo
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -737,6 +739,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Opapyre ({ $number })
+newtab-widget-lists-celebration-headline = Mba’apo porã
 newtab-widget-task-list-menu-copy = Monguatia
 newtab-widget-lists-menu-edit = Embosako’i tysýi réra
 newtab-widget-lists-menu-edit2 =

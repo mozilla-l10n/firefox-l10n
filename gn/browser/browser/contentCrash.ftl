@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Anive tohechauka
     .accesskey = D
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Ereko marandu jokopyre emondo’ỹva
+       *[other] Ereko { $reportCount } marandu jejavygua emondo’ỹva
+    }

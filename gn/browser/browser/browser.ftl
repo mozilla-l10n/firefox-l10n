@@ -551,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nde jeike nahekorosãi ko tendápe.
 identity-connection-verified = Eikehína tekorosãme ko tendápe.
 identity-ev-owner-label = Mboajepyre osẽmava:
+identity-verifier-label = Ohecháva:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Ojehecharamo he’iháicha pe Tekoguatarã (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nomoneĩri ko mboajepyre me’ẽhápe. Ikatu oñembojuaju apopyvusu oku’éva térã ñangarekoha rupive.
+identity-cert-exception-overridden = Embojuapy peteĩ mba’e tekorosãrã ko tendápe g̃uarã.
 identity-remove-cert-exception =
     .label = Emongue oĩ’ỹva
     .accesskey = R
@@ -1746,3 +1748,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>¿Tenda ojehacha ojekaha?</strong> Emyanyhẽ jey emomichĩ hag̃ua ñemo’ã tapykuehoha rovake.
 reduced-protection-infobar-reload-button = Myanyhẽjey
     .accesskey = R
+reduced-protection-infobar-never-show-button = Ani ehechauka jey
+    .accesskey = D
