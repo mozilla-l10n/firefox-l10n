@@ -740,10 +740,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = Abgeschlossen ({ $number })
 newtab-widget-task-list-menu-copy = Kopieren
 newtab-widget-lists-menu-edit = Listenname bearbeiten
+newtab-widget-lists-menu-edit2 =
+    .aria-label = Listenname bearbeiten
 newtab-widget-lists-menu-create = Neue Liste erstellen
 newtab-widget-lists-menu-delete = Diese Liste löschen
 newtab-widget-lists-menu-copy = Liste in Zwischenablage kopieren
 newtab-widget-lists-menu-learn-more = Weitere Informationen
+newtab-widget-lists-button-add-item = Einen Eintrag hinzufügen
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = Einen Eintrag hinzufügen
+    .aria-label = Einen Eintrag hinzufügen
 newtab-widget-lists-input-add-an-item =
     .placeholder = Einen Eintrag hinzufügen
 newtab-widget-lists-input-error = Bitte fügen Sie Text hinzu, um einen Eintrag hinzuzufügen.
@@ -790,8 +796,7 @@ newtab-widget-section-menu-learn-more = Weitere Informationen
 newtab-widget-section-feedback = Sagen Sie uns Ihre Meinung
 newtab-widget-lists-name-default = Checkliste
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Die Fokuszeit ist abgelaufen. Gute Arbeit. Benötigen Sie eine Pause?
@@ -835,6 +840,9 @@ newtab-promo-card-cta = Weitere Informationen
 newtab-promo-card-dismiss-button =
     .title = Verwerfen
     .aria-label = Verwerfen
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
