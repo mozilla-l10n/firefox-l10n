@@ -60,7 +60,7 @@ more-from-moz-thunderbird-button = Obtenir { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
-more-from-moz-new-products-title = { -vendor-short-name } nouveaux produits
+more-from-moz-new-products-title = Nouveaux produits de { -vendor-short-name }
 more-from-moz-new-products-description = Découvrez les derniers produits de { -vendor-short-name }.
 more-from-moz-new-products-button = Voir les nouveaux produits
 

@@ -55,6 +55,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Darmotna e-mejl, protyka a kontakty – na waše wašnje organizowane.
 more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } wobstarać
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page

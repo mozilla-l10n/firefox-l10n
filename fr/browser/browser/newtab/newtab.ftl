@@ -873,11 +873,16 @@ newtab-sports-widget-upcoming = À venir
 newtab-sports-widget-results = Résultats
 newtab-sports-widget-semi-finals = Demi-finale
 newtab-sports-widget-bronze-finals = Petite finale
-newtab-sports-widget-information = Informations à propos de la partie
-newtab-sports-widget-no-live-data = Les données des matchs en direct ne sont pas mises à jour pour le moment
-newtab-sports-widget-view-results-link = Afficher les résultats
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Retardé
+newtab-sports-widget-postponed = Reporté
+newtab-sports-widget-suspended = Suspendu
+newtab-sports-widget-cancelled = Annulé
+newtab-sports-widget-information = Informations à propos du match
+newtab-sports-widget-no-live-data = Les informations des matchs en direct ne sont pas actualisées pour le moment
+newtab-sports-widget-view-results-link = Voir les résultats
 newtab-sports-widget-third-place = Troisième place
-newtab-sports-widget-champions = Champion
+newtab-sports-widget-champions = Champions
 newtab-sports-widget-world-cup-champions = Champions du monde 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
