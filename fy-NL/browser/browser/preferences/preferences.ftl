@@ -1575,6 +1575,17 @@ forms-windows-sso-learn-more-link = Mear ynfo
 forms-windows-sso-desc = Accounts beheare yn jo apparaatynstellingen
 windows-passkey-settings-label = Wachtwurden beheare yn systeemynstellingen
 
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Ynstellingen privacypaniel
+    .description = Untfang help om jo online gegevens te beskermjen yn { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Berjochten oer datalekken toane
+    .accesskey = d
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.

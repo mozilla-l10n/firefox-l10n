@@ -737,6 +737,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Achevées ({ $number })
 newtab-widget-lists-celebration-headline = Bien joué
+newtab-widget-lists-celebration-subhead = Aucune tâche restante
 newtab-widget-task-list-menu-copy = Copier
 newtab-widget-lists-menu-edit = Modifier le nom de la liste
 newtab-widget-lists-menu-edit2 =
