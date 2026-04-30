@@ -856,6 +856,40 @@ newtab-promo-card-dismiss-button =
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teamam slědować
+newtab-sports-widget-menu-view-upcoming = Přichodny pokazać
+newtab-sports-widget-menu-view-results = Wuslědki pokazać
+newtab-sports-widget-menu-learn-more = Dalše informacije
+newtab-sports-widget-countdown-title = Countdown k swětowemu mišterstwu
+newtab-sports-widget-get-updates = Dóstańće aktualizacije live a wjace.
+newtab-sports-widget-follow-teams =
+    .label = Teamam slědować
+newtab-sports-widget-choose-wallpaper =
+    .label = Wubjerće pozadkowy wobraz
+newtab-sports-widget-skip = Přeskočić
+newtab-sports-widget-search-teams =
+    .placeholder = Teamy pytać
+    .aria-label = Teamy pytać
+newtab-sports-widget-done-button =
+    .label = Dokónčeny
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Wuslědki aktualizować
+    .aria-label = Wuslědki aktualizować
+newtab-sports-widget-upcoming = Přichodne
+newtab-sports-widget-results = Wuslědki
+newtab-sports-widget-semi-finals = Połfinala
+newtab-sports-widget-bronze-finals = Hra wo městno 3
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Zapozdźeny
+newtab-sports-widget-postponed = Wotstorčeny
+newtab-sports-widget-suspended = Wotprajeny
+newtab-sports-widget-cancelled = Anulowany
+newtab-sports-widget-information = Informacije wo hrě
+newtab-sports-widget-view-results-link = Wuslědki pokazać
+newtab-sports-widget-third-place = Třeće městno
+newtab-sports-widget-champions = Mištrojo
+newtab-sports-widget-world-cup-champions = Swětowi mištrojo 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

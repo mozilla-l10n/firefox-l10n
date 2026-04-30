@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Wjace wot { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Wjace wot { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Wjace wot { -vendor-short-name }
 more-from-moz-subtitle = Wuslědźće druhe produkty { -vendor-short-name }, kotrež strowy internet podpěruja.
 more-from-moz-firefox-mobile-title = Mobilny { -brand-product-name }
 more-from-moz-firefox-mobile-description = Mobilny wobhladowak, kotryž wašu priwatnosć na prěnje městno staja.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } za mobilne graty
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } za mobilne graty
+    .description = Mobilny wobhladowak, kotryž wašu priwatnosć na prěnje městno staja.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Wotkryjće přidatu runinu anonymneho přehladowanja a škita.
 more-from-moz-qr-code-box-firefox-mobile-title = Sćehńće z pomocu swojeho mobilneho grata. Měrće swoju kameru na QR-kod. Hdyž so wotkaz jewi, podótkńće so jeho.
@@ -46,3 +51,13 @@ more-from-moz-solo-title-2 = Twórc websydłow KI { -solo-ai-brand-name }
 more-from-moz-mdn-description = Wukńće webwuwiće z darmotnymi, wobšěrnymi nawodami a referencami.
 more-from-moz-mdn-button = Webwuwiće wuknyć
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } wobstarać
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Nowe produkty { -vendor-short-name }
+more-from-moz-new-products-description = Wuslědźće najnowše produkty { -vendor-short-name }.

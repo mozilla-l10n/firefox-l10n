@@ -363,6 +363,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
     .label = Temporisator
+newtab-custom-widget-sports-toggle =
+    .label = Cuppa del Mundo
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -734,6 +736,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Completate ({ $number })
+newtab-widget-lists-celebration-headline = Optime labor
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Modificar le nomine del lista
 newtab-widget-lists-menu-edit2 =
@@ -754,6 +757,8 @@ newtab-widget-lists-input-menu-move-up = Mover in alto
 newtab-widget-lists-input-menu-move-down = Mover in basso
 newtab-widget-lists-input-menu-delete = Deler
 newtab-widget-lists-input-menu-edit = Modificar
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Elemento redigite
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear un nove lista
@@ -839,6 +844,34 @@ newtab-promo-card-cta = Pro saper plus
 newtab-promo-card-dismiss-button =
     .title = Clauder
     .aria-label = Clauder
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Sequer equipas
+newtab-sports-widget-menu-learn-more = Pro saper plus
+newtab-sports-widget-countdown-title = Computo a retro al Cuppa del mundo
+newtab-sports-widget-get-updates = Obtene actualisationes al vivo del incontros e plus.
+newtab-sports-widget-follow-teams =
+    .label = Sequer equipas
+newtab-sports-widget-choose-wallpaper =
+    .label = Eliger un fundo de schermo
+newtab-sports-widget-skip = Saltar
+newtab-sports-widget-done-button =
+    .label = Facite
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = AL VIVO
+newtab-sports-widget-upcoming = Proximemente
+newtab-sports-widget-results = Resultatos
+newtab-sports-widget-semi-finals = Semi-finales
+newtab-sports-widget-bronze-finals = Final pro le medalia de bronzo
+newtab-sports-widget-final = Final
+newtab-sports-widget-delayed = Retardate
+newtab-sports-widget-cancelled = Cancellate
+newtab-sports-widget-information = Informationes re le incontro
+newtab-sports-widget-view-results-link = Visualisar resultatos
+newtab-sports-widget-third-place = Tertie posto
+newtab-sports-widget-champions = Campiones
+newtab-sports-widget-world-cup-champions = Campiones de Cuppa del mundo 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

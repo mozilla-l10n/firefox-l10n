@@ -71,6 +71,10 @@ category-ai-controls =
 pane-accessibility-title = נגישות
     .title = { pane-accessibility-title }
 pane-languages-title = שפות
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = ניסויים של { -brand-short-name }
 category-experimental =
     .tooltiptext = ניסויים של { -brand-short-name }
@@ -78,6 +82,8 @@ pane-experimental-subtitle = נא להמשיך בזהירות
 pane-experimental-search-results-header = ניסויים של { -brand-short-name }: נא להמשיך בזהירות
 pane-experimental-description2 = שינוי הגדרות התצורה המתקדמות עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = נסו את התכונות הניסיוניות שלנו! הן נמצאות בפיתוח ומשתדרגות עם הזמן, דבר שעשוי להשפיע על אופן הפעולה של { -brand-short-name }. אנו מקבלים נתונים על אופן השימוש שלך בתכונות אלה רק אם האפשרות <a data-l10n-name="data-collection">נתונים טכניים ונתוני אינטראקציה</a> הופעלה.
@@ -1020,6 +1026,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = שעון עצר
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = ספורט
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = תמיכה ב־{ -brand-product-name }

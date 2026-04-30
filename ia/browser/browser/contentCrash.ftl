@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Non plus monstrar.
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Tu ha un recente reporto de crash non inviate
+       *[other] Tu ha { $reportCount } reportos de crash non inviate
+    }

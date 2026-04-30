@@ -62,3 +62,39 @@ more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } 받기
 
 more-from-moz-new-products-title = { -vendor-short-name } 새 제품
 more-from-moz-new-products-description = { -vendor-short-name }의 최신 제품을 살펴보세요.
+more-from-moz-new-products-button = 새 제품 보기
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = 휴대폰이나 태블릿의 카메라로 스캔하여 앱을 받으세요. 링크가 나타나면 탭하세요.
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = 무료 스캔을 통해 온라인에서 사용자의 개인 정보가 노출된 곳을 확인하세요.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = 브라우저뿐 아니라 모든 앱에 강화된 보호 기능을 적용하세요. 공용 Wi-Fi 및 보안이 취약한 네트워크에서도 데이터를 안전하게 보호하세요.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = 무료 이메일 가리기로 받은 편지함을 스팸으로부터 보호하세요.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = 무료 가이드와 참고 자료를 통해 웹 개발을 배워보세요.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = 이메일, 캘린더, 연락처를 하나의 빠른 앱에서 모두 확인하세요.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = 저희의 최신 아이디어와 실험적인 기술을 살펴보세요.
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name } 새 제품
+    .description = { -vendor-short-name }의 최신 제품을 확인해 보세요.
+more-from-moz-mozilla-monitor-box-link =
+    .label = { -monitor-brand-short-name } 받기
+more-from-moz-mozilla-vpn-box-link =
+    .label = { -mozilla-vpn-brand-name } 받기
