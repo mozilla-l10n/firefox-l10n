@@ -732,8 +732,13 @@ update-in-progress-cancel-button = &Ku’ejey
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name } mbohekopyahu
+    .description = Ñembohekopyahuita omoporãve { -brand-short-name } pya’e, rekopyta ha rekorosã.
 update-application-suppress-prompts-heading =
     .label = Ñemomarandu
+update-application-updates-managed-by-os =
+    .message = Ñembohekopyahuita omboguata nde apopyvusu
 
 ## Firefox support
 

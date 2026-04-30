@@ -421,6 +421,12 @@ quickactions-cmd-inspector = الفاحص، أدوات تطوير
 # Opens about:logins
 quickactions-logins2 = أدِر كلمات السر
 quickactions-cmd-logins = جلسات الولوج، كلمات السر
+# Mutes all tabs playing audio
+quickactions-mute = اكتم صوت الألسنة التي تشغل الصوت
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = اكتم, كتم الصوت, ششش, سكوت
 # Opens about:addons page in the plugins section
 quickactions-plugins = أدِر الملحقات
 quickactions-cmd-plugins = المُلحقات
@@ -549,9 +555,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = لست متصلاً مع هذا الموقع بأمان.
 identity-connection-verified = أنت متصل مع هذا الموقع بأمان.
 identity-ev-owner-label = أُصدرت الشّهادة إلى:
+identity-verifier-label = تحقق منها:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = مؤهل وفقًا لما هو محدد في اللائحة (الاتحاد الأوروبي) 2024/1183.
 identity-description-custom-root2 = لم تتعرّف Mozilla على مُصْدِر الشهادات هذا. لربّما أضافه نظام التشغيل أو أحد المدراء.
+identity-cert-exception-overridden = لقد أضفت استثناء آمن لهذا الموقع.
 identity-remove-cert-exception =
     .label = أزِل الاستثناء
     .accesskey = س
