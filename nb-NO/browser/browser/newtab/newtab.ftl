@@ -740,6 +740,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Fullført ({ $number })
 newtab-widget-lists-celebration-headline = Bra jobbet
+newtab-widget-lists-celebration-subhead = Alt klart
 newtab-widget-task-list-menu-copy = Kopier
 newtab-widget-lists-menu-edit = Rediger listenavn
 newtab-widget-lists-menu-edit2 =
@@ -765,12 +766,16 @@ newtab-widget-lists-dropdown-create =
     .label = + Lag en ny liste
 newtab-widget-lists-name-label-default =
     .label = Oppgaveliste
+newtab-widget-lists-name-label-checklist =
+    .label = Sjekkliste
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Oppgaveliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Ny liste
     .aria-label = Rediger listenavn
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Sjekkliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny liste
