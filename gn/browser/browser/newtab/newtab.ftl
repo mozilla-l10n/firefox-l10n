@@ -852,6 +852,30 @@ newtab-promo-card-dismiss-button =
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Esegi atyetápe
+newtab-sports-widget-menu-view-upcoming = Ehecha tenondegua
+newtab-sports-widget-menu-view-results = Ehecha mba’éicha osẽ
+newtab-sports-widget-menu-learn-more = Eikuaave
+newtab-sports-widget-countdown-title = Copa del Mundo ñeg̃uahẽ jepapa
+newtab-sports-widget-get-updates = Erekóta mbohekopyahu partído oiko jave ha hetave.
+newtab-sports-widget-follow-teams =
+    .label = Esegi atyetápe
+newtab-sports-widget-choose-wallpaper =
+    .label = Eiporavo mba’erechaha rugua
+newtab-sports-widget-skip = Jepo
+newtab-sports-widget-search-teams =
+    .placeholder = Atyeta jehekaha
+    .aria-label = Atyeta jehekaha
+newtab-sports-widget-done-button =
+    .label = Japopyre
+newtab-sports-widget-group-stage = Atygua jehuga
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = HECHAPY
+newtab-custom-widget-live-refresh =
+    .title = Embopyahu kytaita
+    .aria-label = Embopyahu kytaita
+newtab-sports-widget-upcoming = Oupotáva
+newtab-sports-widget-results = Apopyre
+newtab-sports-widget-semi-finals = Irundy opytáva
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

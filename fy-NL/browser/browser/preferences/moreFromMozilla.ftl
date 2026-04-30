@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Mear fan { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Mear fan { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mear fan { -vendor-short-name }
 more-from-moz-subtitle = Besjoch oare { -vendor-short-name }-produkten dy’t in sûn ynternet stypje.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobyl
 more-from-moz-firefox-mobile-description = De mobile browser dy’t jo privacy foarop stelt.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } foar Mobyl
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } foar Mobyl
+    .description = De mobile browser dy’t jo privacy foarop stelt.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Untdek in ekstra laach fan anonym navigearjen en beskerming.
 more-from-moz-qr-code-box-firefox-mobile-title = Downloade mei jo mobile apparaat. Rjochtsje jo kamera op de QR-koade. As der in keppeling ferskynt, tikke jo dêrop.
@@ -46,3 +51,44 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name }-AI-websitemakker
 more-from-moz-mdn-description = Lear webûntwikkeling mei fergese, wiidweidige hantliedingen en referinsjes.
 more-from-moz-mdn-button = Webûntwikkeling leare
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Fergeze e-mail, aginda en kontakten – organisearre op jo manier.
+more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } downloade
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Nije produkten fan { -vendor-short-name }
+more-from-moz-new-products-description = Untdek de nijste produkten fan { -vendor-short-name }.
+more-from-moz-new-products-button = Nije produkten besjen
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Scan mei de kamera fan jo telefoan of tablet om de app te downloaden. Tik op de keppeling as dizze ferskynt.
+more-from-moz-firefox-mobile-email-link = De downloadkeppeling per e-mail nei jo telefoan ferstjoere
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Untdek wêr’t jo persoanlike gegevens online lekt binne mei in fergeze scan.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Untfang ekstra beskerming foar alle apps – net allinnich jo browser. Hâld jo gegevens feilich op iepenbiere wifi en ûnfeilige netwurken.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Beskermje jo Postfek YN tsjin spam mei fergeze e-mailmaskearring.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Lear webûntwikling mei fergeze gidsen en referinsjes.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Tagong ta e-mail, aginda’s en kontakten yn ien rappe app.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Ferken ús nije ideeën en eksperimintele technologyen.

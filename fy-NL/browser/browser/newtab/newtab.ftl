@@ -880,6 +880,15 @@ newtab-sports-widget-semi-finals = Heale finalen
 newtab-sports-widget-bronze-finals = Treastfinale
 newtab-sports-widget-final = Finale
 newtab-sports-widget-delayed = Fertrage
+newtab-sports-widget-postponed = Utsteld
+newtab-sports-widget-suspended = Underbrutsen
+newtab-sports-widget-cancelled = Annulearre
+newtab-sports-widget-information = Ynformaasje oer de wedstriid
+newtab-sports-widget-no-live-data = Livewedstriidgegevens wurde op dit stuit net bywurke
+newtab-sports-widget-view-results-link = Resultaten besjen
+newtab-sports-widget-third-place = Tredde plak
+newtab-sports-widget-champions = Kampioen
+newtab-sports-widget-world-cup-champions = Wrâldkampioen 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
