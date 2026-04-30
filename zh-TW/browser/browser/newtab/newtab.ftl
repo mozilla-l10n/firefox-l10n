@@ -734,6 +734,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = 已完成（{ $number }）
+newtab-widget-lists-celebration-headline = 做得好
+newtab-widget-lists-celebration-subhead = 全部清除
 newtab-widget-task-list-menu-copy = 複製
 newtab-widget-lists-menu-edit = 編輯清單名稱
 newtab-widget-lists-menu-edit2 =
@@ -754,6 +756,8 @@ newtab-widget-lists-input-menu-move-up = 上移
 newtab-widget-lists-input-menu-move-down = 下移
 newtab-widget-lists-input-menu-delete = 刪除
 newtab-widget-lists-input-menu-edit = 編輯
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = 編輯項目
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 新增清單
@@ -839,6 +843,39 @@ newtab-promo-card-cta = 更多資訊
 newtab-promo-card-dismiss-button =
     .title = 知道了！
     .aria-label = 知道了！
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = 關注球隊
+newtab-sports-widget-menu-view-upcoming = 檢視即將到來的賽事
+newtab-sports-widget-menu-view-results = 看比賽結果
+newtab-sports-widget-menu-learn-more = 更多資訊
+newtab-sports-widget-countdown-title = 世界盃足球賽倒數計時
+newtab-sports-widget-get-updates = 獲得即時比賽資訊與更多資訊。
+newtab-sports-widget-follow-teams =
+    .label = 關注球隊
+newtab-sports-widget-choose-wallpaper =
+    .label = 挑選一張背景圖
+newtab-sports-widget-skip = 略過
+newtab-sports-widget-search-teams =
+    .placeholder = 搜尋隊伍
+    .aria-label = 搜尋隊伍
+newtab-sports-widget-done-button =
+    .label = 完成
+newtab-sports-widget-group-stage = 小組賽
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = 進行中
+newtab-custom-widget-live-refresh =
+    .title = 重新整理分數
+    .aria-label = 重新整理分數
+newtab-sports-widget-upcoming = 即將到來
+newtab-sports-widget-results = 結果
+newtab-sports-widget-semi-finals = 準決賽
+newtab-sports-widget-bronze-finals = 銅牌戰
+newtab-sports-widget-final = 決賽
+newtab-sports-widget-delayed = 延後
+newtab-sports-widget-suspended = 比賽暫停
+newtab-sports-widget-cancelled = 已取消
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

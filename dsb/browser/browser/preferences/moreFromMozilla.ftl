@@ -70,3 +70,39 @@ more-from-moz-new-products-button = Woglědajśo se nowe produkty
 more-from-moz-firefox-mobile-qr-promo =
     .message = Scannujśo z kameru swójogo telefona abo tableta, aby nałoženje dostał. Pótusniśo wótkaz, gaž se zjawijo.
 more-from-moz-firefox-mobile-email-link = Sćelśo swójomu telefonoju wótkaz ześěgnjenja pśez e-mail
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Wuslěźćo, źož waše wósobinske informacije su se online wustajili z dermotnym scannom.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Wobstarajśo se pśidatny šćit za wšykne nałoženja – nic jano za swój wobglědowak. Źaržćo swóje daty wěste w zjawnrm WLAN a njewěstych seśach.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Šćitajśo swóju e-mail pśed spamom z dermotnymi e-mailowymi maskami.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Wukniśo webwuwiśe z dermotnymi rozpokazowanjami a žrědłami.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Mějśo pśistup k swójej e-mejli, kalenderam a kontaktam w jadnem malsnem nałoženju.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Wuslěźćo naše ideje a eksperimentelne technologije.
+more-from-moz-mozilla-monitor-box-link =
+    .label = { -monitor-brand-short-name } wobstaraś
+more-from-moz-mozilla-vpn-box-link =
+    .label = { -mozilla-vpn-brand-name } wobstaraś
+more-from-moz-firefox-relay-box-link =
+    .label = { -relay-brand-short-name } wobstaraś
+more-from-moz-mdn-box-link =
+    .label = Pśistup MDN
+more-from-moz-thunderbird-box-link =
+    .label = { -thunderbird-brand-short-name } wobstaraś
+more-from-moz-solo-box-link =
+    .label = Wopytajśo { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Woglědajśo se nowe produkty

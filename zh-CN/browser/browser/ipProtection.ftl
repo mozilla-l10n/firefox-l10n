@@ -25,6 +25,8 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = 欢迎连接 VPN，现已内置于浏览器
 ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 隐藏真实位置、保护个人数据。
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = 再添加一层隐私保护
 ipprotection-feature-introduction-link-text-private-browsing-2 = 即使是在隐私窗口，使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 也能隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-description-private-browsing = 即使是在隐私窗口，也能隐藏真实位置，获得额外保护。
 # Used for callout shown on login to public wi-fi through a captive portal

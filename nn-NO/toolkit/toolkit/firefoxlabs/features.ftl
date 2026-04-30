@@ -82,6 +82,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Hald hugselist
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Vêrmeldingar
+experimental-features-newtab-widget-weather-description = Få ei oversikt over dagens vêr med timevarsel. <a data-l10n-name="connect">Del tilbakemelding</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Dagens bilde
