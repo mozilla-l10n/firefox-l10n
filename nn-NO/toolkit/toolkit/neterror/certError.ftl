@@ -149,7 +149,7 @@ fp-certerror-clock-skew-intro = Datamaskina di trur det er { DATETIME($now, date
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $now (Date) - The current datetime, to be formatted as a date
-fp-certerror-clock-skew-what-can-you-do-body = Oppdater klokka til datamaskina i systeminnstillingane til gjeldande dato, klokkeslett og tidssone. Datamaskina di trur det er { DATETIME($now, datestyle: "medium") }.
+fp-certerror-clock-skew-what-can-you-do-body = Oppdater klokka til datamaskina i systeminnstillingane til gjeldande dato, klokkeslett og tidssone. Datamaskina di trur det er { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
