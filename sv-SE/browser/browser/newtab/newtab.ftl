@@ -852,6 +852,7 @@ newtab-promo-card-dismiss-button =
 
 ## Sports widget
 
+newtab-sports-widget-menu-follow-teams = Följ lag
 newtab-sports-widget-menu-view-upcoming = Visa kommande
 newtab-sports-widget-menu-view-results = Visa resultat
 newtab-sports-widget-menu-learn-more = Läs mer
@@ -883,6 +884,7 @@ newtab-sports-widget-postponed = Uppskjuten
 newtab-sports-widget-suspended = Avstängd
 newtab-sports-widget-cancelled = Avbruten
 newtab-sports-widget-information = Information om matchen
+newtab-sports-widget-no-live-data = Live matchdata uppdateras inte just nu
 newtab-sports-widget-view-results-link = Visa resultat
 newtab-sports-widget-third-place = Tredje plats
 newtab-sports-widget-champions = Mästare
