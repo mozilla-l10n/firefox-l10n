@@ -766,6 +766,13 @@ newtab-widget-lists-name-label-checklist =
     .label = ჩამონათვალი
 newtab-widget-lists-name-placeholder-default =
     .placeholder = დავალებების სია
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = ჩამონათვალი
+    .aria-label = სიის გადარქმევა
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = ახალი სია
+    .aria-label = სიის გადარქმევა
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = ჩამონათვალი
 # The placeholder value of the name field for a newly created list
