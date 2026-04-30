@@ -766,6 +766,13 @@ newtab-widget-lists-name-label-checklist =
     .label = Tysýi hechajeyha
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Tembiaporã rysýi
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Tysýi hechajeyha
+    .aria-label = Embosako’i tysýi réra
+# The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Tysýi pyahu
+    .aria-label = Embosako’i tysýi réra
 newtab-widget-lists-name-placeholder-checklist =
     .placeholder = Tysýi hechajeyha
 # The placeholder value of the name field for a newly created list
