@@ -68,7 +68,7 @@ more-from-moz-new-products-button = Wobhladajće sej nowe produkty
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
 more-from-moz-firefox-mobile-qr-promo =
-    .message = Skenujće ze kameru swojeho telefona abo tableta, zo byšće nałoženje dóstał. Podótkńće so wotkaza, hdyž so zjewi.
+    .message = Skenujće z kameru swojeho telefona abo tableta, zo byšće nałoženje dóstał. Podótkńće so wotkaza, hdyž so zjewi.
 more-from-moz-firefox-mobile-email-link = Sćelće swojemu telefonej wotkaz sćehnjenja přez e-mejl
 
 ## Product card strings for the config-based path. Each entry provides both

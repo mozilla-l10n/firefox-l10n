@@ -847,6 +847,21 @@ newtab-sports-widget-countdown-title = Nedteljing til VM
 newtab-sports-widget-get-updates = Få direkte kampoppdateringar og meir.
 newtab-sports-widget-choose-wallpaper =
     .label = Vel eit bakgrunnsbilde
+newtab-sports-widget-skip = Hopp over
+newtab-sports-widget-done-button =
+    .label = Ferdig
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = DIREKTE
+newtab-sports-widget-upcoming = Komande
+newtab-sports-widget-results = Resultat
+newtab-sports-widget-semi-finals = Semifinalar
+newtab-sports-widget-bronze-finals = Bronsefinale
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Forseinka
+newtab-sports-widget-postponed = Utsett
+newtab-sports-widget-information = Informasjon om kampen
+newtab-sports-widget-view-results-link = Vis resultat
+newtab-sports-widget-third-place = Tredjeplass
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

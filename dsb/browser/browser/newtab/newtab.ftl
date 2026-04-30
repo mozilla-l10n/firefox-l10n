@@ -872,6 +872,27 @@ newtab-sports-widget-search-teams =
     .aria-label = Teamy pytaś
 newtab-sports-widget-done-button =
     .label = Dokóńcony
+newtab-sports-widget-group-stage = Kupkowa faza
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = LIVE
+newtab-custom-widget-live-refresh =
+    .title = Wuslědki aktualizěrowaś
+    .aria-label = Wuslědki aktualizěrowaś
+newtab-sports-widget-upcoming = Pśichodne
+newtab-sports-widget-results = Wuslědki
+newtab-sports-widget-semi-finals = Połfinale
+newtab-sports-widget-bronze-finals = Graśe wó městno 3
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Wokomuźony
+newtab-sports-widget-postponed = Wótstarcony
+newtab-sports-widget-suspended = Wótgronjony
+newtab-sports-widget-cancelled = Anulěrowany
+newtab-sports-widget-information = Informacije wó graśu
+newtab-sports-widget-no-live-data = Daty graśa live se ned njeaktualizěruju
+newtab-sports-widget-view-results-link = Wuslědki pokazaś
+newtab-sports-widget-third-place = Tśeśe městno
+newtab-sports-widget-champions = Mejstarje
+newtab-sports-widget-world-cup-champions = Swětowe mejstarje 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
