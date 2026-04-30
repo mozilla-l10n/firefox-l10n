@@ -90,6 +90,11 @@ smartblock-placeholder-title = { $trackername } пратиоци и садржа
 smartblock-placeholder-desc = Ваша { -brand-short-name } подешавања су блокирала овај садржај како вас не би пратио на различитим сајтовима или био коришћен за огласе.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Дозволи на { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Садржај из блокираног гнежђења
 
 ##
 
