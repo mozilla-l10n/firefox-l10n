@@ -371,6 +371,8 @@ newtab-custom-widget-lists-toggle =
     .label = Lisćiny
 newtab-custom-widget-timer-toggle =
     .label = Časoměr
+newtab-custom-widget-sports-toggle =
+    .label = Swětowe mišterstwo
 newtab-custom-widget-section-title = Asistenty
 newtab-custom-widget-section-toggle =
     .label = Asistenty
@@ -742,6 +744,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Dokónčeny ({ $number })
+newtab-widget-lists-celebration-headline = Dobre dźěło
 newtab-widget-task-list-menu-copy = Kopěrować
 newtab-widget-lists-menu-edit = Mjeno lisćiny wobdźěłać
 newtab-widget-lists-menu-edit2 =
@@ -762,6 +765,8 @@ newtab-widget-lists-input-menu-move-up = Horje
 newtab-widget-lists-input-menu-move-down = Dele
 newtab-widget-lists-input-menu-delete = Zhašeć
 newtab-widget-lists-input-menu-edit = Wobdźěłać
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Zapisk wobdźěłać
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu wutworić
@@ -847,6 +852,10 @@ newtab-promo-card-cta = Dalše informacije
 newtab-promo-card-dismiss-button =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Teamam slědować
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
