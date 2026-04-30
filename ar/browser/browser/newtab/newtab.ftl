@@ -737,6 +737,10 @@ newtab-promo-card-dismiss-button =
     .title = أهمِل
     .aria-label = أهمِل
 
+## Sports widget
+
+newtab-sports-widget-skip = تخطَّ
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
