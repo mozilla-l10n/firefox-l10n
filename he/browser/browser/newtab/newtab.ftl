@@ -734,10 +734,16 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-completed-list = הושלמו ({ $number })
 newtab-widget-task-list-menu-copy = העתקה
 newtab-widget-lists-menu-edit = עריכת שם הרשימה
+newtab-widget-lists-menu-edit2 =
+    .aria-label = עריכת שם הרשימה
 newtab-widget-lists-menu-create = יצירת רשימה חדשה
 newtab-widget-lists-menu-delete = מחיקת רשימה זו
 newtab-widget-lists-menu-copy = העתקת הרשימה ללוח העריכה
 newtab-widget-lists-menu-learn-more = מידע נוסף
+newtab-widget-lists-button-add-item = הוספת פריט
+newtab-widget-lists-input-add-an-item2 =
+    .placeholder = הוספת פריט
+    .aria-label = הוספת פריט
 newtab-widget-lists-input-add-an-item =
     .placeholder = הוספת פריט
 newtab-widget-lists-input-error = נא לכלול טקסט כדי להוסיף פריט.
@@ -784,8 +790,7 @@ newtab-widget-section-menu-learn-more = מידע נוסף
 newtab-widget-section-feedback = ספרו לנו מה דעתכם
 newtab-widget-lists-name-default = רשימת תיוג
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-notification-title = שעון עצר
 newtab-widget-timer-notification-focus = זמן הריכוז נגמר. עבודה יפה. יש לך צורך בהפסקה?
@@ -829,6 +834,9 @@ newtab-promo-card-cta = מידע נוסף
 newtab-promo-card-dismiss-button =
     .title = סגירה
     .aria-label = סגירה
+
+## Sports widget
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
