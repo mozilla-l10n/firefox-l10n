@@ -10,6 +10,8 @@ more-from-moz-title =
         [with-cases] Více od { -vendor-short-name(case: "gen") }
        *[no-cases] Více od společnosti { -vendor-short-name }
     }
+more-from-moz-page-header =
+    .heading = Více od společnosti { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext =
         { -vendor-short-name.case-status ->
@@ -62,3 +64,14 @@ more-from-moz-solo-title-2 = Tvůrce webových stránek { -solo-ai-brand-name }
 more-from-moz-mdn-description = Naučte se vyvíjet webové stránky pomocí bezplatných, komplexních průvodců a referencí.
 more-from-moz-mdn-button = Naučit se vývoj webových aplikací
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = E-mail, kalendář a kontakty zdarma – uspořádané podle vašich představ.
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Nové produkty společnosti { -vendor-short-name }
+more-from-moz-new-products-description = Objevte nejnovější produkty od společnosti { -vendor-short-name }.
+more-from-moz-new-products-button = Podívejte se na nové produkty

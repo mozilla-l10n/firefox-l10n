@@ -789,17 +789,23 @@ newtab-widget-lists-input-menu-move-up = Posunout výše
 newtab-widget-lists-input-menu-move-down = Posunout níže
 newtab-widget-lists-input-menu-delete = Smazat
 newtab-widget-lists-input-menu-edit = Upravit
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Upravit položku
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Vytvořit nový seznam
 newtab-widget-lists-name-label-default =
     .label = Seznam úkolů
+newtab-widget-lists-name-label-checklist =
+    .label = Kontrolní seznam
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Seznam úkolů
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nový seznam
     .aria-label = Upravit název seznamu
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Kontrolní seznam
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nový seznam
@@ -819,6 +825,8 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimalizovat wigety
     .aria-label = Sbalení všech widgetů na kompaktní velikost
+newtab-widget-section-menu-hide-all = Skrýt widgety
+newtab-widget-section-menu-learn-more = Zjistit více
 newtab-widget-section-feedback = Sdělte nám svůj názor
 
 ## Sports widget
@@ -865,6 +873,16 @@ newtab-promo-card-cta = Zjistit více
 newtab-promo-card-dismiss-button =
     .title = Zavřít
     .aria-label = Zavřít
+
+## Sports widget
+
+newtab-sports-widget-suspended = Pozastaveno
+newtab-sports-widget-cancelled = Zrušeno
+newtab-sports-widget-information = Informace o zápase
+newtab-sports-widget-no-live-data = Data o aktuálních zápasech se aktuálně neaktualizují
+newtab-sports-widget-view-results-link = Zobrazit výsledky
+newtab-sports-widget-third-place = Třetí místo
+newtab-sports-widget-world-cup-champions = Mistrovství světa ve fotbale 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
