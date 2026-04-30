@@ -716,6 +716,10 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Рӯйхати вазифаҳо
 # The placeholder value of the name field for a newly created list
+newtab-widget-lists-name-placeholder-new2 =
+    .placeholder = Рӯйхати нав
+    .aria-label = Таҳрир кардани номи рӯйхат
+# The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Рӯйхати нав
 newtab-widget-section-title = Виҷетҳо
