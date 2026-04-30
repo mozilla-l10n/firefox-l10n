@@ -618,9 +618,6 @@ newtab-new-user-custom-wallpaper-title = Sèbera un’isfundu pro ti fàghere un
 newtab-new-user-custom-wallpaper-subtitle = Intende·ti a domo cun is isfundos e is colores personalizados pro is ischedas noas.
 newtab-new-user-custom-wallpaper-cta = Proa·ddu immoe
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Iscàrriga { -brand-product-name } pro dispositivos mòbiles
@@ -751,9 +748,6 @@ newtab-promo-card-cta = Àteras informatziones
 newtab-promo-card-dismiss-button =
     .title = Iscarta
     .aria-label = Iscarta
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

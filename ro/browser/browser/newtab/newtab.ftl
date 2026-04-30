@@ -625,9 +625,6 @@ newtab-new-user-custom-wallpaper-title = Alege o imagine de fundal ca să person
 newtab-new-user-custom-wallpaper-subtitle = Fă să simți fiecare filă nouă ca a ta, cu imagini de fundal și culori personalizate.
 newtab-new-user-custom-wallpaper-cta = Încearcă acum
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descarcă { -brand-product-name } pentru mobil
@@ -772,9 +769,6 @@ newtab-promo-card-cta = Află mai multe
 newtab-promo-card-dismiss-button =
     .title = Respinge
     .aria-label = Respinge
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

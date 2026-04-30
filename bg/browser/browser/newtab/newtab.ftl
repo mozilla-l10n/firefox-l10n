@@ -505,8 +505,7 @@ newtab-widget-lists-menu-delete = Изтриване на този списък
 newtab-widget-lists-menu-learn-more = Научете повече
 newtab-widget-lists-input-menu-delete = Изтриване
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа

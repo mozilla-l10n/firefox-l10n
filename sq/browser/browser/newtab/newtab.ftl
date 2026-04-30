@@ -614,9 +614,6 @@ newtab-new-user-custom-wallpaper-title = Zgjidhni një sfond, për ta bërë { -
 newtab-new-user-custom-wallpaper-subtitle = Bëjeni çdo skedë të re t’ju duket si shtëpia juaj, me sfonde dhe ngjyra tuajat.
 newtab-new-user-custom-wallpaper-cta = Provojeni tani
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Shkarkoni { -brand-product-name } për celular
@@ -755,9 +752,6 @@ newtab-promo-card-cta = Mësoni më tepër
 newtab-promo-card-dismiss-button =
     .title = Hidhe tej
     .aria-label = Hidheni tej
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

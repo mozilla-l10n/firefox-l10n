@@ -639,9 +639,6 @@ newtab-new-user-custom-wallpaper-title = Odaberi pozadinu te prilagodi { -brand-
 newtab-new-user-custom-wallpaper-subtitle = Neka svaka nova kartice pruža osjećaj doma uz prilagođene pozadine i boje.
 newtab-new-user-custom-wallpaper-cta = Isprobajte sada
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmi { -brand-product-name } za mobilne uređaje
@@ -802,9 +799,6 @@ newtab-promo-card-cta = Saznajte više
 newtab-promo-card-dismiss-button =
     .title = Odbaci
     .aria-label = Odbaci
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

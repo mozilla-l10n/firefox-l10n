@@ -74,9 +74,6 @@ newtab-topsites-image-url-label = URL dal maletg persunalisà
 newtab-topsites-use-image-link = Utilisar in maletg persunalisà…
 newtab-topsites-image-validation = Impussibel da chargiar il maletg. Emprova in auter URL.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Interrumper
@@ -610,9 +607,6 @@ newtab-new-user-custom-wallpaper-title = Tscherna in maletg dal fund davos per p
 newtab-new-user-custom-wallpaper-subtitle = Persunalisescha novs tabs cun tscherner tes agen maletg dal fund davos ed atgnas colurs.
 newtab-new-user-custom-wallpaper-cta = Ussa empruvar
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Telechargia { -brand-product-name } per apparats mobils
@@ -738,12 +732,3 @@ newtab-promo-card-cta = Ulteriuras infurmaziuns
 newtab-promo-card-dismiss-button =
     .title = Serrar
     .aria-label = Serrar
-
-## Sports widget
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-

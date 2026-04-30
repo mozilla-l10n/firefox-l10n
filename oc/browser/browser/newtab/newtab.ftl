@@ -456,8 +456,7 @@ newtab-widget-lists-menu-create = Crear una lista novèla
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Lista novèla
 
-## Strings for timer productivity widget
-## When the timer ends, a system notification may be shown. Depending on which mode the timer is in, that message would be shown
+## Sports widget
 
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed

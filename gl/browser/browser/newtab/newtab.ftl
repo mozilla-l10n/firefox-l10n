@@ -74,9 +74,6 @@ newtab-topsites-image-url-label = URL da imaxe personalizada
 newtab-topsites-use-image-link = Usar unha imaxe personalizada…
 newtab-topsites-image-validation = Produciuse un fallo ao cargar a imaxe. Probe un URL diferente.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Cancelar
@@ -455,9 +452,6 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
 
-## Firefox
-
-
 ## Celestial
 
 # “Celestial” referring to astronomy; positioned in or relating to the sky,
@@ -595,9 +589,6 @@ newtab-new-user-custom-wallpaper-title = Escolle un fondo de pantalla para facer
 newtab-new-user-custom-wallpaper-subtitle = Fai que cada nova pestana se sinta como na casa con fondos de pantalla e cores personalizados.
 newtab-new-user-custom-wallpaper-cta = Probar agora
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móbil
@@ -673,12 +664,3 @@ newtab-promo-card-cta = Máis información
 newtab-promo-card-dismiss-button =
     .title = Rexeitar
     .aria-label = Rexeitar
-
-## Sports widget
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-

@@ -620,9 +620,6 @@ newtab-new-user-custom-wallpaper-title = Vælg en baggrund for at gøre { -brand
 newtab-new-user-custom-wallpaper-subtitle = Føl dig hjemme på alle nye faneblade med tilpassede baggrunde og farver.
 newtab-new-user-custom-wallpaper-cta = Prøv det nu
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Hent { -brand-product-name } til mobil
@@ -761,9 +758,6 @@ newtab-promo-card-cta = Lær mere
 newtab-promo-card-dismiss-button =
     .title = Afvis
     .aria-label = Afvis
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

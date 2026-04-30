@@ -636,9 +636,6 @@ newtab-new-user-custom-wallpaper-title = Выберыце шпалеры, каб
 newtab-new-user-custom-wallpaper-subtitle = Зрабіце кожную новую картку як дома з дапамогай карыстальніцкіх шпалер і колераў.
 newtab-new-user-custom-wallpaper-cta = Паспрабаваць зараз
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Сцягнуць { -brand-product-name } для мабільных прылад
@@ -799,9 +796,6 @@ newtab-promo-card-cta = Падрабязней
 newtab-promo-card-dismiss-button =
     .title = Адхіліць
     .aria-label = Адхіліць
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

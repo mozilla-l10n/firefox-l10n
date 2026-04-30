@@ -588,9 +588,6 @@ newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = نزّل { -brand-product-name } للجوّال
@@ -739,9 +736,6 @@ newtab-promo-card-cta = اطّلع على المزيد
 newtab-promo-card-dismiss-button =
     .title = أهمِل
     .aria-label = أهمِل
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

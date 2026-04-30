@@ -633,9 +633,6 @@ newtab-new-user-custom-wallpaper-title = Elige un fondo de pantalla para que { -
 newtab-new-user-custom-wallpaper-subtitle = Haz que cada nueva pestaña se sienta como en casa con fondos de pantalla y colores personalizados.
 newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Descargar { -brand-product-name } para móviles
@@ -796,9 +793,6 @@ newtab-promo-card-cta = Más información
 newtab-promo-card-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
-
-## Sports widget
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
