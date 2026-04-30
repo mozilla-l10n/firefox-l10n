@@ -883,6 +883,11 @@ newtab-sports-widget-postponed = Mbohasapyre
 newtab-sports-widget-suspended = Jejokopyre
 newtab-sports-widget-cancelled = Hejapyre
 newtab-sports-widget-information = Marandu partído rehegua
+newtab-sports-widget-no-live-data = Mba’ekuaarãita partído rehegua ndahekopyahúi ko’ag̃aite
+newtab-sports-widget-view-results-link = Ehecha mba’éicha osẽ
+newtab-sports-widget-third-place = Osẽva mbohapyhápe
+newtab-sports-widget-champions = Campeón
+newtab-sports-widget-world-cup-champions = Copa Mundial 2026 oganáva
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

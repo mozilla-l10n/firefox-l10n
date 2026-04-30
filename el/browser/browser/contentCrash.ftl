@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Να μην εμφανιστεί ξανά
     .accesskey = Ν
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Έχετε μια πρόσφατη μη απεσταλμένη αναφορά σφαλμάτων
+       *[other] Έχετε { $reportCount } πρόσφατες μη απεσταλμένες αναφορές σφαλμάτων
+    }

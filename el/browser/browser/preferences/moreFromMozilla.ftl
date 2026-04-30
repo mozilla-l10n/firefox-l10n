@@ -48,3 +48,37 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } — Δημιουργία ι
 more-from-moz-mdn-description = Μάθετε προγραμματισμό web με δωρεάν, ολοκληρωμένους οδηγούς και αναφορές.
 more-from-moz-mdn-button = Εκμάθηση προγραμματισμού web
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-button = Λήψη του { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Νέα προϊόντα της { -vendor-short-name }
+more-from-moz-new-products-button = Προβολή νέων προϊόντων
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Μάθετε πού έχουν εκτεθεί οι προσωπικές σας πληροφορίες στο διαδίκτυο με μια δωρεάν σάρωση.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Λάβετε επιπλέον προστασία για όλες τις εφαρμογές, όχι μόνο για το πρόγραμμα περιήγησής σας. Διατηρήστε τα δεδομένα σας ασφαλή σε δημόσια Wi-Fi και επισφαλή δίκτυα.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Λήψη του { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Λήψη του { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Λήψη του { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Πρόσβαση στο MDN
+more-from-moz-thunderbird-box-link =
+    .label = Λήψη του { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Δοκιμή του { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Προβολή νέων προϊόντων

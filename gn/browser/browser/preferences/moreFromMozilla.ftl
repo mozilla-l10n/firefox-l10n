@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Hetave { -vendor-short-name }-gui
+more-from-moz-page-header =
+    .heading = Hetave { -vendor-short-name }-gui
 more-from-moz-category =
     .tooltiptext = Hetave { -vendor-short-name }-gui
 more-from-moz-subtitle = Ehecha ambue { -vendor-short-name } ojapopyre oikóva oykeko hag̃ua Ñanduti hesãivape.
