@@ -445,6 +445,8 @@ set-default-menu-message-primary-button-variant = Vel som primærnettlesar
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 e-postalias, gratis
 relay-50-masks-announcement-primary-button = Gå til { -relay-brand-name }
     .accesskey = G
 relay-50-masks-announcement-secondary-button = Ignorer
