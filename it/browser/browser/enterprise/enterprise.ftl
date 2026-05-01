@@ -13,10 +13,38 @@ enterprise-panel-information = Sei connesso a un browser gestito dalla tua azien
 enterprise-panel-learn-more = Ulteriori informazioni
 enterprise-panel-sign-out-btn =
     .label = Disconnetti…
-enterprise-signout-prompt-title = Disconnettersi da { -brand-short-name }?
-enterprise-signout-prompt-message = Stai effettuando la disconnessione dal browser { -brand-short-name }. Per accedere nuovamente, dovrai autenticarti di nuovo tramite il provider SSO della tua azienda.
-enterprise-signout-prompt-checkbox-label = Visualizza questo messaggio al momento della disconnessione.
-enterprise-signout-prompt-primary-btn-label = Disconnetti
+enterprise-close-prompt-title = Chiudere { -brand-short-name }?
+# Variables:
+#   $tabCount (Number): The number of tabs to be closed.
+enterprise-close-prompt-title-with-tabcount-and-signout-warning =
+    { $tabCount ->
+        [one] Chiudere { -brand-short-name } e { $tabCount } scheda?
+       *[other] Chiudere { -brand-short-name } e { $tabCount } schede?
+    }
+# Variables:
+#   $tabCount (Number): The number of tabs to be closed.
+enterprise-close-prompt-title-with-tabcount =
+    { $tabCount ->
+        [one] Chiudere { $tabCount } scheda?
+       *[other] Chiudere { $tabCount } schede?
+    }
+enterprise-close-prompt-message = Stai per disconnetterti da { -brand-short-name } e chiudere la sessione.
+# Variables:
+#   $tabCount (Number): The number of tabs to be closed.
+enterprise-close-prompt-message-with-tabcount-and-signout-warning =
+    { $tabCount ->
+        [one] Stai per disconnetterti da { -brand-short-name } e chiudere { $tabCount } scheda.
+       *[other] Stai per disconnetterti da { -brand-short-name } e chiudere { $tabCount } schede.
+    }
+enterprise-close-prompt-message-with-tabcount = Chiudendo { -brand-short-name } verrai disconnesso.
+enterprise-close-prompt-message-reauth = Per utilizzare nuovamente { -brand-short-name }, dovrai autenticarti nuovamente tramite il provider SSO della tua organizzazione.
+enterprise-close-prompt-checkbox-label = Avvisami quando la chiusura di { -brand-short-name } comporta la disconnessione
+enterprise-close-prompt-tabs-checkbox-label = Avvisa quando si chiudono più schede
+enterprise-close-prompt-primary-btn-label = Chiudi e disconnetti
+enterprise-quit-shortcut-prompt-title-with-tabs = Uscire da { -brand-short-name } o chiudere la scheda corrente?
+enterprise-quit-shortcut-prompt-title = Chiudere la finestra e uscire da { -brand-short-name }?
+enterprise-quit-shortcut-prompt-message = Uscendo verrai disconnesso dalla sessione e dovrai autenticarti nuovamente tramite il provider SSO della tua organizzazione.
+enterprise-quit-shortcut-prompt-primary-btn-label = Esci e disconnetti
 restart-forced-title = Riavvia { -brand-short-name }
 restart-forced-heading = Riavvia per continuare a utilizzare { -brand-short-name }.
 restart-forced-intro = I criteri aziendali richiedono il riavvio di { -brand-short-name }.
