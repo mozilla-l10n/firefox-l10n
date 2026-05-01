@@ -49,6 +49,8 @@ ipprotection-site-settings-callout-button = Am înțeles
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Nou: Schimbă-ți locația
+ipprotection-location-selection-callout-description = VPN-ul încorporat în <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> îți permite să alegi dintre 5 locații de navigare pe internet sau ne poți lăsa pe noi să o alegem pe cea mai rapidă.
+ipprotection-location-selection-callout-primary-button = Încearcă
 
 ## Panel
 
