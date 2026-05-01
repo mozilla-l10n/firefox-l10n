@@ -850,6 +850,36 @@ newtab-promo-card-dismiss-button =
     .title = Απόρριψη
     .aria-label = Απόρριψη
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } λεπτό
+           *[other] { $minutes } λεπτά
+        }
+newtab-widget-timer-decrease-min =
+    .title = Μείωση κατά 1 λεπτό
+newtab-widget-timer-increase-min =
+    .title = Αύξηση κατά 1 λεπτό
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Συγκέντρωση
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Διάλειμμα
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Απόκρυψη αντίστροφης μέτρησης
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Καλή δουλειά
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Το διάλειμμά σας τελείωσε
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Χρειάζεστε διάλειμμα;
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Έτοιμοι για συγκέντρωση;
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Παρακολούθηση ομάδων
@@ -857,7 +887,24 @@ newtab-sports-widget-menu-view-upcoming = Προβολή επερχόμενων
 newtab-sports-widget-menu-view-results = Προβολή αποτελεσμάτων
 newtab-sports-widget-menu-learn-more = Μάθετε περισσότερα
 newtab-sports-widget-countdown-title = Αντίστροφη μέτρηση για το Παγκόσμιο Κύπελλο
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = Η
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = Ώ
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = Λ
 newtab-sports-widget-get-updates = Λάβετε ενημερώσεις αγώνων σε πραγματικό χρόνο και πολλά άλλα.
+newtab-sports-widget-view-schedule =
+    .label = Προβολή προγράμματος
 newtab-sports-widget-follow-teams =
     .label = Παρακολούθηση ομάδων
 newtab-sports-widget-choose-wallpaper =
@@ -888,6 +935,8 @@ newtab-sports-widget-information = Πληροφορίες για τον αγών
 newtab-sports-widget-no-live-data = Τα δεδομένα ζωντανού αγώνα δεν ενημερώνονται αυτήν τη στιγμή
 newtab-sports-widget-view-results-link = Προβολή αποτελεσμάτων
 newtab-sports-widget-third-place = Τρίτη θέση
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Φιναλίστ
 newtab-sports-widget-champions = Πρωταθλητές
 newtab-sports-widget-world-cup-champions = Πρωταθλητές Παγκοσμίου Κυπέλλου 2026
 

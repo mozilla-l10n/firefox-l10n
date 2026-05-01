@@ -854,6 +854,19 @@ newtab-promo-card-dismiss-button =
     .title = Zachyśiś
     .aria-label = Zachyśiś
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes }-minutowy casowe měritko startowaś
+            [two] { $minutes }-minutowy casowe měritko startowaś
+            [few] { $minutes }-minutowy casowe měritko startowaś
+           *[other] { $minutes }-minutowy casowe měritko startowaś
+        }
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teamam slědowaś

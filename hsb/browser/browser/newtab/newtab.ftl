@@ -854,6 +854,52 @@ newtab-promo-card-dismiss-button =
     .title = Zaćisnyć
     .aria-label = Zaćisnyć
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes }-mjeńšinowy časoměr startować
+            [two] { $minutes }-mjeńšinowy časoměr startować
+            [few] { $minutes }-mjeńšinowy časoměr startować
+           *[other] { $minutes }-mjeńšinowy časoměr startować
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Časoměr zastajić
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } mjeńšina
+            [two] { $minutes } mjeńšinje
+            [few] { $minutes } mjeńšiny
+           *[other] { $minutes } mjeńšin
+        }
+newtab-widget-timer-decrease-min =
+    .title = Wo 1 mjeńšinu pomjeńšić
+newtab-widget-timer-increase-min =
+    .title = Wo 1 mjeńšinu powyšić
+newtab-widget-timer-mode-group =
+    .aria-label = Modus časoměra
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Přestawka
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Časoměr schować
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Dobre dźěło
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Waša přestawka je nimo
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Trjebaće přestawku?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Sće hotowy so koncentrować?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teamam slědować
@@ -861,7 +907,24 @@ newtab-sports-widget-menu-view-upcoming = Přichodny pokazać
 newtab-sports-widget-menu-view-results = Wuslědki pokazać
 newtab-sports-widget-menu-learn-more = Dalše informacije
 newtab-sports-widget-countdown-title = Countdown k swětowemu mišterstwu
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Dóstańće aktualizacije live a wjace.
+newtab-sports-widget-view-schedule =
+    .label = Hrajny plan pokazać
 newtab-sports-widget-follow-teams =
     .label = Teamam slědować
 newtab-sports-widget-choose-wallpaper =
@@ -892,6 +955,8 @@ newtab-sports-widget-information = Informacije wo hrě
 newtab-sports-widget-no-live-data = Daty hry live so hnydom njeaktualizuja
 newtab-sports-widget-view-results-link = Wuslědki pokazać
 newtab-sports-widget-third-place = Třeće městno
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Druhe městno
 newtab-sports-widget-champions = Mištrojo
 newtab-sports-widget-world-cup-champions = Swětowi mištrojo 2026
 

@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Wodźenske elementy KI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Wo { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Bjezbarjernosć
     .title = { pane-accessibility-title }
 pane-languages-title = Rěče
@@ -709,6 +711,9 @@ update-application-allow-description = { -brand-short-name } dowolić,
 update-application-auto =
     .label = Aktualizacije awtomatisce instalować (doporučene)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Aktualizacije pytać, ale wubrać, hdyž so instaluja
+    .accesskey = A
 update-application-check-choose =
     .label = Za aktualizacijemi pytać, ale prjedy so prašeć, hač maja so instalować
     .accesskey = Z
@@ -720,6 +725,9 @@ update-application-background-enabled =
     .accesskey = H
 update-application-warning-cross-user-setting-2 =
     .message = Tute nastajenje so na wšě konta Windows a profile { -brand-short-name } nałožuje, kotrež tutu instalaciju { -brand-short-name } wužiwaja.
+update-application-suppress-prompts-2 =
+    .label = Mjenje dopomnjećow na aktualizacije pokazać
+    .accesskey = M
 update-application-warning-cross-user-setting = Tute nastajenje so na wšě konta Windows a profile { -brand-short-name } nałožuje, kotrež tutu instalaciju { -brand-short-name } wužiwaja.
 update-application-use-service =
     .label = Pozadkowu słužbu za instalowanje aktualizacijow wužiwać
@@ -742,6 +750,11 @@ update-in-progress-ok-button = &Zaćisnyć
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Dale
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Wo { -brand-short-name }
 
 ## Firefox updates
 
