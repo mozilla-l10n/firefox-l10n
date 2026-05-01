@@ -876,6 +876,15 @@ newtab-sports-widget-semi-finals = Semifinales
 newtab-sports-widget-bronze-finals = Tercer puesto
 newtab-sports-widget-final = Final
 newtab-sports-widget-delayed = Retrasado
+newtab-sports-widget-postponed = Pospuesto
+newtab-sports-widget-suspended = Suspendido
+newtab-sports-widget-cancelled = Cancelado
+newtab-sports-widget-information = Información sobre el partido
+newtab-sports-widget-no-live-data = Los datos del partido en vivo no se están actualizando en este momento.
+newtab-sports-widget-view-results-link = Ver resultados
+newtab-sports-widget-third-place = Tercer lugar
+newtab-sports-widget-champions = Campeones
+newtab-sports-widget-world-cup-champions = Campeones de la Copa Mundial 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
