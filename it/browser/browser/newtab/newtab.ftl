@@ -852,6 +852,48 @@ newtab-promo-card-dismiss-button =
     .title = Chiudi
     .aria-label = Chiudi
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Avvia timer da { $minutes } minuti
+           *[other] Avvia timer da { $minutes } minuto
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Sospendi timer
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuto
+           *[other] { $minutes } minuti
+        }
+newtab-widget-timer-decrease-min =
+    .title = Diminuisci di 1 minuto
+newtab-widget-timer-increase-min =
+    .title = Aumenta di 1 minuto
+newtab-widget-timer-mode-group =
+    .aria-label = Modalità timer
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Concentrazione
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pausa
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Nascondi timer
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Ottimo lavoro
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = La pausa è finita
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Hai bisogno di una pausa?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Sei pronto a concentrarti?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Segui squadre
@@ -859,7 +901,24 @@ newtab-sports-widget-menu-view-upcoming = Visualizza in arrivo
 newtab-sports-widget-menu-view-results = Visualizza risultati
 newtab-sports-widget-menu-learn-more = Ulteriori informazioni
 newtab-sports-widget-countdown-title = Conto alla rovescia per i Mondiali
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = G
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Ricevi aggiornamenti in tempo reale sulle partite e altro ancora.
+newtab-sports-widget-view-schedule =
+    .label = Vedi il calendario
 newtab-sports-widget-follow-teams =
     .label = Segui squadre
 newtab-sports-widget-choose-wallpaper =
