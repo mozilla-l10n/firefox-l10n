@@ -649,7 +649,7 @@ newtab-widget-lists-input-add-an-item2 =
 newtab-widget-lists-input-add-an-item =
     .placeholder = Engadir un elemento
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-label-play =
     .label = Reproducir

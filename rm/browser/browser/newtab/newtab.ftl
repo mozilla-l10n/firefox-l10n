@@ -704,7 +704,7 @@ newtab-widget-section-minimize =
     .title = Reducir ils widgets
     .aria-label = Reducir tut ils widgets a la grondezza cumpacta
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Svegliarin
 newtab-widget-timer-notification-focus = L’interval da concentraziun è a fin. Buna lavur. Dovras ina pausa?

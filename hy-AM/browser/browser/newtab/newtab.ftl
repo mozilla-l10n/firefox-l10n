@@ -671,7 +671,7 @@ newtab-widget-section-minimize =
     .title = Փոքրացնել վիջեթները
     .aria-label = Կոծկել բոլոր վիջեթները սեղմ չափի
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = ժամաչափ
 newtab-widget-timer-notification-focus = Կենտրոնանալու ժամանակը սպառվեց։ Լավ աշխատանք։ Հանգստի կարիք ունե՞ք։

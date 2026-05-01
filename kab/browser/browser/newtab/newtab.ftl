@@ -542,7 +542,7 @@ newtab-widget-lists-input-menu-open-link = Ldi aseɣwen
 newtab-widget-lists-input-menu-move-up = Ali
 newtab-widget-lists-input-menu-move-down = Ader
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-mode-focus =
     .label = Focus

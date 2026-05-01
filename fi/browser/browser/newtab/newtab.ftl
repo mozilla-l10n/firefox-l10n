@@ -799,7 +799,7 @@ newtab-widget-section-menu-learn-more = Lue lisää
 newtab-widget-section-feedback = Kerro meille mielipiteesi
 newtab-widget-lists-name-default = Tarkistuslista
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Ajastin
 newtab-widget-timer-notification-focus = Keskittymisaika on ohi. Hyvää työtä. Tarvitsetko tauon?

@@ -802,7 +802,7 @@ newtab-widget-section-menu-learn-more = Argibide gehiago
 newtab-widget-section-feedback = Emaguzu zure iritzia
 newtab-widget-lists-name-default = Zerrenda
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Tenporizadorea
 newtab-widget-timer-notification-focus = Kontzentratzeko denbora amaitu da. Ondo egina. Atsedena behar duzu?

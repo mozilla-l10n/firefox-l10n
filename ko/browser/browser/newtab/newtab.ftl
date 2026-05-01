@@ -807,7 +807,7 @@ newtab-widget-section-menu-learn-more = 더 알아보기
 newtab-widget-section-feedback = 의견을 알려주세요
 newtab-widget-lists-name-default = 체크리스트
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = 타이머
 newtab-widget-timer-notification-focus = 집중 시간이 다 되었습니다. 잘 하셨습니다. 휴식이 필요하신가요?
@@ -876,6 +876,7 @@ newtab-sports-widget-upcoming = 예정된 경기
 newtab-sports-widget-results = 결과
 newtab-sports-widget-semi-finals = 준결승
 newtab-sports-widget-bronze-finals = 동메달 결정전
+# Final is the final match for 1st place.
 newtab-sports-widget-final = 결승
 newtab-sports-widget-delayed = 지연됨
 newtab-sports-widget-postponed = 연기됨

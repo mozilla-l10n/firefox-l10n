@@ -805,7 +805,7 @@ newtab-widget-section-menu-learn-more = Aprender más
 newtab-widget-section-feedback = Cuéntanos lo que piensas
 newtab-widget-lists-name-default = Lista de verificación
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = Se acabó el tiempo de concentración. Buen trabajo. ¿Necesitas un descanso?
@@ -874,6 +874,7 @@ newtab-sports-widget-upcoming = Próximamente
 newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Semifinales
 newtab-sports-widget-bronze-finals = Tercer puesto
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Final
 newtab-sports-widget-delayed = Retrasado
 newtab-sports-widget-postponed = Pospuesto

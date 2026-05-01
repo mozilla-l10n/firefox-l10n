@@ -803,7 +803,7 @@ newtab-widget-section-menu-learn-more = מידע נוסף
 newtab-widget-section-feedback = ספרו לנו מה דעתכם
 newtab-widget-lists-name-default = רשימת תיוג
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = שעון עצר
 newtab-widget-timer-notification-focus = זמן הריכוז נגמר. עבודה יפה. יש לך צורך בהפסקה?
@@ -876,6 +876,7 @@ newtab-sports-widget-upcoming = המשחקים הבאים
 newtab-sports-widget-results = תוצאות
 newtab-sports-widget-semi-finals = חצי גמר
 newtab-sports-widget-bronze-finals = משחק על מדליית הארד
+# Final is the final match for 1st place.
 newtab-sports-widget-final = גמר
 newtab-sports-widget-delayed = מתעכב
 newtab-sports-widget-postponed = נדחה

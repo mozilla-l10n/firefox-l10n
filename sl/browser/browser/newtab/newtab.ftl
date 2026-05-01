@@ -767,7 +767,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-learn-more = Več o tem
 newtab-widget-section-feedback = Povejte nam svoje mnenje
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Odštevalnik
 newtab-widget-timer-notification-focus = Čas za osredotočeno delo je potekel. Odlično opravljeno. Potrebujete odmor?

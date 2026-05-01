@@ -768,7 +768,7 @@ newtab-widget-section-menu-learn-more = Află mai multe
 newtab-widget-section-feedback = Spune-ne ce părere ai
 newtab-widget-lists-name-default = Listă de verificare
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Cronometru
 newtab-widget-timer-notification-focus = Timpul de concentrare a expirat. Ai lucrat bine. Ai nevoie de o pauză?
@@ -837,6 +837,7 @@ newtab-sports-widget-upcoming = Evenimente viitoare
 newtab-sports-widget-results = Rezultate
 newtab-sports-widget-semi-finals = Semifinale
 newtab-sports-widget-bronze-finals = Finala de bronz
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Finală
 newtab-sports-widget-delayed = Întârziat
 newtab-sports-widget-postponed = Amânat

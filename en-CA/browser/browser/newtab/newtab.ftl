@@ -784,7 +784,7 @@ newtab-widget-section-menu-learn-more = Learn more
 newtab-widget-section-feedback = Tell us what you think
 newtab-widget-lists-name-default = Checklist
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Timer
 newtab-widget-timer-notification-focus = Focus time is up. Nice work. Need a break?

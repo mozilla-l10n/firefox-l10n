@@ -800,7 +800,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-learn-more = Les mer
 newtab-widget-section-feedback = Fortell oss hva du synes
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Nedtelling
 newtab-widget-timer-notification-focus = Fokustiden er over. Bra jobbet. Trenger du en pause?

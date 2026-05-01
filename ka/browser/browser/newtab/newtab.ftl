@@ -802,7 +802,7 @@ newtab-widget-section-menu-learn-more = ვრცლად
 newtab-widget-section-feedback = მოგვახსენეთ თქვენი აზრი
 newtab-widget-lists-name-default = ჩამონათვალი
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = წამმზომი
 newtab-widget-timer-notification-focus = საქმიანობის დრო ამოიწურა. კარგად იმუშავეთ. გსურთ შესვენება?

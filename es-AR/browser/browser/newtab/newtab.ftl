@@ -793,7 +793,7 @@ newtab-widget-section-menu-hide-all = Ocultar widgets
 newtab-widget-section-menu-learn-more = Conocer más
 newtab-widget-section-feedback = Díganos que piensa
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = Se terminó el tiempo de enfocarse. Buen trabajo. ¿Necesita un descanso?

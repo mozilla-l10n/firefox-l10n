@@ -693,7 +693,7 @@ newtab-widget-lists-name-placeholder-new2 =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nýr listi
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Tímamælir
 newtab-widget-timer-notification-focus = Einbeitingartíminn er liðinn. Vel gert. Þarftu pásu?

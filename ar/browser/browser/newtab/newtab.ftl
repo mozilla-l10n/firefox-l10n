@@ -699,7 +699,7 @@ newtab-widget-section-menu-hide-all = أخفِ الويدجات
 newtab-widget-section-menu-learn-more = اطّلع على المزيد
 newtab-widget-section-feedback = أخبرنا برأيك
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = المؤقت
 newtab-widget-timer-notification-break = انتهت استراحتك. هل أنت مستعد للتركيز؟

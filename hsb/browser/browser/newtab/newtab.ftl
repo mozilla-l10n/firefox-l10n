@@ -813,7 +813,7 @@ newtab-widget-section-menu-learn-more = Dalše informacije
 newtab-widget-section-feedback = Prajće nam swoje měnjenje
 newtab-widget-lists-name-default = Kontrolna lisćina
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Časoměr
 newtab-widget-timer-notification-focus = Fokusowy čas je nimo. Wulkotne dźěło. Trjebaće přestawku?
@@ -882,6 +882,7 @@ newtab-sports-widget-upcoming = Přichodne
 newtab-sports-widget-results = Wuslědki
 newtab-sports-widget-semi-finals = Połfinala
 newtab-sports-widget-bronze-finals = Hra wo městno 3
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
 newtab-sports-widget-delayed = Zapozdźeny
 newtab-sports-widget-postponed = Wotstorčeny

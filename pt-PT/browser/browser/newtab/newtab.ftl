@@ -803,7 +803,7 @@ newtab-widget-section-menu-learn-more = Saber mais
 newtab-widget-section-feedback = Dê-nos a sua opinião
 newtab-widget-lists-name-default = Lista de verificação
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = O tempo de concentração terminou. Excelente trabalho. Quer fazer uma pausa?

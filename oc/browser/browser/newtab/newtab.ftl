@@ -456,7 +456,7 @@ newtab-widget-lists-menu-create = Crear una lista novèla
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Lista novèla
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed

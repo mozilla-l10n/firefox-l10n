@@ -210,7 +210,7 @@ newtab-widget-lists-input-menu-delete = លុប
 newtab-widget-lists-name-placeholder-new =
     .placeholder = បញ្ជីថ្មី
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-warning = ការជូនដំណឹងត្រូវបានបិទ
 newtab-widget-timer-menu-notifications = បិទការជូនដំណឹង

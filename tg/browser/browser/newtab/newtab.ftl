@@ -736,7 +736,7 @@ newtab-widget-section-minimize =
     .title = Ба ҳадди ақал сохтани виҷетҳо
     .aria-label = Ҳамаи виҷетҳои худро то андозаи хурд шакл созед
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Вақтсанҷ
 newtab-widget-timer-notification-focus = Вақти мутолиа ба анҷом расид. Кори хуб. Танаффус лозим аст?

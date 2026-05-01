@@ -505,7 +505,7 @@ newtab-widget-lists-menu-delete = Изтриване на този списък
 newtab-widget-lists-menu-learn-more = Научете повече
 newtab-widget-lists-input-menu-delete = Изтриване
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа

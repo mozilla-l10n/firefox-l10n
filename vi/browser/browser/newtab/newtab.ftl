@@ -807,7 +807,7 @@ newtab-widget-section-menu-learn-more = Tìm hiểu thêm
 newtab-widget-section-feedback = Hãy cho chúng tôi biết suy nghĩ của bạn
 newtab-widget-lists-name-default = Danh sách việc cần làm
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Bộ hẹn giờ
 newtab-widget-timer-notification-focus = Đã hết thời gian tập trung. Làm tốt lắm. Bạn cần nghỉ ngơi không?
@@ -876,6 +876,7 @@ newtab-sports-widget-upcoming = Sắp tới
 newtab-sports-widget-results = Kết quả
 newtab-sports-widget-semi-finals = Bán kết
 newtab-sports-widget-bronze-finals = Tranh hạng ba
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Chung kết
 newtab-sports-widget-delayed = Bị lùi giờ
 newtab-sports-widget-postponed = Đã hoãn lại

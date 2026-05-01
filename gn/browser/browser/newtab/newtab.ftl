@@ -808,7 +808,7 @@ newtab-widget-section-menu-learn-more = Eikuaave
 newtab-widget-section-feedback = Ja’e mba’épa opensa
 newtab-widget-lists-name-default = Tysýi hechajeyha
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Aravojere
 newtab-widget-timer-notification-focus = Opáma nde aravo. Ejapo porã. ¿Epytu’usépa?
@@ -877,6 +877,7 @@ newtab-sports-widget-upcoming = Oupotáva
 newtab-sports-widget-results = Apopyre
 newtab-sports-widget-semi-finals = Irundy opytáva
 newtab-sports-widget-bronze-finals = Mbohapyhápe osẽva
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Paha
 newtab-sports-widget-delayed = Jokopyre
 newtab-sports-widget-postponed = Mbohasapyre

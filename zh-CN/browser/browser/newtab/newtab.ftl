@@ -797,7 +797,7 @@ newtab-widget-section-menu-learn-more = 详细了解
 newtab-widget-section-feedback = 告诉我们您的想法
 newtab-widget-lists-name-default = 核对清单
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = 计时器
 newtab-widget-timer-notification-focus = 专注时间结束，真棒！要休息一下吗？
@@ -865,6 +865,7 @@ newtab-sports-widget-upcoming = 即将进行
 newtab-sports-widget-results = 比赛结果
 newtab-sports-widget-semi-finals = 半决赛
 newtab-sports-widget-bronze-finals = 三四名决赛
+# Final is the final match for 1st place.
 newtab-sports-widget-final = 决赛
 newtab-sports-widget-delayed = 推迟
 newtab-sports-widget-postponed = 改期

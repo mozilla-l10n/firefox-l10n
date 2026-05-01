@@ -716,7 +716,7 @@ newtab-widget-section-hide-all-button =
     .aria-label = Cua totu is widgets
 newtab-widget-section-feedback = Nara·nos ite nde pensas
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Temporizadore
 newtab-widget-timer-notification-focus = Su perìodu de cuntzentratzione est acabbadu. Bonu traballu! Ti serbit una pàusa?

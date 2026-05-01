@@ -829,7 +829,7 @@ newtab-widget-section-menu-hide-all = Skrýt widgety
 newtab-widget-section-menu-learn-more = Zjistit více
 newtab-widget-section-feedback = Sdělte nám svůj názor
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Časovač
 newtab-widget-timer-notification-focus = Čas soustředění vypršel. Pěkná práce. Potřebujete přestávku?

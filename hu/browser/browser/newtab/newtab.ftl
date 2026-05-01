@@ -803,7 +803,7 @@ newtab-widget-section-menu-learn-more = További tudnivalók
 newtab-widget-section-feedback = Mondja el nekünk mit gondol
 newtab-widget-lists-name-default = Ellenőrzőlista
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Időzítő
 newtab-widget-timer-notification-focus = Lejárt a fókuszidő. Szép munka. Szüksége van egy kis szünetre?

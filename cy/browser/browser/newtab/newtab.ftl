@@ -793,7 +793,7 @@ newtab-widget-section-menu-learn-more = Dysgu rhagor
 newtab-widget-section-feedback = Dywedwch wrthym beth yw eich barn
 newtab-widget-lists-name-default = Rhestr wirio
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Amserydd
 newtab-widget-timer-notification-focus = Mae'r amser canolbwyntio ar ben. Gwaith da. Angen seibiant?

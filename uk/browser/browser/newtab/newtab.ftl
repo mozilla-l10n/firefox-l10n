@@ -721,7 +721,7 @@ newtab-widget-section-minimize =
     .title = Згорнути віджети
     .aria-label = Згорнути всі віджети до компактного розміру
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Таймер
 newtab-widget-timer-notification-focus = Час зосередження вичерпано. Гарна робота. Потрібна перерва?

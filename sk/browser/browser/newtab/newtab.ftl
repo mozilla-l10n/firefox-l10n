@@ -801,7 +801,7 @@ newtab-widget-section-menu-learn-more = Ďalšie informácie
 newtab-widget-section-feedback = Povedzte nám váš názor
 newtab-widget-lists-name-default = Kontrolný zoznam
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Časovač
 newtab-widget-timer-notification-focus = Čas na sústredenie vypršal. Dobrá práca. Potrebujete si oddýchnuť?

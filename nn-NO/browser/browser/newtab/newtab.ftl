@@ -797,7 +797,7 @@ newtab-widget-section-menu-hide-all = Skjul widgetar
 newtab-widget-section-menu-learn-more = Les meir
 newtab-widget-section-feedback = Fortel oss kva du synest
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Nedteljing
 newtab-widget-timer-notification-focus = Fokustida er over. Bra jobba. Treng du ein pause?
@@ -856,6 +856,7 @@ newtab-sports-widget-upcoming = Komande
 newtab-sports-widget-results = Resultat
 newtab-sports-widget-semi-finals = Semifinalar
 newtab-sports-widget-bronze-finals = Bronsefinale
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
 newtab-sports-widget-delayed = Forseinka
 newtab-sports-widget-postponed = Utsett

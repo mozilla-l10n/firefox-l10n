@@ -332,6 +332,6 @@ newtab-widget-lists-label-beta =
 newtab-widget-lists-menu-learn-more = ఇంకా తెలుసుకోండి
 newtab-widget-lists-input-menu-delete = తొలగించు
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-menu-learn-more = ఇంకా తెలుసుకోండి

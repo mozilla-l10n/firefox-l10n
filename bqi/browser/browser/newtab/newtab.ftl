@@ -469,7 +469,7 @@ newtab-widget-section-hide-all-button =
     .title = بؽڌار کردن ویجتا
     .aria-label = بؽڌار کردن پوی ویجتا
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = زمووݩ سنج
 newtab-widget-timer-notification-warning = وارسۊویا کۊر هڌن

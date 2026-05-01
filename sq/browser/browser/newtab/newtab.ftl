@@ -718,7 +718,7 @@ newtab-widget-section-minimize =
     .aria-label = Tkurri krejt widget-et sa madhësia kompakte
 newtab-widget-section-feedback = Tregonani si ju duket
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Kohëmatës
 newtab-widget-timer-notification-focus = Koha për i përqendruar mbaroi. Punë e paqme. Ju duhet një pushim?

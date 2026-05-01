@@ -809,7 +809,7 @@ newtab-widget-section-menu-learn-more = Μάθετε περισσότερα
 newtab-widget-section-feedback = Πείτε μας τη γνώμη σας
 newtab-widget-lists-name-default = Λίστα ελέγχου
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Αντίστροφη μέτρηση
 newtab-widget-timer-notification-focus = Ο χρόνος συγκέντρωσης τελείωσε. Πολύ καλή δουλειά! Χρειάζεστε ένα διάλειμμα;
@@ -878,6 +878,7 @@ newtab-sports-widget-upcoming = Επερχόμενοι
 newtab-sports-widget-results = Αποτελέσματα
 newtab-sports-widget-semi-finals = Ημιτελικοί
 newtab-sports-widget-bronze-finals = Αγώνας τρίτης θέσης
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Τελικός
 newtab-sports-widget-delayed = Καθυστέρησε
 newtab-sports-widget-postponed = Αναβλήθηκε

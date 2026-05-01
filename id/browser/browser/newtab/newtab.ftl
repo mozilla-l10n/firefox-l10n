@@ -643,7 +643,7 @@ newtab-widget-lists-name-placeholder-new2 =
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Daftar baru
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-label-play =
     .label = Putar

@@ -750,7 +750,7 @@ newtab-widget-section-minimize =
     .aria-label = ਸਾਰੇ ਵਿਜੈੱਟ ਨੂੰ ਸੰਖੇਪ ਆਕਾਰ ਲਈ ਸਮੇਟੋ
 newtab-widget-section-feedback = ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਕੀ ਸੋਚਦੇ ਹੋ
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = ਟਾਈਮਰ
 newtab-widget-timer-notification-focus = ਫੋਕਸ ਸਮਾਂ ਸਮਾਪਤ ਹੋਇਆ। ਵਧੀਆ ਕੰਮ ਕੀਤਾ, ਸਾਹ ਲੈਣਾ ਹੈ?

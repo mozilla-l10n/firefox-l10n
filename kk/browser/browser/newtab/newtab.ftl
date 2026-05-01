@@ -769,7 +769,7 @@ newtab-widget-section-menu-hide-all = Виджеттерді жасыру
 newtab-widget-section-menu-learn-more = Көбірек білу
 newtab-widget-section-feedback = Өз ойыңызбен бөлісіңіз
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Таймер
 newtab-widget-timer-notification-focus = Фокустау уақыты аяқталды. Жақсы жұмыс. Үзіліс керек пе?

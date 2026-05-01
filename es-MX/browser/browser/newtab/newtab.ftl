@@ -753,7 +753,7 @@ newtab-widget-section-minimize =
     .aria-label = Contraer todos los widgets al tamaño compacto
 newtab-widget-section-feedback = Dinos lo que piensas
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Temporizador
 newtab-widget-timer-notification-focus = Se acabó el tiempo de concentración. Buen trabajo. ¿Necesitas un descanso?

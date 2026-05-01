@@ -812,7 +812,7 @@ newtab-widget-section-menu-learn-more = Сазнајте више
 newtab-widget-section-feedback = Реците нам шта мислите
 newtab-widget-lists-name-default = Списак задатака
 
-## Sports widget
+## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Одбројавач
 newtab-widget-timer-notification-focus = Време за фокус је истекло. Добар посао. Желите ли одмор?
@@ -886,6 +886,7 @@ newtab-sports-widget-upcoming = Предстојећи
 newtab-sports-widget-results = Резултати
 newtab-sports-widget-semi-finals = Полуфинале
 newtab-sports-widget-bronze-finals = Меч за треће место
+# Final is the final match for 1st place.
 newtab-sports-widget-final = Финале
 newtab-sports-widget-delayed = Одложено
 newtab-sports-widget-postponed = Померено
