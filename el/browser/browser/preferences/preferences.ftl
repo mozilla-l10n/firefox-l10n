@@ -373,7 +373,7 @@ preferences-web-appearance-choice-input-dark =
 preferences-web-appearance-override-warning3 =
     .message = Οι ρυθμίσεις σας για τον έλεγχο αντίθεσης υπερισχύουν της εμφάνισης του ιστοτόπου.
 preferences-web-appearance-link =
-    .label = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα Επεκτάσεις και θέματα
+    .label = Διαχείριση των θεμάτων του { -brand-short-name } στην ενότητα «Επεκτάσεις και θέματα»
 preferences-contrast-control-group =
     .label = Αντίθεση ιστοτόπων
     .description = Οι ιστότοποι χρησιμοποιούν μια ποικιλία χρωμάτων προσκηνίου και παρασκηνίου. Για τη συνέπεια των ρυθμίσεων αντίθεσης, μπορείτε να χρησιμοποιήσετε τα ίδια χρώματα σε όλους τους ιστοτόπους.
@@ -384,7 +384,7 @@ preferences-contrast-control-radio-group =
 preferences-web-appearance-override-warning = Οι επιλογές χρωμάτων σας υπερισχύουν της εμφάνισης του ιστοτόπου. <a data-l10n-name="colors-link">Διαχείριση χρωμάτων</a>
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
-preferences-web-appearance-footer = Διαχειριστείτε τα θέματα του { -brand-short-name } στην ενότητα <a data-l10n-name="themes-link">Επεκτάσεις και θέματα</a>
+preferences-web-appearance-footer = Διαχείριση των θεμάτων του { -brand-short-name } στις <a data-l10n-name="themes-link">Επεκτάσεις και θέματα</a>
 preferences-contrast-control-header = Έλεγχος αντίθεσης
 preferences-contrast-control-description = Οι ιστότοποι διαθέτουν μια ποικιλία χρωμάτων προσκηνίου και παρασκηνίου. Ρυθμίστε το { -brand-short-name }, ώστε να χρησιμοποιεί τα ίδια χρώματα σε όλους τους ιστοτόπους για ευκολότερη ανάγνωση.
 preferences-contrast-control-use-platform-settings =
@@ -705,6 +705,9 @@ update-application-allow-description = Να επιτρέπεται στο { -bra
 update-application-auto =
     .label = Αυτόματη εγκατάσταση ενημερώσεων (συνιστάται)
     .accesskey = Α
+update-application-check-choose-2 =
+    .label = Έλεγχος για ενημερώσεις, αλλά επιλογή για το πότε θα γίνει εγκατάσταση
+    .accesskey = γ
 update-application-check-choose =
     .label = Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για εγκατάσταση
     .accesskey = Ε
@@ -716,6 +719,9 @@ update-application-background-enabled =
     .accesskey = Ό
 update-application-warning-cross-user-setting-2 =
     .message = Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του { -brand-short-name } που χρησιμοποιούν αυτήν την εγκατάσταση του { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Εμφάνιση λιγότερων υπενθυμίσεων για ενημερώσεις
+    .accesskey = ν
 update-application-warning-cross-user-setting = Αυτή η ρύθμιση θα εφαρμοστεί σε όλους τους λογαριασμούς των Windows και τα προφίλ του { -brand-short-name } που χρησιμοποιούν αυτήν την εγκατάσταση του { -brand-short-name }.
 update-application-use-service =
     .label = Χρήση υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων
@@ -738,6 +744,11 @@ update-in-progress-ok-button = &Απόρριψη
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Συνέχεια
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Σχετικά με το { -brand-short-name }
 
 ## Firefox updates
 
@@ -843,13 +854,13 @@ preferences-default-zoom-select =
     .aria-label = Προεπιλεγμένο ζουμ
 preferences-fonts-family =
     .label = Οικογένεια γραμματοσειράς
-    .accesskey = D
+    .accesskey = γ
 preferences-fonts-size =
     .label = Μέγεθος γραμματοσειράς
-    .accesskey = s
+    .accesskey = μ
 preferences-fonts-advanced-settings =
     .label = Σύνθετες ρυθμίσεις
-    .accesskey = A
+    .accesskey = Σ
 
 ## General Section - Proxy
 
@@ -1523,7 +1534,7 @@ forms-fill-usernames-and-passwords =
     .accesskey = υ
 forms-fill-usernames-and-passwords-2 =
     .label = Αποθήκευση και αυτόματη συμπλήρωση ονομάτων χρήστη και κωδικών πρόσβασης
-    .accesskey = f
+    .accesskey = θ
 forms-saved-passwords =
     .label = Αποθηκευμένοι κωδικοί πρόσβασης
     .accesskey = θ

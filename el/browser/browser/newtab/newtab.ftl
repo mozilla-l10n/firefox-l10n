@@ -854,6 +854,16 @@ newtab-promo-card-dismiss-button =
 
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Έναρξη αντίστροφης μέτρησης { $minutes } λεπτού
+           *[other] Έναρξη αντίστροφης μέτρησης { $minutes } λεπτών
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Παύση αντίστροφης μέτρησης
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
     .aria-label =
         { $minutes ->
@@ -864,6 +874,8 @@ newtab-widget-timer-decrease-min =
     .title = Μείωση κατά 1 λεπτό
 newtab-widget-timer-increase-min =
     .title = Αύξηση κατά 1 λεπτό
+newtab-widget-timer-mode-group =
+    .aria-label = Λειτουργία αντίστροφης μέτρησης
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Συγκέντρωση
 # Small label shown beneath the live time while the break timer is running or paused.

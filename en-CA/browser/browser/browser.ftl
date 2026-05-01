@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Manage passwords
 quickactions-cmd-logins = logins, passwords
+# Mutes all tabs playing audio
+quickactions-mute = Mute tabs playing audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = mute, shush, shhhhh, hush, quiet, loud
 # Opens about:addons page in the plugins section
 quickactions-plugins = Manage plugins
 quickactions-cmd-plugins = plugins
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = You are not securely connected to this site.
 identity-connection-verified = You are securely connected to this site.
 identity-ev-owner-label = Certificate issued to:
+identity-verifier-label = Verified by:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Qualified as specified in Regulation (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla does not recognize this certificate issuer. It may have been added from your operating system or by an administrator.
+identity-cert-exception-overridden = You have added a security exception for this site.
 identity-remove-cert-exception =
     .label = Remove Exception
     .accesskey = R
@@ -1028,6 +1036,21 @@ urlbar-result-action-switch-to-tabgroup = Switch to { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Open { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Open in New Tab
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Open in New Container Tab
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Open in New Window
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Open in New Private Window
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
@@ -1723,3 +1746,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Site looks broken?</strong> Reload the page to temporarily lower your tracking protection.
 reduced-protection-infobar-reload-button = Reload
     .accesskey = R
+reduced-protection-infobar-never-show-button = Don’t show again
+    .accesskey = D

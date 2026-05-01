@@ -866,6 +866,39 @@ newtab-widget-timer-start-aria =
             [few] { $minutes }-minutowy casowe měritko startowaś
            *[other] { $minutes }-minutowy casowe měritko startowaś
         }
+newtab-widget-timer-pause-aria =
+    .aria-label = Casowe měritko zastajiś
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuta
+            [two] { $minutes } minuśe
+            [few] { $minutes } minuty
+           *[other] { $minutes } minutow
+        }
+newtab-widget-timer-decrease-min =
+    .title = Wó 1 minutu pómjeńšyś
+newtab-widget-timer-increase-min =
+    .title = Wó 1 minutu pówušyś
+newtab-widget-timer-mode-group =
+    .aria-label = Modus casowego měritka
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pawza
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Měritko casa schowaś
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Dobre źěło
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Waša pawza jo mimo
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Trjebaśo pawzu?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Sćo gótowy se koncentrěrowaś?
 
 ## Sports widget
 
@@ -874,7 +907,24 @@ newtab-sports-widget-menu-view-upcoming = Pśichodny pokazaś
 newtab-sports-widget-menu-view-results = Wuslědki pokazaś
 newtab-sports-widget-menu-learn-more = Dalšne informacije
 newtab-sports-widget-countdown-title = Countdown k swětowemu mejstaŕstwoju
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = Ź
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = G
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Dostańśo aktualizacije live a wěcej.
+newtab-sports-widget-view-schedule =
+    .label = Grajny plan pokazaś
 newtab-sports-widget-follow-teams =
     .label = Teamam slědowaś
 newtab-sports-widget-choose-wallpaper =
@@ -905,6 +955,8 @@ newtab-sports-widget-information = Informacije wó graśu
 newtab-sports-widget-no-live-data = Daty graśa live se ned njeaktualizěruju
 newtab-sports-widget-view-results-link = Wuslědki pokazaś
 newtab-sports-widget-third-place = Tśeśe městno
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Druge městno
 newtab-sports-widget-champions = Mejstarje
 newtab-sports-widget-world-cup-champions = Swětowe mejstarje 2026
 
