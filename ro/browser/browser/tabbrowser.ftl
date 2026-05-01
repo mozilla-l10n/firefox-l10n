@@ -271,6 +271,9 @@ tab-group-editor-color-selector2-gray = Gri
     .title = Gri
 tab-group-editor-color-selector2-red = Roșu
     .title = Roșu
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Închis
 tab-group-description = { $tabGroupName } — Grup de file
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Restrâns
 tab-group-label-tooltip-expanded = { $tabGroupName } — Extins
@@ -279,6 +282,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Grup fără nume
 tab-group-name-default = Grup fără nume
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Grupuri de file
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -324,6 +335,16 @@ tab-group-editor-action-new-tab =
     .label = Filă nouă în grup
 tab-group-editor-action-new-window =
     .label = Mută grupul într-o fereastră nouă
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Copiază linkul în grupă
+            [one] Copiază { $linkCount } link în grupă
+            [few] Copiază { $linkCount } linkuri în grupă
+           *[other] Copiază { $linkCount } de linkuri în grupă
+        }
 tab-group-editor-action-save =
     .label = Salvează și închide grupul
 tab-group-editor-action-ungroup =
@@ -333,6 +354,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Terminat
     .accessKey = D
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Partajează grupa de file
 tab-context-reopen-tab-group =
     .label = Redeschide grupul de file
 # Variables:
@@ -405,6 +429,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Salvează
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = Șterge nota
+    .aria-label = Șterge nota
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = Editează nota
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Citește mai multe
 tab-note-panel-add-note-new-badge =

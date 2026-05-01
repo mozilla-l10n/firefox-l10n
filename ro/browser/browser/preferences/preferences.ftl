@@ -1107,6 +1107,7 @@ search-edit-engine =
     .label = Editează
     .accesskey = E
 search-find-more-link = Caută mai multe motoare de căutare
+search-filtering-for-add-engine = Adaugă motor
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Cuvânt-cheie duplicat
@@ -1125,6 +1126,9 @@ search-engine-group =
     .label = Motor de căutare implicit
 search-default-engine =
     .aria-label = Motor de căutare implicit
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Caută
 
 ## Containers Section
 
@@ -1517,6 +1521,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Află mai multe
 forms-windows-sso-desc = Gestionează conturile în setările dispozitivului
 windows-passkey-settings-label = Gestionează cheile de acces în setările de sistem
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Setările panoului de confidențialitate
+    .description = Obține ajutor la protejarea informațiilor tale online în { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Afișează mesaje despre încălcări ale securității datelor
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2133,6 +2148,12 @@ collection-backlogged-crash-reports2 =
     .label = Trimite automat rapoarte de închidere neașteptată
     .accesskey = c
 collection-backlogged-crash-reports-description = Ajută { -vendor-short-name } să diagnosticheze și să repare probleme din browser. Rapoartele pot include date personale sau sensibile.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Aceleași setări, alt aspect!
+    .message = Am reorganizat pagina ca să îți vină mai ușor să scanezi și să explorezi. Setările tale personale nu s-au modificat și ai totul în continuare aici. Sfat: folosește căutările ca să sari direct la ce îți trebuie.
+settings-redesign-promo-dismiss-button =
+    .label = Am înțeles
 addon-recommendations =
     .label = Permite ca { -brand-short-name } să facă recomandări de extensii personalizate
 addon-recommendations-link = Află mai multe
@@ -2388,6 +2409,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Introdu o adresă URL personalizată a furnizorului
 preferences-doh-header2 =
     .heading = DNS prin HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Securitatea conexiunii și a software-ului
+preferences-connection-link-section =
+    .label = Securitatea conexiunii și a software-ului
+    .description = Vezi cum sunt menținute securizate conexiunile, cum sunt blocate softurile dăunătoare și cum sunt verificate site-urile web.
+preferences-connection-link-button =
+    .label = Setări avansate
 
 ## The following strings are used in the Download section of settings
 

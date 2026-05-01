@@ -842,6 +842,12 @@ newtab-sports-widget-delayed = Întârziat
 newtab-sports-widget-postponed = Amânat
 newtab-sports-widget-suspended = Suspendat
 newtab-sports-widget-cancelled = Anulat
+newtab-sports-widget-information = Informații despre meci
+newtab-sports-widget-no-live-data = Datele meciurilor live nu se actualizează momentan
+newtab-sports-widget-view-results-link = Vezi rezultate
+newtab-sports-widget-third-place = Locul trei
+newtab-sports-widget-champions = Campionii
+newtab-sports-widget-world-cup-champions = Campionii Cupei Mondiale din 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

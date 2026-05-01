@@ -84,6 +84,11 @@ smartblock-placeholder-title = Elemente de urmărire și conținut { $trackernam
 smartblock-placeholder-desc = Setările { -brand-short-name } au blocat acest conținut să te urmărească pe alte site-uri sau să fie folosit pentru reclame.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Permite pe { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Conținut din înglobare blocată
 
 ##
 
