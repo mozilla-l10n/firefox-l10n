@@ -421,6 +421,8 @@ quickactions-cmd-inspector = denetçi, geliştirici araçları
 # Opens about:logins
 quickactions-logins2 = Parolaları yönet
 quickactions-cmd-logins = hesaplar, parolalar
+# Mutes all tabs playing audio
+quickactions-mute = Ses çalan sekmeleri sessize al
 # Opens about:addons page in the plugins section
 quickactions-plugins = Yan uygulamaları yönet
 quickactions-cmd-plugins = yan uygulamalar

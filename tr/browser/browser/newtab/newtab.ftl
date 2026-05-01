@@ -737,6 +737,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Tamamlandı ({ $number })
 newtab-widget-lists-celebration-headline = İyi iş
+newtab-widget-lists-celebration-subhead = Hepsi tamamlandı
 newtab-widget-task-list-menu-copy = Kopyala
 newtab-widget-lists-menu-edit = Liste adını düzenle
 newtab-widget-lists-menu-edit2 =
@@ -757,6 +758,8 @@ newtab-widget-lists-input-menu-move-up = Yukarı taşı
 newtab-widget-lists-input-menu-move-down = Aşağı taşı
 newtab-widget-lists-input-menu-delete = Sil
 newtab-widget-lists-input-menu-edit = Düzenle
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Maddeyi düzenle
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Yeni liste oluştur
@@ -846,6 +849,9 @@ newtab-promo-card-dismiss-button =
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Takımları takip et
+newtab-sports-widget-menu-view-upcoming = Yaklaşanlara bak
+newtab-sports-widget-menu-view-results = Sonuçlara bak
+newtab-sports-widget-menu-learn-more = Daha fazla bilgi al
 newtab-sports-widget-countdown-title = Dünya Kupası’na geri sayım
 newtab-sports-widget-get-updates = Canlı maç haberlerini ve daha fazlasını alın.
 newtab-sports-widget-follow-teams =
@@ -860,12 +866,21 @@ newtab-sports-widget-done-button =
     .label = Tamam
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = CANLI
+newtab-custom-widget-live-refresh =
+    .title = Skorları yenile
+    .aria-label = Skorları yenile
 newtab-sports-widget-upcoming = Yaklaşıyor
 newtab-sports-widget-results = Sonuçlar
 newtab-sports-widget-semi-finals = Yarı finaller
 newtab-sports-widget-bronze-finals = Üçüncülük maçı
 newtab-sports-widget-final = Final
 newtab-sports-widget-delayed = Gecikmeli
+newtab-sports-widget-postponed = Ertelendi
+newtab-sports-widget-suspended = Askıya alındı
+newtab-sports-widget-cancelled = İptal edildi
+newtab-sports-widget-information = Maç bilgileri
+newtab-sports-widget-no-live-data = Canlı maç verileri şu anda güncellenmiyor
+newtab-sports-widget-view-results-link = Sonuçlara bak
 newtab-sports-widget-third-place = Üçüncü
 newtab-sports-widget-champions = Şampiyon
 newtab-sports-widget-world-cup-champions = 2026 Dünya Kupası Şampiyonu
