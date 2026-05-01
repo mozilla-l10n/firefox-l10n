@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI 控制
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = 關於 { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = 輔助功能
     .title = { pane-accessibility-title }
 pane-languages-title = 語言
@@ -691,6 +693,9 @@ update-application-allow-description = 讓 { -brand-short-name }：
 update-application-auto =
     .label = 自動安裝更新（推薦）
     .accesskey = A
+update-application-check-choose-2 =
+    .label = 自動檢查更新，但讓我選擇何時安裝
+    .accesskey = C
 update-application-check-choose =
     .label = 自動檢查更新，但讓您選擇要不要安裝
     .accesskey = C
@@ -702,6 +707,9 @@ update-application-background-enabled =
     .accesskey = w
 update-application-warning-cross-user-setting-2 =
     .message = 此設定將套用到本電腦上的所有 Windows 帳號及此份 { -brand-short-name } 的所有 { -brand-short-name } 設定檔。
+update-application-suppress-prompts-2 =
+    .label = 減少更新提醒
+    .accesskey = n
 update-application-warning-cross-user-setting = 此設定將套用到本電腦上的所有 Windows 帳號及此份 { -brand-short-name } 的所有 { -brand-short-name } 設定檔。
 update-application-use-service =
     .label = 在背景服務當中安裝更新
@@ -724,6 +732,11 @@ update-in-progress-ok-button = 捨棄 (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 繼續 (&C)
+
+## About Firefox
+
+about-firefox-header =
+    .heading = 關於 { -brand-short-name }
 
 ## Firefox updates
 

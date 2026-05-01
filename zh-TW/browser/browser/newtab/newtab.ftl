@@ -864,9 +864,21 @@ newtab-widget-timer-increase-min =
     .title = 增加 1 分鐘
 newtab-widget-timer-mode-group =
     .aria-label = 計時器模式
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = 專注
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = 休息
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = 隱藏計時器
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = 做得好！
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = 休息時間結束
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = 需要休息一下嗎？
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = 準備好要專注了嗎？
 
 ## Sports widget
 
@@ -875,7 +887,24 @@ newtab-sports-widget-menu-view-upcoming = 檢視即將到來的賽事
 newtab-sports-widget-menu-view-results = 看比賽結果
 newtab-sports-widget-menu-learn-more = 更多資訊
 newtab-sports-widget-countdown-title = 世界盃足球賽倒數計時
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = 天
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = 小時
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = 分鐘
 newtab-sports-widget-get-updates = 獲得即時比賽資訊與更多資訊。
+newtab-sports-widget-view-schedule =
+    .label = 檢視賽程
 newtab-sports-widget-follow-teams =
     .label = 關注球隊
 newtab-sports-widget-choose-wallpaper =
@@ -906,6 +935,8 @@ newtab-sports-widget-information = 競賽資訊
 newtab-sports-widget-no-live-data = 目前無法更新即時比賽資料
 newtab-sports-widget-view-results-link = 看比賽結果
 newtab-sports-widget-third-place = 季軍
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = 亞軍
 newtab-sports-widget-champions = 冠軍
 newtab-sports-widget-world-cup-champions = 2026 年世界盃足球賽冠軍
 
