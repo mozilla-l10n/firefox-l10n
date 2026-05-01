@@ -35,3 +35,8 @@ about-glean-label-for-filter-metrics = صَفِّ
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = سيؤدي هذا إلى تصفية الجدول أدناه بناءً على الفئة والاسم والنوع والقيمة (إذا كانت القيمة من نوع بسيط).
 about-glean-button-watch = راقب
+
+## These labels are displayed to organize the different ping types within the dropdown.
+
+about-glean-ping-list-optgroup-built-in =
+    .label = تنبيهات مدمجة

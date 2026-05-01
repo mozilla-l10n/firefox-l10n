@@ -421,6 +421,12 @@ quickactions-cmd-inspector = trình kiểm tra, devtools, trinh kiem tra, nhà p
 # Opens about:logins
 quickactions-logins2 = Quản lý mật khẩu
 quickactions-cmd-logins = đăng nhập, thông tin đăng nhập, mật khẩu, dang nhap, thong tin dang nhap, mat khau
+# Mutes all tabs playing audio
+quickactions-mute = Tắt tiếng thẻ đang phát âm thanh
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = tắt tiếng, tat tieng, shush, mute, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Quản lý phần bổ trợ
 quickactions-cmd-plugins = phần bổ trợ, phan bo tro, plugins
@@ -541,9 +547,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Bạn không được kết nối an toàn với trang web này.
 identity-connection-verified = Bạn đang kết nối an toàn tới trang này.
 identity-ev-owner-label = Chứng nhận được cấp cho:
+identity-verifier-label = Xác minh bởi:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Được chứng nhận/đủ điều kiện theo quy định tại Quy định (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla không công nhận nhà phát hành chứng nhận này. Nó có thể đã được thêm từ hệ điều hành của bạn hoặc bởi quản trị viên.
+identity-cert-exception-overridden = Bạn đã thêm ngoại lệ bảo mật cho trang này.
 identity-remove-cert-exception =
     .label = Loại bỏ ngoại lệ
     .accesskey = R
@@ -1652,3 +1660,5 @@ trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</sp
 reduced-protection-infobar-message = <strong>Trang web bị lỗi?</strong> Tải lại trang để tạm thời giảm mức độ trình chống theo dõi của bạn.
 reduced-protection-infobar-reload-button = Tải lại
     .accesskey = R
+reduced-protection-infobar-never-show-button = Đừng hiển thị lại
+    .accesskey = D

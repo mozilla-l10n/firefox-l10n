@@ -365,6 +365,8 @@ newtab-custom-widget-lists-toggle =
     .label = Danh sách
 newtab-custom-widget-timer-toggle =
     .label = Bộ hẹn giờ
+newtab-custom-widget-sports-toggle =
+    .label = World Cup
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
@@ -736,6 +738,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Đã hoàn thành ({ $number })
+newtab-widget-lists-celebration-headline = Làm tốt lắm
+newtab-widget-lists-celebration-subhead = Tất cả đã xong
 newtab-widget-task-list-menu-copy = Sao chép
 newtab-widget-lists-menu-edit = Chỉnh sửa tên danh sách
 newtab-widget-lists-menu-edit2 =
@@ -756,6 +760,8 @@ newtab-widget-lists-input-menu-move-up = Di chuyển lên
 newtab-widget-lists-input-menu-move-down = Di chuyển xuống
 newtab-widget-lists-input-menu-delete = Xóa
 newtab-widget-lists-input-menu-edit = Chỉnh sửa
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Chỉnh sửa mục
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Tạo một danh sách mới
@@ -841,6 +847,42 @@ newtab-promo-card-cta = Tìm hiểu thêm
 newtab-promo-card-dismiss-button =
     .title = Bỏ qua
     .aria-label = Bỏ qua
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Theo dõi đội
+newtab-sports-widget-menu-view-upcoming = Xem cái gì sắp tới
+newtab-sports-widget-menu-view-results = Hiện kết quả
+newtab-sports-widget-menu-learn-more = Tìm hiểu thêm
+newtab-sports-widget-countdown-title = Đếm ngược đến World Cup
+newtab-sports-widget-get-updates = Nhận thông tin cập nhật trực tiếp và hơn thế nữa.
+newtab-sports-widget-follow-teams =
+    .label = Theo dõi đội
+newtab-sports-widget-choose-wallpaper =
+    .label = Chọn một hình nền
+newtab-sports-widget-skip = Bỏ qua
+newtab-sports-widget-search-teams =
+    .placeholder = Tìm kiếm đội
+    .aria-label = Tìm kiếm đội
+newtab-sports-widget-done-button =
+    .label = Xong
+newtab-sports-widget-group-stage = Vòng bảng
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = TRỰC TIẾP
+newtab-custom-widget-live-refresh =
+    .title = Làm mới điểm số
+    .aria-label = Làm mới điểm số
+newtab-sports-widget-upcoming = Sắp tới
+newtab-sports-widget-results = Kết quả
+newtab-sports-widget-semi-finals = Bán kết
+newtab-sports-widget-bronze-finals = Tranh hạng ba
+newtab-sports-widget-final = Chung kết
+newtab-sports-widget-information = Thông tin về trận đấu
+newtab-sports-widget-no-live-data = Dữ liệu trận đấu trực tiếp hiện chưa được cập nhật
+newtab-sports-widget-view-results-link = Xem kết quả
+newtab-sports-widget-third-place = Hạng ba
+newtab-sports-widget-champions = Nhà vô địch
+newtab-sports-widget-world-cup-champions = Nhà vô địch World Cup 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -84,6 +84,11 @@ smartblock-placeholder-title = Trình theo dõi và nội dung của { $trackern
 smartblock-placeholder-desc = Cài đặt { -brand-short-name } của bạn đã chặn nội dung này từ việc theo dõi bạn trên các trang web hoặc bị sử dụng cho quảng cáo.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Cho phép trên { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Nội dung từ nhúng bị chặn
 
 ##
 
