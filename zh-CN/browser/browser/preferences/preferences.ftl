@@ -690,6 +690,8 @@ update-application-version = 版本: { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = 显示更新历史
     .accesskey = p
+update-application-installation =
+    .label = 安装
 update-history =
     .label = 显示更新历史…
     .accesskey = p
@@ -730,6 +732,16 @@ update-in-progress-ok-button = 放弃
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } 更新
+    .description = 更新可改进 { -brand-short-name } 的速度、稳定性和安全性。
+update-application-suppress-prompts-heading =
+    .label = 通知
+update-application-updates-managed-by-os =
+    .message = 更新由您的操作系统管理。
 
 ## Firefox support
 
@@ -773,6 +785,8 @@ browsing-use-autoscroll =
     .accesskey = a
 keyboard-and-scrolling-group =
     .label = 键盘导航和滚动
+motion-and-link-group =
+    .label = 滚动和链接样式
 browsing-use-smooth-scrolling =
     .label = 使用平滑滚动
     .accesskey = m
@@ -817,6 +831,8 @@ browsing-group =
 
 ## Accessibility page
 
+preferences-accessibility-header =
+    .heading = 无障碍
 preferences-default-zoom-select =
     .aria-label = 默认缩放
 preferences-fonts-family =
@@ -1006,6 +1022,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = 计时器
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = 体育
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
@@ -1019,6 +1038,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = 选择壁纸
 home-prefs-choose-wallpaper-link2 =
     .label = 选择壁纸
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = 将新标签页或新窗口设置为 { -firefox-home-brand-name }以使用此功能。
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1542,6 +1566,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = 详细了解
 forms-windows-sso-desc = 在您的设备设置中管理账户
 windows-passkey-settings-label = 在系统设置中管理通行密钥
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = 隐私面板设置
+    .description = { -brand-short-name } 可帮助您在上网时保护个人信息。
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = 显示外泄事件消息
+    .accesskey = s
 
 ## OS Authentication dialog
 
