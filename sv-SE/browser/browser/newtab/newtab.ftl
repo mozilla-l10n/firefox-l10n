@@ -908,7 +908,7 @@ newtab-sports-widget-countdown-days = D
 # The layout only allows for 1–2 characters: if there is an equivalent single
 # character for your language, use that. Your translation will be automatically
 # truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = H
+newtab-sports-widget-countdown-hours = T
 # Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
 # The layout only allows for 1–2 characters: if there is an equivalent single
 # character for your language, use that. Your translation will be automatically
