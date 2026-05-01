@@ -857,7 +857,6 @@ newtab-promo-card-dismiss-button =
 newtab-widget-timer-start-aria =
     .aria-label =
         { $minutes ->
-            [one] Starta { $minutes }-minuters timer
            *[other] Starta { $minutes }-minuters timer
         }
 newtab-widget-timer-pause-aria =
