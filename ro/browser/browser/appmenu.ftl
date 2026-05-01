@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Fereastră privată nouă
 appmenuitem-history =
     .label = Istoric
+appmenuitem-tab-groups =
+    .label = Grupuri de file
 appmenuitem-downloads =
     .label = Descărcări
 appmenuitem-passwords =
@@ -280,6 +282,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personalizează bara de instrumente…
+appmenu-abouttranslations =
+    .label = Tradu…
 appmenu-developer-tools-subheader = Instrumente pentru browser
 appmenu-developer-tools-extensions =
     .label = Extensii pentru dezvoltatori

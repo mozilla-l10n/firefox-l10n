@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Schimbă dacă să mai primești notificări de la acest site sau nu
 urlbar-midi-notification-anchor =
     .tooltiptext = Deschide panoul MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Deschide panoul de seriale
 urlbar-eme-notification-anchor =
     .tooltiptext = Gestionează utilizarea de programe DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Ai blocat extragerea de date canvas pentru acest site.
 urlbar-midi-blocked =
     .tooltiptext = Ai blocat accesul MIDI pentru acest site web.
+urlbar-serial-blocked =
+    .tooltiptext = Ai blocat accesul la porturile seriale pentru acest site web.
 urlbar-install-blocked =
     .tooltiptext = Ai blocat suplimentele instalate pentru acest site web.
 # Variables
@@ -417,6 +421,12 @@ quickactions-cmd-inspector = inspector, instrumente de dezvoltare
 # Opens about:logins
 quickactions-logins2 = Gestionează parolele
 quickactions-cmd-logins = autentificări, parole
+# Mutes all tabs playing audio
+quickactions-mute = Dezactivează sonorul filelor care redau conținut audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = mut, șșșș, șșșș
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gestionează pluginurile
 quickactions-cmd-plugins = pluginuri
@@ -542,9 +552,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nu ești conectat în mod securizat la acest site.
 identity-connection-verified = Ești conectat în mod securizat la acest site.
 identity-ev-owner-label = Certificat emis către:
+identity-verifier-label = Verificat de:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Calificat conform specificațiilor din Regulamentul (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nu recunoaște acest emițător de certificate. Este posibil să fi fost adăugat de sistemul tău de operare sau de un administrator.
+identity-cert-exception-overridden = Ai adăugat o excepție de securitate pentru acest site.
 identity-remove-cert-exception =
     .label = Elimină excepția
     .accesskey = R
@@ -652,6 +664,11 @@ sharing-warning-proceed-to-tab =
     .label = Mergi la filă
 sharing-warning-disable-for-session =
     .label = Dezactivează protecția partajării pentru această sesiune
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Selectează un port serial:
+webserial-no-ports-available = Nu există porturi seriale disponibile
 
 ## DevTools F12 popup
 
@@ -1013,6 +1030,7 @@ urlbar-searchmode-popup-one-off-header = De data asta caută cu:
 # reset after submitting.
 urlbar-searchmode-popup-header = Căutare cu:
 urlbar-searchmode-popup-search-settings-panelitem = Setări de căutare
+urlbar-searchmode-popup-settings-panelitem = Setări
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1028,6 +1046,12 @@ urlbar-result-action-switch-to-tabgroup = Treci pe { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Deschide { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Deschide într-o filă nouă
+    .accesskey = w
 
 ## Labels shown above groups of urlbar results
 
