@@ -848,6 +848,40 @@ newtab-promo-card-dismiss-button =
     .title = 닫기
     .aria-label = 닫기
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label = { $minutes }분 타이머 시작
+newtab-widget-timer-pause-aria =
+    .aria-label = 타이머 일시 중지
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label = { $minutes }분
+newtab-widget-timer-decrease-min =
+    .title = 1분 감소
+newtab-widget-timer-increase-min =
+    .title = 1분 증가
+newtab-widget-timer-mode-group =
+    .aria-label = 타이머 모드
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = 집중
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = 휴식
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = 타이머 숨기기
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = 잘하셨어요
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = 휴식 시간이 종료됨
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = 휴식이 필요하신가요?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = 집중할 준비가 되었나요?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = 팀 팔로우
@@ -855,7 +889,24 @@ newtab-sports-widget-menu-view-upcoming = 예정된 경기 보기
 newtab-sports-widget-menu-view-results = 결과 보기
 newtab-sports-widget-menu-learn-more = 더 알아보기
 newtab-sports-widget-countdown-title = 월드컵 카운트다운
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = 라이브 경기 업데이트 등을 받으세요.
+newtab-sports-widget-view-schedule =
+    .label = 일정 보기
 newtab-sports-widget-follow-teams =
     .label = 팀 팔로우
 newtab-sports-widget-choose-wallpaper =

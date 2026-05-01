@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI 제어
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = { -brand-short-name } 정보
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = 접근성
     .title = { pane-accessibility-title }
 pane-languages-title = 언어
@@ -691,6 +693,9 @@ update-application-allow-description = { -brand-short-name } 설치 방법
 update-application-auto =
     .label = 자동으로 업데이트 설치 (권장)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = 업데이트를 확인하지만, 설치할 때를 선택
+    .accesskey = C
 update-application-check-choose =
     .label = 업데이트를 확인하지만 설치할지는 묻기
     .accesskey = C
@@ -724,6 +729,11 @@ update-in-progress-ok-button = 버리기(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 계속(&C)
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } 정보
 
 ## Firefox updates
 
