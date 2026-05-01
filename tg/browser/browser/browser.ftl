@@ -1008,6 +1008,7 @@ urlbar-searchmode-popup-one-off-header = Ин дафъа бо зерин ҷус�
 # reset after submitting.
 urlbar-searchmode-popup-header = Ҷустуҷӯ тавассути:
 urlbar-searchmode-popup-search-settings-panelitem = Танзимоти ҷустуҷӯ
+urlbar-searchmode-popup-settings-panelitem = Танзимот
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1023,6 +1024,21 @@ urlbar-result-action-switch-to-tabgroup = Гузариш ба { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Кушодани «{ $group }»
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Кушодан дар варақаи нав
+    .accesskey = К
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Кушодан дар варақаи нави дарбаргиранда
+    .accesskey = К
+urlbar-view-context-menu-open-in-window =
+    .label = Кушодан дар равзанаи нав
+    .accesskey = К
+urlbar-view-context-menu-open-in-private-window =
+    .label = Кушодан дар равзанаи хусусии нав
+    .accesskey = К
 
 ## Labels shown above groups of urlbar results
 

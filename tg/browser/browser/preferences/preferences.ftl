@@ -707,6 +707,11 @@ update-in-progress-ok-button = &Рад кардан
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Идома додан
 
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Огоҳномаҳо
+
 ## Firefox support
 
 support-application-heading =
@@ -791,6 +796,10 @@ browsing-group =
 
 ## Accessibility page
 
+preferences-accessibility-header =
+    .heading = Қобилияти дастрасӣ
+preferences-default-zoom-select =
+    .aria-label = Андозаи пешфарз
 preferences-fonts-size =
     .label = Андозаи ҳуруф
     .accesskey = А
@@ -811,6 +820,8 @@ network-proxy-connection-settings =
 
 home-new-windows-tabs-header = Равзанаҳо ва варақаҳои нав
 home-new-windows-tabs-description2 = Интихоб кунед, ки чӣ бояд нишон дода шавад, вақте ки шумо саҳифаи асосӣ, равзанаҳои нав ва варақаҳои навро мекушоед.
+home-section =
+    .heading = Саҳифаи асосӣ ва оғози кор
 
 ## Home Section - Default Browser
 
@@ -966,6 +977,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Вақтсанҷ
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Варзишҳо
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Дастгирӣ кардани «{ -brand-product-name }»
