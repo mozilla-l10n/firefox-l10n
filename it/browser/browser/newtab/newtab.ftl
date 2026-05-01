@@ -889,6 +889,8 @@ newtab-sports-widget-information = Informazioni sulla partita
 newtab-sports-widget-no-live-data = Al momento i dati delle partite in diretta non si stanno aggiornando
 newtab-sports-widget-view-results-link = Visualizza risultati
 newtab-sports-widget-third-place = Terzo posto
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Secondi classificati
 newtab-sports-widget-champions = Campioni
 newtab-sports-widget-world-cup-champions = Campioni della Coppa del Mondo 2026
 
