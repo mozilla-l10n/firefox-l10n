@@ -551,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = No se estableció una conexión segura con este sitio.
 identity-connection-verified = Se estableció una conexión segura con este sitio.
 identity-ev-owner-label = Certificado emitido a nombre de:
+identity-verifier-label = Verificado por:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Cualificado según lo especificado en el Reglamento (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla no reconoce a este emisor de certificados. El sistema operativo o algún administrador puede haberlo añadido.
+identity-cert-exception-overridden = Has agregado una excepción de seguridad para este sitio.
 identity-remove-cert-exception =
     .label = Eliminar excepción
     .accesskey = E
@@ -1038,6 +1040,21 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Abrir en una nueva pestaña
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Abrir en nueva pestaña contenedora
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Abrir en una nueva ventana
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Abrir en una nueva ventana privada
+    .accesskey = P
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1272,6 +1289,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Compartir
     .tooltiptext = Compartir esta página
+toolbar-button-tab-groups =
+    .label = Grupos de pestañas
+    .tooltiptext = Mostrar tus grupos de pestañas
 
 ## EME notification panel
 
@@ -1452,6 +1472,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Finalizar sesión privada
     .tooltiptext = Finalizar sesión privada
+reset-pbm-panel-heading2 = ¿Borrar datos y abrir una nueva sesión privada?
+reset-pbm-panel-description2 = Esto borra el historial, las cookies y todos los demás datos de sitios sin cerrar tu ventana privada.
 reset-pbm-panel-heading = ¿Finalizar tu sesión privada?
 reset-pbm-panel-description = Cerrar todas las pestañas privadas y borrar el historial, las cookies y todos los demás datos del sitio.
 reset-pbm-panel-always-ask-checkbox =
@@ -1460,6 +1482,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Limpiar sesión privada
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = Eliminar datos de la sesión
     .accesskey = D
@@ -1707,6 +1732,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitió { $count } criptomineros
     }
 trustpanel-cryptominer-tab-list-header = Estos sitios están intentando minar criptomonedas:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ¿Tienes una cuenta en este sitio?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } detectó que este sitio tuvo una filtración de datos en los últimos 12 meses. Averigua si te afectó.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Descartar
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Iniciar escaneo gratuito
 trustpanel-blocker-section-header2 =
@@ -1717,6 +1745,8 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>¿El sitio no se ve bien?</strong> Vuelve a cargar la página para reducir temporalmente la protección de rastreo.
 reduced-protection-infobar-reload-button = Recargar
     .accesskey = R
 reduced-protection-infobar-never-show-button = No mostrar de nuevo
