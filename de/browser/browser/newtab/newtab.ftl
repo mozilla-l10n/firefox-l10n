@@ -854,6 +854,27 @@ newtab-promo-card-dismiss-button =
     .title = Verwerfen
     .aria-label = Verwerfen
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes }-Minute-Timer starten
+           *[other] { $minutes }-Minuten-Timer starten
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Timer pausieren
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $count } Minute
+           *[other] { $count } Minuten
+        }
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teams folgen
