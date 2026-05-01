@@ -707,12 +707,15 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = 이 설정은 이 { -brand-short-name } 설치를 사용하는 모든 Windows 계정 및 { -brand-short-name } 프로필에 적용됩니다.
+update-application-suppress-prompts-2 =
+    .label = 업데이트 알림 줄이기
+    .accesskey = n
 update-application-warning-cross-user-setting = 이 설정은 이 { -brand-short-name } 설치를 사용하는 모든 Windows 계정 및 { -brand-short-name } 프로필에 적용됩니다.
 update-application-use-service =
     .label = 업데이트 설치 시 백그라운드 작업으로 하기
     .accesskey = b
 update-application-suppress-prompts =
-    .label = 업데이트 알림 프롬프트 적게 표시
+    .label = 업데이트 알림 프롬프트 줄이기
     .accesskey = n
 update-setting-write-failure-title2 = 업데이트 설정 저장 중 오류 발생
 # Variables:

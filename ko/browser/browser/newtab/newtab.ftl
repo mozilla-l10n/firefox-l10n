@@ -937,6 +937,8 @@ newtab-sports-widget-information = 경기 정보
 newtab-sports-widget-no-live-data = 현재 라이브 경기 데이터가 업데이트되지 않고 있습니다
 newtab-sports-widget-view-results-link = 결과 보기
 newtab-sports-widget-third-place = 3위
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = 준우승
 newtab-sports-widget-champions = 우승팀
 newtab-sports-widget-world-cup-champions = 2026년 월드컵 우승팀
 

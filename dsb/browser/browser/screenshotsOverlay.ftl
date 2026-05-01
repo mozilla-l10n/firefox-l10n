@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = Pśetergnuś
-screenshots-overlay-instructions = Śěgniśo abo klikniśo na bok, aby wobcerk wubrał. Tłocćo na ESC, aby pśetergnuł.
+screenshots-overlay-instructions = Śěgniśo abo klikniśo na bok, aby wobceŕk wubrał. Tłocćo na ESC, aby pśetergnuł.
 screenshots-overlay-download-button = Ześěgnuś
 screenshots-overlay-copy-button = Kopěrowaś
