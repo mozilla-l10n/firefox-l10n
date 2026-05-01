@@ -874,6 +874,27 @@ newtab-widget-timer-spinbutton-name =
             [one] { $count } Minute
            *[other] { $count } Minuten
         }
+newtab-widget-timer-decrease-min =
+    .title = 1 Minute verringern
+newtab-widget-timer-increase-min =
+    .title = 1 Minute verlängern
+newtab-widget-timer-mode-group =
+    .aria-label = Timer-Modus
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pause
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Timer ausblenden
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Gute Arbeit
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Ihre Pause ist vorbei
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Benötigen Sie eine Pause?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Bereit, sich zu konzentrieren?
 
 ## Sports widget
 
@@ -882,7 +903,24 @@ newtab-sports-widget-menu-view-upcoming = Kommende anzeigen
 newtab-sports-widget-menu-view-results = Ergebnisse anzeigen
 newtab-sports-widget-menu-learn-more = Weitere Informationen
 newtab-sports-widget-countdown-title = Countdown bis zur Weltmeisterschaft
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = T
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = S
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Erhalten Sie Live-Updates zu Spielen und mehr.
+newtab-sports-widget-view-schedule =
+    .label = Spielplan ansehen
 newtab-sports-widget-follow-teams =
     .label = Teams folgen
 newtab-sports-widget-choose-wallpaper =
@@ -913,6 +951,8 @@ newtab-sports-widget-information = Informationen über das Spiel
 newtab-sports-widget-no-live-data = Live-Daten zum Spiel werden derzeit nicht aktualisiert
 newtab-sports-widget-view-results-link = Ergebnisse anzeigen
 newtab-sports-widget-third-place = Dritter Platz
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Zweiter
 newtab-sports-widget-champions = Meister
 newtab-sports-widget-world-cup-champions = Weltmeister 2026
 
