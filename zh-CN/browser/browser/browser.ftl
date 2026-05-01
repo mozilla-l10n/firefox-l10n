@@ -282,6 +282,8 @@ urlbar-canvas-blocked =
     .tooltiptext = 您已禁止此网站获取 Canvas 数据。
 urlbar-midi-blocked =
     .tooltiptext = 您已阻止此网站访问 MIDI。
+urlbar-serial-blocked =
+    .tooltiptext = 您已阻止此网站访问串行端口。
 urlbar-install-blocked =
     .tooltiptext = 您已阻止此网站安装附加组件。
 # Variables
@@ -1431,6 +1433,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = 结束隐私浏览
     .tooltiptext = 结束隐私浏览
+reset-pbm-panel-heading2 = 确定要清除数据并开始新的隐私浏览吗？
 reset-pbm-panel-heading = 要结束隐私浏览吗？
 reset-pbm-panel-description = 关闭所有隐私标签页，并删除历史记录和 Cookie 等所有网站数据。
 reset-pbm-panel-always-ask-checkbox =
@@ -1629,6 +1632,8 @@ trustpanel-blocker-section-header2 = 已在此网站上拦截 <span data-l10n-na
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>网站功能异常？</strong>重新加载页面以暂时降低跟踪保护等级。
 reduced-protection-infobar-reload-button = 重新加载
     .accesskey = R
 reduced-protection-infobar-never-show-button = 不再显示
