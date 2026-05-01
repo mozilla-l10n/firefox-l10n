@@ -363,6 +363,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listeler
 newtab-custom-widget-timer-toggle =
     .label = Sayaç
+newtab-custom-widget-sports-toggle =
+    .label = Dünya Kupası
 newtab-custom-widget-section-title = Araçlar
 newtab-custom-widget-section-toggle =
     .label = Araçlar
@@ -734,6 +736,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Tamamlandı ({ $number })
+newtab-widget-lists-celebration-headline = İyi iş
 newtab-widget-task-list-menu-copy = Kopyala
 newtab-widget-lists-menu-edit = Liste adını düzenle
 newtab-widget-lists-menu-edit2 =
@@ -839,6 +842,33 @@ newtab-promo-card-cta = Daha fazla bilgi alın
 newtab-promo-card-dismiss-button =
     .title = Kapat
     .aria-label = Kapat
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Takımları takip et
+newtab-sports-widget-countdown-title = Dünya Kupası’na geri sayım
+newtab-sports-widget-get-updates = Canlı maç haberlerini ve daha fazlasını alın.
+newtab-sports-widget-follow-teams =
+    .label = Takımları takip et
+newtab-sports-widget-choose-wallpaper =
+    .label = Duvar kâğıdı seç
+newtab-sports-widget-skip = Atla
+newtab-sports-widget-search-teams =
+    .placeholder = Takım ara
+    .aria-label = Takım ara
+newtab-sports-widget-done-button =
+    .label = Tamam
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = CANLI
+newtab-sports-widget-upcoming = Yaklaşıyor
+newtab-sports-widget-results = Sonuçlar
+newtab-sports-widget-semi-finals = Yarı finaller
+newtab-sports-widget-bronze-finals = Üçüncülük maçı
+newtab-sports-widget-final = Final
+newtab-sports-widget-delayed = Gecikmeli
+newtab-sports-widget-third-place = Üçüncü
+newtab-sports-widget-champions = Şampiyon
+newtab-sports-widget-world-cup-champions = 2026 Dünya Kupası Şampiyonu
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
