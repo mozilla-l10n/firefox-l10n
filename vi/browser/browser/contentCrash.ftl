@@ -36,3 +36,6 @@ requested-crash-reports-message = Bạn có { $reportCount } báo cáo sự cố
 requested-crash-reports-dont-show-again =
     .label = Đừng hiển thị lại
     .accesskey = D
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new = Bạn có { $reportCount } báo cáo sự cố chưa gửi gần đây

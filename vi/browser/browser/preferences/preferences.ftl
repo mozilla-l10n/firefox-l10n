@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Trợ năng
     .title = { pane-accessibility-title }
+pane-languages-title = Ngôn ngữ
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Thử nghiệm { -brand-short-name }
 category-experimental =
     .tooltiptext = Thử nghiệm { -brand-short-name }
@@ -77,6 +82,8 @@ pane-experimental-subtitle = Tiến hành thận trọng
 pane-experimental-search-results-header = Thử nghiệm { -brand-short-name }: Tiến hành thận trọng
 pane-experimental-description2 = Thay đổi cài đặt cấu hình nâng cao có thể ảnh hưởng đến hiệu suất hoặc bảo mật của { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Hãy thử các tính năng thử nghiệm của chúng tôi! Chúng đang được phát triển và cải tiến, điều này có thể ảnh hưởng đến cách thức hoạt động của { -brand-short-name }. Chúng tôi chỉ nhận dữ liệu về việc bạn sử dụng các tính năng này nếu bạn đã bật thu thập <a data-l10n-name="data-collection">dữ liệu kỹ thuật và tương tác</a>.
@@ -448,6 +455,14 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = Khởi động lại { -brand-short-name } để áp dụng các thay đổi này
 confirm-browser-language-change-button = Áp dụng và Khởi động lại
+browser-language-heading =
+    .label = Ngôn ngữ trình duyệt
+    .description = Chọn ngôn ngữ được sử dụng để hiển thị menu, tin nhắn và thông báo từ { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Ngôn ngữ ưu tiên
+browser-language-fallback-label =
+    .label = Ngôn ngữ dự phòng
+    .description = Được sử dụng khi bản địa hoá của ngôn ngữ ưu tiên chưa hoàn thiện.
 browser-language-install-error =
     .message = { -brand-short-name } không thể cập nhật ngôn ngữ của bạn ngay bây giờ. Kiểm tra kết nối internet và thử lại.
 translate-web-pages =
@@ -667,6 +682,8 @@ update-application-version = Phiên bản { $version } <a data-l10n-name="learn-
 update-history-2 =
     .label = Hiển thị lịch sử cập nhật
     .accesskey = p
+update-application-installation =
+    .label = Cài đặt
 update-history =
     .label = Hiển thị lịch sử cập nhật…
     .accesskey = p
@@ -707,6 +724,16 @@ update-in-progress-ok-button = &Hủy bỏ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
+
+## Firefox updates
+
+update-application-heading =
+    .label = Cập nhật { -brand-short-name }
+    .description = Cập nhật sẽ cải thiên tốc độ, độ ổn định và bảo mật cho { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Thông báo
+update-application-updates-managed-by-os =
+    .message = Bản cập nhật được quản lý bởi hệ điều hành của bạn
 
 ## Firefox support
 
@@ -987,6 +1014,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Bộ hẹn giờ
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Thể thao
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Hỗ trợ cho { -brand-product-name }
@@ -1000,6 +1030,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Chọn một hình nền
 home-prefs-choose-wallpaper-link2 =
     .label = Chọn một hình nền
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Để sử dụng các tính năng này, hãy đặt thẻ mới hoặc cửa sổ mới thành { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1523,6 +1558,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Tìm hiểu thêm
 forms-windows-sso-desc = Quản lý tài khoản trong cài đặt thiết bị của bạn
 windows-passkey-settings-label = Quản lý passkey trong cài đặt hệ thống
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Bảng cài đặt quyền riêng tư
+    .description = Nhận trợ giúp bảo vệ thông tin trực tuyến của bạn tại { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Hiển thị thông báo rò rỉ
+    .accesskey = s
 
 ## OS Authentication dialog
 
