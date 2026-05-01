@@ -23,6 +23,11 @@ compatibility-settings-button-label = الإعدادات
 compatibility-settings-button-title =
     .title = الإعدادات
 
+## Messages used as headers in settings pane
+
+compatibility-settings-header = الإعدادات
+compatibility-target-browsers-header = المتصفحات المستهدفة
+
 ##
 
 compatibility-no-issues-found = لم توجد أي مشاكل في التوافقية.

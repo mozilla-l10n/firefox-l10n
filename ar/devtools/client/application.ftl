@@ -53,6 +53,8 @@ manifest-empty-intro-link = تعرّف على كيفية إضافة بيان
 manifest-item-warnings = الأخطاء والتحذيرات
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = الهويّة
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = عرض تقديمي
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = الأيقونات
 # Text displayed while we are loading the manifest file
