@@ -262,6 +262,12 @@ vpn-paused-alert-title = VPN pausado
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Has usado todos los { $maxUsage } GB de datos de tu VPN. El acceso a la VPN se restablecerá el próximo mes.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Has usado todos los { $maxUsage } GB de tus datos de VPN. El acceso se restablecerá el próximo mes.
+vpn-error-page-continue-description = Elige cómo continuar sin la VPN
+vpn-error-page-keep-browsing = Seguir navegando en esta sesión
+vpn-error-page-new-session = Inicia una nueva sesión
 vpn-paused-alert-close-tabs-button = Cerrar todas las pestañas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sin VPN
 vpn-error-alert-title = La VPN no está funcionando en este momento.
