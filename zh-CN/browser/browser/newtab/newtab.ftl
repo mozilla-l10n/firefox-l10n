@@ -840,6 +840,16 @@ newtab-promo-card-dismiss-button =
 
 ## Sports widget
 
+newtab-sports-widget-menu-follow-teams = 关注球队
+newtab-sports-widget-menu-view-upcoming = 查看即将进行的比赛
+newtab-sports-widget-menu-learn-more = 详细了解
+newtab-sports-widget-countdown-title = 世界杯即将开幕
+newtab-sports-widget-get-updates = 获取实时赛况等信息。
+newtab-sports-widget-follow-teams =
+    .label = 关注球队
+newtab-sports-widget-choose-wallpaper =
+    .label = 选择壁纸
+newtab-sports-widget-skip = 跳过
 newtab-sports-widget-search-teams =
     .placeholder = 搜索球队
     .aria-label = 搜索球队
