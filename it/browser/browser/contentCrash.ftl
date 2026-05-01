@@ -55,4 +55,3 @@ pending-crash-reports-message-new =
         [one] È presente { $reportCount } segnalazione recente di arresto anomalo non ancora inviata
        *[other] Sono presenti { $reportCount } segnalazioni recenti di arresto anomalo non ancora inviate
     }
-
