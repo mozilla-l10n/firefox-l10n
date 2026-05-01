@@ -846,6 +846,28 @@ newtab-promo-card-dismiss-button =
     .title = 知道了！
     .aria-label = 知道了！
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label = 開始計時 { $minutes } 分鐘
+newtab-widget-timer-pause-aria =
+    .aria-label = 暫停計時器
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label = { $minutes } 分鐘
+newtab-widget-timer-decrease-min =
+    .title = 減少 1 分鐘
+newtab-widget-timer-increase-min =
+    .title = 增加 1 分鐘
+newtab-widget-timer-mode-group =
+    .aria-label = 計時器模式
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = 隱藏計時器
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = 關注球隊

@@ -850,6 +850,48 @@ newtab-promo-card-dismiss-button =
     .title = Ignorera
     .aria-label = Ignorera
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Starta { $minutes }-minuters timer
+           *[other] Starta { $minutes }-minuters timer
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Pausa timer
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minut
+           *[other] { $minutes } minuter
+        }
+newtab-widget-timer-decrease-min =
+    .title = Minska med 1 minut
+newtab-widget-timer-increase-min =
+    .title = Öka med 1 minut
+newtab-widget-timer-mode-group =
+    .aria-label = Timerläge
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Paus
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Dölj timer
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bra jobbat
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Din paus är över
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Behöver du en paus?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Redo att fokusera?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Följ lag
@@ -857,7 +899,24 @@ newtab-sports-widget-menu-view-upcoming = Visa kommande
 newtab-sports-widget-menu-view-results = Visa resultat
 newtab-sports-widget-menu-learn-more = Läs mer
 newtab-sports-widget-countdown-title = Nedräkning till VM
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Få liveuppdateringar om matcher och mycket mer.
+newtab-sports-widget-view-schedule =
+    .label = Visa schema
 newtab-sports-widget-follow-teams =
     .label = Följ lag
 newtab-sports-widget-choose-wallpaper =
@@ -888,6 +947,8 @@ newtab-sports-widget-information = Information om matchen
 newtab-sports-widget-no-live-data = Live matchdata uppdateras inte just nu
 newtab-sports-widget-view-results-link = Visa resultat
 newtab-sports-widget-third-place = Tredje plats
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Tvåa
 newtab-sports-widget-champions = Mästare
 newtab-sports-widget-world-cup-champions = Världsmästare 2026
 

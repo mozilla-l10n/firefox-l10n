@@ -846,6 +846,48 @@ newtab-promo-card-dismiss-button =
     .title = Ignorer
     .aria-label = Ignorer
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Démarrer le chronomètre de { $minutes } minutes
+           *[other] Démarrer le chronomètre de { $minutes } minutes
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Minuteur de pause
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minute
+           *[other] { $minutes } minutes
+        }
+newtab-widget-timer-decrease-min =
+    .title = Diminuer la durée d’une minute
+newtab-widget-timer-increase-min =
+    .title = Augmenter de 1 minute
+newtab-widget-timer-mode-group =
+    .aria-label = Mode minuteur
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Concentration
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pause
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Masquer le minuteur
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bien joué
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Votre pause est terminée
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Besoin de faire une pause ?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Prêt·e à mettre au point ?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Suivre des équipes
@@ -853,7 +895,24 @@ newtab-sports-widget-menu-view-upcoming = Voir les matchs à venir
 newtab-sports-widget-menu-view-results = Voir les résultats
 newtab-sports-widget-menu-learn-more = En savoir plus
 newtab-sports-widget-countdown-title = Compte à rebours avant la Coupe du monde
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Recevez les dernières infos en direct sur les matchs et bien plus encore.
+newtab-sports-widget-view-schedule =
+    .label = Voir le calendrier
 newtab-sports-widget-follow-teams =
     .label = Suivre des équipes
 newtab-sports-widget-choose-wallpaper =
@@ -884,6 +943,8 @@ newtab-sports-widget-information = Informations à propos du match
 newtab-sports-widget-no-live-data = Les informations des matchs en direct ne sont pas actualisées pour le moment
 newtab-sports-widget-view-results-link = Voir les résultats
 newtab-sports-widget-third-place = Troisième place
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Finaliste
 newtab-sports-widget-champions = Champions
 newtab-sports-widget-world-cup-champions = Champions du monde 2026
 

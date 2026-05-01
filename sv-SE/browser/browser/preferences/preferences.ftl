@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI-kontroller
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Om { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Tillgänglighet
     .title = { pane-accessibility-title }
 pane-languages-title = Språk
@@ -703,6 +705,9 @@ update-application-allow-description = Tillåt { -brand-short-name } att
 update-application-auto =
     .label = Installera uppdateringar automatiskt (rekommenderas)
     .accesskey = a
+update-application-check-choose-2 =
+    .label = Sök efter uppdateringar, men välj när du vill installera
+    .accesskey = S
 update-application-check-choose =
     .label = Sök efter uppdateringar, men låt mig välja om jag vill installera dem
     .accesskey = S
@@ -714,6 +719,9 @@ update-application-background-enabled =
     .accesskey = N
 update-application-warning-cross-user-setting-2 =
     .message = Den här inställningen gäller alla Windows-konton och { -brand-short-name } profiler som använder den här installationen av { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Visa färre uppdateringspåminnelser
+    .accesskey = V
 update-application-warning-cross-user-setting = Den här inställningen gäller alla Windows-konton och { -brand-short-name } profiler som använder den här installationen av { -brand-short-name }.
 update-application-use-service =
     .label = Använd en bakgrundstjänst för att installera uppdateringar
@@ -736,6 +744,11 @@ update-in-progress-ok-button = &Ignorera
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsätt
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Om { -brand-short-name }
 
 ## Firefox updates
 
