@@ -25,18 +25,30 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Îți prezentăm VPN-ul, acum direct în browser
 ipprotection-feature-introduction-link-text-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Adaugă încă un strat de confidențialitate
+ipprotection-feature-introduction-link-text-privacy = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre 5 locații pentru confidențialitatea locurilor pe unde mergi pe internet.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Obține <a data-l10n-name="learn-more-vpn">extra confidențialitate</a> alegând dintre 5 locații pentru a ascunde pe unde mergi pe internet.
 ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
 ipprotection-feature-introduction-button-primary = Înainte
 ipprotection-feature-introduction-button-secondary-not-now = Nu acum
 ipprotection-feature-introduction-button-secondary-no-thanks = Nu, mulțumesc
+ipprotection-feature-introduction-button-secondary-remove = Elimină VPN-ul din bara de instrumente
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Alege unde folosești VPN-ul
 ipprotection-site-settings-callout-subtitle = Dezactivează VPN-ul pentru un anumit site și vom ține minte data viitoare când intri pe el.
 ipprotection-site-settings-callout-button = Am înțeles
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nou: Schimbă-ți locația
 
 ## Panel
 

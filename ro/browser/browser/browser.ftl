@@ -1052,6 +1052,15 @@ urlbar-result-action-open-saved-tabgroup = Deschide { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Deschide într-o filă nouă
     .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Deschide în filă nouă în container
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Deschide în fereastră nouă
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Deschide în fereastră nouă privată
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
@@ -1125,6 +1134,9 @@ fullscreen-warning-no-domain = Acest document este acum în ecran complet
 fullscreen-exit-button = Ieși din modul ecran complet (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ieși din modul ecran complet (esc)
+fullscreen-keyboardlock-exit-button = Ieșire din ecranul complet (Ține apăsat Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Ieșire din ecranul complet (Ține apăsat esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1284,6 +1296,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Partajează
     .tooltiptext = Partajează pagina
+toolbar-button-tab-groups =
+    .label = Grupe de file
+    .tooltiptext = Afișează grupele de file
 
 ## EME notification panel
 
@@ -1467,6 +1482,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Închide sesiunea privată
     .tooltiptext = Închide sesiunea privată
+reset-pbm-panel-heading2 = Ștergi datele și începi o sesiune privată nouă?
+reset-pbm-panel-description2 = Va șterge istoricul, cookie-urile și toate celelalte date ale site-ului fără să închizi fereastra privată.
 reset-pbm-panel-heading = Termini sesiunea privată?
 reset-pbm-panel-description = Închide toate filele private și șterge istoricul, cookie-urile și toate celelalte date ale site-urilor.
 reset-pbm-panel-always-ask-checkbox =
@@ -1475,6 +1492,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Anulează
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Șterge sesiunea privată
+    .accesskey = l
 reset-pbm-panel-confirm-button =
     .label = Șterge datele sesiunii
     .accesskey = D
@@ -1743,9 +1763,23 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } a permis { $count } de criptomineri
     }
 trustpanel-cryptominer-tab-list-header = Aceste site-uri încearcă să criptomineze:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Ai un cont pe acest site?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } a descoperit că acest site are o încălcare a securității datelor în ultimele 12 luni. Află cum te-a afectat.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Închide
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Începe scanarea gratuită
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> element de urmărire blocat pe acest site
         [few] <span data-l10n-name="count">{ $count }</span> elemente de urmărire blocate pe acest site
        *[other] <span data-l10n-name="count">{ $count }</span> de elemente de urmărire blocate pe acest site
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Site-ul pare defect?</strong> Reîncarcă pagina pentru reducerea temporară a protecției împotriva urmăririi.
+reduced-protection-infobar-reload-button = Reîncarcă
+    .accesskey = R
+reduced-protection-infobar-never-show-button = Nu mai afișa
+    .accesskey = D

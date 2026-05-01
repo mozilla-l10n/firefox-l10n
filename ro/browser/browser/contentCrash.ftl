@@ -51,3 +51,11 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Nu mai afișa
     .accesskey = D
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Ai un raport recent de defecțiune netrimis
+        [few] Ai { $reportCount } rapoarte recente de defecțiuni netrimise
+       *[other] Ai { $reportCount } de rapoarte recente de defecțiuni netrimise
+    }

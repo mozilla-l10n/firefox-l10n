@@ -13,6 +13,7 @@ customkeys-reset-all = Resetează toate comenzile rapide la valorile implicite
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Această cheie este deja atribuită pentru { $conflict }. Vrei să o înlocuiești?
 customkeys-reset-all-confirm = Sigur vrei să resetezi toate comenzile rapide din tastatură la valorile implicite?
+customkeys-file-duplicate-tab = Duplică fila
 customkeys-history-reopen-tab = Redeschide ultima filă închisă
 customkeys-history-reopen-window = Redeschide ultima fereastră închisă
 customkeys-sidebar-toggle = Comută bara laterală
