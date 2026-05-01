@@ -423,6 +423,10 @@ quickactions-logins2 = Parolaları yönet
 quickactions-cmd-logins = hesaplar, parolalar
 # Mutes all tabs playing audio
 quickactions-mute = Ses çalan sekmeleri sessize al
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = sessiz, sus, şşt
 # Opens about:addons page in the plugins section
 quickactions-plugins = Yan uygulamaları yönet
 quickactions-cmd-plugins = yan uygulamalar

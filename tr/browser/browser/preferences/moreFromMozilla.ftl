@@ -14,6 +14,9 @@ more-from-moz-subtitle = Sağlıklı bir interneti destekleyen diğer { -vendor-
 more-from-moz-firefox-mobile-title = { -brand-product-name } Mobil
 more-from-moz-firefox-mobile-description = Gizliliğinizi ilk sıraya koyan mobil tarayıcı.
 more-from-moz-firefox-mobile-title-1 = Mobil Cihazlar için { -brand-product-name }
+more-from-moz-firefox-mobile =
+    .label = Mobil Cihazlar için { -brand-product-name }
+    .description = Gizliliğinizi ilk sıraya koyan mobil tarayıcı.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Anonim gezinti ve korumayı keşfedin.
 more-from-moz-qr-code-box-firefox-mobile-title = Mobil cihazınızla indirin. QR kodunu kameranıza okutun. Bağlantı göründüğünde ona dokunun.
@@ -53,26 +56,37 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-description = E-postanızı, takviminizi ve kişilerinizi ücretsiz olarak ve istediğiniz gibi yönetin.
+more-from-moz-thunderbird-button = { -thunderbird-brand-short-name }’ü indirin
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
 more-from-moz-new-products-title = { -vendor-short-name } New Products
+more-from-moz-new-products-description = En yeni { -vendor-short-name } ürünlerini keşfedin.
 more-from-moz-new-products-button = Yeni ürünlere bakın
 
 ## These strings are for the config-based (SRD) moreFromMozilla page using
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Uygulamayı indirmek için telefon veya tabletinizin kamerasına kodu okutun. Bağlantı göründüğünde bağlantıya dokunun.
 more-from-moz-firefox-mobile-email-link = İndirme bağlantısını telefonuma e-postayla gönder
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name } New Products
+    .description = En yeni { -vendor-short-name } ürünlerini keşfedin.
+more-from-moz-mozilla-monitor-box-link =
+    .label = { -monitor-brand-short-name }’ü kullanın
 more-from-moz-mozilla-vpn-box-link =
     .label = { -mozilla-vpn-brand-name }’i edinin
 more-from-moz-firefox-relay-box-link =
     .label = { -relay-brand-short-name }’i kullanın
 more-from-moz-mdn-box-link =
     .label = MDN’e gidin
+more-from-moz-thunderbird-box-link =
+    .label = { -thunderbird-brand-short-name }’ü indirin
 more-from-moz-solo-box-link =
     .label = { -solo-ai-brand-name }’yu deneyin
 more-from-moz-new-products-box-link =

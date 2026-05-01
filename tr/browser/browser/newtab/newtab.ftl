@@ -864,6 +864,7 @@ newtab-sports-widget-search-teams =
     .aria-label = Takım ara
 newtab-sports-widget-done-button =
     .label = Tamam
+newtab-sports-widget-group-stage = Grup maçı
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = CANLI
 newtab-custom-widget-live-refresh =
