@@ -943,7 +943,10 @@ newtab-sports-widget-information = Información del encuentro
 newtab-sports-widget-no-live-data = Los datos del partido en vivo no se están actualizando
 newtab-sports-widget-view-results-link = Ver resultados
 newtab-sports-widget-third-place = Tercer lugar
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Subcampeón
 newtab-sports-widget-champions = Campeones
+newtab-sports-widget-world-cup-champions = Campeones del Mundial 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
