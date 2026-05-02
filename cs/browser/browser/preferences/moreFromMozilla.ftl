@@ -8,15 +8,19 @@
 more-from-moz-title =
     { -vendor-short-name.case-status ->
         [with-cases] Více od { -vendor-short-name(case: "gen") }
-       *[no-cases] Více od společnosti { -vendor-short-name }
+       *[no-cases] Více od organizace { -vendor-short-name }
     }
 more-from-moz-page-header =
-    .heading = Více od společnosti { -vendor-short-name }
+    .heading =
+        { -vendor-short-name.case-status ->
+            [with-cases] Více od { -vendor-short-name(case: "gen") }
+           *[no-cases] Více od organizace { -vendor-short-name }
+        }
 more-from-moz-category =
     .tooltiptext =
         { -vendor-short-name.case-status ->
             [with-cases] Více od { -vendor-short-name(case: "gen") }
-           *[no-cases] Více od společnosti { -vendor-short-name }
+           *[no-cases] Více od organizace { -vendor-short-name }
         }
 more-from-moz-subtitle =
     { -vendor-short-name.case-status ->
