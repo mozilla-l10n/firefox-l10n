@@ -1434,6 +1434,7 @@ reset-pbm-toolbar-button =
     .label = 结束隐私浏览
     .tooltiptext = 结束隐私浏览
 reset-pbm-panel-heading2 = 确定要清除数据并开始新的隐私浏览吗？
+reset-pbm-panel-description2 = 这将删除历史记录、Cookie 以及其他所有网站数据，但不关闭隐私窗口。
 reset-pbm-panel-heading = 要结束隐私浏览吗？
 reset-pbm-panel-description = 关闭所有隐私标签页，并删除历史记录和 Cookie 等所有网站数据。
 reset-pbm-panel-always-ask-checkbox =
