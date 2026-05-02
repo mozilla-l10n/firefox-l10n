@@ -738,6 +738,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Fullført ({ $number })
+newtab-widget-lists-celebration-headline = Bra jobba
+newtab-widget-lists-celebration-subhead = Alt klart
 newtab-widget-task-list-menu-copy = Kopier
 newtab-widget-lists-menu-edit = Rediger listenamn
 newtab-widget-lists-menu-edit2 =
@@ -765,12 +767,19 @@ newtab-widget-lists-dropdown-create =
     .label = + Lag ei ny liste
 newtab-widget-lists-name-label-default =
     .label = Oppgåveliste
+newtab-widget-lists-name-label-checklist =
+    .label = Sjekkliste
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Oppgåveliste
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Sjekkliste
+    .aria-label = Rediger listenamn
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Ny liste
     .aria-label = Rediger listenamn
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Sjekkliste
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Ny liste
@@ -796,6 +805,7 @@ newtab-widget-section-menu-button =
 newtab-widget-section-menu-hide-all = Skjul widgetar
 newtab-widget-section-menu-learn-more = Les meir
 newtab-widget-section-feedback = Fortel oss kva du synest
+newtab-widget-lists-name-default = Sjekkliste
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -840,6 +850,7 @@ newtab-promo-card-dismiss-button =
 
 ## Sports widget
 
+newtab-sports-widget-menu-follow-teams = Følg lag
 newtab-sports-widget-menu-view-upcoming = Vis komande
 newtab-sports-widget-menu-view-results = Vis resultat
 newtab-sports-widget-menu-learn-more = Les meir
