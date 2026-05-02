@@ -848,6 +848,48 @@ newtab-promo-card-dismiss-button =
     .title = סגירה
     .aria-label = סגירה
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] הפעלת שעון עצר של דקה אחת
+           *[other] הפעלת שעון עצר של { $minutes } דקות
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = השהיית שעון עצר
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] דקה אחת
+           *[other] { $minutes } דקות
+        }
+newtab-widget-timer-decrease-min =
+    .title = הפחתה של דקה אחת
+newtab-widget-timer-increase-min =
+    .title = הוספה של דקה אחת
+newtab-widget-timer-mode-group =
+    .aria-label = מצב שעון עצר
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = ריכוז
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = הפסקה
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = הסתרת שעון עצר
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = עבודה טובה
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = ההפסקה שלך הסתיימה
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = יש לך צורך בהפסקה?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = נחזור להתרכז?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = מעקב אחרי נבחרות
@@ -855,7 +897,24 @@ newtab-sports-widget-menu-view-upcoming = הצגת המשחקים הבאים
 newtab-sports-widget-menu-view-results = הצגת תוצאות
 newtab-sports-widget-menu-learn-more = מידע נוסף
 newtab-sports-widget-countdown-title = ספירה לאחור לקראת המונדיאל
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = י’
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = ש’
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = ד’
 newtab-sports-widget-get-updates = קבלת עדכונים חיים על משחקים ועוד.
+newtab-sports-widget-view-schedule =
+    .label = הצגת לוח זמנים
 newtab-sports-widget-follow-teams =
     .label = מעקב אחרי נבחרות
 newtab-sports-widget-choose-wallpaper =
