@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = בקרי בינה מלאכותית
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = על אודות { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = נגישות
     .title = { pane-accessibility-title }
 pane-languages-title = שפות
@@ -714,6 +716,9 @@ update-application-background-enabled =
     .accesskey = כ
 update-application-warning-cross-user-setting-2 =
     .message = הגדרה זו תחול על כל חשבונות Windows ופרופילי { -brand-short-name } המשתמשים בהתקנה זו של { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = הצגת פחות תזכורות לעדכון
+    .accesskey = פ
 update-application-warning-cross-user-setting = הגדרה זו תחול על כל חשבונות Windows ופרופילי { -brand-short-name } המשתמשים בהתקנה זו של { -brand-short-name }.
 update-application-use-service =
     .label = שימוש בשירות רקע לשם התקנת עדכונים
@@ -736,6 +741,11 @@ update-in-progress-ok-button = &ביטול
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &המשך
+
+## About Firefox
+
+about-firefox-header =
+    .heading = על אודות { -brand-short-name }
 
 ## Firefox updates
 
