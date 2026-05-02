@@ -895,6 +895,21 @@ newtab-sports-widget-menu-view-upcoming = Vider incontros imminente
 newtab-sports-widget-menu-view-results = Visualisar resultatos
 newtab-sports-widget-menu-learn-more = Pro saper plus
 newtab-sports-widget-countdown-title = Computo a retro al Cuppa del mundo
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Obtene actualisationes al vivo del incontros e plus.
 newtab-sports-widget-view-schedule =
     .label = Vider agenda
@@ -928,6 +943,8 @@ newtab-sports-widget-information = Informationes re le incontro
 newtab-sports-widget-no-live-data = Le datos del incontro al vivo ancora non es actualisate
 newtab-sports-widget-view-results-link = Visualisar resultatos
 newtab-sports-widget-third-place = Tertie posto
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Secunde classificate
 newtab-sports-widget-champions = Campiones
 newtab-sports-widget-world-cup-champions = Campiones de Cuppa del mundo 2026
 
