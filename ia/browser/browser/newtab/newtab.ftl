@@ -850,6 +850,16 @@ newtab-promo-card-dismiss-button =
 
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Initiar temporisator pro { $minutes } minuta
+           *[other] Initiar temporisator pro { $minutes } minutas
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Pausar temporisator
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
     .aria-label =
         { $minutes ->
@@ -860,6 +870,8 @@ newtab-widget-timer-decrease-min =
     .title = Diminuer 1 minuta
 newtab-widget-timer-increase-min =
     .title = Augmentar 1 minuta
+newtab-widget-timer-mode-group =
+    .aria-label = Modo de temporisator
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Focus
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -867,6 +879,14 @@ newtab-widget-timer-running-break = Pausa
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Celar temporisator
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Optime labor
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Tu pausa es expirate
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Besonia tu un pausa?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Preste a concentrar?
 
 ## Sports widget
 

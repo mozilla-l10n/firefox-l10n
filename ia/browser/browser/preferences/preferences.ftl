@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Controlos de IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = A proposito de { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Accessibilitate
     .title = { pane-accessibility-title }
 pane-languages-title = Linguas
@@ -714,6 +716,9 @@ update-application-background-enabled =
     .accesskey = Q
 update-application-warning-cross-user-setting-2 =
     .message = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Monstrar minus mementos de actualisation
+    .accesskey = n
 update-application-warning-cross-user-setting = Iste configuration sera applicate a tote le contos de Windows e profilos de { -brand-short-name } per iste installation de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio in secunde plano pro installar le actualisationes
@@ -736,6 +741,11 @@ update-in-progress-ok-button = &Discartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## About Firefox
+
+about-firefox-header =
+    .heading = A proposito de { -brand-short-name }
 
 ## Firefox updates
 
