@@ -82,6 +82,8 @@ genai-chatbot-summarize-button = Resumir la pagina
 
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name } pòt pas previsualizar aqueste ligam
+# Text for the retry link when generation fails
+link-preview-generation-retry = Tornar ensajar
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Configuracion de la previsualizacion de ligams

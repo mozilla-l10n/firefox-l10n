@@ -111,6 +111,7 @@ certerror-mitm-title = Un logicial empacha { -brand-short-name } de se connectar
 
 ## Felt Privacy V1 Strings
 
+fp-certerror-what-can-you-do = De qué podètz far ?
 fp-certerror-advanced-title = Avançat
 fp-certerror-advanced-button = Avançat
 fp-certerror-hide-advanced-button = Rescondre

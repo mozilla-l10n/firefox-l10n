@@ -57,6 +57,7 @@ contextual-manager-passwords-import-success-message = Nòus : { $added }, actua
 #   $error (number) - Number of invalid passwords
 contextual-manager-passwords-import-success-message-2 = Nòus : { $added }, actualizats : { $modified }, duplicats : { $no_change }, en error : { $error }
 contextual-manager-passwords-import-success-button = Acabat
+contextual-manager-passwords-import-error-button-try-again = Tornar ensajar
 contextual-manager-passwords-import-error-button-cancel = Anullar
 contextual-manager-passwords-export-success-button = Acabat
 contextual-manager-export-passwords-dialog-confirm-button = Contunhar l’exportacion

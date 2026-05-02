@@ -49,6 +49,7 @@ neterror-dns-not-found-hint-header = <strong>Se l’adreça picada èra corrèct
 neterror-dns-not-found-hint-try-again = Tornar ensajar mai tard
 neterror-dns-not-found-hint-check-network = Verificar la connexion Internet
 neterror-dns-not-found-hint-firewall = Verificar que { -brand-short-name } a l’autorizacion d’accedir al Web (vòstra connexion poiriá èsser efectiva, mas protegida per un parafuòc)
+neterror-dns-not-found-offline-hint-header = <strong>Qué podètz far ?</strong>
 
 ## TRR-only specific messages
 ## Variables:
@@ -150,4 +151,10 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> utili
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-net-timeout-intro = Lo servidor a l’adreça <strong>{ $hostname }</strong> tarda tròp a respondre.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = Lo servidor a l’adreça <strong>{ $hostname }</strong> a enviat una error : { $responsestatus } { $responsestatustext }
 fp-neterror-denied-port-access = Aquesta adreça utiliza un pòrt ret pas costumièr per la navegacion Web. Per mesura de seguretat, { -brand-short-name } a abandonat la requèsta.

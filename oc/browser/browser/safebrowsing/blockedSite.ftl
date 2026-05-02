@@ -62,3 +62,9 @@ safeb-blocked-harmful-page-learn-more = Ne saber mai sus la proteccion de { -bra
 safeb-palm-notdeceptive =
     .label = Es pas un site malvolent…
     .accesskey = m
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc3-override = <strong>Qué podètz far ?</strong>
