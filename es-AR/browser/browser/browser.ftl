@@ -545,9 +545,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Su conexión a este sitio no es segura.
 identity-connection-verified = Está conectado de forma segura a este sitio.
 identity-ev-owner-label = Certificado emitido a:
+identity-verifier-label = Verificado por:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Calificado según lo especificado en la Regulación (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla no reconoce a este emisor de certificados. Puede haber sido agregado desde el sistema operativo o por un administrador.
+identity-cert-exception-overridden = Ha agregado una excepción de seguridad para este sitio
 identity-remove-cert-exception =
     .label = Eliminar excepción
     .accesskey = r
@@ -1741,3 +1743,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>¿El sitio se ve roto?</strong> Recargue la página para reducir temporalmente la protección contra rastreo.
 reduced-protection-infobar-reload-button = Recargar
     .accesskey = R
+reduced-protection-infobar-never-show-button = No mostrar de nuevo
+    .accesskey = d
