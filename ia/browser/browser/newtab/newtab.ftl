@@ -846,6 +846,28 @@ newtab-promo-card-dismiss-button =
     .title = Clauder
     .aria-label = Clauder
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuta
+           *[other] { $minutes } minutas
+        }
+newtab-widget-timer-decrease-min =
+    .title = Diminuer 1 minuta
+newtab-widget-timer-increase-min =
+    .title = Augmentar 1 minuta
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Focus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pausa
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Celar temporisator
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Sequer equipas
@@ -854,6 +876,8 @@ newtab-sports-widget-menu-view-results = Visualisar resultatos
 newtab-sports-widget-menu-learn-more = Pro saper plus
 newtab-sports-widget-countdown-title = Computo a retro al Cuppa del mundo
 newtab-sports-widget-get-updates = Obtene actualisationes al vivo del incontros e plus.
+newtab-sports-widget-view-schedule =
+    .label = Vider agenda
 newtab-sports-widget-follow-teams =
     .label = Sequer equipas
 newtab-sports-widget-choose-wallpaper =
