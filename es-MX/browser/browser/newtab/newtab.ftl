@@ -665,6 +665,8 @@ newtab-new-user-custom-wallpaper-cta = Pruébalo ahora
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Ya llegaron nuevos fondos de pantalla
+newtab-wallpaper-feature-highlight-subtitle = Elige tu favorito y haz que cada pestaña nueva se sienta como en casa.
+newtab-wallpaper-feature-highlight-cta = Elegir fondo de pantalla
 
 ## Strings for download mobile highlight
 
@@ -734,6 +736,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Completado ({ $number })
+newtab-widget-lists-celebration-headline = Buen trabajo
+newtab-widget-lists-celebration-subhead = Todo en orden
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Editar el nombre de la lista
 newtab-widget-lists-menu-edit2 =
@@ -754,17 +758,26 @@ newtab-widget-lists-input-menu-move-up = Mover hacia arriba
 newtab-widget-lists-input-menu-move-down = Descender
 newtab-widget-lists-input-menu-delete = Eliminar
 newtab-widget-lists-input-menu-edit = Editar
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Editar elemento
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear una nueva lista
 newtab-widget-lists-name-label-default =
     .label = Lista de tareas
+newtab-widget-lists-name-label-checklist =
+    .label = Lista de verificación
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista de tareas
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Lista de verificación
+    .aria-label = Editar nombre de la lista
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nueva lista
     .aria-label = Editar el nombre de la lista
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Lista de verificación
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nueva lista
@@ -784,7 +797,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimizar widgets
     .aria-label = Contraer todos los widgets al tamaño compacto
+newtab-widget-section-menu-button =
+    .title = Menú de widgets
+    .aria-label = Abrir menú de widgets
+newtab-widget-section-menu-hide-all = Ocultar widgets
+newtab-widget-section-menu-learn-more = Saber más
 newtab-widget-section-feedback = Dinos lo que piensas
+newtab-widget-lists-name-default = Lista de verificación
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -827,8 +846,53 @@ newtab-promo-card-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Iniciar temporizador de { $minutes } minuto
+           *[other] Iniciar temporizador de { $minutes } minutos
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Pausar temporizador
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuto
+           *[other] { $minutes } minutos
+        }
+newtab-widget-timer-decrease-min =
+    .title = Disminuir 1 minuto
+newtab-widget-timer-increase-min =
+    .title = Incrementa 1 minuto
+newtab-widget-timer-mode-group =
+    .aria-label = Modo temporizador
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Focus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Descanso
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ocultar temporizador
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Buen trabajo
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Tu descanso terminó
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = ¿Necesitas un descanso?
+
 ## Sports widget
 
+newtab-sports-widget-menu-follow-teams = Seguir equipos
+newtab-sports-widget-menu-view-upcoming = Ver próximos
+newtab-sports-widget-menu-view-results = Ver resultados
+newtab-sports-widget-menu-learn-more = Saber más
+newtab-sports-widget-countdown-title = Conteo regresivo para el Mundial
 # Abbreviated label for days in the sport widget countdown. D is short for Days.
 # The layout only allows for 1–2 characters: if there is an equivalent single
 # character for your language, use that. Your translation will be automatically
@@ -839,6 +903,20 @@ newtab-sports-widget-countdown-days = D
 # character for your language, use that. Your translation will be automatically
 # truncated at 1 character to avoid layout issues.
 newtab-sports-widget-countdown-hours = H
+newtab-sports-widget-get-updates = Recibe actualizaciones del partido en vivo y más.
+newtab-sports-widget-follow-teams =
+    .label = Seguir equipos
+newtab-sports-widget-choose-wallpaper =
+    .label = Elige un fondo de pantalla
+newtab-sports-widget-skip = Saltar
+newtab-sports-widget-search-teams =
+    .placeholder = Buscar equipos
+    .aria-label = Buscar equipos
+newtab-sports-widget-done-button =
+    .label = Hecho
+newtab-sports-widget-group-stage = Fase de grupos
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = EN VIVO
 newtab-sports-widget-semi-finals = Semifinales
 newtab-sports-widget-bronze-finals = Tercer puesto
 # Final is the final match for 1st place.
