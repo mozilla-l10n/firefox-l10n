@@ -772,6 +772,9 @@ newtab-widget-lists-name-label-checklist =
     .label = Sjekkliste
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Oppgaveliste
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Sjekkliste
+    .aria-label = Rediger listenavn
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Ny liste
@@ -803,6 +806,7 @@ newtab-widget-section-menu-button =
 newtab-widget-section-menu-hide-all = Skjul widgeter
 newtab-widget-section-menu-learn-more = Les mer
 newtab-widget-section-feedback = Fortell oss hva du synes
+newtab-widget-lists-name-default = Sjekkliste
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -844,6 +848,28 @@ newtab-promo-card-cta = Les mer
 newtab-promo-card-dismiss-button =
     .title = Avvis
     .aria-label = Avvis
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-pause-aria =
+    .aria-label = Sett nedtelleren på pause
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label = { $minutes } minutt
+newtab-widget-timer-decrease-min =
+    .title = Reduser med 1 minutt
+newtab-widget-timer-increase-min =
+    .title = Øk med 1 minutt
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Følg lag
+newtab-sports-widget-menu-view-upcoming = Vis kommende
+newtab-sports-widget-menu-view-results = Vis resultater
+newtab-sports-widget-menu-learn-more = Les mer
+newtab-sports-widget-countdown-title = Nedtelling til VM
+newtab-sports-widget-get-updates = Få direkte kampoppdateringer og mer.
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
