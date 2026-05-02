@@ -848,6 +848,38 @@ newtab-promo-card-dismiss-button =
     .title = Avvis
     .aria-label = Avvis
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-pause-aria =
+    .aria-label = Set nedteljaren på pause
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minutt
+           *[other] { $minutes } minutt
+        }
+newtab-widget-timer-decrease-min =
+    .title = Minsk med 1 minutt
+newtab-widget-timer-increase-min =
+    .title = Auk med 1 minutt
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pause
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Skjul nedteljar
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bra jobba
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Pausen din er over
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Treng du ein pause?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Klar for å fokusere?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Følg lag
@@ -856,11 +888,17 @@ newtab-sports-widget-menu-view-results = Vis resultat
 newtab-sports-widget-menu-learn-more = Les meir
 newtab-sports-widget-countdown-title = Nedteljing til VM
 newtab-sports-widget-get-updates = Få direkte kampoppdateringar og meir.
+newtab-sports-widget-follow-teams =
+    .label = Følg lag
 newtab-sports-widget-choose-wallpaper =
     .label = Vel eit bakgrunnsbilde
 newtab-sports-widget-skip = Hopp over
+newtab-sports-widget-search-teams =
+    .placeholder = Søk etter lag
+    .aria-label = Søk etter lag
 newtab-sports-widget-done-button =
     .label = Ferdig
+newtab-sports-widget-group-stage = Gruppespel
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = DIREKTE
 newtab-sports-widget-upcoming = Komande
@@ -875,6 +913,8 @@ newtab-sports-widget-cancelled = Annulert
 newtab-sports-widget-information = Informasjon om kampen
 newtab-sports-widget-view-results-link = Vis resultat
 newtab-sports-widget-third-place = Tredjeplass
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Andreplass
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

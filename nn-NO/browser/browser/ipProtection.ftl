@@ -249,6 +249,7 @@ vpn-paused-alert-title = VPN sett på pause
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. VPN-tilgangen blir nullstilt neste månad.
 vpn-error-page-continue-description = Vel korleis du vil halde fram utan VPN
+vpn-error-page-keep-browsing = Fortset å surfe i denne økta
 vpn-error-page-new-session = Start ei ny programøkt
 vpn-paused-alert-close-tabs-button = Lat att alle faner
 vpn-paused-alert-continue-wo-vpn-button = Hald fram utan VPN
