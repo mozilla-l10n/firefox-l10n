@@ -848,6 +848,50 @@ newtab-promo-card-dismiss-button =
     .title = Убрать
     .aria-label = Убрать
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Запустить таймер на { $minutes } минуту
+            [few] Запустить таймер на { $minutes } минуты
+           *[many] Запустить таймер на { $minutes } минут
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Приостановить таймер
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } минута
+            [few] { $minutes } минуты
+           *[many] { $minutes } минут
+        }
+newtab-widget-timer-decrease-min =
+    .title = Уменьшить на 1 минуту
+newtab-widget-timer-increase-min =
+    .title = Увеличить на 1 минуту
+newtab-widget-timer-mode-group =
+    .aria-label = Режим таймера
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Фокусировка
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Перерыв
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Скрыть таймер
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Отличная работа
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Ваш перерыв закончен
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Нужен перерыв?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Готовы сфокусироваться?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Подписаться на команды
@@ -855,7 +899,24 @@ newtab-sports-widget-menu-view-upcoming = Просмотреть предсто�
 newtab-sports-widget-menu-view-results = Просмотреть результаты
 newtab-sports-widget-menu-learn-more = Подробнее
 newtab-sports-widget-countdown-title = Обратный отсчёт до ЧМ
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = Д
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = Ч
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = М
 newtab-sports-widget-get-updates = Получайте обновления по матчам и другую информацию в прямом эфире.
+newtab-sports-widget-view-schedule =
+    .label = Просмотреть расписание
 newtab-sports-widget-follow-teams =
     .label = Подписаться на команды
 newtab-sports-widget-choose-wallpaper =
@@ -886,6 +947,8 @@ newtab-sports-widget-information = Информация о матче
 newtab-sports-widget-no-live-data = Данные о матчах в данный момент не обновляются
 newtab-sports-widget-view-results-link = Просмотреть результаты
 newtab-sports-widget-third-place = Третье место
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Второе место
 newtab-sports-widget-champions = Чемпионы
 newtab-sports-widget-world-cup-champions = Чемпионы ЧМ 2026
 

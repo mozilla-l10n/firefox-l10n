@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Управление ИИ
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = О { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Поддержка доступности
     .title = { pane-accessibility-title }
 pane-languages-title = Языки
@@ -706,6 +708,9 @@ update-application-allow-description = Разрешить { -brand-short-name }
 update-application-auto =
     .label = Автоматически устанавливать обновления (желательно)
     .accesskey = ч
+update-application-check-choose-2 =
+    .label = Проверять наличие обновлений, но выбирать, когда их устанавливать
+    .accesskey = С
 update-application-check-choose =
     .label = Проверять наличие обновлений, но позволять вам решать, устанавливать ли их
     .accesskey = в
@@ -717,6 +722,9 @@ update-application-background-enabled =
     .accesskey = а
 update-application-warning-cross-user-setting-2 =
     .message = Эта настройка применится ко всем учётным записям Windows и профилям { -brand-short-name }, использующим эту установку { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Показывать меньше напоминаний об обновлениях
+    .accesskey = n
 update-application-warning-cross-user-setting = Эта настройка применится ко всем учётным записям Windows и профилям { -brand-short-name }, использующим эту установку { -brand-short-name }.
 update-application-use-service =
     .label = Использовать фоновую службу для установки обновлений
@@ -739,6 +747,11 @@ update-in-progress-ok-button = &Отменить
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продолжить
+
+## About Firefox
+
+about-firefox-header =
+    .heading = О { -brand-short-name }
 
 ## Firefox updates
 
