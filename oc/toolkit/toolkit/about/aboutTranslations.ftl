@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-translations-feature-blocked-unblock-button = Desblocar
+about-translations-language-load-error-button = Tornar ensajar
+about-translations-translation-error-button = Tornar ensajar

@@ -343,6 +343,8 @@ translate-attribution = Traduccions per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
+settings-translations-subpage-download-retry-button =
+    .label = Tornar ensajar
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
