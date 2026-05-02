@@ -945,6 +945,8 @@ newtab-sports-widget-information = מידע על המשחק
 newtab-sports-widget-no-live-data = נתוני המשחק החי אינם מתעדכנים כרגע
 newtab-sports-widget-view-results-link = הצגת תוצאות
 newtab-sports-widget-third-place = מקום שלישי
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = סגנית האלופה
 newtab-sports-widget-champions = אלופים
 newtab-sports-widget-world-cup-champions = אלופי המונדיאל 2026
 
