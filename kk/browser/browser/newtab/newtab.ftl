@@ -810,6 +810,13 @@ newtab-promo-card-dismiss-button =
     .title = Елемеу
     .aria-label = Елемеу
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-mode-group =
+    .aria-label = Таймер режимі
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Фокус
+
 ## Sports widget
 
 newtab-sports-widget-done-button =
