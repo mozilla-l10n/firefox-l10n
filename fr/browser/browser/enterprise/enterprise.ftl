@@ -13,6 +13,38 @@ enterprise-panel-information = Vous êtes identifiés dans un navigateur géré 
 enterprise-panel-learn-more = En savoir plus
 enterprise-panel-sign-out-btn =
     .label = Se déconnecter…
+enterprise-close-prompt-title = Fermer { -brand-short-name } ?
+# Variables:
+#   $tabCount (Number): The number of tabs to be closed.
+enterprise-close-prompt-title-with-tabcount-and-signout-warning =
+    { $tabCount ->
+        [one] Fermer { -brand-short-name } et { $tabCount } onglet ?
+       *[other] Fermer { -brand-short-name } et { $tabCount } onglets ?
+    }
+# Variables:
+#   $tabCount (Number): The number of tabs to be closed.
+enterprise-close-prompt-title-with-tabcount =
+    { $tabCount ->
+        [one] Fermer { $tabCount } onglet ?
+       *[other] Fermer { $tabCount } onglets ?
+    }
+enterprise-close-prompt-message = Vous êtes sur le point de vous déconnecter de { -brand-short-name } et de mettre fin à votre session.
+# Variables:
+#   $tabCount (Number): The number of tabs to be closed.
+enterprise-close-prompt-message-with-tabcount-and-signout-warning =
+    { $tabCount ->
+        [one] Vous êtes sur le point de vous déconnecter de { -brand-short-name } et de fermer { $tabCount } onglet.
+       *[other] Vous êtes sur le point de vous déconnecter de { -brand-short-name } et de fermer { $tabCount } onglets.
+    }
+enterprise-close-prompt-message-with-tabcount = Fermer { -brand-short-name } vous déconnectera également.
+enterprise-close-prompt-message-reauth = Pour utiliser à nouveau { -brand-short-name }, vous devrez vous réauthentifier via le fournisseur SSO de votre organisation.
+enterprise-close-prompt-checkbox-label = M’avertir si la fermeture de { -brand-short-name } entraîne ma déconnexion
+enterprise-close-prompt-tabs-checkbox-label = M’avertir avant de fermer plusieurs onglets
+enterprise-close-prompt-primary-btn-label = Fermer et se déconnecter
+enterprise-quit-shortcut-prompt-title-with-tabs = Quitter { -brand-short-name } ou fermer l’onglet actuel ?
+enterprise-quit-shortcut-prompt-title = Fermer la fenêtre et quitter { -brand-short-name } ?
+enterprise-quit-shortcut-prompt-message = Quitter vous déconnectera de votre session. Vous devrez vous authentifier à nouveau via le fournisseur SSO de votre organisation.
+enterprise-quit-shortcut-prompt-primary-btn-label = Quitter et se déconnecter
 restart-forced-title = Redémarrer { -brand-short-name }
 restart-forced-heading = Redémarrer pour continuer à utiliser { -brand-short-name }.
 restart-forced-intro = Une politique de l’entreprise nécessite le redémarrage de { -brand-short-name }.
