@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Más de { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Más de { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Más de { -vendor-short-name }
 more-from-moz-subtitle = Mirá otros productos de { -vendor-short-name } que trabajan para respaldar una Internet saludable.
 more-from-moz-firefox-mobile-title = { -brand-product-name } para móviles
 more-from-moz-firefox-mobile-description = El navegador móvil que pone tu privacidad en primer lugar.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } para móviles
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } para móviles
+    .description = El navegador para dispositivos móviles que pone la privacidad primero.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descubrí una capa adicional de navegación y protección anónimas.
 more-from-moz-qr-code-box-firefox-mobile-title = Descargalo con tu dispositivo móvil. Apuntá tu cámara al código QR. Cuando aparezca un enlace, seleccionalo.
@@ -46,3 +51,8 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } Creador de sitios web con I
 more-from-moz-mdn-description = Aprenda desarrollo web con guías y referencias completas y gratuitas.
 more-from-moz-mdn-button = Aprender desarrollo web
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-button = Obtener { -thunderbird-brand-short-name }
