@@ -797,6 +797,10 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimer widgeter
     .aria-label = Slå sammen alle widgeter til kompakt størrelse
+newtab-widget-section-menu-button =
+    .title = Widget-meny
+    .aria-label = Åpne widget-menyen
+newtab-widget-section-menu-hide-all = Skjul widgeter
 newtab-widget-section-menu-learn-more = Les mer
 newtab-widget-section-feedback = Fortell oss hva du synes
 
