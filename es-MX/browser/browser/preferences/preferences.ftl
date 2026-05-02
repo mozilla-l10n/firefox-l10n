@@ -1017,6 +1017,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Elige un fondo de pantalla
 home-prefs-choose-wallpaper-link2 =
     .label = Selecciona un fondo de pantalla
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para usar estas funciones, establece las pestañas o ventanas nuevas en { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1130,6 +1135,7 @@ search-edit-engine =
     .label = Editar
     .accesskey = E
 search-find-more-link = Encontrar más motores de búsqueda
+search-filtering-for-add-engine = Agregar motor de búsqueda
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palabra clave duplicada
@@ -1543,6 +1549,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administra las cuentas en la configuración de tu dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en los ajustes del sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Ajustes del panel de privacidad
+    .description = Recibe ayuda para proteger la información en línea en { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostrar mensajes de filtraciones
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2159,6 +2176,12 @@ collection-backlogged-crash-reports2 =
     .label = Enviar automáticamente informes de fallos
     .accesskey = c
 collection-backlogged-crash-reports-description = Esto ayuda a { -vendor-short-name } a diagnosticar y solucionar problemas con el navegador. Los informes pueden incluir datos personales o confidenciales.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = ¡Mismos ajustes, nueva apariencia!
+    .message = Esta página se reorganizó para facilitar la lectura y la exploración. No hubo cambios en los ajustes personales y todo sigue aquí. Sugerencia: utiliza la búsqueda para ir directamente a lo necesario.
+settings-redesign-promo-dismiss-button =
+    .label = Entendido
 addon-recommendations =
     .label = Permitir que { -brand-short-name } haga recomendaciones personalizadas de extensiones
 addon-recommendations-link = Saber más
@@ -2414,6 +2437,16 @@ preferences-doh-custom-provider-label =
     .aria-label = Ingresa la URL de un proveedor personalizado
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Seguridad de la conexión y del software
+preferences-connection-link-section =
+    .label = Seguridad de la conexión y del software
+    .description = Consulta cómo se protegen las conexiones, se bloquea el software dañino y se verifican los sitios web.
+preferences-connection-link-button =
+    .label = Configuración avanzada
 
 ## The following strings are used in the Download section of settings
 

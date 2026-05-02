@@ -885,6 +885,8 @@ newtab-widget-timer-celebration-heading-focus = Buen trabajo
 newtab-widget-timer-celebration-heading-break = Tu descanso terminó
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = ¿Necesitas un descanso?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = ¿Todo listo para la concentración?
 
 ## Sports widget
 
@@ -903,7 +905,14 @@ newtab-sports-widget-countdown-days = D
 # character for your language, use that. Your translation will be automatically
 # truncated at 1 character to avoid layout issues.
 newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Recibe actualizaciones del partido en vivo y más.
+newtab-sports-widget-view-schedule =
+    .label = Ver horario
 newtab-sports-widget-follow-teams =
     .label = Seguir equipos
 newtab-sports-widget-choose-wallpaper =
@@ -917,12 +926,24 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-group-stage = Fase de grupos
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = EN VIVO
+newtab-custom-widget-live-refresh =
+    .title = Actualizar marcadores
+    .aria-label = Actualizar marcadores
+newtab-sports-widget-upcoming = Próximamente
+newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Semifinales
 newtab-sports-widget-bronze-finals = Tercer puesto
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
 newtab-sports-widget-delayed = Retrasado
 newtab-sports-widget-postponed = Pospuesto
+newtab-sports-widget-suspended = Suspendido
+newtab-sports-widget-cancelled = Cancelado
+newtab-sports-widget-information = Información del encuentro
+newtab-sports-widget-no-live-data = Los datos del partido en vivo no se están actualizando
+newtab-sports-widget-view-results-link = Ver resultados
+newtab-sports-widget-third-place = Tercer lugar
+newtab-sports-widget-champions = Campeones
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

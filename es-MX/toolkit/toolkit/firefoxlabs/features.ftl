@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Personaliza tu navegación
 experimental-features-group-productivity =
     .label = Productividad
+experimental-features-group-newtab-widgets =
+    .label = Widgets en { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Contraseñas en la barra lateral
@@ -80,9 +82,15 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantén tu lis
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Pronósticos meteorológicos
+experimental-features-newtab-widget-weather-description = Consulta el clima de hoy a detalle con el pronóstico por hora. <a data-l10n-name="connect">Compartir comentarios</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Imagen del día
+experimental-features-newtab-widget-picture-of-the-day-description = Suma un toque de asombro a cada día. Recibe una imagen nueva, descubre datos interesantes y cambia el fondo de pantalla en un instante. <a data-l10n-name="connect">Compartir comentarios</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Relojes
+experimental-features-newtab-widget-clocks-description = Agrega hasta cuatro relojes con nombres personalizados para seguir la hora de los lugares de mayor importancia para ti. <a data-l10n-name="connect">Compartir comentarios</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Búsqueda de historial semántico
