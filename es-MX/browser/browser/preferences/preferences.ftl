@@ -745,6 +745,11 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Acerca de { -brand-short-name }
+
 ## Firefox updates
 
 update-application-heading =
@@ -752,6 +757,8 @@ update-application-heading =
     .description = Las actualizaciones mejoran la velocidad, estabilidad y seguridad de { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Notificaciones
+update-application-updates-managed-by-os =
+    .message = Tu sistema operativo gestiona las actualizaciones
 
 ## Firefox support
 
@@ -793,6 +800,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Usar desplazamiento automático
     .accesskey = d
+keyboard-and-scrolling-group =
+    .label = Navegación y desplazamiento con el teclado
+motion-and-link-group =
+    .label = Estilo de movimiento y de enlaces
 browsing-use-smooth-scrolling =
     .label = Usar desplazamiento suave
     .accesskey = s
@@ -847,6 +858,9 @@ preferences-fonts-family =
 preferences-fonts-size =
     .label = Tamaño de fuente
     .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Ajustes avanzados
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1025,6 +1039,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Deportes
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Soporte { -brand-product-name }
