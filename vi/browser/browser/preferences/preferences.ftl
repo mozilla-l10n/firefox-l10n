@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Kiểm soát trí tuệ nhân tạo (AI)
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Giới thiệu về { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Trợ năng
     .title = { pane-accessibility-title }
 pane-languages-title = Ngôn ngữ
@@ -691,6 +693,9 @@ update-application-allow-description = Cho phép { -brand-short-name }
 update-application-auto =
     .label = Tự động cài đặt các bản cập nhật (khuyến nghị)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Kiểm tra bản cập nhật, nhưng để tôi chọn thời điểm cài đặt
+    .accesskey = C
 update-application-check-choose =
     .label = Kiểm tra các bản cập nhật nhưng bạn sẽ lựa chọn việc cài đặt chúng
     .accesskey = C
@@ -702,6 +707,9 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = Cài đặt này sẽ áp dụng cho tất cả các tài khoản Windows và hồ sơ { -brand-short-name } bằng cách sử dụng cài đặt { -brand-short-name } này.
+update-application-suppress-prompts-2 =
+    .label = Hiển thị ít lời nhắc cập nhật hơn
+    .accesskey = n
 update-application-warning-cross-user-setting = Cài đặt này sẽ áp dụng cho tất cả các tài khoản Windows và hồ sơ { -brand-short-name } bằng cách sử dụng cài đặt { -brand-short-name } này.
 update-application-use-service =
     .label = Sử dụng dịch vụ chạy nền để cài đặt các cập nhật
@@ -724,6 +732,11 @@ update-in-progress-ok-button = &Hủy bỏ
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Tiếp tục
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Giới thiệu về { -brand-short-name }
 
 ## Firefox updates
 
