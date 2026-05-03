@@ -443,5 +443,10 @@ set-default-menu-message-primary-button-variant = Негізгі браузер 
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 эл. пошта маскалары, бізден тегін
+relay-50-masks-announcement-subtitle = Енді сіз 50 тегін маска аласыз (бұрын 5 болатын). Нақты электрондық поштаңызды құпия сақтау үшін әр тіркелгі үшін біреуін пайдаланыңыз.
+relay-50-masks-announcement-primary-button = { -relay-brand-name } ішіне өту
+    .accesskey = т
 relay-50-masks-announcement-secondary-button = Елемеу
     .accesskey = м
