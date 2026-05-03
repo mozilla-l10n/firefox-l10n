@@ -861,6 +861,21 @@ newtab-widget-timer-decrease-min =
     .title = Reduser med 1 minutt
 newtab-widget-timer-increase-min =
     .title = Øk med 1 minutt
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pause
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Skjul nedteller
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bra jobbet
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Pausen din er over
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Trenger du en pause?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Klar til å fokusere?
 
 ## Sports widget
 
@@ -870,6 +885,25 @@ newtab-sports-widget-menu-view-results = Vis resultater
 newtab-sports-widget-menu-learn-more = Les mer
 newtab-sports-widget-countdown-title = Nedtelling til VM
 newtab-sports-widget-get-updates = Få direkte kampoppdateringer og mer.
+newtab-sports-widget-follow-teams =
+    .label = Følg lag
+newtab-sports-widget-choose-wallpaper =
+    .label = Velg et bakgrunnsbilde
+newtab-sports-widget-skip = Hopp over
+newtab-sports-widget-search-teams =
+    .placeholder = Søk etter lag
+    .aria-label = Søk etter lag
+newtab-sports-widget-done-button =
+    .label = Ferdig
+newtab-sports-widget-group-stage = Gruppespill
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = DIREKTE
+newtab-custom-widget-live-refresh =
+    .title = Oppdater poeng
+    .aria-label = Oppdater poeng
+newtab-sports-widget-upcoming = Kommende
+newtab-sports-widget-results = Resultater
+newtab-sports-widget-semi-finals = Semifinaler
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
