@@ -421,6 +421,8 @@ quickactions-cmd-inspector = inspektør, udviklerværktøj
 # Opens about:logins
 quickactions-logins2 = Håndter adgangskoder
 quickactions-cmd-logins = logins, adgangskoder
+# Mutes all tabs playing audio
+quickactions-mute = Slå lyd fra i faneblade, der afspiller lyd
 # Opens about:addons page in the plugins section
 quickactions-plugins = Håndter plugins
 quickactions-cmd-plugins = plugins

@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Vis ikke igen
     .accesskey = V
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] En fejlrapport er ikke blevet indsendt
+       *[other] { $reportCount } fejlrapporter er ikke blevet indsendt
+    }
