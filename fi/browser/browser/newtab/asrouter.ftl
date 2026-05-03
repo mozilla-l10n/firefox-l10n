@@ -442,3 +442,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Aseta oletukseksi
 set-default-menu-message-primary-button-variant = Aseta ensisijaiseksi selaimeksi
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 sähköpostimaskia veloituksetta
+relay-50-masks-announcement-subtitle = Saat nyt 50 ilmaista maskia (aiemmin viisi). Käytä yksi jokaista tiliä kohden pitääksesi oikean sähköpostiosoitteesi yksityisenä.
+relay-50-masks-announcement-primary-button = Siirry { -relay-brand-name }-palveluun
+    .accesskey = S
+relay-50-masks-announcement-secondary-button = Hylkää
+    .accesskey = H

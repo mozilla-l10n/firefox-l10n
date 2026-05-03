@@ -318,6 +318,15 @@ tab-group-editor-action-new-tab =
     .label = Uusi välilehti ryhmässä
 tab-group-editor-action-new-window =
     .label = Siirrä ryhmä uuteen ikkunaan
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Kopioi linkki ryhmästä
+            [one] Kopioi linkki ryhmästä
+           *[other] Kopioi { $linkCount } linkkiä ryhmästä
+        }
 tab-group-editor-action-save =
     .label = Tallenna ja sulje ryhmä
 tab-group-editor-action-ungroup =

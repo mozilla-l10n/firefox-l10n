@@ -13,6 +13,7 @@ customkeys-reset-all = Palauta kaikki pikanäppäimet oletusarvoihin
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Tämä pikanäppäin on jo varattu toiminnolle { $conflict }. Haluatko korvata sen?
 customkeys-reset-all-confirm = Haluatko varmasti palauttaa kaikki pikanäppäimet oletusasetuksiin?
+customkeys-file-duplicate-tab = Monista välilehti
 customkeys-history-reopen-tab = Avaa uudelleen suljettu välilehti
 customkeys-history-reopen-window = Avaa uudelleen viimeksi suljettu ikkuna
 customkeys-sidebar-toggle = Näytä/piilota sivupaneeli

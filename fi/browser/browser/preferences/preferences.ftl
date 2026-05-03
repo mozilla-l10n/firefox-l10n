@@ -68,6 +68,11 @@ category-sync3 =
 pane-ai-controls-title = Tekoälyn säätimet
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-languages-title = Kielet
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name }-kokeilut
 category-experimental =
     .tooltiptext = { -brand-short-name }-kokeilut
@@ -75,6 +80,8 @@ pane-experimental-subtitle = Jatka varoen
 pane-experimental-search-results-header = { -brand-short-name }-kokeilut: jatka varoen
 pane-experimental-description2 = Lisäasetusten muuttaminen voi vaikuttaa { -brand-short-name }in suorituskykyyn tai tietoturvaan.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Kokeile kokeellisia ominaisuuksia! Ne ovat kehitysvaiheessa ja kehittyvät, mikä voi vaikuttaa { -brand-short-name }in toimintaan. Saamme tietoja näiden ominaisuuksien käytöstäsi vain, jos <a data-l10n-name="data-collection">tekniset ja vuorovaikutustiedot</a> ovat käytössä.
@@ -677,6 +684,8 @@ update-application-version = Versio { $version } <a data-l10n-name="learn-more">
 update-history-2 =
     .label = Näytä päivityshistoria
     .accesskey = N
+update-application-installation =
+    .label = Asennus
 update-history =
     .label = Näytä päivityshistoria…
     .accesskey = N
@@ -684,6 +693,9 @@ update-application-allow-description = { -brand-short-name }in päivitystapa
 update-application-auto =
     .label = Asenna päivitykset automaattisesti (suositellaan)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Tarkista päivitykset, mutta valitse asennusaika
+    .accesskey = T
 update-application-check-choose =
     .label = Hae päivitykset, mutta anna sinun päättää asennetaanko ne
     .accesskey = e
@@ -717,6 +729,13 @@ update-in-progress-ok-button = &Hylkää
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Ilmoitukset
+update-application-updates-managed-by-os =
+    .message = Päivityksiä hallinnoi käyttöjärjestelmä
 
 ## Firefox support
 
@@ -981,6 +1000,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Ajastin
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Urheilu
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Tue { -brand-product-name }ia
@@ -2133,6 +2155,8 @@ collection-backlogged-crash-reports2 =
     .label = Lähetä kaatumisilmoitukset automaattisesti
     .accesskey = ä
 collection-backlogged-crash-reports-description = Tämä auttaa { -vendor-short-name }a diagnosoimaan ja korjaamaan selaimen ongelmia. Raportit voivat sisältää henkilökohtaisia tai arkaluonteisia tietoja.
+settings-redesign-promo-dismiss-button =
+    .label = Selvä
 addon-recommendations =
     .label = Salli, että { -brand-short-name } tekee henkilökohtaisia laajennussuosituksia
 addon-recommendations-link = Lue lisää
@@ -2388,6 +2412,11 @@ preferences-doh-custom-provider-label =
     .aria-label = Anna mukautetun tarjoajan URL-osoite
 preferences-doh-header2 =
     .heading = DNS HTTPS:n kautta
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Lisäasetukset
 
 ## The following strings are used in the Download section of settings
 

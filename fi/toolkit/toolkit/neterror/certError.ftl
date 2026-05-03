@@ -142,6 +142,10 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Laitteesi kello on asetet
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Palvelimen { $hostname } omistaja ei ole määrittänyt sitä oikein, eikä suojattua yhteyttä voi luoda.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Päivitä tietokoneesi kello järjestelmäasetuksissa nykyiseen päivämäärään, aikaan ja aikavyöhykkeeseen. Tietokoneesi luulee, että nyt on { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

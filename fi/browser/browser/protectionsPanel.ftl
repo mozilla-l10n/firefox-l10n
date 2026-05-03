@@ -84,6 +84,11 @@ smartblock-placeholder-title = Palvelun { $trackername } seuraimet ja sisältö 
 smartblock-placeholder-desc = Käyttämäsi { -brand-short-name }-asetukset estivät tätä sisältöä seuraamasta sinua eri sivustoilla tai käyttämästä mainoksia.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Salli sivustossa { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Sisältö estetystä upotuksesta
 
 ##
 

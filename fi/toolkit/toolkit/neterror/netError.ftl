@@ -199,6 +199,9 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> lähetti taka
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Palvelin osoitteessa <strong>{ $hostname }</strong> lähetti virheen: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> lähetti takaisin otsakkeen, jossa oli tyhjiä merkkejä, joita verkkoturvallisuusstandardit eivät salli.
 fp-neterror-content-encoding-intro = Avattava sivu on pakattu virheellisesti tai tuntemattomalla tavalla, eikä sivua voida näyttää.
 fp-neterror-coop-coep-intro = { -brand-short-name } ei ladannut tätä sivua, koska vaikuttaa siltä, että tietoturva-asetukset eivät vastaa edellistä sivua.
 fp-neterror-blocked-by-policy-intro = Organisaatiosi on estänyt pääsyn tälle sivulle tai sivustolle.
