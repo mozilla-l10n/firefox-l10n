@@ -316,6 +316,14 @@ tab-group-editor-action-new-tab =
     .label = Ny fane i gruppe
 tab-group-editor-action-new-window =
     .label = Flytt gruppe til nytt vindu
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Kopier lenke i gruppen
+           *[other] Kopier { $linkCount } lenker i gruppen
+        }
 tab-group-editor-action-save =
     .label = Lagre og lukk gruppe
 tab-group-editor-action-ungroup =

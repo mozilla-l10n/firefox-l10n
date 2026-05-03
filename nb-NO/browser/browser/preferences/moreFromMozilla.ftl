@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Mer fra { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Mer fra { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mer fra { -vendor-short-name }
 more-from-moz-subtitle = Sjekk ut andre { -vendor-short-name }-produkter som arbeider for å gjøre nettet til et bedre sted.
 more-from-moz-firefox-mobile-title = { -brand-product-name } for mobil
 more-from-moz-firefox-mobile-description = Mobilnettleseren som setter personvernet ditt først.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } for mobil
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } for mobil
+    .description = Mobilnettleseren som setter personvernet ditt først.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Oppdag et nytt lag med anonym surfing og beskyttelse.
 more-from-moz-qr-code-box-firefox-mobile-title = Last ned med din mobile enhet. Pek kameraet mot QR-koden. Når en lenke vises, trykker du på den.
@@ -50,6 +55,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Gratis e-post, kalender og kontakter — organisert på din måte.
 more-from-moz-thunderbird-button = Få { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
@@ -58,9 +64,17 @@ more-from-moz-new-products-title = { -vendor-short-name } nye produkter
 more-from-moz-new-products-description = Oppdag de nyeste produktene fra { -vendor-short-name }.
 more-from-moz-new-products-button = Se nye produkter
 
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-email-link = Send nedlastingslenken til telefonen din via e-post
+
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Finn ut hvor personopplysningene dine har blitt eksponert på nettet med en gratis skanning.
 more-from-moz-mozilla-vpn-card =
     .label = { -mozilla-vpn-brand-name }
     .description = Få ekstra beskyttelse for alle apper — ikke bare nettleseren. Hold dataene dine trygge på offentlig Wi-Fi og usikre nettverk.
