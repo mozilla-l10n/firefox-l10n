@@ -40,13 +40,6 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Attiva la sincronizzazione per inviare una scheda
 fxa-menu-send-to-mobile-connect-phone2 = Connetti il tuo telefono
 fxa-menu-send-to-mobile-device-missing2 = Non vedi il tuo dispositivo?
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
-fxa-menu-send-to-mobile-enable-sync =
-    .label = Attiva la sincronizzazione per inviare una scheda
-fxa-menu-send-to-mobile-connect-phone =
-    .label = Connetti il tuo telefono
-fxa-menu-send-to-mobile-device-missing =
-    .label = Non vedi il tuo dispositivo?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
