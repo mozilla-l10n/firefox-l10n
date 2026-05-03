@@ -545,9 +545,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Din forbindelse til webstedet er ikke sikker.
 identity-connection-verified = Din forbindelse til dette websted er sikker.
 identity-ev-owner-label = Certifikatet er udstedt til:
+identity-verifier-label = Bekræftet af:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalificeret som angivet i forordning (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla kender ikke udstederen af dette certifikat. Det kan være tilføjet af dit styresystem eller en administrator.
+identity-cert-exception-overridden = Du har tilføjet en sikkerhedsundtagelse til dette websted
 identity-remove-cert-exception =
     .label = Fjern undtagelser
     .accesskey = F
@@ -652,6 +654,11 @@ sharing-warning-proceed-to-tab =
     .label = Fortsæt til faneblad
 sharing-warning-disable-for-session =
     .label = Deaktiver delings-beskyttelse for denne session
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Vælg en seriel port:
+webserial-no-ports-available = Ingen tilgængelige serielle porte
 
 ## DevTools F12 popup
 
@@ -1027,6 +1034,21 @@ urlbar-result-action-switch-to-tabgroup = Skift til { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Åbn { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Åbn i nyt faneblad
+    .accesskey = f
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Åbn i nyt kontekst-faneblad
+    .accesskey = k
+urlbar-view-context-menu-open-in-window =
+    .label = Åbn i et nyt vindue
+    .accesskey = v
+urlbar-view-context-menu-open-in-private-window =
+    .label = Åbn i et nyt privat vindue
+    .accesskey = p
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1283,6 +1305,15 @@ panel-save-update-password = Adgangskode
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mere…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Kopier link
+           *[other] Kopier { $count } link
+        }
+    .accesskey = r
 menu-share-copy-link =
     .label = Kopier link
     .accesskey = n
@@ -1713,3 +1744,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Virker webstedet ikke som det skal?</strong> Indlæs siden igen for midlertidigt at reducere din sporingsbeskyttelse.
 reduced-protection-infobar-reload-button = Genindlæs
     .accesskey = G
+reduced-protection-infobar-never-show-button = Vis ikke igen
+    .accesskey = V

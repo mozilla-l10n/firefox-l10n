@@ -110,6 +110,7 @@ perplexity-callout-secondary-label-2 = Forstået
 start-page-callout-title = Vil du prøve en ny privatlivs-fokuseret søgning?
 start-page-callout-subtitle = Prøv Startpage. Det er som standard designet til at beskytte dit privatliv, når du søger.
 start-page-callout-primary-label = Prøv Startpage
+start-page-callout-secondary-label = Afvis
 
 ## Account Adoption Passwords callout strings
 

@@ -18,6 +18,18 @@ firefox-relay-must-login-to-account = Log ind på din konto for at bruge dine { 
 firefox-relay-get-unlimited-masks =
     .label = Administrer masker
     .accesskey = A
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+       *[other] Du har brugt alle { $count } gratis mail-masker
+    }
+firefox-relay-reuse-masks-select-label = Vælg en nylig maske
+firefox-relay-see-all-masks =
+    .label = Vis alle masker
+    .accesskey = V
+firefox-relay-dismiss =
+    .label = Afvis
+    .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Beskyt din mailadresse:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
