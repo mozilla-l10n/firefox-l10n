@@ -929,6 +929,7 @@ newtab-sports-widget-postponed = Utsatt
 newtab-sports-widget-suspended = Suspendert
 newtab-sports-widget-cancelled = Avlyst
 newtab-sports-widget-information = Informasjon om kampen
+newtab-sports-widget-no-live-data = Direkte kampdata oppdateres ikke akkurat nå
 newtab-sports-widget-view-results-link = Vis resultater
 newtab-sports-widget-third-place = Tredjeplass
 # Runner-up is the team in 2nd place.

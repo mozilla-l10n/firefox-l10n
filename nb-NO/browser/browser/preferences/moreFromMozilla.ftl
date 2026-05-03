@@ -67,6 +67,8 @@ more-from-moz-new-products-button = Se nye produkter
 ## These strings are for the config-based (SRD) moreFromMozilla page using
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Skann med telefonens eller nettbrettets kamera for å laste ned appen. Trykk på lenken når den vises.
 more-from-moz-firefox-mobile-email-link = Send nedlastingslenken til telefonen din via e-post
 
 ## Product card strings for the config-based path. Each entry provides both
@@ -99,6 +101,8 @@ more-from-moz-mozilla-vpn-box-link =
     .label = Få { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = Få { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Gå til MDN
 more-from-moz-thunderbird-box-link =
     .label = Få { -thunderbird-brand-short-name }
 more-from-moz-solo-box-link =
