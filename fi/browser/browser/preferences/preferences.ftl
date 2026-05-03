@@ -465,6 +465,14 @@ manage-browser-languages-button =
     .accesskey = k
 confirm-browser-language-change-description = Käytä näitä muutoksia käynnistämällä { -brand-short-name } uudestaan
 confirm-browser-language-change-button = Käytä ja käynnistä uudestaan
+browser-language-heading =
+    .label = Selaimen kieli
+    .description = Valitse kieli, jolla { -brand-short-name }in valikot, viestit ja ilmoitukset näytetään.
+browser-language-preferred-label =
+    .label = Ensisijainen kieli
+browser-language-fallback-label =
+    .label = Varakieli
+    .description = Käytetään kun ensisijaisen kielen kotoistus on puutteellinen.
 browser-language-install-error =
     .message = { -brand-short-name } ei voi päivittää kieliä juuri nyt. Varmista, että yhteys internetiin toimii tai yritä uudestaan.
 translate-web-pages =
@@ -707,6 +715,9 @@ update-application-background-enabled =
     .accesskey = K
 update-application-warning-cross-user-setting-2 =
     .message = Tämä asetus koskee kaikkia Windows-tilejä ja { -brand-short-name }-profiileja, jotka käyttävät tätä { -brand-short-name }-asennusta.
+update-application-suppress-prompts-2 =
+    .label = Näytä vähemmän päivitysmuistutuksia
+    .accesskey = v
 update-application-warning-cross-user-setting = Tämä asetus koskee kaikkia Windows-tilejä ja { -brand-short-name }-profiileja, jotka käyttävät tätä { -brand-short-name }-asennusta.
 update-application-use-service =
     .label = Asenna päivitykset taustalla toimivalla palvelulla
@@ -732,6 +743,9 @@ update-in-progress-cancel-button = &Jatka
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name }-päivitykset
+    .description = Päivitykset parantavat { -brand-short-name }in nopeutta, vakautta ja turvallisuutta.
 update-application-suppress-prompts-heading =
     .label = Ilmoitukset
 update-application-updates-managed-by-os =
