@@ -848,6 +848,40 @@ newtab-promo-card-dismiss-button =
     .title = Bỏ qua
     .aria-label = Bỏ qua
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label = Bắt đầu bộ hẹn giờ { $minutes } phút
+newtab-widget-timer-pause-aria =
+    .aria-label = Tạm dừng bộ hẹn giờ
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label = { $minutes } phút
+newtab-widget-timer-decrease-min =
+    .title = Giảm 1 phút
+newtab-widget-timer-increase-min =
+    .title = Tăng 1 phút
+newtab-widget-timer-mode-group =
+    .aria-label = Chế độ hẹn giờ
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Tập trung
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Giải lao
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ẩn bộ hẹn giờ
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Làm tốt lắm
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Giờ giải lao của bạn đã kết thúc
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Cần giải lao?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Sẵn sàng tập trung trở lại?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Theo dõi đội
@@ -855,7 +889,24 @@ newtab-sports-widget-menu-view-upcoming = Xem cái gì sắp tới
 newtab-sports-widget-menu-view-results = Hiện kết quả
 newtab-sports-widget-menu-learn-more = Tìm hiểu thêm
 newtab-sports-widget-countdown-title = Đếm ngược đến World Cup
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = NG
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = P
 newtab-sports-widget-get-updates = Nhận thông tin cập nhật trực tiếp và hơn thế nữa.
+newtab-sports-widget-view-schedule =
+    .label = Xem lịch trình
 newtab-sports-widget-follow-teams =
     .label = Theo dõi đội
 newtab-sports-widget-choose-wallpaper =
@@ -886,6 +937,8 @@ newtab-sports-widget-information = Thông tin về trận đấu
 newtab-sports-widget-no-live-data = Dữ liệu trận đấu trực tiếp hiện chưa được cập nhật
 newtab-sports-widget-view-results-link = Xem kết quả
 newtab-sports-widget-third-place = Hạng ba
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Á quân
 newtab-sports-widget-champions = Nhà vô địch
 newtab-sports-widget-world-cup-champions = Nhà vô địch World Cup 2026
 
