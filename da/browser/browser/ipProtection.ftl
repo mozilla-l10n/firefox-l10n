@@ -29,6 +29,10 @@ ipprotection-feature-introduction-link-text-2 = Brug vores nye <a data-l10n-name
 ipprotection-feature-introduction-title-privacy = Tilføj yderligere et lag af sikkerhed
 ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem fem placeringer for at beskytte dit privatliv, når du browser.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data - selv om du befinder dig i et privat vindue.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Bruger du et offentligt wi-fi? Prøv den indbyggede VPN i { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Få <a data-l10n-name="learn-more-vpn">et bedre beskyttet privatliv</a> ved at vælge mellem fem placeringer, der skjuler hvor du befinder dig.
 ipprotection-feature-introduction-button-primary = Næste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tak
@@ -42,6 +46,8 @@ ipprotection-site-settings-callout-button = Forstået
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Nyhed: Skift din placering
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> lader dig vælge mellem fem forskellige placeringer - eller lad os vælge den hurtigste for dig.
 ipprotection-location-selection-callout-primary-button = Prøv det
 ipprotection-location-selection-callout-secondary-button = Afvis
 
@@ -50,6 +56,8 @@ ipprotection-location-selection-callout-secondary-button = Afvis
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Prøv den indbyggede VPN i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul din placering,</a> når du er på nettet med { -brand-product-name }.
+unauthenticated-private-location-message = Hjælper med at <a data-l10n-name="learn-more-vpn">skjule din placering</a> i { -brand-product-name }.
+unauthenticated-choose-location-message = Vælg mellem fem placeringer eller lad { -brand-product-name } vælge den hurtigste.
 unauthenticated-hide-location-message-2 = Skjul din placering, når du er på nettet med { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -61,6 +69,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Brug VPN for dette websted
     .aria-label = VPN er slået fra for dette websted
+site-exclusion-toggle-description = Virker siden ikke? Prøv at slå VPN fra.
 ipprotection-settings-link =
     .label = Indstillinger
 
@@ -82,11 +91,17 @@ ipprotection-button-connecting = Aktiverer…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Placering: Anbefalet
+ipprotection-recommended-location-description = { -brand-product-name } finder den hurtigste placering
+ipprotection-recommended-location-badge = NYT
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Placering: { $country }
 ipprotection-locations-subview =
     .title = Vælg placering
+ipprotection-locations-subview-description = Vælg en anden placering at browse fra.
 
 ## VPN paused state
 
@@ -106,6 +121,7 @@ ipprotection-connection-status-generic-error-try-again = Prøv igen senere.
 ipprotection-connection-status-network-error-title = Kontroller din internetforbindelse
 ipprotection-connection-status-network-error-description = Opret forbindelse til internettet, og prøv så at slå VPN til.
 ipprotection-connection-status-blocked-error-title = VPN er ikke tilgængelig
+ipprotection-connection-status-blocked-error-description = Lokale love forhindrer os i at tilbyde VPN-tjenester i denne region. <a data-l10n-name="learn-more-link">Læs mere</a>
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

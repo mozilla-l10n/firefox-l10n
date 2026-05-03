@@ -499,6 +499,9 @@ newtab-weather-menu-change-location = Skift sted
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Søg efter sted
     .aria-label = Søg efter sted
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Brug nuværende placering
 newtab-weather-menu-weather-display = Visning af vejr
 newtab-weather-todays-forecast = Dagens vejrudsigt
 newtab-weather-see-full-forecast = Se hele vejrudsigten
@@ -524,6 +527,10 @@ newtab-weather-opt-in-not-now =
     .label = Ikke nu
 newtab-weather-opt-in-yes =
     .label = Ja
+newtab-weather-opt-in-headline = Få din lokale vejrudsigt
+newtab-weather-opt-in-use-location =
+    .label = Brug placering
+newtab-weather-opt-in-choose-location = Vælg placering
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day
@@ -589,6 +596,10 @@ newtab-section-follow-button-label =
     .aria-label = Følg { $topic }
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Stop med at følge
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Følger: Stop med at følge { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Finjuster dit feed
 newtab-section-follow-highlight-subtitle = Følg dine interesserer for at se mere indhold, der passer dig.
@@ -604,6 +615,18 @@ newtab-section-unblock-button = Fjern blokering
 #   $topic (string) - Name of topic that user is following
 newtab-section-follow-topic =
     .aria-label = Følg { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Stop med at følge { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Bloker { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Fjern blokering af { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -637,6 +660,8 @@ newtab-new-user-custom-wallpaper-cta = Prøv det nu
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = Så er der nye baggrunde
+newtab-wallpaper-feature-highlight-subtitle = Vælg din favorit, og få hvert nyt faneblad til at føles som hjemme.
 newtab-wallpaper-feature-highlight-cta = Vælg baggrund
 
 ## Strings for download mobile highlight
@@ -707,6 +732,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Afsluttede ({ $number })
+newtab-widget-lists-celebration-headline = Godt gået
 newtab-widget-task-list-menu-copy = Kopier
 newtab-widget-lists-menu-edit = Rediger listens navn
 newtab-widget-lists-menu-edit2 =
