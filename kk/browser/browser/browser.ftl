@@ -421,6 +421,12 @@ quickactions-cmd-inspector = бақылаушы, әзірлеуші құралд
 # Opens about:logins
 quickactions-logins2 = Парольдерді басқару
 quickactions-cmd-logins = логиндер, парольдер
+# Mutes all tabs playing audio
+quickactions-mute = Аудионы ойнатып жатқан беттердің дыбысын сөндіру
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = дыбысын сөндіру, тыныштандыру, шшшш
 # Opens about:addons page in the plugins section
 quickactions-plugins = Плагиндерді басқару
 quickactions-cmd-plugins = плагиндер
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Бұл сайтқа қауіпсіз түрде байланысқан емессіз.
 identity-connection-verified = Бұл сайтқа қауіпсіз түрде байланысқансыз.
 identity-ev-owner-label = Сертификат кімге шығарылған:
+identity-verifier-label = Растаған:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = 2024/1183 Регламентінде (ЕО) көрсетілгендей квалификацияланған
 identity-description-custom-root2 = Mozilla бұл сертификатты шығарушысын танымайды. Ол сіздің операциялық жүйеңіз немесе әкімшіңізбен қосылған болуы мүмкін.
+identity-cert-exception-overridden = Осы сайт үшін сіз қауіпсіздік ережелерінен бөлек рұқсат бердіңіз.
 identity-remove-cert-exception =
     .label = Ережеден тыс жағдайды өшіру
     .accesskey = ш
