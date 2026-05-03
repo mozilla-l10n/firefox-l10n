@@ -469,6 +469,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke disse endringene
 confirm-browser-language-change-button = Bruk og start om
+browser-language-heading =
+    .label = Nettleserspråk
+    .description = Velg språket som brukes til å vise menyer, meldinger og varsler fra { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Foretrukket språk
+browser-language-fallback-label =
+    .label = Reservespråk
+    .description = Brukes når oversettelsen til foretrukket språk er ufullstendig.
 browser-language-install-error =
     .message = { -brand-short-name } kan ikke oppdatere språkene dine akkurat nå. Kontroller at du er koblet til Internett, eller prøv på nytt.
 translate-web-pages =
@@ -688,6 +696,8 @@ update-application-version = Versjon { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Vis oppdateringshistorikk
     .accesskey = p
+update-application-installation =
+    .label = Installasjon
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
@@ -695,6 +705,9 @@ update-application-allow-description = Tillat { -brand-short-name } å
 update-application-auto =
     .label = Installer oppdateringer automatisk (anbefalt)
     .accesskey = a
+update-application-check-choose-2 =
+    .label = Se etter oppdateringer, men velg når du vil installere dem
+    .accesskey = S
 update-application-check-choose =
     .label = Se etter oppdateringer, men la meg velge om jeg vil installere dem
     .accesskey = S
@@ -706,6 +719,9 @@ update-application-background-enabled =
     .accesskey = N
 update-application-warning-cross-user-setting-2 =
     .message = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Vis færre oppdateringspåminnelser
+    .accesskey = n
 update-application-warning-cross-user-setting = Denne innstillingen gjelder for alle Windows-kontoer og { -brand-short-name }-profiler som bruker denne installasjonen av { -brand-short-name }.
 update-application-use-service =
     .label = Bruk en bakgrunnstjeneste for å installere oppdateringer
@@ -736,6 +752,11 @@ about-firefox-header =
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name }-oppdateringer
+    .description = Oppdateringer forbedrer hastighet, stabilitet og sikkerhet i { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Varsler
 update-application-updates-managed-by-os =
     .message = Oppdateringer administreres av operativsystemet ditt
 
@@ -1034,6 +1055,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Velg et bakgrunnsbilde
 home-prefs-choose-wallpaper-link2 =
     .label = Velg et bakgrunnsbilde
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = For å bruke disse funksjonene må du sette nye faner eller nye vinduer til { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1561,6 +1587,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Les mer
 forms-windows-sso-desc = Behandle kontoer i dine enhetensinnstillinger
 windows-passkey-settings-label = Behandle passnøkkel i systeminnstillingene
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Innstillinger for personvernpanelet
+    .description = Få hjelp til å beskytte informasjonen din på nettet i { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Vis meldinger om datalekkasjer
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2443,6 +2480,9 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Tilkoblings- og programvaresikkerhet
+preferences-connection-link-section =
+    .label = Tilkobling og programvaresikkerhet
+    .description = Se hvordan tilkoblinger holdes sikre, skadelig programvare blokkeres og nettsteder verifiseres.
 preferences-connection-link-button =
     .label = Avanserte innstillinger
 
