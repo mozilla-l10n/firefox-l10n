@@ -884,7 +884,24 @@ newtab-sports-widget-menu-view-upcoming = Vis kommende
 newtab-sports-widget-menu-view-results = Vis resultater
 newtab-sports-widget-menu-learn-more = Les mer
 newtab-sports-widget-countdown-title = Nedtelling til VM
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = T
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Få direkte kampoppdateringer og mer.
+newtab-sports-widget-view-schedule =
+    .label = Se kampoppsettet
 newtab-sports-widget-follow-teams =
     .label = Følg lag
 newtab-sports-widget-choose-wallpaper =
@@ -904,6 +921,20 @@ newtab-custom-widget-live-refresh =
 newtab-sports-widget-upcoming = Kommende
 newtab-sports-widget-results = Resultater
 newtab-sports-widget-semi-finals = Semifinaler
+newtab-sports-widget-bronze-finals = Bronsefinale
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finale
+newtab-sports-widget-delayed = Forsinket
+newtab-sports-widget-postponed = Utsatt
+newtab-sports-widget-suspended = Suspendert
+newtab-sports-widget-cancelled = Avlyst
+newtab-sports-widget-information = Informasjon om kampen
+newtab-sports-widget-view-results-link = Vis resultater
+newtab-sports-widget-third-place = Tredjeplass
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Andreplass
+newtab-sports-widget-champions = Mestere
+newtab-sports-widget-world-cup-champions = VM 2026 – verdensmestere
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

@@ -266,3 +266,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Bokmerke- og historikksystemet vil ikke virke fordi en av { -brand-short-name } sine filer er i bruk av et annet program. Noen sikkerhetsprogrammer kan forårsake dette problemet.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Del mappe

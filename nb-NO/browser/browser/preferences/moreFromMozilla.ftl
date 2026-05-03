@@ -46,3 +46,7 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI-nettstedbygger
 more-from-moz-mdn-description = Lær webutvikling med gratis, omfattende guider og referanser.
 more-from-moz-mdn-button = Lær webutvikling
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-button = Få { -thunderbird-brand-short-name }

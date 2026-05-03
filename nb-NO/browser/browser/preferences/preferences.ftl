@@ -718,6 +718,16 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortsett
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Om { -brand-short-name }
+
+## Firefox updates
+
+update-application-updates-managed-by-os =
+    .message = Oppdateringer administreres av operativsystemet ditt
+
 ## Firefox support
 
 support-application-heading =
@@ -758,6 +768,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Bruk automatisk rulling
     .accesskey = B
+keyboard-and-scrolling-group =
+    .label = Tastaturnavigasjon og rulling
+motion-and-link-group =
+    .label = Bevegelses- og lenkestil
 browsing-use-smooth-scrolling =
     .label = Bruk jevn rulling
     .accesskey = u
@@ -993,6 +1007,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Nedtelling
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
@@ -2415,6 +2432,8 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Tilkoblings- og programvaresikkerhet
+preferences-connection-link-button =
+    .label = Avanserte innstillinger
 
 ## The following strings are used in the Download section of settings
 
