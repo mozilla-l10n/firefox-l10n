@@ -365,6 +365,8 @@ newtab-custom-widget-lists-toggle =
     .label = Тізімдер
 newtab-custom-widget-timer-toggle =
     .label = Таймер
+newtab-custom-widget-sports-toggle =
+    .label = Әлем чемпионаты
 newtab-custom-widget-section-title = Виджеттер
 newtab-custom-widget-section-toggle =
     .label = Виджеттер
@@ -712,6 +714,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Аяқталған ({ $number })
+newtab-widget-lists-celebration-headline = Тамаша жұмыс
+newtab-widget-lists-celebration-subhead = Барлығы таза
 newtab-widget-task-list-menu-copy = Көшіріп алу
 newtab-widget-lists-menu-edit = Тізім атауын түзету
 newtab-widget-lists-menu-edit2 =
