@@ -526,6 +526,12 @@ newtab-weather-opt-in-yes =
     .label = Ja
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Højeste
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Laveste
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -577,6 +583,10 @@ newtab-topic-selection-button-pick-interests = Vælg dine interesser
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Følg
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Følg { $topic }
 newtab-section-following-button = Følger
 newtab-section-unfollow-button = Stop med at følge
 # A modal may appear next to the Follow button, directing users to try out the feature
@@ -590,6 +600,10 @@ newtab-section-follow-highlight-subtitle = Følg dine interesserer for at se mer
 newtab-section-block-button = Bloker
 newtab-section-blocked-button = Blokeret
 newtab-section-unblock-button = Fjern blokering
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Følg { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -599,6 +613,7 @@ newtab-section-confirm-block-topic-p2 = Det blokerede emner vil ikke længere bl
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Bloker { $topic }
+newtab-section-block-cancel-button = Annuller
 
 ## Strings for custom wallpaper highlight
 
@@ -619,6 +634,10 @@ newtab-custom-wallpaper-cta = Prøv det
 newtab-new-user-custom-wallpaper-title = Vælg en baggrund for at gøre { -brand-product-name } til din egen
 newtab-new-user-custom-wallpaper-subtitle = Føl dig hjemme på alle nye faneblade med tilpassede baggrunde og farver.
 newtab-new-user-custom-wallpaper-cta = Prøv det nu
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-cta = Vælg baggrund
 
 ## Strings for download mobile highlight
 
@@ -662,6 +681,18 @@ newtab-toast-thanks-for-reporting =
     .message = Tak for at du rapporterer dette.
 newtab-toast-widgets-hidden =
     .message = Vælg blyant-ikonet for at tilføje widgets igen.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = Du følger nu { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = Du følger ikke længere { $topic }.
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Du vil ikke længere se historier om { $topic }.
 
 ## Strings for task / to-do list productivity widget
 

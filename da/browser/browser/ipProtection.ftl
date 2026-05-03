@@ -29,6 +29,7 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye 
 ipprotection-feature-introduction-button-primary = Næste
 ipprotection-feature-introduction-button-secondary-not-now = Ikke nu
 ipprotection-feature-introduction-button-secondary-no-thanks = Nej tak
+ipprotection-feature-introduction-button-secondary-remove = Fjern VPN fra værktøjslinjen
 
 ## Site settings callout
 
@@ -36,10 +37,16 @@ ipprotection-site-settings-callout-title = Vælg, hvor du vil bruge VPN
 ipprotection-site-settings-callout-subtitle = Slå VPN fra for et specifikt websted, så husker vi det, næste gang du besøger det.
 ipprotection-site-settings-callout-button = Forstået
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Prøv det
+ipprotection-location-selection-callout-secondary-button = Afvis
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Prøv den indbyggede VPN i { -brand-product-name }
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul din placering,</a> når du er på nettet med { -brand-product-name }.
 unauthenticated-hide-location-message-2 = Skjul din placering, når du er på nettet med { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -70,6 +77,14 @@ ipprotection-button-turn-vpn-on = Slå VPN til
 # Button while VPN is connecting
 ipprotection-button-connecting = Aktiverer…
 
+## Location controls
+
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Placering: { $country }
+ipprotection-locations-subview =
+    .title = Vælg placering
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN sat på pause
@@ -84,8 +99,10 @@ upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 
 ipprotection-connection-status-generic-error-title = Kunne ikke oprette forbindelse til VPN
 ipprotection-connection-status-generic-error-description = Prøv igen om et par minutter.
+ipprotection-connection-status-generic-error-try-again = Prøv igen senere.
 ipprotection-connection-status-network-error-title = Kontroller din internetforbindelse
 ipprotection-connection-status-network-error-description = Opret forbindelse til internettet, og prøv så at slå VPN til.
+ipprotection-connection-status-blocked-error-title = VPN er ikke tilgængelig
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
