@@ -769,6 +769,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Splněno ({ $number })
 newtab-widget-lists-celebration-headline = Dobrá práce
+newtab-widget-lists-celebration-subhead = Vše vyřešeno
 newtab-widget-task-list-menu-copy = Kopírovat
 newtab-widget-lists-menu-edit = Upravit název seznamu
 newtab-widget-lists-menu-edit2 =
@@ -874,8 +875,45 @@ newtab-promo-card-dismiss-button =
     .title = Zavřít
     .aria-label = Zavřít
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-decrease-min =
+    .title = Zkrátit o 1 minutu
+newtab-widget-timer-increase-min =
+    .title = Zvýšit o 1 minutu
+newtab-widget-timer-mode-group =
+    .aria-label = Režim časovače
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Přestávka
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Skrýt časovač
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Skvělá práce
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Vaše přestávka skončila
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Potřebujete přestávku?
+
 ## Sports widget
 
+newtab-sports-widget-menu-view-results = Zobrazit výsledky
+newtab-sports-widget-menu-learn-more = Zjistit více
+newtab-sports-widget-countdown-title = Odpočítávání do Mistrovství světa
+newtab-sports-widget-get-updates = Získejte živé informace o zápasech a další informace.
+newtab-sports-widget-follow-teams =
+    .label = Sledujte týmy
+newtab-sports-widget-choose-wallpaper =
+    .label = Zvolte si tapetu
+newtab-sports-widget-skip = Přeskočit
+newtab-sports-widget-done-button =
+    .label = Hotovo
+newtab-sports-widget-group-stage = Skupinová fáze
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ŽIVĚ
+newtab-sports-widget-upcoming = Nadcházející
+newtab-sports-widget-results = Výsledky
+newtab-sports-widget-semi-finals = Semifinále
 newtab-sports-widget-suspended = Pozastaveno
 newtab-sports-widget-cancelled = Zrušeno
 newtab-sports-widget-information = Informace o zápase

@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-accessibility-title = Přístupnost
     .title = { pane-accessibility-title }
+pane-languages-title = Jazyky
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Experimenty { -brand-short-name(case: "gen") }
 category-experimental =
     .tooltiptext = Experimenty { -brand-short-name(case: "gen") }
@@ -81,6 +86,8 @@ pane-experimental-description2 =
        *[no-cases] Změny v pokročilém nastavení mohou negativně ovlivnit výkon a bezpečnost aplikace { -brand-short-name }.
     }
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 =
@@ -769,6 +776,8 @@ update-application-version = Verze { $version } <a data-l10n-name="learn-more">C
 update-history-2 =
     .label = Zobrazit historii aktualizací
     .accesskey = h
+update-application-installation =
+    .label = Instalace
 update-history =
     .label = Zobrazit historii aktualizací…
     .accesskey = h
@@ -848,6 +857,11 @@ update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Upozornění
 
 ## Firefox support
 

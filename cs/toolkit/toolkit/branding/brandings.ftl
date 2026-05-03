@@ -163,6 +163,7 @@
     .gender = masculine
     .case-status = with-cases
 -solo-ai-brand-name = Solo
+-thunderbird-brand-name = Mozilla Thunderbird
 -mdn-brand-name = Webová dokumentace MDN
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.

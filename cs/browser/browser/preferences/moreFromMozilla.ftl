@@ -79,3 +79,11 @@ more-from-moz-thunderbird-description = E-mail, kalendář a kontakty zdarma –
 more-from-moz-new-products-title = Nové produkty společnosti { -vendor-short-name }
 more-from-moz-new-products-description = Objevte nejnovější produkty od společnosti { -vendor-short-name }.
 more-from-moz-new-products-button = Podívejte se na nové produkty
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mdn-box-link =
+    .label = Přístup k MDN
+more-from-moz-new-products-box-link =
+    .label = Podívejte se na nové produkty
