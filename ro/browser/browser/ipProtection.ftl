@@ -51,17 +51,21 @@ ipprotection-site-settings-callout-button = Am înțeles
 ipprotection-location-selection-callout-title = Nou: Schimbă-ți locația
 ipprotection-location-selection-callout-description = VPN-ul încorporat în <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> îți permite să alegi dintre 5 locații de navigare pe internet sau ne poți lăsa pe noi să o alegem pe cea mai rapidă.
 ipprotection-location-selection-callout-primary-button = Încearcă
+ipprotection-location-selection-callout-secondary-button = Închide
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Încearcă VPN-ul încorporat { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ascunde-ți locația</a> când navighezi cu{ -brand-product-name }.
+unauthenticated-private-location-message = Ajută <a data-l10n-name="learn-more-vpn">să îți mențină locația privată</a> în { -brand-product-name }.
+unauthenticated-choose-location-message = Alege dintre 5 locații sau lasă { -brand-product-name } să o aleagă pe cea mai rapidă.
 unauthenticated-hide-location-message-2 = Ascunde-ți locația când navighezi cu { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obține { $maxUsage } GB de date gratuit pentru VPN  în fiecare lună.
 unauthenticated-get-started = Începe
+unauthenticated-terms-of-service-privacy-notice = Prin continuare, ești de acord cu <a data-l10n-name="vpn-terms-of-service">Condițiile de utilizare a serviciilor</a> și <a data-l10n-name="vpn-privacy-notice">Notificarea privind confidențialitatea</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Activează VPN-ul pentru acest site
     .aria-label = VPN-ul este activat pentru acest site
