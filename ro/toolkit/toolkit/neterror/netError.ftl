@@ -199,7 +199,12 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> a returnat o 
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Serverul de la <strong>{ $hostname }</strong> a returnat o eroare: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> a trimis înapoi un antet cu caractere goale - ceea ce nu este permis în standardele de securitate web.
+fp-neterror-content-encoding-intro = Pagina pe care încerci să o vezi nu poate fi afișată deoarece folosește o formă de compresie invalidă sau nesuportată.
 fp-neterror-coop-coep-intro = { -brand-short-name } nu a încărcat pagina deoarece se pare că configurația de securitate nu corespunde cu pagina anterioară.
+fp-neterror-blocked-by-policy-intro = Organizația ta a blocat accesul la această pagină sau site web.
 fp-neterror-http-auth-disabled-intro = Cineva care pretinde a fi site-ul ar putea încerca să fure ceva, cum ar fi numele de utilizator, parola sau adresa de e-mail.
 fp-neterror-http-auth-disabled-secure-connection = Site-ul necesită o conexiune securizată și nu poți adăuga o excepție ca să intri pe el.
 fp-neterror-why-did-this-happen = De ce s-a întâmplat asta?

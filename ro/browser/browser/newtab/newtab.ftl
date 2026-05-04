@@ -887,6 +887,10 @@ newtab-widget-timer-menu-hide = Ascunde cronometrul
 newtab-widget-timer-celebration-heading-focus = Bună treabă
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = Pauza s-a terminat
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Ai nevoie de o pauză?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Ești gata să te concentrezi?
 
 ## Sports widget
 
@@ -895,7 +899,24 @@ newtab-sports-widget-menu-view-upcoming = Vezi evenimente viitoare
 newtab-sports-widget-menu-view-results = Vezi rezultate
 newtab-sports-widget-menu-learn-more = Află mai multe
 newtab-sports-widget-countdown-title = Numărătoare inversă până la Cupa Mondială
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Obține actualizări live ale meciurilor și multe altele.
+newtab-sports-widget-view-schedule =
+    .label = Vezi programul
 newtab-sports-widget-follow-teams =
     .label = Urmărește echipe
 newtab-sports-widget-choose-wallpaper =
@@ -926,6 +947,8 @@ newtab-sports-widget-information = Informații despre meci
 newtab-sports-widget-no-live-data = Datele meciurilor live nu se actualizează momentan
 newtab-sports-widget-view-results-link = Vezi rezultate
 newtab-sports-widget-third-place = Locul trei
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Locul 2
 newtab-sports-widget-champions = Campionii
 newtab-sports-widget-world-cup-champions = Campionii Cupei Mondiale din 2026
 

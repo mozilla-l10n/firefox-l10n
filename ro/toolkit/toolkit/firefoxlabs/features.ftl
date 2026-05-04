@@ -90,6 +90,7 @@ experimental-features-newtab-widget-picture-of-the-day-description = Adaugă o m
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Ceasuri
+experimental-features-newtab-widget-clocks-description = Adaugă până la patru ceasuri cu denumiri personalizate ca să știi cât e ceasul în locurile care contează pentru tine. <a data-l10n-name="connect">Dă-ne feedback</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Căutare istorică semantică

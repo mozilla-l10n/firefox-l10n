@@ -37,6 +37,7 @@ policy-Containers = Setează politici legate de containere.
 policy-DisableAccounts = Dezactivează serviciile bazate pe cont, inclusiv sincronizarea.
 policy-DisabledCiphers = Dezactivează cifrurile.
 policy-DefaultDownloadDirectory = Setează directorul implicit de descărcare.
+policy-DefaultSerialGuardSetting = Controlează utilizarea API-ului serial.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.
 policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, lectorul de fișiere PDF încorporat în { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Împiedică agentul implicit de browser să ia orice măsură. Aplicabil numai pentru Windows; alte platforme nu au agentul.
@@ -154,3 +155,5 @@ policy-WebsiteFilter = Blochează intrarea pe site-uri web. Vezi documentația p
 policy-Windows10SSO = Permite conectarea unică Windows pentru conturile Microsoft, de la locul de muncă sau de la școală.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Permite autentificarea unică pentru conturi Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Activează sau dezactivează suportul pentru API-ul JavaScript XSLTProcessor și instrucțiunea de procesare XSLT.

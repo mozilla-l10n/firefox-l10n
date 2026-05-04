@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Ceasul dispozitivului tă
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Proprietarul { $hostname } nu a configurat corect și nu se poate crea o conexiune securizată.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Calculatorul tău crede că este { DATETIME($now, dateStyle: "medium") }, ceea ce împiedică conectarea { -brand-short-name } în siguranță. Ca să intri pe <strong>{ $hostname }</strong>, actualizează ceasul calculatorului la data, ora și fusul orar actuale în setările de sistem și apoi reîmprospătează pagina.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Actualizează ceasul calculatorului la data, ora și fusul orar actuale în setările de sistem. Calculatorul tău crede că este { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.

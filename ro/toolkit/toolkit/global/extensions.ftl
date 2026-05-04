@@ -140,6 +140,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } necesită 
 
 webext-site-perms-header-with-gated-perms-midi = Acest supliment oferă { $hostname } acces la dispozitivele tale MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Acest supliment oferă { $hostname } acces la dispozitivele tale MIDI (cu suport SysEx).
+webext-site-perms-header-with-gated-perms-serial = Acest supliment dă acces { $hostname } la dispozitivele tale seriale.
 
 ##
 
@@ -151,6 +152,12 @@ webext-site-perms-description-gated-perms-midi =
     
     
     În mod normal, site-urile web nu au permisiunea de a accesa dispozitive MIDI. Utilizarea necorespunzătoare ar putea provoca daune sau ar putea compromite securitatea.
+webext-site-perms-description-gated-perms-serial =
+    Sunt dispozitive precum microcontrolere, imprimante 3D și alte dispozitive care se conectează prin USB sau porturi seriale.
+    
+    Vei putea alege ce dispozitive poate accesa site-ul.
+    
+    Site-urilor web nu li se permite în mod normal accesul la dispozitive seriale. utilizarea necorespunzătoare poate duce la defecțiuni sau compromiterea securității.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -165,6 +172,7 @@ webext-site-perms-header-unsigned-with-perms = Adaugi { $extension }? Această e
 
 webext-site-perms-midi = Să acceseze dispozitive MIDI
 webext-site-perms-midi-sysex = Să acceseze dispozitive MIDI cu suport SysEx
+webext-site-perms-serial = Accesează dispozitive seriale
 
 ## Colorway theme migration
 
