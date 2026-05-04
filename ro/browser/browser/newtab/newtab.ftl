@@ -914,7 +914,7 @@ newtab-sports-widget-countdown-hours = H
 # character for your language, use that. Your translation will be automatically
 # truncated at 1 character to avoid layout issues.
 newtab-sports-widget-countdown-minutes = M
-newtab-sports-widget-get-updates = Obține actualizări live ale meciurilor și multe altele.
+newtab-sports-widget-get-updates = Obține actualizări în timp real ale meciurilor și multe altele.
 newtab-sports-widget-view-schedule =
     .label = Vezi programul
 newtab-sports-widget-follow-teams =
@@ -944,7 +944,7 @@ newtab-sports-widget-postponed = Amânat
 newtab-sports-widget-suspended = Suspendat
 newtab-sports-widget-cancelled = Anulat
 newtab-sports-widget-information = Informații despre meci
-newtab-sports-widget-no-live-data = Datele meciurilor live nu se actualizează momentan
+newtab-sports-widget-no-live-data = Datele în timp real despre meciuri nu se actualizează momentan
 newtab-sports-widget-view-results-link = Vezi rezultate
 newtab-sports-widget-third-place = Locul trei
 # Runner-up is the team in 2nd place.
