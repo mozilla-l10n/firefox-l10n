@@ -42,13 +42,6 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Embojuruja ñembojuehe emondo hag̃ua tendayke
 fxa-menu-send-to-mobile-connect-phone2 = Embojuaju ne pumbyry
 fxa-menu-send-to-mobile-device-missing2 = ¿Nderehechái ne mba’e’oka?
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
-fxa-menu-send-to-mobile-enable-sync =
-    .label = Embojuruja ñembojuehe emondo hag̃ua tendayke
-fxa-menu-send-to-mobile-connect-phone =
-    .label = Embojuaju ne pumbyry
-fxa-menu-send-to-mobile-device-missing =
-    .label = ¿Nderehechái ne mba’e’oka?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

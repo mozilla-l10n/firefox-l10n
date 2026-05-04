@@ -40,13 +40,6 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = ჩართეთ დასინქ. ჩანართის გასაგზავნად
 fxa-menu-send-to-mobile-connect-phone2 = დააკავშირეთ თქვენი ტელეფონი
 fxa-menu-send-to-mobile-device-missing2 = არ ჩანს თქვენი მოწყობილობა?
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
-fxa-menu-send-to-mobile-enable-sync =
-    .label = ჩართეთ დასინქ. ჩანართის გასაგზავნად
-fxa-menu-send-to-mobile-connect-phone =
-    .label = დააკავშირეთ თქვენი ტელეფონი
-fxa-menu-send-to-mobile-device-missing =
-    .label = არ ჩანს თქვენი მოწყობილობა?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

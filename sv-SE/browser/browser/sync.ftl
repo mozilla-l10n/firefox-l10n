@@ -41,13 +41,6 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Aktivera synkronisering för att skicka en flik
 fxa-menu-send-to-mobile-connect-phone2 = Anslut din telefon
 fxa-menu-send-to-mobile-device-missing2 = Hittar du inte din enhet?
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
-fxa-menu-send-to-mobile-enable-sync =
-    .label = Aktivera synkronisering för att skicka en flik
-fxa-menu-send-to-mobile-connect-phone =
-    .label = Anslut din telefon
-fxa-menu-send-to-mobile-device-missing =
-    .label = Hittar du inte din enhet?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

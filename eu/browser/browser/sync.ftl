@@ -40,13 +40,6 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
 fxa-menu-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
 fxa-menu-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
-fxa-menu-send-to-mobile-enable-sync =
-    .label = Gaitu sinkronizazioa fitxa bidaltzeko
-fxa-menu-send-to-mobile-connect-phone =
-    .label = Konektatu zure telefonoa
-fxa-menu-send-to-mobile-device-missing =
-    .label = Ez duzu zure gailua ikusten?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =

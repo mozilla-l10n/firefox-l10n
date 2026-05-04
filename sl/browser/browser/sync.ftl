@@ -46,13 +46,6 @@ fxa-menu-send-to-mobile =
 fxa-menu-send-to-mobile-enable-sync2 = Za pošiljanje zavihka omogočite sinhronizacijo
 fxa-menu-send-to-mobile-connect-phone2 = Poveži telefon
 fxa-menu-send-to-mobile-device-missing2 = Ne vidite svoje naprave?
-# The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, or pair a device
-fxa-menu-send-to-mobile-enable-sync =
-    .label = Za pošiljanje zavihka omogočite sinhronizacijo
-fxa-menu-send-to-mobile-connect-phone =
-    .label = Poveži telefon
-fxa-menu-send-to-mobile-device-missing =
-    .label = Ne vidite svoje naprave?
 # Variables:
 #   $tabCount (Number): The number of tabs sent to the device.
 fxa-menu-send-tab-to-device =
