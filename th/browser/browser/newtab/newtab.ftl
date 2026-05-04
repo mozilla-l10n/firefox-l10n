@@ -852,10 +852,28 @@ newtab-promo-card-dismiss-button =
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
     .aria-label = เริ่มจับเวลา { $minutes } นาที
+newtab-widget-timer-pause-aria =
+    .aria-label = หยุดจับเวลาชั่วคราว
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label = { $minutes } นาที
+newtab-widget-timer-decrease-min =
+    .title = ลด 1 นาที
+newtab-widget-timer-increase-min =
+    .title = เพิ่ม 1 นาที
+newtab-widget-timer-mode-group =
+    .aria-label = โหมดจับเวลา
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = โฟกัส
 
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = ติดตามทีม
+newtab-sports-widget-menu-view-results = ดูผลการแข่ง
+newtab-sports-widget-menu-learn-more = เรียนรู้เพิ่มเติม
+newtab-sports-widget-countdown-title = นับถอยหลังสู่ฟุตบอลโลก
+newtab-sports-widget-get-updates = เกาะติดผลบอลสดและอีกมากมาย
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

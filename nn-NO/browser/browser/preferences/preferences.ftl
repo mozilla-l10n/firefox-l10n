@@ -734,6 +734,11 @@ update-in-progress-ok-button = &Avvis
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortset
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Om { -brand-short-name }
+
 ## Firefox updates
 
 update-application-suppress-prompts-heading =
@@ -781,6 +786,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Bruk automatisk rulling
     .accesskey = B
+keyboard-and-scrolling-group =
+    .label = Tastaturnavigasjon og rulling
 browsing-use-smooth-scrolling =
     .label = Bruk jamn rulling
     .accesskey = u

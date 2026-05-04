@@ -150,6 +150,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Kople til telefonen din
 tab-context-send-to-mobile-device-missing =
     .label = Ser du ikkje eininga di?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Opprett delbar lenke
+    .accesskey = e
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
