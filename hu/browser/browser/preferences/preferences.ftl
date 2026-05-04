@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = MI vezérlők
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = A { -brand-short-name } névjegye
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Akadálymentesítés
     .title = { pane-accessibility-title }
 pane-languages-title = Nyelvek
@@ -703,6 +705,9 @@ update-application-allow-description = A következők engedélyezése a { -brand
 update-application-auto =
     .label = Frissítések automatikus telepítése (ajánlott)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Frissítések keresése, de Ön választja ki, hogy mikor települjenek
+    .accesskey = F
 update-application-check-choose =
     .label = Frissítések keresése, de a telepítés jóváhagyással történik
     .accesskey = k
@@ -714,6 +719,9 @@ update-application-background-enabled =
     .accesskey = H
 update-application-warning-cross-user-setting-2 =
     .message = Ez a beállítás érvényes az összes Windows fiókra és { -brand-short-name } profilra, amely ezt a { -brand-short-name } telepítést használja.
+update-application-suppress-prompts-2 =
+    .label = Kevesebb frissítési emlékeztető megjelenítése
+    .accesskey = K
 update-application-warning-cross-user-setting = Ez a beállítás érvényes az összes Windows fiókra és { -brand-short-name } profilra, amely ezt a { -brand-short-name } telepítést használja.
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
@@ -736,6 +744,11 @@ update-in-progress-ok-button = &Elvetés
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Folytatás
+
+## About Firefox
+
+about-firefox-header =
+    .heading = A { -brand-short-name } névjegye
 
 ## Firefox updates
 
@@ -1026,6 +1039,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Időzítő
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Támogassa a { -brand-product-name }ot
@@ -1039,6 +1055,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Válasszon egy háttérképet
 home-prefs-choose-wallpaper-link2 =
     .label = Válasszon egy háttérképet
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Ezen funkciók használatához állítsa be az új lapokat vagy ablakokat, hogy a { -firefox-home-brand-name }ot jelenítsék meg.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1569,6 +1590,9 @@ windows-passkey-settings-label = A jelkulcsok kezelése a rendszerbeállítások
 
 ## Privacy Panel Settings
 
+privacy-panel-settings-header =
+    .label = Adatvédelmi panel beállításai
+    .description = Kapjon segítséget az online információi megvédéséhez a { -brand-short-name }ban.
 # By “breach message” we mean the UI messaging shown when Firefox detects that a
 # site the user has interacted with has been involved in a known data breach
 privacy-panel-breach-alerts =
