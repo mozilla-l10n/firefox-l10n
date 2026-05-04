@@ -738,6 +738,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = เสร็จสมบูรณ์ ({ $number })
+newtab-widget-lists-celebration-headline = ทำดีมาก
 newtab-widget-task-list-menu-copy = คัดลอก
 newtab-widget-lists-menu-edit = แก้ไขชื่อรายการ
 newtab-widget-lists-menu-edit2 =
@@ -853,7 +854,7 @@ newtab-promo-card-dismiss-button =
 newtab-widget-timer-start-aria =
     .aria-label = เริ่มจับเวลา { $minutes } นาที
 newtab-widget-timer-pause-aria =
-    .aria-label = หยุดจับเวลาชั่วคราว
+    .aria-label = หยุดตัวจับเวลาชั่วคราว
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -866,6 +867,19 @@ newtab-widget-timer-mode-group =
     .aria-label = โหมดจับเวลา
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = โฟกัส
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = พัก
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = ซ่อนตัวจับเวลา
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = เยี่ยมมาก
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = หมดเวลาพักแล้ว
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = พักสักหน่อยไหม?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = พร้อมที่จะโฟกัสหรือยัง?
 
 ## Sports widget
 
@@ -874,6 +888,19 @@ newtab-sports-widget-menu-view-results = ดูผลการแข่ง
 newtab-sports-widget-menu-learn-more = เรียนรู้เพิ่มเติม
 newtab-sports-widget-countdown-title = นับถอยหลังสู่ฟุตบอลโลก
 newtab-sports-widget-get-updates = เกาะติดผลบอลสดและอีกมากมาย
+newtab-sports-widget-follow-teams =
+    .label = ติดตามทีม
+newtab-sports-widget-choose-wallpaper =
+    .label = เลือกรูปพื้นหลัง
+newtab-sports-widget-skip = ข้าม
+newtab-sports-widget-search-teams =
+    .placeholder = ค้นหาทีม
+    .aria-label = ค้นหาทีม
+newtab-sports-widget-done-button =
+    .label = เสร็จสิ้น
+newtab-sports-widget-group-stage = รอบแบ่งกลุ่ม
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = สด
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
