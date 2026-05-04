@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Rhagor gan { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Rhagor gan { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Rhagor gan { -vendor-short-name }
 more-from-moz-subtitle = Edrychwch ar gynnyrch eraill { -vendor-short-name } sy'n gweithio i gefnogi rhyngrwyd iach.
 more-from-moz-firefox-mobile-title = { -brand-product-name } Symudol
 more-from-moz-firefox-mobile-description = Y porwr symudol sy'n rhoi eich preifatrwydd yn gyntaf.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } Symudol
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } Symudol
+    .description = Y porwr symudol sy'n blaenoriaethu'ch preifatrwydd
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Darganfyddwch haen ychwanegol o bori ac diogelwch dienw.
 more-from-moz-qr-code-box-firefox-mobile-title = Llwythwch i lawr gan ddefnyddio'ch dyfais symudol. Pwyntiwch eich camera at y cod QR. Pan fydd dolen yn ymddangos, tapiwch ef.
@@ -46,3 +51,15 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } Crëwr Gwefannau AI
 more-from-moz-mdn-description = Dysgwch sut i ddatblygu'r we gyda chanllawiau a chyfeiriadau cynhwysfawr am ddim.
 more-from-moz-mdn-button = Dysgwch am ddatblygu gwe
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = E-bost, calendr a chysylltiadau am ddim - trefnu hawdd.
+more-from-moz-thunderbird-button = Cael { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Cynnyrch Newydd { -vendor-short-name }
+more-from-moz-new-products-description = Darganfod cynnyrch diweddaraf { -vendor-short-name }.
+more-from-moz-new-products-button = Gweld cynnyrch newydd

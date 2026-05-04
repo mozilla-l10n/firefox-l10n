@@ -916,7 +916,24 @@ newtab-sports-widget-menu-view-upcoming = Gweld yr hyn sydd i ddod
 newtab-sports-widget-menu-view-results = Gweld y canlyniadau
 newtab-sports-widget-menu-learn-more = Dysgu rhagor
 newtab-sports-widget-countdown-title = Paratoi ar gyfer Cwpan y Byd
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = A
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Cael diweddariadau gemau byw a mwy.
+newtab-sports-widget-view-schedule =
+    .label = Gweld amserlen
 newtab-sports-widget-follow-teams =
     .label = Dilyn timau
 newtab-sports-widget-choose-wallpaper =
@@ -931,12 +948,26 @@ newtab-sports-widget-group-stage = Cymal Grŵp
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = BYW
 newtab-custom-widget-live-refresh =
-    .title = Adnewyddu'r sgoriau
-    .aria-label = Adnewyddu'r sgoriau
+    .title = Diweddaru sgoriau
+    .aria-label = Diweddaru sgoriau
 newtab-sports-widget-upcoming = I Ddod
 newtab-sports-widget-results = Canlyniadau
 newtab-sports-widget-semi-finals = Cyn-derfynol
 newtab-sports-widget-bronze-finals = Y Ffeinal Efydd
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Y Ffeinal
+newtab-sports-widget-delayed = Wedi'i Oedi
+newtab-sports-widget-postponed = Wedi'i Ohirio
+newtab-sports-widget-suspended = Wedi'i Atal
+newtab-sports-widget-cancelled = Wedi'i Ganslo
+newtab-sports-widget-information = Gwybodaeth am y gêm
+newtab-sports-widget-no-live-data = Dyw data gêm fyw ddim yn cael ei ddiweddaru ar hyn o bryd
+newtab-sports-widget-view-results-link = Gweld y canlyniadau
+newtab-sports-widget-third-place = Yn Drydydd
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Yn Ail
+newtab-sports-widget-champions = Pencampwyr
+newtab-sports-widget-world-cup-champions = Pencampwyr Cwpan y Byd 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
