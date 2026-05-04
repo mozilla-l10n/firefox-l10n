@@ -820,9 +820,34 @@ newtab-widget-timer-mode-group =
     .aria-label = Таймер режимі
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Фокус
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Жақсы жұмыс
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Үзілісіңіз аяқталды
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Үзіліс керек пе?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Назар аударуға дайынсыз ба?
 
 ## Sports widget
 
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = К
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = С
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = М
+newtab-sports-widget-view-schedule =
+    .label = Кестені қарау
 newtab-sports-widget-skip = Аттап кету
 newtab-sports-widget-search-teams =
     .placeholder = Командаларды іздеу
@@ -837,6 +862,16 @@ newtab-custom-widget-live-refresh =
     .aria-label = Ұпайларды жаңарту
 newtab-sports-widget-upcoming = Алдағы уақытта
 newtab-sports-widget-results = Нәтижелер
+newtab-sports-widget-semi-finals = Жартылай финал
+newtab-sports-widget-bronze-finals = Үшінші орын үшін ойын
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Финал
+newtab-sports-widget-delayed = Кешіктірілді
+newtab-sports-widget-postponed = Кейінге қалдырылды
+newtab-sports-widget-suspended = Тоқтатылған
+newtab-sports-widget-cancelled = Бас тартылған
+newtab-sports-widget-information = Матч туралы ақпарат
+newtab-sports-widget-no-live-data = Тікелей матч деректері қазір жаңартылып жатқан жоқ
 newtab-sports-widget-view-results-link = Нәтижелерді қарау
 newtab-sports-widget-third-place = Үшінші орын
 # Runner-up is the team in 2nd place.
