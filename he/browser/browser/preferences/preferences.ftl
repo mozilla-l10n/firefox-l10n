@@ -753,8 +753,8 @@ about-firefox-header =
 ## Firefox updates
 
 update-application-heading =
-    .label = עדכוני { -brand-short-name }
-    .description = עדכונים משפרים את המהירות, היציבות והאבטחה של { -brand-short-name }.
+    .label = עדכונים ל־{ -brand-short-name }
+    .description = העדכונים משפרים את המהירות, היציבות והאבטחה של { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = התרעות
 update-application-updates-managed-by-os =
