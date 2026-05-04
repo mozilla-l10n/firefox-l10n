@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = { -vendor-short-name } ұсынған көбірек
+more-from-moz-page-header =
+    .heading = { -vendor-short-name } ұсынған көбірек
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } ұсынған көбірек
 more-from-moz-subtitle = Салауатты интернетті қолдау үшін жұмыс істейтін басқа { -vendor-short-name } өнімдерін қараңыз.
 more-from-moz-firefox-mobile-title = Мобильді { -brand-product-name }
 more-from-moz-firefox-mobile-description = Сіздің жекелігіңізді бірінші орынға қоятын мобильді браузер.
 more-from-moz-firefox-mobile-title-1 = Мобильді { -brand-product-name }
+more-from-moz-firefox-mobile =
+    .label = Мобильді { -brand-product-name }
+    .description = Сіздің жекелігіңізді бірінші орынға қоятын мобильді браузер.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Анонимді шолу мен қорғаныстың қосымша қабатын өзіңіз үшін ашыңыз.
 more-from-moz-qr-code-box-firefox-mobile-title = Мобильді құрылғы арқылы жүктеп алыңыз. Камераны QR кодқа бағыттаңыз. Сілтеме пайда болған кезде оны шертіңіз.
@@ -47,6 +52,27 @@ more-from-moz-mdn-description = Тегін, жан-жақты нұсқаулық
 more-from-moz-mdn-button = Веб әзірлеуді үйрену
 more-from-moz-mdn-title2 = { -mdn-brand-name }
 
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Тегін электрондық пошта, күнтізбе және контактілер — өз қалауыңыз бойынша ұйымдастырылған.
+more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } алу
+
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
+more-from-moz-new-products-title = { -vendor-short-name } жаңа өнімдері
+more-from-moz-new-products-description = { -vendor-short-name } ұсынған ең соңғы өнімдерімен танысыңыз.
 more-from-moz-new-products-button = Жаңа өнімдерді қарау
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Қолданбаны жүктеп алу үшін телефоныңыздың немесе планшетіңіздің камерасымен сканерлеңіз. Сілтеме пайда болған кезде оны шертіңіз.
+more-from-moz-firefox-mobile-email-link = Жүктеп алу сілтемесін сіздің телефоныңызға эл. поштамен жіберу
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-new-products-box-link =
+    .label = Жаңа өнімдерді қарау

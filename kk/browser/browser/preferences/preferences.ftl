@@ -68,8 +68,13 @@ category-sync3 =
 pane-ai-controls-title = ЖИ басқару элементтері
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = { -brand-short-name } туралы
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Қолжетімділік
     .title = { pane-accessibility-title }
+pane-languages-title = Тілдер
+category-languages =
+    .tooltiptext = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } Тәжірибелері
 category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
@@ -995,6 +1000,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Таймер
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау
@@ -2151,6 +2159,8 @@ collection-backlogged-crash-reports2 =
     .label = Құлау хабарламаларын автоматты түрде жіберу
     .accesskey = л
 collection-backlogged-crash-reports-description = Бұл { -vendor-short-name } үшін браузердегі ақауларды диагностикалауға және түзетуге мүмкіндік береді. Есептемелер жеке немесе сезімтал деректерді қамтуы мүмкін.
+settings-redesign-promo-dismiss-button =
+    .label = Түсіндім
 addon-recommendations =
     .label = { -brand-short-name } үшін жекеленген кеңейтулер ұсыныстарын жасауға рұқсат ету
 addon-recommendations-link = Көбірек білу

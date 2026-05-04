@@ -823,6 +823,10 @@ newtab-widget-timer-running-focus = Фокус
 
 ## Sports widget
 
+newtab-sports-widget-skip = Аттап кету
+newtab-sports-widget-search-teams =
+    .placeholder = Командаларды іздеу
+    .aria-label = Командаларды іздеу
 newtab-sports-widget-done-button =
     .label = Дайын
 newtab-sports-widget-group-stage = Топтық кезең
@@ -833,6 +837,12 @@ newtab-custom-widget-live-refresh =
     .aria-label = Ұпайларды жаңарту
 newtab-sports-widget-upcoming = Алдағы уақытта
 newtab-sports-widget-results = Нәтижелер
+newtab-sports-widget-view-results-link = Нәтижелерді қарау
+newtab-sports-widget-third-place = Үшінші орын
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Екінші орын алған
+newtab-sports-widget-champions = Чемпиондар
+newtab-sports-widget-world-cup-champions = 2026 ӘЧ чемпиондары
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
