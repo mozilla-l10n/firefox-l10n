@@ -423,6 +423,10 @@ quickactions-logins2 = Jelszavak kezelése
 quickactions-cmd-logins = bejelentkezések, jelszavak
 # Mutes all tabs playing audio
 quickactions-mute = Hangot játszó lapok némítása
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = némítás, pszt, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Bővítmények kezelése
 quickactions-cmd-plugins = bővítmények

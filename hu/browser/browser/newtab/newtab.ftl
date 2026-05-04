@@ -367,6 +367,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listák
 newtab-custom-widget-timer-toggle =
     .label = Időzítő
+newtab-custom-widget-sports-toggle =
+    .label = Világbajnokság
 newtab-custom-widget-section-title = Kisalkalmazások
 newtab-custom-widget-section-toggle =
     .label = Kisalkalmazások
@@ -738,6 +740,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Kész ({ $number })
+newtab-widget-lists-celebration-headline = Szép munka
+newtab-widget-lists-celebration-subhead = Minden tiszta
 newtab-widget-task-list-menu-copy = Másolás
 newtab-widget-lists-menu-edit = Listanév szerkesztése
 newtab-widget-lists-menu-edit2 =
@@ -758,6 +762,8 @@ newtab-widget-lists-input-menu-move-up = Mozgatás felfelé
 newtab-widget-lists-input-menu-move-down = Mozgatás lefelé
 newtab-widget-lists-input-menu-delete = Törlés
 newtab-widget-lists-input-menu-edit = Szerkesztés
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Elem szerkesztése
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Új lista létrehozása
@@ -843,6 +849,108 @@ newtab-promo-card-cta = További tudnivalók
 newtab-promo-card-dismiss-button =
     .title = Eltüntetés
     .aria-label = Eltüntetés
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } perces időzítő indítása
+           *[other] { $minutes } perces időzítő indítása
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Időzítő szüneteltetése
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } perc
+           *[other] { $minutes } perc
+        }
+newtab-widget-timer-decrease-min =
+    .title = Csökkentés 1 perccel
+newtab-widget-timer-increase-min =
+    .title = Növelés 1 perccel
+newtab-widget-timer-mode-group =
+    .aria-label = Időzítő mód
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fókusz
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Szünet
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Időzítő elrejtése
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Szép munka
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = A szünete véget ért
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Szüksége van egy kis szünetre?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Készen áll a fókuszálásra?
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Csapatok követése
+newtab-sports-widget-menu-view-upcoming = Közelgők megtekintése
+newtab-sports-widget-menu-view-results = Eredmények megtekintése
+newtab-sports-widget-menu-learn-more = További tudnivalók
+newtab-sports-widget-countdown-title = Visszaszámlálás a vébéig
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = N
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = Ó
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = P
+newtab-sports-widget-get-updates = Kapjon élő mérkőzésinformációkat és még sok mást.
+newtab-sports-widget-view-schedule =
+    .label = Ütemezés megtekintése
+newtab-sports-widget-follow-teams =
+    .label = Csapatok követése
+newtab-sports-widget-choose-wallpaper =
+    .label = Válasszon egy háttérképet
+newtab-sports-widget-skip = Kihagyás
+newtab-sports-widget-search-teams =
+    .placeholder = Csapatok keresése
+    .aria-label = Csapatok keresése
+newtab-sports-widget-done-button =
+    .label = Kész
+newtab-sports-widget-group-stage = Csoportkörök szakasza
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ÉLŐ
+newtab-custom-widget-live-refresh =
+    .title = Pontszámok frissítése
+    .aria-label = Pontszámok frissítése
+newtab-sports-widget-upcoming = Közelgő
+newtab-sports-widget-results = Eredmények
+newtab-sports-widget-semi-finals = Elődöntők
+newtab-sports-widget-bronze-finals = Bronzmérkőzés
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Döntő
+newtab-sports-widget-delayed = Késleltetve
+newtab-sports-widget-postponed = Elhalasztva
+newtab-sports-widget-suspended = Felfüggesztve
+newtab-sports-widget-cancelled = Lemondva
+newtab-sports-widget-information = Információk a mérkőzésről
+newtab-sports-widget-no-live-data = Az élő mérkőzésadatok most nem frissülnek
+newtab-sports-widget-view-results-link = Eredmények megtekintése
+newtab-sports-widget-third-place = Harmadik helyezett
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Második helyezett
+newtab-sports-widget-champions = Bajnokok
+newtab-sports-widget-world-cup-champions = A 2026-os világbajnokság bajnokai
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

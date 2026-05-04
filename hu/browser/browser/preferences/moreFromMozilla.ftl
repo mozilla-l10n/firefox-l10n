@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Továbbiak a { -vendor-short-name(ending: "accented") }tól
+more-from-moz-page-header =
+    .heading = Továbbiak a { -vendor-short-name(ending: "accented") }tól
 more-from-moz-category =
     .tooltiptext = Továbbiak a { -vendor-short-name(ending: "accented") }tól
 more-from-moz-subtitle = Tekintse meg a többi { -vendor-short-name } termékét, amelyek az egészséges internetet támogatják.
 more-from-moz-firefox-mobile-title = { -brand-product-name } mobilon
 more-from-moz-firefox-mobile-description = A mobilböngésző, amely az Ön adatvédelmét helyezi előtérbe.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } mobilra
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } mobilra
+    .description = A mobilböngésző, amely az adatvédelmet teszi az első helyre.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Fedezze fel az anonim böngészés és védelem további rétegét.
 more-from-moz-qr-code-box-firefox-mobile-title = Töltse le a mobileszközével. Irányítsa a kamerát a QR-kódra. Amikor megjelenik egy hivatkozás, koppintson rá.
@@ -46,3 +51,7 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } MI weboldal-készítő
 more-from-moz-mdn-description = Tanuljon a webfejlesztésről ingyenes, átfogó útmutatók és referenciák segítségével.
 more-from-moz-mdn-button = Tanuljon a webfejlesztésről
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }

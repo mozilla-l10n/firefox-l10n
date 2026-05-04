@@ -55,3 +55,17 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = อีเมล ปฏิทิน และรายชื่อผู้ติดต่อฟรี ที่คุณจัดระเบียบได้ตามต้องการ
+more-from-moz-thunderbird-button = รับ { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = ผลิตภัณฑ์ใหม่ของ { -vendor-short-name }
+more-from-moz-new-products-description = ค้นพบผลิตภัณฑ์ล่าสุดจาก { -vendor-short-name }
+more-from-moz-new-products-button = ดูผลิตภัณฑ์ใหม่
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = สแกนด้วยกล้องโทรศัพท์หรือแท็บเล็ตของคุณเพื่อดาวน์โหลดแอป และแตะลิงก์ที่ปรากฎขึ้นมา
