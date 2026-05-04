@@ -63,3 +63,49 @@ more-from-moz-thunderbird-button = Cael { -thunderbird-brand-short-name }
 more-from-moz-new-products-title = Cynnyrch Newydd { -vendor-short-name }
 more-from-moz-new-products-description = Darganfod cynnyrch diweddaraf { -vendor-short-name }.
 more-from-moz-new-products-button = Gweld cynnyrch newydd
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Sganiwch gyda camera eich ffôn neu dabled i gael yr ap. Tapiwch y ddolen pan fydd yn ymddangos.
+more-from-moz-firefox-mobile-email-link = E-bostiwch y ddolen llwytho i'ch ffôn
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Canfod lle mae'ch manylion personol wedi'u hamlygu ar-lein gyda sgan am ddim.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Cael diogelwch ychwanegol ar gyfer eich holl apiau — ni dim ond eich porwr. Cadwch eich data'n ddiogel ar Wi-Fi cyhoeddus a rhwydweithiau anniogel.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Diogelwch eich blwch derbyn rhag sbam gydag arallenwau e-byst am ddim.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Dysgwch ddatblygu gwe gyda chanllawiau  a chyfeiriadau am ddim.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Cael at eich e-byst, calendrau a chysylltiadau gydag un ap cyflym.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Edrychwch ar ein syniadau a'n technolegau arbrofol diweddaraf.
+more-from-moz-new-products-card =
+    .label = Cynnyrch Newydd { -vendor-short-name }
+    .description = Darganfod y cynnyrch newydd gan { -vendor-short-name }
+more-from-moz-mozilla-monitor-box-link =
+    .label = Cael { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Cael { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Cael { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Mynediad at MDN
+more-from-moz-thunderbird-box-link =
+    .label = Cael { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Rhowch gynnig ar { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Gweld ein cynnyrch newydd

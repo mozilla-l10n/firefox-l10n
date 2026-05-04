@@ -933,7 +933,7 @@ newtab-sports-widget-countdown-hours = A
 newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Cael diweddariadau gemau byw a mwy.
 newtab-sports-widget-view-schedule =
-    .label = Gweld amserlen
+    .label = Gweld yr amserlen
 newtab-sports-widget-follow-teams =
     .label = Dilyn timau
 newtab-sports-widget-choose-wallpaper =
@@ -956,7 +956,7 @@ newtab-sports-widget-semi-finals = Cyn-derfynol
 newtab-sports-widget-bronze-finals = Y Ffeinal Efydd
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Y Ffeinal
-newtab-sports-widget-delayed = Wedi'i Oedi
+newtab-sports-widget-delayed = Rhedeg yn Hwyr
 newtab-sports-widget-postponed = Wedi'i Ohirio
 newtab-sports-widget-suspended = Wedi'i Atal
 newtab-sports-widget-cancelled = Wedi'i Ganslo
