@@ -84,6 +84,11 @@ smartblock-placeholder-title = Mae tracwyr { $trackername } a'i gynnwys wedi'u r
 smartblock-placeholder-desc = Mae eich gosodiadau { -brand-short-name } wedi rhwystro'r cynnwys hwn rhag eich tracio ar draws gwefannau neu rhag cael ei ddefnyddio ar gyfer hysbysebion.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Caniatáu ar { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Cynnwys o fewnblaniad wedi'i rwystro
 
 ##
 

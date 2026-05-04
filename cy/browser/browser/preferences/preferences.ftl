@@ -68,8 +68,15 @@ category-sync3 =
 pane-ai-controls-title = Rheoli AI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Ynghylch { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Hygyrchedd
     .title = { pane-accessibility-title }
+pane-languages-title = Iaith
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Arbrofion { -brand-short-name }
 category-experimental =
     .tooltiptext = Arbrofion { -brand-short-name }
@@ -77,6 +84,8 @@ pane-experimental-subtitle = Byddwch Ofalus
 pane-experimental-search-results-header = Arbrofion { -brand-short-name }: Byddwch yn Ofalus
 pane-experimental-description2 = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Rhowch gynnig ar ein nodweddion arbrofol! Maen nhw'n cael eu datblygu ac yn esblygu, sy'n gallu effeithio ar sut mae { -brand-short-name } yn gweithio. Dim ond os ydych wedi troi <a data-l10n-name="data-collection">data technegol a rhyngweithio</a> ymlaen y byddwn yn derbyn data am eich defnydd o'r nodweddion hyn.
@@ -472,6 +481,14 @@ manage-browser-languages-button =
     .accesskey = G
 confirm-browser-language-change-description = Ailgychwyn { -brand-short-name } i osod y newidiadau hyn
 confirm-browser-language-change-button = Gosod ac Ailgychwyn
+browser-language-heading =
+    .label = Iaith y porwr
+    .description = Dewiswch yr iaith sy'n cael ei defnyddio i ddangos dewislenni, negeseuon a hysbysiadau gan { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Dewis iaith
+browser-language-fallback-label =
+    .label = Iaith wrth gefn
+    .description = Yn cael ei ddefnyddio pan mae cyfieithiad y dewis iaith yn anghyflawn.
 browser-language-install-error =
     .message = Nid yw { -brand-short-name } yn gallu diweddaru eich iaith ar hyn o bryd. Gwiriwch eich bod wedi eich cysylltu i'r rhyngrwyd neu ceisiwch eto.
 translate-web-pages =
@@ -691,12 +708,17 @@ update-application-version = Fersiwn { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Dangos Hanes Diweddaru
     .accesskey = D
+update-application-installation =
+    .label = Gosod
 update-history =
     .label = Dangos Hanes Diweddaru…
     .accesskey = D
 update-application-allow-description = Caniatáu i { -brand-short-name }
 update-application-auto =
     .label = Gosod diweddariadau'n awtomatig (argymell)
+    .accesskey = G
+update-application-check-choose-2 =
+    .label = Gwirio'r ddiweddariadau, ond dewis pryd i'w gosod
     .accesskey = G
 update-application-check-choose =
     .label = Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio
@@ -709,6 +731,9 @@ update-application-background-enabled =
     .accesskey = P
 update-application-warning-cross-user-setting-2 =
     .message = Bydd y gosodiad hwn yn berthnasol i bob cyfrif Windows a proffiliau { -brand-short-name } sy'n ddefnyddio'r gosodiad { -brand-short-name } hwn.
+update-application-suppress-prompts-2 =
+    .label = Dangos llai o negeseuon atgoffa i ddiweddaru
+    .accesskey = D
 update-application-warning-cross-user-setting = Bydd y gosodiad hwn yn berthnasol i bob cyfrif Windows a proffiliau { -brand-short-name } sy'n ddefnyddio'r gosodiad { -brand-short-name } hwn.
 update-application-use-service =
     .label = Defnyddio gwasanaethau cefndirol i osod diweddariadau
@@ -731,6 +756,21 @@ update-in-progress-ok-button = &Dileu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Ynghylch { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Diweddariadau { -brand-short-name }
+    .description = Mae diweddariadau { -brand-short-name } yn gwella cyflymder, sefydlogrwydd a diogelwch.
+update-application-suppress-prompts-heading =
+    .label = Hysbysiadau
+update-application-updates-managed-by-os =
+    .message = Mae diweddariadau'n cael eu rheoli gan eich system weithredu
 
 ## Firefox support
 
@@ -1011,6 +1051,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Amserydd
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Chwaraeon
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Cefnogi { -brand-product-name }
@@ -1024,6 +1067,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Dewis Papur Wal
 home-prefs-choose-wallpaper-link2 =
     .label = Dewis Papur Wal
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = I ddefnyddio'r nodweddion hyn, gosodwch dabiau newydd neu ffenestri newydd i { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1555,6 +1603,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Darllen rhagor
 forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
 windows-passkey-settings-label = Rheoli cyfrinallweddi o fewn gosodiadau system
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Gosodiadau panel preifatrwydd
+    .description = Cael cymorth i ddiogelu eich manylion ar-lein o fewn { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Dangos negeseuon tor-ddata
+    .accesskey = D
 
 ## OS Authentication dialog
 

@@ -866,7 +866,7 @@ newtab-promo-card-dismiss-button =
 newtab-widget-timer-start-aria =
     .aria-label =
         { $minutes ->
-            [zero] Cychwyn amserydd { $minutes }-munud
+            [zero] Cychwyn amserydd { $minutes }-munudau
             [one] Cychwyn amserydd { $minutes }-munud
             [two] Cychwyn amserydd { $minutes }-funud
             [few] Cychwyn amserydd { $minutes }-munud
@@ -904,6 +904,10 @@ newtab-widget-timer-menu-hide = Cuddio'r amserydd
 newtab-widget-timer-celebration-heading-focus = Gwaith da
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = Mae'ch toriad drosodd
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Angen toriad?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Yn barod i ganolbwyntio?
 
 ## Sports widget
 
@@ -921,6 +925,18 @@ newtab-sports-widget-skip = Hepgor
 newtab-sports-widget-search-teams =
     .placeholder = Chwilio’r timau
     .aria-label = Chwilio’r timau
+newtab-sports-widget-done-button =
+    .label = Gorffen
+newtab-sports-widget-group-stage = Cymal Grŵp
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = BYW
+newtab-custom-widget-live-refresh =
+    .title = Adnewyddu'r sgoriau
+    .aria-label = Adnewyddu'r sgoriau
+newtab-sports-widget-upcoming = I Ddod
+newtab-sports-widget-results = Canlyniadau
+newtab-sports-widget-semi-finals = Cyn-derfynol
+newtab-sports-widget-bronze-finals = Y Ffeinal Efydd
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
