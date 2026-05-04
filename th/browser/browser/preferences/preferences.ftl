@@ -73,6 +73,10 @@ pane-about-firefox-title = เกี่ยวกับ { -brand-short-name }
 pane-accessibility-title = การช่วยเข้าถึง
     .title = { pane-accessibility-title }
 pane-languages-title = ภาษา
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = คุณลักษณะทดลองของ { -brand-short-name }
 category-experimental =
     .tooltiptext = คุณลักษณะทดลองของ { -brand-short-name }
@@ -80,6 +84,8 @@ pane-experimental-subtitle = ดำเนินการต่อด้วยค
 pane-experimental-search-results-header = คุณลักษณะทดลองของ { -brand-short-name }: ดำเนินการต่อด้วยความระมัดระวัง
 pane-experimental-description2 = การเปลี่ยนแปลงการตั้งค่าขั้นสูงอาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = ลองใช้คุณลักษณะทดลองของเราดูสิ! คุณลักษณะเหล่านั้นอยู่ระหว่างการพัฒนา ซึ่งอาจส่งผลต่อการทำงานของ { -brand-short-name } เราจะรับข้อมูลเกี่ยวกับการใช้งานคุณลักษณะเหล่านี้เฉพาะเมื่อคุณเปิดตัวเลือก <a data-l10n-name="data-collection">ข้อมูลทางเทคนิคและการโต้ตอบ</a> ไว้เท่านั้น
@@ -451,6 +457,14 @@ manage-browser-languages-button =
     .accesskey = ต
 confirm-browser-language-change-description = เริ่มการทำงาน { -brand-short-name } ใหม่เพื่อใช้การเปลี่ยนแปลงเหล่านี้
 confirm-browser-language-change-button = นำไปใช้แล้วเริ่มการทำงานใหม่
+browser-language-heading =
+    .label = ภาษาเบราว์เซอร์
+    .description = เลือกภาษาที่ใช้เพื่อแสดงผลเมนู ข้อความ และการแจ้งเตือนจาก { -brand-short-name }
+browser-language-preferred-label =
+    .label = ภาษาที่ต้องการ
+browser-language-fallback-label =
+    .label = ภาษาสำรอง
+    .description = ใช้เมื่อการแปลภาษาที่ต้องการไม่สมบูรณ์
 browser-language-install-error =
     .message = { -brand-short-name } ไม่สามารถอัปเดตภาษาของคุณได้ในขณะนี้ ตรวจสอบว่าคุณเชื่อมต่อกับอินเทอร์เน็ตแล้วหรือลองอีกครั้ง
 translate-web-pages =
@@ -670,6 +684,8 @@ update-application-version = รุ่น { $version } <a data-l10n-name="learn-
 update-history-2 =
     .label = แสดงประวัติการอัปเดต
     .accesskey = ส
+update-application-installation =
+    .label = การติดตั้ง
 update-history =
     .label = แสดงประวัติการอัปเดต…
     .accesskey = ส
@@ -677,6 +693,9 @@ update-application-allow-description = อนุญาตให้ { -brand-shor
 update-application-auto =
     .label = ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ)
     .accesskey = ด
+update-application-check-choose-2 =
+    .label = ตรวจสอบการอัปเดต แต่เลือกเวลาติดตั้งเอง
+    .accesskey = ต
 update-application-check-choose =
     .label = ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งการอัปเดตหรือไม่
     .accesskey = ว
@@ -688,6 +707,9 @@ update-application-background-enabled =
     .accesskey = ม
 update-application-warning-cross-user-setting-2 =
     .message = การตั้งค่านี้จะนำไปใช้กับบัญชี Windows ทั้งหมด และโปรไฟล์ { -brand-short-name } ในขณะการติดตั้ง { -brand-short-name }
+update-application-suppress-prompts-2 =
+    .label = แสดงการเตือนความจำอัปเดตน้อยลง
+    .accesskey = น
 update-application-warning-cross-user-setting = การตั้งค่านี้จะนำไปใช้กับบัญชี Windows ทั้งหมด และโปรไฟล์ { -brand-short-name } ในขณะการติดตั้ง { -brand-short-name }
 update-application-use-service =
     .label = ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต
@@ -710,6 +732,21 @@ update-in-progress-ok-button = &ละทิ้ง
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &ดำเนินการต่อ
+
+## About Firefox
+
+about-firefox-header =
+    .heading = เกี่ยวกับ { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = การอัปเดต { -brand-short-name }
+    .description = การอัปเดตปรับปรุงความเร็ว ความเสถียร และความปลอดภัยของ { -brand-short-name }
+update-application-suppress-prompts-heading =
+    .label = การแจ้งเตือน
+update-application-updates-managed-by-os =
+    .message = การอัปเดตถูกจัดการโดยระบบปฏิบัติการของคุณ
 
 ## Firefox support
 
@@ -990,6 +1027,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = ตัวจับเวลา
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = กีฬา
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = ร่วมสนับสนุน { -brand-product-name }
@@ -1003,6 +1043,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = เลือกวอลล์เปเปอร์
 home-prefs-choose-wallpaper-link2 =
     .label = เลือกวอลล์เปเปอร์
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = เพื่อใช้คุณลักษณะเหล่านี้ ให้ตั้งค่าแท็บใหม่หรือหน้าต่างใหม่เป็น { -firefox-home-brand-name }
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1526,6 +1571,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = เรียนรู้เพิ่มเติม
 forms-windows-sso-desc = จัดการบัญชีในการตั้งค่าอุปกรณ์ของคุณ
 windows-passkey-settings-label = จัดการพาสคีย์ในการตั้งค่าระบบ
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = การตั้งค่าแผงความเป็นส่วนตัว
+    .description = รับการช่วยเหลือในการปกป้องข้อมูลออนไลน์ของคุณใน { -brand-short-name }
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = แสดงข้อความแจ้งการรั่วไหล
+    .accesskey = ร
 
 ## OS Authentication dialog
 
