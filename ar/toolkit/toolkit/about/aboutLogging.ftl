@@ -47,3 +47,4 @@ about-logging-delete-profile-confirm-title = احذف الملف الشخصي
 # Variables:
 #   $profileName (string) - The name of the profile being deleted.
 about-logging-delete-profile-confirm = أمتأكد من رغبتك في حذف الملف الشخصي "{ $profileName }"؟ لا يمكن التراجع عن هذا الإجراء.
+about-logging-deleting-profile = يحذف…

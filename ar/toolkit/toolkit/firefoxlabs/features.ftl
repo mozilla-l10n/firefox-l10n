@@ -40,6 +40,9 @@ experimental-features-fx-web-apps =
 
 ## New Tab Productivity Widgets
 
+# Lists Widget
+experimental-features-newtab-widget-lists =
+    .label = قوائم على { -firefox-home-brand-name }
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = مؤقت على { -firefox-home-brand-name }

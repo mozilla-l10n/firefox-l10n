@@ -51,3 +51,6 @@ third-party-button-collapse =
 third-party-blocking-requires-restart = لحجب وحدة من طرف ثالث، يجب إعادة تشغيل { -brand-short-name }.
 third-party-should-restart-title = أعِد تشغيل { -brand-short-name }
 third-party-restart-now = أعِد التشغيل الآن
+third-party-blocked-by-builtin =
+    .title = حجبه { -brand-short-name }
+    .alt = حجبه { -brand-short-name }

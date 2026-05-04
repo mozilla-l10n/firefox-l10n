@@ -152,6 +152,7 @@ sandbox-sys-call-number = نداء النظام
 sandbox-sys-call-args = المعطيات
 clear-startup-cache-title = جرّب مسح خبيئة البدء
 clear-startup-cache-label = امسح خبيئة البدء…
+startup-cache-dialog-title2 = أعِد تشغيل { -brand-short-name } لمسح ذاكرة التخزين المؤقت عند بدء التشغيل؟
 startup-cache-dialog-body2 = هذا لن يغير إعداداتك ولن يزيل الامتدادات.
 restart-button-label = أعِد التشغيل
 

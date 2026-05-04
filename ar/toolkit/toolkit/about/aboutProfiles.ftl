@@ -10,6 +10,7 @@ profiles-restart-in-safe-mode = أعِد التشغيل مع تعطيل الإض
 profiles-restart-normal = أعد التشغيل في الوضع العادي…
 profiles-flush-fail-title = لم تُحفظ التغييرات
 profiles-flush-failed = حدث خطأ غير متوقع حال دون حفظ التغييرات التي أجريتها.
+profiles-flush-restart-button = أعِد تشغيل { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = ملف شخصي: { $name }
@@ -29,6 +30,7 @@ profiles-rename = غيّر الاسم
 profiles-remove = أزِل
 profiles-set-as-default = اجعله الملف الشخصي المبدئي
 profiles-launch-profile = ابدأ الملف الشخصي في متصفح جديد
+profiles-cannot-set-as-default-message = لا يمكن تغيير الملف الشخصي المبدئي ل { -brand-short-name }.
 profiles-yes = نعم
 profiles-no = لا
 profiles-rename-profile-title = غيّر اسم الملف الشخصي
