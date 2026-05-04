@@ -150,6 +150,9 @@ newtab-menu-report = Raportează
 newtab-menu-section-block = Blochează
 # "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 # e.g. Following the travel section of stories.
+newtab-menu-section-unfollow-topic = Nu mai urmări
+# "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+# e.g. Following the travel section of stories.
 newtab-menu-section-unfollow = Anulează urmărirea subiectului
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
@@ -362,6 +365,8 @@ newtab-custom-widget-lists-toggle =
     .label = Liste
 newtab-custom-widget-timer-toggle =
     .label = Cronometru
+newtab-custom-widget-sports-toggle =
+    .label = Cupa Mondială
 newtab-custom-widget-section-title = Widgeturi
 newtab-custom-widget-section-toggle =
     .label = Widgeturi
@@ -381,6 +386,7 @@ newtab-wallpaper-title = Imagini de fundal
 newtab-wallpaper-reset = Resetează la valorile implicite
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Încarcă o imagine
+newtab-wallpaper-add-an-image = Adaugă o imagine
 newtab-wallpaper-custom-color = Alege o culoare
 newtab-wallpaper-toggle-title =
     .label = Imagini de fundal
@@ -408,6 +414,7 @@ newtab-wallpaper-light-fox-anniversary = O vulpe într-un câmp ierbos cu un pei
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Culori uni
+newtab-wallpaper-colors = Culori
 newtab-wallpaper-blue = Albastru
 newtab-wallpaper-light-blue = Albastru deschis
 newtab-wallpaper-light-purple = Violet deschis
@@ -498,6 +505,9 @@ newtab-weather-menu-change-location = Schimbă locația
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Caută locație
     .aria-label = Caută locație
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Folosește locația curentă
 newtab-weather-menu-weather-display = Afișaj meteo
 newtab-weather-todays-forecast = Prognoza de astăzi
 newtab-weather-see-full-forecast = Vezi prognoza completă
@@ -523,6 +533,10 @@ newtab-weather-opt-in-not-now =
     .label = Nu acum
 newtab-weather-opt-in-yes =
     .label = Da
+newtab-weather-opt-in-headline = Obține prognoza meteo locală
+newtab-weather-opt-in-use-location =
+    .label = Folosește locația
+newtab-weather-opt-in-choose-location = Alege locația
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = New York City
 # "Highest" here refers to the highest temperature of the day
@@ -582,8 +596,16 @@ newtab-topic-selection-button-pick-interests = Alege-ți interesele
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Urmărește
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Urmărește { $topic }
 newtab-section-following-button = Urmăresc
 newtab-section-unfollow-button = Nu mai urmări
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Urmărești: Anulează urmărirea { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Ajustează-ți feedul
 newtab-section-follow-highlight-subtitle = Urmărește ce te interesează ca să vezi mai multe din ceea ce îți place.
@@ -595,6 +617,22 @@ newtab-section-follow-highlight-subtitle = Urmărește ce te interesează ca să
 newtab-section-block-button = Blochează
 newtab-section-blocked-button = Blocat
 newtab-section-unblock-button = Deblochează
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Urmărește { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Anulează urmărirea { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blochează { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Deblochează { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -604,6 +642,7 @@ newtab-section-confirm-block-topic-p2 = Subiectele blocate nu vor mai apărea î
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Blochează { $topic }
+newtab-section-block-cancel-button = Anulează
 
 ## Strings for custom wallpaper highlight
 
@@ -808,6 +847,46 @@ newtab-promo-card-cta = Află mai multe
 newtab-promo-card-dismiss-button =
     .title = Respinge
     .aria-label = Respinge
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Pornește cronometrul de { $minutes } minut
+            [few] Pornește cronometrul de { $minutes } minute
+           *[other] Pornește cronometrul de { $minutes } de minute
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Pune cronometrul în pauză
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minut
+            [few] { $minutes } minute
+           *[other] { $minutes } de minute
+        }
+newtab-widget-timer-decrease-min =
+    .title = Redu cu 1 minut
+newtab-widget-timer-increase-min =
+    .title = Mărește cu 1 minut
+newtab-widget-timer-mode-group =
+    .aria-label = Mod cronometru
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Focus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pauză
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ascunde cronometrul
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bună treabă
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Pauza s-a terminat
 
 ## Sports widget
 

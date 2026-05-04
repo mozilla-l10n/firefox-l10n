@@ -83,6 +83,13 @@ experimental-features-newtab-widget-lists-and-timer-description = Fă o priorita
 experimental-features-newtab-widget-weather =
     .label = Prognoze meteo
 experimental-features-newtab-widget-weather-description = Fă-ți o imagine clară cum va fi vremea cu prognoze orare. <a data-l10n-name="connect">Trimite feedback</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Imaginea zilei
+experimental-features-newtab-widget-picture-of-the-day-description = Adaugă o mică minune zilnică în viața ta. Obține o imagine nouă, află ceva interesant și setează o imagine de fundal nouă într-o clipă. <a data-l10n-name="connect">Dă-ne feedback</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Ceasuri
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Căutare istorică semantică

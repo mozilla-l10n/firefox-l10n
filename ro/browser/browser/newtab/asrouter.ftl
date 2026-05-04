@@ -446,3 +446,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Setează ca implicit
 set-default-menu-message-primary-button-variant = Setează ca browser primar
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 de măști de e-mail, din partea noastră
+relay-50-masks-announcement-subtitle = Acum primești 50 de măști gratuite (în loc de 5). Folosește câte una pentru fiecare cont pentru a-ți păstra confidențialitatea adresei de e-mail reale.
+relay-50-masks-announcement-primary-button = Mergi la { -relay-brand-name }
+    .accesskey = G
+relay-50-masks-announcement-secondary-button = Închide
+    .accesskey = D

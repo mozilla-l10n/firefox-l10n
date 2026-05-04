@@ -461,6 +461,11 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Repornește { -brand-short-name } pentru a aplica aceste modificări
 confirm-browser-language-change-button = Aplică și repornește
+browser-language-preferred-label =
+    .label = Limba preferată
+browser-language-fallback-label =
+    .label = Limbă de revenire
+    .description = Folosită când localizarea preferată a limbii este incompletă.
 browser-language-install-error =
     .message = { -brand-short-name } nu poate actualiza limbile tale acum. Verifică dacă ești conectat la internet și încearcă din nou.
 translate-web-pages =
@@ -680,6 +685,8 @@ update-application-version = Versiunea { $version } <a data-l10n-name="learn-mor
 update-history-2 =
     .label = Afișează istoricul actualizărilor
     .accesskey = p
+update-application-installation =
+    .label = Instalare
 update-history =
     .label = Afișează istoricul actualizărilor…
     .accesskey = p
@@ -687,6 +694,9 @@ update-application-allow-description = Permite ca { -brand-short-name }
 update-application-auto =
     .label = Să instaleze automat actualizări (recomandat)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Caută actualizări, dar alege tu când să fie instalate
+    .accesskey = C
 update-application-check-choose =
     .label = Să caute actualizări, dar să te lase să decizi dacă le instalezi
     .accesskey = C
@@ -698,6 +708,9 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = Această setare se va aplica pentru toate conturile Windows și profilurile { -brand-short-name } care folosesc această instalare de { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Afișează mai puține memento-uri despre actualizări
+    .accesskey = n
 update-application-warning-cross-user-setting = Această setare se va aplica pentru toate conturile Windows și profilurile { -brand-short-name } care folosesc această instalare de { -brand-short-name }.
 update-application-use-service =
     .label = Folosește un serviciu în fundal pentru a instala actualizări
@@ -720,6 +733,21 @@ update-in-progress-ok-button = Înlătură
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuă
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Despre { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Actualizări { -brand-short-name }
+    .description = Actualizările îmbunătățesc viteza, stabilitatea și securitatea { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notificări
+update-application-updates-managed-by-os =
+    .message = Actualizările sunt gestionate de sistemul de operare
 
 ## Firefox support
 
@@ -761,6 +789,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Folosește derularea automată
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navigare și derulare din tastatură
+motion-and-link-group =
+    .label = Stilizarea mișcărilor și a linkurilor
 browsing-use-smooth-scrolling =
     .label = Folosește derularea lină
     .accesskey = i
@@ -802,6 +834,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Află mai multe
 browsing-group =
     .label = Navigare
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accesibilitate
+preferences-default-zoom-select =
+    .aria-label = Zoom implicit
+preferences-fonts-family =
+    .label = Familie de fonturi
+    .accesskey = D
+preferences-fonts-size =
+    .label = Mărime fonturi
+    .accesskey = s
+preferences-fonts-advanced-settings =
+    .label = Setări avansate
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -980,6 +1028,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Cronometru
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sporturi
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Susține { -brand-product-name }
@@ -993,6 +1044,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Alege o imagine de fundal
 home-prefs-choose-wallpaper-link2 =
     .label = Alege o imagine de fundal
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Pentru utilizarea acestor funcționalități, setează filele noi sau ferestrele noi pe { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

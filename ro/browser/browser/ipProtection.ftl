@@ -72,6 +72,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Activează VPN-ul pentru acest site
     .aria-label = VPN-ul este dezactivat pentru acest site
+site-exclusion-toggle-description = Nu funcționează site-ul? Încearcă să dezactivezi VPN-ul.
 ipprotection-settings-link =
     .label = Setări
 
@@ -91,6 +92,26 @@ ipprotection-button-turn-vpn-on = Activează VPN-ul
 # Button while VPN is connecting
 ipprotection-button-connecting = Se activează…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Locație: Recomandată
+ipprotection-recommended-location-description = { -brand-product-name } găsește cea mai rapidă locație
+ipprotection-recommended-location-badge = NOU
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Locație: { $country }
+ipprotection-locations-subview =
+    .title = Alege locația
+ipprotection-locations-subview-description = Alege o altă locație din care să navighezi.
+ipprotecion-locations-subview-recommended-label = Recomandată
+ipprotection-locations-subview-recommended-description = Găsește cea mai rapidă locație
+ipprotection-locations-subview-promo =
+    .heading = Du protecția mai departe cu { -mozilla-vpn-brand-name }
+    .message = Alege dintre 300+ de locații și protejează-ți toate aplicațiile pe până la 5 dispozitive.
+ipprotection-locations-subview-promo-button = Obține { -mozilla-vpn-brand-name }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN în pauză
@@ -100,6 +121,10 @@ ipprotection-connection-status-paused-description = Ți-ai folosit toți cei { $
 upgrade-vpn-title = Obține protecție suplimentară dincolo de browser
 upgrade-vpn-description = Alege-ți locația VPN, folosește VPN-ul pentru toate aplicațiile tale și pe până la 5 dispozitive și rămâi în siguranță în orice rețea — acasă sau prin Wi-Fi public.
 upgrade-vpn-button = Încearcă { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN în pauză
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Ți-ai folosit toți cei { $maxUsage } GB din datele VPN. Accesul se resetează luna viitoare.
 
 ## Messages and errors
 
@@ -149,12 +174,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Aproape că nu m
 ip-protection-description =
     .label = VPN
     .description = VPN încorporat, care îți sporește intimitatea în timp ce navighezi pe { -brand-short-name }
+ip-protection-description-1 =
+    .label = VPN încorporat
+    .description = Obține confidențialitate suplimentară ascunzându-ți locația când navighezi.
 ip-protection-learn-more = Află mai multe
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Încearcă VPN-ul încorporat din { -brand-short-name }
     .message = Ascunde-ți locația când navighezi în { -brand-short-name }. Obține { $maxUsage } GB de date VPN gratuite în fiecare lună.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Încearcă VPN-ul încorporat din { -brand-short-name }
+    .message = Navighează cu protecție suplimentară ascunzându-ți locația. Obține { $maxUsage } GB de date VPN gratuite în fiecare lună.
 ip-protection-not-opted-in-button = Începe
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -175,6 +208,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Obține și mai multă protecție în afara { -brand-short-name } cu { -mozilla-vpn-brand-name }
     .description = Alege locații personalizate VPN și protejează-ți aplicațiile pe până la cinci dispozitive, fie că ești acasă sau pe un Wi-FI public.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Du protecția mai departe cu { -mozilla-vpn-brand-name }
+    .description = Alege dintre 300+ de locații și protejează-ți toate aplicațiile pe până la 5 dispozitive.
 
 ## IP Protection dialogs
 
@@ -227,6 +263,12 @@ vpn-paused-alert-title = VPN în pauză
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Ți-ai folosit toți cei { $maxUsage } GB de date VPN. Accesul VPN va fi resetat luna viitoare.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Ți-ai folosit toți cei { $maxUsage } GB din datele VPN. Accesul se resetează luna viitoare.
+vpn-error-page-continue-description = Alege cum să continui fără VPN
+vpn-error-page-keep-browsing = Continuă să navighezi în această sesiune
+vpn-error-page-new-session = Începe o sesiune nouă
 vpn-paused-alert-close-tabs-button = Închide toate filele
 vpn-paused-alert-continue-wo-vpn-button = Continuă fără VPN
 vpn-error-alert-title = VPN-ul nu funcționează momentan.
