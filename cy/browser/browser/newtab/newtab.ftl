@@ -880,12 +880,12 @@ newtab-widget-timer-pause-aria =
 newtab-widget-timer-spinbutton-name =
     .aria-label =
         { $minutes ->
-            [zero] { $num } munudau
-            [one] { $num } munud
-            [two] { $num } funud
-            [few] { $num } munud
-            [many] { $num } munud
-           *[other] { $num } munud
+            [zero] { $minutes } munudau
+            [one] { $minutes } munud
+            [two] { $minutes } funud
+            [few] { $minutes } munud
+            [many] { $minutes } munud
+           *[other] { $minutes } munud
         }
 newtab-widget-timer-decrease-min =
     .title = Llai 1 munud
