@@ -421,6 +421,12 @@ quickactions-cmd-inspector = ตัวตรวจสอบ, devtools
 # Opens about:logins
 quickactions-logins2 = จัดการรหัสผ่าน
 quickactions-cmd-logins = การเข้าสู่ระบบ, รหัสผ่าน
+# Mutes all tabs playing audio
+quickactions-mute = ปิดเสียงแท็บที่เล่นเสียงอยู่
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = ปิดเสียง, ชู่ว, ชู่ว์, เงียบ
 # Opens about:addons page in the plugins section
 quickactions-plugins = จัดการปลั๊กอิน
 quickactions-cmd-plugins = ปลั๊กอิน
@@ -541,9 +547,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = คุณไม่ได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
 identity-connection-verified = คุณได้เชื่อมต่อกับไซต์นี้อย่างปลอดภัย
 identity-ev-owner-label = ออกใบรับรองให้กับ:
+identity-verifier-label = ยืนยันโดย:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = มีคุณสมบัติตรงตามที่ระบุไว้ในระเบียบ (EU) 2024/1183
 identity-description-custom-root2 = Mozilla ไม่รู้จักผู้ออกใบรับรองนี้ ซึ่งอาจถูกเพิ่มจากระบบปฏิบัติการของคุณหรือโดยผู้ดูแลระบบ
+identity-cert-exception-overridden = คุณได้เพิ่มข้อยกเว้นความปลอดภัยสำหรับไซต์นี้
 identity-remove-cert-exception =
     .label = เอาข้อยกเว้นออก
     .accesskey = อ
@@ -1655,3 +1663,5 @@ trustpanel-blocker-section-header2 = มี <span data-l10n-name="count">{ $coun
 reduced-protection-infobar-message = <strong>เว็บไซต์ดูมีปัญหาใช่ไหม?</strong> โหลดหน้าเว็บใหม่เพื่อลดการป้องกันการติดตามลงชั่วคราว
 reduced-protection-infobar-reload-button = โหลดใหม่
     .accesskey = ห
+reduced-protection-infobar-never-show-button = ไม่ต้องแสดงอีก
+    .accesskey = ไ
