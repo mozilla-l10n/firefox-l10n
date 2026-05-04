@@ -849,6 +849,29 @@ newtab-promo-card-dismiss-button =
     .title = Mboyke
     .aria-label = Mboyke
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Emoñepyrũ aravokuaaukaha { $minutes } aravo’i
+           *[other] Emoñepyrũ aravokuaaukaha { $minutes } aravo’i
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Emombyta aravokuaaukaha
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } aravo’i
+           *[other] { $minutes } aravo’ieta
+        }
+newtab-widget-timer-decrease-min =
+    .title = Emomichĩ 1 aravo’i
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Esegi atyetápe
