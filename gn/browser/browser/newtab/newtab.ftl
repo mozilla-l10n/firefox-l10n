@@ -871,6 +871,17 @@ newtab-widget-timer-spinbutton-name =
         }
 newtab-widget-timer-decrease-min =
     .title = Emomichĩ 1 aravo’i
+newtab-widget-timer-increase-min =
+    .title = Embotuicha 1 aravo’i
+newtab-widget-timer-mode-group =
+    .aria-label = Aravokuaaukaha reko
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Focus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pytu’u
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Eñomi aravokuaaukaha
 
 ## Sports widget
 
