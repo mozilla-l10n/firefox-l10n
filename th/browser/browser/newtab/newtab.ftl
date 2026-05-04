@@ -887,7 +887,24 @@ newtab-sports-widget-menu-follow-teams = ติดตามทีม
 newtab-sports-widget-menu-view-results = ดูผลการแข่ง
 newtab-sports-widget-menu-learn-more = เรียนรู้เพิ่มเติม
 newtab-sports-widget-countdown-title = นับถอยหลังสู่ฟุตบอลโลก
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = เกาะติดผลบอลสดและอีกมากมาย
+newtab-sports-widget-view-schedule =
+    .label = ดูตารางการแข่ง
 newtab-sports-widget-follow-teams =
     .label = ติดตามทีม
 newtab-sports-widget-choose-wallpaper =
@@ -901,6 +918,25 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-group-stage = รอบแบ่งกลุ่ม
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = สด
+newtab-custom-widget-live-refresh =
+    .title = เรียกคะแนนใหม่
+    .aria-label = เรียกคะแนนใหม่
+newtab-sports-widget-upcoming = กำลังจะมาถึง
+newtab-sports-widget-results = ผลลัพธ์
+newtab-sports-widget-semi-finals = รอบรองชนะเลิศ
+newtab-sports-widget-bronze-finals = รอบชิงเหรียญทองแดง
+# Final is the final match for 1st place.
+newtab-sports-widget-final = รอบชิงชนะเลิศ
+newtab-sports-widget-suspended = ถูกระงับ
+newtab-sports-widget-cancelled = ถูกยกเลิก
+newtab-sports-widget-information = ข้อมูลเกี่ยวกับการแข่ง
+newtab-sports-widget-no-live-data = ข้อมูลการแข่งขันสดไม่ได้รับการอัปเดตในขณะนี้
+newtab-sports-widget-view-results-link = ดูผลการแข่ง
+newtab-sports-widget-third-place = อันดับสาม
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = รองชนะเลิศ
+newtab-sports-widget-champions = ผู้ชนะเลิศ
+newtab-sports-widget-world-cup-champions = แชมป์ฟุตบอลโลก 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

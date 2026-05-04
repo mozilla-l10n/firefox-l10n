@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = เพิ่มเติมจาก { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = เพิ่มเติมจาก { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = เพิ่มเติมจาก { -vendor-short-name }
 more-from-moz-subtitle = ดูผลิตภัณฑ์อื่น ๆ ของ { -vendor-short-name } ที่ร่วมสนับสนุนอินเทอร์เน็ตที่แข็งแกร่ง
 more-from-moz-firefox-mobile-title = { -brand-product-name } รุ่นมือถือ
 more-from-moz-firefox-mobile-description = เบราว์เซอร์มือถือที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณเป็นอันดับแรก
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } สำหรับมือถือ
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } สำหรับมือถือ
+    .description = เบราว์เซอร์มือถือที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณเป็นอันดับแรก
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = ค้นพบการเรียกดูและการป้องกันแบบไม่ระบุชื่อที่สูงขึ้นไปอีกขั้น
 more-from-moz-qr-code-box-firefox-mobile-title = ดาวน์โหลดโดยใช้อุปกรณ์มือถือของคุณ ชี้กล้องของคุณไปที่รหัส QR เมื่อลิงก์ปรากฏขึ้น ให้แตะที่ลิงก์นั้น
@@ -46,3 +51,7 @@ more-from-moz-solo-title-2 = ตัวสร้างเว็บไซต์ด
 more-from-moz-mdn-description = เรียนรู้การพัฒนาเว็บฟรีพร้อมคำแนะนำและเอกสารอ้างอิงแบบครบวงจร
 more-from-moz-mdn-button = เรียนรู้การพัฒนาเว็บ
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }

@@ -421,6 +421,8 @@ quickactions-cmd-inspector = vizsgáló, fejlesztői eszközök
 # Opens about:logins
 quickactions-logins2 = Jelszavak kezelése
 quickactions-cmd-logins = bejelentkezések, jelszavak
+# Mutes all tabs playing audio
+quickactions-mute = Hangot játszó lapok némítása
 # Opens about:addons page in the plugins section
 quickactions-plugins = Bővítmények kezelése
 quickactions-cmd-plugins = bővítmények
@@ -545,9 +547,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nem biztonságosan kapcsolódik ehhez az oldalhoz.
 identity-connection-verified = Biztonságosan kapcsolódik ehhez az oldalhoz.
 identity-ev-owner-label = Tanúsítvány kiállítva ennek:
+identity-verifier-label = Ellenőrizte:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Az (EU) 2024/1183 rendeleteben meghatározottak szerint.
 identity-description-custom-root2 = A Mozilla nem ismeri fel ezt a tanúsítványkibocsátót. Lehet, hogy az operációs rendszer vagy egy rendszergazda adta hozzá.
+identity-cert-exception-overridden = Biztonsági kivételt adott hozzá ehhez a webhelyhez.
 identity-remove-cert-exception =
     .label = Kivétel eltávolítása
     .accesskey = e
