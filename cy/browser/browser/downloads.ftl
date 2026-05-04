@@ -160,7 +160,7 @@ downloading-file-opens-in-seconds-2 =
 downloading-file-opens-in-some-time-2 =
     .value = Yn agor pan fydd wedi ei gwblhau…
 downloading-file-click-to-open =
-    .value = Ar agor pan fydd wedi ei gwblhau
+    .value = Agor pan fydd wedi ei gwblhau
 
 ##
 
