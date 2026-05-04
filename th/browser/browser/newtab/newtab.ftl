@@ -365,6 +365,8 @@ newtab-custom-widget-lists-toggle =
     .label = รายการ
 newtab-custom-widget-timer-toggle =
     .label = ตัวจับเวลา
+newtab-custom-widget-sports-toggle =
+    .label = ฟุตบอลโลก
 newtab-custom-widget-section-title = วิดเจ็ต
 newtab-custom-widget-section-toggle =
     .label = วิดเจ็ต
@@ -756,6 +758,8 @@ newtab-widget-lists-input-menu-move-up = เลื่อนขึ้น
 newtab-widget-lists-input-menu-move-down = เลื่อนลง
 newtab-widget-lists-input-menu-delete = ลบ
 newtab-widget-lists-input-menu-edit = แก้ไข
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = แก้ไขรายการ
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + สร้างรายการใหม่
@@ -841,6 +845,17 @@ newtab-promo-card-cta = เรียนรู้เพิ่มเติม
 newtab-promo-card-dismiss-button =
     .title = ปิด
     .aria-label = ปิด
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label = เริ่มจับเวลา { $minutes } นาที
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = ติดตามทีม
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
