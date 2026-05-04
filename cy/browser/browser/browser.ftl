@@ -421,6 +421,12 @@ quickactions-cmd-inspector = arolygydd, devtools
 # Opens about:logins
 quickactions-logins2 = Rheoli cyfrineiriau
 quickactions-cmd-logins = mewngofnodion, cyfrineiriau
+# Mutes all tabs playing audio
+quickactions-mute = Tewi tabiau sy'n chwarae sain
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = tewi, swsh, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Rheoli ategion
 quickactions-cmd-plugins = ategion
@@ -549,9 +555,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.
 identity-connection-verified = Rydych wedi eich cysylltu'n ddiogel â'r wefan hon.
 identity-ev-owner-label = Tystysgrif wedi'i ryddhau i:
+identity-verifier-label = Gwirio gan:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Yn gymwys fel sy'n cael ei nodi yn Rheoliad (UE) 2024/1183.
 identity-description-custom-root2 = Nid yw Mozilla yn cydnabod y cyhoeddwr tystysgrif hwn. Efallai ei fod wedi'i ychwanegu o'ch system weithredu neu gan weinyddwr.
+identity-cert-exception-overridden = Rydych wedi ychwanegu eithriad diogelwch ar gyfer y wefan hon.
 identity-remove-cert-exception =
     .label = Tynnu Eithriad
     .accesskey = E
@@ -1059,6 +1067,21 @@ urlbar-result-action-switch-to-tabgroup = Newid i { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Agor { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Agor mewn Tab Newydd
+    .accesskey = T
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Agor mewn Tab Cynhwysydd Newydd
+    .accesskey = N
+urlbar-view-context-menu-open-in-window =
+    .label = Agor mewn Ffenestr Newydd
+    .accesskey = F
+urlbar-view-context-menu-open-in-private-window =
+    .label = Agor mewn Ffenestr Breifat Newydd
+    .accesskey = B
 
 ## Labels shown above groups of urlbar results
 
@@ -1840,3 +1863,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Mae'r wefan yn edrych fel ei bod wedi torri?</strong> Ail-lwythwch y dudalen i leihau eich diogelwch tracio dros dro.
 reduced-protection-infobar-reload-button = Ail-lwytho
     .accesskey = A
+reduced-protection-infobar-never-show-button = Peidio dangos eto
+    .accesskey = P

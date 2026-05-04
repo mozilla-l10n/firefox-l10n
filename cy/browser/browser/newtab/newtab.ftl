@@ -376,6 +376,8 @@ newtab-custom-widget-lists-toggle =
     .label = Rhestrau
 newtab-custom-widget-timer-toggle =
     .label = Amserydd
+newtab-custom-widget-sports-toggle =
+    .label = Cwpan y Byd
 newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau
@@ -514,6 +516,9 @@ newtab-weather-menu-change-location = Newid lleoliad
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Chwilio am leoliad
     .aria-label = Chwilio am leoliad
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Defnyddiwch y lleoliad presennol
 newtab-weather-menu-weather-display = Dangos y tywydd
 newtab-weather-todays-forecast = Rhagolwg heddiw
 newtab-weather-see-full-forecast = Gweld y rhagolwg llawn
@@ -623,6 +628,22 @@ newtab-section-follow-highlight-subtitle = Dilynwch eich diddordebau i weld mwy 
 newtab-section-block-button = Rhwystro
 newtab-section-blocked-button = Rhwystrwyd
 newtab-section-unblock-button = Dadrwystro
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Dilyn { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Peidio dilyn { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Rhwystro { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Peidio rhwystro { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -728,6 +749,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Wedi cwblhau ( { $number })
+newtab-widget-lists-celebration-headline = Gwaith da
+newtab-widget-lists-celebration-subhead = Popeth wedi'i orffen
 newtab-widget-task-list-menu-copy = Copïo
 newtab-widget-lists-menu-edit = Golygu enw'r rhestr
 newtab-widget-lists-menu-edit2 =
@@ -748,6 +771,8 @@ newtab-widget-lists-input-menu-move-up = Symud i fyny
 newtab-widget-lists-input-menu-move-down = Symud i lawr
 newtab-widget-lists-input-menu-delete = Dileu
 newtab-widget-lists-input-menu-edit = Golygu
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Golygu eitem
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Creu rhestr newydd
@@ -833,6 +858,69 @@ newtab-promo-card-cta = Dysgu rhagor
 newtab-promo-card-dismiss-button =
     .title = Cau
     .aria-label = Cau
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [zero] Cychwyn amserydd { $minutes }-munud
+            [one] Cychwyn amserydd { $minutes }-munud
+            [two] Cychwyn amserydd { $minutes }-funud
+            [few] Cychwyn amserydd { $minutes }-munud
+            [many] Cychwyn amserydd { $minutes }-munud
+           *[other] Cychwyn amserydd { $minutes }-munud
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Oedi amserydd
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [zero] { $num } munudau
+            [one] { $num } munud
+            [two] { $num } funud
+            [few] { $num } munud
+            [many] { $num } munud
+           *[other] { $num } munud
+        }
+newtab-widget-timer-decrease-min =
+    .title = Llai 1 munud
+newtab-widget-timer-increase-min =
+    .title = Mwy 1 munud
+newtab-widget-timer-mode-group =
+    .aria-label = Modd amserydd
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Canolbwynt
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Toriad
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Cuddio'r amserydd
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Gwaith da
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Mae'ch toriad drosodd
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Dilyn timau
+newtab-sports-widget-menu-view-upcoming = Gweld yr hyn sydd i ddod
+newtab-sports-widget-menu-view-results = Gweld y canlyniadau
+newtab-sports-widget-menu-learn-more = Dysgu rhagor
+newtab-sports-widget-countdown-title = Paratoi ar gyfer Cwpan y Byd
+newtab-sports-widget-get-updates = Cael diweddariadau gemau byw a mwy.
+newtab-sports-widget-follow-teams =
+    .label = Dilyn timau
+newtab-sports-widget-choose-wallpaper =
+    .label = Dewis Papur Wal
+newtab-sports-widget-skip = Hepgor
+newtab-sports-widget-search-teams =
+    .placeholder = Chwilio’r timau
+    .aria-label = Chwilio’r timau
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

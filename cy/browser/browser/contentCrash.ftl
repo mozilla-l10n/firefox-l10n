@@ -60,3 +60,14 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Peidio â dangos eto
     .accesskey = P
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [zero] Does gennych { $reportCount } adroddiadau chwalfa diweddar heb eu hanfon
+        [one] Mae gennych { $reportCount } adroddiad chwalfa diweddar heb ei anfon
+        [two] Mae gennych { $reportCount } adroddiad chwalfa diweddar heb eu hanfon
+        [few] Mae gennych { $reportCount } adroddiad chwalfa diweddar heb eu hanfon
+        [many] Mae gennych { $reportCount } adroddiad chwalfa diweddar heb eu hanfon
+       *[other] Mae gennych { $reportCount } adroddiad chwalfa diweddar heb eu hanfon
+    }
