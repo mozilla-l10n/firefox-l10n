@@ -53,7 +53,7 @@ autofill-address-given-name = الاسم الأول
 autofill-address-additional-name = الاسم الأوسط
 autofill-address-family-name = الاسم الأخير
 autofill-address-name = الاسم
-autofill-address-organization = المؤسسة
+autofill-address-organization = المنظّمة
 autofill-address-street-address = عنوان الشارع
 autofill-address-street = عنوان الشارع
 

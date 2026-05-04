@@ -1445,7 +1445,7 @@ restore-session-startup-suggestion-button = ما الطريقة؟
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
-filepicker-blocked-infobar = حجبت مؤسستك الوصول إلى الملفات المحلية الموجودة على هذا الحاسوب
+filepicker-blocked-infobar = حجبت منظّمتك الوصول إلى الملفات المحلية الموجودة على هذا الحاسوب
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1466,7 +1466,7 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title = حماية البيانات
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text-styled = تستخدم مؤسستك   <b>{ $agentName }</b> لحماية من فقدان البيانات. <a data-l10n-name="info"> اطّلع على المزيد</a>
+content-analysis-panel-text-styled = تستخدم منظّمتك <b>{ $agentName }</b> لحماية من فقدان البيانات. <a data-l10n-name="info"> اطّلع على المزيد</a>
 
 ## Unified extensions (toolbar) button
 
