@@ -900,22 +900,6 @@ newtab-sports-widget-menu-follow-teams = Segui squadre
 newtab-sports-widget-menu-view-upcoming = Visualizza in arrivo
 newtab-sports-widget-menu-view-results = Visualizza risultati
 newtab-sports-widget-menu-learn-more = Ulteriori informazioni
-newtab-sports-widget-countdown-title = Conto alla rovescia per i Mondiali
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = G
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = H
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Ricevi aggiornamenti in tempo reale sulle partite e altro ancora.
 newtab-sports-widget-view-schedule =
     .label = Vedi il calendario
@@ -975,4 +959,3 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Questo spazio segue le tue regole
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ti consente di navigare come preferisci, offrendoti un modo più personale per iniziare la tua giornata online. Rendi { -brand-product-name } davvero tuo.
-
