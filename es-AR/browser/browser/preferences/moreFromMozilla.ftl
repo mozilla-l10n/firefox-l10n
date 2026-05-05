@@ -55,6 +55,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Correo electrónico, calendario y contactos gratis, organizados a su manera.
 more-from-moz-thunderbird-button = Obtener { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
@@ -63,8 +64,43 @@ more-from-moz-new-products-title = Productos nuevos de { -vendor-short-name }
 more-from-moz-new-products-description = Descubra los últimos productos de { -vendor-short-name }.
 more-from-moz-new-products-button = Ver nuevos productos
 
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-email-link = Enviar por correo electrónico un enlace de descarga a su teléfono.
+
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Descubra si su información personal ha sido expuesta en línea con un escaneo gratuito.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Proteja la bandeja de entrada del correo no deseado con máscaras de correo gratuitas.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Aprenda desarrollo web con guías y referencias gratuitas.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Accesa a correo electrónico,  calendarios y contactos en una aplicación rápida.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Explore nuestras últimas ideas y tecnologías experimentales.
+more-from-moz-new-products-card =
+    .label = Nuevos productos de { -vendor-short-name }
+    .description = Descubra los últimos productos de { -vendor-short-name }.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Obtener { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Obtener { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Obtener { -relay-brand-short-name }
 more-from-moz-mdn-box-link =
     .label = Acceder a MDN
+more-from-moz-thunderbird-box-link =
+    .label = Obtener { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Pruebe { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Ver nuevos productos

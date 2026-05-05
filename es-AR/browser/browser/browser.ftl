@@ -421,6 +421,8 @@ quickactions-cmd-inspector = inspector, herramientas de desarrollador
 # Opens about:logins
 quickactions-logins2 = Administrar contraseñas
 quickactions-cmd-logins = inicios de sesión, contraseñas
+# Mutes all tabs playing audio
+quickactions-mute = Silenciar pestañas que reproducen audio
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administrar plugins
 quickactions-cmd-plugins = plugins

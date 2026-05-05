@@ -68,8 +68,15 @@ category-sync3 =
 pane-ai-controls-title = Controles de IA
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Acerca de { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Accesibilidad
     .title = { pane-accessibility-title }
+pane-languages-title = Idiomas
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Experimentos de { -brand-short-name }
 category-experimental =
     .tooltiptext = Experimentos de { -brand-short-name }
@@ -77,6 +84,8 @@ pane-experimental-subtitle = Proceder con precaución
 pane-experimental-search-results-header = Experimentos de { -brand-short-name }: proceder con precaución
 pane-experimental-description2 = Cambiar las preferencias de configuración avanzada puede afectar el rendimiento o la seguridad de { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = ¡Pruebe nuestras funciones experimentales! Están en desarrollo y evolucionando, lo que podría afectar el funcionamiento de { -brand-short-name }. Solo recibimos datos sobre el uso que hace de estas funciones si tiene <a data-l10n-name="data-collection">datos técnicos y de interacción</a> activados.
@@ -460,6 +469,11 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reinicie { -brand-short-name } para aplicar estos cambios
 confirm-browser-language-change-button = Aplicar y reiniciar
+browser-language-heading =
+    .label = Idioma del navegador
+    .description = Elija el idioma usado para mostrar menús,  mensajes y notificaciones de { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Idioma preferido
 browser-language-install-error =
     .message = { -brand-short-name } no puede actualizar sus idiomas en este momento. Compruebe que esté conectado a internet o vuelva a intentarlo.
 translate-web-pages =
@@ -679,6 +693,8 @@ update-application-version = Versión { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = Mostrar historial de actualizaciones
     .accesskey = h
+update-application-installation =
+    .label = Instalación
 update-history =
     .label = Mostrar historial de actualizaciones…
     .accesskey = h
@@ -697,6 +713,9 @@ update-application-background-enabled =
     .accesskey = u
 update-application-warning-cross-user-setting-2 =
     .message = Esta configuración se aplicará a todas las cuentas de Windows y los perfiles de { -brand-short-name } usando esta instalación de { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Mostrar menos recordatorios de actualizaciones
+    .accesskey = n
 update-application-warning-cross-user-setting = Esta configuración se aplicará a todas las cuentas de Windows y los perfiles de { -brand-short-name } usando esta instalación de { -brand-short-name }.
 update-application-use-service =
     .label = Usar un servicio en segundo plano para instalar actualizaciones
@@ -719,6 +738,21 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Acerca de { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Actualizaciones de { -brand-short-name }
+    .description = Las actualizaciones mejoran la velocidad, estabilidad y seguridad de { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notificaciones
+update-application-updates-managed-by-os =
+    .message = Las actualizaciones son administradas por el sistema operativo
 
 ## Firefox support
 
@@ -997,6 +1031,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Deportes
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Ayudar a { -brand-product-name }

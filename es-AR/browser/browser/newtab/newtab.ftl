@@ -366,6 +366,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
     .label = Temporizador
+newtab-custom-widget-sports-toggle =
+    .label = Copa del Mundo
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -877,6 +879,8 @@ newtab-widget-timer-menu-hide = Ocultar temporizador
 newtab-widget-timer-celebration-heading-focus = Buen trabajo
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = Terminó el descanso
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = ¿Necesita un descanso?
 
 ## Sports widget
 

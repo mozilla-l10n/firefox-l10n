@@ -408,6 +408,14 @@ windows-10-eos-feature-toast-subtitle = בתגובה לביקוש הרב, { -bra
 windows-10-eos-feature-toast-whats-new-button = מה חדש
 windows-10-eos-feature-toast-dismiss-button = סגירה
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>‏Microsoft אינה תומכת עוד ב־Windows 10.</strong> ניתן לגבות את המידע שלך כדי להכין את { -brand-product-name } ל־Windows 11.
+windows-10-eos-global-infobar-primary-button = הפעלת הגיבוי
+    .accesskey = ג
+windows-10-eos-global-infobar-learn-more-link = מידע נוסף
+    .accessKey = מ
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
