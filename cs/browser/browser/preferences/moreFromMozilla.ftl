@@ -83,6 +83,15 @@ more-from-moz-new-products-button = Podívejte se na nové produkty
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Zjistěte pomocí bezplatné kontroly, kde na Internetu došlo k úniku vašich osobních údajů.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Získejte dodatečnou ochranu pro všechny aplikace — nejen pro prohlížeč. Chraňte svá data na veřejných Wi-Fi sítích i v nezabezpečených sítích.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Chraňte svou schránku před nevyžádanou poštou pomocí bezplatného maskování e-mailové adresy.
 more-from-moz-mdn-box-link =
     .label = Přístup k MDN
 more-from-moz-new-products-box-link =

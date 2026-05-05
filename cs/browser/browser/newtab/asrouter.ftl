@@ -601,6 +601,11 @@ windows-10-eos-feature-toast-subtitle =
 windows-10-eos-feature-toast-whats-new-button = Co je nového
 windows-10-eos-feature-toast-dismiss-button = Zavřít
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = Zjistit více
+    .accessKey = Z
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -643,5 +648,7 @@ set-default-menu-message-primary-button-variant = Nastavit jako hlavní prohlí�
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 e-mailových masek, od nás
 relay-50-masks-announcement-subtitle = Nyní získáte 50 masek zdarma (namísto původních 5). Použijte jednu pro každý účet, abyste uchovali svou skutečnou e-mailovou adresu v tajnosti.
+relay-50-masks-announcement-primary-button = Přejít na { -relay-brand-name }
+    .accesskey = P
 relay-50-masks-announcement-secondary-button = Zavřít
     .accesskey = Z
