@@ -160,6 +160,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN дерект
 ip-protection-description =
     .label = VPN
     .description = { -brand-short-name } браузерінде жұмыс істеу кезінде жекелігіңізді арттыруға арналған кірістірілген VPN.
+ip-protection-description-1 =
+    .label = Кіріктірілген VPN
+    .description = Шолу кезінде орналасуыңызды жасыру арқылы қосымша жекелікті алыңыз.
 ip-protection-learn-more = Көбірек білу
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
