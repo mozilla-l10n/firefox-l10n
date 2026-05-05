@@ -423,6 +423,9 @@ windows-10-eos-feature-toast-dismiss-button = Zaćisnyć
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft Windows 10 hižo njepodpěruje.</strong> Zawěsćće swoje informacije, zo byšće { -brand-product-name } za Windows 11 hotowy činił.
+windows-10-eos-global-infobar-primary-button = Zawěsćenje zmóžnić
+    .accesskey = Z
 windows-10-eos-global-infobar-learn-more-link = Dalše informacije
     .accessKey = D
 
