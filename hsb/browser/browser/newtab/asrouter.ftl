@@ -421,6 +421,11 @@ windows-10-eos-feature-toast-subtitle = Na wjelekróćne přeće je { -brand-pro
 windows-10-eos-feature-toast-whats-new-button = Čitajće, štož je nowe
 windows-10-eos-feature-toast-dismiss-button = Zaćisnyć
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = Dalše informacije
+    .accessKey = D
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
