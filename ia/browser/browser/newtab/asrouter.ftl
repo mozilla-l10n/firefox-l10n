@@ -415,6 +415,11 @@ windows-10-eos-feature-toast-subtitle = Per petition popular, { -brand-product-n
 windows-10-eos-feature-toast-whats-new-button = Vide le novas
 windows-10-eos-feature-toast-dismiss-button = Clauder
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = Pro saper plus
+    .accessKey = p
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
