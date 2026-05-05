@@ -473,7 +473,7 @@ onboarding-device-migration-image-alt =
     .aria-label = Liška na obrazovce přenosného počítače mává. V notebooku je připojena myš.
 onboarding-device-migration-title = Vítejte zpět!
 onboarding-device-migration-subtitle = Přihlaste se ke svému { -fxaccount-brand-name(capitalization: "sentence", case: "dat") } a přeneste si své záložky, hesla a historii do nového zařízení.
-onboarding-device-migration-subtitle2 = Přihlaste se ke svému účtu a přeneste své záložky, hesla a historii na vaše nové zařízení.
+onboarding-device-migration-subtitle2 = Přihlaste se do svého účtu a přeneste své záložky, hesla a historii na vaše nové zařízení.
 onboarding-device-migration-primary-button-label = Přihlásit se
 
 ## Add-ons Picker screen
@@ -622,7 +622,7 @@ onboarding-checklist-pin =
     }
 onboarding-checklist-import = Importovat z dříve používaného prohlížeče
 onboarding-checklist-extension = Přidat rozšíření
-onboarding-checklist-sign-up = Zaregistrujte se nebo se přihlaste ke svému účtu
+onboarding-checklist-sign-up = Přihlaste se do svého účtu nebo si ho vytvořte
 
 ## Tab Groups feature onboarding strings
 

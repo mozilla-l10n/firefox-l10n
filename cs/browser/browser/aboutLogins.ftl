@@ -134,7 +134,7 @@ login-intro-description2 =
         [with-cases] Všechna hesla uložená ve { -brand-product-name(case: "loc") } jsou šifrovaná. Navíc sledujeme, zda se na internetu neobjeví vaše uniklá data, a upozorníme vás, pokud se tak stane. <a data-l10n-name="breach-alert-link">Zjistit více</a>
        *[no-cases] Všechna hesla uložená v aplikaci { -brand-product-name } jsou šifrovaná. Navíc sledujeme, zda se na internetu neobjeví vaše uniklá data, a upozorníme vás, pokud se tak stane. <a data-l10n-name="breach-alert-link">Zjistit více</a>
     }
-login-intro-instructions-fxa2 = Vytvořte nebo se přihlaste ke svému účtu na zařízení, kde máte přihlašovací údaje uložené.
+login-intro-instructions-fxa2 = Přihlaste se do svého účtu nebo si ho vytvořte na zařízení, kde máte přihlašovací údaje uložené.
 login-intro-instructions-fxa-settings = Otevřete Nastavení > Synchronizace > Zapnout synchronizaci… a vyberte položku Přihlašovací údaje.
 login-intro-instructions-fxa-passwords-help = Navštivte <a data-l10n-name="passwords-help-link">nápovědu pro hesla</a>.
 about-logins-intro-browser-only-import =
