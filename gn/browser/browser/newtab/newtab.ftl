@@ -888,6 +888,8 @@ newtab-widget-timer-celebration-heading-focus = Emba’apo porã
 newtab-widget-timer-celebration-heading-break = Opáma jepytu’u
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = ¿Epytu’usépa?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = ¿Oĩmbáma atyrã?
 
 ## Sports widget
 
@@ -896,7 +898,24 @@ newtab-sports-widget-menu-view-upcoming = Ehecha tenondegua
 newtab-sports-widget-menu-view-results = Ehecha mba’éicha osẽ
 newtab-sports-widget-menu-learn-more = Eikuaave
 newtab-sports-widget-countdown-title = Copa del Mundo ñeg̃uahẽ jepapa
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = H
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Erekóta mbohekopyahu partído oiko jave ha hetave.
+newtab-sports-widget-view-schedule =
+    .label = Ehecha nde aravorã
 newtab-sports-widget-follow-teams =
     .label = Esegi atyetápe
 newtab-sports-widget-choose-wallpaper =
@@ -927,6 +946,8 @@ newtab-sports-widget-information = Marandu partído rehegua
 newtab-sports-widget-no-live-data = Mba’ekuaarãita partído rehegua ndahekopyahúi ko’ag̃aite
 newtab-sports-widget-view-results-link = Ehecha mba’éicha osẽ
 newtab-sports-widget-third-place = Osẽva mbohapyhápe
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Osẽva mokõihápe
 newtab-sports-widget-champions = Campeón
 newtab-sports-widget-world-cup-champions = Copa Mundial 2026 oganáva
 

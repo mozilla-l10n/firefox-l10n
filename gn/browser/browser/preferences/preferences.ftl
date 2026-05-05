@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = IA mongu’eha
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = { -brand-short-name } rehegua
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Jeikekuaa
     .title = { pane-accessibility-title }
 pane-languages-title = Ñe’ẽnguéra
@@ -696,6 +698,9 @@ update-application-allow-description = Emomeĩ { -brand-short-name }
 update-application-auto =
     .label = Emohenda ñembohekopyahu ijeheguíva (je’epyréva)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Eheka mbohekopyahu, hákatu eikuaa emohenda hag̃ua
+    .accesskey = C
 update-application-check-choose =
     .label = Tekopyahu jejhechajeýva, hákatu eheja taiporavo amboguejysépa
     .accesskey = C
@@ -707,6 +712,9 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oiporúvo ko { -brand-short-name } ñemohenda.
+update-application-suppress-prompts-2 =
+    .label = Ehechauke’ive mandu’arã mbohekopyahugua
+    .accesskey = n
 update-application-warning-cross-user-setting = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oiporúvo ko { -brand-short-name } ñemohenda.
 update-application-use-service =
     .label = Eiporu peteĩ mba’epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
@@ -729,6 +737,11 @@ update-in-progress-ok-button = &Hejarei
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Ku’ejey
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } rehegua
 
 ## Firefox updates
 
