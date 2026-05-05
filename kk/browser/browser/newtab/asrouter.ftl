@@ -414,6 +414,7 @@ windows-10-eos-feature-toast-dismiss-button = Елемеу
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft енді Windows 10 жүйесін қолдамайды.</strong> { -brand-product-name } Windows 11 жүйесіне дайындау үшін деректеріңіздің сақтық көшірмесін жасаңыз.
 windows-10-eos-global-infobar-primary-button = Сақтық көшірме жасауды іске қосу
     .accesskey = с
 windows-10-eos-global-infobar-learn-more-link = Көбірек білу

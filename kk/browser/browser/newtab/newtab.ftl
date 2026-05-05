@@ -816,6 +816,8 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-pause-aria =
+    .aria-label = Таймерді аялдату
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -824,10 +826,19 @@ newtab-widget-timer-spinbutton-name =
             [one] { $minutes } минут
            *[other] { $minutes } минут
         }
+newtab-widget-timer-decrease-min =
+    .title = 1 минутқа азайту
+newtab-widget-timer-increase-min =
+    .title = 1 минутқа арттыру
 newtab-widget-timer-mode-group =
     .aria-label = Таймер режимі
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Фокус
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Үзіліс
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Таймерді жасыру
 # Heading shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-heading-focus = Жақсы жұмыс
 # Heading shown inside the Timer widget after a break session ends.
@@ -839,6 +850,9 @@ newtab-widget-timer-celebration-message-break = Назар аударуға да
 
 ## Sports widget
 
+newtab-sports-widget-menu-follow-teams = Командаларға жазылу
+newtab-sports-widget-menu-view-upcoming = Алдағы уақыттағыларды қарау
+newtab-sports-widget-menu-view-results = Нәтижелерді қарау
 newtab-sports-widget-menu-learn-more = Көбірек білу
 newtab-sports-widget-countdown-title = Әлем чемпионатына дейінгі кері санақ
 # Abbreviated label for days in the sport widget countdown. D is short for Days.
@@ -859,6 +873,10 @@ newtab-sports-widget-countdown-minutes = М
 newtab-sports-widget-get-updates = Тікелей матч жаңалықтарын және басқа да ақпараттарды алыңыз.
 newtab-sports-widget-view-schedule =
     .label = Кестені қарау
+newtab-sports-widget-follow-teams =
+    .label = Командаларға жазылу
+newtab-sports-widget-choose-wallpaper =
+    .label = Тұсқағазды таңдау
 newtab-sports-widget-skip = Аттап кету
 newtab-sports-widget-search-teams =
     .placeholder = Командаларды іздеу

@@ -1742,6 +1742,8 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Сайт бұзылған сияқты көріне ме?</strong> Бақылаудан қорғауды уақытша төмендету үшін бетті қайта жүктеңіз.
 reduced-protection-infobar-reload-button = Қайта жүктеу
     .accesskey = й
 reduced-protection-infobar-never-show-button = Келесіде көрсетпеу

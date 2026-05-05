@@ -35,6 +35,7 @@ ipprotection-feature-introduction-description-captive-portal = Қоғамдық 
 ipprotection-feature-introduction-button-primary = Келесі
 ipprotection-feature-introduction-button-secondary-not-now = Қазір емес
 ipprotection-feature-introduction-button-secondary-no-thanks = Жоқ, рахмет
+ipprotection-feature-introduction-button-secondary-remove = VPN-ды саймандар тақтасынан алып тастау
 
 ## Site settings callout
 
@@ -44,6 +45,7 @@ ipprotection-site-settings-callout-button = Түсіндім
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Жаңа: Орналасқан жеріңізді өзгертіңіз
 ipprotection-location-selection-callout-primary-button = Қолданып көріңіз
 ipprotection-location-selection-callout-secondary-button = Елемеу
 
@@ -97,6 +99,7 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Шолу үшін басқа орынды таңдаңыз.
 ipprotecion-locations-subview-recommended-label = Ұсынылатын
 ipprotection-locations-subview-recommended-description = Ең жылдам орналасқан жерді табады
+ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } алу
 
 ## VPN paused state
 
