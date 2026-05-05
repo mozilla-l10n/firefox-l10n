@@ -421,6 +421,14 @@ windows-10-eos-feature-toast-subtitle = Na wjelesere žycenje jo { -brand-produc
 windows-10-eos-feature-toast-whats-new-button = Cytajśo, což jo nowe
 windows-10-eos-feature-toast-dismiss-button = Zachyśiś
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft Windows 10 južo njepódpěra.</strong> Zawěsććo swóje informacije, aby { -brand-product-name } za Windows 11 gótowy cynił.
+windows-10-eos-global-infobar-primary-button = Zawěsćenje zmóžniś
+    .accesskey = Z
+windows-10-eos-global-infobar-learn-more-link = Dalšne informacije
+    .accessKey = D
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
