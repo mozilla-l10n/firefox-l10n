@@ -412,6 +412,13 @@ windows-10-eos-feature-toast-subtitle = 여러분의 요청에 의해 { -brand-p
 windows-10-eos-feature-toast-whats-new-button = 새 기능 살펴보기
 windows-10-eos-feature-toast-dismiss-button = 닫기
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-primary-button = 백업 켜기
+    .accesskey = T
+windows-10-eos-global-infobar-learn-more-link = 더 알아보기
+    .accessKey = L
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
