@@ -414,6 +414,7 @@ windows-10-eos-feature-toast-dismiss-button = 닫기
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft는 더 이상 Windows 10을 지원하지 않습니다.</strong> Windows 11로 전환할 수 있도록 { -brand-product-name }에 필요한 정보를 백업하세요.
 windows-10-eos-global-infobar-primary-button = 백업 켜기
     .accesskey = T
 windows-10-eos-global-infobar-learn-more-link = 더 알아보기
