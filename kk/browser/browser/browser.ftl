@@ -1481,6 +1481,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Болдырмау
     .accesskey = Б
+reset-pbm-panel-confirm-button2 =
+    .label = Жекелік сессияны тазарту
+    .accesskey = з
 reset-pbm-panel-confirm-button =
     .label = Сессия деректерін өшіру
     .accesskey = ш
@@ -1726,6 +1729,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } { $count } криптомайнерді рұқсат етті
     }
 trustpanel-cryptominer-tab-list-header = Бұл сайттар криптомайнингпен айналасуға тырысуда:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Бұл сайтта тіркелгіңіз бар ма?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } бұл сайтта соңғы 12 айда деректердің бұзылуы орын алғанын анықтады. Ол сізге әсер еткен-етпегенін біліп алыңыз.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Елемеу
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Тегін сканерлеуді бастау
 trustpanel-blocker-section-header2 =
@@ -1738,3 +1744,5 @@ trustpanel-blocker-section-header2 =
 
 reduced-protection-infobar-reload-button = Қайта жүктеу
     .accesskey = й
+reduced-protection-infobar-never-show-button = Келесіде көрсетпеу
+    .accesskey = д

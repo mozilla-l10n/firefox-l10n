@@ -831,6 +831,7 @@ newtab-widget-timer-celebration-message-break = Назар аударуға да
 
 ## Sports widget
 
+newtab-sports-widget-countdown-title = Әлем чемпионатына дейінгі кері санақ
 # Abbreviated label for days in the sport widget countdown. D is short for Days.
 # The layout only allows for 1–2 characters: if there is an equivalent single
 # character for your language, use that. Your translation will be automatically
@@ -846,6 +847,7 @@ newtab-sports-widget-countdown-hours = С
 # character for your language, use that. Your translation will be automatically
 # truncated at 1 character to avoid layout issues.
 newtab-sports-widget-countdown-minutes = М
+newtab-sports-widget-get-updates = Тікелей матч жаңалықтарын және басқа да ақпараттарды алыңыз.
 newtab-sports-widget-view-schedule =
     .label = Кестені қарау
 newtab-sports-widget-skip = Аттап кету

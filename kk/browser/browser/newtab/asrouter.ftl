@@ -412,6 +412,13 @@ windows-10-eos-feature-toast-subtitle = Көптеген сұраныстар б
 windows-10-eos-feature-toast-whats-new-button = Жаңалықтарын білу
 windows-10-eos-feature-toast-dismiss-button = Елемеу
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-primary-button = Сақтық көшірме жасауды іске қосу
+    .accesskey = с
+windows-10-eos-global-infobar-learn-more-link = Көбірек білу
+    .accessKey = L
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
