@@ -84,6 +84,11 @@ smartblock-placeholder-title = { $trackername } მეთვალყურე�
 smartblock-placeholder-desc = თქვენი { -brand-short-name } მითითებული გამართვით ზღუდავს ამ შიგთავსს, რომ ვერ გამოიყენონ სხვადასხვა საიტზე თვალის დევნებისთვის ან სარეკლამოდ.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = დაიშვას { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = შიგთავსი შეზღუდული ჩანამატიდან
 
 ##
 

@@ -421,6 +421,12 @@ quickactions-cmd-inspector = გამოკვლევა, შემუშა�
 # Opens about:logins
 quickactions-logins2 = პაროლების მართვა
 quickactions-cmd-logins = ანგარიშები და პაროლები
+# Mutes all tabs playing audio
+quickactions-mute = ხმოვანი ჩანართების დადუმება
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = დადუმება, ჩუ, სუ
 # Opens about:addons page in the plugins section
 quickactions-plugins = მოდულების მართვა
 quickactions-cmd-plugins = მოდულები
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = თქვენი კავშირი ამ საიტთან არაა დაცული.
 identity-connection-verified = თქვენ საიმედოდ ხართ დაკავშირებული ამ საიტთან.
 identity-ev-owner-label = სერტიფიკატის მფლობელი:
+identity-verifier-label = დამმოწმებელი:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = განსაზღრულია წესდების მიხედვით (ᲔᲕ) 2024/1183.
 identity-description-custom-root2 = Mozilla არ ცნობს ამ სერტიფიკატის გამცემს. იგი შეიძლება დამატებულია თქვენი საოპერაციო სისტემას ან მმართველი პირის მიერ.
+identity-cert-exception-overridden = უსაფრთხოების გამონაკლისი გაქვთ ამ საიტისთვის.
 identity-remove-cert-exception =
     .label = გამონაკლისის წაშლა
     .accesskey = წ
@@ -1739,3 +1747,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>საიტი გაუმართავი ჩანს?</strong> გააახლეთ გვერდი თვალთვალისგან დაცვის დროებით შემცირებით.
 reduced-protection-infobar-reload-button = გაახლება
     .accesskey = ხ
+reduced-protection-infobar-never-show-button = მომავალში ჩვენების გარეშე
+    .accesskey = გ
