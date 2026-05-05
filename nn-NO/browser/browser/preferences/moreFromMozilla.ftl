@@ -61,6 +61,27 @@ more-from-moz-new-products-button = Sjå nye produkt
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Finn ut kvar personopplysningane dine har vorte eksponerte på nettet med ei gratis skanning.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Få ekstra vern for alle appar — ikkje berre nettlesaren. Hald dataa dine trygge på offentleg Wi-Fi og usikre nettverk.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Beskytt innboksen din mot søppelpost (spam) med gratis e-postalias.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Lær webutvikling med gratis rettleiingar og referansar.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Få tilgang til e-post, kalendrar og kontaktar i éin rask app.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Utforsk dei nyaste ideane og eksperimentelle teknologiane våre.
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name } nye produkter
+    .description = Oppdag dei nyaste produkta frå { -vendor-short-name }..
 more-from-moz-mozilla-monitor-box-link =
     .label = Få { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =

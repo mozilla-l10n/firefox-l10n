@@ -69,3 +69,25 @@ more-from-moz-new-products-button = იხილეთ ახალი პრო
 more-from-moz-firefox-mobile-qr-promo =
     .message = გადაუღეთ ტელეფონის ან პლანშეტის კამერით გადმოსაწერად. შეეხეთ ბმულს, როცა გამოჩნდება.
 more-from-moz-firefox-mobile-email-link = ელფოსტით გაგზავნეთ ჩამოსატვირთი ბმული ტელეფონზე.
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = გაარკვიეთ უფასო შემოწმებით, თქვენი პირადი მონაცემები სადმე ხომ არ გამჟღავნებულა.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = დამატებითი დაცვა ყველა პროგრამისთვის — არამხოლოდ ბრაუზერში. უსაფრთხოდ მიმოცვალეთ მონაცემები საჯარო WiFi-კავშირებისას და დაუცველი ქსელებით.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = აირიდეთ საფოსტო ყუთში უსარგებლო ჯართი ელფოსტის უფასო შენიღბვით
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = შეისწავლეთ ვებშემუშავება უფასო სახელმძღვანელოებითა და მასალებით
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = წვდომა ელფოსტასთან, კალენდრებსა თუ ხალხთან ერთი სწრაფი პროგრამით.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = აღმოაჩინეთ უახლესი ჩანაფიქრები და საცდელი ტექნოლოგიები.
