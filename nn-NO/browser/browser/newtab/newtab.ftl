@@ -911,12 +911,15 @@ newtab-sports-widget-bronze-finals = Bronsefinale
 newtab-sports-widget-final = Finale
 newtab-sports-widget-delayed = Forseinka
 newtab-sports-widget-postponed = Utsett
+newtab-sports-widget-suspended = Suspendert
 newtab-sports-widget-cancelled = Annulert
 newtab-sports-widget-information = Informasjon om kampen
 newtab-sports-widget-view-results-link = Vis resultat
 newtab-sports-widget-third-place = Tredjeplass
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Andreplass
+newtab-sports-widget-champions = Meistrar
+newtab-sports-widget-world-cup-champions = VM 2026 – verds­meistrar
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
