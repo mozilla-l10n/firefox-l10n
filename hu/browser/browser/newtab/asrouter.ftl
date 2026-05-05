@@ -415,6 +415,14 @@ windows-10-eos-feature-toast-subtitle = Népszerű kérésre, a { -brand-product
 windows-10-eos-feature-toast-whats-new-button = Újdonságok
 windows-10-eos-feature-toast-dismiss-button = Eltüntetés
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>A Microsoft már nem támogatja a Windows 10-et.</strong> Készítsen biztonsági mentést az adatairól, hogy a { -brand-product-name } készen álljon a Windows 11-re.
+windows-10-eos-global-infobar-primary-button = Biztonsági mentés bekapcsolása
+    .accesskey = B
+windows-10-eos-global-infobar-learn-more-link = További tudnivalók
+    .accessKey = T
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
