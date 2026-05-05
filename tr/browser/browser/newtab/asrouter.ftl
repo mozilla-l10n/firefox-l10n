@@ -415,6 +415,10 @@ windows-10-eos-feature-toast-subtitle = Yoğun istek üzerine { -brand-product-n
 windows-10-eos-feature-toast-whats-new-button = Yeniliklere bak
 windows-10-eos-feature-toast-dismiss-button = Kapat
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft artık Windows 10’u desteklemiyor.</strong> { -brand-product-name } tarayıcınızı Windows 11’e hazırlamak için bilgilerinizi yedekleyin.
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

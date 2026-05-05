@@ -615,11 +615,11 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = { $app-name } kullanılsın
+    .label = { $app-name } kullan
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = { $app-name } kullanılsın (varsayılan)
+    .label = { $app-name } kullan (varsayılan)
 applications-use-os-default =
     .label =
         { PLATFORM() ->
