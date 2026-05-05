@@ -55,6 +55,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = უფასო წვდომა ელფოსტასთან, კალენდარსა თუ ხალხთან — დაგეგმეთ თქვენებურად.
 more-from-moz-thunderbird-button = გამოიყენეთ { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
@@ -91,3 +92,20 @@ more-from-moz-thunderbird-card =
 more-from-moz-solo-card =
     .label = { -solo-ai-brand-name }
     .description = აღმოაჩინეთ უახლესი ჩანაფიქრები და საცდელი ტექნოლოგიები.
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name } – ახალი ქმნილებები
+    .description = გაეცანით, რა სიახლეებს გთავაზობთ { -vendor-short-name }.
+more-from-moz-mozilla-monitor-box-link =
+    .label = გამოიყენეთ { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = გამოიყენეთ { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = გამოიყენეთ { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = წვდომა MDN-თან
+more-from-moz-thunderbird-box-link =
+    .label = გამოიყენეთ { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = გამოცადეთ { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = იხილეთ ახალი პროდუქტები
