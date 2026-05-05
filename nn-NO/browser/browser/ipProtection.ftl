@@ -119,6 +119,9 @@ upgrade-vpn-title = Få ekstra vern utover nettleseren
 upgrade-vpn-description = Vel VPN-plasseringa di, bruk VPN for alle appane dine, og på opptil 5 einingar, og ver trygg på alle nettverk — heime eller på offentleg Wi-Fi.
 upgrade-vpn-button = Prøv { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = VPN er sett på pause
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
 
 ## Messages and errors
 
@@ -248,6 +251,9 @@ vpn-paused-alert-title = VPN sett på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. VPN-tilgangen blir nullstilt neste månad.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Du har brukt opp alle { $maxUsage } GB av VPN-dataa dine. Tilgangen blir nullstilt neste månad.
 vpn-error-page-continue-description = Vel korleis du vil halde fram utan VPN
 vpn-error-page-keep-browsing = Fortset å surfe i denne økta
 vpn-error-page-new-session = Start ei ny programøkt

@@ -62,3 +62,10 @@ more-from-moz-thunderbird-button = გამოიყენეთ { -thunderbird
 more-from-moz-new-products-title = { -vendor-short-name } – ახალი პროდუქტები
 more-from-moz-new-products-description = აღმოაჩინეთ, რა სიახლეებს გთავაზობთ { -vendor-short-name }.
 more-from-moz-new-products-button = იხილეთ ახალი პროდუქტები
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = გადაუღეთ ტელეფონის ან პლანშეტის კამერით გადმოსაწერად. შეეხეთ ბმულს, როცა გამოჩნდება.
+more-from-moz-firefox-mobile-email-link = ელფოსტით გაგზავნეთ ჩამოსატვირთი ბმული ტელეფონზე.
