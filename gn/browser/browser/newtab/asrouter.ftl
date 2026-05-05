@@ -414,6 +414,13 @@ windows-10-eos-feature-toast-subtitle = Ojejerure rupi, { -brand-product-name } 
 windows-10-eos-feature-toast-whats-new-button = Ehecha mba’epyahu
 windows-10-eos-feature-toast-dismiss-button = Mboyke
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-primary-button = Emyandy ñongatu jey
+    .accesskey = T
+windows-10-eos-global-infobar-learn-more-link = Eikuaave
+    .accessKey = L
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

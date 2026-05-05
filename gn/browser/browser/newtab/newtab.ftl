@@ -882,6 +882,12 @@ newtab-widget-timer-running-break = Pytu’u
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Eñomi aravokuaaukaha
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Emba’apo porã
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Opáma jepytu’u
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = ¿Epytu’usépa?
 
 ## Sports widget
 
