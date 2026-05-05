@@ -469,6 +469,9 @@ manage-browser-languages-button =
     .accesskey = დ
 confirm-browser-language-change-description = გაუშვით { -brand-short-name } ხელახლა ცვლილებების ასახვისთვის
 confirm-browser-language-change-button = მიღება და ხელახლა გაშვება
+browser-language-heading =
+    .label = ბრაუზერის ენა
+    .description = მიუთითეთ ენა, რომლითაც მენიუს, შეტყობინებებსა და ცნობებს მოგაწვდით { -brand-short-name }.
 browser-language-preferred-label =
     .label = სასურველი ენა
 browser-language-fallback-label =
@@ -741,6 +744,21 @@ update-in-progress-ok-button = &უარყოფა
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &გაგრძელება
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } შესახებ
+
+## Firefox updates
+
+update-application-heading =
+    .label = { -brand-short-name } – განახლებები
+    .description = განახლბებით { -brand-short-name } უმჯობესდება სისწრაფის, მდგრადობისა და უსაფრთხოების კუთხით.
+update-application-suppress-prompts-heading =
+    .label = შეტყობინებები
+update-application-updates-managed-by-os =
+    .message = განახლებები იმართება თქვენი საოპერაციო სისტემით
 
 ## Firefox support
 
@@ -1021,6 +1039,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = წამმზომი
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = სპორტი
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = თანადგომა – { -brand-product-name }
@@ -1034,6 +1055,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = ფონის არჩევა
 home-prefs-choose-wallpaper-link2 =
     .label = ფონის არჩევა
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = ამ შესაძლებლობებით სარგებლობისთვის მომართეთ { -firefox-home-brand-name } ახალი ჩანართებითა და ფანჯრებით.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1561,6 +1587,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ვრცლად
 forms-windows-sso-desc = ანგარიშების მართვა, მოწყობილობის პარამეტრებიდან
 windows-passkey-settings-label = საშვების მართვა სისტემის პარამეტრებში
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = პირადულობის განყოფილების გამართვა
+    .description = დაიხმარეთ { -brand-short-name } თქვენი მონაცემების დასაცავად ინტერნეტში.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = მიტაცების ცნობების ჩვენება
+    .accesskey = ც
 
 ## OS Authentication dialog
 
