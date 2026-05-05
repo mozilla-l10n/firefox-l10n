@@ -328,7 +328,7 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
-appmenuitem-sign-in-account = Přihlaste se ke svému účtu
+appmenuitem-sign-in-account = Přihlaste se do svého účtu
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Dostávejte upozornění na úniky dat
 appmenuitem-relay-title = { -relay-brand-short-name }
