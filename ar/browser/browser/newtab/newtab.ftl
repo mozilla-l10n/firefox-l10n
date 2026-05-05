@@ -652,6 +652,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = اكتمل ({ $number })
+newtab-widget-lists-celebration-headline = عمل جيد
 newtab-widget-task-list-menu-copy = انسخ
 newtab-widget-lists-menu-edit = حرّر اسم القائمة
 newtab-widget-lists-menu-edit2 =
@@ -698,6 +699,7 @@ newtab-widget-section-menu-button =
 newtab-widget-section-menu-hide-all = أخفِ الويدجات
 newtab-widget-section-menu-learn-more = اطّلع على المزيد
 newtab-widget-section-feedback = أخبرنا برأيك
+newtab-widget-lists-name-default = قائمة التحقق
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -724,6 +726,8 @@ newtab-daily-briefing-card-menu-dismiss = أهمِل
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = حُدِّث منذ { $minutes }د
 newtab-widget-message-title = حافظ على تركيزك باستخدام القوائم والمؤقت المدمج
+# to-dos stands for "things to do".
+newtab-widget-message-copy = من التذكيرات السريعة إلى المهام اليومية، ومن جلسات التركيز إلى فترات الراحة القصيرة - حافظ على إنجاز مهامك وفي الوقت المحدّد.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -739,6 +743,8 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-pause-aria =
+    .aria-label = ألبِث المؤقت
 newtab-widget-timer-decrease-min =
     .title = قلّل دقيقة واحدة
 newtab-widget-timer-increase-min =
@@ -747,6 +753,17 @@ newtab-widget-timer-mode-group =
     .aria-label = وضع المؤقت
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = ركّز
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = أخفِ المؤقت
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = عمل رائع
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = انتهت استراحتك
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = أتحتاج إلى استراحة؟
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = أمستعد للتركيز؟
 
 ## Sports widget
 

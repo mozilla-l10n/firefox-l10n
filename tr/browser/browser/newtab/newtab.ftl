@@ -846,6 +846,19 @@ newtab-promo-card-dismiss-button =
     .title = Kapat
     .aria-label = Kapat
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Mola ver
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = İyi iş çıkardınız
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Molanız sona erdi
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Molaya mı ihtiyacınız var?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Odaklanmaya hazır mısınız?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Takımları takip et
@@ -853,7 +866,24 @@ newtab-sports-widget-menu-view-upcoming = Yaklaşanlara bak
 newtab-sports-widget-menu-view-results = Sonuçlara bak
 newtab-sports-widget-menu-learn-more = Daha fazla bilgi al
 newtab-sports-widget-countdown-title = Dünya Kupası’na geri sayım
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = G
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = S
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = D
 newtab-sports-widget-get-updates = Canlı maç haberlerini ve daha fazlasını alın.
+newtab-sports-widget-view-schedule =
+    .label = Takvimi gör
 newtab-sports-widget-follow-teams =
     .label = Takımları takip et
 newtab-sports-widget-choose-wallpaper =
@@ -884,6 +914,8 @@ newtab-sports-widget-information = Maç bilgileri
 newtab-sports-widget-no-live-data = Canlı maç verileri şu anda güncellenmiyor
 newtab-sports-widget-view-results-link = Sonuçlara bak
 newtab-sports-widget-third-place = Üçüncü
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = İkinci
 newtab-sports-widget-champions = Şampiyon
 newtab-sports-widget-world-cup-champions = 2026 Dünya Kupası Şampiyonu
 

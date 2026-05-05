@@ -843,6 +843,10 @@ newtab-promo-card-dismiss-button =
     .title = აცილება
     .aria-label = აცილება
 
+## Sports widget
+
+newtab-sports-widget-get-updates = იხილეთ მიმდინარე შეხვედრების სიახლეები და სხვ.
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
