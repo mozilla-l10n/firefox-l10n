@@ -417,6 +417,9 @@ windows-10-eos-feature-toast-dismiss-button = Clauder
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft non plus supporta Windows 10.</strong> Salveguarda tu info pro obtener { -brand-product-name } preste pro Windows 11.
+windows-10-eos-global-infobar-primary-button = Accender le salveguarda
+    .accesskey = A
 windows-10-eos-global-infobar-learn-more-link = Pro saper plus
     .accessKey = p
 
