@@ -737,8 +737,20 @@ newtab-promo-card-dismiss-button =
     .title = أهمِل
     .aria-label = أهمِل
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-decrease-min =
+    .title = قلّل دقيقة واحدة
+newtab-widget-timer-increase-min =
+    .title = زد دقيقة واحدة
+newtab-widget-timer-mode-group =
+    .aria-label = وضع المؤقت
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = ركّز
+
 ## Sports widget
 
+newtab-sports-widget-menu-learn-more = اطّلع على المزيد
 newtab-sports-widget-skip = تخطَّ
 
 ## Strings for activation window message variants. In certain experiment configurations,
