@@ -270,7 +270,7 @@ newtab-empty-section-topstories-generic = Már felzárkózott. Nézzen vissza k�
 
 newtab-discovery-empty-section-topstories-header = Felzárkózott.
 newtab-discovery-empty-section-topstories-content = Nézzen vissza később további történetekért.
-newtab-discovery-empty-section-topstories-try-again-button = Próbálja újra
+newtab-discovery-empty-section-topstories-try-again-button = Újrapróbálkozás
 newtab-discovery-empty-section-topstories-loading = Betöltés…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hoppá! Majdnem betöltöttük ezt a részt, de nem egészen.

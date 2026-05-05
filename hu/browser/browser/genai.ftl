@@ -238,7 +238,7 @@ link-preview-generation-error-missing-data-v2 = A { -brand-short-name } nem tud 
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Valami hiba történt.
 # Text for the retry link when generation fails
-link-preview-generation-retry = Próbálja újra
+link-preview-generation-retry = Újrapróbálkozás
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = Hivatkozás-előnézeti beállítások

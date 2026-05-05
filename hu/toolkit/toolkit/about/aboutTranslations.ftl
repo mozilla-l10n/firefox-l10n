@@ -24,7 +24,7 @@ about-translations-feature-blocked-unblock-button = Feloldás
 about-translations-language-load-error-message-2 =
     .heading = A nyelvek betöltése sikertelen
     .message = Ellenőrizze az internetkapcsolatát, és próbálja meg újra.
-about-translations-language-load-error-button = Próbálja újra
+about-translations-language-load-error-button = Újrapróbálkozás
 # An error message displayed when a translation request fails.
 about-translations-translation-error-heading = Hiba történt a fordítás során
 about-translations-translation-error-subtext = Próbálja meg újra.

@@ -77,7 +77,7 @@ translations-panel-error-translating = Hiba történt a fordítás során. Prób
 translations-panel-error-load-languages = A nyelvek betöltése sikertelen
 translations-panel-error-load-languages-hint = Ellenőrizze az internetkapcsolatát, és próbálja újra.
 translations-panel-error-load-languages-hint-button =
-    .label = Próbálja újra
+    .label = Újrapróbálkozás
 translations-panel-error-unsupported = Ehhez az oldalhoz nem érhető el fordítás
 translations-panel-error-dismiss-button =
     .label = Megértettem!
@@ -226,7 +226,7 @@ select-translations-panel-translate-full-page-button =
 select-translations-panel-translate-button =
     .label = Fordítás
 select-translations-panel-try-again-button =
-    .label = Próbálja újra
+    .label = Újrapróbálkozás
 # Text displayed as a placeholder when the panel is idle.
 select-translations-panel-idle-placeholder-text = A lefordított szöveg itt fog megjelenni.
 # Text displayed as a placeholder when the panel is actively translating.

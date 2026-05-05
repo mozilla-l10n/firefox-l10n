@@ -540,7 +540,7 @@ settings-translations-subpage-download-progress = Letöltés folyamatban…
 #   $size (string) - The download size of the language in megabytes.
 settings-translations-subpage-download-error = Nem sikerült letölteni a(z) { $language } nyelvet ({ $size } MB)
 settings-translations-subpage-download-retry-button =
-    .label = Próbálja újra
+    .label = Újrapróbálkozás
 # Variables:
 #   $language (string) - The localized display name of the language.
 #   $size (string) - The download size of the language in megabytes.
