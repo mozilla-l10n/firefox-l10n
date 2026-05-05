@@ -266,7 +266,7 @@ urlbar-dismissal-acknowledgment-weather = Děkujeme za vaši zpětnou vazbu. Ná
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Méně psaní, více výsledků: používejte { $engineName } přímo z adresního řádku.
-urlbar-search-tips-redirect-2 = Zadejte do adresního řádku vyhledávaný text a uvidíte návrhy z vyhledávače { $engineName } a vaší historie prohlížení.
+urlbar-search-tips-redirect-2 = Zadejte do adresního řádku hledaný text a uvidíte návrhy od vyhledávače { $engineName } a z vaší historie prohlížení.
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Vyhledávání je nyní jednodušší. Zkuste své vyhledávání upřesnit zde v adresním řádku. Chcete-li místo toho zobrazit adresu URL, přejděte v nastavení do Vyhledávání.
 # Prompts users to use the Urlbar when they are typing in the domain of a
