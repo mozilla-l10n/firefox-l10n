@@ -530,6 +530,8 @@ newtab-weather-opt-in-not-now =
 newtab-weather-opt-in-yes =
     .label = 好的
 newtab-weather-opt-in-headline = 获取您当地的天气预报
+newtab-weather-opt-in-use-location =
+    .label = 使用位置信息
 newtab-weather-opt-in-choose-location = 选择位置
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = 纽约市
