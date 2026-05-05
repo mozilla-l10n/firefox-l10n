@@ -415,6 +415,14 @@ windows-10-eos-feature-toast-subtitle = ხალხის მოთხოვნ
 windows-10-eos-feature-toast-whats-new-button = გაეცანით სიახლეებს
 windows-10-eos-feature-toast-dismiss-button = აცილება
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong> Microsoft აცხადებს, რომ უკვე მხარდაუჭერელია Windows 10.</strong> დაამარქაფეთ თქვენი მონაცემები, რომ მზად გქონდეთ { -brand-product-name }, როცა დააპირებთ დააყენოთ Windows 11.
+windows-10-eos-global-infobar-primary-button = მარქაფის ჩართვა
+    .accesskey = ქ
+windows-10-eos-global-infobar-learn-more-link = ვრცლად
+    .accessKey = ლ
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

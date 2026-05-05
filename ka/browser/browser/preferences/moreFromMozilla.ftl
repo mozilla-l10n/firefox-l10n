@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = მეტი { -vendor-short-name }-სგან
+more-from-moz-page-header =
+    .heading = მეტი { -vendor-short-name }-სგან
 more-from-moz-category =
     .tooltiptext = მეტი { -vendor-short-name }-სგან
 more-from-moz-subtitle = მოსინჯეთ სხვა { -vendor-short-name }-პროდუქტებიც, რომლებიც შექმნილია ჯანსაღი ინტერნეტის მხარდასაჭერად.
 more-from-moz-firefox-mobile-title = { -brand-product-name } მობილურზე
 more-from-moz-firefox-mobile-description = მობილური ბრაუზერი, რომლისთვისაც უწინარესი თქვენი პირადულობაა.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } მობილურზე
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } მობილურზე
+    .description = მობილური ბრაუზერი, რომლისთვისაც უწინარესი თქვენი პირადულობაა.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = გამოცადეთ და დაამატეთ ვინაობის გაუმხელობისა და უსაფრთხოების კიდევ ერთი შრე.
 more-from-moz-qr-code-box-firefox-mobile-title = ჩამოტვირთეთ მობილური მოწყობილობით. მიუშვირეთ კამერა QR-კოდს. როდესაც ბმული გამოჩნდება, შეეხეთ.
@@ -46,3 +51,14 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } – ვებსაიტ�
 more-from-moz-mdn-description = შეისწავლეთ ვებშემუშავება უფასო, ამომწურავი სახელმძღვანელო მასალებითა და ცნობარებით.
 more-from-moz-mdn-button = შეისწავლეთ ვებშემუშავება
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-button = გამოიყენეთ { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name } – ახალი პროდუქტები
+more-from-moz-new-products-description = აღმოაჩინეთ, რა სიახლეებს გთავაზობთ { -vendor-short-name }.
+more-from-moz-new-products-button = იხილეთ ახალი პროდუქტები

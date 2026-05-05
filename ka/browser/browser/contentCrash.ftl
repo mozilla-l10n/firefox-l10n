@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = მომავალში ჩვენების გარეშე
     .accesskey = გ
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] უეცარი გათიშვების გადაუგზავნელი მოხსენება გაქვთ
+       *[other] უეცარი გათიშვების { $reportCount } გადაუგზავნელი მოხსენება გაქვთ
+    }
