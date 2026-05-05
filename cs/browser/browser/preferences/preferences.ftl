@@ -546,6 +546,11 @@ confirm-browser-language-change-description =
        *[no-cases] Aby se změny projevily, restartujte aplikaci { -brand-short-name }
     }
 confirm-browser-language-change-button = Potvrdit a restartovat
+browser-language-heading =
+    .label = Jazyk prohlížeče
+    .description = Vyberte jazyk, ve kterém se budou zobrazovat nabídky, zprávy a oznámení od aplikace { -brand-short-name }.
+browser-language-preferred-label =
+    .label = Preferovaný jazyk
 browser-language-install-error =
     .message = { -brand-short-name } nyní nemůže aktualizovat seznam jazyků. Zkontrolujte internetové připojení a zkuste to znovu.
 translate-web-pages =
@@ -1154,6 +1159,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Časovač
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sporty
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label =
