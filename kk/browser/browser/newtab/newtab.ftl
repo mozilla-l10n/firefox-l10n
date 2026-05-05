@@ -816,6 +816,14 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } минут
+           *[other] { $minutes } минут
+        }
 newtab-widget-timer-mode-group =
     .aria-label = Таймер режимі
 # Small label shown beneath the live time while the focus timer is running or paused.
@@ -831,6 +839,7 @@ newtab-widget-timer-celebration-message-break = Назар аударуға да
 
 ## Sports widget
 
+newtab-sports-widget-menu-learn-more = Көбірек білу
 newtab-sports-widget-countdown-title = Әлем чемпионатына дейінгі кері санақ
 # Abbreviated label for days in the sport widget countdown. D is short for Days.
 # The layout only allows for 1–2 characters: if there is an equivalent single
