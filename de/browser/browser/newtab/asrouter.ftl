@@ -415,6 +415,14 @@ windows-10-eos-feature-toast-subtitle = Auf häufige Anfrage hin hat { -brand-pr
 windows-10-eos-feature-toast-whats-new-button = Sehen Sie sich an, was es Neues gibt
 windows-10-eos-feature-toast-dismiss-button = Schließen
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft unterstützt Windows 10 nicht mehr.</strong> Sichern Sie Ihre Daten, um { -brand-product-name } für Windows 11 bereit zu machen.
+windows-10-eos-global-infobar-primary-button = Datensicherung aktivieren
+    .accesskey = a
+windows-10-eos-global-infobar-learn-more-link = Weitere Informationen
+    .accessKey = W
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
