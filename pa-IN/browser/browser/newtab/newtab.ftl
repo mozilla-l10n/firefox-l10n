@@ -765,6 +765,9 @@ newtab-widget-lists-name-label-checklist =
     .label = ਚੈਕ-ਲਿਸਟ
 newtab-widget-lists-name-placeholder-default =
     .placeholder = ਕੰਮ ਸੂਚੀ
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = ਚੈਕ-ਲਿਸਟ
+    .aria-label = ਸੂਚੀ ਨਾਂ ਨੂੰ ਸੋਧੋ
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = ਨਵੀਂ ਸੂਚੀ
@@ -790,7 +793,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = ਵਿਜੈੱਟ ਨੂੰ ਘੱਟੋ-ਘੱਟ ਕਰੋ
     .aria-label = ਸਾਰੇ ਵਿਜੈੱਟ ਨੂੰ ਸੰਖੇਪ ਆਕਾਰ ਲਈ ਸਮੇਟੋ
+newtab-widget-section-menu-button =
+    .title = ਵਿਜੈਟ ਮੇਨੂ
+    .aria-label = ਵਿਜੈਟ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+newtab-widget-section-menu-hide-all = ਵਿਜੈੱਟ ਨੂੰ ਲੁਕਾਓ
+newtab-widget-section-menu-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-widget-section-feedback = ਸਾਨੂੰ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਕੀ ਸੋਚਦੇ ਹੋ
+newtab-widget-lists-name-default = ਚੈਕ-ਲਿਸਟ
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -832,6 +841,103 @@ newtab-promo-card-cta = ਹੋਰ ਜਾਣੋ
 newtab-promo-card-dismiss-button =
     .title = ਖ਼ਾਰਜ ਕਰੋ
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+           *[other] { $minutes }-ਮਿੰਟ ਟਾਈਮਰ ਸ਼ੁਰੂ ਕਰੋ
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = ਟਾਈਮਰ ਨੂੰ ਰੋਕੋ
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } ਮਿੰਟ
+           *[other] { $minutes } ਮਿੰਟ
+        }
+newtab-widget-timer-decrease-min =
+    .title = 1 ਮਿੰਟ ਘਟਾਓ
+newtab-widget-timer-increase-min =
+    .title = 1 ਮਿੰਟ ਵਧਾਓ
+newtab-widget-timer-mode-group =
+    .aria-label = ਟਾਈਮਰ ਢੰਗ
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = ਫੋਕਸ
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = ਬਰੇਕ
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = ਟਾਈਮਰ ਓਹਲੇ ਕਰੋ
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = ਸ਼ਾਨਦਾਰ ਕੰਮ
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = ਤੁਹਾਡੀ ਬਰੇਕ ਖਤਮ ਹੋਈ
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = ਬਰੇਕ ਚਾਹੀਦੀ ਹੈ?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = ਫੋਕਸ ਲਈ ਤਿਆਰ ਹੋ?
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = ਟੀਮਾਂ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
+newtab-sports-widget-menu-view-upcoming = ਹੋਣ ਵਾਲੇ ਵੇਖੋ
+newtab-sports-widget-menu-view-results = ਨਤੀਜੇ ਵੇਖੋ
+newtab-sports-widget-menu-learn-more = ਹੋਰ ਜਾਣੋ
+newtab-sports-widget-countdown-title = ਵਰਲਡ ਕੱਪ ਲਈ ਉਲਟੀ ਗਿਣਤੀ
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = ਦਿ
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = ਘੰ
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = ਮਿੰ
+newtab-sports-widget-get-updates = ਲਾਈਵ ਮੈਚ ਅੱਪਡੇਟ ਅਤੇ ਹੋਰ ਲਵੋ।
+newtab-sports-widget-view-schedule =
+    .label = ਸੈਡਿਊਲ ਨੂੰ ਵੇਖੋ
+newtab-sports-widget-follow-teams =
+    .label = ਟੀਮਾਂ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
+newtab-sports-widget-choose-wallpaper =
+    .label = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
+newtab-sports-widget-skip = ਛੱਡੋ
+newtab-sports-widget-search-teams =
+    .placeholder = ਟੀਮਾਂ ਨੂੰ ਲੱਭੋ
+    .aria-label = ਟੀਮਾਂ ਨੂੰ ਲੱਭੋ
+newtab-sports-widget-done-button =
+    .label = ਮੁਕੰਮਲ
+newtab-sports-widget-group-stage = ਗਰੁੱਪ ਸਟੇਜ
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ਲਾਈਵ
+newtab-custom-widget-live-refresh =
+    .title = ਨਵੇਂ ਸਕੋਰ ਲਵੋ
+    .aria-label = ਨਵੇਂ ਸਕੋਰ ਲਵੋ
+newtab-sports-widget-upcoming = ਆਉਣ ਵਾਲੇ
+newtab-sports-widget-results = ਨਤੀਜੇ
+newtab-sports-widget-semi-finals = ਸੈਮੀ-ਫਾਈਨਲ
+newtab-sports-widget-bronze-finals = ਕਾਂਸੀ ਲਈ ਫਾਈਨਲ
+# Final is the final match for 1st place.
+newtab-sports-widget-final = ਫਾਈਨਲ
+newtab-sports-widget-delayed = ਦੇਰੀ ਹੋਈ
+newtab-sports-widget-postponed = ਟਾਲਿਆ
+newtab-sports-widget-suspended = ਮੁਅੱਤਲ ਕੀਤਾ
+newtab-sports-widget-cancelled = ਰੱਦ ਕੀਤਾ
+newtab-sports-widget-information = ਮੈਚ ਬਾਰੇ ਜਾਣਕਾਰੀ
+newtab-sports-widget-no-live-data = ਲਾਈਵ ਮੈਚ ਡਾਟਾ ਇਸ ਵੇਲੇ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋ ਰਿਹਾ ਹੈ
+newtab-sports-widget-view-results-link = ਨਤੀਜੇ ਵੇਖੋ
+newtab-sports-widget-third-place = ਤੀਜੀ ਥਾਂ
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
