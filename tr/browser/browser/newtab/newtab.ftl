@@ -848,8 +848,37 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } dakikalık sayaç başlat
+           *[other] { $minutes } dakikalık sayaç başlat
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Sayacı duraklat
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } dakika
+           *[other] { $minutes } dakika
+        }
+newtab-widget-timer-decrease-min =
+    .title = 1 dakika azalt
+newtab-widget-timer-increase-min =
+    .title = 1 dakika artır
+newtab-widget-timer-mode-group =
+    .aria-label = Sayaç modu
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Odaklan
 # Small label shown beneath the live time while the break timer is running or paused.
 newtab-widget-timer-running-break = Mola ver
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Sayacı gizle
 # Heading shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-heading-focus = İyi iş çıkardınız
 # Heading shown inside the Timer widget after a break session ends.

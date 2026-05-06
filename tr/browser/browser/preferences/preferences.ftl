@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = Yapay Zekâ Kontrolleri
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = { -brand-short-name } Hakkında
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Erişilebilirlik
     .title = { pane-accessibility-title }
 pane-languages-title = Diller
@@ -736,6 +738,11 @@ update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } Hakkında
 
 ## Firefox updates
 

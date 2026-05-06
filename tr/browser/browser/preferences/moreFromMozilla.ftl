@@ -74,6 +74,12 @@ more-from-moz-firefox-mobile-email-link = İndirme bağlantısını telefonuma e
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = İnternette kişisel bilgilerinizin nerelerde ele geçirildiğini ücretsiz bir taramayla öğrenin.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = En yeni fikirlerimizi ve deneysel teknolojilerimizi keşfedin.
 more-from-moz-new-products-card =
     .label = { -vendor-short-name } New Products
     .description = En yeni { -vendor-short-name } ürünlerini keşfedin.
