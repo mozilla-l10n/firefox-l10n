@@ -366,6 +366,8 @@ newtab-custom-widget-lists-toggle =
     .label = სიები
 newtab-custom-widget-timer-toggle =
     .label = წამმზომი
+newtab-custom-widget-sports-toggle =
+    .label = მსოფლიო თასი
 newtab-custom-widget-section-title = ჩანამატები
 newtab-custom-widget-section-toggle =
     .label = ჩანამატები
@@ -737,6 +739,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = შესრულებული ({ $number })
+newtab-widget-lists-celebration-headline = კარგად იმუშავეთ
+newtab-widget-lists-celebration-subhead = ყველა შესრულდა
 newtab-widget-task-list-menu-copy = ასლი
 newtab-widget-lists-menu-edit = სიის გადარქმევა
 newtab-widget-lists-menu-edit2 =
@@ -757,6 +761,8 @@ newtab-widget-lists-input-menu-move-up = აწევა
 newtab-widget-lists-input-menu-move-down = ჩამოწევა
 newtab-widget-lists-input-menu-delete = წაშლა
 newtab-widget-lists-input-menu-edit = ჩასწორება
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = ჩანაწერის ჩასწორება
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + ახალი სიის შექმნა
@@ -843,14 +849,88 @@ newtab-promo-card-dismiss-button =
     .title = აცილება
     .aria-label = აცილება
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-decrease-min =
+    .title = დაკლება 1 წუთით
+newtab-widget-timer-increase-min =
+    .title = მომატება 1 წუთით
+newtab-widget-timer-mode-group =
+    .aria-label = უკუმთვლელი
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = საქმიანობა
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = შესვენება
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = წამმზომის დამალვა
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = კარგი ნამუშევარია
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = შესვენების დრო ამოიწურა
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = შეისვენებთ?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = მზად ხართ საქმისთვის?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = გუნდის მიყოლა
+newtab-sports-widget-menu-view-upcoming = მოახლოებულის ნახვა
+newtab-sports-widget-menu-view-results = შედეგების ნახვა
+newtab-sports-widget-menu-learn-more = ვრცლად
+newtab-sports-widget-countdown-title = დროის ათვლა მსოფლიო თასამდე
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = დღ
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = სთ
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = წთ
 newtab-sports-widget-get-updates = მიმდინარე შეხვედრების სიახლეები და სხვ.
 newtab-sports-widget-view-schedule =
     .label = განრიგის ნახვა
 newtab-sports-widget-follow-teams =
     .label = გუნდის მიყოლა
+newtab-sports-widget-choose-wallpaper =
+    .label = ფონის არჩევა
+newtab-sports-widget-skip = აცილება
+newtab-sports-widget-search-teams =
+    .placeholder = გუნდების ძიება
+    .aria-label = გუნდების ძიება
+newtab-sports-widget-done-button =
+    .label = მზადაა
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ᲞᲘᲠᲓ.
+newtab-custom-widget-live-refresh =
+    .title = ქულების გაახლება
+    .aria-label = ქულების გაახლება
+newtab-sports-widget-upcoming = მოახლოებული
+newtab-sports-widget-results = შედეგები
+newtab-sports-widget-semi-finals = ნახევარფინალი
+newtab-sports-widget-bronze-finals = ბრინჯაოსთვის
+# Final is the final match for 1st place.
+newtab-sports-widget-final = ფინალი
+newtab-sports-widget-delayed = შეყოვნებულია
+newtab-sports-widget-postponed = გადადებულია
+newtab-sports-widget-suspended = შეჩერებულია
+newtab-sports-widget-cancelled = გაუქმებულია
+newtab-sports-widget-information = შეხვედრის შესახებ
+newtab-sports-widget-no-live-data = მიმდინარე შეხვედრის ცნობები არ ახლდება
+newtab-sports-widget-view-results-link = შედეგების ნახვა
+newtab-sports-widget-third-place = მესამეადგილოსანი
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = მეორეადგილოსანი
+newtab-sports-widget-champions = გამარჯვებული
+newtab-sports-widget-world-cup-champions = 2026 მსოფლიოს გამარჯვებულები
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
