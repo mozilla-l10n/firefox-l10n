@@ -865,6 +865,8 @@ newtab-widget-timer-decrease-min =
     .title = Minsk med 1 minutt
 newtab-widget-timer-increase-min =
     .title = Auk med 1 minutt
+newtab-widget-timer-mode-group =
+    .aria-label = Timer-modus
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Fokus
 # Small label shown beneath the live time while the break timer is running or paused.
