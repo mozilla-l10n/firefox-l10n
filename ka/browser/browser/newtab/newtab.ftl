@@ -851,6 +851,24 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] გაეშვას { $minutes }-წუთიანი ათვლა
+           *[other] გაეშვას { $minutes }-წუთიანი ათვლა
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = წამმზომის შეჩერება
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } წთ
+           *[other] { $minutes } წთ
+        }
 newtab-widget-timer-decrease-min =
     .title = დაკლება 1 წუთით
 newtab-widget-timer-increase-min =
@@ -908,6 +926,7 @@ newtab-sports-widget-search-teams =
     .aria-label = გუნდების ძიება
 newtab-sports-widget-done-button =
     .label = მზადაა
+newtab-sports-widget-group-stage = ჯგუფური ეტაპი
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ᲞᲘᲠᲓ.
 newtab-custom-widget-live-refresh =
