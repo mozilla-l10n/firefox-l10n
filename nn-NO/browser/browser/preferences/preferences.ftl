@@ -469,6 +469,9 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Start om { -brand-short-name } for å bruke desse endringane
 confirm-browser-language-change-button = Bruk og start på nytt
+browser-language-heading =
+    .label = Nettlesarspråk
+    .description = Vel språket som blir brukt til å vise menyar, meldingar og varsel frå { -brand-short-name }.
 browser-language-preferred-label =
     .label = Føretrekt språk
 browser-language-fallback-label =
@@ -749,6 +752,9 @@ about-firefox-header =
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name }-oppdateringar
+    .description = Oppdateringar forbetrar fart, stabilitet og sikkerheit i { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Varsel
 update-application-updates-managed-by-os =
