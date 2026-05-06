@@ -909,9 +909,20 @@ newtab-sports-widget-view-schedule =
     .label = Vedi il calendario
 newtab-sports-widget-follow-teams =
     .label = Segui squadre
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Segui fino a { $number } squadra
+       *[other] Segui fino a { $number } squadre
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Scegli uno sfondo
 newtab-sports-widget-skip = Salta
+newtab-sports-widget-search-country =
+    .placeholder = Cerca nazione
+    .aria-label = Cerca nazione
+newtab-sports-widget-cancel = Annulla
 newtab-sports-widget-done-button =
     .label = Fatto
 newtab-sports-widget-group-stage = Fase a gironi
@@ -970,16 +981,49 @@ newtab-clock-widget-menu-edit = Modifica gli orologi
 newtab-clock-widget-menu-switch-to-12h = Passa al formato 12 ore
 newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 ore
 newtab-clock-widget-label-your-clocks = I tuoi orologi
+newtab-clock-widget-search-location-input =
+    .label = Posizione
+    .placeholder = Cerca una città
+    .aria-label = Cerca una città
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Nome (facoltativo)
+    .placeholder = Aggiungi un nome
+    .aria-label = Nome (facoltativo)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-button-add =
     .title = Aggiungi nuovo orologio
     .aria-label = Aggiungi nuovo orologio
+newtab-clock-widget-button-add-clock = Aggiungi
 newtab-clock-widget-button-cancel = Annulla
+newtab-clock-widget-button-back =
+    .title = Indietro
+    .aria-label = Indietro
+newtab-clock-widget-button-edit-clock =
+    .title = Modifica orologio
+    .aria-label = Modifica orologio
+newtab-clock-widget-button-save = Salva
+newtab-clock-widget-button-remove-clock =
+    .title = Rimuovi orologio
+    .aria-label = Rimuovi orologio
+newtab-clock-widget-add-clock-form =
+    .aria-label = Aggiungi orologio
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Modifica orologio
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Risultati della ricerca
 # "Open menu for clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button =
     .title = Apri il menu per l’orologio
     .aria-label = Apri il menu per l’orologio
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Nome: { $nickname }
