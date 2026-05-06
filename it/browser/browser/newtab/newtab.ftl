@@ -912,9 +912,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Scegli uno sfondo
 newtab-sports-widget-skip = Salta
-newtab-sports-widget-search-teams =
-    .placeholder = Cerca nei team
-    .aria-label = Cerca nei team
 newtab-sports-widget-done-button =
     .label = Fatto
 newtab-sports-widget-group-stage = Fase a gironi
@@ -969,13 +966,10 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 # Context menu item: toggle the clock card off.
 newtab-clock-widget-menu-hide = Nascondi orologio
 newtab-clock-widget-menu-learn-more = Ulteriori informazioni
-# Scaffolded strings for upcoming edit/add-clocks flows (not yet shown in the
-# UI — landed early so translation can begin before the edit patch ships).
 newtab-clock-widget-menu-edit = Modifica gli orologi
 newtab-clock-widget-menu-switch-to-12h = Passa al formato 12 ore
 newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 ore
 newtab-clock-widget-label-your-clocks = I tuoi orologi
-newtab-clock-widget-label-search-location = Cerca località
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -989,8 +983,3 @@ newtab-clock-widget-button-cancel = Annulla
 newtab-clock-widget-menu-button =
     .title = Apri il menu per l’orologio
     .aria-label = Apri il menu per l’orologio
-# "Nickname" refers to a custom, user-defined label for a saved location
-# (e.g., "Home", "Office", or "School") to make it easier to recognize.
-# Not to be translated as a legal name, username, or alias used for identity verification.
-newtab-clock-widget-label-nickname =
-    .label = Nome
