@@ -198,6 +198,9 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ombojevyjey j
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Pe mohendahavusu <strong>{ $hostname }</strong> ombojevy jejavy: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> ombou jey myakãha heko nandíva reheve nomoneĩriva ñanduti rogue hekorosãva.
 fp-neterror-coop-coep-intro = { -brand-short-name } nomyanyhẽi ko kuatiarogue ha’etére pe ñemboheko rekorosãrã ndojokupytýiva kuatiarogue oĩva’ekue rehe.
 fp-neterror-blocked-by-policy-intro = Nde atyguasu ojokóma ko kuatiarogue térã ñanduti roguépe jeike.
 fp-neterror-http-auth-disabled-intro = Peteĩva ohasáva pe tenda rekovia ikatuhína omonda nde poruhára réra, ñe’ẽñemi térã ñanduti veve.
