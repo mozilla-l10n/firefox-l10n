@@ -222,7 +222,7 @@ ip-protection-exclusions-desc = გამოიყენეთ VPN ყველ�
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-this-month-gb = ამ თვეში დარჩა { $usageLeft } ᲒᲑ, სულ { $maxUsage } ᲒᲑ
+ip-protection-bandwidth-left-this-month-gb = ამ თვეში დარჩენილია { $usageLeft } ᲒᲑ, სულ { $maxUsage } ᲒᲑ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -230,7 +230,7 @@ ip-protection-bandwidth-left-gb = დარჩა { $usageLeft } ᲒᲑ, სუ�
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-left-this-month-mb = ამ თვეში დარჩა { $usageLeft } ᲛᲑ, სულ { $maxUsage } ᲒᲑ
+ip-protection-bandwidth-left-this-month-mb = ამ თვეში დარჩენილია { $usageLeft } ᲛᲑ, სულ { $maxUsage } ᲒᲑ
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
