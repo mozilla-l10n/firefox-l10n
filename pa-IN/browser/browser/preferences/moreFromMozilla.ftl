@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = { -vendor-short-name } ਵਲੋਂ ਹੋਰ
+more-from-moz-page-header =
+    .heading = { -vendor-short-name } ਵਲੋਂ ਹੋਰ
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } ਵਲੋਂ ਹੋਰ
 more-from-moz-subtitle = ਹੋਰ { -vendor-short-name } ਉਤਪਾਦ ਵੇਖੋ, ਜੋ ਕਿ ਮਜ਼ਬੂਤ ਇੰਟਰਨੈੱਟ ਦੇ ਹੱਕ ਵਿੱਚ ਕੰਮ ਕਰਦੇ ਹਨ।
@@ -46,3 +48,11 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } AI ਵੈੱਬਸਾਈਟ
 more-from-moz-mdn-description = ਮੁਫ਼ਤ, ਸੰਪੂਰਨ ਗਾਈਡਾਂ ਅਤੇ ਹਵਾਲਿਆਂ ਨਾਲ ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਸਿੱਖੋ।
 more-from-moz-mdn-button = ਵੈੱਬ ਡਿਵੈਲਪਮੈਂਟ ਨੂੰ ਸਿੱਖੇੋ
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } ਲਵੋ
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name } ਨਵੇਂ ਉਤਪਾਦ
