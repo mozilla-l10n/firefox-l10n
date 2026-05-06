@@ -24,6 +24,8 @@ neterror-override-exception-button = Asantiñ ar riskl ha kenderc'hel
 neterror-pref-reset-button = Assav an arventennoù dre ziouer
 neterror-return-to-previous-page-button = Distreiñ
 neterror-return-to-previous-page-recommended-button = Distreiñ (Erbedet)
+neterror-try-again-button-2 = Klask en-dro
+    .accesskey = K
 neterror-try-again-button = Klask en-dro
 neterror-add-exception-button = Bepred kenderc’hel evit al lec’hienn-mañ
 neterror-view-certificate-link = Gwelout an testeni
@@ -144,4 +146,5 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> a zo 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-vpn-error-description = Klaskit en-dro en un nebeut munutennoù.
 fp-neterror-denied-port-access = Emañ ar chomlec'h oc'h arverañ ur porzh hag a zo arveret dre voaz evit palioù all eget ar merdeiñ war internet. Dilezet eo bet ar goulenn gant { -brand-short-name } evit ho kwarez.

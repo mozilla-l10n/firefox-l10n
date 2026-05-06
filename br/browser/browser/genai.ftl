@@ -67,3 +67,8 @@ genai-model-optin-optout =
     .label = Nullañ
 genai-model-optin-cancel =
     .label = Nullañ
+
+## Link previews
+
+# Text for the retry link when generation fails
+link-preview-generation-retry = Klask en-dro

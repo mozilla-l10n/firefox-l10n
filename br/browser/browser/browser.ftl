@@ -791,6 +791,10 @@ urlbar-searchmode-default =
 # available search engines will be listed.
 urlbar-searchmode-popup-description-menucaption =
     .label = Ar wech-mañ, klask gant:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-sticky-description-menucaption =
+    .label = Klask gant:
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-description = Ar wech-mañ, klask gant:
@@ -832,6 +836,9 @@ urlbar-searchmode-popup-add-engine = Ouzhpennañ “{ $engineName }”
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Ar wech-mañ, klask gant:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Klask gant:
 urlbar-searchmode-popup-search-settings-panelitem = Arventennoù enklask
 
 ## Action text shown in urlbar results, usually appended after the search

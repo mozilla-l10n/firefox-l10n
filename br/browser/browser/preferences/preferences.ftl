@@ -307,6 +307,8 @@ translate-attribution = Troidigezhioù gant <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Nemedennoù…
     .accesskey = N
+settings-translations-subpage-download-retry-button =
+    .label = Klask en-dro
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
