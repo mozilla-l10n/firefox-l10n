@@ -689,7 +689,7 @@ play-drm-content =
     .accesskey = D
 play-drm-content-learn-more = ვრცლად
 update-application-title = { -brand-short-name } – განახლებები
-update-application-description = მუდმივად განაახლეთ { -brand-short-name } წარმადობის, მდგრადობისა და უსაფრთხოებისთვის.
+update-application-description = მუდმივად განაახლეთ { -brand-short-name } წარმადობისთვის, მდგრადობისა და უსაფრთხოებისთვის.
 # Variables:
 # $version (string) - Firefox version
 update-application-version = ვერსია { $version } <a data-l10n-name="learn-more">რა არის ახალი</a>
@@ -709,7 +709,7 @@ update-application-check-choose-2 =
     .label = შემოწმდეს განახლებები, ოღონდ აირჩევთ, როდის ჩაიდგას
     .accesskey = წ
 update-application-check-choose =
-    .label = შემოწმდეს განახლებებზე, მაგრამ თავად არ დააყენოს
+    .label = შემოწმდეს განახლებებზე, მაგრამ დაუკითხავად არ დააყენოს
     .accesskey = შ
 update-application-manual =
     .label = არასდროს შემოწმდეს განახლებებზე (არაა სასურველი)
