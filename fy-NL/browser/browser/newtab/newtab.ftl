@@ -850,6 +850,48 @@ newtab-promo-card-dismiss-button =
     .title = Slute
     .aria-label = Slute
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes }-minút-timer starte
+           *[other] { $minutes }-minuten-timer starte
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Timer pauzearje
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minút
+           *[other] { $minutes } minuten
+        }
+newtab-widget-timer-decrease-min =
+    .title = Mei 1 minút ferminderje
+newtab-widget-timer-increase-min =
+    .title = Mei 1 minút ferlingje
+newtab-widget-timer-mode-group =
+    .aria-label = Timermodus
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Skoft
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Timer ferstopje
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Moai wurk
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Jo skoft is foarby
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Skoft nedich?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Klear om te fokusjen?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teams folgje
@@ -857,7 +899,24 @@ newtab-sports-widget-menu-view-upcoming = Folgjende toane
 newtab-sports-widget-menu-view-results = Resultaten besjen
 newtab-sports-widget-menu-learn-more = Mear ynfo
 newtab-sports-widget-countdown-title = Oftelle nei it WK
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = O
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Untfang live wedstriidupdates en mear.
+newtab-sports-widget-view-schedule =
+    .label = Tiidskema besjen
 newtab-sports-widget-follow-teams =
     .label = Teams folgje
 newtab-sports-widget-choose-wallpaper =
@@ -888,6 +947,8 @@ newtab-sports-widget-information = Ynformaasje oer de wedstriid
 newtab-sports-widget-no-live-data = Livewedstriidgegevens wurde op dit stuit net bywurke
 newtab-sports-widget-view-results-link = Resultaten besjen
 newtab-sports-widget-third-place = Tredde plak
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Twadde plak
 newtab-sports-widget-champions = Kampioen
 newtab-sports-widget-world-cup-champions = Wrâldkampioen 2026
 

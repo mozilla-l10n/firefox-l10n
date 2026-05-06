@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI-bestjoeringen
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Oer { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Tagonklikheid
     .title = { pane-accessibility-title }
 pane-languages-title = Talen
@@ -703,6 +705,9 @@ update-application-allow-description = { -brand-short-name } mei
 update-application-auto =
     .label = Fernijingen automatysk ynstallearje (oanrekommandearre)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Kontrolearje op fernijingen, mar kies wannear’t jo se ynstallearje wolle
+    .accesskey = K
 update-application-check-choose =
     .label = Kontrolearje op fernijingen, mar jo kieze litte oft jo dizze ynstallearje wolle
     .accesskey = K
@@ -714,6 +719,9 @@ update-application-background-enabled =
     .accesskey = A
 update-application-warning-cross-user-setting-2 =
     .message = Dizze ynstelling is fan tapassing op alle Windows-accounts en { -brand-short-name }-profilen dy’t dizze ynstallaasje fan { -brand-short-name } brûke.
+update-application-suppress-prompts-2 =
+    .label = Minder fernijingsomtinken toane
+    .accesskey = n
 update-application-warning-cross-user-setting = Dizze ynstelling is fan tapassing op alle Windows-accounts en { -brand-short-name }-profilen dy’t dizze ynstallaasje fan { -brand-short-name } brûke.
 update-application-use-service =
     .label = Brûk in eftergrûntsjinst om fernijingen te ynstallearjen
@@ -736,6 +744,11 @@ update-in-progress-ok-button = &Ferwerpe
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Trochgean
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Oer { -brand-short-name }
 
 ## Firefox updates
 
