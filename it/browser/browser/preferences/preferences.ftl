@@ -70,6 +70,8 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Informazioni su { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Aspetto
+    .title = { pane-appearance-title }
 pane-accessibility-title = Accessibilità
     .title = { pane-accessibility-title }
 pane-languages-title = Lingue
@@ -337,6 +339,12 @@ browser-layout-show-sidebar-desc = Accedi rapidamente a segnalibri, schede dal t
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e aspetto
+appearance-group2 =
+    .label = Aspetto dei siti web
+    .description = Some websites change their colors to match your preferences. Choose your color scheme.
+preferences-web-appearance-choice-auto3 =
+    .label = Sistema
+    .title = Cambia automaticamente i colori dello sfondo e dei contenuti dei siti in base alle impostazioni del sistema e del tema di { -brand-short-name }.
 appearance-group =
     .label = Aspetto dei siti web
     .description = Alcuni siti web possono adattare il proprio schema di colori in base alle preferenze del visitatore. Scegli lo schema di colori da seguire per questi siti.
@@ -1042,6 +1050,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Orologio
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Sostieni { -brand-product-name }
@@ -2161,6 +2172,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permessi
     .description = Gestisci a cosa possono accedere, cosa possono controllare o attivare i siti web.
+permissions-data-section =
+    .heading = Permessi e dati
+pane-permissions-data-title = Permessi e dati
 
 ## Privacy Section - Data Collection
 
@@ -2491,6 +2505,22 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Download
 choose-download-folder-title = Selezionare la cartella di download:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Aspetto
+browser-theme-group =
+    .label = Tema del browser
+    .description = Personalizza { -brand-short-name } come preferisci. I colori del tema si applicano a barre degli strumenti, menu e messaggi.
+browser-theme-manage-link =
+    .label = Gestisci i temi di { -brand-short-name }
+related-settings-group =
+    .label = Impostazioni correlate
+related-settings-accessibility-link =
+    .label = Personalizza le impostazioni di zoom e caratteri nel pannello Accessibilità
+related-settings-home-link =
+    .label = Personalizza { -firefox-home-brand-name }
 
 ## AI controls page
 

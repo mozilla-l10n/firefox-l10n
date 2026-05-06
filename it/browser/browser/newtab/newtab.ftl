@@ -371,6 +371,8 @@ newtab-custom-widget-timer-toggle =
     .label = Timer
 newtab-custom-widget-sports-toggle =
     .label = Coppa del mondo
+newtab-custom-widget-clock-toggle =
+    .label = Orologio
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
@@ -961,3 +963,34 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Questo spazio segue le tue regole
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ti consente di navigare come preferisci, offrendoti un modo più personale per iniziare la tua giornata online. Rendi { -brand-product-name } davvero tuo.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Nascondi orologio
+newtab-clock-widget-menu-learn-more = Ulteriori informazioni
+# Scaffolded strings for upcoming edit/add-clocks flows (not yet shown in the
+# UI — landed early so translation can begin before the edit patch ships).
+newtab-clock-widget-menu-edit = Modifica gli orologi
+newtab-clock-widget-menu-switch-to-12h = Passa al formato 12 ore
+newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 ore
+newtab-clock-widget-label-your-clocks = I tuoi orologi
+newtab-clock-widget-label-search-location = Cerca località
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Aggiungi nuovo orologio
+    .aria-label = Aggiungi nuovo orologio
+newtab-clock-widget-button-cancel = Annulla
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Apri il menu per l’orologio
+    .aria-label = Apri il menu per l’orologio
+# "Nickname" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-label-nickname =
+    .label = Nome
