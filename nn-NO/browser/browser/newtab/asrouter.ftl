@@ -416,6 +416,7 @@ windows-10-eos-feature-toast-dismiss-button = Ignorer
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft støttar ikkje lenger Windows 10.</strong> Sikringskopier informasjonen din for å gjere { -brand-product-name } klar for Windows 11.
 windows-10-eos-global-infobar-primary-button = Slå på sikkerheitskopiering
     .accesskey = S
 windows-10-eos-global-infobar-learn-more-link = Les meir

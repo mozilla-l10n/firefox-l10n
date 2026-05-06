@@ -52,10 +52,13 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Gratis e-post, kalender og kontaktar — organisert på din måte.
 more-from-moz-thunderbird-button = Få { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
+more-from-moz-new-products-title = { -vendor-short-name } nye produkt
+more-from-moz-new-products-description = Oppdag dei nyaste produkta frå { -vendor-short-name }.
 more-from-moz-new-products-button = Sjå nye produkt
 
 ## Product card strings for the config-based path. Each entry provides both
@@ -80,7 +83,7 @@ more-from-moz-solo-card =
     .label = { -solo-ai-brand-name }
     .description = Utforsk dei nyaste ideane og eksperimentelle teknologiane våre.
 more-from-moz-new-products-card =
-    .label = { -vendor-short-name } nye produkter
+    .label = { -vendor-short-name } nye produkt
     .description = Oppdag dei nyaste produkta frå { -vendor-short-name }..
 more-from-moz-mozilla-monitor-box-link =
     .label = Få { -monitor-brand-short-name }
