@@ -210,7 +210,7 @@ newtab-label-download = ჩამოტვირთული
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } · დამკვეთის
+newtab-label-sponsored = { $sponsorOrSource } · დამკვეთი
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
@@ -499,7 +499,7 @@ newtab-weather-see-forecast =
     .title = ამინდს გთავაზობთ { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-sponsored = { $provider } ∙ დამკვეთის
+newtab-weather-sponsored = { $provider } ∙ დამკვეთი
 newtab-weather-menu-change-location = მდებარეობის შეცვლა
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = მდებარეობის მოძიება
@@ -548,7 +548,7 @@ newtab-weather-low =
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
     .title = ამინდს გთავაზობთ { $provider }
-    .aria-description = { $provider } ∙ დამკვეთის
+    .aria-description = { $provider } ∙ დამკვეთი
 
 ## Topic Labels
 
@@ -845,7 +845,12 @@ newtab-promo-card-dismiss-button =
 
 ## Sports widget
 
-newtab-sports-widget-get-updates = იხილეთ მიმდინარე შეხვედრების სიახლეები და სხვ.
+newtab-sports-widget-menu-follow-teams = გუნდის მიყოლა
+newtab-sports-widget-get-updates = მიმდინარე შეხვედრების სიახლეები და სხვ.
+newtab-sports-widget-view-schedule =
+    .label = განრიგის ნახვა
+newtab-sports-widget-follow-teams =
+    .label = გუნდის მიყოლა
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
