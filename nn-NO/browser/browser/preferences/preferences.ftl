@@ -693,6 +693,8 @@ update-application-version = Versjon { $version } <a data-l10n-name="learn-more"
 update-history-2 =
     .label = Vis oppdateringshistorikk
     .accesskey = p
+update-application-installation =
+    .label = Installasjon
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
@@ -700,6 +702,9 @@ update-application-allow-description = Tillat { -brand-short-name } å
 update-application-auto =
     .label = Installer oppdateringar automatisk (tilrådd)
     .accesskey = a
+update-application-check-choose-2 =
+    .label = Sjå etter oppdateringar, men vel når du vil installere dei
+    .accesskey = S
 update-application-check-choose =
     .label = Sjå etter oppdateringar, men la meg velje om eg vil installere dei
     .accesskey = S
@@ -711,6 +716,9 @@ update-application-background-enabled =
     .accesskey = N
 update-application-warning-cross-user-setting-2 =
     .message = Denne innstillinga gjeld for alle Windows-kontoar og { -brand-short-name }-profilar som brukar denne installasjonen av { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Vis færre oppdateringspåminningar
+    .accesskey = n
 update-application-warning-cross-user-setting = Denne innstillinga gjeld for alle Windows-kontoar og { -brand-short-name }-profilar som brukar denne installasjonen av { -brand-short-name }.
 update-application-use-service =
     .label = Bruk ei bakgrunnsteneste for å installere oppdateringar
@@ -788,6 +796,8 @@ browsing-use-autoscroll =
     .accesskey = B
 keyboard-and-scrolling-group =
     .label = Tastaturnavigasjon og rulling
+motion-and-link-group =
+    .label = Rørsle og lenkestil
 browsing-use-smooth-scrolling =
     .label = Bruk jamn rulling
     .accesskey = u
@@ -1039,6 +1049,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Vel eit bakgrunnsbilde
 home-prefs-choose-wallpaper-link2 =
     .label = Vel eit bakgrunnsbilde
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = For å bruke desse funksjonane må du stille inn nye faner eller nye vindauge til { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1566,6 +1581,14 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Les meir
 forms-windows-sso-desc = Handsam konton i einingsinnstillingane dine
 windows-passkey-settings-label = Handsam passnøkkel i systeminnstillingane
+
+## Privacy Panel Settings
+
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Vis meldingar om datalekkasjar
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2442,6 +2465,8 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Tilkoplings- og programvaresikkerheit
 preferences-connection-link-button =
     .label = Avanserte innstillingar
 

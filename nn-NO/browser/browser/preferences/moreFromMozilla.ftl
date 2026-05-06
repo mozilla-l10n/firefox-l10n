@@ -14,6 +14,9 @@ more-from-moz-subtitle = Sjekk ut andre { -vendor-short-name }-produkt som arbei
 more-from-moz-firefox-mobile-title = { -brand-product-name } for mobil
 more-from-moz-firefox-mobile-description = Mobilnettlesaren som set personvernet ditt først.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } for mobil
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } for mobil
+    .description = Mobilnettlesaren som set personvernet ditt først.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Oppdag eit nytt lag med anonym surfing og vern.
 more-from-moz-qr-code-box-firefox-mobile-title = Last ned med mobileininga di. Peik kameraet mot QR-koden. Når ei lenke kjem til syne, trykkjer du på henne.
@@ -60,6 +63,13 @@ more-from-moz-thunderbird-button = Få { -thunderbird-brand-short-name }
 more-from-moz-new-products-title = { -vendor-short-name } nye produkt
 more-from-moz-new-products-description = Oppdag dei nyaste produkta frå { -vendor-short-name }.
 more-from-moz-new-products-button = Sjå nye produkt
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Skann med kameraet til telefonen eller nettbrettet for å laste ned appen. Trykk på lenka når ho blir vist.
+more-from-moz-firefox-mobile-email-link = Send nedlastingslenka til telefonen din via e-post
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
