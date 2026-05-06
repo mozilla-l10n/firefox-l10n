@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Ikkje vis igjen
     .accesskey = k
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Du har ein nyleg krasjrapport som ikkje er send
+       *[other] Du har { $reportCount } nylege krasjrapportar som ikkje er sende
+    }

@@ -168,6 +168,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Změní, jestli můžete ze serveru přijímat oznámení
 urlbar-midi-notification-anchor =
     .tooltiptext = Otevřít MIDI panel
+urlbar-serial-notification-anchor =
+    .tooltiptext = Otevřít panel Sériové porty
 urlbar-eme-notification-anchor =
     .tooltiptext = Správa využívání softwaru DRM
 urlbar-web-authn-anchor =
@@ -310,6 +312,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali přístup k informacím canvasu.
 urlbar-midi-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali přístup k MIDI zařízením.
+urlbar-serial-blocked =
+    .tooltiptext = Zablokovali jste přístup k sériovému portu pro tuto webovou stránku.
 urlbar-install-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali instalaci doplňků.
 # Variables
@@ -1954,6 +1958,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Tyto weby se pokouší o těžbu kryptoměn:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Máte účet na této stránce?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } zjistil, že na této stránce došlo v posledních 12 měsících k úniku dat. Zjistěte, zda se vás to týká.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Zavřít
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Spustit bezplatné skenování
 trustpanel-blocker-section-header2 =
