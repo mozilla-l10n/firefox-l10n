@@ -113,6 +113,10 @@ fp-learn-more-about-time-related-errors = Eikuaave mba’éichapa emoĩporãta j
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = { $hostname } jára nombohekói hekopete ha upévare ndaikatúi omoheñói peteĩ jeikerã hekorosãva.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Embohekopyahu ne mohendaha aravopapaha apopyvusu aravo mbohekohápe, ára ha aravo tendaguápe. Upe mohendaha oimo’ã ha’eha { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
