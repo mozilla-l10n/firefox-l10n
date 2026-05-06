@@ -67,10 +67,10 @@ unauthenticated-bandwidth-limit-message = გამოიყენეთ { $maxU
 unauthenticated-get-started = დაიწყეთ
 unauthenticated-terms-of-service-privacy-notice = თუ განაგრძობთ, თქვენ ეთანხმებით <a data-l10n-name="vpn-terms-of-service">მომსახურების პირობებსა</a> და <a data-l10n-name="vpn-privacy-notice">პირადი მონაცემების დაცვის განაცხადს</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = გამოიყენოს VPN ამ საიტზე
+    .label = გამოიყენებოდეს VPN ამ საიტზე
     .aria-label = VPN ჩართულია ამ საიტზე
 site-exclusion-toggle-disabled-1 =
-    .label = გამოიყენოს VPN ამ საიტზე
+    .label = გამოიყენებოდეს VPN ამ საიტზე
     .aria-label = VPN გამორთულია ამ საიტზე
 site-exclusion-toggle-description = საიტი არ მუშაობს? დროებით გამორთეთ VPN.
 ipprotection-settings-link =
