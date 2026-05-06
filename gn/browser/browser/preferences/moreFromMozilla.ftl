@@ -67,6 +67,8 @@ more-from-moz-new-products-button = Ehecha apopyre pyahu
 ## These strings are for the config-based (SRD) moreFromMozilla page using
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Emoha’ãnga ne pumbyry térã tabléta guive ereko hag̃ua tembiporu’i. Eikutu juajuha osẽ vove.
 more-from-moz-firefox-mobile-email-link = Emondo juajuha mboguejyrã ñanduti veve rupi ne pumbyrýpe
 
 ## Product card strings for the config-based path. Each entry provides both
@@ -75,6 +77,9 @@ more-from-moz-firefox-mobile-email-link = Emondo juajuha mboguejyrã ñanduti ve
 more-from-moz-mozilla-monitor-card =
     .label = { -mozmonitor-brand-name }
     .description = Eikuaa moõpa ojekuaa ne maranduete ñandutípe ñemoha’ãnga reigua rupi.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Ereko ñemo’ã opaite tembiporu’ípe g̃uarã, ani ne mohendahápe año. Ereko mba’ekuaarã tekorosãme Wi-Fi ha ñanduti hekorosã’ỹvape.
 more-from-moz-firefox-relay-card =
     .label = { -relay-brand-name }
     .description = Emo’ã ne ñe’ẽmondo g̃uahẽha spam-gui ñanduti veve rovamo’ãha reigua rupi.
