@@ -210,7 +210,7 @@ newtab-label-download = ჩამოტვირთული
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } · დაკვეთილი
+newtab-label-sponsored = { $sponsorOrSource } · დამკვეთის
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
@@ -499,7 +499,7 @@ newtab-weather-see-forecast =
     .title = ამინდს გთავაზობთ { $provider }
 # Variables:
 #   $provider (string) - Service provider for weather data
-newtab-weather-sponsored = { $provider } ∙ დაკვეთილი
+newtab-weather-sponsored = { $provider } ∙ დამკვეთის
 newtab-weather-menu-change-location = მდებარეობის შეცვლა
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = მდებარეობის მოძიება
@@ -548,7 +548,7 @@ newtab-weather-low =
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
     .title = ამინდს გთავაზობთ { $provider }
-    .aria-description = { $provider } ∙ დაკვეთილი
+    .aria-description = { $provider } ∙ დამკვეთის
 
 ## Topic Labels
 
