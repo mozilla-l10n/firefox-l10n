@@ -887,6 +887,21 @@ newtab-sports-widget-menu-view-upcoming = Vis komande
 newtab-sports-widget-menu-view-results = Vis resultat
 newtab-sports-widget-menu-learn-more = Les meir
 newtab-sports-widget-countdown-title = Nedteljing til VM
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = T
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Få direkte kampoppdateringar og meir.
 newtab-sports-widget-view-schedule =
     .label = Sjå kampoppsettet
@@ -903,6 +918,9 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-group-stage = Gruppespel
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = DIREKTE
+newtab-custom-widget-live-refresh =
+    .title = Oppdater poeng
+    .aria-label = Oppdater poeng
 newtab-sports-widget-upcoming = Komande
 newtab-sports-widget-results = Resultat
 newtab-sports-widget-semi-finals = Semifinalar
