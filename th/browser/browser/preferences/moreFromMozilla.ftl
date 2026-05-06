@@ -19,10 +19,10 @@ more-from-moz-firefox-mobile =
     .description = เบราว์เซอร์มือถือที่ให้ความสำคัญกับความเป็นส่วนตัวของคุณเป็นอันดับแรก
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = ค้นพบการเรียกดูและการป้องกันแบบไม่ระบุชื่อที่สูงขึ้นไปอีกขั้น
-more-from-moz-qr-code-box-firefox-mobile-title = ดาวน์โหลดโดยใช้อุปกรณ์มือถือของคุณ ชี้กล้องของคุณไปที่รหัส QR เมื่อลิงก์ปรากฏขึ้น ให้แตะที่ลิงก์นั้น
+more-from-moz-qr-code-box-firefox-mobile-title = ดาวน์โหลดโดยใช้อุปกรณ์มือถือของคุณ ชี้กล้องของคุณไปที่คิวอาร์โค้ดเมื่อลิงก์ปรากฏขึ้น ให้แตะที่ลิงก์นั้น
 more-from-moz-qr-code-box-firefox-mobile-button = ส่งอีเมลไปยังโทรศัพท์ของคุณแทน
 more-from-moz-qr-code-firefox-mobile-img =
-    .alt = รหัส QR สำหรับดาวน์โหลด { -brand-product-name } รุ่นมือถือ
+    .alt = คิวอาร์โค้ดสำหรับดาวน์โหลด { -brand-product-name } รุ่นมือถือ
 more-from-moz-button-mozilla-vpn-2 = รับ VPN
 more-from-moz-learn-more-link = เรียนรู้เพิ่มเติม
 

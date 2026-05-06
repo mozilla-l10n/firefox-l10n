@@ -850,6 +850,48 @@ newtab-promo-card-dismiss-button =
     .title = Sluiten
     .aria-label = Sluiten
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes }-minuut-timer starten
+           *[other] { $minutes }-minuten-timer starten
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Timer pauzeren
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuut
+           *[other] { $minutes } minuten
+        }
+newtab-widget-timer-decrease-min =
+    .title = Met 1 minuut verminderen
+newtab-widget-timer-increase-min =
+    .title = Met 1 minuut verlengen
+newtab-widget-timer-mode-group =
+    .aria-label = Timermodus
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Focus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pauze
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Timer verbergen
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Goed werk
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Uw pauze is voorbij
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Pauze nodig?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Klaar om te focussen?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Teams volgen
@@ -857,7 +899,24 @@ newtab-sports-widget-menu-view-upcoming = Volgende tonen
 newtab-sports-widget-menu-view-results = Resultaten bekijken
 newtab-sports-widget-menu-learn-more = Meer info
 newtab-sports-widget-countdown-title = Aftellen naar het WK
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = U
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Ontvang live wedstrijdupdates en meer.
+newtab-sports-widget-view-schedule =
+    .label = Tijdschema bekijken
 newtab-sports-widget-follow-teams =
     .label = Teams volgen
 newtab-sports-widget-choose-wallpaper =
@@ -888,6 +947,8 @@ newtab-sports-widget-information = Informatie over de wedstrijd
 newtab-sports-widget-no-live-data = Livewedstrijdgegevens worden momenteel niet bijgewerkt
 newtab-sports-widget-view-results-link = Resultaten bekijken
 newtab-sports-widget-third-place = Derde plaats
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Tweede plaats
 newtab-sports-widget-champions = Kampioen
 newtab-sports-widget-world-cup-champions = Wereldkampioen 2026
 

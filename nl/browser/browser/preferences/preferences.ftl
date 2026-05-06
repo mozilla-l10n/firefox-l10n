@@ -68,6 +68,8 @@ category-sync3 =
 pane-ai-controls-title = AI-bedieningselementen
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Over { -brand-short-name }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Toegankelijkheid
     .title = { pane-accessibility-title }
 pane-languages-title = Talen
@@ -703,6 +705,9 @@ update-application-allow-description = { -brand-short-name } mag
 update-application-auto =
     .label = Updates automatisch installeren (aanbevolen)
     .accesskey = U
+update-application-check-choose-2 =
+    .label = Controleren op updates, maar kiezen wanneer u wilt installeren
+    .accesskey = C
 update-application-check-choose =
     .label = Controleren op updates, maar u laten kiezen of u deze wilt installeren
     .accesskey = C
@@ -714,6 +719,9 @@ update-application-background-enabled =
     .accesskey = A
 update-application-warning-cross-user-setting-2 =
     .message = Deze instelling is van toepassing op alle Windows-accounts en { -brand-short-name }-profielen die deze installatie van { -brand-short-name } gebruiken.
+update-application-suppress-prompts-2 =
+    .label = Minder updateherinneringen tonen
+    .accesskey = n
 update-application-warning-cross-user-setting = Deze instelling is van toepassing op alle Windows-accounts en { -brand-short-name }-profielen die deze installatie van { -brand-short-name } gebruiken.
 update-application-use-service =
     .label = Een achtergrondservice gebruiken om updates te installeren
@@ -736,6 +744,11 @@ update-in-progress-ok-button = &Verwerpen
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Doorgaan
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Over { -brand-short-name }
 
 ## Firefox updates
 
