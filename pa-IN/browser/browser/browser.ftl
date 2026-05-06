@@ -1455,6 +1455,7 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰੋ
     .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰੋ
+reset-pbm-panel-heading2 = ਡਾਟਾ ਮਿਟਾ ਕੇ ਨਵਾਂ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰਨਾ ਹੈ?
 reset-pbm-panel-heading = ਆਪਣੇ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਸਮਾਪਤ ਕਰਨਾ ਹੈ?
 reset-pbm-panel-description = ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਬੰਦ ਕਰੋ ਅਤੇ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਹੋਰ ਸਾਈਟ ਡਾਟਾ ਹਟਾ ਦਿਓ।
 reset-pbm-panel-always-ask-checkbox =
@@ -1463,6 +1464,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਓ
+    .accesskey = I
 reset-pbm-panel-confirm-button =
     .label = ਸ਼ੈਸ਼ਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
     .accesskey = D
@@ -1708,8 +1712,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } ਨੇ { $count } ਕ੍ਰਿਪਟਮਾਈਨਰਾਂ ਨੂੰ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ
     }
 trustpanel-cryptominer-tab-list-header = ਇਹ ਸਾਈਟਾਂ ਕ੍ਰਿਪਟੋ-ਮਾਈਨ ਕਰਨ ਦੀਆਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੀਆਂ ਹਨ:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ਇਸ ਸਾਈਟ ਲਈ ਖਾਤਾ ਹੈ?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = ਖਾਰਜ ਕਰੋ
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] ਇਸ ਸਾਈਟ ਉੱਤੇ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ
        *[other] ਇਸ ਸਾਈਟ ਉੱਤੇ <span data-l10n-name="count">{ $count }</span> ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = ਮੁੜ-ਲੋਡ ਕਰੋ
+    .accesskey = R
+reduced-protection-infobar-never-show-button = ਮੁੜ ਨਾ ਵੇਖਾਓ
+    .accesskey = D
