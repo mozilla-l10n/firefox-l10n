@@ -423,6 +423,10 @@ quickactions-logins2 = Кіраванне паролямі
 quickactions-cmd-logins = лагіны, паролі
 # Mutes all tabs playing audio
 quickactions-mute = Адключыць гук укладак, якія прайграваюць аўдыё
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = ціха, цішыня, шшшш
 # Opens about:addons page in the plugins section
 quickactions-plugins = Кіраваць плагінамі
 quickactions-cmd-plugins = плагіны
@@ -552,6 +556,7 @@ identity-verifier-label = Пацверджана:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Кваліфікаваны, як пазначана ў Рэгламенце (ЕС) 2024/1183.
 identity-description-custom-root2 = Mozilla не прызнае гэтага выдаўца сертыфікатаў. Магчыма, ён дададзены з вашай аперацыйнай сістэмы ці адміністратарам.
+identity-cert-exception-overridden = Вы дадалі выключэнне бяспекі для гэтага сайта.
 identity-remove-cert-exception =
     .label = Выдаліць выключэнне
     .accesskey = В
@@ -1761,10 +1766,19 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Гэтыя сайты спрабуюць здабываць крыптавалюту:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Маеце ўліковы запіс на гэтым сайце?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } выявіў, што на гэтым сайце за апошнія 12 месяцаў адбылася ўцечка дадзеных. Даведайцеся, ці пацярпелі вы.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Адхіліць
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Пачаць бясплатнае сканаванне
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> трэкер заблакаваны на гэтым сайце
         [few] <span data-l10n-name="count">{ $count }</span> трэкеры заблакаваны на гэтым сайце
        *[many] <span data-l10n-name="count">{ $count }</span> трэкераў заблакавана на гэтым сайце
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Сайт выглядае няспраўным?</strong> Абнавіце старонку, каб часова паменшыць ахову ад сачэння.
+reduced-protection-infobar-reload-button = Абнавіць
+    .accesskey = н
