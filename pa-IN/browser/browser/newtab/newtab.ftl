@@ -945,7 +945,10 @@ newtab-sports-widget-information = ਮੈਚ ਬਾਰੇ ਜਾਣਕਾਰੀ
 newtab-sports-widget-no-live-data = ਲਾਈਵ ਮੈਚ ਡਾਟਾ ਇਸ ਵੇਲੇ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋ ਰਿਹਾ ਹੈ
 newtab-sports-widget-view-results-link = ਨਤੀਜੇ ਵੇਖੋ
 newtab-sports-widget-third-place = ਤੀਜੀ ਥਾਂ
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = ਦੂਜੇ ਨੰਬਰ ਉੱਤੇ
 newtab-sports-widget-champions = ਚੈਂਪੀਅਨ
+newtab-sports-widget-world-cup-champions = 2026 ਵਰਲਡ ਕੱਪ ਚੈਪੀਅਨ
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
