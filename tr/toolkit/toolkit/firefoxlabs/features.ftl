@@ -77,7 +77,7 @@ experimental-features-newtab-widget-timer-new =
 experimental-features-newtab-widget-timer-description = Odaklanmak, işinizi vaktinde tamamlamak ve mola vermeyi de unutmamak için sayaç ayarlayın. <a data-l10n-name="connect">Görüş bildirin</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
-    .label = { -firefox-home-brand-name } listeleri ve sayacı
+    .label = { -firefox-home-brand-name } sayfasında listeler ve sayaç
 experimental-features-newtab-widget-lists-and-timer-description = Yapılacaklar listeniz her yeni sekmede gözünüzün önünde olsun. İster alışveriş listenizi, ister valizinize koyacaklarınızın listesini, isterseniz de her türlü planı { -brand-product-name } ile yapın. Odaklanmak, işinizi vaktinde tamamlamak ve mola vermeyi de unutmamak için sayaç ayarlayın. <a data-l10n-name="connect">Görüş bildirin</a>
 # Weather Widget
 experimental-features-newtab-widget-weather =
