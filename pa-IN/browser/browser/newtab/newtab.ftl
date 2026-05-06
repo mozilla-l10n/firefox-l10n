@@ -534,6 +534,7 @@ newtab-weather-opt-in-not-now =
     .label = ਹੁਣੇ ਨਹੀਂ
 newtab-weather-opt-in-yes =
     .label = ਹਾਂ
+newtab-weather-opt-in-headline = ਆਪਣੀ ਲੋਕਲ ਮੌਸਮੀ ਭਵਿੱਖਬਾਣੀ ਲਵੋ
 newtab-weather-opt-in-use-location =
     .label = ਟਿਕਾਣੇ ਨੂੰ ਵਰਤੋਂ
 newtab-weather-opt-in-choose-location = ਟਿਕਾਣੇ ਨੂੰ ਚੁਣੋ
@@ -629,6 +630,10 @@ newtab-section-unfollow-topic =
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic =
     .aria-label = { $topic } ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = { $topic } ਤੋਂ ਪਾਬੰਦੀ ਹਟਾਓ
 
 ## Confirmation modal for blocking a section
 
@@ -662,6 +667,8 @@ newtab-new-user-custom-wallpaper-cta = ਹੁਣੇ ਅਜ਼ਮਾਓ
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = ਤਾਜ਼ਾ ਨਵੇਂ ਵਾਲਪੇਪਰ ਨਵੇਂ ਆਏ ਹਨ
+newtab-wallpaper-feature-highlight-subtitle = ਆਪਣੇ ਪਸੰਦੀਦਾ ਨੂੰ ਚੁਣੋ ਅਤੇ ਹਰ ਟੈਮ ਨੂੰ ਆਪਣੇ ਮੁਤਾਬਕ ਬਣਾਓ।
 newtab-wallpaper-feature-highlight-cta = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
 
 ## Strings for download mobile highlight
@@ -938,6 +945,7 @@ newtab-sports-widget-information = ਮੈਚ ਬਾਰੇ ਜਾਣਕਾਰੀ
 newtab-sports-widget-no-live-data = ਲਾਈਵ ਮੈਚ ਡਾਟਾ ਇਸ ਵੇਲੇ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋ ਰਿਹਾ ਹੈ
 newtab-sports-widget-view-results-link = ਨਤੀਜੇ ਵੇਖੋ
 newtab-sports-widget-third-place = ਤੀਜੀ ਥਾਂ
+newtab-sports-widget-champions = ਚੈਂਪੀਅਨ
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
