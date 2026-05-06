@@ -473,6 +473,9 @@ browser-language-heading =
     .description = Eiporavo ñe’ẽ ojeporútava ojehechauka hag̃ua poravorã, ñe’ẽmondo ha momarandu { -brand-short-name } rehegua.
 browser-language-preferred-label =
     .label = Ñe’ẽ ojeporuvéva
+browser-language-fallback-label =
+    .label = Ñe’ẽ jopyrurã
+    .description = Ojepuru upe ñemoñe’ẽasa ojeporuvéva noĩmbáiramo.
 browser-language-install-error =
     .message = { -brand-short-name } ndaikatúi ombohekopyahu ne ñe’ẽnguéra ko’ág̃a. Ehechajey eikekuaápa ñandutípe térã eha’ã jey.
 translate-web-pages =
@@ -1051,6 +1054,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Eiporavo mba’erechaha rugua
 home-prefs-choose-wallpaper-link2 =
     .label = Eiporavo mba’erechaha rugua
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Eiporu hag̃ua ko’ã tembiapoite, emboheko tendayke térã ovetã pyahu { -firefox-home-brand-name } ndive.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

@@ -1782,3 +1782,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Сайт выглядае няспраўным?</strong> Абнавіце старонку, каб часова паменшыць ахову ад сачэння.
 reduced-protection-infobar-reload-button = Абнавіць
     .accesskey = н
+reduced-protection-infobar-never-show-button = Больш не паказваць
+    .accesskey = в
