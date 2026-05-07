@@ -27,10 +27,13 @@ ipprotection-feature-introduction-title = Енді браузеріңіздің 
 ipprotection-feature-introduction-link-text-2 = Орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Жекеліктің тағы бір деңгейін қосыңыз
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> шолуыңызды қорғауға көмектеседі. Шолу орнын құпиялырақ сақтау үшін 5 орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-description-private-browsing = Жекелік терезесінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Жалпыға ортақ Wi-Fi желісіндесіз бе? { -brand-product-name } құрамындағы VPN қызметін қолданып көріңіз.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Шолу орнын жасыру үшін 5 орналасудың бірін таңдау арқылы <a data-l10n-name="learn-more-vpn">қосымша жекелікке</a> қол жеткізіңіз.
 ipprotection-feature-introduction-description-captive-portal = Қоғамдық Wi-Fi желісінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 ipprotection-feature-introduction-button-primary = Келесі
 ipprotection-feature-introduction-button-secondary-not-now = Қазір емес
