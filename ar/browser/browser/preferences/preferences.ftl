@@ -575,6 +575,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = الملفات و التطبيقات
+download-save-files-header =
+    .label = احفظ الملفّات في
+download-save-where-3 =
+    .aria-label = احفظ الملفّات في
 downloads-header-2 =
     .label = التّنزيلات
 download-save-where-2 =
@@ -2493,6 +2497,9 @@ preferences-connection-link-button =
 desktop-folder-name = سطح المكتب
 downloads-folder-name = التّنزيلات
 choose-download-folder-title = اختر مجلّد التّنزيلات:
+
+## Appearance page
+
 
 ## AI controls page
 
