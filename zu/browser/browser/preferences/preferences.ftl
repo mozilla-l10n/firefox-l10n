@@ -72,6 +72,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Gcina amafayela ku
+download-save-where-3 =
+    .aria-label = Gcina amafayela ku
 downloads-header-2 =
     .label = Okulayishiwe kwangeniswa
 download-save-where-2 =
@@ -145,11 +149,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva
     .accesskey = y
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -160,7 +170,7 @@ performance-allow-hw-accel =
     .label = Sebenzisa ukusheshisa kwehadiwe uma kukhona
     .accesskey = h
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Ukudlulisa amehlo
 browsing-use-autoscroll =
@@ -174,6 +184,9 @@ browsing-use-cursor-navigation =
     .accesskey = z
 browsing-group =
     .label = Ukudlulisa amehlo
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -286,7 +299,7 @@ sync-engine-history =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Okuhlukile…
@@ -295,6 +308,9 @@ forms-master-pw-change =
     .label = Shintsha iphasiwedi yokungena ephethe…
     .accesskey = e
 forms-master-pw-fips-desc = Ukushintsha Igama Lokungena Kuhlulekile
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -387,11 +403,17 @@ certs-devices-enable-fips = Yenza kusebenze i-FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Okukuskrini
 downloads-folder-name = Okwami Ukwaziswa Okuthathwe Kwafakwa
 choose-download-folder-title = Khetha Ifolda Ozothatha Ukwaziswa Ukufake Kuyo:
+
+## Appearance page
+
 
 ## AI controls page
 
