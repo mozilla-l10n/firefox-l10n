@@ -26,3 +26,4 @@ content-sharing-modal-sign-in =
     .label = Accedi per condividere link
 content-sharing-modal-title = Condividi questa raccolta di link con qualsiasi browser
 content-sharing-modal-description = Crea una pagina pubblica per questi link, facile da condividere. Dopo la creazione, la pagina non potrà più essere modificata o eliminata e scadrà dopo 7 giorni.
+
