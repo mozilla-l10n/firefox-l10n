@@ -550,6 +550,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fitxers i aplicacions
+download-save-files-header =
+    .label = Desa els fitxers a
+download-save-where-3 =
+    .aria-label = Desa els fitxers a
 downloads-header-2 =
     .label = Baixades
 download-save-where-2 =
@@ -718,6 +722,12 @@ update-in-progress-ok-button = &Descarta
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continua
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -799,6 +809,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Més informació
 browsing-group =
     .label = Navegació
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1499,6 +1512,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Més informació
 forms-windows-sso-desc = Gestioneu els comptes en els paràmetres del dispositiu
 windows-passkey-settings-label = Gestiona les claus d'accés en els paràmetres del sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2289,11 +2305,17 @@ preferences-doh-manage-exceptions =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escriptori
 downloads-folder-name = Baixades
 choose-download-folder-title = Tria la carpeta de baixades:
+
+## Appearance page
+
 
 ## AI controls page
 
@@ -2327,3 +2349,9 @@ issue-card-reset-button =
 issue-card-dismiss-button =
     .tooltiptext = Descarta
     .aria-label = Descarta
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
