@@ -572,6 +572,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fișiere și aplicații
+download-save-files-header =
+    .label = Salvează fișierele în
+download-save-where-3 =
+    .aria-label = Salvează fișierele în
 downloads-header-2 =
     .label = Descărcări
 download-save-where-2 =
@@ -2495,6 +2499,9 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Descărcări
 choose-download-folder-title = Alege dosarul de descărcare:
+
+## Appearance page
+
 
 ## AI controls page
 
