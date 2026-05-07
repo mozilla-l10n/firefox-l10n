@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dateien und Anwendungen
+download-save-files-header =
+    .label = Alle Dateien in folgendem Ordner abspeichern:
+download-save-where-3 =
+    .aria-label = Alle Dateien in folgendem Ordner abspeichern:
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Download-Ordner wählen:
+
+## Appearance page
+
 
 ## AI controls page
 
