@@ -318,6 +318,14 @@ tab-group-editor-action-new-tab =
     .label = Топтағы жаңа бет
 tab-group-editor-action-new-window =
     .label = Топты жаңа терезеге жылжыту
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Топтағы сілтемені көшіру
+           *[other] Copy { $linkCount } links in group
+        }
 tab-group-editor-action-save =
     .label = Сақтау және топты жабу
 tab-group-editor-action-ungroup =

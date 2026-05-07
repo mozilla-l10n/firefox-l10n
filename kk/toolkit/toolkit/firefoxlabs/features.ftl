@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Шолуыңызды баптаңыз
 experimental-features-group-productivity =
     .label = Өнімділік
+experimental-features-group-newtab-widgets =
+    .label = { -firefox-home-brand-name } ішіндегі виджеттер
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Бүйір панеліндегі парольдер
@@ -80,6 +82,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Жаңа бе�
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Ауа райы болжамдары
+experimental-features-newtab-widget-weather-description = Бүгінгі ауа райын сағаттық болжамдармен анық көріңіз. <a data-l10n-name="connect">Пікір қалдыру</a>
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Осы күннің суреті

@@ -369,6 +369,8 @@ newtab-custom-widget-timer-toggle =
     .label = Αντίστροφη μέτρηση
 newtab-custom-widget-sports-toggle =
     .label = Παγκόσμιο Κύπελλο
+newtab-custom-widget-clock-toggle =
+    .label = Ρολόι
 newtab-custom-widget-section-title = Γραφικά στοιχεία
 newtab-custom-widget-section-toggle =
     .label = Γραφικά στοιχεία
@@ -897,29 +899,55 @@ newtab-widget-timer-celebration-message-break = Έτοιμοι για συγκέ
 newtab-sports-widget-menu-follow-teams = Παρακολούθηση ομάδων
 newtab-sports-widget-menu-view-upcoming = Προβολή επερχόμενων
 newtab-sports-widget-menu-view-results = Προβολή αποτελεσμάτων
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Σημαντικές ημερομηνίες
 newtab-sports-widget-menu-learn-more = Μάθετε περισσότερα
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Παρακολουθήστε το Παγκόσμιο Κύπελλο
 newtab-sports-widget-get-updates = Λάβετε ενημερώσεις αγώνων σε πραγματικό χρόνο και πολλά άλλα.
 newtab-sports-widget-view-schedule =
     .label = Προβολή προγράμματος
 newtab-sports-widget-follow-teams =
     .label = Παρακολούθηση ομάδων
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+       *[other] Ακολουθήστε έως και { $number } ομάδες
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Επιλογή ταπετσαρίας
 newtab-sports-widget-skip = Παράλειψη
+newtab-sports-widget-search-country =
+    .placeholder = Αναζήτηση χώρας
+    .aria-label = Αναζήτηση χώρας
+newtab-sports-widget-cancel = Ακύρωση
 newtab-sports-widget-done-button =
     .label = Τέλος
 newtab-sports-widget-group-stage = Φάση ομίλου
+newtab-sports-widget-round-32 = Φάση των 32
+newtab-sports-widget-round-16 = Φάση των 16
+newtab-sports-widget-quarter-finals = Προημιτελικοί
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ΖΩΝΤΑΝΑ
 newtab-custom-widget-live-refresh =
     .title = Ανανέωση βαθμολογιών
     .aria-label = Ανανέωση βαθμολογιών
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Σημαντικές ημερομηνίες
 newtab-sports-widget-upcoming = Επερχόμενοι
 newtab-sports-widget-results = Αποτελέσματα
 newtab-sports-widget-semi-finals = Ημιτελικοί
 newtab-sports-widget-bronze-finals = Αγώνας τρίτης θέσης
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Τελικός
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Καθυστέρησε
 newtab-sports-widget-postponed = Αναβλήθηκε
 newtab-sports-widget-suspended = Διακόπηκε
@@ -954,3 +982,51 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Αυτός ο χώρος ακολουθεί τους δικούς σας κανόνες
 newtab-activation-window-message-values-focus-message = Το { -brand-product-name } σάς επιτρέπει να περιηγείστε όπως σας αρέσει, με έναν πιο προσωπικό τρόπο για να ξεκινήσετε τη μέρα σας στο διαδίκτυο. Κάντε το { -brand-product-name } δικό σας.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Απόκρυψη ρολογιού
+newtab-clock-widget-menu-learn-more = Μάθετε περισσότερα
+newtab-clock-widget-menu-edit = Επεξεργασία ρολογιών
+newtab-clock-widget-menu-switch-to-12h = Εναλλαγή σε 12ωρη μορφή
+newtab-clock-widget-menu-switch-to-24h = Εναλλαγή σε 24ωρη μορφή
+newtab-clock-widget-label-your-clocks = Τα ρολόγια σας
+newtab-clock-widget-search-location-input =
+    .label = Τοποθεσία
+    .placeholder = Αναζήτηση πόλης
+    .aria-label = Αναζήτηση πόλης
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Ψευδώνυμο (προαιρετικό)
+    .placeholder = Προσθήκη ψευδώνυμου
+    .aria-label = Ψευδώνυμο (προαιρετικό)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Προσθήκη νέου ρολογιού
+    .aria-label = Προσθήκη νέου ρολογιού
+newtab-clock-widget-button-add-clock = Προσθήκη
+newtab-clock-widget-button-cancel = Ακύρωση
+newtab-clock-widget-button-back =
+    .title = Πίσω
+    .aria-label = Πίσω
+newtab-clock-widget-button-edit-clock =
+    .title = Επεξεργασία ρολογιού
+    .aria-label = Επεξεργασία ρολογιού
+newtab-clock-widget-button-save = Αποθήκευση
+newtab-clock-widget-button-remove-clock =
+    .title = Αφαίρεση ρολογιού
+    .aria-label = Αφαίρεση ρολογιού
+newtab-clock-widget-add-clock-form =
+    .aria-label = Προσθήκη ρολογιού
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Επεξεργασία ρολογιού
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Αποτελέσματα αναζήτησης

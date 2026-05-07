@@ -921,12 +921,21 @@ newtab-sports-widget-live = AL VIVO
 newtab-custom-widget-live-refresh =
     .title = Actualisar le scores
     .aria-label = Actualisar le scores
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Datas clave
 newtab-sports-widget-upcoming = Proximemente
 newtab-sports-widget-results = Resultatos
 newtab-sports-widget-semi-finals = Semi-finales
 newtab-sports-widget-bronze-finals = Final pro le medalia de bronzo
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Retardate
 newtab-sports-widget-postponed = Postponite
 newtab-sports-widget-suspended = Suspendite
@@ -961,3 +970,32 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Iste spatio seque tu regulas
 newtab-activation-window-message-values-focus-message = { -brand-product-name } te permitte de navigar per le maniera que te place, con un maniera plus personal de initiar tu die online. Rende tu proprie { -brand-product-name }.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Celar horologio
+newtab-clock-widget-menu-learn-more = Pro saper plus
+newtab-clock-widget-menu-edit = Modificar horologios
+newtab-clock-widget-search-location-input =
+    .label = Position
+    .placeholder = Cercar citate
+    .aria-label = Cercar citate
+newtab-clock-widget-button-add-clock = Adder
+newtab-clock-widget-button-cancel = Cancellar
+newtab-clock-widget-button-back =
+    .title = Retro
+    .aria-label = Retro
+newtab-clock-widget-button-edit-clock =
+    .title = Modificar horologio
+    .aria-label = Modificar horologio
+newtab-clock-widget-button-save = Salvar
+newtab-clock-widget-add-clock-form =
+    .aria-label = Adder horologio
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Modificar horologio
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Resultatos del recerca

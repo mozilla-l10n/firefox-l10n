@@ -2531,6 +2531,10 @@ preferences-appearance-header =
     .heading = Erscheinungsbild
 browser-theme-manage-link =
     .label = { -brand-short-name }-Themes verwalten
+related-settings-group =
+    .label = Verwandte Einstellungen
+related-settings-accessibility-link =
+    .label = Zoom- und Schriftart-Einstellungen in Barrierefreiheit anpassen
 related-settings-home-link =
     .label = { -firefox-home-brand-name } anpassen
 

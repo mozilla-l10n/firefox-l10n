@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = A proposito de { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Apparentia
+    .title = { pane-appearance-title }
+pane-downloads-title = Discargamentos
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Accessibilitate
     .title = { pane-accessibility-title }
 pane-languages-title = Linguas
@@ -1046,6 +1051,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sports
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Horologio
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Supporta { -brand-product-name }
@@ -2498,6 +2506,11 @@ preferences-connection-link-button =
 desktop-folder-name = Scriptorio
 downloads-folder-name = Discargamentos
 choose-download-folder-title = Elige le dossier de discargamentos:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Apparentia
 
 ## AI controls page
 

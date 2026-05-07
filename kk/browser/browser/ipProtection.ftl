@@ -49,6 +49,7 @@ ipprotection-site-settings-callout-button = Түсіндім
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Жаңа: Орналасқан жеріңізді өзгертіңіз
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> сізге 5 шолу орнын таңдауға немесе ең жылдамын бізге таңдауға мүмкіндік береді.
 ipprotection-location-selection-callout-primary-button = Қолданып көріңіз
 ipprotection-location-selection-callout-secondary-button = Елемеу
 
@@ -57,11 +58,14 @@ ipprotection-location-selection-callout-secondary-button = Елемеу
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = { -brand-product-name } құрамындағы VPN қолданып көріңіз
 unauthenticated-hide-location-message-3 = { -brand-product-name } ішінде шолу кезінде <a data-l10n-name="learn-more-vpn">Орналасқан жеріңізді жасырыңыз</a>.
+unauthenticated-private-location-message = { -brand-product-name } ішінде <a data-l10n-name="learn-more-vpn">орналасуыңызды құпия сақтауға көмектеседі</a>.
+unauthenticated-choose-location-message = 5 орналасудың бірін таңдаңыз немесе ең жылдамын { -brand-product-name } таңдауына рұқсат етіңіз.
 unauthenticated-hide-location-message-2 = { -brand-product-name } ішінде шолу кезінде орналасқан жеріңізді жасырыңыз.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
 unauthenticated-get-started = Бастау
+unauthenticated-terms-of-service-privacy-notice = Жалғастыру арқылы сіз <a data-l10n-name="vpn-terms-of-service">Қызмет көрсету шарттары</a> және <a data-l10n-name="vpn-privacy-notice">Жекелік ескертуі</a> шарттарымен келісесіз.
 site-exclusion-toggle-enabled-1 =
     .label = Бұл сайт үшін VPN пайдалану
     .aria-label = Бұл сайт үшін VPN іске қосулы тұр
