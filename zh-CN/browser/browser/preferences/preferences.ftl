@@ -563,6 +563,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = 文件与应用程序
+download-save-files-header =
+    .label = 保存文件至
+download-save-where-3 =
+    .aria-label = 保存文件至
 downloads-header-2 =
     .label = 下载
 download-save-where-2 =
@@ -732,6 +736,9 @@ update-in-progress-ok-button = 放弃
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
+
+## About Firefox
+
 
 ## Firefox updates
 
@@ -2463,6 +2470,9 @@ preferences-connection-link-button =
 desktop-folder-name = 桌面
 downloads-folder-name = 下载
 choose-download-folder-title = 选择下载文件夹：
+
+## Appearance page
+
 
 ## AI controls page
 
