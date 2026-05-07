@@ -99,6 +99,11 @@ set-password-repeat-backup-pw =
     .value = ססמה לגיבוי אישור (שוב):
 set-password-reminder = חשוב: אם הססמה שלך לגיבוי האישור תישכח, לא תהיה לך אפשרות לשחזר גיבוי זה מאוחר יותר.  נא לרשום אותה במקום בטוח.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = הזדהות מוגנת
+
 ## Protected authentication alert
 
 # Variables:

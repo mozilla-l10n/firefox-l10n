@@ -620,6 +620,9 @@ applications-setting =
     .description = בחירה כיצד { -brand-short-name } יטפל בקבצים שהורדו מהרשת או ביישומים שיהיו בשימוש במהלך הגלישה.
 applications-header = יישומים
 applications-description = בחירה כיצד { -brand-short-name } יטפל בקבצים שהורדו מהרשת או ביישומים שיהיו בשימוש במהלך הגלישה.
+applications-setting2 =
+    .label = קבצים ויישומים
+    .description = בחירה כיצד { -brand-short-name } מטפל בקבצים ותוכן שהורד.
 applications-filter =
     .placeholder = חיפוש סוגי קבצים או יישומים
 applications-type-column =
@@ -699,9 +702,15 @@ applications-handle-new-file-types-description = מה על { -brand-short-name }
 applications-save-for-new-types =
     .label = לשמור קבצים
     .accesskey = מ
+applications-save-for-new-types2 =
+    .label = לשמור קבצים באופן אוטומטי
+    .accesskey = ש
 applications-ask-before-handling =
     .label = לשאול האם לפתוח או לשמור את הקבצים
     .accesskey = א
+applications-ask-before-handling2 =
+    .label = לשאול האם לפתוח או לשמור את הקבצים
+    .accesskey = ל
 drm-group =
     .label = תוכן ניהול זכויות קניין (DRM)
 drm-content-header = תוכן ניהול זכויות קניין (DRM)
@@ -1063,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = ספורט
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = שעון
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = תמיכה ב־{ -brand-product-name }
@@ -2182,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = הרשאות
     .description = ניהול הפריטים שאתרים יכולים לגשת אליהם, לשלוט בהם או להפעיל.
+permissions-data-section =
+    .heading = הרשאות ונתונים
+pane-permissions-data-title = הרשאות ונתונים
 
 ## Privacy Section - Data Collection
 
@@ -2511,6 +2526,22 @@ preferences-connection-link-button =
 desktop-folder-name = שולחן עבודה
 downloads-folder-name = הורדות
 choose-download-folder-title = בחירת תיקייה להורדה:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = מראה
+browser-theme-group =
+    .label = ערכת הנושא של הדפדפן
+    .description = ניתן לעצב את { -brand-short-name } בדרך שלך. צבעי ערכת הנושא חלים על סרגלי כלים, תפריטים והודעות.
+browser-theme-manage-link =
+    .label = ניהול ערכות נושא ב־{ -brand-short-name }
+related-settings-group =
+    .label = הגדרות קשורות
+related-settings-accessibility-link =
+    .label = התאמה אישית של הגדרות מרחק מתצוגה וגופנים בתפריט נגישות
+related-settings-home-link =
+    .label = התאמה אישית של { -firefox-home-brand-name }
 
 ## AI controls page
 

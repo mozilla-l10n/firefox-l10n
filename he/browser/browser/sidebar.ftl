@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = ניהול הגדרות { -brand-short-name }
 sidebar-vertical-tabs =
     .label = לשוניות אנכיות
+sidebar-settings2 =
+    .label = הגדרות
 sidebar-settings =
     .label = הגדרות סרגל הצד
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = הרחבת סרגל הצד בעת ריחוף העכבר עליו
+sidebar-manage-extensions2 = ניהול כל ההרחבות
 sidebar-manage-extensions = ניהול הרחבות
+sidebar-customize-extensions-header2 = הרחבות
+sidebar-customize-firefox-tools-header2 =
+    .label = כלים
 
 ## Labels for sidebar context menu items
 

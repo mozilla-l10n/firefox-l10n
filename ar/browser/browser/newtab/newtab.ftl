@@ -816,9 +816,9 @@ newtab-clock-widget-search-location-input =
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
-    .label = اللقب (اختياري)
-    .placeholder = أضف اللقب
-    .aria-label = اللقب (اختياري)
+    .label = الاسم المستعار (اختياري)
+    .placeholder = أضف اسم مستعار
+    .aria-label = الاسم المستعار (اختياري)
 newtab-clock-widget-button-save = احفظ
 newtab-clock-widget-button-remove-clock =
     .title = أزِل الساعة
@@ -838,3 +838,5 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-menu-button =
     .title = افتح قائمة الساعة
     .aria-label = افتح قائمة الساعة
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = الاسم المستعار: { $nickname }

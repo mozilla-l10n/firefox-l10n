@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = المزيد من { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = المزيد من { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = المزيد من { -vendor-short-name }
 more-from-moz-subtitle = اطلع على منتجات { -vendor-short-name } الأخرى التي تعمل لدعم إنترنت صحي.
@@ -53,6 +55,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = بريد إلكتروني مجاني وتقويم وجهات اتصال - منظمة حسب رغبتك.
 more-from-moz-thunderbird-button = احصل على { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page

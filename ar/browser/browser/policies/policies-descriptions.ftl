@@ -146,3 +146,5 @@ policy-WebsiteFilter = منع زيارة المواقع. طالع التوثيق
 policy-Windows10SSO = اسمح بالولوج الموحّد من وِندوز إلى حسابات ميكروسوفت وحسابات العمل والحسابات المدرسية.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = اسمح بتسجيل الدخول مرة واحدة لحسابات Microsoft Entra.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = فعّل أو عطّل دعم واجهة برمجة تطبيقات جافا سكريبت XSLTProcessor وتعليمات معالجة XSLT.
