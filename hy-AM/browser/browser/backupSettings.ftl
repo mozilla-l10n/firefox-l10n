@@ -31,6 +31,9 @@ settings-data-backup-in-progress-message =
 settings-data-backup-last-backup-date = Վերջին պահուստավորումը՝ { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-data-backup-scheduled-backups-off2 =
     .label = Պահուստավորումն անջատված է
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Պահուստային տեղադրություն
 settings-data-backup-last-backup-location-show-in-folder = Ցուցադրել պանակում
 settings-data-backup-last-backup-location-edit = Խմբագրել...
 settings-data-create-backup-error = Ձեր պահուստային պատճենը ստեղծելիս սխալ տեղի ունեցավ { DATETIME($date, timeStyle: "short") }{ DATETIME($date, dateStyle: "short") }
@@ -43,7 +46,11 @@ settings-data-backup-restore-scheduled-off =
 
 ##
 
+settings-sensitive-data =
+    .label = Զգայուն տվյալներ
 settings-data-toggle-encryption-support-link = Իմանալ ավելին
+settings-data-change-password2 =
+    .label = Փոխել գաղտնաբառը
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 

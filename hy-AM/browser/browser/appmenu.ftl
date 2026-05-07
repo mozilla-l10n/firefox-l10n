@@ -200,6 +200,8 @@ profiler-popup-presets-power-label =
     .label = Հոսանք
 profiler-popup-presets-debug-label =
     .label = Վրիպազերծել
+profiler-popup-presets-web-compat-label =
+    .label = Վեբ համատեղելիություն
 profiler-popup-presets-custom-label =
     .label = Հարմարեցված
 
@@ -265,6 +267,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Հարմարեցնել գործիքագոտին...
+appmenu-abouttranslations =
+    .label = Թարգմանել…
 appmenu-developer-tools-subheader = Դիտարկչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
@@ -278,7 +282,9 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Ստացեք ծանուցումներ տվյալների արտահոսման մասին
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Քողարկեք ձեր իրական էլ. փոստը և հեռախոսը
+appmenuitem-services-relay-description = Գործարկել էլ. փոստի դիմակների վահանակը
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }-ով
+appmenuitem-vpn-description-2 = Ստացեք ամբողջ սարքի պաշտպանություն
 appmenuitem-vpn-description = Պաշտպանեք ձեր առցանց գործունեությունը
 appmenu-services-header = Իմ ծառայությունները
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Փոխել, թե արդյոք կարող եք կայքից ստանալ ծանուցումներ
 urlbar-midi-notification-anchor =
     .tooltiptext = Բացել MIDI վահանակը
+urlbar-serial-notification-anchor =
+    .tooltiptext = Բացել սերիական վահանակը
 urlbar-eme-notification-anchor =
     .tooltiptext = Կառավարել DRM ծրագրաշարի օգտագործումը
 urlbar-web-authn-anchor =
@@ -292,6 +294,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Էջանշել այս էջը ({ $shortcut })
+urlbar-split-view-button =
+    .tooltiptext = Տրոհված տեսք
+    .aria-label = Տրոհված տեսք
 
 ## Searchbar context menu
 
@@ -407,10 +412,15 @@ quickactions-cmd-help = օգնություն, աջակցում
 # Opens the devtools web inspector
 quickactions-inspector2 = Բացել Մշակողի գործիքները
 quickactions-cmd-inspector2 = տեսուչ, մշակողների գործիքներ, մշակողների գործիքներ
+# Opens Firefox Library
+quickactions-cmd-library = գրադարան
+quickactions-library = Բաց գրադարան
 quickactions-cmd-inspector = Զննիչ, մշակման գործիքներ
 # Opens about:logins
 quickactions-logins2 = Կառավարել գաղտնաբառերը
 quickactions-cmd-logins = մուտքագրումներ, գաղտնաբառեր
+# Mutes all tabs playing audio
+quickactions-mute = Անջատել աուդիո նվագարկող ներդիրները
 # Opens about:addons page in the plugins section
 quickactions-plugins = Կարգավորել բաղադրիչները
 quickactions-cmd-plugins = բաղադրիչներ
