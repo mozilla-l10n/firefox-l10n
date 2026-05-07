@@ -369,6 +369,8 @@ newtab-custom-widget-timer-toggle =
     .label = Időzítő
 newtab-custom-widget-sports-toggle =
     .label = Világbajnokság
+newtab-custom-widget-clock-toggle =
+    .label = Óra
 newtab-custom-widget-section-title = Kisalkalmazások
 newtab-custom-widget-section-toggle =
     .label = Kisalkalmazások
@@ -897,29 +899,56 @@ newtab-widget-timer-celebration-message-break = Készen áll a fókuszálásra?
 newtab-sports-widget-menu-follow-teams = Csapatok követése
 newtab-sports-widget-menu-view-upcoming = Közelgők megtekintése
 newtab-sports-widget-menu-view-results = Eredmények megtekintése
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Kulcsdátumok
 newtab-sports-widget-menu-learn-more = További tudnivalók
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Kövesse a világbajnokságot
 newtab-sports-widget-get-updates = Kapjon élő mérkőzésinformációkat és még sok mást.
 newtab-sports-widget-view-schedule =
     .label = Ütemezés megtekintése
 newtab-sports-widget-follow-teams =
     .label = Csapatok követése
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Kövessen akár { $number } csapatot
+       *[other] Kövessen akár { $number } csapatot
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Válasszon egy háttérképet
 newtab-sports-widget-skip = Kihagyás
+newtab-sports-widget-search-country =
+    .placeholder = Ország keresése
+    .aria-label = Ország keresése
+newtab-sports-widget-cancel = Mégse
 newtab-sports-widget-done-button =
     .label = Kész
 newtab-sports-widget-group-stage = Csoportkörök szakasza
+newtab-sports-widget-round-32 = Legjobb 32
+newtab-sports-widget-round-16 = Legjobb 16
+newtab-sports-widget-quarter-finals = Negyeddöntők
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ÉLŐ
 newtab-custom-widget-live-refresh =
     .title = Pontszámok frissítése
     .aria-label = Pontszámok frissítése
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Kulcsdátumok
 newtab-sports-widget-upcoming = Közelgő
 newtab-sports-widget-results = Eredmények
 newtab-sports-widget-semi-finals = Elődöntők
 newtab-sports-widget-bronze-finals = Bronzmérkőzés
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Döntő
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Késleltetve
 newtab-sports-widget-postponed = Elhalasztva
 newtab-sports-widget-suspended = Felfüggesztve
@@ -954,3 +983,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ez a hely az Ön szabályai szerint játszik
 newtab-activation-window-message-values-focus-message = A { -brand-product-name } használatával úgy böngészhet, ahogy tetszik, és személyesebben kezdheti a napját online. Tegye sajátjává a { -brand-product-name } böngészőt.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Óra elrejtése
+newtab-clock-widget-menu-learn-more = További tudnivalók
+newtab-clock-widget-menu-edit = Órák szerkesztése
+newtab-clock-widget-menu-switch-to-12h = Váltás 12 órás formátumra
+newtab-clock-widget-menu-switch-to-24h = Váltás 24 órás formátumra
+newtab-clock-widget-label-your-clocks = Saját órák
+newtab-clock-widget-search-location-input =
+    .label = Hely
+    .placeholder = Város keresése
+    .aria-label = Város keresése
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Becenév (nem kötelező)
+    .placeholder = Becenév hozzáadása
+    .aria-label = Becenév (nem kötelező)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Új óra hozzáadása
+    .aria-label = Új óra hozzáadása
+newtab-clock-widget-button-add-clock = Hozzáadás
+newtab-clock-widget-button-cancel = Mégse
+newtab-clock-widget-button-back =
+    .title = Vissza
+    .aria-label = Vissza
+newtab-clock-widget-button-edit-clock =
+    .title = Óra szerkesztése
+    .aria-label = Óra szerkesztése
+newtab-clock-widget-button-save = Mentés
+newtab-clock-widget-button-remove-clock =
+    .title = Óra eltávolítása
+    .aria-label = Óra eltávolítása
+newtab-clock-widget-add-clock-form =
+    .aria-label = Óra hozzáadása
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Óra szerkesztése
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Találatok
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Óra menüjének megnyitása
+    .aria-label = Óra menüjének megnyitása
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Becenév: { $nickname }

@@ -365,6 +365,8 @@ newtab-custom-widget-timer-toggle =
     .label = Sayaç
 newtab-custom-widget-sports-toggle =
     .label = Dünya Kupası
+newtab-custom-widget-clock-toggle =
+    .label = Saat
 newtab-custom-widget-section-title = Araçlar
 newtab-custom-widget-section-toggle =
     .label = Araçlar
@@ -902,9 +904,16 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Duvar kâğıdı seç
 newtab-sports-widget-skip = Atla
+newtab-sports-widget-search-country =
+    .placeholder = Ülke ara
+    .aria-label = Ülke ara
+newtab-sports-widget-cancel = Vazgeç
 newtab-sports-widget-done-button =
     .label = Tamam
 newtab-sports-widget-group-stage = Grup maçı
+newtab-sports-widget-round-32 = Son 32 turu
+newtab-sports-widget-round-16 = Son 16 turu
+newtab-sports-widget-quarter-finals = Çeyrek finaller
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = CANLI
 newtab-custom-widget-live-refresh =
@@ -916,6 +925,13 @@ newtab-sports-widget-semi-finals = Yarı finaller
 newtab-sports-widget-bronze-finals = Üçüncülük maçı
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Gecikmeli
 newtab-sports-widget-postponed = Ertelendi
 newtab-sports-widget-suspended = Askıya alındı
@@ -950,3 +966,13 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Burası sizin yeriniz
 newtab-activation-window-message-values-focus-message = { -brand-product-name } internette istediğiniz gibi gezinmenizi ve güne daha kişisel bir şekilde başlamanızı sağlar. { -brand-product-name } tarayıcınızı özelleştirin.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Saati gizle
+newtab-clock-widget-menu-learn-more = Daha fazla bilgi al
+newtab-clock-widget-menu-edit = Saatleri düzenle
+newtab-clock-widget-menu-switch-to-12h = 12 saatlik biçime geç
+newtab-clock-widget-menu-switch-to-24h = 24 saatlik biçime geç
+newtab-clock-widget-label-your-clocks = Saatleriniz

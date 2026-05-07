@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = A { -brand-short-name } névjegye
     .title = { pane-about-firefox-title }
+pane-appearance-title = Megjelenés
+    .title = { pane-appearance-title }
+pane-downloads-title = Letöltések
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Akadálymentesítés
     .title = { pane-accessibility-title }
 pane-languages-title = Nyelvek
@@ -337,6 +342,12 @@ browser-layout-show-sidebar-desc = Érje el gyorsan a könyvjelzőket és a lapo
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Nyelv és megjelenés
+appearance-group2 =
+    .label = Webhely megjelenése
+    .description = Egyes webhelyek a beállításainak megfelelően módosítják a színeiket. Válassza ki a színsémáját.
+preferences-web-appearance-choice-auto3 =
+    .label = Rendszer
+    .title = A webhelyhátterek és -tartalom automatikus módosítása a rendszerbeállítások és a { -brand-short-name } témája alapján.
 appearance-group =
     .label = Weboldal megjelenése
     .description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.

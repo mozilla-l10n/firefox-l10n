@@ -2545,6 +2545,8 @@ browser-theme-group =
     .description = Přiměrće { -brand-short-name } na swoje wašnje. Drastowe barby so na symbolowe lajsty, menije a powěsće nałožuja.
 browser-theme-manage-link =
     .label = Drasty { -brand-short-name } rjadować
+related-settings-group =
+    .label = Přisłušne nastajenja
 
 ## AI controls page
 

@@ -1310,6 +1310,8 @@ panel-save-update-password = Parola
 # "More" item in macOS share menu
 menu-share-more =
     .label = Daha fazla…
+menu-share-windows =
+    .label = Diğer seçenekler
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

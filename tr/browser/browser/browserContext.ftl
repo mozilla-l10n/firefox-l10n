@@ -412,7 +412,7 @@ main-context-menu-eme-learn-more =
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
     .label = Bağlantıyı yeni { $containerName } sekmesinde aç
-    .accesskey = t
+    .accesskey = i
 main-context-menu-reveal-password =
     .label = Parolayı göster
     .accesskey = o
