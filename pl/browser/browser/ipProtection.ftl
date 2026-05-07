@@ -31,12 +31,18 @@ ipprotection-feature-introduction-description-captive-portal = Przeglądaj Inter
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz
 ipprotection-feature-introduction-button-secondary-no-thanks = Nie, dziękuję
+ipprotection-feature-introduction-button-secondary-remove = Usuń VPN z paska narzędzi
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Wybierz, gdzie korzystasz z VPN
 ipprotection-site-settings-callout-subtitle = Wyłącz VPN dla konkretnej witryny, a my zapamiętamy to przy następnej wizycie.
 ipprotection-site-settings-callout-button = OK
+
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Wypróbuj
+ipprotection-location-selection-callout-secondary-button = Zamknij
 
 ## Panel
 
@@ -72,6 +78,17 @@ ipprotection-button-turn-vpn-off-excluded-site = Całkowicie wyłącz VPN
 ipprotection-button-turn-vpn-on = Włącz VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Włączanie…
+
+## Location controls
+
+ipprotection-recommended-location-badge = Nowe
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Położenie: { $country }
+ipprotection-locations-subview =
+    .title = Wybierz położenie
+ipprotecion-locations-subview-recommended-label = Zalecane
+ipprotection-locations-subview-promo-button = Wypróbuj { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -209,6 +226,8 @@ vpn-paused-alert-title = Wstrzymano VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp do VPN zostanie przywrócony w przyszłym miesiącu.
+vpn-error-page-keep-browsing = Kontynuuj przeglądanie w tej sesji
+vpn-error-page-new-session = Rozpocznij nową sesję
 vpn-paused-alert-close-tabs-button = Zamknij wszystkie karty
 vpn-paused-alert-continue-wo-vpn-button = Kontynuuj bez VPN
 vpn-error-alert-title = VPN obecnie nie działa.

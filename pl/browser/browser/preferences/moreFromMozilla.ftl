@@ -62,3 +62,30 @@ more-from-moz-thunderbird-button = Pobierz { -thunderbird-brand-short-name(case:
 
 more-from-moz-new-products-title = Nowe produkty { -vendor-short-name(case: "gen") }
 more-from-moz-new-products-description = Odkryj najnowsze produkty od { -vendor-short-name(case: "gen") }.
+more-from-moz-new-products-button = Zobacz nowe produkty
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Zeskanuj aparatem telefonu lub tabletu, aby pobrać aplikację. Stuknij odnośnik, gdy się pojawi.
+more-from-moz-firefox-mobile-email-link = Wyślij odnośnik do pobrania na swój telefon
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-new-products-card =
+    .label = Nowe produkty { -vendor-short-name(case: "gen") }
+    .description = Odkryj najnowsze produkty od { -vendor-short-name(case: "gen") }.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Wypróbuj { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Wypróbuj { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Wypróbuj { -relay-brand-short-name }
+more-from-moz-thunderbird-box-link =
+    .label = Pobierz { -thunderbird-brand-short-name(case: "acc") }
+more-from-moz-solo-box-link =
+    .label = Wypróbuj { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Zobacz nowe produkty
