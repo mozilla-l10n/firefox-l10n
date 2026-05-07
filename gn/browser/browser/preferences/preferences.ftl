@@ -568,6 +568,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Marandurenda ha Tembiporu’i
+download-save-files-header =
+    .label = Marandurenda ñongatu ko’ápe
+download-save-where-3 =
+    .aria-label = Marandurenda ñongatu ko’ápe
 downloads-header-2 =
     .label = Ñemboguejy
 download-save-where-2 =
@@ -2488,6 +2492,9 @@ preferences-connection-link-button =
 desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
+
+## Appearance page
+
 
 ## AI controls page
 
