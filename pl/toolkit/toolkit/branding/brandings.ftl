@@ -32,7 +32,57 @@
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
 -solo-ai-brand-name = Solo
--mdn-brand-name = Dokumentacja MDN
+-thunderbird-brand-name =
+    { $case ->
+        [gen] Mozilli Thunderbird
+        [dat] Mozilli Thunderbird
+        [acc] Mozillę Thunderbird
+        [ins] Mozillą Thunderbird
+        [loc] Mozilli Thunderbird
+       *[nom] Mozilla Thunderbird
+    }
+-thunderbird-brand-short-name =
+    { $case ->
+        [gen] Thunderbirda
+        [dat] Thunderbirdowi
+        [acc] Thunderbirda
+        [ins] Thunderbirdem
+        [loc] Thunderbirdzie
+       *[nom] Thunderbird
+    }
+-mdn-brand-name =
+    { $case ->
+        [gen]
+            { $capitalization ->
+                [lower] dokumentacji MDN
+               *[upper] Dokumentacji MDN
+            }
+        [dat]
+            { $capitalization ->
+                [lower] dokumentacji MDN
+               *[upper] Dokumentacji MDN
+            }
+        [acc]
+            { $capitalization ->
+                [lower] dokumentacji MDN
+               *[upper] Dokumentacji MDN
+            }
+        [ins]
+            { $capitalization ->
+                [lower] dokumentacją MDN
+               *[upper] Dokumentacją MDN
+            }
+        [loc]
+            { $capitalization ->
+                [lower] dokumentacji MDN
+               *[upper] Dokumentacji MDN
+            }
+       *[nom]
+            { $capitalization ->
+                [lower] dokumentacja MDN
+               *[upper] Dokumentacja MDN
+            }
+    }
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
