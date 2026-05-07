@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = { -brand-short-name } баптауларын басқару
 sidebar-vertical-tabs =
     .label = Вертикалды беттер
+sidebar-settings2 =
+    .label = Баптаулар
 sidebar-settings =
     .label = Бүйір панель баптаулары
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Курсорды апарғанда бүйірлік панельді жаю
+sidebar-manage-extensions2 = Барлық кеңейтулерді басқару
 sidebar-manage-extensions = Кеңейтулерді басқару
+sidebar-customize-extensions-header2 = Кеңейтулер
+sidebar-customize-firefox-tools-header2 =
+    .label = Саймандар
 
 ## Labels for sidebar context menu items
 

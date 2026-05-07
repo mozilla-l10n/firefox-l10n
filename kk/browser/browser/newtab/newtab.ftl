@@ -367,6 +367,8 @@ newtab-custom-widget-timer-toggle =
     .label = Таймер
 newtab-custom-widget-sports-toggle =
     .label = Әлем чемпионаты
+newtab-custom-widget-clock-toggle =
+    .label = Сағат
 newtab-custom-widget-section-title = Виджеттер
 newtab-custom-widget-section-toggle =
     .label = Виджеттер
@@ -870,7 +872,11 @@ newtab-widget-timer-celebration-message-break = Назар аударуға да
 newtab-sports-widget-menu-follow-teams = Командаларға жазылу
 newtab-sports-widget-menu-view-upcoming = Алдағы уақыттағыларды қарау
 newtab-sports-widget-menu-view-results = Нәтижелерді қарау
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Негізгі күндер
 newtab-sports-widget-menu-learn-more = Көбірек білу
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Әлем чемпионатын бақылауда ұстаңыз
 newtab-sports-widget-get-updates = Тікелей матч жаңалықтарын және басқа да ақпараттарды алыңыз.
 newtab-sports-widget-view-schedule =
     .label = Кестені қарау
@@ -879,20 +885,36 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Тұсқағазды таңдау
 newtab-sports-widget-skip = Аттап кету
+newtab-sports-widget-search-country =
+    .placeholder = Елді іздеу
+    .aria-label = Елді іздеу
+newtab-sports-widget-cancel = Бас тарту
 newtab-sports-widget-done-button =
     .label = Дайын
 newtab-sports-widget-group-stage = Топтық кезең
+newtab-sports-widget-round-32 = 1/16 финал
+newtab-sports-widget-round-16 = 1/8 финал
+newtab-sports-widget-quarter-finals = Ширек финал
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ТІКЕЛЕЙ ЭФИР
 newtab-custom-widget-live-refresh =
     .title = Ұпайларды жаңарту
     .aria-label = Ұпайларды жаңарту
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Негізгі күндер
 newtab-sports-widget-upcoming = Алдағы уақытта
 newtab-sports-widget-results = Нәтижелер
 newtab-sports-widget-semi-finals = Жартылай финал
 newtab-sports-widget-bronze-finals = Үшінші орын үшін ойын
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Финал
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Кешіктірілді
 newtab-sports-widget-postponed = Кейінге қалдырылды
 newtab-sports-widget-suspended = Тоқтатылған
@@ -927,3 +949,33 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Бұл кеңістік сіздің ережелеріңіз бойынша ойнайды
 newtab-activation-window-message-values-focus-message = { -brand-product-name } көмегімен интернеттегі жұмысыңызды өзіңізге ыңғайлы стильде бастаңыз. { -brand-product-name } интерфейсін өзіңізге бейімдеп, оны бірегей етіңіз.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Сағатты жасыру
+newtab-clock-widget-menu-learn-more = Көбірек білу
+newtab-clock-widget-menu-edit = Сағаттарды түзету
+newtab-clock-widget-menu-switch-to-12h = 12-сағаттық пішімге ауысу
+newtab-clock-widget-menu-switch-to-24h = 24-сағаттық пішімге ауысу
+newtab-clock-widget-label-your-clocks = Сіздің сағаттарыңыз
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Жаңа сағатты қосу
+    .aria-label = Жаңа сағатты қосу
+newtab-clock-widget-button-add-clock = Қосу
+newtab-clock-widget-button-cancel = Бас тарту
+newtab-clock-widget-button-back =
+    .title = Артқа
+    .aria-label = Артқа
+newtab-clock-widget-button-edit-clock =
+    .title = Сағатты түзету
+    .aria-label = Сағатты түзету
+newtab-clock-widget-button-save = Сақтау
+newtab-clock-widget-button-remove-clock =
+    .title = Сағатты өшіру
+    .aria-label = Сағатты өшіру
+newtab-clock-widget-add-clock-form =
+    .aria-label = Сағатты қосу

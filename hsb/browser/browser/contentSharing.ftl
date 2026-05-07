@@ -26,3 +26,6 @@ content-sharing-modal-copy-link =
     .label = Wotkaz kopěrować
 content-sharing-modal-link-copied =
     .label = Wotkaz je kopěrowany
+content-sharing-modal-sign-in =
+    .label = Přizjewće so, zo byšće wotkazy dźělił
+content-sharing-modal-title = Tutu zběrku wotkazow w kóždym wobhladowaku dźělić

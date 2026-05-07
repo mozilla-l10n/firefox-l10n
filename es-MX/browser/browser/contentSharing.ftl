@@ -23,3 +23,5 @@ content-sharing-modal-link-copied =
     .label = Enlace copiado
 content-sharing-modal-sign-in =
     .label = Inicia sesión para compartir enlaces
+content-sharing-modal-title = Comparte esta colección de enlaces en cualquier navegador
+content-sharing-modal-description = Crea una página pública para estos enlaces que sea fácil de compartir. Una vez creada, la página no se podrá editar ni eliminar y caducará en 7 días.

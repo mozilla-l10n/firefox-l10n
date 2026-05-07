@@ -1028,6 +1028,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Спорт
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Сағат
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } қолдау

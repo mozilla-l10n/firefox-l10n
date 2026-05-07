@@ -368,6 +368,8 @@ newtab-custom-widget-timer-toggle =
     .label = Nedtelling
 newtab-custom-widget-sports-toggle =
     .label = VM
+newtab-custom-widget-clock-toggle =
+    .label = Klokke
 newtab-custom-widget-section-title = Widgeter
 newtab-custom-widget-section-toggle =
     .label = Widgeter
@@ -891,9 +893,13 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Velg et bakgrunnsbilde
 newtab-sports-widget-skip = Hopp over
+newtab-sports-widget-cancel = Avbryt
 newtab-sports-widget-done-button =
     .label = Ferdig
 newtab-sports-widget-group-stage = Gruppespill
+newtab-sports-widget-round-32 = Sekstendedelsfinale
+newtab-sports-widget-round-16 = Åttendedelsfinale
+newtab-sports-widget-quarter-finals = Kvartfinaler
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = DIREKTE
 newtab-custom-widget-live-refresh =
@@ -939,3 +945,10 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Dette området følger reglene dine
 newtab-activation-window-message-values-focus-message = { -brand-product-name } lar deg surfe slik du vil, med en mer personlig måte å starte dagen din på nettet. Gjør { -brand-product-name } til ditt eget.
+
+## Strings for the Clock widget
+
+newtab-clock-widget-menu-learn-more = Les mer
+newtab-clock-widget-menu-edit = Rediger klokker
+newtab-clock-widget-menu-switch-to-12h = Bytt til 12-timers format
+newtab-clock-widget-menu-switch-to-24h = Bytt til 24-timers format
