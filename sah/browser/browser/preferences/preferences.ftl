@@ -73,6 +73,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Билэни угуу суола
+download-save-where-3 =
+    .aria-label = Билэни угуу суола
 downloads-header-2 =
     .label = Хачайдааһыннар
 download-save-where-2 =
@@ -146,11 +150,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Саҥардыылары туруорарга фон сулууспаны туһан
     .accesskey = ф
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -161,7 +171,7 @@ performance-allow-hw-accel =
     .label = Кыаллар буоллаҕына аппараат түргэтиини туһан
     .accesskey = п
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Көрүү
 browsing-use-autoscroll =
@@ -175,6 +185,9 @@ browsing-use-cursor-navigation =
     .accesskey = к
 browsing-group =
     .label = Көрүү
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -286,7 +299,7 @@ sync-engine-history =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Туорааһыннар...
@@ -295,6 +308,9 @@ forms-master-pw-change =
     .label = Маастар киирии тылы уларытарга…
     .accesskey = М
 forms-master-pw-fips-desc = Киирии тыл уларыйбата
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -386,11 +402,17 @@ certs-header = Сэртипикээттэр
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Үлэлиир сирэй (рабочий стол)
 downloads-folder-name = Хачайдааһыннар
 choose-download-folder-title = Хачайдааһыннар паапкаларын тал:
+
+## Appearance page
+
 
 ## AI controls page
 
