@@ -1001,6 +1001,13 @@ newtab-clock-widget-search-location-input =
     .label = Standort
     .placeholder = Ort suchen
     .aria-label = Ort suchen
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Name (optional)
+    .placeholder = Geben Sie einen Namen ein
+    .aria-label = Name (optional)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -1034,3 +1041,5 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-menu-button =
     .title = Menü für Uhr öffnen
     .aria-label = Menü für Uhr öffnen
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Name: { $nickname }

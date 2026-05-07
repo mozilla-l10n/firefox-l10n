@@ -620,6 +620,9 @@ applications-setting =
     .description = Επιλέξτε πώς θα χειρίζεται το { -brand-short-name } τα αρχεία λήψης από το διαδίκτυο ή τις εφαρμογές που χρησιμοποιείτε κατά την περιήγηση.
 applications-header = Εφαρμογές
 applications-description = Επιλέξτε πώς θα χειρίζεται το { -brand-short-name } τα αρχεία λήψης από το διαδίκτυο ή τις εφαρμογές που χρησιμοποιείτε κατά την περιήγηση.
+applications-setting2 =
+    .label = Αρχεία και εφαρμογές
+    .description = Επιλέξτε πώς θα χειρίζεται το { -brand-short-name } τα αρχεία και το περιεχόμενο λήψης.
 applications-filter =
     .placeholder = Αναζήτηση τύπων αρχείων ή εφαρμογών
 applications-type-column =
@@ -1000,7 +1003,7 @@ home-custom-homepage-bookmarks-button =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header2 = Περιεχόμενο οθόνης «{ -firefox-home-brand-name }»
+home-prefs-content-header2 = Περιεχόμενο { -firefox-home-brand-name(case: "gen", capitalization: "upper") }
 home-prefs-content-description2 = Επιλέξτε το περιεχόμενο που θέλετε στην οθόνη «{ -firefox-home-brand-name }».
 home-prefs-search-header =
     .label = Διαδικτυακή αναζήτηση
@@ -2529,8 +2532,17 @@ choose-download-folder-title = Επιλογή φακέλου λήψεων:
 
 preferences-appearance-header =
     .heading = Εμφάνιση
+browser-theme-group =
+    .label = Θέμα προγράμματος περιήγησης
+    .description = Προσαρμόστε το στυλ του { -brand-short-name } ανάλογα με το προσωπικό σας γούστο. Τα χρώματα του θέματος εφαρμόζονται στις γραμμές εργαλείων, τα μενού και τα μηνύματα.
+browser-theme-manage-link =
+    .label = Διαχείριση των θεμάτων του { -brand-short-name }
 related-settings-group =
     .label = Σχετικές ρυθμίσεις
+related-settings-accessibility-link =
+    .label = Προσαρμογή ρυθμίσεων ζουμ και γραμματοσειράς στην ενότητα «Προσβασιμότητα»
+related-settings-home-link =
+    .label = Προσαρμογή { -firefox-home-brand-name(case: "gen", capitalization: "upper") }
 
 ## AI controls page
 

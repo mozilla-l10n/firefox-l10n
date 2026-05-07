@@ -2194,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Berechtigungen
     .description = Verwalten Sie, auf was Websites zugreifen können, was kontrolliert oder ausgelöst werden kann.
+permissions-data-section =
+    .heading = Berechtigungen und Daten
+pane-permissions-data-title = Berechtigungen und Daten
 
 ## Privacy Section - Data Collection
 
@@ -2529,6 +2532,9 @@ choose-download-folder-title = Download-Ordner wählen:
 
 preferences-appearance-header =
     .heading = Erscheinungsbild
+browser-theme-group =
+    .label = Browser-Theme
+    .description = Passen Sie { -brand-short-name } Ihren Wünschen an. Die Themenfarben gelten für Symbolleisten, Menüs und Nachrichten.
 browser-theme-manage-link =
     .label = { -brand-short-name }-Themes verwalten
 related-settings-group =

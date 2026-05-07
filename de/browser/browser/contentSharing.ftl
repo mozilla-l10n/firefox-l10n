@@ -22,5 +22,7 @@ content-sharing-modal-copy-link =
     .label = Link kopieren
 content-sharing-modal-link-copied =
     .label = Link kopiert
+content-sharing-modal-sign-in =
+    .label = Melden Sie sich an, um Links zu teilen
 content-sharing-modal-title = Teilen Sie diese Link-Sammlung in jedem Browser
 content-sharing-modal-description = Erstellen Sie eine öffentliche Seite für diese Links, die einfach zu teilen ist. Die erstellte Seite kann nicht mehr bearbeitet oder gelöscht werden und läuft in 7 Tagen ab.
