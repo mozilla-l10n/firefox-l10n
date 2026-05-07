@@ -684,6 +684,9 @@ newtab-widget-lists-name-label-default =
     .label = Առաջադրանքների ցանկ
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Առաջադրանքների ցանկ
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Ստուգաթերթիկ
+    .aria-label = Խմբագրել ցանկի անունը
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Նոր ցանկ
@@ -703,7 +706,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Փոքրացնել վիջեթները
     .aria-label = Կոծկել բոլոր վիջեթները սեղմ չափի
+newtab-widget-section-menu-button =
+    .title = Վիջեթների ցանկ
+    .aria-label = Բացել վիջեթների ցանկը
+newtab-widget-section-menu-hide-all = Թաքցնել վիջեթները
+newtab-widget-section-menu-learn-more = Իմանալ ավելին
 newtab-widget-section-feedback = Ասեք մեզ, թե ինչ եք կարծում
+newtab-widget-lists-name-default = Ստուգաթերթիկ
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -733,6 +742,10 @@ newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
+
+## Sports widget
+
+newtab-sports-widget-menu-learn-more = Իմանալ ավելին
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
