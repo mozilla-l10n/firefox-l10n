@@ -557,6 +557,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Tập tin và ứng dụng
+download-save-files-header =
+    .label = Lưu tập tin vào
+download-save-where-3 =
+    .aria-label = Lưu tập tin vào
 downloads-header-2 =
     .label = Tải xuống
 download-save-where-2 =
@@ -2475,6 +2479,9 @@ preferences-connection-link-button =
 desktop-folder-name = Bàn làm việc
 downloads-folder-name = Tải xuống
 choose-download-folder-title = Chọn thư mục tải xuống:
+
+## Appearance page
+
 
 ## AI controls page
 
