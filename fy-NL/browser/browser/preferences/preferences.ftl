@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Bestannen en Tapassingen
+download-save-files-header =
+    .label = Bestannen bewarje yn
+download-save-where-3 =
+    .aria-label = Bestannen bewarje yn
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Búroblêd
 downloads-folder-name = Myn downloads
 choose-download-folder-title = Downloadmap kieze:
+
+## Appearance page
+
 
 ## AI controls page
 
