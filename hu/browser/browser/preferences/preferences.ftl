@@ -1044,7 +1044,7 @@ home-prefs-sports-widget-header =
     .label = Sport
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
-    .label = Támogassa a { -brand-product-name }ot
+    .label = A { -brand-product-name } támogatása
 home-prefs-mission-message = Szponzoraink támogatják a küldetésünket, hogy jobb webet építsünk
 home-prefs-mission-message-learn-more-link = Tudja meg hogyan
 home-prefs-mission-message2 =

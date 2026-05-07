@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspektor, narzędzia dla programistów, narzędzia
 # Opens about:logins
 quickactions-logins2 = Zarządzaj hasłami
 quickactions-cmd-logins = dane logowania, loginy, hasła
+# Mutes all tabs playing audio
+quickactions-mute = Wycisz karty odtwarzające dźwięk
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = wycisz, przycisz, cicho, cisza, ciii, sza
 # Opens about:addons page in the plugins section
 quickactions-plugins = Zarządzaj wtyczkami
 quickactions-cmd-plugins = wtyczki
@@ -546,9 +552,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Połączenie z tą witryną nie jest zabezpieczone.
 identity-connection-verified = Połączenie z tą witryną jest zabezpieczone.
 identity-ev-owner-label = Certyfikat wystawiony dla:
+identity-verifier-label = Zweryfikowana przez:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kwalifikowany w rozumieniu rozporządzenia (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla nie rozpoznaje tego wystawcy certyfikatu. Mógł zostać dodany przez system operacyjny lub administratora.
+identity-cert-exception-overridden = Użytkownik dodał wyjątek od reguł bezpieczeństwa dla tej witryny.
 identity-remove-cert-exception =
     .label = Usuń wyjątek
     .accesskey = U
@@ -1022,6 +1030,7 @@ urlbar-searchmode-popup-one-off-header = Tym razem szukaj w:
 # reset after submitting.
 urlbar-searchmode-popup-header = Szukaj w:
 urlbar-searchmode-popup-search-settings-panelitem = Ustawienia wyszukiwania
+urlbar-searchmode-popup-settings-panelitem = Ustawienia
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1037,6 +1046,21 @@ urlbar-result-action-switch-to-tabgroup = przełącz na grupę „{ $group }”
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = otwórz grupę „{ $group }”
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Otwórz w nowej karcie
+    .accesskey = n
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Otwórz w nowej karcie w kontenerze
+    .accesskey = k
+urlbar-view-context-menu-open-in-window =
+    .label = Otwórz w nowym oknie
+    .accesskey = O
+urlbar-view-context-menu-open-in-private-window =
+    .label = Otwórz w nowym oknie prywatnym
+    .accesskey = w
 
 ## Labels shown above groups of urlbar results
 
