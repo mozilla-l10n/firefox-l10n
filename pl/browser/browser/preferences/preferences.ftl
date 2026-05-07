@@ -472,6 +472,14 @@ manage-browser-languages-button =
     .accesskey = W
 confirm-browser-language-change-description = Uruchom { -brand-short-name(case: "acc") } ponownie, aby zastosować zmiany.
 confirm-browser-language-change-button = Uruchom ponownie
+browser-language-heading =
+    .label = Język przeglądarki
+    .description = Wybierz języki używane do wyświetlania interfejsu użytkownika { -brand-short-name(case: "gen") } (menu, komunikaty, powiadomienia itp.).
+browser-language-preferred-label =
+    .label = Preferowany język
+browser-language-fallback-label =
+    .label = Język zapasowy
+    .description = Używany, kiedy tłumaczenie na preferowany język jest niepełne.
 browser-language-install-error =
     .message = { -brand-short-name } obecnie nie może uaktualnić listy języków. Sprawdź połączenie z Internetem lub spróbuj ponownie.
 translate-web-pages =
@@ -691,6 +699,8 @@ update-application-version = Wersja: { $version }. <a data-l10n-name="learn-more
 update-history-2 =
     .label = Wyświetl historię aktualizacji
     .accesskey = W
+update-application-installation =
+    .label = Instalacja
 update-history =
     .label = Wyświetl historię aktualizacji…
     .accesskey = W
@@ -732,6 +742,18 @@ update-in-progress-ok-button = &Odrzuć
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kontynuuj
 
+## About Firefox
+
+about-firefox-header =
+    .heading = O programie { -brand-short-name }
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Powiadomienia
+update-application-updates-managed-by-os =
+    .message = Aktualizacje są zarządzane przez system operacyjny
+
 ## Firefox support
 
 support-application-heading =
@@ -772,6 +794,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Używaj automatycznego przewijania
     .accesskey = y
+keyboard-and-scrolling-group =
+    .label = Nawigacja i przewijanie za pomocą klawiatury
+motion-and-link-group =
+    .label = Ruch i wygląd odnośników
 browsing-use-smooth-scrolling =
     .label = Używaj płynnego przewijania
     .accesskey = n
@@ -813,6 +839,16 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Więcej informacji
 browsing-group =
     .label = Przeglądanie
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Ułatwienia dostępu
+preferences-default-zoom-select =
+    .aria-label = Domyślne powiększenie
+preferences-fonts-advanced-settings =
+    .label = Ustawienia zaawansowane
+    .accesskey = z
 
 ## General Section - Proxy
 
@@ -991,6 +1027,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Minutnik
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Wspieraj { -brand-product-name(case: "acc") }
@@ -1118,6 +1157,7 @@ search-edit-engine =
     .label = Edytuj
     .accesskey = E
 search-find-more-link = Znajdź więcej wyszukiwarek
+search-filtering-for-add-engine = Dodaj wyszukiwarkę
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Słowo kluczowe już istnieje
@@ -1136,6 +1176,9 @@ search-engine-group =
     .label = Domyślna wyszukiwarka
 search-default-engine =
     .aria-label = Domyślna wyszukiwarka
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Wyszukiwanie
 
 ## Containers Section
 
@@ -2144,6 +2187,8 @@ collection-backlogged-crash-reports2 =
     .label = Automatyczne wysyłanie zgłoszeń awarii
     .accesskey = o
 collection-backlogged-crash-reports-description = Umożliwia to { -vendor-short-name(case: "dat") } diagnozowanie i naprawianie problemów z przeglądarką. Zgłoszenia mogą zawierać dane osobowe lub prywatne informacje.
+settings-redesign-promo-dismiss-button =
+    .label = OK
 addon-recommendations =
     .label = Personalizowane polecenia rozszerzeń przez { -brand-short-name(case: "acc") }.
 addon-recommendations-link = Więcej informacji
@@ -2399,6 +2444,13 @@ preferences-doh-custom-provider-label =
     .aria-label = Wpisz adres URL własnego dostawcy
 preferences-doh-header2 =
     .heading = DNS poprzez HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Bezpieczeństwo połączenia i oprogramowania
+preferences-connection-link-button =
+    .label = Ustawienia zaawansowane
 
 ## The following strings are used in the Download section of settings
 

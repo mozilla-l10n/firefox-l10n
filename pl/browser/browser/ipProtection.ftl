@@ -81,6 +81,9 @@ ipprotection-button-connecting = Włączanie…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Położenie: zalecane
 ipprotection-recommended-location-badge = Nowe
 # Variables
 #   $country (string) - The country selected for the VPN server location
