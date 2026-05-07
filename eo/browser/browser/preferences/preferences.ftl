@@ -550,6 +550,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dosieroj kaj programoj
+download-save-files-header =
+    .label = Konservi dosierojn en
+download-save-where-3 =
+    .aria-label = Konservi dosierojn en
 downloads-header-2 =
     .label = Elŝutoj
 download-save-where-2 =
@@ -718,6 +722,12 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -799,6 +809,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Pli da informo
 browsing-group =
     .label = Retumo
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1513,6 +1526,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Pli da informo
 forms-windows-sso-desc = Administri kontojn en la agordoj de via aparato
 windows-passkey-settings-label = Administri alirŝlosiloj en la sistemaj agordoj
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2385,11 +2401,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS per HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Labortablo
 downloads-folder-name = Elŝutoj
 choose-download-folder-title = Elekti dosierujon por elŝutoj:
+
+## Appearance page
+
 
 ## AI controls page
 
