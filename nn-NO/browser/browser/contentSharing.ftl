@@ -6,7 +6,16 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-tabs-title =
+    { $count ->
+        [one] { $count } fane
+       *[other] { $count } faner
+    }
 content-sharing-modal-view-page =
     .label = Vis side
 content-sharing-modal-copy-link =
     .label = Kopier lenke
+content-sharing-modal-link-copied =
+    .label = Lenke kopiert
+content-sharing-modal-sign-in =
+    .label = Logg inn for å dele lenker

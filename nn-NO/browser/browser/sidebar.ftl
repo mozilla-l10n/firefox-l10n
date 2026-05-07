@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Handsame { -brand-short-name }-innstillingar
 sidebar-vertical-tabs =
     .label = Vertikale faner
+sidebar-settings2 =
+    .label = Innstillingar
 sidebar-settings =
     .label = Innstillingar for sidestolpen
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Utvid sidestolpen ved å halde musepeikaren over
+sidebar-manage-extensions2 = Handsam alle utvidingar
 sidebar-manage-extensions = Handsam utvidingar
+sidebar-customize-extensions-header2 = Utvidingar
+sidebar-customize-firefox-tools-header2 =
+    .label = Verktøy
 
 ## Labels for sidebar context menu items
 

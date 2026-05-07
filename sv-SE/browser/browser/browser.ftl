@@ -1308,6 +1308,8 @@ panel-save-update-password = Lösenord
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mer…
+menu-share-windows =
+    .label = Fler alternativ
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

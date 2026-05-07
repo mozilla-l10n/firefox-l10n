@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Utsjånad
+    .title = { pane-appearance-title }
+pane-downloads-title = Nedlastingar
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Tilgjengelegheit
     .title = { pane-accessibility-title }
 pane-languages-title = Språk
@@ -1046,6 +1051,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klokke
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
@@ -2165,6 +2173,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Løyve
     .description = Handsam kva nettstader kan få tilgang til, styre eller utløyse.
+permissions-data-section =
+    .heading = Løyve og data
+pane-permissions-data-title = Løyve og data
 
 ## Privacy Section - Data Collection
 
@@ -2488,6 +2499,15 @@ preferences-connection-link-button =
 desktop-folder-name = Skrivebord
 downloads-folder-name = Nedlastingar
 choose-download-folder-title = Vel nedlastingsmappe:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Utsjånad
+related-settings-group =
+    .label = Liknande innstillingar
+related-settings-home-link =
+    .label = Tilpass { -firefox-home-brand-name }
 
 ## AI controls page
 

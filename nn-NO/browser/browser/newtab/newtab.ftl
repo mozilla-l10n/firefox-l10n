@@ -891,6 +891,8 @@ newtab-sports-widget-menu-follow-teams = Følg lag
 newtab-sports-widget-menu-view-upcoming = Vis komande
 newtab-sports-widget-menu-view-results = Vis resultat
 newtab-sports-widget-menu-learn-more = Les meir
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Følg med på VM
 newtab-sports-widget-get-updates = Få direkte kampoppdateringar og meir.
 newtab-sports-widget-view-schedule =
     .label = Sjå kampoppsettet
@@ -899,6 +901,9 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Vel eit bakgrunnsbilde
 newtab-sports-widget-skip = Hopp over
+newtab-sports-widget-search-country =
+    .placeholder = Søk etter land
+    .aria-label = Søk etter land
 newtab-sports-widget-cancel = Avbryt
 newtab-sports-widget-done-button =
     .label = Ferdig
@@ -951,3 +956,57 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Dette området følgjer reglane dine
 newtab-activation-window-message-values-focus-message = { -brand-product-name } lèt deg surfe slik du vil, med ein meir personleg måte å starte dagen din på nettet. Gjer { -brand-product-name } til ditt eige.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Skjul klokke
+newtab-clock-widget-menu-learn-more = Les meir
+newtab-clock-widget-menu-edit = Rediger klokker
+newtab-clock-widget-label-your-clocks = Dine klokker
+newtab-clock-widget-search-location-input =
+    .label = Plassering
+    .placeholder = Søk etter ein by
+    .aria-label = Søk etter ein by
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Kallenamn (valfritt)
+    .placeholder = Legg til eit kallenamn
+    .aria-label = Kallenamn (valfritt)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Legg til ei ny klokke
+    .aria-label = Legg til ei ny klokke
+newtab-clock-widget-button-add-clock = Legg til
+newtab-clock-widget-button-cancel = Avbryt
+newtab-clock-widget-button-back =
+    .title = Tilbake
+    .aria-label = Tilbake
+newtab-clock-widget-button-edit-clock =
+    .title = Rediger klokke
+    .aria-label = Rediger klokke
+newtab-clock-widget-button-save = Lagre
+newtab-clock-widget-button-remove-clock =
+    .title = Fjern klokke
+    .aria-label = Fjern klokke
+newtab-clock-widget-add-clock-form =
+    .aria-label = Legg til klokke
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Rediger klokke
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Søkjeresultat
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Opne klokkemeny
+    .aria-label = Opne klokkemeny
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Kallenamn: { $nickname }

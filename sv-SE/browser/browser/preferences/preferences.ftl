@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Utseende
+    .title = { pane-appearance-title }
+pane-downloads-title = Hämtningar
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Tillgänglighet
     .title = { pane-accessibility-title }
 pane-languages-title = Språk
@@ -337,6 +342,12 @@ browser-layout-show-sidebar-desc = Snabb åtkomst till bokmärken, flikar från 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk och utseende
+appearance-group2 =
+    .label = Webbplatsens utseende
+    .description = Vissa webbplatser ändrar sina färger för att matcha dina inställningar. Välj ditt färgschema.
+preferences-web-appearance-choice-auto3 =
+    .label = System
+    .title = Ändra automatiskt webbplatsbakgrunder och innehåll baserat på dina systeminställningar och { -brand-short-name }-tema.
 appearance-group =
     .label = Webbplatsens utseende
     .description = Vissa webbplatser anpassar sitt färgschema baserat på dina inställningar. Välj vilket färgschema du vill använda för dessa webbplatser.
@@ -573,6 +584,12 @@ download-save-files-header =
     .label = Spara filer till
 download-save-where-3 =
     .aria-label = Spara filer till
+download-always-ask-where2 =
+    .label = Fråga var du vill spara filerna innan du hämtar
+    .accesskey = F
+download-private-browsing-delete2 =
+    .label = Ta bort privata fönsterhämtningar vid stängning
+    .accesskey = T
 downloads-header-2 =
     .label = Filhämtningar
 download-save-where-2 =
@@ -603,6 +620,9 @@ applications-setting =
     .description = Välj hur { -brand-short-name } hanterar filer du hämtar från webben eller de program du använder när du surfar.
 applications-header = Program
 applications-description = Välj hur { -brand-short-name } hanterar filer du hämtar från webben eller de program du använder när du surfar.
+applications-setting2 =
+    .label = Filer och applikationer
+    .description = Välj hur { -brand-short-name } hanterar nedladdade filer och innehåll.
 applications-filter =
     .placeholder = Sök filtyper eller program
 applications-type-column =
@@ -682,8 +702,14 @@ applications-handle-new-file-types-description = Vad ska { -brand-short-name } g
 applications-save-for-new-types =
     .label = Spara filer
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = Spara filer automatiskt
+    .accesskey = S
 applications-ask-before-handling =
     .label = Fråga om du vill öppna eller spara filer
+    .accesskey = F
+applications-ask-before-handling2 =
+    .label = Fråga för att öppna eller spara filer
     .accesskey = F
 drm-group =
     .label = Digital Rights Management (DRM) innehåll
@@ -1046,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klocka
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Stöd { -brand-product-name }
@@ -2165,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Behörigheter
     .description = Hantera vad webbplatser kan komma åt, styra eller utlösa.
+permissions-data-section =
+    .heading = Behörigheter och data
+pane-permissions-data-title = Behörigheter och data
 
 ## Privacy Section - Data Collection
 
@@ -2495,6 +2527,22 @@ preferences-connection-link-button =
 desktop-folder-name = Skrivbord
 downloads-folder-name = Filhämtningar
 choose-download-folder-title = Välj mapp för hämtade filer:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Utseende
+browser-theme-group =
+    .label = Tema för webbläsare
+    .description = Formge { -brand-short-name } ditt sätt. Temafärger tillämpas på verktygsfält, menyer och meddelanden.
+browser-theme-manage-link =
+    .label = Hantera { -brand-short-name } teman
+related-settings-group =
+    .label = Relaterade inställningar
+related-settings-accessibility-link =
+    .label = Anpassa zoom och teckensnittsinställningar i Hjälpmedel
+related-settings-home-link =
+    .label = Anpassa { -firefox-home-brand-name }
 
 ## AI controls page
 
