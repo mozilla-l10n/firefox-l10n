@@ -1023,3 +1023,20 @@ newtab-clock-widget-button-save = Składować
 newtab-clock-widget-button-remove-clock =
     .title = Časnik wotstronić
     .aria-label = Časnik wotstronić
+newtab-clock-widget-add-clock-form =
+    .aria-label = Časnik přidać
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Časnik wobdźěłać
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Pytanske wuslědki
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Meni za časnik wočinić
+    .aria-label = Meni za časnik wočinić
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Přimjeno: { $nickname }

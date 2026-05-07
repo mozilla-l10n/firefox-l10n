@@ -702,9 +702,15 @@ applications-handle-new-file-types-description = ¿Qué debería hacer { -brand-
 applications-save-for-new-types =
     .label = Guardar archivos
     .accesskey = G
+applications-save-for-new-types2 =
+    .label = Guardar archivos automáticamente
+    .accesskey = S
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = P
+applications-ask-before-handling2 =
+    .label = Preguntar si abrir o guardar los archivos
+    .accesskey = A
 drm-group =
     .label = Contenido DRM (Digital Rights Management - Administración de Derechos Digitales)
 drm-content-header = Contenido DRM (Digital Rights Management - Administración de Derechos Digitales)
@@ -1066,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Deportes
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Reloj
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Soporte { -brand-product-name }
@@ -2185,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permisos
     .description = Administra qué sitios web pueden acceder, controlar o activar.
+permissions-data-section =
+    .heading = Permisos y datos
+pane-permissions-data-title = Permisos y datos
 
 ## Privacy Section - Data Collection
 
@@ -2515,6 +2527,22 @@ preferences-connection-link-button =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Selecciona la carpeta de descarga:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Apariencia
+browser-theme-group =
+    .label = Tema del navegador
+    .description = Personaliza { -brand-short-name } a tu manera. Los colores del tema se aplican a las barras de herramientas, menús y mensajes.
+browser-theme-manage-link =
+    .label = Gestionar temas de { -brand-short-name }
+related-settings-group =
+    .label = Ajustes relacionados
+related-settings-accessibility-link =
+    .label = Personalizar el zoom y la fuente en Accesibilidad
+related-settings-home-link =
+    .label = Personaliza { -firefox-home-brand-name }
 
 ## AI controls page
 

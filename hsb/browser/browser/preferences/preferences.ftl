@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Wo { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Napohlad
+    .title = { pane-appearance-title }
+pane-downloads-title = Sćehnjenja
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Bjezbarjernosć
     .title = { pane-accessibility-title }
 pane-languages-title = Rěče
@@ -343,6 +348,12 @@ browser-layout-show-sidebar-desc = Mějće spěšny přistup k zapołožkam, raj
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Rěč a zwonkowne
+appearance-group2 =
+    .label = Napohlad websydła
+    .description = Někotre websydła měnjeja swoje barby, zo bychu wašim nastajenjam wotpowěduja. Wubjerće swoju barbowu šemu.
+preferences-web-appearance-choice-auto3 =
+    .label = System
+    .title = Pozadki a wobsah na zakładźe wašich systemowych nastajenjow a drasty { -brand-short-name } awtomatisce změnić.
 appearance-group =
     .label = Napohlad websydła
     .description = Někotre websydła swoju barbowu šemu na zakładźe wašich nastajenjow přiměrjeja. Wubjerće, kotru barbowu šemu chceće za te sydła wužiwać.
@@ -579,6 +590,12 @@ download-save-files-header =
     .label = Dataje składować do
 download-save-where-3 =
     .aria-label = Dataje składować do
+download-always-ask-where2 =
+    .label = Prašeć so, hdźež maja so dataje před sćehnjenjom składować.
+    .accesskey = P
+download-private-browsing-delete2 =
+    .label = Sćehnjenja priwatneho wokna při začinjenju zhašeć
+    .accesskey = S
 downloads-header-2 =
     .label = Sćehnjenja
 download-save-where-2 =
@@ -609,6 +626,9 @@ applications-setting =
     .description = Wubjerće, kak { -brand-short-name } ma z datajemi wobchadźeć, kotrež z interneta sćahujeće abo z nałoženjemi, kotrež při přehladowanju wužiwaće.
 applications-header = Nałoženja
 applications-description = Wubjerće, kak { -brand-short-name } ma z datajemi wobchadźeć, kotrež z interneta sćahujeće abo z nałoženjemi, kotrež při přehladowanju wužiwaće.
+applications-setting2 =
+    .label = Dataje a nałoženja
+    .description = Wubjerće, kak { -brand-short-name } ze sćehnjenymi datajemi a wobsahom wobchadźa.
 applications-filter =
     .placeholder = Datajowe typy abo nałoženja přepytać
 applications-type-column =
@@ -688,8 +708,14 @@ applications-handle-new-file-types-description = Što ma { -brand-short-name } z
 applications-save-for-new-types =
     .label = Dataje składować
     .accesskey = D
+applications-save-for-new-types2 =
+    .label = Dataje awtomatisce składować
+    .accesskey = D
 applications-ask-before-handling =
     .label = Prašeć so, hač so maja dataje wočinić abo składować
+    .accesskey = P
+applications-ask-before-handling2 =
+    .label = Prašeć so, zo byšće dataje wočinił abo składował
     .accesskey = P
 drm-group =
     .label = Wobsah Digital Right Management (DRM)
@@ -1052,6 +1078,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Časnik
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } podpěrać
@@ -2173,6 +2202,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Prawa
     .description = Rjadujće, k čemu websydła móža přistup, štož móža kontrolować abo wuwabić.
+permissions-data-section =
+    .heading = Prawa a daty
+pane-permissions-data-title = Prawa a daty
 
 ## Privacy Section - Data Collection
 
@@ -2503,6 +2535,16 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Sćehnjenja
 choose-download-folder-title = Rjadowak sćehnjenjow wubrać:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Napohlad
+browser-theme-group =
+    .label = Drasta wobhladowaka
+    .description = Přiměrće { -brand-short-name } na swoje wašnje. Drastowe barby so na symbolowe lajsty, menije a powěsće nałožuja.
+browser-theme-manage-link =
+    .label = Drasty { -brand-short-name } rjadować
 
 ## AI controls page
 

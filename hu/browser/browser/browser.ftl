@@ -1311,6 +1311,8 @@ panel-save-update-password = Jelszó
 # "More" item in macOS share menu
 menu-share-more =
     .label = Továbbiak…
+menu-share-windows =
+    .label = További beállítások
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
