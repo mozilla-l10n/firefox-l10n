@@ -643,6 +643,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Soubory a aplikace
+download-save-files-header =
+    .label = Ukládat všechny soubory do složky
+download-save-where-3 =
+    .aria-label = Ukládat všechny soubory do složky
 downloads-header-2 =
     .label = Stahování
 download-save-where-2 =
@@ -862,6 +866,9 @@ update-in-progress-ok-button = &Nepokračovat
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
+
+## About Firefox
+
 
 ## Firefox updates
 
@@ -1719,6 +1726,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Zjistit více
 forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízení
 windows-passkey-settings-label = Správa přístupových klíčů v nastavení systému
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2757,6 +2767,9 @@ preferences-connection-link-button =
 desktop-folder-name = Plocha
 downloads-folder-name = Stažené soubory
 choose-download-folder-title = Vyberte složku pro stahování souborů
+
+## Appearance page
+
 
 ## AI controls page
 
