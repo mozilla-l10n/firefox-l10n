@@ -418,6 +418,14 @@ windows-10-eos-feature-toast-subtitle = La cererea majorității, { -brand-produ
 windows-10-eos-feature-toast-whats-new-button = Vezi ce este nou
 windows-10-eos-feature-toast-dismiss-button = Respinge
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft nu mai oferă asistență pentru Windows 10.</strong> Fă-ți o copie de siguranță cu informațiile pentru a pregăti { -brand-product-name } pentru Windows 11.
+windows-10-eos-global-infobar-primary-button = Activează copiile de siguranță
+    .accesskey = T
+windows-10-eos-global-infobar-learn-more-link = Află mai multe
+    .accessKey = L
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
