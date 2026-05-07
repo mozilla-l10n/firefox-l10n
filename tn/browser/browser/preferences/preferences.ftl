@@ -77,6 +77,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Bolokela difaele ko
+download-save-where-3 =
+    .aria-label = Bolokela difaele ko
 downloads-header-2 =
     .label = Dikopololo
 download-save-where-2 =
@@ -128,9 +132,15 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Ithute mo go tseneletseng
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -138,7 +148,7 @@ play-drm-content-learn-more = Ithute mo go tseneletseng
 ## General Section - Performance
 
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Go batla
 browsing-use-smooth-scrolling =
@@ -146,6 +156,9 @@ browsing-use-smooth-scrolling =
     .accesskey = m
 browsing-group =
     .label = Go batla
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -258,9 +271,12 @@ sync-verification-not-sent-title = Ga go kgonege go romela Netefatso
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -340,10 +356,16 @@ certs-devices-enable-fips = Kgontsha FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tesekopo
 choose-download-folder-title = Tlhopha setsholadifaele sa Kopololo:
+
+## Appearance page
+
 
 ## AI controls page
 
