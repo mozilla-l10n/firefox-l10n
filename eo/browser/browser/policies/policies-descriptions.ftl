@@ -37,6 +37,7 @@ policy-Containers = Dinifi politikojn, kiuj rilatas ingojn.
 policy-DisableAccounts = Malaktivigi servojn kiuj postulas konton, tio inkluzivas speguladon.
 policy-DisabledCiphers = Malaktivigi ĉifradon.
 policy-DefaultDownloadDirectory = Difini la norman dosierujon por elŝutoj.
+policy-DefaultSerialGuardSetting = Administri uzon de interfaco Serial API.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
 policy-DisableBuiltinPDFViewer = Malaktivigi PDF.js (PDF-legilo inkluzivita en { -brand-short-name }).
 policy-DisableDefaultBrowserAgent = Eviti ke la norma retumila agento faru ion ajn. Tio nur aplikeblas al Windows, ĉar aliaj sistemoj ne havas tiun agenton.

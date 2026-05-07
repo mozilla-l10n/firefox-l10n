@@ -1125,6 +1125,9 @@ search-engine-group =
     .label = Norma serĉilo
 search-default-engine =
     .aria-label = Norma serĉilo
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Serĉo
 
 ## Containers Section
 

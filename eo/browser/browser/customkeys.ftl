@@ -13,6 +13,7 @@ customkeys-reset-all = Restarigi ĉiujn normajn alirklavojn
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = Tiu ĉi klavo jam estas asignita al { $conflict }. Ĉu vi volas anstataŭigi ĝin?
 customkeys-reset-all-confirm = Ĉu vi certe volas restarigi ĉiujn normajn alirklavojn?
+customkeys-file-duplicate-tab = Duobligi langeton
 customkeys-history-reopen-tab = Malfermi denove la laste fermitan langeton
 customkeys-history-reopen-window = Malfermi denove la laste fermitan fenestron
 customkeys-sidebar-toggle = Montri/kaŝi flankan strion

@@ -1012,6 +1012,7 @@ urlbar-searchmode-popup-one-off-header = Ĉi foje serĉi per:
 # reset after submitting.
 urlbar-searchmode-popup-header = Serĉi per:
 urlbar-searchmode-popup-search-settings-panelitem = Agordoj de serĉo
+urlbar-searchmode-popup-settings-panelitem = Agordoj
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1100,6 +1101,9 @@ fullscreen-warning-no-domain = Tiu ĉi dokumento videbas nun plenekrane
 fullscreen-exit-button = Eliri el plenekrana reĝimo (Esk)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Eliri el plenekrana reĝimo (esk)
+fullscreen-keyboardlock-exit-button = Eliri plenekranan reĝimon (premu kaj tenu Esk-klavon)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Eliri plenekranan reĝimon (premu kaj tenu esk-klavon)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"

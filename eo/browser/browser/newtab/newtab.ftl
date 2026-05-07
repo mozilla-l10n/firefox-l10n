@@ -382,6 +382,7 @@ newtab-wallpaper-title = Ekranfonoj
 newtab-wallpaper-reset = Reŝargi normajn valorojn
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Alŝuti bildon
+newtab-wallpaper-add-an-image = Aldoni bildon
 newtab-wallpaper-custom-color = Elekti koloron
 newtab-wallpaper-toggle-title =
     .label = Ekranfonoj
@@ -409,6 +410,7 @@ newtab-wallpaper-light-fox-anniversary = Vulpo sur herbejo kun nebula pejzaĝo m
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Solidaj koloroj
+newtab-wallpaper-colors = Koloroj
 newtab-wallpaper-blue = Blua
 newtab-wallpaper-light-blue = Helblua
 newtab-wallpaper-light-purple = Helpurpura
@@ -524,6 +526,10 @@ newtab-weather-opt-in-not-now =
     .label = Ne nun
 newtab-weather-opt-in-yes =
     .label = Jes
+newtab-weather-opt-in-headline = Ricevu vian lokan veterprognozon
+newtab-weather-opt-in-use-location =
+    .label = Uzi vian lokon
+newtab-weather-opt-in-choose-location = Elekti lokon
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Novjorko
 # "Highest" here refers to the highest temperature of the day
