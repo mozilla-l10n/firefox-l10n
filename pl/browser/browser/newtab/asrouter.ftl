@@ -461,3 +461,8 @@ set-default-menu-message-primary-button-variant = Ustaw jako główną przegląd
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 masek dla adresu e-mail, na nasz koszt
+relay-50-masks-announcement-subtitle = Teraz otrzymasz 50 bezpłatnych masek (wcześniej 5). Użyj jednej na każde konto, aby zachować prywatność swojego prawdziwego adresu e-mail.
+relay-50-masks-announcement-primary-button = Otwórz { -relay-brand-name }
+    .accesskey = O
+relay-50-masks-announcement-secondary-button = Zamknij
+    .accesskey = Z

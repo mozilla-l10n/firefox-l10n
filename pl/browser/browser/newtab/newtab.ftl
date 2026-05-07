@@ -368,6 +368,8 @@ newtab-custom-widget-lists-toggle =
     .label = Listy
 newtab-custom-widget-timer-toggle =
     .label = Minutnik
+newtab-custom-widget-sports-toggle =
+    .label = Mistrzostwa świata w piłce nożnej
 newtab-custom-widget-section-title = Widżety
 newtab-custom-widget-section-toggle =
     .label = Widżety
@@ -387,6 +389,7 @@ newtab-wallpaper-title = Tapety
 newtab-wallpaper-reset = Przywróć domyślne
 #  (developer note): @nova-cleanup(remove-string): Remove old "Upload an image" string once Nova lands. The new "Add an image"  string will take over
 newtab-wallpaper-upload-image = Dodaj obraz
+newtab-wallpaper-add-an-image = Dodaj obraz
 newtab-wallpaper-custom-color = Wybierz kolor
 newtab-wallpaper-toggle-title =
     .label = Tapety
@@ -414,6 +417,7 @@ newtab-wallpaper-light-fox-anniversary = Lis na łące na tle mglistych gór
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Jednolite kolory
+newtab-wallpaper-colors = Kolory
 newtab-wallpaper-blue = Niebieski
 newtab-wallpaper-light-blue = Jasnoniebieski
 newtab-wallpaper-light-purple = Jasnofioletowy
@@ -504,6 +508,9 @@ newtab-weather-menu-change-location = Zmień położenie
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Wyszukaj położenie
     .aria-label = Wyszukaj położenie
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Użyj obecnego położenia
 newtab-weather-menu-weather-display = Wyświetlanie pogody
 newtab-weather-todays-forecast = Prognoza na dziś
 newtab-weather-see-full-forecast = Pełna prognoza
@@ -529,6 +536,10 @@ newtab-weather-opt-in-not-now =
     .label = Nie teraz
 newtab-weather-opt-in-yes =
     .label = Tak
+newtab-weather-opt-in-headline = Lokalna prognoza pogody
+newtab-weather-opt-in-use-location =
+    .label = Użyj położenia
+newtab-weather-opt-in-choose-location = Wybierz położenie
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Nowy Jork
 # "Highest" here refers to the highest temperature of the day
@@ -588,8 +599,16 @@ newtab-topic-selection-button-pick-interests = Wybierz swoje zainteresowania
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Obserwuj
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Obserwuj temat „{ $topic }”
 newtab-section-following-button = Obserwowane
 newtab-section-unfollow-button = Przestań obserwować
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Obserwowane: przestań obserwować temat „{ $topic }”
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Dostrój swoje treści
 newtab-section-follow-highlight-subtitle = Obserwuj swoje zainteresowania, aby widzieć więcej tego, co lubisz.
@@ -601,6 +620,22 @@ newtab-section-follow-highlight-subtitle = Obserwuj swoje zainteresowania, aby w
 newtab-section-block-button = Zablokuj
 newtab-section-blocked-button = Zablokowano
 newtab-section-unblock-button = Odblokuj
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Obserwuj temat „{ $topic }”
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Przestań obserwować temat „{ $topic }”
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Zablokuj temat „{ $topic }”
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Odblokuj temat „{ $topic }”
 
 ## Confirmation modal for blocking a section
 
@@ -631,6 +666,10 @@ newtab-custom-wallpaper-cta = Wypróbuj
 newtab-new-user-custom-wallpaper-title = Wybierz tapetę, aby { -brand-product-name } stał się Twój
 newtab-new-user-custom-wallpaper-subtitle = Czuj się na każdej nowej karcie jak w domu dzięki własnej tapecie lub kolorowi.
 newtab-new-user-custom-wallpaper-cta = Wypróbuj teraz
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Nowe tapety właśnie wylądowały
 
 ## Strings for download mobile highlight
 
