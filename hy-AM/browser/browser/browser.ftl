@@ -421,6 +421,10 @@ quickactions-logins2 = Կառավարել գաղտնաբառերը
 quickactions-cmd-logins = մուտքագրումներ, գաղտնաբառեր
 # Mutes all tabs playing audio
 quickactions-mute = Անջատել աուդիո նվագարկող ներդիրները
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = լուռ, շըշ, սսսսս
 # Opens about:addons page in the plugins section
 quickactions-plugins = Կարգավորել բաղադրիչները
 quickactions-cmd-plugins = բաղադրիչներ
@@ -578,6 +582,9 @@ browser-window-restore-down-button =
     .tooltiptext = Վերականգնել ներքև
 browser-window-close-button =
     .tooltiptext = Փակել
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Վերադառնալ
 
 ## Tab actions
 
@@ -978,6 +985,7 @@ urlbar-searchmode-popup-one-off-header = Այս անգամ որոնել հետև
 # reset after submitting.
 urlbar-searchmode-popup-header = Որոնել՝
 urlbar-searchmode-popup-search-settings-panelitem = Որոնման կարգավորումներ
+urlbar-searchmode-popup-settings-panelitem = Կարգավորումներ
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -993,6 +1001,21 @@ urlbar-result-action-switch-to-tabgroup = Փոխարկվել { $group }-ին
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Բացել { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Բացել նոր ներդիրում
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Բացել նոր պարունակ ներդիրում
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Բացել նոր պատուհանում
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = Բացել նոր գաղտնի պատուհանում
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
@@ -1199,6 +1222,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Նոր գաղտնի պատուհան
     .tooltiptext = Բացել նոր գաղտնի դիտարկման պատուհան ({ $shortcut })
+toolbar-button-tab-groups =
+    .label = Ներդիրների խմբեր
+    .tooltiptext = Ցուցադրել ձեր ներդիրների խմբերը
 
 ## EME notification panel
 
@@ -1480,6 +1506,7 @@ trustpanel-etp-toggle-on =
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-etp-toggle-off =
     .aria-label = Ուժեղացված պաշտպանություն հետևելուց․ Անջատված է { $host }-ի համար
+trustpanel-etp-description-enabled = Եթե այս կայքում ինչ-որ բան կոտրված է, փորձեք անջատել պաշտպանությունները:
 trustpanel-connection-label-secure = Կապակցումն ապահով է
 trustpanel-connection-label-insecure = Կապակցումն անվտանգ չէ
 trustpanel-header-enabled = { -brand-product-name }--ը պաշտպանված է
@@ -1554,3 +1581,9 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name }-ը արգելափակել է { $count } մատնահետք հավաքող
        *[other] { -brand-product-name }-ը արգելափակել է { $count } մատնահետքեր հավաքող
     }
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Բաց թողնել
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-never-show-button = Այլևս չցուցադրել
+    .accesskey = D
