@@ -40,9 +40,9 @@ settings-update-no-updates-found =
 aboutdialog-update-checking-failed = Sprawdzenie dostępności aktualizacji się nie powiodło.
 settings-update-checking-failed =
     .label = Sprawdzenie dostępności aktualizacji się nie powiodło.
-update-otherInstanceHandlingUpdates = Inna instancja właśnie aktualizuje program { -brand-short-name }.
+update-otherInstanceHandlingUpdates = Inne wystąpienie właśnie aktualizuje program { -brand-short-name }.
 settings-update-other-instance-handling-updates =
-    .label = Inna instancja właśnie aktualizuje program { -brand-short-name }.
+    .label = Inne wystąpienie właśnie aktualizuje program { -brand-short-name }.
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/

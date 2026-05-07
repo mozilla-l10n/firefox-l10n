@@ -66,7 +66,7 @@ settings-data-change-password2 =
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
-turn-on-scheduled-backups-header = Włącz kopię zapasową
+turn-on-scheduled-backups-header = Włączanie kopii zapasowej
 turn-on-scheduled-backups-description = { -brand-short-name } będzie tworzył migawkę Twoich danych co 24 godziny. Można je przywrócić w razie problemu lub w przypadku zakupu nowego urządzenia.
 turn-on-scheduled-backups-support-link = Co znajdzie się w kopii zapasowej?
 # "Location" refers to the save location or a folder where users want backups stored.
@@ -101,7 +101,7 @@ turn-off-scheduled-backups-confirm-button = Wyłącz i usuń kopię zapasową
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
-restore-from-backup-header = Przywróć dane
+restore-from-backup-header = Przywracanie danych
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Co zostanie przywrócone?
@@ -122,7 +122,7 @@ restore-from-backup-type-group-label =
 restore-from-backup-type-replace =
     .label = Zastąp wszystkie dane tą kopią zapasową
 restore-from-backup-type-add =
-    .label = Zachowaj dane i utwórz nowy profil
+    .label = Nie usuwaj danych i utwórz nowy profil
 restore-from-backup-profiles-disabled-message = Spowoduje to zastąpienie wszystkich obecnych danych { -brand-short-name(case: "gen") } kopią zapasową.
 
 ## These strings are displayed in a small error message bar in the settings
