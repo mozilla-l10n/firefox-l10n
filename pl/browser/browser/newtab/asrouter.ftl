@@ -420,6 +420,14 @@ windows-10-eos-feature-toast-subtitle = W odpowiedzi na liczne prośby { -brand
 windows-10-eos-feature-toast-whats-new-button = Zobacz co nowego
 windows-10-eos-feature-toast-dismiss-button = Zamknij
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft nie wspiera już systemu Windows 10.</strong> Utwórz kopię zapasową swoich danych, aby przygotować { -brand-product-name(case: "acc") } na system Windows 11.
+windows-10-eos-global-infobar-primary-button = Włącz kopię zapasową
+    .accesskey = k
+windows-10-eos-global-infobar-learn-more-link = Więcej informacji
+    .accessKey = W
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -448,3 +456,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Ustaw jako domyślną
 set-default-menu-message-primary-button-variant = Ustaw jako główną przeglądarkę
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 masek dla adresu e-mail, na nasz koszt
