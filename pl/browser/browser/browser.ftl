@@ -1134,6 +1134,9 @@ fullscreen-warning-no-domain = Dokument jest teraz wyświetlany w trybie pełno
 fullscreen-exit-button = Opuść tryb pełnoekranowy (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Opuść tryb pełnoekranowy (esc)
+fullscreen-keyboardlock-exit-button = Opuść tryb pełnoekranowy (naciśnij i przytrzymaj klawisz Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Opuść tryb pełnoekranowy (naciśnij i przytrzymaj klawisz esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1293,6 +1296,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Udostępnij
     .tooltiptext = Udostępnij tę stronę
+toolbar-button-tab-groups =
+    .label = Grupy kart
+    .tooltiptext = Wyświetl grupy kart
 
 ## EME notification panel
 
@@ -1753,9 +1759,17 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } zezwolił na { $count } elementów używających komputera użytkownika do generowania kryptowalut
     }
 trustpanel-cryptominer-tab-list-header = Te witryny próbują używać komputera użytkownika do generowania kryptowalut:
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Zamknij
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> element śledzący zablokowany na tej witrynie
         [few] <span data-l10n-name="count">{ $count }</span> elementy śledzące zablokowane na tej witrynie
        *[many] <span data-l10n-name="count">{ $count }</span> elementów śledzących zablokowanych na tej witrynie
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Odśwież
+    .accesskey = O
+reduced-protection-infobar-never-show-button = Nie pokazuj ponownie
+    .accesskey = N
