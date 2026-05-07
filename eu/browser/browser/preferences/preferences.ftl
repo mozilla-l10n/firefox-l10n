@@ -552,6 +552,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fitxategiak eta aplikazioak
+download-save-files-header =
+    .label = Gorde fitxategiak hemen:
+download-save-where-3 =
+    .aria-label = Gorde fitxategiak hemen:
 downloads-header-2 =
     .label = Deskargak
 download-save-where-2 =
@@ -719,6 +723,12 @@ update-in-progress-ok-button = &Baztertu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jarraitu
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1537,6 +1547,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Argibide gehiago
 forms-windows-sso-desc = Kudeatu kontuak zure gailuaren ezarpenetan
 windows-passkey-settings-label = Kudeatu sarbide-gakoak sistemaren ezarpenetan
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2430,6 +2443,9 @@ preferences-connection-link-button =
 desktop-folder-name = Mahaigaina
 downloads-folder-name = Deskargak
 choose-download-folder-title = Aukeratu deskarga-karpeta:
+
+## Appearance page
+
 
 ## AI controls page
 
