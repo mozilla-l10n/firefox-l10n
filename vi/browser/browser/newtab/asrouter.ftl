@@ -412,6 +412,14 @@ windows-10-eos-feature-toast-subtitle = Theo yêu cầu của nhiều người, 
 windows-10-eos-feature-toast-whats-new-button = Xem có gì mới
 windows-10-eos-feature-toast-dismiss-button = Bỏ qua
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft không còn hỗ trợ Windows 10 nữa.</strong> Sao lưu thông tin của bạn để chuẩn bị { -brand-product-name } sẵn sàng cho Windows 11.
+windows-10-eos-global-infobar-primary-button = Bật sao lưu
+    .accesskey = T
+windows-10-eos-global-infobar-learn-more-link = Tìm hiểu thêm
+    .accessKey = L
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
