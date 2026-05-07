@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = ფაილები და პროგრამები
+download-save-files-header =
+    .label = ფაილების შესანახი მდებარეობა
+download-save-where-3 =
+    .aria-label = ფაილების შესანახი მდებარეობა
 downloads-header-2 =
     .label = ჩამოტვირთვები
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = სამუშაო ეკრანი
 downloads-folder-name = ჩამოტვირთვები
 choose-download-folder-title = ჩამოტვირთვების საქაღალდის არჩევა:
+
+## Appearance page
+
 
 ## AI controls page
 
