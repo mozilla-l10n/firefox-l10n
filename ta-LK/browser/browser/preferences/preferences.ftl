@@ -58,6 +58,10 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = கோப்புகளை இங்கே சேமிக்க
+download-save-where-3 =
+    .aria-label = கோப்புகளை இங்கே சேமிக்க
 downloads-header-2 =
     .label = பதிவிறக்கங்கள்
 download-save-where-2 =
@@ -131,11 +135,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = இற்றைகளை நிறுவ ஒரு பின்னணி சேவையைப் பயன்படுத்துக
     .accesskey = b
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -143,7 +153,7 @@ update-application-use-service =
 ## General Section - Performance
 
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = உலாவுதல்
 browsing-use-autoscroll =
@@ -154,6 +164,9 @@ browsing-use-cursor-navigation =
     .accesskey = c
 browsing-group =
     .label = உலாவுதல்
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -236,11 +249,14 @@ network-proxy-connection-settings =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = விதிவிலக்குகள்…
     .accesskey = x
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -314,7 +330,13 @@ certs-header = சான்றிதழ்கள்
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
+
+
+## Appearance page
 
 
 ## AI controls page

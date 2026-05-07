@@ -70,6 +70,10 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Pelan tomar bike li
+download-save-where-3 =
+    .aria-label = Pelan tomar bike li
 downloads-header-2 =
     .label = Jêbarkirî
 download-save-where-2 =
@@ -143,11 +147,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne
     .accesskey = p
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -158,7 +168,7 @@ performance-allow-hw-accel =
     .label = Dema ku lezkara reqalavê amade bibe wê bi kar bîne
     .accesskey = D
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Digere
 browsing-use-autoscroll =
@@ -172,6 +182,9 @@ browsing-use-cursor-navigation =
     .accesskey = J
 browsing-group =
     .label = Digere
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -286,7 +299,7 @@ sync-engine-history =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Rewşên Taybet...
@@ -295,6 +308,9 @@ forms-master-pw-change =
     .label = Şîfreyeke Mafbilind Biguherîne...
     .accesskey = M
 forms-master-pw-fips-desc = Guherandina Nasnavê bi ser neket
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -387,11 +403,17 @@ certs-devices-enable-fips = FIPS 'ê çalak bike
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Sermase
 downloads-folder-name = Jêbarkirî
 choose-download-folder-title = Peldanka jêbarkirinê hilbijêre:
+
+## Appearance page
+
 
 ## AI controls page
 

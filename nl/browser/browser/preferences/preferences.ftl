@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Bestanden en Toepassingen
+download-save-files-header =
+    .label = Bestanden opslaan in
+download-save-where-3 =
+    .aria-label = Bestanden opslaan in
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Bureaublad
 downloads-folder-name = Downloads
 choose-download-folder-title = Downloadmap kiezen:
+
+## Appearance page
+
 
 ## AI controls page
 

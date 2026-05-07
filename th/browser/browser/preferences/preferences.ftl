@@ -557,6 +557,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = ไฟล์และแอปพลิเคชัน
+download-save-files-header =
+    .label = บันทึกไฟล์ไปยัง
+download-save-where-3 =
+    .aria-label = บันทึกไฟล์ไปยัง
 downloads-header-2 =
     .label = การดาวน์โหลด
 download-save-where-2 =
@@ -2475,6 +2479,9 @@ preferences-connection-link-button =
 desktop-folder-name = เดสก์ท็อป
 downloads-folder-name = การดาวน์โหลด
 choose-download-folder-title = เลือกโฟลเดอร์การดาวน์โหลด:
+
+## Appearance page
+
 
 ## AI controls page
 

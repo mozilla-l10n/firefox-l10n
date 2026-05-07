@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Files e applicationes
+download-save-files-header =
+    .label = Salvar le files in
+download-save-where-3 =
+    .aria-label = Salvar le files in
 downloads-header-2 =
     .label = Discargamentos
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Scriptorio
 downloads-folder-name = Discargamentos
 choose-download-folder-title = Elige le dossier de discargamentos:
+
+## Appearance page
+
 
 ## AI controls page
 

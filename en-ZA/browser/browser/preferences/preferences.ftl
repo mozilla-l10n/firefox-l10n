@@ -91,6 +91,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Save files to
+download-save-where-3 =
+    .aria-label = Save files to
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -164,12 +168,18 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Learn more
 update-application-use-service =
     .label = Use a background service to install updates
     .accesskey = b
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -180,7 +190,7 @@ performance-allow-hw-accel =
     .label = Use hardware acceleration when available
     .accesskey = r
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Browsing
 browsing-use-autoscroll =
@@ -197,6 +207,9 @@ browsing-use-cursor-navigation =
     .accesskey = c
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -354,7 +367,7 @@ sync-verification-not-sent-body = We are unable to send a verification mail at t
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Exceptions…
@@ -366,6 +379,9 @@ forms-master-pw-change =
     .label = Change Master Password…
     .accesskey = M
 forms-master-pw-fips-desc = Password Change Failed
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -479,11 +495,17 @@ certs-devices-enable-fips = Enable FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
+
+## Appearance page
+
 
 ## AI controls page
 

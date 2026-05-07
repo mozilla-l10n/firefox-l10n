@@ -73,6 +73,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Boloka difaele go
+download-save-where-3 =
+    .aria-label = Boloka difaele go
 downloads-header-2 =
     .label = Ditaollo
 download-save-where-2 =
@@ -146,11 +150,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Diriša tirelo ya bokamorago gore o lokele dimpshafatšo
     .accesskey = b
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -161,7 +171,7 @@ performance-allow-hw-accel =
     .label = Diriša kgatelelo ya hatewere ge e le gona
     .accesskey = r
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Go praosa
 browsing-use-autoscroll =
@@ -175,6 +185,9 @@ browsing-use-cursor-navigation =
     .accesskey = k
 browsing-group =
     .label = Go praosa
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -287,7 +300,7 @@ sync-engine-history =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Tše sa akaretšwego…
@@ -296,6 +309,9 @@ forms-master-pw-change =
     .label = Fetoša lentšuphetišo le legolo…
     .accesskey = l
 forms-master-pw-fips-desc = Go fetolwa ga lentšuphetišo go paletšwe
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -388,11 +404,17 @@ certs-devices-enable-fips = Kgontšha FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tesekethopo
 downloads-folder-name = Ditaollo
 choose-download-folder-title = Kgetha foltara ya go laolla:
+
+## Appearance page
+
 
 ## AI controls page
 

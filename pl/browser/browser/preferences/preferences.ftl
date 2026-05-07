@@ -572,6 +572,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Pliki i aplikacje
+download-save-files-header =
+    .label = Pobierane pliki zapisuj do:
+download-save-where-3 =
+    .aria-label = Pobierane pliki zapisuj do:
 downloads-header-2 =
     .label = Pobieranie
 download-save-where-2 =
@@ -1572,6 +1576,9 @@ forms-windows-sso-learn-more-link = Więcej informacji
 forms-windows-sso-desc = Zarządzaj kontami w ustawieniach urządzenia
 windows-passkey-settings-label = Zarządzaj kluczami dostępu w ustawieniach urządzenia
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2457,6 +2464,9 @@ preferences-connection-link-button =
 desktop-folder-name = Pulpit
 downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
+
+## Appearance page
+
 
 ## AI controls page
 

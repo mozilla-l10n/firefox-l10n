@@ -171,6 +171,10 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Faili i programys
+download-save-files-header =
+    .label = Vīta, kur saglobuot failus:
+download-save-where-3 =
+    .aria-label = Vīta, kur saglobuot failus:
 downloads-header-2 =
     .label = Lejupīluodes
 download-save-where-2 =
@@ -288,6 +292,15 @@ update-application-use-service =
     .label = Instaleit atjaunynuojumus fonā
     .accesskey = f
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Veiktspieja
@@ -330,6 +343,9 @@ browsing-search-on-start-typing =
     .accesskey = M
 browsing-group =
     .label = Puorlūkuošona
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -379,6 +395,12 @@ use-current-pages =
 choose-bookmark =
     .label = Lītuot gruomotzeimi…
     .accesskey = g
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -477,6 +499,9 @@ containers-add-button =
 containers-remove-button =
     .label = Nūjimt
 
+## Account and sync
+
+
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
@@ -511,6 +536,11 @@ sync-manage-account2 =
 sync-signedin-unverified = { $email } nav apstyprynuots.
 sync-signedin-login-failure = Lyudzu pīsaslēdz, kab atjaunōtu savīnojumu { $email }
 
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
+
 ##
 
 sync-resend-verification =
@@ -522,6 +552,12 @@ sync-remove-account =
 sync-sign-in =
     .label = Pīsasliegt
     .accesskey = P
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
 
 ## The "Choose what to sync" dialog.
 
@@ -608,6 +644,15 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-desc = Paroles maiņa naizadeve
 
+## Privacy Panel Settings
+
+
+## OS Authentication dialog
+
+
+## Privacy section - Autofill
+
+
 ## Privacy Section - History
 
 history-header = Viesture
@@ -685,6 +730,12 @@ sitedata-settings =
 cookies-site-data-group =
     .label = Cookies un lopys dati
 
+## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
+
+
 ## Search Section
 
 addressbar-header = Adresu jūsla
@@ -703,6 +754,19 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = Vaira
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
+
+
+## Privacy Section - Tracking
+
 
 ## Privacy Section - Permissions
 
@@ -763,6 +827,9 @@ collection-health-report-disabled = Data reporting is disabled for this build co
 data-collection-studies-link =
     .label = Apsavērt { -brand-short-name } pietejumus
 
+## Privacy Section - Website Advertising Preferences
+
+
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
@@ -795,8 +862,32 @@ certs-devices =
     .accesskey = D
 certs-devices-enable-fips = Īslēgt FIPS
 
+## Privacy Section - HTTPS-Only
+
+
+## DoH Section
+
+
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Dorbviersma
 downloads-folder-name = Lejupīluodes
 choose-download-folder-title = Izavielit lejupīluožu mapi:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

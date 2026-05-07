@@ -78,6 +78,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = न धारिका जतन करात
+download-save-where-3 =
+    .aria-label = न धारिका जतन करात
 downloads-header-2 =
     .label = डाऊनलोड
 download-save-where-2 =
@@ -151,11 +155,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = सुदार प्रतिष्ठापित करपाक फाटभूंय सेवा वापरात
     .accesskey = b
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -166,7 +176,7 @@ performance-allow-hw-accel =
     .label = हार्डवेर एक्सलरेशन आसा तेन्ना वापरात
     .accesskey = r
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = ब्रावजिंग
 browsing-use-autoscroll =
@@ -180,6 +190,9 @@ browsing-use-cursor-navigation =
     .accesskey = c
 browsing-group =
     .label = ब्रावजिंग
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -311,7 +324,7 @@ sync-verification-not-sent-title = दुजोरो धाडपाक शक�
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = अपवाद...
@@ -320,6 +333,9 @@ forms-master-pw-change =
     .label = प्रधान गुप्त शब्द बदलात...
     .accesskey = M
 forms-master-pw-fips-desc = गुप्तशब्द  बदलप असफळ
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -424,11 +440,17 @@ certs-devices-enable-fips = एफआयपीएस सक्षम
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाऊनलोड
 choose-download-folder-title = डावनलोड धारक निवडात:
+
+## Appearance page
+
 
 ## AI controls page
 

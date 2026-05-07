@@ -178,6 +178,10 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ফাইল ও অ্যাপ্লিকেশন
+download-save-files-header =
+    .label = চিহ্নিত স্থানে ফাইল সংরক্ষিত হবে
+download-save-where-3 =
+    .aria-label = চিহ্নিত স্থানে ফাইল সংরক্ষিত হবে
 downloads-header-2 =
     .label = ডাউনলোড
 download-save-where-2 =
@@ -292,6 +296,9 @@ update-application-manual =
 update-application-use-service =
     .label = আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে
     .accesskey = )
+
+## About Firefox
+
 
 ## Firefox updates
 
@@ -884,6 +891,9 @@ certs-devices-enable-fips = FIPS সক্রিয় করা হবে
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = ডাউনলোড ফোল্ডার নির্বাচন করুন:
+
+## Appearance page
+
 
 ## AI controls page
 

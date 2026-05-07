@@ -70,6 +70,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Файлыг энд хадгал
+download-save-where-3 =
+    .aria-label = Файлыг энд хадгал
 downloads-header-2 =
     .label = Файл татаж авах үед
 download-save-where-2 =
@@ -143,7 +147,13 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
+
+
+## About Firefox
+
+
+## Firefox updates
 
 
 ## Firefox support
@@ -155,7 +165,7 @@ performance-allow-hw-accel =
     .label = Хэрэв боломжтой бол техник хангамжын хурдасгуурыг ашиглах
     .accesskey = r
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Вэбд зорчих
 browsing-use-autoscroll =
@@ -169,6 +179,9 @@ browsing-use-cursor-navigation =
     .accesskey = у
 browsing-group =
     .label = Вэбд зорчих
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -268,7 +281,7 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Зөвшөөрөгдсөн хуудас…
@@ -276,6 +289,9 @@ forms-exceptions =
 forms-master-pw-change =
     .label = Мастер нууц үгийг өөрчил…
     .accesskey = с
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -359,11 +375,17 @@ certs-devices-enable-fips = FIPS зөвшөөр
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ар дэвсгэр
 downloads-folder-name = Татаж авалтууд
 choose-download-folder-title = Татаж авалтын санг сонго:
+
+## Appearance page
+
 
 ## AI controls page
 

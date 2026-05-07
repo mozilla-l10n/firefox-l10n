@@ -386,6 +386,10 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Berkas dan Aplikasi
+download-save-files-header =
+    .label = Simpan berkas di
+download-save-where-3 =
+    .aria-label = Simpan berkas di
 downloads-header-2 =
     .label = Unduhan
 download-save-where-2 =
@@ -554,6 +558,15 @@ update-in-progress-ok-button = &Hapus Perubahan
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Lanjutkan
 
+## About Firefox
+
+
+## Firefox updates
+
+
+## Firefox support
+
+
 ## General Section - Performance
 
 performance-title = Kinerja
@@ -623,6 +636,9 @@ browsing-cfr-recommendations-learn-more = Pelajari lebih lanjut
 browsing-group =
     .label = Jelajah Web
 
+## Accessibility page
+
+
 ## General Section - Proxy
 
 network-settings-title = Setelan Jaringan
@@ -674,6 +690,12 @@ use-current-pages =
 choose-bookmark =
     .label = Gunakan Markah…
     .accesskey = h
+
+## Home Section - Home Page Customization
+
+
+## Custom Homepage subpage
+
 
 ## Home Section - Firefox Home Content Customization
 
@@ -883,6 +905,11 @@ sync-manage-account2 =
 
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
 sync-signedin-login-failure = Mohon masuk untuk menyambungkan ulang { $email }
+
+## Variables
+## $email (string) - Email used for Firefox account
+## $name (string) - Name used for Firefox account
+
 
 ##
 
@@ -1122,6 +1149,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Pelajari lebih lanjut
 forms-windows-sso-desc = Kelola akun di pengaturan perangkat Anda
 windows-passkey-settings-label = Kelola kunci sandi di pengaturan sistem
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -1738,8 +1768,26 @@ preferences-doh-manage-exceptions =
     .label = Kelola Pengecualian…
     .accesskey = K
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desktop
 downloads-folder-name = Unduhan
 choose-download-folder-title = Pilih Folder Unduhan:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+

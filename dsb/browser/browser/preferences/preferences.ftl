@@ -575,6 +575,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dataje a nałoženja
+download-save-files-header =
+    .label = Dataje składowaś do
+download-save-where-3 =
+    .aria-label = Dataje składowaś do
 downloads-header-2 =
     .label = Ześěgnjenja
 download-save-where-2 =
@@ -2499,6 +2503,9 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Ześěgnjenja
 choose-download-folder-title = Zarědnik ześěgnjenjow wubraś:
+
+## Appearance page
+
 
 ## AI controls page
 

@@ -561,6 +561,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлдар және қолданбалар
+download-save-files-header =
+    .label = Файлдарды келесі жерге сақтау
+download-save-where-3 =
+    .aria-label = Файлдарды келесі жерге сақтау
 downloads-header-2 =
     .label = Жүктемелер
 download-save-where-2 =
@@ -1565,6 +1569,9 @@ forms-windows-sso-learn-more-link = Көбірек білу
 forms-windows-sso-desc = Тіркелгілерді құрылғыңыздың баптауларында басқарыңыз
 windows-passkey-settings-label = Қол жеткізу кілттерін жүйе баптауларында басқару
 
+## Privacy Panel Settings
+
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2448,6 +2455,9 @@ preferences-connection-link-button =
 desktop-folder-name = Жұмыс үстелі
 downloads-folder-name = Жүктемелер
 choose-download-folder-title = Жүктемелер сақталатын буманы таңдаңыз:
+
+## Appearance page
+
 
 ## AI controls page
 

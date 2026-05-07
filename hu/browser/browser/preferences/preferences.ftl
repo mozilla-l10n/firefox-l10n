@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fájlok és alkalmazások
+download-save-files-header =
+    .label = Fájlok mentése
+download-save-where-3 =
+    .aria-label = Fájlok mentése
 downloads-header-2 =
     .label = Letöltések
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Asztal
 downloads-folder-name = Letöltések
 choose-download-folder-title = Letöltési mappa kiválasztása:
+
+## Appearance page
+
 
 ## AI controls page
 

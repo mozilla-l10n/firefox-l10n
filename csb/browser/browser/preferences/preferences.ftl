@@ -68,6 +68,10 @@ choose-button =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Zapiszë lopczi do
+download-save-where-3 =
+    .aria-label = Zapiszë lopczi do
 downloads-header-2 =
     .label = Zladënczi
 download-save-where-2 =
@@ -141,11 +145,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacje
     .accesskey = Ù
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -156,7 +166,7 @@ performance-allow-hw-accel =
     .label = Ùżëjë sprzãtowégò wspòmaganiô, żlë je
     .accesskey = ã
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Przezéranié
 browsing-use-autoscroll =
@@ -170,6 +180,9 @@ browsing-use-cursor-navigation =
     .accesskey = Z
 browsing-group =
     .label = Przezéranié
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -278,7 +291,7 @@ sync-engine-history =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Wëjimczi…
@@ -287,6 +300,9 @@ forms-master-pw-change =
     .label = Zmieni przédną parolã…
     .accesskey = Z
 forms-master-pw-fips-desc = Zmiana parolë nie darziła sã.
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -383,11 +399,17 @@ certs-devices-enable-fips = Włączë FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Pùlt
 downloads-folder-name = Zladënczi
 choose-download-folder-title = Wëbierzë katalog dlô zladënków:
+
+## Appearance page
+
 
 ## AI controls page
 

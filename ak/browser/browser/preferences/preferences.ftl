@@ -73,6 +73,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Sie mfael kɔ
+download-save-where-3 =
+    .aria-label = Sie mfael kɔ
 downloads-header-2 =
     .label = Ntwe
 download-save-where-2 =
@@ -146,11 +150,17 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 update-application-use-service =
     .label = Fa ndaekyiri asom no instɔɔle ntoso bi
     .accesskey = n
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -161,7 +171,7 @@ performance-allow-hw-accel =
     .label = Fa hardware aksɛlɛrehyɛn di dwuma bere a ɛda hɔ biara
     .accesskey = h
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Ɛrebrawse
 browsing-use-autoscroll =
@@ -175,6 +185,9 @@ browsing-use-cursor-navigation =
     .accesskey = k
 browsing-group =
     .label = Ɛrebrawse
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -287,7 +300,7 @@ sync-engine-history =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Ngyegye…
@@ -296,6 +309,9 @@ forms-master-pw-change =
     .label = Sesa Ehintasɛmfua Panin…
     .accesskey = m
 forms-master-pw-fips-desc = Ehintasɛmfua nsakrae dii nkugu
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -388,11 +404,17 @@ certs-devices-enable-fips = Ekyisobozisa FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Dɛsktɔp
 downloads-folder-name = Atwe siane
 choose-download-folder-title = Paw atwe folda:
+
+## Appearance page
+
 
 ## AI controls page
 

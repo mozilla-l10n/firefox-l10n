@@ -572,6 +572,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Файлы и приложения
+download-save-files-header =
+    .label = Путь для сохранения файлов
+download-save-where-3 =
+    .aria-label = Путь для сохранения файлов
 downloads-header-2 =
     .label = Загрузки
 download-save-where-2 =
@@ -2495,6 +2499,9 @@ preferences-connection-link-button =
 desktop-folder-name = Рабочий стол
 downloads-folder-name = Загрузки
 choose-download-folder-title = Выберите папку для загрузок:
+
+## Appearance page
+
 
 ## AI controls page
 

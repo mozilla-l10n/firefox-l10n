@@ -75,6 +75,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Dáma jone bénomo
+download-save-where-3 =
+    .aria-label = Dáma jone bénomo
 downloads-header-2 =
     .label = Yúnua
 download-save-where-2 =
@@ -138,9 +142,15 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
 
 play-drm-content-learn-more = Aiyo onóde
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -148,7 +158,7 @@ play-drm-content-learn-more = Aiyo onóde
 ## General Section - Performance
 
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Makara
 browsing-use-autoscroll =
@@ -156,6 +166,9 @@ browsing-use-autoscroll =
     .accesskey = g
 browsing-group =
     .label = Makara
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -282,7 +295,7 @@ sync-device-name-input =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Jɨ́aɨmakɨ…
@@ -293,6 +306,9 @@ forms-saved-logins =
 forms-master-pw-change =
     .label = Jɨaɨe jóne...
     .accesskey = j
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -395,7 +411,13 @@ permissions-notification2 =
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
+
+
+## Appearance page
 
 
 ## AI controls page

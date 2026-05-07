@@ -581,6 +581,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ffeiliau a Rhaglenni
+download-save-files-header =
+    .label = Cadw ffeiliau yn
+download-save-where-3 =
+    .aria-label = Cadw ffeiliau yn
 downloads-header-2 =
     .label = Llwythi i lawr
 download-save-where-2 =
@@ -2507,6 +2511,9 @@ preferences-connection-link-button =
 desktop-folder-name = Bwrdd Gwaith
 downloads-folder-name = Llwythi i lawr
 choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
+
+## Appearance page
+
 
 ## AI controls page
 

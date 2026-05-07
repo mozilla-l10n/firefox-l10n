@@ -52,6 +52,10 @@ advanced-fonts =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Save files to
+download-save-where-3 =
+    .aria-label = Save files to
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -97,7 +101,13 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
+
+
+## About Firefox
+
+
+## Firefox updates
 
 
 ## Firefox support
@@ -106,7 +116,7 @@ applications-use-other-label =
 ## General Section - Performance
 
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Ho lekola
 browsing-use-autoscroll =
@@ -120,6 +130,9 @@ browsing-use-cursor-navigation =
     .accesskey = c
 browsing-group =
     .label = Ho lekola
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -213,9 +226,12 @@ use-current-pages =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-master-pw-fips-desc = Phetolo ya Phasewete e Hlolehile
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -279,7 +295,25 @@ certs-devices-enable-fips = Bulela FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Deskthopo
 choose-download-folder-title = Kgetha Foldara ya ho Jarollela:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
