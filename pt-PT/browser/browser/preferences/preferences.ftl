@@ -552,6 +552,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Ficheiros e aplicações
+download-save-files-header =
+    .label = Guardar ficheiros em
+download-save-where-3 =
+    .aria-label = Guardar ficheiros em
 downloads-header-2 =
     .label = Transferências
 download-save-where-2 =
@@ -719,6 +723,12 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1539,6 +1549,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber mais
 forms-windows-sso-desc = Gerir contas nas definições do seu dispositivo
 windows-passkey-settings-label = Gerir as chaves de acesso nas definições do sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2432,6 +2445,9 @@ preferences-connection-link-button =
 desktop-folder-name = Ambiente de trabalho
 downloads-folder-name = Transferências
 choose-download-folder-title = Escolha a pasta de transferências:
+
+## Appearance page
+
 
 ## AI controls page
 
