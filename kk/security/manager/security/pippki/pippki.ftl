@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Сертификатты қалпына келтіру паролі(қайтадан):
 set-password-reminder = Маңызды: Егер сертификатты қалпына келтіру паролін жоғалтсаңыз, кейін оны қалпына келтіре алмайсыз.  Парольді қауіпсіз жерге жазыңыз.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Қорғалған аутентификация
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Қауіпсіздік құрылғысын ({ $tokenName }) аутентификациялаңыз. Мұны қалай жасау құрылғы түріне байланысты (мысалы, саусақ ізін оқу құралын пайдалану немесе пернетақта арқылы кодты енгізу).
+
 ## Protected authentication alert
 
 # Variables:

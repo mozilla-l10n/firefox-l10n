@@ -2165,6 +2165,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permissos
     .description = Gerer que sitos web pote acceder, controlar, o discatenar.
+permissions-data-section =
+    .heading = Permissos e datos
+pane-permissions-data-title = Permissos e datos
 
 ## Privacy Section - Data Collection
 

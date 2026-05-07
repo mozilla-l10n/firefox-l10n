@@ -6,6 +6,11 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs =
+    { $count ->
+        [one] +{ $count } till
+       *[other] +{ $count } till
+    }
 content-sharing-tabs-title =
     { $count ->
         [one] { $count } flik
