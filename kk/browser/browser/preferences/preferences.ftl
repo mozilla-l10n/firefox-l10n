@@ -75,6 +75,8 @@ pane-accessibility-title = Қолжетімділік
 pane-languages-title = Тілдер
 category-languages =
     .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } Тәжірибелері
 category-experimental =
     .tooltiptext = { -brand-short-name } Тәжірибелері
@@ -82,6 +84,8 @@ pane-experimental-subtitle = Абайлап жалғастырыңыз
 pane-experimental-search-results-header = { -brand-short-name } тәжірибелері: Абайлап жалғастырыңыз
 pane-experimental-description2 = Кеңейтілген баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Біздің эксперименттік функцияларымызды байқап көріңіз! Олар әзірлену және жетілдірілу үстінде, бұл { -brand-short-name } жұмысына әсер етуі мүмкін. Егер сізде <a data-l10n-name="data-collection">техникалық және өзара әрекеттесу деректері</a> қосулы болса ғана, біз бұл функцияларды пайдалануыңыз туралы деректерді аламыз.
@@ -684,6 +688,8 @@ update-application-version = Нұсқасы { $version } <a data-l10n-name="lear
 update-history-2 =
     .label = Жаңартулар тарихын көрсету
     .accesskey = р
+update-application-installation =
+    .label = Орнату
 update-history =
     .label = Жаңартулар тарихын көрсету…
     .accesskey = р
@@ -691,6 +697,9 @@ update-application-allow-description = { -brand-short-name } үшін рұқса
 update-application-auto =
     .label = Жаңартуларды автоорнату (ұсынылады)
     .accesskey = а
+update-application-check-choose-2 =
+    .label = Жаңартуларды тексеру, бірақ қашан орнату керектігін таңдау
+    .accesskey = с
 update-application-check-choose =
     .label = Жаңартуларды тексеру, бірақ орнату керектігін өзіңіз тандайсыз
     .accesskey = з
@@ -724,6 +733,16 @@ update-in-progress-ok-button = Тай&дыру
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = Жалға&стыру
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } туралы
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Ескертулер
 
 ## Firefox support
 
@@ -765,6 +784,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Автоматты айналдыруды қолдану
     .accesskey = в
+motion-and-link-group =
+    .label = Қозғалыс және сілтеме стильдері
 browsing-use-smooth-scrolling =
     .label = Тегіс айналдыруды қолдану
     .accesskey = е
