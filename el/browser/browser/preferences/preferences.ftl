@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Αρχεία και εφαρμογές
+download-save-files-header =
+    .label = Αποθήκευση αρχείων σε
+download-save-where-3 =
+    .aria-label = Αποθήκευση αρχείων σε
 downloads-header-2 =
     .label = Λήψεις
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Επιφάνεια εργασίας
 downloads-folder-name = Λήψεις
 choose-download-folder-title = Επιλογή φακέλου λήψεων:
+
+## Appearance page
+
 
 ## AI controls page
 
