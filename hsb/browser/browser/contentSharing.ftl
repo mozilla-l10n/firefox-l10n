@@ -29,3 +29,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in =
     .label = Přizjewće so, zo byšće wotkazy dźělił
 content-sharing-modal-title = Tutu zběrku wotkazow w kóždym wobhladowaku dźělić
+content-sharing-modal-description = Wutworće zjawnu stronu za tute wotkazy, da so lochko dźělić. Hdyž je wutworjena, njeda so strona wobdźěłać abo zhašeć a spadnje za 7 dnjow.

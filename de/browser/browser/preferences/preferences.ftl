@@ -615,6 +615,9 @@ applications-setting =
     .description = Legen Sie fest, wie { -brand-short-name } mit Dateien verfährt, die Sie aus dem Web oder aus Anwendungen, die Sie beim Surfen verwenden, herunterladen.
 applications-header = Anwendungen
 applications-description = Legen Sie fest, wie { -brand-short-name } mit Dateien verfährt, die Sie aus dem Web oder aus Anwendungen, die Sie beim Surfen verwenden, herunterladen.
+applications-setting2 =
+    .label = Dateien und Anwendungen
+    .description = Legen Sie fest, wie { -brand-short-name } mit heruntergeladenen Dateien und Inhalten verfährt.
 applications-filter =
     .placeholder = Dateitypen oder Anwendungen suchen
 applications-type-column =
@@ -694,7 +697,13 @@ applications-handle-new-file-types-description = Wie soll { -brand-short-name } 
 applications-save-for-new-types =
     .label = Dateien speichern
     .accesskey = s
+applications-save-for-new-types2 =
+    .label = Dateien speichern
+    .accesskey = s
 applications-ask-before-handling =
+    .label = Fragen, ob Dateien geöffnet oder gespeichert werden sollen
+    .accesskey = F
+applications-ask-before-handling2 =
     .label = Fragen, ob Dateien geöffnet oder gespeichert werden sollen
     .accesskey = F
 drm-group =
@@ -1058,6 +1067,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Uhr
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } unterstützen
@@ -2507,6 +2519,11 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Download-Ordner wählen:
+
+## Appearance page
+
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } anpassen
 
 ## AI controls page
 

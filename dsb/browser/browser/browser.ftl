@@ -1325,6 +1325,8 @@ panel-save-update-password = Gronidło
 # "More" item in macOS share menu
 menu-share-more =
     .label = Wěcej…
+menu-share-windows =
+    .label = Dalšne nastajenja
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
