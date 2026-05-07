@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer och program
+download-save-files-header =
+    .label = Spara filer till
+download-save-where-3 =
+    .aria-label = Spara filer till
 downloads-header-2 =
     .label = Filhämtningar
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Skrivbord
 downloads-folder-name = Filhämtningar
 choose-download-folder-title = Välj mapp för hämtade filer:
+
+## Appearance page
+
 
 ## AI controls page
 
