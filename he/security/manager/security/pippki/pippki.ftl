@@ -103,6 +103,9 @@ set-password-reminder = חשוב: אם הססמה שלך לגיבוי האישו
 
 protected-auth-window =
     .title = הזדהות מוגנת
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = נא להזדהות להתקן האבטחה ״{ $tokenName }״. אופן ההזדהות תלוי בהתקן (למשל, שימוש בקורא טביעות אצבע או הזנת קוד על לוח מקשים).
 
 ## Protected authentication alert
 
