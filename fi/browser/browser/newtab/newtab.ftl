@@ -371,6 +371,10 @@ newtab-custom-widget-lists-toggle =
     .label = Listat
 newtab-custom-widget-timer-toggle =
     .label = Ajastin
+newtab-custom-widget-sports-toggle =
+    .label = Jalkapallon maailmanmestaruuskilpailut
+newtab-custom-widget-clock-toggle =
+    .label = Kello
 newtab-custom-widget-section-title = Pienoisohjelmat
 newtab-custom-widget-section-toggle =
     .label = Pienoisohjelmat
@@ -840,6 +844,46 @@ newtab-promo-card-dismiss-button =
     .title = Hylkää
     .aria-label = Hylkää
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuutti
+           *[other] { $minutes } minuuttia
+        }
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Piilota ajastin
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Hyvää työtä
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Tauko on ohi
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Tarvitsetko tauon?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Valmis keskittymään?
+
+## Sports widget
+
+newtab-sports-widget-menu-view-results = Näytä tulokset
+newtab-sports-widget-menu-learn-more = Lue lisää
+newtab-sports-widget-choose-wallpaper =
+    .label = Valitse taustakuva
+newtab-sports-widget-skip = Ohita
+newtab-sports-widget-cancel = Peruuta
+newtab-sports-widget-done-button =
+    .label = Valmis
+newtab-sports-widget-round-32 = 32 parasta
+newtab-sports-widget-round-16 = 16 parasta
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = SUORA
+newtab-sports-widget-upcoming = Tulossa
+newtab-sports-widget-view-results-link = Näytä tulokset
+newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -861,3 +905,46 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tämä tila toimii sinun säännöilläsi
 newtab-activation-window-message-values-focus-message = { -brand-product-name } antaa sinun selata verkkoa haluamallasi tavalla, tarjoten henkilökohtaisemman tavan aloittaa päiväsi verkossa. Tee { -brand-product-name }ista omasi.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Piilota kello
+newtab-clock-widget-menu-learn-more = Lue lisää
+newtab-clock-widget-menu-edit = Muokkaa kelloja
+newtab-clock-widget-menu-switch-to-12h = Vaihda 12 tunnin muotoon
+newtab-clock-widget-menu-switch-to-24h = Vaihda 24 tunnin muotoon
+newtab-clock-widget-label-your-clocks = Kellosi
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Lisää uusi kello
+    .aria-label = Lisää uusi kello
+newtab-clock-widget-button-add-clock = Lisää
+newtab-clock-widget-button-cancel = Peruuta
+newtab-clock-widget-button-back =
+    .title = Takaisin
+    .aria-label = Takaisin
+newtab-clock-widget-button-edit-clock =
+    .title = Muokkaa kelloa
+    .aria-label = Muokkaa kelloa
+newtab-clock-widget-button-save = Tallenna
+newtab-clock-widget-button-remove-clock =
+    .title = Poista kello
+    .aria-label = Poista kello
+newtab-clock-widget-add-clock-form =
+    .aria-label = Lisää kello
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Muokkaa kelloa
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Hakutulokset
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Avaa kellon valikko
+    .aria-label = Avaa kellon valikko

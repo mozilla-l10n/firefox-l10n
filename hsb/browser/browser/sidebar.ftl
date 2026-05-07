@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Nastajenja { -brand-short-name } rjadować
 sidebar-vertical-tabs =
     .label = Wertikalne rajtarki
+sidebar-settings2 =
+    .label = Nastajenja
 sidebar-settings =
     .label = Nastajenja bóčnicy
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Bóčnicu pod kursorom pokazać
+sidebar-manage-extensions2 = Wšě rozšěrjenja rjadować
 sidebar-manage-extensions = Rozšěrjenja rjadować
+sidebar-customize-extensions-header2 = Rozšěrjenja
+sidebar-customize-firefox-tools-header2 =
+    .label = Nastroje
 
 ## Labels for sidebar context menu items
 

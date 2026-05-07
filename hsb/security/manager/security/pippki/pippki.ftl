@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Hesło zawěsćenja certifikata (hišće raz):
 set-password-reminder = Wažny: Jeli swoje hesło za zawěsćenje certifikata zabudźeće, njemóžeće tute zawěsćenje pozdźišo wobnowić. Prošu wobchowajće jo na wěstym městnje.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Škitana awtentifikacija
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Prošu awtentifikujće so pola wěstotneho grata ({ $tokenName }). Kak dyrbiće to činić, wotwisuje wot grata (na přikład přez wužiwanje čitaka porstowych wotćišćow abo přez zapodawanje koda z tastaturu).
+
 ## Protected authentication alert
 
 # Variables:

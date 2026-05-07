@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Hallitse { -brand-short-name }-asetuksia
 sidebar-vertical-tabs =
     .label = Pystysuuntaiset välilehdet
+sidebar-settings2 =
+    .label = Asetukset
 sidebar-settings =
     .label = Sivupalkin asetukset
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Laajenna sivupalkki hiiren päällä
+sidebar-manage-extensions2 = Hallitse kaikkia laajennuksia
 sidebar-manage-extensions = Hallitse laajennuksia
+sidebar-customize-extensions-header2 = Laajennukset
+sidebar-customize-firefox-tools-header2 =
+    .label = Työkalut
 
 ## Labels for sidebar context menu items
 

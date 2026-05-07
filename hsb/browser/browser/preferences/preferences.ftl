@@ -2549,6 +2549,8 @@ related-settings-group =
     .label = Přisłušne nastajenja
 related-settings-accessibility-link =
     .label = Přiměrće měritko a pismowe nastajenja we wotrězku Bjezbarjernosć
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } přiměrić
 
 ## AI controls page
 

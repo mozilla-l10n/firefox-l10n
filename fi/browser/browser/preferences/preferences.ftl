@@ -68,6 +68,9 @@ category-sync3 =
 pane-ai-controls-title = Tekoälyn säätimet
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-appearance-title = Ulkoasu
+    .title = { pane-appearance-title }
+pane-downloads-title = Lataukset
 pane-languages-title = Kielet
 category-languages =
     .tooltiptext = { pane-languages-title }
@@ -599,6 +602,9 @@ applications-setting =
     .description = Valitse, miten { -brand-short-name } käsittelee verkosta lataamasi tiedostot tai verkkoa selatessa käyttämäsi ohjelmat.
 applications-header = Ohjelmat
 applications-description = Valitse, miten { -brand-short-name } käsittelee verkosta lataamasi tiedostot tai verkkoa selatessa käyttämäsi ohjelmat.
+applications-setting2 =
+    .label = Tiedostot ja ohjelmat
+    .description = Valitse miten { -brand-short-name } käsittelee ladattuja tiedostoja ja sisältöä.
 applications-filter =
     .placeholder = Etsi tiedostotyyppejä tai ohjelmia
 applications-type-column =
@@ -678,6 +684,9 @@ applications-handle-new-file-types-description = Mitä { -brand-short-name }in p
 applications-save-for-new-types =
     .label = Tallenna tiedostot
     .accesskey = s
+applications-save-for-new-types2 =
+    .label = Tallenna tiedostot automaattisesti
+    .accesskey = a
 applications-ask-before-handling =
     .label = Kysy avataanko vai tallennetaanko tiedostot
     .accesskey = A
@@ -836,6 +845,12 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Lue lisää
 browsing-group =
     .label = Selaus
+
+## Accessibility page
+
+preferences-fonts-advanced-settings =
+    .label = Lisäasetukset
+    .accesskey = L
 
 ## General Section - Proxy
 
@@ -1021,6 +1036,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Urheilu
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Kello
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Tue { -brand-product-name }ia
@@ -2120,6 +2138,7 @@ permissions-notification2 =
 permissions-header3 =
     .label = Käyttöoikeudet
     .description = Hallitse mitä verkkosivustot voivat käyttää, ohjata ja käynnistää.
+pane-permissions-data-title = Käyttöoikeudet ja data
 
 ## Privacy Section - Data Collection
 
@@ -2441,6 +2460,11 @@ preferences-connection-link-button =
 desktop-folder-name = Työpöytä
 downloads-folder-name = Lataukset
 choose-download-folder-title = Valitse tallennuskansio
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Ulkoasu
 
 ## AI controls page
 

@@ -917,6 +917,15 @@ newtab-sports-widget-view-schedule =
     .label = Hrajny plan pokazać
 newtab-sports-widget-follow-teams =
     .label = Teamam slědować
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] { $number } teamej slědować
+        [two] { $number } teamomaj slědować
+        [few] { $number } teamam slědować
+       *[other] { $number } teamam slědować
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Wubjerće pozadkowy wobraz
 newtab-sports-widget-skip = Přeskočić
