@@ -894,22 +894,6 @@ newtab-sports-widget-menu-follow-teams = Suivre des équipes
 newtab-sports-widget-menu-view-upcoming = Voir les matchs à venir
 newtab-sports-widget-menu-view-results = Voir les résultats
 newtab-sports-widget-menu-learn-more = En savoir plus
-newtab-sports-widget-countdown-title = Compte à rebours avant la Coupe du monde
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = D
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = H
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Recevez les dernières infos en direct sur les matchs et bien plus encore.
 newtab-sports-widget-view-schedule =
     .label = Voir le calendrier
@@ -918,9 +902,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Choisir un fond d’écran
 newtab-sports-widget-skip = Ignorer
-newtab-sports-widget-search-teams =
-    .placeholder = Rechercher des équipes
-    .aria-label = Rechercher des équipes
 newtab-sports-widget-done-button =
     .label = Terminé
 newtab-sports-widget-group-stage = Phase de groupes

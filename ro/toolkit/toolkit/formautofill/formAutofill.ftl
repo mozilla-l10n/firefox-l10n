@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } încearcă s
 autofill-edit-payment-method-os-prompt-macos = afișează informațiile stocate despre metoda de plată
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } încearcă să afișeze informațiile stocate despre metoda de plată. Confirmă accesul la acest cont Windows mai jos.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } încearcă să afișeze informațiile stocate despre metoda de plată.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opțiuni de completare automată a formularelor
 autofill-options-link-osx = Preferințe de completare automată a formularelor
 

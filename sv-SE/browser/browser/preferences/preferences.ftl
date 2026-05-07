@@ -2496,9 +2496,6 @@ desktop-folder-name = Skrivbord
 downloads-folder-name = Filhämtningar
 choose-download-folder-title = Välj mapp för hämtade filer:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

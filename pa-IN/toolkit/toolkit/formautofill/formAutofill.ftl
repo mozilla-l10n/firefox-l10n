@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } ਸੰਭਾ
 autofill-edit-payment-method-os-prompt-macos = ਸੰਭਾਲੀ ਹੋਈ ਭੁਗਤਾਨ ਢੰਗ ਦੀ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ਸੰਭਾਲੀ ਹੋਈ ਭੁਗਤਾਨ ਢੰਗ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਹੇਠਾਂ ਇਸ ਵਿੰਡੋਜ਼ ਖਾਤੇ ਲਈ ਪਹੁੰਚ ਦੀ ਤਸਦੀਕ ਕਰੋ।
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ਸੰਭਾਲੀ ਹੋਈ ਭੁਗਤਾਨ ਦੀ ਢੰਗ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = ਫਾਰਮ ਆਪੇ ਭਰਨ ਦੀਆਂ ਚੋਣਾਂ
 autofill-options-link-osx = ਫਾਰਮ ਆਪੇ ਭਰਨ ਦੀਆਂ ਪਸੰਦਾਂ
 

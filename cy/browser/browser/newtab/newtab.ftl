@@ -915,22 +915,6 @@ newtab-sports-widget-menu-follow-teams = Dilyn timau
 newtab-sports-widget-menu-view-upcoming = Gweld yr hyn sydd i ddod
 newtab-sports-widget-menu-view-results = Gweld y canlyniadau
 newtab-sports-widget-menu-learn-more = Dysgu rhagor
-newtab-sports-widget-countdown-title = Paratoi ar gyfer Cwpan y Byd
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = D
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = A
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Cael diweddariadau gemau byw a mwy.
 newtab-sports-widget-view-schedule =
     .label = Gweld yr amserlen
@@ -939,9 +923,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Dewis Papur Wal
 newtab-sports-widget-skip = Hepgor
-newtab-sports-widget-search-teams =
-    .placeholder = Chwilio’r timau
-    .aria-label = Chwilio’r timau
 newtab-sports-widget-done-button =
     .label = Gorffen
 newtab-sports-widget-group-stage = Cymal Grŵp

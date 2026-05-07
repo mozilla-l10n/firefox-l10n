@@ -187,6 +187,7 @@ sidebar-panel-header-close-button =
 ## Labels for sidebar bookmarks panel folder names.
 
 sidebar-bookmarks-folder-menu = Менюи хатбаракҳо
+sidebar-bookmarks-folder-toolbar = Навори абзорҳои хатбаракҳо
 sidebar-bookmarks-folder-other = Хатбаракҳои дигар
 sidebar-bookmarks-folder-mobile = Хатбаракҳои мобилӣ
 

@@ -1579,9 +1579,6 @@ forms-windows-sso-learn-more-link = Conocer más
 forms-windows-sso-desc = Administrar cuentas en la configuración de su dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
 
-## Privacy Panel Settings
-
-
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2466,9 +2463,6 @@ preferences-connection-link-button =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Elegir carpeta para descargas:
-
-## Appearance page
-
 
 ## AI controls page
 

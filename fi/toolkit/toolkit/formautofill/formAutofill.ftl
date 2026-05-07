@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } yrittää k�
 autofill-edit-payment-method-os-prompt-macos = näyttää tallennettuja maksutapatietoja
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } yrittää näyttää tallennettuja maksutapatietoja. Vahvista pääsy tälle Windows-tilille alapuolella.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } yrittää näyttää tallennettuja maksutapatietoja.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Lomakkeiden automaattitäytön asetukset
 autofill-options-link-osx = Lomakkeiden automaattitäytön asetukset
 

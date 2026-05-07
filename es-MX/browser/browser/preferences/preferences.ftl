@@ -2496,9 +2496,6 @@ desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Selecciona la carpeta de descarga:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

@@ -736,9 +736,6 @@ update-in-progress-ok-button = &Zrušiť
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
 
-## About Firefox
-
-
 ## Firefox updates
 
 update-application-suppress-prompts-heading =
@@ -1566,9 +1563,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Ďalšie informácie
 forms-windows-sso-desc = Účty môžete spravovať v nastaveniach vášho zariadenia
 windows-passkey-settings-label = Prístupové kľúče môžete spravovať v nastaveniach systému
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2462,9 +2456,6 @@ preferences-connection-link-button =
 desktop-folder-name = Pracovná plocha
 downloads-folder-name = Stiahnuté súbory
 choose-download-folder-title = Vyberte priečinok pre stiahnuté súbory:
-
-## Appearance page
-
 
 ## AI controls page
 

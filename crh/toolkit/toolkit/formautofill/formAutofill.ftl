@@ -5,7 +5,7 @@
 
 ## OS Prompt Dialog
 
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Forma Avto-toldurma Seçenekleri
 autofill-options-link-osx = Forma Avto-toldurma Tercihleri
 

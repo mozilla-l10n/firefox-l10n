@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } 正尝试使
 autofill-edit-payment-method-os-prompt-macos = 显示存储的付款方式信息
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } 正尝试显示存储的付款方式信息，请在下方登录此 Windows 账户确认。
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } 正尝试显示存储的付款方式信息。
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = 表单自动填写选项
 autofill-options-link-osx = 表单自动填写偏好设置
 

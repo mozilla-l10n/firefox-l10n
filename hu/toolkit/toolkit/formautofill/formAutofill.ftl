@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = A { -brand-short-name } tárolt fi
 autofill-edit-payment-method-os-prompt-macos = tárolt fizetésimód-információk megjelenítése
 autofill-edit-payment-method-os-prompt-windows = A { -brand-short-name } tárolt fizetésimód-információkat akar megjeleníteni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
 autofill-edit-payment-method-os-prompt-other = A { -brand-short-name } tárolt fizetésimód-információkat akar megjeleníteni.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Automatikus űrlapkitöltési beállítások
 autofill-options-link-osx = Automatikus űrlapkitöltési beállítások
 

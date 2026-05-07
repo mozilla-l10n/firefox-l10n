@@ -898,22 +898,6 @@ newtab-sports-widget-menu-follow-teams = Teams volgen
 newtab-sports-widget-menu-view-upcoming = Volgende tonen
 newtab-sports-widget-menu-view-results = Resultaten bekijken
 newtab-sports-widget-menu-learn-more = Meer info
-newtab-sports-widget-countdown-title = Aftellen naar het WK
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = D
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = U
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Ontvang live wedstrijdupdates en meer.
 newtab-sports-widget-view-schedule =
     .label = Tijdschema bekijken
@@ -922,9 +906,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Kies een achtergrond
 newtab-sports-widget-skip = Overslaan
-newtab-sports-widget-search-teams =
-    .placeholder = Teams zoeken
-    .aria-label = Teams zoeken
 newtab-sports-widget-done-button =
     .label = Gereed
 newtab-sports-widget-group-stage = Groepsfase

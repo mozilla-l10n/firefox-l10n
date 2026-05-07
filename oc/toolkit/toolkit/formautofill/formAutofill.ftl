@@ -5,7 +5,7 @@
 
 ## OS Prompt Dialog
 
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Options d’emplenatge automatic dels formularis
 autofill-options-link-osx = Preferéncias d’emplenatge automatic dels formularis
 

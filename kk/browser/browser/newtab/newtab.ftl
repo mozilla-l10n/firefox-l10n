@@ -871,22 +871,6 @@ newtab-sports-widget-menu-follow-teams = Командаларға жазылу
 newtab-sports-widget-menu-view-upcoming = Алдағы уақыттағыларды қарау
 newtab-sports-widget-menu-view-results = Нәтижелерді қарау
 newtab-sports-widget-menu-learn-more = Көбірек білу
-newtab-sports-widget-countdown-title = Әлем чемпионатына дейінгі кері санақ
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = К
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = С
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = М
 newtab-sports-widget-get-updates = Тікелей матч жаңалықтарын және басқа да ақпараттарды алыңыз.
 newtab-sports-widget-view-schedule =
     .label = Кестені қарау
@@ -895,9 +879,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Тұсқағазды таңдау
 newtab-sports-widget-skip = Аттап кету
-newtab-sports-widget-search-teams =
-    .placeholder = Командаларды іздеу
-    .aria-label = Командаларды іздеу
 newtab-sports-widget-done-button =
     .label = Дайын
 newtab-sports-widget-group-stage = Топтық кезең

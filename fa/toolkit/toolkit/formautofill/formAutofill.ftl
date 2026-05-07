@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } در حال 
 autofill-edit-payment-method-os-prompt-macos = نمایش اطلاعات روش پرداخت ذخیره‌ شده
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } در حال تلاش برای نمایش اطلاعات روش پرداخت ذخیره‌ شده است. دسترسی به این حساب ویندوز را در زیر تأیید کنید.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } در حال تلاش برای نمایش اطلاعات روش پرداخت ذخیره‌ شده است.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = گزینه‌های پرکردن خودکار فرم
 autofill-options-link-osx = ترجیحات پرکردن خودکار فرم
 

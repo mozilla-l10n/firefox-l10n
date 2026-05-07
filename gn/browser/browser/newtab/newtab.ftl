@@ -897,22 +897,6 @@ newtab-sports-widget-menu-follow-teams = Esegi atyetápe
 newtab-sports-widget-menu-view-upcoming = Ehecha tenondegua
 newtab-sports-widget-menu-view-results = Ehecha mba’éicha osẽ
 newtab-sports-widget-menu-learn-more = Eikuaave
-newtab-sports-widget-countdown-title = Copa del Mundo ñeg̃uahẽ jepapa
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = D
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = H
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Erekóta mbohekopyahu partído oiko jave ha hetave.
 newtab-sports-widget-view-schedule =
     .label = Ehecha nde aravorã
@@ -921,9 +905,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Eiporavo mba’erechaha rugua
 newtab-sports-widget-skip = Jepo
-newtab-sports-widget-search-teams =
-    .placeholder = Atyeta jehekaha
-    .aria-label = Atyeta jehekaha
 newtab-sports-widget-done-button =
     .label = Japopyre
 newtab-sports-widget-group-stage = Atygua jehuga

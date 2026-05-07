@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } pospytuje, s
 autofill-edit-payment-method-os-prompt-macos = składowane informacije płaćenskeje metody pokazać
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } pospytuje, składowane daty płaćenskeje metody pokazać. Wobkrućće přistup k Windowsowemu kontu deleka.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } pospytuje, składowane informacije płaćenskeje metody pokazać.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Nastajenja za awtomatiske wupjelnjenje formularow
 autofill-options-link-osx = Nastajenja za awtomatiske wupjelnjenje formularow
 

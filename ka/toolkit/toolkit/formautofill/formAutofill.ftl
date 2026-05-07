@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } ცდილ
 autofill-edit-payment-method-os-prompt-macos = შენახული გადახდის საშუალების მონაცემების ჩვენებას
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ცდილობს გამოაჩინოს შენახული გადახდის საშუალების მონაცემები. დაადასტურეთ წვდომა Windows-ანგარიშთან ქვემოთ.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ცდილობს შენახული გადახდის საშუალების მონაცემების ჩვენებას.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = ველების თვითშევსების პარამეტრები
 autofill-options-link-osx = ველების თვითშევსების გამართვა
 

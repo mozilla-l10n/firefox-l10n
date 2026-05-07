@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } al sta cirin
 autofill-edit-payment-method-os-prompt-macos = mostrâ informazions salvadis relativis ai metodis di paiament
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } al sta cirint di visualizâ informazions memorizadis relativis ai metodis di paiament. Conferme l’acès al account Windows chi sot.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } al sta cirint di visualizâ informazions memorizadis relativis ai metodis di paiament.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opzions compilazion automatiche formularis
 autofill-options-link-osx = Preferencis compilazion automatiche formularis
 

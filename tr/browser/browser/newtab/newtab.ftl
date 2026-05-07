@@ -894,22 +894,6 @@ newtab-sports-widget-menu-follow-teams = Takımları takip et
 newtab-sports-widget-menu-view-upcoming = Yaklaşanlara bak
 newtab-sports-widget-menu-view-results = Sonuçlara bak
 newtab-sports-widget-menu-learn-more = Daha fazla bilgi al
-newtab-sports-widget-countdown-title = Dünya Kupası’na geri sayım
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = G
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = S
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = D
 newtab-sports-widget-get-updates = Canlı maç haberlerini ve daha fazlasını alın.
 newtab-sports-widget-view-schedule =
     .label = Takvimi gör
@@ -918,9 +902,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Duvar kâğıdı seç
 newtab-sports-widget-skip = Atla
-newtab-sports-widget-search-teams =
-    .placeholder = Takım ara
-    .aria-label = Takım ara
 newtab-sports-widget-done-button =
     .label = Tamam
 newtab-sports-widget-group-stage = Grup maçı

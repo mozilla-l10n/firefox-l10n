@@ -11,7 +11,7 @@ autofill-use-payment-method-os-prompt-macos = seqdec talɣut n tarrayt n uxelle�
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-payment-method-os-prompt-macos = sken talɣut n tarrayt n uxelleṣ i yettwaḥerzen
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Iγewwaren n usekcem s wudem awurman deg iferka
 autofill-options-link-osx = Ismenyifen n usekcem s wudem awurman
 

@@ -5,7 +5,7 @@
 
 ## OS Prompt Dialog
 
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Taq Cha'oj richin pa Ruyonil Ninojisäx
 autofill-options-link-osx = Taq Ajowab'äl richin pa Ruyonil Ninojisäx
 

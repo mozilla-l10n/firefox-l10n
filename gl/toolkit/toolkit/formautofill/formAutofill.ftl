@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } está tentan
 autofill-edit-payment-method-os-prompt-macos = mostrar a información almacenada do método de pago
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } está tentando mostrar a información almacenada do método de pago. Confirma o acceso a esta conta de Windows a continuación.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } está tentando mostrar a información almacenada do método de pago.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opcións de completado automático de formularios
 autofill-options-link-osx = Preferencias de completado automático de formularios
 

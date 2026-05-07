@@ -2496,9 +2496,6 @@ desktop-folder-name = Masaüstü
 downloads-folder-name = İndirilenler
 choose-download-folder-title = İndirme klasörünü seçin:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

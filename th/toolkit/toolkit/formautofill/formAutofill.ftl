@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } กำลั
 autofill-edit-payment-method-os-prompt-macos = แสดงข้อมูลวิธีการชำระเงินที่เก็บไว้
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } กำลังพยายามจะแสดงข้อมูลวิธีการชำระเงินที่เก็บไว้ ยืนยันการเข้าถึงบัญชี Windows นี้ด้านล่าง
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } กำลังพยายามจะแสดงข้อมูลวิธีการชำระเงินที่เก็บไว้
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = ตัวเลือกการกรอกแบบฟอร์มอัตโนมัติ
 autofill-options-link-osx = ค่าปรับแต่งการกรอกแบบฟอร์มอัตโนมัติ
 

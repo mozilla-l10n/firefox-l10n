@@ -2480,9 +2480,6 @@ desktop-folder-name = เดสก์ท็อป
 downloads-folder-name = การดาวน์โหลด
 choose-download-folder-title = เลือกโฟลเดอร์การดาวน์โหลด:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

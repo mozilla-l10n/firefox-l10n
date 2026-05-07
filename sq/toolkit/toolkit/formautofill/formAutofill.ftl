@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name }-i po provon 
 autofill-edit-payment-method-os-prompt-macos = shfaq hollësi metode të ruajtur pagesash
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }-i po provon të shfaqë hollësi metode të ruajtur pagesash. Ripohoni më poshtë hyrjen në këtë llogari Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name }-i po provon të shfaqë hollësi metode të ruajtur pagesash.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Mundësi Vetëplotësimi Formularësh
 autofill-options-link-osx = Parapëlqime Vetëplotësimi Formularësh
 

@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = Gordetako ordainketa metodoen info
 autofill-edit-payment-method-os-prompt-macos = erakutsi gordetako ordainketa metodoaren informazioa
 autofill-edit-payment-method-os-prompt-windows = Gordetako ordainketa metodoen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
 autofill-edit-payment-method-os-prompt-other = Gordetako ordainketa metodoen informazioa erakusten saiatzen ari da { -brand-short-name }.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Inprimakiak automatikoki betetzeko aukerak
 autofill-options-link-osx = Inprimakiak automatikoki betetzeko hobespenak
 

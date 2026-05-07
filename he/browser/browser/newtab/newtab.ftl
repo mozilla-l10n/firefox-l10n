@@ -896,22 +896,6 @@ newtab-sports-widget-menu-follow-teams = מעקב אחרי נבחרות
 newtab-sports-widget-menu-view-upcoming = הצגת המשחקים הבאים
 newtab-sports-widget-menu-view-results = הצגת תוצאות
 newtab-sports-widget-menu-learn-more = מידע נוסף
-newtab-sports-widget-countdown-title = ספירה לאחור לקראת המונדיאל
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = י’
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = ש’
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = ד’
 newtab-sports-widget-get-updates = קבלת עדכונים חיים על משחקים ועוד.
 newtab-sports-widget-view-schedule =
     .label = הצגת לוח זמנים
@@ -920,9 +904,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = בחירת תמונת רקע
 newtab-sports-widget-skip = דילוג
-newtab-sports-widget-search-teams =
-    .placeholder = חיפוש נבחרות
-    .aria-label = חיפוש נבחרות
 newtab-sports-widget-done-button =
     .label = סיום
 newtab-sports-widget-group-stage = שלב הבתים

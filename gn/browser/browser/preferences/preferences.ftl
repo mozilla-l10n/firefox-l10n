@@ -2493,9 +2493,6 @@ desktop-folder-name = Mba’erechaha
 downloads-folder-name = Ñemboguejy
 choose-download-folder-title = Ñemboguejy ñongatuha poravo:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

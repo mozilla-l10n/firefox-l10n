@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } berusaha men
 autofill-edit-payment-method-os-prompt-macos = menampilkan informasi metode pembayaran yang tersimpan
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } berusaha menampilkan informasi metode pembayaran yang tersimpan. Konfirmasikan akses untuk akun Windows berikut ini.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } berusaha menampilkan informasi metode pembayaran yang tersimpan.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opsi IsiOtomatis Formulir
 autofill-options-link-osx = Preferensi IsiOtomatis Formulir
 

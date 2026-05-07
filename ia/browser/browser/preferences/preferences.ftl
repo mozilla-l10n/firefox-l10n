@@ -2496,9 +2496,6 @@ desktop-folder-name = Scriptorio
 downloads-folder-name = Discargamentos
 choose-download-folder-title = Elige le dossier de discargamentos:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

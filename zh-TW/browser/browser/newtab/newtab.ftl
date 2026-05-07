@@ -886,22 +886,6 @@ newtab-sports-widget-menu-follow-teams = 關注球隊
 newtab-sports-widget-menu-view-upcoming = 檢視即將到來的賽事
 newtab-sports-widget-menu-view-results = 看比賽結果
 newtab-sports-widget-menu-learn-more = 更多資訊
-newtab-sports-widget-countdown-title = 世界盃足球賽倒數計時
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = 天
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = 小時
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = 分鐘
 newtab-sports-widget-get-updates = 獲得即時比賽資訊與更多資訊。
 newtab-sports-widget-view-schedule =
     .label = 檢視賽程
@@ -910,9 +894,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = 挑選一張背景圖
 newtab-sports-widget-skip = 略過
-newtab-sports-widget-search-teams =
-    .placeholder = 搜尋隊伍
-    .aria-label = 搜尋隊伍
 newtab-sports-widget-done-button =
     .label = 完成
 newtab-sports-widget-group-stage = 小組賽

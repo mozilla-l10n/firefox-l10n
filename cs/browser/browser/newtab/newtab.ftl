@@ -899,7 +899,6 @@ newtab-widget-timer-celebration-message-focus = Potřebujete přestávku?
 
 newtab-sports-widget-menu-view-results = Zobrazit výsledky
 newtab-sports-widget-menu-learn-more = Zjistit více
-newtab-sports-widget-countdown-title = Odpočítávání do Mistrovství světa
 newtab-sports-widget-get-updates = Získejte živé informace o zápasech a další informace.
 newtab-sports-widget-follow-teams =
     .label = Sledujte týmy

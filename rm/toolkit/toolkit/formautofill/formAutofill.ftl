@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } emprova dad 
 autofill-edit-payment-method-os-prompt-macos = mussar las datas da metodas da pajament memorisadas
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } emprova da mussar datas da metodas da pajament memorisadas. Conferma l’access al conto da Windows sutvart.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } emprova da mussar datas da metodas da pajament memorisadas.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Preferenzas da l'endataziun automatica per formulars
 autofill-options-link-osx = Preferenzas da l'endataziun automatica per formulars
 

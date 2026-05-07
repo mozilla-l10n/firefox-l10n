@@ -897,22 +897,6 @@ newtab-sports-widget-menu-follow-teams = გუნდის მიყოლა
 newtab-sports-widget-menu-view-upcoming = მოახლოებულის ნახვა
 newtab-sports-widget-menu-view-results = შედეგების ნახვა
 newtab-sports-widget-menu-learn-more = ვრცლად
-newtab-sports-widget-countdown-title = დროის ათვლა მსოფლიო თასამდე
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = დღ
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = სთ
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = წთ
 newtab-sports-widget-get-updates = მიმდინარე შეხვედრების სიახლეები და სხვ.
 newtab-sports-widget-view-schedule =
     .label = განრიგის ნახვა
@@ -921,9 +905,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = ფონის არჩევა
 newtab-sports-widget-skip = აცილება
-newtab-sports-widget-search-teams =
-    .placeholder = გუნდების ძიება
-    .aria-label = გუნდების ძიება
 newtab-sports-widget-done-button =
     .label = მზადაა
 newtab-sports-widget-group-stage = ჯგუფური ეტაპი

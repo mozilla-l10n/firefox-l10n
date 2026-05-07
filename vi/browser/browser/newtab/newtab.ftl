@@ -888,22 +888,6 @@ newtab-sports-widget-menu-follow-teams = Theo dõi đội
 newtab-sports-widget-menu-view-upcoming = Xem cái gì sắp tới
 newtab-sports-widget-menu-view-results = Hiện kết quả
 newtab-sports-widget-menu-learn-more = Tìm hiểu thêm
-newtab-sports-widget-countdown-title = Đếm ngược đến World Cup
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = NG
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = H
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = P
 newtab-sports-widget-get-updates = Nhận thông tin cập nhật trực tiếp và hơn thế nữa.
 newtab-sports-widget-view-schedule =
     .label = Xem lịch trình
@@ -912,9 +896,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Chọn một hình nền
 newtab-sports-widget-skip = Bỏ qua
-newtab-sports-widget-search-teams =
-    .placeholder = Tìm kiếm đội
-    .aria-label = Tìm kiếm đội
 newtab-sports-widget-done-button =
     .label = Xong
 newtab-sports-widget-group-stage = Vòng bảng

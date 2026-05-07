@@ -5,7 +5,7 @@
 
 ## OS Prompt Dialog
 
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = फाराम स्वत: भर्नका लागि विकल्पहरू
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use

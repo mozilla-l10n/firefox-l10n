@@ -5,7 +5,7 @@
 
 ## OS Prompt Dialog
 
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = ຕົວເລືອກການຕື່ມແບບຟອມອັດຕະໂນມັດ
 autofill-options-link-osx = ການຕັ້ງຄ່າການຕື່ມຂໍ້ມູນອັດຕະໂນມັດ
 

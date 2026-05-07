@@ -906,22 +906,6 @@ newtab-sports-widget-menu-follow-teams = Teamam slědowaś
 newtab-sports-widget-menu-view-upcoming = Pśichodny pokazaś
 newtab-sports-widget-menu-view-results = Wuslědki pokazaś
 newtab-sports-widget-menu-learn-more = Dalšne informacije
-newtab-sports-widget-countdown-title = Countdown k swětowemu mejstaŕstwoju
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = Ź
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = G
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Dostańśo aktualizacije live a wěcej.
 newtab-sports-widget-view-schedule =
     .label = Grajny plan pokazaś
@@ -930,9 +914,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Wubjeŕśo slězynowy wobraz
 newtab-sports-widget-skip = Pśeskócyś
-newtab-sports-widget-search-teams =
-    .placeholder = Teamy pytaś
-    .aria-label = Teamy pytaś
 newtab-sports-widget-done-button =
     .label = Dokóńcony
 newtab-sports-widget-group-stage = Kupkowa faza

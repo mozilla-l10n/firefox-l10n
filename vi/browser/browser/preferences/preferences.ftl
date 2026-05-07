@@ -2480,9 +2480,6 @@ desktop-folder-name = Bàn làm việc
 downloads-folder-name = Tải xuống
 choose-download-folder-title = Chọn thư mục tải xuống:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

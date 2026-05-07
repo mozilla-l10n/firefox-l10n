@@ -2504,9 +2504,6 @@ desktop-folder-name = Desktop
 downloads-folder-name = Sćehnjenja
 choose-download-folder-title = Rjadowak sćehnjenjow wubrać:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

@@ -2496,9 +2496,6 @@ desktop-folder-name = Búroblêd
 downloads-folder-name = Myn downloads
 choose-download-folder-title = Downloadmap kieze:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } prøver å b
 autofill-edit-payment-method-os-prompt-macos = vis lagret informasjon om betalingsmåte
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } prøver å vise lagret informasjon om betalingsmåte. Bekreft tilgang til denne Windows-kontoen nedenfor.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } prøver å vise lagret informasjon om betalingsmåte.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Innstillinger for autoutfylling av skjema
 autofill-options-link-osx = Innstillinger for autoutfylling av skjema
 

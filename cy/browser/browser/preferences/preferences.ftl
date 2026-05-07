@@ -2512,9 +2512,6 @@ desktop-folder-name = Bwrdd Gwaith
 downloads-folder-name = Llwythi i lawr
 choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

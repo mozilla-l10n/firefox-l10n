@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = Emañ { -brand-short-name } o klas
 autofill-edit-payment-method-os-prompt-macos = diskouez titouroù an doareoù paeañ enrollet
 autofill-edit-payment-method-os-prompt-windows = Emañ { -brand-short-name } o klask diskouez titouroù doareoù paeañ enrollet. Kadarnait an haeziñ d'ar gont Windows amañ dindan.
 autofill-edit-payment-method-os-prompt-other = Emañ { -brand-short-name } o klask diskouez titouroù doareoù paeañ enrollet.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Dibarzhioù leuniañ emgefreek ar furmskridoù
 autofill-options-link-osx = Gwellvezioù leuniañ emgefreek ar furmskrid
 

@@ -5,7 +5,7 @@
 
 ## OS Prompt Dialog
 
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Formu automātiskās aizpildes iestatījumi
 autofill-options-link-osx = Formu automātiskās aizpildes iestatījumi
 

@@ -840,21 +840,26 @@ newtab-promo-card-dismiss-button =
     .title = 知道了
     .aria-label = 知道了
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-decrease-min =
+    .title = 减少 1 分钟
+newtab-widget-timer-increase-min =
+    .title = 增加 1 分钟
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = 关注球队
 newtab-sports-widget-menu-view-upcoming = 查看即将进行的比赛
 newtab-sports-widget-menu-learn-more = 详细了解
-newtab-sports-widget-countdown-title = 世界杯倒计时
 newtab-sports-widget-get-updates = 获取实时赛况等信息。
+newtab-sports-widget-view-schedule =
+    .label = 查看赛程
 newtab-sports-widget-follow-teams =
     .label = 关注球队
 newtab-sports-widget-choose-wallpaper =
     .label = 选择壁纸
 newtab-sports-widget-skip = 跳过
-newtab-sports-widget-search-teams =
-    .placeholder = 搜索球队
-    .aria-label = 搜索球队
 newtab-sports-widget-done-button =
     .label = 完成
 newtab-sports-widget-group-stage = 小组赛阶段
@@ -876,7 +881,9 @@ newtab-sports-widget-cancelled = 取消
 newtab-sports-widget-information = 本场比赛信息
 newtab-sports-widget-no-live-data = 目前未在更新实时比赛数据
 newtab-sports-widget-view-results-link = 查看比赛结果
-newtab-sports-widget-third-place = 第三名
+newtab-sports-widget-third-place = 季军
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = 亚军
 newtab-sports-widget-champions = 冠军
 newtab-sports-widget-world-cup-champions = 2026 年世界杯冠军
 

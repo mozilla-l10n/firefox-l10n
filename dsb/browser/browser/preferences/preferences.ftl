@@ -2504,9 +2504,6 @@ desktop-folder-name = Desktop
 downloads-folder-name = Ześěgnjenja
 choose-download-folder-title = Zarědnik ześěgnjenjow wubraś:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

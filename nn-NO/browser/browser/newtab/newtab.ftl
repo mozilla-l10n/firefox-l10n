@@ -889,22 +889,6 @@ newtab-sports-widget-menu-follow-teams = Følg lag
 newtab-sports-widget-menu-view-upcoming = Vis komande
 newtab-sports-widget-menu-view-results = Vis resultat
 newtab-sports-widget-menu-learn-more = Les meir
-newtab-sports-widget-countdown-title = Nedteljing til VM
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = D
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = T
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = M
 newtab-sports-widget-get-updates = Få direkte kampoppdateringar og meir.
 newtab-sports-widget-view-schedule =
     .label = Sjå kampoppsettet
@@ -913,9 +897,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Vel eit bakgrunnsbilde
 newtab-sports-widget-skip = Hopp over
-newtab-sports-widget-search-teams =
-    .placeholder = Søk etter lag
-    .aria-label = Søk etter lag
 newtab-sports-widget-done-button =
     .label = Ferdig
 newtab-sports-widget-group-stage = Gruppespel

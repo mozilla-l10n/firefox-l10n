@@ -15,7 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } klopodas uzi
 autofill-edit-payment-method-os-prompt-macos = montri konservitajn pagmetodajn informojn
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } klopodas montri konservitan pagmetodan informon. Konfirmu aliron al tiu ĉi suba konto de Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } klopodas montri konservitan pagmetodan informon.
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = Preferoj de aŭtomata plenigo de formularoj
 autofill-options-link-osx = Preferoj de aŭtomata plenigo de formularoj
 

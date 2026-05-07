@@ -898,22 +898,6 @@ newtab-sports-widget-menu-follow-teams = Παρακολούθηση ομάδων
 newtab-sports-widget-menu-view-upcoming = Προβολή επερχόμενων
 newtab-sports-widget-menu-view-results = Προβολή αποτελεσμάτων
 newtab-sports-widget-menu-learn-more = Μάθετε περισσότερα
-newtab-sports-widget-countdown-title = Αντίστροφη μέτρηση για το Παγκόσμιο Κύπελλο
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = Η
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = Ώ
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = Λ
 newtab-sports-widget-get-updates = Λάβετε ενημερώσεις αγώνων σε πραγματικό χρόνο και πολλά άλλα.
 newtab-sports-widget-view-schedule =
     .label = Προβολή προγράμματος
@@ -922,9 +906,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Επιλογή ταπετσαρίας
 newtab-sports-widget-skip = Παράλειψη
-newtab-sports-widget-search-teams =
-    .placeholder = Αναζήτηση ομάδων
-    .aria-label = Αναζήτηση ομάδων
 newtab-sports-widget-done-button =
     .label = Τέλος
 newtab-sports-widget-group-stage = Φάση ομίλου

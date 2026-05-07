@@ -5,7 +5,7 @@
 
 ## OS Prompt Dialog
 
-# The links lead users to Form Autofill browser preferences.
+# The link leads users to Form Autofill browser preferences.
 autofill-options-link = ပုံစံ ဖြည့်ပေးသူ ၏ ရွေးချယ်စရာများ
 autofill-options-link-osx = ပုံစံ ဖြည့်ပေးသူ အပြင်အဆင်များ
 

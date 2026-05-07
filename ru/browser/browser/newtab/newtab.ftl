@@ -898,22 +898,6 @@ newtab-sports-widget-menu-follow-teams = Подписаться на коман�
 newtab-sports-widget-menu-view-upcoming = Просмотреть предстоящие
 newtab-sports-widget-menu-view-results = Просмотреть результаты
 newtab-sports-widget-menu-learn-more = Подробнее
-newtab-sports-widget-countdown-title = Обратный отсчёт до ЧМ
-# Abbreviated label for days in the sport widget countdown. D is short for Days.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-days = Д
-# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-hours = Ч
-# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
-# The layout only allows for 1–2 characters: if there is an equivalent single
-# character for your language, use that. Your translation will be automatically
-# truncated at 1 character to avoid layout issues.
-newtab-sports-widget-countdown-minutes = М
 newtab-sports-widget-get-updates = Получайте обновления по матчам и другую информацию в прямом эфире.
 newtab-sports-widget-view-schedule =
     .label = Просмотреть расписание
@@ -922,9 +906,6 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Выберите обои
 newtab-sports-widget-skip = Пропустить
-newtab-sports-widget-search-teams =
-    .placeholder = Поиск команд
-    .aria-label = Поиск команд
 newtab-sports-widget-done-button =
     .label = Готово
 newtab-sports-widget-group-stage = Групповой этап
