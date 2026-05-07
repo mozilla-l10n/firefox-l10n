@@ -879,6 +879,21 @@ newtab-widget-timer-increase-min =
     .title = Zwiększ o 1 minutę
 newtab-widget-timer-mode-group =
     .aria-label = Tryb minutnika
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Skupienie
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Przerwa
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ukryj minutnik
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Dobra robota
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Przerwa się skończyła
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Potrzebujesz przerwy?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Czas się skoncentrować!
 
 ## Sports widget
 
@@ -887,6 +902,58 @@ newtab-sports-widget-menu-view-upcoming = Następne
 newtab-sports-widget-menu-view-results = Wyniki
 newtab-sports-widget-menu-learn-more = Więcej informacji
 newtab-sports-widget-countdown-title = Odliczanie do mistrzostw świata
+# Abbreviated label for days in the sport widget countdown. D is short for Days.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-days = D
+# Abbreviated label for hours in the sport widget countdown. H is short for Hours.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-hours = G
+# Abbreviated label for minutes in the sport widget countdown. M is short for Minutes.
+# The layout only allows for 1–2 characters: if there is an equivalent single
+# character for your language, use that. Your translation will be automatically
+# truncated at 1 character to avoid layout issues.
+newtab-sports-widget-countdown-minutes = M
+newtab-sports-widget-get-updates = Bieżące informacje o meczach i nie tylko.
+newtab-sports-widget-view-schedule =
+    .label = Harmonogram
+newtab-sports-widget-follow-teams =
+    .label = Obserwuj drużyny
+newtab-sports-widget-choose-wallpaper =
+    .label = Wybierz tapetę
+newtab-sports-widget-skip = Pomiń
+newtab-sports-widget-search-teams =
+    .placeholder = Szukaj drużyn
+    .aria-label = Szukaj drużyn
+newtab-sports-widget-done-button =
+    .label = Gotowe
+newtab-sports-widget-group-stage = Faza grupowa
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = Na żywo
+newtab-custom-widget-live-refresh =
+    .title = Odśwież wyniki
+    .aria-label = Odśwież wyniki
+newtab-sports-widget-upcoming = Następne
+newtab-sports-widget-results = Wyniki
+newtab-sports-widget-semi-finals = Półfinały
+newtab-sports-widget-bronze-finals = Mecz o trzecie miejsce
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Mecz finałowy
+newtab-sports-widget-delayed = Opóźniony
+newtab-sports-widget-postponed = Odłożony
+newtab-sports-widget-suspended = Zawieszony
+newtab-sports-widget-cancelled = Odwołany
+newtab-sports-widget-information = Informacje o meczu
+newtab-sports-widget-no-live-data = Informacje o meczu na żywo nie są obecnie aktualizowane
+newtab-sports-widget-view-results-link = Wyniki
+newtab-sports-widget-third-place = Trzecie miejsce
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Drugie miejsce
+newtab-sports-widget-champions = Mistrzowie
+newtab-sports-widget-world-cup-champions = Mistrzowie świata 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

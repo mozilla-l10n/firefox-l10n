@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Więcej od { -vendor-short-name(case: "gen") }
+more-from-moz-page-header =
+    .heading = Więcej od { -vendor-short-name(case: "gen") }
 more-from-moz-category =
     .tooltiptext = Więcej od organizacji { -vendor-short-name }
 more-from-moz-subtitle = Wypróbuj inne produkty { -vendor-short-name(case: "gen") }, które wspierają zdrowy Internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } na telefon
 more-from-moz-firefox-mobile-description = Przeglądarka na telefon, która stawia prywatność na pierwszym miejscu.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } na telefon
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } na telefon
+    .description = Przeglądarka na telefon, która stawia prywatność na pierwszym miejscu.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Odkryj dodatkową warstwę ochrony i anonimowego przeglądania.
 more-from-moz-qr-code-box-firefox-mobile-title = Pobierz za pomocą telefonu. Skieruj aparat na kod QR. Stuknij odnośnik, kiedy się pojawi.
@@ -46,3 +51,14 @@ more-from-moz-solo-title-2 = Kreator SI stron internetowych { -solo-ai-brand-nam
 more-from-moz-mdn-description = Naucz się tworzyć strony internetowe, korzystając z bezpłatnych i kompleksowych przewodników i materiałów referencyjnych.
 more-from-moz-mdn-button = Naucz się tworzyć strony internetowe
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Bezpłatna poczta e-mail, kalendarz i kontakty — zorganizowane tak, jak chcesz.
+more-from-moz-thunderbird-button = Pobierz { -thunderbird-brand-short-name(case: "acc") }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Nowe produkty { -vendor-short-name(case: "gen") }
+more-from-moz-new-products-description = Odkryj najnowsze produkty od { -vendor-short-name(case: "gen") }.
