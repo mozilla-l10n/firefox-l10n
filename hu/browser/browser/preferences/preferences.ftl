@@ -584,6 +584,12 @@ download-save-files-header =
     .label = Fájlok mentése
 download-save-where-3 =
     .aria-label = Fájlok mentése
+download-always-ask-where2 =
+    .label = Letöltés előtt kérdezze meg a fájlok mentési helyét
+    .accesskey = L
+download-private-browsing-delete2 =
+    .label = Privát ablakok letöltéseinek törlése bezáráskor
+    .accesskey = t
 downloads-header-2 =
     .label = Letöltések
 download-save-where-2 =
@@ -614,6 +620,9 @@ applications-setting =
     .description = Válassza ki, hogy a { -brand-short-name } hogyan kezelje az internetről letöltött fájlokat vagy a böngészéskor használt alkalmazásokat.
 applications-header = Alkalmazások
 applications-description = Válassza ki, hogy a { -brand-short-name } hogyan kezelje az internetről letöltött fájlokat vagy a böngészéskor használt alkalmazásokat.
+applications-setting2 =
+    .label = Fájlok és alkalmazások
+    .description = Válassza ki, hogy a { -brand-short-name } hogyan kezelje a letöltött fájlokat és tartalmakat.
 applications-filter =
     .placeholder = Fájltípusok vagy alkalmazások keresése
 applications-type-column =
@@ -693,9 +702,15 @@ applications-handle-new-file-types-description = Mit tegyen a { -brand-short-nam
 applications-save-for-new-types =
     .label = Fájlok mentése
     .accesskey = m
+applications-save-for-new-types2 =
+    .label = Fájlok automatikus mentése
+    .accesskey = F
 applications-ask-before-handling =
     .label = Kérdezze meg, hogy nyissa meg vagy mentse a fájlokat
     .accesskey = K
+applications-ask-before-handling2 =
+    .label = Rákérdezés a fájlok megnyitására vagy mentésére
+    .accesskey = R
 drm-group =
     .label = Digitális jogkezelést (DRM) használó tartalom
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
@@ -1057,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Óra
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = A { -brand-product-name } támogatása
@@ -2176,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Jogosultságok
     .description = Felügyelje, hogy a webhelyek mihez férjenek hozzá, mit irányíthassanak és mit válthassanak ki.
+permissions-data-section =
+    .heading = Engedélyek és adatok
+pane-permissions-data-title = Engedélyek és adatok
 
 ## Privacy Section - Data Collection
 
@@ -2506,6 +2527,11 @@ preferences-connection-link-button =
 desktop-folder-name = Asztal
 downloads-folder-name = Letöltések
 choose-download-folder-title = Letöltési mappa kiválasztása:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Megjelenés
 
 ## AI controls page
 

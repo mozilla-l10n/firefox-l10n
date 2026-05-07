@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = О { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Внешний вид
+    .title = { pane-appearance-title }
+pane-downloads-title = Загрузки
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Поддержка доступности
     .title = { pane-accessibility-title }
 pane-languages-title = Языки
@@ -340,6 +345,12 @@ browser-layout-show-sidebar-desc = Быстрый доступ к закладк
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Язык и внешний вид
+appearance-group2 =
+    .label = Внешний вид веб-сайтов
+    .description = Некоторые веб-сайты изменяют свои цвета, чтобы удовлетворять вашим предпочтениям. Выберите вашу цветовую схему.
+preferences-web-appearance-choice-auto3 =
+    .label = Системная
+    .title = Автоматически изменяет фон веб-сайта и содержимое на основе настроек вашей системы и темы { -brand-short-name }.
 appearance-group =
     .label = Внешний вид сайтов
     .description = Некоторые сайты изменяют свою цветовую схему в зависимости от ваших предпочтений. Выберите цветовую схему, которую вы хотите использовать для этих сайтов.
@@ -576,6 +587,12 @@ download-save-files-header =
     .label = Путь для сохранения файлов
 download-save-where-3 =
     .aria-label = Путь для сохранения файлов
+download-always-ask-where2 =
+    .label = Спрашивать, где сохранять файлы, перед загрузкой
+    .accesskey = Ф
+download-private-browsing-delete2 =
+    .label = Удалять загрузки приватного окна при закрытии
+    .accesskey = В
 downloads-header-2 =
     .label = Загрузки
 download-save-where-2 =
@@ -606,6 +623,9 @@ applications-setting =
     .description = Выберите, как { -brand-short-name } будет обрабатывать файлы, скачиваемые из Интернета, или приложения, используемые при работе в Интернете.
 applications-header = Приложения
 applications-description = Выберите, как { -brand-short-name } будет обрабатывать файлы, скачиваемые из Интернета, или приложения, используемые при работе в Интернете.
+applications-setting2 =
+    .label = Файлы и приложения
+    .description = Выберите, как { -brand-short-name } обрабатывает скачанные файлы и содержимое.
 applications-filter =
     .placeholder = Поиск типов файлов или приложений
 applications-type-column =
@@ -685,9 +705,15 @@ applications-handle-new-file-types-description = Что { -brand-short-name } д
 applications-save-for-new-types =
     .label = Сохранять файлы
     .accesskey = я
+applications-save-for-new-types2 =
+    .label = Автоматически сохранять файлы
+    .accesskey = Ы
 applications-ask-before-handling =
     .label = Спрашивать, открывать или сохранять файлы
     .accesskey = ш
+applications-ask-before-handling2 =
+    .label = Спрашивать, открывать или сохранять файлы
+    .accesskey = Ф
 drm-group =
     .label = Содержимое, использующее средства защиты авторских прав (DRM)
 drm-content-header = Содержимое, использующее средства защиты авторских прав (DRM)
@@ -1049,6 +1075,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Спорт
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Часы
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Поддержите { -brand-product-name }
@@ -2169,6 +2198,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Разрешения
     .description = Управляйте тем, к каким веб-сайтам можно получить доступ, контролировать их или запускать.
+permissions-data-section =
+    .heading = Разрешения и данные
+pane-permissions-data-title = Разрешения и данные
 
 ## Privacy Section - Data Collection
 
@@ -2499,6 +2531,22 @@ preferences-connection-link-button =
 desktop-folder-name = Рабочий стол
 downloads-folder-name = Загрузки
 choose-download-folder-title = Выберите папку для загрузок:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Внешний вид
+browser-theme-group =
+    .label = Тема браузера
+    .description = Оформите { -brand-short-name } по-своему. Цвета темы применяются к панелям инструментов, меню и сообщениям.
+browser-theme-manage-link =
+    .label = Управление темами { -brand-short-name }
+related-settings-group =
+    .label = Связанные настройки
+related-settings-accessibility-link =
+    .label = Настройте масштаб и шрифт в Доступности
+related-settings-home-link =
+    .label = Настройка { -firefox-home-brand-name(case: "genitive") }
 
 ## AI controls page
 

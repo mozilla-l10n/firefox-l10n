@@ -1020,3 +1020,23 @@ newtab-clock-widget-button-edit-clock =
     .title = Редактировать часы
     .aria-label = Редактировать часы
 newtab-clock-widget-button-save = Сохранить
+newtab-clock-widget-button-remove-clock =
+    .title = Удалить часы
+    .aria-label = Удалить часы
+newtab-clock-widget-add-clock-form =
+    .aria-label = Добавить часы
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Редактировать часы
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Результаты поиска
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Открыть меню для часов
+    .aria-label = Открыть меню для часов
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Ник: { $nickname }

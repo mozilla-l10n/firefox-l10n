@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Управление настройками { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Вертикальные вкладки
+sidebar-settings2 =
+    .label = Настройки
 sidebar-settings =
     .label = Настройки боковой панели
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Развернуть боковую панель при наведении
+sidebar-manage-extensions2 = Управление всеми расширениями
 sidebar-manage-extensions = Управление расширениями
+sidebar-customize-extensions-header2 = Расширения
+sidebar-customize-firefox-tools-header2 =
+    .label = Инструменты
 
 ## Labels for sidebar context menu items
 
