@@ -1229,8 +1229,17 @@ toolbar-button-logins =
     .tooltiptext = Ниҳонвожаҳои худро бинед ва идора намоед
 qrcode-copy-button =
     .label = Нусха бардоштан
+qrcode-copy-success =
+    .message = Рамзи «QR» ба ҳофизаи муваққатӣ нусха бардошта шуд.
+qrcode-copy-error =
+    .message = Рамзи «QR» нусха бардошта нашуд.
 qrcode-save-button =
     .label = Нигоҳ доштан
+qrcode-save-success =
+    .message = Рамзи «QR» нигоҳ дошта шуд.
+qrcode-save-error =
+    .message = Рамзи «QR» нигоҳ дошта нашуд.
+qrcode-save-title = Нигоҳ доштани рамзи «QR»
 qrcode-save-filter-png = Тасвири «PNG»
 qrcode-save-filename = qrcode.png
 qrcode-window-title = Рамзи «QR»
@@ -1260,6 +1269,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Мубодила кардан
     .tooltiptext = Мубодила кардани ин саҳифа
+toolbar-button-tab-groups =
+    .label = Гурӯҳҳои варақаҳо
+    .tooltiptext = Гурӯҳҳои варақаҳои худро нишон диҳед
 
 ## EME notification panel
 
@@ -1695,9 +1707,18 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] «{ -brand-product-name }» { $count } криптомайнерро иҷозат медиҳад
     }
 trustpanel-cryptominer-tab-list-header = Сомонаҳои зерин фаъолияти криптомайнингро кӯшиш мекунанд:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Дар ин сомона ҳисоб доред?
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Нодида гузарондан
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> воситаи пайгирӣ дар ин сомона манъ шуд
        *[other] <span data-l10n-name="count">{ $count }</span> воситаи пайгирӣ дар ин сомона манъ шуданд
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Аз нав бор кардан
+    .accesskey = А
+reduced-protection-infobar-never-show-button = Дигар нишон дода нашавад
+    .accesskey = Д

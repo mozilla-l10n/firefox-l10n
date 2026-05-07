@@ -26,6 +26,7 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-button-primary = Навбатӣ
 ipprotection-feature-introduction-button-secondary-not-now = Ҳоло не
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, ташаккур
+ipprotection-feature-introduction-button-secondary-remove = Тоза кардани «VPN» аз навори абзорҳо
 
 ## Site settings callout
 
@@ -79,6 +80,7 @@ ipprotecion-locations-subview-recommended-label = Тавсияшуда
 
 ipprotection-connection-status-paused-title = «VPN» таваққуф шуд
 upgrade-vpn-button = «{ -mozilla-vpn-brand-name }»-ро озмоед
+ipprotection-connection-status-paused-title-1 = «VPN» таваққуф шуд
 
 ## Messages and errors
 
@@ -93,6 +95,8 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = «VPN» барои �
 
 ip-protection-learn-more = Маълумоти бештар
 ip-protection-not-opted-in-button = Оғози кор
+ip-protection-autostart =
+    .label = Фаъол кардани «VPN» ба таври худкор
 ip-protection-autostart-private-checkbox =
     .label = Дар равзанаҳои хусусӣ
 
@@ -107,5 +111,6 @@ ipprotection-bandwidth-reset-button = Фаҳмидам
 
 ## IP Protection alerts
 
+vpn-paused-alert-title = «VPN» таваққуф шуд
 vpn-paused-alert-close-tabs-button = Пӯшидани ҳамаи варақаҳо
 vpn-error-alert-body = Баъдтар аз нав кӯшиш кунед.
