@@ -84,6 +84,11 @@ smartblock-placeholder-title = { $trackername } ਟਰੈਕਰਾਂ ਅਤੇ 
 smartblock-placeholder-desc = ਤੁਹਾਡੀਆਂ { -brand-short-name } ਸੈਟਿੰਗਾਂ ਇਸ ਸਮੱਗਰੀ ਉੱਤੇ ਤੁਹਾਨੂੰ ਸਾਈਟਾਂ ਖੋਲ੍ਹਣ ਦੌਰਾਨ ਟੋਹ ਲੈਣ ਜਾਂ ਇਸ਼ਤਿਹਾਰਾਂ ਲਈ ਵਰਤੇ ਜਾਣ ਤੋਂ ਪਾਬੰਦੀ ਲਾਉਂਦੀਆਂ ਹਨ।
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = { $websitehost } ਉੱਤੇ ਮਨਜ਼ੂਰ ਕਰੋ
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = ਪਾਬੰਦੀ ਲਾਏ ਇੰਬੈੱਡ ਤੋਂ ਸਮੱਗਰੀ
 
 ##
 

@@ -68,6 +68,15 @@ category-sync3 =
 pane-ai-controls-title = AI ਕੰਟਰੋਲ
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = { -brand-short-name } ਬਾਰੇ
+    .title = { pane-about-firefox-title }
+pane-accessibility-title = ਅਸੈੱਸਬਿਲਟੀ
+    .title = { pane-accessibility-title }
+pane-languages-title = ਭਾਸ਼ਾਵਾਂ
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } ਤਜਰਬੇ
 category-experimental =
     .tooltiptext = { -brand-short-name } ਤਜਰਬੇ
@@ -75,6 +84,8 @@ pane-experimental-subtitle = ਧਿਆਨ ਨਾਲ ਅੱਗੇ ਵਧੋ
 pane-experimental-search-results-header = { -brand-short-name } ਤਜਰਬਾ: ਧਿਆਨ ਨਾਲ ਜਾਰੀ ਰੱਖੋ
 pane-experimental-description2 = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ ਬਦਲਣ ਨਾਲ { -brand-short-name } ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਜਾਂ ਸੁਰੱਖਿਆ ਪ੍ਰਭਾਵਿਤ ਹੋ ਸਕਦੀ ਹੈ।
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = ਸਾਡੇ ਤਜਰਬੇ ਅਧੀਨ ਫ਼ੀਚਰਾਂ ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ! ਇਹ ਹਾਲੇ ਵਿਕਾਸ ਅਧੀਨ ਹਨ ਅਤੇ ਲਗਾਤਾਰ ਸੁਧਾਰ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ, ਹੋ ਜਿ { -brand-short-name } ਦੇ ਕੰਮ ਕਰਨ ਉੱਤੇ ਅਸਰ ਪਾ ਸਕਦੇ ਹਨ। ਜੇ ਤੁਸੀਂ <a data-l10n-name="data-collection">ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ</a> ਨੂੰ ਚਾਲੂ ਕੀਤਾ ਹੋਇਆ ਹੈ ਤਾਂ ਅਸੀਂ ਸਿਰਫ਼ ਉਹਨਾਂ ਫ਼ੀਚਰਾਂ ਦੀ ਤੁਹਾਡੀ ਵਰਤੋਂ ਬਾਰੇ ਹੀ ਡਾਟਾ ਪ੍ਰਾਪਤ ਕਰਾਂਗੇ।
@@ -458,6 +469,8 @@ manage-browser-languages-button =
     .accesskey = I
 confirm-browser-language-change-description = ਇਹ ਸੈਟਿੰਗਾਂ ਲਾਗੂ ਕਰਨ ਲਈ { -brand-short-name } ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰੋ
 confirm-browser-language-change-button = ਲਾਗੂ ਕਰਕੇ ਮੁੜ ਚਾਲੂ ਕਰੋ
+browser-language-preferred-label =
+    .label = ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ
 browser-language-install-error =
     .message = { -brand-short-name } ਹਾਲੇ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translate-web-pages =
@@ -677,6 +690,8 @@ update-application-version = ਵਰਜ਼ਨ { $version } <a data-l10n-name="lea
 update-history-2 =
     .label = …ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ
     .accesskey = p
+update-application-installation =
+    .label = ਇੰਸਟਾਲੇਸ਼ਨ
 update-history =
     .label = …ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ
     .accesskey = p
@@ -684,6 +699,9 @@ update-application-allow-description = { -brand-short-name } ਨੂੰ ਇਜਾ
 update-application-auto =
     .label = ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = ਅੱਪਡੇਟ ਲਈ ਜਾਂਚ ਕਰੋ, ਪਰ ਚੁਣੋ ਕਿ ਕਦ ਇੰਸਟਾਲ ਕਰਨਾ ਹੈ
+    .accesskey = C
 update-application-check-choose =
     .label = ਅੱਪਡੇਟ ਦੀ ਜਾਂਚ ਤਾਂ ਕਰੋ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਇੰਸਟਾਲ ਤੁਹਾਨੂੰ ਕਰਨ ਦੇਵੇ
     .accesskey = C
@@ -695,6 +713,9 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = ਇਹ ਸੈਟਿੰਗ { -brand-short-name } ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲੇ ਸਾਰੇ ਵਿੰਡੋਜ਼ ਖਾਤਿਆਂ ਅਤੇ { -brand-short-name } ਪਰੋਫਾਈਲਾਂ ਉੱਤੇ ਲਾਗੂ ਹੋਵੇਗੀ।
+update-application-suppress-prompts-2 =
+    .label = ਅੱਪਡੇਟ ਰਿਮਾਈਂਡਰ ਘੱਟ ਵੇਖਾਓ
+    .accesskey = n
 update-application-warning-cross-user-setting = ਇਹ ਸੈਟਿੰਗ { -brand-short-name } ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲੇ ਸਾਰੇ ਵਿੰਡੋਜ਼ ਖਾਤਿਆਂ ਅਤੇ { -brand-short-name } ਪਰੋਫਾਈਲਾਂ ਉੱਤੇ ਲਾਗੂ ਹੋਵੇਗੀ।
 update-application-use-service =
     .label = ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਬੈਕਗਰਾਊਂਡ ਸਰਵਿਸ ਵਰਤੋਂ
@@ -717,6 +738,16 @@ update-in-progress-ok-button = ਖਾਰਜ ਕਰੋ(&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = ਜਾਰੀ ਰੱਖੋ(&C)
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } ਬਾਰੇ
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = ਸੂਚਨਾਵਾਂ
 
 ## Firefox support
 
@@ -799,6 +830,16 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-group =
     .label = ਬਰਾਊਜ਼ਿੰਗ
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = ਅਸੈੱਸਬਿਲਟੀ
+preferences-default-zoom-select =
+    .aria-label = ਮੂਲ ਜ਼ੂਮ
+preferences-fonts-advanced-settings =
+    .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -977,6 +1018,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = ਟਾਈਮਰ
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = ਖੇਡਾਂ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
@@ -1103,6 +1147,7 @@ search-edit-engine =
     .label = ਸੋਧੋ
     .accesskey = E
 search-find-more-link = ਹੋਰ ਖੋਜ ਇੰਜਣ ਲੱਭੋ
+search-filtering-for-add-engine = ਇੰਜਣ ਜੋੜੋ
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ਡੁਪਲੀਕੇਟ ਸ਼ਬਦ
@@ -1121,6 +1166,9 @@ search-engine-group =
     .label = ਮੂਲ ਖੋਜ ਇੰਜਣ
 search-default-engine =
     .aria-label = ਮੂਲ ਖੋਜ ਇੰਜਣ
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = ਖੋਜ
 
 ## Containers Section
 
@@ -2134,6 +2182,8 @@ collection-backlogged-crash-reports2 =
     .label = ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਭੇਜੋ
     .accesskey = c
 collection-backlogged-crash-reports-description = ਇਹ { -vendor-short-name } ਨੂੰ ਬਰਾਊਜ਼ਰ ਦੀ ਜਾਂਚ ਪੜਤਾਲ ਕਰਨ ਅਤੇ ਮਸਲਿਆਂ ਨੂੰ ਠੀਕ ਕਰਨ ਮਦਦ ਕਰਦੀਆਂ ਹਨ। ਰਿਪੋਰਟਾਂ ਵਿੱਚ ਨਿੱਜੀ ਜਾਂ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟਾ ਸ਼ਾਮਲ ਹੋ ਸਕਦਾ ਹੈ।
+settings-redesign-promo-dismiss-button =
+    .label = ਸਮਝੇ
 addon-recommendations =
     .label = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਖਾਸ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀਆਂ ਸਿਫਾਰਸ਼ਾਂ ਕਰਨ ਲਈ ਸਹਿਮਤੀ ਦਿਓ
 addon-recommendations-link = ਹੋਰ ਜਾਣੋ
@@ -2389,6 +2439,11 @@ preferences-doh-custom-provider-label =
     .aria-label = ਇੱਕ ਚੁਣਿੰਦਾ ਪੂਰਕ URL ਦਿਓ
 preferences-doh-header2 =
     .heading = HTTPS ਉੱਤੇ DNS
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
 
 ## The following strings are used in the Download section of settings
 

@@ -252,6 +252,9 @@ tab-group-editor-color-selector2-gray = ਸਲੇਟੀ
     .title = ਸਲੇਟੀ
 tab-group-editor-color-selector2-red = ਲਾਲ
     .title = ਲਾਲ
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — ਬੰਦ ਕੀਤਾ
 tab-group-description = { $tabGroupName } — ਟੈਬ ਗਰੁੱਪ
 tab-group-label-tooltip-collapsed = { $tabGroupName } — ਸਮੇਟੇ
 tab-group-label-tooltip-expanded = { $tabGroupName } — ਫਲਾਏ
@@ -260,6 +263,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = ਬੇਨਾਮਾ ਗਰੁੱਪ
 tab-group-name-default = ਬੇਨਾਮਾ ਗਰੁੱਪ
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = ਟੈਬ ਗਰੁੱਪ
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -305,6 +316,14 @@ tab-group-editor-action-new-tab =
     .label = ਗਰੁੱਪ ਵਿੱਚ ਨਵੀਂ ਟੈਬ
 tab-group-editor-action-new-window =
     .label = ਗਰੁੱਪ ਨੂੰ ਨਵੀਂ ਵਿੰਡੋ ਵਿੱਚ ਭੇਜੋ
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] ਲਿੰਕ ਗਰੁੱਪ ਵਿੱਚ ਕਾਪੀ ਕੀਤਾ
+           *[other] Copy { $linkCount } links in group
+        }
 tab-group-editor-action-save =
     .label = ਗਰੁੱਪ ਨੂੰ ਸੰਭਾਲ ਕੇ ਬੰਦ ਕਰੋ
 tab-group-editor-action-ungroup =
@@ -314,6 +333,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = ਮੁਕੰਮਲ
     .accessKey = D
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਸਾਂਝਾ ਕਰੋ
 tab-context-reopen-tab-group =
     .label = ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
 # Variables:
@@ -386,6 +408,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = ਸੰਭਾਲੋ
     .accesskey = S
+tab-note-editor-button-delete =
+    .title = ਨੋਟ ਨੂੰ ਹਟਾਓ
+    .aria-label = ਨੋਟ ਨੂੰ ਹਟਾਓ
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = ਨੋਟ ਨੂੰ ਸੋਧੋ
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = ਹੋਰ ਪੜ੍ਹੋ
 tab-note-panel-add-note-new-badge =

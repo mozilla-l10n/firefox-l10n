@@ -151,6 +151,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
 tab-context-send-to-mobile-device-missing =
     .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਨਹੀਂ ਵੇਖ ਰਹੇ ਹੋ?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = ਸਾਂਝਾ ਕਰਨਯੋਗ ਲਿੰਕ ਬਣਾਓ
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

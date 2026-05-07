@@ -51,8 +51,24 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } ਲਵੋ
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
 more-from-moz-new-products-title = { -vendor-short-name } ਨਵੇਂ ਉਤਪਾਦ
+more-from-moz-new-products-button = ਨਵੇਂ ਉਤਪਾਦ ਵੇਖੋ
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-vpn-box-link =
+    .label = { -mozilla-vpn-brand-name } ਲਵੋ
+more-from-moz-firefox-relay-box-link =
+    .label = { -relay-brand-short-name } ਲਵੋ
+more-from-moz-thunderbird-box-link =
+    .label = { -thunderbird-brand-short-name } ਲਵੋ
+more-from-moz-solo-box-link =
+    .label = { -solo-ai-brand-name } ਨੂੰ ਅਜ਼ਮਾਓ
+more-from-moz-new-products-box-link =
+    .label = ਨਵੇਂ ਉਤਪਾਦ ਵੇਖੋ
