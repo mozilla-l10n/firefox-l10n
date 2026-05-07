@@ -84,6 +84,11 @@ smartblock-placeholder-title = Zablokowano treści z elementami śledzącymi �
 smartblock-placeholder-desc = Twoje ustawienia { -brand-short-name(case: "gen") } zablokowały tym treściom możliwość śledzenia Cię między witrynami i wykorzystywania ich do wyświetlania reklam.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Zezwól na witrynie { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Treść z zablokowanego elementu osadzonego
 
 ##
 

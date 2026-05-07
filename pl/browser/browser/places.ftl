@@ -267,3 +267,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = System zakładek i historii nie będzie działał, ponieważ jeden z plików programu { -brand-short-name } jest używany przez inną aplikację. Niektóre programy związane z bezpieczeństwem mogą powodować ten problem.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Udostępnij folder
