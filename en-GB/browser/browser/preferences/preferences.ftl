@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = About { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Appearance
+    .title = { pane-appearance-title }
+pane-downloads-title = Downloads
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Accessibility
     .title = { pane-accessibility-title }
 pane-languages-title = Languages
@@ -337,6 +342,12 @@ browser-layout-show-sidebar-desc = Quickly access bookmarks, tabs from your phon
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Language and Appearance
+appearance-group2 =
+    .label = Web site appearance
+    .description = Some web sites change their colours to match your preferences. Choose your colour scheme.
+preferences-web-appearance-choice-auto3 =
+    .label = System
+    .title = Automatically change web site backgrounds and content based on your system settings and { -brand-short-name } theme.
 appearance-group =
     .label = Web site appearance
     .description = Some web sites adapt their colour scheme based on your preferences. Choose which colour scheme you’d like to use for those sites.
@@ -573,6 +584,12 @@ download-save-files-header =
     .label = Save files to
 download-save-where-3 =
     .aria-label = Save files to
+download-always-ask-where2 =
+    .label = Ask where to save files before downloading
+    .accesskey = A
+download-private-browsing-delete2 =
+    .label = Delete private window downloads on close
+    .accesskey = D
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -603,6 +620,9 @@ applications-setting =
     .description = Choose how { -brand-short-name } handles the files you download from the web or the applications you use while browsing.
 applications-header = Applications
 applications-description = Choose how { -brand-short-name } handles the files you download from the web or the applications you use while browsing.
+applications-setting2 =
+    .label = Files and applications
+    .description = Choose how { -brand-short-name } handles downloaded files and content.
 applications-filter =
     .placeholder = Search file types or applications
 applications-type-column =
@@ -682,8 +702,14 @@ applications-handle-new-file-types-description = What should { -brand-short-name
 applications-save-for-new-types =
     .label = Save files
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = Automatically save files
+    .accesskey = s
 applications-ask-before-handling =
     .label = Ask whether to open or save files
+    .accesskey = A
+applications-ask-before-handling2 =
+    .label = Ask to open or save files
     .accesskey = A
 drm-group =
     .label = Digital Rights Management (DRM) Content
@@ -1046,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sports
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Clock
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Support { -brand-product-name }
@@ -2165,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permissions
     .description = Manage what web sites can access, control or trigger.
+permissions-data-section =
+    .heading = Permissions and data
+pane-permissions-data-title = Permissions and data
 
 ## Privacy Section - Data Collection
 
@@ -2495,6 +2527,22 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Choose Download Folder:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Appearance
+browser-theme-group =
+    .label = Browser theme
+    .description = Style { -brand-short-name } your way. Theme colours apply to toolbars, menus and messages.
+browser-theme-manage-link =
+    .label = Manage { -brand-short-name } themes
+related-settings-group =
+    .label = Related settings
+related-settings-accessibility-link =
+    .label = Customise zoom and font settings in Accessibility
+related-settings-home-link =
+    .label = Customise { -firefox-home-brand-name }
 
 ## AI controls page
 
