@@ -577,6 +577,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = File e applicazioni
+download-save-files-header =
+    .label = Salva i file in
+download-save-where-3 =
+    .aria-label = Salva i file in
 downloads-header-2 =
     .label = Download
 download-save-where-2 =
