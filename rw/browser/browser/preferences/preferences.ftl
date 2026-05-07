@@ -60,6 +60,10 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+download-save-files-header =
+    .label = Kubika dosiye mu
+download-save-where-3 =
+    .aria-label = Kubika dosiye mu
 downloads-header-2 =
     .label = Ibyakuruwe
 download-save-where-2 =
@@ -107,7 +111,13 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+## Firefox updates
+
+
+## About Firefox
+
+
+## Firefox updates
 
 
 ## Firefox support
@@ -116,7 +126,7 @@ applications-use-other-label =
 ## General Section - Performance
 
 
-## General Section - Browsing
+## Accessibility page
 
 browsing-title = Gushakisha
 browsing-use-autoscroll =
@@ -130,6 +140,9 @@ browsing-use-cursor-navigation =
     .accesskey = r
 browsing-group =
     .label = Gushakisha
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -223,7 +236,7 @@ use-current-pages =
 ## Privacy Section - Logins and Passwords
 
 
-## Privacy Section - Passwords
+## Privacy Panel Settings
 
 forms-exceptions =
     .label = Amarengayobora...
@@ -232,6 +245,9 @@ forms-master-pw-change =
     .label = Guhindura Ijambobanga Ngenga...
     .accesskey = h
 forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -302,7 +318,25 @@ certs-devices-enable-fips = Gukoresha FIPS
 ## DoH Section
 
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ibiro
 choose-download-folder-title = Guhitamo Ububiko bw'Iyimura:
+
+## Appearance page
+
+
+## AI controls page
+
+
+## Privacy and security status card
+
+
+## Enhanced Tracking Protection (ETP) status section
+
+
+## Warnings section
+
