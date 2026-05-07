@@ -2532,6 +2532,17 @@ choose-download-folder-title = Elige le dossier de discargamentos:
 
 preferences-appearance-header =
     .heading = Apparentia
+browser-theme-group =
+    .label = Thema de navigator
+    .description = Modella { -brand-short-name } a tu maniera.
+browser-theme-manage-link =
+    .label = Gerer thema de { -brand-short-name }
+related-settings-group =
+    .label = Configurationes relative
+related-settings-accessibility-link =
+    .label = Personalisa configurationes del zoom e del typos del character in Accessibilitate
+related-settings-home-link =
+    .label = Personalisar { -firefox-home-brand-name }
 
 ## AI controls page
 

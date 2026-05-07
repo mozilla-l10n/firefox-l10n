@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Contrasigno del copia de securitate del certificato (novemente):
 set-password-reminder = Importante: Si tu oblida le contrasigno de tu copia de securitate del certificato, tu non potera restaurar iste copia de securitate plus tarde. Per favor guarda lo in un loco secur.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Authentication protecte
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Authentica te al dispositivo de securitate ({ $tokenName }). Como facer lo depende del dispositivo (per exemplo, usante un lector de dactylogramma o inserente un codice con un claviero numeric).
+
 ## Protected authentication alert
 
 # Variables:

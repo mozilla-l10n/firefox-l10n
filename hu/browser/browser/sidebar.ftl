@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = A { -brand-short-name } beállításainak kezelése
 sidebar-vertical-tabs =
     .label = Függőleges lapok
+sidebar-settings2 =
+    .label = Beállítások
 sidebar-settings =
     .label = Oldalsáv-beállítások
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Oldalsáv kibontása rámutatáskor
+sidebar-manage-extensions2 = Összes kiegészítő kezelése
 sidebar-manage-extensions = Kiegészítők kezelése
+sidebar-customize-extensions-header2 = Kiegészítők
+sidebar-customize-firefox-tools-header2 =
+    .label = Eszközök
 
 ## Labels for sidebar context menu items
 

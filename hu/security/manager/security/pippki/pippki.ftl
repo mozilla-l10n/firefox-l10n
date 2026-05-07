@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Jelszó (ismét):
 set-password-reminder = Fontos: Ha elfelejti a tanúsítványokról készült biztonsági mentéshez használt jelszót, nem fogja tudni visszaállítani a tanúsítványokat a mentésből.  Írja fel biztonságos helyre.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Védett hitelesítés
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Hitelesítsen a(z) „{ $tokenName }” biztonsági eszközön. Ennek módja az eszköztől függ (például ujjlenyomat-olvasó használata vagy kód beírása billentyűzettel).
+
 ## Protected authentication alert
 
 # Variables:

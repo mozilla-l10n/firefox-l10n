@@ -2532,6 +2532,14 @@ choose-download-folder-title = Letöltési mappa kiválasztása:
 
 preferences-appearance-header =
     .heading = Megjelenés
+browser-theme-manage-link =
+    .label = { -brand-short-name }-témák kezelése
+related-settings-group =
+    .label = Kapcsolódó beállítások
+related-settings-accessibility-link =
+    .label = Nagyítási és betűkészlet-beállítások testreszabása az Akadálymentesítés alatt
+related-settings-home-link =
+    .label = A { -firefox-home-brand-name } testreszabása
 
 ## AI controls page
 
