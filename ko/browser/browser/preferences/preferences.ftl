@@ -2480,9 +2480,6 @@ desktop-folder-name = 바탕 화면
 downloads-folder-name = 다운로드
 choose-download-folder-title = 다운로드 폴더 선택:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

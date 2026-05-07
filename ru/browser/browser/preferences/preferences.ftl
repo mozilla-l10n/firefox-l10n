@@ -2500,9 +2500,6 @@ desktop-folder-name = Рабочий стол
 downloads-folder-name = Загрузки
 choose-download-folder-title = Выберите папку для загрузок:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

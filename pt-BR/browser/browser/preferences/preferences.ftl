@@ -735,12 +735,6 @@ update-in-progress-ok-button = &Descartar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
-## About Firefox
-
-
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -822,9 +816,6 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saiba mais
 browsing-group =
     .label = Navegação
-
-## Accessibility page
-
 
 ## General Section - Proxy
 
@@ -1542,9 +1533,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saiba mais
 forms-windows-sso-desc = Gerencie contas nas configurações do seu dispositivo
 windows-passkey-settings-label = Gerenciar códigos de acesso nas configurações do sistema
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2429,9 +2417,6 @@ preferences-connection-link-button =
 desktop-folder-name = Área de trabalho
 downloads-folder-name = Downloads
 choose-download-folder-title = Selecione a pasta dos downloads:
-
-## Appearance page
-
 
 ## AI controls page
 

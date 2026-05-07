@@ -369,6 +369,8 @@ newtab-custom-widget-timer-toggle =
     .label = Timer
 newtab-custom-widget-sports-toggle =
     .label = VM
+newtab-custom-widget-clock-toggle =
+    .label = Klocka
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
@@ -896,29 +898,56 @@ newtab-widget-timer-celebration-message-break = Redo att fokusera?
 newtab-sports-widget-menu-follow-teams = Följ lag
 newtab-sports-widget-menu-view-upcoming = Visa kommande
 newtab-sports-widget-menu-view-results = Visa resultat
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Viktiga datum
 newtab-sports-widget-menu-learn-more = Läs mer
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Håll koll på världscupen
 newtab-sports-widget-get-updates = Få liveuppdateringar om matcher och mycket mer.
 newtab-sports-widget-view-schedule =
     .label = Visa schema
 newtab-sports-widget-follow-teams =
     .label = Följ lag
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Följ upp till { $number } team
+       *[other] Följ upp till { $number } team
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Välj en bakgrundsbild
 newtab-sports-widget-skip = Hoppa över
+newtab-sports-widget-search-country =
+    .placeholder = Sök land
+    .aria-label = Sök land
+newtab-sports-widget-cancel = Avbryt
 newtab-sports-widget-done-button =
     .label = Klar
 newtab-sports-widget-group-stage = Gruppspel
+newtab-sports-widget-round-32 = Sextondelsfinal
+newtab-sports-widget-round-16 = Åttondelsfinal
+newtab-sports-widget-quarter-finals = Kvartsfinaler
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
     .title = Uppdatera poäng
     .aria-label = Uppdatera poäng
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Viktiga datum
 newtab-sports-widget-upcoming = Kommande
 newtab-sports-widget-results = Resultat
 newtab-sports-widget-semi-finals = Semifinaler
 newtab-sports-widget-bronze-finals = Bronsfinal
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Försenad
 newtab-sports-widget-postponed = Uppskjuten
 newtab-sports-widget-suspended = Avstängd
@@ -953,3 +982,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Det här utrymmet följer dina regler
 newtab-activation-window-message-values-focus-message = Med { -brand-product-name } kan du surfa precis som du vill, med ett mer personligt sätt att börja dagen online. Gör { -brand-product-name } till din egen.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Dölj klocka
+newtab-clock-widget-menu-learn-more = Läs mer
+newtab-clock-widget-menu-edit = Redigera klockor
+newtab-clock-widget-menu-switch-to-12h = Byt till 12-timmarsformat
+newtab-clock-widget-menu-switch-to-24h = Byt till 24-timmars format
+newtab-clock-widget-label-your-clocks = Dina klockor
+newtab-clock-widget-search-location-input =
+    .label = Plats
+    .placeholder = Sök efter en stad
+    .aria-label = Sök efter en stad
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Smeknamn (valfritt)
+    .placeholder = Lägg till ett smeknamn
+    .aria-label = Smeknamn (valfritt)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Lägg till ny klocka
+    .aria-label = Lägg till ny klocka
+newtab-clock-widget-button-add-clock = Lägg till
+newtab-clock-widget-button-cancel = Avbryt
+newtab-clock-widget-button-back =
+    .title = Tillbaka
+    .aria-label = Tillbaka
+newtab-clock-widget-button-edit-clock =
+    .title = Redigera klocka
+    .aria-label = Redigera klocka
+newtab-clock-widget-button-save = Spara
+newtab-clock-widget-button-remove-clock =
+    .title = Ta bort klocka
+    .aria-label = Ta bort klocka
+newtab-clock-widget-add-clock-form =
+    .aria-label = Lägg till klocka
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Redigera klocka
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Sökresultat
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Öppna menyn för klocka
+    .aria-label = Öppna menyn för klocka
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Smeknamn: { $nickname }

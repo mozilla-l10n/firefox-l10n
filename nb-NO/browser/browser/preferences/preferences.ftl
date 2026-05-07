@@ -2496,9 +2496,6 @@ desktop-folder-name = Skrivebord
 downloads-folder-name = Nedlastinger
 choose-download-folder-title = Velg nedlastingsmappe:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

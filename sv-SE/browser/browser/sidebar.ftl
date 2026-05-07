@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Hantera inställningar för { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Vertikala flikar
+sidebar-settings2 =
+    .label = Inställningar
 sidebar-settings =
     .label = Inställningar för sidofält
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Expandera sidofält vid hovring
+sidebar-manage-extensions2 = Hantera alla tillägg
 sidebar-manage-extensions = Hantera tillägg
+sidebar-customize-extensions-header2 = Tillägg
+sidebar-customize-firefox-tools-header2 =
+    .label = Verktyg
 
 ## Labels for sidebar context menu items
 

@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Lösenord för certifikatets säkerhetskopia (bekräftas):
 set-password-reminder = Viktigt: Om du glömmer detta lösenord kommer du inte att kunna återställa denna säkerhetskopia senare. Lagra detta lösenord på en säker plats.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Skyddad autentisering
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Vänligen autentisera till säkerhetsenheten ({ $tokenName }). Hur man gör det beror på enheten (till exempel genom att använda en fingeravtrycksläsare eller ange en kod med en knappsats).
+
 ## Protected authentication alert
 
 # Variables:

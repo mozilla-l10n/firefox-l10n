@@ -365,6 +365,8 @@ newtab-custom-widget-timer-toggle =
     .label = Minuteur
 newtab-custom-widget-sports-toggle =
     .label = Coupe du monde
+newtab-custom-widget-clock-toggle =
+    .label = Horloge
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -893,29 +895,56 @@ newtab-widget-timer-celebration-message-break = Prêt·e à mettre au point ?
 newtab-sports-widget-menu-follow-teams = Suivre des équipes
 newtab-sports-widget-menu-view-upcoming = Voir les matchs à venir
 newtab-sports-widget-menu-view-results = Voir les résultats
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Dates clés
 newtab-sports-widget-menu-learn-more = En savoir plus
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Gardez un œil sur la Coupe du monde
 newtab-sports-widget-get-updates = Recevez les dernières infos en direct sur les matchs et bien plus encore.
 newtab-sports-widget-view-schedule =
     .label = Voir le calendrier
 newtab-sports-widget-follow-teams =
     .label = Suivre des équipes
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Faire suivre à { $number } équipes
+       *[other] Faire suivre à { $number } équipes
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Choisir un fond d’écran
 newtab-sports-widget-skip = Ignorer
+newtab-sports-widget-search-country =
+    .placeholder = Rechercher un pays
+    .aria-label = Rechercher un pays
+newtab-sports-widget-cancel = Annuler
 newtab-sports-widget-done-button =
     .label = Terminé
 newtab-sports-widget-group-stage = Phase de groupes
+newtab-sports-widget-round-32 = 16es de finale
+newtab-sports-widget-round-16 = 8es de finale
+newtab-sports-widget-quarter-finals = Quarts de finale
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = EN DIRECT
 newtab-custom-widget-live-refresh =
     .title = Actualiser les scores
     .aria-label = Actualiser les scores
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Dates clés
 newtab-sports-widget-upcoming = À venir
 newtab-sports-widget-results = Résultats
 newtab-sports-widget-semi-finals = Demi-finale
 newtab-sports-widget-bronze-finals = Petite finale
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Retardé
 newtab-sports-widget-postponed = Reporté
 newtab-sports-widget-suspended = Suspendu
@@ -950,3 +979,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Cet espace suit vos règles
 newtab-activation-window-message-values-focus-message = { -brand-product-name } vous permet de naviguer comme bon vous semble, de commencer votre journée en ligne de façon plus personnelle. Personnalisez { -brand-product-name }.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Masquer l’horloge
+newtab-clock-widget-menu-learn-more = En savoir plus
+newtab-clock-widget-menu-edit = Modifier les horloges
+newtab-clock-widget-menu-switch-to-12h = Passer au format 12 heures
+newtab-clock-widget-menu-switch-to-24h = Passer au format 24 heures
+newtab-clock-widget-label-your-clocks = Vos horloges
+newtab-clock-widget-search-location-input =
+    .label = Emplacement
+    .placeholder = Rechercher une ville
+    .aria-label = Rechercher une ville
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Pseudonyme (facultatif)
+    .placeholder = Ajouter un pseudonyme
+    .aria-label = Pseudonyme (facultatif)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Ajouter une horloge
+    .aria-label = Ajouter une horloge
+newtab-clock-widget-button-add-clock = Ajouter
+newtab-clock-widget-button-cancel = Annuler
+newtab-clock-widget-button-back =
+    .title = Retour
+    .aria-label = Retour
+newtab-clock-widget-button-edit-clock =
+    .title = Modifier l’heure
+    .aria-label = Modifier l’heure
+newtab-clock-widget-button-save = Enregistrer
+newtab-clock-widget-button-remove-clock =
+    .title = Supprimer l’horloge
+    .aria-label = Supprimer l’horloge
+newtab-clock-widget-add-clock-form =
+    .aria-label = Ajouter une horloge
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Modifier l’heure
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Résultats de la recherche
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Ouvrir le menu de l’horloge
+    .aria-label = Ouvrir le menu de l’horloge
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Pseudonyme : { $nickname }

@@ -2498,9 +2498,6 @@ desktop-folder-name = سطح المكتب
 downloads-folder-name = التّنزيلات
 choose-download-folder-title = اختر مجلّد التّنزيلات:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

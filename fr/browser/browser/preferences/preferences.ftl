@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = À propos de { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Apparence
+    .title = { pane-appearance-title }
+pane-downloads-title = Téléchargements
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Accessibilité
     .title = { pane-accessibility-title }
 pane-languages-title = Langues
@@ -337,6 +342,12 @@ browser-layout-show-sidebar-desc = Accédez rapidement aux marque-pages, aux ong
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Langue et apparence
+appearance-group2 =
+    .label = Apparence des sites web
+    .description = Certains sites web modifient leurs couleurs pour correspondre à vos préférences. Choisissez votre jeu de couleurs.
+preferences-web-appearance-choice-auto3 =
+    .label = Système
+    .title = Modifiez automatiquement les arrière-plans et le contenu des sites web en fonction de vos paramètres système et du thème de { -brand-short-name }.
 appearance-group =
     .label = Apparence des sites web
     .description = Certains sites web adaptent leur jeu de couleurs en fonction de vos préférences. Choisissez le jeu de couleurs que vous souhaitez utiliser pour ces sites.
@@ -573,6 +584,12 @@ download-save-files-header =
     .label = Enregistrer les fichiers dans le dossier
 download-save-where-3 =
     .aria-label = Enregistrer les fichiers dans le dossier
+download-always-ask-where2 =
+    .label = Demander où sauvegarder les fichiers avant de télécharger
+    .accesskey = D
+download-private-browsing-delete2 =
+    .label = Supprimer les téléchargements des fenêtres privées à la fermeture
+    .accesskey = S
 downloads-header-2 =
     .label = Téléchargements
 download-save-where-2 =
@@ -603,6 +620,9 @@ applications-setting =
     .description = Définissez le comportement de { -brand-short-name } avec les fichiers que vous téléchargez et les applications que vous utilisez lorsque vous naviguez.
 applications-header = Applications
 applications-description = Définissez le comportement de { -brand-short-name } avec les fichiers que vous téléchargez et les applications que vous utilisez lorsque vous naviguez.
+applications-setting2 =
+    .label = Fichiers et applications
+    .description = Choisir comment { -brand-short-name } gère les fichiers et contenus téléchargés.
 applications-filter =
     .placeholder = Rechercher des types de fichiers ou d’applications
 applications-type-column =
@@ -682,8 +702,14 @@ applications-handle-new-file-types-description = Que doit faire { -brand-short-n
 applications-save-for-new-types =
     .label = Enregistrer les fichiers
     .accesskey = E
+applications-save-for-new-types2 =
+    .label = Enregistrer automatiquement les fichiers
+    .accesskey = E
 applications-ask-before-handling =
     .label = Demander s’il faut ouvrir ou enregistrer les fichiers
+    .accesskey = D
+applications-ask-before-handling2 =
+    .label = Demander d’ouvrir ou d’enregistrer les fichiers
     .accesskey = D
 drm-group =
     .label = Contenu protégé par des composants de gestion des droits numériques (DRM)
@@ -1046,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sports
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Horloge
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Soutenir { -brand-product-name }
@@ -2165,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permissions
     .description = Gérez les éléments que les sites web peuvent accéder, contrôler ou déclencher.
+permissions-data-section =
+    .heading = Autorisations et données
+pane-permissions-data-title = Autorisations et données
 
 ## Privacy Section - Data Collection
 
@@ -2498,6 +2530,19 @@ choose-download-folder-title = Choisir le dossier de téléchargement :
 
 ## Appearance page
 
+preferences-appearance-header =
+    .heading = Apparence
+browser-theme-group =
+    .label = Thème du navigateur
+    .description = Personnalisez { -brand-short-name } votre façon. Les couleurs des thèmes s’appliquent aux barres d’outils, aux menus et aux messages.
+browser-theme-manage-link =
+    .label = Gérer les thèmes pour les { -brand-short-name }
+related-settings-group =
+    .label = Paramètres associés
+related-settings-accessibility-link =
+    .label = Personnaliser les paramètres de zoom et de police dans Accessibilité
+related-settings-home-link =
+    .label = Personnaliser { -firefox-home-brand-name }
 
 ## AI controls page
 

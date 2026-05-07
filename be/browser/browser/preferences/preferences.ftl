@@ -727,12 +727,6 @@ update-in-progress-ok-button = &Адкінуць
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
 
-## About Firefox
-
-
-## Firefox updates
-
-
 ## Firefox support
 
 support-application-heading =
@@ -1553,9 +1547,6 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Падрабязней
 forms-windows-sso-desc = Кіраванне ўліковымі запісамі ў наладах прылады
 windows-passkey-settings-label = Кіраваць ключамі доступу ў наладах сістэмы
-
-## Privacy Panel Settings
-
 
 ## OS Authentication dialog
 
@@ -2449,9 +2440,6 @@ preferences-connection-link-button =
 desktop-folder-name = Працоўны стол
 downloads-folder-name = Сцягванні
 choose-download-folder-title = Выбар папкі сцягванняў:
-
-## Appearance page
-
 
 ## AI controls page
 

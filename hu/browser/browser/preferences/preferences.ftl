@@ -2496,9 +2496,6 @@ desktop-folder-name = Asztal
 downloads-folder-name = Letöltések
 choose-download-folder-title = Letöltési mappa kiválasztása:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

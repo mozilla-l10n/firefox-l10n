@@ -2495,9 +2495,6 @@ desktop-folder-name = שולחן עבודה
 downloads-folder-name = הורדות
 choose-download-folder-title = בחירת תיקייה להורדה:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

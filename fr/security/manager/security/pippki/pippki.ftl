@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Mot de passe de sauvegarde du certificat (encore) :
 set-password-reminder = Important : si vous avez oublié votre mot de passe de sécurité, vous ne pourrez plus importer cette sauvegarde plus tard. Veuillez le conserver en un lieu sûr.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Authentification protégée
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Veuillez vous authentifier sur le périphérique de sécurité ({ $tokenName }). La marche à suivre dépend de l’appareil (par exemple, en utilisant un lecteur d’empreintes digitales ou en saisissant un code au clavier).
+
 ## Protected authentication alert
 
 # Variables:

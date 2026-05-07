@@ -2496,9 +2496,6 @@ desktop-folder-name = სამუშაო ეკრანი
 downloads-folder-name = ჩამოტვირთვები
 choose-download-folder-title = ჩამოტვირთვების საქაღალდის არჩევა:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

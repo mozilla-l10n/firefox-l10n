@@ -737,9 +737,6 @@ update-in-progress-ok-button = 放弃
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
 
-## About Firefox
-
-
 ## Firefox updates
 
 update-application-heading =
@@ -2470,9 +2467,6 @@ preferences-connection-link-button =
 desktop-folder-name = 桌面
 downloads-folder-name = 下载
 choose-download-folder-title = 选择下载文件夹：
-
-## Appearance page
-
 
 ## AI controls page
 

@@ -2496,9 +2496,6 @@ desktop-folder-name = Bureaublad
 downloads-folder-name = Downloads
 choose-download-folder-title = Downloadmap kiezen:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

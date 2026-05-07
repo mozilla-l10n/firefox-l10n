@@ -2496,9 +2496,6 @@ desktop-folder-name = Desktop
 downloads-folder-name = Downloads
 choose-download-folder-title = Download-Ordner wählen:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =

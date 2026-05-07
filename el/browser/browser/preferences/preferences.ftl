@@ -2496,9 +2496,6 @@ desktop-folder-name = Επιφάνεια εργασίας
 downloads-folder-name = Λήψεις
 choose-download-folder-title = Επιλογή φακέλου λήψεων:
 
-## Appearance page
-
-
 ## AI controls page
 
 preferences-ai-controls-header =
