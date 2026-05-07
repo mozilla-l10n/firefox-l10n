@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = קבצים ויישומים
+download-save-files-header =
+    .label = שמירת קבצים אל
+download-save-where-3 =
+    .aria-label = שמירת קבצים אל
 downloads-header-2 =
     .label = הורדות
 download-save-where-2 =
@@ -2490,6 +2494,9 @@ preferences-connection-link-button =
 desktop-folder-name = שולחן עבודה
 downloads-folder-name = הורדות
 choose-download-folder-title = בחירת תיקייה להורדה:
+
+## Appearance page
+
 
 ## AI controls page
 
