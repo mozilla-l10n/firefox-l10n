@@ -577,6 +577,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Датотеке и програми
+download-save-files-header =
+    .label = Локација за чување датотека:
+download-save-where-3 =
+    .aria-label = Локација за чување датотека:
 downloads-header-2 =
     .label = Преузимања
 download-save-where-2 =
@@ -768,6 +772,12 @@ update-in-progress-ok-button = &Одбаци
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Настави
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -849,6 +859,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Сазнајте више
 browsing-group =
     .label = Прегледање
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1570,6 +1583,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Сазнајте више
 forms-windows-sso-desc = Управљајте налозима у подешавањима вашег уређаја
 windows-passkey-settings-label = Управљајте приступним кључевима у системским подешавањима
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2478,11 +2494,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS преко HTTPS-а
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Радна површина
 downloads-folder-name = Преузимања
 choose-download-folder-title = Избор фасцикле за преузимања
+
+## Appearance page
+
 
 ## AI controls page
 
