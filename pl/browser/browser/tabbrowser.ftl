@@ -276,6 +276,9 @@ tab-group-editor-color-selector2-gray = Szary
     .title = Szary
 tab-group-editor-color-selector2-red = Czerwony
     .title = Czerwony
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — zamknięte
 tab-group-description = { $tabGroupName } — grupa kart
 tab-group-label-tooltip-collapsed = { $tabGroupName } — zwinięte
 tab-group-label-tooltip-expanded = { $tabGroupName } — rozwinięte
@@ -284,6 +287,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Grupa bez nazwy
 tab-group-name-default = Grupa bez nazwy
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Grupy kart
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -327,6 +338,15 @@ tab-group-editor-action-new-tab =
     .label = Nowa karta w grupie
 tab-group-editor-action-new-window =
     .label = Przenieś grupę do nowego okna
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $tabCount ->
+            [one] Kopiuj odnośnik w grupie
+            [few] Kopiuj { $linkCount } odnośniki w grupie
+           *[many] Kopiuj { $linkCount } odnośników w grupie
+        }
 tab-group-editor-action-save =
     .label = Zachowaj i zamknij grupę
 tab-group-editor-action-ungroup =
@@ -336,6 +356,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Gotowe
     .accessKey = G
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Udostępnij grupę kart
 tab-context-reopen-tab-group =
     .label = Przywróć grupę kart
 # Variables:
