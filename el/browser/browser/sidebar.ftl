@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Διαχείριση ρυθμίσεων του { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Κάθετες καρτέλες
+sidebar-settings2 =
+    .label = Ρυθμίσεις
 sidebar-settings =
     .label = Ρυθμίσεις πλαϊνής γραμμής
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ανάπτυξη πλαϊνής γραμμής με το πέρασμα του κέρσορα
+sidebar-manage-extensions2 = Διαχείριση όλων των επεκτάσεων
 sidebar-manage-extensions = Διαχείριση επεκτάσεων
+sidebar-customize-extensions-header2 = Επεκτάσεις
+sidebar-customize-firefox-tools-header2 =
+    .label = Εργαλεία
 
 ## Labels for sidebar context menu items
 

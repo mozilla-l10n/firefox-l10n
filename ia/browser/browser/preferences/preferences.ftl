@@ -342,6 +342,9 @@ browser-layout-show-sidebar-desc = Rapidemente accede marcapaginas, schedas de t
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Lingua e apparentia
+appearance-group2 =
+    .label = Apparentia del sito web
+    .description = Alcun sitos web cambia lor colores pro harmonisar se a tu preferentias. Elige tu schema de color.
 appearance-group =
     .label = Apparentia de sitos web
     .description = Alcun sitos web adapta lor schema de colores a base de tu preferentias. Elige le schema de colores que tu vole usar pro ille sitos.

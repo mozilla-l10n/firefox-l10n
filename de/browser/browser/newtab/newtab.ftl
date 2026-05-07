@@ -903,6 +903,8 @@ newtab-widget-timer-celebration-message-break = Bereit, sich zu konzentrieren?
 newtab-sports-widget-menu-follow-teams = Teams folgen
 newtab-sports-widget-menu-view-upcoming = Kommende anzeigen
 newtab-sports-widget-menu-view-results = Ergebnisse anzeigen
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Wichtige Daten
 newtab-sports-widget-menu-learn-more = Weitere Informationen
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Behalten Sie die WM im Auge
@@ -936,6 +938,8 @@ newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
     .title = Spielstände aktualisieren
     .aria-label = Spielstände aktualisieren
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Wichtige Daten
 newtab-sports-widget-upcoming = In Kürze
 newtab-sports-widget-results = Ergebnisse
 newtab-sports-widget-semi-finals = Halbfinale

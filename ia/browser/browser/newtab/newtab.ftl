@@ -898,11 +898,20 @@ newtab-sports-widget-menu-view-results = Visualisar resultatos
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Datas clave
 newtab-sports-widget-menu-learn-more = Pro saper plus
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Retener schedas sur le Cuppa del mundo
 newtab-sports-widget-get-updates = Obtene actualisationes al vivo del incontros e plus.
 newtab-sports-widget-view-schedule =
     .label = Vider agenda
 newtab-sports-widget-follow-teams =
     .label = Sequer equipas
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Seque usque { $number } equipa
+       *[other] Seque usque { $number } equipas
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Eliger un fundo de schermo
 newtab-sports-widget-skip = Saltar
@@ -977,10 +986,26 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 newtab-clock-widget-menu-hide = Celar horologio
 newtab-clock-widget-menu-learn-more = Pro saper plus
 newtab-clock-widget-menu-edit = Modificar horologios
+newtab-clock-widget-menu-switch-to-12h = Passa al formato 12 horas
+newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 horas
+newtab-clock-widget-label-your-clocks = Tu horologios
 newtab-clock-widget-search-location-input =
     .label = Position
     .placeholder = Cercar citate
     .aria-label = Cercar citate
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Pseudonymo (optional)
+    .placeholder = Adder un pseudonymo
+    .aria-label = Pseudonymo (optional)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Adder nove horologi
+    .aria-label = Adder nove horologi
 newtab-clock-widget-button-add-clock = Adder
 newtab-clock-widget-button-cancel = Cancellar
 newtab-clock-widget-button-back =
@@ -990,6 +1015,9 @@ newtab-clock-widget-button-edit-clock =
     .title = Modificar horologio
     .aria-label = Modificar horologio
 newtab-clock-widget-button-save = Salvar
+newtab-clock-widget-button-remove-clock =
+    .title = Remover horologio
+    .aria-label = Remover horologio
 newtab-clock-widget-add-clock-form =
     .aria-label = Adder horologio
 newtab-clock-widget-edit-clock-form =
@@ -999,3 +1027,11 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Resultatos del recerca
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Aperir menu pro horologio
+    .aria-label = Aperir menu pro horologio
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Pseudonymo: { $pseudonymo }

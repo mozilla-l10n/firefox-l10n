@@ -21,3 +21,7 @@ content-sharing-modal-copy-link =
     .label = Αντιγραφή συνδέσμου
 content-sharing-modal-link-copied =
     .label = Ο σύνδεσμος αντιγράφηκε
+content-sharing-modal-sign-in =
+    .label = Συνδεθείτε για κοινή χρήση συνδέσμων
+content-sharing-modal-title = Μοιραστείτε αυτήν τη συλλογή συνδέσμων με οποιοδήποτε πρόγραμμα περιήγησης
+content-sharing-modal-description = Δημιουργήστε μια δημόσια σελίδα, που μπορείτε να μοιραστείτε εύκολα, για αυτούς τους συνδέσμους. Μόλις δημιουργηθεί, δεν θα είναι δυνατή η επεξεργασία ή η διαγραφή της και θα λήξει σε 7 ημέρες.
