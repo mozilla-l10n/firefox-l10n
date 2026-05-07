@@ -25,3 +25,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in =
     .label = יש להיכנס כדי לשתף קישורים
 content-sharing-modal-title = שיתוף אוסף זה של קישורים בכל דפדפן
+content-sharing-modal-description = ניתן ליצור דף ציבורי וקל לשיתוף עבור קישורים אלה. לאחר יצירת הדף, לא ניתן לערוך או למחוק אותו, ותוקפו יפוג לאחר 7 ימים.

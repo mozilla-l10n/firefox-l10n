@@ -363,6 +363,8 @@ newtab-custom-widget-timer-toggle =
     .label = שעון עצר
 newtab-custom-widget-sports-toggle =
     .label = מונדיאל
+newtab-custom-widget-clock-toggle =
+    .label = שעון
 newtab-custom-widget-section-title = ווידג’טים
 newtab-custom-widget-section-toggle =
     .label = ווידג’טים
@@ -895,29 +897,56 @@ newtab-widget-timer-celebration-message-break = נחזור להתרכז?
 newtab-sports-widget-menu-follow-teams = מעקב אחרי נבחרות
 newtab-sports-widget-menu-view-upcoming = הצגת המשחקים הבאים
 newtab-sports-widget-menu-view-results = הצגת תוצאות
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = תאריכי מפתח
 newtab-sports-widget-menu-learn-more = מידע נוסף
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = מעקב אחרי המונדיאל
 newtab-sports-widget-get-updates = קבלת עדכונים חיים על משחקים ועוד.
 newtab-sports-widget-view-schedule =
     .label = הצגת לוח זמנים
 newtab-sports-widget-follow-teams =
     .label = מעקב אחרי נבחרות
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] מעקב אחר נבחרת אחת
+       *[other] מעקב אחר עד { $number } נבחרות
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = בחירת תמונת רקע
 newtab-sports-widget-skip = דילוג
+newtab-sports-widget-search-country =
+    .placeholder = חיפוש מדינה
+    .aria-label = חיפוש מדינה
+newtab-sports-widget-cancel = ביטול
 newtab-sports-widget-done-button =
     .label = סיום
 newtab-sports-widget-group-stage = שלב הבתים
+newtab-sports-widget-round-32 = סיבוב 32 האחרונות
+newtab-sports-widget-round-16 = שמינית הגמר
+newtab-sports-widget-quarter-finals = רבע גמר
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = חי
 newtab-custom-widget-live-refresh =
     .title = ריענון תוצאות
     .aria-label = ריענון תוצאות
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = תאריכי מפתח
 newtab-sports-widget-upcoming = המשחקים הבאים
 newtab-sports-widget-results = תוצאות
 newtab-sports-widget-semi-finals = חצי גמר
 newtab-sports-widget-bronze-finals = משחק על מדליית הארד
 # Final is the final match for 1st place.
 newtab-sports-widget-final = גמר
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = מתעכב
 newtab-sports-widget-postponed = נדחה
 newtab-sports-widget-suspended = מושהה
@@ -952,3 +981,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = המרחב הזה פועל לפי הכללים שלך
 newtab-activation-window-message-values-focus-message = ‏{ -brand-product-name } מאפשר לך לגלוש בדרך שלך, עם דרך אישית יותר להתחיל את היום שלך באינטרנט. ניתן להפוך את { -brand-product-name } לשלך.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = הסתרת השעון
+newtab-clock-widget-menu-learn-more = מידע נוסף
+newtab-clock-widget-menu-edit = עריכת שעונים
+newtab-clock-widget-menu-switch-to-12h = מעבר לתבנית של 12 שעות
+newtab-clock-widget-menu-switch-to-24h = מעבר לתבנית של 24 שעות
+newtab-clock-widget-label-your-clocks = השעונים שלך
+newtab-clock-widget-search-location-input =
+    .label = מיקום
+    .placeholder = חיפוש אחר עיר
+    .aria-label = חיפוש אחר עיר
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = כינוי (אופציונלי)
+    .placeholder = הוספת כינוי
+    .aria-label = כינוי (אופציונלי)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = הוספת שעון חדש
+    .aria-label = הוספת שעון חדש
+newtab-clock-widget-button-add-clock = הוספה
+newtab-clock-widget-button-cancel = ביטול
+newtab-clock-widget-button-back =
+    .title = חזרה
+    .aria-label = חזרה
+newtab-clock-widget-button-edit-clock =
+    .title = עריכת שעון
+    .aria-label = עריכת שעון
+newtab-clock-widget-button-save = שמירה
+newtab-clock-widget-button-remove-clock =
+    .title = הסרת שעון
+    .aria-label = הסרת שעון
+newtab-clock-widget-add-clock-form =
+    .aria-label = הוספת שעון
+newtab-clock-widget-edit-clock-form =
+    .aria-label = עריכת שעון
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = תוצאות חיפוש
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = פתיחת תפריט עבור השעון
+    .aria-label = פתיחת תפריט עבור השעון
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = כינוי: { $nickname }
