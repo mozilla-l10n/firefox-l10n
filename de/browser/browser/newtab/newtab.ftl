@@ -904,6 +904,8 @@ newtab-sports-widget-menu-follow-teams = Teams folgen
 newtab-sports-widget-menu-view-upcoming = Kommende anzeigen
 newtab-sports-widget-menu-view-results = Ergebnisse anzeigen
 newtab-sports-widget-menu-learn-more = Weitere Informationen
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Behalten Sie die WM im Auge
 newtab-sports-widget-get-updates = Erhalten Sie Live-Updates zu Spielen und mehr.
 newtab-sports-widget-view-schedule =
     .label = Spielplan ansehen

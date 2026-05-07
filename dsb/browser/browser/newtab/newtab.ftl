@@ -1000,3 +1000,52 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 newtab-clock-widget-menu-hide = Zeger schowaś
 newtab-clock-widget-menu-learn-more = Dalšne informacije
 newtab-clock-widget-menu-edit = Zegery wobźěłaś
+newtab-clock-widget-menu-switch-to-12h = Do 12-góźińskego formata změniś
+newtab-clock-widget-menu-switch-to-24h = Do 24-góźińskego formata změniś
+newtab-clock-widget-label-your-clocks = Waše zegery
+newtab-clock-widget-search-location-input =
+    .label = Stojnišćo
+    .placeholder = Město pytaś
+    .aria-label = Město pytaś
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Pśimě (na žycenje)
+    .placeholder = Pśimě pśidaś
+    .aria-label = Pśimě (na žycenje)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Nowy zeger pśidaś
+    .aria-label = Nowy zeger pśidaś
+newtab-clock-widget-button-add-clock = Pśidaś
+newtab-clock-widget-button-cancel = Pśetergnuś
+newtab-clock-widget-button-back =
+    .title = Slědk
+    .aria-label = Slědk
+newtab-clock-widget-button-edit-clock =
+    .title = Zeger wobźěłaś
+    .aria-label = Zeger wobźěłaś
+newtab-clock-widget-button-save = Składowaś
+newtab-clock-widget-button-remove-clock =
+    .title = Zeger wótwónoźeś
+    .aria-label = Zeger wótwónoźeś
+newtab-clock-widget-add-clock-form =
+    .aria-label = Zeger pśidaś
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Zeger wobźěłaś
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Pytańske wuslědki
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Meni za zeger wócyniś
+    .aria-label = Meni za zeger wócyniś
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Pśimě: { $nickname }

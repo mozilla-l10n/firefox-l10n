@@ -23,3 +23,4 @@ content-sharing-modal-link-copied =
     .label = Сілтеме көшірілді
 content-sharing-modal-sign-in =
     .label = Сілтемелерді бөлісу үшін жүйеге кіріңіз
+content-sharing-modal-title = Бұл сілтемелер жинағын кез келген браузерде бөлісіңіз

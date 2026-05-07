@@ -70,6 +70,8 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Über { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Erscheinungsbild
+    .title = { pane-appearance-title }
 pane-downloads-title = Downloads
 pane-downloads =
     .heading = { pane-downloads-title }
@@ -343,6 +345,9 @@ language-and-appearance-header = Sprache und Erscheinungsbild
 appearance-group2 =
     .label = Erscheinungsbild von Websites
     .description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie Ihr Farbschema aus.
+preferences-web-appearance-choice-auto3 =
+    .label = System
+    .title = Automatisch die Seitenhintergründe und -inhalte auf der Grundlage von Systemeinstellungen und { -brand-short-name } anpassen
 appearance-group =
     .label = Erscheinungsbild von Websites
     .description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.
@@ -2522,6 +2527,10 @@ choose-download-folder-title = Download-Ordner wählen:
 
 ## Appearance page
 
+preferences-appearance-header =
+    .heading = Erscheinungsbild
+browser-theme-manage-link =
+    .label = { -brand-short-name }-Themes verwalten
 related-settings-home-link =
     .label = { -firefox-home-brand-name } anpassen
 
