@@ -670,6 +670,8 @@ newtab-new-user-custom-wallpaper-cta = Wypróbuj teraz
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = Nowe tapety właśnie wylądowały
+newtab-wallpaper-feature-highlight-subtitle = Wybierz swoją ulubioną i na każdej nowej karcie czuj się jak w domu.
+newtab-wallpaper-feature-highlight-cta = Wybierz tapetę
 
 ## Strings for download mobile highlight
 
@@ -739,6 +741,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Ukończone ({ $number })
+newtab-widget-lists-celebration-headline = Dobra robota
+newtab-widget-lists-celebration-subhead = Wszystko zrobione
 newtab-widget-task-list-menu-copy = Kopiuj
 newtab-widget-lists-menu-edit = Edytuj nazwę listy
 newtab-widget-lists-menu-edit2 =
@@ -759,17 +763,26 @@ newtab-widget-lists-input-menu-move-up = Przesuń w górę
 newtab-widget-lists-input-menu-move-down = Przesuń w dół
 newtab-widget-lists-input-menu-delete = Usuń
 newtab-widget-lists-input-menu-edit = Edytuj
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Edytuj pozycję
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Utwórz nową listę
 newtab-widget-lists-name-label-default =
     .label = Lista zadań
+newtab-widget-lists-name-label-checklist =
+    .label = Lista rzeczy do zrobienia
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Lista zadań
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Lista rzeczy do zrobienia
+    .aria-label = Edytuj nazwę listy
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nowa lista
     .aria-label = Edytuj nazwę listy
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Lista rzeczy do zrobienia
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nowa lista
@@ -789,7 +802,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimalizuj widżety
     .aria-label = Zwiń wszystkie widżety do małego rozmiaru
+newtab-widget-section-menu-button =
+    .title = Menu widżetów
+    .aria-label = Otwórz menu widżetów
+newtab-widget-section-menu-hide-all = Ukryj widżety
+newtab-widget-section-menu-learn-more = Więcej informacji
 newtab-widget-section-feedback = Powiedz nam, co sądzisz
+newtab-widget-lists-name-default = Lista rzeczy do zrobienia
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -831,6 +850,43 @@ newtab-promo-card-cta = Więcej informacji
 newtab-promo-card-dismiss-button =
     .title = Zamknij
     .aria-label = Zamknij
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Włącz minutnik na jedną minutę
+            [few] Włącz minutnik na { $minutes } minuty
+           *[many] Włącz minutnik na { $minutes } minut
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Wstrzymaj minutnik
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuta
+            [few] { $minutes } minuty
+           *[many] { $minutes } minut
+        }
+newtab-widget-timer-decrease-min =
+    .title = Zmniejsz o 1 minutę
+newtab-widget-timer-increase-min =
+    .title = Zwiększ o 1 minutę
+newtab-widget-timer-mode-group =
+    .aria-label = Tryb minutnika
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Obserwuj drużyny
+newtab-sports-widget-menu-view-upcoming = Następne
+newtab-sports-widget-menu-view-results = Wyniki
+newtab-sports-widget-menu-learn-more = Więcej informacji
+newtab-sports-widget-countdown-title = Odliczanie do mistrzostw świata
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
