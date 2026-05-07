@@ -65,6 +65,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .label = Бұл сайт үшін VPN пайдалану
     .aria-label = Бұл сайт үшін VPN сөндірулі тұр
+site-exclusion-toggle-description = Сайт жұмыс істемей тұр ма? VPN сөндіріп көріңіз.
 ipprotection-settings-link =
     .label = Баптаулар
 

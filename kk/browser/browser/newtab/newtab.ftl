@@ -736,17 +736,26 @@ newtab-widget-lists-input-menu-move-up = Жоғары жылжыту
 newtab-widget-lists-input-menu-move-down = Төмен жылжыту
 newtab-widget-lists-input-menu-delete = Өшіру
 newtab-widget-lists-input-menu-edit = Түзету
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Элементті түзету
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Жаңа тізімді жасау
 newtab-widget-lists-name-label-default =
     .label = Тапсырмалар тізімі
+newtab-widget-lists-name-label-checklist =
+    .label = Тексеру тізімі
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Тапсырмалар тізімі
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Тексеру тізімі
+    .aria-label = Тізім атын түзету
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Жаңа тізім
     .aria-label = Тізім атауын түзету
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Тексеру тізімі
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Жаңа тізім
@@ -772,6 +781,7 @@ newtab-widget-section-menu-button =
 newtab-widget-section-menu-hide-all = Виджеттерді жасыру
 newtab-widget-section-menu-learn-more = Көбірек білу
 newtab-widget-section-feedback = Өз ойыңызбен бөлісіңіз
+newtab-widget-lists-name-default = Тексеру тізімі
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -816,6 +826,13 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+           *[other] { $minutes }-минуттық таймерді іске қосу
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Таймерді аялдату
 # Variables:
