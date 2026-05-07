@@ -557,6 +557,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = 파일 및 애플리케이션
+download-save-files-header =
+    .label = 저장 위치
+download-save-where-3 =
+    .aria-label = 저장 위치
 downloads-header-2 =
     .label = 다운로드
 download-save-where-2 =
@@ -2475,6 +2479,9 @@ preferences-connection-link-button =
 desktop-folder-name = 바탕 화면
 downloads-folder-name = 다운로드
 choose-download-folder-title = 다운로드 폴더 선택:
+
+## Appearance page
+
 
 ## AI controls page
 
