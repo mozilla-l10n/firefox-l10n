@@ -547,6 +547,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Archivos y aplicaciones
+download-save-files-header =
+    .label = Guardar archivos en
+download-save-where-3 =
+    .aria-label = Guardar archivos en
 downloads-header-2 =
     .label = Descargas
 download-save-where-2 =
@@ -715,6 +719,12 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## About Firefox
+
+
+## Firefox updates
+
+
 ## Firefox support
 
 support-application-heading =
@@ -796,6 +806,9 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saber más
 browsing-group =
     .label = Navegación
+
+## Accessibility page
+
 
 ## General Section - Proxy
 
@@ -1504,6 +1517,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administrar cuentas en la configuración de su dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2341,11 +2357,17 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
 
+## Connection and software security section
+
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Elegir carpeta de descarga:
+
+## Appearance page
+
 
 ## AI controls page
 
