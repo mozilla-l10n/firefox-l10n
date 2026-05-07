@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Filer og programmer
+download-save-files-header =
+    .label = Lagre filer i
+download-save-where-3 =
+    .aria-label = Lagre filer i
 downloads-header-2 =
     .label = Nedlastinger
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Skrivebord
 downloads-folder-name = Nedlastinger
 choose-download-folder-title = Velg nedlastingsmappe:
+
+## Appearance page
+
 
 ## AI controls page
 
