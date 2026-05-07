@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = { -brand-short-name } 설정 관리
 sidebar-vertical-tabs =
     .label = 세로 탭
+sidebar-settings2 =
+    .label = 설정
 sidebar-settings =
     .label = 사이드바 설정
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = 마우스를 올려서 사이드바 펼치기
+sidebar-manage-extensions2 = 모든 확장 기능 관리
 sidebar-manage-extensions = 확장 기능 관리
+sidebar-customize-extensions-header2 = 확장 기능
+sidebar-customize-firefox-tools-header2 =
+    .label = 도구
 
 ## Labels for sidebar context menu items
 

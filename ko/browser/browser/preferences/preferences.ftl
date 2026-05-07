@@ -70,6 +70,8 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } 정보
     .title = { pane-about-firefox-title }
+pane-appearance-title = 모양
+    .title = { pane-appearance-title }
 pane-downloads-title = 다운로드
 pane-downloads =
     .heading = { pane-downloads-title }
@@ -328,6 +330,12 @@ browser-layout-show-sidebar-desc = 주 화면을 떠나지 않고 북마크, 휴
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 언어 및 모양
+appearance-group2 =
+    .label = 웹 사이트 모양
+    .description = 일부 웹사이트는 사용자의 선호도에 맞춰 색상을 변경합니다. 원하는 색상 테마를 선택하세요.
+preferences-web-appearance-choice-auto3 =
+    .label = 시스템
+    .title = 시스템 설정과 { -brand-short-name } 테마에 따라 웹 사이트 배경과 콘텐츠를 자동으로 변경합니다.
 appearance-group =
     .label = 웹 사이트 모양
     .description = 일부 웹 사이트는 사용자 설정에 따라 색 구성표를 조정합니다. 이러한 사이트에 사용할 색 구성표를 선택하세요.
@@ -564,6 +572,12 @@ download-save-files-header =
     .label = 저장 위치
 download-save-where-3 =
     .aria-label = 저장 위치
+download-always-ask-where2 =
+    .label = 다운로드하기 전에 파일 저장 위치 묻기
+    .accesskey = A
+download-private-browsing-delete2 =
+    .label = 닫을 때 사생활 보호 창 다운로드를 삭제
+    .accesskey = D
 downloads-header-2 =
     .label = 다운로드
 download-save-where-2 =
@@ -594,6 +608,9 @@ applications-setting =
     .description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 애플리케이션을 처리하는 방법을 선택하세요.
 applications-header = 애플리케이션
 applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 애플리케이션을 처리하는 방법을 선택하세요.
+applications-setting2 =
+    .label = 파일 및 애플리케이션
+    .description = { -brand-short-name }가 다운로드한 파일과 콘텐츠를 처리하는 방식을 선택하세요.
 applications-filter =
     .placeholder = 파일 형식 또는 애플리케이션 검색
 applications-type-column =
@@ -673,7 +690,13 @@ applications-handle-new-file-types-description = { -brand-short-name }로 다른
 applications-save-for-new-types =
     .label = 파일 저장
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = 자동으로 파일 저장
+    .accesskey = S
 applications-ask-before-handling =
+    .label = 파일을 열지 저장할지 묻기
+    .accesskey = A
+applications-ask-before-handling2 =
     .label = 파일을 열지 저장할지 묻기
     .accesskey = A
 drm-group =
@@ -1037,6 +1060,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = 스포츠
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = 시계
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } 지원
@@ -2152,6 +2178,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = 권한
     .description = 어떤 웹 사이트가 접근, 제어 또는 실행할 수 있는지 관리합니다.
+permissions-data-section =
+    .heading = 권한 및 데이터
+pane-permissions-data-title = 권한 및 데이터
 
 ## Privacy Section - Data Collection
 
@@ -2482,6 +2511,22 @@ preferences-connection-link-button =
 desktop-folder-name = 바탕 화면
 downloads-folder-name = 다운로드
 choose-download-folder-title = 다운로드 폴더 선택:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = 모양
+browser-theme-group =
+    .label = 브라우저 테마
+    .description = { -brand-short-name } 스타일을 원하는 대로 지정하세요. 테마 색상은 도구 모음, 메뉴 및 메시지에 적용됩니다.
+browser-theme-manage-link =
+    .label = { -brand-short-name } 테마 관리
+related-settings-group =
+    .label = 관련 설정
+related-settings-accessibility-link =
+    .label = 접근성에서 확대/축소 및 글꼴 설정 사용자 지정
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } 사용자 지정
 
 ## AI controls page
 
