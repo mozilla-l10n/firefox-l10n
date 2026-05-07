@@ -34,6 +34,11 @@ ipprotection-site-settings-callout-title = Ընտրեք, թե որտեղ եք օ
 ipprotection-site-settings-callout-subtitle = Անջատեք VPN-ը որոշակի կայքի համար, և մենք կհիշենք այն հաջորդ անգամ այցելելիս։
 ipprotection-site-settings-callout-button = Հասկացա
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Փորձել
+ipprotection-location-selection-callout-secondary-button = Բաց թողնել
+
 ## Panel
 
 unauthenticated-get-started = Սկսել
@@ -62,6 +67,13 @@ ipprotection-button-turn-vpn-on = Միացնել VPN-ը
 # Button while VPN is connecting
 ipprotection-button-connecting = Միանում է…
 
+## Location controls
+
+ipprotection-recommended-location-badge = ՆՈՐ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Տեղադրություն՝ { $country }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN-ը դադարեցված է
@@ -70,10 +82,24 @@ ipprotection-connection-status-paused-title = VPN-ը դադարեցված է
 ipprotection-connection-status-paused-description = Դուք օգտագործել եք ձեր VPN տվյալների բոլոր { $maxUsage } ԳԲ-ը։ Մուտքը կվերակայվի հաջորդ ամիս։
 upgrade-vpn-button = Փորձեք { -mozilla-vpn-brand-name }-ը
 
+## Messages and errors
+
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ը անջատված է այս կայքի համար
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Իմանալ ավելին
+ip-protection-not-opted-in-button = Սկսել
+
+## IP Protection Bandwidth
+
+ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմանաչափ
+
+## IP Protection bandwidth reset callout
+
+ipprotection-bandwidth-reset-button = Հասկացա
 
 ## IP Protection alerts
 
+vpn-error-page-new-session = Սկսել նոր աշխատաշրջան
 vpn-error-alert-body = Փորձեք ավելի ուշ

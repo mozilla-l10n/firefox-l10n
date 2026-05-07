@@ -99,6 +99,8 @@ firefoxview-history-nav = Պատմություն
 firefoxview-history-header = Պատմություն
 firefoxview-history-context-delete = Ջնջել Պատմությունից
     .accesskey = D
+firefoxview-history-context-forget-site = Մոռանալ այս կայքի մասին
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -141,6 +143,9 @@ firefoxview-search-text-box-recentbrowsing =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Որոնման պատմություն
+# Placeholder for the input field to search in bookmarks ("search" is a verb).
+firefoxview-search-text-box-bookmarks =
+    .placeholder = Որոնել էջանիշեր
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Որոնել վերջերս փակված ներդիրները
