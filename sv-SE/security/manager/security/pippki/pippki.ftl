@@ -107,7 +107,7 @@ protected-auth-window =
     .title = Skyddad autentisering
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
-protected-auth-prompt = Vänligen autentisera till säkerhetsenheten ({ $tokenName }). Hur man gör det beror på enheten (till exempel genom att använda en fingeravtrycksläsare eller ange en kod med en knappsats).
+protected-auth-prompt = Autentisera dig mot säkerhetsenheten ({ $tokenName }). Hur du gör det beror på enheten (till exempel om du använder en fingeravtrycksläsare eller anger en kod med en knappsats).
 
 ## Protected authentication alert
 

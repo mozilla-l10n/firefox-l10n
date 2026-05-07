@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Gronidło zawěsćenja certifikata (hyšći raz):
 set-password-reminder = Wažny: Jolic zabydnjośo swójo gronidło za zawěsćenje certifikata, njamóžośo toś to zawěsćenje pózdźej wótnowiś. Pšosym wobchowajśo jo na wěstem městnje.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Šćitana awtentifikacija
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Pšosym awtentificěrujśo se pla wěstotnego rěda ({ $tokenName }). Kak musyśo to cyniś, wótwisujo wót rěda (na pśikład pśez wužywanje cytaka palcowych wótśišćow abo pśez zapódawanje koda z tastaturu).
+
 ## Protected authentication alert
 
 # Variables:

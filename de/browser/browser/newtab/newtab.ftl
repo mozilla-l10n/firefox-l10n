@@ -911,6 +911,13 @@ newtab-sports-widget-view-schedule =
     .label = Spielplan ansehen
 newtab-sports-widget-follow-teams =
     .label = Teams folgen
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Meldungen von { $number } Team
+       *[other] Meldungen von { $number } Teams
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Wählen Sie ein Hintergrundbild
 newtab-sports-widget-skip = Überspringen

@@ -6,14 +6,9 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
-content-sharing-modal-more-tabs =
-    { $count ->
-        [one] +{ $count } till
-       *[other] +{ $count } till
-    }
 content-sharing-tabs-title =
     { $count ->
-        [one] flik { $count }
+        [one] { $count } flik
        *[other] { $count } flikar
     }
 content-sharing-modal-view-page =
@@ -25,4 +20,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in =
     .label = Logga in för att dela länkar
 content-sharing-modal-title = Dela denna samling av länkar i valfri webbläsare
-content-sharing-modal-description = Skapa en offentlig sida för dessa länkar som är enkel att dela. När sidan har skapats kan den inte redigeras eller raderas och upphör efter sju dagar.
+content-sharing-modal-description = Skapa en offentlig sida för dessa länkar som är enkel att dela. När sidan väl har skapats kan den inte redigeras eller tas bort och den upphör att gälla om 7 dagar.

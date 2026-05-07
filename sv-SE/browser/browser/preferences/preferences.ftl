@@ -2539,8 +2539,6 @@ browser-theme-manage-link =
     .label = Hantera { -brand-short-name } teman
 related-settings-group =
     .label = Relaterade inställningar
-related-settings-accessibility-link =
-    .label = Anpassa zoom och teckensnittsinställningar i Hjälpmedel
 related-settings-home-link =
     .label = Anpassa { -firefox-home-brand-name }
 

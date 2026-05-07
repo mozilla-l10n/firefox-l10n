@@ -708,8 +708,14 @@ applications-handle-new-file-types-description = Co ma { -brand-short-name } z d
 applications-save-for-new-types =
     .label = Dataju składowaś
     .accesskey = D
+applications-save-for-new-types2 =
+    .label = Dataje awtomatiski składowaś
+    .accesskey = D
 applications-ask-before-handling =
     .label = Pšašaś se, lěc se maju dataje wócyniś abo składowaś
+    .accesskey = P
+applications-ask-before-handling2 =
+    .label = Pšašaš se, aby dataje wócynił abo składował
     .accesskey = P
 drm-group =
     .label = Wopśimjeśe Digital Right Management (DRM)
@@ -1072,6 +1078,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Zeger
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } pódpěraś
@@ -2193,6 +2202,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Pšawa
     .description = Zastojśo, k comuž websedła mógu pśistup měś, což mógu kontrolěrowaś abo wuwabiś.
+permissions-data-section =
+    .heading = Pšawa a daty
+pane-permissions-data-title = Pšawa a daty
 
 ## Privacy Section - Data Collection
 
@@ -2523,6 +2535,22 @@ preferences-connection-link-button =
 desktop-folder-name = Desktop
 downloads-folder-name = Ześěgnjenja
 choose-download-folder-title = Zarědnik ześěgnjenjow wubraś:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Naglěd
+browser-theme-group =
+    .label = Drastwa wobglědowaka
+    .description = Pśiměŕśo { -brand-short-name } na swój nałog. Drastwowe barwy se na symbolowe rědki, menije a powěsći nałožuju.
+browser-theme-manage-link =
+    .label = Drastwy { -brand-short-name } zastojaś
+related-settings-group =
+    .label = Pśisłušne nastajenja
+related-settings-accessibility-link =
+    .label = Pśiměŕśo měritko a pismowe nastajenja we wótrězku Bźezbariernosć
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } pśiměriś
 
 ## AI controls page
 

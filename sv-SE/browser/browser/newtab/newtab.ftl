@@ -902,7 +902,7 @@ newtab-sports-widget-menu-view-results = Visa resultat
 newtab-sports-widget-menu-key-dates = Viktiga datum
 newtab-sports-widget-menu-learn-more = Läs mer
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
-newtab-sports-widget-keep-tabs = Håll koll på världscupen
+newtab-sports-widget-keep-tabs = Håll koll på VM
 newtab-sports-widget-get-updates = Få liveuppdateringar om matcher och mycket mer.
 newtab-sports-widget-view-schedule =
     .label = Visa schema
@@ -912,8 +912,8 @@ newtab-sports-widget-follow-teams =
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
     { $number ->
-        [one] Följ upp till { $number } team
-       *[other] Följ upp till { $number } team
+        [one] Följ upp till { $number } lag
+       *[other] Följ upp till { $number } lag
     }
 newtab-sports-widget-choose-wallpaper =
     .label = Välj en bakgrundsbild
@@ -989,8 +989,8 @@ newtab-activation-window-message-values-focus-message = Med { -brand-product-nam
 newtab-clock-widget-menu-hide = Dölj klocka
 newtab-clock-widget-menu-learn-more = Läs mer
 newtab-clock-widget-menu-edit = Redigera klockor
-newtab-clock-widget-menu-switch-to-12h = Byt till 12-timmarsformat
-newtab-clock-widget-menu-switch-to-24h = Byt till 24-timmars format
+newtab-clock-widget-menu-switch-to-12h = Växla till 12-timmarsformat
+newtab-clock-widget-menu-switch-to-24h = Växla till 24-timmarsformat
 newtab-clock-widget-label-your-clocks = Dina klockor
 newtab-clock-widget-search-location-input =
     .label = Plats
