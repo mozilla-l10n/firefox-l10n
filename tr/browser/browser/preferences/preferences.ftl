@@ -569,6 +569,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Dosyalar ve uygulamalar
+download-save-files-header =
+    .label = Dosya kayıt yeri
+download-save-where-3 =
+    .aria-label = Dosya kayıt yeri
 downloads-header-2 =
     .label = İndirme
 download-save-where-2 =
@@ -2491,6 +2495,9 @@ preferences-connection-link-button =
 desktop-folder-name = Masaüstü
 downloads-folder-name = İndirilenler
 choose-download-folder-title = İndirme klasörünü seçin:
+
+## Appearance page
+
 
 ## AI controls page
 
