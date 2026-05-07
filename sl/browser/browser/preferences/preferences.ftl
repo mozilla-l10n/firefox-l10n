@@ -558,6 +558,10 @@ spellcheck-promo =
 ## General Section - Files and Applications
 
 files-and-applications-title = Datoteke in programi
+download-save-files-header =
+    .label = Shrani datoteke v
+download-save-where-3 =
+    .aria-label = Shrani datoteke v
 downloads-header-2 =
     .label = Prenosi
 download-save-where-2 =
@@ -725,6 +729,12 @@ update-in-progress-ok-button = &Opusti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
+
+## About Firefox
+
+
+## Firefox updates
+
 
 ## Firefox support
 
@@ -1541,6 +1551,9 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Več o tem
 forms-windows-sso-desc = Upravljanje računov v nastavitvah naprave
 windows-passkey-settings-label = Upravljanje ključev za dostop v sistemskih nastavitvah
+
+## Privacy Panel Settings
+
 
 ## OS Authentication dialog
 
@@ -2425,6 +2438,9 @@ preferences-connection-link-button =
 desktop-folder-name = Namizje
 downloads-folder-name = Prenosi
 choose-download-folder-title = Izbira mape za prenose
+
+## Appearance page
+
 
 ## AI controls page
 
