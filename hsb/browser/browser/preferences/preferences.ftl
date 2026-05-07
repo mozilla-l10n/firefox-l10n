@@ -2547,6 +2547,8 @@ browser-theme-manage-link =
     .label = Drasty { -brand-short-name } rjadować
 related-settings-group =
     .label = Přisłušne nastajenja
+related-settings-accessibility-link =
+    .label = Přiměrće měritko a pismowe nastajenja we wotrězku Bjezbarjernosć
 
 ## AI controls page
 

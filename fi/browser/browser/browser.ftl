@@ -417,6 +417,8 @@ quickactions-cmd-inspector = tarkastaja, inspector, devtools
 # Opens about:logins
 quickactions-logins2 = Hallitse salasanoja
 quickactions-cmd-logins = käyttäjätunnukset, salasanat
+# Mutes all tabs playing audio
+quickactions-mute = Mykistä ääntä toistavat välilehdet
 # Opens about:addons page in the plugins section
 quickactions-plugins = Hallitse liitännäisiä
 quickactions-cmd-plugins = liitännäiset
@@ -541,9 +543,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Yhteytesi tähän sivustoon ei ole suojattu.
 identity-connection-verified = Yhteytesi tähän sivustoon on suojattu.
 identity-ev-owner-label = Varmenne myönnetty taholle:
+identity-verifier-label = Varmentaja:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Asetuksen (EU) 2024/1183 mukaisesti kelvollinen.
 identity-description-custom-root2 = Mozilla ei tunnista tämän varmenteen myöntäjää. Se on voitu lisätä käyttöjärjestelmästä tai järjestelmänvalvojan toimesta.
+identity-cert-exception-overridden = Olet lisännyt tätä sivustoa koskevan turvallisuuspoikkeuksen.
 identity-remove-cert-exception =
     .label = Poista poikkeus
     .accesskey = s
@@ -1021,6 +1025,21 @@ urlbar-result-action-switch-to-tabgroup = Vaihda ryhmään { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Avaa { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Avaa uuteen välilehteen
+    .accesskey = v
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Avaa uuteen eristettyyn välilehteen
+    .accesskey = e
+urlbar-view-context-menu-open-in-window =
+    .label = Avaa uuteen ikkunaan
+    .accesskey = u
+urlbar-view-context-menu-open-in-private-window =
+    .label = Avaa uuteen yksityiseen ikkunaan
+    .accesskey = y
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1093,6 +1112,9 @@ fullscreen-warning-no-domain = Dokumentti on nyt koko näytön tilassa
 fullscreen-exit-button = Poistu koko näytön tilasta (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Poistu koko näytön tilasta (esc)
+fullscreen-keyboardlock-exit-button = Poistu koko näytön tilasta (paina ja pidä Esc painettuna)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Poistu koko näytön tilasta (paina ja pidä Esc painettuna)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1274,6 +1296,8 @@ panel-save-update-password = Salasana
 # "More" item in macOS share menu
 menu-share-more =
     .label = Lisää…
+menu-share-windows =
+    .label = Lisää valintoja
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1437,6 +1461,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Lopeta yksityinen istunto
     .tooltiptext = Lopeta yksityinen istunto
+reset-pbm-panel-heading2 = Tyhjennetäänkö tiedot ja aloitetaanko uusi yksityinen istunto?
+reset-pbm-panel-description2 = Tämä poistaa historian, evästeet ja kaikki muut sivuston tiedot sulkematta yksityistä ikkunaa.
 reset-pbm-panel-heading = Lopetetaanko yksityinen istunto?
 reset-pbm-panel-description = Sulje kaikki yksityiset välilehdet ja poista historia, evästeet ja kaikki muut sivustotiedot.
 reset-pbm-panel-always-ask-checkbox =
@@ -1445,6 +1471,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Peruuta
     .accesskey = P
+reset-pbm-panel-confirm-button2 =
+    .label = Tyhjennä yksityinen istunto
+    .accesskey = i
 reset-pbm-panel-confirm-button =
     .label = Poista istunnon tiedot
     .accesskey = o
@@ -1694,8 +1723,15 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Nämä sivustot yrittävät louhia kryptovaluuttoja:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Onko sinulla tili tälle sivustolle?
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Hylkää
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Aloita ilmainen tarkistus
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> seurain estetty tällä sivustolla
        *[other] <span data-l10n-name="count">{ $count }</span> seurainta estetty tällä sivustolla
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-never-show-button = Älä näytä uudelleen
+    .accesskey = Ä

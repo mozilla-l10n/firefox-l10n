@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Пароль резервной копии (повторно):
 set-password-reminder = Внимание: если вы забудете пароль резервной копии сертификата, то потом не сможете восстановить из неё сертификат. Эту информацию следует хранить в безопасном месте.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Защищённая аутентификация
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Пожалуйста, авторизуйтесь на устройстве защиты ({ $tokenName }). Как это сделать, зависит от устройства (например, с помощью считывателя отпечатков пальцев или ввода кода с клавиатуры).
+
 ## Protected authentication alert
 
 # Variables:

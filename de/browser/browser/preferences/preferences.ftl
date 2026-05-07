@@ -70,6 +70,9 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Über { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-downloads-title = Downloads
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Barrierefreiheit
     .title = { pane-accessibility-title }
 pane-languages-title = Sprachen
@@ -337,6 +340,9 @@ browser-layout-show-sidebar-desc = Greifen Sie schnell auf Lesezeichen, Tabs von
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Sprache und Erscheinungsbild
+appearance-group2 =
+    .label = Erscheinungsbild von Websites
+    .description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie Ihr Farbschema aus.
 appearance-group =
     .label = Erscheinungsbild von Websites
     .description = Einige Websites passen ihr Farbschema basierend auf Ihren Einstellungen an. Wählen Sie aus, welches Farbschema Sie für diese Websites verwenden möchten.

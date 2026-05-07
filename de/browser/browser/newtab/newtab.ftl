@@ -933,6 +933,13 @@ newtab-sports-widget-semi-finals = Halbfinale
 newtab-sports-widget-bronze-finals = Spiel um Platz 3
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Verzögert
 newtab-sports-widget-postponed = Verschoben
 newtab-sports-widget-suspended = Gesperrt
@@ -967,3 +974,50 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Dieser Platz spielt nach Ihren Regeln
 newtab-activation-window-message-values-focus-message = Mit { -brand-product-name } können Sie so surfen, wie Sie es möchten. Mit einer persönlicheren Möglichkeit, Ihren Tag online zu starten. Passen Sie { -brand-product-name } an Ihre Wünsche an.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Uhr ausblenden
+newtab-clock-widget-menu-learn-more = Weitere Informationen
+newtab-clock-widget-menu-edit = Uhren bearbeiten
+newtab-clock-widget-menu-switch-to-12h = Zum 12- Stunden-Format wechseln
+newtab-clock-widget-menu-switch-to-24h = Zum 24 Stunden-Format wechseln
+newtab-clock-widget-label-your-clocks = Ihre Uhren
+newtab-clock-widget-search-location-input =
+    .label = Standort
+    .placeholder = Ort suchen
+    .aria-label = Ort suchen
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Neue Uhr hinzufügen
+    .aria-label = Neue Uhr hinzufügen
+newtab-clock-widget-button-add-clock = Hinzufügen
+newtab-clock-widget-button-cancel = Abbrechen
+newtab-clock-widget-button-back =
+    .title = Zurück
+    .aria-label = Zurück
+newtab-clock-widget-button-edit-clock =
+    .title = Uhr bearbeiten
+    .aria-label = Uhr bearbeiten
+newtab-clock-widget-button-save = Speichern
+newtab-clock-widget-button-remove-clock =
+    .title = Uhr entfernen
+    .aria-label = Uhr entfernen
+newtab-clock-widget-add-clock-form =
+    .aria-label = Uhr hinzufügen
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Uhr bearbeiten
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Suchergebnisse
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Menü für Uhr öffnen
+    .aria-label = Menü für Uhr öffnen
