@@ -74,6 +74,12 @@ more-from-moz-firefox-mobile-email-link = Жүктеп алу сілтемесі
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-box-link =
+    .label = { -monitor-brand-short-name } алу
+more-from-moz-mozilla-vpn-box-link =
+    .label = { -mozilla-vpn-brand-name } алу
+more-from-moz-firefox-relay-box-link =
+    .label = { -relay-brand-short-name } алу
 more-from-moz-mdn-box-link =
     .label = MDN-ге қол жеткізу
 more-from-moz-thunderbird-box-link =
