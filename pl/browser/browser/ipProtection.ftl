@@ -65,12 +65,14 @@ unauthenticated-hide-location-message-2 = Ukryj swoje położenie podczas przegl
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
 unauthenticated-get-started = Zacznij teraz
+unauthenticated-terms-of-service-privacy-notice = Kontynuując, wyrażasz zgodę na <a data-l10n-name="vpn-terms-of-service">regulamin usługi</a> i <a data-l10n-name="vpn-privacy-notice">zasady ochrony prywatności</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Używaj VPN na tej witrynie
     .aria-label = VPN jest włączony na tej witrynie
 site-exclusion-toggle-disabled-1 =
     .label = Używaj VPN na tej witrynie
     .aria-label = VPN jest wyłączony na tej witrynie
+site-exclusion-toggle-description = Witryna nie działa poprawnie? Spróbuj wyłączyć sieć VPN.
 ipprotection-settings-link =
     .label = Ustawienia
 
@@ -95,13 +97,19 @@ ipprotection-button-connecting = Włączanie…
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Położenie: zalecane
+ipprotection-recommended-location-description = { -brand-product-name } znajduje najszybsze położenie
 ipprotection-recommended-location-badge = Nowe
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Położenie: { $country }
 ipprotection-locations-subview =
     .title = Wybierz położenie
+ipprotection-locations-subview-description = Wybierz inne położenie, z którego przeglądać Internet.
 ipprotecion-locations-subview-recommended-label = Zalecane
+ipprotection-locations-subview-recommended-description = Znajduje najszybsze położenie
+ipprotection-locations-subview-promo =
+    .heading = Jeszcze bardziej zwiększ ochronę dzięki { -mozilla-vpn-brand-name }
+    .message = Wybierz jedno z ponad 300 położeń i chroń wszystkie aplikacje na maksymalnie 5 urządzeniach.
 ipprotection-locations-subview-promo-button = Wypróbuj { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -113,6 +121,10 @@ ipprotection-connection-status-paused-description = Wykorzystano całe { $maxUsa
 upgrade-vpn-title = Dodatkowa ochrona poza przeglądarką
 upgrade-vpn-description = Wybieraj swoje położenie VPN, korzystaj z VPN we wszystkich aplikacjach i na nawet 5 urządzeniach oraz zachowaj bezpieczeństwo w każdej sieci — w domu czy w publicznej sieci Wi-Fi.
 upgrade-vpn-button = Wypróbuj { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = Wstrzymano VPN
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp zostanie przywrócony w przyszłym miesiącu.
 
 ## Messages and errors
 
@@ -162,6 +174,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Prawie skończy�
 ip-protection-description =
     .label = VPN
     .description = Wbudowana sieć VPN zwiększa prywatność podczas przeglądania w { -brand-short-name(case: "loc") }.
+ip-protection-description-1 =
+    .label = Wbudowana sieć VPN
+    .description = Zwiększ prywatność, ukrywając swoje położenie podczas przeglądania Internetu.
 ip-protection-learn-more = Więcej informacji
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
