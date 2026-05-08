@@ -19,3 +19,7 @@
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = هووه Firefox
+
+-thunderbird-brand-short-name = Thunderbird
+
+-thunderbird-brand-name = Mozilla Thunderbird

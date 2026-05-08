@@ -37,3 +37,7 @@
 -firefoxlabs-brand-name = Firefox Labs
 -solo-ai-brand-name = Solo
 
+
+-thunderbird-brand-short-name = Thunderbird
+
+-thunderbird-brand-name = Mozilla Thunderbird
