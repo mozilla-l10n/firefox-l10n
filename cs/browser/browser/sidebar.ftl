@@ -66,6 +66,8 @@ sidebar-customize-firefox-settings =
     }
 sidebar-vertical-tabs =
     .label = Svislé panely
+sidebar-settings2 =
+    .label = Nastavení
 sidebar-settings =
     .label = Nastavení postranní lišty
 sidebar-hide-tabs-and-sidebar =
@@ -78,7 +80,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozbalit postranní lištu při najetí myší
+sidebar-manage-extensions2 = Spravovat všechna rozšíření
 sidebar-manage-extensions = Správa rozšíření
+sidebar-customize-extensions-header2 = Rozšíření
+sidebar-customize-firefox-tools-header2 =
+    .label = Nástroje
 
 ## Labels for sidebar context menu items
 

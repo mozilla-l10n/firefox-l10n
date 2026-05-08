@@ -2336,6 +2336,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Oprávnění
     .description = Spravujte, k čemu mohou webové stránky přistupovat, co mohou ovládat nebo co mohou spouštět.
+permissions-data-section =
+    .heading = Oprávnění a data
+pane-permissions-data-title = Oprávnění a data
 
 ## Privacy Section - Data Collection
 
@@ -2783,6 +2786,13 @@ preferences-connection-link-button =
 desktop-folder-name = Plocha
 downloads-folder-name = Stažené soubory
 choose-download-folder-title = Vyberte složku pro stahování souborů
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Vzhled
+related-settings-group =
+    .label = Související nastavení
 
 ## AI controls page
 
