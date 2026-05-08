@@ -2511,6 +2511,9 @@ choose-download-folder-title = 選取下載目錄：
 
 preferences-appearance-header =
     .heading = 外觀設定
+browser-theme-group =
+    .label = 瀏覽器佈景主題
+    .description = 用您的風格妝點 { -brand-short-name }。佈景主題可調整工具列、選單、訊息的色彩。
 browser-theme-manage-link =
     .label = 管理 { -brand-short-name } 的佈景主題
 related-settings-group =
