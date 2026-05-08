@@ -74,6 +74,24 @@ more-from-moz-firefox-mobile-email-link = Wyślij odnośnik do pobrania na swój
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Bezpłatnie dowiedz się, gdzie w sieci wyciekły Twoje dane.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Dodatkowa ochrona we wszystkich aplikacjach — nie tylko w przeglądarce. Chroń swoje dane podczas korzystania z publicznych sieci Wi-Fi i innych niezabezpieczonych sieci.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Chroń swoją pocztę przed spamem, korzystając z bezpłatnych masek dla adresu e-mail.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Naucz się tworzyć strony internetowe, korzystając z bezpłatnych przewodników i materiałów referencyjnych.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Poczta, kalendarze i kontakty w jednej, szybkiej aplikacji.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Odkrywaj nasze najnowsze pomysły i eksperymentalne technologie.
 more-from-moz-new-products-card =
     .label = Nowe produkty { -vendor-short-name(case: "gen") }
     .description = Odkryj najnowsze produkty od { -vendor-short-name(case: "gen") }.
@@ -83,6 +101,8 @@ more-from-moz-mozilla-vpn-box-link =
     .label = Wypróbuj { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = Wypróbuj { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Dostęp do MDN
 more-from-moz-thunderbird-box-link =
     .label = Pobierz { -thunderbird-brand-short-name(case: "acc") }
 more-from-moz-solo-box-link =
