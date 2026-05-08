@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Ustawienia { -brand-short-name(case: "gen") }
 sidebar-vertical-tabs =
     .label = Karty pionowe
+sidebar-settings2 =
+    .label = Ustawienia
 sidebar-settings =
     .label = Ustawienia panelu bocznego
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Rozwijaj panel boczny po najechaniu kursorem
+sidebar-manage-extensions2 = Zarządzaj wszystkimi rozszerzeniami
 sidebar-manage-extensions = Zarządzaj rozszerzeniami
+sidebar-customize-extensions-header2 = Rozszerzenia
+sidebar-customize-firefox-tools-header2 =
+    .label = Narzędzia
 
 ## Labels for sidebar context menu items
 
