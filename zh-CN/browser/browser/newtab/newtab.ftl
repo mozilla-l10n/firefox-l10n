@@ -858,6 +858,8 @@ newtab-widget-timer-decrease-min =
     .title = 减少 1 分钟
 newtab-widget-timer-increase-min =
     .title = 增加 1 分钟
+newtab-widget-timer-mode-group =
+    .aria-label = 计时器模式
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = 专注
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -867,6 +869,8 @@ newtab-widget-timer-running-break = 休息
 newtab-widget-timer-menu-hide = 隐藏计时器
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = 休息时间结束
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = 准备好专注了吗？
 
 ## Sports widget
 
@@ -891,6 +895,7 @@ newtab-sports-widget-skip = 跳过
 newtab-sports-widget-search-country =
     .placeholder = 搜索国家/地区
     .aria-label = 搜索国家/地区
+newtab-sports-widget-cancel = 取消
 newtab-sports-widget-done-button =
     .label = 完成
 newtab-sports-widget-group-stage = 小组赛阶段
