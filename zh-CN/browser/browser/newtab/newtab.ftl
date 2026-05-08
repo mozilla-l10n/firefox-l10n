@@ -955,3 +955,24 @@ newtab-clock-widget-search-location-input =
     .placeholder = 搜索城市
     .aria-label = 搜索城市
 newtab-clock-widget-button-cancel = 取消
+newtab-clock-widget-button-save = 保存
+newtab-clock-widget-button-remove-clock =
+    .title = 移除时钟
+    .aria-label = 移除时钟
+newtab-clock-widget-add-clock-form =
+    .aria-label = 添加时钟
+newtab-clock-widget-edit-clock-form =
+    .aria-label = 调整时钟
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = 搜索结果
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = 打开时钟菜单
+    .aria-label = 打开时钟菜单
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = 昵称：{ $nickname }

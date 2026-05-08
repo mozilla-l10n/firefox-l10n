@@ -587,6 +587,9 @@ download-save-where-3 =
 download-always-ask-where2 =
     .label = Spør hvor filer skal lagres før nedlasting
     .accesskey = S
+download-private-browsing-delete2 =
+    .label = Slett nedlastinger fra private vinduer ved lukking
+    .accesskey = S
 downloads-header-2 =
     .label = Nedlastinger
 download-save-where-2 =
@@ -1060,6 +1063,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klokke
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Støtt { -brand-product-name }
@@ -2179,6 +2185,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Tillatelser
     .description = Behandle hva nettsteder kan få tilgang til, styre eller utløse.
+permissions-data-section =
+    .heading = Tillatelser og data
+pane-permissions-data-title = Tillatelser og data
 
 ## Privacy Section - Data Collection
 
@@ -2512,6 +2521,10 @@ choose-download-folder-title = Velg nedlastingsmappe:
 
 ## Appearance page
 
+preferences-appearance-header =
+    .heading = Utseende
+related-settings-group =
+    .label = Relaterte innstillinger
 related-settings-home-link =
     .label = Tilpass { -firefox-home-brand-name }
 

@@ -884,15 +884,28 @@ newtab-widget-timer-celebration-message-break = Klar til å fokusere?
 newtab-sports-widget-menu-follow-teams = Følg lag
 newtab-sports-widget-menu-view-upcoming = Vis kommende
 newtab-sports-widget-menu-view-results = Vis resultater
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Viktige datoer
 newtab-sports-widget-menu-learn-more = Les mer
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Følg med på VM
 newtab-sports-widget-get-updates = Få direkte kampoppdateringer og mer.
 newtab-sports-widget-view-schedule =
     .label = Se kampoppsettet
 newtab-sports-widget-follow-teams =
     .label = Følg lag
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+       *[other] Følg opptil { $number } lag
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Velg et bakgrunnsbilde
 newtab-sports-widget-skip = Hopp over
+newtab-sports-widget-search-country =
+    .placeholder = Søk etter land
+    .aria-label = Søk etter land
 newtab-sports-widget-cancel = Avbryt
 newtab-sports-widget-done-button =
     .label = Ferdig
@@ -905,12 +918,21 @@ newtab-sports-widget-live = DIREKTE
 newtab-custom-widget-live-refresh =
     .title = Oppdater poeng
     .aria-label = Oppdater poeng
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Viktige datoer
 newtab-sports-widget-upcoming = Kommende
 newtab-sports-widget-results = Resultater
 newtab-sports-widget-semi-finals = Semifinaler
 newtab-sports-widget-bronze-finals = Bronsefinale
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Forsinket
 newtab-sports-widget-postponed = Utsatt
 newtab-sports-widget-suspended = Suspendert
