@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Ընտրեք ներդիր՝ տրոհված տեսքին ավելացնելու համար
+opentabs-search-text-box =
+    .placeholder = Որոնել ներդիրներ
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = «{ $query }»-ի որոնման արդյունքները

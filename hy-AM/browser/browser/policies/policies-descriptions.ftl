@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Սահմանեք քաղաքականություններ, որ WebExtensions-ը կարողանան մուտք գործել chrome.storage.managed-ի միջոցով:
+policy-AIControls = Կազմաձևել ԱԲ կառավարումը։
 policy-AllowFileSelectionDialogs = Թույլատրել ֆայլերի ընտրության երկխոսությունները:
 policy-AppAutoUpdate = Միացնել կամ անջատել ծրագրի ինքնաբար թարմացումը:
 policy-AppUpdateURL = Սահմանել հավելվածի թարմացման հատուկ URL:

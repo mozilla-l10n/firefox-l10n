@@ -1204,6 +1204,27 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Գաղտնաբառեր
     .tooltiptext = Տեսեք և կառավարեք ձեր պահած գաղտնաբառերը
+qrcode-copy-button =
+    .label = Պատճենել
+qrcode-copy-success =
+    .message = QR կոդը պատճենվեց սեղմատախտակին։
+qrcode-copy-error =
+    .message = Չհաջողվեց պատճենել QR կոդը։
+qrcode-save-button =
+    .label = Պահել
+qrcode-save-success =
+    .message = QR կոդը պահպանված է։
+qrcode-save-error =
+    .message = Չհաջողվեց պահպանել QR կոդը։
+qrcode-save-title = Պահել QR կոդը
+qrcode-save-filter-png = PNG պատկեր
+qrcode-save-filename = qrcode.png
+qrcode-window-title = QR կոդ
+qrcode-dialog-title = QR կոդ
+qrcode-image =
+    .aria-label = QR կոդ
+qrcode-close-button =
+    .aria-label = Փակել
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1222,6 +1243,9 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Նոր գաղտնի պատուհան
     .tooltiptext = Բացել նոր գաղտնի դիտարկման պատուհան ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Համօգտագործել
+    .tooltiptext = Համօգտագործել էջը
 toolbar-button-tab-groups =
     .label = Ներդիրների խմբեր
     .tooltiptext = Ցուցադրել ձեր ներդիրների խմբերը
@@ -1244,6 +1268,15 @@ panel-save-update-password = Գաղտնաբառ
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ավելին…
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Պատճենել հղումը
+           *[other] Պատճենել { $count } հղումները
+        }
+    .accesskey = L
 menu-share-copy-link =
     .label = Պատճենել հղումը
     .accesskey = L
@@ -1582,6 +1615,7 @@ trustpanel-fingerprinter-not-blocking-tab-header =
        *[other] { -brand-product-name }-ը արգելափակել է { $count } մատնահետքեր հավաքող
     }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Բաց թողնել
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Սկսեք անվճար սկանավորումը
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

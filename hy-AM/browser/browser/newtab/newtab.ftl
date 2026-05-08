@@ -352,6 +352,8 @@ newtab-custom-widget-timer-toggle =
     .label = ժամաչափ
 newtab-custom-widget-sports-toggle =
     .label = Աշխարհի գավաթ
+newtab-custom-widget-clock-toggle =
+    .label = Ժամացույց
 newtab-custom-widget-section-title = Վիջեթներ
 newtab-custom-widget-section-toggle =
     .label = Վիջեթներ
@@ -506,8 +508,16 @@ newtab-weather-opt-in-not-now =
     .label = Ոչ հիմա
 newtab-weather-opt-in-yes =
     .label = Այո
+newtab-weather-opt-in-use-location =
+    .label = Օգտագործել տեղադրությունը
 # We'll be showing static (fake) weather data if the user has not opted in to using their location
 newtab-weather-static-city = Նյու Յորք քաղաք
+# "Highest" here refers to the highest temperature of the day
+newtab-weather-high =
+    .aria-label = Բարձր
+# "Lowest" here refers to the lowest temperature of the day
+newtab-weather-low =
+    .aria-label = Ցածր
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-see-forecast-description =
@@ -568,6 +578,22 @@ newtab-section-follow-highlight-title = Կարգավորեք ձեր լրահոս
 newtab-section-block-button = Արգելափակել
 newtab-section-blocked-button = Արգելափակված
 newtab-section-unblock-button = Ապաարգելափակել
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Հետևել { $topic }-ին
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Չհետևել { $topic }-ին
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Արգելափակել { $topic }-ը
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Ապաարգելափակել { $topic }-ը
 
 ## Confirmation modal for blocking a section
 
@@ -628,6 +654,8 @@ newtab-report-content-inappropriate-offensive =
     .label = Անպատշաճ կամ վիրավորական
 newtab-report-content-spam-misleading =
     .label = Սպամ կամ մոլորեցնող
+newtab-report-content-requires-payment-subscription =
+    .label = Պահանջվում է վճարում կամ բաժանորդագրություն
 newtab-report-content-requires-payment-subscription-learn-more = Իմանալ ավելին
 newtab-report-cancel = Չեղարկել
 newtab-report-submit = Ուղարկել
@@ -733,6 +761,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Անջատել ծանուցումները
 newtab-widget-timer-menu-notifications-on = Միացնել ծանուցումները
 newtab-widget-timer-menu-learn-more = Իմանալ ավելին
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = Առաջատար վերնագրեր
 newtab-widget-message-title = Մնացեք կենտրոնացած ցուցակների և ներկառուցված ժամանակաչափի միջոցով
 newtab-promo-card-body-addons = Ընտրեք պաստառ մեր հավաքածուից կամ ստեղծեք ձեր սեփականը։
 newtab-promo-card-cta-addons = Փորձել հիմա
@@ -743,9 +773,40 @@ newtab-promo-card-dismiss-button =
     .title = Բաց թողնել
     .aria-label = Բաց թողնել
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Հանգստի կարիք ունե՞ք։
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Պատրա՞ստ եք կենտրոնանալու։
+
 ## Sports widget
 
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Հիմնական ամսաթվերը
 newtab-sports-widget-menu-learn-more = Իմանալ ավելին
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Հետևեք Աշխարհի գավաթին
+newtab-sports-widget-cancel = Չեղարկել
+newtab-sports-widget-done-button =
+    .label = Պատրաստ է
+newtab-sports-widget-group-stage = Խմբային փուլ
+newtab-sports-widget-round-32 = 32-ի փուլ
+newtab-custom-widget-live-refresh =
+    .title = Թարմացնել միավորները
+    .aria-label = Թարմացնել միավորները
+newtab-sports-widget-upcoming = Առաջիկա
+newtab-sports-widget-results = Արդյունքներ
+newtab-sports-widget-semi-finals = Կիսաեզրափակիչներ
+newtab-sports-widget-bronze-finals = Բրոնզե եզրափակիչ
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Եզրափակիչ
+newtab-sports-widget-delayed = Հետաձգված
+newtab-sports-widget-cancelled = Չեղարկված
+newtab-sports-widget-view-results-link = Դիտել արդյունքները
+newtab-sports-widget-third-place = Երրորդ տեղը
+newtab-sports-widget-champions = Չեմպիոններ
+newtab-sports-widget-world-cup-champions = 2026 թվականի աշխարհի առաջնության չեմպիոններ
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -759,3 +820,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Այս տարածքը խաղում է ձեր կանոններով
+
+## Strings for the Clock widget
+
+newtab-clock-widget-button-save = Պահել
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Մականուն՝ { $nickname }

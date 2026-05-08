@@ -196,6 +196,7 @@ cookie-banner-blocker-onboarding-learn-more = Իմանալ ավելին
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Մենք ձեզ համար ամեն ինչ ունենք
 july-jam-set-default-primary = Բացել իմ հղումները { -brand-short-name }-ով
 fox-doodle-pin-headline = Բարի վերադարձ
 fox-doodle-pin-primary = Բացել իմ հղումները { -brand-short-name }-ով
@@ -322,6 +323,7 @@ windows-10-eos-sync-toast-secondary-label = Հիշեցնել ավելի ուշ
 
 ## Windows 10 EoS sync messages group 2 feature callouts
 
+windows-10-eos-challenger-sync-primary-button = Պահուստավորել { -brand-shorter-name }-ը
 windows-10-eos-challenger-pin-primary-button = Ամրացնել { -brand-shorter-name }-ը
 windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name }-ն արգելափակում է կրիպտոմայներները, սոցիալական ցանցերի հետագծիչները և մատնահետքերը։
 windows-10-eos-sync-callout-privacy-screen-1-subtitle = Հետագծողները չեն կարող նույնականացնել ձեր սարքը կամ հետևել ձեզ համացանցում, քանի որ մենք դա նրանց թույլ չենք տալիս։
@@ -334,6 +336,13 @@ windows-10-eos-sync-callout-get-started-button = Սկսել
 
 windows-10-eos-feature-toast-whats-new-button = Ինչն է նոր
 windows-10-eos-feature-toast-dismiss-button = Բաց թողնել
+
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-primary-button = Անջատե՞լ պահուստավորումը։
+    .accesskey = T
+windows-10-eos-global-infobar-learn-more-link = Իմանալ ավելին
+    .accessKey = L
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
@@ -350,10 +359,15 @@ etp-strict-exceptions-infobar-not-now = Ոչ հիմա
 
 ## 'Set to default' messaging displayed within the App menu
 
+set-default-menu-message-simple-layout-title = { -brand-short-name }-ը ձեր սկզբնադիր դիտարկիչը չէ
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name }-ը ձեր հիմնական դիտարկիչը չէ
+set-default-menu-message-row-layout-subtitle = Ստացեք արագություն, անվտանգություն և գաղտնիություն ամեն անգամ զննարկելիս։
 set-default-menu-message-primary-button = Սահմանել որպես սկզբնադիր
 set-default-menu-message-primary-button-variant = Սահմանել որպես հիմնական դիտարկիչ
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 էլ. փոստի դիմակ՝ անվճար
 relay-50-masks-announcement-secondary-button = Բաց թողնել
     .accesskey = D

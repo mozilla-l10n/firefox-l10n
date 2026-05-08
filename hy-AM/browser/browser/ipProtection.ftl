@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Ներկայացնում ենք VPN-ը
 ipprotection-feature-introduction-button-primary = Հաջորդը
 ipprotection-feature-introduction-button-secondary-not-now = Ոչ հիմա
 ipprotection-feature-introduction-button-secondary-no-thanks = Ոչ, շնորհակալ եմ
+ipprotection-feature-introduction-button-secondary-remove = Հեռացրեք VPN-ը գործիքագոտուց
 
 ## Site settings callout
 
@@ -36,6 +37,7 @@ ipprotection-site-settings-callout-button = Հասկացա
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Նորույթ. Փոխեք ձեր գտնվելու վայրը
 ipprotection-location-selection-callout-primary-button = Փորձել
 ipprotection-location-selection-callout-secondary-button = Բաց թողնել
 
@@ -81,15 +83,23 @@ ipprotection-connection-status-paused-title = VPN-ը դադարեցված է
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-connection-status-paused-description = Դուք օգտագործել եք ձեր VPN տվյալների բոլոր { $maxUsage } ԳԲ-ը։ Մուտքը կվերակայվի հաջորդ ամիս։
 upgrade-vpn-button = Փորձեք { -mozilla-vpn-brand-name }-ը
+ipprotection-connection-status-paused-title-1 = VPN-ը դադարեցված է
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-title = Չհաջողվեց միանալ VPN-ին
+ipprotection-connection-status-generic-error-description = Փորձեք կրկին մի քանի րոպեից։
+ipprotection-connection-status-generic-error-try-again = Փորձեք ավելի ուշ։
+ipprotection-connection-status-network-error-title = Ստուգեք ձեր համացանցային կապը
+ipprotection-connection-status-blocked-error-title = VPN-ը հասանելի չէ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ը անջատված է այս կայքի համար
 
 ## IP Protection Settings
 
 ip-protection-learn-more = Իմանալ ավելին
 ip-protection-not-opted-in-button = Սկսել
+ip-protection-autostart-private-checkbox =
+    .label = Գաղտնի պատուհաններում
 
 ## IP Protection Bandwidth
 
@@ -101,5 +111,9 @@ ipprotection-bandwidth-reset-button = Հասկացա
 
 ## IP Protection alerts
 
+vpn-error-page-keep-browsing = Շարունակեք դիտարկել այս աշխատաշրջանում
 vpn-error-page-new-session = Սկսել նոր աշխատաշրջան
+vpn-paused-alert-close-tabs-button = Փակել բոլոր ներդիրները
+vpn-paused-alert-continue-wo-vpn-button = Շարունակել առանց VPN-ի
+vpn-error-alert-title = VPN-ը այս պահին չի աշխատում։
 vpn-error-alert-body = Փորձեք ավելի ուշ

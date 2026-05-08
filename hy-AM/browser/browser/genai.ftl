@@ -184,3 +184,5 @@ link-preview-key-points-header = Հիմնական կետեր
 link-preview-onboarding-button = Դիտել նախադիտումը
 # Onboarding card Close button
 link-preview-onboarding-close = Փակել
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Առաջին անգամ տեղադրում

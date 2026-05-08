@@ -55,6 +55,8 @@ fxviewtabrow-move-tab-window = Տեղափոխել Նոր Պատուհան
     .accesskey = W
 fxviewtabrow-send-to-device = Ուղարկել սարքի
     .accesskey = n
+fxviewtabrow-send-to-mobile = Ուղարկել բջջայինին
+    .accesskey = n
 fxviewtabrow-send-tab = Ուղարկել ներդիրը սարքին
     .accesskey = n
 fxviewtabrow-pin-tab = Ամրացնել ներդիրը
@@ -76,3 +78,7 @@ fxviewtabrow-mute-tab-button-no-context =
     .title = Լռեցնել ներդիրը
 fxviewtabrow-unmute-tab-button-no-context =
     .title = Ապալռեցնել ներդիրը
+# The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, or pair a device
+fxviewtabrow-send-to-mobile-enable-sync2 = Միացրեք համաժամեցումը՝ ներդիր ուղարկելու համար
+fxviewtabrow-send-to-mobile-connect-phone2 = Միացրեք ձեր հեռախոսը
+fxviewtabrow-send-to-mobile-device-missing2 = Չե՞ք տեսնում ձեր սարքը։
