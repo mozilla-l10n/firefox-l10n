@@ -378,6 +378,8 @@ newtab-custom-widget-timer-toggle =
     .label = Amserydd
 newtab-custom-widget-sports-toggle =
     .label = Cwpan y Byd
+newtab-custom-widget-clock-toggle =
+    .label = Cloc
 newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau
@@ -914,29 +916,60 @@ newtab-widget-timer-celebration-message-break = Yn barod i ganolbwyntio?
 newtab-sports-widget-menu-follow-teams = Dilyn timau
 newtab-sports-widget-menu-view-upcoming = Gweld yr hyn sydd i ddod
 newtab-sports-widget-menu-view-results = Gweld y canlyniadau
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Dyddiadau allweddol
 newtab-sports-widget-menu-learn-more = Dysgu rhagor
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Cadw golwg ar Gwpan y Byd
 newtab-sports-widget-get-updates = Cael diweddariadau gemau byw a mwy.
 newtab-sports-widget-view-schedule =
     .label = Gweld yr amserlen
 newtab-sports-widget-follow-teams =
     .label = Dilyn timau
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [zero] Dilyn hyd at { $number } timau
+        [one] Dilyn hyd at { $number } tîm
+        [two] Dilyn hyd at { $number } dîm
+        [few] Dilyn hyd at { $number } tîm
+        [many] Dilyn hyd at { $number } thîm
+       *[other] Dilyn hyd at { $number } tîm
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Dewis Papur Wal
 newtab-sports-widget-skip = Hepgor
+newtab-sports-widget-search-country =
+    .placeholder = Chwilio gwlad
+    .aria-label = Chwilio gwlad
+newtab-sports-widget-cancel = Na
 newtab-sports-widget-done-button =
     .label = Gorffen
 newtab-sports-widget-group-stage = Cymal Grŵp
+newtab-sports-widget-round-32 = Rownd o 32
+newtab-sports-widget-round-16 = Rownd o 16
+newtab-sports-widget-quarter-finals = Chwarteri
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = BYW
 newtab-custom-widget-live-refresh =
     .title = Diweddaru sgoriau
     .aria-label = Diweddaru sgoriau
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Dyddiadau allweddol
 newtab-sports-widget-upcoming = I Ddod
 newtab-sports-widget-results = Canlyniadau
 newtab-sports-widget-semi-finals = Cyn-derfynol
 newtab-sports-widget-bronze-finals = Y Ffeinal Efydd
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Y Ffeinal
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Rhedeg yn Hwyr
 newtab-sports-widget-postponed = Wedi'i Ohirio
 newtab-sports-widget-suspended = Wedi'i Atal
@@ -971,3 +1004,32 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Mae'r gofod hwn yn chwarae yn ôl eich rheolau chi
 newtab-activation-window-message-values-focus-message = Mae { -brand-product-name } yn gadael i chi bori'r ffordd fyddwch chi'n ei hoffi, gyda dull mwy personol i ddechrau'ch diwrnod ar-lein. Gwnewch { -brand-product-name } yn ddefnyddiol i chi.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Cuddio cloc
+newtab-clock-widget-menu-learn-more = Dysgu rhagor
+newtab-clock-widget-menu-edit = Golygu clociau
+newtab-clock-widget-menu-switch-to-12h = Newid i fformat 12 awr
+newtab-clock-widget-menu-switch-to-24h = Newid i fformat 24 awr
+newtab-clock-widget-label-your-clocks = Eich clociau
+newtab-clock-widget-search-location-input =
+    .label = Lleoliad
+    .placeholder = Chwilio am ddinas
+    .aria-label = Chwilio am ddinas
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Llysenw (dewisol)
+    .placeholder = Ychwanegu llysenw
+    .aria-label = Llysenw (dewisol)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Ychwanegu cloc newydd
+    .aria-label = Ychwanegu cloc newydd
+newtab-clock-widget-button-add-clock = Ychwanegu
+newtab-clock-widget-button-cancel = Na

@@ -1034,4 +1034,4 @@ newtab-clock-widget-menu-button =
     .title = Aperir menu pro horologio
     .aria-label = Aperir menu pro horologio
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
-newtab-clock-widget-label-nickname-with-value = Pseudonymo: { $pseudonymo }
+newtab-clock-widget-label-nickname-with-value = Pseudonymo: { $nickname }
