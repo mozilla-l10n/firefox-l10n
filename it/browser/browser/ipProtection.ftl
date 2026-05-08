@@ -117,14 +117,14 @@ ipprotection-locations-subview-promo-button = Ottieni { -mozilla-vpn-brand-name 
 ipprotection-connection-status-paused-title = VPN sospesa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il prossimo mese.
+ipprotection-connection-status-paused-description = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il mese prossimo.
 upgrade-vpn-title = Più protezione, anche al di fuori del browser
 upgrade-vpn-description = Scegli la posizione della VPN, proteggi tutte le tue app e fino a 5 dispositivi. Rimani al sicuro su qualsiasi rete, a casa o su reti Wi-Fi pubbliche.
 upgrade-vpn-button = Prova { -mozilla-vpn-brand-name }
 ipprotection-connection-status-paused-title-1 = La VPN è in pausa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-connection-status-paused-description-1 = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il prossimo mese.
+ipprotection-connection-status-paused-description-1 = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il mese prossimo.
 
 ## Messages and errors
 
@@ -161,13 +161,13 @@ ipprotection-bandwidth-upgrade-text = Scegli la posizione della VPN e proteggi t
 
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-75 = <strong>Stai per esaurire il traffico VPN.</strong> Ti restano { $usageLeft } GB. Il traffico si rinnoverà all’inizio del prossimo mese.
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Stai per esaurire il traffico VPN.</strong> Ti restano { $usageLeft } GB. Il traffico si rinnoverà all’inizio del mese prossimo.
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
-ip-protection-bandwidth-warning-infobar-message-90 = <strong>Hai quasi esaurito i dati disponibili per la VPN.</strong> Ti restano { $usageLeft } GB. Una volta esaurito il traffico disponibile, la tua VPN verrà sospesa fino al ripristino dei dati all’inizio del prossimo mese.
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Hai quasi esaurito i dati disponibili per la VPN.</strong> Ti restano { $usageLeft } GB. Una volta esaurito il traffico disponibile, la tua VPN verrà sospesa fino al ripristino dei dati all’inizio del mese prossimo.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
-ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Hai quasi esaurito i dati disponibili per la VPN.</strong> Ti restano { $usageLeft } MB. Una volta esaurito il traffico disponibile, la tua VPN verrà sospesa fino al ripristino dei dati all’inizio del prossimo mese.
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Hai quasi esaurito i dati disponibili per la VPN.</strong> Ti restano { $usageLeft } MB. Una volta esaurito il traffico disponibile, la tua VPN verrà sospesa fino al ripristino dei dati all’inizio del mese prossimo.
 
 ## IP Protection Settings
 
@@ -237,7 +237,7 @@ ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB di { $maxUsage } 
 ip-protection-bandwidth-left-mb = { $usageLeft } MB di { $maxUsage } GB rimasti
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ip-protection-bandwidth-hit-for-the-month = Hai utilizzato tutti i { $maxUsage } GB dei tuoi dati VPN. L’accesso verrà reimpostato il prossimo mese.
+ip-protection-bandwidth-hit-for-the-month = Hai utilizzato tutti i { $maxUsage } GB dei tuoi dati VPN. L’accesso verrà reimpostato il mese prossimo.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Viene reimpostato a { $maxUsage } GB il primo di ogni mese.
@@ -261,10 +261,10 @@ ipp-activator-breakage-turn-off-warning = <strong>Questo sito web potrebbe non f
 vpn-paused-alert-title = VPN sospesa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-vpn-paused-alert-body = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso alla VPN verrà reimpostato il prossimo mese.
+vpn-paused-alert-body = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso alla VPN verrà reimpostato il mese prossimo.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-vpn-error-page-paused-description = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il prossimo mese.
+vpn-error-page-paused-description = Hai utilizzato tutti i { $maxUsage } GB dei dati disponibili per la VPN. L’accesso verrà reimpostato il mese prossimo.
 vpn-error-page-continue-description = Scegli come continuare senza VPN
 vpn-error-page-keep-browsing = Continua a navigare in questa sessione
 vpn-error-page-new-session = Avvia una nuova sessione

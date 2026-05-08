@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Schede sincronizzate
     .tooltiptext = Visualizza schede da altri dispositivi
+toolbar-button-send-tab =
+    .label = Invia scheda
+    .tooltiptext = Invia la scheda corrente a un altro dispositivo
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =

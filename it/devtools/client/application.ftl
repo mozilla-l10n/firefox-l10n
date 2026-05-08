@@ -117,6 +117,10 @@ sidebar-item-session-history = Cronologia di sessione
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Visualizza i dati della cronologia di sessione
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Diagramma della cronologia di sessione non disponibile
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Il target non supporta la visualizzazione dei diagrammi della cronologia di sessione
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Icona avviso

@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Seleziona profilo
 preferences-copy-profile-button = Copia
+tabs-browsing-section =
+    .heading = Schede e navigazione
+pane-tabs-browsing-title = Schede e navigazione
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Schede
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Avvisa quando l’apertura contemporanea di più schede potrebbe rallentare { -brand-short-name }
     .accesskey = c
+switch-to-new-tabs-2 =
+    .label = Porta in primo piano la scheda quando si aprono link o contenuti multimediali in una nuova scheda
+    .accesskey = P
 switch-to-new-tabs =
     .label = Porta in primo piano la scheda quando si aprono link, immagini o contenuti multimediali in una nuova scheda
     .accesskey = P
 show-tabs-in-taskbar =
     .label = Visualizza un’anteprima delle schede nella barra delle applicazioni di Windows
     .accesskey = V
+browser-containers-enabled-2 =
+    .label = Utilizza schede contenitore
+    .accesskey = c
 browser-containers-enabled =
     .label = Attiva schede contenitore
     .accesskey = h
 browser-containers-learn-more = Ulteriori informazioni
+browser-containers-settings-2 =
+    .label = Gestisci impostazioni
+    .accesskey = m
 browser-containers-settings =
     .label = Impostazioni…
     .accesskey = o
@@ -328,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Mostra barra laterale
     .description = Accedi rapidamente a segnalibri, schede dal tuo telefono, chatbot IA e altro ancora senza bisogno di uscire dalla schermata principale.
+page-navigation-group =
+    .label = Navigazione tra le pagine
 browser-layout-header = Layout del browser
 browser-layout-horizontal-tabs =
     .label = Schede orizzontali
@@ -821,6 +836,10 @@ performance-default-content-process-count =
     .label = { $num } (predefinito)
 performance-group =
     .label = Prestazioni
+performance-use-recommended-settings-checkbox-2 =
+    .label = Utilizza le impostazioni consigliate per le prestazioni
+    .description = Queste impostazioni sono personalizzate in base all’hardware e al sistema operativo in uso.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -855,6 +874,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Cerca nel testo quando si digita qualcosa
     .accesskey = e
+settings-media-group =
+    .label = Media
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Utilizza Picture-in-Picture
+    .accesskey = P
 browsing-picture-in-picture-toggle-enabled =
     .label = Attiva controlli Picture-in-Picture
     .accesskey = A
@@ -865,6 +889,8 @@ browsing-picture-in-picture-learn-more = Ulteriori informazioni
 browsing-media-control =
     .label = Controlla la riproduzione di file multimediali tramite tastiera, cuffie o interfacce virtuali
     .accesskey = m
+recommendations-group =
+    .label = Consigli
 browsing-media-control-learn-more = Ulteriori informazioni
 browsing-cfr-recommendations =
     .label = Consiglia estensioni durante la navigazione
@@ -1263,6 +1289,7 @@ account-placeholder =
     .description = Accedi per mantenere i tuoi dati privati, crittati e sincronizzati su tutti i dispositivi.
 account-sync-section =
     .heading = Account e sincronizzazione
+pane-account-sync-title = Account e sincronizzazione
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1748,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Password e impostazioni per la compilazione automatica dei moduli
+pane-passwords-autofill-title = Password e compilazione automatica
+preferences-passwords-autofill-header =
+    .heading = Password e compilazione automatica
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
