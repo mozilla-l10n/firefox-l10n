@@ -262,7 +262,7 @@ menu-profiles-current =
     .label = { $profileName } (текущий)
 menu-profiles-menu =
     .label = Профили
-    .accesskey = З
+    .accesskey = П
 
 ## Tools Menu
 
