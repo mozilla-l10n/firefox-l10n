@@ -369,6 +369,8 @@ newtab-custom-widget-timer-toggle =
     .label = Timer
 newtab-custom-widget-sports-toggle =
     .label = Wereldkampioenschap
+newtab-custom-widget-clock-toggle =
+    .label = Klok
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -897,29 +899,56 @@ newtab-widget-timer-celebration-message-break = Klaar om te focussen?
 newtab-sports-widget-menu-follow-teams = Teams volgen
 newtab-sports-widget-menu-view-upcoming = Volgende tonen
 newtab-sports-widget-menu-view-results = Resultaten bekijken
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Belangrijke data
 newtab-sports-widget-menu-learn-more = Meer info
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Houd het WK in de gaten
 newtab-sports-widget-get-updates = Ontvang live wedstrijdupdates en meer.
 newtab-sports-widget-view-schedule =
     .label = Tijdschema bekijken
 newtab-sports-widget-follow-teams =
     .label = Teams volgen
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Volg maximaal { $number } team
+       *[other] Volg maximaal { $number } teams
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Kies een achtergrond
 newtab-sports-widget-skip = Overslaan
+newtab-sports-widget-search-country =
+    .placeholder = Land zoeken
+    .aria-label = Land zoeken
+newtab-sports-widget-cancel = Annuleren
 newtab-sports-widget-done-button =
     .label = Gereed
 newtab-sports-widget-group-stage = Groepsfase
+newtab-sports-widget-round-32 = Ronde van 32
+newtab-sports-widget-round-16 = Ronde van 16
+newtab-sports-widget-quarter-finals = Kwartfinales
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = LIVE
 newtab-custom-widget-live-refresh =
     .title = Scores vernieuwen
     .aria-label = Scores vernieuwen
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Belangrijke data
 newtab-sports-widget-upcoming = Binnenkort
 newtab-sports-widget-results = Resultaten
 newtab-sports-widget-semi-finals = Halve finales
 newtab-sports-widget-bronze-finals = Troostfinale
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Vertraagd
 newtab-sports-widget-postponed = Uitgesteld
 newtab-sports-widget-suspended = Onderbroken
@@ -954,3 +983,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Deze ruimte volgt uw regels
 newtab-activation-window-message-values-focus-message = Met { -brand-product-name } kunt u surfen zoals u dat wilt, met een meer persoonlijke manier om uw dag online te beginnen. Maak { -brand-product-name } van uzelf.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Klok verbergen
+newtab-clock-widget-menu-learn-more = Meer info

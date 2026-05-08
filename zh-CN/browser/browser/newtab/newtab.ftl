@@ -949,3 +949,9 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 newtab-clock-widget-menu-switch-to-12h = 切换为 12 小时制
 newtab-clock-widget-menu-switch-to-24h = 切换为 24 小时制
+newtab-clock-widget-label-your-clocks = 您的时钟
+newtab-clock-widget-search-location-input =
+    .label = 位置
+    .placeholder = 搜索城市
+    .aria-label = 搜索城市
+newtab-clock-widget-button-cancel = 取消
