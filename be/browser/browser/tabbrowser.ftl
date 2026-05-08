@@ -276,6 +276,9 @@ tab-group-editor-color-selector2-gray = Шэры
     .title = Шэры
 tab-group-editor-color-selector2-red = Чырвоны
     .title = Чырвоны
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Закрыта
 tab-group-description = { $tabGroupName } — Група картак
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Згорнута
 tab-group-label-tooltip-expanded = { $tabGroupName } — Разгорнута
@@ -284,6 +287,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Група без назвы
 tab-group-name-default = Група без назвы
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Групы картак
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -335,6 +346,16 @@ tab-group-editor-action-new-tab =
     .label = Новая картка ў групе
 tab-group-editor-action-new-window =
     .label = Перанесці групу ў новае акно
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Капіяваць спасылку ў групе
+            [one] Капіяваць { $linkCount } спасылку ў групе
+            [few] Капіяваць { $linkCount } спасылкі ў групе
+           *[many] Капіяваць { $linkCount } спасылак у групе
+        }
 tab-group-editor-action-save =
     .label = Захаваць і закрыць групу
 tab-group-editor-action-ungroup =
@@ -344,6 +365,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Гатова
     .accessKey = в
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Падзяліцца групай картак
 tab-context-reopen-tab-group =
     .label = Пераадкрыць групу картак
 # Variables:

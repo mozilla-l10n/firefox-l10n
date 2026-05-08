@@ -921,14 +921,23 @@ newtab-sports-widget-menu-learn-more = Zjistit více
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Sledujte Mistrovství světa ve fotbale
 newtab-sports-widget-get-updates = Získejte živé informace o zápasech a další informace.
+newtab-sports-widget-view-schedule =
+    .label = Zobrazit rozpis zápasů
 newtab-sports-widget-follow-teams =
     .label = Sledujte týmy
 newtab-sports-widget-choose-wallpaper =
     .label = Zvolte si tapetu
 newtab-sports-widget-skip = Přeskočit
+newtab-sports-widget-search-country =
+    .placeholder = Hledat zemi
+    .aria-label = Hledat zemi
+newtab-sports-widget-cancel = Zrušit
 newtab-sports-widget-done-button =
     .label = Hotovo
 newtab-sports-widget-group-stage = Skupinová fáze
+newtab-sports-widget-round-32 = Nejlepších 32
+newtab-sports-widget-round-16 = Nejlepších 16
+newtab-sports-widget-quarter-finals = Čtvrtfinále
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ŽIVĚ
 newtab-custom-widget-live-refresh =
@@ -941,6 +950,7 @@ newtab-sports-widget-bronze-finals = O třetí místo
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finále
 newtab-sports-widget-delayed = Zpožděno
+newtab-sports-widget-postponed = Odloženo
 newtab-sports-widget-suspended = Pozastaveno
 newtab-sports-widget-cancelled = Zrušeno
 newtab-sports-widget-information = Informace o zápase

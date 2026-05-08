@@ -418,6 +418,13 @@ windows-10-eos-feature-toast-subtitle = Па шматлікіх просьбах
 windows-10-eos-feature-toast-whats-new-button = Што новага
 windows-10-eos-feature-toast-dismiss-button = Адхіліць
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-primary-button = Уключыць рэзервовае капіяванне
+    .accesskey = е
+windows-10-eos-global-infobar-learn-more-link = Падрабязней
+    .accessKey = д
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -449,5 +456,9 @@ set-default-menu-message-primary-button-variant = Прызначыць асно�
 
 ## Firefox Relay 50 Masks Announcement
 
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 масак электроннай пошты за наш кошт
 relay-50-masks-announcement-primary-button = Перайсці к { -relay-brand-name }
     .accesskey = П
+relay-50-masks-announcement-secondary-button = Адхіліць
+    .accesskey = А
