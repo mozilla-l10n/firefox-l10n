@@ -1318,6 +1318,8 @@ panel-save-update-password = Hasło
 # "More" item in macOS share menu
 menu-share-more =
     .label = Więcej…
+menu-share-windows =
+    .label = Więcej opcji
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1482,6 +1484,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Zakończ prywatną sesję
     .tooltiptext = Zakończ prywatną sesję
+reset-pbm-panel-heading2 = Czy wyczyścić dane i rozpocząć nową sesję prywatną?
+reset-pbm-panel-description2 = Spowoduje to usunięcie historii, ciasteczek i wszystkich innych danych witryn bez zamykania okna prywatnego.
 reset-pbm-panel-heading = Czy zakończyć prywatną sesję?
 reset-pbm-panel-description = Zamknij wszystkie prywatne karty i usuń historię, ciasteczka i pozostałe dane witryn.
 reset-pbm-panel-always-ask-checkbox =
@@ -1490,6 +1494,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Anuluj
     .accesskey = A
+reset-pbm-panel-confirm-button2 =
+    .label = Wyczyść prywatną sesję
+    .accesskey = c
 reset-pbm-panel-confirm-button =
     .label = Usuń dane sesji
     .accesskey = U
@@ -1759,6 +1766,8 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[many] { -brand-product-name } zezwolił na { $count } elementów używających komputera użytkownika do generowania kryptowalut
     }
 trustpanel-cryptominer-tab-list-header = Te witryny próbują używać komputera użytkownika do generowania kryptowalut:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Masz konto na tej witrynie?
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Zamknij
 trustpanel-blocker-section-header2 =
     { $count ->
