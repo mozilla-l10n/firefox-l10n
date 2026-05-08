@@ -1768,7 +1768,9 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Te witryny próbują używać komputera użytkownika do generowania kryptowalut:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Masz konto na tej witrynie?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } wykrył, że w ciągu ostatnich 12 miesięcy z tej witryny wyciekły dane. Sprawdź, czy znalazły się wśród nich Twoje dane.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Zamknij
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Sprawdź bezpłatnie
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> element śledzący zablokowany na tej witrynie
@@ -1778,6 +1780,8 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Witryna wydaje się uszkodzona?</strong> Odśwież ją, aby tymczasowo obniżyć poziom ochrony przed śledzeniem.
 reduced-protection-infobar-reload-button = Odśwież
     .accesskey = O
 reduced-protection-infobar-never-show-button = Nie pokazuj ponownie
