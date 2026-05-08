@@ -107,6 +107,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Шолу үшін басқа орынды таңдаңыз.
 ipprotecion-locations-subview-recommended-label = Ұсынылатын
 ipprotection-locations-subview-recommended-description = Ең жылдам орналасқан жерді табады
+ipprotection-locations-subview-promo =
+    .heading = { -mozilla-vpn-brand-name } арқылы қорғанысты одан әрі арттырыңыз
+    .message = 300-ден астам орналасуды таңдаңыз және барлық қолданбаларыңызды қорғаңыз - 5 құрылғыға дейін.
 ipprotection-locations-subview-promo-button = { -mozilla-vpn-brand-name } алу
 
 ## VPN paused state
@@ -180,6 +183,11 @@ ip-protection-learn-more = Көбірек білу
 ip-protection-not-opted-in-2 =
     .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін қолданып көріңіз.
     .message = { -brand-short-name } арқылы сайттарды шолу кезінде орналасқан жеріңізді жасырыңыз. Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін байқап көріңіз.
+    .message = Орналасуыңызды жасыру арқылы қосымша қорғаныспен шолыңыз. Ай сайын { $maxUsage } ГБ тегін VPN деректерін алыңыз.
 ip-protection-not-opted-in-button = Бастау
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -199,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = { -mozilla-vpn-brand-name } арқылы { -brand-short-name } браузерінен тыс жерде де жоғары деңгейлі қорғанысқа ие болыңыз.
     .description = VPN орналасқан жерін еркін таңдаңыз және үйде немесе қоғамдық Wi-Fi желісінде болсаңыз да, 5 құрылғыға дейін барлық қолданбаларыңызды қорғаңыз.
+ip-protection-vpn-upgrade-link-1 =
+    .label = { -mozilla-vpn-brand-name } арқылы қорғанысты одан әрі арттырыңыз
+    .description = 300-ден астам орналасуды таңдаңыз және барлық қолданбаларыңызды қорғаңыз - 5 құрылғыға дейін.
 
 ## IP Protection dialogs
 
