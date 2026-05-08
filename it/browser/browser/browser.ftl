@@ -377,7 +377,7 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Visualizza componenti aggiuntivi
@@ -1719,4 +1719,3 @@ reduced-protection-infobar-reload-button = Ricarica
     .accesskey = R
 reduced-protection-infobar-never-show-button = Non mostrare di nuovo
     .accesskey = N
-
