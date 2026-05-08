@@ -6,7 +6,13 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs = +32 個
+content-sharing-tabs-title = { $count } 個分頁
 content-sharing-modal-view-page =
     .label = 檢視頁面
 content-sharing-modal-copy-link =
     .label = 複製鏈結
+content-sharing-modal-link-copied =
+    .label = 已複製鏈結
+content-sharing-modal-sign-in =
+    .label = 登入即可分享鏈結
