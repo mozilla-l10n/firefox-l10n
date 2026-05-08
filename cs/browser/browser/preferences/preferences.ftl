@@ -68,6 +68,11 @@ category-sync3 =
 pane-ai-controls-title = Ovládání AI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-appearance-title = Vzhled
+    .title = { pane-appearance-title }
+pane-downloads-title = Stahování
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Přístupnost
     .title = { pane-accessibility-title }
 pane-languages-title = Jazyky
@@ -871,6 +876,8 @@ update-in-progress-cancel-button = &Pokračovat
 
 update-application-suppress-prompts-heading =
     .label = Upozornění
+update-application-updates-managed-by-os =
+    .message = Aktualizace jsou spravovány vaším operačním systémem
 
 ## Firefox support
 
@@ -1166,6 +1173,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sporty
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Hodiny
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label =
@@ -1723,6 +1733,14 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Zjistit více
 forms-windows-sso-desc = Účty můžete spravovat v nastavení svého zařízení
 windows-passkey-settings-label = Správa přístupových klíčů v nastavení systému
+
+## Privacy Panel Settings
+
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Zobrazit zprávy o únicích
+    .accesskey = a
 
 ## OS Authentication dialog
 
@@ -2427,6 +2445,10 @@ collection-backlogged-crash-reports-description =
         [with-cases] To pomáhá { -vendor-short-name(case: "dat") } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
        *[no-cases] To pomáhá organizaci { -vendor-short-name } diagnostikovat a opravovat problémy s prohlížečem. Hlášení mohou obsahovat osobní nebo citlivé údaje.
     }
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Stejné nastavení, nový vzhled!
+    .message = Tuto stránku jsme přepracovali, aby se na ní lépe orientovalo a procházelo. Vaše osobní nastavení se nezměnila a vše je stále na svém místě. Tip: Pomocí vyhledávání se můžete dostat přímo k tomu, co potřebujete.
 settings-redesign-promo-dismiss-button =
     .label = Rozumím
 addon-recommendations =

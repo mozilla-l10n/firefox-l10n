@@ -943,12 +943,18 @@ newtab-sports-widget-live = ŽIVĚ
 newtab-custom-widget-live-refresh =
     .title = Obnovit skóre
     .aria-label = Obnovit skóre
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Klíčová data
 newtab-sports-widget-upcoming = Nadcházející
 newtab-sports-widget-results = Výsledky
 newtab-sports-widget-semi-finals = Semifinále
 newtab-sports-widget-bronze-finals = O třetí místo
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finále
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Zpožděno
 newtab-sports-widget-postponed = Odloženo
 newtab-sports-widget-suspended = Pozastaveno
