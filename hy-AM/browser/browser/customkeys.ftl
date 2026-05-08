@@ -18,6 +18,7 @@ customkeys-dev-inspector = DOM և ոճի տեսուչ
 customkeys-dev-webconsole = Վեբ Կառավարակետ
 customkeys-dev-debugger = JavaScript Վրիպազերծում
 customkeys-dev-network = Ցանցի դիտարկում
+customkeys-dev-style = Ոճի խմբագրիչ
 customkeys-dev-performance = Արտադրողականություն
 customkeys-dev-storage = Պահեստի տեսուչ
 customkeys-dev-dom = DOM

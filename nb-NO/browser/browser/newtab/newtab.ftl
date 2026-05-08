@@ -853,6 +853,13 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+           *[other] Start { $minutes }-minutt nedtelling
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Sett nedtelleren på pause
 # Variables:
@@ -863,6 +870,8 @@ newtab-widget-timer-decrease-min =
     .title = Reduser med 1 minutt
 newtab-widget-timer-increase-min =
     .title = Øk med 1 minutt
+newtab-widget-timer-mode-group =
+    .aria-label = Nedtellingsmodus
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Fokus
 # Small label shown beneath the live time while the break timer is running or paused.
