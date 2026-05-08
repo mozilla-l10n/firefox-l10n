@@ -137,9 +137,9 @@ place-database-last-idle-maintenance-data = Dato for siste vedlikehald i inaktiv
 # Vacuum refers to a type of database maintenance process
 place-database-last-vacuum-date = Dato for siste databaseopprydding
 place-database-last-integrity-corruption-date = Dato for siste integritetskorrupsjon
-a11y-title = Tilgjenge
+a11y-title = Tilgjengelegheit
 a11y-activated = Aktivert
-a11y-force-disabled = Hindra tilgjenge
+a11y-force-disabled = Hindra tilgjengelegheit
 a11y-handler-used = Tilgjengeleg handsamar brukt
 a11y-instantiator = Tilgjenge-instantiator
 library-version-title = Bibliotekversjonar

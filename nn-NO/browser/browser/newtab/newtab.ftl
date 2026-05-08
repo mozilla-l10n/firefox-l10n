@@ -926,6 +926,13 @@ newtab-sports-widget-semi-finals = Semifinalar
 newtab-sports-widget-bronze-finals = Bronsefinale
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Forseinka
 newtab-sports-widget-postponed = Utsett
 newtab-sports-widget-suspended = Suspendert
