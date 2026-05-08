@@ -363,6 +363,8 @@ newtab-custom-widget-timer-toggle =
     .label = 计时器
 newtab-custom-widget-sports-toggle =
     .label = 世界杯
+newtab-custom-widget-clock-toggle =
+    .label = 时钟
 newtab-custom-widget-section-title = 小组件
 newtab-custom-widget-section-toggle =
     .label = 小组件
@@ -870,15 +872,25 @@ newtab-widget-timer-celebration-heading-break = 休息时间结束
 
 newtab-sports-widget-menu-follow-teams = 关注球队
 newtab-sports-widget-menu-view-upcoming = 查看即将进行的比赛
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = 重要日期
 newtab-sports-widget-menu-learn-more = 详细了解
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = 持续关注世界杯
 newtab-sports-widget-get-updates = 获取实时赛况等信息。
 newtab-sports-widget-view-schedule =
     .label = 查看赛程
 newtab-sports-widget-follow-teams =
     .label = 关注球队
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title = 最多可关注 { $number } 支球队
 newtab-sports-widget-choose-wallpaper =
     .label = 选择壁纸
 newtab-sports-widget-skip = 跳过
+newtab-sports-widget-search-country =
+    .placeholder = 搜索国家/地区
+    .aria-label = 搜索国家/地区
 newtab-sports-widget-done-button =
     .label = 完成
 newtab-sports-widget-group-stage = 小组赛阶段
@@ -927,3 +939,8 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = 这片空间，由您做主
 newtab-activation-window-message-values-focus-message = { -brand-product-name } 可让您以更具个性的方式开启网络上的新一天，按自己喜欢的方式来浏览。让 { -brand-product-name } 有您的个性。
+
+## Strings for the Clock widget
+
+newtab-clock-widget-menu-switch-to-12h = 切换为 12 小时制
+newtab-clock-widget-menu-switch-to-24h = 切换为 24 小时制
