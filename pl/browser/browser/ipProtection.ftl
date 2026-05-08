@@ -183,6 +183,11 @@ ip-protection-learn-more = Więcej informacji
 ip-protection-not-opted-in-2 =
     .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
     .message = Ukryj swoje położenie podczas przeglądania Internetu w { -brand-short-name(case: "loc") }. Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
+    .message = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie. Otrzymaj { $maxUsage } GB bezpłatnych danych VPN co miesiąc.
 ip-protection-not-opted-in-button = Zacznij teraz
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -203,6 +208,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Korzystaj z jeszcze większej ochrony poza { -brand-short-name(case: "ins") } za pomocą { -mozilla-vpn-brand-name }
     .description = Wybieraj dowolne położenie VPN i dodaj ochronę do wszystkich aplikacji na nawet pięciu urządzeniach, w domu czy w publicznej sieci Wi-Fi.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Jeszcze bardziej zwiększ ochronę dzięki { -mozilla-vpn-brand-name }
+    .description = Wybierz jedno z ponad 300 położeń i chroń wszystkie aplikacje na maksymalnie 5 urządzeniach.
 
 ## IP Protection dialogs
 
@@ -255,6 +263,10 @@ vpn-paused-alert-title = Wstrzymano VPN
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp do VPN zostanie przywrócony w przyszłym miesiącu.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Wykorzystano całe { $maxUsage } GB danych VPN. Dostęp zostanie przywrócony w przyszłym miesiącu.
+vpn-error-page-continue-description = Wybierz, co robić bez sieci VPN
 vpn-error-page-keep-browsing = Kontynuuj przeglądanie w tej sesji
 vpn-error-page-new-session = Rozpocznij nową sesję
 vpn-paused-alert-close-tabs-button = Zamknij wszystkie karty
