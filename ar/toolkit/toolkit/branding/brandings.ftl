@@ -32,6 +32,8 @@
 -relay-brand-short-name = Relay
 -fakespot-brand-name = بقعة وهمية
 -solo-ai-brand-name = Solo
+-thunderbird-brand-name = Mozilla Thunderbird
+-thunderbird-brand-short-name = Thunderbird
 -mdn-brand-name = توثيق MDN للوِب
 -yelp-brand-name = Yelp
 # Note the name of the website is capitalized.
