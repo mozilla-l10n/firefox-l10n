@@ -687,6 +687,9 @@ applications-save-for-new-types2 =
 applications-ask-before-handling =
     .label = 詢問要直接開啟還是儲存檔案
     .accesskey = A
+applications-ask-before-handling2 =
+    .label = 詢問要直接開啟還是儲存檔案
+    .accesskey = A
 drm-group =
     .label = 數位權利管理（DRM）內容
 drm-content-header = 數位權利管理（DRM）內容
@@ -2170,6 +2173,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = 權限
     .description = 管理網站能夠存取、控制、觸發哪些項目。
+permissions-data-section =
+    .heading = 權限與資料
+pane-permissions-data-title = 權限與資料
 
 ## Privacy Section - Data Collection
 
@@ -2500,6 +2506,19 @@ preferences-connection-link-button =
 desktop-folder-name = 桌面
 downloads-folder-name = 下載
 choose-download-folder-title = 選取下載目錄：
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = 外觀設定
+browser-theme-manage-link =
+    .label = 管理 { -brand-short-name } 的佈景主題
+related-settings-group =
+    .label = 相關設定
+related-settings-accessibility-link =
+    .label = 到「輔助功能」自訂縮放與字型設定
+related-settings-home-link =
+    .label = 自訂 { -firefox-home-brand-name }
 
 ## AI controls page
 

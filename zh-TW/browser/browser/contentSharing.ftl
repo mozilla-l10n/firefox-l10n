@@ -16,3 +16,4 @@ content-sharing-modal-link-copied =
     .label = 已複製鏈結
 content-sharing-modal-sign-in =
     .label = 登入即可分享鏈結
+content-sharing-modal-title = 從任何瀏覽器分享這些鏈結
