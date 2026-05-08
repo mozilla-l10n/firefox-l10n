@@ -105,6 +105,9 @@ set-password-reminder = Wichtich: as jo jo wachtwurd foar de reservekopy fan it 
 
 protected-auth-window =
     .title = Beskerme autentikaasje
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Autentisearje by it befeiligingsapparaat ({ $tokenName }). Hoe’t jo dit dogge, hinget ôf fan it apparaat (bygelyks mei help fan in fingerôfdruklêzer of it ynfieren fan in koade mei in toetseboerd).
 
 ## Protected authentication alert
 
