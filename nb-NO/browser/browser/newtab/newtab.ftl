@@ -948,7 +948,32 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Skjul klokke
 newtab-clock-widget-menu-learn-more = Les mer
 newtab-clock-widget-menu-edit = Rediger klokker
 newtab-clock-widget-menu-switch-to-12h = Bytt til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Bytt til 24-timers format
+newtab-clock-widget-label-your-clocks = Dine klokker
+newtab-clock-widget-search-location-input =
+    .label = Plassering
+    .placeholder = Søk etter en by
+    .aria-label = Søk etter en by
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Kallenavn (valgfritt)
+    .placeholder = Legg til et kallenavn
+    .aria-label = Kallenavn (valgfritt)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Legg til ny klokke
+    .aria-label = Legg til ny klokke
+newtab-clock-widget-button-add-clock = Legg til
+newtab-clock-widget-button-cancel = Avbryt
+newtab-clock-widget-button-back =
+    .title = Tilbake
+    .aria-label = Tilbake
