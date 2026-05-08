@@ -368,6 +368,8 @@ newtab-custom-widget-timer-toggle =
     .label = Temporizador
 newtab-custom-widget-sports-toggle =
     .label = Copa del Mundo
+newtab-custom-widget-clock-toggle =
+    .label = Reloj
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -887,7 +889,11 @@ newtab-widget-timer-celebration-message-focus = ¿Necesita un descanso?
 newtab-sports-widget-menu-follow-teams = Seguir equipos
 newtab-sports-widget-menu-view-upcoming = Ver próximos
 newtab-sports-widget-menu-view-results = Ver resultados
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Fechas clave
 newtab-sports-widget-menu-learn-more = Conocer más
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Manténgase al tanto de la Copa del Mundo
 newtab-sports-widget-get-updates = Consiga actualizaciones de partidos en vivo y más.
 newtab-sports-widget-view-schedule =
     .label = Ver fixture
