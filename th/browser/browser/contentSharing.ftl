@@ -16,3 +16,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in =
     .label = ลงชื่อเข้าเพื่อแบ่งปันลิงก์
 content-sharing-modal-title = แบ่งปันการรวบรวมลิงก์นี้ไปที่เบราว์เซอร์ใดก็ได้
+content-sharing-modal-description = สร้างหน้าสาธารณะสำหรับลิงก์เหล่านี้เพื่อให้ง่ายต่อการแบ่งปัน เมื่อสร้างแล้วหน้านี้จะไม่สามารถถูกแก้ไขหรือลบได้ และจะหมดอายุภายใน 7 วัน
