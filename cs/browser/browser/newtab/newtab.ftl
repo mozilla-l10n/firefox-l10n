@@ -377,6 +377,8 @@ newtab-custom-widget-timer-toggle =
     .label = Časovač
 newtab-custom-widget-sports-toggle =
     .label = Světový šampionát
+newtab-custom-widget-clock-toggle =
+    .label = Hodiny
 newtab-custom-widget-section-title = Widgety
 newtab-custom-widget-section-toggle =
     .label = Widgety
@@ -829,6 +831,7 @@ newtab-widget-section-minimize =
 newtab-widget-section-menu-hide-all = Skrýt widgety
 newtab-widget-section-menu-learn-more = Zjistit více
 newtab-widget-section-feedback = Sdělte nám svůj názor
+newtab-widget-lists-name-default = Kontrolní seznam
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -877,6 +880,18 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+newtab-widget-timer-pause-aria =
+    .aria-label = Pozastavit časovač
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuta
+            [few] { $minutes } minuty
+            [many] { $minutes } minut
+           *[other] { $minutes } minut
+        }
 newtab-widget-timer-decrease-min =
     .title = Zkrátit o 1 minutu
 newtab-widget-timer-increase-min =
@@ -897,8 +912,14 @@ newtab-widget-timer-celebration-message-focus = Potřebujete přestávku?
 
 ## Sports widget
 
+newtab-sports-widget-menu-follow-teams = Sledujte týmy
+newtab-sports-widget-menu-view-upcoming = Zobrazit nadcházející
 newtab-sports-widget-menu-view-results = Zobrazit výsledky
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Klíčová data
 newtab-sports-widget-menu-learn-more = Zjistit více
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Sledujte Mistrovství světa ve fotbale
 newtab-sports-widget-get-updates = Získejte živé informace o zápasech a další informace.
 newtab-sports-widget-follow-teams =
     .label = Sledujte týmy
@@ -910,9 +931,16 @@ newtab-sports-widget-done-button =
 newtab-sports-widget-group-stage = Skupinová fáze
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ŽIVĚ
+newtab-custom-widget-live-refresh =
+    .title = Obnovit skóre
+    .aria-label = Obnovit skóre
 newtab-sports-widget-upcoming = Nadcházející
 newtab-sports-widget-results = Výsledky
 newtab-sports-widget-semi-finals = Semifinále
+newtab-sports-widget-bronze-finals = O třetí místo
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finále
+newtab-sports-widget-delayed = Zpožděno
 newtab-sports-widget-suspended = Pozastaveno
 newtab-sports-widget-cancelled = Zrušeno
 newtab-sports-widget-information = Informace o zápase

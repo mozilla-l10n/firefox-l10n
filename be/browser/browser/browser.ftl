@@ -1318,6 +1318,8 @@ panel-save-update-password = Пароль
 # "More" item in macOS share menu
 menu-share-more =
     .label = Больш…
+menu-share-windows =
+    .label = Дадатковыя налады
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

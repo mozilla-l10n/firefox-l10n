@@ -603,6 +603,7 @@ windows-10-eos-feature-toast-dismiss-button = Zavřít
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Společnost Microsoft již neposkytuje podporu pro systém Windows 10.</strong>Zálohujte si svá data a připravte si { -brand-product-name } na přechod na Windows 11.
 windows-10-eos-global-infobar-learn-more-link = Zjistit více
     .accessKey = Z
 
