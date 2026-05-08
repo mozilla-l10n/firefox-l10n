@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = { -brand-short-name }-instellingen beheren
 sidebar-vertical-tabs =
     .label = Verticale tabbladen
+sidebar-settings2 =
+    .label = Instellingen
 sidebar-settings =
     .label = Zijbalkinstellingen
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zijbalk bij aanwijzen uitvouwen
+sidebar-manage-extensions2 = Alle extensies beheren
 sidebar-manage-extensions = Extensies beheren
+sidebar-customize-extensions-header2 = Extensies
+sidebar-customize-firefox-tools-header2 =
+    .label = Hulpmiddelen
 
 ## Labels for sidebar context menu items
 

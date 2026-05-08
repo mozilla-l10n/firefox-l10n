@@ -989,3 +989,53 @@ newtab-activation-window-message-values-focus-message = Met { -brand-product-nam
 # Context menu item: toggle the clock card off.
 newtab-clock-widget-menu-hide = Klok verbergen
 newtab-clock-widget-menu-learn-more = Meer info
+newtab-clock-widget-menu-edit = Klokken bewerken
+newtab-clock-widget-menu-switch-to-12h = Omschakelen naar 12-uursnotatie
+newtab-clock-widget-menu-switch-to-24h = Omschakelen naar 24-uursnotatie
+newtab-clock-widget-label-your-clocks = Uw klokken
+newtab-clock-widget-search-location-input =
+    .label = Locatie
+    .placeholder = Stad zoeken
+    .aria-label = Stad zoeken
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Bijnaam (optioneel)
+    .placeholder = Voeg een bijnaam toe
+    .aria-label = Bijnaam (optioneel)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Nieuwe klok toevoegen
+    .aria-label = Nieuwe klok toevoegen
+newtab-clock-widget-button-add-clock = Toevoegen
+newtab-clock-widget-button-cancel = Annuleren
+newtab-clock-widget-button-back =
+    .title = Terug
+    .aria-label = Terug
+newtab-clock-widget-button-edit-clock =
+    .title = Klok bewerken
+    .aria-label = Klok bewerken
+newtab-clock-widget-button-save = Opslaan
+newtab-clock-widget-button-remove-clock =
+    .title = Klok verwijderen
+    .aria-label = Klok verwijderen
+newtab-clock-widget-add-clock-form =
+    .aria-label = Klok toevoegen
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Klok bewerken
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Zoekresultaten
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Menu voor klok openen
+    .aria-label = Menu voor klok openen
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Bijnaam: { $nickname }

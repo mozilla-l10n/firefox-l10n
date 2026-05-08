@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Over { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Vormgeving
+    .title = { pane-appearance-title }
+pane-downloads-title = Downloads
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Toegankelijkheid
     .title = { pane-accessibility-title }
 pane-languages-title = Talen
@@ -337,6 +342,12 @@ browser-layout-show-sidebar-desc = Benader snel bladwijzers, tabbladen van uw te
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Taal en Vormgeving
+appearance-group2 =
+    .label = Uiterlijk van de website
+    .description = Sommige websites wijzigen hun kleuren om zich aan uw voorkeuren aan te passen. Kies uw kleurenschema.
+preferences-web-appearance-choice-auto3 =
+    .label = Systeem
+    .title = Automatisch website-achtergronden en inhoud wijzigen op basis van uw systeeminstellingen en { -brand-short-name }-thema.
 appearance-group =
     .label = Uiterlijk van de website
     .description = Sommige websites passen hun kleurenschema aan op basis van uw voorkeuren. Kies welk kleurenschema u voor die websites wilt gebruiken.
@@ -573,6 +584,12 @@ download-save-files-header =
     .label = Bestanden opslaan in
 download-save-where-3 =
     .aria-label = Bestanden opslaan in
+download-always-ask-where2 =
+    .label = Vragen waar bestanden moeten worden opgeslagen voor het downloaden.
+    .accesskey = V
+download-private-browsing-delete2 =
+    .label = Downloads vanuit privévensters bij sluiten verwijderen
+    .accesskey = D
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -603,6 +620,9 @@ applications-setting =
     .description = Kies hoe { -brand-short-name } omgaat met de bestanden die u van het web downloadt of de toepassingen die u tijdens het surfen gebruikt.
 applications-header = Toepassingen
 applications-description = Kies hoe { -brand-short-name } omgaat met de bestanden die u van het web downloadt of de toepassingen die u tijdens het surfen gebruikt.
+applications-setting2 =
+    .label = Bestanden en toepassingen
+    .description = Kies hoe { -brand-short-name } omgaat met gedownloade bestanden en inhoud.
 applications-filter =
     .placeholder = Bestandstypen of toepassingen zoeken
 applications-type-column =
@@ -682,8 +702,14 @@ applications-handle-new-file-types-description = Wat moet { -brand-short-name } 
 applications-save-for-new-types =
     .label = Bestanden opslaan
     .accesskey = o
+applications-save-for-new-types2 =
+    .label = Bestanden automatisch opslaan
+    .accesskey = p
 applications-ask-before-handling =
     .label = Vragen of bestanden geopend of opgeslagen moeten worden
+    .accesskey = V
+applications-ask-before-handling2 =
+    .label = Vragen om bestanden te openen of op te slaan
     .accesskey = V
 drm-group =
     .label = Digital Rights Management (DRM)-inhoud
@@ -1046,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klok
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } ondersteunen
@@ -2165,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Toestemmingen
     .description = Beheren welke websites kunnen benaderen, aansturen of starten.
+permissions-data-section =
+    .heading = Toestemmingen en gegevens
+pane-permissions-data-title = Toestemmingen en gegevens
 
 ## Privacy Section - Data Collection
 
@@ -2495,6 +2527,22 @@ preferences-connection-link-button =
 desktop-folder-name = Bureaublad
 downloads-folder-name = Downloads
 choose-download-folder-title = Downloadmap kiezen:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Vormgeving
+browser-theme-group =
+    .label = Browserthema
+    .description = Geef { -brand-short-name } uw eigen stijl. Themakleuren zijn van toepassing op werkbalken, menu’s en berichten.
+browser-theme-manage-link =
+    .label = { -brand-short-name }-thema’s beheren
+related-settings-group =
+    .label = Gerelateerde instellingen
+related-settings-accessibility-link =
+    .label = Instellingen voor zoomen en lettertype aanpassen in Toegankelijkheid
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } aanpassen
 
 ## AI controls page
 
