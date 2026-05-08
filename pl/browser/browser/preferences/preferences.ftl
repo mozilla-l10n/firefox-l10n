@@ -1075,6 +1075,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Zegar
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Wspieraj { -brand-product-name(case: "acc") }
@@ -1088,6 +1091,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Wybierz tapetę
 home-prefs-choose-wallpaper-link2 =
     .label = Wybierz tapetę
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Aby korzystać z tych funkcji, ustaw nowe karty lub nowe okna na { -firefox-home-brand-name(case: "acc", capitalization: "lower") }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1616,6 +1624,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Więcej informacji
 forms-windows-sso-desc = Zarządzaj kontami w ustawieniach urządzenia
 windows-passkey-settings-label = Zarządzaj kluczami dostępu w ustawieniach urządzenia
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Ustawienia panelu prywatności
+    .description = { -brand-short-name } pomaga chronić Twoje dane w sieci.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Wyświetlaj powiadomienia o wyciekach danych
+    .accesskey = W
 
 ## OS Authentication dialog
 
@@ -2179,6 +2198,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Uprawnienia
     .description = Zarządzaj, do czego witryny mają dostęp, czym mogą sterować i co mogą wywoływać.
+permissions-data-section =
+    .heading = Uprawnienia i dane
+pane-permissions-data-title = Uprawnienia i dane
 
 ## Privacy Section - Data Collection
 
@@ -2232,6 +2254,10 @@ collection-backlogged-crash-reports2 =
     .label = Automatyczne wysyłanie zgłoszeń awarii
     .accesskey = o
 collection-backlogged-crash-reports-description = Umożliwia to { -vendor-short-name(case: "dat") } diagnozowanie i naprawianie problemów z przeglądarką. Zgłoszenia mogą zawierać dane osobowe lub prywatne informacje.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Te same ustawienia, nowy wygląd!
+    .message = Przeprojektowaliśmy tę stronę, aby ułatwić przeglądanie i poruszanie się po niej. Twoje ustawienia pozostały bez zmian, a wszystko jest nadal dostępne. Wskazówka: skorzystaj z wyszukiwarki, aby od razu przejść do tego, czego potrzebujesz.
 settings-redesign-promo-dismiss-button =
     .label = OK
 addon-recommendations =
@@ -2493,7 +2519,10 @@ preferences-doh-header2 =
 ## Connection and software security section
 
 preferences-connection-header =
-    .heading = Bezpieczeństwo połączenia i oprogramowania
+    .heading = Bezpieczeństwo połączeń i oprogramowania
+preferences-connection-link-section =
+    .label = Bezpieczeństwo połączeń i oprogramowania
+    .description = Zobacz, w jaki sposób zapewniane jest bezpieczeństwo połączeń, blokowane jest szkodliwe oprogramowanie oraz weryfikowane są witryny.
 preferences-connection-link-button =
     .label = Ustawienia zaawansowane
 
@@ -2502,6 +2531,14 @@ preferences-connection-link-button =
 desktop-folder-name = Pulpit
 downloads-folder-name = Pobrane
 choose-download-folder-title = Wybór folderu dla pobieranych plików
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Wygląd
+browser-theme-group =
+    .label = Motyw przeglądarki
+    .description = Dostosuj wygląd { -brand-short-name(case: "gen") } do swoich upodobań. Kolory motywu są używane na paskach narzędzi, menu i komunikatach.
 
 ## AI controls page
 
