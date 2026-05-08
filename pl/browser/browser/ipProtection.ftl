@@ -25,8 +25,13 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Przedstawiamy VPN, teraz dostępny od razu w przeglądarce
 ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę prywatności
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród 5 położeń, aby miejsce, z którego przeglądasz było bardziej prywatne.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Korzystasz z publicznej sieci Wi-Fi? Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz

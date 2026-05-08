@@ -2539,6 +2539,14 @@ preferences-appearance-header =
 browser-theme-group =
     .label = Motyw przeglądarki
     .description = Dostosuj wygląd { -brand-short-name(case: "gen") } do swoich upodobań. Kolory motywu są używane na paskach narzędzi, menu i komunikatach.
+browser-theme-manage-link =
+    .label = Zarządzaj motywami { -brand-short-name(case: "gen") }
+related-settings-group =
+    .label = Powiązane ustawienia
+related-settings-accessibility-link =
+    .label = Dostosuj powiększenie i czcionki w ustawieniach ułatwień dostępu
+related-settings-home-link =
+    .label = Dostosuj { -firefox-home-brand-name(case: "acc", capitalization: "lower") }
 
 ## AI controls page
 
