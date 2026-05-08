@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Hasło kopii bezpieczeństwa certyfikatu (ponownie):
 set-password-reminder = Ważne: jeżeli hasło zabezpieczające kopię certyfikatu zostanie utracone, późniejsze odtworzenie certyfikatu będzie niemożliwe. Zaleca się zachowanie hasła w bezpiecznym miejscu.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Chronione uwierzytelnienie
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Proszę uwierzytelnić się do urządzenia zabezpieczającego ({ $tokenName }). Metoda uwierzytelnienia zależy od urządzenia (np. za pomocą czytnika linii papilarnych lub przez wpisanie kodu na specjalnej klawiaturze).
+
 ## Protected authentication alert
 
 # Variables:
