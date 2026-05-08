@@ -70,6 +70,8 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = Om { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = Utseende
+    .title = { pane-appearance-title }
 pane-downloads-title = Nedlastinger
 pane-downloads =
     .heading = { pane-downloads-title }
@@ -340,6 +342,12 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerker, faner fra tel
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk og utseende
+appearance-group2 =
+    .label = Nettstedsutseende
+    .description = Noen nettsteder endrer fargene sine for å samsvare med innstillingene dine. Velg fargeskjema.
+preferences-web-appearance-choice-auto3 =
+    .label = System
+    .title = Endre automatisk bakgrunner og innhold på nettsteder basert på systeminnstillingene dine og temaet i { -brand-short-name }.
 appearance-group =
     .label = Utseende på nettstedet
     .description = Noen nettsteder tilpasser fargeskjemaet basert på dine innstillinger. Velg hvilket fargeskjema du vil bruke for disse nettstedene.
@@ -576,6 +584,9 @@ download-save-files-header =
     .label = Lagre filer i
 download-save-where-3 =
     .aria-label = Lagre filer i
+download-always-ask-where2 =
+    .label = Spør hvor filer skal lagres før nedlasting
+    .accesskey = S
 downloads-header-2 =
     .label = Nedlastinger
 download-save-where-2 =
@@ -2498,6 +2509,11 @@ preferences-connection-link-button =
 desktop-folder-name = Skrivebord
 downloads-folder-name = Nedlastinger
 choose-download-folder-title = Velg nedlastingsmappe:
+
+## Appearance page
+
+related-settings-home-link =
+    .label = Tilpass { -firefox-home-brand-name }
 
 ## AI controls page
 

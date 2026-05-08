@@ -977,3 +977,27 @@ newtab-clock-widget-button-cancel = Avbryt
 newtab-clock-widget-button-back =
     .title = Tilbake
     .aria-label = Tilbake
+newtab-clock-widget-button-edit-clock =
+    .title = Rediger klokke
+    .aria-label = Rediger klokke
+newtab-clock-widget-button-save = Lagre
+newtab-clock-widget-button-remove-clock =
+    .title = Fjern klokke
+    .aria-label = Fjern klokke
+newtab-clock-widget-add-clock-form =
+    .aria-label = Legg til klokke
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Rediger klokke
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Søkeresultat
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Åpne klokkemeny
+    .aria-label = Åpne klokkemeny
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Kallenavn: { $nickname }
