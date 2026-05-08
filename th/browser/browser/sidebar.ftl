@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = จัดการการตั้งค่า { -brand-short-name }
 sidebar-vertical-tabs =
     .label = แท็บแนวตั้ง
+sidebar-settings2 =
+    .label = การตั้งค่า
 sidebar-settings =
     .label = การตั้งค่าแถบข้าง
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ขยายแถบข้างเมื่อเลื่อนเมาส์ไปวางแช่
+sidebar-manage-extensions2 = จัดการส่วนขยายทั้งหมด
 sidebar-manage-extensions = จัดการส่วนขยาย
+sidebar-customize-extensions-header2 = ส่วนขยาย
+sidebar-customize-firefox-tools-header2 =
+    .label = เครื่องมือ
 
 ## Labels for sidebar context menu items
 
