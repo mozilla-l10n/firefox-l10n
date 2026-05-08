@@ -890,6 +890,8 @@ newtab-widget-timer-celebration-message-break = Klar for å fokusere?
 newtab-sports-widget-menu-follow-teams = Følg lag
 newtab-sports-widget-menu-view-upcoming = Vis komande
 newtab-sports-widget-menu-view-results = Vis resultat
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Viktige datoar
 newtab-sports-widget-menu-learn-more = Les meir
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Følg med på VM
@@ -916,6 +918,8 @@ newtab-sports-widget-live = DIREKTE
 newtab-custom-widget-live-refresh =
     .title = Oppdater poeng
     .aria-label = Oppdater poeng
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Viktige datoar
 newtab-sports-widget-upcoming = Komande
 newtab-sports-widget-results = Resultat
 newtab-sports-widget-semi-finals = Semifinalar
@@ -963,6 +967,8 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 newtab-clock-widget-menu-hide = Skjul klokke
 newtab-clock-widget-menu-learn-more = Les meir
 newtab-clock-widget-menu-edit = Rediger klokker
+newtab-clock-widget-menu-switch-to-12h = Byt til 12-timars format
+newtab-clock-widget-menu-switch-to-24h = Byt til 24-timars format
 newtab-clock-widget-label-your-clocks = Dine klokker
 newtab-clock-widget-search-location-input =
     .label = Plassering

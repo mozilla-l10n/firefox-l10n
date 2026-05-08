@@ -2504,6 +2504,8 @@ choose-download-folder-title = Vel nedlastingsmappe:
 
 preferences-appearance-header =
     .heading = Utsjånad
+browser-theme-manage-link =
+    .label = Handsam { -brand-short-name }-tema
 related-settings-group =
     .label = Liknande innstillingar
 related-settings-home-link =
