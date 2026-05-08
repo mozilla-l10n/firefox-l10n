@@ -342,6 +342,12 @@ browser-layout-show-sidebar-desc = Benaderje fluch blêdwizers, ljepblêden fan 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Taal en úterlik
+appearance-group2 =
+    .label = Uterlik fan de website
+    .description = Guon websites wizigje harren kleuren om har oan jo foarkarren oan te passen. Kies jo kleureskema.
+preferences-web-appearance-choice-auto3 =
+    .label = Systeem
+    .title = Automatysk website-eftergrûnen en ynhâld wizigje op basis fan jo systeemynstellingen en { -brand-short-name }-tema.
 appearance-group =
     .label = Uterlik fan de website
     .description = Guon websites passe harren kleureskema oan op basis fan jo foarkarren. Kies hokker kleureskema jo foar dy websites brûke wolle.
@@ -578,6 +584,12 @@ download-save-files-header =
     .label = Bestannen bewarje yn
 download-save-where-3 =
     .aria-label = Bestannen bewarje yn
+download-always-ask-where2 =
+    .label = Freegje wêr’t bestannen bewarre moatte wurde foar it downloaden.
+    .accesskey = F
+download-private-browsing-delete2 =
+    .label = Downloads fan priveefinsters út by sluten fuortsmite
+    .accesskey = D
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -608,6 +620,9 @@ applications-setting =
     .description = Kieze hoe’t { -brand-short-name } omgiet mei de bestannen dy’t jo fan it web downloade of de tapassingen dy’t jo wylst it sneupen brûke.
 applications-header = Applikaasjes
 applications-description = Kieze hoe’t { -brand-short-name } omgiet mei de bestannen dy’t jo fan it web downloade of de tapassingen dy’t jo wylst it sneupen brûke.
+applications-setting2 =
+    .label = Bestannen en tapassingen
+    .description = Kies hoe { -brand-short-name } omgiet mei downloade bestannen en ynhâld.
 applications-filter =
     .placeholder = Bestânstypen of tapassingen sykje
 applications-type-column =
@@ -687,8 +702,14 @@ applications-handle-new-file-types-description = Wat moat { -brand-short-name } 
 applications-save-for-new-types =
     .label = Bestannen bewarje
     .accesskey = b
+applications-save-for-new-types2 =
+    .label = Bestannen automatysk bewarje
+    .accesskey = w
 applications-ask-before-handling =
     .label = Freegje oft bestannen iepene of bewarre wurde moatte
+    .accesskey = F
+applications-ask-before-handling2 =
+    .label = Freegje om bestannen te iepenjen of te bewarjen
     .accesskey = F
 drm-group =
     .label = Digital Rights Management (DRM)-ynhâld
@@ -1051,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Klok
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } stypje
@@ -2170,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Tastimmingen
     .description = Beheare hokker websites benaderje, oanstjoere of starte kinne.
+permissions-data-section =
+    .heading = Tastimmingen en gegevens
+pane-permissions-data-title = Tastimmingen en gegevens
 
 ## Privacy Section - Data Collection
 
@@ -2500,6 +2527,22 @@ preferences-connection-link-button =
 desktop-folder-name = Búroblêd
 downloads-folder-name = Myn downloads
 choose-download-folder-title = Downloadmap kieze:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Uterlik
+browser-theme-group =
+    .label = Browsertema
+    .description = Jou { -brand-short-name } jo eigen styl. Temakleuren binne fan tapassing op wurkbalken, menu’s en berjochten.
+browser-theme-manage-link =
+    .label = { -brand-short-name }-tema’s beheare
+related-settings-group =
+    .label = Relatearre ynstellingen
+related-settings-accessibility-link =
+    .label = Ynstellingen foar zoomen en lettertype oanpasse yn Tagonklikheid
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } oanpasse
 
 ## AI controls page
 

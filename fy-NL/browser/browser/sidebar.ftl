@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = { -brand-short-name }-ynstellingen beheare
 sidebar-vertical-tabs =
     .label = Fertikale ljepblêden
+sidebar-settings2 =
+    .label = Ynstellingen
 sidebar-settings =
     .label = Sidebalke-ynstellingen
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Sydbalke by oanwizen útklappe
+sidebar-manage-extensions2 = Alle útwreidingen beheare
 sidebar-manage-extensions = Utwreidingen beheare
+sidebar-customize-extensions-header2 = Utwreidingen
+sidebar-customize-firefox-tools-header2 =
+    .label = Ark
 
 ## Labels for sidebar context menu items
 

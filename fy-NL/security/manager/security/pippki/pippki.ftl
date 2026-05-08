@@ -101,6 +101,11 @@ set-password-repeat-backup-pw =
     .value = Wachtwurd foar de reservekopy fan it sertifikaat (opnij):
 set-password-reminder = Wichtich: as jo jo wachtwurd foar de reservekopy fan it sertifikaat ferjitte, kinne jo dizze reservekopy letter net ferhelpe.  Bewarje it op in feilich plak.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Beskerme autentikaasje
+
 ## Protected authentication alert
 
 # Variables:
