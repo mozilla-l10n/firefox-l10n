@@ -8,7 +8,7 @@
 
 content-sharing-modal-more-tabs =
     { $count ->
-        [zero] +{ $count } arall
+        [zero] +{ $count } eraill
         [one] +{ $count } arall
         [two] +{ $count } arall
         [few] +{ $count } arall

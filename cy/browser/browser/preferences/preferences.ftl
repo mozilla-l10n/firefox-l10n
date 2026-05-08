@@ -599,6 +599,9 @@ download-save-where-3 =
 download-always-ask-where2 =
     .label = Gofyn ble i gadw ffeiliau cyn eu llwytho i lawr
     .accesskey = G
+download-private-browsing-delete2 =
+    .label = Dileu llwytho i lawr ffenestr preifat wrth gau
+    .accesskey = l
 downloads-header-2 =
     .label = Llwythi i lawr
 download-save-where-2 =
@@ -629,6 +632,9 @@ applications-setting =
     .description = Dewiswch sut mae { -brand-short-name } yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r we neu'r rhaglenni rydych yn eu defnyddio wrth bori.
 applications-header = Rhaglenni
 applications-description = Dewiswch sut mae { -brand-short-name } yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r we neu'r rhaglenni rydych yn eu defnyddio wrth bori.
+applications-setting2 =
+    .label = Ffeiliau a Rhaglenni
+    .description = Dewis sut fydd { -brand-short-name } yn trin ffeiliau wedi'u llwytho i lawr a chynnwys.
 applications-filter =
     .placeholder = Chwilio'r mathau o ffeil neu raglenni
 applications-type-column =
@@ -708,8 +714,14 @@ applications-handle-new-file-types-description = Beth ddylai { -brand-short-name
 applications-save-for-new-types =
     .label = Cadw'r ffeiliau
     .accesskey = f
+applications-save-for-new-types2 =
+    .label = Cadw ffeiliau'n awtomatig
+    .accesskey = a
 applications-ask-before-handling =
     .label = Gofyn a ydych am agor neu gadw ffeiliau
+    .accesskey = G
+applications-ask-before-handling2 =
+    .label = Gofyn i agor neu gadw ffeiliau
     .accesskey = G
 drm-group =
     .label = Cynnwys Rheoli Hawliau Digidol (DRM)
@@ -1072,6 +1084,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Chwaraeon
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Cloc
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Cefnogi { -brand-product-name }
@@ -2195,6 +2210,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Caniatâd
     .description = Rheoli beth mae gwefannau'n gallu cael mynediad iddo, rheoli neu gychwyn.
+permissions-data-section =
+    .heading = Caniatâd a data
+pane-permissions-data-title = Caniatâd a data
 
 ## Privacy Section - Data Collection
 
@@ -2525,6 +2543,11 @@ preferences-connection-link-button =
 desktop-folder-name = Bwrdd Gwaith
 downloads-folder-name = Llwythi i lawr
 choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Gwedd
 
 ## AI controls page
 
