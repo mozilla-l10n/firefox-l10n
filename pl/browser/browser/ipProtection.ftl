@@ -32,6 +32,8 @@ ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z n
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Korzystasz z publicznej sieci Wi-Fi? Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród 5 położeń, aby ukryć miejsce, z którego przeglądasz Internet.
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
 ipprotection-feature-introduction-button-primary = Dalej
 ipprotection-feature-introduction-button-secondary-not-now = Nie teraz
@@ -46,6 +48,8 @@ ipprotection-site-settings-callout-button = OK
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Nowość: zmień swoje położenie
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> umożliwia wybór spośród 5 położeń, albo możemy wybrać najszybsze dla Ciebie.
 ipprotection-location-selection-callout-primary-button = Wypróbuj
 ipprotection-location-selection-callout-secondary-button = Zamknij
 
@@ -54,6 +58,8 @@ ipprotection-location-selection-callout-secondary-button = Zamknij
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ukryj swoje położenie</a> podczas przeglądania Internetu w { -brand-product-name(case: "loc") }.
+unauthenticated-private-location-message = Pomaga <a data-l10n-name="learn-more-vpn">ukryć Twoje położenie</a> w { -brand-product-name(case: "loc") }.
+unauthenticated-choose-location-message = Wybierz spośród 5 położeń lub pozwól { -brand-product-name(case: "dat") } wybrać najszybsze.
 unauthenticated-hide-location-message-2 = Ukryj swoje położenie podczas przeglądania Internetu w { -brand-product-name(case: "loc") }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
