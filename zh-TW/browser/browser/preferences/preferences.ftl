@@ -330,6 +330,12 @@ browser-layout-show-sidebar-desc = 不用離開主畫面就能快速開啟書籤
 ## General Section - Language & Appearance
 
 language-and-appearance-header = 語言與外觀
+appearance-group2 =
+    .label = 網站外觀
+    .description = 某些網站可依照您的偏好來調整顯示配色，請選擇您偏好的配色模式。
+preferences-web-appearance-choice-auto3 =
+    .label = 系統
+    .title = 自動依照您的系統設定與 { -brand-short-name } 佈景主題來調整網站背景與內容。
 appearance-group =
     .label = 網站外觀
     .description = 某些網站可依照您的偏好來調整顯示配色，可在此決定要針對這些網站使用哪種配色模式。
@@ -602,6 +608,9 @@ applications-setting =
     .description = 選擇 { -brand-short-name } 要如何處理您上網時下載的檔案。
 applications-header = 應用程式
 applications-description = 選擇 { -brand-short-name } 要如何處理您上網時下載的檔案。
+applications-setting2 =
+    .label = 檔案與應用程式
+    .description = 選擇 { -brand-short-name } 要如何處理下載的檔案與內容。
 applications-filter =
     .placeholder = 搜尋檔案類型或應用程式
 applications-type-column =
