@@ -983,3 +983,45 @@ newtab-clock-widget-search-location-input =
     .label = ตำแหน่งที่ตั้ง
     .placeholder = ค้นหาเมือง
     .aria-label = ค้นหาเมือง
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = ชื่อเล่น (ไม่บังคับ)
+    .placeholder = เพิ่มชื่อเล่น
+    .aria-label = ชื่อเล่น (ไม่บังคับ)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = เพิ่มนาฬิกาใหม่
+    .aria-label = เพิ่มนาฬิกาใหม่
+newtab-clock-widget-button-add-clock = เพิ่ม
+newtab-clock-widget-button-cancel = ยกเลิก
+newtab-clock-widget-button-back =
+    .title = ย้อนกลับ
+    .aria-label = ย้อนกลับ
+newtab-clock-widget-button-edit-clock =
+    .title = แก้ไขนาฬิกา
+    .aria-label = แก้ไขนาฬิกา
+newtab-clock-widget-button-save = บันทึก
+newtab-clock-widget-button-remove-clock =
+    .title = เอานาฬิกาออก
+    .aria-label = เอานาฬิกาออก
+newtab-clock-widget-add-clock-form =
+    .aria-label = เพิ่มนาฬิกา
+newtab-clock-widget-edit-clock-form =
+    .aria-label = แก้ไขนาฬิกา
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = ผลการค้นหา
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = เปิดเมนูสำหรับนาฬิกา
+    .aria-label = เปิดเมนูสำหรับนาฬิกา
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = ชื่อเล่น: { $nickname }

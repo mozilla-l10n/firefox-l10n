@@ -90,6 +90,7 @@ experimental-features-newtab-widget-picture-of-the-day-description = Dodaj odrob
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Zegary
+experimental-features-newtab-widget-clocks-description = Do czterech zegarów z własnymi nazwami, aby pilnować czasu w miejscach, które są dla Ciebie ważne. <a data-l10n-name="connect">Podziel się opinią</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantyczne wyszukiwanie w historii

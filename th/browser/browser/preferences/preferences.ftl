@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = เกี่ยวกับ { -brand-short-name }
     .title = { pane-about-firefox-title }
+pane-appearance-title = รูปลักษณ์
+    .title = { pane-appearance-title }
+pane-downloads-title = ดาวน์โหลด
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = การช่วยเข้าถึง
     .title = { pane-accessibility-title }
 pane-languages-title = ภาษา
@@ -325,6 +330,12 @@ browser-layout-show-sidebar-desc = เข้าถึงที่คั่นห
 ## General Section - Language & Appearance
 
 language-and-appearance-header = ภาษาและรูปลักษณ์
+appearance-group2 =
+    .label = รูปลักษณ์ของเว็บไซต์
+    .description = บางเว็บไซต์เปลี่ยนสีเพื่อให้เข้ากับค่าปรับแต่งของคุณ เลือกแบบแผนชุดสีของคุณ
+preferences-web-appearance-choice-auto3 =
+    .label = ระบบ
+    .title = เปลี่ยนพื้นหลังเว็บไซต์และเนื้อหาโดยอัตโนมัติตามการตั้งค่าระบบของคุณและธีม { -brand-short-name }
 appearance-group =
     .label = รูปลักษณ์ของเว็บไซต์
     .description = บางเว็บไซต์ปรับโทนสีตามค่าปรับแต่งของคุณ เลือกชุดสีที่คุณต้องการใช้สำหรับไซต์เหล่านั้น
@@ -561,6 +572,12 @@ download-save-files-header =
     .label = บันทึกไฟล์ไปยัง
 download-save-where-3 =
     .aria-label = บันทึกไฟล์ไปยัง
+download-always-ask-where2 =
+    .label = ถามตำแหน่งที่จะบันทึกไฟล์ก่อนดาวน์โหลด
+    .accesskey = ถ
+download-private-browsing-delete2 =
+    .label = ลบไฟล์ดาวน์โหลดของหน้าต่างส่วนตัวเมื่อปิด
+    .accesskey = ล
 downloads-header-2 =
     .label = การดาวน์โหลด
 download-save-where-2 =
@@ -591,6 +608,9 @@ applications-setting =
     .description = เลือกวิธีที่ { -brand-short-name } จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือแอปพลิเคชันที่คุณใช้ขณะเรียกดู
 applications-header = แอปพลิเคชัน
 applications-description = เลือกวิธีที่ { -brand-short-name } จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือแอปพลิเคชันที่คุณใช้ขณะเรียกดู
+applications-setting2 =
+    .label = ไฟล์และแอปพลิเคชัน
+    .description = เลือกวิธีที่ { -brand-short-name } ใช้จัดการไฟล์และเนื้อหาที่ถูกดาวน์โหลด
 applications-filter =
     .placeholder = ค้นหาชนิดไฟล์หรือแอปพลิเคชัน
 applications-type-column =
@@ -670,9 +690,15 @@ applications-handle-new-file-types-description = { -brand-short-name } ควร
 applications-save-for-new-types =
     .label = บันทึกไฟล์
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = บันทึกไฟล์อัตโนมัติ
+    .accesskey = บ
 applications-ask-before-handling =
     .label = ถามว่าจะเปิดหรือบันทึกไฟล์
     .accesskey = A
+applications-ask-before-handling2 =
+    .label = ถามเพื่อเปิดหรือบันทึกไฟล์
+    .accesskey = ถ
 drm-group =
     .label = เนื้อหา Digital Rights Management (DRM)
 drm-content-header = เนื้อหา Digital Rights Management (DRM)
@@ -1034,6 +1060,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = กีฬา
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = นาฬิกา
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = ร่วมสนับสนุน { -brand-product-name }
@@ -2149,6 +2178,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = การอนุญาต
     .description = จัดการว่าเว็บไซต์อะไรบ้างสามารถเข้าถึง ควบคุม หรือกระตุ้นการทำงานได้
+permissions-data-section =
+    .heading = การกำหนดสิทธิ์และข้อมูล
+pane-permissions-data-title = การกำหนดสิทธิ์และข้อมูล
 
 ## Privacy Section - Data Collection
 
@@ -2479,6 +2511,11 @@ preferences-connection-link-button =
 desktop-folder-name = เดสก์ท็อป
 downloads-folder-name = การดาวน์โหลด
 choose-download-folder-title = เลือกโฟลเดอร์การดาวน์โหลด:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = รูปลักษณ์
 
 ## AI controls page
 
