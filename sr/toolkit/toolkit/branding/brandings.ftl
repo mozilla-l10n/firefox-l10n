@@ -286,3 +286,7 @@
     }
     .gender = masculine
     .declinable = true
+
+-thunderbird-brand-short-name = Thunderbird
+
+-thunderbird-brand-name = Mozilla Thunderbird
