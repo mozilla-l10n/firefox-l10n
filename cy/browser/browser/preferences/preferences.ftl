@@ -2548,6 +2548,17 @@ choose-download-folder-title = Dewis Ffolder Llwytho i Lawr:
 
 preferences-appearance-header =
     .heading = Gwedd
+browser-theme-group =
+    .label = Thema Porwr
+    .description = Lliwiwch { -brand-short-name } fel rydych chi'n ei hoffi. Mae lliwiau thema'n ymddangos ar farrau offer, dewislenni a negeseuon..
+browser-theme-manage-link =
+    .label = Rheoli themâu { -brand-short-name }
+related-settings-group =
+    .label = Gosodiadau cysylltiedig
+related-settings-accessibility-link =
+    .label = Cyfaddasu gosodiadau chwyddo a ffont yn Hygyrchedd
+related-settings-home-link =
+    .label = Cyfaddasu { -firefox-home-brand-name }
 
 ## AI controls page
 

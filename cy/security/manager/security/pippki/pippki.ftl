@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Cyfrinair y dystysgrif wrth gefn (eto):
 set-password-reminder = Pwysig: Os byddwch yn anghofio eich cyfrinair diogelwch cludadwy, ni fydd modd i chi adfer y ffeil wrth gefn yma eto.  Cofnodwch hwn mewn man diogel.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Dilysiad Gwarchodedig
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Dilyswch i'r ddyfais ddiogelwch ( { $tokenName } ). Mae sut i wneud hynny yn dibynnu ar y ddyfais (er enghraifft, defnyddio darllenydd olion bysedd neu nodi cod gyda bysellbad).
+
 ## Protected authentication alert
 
 # Variables:

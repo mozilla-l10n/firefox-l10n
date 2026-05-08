@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Rheoli gosodiadau { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Tabiau fertigol
+sidebar-settings2 =
+    .label = Gosodiadau
 sidebar-settings =
     .label = Gosodiadau bar ochr
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Ehangu'r bar ochr wrth hofran
+sidebar-manage-extensions2 = Rheoli pob estyniad
 sidebar-manage-extensions = Rheoli Estyniadau
+sidebar-customize-extensions-header2 = Estyniadau
+sidebar-customize-firefox-tools-header2 =
+    .label = Offer
 
 ## Labels for sidebar context menu items
 
