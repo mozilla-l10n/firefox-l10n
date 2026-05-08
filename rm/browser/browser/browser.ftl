@@ -541,6 +541,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Ti n'es betg collià a moda segira cun questa website.
 identity-connection-verified = Ti es collià a moda segira cun questa website.
 identity-ev-owner-label = Certificat emess per:
+identity-verifier-label = Verifitgà da:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Qualifitgà confurm a l’ordinaziun (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla na renconuscha betg l'emettur da quest certificat. Eventualmain è el vegnì agiuntà da tes sistem operativ u dad in administratur.
@@ -1003,6 +1004,7 @@ urlbar-searchmode-popup-one-off-header = Per questa giada, tschertgar cun:
 # reset after submitting.
 urlbar-searchmode-popup-header = Tschertgar cun:
 urlbar-searchmode-popup-search-settings-panelitem = Parameters da tschertga
+urlbar-searchmode-popup-settings-panelitem = Parameters
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".

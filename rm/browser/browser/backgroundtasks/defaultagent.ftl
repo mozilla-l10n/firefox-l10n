@@ -6,4 +6,5 @@ default-browser-agent-task-description = L'incumbensa «default browser agent» 
 default-browser-notification-header-text = Vinavant utilisar { -brand-short-name }?
 default-browser-notification-body-text = Tes navigatur da standard è vegnì midà dacurt. Tutga per restaurar { -brand-short-name } sco predefinì.
 default-browser-notification-yes-button-text = Gea
+default-browser-notification-privacy-no-button-text = Na, grazia
 default-browser-notification-no-button-text = Na
