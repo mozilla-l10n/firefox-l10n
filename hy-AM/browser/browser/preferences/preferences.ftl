@@ -66,14 +66,20 @@ category-ai-controls =
 pane-appearance-title = Տեսք
     .title = { pane-appearance-title }
 pane-downloads-title = Ներբեռնումներ
+pane-downloads =
+    .heading = { pane-downloads-title }
 category-languages =
     .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name } Փորձեր
 category-experimental =
     .tooltiptext = { -brand-short-name } Փորձեր
 pane-experimental-subtitle = Շարունակեք զգուշորեն
 pane-experimental-search-results-header = { -brand-short-name }-ի փորձեր. զգուշությամբ շարունակեք
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Փորձեք մեր փորձարարական գործառույթները։ Դրանք մշակման փուլում են և զարգանում են, ինչը կարող է ազդել { -brand-short-name }-ի աշխատանքի վրա։ Մենք այս գործառույթների ձեր օգտագործման վերաբերյալ տվյալներ ենք ստանում միայն այն դեպքում, եթե միացված են <a data-l10n-name="data-collection">տեխնիկական և փոխազդեցության տվյալները</a>։
@@ -87,6 +93,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = Փակել
+do-not-track-removal2 =
+    .label = Մենք այլևս չենք աջակցում «Չհետևել» ազդանշանը
 applications-setting-new-file-types =
     .label = Ի՞նչ պետք է անի { -brand-short-name }-­ն այլ ֆայլերի հետ:
 
@@ -430,6 +438,11 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Վերամեկնարկեք { -brand-short-name }-ը՝ փոփոխությունները գործադրելու համար
 confirm-browser-language-change-button = Գործադրել և վերամեկնարկել
+browser-language-heading =
+    .label = Դիտարկիչի լեզուն
+    .description = Ընտրեք լեզուն, որով կցուցադրվեն ցանկերը, ւողերձները և ծանուցումները { -brand-short-name }-ում:
+browser-language-preferred-label =
+    .label = Նախընտրելի լեզու
 browser-language-install-error =
     .message = { -brand-short-name }-ը չի կարող արդիացնել ձեր լեզուները հիմա: Ստուգեք՝ արդյոք կապակցված եք համացանցին և կրկին փորձեք:
 translate-web-pages =
@@ -513,6 +526,8 @@ settings-spellcheck-header =
 check-user-spelling =
     .label = Տեքստ մուտքագրելիս ստուգել ուղղագրությունը
     .accesskey = մ
+spellcheck-download-dictionaries =
+    .label = Ներբեռնել բառարաններ
 spellcheck-promo =
     .heading = Ինչպես օգտագործել ուղղագրության ստուգումը
     .message = Ուղղագրության ստուգումը միացնելու կամ անջատելու, կամ լեզուն փոխելու համար տեքստային դաշտի վրա սեղմեք աջ կոճակը։ Ոչ բոլոր դաշտերն են աջակցում ուղղագրության ստուգումը։
@@ -651,6 +666,8 @@ update-application-version = Տարբերակ { $version } <a data-l10n-name="le
 update-history-2 =
     .label = Ցուցադրել Թարմացումների Պատմությունը
     .accesskey = ա
+update-application-installation =
+    .label = Տեղադրում
 update-history =
     .label = Ցուցադրել Թարմացումների Պատմությունը...
     .accesskey = ա
@@ -691,6 +708,16 @@ update-in-progress-ok-button = &Հրաժարվել
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Շարունակել
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name }-ի մասին
+
+## Firefox updates
+
+update-application-suppress-prompts-heading =
+    .label = Ծանուցումներ
 
 ## Firefox support
 
@@ -773,6 +800,13 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Իմանալ ավելին
 browsing-group =
     .label = Դիտարկում
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Մատչելիություն
+preferences-default-zoom-select =
+    .aria-label = Սկզբնադիր դիտափոխում
 
 ## General Section - Proxy
 
