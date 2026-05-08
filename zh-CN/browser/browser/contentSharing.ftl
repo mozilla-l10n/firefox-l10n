@@ -7,8 +7,12 @@
 ##   $count (number) - The number of tabs
 
 content-sharing-tabs-title = { $count } 个标签页
+content-sharing-modal-view-page =
+    .label = 查看页面
 content-sharing-modal-copy-link =
     .label = 复制链接
+content-sharing-modal-link-copied =
+    .label = 链接已复制
 content-sharing-modal-sign-in =
     .label = 登录以分享链接
 content-sharing-modal-description = 为这些链接创建公开页面，以便分享。页面创建后，不能再编辑或删除，并将在 7 天后失效。
