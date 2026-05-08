@@ -74,6 +74,12 @@ more-from-moz-firefox-mobile-email-link = Жүктеп алу сілтемесі
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Жеке ақпаратыңыздың желіде қай жерде ашылып қалғанын тегін сканерлеу арқылы біліңіз.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Барлық қолданбалар үшін қосымша қорғанысқа ие болыңыз — тек браузер үшін ғана емес. Деректеріңізді ашық Wi-Fi және қауіпсіз емес желілерде қауіпсіз сақтаңыз.
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } алу
 more-from-moz-mozilla-vpn-box-link =
