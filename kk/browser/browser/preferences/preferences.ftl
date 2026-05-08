@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } туралы
     .title = { pane-about-firefox-title }
+pane-appearance-title = Сыртқы түрі
+    .title = { pane-appearance-title }
+pane-downloads-title = Жүктемелер
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Қолжетімділік
     .title = { pane-accessibility-title }
 pane-languages-title = Тілдер
@@ -744,6 +749,9 @@ update-application-background-enabled =
     .accesskey = р
 update-application-warning-cross-user-setting-2 =
     .message = Бұл баптау бұл { -brand-short-name } орнатуын қолдатын барлық Windows тіркелгілері және { -brand-short-name } профильдері үшін іске асады.
+update-application-suppress-prompts-2 =
+    .label = Жаңарту ескертулерін азырақ көрсету
+    .accesskey = т
 update-application-warning-cross-user-setting = Бұл баптау бұл { -brand-short-name } орнатуын қолдатын барлық Windows тіркелгілері және { -brand-short-name } профильдері үшін іске асады.
 update-application-use-service =
     .label = Жаңартуларды орнату үшін фон қызметін қолдану
@@ -774,8 +782,13 @@ about-firefox-header =
 
 ## Firefox updates
 
+update-application-heading =
+    .label = { -brand-short-name } жаңартулары
+    .description = Жаңартулар { -brand-short-name } жылдамдығы, тұрақтылығы және қауіпсізідігін жақсартады.
 update-application-suppress-prompts-heading =
     .label = Ескертулер
+update-application-updates-managed-by-os =
+    .message = Жаңартулар сіздің операциялық жүйеңізбен басқарылады
 
 ## Firefox support
 
@@ -817,6 +830,8 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Автоматты айналдыруды қолдану
     .accesskey = в
+keyboard-and-scrolling-group =
+    .label = Пернетақтамен навигациялау және айналдыру
 motion-and-link-group =
     .label = Қозғалыс және сілтеме стильдері
 browsing-use-smooth-scrolling =
@@ -1073,6 +1088,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Тұсқағазды таңдау
 home-prefs-choose-wallpaper-link2 =
     .label = Тұсқағазды таңдау
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Бұл мүмкіндіктерді пайдалану үшін жаңа беттерді немесе жаңа терезелерді { -firefox-home-brand-name } күйіне орнатыңыз.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1600,6 +1620,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Көбірек білу
 forms-windows-sso-desc = Тіркелгілерді құрылғыңыздың баптауларында басқарыңыз
 windows-passkey-settings-label = Қол жеткізу кілттерін жүйе баптауларында басқару
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Жекелік панель баптаулары
+    .description = { -brand-short-name } ішінде жеке ақпаратыңызды желіде қорғау бойынша көмек алыңыз.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Бұзушылық туралы хабарламаларды көрсету
+    .accesskey = с
 
 ## OS Authentication dialog
 
@@ -2163,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Рұқсаттар
     .description = Веб-сайттардың неге қол жеткізе алатынын, нені басқара алатынын немесе іске қоса алатынын басқару.
+permissions-data-section =
+    .heading = Рұқсаттар мен деректер
+pane-permissions-data-title = Рұқсаттар мен деректер
 
 ## Privacy Section - Data Collection
 
@@ -2216,6 +2250,10 @@ collection-backlogged-crash-reports2 =
     .label = Құлау хабарламаларын автоматты түрде жіберу
     .accesskey = л
 collection-backlogged-crash-reports-description = Бұл { -vendor-short-name } үшін браузердегі ақауларды диагностикалауға және түзетуге мүмкіндік береді. Есептемелер жеке немесе сезімтал деректерді қамтуы мүмкін.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Бұрынғы баптаулар, жаңа көрініс!
+    .message = Бұл бетті сканерлеу және зерттеу оңайырақ болуы үшін қайта ұйымдастырдық. Жеке баптауларыңыз өзгерген жоқ және барлығы әлі де осында. Кеңес: қажет нәрсеге бірден өту үшін іздеуді пайдаланыңыз.
 settings-redesign-promo-dismiss-button =
     .label = Түсіндім
 addon-recommendations =
@@ -2476,6 +2514,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Байланыс және бағдарламалық қамтама қауіпсіздігі
+preferences-connection-link-section =
+    .label = Байланыс және бағдарламалық қамтама қауіпсіздігі
+    .description = Байланыстардың қалай қауіпсіз қалатынын, зиянды бағдарламалардың қалай бұғатталатынын және веб-сайттардың қалай тексерілетінін көріңіз.
 preferences-connection-link-button =
     .label = Кеңейтілген баптаулар
 
