@@ -1050,3 +1050,23 @@ newtab-clock-widget-button-edit-clock =
     .title = Upravit hodiny
     .aria-label = Upravit hodiny
 newtab-clock-widget-button-save = Uložit
+newtab-clock-widget-button-remove-clock =
+    .title = Odebrat hodiny
+    .aria-label = Odebrat hodiny
+newtab-clock-widget-add-clock-form =
+    .aria-label = Přidat hodiny
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Upravit hodiny
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Výsledky vyhledávání
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Otevřít nabídku pro hodiny
+    .aria-label = Otevřít nabídku pro hodiny
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Přezdívka: { $nickname }

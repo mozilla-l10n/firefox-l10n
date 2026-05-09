@@ -55,7 +55,7 @@ neterror-dns-not-found-hint-try-again = Tornâ a provâ plui indenant
 neterror-dns-not-found-hint-check-network = Controlâ la conession di rêt
 neterror-dns-not-found-hint-firewall = Controlâ che { -brand-short-name } al vedi i permès par lâ sul web (tu podaressis jessi conetût ma daûr di un firewall)
 neterror-dns-not-found-offline-hint-header = <strong>Ce puedio fâ par risolvi?</strong>
-neterror-dns-not-found-offline-hint-different-device = Prove a conetiti doprant un altri dispositîf.
+neterror-dns-not-found-offline-hint-different-device = Prove a colegâti doprant un altri dispositîf.
 neterror-dns-not-found-offline-hint-modem = Controle il modem o il router.
 neterror-dns-not-found-offline-hint-reconnect = Disconetiti e torne conetiti al Wi-Fi.
 
@@ -170,7 +170,7 @@ neterror-response-status-code = Codiç di erôr: { $responsestatus } { $response
 
 ## Felt Privacy V1 Strings
 
-fp-neterror-offline-body-title = Al somee che al sedi presint un probleme cu la conession a internet
+fp-neterror-offline-body-title = Al somee che tu vedis un probleme cu la conession a internet
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

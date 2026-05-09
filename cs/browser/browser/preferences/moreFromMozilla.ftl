@@ -30,6 +30,9 @@ more-from-moz-subtitle =
 more-from-moz-firefox-mobile-title = { -brand-product-name } pro mobily
 more-from-moz-firefox-mobile-description = Mobilní prohlížeč, který klade důraz na vaše soukromí.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pro mobily
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } pro mobily
+    .description = Mobilní prohlížeč, pro který je vaše soukromí na prvním místě.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Objevte přidanou vrstvu anonymního prohlížení a ochrany.
 more-from-moz-qr-code-box-firefox-mobile-title = Pro stažení do svého mobilního zařízení namiřte fotoaparát na QR kód. Poté klepněte na odkaz, který se objeví.
@@ -73,6 +76,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
 more-from-moz-thunderbird-description = E-mail, kalendář a kontakty zdarma – uspořádané podle vašich představ.
+more-from-moz-thunderbird-button = Získat { -thunderbird-brand-short-name }
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
