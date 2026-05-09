@@ -84,6 +84,13 @@ more-from-moz-new-products-title = Nové produkty společnosti { -vendor-short-n
 more-from-moz-new-products-description = Objevte nejnovější produkty od společnosti { -vendor-short-name }.
 more-from-moz-new-products-button = Podívejte se na nové produkty
 
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Naskenujte kód fotoaparátem svého telefonu nebo tabletu a stáhněte si aplikaci. Jakmile se odkaz zobrazí, klepněte na něj.
+more-from-moz-firefox-mobile-email-link = Pošlete odkaz ke stažení na svůj telefon
+
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
