@@ -40,6 +40,8 @@ ipprotection-feature-introduction-title-captive-portal =
         [with-cases] Používáte veřejnou Wi-Fi? Vyzkoušejte vestavěnou síť VPN ve { -brand-product-name(case: "gen") }.
        *[no-cases] Používáte veřejnou Wi-Fi? Vyzkoušejte vestavěnou síť VPN v aplikaci { -brand-product-name }.
     }
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Získejte <a data-l10n-name="learn-more-vpn">větší soukromí</a> výběrem z 5 lokalit a skryjte tak místo, odkud si prohlížíte web.
 ipprotection-feature-introduction-description-captive-portal = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i na veřejných Wi-Fi sítích.
 ipprotection-feature-introduction-button-primary = Další
 ipprotection-feature-introduction-button-secondary-not-now = Teď ne
@@ -55,6 +57,11 @@ ipprotection-site-settings-callout-button = Rozumím
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Novinka: Nastavte si svou polohu
+ipprotection-location-selection-callout-description =
+    { -brand-product-name.case-status ->
+        [with-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN { -brand-product-name(case: "gen") }</a> vám umožňuje vybrat si z 5 lokalit pro prohlížení internetu, nebo nechat nás, abychom za vás vybrali tu nejrychlejší.
+       *[no-cases] <a data-l10n-name="learn-more-vpn">Integrovaná VPN aplikace { -brand-product-name }</a> vám umožňuje vybrat si z 5 lokalit pro prohlížení internetu, nebo nechat nás, abychom za vás vybrali tu nejrychlejší.
+    }
 ipprotection-location-selection-callout-primary-button = Vyzkoušejte ho
 ipprotection-location-selection-callout-secondary-button = Zavřít
 
@@ -70,6 +77,11 @@ unauthenticated-hide-location-message-3 =
     { -brand-product-name.case-status ->
         [with-cases] <a data-l10n-name="learn-more-vpn">Skrýt svou polohu</a> při procházení webu ve { -brand-product-name(case: "loc") }.
        *[no-cases] <a data-l10n-name="learn-more-vpn">Skrýt svou polohu</a> při procházení webu v aplikaci { -brand-product-name }.
+    }
+unauthenticated-private-location-message =
+    { -brand-product-name.case-status ->
+        [with-cases] Při prohlížení ve { -brand-product-name(case: "loc") } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
+       *[no-cases] Při prohlížení v aplikaci { -brand-product-name } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
     }
 unauthenticated-hide-location-message-2 =
     { -brand-product-name.case-status ->
