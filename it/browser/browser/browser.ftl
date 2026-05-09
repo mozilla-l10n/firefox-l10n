@@ -1489,6 +1489,9 @@ reset-pbm-panel-confirm-button =
     .label = Elimina dati della sessione
     .accesskey = E
 reset-pbm-panel-complete = Dati della sessione anonima eliminati
+reset-pbm-toolbar-button2 =
+    .label = Cancella sessione anonima
+    .tooltiptext = Cancella sessione anonima
 
 ## Autorefresh blocker
 
