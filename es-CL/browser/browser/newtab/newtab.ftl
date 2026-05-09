@@ -365,6 +365,8 @@ newtab-custom-widget-timer-toggle =
     .label = Temporizador
 newtab-custom-widget-sports-toggle =
     .label = Copa Mundial
+newtab-custom-widget-clock-toggle =
+    .label = Reloj
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -893,18 +895,36 @@ newtab-widget-timer-celebration-message-break = ¿Listo para enfocarte?
 newtab-sports-widget-menu-follow-teams = Seguir equipos
 newtab-sports-widget-menu-view-upcoming = Ver próximos
 newtab-sports-widget-menu-view-results = Ver resultados
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Fechas clave
 newtab-sports-widget-menu-learn-more = Aprender más
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Mantente al tanto de la Copa Mundial
 newtab-sports-widget-get-updates = Recibe actualizaciones de partidos en directo y mucho más.
 newtab-sports-widget-view-schedule =
     .label = Ver calendarización
 newtab-sports-widget-follow-teams =
     .label = Seguir equipos
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Seguimiento al equipos
+       *[other] Seguimiento a los { $number } equipos
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Elige un fondo de pantalla
 newtab-sports-widget-skip = Saltar
+newtab-sports-widget-search-country =
+    .placeholder = Buscar país
+    .aria-label = Buscar país
+newtab-sports-widget-cancel = Cancelar
 newtab-sports-widget-done-button =
     .label = Hecho
 newtab-sports-widget-group-stage = Fase de grupos
+newtab-sports-widget-round-32 = 16avos de final
+newtab-sports-widget-round-16 = Octavos de final
+newtab-sports-widget-quarter-finals = Cuartos de final
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = EN VIVO
 newtab-custom-widget-live-refresh =
