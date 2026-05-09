@@ -342,6 +342,12 @@ browser-layout-show-sidebar-desc = Acceso rápido a marcadores, pestañas desde 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma y apariencia
+appearance-group2 =
+    .label = Apariencia del sitio web
+    .description = Algunos sitios web cambian sus colores para coincidir con las preferencias. Elija su esquema de color.
+preferences-web-appearance-choice-auto3 =
+    .label = Sistema
+    .title = Cambiar automáticamente fondos y contenido de sitios web basándose en la configuración del sistema y el tema de { -brand-short-name }.
 appearance-group =
     .label = Apariencia del sitio web
     .description = Algunos sitios web adaptan su combinación de colores según las preferencias. Elija qué combinación de colores le gustaría usar para esos sitios.
@@ -575,6 +581,12 @@ download-save-files-header =
     .label = Guardar archivos en
 download-save-where-3 =
     .aria-label = Guardar archivos en
+download-always-ask-where2 =
+    .label = Preguntar dónde guardar archivos antes de descargarlos
+    .accesskey = a
+download-private-browsing-delete2 =
+    .label = Borrar descargas de ventana privada al cerrar
+    .accesskey = d
 downloads-header-2 =
     .label = Descargas
 download-save-where-2 =
@@ -605,6 +617,9 @@ applications-setting =
     .description = Elegir cómo { -brand-short-name } administra los archivos descargados desde la web o las aplicaciones que se usan al navegar.
 applications-header = Aplicaciones
 applications-description = Elegir cómo { -brand-short-name } administra los archivos descargados desde la web o las aplicaciones que se usan al navegar.
+applications-setting2 =
+    .label = Archivos y aplicaciones
+    .description = Seleccionar como { -brand-short-name } maneja los archivos y contenido descargados.
 applications-filter =
     .placeholder = Buscar tipos de archivos o aplicaciones
 applications-type-column =
@@ -684,9 +699,15 @@ applications-handle-new-file-types-description = ¿Qué debería hacer { -brand-
 applications-save-for-new-types =
     .label = Guardar archivos
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = Guardar archivos automáticamente
+    .accesskey = s
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = A
+applications-ask-before-handling2 =
+    .label = Preguntar para abrir o guardar archivos
+    .accesskey = a
 drm-group =
     .label = Contenido con Digital Rights Management (DRM)
 drm-content-header = Contenido con Digital Rights Management (DRM)
@@ -885,6 +906,8 @@ network-proxy-connection-settings2 =
 
 home-new-windows-tabs-header = Nuevas ventanas y pestañas
 home-new-windows-tabs-description2 = Elija lo que se ve al abrir su página principal, ventanas nuevas y nuevas pestañas.
+home-section =
+    .heading = Página de inicio y arranque
 
 ## Home Section - Default Browser
 
@@ -1043,6 +1066,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Deportes
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Reloj
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Ayudar a { -brand-product-name }
@@ -2146,6 +2172,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permisos
     .description = Administrar cuáles sitios pueden acceder, controlar o desencadenar.
+permissions-data-section =
+    .heading = Permisos y datos
+pane-permissions-data-title = Permisos y datos
 
 ## Privacy Section - Data Collection
 
@@ -2468,6 +2497,11 @@ preferences-connection-link-button =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Elegir carpeta para descargas:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Apariencia
 
 ## AI controls page
 
