@@ -2502,6 +2502,14 @@ choose-download-folder-title = Elegir carpeta para descargas:
 
 preferences-appearance-header =
     .heading = Apariencia
+browser-theme-manage-link =
+    .label = Administrar temas de { -brand-short-name }
+related-settings-group =
+    .label = Configuración relacionada
+related-settings-accessibility-link =
+    .label = Personalizar la configuración de zoom y tipografía en Accesibilidad
+related-settings-home-link =
+    .label = Personalizar { -firefox-home-brand-name }
 
 ## AI controls page
 
