@@ -68,8 +68,16 @@ category-sync3 =
 pane-ai-controls-title = Кіраванне штучным інтэлектам
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-downloads-title = Сцягванні
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Даступнасць
     .title = { pane-accessibility-title }
+pane-languages-title = Мовы
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = Эксперыменты { -brand-short-name }
 category-experimental =
     .tooltiptext = Эксперыменты { -brand-short-name }
@@ -77,6 +85,8 @@ pane-experimental-subtitle = Працягвайце з асцярожнасцю
 pane-experimental-search-results-header = Эксперыменты { -brand-short-name }: працягвайце з асцярожнасцю
 pane-experimental-description2 = Змена пашыраных налад канфігурацыі можа паўплываць на прадукцыйнасць і бяспеку { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Паспрабуйце нашы эксперыментальныя функцыі! Яны знаходзяцца ў распрацоўцы і ўдасканальваюцца, што можа ўплываць на працу { -brand-short-name }. Мы атрымліваем дадзеныя аб вашым выкарыстанні гэтых функцый толькі ў тым выпадку, калі ў вас уключаны <a data-l10n-name="data-collection">тэхнічныя звесткі і дадзеныя ўзаемадзеяння</a>.
@@ -463,6 +473,8 @@ manage-browser-languages-button =
     .accesskey = э
 confirm-browser-language-change-description = Перазапусціць { -brand-short-name } для прымянення змен
 confirm-browser-language-change-button = Прымяніць і перастартаваць
+browser-language-preferred-label =
+    .label = Пажаданая мова
 browser-language-install-error =
     .message = { -brand-short-name } не можа абнавіць вашы мовы прама зараз. Праверце сваё злучэнне з інтэрнэтам або паспрабуйце ізноў.
 translate-web-pages =
@@ -693,6 +705,9 @@ update-application-allow-description = Дазволіць { -brand-short-name }
 update-application-auto =
     .label = Аўтаматычна ўсталёўваць абнаўленні (рэкамендуецца)
     .accesskey = А
+update-application-check-choose-2 =
+    .label = Правяраць наяўнасць абнаўленняў, але выбіраць, калі ўсталёўваць
+    .accesskey = с
 update-application-check-choose =
     .label = Правяраць наяўнасць абнаўленняў, але даваць вам выбар, ці ўсталёўваць іх
     .accesskey = П
@@ -704,6 +719,9 @@ update-application-background-enabled =
     .accesskey = К
 update-application-warning-cross-user-setting-2 =
     .message = Гэта налада дзейнічае на ўсе ўліковыя запісы Windows і профілі { -brand-short-name }, якія выкарыстоўваюць усталёўку { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Паказваць менш напамінаў аб абнаўленнях
+    .accesskey = і
 update-application-warning-cross-user-setting = Гэта налада дзейнічае на ўсе ўліковыя запісы Windows і профілі { -brand-short-name }, якія выкарыстоўваюць усталёўку { -brand-short-name }.
 update-application-use-service =
     .label = Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў
@@ -726,6 +744,21 @@ update-in-progress-ok-button = &Адкінуць
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Працягнуць
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Пра { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Абнаўленні { -brand-short-name }
+    .description = Абнаўленні паляпшаюць хуткасць, стабільнасць і бяспеку { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Абвесткі
+update-application-updates-managed-by-os =
+    .message = Абнаўленні кіруюцца вашай аперацыйнай сістэмай
 
 ## Firefox support
 
@@ -1006,6 +1039,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Таймер
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Спорт
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Падтрымаць { -brand-product-name }
