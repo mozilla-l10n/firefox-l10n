@@ -708,6 +708,9 @@ applications-save-for-new-types2 =
 applications-ask-before-handling =
     .label = Preguntar si abrir o guardar archivos
     .accesskey = A
+applications-ask-before-handling2 =
+    .label = Preguntar para abrir o guardar archivos
+    .accesskey = A
 drm-group =
     .label = Contenido con DRM (Gestión de derechos digitales)
 drm-content-header = Contenido con DRM (Gestión de derechos digitales)
@@ -1069,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Deportes
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Reloj
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoyar a { -brand-product-name }
@@ -2188,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permisos
     .description = Gestionar lo que los sitios web pueden acceder, controlar o gatillar.
+permissions-data-section =
+    .heading = Permisos y datos
+pane-permissions-data-title = Permisos y datos
 
 ## Privacy Section - Data Collection
 
@@ -2518,6 +2527,19 @@ preferences-connection-link-button =
 desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Selecciona la carpeta de descarga:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Apariencia
+browser-theme-manage-link =
+    .label = Gestionar temas de { -brand-short-name }
+related-settings-group =
+    .label = Ajustes relacionados
+related-settings-accessibility-link =
+    .label = Personalizar el aumento y la fuente en Accesibilidad
+related-settings-home-link =
+    .label = Personalizar { -firefox-home-brand-name }
 
 ## AI controls page
 
