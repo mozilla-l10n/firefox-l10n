@@ -974,6 +974,9 @@ newtab-sports-widget-final = Finále
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
 newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Zpožděno
 newtab-sports-widget-postponed = Odloženo
 newtab-sports-widget-suspended = Pozastaveno
@@ -982,6 +985,8 @@ newtab-sports-widget-information = Informace o zápase
 newtab-sports-widget-no-live-data = Data o aktuálních zápasech se aktuálně neaktualizují
 newtab-sports-widget-view-results-link = Zobrazit výsledky
 newtab-sports-widget-third-place = Třetí místo
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Druhé místo
 newtab-sports-widget-world-cup-champions = Mistrovství světa ve fotbale 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
@@ -1009,3 +1014,30 @@ newtab-activation-window-message-values-focus-message =
         [with-cases] { -brand-product-name } vám umožní procházet internet způsobem, který vám vyhovuje a je přizpůsoben vašemu dennímu programu. Přizpůsobte si { -brand-product-name(case: "acc") }.
        *[no-cases] { -brand-product-name } vám umožní procházet internet způsobem, který vám vyhovuje a je přizpůsoben vašemu dennímu programu. Přizpůsobte si aplikaci { -brand-product-name }.
     }
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Skrýt hodiny
+newtab-clock-widget-menu-learn-more = Zjistit více
+newtab-clock-widget-menu-edit = Úprava hodin
+newtab-clock-widget-menu-switch-to-12h = Přepnout na 12hodinový formát
+newtab-clock-widget-menu-switch-to-24h = Přepnout na 24-hodinový formát
+newtab-clock-widget-label-your-clocks = Vaše hodiny
+newtab-clock-widget-search-location-input =
+    .label = Umístění
+    .placeholder = Vyhledat město
+    .aria-label = Vyhledat město
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Přezdívka (volitelné)
+    .placeholder = Přidat přezdívku
+    .aria-label = Přezdívka (volitelné)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Přidat nové hodiny
+    .aria-label = Přidat nové hodiny
