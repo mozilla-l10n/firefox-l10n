@@ -433,7 +433,7 @@ newtab-wallpaper-brown = Смеђа
 
 ## Abstract
 
-newtab-wallpaper-category-title-abstract = Абстрактне
+newtab-wallpaper-category-title-abstract = Апстрактне
 newtab-wallpaper-abstract-green = Зелени облици
 newtab-wallpaper-abstract-blue = Плави облици
 newtab-wallpaper-abstract-purple = Љубичасти облици

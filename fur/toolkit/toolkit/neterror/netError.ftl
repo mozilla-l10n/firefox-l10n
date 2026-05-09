@@ -189,7 +189,7 @@ fp-neterror-cypher-overlap-why-dangerous-body = Al somee che chest sît al dopri
 fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nol considere { $hostname } atendibil parcè che la conession no je sigure.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body = Verifiche di doprâ la version plui resinte di { -brand-short-name }. Va su Jutori > Informazions su { -brand-short-name } tal menù. Se tu stâs doprant la version plui resinte di { -brand-short-name }, al è facil che il probleme al sedi il sît stes.
-fp-neterror-offline-what-can-you-do-body = Prove a conetiti di un altri dispositîf, controle il modem o il router. Disconetiti e torne a conetiti al Wi-Fi.
+fp-neterror-offline-what-can-you-do-body = Prove a colegâti suntun altri dispositîf, controle il modem o il router. Disconet e torne a coneti il dispostîf al Wi-Fi.
 fp-neterror-http-auth-disabled-what-can-you-do-body = Prove a cambiâ l’URL doprant HTTPS. Ma al è probabil che il probleme al sedi il sît stes.
 # This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
 fp-neterror-coop-coep-why-did-this-happen-body = Cualchi volte i sîts web si protezin da lis interazions malvoludis, cun altris sîts.

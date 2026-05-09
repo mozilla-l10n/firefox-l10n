@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } ਬਾਰੇ
     .title = { pane-about-firefox-title }
+pane-appearance-title = ਦਿੱਖ
+    .title = { pane-appearance-title }
+pane-downloads-title = ਡਾਊਨਲੋਡ
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = ਅਸੈੱਸਬਿਲਟੀ
     .title = { pane-accessibility-title }
 pane-languages-title = ਭਾਸ਼ਾਵਾਂ
@@ -679,6 +684,9 @@ applications-save-for-new-types =
 applications-ask-before-handling =
     .label = ਪੁੱਛੋ ਕਿ ਕੀ ਫਾਈਲਾਂ ਨੂੰ ਖੋਲ੍ਹਣਾ ਹੈ ਜਾਂ ਸੰਭਾਲਣਾ?
     .accesskey = A
+applications-ask-before-handling2 =
+    .label = ਫਾਇਲਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਜਾਂ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
+    .accesskey = A
 drm-group =
     .label = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
 drm-content-header = ਡਿਜ਼ਿਟਲ ਰਾਈਟਸ ਮੈਨਜੇਮੈਂਟ (DRM) ਸਮੱਗਰੀ
@@ -752,6 +760,8 @@ about-firefox-header =
 
 update-application-suppress-prompts-heading =
     .label = ਸੂਚਨਾਵਾਂ
+update-application-updates-managed-by-os =
+    .message = ਤੁਹਾਡਾ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਅੱਪਡੇਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰਦਾ ਹੈ
 
 ## Firefox support
 
@@ -841,6 +851,12 @@ preferences-accessibility-header =
     .heading = ਅਸੈੱਸਬਿਲਟੀ
 preferences-default-zoom-select =
     .aria-label = ਮੂਲ ਜ਼ੂਮ
+preferences-fonts-family =
+    .label = ਫੌਂਟ ਪਰਿਵਾਰ
+    .accesskey = D
+preferences-fonts-size =
+    .label = ਫ਼ੋਂਟ ਦਾ ਆਕਾਰ
+    .accesskey = s
 preferences-fonts-advanced-settings =
     .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
     .accesskey = A
@@ -1025,6 +1041,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = ਖੇਡਾਂ
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = ਘੜੀ
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } ਲਈ ਸਹਿਯੋਗ
@@ -1565,6 +1584,14 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ਹੋਰ ਸਿੱਖੋ
 forms-windows-sso-desc = ਆਪਣੀਆਂ ਡਿਵਾਈਸ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਖਾਤਿਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 windows-passkey-settings-label = ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਪਾਸ-ਕੀ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## Privacy Panel Settings
+
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = ਉਲੰਘਣ ਸੁਨੇਹੇ ਵੇਖਾਓ
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2133,6 +2160,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = ਇਜਾਜ਼ਤਾਂ
     .description = ਇੰਤਜ਼ਾਮ ਕਰੋ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਪਹੁੰਚ, ਕੰਟਰੋਲ ਜਾਂ ਤਬਦੀਲ ਕਿਵੇਂ ਕਰ ਸਕਦੀਆਂ ਹਨ
+permissions-data-section =
+    .heading = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
+pane-permissions-data-title = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
 
 ## Privacy Section - Data Collection
 
@@ -2446,6 +2476,8 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = ਕਨੈਕਸ਼ਨ ਅਤੇ ਸਾਫਟਵੇਅਰ ਸੁਰੱਖਿਆ
 preferences-connection-link-button =
     .label = ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ
 
@@ -2454,6 +2486,17 @@ preferences-connection-link-button =
 desktop-folder-name = ਡੈਸਕਟਾਪ
 downloads-folder-name = ਡਾਊਨਲੋਡ
 choose-download-folder-title = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਚੁਣੋ:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = ਦਿੱਖ
+browser-theme-manage-link =
+    .label = { -brand-short-name } ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+related-settings-group =
+    .label = ਸੰਬੰਧਿਤ ਸੈਟਿੰਗਾਂ
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 
 ## AI controls page
 

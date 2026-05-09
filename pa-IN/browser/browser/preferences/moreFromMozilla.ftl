@@ -57,15 +57,25 @@ more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } ਲਵੋ
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
 
 more-from-moz-new-products-title = { -vendor-short-name } ਨਵੇਂ ਉਤਪਾਦ
+more-from-moz-new-products-description = { -vendor-short-name } ਦੇ ਨਵੇਂ ਉਤਪਾਦਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ
 more-from-moz-new-products-button = ਨਵੇਂ ਉਤਪਾਦ ਵੇਖੋ
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-email-link = ਡਾਊਨਲੋਡ ਲਿੰਕ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਈਮੇਲ ਕਰੋ
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-box-link =
+    .label = { -monitor-brand-short-name } ਲਵੋ
 more-from-moz-mozilla-vpn-box-link =
     .label = { -mozilla-vpn-brand-name } ਲਵੋ
 more-from-moz-firefox-relay-box-link =
     .label = { -relay-brand-short-name } ਲਵੋ
+more-from-moz-mdn-box-link =
+    .label = MDN ਲਈ ਪਹੁੰਚ
 more-from-moz-thunderbird-box-link =
     .label = { -thunderbird-brand-short-name } ਲਵੋ
 more-from-moz-solo-box-link =
