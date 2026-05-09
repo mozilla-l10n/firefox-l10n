@@ -803,6 +803,9 @@ newtab-widget-lists-name-label-checklist =
     .label = Kontrolní seznam
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Seznam úkolů
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Kontrolní seznam
+    .aria-label = Upravit název seznamu
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nový seznam
@@ -828,6 +831,9 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimalizovat wigety
     .aria-label = Sbalení všech widgetů na kompaktní velikost
+newtab-widget-section-menu-button =
+    .title = Nabídka widgetů
+    .aria-label = Otevřít nabídku widgetů
 newtab-widget-section-menu-hide-all = Skrýt widgety
 newtab-widget-section-menu-learn-more = Zjistit více
 newtab-widget-section-feedback = Sdělte nám svůj názor
@@ -898,6 +904,8 @@ newtab-widget-timer-increase-min =
     .title = Zvýšit o 1 minutu
 newtab-widget-timer-mode-group =
     .aria-label = Režim časovače
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Soustředění
 # Small label shown beneath the live time while the break timer is running or paused.
 newtab-widget-timer-running-break = Přestávka
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
@@ -909,6 +917,8 @@ newtab-widget-timer-celebration-heading-focus = Skvělá práce
 newtab-widget-timer-celebration-heading-break = Vaše přestávka skončila
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = Potřebujete přestávku?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Jste připraveni se soustředit?
 
 ## Sports widget
 
@@ -925,6 +935,15 @@ newtab-sports-widget-view-schedule =
     .label = Zobrazit rozpis zápasů
 newtab-sports-widget-follow-teams =
     .label = Sledujte týmy
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Sledovat { $number } tým
+        [few] Sledovat { $number } týmy
+        [many] Sledovat { $number } týmů
+       *[other] Sledovat { $number } týmů
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Zvolte si tapetu
 newtab-sports-widget-skip = Přeskočit

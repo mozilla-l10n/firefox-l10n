@@ -223,6 +223,11 @@ ip-protection-learn-more = Zjistit více
 ip-protection-not-opted-in-2 =
     .heading = Vyzkoušejte vestavěnou síť VPN v aplikaci { -brand-short-name }
     .message = Skryjte svou polohu při procházení webu v aplikaci { -brand-short-name }. Získejte každý měsíc { $maxUsage } GB dat VPN zdarma.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
+    .message = Surfujte s větší ochranou díky skrytí své polohy. Získejte každý měsíc { $maxUsage } GB dat pro VPN zdarma.
 ip-protection-not-opted-in-button = Začít
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -248,6 +253,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Získejte ještě lepší ochranu mimo aplikaci { -brand-short-name } pomocí { -mozilla-vpn-brand-name }
     .description = Vyberte si vlastní umístění VPN a přidejte ochranu všem svým aplikacím až na pěti zařízeních, ať už jste doma nebo na veřejné Wi-Fi.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Zvyšte úroveň ochrany s { -mozilla-vpn-brand-name }
+    .description = Vyberte si z více než 300 lokalit a zajistěte ochranu všech svých aplikací až na 5 zařízeních.
 
 ## IP Protection dialogs
 
