@@ -874,6 +874,15 @@ update-in-progress-ok-button = &Nepokračovat
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovat
 
+## About Firefox
+
+about-firefox-header =
+    .heading =
+        { -brand-short-name.case-status ->
+            [with-cases] O { -brand-short-name(case: "gen") }
+           *[no-cases] O aplikaci { -brand-short-name }
+        }
+
 ## Firefox updates
 
 update-application-suppress-prompts-heading =
