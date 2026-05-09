@@ -27,6 +27,11 @@ ipprotection-feature-introduction-title = Představujeme VPN, nyní přímo uvni
 ipprotection-feature-introduction-link-text-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Přidejte další vrstvu soukromí
+ipprotection-feature-introduction-link-text-privacy =
+    { -brand-product-name.case-status ->
+        [with-cases] Vestavěná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z 5 lokalit, abyste si zachovali soukromí při prohlížení.
+       *[no-cases] Vestavěná VPN od <a data-l10n-name="learn-more-vpn">aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení. Vyberte si z 5 lokalit, abyste si zachovali soukromí při prohlížení.
+    }
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
 # Used for callout shown on login to public wi-fi through a captive portal

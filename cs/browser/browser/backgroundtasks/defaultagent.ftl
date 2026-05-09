@@ -12,6 +12,11 @@ default-browser-notification-privacy-header-text =
         [with-cases] Zůstat s { -brand-short-name(case: "ins") }?
        *[no-cases] Zůstat s aplikací { -brand-short-name }?
     }
+default-browser-notification-privacy-body-text =
+    { -brand-short-name.case-status ->
+        [with-cases] Vaše výchozí nastavení se změnilo. Vraťte se k { -brand-short-name(case: "dat") } a zajistěte si vestavěné soukromí a ochranu.
+       *[no-cases] Vaše výchozí nastavení se změnilo. Vraťte se k aplikaci { -brand-short-name } a zajistěte si vestavěné soukromí a ochranu.
+    }
 default-browser-notification-header-text =
     { -brand-short-name.case-status ->
         [with-cases] Pokračovat v používání { -brand-short-name(case: "gen") }?
