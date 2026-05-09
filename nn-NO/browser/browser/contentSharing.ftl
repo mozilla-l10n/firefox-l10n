@@ -19,3 +19,4 @@ content-sharing-modal-link-copied =
     .label = Lenke kopiert
 content-sharing-modal-sign-in =
     .label = Logg inn for å dele lenker
+content-sharing-modal-title = Del denne samlinga av lenker i kva nettlesar som helst.
