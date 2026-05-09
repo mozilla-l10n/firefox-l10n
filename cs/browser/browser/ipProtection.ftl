@@ -83,6 +83,7 @@ unauthenticated-private-location-message =
         [with-cases] Při prohlížení ve { -brand-product-name(case: "loc") } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
        *[no-cases] Při prohlížení v aplikaci { -brand-product-name } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
     }
+unauthenticated-choose-location-message = Vyberte si z 5 lokalit nebo nechte { -brand-product-name(case: "acc") } vybrat tu nejrychlejší.
 unauthenticated-hide-location-message-2 =
     { -brand-product-name.case-status ->
         [with-cases] Skryjte svou polohu při procházení { -brand-product-name(case: "loc") }.
@@ -92,6 +93,7 @@ unauthenticated-hide-location-message-2 =
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Získejte { $maxUsage } GB bezplatných dat VPN každý měsíc.
 unauthenticated-get-started = Začínáme
+unauthenticated-terms-of-service-privacy-notice = Pokračováním souhlasíte s <a data-l10n-name="vpn-terms-of-service">podmínkami poskytování služby</a> a <a data-l10n-name="vpn-privacy-notice">oznámením o ochraně osobních údajů</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Použít VPN pro tuto stránku
     .aria-label = VPN je pro tuto stránku zapnuta
@@ -133,6 +135,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Zvolte jiné umístění pro prohlížení.
 ipprotecion-locations-subview-recommended-label = Doporučené
 ipprotection-locations-subview-recommended-description = Najděte nejrychlejší umístění
+ipprotection-locations-subview-promo =
+    .heading = Posuňte ochranu na vyšší úroveň pomocí { -mozilla-vpn-brand-name }
+    .message = Vyberte si z více než 300 lokalit a zajistěte ochranu všech svých aplikací až na 5 zařízeních.
 ipprotection-locations-subview-promo-button = Získejte { -mozilla-vpn-brand-name(case: "acc") }
 
 ## VPN paused state
