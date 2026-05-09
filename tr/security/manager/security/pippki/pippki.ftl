@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Sertifika yedek parolası (tekrar):
 set-password-reminder = Önemli: Eğer sertifika yedek parolanızı unutursanız bu yedeği daha sonra geri yükleyemezsiniz.  Lütfen bunu güvenli bir yere kaydedin.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Korumalı kimlik doğrulama
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Lütfen güvenlik cihazınızda ({ $tokenName }) kimliğinizi doğrulayın. Bunun nasıl yapılacağı cihaza bağlıdır. (Örneğin parmak izi okuyucu kullanmanız veya tuş takımıyla bir kod girmeniz gerekebilir.)
+
 ## Protected authentication alert
 
 # Variables:

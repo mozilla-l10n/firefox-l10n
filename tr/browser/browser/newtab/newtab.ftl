@@ -895,12 +895,23 @@ newtab-widget-timer-celebration-message-break = Odaklanmaya hazır mısınız?
 newtab-sports-widget-menu-follow-teams = Takımları takip et
 newtab-sports-widget-menu-view-upcoming = Yaklaşanlara bak
 newtab-sports-widget-menu-view-results = Sonuçlara bak
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Önemli tarihler
 newtab-sports-widget-menu-learn-more = Daha fazla bilgi al
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Dünya Kupası’nı takip edin
 newtab-sports-widget-get-updates = Canlı maç haberlerini ve daha fazlasını alın.
 newtab-sports-widget-view-schedule =
     .label = Takvimi gör
 newtab-sports-widget-follow-teams =
     .label = Takımları takip et
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] İstediğiniz { $number } takımı takip edin
+       *[other] İstediğiniz { $number } takımı takip edin
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Duvar kâğıdı seç
 newtab-sports-widget-skip = Atla
@@ -919,6 +930,8 @@ newtab-sports-widget-live = CANLI
 newtab-custom-widget-live-refresh =
     .title = Skorları yenile
     .aria-label = Skorları yenile
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Önemli tarihler
 newtab-sports-widget-upcoming = Yaklaşıyor
 newtab-sports-widget-results = Sonuçlar
 newtab-sports-widget-semi-finals = Yarı finaller
@@ -976,3 +989,49 @@ newtab-clock-widget-menu-edit = Saatleri düzenle
 newtab-clock-widget-menu-switch-to-12h = 12 saatlik biçime geç
 newtab-clock-widget-menu-switch-to-24h = 24 saatlik biçime geç
 newtab-clock-widget-label-your-clocks = Saatleriniz
+newtab-clock-widget-search-location-input =
+    .label = Konum
+    .placeholder = Şehir ara
+    .aria-label = Şehir ara
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Ad (isteğe bağlı)
+    .placeholder = Ad ekle
+    .aria-label = Ad (isteğe bağlı)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Yeni saat ekle
+    .aria-label = Yeni saat ekle
+newtab-clock-widget-button-add-clock = Ekle
+newtab-clock-widget-button-cancel = Vazgeç
+newtab-clock-widget-button-back =
+    .title = Geri
+    .aria-label = Geri
+newtab-clock-widget-button-edit-clock =
+    .title = Saati düzenle
+    .aria-label = Saati düzenle
+newtab-clock-widget-button-save = Kaydet
+newtab-clock-widget-button-remove-clock =
+    .title = Saati sil
+    .aria-label = Saati sil
+newtab-clock-widget-add-clock-form =
+    .aria-label = Saat ekle
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Saati düzenle
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Arama sonuçları
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Saat menüsünü aç
+    .aria-label = Saat menüsünü aç
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Ad: { $nickname }

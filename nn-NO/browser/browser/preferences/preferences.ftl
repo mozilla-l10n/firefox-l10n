@@ -342,6 +342,9 @@ browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mob
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Språk og utsjånad
+appearance-group2 =
+    .label = Nettstadutsjånad
+    .description = Nokre nettstadar endrar fargane sine for å samsvare med innstillingane dine. Vel fargeskjema.
 appearance-group =
     .label = Utsjånaden på nettstaden
     .description = Nokre nettstadar tilpassar fargeskjemaet basert på innstillingane dine. Vel kva for fargeskjema du vil bruke for desse nettstadane.
@@ -2241,6 +2244,10 @@ collection-backlogged-crash-reports2 =
     .label = Send inn krasjrapportar automatisk
     .accesskey = k
 collection-backlogged-crash-reports-description = Dette hjelper { -vendor-short-name } med å diagnostisere og løyse problem med nettlesaren. Rapportar kan innehalde personlege eller sensitive data.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Same innstillingar, ny utsjånand!
+    .message = Vi har omorganisert denne sida slik at ho er enklare å få oversikt over og utforske. Dei personlege innstillingane dine er ikkje endra, og alt er framleis her. Tips: bruk søk for å gå rett til det du treng.
 settings-redesign-promo-dismiss-button =
     .label = Eg forstår
 addon-recommendations =

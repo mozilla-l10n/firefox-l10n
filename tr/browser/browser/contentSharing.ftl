@@ -24,3 +24,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in =
     .label = Bağlantıları paylaşmak için giriş yapın
 content-sharing-modal-title = Bu bağlantı koleksiyonunu istediğiniz tarayıcıda paylaşın
+content-sharing-modal-description = Bu bağlantıları kolayca paylaşabileceğiniz bir sayfa oluşturun. Sayfayı oluşturduktan sonra düzenleyemez ve silemezsiniz. Sayfa 7 gün sonra kendiliğinden silinir.
