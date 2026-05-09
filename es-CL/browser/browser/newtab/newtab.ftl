@@ -930,12 +930,21 @@ newtab-sports-widget-live = EN VIVO
 newtab-custom-widget-live-refresh =
     .title = Actualizar puntuaciones
     .aria-label = Actualizar puntuaciones
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Fechas clave
 newtab-sports-widget-upcoming = Próximamente
 newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Semifinales
 newtab-sports-widget-bronze-finals = Tercer puesto
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Retrasado
 newtab-sports-widget-postponed = Pospuesto
 newtab-sports-widget-suspended = Suspendido
@@ -970,3 +979,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Este espacio juega según tus reglas
 newtab-activation-window-message-values-focus-message = { -brand-product-name } te permite navegar como quieras, con una forma más personal de empezar el día en línea. Personaliza { -brand-product-name }.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Ocultar reloj
+newtab-clock-widget-menu-learn-more = Aprender más
+newtab-clock-widget-menu-edit = Editar relojes
+newtab-clock-widget-menu-switch-to-12h = Cambiar al formato de 12 horas
+newtab-clock-widget-menu-switch-to-24h = Cambiar al formato de 24 horas
+newtab-clock-widget-label-your-clocks = Tus relojes
+newtab-clock-widget-search-location-input =
+    .label = Ubicación
+    .placeholder = Buscar una ciudad
+    .aria-label = Buscar una ciudad
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Seudónimo (opcional)
+    .placeholder = Añadir seudónimo
+    .aria-label = Seudónimo (opcional)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Añadir nuevo reloj
+    .aria-label = Añadir nuevo reloj
+newtab-clock-widget-button-add-clock = Añadir
+newtab-clock-widget-button-cancel = Cancelar
+newtab-clock-widget-button-back =
+    .title = Atrás
+    .aria-label = Atrás
+newtab-clock-widget-button-edit-clock =
+    .title = Editar reloj
+    .aria-label = Editar reloj
+newtab-clock-widget-button-save = Guardar
+newtab-clock-widget-button-remove-clock =
+    .title = Quitar el reloj
+    .aria-label = Quitar el reloj
+newtab-clock-widget-add-clock-form =
+    .aria-label = Añadir reloj
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Editar reloj
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Resultados de la búsqueda
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Abrir menú para el reloj
+    .aria-label = Abrir menú para el reloj
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Seudónimo: { $nickname }
