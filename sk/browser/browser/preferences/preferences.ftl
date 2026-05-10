@@ -1625,6 +1625,17 @@ forms-windows-sso-learn-more-link = Ďalšie informácie
 forms-windows-sso-desc = Účty môžete spravovať v nastaveniach vášho zariadenia
 windows-passkey-settings-label = Prístupové kľúče môžete spravovať v nastaveniach systému
 
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Nastavenia panela ochrany osobných údajov
+    .description = Získajte pomoc s ochranou svojich údajov vo { -brand-short-name(case: "loc") }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Zobraziť správy o únikoch údajov
+    .accesskey = b
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2525,8 +2536,17 @@ choose-download-folder-title = Vyberte priečinok pre stiahnuté súbory:
 
 preferences-appearance-header =
     .heading = Vzhľad
+browser-theme-group =
+    .label = Téma prehliadača
+    .description = Upravte si { -brand-short-name(case: "acc") } podľa seba. Farby témy sa použijú na panely s nástrojmi, ponuky a správy.
+browser-theme-manage-link =
+    .label = Spravovať témy vzhľadu { -brand-short-name(case: "gen") }
 related-settings-group =
     .label = Súvisiace nastavenia
+related-settings-accessibility-link =
+    .label = Prispôsobenie nastavení priblíženia a písma nájdete v časti Zjednodušenie ovládania
+related-settings-home-link =
+    .label = Prispôsobiť { -firefox-home-brand-name(case: "acc") }
 
 ## AI controls page
 
