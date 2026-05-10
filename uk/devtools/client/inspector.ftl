@@ -18,3 +18,5 @@ colorpicker-tooltip-color-name-title = Найближче до: { $colorName }
 colorpicker-tooltip-hue-slider-title = Відтінок
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Прозорість
+# A text for the toggle for the element-specific pseudo-classes panel.
+inspector-element-specific-pseudo-classes-heading = Псевдокласи, специфічні для елемента
