@@ -199,7 +199,12 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> ਨੇ ਗ਼
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> ਤੋਂ ਸਰਵਰ ਨੇ ਗਲਤੀ ਵਾਪਸ ਭੇਜੀ ਹੈ: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> ਨੇ ਖਾਲੀ ਅੱਖਰਾਂ ਨਾਲ ਹੈੱਡਰ ਵਾਪਸ ਭੇਜਿਆ ਹੈ, ਜਿਸ ਦੀ ਵੈੱਬ ਸੁਰੱਖਿਆ ਸਟੈਂਡਰਡਾਂ ਮੁਤਾਬਕ ਮਨਜ਼ੂਰ ਨਹੀਂ ਹੈ।
+fp-neterror-content-encoding-intro = ਸਫ਼ਾ, ਜੋ ਤੁਸੀਂ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਵੇਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ, ਕਿਉਂਕਿ ਇਹ ਕੰਪਰੈਸ਼ਨ ਦਾ ਗਲਤ ਜਾਂ ਗ਼ੈਰ-ਸਹਾਇਕ ਰੂਪ ਵਰਤ ਰਿਹਾ ਹੈ। ਇਸ ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਵੈੱਬ ਸਾਇਟ ਮਾਲਕਾਂ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜੀ।
 fp-neterror-coop-coep-intro = { -brand-short-name } ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ, ਕਿਉਂਕਿ ਜਾਪਦਾ ਹੈ ਕਿ ਸੁਰੱਖਿਆ ਸੰਰਚਨਾ ਪਿਛਲੇ ਸਫ਼ੇ ਨਾਲ ਮੇਲ ਨਹੀਂ ਖਾਂਦੀ ਸੀ।
+fp-neterror-blocked-by-policy-intro = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਇਸ ਸਫ਼ੇ ਜਾਂ ਵੈੱਬਸਾਈਟ ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 fp-neterror-http-auth-disabled-intro = ਕੋਈ ਸਾਈਟ ਦਾ ਝਾਂਸਾ ਦੇ ਕੇ ਤੁਹਾਡੇ ਵਰਤੋਂਕਾਰ-ਨਾਂ, ਪਾਸਵਰਡ ਜਾਂ ਈਮੇਲ ਵਰਗੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਚੋਰੀ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।
 fp-neterror-http-auth-disabled-secure-connection = ਇਸ ਸਾਈਟ ਲਈ ਇੱਕ ਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਸ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਤੁਸੀਂ ਛੋਟ ਜੋੜ ਨਹੀਂ ਸਕਦੇ ਹੋ।
 fp-neterror-why-did-this-happen = ਇਹ ਕਿਓ ਵਾਪਰਿਆ ਸੀ?
