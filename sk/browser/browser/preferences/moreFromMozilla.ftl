@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Ďalšie produkty { -vendor-short-name(case: "gen") }
+more-from-moz-page-header =
+    .heading = Ďalšie produkty { -vendor-short-name(case: "gen") }
 more-from-moz-category =
     .tooltiptext = Ďalšie produkty { -vendor-short-name(case: "gen") }
 more-from-moz-subtitle = Pozrite si ďalšie produkty od spoločnosti { -vendor-short-name }, ktoré podporujú zdravý internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } pre mobilné zariadenia
 more-from-moz-firefox-mobile-description = Mobilný prehliadač, pre ktorý je vaše súkromie na prvom mieste.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } pre mobilné zariadenia
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } pre mobilné zariadenia
+    .description = Mobilný prehliadač, ktorý kladie vaše súkromie na prvé miesto.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Objavte ďalšiu vrstvu anonymného prehliadania a ochrany.
 more-from-moz-qr-code-box-firefox-mobile-title = Stiahnite si ho pomocou mobilného zariadenia. Namierte fotoaparát na QR kód. Keď sa zobrazí odkaz, ťuknite naň.

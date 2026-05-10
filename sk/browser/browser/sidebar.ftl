@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Spravovať nastavenia { -brand-short-name(case: "gen") }
 sidebar-vertical-tabs =
     .label = Vertikálne karty
+sidebar-settings2 =
+    .label = Nastavenia
 sidebar-settings =
     .label = Nastavenia bočného panela
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Po umiestnení kurzora myši rozbaliť bočný panel
+sidebar-manage-extensions2 = Spravovať všetky rozšírenia
 sidebar-manage-extensions = Spravovať rozšírenia
+sidebar-customize-extensions-header2 = Rozšírenia
+sidebar-customize-firefox-tools-header2 =
+    .label = Nástroje
 
 ## Labels for sidebar context menu items
 
