@@ -916,20 +916,36 @@ newtab-sports-widget-follow-teams-title =
 newtab-sports-widget-choose-wallpaper =
     .label = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
 newtab-sports-widget-skip = ਛੱਡੋ
+newtab-sports-widget-search-country =
+    .placeholder = ਦੇਸ਼ ਨੂੰ ਲੱਭੋ
+    .aria-label = ਦੇਸ਼ ਨੂੰ ਲੱਭੋ
+newtab-sports-widget-cancel = ਰੱਦ ਕਰੋ
 newtab-sports-widget-done-button =
     .label = ਮੁਕੰਮਲ
 newtab-sports-widget-group-stage = ਗਰੁੱਪ ਸਟੇਜ
+newtab-sports-widget-round-32 = 32ਵੇਂ ਗੇੜ
+newtab-sports-widget-round-16 = 16ਵੇਂ ਗੇੜ
+newtab-sports-widget-quarter-finals = ਕੁਆਟਰ ਫਾਈਨਲ
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = ਲਾਈਵ
 newtab-custom-widget-live-refresh =
     .title = ਨਵੇਂ ਸਕੋਰ ਲਵੋ
     .aria-label = ਨਵੇਂ ਸਕੋਰ ਲਵੋ
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = ਖਾਸ ਤਾਰੀਖਾਂ
 newtab-sports-widget-upcoming = ਆਉਣ ਵਾਲੇ
 newtab-sports-widget-results = ਨਤੀਜੇ
 newtab-sports-widget-semi-finals = ਸੈਮੀ-ਫਾਈਨਲ
 newtab-sports-widget-bronze-finals = ਕਾਂਸੀ ਲਈ ਫਾਈਨਲ
 # Final is the final match for 1st place.
 newtab-sports-widget-final = ਫਾਈਨਲ
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = ਦੇਰੀ ਹੋਈ
 newtab-sports-widget-postponed = ਟਾਲਿਆ
 newtab-sports-widget-suspended = ਮੁਅੱਤਲ ਕੀਤਾ
@@ -964,3 +980,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = ਇਹ ਥਾਂ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਨਾਲ ਚੱਲਦੀ ਹੈ
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਮੁਤਾਬਕ ਬਰਾਊਜ਼ ਕਰਨ ਦਿੰਦਾ ਹੈ, ਤੁਹਾਡੇ ਆਨਲਾਈਨ ਦਿਨ ਨੂੰ ਤੁਹਾਡੇ ਢੰਗ ਨਾਲ ਬਣਾ ਕੇ। { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = ਘੜੀ ਨੂੰ ਲੁਕਾਓ
+newtab-clock-widget-menu-learn-more = ਹੋਰ ਜਾਣੋ
+newtab-clock-widget-menu-edit = ਘੜੀਆਂ ਨੂੰ ਸੋਧੋ
+newtab-clock-widget-menu-switch-to-12h = 12-ਘੰਟੇ ਦੇ ਰੂਪ ਵਿੱਚ ਵੇਖੋ
+newtab-clock-widget-menu-switch-to-24h = 24-ਘੰਟੇ ਦੇ ਰੂਪ ਵਿੱਚ ਵੇਖੋ
+newtab-clock-widget-label-your-clocks = ਤੁਹਾਡੀਆਂ ਘੜੀਆਂ
+newtab-clock-widget-search-location-input =
+    .label = ਟਿਕਾਣਾ
+    .placeholder = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
+    .aria-label = ਸ਼ਹਿਰ ਨੂੰ ਲੱਭੋ
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = ਨਾਂ (ਚੋਣਵਾਂ)
+    .placeholder = ਮਨਮਰਜ਼ੀ ਦਾ ਨਾਂ ਜੋੜੋ
+    .aria-label = ਮਨਮਰਜ਼ੀ ਦਾ ਨਾਂ (ਚੋਣਵਾਂ)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = ਨਵੀਂ ਘੜੀ ਜੋੜੋ
+    .aria-label = ਨਵੀਂ ਘੜੀ ਜੋੜੋ
+newtab-clock-widget-button-add-clock = ਜੋੜੋ
+newtab-clock-widget-button-cancel = ਰੱਦ ਕਰੋ
+newtab-clock-widget-button-back =
+    .title = ਪਿੱਛੇ
+    .aria-label = ਪਿੱਛੇ
+newtab-clock-widget-button-edit-clock =
+    .title = ਘੜੀ ਨੂੰ ਸੋਧੋ
+    .aria-label = ਘੜੀ ਨੂੰ ਸੋਧੋ
+newtab-clock-widget-button-save = ਸੰਭਾਲੋ
+newtab-clock-widget-button-remove-clock =
+    .title = ਘੜੀ ਨੂੰ ਹਟਾਓ
+    .aria-label = ਘੜੀ ਨੂੰ ਹਟਾਓ
+newtab-clock-widget-add-clock-form =
+    .aria-label = ਘੜੀ ਜੋੜੋ
+newtab-clock-widget-edit-clock-form =
+    .aria-label = ਘੜੀ ਨੂੰ ਸੋਧੋ
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = ਖੋਜ ਨਤੀਜੇ
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = ਘੜੀ ਲਈ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .aria-label = ਘੜੀ ਲਈ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = ਪਸੰਦੀਦਾ ਨਾਂ: { $nickname }

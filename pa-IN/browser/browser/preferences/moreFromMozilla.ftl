@@ -14,6 +14,9 @@ more-from-moz-subtitle = ਹੋਰ { -vendor-short-name } ਉਤਪਾਦ ਵੇ
 more-from-moz-firefox-mobile-title = { -brand-product-name } ਮੋਬਾਇਲ
 more-from-moz-firefox-mobile-description = ਮੋਬਾਇਲ ਬਰਾਊਜ਼ਰ ਜੋ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦਿੰਦਾ ਹੈ।
 more-from-moz-firefox-mobile-title-1 = ਮੋਬਾਈਲ ਲਈ { -brand-product-name }
+more-from-moz-firefox-mobile =
+    .label = ਮੋਬਾਈਲ ਲਈ { -brand-product-name }
+    .description = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਪਹਿਲ ਦੇਣ ਵਾਲਾ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ।
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਅਣਪਛਾਤੇ ਰਹਿਣ ਦੀ ਪਰਤ ਜੋੜਨ ਅਤੇ ਸੁਰੱਖਿਆ ਲੈਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
 more-from-moz-qr-code-box-firefox-mobile-title = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨੂੰ ਵਰਤ ਕੇ ਡਾਊਨਲੋਡ ਕਰੋ। ਆਪਣੇ ਕੈਮਰੇ ਨੂੰ QR ਕੋਡ ਵੱਲ ਕਰੋ। ਜਦੋਂ ਲਿੰਕ ਦਿਖਾਈ ਦੇਵੇ ਤਾਂ ਇਸ ਨੂੰ ਛੂਹੋ।
@@ -52,6 +55,7 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = ਮੁਫ਼ਤ ਈਮੇਲ, ਕੈਲੰਡਰ ਅਤੇ ਸੰਪਰਕ — ਤੁਹਾਡੇ ਮੁਤਾਬਕ ਢਾਲੇ।
 more-from-moz-thunderbird-button = { -thunderbird-brand-short-name } ਲਵੋ
 
 ## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
@@ -63,11 +67,34 @@ more-from-moz-new-products-button = ਨਵੇਂ ਉਤਪਾਦ ਵੇਖੋ
 ## These strings are for the config-based (SRD) moreFromMozilla page using
 ## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
 
+more-from-moz-firefox-mobile-qr-promo =
+    .message = ਐਪ ਲੈਣ ਲਈ ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੈਬਲੇਟ ਦੇ ਕੈਮਰੇ ਨਾਲ ਸਕੈਨ ਕਰੋ। ਜਦੋਂ ਲਿੰਕ ਦਿਖਾਈ ਦੇਵੇ ਤਾਂ ਉਸ ਨੂੰ ਛੂਹੋ।
 more-from-moz-firefox-mobile-email-link = ਡਾਊਨਲੋਡ ਲਿੰਕ ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਈਮੇਲ ਕਰੋ
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਕਿਤੇ ਲੀਕ ਹੋਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲੈਣ ਲਈ ਮੁਫ਼ਤ ਸਕੈਨ ਕਰੋ।
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = ਨਾ ਸਿਰਫ਼ ਆਪਣੇ ਬਰਾਊਜ਼ਰ, ਬਲਕਿ ਸਭ ਐਪਾਂ ਲਈ ਵਧੀਕ ਸੁਰੱਖਿਆ ਲਵੋ। ਪਬਲਿਕ Wi-Fi ਅਤੇ ਗ਼ੈਰ-ਸੁਰੱਖਿਅਤ ਨੈੱਟਵਰਕਾਂ ਉੱਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = ਮੁਫ਼ਤ ਈਮੇਲ ਮਾਸਕਾਂ ਨਾਲ ਸਪੈਮ ਤੋਂ ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = ਮੁਫ਼ਤ ਗਾਈਡਾਂ ਅਤੇ ਹਵਾਲਿਆਂ ਨਾਲ ਵੈੱਬ ਡਿਵੈਲਪੈਂਟਾਂ ਨੂੰ ਸਿੱਖੋ।
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = ਤੇਜ਼ ਤਰਾਰ ਐਪ ਵਿੱਚ ਆਪਣੇ ਈਮੇਲ, ਕੈਲੰਡਰ ਅਤੇ ਸੰਪਰਕਾਂ ਲਈ ਪਹੁੰਚ ਰੱਖੋ।
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = ਸਾਡੇ ਨਵੇਂ ਵਿਚਾਰਾਂ ਅਤੇ ਤਜਰਬੇ ਅਧੀਨ ਤਕਨੀਕਾਂ ਨੂੰ ਅਜ਼ਮਾਓ।
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name } ਨਵੇਂ ਉਤਪਾਦ
+    .description = { -vendor-short-name } ਦੇ ਨਵੇਂ ਉਤਪਾਦਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ।
 more-from-moz-mozilla-monitor-box-link =
     .label = { -monitor-brand-short-name } ਲਵੋ
 more-from-moz-mozilla-vpn-box-link =
