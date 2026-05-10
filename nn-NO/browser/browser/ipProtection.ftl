@@ -107,6 +107,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Vel ei anna plassering å surfe frå.
 ipprotecion-locations-subview-recommended-label = Tilrådd
 ipprotection-locations-subview-recommended-description = Finn den raskaste plasseringa
+ipprotection-locations-subview-promo =
+    .heading = Ta vernet vidare med { -mozilla-vpn-brand-name }
+    .message = Vel mellom over 300 stadar og vern alle appane dine på opptil 5 einingar.
 ipprotection-locations-subview-promo-button = Få { -mozilla-vpn-brand-name }
 
 ## VPN paused state
@@ -180,6 +183,11 @@ ip-protection-learn-more = Les meir
 ip-protection-not-opted-in-2 =
     .heading = Prøv den innebygde VPN-en i { -brand-short-name }
     .message = Skjul plasseringa di medan du surfar i { -brand-short-name }. Få { $maxUsage } GB gratis VPN-data kvar månad.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Prøv den innebygde VPN-en i { -brand-short-name }
+    .message = Surf med ekstra vern ved å skjule plasseringa di. Få { $maxUsage } GB gratis VPN-data kvar månad.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

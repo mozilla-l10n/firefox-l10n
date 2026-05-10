@@ -853,6 +853,13 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+           *[other] Set nedteljing på { $minutes }-minutt
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Set nedteljaren på pause
 # Variables:
@@ -868,7 +875,7 @@ newtab-widget-timer-decrease-min =
 newtab-widget-timer-increase-min =
     .title = Auk med 1 minutt
 newtab-widget-timer-mode-group =
-    .aria-label = Timer-modus
+    .aria-label = Nedteljingsmodus
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Fokus
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -900,6 +907,12 @@ newtab-sports-widget-view-schedule =
     .label = Sjå kampoppsettet
 newtab-sports-widget-follow-teams =
     .label = Følg lag
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+       *[other] Følg opptil { $number } lag
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Vel eit bakgrunnsbilde
 newtab-sports-widget-skip = Hopp over
