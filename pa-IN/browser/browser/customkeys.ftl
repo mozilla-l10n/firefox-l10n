@@ -13,6 +13,7 @@ customkeys-reset-all = ਸਾਰੇ ਸ਼ਾਰਟਕੱਟਾਂ ਨੂੰ ਮੂ
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-confirm = ਇਹ ਸਵਿੱਚ ਪਹਿਲਾਂ ਜਾਰੀ ਕੀਤੇ { $conflict } ਨਾਲ ਟਕਰਾ ਕਰਦੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 customkeys-reset-all-confirm = ਕੀ ਤੁਸੀਂ ਸਾਰੇ ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਉਹਨਾਂ ਦੇ ਡਿਫਾਲਟ ਲਈ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
+customkeys-file-duplicate-tab = ਡੁਪਲੀਕੇਟ ਟੈਬ
 customkeys-history-reopen-tab = ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
 customkeys-history-reopen-window = ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਵਿੰਡੋ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
 customkeys-sidebar-toggle = ਬਾਹੀ ਬਦਲੋ

@@ -21,3 +21,7 @@ content-sharing-modal-copy-link =
     .label = ਲਿੰਕ ਕਾਪੀ ਕਰੋ
 content-sharing-modal-link-copied =
     .label = ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕੀਤਾ
+content-sharing-modal-sign-in =
+    .label = ਲਿੰਕ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+content-sharing-modal-title = ਲਿੰਕ ਦੇ ਇਸ ਭੰਡਾਰ ਨੂੰ ਕਿਸੇ ਵੀ ਬਰਾਊਜ਼ਰ ਨਾਲ ਸਾਂਝਾ ਕਰੋ
+content-sharing-modal-description = ਇਹਨਾਂ ਲਿੰਕਾਂ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਸਾਂਝਾ ਕਰਨ ਲਈ ਪਬਲਿਕ ਸਫ਼ਾ ਬਣਾਉ। ਇੱਕ ਵਾਰ ਬਣਾਉਣ ਤੋਂ ਬਾਅਦ ਸਫ਼ੇ ਨੂੰ ਸੋਧਿਆ ਨਹੀਂ ਜਾਂ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਅਤੇ ਇਹਦੀ ਮਿਆਦ 7 ਦਿਨ ਹੁੰਦੀ ਹੈ।
