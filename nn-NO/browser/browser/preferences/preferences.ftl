@@ -2523,10 +2523,15 @@ choose-download-folder-title = Vel nedlastingsmappe:
 
 preferences-appearance-header =
     .heading = Utsjånad
+browser-theme-group =
+    .label = Nettlesartema
+    .description = Gi { -brand-short-name } ditt eige preg. Temafargar blir brukte på verktøylinjer, menyar og meldingar.
 browser-theme-manage-link =
     .label = Handsam { -brand-short-name }-tema
 related-settings-group =
     .label = Liknande innstillingar
+related-settings-accessibility-link =
+    .label = Tilpass zoom- og skriftinnstillingar under Tilgjengelegheit
 related-settings-home-link =
     .label = Tilpass { -firefox-home-brand-name }
 
