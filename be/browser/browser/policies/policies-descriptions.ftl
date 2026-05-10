@@ -37,6 +37,7 @@ policy-Containers = Устанавіць палітыку ў дачыненні 
 policy-DisableAccounts = Адключыць службы на аснове ўліковага запісу, уключаючы сінхранізацыю.
 policy-DisabledCiphers = Адключыць шыфраванне.
 policy-DefaultDownloadDirectory = Устанавіць прадвызначаны каталог сцягванняў.
+policy-DefaultSerialGuardSetting = Кантраляваць выкарыстанне Serial API.
 policy-DisableAppUpdate = Забараніць абнаўленне браўзера.
 policy-DisableBuiltinPDFViewer = Адключыць PDF.js, убудаваны ў { -brand-short-name } праглядальнік PDF.
 policy-DisableDefaultBrowserAgent = Прадухіліць любыя дзеянні агента тыповага браўзера. Тычыцца толькі Windows; на іншых платформах няма агента.

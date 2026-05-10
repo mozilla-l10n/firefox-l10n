@@ -27,3 +27,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in =
     .label = Увайдзіце, каб падзяліцца спасылкамі
 content-sharing-modal-title = Падзяліцеся гэтай калекцыяй спасылак у ўсякім браўзеры
+content-sharing-modal-description = Стварыце публічную старонку для гэтых спасылак, якой будзе лёгка дзяліцца. Пасля стварэння старонку нельга будзе рэдагаваць або выдаляць, і яна дзейнічае 7 дзён.
