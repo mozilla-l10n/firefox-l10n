@@ -783,6 +783,78 @@ newtab-promo-card-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Iniciar temporizador de { $minutes } minuto
+           *[other] Iniciar temporizador de { $minutes } minutos
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Pausar temporizador
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuto
+           *[other] { $minutes } minutos
+        }
+newtab-widget-timer-decrease-min =
+    .title = Reducir 1 minuto
+newtab-widget-timer-increase-min =
+    .title = Aumentar 1 minuto
+newtab-widget-timer-mode-group =
+    .aria-label = Modo temporizador
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Focus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Descanso
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ocultar temporizador
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Buen trabajo
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Su descanso ha terminado
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = ¿Necesita un descanso?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = ¿Listo para concentrarse?
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Seguir equipos
+newtab-sports-widget-menu-view-upcoming = Ver próximos
+newtab-sports-widget-menu-view-results = Ver resultados
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Fechas clave
+newtab-sports-widget-menu-learn-more = Saber más
+newtab-sports-widget-get-updates = Reciba actualizaciones de partidos en directo y mucho más.
+newtab-sports-widget-follow-teams =
+    .label = Seguir equipos
+newtab-sports-widget-choose-wallpaper =
+    .label = Elija un fondo de pantalla
+newtab-sports-widget-skip = Saltar
+newtab-sports-widget-done-button =
+    .label = Hecho
+newtab-sports-widget-group-stage = Fase de grupos
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = EN DIRECTO
+newtab-custom-widget-live-refresh =
+    .title = Actualizar resultados
+    .aria-label = Actualizar resultados
+newtab-sports-widget-upcoming = Próximamente
+newtab-sports-widget-results = Resultados
+newtab-sports-widget-semi-finals = Semifinales
+newtab-sports-widget-bronze-finals = Tercer puesto
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Final
+newtab-sports-widget-delayed = Retrasado
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
