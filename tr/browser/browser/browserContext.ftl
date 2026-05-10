@@ -406,7 +406,7 @@ main-context-menu-inspect =
 main-context-menu-inspect-a11y-properties =
     .label = Erişilebilirlik özelliklerini denetle
 main-context-menu-eme-learn-more =
-    .label = DRM hakkında daha fazla bilgi alın…
+    .label = DRM hakkında bilgi al…
     .accesskey = D
 # Variables
 #   $containerName (String): The name of the current container
