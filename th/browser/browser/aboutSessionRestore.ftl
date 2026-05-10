@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restore-page-tab-title = เรียกคืนวาระ
+restore-page-tab-title = เรียกคืนเซสชัน
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = ขออภัย เรามีปัญหาในการนำหน้าของคุณกลับมา
-restore-page-problem-desc = เรามีปัญหาในการเรียกคืนวาระการเรียกดูครั้งล่าสุดของคุณ ให้เลือก เรียกคืนวาระ เพื่อลองอีกครั้ง
-restore-page-try-this = ยังไม่สามารถเรียกคืนวาระของคุณได้งั้นหรือ? บางครั้งอาจมีบางแท็บที่กำลังก่อให้เกิดปัญหา ดูแท็บก่อนหน้า, เอาเครื่องหมายออกจากแท็บที่คุณไม่ต้องการเรียกคืน แล้วลองเรียกคืนใหม่
+restore-page-problem-desc = เรามีปัญหาในการเรียกคืนเซสชันการเรียกดูครั้งล่าสุดของคุณ ให้เลือก เรียกคืนเซสชัน เพื่อลองอีกครั้ง
+restore-page-try-this = ยังไม่สามารถเรียกคืนเซสชันของคุณได้งั้นหรือ? บางครั้งอาจมีบางแท็บที่กำลังก่อให้เกิดปัญหา ดูแท็บก่อนหน้า, เอาเครื่องหมายออกจากแท็บที่คุณไม่ต้องการเรียกคืน แล้วลองเรียกคืนใหม่
 restore-page-hide-tabs = ซ่อนแท็บก่อนหน้า
 restore-page-show-tabs = ดูแท็บก่อนหน้า
 # When tabs are distributed across multiple windows, this message is used as a
@@ -21,10 +21,10 @@ restore-page-restore-header =
 restore-page-list-header =
     .label = หน้าต่างและแท็บ
 restore-page-try-again-button =
-    .label = เรียกคืนวาระ
+    .label = เรียกคืนเซสชัน
     .accesskey = ร
 restore-page-close-button =
-    .label = เริ่มวาระใหม่
+    .label = เริ่มเซสชันใหม่
     .accesskey = ม
 
 ## The following strings are used in about:welcomeback

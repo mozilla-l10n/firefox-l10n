@@ -219,7 +219,7 @@ downloads-list-empty =
     .value = ไม่มีการดาวน์โหลด
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = ไม่มีการดาวน์โหลดในวาระนี้
+    .value = ไม่มีการดาวน์โหลดในเซสชันนี้
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the

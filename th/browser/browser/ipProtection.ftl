@@ -262,8 +262,8 @@ vpn-paused-alert-body = คุณใช้ข้อมูล VPN ครบ { $ma
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = คุณใช้ข้อมูล VPN ครบ { $maxUsage } GB แล้ว การเข้าถึงจะถูกรีเซ็ตในเดือนหน้า
 vpn-error-page-continue-description = เลือกวิธีการใช้งานต่อโดยไม่มี VPN
-vpn-error-page-keep-browsing = ท่องเว็บในวาระนี้ต่อไป
-vpn-error-page-new-session = เริ่มวาระใหม่
+vpn-error-page-keep-browsing = ท่องเว็บในเซสชันนี้ต่อไป
+vpn-error-page-new-session = เริ่มเซสชันใหม่
 vpn-paused-alert-close-tabs-button = ปิดแท็บทั้งหมด
 vpn-paused-alert-continue-wo-vpn-button = ดำเนินการต่อโดยไม่ต้องใช้ VPN
 vpn-error-alert-title = ขณะนี้ VPN ใช้งานไม่ได้
