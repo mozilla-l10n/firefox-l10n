@@ -775,6 +775,11 @@ update-in-progress-ok-button = &Ignorar
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Acerca de { -brand-short-name }
+
 ## Firefox updates
 
 update-application-heading =
@@ -782,6 +787,8 @@ update-application-heading =
     .description = Las actualizaciones mejoran la velocidad, estabilidad y seguridad de { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Notificaciones
+update-application-updates-managed-by-os =
+    .message = Las actualizaciones son administradas por el sistema operativo
 
 ## Firefox support
 
@@ -823,6 +830,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Usar desplazamiento automático
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navegación y desplazamiento por teclado
+motion-and-link-group =
+    .label = Estilo de movimiento y enlaces
 browsing-use-smooth-scrolling =
     .label = Usar desplazamiento suave
     .accesskey = v
@@ -864,6 +875,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saber más
 browsing-group =
     .label = Navegación
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Accesibilidad
+preferences-default-zoom-select =
+    .aria-label = Ampliación predeterminada
+preferences-fonts-family =
+    .label = Familia tipográfica
+    .accesskey = D
+preferences-fonts-size =
+    .label = Tamaño de letra
+    .accesskey = l
+preferences-fonts-advanced-settings =
+    .label = Ajustes avanzados
+    .accesskey = A
 
 ## General Section - Proxy
 
@@ -1042,6 +1069,12 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Deportes
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Reloj
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoyar a { -brand-product-name }
@@ -1055,6 +1088,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Elija un fondo de pantalla
 home-prefs-choose-wallpaper-link2 =
     .label = Elija un fondo de pantalla
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para usar estas funcionalidades, configure las nuevas pestañas o ventanas nuevas con { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1168,6 +1206,7 @@ search-edit-engine =
     .label = Editar
     .accesskey = E
 search-find-more-link = Encontrar más buscadores
+search-filtering-for-add-engine = Añadir buscador
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Palabra clave duplicada
@@ -1186,6 +1225,9 @@ search-engine-group =
     .label = Buscador predeterminado
 search-default-engine =
     .aria-label = Buscador predeterminado
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Buscar
 
 ## Containers Section
 
@@ -1211,6 +1253,9 @@ sync-group-label =
     .label = Sincronización
 account-group-label2 =
     .label = Cuenta
+account-placeholder2 =
+    .label = No ha iniciado sesión
+    .description = Inicie sesión y mantenga sus datos privados, cifrados y accesibles al instante dondequiera que use { -brand-short-name }.
 account-group-label =
     .label = Cuenta de { -vendor-short-name }
 account-placeholder =
@@ -1340,6 +1385,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Se están sincronizando estos ítems en todos sus dispositivos conectados:
 sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
+sync-syncing-across-devices-empty-state2 =
+    .label = Administrar datos sincronizados
+    .description = No se está sincronizando nada… aún. Empiece a sincronizar para tener todos sus datos en todos sus dispositivos.
 sync-syncing-across-devices-empty-state =
     .label = No se está sincronizando nada… todavía.
     .description = Comience a sincronizar para obtener todos sus datos en todos sus dispositivos.
@@ -1572,6 +1620,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saber más
 forms-windows-sso-desc = Administrar cuentas en la configuración de su dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Ajustes del panel de privacidad
+    .description = Reciba ayuda para proteger su información en línea con { -brand-short-name }
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostrar mensajes de filtraciones
+    .accesskey = M
 
 ## OS Authentication dialog
 
