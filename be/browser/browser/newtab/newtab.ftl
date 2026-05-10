@@ -865,6 +865,60 @@ newtab-widget-timer-start-aria =
             [few] Пачаць таймер на { $minutes } хвіліны
            *[many] Пачаць таймер на { $minutes } хвілін
         }
+newtab-widget-timer-pause-aria =
+    .aria-label = Прыпыніць таймер
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } хвіліна
+            [few] { $minutes } хвіліны
+           *[many] { $minutes } хвілін
+        }
+newtab-widget-timer-decrease-min =
+    .title = Паменшыць на 1 хвіліну
+newtab-widget-timer-increase-min =
+    .title = Павялічыць на 1 хвіліну
+newtab-widget-timer-mode-group =
+    .aria-label = Рэжым таймера
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Фокус
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Перапынак
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Схаваць таймер
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Выдатная праца
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Ваш перапынак скончаны
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Патрэбен перапынак?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Гатовыя засяродзіцца?
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Падпісацца на каманды
+newtab-sports-widget-menu-view-upcoming = Праглядзець будучыя
+newtab-sports-widget-menu-view-results = Паглядзець вынікі
+newtab-sports-widget-menu-learn-more = Падрабязней
+newtab-sports-widget-get-updates = Атрымлівайце абнаўленні па матчах у рэжыме рэальнага часу і многае іншае.
+newtab-sports-widget-follow-teams =
+    .label = Падпісацца на каманды
+newtab-sports-widget-choose-wallpaper =
+    .label = Выберыце шпалеры
+newtab-sports-widget-skip = Прапусціць
+newtab-sports-widget-done-button =
+    .label = Гатова
+newtab-sports-widget-group-stage = Групавы этап
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = У ЖЫВЫМ ЭФІРЫ
+newtab-custom-widget-live-refresh =
+    .title = Абнавіць вынікі
+    .aria-label = Абнавіць вынікі
+newtab-sports-widget-upcoming = Наступныя
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -887,3 +941,7 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Гэта прастора гуляе па вашых правілах
 newtab-activation-window-message-values-focus-message = { -brand-product-name } дазваляе аглядаць так, як вам падабаецца, з больш персаналізаваным спосабам пачаць свой дзень у інтэрнэце. Зрабіце { -brand-product-name } сваім уласным.
+
+## Strings for the Clock widget
+
+newtab-clock-widget-button-save = Захаваць
