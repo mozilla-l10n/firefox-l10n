@@ -368,6 +368,8 @@ newtab-custom-widget-timer-toggle =
     .label = ਟਾਈਮਰ
 newtab-custom-widget-sports-toggle =
     .label = ਵਰਲਡ ਕੱਪ
+newtab-custom-widget-clock-toggle =
+    .label = ਘੜੀ
 newtab-custom-widget-section-title = ਵਿਜੈੱਟ
 newtab-custom-widget-section-toggle =
     .label = ਵਿਜੈੱਟ
@@ -895,12 +897,22 @@ newtab-widget-timer-celebration-message-break = ਫੋਕਸ ਲਈ ਤਿਆਰ
 newtab-sports-widget-menu-follow-teams = ਟੀਮਾਂ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
 newtab-sports-widget-menu-view-upcoming = ਹੋਣ ਵਾਲੇ ਵੇਖੋ
 newtab-sports-widget-menu-view-results = ਨਤੀਜੇ ਵੇਖੋ
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = ਖਾਸ ਤਾਰੀਖਾਂ
 newtab-sports-widget-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = ਵਰਲਡ ਕੱਪ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ
 newtab-sports-widget-get-updates = ਲਾਈਵ ਮੈਚ ਅੱਪਡੇਟ ਅਤੇ ਹੋਰ ਲਵੋ।
 newtab-sports-widget-view-schedule =
     .label = ਸੈਡਿਊਲ ਨੂੰ ਵੇਖੋ
 newtab-sports-widget-follow-teams =
     .label = ਟੀਮਾਂ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+       *[other] { $number } ਟੀਮਾਂ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = ਕੋਈ ਵਾਲਪੇਪਰ ਚੁਣੋ
 newtab-sports-widget-skip = ਛੱਡੋ
