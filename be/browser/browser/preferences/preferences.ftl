@@ -1625,6 +1625,17 @@ forms-windows-sso-learn-more-link = Падрабязней
 forms-windows-sso-desc = Кіраванне ўліковымі запісамі ў наладах прылады
 windows-passkey-settings-label = Кіраваць ключамі доступу ў наладах сістэмы
 
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Налады панэлі прыватнасці
+    .description = Атрымайце дапамогу ў ахове сваёй сеціўнай інфармацыі ў { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Паказваць паведамленні пра ўзлом
+    .accesskey = ц
+
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Primary Password.
@@ -2187,6 +2198,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Дазволы
     .description = Кіруйце тым, куды сайты могуць мець доступ, што кантраляваць або запускаць.
+permissions-data-section =
+    .heading = Дазволы і дадзеныя
+pane-permissions-data-title = Дазволы і дадзеныя
 
 ## Privacy Section - Data Collection
 
@@ -2517,6 +2531,22 @@ preferences-connection-link-button =
 desktop-folder-name = Працоўны стол
 downloads-folder-name = Сцягванні
 choose-download-folder-title = Выбар папкі сцягванняў:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Выгляд
+browser-theme-group =
+    .label = Тэма браўзера
+    .description = Стылізуйце { -brand-short-name } па-свойму. Колеры тэмы прымяняюцца да паліц прылад, меню і паведамленняў.
+browser-theme-manage-link =
+    .label = Кіраваць тэмамі { -brand-short-name }
+related-settings-group =
+    .label = Звязаныя налады
+related-settings-accessibility-link =
+    .label = Наладзіць параметры маштабу і шрыфту ў раздзеле "Даступнасць"
+related-settings-home-link =
+    .label = Уладкаваць { -firefox-home-brand-name }
 
 ## AI controls page
 
