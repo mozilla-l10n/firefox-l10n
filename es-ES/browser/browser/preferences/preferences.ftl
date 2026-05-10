@@ -2523,6 +2523,22 @@ desktop-folder-name = Escritorio
 downloads-folder-name = Descargas
 choose-download-folder-title = Elegir carpeta de descarga:
 
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Apariencia
+browser-theme-group =
+    .label = Tema del navegador
+    .description = Personalice { -brand-short-name } a su manera. Los colores del tema se aplican a las barras de herramientas, menús y mensajes.
+browser-theme-manage-link =
+    .label = Administrar temas de { -brand-short-name }
+related-settings-group =
+    .label = Ajustes relacionados
+related-settings-accessibility-link =
+    .label = Personalice el aumento y la fuente en Accesibilidad
+related-settings-home-link =
+    .label = Personalizar { -firefox-home-brand-name }
+
 ## AI controls page
 
 preferences-ai-controls-header =
@@ -2591,6 +2607,14 @@ security-privacy-status-ok-label = Protección mejorada contra rastreo activada
 security-privacy-status-problem-label = Hemos encontrado configuraciones que afectan a la protección
 security-privacy-status-problem-helper-label = Ver problemas
 security-privacy-status-pending-trackers-label = Buscando cuántos rastreadores bloqueó { -brand-short-name } en el último mes
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } rastreador bloqueado durante el último mes
+       *[other] { $trackerCount } rastreadores bloqueados durante el último mes
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Tiene <a data-l10n-name="strict-tracking-protection">protección estricta</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
@@ -2616,6 +2640,12 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .label = Protección mejorada contra el rastreo
+    .description = Los sitios usan rastreadores para seguirle en línea y mostrar publicidades horribles. { -brand-short-name } le protege al navegar, bloqueando automáticamente los rastreadores para que usted tenga el control de su rastro digital.
+preferences-etp-level-standard =
+    .label = Estándar (predeterminada)
+    .description = Protecciones seguras y fiables que funcionan de forma fluida con la mayoría de los sitios web.
 preferences-etp-level-strict =
     .label = Estricto
     .description = Mejores protecciones que bloquean más rastreadores, pero que pueden causar que ciertas páginas dejen de funcionar correctamente.
@@ -2624,8 +2654,14 @@ preferences-etp-level-custom =
     .description = Seleccione qué protecciones activar o desactivar.
 preferences-etp-status-advanced-button =
     .label = Configuración avanzada
+preferences-etp-status-protections-dashboard-link =
+    .label = Vea su panel de protecciones personalizado
+    .description = Vea cuántos rastreadores furtivos fueron bloqueados por { -brand-short-name }, incluyendo rastreadores de redes sociales, detectores de huellas y criptomineros.
 preferences-etp-header =
     .heading = Protección contra rastreo mejorada
+preferences-etp-advanced-settings-group =
+    .label = Ajustes avanzados
+    .description = Los sitios usan rastreadores para seguirle en línea y mostrar publicidades horribles. { -brand-short-name } le protege al navegar, bloqueando la mayoría de los rastreadores automáticamente para que usted tenga el control de su rastro digital.
 preferences-etp-customize-button =
     .label = Personalizar la protección contra el rastreo
 preferences-etp-reload-tabs-hint =
@@ -2634,12 +2670,24 @@ preferences-etp-reload-tabs-hint-button =
     .label = Recargar todas las pestañas
 preferences-etp-rfp-warning-message =
     .message = Está usando Resist Fingerprinting (RFP), que reemplaza algunas de las configuraciones de protección de huellas de { -brand-short-name }. Esto podría provocar que algunos sitios fallen.
+preferences-etp-level-warning-message =
+    .heading = ¡Atención! Algunos sitios pueden no funcionar como se esperaba.
+    .message = Algunos sitios incluyen rastreadores en sus funciones o contenido. Cuando { -brand-short-name } los bloquea, el sitio parece estar roto. Intente usar “Solucionar problema del sitio” o desactivar la protección contra el rastreo en ese sitio.
+preferences-etp-manage-exceptions-button =
+    .label = Administrar excepciones
+    .description = Administrar los sitios web donde se desactiva la protección mejorada contra el rastreo.
 preferences-etp-customize-header =
     .heading = Personalizar la protección contra el rastreo
+preferences-etp-reset =
+    .label = Restablecer personalizaciones
+    .description = Restablecer los ajustes a un nivel de protección predeterminado.
 preferences-etp-reset-standard-button =
     .label = Restablecer a nivel estándar
 preferences-etp-reset-strict-button =
     .label = Restablecer a nivel estricto
+preferences-etp-custom-control-group =
+    .label = Protección contra el rastreo
+    .description = Seleccione qué protecciones activar o desactivar.
 preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =
@@ -2661,6 +2709,12 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 
 ## Warnings section
 
+security-privacy-issue-warning-fingerprinters =
+    .label = Los detectores de huellas digitales conocidos no están bloqueados
+    .description = Esto puede permitir que algunos rastreadores le sigan sin cookies.
+security-privacy-issue-warning-third-party-cookies =
+    .label = Cookies de terceros activadas.
+    .description = Las cookies de terceros se usan para rastrearle entre sitios.
 security-privacy-issue-warning-password-manager =
     .label = El gestor de contraseñas está desactivado
     .description = Los gestores de contraseñas le ayudan a almacenar contraseñas seguras para sus cuentas.
