@@ -617,6 +617,9 @@ applications-setting =
     .description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
 applications-header = Program
 applications-description = Vel korleis { -brand-short-name } handsamar filer du hentar frå nettet eller programma du brukar når du surfar.
+applications-setting2 =
+    .label = Filer og program
+    .description = Vel korleis { -brand-short-name } handsamar nedlasta filer og innhald.
 applications-filter =
     .placeholder = Søk filtypar eller program
 applications-type-column =
@@ -2510,6 +2513,9 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Tilkoplings- og programvaresikkerheit
+preferences-connection-link-section =
+    .label = Tilkoplings- og programvaresikkerheit
+    .description = Sjå korleis tilkoplingar blir haldne sikre, skadeleg programvare blir blokkerte og nettstadar blir verifiserte.
 preferences-connection-link-button =
     .label = Avanserte innstillingar
 
