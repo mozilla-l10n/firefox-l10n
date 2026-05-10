@@ -70,6 +70,8 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } Hakkında
     .title = { pane-about-firefox-title }
+pane-appearance-title = Görünüm
+    .title = { pane-appearance-title }
 pane-downloads-title = İndirilenler
 pane-downloads =
     .heading = { pane-downloads-title }
@@ -340,6 +342,12 @@ browser-layout-show-sidebar-desc = Ana görünümünüzden ayrılmadan yer imler
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Dil ve görünüm
+appearance-group2 =
+    .label = Web sitesi görünümü
+    .description = Bazı siteler renklerini tercihlerinize uyacak şekilde değiştirir. Tercih ettiğiniz renk şemasını seçin.
+preferences-web-appearance-choice-auto3 =
+    .label = Sistem
+    .title = Web sitesi arka planlarını ve içeriğini sistem ayarlarıma ve { -brand-short-name } temama göre otomatik olarak değiştir.
 appearance-group =
     .label = Web sitesi görünümü
     .description = Bazı web siteleri renk şemalarını tercihlerinize göre uyarlar. Bu sitelerde kullanmak istediğiniz renk şemasını seçin.
@@ -576,6 +584,12 @@ download-save-files-header =
     .label = Dosya kayıt yeri
 download-save-where-3 =
     .aria-label = Dosya kayıt yeri
+download-always-ask-where2 =
+    .label = Dosyaları indirmeden önce nereye kaydedileceğini sor
+    .accesskey = D
+download-private-browsing-delete2 =
+    .label = Gizli pencere kapatıldığında o pencerede indirilenleri sil
+    .accesskey = G
 downloads-header-2 =
     .label = İndirme
 download-save-where-2 =
@@ -606,6 +620,9 @@ applications-setting =
     .description = { -brand-short-name } tarayıcısının web’den indirdiğiniz dosyaları veya web’de gezinirken kullandığınız uygulamaları nasıl ele alacağını seçin.
 applications-header = Uygulamalar
 applications-description = { -brand-short-name } tarayıcısının web’den indirdiğiniz dosyaları veya web’de gezinirken kullandığınız uygulamaları nasıl ele alacağını seçin.
+applications-setting2 =
+    .label = Dosyalar ve uygulamalar
+    .description = { -brand-short-name } tarayıcısının indirilen dosyaları ve içerikleri nasıl ele alacağını seçin.
 applications-filter =
     .placeholder = Dosya türlerinde ve uygulamalarda ara
 applications-type-column =
@@ -685,9 +702,15 @@ applications-handle-new-file-types-description = { -brand-short-name } diğer do
 applications-save-for-new-types =
     .label = Dosyaları kaydet
     .accesskey = D
+applications-save-for-new-types2 =
+    .label = Dosyaları otomatik olarak kaydet
+    .accesskey = o
 applications-ask-before-handling =
     .label = Dosyaları açmayı veya kaydetmeyi sor
     .accesskey = o
+applications-ask-before-handling2 =
+    .label = Dosyaları açmayı veya kaydetmeyi sor
+    .accesskey = a
 drm-group =
     .label = Sayısal Hak Yönetimi (DRM) içerikleri
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
@@ -1049,6 +1072,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Spor
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Saat
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = { -brand-product-name } tarayıcısını destekleyin
@@ -2168,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = İzinler
     .description = Sitelerin erişebileceği, yönetebileceği ve tetikleyebileceği şeyleri yönetin.
+permissions-data-section =
+    .heading = İzinler ve veriler
+pane-permissions-data-title = İzinler ve veriler
 
 ## Privacy Section - Data Collection
 
@@ -2498,6 +2527,22 @@ preferences-connection-link-button =
 desktop-folder-name = Masaüstü
 downloads-folder-name = İndirilenler
 choose-download-folder-title = İndirme klasörünü seçin:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Görünüm
+browser-theme-group =
+    .label = Tarayıcı teması
+    .description = { -brand-short-name } tarayıcınıza istediğiniz tarzı katın. Tema renkleri araç çubuklarına, menülere ve iletilere uygulanır.
+browser-theme-manage-link =
+    .label = { -brand-short-name } temalarını yönet
+related-settings-group =
+    .label = İlgili ayarlar
+related-settings-accessibility-link =
+    .label = Yakınlaştırma ve yazı tipi ayarlarını “Erişilebilirlik” sayfasından özelleştirebilirsiniz
+related-settings-home-link =
+    .label = { -firefox-home-brand-name } tarayıcısını özelleştir
 
 ## AI controls page
 
