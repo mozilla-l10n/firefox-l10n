@@ -25,12 +25,20 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Presentamos la VPN, ahora dentro del navegador
 ipprotection-feature-introduction-link-text-2 = Use nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar su ubicación y proteger sus datos.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Añada otra capa de privacidad
+ipprotection-feature-introduction-link-text-privacy = La VPN integrada de <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ayuda a proteger su navegación. Elija entre 5 ubicaciones para mantener su navegación más privada.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar su ubicación y proteger sus datos, aunque esté en una ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navegación con protección adicional ocultando la ubicación, incluso en ventana privada.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = ¿En un Wi-Fi público? Pruebe la VPN integrada de { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Obtenga <a data-l10n-name="learn-more-vpn">privacidad adicional</a> eligiendo entre 5 ubicaciones para ocultar desde dónde navega.
 ipprotection-feature-introduction-description-captive-portal = Navegación con protección adicional ocultando la ubicación, incluso en Wi-Fi público.
 ipprotection-feature-introduction-button-primary = Siguiente
 ipprotection-feature-introduction-button-secondary-not-now = Ahora no
 ipprotection-feature-introduction-button-secondary-no-thanks = No, gracias
+ipprotection-feature-introduction-button-secondary-remove = Eliminar VPN de la barra de herramientas
 
 ## Site settings callout
 
@@ -38,16 +46,26 @@ ipprotection-site-settings-callout-title = Escoja dónde usar la VPN
 ipprotection-site-settings-callout-subtitle = Desactive la VPN para un sitio específico y lo recordaremos la próxima vez que lo visite.
 ipprotection-site-settings-callout-button = Entendido
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nuevo: Cambiar la ubicación
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> le permite elegir entre 5 ubicaciones de navegación o podemos elegir automáticamente la más rápida para usted.
+ipprotection-location-selection-callout-primary-button = Pruébelo
+ipprotection-location-selection-callout-secondary-button = Descartar
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Pruebe la VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Oculte su ubicación</a> mientras navega en { -brand-product-name }.
+unauthenticated-private-location-message = Ayuda a <a data-l10n-name="learn-more-vpn">mantener privada su ubicación</a> en { -brand-product-name }.
+unauthenticated-choose-location-message = Elija entre 5 ubicaciones o permita que { -brand-product-name } seleccione la más rápida.
 unauthenticated-hide-location-message-2 = Oculte su ubicación mientras navega en { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Obtenga { $maxUsage } GB de datos gratuitos por la VPN cada mes.
 unauthenticated-get-started = Comenzar
+unauthenticated-terms-of-service-privacy-notice = Al continuar, acepta los <a data-l10n-name="vpn-terms-of-service">términos de servicio</a> y el <a data-l10n-name="vpn-privacy-notice">aviso de privacidad</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Usar la VPN para este sitio
     .aria-label = La VPN está activada para este sitio
