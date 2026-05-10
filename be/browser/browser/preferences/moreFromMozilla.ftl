@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Больш ад { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Больш ад { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Больш ад { -vendor-short-name }
 more-from-moz-subtitle = Паспрабуйце іншыя прадукты { -vendor-short-name }, якія падтрымліваюць здаровы інтэрнэт.
 more-from-moz-firefox-mobile-title = { -brand-product-name } для мабільных прылад
 more-from-moz-firefox-mobile-description = Мабільны браўзер, які ставіць вашу прыватнасць на першае месца.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } для мабільных прылад
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } для мабільных прылад
+    .description = Мабільны браўзер, які ставіць вашу прыватнасць на першае месца.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Адкрыйце для сябе дадатковы ўзровень ананімнага аглядання і аховы.
 more-from-moz-qr-code-box-firefox-mobile-title = Сцягніце з дапамогай мабільнай прылады. Накіруйце камеру на QR-код. Калі з'явіцца спасылка, націсніце на яе.
@@ -46,3 +51,22 @@ more-from-moz-solo-title-2 = Штучны інтэлект для стварэн
 more-from-moz-mdn-description = Вывучайце вэб-распрацоўку з дапамогай бясплатных, падрабязных кіраўніцтваў і даведнікаў.
 more-from-moz-mdn-button = Вывучаць вэб-распрацоўку
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Бясплатная электронная пошта, каляндар і кантакты — арганізаваныя па-вашаму.
+more-from-moz-thunderbird-button = Атрымаць { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Новыя прадукты { -vendor-short-name }
+more-from-moz-new-products-description = Адкрыйце для сябе найноўшыя прадукты ад { -vendor-short-name }
+more-from-moz-new-products-button = Паглядзець новыя прадукты
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Адскануйце камерай тэлефона або планшэта, каб атрымаць праграму. Націсніце на спасылку, калі яна з'явіцца.
+more-from-moz-firefox-mobile-email-link = Адправіць спасылку для сцягвання на свой тэлефон
