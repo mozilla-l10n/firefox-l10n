@@ -1629,7 +1629,7 @@ privacy-panel-settings-header =
 # By “breach message” we mean the UI messaging shown when Firefox detects that a
 # site the user has interacted with has been involved in a known data breach
 privacy-panel-breach-alerts =
-    .label = İhlal mesajlarını göster
+    .label = İhlal edilmiş site uyarılarını göster
     .accesskey = h
 
 ## OS Authentication dialog
@@ -1697,7 +1697,7 @@ autofill-addresses-checkbox-message =
     .label = Adresleri kaydedip otomatik doldur
     .accesskey = A
 autofill-addresses-manage-addresses-button =
-    .label = Adresleri ve daha fazlasını yönet
+    .label = Adresleri ve diğer bilgileri yönet
     .accesskey = d
 addresses-list-header =
     .label = Adresler
@@ -1710,7 +1710,7 @@ addresses-delete-address-prompt-confirm-button = Sil
 addresses-delete-address-prompt-cancel-button = Vazgeç
 autofill-addresses-add-button = Yeni adres ekle
 autofill-addresses-manage-addresses-title =
-    .heading = Adresleri ve daha fazlasını yönet
+    .heading = Adresleri ve diğer bilgileri yönet
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Hiç adres eklenmedi
@@ -2326,7 +2326,7 @@ security-enable-safe-browsing =
     .accesskey = T
 security-enable-safe-browsing-link = Daha fazla bilgi al
 security-safe-browsing-warning =
-    .message = Bu ayarı kapatmanız dolandırıcılığa, kötü amaçlı sitelere ve tehlikeli indirmelere karşı korumayı zayıflatır.
+    .message = Bu ayarı kapatırsanız dolandırıcılığa, kötü amaçlı sitelere ve tehlikeli indirmelere karşı korumanız zayıflar.
 security-block-downloads =
     .label = Tehlikeli indirmeleri engelle
     .accesskey = i
