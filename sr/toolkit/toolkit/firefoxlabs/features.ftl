@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Прилагодите своје прегледање
 experimental-features-group-productivity =
     .label = Продуктивност
+experimental-features-group-newtab-widgets =
+    .label = Елементи на { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Лозинке у бочној траци
@@ -64,15 +66,31 @@ experimental-features-fx-web-apps-description = Отворите сајтове 
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Спискови на { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Спискови
 experimental-features-newtab-widget-lists-description = Нека вам списак обавеза буде на уму када отворите нови језичак. Од спискова за паковање до спискова за куповину, правите своје планове у { -brand-product-name } прегледачу. <a data-l10n-name="connect">Пошаљите повратне информације</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Одбројавач на { -firefox-home-brand-name } почетној страници
+experimental-features-newtab-widget-timer-new =
+    .label = Одбројавач
 experimental-features-newtab-widget-timer-description = Поставите одбројавач који ће вас држати фокусираним, подстаћи вас да останете на путу или вас подсетити да се освежите. <a data-l10n-name="connect">Пошаљите повратне информације</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Спискови и одбројавач на { -firefox-home-brand-name } почетној страници
 experimental-features-newtab-widget-lists-and-timer-description = Нека вам списак обавеза буде на уму када отворите нови језичак. Од спискова за паковање до спискова за куповину, правите своје планове у { -brand-product-name } прегледачу. Поставите одбројавач који ће вас држати фокусираним, подстаћи вас да останете на путу или вас подсетити да се освежите. <a data-l10n-name="connect">Пошаљите повратне информације</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Прогнозе времена
+experimental-features-newtab-widget-weather-description = Добијте јасан преглед данашњег времена уз часовне прогнозе. <a data-l10n-name="connect">Пошаљите повратне информације</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Слика дана
+experimental-features-newtab-widget-picture-of-the-day-description = Унесите мало свакодневне лепоте у ваш дан. Добијте нову слику, сазнајте нешто занимљиво и у трену поставите нову позадину. <a data-l10n-name="connect">Пошаљите примедбе</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Часовници
+experimental-features-newtab-widget-clocks-description = Додајте до четири часовника са прилагођеним називима да бисте пратили време на местима која су вам важна. <a data-l10n-name="connect">Пошаљите примедбе</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Семантичка претрага историјата
