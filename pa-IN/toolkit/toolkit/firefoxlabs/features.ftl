@@ -49,6 +49,13 @@ experimental-features-newtab-widget-timer =
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name } ਉੱਤੇ ਸੂਚੀਆਂ ਅਤੇ ਘੜੀ
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = ਘੜੀਆਂ
+experimental-features-newtab-widget-clocks-description = ਥਾਵਾਂ, ਜੋ ਤੁਹਾਡੇ ਲਈ ਮਹੱਤਵ ਰੱਖਦੀਆਂ ਹਨ, ਉਹਨਾਂ ਲਈ 4 ਘੜੀਆਂ ਨੂੰ ਮਨਮਰਜ਼ੀ ਦੇ ਨਾਂ ਰੱਖ ਕੇ ਜੋੜੋ। <a data-l10n-name="connect">ਸੁਝਾਅ ਭੇਜੋ</a>
 experimental-features-semantic-history-search-description = ਅਤੀਤ ਤੋਂ ਐਂਟਰੀਆਂ ਦਾ ਸੁਝਾਅ, ਜੋ ਕਿ { -brand-product-name } ਐਡਰੈਸ ਪੱਟੀ ਵਿੱਚ ਕੁਦਰਤੀ ਭਾਸ਼ਾ ਦੀ ਸਮਝ ਦੇ ਮੁਤਾਬਕ ਤੁਹਾਡੀਆਂ ਖੋਜਾਂ ਨਾਲ ਸੰਬੰਧਿਤ ਹੁੰਦੇ ਹਨ, ਦੇਣ ਲਈ ਲੋਕਲ ਮਸ਼ੀਨ ਸਿਖਲਾਈ ਮਾਡਲ ਨੂੰ ਵਰਤੋਂ। <a data-l10n-name="connect">ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ</a>
 # Tab Notes
 experimental-features-tab-notes =

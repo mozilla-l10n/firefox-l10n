@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = { -brand-short-name } ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 sidebar-vertical-tabs =
     .label = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ
+sidebar-settings2 =
+    .label = ਸੈਟਿੰਗਾਂ
 sidebar-settings =
     .label = ਬਾਹੀ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = ਮਾਊਸ ਕੋਲ ਲੈ ਜਾਣ ਉੱਤੇ ਬਾਹੀ ਨੂੰ ਫੈਲਾਓ
+sidebar-manage-extensions2 = ਸਾਰੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 sidebar-manage-extensions = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+sidebar-customize-extensions-header2 = ਇਕਸਟੈਨਸ਼ਨ
+sidebar-customize-firefox-tools-header2 =
+    .label = ਟੂਲ
 
 ## Labels for sidebar context menu items
 
