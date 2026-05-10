@@ -70,3 +70,22 @@ more-from-moz-new-products-button = Паглядзець новыя прадук
 more-from-moz-firefox-mobile-qr-promo =
     .message = Адскануйце камерай тэлефона або планшэта, каб атрымаць праграму. Націсніце на спасылку, калі яна з'явіцца.
 more-from-moz-firefox-mobile-email-link = Адправіць спасылку для сцягвання на свой тэлефон
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Даведайцеся, дзе ваша асабістая інфармацыя была раскрыта ў інтэрнэце, з дапамогай бясплатнага сканавання.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Атрымайце дадатковую ахову для ўсіх праграм, а не толькі для браўзера. Захоўвайце бяспеку сваіх звестак у грамадскім Wi-Fi і неабароненых сетках.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Абараніце сваю паштовую скрыню ад спаму з дапамогай бясплатнай маскіроўкі электроннай пошты.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Вывучайце вэб-распрацоўку з дапамогай бясплатных кіраўніцтваў і даведнікаў.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Майце доступ да сваёй электроннай пошты, календароў і кантактаў у адной хуткай праграме.
