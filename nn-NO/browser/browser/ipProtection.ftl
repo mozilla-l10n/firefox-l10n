@@ -207,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Få endå meir vern utanfor { -brand-short-name } med { -mozilla-vpn-brand-name }
     .description = Vel eigendefinerte VPN-plasseringar og legg til vern for alle appane dine på opptil fem einingar, anten du er heime eller på offentleg Wi-Fi.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Ta vernet vidare med { -mozilla-vpn-brand-name }
+    .description = Vel mellom over 300 stadar og vern alle appane dine på opptil 5 einingar.
 
 ## IP Protection dialogs
 

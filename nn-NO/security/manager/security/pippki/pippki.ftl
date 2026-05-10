@@ -105,6 +105,9 @@ set-password-reminder = Viktig: Dersom du gløymer passordet til tryggingskopien
 
 protected-auth-window =
     .title = Beskytta autentisering
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Autentiser deg for tryggingseininga ({ $tokenName }). Korleis dette blir gjort er avhengig av eininga (til dømes ved bruk av fingeravtrykkslesar eller ved å skrive inn ein kode på eit tastatur).
 
 ## Protected authentication alert
 
