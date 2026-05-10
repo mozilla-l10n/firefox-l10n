@@ -58,17 +58,21 @@ ipprotection-location-selection-callout-secondary-button = Адхіліць
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Паспрабуйце ўбудаваны VPN ад { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Схавайце сваё месцазнаходжанне</a> ў часе аглядання ў { -brand-product-name }.
+unauthenticated-private-location-message = Дапамагае <a data-l10n-name="learn-more-vpn">захоўваць прыватнасць вашага месцазнаходжання</a> ў { -brand-product-name }.
+unauthenticated-choose-location-message = Выберыце адно з 5 месцаў або дазвольце { -brand-product-name } выбраць самае хуткае.
 unauthenticated-hide-location-message-2 = Хавайце сваё месцазнаходжанне ў часе аглядання ў { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Атрымлівайце { $maxUsage } ГБ бясплатных VPN-дадзеных кожны месяц.
 unauthenticated-get-started = Пачаць
+unauthenticated-terms-of-service-privacy-notice = Працягваючы, вы згаджаецеся з <a data-l10n-name="vpn-terms-of-service">Умовамі абслугоўвання</a> і <a data-l10n-name="vpn-privacy-notice">Паведамленнем аб прыватнасці</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Выкарыстоўваць VPN для гэтага сайта
     .aria-label = VPN уключаны для гэтага сайта
 site-exclusion-toggle-disabled-1 =
     .label = Выкарыстоўваць VPN для гэтага сайта
     .aria-label = VPN для гэтага сайта выключаны
+site-exclusion-toggle-description = Сайт не працуе? Паспрабуйце адключыць VPN.
 ipprotection-settings-link =
     .label = Налады
 
@@ -88,6 +92,26 @@ ipprotection-button-turn-vpn-on = Уключыць VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Уключэнне…
 
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Месцазнаходжанне: Рэкамендаванае
+ipprotection-recommended-location-description = { -brand-product-name } знаходзіць найхутчэйшае месцазнаходжанне
+ipprotection-recommended-location-badge = НОВАЕ
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Месцазнаходжанне: { $country }
+ipprotection-locations-subview =
+    .title = Абраць месцазнаходжанне
+ipprotection-locations-subview-description = Выберыце іншае месца, адкуль аглядаць.
+ipprotecion-locations-subview-recommended-label = Рэкамендаваныя
+ipprotection-locations-subview-recommended-description = Знаходзіць найхутчэйшае месцазнаходжанне
+ipprotection-locations-subview-promo =
+    .heading = Палепшыце абарону з дапамогай { -mozilla-vpn-brand-name }
+    .message = Выбірайце з больш чым 300 месцаў і абараняйце ўсе свае праграмы на максімум 5 прыладах.
+ipprotection-locations-subview-promo-button = Атрымаць { -mozilla-vpn-brand-name }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPN прыпынены
@@ -97,6 +121,10 @@ ipprotection-connection-status-paused-description = Вы выкарысталі 
 upgrade-vpn-title = Атрымайце дадатковую абарону па-за межамі браўзера
 upgrade-vpn-description = Выберыце месцазнаходжанне VPN, выкарыстоўвайце VPN для ўсіх вашых праграм і да 5 прылад і заставайцеся ў бяспецы ў любой сетцы — дома ці ў грамадскім Wi-Fi.
 upgrade-vpn-button = Паспрабуйце { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN прыпынены
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Вы выкарысталі ўсе { $maxUsage } ГБ вашага VPN-трафіку. Доступ перазапусціцца ў наступным месяцы.
 
 ## Messages and errors
 
