@@ -833,20 +833,40 @@ newtab-sports-widget-menu-view-results = Ver resultados
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Fechas clave
 newtab-sports-widget-menu-learn-more = Saber más
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Manténgase al tanto de la Copa del Mundo
 newtab-sports-widget-get-updates = Reciba actualizaciones de partidos en directo y mucho más.
+newtab-sports-widget-view-schedule =
+    .label = Ver calendario
 newtab-sports-widget-follow-teams =
     .label = Seguir equipos
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Siga hasta { $number } equipo
+       *[other] Siga hasta { $number } equipos
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Elija un fondo de pantalla
 newtab-sports-widget-skip = Saltar
+newtab-sports-widget-search-country =
+    .placeholder = Buscar país
+    .aria-label = Buscar país
+newtab-sports-widget-cancel = Cancelar
 newtab-sports-widget-done-button =
     .label = Hecho
 newtab-sports-widget-group-stage = Fase de grupos
+newtab-sports-widget-round-32 = Dieciseisavos de final
+newtab-sports-widget-round-16 = Octavos de final
+newtab-sports-widget-quarter-finals = Cuartos de final
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = EN DIRECTO
 newtab-custom-widget-live-refresh =
     .title = Actualizar resultados
     .aria-label = Actualizar resultados
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Fechas clave
 newtab-sports-widget-upcoming = Próximamente
 newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Semifinales
@@ -854,6 +874,15 @@ newtab-sports-widget-bronze-finals = Tercer puesto
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
 newtab-sports-widget-delayed = Retrasado
+newtab-sports-widget-postponed = Pospuesto
+newtab-sports-widget-suspended = Suspendido
+newtab-sports-widget-cancelled = Cancelado
+newtab-sports-widget-information = Información sobre el partido
+newtab-sports-widget-no-live-data = Los datos de los partidos en directo no se están actualizando en este momento
+newtab-sports-widget-view-results-link = Ver resultados
+newtab-sports-widget-third-place = Tercer puesto
+newtab-sports-widget-champions = Campeones
+newtab-sports-widget-world-cup-champions = Campeones de la Copa del Mundo 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
