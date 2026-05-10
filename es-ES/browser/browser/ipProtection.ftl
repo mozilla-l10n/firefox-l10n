@@ -207,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Consiga aún más protección fuera de { -brand-short-name } con { -mozilla-vpn-brand-name }.
     .description = Seleccione ubicaciones de VPN personalizadas y proteja todas las apps en hasta cinco dispositivos, tanto en casa como en una red Wi-Fi pública.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Lleve la protección más allá con { -mozilla-vpn-brand-name }
+    .description = Escoja entre más de 300 ubicaciones y proteja todas sus aplicaciones en hasta 5 dispositivos.
 
 ## IP Protection dialogs
 
@@ -259,6 +262,9 @@ vpn-paused-alert-title = VPN en pausa
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Ha usado todos los { $maxUsage } GB de datos de su VPN. El acceso a la VPN se restablecerá el próximo mes.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Ha usado todos los { $maxUsage } GB de datos de su VPN. El acceso se restablecerá el próximo mes.
 vpn-error-page-continue-description = Elija cómo continuar sin VPN
 vpn-error-page-keep-browsing = Continuar navegando en esta sesión
 vpn-error-page-new-session = Iniciar una nueva sesión

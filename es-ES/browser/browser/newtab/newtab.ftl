@@ -989,6 +989,17 @@ newtab-clock-widget-menu-edit = Editar relojes
 newtab-clock-widget-menu-switch-to-12h = Cambiar al formato de 12 horas
 newtab-clock-widget-menu-switch-to-24h = Cambiar al formato de 24 horas
 newtab-clock-widget-label-your-clocks = Sus relojes
+newtab-clock-widget-search-location-input =
+    .label = Ubicación
+    .placeholder = Buscar una ciudad
+    .aria-label = Buscar una ciudad
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Apodo (opcional)
+    .placeholder = Añadir un apodo
+    .aria-label = Apodo (opcional)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -1016,5 +1027,11 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Resultados de la búsqueda
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Abrir menú del reloj
+    .aria-label = Abrir menú del reloj
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Apodo: { $nickname }
