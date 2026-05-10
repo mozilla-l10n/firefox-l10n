@@ -422,7 +422,7 @@ quickactions-cmd-inspector = інспектар, прылады распрацо
 quickactions-logins2 = Кіраванне паролямі
 quickactions-cmd-logins = лагіны, паролі
 # Mutes all tabs playing audio
-quickactions-mute = Адключыць гук укладак, якія прайграваюць аўдыё
+quickactions-mute = Адключыць гук картак, якія прайграваюць аўдыё
 # List of words that would trigger the "mute tabs" action from the address bar.
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
