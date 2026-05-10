@@ -6,6 +6,10 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs =
+    { $count ->
+       *[other] +{ $count } til
+    }
 content-sharing-tabs-title =
     { $count ->
         [one] { $count } fane
