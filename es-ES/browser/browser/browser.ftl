@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Cambiar si puede recibir notificaciones del sitio
 urlbar-midi-notification-anchor =
     .tooltiptext = Abrir el panel MIDI
+urlbar-serial-notification-anchor =
+    .tooltiptext = Abrir panel serie
 urlbar-eme-notification-anchor =
     .tooltiptext = Administrar uso de software DRM
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Ha bloqueado la extracción de datos de canvas en este sitio web.
 urlbar-midi-blocked =
     .tooltiptext = Ha bloqueado el acceso al MIDI para este sitio web.
+urlbar-serial-blocked =
+    .tooltiptext = Ha bloqueado el acceso al puerto serie para este sitio web.
 urlbar-install-blocked =
     .tooltiptext = Ha bloqueado la instalación de complementos para este sitio web.
 # Variables
@@ -417,6 +421,12 @@ quickactions-cmd-inspector = inspector, herramientas de desarrollo
 # Opens about:logins
 quickactions-logins2 = Administrar contraseñas
 quickactions-cmd-logins = inicios de sesión y contraseñas
+# Mutes all tabs playing audio
+quickactions-mute = Silenciar pestañas que reproducen audio
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silencio, shhhh, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administrar plugins
 quickactions-cmd-plugins = plugins
@@ -541,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = No está conectado de forma segura a este sitio.
 identity-connection-verified = Está conectado de forma segura a este sitio.
 identity-ev-owner-label = Certificado emitido a nombre de:
+identity-verifier-label = Verificado por:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Cualificado según lo especificado en el Reglamento (UE) 2024/1183.
 identity-description-custom-root2 = Mozilla no reconoce al emisor de este certificado. Puede haber sido agregado desde su sistema operativo o por un administrador.
+identity-cert-exception-overridden = Ha añadido una excepción de seguridad para este sitio.
 identity-remove-cert-exception =
     .label = Eliminar excepción
     .accesskey = E
@@ -648,6 +660,11 @@ sharing-warning-proceed-to-tab =
     .label = Ir a la pestaña
 sharing-warning-disable-for-session =
     .label = Deshabilitar la protección de compartición para esta sesión
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Seleccione un puerto serie:
+webserial-no-ports-available = No hay puertos serie disponibles
 
 ## DevTools F12 popup
 
@@ -1006,6 +1023,7 @@ urlbar-searchmode-popup-one-off-header = Esta vez buscar con:
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
 urlbar-searchmode-popup-search-settings-panelitem = Ajustes de búsqueda
+urlbar-searchmode-popup-settings-panelitem = Ajustes
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1021,6 +1039,21 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
+
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Abrir en una pestaña nueva
+    .accesskey = A
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Abrir en nueva pestaña contenedora
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Abrir en una ventana nueva
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window =
+    .label = Abrir en una nueva ventana privada
+    .accesskey = p
 
 ## Labels shown above groups of urlbar results
 
@@ -1094,6 +1127,9 @@ fullscreen-warning-no-domain = Este documento está ahora en pantalla completa
 fullscreen-exit-button = Salir de pantalla completa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Salir de pantalla completa (esc)
+fullscreen-keyboardlock-exit-button = Salir del modo de pantalla completa (mantenga pulsada la tecla Esc)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = Salir del modo de pantalla completa (mantenga pulsada la tecla esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1253,6 +1289,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Compartir
     .tooltiptext = Compartir esta página
+toolbar-button-tab-groups =
+    .label = Grupos de pestañas
+    .tooltiptext = Mostrar sus grupos de pestañas
 
 ## EME notification panel
 
@@ -1272,6 +1311,8 @@ panel-save-update-password = Contraseña
 # "More" item in macOS share menu
 menu-share-more =
     .label = Más…
+menu-share-windows =
+    .label = Más opciones
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1435,6 +1476,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Finalizar sesión privada
     .tooltiptext = Finalizar sesión privada
+reset-pbm-panel-heading2 = ¿Borrar datos e iniciar una nueva sesión privada?
+reset-pbm-panel-description2 = Esto borra el historial, las cookies y todos los demás datos del sitio sin cerrar la ventana privada.
 reset-pbm-panel-heading = ¿Finalizar la sesión privada?
 reset-pbm-panel-description = Cerrar todas las pestañas privadas y eliminar el historial, las cookies y todos los demás datos del sitio.
 reset-pbm-panel-always-ask-checkbox =
@@ -1443,6 +1486,9 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Borrar sesión privada
+    .accesskey = i
 reset-pbm-panel-confirm-button =
     .label = Eliminar datos de sesión
     .accesskey = d
@@ -1690,8 +1736,22 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } ha permitido { $count } criptomineros
     }
 trustpanel-cryptominer-tab-list-header = Estos sitios están tratando de minar criptomonedas:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ¿Tiene una cuenta en este sitio?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } encontró que este sitio sufrió una filtración de datos en los últimos 12 meses. Averigüe si usted se vio afectado.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Descartar
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Iniciar escaneo gratuito
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> rastreador bloqueado en este sitio
        *[other] <span data-l10n-name="count">{ $count }</span> rastreadores bloqueados en este sitio
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>¿El sitio web no funciona correctamente?</strong> Recargue la página para reducir temporalmente su protección contra el rastreo.
+reduced-protection-infobar-reload-button = Recargar
+    .accesskey = R
+reduced-protection-infobar-never-show-button = No volver a mostrar
+    .accesskey = N
