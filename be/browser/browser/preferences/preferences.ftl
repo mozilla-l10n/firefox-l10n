@@ -705,8 +705,14 @@ applications-handle-new-file-types-description = Што { -brand-short-name } м
 applications-save-for-new-types =
     .label = Захоўваць файлы
     .accesskey = ы
+applications-save-for-new-types2 =
+    .label = Аўтаматычна захоўваць файлы
+    .accesskey = ы
 applications-ask-before-handling =
     .label = Пытацца, адкрываць ці захоўваць файлы
+    .accesskey = ф
+applications-ask-before-handling2 =
+    .label = Пытацца, ці адкрываць або захоўваць файлы
     .accesskey = ф
 drm-group =
     .label = Digital Rights Management (DRM) змесціва
@@ -1069,6 +1075,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Спорт
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Гадзіннік
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Падтрымаць { -brand-product-name }
@@ -1082,6 +1091,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Выберыце шпалеры
 home-prefs-choose-wallpaper-link2 =
     .label = Выберыце шпалеры
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Каб карыстацца гэтымі функцыямі, абярыце для новых картак або новых вокнаў { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
