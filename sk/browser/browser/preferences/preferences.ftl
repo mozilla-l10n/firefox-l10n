@@ -692,7 +692,13 @@ applications-handle-new-file-types-description = Čo má { -brand-short-name } r
 applications-save-for-new-types =
     .label = Uložiť súbory
     .accesskey = U
+applications-save-for-new-types2 =
+    .label = Automaticky ukladať súbory
+    .accesskey = A
 applications-ask-before-handling =
+    .label = Opýtať sa, či chcete súbory otvoriť alebo uložiť
+    .accesskey = O
+applications-ask-before-handling2 =
     .label = Opýtať sa, či chcete súbory otvoriť alebo uložiť
     .accesskey = O
 drm-group =
@@ -719,6 +725,9 @@ update-application-allow-description = Povoliť aplikácii { -brand-short-name }
 update-application-auto =
     .label = Automaticky inštalovať aktualizácie (odporúčané)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Kontrolovať aktualizácie, ale vybrať si, kedy ich nainštalovať
+    .accesskey = K
 update-application-check-choose =
     .label = Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú
     .accesskey = k
@@ -730,6 +739,9 @@ update-application-background-enabled =
     .accesskey = A
 update-application-warning-cross-user-setting-2 =
     .message = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Zobrazovať menej pripomienok k aktualizáciám
+    .accesskey = m
 update-application-warning-cross-user-setting = Toto nastavenie sa vzťahuje na všetky účty v systéme Windows a profily aplikácie { -brand-short-name } používajúce túto inštaláciu aplikácie { -brand-short-name }.
 update-application-use-service =
     .label = Na inštaláciu aktualizácií používať službu na pozadí
@@ -753,8 +765,16 @@ update-in-progress-ok-button = &Zrušiť
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Pokračovať
 
+## About Firefox
+
+about-firefox-header =
+    .heading = O aplikácii { -brand-short-name }
+
 ## Firefox updates
 
+update-application-heading =
+    .label = Aktualizácie prehliadača { -brand-short-name(case: "acc") }
+    .description = Aktualizácie zlepšujú rýchlosť, stabilitu a bezpečnosť { -brand-short-name(case: "gen") }.
 update-application-suppress-prompts-heading =
     .label = Upozornenia
 update-application-updates-managed-by-os =
@@ -1039,6 +1059,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Časovač
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Šport
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podporiť { -brand-product-name }
@@ -2473,6 +2496,11 @@ preferences-connection-link-button =
 desktop-folder-name = Pracovná plocha
 downloads-folder-name = Stiahnuté súbory
 choose-download-folder-title = Vyberte priečinok pre stiahnuté súbory:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Vzhľad
 
 ## AI controls page
 

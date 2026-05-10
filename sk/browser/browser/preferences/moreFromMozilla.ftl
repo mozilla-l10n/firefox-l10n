@@ -70,3 +70,18 @@ more-from-moz-new-products-button = Zobraziť nové produkty
 more-from-moz-firefox-mobile-qr-promo =
     .message = Naskenujte fotoaparátom telefónu alebo tabletu a stiahnite si aplikáciu. Keď sa zobrazí odkaz, ťuknite naň.
 more-from-moz-firefox-mobile-email-link = Poslať odkaz na stiahnutie e‑mailom do telefónu
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Vďaka bezplatnému skenovaniu zistite, či boli vaše osobné údaje súčasťou úniku údajov.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Získajte { -monitor-brand-short-name(case: "acc") }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Získajte { -mozilla-vpn-brand-name(case: "acc") }
+more-from-moz-firefox-relay-box-link =
+    .label = Získajte { -relay-brand-short-name(case: "acc") }
+more-from-moz-new-products-box-link =
+    .label = Zobraziť nové produkty

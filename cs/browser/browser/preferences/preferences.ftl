@@ -850,6 +850,9 @@ update-application-warning-cross-user-setting-2 =
             [with-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name(case: "gen") }, pokud používají stejnou instalaci.
            *[no-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily aplikace { -brand-short-name }, pokud používají stejnou instalaci.
         }
+update-application-suppress-prompts-2 =
+    .label = Zobrazovat méně upozornění na aktualizace
+    .accesskey = Z
 update-application-warning-cross-user-setting =
     { -brand-short-name.case-status ->
         [with-cases] Toto nastavení ovlivní všechny uživatele systému Windows a jejich profily { -brand-short-name(case: "gen") }, pokud používají stejnou instalaci.

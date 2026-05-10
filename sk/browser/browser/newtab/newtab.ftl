@@ -852,6 +852,16 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Spustiť časovač na { $minutes } minútu
+            [few] Spustiť časovač na { $minutes } minúty
+            [many] Spustiť časovač na { $minutes } minút
+           *[other] Spustiť časovač na { $minutes } minút
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Pozastaviť časovač
 # Variables:
@@ -901,6 +911,15 @@ newtab-sports-widget-view-schedule =
     .label = Zobraziť rozpis zápasov
 newtab-sports-widget-follow-teams =
     .label = Sledovať tímy
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Sledujte { $number } tím
+        [few] Sledujte { $number } tímy
+        [many] Sledujte { $number } tímov
+       *[other] Sledujte { $number } tímov
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Vyberte si tapetu
 newtab-sports-widget-skip = Preskočiť
@@ -982,6 +1001,13 @@ newtab-clock-widget-search-location-input =
     .label = Lokalita
     .placeholder = Vyhľadať lokalitu
     .aria-label = Vyhľadať lokalitu
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Prezývka (voliteľné)
+    .placeholder = Pridať prezývku
+    .aria-label = Prezývka (voliteľné)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -1009,5 +1035,11 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Výsledky vyhľadávania
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Otvoriť ponuku hodín
+    .aria-label = Otvoriť ponuku hodín
 # $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
 newtab-clock-widget-label-nickname-with-value = Prezývka: { $nickname }
