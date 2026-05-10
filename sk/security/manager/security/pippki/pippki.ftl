@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Heslo pre zálohu certifikátov (znova)
 set-password-reminder = Dôležité: ak zabudnete heslo pre zálohu certifikátov, nebude možné neskôr obnoviť túto zálohu. Uložte toto heslo na bezpečné miesto.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Chránené overenie
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Prosím, overte si totožnosť na bezpečnostnom zariadení ({ $tokenName }). Spôsob overenia závisí od zariadenia (napríklad pomocou čítačky odtlačkov prstov alebo zadaním kódu pomocou klávesnice).
+
 ## Protected authentication alert
 
 # Variables:

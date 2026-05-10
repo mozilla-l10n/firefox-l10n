@@ -348,6 +348,9 @@ language-and-appearance-header = Jazyk a vzhľad stránok
 appearance-group2 =
     .label = Vzhľad webových stránok
     .description = Niektoré webové stránky umožňujú meniť farby podľa vašich preferencií. Vyberte si farebnú schému.
+preferences-web-appearance-choice-auto3 =
+    .label = Systém
+    .title = Automaticky meniť pozadie a obsah webových stránok na základe vašich systémových nastavení a témy vzhľadu prehliadača { -brand-short-name }.
 appearance-group =
     .label = Vzhľad webových stránok
     .description = Niektoré webové stránky prispôsobujú svoju farebnú schému podľa vašich preferencií. Vyberte farebnú schému, ktorú chcete použiť pre tieto stránky.
@@ -480,6 +483,14 @@ manage-browser-languages-button =
     .accesskey = a
 confirm-browser-language-change-description = Ak chcete použiť tieto zmeny, reštartujte { -brand-short-name(case: "acc") }
 confirm-browser-language-change-button = Použiť a reštartovať
+browser-language-heading =
+    .label = Jazyk prehliadača
+    .description = Vyberte si jazyk, v ktorom sa majú zobrazovať ponuky, správy a oznámenia { -brand-short-name(case: "gen") }.
+browser-language-preferred-label =
+    .label = Preferovaný jazyk
+browser-language-fallback-label =
+    .label = Záložný jazyk
+    .description = Používa sa, keď je lokalizácia preferovaného jazyka neúplná.
 browser-language-install-error =
     .message = { -brand-short-name } v tejto chvíli nemôže aktualizovať zoznam jazykov. Skontrolujte svoje internetové pripojenie a skúste to znova.
 translate-web-pages =
@@ -1064,6 +1075,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Šport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Hodiny
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podporiť { -brand-product-name }
@@ -1077,6 +1091,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Vyberte si tapetu
 home-prefs-choose-wallpaper-link2 =
     .label = Vyberte si tapetu
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Ak chcete tieto funkcie používať, nastavte, aby sa otváraní nových kariet alebo okien načítavala { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -2168,6 +2187,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Oprávnenia
     .description = Spravujte, k čomu môžu webové stránky pristupovať, čo môžu ovládať alebo čo môžu spúšťať.
+permissions-data-section =
+    .heading = Povolenia a údaje
+pane-permissions-data-title = Povolenia a údaje
 
 ## Privacy Section - Data Collection
 
@@ -2503,6 +2525,8 @@ choose-download-folder-title = Vyberte priečinok pre stiahnuté súbory:
 
 preferences-appearance-header =
     .heading = Vzhľad
+related-settings-group =
+    .label = Súvisiace nastavenia
 
 ## AI controls page
 
