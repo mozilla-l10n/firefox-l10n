@@ -86,6 +86,11 @@ experimental-features-newtab-widget-weather-description = Атрымлівайц
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Фота дня
+experimental-features-newtab-widget-picture-of-the-day-description = Дадайце трохі штодзённага цуду ў свой дзень. Атрымайце новы здымак, даведайцеся нешта цікавае і ўсталюйце новыя шпалеры ў імгненне вока. <a data-l10n-name="connect">Падзяліцца водгукам</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Гадзіннікі
+experimental-features-newtab-widget-clocks-description = Дадайце да чатырох гадзіннікаў з уласнымі мянушкамі, каб сачыць за часам у важных для вас месцах. <a data-l10n-name="connect">Падзяліцца водгукам</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Семантычны пошук у гісторыі

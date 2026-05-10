@@ -25,6 +25,8 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпер прама ў вашым браўзеры
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Дадайце яшчэ адзін узровень прыватнасці
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
 ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
