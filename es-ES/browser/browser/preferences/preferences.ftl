@@ -2187,6 +2187,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permisos
     .description = Gestione lo que las páginas web pueden acceder, controlar o activar.
+permissions-data-section =
+    .heading = Permisos y datos
+pane-permissions-data-title = Permisos y datos
 
 ## Privacy Section - Data Collection
 
@@ -2451,12 +2454,21 @@ preferences-doh-overview-off =
     .description = Utilice su solucionador de DNS predeterminado.
 preferences-doh-advanced-button =
     .label = Ajustes avanzados
+preferences-doh-advanced-section =
+    .label = Ajustes avanzados
+    .description = El Sistema de Nombres de Dominio sobre HTTPS (DoH) cifra las búsquedas de sítios para que sea más difícil que su proveedor de internet u otras personas vean qué sitios web va a visitar.
 preferences-doh-manage-exceptions2 =
     .label = Administrar excepciones
     .accesskey = x
 preferences-doh-radio-default =
     .label = Predeterminado
     .description = Utilizar DNS seguro en regiones donde esté disponible
+preferences-doh-radio-custom =
+    .label = Personalizado
+    .description = Usar siempre DNS seguro con control sobre su proveedor y el comportamiento de respaldo.
+preferences-doh-radio-off =
+    .label = Desactivado
+    .description = Usar su servidor DNS predeterminado
 preferences-doh-fallback-label =
     .label = Avisarme siempre si el DNS seguro no está disponible
 preferences-doh-status-item-off =
@@ -2485,10 +2497,25 @@ preferences-doh-status-item-active-local =
     .message = DNS sobre HTTPS está utilizando el proveedor local { $name }
 preferences-doh-select-resolver-label =
     .label = Seleccionar proveedor:
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = Usar este proveedor para resolver DNS sobre HTTPS
 preferences-doh-custom-provider-label =
     .aria-label = Introduzca una URL de proveedor personalizada
 preferences-doh-header2 =
     .heading = DNS sobre HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Seguridad de la conexión y del software
+preferences-connection-link-section =
+    .label = Seguridad de la conexión y del software
+    .description = Vea cómo se mantienen seguras las conexiones, se bloquea el software dañino y se verifican los sitios web.
+preferences-connection-link-button =
+    .label = Configuración avanzada
 
 ## The following strings are used in the Download section of settings
 

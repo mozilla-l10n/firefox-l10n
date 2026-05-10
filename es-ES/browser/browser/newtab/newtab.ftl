@@ -987,3 +987,5 @@ newtab-clock-widget-menu-hide = Ocultar reloj
 newtab-clock-widget-menu-learn-more = Saber más
 newtab-clock-widget-menu-edit = Editar relojes
 newtab-clock-widget-menu-switch-to-12h = Cambiar al formato de 12 horas
+newtab-clock-widget-menu-switch-to-24h = Cambiar al formato de 24 horas
+newtab-clock-widget-label-your-clocks = Sus relojes
