@@ -989,3 +989,32 @@ newtab-clock-widget-menu-edit = Editar relojes
 newtab-clock-widget-menu-switch-to-12h = Cambiar al formato de 12 horas
 newtab-clock-widget-menu-switch-to-24h = Cambiar al formato de 24 horas
 newtab-clock-widget-label-your-clocks = Sus relojes
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Añadir nuevo reloj
+    .aria-label = Añadir nuevo reloj
+newtab-clock-widget-button-add-clock = Añadir
+newtab-clock-widget-button-cancel = Cancelar
+newtab-clock-widget-button-back =
+    .title = Atrás
+    .aria-label = Atrás
+newtab-clock-widget-button-edit-clock =
+    .title = Editar reloj
+    .aria-label = Editar reloj
+newtab-clock-widget-button-save = Guardar
+newtab-clock-widget-button-remove-clock =
+    .title = Eliminar reloj
+    .aria-label = Eliminar reloj
+newtab-clock-widget-add-clock-form =
+    .aria-label = Añadir reloj
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Editar reloj
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Resultados de la búsqueda
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Apodo: { $nickname }

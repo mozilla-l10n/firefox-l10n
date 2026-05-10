@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Más de { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Más de { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Más de { -vendor-short-name }
 more-from-moz-subtitle = Consulte otros productos de { -vendor-short-name } que contribuyen a una Internet saludable.
 more-from-moz-firefox-mobile-title = { -brand-product-name } para móviles
 more-from-moz-firefox-mobile-description = El navegador para móvil que prioriza su privacidad.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } para móviles
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } para móviles
+    .description = El navegador para móviles que prioriza tu privacidad.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Descubra una capa adicional de navegación y protección anónimas.
 more-from-moz-qr-code-box-firefox-mobile-title = Descárguelo en su dispositivo móvil. Apunte con su cámara al código QR. Cuando aparezca un enlace, púlselo.
@@ -47,8 +52,30 @@ more-from-moz-mdn-description = Aprenda desarrollo web con guías y referencias 
 more-from-moz-mdn-button = Aprender desarrollo web
 more-from-moz-mdn-title2 = { -mdn-brand-name }
 
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Correo electrónico, calendario y contactos gratuitos — organizados a tu manera.
+more-from-moz-thunderbird-button = Obtener { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Nuevos productos de { -vendor-short-name }
+more-from-moz-new-products-description = Descubra los últimos productos de { -vendor-short-name }.
+more-from-moz-new-products-button = Ver nuevos productos
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Escanee con la cámara de su teléfono o tableta para obtener la aplicación. Toque el enlace cuando aparezca.
+more-from-moz-firefox-mobile-email-link = Enviar por correo electrónico un enlace de descarga a su teléfono.
+
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Descubra dónde se ha expuesto su información personal en línea con un escaneo gratuito.
 more-from-moz-new-products-box-link =
     .label = Ver nuevos productos

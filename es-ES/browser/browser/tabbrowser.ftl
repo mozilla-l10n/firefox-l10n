@@ -252,6 +252,9 @@ tab-group-editor-color-selector2-gray = Gris
     .title = Gris
 tab-group-editor-color-selector2-red = Rojo
     .title = Rojo
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Cerrado
 tab-group-description = { $tabGroupName } — Grupo de pestañas
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Contraído
 tab-group-label-tooltip-expanded = { $tabGroupName } — Expandido
@@ -260,6 +263,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Grupo sin nombre
 tab-group-name-default = Grupo sin nombre
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Grupos de pestañas
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -307,6 +318,15 @@ tab-group-editor-action-new-tab =
     .label = Nueva pestaña en el grupo
 tab-group-editor-action-new-window =
     .label = Mover grupo a una nueva ventana
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Copiar enlace en el grupo
+            [one] Copiar { $linkCount } enlace en el grupo
+           *[other] Copiar { $linkCount } enlaces en el grupo
+        }
 tab-group-editor-action-save =
     .label = Guardar y cerrar grupo
 tab-group-editor-action-ungroup =
@@ -316,6 +336,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Hecho
     .accessKey = H
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Compartir grupo de pestañas
 tab-context-reopen-tab-group =
     .label = Reabrir grupo de pestañas
 # Variables:
@@ -388,6 +411,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Guardar
     .accesskey = G
+tab-note-editor-button-delete =
+    .title = Eliminar nota
+    .aria-label = Eliminar nota
+    .accesskey = E
+tab-note-preview-edit-icon =
+    .alt = Editar nota
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Leer más
 tab-note-panel-add-note-new-badge =

@@ -139,6 +139,15 @@ tab-context-send-to-device =
            *[other] Enviar { $tabCount } pestañas a dispositivo
         }
     .accesskey = n
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Enviar al móvil
+            [one] Enviar { $tabCount } pestaña al móvil
+           *[other] Enviar { $tabCount } pestañas al móvil
+        }
+    .accesskey = n
 # The following strings are for displaying elements in the tab context send tab submenu to prompt users to sign in, enable sync, or pair a device
 tab-context-send-to-mobile-enable-sync =
     .label = Activa la sincronización para enviar una pestaña
@@ -146,6 +155,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Conecte su teléfono
 tab-context-send-to-mobile-device-missing =
     .label = ¿No puede ver su dispositivo?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Crear enlace para compartir
+    .accesskey = a
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
