@@ -6,6 +6,20 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs =
+    { $count ->
+        [one] + { $count } ďalšia
+        [few] + { $count } ďalšie
+        [many] + { $count } ďalších
+       *[other] + { $count } ďalších
+    }
+content-sharing-tabs-title =
+    { $count ->
+        [one] { $count } karta
+        [few] { $count } karty
+        [many] { $count } kariet
+       *[other] { $count } kariet
+    }
 content-sharing-modal-view-page =
     .label = Zobraziť stránku
 content-sharing-modal-copy-link =

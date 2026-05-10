@@ -552,9 +552,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Pripojenie k tejto stránke nie je zabezpečené.
 identity-connection-verified = Pripojenie k tejto stránke je zabezpečené.
 identity-ev-owner-label = Certifikát bol vydaný pre:
+identity-verifier-label = Overil ju:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalifikovaný podľa nariadenia (EÚ) 2024/1183.
 identity-description-custom-root2 = Mozilla tohto vydavateľa certifikátov nepozná. Mohol byť pridaný operačným systémom alebo správcom vášho počítača.
+identity-cert-exception-overridden = Pre túto stránku ste pridali bezpečnostnú výnimku.
 identity-remove-cert-exception =
     .label = Odstrániť výnimku
     .accesskey = d
@@ -1319,6 +1321,8 @@ panel-save-update-password = Heslo
 # "More" item in macOS share menu
 menu-share-more =
     .label = Ďalšie…
+menu-share-windows =
+    .label = Ďalšie možnosti
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

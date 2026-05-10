@@ -46,3 +46,22 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } - AI tvorca webových strá
 more-from-moz-mdn-description = Naučte sa vývoj webových stránok s bezplatnými a komplexnými sprievodcami a referenciami.
 more-from-moz-mdn-button = Naučte sa vývoj webových stránok
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Bezplatný správca e‑mailu, kalendárov a kontaktov – všetko usporiadané podľa vašich predstáv.
+more-from-moz-thunderbird-button = Získať { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Nové produkty { -vendor-short-name(case: "gen") }
+more-from-moz-new-products-description = Objavte najnovšie produkty od { -vendor-short-name(case: "gen") }.
+more-from-moz-new-products-button = Zobraziť nové produkty
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Naskenujte fotoaparátom telefónu alebo tabletu a stiahnite si aplikáciu. Keď sa zobrazí odkaz, ťuknite naň.
+more-from-moz-firefox-mobile-email-link = Poslať odkaz na stiahnutie e‑mailom do telefónu
