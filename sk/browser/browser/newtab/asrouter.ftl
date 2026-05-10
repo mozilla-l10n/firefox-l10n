@@ -420,6 +420,9 @@ windows-10-eos-feature-toast-dismiss-button = Zavrieť
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Spoločnosť Microsoft už nepodporuje systém Windows 10.</strong> Zálohujte si svoje údaje, aby ste pripravili { -brand-product-name(case: "acc") } na systém Windows 11.
+windows-10-eos-global-infobar-primary-button = Zapnúť zálohovanie
+    .accesskey = Z
 windows-10-eos-global-infobar-learn-more-link = Ďalšie informácie
     .accessKey = a
 

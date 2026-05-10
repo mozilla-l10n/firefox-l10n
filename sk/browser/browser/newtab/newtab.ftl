@@ -854,6 +854,35 @@ newtab-promo-card-dismiss-button =
 
 newtab-widget-timer-pause-aria =
     .aria-label = Pozastaviť časovač
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minúta
+            [few] { $minutes } minúty
+            [many] { $minutes } minút
+           *[other] { $minutes } minút
+        }
+newtab-widget-timer-decrease-min =
+    .title = Skrátiť o 1 minútu
+newtab-widget-timer-increase-min =
+    .title = Predĺžiť o 1 minútu
+newtab-widget-timer-mode-group =
+    .aria-label = Režim časovača
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Sústredenie
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Prestávka
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Skryť časovač
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Dobrá práca
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Tvoja prestávka sa skončila
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Potrebujete si oddýchnuť?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Pripravení sústrediť sa?
 
@@ -861,22 +890,35 @@ newtab-widget-timer-celebration-message-break = Pripravení sústrediť sa?
 
 newtab-sports-widget-menu-follow-teams = Sledovať tímy
 newtab-sports-widget-menu-view-upcoming = Zobraziť nadchádzajúce
+newtab-sports-widget-menu-view-results = Zobraziť výsledky
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Kľúčové dátumy
+newtab-sports-widget-menu-learn-more = Ďalšie informácie
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Sledujte Majstrovstvá sveta vo futbale
+newtab-sports-widget-get-updates = Získajte živé aktualizácie zápasov a ďalšie informácie.
 newtab-sports-widget-view-schedule =
     .label = Zobraziť rozpis zápasov
+newtab-sports-widget-follow-teams =
+    .label = Sledovať tímy
+newtab-sports-widget-choose-wallpaper =
+    .label = Vyberte si tapetu
+newtab-sports-widget-skip = Preskočiť
 newtab-sports-widget-search-country =
     .placeholder = Hľadať krajinu
     .aria-label = Hľadať krajinu
 newtab-sports-widget-cancel = Zrušiť
+newtab-sports-widget-done-button =
+    .label = Hotovo
 newtab-sports-widget-group-stage = Skupinová fáza
 newtab-sports-widget-round-32 = Najlepších 32
 newtab-sports-widget-round-16 = Najlepších 16
 newtab-sports-widget-quarter-finals = Štvrťfinále
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = NAŽIVO
+newtab-custom-widget-live-refresh =
+    .title = Aktualizovať skóre
+    .aria-label = Aktualizovať skóre
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Kľúčové dátumy
 newtab-sports-widget-upcoming = Nadchádzajúce
