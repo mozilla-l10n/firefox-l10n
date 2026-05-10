@@ -60,7 +60,7 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Додај претраживач
 newtab-topsites-add-shortcut-header = Нова пречица
-newtab-topsites-edit-topsites-header = Уреди популарне сајтове
+newtab-topsites-edit-topsites-header = Уреди популарне странице
 newtab-topsites-edit-shortcut-header = Измени пречицу
 newtab-topsites-add-shortcut-label = Додај пречицу
 newtab-topsites-add-shortcut-title =
@@ -126,8 +126,8 @@ newtab-menu-content-tooltip =
     .aria-label = Отвори контекстуални мени за { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = Уреди овај сајт
-    .aria-label = Уреди овај сајт
+    .title = Уреди ову страницу
+    .aria-label = Уреди ову страницу
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -228,7 +228,7 @@ newtab-section-menu-collapse-section = Скупи одељак
 newtab-section-menu-expand-section = Прошири одељак
 newtab-section-menu-manage-section = Управљај одељком
 newtab-section-menu-manage-webext = Управљај додатком
-newtab-section-menu-add-topsite = Додај омиљени сајт
+newtab-section-menu-add-topsite = Додај омиљену страницу
 newtab-section-menu-add-search-engine = Додај претраживач
 newtab-section-menu-move-up = Помери горе
 newtab-section-menu-move-down = Помери доле
@@ -243,7 +243,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Популарни сајтови
+newtab-section-header-topsites = Популарне странице
 newtab-section-header-recent-activity = Недавна активност
 # Variables:
 #   $provider (string) - Name of the corresponding content provider.
@@ -313,11 +313,11 @@ newtab-error-fallback-refresh-link = Освежите страницу да би
 ## Customization Menu
 
 newtab-custom-shortcuts-title = Пречице
-newtab-custom-shortcuts-subtitle = Сачувани или посећени сајтови
+newtab-custom-shortcuts-subtitle = Сачуване или посећене странице
 #  (developer note): @nova-cleanup(remove-string): Remove old string once Nova lands. The newtab-custom-shortcuts-nova string will take over
 newtab-custom-shortcuts-toggle =
     .label = Пречице
-    .description = Сачувани или посећени сајтови
+    .description = Сачуване или посећене странице
 newtab-custom-shortcuts-nova =
     .label = Пречице
 newtab-custom-row-description =
@@ -355,7 +355,7 @@ newtab-custom-stories-personalized-checkbox-label = Персонализован
 newtab-custom-pocket-sponsored = Спонзорисане приче
 newtab-custom-pocket-show-recent-saves = Прикажи недавно сачувано
 newtab-custom-recent-title = Недавна активност
-newtab-custom-recent-subtitle = Избор недавних сајтова и садржаја
+newtab-custom-recent-subtitle = Избор недавних страница и садржаја
 newtab-custom-weather-toggle =
     .label = Време
     .description = Временска прогноза за данас
@@ -367,6 +367,8 @@ newtab-custom-widget-timer-toggle =
     .label = Одбројавач
 newtab-custom-widget-sports-toggle =
     .label = Светско првенство
+newtab-custom-widget-clock-toggle =
+    .label = Часовник
 newtab-custom-widget-section-title = Елементи
 newtab-custom-widget-section-toggle =
     .label = Елементи
@@ -858,32 +860,102 @@ newtab-promo-card-dismiss-button =
     .title = Одбаци
     .aria-label = Одбаци
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+           *[other] Покрени одбројавач од { $minutes } минута
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Паузирај одбројавач
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } минут
+           *[other] { $minutes } минута
+        }
+newtab-widget-timer-decrease-min =
+    .title = Смањи за 1 минут
+newtab-widget-timer-increase-min =
+    .title = Повећај за 1 минут
+newtab-widget-timer-mode-group =
+    .aria-label = Режим одбројавача
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Фокус
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Одмор
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Сакриј одбројавач
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Сјајан посао
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Ваш одмор је завршен
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Треба ли вам одмор?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Спремни за фокус?
+
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Прати екипе
 newtab-sports-widget-menu-view-upcoming = Прикажи предстојеће
 newtab-sports-widget-menu-view-results = Прикажи резултате
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Кључни датуми
 newtab-sports-widget-menu-learn-more = Сазнајте више
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Пратите Светско првенство
 newtab-sports-widget-get-updates = Пратите вести утакмица уживо и још много тога.
+newtab-sports-widget-view-schedule =
+    .label = Прикажи распоред
 newtab-sports-widget-follow-teams =
     .label = Прати екипе
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Пратите до { $number } тима
+       *[other] Пратите до { $number } тимова
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Изаберите позадину
 newtab-sports-widget-skip = Прескочи
+newtab-sports-widget-search-country =
+    .placeholder = Претражи државу
+    .aria-label = Претражи државу
+newtab-sports-widget-cancel = Откажи
 newtab-sports-widget-done-button =
     .label = Готово
 newtab-sports-widget-group-stage = Групна фаза
+newtab-sports-widget-round-32 = Шеснаестина финала
+newtab-sports-widget-round-16 = Осмина финала
+newtab-sports-widget-quarter-finals = Четвртфинале
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = УЖИВО
 newtab-custom-widget-live-refresh =
     .title = Освежи резултате
     .aria-label = Освежи резултате
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Кључни датуми
 newtab-sports-widget-upcoming = Предстојећи
 newtab-sports-widget-results = Резултати
 newtab-sports-widget-semi-finals = Полуфинале
 newtab-sports-widget-bronze-finals = Меч за треће место
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Финале
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } - { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Одложено
 newtab-sports-widget-postponed = Померено
 newtab-sports-widget-suspended = Обустављено
@@ -892,6 +964,8 @@ newtab-sports-widget-information = Подаци о утакмици
 newtab-sports-widget-no-live-data = Подаци о утакмици у живо се тренутно не ажурирају
 newtab-sports-widget-view-results-link = Прикажи резултате
 newtab-sports-widget-third-place = Треће место
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Други
 newtab-sports-widget-champions = Шампиони
 newtab-sports-widget-world-cup-champions = Шампиони Светског првенства 2026.
 
@@ -907,7 +981,7 @@ newtab-activation-window-message-dismiss-button =
 # is to customize newtab with a background image or colour, or by tweaking the
 # existing widgetry that appears on it.
 newtab-activation-window-message-customization-focus-header = Учините овај простор својим
-newtab-activation-window-message-customization-focus-message = Изаберите нову позадину, додајте пречице до својих омиљених сајтова и будите у току са причама које вас занимају.
+newtab-activation-window-message-customization-focus-message = Изаберите нову позадину, додајте пречице до својих омиљених страница и будите у току са причама које вас занимају.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Започните прилагођавање
 # "This space" refers to about:newtab. The sentiment of "plays by your rules" is
@@ -916,3 +990,59 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Овај простор се прилагођава вама
 newtab-activation-window-message-values-focus-message = { -brand-product-name } вам омогућава да прегледате веб на начин који желите, уз личнији почетак вашег дана на мрежи. Прилагодите { -brand-product-name } себи.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Сакриј часовник
+newtab-clock-widget-menu-learn-more = Сазнајте више
+newtab-clock-widget-menu-edit = Уреди часовнике
+newtab-clock-widget-menu-switch-to-12h = Пребаци на 12-часовни формат
+newtab-clock-widget-menu-switch-to-24h = Пребаци на 24-часовни формат
+newtab-clock-widget-label-your-clocks = Ваши часовници
+newtab-clock-widget-search-location-input =
+    .label = Локација
+    .placeholder = Потражите град
+    .aria-label = Потражите град
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Надимак (необавезно)
+    .placeholder = Додајте надимак
+    .aria-label = Надимак (необавезно)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Додај нови часовник
+    .aria-label = Додај нови часовник
+newtab-clock-widget-button-add-clock = Додај
+newtab-clock-widget-button-cancel = Откажи
+newtab-clock-widget-button-back =
+    .title = Назад
+    .aria-label = Назад
+newtab-clock-widget-button-edit-clock =
+    .title = Уреди часовник
+    .aria-label = Уреди часовник
+newtab-clock-widget-button-save = Сачувај
+newtab-clock-widget-button-remove-clock =
+    .title = Уклони часовник
+    .aria-label = Уклони часовник
+newtab-clock-widget-add-clock-form =
+    .aria-label = Додај часовник
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Уреди часовник
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Резултати претраге
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Отвори мени за часовник
+    .aria-label = Отвори мени за часовник
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Надимак: { $nickname }
