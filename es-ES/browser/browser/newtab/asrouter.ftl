@@ -419,6 +419,8 @@ windows-10-eos-feature-toast-dismiss-button = Descartar
 windows-10-eos-global-infobar-title = <strong>Microsoft ya no ofrece soporte para Windows 10.</strong> Haga una copia de seguridad de su información para preparar { -brand-product-name } para Windows 11.
 windows-10-eos-global-infobar-primary-button = Activar copia de seguridad
     .accesskey = t
+windows-10-eos-global-infobar-learn-more-link = Saber más
+    .accessKey = S
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
@@ -448,3 +450,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Establecer como predeterminado
 set-default-menu-message-primary-button-variant = Establecer como navegador principal
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 máscaras de correo electrónico, de regalo
+relay-50-masks-announcement-subtitle = Ahora dispone de 50 máscaras gratis (antes 5). Use una para cada cuenta para mantener privado el correo electrónico real.
+relay-50-masks-announcement-primary-button = Ir a { -relay-brand-name }
+    .accesskey = I
+relay-50-masks-announcement-secondary-button = Descartar
+    .accesskey = D
