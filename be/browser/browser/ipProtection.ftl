@@ -27,12 +27,18 @@ ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпе
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Дадайце яшчэ адзін узровень прыватнасці
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце сярод 5 месцаў, каб трымаць больш прыватным, адкуль вы аглядаеце.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = У грамадскай сетцы Wi-Fi? Паспрабуйце ўбудаваны ў { -brand-product-name } VPN.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Атрымайце <a data-l10n-name="learn-more-vpn">дадатковую прыватнасць</a>, выбраўшы адно з 5 месцаў, каб схаваць, адкуль вы аглядаеце.
 ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
 ipprotection-feature-introduction-button-primary = Далей
 ipprotection-feature-introduction-button-secondary-not-now = Не цяпер
 ipprotection-feature-introduction-button-secondary-no-thanks = Не, дзякуй
+ipprotection-feature-introduction-button-secondary-remove = Выдаліць VPN з паліцы прылад
 
 ## Site settings callout
 
@@ -42,6 +48,9 @@ ipprotection-site-settings-callout-button = Зразумела
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Новае: Змяніце сваё месцазнаходжанне
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">Убудаваны VPN { -brand-product-name }</a> дазваляе вам абраць адно з 5 месцаў для аглядання, або дазволіць нам выбраць самае хуткае для вас.
+ipprotection-location-selection-callout-primary-button = Паспрабаваць
 ipprotection-location-selection-callout-secondary-button = Адхіліць
 
 ## Panel
