@@ -367,6 +367,8 @@ newtab-custom-widget-timer-toggle =
     .label = Bộ hẹn giờ
 newtab-custom-widget-sports-toggle =
     .label = World Cup
+newtab-custom-widget-clock-toggle =
+    .label = Đồng hồ
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
@@ -887,7 +889,11 @@ newtab-widget-timer-celebration-message-break = Sẵn sàng tập trung trở l�
 newtab-sports-widget-menu-follow-teams = Theo dõi đội
 newtab-sports-widget-menu-view-upcoming = Xem cái gì sắp tới
 newtab-sports-widget-menu-view-results = Hiện kết quả
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Ngày quan trọng
 newtab-sports-widget-menu-learn-more = Tìm hiểu thêm
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Cập nhật World Cup
 newtab-sports-widget-get-updates = Nhận thông tin cập nhật trực tiếp và hơn thế nữa.
 newtab-sports-widget-view-schedule =
     .label = Xem lịch trình
@@ -896,6 +902,7 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-choose-wallpaper =
     .label = Chọn một hình nền
 newtab-sports-widget-skip = Bỏ qua
+newtab-sports-widget-cancel = Hủy
 newtab-sports-widget-done-button =
     .label = Xong
 newtab-sports-widget-group-stage = Vòng bảng
@@ -944,3 +951,33 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Không gian này tuân theo luật lệ của bạn.
 newtab-activation-window-message-values-focus-message = { -brand-product-name } cho phép bạn duyệt web theo cách bạn thích, với cách thức cá nhân hơn để bắt đầu ngày mới trực tuyến. Biến { -brand-product-name } thành của riêng bạn.
+
+## Strings for the Clock widget
+
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Ẩn đồng hồ
+newtab-clock-widget-menu-edit = Chỉnh sửa đồng hồ
+newtab-clock-widget-label-your-clocks = Đồng hồ của bạn
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Thêm đồng hồ mới
+    .aria-label = Thêm đồng hồ mới
+newtab-clock-widget-button-edit-clock =
+    .title = Chỉnh sửa đồng hồ
+    .aria-label = Chỉnh sửa đồng hồ
+newtab-clock-widget-button-save = Lưu
+newtab-clock-widget-button-remove-clock =
+    .title = Xoá đồng hồ
+    .aria-label = Xoá đồng hồ
+newtab-clock-widget-add-clock-form =
+    .aria-label = Thêm đồng hồ
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Chỉnh sửa đồng hồ
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Mở menu đồng hồ
+    .aria-label = Mở menu đồng hồ
