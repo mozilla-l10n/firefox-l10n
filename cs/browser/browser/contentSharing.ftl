@@ -6,6 +6,13 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs =
+    { $count ->
+        [one] + { $count } další
+        [few] + { $count } další
+        [many] + { $count } dalších
+       *[other] + { $count } dalších
+    }
 content-sharing-tabs-title =
     { $count ->
         [one] { $count } panel

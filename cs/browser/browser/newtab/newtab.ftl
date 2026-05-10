@@ -987,6 +987,7 @@ newtab-sports-widget-view-results-link = Zobrazit výsledky
 newtab-sports-widget-third-place = Třetí místo
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Druhé místo
+newtab-sports-widget-champions = Vítěz
 newtab-sports-widget-world-cup-champions = Mistrovství světa ve fotbale 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,

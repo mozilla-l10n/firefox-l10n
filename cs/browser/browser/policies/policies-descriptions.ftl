@@ -41,6 +41,7 @@ policy-Containers = Nastavení pravidel souvisejících s kontejnery.
 policy-DisableAccounts = Zakáže služby vyžadující účty, včetně synchronizace.
 policy-DisabledCiphers = Zakázané metody šifrování.
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
+policy-DefaultSerialGuardSetting = Ovládání používání Serial API.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.
 policy-DisableBuiltinPDFViewer =
     { -brand-short-name.case-status ->
