@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Contraseña de respaldo del certificado (confirmar):
 set-password-reminder = Importante: si olvida la contraseña de respaldo de su certificado, no podrá restaurar esta copia de respaldo más tarde. Guárdela en un lugar seguro.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Autenticación protegida
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Por favor, autentíquese en el dispositivo de seguridad ({ $tokenName }). La forma de hacerlo depende del dispositivo (por ejemplo, usando un lector de huellas o escribiendo un código en un teclado).
+
 ## Protected authentication alert
 
 # Variables:

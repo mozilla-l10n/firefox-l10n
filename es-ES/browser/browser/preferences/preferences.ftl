@@ -2146,6 +2146,13 @@ permissions-autoplay-settings =
 permissions-block-popups2 =
     .label = Bloquear ventanas emergentes y redirecciones de terceros
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .label = Administrar excepciones
+    .description = Añada sitios web que puedan abrir ventanas emergentes y usar redirecciones de terceros.
+    .accesskey = e
+    .searchkeywords = ventanas emergentes
 permissions-addon-install-warning3 =
     .label = Mostrar una advertencia cuando los sitios web traten de instalar extensiones
     .accesskey = M

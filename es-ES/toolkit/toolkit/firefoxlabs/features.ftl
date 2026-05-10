@@ -66,15 +66,31 @@ experimental-features-fx-web-apps-description = Abra los sitios que visita con f
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listas en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listas
 experimental-features-newtab-widget-lists-description = Mantenga la lista de tareas pendientes al abrir una nueva pestaña. Desde listas de la compara hasta listas para preparar el equipaje, haga sus planes en { -brand-product-name }. <a data-l10n-name="connect">Compartir comentarios</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Temporizador en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Temporizador
 experimental-features-newtab-widget-timer-description = Configure un temporizador para poder concentrarse, evitar distracciones o recordarle tomarse un descanso. <a data-l10n-name="connect">Compartir comentarios.</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listas y temporizadores en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Mantenga su lista de tareas pendientes al abrir una nueva pestaña. Desde listas de la compra hasta listas para preparar el equipaje, haga sus planes en { -brand-product-name }. Configure un temporizador para mantenerse concentrado, dar un empujoncito para mantenerse en el camino correcto o recordarle que recargue energías. <a data-l10n-name="connect">Compartir comentarios</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Pronósticos del tiempo
+experimental-features-newtab-widget-weather-description = Tenga una visión clara del tiempo de hoy con los pronósticos por hora. <a data-l10n-name="connect">Compartir opinión</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Imagen del día
+experimental-features-newtab-widget-picture-of-the-day-description = Añada una pequeña maravilla diaria a su día. Obtenga una nueva imagen, aprenda algo interesante y tenga un nuevo fondo de pantalla en un instante. <a data-l10n-name="connect">Compartir opinión</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Relojes
+experimental-features-newtab-widget-clocks-description = Añada hasta cuatro relojes con nombres personalizados para tener a mano la hora de los lugares que le importan. <a data-l10n-name="connect">Compartir opinión</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Búsqueda semántica en el historial
@@ -82,3 +98,4 @@ experimental-features-semantic-history-search-description = Use un modelo local 
 # Tab Notes
 experimental-features-tab-notes =
     .label = Notas de pestañas
+experimental-features-tab-notes-description = Las notas de pestañas son una función experimental que permite añadir notas rápidas a las pestañas del navegador. Se puede anotar el contexto, los recordatorios o los próximos pasos para poder volver y recordar por qué se abrió. Nos encantaría recibir una opinión mientras seguimos mejorando esta función. <a data-l10n-name="connect">Compartir opinión</a>

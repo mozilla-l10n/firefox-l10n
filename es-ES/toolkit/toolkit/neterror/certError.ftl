@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = El reloj de su dispositiv
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = El propietario de { $hostname } no lo ha configurado correctamente y no se puede crear una conexión segura.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Su ordenador cree que hoy es { DATETIME($now, dateStyle: "medium") }, lo que impide que { -brand-short-name } se conecte de forma segura. Para visitar <strong>{ $hostname }</strong>, actualice la hora del ordenador en los ajustes del sistema a la hora, fecha y zona horaria actuales, y luego recargue la página.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Actualice el reloj de su ordenador en la configuración del sistema a la hora, fecha y huso horario actuales. El ordenador cree que es { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -211,6 +219,8 @@ certerror-mitm-title = Un software que impide a { -brand-short-name } conectarse
 
 fp-certerror-page-title = Advertencia: Riesgo de seguridad
 fp-certerror-body-title = Cuidado. Parece que algo no está bien.
+fp-certerror-illustration-alt =
+    .alt = Ilustración de un zorro mirando una señal de advertencia naranja.
 fp-certerror-why-site-dangerous = ¿Qué hace que el sitio parezca peligroso?
 fp-certerror-what-can-you-do = ¿Qué puede hacer al respecto?
 fp-certerror-advanced-title = Avanzado
