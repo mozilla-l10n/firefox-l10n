@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Уладкуйце сваё агляданне
 experimental-features-group-productivity =
     .label = Прадукцыйнасць
+experimental-features-group-newtab-widgets =
+    .label = Віджэты на { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Паролі на бакавой панэлі
@@ -64,15 +66,26 @@ experimental-features-fx-web-apps-description = Адкрывайце сайты,
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Спісы ў { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Спісы
 experimental-features-newtab-widget-lists-description = Трымайце свой спіс спраў як напамін, калі адкрываеце новую картку. Ад спісаў рэчаў да спісаў пакупак — складайце свае планы ў { -brand-product-name }. <a data-l10n-name="connect">Падзяліцца водгукам</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Таймер у { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Таймер
 experimental-features-newtab-widget-timer-description = Пастаўце таймер, каб трымаць канцэнтрацыю, падштурхоўваць вас не збіцца з шляху, ці нагадаць пра неабходнасць падсілкавацца. <a data-l10n-name="connect">Падзяліцца водгукам</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Спісы і таймер у { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Трымайце свой спіс спраў як напамін, калі адкрываеце новую картку. Ад спісаў рэчаў да спісаў пакупак — складайце свае планы ў { -brand-product-name }. Пастаўце таймер, каб трымаць канцэнтрацыю, падштурхоўваць вас не збіцца з шляху, ці нагадаць пра падзарадку. <a data-l10n-name="connect">Падзяліцца водгукам</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Прагнозы надвор'я
+experimental-features-newtab-widget-weather-description = Атрымлівайце дакладнае ўяўленне пра сённяшняе надвор'е з дапамогай пагадзінных прагнозаў. <a data-l10n-name="connect">Падзяліцца водгукам</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Фота дня
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Семантычны пошук у гісторыі
