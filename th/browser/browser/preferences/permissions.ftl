@@ -86,7 +86,7 @@ permissions-exceptions-manage-etp-desc = คุณสามารถระบุ
 permissions-exceptions-cookie-window2 =
     .title = ข้อยกเว้น - คุกกี้และข้อมูลไซต์
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น อนุญาตในวาระ หรือ อนุญาต
+permissions-exceptions-cookie-desc = คุณสามารถระบุเว็บไซต์ที่จะอนุญาตหรือไม่อนุญาตให้ใช้คุกกี้และข้อมูลไซต์เสมอได้ พิมพ์ที่อยู่ของไซต์ที่คุณต้องการจัดการแล้วคลิก ปิดกั้น อนุญาตในเซสชัน หรือ อนุญาต
 
 ## Exceptions - HTTPS-Only Mode
 

@@ -1095,7 +1095,7 @@ home-prefs-choose-wallpaper-link2 =
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
 home-prefs-firefox-home-disabled-notice =
-    .message = Ak chcete tieto funkcie používať, nastavte, aby sa otváraní nových kariet alebo okien načítavala { -firefox-home-brand-name }.
+    .message = Ak chcete tieto funkcie používať, nastavte, aby sa pri otváraní nových kariet alebo okien načítavala { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =

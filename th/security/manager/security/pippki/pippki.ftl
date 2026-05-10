@@ -88,7 +88,7 @@ client-auth-cert-remember-never =
 client-auth-cert-remember-always =
     .label = ทุกครั้ง
 client-auth-cert-remember-temporarily =
-    .label = แค่วาระนี้
+    .label = แค่เซสชันนี้
 
 ## Set password (p12) dialog
 

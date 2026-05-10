@@ -151,9 +151,9 @@ options-source-maps-tooltip =
     .title = ถ้าคุณเปิดใช้งานตัวเลือกนี้ ต้นฉบับจะถูกแมปในเครื่องมือ
 # The message shown for settings that trigger page reload and will only apply to the current session
 # This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
-options-context-triggers-page-refresh-temporary = (เฉพาะวาระปัจจุบันเท่านั้น จะโหลดหน้าเว็บใหม่)
+options-context-triggers-page-refresh-temporary = (เฉพาะเซสชันปัจจุบันเท่านั้น จะโหลดหน้าเว็บใหม่)
 # The message shown for settings that trigger page reload and will only apply to the current session
-options-context-triggers-page-refresh = *เรียกหน้าเว็บใหม่เฉพาะวาระปัจจุบันเท่านั้น
+options-context-triggers-page-refresh = *เรียกหน้าเว็บใหม่เฉพาะเซสชันปัจจุบันเท่านั้น
 # The message shown for settings that trigger page reload
 # This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
 options-context-triggers-page-refresh-persists = (จะโหลดหน้าเว็บใหม่)
