@@ -2532,6 +2532,9 @@ choose-download-folder-title = Letöltési mappa kiválasztása:
 
 preferences-appearance-header =
     .heading = Megjelenés
+browser-theme-group =
+    .label = Böngészőtéma
+    .description = Szabja a { -brand-short-name }ot a saját ízlésére. A témaszínek az eszköztárakra, menükre és üzenetekre vonatkoznak.
 browser-theme-manage-link =
     .label = { -brand-short-name }-témák kezelése
 related-settings-group =
