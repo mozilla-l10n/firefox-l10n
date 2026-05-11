@@ -921,6 +921,7 @@ newtab-sports-widget-follow-teams =
 newtab-sports-widget-follow-teams-title =
     { $number ->
         [one] Пратите до { $number } тима
+        [few] Пратите до { $number } тима
        *[other] Пратите до { $number } тимова
     }
 newtab-sports-widget-choose-wallpaper =
