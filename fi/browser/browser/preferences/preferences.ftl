@@ -2182,6 +2182,8 @@ permissions-notification2 =
 permissions-header3 =
     .label = Käyttöoikeudet
     .description = Hallitse mitä verkkosivustot voivat käyttää, ohjata ja käynnistää.
+permissions-data-section =
+    .heading = Käyttöoikeudet ja data
 pane-permissions-data-title = Käyttöoikeudet ja data
 
 ## Privacy Section - Data Collection
@@ -2236,6 +2238,10 @@ collection-backlogged-crash-reports2 =
     .label = Lähetä kaatumisilmoitukset automaattisesti
     .accesskey = ä
 collection-backlogged-crash-reports-description = Tämä auttaa { -vendor-short-name }a diagnosoimaan ja korjaamaan selaimen ongelmia. Raportit voivat sisältää henkilökohtaisia tai arkaluonteisia tietoja.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Samat asetukset, uusi ulkoasu!
+    .message = Järjestimme tämän sivun uudelleen, jotta se on helpompi selata. Henkilökohtaisia asetuksiasi ei ole muutettu, ja asiat ovat paikallaan. Vihje: käytä hakua siirtyäksesi haluamaasi kohtaan.
 settings-redesign-promo-dismiss-button =
     .label = Selvä
 addon-recommendations =
@@ -2496,6 +2502,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Yhteys- ja ohjelmistoturvallisuus
+preferences-connection-link-section =
+    .label = Yhteys- ja ohjelmistoturvallisuus
+    .description = Näe kuinka yhteydet pysyvät suojattuna, haitalliset ohjelmistot estetään ja verkkosivustot vahvistetaan.
 preferences-connection-link-button =
     .label = Lisäasetukset
 
@@ -2509,6 +2520,17 @@ choose-download-folder-title = Valitse tallennuskansio
 
 preferences-appearance-header =
     .heading = Ulkoasu
+browser-theme-group =
+    .label = Selaimen teema
+    .description = Aseta { -brand-short-name }ille haluamasi tyyli. Teeman värejä käytetään työkalupalkeissa, valikoissa ja viesteissä.
+browser-theme-manage-link =
+    .label = Hallitse { -brand-short-name }in teemoja
+related-settings-group =
+    .label = Aiheeseen liittyvät asetukset
+related-settings-accessibility-link =
+    .label = Mukauta suurennuksen ja kirjasimen asetuksia esteettömyysasetuksissa
+related-settings-home-link =
+    .label = Mukauta { -firefox-home-brand-name }ia
 
 ## AI controls page
 
