@@ -708,6 +708,9 @@ applications-save-for-new-types2 =
 applications-ask-before-handling =
     .label = Kysy avataanko vai tallennetaanko tiedostot
     .accesskey = A
+applications-ask-before-handling2 =
+    .label = Kysy tiedostojen avaamista tai tallentamista
+    .accesskey = K
 drm-group =
     .label = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
@@ -772,6 +775,11 @@ update-in-progress-ok-button = &Hylkää
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Jatka
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Tietoja { -brand-short-name }ista
+
 ## Firefox updates
 
 update-application-heading =
@@ -822,6 +830,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Vieritä sivua automaattisesti
     .accesskey = V
+keyboard-and-scrolling-group =
+    .label = Näppäimistöllä liikkuminen ja vieritys
+motion-and-link-group =
+    .label = Liikkeen ja linkkien muotoilu
 browsing-use-smooth-scrolling =
     .label = Vieritä sivua tasaisesti
     .accesskey = e
@@ -866,6 +878,16 @@ browsing-group =
 
 ## Accessibility page
 
+preferences-accessibility-header =
+    .heading = Esteettömyys
+preferences-default-zoom-select =
+    .aria-label = Oletuskoko
+preferences-fonts-family =
+    .label = Kirjasinlaji
+    .accesskey = K
+preferences-fonts-size =
+    .label = Kirjasinkoko
+    .accesskey = s
 preferences-fonts-advanced-settings =
     .label = Lisäasetukset
     .accesskey = L
@@ -1183,6 +1205,7 @@ search-edit-engine =
     .label = Muokkaa
     .accesskey = M
 search-find-more-link = Etsi lisää hakukoneita
+search-filtering-for-add-engine = Lisää hakukone
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Pikakomento jo käytössä
@@ -1201,6 +1224,9 @@ search-engine-group =
     .label = Oletushakukone
 search-default-engine =
     .aria-label = Oletushakukone
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Haku
 
 ## Containers Section
 

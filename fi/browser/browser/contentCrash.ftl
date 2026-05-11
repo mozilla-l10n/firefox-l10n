@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Älä näytä uudelleen
     .accesskey = D
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Yksi viimeaikainen kaatumisilmoitus on lähettämättä
+       *[other] { $reportCount } viimeaikaista kaatumisilmoitusta on lähettämättä
+    }

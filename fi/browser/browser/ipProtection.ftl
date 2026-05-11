@@ -29,10 +29,13 @@ ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name=
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Käytätkö julkista Wi-Fi-verkkoa? Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää.
 ipprotection-feature-introduction-description-captive-portal = Selaa lisäsuojauksella piilottamalla sijaintisi jopa julkisissa Wi-Fi-verkoissa.
 ipprotection-feature-introduction-button-primary = Seuraava
 ipprotection-feature-introduction-button-secondary-not-now = Ei nyt
 ipprotection-feature-introduction-button-secondary-no-thanks = Ei kiitos
+ipprotection-feature-introduction-button-secondary-remove = Poista VPN työkalupalkista
 
 ## Site settings callout
 
@@ -156,6 +159,9 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN-datasi on me
 ip-protection-description =
     .label = VPN
     .description = Sisäänrakennettu VPN yksityisyyden lisäämiseksi { -brand-short-name }illa selatessa.
+ip-protection-description-1 =
+    .label = Sisäänrakennettu VPN
+    .description = Hanki lisäkerros yksityisyyttä piilottamalla todellinen sijaintisi, kun selaat.
 ip-protection-learn-more = Lue lisää
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
@@ -233,6 +239,7 @@ vpn-paused-alert-title = VPN keskeytetty
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Olet käyttänyt kaiken VPN-datasi, { $maxUsage } Gt. VPN-käyttöoikeus nollautuu ensi kuussa.
+vpn-error-page-keep-browsing = Jatka selaamista tässä istunnossa
 vpn-error-page-new-session = Aloita uusi istunto
 vpn-paused-alert-close-tabs-button = Sulje kaikki välilehdet
 vpn-paused-alert-continue-wo-vpn-button = Jatka ilman VPN:ää
