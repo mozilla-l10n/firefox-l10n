@@ -142,6 +142,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = 您的设备时间为 { D
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = { $hostname } 的管理员未正确配置此网站，无法创建安全连接。
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = 您计算机上的时间是 { DATETIME($now, dateStyle: "medium") }，{ -brand-short-name } 无法在这个设定的时间下进行安全连接。若要访问 <strong>{ $hostname }</strong>，请前往系统设置，将计算机上的时钟更新至当前日期、时间、时区，然后刷新页面。
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = 请前往系统设置，将计算机上的时钟更新至当前日期、时间、时区。您计算机上设定的时间是 { DATETIME($now, dateStyle: "medium") }。
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
