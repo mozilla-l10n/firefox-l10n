@@ -84,6 +84,11 @@ smartblock-placeholder-title = { $trackername } jarraipen-elementuak eta edukia 
 smartblock-placeholder-desc = Zure { -brand-short-name } ezarpenek blokeatu dute eduki honek guneen arteko zure jarraipena egitea edo hau iragarkietarako erabiltzea.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Baimendu { $websitehost } ostalarian
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Blokeatutako kapsulatutako edukia
 
 ##
 
