@@ -152,6 +152,12 @@ webext-site-perms-description-gated-perms-midi =
     То су обично уређаји који се повежу попут аудио синтисајзера, али могу бити и уграђени у ваш рачунар.
     
     Сајтовима обично није дозвољен приступ MIDI уређајима. Неправилна употреба може да проузрокује штету или да угрози безбедност.
+webext-site-perms-description-gated-perms-serial =
+    То су уређаји попут микроконтролера, 3Д штампача и других уређаја који се повезују преко УСБ или серијских портова.
+    
+    Моћи ћете да изаберете којим уређајима веб локација може да приступи.
+    
+    Веб локацијама обично није дозвољен приступ серијским уређајима. Неправилна употреба може проузроковати оштећење или угрозити безбедност.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -166,6 +172,7 @@ webext-site-perms-header-unsigned-with-perms = Додати { $extension }? Ов
 
 webext-site-perms-midi = Приступ MIDI уређајима
 webext-site-perms-midi-sysex = Приступ MIDI уређајима са SysEx подршком
+webext-site-perms-serial = Приступ серијским уређајима
 
 ## Colorway theme migration
 

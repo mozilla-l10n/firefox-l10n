@@ -199,7 +199,12 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> је врат
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Сервер на <strong>{ $hostname }</strong> је вратио грешку: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname } </strong> је вратио заглавље са празним знаковима које стандарди веб безбедности не дозвољавају.
+fp-neterror-content-encoding-intro = Страница коју покушавате да видите не може бити приказана јер користи неважећи или неподржани облик сажимања.
 fp-neterror-coop-coep-intro = { -brand-short-name } није учитао ову страницу јер изгледа да се безбедносна подешавања не поклапају са претходном страницом.
+fp-neterror-blocked-by-policy-intro = Ваша организација је блокирала приступ овој страници или веб месту.
 fp-neterror-http-auth-disabled-intro = Неко ко се претвара да је овај сајт могао би да покуша да украде ствари попут вашег корисничког имена, лозинке или е-поште.
 fp-neterror-http-auth-disabled-secure-connection = Овај сајт захтева безбедну везу и не можете додати изузетак да бисте га посетили.
 fp-neterror-why-did-this-happen = Зашто се ово десило?

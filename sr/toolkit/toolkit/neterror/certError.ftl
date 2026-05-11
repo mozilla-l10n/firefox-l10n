@@ -148,6 +148,14 @@ fp-certerror-pkix-not-yet-valid-what-can-you-do-body = Сат на вашем у
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-invalid-cert-why-dangerous = Власник сајта { $hostname } га није правилно подесио и безбедна веза не може бити успостављена.
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-intro = Ваш рачунар мисли да је { DATETIME($now, dateStyle: "medium") }, што спречава { -brand-short-name } да се безбедно повеже. Да бисте посетили <strong>{ $hostname } </strong>, ажурирајте сат рачунара у подешавањима система на тренутни датум, време и временску зону, а затим освежите страницу.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+# Variables:
+#   $now (Date) - The current datetime, to be formatted as a date
+fp-certerror-clock-skew-what-can-you-do-body = Ажурирајте сат рачунара у системским подешавањима на тренутни датум, време и временску зону. Ваш рачунар мисли да је { DATETIME($now, dateStyle: "medium") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
