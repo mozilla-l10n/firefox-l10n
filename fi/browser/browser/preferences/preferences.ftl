@@ -1092,6 +1092,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Valitse taustakuva
 home-prefs-choose-wallpaper-link2 =
     .label = Valitse taustakuva
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Käyttääksesi näitä ominaisuuksia, aseta uudet välilehdet tai uudet ikkunat { -firefox-home-brand-name }iin.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1619,6 +1624,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Lisätietoja
 forms-windows-sso-desc = Hallinnoi tilejä laitteen asetuksissa
 windows-passkey-settings-label = Hallitse todentamisavaimia järjestelmän asetuksissa
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Tietosuojapaneelin asetukset
+    .description = Apua tietojesi suojaamiseksi verkossa { -brand-short-name }issa.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Näytä tietomurtoilmoitukset
+    .accesskey = ä
 
 ## OS Authentication dialog
 
