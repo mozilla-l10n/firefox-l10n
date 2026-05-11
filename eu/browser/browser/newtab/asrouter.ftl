@@ -414,6 +414,14 @@ windows-10-eos-feature-toast-subtitle = Herriak hala eskatuta, { -brand-product-
 windows-10-eos-feature-toast-whats-new-button = Ikusi nobedadeak
 windows-10-eos-feature-toast-dismiss-button = Baztertu
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft-ek ez du Windows 10eko euskarririk ematen jada.</strong> Egin zure informazioaren babeskopia { -brand-product-name } Windows 11rako prestatzeko.
+windows-10-eos-global-infobar-primary-button = Aktibatu babeskopia
+    .accesskey = A
+windows-10-eos-global-infobar-learn-more-link = Argibide gehiago
+    .accessKey = A
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when

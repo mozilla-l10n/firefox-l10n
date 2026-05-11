@@ -421,6 +421,12 @@ quickactions-cmd-inspector = ikuskatzailea, garatzaile-tresnak
 # Opens about:logins
 quickactions-logins2 = Kudeatu pasahitzak
 quickactions-cmd-logins = saio-hasierak, pasahitzak
+# Mutes all tabs playing audio
+quickactions-mute = Mututu audioa erreproduzitzen ari diren fitxak
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = mututu, isildu, ixo, sh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Kudeatu pluginak
 quickactions-cmd-plugins = pluginak
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Ez zaude modu seguruan konektatuta gune honetara.
 identity-connection-verified = Modu seguruan zaude konektatuta gune honetara.
 identity-ev-owner-label = Ziurtagiria honi jaulkia:
+identity-verifier-label = Egiaztatzailea:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = 2024/1183 (EU) Araudian zehaztu bezala gauzatuta.
 identity-description-custom-root2 = Mozillak ez du ziurtagiri-jaulkitzaile hau ontzat hartzen. Zure sistema eragileak edo administratzaile batek gehitu du agian.
+identity-cert-exception-overridden = Segurtasun salbuespen bat gehitu duzu gune honentzat.
 identity-remove-cert-exception =
     .label = Kendu salbuespena
     .accesskey = K
@@ -1300,6 +1308,8 @@ panel-save-update-password = Pasahitza
 # "More" item in macOS share menu
 menu-share-more =
     .label = Gehiago…
+menu-share-windows =
+    .label = Aukera gehiago
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1740,3 +1750,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Guneak hautsita dirudi?</strong> Berritu orria jarraipenaren zure babesa behin-behinean gutxitzeko.
 reduced-protection-infobar-reload-button = Berritu
     .accesskey = B
+reduced-protection-infobar-never-show-button = Ez erakutsi berriro
+    .accesskey = z

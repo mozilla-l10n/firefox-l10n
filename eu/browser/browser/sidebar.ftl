@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Kudeatu { -brand-short-name } ezarpenak
 sidebar-vertical-tabs =
     .label = Fitxa bertikalak
+sidebar-settings2 =
+    .label = Ezarpenak
 sidebar-settings =
     .label = Alboko barraren ezarpenak
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Zabaldu alboko barra sagua gainetik pasatzean
+sidebar-manage-extensions2 = Kudeatu hedapen guztiak
 sidebar-manage-extensions = Kudeatu hedapenak
+sidebar-customize-extensions-header2 = Hedapenak
+sidebar-customize-firefox-tools-header2 =
+    .label = Tresnak
 
 ## Labels for sidebar context menu items
 
