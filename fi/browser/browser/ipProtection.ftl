@@ -115,6 +115,9 @@ upgrade-vpn-title = Hanki lisäsuojaa selaimen ulkopuolelle
 upgrade-vpn-description = Valitse VPN-sijaintisi, käytä VPN:ää kaikissa sovelluksissasi, jopa viidellä laitteellasi, ja pysy turvassa missä tahansa verkossa – kotona tai julkisessa Wi-Fi-verkossa.
 upgrade-vpn-button = Kokeile { -mozilla-vpn-brand-name }:ää
 ipprotection-connection-status-paused-title-1 = VPN on keskeytetty
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Olet käyttänyt kaikki { $maxUsage } Gt VPN-dataa. Käyttöoikeus nollautuu ensi kuussa.
 
 ## Messages and errors
 
