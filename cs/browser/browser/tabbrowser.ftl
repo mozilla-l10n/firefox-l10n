@@ -377,6 +377,17 @@ tab-group-editor-action-new-tab =
     .label = Nový panel ve skupině
 tab-group-editor-action-new-window =
     .label = Přesunout skupinu do nového okna
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Kopírovat odkaz ve skupině
+            [one] Kopírovat { $linkCount } odkaz ve skupině
+            [few] Kopírovat { $linkCount } odkazy ve skupině
+            [many] Kopírovat { $linkCount } odkazů ve skupině
+           *[other] Kopírovat { $linkCount } odkazů ve skupině
+        }
 tab-group-editor-action-save =
     .label = Uložit a zavřít skupinu
 tab-group-editor-action-ungroup =

@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimes
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse viidestä sijainnista, jotta selaamisesi alkuperä pysyy yksityisempänä.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
 # Used for callout shown on login to public wi-fi through a captive portal
@@ -191,6 +192,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Saat entistä enemmän suojaa { -brand-short-name }in ulkopuolella käyttämällä { -mozilla-vpn-brand-name }:ää.
     .description = Valitse mukautettuja VPN-sijainteja ja lisää ripaus suojausta kaikkiin sovelluksiisi, jopa viidellä laitteella, olitpa sitten kotona tai julkisessa Wi-Fi-verkossa.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Vie suojaus pidemmälle { -mozilla-vpn-brand-name }:llä
+    .description = Valitse yli 300 sijainnista ja suojaa sovelluksesi jopa viidellä laitteella.
 
 ## IP Protection dialogs
 
@@ -243,6 +247,9 @@ vpn-paused-alert-title = VPN keskeytetty
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Olet käyttänyt kaiken VPN-datasi, { $maxUsage } Gt. VPN-käyttöoikeus nollautuu ensi kuussa.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Olet käyttänyt kaikki { $maxUsage } Gt VPN-dataa. Käyttöoikeus nollautuu ensi kuussa.
 vpn-error-page-continue-description = Valitse, miten jatkaa ilman VPN:ää
 vpn-error-page-keep-browsing = Jatka selaamista tässä istunnossa
 vpn-error-page-new-session = Aloita uusi istunto

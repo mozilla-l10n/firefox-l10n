@@ -94,6 +94,11 @@ smartblock-placeholder-desc =
     }
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Povolit na { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Obsah z blokovaného vloženého prvku
 
 ##
 

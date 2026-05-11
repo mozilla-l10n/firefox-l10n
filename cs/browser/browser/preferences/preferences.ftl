@@ -2859,6 +2859,8 @@ related-settings-group =
     .label = Související nastavení
 related-settings-accessibility-link =
     .label = Přizpůsobení nastavení velikosti stránky a písma najdete v části Přístupnost
+related-settings-home-link =
+    .label = Přizpůsobit { -firefox-home-brand-name(case: "acc") }
 
 ## AI controls page
 
