@@ -6,11 +6,7 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
-content-sharing-modal-more-tabs =
-    { $count ->
-        [one] +{ $count } de plus
-       *[other] +{ $count } de plus
-    }
+content-sharing-modal-more-tabs = +{ $count } de plus
 content-sharing-tabs-title =
     { $count ->
         [one] { $count } onglet
@@ -24,5 +20,4 @@ content-sharing-modal-link-copied =
     .label = Lien copié
 content-sharing-modal-sign-in =
     .label = Connectez-vous pour partager des liens
-content-sharing-modal-title = Partagez cet ensemble de liens sur n’importe quel navigateur
-content-sharing-modal-description = Créez une page publique pour ces liens qui est facile à partager. Une fois créée, la page ne peut être ni modifiée ni supprimée et expirera au bout de 7 jours.
+content-sharing-modal-title = Partagez cet ensemble de liens avec n’importe quel navigateur

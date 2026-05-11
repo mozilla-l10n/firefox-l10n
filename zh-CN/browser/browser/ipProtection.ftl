@@ -49,6 +49,7 @@ ipprotection-site-settings-callout-button = 知道了
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = 新功能：随心变换您的位置
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 可让您从 5 个浏览位置中选择，或者由我们选择最快的一个。
 ipprotection-location-selection-callout-primary-button = 试试看
 ipprotection-location-selection-callout-secondary-button = 知道了
 

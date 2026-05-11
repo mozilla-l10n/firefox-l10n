@@ -426,7 +426,7 @@ quickactions-mute = Couper le son des onglets diffusant du son
 # List of words that would trigger the "mute tabs" action from the address bar.
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
-quickactions-cmd-mute = muet, chut, sssssh
+quickactions-cmd-mute = couper le son, muet, chut
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gérer les plugins
 quickactions-cmd-plugins = plugins
@@ -1312,7 +1312,7 @@ panel-save-update-password = Mot de passe
 menu-share-more =
     .label = Plus…
 menu-share-windows =
-    .label = Plus d’options
+    .label = Options supplémentaires
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =

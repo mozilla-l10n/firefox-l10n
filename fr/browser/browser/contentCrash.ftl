@@ -52,6 +52,6 @@ requested-crash-reports-dont-show-again =
 #   $reportCount (Number): the number of pending crash reports
 pending-crash-reports-message-new =
     { $reportCount ->
-        [one] Vous avez un rapport de plantage récent qui n’a pas été envoyé
-       *[other] Vous avez { $reportCount } rapports de plantage non envoyés récemment
+        [one] { $reportCount } rapport de plantage récent n’a pas été envoyé
+       *[other] { $reportCount } rapports de plantage récents n’ont pas été envoyés
     }
