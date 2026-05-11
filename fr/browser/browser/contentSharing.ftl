@@ -21,3 +21,4 @@ content-sharing-modal-link-copied =
 content-sharing-modal-sign-in =
     .label = Connectez-vous pour partager des liens
 content-sharing-modal-title = Partagez cet ensemble de liens avec n’importe quel navigateur
+content-sharing-modal-description = Générez une page publique pour faciliter le partage de ces liens. Une fois créée, cette page ne pourra plus être modifiée ni supprimée et expirera dans 7 jours.

@@ -420,7 +420,7 @@ windows-10-eos-global-infobar-title = <strong>Microsoft ne prend plus en charge 
 windows-10-eos-global-infobar-primary-button = Activer la sauvegarde
     .accesskey = A
 windows-10-eos-global-infobar-learn-more-link = En savoir plus
-    .accessKey = L
+    .accessKey = E
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##

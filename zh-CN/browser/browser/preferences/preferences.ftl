@@ -745,6 +745,9 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = 此设置将影响使用这份 { -brand-short-name } 程序的所有 Windows 账户及 { -brand-short-name } 配置文件。
+update-application-suppress-prompts-2 =
+    .label = 减少更新提醒
+    .accesskey = n
 update-application-warning-cross-user-setting = 此设置将影响使用这份 { -brand-short-name } 程序的所有 Windows 账户及 { -brand-short-name } 配置文件。
 update-application-use-service =
     .label = 使用后台服务静默安装更新
@@ -767,6 +770,11 @@ update-in-progress-ok-button = 放弃
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = 继续
+
+## About Firefox
+
+about-firefox-header =
+    .heading = 关于 { -brand-short-name }
 
 ## Firefox updates
 
@@ -1060,6 +1068,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = 体育
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = 时钟
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = 支持 { -brand-product-name }
@@ -2175,6 +2186,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = 权限
     .description = 管理网站可以访问、控制或触发的项目。
+permissions-data-section =
+    .heading = 权限与数据
+pane-permissions-data-title = 权限与数据
 
 ## Privacy Section - Data Collection
 
@@ -2228,6 +2242,10 @@ collection-backlogged-crash-reports2 =
     .label = 自动发送崩溃报告
     .accesskey = c
 collection-backlogged-crash-reports-description = 此信息可帮助 { -vendor-short-name } 诊断和修复浏览器的问题。报告中可能包含个人或敏感数据。
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = 外观焕新，设置依旧。
+    .message = 我们重新排列了本页面，使其更易于浏览和探索。您的个人设置没有改变，所有项目都保留在此。提示：使用搜索，可直接跳到所需设置。
 settings-redesign-promo-dismiss-button =
     .label = 明白了
 addon-recommendations =
@@ -2490,6 +2508,9 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = 连接与软件安全
+preferences-connection-link-section =
+    .label = 连接与软件安全
+    .description = 了解保持安全连接、拦截有害软件，以及验证网站的方式
 preferences-connection-link-button =
     .label = 高级设置
 
@@ -2501,6 +2522,11 @@ choose-download-folder-title = 选择下载文件夹：
 
 ## Appearance page
 
+preferences-appearance-header =
+    .heading = 外观
+browser-theme-group =
+    .label = 浏览器主题
+    .description = 按照您的方式为 { -brand-short-name } 设计风格。主题颜色将应用于工具栏、菜单和消息。
 browser-theme-manage-link =
     .label = 管理 { -brand-short-name } 主题
 related-settings-group =

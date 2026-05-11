@@ -855,11 +855,11 @@ newtab-promo-card-dismiss-button =
 newtab-widget-timer-start-aria =
     .aria-label =
         { $minutes ->
-            [one] Démarrer le chronomètre de { $minutes } minutes
+            [one] Démarrer le chronomètre de { $minutes } minute
            *[other] Démarrer le chronomètre de { $minutes } minutes
         }
 newtab-widget-timer-pause-aria =
-    .aria-label = Minuteur de pause
+    .aria-label = Mettre en pause le minuteur
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -869,9 +869,9 @@ newtab-widget-timer-spinbutton-name =
            *[other] { $minutes } minutes
         }
 newtab-widget-timer-decrease-min =
-    .title = Diminuer la durée d’une minute
+    .title = Diminuer d’une minute
 newtab-widget-timer-increase-min =
-    .title = Augmenter de 1 minute
+    .title = Augmenter d’une minute
 newtab-widget-timer-mode-group =
     .aria-label = Mode minuteur
 # Small label shown beneath the live time while the focus timer is running or paused.
@@ -888,7 +888,7 @@ newtab-widget-timer-celebration-heading-break = Votre pause est terminée
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = Besoin de faire une pause ?
 # Message shown inside the Timer widget after a break session ends.
-newtab-widget-timer-celebration-message-break = Prêt·e à mettre au point ?
+newtab-widget-timer-celebration-message-break = Prêt·e à vous concentrer ?
 
 ## Sports widget
 
@@ -909,8 +909,8 @@ newtab-sports-widget-follow-teams =
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
     { $number ->
-        [one] Faire suivre à { $number } équipes
-       *[other] Faire suivre à { $number } équipes
+        [one] Suivez jusqu’à { $number } équipe
+       *[other] Suivez jusqu’à { $number } équipes
     }
 newtab-sports-widget-choose-wallpaper =
     .label = Choisir un fond d’écran
@@ -986,8 +986,8 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 newtab-clock-widget-menu-hide = Masquer l’horloge
 newtab-clock-widget-menu-learn-more = En savoir plus
 newtab-clock-widget-menu-edit = Modifier les horloges
-newtab-clock-widget-menu-switch-to-12h = Passer au format 12 heures
-newtab-clock-widget-menu-switch-to-24h = Passer au format 24 heures
+newtab-clock-widget-menu-switch-to-12h = Passer au format 12 heures
+newtab-clock-widget-menu-switch-to-24h = Passer au format 24 heures
 newtab-clock-widget-label-your-clocks = Vos horloges
 newtab-clock-widget-search-location-input =
     .label = Emplacement
