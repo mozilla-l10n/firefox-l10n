@@ -2474,6 +2474,17 @@ desktop-folder-name = 桌面
 downloads-folder-name = 下载
 choose-download-folder-title = 选择下载文件夹：
 
+## Appearance page
+
+browser-theme-manage-link =
+    .label = 管理 { -brand-short-name } 主题
+related-settings-group =
+    .label = 相关设置
+related-settings-accessibility-link =
+    .label = 在无障碍部分中自定义缩放和字体设置
+related-settings-home-link =
+    .label = 定制 { -firefox-home-brand-name }
+
 ## AI controls page
 
 preferences-ai-controls-header =

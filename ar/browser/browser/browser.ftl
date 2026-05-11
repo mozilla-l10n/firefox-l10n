@@ -1604,7 +1604,7 @@ popup-trigger-redirect-menuitem =
 file-picker-failed-open = لم يتمكن من فتح مربع حوار الملفات في ويندوز. لم يتمكن من تحديد أي ملف أو مجلد.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-failed-save-somewhere = لم يتمكن من فتح مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
-file-picker-failed-save-nowhere = لم يتمكن من فتح مربع حوار ملف ويندوز. لم يتم العثور على المجلد الافتراضي؛ ولن يتم حفظ الملف.
+file-picker-failed-save-nowhere = لم يتمكن من فتح مربع حوار ملف ويندوز. لم يُعثر على المجلد المبدئي؛ ولن يُحفظ الملف.
 file-picker-crashed-open = انهار مربع حوار ملف ويندوز. لم يتم تحديد أي ملف أو مجلد.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = انهار مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.

@@ -72,11 +72,11 @@ neterror-dns-not-found-offline-hint-reconnect = افصل الاتصال بشبك
 
 neterror-dns-not-found-trr-only-reason = لا يستطيع { -brand-short-name } حماية طلبك للحصول على عنوان هذا الموقع من خلال محلل DNS الموثوق به. إليكم السبب:
 neterror-dns-not-found-trr-only-reason2 = لا يستطيع { -brand-short-name } حماية طلبك للحصول على عنوان هذا الموقع من خلال موفر DNS الآمن الخاص بنا. إليكم السبب:
-neterror-dns-not-found-trr-third-party-warning2 = يمكنك المتابعة مع محلل DNS الافتراضي الخاص بك. ومع ذلك، قد يتمكن طرف ثالث من رؤية مواقع الوب التي تزورها.
+neterror-dns-not-found-trr-third-party-warning2 = يمكنك المتابعة مع محلّل DNS المبدئي الخاص بك. ومع ذلك، قد يتمكن طرف ثالث من رؤية مواقع الوِب التي تزورها.
 neterror-dns-not-found-trr-only-could-not-connect = لم يتمكن { -brand-short-name } من الاتصال بـ { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = استغرق الاتصال بـ { $trrDomain } وقتًا أطول من المتوقع.
 neterror-dns-not-found-trr-offline = أنت غير متصل بالإنترنت.
-neterror-dns-not-found-trr-unknown-host2 = لم يتم العثور على موقع الوب هذا بواسطة { $trrDomain }.
+neterror-dns-not-found-trr-unknown-host2 = لم يُعثر على موقع الوِب هذا بواسطة { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = حدثت مشكلة في { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = مسار غير صحيح.
 neterror-dns-not-found-system-sleep = النظام في وضع السكون.
@@ -156,7 +156,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = إن كنت م
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-certerror-expired-cert-what-can-you-do-about-it-clock = ضُبطت ساعة الحاسوب على { DATETIME($now, dateStyle: "medium") }. تحقّق من أن الحاسوب قد ضُبط حسب التاريخ والوقت والمنطقة الزمنية في إعدادات النظام، بعد ذلك أنعِش <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-clock = ضُبطت ساعة الحاسوب على { DATETIME($now, dateStyle: "medium") }. تحقّق من أن الحاسوب قد ضُبط حسب التاريخ والوقت والمنطقة الزمنية في إعدادات النظام، بعد ذلك أعد تحميل <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = إن كانت الساعة مضبوطة على الوقت الصحيح، فأغلب الظن بأن الموقع لم يُضبط كما ينبغي، وليس ثمة ما تقدر على فعله لحل المشكلة. يمكنك إخطار مدير الموقع عن هذه المشكلة.
 certerror-bad-cert-domain-what-can-you-do-about-it = أغلب الظن بأن المشكلة هي بالموقع نفسه، وليس هنالك ما يمكنك فعله لحلها. يمكنك إعلام مدير الموقع عن هذه المشكلة.
 certerror-mitm-what-can-you-do-about-it-antivirus = إن كان لمضادّ الفيروسات لديك ميزة تفحص الاتصالات المعمّاة (غالبًا ما تُسمى بِ‍”فحص الوِب Web scanning“ أو ”فحص https“)، فيمكنك تعطيل تلك الميزة. إن لم يعمل ذلك فيمكنك إزالة وإعادة تثبيت برمجية مضادّ الفيروسات.
