@@ -877,6 +877,7 @@ newtab-widget-timer-spinbutton-name =
     .aria-label =
         { $minutes ->
             [one] { $minutes } минут
+            [few] { $minutes } минута
            *[other] { $minutes } минута
         }
 newtab-widget-timer-decrease-min =

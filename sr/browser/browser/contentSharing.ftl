@@ -13,6 +13,7 @@ content-sharing-modal-more-tabs =
 content-sharing-tabs-title =
     { $count ->
         [one] { $count } језичак
+        [few] { $count } језичка
        *[other] { $count } језичака
     }
 content-sharing-modal-view-page =
