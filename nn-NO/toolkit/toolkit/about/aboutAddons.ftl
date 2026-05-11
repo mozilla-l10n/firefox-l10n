@@ -597,11 +597,11 @@ mlmodel-pdfjs = { -brand-short-name } brukar dette til å lage alt-tekst for bil
 mlmodel-smart-tab-topic-engine = { -brand-short-name } brukar dette til å foreslå namn for fanegruppene dine
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } brukar dette til å foreslå faner for fanegruppene dine
 # AI Model will be downloaded on the users device and used locally
-addon-category-mlmodel = AI på eininga
+addon-category-mlmodel = KI på eininga
 addon-category-mlmodel-title =
-    .title = AI på eininga
-mlmodel-heading = Handsam AI-modellar på eininga
-mlmodel-description = Nokre funksjonar og utvidingar i { -brand-short-name } blir drivne av AI-modellar som fungerer lokalt på eininga di. Denne tilnærminga tek vare på personvernet ditt og aukar i mange tilfelle ytinga. <a data-l10n-name="learn-more">Les meir</a>
+    .title = KI på eininga
+mlmodel-heading = Handsam KI-modellar på eininga
+mlmodel-description = Nokre funksjonar og utvidingar i { -brand-short-name } blir drivne av KI-modellar som fungerer lokalt på eininga di. Denne tilnærminga tek vare på personvernet ditt og aukar i mange tilfelle ytinga. <a data-l10n-name="learn-more">Les meir</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Fjern

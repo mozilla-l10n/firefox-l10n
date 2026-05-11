@@ -200,11 +200,11 @@ pin-tabs-callout-4-title = Fest nettstadar du besøkjer oftast
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Sidestolpe: staden din for verktøy og faner
-sidebar-customization-callout-1-subtitle = { -brand-product-name }-sidestolpen gir deg rask tilgang til nettlesarhistorikken din, faner frå andre einingar samt ein AI-chatbot — utan å forlate hovudvisinga.
+sidebar-customization-callout-1-subtitle = { -brand-product-name }-sidestolpen gir deg rask tilgang til nettlesarhistorikken din, faner frå andre einingar samt ein KI-chatbot — utan å forlate hovudvisinga.
 sidebar-customization-callout-callout-button = Tilpass sidestolpen
 sidebar-customization-callout-dismiss-button = Skjul sidestolpe
 sidebar-customization-callout-2-title = Gjer { -brand-product-name }-sidestolpen til din eigen
-sidebar-customization-callout-2-subtitle = Legg til og fjern verktøy. Plasser fanene dine i sidestolpen. Prøv ein AI-chatbot. Korleis du tilpassar sidestolpen er opp til deg.
+sidebar-customization-callout-2-subtitle = Legg til og fjern verktøy. Plasser fanene dine i sidestolpen. Prøv ein KI-chatbot. Korleis du tilpassar sidestolpen er opp til deg.
 
 ## Sidebar Callout Survey Strings
 
@@ -231,10 +231,10 @@ sidebar-callout-survey-saved-websites-2 = Rask tilgang til bokmerka dine
 sidebar-callout-survey-none-of-above = Ingen av dei ovanfor
 sidebar-callout-survey-submit = Send inn
 sidebar-callout-survey-thank-you = Takk for tilbakemeldinga!
-sidebar-genai-survey-satisfaction-question = Kor fornøgd er du med å ha tilgang til ein AI-chatbot i sidestolpen?
+sidebar-genai-survey-satisfaction-question = Kor fornøgd er du med å ha tilgang til ein KI-chatbot i sidestolpen?
 sidebar-genai-survey-productive-question =
     I kva grad er du samd eller usamd i denne påstanden:<br/>
-    "AI-chatboten i sidestolpen hjelper meg å bli meir produktiv"?
+    "KI-chatboten i sidestolpen hjelper meg å bli meir produktiv"?
 splitview-onboarding-callout-title-1 = Delt visning: ein betre måte å multitaske på
 splitview-onboarding-callout-subtitle-1 = Høgreklikk på denne fana og vel «Legg til delt visning» for å sjå to faner samtidig.
 splitview-onboarding-callout-cta-1 = Prøv han no

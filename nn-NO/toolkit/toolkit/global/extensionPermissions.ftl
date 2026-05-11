@@ -30,7 +30,7 @@ webext-perms-description-sessions = Tilgang til nylege attlatne faner
 webext-perms-description-tabs = Få tilgang til faner
 webext-perms-description-tabHide = Gøym og vis nettlesarfaner
 webext-perms-description-topSites = Få tilgang til nettlesarhistorikken
-webext-perms-description-trialML = Last ned og køyr AI-modellar på eininga di
+webext-perms-description-trialML = Last ned og køyr KI-modellar på eininga di
 webext-perms-description-userScripts = Tillat at ikkje stadfesta tredjepartsskript får tilgang til dataa dine
 webext-perms-description-webNavigation = Få tilgang til nettlesaraktivitet under navigasjon
 
