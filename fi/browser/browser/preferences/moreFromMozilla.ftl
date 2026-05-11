@@ -45,3 +45,36 @@ more-from-moz-solo-button = Kokeile { -solo-ai-brand-name }a
 more-from-moz-mdn-description = Opi web-kehitystä ilmaisten, kattavien oppaiden ja referenssien avulla.
 more-from-moz-mdn-button = Opi web-kehitystä
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Ilmainen sähköposti, kalenteri ja yhteystiedot – järjestyksessä omalla tavallasi.
+more-from-moz-thunderbird-button = Hanki { -thunderbird-brand-short-name }
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = { -vendor-short-name }n uudet tuotteet
+more-from-moz-new-products-description = Tutustu { -vendor-short-name }n uusimpiin tuotteisiin.
+more-from-moz-new-products-button = Katso uudet tuotteet
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Skannaa puhelimesi tai tablettisi kameralla ladataksesi sovelluksen. Napauta linkkiä, kun se tulee näkyviin.
+more-from-moz-firefox-mobile-email-link = Lähetä latauslinkki sähköpostitse puhelimeesi
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-vpn-box-link =
+    .label = Hanki { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Hanki { -relay-brand-short-name }
+more-from-moz-thunderbird-box-link =
+    .label = Hanki { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Kokeile { -solo-ai-brand-name }a
+more-from-moz-new-products-box-link =
+    .label = Katso uudet tuotteet

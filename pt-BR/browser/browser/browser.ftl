@@ -421,6 +421,12 @@ quickactions-cmd-inspector = inspetor, ferramentas de desenvolvimento
 # Opens about:logins
 quickactions-logins2 = Gerenciar senhas
 quickactions-cmd-logins = contas, senhas
+# Mutes all tabs playing audio
+quickactions-mute = Silenciar abas que estão tocando som
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silêncio, quieto, calado, cala boca
 # Opens about:addons page in the plugins section
 quickactions-plugins = Gerenciar plugins
 quickactions-cmd-plugins = plugins
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Você não está conectado com segurança a este site.
 identity-connection-verified = Você está conectado com segurança a este site.
 identity-ev-owner-label = Certificado emitido para:
+identity-verifier-label = Verificado por:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Qualificado conforme especificado no Regulamento (EU) 2024/1183.
 identity-description-custom-root2 = A Mozilla não reconhece esta entidade certificadora. Ela pode ter sido adicionada pelo seu sistema operacional ou por um administrador.
+identity-cert-exception-overridden = Você adicionou uma exceção de segurança para este site.
 identity-remove-cert-exception =
     .label = Remover exceção
     .accesskey = R
@@ -1300,6 +1308,8 @@ panel-save-update-password = Senha
 # "More" item in macOS share menu
 menu-share-more =
     .label = Mais…
+menu-share-windows =
+    .label = Mais opções
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1738,3 +1748,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>O site parece estar com problemas?</strong> Recarregue a página para reduzir temporariamente a proteção contra rastreamento.
 reduced-protection-infobar-reload-button = Recarregar
     .accesskey = R
+reduced-protection-infobar-never-show-button = Não mostrar novamente
+    .accesskey = N

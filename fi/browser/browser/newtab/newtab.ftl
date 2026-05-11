@@ -610,6 +610,10 @@ newtab-section-follow-button-label =
     .aria-label = Seuraa aihetta { $topic }
 newtab-section-following-button = Seurataan
 newtab-section-unfollow-button = Lopeta seuraaminen
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Seurataan: Lopeta aiheen { $topic } seuraaminen
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Hienosäädä syötettä
 newtab-section-follow-highlight-subtitle = Seuraa kiinnostuksen kohteitasi nähdäksesi enemmän sinua kiinnostavia asioita.
@@ -742,6 +746,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Valmis ({ $number })
+newtab-widget-lists-celebration-headline = Hyvää työtä
+newtab-widget-lists-celebration-subhead = Kaikki hoidettu
 newtab-widget-task-list-menu-copy = Kopioi
 newtab-widget-lists-menu-edit = Muokkaa listan nimeä
 newtab-widget-lists-menu-edit2 =
@@ -762,6 +768,8 @@ newtab-widget-lists-input-menu-move-up = Siirrä ylös
 newtab-widget-lists-input-menu-move-down = Siirrä alas
 newtab-widget-lists-input-menu-delete = Poista
 newtab-widget-lists-input-menu-edit = Muokkaa
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Muokkaa merkintää
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Luo uusi lista
@@ -799,6 +807,10 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Pienennä pienoisohjelmat
     .aria-label = Supista pienoisohjelmat kompaktiin kokoon
+newtab-widget-section-menu-button =
+    .title = Pienoisohjelmien valikko
+    .aria-label = Avaa pienoisohjelmien valikko
+newtab-widget-section-menu-hide-all = Piilota pienoisohjelmat
 newtab-widget-section-menu-learn-more = Lue lisää
 newtab-widget-section-feedback = Kerro meille mielipiteesi
 newtab-widget-lists-name-default = Tarkistuslista
@@ -848,12 +860,32 @@ newtab-promo-card-dismiss-button =
 
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Käynnistä { $minutes } minuutin ajastin
+           *[other] Käynnistä { $minutes } minuutin ajastin
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Keskeytä ajastin
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
     .aria-label =
         { $minutes ->
             [one] { $minutes } minuutti
            *[other] { $minutes } minuuttia
         }
+newtab-widget-timer-decrease-min =
+    .title = Vähennä 1 minuutti
+newtab-widget-timer-increase-min =
+    .title = Lisää 1 minuutti
+newtab-widget-timer-mode-group =
+    .aria-label = Ajastintila
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Keskity
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Tauko
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
 # copy with a widget-specific string per the Nova design.
 newtab-widget-timer-menu-hide = Piilota ajastin
@@ -868,20 +900,70 @@ newtab-widget-timer-celebration-message-break = Valmis keskittymään?
 
 ## Sports widget
 
+newtab-sports-widget-menu-follow-teams = Seuraa joukkueita
+newtab-sports-widget-menu-view-upcoming = Näytä tulevat
 newtab-sports-widget-menu-view-results = Näytä tulokset
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Tärkeimmät päivät
 newtab-sports-widget-menu-learn-more = Lue lisää
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Pidä silmällä MM-kisoja
+newtab-sports-widget-get-updates = Saat päivityksiä otteluiden suorista tapahtumista ja paljon muuta.
+newtab-sports-widget-view-schedule =
+    .label = Näytä aikataulu
+newtab-sports-widget-follow-teams =
+    .label = Seuraa joukkueita
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Seuraa { $number } joukkuetta
+       *[other] Seuraa { $number } joukkuetta
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Valitse taustakuva
 newtab-sports-widget-skip = Ohita
+newtab-sports-widget-search-country =
+    .placeholder = Hae maata
+    .aria-label = Hae maata
 newtab-sports-widget-cancel = Peruuta
 newtab-sports-widget-done-button =
     .label = Valmis
+newtab-sports-widget-group-stage = Lohkovaihe
 newtab-sports-widget-round-32 = 32 parasta
 newtab-sports-widget-round-16 = 16 parasta
+newtab-sports-widget-quarter-finals = Puolivälierät
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = SUORA
+newtab-custom-widget-live-refresh =
+    .title = Päivitä tulokset
+    .aria-label = Päivitä tulokset
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Tärkeimmät päivät
 newtab-sports-widget-upcoming = Tulossa
+newtab-sports-widget-results = Tulokset
+newtab-sports-widget-semi-finals = Välierät
+newtab-sports-widget-bronze-finals = Pronssiottelu
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Loppuottelu
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-delayed = Viivästynyt
+newtab-sports-widget-postponed = Lykätty
+newtab-sports-widget-suspended = Keskeytetty
+newtab-sports-widget-cancelled = Peruttu
+newtab-sports-widget-information = Tietoja ottelusta
+newtab-sports-widget-no-live-data = Suoran ottelun tiedot eivät päivity juuri nyt
 newtab-sports-widget-view-results-link = Näytä tulokset
+newtab-sports-widget-third-place = Kolmas sija
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Toinen sija
+newtab-sports-widget-champions = Mestarit
 newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
 
 ## Strings for activation window message variants. In certain experiment configurations,
@@ -915,6 +997,17 @@ newtab-clock-widget-menu-edit = Muokkaa kelloja
 newtab-clock-widget-menu-switch-to-12h = Vaihda 12 tunnin muotoon
 newtab-clock-widget-menu-switch-to-24h = Vaihda 24 tunnin muotoon
 newtab-clock-widget-label-your-clocks = Kellosi
+newtab-clock-widget-search-location-input =
+    .label = Sijainti
+    .placeholder = Hae kaupunkia
+    .aria-label = Hae kaupunkia
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Kutsumanimi (valinnainen)
+    .placeholder = Lisää kutsumanimi
+    .aria-label = Kutsumanimi (valinnainen)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -948,3 +1041,5 @@ newtab-clock-widget-search-results =
 newtab-clock-widget-menu-button =
     .title = Avaa kellon valikko
     .aria-label = Avaa kellon valikko
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Kutsumanimi: { $nickname }

@@ -37,6 +37,7 @@ policy-Containers = Aseta eristystiloihin liittyvät käytännöt.
 policy-DisableAccounts = Poista käytöstä tilipohjaiset palvelut, mukaan lukien synkronointi.
 policy-DisabledCiphers = Poista salausalgoritmeja käytöstä.
 policy-DefaultDownloadDirectory = Aseta oletuslatauskansio.
+policy-DefaultSerialGuardSetting = Hallitse Serial API:n käyttöä.
 policy-DisableAppUpdate = Estä selainta päivittymästä.
 policy-DisableBuiltinPDFViewer = Poista käytöstä PDF.js, { -brand-short-name }in sisäänrakennettu PDF-katselin.
 policy-DisableDefaultBrowserAgent = Estä oletusselainagenttia tekemästä mitään. Tällä on vaikutusta vain Windowsissa, koska agenttia ei ole muille ympäristöille.
@@ -154,3 +155,5 @@ policy-WebsiteFilter = Estä sivustojen avaaminen. Katso ohjeista lisätietoja k
 policy-Windows10SSO = Salli Windowsin kertakirjautuminen Microsoft-, työ- ja koulutileille.
 # Entra is the name of a Microsoft product.
 policy-MicrosoftEntraSSO = Salli kertakirjautuminen Microsoft Entra -tileille.
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = Ota käyttöön tai poista käytöstä XSLTProcessor JavaScript API:n ja XSLT-käsittelykäskyn tuki.
