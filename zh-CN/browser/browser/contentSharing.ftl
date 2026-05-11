@@ -6,6 +6,7 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs = +其他 { $count } 个
 content-sharing-tabs-title = { $count } 个标签页
 content-sharing-modal-view-page =
     .label = 查看页面

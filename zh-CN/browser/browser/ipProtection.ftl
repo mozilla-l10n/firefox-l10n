@@ -45,6 +45,7 @@ ipprotection-site-settings-callout-button = 知道了
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = 新功能：随心变换您的位置
 ipprotection-location-selection-callout-primary-button = 试试看
 ipprotection-location-selection-callout-secondary-button = 知道了
 
@@ -53,6 +54,8 @@ ipprotection-location-selection-callout-secondary-button = 知道了
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = 试用 { -brand-product-name } 的内置 VPN
 unauthenticated-hide-location-message-3 = 在用 { -brand-product-name } 浏览时<a data-l10n-name="learn-more-vpn">隐藏真实位置</a>。
+unauthenticated-private-location-message = 帮您在用 { -brand-product-name } 浏览时<a data-l10n-name="learn-more-vpn">隐藏真实位置</a>。
+unauthenticated-choose-location-message = 从 5 个位置中选择，或者由 { -brand-product-name } 选择最快的一个。
 unauthenticated-hide-location-message-2 = 在用 { -brand-product-name } 浏览时隐藏真实位置。
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
