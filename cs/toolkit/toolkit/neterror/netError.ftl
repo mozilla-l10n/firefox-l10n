@@ -249,6 +249,9 @@ fp-neterror-http-error-page-intro = Server <strong>{ $hostname }</strong> vráti
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = Server <strong>{ $hostname }</strong> vrátil chybu: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = Server <strong>{ $hostname }</strong> poslal zpět hlavičku s prázdnými znaky, které nejsou povoleny bezpečnostními standardy.
 fp-neterror-content-encoding-intro = Stránka, kterou se snažíte načíst, nemůže být zobrazena, protože server používá neplatný či nepodporovaný způsob komprimace dat.
 fp-neterror-coop-coep-intro = { -brand-short-name } nenačetl tuto stránku, protože nastavení zabezpečení zřejmě neodpovídá předchozí stránce.
 fp-neterror-blocked-by-policy-intro = Přístup k této stránce nebo webovému serveru byl zablokován vaší organizací.
