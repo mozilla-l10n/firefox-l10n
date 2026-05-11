@@ -911,6 +911,8 @@ newtab-sports-widget-view-schedule =
     .label = Vedi il calendario
 newtab-sports-widget-follow-teams =
     .label = Segui squadre
+newtab-sports-widget-view-matches =
+    .label = Visualizza partite
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
