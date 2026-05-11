@@ -590,7 +590,7 @@ spellcheck-download-dictionaries =
     .label = Scarica dizionari
 spellcheck-promo =
     .heading = Come utilizzare il controllo ortografico
-    .message = Fare clic con il tasto destro del mouse su un campo di testo per attivare o disattivare il controllo ortografico o per cambiare la lingua. Non tutti i campi supportano il controllo ortografico.
+    .message = Fai clic con il tasto destro del mouse su un campo di testo per attivare o disattivare il controllo ortografico o per cambiare la lingua. Non tutti i campi supportano il controllo ortografico.
 
 ## General Section - Files and Applications
 
