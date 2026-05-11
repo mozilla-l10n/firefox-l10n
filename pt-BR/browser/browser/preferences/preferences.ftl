@@ -345,6 +345,9 @@ language-and-appearance-header = Idioma e aparência
 appearance-group2 =
     .label = Aparência de sites
     .description = Alguns sites mudam as cores para combinar com suas preferências. Escolha seu esquema de cores.
+preferences-web-appearance-choice-auto3 =
+    .label = Sistema
+    .title = Mudar automaticamente o fundo e o conteúdo de sites com base na configuração do seu sistema e no tema do { -brand-short-name }.
 appearance-group =
     .label = Aparência de sites
     .description = Alguns sites adaptam seu esquema de cores com base em suas preferências. Escolha qual esquema de cores você quer usar nesses sites.
@@ -477,8 +480,14 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = Reiniciar o { -brand-short-name } para aplicar estas alterações
 confirm-browser-language-change-button = Aplicar e reiniciar
+browser-language-heading =
+    .label = Idioma do navegador
+    .description = Escolher o idioma usado para exibir menus, mensagens e notificações do { -brand-short-name }.
 browser-language-preferred-label =
     .label = Idioma preferido
+browser-language-fallback-label =
+    .label = Idioma alternativo
+    .description = Usado quando a tradução para o idioma de preferência está incompleta.
 browser-language-install-error =
     .message = O { -brand-short-name } não pode atualizar seus idiomas agora. Verifique se você está conectado à Internet e tente novamente.
 translate-web-pages =
@@ -575,6 +584,12 @@ download-save-files-header =
     .label = Salvar arquivos em
 download-save-where-3 =
     .aria-label = Salvar arquivos em
+download-always-ask-where2 =
+    .label = Perguntar onde salvar arquivos antes de baixar
+    .accesskey = P
+download-private-browsing-delete2 =
+    .label = Excluir arquivos baixados de janelas privativas ao fechar
+    .accesskey = E
 downloads-header-2 =
     .label = Downloads
 download-save-where-2 =
@@ -605,6 +620,9 @@ applications-setting =
     .description = Escolha o que o { -brand-short-name } deve fazer com os arquivos que você baixa e aplicativos que você usa ao navegar.
 applications-header = Aplicativos
 applications-description = Escolha o que o { -brand-short-name } deve fazer com os arquivos que você baixa e aplicativos que você usa ao navegar.
+applications-setting2 =
+    .label = Arquivos e aplicativos
+    .description = Escolher como o { -brand-short-name } lida com arquivos e conteúdo baixados.
 applications-filter =
     .placeholder = Pesquisar tipos de arquivos ou aplicativos
 applications-type-column =
@@ -684,8 +702,14 @@ applications-handle-new-file-types-description = O que o { -brand-short-name } d
 applications-save-for-new-types =
     .label = Salvar arquivos
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = Salvar arquivos automaticamente
+    .accesskey = S
 applications-ask-before-handling =
     .label = Perguntar se deve abrir ou salvar arquivos
+    .accesskey = P
+applications-ask-before-handling2 =
+    .label = Pedir para abrir ou salvar arquivos
     .accesskey = P
 drm-group =
     .label = Conteúdo DRM (gerenciamento de direitos digitais)
@@ -711,6 +735,9 @@ update-application-allow-description = Permitir ao { -brand-short-name }
 update-application-auto =
     .label = Instalar atualizações automaticamente (recomendado)
     .accesskey = A
+update-application-check-choose-2 =
+    .label = Verificar se há atualizações, mas escolher quando instalar
+    .accesskey = V
 update-application-check-choose =
     .label = Verificar atualizações, mas você decide se instala
     .accesskey = c
@@ -722,6 +749,9 @@ update-application-background-enabled =
     .accesskey = Q
 update-application-warning-cross-user-setting-2 =
     .message = Esta configuração se aplica a todas as contas do Windows e perfis do { -brand-short-name } que usam esta instalação do { -brand-short-name }.
+update-application-suppress-prompts-2 =
+    .label = Mostrar menos lembretes de atualização
+    .accesskey = n
 update-application-warning-cross-user-setting = Esta configuração se aplica a todas as contas do Windows e perfis do { -brand-short-name } que usam esta instalação do { -brand-short-name }.
 update-application-use-service =
     .label = Usar um serviço em segundo plano para instalar atualizações
@@ -744,6 +774,21 @@ update-in-progress-ok-button = &Descartar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Continuar
+
+## About Firefox
+
+about-firefox-header =
+    .heading = Sobre o { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Atualização do { -brand-short-name }
+    .description = Atualizações melhoram a velocidade, estabilidade e segurança do { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Notificações
+update-application-updates-managed-by-os =
+    .message = As atualizações são gerenciadas pelo seu sistema operacional
 
 ## Firefox support
 
@@ -785,6 +830,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Usar rolagem automática
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navegação e rolagem pelo teclado
+motion-and-link-group =
+    .label = Animação e estilo de links
 browsing-use-smooth-scrolling =
     .label = Usar rolagem suave
     .accesskey = m
@@ -826,6 +875,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Saiba mais
 browsing-group =
     .label = Navegação
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Acessibilidade
+preferences-default-zoom-select =
+    .aria-label = Zoom padrão
+preferences-fonts-family =
+    .label = Família da fonte
+    .accesskey = D
+preferences-fonts-size =
+    .label = Tamanho da fonte
+    .accesskey = T
+preferences-fonts-advanced-settings =
+    .label = Configurações avançadas
+    .accesskey = v
 
 ## General Section - Proxy
 
@@ -1004,6 +1069,12 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Temporizador
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Esportes
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Relógio
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Apoie o { -brand-product-name }
@@ -1017,6 +1088,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Escolher um fundo de tela
 home-prefs-choose-wallpaper-link2 =
     .label = Escolher um fundo de tela
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Para usar esses recursos, defina novas abas ou novas janelas no { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1130,6 +1206,7 @@ search-edit-engine =
     .label = Editar
     .accesskey = E
 search-find-more-link = Procurar mais mecanismos de pesquisa
+search-filtering-for-add-engine = Adicionar mecanismo
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Atalho duplicado
@@ -1543,6 +1620,17 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Saiba mais
 forms-windows-sso-desc = Gerencie contas nas configurações do seu dispositivo
 windows-passkey-settings-label = Gerenciar códigos de acesso nas configurações do sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Configurações do painel de privacidade
+    .description = Obtenha ajuda para proteger suas informações online no { -brand-short-name }.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostrar mensagens de vazamentos
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -2106,6 +2194,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permissões
     .description = Gerencie quais sites podem acessar, controlar ou acionar.
+permissions-data-section =
+    .heading = Permissões e dados
+pane-permissions-data-title = Permissões e dados
 
 ## Privacy Section - Data Collection
 
@@ -2159,6 +2250,10 @@ collection-backlogged-crash-reports2 =
     .label = Enviar relatórios de falhas automaticamente
     .accesskey = f
 collection-backlogged-crash-reports-description = Isso ajuda a { -vendor-short-name } a diagnosticar e resolver problemas relacionados ao navegador. Os relatórios podem conter dados pessoais ou sensíveis.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = As mesmas configurações, novo visual!
+    .message = Reorganizamos esta página para ficar mais fácil analisar e descobrir. Suas configurações pessoais não foram alteradas, tudo foi mantido. Dica: use a pesquisa para ir direto ao que você precisa.
 settings-redesign-promo-dismiss-button =
     .label = Entendi
 addon-recommendations =
@@ -2419,6 +2514,11 @@ preferences-doh-header2 =
 
 ## Connection and software security section
 
+preferences-connection-header =
+    .heading = Conexão e segurança de software
+preferences-connection-link-section =
+    .label = Conexão e segurança de software
+    .description = Ver como conexões permanecem seguras, software prejudicial é bloqueado e sites são verificados.
 preferences-connection-link-button =
     .label = Configurações avançadas
 
@@ -2427,6 +2527,22 @@ preferences-connection-link-button =
 desktop-folder-name = Área de trabalho
 downloads-folder-name = Downloads
 choose-download-folder-title = Selecione a pasta dos downloads:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Aparência
+browser-theme-group =
+    .label = Tema do navegador
+    .description = Estilize o { -brand-short-name } do seu jeito. Cores de temas se aplicam à barras de ferramentas, menus e mensagens.
+browser-theme-manage-link =
+    .label = Gerenciar temas do { -brand-short-name }
+related-settings-group =
+    .label = Configurações relacionadas
+related-settings-accessibility-link =
+    .label = Personalizar configurações de zoom e fonte na acessibilidade
+related-settings-home-link =
+    .label = Personalizar o { -firefox-home-brand-name }
 
 ## AI controls page
 
