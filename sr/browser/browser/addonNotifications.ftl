@@ -36,6 +36,8 @@ xpinstall-prompt-install =
 
 site-permission-install-first-prompt-midi-header = Овај сајт захтева приступ вашим MIDI (дигитално прочеље музичких инструмената) уређајима. Можете да омогућите приступ инсталирањем додатка.
 site-permission-install-first-prompt-midi-message = Овај захтев за приступ није нужно безбедан. Наставите само ако верујете овом сајту.
+site-permission-install-first-prompt-serial-header = Ова страница захтева приступ вашим серијским уређајима. Приступ уређајима може се омогућити инсталирањем додатка.
+site-permission-install-first-prompt-serial-message = Не гарантује се безбедност овог приступа. Наставите само ако верујете овој веб страници.
 
 ##
 

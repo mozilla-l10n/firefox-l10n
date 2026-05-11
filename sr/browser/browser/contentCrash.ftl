@@ -51,3 +51,11 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Не приказуј поново
     .accesskey = Н
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Имате недавно непослати извештај о паду
+        [few] Имате { $reportCount } недавно непослата извештаја о паду
+       *[other] Имате { $reportCount } недавно непослатих извештаја о паду
+    }
