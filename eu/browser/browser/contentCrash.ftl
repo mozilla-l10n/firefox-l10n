@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Ez erakutsi berriro
     .accesskey = z
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Azken aldian bidali gabeko hutsegite-txosten bat daukazu
+       *[other] Azken aldian bidali gabeko { $reportCount } hutsegite-txosten dauzkazu
+    }

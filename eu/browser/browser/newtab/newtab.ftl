@@ -366,6 +366,10 @@ newtab-custom-widget-lists-toggle =
     .label = Zerrendak
 newtab-custom-widget-timer-toggle =
     .label = Tenporizadorea
+newtab-custom-widget-sports-toggle =
+    .label = Munduko Kopa
+newtab-custom-widget-clock-toggle =
+    .label = Erlojua
 newtab-custom-widget-section-title = Widgetak
 newtab-custom-widget-section-toggle =
     .label = Widgetak
@@ -737,6 +741,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Osatuta ({ $number })
+newtab-widget-lists-celebration-subhead = Dena burututa
 newtab-widget-task-list-menu-copy = Kopiatu
 newtab-widget-lists-menu-edit = Editatu zerrendaren izena
 newtab-widget-lists-menu-edit2 =
@@ -757,6 +762,8 @@ newtab-widget-lists-input-menu-move-up = Eraman gora
 newtab-widget-lists-input-menu-move-down = Eraman behera
 newtab-widget-lists-input-menu-delete = Ezabatu
 newtab-widget-lists-input-menu-edit = Editatu
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Editatu elementua
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Sortu zerrenda berria
@@ -843,6 +850,65 @@ newtab-promo-card-dismiss-button =
     .title = Baztertu
     .aria-label = Baztertu
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ezkutatu tenporizadorea
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Jarraitu taldeak
+newtab-sports-widget-menu-view-upcoming = Ikusi hurrengoak
+newtab-sports-widget-menu-view-results = Ikusi emaitzak
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Data garrantzitsuak
+newtab-sports-widget-menu-learn-more = Argibide gehiago
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Adi-adi jarraitu Munduko Kopa
+newtab-sports-widget-get-updates = Jaso partiden zuzeneko eguneraketak eta gehiago.
+newtab-sports-widget-view-schedule =
+    .label = Ikusi ordutegia
+newtab-sports-widget-follow-teams =
+    .label = Jarraitu taldeak
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Jarraitu talde { $number } arte
+       *[other] Jarraitu { $number } talde arte
+    }
+newtab-sports-widget-choose-wallpaper =
+    .label = Aukeratu horma-papera
+newtab-sports-widget-skip = Saltatu
+newtab-sports-widget-search-country =
+    .placeholder = Bilatu herrialdea
+    .aria-label = Bilatu herrialdea
+newtab-sports-widget-cancel = Utzi
+newtab-sports-widget-done-button =
+    .label = Eginda
+newtab-sports-widget-group-stage = Multzokako fasea
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = ZUZENEAN
+newtab-custom-widget-live-refresh =
+    .title = Berritu emaitzak
+    .aria-label = Berritu emaitzak
+newtab-sports-widget-upcoming = Hurrengoak
+newtab-sports-widget-results = Emaitzak
+newtab-sports-widget-semi-finals = Finalerdiak
+newtab-sports-widget-bronze-finals = Brontzerako finala
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finala
+newtab-sports-widget-delayed = Atzeratuta
+newtab-sports-widget-postponed = Atzeratuta
+newtab-sports-widget-suspended = Bertan behera utzita
+newtab-sports-widget-cancelled = Bertan behera utzita
+newtab-sports-widget-information = Partidari buruzko informazioa
+newtab-sports-widget-no-live-data = Partiden zuzeneko informazioa ez da eguneratzen ari une honetan
+newtab-sports-widget-view-results-link = Ikusi emaitzak
+newtab-sports-widget-third-place = Hirugarren postua
+newtab-sports-widget-champions = Txapeldunak
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -864,3 +930,8 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Zuk agintzen duzu txoko honetan
 newtab-activation-window-message-values-focus-message = Nahi duzun erara nabigatzen uzten dizu { -brand-product-name }(e)k, zure online eguna hasteko modu pertsonalago batekin. Moldatu { -brand-product-name } zure erara.
+
+## Strings for the Clock widget
+
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Ezizena: { $nickname }
