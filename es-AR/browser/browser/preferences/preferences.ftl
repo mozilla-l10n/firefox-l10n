@@ -2506,6 +2506,9 @@ choose-download-folder-title = Elegir carpeta para descargas:
 
 preferences-appearance-header =
     .heading = Apariencia
+browser-theme-group =
+    .label = Tema del navegador
+    .description = Ponga su estilo a { -brand-short-name }. Los temas de color aplican a barras de herramientas,  menús y mensajes.
 browser-theme-manage-link =
     .label = Administrar temas de { -brand-short-name }
 related-settings-group =
