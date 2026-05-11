@@ -176,6 +176,7 @@ sidebar-menu-close-bookmarks-tooltip = Lat att bokmerke ({ $shortcut })
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Opne KI-chatbot ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Opne { $provider } ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Lat att KI-chatbot ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Lat att { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.

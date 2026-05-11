@@ -42,8 +42,8 @@ experimental-features-link-previews =
     .label = Førehandsvising av lenker
 experimental-features-link-previews-description =
     { PLATFORM() ->
-        [macos] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei kopling og trykk Shift (⇧) pluss Option (⌥) eller Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. For nokre nettsider kan AI også lese sideteksten og generere nøkkelpunkt. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, køyrer AI lokalt på datamaskina di. <a data-l10n-name="connect">Del tilbakemelding</a>
-       *[other] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei kopling og trykk Shift + Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. For nokre nettsider kan AI også lese sideteksten og generere nøkkelpunkt. AI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, køyrer AI lokalt på datamaskina di. <a data-l10n-name="connect">Del tilbakemelding</a>
+        [macos] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei kopling og trykk Shift (⇧) pluss Option (⌥) eller Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. For nokre nettsider kan KI også lese sideteksten og generere nøkkelpunkt. KI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, køyrer KI lokalt på datamaskina di. <a data-l10n-name="connect">Del tilbakemelding</a>
+       *[other] For å lære meir om ei nettside før du klikkar, hald musepeikaren over ei kopling og trykk Shift + Alt. Førehandsvisningar kan innehalde detaljar som tittel og lesetid. For nokre nettsider kan KI også lese sideteksten og generere nøkkelpunkt. KI er optimalisert for å lese og generere engelsk tekst. For å prioritere personvernet ditt, køyrer KI lokalt på datamaskina di. <a data-l10n-name="connect">Del tilbakemelding</a>
     }
 # This version of the link previews description does not mention AI.
 experimental-features-link-previews-description-no-ai =
