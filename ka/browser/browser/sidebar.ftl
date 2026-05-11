@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = გამართეთ { -brand-short-name }
 sidebar-vertical-tabs =
     .label = შვეული ჩანართები
+sidebar-settings2 =
+    .label = პარამეტრები
 sidebar-settings =
     .label = გვერდითი ზოლის გამართვა
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = გვერდითი ზოლის გაშლა მაჩვენებლის გადატარებისას
+sidebar-manage-extensions2 = ყველა გაფართოების მართვა
 sidebar-manage-extensions = გაფართოებების მართვა
+sidebar-customize-extensions-header2 = გაფართოებები
+sidebar-customize-firefox-tools-header2 =
+    .label = ხელსაწყოები
 
 ## Labels for sidebar context menu items
 

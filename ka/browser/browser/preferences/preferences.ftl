@@ -70,6 +70,11 @@ category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-about-firefox-title = { -brand-short-name } შესახებ
     .title = { pane-about-firefox-title }
+pane-appearance-title = იერსახე
+    .title = { pane-appearance-title }
+pane-downloads-title = ჩამოტვირთვები
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = ხელმისაწვდომობა
     .title = { pane-accessibility-title }
 pane-languages-title = ენები
@@ -682,9 +687,15 @@ applications-handle-new-file-types-description = როგორ მოეპყ
 applications-save-for-new-types =
     .label = შეინახოს
     .accesskey = ნ
+applications-save-for-new-types2 =
+    .label = ფაილების თვითშენახვა
+    .accesskey = ხ
 applications-ask-before-handling =
     .label = ყოველ ჯერზე იკითხოს, გახსნას თუ შეინახოს
     .accesskey = ჯ
+applications-ask-before-handling2 =
+    .label = შეკითხვა გახსნას თუ შეინახოს ფაილები
+    .accesskey = გ
 drm-group =
     .label = ციფრული უფლებების მართვის (DRM) შიგთავსი
 drm-content-header = ციფრული უფლებების მართვის (DRM) შიგთავსი
@@ -1046,6 +1057,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = სპორტი
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = საათი
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = თანადგომა – { -brand-product-name }
@@ -2165,6 +2179,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = ნებართვები
     .description = განკარგეთ, საიტებს რისი წვდომა, მართვა ან ამოქმედება შეეძლება.
+permissions-data-section =
+    .heading = ნებართვები და მონაცემები
+pane-permissions-data-title = ნებართვები და მონაცემები
 
 ## Privacy Section - Data Collection
 
@@ -2495,6 +2512,15 @@ preferences-connection-link-button =
 desktop-folder-name = სამუშაო ეკრანი
 downloads-folder-name = ჩამოტვირთვები
 choose-download-folder-title = ჩამოტვირთვების საქაღალდის არჩევა:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = იერსახე
+related-settings-group =
+    .label = დაკავშირებული პარამეტრები
+related-settings-home-link =
+    .label = მოირგეთ { -firefox-home-brand-name }
 
 ## AI controls page
 

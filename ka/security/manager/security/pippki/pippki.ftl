@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = სერტიფიკატის დუბლირების პაროლი (კვლავ):
 set-password-reminder = მნიშვნელოვანია: თუ სერტიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = დაცული დამოწმება შესვლისას
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = გთხოვთ, დაამოწმოთ უსაფრთხოების მოწყობილობაზე ({ $tokenName }). თუ როგორ, ეს დამოკიდებულია თავად მოწყობილობაზე (მაგალითად, თითის ანაბეჭდის წამკითხველით ან კოდის ამკრეფით).
+
 ## Protected authentication alert
 
 # Variables:
