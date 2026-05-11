@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = 证书备份密码（重复）：
 set-password-reminder = 重要：如果您忘记了您的证书备份密码，您此后将无法恢复此备份。请将它记在一个安全的地方。
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = 受保护的身份验证
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = 请向安全设备（{ $tokenName }）验证身份，具体操作方式取决于设备（例如使用指纹识别器或键入验证码）。
+
 ## Protected authentication alert
 
 # Variables:
