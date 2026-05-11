@@ -429,6 +429,8 @@ windows-10-eos-feature-toast-dismiss-button = Одбаци
 windows-10-eos-global-infobar-title = <strong>Microsoft више не подржава Windows 10.</strong> Направите резервну копију својих података да бисте припремили { -brand-product-name } за Windows 11.
 windows-10-eos-global-infobar-primary-button = Укључи резервну копију
     .accesskey = к
+windows-10-eos-global-infobar-learn-more-link = Сазнајте више
+    .accessKey = ј
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
@@ -458,3 +460,8 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Постави као подразумевано
 set-default-menu-message-primary-button-variant = Постави као главни прегледач
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 маски е-адреса, бесплатно
