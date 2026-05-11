@@ -865,6 +865,13 @@ newtab-widget-timer-mode-group =
     .aria-label = Modo temporizador
 # Small label shown beneath the live time while the break timer is running or paused.
 newtab-widget-timer-running-break = Intervalo
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Ocultar temporizador
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bom trabalho
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Sua pausa acabou
 
 ## Sports widget
 
@@ -876,6 +883,26 @@ newtab-sports-widget-follow-teams =
     .label = Seguir times
 newtab-sports-widget-choose-wallpaper =
     .label = Escolher um fundo de tela
+newtab-sports-widget-skip = Pular
+newtab-sports-widget-search-country =
+    .placeholder = Pesquisar país
+    .aria-label = Pesquisar país
+newtab-sports-widget-done-button =
+    .label = Pronto
+newtab-sports-widget-group-stage = Fase de grupos
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = AO VIVO
+newtab-custom-widget-live-refresh =
+    .title = Atualizar resultados
+    .aria-label = Atualizar resultados
+newtab-sports-widget-upcoming = Seguintes
+newtab-sports-widget-results = Resultados
+newtab-sports-widget-semi-finals = Semifinais
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Final
+newtab-sports-widget-cancelled = Cancelado
+newtab-sports-widget-view-results-link = Ver resultados
+newtab-sports-widget-third-place = Terceiro lugar
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -898,3 +925,8 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Este espaço segue suas regras
 newtab-activation-window-message-values-focus-message = O { -brand-product-name } permite navegar do jeito que você quiser, com uma maneira mais pessoal de iniciar o dia online. Deixe o { -brand-product-name } do seu jeito.
+
+## Strings for the Clock widget
+
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Apelido: { $nickname }

@@ -17,3 +17,11 @@ content-sharing-tabs-title =
     }
 content-sharing-modal-view-page =
     .label = გვერდის ნახვა
+content-sharing-modal-copy-link =
+    .label = ბმულის ასლი
+content-sharing-modal-link-copied =
+    .label = ბმული აღებულია
+content-sharing-modal-sign-in =
+    .label = შედით ბმულების გასაზიარებლად
+content-sharing-modal-title = გააზიარეთ ბმულების ეს კრებული ნებისმიერ ბრაუზერში
+content-sharing-modal-description = შექმენით საჯარო გვერდი ამ ბმულებისთვის იოლად გასაზიარებლად. შექმნის შემდეგ ეს გვერდი ვეღარ ჩასწორდება ან წაიშლება და ვადა გაუვა 7 დღეში.
