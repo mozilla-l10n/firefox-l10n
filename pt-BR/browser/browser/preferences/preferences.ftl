@@ -68,6 +68,13 @@ category-sync3 =
 pane-ai-controls-title = Controles de inteligência artificial
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = Sobre o { -brand-short-name }
+    .title = { pane-about-firefox-title }
+pane-appearance-title = Aparência
+    .title = { pane-appearance-title }
+pane-downloads-title = Downloads
+pane-downloads =
+    .heading = { pane-downloads-title }
 pane-accessibility-title = Acessibilidade
     .title = { pane-accessibility-title }
 pane-languages-title = Idiomas
@@ -335,6 +342,9 @@ browser-layout-show-sidebar-desc = Acesse rapidamente favoritos, abas do seu cel
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Idioma e aparência
+appearance-group2 =
+    .label = Aparência de sites
+    .description = Alguns sites mudam as cores para combinar com suas preferências. Escolha seu esquema de cores.
 appearance-group =
     .label = Aparência de sites
     .description = Alguns sites adaptam seu esquema de cores com base em suas preferências. Escolha qual esquema de cores você quer usar nesses sites.
