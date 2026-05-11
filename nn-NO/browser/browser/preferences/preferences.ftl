@@ -327,7 +327,7 @@ browser-layout-vertical-tabs2 =
     .description = Faner på sida, i sidestolpen
 browser-layout-show-sidebar2 =
     .label = Vis sidestolpe
-    .description = Få rask tilgang til bokmerke, faner frå mobilen din, AI-chatbotar og meir utan å forlate hovudvisinga.
+    .description = Få rask tilgang til bokmerke, faner frå mobilen din, KI-chatbotar og meir utan å forlate hovudvisinga.
 browser-layout-header = Nettlesarutforming
 browser-layout-horizontal-tabs =
     .label = Horisontale faner
@@ -337,7 +337,7 @@ browser-layout-vertical-tabs =
 browser-layout-vertical-tabs-desc = Vis på sida, i sidestolpen
 browser-layout-show-sidebar =
     .label = Vis sidestolpe
-browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mobilen din, AI-chatbotar og meir utan å forlate hovudvisinga.
+browser-layout-show-sidebar-desc = Få rask tilgang til bokmerke, faner frå mobilen din, KI-chatbotar, og meir, utan å forlate hovudvisinga.
 
 ## General Section - Language & Appearance
 
@@ -2588,7 +2588,7 @@ preferences-ai-controls-state-blocked =
 preferences-ai-controls-state-description-before = Kva alternativa betyr:
 preferences-ai-controls-state-description-available = <strong>Tilgjengeleg:</strong> Du vil sjå funksjonen og kan bruke han.
 preferences-ai-controls-state-description-enabled = <strong>Påslått:</strong> Du har valt å bruke funksjonen.
-preferences-ai-controls-state-description-blocked = <strong>Blokkert:</strong> Du vil ikkje sjå og kan ikkje bruke funksjonen. For AI på eninga blir alle modellar som allereie er lasta ned, fjerna.
+preferences-ai-controls-state-description-blocked = <strong>Blokkert:</strong> Du vil ikkje sjå og kan ikkje bruke funksjonen. For KI på eninga blir alle modellar som allereie er lasta ned, fjerna.
 preferences-ai-controls-block-confirmation-heading = Blokkere KI-forbetringar?
 preferences-ai-controls-block-confirmation-description = Du vil ikkje sjå nye eller eksisterande KI-forbetringar i { -brand-short-name }, eller varsel om dei. Etterpå kan du oppheve blokkeringa av det du ønskjer å halde fram med å bruke.
 preferences-ai-controls-block-confirmation-features-start = Kva som vil bli blokkert:
@@ -2597,7 +2597,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Bildetekst (alt-tekst) i PDF-
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Forslag til fanegrupper
 preferences-ai-controls-block-confirmation-key-points = Hovudpunkt i førehandsvisning av lenker
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbotleverandørar i sidestolpen
-preferences-ai-controls-block-confirmation-features-after = Blokkering påverkar også utvidingar som brukar AI levert av { -brand-short-name }.
+preferences-ai-controls-block-confirmation-features-after = Blokkering påverkar også utvidingar som brukar KI levert av { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Avbryt
 preferences-ai-controls-block-confirmation-confirm =

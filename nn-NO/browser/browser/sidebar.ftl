@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AI Chatbot
+    .label = KI-chatbot
 menu-view-contextual-password-manager =
     .label = Passord
 sidebar-options-menu-button =
@@ -136,7 +136,7 @@ sidebar-bookmarks-context-menu-delete-separator =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = AI chatbot
+    .label = KI-chatbot
 sidebar-menu-history-label =
     .label = Historikk
 sidebar-menu-synced-tabs-label =
@@ -174,9 +174,8 @@ sidebar-menu-close-bookmarks-tooltip = Lat att bokmerke ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
-sidebar-menu-open-ai-chatbot-tooltip-generic = Opne AI chatbot ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip-generic = Opne KI-chatbot ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Opne { $provider } ({ $shortcut })
-sidebar-menu-close-ai-chatbot-tooltip-generic = Lat att AI chatbot ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Lat att { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
