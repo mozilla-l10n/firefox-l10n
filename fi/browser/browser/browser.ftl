@@ -140,6 +140,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Muuta sitä, voitko saada ilmoituksia tältä sivustolta
 urlbar-midi-notification-anchor =
     .tooltiptext = Avaa MIDI-paneeli
+urlbar-serial-notification-anchor =
+    .tooltiptext = Avaa sarjaporttipaneeli
 urlbar-eme-notification-anchor =
     .tooltiptext = Hallinnoi DRM-ohjelmiston käyttöä
 urlbar-web-authn-anchor =
@@ -282,6 +284,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.
 urlbar-midi-blocked =
     .tooltiptext = Olet estänyt MIDI-käytön tältä sivustolta.
+urlbar-serial-blocked =
+    .tooltiptext = Olet estänyt sarjaportin käytön tältä sivustolta.
 urlbar-install-blocked =
     .tooltiptext = Olet estänyt lisäosien asennuksen tältä sivustolta.
 # Variables
@@ -419,6 +423,10 @@ quickactions-logins2 = Hallitse salasanoja
 quickactions-cmd-logins = käyttäjätunnukset, salasanat
 # Mutes all tabs playing audio
 quickactions-mute = Mykistä ääntä toistavat välilehdet
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = mykkä, hiljaa, sssssh
 # Opens about:addons page in the plugins section
 quickactions-plugins = Hallitse liitännäisiä
 quickactions-cmd-plugins = liitännäiset
@@ -650,6 +658,11 @@ sharing-warning-proceed-to-tab =
     .label = Jatka välilehteen
 sharing-warning-disable-for-session =
     .label = Poista jakamisen suojaus tästä istunnosta
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Valitse sarjaportti:
+webserial-no-ports-available = Sarjaportteja ei ole käytettävissä
 
 ## DevTools F12 popup
 
@@ -1723,6 +1736,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = Nämä sivustot yrittävät louhia kryptovaluuttoja:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = Onko sinulla tili tälle sivustolle?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } havaitsi, että tällä sivustolla on ollut tietomurto viimeisen 12 kuukauden aikana. Ota selvää, koskiko se sinua.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Hylkää
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = Aloita ilmainen tarkistus
 trustpanel-blocker-section-header2 =
@@ -1733,5 +1747,9 @@ trustpanel-blocker-section-header2 =
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Näyttääkö sivusto rikkinäiseltä?</strong> Lataa sivu uudelleen, niin seurannan suojausta heikennetään väliaikaisesti.
+reduced-protection-infobar-reload-button = Lataa uudelleen
+    .accesskey = L
 reduced-protection-infobar-never-show-button = Älä näytä uudelleen
     .accesskey = Ä
