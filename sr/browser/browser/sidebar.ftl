@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Управља { -brand-short-name } подешавањима
 sidebar-vertical-tabs =
     .label = Усправни језичци
+sidebar-settings2 =
+    .label = Подешавања
 sidebar-settings =
     .label = Подешавања бочне траке
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Прошири бочну траку при лебдењу
+sidebar-manage-extensions2 = Управљај свим додацима
 sidebar-manage-extensions = Управљај додацима
+sidebar-customize-extensions-header2 = Додаци
+sidebar-customize-firefox-tools-header2 =
+    .label = Алатке
 
 ## Labels for sidebar context menu items
 

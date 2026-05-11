@@ -141,6 +141,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } захте
 
 webext-site-perms-header-with-gated-perms-midi = Овај додатак даје { $hostname }-у приступ вашим MIDI уређајима.
 webext-site-perms-header-with-gated-perms-midi-sysex = Овај додатак даје { $hostname }-у приступ вашим MIDI уређајима (са SysEx подршком).
+webext-site-perms-header-with-gated-perms-serial = Овај додатак даје страници { $hostname } приступ вашим серијским уређајима.
 
 ##
 

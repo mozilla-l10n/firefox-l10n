@@ -465,3 +465,8 @@ set-default-menu-message-primary-button-variant = Постави као глав
 
 # "on us" in this context means "for free" or "at no cost"
 relay-50-masks-announcement-title = 50 маски е-адреса, бесплатно
+relay-50-masks-announcement-subtitle = Сада добијате 50 бесплатних маски (пре је било 5). Користите по једну за сваки налог да бисте сачували приватност своје праве адресе е-поште.
+relay-50-masks-announcement-primary-button = Идите на { -relay-brand-name }
+    .accesskey = д
+relay-50-masks-announcement-secondary-button = Одбаци
+    .accesskey = б

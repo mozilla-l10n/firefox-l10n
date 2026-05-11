@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Резервна лозинка за сертификат (опет):
 set-password-reminder = Важно: ако заборавите лозинку за резервну лозинку сертификата, нећете моћи да касније вратите сертификат. Лозинку сачувајте на безбедно место.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Заштићена идентификација
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Идентификујте се на безбедносном уређају ({ $tokenName }). Начин на који то радите зависи од уређаја (на пример, коришћење читача отиска прста или унос кода помоћу тастатуре).
+
 ## Protected authentication alert
 
 # Variables:

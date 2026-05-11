@@ -276,6 +276,9 @@ tab-group-editor-color-selector2-gray = Сива
     .title = Сива
 tab-group-editor-color-selector2-red = Црвена
     .title = Црвена
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — затворена
 tab-group-description = { $tabGroupName } - група језичака
 tab-group-label-tooltip-collapsed = { $tabGroupName } - скупљено
 tab-group-label-tooltip-expanded = { $tabGroupName } - проширено
@@ -284,6 +287,14 @@ tab-group-preview-name =
 tab-context-unnamed-group =
     .label = Неименована група
 tab-group-name-default = Неименована група
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Групе језичака
 
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
@@ -331,6 +342,16 @@ tab-group-editor-action-new-tab =
     .label = Нови језичак у групи
 tab-group-editor-action-new-window =
     .label = Премести групу у нови прозор
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Копирај везу у групу
+            [one] Копирај { $linkCount } везу у групу
+            [few] Копирај { $linkCount } везе у групу
+           *[other] Копирај { $linkCount } веза у групу
+        }
 tab-group-editor-action-save =
     .label = Сачувај и затвори групу
 tab-group-editor-action-ungroup =
@@ -340,6 +361,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Готово
     .accessKey = Г
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Дели групу језичака
 tab-context-reopen-tab-group =
     .label = Поново отвори групу језичака
 # Variables:
@@ -413,6 +437,12 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Сачувај
     .accesskey = С
+tab-note-editor-button-delete =
+    .title = Обриши белешку
+    .aria-label = Обриши белешку
+    .accesskey = л
+tab-note-preview-edit-icon =
+    .alt = Измени белешку
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Прочитај више
 tab-note-panel-add-note-new-badge =
