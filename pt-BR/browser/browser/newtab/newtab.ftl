@@ -363,6 +363,10 @@ newtab-custom-widget-lists-toggle =
     .label = Listas
 newtab-custom-widget-timer-toggle =
     .label = Temporizador
+newtab-custom-widget-sports-toggle =
+    .label = Copa do Mundo
+newtab-custom-widget-clock-toggle =
+    .label = Relógio
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -732,6 +736,7 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Tarefas concluídas { $number }
+newtab-widget-lists-celebration-headline = Bom trabalho
 newtab-widget-task-list-menu-copy = Copiar
 newtab-widget-lists-menu-edit = Editar nome da lista
 newtab-widget-lists-menu-edit2 =
@@ -752,6 +757,8 @@ newtab-widget-lists-input-menu-move-up = Para cima
 newtab-widget-lists-input-menu-move-down = Para baixo
 newtab-widget-lists-input-menu-delete = Excluir
 newtab-widget-lists-input-menu-edit = Editar
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Editar item
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Criar nova lista
@@ -837,6 +844,38 @@ newtab-promo-card-cta = Saiba mais
 newtab-promo-card-dismiss-button =
     .title = Descartar
     .aria-label = Descartar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+newtab-widget-timer-pause-aria =
+    .aria-label = Pausar temporizador
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuto
+           *[other] { $minutes } minutos
+        }
+newtab-widget-timer-decrease-min =
+    .title = Diminuir 1 minuto
+newtab-widget-timer-increase-min =
+    .title = Aumentar 1 minuto
+newtab-widget-timer-mode-group =
+    .aria-label = Modo temporizador
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Intervalo
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Seguir times
+newtab-sports-widget-menu-view-results = Ver resultados
+newtab-sports-widget-menu-learn-more = Saiba mais
+newtab-sports-widget-get-updates = Receba notícias em tempo real sobre os jogos e muito mais.
+newtab-sports-widget-follow-teams =
+    .label = Seguir times
+newtab-sports-widget-choose-wallpaper =
+    .label = Escolher um fundo de tela
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
