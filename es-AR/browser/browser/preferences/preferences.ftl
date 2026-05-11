@@ -732,6 +732,9 @@ update-application-allow-description = Permitir que { -brand-short-name }
 update-application-auto =
     .label = Instale actualizaciones automáticamente (recomendado)
     .accesskey = a
+update-application-check-choose-2 =
+    .label = Buscar actualizaciones, pero elegir cuándo instalarlas
+    .accesskey = c
 update-application-check-choose =
     .label = Busque actualizaciones pero dejarme elegir si las instalo
     .accesskey = C
@@ -1609,6 +1612,12 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Conocer más
 forms-windows-sso-desc = Administrar cuentas en la configuración de su dispositivo
 windows-passkey-settings-label = Administrar claves de acceso en la configuración del sistema
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Configuración del panel de privacidad
+    .description = Reciba ayuda para proteger su información online en { -brand-short-name }
 
 ## OS Authentication dialog
 
