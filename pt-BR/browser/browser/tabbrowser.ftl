@@ -319,6 +319,14 @@ tab-group-editor-action-new-tab =
     .label = Nova aba no grupo
 tab-group-editor-action-new-window =
     .label = Mover grupo para nova janela
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Copiar link em grupo
+           *[other] Copy { $linkCount } links in group
+        }
 tab-group-editor-action-save =
     .label = Salvar e fechar grupo
 tab-group-editor-action-ungroup =

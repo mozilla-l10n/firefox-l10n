@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Lisää { -vendor-short-name(case: "ablative") }
+more-from-moz-page-header =
+    .heading = Lisää { -vendor-short-name }lta
 more-from-moz-category =
     .tooltiptext = Lisää { -vendor-short-name(case: "ablative") }
 more-from-moz-subtitle = Tutustu muihin { -vendor-short-name }-tuotteisiin, jotka tukevat terveellistä internetiä.
 more-from-moz-firefox-mobile-title = { -brand-product-name }in mobiiliversio
 more-from-moz-firefox-mobile-description = Mobiiliselain, joka asettaa yksityisyytesi etusijalle.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } mobiililaitteille
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } mobiililaitteille
+    .description = Yksityisyytesi etusijalle asettava mobiiliselain.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Löydä lisätty taso anonyymiä selaamista ja suojausta.
 more-from-moz-qr-code-box-firefox-mobile-title = Lataa mobiililaitteellasi. Suuntaa kamerasi QR-koodiin. Kun linkki tulee näkyviin, napauta sitä.
@@ -68,10 +73,26 @@ more-from-moz-firefox-mobile-email-link = Lähetä latauslinkki sähköpostitse 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Suojaa postilaatikkoasi roskapostilta ilmaisella sähköpostimaskilla.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Opi web-sovelluskehiystä ilmaisten ohjeiden ja viitteiden avulla.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Käytä sähköpostia, kalentereita ja yhteystietoja yhdessä nopeassa sovelluksessa.
+more-from-moz-new-products-card =
+    .label = { -vendor-short-name }n uudet tuotteet
+    .description = Tutustu { -vendor-short-name }n uusimpiin tuotteisiin.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Hanki { -monitor-brand-short-name }
 more-from-moz-mozilla-vpn-box-link =
     .label = Hanki { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-box-link =
     .label = Hanki { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Käytä MDN:ää
 more-from-moz-thunderbird-box-link =
     .label = Hanki { -thunderbird-brand-short-name }
 more-from-moz-solo-box-link =
