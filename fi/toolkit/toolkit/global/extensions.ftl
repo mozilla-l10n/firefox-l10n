@@ -138,6 +138,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } pyytää t
 
 webext-site-perms-header-with-gated-perms-midi = Tämä lisäosa antaa sivustolle { $hostname } pääsyn MIDI-laitteisiisi.
 webext-site-perms-header-with-gated-perms-midi-sysex = Tämä lisäosa antaa sivustolle { $hostname } pääsyn MIDI-laitteisiisi (SysEx-tuella).
+webext-site-perms-header-with-gated-perms-serial = Tämä lisäosa antaa sivustolle { $hostname } pääsyn sarjaporttilaitteisiisi.
 
 ##
 
@@ -148,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Nämä ovat yleensä plug-in-laitteita, kuten äänisyntetisaattoreita, mutta ne voivat myös olla sisäänrakennettuja tietokoneeseesi.
     
     Verkkosivustot eivät yleensä saa käyttää MIDI-laitteita. Vääränlainen käyttö voi aiheuttaa vahinkoa tai vaarantaa turvallisuuden.
+webext-site-perms-description-gated-perms-serial =
+    Nämä ovat laitteita, kuten mikrokontrollereita, 3D-tulostimia ja muita laitteita, jotka yhdistetään USB- tai sarjaporttien kautta.
+    
+    Voit valita, mihin laitteisiin verkkosivustolla on pääsy.
+    
+    Verkkosivustoilla ei yleensä ole oikeutta käyttää sarjalaitteita. Väärinkäyttö voi aiheuttaa vahinkoa tai vaarantaa turvallisuuden.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -162,6 +169,7 @@ webext-site-perms-header-unsigned-with-perms = Lisätäänkö { $extension }? T�
 
 webext-site-perms-midi = Käytä MIDI-laitteita
 webext-site-perms-midi-sysex = Käytä MIDI-laitteita SysEx-tuella
+webext-site-perms-serial = Käytä sarjaporttilaitteita
 
 ## Colorway theme migration
 

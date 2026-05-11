@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Mukauta selaamistasi
 experimental-features-group-productivity =
     .label = Tuottavuus
+experimental-features-group-newtab-widgets =
+    .label = Pienoisohjelmat { -firefox-home-brand-name }issa
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Salasanat sivupalkissa
