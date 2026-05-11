@@ -45,6 +45,8 @@ ipprotection-site-settings-callout-button = Selvä
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Uutta: Vaihda sijaintiasi
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennetun VPN:n</a> avulla voit valita viidestä selaussijainnista tai antaa meidän valita nopeimman puolestasi.
 ipprotection-location-selection-callout-primary-button = Kokeile
 ipprotection-location-selection-callout-secondary-button = Hylkää
 
@@ -53,6 +55,7 @@ ipprotection-location-selection-callout-secondary-button = Hylkää
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Piilota sijaintisi</a> selatessasi { -brand-product-name }illa.
+unauthenticated-choose-location-message = Valitse viidestä sijainnista tai anna { -brand-product-name }in valita nopein.
 unauthenticated-hide-location-message-2 = Piilota sijaintisi selatessasi { -brand-product-name }illa.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -96,6 +99,7 @@ ipprotection-recommended-location-badge = UUSI
 ipprotection-location-country-button = Sijainti: { $country }
 ipprotection-locations-subview =
     .title = Valitse sijainti
+ipprotection-locations-subview-description = Valitse selauspaikaksi toinen sijainti.
 ipprotecion-locations-subview-recommended-label = Suositeltu
 ipprotection-locations-subview-recommended-description = Löytää nopeimman sijainnin
 ipprotection-locations-subview-promo-button = Hanki { -mozilla-vpn-brand-name }
@@ -239,6 +243,7 @@ vpn-paused-alert-title = VPN keskeytetty
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Olet käyttänyt kaiken VPN-datasi, { $maxUsage } Gt. VPN-käyttöoikeus nollautuu ensi kuussa.
+vpn-error-page-continue-description = Valitse, miten jatkaa ilman VPN:ää
 vpn-error-page-keep-browsing = Jatka selaamista tässä istunnossa
 vpn-error-page-new-session = Aloita uusi istunto
 vpn-paused-alert-close-tabs-button = Sulje kaikki välilehdet

@@ -400,6 +400,9 @@ language-and-appearance-header = Zobrazení a jazyk stránek
 appearance-group2 =
     .label = Vzhled webové stránky
     .description = Některé webové stránky přizpůsobují své barevné schéma vašim preferencím. Vyberte si své barevné schéma.
+preferences-web-appearance-choice-auto3 =
+    .label = Systém
+    .title = Automaticky mění pozadí a obsah webových stránek podle nastavení systému a motivu aplikace { -brand-short-name }.
 appearance-group =
     .label = Vzhled webových stránek
     .description = Některé stránky dokáží upravit svůj vzhled podle vašeho nastavení. Vyberte vzhled, který chcete na takových stránkách použít.
@@ -912,6 +915,9 @@ about-firefox-header =
 
 ## Firefox updates
 
+update-application-heading =
+    .label = Aktualizace aplikace { -brand-short-name }
+    .description = Aktualizace zvyšují rychlost, stabilitu a bezpečnost aplikace { -brand-short-name }.
 update-application-suppress-prompts-heading =
     .label = Upozornění
 update-application-updates-managed-by-os =
@@ -1231,6 +1237,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Zvolte si tapetu
 home-prefs-choose-wallpaper-link2 =
     .label = Zvolte si tapetu
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Chcete-li tyto funkce využívat, nastavte pro nové panely nebo okna načítání { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1774,6 +1785,9 @@ windows-passkey-settings-label = Správa přístupových klíčů v nastavení s
 
 ## Privacy Panel Settings
 
+privacy-panel-settings-header =
+    .label = Nastavení panelu ochrany osobních údajů
+    .description = Získejte pomoc s ochranou svých údajů na internetu v aplikaci { -brand-short-name }.
 # By “breach message” we mean the UI messaging shown when Firefox detects that a
 # site the user has interacted with has been involved in a known data breach
 privacy-panel-breach-alerts =
@@ -2816,6 +2830,9 @@ preferences-doh-header2 =
 
 preferences-connection-header =
     .heading = Bezpečnost připojení a aplikace
+preferences-connection-link-section =
+    .label = Bezpečnost připojení a softwaru
+    .description = Podívejte se, jak jsou připojení zabezpečena, jak je blokován škodlivý software a jak jsou ověřovány webové stránky.
 preferences-connection-link-button =
     .label = Pokročilé nastavení
 
@@ -2829,8 +2846,19 @@ choose-download-folder-title = Vyberte složku pro stahování souborů
 
 preferences-appearance-header =
     .heading = Vzhled
+browser-theme-group =
+    .label = Vzhled prohlížeče
+    .description = Přizpůsobte si styl aplikace { -brand-short-name } podle svých představ. Barvy motivu se promítnou do panelů nástrojů, nabídek a hlášení.
+browser-theme-manage-link =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Spravovat vzhledy { -brand-short-name(case: "gen") }
+           *[no-cases] Spravovat vzhledy aplikace { -brand-short-name }
+        }
 related-settings-group =
     .label = Související nastavení
+related-settings-accessibility-link =
+    .label = Přizpůsobení nastavení velikosti stránky a písma najdete v části Přístupnost
 
 ## AI controls page
 

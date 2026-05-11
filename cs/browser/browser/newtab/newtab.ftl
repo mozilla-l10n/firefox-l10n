@@ -886,6 +886,16 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Spustit časovač na { $minutes } minutu
+            [few] Spustit časovač na { $minutes } minuty
+            [many] Spustit časovač na { $minutes } minut
+           *[other] Spustit časovač na { $minutes } minut
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Pozastavit časovač
 # Variables:

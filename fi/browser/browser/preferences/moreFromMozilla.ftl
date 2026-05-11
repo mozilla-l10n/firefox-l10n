@@ -73,6 +73,12 @@ more-from-moz-firefox-mobile-email-link = Lähetä latauslinkki sähköpostitse 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Tarkista missä henkilökohtaiset tietosi ovat paljastuneet verkossa ilmaisella tarkistuksella.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Lisäkerros suojausta kaikille sovelluksille — ei vain selaimelle. Pidä tietosi suojattuna julkisissa langattomissa verkoissa ja ei-turvallisissa verkoissa.
 more-from-moz-firefox-relay-card =
     .label = { -relay-brand-name }
     .description = Suojaa postilaatikkoasi roskapostilta ilmaisella sähköpostimaskilla.
@@ -82,6 +88,9 @@ more-from-moz-mdn-card =
 more-from-moz-thunderbird-card =
     .label = { -thunderbird-brand-name }
     .description = Käytä sähköpostia, kalentereita ja yhteystietoja yhdessä nopeassa sovelluksessa.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Tutustu uusimpiin ideoihin ja kokeellisiin teknologioihin.
 more-from-moz-new-products-card =
     .label = { -vendor-short-name }n uudet tuotteet
     .description = Tutustu { -vendor-short-name }n uusimpiin tuotteisiin.
