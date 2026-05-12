@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Wyślij na telefon
     .accesskey = W
+main-context-menu-send-to-mobile-enable-sync2 = Włącz synchronizację, aby wysłać kartę
+main-context-menu-send-to-mobile-connect-phone2 = Połącz swój telefon
+main-context-menu-send-to-mobile-device-missing2 = Nie ma tutaj Twojego urządzenia?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Włącz synchronizację, aby wysłać kartę
