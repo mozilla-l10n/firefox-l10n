@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = أرسل إلى الهاتف
     .accesskey = أ
+main-context-menu-send-to-mobile-enable-sync2 = فعِّل المزامنة لإرسال لسان
+main-context-menu-send-to-mobile-connect-phone2 = صل جوالك
+main-context-menu-send-to-mobile-device-missing2 = ألا ترى جهازك؟
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = فعِّل المزامنة لإرسال لسان
