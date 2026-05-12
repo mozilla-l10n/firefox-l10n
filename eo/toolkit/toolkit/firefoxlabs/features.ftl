@@ -27,6 +27,8 @@ experimental-features-group-customize-browsing =
     .label = Personecigu vian retumon
 experimental-features-group-productivity =
     .label = Produktemo
+experimental-features-group-newtab-widgets =
+    .label = Komponantoj en { -firefox-home-brand-name }
 # Contextual Password Manager in sidebar
 experimental-features-contextual-password-manager =
     .label = Pasvortoj en la flanka strio
@@ -64,15 +66,31 @@ experimental-features-fx-web-apps-description = Malfermu la retejojn kiujn vi vi
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Listoj en { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Listoj
 experimental-features-newtab-widget-lists-description = Tenu vian liston de farendaĵoj ĉekape kiam vi malfermas novan langeton. Ĉu temas pri paklistoj ĉu pri aĉetumlistoj, planu per { -brand-product-name }. <a data-l10n-name="connect">Dividi komentojn</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Tempumilo en { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Tempumilo
 experimental-features-newtab-widget-timer-description = Metu tempumilon por resti koncentrita, malhelpi devojiĝon aŭ memorigi ke estas tempo paŭzi. <a data-l10n-name="connect">Dividi komentojn</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Listoj kaj tempumiloj en { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Tenu vian liston de farendaĵoj ĉekape kiam vi malfermas novan langeton. Ĉu temas pri paklistoj ĉu pri aĉetumlistoj, planu per { -brand-product-name }. Metu tempumilon por resti koncentrita, malhelpi devojiĝon aŭ memorigi ke estas tempo paŭzi. <a data-l10n-name="connect">Dividi komentojn</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Veterprognozoj
+experimental-features-newtab-widget-weather-description = Ricevi detalan informon pri la hodiaŭa vetero kun ĉiuhoraj prognozoj. <a data-l10n-name="connect">Dividi ideojn kaj komentojn</a>
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Bildo de la tago
+experimental-features-newtab-widget-picture-of-the-day-description = Aldonu etan inspiron al via tago. Ricevu novan bildon, lernu ion interesan kaj elektu novan ekranfonon en la sama movo. <a data-l10n-name="connect">Dividi ideojn kaj komentojn</a>
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Horloĝoj
+experimental-features-newtab-widget-clocks-description = Meu ĝis kvar horloĝojn kun personecigitaj tien, kie gravas por vi. <a data-l10n-name="connect">Dividi ideojn kaj komentojn</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantika serĉo en historio

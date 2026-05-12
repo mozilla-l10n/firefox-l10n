@@ -878,6 +878,21 @@ newtab-widget-timer-increase-min =
     .title = Aldoni 1 minuton
 newtab-widget-timer-mode-group =
     .aria-label = Tempumila reĝimo
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Koncentriĝo
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Paŭzo
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Kaŝi tempumilon
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Bona laboro
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Via paŭzo finiĝis
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Ĉu vi bezonas paŭzi?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Ĉu preta koncentriĝi?
 
 ## Sports widget
 
@@ -888,6 +903,20 @@ newtab-sports-widget-menu-learn-more = Pli da informo
 newtab-sports-widget-get-updates = Ricevu informojn pri ludoj kaj pli.
 newtab-sports-widget-follow-teams =
     .label = Sekvi teamojn
+newtab-sports-widget-choose-wallpaper =
+    .label = Elekti ekranfonon
+newtab-sports-widget-skip = Ignori
+newtab-sports-widget-done-button =
+    .label = Farita
+newtab-sports-widget-group-stage = Grupa fazo
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = REKTE
+newtab-custom-widget-live-refresh =
+    .title = Refreŝigi rezultojn
+    .aria-label = Refreŝigi rezultojn
+newtab-sports-widget-upcoming = Venontaj
+newtab-sports-widget-results = Rezultoj
+newtab-sports-widget-semi-finals = Duonfinaloj
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -910,3 +939,26 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tiu ĉi loko sekvas viajn regulojn
 newtab-activation-window-message-values-focus-message = { -brand-product-name } permesas al vi retumi kiel vi ŝatas, per pli persona maniero komenci vian tagan retumon. Personecigu { -brand-product-name }.
+
+## Strings for the Clock widget
+
+newtab-clock-widget-button-remove-clock =
+    .title = Forigi horloĝon
+    .aria-label = Forigi horloĝon
+newtab-clock-widget-add-clock-form =
+    .aria-label = Aldoni horloĝon
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Modifi horloĝon
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Rezulto de serĉo
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .title = Malfermi horloĝan menuon
+    .aria-label = Malfermi horloĝan menuon
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Kromnomo: { $nickname }
