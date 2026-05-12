@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Send til mobil
     .accesskey = n
+main-context-menu-send-to-mobile-enable-sync2 = Aktiver synkronisering for å sende en fane
+main-context-menu-send-to-mobile-connect-phone2 = Koble til telefonen din
+main-context-menu-send-to-mobile-device-missing2 = Ser du ikke enheten din?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Aktiver synkronisering for å sende en fane
