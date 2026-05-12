@@ -1656,6 +1656,11 @@ windows-passkey-settings-label = Administri alirŝlosiloj en la sistemaj agordoj
 privacy-panel-settings-header =
     .label = Panelo de privatecaj agordoj
     .description = Ricevu helpon de { -brand-short-name } por protekti viajn informojn en la reto.
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Montri mesaĝojn pri datumfuĝoj
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -1746,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Agordoj por pasvortoj kaj aŭtomata plenigo
+pane-passwords-autofill-title = Pasvortoj kaj aŭtomata plenigo
+preferences-passwords-autofill-header =
+    .heading = Pasvortoj kaj aŭtomata plenigo
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

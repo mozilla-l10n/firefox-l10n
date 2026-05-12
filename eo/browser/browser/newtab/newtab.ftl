@@ -905,27 +905,64 @@ newtab-sports-widget-menu-learn-more = Pli da informo
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Akompanu la futbalan mondpokalon
 newtab-sports-widget-get-updates = Ricevu informojn pri ludoj kaj pli.
+newtab-sports-widget-view-schedule =
+    .label = Montri kalendaron
 newtab-sports-widget-follow-teams =
     .label = Sekvi teamojn
+newtab-sports-widget-view-matches =
+    .label = Montri ludojn
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Sekvi ĝis unu teamo
+       *[other] Sekvi ĝis { $number } teamoj
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Elekti ekranfonon
 newtab-sports-widget-skip = Ignori
+newtab-sports-widget-search-country =
+    .placeholder = Serĉi landon
+    .aria-label = Serĉi landon
+newtab-sports-widget-cancel = Nuligi
 newtab-sports-widget-done-button =
     .label = Farita
 newtab-sports-widget-group-stage = Grupa fazo
+newtab-sports-widget-round-32 = Rondo de 32
+newtab-sports-widget-round-16 = Rondo de 16
+newtab-sports-widget-quarter-finals = Kvaronfinaloj
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = REKTE
 newtab-custom-widget-live-refresh =
     .title = Refreŝigi rezultojn
     .aria-label = Refreŝigi rezultojn
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Ĉefaj datoj
 newtab-sports-widget-upcoming = Venontaj
 newtab-sports-widget-results = Rezultoj
 newtab-sports-widget-semi-finals = Duonfinaloj
 newtab-sports-widget-bronze-finals = BRONZA FINALO
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Finalo
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
 newtab-sports-widget-delayed = Malfruigita
 newtab-sports-widget-postponed = Prokrastita
+newtab-sports-widget-suspended = Haltigita
+newtab-sports-widget-cancelled = Nuligita
+newtab-sports-widget-information = Informoj pri la ludo
+newtab-sports-widget-no-live-data = Ne estas nunaj ĝisdatigoj por la ludo
+newtab-sports-widget-view-results-link = Montri rezultojn
+newtab-sports-widget-third-place = Tria loko
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Dua loko
+newtab-sports-widget-champions = Ĉampionoj
+newtab-sports-widget-world-cup-champions = Ĉampionoj de la futbala mondpokalo 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -951,6 +988,39 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Kaŝi horloĝon
+newtab-clock-widget-menu-learn-more = Pli da informo
+newtab-clock-widget-menu-edit = Modifi horloĝojn
+newtab-clock-widget-menu-switch-to-12h = Ŝanĝi al 12 hora formo
+newtab-clock-widget-menu-switch-to-24h = Ŝanĝi al 24 hora formo
+newtab-clock-widget-label-your-clocks = Viaj horloĝoj
+newtab-clock-widget-search-location-input =
+    .label = Loko
+    .placeholder = Serĉi urbon
+    .aria-label = Serĉi urbon
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .label = Kromnomo (nedeviga)
+    .placeholder = Aldoni kromnomon
+    .aria-label = Kromnomo (nedeviga)
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .title = Aldoni novan horloĝon
+    .aria-label = Aldoni novan horloĝon
+newtab-clock-widget-button-add-clock = Aldoni
+newtab-clock-widget-button-cancel = Nuligi
+newtab-clock-widget-button-back =
+    .title = Reen
+    .aria-label = Reen
+newtab-clock-widget-button-edit-clock =
+    .title = Modifi horloĝon
+    .aria-label = Modifi horloĝon
+newtab-clock-widget-button-save = Konservi
 newtab-clock-widget-button-remove-clock =
     .title = Forigi horloĝon
     .aria-label = Forigi horloĝon
