@@ -222,6 +222,8 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Eliger profilo
 preferences-copy-profile-button = Copiar
+tabs-browsing-section =
+    .heading = Schedas e navigation
 tabs-group-header2 =
     .label = Schedas
 tabs-opening-heading =
