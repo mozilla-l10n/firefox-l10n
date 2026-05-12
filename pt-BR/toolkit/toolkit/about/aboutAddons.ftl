@@ -591,6 +591,7 @@ mlmodel-link-preview = O { -brand-short-name } usa isso para gerar pontos chave 
 mlmodel-pdfjs = O { -brand-short-name } usa isto para criar texto alternativo em imagens que você adiciona a documentos PDF
 mlmodel-smart-tab-topic-engine = O { -brand-short-name } usa isto para sugerir nomes para seus grupos de abas
 mlmodel-smart-tab-embedding-engine = O { -brand-short-name } usa isto para sugerir abas para seus grupos de abas
+mlmodel-formfill-engine = O { -brand-short-name } usa isso para ajudar a preencher formulários de endereços
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Inteligência artificial no dispositivo
 addon-category-mlmodel-title =

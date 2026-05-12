@@ -117,6 +117,10 @@ sidebar-item-session-history = Session History
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = 顯示使用階段紀錄資料
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = 無法提供階段紀錄圖表
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = 目標不支援顯示階段紀錄圖表
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = 警告圖示

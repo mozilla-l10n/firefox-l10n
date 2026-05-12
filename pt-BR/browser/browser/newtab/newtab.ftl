@@ -906,6 +906,12 @@ newtab-sports-widget-follow-teams =
     .label = Seguir times
 newtab-sports-widget-view-matches =
     .label = Ver jogos
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+       *[other] Acompanhe até { $number } equipes
+    }
 newtab-sports-widget-choose-wallpaper =
     .label = Escolher um fundo de tela
 newtab-sports-widget-skip = Pular
@@ -944,8 +950,11 @@ newtab-sports-widget-postponed = Adiado
 newtab-sports-widget-suspended = Suspenso
 newtab-sports-widget-cancelled = Cancelado
 newtab-sports-widget-information = Informações sobre o jogo
+newtab-sports-widget-no-live-data = Os dados de jogos em tempo real não estão sendo atualizados no momento
 newtab-sports-widget-view-results-link = Ver resultados
 newtab-sports-widget-third-place = Terceiro lugar
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Segundo lugar
 newtab-sports-widget-champions = Campeões
 newtab-sports-widget-world-cup-champions = Campeões da Copa do Mundo de 2026
 
@@ -980,6 +989,10 @@ newtab-clock-widget-menu-edit = Editar relógios
 newtab-clock-widget-menu-switch-to-12h = Mudar para formato de 12 horas
 newtab-clock-widget-menu-switch-to-24h = Mudar para formato de 24 horas
 newtab-clock-widget-label-your-clocks = Seus relógios
+newtab-clock-widget-search-location-input =
+    .label = Local
+    .placeholder = Procurar uma cidade
+    .aria-label = Procurar uma cidade
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
