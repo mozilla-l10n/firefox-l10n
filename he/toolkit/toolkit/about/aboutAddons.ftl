@@ -570,6 +570,7 @@ mlmodel-link-preview = ‏{ -brand-short-name } משתמש בזה כדי ליי�
 mlmodel-pdfjs = ‏{ -brand-short-name } משתמש בזה כדי לייצר טקסט חלופי עבור תמונות שמוסיפים לקובצי PDF
 mlmodel-smart-tab-topic-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע שמות עבור קבוצות הלשוניות שלך
 mlmodel-smart-tab-embedding-engine = ‏{ -brand-short-name } משתמש בזה כדי להציע לשוניות עבור קבוצות הלשוניות שלך
+mlmodel-formfill-engine = ‏{ -brand-short-name } משתמש בזה כדי לסייע במילוי כתובות בטפסים
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = בינה מלאכותית במכשיר
 addon-category-mlmodel-title =

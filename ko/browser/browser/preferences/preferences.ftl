@@ -827,6 +827,10 @@ performance-default-content-process-count =
     .label = { $num } (기본값)
 performance-group =
     .label = 성능
+performance-use-recommended-settings-checkbox-2 =
+    .label = 권장 성능 설정을 사용
+    .description = 이 설정은 사용자의 하드웨어 및 운영 체제에 맞게 조정됩니다.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -861,6 +865,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = 입력을 시작할 때 텍스트 찾기
     .accesskey = x
+settings-media-group =
+    .label = 미디어
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = 화면 속 화면 사용
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = 화면 속 화면 비디오 컨트롤 사용
     .accesskey = E
@@ -871,6 +880,8 @@ browsing-picture-in-picture-learn-more = 더 알아보기
 browsing-media-control =
     .label = 키보드, 헤드셋 또는 가상 인터페이스를 통해 미디어 제어
     .accesskey = v
+recommendations-group =
+    .label = 추천
 browsing-media-control-learn-more = 더 알아보기
 browsing-cfr-recommendations =
     .label = 탐색할 때 확장 기능 추천
@@ -1265,6 +1276,7 @@ account-placeholder =
     .description = 데이터를 비공개로 유지하고, 암호화하고, 여러 기기에서 동기화하려면 로그인하세요.
 account-sync-section =
     .heading = 계정 및 동기화
+pane-account-sync-title = 계정 및 동기화
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1723,6 +1735,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = 비밀번호 및 자동 채우기 설정
+pane-passwords-autofill-title = 비밀번호 및 자동 채우기
+preferences-passwords-autofill-header =
+    .heading = 비밀번호 및 자동 채우기
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

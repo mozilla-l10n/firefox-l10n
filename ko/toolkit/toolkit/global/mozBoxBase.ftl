@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = 새 탭에서 열기
+moz-box-item-reorder-handle =
+    .aria-label = Ctrl+Shift+ArrowUp 또는 Ctrl+Shift+ArrowDown을 사용하여 항목 순서 변경
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Ctrl+Shift+ArrowUp 또는 Ctrl+Shift+ArrowDown을 사용하여 { $item } 항목 순서 변경
