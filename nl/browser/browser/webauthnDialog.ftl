@@ -68,3 +68,9 @@ webauthn-allow = Toestaan
     .accesskey = T
 webauthn-block = Blokkeren
     .accesskey = B
+webauthn-continue = Doorgaan
+    .accesskey = n
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } wil een wachtwoordsleutel maken voor { $rpId }.
