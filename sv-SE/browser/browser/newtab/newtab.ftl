@@ -908,6 +908,8 @@ newtab-sports-widget-view-schedule =
     .label = Visa schema
 newtab-sports-widget-follow-teams =
     .label = Följ lag
+newtab-sports-widget-view-matches =
+    .label = Visa träffar
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =

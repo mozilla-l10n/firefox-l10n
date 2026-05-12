@@ -1281,6 +1281,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Szinkronizált lapok
     .tooltiptext = Lapok megjelenítése más készülékekről
+toolbar-button-send-tab =
+    .label = Lap küldése
+    .tooltiptext = Jelenlegi lap küldése egy másik eszközre
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1493,6 +1496,9 @@ reset-pbm-panel-confirm-button =
     .label = Munkamenet-adatok törlése
     .accesskey = t
 reset-pbm-panel-complete = A privát munkamenet adatai törölve
+reset-pbm-toolbar-button2 =
+    .label = Privát munkamenet törlése
+    .tooltiptext = Privát munkamenet törlése
 
 ## Autorefresh blocker
 

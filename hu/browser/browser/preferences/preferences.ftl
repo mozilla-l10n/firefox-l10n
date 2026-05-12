@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Profil kiválasztása
 preferences-copy-profile-button = Másolás
+tabs-browsing-section =
+    .heading = Lapok és böngészés
+pane-tabs-browsing-title = Lapok és böngészés
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Lapok
 tabs-opening-heading =
@@ -272,10 +276,16 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Lapok előnézetének megjelenítése a Windows tálcán
     .accesskey = L
+browser-containers-enabled-2 =
+    .label = Konténerlapok használata
+    .accesskey = n
 browser-containers-enabled =
     .label = Konténerlapok engedélyezése
     .accesskey = n
 browser-containers-learn-more = További tudnivalók
+browser-containers-settings-2 =
+    .label = Beállítások kezelése
+    .accesskey = B
 browser-containers-settings =
     .label = Beállítások…
     .accesskey = B
@@ -328,6 +338,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Oldalsáv megjelenítése
     .description = Érje el gyorsan a könyvjelzőket és a lapokat a telefonjáról, használjon MI csevegőbotokat, anélkül hogy elhagyná a fő nézetet.
+page-navigation-group =
+    .label = Oldalnavigáció
 browser-layout-header = Böngésző elrendezése
 browser-layout-horizontal-tabs =
     .label = Vízszintes lapok
@@ -728,6 +740,9 @@ update-history-2 =
     .accesskey = z
 update-application-installation =
     .label = Telepítés
+update-application-auto-2 =
+    .label = Frissítések automatikus telepítése (ajánlott)
+    .accesskey = a
 update-history =
     .label = Frissítési előzmények megjelenítése…
     .accesskey = z
@@ -821,6 +836,10 @@ performance-default-content-process-count =
     .label = { $num } (alapértelmezett)
 performance-group =
     .label = Teljesítmény
+performance-use-recommended-settings-checkbox-2 =
+    .label = Javasolt teljesítménybeállítások használata
+    .description = Ezek a beállítások a hardveréhez és az operációs rendszeréhez vannak szabva.
+    .accesskey = J
 
 ## Accessibility page
 
@@ -855,6 +874,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Szöveg keresése a keresett szó beírásának elkezdésétől
     .accesskey = d
+settings-media-group =
+    .label = Média
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Kép a képben mód használata
+    .accesskey = K
 browsing-picture-in-picture-toggle-enabled =
     .label = Kép a képben videóvezérlés engedélyezése
     .accesskey = e
@@ -865,6 +889,8 @@ browsing-picture-in-picture-learn-more = További tudnivalók
 browsing-media-control =
     .label = Média vezérlése billentyűzeten, fejhallgatón vagy virtuális felületen keresztül
     .accesskey = v
+recommendations-group =
+    .label = Javaslatok
 browsing-media-control-learn-more = További tudnivalók
 browsing-cfr-recommendations =
     .label = Kiegészítők ajánlása böngészés közben
@@ -1263,6 +1289,7 @@ account-placeholder =
     .description = Jelentkezzen be, hogy biztonságban, titkosítva és az eszközei között szinkronizálva tartsa az adatait.
 account-sync-section =
     .heading = Fiók és szinkronizálás
+pane-account-sync-title = Fiók és szinkronizálás
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1748,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Jelszavak és automatikus kitöltési beállítások
+pane-passwords-autofill-title = Jelszavak és automatikus kitöltés
+preferences-passwords-autofill-header =
+    .heading = Jelszavak és automatikus kitöltés
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

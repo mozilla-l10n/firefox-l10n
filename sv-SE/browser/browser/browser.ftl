@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synkade flikar
     .tooltiptext = Visa flikar från andra enheter
+toolbar-button-send-tab =
+    .label = Skicka flik
+    .tooltiptext = Skicka aktuell flik till en annan enhet
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Ta bort sessionsdata
     .accesskey = T
 reset-pbm-panel-complete = Privat sessionsdata raderades
+reset-pbm-toolbar-button2 =
+    .label = Rensa privat session
+    .tooltiptext = Rensa privat session
 
 ## Autorefresh blocker
 

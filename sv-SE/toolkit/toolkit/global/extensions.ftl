@@ -148,6 +148,7 @@ webext-site-perms-description-gated-perms-midi =
     Dessa är vanligtvis plugin-enheter som ljudsyntar, men de kan också vara inbyggda i din dator.
     
     Webbplatser har normalt inte tillgång till MIDI-enheter. Felaktig användning kan orsaka skada eller äventyra säkerheten.
+webext-site-perms-description-gated-perms-webserial = Dessa är enheter som mikrokontroller, 3D-skrivare och andra enheter som ansluts via USB, seriella portar eller Bluetooth.  Du kommer att kunna välja vilka enheter som webbplatsen kan komma åt.  Webbplatser har normalt inte tillgång till seriella enheter. Felaktig användning kan orsaka skada eller äventyra säkerheten.
 webext-site-perms-description-gated-perms-serial =
     Det här är enheter som mikrokontroller, 3D-skrivare och andra enheter som ansluts via USB- eller serieportar.
     

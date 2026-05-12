@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Sélectionner un profil
 preferences-copy-profile-button = Copier
+tabs-browsing-section =
+    .heading = Les onglets et la navigation
+pane-tabs-browsing-title = Les onglets et la navigation
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Onglets
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Prévenir lors de l’ouverture de multiples onglets d’un ralentissement possible de { -brand-short-name }
     .accesskey = P
+switch-to-new-tabs-2 =
+    .label = Lors de l’ouverture de liens ou de médias dans un nouvel onglet, basculer vers celui-ci immédiatement
+    .accesskey = L
 switch-to-new-tabs =
     .label = À l’ouverture d’un lien, d’une image ou d’un média dans un nouvel onglet, basculer vers celui-ci immédiatement
     .accesskey = b
 show-tabs-in-taskbar =
     .label = Afficher les aperçus d’onglets dans la barre des tâches de Windows
     .accesskey = c
+browser-containers-enabled-2 =
+    .label = Utiliser les onglets contextuels
+    .accesskey = U
 browser-containers-enabled =
     .label = Activer les onglets conteneurs
     .accesskey = g
 browser-containers-learn-more = En savoir plus
+browser-containers-settings-2 =
+    .label = Gérer les paramètres
+    .accesskey = G
 browser-containers-settings =
     .label = Paramètres…
     .accesskey = s
@@ -328,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Afficher le panneau latéral
     .description = Accédez rapidement aux marque-pages, aux onglets de votre téléphone, aux chatbots IA et encore plus sans quitter l’affichage principal.
+page-navigation-group =
+    .label = Navigation dans les pages
 browser-layout-header = Disposition du navigateur
 browser-layout-horizontal-tabs =
     .label = Onglets horizontaux
@@ -728,6 +743,9 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Installation
+update-application-auto-2 =
+    .label = Installer les mises à jour automatiquement (recommandé)
+    .accesskey = I
 update-history =
     .label = Afficher l’historique des mises à jour…
     .accesskey = h
@@ -821,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (par défaut)
 performance-group =
     .label = Performances
+performance-use-recommended-settings-checkbox-2 =
+    .label = Utiliser les paramètres de performance recommandés
+    .description = Ces paramètres sont adaptés à votre matériel et à votre système d’exploitation.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -855,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Lancer la recherche lors de la saisie de texte
     .accesskey = c
+settings-media-group =
+    .label = Multimédia
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Utiliser l’incrustation vidéo
+    .accesskey = U
 browsing-picture-in-picture-toggle-enabled =
     .label = Activer les contrôles pour l’incrustation vidéo
     .accesskey = A
@@ -865,6 +892,8 @@ browsing-picture-in-picture-learn-more = En savoir plus
 browsing-media-control =
     .label = Contrôler la lecture des médias via le clavier, un casque ou l’interface virtuelle
     .accesskey = C
+recommendations-group =
+    .label = Recommandations
 browsing-media-control-learn-more = En savoir plus
 browsing-cfr-recommendations =
     .label = Recommander des extensions en cours de navigation
@@ -1263,6 +1292,7 @@ account-placeholder =
     .description = Connectez-vous pour que vos données restent privées, chiffrées et synchronisées sur tous vos appareils.
 account-sync-section =
     .heading = Compte et synchronisation
+pane-account-sync-title = Compte et synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Mots de passe et paramètres de remplissage automatique
+pane-passwords-autofill-title = Mots de passe et remplissage automatique
+preferences-passwords-autofill-header =
+    .heading = Mots de passe et remplissage automatique
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

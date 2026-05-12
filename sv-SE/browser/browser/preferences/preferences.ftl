@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Välj profil
 preferences-copy-profile-button = Kopiera
+tabs-browsing-section =
+    .heading = Flikar och surfning
+pane-tabs-browsing-title = Flikar och surfning
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Flikar
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Varna när du öppnar flera flikar kan göra { -brand-short-name } långsam
     .accesskey = n
+switch-to-new-tabs-2 =
+    .label = När du öppnar länkar eller media i en ny flik, byt till den omedelbart
+    .accesskey = N
 switch-to-new-tabs =
     .label = När du öppnar en länk, bild eller media i en ny flik, byt till den omedelbart
     .accesskey = N
 show-tabs-in-taskbar =
     .label = Förhandsgranska flikar i Windows aktivitetsfält
     .accesskey = F
+browser-containers-enabled-2 =
+    .label = Använd innehållsflikar
+    .accesskey = A
 browser-containers-enabled =
     .label = Aktivera innehållsflikar
     .accesskey = k
 browser-containers-learn-more = Läs mer
+browser-containers-settings-2 =
+    .label = Hantera inställningar
+    .accesskey = H
 browser-containers-settings =
     .label = Inställningar…
     .accesskey = s
@@ -328,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Visa sidofält
     .description = Snabb åtkomst till bokmärken, flikar från din telefon, AI-chatbotar och mer utan att lämna huvudvyn.
+page-navigation-group =
+    .label = Navigering
 browser-layout-header = Webbläsarlayout
 browser-layout-horizontal-tabs =
     .label = Horisontella flikar
@@ -728,6 +743,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Installation
+update-application-auto-2 =
+    .label = Installera uppdateringar automatiskt (rekommenderas)
+    .accesskey = I
 update-history =
     .label = Visa uppdateringshistorik…
     .accesskey = p
@@ -821,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (standard)
 performance-group =
     .label = Prestanda
+performance-use-recommended-settings-checkbox-2 =
+    .label = Använd rekommenderade prestandainställningar
+    .description = Dessa inställningar är anpassade till din hårdvara och operativsystem.
+    .accesskey = A
 
 ## Accessibility page
 
@@ -855,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Sök efter text när jag börjar skriva
     .accesskey = x
+settings-media-group =
+    .label = Media
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Använd bild-i-bild
+    .accesskey = A
 browsing-picture-in-picture-toggle-enabled =
     .label = Aktivera videokontroller för bild-i-bild
     .accesskey = A
@@ -865,6 +892,8 @@ browsing-picture-in-picture-learn-more = Läs mer
 browsing-media-control =
     .label = Styr media via tangentbord, headset eller virtuellt gränssnitt
     .accesskey = v
+recommendations-group =
+    .label = Rekommendationer
 browsing-media-control-learn-more = Läs mer
 browsing-cfr-recommendations =
     .label = Rekommendera tillägg när du surfar
@@ -1263,6 +1292,7 @@ account-placeholder =
     .description = Logga in för att hålla din data privat, krypterad och synkroniserad mellan enheter.
 account-sync-section =
     .heading = Konto och synkronisering
+pane-account-sync-title = Konto och synkronisering
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Lösenord och inställningar för autofyll
+pane-passwords-autofill-title = Lösenord och autofyll
+preferences-passwords-autofill-header =
+    .heading = Lösenord och autofyll
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

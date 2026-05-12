@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Öppnas i en ny flik
+moz-box-item-reorder-handle =
+    .aria-label = Omordna objekt med Ctrl+Shift+PilUp eller Ctrl+Shift+ArrowDown
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Omordna { $item } med Ctrl+Shift+PilUp eller Ctrl+Shift+ArrowDown

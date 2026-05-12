@@ -145,6 +145,7 @@ webext-site-perms-description-gated-perms-midi =
     Ces périphériques sont habituellement branchés à votre ordinateur, comme par exemple un synthétiseur audio, mais ils peuvent aussi être intégrés à votre ordinateur.
     
     Les sites web ne sont normalement pas autorisés à accéder aux périphériques MIDI. Une utilisation incorrecte pourrait provoquer des dommages ou compromettre la sécurité.
+webext-site-perms-description-gated-perms-webserial = Il s’agit d’appareils tels que les microcontrôleurs, les imprimantes 3D et d’autres appareils qui se connectent via USB, des ports série ou Bluetooth.  Vous pourrez choisir les appareils auxquels le site web peut accéder.  Les sites web ne sont normalement pas autorisés à accéder aux appareils série. Une utilisation incorrecte pourrait endommager ou compromettre la sécurité.
 webext-site-perms-description-gated-perms-serial =
     Il s’agit de périphériques tels que des microcontrôleurs, des imprimantes 3D et d’autres périphériques qui se connectent via un port USB ou série.
     

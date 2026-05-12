@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synkroniserte faner
     .tooltiptext = Vis faner fra andre enheter
+toolbar-button-send-tab =
+    .label = Send fane
+    .tooltiptext = Send gjeldende fane til en annen enhet
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Slett øktdata
     .accesskey = S
 reset-pbm-panel-complete = Private øktdata slettet
+reset-pbm-toolbar-button2 =
+    .label = Tøm privat økt
+    .tooltiptext = Tøm privat økt
 
 ## Autorefresh blocker
 

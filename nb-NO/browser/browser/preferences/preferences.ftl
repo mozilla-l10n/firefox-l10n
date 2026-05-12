@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Velg profil
 preferences-copy-profile-button = Kopier
+tabs-browsing-section =
+    .heading = Faner og nettlesing
+pane-tabs-browsing-title = Faner og nettlesing
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Faner
 tabs-opening-heading =

@@ -587,6 +587,7 @@ mlmodel-link-preview = { -brand-short-name } använder detta för att generera n
 mlmodel-pdfjs = { -brand-short-name } använder detta för att skapa alternativ text för bilder du lägger till i PDF-filer
 mlmodel-smart-tab-topic-engine = { -brand-short-name } använder detta för att föreslå namn för dina flikgrupper
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } använder detta för att föreslå flikar för dina flikgrupper
+mlmodel-formfill-engine = { -brand-short-name } använder detta för att fylla i adressformulär
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på enheten
 addon-category-mlmodel-title =

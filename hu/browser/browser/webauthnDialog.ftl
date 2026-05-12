@@ -68,3 +68,13 @@ webauthn-allow = Engedélyezés
     .accesskey = E
 webauthn-block = Tiltás
     .accesskey = T
+webauthn-continue = Folytatás
+    .accesskey = F
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = A(z) { $origin } jelkódot akar létrehozni a következőhöz: { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = A(z) { $origin } jelkódot akar használni a következőhöz: { $rpId }.

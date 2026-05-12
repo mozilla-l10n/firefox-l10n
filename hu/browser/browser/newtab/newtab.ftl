@@ -909,6 +909,8 @@ newtab-sports-widget-view-schedule =
     .label = Ütemezés megtekintése
 newtab-sports-widget-follow-teams =
     .label = Csapatok követése
+newtab-sports-widget-view-matches =
+    .label = Mérkőzések megtekintése
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
