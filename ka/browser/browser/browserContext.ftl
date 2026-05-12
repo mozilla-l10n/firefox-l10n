@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = გაგზავნა მობილურზე
     .accesskey = ზ
+main-context-menu-send-to-mobile-enable-sync2 = ჩართეთ დასინქ. ჩანართის გასაგზავნად
+main-context-menu-send-to-mobile-connect-phone2 = დააკავშირეთ თქვენი ტელეფონი
+main-context-menu-send-to-mobile-device-missing2 = არ ჩანს თქვენი მოწყობილობა?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = ჩართეთ დასინქ. ჩანართის გასაგზავნად
