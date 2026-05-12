@@ -927,6 +927,8 @@ newtab-sports-widget-search-country =
     .placeholder = Cerca nazione
     .aria-label = Cerca nazione
 newtab-sports-widget-cancel = Annulla
+newtab-sports-widget-back-button =
+    .aria-label = Indietro
 newtab-sports-widget-done-button =
     .label = Fatto
 newtab-sports-widget-group-stage = Fase a gironi
@@ -941,6 +943,8 @@ newtab-custom-widget-live-refresh =
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Date importanti
 newtab-sports-widget-upcoming = In arrivo
+# Used for a match currently ongoing
+newtab-sports-widget-now = In corso
 newtab-sports-widget-results = Risultati
 newtab-sports-widget-semi-finals = Semifinali
 newtab-sports-widget-bronze-finals = Finale per il terzo posto
