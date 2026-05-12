@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = 发送到移动设备
     .accesskey = n
+main-context-menu-send-to-mobile-enable-sync2 = 启用同步以发送标签页
+main-context-menu-send-to-mobile-connect-phone2 = 连接您的手机
+main-context-menu-send-to-mobile-device-missing2 = 看不到您的设备？
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = 启用同步以发送标签页
