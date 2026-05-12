@@ -295,7 +295,7 @@ mr2022-onboarding-set-default-subtitle = Používejte prohlížeč podporovaný 
 
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-get-started-primary-subtitle = Naše nejnovější verze je postavená podle vás, díky čemuž je procházení webu snazší než kdykoli předtím. Je nabitá funkcemi, které si podle nás zamilujete.
+mr2022-onboarding-get-started-primary-subtitle = Naše nejnovější verze je postavená podle vás, díky čemuž je procházení webu snazší než kdykoliv předtím. Je nabitá funkcemi, které si podle nás zamilujete.
 mr2022-onboarding-get-started-primary-button-label = Nastavení během okamžiku
 
 ## MR2022 Get Started screen strings.
@@ -598,7 +598,7 @@ onboarding-horizontal-tabs-description =
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = Vyzkoušejte AI chatbota v postranní liště
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
-onboarding-genai-sidebar-subtitle = Shrnujte webový obsah, využívejte nové nápady, koncepty zpráv – to vše během prohlížení. Vyberte si z více poskytovatelů. Přepnout můžete kdykoli. <a data-l10n-name="learn-more">Zjistit více</a>
+onboarding-genai-sidebar-subtitle = Shrnujte webový obsah, využívejte nové nápady, koncepty zpráv – to vše během prohlížení. Vyberte si z více poskytovatelů. Přepnout můžete kdykoliv. <a data-l10n-name="learn-more">Zjistit více</a>
 onboarding-genai-sidebar-primary-button = Vyberte si chatbota
 onboarding-genai-sidebar-secondary-button = Začít prohlížet
 
@@ -630,15 +630,15 @@ tab-groups-onboarding-feature-callout-title = Vyzkoušejte skupiny panelů, abys
 tab-groups-onboarding-feature-callout-subtitle = Utřiďte si panely přesunutím jednoho na druhý, čímž vytvoříte svoji první skupinu.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Skupiny panelů najdete vždy v nabídce Seznam všech panelů.
-tab-groups-onboarding-create-group-title-2 = Kdykoli zde najdete své skupiny panelů.
+tab-groups-onboarding-create-group-title-2 = Kdykoliv zde najdete své skupiny panelů.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Skupiny najdete vyhledáním v adresním řádku.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-saved-groups-title-3 = Když skupinu panelů zavřete, můžete ji kdykoli znovu otevřít z nabídky Seznam všech panelů.
-tab-groups-onboarding-saved-groups-title-2 = Když skupinu panelů zavřete, můžete ji zde kdykoli znovu otevřít.
+tab-groups-onboarding-saved-groups-title-3 = Když skupinu panelů zavřete, můžete ji kdykoliv znovu otevřít z nabídky Seznam všech panelů.
+tab-groups-onboarding-saved-groups-title-2 = Když skupinu panelů zavřete, můžete ji zde kdykoliv znovu otevřít.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Uzavřené skupiny najdete vyhledáním v adresním řádku.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Skupiny panelů můžete kdykoli znovu otevřít z nabídky Seznam všech panelů.
-tab-groups-onboarding-session-restore-title = Zde můžete kdykoli znovu otevřít skupiny panelů.
+tab-groups-onboarding-session-restore-title = Zde můžete kdykoliv znovu otevřít skupiny panelů.
 tab-groups-onboarding-dismiss = OK
 
 ## Multi Profiles feature onboarding messages

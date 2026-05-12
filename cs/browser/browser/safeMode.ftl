@@ -24,8 +24,8 @@ troubleshoot-mode-description =
     }
 skip-troubleshoot-refresh-profile =
     { -brand-short-name.case-status ->
-        [with-cases] Také můžete od hledání příčin problémů upustit a provést obnovu { -brand-short-name(case: "gen") }  do výchozího nastavení.
-       *[no-cases] Také můžete od hledání příčin problémů upustit a provést obnovu aplikace { -brand-short-name }  do výchozího nastavení.
+        [with-cases] Také můžete od hledání příčin problémů upustit a provést obnovu { -brand-short-name(case: "gen") } do výchozího nastavení.
+       *[no-cases] Také můžete od hledání příčin problémů upustit a provést obnovu aplikace { -brand-short-name } do výchozího nastavení.
     }
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description =

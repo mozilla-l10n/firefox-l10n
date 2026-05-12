@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AI Chatbot
+    .label = AI chatbot
 menu-view-contextual-password-manager =
     .label = Hesla
 sidebar-options-menu-button =

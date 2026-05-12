@@ -133,7 +133,7 @@ cfr-doorhanger-milestone-close-button = Zavřít
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Na vašem soukromí záleží. V zájmu vaší ochrany nyní { -brand-short-name }, kdykoli je to možné, bezpečně směruje vaše DNS požadavky na partnerskou službu.
+cfr-doorhanger-doh-body = Na vašem soukromí záleží. V zájmu vaší ochrany nyní { -brand-short-name }, kdykoliv je to možné, bezpečně směruje vaše DNS požadavky na partnerskou službu.
 cfr-doorhanger-doh-header = Bezpečnější, šifrované vyhledávání v DNS
 cfr-doorhanger-doh-primary-button-2 = OK
     .accesskey = O
@@ -518,7 +518,7 @@ multi-cta-fox-doodle-start-browsing-primary-button-label = Začít prohlížet
 multi-cta-fox-doodle-main-browser-primary-button-label =
     { -brand-short-name.case-status ->
         [with-cases] Nastavit { -brand-short-name(case: "acc") } jako můj hlavní prohlížeč
-       *[no-cases] Nastavit aplikaci { -brand-short-name }  jako můj hlavní prohlížeč
+       *[no-cases] Nastavit aplikaci { -brand-short-name } jako můj hlavní prohlížeč
     }
 multi-cta-fox-doodle-quick-reminder-subtitle = Připomínáme vám, že svůj oblíbený prohlížeč zaměřený na ochranu soukromí můžete mít jen na jedno klepnutí.
 multi-cta-fox-doodle-privacy-focused-subtitle =
@@ -551,8 +551,8 @@ windows-10-eos-sync-spotlight-primary-label =
 windows-10-eos-sync-toast-title = Chcete aktualizovat na Windows 11? Neztraťte své záložky a hesla.
 windows-10-eos-sync-toast-subtitle =
     { -brand-short-name.case-status ->
-        [with-cases] Zálohujte svá data, aby byl { -brand-short-name } kdykoli připraven k použití na tomto nebo tom příštím počítači.
-       *[no-cases] Zálohujte svá data, aby byla aplikace { -brand-short-name } kdykoli připravena k použití na tomto nebo tom příštím počítači.
+        [with-cases] Zálohujte svá data, aby byl { -brand-short-name } kdykoliv připraven k použití na tomto nebo tom příštím počítači.
+       *[no-cases] Zálohujte svá data, aby byla aplikace { -brand-short-name } kdykoliv připravena k použití na tomto nebo tom příštím počítači.
     }
 windows-10-eos-sync-toast-primary-label = Začít
 windows-10-eos-sync-toast-secondary-label = Upozornit mě později

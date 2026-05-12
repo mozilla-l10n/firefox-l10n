@@ -66,4 +66,4 @@ accessibility-keyboard-issue-tabindex = Vyhněte se používaní atributu <code>
 accessibility-keyboard-issue-action = Interaktivní prvky musí být možno aktivovat klávesnicí. <a>Zjistit více</a>
 accessibility-keyboard-issue-focusable = Interaktivní prvky musí být přístupné klávesnicí. <a>Zjistit více</a>
 accessibility-keyboard-issue-focus-visible = Pro prvek dosažitelný klávesnicí není pravděpodobně nastaven styl pro případ jeho aktivace. <a>Zjistit více</a>
-accessibility-keyboard-issue-mouse-only = Prvky, na které lze kliknout, musí být dosažitelné pomocí klávesnice, a měly by mít interaktivní sémantiku. <a>Zjistit více</a>
+accessibility-keyboard-issue-mouse-only = Prvky, na které lze klepnout, musí být dosažitelné pomocí klávesnice, a měly by mít interaktivní sémantiku. <a>Zjistit více</a>
