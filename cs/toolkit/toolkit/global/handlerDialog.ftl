@@ -26,7 +26,7 @@ wallet-custom-scheme-warning-heading =
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host-app = Otevření odkazu typu <strong>{ $scheme }</strong> umožníte serveru <strong>{ $host }</strong> požadovat vaši skutečnou identitu pomocí <strong>{ $appName }</strong>. Pokračujte jen pokud důvěřujete této stránce.
 # Warning given to the user that the current page is trying to open their digital wallet app
-wallet-custom-scheme-warning-app = Otevřením odkazu <strong>{ $scheme }</strong> si tento web vyžádá vaši skutečnou identitu pomocí aplikace<strong>{ $appName }</strong>. Pokračujte pouze v případě, že této stránce důvěřujete.
+wallet-custom-scheme-warning-app = Otevřením odkazu <strong>{ $scheme }</strong> si tento web vyžádá vaši skutečnou identitu pomocí aplikace <strong>{ $appName }</strong>. Pokračujte pouze v případě, že této stránce důvěřujete.
 # Warning given to the user that the current page is trying to open their digital wallet app
 wallet-custom-scheme-warning-host = Otevření odkazu <strong>{ $scheme }</strong> umožní <strong>{ $host }</strong> vyžádat si vaši skutečnou identitu z digitální peněženky. Pokračujte pouze v případě, že tomuto webu důvěřujete.
 # Warning given to the user that the current page is trying to open their digital wallet app

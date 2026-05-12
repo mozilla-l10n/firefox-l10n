@@ -48,3 +48,10 @@ requested-crash-reports-message =
 requested-crash-reports-dont-show-again =
     .label = Ne montri denove
     .accesskey = N
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] Vi havas nesenditan ĵusan raporton pri paneo
+       *[other] Vi havas { $reportCount } nesenditajn ĵusajn raportojn pri paneo
+    }

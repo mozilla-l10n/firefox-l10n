@@ -68,3 +68,13 @@ webauthn-allow = Permesi
     .accesskey = P
 webauthn-block = Bloki
     .accesskey = B
+webauthn-continue = Daŭrigi
+    .accesskey = D
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } volas krei pasŝlosilon for { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } volas uzi pasŝlosilon for { $rpId }.

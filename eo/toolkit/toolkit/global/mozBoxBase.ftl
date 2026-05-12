@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Malfermi en nova langeto
+moz-box-item-reorder-handle =
+    .aria-label = Reordigi elementon per Stir+Maj+SagetoSupren aŭ Stir+Maj+SagetoMalsupren
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Reordigi { $item } per Stir+Maj+SagetoSupren aŭ Stir+Maj+SagetoMalsupren

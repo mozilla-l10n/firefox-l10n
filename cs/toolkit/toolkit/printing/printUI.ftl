@@ -122,10 +122,10 @@ printui-paper-tabloid = Tabloid
 
 ## Error messages shown when a user has an invalid input
 
-printui-error-invalid-scale = Měřítko musí být v rozmezí 10 a 200.
+printui-error-invalid-scale = Měřítko musí být v rozmezí 10 až 200.
 printui-error-invalid-margin = Zadejte platný okraj pro vybranou velikost papíru.
 printui-error-invalid-copies = Počet kopií musí být v rozmezí 1 až 10 000.
 # Variables
 # $numPages (integer) - Number of pages
-printui-error-invalid-range = Rozsah stránek musí být v rozmezí 1 a { $numPages }.
+printui-error-invalid-range = Rozsah stránek musí být v rozmezí 1 až { $numPages }.
 printui-error-invalid-start-overflow = Číslo stránky „od“ musí být menší než číslo stránky „do“.
