@@ -119,6 +119,8 @@ session-history-entry-info-button-title =
     .title = Wyświetl dane historii sesji
 # Header for the Session History page when session history diagrams are unavailable
 session-history-unavailable = Diagram historii sesji jest niedostępny
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Cel nie obsługuje wyświetlania diagramów historii sesji
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikona ostrzeżenia

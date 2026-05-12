@@ -70,3 +70,13 @@ webauthn-allow = Zezwól
     .accesskey = Z
 webauthn-block = Zablokuj
     .accesskey = b
+webauthn-continue = Kontynuuj
+    .accesskey = K
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } prosi o utworzenie klucza dostępu dla witryny { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } prosi o użycie klucza dostępu dla witryny { $rpId }.
