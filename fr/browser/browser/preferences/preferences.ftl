@@ -1100,7 +1100,7 @@ home-prefs-timer-header =
     .label = Minuteur
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
-    .label = Sports
+    .label = Sport
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Horloge
@@ -2569,9 +2569,9 @@ preferences-appearance-header =
     .heading = Apparence
 browser-theme-group =
     .label = Thème du navigateur
-    .description = Personnalisez { -brand-short-name } votre façon. Les couleurs des thèmes s’appliquent aux barres d’outils, aux menus et aux messages.
+    .description = Personnalisez { -brand-short-name } à votre façon. Les couleurs des thèmes s’appliquent aux barres d’outils, aux menus et aux messages.
 browser-theme-manage-link =
-    .label = Gérer les thèmes pour les { -brand-short-name }
+    .label = Gérer les thèmes de { -brand-short-name }
 related-settings-group =
     .label = Paramètres associés
 related-settings-accessibility-link =

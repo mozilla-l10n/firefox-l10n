@@ -282,7 +282,7 @@ vpn-paused-alert-body = Vous avez consommé la totalité de vos { $maxUsage } G
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-error-page-paused-description = Vous avez consommé la totalité de vos { $maxUsage } Go de données VPN. L’accès sera rétabli le mois prochain.
 vpn-error-page-continue-description = Choisissez comment continuer sans VPN
-vpn-error-page-keep-browsing = Poursuivre la navigation pendant cette session
+vpn-error-page-keep-browsing = Continuer à naviguer dans cette session
 vpn-error-page-new-session = Démarrer une nouvelle session
 vpn-paused-alert-close-tabs-button = Fermer tous les onglets
 vpn-paused-alert-continue-wo-vpn-button = Continuer sans le VPN
