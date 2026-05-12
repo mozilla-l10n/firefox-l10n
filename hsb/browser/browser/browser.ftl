@@ -1509,6 +1509,9 @@ reset-pbm-panel-confirm-button =
     .label = Posedźenske daty zhašeć
     .accesskey = d
 reset-pbm-panel-complete = Priwatne posedźenske daty su so zhašeli
+reset-pbm-toolbar-button2 =
+    .label = Priwatne posedźenje zhašeć
+    .tooltiptext = Priwatne posedźenje zhašeć
 
 ## Autorefresh blocker
 
