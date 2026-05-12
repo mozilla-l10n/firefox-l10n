@@ -109,6 +109,11 @@ ip-protection-description =
     .label = VPN
     .description = Vgrajen VPN za večjo zasebnost pri brskanju s { -brand-short-name(sklon: "orodnik") }
 ip-protection-learn-more = Več o tem
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Preizkusite { -brand-short-name }ov vgrajeni VPN
+    .message = Dodatno se zaščitite med brskanjem in prikrijte svojo lokacijo. { $maxUsage } GB brezplačnih podatkov VPN vsak mesec.
 ip-protection-not-opted-in-button = Začni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

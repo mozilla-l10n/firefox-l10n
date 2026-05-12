@@ -6,12 +6,17 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Več od { -vendor-short-name(sklon: "rodilnik") }
+more-from-moz-page-header =
+    .heading = Več od { -vendor-short-name(sklon: "rodilnik") }
 more-from-moz-category =
     .tooltiptext = Več od { -vendor-short-name(sklon: "rodilnik") }
 more-from-moz-subtitle = Spoznajte ostale izdelke { -vendor-short-name(sklon: "rodilnik") }, ki podpirajo zdrav internet.
 more-from-moz-firefox-mobile-title = { -brand-product-name } za mobilne naprave
 more-from-moz-firefox-mobile-description = Mobilni brskalnik, ki postavlja vašo zasebnost na prvo mesto.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } za mobilne naprave
+more-from-moz-firefox-mobile =
+    .label = { -brand-product-name } za mobilne naprave
+    .description = Mobilni brskalnik, ki postavlja zasebnost na prvo mesto.
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Zaščitite se z dodatnim slojem anonimnosti pri brskanju.
 more-from-moz-qr-code-box-firefox-mobile-title = Prenesite ga z mobilno napravo. Usmerite kamero v kodo QR. Ko se prikaže povezava, se je dotaknite.
@@ -46,3 +51,14 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } – ustvarjalnik spletnih s
 more-from-moz-mdn-description = Naučite se spletnega razvoja z brezplačnimi obsežnimi vodniki in napotki.
 more-from-moz-mdn-button = Naučite se spletnega razvoja
 more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+more-from-moz-thunderbird-description = Brezplačna e-pošta, koledar in imenik – organizirani po vaše.
+
+## These strings are for the Mozilla New Products card in about:preferences moreFromMozilla page
+
+more-from-moz-new-products-title = Novi izdelki { -vendor-short-name(sklon: "rodilnik") }
+more-from-moz-new-products-description = Odkrijte najnovejše izdelke { -vendor-short-name(sklon: "rodilnik") }.
+more-from-moz-new-products-button = Oglejte si nove izdelke

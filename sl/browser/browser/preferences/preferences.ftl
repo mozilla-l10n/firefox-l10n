@@ -68,8 +68,15 @@ category-sync3 =
 pane-ai-controls-title = Nadzor UI
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-about-firefox-title = O { -brand-short-name(sklon: "mestnik") }
+    .title = { pane-about-firefox-title }
 pane-accessibility-title = Dostopnost
     .title = { pane-accessibility-title }
+pane-languages-title = Jeziki
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name }ovi poskusi
 category-experimental =
     .tooltiptext = { -brand-short-name }ovi poskusi
@@ -77,6 +84,8 @@ pane-experimental-subtitle = Nadaljujte previdno
 pane-experimental-search-results-header = { -brand-short-name }ovi poskusi: nadaljujte previdno
 pane-experimental-description2 = Spreminjanje naprednih nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name(sklon: "rodilnik") }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Spoznajte naše poskusne možnosti! So v fazi razvoja in se še izboljšujejo, kar lahko vpliva na delovanje { -brand-short-name(sklon: "rodilnik") }. Podatke o vaši uporabi teh možnosti prejemamo samo, če imate vklopljeno pošiljanje <a data-l10n-name="data-collection">tehničnih in interakcijskih podatkov</a>.
@@ -466,6 +475,14 @@ manage-browser-languages-button =
     .accesskey = m
 confirm-browser-language-change-description = Ponovno zaženite { -brand-short-name } za uveljavitev sprememb
 confirm-browser-language-change-button = Uveljavi in ponovno zaženi
+browser-language-heading =
+    .label = Jezik brskalnika
+    .description = Izberite jezik, v katerem naj bodo prikazani meniji, sporočila in obvestila { -brand-short-name(sklon: "rodilnik") }.
+browser-language-preferred-label =
+    .label = Želeni jezik
+browser-language-fallback-label =
+    .label = Nadomestni jezik
+    .description = Uporabi, ko je prevod v želeni jezik nepopoln.
 browser-language-install-error =
     .message = { -brand-short-name } trenutno ne more posodobiti jezikov. Preverite, ali ste povezani z internetom, in poskusite znova.
 translate-web-pages =
@@ -689,6 +706,8 @@ update-application-version = Različica { $version } <a data-l10n-name="learn-mo
 update-history-2 =
     .label = Prikaži zgodovino posodobitev
     .accesskey = z
+update-application-installation =
+    .label = Namestitev
 update-history =
     .label = Prikaži zgodovino posodobitev …
     .accesskey = z
@@ -696,6 +715,9 @@ update-application-allow-description = { -brand-short-name } naj
 update-application-auto =
     .label = samodejno namešča posodobitve (priporočeno)
     .accesskey = S
+update-application-check-choose-2 =
+    .label = Preverjaj posodobitve, vendar mi prepusti odločitev, kdaj jih namestiti
+    .accesskey = P
 update-application-check-choose =
     .label = preverja posodobitve, vendar vam prepusti odločitev o nameščanju
     .accesskey = o
@@ -707,6 +729,9 @@ update-application-background-enabled =
     .accesskey = n
 update-application-warning-cross-user-setting-2 =
     .message = Ta nastavitev bo uveljavljena v vseh uporabniških računih sistema Windows in profilih { -brand-short-name(sklon: "rodilnik") }, ki uporabljajo to različico.
+update-application-suppress-prompts-2 =
+    .label = Prikazuj manj opomnikov o posodobitvah
+    .accesskey = n
 update-application-warning-cross-user-setting = Ta nastavitev bo uveljavljena v vseh uporabniških računih sistema Windows in profilih { -brand-short-name(sklon: "rodilnik") }, ki uporabljajo to različico.
 update-application-use-service =
     .label = Uporabi storitev za nameščanje posodobitev v ozadju
@@ -729,6 +754,21 @@ update-in-progress-ok-button = &Opusti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
+
+## About Firefox
+
+about-firefox-header =
+    .heading = O { -brand-short-name(sklon: "mestnik") }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Posodobitve za { -brand-short-name(sklon: "tozilnik") }
+    .description = Posodobitve izboljšujejo hitrost, zanesljivost in varnost { -brand-short-name(sklon: "rodilnik") }.
+update-application-suppress-prompts-heading =
+    .label = Obvestila
+update-application-updates-managed-by-os =
+    .message = Za posodobitve skrbi operacijski sistem
 
 ## Firefox support
 
@@ -1009,6 +1049,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Časovnik
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Šport
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Podprite { -brand-product-name(sklon: "tozilnik") }

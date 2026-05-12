@@ -419,6 +419,12 @@ quickactions-cmd-inspector = pregledovalnik, razvojna orodja
 # Opens about:logins
 quickactions-logins2 = Upravljaj gesla
 quickactions-cmd-logins = prijave, gesla
+# Mutes all tabs playing audio
+quickactions-mute = Utišaj zavihke, ki predvajajo zvok
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = nemo, tiho, mute, pst, ššš
 # Opens about:addons page in the plugins section
 quickactions-plugins = Upravljanje vtičnikov
 quickactions-cmd-plugins = vtičniki
@@ -545,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Niste varno povezani na to stran.
 identity-connection-verified = Varno ste povezani na to stran.
 identity-ev-owner-label = Potrdilo izdano:
+identity-verifier-label = Preveril:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalificiran v skladu z Uredbo (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla ne prepozna tega izdajatelja digitalnih potrdil. Morda ga je dodal vaš operacijski sistem ali skrbnik.
+identity-cert-exception-overridden = Za to spletno mesto ste dodali varnostno izjemo.
 identity-remove-cert-exception =
     .label = Odstrani izjemo
     .accesskey = d
@@ -1799,3 +1807,5 @@ trustpanel-blocker-section-header2 =
 reduced-protection-infobar-message = <strong>Se stran zdi pokvarjena?</strong> Znova naložite stran, da začasno zmanjšate raven zaščite pred sledenjem.
 reduced-protection-infobar-reload-button = Ponovno naloži
     .accesskey = P
+reduced-protection-infobar-never-show-button = Ne prikazuj več
+    .accesskey = N

@@ -84,6 +84,11 @@ smartblock-placeholder-title = Zavrnjeni sledilci in vsebina { $trackername }
 smartblock-placeholder-desc = Nastavitve { -brand-short-name(sklon: "rodilnik") } so preprečile tej vsebini, da bi vam sledila med spletnimi mesti ali se uporabljala za oglase.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Dovoli na { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Vsebina iz blokirane vdelave
 
 ##
 

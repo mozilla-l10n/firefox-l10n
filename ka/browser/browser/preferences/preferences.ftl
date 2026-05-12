@@ -2570,8 +2570,12 @@ preferences-appearance-header =
 browser-theme-group =
     .label = Browser theme
     .description = მოირგეთ { -brand-short-name } თქვენებურად. გაფორმება შეცვლის ხელსაწყოთა ზოლის, მენიუსა და შეტყობინებების შეფერილობას.
+browser-theme-manage-link =
+    .label = მართეთ { -brand-short-name } გაფორმებებით
 related-settings-group =
     .label = დაკავშირებული პარამეტრები
+related-settings-accessibility-link =
+    .label = მოახლოებისა და შრიფტის მორგება დამხმარე საშუალებებით
 related-settings-home-link =
     .label = მოირგეთ { -firefox-home-brand-name }
 

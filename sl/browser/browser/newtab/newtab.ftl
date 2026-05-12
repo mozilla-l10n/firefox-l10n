@@ -370,6 +370,8 @@ newtab-custom-widget-lists-toggle =
     .label = Seznami
 newtab-custom-widget-timer-toggle =
     .label = Časovnik
+newtab-custom-widget-sports-toggle =
+    .label = Svetovno prvenstvo
 newtab-custom-widget-section-title = Pripomočki
 newtab-custom-widget-section-toggle =
     .label = Pripomočki
@@ -714,6 +716,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Opravljeno ({ $number })
+newtab-widget-lists-celebration-headline = Dobro opravljeno
+newtab-widget-lists-celebration-subhead = Ni opravkov
 newtab-widget-task-list-menu-copy = Kopiraj
 newtab-widget-lists-menu-edit = Uredi ime seznama
 newtab-widget-lists-menu-edit2 =
@@ -734,6 +738,8 @@ newtab-widget-lists-input-menu-move-up = Premakni gor
 newtab-widget-lists-input-menu-move-down = Premakni dol
 newtab-widget-lists-input-menu-delete = Izbriši
 newtab-widget-lists-input-menu-edit = Uredi
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Uredi predmet
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Ustvari nov seznam
@@ -764,6 +770,10 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Pomanjšaj pripomočke
     .aria-label = Skrči vse pripomočke
+newtab-widget-section-menu-button =
+    .title = Meni Pripomočki
+    .aria-label = Odpri meni pripomočkov
+newtab-widget-section-menu-hide-all = Skrij pripomočke
 newtab-widget-section-menu-learn-more = Več o tem
 newtab-widget-section-feedback = Povejte nam svoje mnenje
 
@@ -800,6 +810,51 @@ newtab-promo-card-cta = Več o tem
 newtab-promo-card-dismiss-button =
     .title = Opusti
     .aria-label = Opusti
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Začni odštevati { $minutes } minuto
+            [two] Začni odštevati { $minutes } minuti
+            [few] Začni odštevati { $minutes } minute
+           *[other] Začni odštevati { $minutes } minut
+        }
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuta
+            [two] { $minutes } minuti
+            [few] { $minutes } minute
+           *[other] { $minutes } minut
+        }
+newtab-widget-timer-decrease-min =
+    .title = Odštej 1 minuto
+newtab-widget-timer-increase-min =
+    .title = Dodaj 1 minuto
+
+## Sports widget
+
+newtab-sports-widget-menu-view-results = Prikaži izide
+newtab-sports-widget-menu-learn-more = Več o tem
+newtab-sports-widget-get-updates = V živo prejemajte obvestila o dogajanju na tekmah in še več.
+newtab-sports-widget-view-schedule =
+    .label = Prikaži razpored
+newtab-sports-widget-choose-wallpaper =
+    .label = Izberite si ozadje
+newtab-sports-widget-cancelled = Odpovedano
+newtab-sports-widget-information = Podatki o tekmi
+newtab-sports-widget-view-results-link = Prikaži izide
+newtab-sports-widget-third-place = Tretje mesto
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Podprvaki
+newtab-sports-widget-champions = Prvaki
+newtab-sports-widget-world-cup-champions = Zmagovalci svetovnega prvenstva 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
