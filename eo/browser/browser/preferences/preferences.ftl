@@ -2229,6 +2229,9 @@ permissions-notification2 =
 permissions-header3 =
     .label = Permesoj
     .description = Administri kion retejoj povas aliri, regi aŭ funkciigi.
+permissions-data-section =
+    .heading = Permesoj kaj datumoj
+pane-permissions-data-title = Permesoj kaj datumoj
 
 ## Privacy Section - Data Collection
 
@@ -2282,6 +2285,12 @@ collection-backlogged-crash-reports2 =
     .label = Aŭtomate sendi raportojn pri paneoj
     .accesskey = p
 collection-backlogged-crash-reports-description = Tio ĉi helpas { -vendor-short-name } diagnozi kaj solvi problemojn en la retumilo. Raportoj povus inkluzivi personajn aŭ delikatajn datumojn.
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = Samaj agordoj, nova aspekto!
+    .message = Ni reorganizis tiun ĉi paĝon tiel ke estas pli facile skani kaj esplori. Viaj personecigitaj agordoj ne ŝanĝiĝis kaj ĉio plu estas ĉi tie. Konsileto: uzi la serĉon por iri rekte al la ejo, kien vi bezonas iri.
+settings-redesign-promo-dismiss-button =
+    .label = Mi komprenis
 addon-recommendations =
     .label = Permesi al { -brand-short-name } fari personecigitajn proponojn pri etendaĵoj
 addon-recommendations-link = Pli da informo
@@ -2538,11 +2547,37 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS per HTTPS
 
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = Konektoj kaj sekureco pri programoj
+preferences-connection-link-section =
+    .label = Konektoj kaj sekureco pri programoj
+    .description = Vidu kiel konektoj restas sekuraj, danĝeraj programoj estas blokitaj kaj retejoj estas kontrolitaj.
+preferences-connection-link-button =
+    .label = Spertulaj agordoj
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Labortablo
 downloads-folder-name = Elŝutoj
 choose-download-folder-title = Elekti dosierujon por elŝutoj:
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Aspekto
+browser-theme-group =
+    .label = Retumila etoso
+    .description = Personecigu { -brand-short-name } laŭ via volo. La koloroj de etosoj aplikeblas al ilaroj, menuoj kaj mesaĝoj.
+browser-theme-manage-link =
+    .label = Administri etosojn de { -brand-short-name }
+related-settings-group =
+    .label = Rilatitaj agordoj
+related-settings-accessibility-link =
+    .label = Personecigi pligrandigon kaj tiparajn agordojn en Alirebleco
+related-settings-home-link =
+    .label = Personecigi { -firefox-home-brand-name }
 
 ## AI controls page
 

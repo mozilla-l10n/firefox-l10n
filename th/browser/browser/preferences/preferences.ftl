@@ -843,6 +843,8 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = ค้นหาข้อความเมื่อคุณเริ่มพิมพ์
     .accesskey = ว
+settings-media-group =
+    .label = สื่อ
 browsing-picture-in-picture-toggle-enabled =
     .label = เปิดใช้งานการควบคุมวิดีโอแบบภาพซ้อนภาพ
     .accesskey = ป
@@ -853,6 +855,8 @@ browsing-picture-in-picture-learn-more = เรียนรู้เพิ่ม
 browsing-media-control =
     .label = ควบคุมสื่อผ่านแป้นพิมพ์ ชุดหูฟัง หรือส่วนติดต่อเสมือน
     .accesskey = า
+recommendations-group =
+    .label = คำแนะนำ
 browsing-media-control-learn-more = เรียนรู้เพิ่มเติม
 browsing-cfr-recommendations =
     .label = แนะนำส่วนขยายขณะที่คุณเรียกดู
@@ -1247,6 +1251,7 @@ account-placeholder =
     .description = ลงชื่อเข้าเพื่อให้ข้อมูลของคุณเป็นส่วนตัว เข้ารหัสลับ และซิงค์ผ่านอุปกรณ์ต่าง ๆ อยู่เสมอ
 account-sync-section =
     .heading = บัญชีและการซิงค์
+pane-account-sync-title = บัญชีและการซิงค์
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1705,6 +1710,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = รหัสผ่านและการตั้งค่าการกรอกข้อมูลอัตโนมัติ
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
