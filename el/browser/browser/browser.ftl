@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Συγχρονισμένες καρτέλες
     .tooltiptext = Εμφάνιση καρτελών από άλλες συσκευές
+toolbar-button-send-tab =
+    .label = Αποστολή καρτέλας
+    .tooltiptext = Αποστολή τρέχουσας καρτέλας σε άλλη συσκευή
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Διαγραφή δεδομένων συνεδρίας
     .accesskey = Δ
 reset-pbm-panel-complete = Τα δεδομένα της ιδιωτικής συνεδρίας διαγράφηκαν
+reset-pbm-toolbar-button2 =
+    .label = Απαλοιφή ιδιωτικής συνεδρίας
+    .tooltiptext = Απαλοιφή ιδιωτικής συνεδρίας
 
 ## Autorefresh blocker
 

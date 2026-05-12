@@ -598,6 +598,7 @@ mlmodel-link-preview = Χρησιμοποιείται από το { -brand-short
 mlmodel-pdfjs = Χρησιμοποιείται από το { -brand-short-name } για τη δημιουργία εναλλακτικού κειμένου για τις εικόνες που προσθέτετε σε αρχεία PDF
 mlmodel-smart-tab-topic-engine = Χρησιμοποιείται από το { -brand-short-name } για την πρόταση ονομάτων για τις ομάδες καρτελών σας
 mlmodel-smart-tab-embedding-engine = Χρησιμοποιείται από το { -brand-short-name } για την πρόταση καρτελών για τις ομάδες καρτελών σας
+mlmodel-formfill-engine = Χρησιμοποιείται από το { -brand-short-name } για τη συμπλήρωση φορμών διευθύνσεων
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Τοπική ΤΝ
 addon-category-mlmodel-title =

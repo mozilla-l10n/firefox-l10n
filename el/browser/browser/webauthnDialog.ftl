@@ -68,3 +68,13 @@ webauthn-allow = Αποδοχή
     .accesskey = Α
 webauthn-block = Φραγή
     .accesskey = Φ
+webauthn-continue = Συνέχεια
+    .accesskey = ν
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = Το { $origin } θέλει να δημιουργήσει ένα κλειδί πρόσβασης για το { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = Το { $origin } θέλει να χρησιμοποιήσει ένα κλειδί πρόσβασης για το { $rpId }.

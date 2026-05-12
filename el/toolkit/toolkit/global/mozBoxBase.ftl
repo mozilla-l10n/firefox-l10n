@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Ανοίγει σε νέα καρτέλα
+moz-box-item-reorder-handle =
+    .aria-label = Αναδιατάξτε το στοιχείο με τα Ctrl+Shift+Πάνω βέλος ή τα Ctrl+Shift+Κάτω βέλος
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Αναδιατάξτε το στοιχείο «{ $item }» με τα Ctrl+Shift+Πάνω βέλος ή τα Ctrl+Shift+Κάτω βέλος

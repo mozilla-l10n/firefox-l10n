@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Επιλογή προφίλ
 preferences-copy-profile-button = Αντιγραφή
+tabs-browsing-section =
+    .heading = Καρτέλες και περιήγηση
+pane-tabs-browsing-title = Καρτέλες και περιήγηση
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Καρτέλες
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Προειδοποίηση όταν το άνοιγμα πολλαπλών καρτελών ενδέχεται να επιβραδύνει το { -brand-short-name }
     .accesskey = β
+switch-to-new-tabs-2 =
+    .label = Άμεση εναλλαγή στη νέα καρτέλα όταν ανοίγουν σύνδεσμοι ή πολυμέσα
+    .accesskey = η
 switch-to-new-tabs =
     .label = Κατά το άνοιγμα συνδέσμου, εικόνας ή πολυμέσου σε νέα καρτέλα, να γίνεται άμεση εναλλαγή σε αυτή
     .accesskey = μ
 show-tabs-in-taskbar =
     .label = Προβολή προεπισκόπησης καρτελών στη γραμμή εργασιών των Windows
     .accesskey = ε
+browser-containers-enabled-2 =
+    .label = Χρήση θεματικών καρτελών
+    .accesskey = ν
 browser-containers-enabled =
     .label = Ενεργοποίηση θεματικών καρτελών
     .accesskey = ν
 browser-containers-learn-more = Μάθετε περισσότερα
+browser-containers-settings-2 =
+    .label = Διαχείριση ρυθμίσεων
+    .accesskey = ι
 browser-containers-settings =
     .label = Ρυθμίσεις…
     .accesskey = ι
@@ -328,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Εμφάνιση πλαϊνής γραμμής
     .description = Αποκτήστε γρήγορη πρόσβαση σε σελιδοδείκτες, καρτέλες από το τηλέφωνό σας, chatbot ΤΝ και πολλά άλλα χωρίς να αποχωρήσετε από την κύρια προβολή.
+page-navigation-group =
+    .label = Πλοήγηση στις σελίδες
 browser-layout-header = Διάταξη προγράμματος περιήγησης
 browser-layout-horizontal-tabs =
     .label = Οριζόντιες καρτέλες
@@ -728,6 +743,9 @@ update-history-2 =
     .accesskey = ν
 update-application-installation =
     .label = Εγκατάσταση
+update-application-auto-2 =
+    .label = Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται)
+    .accesskey = Α
 update-history =
     .label = Εμφάνιση ιστορικού ενημερώσεων…
     .accesskey = ν
@@ -821,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (προεπιλογή)
 performance-group =
     .label = Επιδόσεις
+performance-use-recommended-settings-checkbox-2 =
+    .label = Χρήση προτεινόμενων ρυθμίσεων επιδόσεων
+    .description = Αυτές οι ρυθμίσεις έχουν προσαρμοστεί στο υλικό και το λειτουργικό σύστημά σας.
+    .accesskey = υ
 
 ## Accessibility page
 
@@ -855,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Αναζήτηση κειμένου κατά την έναρξη της πληκτρολόγησης
     .accesskey = μ
+settings-media-group =
+    .label = Πολυμέσα
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Χρήση εικόνας εντός εικόνας
+    .accesskey = ε
 browsing-picture-in-picture-toggle-enabled =
     .label = Ενεργοποίηση στοιχείων ελέγχου βίντεο σε λειτουργία εικόνας εντός εικόνας
     .accesskey = Ε
@@ -865,6 +892,8 @@ browsing-picture-in-picture-learn-more = Μάθετε περισσότερα
 browsing-media-control =
     .label = Έλεγχος πολυμέσων με πληκτρολόγιο, ακουστικά ή εικονική διεπαφή
     .accesskey = λ
+recommendations-group =
+    .label = Προτάσεις
 browsing-media-control-learn-more = Μάθετε περισσότερα
 browsing-cfr-recommendations =
     .label = Πρόταση επεκτάσεων κατά την περιήγηση
@@ -1263,6 +1292,7 @@ account-placeholder =
     .description = Συνδεθείτε για να διατηρήσετε τα δεδομένα σας ιδιωτικά, κρυπτογραφημένα και συγχρονισμένα μεταξύ των συσκευών σας.
 account-sync-section =
     .heading = Λογαριασμός και συγχρονισμός
+pane-account-sync-title = Λογαριασμός και συγχρονισμός
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Ρυθμίσεις κωδικών πρόσβασης και αυτόματης συμπλήρωσης
+pane-passwords-autofill-title = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
+preferences-passwords-autofill-header =
+    .heading = Κωδικοί πρόσβασης και αυτόματη συμπλήρωση
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
