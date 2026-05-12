@@ -908,6 +908,8 @@ newtab-sports-widget-view-schedule =
     .label = განრიგის ნახვა
 newtab-sports-widget-follow-teams =
     .label = გუნდის მიყოლა
+newtab-sports-widget-view-matches =
+    .label = შეხვედრების ნახვა
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =

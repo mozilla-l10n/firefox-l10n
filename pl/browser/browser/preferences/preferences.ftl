@@ -842,6 +842,10 @@ performance-default-content-process-count =
     .label = { $num } (domyślnie)
 performance-group =
     .label = Wydajność
+performance-use-recommended-settings-checkbox-2 =
+    .label = Zalecane ustawienia wydajności.
+    .description = Ustawienia te są specjalnie dostosowane do tego sprzętu i systemu operacyjnego.
+    .accesskey = w
 
 ## Accessibility page
 
@@ -876,6 +880,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Rozpoczynaj wyszukiwanie podczas wpisywania tekstu
     .accesskey = R
+settings-media-group =
+    .label = Multimedia
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Obraz w obrazie
+    .accesskey = O
 browsing-picture-in-picture-toggle-enabled =
     .label = Wyświetlaj przycisk trybu „Obraz w obrazie”.
     .accesskey = O
@@ -886,6 +895,8 @@ browsing-picture-in-picture-learn-more = Więcej informacji
 browsing-media-control =
     .label = Sterowanie multimediami za pomocą klawiatury, zestawu słuchawkowego lub interfejsu wirtualnego.
     .accesskey = m
+recommendations-group =
+    .label = Polecane
 browsing-media-control-learn-more = Więcej informacji
 browsing-cfr-recommendations =
     .label = Polecaj rozszerzenia podczas przeglądania.
@@ -1285,6 +1296,7 @@ account-placeholder =
     .description = Zaloguj się, aby Twoje dane były prywatne, zaszyfrowane i synchronizowane między urządzeniami.
 account-sync-section =
     .heading = Konto i synchronizacja
+pane-account-sync-title = Konto i synchronizacja
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1743,6 +1755,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Ustawienia haseł i automatycznego wypełniania
+pane-passwords-autofill-title = Hasła i automatyczne wypełnianie
+preferences-passwords-autofill-header =
+    .heading = Hasła i automatyczne wypełnianie
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

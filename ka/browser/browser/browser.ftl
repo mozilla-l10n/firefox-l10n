@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = დასინქ. ჩანართები
     .tooltiptext = ჩანართები სხვა მოწყობილობებიდან
+toolbar-button-send-tab =
+    .label = ჩანართის გაგზავნა
+    .tooltiptext = მიმდინარე ჩანართის გაგზავნა სხვა მოწყობილობაზე
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = სეანსის მონაცემების წაშლა
     .accesskey = წ
 reset-pbm-panel-complete = პირადი სეანსის მონაცემები გასუფთავებულია
+reset-pbm-toolbar-button2 =
+    .label = პირადი სეანსის გასუფთავება
+    .tooltiptext = პირადი სეანსის გასუფთავება
 
 ## Autorefresh blocker
 
