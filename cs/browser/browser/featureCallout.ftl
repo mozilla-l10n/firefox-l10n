@@ -186,7 +186,7 @@ windows-10-eos-sync-urgency-subtitle-2 =
 windows-10-eos-sync-new-device-title-1 = Neriskujte, že budete v dalším zařízení začínat znovu.
 windows-10-eos-sync-new-device-subtitle-1 =
     { -brand-short-name.case-status ->
-        [with-cases] Synchronizací si můžete vzít záložky, hesla a preferovaná nastavení { -brand-short-name(case: "acc") }  s sebou, když přecházíte.
+        [with-cases] Synchronizací si můžete vzít záložky, hesla a preferovaná nastavení { -brand-short-name(case: "acc") } s sebou, když přecházíte.
        *[no-cases] Synchronizací si můžete vzít záložky, hesla a preferovaná nastavení aplikace { -brand-short-name } s sebou, když přecházíte.
     }
 windows-10-eos-sync-new-device-title-2 = Přecházíte na nové zařízení? Neztraťte to důležité.

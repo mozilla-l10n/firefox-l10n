@@ -135,7 +135,7 @@ migration-wizard-progress-success-updated-passwords =
         [many] { $updatedEntries } aktualizovaných
        *[other] { $updatedEntries } aktualizovaných
     }
-migration-bookmarks-from-file-picker-title = Importu souboru záložek
+migration-bookmarks-from-file-picker-title = Import souboru záložek
 migration-bookmarks-from-file-progress-header = Probíhá import záložek
 migration-bookmarks-from-file = Záložky
 migration-bookmarks-from-file-success-header = Záložky byly úspěšně naimportovány

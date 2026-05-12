@@ -5,7 +5,7 @@
 
 ## Confirmation hints
 
-confirmation-hint-breakage-report-sent = Hlášení byla odesláno. Děkujeme.
+confirmation-hint-breakage-report-sent = Hlášení bylo odesláno. Děkujeme.
 confirmation-hint-login-removed = Přihlašovací údaje odstraněny.
 confirmation-hint-password-removed = Heslo odstraněno
 confirmation-hint-page-bookmarked = Uloženo do záložek

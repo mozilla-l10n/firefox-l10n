@@ -231,9 +231,9 @@ bar-tooltip-tracker =
     .title = Sledující obsah
     .aria-label =
         { $count ->
-            [one] Jeden prvek  sledujícího obsahu ({ $percentage } %)
-            [few] { $count } prvky  sledujícího obsahu ({ $percentage } %)
-           *[other] { $count } prvků  sledujícího obsahu ({ $percentage } %)
+            [one] Jeden prvek sledujícího obsahu ({ $percentage } %)
+            [few] { $count } prvky sledujícího obsahu ({ $percentage } %)
+           *[other] { $count } prvků sledujícího obsahu ({ $percentage } %)
         }
 bar-tooltip-fingerprinter =
     .title = Vytváření otisku prohlížeče

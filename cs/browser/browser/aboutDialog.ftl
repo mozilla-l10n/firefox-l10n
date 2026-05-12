@@ -74,8 +74,8 @@ settings-update-unsupported = Na tomto systému nelze provádět další aktuali
 update-restarting = Restartování…
 settings-update-restarting =
     .label = Restartování…
-update-internal-error2 = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <label data-l10n-name="manual-link">{ $displayUrl }</label>
-settings-update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace nejdete na adrese <a data-l10n-name="manual-link">{ $displayUrl }</a>
+update-internal-error2 = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace najdete na adrese <label data-l10n-name="manual-link">{ $displayUrl }</label>
+settings-update-internal-error = Aktualizace se nepodařilo zkontrolovat kvůli vnitřní chybě. Aktualizace najdete na adrese <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
 ##
 
