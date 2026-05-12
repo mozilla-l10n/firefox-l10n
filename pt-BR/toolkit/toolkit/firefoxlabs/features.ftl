@@ -82,6 +82,7 @@ experimental-features-newtab-widget-lists-and-timer-description = Mantenha sua l
 # Weather Widget
 experimental-features-newtab-widget-weather =
     .label = Previsões meteorológicas
+experimental-features-newtab-widget-weather-description = Tenha uma visão clara do tempo de hoje com previsões horárias. <a data-l10n-name="connect">Compartilhar opinião</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Relógios
