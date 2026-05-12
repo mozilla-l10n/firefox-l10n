@@ -1300,6 +1300,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Усклађени језичци
     .tooltiptext = Прикажи језичке са других уређаја
+toolbar-button-send-tab =
+    .label = Пошаљи језичак
+    .tooltiptext = Пошаљи тренутни језичак на други уређај
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1513,6 +1516,9 @@ reset-pbm-panel-confirm-button =
     .label = Обриши податке сесије
     .accesskey = п
 reset-pbm-panel-complete = Подаци приватне сесије су обрисани
+reset-pbm-toolbar-button2 =
+    .label = Очисти приватну сесију
+    .tooltiptext = Очисти приватну сесију
 
 ## Autorefresh blocker
 

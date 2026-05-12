@@ -299,6 +299,8 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Пошаљи на мобилни
     .accesskey = н
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-sign-in = Пријави се за слање језичака
 main-context-menu-send-to-mobile-enable-sync2 = Омогућите усклађивање да бисте послали језичак
 main-context-menu-send-to-mobile-connect-phone2 = Повежите свој телефон
 main-context-menu-send-to-mobile-device-missing2 = Не видите свој уређај?
