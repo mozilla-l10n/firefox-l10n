@@ -1295,6 +1295,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synchronizowane rajtarki
     .tooltiptext = Rajtarki z druhich gratow pokazać
+toolbar-button-send-tab =
+    .label = Rajtark pósłać
+    .tooltiptext = Aktualny rajtark na druhi grat pósłać
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =

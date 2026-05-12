@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Seleccionar perfil
 preferences-copy-profile-button = Copiar
+tabs-browsing-section =
+    .heading = Pestañas y navegación
+pane-tabs-browsing-title = Pestañas y navegación
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Pestañas
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Avisarme si al abrir muchas pestañas { -brand-short-name } se pueda poner lento
     .accesskey = d
+switch-to-new-tabs-2 =
+    .label = Al abrir enlaces o archivos multimedia en una pestaña nueva, cambiar a ella de inmediato
+    .accesskey = h
 switch-to-new-tabs =
     .label = Cuando abras un enlace, imagen o un medio en una nueva pestaña, cambiar inmediatamente a ella
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Mostrar vista previa de las pestañas en la barra de tareas de Windows
     .accesskey = t
+browser-containers-enabled-2 =
+    .label = Usar pestañas con contenedores
+    .accesskey = n
 browser-containers-enabled =
     .label = Habilitar pestañas contenedoras
     .accesskey = n
 browser-containers-learn-more = Saber más
+browser-containers-settings-2 =
+    .label = Administrar ajustes
+    .accesskey = i
 browser-containers-settings =
     .label = Configuración…
     .accesskey = o
@@ -328,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Mostrar barra lateral
     .description = Accede rápidamente a marcadores, pestañas de tu teléfono, chatbots de IA y mucho más sin salir de la vista principal.
+page-navigation-group =
+    .label = Navegación de la página
 browser-layout-header = Disposición del navegador
 browser-layout-horizontal-tabs =
     .label = Pestañas horizontales
@@ -728,6 +743,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Instalación
+update-application-auto-2 =
+    .label = Instalar actualizaciones automáticamente (recomendado)
+    .accesskey = A
 update-history =
     .label = Mostrar historial de actualizaciones…
     .accesskey = p
@@ -821,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (predeterminado)
 performance-group =
     .label = Rendimiento
+performance-use-recommended-settings-checkbox-2 =
+    .label = Usar los ajustes de rendimiento recomendados
+    .description = Estos ajustes se adaptan a tu hardware y sistema operativo.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -855,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Buscar el texto cuando empiezas a escribir
     .accesskey = x
+settings-media-group =
+    .label = Multimedia
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Usar Picture-in-Picture
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Habilitar controles de video picture-in-picture
     .accesskey = A
@@ -865,6 +892,8 @@ browsing-picture-in-picture-learn-more = Saber más
 browsing-media-control =
     .label = Controla los medios con el teclado, los auriculares o la interfaz virtual
     .accesskey = v
+recommendations-group =
+    .label = Recomendaciones
 browsing-media-control-learn-more = Saber más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
@@ -1263,6 +1292,7 @@ account-placeholder =
     .description = Inicia sesión para mantener tus datos privados, cifrados y sincronizados entre dispositivos.
 account-sync-section =
     .heading = Cuenta y sincronización
+pane-account-sync-title = Cuenta y sincronización
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Contraseñas y ajustes de autorrelleno
+pane-passwords-autofill-title = Contraseñas y autorrelleno
+preferences-passwords-autofill-header =
+    .heading = Contraseñas y autorrelleno
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

@@ -1281,6 +1281,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Pestañas sincronizadas
     .tooltiptext = Mostrar pestañas de otros dispositivos
+toolbar-button-send-tab =
+    .label = Enviar pestaña
+    .tooltiptext = Enviar pestaña actual a otro dispositivo
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1491,6 +1494,9 @@ reset-pbm-panel-confirm-button =
     .label = Eliminar datos de la sesión
     .accesskey = D
 reset-pbm-panel-complete = Los datos de la sesión privada han sido eliminados
+reset-pbm-toolbar-button2 =
+    .label = Limpiar sesión privada
+    .tooltiptext = Limpiar sesión privada
 
 ## Autorefresh blocker
 
