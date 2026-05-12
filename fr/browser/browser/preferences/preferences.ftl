@@ -2577,7 +2577,7 @@ related-settings-group =
 related-settings-accessibility-link =
     .label = Personnaliser les paramètres de zoom et de police dans Accessibilité
 related-settings-home-link =
-    .label = Personnaliser { -firefox-home-brand-name }
+    .label = Personnaliser la { -firefox-home-brand-name }
 
 ## AI controls page
 

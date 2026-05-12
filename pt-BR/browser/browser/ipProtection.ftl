@@ -110,6 +110,7 @@ ipprotection-locations-subview-recommended-description = Encontra o local mais r
 ipprotection-locations-subview-promo =
     .heading = Reforce a proteção com o { -mozilla-vpn-brand-name }
     .message = Escolha dentre mais de 300 locais e proteja todos os seus aplicativos em até 5 dispositivos.
+ipprotection-locations-subview-promo-button = Obtenha o { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -120,6 +121,10 @@ ipprotection-connection-status-paused-description = Você usou todos os seus { $
 upgrade-vpn-title = Tenha proteção extra, além da do navegador
 upgrade-vpn-description = Escolha uma localização de VPN, proteja todos os seus aplicativos em até 5 dispositivos e fique seguro em qualquer rede, em casa ou em redes públicas de WiFi.
 upgrade-vpn-button = Experimente o { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = A VPN está em pausa
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso é renovado no próximo mês.
 
 ## Messages and errors
 
@@ -178,6 +183,11 @@ ip-protection-learn-more = Saiba mais
 ip-protection-not-opted-in-2 =
     .heading = Experimente a VPN integrada no { -brand-short-name }
     .message = Oculte sua localização enquanto navega no { -brand-short-name }. Tenha { $maxUsage } GB de dados gratuitos de VPN todo mês.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Experimente a VPN integrada no { -brand-short-name }
+    .message = Navegue com proteção extra ao ocultar sua localização. Tenha { $maxUsage } GB de dados gratuitos de VPN todo mês.
 ip-protection-not-opted-in-button = Introdução
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -197,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Tenha ainda mais proteção fora do { -brand-short-name } com o { -mozilla-vpn-brand-name }
     .description = Escolha locais personalizados de VPN e adicione proteção a todos os seus aplicativos em até cinco dispositivos, esteja em casa ou em uma rede pública de WiFi.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Reforce a proteção com o { -mozilla-vpn-brand-name }
+    .description = Escolha dentre mais de 300 locais e proteja todos os seus aplicativos em até 5 dispositivos.
 
 ## IP Protection dialogs
 
@@ -249,6 +262,11 @@ vpn-paused-alert-title = VPN pausada
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso à VPN será renovado no próximo mês.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Você usou todos os seus { $maxUsage } GB de dados na VPN. O acesso é renovado no próximo mês.
+vpn-error-page-continue-description = Escolha como continuar sem VPN
+vpn-error-page-keep-browsing = Continuar navegando nesta sessão
 vpn-error-page-new-session = Iniciar uma nova sessão
 vpn-paused-alert-close-tabs-button = Fechar todas as abas
 vpn-paused-alert-continue-wo-vpn-button = Continuar sem VPN
