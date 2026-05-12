@@ -5,8 +5,8 @@
 moz-box-link-anchor =
     .title = გახსნის ახალ ჩანართში
 moz-box-item-reorder-handle =
-    .aria-label = რომ გადაალაგოთ, გამოიყენეთ Ctrl+Shift+ArrowUp ან Ctrl+Shift+ArrowDown
+    .aria-label = რომ გადაალაგოთ, გამოიყენეთ Ctrl+Shift+ზემოთ ან Ctrl+Shift+ქვემოთ
 # Variables:
 #   $item (string) - The label of the moz-box-item being reordered.
 moz-box-item-reorder-handle-named =
-    .aria-label = რომ გადაალაგოთ { $item }, გამოიყენეთ Ctrl+Shift+ArrowUp ან Ctrl+Shift+ArrowDown
+    .aria-label = რომ გადაალაგოთ { $item }, გამოიყენეთ Ctrl+Shift+ზემოთ ან Ctrl+Shift+ქვემოთ

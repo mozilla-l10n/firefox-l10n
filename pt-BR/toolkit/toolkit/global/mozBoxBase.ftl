@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Abre em uma nova aba
+moz-box-item-reorder-handle =
+    .aria-label = Reordene item usando Ctrl+Shift+Seta para cima ou Ctrl+Shift+Seta para baixo
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Reordene { $item } usando Ctrl+Shift+Seta para cima ou Ctrl+Shift+Seta para baixo

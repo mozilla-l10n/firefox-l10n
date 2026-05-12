@@ -850,6 +850,13 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+           *[other] Iniciar temporizador de { $minutes } minutos
+        }
 newtab-widget-timer-pause-aria =
     .aria-label = Pausar temporizador
 # Variables:
@@ -885,15 +892,20 @@ newtab-widget-timer-celebration-message-break = Pronto para se concentrar?
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Seguir times
+newtab-sports-widget-menu-view-upcoming = Ver próximos
 newtab-sports-widget-menu-view-results = Ver resultados
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Datas importantes
 newtab-sports-widget-menu-learn-more = Saiba mais
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Mantenha abas sobre a Copa do Mundo
 newtab-sports-widget-get-updates = Receba notícias em tempo real sobre os jogos e muito mais.
 newtab-sports-widget-view-schedule =
     .label = Ver calendário
 newtab-sports-widget-follow-teams =
     .label = Seguir times
+newtab-sports-widget-view-matches =
+    .label = Ver jogos
 newtab-sports-widget-choose-wallpaper =
     .label = Escolher um fundo de tela
 newtab-sports-widget-skip = Pular
@@ -917,6 +929,7 @@ newtab-sports-widget-key-dates = Datas importantes
 newtab-sports-widget-upcoming = Seguintes
 newtab-sports-widget-results = Resultados
 newtab-sports-widget-semi-finals = Semifinais
+newtab-sports-widget-bronze-finals = Final para terceiro lugar
 # Final is the final match for 1st place.
 newtab-sports-widget-final = Final
 # Variables:
@@ -926,6 +939,7 @@ newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "n
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+newtab-sports-widget-delayed = Adiado
 newtab-sports-widget-postponed = Adiado
 newtab-sports-widget-suspended = Suspenso
 newtab-sports-widget-cancelled = Cancelado
