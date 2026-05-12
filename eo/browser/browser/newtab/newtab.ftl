@@ -364,7 +364,7 @@ newtab-custom-widget-lists-toggle =
 newtab-custom-widget-timer-toggle =
     .label = Tempumilo
 newtab-custom-widget-sports-toggle =
-    .label = Futbala mondpokalo
+    .label = Piedpilka mondpokalo
 newtab-custom-widget-clock-toggle =
     .label = Horloĝo
 newtab-custom-widget-section-title = Komponantoj
@@ -903,7 +903,7 @@ newtab-sports-widget-menu-view-results = Montri rezultojn
 newtab-sports-widget-menu-key-dates = Ĉefaj datoj
 newtab-sports-widget-menu-learn-more = Pli da informo
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
-newtab-sports-widget-keep-tabs = Akompanu la futbalan mondpokalon
+newtab-sports-widget-keep-tabs = Akompanu la piedpilkan mondpokalon
 newtab-sports-widget-get-updates = Ricevu informojn pri ludoj kaj pli.
 newtab-sports-widget-view-schedule =
     .label = Montri kalendaron
@@ -962,7 +962,7 @@ newtab-sports-widget-third-place = Tria loko
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Dua loko
 newtab-sports-widget-champions = Ĉampionoj
-newtab-sports-widget-world-cup-champions = Ĉampionoj de la futbala mondpokalo 2026
+newtab-sports-widget-world-cup-champions = Ĉampionoj de la piedpilka mondpokalo 2026
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
