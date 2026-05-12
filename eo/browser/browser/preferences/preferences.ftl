@@ -743,6 +743,9 @@ update-history-2 =
     .accesskey = M
 update-application-installation =
     .label = Instalo
+update-application-auto-2 =
+    .label = Aŭtomate instali ĝisdatigojn (rekomendita)
+    .accesskey = A
 update-history =
     .label = Montri historion de ĝisdatigoj…
     .accesskey = M
@@ -790,6 +793,21 @@ update-in-progress-ok-button = &Ignori
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Daŭrigi
 
+## About Firefox
+
+about-firefox-header =
+    .heading = Pri { -brand-short-name }
+
+## Firefox updates
+
+update-application-heading =
+    .label = Ĝisdatigoj de { -brand-short-name }
+    .description = Ĝisdatigoj plibonigas la rapidecon, stabilon kaj sekurecon de { -brand-short-name }.
+update-application-suppress-prompts-heading =
+    .label = Sciigoj
+update-application-updates-managed-by-os =
+    .message = La ĝisdatigoj estas administrataj de via mastruma sistemo
+
 ## Firefox support
 
 support-application-heading =
@@ -821,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (norma)
 performance-group =
     .label = Efikeco
+performance-use-recommended-settings-checkbox-2 =
+    .label = Uzi konsilindajn efikecajn agordojn
+    .description = Tiu ĉi agordoj estas alĝustigitaj al la mastruma sistemo kaj aparataro de via komputilo.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -830,6 +852,10 @@ browsing-group-label =
 browsing-use-autoscroll =
     .label = Uzi aŭtomatan rulumon
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = Navigado kaj rulumo per klavaro
+motion-and-link-group =
+    .label = Stiloj por animacioj kaj ligiloj
 browsing-use-smooth-scrolling =
     .label = Uzi glatan rulumon
     .accesskey = g
@@ -851,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Serĉi tekston kiam vi ektajpas
     .accesskey = t
+settings-media-group =
+    .label = Aŭdvidaĵo
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Uzi inkrustitan videon
+    .accesskey = i
 browsing-picture-in-picture-toggle-enabled =
     .label = Permesi regilojn por bildo en bildo
     .accesskey = P
@@ -861,6 +892,8 @@ browsing-picture-in-picture-learn-more = Pli da informo
 browsing-media-control =
     .label = Regi aŭdvidaĵojn per klavaro, kapaŭskultiloj aŭ virtuala fasado
     .accesskey = R
+recommendations-group =
+    .label = Rekomendoj
 browsing-media-control-learn-more = Pli da informo
 browsing-cfr-recommendations =
     .label = Sugesti etendaĵojn dum retumo
@@ -871,6 +904,22 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Pli da informo
 browsing-group =
     .label = Retumo
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Alirebleco
+preferences-default-zoom-select =
+    .aria-label = Norma pligrandigo
+preferences-fonts-family =
+    .label = Tipara familio
+    .accesskey = T
+preferences-fonts-size =
+    .label = Tipara grando
+    .accesskey = g
+preferences-fonts-advanced-settings =
+    .label = Spertulaj agordoj
+    .accesskey = S
 
 ## General Section - Proxy
 
@@ -1049,6 +1098,9 @@ home-prefs-lists-header =
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
     .label = Tempumilo
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sporto
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Helpi { -brand-product-name }
