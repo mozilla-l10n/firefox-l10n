@@ -577,6 +577,7 @@ mlmodel-link-preview = { -brand-short-name } uzas tion ĉi por eltiri ĉefajn pu
 mlmodel-pdfjs = { -brand-short-name } uzas tion ĉi por krei alternativajn tekstojn por bildoj, kiujn vi aldonas al dosieroj PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } uzas tion ĉi por sugesti nomojn por viaj grupoj de langetoj
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } uzas tion ĉi por sugesti langetojn por viaj grupoj de langetoj
+mlmodel-formfill-engine = { -brand-short-name } uzas tion por helpi plenigi adressajn formularojn
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI en la aparato
 addon-category-mlmodel-title =

@@ -342,7 +342,7 @@ browser-layout-show-sidebar2 =
     .label = Visa sidofält
     .description = Snabb åtkomst till bokmärken, flikar från din telefon, AI-chatbotar och mer utan att lämna huvudvyn.
 page-navigation-group =
-    .label = Navigering
+    .label = Sidnavigering
 browser-layout-header = Webbläsarlayout
 browser-layout-horizontal-tabs =
     .label = Horisontella flikar
@@ -745,7 +745,7 @@ update-application-installation =
     .label = Installation
 update-application-auto-2 =
     .label = Installera uppdateringar automatiskt (rekommenderas)
-    .accesskey = I
+    .accesskey = n
 update-history =
     .label = Visa uppdateringshistorik…
     .accesskey = p
@@ -842,7 +842,7 @@ performance-group =
 performance-use-recommended-settings-checkbox-2 =
     .label = Använd rekommenderade prestandainställningar
     .description = Dessa inställningar är anpassade till din hårdvara och operativsystem.
-    .accesskey = A
+    .accesskey = r
 
 ## Accessibility page
 
@@ -881,7 +881,7 @@ settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =
     .label = Använd bild-i-bild
-    .accesskey = A
+    .accesskey = b
 browsing-picture-in-picture-toggle-enabled =
     .label = Aktivera videokontroller för bild-i-bild
     .accesskey = A
