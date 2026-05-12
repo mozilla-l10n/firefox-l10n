@@ -70,3 +70,36 @@ more-from-moz-new-products-button = Vidi novajn produktojn
 more-from-moz-firefox-mobile-qr-promo =
     .message = Skanu per la filmilo de via telefono aŭ tabulkomputilo por elŝuti la apon. Tuŝetu la ligilon kiam ĝi aperas.
 more-from-moz-firefox-mobile-email-link = Retpoŝte sendi elŝutan ligilon al via telefono
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-card =
+    .label = { -mozmonitor-brand-name }
+    .description = Per senpaga analizo malkovru kie en la reto viaj personaj datumoj estis elmetitaj.
+more-from-moz-mozilla-vpn-card =
+    .label = { -mozilla-vpn-brand-name }
+    .description = Ricevu aldonan protekton por ĉiuj apoj — ne nur por via retumilo. Tenu viajn datumojn sekuraj en publikaj Wi-Fi kaj en nesekuraj retoj.
+more-from-moz-firefox-relay-card =
+    .label = { -relay-brand-name }
+    .description = Protektu vian retpoŝtan enirkeston kontraŭ trudmesaĝoj per senpaga retpoŝta maskado.
+more-from-moz-mdn-card =
+    .label = { -mdn-brand-name }
+    .description = Lernu programadon por la reto per senpagaj gvidiloj kaj referencoj.
+more-from-moz-thunderbird-card =
+    .label = { -thunderbird-brand-name }
+    .description = Aliru vian retpoŝton kalendarojn kaj kontaktojn per nur unu rapida apo.
+more-from-moz-solo-card =
+    .label = { -solo-ai-brand-name }
+    .description = Esploru niajn lastajn ideojn kaj eksperimentajn teknologiojn.
+more-from-moz-new-products-card =
+    .label = Novaj produktoj de { -vendor-short-name }
+    .description = Malkovru la lastajn produktojn de { -vendor-short-name }.
+more-from-moz-mozilla-monitor-box-link =
+    .label = Elŝuti { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Elŝuti { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Elŝuti { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Aliri MDN
