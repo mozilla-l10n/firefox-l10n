@@ -602,6 +602,7 @@ mlmodel-link-preview = { -brand-short-name } выкарыстоўвае гэта
 mlmodel-pdfjs = { -brand-short-name } выкарыстоўвае гэта, каб ствараць альтэрнатыўны тэкст для выяў, якія вы дадаяце ў файлы PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } выкарыстоўвае гэта, каб прапаноўваць назвы для вашых груп картак
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } выкарыстоўвае гэта, каб прапаноўваць карткі для вашых груп картак
+mlmodel-formfill-engine = { -brand-short-name } выкарыстоўвае гэта, каб дапамагчы запоўніць формы адрасоў
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Штучны інтэлект на прыладзе
 addon-category-mlmodel-title =

@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Выбар профілю
 preferences-copy-profile-button = Капіяваць
+tabs-browsing-section =
+    .heading = Карткі і агляданне
+pane-tabs-browsing-title = Карткі і агляданне
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Карткі
 tabs-opening-heading =

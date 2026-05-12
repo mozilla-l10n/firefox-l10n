@@ -1288,6 +1288,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Сінхранізаваныя карткі
     .tooltiptext = Паказваць карткі з іншых прылад
+toolbar-button-send-tab =
+    .label = Даслаць картку
+    .tooltiptext = Адправіць дзейную картку на іншую прыладу
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1501,6 +1504,9 @@ reset-pbm-panel-confirm-button =
     .label = Выдаліць звесткі сеанса
     .accesskey = В
 reset-pbm-panel-complete = Звесткі прыватнага сеанса выдалены
+reset-pbm-toolbar-button2 =
+    .label = Ачысціць прыватны сеанс
+    .tooltiptext = Ачысціць прыватны сеанс
 
 ## Autorefresh blocker
 

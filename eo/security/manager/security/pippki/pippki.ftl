@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Pasvorto por atestila sekurkopio (denove):
 set-password-reminder = Grava rimarko: Se vi forgesas la pasvorton  de via atestila sekurkopio vi ne povos uzi la sekurkopion poste. Bonvolu registri la pasvorton en sekuran lokon.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Protektita aŭtentigo
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Bonvolu aŭtentigi vin en la sekureca aparato ({ $tokenName }). La maniero tion fari dependas de la aparato (ekzemple, per fingrospura legilo aŭ per kodo tajpita en cifera klavaro).
+
 ## Protected authentication alert
 
 # Variables:
