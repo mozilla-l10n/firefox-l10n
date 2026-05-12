@@ -1288,6 +1288,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Karty z innych urządzeń
     .tooltiptext = Wyświetl karty z innych urządzeń
+toolbar-button-send-tab =
+    .label = Wyślij kartę
+    .tooltiptext = Wyślij bieżącą kartę na inne urządzenie
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1501,6 +1504,9 @@ reset-pbm-panel-confirm-button =
     .label = Usuń dane sesji
     .accesskey = U
 reset-pbm-panel-complete = Usunięto dane prywatnej sesji
+reset-pbm-toolbar-button2 =
+    .label = Wyczyść prywatną sesję
+    .tooltiptext = Wyczyść prywatną sesję
 
 ## Autorefresh blocker
 

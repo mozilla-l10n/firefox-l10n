@@ -120,7 +120,7 @@ session-history-entry-info-button-title =
 # Header for the Session History page when session history diagrams are unavailable
 session-history-unavailable = Diagramme de l’historique de session indisponible
 # Text displayed for when the target does not support showing session history diagrams
-session-history-target-unsupported = Target ne prend pas en charge l’affichage des diagrammes de l’historique de session
+session-history-target-unsupported = La cible ne prend pas en charge l’affichage des diagrammes de l’historique de session
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Icône d’avertissement
