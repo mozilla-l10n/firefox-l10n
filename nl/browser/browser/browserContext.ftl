@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Naar Mobiel verzenden
     .accesskey = z
+main-context-menu-send-to-mobile-enable-sync2 = Schakel synchronisatie in om een tabblad te verzenden
+main-context-menu-send-to-mobile-connect-phone2 = Uw telefoon verbinden
+main-context-menu-send-to-mobile-device-missing2 = Ziet u uw apparaat niet?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Schakel synchronisatie in om een tabblad te verzenden
