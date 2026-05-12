@@ -48,7 +48,7 @@ ipprotection-site-settings-callout-button = Entendi
 
 ## Location selection callout
 
-ipprotection-location-selection-callout-title = Novidade: Alterar sua localização
+ipprotection-location-selection-callout-title = Novidade: Mude o local
 ipprotection-location-selection-callout-description = A VPN integrada do <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> permite você escolher entre 5 locais de navegação, ou ela escolher o mais rápido para você.
 ipprotection-location-selection-callout-primary-button = Experimentar
 ipprotection-location-selection-callout-secondary-button = Descartar
@@ -107,6 +107,9 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Escolha outro local de onde navegar.
 ipprotecion-locations-subview-recommended-label = Recomendado
 ipprotection-locations-subview-recommended-description = Encontra o local mais rápido
+ipprotection-locations-subview-promo =
+    .heading = Reforce a proteção com o { -mozilla-vpn-brand-name }
+    .message = Escolha dentre mais de 300 locais e proteja todos os seus aplicativos em até 5 dispositivos.
 
 ## VPN paused state
 
