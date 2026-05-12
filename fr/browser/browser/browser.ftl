@@ -1282,7 +1282,7 @@ toolbar-button-synced-tabs =
     .label = Onglets synchronisés
     .tooltiptext = Afficher les onglets d’autres appareils
 toolbar-button-send-tab =
-    .label = Envoyer un onglet
+    .label = Envoyer l’onglet
     .tooltiptext = Envoyer l’onglet actuel à un autre appareil
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window

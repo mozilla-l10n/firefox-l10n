@@ -596,6 +596,7 @@ mlmodel-link-preview = { -brand-short-name } bruker denne modellen til å genere
 mlmodel-pdfjs = { -brand-short-name } bruker dette til å lage alternativ tekst for bilder du legger til i PDF-er
 mlmodel-smart-tab-topic-engine = { -brand-short-name } bruker dette til å foreslå navn for dine fanegrupper
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } bruker dette til å foreslå faner for dine fanegrupper
+mlmodel-formfill-engine = { -brand-short-name } bruker dette til å fylle ut adresseskjemaer
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på enheten
 addon-category-mlmodel-title =

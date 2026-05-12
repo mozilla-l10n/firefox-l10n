@@ -906,7 +906,7 @@ newtab-sports-widget-view-schedule =
 newtab-sports-widget-follow-teams =
     .label = Suivre des équipes
 newtab-sports-widget-view-matches =
-    .label = Afficher les occurrences
+    .label = Voir les matchs
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
@@ -999,9 +999,9 @@ newtab-clock-widget-search-location-input =
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.
 newtab-clock-widget-input-nickname =
-    .label = Pseudonyme (facultatif)
-    .placeholder = Ajouter un pseudonyme
-    .aria-label = Pseudonyme (facultatif)
+    .label = Nom personnalisé (facultatif)
+    .placeholder = Ajouter un nom personnalisé
+    .aria-label = Nom personnalisé (facultatif)
 # "Add new clock" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -1014,8 +1014,8 @@ newtab-clock-widget-button-back =
     .title = Retour
     .aria-label = Retour
 newtab-clock-widget-button-edit-clock =
-    .title = Modifier l’heure
-    .aria-label = Modifier l’heure
+    .title = Modifier l’horloge
+    .aria-label = Modifier l’horloge
 newtab-clock-widget-button-save = Enregistrer
 newtab-clock-widget-button-remove-clock =
     .title = Supprimer l’horloge
@@ -1023,7 +1023,7 @@ newtab-clock-widget-button-remove-clock =
 newtab-clock-widget-add-clock-form =
     .aria-label = Ajouter une horloge
 newtab-clock-widget-edit-clock-form =
-    .aria-label = Modifier l’heure
+    .aria-label = Modifier l’horloge
 # "Search results" is the accessible label for the listbox dropdown that appears
 # below the location search field, listing matching cities as the user types.
 # It means "results of the search", not "search within the results".
