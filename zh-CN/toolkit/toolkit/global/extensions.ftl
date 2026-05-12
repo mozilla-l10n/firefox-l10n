@@ -137,6 +137,18 @@ webext-site-perms-description-gated-perms-midi =
     这些通常是音频合成器等插拔设备，但也可能内置于您的计算机中。
     
     通常网站不被允许访问 MIDI 设备。使用不当可能会造成损坏或危及信息安全。
+webext-site-perms-description-gated-perms-webserial =
+    此类设备包括微控制器、3D 打印机等通过 USB、串行端口或蓝牙连接的设备。
+    
+    您可以选择网站能够访问哪些设备。
+    
+    通常不应允许网站访问串行设备。不当使用可能会导致设备损坏或引发安全问题。
+webext-site-perms-description-gated-perms-serial =
+    此类设备包括微控制器、3D 打印机等通过 USB 或串行端口连接的设备。
+    
+    您可以选择网站能够访问哪些设备。
+    
+    通常不应允许网站访问串行设备。不当使用可能会导致设备损坏或引发安全问题。
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

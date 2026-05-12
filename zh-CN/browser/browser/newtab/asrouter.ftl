@@ -414,6 +414,7 @@ windows-10-eos-feature-toast-dismiss-button = 知道了
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-title = <strong>Microsoft 已结束支持 Windows 10。</strong>备份信息，让 { -brand-product-name } 为 Windows 11 准备好。
 windows-10-eos-global-infobar-primary-button = 开启备份
     .accesskey = T
 windows-10-eos-global-infobar-learn-more-link = 详细了解
