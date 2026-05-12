@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Мобильді құрылғыға жіберу
     .accesskey = ж
+main-context-menu-send-to-mobile-enable-sync2 = Бетті жіберу үшін синхрондауды іске қосыңыз
+main-context-menu-send-to-mobile-connect-phone2 = Телефоныңызды байланыстырыңыз
+main-context-menu-send-to-mobile-device-missing2 = Құрылғыңыз көрінбей ме?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Бетті жіберу үшін синхрондауды іске қосыңыз

@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Mobil cihaza gönder
     .accesskey = c
+main-context-menu-send-to-mobile-enable-sync2 = Sekme göndermek için eşitlemeyi etkinleştirin
+main-context-menu-send-to-mobile-connect-phone2 = Telefonunuzu bağlayın
+main-context-menu-send-to-mobile-device-missing2 = Cihazınızı göremiyor musunuz?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Sekme göndermek için eşitlemeyi etkinleştirin

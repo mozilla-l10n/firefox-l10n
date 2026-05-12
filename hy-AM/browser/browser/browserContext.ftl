@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Ուղարկել բջջայինին
     .accesskey = n
+main-context-menu-send-to-mobile-enable-sync2 = Միացրեք համաժամեցումը՝ ներդիր ուղարկելու համար
+main-context-menu-send-to-mobile-connect-phone2 = Միացրեք ձեր հեռախոսը
+main-context-menu-send-to-mobile-device-missing2 = Չե՞ք տեսնում ձեր սարքը։
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Միացրեք համաժամեցումը՝ ներդիր ուղարկելու համար

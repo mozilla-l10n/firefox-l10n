@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Адаслаць на мабільны
     .accesskey = ь
+main-context-menu-send-to-mobile-enable-sync2 = Уключыць сінхранізацыю для адпраўкі картак
+main-context-menu-send-to-mobile-connect-phone2 = Падключыце свой тэлефон
+main-context-menu-send-to-mobile-device-missing2 = Не бачыце вашай прылады?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Уключыць сінхранізацыю для адпраўкі картак

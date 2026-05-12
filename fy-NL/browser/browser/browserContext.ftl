@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Nei Mobyl ferstjoere
     .accesskey = s
+main-context-menu-send-to-mobile-enable-sync2 = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
+main-context-menu-send-to-mobile-connect-phone2 = Jo telefoan ferbine
+main-context-menu-send-to-mobile-device-missing2 = Sjogge jo jo apparaat net?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Skeakelje syngronisaasje yn om in ljepblêd te ferstjoeren
