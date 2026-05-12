@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Адкрыць у новай картцы
+moz-box-item-reorder-handle =
+    .aria-label = Змяніць парадак элементаў з дапамогай Ctrl+Shift+СтрэлкаЎверх або Ctrl+Shift+СтрэлкаЎніз
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Змяніць парадак элемента { $item } з дапамогай Ctrl+Shift+СтрэлкаЎверх або Ctrl+Shift+СтрэлкаЎніз

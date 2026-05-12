@@ -117,6 +117,10 @@ sidebar-item-session-history = Гісторыя сеансаў
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Паказаць дадзеныя гісторыі сеансаў
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Дыяграма гісторыі сеансаў недаступная
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Прызначэнне не падтрымлівае адлюстраванне дыяграм гісторыі сеансаў
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Значок папярэджання

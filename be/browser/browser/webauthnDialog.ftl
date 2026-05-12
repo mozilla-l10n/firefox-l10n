@@ -76,3 +76,7 @@ webauthn-continue = Працягнуць
 #   $origin (String): the domain of the site making the request
 #   $rpId (String): the related domain the passkey is associated with
 webauthn-related-origin-create-header = { $origin } хоча стварыць ключ доступу для { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } хоча ўжыць ключ доступу для { $rpId }.
