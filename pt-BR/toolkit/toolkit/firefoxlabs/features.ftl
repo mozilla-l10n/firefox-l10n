@@ -86,9 +86,11 @@ experimental-features-newtab-widget-weather-description = Tenha uma visão clara
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = Imagem do dia
+experimental-features-newtab-widget-picture-of-the-day-description = Dê um toque diário de inspiração. Receba uma nova imagem, descubra algo interessante e altere o fundo de tela rapidamente. <a data-l10n-name="connect">Compartilhe sua opinião</a>
 # Clocks Widget
 experimental-features-newtab-widget-clocks =
     .label = Relógios
+experimental-features-newtab-widget-clocks-description = Adicione até quatro relógios com apelidos personalizados para acompanhar a hora em lugares importantes para você. <a data-l10n-name="connect">Compartilhar opinião</a>
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Pesquisa semântica no histórico

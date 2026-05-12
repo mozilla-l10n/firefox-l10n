@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Wird in einem neuen Tab geöffnet
+moz-box-item-reorder-handle =
+    .aria-label = Element mit Strg+Umschalt+Pfeil nach oben oder Strg+Umschalt+Pfeil nach unten neu anordnen
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Ordnen Sie { $item } mit Strg+Umschalt+Pfeil nach oben oder Strg+Umschalt+Pfeil nach unten neu an

@@ -117,6 +117,10 @@ sidebar-item-session-history = Sitzungsverlauf
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Chronik der Sitzung anzeigen
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Sitzungsverlaufsdiagramm nicht verfügbar
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Das Ziel unterstützt die Anzeige von Sitzungsverlaufsdiagrammen nicht
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Warnsymbol

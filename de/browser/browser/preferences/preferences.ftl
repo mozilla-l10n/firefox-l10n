@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Profil auswählen
 preferences-copy-profile-button = Kopieren
+tabs-browsing-section =
+    .heading = Tabs und Surfen
+pane-tabs-browsing-title = Tabs und Surfen
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Tabs
 tabs-opening-heading =
@@ -1288,6 +1292,7 @@ account-placeholder =
     .description = Melden Sie sich an, um Ihre Daten sicher und verschlüsselt zwischen Ihren Geräten zu synchronisieren.
 account-sync-section =
     .heading = Konto und Synchronisierung
+pane-account-sync-title = Konto und Synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1746,6 +1751,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Einstellungen für Passwörter und Autovervollständigung
 pane-passwords-autofill-title = Passwörter und Autovervollständigung
 preferences-passwords-autofill-header =
     .heading = Passwörter und Autovervollständigung
