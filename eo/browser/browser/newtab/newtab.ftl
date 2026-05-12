@@ -363,6 +363,10 @@ newtab-custom-widget-lists-toggle =
     .label = Listoj
 newtab-custom-widget-timer-toggle =
     .label = Tempumilo
+newtab-custom-widget-sports-toggle =
+    .label = Futbala mondpokalo
+newtab-custom-widget-clock-toggle =
+    .label = Horloĝo
 newtab-custom-widget-section-title = Komponantoj
 newtab-custom-widget-section-toggle =
     .label = Komponantoj
@@ -501,6 +505,9 @@ newtab-weather-menu-change-location = Ŝanĝi lokon
 newtab-weather-change-location-search-input-placeholder =
     .placeholder = Serĉi lokon
     .aria-label = Serĉi lokon
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Uzi nunan pozicion
 newtab-weather-menu-weather-display = Montro de vetero
 newtab-weather-todays-forecast = Hodiaŭa veterprognozo
 newtab-weather-see-full-forecast = Vidi kompletan prognozon
@@ -589,8 +596,16 @@ newtab-topic-selection-button-pick-interests = Elekti viajn interesojn
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Sekvi
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Sekvi { $topic }
 newtab-section-following-button = Sekvata
 newtab-section-unfollow-button = Ne plu sekvi
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Sekvata: Ne plu sekvi { $topic }
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Personecigu vian informan fonton
 newtab-section-follow-highlight-subtitle = Sekvu viajn interesojn por vidi pli da tio, kion vi ŝatas.
@@ -602,6 +617,22 @@ newtab-section-follow-highlight-subtitle = Sekvu viajn interesojn por vidi pli d
 newtab-section-block-button = Bloki
 newtab-section-blocked-button = Blokita
 newtab-section-unblock-button = Malbloki
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Sekvi { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Ne plu sekvi { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Bloki { $topic }
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Malbloki { $topic }
 
 ## Confirmation modal for blocking a section
 
@@ -632,6 +663,12 @@ newtab-custom-wallpaper-cta = Provi
 newtab-new-user-custom-wallpaper-title = Elekti ekranfonon por personecigi vian { -brand-product-name }
 newtab-new-user-custom-wallpaper-subtitle = Igu ĉiun novan langeton propra per personecigitaj ekranfonoj kaj koloroj.
 newtab-new-user-custom-wallpaper-cta = Provu nun
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Novaj ekranfonoj ĵus alvenis
+newtab-wallpaper-feature-highlight-subtitle = Elektu vian plej ŝatatan kaj personecigu ĉiun novan langeton.
+newtab-wallpaper-feature-highlight-cta = Elekti ekranfonon
 
 ## Strings for download mobile highlight
 
@@ -701,6 +738,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Plenumitaj ({ $number })
+newtab-widget-lists-celebration-headline = Bona laboro
+newtab-widget-lists-celebration-subhead = Ĉio farita
 newtab-widget-task-list-menu-copy = Kopii
 newtab-widget-lists-menu-edit = Modifi nomon de listo
 newtab-widget-lists-menu-edit2 =
@@ -721,17 +760,26 @@ newtab-widget-lists-input-menu-move-up = Movi supren
 newtab-widget-lists-input-menu-move-down = Movi malsupren
 newtab-widget-lists-input-menu-delete = Forigi
 newtab-widget-lists-input-menu-edit = Modifi
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Modifi elementon
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Krei novan liston
 newtab-widget-lists-name-label-default =
     .label = Listo de taskoj
+newtab-widget-lists-name-label-checklist =
+    .label = Listo de taskoj
 newtab-widget-lists-name-placeholder-default =
     .placeholder = Listo de taskoj
+newtab-widget-lists-name-placeholder-checklist2 =
+    .placeholder = Listo de taskoj
+    .aria-label = Modifi nomon de listo
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
     .placeholder = Nova listo
     .aria-label = Modifi nomon de listo
+newtab-widget-lists-name-placeholder-checklist =
+    .placeholder = Listo de taskoj
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new =
     .placeholder = Nova listo
@@ -751,7 +799,13 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Plejetigi komponantojn
     .aria-label = Faldi ĉiujn komponantojn en kompakta grando
+newtab-widget-section-menu-button =
+    .title = Menuo de komponantoj
+    .aria-label = Malfermi menuon de komponantoj
+newtab-widget-section-menu-hide-all = Kaŝi komponantojn
+newtab-widget-section-menu-learn-more = Pli da informo
 newtab-widget-section-feedback = Rakontu al ni vian opinion
+newtab-widget-lists-name-default = Listo de taskoj
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -797,6 +851,43 @@ newtab-promo-card-cta = Pli da informo
 newtab-promo-card-dismiss-button =
     .title = Ignori
     .aria-label = Ignori
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Komenci unuminutan tempumilon
+           *[other] Komenci { $minutes } minutan tempumilon
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Paŭzigi tempumilon
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] unu minuto
+           *[other] { $minutes } minutoj
+        }
+newtab-widget-timer-decrease-min =
+    .title = Redukti je 1 minuto
+newtab-widget-timer-increase-min =
+    .title = Aldoni 1 minuton
+newtab-widget-timer-mode-group =
+    .aria-label = Tempumila reĝimo
+
+## Sports widget
+
+newtab-sports-widget-menu-follow-teams = Sekvi teamojn
+newtab-sports-widget-menu-view-upcoming = Montri venontajn
+newtab-sports-widget-menu-view-results = Montri rezultojn
+newtab-sports-widget-menu-learn-more = Pli da informo
+newtab-sports-widget-get-updates = Ricevu informojn pri ludoj kaj pli.
+newtab-sports-widget-follow-teams =
+    .label = Sekvi teamojn
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

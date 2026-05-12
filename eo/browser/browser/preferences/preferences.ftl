@@ -1101,6 +1101,9 @@ home-prefs-timer-header =
 # Sports is a widget on New Tab showing sports scores and schedules.
 home-prefs-sports-widget-header =
     .label = Sporto
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Horloĝo
 # "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
 home-prefs-support-firefox-header =
     .label = Helpi { -brand-product-name }
@@ -1114,6 +1117,11 @@ home-prefs-manage-topics-link2 =
 home-prefs-choose-wallpaper-link = Elekti ekranfonon
 home-prefs-choose-wallpaper-link2 =
     .label = Elekti ekranfonon
+# Informational message bar that appears in the Firefox Home section when the options are disabled.
+# The user must select Firefox Home as their homepage for either new tabs or new windows to enable
+# the features in settings.
+home-prefs-firefox-home-disabled-notice =
+    .message = Por uzi tiujn ĉi trajtojn, agordu novajn lagetojn aŭ fenestrojn en { -firefox-home-brand-name }.
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -1227,6 +1235,7 @@ search-edit-engine =
     .label = Modifi
     .accesskey = M
 search-find-more-link = Serĉi pli da serĉiloj
+search-filtering-for-add-engine = Aldoni serĉilon
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duobligita kategoria vorto
@@ -1283,6 +1292,7 @@ account-placeholder =
     .description = Komencu seancon por gardi viajn datumojn privataj, ĉifritaj kaj spegulitaj inter aparatoj.
 account-sync-section =
     .heading = Konto kaj spegulado
+pane-account-sync-title = Konto kaj spegulado
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1640,6 +1650,12 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = Pli da informo
 forms-windows-sso-desc = Administri kontojn en la agordoj de via aparato
 windows-passkey-settings-label = Administri alirŝlosiloj en la sistemaj agordoj
+
+## Privacy Panel Settings
+
+privacy-panel-settings-header =
+    .label = Panelo de privatecaj agordoj
+    .description = Ricevu helpon de { -brand-short-name } por protekti viajn informojn en la reto.
 
 ## OS Authentication dialog
 
