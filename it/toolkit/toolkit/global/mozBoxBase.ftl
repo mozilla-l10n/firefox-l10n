@@ -10,3 +10,4 @@ moz-box-item-reorder-handle =
 #   $item (string) - The label of the moz-box-item being reordered.
 moz-box-item-reorder-handle-named =
     .aria-label = Riordina “{ $item }” utilizzando Ctrl+Maiusc+FrecciaSu o Ctrl+Maiusc+FrecciaGiù
+
