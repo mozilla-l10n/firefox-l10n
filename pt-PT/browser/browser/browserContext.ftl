@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Enviar para Telemóvel
     .accesskey = n
+main-context-menu-send-to-mobile-enable-sync2 = Ative a sincronização para enviar um separador
+main-context-menu-send-to-mobile-connect-phone2 = Ligar o seu telemóvel
+main-context-menu-send-to-mobile-device-missing2 = Não vê o seu dispositivo?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = Ative a sincronização para enviar um separador
