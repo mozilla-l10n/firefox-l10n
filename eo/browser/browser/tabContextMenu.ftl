@@ -109,9 +109,9 @@ tab-context-new-group =
 tab-context-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Malfermi denove fermitan langeton
-            [one] Malfermi denove fermitan langeton
-           *[other] Malfermi denove fermitajn langetojn
+            [1] Denove malfermi fermitan langeton
+            [one] Denove malfermi fermitan langeton
+           *[other] Denove malfermi fermitajn langetojn
         }
     .accesskey = f
 tab-context-close-n-tabs =

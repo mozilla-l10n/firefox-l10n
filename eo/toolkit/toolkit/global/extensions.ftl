@@ -149,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Tiuj ĉi estas kutime konektitaj aparatoj, ekzemple aŭdaj sinteziloj, sed ili povus ankaŭ esti inkluzivitaj en via komputilo.
     
     Kutime retejoj ne havas la permeson aliri aparatojn MIDI. Malĝusta uzo povus difekti ion aŭ minaci sekurecon.
+webext-site-perms-description-gated-perms-webserial =
+    Tiuj ĉi estas aparatoj, kiel mikrokomputiloj, presiloj 3D kaj aliaj, kiuj konektiĝas per USB, seria konekto aŭ Bluetooth.
+    
+    Vi povos elekti kiujn aparatojn la retejo povas aliri.
+    
+    Retejoj normale ne povas aliri seriajn aparatojn. Malĝusta uzo povus difekti ion aŭ minaci sekurecon.
 webext-site-perms-description-gated-perms-serial =
     Tiuj ĉi estas aparatoj, kiel mikrokomputiloj, presiloj 3D kaj aliaj, kiuj konektiĝas per USB aŭ per seria konekto.
     

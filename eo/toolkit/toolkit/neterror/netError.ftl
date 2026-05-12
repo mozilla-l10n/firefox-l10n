@@ -199,6 +199,10 @@ fp-neterror-http-error-page-intro = <strong>{ $hostname }</strong> respondis per
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = La servilo ĉe <strong>{ $hostname }</strong> respondis per eraro: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> sendis mesaĝkapon kun malplenaj signoj, ne permesataj de retaj sekurecaj normoj.
+fp-neterror-content-encoding-intro = La paĝo kiun vi klopodas vidi ne povas esti montrata ĉar ĝi uzas nevalidan aŭ nesubtenatan kompaktigadon.
 fp-neterror-coop-coep-intro = { -brand-short-name } ne ŝargis tiun ĉi paĝon ĉar ŝajne la sekurecaj agordoj ne kongruas kun tiuj de la antaŭa paĝo.
 fp-neterror-blocked-by-policy-intro = Via organizo blokis la aliron al tiu ĉi paĝo aŭ al tiu ĉi retejo.
 fp-neterror-http-auth-disabled-intro = Iu, kiu pretendas esti la retejo, povus klopodi ŝteli aferojn, kiel vian nomon de uzanto, pasvorton aŭ retpoŝtan adreson.

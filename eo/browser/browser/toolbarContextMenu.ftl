@@ -25,8 +25,8 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
-            [1] Malfermi denove fermitan langeton
-           *[other] Malfermi denove fermitajn langetojn
+            [1] Denove malfermi fermitan langeton
+           *[other] Denove malfermi fermitajn langetojn
         }
     .accesskey = M
 toolbar-context-turn-on-vertical-tabs =

@@ -118,9 +118,9 @@ sidebar-item-session-history = Sessionshistorik
 session-history-entry-info-button-title =
     .title = Visa sessionshistorikdata
 # Header for the Session History page when session history diagrams are unavailable
-session-history-unavailable = Sessionshistorikdiagram är inte tillgängligt
+session-history-unavailable = Diagram över sessionshistorik är inte tillgängligt
 # Text displayed for when the target does not support showing session history diagrams
-session-history-target-unsupported = Målet har inte stöd för visning av sessionshistorikdiagram
+session-history-target-unsupported = Målet stöder inte visning av diagram över sessionshistorik
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Varningsikon

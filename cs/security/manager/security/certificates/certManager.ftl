@@ -93,7 +93,7 @@ exception-mgr-permanent =
     .label = Uložit tuto výjimku trvale
     .accesskey = U
 pk11-bad-password = Zadané heslo není správné.
-pkcs12-decode-err = Soubor nemohl být dekódován. Buď není ve formátu PCKS #12, nebo je porušen nebo zadané heslo není správné.
+pkcs12-decode-err = Soubor nemohl být dekódován. Buď není ve formátu PKCS #12, nebo je porušen nebo zadané heslo není správné.
 pkcs12-unknown-err-restore = Soubor PKCS #12 nemohl být obnoven z neznámých příčin.
 pkcs12-unknown-err-backup = Soubor PKCS #12 nemohl být zálohován z neznámých důvodů.
 pkcs12-unknown-err = Operace PKCS #12 z neznámých důvodů selhala.
@@ -109,6 +109,7 @@ choose-p12-restore-file-dialog = Soubor s certifikátem pro import
 ## Import certificate(s) file dialog
 
 file-browse-certificate-spec = Soubory s certifikáty
+import-ca-certs-prompt = Vyberte soubor obsahující certifikát(y) od CA, který se má naimportovat
 import-email-cert-prompt = Vyberte soubor obsahující poštovní certifikát, který se má naimportovat
 
 ## For editing certificates trust
@@ -175,7 +176,7 @@ add-exception-no-cert-long = Získání stavu identifikace pro tento server se n
 save-cert-as = Uložit certifikát do souboru
 cert-format-base64 = Certifikát typu X.509 (PEM)
 cert-format-base64-chain = Certifikát typu X.509 s řetězem (PEM)
-cert-format-der = Certifikát typu X.509  (DER)
+cert-format-der = Certifikát typu X.509 (DER)
 cert-format-pkcs7 = Certifikát typu X.509 (PKCS#7)
 cert-format-pkcs7-chain = Certifikát typu X.509 s řetězem (PKCS#7)
 write-file-failure = Chyba souboru

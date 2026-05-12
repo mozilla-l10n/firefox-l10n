@@ -268,3 +268,6 @@ places-search-downloads =
 ##
 
 places-locked-prompt = La paĝosigna kaj historia sistemo ne estos aktiva ĉar unu el la dosieroj de { -brand-short-name } estas uzata de alia programo. Tiun problemon povas okazigi sekureca programo.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+places-share-folder =
+    .label = Dividi dosierujon
