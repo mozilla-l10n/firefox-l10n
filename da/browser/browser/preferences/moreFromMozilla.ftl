@@ -52,3 +52,17 @@ more-from-moz-mdn-title2 = { -mdn-brand-name }
 ## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
 
 more-from-moz-thunderbird-title = { -thunderbird-brand-name }
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-monitor-box-link =
+    .label = Få { -monitor-brand-short-name }
+more-from-moz-mozilla-vpn-box-link =
+    .label = Få { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Få { -relay-brand-short-name }
+more-from-moz-thunderbird-box-link =
+    .label = Få { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Prøv { -solo-ai-brand-name }

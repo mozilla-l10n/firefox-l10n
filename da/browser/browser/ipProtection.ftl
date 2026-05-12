@@ -102,6 +102,7 @@ ipprotection-location-country-button = Placering: { $country }
 ipprotection-locations-subview =
     .title = Vælg placering
 ipprotection-locations-subview-description = Vælg en anden placering at browse fra.
+ipprotecion-locations-subview-recommended-label = Anbefalet
 
 ## VPN paused state
 
@@ -238,6 +239,7 @@ vpn-paused-alert-title = VPN sat på pause
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Du har brugt alle { $maxUsage } GB af dine VPN-data. Mængden af tilgængelig data nulstilles næste måned.
+vpn-error-page-new-session = Start en ny session
 vpn-paused-alert-close-tabs-button = Luk alle faneblade
 vpn-paused-alert-continue-wo-vpn-button = Fortsæt uden VPN
 vpn-error-alert-title = VPN virker ikke lige nu.

@@ -66,6 +66,10 @@ pane-ai-controls-title = AI-indstillinger
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
 pane-languages-title = Sprog
+category-languages =
+    .tooltiptext = { pane-languages-title }
+preferences-languages-header =
+    .heading = { pane-languages-title }
 pane-experimental-title = { -brand-short-name }-eksperimenter
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperimenter
@@ -73,6 +77,8 @@ pane-experimental-subtitle = Fortsæt på eget ansvar
 pane-experimental-search-results-header = { -brand-short-name }-eksperimenter: Fortsæt på eget ansvar
 pane-experimental-description2 = Ændring af avancerede indstillinger for opsætning kan påvirke ydelse eller sikkerhed for { -brand-short-name }.
 settings-pane-labs-title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
 settings-category-labs =
     .tooltiptext = { -firefoxlabs-brand-name }
 pane-experimental-description4 = Prøv vores eksperimentelle funktioner! De er under udvikling og bliver ændret løbende, hvilket kan påvirke, hvordan { -brand-short-name } virker. Vi modtager kun data om din brug af disse funktioner, hvis du har sagt ja til at dele <a data-l10n-name="data-collection">tekniske data og data om brug</a>.
@@ -796,6 +802,13 @@ browsing-cfr-features =
 browsing-cfr-recommendations-learn-more = Læs mere
 browsing-group =
     .label = Browsing
+
+## Accessibility page
+
+preferences-accessibility-header =
+    .heading = Tilgængelighed
+preferences-default-zoom-select =
+    .aria-label = Standard-zoom
 
 ## General Section - Proxy
 
@@ -2322,6 +2335,8 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-label = Udvidet beskyttelse mod sporing er slået til
+security-privacy-status-update-button-label =
+    .label = Opdater { -brand-short-name }
 security-privacy-issue-card =
     .heading = Sikkerhedsadvarsler
 issue-card-reset-button =

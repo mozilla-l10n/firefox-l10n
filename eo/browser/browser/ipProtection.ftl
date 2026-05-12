@@ -27,12 +27,18 @@ ipprotection-feature-introduction-title = Ni prezentas VPN, nun integrita en via
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn.
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
+ipprotection-feature-introduction-link-text-privacy = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu 5 lokojn kie vi retumos pli private.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian lokon kaj protekti viajn datumojn, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en privata fenestro.
+# Used for callout shown on login to public wi-fi through a captive portal
+ipprotection-feature-introduction-title-captive-portal = Ĉu vi uzas publikan Wi-Fi? Provu la integritan VPN de { -brand-product-name }.
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal = Ricevu <a data-l10n-name="learn-more-vpn">ekstan privatecon</a> per elekto de 5 lokoj por kaŝi el kie vi retumas.
 ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via loko, eĉ dum vi estas en publika Wi-Fi.
 ipprotection-feature-introduction-button-primary = Antaŭen
 ipprotection-feature-introduction-button-secondary-not-now = Ne nun
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne, dankon
+ipprotection-feature-introduction-button-secondary-remove = Forigi VPN el la ilaro
 
 ## Site settings callout
 
@@ -40,22 +46,33 @@ ipprotection-site-settings-callout-title = Elektu, por kiuj retejoj uzi VPN
 ipprotection-site-settings-callout-subtitle = Malŝaltu VPN por specifa retejo kaj ni memoros tion por la venonta vizito.
 ipprotection-site-settings-callout-button = Mi komprenis
 
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Nova: ŝanĝu vian pozicion
+ipprotection-location-selection-callout-description = <a data-l10n-name="learn-more-vpn">La integrita VPN de { -brand-product-name }</a> permesas al vi elekti inter 5 retumaj lokoj, aŭ elekti la plej rapidan por vi.
+ipprotection-location-selection-callout-primary-button = Provi
+ipprotection-location-selection-callout-secondary-button = Ignori
+
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian lokon</a> dum retumo per { -brand-product-name }.
+unauthenticated-private-location-message = Tio ĉi helpas vin <a data-l10n-name="learn-more-vpn">teni vian pozicion privata</a> en { -brand-product-name }.
+unauthenticated-choose-location-message = Elektu inter 5 lokoj aŭ permesu al { -brand-product-name } elekti la plej rapidan.
 unauthenticated-hide-location-message-2 = Kaŝu vian lokon dum vi retumas per { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj.
 unauthenticated-get-started = Unuaj paŝoj
+unauthenticated-terms-of-service-privacy-notice = Se vi daŭrigas, vi akceptas la <a data-l10n-name="vpn-terms-of-service">kondiĉojn de uzo</a> kaj <a data-l10n-name="vpn-privacy-notice">rimarkon pri privateco</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Ŝalti VPN por tiu ĉi retejo
     .aria-label = VPN ŝaltita por tiu ĉi retejo
 site-exclusion-toggle-disabled-1 =
     .label = Ŝalti VPN por tiu ĉi retejo
     .aria-label = VPN malŝaltita por tiu ĉi retejo
+site-exclusion-toggle-description = Ĉu la retejo ne funckias? Provu malŝalti la VPN.
 ipprotection-settings-link =
     .label = Agordoj
 
@@ -74,6 +91,22 @@ ipprotection-button-turn-vpn-off-excluded-site = Malŝalti VPN ĉie
 ipprotection-button-turn-vpn-on = Ŝalti VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Ŝalto…
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Loko: Rekomendita
+ipprotection-recommended-location-description = { -brand-product-name } trovas la plej rapidan lokon
+ipprotection-recommended-location-badge = NOVA
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Loko: { $country }
+ipprotection-locations-subview =
+    .title = Elekti lokon
+ipprotection-locations-subview-description = Elektu alian lokon, el kie retumi.
+ipprotecion-locations-subview-recommended-label = Rekomendita
+ipprotection-locations-subview-recommended-description = Tio ĉi trovas la plej rapidan lokon
 
 ## VPN paused state
 

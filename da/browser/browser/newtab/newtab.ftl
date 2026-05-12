@@ -833,6 +833,7 @@ newtab-sports-widget-menu-learn-more = Læs mere
 newtab-sports-widget-choose-wallpaper =
     .label = Vælg en baggrund
 newtab-sports-widget-skip = Spring over
+newtab-sports-widget-cancel = Annuller
 newtab-sports-widget-done-button =
     .label = Færdig
 # Variables:
@@ -866,6 +867,7 @@ newtab-activation-window-message-values-focus-header = Denne plads følger dine 
 
 ## Strings for the Clock widget
 
+newtab-clock-widget-menu-learn-more = Læs mere
 newtab-clock-widget-button-add-clock = Tilføj
 newtab-clock-widget-button-cancel = Annuller
 newtab-clock-widget-button-back =
