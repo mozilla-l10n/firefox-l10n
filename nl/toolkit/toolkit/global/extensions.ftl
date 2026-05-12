@@ -149,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Dit zijn meestal plug-inapparaten zoals audiosynthesizers, maar ze kunnen ook in uw computer zijn ingebouwd.
     
     Websites hebben normaal gesproken geen toegang tot MIDI-apparaten. Onjuist gebruik kan schade veroorzaken of de beveiliging in gevaar brengen.
+webext-site-perms-description-gated-perms-webserial =
+    Dit zijn apparaten zoals microcontrollers, 3D-printers en andere apparaten die verbinding maken via USB, seriële poorten of Bluetooth.
+    
+    U kunt kiezen tot welke apparaten de website toegang heeft.
+    
+    Websites hebben normaal gesproken geen toegang tot seriële apparaten. Onjuist gebruik kan schade veroorzaken of de beveiliging in gevaar brengen.
 webext-site-perms-description-gated-perms-serial =
     Dit zijn apparaten zoals microcontrollers, 3D-printers en andere apparaten die verbinding maken via USB of seriële poorten.
     

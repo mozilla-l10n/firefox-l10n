@@ -119,6 +119,8 @@ session-history-entry-info-button-title =
     .title = Sessiegeschiedenis tonen
 # Header for the Session History page when session history diagrams are unavailable
 session-history-unavailable = Sessiegeschiedenisdiagram niet beschikbaar
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Doel ondersteunt het tonen van sessiegeschiedenisdiagrammen niet
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Waarschuwingspictogram
