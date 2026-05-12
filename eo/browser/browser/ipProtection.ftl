@@ -107,6 +107,10 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Elektu alian lokon, el kie retumi.
 ipprotecion-locations-subview-recommended-label = Rekomendita
 ipprotection-locations-subview-recommended-description = Tio ĉi trovas la plej rapidan lokon
+ipprotection-locations-subview-promo =
+    .heading = Protektu vin iom pli per { -mozilla-vpn-brand-name }
+    .message = Elektu inter 300+ lokoj kaj protektu ĉiujn viajn apojn en maksimume 5 aparatoj.
+ipprotection-locations-subview-promo-button = Elŝuti { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
@@ -117,6 +121,10 @@ ipprotection-connection-status-paused-description = Vi elĉerpis la { $maxUsage 
 upgrade-vpn-title = Ricevu aldonan protekton, krom tiun de la retumilo.
 upgrade-vpn-description = Elektu la lokon de via VPN, uzu VPN por ĉiuj viaj apoj en maksimume 5 aparatoj kaj restu sekura en iu ajn reto, ĉu hejme ĉu en publika Wi-Fi.
 upgrade-vpn-button = Provu { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPN paŭzigita
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
 
 ## Messages and errors
 
@@ -166,12 +174,20 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Vi preskaŭ elĉ
 ip-protection-description =
     .label = VPN
     .description = Integrita VPN por plibonigi vian privatecon dum vi retumas per { -brand-short-name }.
+ip-protection-description-1 =
+    .label = Integrita VPN
+    .description = Ricevu ekstran privatecon per kaŝo de via pozicio dum vi retumas.
 ip-protection-learn-more = Pli da informo
 # Variables:
 #   $maxUsage (number) - The bandwidth limit of free VPN, in GB
 ip-protection-not-opted-in-2 =
     .heading = Provu la integritan VPN de { -brand-short-name }
     .message = Kaŝu vian lokon dum vi retumas per { -brand-short-name }. Ricevu ĉiumonate { $maxUsage } GB da senpagaj datumoj VPN.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-3 =
+    .heading = Provu la integritan VPN de { -brand-short-name }
+    .message = Retumu kun aldonaj protektoj per kaŝo de via pozicio. Ricevu ĉiumonate { $maxUsage } GB da senpagaj VPN datumoj.
 ip-protection-not-opted-in-button = Unuaj paŝoj
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -191,6 +207,9 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .label = Ricevu eĉ pli da protekto krom tiu de { -brand-short-name } per { -mozilla-vpn-brand-name }.
     .description = Elektu personecitigajn lokojn por VPN kaj aldonu protekton al ĉiuj viaj apoj en maksimume kvin aparatoj, ĉu hejme ĉu en publika Wi-Fi.
+ip-protection-vpn-upgrade-link-1 =
+    .label = Protektu vin iom pli per { -mozilla-vpn-brand-name }
+    .description = Elektu inter 300+ lokoj kaj protektu ĉiujn viajn apojn en maksimume 5 aparatoj.
 
 ## IP Protection dialogs
 
@@ -247,6 +266,12 @@ vpn-paused-alert-title = VPN paŭzigita
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Vi elĉerpis la { $maxUsage } GB de via datumoj en VPN. Venontmonate ili disponeblos denove.
+vpn-error-page-continue-description = Elektu kiel daŭrigi sen VPN
+vpn-error-page-keep-browsing = Plu retumi en tiu ĉi seanco
+vpn-error-page-new-session = Komenci novan seancon
 vpn-paused-alert-close-tabs-button = Fermi ĉiujn langetojn
 vpn-paused-alert-continue-wo-vpn-button = Daŭrigi sen VPN
 vpn-error-alert-title = La VPN ne funkcias nun.

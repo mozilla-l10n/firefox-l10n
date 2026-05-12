@@ -678,6 +678,27 @@ pdfjs-views-manager-pages-status-action-button-label = Håndter
 pdfjs-views-manager-pages-status-copy-button-label = Kopier
 pdfjs-views-manager-pages-status-cut-button-label = Klip
 pdfjs-views-manager-pages-status-delete-button-label = Slet
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 side klippet
+       *[other] { $count } sider klippet
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be copied.
+pdfjs-views-manager-pages-status-undo-copy-label =
+    { $count ->
+        [one] 1 side kopieret
+       *[other] { $count } sider kopieret
+    }
+# Variables:
+#   $count (Number) - the number of selected pages to be deleted.
+pdfjs-views-manager-pages-status-undo-delete-label =
+    { $count ->
+        [one] 1 side slettet
+       *[other] { $count } sider slettet
+    }
 pdfjs-views-manager-status-undo-button-label = Fortryd
 pdfjs-views-manager-status-done-button-label = Færdig
 pdfjs-views-manager-status-close-button =

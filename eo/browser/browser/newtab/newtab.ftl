@@ -899,7 +899,11 @@ newtab-widget-timer-celebration-message-break = Ĉu preta koncentriĝi?
 newtab-sports-widget-menu-follow-teams = Sekvi teamojn
 newtab-sports-widget-menu-view-upcoming = Montri venontajn
 newtab-sports-widget-menu-view-results = Montri rezultojn
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Ĉefaj datoj
 newtab-sports-widget-menu-learn-more = Pli da informo
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Akompanu la futbalan mondpokalon
 newtab-sports-widget-get-updates = Ricevu informojn pri ludoj kaj pli.
 newtab-sports-widget-follow-teams =
     .label = Sekvi teamojn
@@ -917,6 +921,11 @@ newtab-custom-widget-live-refresh =
 newtab-sports-widget-upcoming = Venontaj
 newtab-sports-widget-results = Rezultoj
 newtab-sports-widget-semi-finals = Duonfinaloj
+newtab-sports-widget-bronze-finals = BRONZA FINALO
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finalo
+newtab-sports-widget-delayed = Malfruigita
+newtab-sports-widget-postponed = Prokrastita
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
