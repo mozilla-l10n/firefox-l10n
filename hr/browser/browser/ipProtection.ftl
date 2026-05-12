@@ -90,7 +90,7 @@ ipprotection-connection-status-network-error-title = Provjeri internetsku vezu
 ipprotection-connection-status-network-error-description = Poveži se na internet, a zatim pokušaj uključiti VPN.
 ipprotection-connection-status-blocked-error-title = VPN nije dostupan
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Približavaš se ograničenju VPN-a
@@ -140,11 +140,11 @@ ip-protection-exclusions-desc = Koristi VPN za sve web-stranice osim onih na ovo
 ## IP Protection Bandwidth
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB od { $maxUsage } GB preostalo ovaj mjesec
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb = { $usageLeft } GB od { $maxUsage } GB preostalo
 # Variables

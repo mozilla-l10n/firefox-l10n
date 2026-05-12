@@ -136,7 +136,7 @@ ipprotection-connection-status-network-error-description = დაუკავშ
 ipprotection-connection-status-blocked-error-title = VPN მიუწვდომელია
 ipprotection-connection-status-blocked-error-description = ადგილობრივი სამართალი გვიზღუდავს VPN-მომსახურებას ამ მხარეში. <a data-l10n-name="learn-more-link">ვრცლად</a>
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = იწურება თქვენი VPN-მოცულობა
@@ -160,10 +160,10 @@ ipprotection-bandwidth-upgrade-text = თავადვე შეარჩი�
 ## IP Protection bandwidth warning infobar
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>იწურება თქვენი VPN-მოცულობა.</strong> დარჩენილია { $usageLeft } ᲒᲑ. მოცულობა აღდგება შემდეგი თვიდან.
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>VPN-მოცულობა თითქმის ამოიწურა.</strong> დარჩენილია { $usageLeft } ᲒᲑ. როგორც კი ბოლომდე გახარჯავთ, თქვენი VPN შეჩერდება მომდევნო თვის პირველ რიცხვამდე, სანამ მოცულობა ისევ არ აღდგება.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
@@ -220,11 +220,11 @@ ip-protection-exclusions-desc = გამოიყენეთ VPN ყველ�
 ## IP Protection Bandwidth
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = ამ თვეში დარჩენილია { $usageLeft } ᲒᲑ, სულ { $maxUsage } ᲒᲑ
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb = დარჩა { $usageLeft } ᲒᲑ, სულ { $maxUsage } ᲒᲑ
 # Variables

@@ -93,7 +93,7 @@ ipprotection-connection-status-network-error-description = Ta connectescha cun l
 ipprotection-connection-status-blocked-error-title = Il VPN n’è betg disponibel
 ipprotection-connection-status-blocked-error-description = Leschas localas n’ans permettan betg da porscher il servetsch da VPN en questa regiun. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Ti cuntanschas prest la limita dal VPN
@@ -117,10 +117,10 @@ ipprotection-bandwidth-upgrade-text = Tscherna ina posiziun VPN e protegia tut t
 ## IP Protection bandwidth warning infobar
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Ti cuntanschas prest tia limita dal VPN.</strong> Ti has anc { $usageLeft } GB. Tia quota da datas vegn reinizialisada l’entschatta dal mais che vegn.
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Ti n’has prest naginas datas VPN pli.</strong> I restan anc { $usageLeft } GB. Cura che ti las has duvrà dal tuttafatg vegn tes VPN a pussar enfin che la quota da datas vegn reinizialisada l’emprim di dal mais che vegn.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)

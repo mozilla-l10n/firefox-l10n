@@ -323,7 +323,7 @@ search-one-offs-actions =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 quickactions-cmd-addons2 = పొడగింతలు
 quickactions-cmd-bookmarks = ఇష్టాంశాలు

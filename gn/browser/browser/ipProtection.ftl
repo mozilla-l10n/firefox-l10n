@@ -135,7 +135,7 @@ ipprotection-connection-status-network-error-description = Eike ñandutípe, up�
 ipprotection-connection-status-blocked-error-title = VPN ndojeporukuaái
 ipprotection-connection-status-blocked-error-description = Umi léi tendaguáva nomboykéi pe VPN mba’eporu ko tenda guasúpe. <a data-l10n-name="learn-more-link">Eikuaave</a>
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Og̃uahẽma VPN hu’ãme
@@ -159,10 +159,10 @@ ipprotection-bandwidth-upgrade-text = Eiporavo peteĩ VPN rendaite ha emo’ã o
 ## IP Protection bandwidth warning infobar
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Og̃uahẽmahína ne VPN hu’ãme.</strong> Reguereko { $usageLeft } GB hembýva. Mba’ekuaarãita oĩporãjeýta jasy pyahu og̃uahẽtavape.
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Haimetéma opa pe VPN mba’ekuaarã.</strong>Opyta { $usageLeft } GB. Ojeiporupa vove, pe VPN opytáta umi mba’ekuaarã hekopyta peve og̃uahẽvo peteĩha ára jasy oútavape.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
@@ -219,11 +219,11 @@ ip-protection-exclusions-desc = Eiporu VPN opaite ñanduti rogue ha’eỹva ko 
 ## IP Protection Bandwidth
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Oĩntema { $usageLeft } GB { $maxUsage } GB ko jasýpe
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb = Oĩntema { $usageLeft } GB { $maxUsage } GB-gui
 # Variables

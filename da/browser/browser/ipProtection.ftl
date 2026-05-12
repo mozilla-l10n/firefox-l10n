@@ -123,7 +123,7 @@ ipprotection-connection-status-network-error-description = Opret forbindelse til
 ipprotection-connection-status-blocked-error-title = VPN er ikke tilgængelig
 ipprotection-connection-status-blocked-error-description = Lokale love forhindrer os i at tilbyde VPN-tjenester i denne region. <a data-l10n-name="learn-more-link">Læs mere</a>
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Du er tæt på din grænse for VPN
@@ -147,10 +147,10 @@ ipprotection-bandwidth-upgrade-text = Vælg en VPN-placering, og tilføj beskytt
 ## IP Protection bandwidth warning infobar
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Du er tæt på din grænse for VPN.</strong> Du har { $usageLeft } GB tilbage. Grænsen for data nulstilles i starten af næste måned.
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Du løber snart tør for VPN-data.</strong> Du har { $usageLeft } GB tilbage. Når du har brugt alt, bliver din VPN sat på pause, indtil grænsen for data nulstilles i starten af næste måned.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
@@ -196,11 +196,11 @@ ip-protection-exclusions-desc = Brug VPN på alle websteder, undtagen dem på de
 ## IP Protection Bandwidth
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB af { $maxUsage } GB tilbage denne måned
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb = { $usageLeft } GB af { $maxUsage } GB tilbage
 # Variables

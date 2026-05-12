@@ -164,7 +164,7 @@ ipprotection-connection-status-network-error-description = Připojte se k intern
 ipprotection-connection-status-blocked-error-title = VPN není dostupná
 ipprotection-connection-status-blocked-error-description = Místní zákony zakazují poskytovat služby VPN v tomto regionu. <a data-l10n-name="learn-more-link">Zjistit více</a>
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Blížíte se k vyčerpání limitu vaší VPN
@@ -196,10 +196,10 @@ ipprotection-bandwidth-upgrade-text = Vyberte umístění pro VPN a přidejte oc
 ## IP Protection bandwidth warning infobar
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Blížíte se vyčerpání limitu VPN.</strong> Zbývá vám { $usageLeft } GB. Vaše data budou obnovena na začátku příštího měsíce.
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 =
     <strong>Data VPN jste téměř vyčerpali.</strong> Zbývá vám { $usageLeft } GB. Jakmile všechny vyčerpáte, vaše VPN se 
     pozastaví až do začátku příštího měsíce.
@@ -266,11 +266,11 @@ ip-protection-exclusions-desc = Používat VPN pro všechny webové stránky kro
 ## IP Protection Bandwidth
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Zbývá { $usageLeft } GB z { $maxUsage } GB pro tento měsíc
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb = Zbývá { $usageLeft } GB z { $maxUsage } GB
 # Variables

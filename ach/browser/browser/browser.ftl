@@ -147,7 +147,7 @@ search-one-offs-add-engine-menu =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Jwa gin mukato

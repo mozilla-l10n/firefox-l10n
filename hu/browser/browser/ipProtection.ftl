@@ -136,7 +136,7 @@ ipprotection-connection-status-network-error-description = Kapcsolódjon az inte
 ipprotection-connection-status-blocked-error-title = A VPN nem érhető el
 ipprotection-connection-status-blocked-error-description = A helyi törvények miatt nem nyújthatunk VPN-szolgáltatást ebben a régióban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = Közeledik a VPN adatkorlátja
@@ -160,10 +160,10 @@ ipprotection-bandwidth-upgrade-text = Válasszon egy VPN helyet, és növelje az
 ## IP Protection bandwidth warning infobar
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>Közelít a VPN adatkorlátja.</strong> Még { $usageLeft } GB-ja van. Az adathasználata a jövő hónap elején fog nullázódni.
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>Majdnem elfogyott a VPN adatkerete.</strong> Még { $usageLeft } GB-ja van. Amint mindet felhasználta, a VPN szüneteltetve lesz addig, amíg az adathasználata nullázva nem lesz a következő hónap elsején.
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
@@ -220,11 +220,11 @@ ip-protection-exclusions-desc = VPN használata az összes webhelyhez, kivéve a
 ## IP Protection Bandwidth
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB / { $maxUsage } GB maradt ebben a hónapban
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb = { $usageLeft } GB / { $maxUsage } GB maradt
 # Variables

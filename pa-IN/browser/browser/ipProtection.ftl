@@ -136,7 +136,7 @@ ipprotection-connection-status-network-error-description = ਇੰਟਰਨੈੱ
 ipprotection-connection-status-blocked-error-title = VPN ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 ipprotection-connection-status-blocked-error-description = ਇਸ ਖੇਤਰ ਦੇ ਲੋਕਲ ਕਨੂੰਨ ਸਾਨੂੰ VPN ਸੇਵਾ ਦੇਣ ਤੋਂ ਰੋਕਦੇ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-message-bandwidth-warning =
     .heading = ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜੇ ਹੋ
@@ -160,10 +160,10 @@ ipprotection-bandwidth-upgrade-text = ਇੱਕ VPN ਟਿਕਾਣੇ ਨੂੰ
 ## IP Protection bandwidth warning infobar
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-75 = <strong>ਆਪਣੀ VPN ਹੱਦ ਦੇ ਨੇੜੇ ਅੱਪੜ ਰਹੇ ਹੋ।</strong> ਤੁਹਾਡੇ ਕੋਲ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ। ਤੁਹਾਡਾ ਡਾਟਾ ਅਗਲੇ ਮਹੀਨੇ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ ਮੁੜ-ਸੈੱਟ ਹੋਵੇਗਾ।
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 ip-protection-bandwidth-warning-infobar-message-90 = <strong>ਤੁਹਾਡੇ ਕੋਲ VPN ਲਗਭਗ ਖ਼ਤਮ ਹੋ ਗਿਆ ਹੈ।</strong> ਤੁਹਾਡੇ ਕੋਲ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਵਰਤ ਲਿਆ ਤਾਂ ਤੁਹਾਡਾ VPN ਅਗਲੇ ਮਹੀਨੇ ਦੇ ਪਹਿਲੀ ਤਾਰੀਖੀ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਹੋਣ ਤੱਕ ਰੁਕ ਜਾਵੇਗਾ।
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
@@ -220,11 +220,11 @@ ip-protection-exclusions-desc = ਇਸ ਸੂਚੀ ਵਿੱਚ ਦਿੱਤੀ
 ## IP Protection Bandwidth
 
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = ਇਸ ਮਹੀਨੇ ਲਈ { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਹੈ
 # Variables
-#   $usageLeft (number) - The amount of data a user has left in a month (in GB)
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-gb = { $maxUsage } GB ਵਿੱਚੋਂ { $usageLeft } GB ਬਾਕੀ ਬਚਿਆ ਹੈ
 # Variables
