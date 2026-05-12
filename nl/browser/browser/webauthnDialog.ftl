@@ -74,3 +74,7 @@ webauthn-continue = Doorgaan
 #   $origin (String): the domain of the site making the request
 #   $rpId (String): the related domain the passkey is associated with
 webauthn-related-origin-create-header = { $origin } wil een wachtwoordsleutel maken voor { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } wil een wachtwoordsleutel gebruiken voor { $rpId }.
