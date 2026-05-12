@@ -92,7 +92,7 @@ about-debugging-refresh-usb-devices-button = Obnovit seznam zařízení
 # Title of the Setup page.
 about-debugging-setup-title = Nastavení
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Nastavte si způsob připojení pro vzdálení ladění vašeho zařízení.
+about-debugging-setup-intro = Nastavte si způsob připojení pro vzdálené ladění vašeho zařízení.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 =
     { -brand-shorter-name.case-status ->

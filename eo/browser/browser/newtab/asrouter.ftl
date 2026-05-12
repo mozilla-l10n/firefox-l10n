@@ -414,6 +414,14 @@ windows-10-eos-feature-toast-subtitle = Pro populara peto, { -brand-product-name
 windows-10-eos-feature-toast-whats-new-button = Montri la novaĵojn
 windows-10-eos-feature-toast-dismiss-button = Ignori
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft ne plu subtenas Windows 10.</strong> Faru sekurkopion de viaj informoj por pretigi { -brand-product-name } por Windows 11.
+windows-10-eos-global-infobar-primary-button = Ŝalti sekurkopion
+    .accesskey = s
+windows-10-eos-global-infobar-learn-more-link = Pli da informo
+    .accessKey = i
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -442,3 +450,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Elekti kiel norma
 set-default-menu-message-primary-button-variant = Difini kiel ĉefa retumilo
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 retpoŝtajn maskojn, senpage
+relay-50-masks-announcement-subtitle = Vi nun ricevas 50 senpagajn maskojn (anstataŭ 5). Uzu unu por ĉiu konto, por teni vian faktan retpoŝtan adreson privata.
+relay-50-masks-announcement-primary-button = Iri al { -relay-brand-name }
+    .accesskey = I
+relay-50-masks-announcement-secondary-button = Ignori
+    .accesskey = g

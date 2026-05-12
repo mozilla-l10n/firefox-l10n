@@ -421,6 +421,8 @@ quickactions-cmd-inspector = inspektilo, iloj por programistoj
 # Opens about:logins
 quickactions-logins2 = Administri pasvortojn
 quickactions-cmd-logins = legitimiloj, pasvortoj
+# Mutes all tabs playing audio
+quickactions-mute = Silentigi langetojn, kiuj sonas
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administri kromprogramojn
 quickactions-cmd-plugins = kromprogramoj

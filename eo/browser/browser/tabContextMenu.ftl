@@ -153,6 +153,10 @@ tab-context-send-to-mobile-connect-phone =
     .label = Konektu vian telefonon
 tab-context-send-to-mobile-device-missing =
     .label = Ĉu vi ne vidas vian aparaton?
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Krei divideblan ligilon
+    .accesskey = d
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
