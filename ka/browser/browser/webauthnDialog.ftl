@@ -68,3 +68,13 @@ webauthn-allow = ნებართვა
     .accesskey = ნ
 webauthn-block = აკრძალვა
     .accesskey = ა
+webauthn-continue = განაგრძეთ
+    .accesskey = ნ
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } ცდილობს შექმნას საშვი მისამართისთვის { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } ცდილობს გამოიყენოს საშვი მისამართისთვის { $rpId }.
