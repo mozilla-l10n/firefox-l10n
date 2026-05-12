@@ -270,6 +270,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Vyberte profil
 preferences-copy-profile-button = Kopírovat
+tabs-browsing-section =
+    .heading = Panely a prohlížení
+pane-tabs-browsing-title = Panely a prohlížení
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Panely
 tabs-opening-heading =
@@ -318,16 +322,25 @@ warn-on-open-many-tabs =
            *[no-cases] Varovat, pokud by mohlo otevření více panelů aplikaci { -brand-short-name } zpomalit
         }
     .accesskey = d
+switch-to-new-tabs-2 =
+    .label = Při otevírání odkazu nebo média v novém panelu na něj okamžitě přepnout
+    .accesskey = P
 switch-to-new-tabs =
     .label = Přepnout na nový panel otevřený z odkazu
     .accesskey = n
 show-tabs-in-taskbar =
     .label = V hlavním panelu systému Windows zobrazit náhledy panelů
     .accesskey = h
+browser-containers-enabled-2 =
+    .label = Použít kontejnerové panely
+    .accesskey = P
 browser-containers-enabled =
     .label = Povolit kontejnerové panely
     .accesskey = n
 browser-containers-learn-more = Zjistit více
+browser-containers-settings-2 =
+    .label = Spravovat nastavení
+    .accesskey = S
 browser-containers-settings =
     .label = Nastavení…
     .accesskey = v
@@ -383,6 +396,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Zobrazit postranní lištu
     .description = Získejte rychlý přístup k záložkám, panelům z telefonu, AI chatbotu a dalším věcem bez toho, abyste opustili hlavní okno.
+page-navigation-group =
+    .label = Navigace po stránce
 browser-layout-header = Rozložení prohlížeče
 browser-layout-horizontal-tabs =
     .label = Vodorovné panely
@@ -818,6 +833,9 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Instalace
+update-application-auto-2 =
+    .label = Instalovat aktualizace automaticky (doporučeno)
+    .accesskey = I
 update-history =
     .label = Zobrazit historii aktualizací…
     .accesskey = h
@@ -958,6 +976,10 @@ performance-default-content-process-count =
     .label = { $num } (výchozí)
 performance-group =
     .label = Výkon
+performance-use-recommended-settings-checkbox-2 =
+    .label = Použít doporučené nastavení výkonu
+    .description = Tato nastavení jsou přizpůsobena vašemu hardwaru a operačnímu systému.
+    .accesskey = v
 
 ## Accessibility page
 
@@ -992,6 +1014,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Psaním vyhledávat text na stránce
     .accesskey = x
+settings-media-group =
+    .label = Média
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Používat Obraz v obraze
+    .accesskey = o
 browsing-picture-in-picture-toggle-enabled =
     .label = Zobrazovat přepínač do režimu obrazu v obraze
     .accesskey = E
@@ -1002,6 +1029,8 @@ browsing-picture-in-picture-learn-more = Zjistit více
 browsing-media-control =
     .label = Ovládat média pomocí klávesnice, sluchátek nebo virtuálního rozhraní
     .accesskey = v
+recommendations-group =
+    .label = Doporučení
 browsing-media-control-learn-more = Zjistit více
 browsing-cfr-recommendations =
     .label = Doporučovat vhodná rozšíření pro navštívené stránky
@@ -1425,6 +1454,7 @@ account-placeholder =
     .description = Přihlaste se, aby vaše data byla soukromá, šifrovaná a synchronizovaná napříč zařízeními.
 account-sync-section =
     .heading = Účet a synchronizace
+pane-account-sync-title = Účet a synchronizace
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1883,6 +1913,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Nastavení automatického vyplňování hesel
+pane-passwords-autofill-title = Hesla a automatické vyplňování
+preferences-passwords-autofill-header =
+    .heading = Hesla a automatické vyplňování
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

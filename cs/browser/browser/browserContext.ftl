@@ -299,6 +299,8 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Odeslat do mobilu
     .accesskey = O
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-sign-in = Pro posílání panelů se přihlaste
 main-context-menu-send-to-mobile-enable-sync2 = Povolit synchronizaci pro odeslání panelu
 main-context-menu-send-to-mobile-connect-phone2 = Připojit svůj telefon
 main-context-menu-send-to-mobile-device-missing2 = Nevidíte své zařízení?

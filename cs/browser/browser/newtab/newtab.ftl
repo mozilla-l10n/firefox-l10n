@@ -945,6 +945,8 @@ newtab-sports-widget-view-schedule =
     .label = Zobrazit rozpis zápasů
 newtab-sports-widget-follow-teams =
     .label = Sledujte týmy
+newtab-sports-widget-view-matches =
+    .label = Zobrazit zápasy
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =

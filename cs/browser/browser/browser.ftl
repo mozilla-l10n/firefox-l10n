@@ -1381,6 +1381,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synchronizované panely
     .tooltiptext = Zobrazí panely z jiných zařízení
+toolbar-button-send-tab =
+    .label = Poslat panel
+    .tooltiptext = Odešle aktuální panel do jiného zařízení
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1611,6 +1614,9 @@ reset-pbm-panel-confirm-button =
     .label = Smazat data relace
     .accesskey = S
 reset-pbm-panel-complete = Data anonymní relace byla smazána
+reset-pbm-toolbar-button2 =
+    .label = Vymazat anonymní relaci
+    .tooltiptext = Vymaže anonymní relaci
 
 ## Autorefresh blocker
 

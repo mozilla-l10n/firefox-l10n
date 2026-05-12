@@ -691,6 +691,7 @@ mlmodel-link-preview = { -brand-short-name } toto používá ke generování vý
 mlmodel-pdfjs = { -brand-short-name } toto používá k vytváření alternativního textu pro obrázky, které přidáváte do souborů PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } toto používá k navrhování názvů vašich skupin panelů
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } toto používá k navrhování panelů pro vaše skupiny panelů
+mlmodel-formfill-engine = { -brand-short-name } toto používá při vyplňování formulářů adresy
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Místně uložená AI
 addon-category-mlmodel-title =
