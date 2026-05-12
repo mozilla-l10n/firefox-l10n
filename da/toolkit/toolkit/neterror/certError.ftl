@@ -72,6 +72,8 @@ open-in-new-window-for-csp-or-xfo-error = Åbn websted i et nyt vindue
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = For at beskytte din sikkerhed vil { $hostname } ikke tillade, at { -brand-short-name } viser siden, hvis et andet websted har indlejret den. Du skal åbne siden i et nyt vindue for at se den.
 fp-certerror-view-certificate-link = Vis webstedets certifikat
+fp-certerror-return-to-previous-page-recommended-button-2 = Gå tilbage (anbefalet)
+    .accesskey = G
 fp-certerror-return-to-previous-page-recommended-button = Gå tilbage (anbefalet)
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
@@ -222,3 +224,5 @@ fp-certerror-override-exception-button = Fortsæt til { $hostname } (Risikabelt)
 fp-certerror-intro = { -brand-short-name } opdagede et potentielt alvorligt sikkerhedsproblem med <strong>{ $hostname }</strong>. Nogen som udgiver sig for at være webstedet kan forsøge at stjæle ting som oplysninger om betalingskort, adgangskoder eller mails.
 fp-certerror-expired-into = { -brand-short-name } opdagede et sikkerhedsproblem med <strong>{ $hostname }</strong>. Enten er webstedet opsat forkert eller også er din enheds ur indstillet til det forkert tidspunkt eller den forkert dato.
 fp-certerror-transparency-intro = Nogen som udgiver sig for at være <strong>{ $hostname }</strong> kan forsøge at stjæle ting som oplysninger om dit betalingskort, adgangskoder eller mails.
+fp-certerror-override-exception-button-2 = Fortsæt til { $hostname } (Risikabelt)
+    .accesskey = F

@@ -65,6 +65,7 @@ category-sync3 =
 pane-ai-controls-title = AI-indstillinger
 category-ai-controls =
     .tooltiptext = { pane-ai-controls-title }
+pane-languages-title = Sprog
 pane-experimental-title = { -brand-short-name }-eksperimenter
 category-experimental =
     .tooltiptext = { -brand-short-name }-eksperimenter
@@ -2331,6 +2332,10 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-advanced-button =
+    .label = Avancerede indstillinger
+preferences-etp-header =
+    .heading = Udvidet beskyttelse mod sporing
 preferences-etp-reload-tabs-hint-button =
     .label = Genindlæs alle faneblade
 preferences-etp-custom-cookies-enabled =

@@ -842,6 +842,10 @@ performance-default-content-process-count =
     .label = { $num } (прадвызначана)
 performance-group =
     .label = Прадукцыйнасць
+performance-use-recommended-settings-checkbox-2 =
+    .label = Выкарыстоўваць рэкамендаваныя налады прадукцыйнасці
+    .description = Гэтыя налады адаптаваны да вашага абсталявання і аперацыйнай сістэмы.
+    .accesskey = о
 
 ## Accessibility page
 
@@ -876,6 +880,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Шукаць тэкст, калі вы пачынаеце набор
     .accesskey = ч
+settings-media-group =
+    .label = Медыя
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Выкарыстоўваць «Выяву ў выяве»
+    .accesskey = у
 browsing-picture-in-picture-toggle-enabled =
     .label = Уключыць элементы кіравання відэа ў выяве
     .accesskey = У
@@ -886,6 +895,8 @@ browsing-picture-in-picture-learn-more = Падрабязней
 browsing-media-control =
     .label = Кіраваць прайграваннем з клавіятуры, гарнітуры або віртуальнага інтэрфейсу
     .accesskey = м
+recommendations-group =
+    .label = Рэкамендацыі
 browsing-media-control-learn-more = Падрабязней
 browsing-cfr-recommendations =
     .label = Рэкамендаваць пашырэнні ў часе аглядання
@@ -1285,6 +1296,7 @@ account-placeholder =
     .description = Увайдзіце, каб трымаць свае звесткі прыватнымі, зашыфраванымі і сінхранізаванымі паміж прыладамі.
 account-sync-section =
     .heading = Уліковы запіс і сінхранізацыя
+pane-account-sync-title = Уліковы запіс і сінхранізацыя
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1743,6 +1755,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Налады пароляў і аўтазапаўнення
+pane-passwords-autofill-title = Паролі і аўтазапаўненне
+preferences-passwords-autofill-header =
+    .heading = Паролі і аўтазапаўненне
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

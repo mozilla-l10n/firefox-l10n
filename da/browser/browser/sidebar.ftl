@@ -118,6 +118,15 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Slet sider fra historik
 
+## Labels for sidebar bookmarks context menu items
+
+sidebar-bookmarks-context-menu-edit-bookmark =
+    .label = Rediger bogmærke…
+sidebar-bookmarks-context-menu-delete-bookmark =
+    .label = Slet bogmærke
+sidebar-bookmarks-context-menu-delete-separator =
+    .label = Slet
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,8 +183,17 @@ sidebar-menu-syncedtabs-header =
     .heading = Faneblade fra andre enheder
 sidebar-menu-cpm-header =
     .heading = Adgangskoder
+sidebar-menu-bookmarks-header =
+    .heading = Bogmærker
 sidebar-panel-header-close-button =
     .tooltiptext = Luk
+
+## Labels for sidebar bookmarks panel folder names.
+
+sidebar-bookmarks-folder-menu = Bogmærke-menuen
+sidebar-bookmarks-folder-toolbar = Bogmærkelinje
+sidebar-bookmarks-folder-other = Andre bogmærker
+sidebar-bookmarks-folder-mobile = Mobil-bogmærker
 
 ## Titles for sidebar menu panels.
 
