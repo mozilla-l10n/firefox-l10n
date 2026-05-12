@@ -1748,6 +1748,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Innstillinger for passord og autofyll
+pane-passwords-autofill-title = Passord og autofyll
+preferences-passwords-autofill-header =
+    .heading = Passord og autofyll
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

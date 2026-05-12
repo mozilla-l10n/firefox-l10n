@@ -270,6 +270,9 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Åtvar meg når opning av mange faner samstundes kan gjere { -brand-short-name } treg
     .accesskey = a
+switch-to-new-tabs-2 =
+    .label = Når du opnar lenker eller medium i ei ny fane, byt til fana med ein gong
+    .accesskey = o
 switch-to-new-tabs =
     .label = Når du opnar ei lenke, eit bilde eller media i ei ny fane, byt til fana med ein gong
     .accesskey = d
@@ -740,6 +743,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Installasjon
+update-application-auto-2 =
+    .label = Installer oppdateringar automatisk (tilrådd)
+    .accesskey = o
 update-history =
     .label = Vis oppdateringshistorikk…
     .accesskey = p
@@ -1741,6 +1747,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Passord og autoutfyllings-innstillingar
+pane-passwords-autofill-title = Passord og autoutfylling
+preferences-passwords-autofill-header =
+    .heading = Passord og autoutfylling
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
