@@ -865,6 +865,8 @@ newtab-widget-timer-increase-min =
     .title = Aumentar 1 minuto
 newtab-widget-timer-mode-group =
     .aria-label = Modo temporizador
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Concentração
 # Small label shown beneath the live time while the break timer is running or paused.
 newtab-widget-timer-running-break = Intervalo
 # Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
@@ -876,11 +878,15 @@ newtab-widget-timer-celebration-heading-focus = Bom trabalho
 newtab-widget-timer-celebration-heading-break = Sua pausa acabou
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = Precisa de uma pausa?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Pronto para se concentrar?
 
 ## Sports widget
 
 newtab-sports-widget-menu-follow-teams = Seguir times
 newtab-sports-widget-menu-view-results = Ver resultados
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Datas importantes
 newtab-sports-widget-menu-learn-more = Saiba mais
 newtab-sports-widget-get-updates = Receba notícias em tempo real sobre os jogos e muito mais.
 newtab-sports-widget-view-schedule =

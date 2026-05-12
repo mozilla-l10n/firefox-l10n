@@ -101,6 +101,14 @@ set-password-repeat-backup-pw =
     .value = Mật khẩu sao lưu chứng chỉ (nhập lại):
 set-password-reminder = Quan trọng: Nếu bạn quên mật khẩu sao lưu chứng chỉ, sau này bạn sẽ không thể phục hồi bản sao lưu này. Hãy lưu vào một nơi an toàn.
 
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = Xác thực được bảo vệ
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = Vui lòng xác thực với thiết bị bảo mật ({ $tokenName }). Cách thực hiện tùy thuộc vào thiết bị (ví dụ: sử dụng đầu đọc vân tay hoặc nhập mã bằng bàn phím).
+
 ## Protected authentication alert
 
 # Variables:

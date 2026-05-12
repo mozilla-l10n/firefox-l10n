@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Cài đặt quản lý { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Thẻ dọc
+sidebar-settings2 =
+    .label = Cài đặt
 sidebar-settings =
     .label = Cài đặt thanh lề
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Mở rộng thanh lề khi di chuột tới nó
+sidebar-manage-extensions2 = Quản lý tất cả tiện ích
 sidebar-manage-extensions = Quản lý tiện ích
+sidebar-customize-extensions-header2 = Tiện ích mở rộng
+sidebar-customize-firefox-tools-header2 =
+    .label = Công cụ
 
 ## Labels for sidebar context menu items
 
