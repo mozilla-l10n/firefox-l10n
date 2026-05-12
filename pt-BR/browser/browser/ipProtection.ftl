@@ -48,6 +48,7 @@ ipprotection-site-settings-callout-button = Entendi
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = Novidade: Alterar sua localização
 ipprotection-location-selection-callout-primary-button = Experimentar
 ipprotection-location-selection-callout-secondary-button = Descartar
 
