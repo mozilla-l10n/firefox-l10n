@@ -1060,6 +1060,10 @@ search-one-click-desc = Vælg de alternative søgetjenester, der vises under adr
 search-one-click-header-3 =
     .label = Flere søgetjenester
     .description = Vælg, hvilke søgetjenester og -genveje vises i dit adressefelt.
+search-edit-engine-2 =
+    .title = Rediger søgetjeneste
+search-delete-engine =
+    .title = Slet søgetjeneste
 search-choose-engine-column =
     .label = Søgetjeneste
 search-choose-keyword-column =
@@ -1080,6 +1084,7 @@ search-edit-engine =
     .label = Rediger
     .accesskey = R
 search-find-more-link = Find flere søgetjenester
+search-filtering-for-add-engine = Tilføj søgetjeneste
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Genvej findes allerede
@@ -1098,6 +1103,9 @@ search-engine-group =
     .label = Standard-søgetjeneste
 search-default-engine =
     .aria-label = Standard-søgetjeneste
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Søgning
 
 ## Containers Section
 
@@ -1121,6 +1129,8 @@ containers-remove-button =
 
 sync-group-label =
     .label = Synkronisering
+account-group-label2 =
+    .label = Konto
 account-group-label =
     .label = { -vendor-short-name }-konto
 account-placeholder =
@@ -1630,6 +1640,8 @@ history-clear-on-close-settings =
 history-clear-button =
     .label = Ryd historik…
     .accesskey = h
+history-header2 =
+    .heading = Historik
 history-group =
     .label = Historik
 history-remember-option-all2 =
@@ -2041,6 +2053,8 @@ collection-backlogged-crash-reports2 =
     .label = Send automatisk fejlrapporter
     .accesskey = S
 collection-backlogged-crash-reports-description = Dette hjælper { -vendor-short-name } med at diagnosticere og løse problemer med browseren. Rapporter kan indeholde personlige eller følsomme data.
+settings-redesign-promo-dismiss-button =
+    .label = Forstået
 addon-recommendations =
     .label = Tillad at { -brand-short-name } anbefaler udvidelser specielt udvalgt til dig
 addon-recommendations-link = Læs mere
@@ -2307,9 +2321,18 @@ preferences-ai-controls-block-confirmation-confirm =
 ## Privacy and security status card
 
 security-privacy-status-ok-label = Udvidet beskyttelse mod sporing er slået til
+security-privacy-issue-card =
+    .heading = Sikkerhedsadvarsler
+issue-card-reset-button =
+    .label = Nulstil
+issue-card-dismiss-button =
+    .tooltiptext = Afvis
+    .aria-label = Afvis
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-reload-tabs-hint-button =
+    .label = Genindlæs alle faneblade
 preferences-etp-custom-cookies-enabled =
     .label = Cookies
 preferences-etp-custom-cookie-behavior =

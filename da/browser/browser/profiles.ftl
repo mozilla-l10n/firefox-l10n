@@ -66,6 +66,7 @@ new-profile-page-done-button =
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header = Din kopi af { $profilename } er klar til at blive tilpasset
 copied-profile-page-header-description = Vi har kopieret dine data og indstillinger til en ny profil. Giv profilen et navn, vælg et udseende, og gør den til din egen.
+restored-profile-page-learn-more = Læs mere
 profile-window-title-2 = { -brand-short-name } - Vælg en profil
 profile-window-logo =
     .alt = { -brand-short-name }-logo
@@ -87,6 +88,9 @@ delete-profile-bookmarks = Bogmærker
 delete-profile-history = Historik (besøgte sider, cookies, webstedsdata)
 delete-profile-autofill = Data til autofyldning (adresser, betalingsmetoder)
 delete-profile-logins = Adgangskoder
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = Slet profilen "{ $profilename }"
 
 ##
 

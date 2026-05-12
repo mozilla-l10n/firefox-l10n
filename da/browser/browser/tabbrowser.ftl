@@ -252,6 +252,9 @@ tab-group-editor-color-selector2-gray = Grå
     .title = Grå
 tab-group-editor-color-selector2-red = Rød
     .title = Rød
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — Lukket
 tab-group-description = { $tabGroupName } — Fanebladsgruppe
 tab-group-label-tooltip-collapsed = { $tabGroupName } — Sammenfoldet
 tab-group-label-tooltip-expanded = { $tabGroupName } — Udvidet
@@ -314,6 +317,9 @@ tab-group-editor-action-delete =
 tab-group-editor-done =
     .label = Færdig
     .accessKey = F
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = Del fanebladsgruppe
 tab-context-reopen-tab-group =
     .label = Åbn fanebladsgruppe igen
 # Variables:
@@ -386,6 +392,8 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Gem
     .accesskey = G
+tab-note-preview-edit-icon =
+    .alt = Rediger note
 # Link to show the full tab note in case it was truncated.
 tab-note-preview-expand = Læs mere
 tab-note-panel-add-note-new-badge =

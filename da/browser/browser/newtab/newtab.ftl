@@ -322,6 +322,8 @@ newtab-custom-shortcuts-toggle =
     .description = Gemte eller besøgte websteder
 newtab-custom-shortcuts-nova =
     .label = Genveje
+newtab-custom-row-description =
+    .description = Antal rækker
 # Variables
 #   $num (number) - Number of rows to display
 #  (developer note): @nova-cleanup(remove-string): Remove string once Nova lands. We won't be using "row"/"rows" anymore for the dropdown
@@ -409,6 +411,7 @@ newtab-wallpaper-light-fox-anniversary = En ræv på en græsmark i et tåget bj
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
 newtab-wallpaper-category-title-colors = Ensfarvede
+newtab-wallpaper-colors = Farver
 newtab-wallpaper-blue = Blå
 newtab-wallpaper-light-blue = Lyseblå
 newtab-wallpaper-light-purple = Lyslilla
@@ -779,6 +782,8 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .title = Minimer widgets
     .aria-label = Sammenfold alle widgets til kompakt størrelse
+newtab-widget-section-menu-hide-all = Skjul widgets
+newtab-widget-section-menu-learn-more = Læs mere
 newtab-widget-section-feedback = Fortæl os, hvad du synes
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -816,6 +821,28 @@ newtab-promo-card-dismiss-button =
     .title = Afvis
     .aria-label = Afvis
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Skjul timer
+
+## Sports widget
+
+newtab-sports-widget-menu-learn-more = Læs mere
+newtab-sports-widget-choose-wallpaper =
+    .label = Vælg en baggrund
+newtab-sports-widget-skip = Spring over
+newtab-sports-widget-done-button =
+    .label = Færdig
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, month: "short", day: "numeric") } – { DATETIME($end, month: "short", day: "numeric") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, month: "short", day: "numeric") }
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -836,3 +863,17 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Denne plads følger dine regler
+
+## Strings for the Clock widget
+
+newtab-clock-widget-button-add-clock = Tilføj
+newtab-clock-widget-button-cancel = Annuller
+newtab-clock-widget-button-back =
+    .title = Tilbage
+    .aria-label = Tilbage
+newtab-clock-widget-button-save = Gem
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Søgeresultater

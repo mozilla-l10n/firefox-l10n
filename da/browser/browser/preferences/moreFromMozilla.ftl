@@ -6,6 +6,8 @@
 ## These strings are used in the about:preferences moreFromMozilla page
 
 more-from-moz-title = Mere fra { -vendor-short-name }
+more-from-moz-page-header =
+    .heading = Mere fra { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Mere fra { -vendor-short-name }
 more-from-moz-subtitle = Se andre produkter fra { -vendor-short-name }, der arbejder for at understøtte et sundt internet.
@@ -45,3 +47,8 @@ more-from-moz-solo-title-2 = AI-værktøj fra { -solo-ai-brand-name } til at ska
 
 more-from-moz-mdn-description = Lær webudvikling med omfattende, gratis guider og dokumentation.
 more-from-moz-mdn-button = Lær webudvikling
+more-from-moz-mdn-title2 = { -mdn-brand-name }
+
+## These strings are for the Thunderbird card in about:preferences moreFromMozilla page
+
+more-from-moz-thunderbird-title = { -thunderbird-brand-name }

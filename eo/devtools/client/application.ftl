@@ -117,6 +117,10 @@ sidebar-item-session-history = Historio de seancoj
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Montri datumojn de historio de seancoj
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Ne haveblas la diagramo de historio de seancoj
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = La celo ne subtenas montradon de diagramoj de historio de seancoj
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Averta emblemo
