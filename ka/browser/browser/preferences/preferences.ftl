@@ -2287,7 +2287,7 @@ collection-backlogged-crash-reports2 =
 collection-backlogged-crash-reports-description = მისი მეშვეობით { -vendor-short-name } მოახერხებს ხარვეზების გამოვლენასა და მოგვარებას ბრაუზერში. მოხსენებები შეიძლება შეიცავდეს პირად ან საფრთხილო მონაცემებს.
 # Promotional message displayed in the Settings panes to inform users of the new redesign
 settings-redesign-promo =
-    .heading = იგივე გამართვა, ახალი იერსახე!
+    .heading = იგივე პარამეტრები ახალი იერსახით!
     .message = ეს გვერდი ახლებურად მოვაწყვეთ, იოლად რომ შეიძლებოდეს თვალის გადავლება და გაცნობა. თქვენი პირადი პარამეტრები ხელუხლებელია და ყველაფერი ისევ აქაა. რჩევა: გამოიყენეთ საძიებო პირდაპირ სასურველზე გადასასვლელად.
 settings-redesign-promo-dismiss-button =
     .label = გასაგებია

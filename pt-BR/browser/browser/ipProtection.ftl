@@ -49,6 +49,7 @@ ipprotection-site-settings-callout-button = Entendi
 ## Location selection callout
 
 ipprotection-location-selection-callout-title = Novidade: Alterar sua localização
+ipprotection-location-selection-callout-description = A VPN integrada do <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> permite você escolher entre 5 locais de navegação, ou ela escolher o mais rápido para você.
 ipprotection-location-selection-callout-primary-button = Experimentar
 ipprotection-location-selection-callout-secondary-button = Descartar
 
@@ -57,17 +58,21 @@ ipprotection-location-selection-callout-secondary-button = Descartar
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Experimente a VPN integrada no { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Oculte sua localização</a> ao navegar no { -brand-product-name }.
+unauthenticated-private-location-message = Ajuda a <a data-l10n-name="learn-more-vpn">manter sua localização privativa</a> no { -brand-product-name }.
+unauthenticated-choose-location-message = Escolha entre 5 locais ou deixe o { -brand-product-name } escolher o mais rápido.
 unauthenticated-hide-location-message-2 = Oculte sua localização ao navegar no { -brand-product-name }.
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 unauthenticated-bandwidth-limit-message = Tenha { $maxUsage } GB de dados gratuitos na VPN todo mês.
 unauthenticated-get-started = Introdução
+unauthenticated-terms-of-service-privacy-notice = Ao continuar, você declara que concorda com os <a data-l10n-name="vpn-terms-of-service">Termos do serviço</a> e com o <a data-l10n-name="vpn-privacy-notice">Aviso de privacidade</a>.
 site-exclusion-toggle-enabled-1 =
     .label = Usar VPN neste site
     .aria-label = A VPN está ativada neste site
 site-exclusion-toggle-disabled-1 =
     .label = Usar VPN neste site
     .aria-label = A VPN está desativada neste site
+site-exclusion-toggle-description = O site não está funcionando? Experimente desativar a VPN.
 ipprotection-settings-link =
     .label = Configurações
 
@@ -89,12 +94,17 @@ ipprotection-button-connecting = Ativando…
 
 ## Location controls
 
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Local: Recomendado
+ipprotection-recommended-location-description = O { -brand-product-name } encontra o local mais rápido
 ipprotection-recommended-location-badge = NOVIDADE
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = Local: { $country }
 ipprotection-locations-subview =
     .title = Escolher local
+ipprotection-locations-subview-description = Escolha outro local de onde navegar.
 ipprotecion-locations-subview-recommended-label = Recomendado
 ipprotection-locations-subview-recommended-description = Encontra o local mais rápido
 
