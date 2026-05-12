@@ -129,4 +129,3 @@ icon-warning =
 icon-error =
     .alt = Icona errore
     .title = Errore
-
