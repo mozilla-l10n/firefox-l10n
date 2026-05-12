@@ -299,6 +299,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = ਮੋਬਾਈਲ ਉੱਤੇ ਭੇਜੋ
     .accesskey = n
+main-context-menu-send-to-mobile-enable-sync2 = ਟੈਬ ਭੇਜਣ ਲਈ ਸਿੰਕ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
+main-context-menu-send-to-mobile-connect-phone2 = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਕਨੈਕਟ ਕਰੋ
+main-context-menu-send-to-mobile-device-missing2 = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਨਹੀਂ ਵੇਖ ਰਹੇ ਹੋ?
 # Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
 main-context-menu-send-to-mobile-enable-sync =
     .label = ਟੈਬ ਭੇਜਣ ਲਈ ਸਿੰਕ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
