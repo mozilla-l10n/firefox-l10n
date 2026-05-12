@@ -153,6 +153,12 @@ webext-site-perms-description-gated-perms-midi =
     Obvykle jde o zásuvná zařízení jako zvukové syntezátory, ale může jít i o zařízení zabudované přímo ve vašem počítači.
     
     Webové stránky obvykle k MIDI zařízením nemají přístup povolený. Nesprávné použití může vést k poškození nebo ohrozit zabezpečení.
+webext-site-perms-description-gated-perms-webserial =
+    Jedná se o zařízení jako mikrokontroléry, 3D tiskárny a další zařízení, která se připojují pomocí USB, sériových portů nebo Bluetooth.
+    
+    Budete moci vybrat, ke kterým zařízením bude mít web přístup.
+    
+    Webové stránky obvykle nemají povolený přístup k sériovým zařízením. Nesprávné použití může způsobit poškození nebo ohrozit zabezpečení.
 webext-site-perms-description-gated-perms-serial =
     Jedná se o zařízení, jako jsou mikrokontroléry, 3D tiskárny a další zařízení připojená přes USB nebo sériové porty.
     

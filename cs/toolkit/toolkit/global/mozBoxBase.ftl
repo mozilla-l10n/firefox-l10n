@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Otevře se v novém panelu
+moz-box-item-reorder-handle =
+    .aria-label = Uspořádání položek změníte stisknutím Ctrl+Shift+Šipka nahoru nebo Ctrl+Shift+Šipka dolu
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Uspořádání { $item } změníte stisknutím Ctrl+Shift+Šipka nahoru nebo Ctrl+Shift+Šipka dolu
