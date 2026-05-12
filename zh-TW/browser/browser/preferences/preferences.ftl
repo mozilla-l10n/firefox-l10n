@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = 選擇設定檔
 preferences-copy-profile-button = 複製
+tabs-browsing-section =
+    .heading = 分頁與瀏覽
+pane-tabs-browsing-title = 分頁與瀏覽
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = 分頁
 tabs-opening-heading =
@@ -272,10 +276,16 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = 在 Windows 工作列顯示分頁預覽圖
     .accesskey = k
+browser-containers-enabled-2 =
+    .label = 使用容器分頁
+    .accesskey = n
 browser-containers-enabled =
     .label = 開啟容器分頁
     .accesskey = n
 browser-containers-learn-more = 了解更多
+browser-containers-settings-2 =
+    .label = 管理設定
+    .accesskey = i
 browser-containers-settings =
     .label = 設定…
     .accesskey = i
@@ -316,6 +326,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = 顯示側邊欄
     .description = 不用離開主畫面就能快速開啟書籤、手機上的分頁、AI 聊天機器人等功能。
+page-navigation-group =
+    .label = 頁面導航
 browser-layout-header = 瀏覽器版面
 browser-layout-horizontal-tabs =
     .label = 水平分頁標籤
@@ -716,6 +728,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = 安裝
+update-application-auto-2 =
+    .label = 自動安裝更新（推薦）
+    .accesskey = A
 update-history =
     .label = 顯示更新紀錄…
     .accesskey = p
@@ -809,6 +824,10 @@ performance-default-content-process-count =
     .label = { $num }（預設）
 performance-group =
     .label = 效能
+performance-use-recommended-settings-checkbox-2 =
+    .label = 使用推薦的效能設定
+    .description = 下列設定是根據您的系統硬體與作業系統設定自動選擇。
+    .accesskey = U
 
 ## Accessibility page
 
@@ -843,6 +862,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = 打字時直接搜尋頁面文字（隨打即找）
     .accesskey = x
+settings-media-group =
+    .label = 媒體
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = 使用子母畫面
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = 開啟影片子母畫面播放控制元件
     .accesskey = E
@@ -853,6 +877,8 @@ browsing-picture-in-picture-learn-more = 了解更多
 browsing-media-control =
     .label = 使用鍵盤、耳機或虛擬介面控制媒體內容播放行為
     .accesskey = V
+recommendations-group =
+    .label = 推薦
 browsing-media-control-learn-more = 了解更多
 browsing-cfr-recommendations =
     .label = 隨您上網推薦擴充套件
@@ -1251,6 +1277,7 @@ account-placeholder =
     .description = 登入後即可透過有隱私、加密過的方式，將您的資料同步道不同裝置上。
 account-sync-section =
     .heading = 帳號與同步
+pane-account-sync-title = 帳號與同步
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1709,6 +1736,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = 密碼與自動填寫設定
+pane-passwords-autofill-title = 密碼與自動填寫
+preferences-passwords-autofill-header =
+    .heading = 密碼與自動填寫
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

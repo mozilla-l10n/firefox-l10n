@@ -897,6 +897,8 @@ newtab-sports-widget-view-schedule =
     .label = 檢視賽程
 newtab-sports-widget-follow-teams =
     .label = 關注球隊
+newtab-sports-widget-view-matches =
+    .label = 檢視比賽分數
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title = 關注最多 { $number } 個隊伍

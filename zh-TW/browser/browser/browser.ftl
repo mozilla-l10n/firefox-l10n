@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = 同步的分頁
     .tooltiptext = 顯示來自其他裝置的分頁
+toolbar-button-send-tab =
+    .label = 傳送分頁
+    .tooltiptext = 將目前分頁傳送到另一台裝置
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1488,6 +1491,9 @@ reset-pbm-panel-confirm-button =
     .label = 清除瀏覽階段資料
     .accesskey = D
 reset-pbm-panel-complete = 已刪除瀏覽階段資料
+reset-pbm-toolbar-button2 =
+    .label = 清除隱私瀏覽階段
+    .tooltiptext = 清除隱私瀏覽階段
 
 ## Autorefresh blocker
 

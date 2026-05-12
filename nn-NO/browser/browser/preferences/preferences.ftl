@@ -839,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (standard)
 performance-group =
     .label = Yting
+performance-use-recommended-settings-checkbox-2 =
+    .label = Bruk tilrådde ytingsinnstillingar
+    .description = Desse innstillingane er tilpassa maskinvara og operativsystemet ditt.
+    .accesskey = B
 
 ## Accessibility page
 

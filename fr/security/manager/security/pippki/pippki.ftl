@@ -107,7 +107,7 @@ protected-auth-window =
     .title = Authentification protégée
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
-protected-auth-prompt = Veuillez vous authentifier sur le périphérique de sécurité ({ $tokenName }). La marche à suivre dépend de l’appareil (par exemple, en utilisant un lecteur d’empreintes digitales ou en saisissant un code au clavier).
+protected-auth-prompt = Veuillez vous authentifier sur le périphérique de sécurité ({ $tokenName }). La marche à suivre dépend de l’appareil (par exemple, en utilisant un lecteur d’empreintes digitales ou en saisissant un code avec un clavier).
 
 ## Protected authentication alert
 

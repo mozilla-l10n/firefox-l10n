@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Schedas synchronisate
     .tooltiptext = Monstrar le schedas de altere apparatos
+toolbar-button-send-tab =
+    .label = Inviar scheda
+    .tooltiptext = Invia le scheda actual a un altere apparato
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Deler le datos del session
     .accesskey = D
 reset-pbm-panel-complete = Datos de session private delite
+reset-pbm-toolbar-button2 =
+    .label = Vacuar session private
+    .tooltiptext = Vacua session private
 
 ## Autorefresh blocker
 

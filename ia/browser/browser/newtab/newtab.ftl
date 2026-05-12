@@ -905,6 +905,8 @@ newtab-sports-widget-view-schedule =
     .label = Vider agenda
 newtab-sports-widget-follow-teams =
     .label = Sequer equipas
+newtab-sports-widget-view-matches =
+    .label = Vider concordantias
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
