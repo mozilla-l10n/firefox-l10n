@@ -33,7 +33,7 @@ ipprotection-feature-introduction-description-private-browsing = 即使是在隐
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = 正在使用公共 Wi-Fi？试试 { -brand-product-name } 内置的 VPN。
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal = 5 个位置任您选择，隐藏真实浏览位置，获得额外隐私保护。
+ipprotection-feature-introduction-link-text-captive-portal = 5 个位置任您选择，隐藏真实浏览位置，获得<a data-l10n-name="learn-more-vpn">额外隐私保护</a>。
 ipprotection-feature-introduction-description-captive-portal = 即使使用公共 Wi-Fi，也能隐藏真实位置，获得额外保护。
 ipprotection-feature-introduction-button-primary = 下一步
 ipprotection-feature-introduction-button-secondary-not-now = 暂时不要
