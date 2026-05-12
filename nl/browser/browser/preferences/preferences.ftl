@@ -1747,6 +1747,9 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title = Wachtwoorden en automatisch invullen
+preferences-passwords-autofill-header =
+    .heading = Wachtwoorden en automatisch invullen
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
