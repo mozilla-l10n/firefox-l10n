@@ -1286,6 +1286,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Облачные вкладки
     .tooltiptext = Показать вкладки с других устройств
+toolbar-button-send-tab =
+    .label = Отправить вкладку
+    .tooltiptext = Отправить текущую вкладку на другое устройство
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1499,6 +1502,9 @@ reset-pbm-panel-confirm-button =
     .label = Удалить данные сессии
     .accesskey = л
 reset-pbm-panel-complete = Данные приватной сессии удалены
+reset-pbm-toolbar-button2 =
+    .label = Очистить приватную сессию
+    .tooltiptext = Очистить приватную сессию
 
 ## Autorefresh blocker
 

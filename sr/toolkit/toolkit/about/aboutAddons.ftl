@@ -589,6 +589,7 @@ mlmodel-link-preview = { -brand-short-name } користи ово за гене
 mlmodel-pdfjs = { -brand-short-name } користи ово за креирање алтернативног текста за слике које додајете у PDF-ове
 mlmodel-smart-tab-topic-engine = { -brand-short-name } користи ово да предложи називе за ваше групе језичака
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } користи ово да предложи језичке за ваше групе језичака
+mlmodel-formfill-engine = { -brand-short-name } користи ово за испомоћ при попуњавању адресе у образцима
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Вештачка интелигенција на уређају
 addon-category-mlmodel-title =

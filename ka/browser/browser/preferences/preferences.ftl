@@ -360,6 +360,9 @@ language-and-appearance-header = ენა და იერსახე
 appearance-group2 =
     .label = საიტის იერსახე
     .description = ზოგიერთი ვებსაიტი იცვლის ფერებს თქვენ მიერ მითითებულის შესაბამისად. აირჩიეთ ფერთა შეხამება.
+preferences-web-appearance-choice-auto3 =
+    .label = სისტემური
+    .title = თავისით შეცვლის ვებსაიტის ფონსა და შიგთავსს, როგორც განსაზღვრავს სისტემა ან { -brand-short-name } გაფორმებით.
 appearance-group =
     .label = საიტის იერსახე
     .description = ზოგიერთი ვებსაიტი თავის ფერებს უხამებს თქვენი პარამეტრებით მითითებულს. აირჩიეთ ფერები ამგვარი საიტებისთვის.
@@ -596,6 +599,9 @@ download-save-files-header =
     .label = ფაილების შესანახი მდებარეობა
 download-save-where-3 =
     .aria-label = ფაილების შესანახი მდებარეობა
+download-always-ask-where2 =
+    .label = შენახვის ადგილის მითითება ფაილის ჩამოტვირთვამდე
+    .accesskey = გ
 downloads-header-2 =
     .label = ჩამოტვირთვები
 download-save-where-2 =
@@ -626,6 +632,9 @@ applications-setting =
     .description = აირჩიეთ, როგორ მოეპყრას { -brand-short-name } ინტერნეტიდან ჩამოტვირთულ ფაილებს ან იმ პროგრამებს, რომელთაც გვერდების მონახულებისას იყენებთ.
 applications-header = პროგრამები
 applications-description = აირჩიეთ, როგორ მოეპყრას { -brand-short-name } ინტერნეტიდან ჩამოტვირთულ ფაილებს ან იმ პროგრამებს, რომელთაც გვერდების მონახულებისას იყენებთ.
+applications-setting2 =
+    .label = ფაილები და პროგრამები
+    .description = როგორ მოეპყრას { -brand-short-name } ჩამოტვირთულ ფაილებსა და მასალებს.
 applications-filter =
     .placeholder = ფაილის სახეობების ან პროგრამების ძიება
 applications-type-column =
@@ -731,6 +740,9 @@ update-history-2 =
     .accesskey = ი
 update-application-installation =
     .label = დაყენებული
+update-application-auto-2 =
+    .label = თავად დააყენოს განახლებები (სასურველია)
+    .accesskey = ვ
 update-history =
     .label = განახლებების ისტორიის ჩვენება…
     .accesskey = ი
@@ -824,6 +836,10 @@ performance-default-content-process-count =
     .label = { $num } (ნაგულისხმევი)
 performance-group =
     .label = წარმადობა
+performance-use-recommended-settings-checkbox-2 =
+    .label = წარმადობის სასურველი პარამეტრების გამოყენება
+    .description = ეს პარამეტრები მორგებულია თქვენს აპარატურასა და საოპერაციო სისტემაზე.
+    .accesskey = ყ
 
 ## Accessibility page
 
@@ -858,6 +874,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = ტექსტის ძიება აკრეფის დაწყებისთანავე
     .accesskey = ტ
+settings-media-group =
+    .label = ფაილები
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = გამოიყენოს ეკრანი-ეკრანში
+    .accesskey = კ
 browsing-picture-in-picture-toggle-enabled =
     .label = ეკრანი-ეკრანში ვიდეოს სამართავი
     .accesskey = მ
@@ -868,6 +889,8 @@ browsing-picture-in-picture-learn-more = ვრცლად
 browsing-media-control =
     .label = გაშვებული ფაილების მართვა კლავიშებით, ყურსასმენით ან პროგრამულად
     .accesskey = ფ
+recommendations-group =
+    .label = შემოთავაზებები
 browsing-media-control-learn-more = ვრცლად
 browsing-cfr-recommendations =
     .label = გაფართოებების შემოთავაზებები ძიებისას
@@ -1266,6 +1289,7 @@ account-placeholder =
     .description = შედით, რომ თქვენი მონაცემები დარჩეს პირადული, დაშიფრული და დასინქრონებული სხვადასხვა მოწყობილობაზე.
 account-sync-section =
     .heading = ანგარიში და დასინქრონება
+pane-account-sync-title = ანგარიში და დასინქრონება
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1724,6 +1748,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = პაროლებისა და თვითშევსების პარამეტრები
+pane-passwords-autofill-title = პაროლები და თვითშევსება
+preferences-passwords-autofill-header =
+    .heading = პაროლები და თვითშევსება
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

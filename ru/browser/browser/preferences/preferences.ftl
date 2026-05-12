@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Выбрать профиль
 preferences-copy-profile-button = Копировать
+tabs-browsing-section =
+    .heading = Вкладки и просмотр
+pane-tabs-browsing-title = Вкладки и просмотр
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Вкладки
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Предупреждать, когда открытие нескольких вкладок может замедлить { -brand-short-name }
     .accesskey = р
+switch-to-new-tabs-2 =
+    .label = При открытии ссылок или медиа в новой вкладке, переключаться на них немедленно
+    .accesskey = р
 switch-to-new-tabs =
     .label = Переключаться на открываемую ссылку, изображение или медиа
     .accesskey = ю
 show-tabs-in-taskbar =
     .label = Отображать эскизы вкладок на панели задач Windows
     .accesskey = б
+browser-containers-enabled-2 =
+    .label = Использовать контейнер вкладок
+    .accesskey = т
 browser-containers-enabled =
     .label = Включить «Вкладки в контейнере»
     .accesskey = ч
 browser-containers-learn-more = Подробнее
+browser-containers-settings-2 =
+    .label = Управление настройками
+    .accesskey = ш
 browser-containers-settings =
     .label = Параметры…
     .accesskey = м
@@ -331,6 +344,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Показать боковую панель
     .description = Быстрый доступ к закладкам, вкладкам с телефона, ИИ-чат-ботам и многому другому, не покидая основного вида.
+page-navigation-group =
+    .label = Навигация по странице
 browser-layout-header = Внешний вид браузера
 browser-layout-horizontal-tabs =
     .label = Горизонтальные вкладки
@@ -731,6 +746,9 @@ update-history-2 =
     .accesskey = ж
 update-application-installation =
     .label = Установка
+update-application-auto-2 =
+    .label = Автоматически устанавливать обновления (рекомендуется)
+    .accesskey = Ф
 update-history =
     .label = Показать журнал обновлений…
     .accesskey = ж
@@ -824,6 +842,10 @@ performance-default-content-process-count =
     .label = { $num } (по умолчанию)
 performance-group =
     .label = Производительность
+performance-use-recommended-settings-checkbox-2 =
+    .label = Использовать рекомендуемые настройки производительности
+    .description = Эти настройки привязаны к вашему устройству и операционной системе.
+    .accesskey = Г
 
 ## Accessibility page
 
@@ -858,6 +880,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Искать текст на странице по мере его набора
     .accesskey = И
+settings-media-group =
+    .label = Медиа
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Использовать Картинку-в-Картинке
+    .accesskey = у
 browsing-picture-in-picture-toggle-enabled =
     .label = Включить элементы управления видео «Картинка в картинке»
     .accesskey = а
@@ -868,6 +895,8 @@ browsing-picture-in-picture-learn-more = Подробнее
 browsing-media-control =
     .label = Управлять воспроизведением звука или видео с помощью клавиатуры, гарнитуры или виртуального интерфейса
     .accesskey = У
+recommendations-group =
+    .label = Рекомендации
 browsing-media-control-learn-more = Подробнее
 browsing-cfr-recommendations =
     .label = Рекомендовать расширения при просмотре
@@ -1267,6 +1296,7 @@ account-placeholder =
     .description = Войдите, чтобы сохранить конфиденциальность ваших данных, зашифровать их и синхронизировать между устройствами.
 account-sync-section =
     .heading = Аккаунт и синхронизация
+pane-account-sync-title = Аккаунт и синхронизация
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1725,6 +1755,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Настройки паролей и автозаполнения
+pane-passwords-autofill-title = Пароли и автозаполнение
+preferences-passwords-autofill-header =
+    .heading = Пароли и автозаполнение
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Отвара се у новом језичку
+moz-box-item-reorder-handle =
+    .aria-label = Промени редослед ставке користећи Ctrl+Shift+ArrowUp или Ctrl+Shift+ArrowDown
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Промени редослед ставке { $item } користећи Ctrl+Shift+ArrowUp или Ctrl+Shift+ArrowDown

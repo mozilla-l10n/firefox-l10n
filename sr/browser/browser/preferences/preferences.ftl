@@ -368,6 +368,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Прикажи бочну површ
     .description = Брзо приступите обележивачима, језичцима са вашег телефона, ВИ чет-ботовима и још много тога без напуштања главног приказа.
+page-navigation-group =
+    .label = Навигирање страницом
 browser-layout-header = Распоред прегледача
 browser-layout-horizontal-tabs =
     .label = Хоризонтални језичци
@@ -779,6 +781,9 @@ update-history-2 =
     .accesskey = П
 update-application-installation =
     .label = Инсталација
+update-application-auto-2 =
+    .label = Самостално инсталирај ажурирања (препоручено)
+    .accesskey = а
 update-history =
     .label = Прикажи историју ажурирања…
     .accesskey = П
@@ -884,6 +889,10 @@ performance-default-content-process-count =
     .label = { $num } (подразумевано)
 performance-group =
     .label = Перформансе
+performance-use-recommended-settings-checkbox-2 =
+    .label = Користи препоручена подешавања делотворности
+    .description = Ова подешавања су скројена за ваш хардвер и оперативни систем.
+    .accesskey = у
 
 ## Accessibility page
 
@@ -918,6 +927,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Започни претрагу при уносу текста
     .accesskey = З
+settings-media-group =
+    .label = Медији
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Користи слику у слици
+    .accesskey = ц
 browsing-picture-in-picture-toggle-enabled =
     .label = Видео-контроле у режиму „Слика у слици”
     .accesskey = В
@@ -928,6 +942,8 @@ browsing-picture-in-picture-learn-more = Сазнајте више
 browsing-media-control =
     .label = Управљај медијским садржајем помоћу тастатуре, слушалица или виртуелног прочеља
     .accesskey = м
+recommendations-group =
+    .label = Препоруке
 browsing-media-control-learn-more = Сазнајте више
 browsing-cfr-recommendations =
     .label = Препоручуј додатке током прегледања
@@ -1333,6 +1349,7 @@ account-placeholder =
     .description = Пријавите се да би ваши подаци били приватни, шифровани и усклађени на свим уређајима.
 account-sync-section =
     .heading = Налог и усклађивање
+pane-account-sync-title = Налог и усклађивање
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1791,6 +1808,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Лозинке и подешавања самодопуњавања
+pane-passwords-autofill-title = Лозинке и самодопуњавање
+preferences-passwords-autofill-header =
+    .heading = Лозинке и самодопуњавање
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
