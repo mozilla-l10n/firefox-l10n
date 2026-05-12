@@ -90,7 +90,7 @@ abuse-report-broken-reason-sitepermission-v2 =
         [with-cases] Nefunguje, rozbíjí webové stránky nebo zpomaluje { -brand-product-name(case: "acc") }
        *[no-cases] Nefunguje, rozbíjí webové stránky nebo zpomaluje aplikaci { -brand-product-name }
     }
-abuse-report-broken-reason-theme-v2 = Nefunguje nebo robíjí rozhraní prohlížeče
+abuse-report-broken-reason-theme-v2 = Nefunguje nebo rozbíjí rozhraní prohlížeče
 abuse-report-broken-example = Příklad: funkce je pomalá, špatně se používá, vůbec nefunguje, nebo omezuje funkčnost a zobrazení webových stránek
 abuse-report-broken-suggestions-extension = Zdá se, že jste objevili chybu. Kromě odeslání hlášení nám v řešení problému pomůže, pokud kontaktujete i autora rozšíření. <a data-l10n-name="support-link">Navštivte stránky rozšíření</a>, kde na autora najdete kontakt.
 abuse-report-broken-suggestions-sitepermission = Zdá se, že jste objevili chybu. Kromě odeslání hlášení nám v řešení problému pomůže, pokud kontaktujete i správce serveru. <a data-l10n-name="support-link">Navštivte stránku</a>, kde na správce najdete kontakt.

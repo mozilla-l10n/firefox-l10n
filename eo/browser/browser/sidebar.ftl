@@ -58,6 +58,8 @@ sidebar-customize-firefox-tools-header =
 sidebar-customize-firefox-settings = Administri agordojn de { -brand-short-name }
 sidebar-vertical-tabs =
     .label = Vertikalaj langetoj
+sidebar-settings2 =
+    .label = Agordoj
 sidebar-settings =
     .label = Agordoj de la flanka strio
 sidebar-hide-tabs-and-sidebar =
@@ -70,7 +72,11 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Malfaldi flankan strion kiam la muso iras super ĝi
+sidebar-manage-extensions2 = Administri ĉiujn etendaĵojn
 sidebar-manage-extensions = Administri etendaĵojn
+sidebar-customize-extensions-header2 = Etendaĵoj
+sidebar-customize-firefox-tools-header2 =
+    .label = Iloj
 
 ## Labels for sidebar context menu items
 

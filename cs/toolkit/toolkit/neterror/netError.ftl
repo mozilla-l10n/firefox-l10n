@@ -162,10 +162,10 @@ certerror-sts-intro =
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-expired-cert-intro =
     { -brand-short-name.gender ->
-        [masculine] { -brand-short-name } zjistil problém a stránku na serveru <b>{ $hostname }</b> nenačetl. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
-        [feminine] { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
-        [neuter] { -brand-short-name } zjistilo problém a stránku na serveru <b>{ $hostname }</b> nenačetlo. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
-       *[other] Aplikace { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven a nebo hodiny ve vašem počítači nejdou správně.
+        [masculine] { -brand-short-name } zjistil problém a stránku na serveru <b>{ $hostname }</b> nenačetl. Server je buď špatně nastaven nebo hodiny ve vašem počítači nejdou správně.
+        [feminine] { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven nebo hodiny ve vašem počítači nejdou správně.
+        [neuter] { -brand-short-name } zjistilo problém a stránku na serveru <b>{ $hostname }</b> nenačetlo. Server je buď špatně nastaven nebo hodiny ve vašem počítači nejdou správně.
+       *[other] Aplikace { -brand-short-name } zjistila problém a stránku na serveru <b>{ $hostname }</b> nenačetla. Server je buď špatně nastaven nebo hodiny ve vašem počítači nejdou správně.
     }
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -264,7 +264,7 @@ fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } nedův
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-neterror-cypher-overlap-what-can-you-do-body =
     { -brand-short-name.case-status ->
-        [with-cases] Ujistěte se, že používáte nejnovější verzi { -brand-short-name(case: "gen") }. Vyberte v nabídce Nápověda > O { -brand-short-name(case: "gen") }. Pokud používáte nejnovější verzi  { -brand-short-name(case: "gen") }, je problém pravděpodobně v samotných stránkách.
+        [with-cases] Ujistěte se, že používáte nejnovější verzi { -brand-short-name(case: "gen") }. Vyberte v nabídce Nápověda > O { -brand-short-name(case: "gen") }. Pokud používáte nejnovější verzi { -brand-short-name(case: "gen") }, je problém pravděpodobně v samotných stránkách.
        *[no-cases] Ujistěte se, že používáte nejnovější verzi aplikace { -brand-short-name }. Vyberte v nabídce Nápověda > O aplikaci { -brand-short-name }. Pokud používáte nejnovější verzi aplikace { -brand-short-name }, je problém pravděpodobně v samotných stránkách.
     }
 fp-neterror-offline-what-can-you-do-body = Zkuste se připojit na jiném zařízení. Zkontrolujte modem nebo router. Odpojte se a znovu se připojte k Wi-Fi.

@@ -423,6 +423,10 @@ quickactions-logins2 = Administri pasvortojn
 quickactions-cmd-logins = legitimiloj, pasvortoj
 # Mutes all tabs playing audio
 quickactions-mute = Silentigi langetojn, kiuj sonas
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = silent, mut, ŝŝŝ
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administri kromprogramojn
 quickactions-cmd-plugins = kromprogramoj
@@ -547,9 +551,11 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Vi ne estas sekure konektita al tiu ĉi retejo.
 identity-connection-verified = Vi estas sekure konektita al tiu ĉi retejo.
 identity-ev-owner-label = Atestilo eldonita por:
+identity-verifier-label = Kontrolita de:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalifikita laŭ la specifo en la Regularo (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto.
+identity-cert-exception-overridden = Vi aldonis sekurecan escepton por tiu ĉi retejo.
 identity-remove-cert-exception =
     .label = Forigi escepton
     .accesskey = F
@@ -1031,6 +1037,21 @@ urlbar-result-action-switch-to-tabgroup = Iri al { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Malfermi { $group }
 
+## Used in the context menu in urlbar view.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Malfermi en nova langeto
+    .accesskey = n
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Malfermi en nova inga langeto
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = Malfermi en nova fenestro
+    .accesskey = f
+urlbar-view-context-menu-open-in-private-window =
+    .label = Malfermi en nova privata fenestro
+    .accesskey = p
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -1257,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Spegulitaj langetoj
     .tooltiptext = Montri langetojn el aliaj aparatoj
+toolbar-button-send-tab =
+    .label = Sendi langeton
+    .tooltiptext = Sendi nunan langeton al alia aparato
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1265,6 +1289,9 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Dividi
     .tooltiptext = Dividi tiun ĉi paĝon
+toolbar-button-tab-groups =
+    .label = Grupoj de langetoj
+    .tooltiptext = Montri viajn grupojn de langetoj
 
 ## EME notification panel
 
@@ -1284,6 +1311,8 @@ panel-save-update-password = Pasvorto
 # "More" item in macOS share menu
 menu-share-more =
     .label = Pli…
+menu-share-windows =
+    .label = Pli da ebloj
 # Variables:
 #   $count (Number) - The number of links that will be copied.
 menu-share-copy-links =
@@ -1447,6 +1476,8 @@ unified-extensions-button-blocklisted =
 reset-pbm-toolbar-button =
     .label = Fini privatan seancon
     .tooltiptext = Fini privatan seancon
+reset-pbm-panel-heading2 = Ĉu viŝi datumojn kaj komenci novan privatan seancon?
+reset-pbm-panel-description2 = Tio ĉi forigas historion, kuketojn kaj aliajn retejajn datumojn sen fermi vian privatan fenestron.
 reset-pbm-panel-heading = Ĉu fini vian privatan seancon?
 reset-pbm-panel-description = Fermi ĉiujn privatajn langetojn kaj forigi historion, kuketojn kaj ĉiujn aliajn retejajn datumojn.
 reset-pbm-panel-always-ask-checkbox =
@@ -1455,10 +1486,16 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Nuligi
     .accesskey = N
+reset-pbm-panel-confirm-button2 =
+    .label = Viŝi privatan seancon
+    .accesskey = V
 reset-pbm-panel-confirm-button =
     .label = Forigi seancajn datumojn
     .accesskey = s
 reset-pbm-panel-complete = Datumoj de privata seanco estis forigitaj
+reset-pbm-toolbar-button2 =
+    .label = Viŝi privatan seancon
+    .tooltiptext = Viŝi privatan seancon
 
 ## Autorefresh blocker
 
@@ -1701,8 +1738,22 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permesis { $count } minilojn de ĉifromono
     }
 trustpanel-cryptominer-tab-list-header = Tiuj ĉi retejoj klopodas mini ĉifromonon:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = Ĉu vi havas konton en tiu retejo?
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } malkovris ke tiu ĉi retejo spertis datumfuĝon dum la lastaj 12 monatoj. Kontrolu ĉu tio koncernas vin.
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Ignori
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = Komenci senpagan analizon
 trustpanel-blocker-section-header2 =
     { $count ->
         [one] <span data-l10n-name="count">{ $count }</span> spurilo blokita en tiu ĉi retejo
        *[other] <span data-l10n-name="count">{ $count }</span> spuriloj blokitaj en tiu ĉi retejo
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>Ĉu la retejo ŝajnas misfunkcii?</strong> Reŝargu la paĝon por provizore malaltigi la protekton kontraŭ spurado.
+reduced-protection-infobar-reload-button = Reŝargi
+    .accesskey = R
+reduced-protection-infobar-never-show-button = Ne montri denove
+    .accesskey = N

@@ -186,7 +186,7 @@ extensions-warning-imported-addons2 =
             [with-cases] Dokončete prosím instalaci rozšíření naimportovaných do { -brand-short-name(case: "gen") }.
            *[no-cases] Dokončete prosím instalaci rozšíření naimportovaných do aplikace { -brand-short-name }.
         }
-extensions-warning-imported-addons-button = Nainstalovat rozšření
+extensions-warning-imported-addons-button = Nainstalovat rozšíření
 extensions-warning-safe-mode3 =
     .message = Všechny doplňky byly režimem řešení potíží zakázány.
 
@@ -295,24 +295,24 @@ discopane-intro =
             Rozšíření a vzhledy jsou něco jako aplikace pro váš prohlížeč. S nimi můžete chránit
             svá hesla, stahovat videa, hledat výhodné nabídky, blokovat otravné reklamy,
             měnit vzhled prohlížeče a mnoho dalšího. Tyto malé prográmky většinou vytváří
-            někdy jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>
+            někdo jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>
             pro { -brand-product-name(case: "acc") } díky jejich jedinečné bezpečnosti a funkcím.
        *[no-cases]
             Rozšíření a vzhledy jsou něco jako aplikace pro váš prohlížeč. S nimi můžete chránit
             svá hesla, stahovat videa, hledat výhodné nabídky, blokovat otravné reklamy,
             měnit vzhled prohlížeče a mnoho dalšího. Tyto malé prográmky většinou vytváří
-            někdy jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>
+            někdo jiný než my. Zde je výběr rozšíření <a data-l10n-name="learn-more-trigger">doporučených</a>
             pro aplikaci { -brand-product-name } díky jejich jedinečné bezpečnosti a funkcím.
     }
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Některá z těchto doporučení se zobrazují na základě informací o ostatních
-    vámi nainstalovaných rozšíření, nastavení profilu a statistik o používání.
+    vámi nainstalovaných rozšířeních, nastavení profilu a statistik o používání.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
     .message =
         Některá z těchto doporučení se zobrazují na základě informací o ostatních
-        vámi nainstalovaných rozšíření, nastavení profilu a statistik o používání.
+        vámi nainstalovaných rozšířeních, nastavení profilu a statistik o používání.
 discopane-notice-learn-more = Zjistit více
 # Notice for the colorway theme removal
 colorway-removal-notice-message =

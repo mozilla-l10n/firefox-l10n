@@ -11,7 +11,7 @@ cert-error-mitm-mozilla =
         [with-cases] Za { -brand-short-name(case: "ins") } stojí nezisková organizace Mozilla, která spravuje otevřené úložiště certifikačních autorit (CA). Toto úložiště zajišťuje, aby certifikační autority dodržovaly osvědčené bezpečnostní postupy.
        *[no-cases] Za aplikací { -brand-short-name } stojí nezisková organizace Mozilla, která spravuje otevřené úložiště certifikačních autorit (CA). Toto úložiště zajišťuje, aby certifikační autority dodržovaly osvědčené bezpečnostní postupy.
     }
-cert-error-mitm-connection = { -brand-short-name } používá úložiště certifikačních autorit od Mozilly, nikoliv úložiště z operačního systému. Pokud antivirový program nebo někdo na síti zachytává spojení s použitím certifikátu od autority, která v úložišti Mozilly není, je toto spojení považováno ze nezabezpečené.
+cert-error-mitm-connection = { -brand-short-name } používá úložiště certifikačních autorit od Mozilly, nikoliv úložiště z operačního systému. Pokud antivirový program nebo někdo na síti zachytává spojení s použitím certifikátu od autority, která v úložišti Mozilly není, je toto spojení považováno za nezabezpečené.
 cert-error-trust-unknown-issuer-intro = Někdo se může snažit vydávat za zmiňovaný server a proto byste neměli v připojení pokračovat.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -145,7 +145,7 @@ fp-learn-more-about-time-related-errors = Zjistit více o řešení chyb souvise
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $datetime (Date) - Date the cert becomes valid.
-fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že poskytnutý certifikát bude platný až po  { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } nedůvěřuje tomuto webu, protože se zdá, že poskytnutý certifikát bude platný až po { DATETIME($date, timeStyle: "short") } dne { DATETIME($date, month: "numeric", day: "numeric", year: "numeric") }.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 # Variables:
 #   $date (Date) - Device's clock date.
@@ -221,7 +221,7 @@ cert-error-invalid-key =
 cert-error-unknown-critical-extension =
     { -brand-short-name.case-status ->
         [with-cases] { -brand-short-name } zablokoval vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje nepodporované kritické rozšíření.
-       *[no-cases] Aplikce { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje nepodporované kritické rozšíření.
+       *[no-cases] Aplikace { -brand-short-name } zablokovala vaši návštěvu tohoto webu, protože certifikát poskytnutý pro { $hostname } obsahuje nepodporované kritické rozšíření.
     }
 cert-error-extension-value-invalid =
     { -brand-short-name.case-status ->

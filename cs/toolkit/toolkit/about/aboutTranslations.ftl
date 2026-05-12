@@ -22,12 +22,12 @@ about-translations-policy-disabled-info-message =
 # An info message displayed when translations are disabled but can still be unblocked.
 about-translations-feature-blocked-info-message =
     .heading = Pro překlad textu odblokujte tuto funkci
-    .message = Zdá se, že jste aktualizovali ovládací prvky AI, abyste tuto funkci zablokovali. Chcete-li jej začít používat, kdykoli jej odblokujte.
+    .message = Zdá se, že jste aktualizovali ovládací prvky AI, abyste tuto funkci zablokovali. Chcete-li ji začít používat, kdykoli ji odblokujte.
 about-translations-feature-blocked-unblock-button = Odblokovat
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Nepodařilo se načíst jazyky
-    .message = Zkontroluje své připojení k internetu a zkuste to znovu.
+    .message = Zkontrolujte své připojení k internetu a zkuste to znovu.
 about-translations-language-load-error-button = Zkusit znovu
 # An error message displayed when a translation request fails.
 about-translations-translation-error-heading = Při překladu došlo k chybě
