@@ -599,6 +599,7 @@ mlmodel-link-preview = { -brand-short-name } uses this to generate key points wh
 mlmodel-pdfjs = { -brand-short-name } uses this to create alt text for images you add to PDFs
 mlmodel-smart-tab-topic-engine = { -brand-short-name } uses this to suggest names for your tab groups
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } uses this to suggest tabs for your tab groups
+mlmodel-formfill-engine = { -brand-short-name } uses this to help fill in address forms
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = On-device AI
 addon-category-mlmodel-title =

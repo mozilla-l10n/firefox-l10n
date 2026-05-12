@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synced tabs
     .tooltiptext = Show tabs from other devices
+toolbar-button-send-tab =
+    .label = Send tab
+    .tooltiptext = Send current tab to another device
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Delete session data
     .accesskey = D
 reset-pbm-panel-complete = Private session data deleted
+reset-pbm-toolbar-button2 =
+    .label = Clear Private Session
+    .tooltiptext = Clear Private Session
 
 ## Autorefresh blocker
 

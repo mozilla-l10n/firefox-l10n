@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Select profile
 preferences-copy-profile-button = Copy
+tabs-browsing-section =
+    .heading = Tabs and browsing
+pane-tabs-browsing-title = Tabs and browsing
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Tabs
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Warn you when opening multiple tabs might slow down { -brand-short-name }
     .accesskey = d
+switch-to-new-tabs-2 =
+    .label = When opening links or media in a new tab, switch to it immediately
+    .accesskey = h
 switch-to-new-tabs =
     .label = When you open a link, image or media in a new tab, switch to it immediately
     .accesskey = h
 show-tabs-in-taskbar =
     .label = Show tab previews in the Windows taskbar
     .accesskey = k
+browser-containers-enabled-2 =
+    .label = Use Container Tabs
+    .accesskey = n
 browser-containers-enabled =
     .label = Enable Container Tabs
     .accesskey = n
 browser-containers-learn-more = Learn more
+browser-containers-settings-2 =
+    .label = Manage settings
+    .accesskey = i
 browser-containers-settings =
     .label = Settings…
     .accesskey = i
@@ -328,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Show sidebar
     .description = Quickly access bookmarks, tabs from your phone, AI chatbots, and more without leaving your main view.
+page-navigation-group =
+    .label = Page navigation
 browser-layout-header = Browser Layout
 browser-layout-horizontal-tabs =
     .label = Horizontal tabs
@@ -728,6 +743,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = Installation
+update-application-auto-2 =
+    .label = Automatically install updates (recommended)
+    .accesskey = A
 update-history =
     .label = Show Update History…
     .accesskey = p
@@ -821,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (default)
 performance-group =
     .label = Performance
+performance-use-recommended-settings-checkbox-2 =
+    .label = Use recommended performance settings
+    .description = These settings are tailored to your hardware and operating system.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -855,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Search for text when you start typing
     .accesskey = x
+settings-media-group =
+    .label = Media
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Use Picture-in-Picture
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Enable Picture-in-Picture video controls
     .accesskey = E
@@ -865,6 +892,8 @@ browsing-picture-in-picture-learn-more = Learn more
 browsing-media-control =
     .label = Control media via keyboard, headset, or virtual interface
     .accesskey = v
+recommendations-group =
+    .label = Recommendations
 browsing-media-control-learn-more = Learn more
 browsing-cfr-recommendations =
     .label = Recommend extensions as you browse
@@ -1263,6 +1292,7 @@ account-placeholder =
     .description = Sign in to keep your data private, encrypted and synchronised across devices.
 account-sync-section =
     .heading = Account and synchronisation
+pane-account-sync-title = Account and synchronisation
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Passwords and autofill settings
+pane-passwords-autofill-title = Passwords and autofill
+preferences-passwords-autofill-header =
+    .heading = Passwords and autofill
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

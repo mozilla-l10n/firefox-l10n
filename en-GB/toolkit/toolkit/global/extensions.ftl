@@ -148,6 +148,12 @@ webext-site-perms-description-gated-perms-midi =
     These are usually plug-in devices like audio synthesisers, but might also be built into your computer.
     
     Web sites are normally not allowed to access MIDI devices. Improper usage could cause damage or compromise security.
+webext-site-perms-description-gated-perms-webserial =
+    These are devices like micro-controllers, 3D printers, and other devices that connect via USB, serial ports or Bluetooth.
+    
+    You will be able to choose which devices the web site can access.
+    
+    Web sites are normally not allowed to access serial devices. Improper usage could cause damage or compromise security.
 webext-site-perms-description-gated-perms-serial =
     These are devices like microcontrollers, 3D printers and other devices that connect via USB or serial ports.
     
