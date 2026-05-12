@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Új lapon nyílik meg
+moz-box-item-reorder-handle =
+    .aria-label = Elem átrendezése a Ctrl+Shift+ArrowUp vagy a Ctrl+Shift+ArrowDown gyorsbillentyűkkel
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = { $item } átrendezése a Ctrl+Shift+ArrowUp vagy a Ctrl+Shift+ArrowDown gyorsbillentyűkkel

@@ -596,6 +596,7 @@ mlmodel-link-preview = A { -brand-short-name } használja a kulcspontok előáll
 mlmodel-pdfjs = A { -brand-short-name } használja arra, hogy alternatív szövegeket hozzon létre a PDF-hez hozzáadott képekhez
 mlmodel-smart-tab-topic-engine = A { -brand-short-name } használja, hogy neveket javasoljon a lapcsoportjaihoz
 mlmodel-smart-tab-embedding-engine = A { -brand-short-name } használja, hogy lapokat javasoljon a lapcsoportjaihoz
+mlmodel-formfill-engine = A { -brand-short-name } ezt használja a címeket tartalmazó űrlapok kitöltéséhez
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Eszközön lévő MI
 addon-category-mlmodel-title =
