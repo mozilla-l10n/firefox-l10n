@@ -68,3 +68,13 @@ webauthn-allow = לאפשר
     .accesskey = א
 webauthn-block = לחסום
     .accesskey = ח
+webauthn-continue = המשך
+    .accesskey = ה
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } רוצה ליצור מפתח גישה עבור { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } רוצה להשתמש במפתח גישה עבור { $rpId }.

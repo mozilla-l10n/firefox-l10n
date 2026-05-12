@@ -1262,6 +1262,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = 동기화된 탭
     .tooltiptext = 다른 기기의 탭 보기
+toolbar-button-send-tab =
+    .label = 탭 보내기
+    .tooltiptext = 현재 탭을 다른 기기로 보내기
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1470,6 +1473,9 @@ reset-pbm-panel-confirm-button =
     .label = 세션 데이터 삭제
     .accesskey = D
 reset-pbm-panel-complete = 사생활 보호 데이터 삭제됨
+reset-pbm-toolbar-button2 =
+    .label = 사생활 보호 세션 지우기
+    .tooltiptext = 사생활 보호 세션 지우기
 
 ## Autorefresh blocker
 

@@ -899,6 +899,8 @@ newtab-sports-widget-view-schedule =
     .label = 일정 보기
 newtab-sports-widget-follow-teams =
     .label = 팀 팔로우
+newtab-sports-widget-view-matches =
+    .label = 경기 보기
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title = 최대 { $number }개 팀 팔로우

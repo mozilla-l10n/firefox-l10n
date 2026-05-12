@@ -1279,6 +1279,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = לשוניות מסונכרנות
     .tooltiptext = הצגת לשוניות ממכשירים אחרים
+toolbar-button-send-tab =
+    .label = שליחת לשונית
+    .tooltiptext = שליחת הלשונית הנוכחית למכשיר אחר
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1491,6 +1494,9 @@ reset-pbm-panel-confirm-button =
     .label = מחיקת נתוני הפעלה
     .accesskey = מ
 reset-pbm-panel-complete = נתוני ההפעלה הפרטית נמחקו
+reset-pbm-toolbar-button2 =
+    .label = ניקוי הפעלה פרטית
+    .tooltiptext = ניקוי הפעלה פרטית
 
 ## Autorefresh blocker
 

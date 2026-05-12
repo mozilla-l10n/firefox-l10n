@@ -222,6 +222,8 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = בחירת פרופיל
 preferences-copy-profile-button = העתקה
+tabs-browsing-section =
+    .heading = לשוניות וגלישה
 tabs-group-header2 =
     .label = לשוניות
 tabs-opening-heading =
@@ -328,6 +330,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = הצגת סרגל צד
     .description = קבלת גישה מהירה לסימניות, ללשוניות מהטלפון שלך, לצ’אטבוטים של AI ועוד מבלי לעזוב את התצוגה הראשית שלך.
+page-navigation-group =
+    .label = ניווט בדף
 browser-layout-header = פריסת דפדפן
 browser-layout-horizontal-tabs =
     .label = לשוניות אופקיות
@@ -728,6 +732,9 @@ update-history-2 =
     .accesskey = ה
 update-application-installation =
     .label = התקנה
+update-application-auto-2 =
+    .label = התקנת עדכונים באופן אוטומטי (מומלץ)
+    .accesskey = ע
 update-history =
     .label = הצגת היסטוריית עדכונים…
     .accesskey = ה
@@ -821,6 +828,10 @@ performance-default-content-process-count =
     .label = { $num } (ברירת מחדל)
 performance-group =
     .label = ביצועים
+performance-use-recommended-settings-checkbox-2 =
+    .label = שימוש בהגדרות ביצועים מומלצות
+    .description = הגדרות אלו מותאמות לחומרה ולמערכת ההפעלה שלך.
+    .accesskey = ה
 
 ## Accessibility page
 
@@ -855,6 +866,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = חיפוש מלל עם תחילת הקלדה
     .accesskey = מ
+settings-media-group =
+    .label = מדיה
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = שימוש בתמונה בתוך תמונה
+    .accesskey = ת
 browsing-picture-in-picture-toggle-enabled =
     .label = הפעלת בקרי וידאו של תמונה בתוך תמונה
     .accesskey = ת
@@ -865,6 +881,8 @@ browsing-picture-in-picture-learn-more = מידע נוסף
 browsing-media-control =
     .label = שליטה במדיה באמצעות מקלדת, אוזניות או ממשק וירטואלי
     .accesskey = ש
+recommendations-group =
+    .label = המלצות
 browsing-media-control-learn-more = מידע נוסף
 browsing-cfr-recommendations =
     .label = קבלת המלצות על הרחבות תוך כדי גלישה
@@ -1263,6 +1281,7 @@ account-placeholder =
     .description = יש להיכנס כדי לשמור על הנתונים שלך פרטיים, מוצפנים ומסונכרנים בין מכשירים.
 account-sync-section =
     .heading = חשבון וסנכרון
+pane-account-sync-title = חשבון וסנכרון
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1740,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = הגדרות ססמאות ומילוי אוטומטי
+pane-passwords-autofill-title = ססמאות ומילוי אוטומטי
+preferences-passwords-autofill-header =
+    .heading = ססמאות ומילוי אוטומטי
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
