@@ -596,6 +596,7 @@ mlmodel-link-preview = { -brand-short-name } utiliza esto para generar puntos cl
 mlmodel-pdfjs = { -brand-short-name } utiliza esto para crear texto alternativo en las imágenes al agregarlas a archivos PDF
 mlmodel-smart-tab-topic-engine = { -brand-short-name } utiliza esto para sugerir nombres para los grupos de pestañas
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } utiliza esto para sugerir pestañas para los grupos de pestañas
+mlmodel-formfill-engine = { -brand-short-name } utiliza esto para ayudar a completar formularios de direcciones.
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = IA en el dispositivo
 addon-category-mlmodel-title =
