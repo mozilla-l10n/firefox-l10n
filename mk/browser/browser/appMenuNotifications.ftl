@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+appmenu-update-available2 =
+    .label = Достапно е ажурирање
+    .buttonlabel = Преземи
+    .buttonaccesskey = П
+    .secondarybuttonlabel = Отфрли
+    .secondarybuttonaccesskey = О
 appmenu-update-available-message2 = Преземете ја најновата верзија на { -brand-shorter-name }.
 appmenu-update-manual2 =
     .label = Достапна е надградба
@@ -24,6 +30,9 @@ appmenu-update-restart2 =
     .secondarybuttonlabel = Откажи
     .secondarybuttonaccesskey = m
 appmenu-update-restart-message2 = Преземете ја најновата верзија на { -brand-shorter-name }. Отворените јазичиња и прозорци ќе бидат обновени.
+appmenu-theme-installed =
+    .secondarybuttonlabel = Врати
+    .secondarybuttonaccesskey = р
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } не може да се надгради на најновата верзија.
     .buttonlabel = Сепак, ажурирајте го { -brand-shorter-name }
@@ -35,6 +44,12 @@ appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Во ред
     .buttonaccesskey = О
 appmenu-addon-post-install-message3 = Управувајте со вашите додатоци и теми преку менито на апликацијата.
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = Ажурирајте ги дозволите и поставките за податоци во секое време во <a data-l10n-name="settings-link">поставките за екстензии</a>.
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = Закачи го проширувањето на лентата со алатки
+    .accesskey = п
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволете оваа наставка да работи во приватни прозорчиња
     .accesskey = А
@@ -50,3 +65,9 @@ appmenu-homepage-controlled-changes =
     .buttonaccesskey = К
     .secondarybuttonlabel = Управувајте со почетната страница
     .secondarybuttonaccesskey = М
+appmenu-tab-hide-controlled =
+    .label = Пристап до скриените јазичиња
+    .buttonlabel = Чувај скриен јазичиња
+    .buttonaccesskey = к
+    .secondarybuttonlabel = Оневозмозможи го проширувањето
+    .secondarybuttonaccesskey = н
