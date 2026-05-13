@@ -16,4 +16,5 @@ content-sharing-modal-link-copied =
     .label = 链接已复制
 content-sharing-modal-sign-in =
     .label = 登录以分享链接
+content-sharing-modal-title = 将这组链接分享到任意浏览器
 content-sharing-modal-description = 为这些链接创建公开页面，以便分享。页面创建后，不能再编辑或删除，并将在 7 天后失效。
