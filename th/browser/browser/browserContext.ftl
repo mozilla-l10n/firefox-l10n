@@ -299,6 +299,8 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = ส่งไปยังมือถือ
     .accesskey = ม
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-sign-in = ลงชื่อเข้าเพื่อส่งแท็บ
 main-context-menu-send-to-mobile-enable-sync2 = เปิดใช้งานซิงค์เพื่อส่งแท็บ
 main-context-menu-send-to-mobile-connect-phone2 = เชื่อมต่อโทรศัพท์ของคุณ
 main-context-menu-send-to-mobile-device-missing2 = ไม่เห็นอุปกรณ์ของคุณ?

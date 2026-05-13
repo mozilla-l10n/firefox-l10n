@@ -1266,6 +1266,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = แท็บที่ซิงค์
     .tooltiptext = แสดงแท็บจากอุปกรณ์อื่น ๆ
+toolbar-button-send-tab =
+    .label = ส่งแท็บ
+    .tooltiptext = ส่งแท็บปัจจุบันไปยังอุปกรณ์อื่น
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1474,6 +1477,9 @@ reset-pbm-panel-confirm-button =
     .label = ลบข้อมูลเซสชัน
     .accesskey = ล
 reset-pbm-panel-complete = ลบข้อมูลเซสชันส่วนตัวแล้ว
+reset-pbm-toolbar-button2 =
+    .label = ล้างเซสชันส่วนตัว
+    .tooltiptext = ล้างเซสชันส่วนตัว
 
 ## Autorefresh blocker
 
