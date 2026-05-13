@@ -117,6 +117,10 @@ sidebar-item-session-history = Oturum geçmişi
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Oturum geçmişi verilerini göster
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Oturum geçmişi diyagramı kullanılamıyor
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Hedef, oturum geçmişi diyagramlarının gösterilmesini desteklemiyor
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Uyarı simgesi

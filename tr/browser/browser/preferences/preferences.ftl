@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Profil seçin
 preferences-copy-profile-button = Kopyala
+tabs-browsing-section =
+    .heading = Sekmeler ve gezinti
+pane-tabs-browsing-title = Sekmeler ve gezinti
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Sekmeler
 tabs-opening-heading =
@@ -272,10 +276,16 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Sekme ön izlemelerini Windows görev çubuğunda göster
     .accesskey = ö
+browser-containers-enabled-2 =
+    .label = Kapsayıcı sekmeleri kullan
+    .accesskey = m
 browser-containers-enabled =
     .label = Kapsayıcı sekmeleri etkinleştir
     .accesskey = K
 browser-containers-learn-more = Daha fazla bilgi al
+browser-containers-settings-2 =
+    .label = Ayarları yönet
+    .accesskey = A
 browser-containers-settings =
     .label = Ayarlar…
     .accesskey = A
@@ -855,6 +865,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Yazmaya başladığımda metin araması yap
     .accesskey = z
+settings-media-group =
+    .label = Ortam
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Görüntü içinde görüntüyü kullan
+    .accesskey = G
 browsing-picture-in-picture-toggle-enabled =
     .label = Görüntü içinde görüntü video düğmelerini etkinleştir
     .accesskey = G
@@ -865,6 +880,8 @@ browsing-picture-in-picture-learn-more = Daha fazla bilgi al
 browsing-media-control =
     .label = Medya oynatmayı klavye, kulaklık veya sanal arayüzle yönet
     .accesskey = M
+recommendations-group =
+    .label = Öneriler
 browsing-media-control-learn-more = Daha fazla bilgi al
 browsing-cfr-recommendations =
     .label = Gezinirken yeni uzantılar öner
@@ -1263,6 +1280,7 @@ account-placeholder =
     .description = Verilerinizi gizli, şifreli ve tüm cihazlarınızla eşitlenmiş tutmak için giriş yapın.
 account-sync-section =
     .heading = Hesap ve eşitleme
+pane-account-sync-title = Hesap ve eşitleme
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1739,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Parolalar ve otomatik doldurma ayarları
+pane-passwords-autofill-title = Parolalar ve otomatik doldurma
+preferences-passwords-autofill-header =
+    .heading = Parolalar ve otomatik doldurma
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

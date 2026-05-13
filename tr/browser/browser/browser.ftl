@@ -1280,6 +1280,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Eşitlenmiş sekmeler
     .tooltiptext = Diğer cihazlardaki sekmeleri göster
+toolbar-button-send-tab =
+    .label = Sekmeyi gönder
+    .tooltiptext = Geçerli sekmeyi başka bir cihaza gönder
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Oturum verilerini sil
     .accesskey = O
 reset-pbm-panel-complete = Gizli oturum verileri silindi
+reset-pbm-toolbar-button2 =
+    .label = Gizli oturumu temizle
+    .tooltiptext = Gizli oturumu temizle
 
 ## Autorefresh blocker
 

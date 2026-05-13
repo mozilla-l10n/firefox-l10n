@@ -68,3 +68,13 @@ webauthn-allow = İzin ver
     .accesskey = z
 webauthn-block = Engelle
     .accesskey = E
+webauthn-continue = Devam et
+    .accesskey = D
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin }, { $rpId } için geçiş anahtarı oluşturmak istiyor.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin }, { $rpId } için geçiş anahtarı kullanmak istiyor.
