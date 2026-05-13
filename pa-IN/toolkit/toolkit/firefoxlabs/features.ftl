@@ -46,9 +46,14 @@ experimental-features-newtab-widget-lists =
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name } ਉੱਤੇ ਘੜੀ
+experimental-features-newtab-widget-timer-new =
+    .label = ਟਾਈਮਰ
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = { -firefox-home-brand-name } ਉੱਤੇ ਸੂਚੀਆਂ ਅਤੇ ਘੜੀ
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = ਮੌਸਮੀ ਭਵਿੱਖਬਾਣੀਆਂ
 # Picture of the Day Widget
 experimental-features-newtab-widget-picture-of-the-day =
     .label = ਅੱਜ ਦੀ ਤਸਵੀਰ

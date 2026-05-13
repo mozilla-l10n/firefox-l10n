@@ -279,10 +279,16 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = ਵਿੰਡੋ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਟੈਬ ਝਲਕਾਂ ਨੂੰ ਵੇਖੋ
     .accesskey = k
+browser-containers-enabled-2 =
+    .label = ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = n
 browser-containers-enabled =
     .label = ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
     .accesskey = n
 browser-containers-learn-more = ਹੋਰ ਜਾਣੋ
+browser-containers-settings-2 =
+    .label = ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .accesskey = i
 browser-containers-settings =
     .label = …ਸੈਟਿੰਗਾਂ
     .accesskey = i
@@ -335,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = ਬਾਹੀ ਨੂੰ ਵੇਖਾਓ
     .description = ਆਪਣੇ ਫ਼ੋਨ ਤੋਂ ਬੁੱਕਮਾਰਕ, ਟੈਬਾਂ, AI ਚੈਟਬੋਟਾਂ ਤੇ ਹੋਰਾਂ ਵਾਸਤੇ ਬਿਨਾਂ ਆਪਣੀ ਮੁੱਖ ਝਲਕ ਛੱਡੇ ਬਗੈਰ ਫ਼ੌਰਨ ਪਹੁੰਚ।
+page-navigation-group =
+    .label = ਸਫ਼ਾ ਨੇਵੀਗੇਸ਼ਨ
 browser-layout-header = ਬਰਾਊਜ਼ਰ ਦਾ ਲੇਆਉਟ
 browser-layout-horizontal-tabs =
     .label = ਲੇਟਵੀਆਂ ਟੈਬਾਂ
@@ -735,6 +743,9 @@ update-history-2 =
     .accesskey = p
 update-application-installation =
     .label = ਇੰਸਟਾਲੇਸ਼ਨ
+update-application-auto-2 =
+    .label = ਅੱਪਡੇਟ ਆਪਣੇ-ਆਪ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ)
+    .accesskey = A
 update-history =
     .label = …ਅੱਪਡੇਟ ਅਤੀਤ ਵੇਖੋ
     .accesskey = p
@@ -828,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (ਡਿਫਾਲਟ)
 performance-group =
     .label = ਕਾਰਗੁਜ਼ਾਰੀ
+performance-use-recommended-settings-checkbox-2 =
+    .label = ਸਿਫਾਰਸ਼ੀ ਕਾਰਗੁਜ਼ਾਰੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਵਰਤੋਂ
+    .description = ਇਹ ਸੈਟਿੰਗਾਂ ਨੂੰ ਤੁਹਾਡੇ ਹਾਰਡਵੇਅਰ ਅਤੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਮੁਤਾਬਕ ਢਾਲਿਆ ਗਿਆ ਹੈ
+    .accesskey = U
 
 ## Accessibility page
 
@@ -862,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = ਜਿਵੇਂ ਤੁਸੀਂ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰਦੇ ਹੋ ਤਾਂ ਨਾਲ ਨਾਲ ਖੋਜੋ
     .accesskey = x
+settings-media-group =
+    .label = ਮੀਡਿਆ
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = ਤਸਵੀਰ-‘ਚ-ਤਸਵੀਰ ਨੂੰ ਵਰਤੋਂ
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਵਿਡੀਓ ਕੰਟਰੋਲ ਸਮਰੱਥ ਕਰੋ
     .accesskey = E
@@ -872,6 +892,8 @@ browsing-picture-in-picture-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-media-control =
     .label = ਕੀਬੋਰਡ, ਹੈੱਡਸੈੱਟ ਜਾਂ ਵਰਚੁਅਲ ਇੰਟਰਫੇਸ ਰਾਹੀਂ ਮੀਡਿਆ ਕੰਟਰੋਲ ਕਰੋ
     .accesskey = v
+recommendations-group =
+    .label = ਸਿਫਾਰਸ਼ਾਂ
 browsing-media-control-learn-more = ਹੋਰ ਜਾਣੋ
 browsing-cfr-recommendations =
     .label = ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
@@ -1270,6 +1292,7 @@ account-placeholder =
     .description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਪ੍ਰਾਈਵੇਟ, ਇੰਕ੍ਰਿਪਟ ਕੀਤਾ ਅਤੇ ਸਿੰਕ ਕੀਤਾ ਰੱਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।
 account-sync-section =
     .heading = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
+pane-account-sync-title = ਖਾਤਾ ਅਤੇ ਸਿੰਕ
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1728,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ ਸੈਟਿੰਗਾਂ
+pane-passwords-autofill-title = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
+preferences-passwords-autofill-header =
+    .heading = ਪਾਸਵਰਡ ਅਤੇ ਆਟੋ-ਫਿਲ
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
