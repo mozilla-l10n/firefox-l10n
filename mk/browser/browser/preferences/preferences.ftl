@@ -13,7 +13,7 @@ managed-notice-nav =
     .label = Вашата организација управува со вашиот прелистувач.
 category-list =
     .aria-label = Категории
-pane-general-title = Централа
+pane-general-title = Општо
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Почетна
@@ -120,7 +120,7 @@ language-header = Јазик
 choose-language-description = Изберете го посакуваниот јазик за прикажување на страници
 choose-button =
     .label = Изберете…
-    .accesskey = О
+    .accesskey = б
 confirm-browser-language-change-button = Примени и рестартирај
 fx-translate-web-pages = { -translations-brand-name }
 # The <img> element is replaced by the logo of the provider
