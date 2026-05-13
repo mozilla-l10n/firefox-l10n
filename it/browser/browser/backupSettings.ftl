@@ -21,7 +21,7 @@ backup-folder-name = Ripristina { -brand-product-name }
 backup-file-name = Backup{ -brand-product-name }
 settings-data-backup-header2 =
     .label = Backup
-    .description = Proteggi automaticamente segnalibri, cronologia e altri dati. <a data-l10n-name="support-link">Ulteriori informazioni</a>
+    .description = Proteggi automaticamente segnalibri, cronologia e altri dati.
 settings-data-backup-toggle = Gestisci backup
 settings-data-backup-toggle-on2 =
     .label = Attiva backup
