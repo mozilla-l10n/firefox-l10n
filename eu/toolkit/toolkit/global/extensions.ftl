@@ -149,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Hauek oro har entxufatzen diren gailuak dira, adib. audio sintetizadoreak, baina zure ordenagailuaren parte ere izan litezke.
     
     Webguneak orokorrean ez dute MIDI gailuetara sarbidea izateko baimenik. Erabilpen okerrak kalteak eragin litzake edo segurtasuna arriskuan jarri.
+webext-site-perms-description-gated-perms-webserial =
+    Hauek USB, serieko ataka edo Bluetooh bidez konektatzen diren mikrokontrolagailu, 3D inprimagailu edo bestelako gailuak dira.
+    
+    Webguneak atzitu ahal izango dituen gailuak aukeratu ahal izango dituzu.
+    
+    Webguneak oro har ez dute serieko gailurik atzitzeko baimenik. Erabilpen okerrak kalteak eragin edo segurtasuna arriskuan jar lezake.
 webext-site-perms-description-gated-perms-serial =
     Hauek USB edo serieko ataka bidez konektatzen diren mikrokontrolagailu, 3D inprimagailu edo bestelako gailuak dira.
     

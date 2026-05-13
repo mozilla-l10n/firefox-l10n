@@ -299,6 +299,8 @@ main-context-menu-send-to-device-2 =
 main-context-menu-send-to-mobile-2 =
     .label = Bidali mugikorrera
     .accesskey = d
+# Displayed within the send tab submenu to prompt users to sign in, enable sync, or pair a device
+main-context-menu-send-to-mobile-sign-in = Hasi saioa fitxak bidaltzeko
 main-context-menu-send-to-mobile-enable-sync2 = Gaitu sinkronizazioa fitxa bidaltzeko
 main-context-menu-send-to-mobile-connect-phone2 = Konektatu zure telefonoa
 main-context-menu-send-to-mobile-device-missing2 = Ez duzu zure gailua ikusten?

@@ -68,3 +68,5 @@ webauthn-allow = Baimendu
     .accesskey = A
 webauthn-block = Blokeatu
     .accesskey = B
+webauthn-continue = Jarraitu
+    .accesskey = r

@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Sinkronizatutako fitxak
     .tooltiptext = Erakutsi beste gailuetako fitxak
+toolbar-button-send-tab =
+    .label = Bidali fitxa
+    .tooltiptext = Bidali uneko fitxa beste gailu batera
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Ezabatu saioko datuak
     .accesskey = s
 reset-pbm-panel-complete = Saio pribatuko datuak ezabatuta
+reset-pbm-toolbar-button2 =
+    .label = Garbitu saio pribatua
+    .tooltiptext = Garbitu saio pribatua
 
 ## Autorefresh blocker
 

@@ -585,6 +585,7 @@ mlmodel-link-preview = { -brand-short-name }(e)k hau darabil loturen aurrebistet
 mlmodel-pdfjs = { -brand-short-name }(e)k hau darabil PDFetan gehitutako irudietako testu alternatiboa sortzeko
 mlmodel-smart-tab-topic-engine = { -brand-short-name }(e)k hau darabil fitxa-taldeen izenak gomendatzeko
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }(e)k hau darabil fitxa-taldeetarako fitxak gomendatzeko
+mlmodel-formfill-engine = Helbideak eskatzen dituzten inprimakiak betetzen laguntzeko erabiltzen du hau { -brand-short-name }(e)k
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Gailuko AA
 addon-category-mlmodel-title =
