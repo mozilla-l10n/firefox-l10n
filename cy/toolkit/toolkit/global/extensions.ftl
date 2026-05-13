@@ -162,7 +162,7 @@ webext-site-perms-description-gated-perms-midi =
     
     Nid yw gwefannau yn cael mynediad i ddyfeisiau MIDI fel arfer. Gall ddefnydd amhriodol achosi difrod neu beryglu diogelwch.
 webext-site-perms-description-gated-perms-webserial =
-    Mae'r rhain yn ddyfeisiau fel microreolyddion, argraffwyr 3D, a dyfeisiau eraill sy'n cysylltu trwy USB neu byrth cyfresol.
+    Mae'r dyfeisiau hyn, microreolyddion, argraffwyr 3D, a dyfeisiau eraill sy'n cysylltu trwy USB neu byrth cyfresol.
     
     Byddwch yn gallu dewis pa ddyfeisiau y gall y wefan gael mynediad iddyn nhw.
     
