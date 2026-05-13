@@ -839,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (predefinite)
 performance-group =
     .label = Rendimento
+performance-use-recommended-settings-checkbox-2 =
+    .label = Usar le configurationes de prestation recommendate
+    .description = Iste configurationes es adaptate a tu hardware e a tu systema operative.
+    .accesskey = U
 
 ## Accessibility page
 
@@ -875,6 +879,9 @@ browsing-search-on-start-typing =
     .accesskey = x
 settings-media-group =
     .label = Medios
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Usar Imagine annidate
+    .accesskey = a
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar controlos de video imagine-in-imagine
     .accesskey = A
@@ -1744,6 +1751,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Configurationes del contrasignos e del compilation automatic
 pane-passwords-autofill-title = Contrasignos e compilation automatic
 preferences-passwords-autofill-header =
     .heading = Contrasignos e compilation automatic

@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Se aperi in un nove scheda
+moz-box-item-reorder-handle =
+    .aria-label = Reordinar elemento usante Ctrl+Majusc+FlechaSup o Ctrl+Majusc+FlechaInf
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Reordinar { $item } usante Ctrl+Majusc+FlechaSup o Ctrl+Majusc+FlechaInf
