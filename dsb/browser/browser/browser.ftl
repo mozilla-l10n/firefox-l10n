@@ -1295,6 +1295,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Synchronizěrowane rejtariki
     .tooltiptext = Rejtariki z drugich rědow pokazaś
+toolbar-button-send-tab =
+    .label = Rejtarik pósłaś
+    .tooltiptext = Aktualny rejtarik na drugi rěd pósłaś
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1509,6 +1512,9 @@ reset-pbm-panel-confirm-button =
     .label = Pósejźeńske daty lašowaś
     .accesskey = l
 reset-pbm-panel-complete = Priwatne pósejźeńske daty su se wulašowali
+reset-pbm-toolbar-button2 =
+    .label = Priwatne pósejźenje wulašowaś
+    .tooltiptext = Priwatne pósejźenje wulašowaś
 
 ## Autorefresh blocker
 

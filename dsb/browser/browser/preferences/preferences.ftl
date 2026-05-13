@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Profil wubraś
 preferences-copy-profile-button = Kopěrowaś
+tabs-browsing-section =
+    .heading = Rejtariki a pśeglědowanje
+pane-tabs-browsing-title = Rejtariki a pśeglědowanje
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Rejtariki
 tabs-opening-heading =
@@ -272,6 +276,9 @@ switch-to-new-tabs =
 show-tabs-in-taskbar =
     .label = Rejtarikowe pśeglědy we Windowsowej nadawkowej rědce pokazaś
     .accesskey = R
+browser-containers-enabled-2 =
+    .label = Kontejnerowe rejtariki wužywaś
+    .accesskey = n
 browser-containers-enabled =
     .label = Kontejnerowe rejtariki zmóžniś
     .accesskey = m
@@ -739,6 +746,9 @@ update-history-2 =
     .accesskey = h
 update-application-installation =
     .label = Instalacija
+update-application-auto-2 =
+    .label = Aktualizacije awtomatiski instalěrowaś (dopórucone)
+    .accesskey = A
 update-history =
     .label = Aktualizacisku historiju pokazaś…
     .accesskey = h
@@ -832,6 +842,10 @@ performance-default-content-process-count =
     .label = { $num } (standard)
 performance-group =
     .label = Wugbaśe
+performance-use-recommended-settings-checkbox-2 =
+    .label = Dopórucone wugbaśowe nastajenja wužywaś
+    .description = Toś te nastajenja su na wašu hardware a źěłowy system pśiměrjone.
+    .accesskey = D
 
 ## Accessibility page
 

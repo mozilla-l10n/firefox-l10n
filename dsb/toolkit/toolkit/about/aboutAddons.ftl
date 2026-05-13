@@ -593,6 +593,7 @@ mlmodel-link-preview = { -brand-short-name } to wužywa, aby klucowe dypki gener
 mlmodel-pdfjs = { -brand-short-name } to wužywa, aby alternatiwny tekst za wobraze napórał, kótarež datajam PDF pśidawaśo
 mlmodel-smart-tab-topic-engine = { -brand-short-name } to wužywa, aby mě za waše kupki rejtarikow naraźił
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } to wužywa, aby rejtariki za waše kupki rejtarikow naraźił
+mlmodel-formfill-engine = { -brand-short-name } to wužywa, aby adresowe formulary wupołnił.
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = KI na rěźe
 addon-category-mlmodel-title =

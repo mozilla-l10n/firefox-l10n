@@ -917,6 +917,8 @@ newtab-sports-widget-view-schedule =
     .label = Grajny plan pokazaś
 newtab-sports-widget-follow-teams =
     .label = Teamam slědowaś
+newtab-sports-widget-view-matches =
+    .label = Graśa pokazaś
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
