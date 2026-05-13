@@ -68,3 +68,13 @@ webauthn-allow = Tastean
     .accesskey = T
 webauthn-block = Blokkearje
     .accesskey = B
+webauthn-continue = Trochgean
+    .accesskey = n
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } wol in wachtwurdkaai oanmeitsje foar { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } wol in wachtwurdkaai brûke foar { $rpId }.

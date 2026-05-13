@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Profyl selektearje
 preferences-copy-profile-button = Kopiearje
+tabs-browsing-section =
+    .heading = Ljepblêden en navigearje
+pane-tabs-browsing-title = Ljepblêden en navigearje
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Ljepblêden
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = My warskôgje as it iepenjen fan mear ljepblêden { -brand-short-name } fertrage kin
     .accesskey = w
+switch-to-new-tabs-2 =
+    .label = As in keppeling of media iepenet yn in nij ljepblêd, der daliks nei ta gean
+    .accesskey = k
 switch-to-new-tabs =
     .label = As jo in keppeling, ôfbylding of media iepenje yn in nij ljepblêd, der daliks nei ta gean
     .accesskey = d
 show-tabs-in-taskbar =
     .label = Ljepblêdfoarbylden yn de Windows-taakbalke toane
     .accesskey = W
+browser-containers-enabled-2 =
+    .label = Kontenerljepblêden brûke
+    .accesskey = n
 browser-containers-enabled =
     .label = Kontenerljepblêden ynskeakelje
     .accesskey = n
 browser-containers-learn-more = Mear ynfo
+browser-containers-settings-2 =
+    .label = Ynstellingen beheare
+    .accesskey = i
 browser-containers-settings =
     .label = Ynstellingen…
     .accesskey = i
@@ -328,6 +341,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Sidebalke toane
     .description = Benaderje fluch blêdwizers, ljepblêden fan jo telefoan, AI-chatbots en mear sûnder jo haadfinster te ferlitten.
+page-navigation-group =
+    .label = Sidenavigaasje
 browser-layout-header = Browseryndieling
 browser-layout-horizontal-tabs =
     .label = Horizontale ljepblêden
@@ -728,6 +743,9 @@ update-history-2 =
     .accesskey = s
 update-application-installation =
     .label = Ynstallaasje
+update-application-auto-2 =
+    .label = Fernijingen automatysk ynstallearje (oanrekommandearre)
+    .accesskey = F
 update-history =
     .label = Fernijingsskiednis toane…
     .accesskey = s
@@ -821,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (standert)
 performance-group =
     .label = Prestaasjes
+performance-use-recommended-settings-checkbox-2 =
+    .label = Oanrekommandearre prestaasjeynstellingen brûke
+    .description = Dizze ynstellingen binne oanpast foar jo hardware en bestjoeringssysteem.
+    .accesskey = O
 
 ## Accessibility page
 
@@ -855,6 +877,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Nei tekst sykje as ik begjin mei typen
     .accesskey = N
+settings-media-group =
+    .label = Media
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Picture-in-picture brûke
+    .accesskey = e
 browsing-picture-in-picture-toggle-enabled =
     .label = Picture-in-picture-fideobestjoering ynskeakelje
     .accesskey = P
@@ -865,6 +892,8 @@ browsing-picture-in-picture-learn-more = Mear ynfo
 browsing-media-control =
     .label = Behear media fia toetseboerd, headset of firtuele interface
     .accesskey = f
+recommendations-group =
+    .label = Oanrekommandaasjes
 browsing-media-control-learn-more = Mear ynfo
 browsing-cfr-recommendations =
     .label = Utwreidingen oanrekommandearje wylst jo sneupe
@@ -1263,6 +1292,7 @@ account-placeholder =
     .description = Meld jo oan om jo gegevens privee, fersifere en tusken apparaten syngronisearre te hâlden.
 account-sync-section =
     .heading = Accoant en syngronisaasje
+pane-account-sync-title = Account en syngronisaasje
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1721,6 +1751,9 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title = Wachtwurden en automatysk ynfolje
+preferences-passwords-autofill-header =
+    .heading = Wachtwurden en automatysk ynfolje
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

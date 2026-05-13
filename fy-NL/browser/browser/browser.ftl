@@ -1281,6 +1281,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Syngroane ljepblêden
     .tooltiptext = Ljepblêden fan oare apparaten toane
+toolbar-button-send-tab =
+    .label = Ljepblêd ferstjoere
+    .tooltiptext = Aktuele ljepblêd nei oar apparaat ferstjoere
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1493,6 +1496,9 @@ reset-pbm-panel-confirm-button =
     .label = Sesjegegevens fuortsmite
     .accesskey = g
 reset-pbm-panel-complete = Priveesesjegegevens fuortsmiten
+reset-pbm-toolbar-button2 =
+    .label = Priveesesje wiskje
+    .tooltiptext = Priveesesje wiskje
 
 ## Autorefresh blocker
 

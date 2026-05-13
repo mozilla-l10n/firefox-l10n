@@ -149,6 +149,12 @@ webext-site-perms-description-gated-perms-midi =
     Dit binne meastentiids ynstekkerapparaten lykas audiosyntesizers, mar se kinne ek yn jo kompjûter ynboud wêze.
     
     Websites hawwe normaal sprutsen gjin tagong ta MIDI-apparaten. Net krekt gebrûk kin skea feroarsaakje of de befeiliging yn gefaar bringe.
+webext-site-perms-description-gated-perms-webserial =
+    Dit binne apparaten lykas microcontrollers, 3D-printers en oare apparaten dy’t ferbine fia USB, seriële poarten of Bluetooth.
+    
+    Jo kinne kieze ta hokker apparaten de website tagong jout.
+    
+    Websites meie normaal sprutsen gjin tagong krije ta seriële apparaten. Ferkeard gebrûk kin skea feroarsaakje of de befeiliging yn gefaar bringe.
 webext-site-perms-description-gated-perms-serial =
     Dit binne apparaten lykas microcontrollers, 3D-printers en oare apparaten dy’t ferbine fia USB- of seriële poarten.
     

@@ -117,6 +117,10 @@ sidebar-item-session-history = Sesjeskiednis
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Sesjeskiednis toane
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Sesjeskiednisdiagram net beskikber
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Doel stipet it toanen fan sesjeskiednisdiagrammen net
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Warskôgingspiktogram
