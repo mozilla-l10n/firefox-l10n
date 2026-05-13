@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Se abre en nueva pestaña
+moz-box-item-reorder-handle =
+    .aria-label = Reubicar elemento usando Ctrl+Mayús+FlechaArriba o Ctrl+Mayús+FlechaAbajo.
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Reubicar { $item } usando Ctrl+Mayús+FlechaArriba o Ctrl+Mayús+FlechaAbajo.
