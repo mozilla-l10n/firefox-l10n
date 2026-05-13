@@ -60,3 +60,13 @@ webauthn-allow = อนุญาต
     .accesskey = อ
 webauthn-block = ปิดกั้น
     .accesskey = ป
+webauthn-continue = ดำเนินการต่อ
+    .accesskey = เ
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } ต้องการสร้างพาสคีย์สำหรับ { $rpId }
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } ต้องการใช้พาสคีย์สำหรับ { $rpId }
