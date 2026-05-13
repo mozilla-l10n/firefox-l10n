@@ -1309,6 +1309,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Tabiau wedi'u Cydweddu
     .tooltiptext = Dangos tabiau o ddyfeisiau eraill
+toolbar-button-send-tab =
+    .label = Anfon tabiau
+    .tooltiptext = Anfon y tab cyfredol i ddyfais arall
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1525,6 +1528,9 @@ reset-pbm-panel-confirm-button =
     .label = Dileu data sesiwn
     .accesskey = s
 reset-pbm-panel-complete = Data sesiwn preifat wedi'i ddileu
+reset-pbm-toolbar-button2 =
+    .label = Clirio Sesiwn Preifat
+    .tooltiptext = Clirio Sesiwn Preifat
 
 ## Autorefresh blocker
 

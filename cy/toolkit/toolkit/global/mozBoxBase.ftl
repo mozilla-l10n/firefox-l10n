@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Yn agor mewn tab newydd
+moz-box-item-reorder-handle =
+    .aria-label = Ail drefnu eitem gan ddefnyddio Ctrl+Shift+ArrowUp neu Ctrl+Shift+ArrowDown
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Ail drefnu { $item } gan ddefnyddio Ctrl+Shift+ArrowUp neu Ctrl+Shift+ArrowDown

@@ -161,6 +161,12 @@ webext-site-perms-description-gated-perms-midi =
     Mae'r rhain fel arfer yn ddyfeisiadau plygio i mewn fel syntheseisyddion sain, ond efallai eu bod hefyd wedi'u cynnwys yn eich cyfrifiadur.
     
     Nid yw gwefannau yn cael mynediad i ddyfeisiau MIDI fel arfer. Gall ddefnydd amhriodol achosi difrod neu beryglu diogelwch.
+webext-site-perms-description-gated-perms-webserial =
+    Mae'r rhain yn ddyfeisiau fel microreolyddion, argraffwyr 3D, a dyfeisiau eraill sy'n cysylltu trwy USB neu byrth cyfresol.
+    
+    Byddwch yn gallu dewis pa ddyfeisiau y gall y wefan gael mynediad iddyn nhw.
+    
+    Fel arfer does dim caniatâd i wefannau gael mynediad i ddyfeisiau cyfresol. Gallai defnydd amhriodol achosi difrod neu beryglu diogelwch.
 webext-site-perms-description-gated-perms-serial =
     Mae'r rhain yn ddyfeisiau fel microreolyddion, argraffwyr 3D, a dyfeisiau eraill sy'n cysylltu trwy USB neu byrth cyfresol.
     

@@ -117,6 +117,10 @@ sidebar-item-session-history = Hanes Sesiwn
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Dangos data hanes sesiwn
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Dyw diagram hanes y sesiwn ddim ar gael
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Dyw'r targed ddim yn cefnogi dangos diagramau hanes sesiwn
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Eicon rhybuddio

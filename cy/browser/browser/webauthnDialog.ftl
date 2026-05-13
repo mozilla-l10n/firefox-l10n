@@ -76,3 +76,13 @@ webauthn-allow = Caniatáu
     .accesskey = C
 webauthn-block = Rhwystro
     .accesskey = R
+webauthn-continue = Parhau
+    .accesskey = P
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = Mae { $origin } am greu cyfrinallwedd ar gyfer { $rpId }.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = Mae { $origin } am ddefnyddio cyfrinallwedd ar gyfer { $rpId }.

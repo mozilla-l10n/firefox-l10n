@@ -926,6 +926,8 @@ newtab-sports-widget-view-schedule =
     .label = Gweld yr amserlen
 newtab-sports-widget-follow-teams =
     .label = Dilyn timau
+newtab-sports-widget-view-matches =
+    .label = Gweld gemau
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =

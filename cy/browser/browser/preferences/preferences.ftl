@@ -222,6 +222,10 @@ preferences-profile-to-copy =
 # to make a copy of that profile.
 preferences-copy-profile-select = Dewis proffil
 preferences-copy-profile-button = Copïo
+tabs-browsing-section =
+    .heading = Tabiau a phori
+pane-tabs-browsing-title = Tabiau a phori
+    .title = { pane-tabs-browsing-title }
 tabs-group-header2 =
     .label = Tabiau
 tabs-opening-heading =
@@ -266,16 +270,25 @@ confirm-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = Rhybuddio y gall agor mwy nag un tab arafu { -brand-short-name }
     .accesskey = a
+switch-to-new-tabs-2 =
+    .label = Wrth agor dolenni neu gyfryngau mewn tab newydd, newidiwch iddo ar unwaith
+    .accesskey = W
 switch-to-new-tabs =
     .label = Wrth agor dolen, delwedd neu gyfrwng mewn tab newydd, symud yn syth iddo
     .accesskey = s
 show-tabs-in-taskbar =
     .label = Dangos rhagolwg tab ym mar tasgau Windows
     .accesskey = D
+browser-containers-enabled-2 =
+    .label = Defnyddio Tabiau Cynhwysydd
+    .accesskey = D
 browser-containers-enabled =
     .label = Galluogi Tabiau Cynwysyddion
     .accesskey = G
 browser-containers-learn-more = Darllen rhagor
+browser-containers-settings-2 =
+    .label = Rheoli gosodiadau
+    .accesskey = R
 browser-containers-settings =
     .label = Gosodiadau…
     .accesskey = G
@@ -340,6 +353,8 @@ browser-layout-vertical-tabs2 =
 browser-layout-show-sidebar2 =
     .label = Dangos y bar ochr
     .description = Cael mynediad cyflym at nodau tudalen, tabiau o'ch ffôn, sgwrsfotiau AI a mwy yn gyflym heb adael eich prif olwg.
+page-navigation-group =
+    .label = Llywio tudalen
 browser-layout-header = Cynllun Porwr
 browser-layout-horizontal-tabs =
     .label = Tabiau llorweddol
@@ -833,6 +848,10 @@ performance-default-content-process-count =
     .label = { $num } (rhagosodiad)
 performance-group =
     .label = Perfformiad
+performance-use-recommended-settings-checkbox-2 =
+    .label = Defnyddio gosodiadau perfformiad sy'n cael eu hargymell
+    .description = Mae'r gosodiadau wedi eu haddasu ar gyfer eich caledwedd a system weithredu.
+    .accesskey = g
 
 ## Accessibility page
 
@@ -867,6 +886,11 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = Chwilio am destun wrth i mi gychwyn teipio
     .accesskey = d
+settings-media-group =
+    .label = Cyfrwng
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Defnyddio Llun-mewn-Llun
+    .accesskey = L
 browsing-picture-in-picture-toggle-enabled =
     .label = Galluogi rheolyddion fideo Llun-mewn-Llun
     .accesskey = G
@@ -877,6 +901,8 @@ browsing-picture-in-picture-learn-more = Darllen rhagor
 browsing-media-control =
     .label = Rheoli cyfryngau trwy fysellfwrdd, penset neu ryngwyneb rhithwir
     .accesskey = t
+recommendations-group =
+    .label = Argymhellion
 browsing-media-control-learn-more = Darllen rhagor
 browsing-cfr-recommendations =
     .label = Argymell estyniadau wrth i chi bori
@@ -1279,6 +1305,7 @@ account-placeholder =
     .description = Mewngofnodwch i gadw'ch data'n breifat, wedi'i amgryptio a'i gydweddu ar draws dyfeisiau.
 account-sync-section =
     .heading = Cyfrif a chydweddu
+pane-account-sync-title = Cyfrif a chydweddu
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1737,6 +1764,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Cyfrineiriau a gosodiadau awtolenwi
+pane-passwords-autofill-title = Cyfrineiriau ac awtolenwi
+preferences-passwords-autofill-header =
+    .heading = Cyfrineiriau ac awtolenwi
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
