@@ -7,6 +7,7 @@
 
 site-data-settings-window =
     .title = Управувајте со колачињата и податоците за мрежните места
+site-data-settings-description = Следните мрежни места складираат колачиња и податоци за местото на Вашиот компјутер. { -brand-short-name } ги чува овие податоци со трајно складирање сè додека не ги избришете и ги брише податоците преку нетрајно складирање доколку е потребно да се ослободи простор.
 site-data-search-textbox =
     .placeholder = Пребарувај мрежни места
     .accesskey = С
@@ -46,4 +47,8 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Отстрани
 site-data-removing-header = Остранување на колачиња и податоци за мрежното место
+site-data-removing-desc = Отстранувањето на колачиња и податоци од местото може да Ве одјави од мрежните места. Дали сте сигурни дека сакате да ги направите промените?
+# Variables:
+#   $baseDomain (String) - The single domain for which data is being removed
+site-data-removing-single-desc = Отстранувањето на колачиња и податоци од местото може да Ве одјави од мрежните места. Дали сте сигурни дека сакате да ги отстраните колачињата и податоците за <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Колачињата и податоците за следните мрежни места ќе бидат отстранети
