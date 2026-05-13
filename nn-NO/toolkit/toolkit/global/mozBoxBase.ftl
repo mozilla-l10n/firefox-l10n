@@ -5,8 +5,8 @@
 moz-box-link-anchor =
     .title = Blir opna i ei ny fane
 moz-box-item-reorder-handle =
-    .aria-label = Endre rekkjefølga på elementet ved hjelp av Ctrl+Shift+Pil opp og Ctrl+Shift+Pil ned
+    .aria-label = Endre rekkjefølgja på elementet ved å bruke Ctrl+Shift+Pil opp eller Ctrl+Shift+Pil ned
 # Variables:
 #   $item (string) - The label of the moz-box-item being reordered.
 moz-box-item-reorder-handle-named =
-    .aria-label = Endre rekkefølgja til elementet { $item } med tastane Ctrl+Shift+Opppil og Ctrl+Shift+Nedpil
+    .aria-label = Endre rekkjefølgja på { $item } ved å bruke Ctrl+Shift+Pil opp eller Ctrl+Shift+Pil ned
