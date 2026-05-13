@@ -839,6 +839,10 @@ performance-default-content-process-count =
     .label = { $num } (standaard)
 performance-group =
     .label = Prestaties
+performance-use-recommended-settings-checkbox-2 =
+    .label = Aanbevolen prestatie-instellingen gebruiken
+    .description = Deze instellingen zijn aangepast voor uw hardware en besturingssysteem.
+    .accesskey = A
 
 ## Accessibility page
 
@@ -1747,6 +1751,8 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Instellingen voor wachtwoorden en automatisch invullen
 pane-passwords-autofill-title = Wachtwoorden en automatisch invullen
 preferences-passwords-autofill-header =
     .heading = Wachtwoorden en automatisch invullen
