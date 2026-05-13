@@ -1278,6 +1278,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Синхрондалған беттер
     .tooltiptext = Басқа құрылғылардан беттерді көрсету
+toolbar-button-send-tab =
+    .label = Бетті жіберу
+    .tooltiptext = Ағымдағы бетті басқа құрылғыға жіберу
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1490,6 +1493,9 @@ reset-pbm-panel-confirm-button =
     .label = Сессия деректерін өшіру
     .accesskey = ш
 reset-pbm-panel-complete = Жекелік шолу деректері өшірілді
+reset-pbm-toolbar-button2 =
+    .label = Жекелік сессияны тазарту
+    .tooltiptext = Жекелік сессияны тазарту
 
 ## Autorefresh blocker
 

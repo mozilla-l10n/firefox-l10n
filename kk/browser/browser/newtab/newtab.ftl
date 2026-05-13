@@ -906,6 +906,8 @@ newtab-sports-widget-view-schedule =
     .label = Кестені қарау
 newtab-sports-widget-follow-teams =
     .label = Командаларға жазылу
+newtab-sports-widget-view-matches =
+    .label = Матчтарды қарау
 # Variables:
 #   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
 newtab-sports-widget-follow-teams-title =
