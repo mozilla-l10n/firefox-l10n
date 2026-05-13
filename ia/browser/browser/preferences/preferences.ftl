@@ -1744,6 +1744,9 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+pane-passwords-autofill-title = Contrasignos e compilation automatic
+preferences-passwords-autofill-header =
+    .heading = Contrasignos e compilation automatic
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
