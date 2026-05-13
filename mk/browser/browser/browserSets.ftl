@@ -57,6 +57,13 @@ save-page-shortcut =
     .key = s
 page-source-shortcut =
     .key = u
+# This should match the Option+Command keyboard shortcut letter that Safari
+# and Chrome use for "View Source" on macOS. `page-source-shortcut` above
+# is Firefox's official keyboard shortcut shown in the GUI.
+# Safari variant is an alias provided for the convenience of Safari and Chrome
+# users on macOS. See bug 1398988.
+page-source-shortcut-safari =
+    .key = U
 page-info-shortcut =
     .key = i
 print-shortcut =
@@ -72,14 +79,31 @@ nav-reload-shortcut =
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+ai-chatbot-sidebar-shortcut =
+    .key = X
+toggle-sidebar-shortcut =
+    .key = Z
 history-show-all-shortcut =
     .key = H
+history-show-all-shortcut-mac =
+    .key = Y
 history-sidebar-shortcut =
     .key = h
 full-screen-shortcut =
     .key = f
+reader-mode-toggle-shortcut-windows =
+    .keycode = VK_F9
 reader-mode-toggle-shortcut-other =
     .key = R
+picture-in-picture-toggle-shortcut-mac =
+    .key = ]
+# Pick the key that is commonly present
+# in your locale keyboards above the
+# `picture-in-picture-toggle-shortcut-mac` key.
+picture-in-picture-toggle-shortcut-mac-alt =
+    .key = { "}" }
+picture-in-picture-toggle-shortcut =
+    .key = ]
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -90,8 +114,18 @@ bookmark-this-page-shortcut =
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
+bookmark-show-library-shortcut =
+    .key = O
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
 bookmark-show-sidebar-shortcut =
     .key = b
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-toolbar-shortcut =
+    .key = B
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
@@ -99,6 +133,10 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+full-zoom-reduce-shortcut-alt-a =
+    .key = _
+full-zoom-reduce-shortcut-alt-b =
+    .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =
