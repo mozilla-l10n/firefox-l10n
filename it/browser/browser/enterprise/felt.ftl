@@ -35,6 +35,9 @@ felt-browser-error-sso-timeout2 =
     .message = Riprovare o contattare l’amministratore se il problema persiste.
 felt-browser-error-multiple-crashes2 =
     .heading = { -brand-short-name } si è bloccato più volte
+felt-browser-error-launch-failure =
+    .heading = Impossibile avviare { -brand-short-name }
+    .message = Contattare l’amministratore se il problema persiste.
 
 ## Logout messages
 
