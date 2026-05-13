@@ -1280,6 +1280,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ
     .tooltiptext = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਾਓ
+toolbar-button-send-tab =
+    .label = ਟੈਬ ਨੂੰ ਭੇਜੋ
+    .tooltiptext = ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1492,6 +1495,9 @@ reset-pbm-panel-confirm-button =
     .label = ਸ਼ੈਸ਼ਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
     .accesskey = D
 reset-pbm-panel-complete = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ
+reset-pbm-toolbar-button2 =
+    .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਓ
+    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਓ
 
 ## Autorefresh blocker
 
