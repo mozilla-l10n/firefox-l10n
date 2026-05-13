@@ -70,3 +70,11 @@ webauthn-block = Blokeatu
     .accesskey = B
 webauthn-continue = Jarraitu
     .accesskey = r
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } domeinuak sarbide-gakoa sortu nahi du { $rpId } domeinurako.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } domeinuak sarbide-gakoa erabili nahi du { $rpId } domeinurako.

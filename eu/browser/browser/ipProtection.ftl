@@ -31,12 +31,17 @@ ipprotection-feature-introduction-description-captive-portal = Nabigatu babes es
 ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
 ipprotection-feature-introduction-button-secondary-no-thanks = Ez, eskerrik asko
+ipprotection-feature-introduction-button-secondary-remove = Kendu VPNa tresna-barratik
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Aukeratu non erabiltzen duzun VPNa
 ipprotection-site-settings-callout-subtitle = Desaktibatu VPNa gune jakinetarako eta gogoratu egingo dugu zure hurrengo bisitan.
 ipprotection-site-settings-callout-button = Ulertuta
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Berria: aldatu zure kokapena
 
 ## Panel
 
@@ -73,6 +78,18 @@ ipprotection-button-turn-vpn-on = Aktibatu VPNa
 # Button while VPN is connecting
 ipprotection-button-connecting = Aktibatzen…
 
+## Location controls
+
+ipprotection-recommended-location-badge = BERRIA
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Kokapena: { $country }
+ipprotection-locations-subview =
+    .title = Aukeratu kokapena
+ipprotecion-locations-subview-recommended-label = Gomendatua
+ipprotection-locations-subview-recommended-description = Kokapen azkarrena bilatzen du
+ipprotection-locations-subview-promo-button = Eskuratu { -mozilla-vpn-brand-name }
+
 ## VPN paused state
 
 ipprotection-connection-status-paused-title = VPNa pausatuta dago
@@ -82,6 +99,10 @@ ipprotection-connection-status-paused-description = Zure VPN datuen { $maxUsage 
 upgrade-vpn-title = Lortu babes estra nabigatzaileaz haratago
 upgrade-vpn-description = Aukeratu zure VPN kokapena, erabili VPNa zure aplikazio guztietarako eta 5 gailu arte, eta ibili seguru edozein saretan, bai etxean edo Wi-Fi publikoan.
 upgrade-vpn-button = Probatu { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-1 = VPNa pausatuta dago
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. Sarbidea datorren hilabetean berrezarriko da.
 
 ## Messages and errors
 
@@ -208,6 +229,12 @@ vpn-paused-alert-title = VPNa pausatuta dago
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. VPN sarbidea datorren hilabetean berrezarriko da.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Zure VPN datuen { $maxUsage } GB guztiak erabili dituzu. Sarbidea datorren hilabetean berrezarriko da.
+vpn-error-page-continue-description = Aukeratu nola jarraitu VPNrik gabe
+vpn-error-page-keep-browsing = Jarraitu saio honetan nabigatzen
+vpn-error-page-new-session = Hasi saio berria
 vpn-paused-alert-close-tabs-button = Itxi fitxa guztiak
 vpn-paused-alert-continue-wo-vpn-button = Jarraitu VPNrik gabe
 vpn-error-alert-title = VPNa ez dabil oraintxe bertan.

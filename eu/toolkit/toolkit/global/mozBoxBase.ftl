@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Fitxa berrian irekitzen du
+moz-box-item-reorder-handle =
+    .aria-label = Aldatu elementuaren ordena Ctrl+Shift+GeziaGora edo Ctrl+Shift+GeziaBehera erabiliz
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Aldatu { $item } elementuaren ordena Ctrl+Shift+GeziaGora edo Ctrl+Shift+GeziaBehera erabiliz
