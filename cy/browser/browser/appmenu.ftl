@@ -273,7 +273,7 @@ appmenu-help-exit-troubleshoot-mode =
 
 appmenu-help-report-deceptive-site =
     .label = Adrodd am wefan twyllodrus…
-    .accesskey = t
+    .accesskey = A
 appmenu-help-not-deceptive =
     .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t

@@ -360,8 +360,8 @@ menu-help-switch-device =
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
-    .label = Adrodd am wefan twyllodrus…
-    .accesskey = t
+    .label = Adrodd am Wefan Twyllodrus…
+    .accesskey = A
 menu-help-not-deceptive =
     .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t
