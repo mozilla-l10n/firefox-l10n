@@ -68,3 +68,13 @@ webauthn-allow = Рұқсат ету
     .accesskey = а
 webauthn-block = Бұғаттау
     .accesskey = б
+webauthn-continue = Жалғастыру
+    .accesskey = л
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-create-header = { $origin } { $rpId } үшін қол жеткізу кілтін жасағысы келеді.
+# Variables:
+#   $origin (String): the domain of the site making the request
+#   $rpId (String): the related domain the passkey is associated with
+webauthn-related-origin-use-header = { $origin } { $rpId } үшін қол жеткізу кілтін пайдаланғысы келеді.

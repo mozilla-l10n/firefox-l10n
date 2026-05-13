@@ -879,6 +879,9 @@ browsing-search-on-start-typing =
     .accesskey = т
 settings-media-group =
     .label = Мультимедиа
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Суреттегі суретті қолдану
+    .accesskey = о
 browsing-picture-in-picture-toggle-enabled =
     .label = Суреттегі сурет видеоның басқару пернелерін іске қосу
     .accesskey = е
@@ -889,6 +892,8 @@ browsing-picture-in-picture-learn-more = Көбірек білу
 browsing-media-control =
     .label = Медианы пернетақта, гарнитура немесе виртуалды интерфейс арқылы басқару
     .accesskey = в
+recommendations-group =
+    .label = Ұсыныстар
 browsing-media-control-learn-more = Көбірек білу
 browsing-cfr-recommendations =
     .label = Шолу кезінде кеңейтулерді ұсыну
@@ -1287,6 +1292,7 @@ account-placeholder =
     .description = Деректеріңіздің құпиялығын, шифрленуін және құрылғылар арасында синхрондалуын қамтамасыз ету үшін жүйеге кіріңіз.
 account-sync-section =
     .heading = Тіркелгі және синхрондау
+pane-account-sync-title = Тіркелгі және синхрондау
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -1745,6 +1751,11 @@ addresses-no-addresses-stored-message =
 address-moz-box-item =
     .label = { $name }
     .description = { $address }
+category-passwords-autofill =
+    .tooltiptext = Парольдер және автотолтыру параметрлері
+pane-passwords-autofill-title = Парольдер және автотолтыру
+preferences-passwords-autofill-header =
+    .heading = Парольдер және автотолтыру
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:

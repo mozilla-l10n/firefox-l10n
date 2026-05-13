@@ -117,6 +117,10 @@ sidebar-item-session-history = Сессия тарихы
 # Entry in the Session History diagram
 session-history-entry-info-button-title =
     .title = Сессия тарихының деректерін көрсету
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = Сеанс тарихының диаграммасы қолжетімді емес
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = Мақсатты объект сеанс тарихының диаграммаларын көрсетуді қолдамайды
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ескерту таңбашасы

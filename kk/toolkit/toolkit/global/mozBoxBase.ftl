@@ -4,3 +4,9 @@
 
 moz-box-link-anchor =
     .title = Жаңа бетте ашылады
+moz-box-item-reorder-handle =
+    .aria-label = Элементті Ctrl+Shift+ArrowUp немесе Ctrl+Shift+ArrowDown пернелерін пайдаланып қайта реттеу
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = { $item } элементті Ctrl+Shift+ArrowUp немесе Ctrl+Shift+ArrowDown пернелерін пайдаланып қайта реттеу
